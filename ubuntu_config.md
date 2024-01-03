@@ -111,13 +111,12 @@ sudo apt install libgsettings-qt1
 - install
 
 # Softwares
+- git
 - VLC
 - OBS
-- Git Kraken
 - Eudic
 - Tg Desktop
 - Dingtalk
-
 
 
 
