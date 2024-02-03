@@ -100,8 +100,15 @@ cpp.cpp
 oi,github,recreation...
 folders todo,tools,blogs,...
 ```
-- exs adguard lulutranslate clearnewtab justblack tampermonkey
+- exs adguard lulutranslate justblack tampermonkey clearnewtab
 - exs `allow in incognito`
+- exs settings
+```
+adguard 
+- ad_rules.txt
+lulutranslate 
+- press `alt` to translate
+```
 
 # code
 - welcome_page hidden
