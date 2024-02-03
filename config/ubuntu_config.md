@@ -107,7 +107,7 @@ folders todo,tools,blogs,...
 adguard 
 - ad_rules.txt
 lulutranslate 
-- press `alt` to translate
+- press `shift` to translate
 ```
 
 # code
