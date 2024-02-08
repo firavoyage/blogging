@@ -18,7 +18,7 @@ trapping-rain-water
 - pre: leftmax[n],rightmax[n]
 - dp[i]=min(lm[i],rm[i])-a[i]
 
-- optimize useless calc - replace with two pointers
+- optimize - replace with two pointers
 
 
 ```

@@ -6,16 +6,18 @@ pre - presenting without focusing on styling
 pepper - opensource streaming
 float - the music player of solitude
 
-fltr - the image methods list
-svgify - calc the paths of an img
 materialsvg - svg editor with material design
+svgify - calc the paths of an img
+fltr - the image methods list
 
 timeln - home for your memories & discoveries
 
 trkr - the reader of anything
-blogapis - opensource blogging
+bloggingapis - one format for all the blogging sites
 
-materialgen - text generate img made simple by model libraries
+materialgen - text generate img made simple with model libraries
+
+gi2d - retro treasure hunting gameplay in teyvat
 
 intuitive_algorithm - way to present algorithm
 kawaii_oi - the adorable oi tut qwq
