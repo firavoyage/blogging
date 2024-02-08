@@ -1,3 +1,9 @@
+cd Music
+git pull e master
+git add .
+git commit -m '.'
+git push e
+cd ..
 cd Documents
 cd blogging
 git pull e master
