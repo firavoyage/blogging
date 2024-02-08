@@ -15,7 +15,7 @@
     - 4.3版本开始玩
     - 还有15个小月亮 > 草本 绝缘本
   - quests
-    - archon: fontaine
+    - archon: foutaine
     - world: done a lot
   - teams
     - etenity(shogun xiangling bennet xingqiu/barbara) wisdom(nahida xingqiu kuki)
