@@ -90,9 +90,6 @@ cpp.cpp
 - tab 2spaces
 - line_nums & status_bar hidden
 
-# image viewer
-- smooth off
-
 # chromium
 - sys_title_bar hidden
 - add bookmarks: 
@@ -111,22 +108,22 @@ lulutranslate
 ```
 
 # code
-- welcome_page hidden
+- welcome_page hidden, activity & tab & status & menu bar hidden, minimap hidden
 - autosave
-- activity & tab & status & menu bar hidden
-- minimap hidden
-- font "fira code"
-- workspace_trust `/home`
-- g++ `sudo apt install g++`
-- exs atom-style code-runner idea-shortcuts
+- font-family `'Fira Code', 'Source Han Serif CN', monospace`
+- workspace_trust `/`
+- install g++
 ```
-dont install useless exs like 
-- ms cpp plugin
-- cmake
+sudo apt install g++
 ```
-- exs_code-runner: run_in_ter auto_focus_ter
-- exs_code-runner: filename in chinese ok
+- install extensions `atom-style code-runner idea-shortcuts`
+- code-runner settings
+  - run in terminal
+  - auto focus terminal
+  - chinese support
 ```
+// in settings.json
+// chinese file name ok
 "code-runner.executormap": {
   // "cpp": "cd $dir && g++ $filename -o $filenamewithoutext && $dir$filenamewithoutext",
   "cpp": "cd $dir && g++ \"$filename\" -o \"$filenamewithoutext\" && \"$dir$filenamewithoutext\"",
@@ -134,6 +131,8 @@ dont install useless exs like
 ```
 - shortcuts
 ```
+// install ex `idea-shortcuts` first
+
 open_side_bar ctrl b
 open_explorer ctrl shift e
 open_ex ctrl shift x
@@ -146,9 +145,8 @@ open_containing_folder ctrl shift o
 run_code ctrl r
 stop_running ctrl e
 
-dup ctrl d
+dup_line ctrl d
 insert_line shift enter
-comment ctrl /
 show_para_hints ctrl p
 ```
 
@@ -250,6 +248,15 @@ sudo apt install libfontconfig-dev
 - exe `open with wine windows program loader`
 - delete a program `/home/fira/.local/share/applications/`
 
+# obs
+- source
+  - mic/aux(pulseaudio)
+  - screen capsule(pipewire)
+  - desktop audio
+- setting/video
+  - output resolution 2560x1600
+  - frame rate 60fps
+
 # shell
 - zsh `sudo apt install zsh`
 - install oh-my-zsh
@@ -258,7 +265,6 @@ sudo apt install libfontconfig-dev
 # softwares
 - virtualbox
 - vlc
-- obs
 - eudic
 - telegram desktop
 - dingtalk
