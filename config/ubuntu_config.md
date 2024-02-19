@@ -234,9 +234,22 @@ show input method info off
 - junk settings
 
 # v2raya
-- dependence `sudo apt install v2ray`
+- install dependence `sudo apt install v2ray`
 - login: name f pw firafira
 - proxy only gfwlist
+- free sub
+```
+//change domain with a gh mirror
+
+//v2rayfree
+https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
+//freefq
+https://raw.githubusercontent.com/freefq/free/master/v2
+
+//mirrors
+- raw.staticdn.net
+- github.com.cnpmjs.org
+```
 
 # wine
 - install nessary libraries

@@ -28,6 +28,14 @@ charspainter - imgs2ascii
 arc++ - a cpp dialect with simplified syntax
 vygjs - a rewrite to document apis
 
+# Tools
+Luogu
+Codeforces
+Git
+Code
+Chrome
+Ubuntu
+
 # Love
 Antennapod
 VLC
