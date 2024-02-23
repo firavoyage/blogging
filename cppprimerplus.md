@@ -1,15 +1,5 @@
 ```>
-these days i was reading the book
-cpp primer plus
-
-it's quite thick
-most of the contents are not so important
-
-followings are what it's talking about
-```
-
-```
-// you should add `;` after each statement
+the summary of cpp primer plus
 ```
 
 # statements
