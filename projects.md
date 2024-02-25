@@ -1,32 +1,54 @@
 # Projects
-fira - the code editor of solitude
-para - blogging in solitude
-pre - presenting without focusing on styling
+- `voyage` the code editor of solitude
+- `para` blogging in solitude
+- `pre` presenting without focusing on styling
 
-pepper - opensource streaming
-float - the music player of solitude
+- `pepper` opensource streaming
+- `float` the music player of solitude
 
-materialsvg - svg editor with material design
-svgify - calc the paths of an img
-fltr - the image methods list
+- `materialsvg` svg editor with material design
+  - `svgify` calc the paths of an img
+  - `fltr` the image methods list
 
-timeln - home for your memories & discoveries
+- `timeln` home for your memories & discoveries
 
-trkr - the reader of anything
-bloggingapis - one format for all the blogging sites
+- `trkr` the reader of anything
+  - `blog.json` one json format for all the blogging sites
 
-materialgen - text generate img made simple with model libraries
+- `materialgen` text generate img quickly offline
+powered by live2d libraries
 
-gi2d - retro treasure hunting gameplay in teyvat
+- `gi2d` retro treasure hunting gameplay from teyvat
 
-intuitive_algorithm - way to present algorithm
-kawaii_oi - the adorable oi tut qwq
-path_oi - the sorted oi problemlists
+- `intuitive_algorithm` powerful way to present algorithm
+- `kawaii_oi` the adorable oi tut qwq
+- `path_oi` the classified oi problemlists
 
-charspainter - imgs2ascii
+- `charspainter` imgs2ascii
 
-arc++ - a cpp dialect with simplified syntax
-vygjs - a rewrite to document apis
+- `arc++` a cpp dialect
+`;` auto complete
+`cout a b c` call a function
+`for i 1 10` macros
+...
+- `vyg.js` a rewrite to document apis
+picked out the important ones as `instructions`
+- `fira` base of a web app
+functions
+instructions
+resources
+application
+- `vizl` programming vizualization
+without learning any script syntax you can
+write a simple automatic script
+build an app intuitively
+it's the vizual programming app for the amateurs
+can be compiled to whatever you want
+javascript python lisp
+except cpp and rust that arent explainable
+inspired by
+`apple shortcuts` simple automatic script
+`scratch` game builder without coding
 
 # Tools
 Luogu
