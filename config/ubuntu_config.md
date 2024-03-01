@@ -240,19 +240,27 @@ show input method info off
 
 # v2raya
 - install dependence `sudo apt install v2ray`
-- login: name f pw firafira
+- login: name `f` pw `firafira`
 - proxy only gfwlist
-- free sub
+- sub
 ```
-//change domain with a gh mirror
+//you can search for lastest infomation qwq...
+//change the domain with a mirror especially if you are currently in chinaml or india
 
 //v2rayfree
 https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
-//freefq
+
+//*freefq
 https://raw.githubusercontent.com/freefq/free/master/v2
+
+//repos
+https://github.com/mksshare/mksshare.github.io
+https://github.com/Pawdroid/Free-servers
+https://github.com/UmeLabs/node.umelabs.dev
 
 //mirrors
 - raw.staticdn.net
+- raw.gitmirror.com
 - github.com.cnpmjs.org
 ```
 
