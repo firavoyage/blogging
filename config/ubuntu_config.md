@@ -257,7 +257,6 @@ https://raw.githubusercontent.com/freefq/free/master/v2
 https://github.com/adiwzx/freenode/
 https://github.com/mksshare/mksshare.github.io
 https://github.com/Pawdroid/Free-servers
-https://github.com/UmeLabs/node.umelabs.dev
 
 //mirrors
 - raw.staticdn.net
