@@ -87,8 +87,12 @@ cpp.cpp
 
 # gedit
 - autosave
-- tab 2spaces
+- tab = 2spaces
 - line_nums & status_bar hidden
+- font `fira code`
+
+# image viewer
+- smooth while zoom out
 
 # chromium
 - sys_title_bar hidden
@@ -277,13 +281,22 @@ sudo apt install libfontconfig-dev
 - set def `sudo chsh -s /bin/zsh`
 
 # softwares
-- virtualbox
-- vlc
-- eudic
-- telegram desktop
-- dingtalk
+- apt
+  - nodejs
+- snap
+  - virtualbox
+  - vlc
+  - telegram desktop
+- web site
+  - dingtalk
+  - eudic
 
-
-
+# .the_apps_i_love
+- ubuntu
+- chrome
+- git
+- code
+- luogu
+- codeforces
 
 
