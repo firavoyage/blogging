@@ -254,6 +254,7 @@ https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
 https://raw.githubusercontent.com/freefq/free/master/v2
 
 //repos
+https://github.com/adiwzx/freenode/
 https://github.com/mksshare/mksshare.github.io
 https://github.com/Pawdroid/Free-servers
 https://github.com/UmeLabs/node.umelabs.dev
