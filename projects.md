@@ -1,5 +1,4 @@
 # Projects
-- `voyage` the code editor of solitude
 - `para` blogging in solitude
 - `pre` presenting without focusing on styling
 
@@ -11,6 +10,8 @@
   - `fltr` the image methods list
 
 - `timeln` home for your memories & discoveries
+
+- `fav` the hackable internet favlist
 
 - `trkr` the reader of anything
   - `blog.json` one json format for all the blogging sites
@@ -27,36 +28,30 @@ powered by live2d libraries
 - `charspainter` imgs2ascii
 
 - `arc++` a cpp dialect
-`;` auto complete
-`cout a b c` call a function
-`for i 1 10` macros
-...
-- `vyg.js` a rewrite to document apis
-picked out the important ones as `instructions`
-- `fira` base of a web app
+- `vyg` way to command the browser
+some browser apis are too complex
+here is the instruction list of all you need
+every item is an integration of some basic apis
+such as `localStorage` `XMLHttpRequest`
+- `f.js` the base of an app
 functions
 instructions
 resources
 application
-- `vizl` programming vizualization
-without learning any script syntax you can
-write a simple automatic script
-build an app intuitively
-it's the vizual programming app for the amateurs
-can be compiled to whatever you want
-javascript python lisp
-except cpp and rust that arent explainable
-inspired by
-`apple shortcuts` simple automatic script
-`scratch` game builder without coding
+- `voyage` element templates
+design a theme without css knowledge
+create the elements of an app
+sync with `f.js`
+- `vizl` visualized programming
+without learning any script syntax you can write a simple automatic script
 
 # Tools
+Ubuntu
+Chrome
+Code
+Git
 Luogu
 Codeforces
-Git
-Code
-Chrome
-Ubuntu
 
 # Love
 Antennapod

@@ -67,12 +67,15 @@ ref `https://linuxconfig.org/how-to-disable-keyring-popup-on-ubuntu`
 - auto delete files after 30days
 
 # fonts
-- from gh/firavoyage/fonts
-- install
+- install from gh/firavoyage/fonts
 - change default fonts
 ```
 /etc/fonts/conf.d/64-language-selector-prefer.conf
-add to prefer
+put the default font to the top
+
+Noto Sans CJK SC
+Noto Serif CJK SC
+Fira Code
 ```
 
 # software&updates
