@@ -1,0 +1,5 @@
+git checkout --orphan latest_branch
+git add .
+git commit -m "."
+git branch -D master
+git branch -m master
