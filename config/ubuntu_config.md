@@ -38,7 +38,7 @@ sudo localectl set-locale lc_time=en_us.utf8
 ```
 sudo visudo `fira all=(all) nopasswd:all`
 
-// admin:///etc/polkit-1/localauthority/50-local.d/nopw.pkla
+// edit admin:///etc/polkit-1/localauthority/50-local.d/nopw.pkla
 [no password prompt]
 identity=unix-group:sudo
 action=*
@@ -46,10 +46,10 @@ resultactive=yes
 ```
 - disable keyring auth popup
 ```
-ref `https://linuxconfig.org/how-to-disable-keyring-popup-on-ubuntu`
-- open passwords and keys
-- change pw
-- enter old pw
+// ref `https://linuxconfig.org/how-to-disable-keyring-popup-on-ubuntu`
+- open `passwords and keys`
+- select `change passwd`
+- enter old passwd
 - leave it blank & enter
 ```
 
@@ -101,15 +101,22 @@ cpp.cpp
 - sys_title_bar hidden
 - add bookmarks: 
 ```
-oi,github,recreation...
-folders todo,tools,blogs,...
+// git/firavoyage/blogging/config/chromium_bookmarks.html
 ```
-- exs adguard lulutranslate justblack tampermonkey clearnewtab
-- exs `allow in incognito`
-- exs settings
+- add extensions
+```
+adguard
+lulutranslate
+tampermonkey
+clear new tab
+justblack
+```
+- extensions `allow in incognito`
+- extension settings
 ```
 adguard 
 - ad_rules.txt
+
 lulutranslate 
 - press `alt l` to open
 - press `alt t` to translate
@@ -242,13 +249,19 @@ show input method info off
 - junk settings
 
 # v2raya
-- install dependence `sudo apt install v2ray`
-- login: name `f` pw `firafira`
-- proxy only gfwlist
-- sub
+- install dependence 
 ```
-//you should search for lastest infomation qwq...
-//change the domain with a mirror especially if you are currently in chinaml or india
+sudo apt install v2ray
+```
+- login 
+```
+name `f` pw `firafira`
+```
+- proxy only gfwlist
+- free nodes
+```
+//you can search for lastest infomation qwq...
+//change the domain with a mirror especially when you are in china mainland or india
 
 //repos
 https://github.com/aiboboxx/v2rayfree
