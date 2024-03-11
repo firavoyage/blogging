@@ -17,21 +17,30 @@
   - `blog.json` one json format for all the blogging sites
 
 - `materialgen` text generate img quickly offline
-powered by live2d libraries
+characters // svg & l2d library
+actions // positions & transforms
+styles // img filter
+backgrounds // grass sea sky etc
+- `simplechat` chat -> commands
+most things we've done in chatgpt were really simple
+a large model for nlp isnt needed
+search // weather price location music wikihow etc
+convert // img2text article2summary
+gen // img article voice animation etc
 
-- `gi2d` retro treasure hunting gameplay from teyvat
+- `gi2d` retro treasure hunting gameplay on teyvat
 
 - `intuitive_algorithm` powerful way to present algorithm
 - `kawaii_oi` the adorable oi tut qwq
-- `path_oi` the classified oi problemlists
+- `path_oi` the classified oi problemlist
 
 - `charspainter` imgs2ascii
 
 - `arc++` a cpp dialect
 - `vyg` way to command the browser
 some browser apis are too complex
-here is the instruction list of all you need
-every item is an integration of some basic apis
+there should be an instruction list of all you need
+combined these basic apis
 such as `localStorage` `XMLHttpRequest`
 - `f.js` the base of an app
 functions
