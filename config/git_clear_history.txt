@@ -3,4 +3,4 @@ git add .
 git commit -m "."
 git branch -D master
 git branch -m master
-git push -f e
+git push -f e master
