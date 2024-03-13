@@ -286,7 +286,7 @@ github.com.cnpmjs.org
 ```
 
 # wine
-- install nessary libraries
+- install necessary libraries
 ```
 sudo apt install libasound2-dev
 sudo apt install libfontconfig-dev
@@ -304,19 +304,27 @@ sudo apt install libfontconfig-dev
   - output resolution 2560x1600
   - frame rate 60fps
 
-# shell
+# eudic
+- dictionary
+```
+put en-en dict right after en-zh dict
+```
+
+# terminal
 - zsh `sudo apt install zsh`
 - install oh-my-zsh
 - set def `sudo chsh -s /bin/zsh`
 
 # softwares
-- apt
+- terminal -> apt
   - nodejs
-- snap
+  - wine
+- software store -> snap
   - virtualbox
   - vlc
+  - obs
   - telegram desktop
-- web site
+- chromium -> dl online
   - dingtalk
   - eudic
 
