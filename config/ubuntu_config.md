@@ -324,6 +324,8 @@ put en-en dict right after en-zh dict
   - vlc
   - obs
   - telegram desktop
+  - kolourpaint
+  - terminal-parrot
 - chromium -> dl online
   - dingtalk
   - eudic
