@@ -11,7 +11,7 @@ ubuntu config
 - select bg
 
 ## displays
-- nightlight `18 to 7`
+- nightlight `0 to 0`
 - desktop icons hidden `sudo apt install gnome-shell-extension-prefs`
 
 ## keyboard
@@ -281,8 +281,12 @@ https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub
 //mirrors
 raw.staticdn.net
 raw.gitmirror.com
-proxy.v2gh.com
+kkgithub.com
 github.com.cnpmjs.org
+proxy.v2gh.com
+hub.njuu.cf
+...
+
 ```
 
 # wine
@@ -326,6 +330,8 @@ put en-en dict right after en-zh dict
   - telegram desktop
   - kolourpaint
   - terminal-parrot
+  - shotcut
+  - inkscape
 - chromium -> dl online
   - dingtalk
   - eudic
