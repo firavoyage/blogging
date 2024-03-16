@@ -328,8 +328,8 @@ put en-en dict right after en-zh dict
   - vlc
   - obs
   - telegram desktop
-  - kolourpaint
   - terminal-parrot
+  - kolourpaint
   - shotcut
   - inkscape
 - chromium -> dl online
