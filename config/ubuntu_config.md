@@ -267,22 +267,19 @@ name `f` pw `firafira`
 https://github.com/aiboboxx/v2rayfree
 https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
 
-https://github.com/freefq/free
-https://raw.githubusercontent.com/freefq/free/master/v2
-
 https://github.com/adiwzx/freenode/
 https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.txt
-
-https://github.com/mksshare/mksshare.github.io
 
 https://github.com/Pawdroid/Free-servers
 https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub
 
+https://github.com/mksshare/mksshare.github.io
+
 //mirrors
 raw.staticdn.net
 raw.gitmirror.com
-kkgithub.com
 github.com.cnpmjs.org
+kkgithub.com
 proxy.v2gh.com
 hub.njuu.cf
 ...
