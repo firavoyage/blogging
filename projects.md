@@ -1,15 +1,22 @@
 # Projects
+
+## edit
 - `para` blogging in solitude
-- `pre` presenting without focusing on styling
+markdown,richtext available
+- `pre` presentation without focus on styling
+with markdown, use `\n-\n` to split frames
 
+## subscribe
 - `pepper` opensource streaming
-- `float` the music player of solitude
+- `float` music player of solitude
 
+## create
 - `materialsvg` svg editor with material design
   - `svgify` calc the paths of an img
   - `fltr` the image methods list
 
-- `timeln` home for your memories & discoveries
+- `timeln` put your memories & discoveries here
+simple,offline,import&export available
 
 - `fav` the hackable internet favlist
 
@@ -53,6 +60,11 @@ create the elements of an app
 sync with `f.js`
 - `vizl` visualized programming
 without learning any script syntax you can write a simple automatic script
+
+
+- pure math/algorithm
+纯度数学 | 纯度算法 | 纯门 | Fira|言序 | _firavoyage
+
 
 # Tools
 Ubuntu

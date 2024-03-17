@@ -8,7 +8,7 @@ ubuntu config
 - icon size max
 - trash hidden
 - remove some favs on the dock
-- select bg
+- select wallpaper(i prefer the jelly fish on black bg)
 
 ## displays
 - nightlight `0 to 0`
