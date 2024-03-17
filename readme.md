@@ -1,31 +1,26 @@
 ```
-@firavoyage (Fira|言序)
+_firavoyage (Fira|言序)
+
+me
+- birthday 20070917
+- live in shanghai china
 
 using c++ and html
+- writing some blogposts
+- programming some web apps
+- solving some oi problems
 
-writing some blogposts
-programming some web apps
-solving some oi problems
-```
-
-```
-texts below are my silly self intro written when i was naive
-
-@firavoyage(Fira|言序)
-- find me on github, codeforces...
-
-currently
-- making web apps with great simplicity
-- solving OI problems(im so weak qwq)
-- programming Code Exs("macro")
-- `cd projects.md`
-
-who am i
-- just a digital hoarder & (xp)gamer & oier & blogger
+who
+- currently a hs student
+- working on some creative ideas
+- digital hoarder(actually)
+- xp gamer(really?)
 - life-long learner
 
-?
-- check out my blog for further infomation
-
+find me on(`_` stands for wip)
+- video `bilibili` `_youtube` `_douyin` `_kuaishou`
+- blog `github` `_zhihu` `...`
+- work dir `github` `gitee` `telegram channel` `_cloud disks`
 ```
+
 

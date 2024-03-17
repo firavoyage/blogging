@@ -2,20 +2,38 @@
 ```
 突发奇想
 想做一套标准化的数学课
-<最佳实践:上海高中数学>
-<bot-gen sh hs math classes>
+<高中数学指导的唯一推荐实现>
+<bot-gen hs math courses>
+<纯门:纯度数学>
 
 my mission:
-创造一套高中数学课的统一标准
-任何人都可以参与制作
+创造一套高中数学课程的标准
+每个人都可以参与制作
+借助2024年的开源技术
+使得统一的观看体验成为可能
 (ref nat.org - moral duty)
 
 tools:
-ubuntu (ref gh/firavoyage/blogging/config/ubuntu_config.md)
-
+- `pre` markdown presentation
+- `v2t` use kawaii voice to read textbook
+- `obs` record screen
 
 other subjects:
-
+- `语文`
+只有思路和技巧
+没有标准答案
+可惜啊
+文学性与现代的考试制度
+似乎永远不能平衡
+- `英语`
+即使把内容翻译中文,也无法理解阅读的正确选项?
+即使老师鼓励,也不愿背单词,记短语?
+看来这并不是老师所能为之的
+- `小三门`
+我现在好像没什么喜欢的学科?
+- `结论`
+可能会扩展一些纯粹一点的学科吧
+比如`oi`,`web dev`
 
 大概今年(july 2024,shdjhs g1t2 to g2t1)暑假开始吧
 如果我没有被作业,电子产品和外出活动占据的话...
@@ -57,27 +75,78 @@ other subjects:
 没法安宁
 未来的恐惧(可预见的大学分级)
 能力的限制(学习方法,思维速度)
-外界的压力(高排名同学的眼光,老师的鼓励或刺激)
-使得他们许多为了不确定的目标努力
-只知道投入时间,以为是`全力以赴`
+外界的评价(高排名同学的眼光,老师的鼓励或刺激)
+使得他们被迫前进
+既想安身立命于此(不必每个人都有雄心壮志)
+又不能停下脚步(各种压力)
 然而
-无目标的
+> 无目标的努力 = 浪费时间 = 快乐 < 消遣电子产品 (~不等式秒了~)
+显然
+无目的的学习
+-> 基调是枯燥的
+无目的的使用电子产品
+-> 基调是活泼的
 
+//个人看法, 关闭评论
 ```
 
 3
 ```
-firavoyage喜欢的声线
+写了about_me.md
 
-- myself `?`
-- shdjhs g1 chinese teacher `csy` 
-- al `laffy 2`
-- al `taiho`
+包含
+学习生涯
+和
+我最喜欢的
+各种事物
+
+incl 
+school life &
+my fav list
 ```
 
 4
 ```
 为什么高中副科老师那么可怜
 
+以a学科举例
+一周一节课,40min
+一学期实际上课约15周
+总共统计约10h
+说白了
+随便一个周末两天
+原本躺床上打游戏的时间
+一天5h
+还可以适当休息
+至于高效的自由教育资源
+这个年代有太多了
 
+比喻的话
+一个学期下来
+大家都做了啥呢
+b老师建了桌子
+a老师大概就建了根木条吧
+为了提升水平
+还得思考木条上的一个个钉子的角度...
+真是可怜哦
+
+当然老师看上去
+并不见得可怜
+毕竟是站在学生的角度思考啦
+作为一种古老的职业
+个人的生活是可以很简单的
 ```
+
+5
+```
+android developer's skills
+- use webview, fullscreen display
+- create web api to let android status bar hidden
+- autosave indexdb data in phone storage
+- disable indexdb max size limit
+- enable cors requests, edit any request_headers
+```
+
+
+
+

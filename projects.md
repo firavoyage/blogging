@@ -1,6 +1,6 @@
 # Projects
 
-## edit
+## write
 - `para` blogging in solitude
 markdown,richtext available
 - `pre` presentation without focus on styling
@@ -14,15 +14,6 @@ with markdown, use `\n-\n` to split frames
 - `materialsvg` svg editor with material design
   - `svgify` calc the paths of an img
   - `fltr` the image methods list
-
-- `timeln` put your memories & discoveries here
-simple,offline,import&export available
-
-- `fav` the hackable internet favlist
-
-- `trkr` the reader of anything
-  - `blog.json` one json format for all the blogging sites
-
 - `materialgen` text generate img quickly offline
 characters // svg & l2d library
 actions // positions & transforms
@@ -35,36 +26,44 @@ search // weather price location music wikihow etc
 convert // img2text article2summary
 gen // img article voice animation etc
 
-- `gi2d` retro treasure hunting gameplay on teyvat
+## archive
+- `timeln` put your memories & discoveries here
+simple,offline,import&export available
 
-- `intuitive_algorithm` powerful way to present algorithm
+- `fav` the hackable internet favlist
+
+- `trkr` the reader of anything
+  - `blog.json` one json format for all the blogging sites
+
+## teach
+- `pure` standard of math courses
+纯度数学 | 纯度算法 | 纯门 | Fira|言序 | _firavoyage
+// ref `recollection_20240318.md`
 - `kawaii_oi` the adorable oi tut qwq
-- `path_oi` the classified oi problemlist
+  - `intuitive_algorithm` powerful way to present algorithm
+  - `path_oi` the classified oi problemlist
+  - `vizl` visualized programming
+  without learning any syntax you can write a simple automatic script
 
-- `charspainter` imgs2ascii
-
+## dev
 - `arc++` a cpp dialect
-- `vyg` way to command the browser
-some browser apis are too complex
-there should be an instruction list of all you need
-combined these basic apis
-such as `localStorage` `XMLHttpRequest`
-- `f.js` the base of an app
-functions
-instructions
-resources
-application
 - `voyage` element templates
 design a theme without css knowledge
 create the elements of an app
-sync with `f.js`
-- `vizl` visualized programming
-without learning any script syntax you can write a simple automatic script
+  - `f.js` the base of an app
+  functions
+  instructions
+  resources
+  application
+  - `vyg.js` way to command the browser
+  some browser apis are too complex
+  there should be an instruction list of all you need
+  combined these basic apis
+  such as `localStorage` `XMLHttpRequest`
 
-
-- pure math/algorithm
-纯度数学 | 纯度算法 | 纯门 | Fira|言序 | _firavoyage
-
+## snipplets
+- `charspainter` imgs2ascii
+- `gi2d` retro treasure hunting gameplay on teyvat
 
 # Tools
 Ubuntu

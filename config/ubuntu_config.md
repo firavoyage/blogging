@@ -59,6 +59,7 @@ resultactive=yes
 
 ## power
 - automatic screen brightness off
+- screen blank `5 min`
 
 ## printer
 - search for driver(`linux64 ij debian`) `https://in.canon/en/support/search`

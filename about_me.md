@@ -2,7 +2,8 @@
 
 20070917 borned in shanghai,china
 
-schools
+school life
+```
 forgot my memories before primary school...
 - huininglu no3 primary school
 - lida junior high school
@@ -23,17 +24,28 @@ law 27 + 30
 pe 30
 
 hs exams
-(ref /djhs_grades.md)
-
+(ref djhs_grades.md)
 ```
-my fav list
 
+my fav list
+```
 喜欢的学习内容:
-- math english japanese(everything noskill, just practice, never use my brain)
-- algorithm in c++(very boring without interactive courses)
+- math english duolingo_japanese(everything noskill, just practice, never use my brain)
+- algorithm in c++(difficult but interesting)
 - html(most of my fav practices are based on svg animation,three.js, quite difficult qwq...) 
 
-喜欢的游戏:二游(针对宅男设计的风格化手机游戏),gal(有剧情的二游)
+喜欢的声线:
+- myself `?`
+- shdjhs g1 chinese teacher `csy` 
+- al `laffy 2`
+- al `taiho`
+- bili `taffy`
+- bangumi `sukasuka`
+- gal `k sora`
+
+喜欢的游戏:
+- 二游(针对宅男设计的风格化手机游戏)
+- gal(有剧情的二游,可以建立更深的情感联系)
 
 理想的人生:
 > 悟已往之不谏 知来者之可追
