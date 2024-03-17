@@ -26,21 +26,23 @@ hs exams
 (ref /djhs_grades.md)
 
 ```
-things i ~once~ love... (~sorry for my poor english qwq~)
+my fav list
 
 喜欢的学习内容:
-- math english japanese
+- math english japanese(everything noskill, just practice, never use my brain)
 - algorithm in c++(very boring without interactive courses)
 - html(most of my fav practices are based on svg animation,three.js, quite difficult qwq...) 
+
 喜欢的游戏:二游(针对宅男设计的风格化手机游戏),gal(有剧情的二游)
-人生计划:
+
+的人生:
 > 悟已往之不谏 知来者之可追
 - 学习 平常心(不关心比我排名高的人)就好
-年级排名稳定
+年级位置稳定
 - 工作 平常心(不关心比我收入高的人)就好
 内容的话 希望可以学习做网页开发 实现一些有意义的设计
-至于那些需要大量思考的 只有年轻的时候能做 是长久不了的
+至于那些需要大量思考的 只有年轻的时候能做 注定长久不了哦
 - 晚年 平常心(不关心比我过的好的人)就好
-生活稳定
+生活心态稳定
 ```
 

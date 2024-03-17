@@ -60,7 +60,8 @@ other subjects:
 外界的压力(高排名同学的眼光,老师的鼓励或刺激)
 使得他们许多为了不确定的目标努力
 只知道投入时间,以为是`全力以赴`
-
+然而
+无目标的
 
 ```
 
@@ -68,8 +69,10 @@ other subjects:
 ```
 firavoyage喜欢的声线
 
-- myself(?)
-- shdjhsg1 chinese 
+- myself `?`
+- shdjhs g1 chinese teacher `csy` 
+- al `laffy 2`
+- al `taiho`
 ```
 
 4
