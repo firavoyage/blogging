@@ -30,31 +30,42 @@ hs exams
 my fav list
 ```
 喜欢的学习内容:
-- math english duolingo_japanese(everything noskill, just practice, never use my brain)
-- algorithm in c++(difficult but interesting)
-- html(most of my fav practices are based on svg animation,three.js, quite difficult qwq...) 
+- math 
+- english 
+- japanese on duolingo
+- algorithm in c++
+- html with f.js(layout),svg(2d animation),three.js(3d animation)
 
-喜欢的声线:
-- myself `?`
-- shdjhs g1 chinese teacher `csy` 
+喜欢的第三方声线:
+- my hs chinese teacher `csy` 
 - al `laffy 2`
 - al `taiho`
-- bili `taffy`
-- bangumi `sukasuka`
-- gal `k sora`
+- gi `nahida`
+- gi `xingqiu`
 
 喜欢的游戏:
-- 二游(针对宅男设计的风格化手机游戏)
-- gal(有剧情的二游,可以建立更深的情感联系)
+- 二游(令人热血沸腾的风格化游戏)
+- gal(以对话为基础的视觉小说)
 
-理想的人生:
+喜欢的人生态度:
 > 悟已往之不谏 知来者之可追
-- 学习 平常心(不关心比我排名高的人)就好
-年级位置稳定
-- 工作 平常心(不关心比我收入高的人)就好
-内容的话 希望可以学习做网页开发 实现一些有意义的设计
-至于那些需要大量思考的 只有年轻的时候能做 注定长久不了哦
-- 晚年 平常心(不关心比我过的好的人)就好
-生活心态稳定
+> 平常心 | 不争
+- 学习(不关心比我排名高的人)
+- 工作(不关心比我收入高的人)
+- 晚年(不关心比我过的好的人)
+
+喜欢的工作:
+可以利用纯度胜任的工作
+> 思考是不必要的 | 只需纯粹的技巧
+
+喜欢的动漫:
+sukasuka
+in solitude
+
+
+
 ```
+
+
+
 
