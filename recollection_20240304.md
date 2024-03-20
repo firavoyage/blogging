@@ -13,7 +13,8 @@ qwq
 2
 ```
 gi is so boring
-new week
+
+new week started
 what can i do?
 i can defeat weekly boss,complete repu quests,challenge the domain for artifacts
 i should complete four quests every day

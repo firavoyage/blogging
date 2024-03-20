@@ -17,10 +17,10 @@ ubuntu config
 ## keyboard
 - shortcuts
 ```
-close_window ctrl q
-home_folder super e
-screenshot prsc
-fullscreen f11
+close_window `ctrl q`
+home_folder `super e`
+screenshot `prsc`
+fullscreen `f11`
 ```
 
 ## multitasking

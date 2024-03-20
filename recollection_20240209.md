@@ -1,3 +1,4 @@
+1
 ```
 i really love playing gi
 everyday i make some new progress
@@ -8,67 +9,8 @@ in three parts:
 - characters developing
 ```
 
-# today
-- used 1000 original resins to get artifacts(for nahida & kuki)
-- finished `The Chasm` world quest
-- made two four-star weapons: `wood sword` `iron sword`(for bennet & kuki)
-
-# so far
-- my account reg in july 2021
-- start playing from nov 2023
-- now adventure rank 49
-
-## novel reading
-- archon
-  - currently at fontaine
-- story
-  - klee
-- world(remain)
-  - sacred sakura cleansing ritual
-  - tatara tales
-  - the moon-bathed deep
-  - khvarena of good and evil
-  - ... a lot of small quests
-
-## treasure hunting
-- collected all anemo&geo culus
-- exploration progress
+2
 ```
-mondstadt 64%
-liyue 48%
-inzakuma 17%
-sumeru 15%
-fontaine 19%
-```
-
-## characters developing
-- teams
-```
-etenity: shogun xiangling barbara bennet
-wisdom: nahida xingqiu kuki fira(dendro)
-```
-- weapons
-```
-prototype starglitter
-the catch(refine 2)
-favonius codex
-sapwood blade
-prototype rancour
-sacrificial fragments
-iron sting
-sacrificial sword
-
-eye of perception
-sacrificial bow
-the stringless(refine 2)
-snow-tombed starsilver
-the bell
-```
-- artifacts
-```
-shogun xiangling xingqiu | emblem
-barbara | maiden
-nahida fira | deepwood
-kuki | gilded
+wrote status_gi_20240209
 ```
 

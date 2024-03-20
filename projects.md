@@ -1,4 +1,4 @@
-# Projects
+# projects
 
 ## write
 - `para` blogging in solitude
@@ -37,8 +37,8 @@ simple,offline,import&export available
 
 ## teach
 - `pure` standard of math courses
-纯度数学 | 纯度算法 | 纯门 | Fira|言序 | _firavoyage
-// ref `recollection_20240318.md`
+纯度数学 | 纯度算法 | fira|言序 | _firavoyage
+// ref `recollection_20240317.md`
 - `kawaii_oi` the adorable oi tut qwq
   - `intuitive_algorithm` powerful way to present algorithm
   - `path_oi` the classified oi problemlist
@@ -46,64 +46,82 @@ simple,offline,import&export available
   without learning any syntax you can write a simple automatic script
 
 ## dev
-- `arc++` a cpp dialect
-- `voyage` element templates
+- `arc++` the ideal c++ syntax
+- `voyage` element templates creator
 design a theme without css knowledge
-create the elements of an app
-  - `f.js` the base of an app
-  functions
-  instructions
-  resources
-  application
+  - `fi.js` the base of an app
+  functions | calc
+  instructions | terminal commands
+  resources | requests and storage
+  application | components and data
   - `vyg.js` way to command the browser
   some browser apis are too complex
   there should be an instruction list of all you need
   combined these basic apis
-  such as `localStorage` `XMLHttpRequest`
+  such as `localstorage` `xmlhttprequest`
 
-## snipplets
+## snippets
 - `charspainter` imgs2ascii
 - `gi2d` retro treasure hunting gameplay on teyvat
 
-# Tools
-Ubuntu
-Chrome
-Code
-Git
-Luogu
-Codeforces
+# tools
+ubuntu
+chrome
+code
+git
+luogu
+codeforces
+fira
 
-# Love
-Antennapod
-VLC
-Tachiyomi
-Read3.0
+# love
+google_apps
+fira_apps
+
+## perceive
+antennapod
+vlc
+tachiyomi
+read3.0
 bilimiao
-MINE
-Tyranor
-Material_File
-Eudic
-Nekogram
-LibreTorrent
+mine
+tyranor
+
+## communicate
+nekogram
+libretorrent
 v2ray
 
-Ubuntu
-Code
-Git
-Luogu
-Codeforces
-Snapseed
-Geogebra
+## create
+ubuntu
+code
+git
+snapseed
+obs
+draw.io
+inkscape
+kolourpaint
+libreoffice
 
-OI_wiki
-Material_Design
-Tailwind Bootstrap
-Vue
-waifu2x
-
-royaleapi brawltimeninja
-liferestart
+## design
+material_design
+tailwind
+bootstrap
 wenyan-lang
 
-Waybackmachine
+## search
+oi_wiki
+royaleapi brawltimeninja
+waybackmachine
+eudic
+
+## learn
+duolingo
+luogu
+codeforces
+geogebra
+
+## use
+material_file
+fcitx5
+
 

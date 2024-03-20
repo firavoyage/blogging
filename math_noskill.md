@@ -1,12 +1,4 @@
-1
-```
-//alias: math noskill
-
-突然想要
-做一套标准化的数学课
 <纯度数学 | pure math>
-<math noskill>
-<bot-gen hs math courses>
 
 # mission
 to organize the world's knowledge
@@ -60,50 +52,3 @@ a=(a-b)+b,a-2b=(a-b)-b
 
 # ref 
 nat.org - moral duty
-```
-
-2
-```
-wrote meaningless time of a student
-```
-
-3
-```
-wrote about_me.md
-
-包含
-学习生涯
-和
-我最喜欢的
-各种事物
-
-incl 
-school life &
-my fav list
-```
-
-4
-```
-# 关于高中选修课程
-
-以a学科举例
-一周一节课,40min
-一学期实际上课约15周
-总共统计约10h
-说白了
-一个学期的所有内容
-无非一个周末两天
-一天5h即可
-尤其是一般学校
-对于中等难度的自由学习资源
-有很多了
-```
-
-5
-```
-wrote all skills needed for android dev
-```
-
-
-
-
