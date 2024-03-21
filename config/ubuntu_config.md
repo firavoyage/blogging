@@ -74,9 +74,9 @@ resultactive=yes
 /etc/fonts/conf.d/64-language-selector-prefer.conf
 put the default font to the top
 
-Noto Sans CJK SC
-Noto Serif CJK SC
-Fira Code
+noto sans cjk sc
+noto serif cjk sc
+fira code
 ```
 
 # software&updates
@@ -126,7 +126,7 @@ lulutranslate
 # code
 - welcome_page hidden, activity & tab & status & menu bar hidden, minimap hidden
 - autosave
-- font-family `'Fira Code', 'Source Han Serif CN', monospace`
+- font-family `'fira code', 'source han serif cn', monospace`
 - workspace_trust `/`
 - install g++
 ```
@@ -271,8 +271,8 @@ https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
 https://github.com/adiwzx/freenode/
 https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.txt
 
-https://github.com/Pawdroid/Free-servers
-https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub
+https://github.com/pawdroid/free-servers
+https://raw.githubusercontent.com/pawdroid/free-servers/main/sub
 
 https://github.com/mksshare/mksshare.github.io
 
@@ -295,7 +295,6 @@ sudo apt install libfontconfig-dev
 ```
 - `winecfg`
 - exe `open with wine windows program loader`
-- delete a program `/home/fira/.local/share/applications/`
 
 # obs
 - source
@@ -322,7 +321,6 @@ put en-en dict right after en-zh dict
   - nodejs
   - wine
 - software store -> snap
-  - virtualbox
   - vlc
   - obs
   - telegram desktop
@@ -331,8 +329,13 @@ put en-en dict right after en-zh dict
   - shotcut
   - inkscape
 - chromium -> dl online
+  - virtualbox
   - dingtalk
   - eudic
+  - onsyuri
+- games
+  - game - in solitude 1080p
+  - game - senrenbanka
 
 # .the_apps_i_love
 - ubuntu
