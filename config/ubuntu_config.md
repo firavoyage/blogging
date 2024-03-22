@@ -323,6 +323,7 @@ put en-en dict right after en-zh dict
   - nodejs
   - npm
   - python3
+  - imagemagick `mogrify -format jpg *.png` `mogrify -format jpg *.png && rm *.png`
   - parallel
 - software store -> snap
   - vlc
