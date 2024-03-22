@@ -319,8 +319,11 @@ put en-en dict right after en-zh dict
 
 # softwares
 - terminal -> apt
-  - nodejs
   - wine
+  - nodejs
+  - npm
+  - python3
+  - parallel
 - software store -> snap
   - vlc
   - obs
