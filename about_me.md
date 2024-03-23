@@ -1,4 +1,5 @@
-# about me(wangyining,firavoyage)
+# about me(firavoyage | wangyining)
+> life experiences & my fav things
 
 20070917 borned in shanghai,china
 
@@ -13,14 +14,22 @@ forgot my memories before primary school...
 hs entrance exam
 all 684(750 max)
 chinese 121
+- 会心之乐
 math 145
+- last problem 1:2 but i wrote (sqrt5-1)/2
 english 136
+- writing wtf?
 physics 65
+- anyway i dont love physics
 chemistry 47
+- not 50 due to some confusing questions(multi selection)
 geo&bio 13
+- i love geo maybe?
 experiment 15
 history 25 + 30
+- i just dont love history
 law 27 + 30
+- chinese law wtf?
 pe 30
 
 hs exams
@@ -57,6 +66,8 @@ my fav list
 喜欢的工作:
 可以利用纯度胜任的工作
 > 思考是不必要的 | 只需纯粹的技巧
+- fe程序员?
+- teacher of which subject?
 
 喜欢的动漫:
 sukasuka
