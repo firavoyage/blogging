@@ -83,6 +83,14 @@ fira code
 # software&updates
 - never check for upds
 
+# tweaks
+- autostart
+```
+gnome-todo
+fcitx5
+ibus
+```
+
 # files
 - add templates
 ```
@@ -187,9 +195,9 @@ git push e
 git pull e master
 ```
 
-# chinese input
+# fcitx5
+> chinese input method
 - ref `https://zhuanlan.zhihu.com/p/508797663`
-- fcitx5
 ```
 // install
 sudo apt install fcitx5 \
@@ -325,6 +333,7 @@ put en-en dict right after en-zh dict
   - python3
   - imagemagick `mogrify -format jpg *.png` `mogrify -format jpg *.png && rm *.png`
   - parallel
+  - gnome-tweaks
 - software store -> snap
   - vlc
   - obs
@@ -333,6 +342,7 @@ put en-en dict right after en-zh dict
   - kolourpaint
   - shotcut
   - inkscape
+  - qbittorrent
 - chromium -> dl online
   - virtualbox
   - dingtalk
