@@ -21,6 +21,10 @@ find me on(`_` stands for wip)
 - video `bilibili` `_youtube` `_douyin` `_kuaishou`
 - blog `github` `_zhihu` `...`
 - work dir `github` `gitee` `telegram channel` `_cloud disks`
+
+if i'm not working on my projects
+i'm enjoying contemporary acg culture
+or learning the subjects i love 
 ```
 
 
