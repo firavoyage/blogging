@@ -25,25 +25,24 @@ a large model for nlp isnt needed
 search // weather price location music wikihow etc
 convert // img2text article2summary
 gen // img article voice animation etc
+- `greatpoem` gen a poem with certain first letters | sth else
 
-## archive
+## recall
 - `timeln` put your memories & discoveries here
 simple,offline,import&export available
-
 - `fav` the hackable internet favlist
-
 - `trkr` the reader of anything
   - `blog.json` one json format for all the blogging sites
 
 ## teach
-- `pure` standard of math courses
-纯度数学 | 纯度算法 | fira|言序 | _firavoyage
+- `pure` my fav math courses
 // ref `recollection_20240317.md`
 - `kawaii_oi` the adorable oi tut qwq
   - `intuitive_algorithm` powerful way to present algorithm
   - `path_oi` the classified oi problemlist
   - `vizl` visualized programming
   without learning any syntax you can write a simple automatic script
+- `opendict` beautiful offline dict based on frontend
 
 ## dev
 - `arc++` the ideal c++ syntax
@@ -60,7 +59,7 @@ design a theme without css knowledge
   combined these basic apis
   such as `localstorage` `xmlhttprequest`
 
-## snippets
+## ideas
 - `charspainter` imgs2ascii
 - `gi2d` retro treasure hunting gameplay on teyvat
 

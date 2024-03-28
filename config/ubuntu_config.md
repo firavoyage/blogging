@@ -69,7 +69,7 @@ resultactive=yes
 - auto delete files after 30days
 
 # fonts
-- install from gh/firavoyage/fonts
+- install from g/firavoyage/fonts
 - change default fonts
 ```
 /etc/fonts/conf.d/64-language-selector-prefer.conf
@@ -108,29 +108,46 @@ cpp.cpp
 - smooth while zoom out
 
 # chromium
-- sys_title_bar hidden
-- add bookmarks: 
+- system_title_bar hidden
+- disable side pannel
 ```
-// git/firavoyage/blogging/config/chromium_bookmarks.html
+chrome://flags/#customize-chrome-side-panel 
+// disabled
+```
+- add bookmarks
+```
+// g/firavoyage/blogging/config/chromium_bookmarks.html
 ```
 - add extensions
 ```
 adguard
 lulutranslate
 tampermonkey
-clear new tab
+
 justblack
 ```
-- extensions `allow in incognito`
 - extension settings
 ```
-adguard 
-- ad_rules.txt
+adguard
+- g/firavoyage/blogging/config/list_adguard_rules.txt
 
 lulutranslate 
 - press `alt l` to open
 - press `alt t` to translate
 ```
+- fonts
+```
+chrome://settings/fonts
+/*
+standard `roboto`
+sans-serif `noto sans cjk sc`
+serif `noto serif cjk sc`
+fixed-width `fira code`
+math `dejavu serif`
+*/
+
+```
+
 
 # code
 - welcome_page hidden, activity & tab & status & menu bar hidden, minimap hidden
@@ -343,6 +360,7 @@ put en-en dict right after en-zh dict
   - shotcut
   - inkscape
   - qbittorrent
+  - uget
 - chromium -> dl online
   - virtualbox
   - dingtalk
