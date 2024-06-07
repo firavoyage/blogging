@@ -1,0 +1,3 @@
+cd Downloads/g
+mogrify -format jpg *.png && rm *.png
+cd ../..
