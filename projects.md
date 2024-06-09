@@ -254,7 +254,7 @@ entrance exam writing
 ```
 - `pure` my desired math courses
 inspired by `lean prover` `beamer`
-> alias `纯度` `纯真数学` `疯狗一模` `purity of math`
+> alias `纯真数学` `疯狗` `pure math` `purity of math`
 - products
 ```
 纯度数学
@@ -266,14 +266,23 @@ inspired by `lean prover` `beamer`
 "a,b,c为 tri(ABC) 内角A,B,C对边"
 "i为虚数单位"
 "k belong() Z"
-- ~非常适合16岁纯情男高体质~
-ref fav/firavoyage/[nsfw]
 - 注意力公式
 让每个人都拥有`惊人的注意力`
 通过`注意到a,考虑b c d`形式的`公式`
 如
 注意到`正弦函数`,考虑`边角转换`
 内容来源于一二模题库...
+
+pure math series
+- 知识
+定义
+定理,推论
+- 练习
+模板题
+导学先锋
+华师大强基
+- 外卖
+A4的总结
 ```
 explain every concept in 10mins and share problem solving tricks
 use modern tech to make it vivid and style-united
@@ -299,6 +308,21 @@ various blocks by pre
 更具体地
 我猜想他们有许多不寻常的技巧
 可以用`注意到a,考虑b`来展现
+...
+```
+why math
+有些理科
+- 格式要求很高
+不能跳步,写一行可以猜出下面两行
+- 基于大量准确实验
+无法从少量公理和定义推出,只能背诵
+...
+有些文科
+- 非常主观
+标准答案之间存在许多差异
+- 大量积累
+没有办法快速提升
+```
 - `leisure` integrity of a language
 > alias `自在`
   - products
@@ -383,10 +407,12 @@ grammar and built-in methods
 - spark
   - implement great games
 io games and single-machine games
-such as idv2d bs2cr brawlocal pubglocal warzonelocal realitylocal yourscraft
-清风: 冲刺,瞬移,挥刀
+such as scratch projects
+cards master: gambers with unique characters
+cool wind: scalable openworld game like eldenring 
 clashlocal: 15 ideas ignored by sc,miner evo
-honkai school 2
+platfighter: platformer and honkai school 2
+letsbrawl: play with quality teamates
   - create gorgeous visual effects
 from games like gi sr 
   - build everything with you
@@ -447,8 +473,8 @@ for example in high school
 inspired by `js20` `js50`
 > -> `fs0.6.md`
 `.fs`
-- `voyage` design system creator
-inspired by `figma` `reactjs`
+- `voyage` opensource design platform
+inspired by `webflow` `figma` `jsdesign` `mastergo`
 design `themes` `components` `pages`
   - products
 ```

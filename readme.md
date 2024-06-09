@@ -3,11 +3,10 @@ _firavoyage
 
 alias
 - `fira`
+- `devvhy`
 - `忘我思考`
 - `言序&映画`
-- `赋闲少爷`
-- `examOriEduWtfira`
-- `devvhy`
+- `少爷之赋闲`
 
 who
 - came to the world on sept17 2007
@@ -21,27 +20,31 @@ love
 - lays pototo chips original
 - dark chocolates
 - special spicy pork noodles
-- muji shirt in deep blue
 - literary chinese
 - purity of math
-- english poem
+- english poems
 - web app development
 - simple gardening
 - life-size waifu
+- azurlane
 - brawl stars
 - clash royale
-- genshin impact
-- honkai star rail
 - honkai impact third
-- azurlane
-- yosuga no sora
+- honkai star rail
+- genshin impact
+- forever naive taffy
+- eastern snowy lotus
+- bs wanderer
+- bs richard
+- cr lciop
+- cr gzx
 - _senrenbanka
-- _zelda
-- _gtav
-- _rust
-- _minecraft
+- _the legend of zelda
+- _grand theft auto v
 - _elden ring
 - _sekiro
+- _rust
+- _minecraft
 - _the binding of isaac
 
 playlist
@@ -53,6 +56,7 @@ playlist
 - caresse sur l'océan
 - benevolence bequeathed
 - title theme
+- gion2
 - ymca
 - 米店
 - 浮夸
@@ -60,11 +64,10 @@ playlist
 - 海阔天空
 - 光辉岁月
 - 匆匆那年
-- 五十年以后
-- ルマruma
 - 比翼の羽根
 - -記憶-
 - -遠い空へ-
+- ルマruma
 - ほろよい
 - клетка
 - судно
@@ -184,6 +187,7 @@ pages
   - livid
   - ruanyf
   - yinming
+  - evanyou
   - 37signals
 - ideas
   - projects

@@ -254,6 +254,7 @@ chrome://flags/#chrome-webui-refresh-2023
     - pop-up translations `immediately popup`
   - tampermonkey `https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo`
     - zhihu enhancement `https://greasyfork.org/en/scripts/419081`
+  - bewlybewly `https://chromewebstore.google.com/detail/bewlybewly/bbbiejemhfihiooipfcjmjmbfdmobobp`
   - justblack `https://chromewebstore.google.com/detail/just-black/aghfnjkcakhmadgdomlmlhhaocbkloab`
 - config fonts
 > -> chrome://settings/fonts
@@ -264,7 +265,8 @@ chrome://flags/#chrome-webui-refresh-2023
   - mathematical `dejavu serif`
 
 # code
-- fix `fcitx issue`
+- install
+> fix `fcitx issue`
 ```
 sudo snap remove code
 
@@ -474,6 +476,16 @@ raw.fastgit.org
 ```
 
 # wine
+- install
+```
+sudo dpkg --add-architecture i386
+
+wget -O - https://dl.winehq.org/wine-builds/winehq.key | sudo apt-key add -
+sudo add-apt-repository 'deb https://dl.winehq.org/wine-builds/ubuntu/ jammy main'
+
+sudo apt update
+sudo apt install --install-recommends winehq-stable
+```
 - install libraries
 > necessary
 ```
@@ -481,10 +493,8 @@ sudo apt install libasound2-dev
 sudo apt install libfontconfig-dev
 ```
 - config sound
-> worked in game `senrenbanka`
 ```
 sudo apt install winetricks
-
 winetricks sound=pulse
 ```
 
@@ -593,43 +603,37 @@ others `disabled`
 - config
   - set default `sudo chsh -s /bin/zsh`
 
-# softwares
-- terminal apt
-  - wine
-  - nodejs
-  - npm
-  - python3
-  - imagemagick `mogrify -format jpg *.png` `mogrify -format jpg *.png && rm *.png`
-  - parallel
-  - gnome-tweaks
-  - goldendict
-- snap store
-  - vlc
-  - obs
-  - telegram desktop
-  - terminal-parrot
-  - kolourpaint
-  - shotcut
-  - inkscape
-  - qbittorrent
-  - uget
-- chromium download
+# other softwares
+- in terminal
+```
+sudo snap install android-studio --classic
+sudo snap install --devmode --edge anbox
+sudo snap install --edge lutris
+sudo snap install heroic
+sudo snap install vlc
+sudo snap install obs-studio
+sudo snap install telegram-desktop
+sudo snap install kolourpaint
+sudo snap install shotcut --classic
+sudo snap install inkscape
+sudo snap install qbittorrent-arnatious
+sudo apt install nodejs
+sudo apt install npm
+sudo apt install python3
+sudo apt install imagemagick
+sudo apt install gnome-tweaks
+sudo apt install goldendict
+```
+- in chromium
   - virtualbox
   - dingtalk
-  - eudic
   - onsyuri
   - localsend
 - games
-  - gal `in solitude 1080p` from `pan.jlbx.xyz`
+  - gal `yosuga no sora 1080p` from `pan.jlbx.xyz`
   - gal `senrenbanka` from `shinnku.com`
-
-# apps and memories
-- ubuntu `yaru`
-- chromium `material design`
-- git
-- code
-- luogu
-- codeforces
+  - rpg `honkai impact third` from `mihoyo`
+  - rpg `honkai star rail` from `mihoyo`
 
 
 

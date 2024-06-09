@@ -2138,8 +2138,27 @@ e
 (f "nsfw" "business")
 
 choose your netdisk
-清高
+```table
+.    大               小
+博爱 baidupan,alipan  lanzou,gitee
+清高 telegram,magnet  github,onedrive
+```
+(f "business")
 
-博爱
+why math
+有些理科
+- 格式要求很高
+不能跳步,写一行可以猜出下面两行
+- 基于大量准确实验
+无法从少量公理和定义推出,只能背诵
+...
+有些文科
+- 非常主观
+标准答案之间存在许多差异
+- 大量积累
+没有办法快速提升
+(f "business")
+
+
 
 
