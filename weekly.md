@@ -2,6 +2,24 @@
 
 > -> `endeavour` on ubuntu
 
+## 20240610
+
+> 我感觉我变聪明了!
+- conclude 新国辩
+- design firascript
+- revise project.md
+> 纯粹的技巧.
+- conclude javascript tut
+- work out 华师大数学强基
+- tackle english vocabulary
+> 汲取些许神性...
+- watch live (forever naive taffy,lciop)
+- rewatch yosuga no sora
+- play role-playing games
+> 创作更多回忆~
+- eat
+- tackle g.zip
+
 ## 20240528
 > school computer class
 - 红楼梦 木鱼水心

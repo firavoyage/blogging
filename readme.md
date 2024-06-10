@@ -34,10 +34,7 @@ love
 - genshin impact
 - forever naive taffy
 - eastern snowy lotus
-- bs wanderer
-- bs richard
-- cr lciop
-- cr gzx
+- lciop
 - _senrenbanka
 - _the legend of zelda
 - _grand theft auto v

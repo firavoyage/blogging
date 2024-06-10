@@ -124,17 +124,25 @@ inspired by `setapp`
 - `convert` translate programs
 from `md` `object` ... to `json` `html`...
 - `material` elegant image editor
-  - `vctr` svg made simple
-  - `svgify` convert pexels to paths
-  - `fltr` artwork styling and toning
+  - `vctr` full-featured svg editor
+  - `svgify` rethink photo expansion 
+convert pexels to paths
+without llm
+  - `fltr` artwork styling
+  - `mosaic` better mosaic
+text to geometric symbols
+identity to circles not squares
 - `charstyler` elegant unicode text styler
 - `charspainter` local image to text converter
 - `charstable` convert table to plaintext or markdown
 
 ## perceive
-- `pepper` opensource streaming
-inspired by `simplelive`
-cross-platform live-streaming app
+- `pepper` watch replay like live
+inspired by `simplelive` `forever naive taffy` `cr lciop`
+fav livestream never stop!
+- `dream` the prospect of bilibili
+inspired by `bilimiao`
+things go in youtube way
 - `daffodil` opensource podcast app
 inspired by `antennapod` `apple podcast`
 cross-platform podcast app
@@ -410,9 +418,9 @@ io games and single-machine games
 such as scratch projects
 cards master: gambers with unique characters
 cool wind: scalable openworld game like eldenring 
-clashlocal: 15 ideas ignored by sc,miner evo
+clashlocal: 15 ideas ignored by sc,8 evo slots,evo by damage dealt
+letsbrawl: play with quality teamates,everyone hypercharged
 platfighter: platformer and honkai school 2
-letsbrawl: play with quality teamates
   - create gorgeous visual effects
 from games like gi sr 
   - build everything with you

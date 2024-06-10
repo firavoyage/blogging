@@ -15,13 +15,6 @@
 (a,b,c,d)
 ```
 
-```
-(int a,cat b,dog c,bird d)
-
-(a,b,c,d)
-```
-
-
 - array
 ```
 [a b c d]
@@ -44,15 +37,9 @@ function(A){B}
 ```
 
 ```
-(A){B} //B is a literal
+(A){B} //B is literal
 
 function(A){return (B)}
-```
-
-```
-(){A B} //A is an operator
-
-(__fs_v){return (__fs_v A B)}
 ```
 
 ### grammar
@@ -86,21 +73,20 @@ const {
 const a=1,b=2,c=3
 ```
 
+- define object
 ```
-fish {
-  length 1
-  price 2
-}
+let a [A]
+let b {B}
 
-let length=1,price=2
+let a = [A]
+let b = {B}
 ```
-
 
 - define function
 ```
-a(A){B}
+let a (A){B}
 
-a=function(A){B}
+let a=function(A){B}
 ```
 
 ```
@@ -114,13 +100,6 @@ a=function(A){B}
 obj[a b c]
 
 obj[a][b][c]
-```
-
-- get filtered array
-```
-arr[(A){B}]
-
-arr.filter((A){B})
 ```
 
 - if
@@ -176,18 +155,12 @@ for(let __fs_i=0,i=arr[__fs_i],j=brr[__fs_i];__fs_i<arr.length&&__fs_i<brr.lengt
 ```
 
 ```
-for(statement;literal;statement){A}
+for(a;b;c){A}
 ```
 
 - while
 ```
 while{B}
-
-while(true){B}
-```
-
-```
-while(){B}
 
 while(true){B}
 ```

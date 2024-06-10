@@ -2141,23 +2141,61 @@ choose your netdisk
 ```table
 .    大               小
 博爱 baidupan,alipan  lanzou,gitee
-清高 telegram,magnet  github,onedrive
+清高 telegram,magnet  onedrive,github
 ```
 (f "business")
 
 why math
-有些理科
+一些理科
 - 格式要求很高
 不能跳步,写一行可以猜出下面两行
 - 基于大量准确实验
 无法从少量公理和定义推出,只能背诵
 ...
-有些文科
+一些文科
 - 非常主观
 标准答案之间存在许多差异
-- 大量积累
-没有办法快速提升
 (f "business")
+
+退游之际,我把戒指给了初心.
+北京大学的雏草姬...
+玩星穹铁道的数学大师...
+(net)
+
+20240610 0147
+舰长,晚睡对身体不好...
+(hi "raiden mei")
+
+anti globalization
+一些地方,开源可以编译后倒卖
+一些地方,磁力资源可以下载后转卖
+一些地方,公开课可以洗稿后贩卖
+或者说,本质上我也是其中一员
+祂们从公开课中洗稿
+我从书籍中总结归纳耳
+听说过
+不是所有人都是人
+不是所有地区都属于全世界
+此言得之
+(f "business")
+
+easy win~
+(cr ian77)
+
+pure skill.
+(f "business")
+
+alias in firascript
+```js
+const alias {
+  when 'addEventListener'
+  xhr 'XMLHttpRequest'
+}
+for (i Object.keys(alias)){
+  window[i]=window[alias[i]]
+}
+```
+(f "firascript")
 
 
 
