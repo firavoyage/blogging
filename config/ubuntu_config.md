@@ -613,7 +613,7 @@ sudo snap install heroic
 sudo snap install vlc
 sudo snap install obs-studio
 sudo snap install telegram-desktop
-sudo snap install kolourpaint
+sudo snap install krita
 sudo snap install shotcut --classic
 sudo snap install inkscape
 sudo snap install qbittorrent-arnatious
