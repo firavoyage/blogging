@@ -123,3 +123,6 @@ twitter.com###react-root > div.css-175oi2r.r-13awgt0.r-12vffkv > div.css-175oi2r
 juejin.cn###juejin > div.view-container.container.index-container:first-child > main.container.main-container.with-view-nav:nth-child(2) > div.view.timeline-index-view > div.index-nav:first-child > nav.side-navigator-wrap > div.nav-item-wrap.nav-item-underline:first-child
 bilibili.com###i_cecream > div.bili-feed4:last-child > div.bili-header.large-header:first-child > div.bili-header__bar:first-child > ul.left-entry:first-child
 zhihu.com###root > div > main.App-main:nth-child(4) > div.css-11yh8no > div.css-1q32xh5:last-child > div:last-child > footer.css-2pfapc:last-child
+zhihu.com###root > div > main.App-main:nth-child(4) > div.Topstory > div.Topstory-container:last-child > div.css-1qyytj7:last-child > div:last-child > footer.css-2pfapc:last-child
+hix.ai###app-body > div.chatgpt_myBackground__Lh8Dd.w-full.h-\[100vh\].overflow-hidden > div.lg\:hidden:first-child
+hix.ai###app-body > div.chatgpt_myBackground__Lh8Dd.w-full.h-\[100vh\].overflow-hidden > div.overflow-y-auto.lg\:pt-0.relative.z-0.h-\[100vh\].pt-16.lg\:h-\[100vh\]:last-child > div.w-full.min-h-\[65px\].overflow-hidden.lg\:hidden.\!bg-transparent:nth-child(2)

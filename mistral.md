@@ -366,58 +366,58 @@ These ballads span several centuries and reflect a rich tradition of English and
 > 50 english ballad songs with publication year
 
 ```
-Here are 50 popular English ballads songs along with their publication/release year:
+Here are 50 famous English ballad songs with their year of publication:
 
-Amazing Grace (1779)
-The Skye Boat Song (traditional Scottish ballad)
-Shenandoah (1865)
-Danny Boy (1913)
-Down in the Valley (1915)
-Over the Rainbow (1939)
-Waterloo Sunset (1967)
-Fields of Gold (1993)
-Have You Ever Seen The Rain (1970)
-The Boxer (1969)
-Both Sides Now (1968)
-Leaving on a Jet Plane (1967)
-Let It Be (1970)
-Killing Me Softly With His Song (1973)
-Tears in Heaven (1992)
-Stardust (1927)
-Scarborough Fair (Traditional English Ballad)
-Seasons in the Sun (1974)
-Bridge Over Troubled Water (1970)
-Goodnight Irene (1950s)
-This Land Is Your Land (1940)
-We Shall Overcome (1960s)
-Foggy Mountain Breakdown (1967)
-Red River Valley (1879)
-Ruby Tuesday (1967)
-Hey Jude (1968)
-House of the Rising Sun (1962)
-Both Sides Now (1968)
-You Are My Sunshine (1939)
-The Rose (1979)
-Wreck of the Edmund Fitzgerald (1976)
-Get Together (1965)
-Where Have All the Flowers Gone (1955)
-Streets of London (1979)
-Sounds of Silence (1965)
-Beyond the Sea (1960)
-Devil Went Down to Georgia (1979)
-A Hard Rain's A-Gonna Fall (1963)
-Hallelujah (1984)
-Blackbird (1968)
-Stand by Me (1961)
-The Night They Drove Old Dixie Down (1971)
-Don't Think Twice, It's All Right (1963)
-Angel from Montgomery (1974)
-Knockin' on Heaven's Door (1973)
-Song Sung Blue (1972)
-Peaceful Easy Feeling (1972)
-Vincent (Starry Starry Night) (1971)
-Crazy (1961)
-Leaving on a Jet Plane (1967)
+Greensleeves - 1580
+Scarborough Fair - Traditional ballad, earliest known version published in 1784
+I've Been Working on the Railroad - 1894
+Shenandoah - Traditional American folk song, earliest known publication in 1865
+The Streets of Laredo - 1891
+Down in the Valley - Traditional American folk song, earliest known publication in 1948
+Wayfaring Stranger - Traditional American folk hymn, earliest known publication in 1874
+The Water Is Wide - Traditional English ballad, earliest known publication in 1806
+The Night They Drove Old Dixie Down - 1971
+Little Margie - 1957
+The Itsy Bitsy Spider - 1957
+The Wreck of the Edmund Fitzgerald - 1976
+House of the Rising Sun - Traditional, earliest recording by Bob Dylan in 1962
+Foggy, Foggy Dew - Traditional Irish ballad, earliest known publication in 1917
+The Riddle Song - 1944
+Brown Eyed Girl - 1967
+Both Sides Now - 1968
+T for Texas (Blue Yodel No. 1) - 1929
+Ode to Billie Joe - 1967
+The Band Played Waltzing Matilda - 1972
+Rocky Mountain High - 1972
+Amazing Grace - Traditional Christian hymn, earliest known print in 1779
+When the Saints Go Marching In - Traditional Christian hymn, earliest known publication in 1896
+The Christmas Song (Chestnuts Roasting on an Open Fire) - 1945
+Tom Dooley - 1958
+Red River Valley - Traditional American folk song, earliest known publication in 1909
+Wabash Cannonball - 1882
+Streets of Laredo - 1891
+Stand by Me - 1961
+Amazing Grace (My Chains Are Gone) - Traditional Christian hymn, this version published in 2007
+The Night Chicago Died - 1974
+He Stopped Loving Her Today - 1980
+These Boots Are Made for Walking - 1966
+The Lion Sleeps Tonight - 1939
+The Unicorn - 1968
+This Land Is Your Land - 1940
+You Are My Sunshine - 1939
+Blue Moon of Kentucky - 1946
+Family Tradition - 1979
+Brown Eyed Girl - 1967
+Puff, the Magic Dragon - 1963
+Leaving on a Jet Plane - 1967
+Angel from Montgomery - 1974
+The Devil Went Down to Georgia - 1979
+Cool Water - 1937
+Blackbird - 1968
+Lucy in the Sky with Diamonds - 1967
+Both Sides Now - 1968
+American Pie - 1971
+Free Bird - 1973
 ```
 
 > -> mistral large
@@ -498,7 +498,7 @@ Here are some English ballad songs with their approximate publication years:
 It is important to note that the exact publication year of some ballads may not be known, and some of these ballads may have existed in oral tradition for centuries before being printed.
 ```
 
-## fe
+## frontend
 
 > -> mistral large
 > how to learn web dev
