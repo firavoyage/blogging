@@ -169,18 +169,21 @@ libre: free dl songs / import export sync / add extensions
 ```
 - `eat` libre feed
 inspired by `google reader` `rsshub`
+  - features
+```
   - read from anywhere
 rss | content platforms | any website
   - offline first
 import export and sync
-  - products
 ```
-eat
-
-- fav 
-your internet time capsule
+- `fav` internet time capsule
 inspired by `pocket` `instapaper` `notion`
+  - features
 ```
+- import favlist from bilibili,youtube,zhihu
+- integrate with eat
+```
+
 - `shelf` simple and elegant bookshelf
 inspired by `legado` `weread` `z-library`
   - reader mode evolved

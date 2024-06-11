@@ -108,6 +108,7 @@ quotes
 - in solitude where we are least alone
 - i wandered lonely as a cloud
 - live in the future and build what's missing
+- character is destiny
 - a hero is nothing but a product of his time
 - things develop in the process of history
 that's what i had always heard on politics class in my childhood
@@ -209,17 +210,19 @@ pages
   - emails
 
 repos
+- `web/blogs` internet time capsule in mhtml
 - `blogging` inspirations and life memories
 - `blogging/config` preferences and configurations
 - `memories` moments and discoveries
+- `memories/bangumi` bangumi screenshots
 - `memories/comments` thoughts from netpals
-- `memories/discoveries` digital time capsule
+- `memories/discoveries` digital life tracker
+- `memories/gaming/self` impression of games
 - `memories/school_life` diary at school
-- `web` saved webpages
 - `music` fav songs
 - `fonts` fav fonts
 - `programs` sources and snippets
-- `self` my avatars
+- `self` avatars
 
 mission
 - make tools elegant
@@ -291,6 +294,7 @@ make tools elegant
 i mainly work on math teaching and development
 while i actually love art and culture
 - wish
+(upstart) those like me must pub sth on producthunt,earn a lot and get retired early
 do what `adobe` and `coursera` have done with implementation details improved
 create intelligent bots without neural network
 - rest
