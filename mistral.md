@@ -302,6 +302,62 @@ Here is a list of 50 English classic songs with their publication year:
 "Rolling in the Deep" by Adele (2010)
 ```
 
+> -> gpt 3.5
+> 50 english ballad songs with publication year
+
+```
+1. "Yesterday" by The Beatles (1965)
+2. "Imagine" by John Lennon (1971)
+3. "Hotel California" by Eagles (1976)
+4. "Bohemian Rhapsody" by Queen (1975)
+5. "Hallelujah" by Leonard Cohen (1984)
+6. "Wonderwall" by Oasis (1995)
+7. "Let It Be" by The Beatles (1970)
+8. "Sweet Child o' Mine" by Guns N' Roses (1987)
+9. "Hey Jude" by The Beatles (1968)
+10. "Stairway to Heaven" by Led Zeppelin (1971)
+11. "Bridge Over Troubled Water" by Simon & Garfunkel (1970)
+12. "Angie" by The Rolling Stones (1973)
+13. "Knocking on Heaven's Door" by Bob Dylan (1973)
+14. "Fields of Gold" by Sting (1993)
+15. "Time After Time" by Cyndi Lauper (1983)
+16. "The Sound of Silence" by Simon & Garfunkel (1964)
+17. "Blackbird" by The Beatles (1968)
+18. "Don't Stop Believin'" by Journey (1981)
+19. "Tears in Heaven" by Eric Clapton (1992)
+20. "Yesterday Once More" by Carpenters (1973)
+21. "Dust in the Wind" by Kansas (1977)
+22. "I Will Always Love You" by Whitney Houston (1992)
+23. "Let Her Go" by Passenger (2012)
+24. "I Will Survive" by Gloria Gaynor (1978)
+25. "Wish You Were Here" by Pink Floyd (1975)
+26. "Don't Look Back in Anger" by Oasis (1996)
+27. "Every Breath You Take" by The Police (1983)
+28. "Imagine" by Eva Cassidy (2002)
+29. "American Pie" by Don McLean (1971)
+30. "Your Song" by Elton John (1970)
+31. "Knockin' on Heaven's Door" by Guns N' Roses (1991)
+32. "Boulevard of Broken Dreams" by Green Day (2004)
+33. "Yesterday" by Ray Charles (1967)
+34. "I Can't Make You Love Me" by Bonnie Raitt (1991)
+35. "The House of the Rising Sun" by The Animals (1964)
+36. "Candle in the Wind" by Elton John (1973)
+37. "Love Hurts" by Nazareth (1975)
+38. "Nothing Compares 2 U" by Sinead O'Connor (1990)
+39. "Landslide" by Fleetwood Mac (1975)
+40. "The Boxer" by Simon & Garfunkel (1969)
+41. "You've Got a Friend" by Carole King (1971)
+42. "I Want to Know What Love Is" by Foreigner (1984)
+43. "When a Man Loves a Woman" by Percy Sledge (1966)
+44. "Stand by Me" by Ben E. King (1961)
+45. "The Sound of Silence" by Disturbed (2015)
+46. "You're Beautiful" by James Blunt (2004)
+47. "Dream On" by Aerosmith (1973)
+48. "I Don't Want to Miss a Thing" by Aerosmith (1998)
+49. "Paint It Black" by The Rolling Stones (1966)
+50. "The Times They Are a-Changin'" by Bob Dylan (1964)
+```
+
 > -> claude
 > 50 english ballad songs with publication year
 
