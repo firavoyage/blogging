@@ -103,6 +103,7 @@ obj[a][b][c]
 ```
 
 - if
+> inspired by arc language
 ```
 if(a){A}(b){B}(c){C}{D}
 

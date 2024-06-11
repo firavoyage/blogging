@@ -161,6 +161,12 @@ and sync with online services
   - legal
 like `legado` `antennapod`
 no commercial sources included
+  - features
+```
+interface: apple music / spotify / soundcloud
+source: netease / qq
+libre: free dl songs / import export sync / add extensions
+```
 - `eat` libre feed
 inspired by `google reader` `rsshub`
   - read from anywhere
@@ -186,7 +192,12 @@ import and export
 inspired by `simpread`
 the ultimate reader mode
 - `goods` get rid of consumerism
+  - products
 ```
+goods tracker?
+不关心钱去了哪
+关心得到了什么
+
 world goods list
 ```
 
@@ -241,8 +252,8 @@ structured view instead of unordered words flow
 
 
 recite helper
-words and connection
-赵忠祥cv
+> implemented well
+> -> bili 阿小飞飞飞
 
 literary masterpieces in 15mins
 - positive comments 30s
@@ -477,10 +488,15 @@ maybe it's not a challenge of efforts but studying ability
 for example in high school
 
 ## dev
-- `firascript` a js dialect with simplified syntax
-inspired by `js20` `js50`
+- `firascript` javascript over simplified
+inspired by `js20` `js30` `js50`
 > -> `fs0.6.md`
-`.fs`
+  - products
+```
+firascript
+
+fson
+```
 - `voyage` opensource design platform
 inspired by `webflow` `figma` `jsdesign` `mastergo`
 design `themes` `components` `pages`

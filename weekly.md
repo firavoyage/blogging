@@ -1,6 +1,32 @@
 # weekly plan
 
+> 🌕 💤 before 23:00!
 > -> `endeavour` on ubuntu
+
+## 20240611
+
+> reduce time for `eat`
+> as most great contents aint published today 
+
+> school
+- 英语一模
+- 阅读
+> after school
+- al 10min
+- voca 30min
+- eat 20min
+- conclude debation videos
+- (rewatch yosuga no sora)
+> weekend
+- revise projects.md
+- (play rpgs)
+- (watch lives)
+- (rewatch yosuga no sora)
+> summer vacation
+- conclude js tut
+- design fs
+- (~make projects ...~ write passages)
+- (create memories ... beautifully advance)
 
 ## 20240610
 
@@ -43,11 +69,11 @@
 > goodnight
 23:00
 > weekdays
-- eat feed 10mins
+- eat feed 10min
 bilimiao
-- al 10mins
+- al 10min
 without battle
-- words30 40mins
+- words30 40min
 and review
 > spare time
 - read js tut
@@ -55,7 +81,7 @@ conclude
 - read books
 and take notes
 > weekends
-- words100 120mins
+- words100 120min
 and review
 - watch gaming live
 in the evening
@@ -73,16 +99,16 @@ endeavour
 ## 20240508
 
 > weekdays
-- feed 10mins
-- al 10mins
+- feed 10min
+- al 10min
 without battle 
-- words30 30mins
+- words30 30min
 and review
 > spare time
 - read js tut
 - design fs compiler implemenation
 > weekends
-- words100 120mins
+- words100 120min
 and review
 - watch gaming live
 in the evening

@@ -2191,12 +2191,45 @@ const alias {
   when 'addEventListener'
   xhr 'XMLHttpRequest'
 }
+
 for (i Object.keys(alias)){
-  window[i]=window[alias[i]]
+  window[i]=window[alias[i]] //wtf
 }
 ```
+当然感觉还是有些笨拙,暑假再思考些吧
 (f "firascript")
 
+why projects.md
+有一些事情
+那么多的一些事情
+我很希望
+- 它在不久的将来,发生在世界上
+- 它有我参与,或者由我推动
+能举出许多这样的例子了
+比如wikipedia,telegram,
+只不过这些是先验的...
+还有一些,
+比如一个辞典
+收录所有番剧,电影,纪录片
+- 提供一些磁力链接
+- 众筹服务器,为之做种
+比如一个视觉存档
+- 收录许多优秀的界面设计实现,如音乐播放器
+- 可以运行,交互,但是不提供后端资源
+可惜
+受制于一些现实的不利条件
+尚未被良好地实现
+我只希望这些琐碎的思绪
+不要因为历史局限性而随风飘散
+...
+于是记下来,并计划了些实现细节
+(f "business")
+
+recite helper videos
+`六国论` `...`洗脑循环  by bili "阿小飞飞飞"
+linzhe "6:15" from bili history
+"七宝中学高一a班b实名观看" from danmaku
+(f "sl")
 
 
 
