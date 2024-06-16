@@ -555,6 +555,19 @@ lvfuyuan & wangrunying
 决定把每个ubuntu app都全屏打开...
 (好耶!)
 
+## 20240615
+
+放弃了读书笔记
+超功利地,思考胜过记录
+
+突然很喜欢一种标题风格:
+词语+标点
+封面的话,仿照codingstartup.
+
+conclusion:
+the problem is that you think you have time
+赋闲时,往往选择放松的消遣
+追逐时,往往没有多少时间
 
 
 

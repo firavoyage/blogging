@@ -2,38 +2,42 @@ ubuntu config
 
 # ubuntu
 
-## _
+## _version
 - ubuntu 22
-- ubuntu 24
+- ubuntu 24(current)
+
+> -> settings
 
 ## appearance
-> or `ubuntu desktop`
-- auto hide dock `enabled`
-- panel mode `disabled`
 - config
-  - wallpaper `jelly fish`
-  - trash icon `hidden`
-  - application icon `hidden`
-```
-> -> extensions > ubuntu dock > settings > launchers
-show appilication icon `off`
-```
   - style `dark`
+  - wallpaper `jelly fish in black background`
+
+## ubuntu desktop
+- config
+  - desktop icons `disabled`
+  - auto hide dock `enabled`
+  - panel mode `disabled`
   - icon size `max`
-  - dock fav
-    - chromium
-    - thunderbird
-    - code
-    - goldendict
-    - todo
+  - configure dock behavior
+    - show trash `disabled`
+- config dock pins
+  - chromium
+  - thunderbird
+  - code
+  - goldendict
+  - todo
+- config dock application icon
+> -> extensions > ubuntu dock > more > settings > launchers
+  - show application icon `disabled`
 
 ## apps
 > -> default apps
 - web `chromium web browser`
 - mail `thunderbird mail`
 - calendar `calendar`
-- music `vlc music player`
-- video `videos`
+- music `vlc media player`
+- video `vlc media player`
 - photos `image viewer`
 
 ## displays
@@ -96,22 +100,12 @@ leave it blank & enter
   - plugged in `disabled`
 
 ## printer
-- canon
+- for canon printer
 > ref `https://in.canon/en/support/search` `linux64 ij debian`
 
 ## privacy
 > -> tmpfile&trash
 - config `auto delete files after 30days`
-
-# backup
-- config
-```
-//folders
-working dir without .git
-
-//schedule
-backup weekly
-```
 
 # fonts
 - install fonts
@@ -171,7 +165,7 @@ monospace text `fira code`
 </fontconfig>
 ```
 
-# update
+# softwares & updates
 - disable `software updater popup`
 ```
 sudo sed --in-place 's/NoDisplay=true/NoDisplay=false/g' /etc/xdg/autostart/update-notifier.desktop
@@ -181,13 +175,8 @@ sudo sed --in-place 's/NoDisplay=true/NoDisplay=false/g' /etc/xdg/autostart/upda
 //-> softwares & updates > other softwares
 disable all
 ```
-- commands
-```
-//upgrade ubuntu
-update-manager -d
-```
 
-# tweaks
+# gnome-tweaks
 - config `startup applications`
 ```
 endeavour //gnome-todo
@@ -207,14 +196,10 @@ cpp.cpp
 
 # gedit
 - config
-  - autosave `disabled`
   - line nums `disabled`
   - status bar `disabled`
   - tab `2spaces`
   - font `fira code`
-
-# image viewer
-- smooth while zoom out `enabled`
 
 # chromium
 - disable `use system title bar`
@@ -340,19 +325,6 @@ git config user.name _name
 
 //save passwd
 git config --global credential.helper store
-```
-- commands
-> `git_shortcuts.txt`
-> `git_convert_png.txt`
-```
-git init
-git clone https://_.git
-git add .
-git commit -m '.'
-git remote add e https://_.git
-git push e
-git pull e master
-git push --set-upstream e master
 ```
 
 # fcitx5
@@ -589,7 +561,22 @@ navigation `enabled`
 others `disabled`
 ```
 
+# vlc
+- config
+> -> tools > preferences
+  - show settings `all`
+- config jump length
+> -> interface > hotkeys settings
+  - short jump length `5`
+- config interface
+> -> interface > main interfaces > qt
+  - show notification popup on track change `never`
+  - continue playback `never`
 
+# qbittorrent
+- config trackers
+> -> tools > preferences > bitorrent
+  - automatically add these trackers to new downloads `config/list_trackers.md`
 
 # localsend
 - config

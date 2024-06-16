@@ -9,8 +9,8 @@
 > as most great contents aint published today 
 
 > school
-- 英语一模
-- 阅读
+- 英语一模 grammar cloze reading:a&c translation 
+- 思辨阅读 "观念的水位"
 > after school
 - al 10min
 - voca 30min
@@ -25,8 +25,9 @@
 > summer vacation
 - conclude js tut
 - design fs
-- (~make projects ...~ write passages)
-- (create memories ... beautifully advance)
+- revise projects.md
+- (think about projects implementation details, write passages ~and videoify them~)
+- (create memories *beautifully advance*)
 
 ## 20240610
 

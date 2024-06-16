@@ -1,87 +1,74 @@
 # projects
 
 ## write
-- `para` blogging in solitude
-> opensource notion,runs local
-  - features
-```
-- local
-based on pwa
-- contents view
-zoom in and zoom out
-- extended markdown
-table of contents,chapter number...
-- typora like
-optional...
-what you see is what you get
-- themes
-based on voyage
-- plugins
-push
-goodnight
-styler
-...
-- opensource
-on github
-```
+- `para` opensource notion running local
+inspired by `notion` `typora`
   - products
 ```
 para
-markdown with elegance
+blogging in solitude
 
-para-component
+para editor
 typora as a component
 
-push
-publish with one click
+para compiler
+render extended markdown
 
 goodnight
 keeping made simple
-- `sleep`
-upload your images to various free image beds
+- sleep
+upload images to various free image beds
 and keep them in a json file
-- `wake`
+- wake
 some day if one of the sites is down
-you can change the links in all articles
-
-styler
-render with inline style attribute
-inspired by `mdnice`
-
-sync
-with notion obsidian ...
-```
-inspired by `gedit` `typora`
-- `pre` content-focused presentation
-inspired by `beamer`
-  - products
-```
+change the links everywhere in one click
 
 ```
   - features
 ```
-- first page
-`title` header 1
-`bottom left` page num
-`bottom right` auther and date
-- index page
-toc
-the current header 2 highlighted
-- content page
-`left` content
-`right` h2(top),h3,h4,ul,ol
+- local
+pwa
+- contents view
+zoom in and zoom out
+- markdown extended
+table of contents,chapter number...
+- typora like
+- themes
+- plugins
+- sync
+with notion,obsidian
 ```
-eveything is in pure markdown
-unlike popular slide apps
-it focuses on the content instead of eye-catching visual effects
-  - `course` everyone can teach
-inspired by `anywayfm xplayer` `bilibili castelu`
-create your desired courses with ease
-  - `block` "programming langs" such as `note` `comment` `solution` `question`
-render them like markdown code blocks with special style
-  - `theme` elegant document styles
-- `md` elegance of thoughts
-inspired by `xmind` `excalidraw` `drawio`
+- `pre` content focused presentation
+inspired by `beamer`
+  - products
+```
+pre
+the simplicity of slide
+
+pre blocks
+render notes comments warnings solutions questions in unique style
+
+pre themes
+render beautiful markdown
+
+course
+the drive to teach
+```
+  - features
+```
+- based on extended markdown
+eveything in markdown
+it focuses on the content 
+instead of eye-catching effects
+- content view
+first page for header 1
+toc pages highlighting current header 2
+header 3 4 5 6,ul,ol listed on the right
+- info bottom
+page index,author and date
+```
+- `mind` elegance of thoughts
+inspired by `drawio` `xmind` 
 everything on keyboard in markdown
 built-in beautiful styles
   - `list` create and share mindmaps
@@ -105,6 +92,15 @@ world vintage artworks
 huge brand outfit models
 ubuntu wallpapers
 3a games
+  - products
+```
+gen
+
+genstock
+- fonts
+- imgs
+- songs
+```
 - `neko` chat without llm
 inspired by `siri` `mistral large`
 see the reason behind the anwser
@@ -130,12 +126,14 @@ convert pexels to paths
 without llm
   - `fltr` artwork styling
   - `mosaic` better mosaic
+  - `toning` simple toning
 text to geometric symbols
 identity to circles not squares
-- `charstyler` elegant unicode text styler
-- `charspainter` local image to text converter
-- `charstable` convert table to plaintext or markdown
-
+  -  products
+```
+toning
+> ref `b 朋友说我的调色像魔法...`
+```
 ## perceive
 - `pepper` watch replay like live
 inspired by `simplelive` `forever naive taffy` `cr lciop`
@@ -214,6 +212,9 @@ video makers podcasters bloggers
   - `things` world goods list
   - `vintage` world famous artworks
   - `channel` broadcast the digital geek lifestyle
+  - products
+```
+```
 - `wallpaper` everyday elegance
   - builtin wallpaper by apple ubuntu and smartisan
   - world famous artworks
@@ -247,12 +248,19 @@ in hs i once had some creative ideas
   - products
 ```
 debation summary
+> ref `b 爱看辩论的蛋黄酱`
 > -> git/blogging/debation
 structured view instead of unordered words flow
 从无序的话语中分析结构性的观点
 - 整理语序
 先提出论点,再举例论证
-
+- 图
+ref 16persalnalities
+人物抽象+辩题关键字
+- 题
+金句引用,劳苦功高
+- 引
+外卖
 
 recite helper
 > implemented well
@@ -277,7 +285,7 @@ entrance exam writing
 - `pure` my desired math courses
 inspired by `lean prover` `beamer`
 > alias `纯真数学` `疯狗` `pure math` `purity of math`
-- products
+  - products
 ```
 纯度数学
 - 简化表述
@@ -295,6 +303,14 @@ inspired by `lean prover` `beamer`
 注意到`正弦函数`,考虑`边角转换`
 内容来源于一二模题库...
 
+pure math style
+- 图
+ref codingstartup
+- 题
+词语+标点
+- 引
+ref nsfw
+
 pure math series
 - 知识
 定义
@@ -305,6 +321,16 @@ pure math series
 华师大强基
 - 外卖
 A4的总结
+
+dailyab
+- 每天两道题目
+A4,正反面打印
+- 每天10道题目
+A4,一面,只有题目,没有留白
+```
+  - features 
+```
+简单技巧,不用动脑
 ```
 explain every concept in 10mins and share problem solving tricks
 use modern tech to make it vivid and style-united
@@ -349,10 +375,10 @@ why math
 > alias `自在`
   - products
 ```
-deconstruct -all
-> implemented well
-> -> [薄冰英语语法](https://oldwestenglish.github.io/grammar/#/)
-一篇文章,列出英文的句法,以引用或查找
+deconstruct grammar
+> ref [薄冰英语语法](https://oldwestenglish.github.io/grammar/#/)
+- 补全语法
+- 增加常用句式
 
 translation
 优雅地直译
@@ -428,6 +454,7 @@ selector and attributes
 grammar and built-in methods
 - spark
   - implement great games
+> ref [nobsgames](https://nobsgames.stavros.io/android/)
 io games and single-machine games
 such as scratch projects
 cards master: gambers with unique characters
@@ -435,6 +462,13 @@ cool wind: scalable openworld game like eldenring
 clashlocal: 15 ideas ignored by sc,8 evo slots,evo by damage dealt
 letsbrawl: play with quality teamates,everyone hypercharged
 platfighter: platformer and honkai school 2
+typing trainer
+  - rethink popular apps
+digdog
+snapcat
+zoombie
+ganstagram
+pickduckduck
   - create gorgeous visual effects
 from games like gi sr 
   - build everything with you
@@ -475,20 +509,23 @@ vivid blocks instead of unordered lines
   - shortcut
   - ...
 ```
+- `callcolor` name every hsl color
+beautiful.
 - `fx` arithmatic god
 inspired by `casio fx991` `code`
-  - write full literal
-  - use accurate form as possible
-  - highly-customizable
-    - theme
-    - shortcuts
-    - functions display
-    - arcsin or sin-1
-  - integrate with script
-    - see api document
-- `djhswtf` how stupid are your classmates
-maybe it's not a challenge of efforts but studying ability
-for example in high school
+  - features
+```
+- write full literal
+- use accurate form as possible
+- highly-customizable
+  - theme
+  - shortcuts
+  - functions display
+  - arcsin or sin-1
+- integrate with script
+  - see api document
+```
+- `anicalc` math calucation animation
 
 ## dev
 - `firascript` javascript over simplified
@@ -503,15 +540,18 @@ fson
 - `voyage` opensource design platform
 inspired by `webflow` `figma` `jsdesign` `mastergo`
 design `themes` `components` `pages`
-  - products
+- `voyage.js` build with elegance
+components and data
+  - features
 ```
-  - `sobriety.js` build with elegance
-`components` and `data binding`
+- methods
 parse bind get set
-  - `view` make data intuitive
-`list` `json` `mindmap` `table` `...`
-
+- implementation
+components: bind
+structure: pass
 ```
+- `view` make data intuitive
+`list` `json` `mindmap` `table` `...`
 - `threedoge` 3d model creator but based on `css3d`
 inspired by `blender`
 - `libreapi` grab infomation
