@@ -5,7 +5,7 @@ alias
 - `fira`
 - `忘我思考`
 - `言序&映画`
-- `少爷之赋闲`
+- `少爷赋闲`
 
 who
 - a developer
@@ -43,6 +43,7 @@ love
 - _grand theft auto v
 - _elden ring
 - _sekiro
+- _rust
 - _minecraft
 - _the binding of isaac
 

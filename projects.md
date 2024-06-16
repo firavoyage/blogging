@@ -523,14 +523,20 @@ inspired by `casio fx991` `code`
 - `anicalc` math calucation animation
 
 ## dev
-- `firascript` javascript over simplified
+- `firascript` simplicity of javascript
 inspired by `js20` `js30` `js50`
 > -> `fs0.6.md`
   - products
 ```
 firascript
+a javascript dialect
 
 fson
+firascript object notation
+```
+  - features
+```
+
 ```
 - `voyage` opensource design platform
 inspired by `webflow` `figma` `jsdesign` `mastergo`
