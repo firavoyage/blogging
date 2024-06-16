@@ -14,6 +14,9 @@ typora as a component
 para compiler
 render extended markdown
 
+docu
+document builder
+
 goodnight
 keeping made simple
 - sleep
@@ -71,27 +74,13 @@ page index,author and date
 inspired by `drawio` `xmind` 
 everything on keyboard in markdown
 built-in beautiful styles
-  - `list` create and share mindmaps
-  such as `world goods list` `china contemporary famous writers` `web novels i love`
-- `docu` elegant document site builder
 
 ## create
 - `gen` image generator gone crazy
 inspired by `dribbble` `midjourney`
 > ref `gen_ai.md`
-without large model and lots of calcs
-just a large object library and high-abstracted graphic scripts
-eg...
-five-fingered hands with fingerprints and veins
-anime characters in svg
-clear-displayed text
-and more
-source...
-pixiv hall of fame
-world vintage artworks
-huge brand outfit models
-ubuntu wallpapers
-3a games
+no neutral network needed
+just object libraries and highly abstracted scripts
   - products
 ```
 gen
@@ -100,6 +89,17 @@ genstock
 - fonts
 - imgs
 - songs
+```
+  - features
+```
+- sources
+pixiv hall of fame
+world vintage artworks
+free wallpapers
+- examples
+five fingered hands with veins
+anime characters in svg
+clearly displayed text
 ```
 - `neko` chat without llm
 inspired by `siri` `mistral large`
@@ -112,7 +112,7 @@ integrated with `command`
   - passage `guide`
   - features
 ```
-highly-cleaned data,inputed in json
+wiki in json
 highly-abstracted grammar,like words filling
 ```
 - `command` call anything
@@ -132,7 +132,7 @@ identity to circles not squares
   -  products
 ```
 toning
-> ref `b 朋友说我的调色像魔法...`
+> ref `b 朋友说我的调色像魔法`
 ```
 ## perceive
 - `pepper` watch replay like live
@@ -276,11 +276,6 @@ literary masterpieces in 15mins
 ruanyf great
 将ruanyf的优秀博文制作称视频
 using pre
-
-entrance exam writing
-总结分类所有主题,提供几篇范文
-关心那些永恒的辩题,而非时事热点
-(然而许多题目有审题障碍,或者论据不足)
 ```
 - `pure` my desired math courses
 inspired by `lean prover` `beamer`
