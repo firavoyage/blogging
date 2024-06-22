@@ -35,6 +35,7 @@
 - joker
 - the graduate
 - reply 1988
+- tom and jerry
 ...
 - azurlane
 - bluearchive
@@ -57,6 +58,7 @@
 - _the binding of isaac
 - _the legend of zelda
 - _grand theft auto v
+- _needy streamer overload
 - _senrenbanka
 ...
 - wind of change

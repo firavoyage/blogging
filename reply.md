@@ -853,6 +853,18 @@ C
 我回到这个幻想世界
 如捧起一本小说的重量
 
+## genshin impact lover
+
+Genshin is honestly life changing. I haven't played a game this fun in years
+
+One of my favorite games has been World of Warcraft, and it has gotten increasingly lackluster over the years. Exploration is barely rewarded anymore, travel is incredibly fast and you can fly, so the sense of exploration is diminished rapidly, and worst of all, the story is just so memelike that it's hard to take seriously anymore. So I try a handful of other titles/franchises I'm familiar with, and it's all the same exact thing. Cookie cutter, boring, mediocre story. You name it, I've tried it, and got bored with it. Pokemon games, Final Fantasy, Destiny... All so boring, and low effort at least in my own experience. I find myself really craving adventure, so I tried Genshin, a game that game up on suggested games on Epic launcher, and...
+
+Wow. This game is insane. The massive open world is gorgeous. It's like stepping into a whole brand new anime style world where you can just roam around, explore, chill, the quests and stories are really fun and lighthearted. Coming from WoW, it is refreshing to have a story that makes sense, and doesn't sound like some cringe fan fic.
+
+In the more I play this game, I find myself wondering, why can't other games be more like this? Why can't other games have a coherent story, crisp and clean graphics, believable characters, and not feel like a meme 90% of the time? It just escapes me. This game is seriously life changing. I've really missed having something so simple and blissfully fun to play.
+
+(reddit)
+
 
 
 
