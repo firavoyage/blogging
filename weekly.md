@@ -3,6 +3,71 @@
 > 🌕 💤 before 23:00!
 > -> `endeavour` on ubuntu
 
+## 20240620
+
+> school
+- 英语一模 grammar cloze reading:a&c translation 
+- 思辨阅读 "刘擎西方现代思想讲义" "人生哲思录"
+> after school
+- al 10min
+- hi 5min
+- leisure 30min
+- ba&eat 20min
+- conclude debation videos
+- watch mygo
+- rewatch yosuga no sora
+- (watch frieren)
+> weekend
+- download series(debation and bangumi) and movies(imdb and douban sel few)
+- trim web > blogs
+- trim memories > comments
+- revise fav > nsfw art design...
+- revise projects
+- revise projects > love
+- watch lives
+- sync
+- (play rpgs)
+- (rewatch yosuga no sora)
+> summer vacation
+- conclude js tut
+- design fs
+- revise projects.md
+- (think about projects implementation details, write passages ~and videoify them~)
+- (create memories *beautifully advance*)
+
+
+## 20240617
+
+> school
+- 英语一模 grammar cloze reading:a&c translation 
+- 思辨阅读 "观念的水位"
+> after school
+- al 10min
+- hi 5min
+- leisure 30min
+- ba&eat 20min
+- conclude debation videos
+- watch mygo
+- rewatch yosuga no sora
+- (watch bocci the rock)
+- (watch fulilian)
+- (watch wotuidehaizi)
+> weekend
+- trim web > blogs
+- trim memories > comments
+- revise fav > nsfw art design...
+- revise projects.md
+- watch lives
+- sync
+- (play rpgs)
+- (rewatch yosuga no sora)
+> summer vacation
+- conclude js tut
+- design fs
+- revise projects.md
+- (think about projects implementation details, write passages ~and videoify them~)
+- (create memories *beautifully advance*)
+
 ## 20240611
 
 > reduce time for `eat`

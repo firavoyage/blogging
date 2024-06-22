@@ -2,7 +2,7 @@
 
 > here are the debation videos i've picked out
 
-- “内卷”是个假问题/真问题
+## “内卷”是个假问题/真问题
 
 rat race
 
@@ -10,7 +10,7 @@ rat race
 
 https://www.bilibili.com/video/BV1uo4y1f7Ba?p=1
 
-- 脱口秀/辩论能更好地回应世界
+## 脱口秀/辩论能更好地回应世界
 
 talkshow v debation
 
@@ -18,7 +18,7 @@ talkshow v debation
 
 https://www.bilibili.com/video/BV1uo4y1f7Ba?p=2
 
-- 技术正在拯救/毁灭艺术
+## 技术正在拯救/毁灭艺术
 
 tech and art
 
@@ -26,13 +26,16 @@ tech and art
 
 https://www.bilibili.com/video/BV1uo4y1f7Ba?p=7
 
-- 在当下，泛娱乐化现象是/不是弊病
+## 在当下，泛娱乐化现象是/不是弊病
 
 pan entertainment
 
 2020国际华语辩论邀请赛 复赛 第四场 北京大学vs中国人民大学 
 
 https://www.bilibili.com/video/BV1uo4y1f7Ba?p=9
+
+## 熬夜是...
+
 
 
 

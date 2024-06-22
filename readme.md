@@ -1,57 +1,67 @@
-```
-_firavoyage 
+# _firavoyage 
 
-alias
+## alias
 - `fira`
 - `忘我思考`
 - `言序&映画`
 - `少爷赋闲`
+- `苇名一心`
 
-who
+## who
 - a developer
 - came to the world on sept17 2007
 - grew up in shanghai
 - on the internet since 2022 which is my actual home town
 
-love
+## love
 - lipton black tea
 - cocacola zero
 - lays pototo chips original
 - dark chocolates
+- burgerking
+- steamed bun and mineral water
+- fast noodles with pickles
 - muji & uniqlo clothing
-- literary chinese
-- purity of math
-- i wandered lonely as a cloud
-- in solitude where we are least alone
-- web app development
-- simple gardening
 - life-size waifu
+- flowers and greenery
+- purity of math
+- web app development
+...
+- yosuga no sora
+- bang dream! it's mygo!!!!!
+- frieren: beyond journey's end
+- bocchi the rock
+- oshi no ko
+- joker
+- the graduate
+- reply 1988
+...
 - azurlane
+- bluearchive
 - brawl stars
 - clash royale
-- honkai impact third
-- honkai star rail
 - genshin impact
+- honkai star rail
+- honkai impact third
+...
 - forever naive taffy
 - orient snowy lotus
 - lciop
 - mohamad light
 - natural brawl master
 - longbow flintlock
-- _senrenbanka
-- _the legend of zelda
-- _grand theft auto v
-- _elden ring
+...
 - _sekiro
-- _rust
+- _elden ring
 - _minecraft
 - _the binding of isaac
-
-playlist
+- _the legend of zelda
+- _grand theft auto v
+- _senrenbanka
+...
 - wind of change
 - the sound of silence
 - scarborough fair
-- always in my heart
 - dearest drop (tv size)
 - caresse sur l'océan
 - benevolence bequeathed
@@ -71,8 +81,33 @@ playlist
 - ほろよい
 - клетка
 - судно
+...
+- .刘擎西方现代思想讲义
+- .人生哲思录
+- _海子的诗
+- _顾城的诗
+- _飞鸟集
+- _人间词话
+- _可能性的艺术
+- _送你一颗子弹
+- _树上的男爵
+- _看不见的城市
+- _分成两半的子爵
+- _人生的智慧
+- _风流去
+- _给大壮的信
+- _道德经
+- _红楼梦
+- _史记
+- _GEB
+- 观念的水位
+- 前方的路
+- 黑客与画家
+- 给青年人的十二封信
+- 目送
+- 活着
 
-quotes
+## quotes
 - 遂迷不复得路
 - 欲买桂花同载酒终不似少年游
 - 谁怕一蓑烟雨任平生
@@ -114,7 +149,8 @@ beautifully advance
 - work-life-sleep balance
 instead of work-life balance
 - character is destiny
-a hero is nothing but a product of his time
+- a hero is nothing but a product of his time
+- life is a long-plank game
 - things develop in the process of history
 the process of history means unavoidable sacrifice
 - as human beings it is our right (maybe our moral duty) to reshape the universe to our preferences
@@ -151,34 +187,9 @@ the act of physically turning a page creates a momentary pause for understanding
 our brains have to work to translate the black squiggles on the page into words and then interpret the meaning and intent of those words.
 when a character is described as tall with brown hair,a reader creates her own picture.
 tv takes all that good imagination away.
+- i wandered lonely as a cloud 
 
-books
-- .观念的水位
-- .刘擎西方现代思想讲义
-- .人生哲思录
-- _海子的诗
-- _顾城的诗
-- _飞鸟集
-- _人间词话
-- _可能性的艺术
-- _送你一颗子弹
-- _树上的男爵
-- _看不见的城市
-- _分成两半的子爵
-- _人生的智慧
-- _风流去
-- _给大壮的信
-- _道德经
-- _红楼梦
-- _史记
-- _GEB
-- 前方的路
-- 黑客与画家
-- 给青年人的十二封信
-- 目送
-- 活着
-
-pages
+## pages
 - people
   - livid
   - ruanyf
@@ -186,23 +197,22 @@ pages
   - yinming
   - evanyou
   - 37signals
+  - mistral
 - ideas
   - projects
+  - reply
   - comments
   - quotes
-  - mistral
 - self
   - weekly
   - timeln
-  - future
-  - life memories
   - djhs grades
-  - emails
+  - config > ubuntu config
 
-repos
+## repos
 - `web/blogs` internet time capsule in mhtml
 - `blogging` inspirations and life memories
-- `blogging/config` preferences and configurations
+- `blogging/config` preferences
 - `memories` moments and discoveries
 - `memories/bangumi` bangumi screenshots
 - `memories/comments` thoughts from netpals
@@ -214,10 +224,10 @@ repos
 - `programs` sources and snippets
 - `self` avatars
 
-mission
+## mission
 - make tools elegant
 
-character
+## characters
 - indie developer // also create vivid tutorials
 - internet log maintainer // create memories
 - reminiscent otaku // good old days...
@@ -227,29 +237,26 @@ character
 - unworldly wildness and loftiness // youth...
 - maybe intj // on 16personalities,but many stats are about 50%
 
-social
+## profiles
 - file storage
-  - github `firavoyage`
-  - telegram `archivefiravoyage`
+  - github `@firavoyage`
+  - telegram `@archivefiravoyage`
 - posts
-  - twitter `firascript`
+  - twitter `@firascript`
   - blogger `firavoyage`
   - zhihu `firavoyage`
 - videos
-  - bilibili `fira_言序`
+  - bilibili `Fira_言序`
   - youtube _wip
   - xiaohongshu _wip
   - douyin _wip
-  - kuaishou _wd
+- letter box
+  - email `firavoyage@outlook.com`
+  - telegram `@firavoyage`
 - personal site
   - _wip
 
-message me
-- email `firavoyage@outlook.com`
-- twitter `@firascript`
-- telegram `@firavoyage`
-
-wish
+## wish
 - current
 not to pursue any of my big dreams
 but at school
@@ -263,26 +270,14 @@ at leisure
 sh djhs 2026 graduate
 have got #1 #2 #3 in my grade
 dont study overtime :d
-...people discovered at school
-02 03 07 09(stylish girls)
-chenshiyu(1998,waifu,low saturation ppt,quick reaction,brain-dead writing)
-wangzhaohai(1970s,variable substitute,fn image,humor,enthusiasm,phone bell "五十年以后")
-lujianhong(1980s?,studied in us,know a lot about idioms and foreign culture)
-jiangzhijun21(greatest competitor of grade #1)
-lvfuyuan(math master)
-dixuchen(nsfw addict)
-friends in class1 and class7(playmates and believers) 
-...retro
-huininglu third primary school
-lida junior high school
 - work
 built with firascript
 knowledge organized with structure and elegance
 give free and premium courses
 make tools elegant
-...you know
-i mainly work on math teaching and development
-while i actually love art and culture
+...
+work on purity and programming 
+love art and culture
 - wish
 (upstart) those like me must pub sth on producthunt,earn a lot and get retired early
 do what `adobe` and `coursera` have done with implementation details improved
@@ -296,8 +291,9 @@ i'm eating my feed list
 or enjoying acg
 or studying
 
-> -> douban_book_top250
-> -> douban_movie_top250
+> -> books_douban_top250
+> -> movies_douban_top250
 
 > 🌕 💤 
-```
+
+

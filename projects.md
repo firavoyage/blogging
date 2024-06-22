@@ -14,6 +14,9 @@ typora as a component
 para compiler
 render extended markdown
 
+para independent app
+render to html with slide script included
+
 docu
 document builder
 
@@ -34,7 +37,7 @@ pwa
 - contents view
 zoom in and zoom out
 - markdown extended
-table of contents,chapter number...
+latex,table of contents,chapter number,blocks...
 - typora like
 - themes
 - plugins
@@ -103,17 +106,23 @@ clearly displayed text
 ```
 - `neko` chat without llm
 inspired by `siri` `mistral large`
-see the reason behind the anwser
-neko isnt supposed to answer anything
-but it specializes in some assignments
-integrated with `command`
-  - word `tag`
-  - quote `subject`
-  - passage `guide`
+  - products
+```
+neko
+
+neko terminal
+```
   - features
 ```
-wiki in json
-highly-abstracted grammar,like words filling
+- see reasons behind anwsers
+- specializes in certain assignments
+- highly-abstracted grammar,like words filling
+source...
+word `tag`
+quote `subject`
+passage `guide`
+wiki `json`
+
 ```
 - `command` call anything
 inspired by `setapp`
@@ -169,10 +178,8 @@ libre: free dl songs / import export sync / add extensions
 inspired by `google reader` `rsshub`
   - features
 ```
-  - read from anywhere
-rss | content platforms | any website
-  - offline first
-import export and sync
+- read from anywhere
+- offline first
 ```
 - `fav` internet time capsule
 inspired by `pocket` `instapaper` `notion`
@@ -181,41 +188,67 @@ inspired by `pocket` `instapaper` `notion`
 - import favlist from bilibili,youtube,zhihu
 - integrate with eat
 ```
-
 - `shelf` simple and elegant bookshelf
-inspired by `legado` `weread` `z-library`
-  - reader mode evolved
-  - get book sources from search engines
-> reading made simple
-  - offline first
-import and export
-  - `rd` just content
-inspired by `simpread`
-the ultimate reader mode
-- `goods` get rid of consumerism
+inspired by `legado` `weread` `z-library` `anna's archive`
   - products
 ```
-goods tracker?
-不关心钱去了哪
-关心得到了什么
+shelf
 
-world goods list
+rd
+just content
+inspired by `simpread`
+the ultimate reader mode
+
+tom
+imageset,pdf,epub,... to markdown
 ```
-
+  - features
+```
+- reader mode evolved
+- get book sources from search engines
+- offline first
+```
 - `globe` detailed map of the infomation age
 inspired by `appinn` `codefather`
 index of everything around the globe
 not just the most popular or promoted ones 
-  - `tools` apps and sites
-  - `people` content creators
-video makers podcasters bloggers
-  - `things` world goods list
-  - `vintage` world famous artworks
-  - `channel` broadcast the digital geek lifestyle
   - products
 ```
+tools
+apps and sites
+
+sources
+wiki sites index
+people
+content creators
+video makers podcasters bloggers
+
+vintage
+world famous artworks
+
+channel 
+broadcast the digital geek lifestyle
+```
+- `art and culture` list the watched and the read
+
+- `goods` get rid of consumerism
+  - products
+```
+goods
+app
+
+world goods list
+source
+```
+  - features
+```
+- 祂不鼓励买买买,甚至不让买,像个博物馆
+- 祂不关心钱去了哪,只关心最后拥有了什么
+- why not included in globe?
+it's not just a source but an app
 ```
 - `wallpaper` everyday elegance
+> implemented well,part of globe
   - builtin wallpaper by apple ubuntu and smartisan
   - world famous artworks
 
@@ -366,12 +399,29 @@ why math
 - 大量积累
 没有办法快速提升
 ```
-- `leisure` integrity of a language
+- `leisure` retro language learning
 > alias `自在`
   - products
 ```
+leisure
+- 词汇过滤
+水平测试(不含小学词)
+个人偏好(你希望被这些词吗)
+- 由浅入深
+先背词根
+- 轻松
+每天等量单词(单词太多明天再复习)
+随时提示(没时间可以快进)
+单一按钮(不用判断认识与否)
+- 白名单
+最后通过才行
+- 朴素的声音
+机器朗读的进化
+
 deconstruct grammar
+inspired by `lean prover` `形式化语言`
 > ref [薄冰英语语法](https://oldwestenglish.github.io/grammar/#/)
+> source `imdb reviews`
 - 补全语法
 - 增加常用句式
 
@@ -379,7 +429,7 @@ translation
 优雅地直译
 - 中英文之异
 - 语料
-gi,sr cv&pv,英文名著的优秀中译?
+gi,sr cv&pv,english masterpieces,dict
 一二模考题?
 
 collection
@@ -399,21 +449,6 @@ in broad daylight
 ...
 - 比喻
 lol, impressive metaphors in gi
-
-leisure
-- 词汇过滤
-水平测试(不含小学词)
-个人偏好(你希望被这些词吗)
-- 由浅入深
-先背词根
-- 轻松
-每天等量单词(单词太多明天再复习)
-随时提示(没时间可以快进)
-单一按钮(不用判断认识与否)
-- 白名单
-最后通过才行
-- 朴素的声音
-机器朗读的进化
 ```
 no courses or paid services included
 no network required
@@ -434,30 +469,32 @@ love `the economist`
 > ref `oi_wtf.md`
 olympics are boring
 algorithm may not be a competition
-made algo vivid with `intuitive`
+algo made vivid
 - `intuitive` showcase the power of web
 inspired by `scratch3` `typora` `code`
 learn web dev through making games
 visualized firascript
   - products
 ```
-- html tut
-tags and attributes
-- css tut
-selector and attributes
-- js tut
-grammar and built-in methods
+- web app dev tut
+html tags and attributes
+css selector and attributes
+js grammar and built-in methods
 - spark
-  - implement great games
-> ref [nobsgames](https://nobsgames.stavros.io/android/)
-io games and single-machine games
-such as scratch projects
+  - implement io games and single-machine games
+great games
+[nobsgames](https://nobsgames.stavros.io/android/)
+
+tiny games
+poki,4399,scratch,honkai impact third,zoomless zone zero,azurlane
+
+ideas
 cards master: gambers with unique characters
 cool wind: scalable openworld game like eldenring 
 clashlocal: 15 ideas ignored by sc,8 evo slots,evo by damage dealt
 letsbrawl: play with quality teamates,everyone hypercharged
 platfighter: platformer and honkai school 2
-typing trainer
+doubanvimdb: behind diff ranks of the same movie,analyse with cultures and tastes
   - rethink popular apps
 digdog
 snapcat
@@ -472,6 +509,7 @@ no libraries necessary
 data separated and component based
 
 - nsfw idioms
+> ref mihoyo
 bored of `loren ipsum`?let's nsfwify
 contents from
   - net 
@@ -536,17 +574,29 @@ firascript object notation
 ```
   - features
 ```
+pair
 
+read
+
+match
 ```
 - `voyage` opensource design platform
 inspired by `webflow` `figma` `jsdesign` `mastergo`
 design `themes` `components` `pages`
+  - products
+```
+webchat
+
+```
 - `voyage.js` build with elegance
 components and data
   - features
 ```
 - methods
-parse bind get set
+parse(fson)
+bind(el)
+get(prop)
+set(prop)
 - implementation
 components: bind
 structure: pass
@@ -649,12 +699,9 @@ fcitx5
 fcitx-android
 
 # design
-- fira-eye-catching
-> archive.org -> design.google
-use high saturation hitting-colors instead of just red and yellow
-use bouncy motion
 - google
-  - material design
+  - design.google
+  - material design 3
   - chromium 124
   - gmail web mobile legacy
 - ubuntu yaru

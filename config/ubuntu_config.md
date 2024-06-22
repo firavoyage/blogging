@@ -281,7 +281,7 @@ at view>appearance
   - lightbulb `off`
   - workspace `off`
 - install theme
-  - dracula official (❤)
+  - dracula official `❤`
   - one dark pro
   - monokai pro
 - install extensions
