@@ -291,20 +291,21 @@ structured view instead of unordered words flow
 ref 16persalnalities
 人物抽象+辩题关键字
 - 题
-金句引用,劳苦功高
+金句引用
 - 引
 外卖
 
-recite helper
-> implemented well
-> -> bili 阿小飞飞飞
+symbol world of wonder
+metaphor & analogy & simile
+in one sentence
+eg:
+- 许多家长带小孩,就像莽夫打魂游
+- 昨晚正是愉快啊,我到现在还像漂浮在水面上的蜡烛一样呢
+- 从黄昏到水面,从恍惚到睡眠
 
-literary masterpieces in 15mins
-- positive comments 30s
-- the author and the time 1min
-- chapters abstract 3mins
-- excerpts & interpretation 10mins
-- sentence with endless aftertastes 30s
+pretest great
+从出题者的角度,评析一模卷现代文阅读理解题目质量和答案质量
+
 
 ruanyf great
 将ruanyf的优秀博文制作称视频

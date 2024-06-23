@@ -233,7 +233,7 @@ chrome://flags/#chrome-webui-refresh-2023
 - config extensions
   - adguard `https://chromewebstore.google.com/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg`
     - filters `ad blocking` `privacy` `annoyance` `...`
-    - user rules `git/blogging/config/list_adguard.txt`
+    - import settings `git/blogging/config/list_adguard.json`
   - google translate `https://chromewebstore.google.com/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb`
     - my primary language `chinese(simplified)`
     - pop-up translations `immediately popup`

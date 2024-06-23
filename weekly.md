@@ -19,9 +19,9 @@
 - (watch frieren)
 > weekend
 - download series(debation and bangumi) and movies(imdb and douban sel few)
-- trim web > blogs
-- trim memories > comments
-- revise fav > nsfw art design...
+- organize web > blogs
+- organize memories > comments
+- revise fav...
 - revise projects
 - revise projects > love
 - watch lives

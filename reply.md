@@ -865,6 +865,31 @@ In the more I play this game, I find myself wondering, why can't other games be 
 
 (reddit)
 
+## why ubuntu
+
+另外一台,windows
+只有大型游戏(sekiro)
+不包括mobile game和galgame
+...
+mac是极致的生意,反自由的东西
+mac对windows优势许多
+mac对ubuntu优势不知道,生态和市场好像也反自由
+...
+windows干啥都行,除了游戏都不舒服
+不想为微软的过失缝缝补补
+所以用ubuntu
+ubuntu兼容性是优势,我也想放弃这些软件
+...
+写了偏好文档 `config > ubuntu config`
+就是这些
+(ref nju jiangyanyan)
+
+## shanghai retro
+
+在那个阳光最不饶人的年代
+我身边有`小胖` `小雅`
+还有`Alice` `Peter` `Danny`
+
 
 
 
