@@ -140,8 +140,17 @@ text to geometric symbols
 identity to circles not squares
   -  products
 ```
-toning
+material
+
+ton
 > ref `b 朋友说我的调色像魔法`
+
+instr
+一句话画图,但比祂们nb
+"胡桃,只有头和脖子,像素艺术"
+"流萤,超天酱滤镜"
+"把图像中的ganyu换成nahida"
+"画图:电视机开放了猫和老鼠,大人小孩不约而同放下手机,目不转睛"
 ```
 ## perceive
 - `pepper` watch replay like live
