@@ -26,17 +26,18 @@
 - flowers and greenery
 - purity of math
 - web app development
-...
+
 - yosuga no sora
+- worldend: what do you do at the end of the world? are you busy? will you save us?
 - bang dream! it's mygo!!!!!
 - frieren: beyond journey's end
 - bocchi the rock
 - oshi no ko
-- joker
-- the graduate
-- reply 1988
 - tom and jerry
-...
+- joker
+- reply 1988
+- the graduate
+
 - azurlane
 - bluearchive
 - brawl stars
@@ -44,14 +45,14 @@
 - genshin impact
 - honkai star rail
 - honkai impact third
-...
+
 - forever naive taffy
 - orient snowy lotus
 - lciop
 - mohamad light
 - natural brawl master
 - longbow flintlock
-...
+
 - _sekiro
 - _elden ring
 - _minecraft
@@ -60,7 +61,7 @@
 - _grand theft auto v
 - _needy streamer overload
 - _senrenbanka
-...
+
 - wind of change
 - the sound of silence
 - scarborough fair
@@ -83,7 +84,7 @@
 - ほろよい
 - клетка
 - судно
-...
+
 - .刘擎西方现代思想讲义
 - .人生哲思录
 - _海子的诗
@@ -277,7 +278,7 @@ built with firascript
 knowledge organized with structure and elegance
 give free and premium courses
 make tools elegant
-...
+
 work on purity and programming 
 love art and culture
 - wish

@@ -5,6 +5,23 @@
 
 ## 20240620
 
+> summer vacation daily
+- complete mobile games daily assignments
+- learn/review 60words (15*4)
+- eat feed (bilimiao)
+> summer vacation day
+- read&conclude books ("javascript tut" "math advanced")
+- revise plans/paragraphs ("projects impl details" "projects > love" "firascript")
+- organize discoveries/memories ("web > blogs" "memories > comments" "fav")
+> summer vacation night
+- read sr stories
+- watch&conclude debation videos
+- watch&rewatch bangumis ("mygo" "frieren" "yosuga no sora")
+- watch movies (imdb and douban selected few)
+- watch game lives
+
+## 20240620
+
 > school
 - 英语一模 grammar cloze reading:a&c translation 
 - 思辨阅读 "刘擎西方现代思想讲义" "人生哲思录"
