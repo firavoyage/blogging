@@ -315,6 +315,9 @@ eg:
 pretest great
 从出题者的角度,评析一模卷现代文阅读理解题目质量和答案质量
 
+math teacher v chinese reading
+不喜欢`联想` `反推`
+喜欢 `枚举` `正推`
 
 ruanyf great
 将ruanyf的优秀博文制作称视频
@@ -341,13 +344,11 @@ inspired by `lean prover` `beamer`
 注意到`正弦函数`,考虑`边角转换`
 内容来源于一二模题库...
 
-pure math style
-- 图
-ref codingstartup
-- 题
-词语+标点
-- 引
-ref nsfw
+pure tut
+初中,高中数学课本总结,A4大小.
+初中的几何技巧,高中会经常引用,于是想到编写之
+小学高级算术,初中会重拾,单看就已是完整的数学教材
+大学高等数学,可以在别的地方找到
 
 pure math series
 - 知识

@@ -15,7 +15,7 @@
 - organize discoveries/memories ("web > blogs" "memories > comments" "fav")
 > summer vacation night
 - read sr stories
-- watch&conclude debation videos
+- watch&conclude debation videos (downloaded few from fav)
 - watch&rewatch bangumis ("mygo" "frieren" "yosuga no sora")
 - watch movies (imdb and douban selected few)
 - watch game lives
