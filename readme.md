@@ -49,8 +49,16 @@
   - brawl stars
   - clash royale
   - genshin impact
-  - honkai star rail
   - honkai impact third
+  - honkai star rail
+  - _sekiro: shadow die twice
+  - _elden ring
+  - _the binding of isaac
+  - _the legend of zelda
+  - _grand theft auto v
+  - _needy streamer overload
+  - _senrenbanka
+  - _minecraft
 -
   - forever naive taffy
   - orient snowy lotus
@@ -58,15 +66,6 @@
   - mohamad light
   - natural brawl master
   - longbow flintlock
--
-  - _sekiro
-  - _elden ring
-  - _minecraft
-  - _the binding of isaac
-  - _the legend of zelda
-  - _grand theft auto v
-  - _needy streamer overload
-  - _senrenbanka
 -
   - wind of change
   - the sound of silence
@@ -83,10 +82,13 @@
   - 富士山下
   - 海阔天空
   - 光辉岁月
+  - 五十年以后
   - 匆匆那年
-  - 比翼の羽根
   - -記憶-
   - -遠い空へ-
+  - 比翼の羽根
+  - ツナグキズナ
+  - フタリ (春日野穹ver)
   - ルマruma
   - ほろよい
   - клетка
@@ -130,12 +132,8 @@
   - _罗生门
   - _理想国
   - _命运
-- 
-  - refactoring ui
-  - competitive programmer’s handbook
-  - 算法竞赛入门经典
-  - 算法竞赛入门经典 训练指南
-  - 算法竞赛进阶指南
+  - _refactoring ui
+  - _competitive programmer’s handbook
 - 
   - ubuntu
   - code

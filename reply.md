@@ -1117,6 +1117,8 @@ there are a lot of lovers i've found."
 红日的倒影,闪烁空中,沉潜水中
 玫瑰的朝霞,黄昏窗中,折映屋中
 
+她说带了不算给
+
 如果祂涉世未深,就带她见世间繁华.(ref yomiya)
 如果祂历尽沧桑,就带她骑旋转木马.(ref raiden shogun)
 
