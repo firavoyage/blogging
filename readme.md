@@ -275,12 +275,13 @@ tv takes all that good imagination away.
 ## repos
 - `blogging` inspirations and life memories
 - `blogging/debation` debation summaries
+- `blogging/config` preferences and wikihow
 - `music` favorite songs
 - `web/blogs` internet time capsule
 - `memories` moments and discoveries
 - `memories/comments` thoughts from netpals
-- `memories/discoveries` digital life tracker
-- `memories/gaming/self` impression of games
+- `memories/discoveries` digital life
+- `memories/gaming/self` gaming life
 - `memories/school_life` diary at school
 - `programs` sources and snippets
 - `fonts` favorite fonts
