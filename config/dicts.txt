@@ -1,6 +1,0 @@
-dicts moved to `documents/dicts`
-
--> `ubuntu config #goldendict` for further info
-(backup `https://t.me/archivefiravoyage`)
-
-

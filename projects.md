@@ -105,12 +105,21 @@ anime characters in svg
 clearly displayed text
 ```
 - `neko` chat without llm
-inspired by `siri` `mistral large`
+inspired by `siri` `lean prover` `mistral large`
   - products
 ```
 neko
 
 neko terminal
+
+deconstruct all
+- english grammar
+> ref [薄冰英语语法](https://oldwestenglish.github.io/grammar/#/) [goldendict]
+> source `wikipedia` `imdb reviews`
+
+translation
+优雅地直译(neko plugin)
+
 ```
   - features
 ```
@@ -319,9 +328,9 @@ math teacher v chinese reading
 不喜欢`联想` `反推`
 喜欢 `枚举` `正推`
 
-ruanyf great
-将ruanyf的优秀博文制作称视频
-using pre
+clipboard
+从哲思书籍中收集观念
+pre + block:lyrics 实现
 ```
 - `pure` my desired math courses
 inspired by `lean prover` `beamer`
@@ -362,9 +371,9 @@ pure math series
 A4的总结
 
 dailyab
-- 每天两道题目
+- 每天两道
 A4,正反面打印
-- 每天10道题目
+- 周末十道
 A4,一面,只有题目,没有留白
 ```
   - features 
@@ -429,20 +438,6 @@ leisure
 - 朴素的声音
 机器朗读的进化
 
-deconstruct grammar
-inspired by `lean prover` `形式化语言`
-> ref [薄冰英语语法](https://oldwestenglish.github.io/grammar/#/)
-> source `imdb reviews`
-- 补全语法
-- 增加常用句式
-
-translation
-优雅地直译
-- 中英文之异
-- 语料
-gi,sr cv&pv,english masterpieces,dict
-一二模考题?
-
 collection
 一些表达,按出现次数排序
 - 表达
@@ -460,6 +455,9 @@ in broad daylight
 ...
 - 比喻
 lol, impressive metaphors in gi
+
+poems
+读诗
 ```
 no courses or paid services included
 no network required
@@ -496,6 +494,9 @@ js grammar and built-in methods
 great games
 [nobsgames](https://nobsgames.stavros.io/android/)
 
+on steam
+roguelike or platformer
+
 tiny games
 poki,4399,scratch,honkai impact third,zoomless zone zero,azurlane
 
@@ -520,20 +521,14 @@ no libraries necessary
 data separated and component based
 
 - nsfw idioms
+> -> git/blogging/reply > nsfw idioms
 > ref mihoyo
 bored of `loren ipsum`?let's nsfwify
 contents from
-  - net 
-man!what can i say!
-wow,holyshit,what is this!
-  - skill cv
-rules,are made to be broken
-memories,are the language of rosemary flowers
-no sacrifice shall go unrewarded
-solitary clouds...
+  - net "网言网语"
+  - character ultimate voice
+  - britain poems
   - lyrics & lines
-parsley sage rosemary and thyme
-i wandered lonely as a cloud
 ```
   - features
 ```
@@ -656,74 +651,10 @@ inspired by [图形化简历](https://www.ruanyifeng.com/blog/2010/09/infographi
 
 # tools
 ubuntu
-chrome
+chromium
 code
-gedit
 git
 luogu
 codeforces
-fira(...)
-
-# love
-
-## perceive
-antennapod
-vlc
-tachiyomi
-read3.0
-bilimiao
-mine
-tyranor
-simple live
-
-## communicate
-git
-nekogram
-libretorrent
-v2ray
-
-## create
-code
-snapseed
-obs
-draw.io
-inkscape
-libreoffice
-
-## source
-oi wiki
-goldendict & mdict
-royaleapi
-brawltimeninja
-waybackmachine
-z library
-anna's archive
-
-## learn
-codeforces
-geogebra
-
-## utility
-ubuntu
-material file
-fcitx5
-fcitx-android
-
-# design
-- google
-  - design.google
-  - material design 3
-  - chromium 124
-  - gmail web mobile legacy
-- ubuntu yaru
-  - 22
-  - 24
-- 16personalities.com
-  - abstract avatar
-  - para style
-- retro
-> good old days
-  - smartisan
-  - douban web
-
+fira
 

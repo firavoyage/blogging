@@ -1,6 +1,6 @@
 # reply
 
-## issues
+## course design issues
 客观地
 ...
 如特色餐馆发展中,往往降低特色以扩大客源
@@ -703,24 +703,30 @@ for exam results in high school
 - `firavoyage@outlook.com`
 send message here
 - `xoyage@gmail.com`
-for google services
+for google oauth login
 - `devvhy@zoho.com.cn` `devvhy@zohomail.cn`
-abandoned
+registered some apps
 - `firav@qq.com`
 unused
 - `firavoyage@foxmail.com`
 unused
 
 ## people discovered at school
-
-- 02 03 07 09 //stylish girls
-- chenshiyu //1998,better 2 to be called as waifu instead of sensei,low saturation ppt,brain-dead writing approach
-- wangzhaohai //1970s,variable substitute & function image master,one with humor & enthusiasm,phone bell "五十年以后"
-- lujianhong //1980s?,studied in us,stories of graduated students,one with idioms and foreign cultures
-- jiangzhijun21 //greatest competitor of grade #1
-- lvfuyuan //math god
-- dixuchen //nsfw addict
-- friends in class 1 and class 7 //playmates and believers 
+- lida junior high school
+  - 11 //#1,calm and easy girl,went to qibao high school
+  - 29 //among the top students,math lover,confident boy,football player
+  - 37 //stupid one,small size boy,genshin and brawlstars player,lovely and naive
+  - zhangchuanzhi //teach chemistry,love doing experiments,great humor,1960s or 1970s,insight of the world
+- dajing vocational high school
+  - 02 03 07 09 //stylish girls
+  - chenshiyu //1998,better 2 to be called as waifu instead of sensei,low saturation ppt,brain-dead writing approach
+  - wangzhaohai //1970s,variable substitute & function image master,one with humor & enthusiasm,phone bell "五十年以后"
+  - lujianhong //1980s?,studied in us,stories of graduated students,one with idioms and foreign cultures
+  - jiangzhijun21 //greatest competitor of grade #1
+  - lvfuyuan //math god with obesity
+  - wangxiaofeng dixuchen //nsfw humor and acg lover
+  - dixuchen //nsfw and adolescent conceit
+  - friends in class 1 and class 7 //playmates and believers 
 ...
 fira
 "开导,打表,求解"
@@ -748,7 +754,7 @@ djhs g1t2 master
 久未打理的刘海,冷光挡着,校草脸颊的黄照得更灰
 不属于全世界的地方,应试教育毒伤的孩子
 一切索然无味的感情,不过黄昏时的朝露,深海中的浮沫,虚无
-所以,幻想,只有幻想,人们苟且偷安
+所以幻想,只有幻想,人们得以苟且偷安
 
 ## summer night
 
@@ -987,6 +993,150 @@ js获取屏幕长宽
 想着,当一切都以如此方式呈现...
 网络便充斥着幻影,永远无法优雅地捕捉
 互联网恐怖
+
+## reminiscence
+
+好想回到高中
+让那个十六岁的孩子倚在我身上
+我会告诉祂,不要理会这个世界,听自己内心的声音
+我还会告诉祂,数学要如何学,英语要如何学...
+
+## use allusions
+
+流传的作品都爱用典
+
+nahida pv 花车颠啊颠,纳西妲睁开眼
+sparkle pv 当我痛苦时,他却在欢笑.
+
+你暗恋得已经足够明显了,只是她不喜欢你
+祂给的意象已经足够明确了,只是你不理解
+
+## huawei criticism
+
+如何理性客观地批评华为公司
+- 指出创新不足,用典"世界是先验的",枚举每个创新内容对比世界范围的前辈,举反例指出吹嘘造势的下场
+- 指出性价比低,对比同类型产品客观数据,分析其优势,真正适用的,远少于目前的消费人群
+- 指出民贵君轻,用典刘瑜"观念的水位",消解颠倒的国与民关系意义
+- 不变不移地站在时间的无限,消解特定时代背景的有限,举正例改变世界的科学家,举反例gitee,baidu,mastergo
+- 平静坚定地站在工具理性,辩证其合理性,如提升税收,增加市场实验室的样本
+- 见微知著,快乐平和地站在既得利益,指出制造业(底层)牛马多的优势,如推动利益上流
+- 鼓励年轻人追求真梦想,用典蒋炎岩"操作系统课最后一讲"
+
+## time and mission
+
+mission: make tools elegant
+
+"the problem is that you think you have time"
+空闲时,我渴望消遣
+忙碌时,我渴望时间
+矛盾.
+
+我想
+我十年后很可能要创作内容
+无非教知识或者教技术
+
+教育行业好,尤其是现在站在学生视角,在高中
+我向师长学习,也向班友学习
+感觉老师教的都不如同学教的好
+所以等待我和我的同辈做的事情许多
+
+究其所以
+我想,很多和我一样的孩子
+哪有分数(台阶)的压力,中学生活不过寻个乐子
+比如老王(wangzhaohai,1970s),善于严谨证明,计算易错但强在思路清晰
+我喜欢他,不过喜欢他的悠然自得,游刃有余
+我和我的同学就不一样了,两句顶十句话,
+不仅会翻译人话,比如"≡mod -> a%b=c" "limx+inf -> l" "a是角A的对边 -> rm" etc.
+还留一手 "惊人的注意力(打表找规律)" "计算器解了(近似化精确)" "举重若轻(抽象跳步)"
+太欢愉了
+比如英文(lujianhong),或许很懂专业八级
+也很有解题经验,但她显然不懂无心插柳柳成荫的乐趣
+歪打正着(就看一个词)比旁征博引(分析上下文)可有意思多了
+比如waifu(chenshiyu),的确参加过2016上海高考
+这就是26岁~纯情少女~的含金量吗
+网言网语就不说了,反正上课不带h是肯定的
+虽然偶尔发病(讲些文学理论,字词解析),不过绝对可以把思春期肥宅玩死
+反正就算你误入正途,我们djvhs少年也能把你拽回来
+
+当然最后我们都还不错,虽然和普高(四校)还是比不了,能拿个a或者a+,运气好#1 #2 #3
+毕竟我们比大多数不得神助(没有学习兴趣)的,或者没有纯真(抓住解题技巧)的强多了
+
+也可能自己干,做独立开发
+但更可能是一种`research`而非`practice`
+最后还是变成了市场实验室的样本
+而非一个有商业价值的产品
+
+"live in the future and build what's missing"
+我得行动起来,`weekly`企划写好了,暑假有时间.
+
+
+## school lover
+
+"here at dajing vocational high school 
+there are a lot of lovers i've found."
+
+是啊
+可是那些恋爱的孩子也只是在恋爱
+更极端地
+或许每天只是在做着同样的动作,说着无差的话,像是在模仿昨日的影子
+很大程度上,我也一类人
+在不变不移的校园里,寻乐子
+只是平常的,却如此令我兴奋,或许是每道题都不一样吧
+那些乐子,一半是计算器给的,一半是纯真给的,还有一些是神明(jiangzhijun,lvfuyuan)给的
+
+"打表秒了" "反三角秒了" "解方程秒了"
+"直接开导" "直接建系"
+
+## math
+
+数学很大
+比如教小学数学,高树就不重要,学习说孩话和懂孩心重要(什么叫庖丁解牛啊)
+比如教数学竞赛,学会用两句话的时间说一句话也很重要(什么叫举重若轻啊)
+像我,我对严谨的数学证明不感兴趣("知识要用苦痛来换取")
+"目测法" "打表找规律" 倒挺有乐子的("太欢愉了")
+
+高中那会
+老王(wangzhaohai)常说
+希望你们高考能考120以上
+当初不解其中意
+
+现在知道了
+高考数学开卷,高一生能靠纯真拿的,大概就是130
+到120,因为祂得失误
+到140,因为祂善于联想,有惊人的注意力
+到150,因为祂善于联想,有惊人的注意力,还不失误
+
+## nsfw idioms
+
+> "故一代有一代之文学" ("人间词话")
+
+"..."("房思琪的初恋乐园")
+"..."("活着")
+啊,要写的这么...吗,不妨借物喻人(f)
+枫叶的金黄,穿梭风中,溶解泥中
+红日的倒影,闪烁空中,沉潜水中
+玫瑰的朝霞,黄昏窗中,折映屋中
+
+如果祂涉世未深,就带她见世间繁华.(ref yomiya)
+如果祂历尽沧桑,就带她骑旋转木马.(ref raiden shogun)
+
+man!what can i say!
+wow,holyshit,what is this!
+
+rules,are made to be broken
+memories,are the language of rosemary flowers
+no sacrifice shall go unrewarded
+solitary clouds shadow in the setting sun stirs the drifter's heart
+
+parsley sage rosemary and thyme
+i wandered lonely as a cloud
+
+不妨竖起大拇指,并订阅将来的更新,如果你感到些许欢愉
+feel free to thumb up and subscribe if you love this
+
+👍🏿4%,👴🏿💵,🐁🐁🗿
+👍🏿2%,👴🏿💸,🐁🐁💰
+
 
 
 

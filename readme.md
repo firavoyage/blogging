@@ -14,104 +14,167 @@
 - on the internet since 2022 which is my actual home town
 
 ## love
-- lipton black tea
-- cocacola zero
-- lays pototo chips original
-- dark chocolates
-- burgerking
-- steamed bun and mineral water
-- fast noodles with pickles
-- muji & uniqlo clothing
-- life-size waifu
-- flowers and greenery
-- purity of math
-- web app development
-
-- yosuga no sora
-- worldend: what do you do at the end of the world? are you busy? will you save us?
-- bang dream! it's mygo!!!!!
-- frieren: beyond journey's end
-- bocchi the rock
-- oshi no ko
-- tom and jerry
-- joker
-- reply 1988
-- the graduate
-
-- azurlane
-- bluearchive
-- brawl stars
-- clash royale
-- genshin impact
-- honkai star rail
-- honkai impact third
-
-- forever naive taffy
-- orient snowy lotus
-- lciop
-- mohamad light
-- natural brawl master
-- longbow flintlock
-
-- _sekiro
-- _elden ring
-- _minecraft
-- _the binding of isaac
-- _the legend of zelda
-- _grand theft auto v
-- _needy streamer overload
-- _senrenbanka
-
-- wind of change
-- the sound of silence
-- scarborough fair
-- dearest drop (tv size)
-- caresse sur l'océan
-- benevolence bequeathed
-- title theme
-- gion2
-- ymca
-- 米店
-- 浮夸
-- 富士山下
-- 海阔天空
-- 光辉岁月
-- 匆匆那年
-- 比翼の羽根
-- -記憶-
-- -遠い空へ-
-- ルマruma
-- ほろよい
-- клетка
-- судно
-
-- .刘擎西方现代思想讲义
-- .人生哲思录
-- _海子的诗
-- _顾城的诗
-- _飞鸟集
-- _人间词话
-- _可能性的艺术
-- _送你一颗子弹
-- _树上的男爵
-- _看不见的城市
-- _分成两半的子爵
-- _人生的智慧
-- _风流去
-- _给大壮的信
-- _道德经
-- _红楼梦
-- _史记
-- _GEB
-- 观念的水位
-- 前方的路
-- 黑客与画家
-- 给青年人的十二封信
-- 目送
-- 活着
+-
+  - lipton black tea
+  - cocacola zero
+  - lays pototo chips original
+  - dark chocolates
+  - burgerking
+  - steamed bun and mineral water
+  - fast noodles with pickles
+-
+  - muji & uniqlo clothing
+  - life-size waifu
+  - flowers and greenery
+  - purity of math
+  - web app development
+-
+  - yosuga no sora
+  - worldend: what do you do at the end of the world? are you busy? will you save us?
+  - bang dream! it's mygo!!!!!
+  - frieren: beyond journey's end
+  - bocchi the rock
+  - oshi no ko
+  - tom and jerry
+  - reply 1988
+  - the long season
+  - joker
+  - the graduate
+  - the god father
+  - the shawshank redemption
+  - soul
+-
+  - azurlane
+  - bluearchive
+  - brawl stars
+  - clash royale
+  - genshin impact
+  - honkai star rail
+  - honkai impact third
+-
+  - forever naive taffy
+  - orient snowy lotus
+  - lciop
+  - mohamad light
+  - natural brawl master
+  - longbow flintlock
+-
+  - _sekiro
+  - _elden ring
+  - _minecraft
+  - _the binding of isaac
+  - _the legend of zelda
+  - _grand theft auto v
+  - _needy streamer overload
+  - _senrenbanka
+-
+  - wind of change
+  - the sound of silence
+  - scarborough fair
+  - dearest drop (tv size)
+  - caresse sur l'océan
+  - benevolence bequeathed
+  - title theme
+  - gion2
+  - ymca
+  - 勇者
+  - 米店
+  - 浮夸
+  - 富士山下
+  - 海阔天空
+  - 光辉岁月
+  - 匆匆那年
+  - 比翼の羽根
+  - -記憶-
+  - -遠い空へ-
+  - ルマruma
+  - ほろよい
+  - клетка
+-
+  - 观念的水位
+  - 刘擎西方现代思想讲义
+  - 给青年人的十二封信
+  - 前方的路
+  - 黑客与画家
+  - 给大壮的信
+  - 目送
+  - 活着
+  - .人生哲思录
+  - _海子的诗
+  - _顾城的诗
+  - _飞鸟集
+  - _GEB
+  - _人间词话
+  - _树上的男爵
+  - _看不见的城市
+  - _分成两半的子爵
+  - _人生的智慧
+  - _人生的枷锁
+  - _红楼梦
+  - _水浒传
+  - _西游记
+  - _三国演义
+  - _老子
+  - _庄子
+  - _史记
+  - _风流去
+  - _百年孤独
+  - _房思琪的初恋乐园
+  - _月亮和六便士
+  - _可能性的艺术:比较政治学30讲
+  - _一句顶一万句
+  - _傲慢与偏见
+  - _悲惨世界
+  - _草房子
+  - _雕刻时光
+  - _罗生门
+  - _理想国
+  - _命运
+- 
+  - refactoring ui
+  - competitive programmer’s handbook
+  - 算法竞赛入门经典
+  - 算法竞赛入门经典 训练指南
+  - 算法竞赛进阶指南
+- 
+  - ubuntu
+  - code
+  - chromium
+  - git
+  - codeforces
+  - fira
+- 
+  - antennapod
+  - vlc
+  - read3.0
+  - onsyuri
+  - bilimiao
+  - simplelive
+  - nekogram
+  - qbitorrent
+  - libretorrent
+  - v2raya
+  - obs
+  - drawio
+  - geogebra
+  - inkscape
+  - libreoffice
+  - characters on ubuntu
+  - waybackmachine
+  - z library
+  - anna's archive
+  - wikipedia
+  - imdb
+  - goldendict
+  - material file
+  - fcitx5 & fcitx android
+  - extension & pwa & wasm tech
+  - ubuntu yaru
+  - design.google
 
 ## quotes
 - 遂迷不复得路
+- 有意栽花花不开无心插柳柳成荫
 - 欲买桂花同载酒终不似少年游
 - 谁怕一蓑烟雨任平生
 - 惟江上之清风与山间之明月
@@ -205,7 +268,6 @@ tv takes all that good imagination away.
   - projects
   - reply
   - comments
-  - quotes
 - self
   - weekly
   - timeln
@@ -213,18 +275,17 @@ tv takes all that good imagination away.
   - config > ubuntu config
 
 ## repos
-- `web/blogs` internet time capsule in mhtml
 - `blogging` inspirations and life memories
-- `blogging/config` preferences
+- `blogging/debation` debation summaries
+- `music` favorite songs
+- `web/blogs` internet time capsule
 - `memories` moments and discoveries
-- `memories/bangumi` bangumi screenshots
 - `memories/comments` thoughts from netpals
 - `memories/discoveries` digital life tracker
 - `memories/gaming/self` impression of games
 - `memories/school_life` diary at school
-- `music` fav songs
-- `fonts` fav fonts
 - `programs` sources and snippets
+- `fonts` favorite fonts
 - `self` avatars
 
 ## mission
@@ -260,36 +321,24 @@ tv takes all that good imagination away.
   - _wip
 
 ## wish
-- current
-not to pursue any of my big dreams
-but at school
-  - advance my cognition
-  - probe problem-solving skills
-at leisure
-  - create memories
-  - recite projects.md
-  - learn web dev and make a summary
 - school life
-sh djhs 2026 graduate
+shanghai dajing vocational high school 2026 graduate
 have got #1 #2 #3 in my grade
+currently among a+ or a
 dont study overtime :d
 - work
-built with firascript
 knowledge organized with structure and elegance
-give free and premium courses
+free and premium courses made with love towards art and culture
+- mission
 make tools elegant
-
-work on purity and programming 
-love art and culture
-- wish
-(upstart) those like me must pub sth on producthunt,earn a lot and get retired early
-do what `adobe` and `coursera` have done with implementation details improved
-create intelligent bots without neural network
+do what `adobe` and `coursera` have done with details improved
+(upstart) succeed on producthunt and retire early
 - rest
 contribute to the liberty of the world
 explore the simplicity of development
 
-when i'm not developing my projects
+## time
+when i'm not working on my projects
 i'm eating my feed list
 or enjoying acg
 or studying

@@ -7,18 +7,19 @@
 
 > summer vacation daily
 - complete mobile games daily assignments
-- learn/review 60words (15*4)
-- eat feed (bilimiao)
+- learn/review 60 words
+- eat (bilimiao)
 > summer vacation day
-- read&conclude books ("javascript tut" "math advanced")
-- revise plans/paragraphs ("projects impl details" "projects > love" "firascript")
-- organize discoveries/memories ("web > blogs" "memories > comments" "fav")
+- read "javascript tut" "js20 js30 js50" & design firascript 
+- read "math advanced" & design "purity"
+- revise projects ("projects > love -> readme")
+- organize discoveries & memories ("web > blogs" "memories > comments" "fav")
 > summer vacation night
 - read sr stories
-- watch&conclude debation videos (downloaded few from fav)
-- watch&rewatch bangumis ("mygo" "frieren" "yosuga no sora")
-- watch movies (imdb and douban selected few)
-- watch game lives
+- watch & conclude debations (selected few from "fav > xinguobian")
+- watch & rewatch bangumis ("yosuga no sora" "mygo" "frieren")
+- watch movies (nothing here...)
+- watch game streams (simplelive)
 
 ## 20240620
 

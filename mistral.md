@@ -1201,6 +1201,7 @@ This tutorial covers the basics of creating and editing SVG files. You can explo
 ## markdown
 
 > -> mistral instruct 7b q4
+> write markdown tut
 
 ```
 # Markdown Tutorial
@@ -1310,5 +1311,24 @@ ___
 For more information on Markdown, check out the [Markdown Cheat Sheet](https://github.com/ad-mallos/markdown-files/blob/master/MARKDOWN.md) or the [Markdown Guide](https://www.markdownguide.org/)!
 ```
 
+## high school subjects
+
+> -> mistral instruct 7b q4
+> 中国高中有哪些必读数目
+
+```
+中国高中学生需要读习的课程和知识点有所不同，因为各地教育政策和 curriculum 可能会有所差异。但是，以下是中国大多数高中学生需要读的主要课程和学科：
+
+1. 语文 (Yuwen, or Chinese language) : This is a mandatory subject for all students in China. It includes Chinese literature and composition, as well as the study of Chinese characters and grammar.
+2. 数学 (Shuaxue, or Mathematics) : Students must take this subject for at least three years in high school. It includes algebra, geometry, trigonometry, statistics, and calculus.
+3. 英文 (Yingwen, or English) : English is becoming increasingly important in China, especially for students who plan to go abroad for further education. Most high schools require at least three years of English instruction.
+4. 自然科学 (Ziran kexue, or Natural Science) : This subject encompasses physics, chemistry, and biology. Students typically take all three subjects during their high school years.
+5. 社会科学 (Shehui kexue, or Social Science) : This subject includes history, geography, and political science. It is important for students to have a solid understanding of their own culture and the world around them.
+6. 技术科学 (Jishu kexue, or Technical Science) : Depending on the school and student's interests, this subject may include computer science, engineering, or industrial arts.
+7. 外国语 (Wàiguó yǔ, or Foreign Language) : Some high schools may offer the opportunity for students to study a foreign language other than English. This can be beneficial for students who plan to travel or work internationally in the future.
+8. 体育 (Tiyu, or Physical Education) : Regular physical activity is important for all students, so high schools require a certain number of hours of physical education each week.
+
+It's worth noting that some high schools may offer additional courses or electives, depending on the school's resources and student interests. For example, some schools may offer advanced math or science classes, music or art programs, or language exchange opportunities with students from other countries.
+```
 
 

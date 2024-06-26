@@ -1,6 +1,5 @@
-sh djhs grades
-
-# me
+# djhs grades
+## self
 ```
 shanghai dajing vocational high school 6-28
 graduate in 2026
@@ -8,7 +7,7 @@ graduate in 2026
 
 > just let time be precious...
 
-# grades
+## grades
 
 ```
 a+ 5% //#1~15
@@ -26,18 +25,18 @@ e 5%
 //g1t1
 sep 274   a+#1  76 b  101 a+  97   a+  //jiang 271 #2
 oct 273   a+#2  69 c- 106 a+  98   a+  //someone7 274 #1 math 111
-mid 251   a     62 d+  92 a   98   a+  //jiang 277.5 #4 chinese 67 math 119
+mid 251   a     62 d+  92 a   98   a+  //jiang 277.5 #4 67 119 91.5
 dec 252.5 a     73 c+  80 b+ 101.5 a+  //nothing here
 fin 275.5 a+#1  73 a  106 a+  96.5 a+  //xuruoxi 274 #2 | jiang 270 #3
 //g1t2
 feb 260.5 a+#12 75 b+  92 a   93.5 a   //lin #6
-mar 289   a+#3  86 a+  98 a+ 105   a+  //jiang 296 #1 ch 88 math 105 eng 103 | yaoqixuan1 290.5 #2 ch 72 math 105 eng 112.5
-mid 265.5 a+#14 80 a   90 b+  95.5 a   //jiang 283.5 #1 ch 74 math 110 eng 99.5 (10 subjects all a+ except ch b-)
-may 254.5 a+#9  67 c-  92 a+  95.5 a+  //jiang 284.5 #1 ch 77 math 104 eng 103.5 | lvfuyuan 253 a+
-fin 233         75     80     78       //max 100 | jiang 255.5 #1 ch 75 math 96 eng 84.5
+mar 289   a+#3  86 a+  98 a+ 105   a+  //jiang 296 #1 88 105 103 | yaoqixuan1 290.5 #2 72 105 112.5
+mid 265.5 a+#14 80 a   90 b+  95.5 a   //jiang 283.5 #1 74 110 99.5 (10 subjects all a+ except ch b-)
+may 254.5 a+#9  67 c-  92 a+  95.5 a+  //jiang 284.5 #1 77 104 103.5 | lvfuyuan 253 a+
+fin 233   a     75 b+  80 a   78   a   //max 100 | jiang 255.5 #1 75 96 84.5 | lvfuyuan 235.5 a+ 67 98 70.5
 ```
 
-# comments
+## comments
 20240117
 grade 1 autumn finished!
 > do well from start to finish #1
@@ -93,6 +92,8 @@ f:(->jiang)
 但不是断层了
 相当于我更差了qwq
 
-
+20240626
+实际上
+差1分a+
 
 

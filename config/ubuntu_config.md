@@ -1,13 +1,10 @@
 ubuntu config
 
 # ubuntu
-
-## _version
 - ubuntu 22
 - ubuntu 24(current)
 
-> -> settings
-
+# settings
 ## appearance
 - config
   - style `dark`
@@ -78,9 +75,8 @@ action=*
 resultactive=yes
 ```
 - disable `keyring auth popup`
+> ref `https://linuxconfig.org/how-to-disable-keyring-popup-on-ubuntu`
 ```
-// ref `https://linuxconfig.org/how-to-disable-keyring-popup-on-ubuntu`
-
 open `passwords and keys`
 select `change passwd`
 enter old passwd
@@ -100,7 +96,7 @@ leave it blank & enter
   - plugged in `disabled`
 
 ## printer
-- for canon printer
+- install canon printer driver
 > ref `https://in.canon/en/support/search` `linux64 ij debian`
 
 ## privacy
@@ -109,27 +105,20 @@ leave it blank & enter
 
 # fonts
 - install fonts
-```
--> git/fonts
-// my fav fonts
-
-download & install
-```
+> -> git/fonts
 - config `system default fonts`
+> -> gnome tweaks > fonts
 ```
--> gnome tweaks > fonts
 interface text `ubuntu sans`
 document text `noto sans cjk sc`
 monospace text `fira code`
 ```
 - config `preferred cjk fonts`
   - for `ubuntu 22`
-```
--> admin:///etc/fonts/conf.d/64-language-selector-prefer.conf
-```
+> -> admin:///etc/fonts/conf.d/64-language-selector-prefer.conf
   - for `ubuntu 24`
+> -> admin:///etc/fonts/conf.d/64-language-selector-cjk-prefer.conf
 ```
--> admin:///etc/fonts/conf.d/64-language-selector-cjk-prefer.conf
 <?xml version="1.0"?>
 <!DOCTYPE fontconfig SYSTEM "fonts.dtd">
 <fontconfig>
@@ -171,8 +160,8 @@ monospace text `fira code`
 sudo sed --in-place 's/NoDisplay=true/NoDisplay=false/g' /etc/xdg/autostart/update-notifier.desktop
 ```
 - disable `auto update`
+> -> softwares & updates > other softwares
 ```
-//-> softwares & updates > other softwares
 disable all
 ```
 
@@ -180,11 +169,9 @@ disable all
 - config `startup applications`
 ```
 endeavour //gnome-todo
-fcitx5
 ibus
+fcitx5
 code
-//files
-//chromium
 ```
 
 # files
@@ -194,25 +181,13 @@ markdown.md
 cpp.cpp
 ```
 
-# gedit
-- config
-  - line nums `disabled`
-  - status bar `disabled`
-  - tab `2spaces`
-  - font `fira code`
-
 # chromium
-- disable `use system title bar`
-right click the title bar
 - disable `new look`
-  - install `chromium v124`
+  - install `chromium 124.0.6367.118`
 > ref
 > https://snapcraft.io/docs/revisions
 > https://snapcraft.io/docs/managing-updates
-> https://askubuntu.com/questions/930593/how-to-disable-autorefresh-in-snap
 ```
-// version 124.0.6367.118
-// rev 2842
 sudo snap install chromium --revision 2842
 ```
   - disable `auto update`
@@ -225,6 +200,8 @@ chrome://flags/#customize-chrome-side-panel
 chrome://flags/#chrome-refresh-2023
 chrome://flags/#chrome-webui-refresh-2023
 ```
+- disable `use system title bar`
+right click the title bar
 - config `new tab page`
 > -> customize chromium
   - show shortcuts `disabled`
@@ -286,7 +263,6 @@ at view>appearance
   - monokai pro
 - install extensions
   - code runner
-> config `code runner`
     - run in terminal `enabled`
     - auto focus terminal `enabled`
     - fix `cjk filename` issue
@@ -297,7 +273,10 @@ at view>appearance
   "cpp": "cd $dir && g++ \"$filename\" -o \"$filenamewithoutext\" && \"$dir$filenamewithoutext\"",
 }
 ```
-- shortcuts
+- config user snippets
+> -> file > preferences > configure user snippets
+> -> git/blogging/config/cpp.code-snippets
+- config shortcuts
 ```
 do anything `ctrl shift p`
 
@@ -307,23 +286,26 @@ open extensions `ctrl shift x`
 
 new file `ctrl n`
 close file `ctrl w`
-* rename file `alt enter`
-* open containing folder `ctrl shift o`
+(*) rename file `alt enter`
+(*) open containing folder `ctrl shift o`
 
 run code `ctrl r`
 stop running `ctrl e`
 
-* duplicate selection `ctrl d`
-* insert line below `shift enter`
+(*) duplicate selection `ctrl d`
+(*) insert line below `shift enter`
+
+transform cursor `ctrl|shift|alt arrowkeys`
+reset cursor `esc`
 ```
 
 # git
+> -> git/blogging/config/git_config.txt
 - config 
 ```
-git config user.email _email
-git config user.name _name
-
-//save passwd
+git config --global user.name "Fira"
+git config --global user.email "devvhy@zohomail.cn"
+git config --global push.autoSetupRemote true
 git config --global credential.helper store
 ```
 
@@ -444,7 +426,6 @@ raw.gitmirror.com
 raw.kkgithub.com
 raw.fastgit.org
 ...
-
 ```
 
 # wine
@@ -459,7 +440,6 @@ sudo apt update
 sudo apt install --install-recommends winehq-stable
 ```
 - install libraries
-> necessary
 ```
 sudo apt install libasound2-dev
 sudo apt install libfontconfig-dev
@@ -578,32 +558,29 @@ others `disabled`
 > -> tools > preferences > bitorrent
   - automatically add these trackers to new downloads `config/list_trackers.md`
 
-# localsend
-- config
-  color `yaru`
-  auto finish `enabled`
-
 # terminal
-> zsh
-- install `sudo apt install zsh`
 - install `oh-my-zsh`
-- config
-  - set default `sudo chsh -s /bin/zsh`
+- set default `sudo chsh -s /bin/zsh`
 
-# other softwares
-- in terminal
+# apps
+- install in terminal
 ```
-sudo snap install android-studio --classic
-sudo snap install --devmode --edge anbox
-sudo snap install --edge lutris
+sudo snap install android-studio
+sudo snap install chromium --revision 2842
+sudo snap install firefox
 sudo snap install heroic
-sudo snap install vlc
-sudo snap install obs-studio
-sudo snap install telegram-desktop
-sudo snap install krita
-sudo snap install shotcut --classic
 sudo snap install inkscape
+sudo snap install krita
+sudo snap install --edge lutris
+sudo snap install obs-studio
 sudo snap install qbittorrent-arnatious
+sudo snap install shotcut --classic
+sudo snap install telegram-desktop
+sudo snap install thunderbird
+sudo snap install v2raya
+sudo snap install vlc
+sudo apt install git
+sudo apt install zsh
 sudo apt install nodejs
 sudo apt install npm
 sudo apt install python3
@@ -611,17 +588,11 @@ sudo apt install imagemagick
 sudo apt install gnome-tweaks
 sudo apt install goldendict
 ```
-- in chromium
+- install from websites
   - virtualbox
   - dingtalk
   - onsyuri
   - localsend
-- games
-  - gal `yosuga no sora 1080p` from `pan.jlbx.xyz`
-  - gal `senrenbanka` from `shinnku.com`
-  - rpg `honkai impact third` from `mihoyo`
-  - rpg `honkai star rail` from `mihoyo`
-
 
 
 
