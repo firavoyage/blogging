@@ -13,12 +13,11 @@
 - read "javascript tut" "js20 js30 js50" & design firascript 
 - read "math advanced" & design "purity"
 - revise projects ("projects > love -> readme")
-- organize discoveries & memories ("web > blogs" "memories > comments" "fav")
+- watch & conclude debations (selected few from "fav > xinguobian")
 > summer vacation night
 - read sr stories
-- watch & conclude debations (selected few from "fav > xinguobian")
+- organize discoveries & memories ("web > blogs" "memories > comments" "fav")
 - watch & rewatch bangumis ("yosuga no sora" "mygo" "frieren")
-- watch movies (nothing here...)
 - watch game streams (simplelive)
 
 ## 20240620

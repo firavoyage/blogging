@@ -4,7 +4,7 @@
 - `fira`
 - `忘我思考`
 - `言序&映画`
-- `少爷赋闲`
+- `赋闲之夏`
 - `苇名一心`
 
 ## who
@@ -17,11 +17,12 @@
 -
   - lipton black tea
   - cocacola zero
-  - lays pototo chips original
-  - dark chocolates
+  - lays pototo chips original in bags
+  - ruby chocolate flavored popsicle
   - burgerking
   - steamed bun and mineral water
-  - fast noodles with pickles
+  - special spicy pork noodles
+  - hard-boiled eggs simmered with tea
 -
   - muji & uniqlo clothing
   - life-size waifu
@@ -31,18 +32,19 @@
 -
   - yosuga no sora
   - worldend: what do you do at the end of the world? are you busy? will you save us?
-  - bang dream! it's mygo!!!!!
-  - frieren: beyond journey's end
-  - bocchi the rock
-  - oshi no ko
   - tom and jerry
-  - reply 1988
-  - the long season
   - joker
-  - the graduate
-  - the god father
   - the shawshank redemption
+  - the graduate
   - soul
+  - _bang dream! it's mygo!!!!!
+  - _frieren: beyond journey's end
+  - _bocchi the rock
+  - _oshi no ko
+  - _reply 1988
+  - _the long season
+  - _the god father
+  - _evangelion
 -
   - azurlane
   - bluearchive
@@ -51,14 +53,15 @@
   - genshin impact
   - honkai impact third
   - honkai star rail
-  - _sekiro: shadow die twice
+  - _sekiro: shadows die twice
   - _elden ring
   - _the binding of isaac
   - _the legend of zelda
+  - _minecraft
   - _grand theft auto v
   - _needy streamer overload
   - _senrenbanka
-  - _minecraft
+  - _the rainbow appears after flowering rain.
 -
   - forever naive taffy
   - orient snowy lotus
@@ -74,8 +77,9 @@
   - caresse sur l'océan
   - benevolence bequeathed
   - title theme
-  - gion2
+  - da capo
   - ymca
+  - anytime anywhere
   - 勇者
   - 米店
   - 浮夸
@@ -91,7 +95,9 @@
   - フタリ (春日野穹ver)
   - ルマruma
   - ほろよい
-  - клетка
+  - 청춘(응답하라1988 1화)
+  - butter-fly
+  - one last kiss
 -
   - 观念的水位
   - 刘擎西方现代思想讲义
@@ -102,6 +108,7 @@
   - 目送
   - 活着
   - .人生哲思录
+  - .房思琪的初恋乐园
   - _海子的诗
   - _顾城的诗
   - _飞鸟集
@@ -116,12 +123,11 @@
   - _水浒传
   - _西游记
   - _三国演义
-  - _老子
+  - _道德经
   - _庄子
   - _史记
   - _风流去
   - _百年孤独
-  - _房思琪的初恋乐园
   - _月亮和六便士
   - _可能性的艺术:比较政治学30讲
   - _一句顶一万句
@@ -131,11 +137,13 @@
   - _雕刻时光
   - _罗生门
   - _理想国
-  - _命运
-  - _refactoring ui
+  - _复活
   - _competitive programmer’s handbook
+  - _refactoring ui
+  - _the art of supercell 10th anniversary edition
 - 
   - ubuntu
+  - android
   - code
   - chromium
   - git
@@ -144,7 +152,7 @@
 - 
   - antennapod
   - vlc
-  - read3.0
+  - legado
   - onsyuri
   - bilimiao
   - simplelive
@@ -157,12 +165,12 @@
   - geogebra
   - inkscape
   - libreoffice
-  - characters on ubuntu
   - waybackmachine
   - z library
   - anna's archive
   - wikipedia
   - imdb
+  - unicode emojis
   - goldendict
   - material file
   - fcitx5 & fcitx android
@@ -174,33 +182,26 @@
 - 遂迷不复得路
 - 有意栽花花不开无心插柳柳成荫
 - 欲买桂花同载酒终不似少年游
-- 谁怕一蓑烟雨任平生
+- 命里有时终须有命里无时莫强求
+- 念念不忘必有回想
 - 惟江上之清风与山间之明月
 - 且放白鹿青崖间须行即骑访名山
 - 潭中鱼可百许头皆若空游无所依
 - 以神遇而不以目视官知止而神欲行
 - 为者败之执者失之慎终如始则无败事
-- 质性自然非矫厉所得
 - 归去来兮请息交以绝游
-- 倚南窗以寄傲审容膝之易安
 - 寓形宇内复几时曷不委心任去留
 - 聊乘化以归尽乐夫天命复何疑
 - 鸢飞戾天者望峰息心经伦事务者窥谷忘反
-- 其受之天也贤与材人远矣
 - 夫天地者万物之逆旅也光阴者百代之过客也
-- 欲加之罪何患无辞
 - 壁上小虫忽跃落衿袖间
 - 以有涯随无涯殆已
 - 江畔何人初见月江月何年初照人
 - 劝君莫惜金缕衣劝君惜取少年时花开堪折直须折莫待无花空折枝
-- 命里有时终须有命里无时莫强求
 - 人生得意须尽欢莫使金樽空对月
 - 父之于子当有何亲论其本意实为情欲发尔子之于母亦复奚为譬如物寄瓶中出则离矣
-- 当时只道是寻常
-- 念念不忘必有回想
 - 陈时前说称诗书生骂之曰乃公凭数英而得之安事诗书
 - 以我观物故物皆着我之色彩
-- 时间上分秒必争学习上分分必争
 - 拼搏是兴奋剂时间是止痛药
 - 就在此祝你谈谈笑笑跑跑跳跳
 - 艺术是欲念的满足
@@ -259,8 +260,8 @@ tv takes all that good imagination away.
   - ruanyf
   - nat
   - yinming
-  - evanyou
   - 37signals
+  - evanyou
   - mistral
 - ideas
   - projects
@@ -270,12 +271,12 @@ tv takes all that good imagination away.
   - weekly
   - timeln
   - djhs grades
-  - config > ubuntu config
+  - ubuntu config
 
 ## repos
 - `blogging` inspirations and life memories
 - `blogging/debation` debation summaries
-- `blogging/config` preferences and wikihow
+- `blogging/config` preferences and wiki
 - `music` favorite songs
 - `web/blogs` internet time capsule
 - `memories` moments and discoveries

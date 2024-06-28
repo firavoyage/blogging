@@ -233,7 +233,7 @@
         <value key="chipColor">#e91e63</value>
         <value key="defaultQuotedTextShown">true</value>
         <value key="deletePolicy">DELETE</value>
-        <value key="displayCount">100</value>
+        <value key="displayCount">500</value>
         <value key="draftsFolderSelection">AUTOMATIC</value>
         <value key="expungePolicy">EXPUNGE_IMMEDIATELY</value>
         <value key="folderDisplayMode">FIRST_CLASS</value>
@@ -344,155 +344,6 @@
           <value key="pushMode">SECOND_CLASS</value>
         </folder>
         <folder name="Deleted">
-          <value key="integrate">false</value>
-          <value key="inTopGroup">false</value>
-          <value key="syncMode">NO_CLASS</value>
-          <value key="displayMode">FIRST_CLASS</value>
-          <value key="notifyMode">INHERITED</value>
-          <value key="pushMode">SECOND_CLASS</value>
-        </folder>
-      </folders>
-    </account>
-    <account uuid="686c3419-b286-491d-b4cd-e6d69f206424">
-      <name>xoyage@gmail.com</name>
-      <incoming-server type="IMAP">
-        <host>imap.gmail.com</host>
-        <port>993</port>
-        <connection-security>SSL_TLS_REQUIRED</connection-security>
-        <authentication-type>XOAUTH2</authentication-type>
-        <username>xoyage@gmail.com</username>
-        <extra>
-          <value key="autoDetectNamespace">true</value>
-          <value key="pathPrefix" />
-        </extra>
-      </incoming-server>
-      <outgoing-server type="SMTP">
-        <host>smtp.gmail.com</host>
-        <port>465</port>
-        <connection-security>SSL_TLS_REQUIRED</connection-security>
-        <authentication-type>XOAUTH2</authentication-type>
-        <username>xoyage@gmail.com</username>
-      </outgoing-server>
-      <settings>
-        <value key="alwaysShowCcBcc">false</value>
-        <value key="archiveFolderSelection">AUTOMATIC</value>
-        <value key="autocryptMutualMode">false</value>
-        <value key="automaticCheckIntervalMinutes">60</value>
-        <value key="chipColor">#ffb300</value>
-        <value key="defaultQuotedTextShown">true</value>
-        <value key="deletePolicy">DELETE</value>
-        <value key="displayCount">100</value>
-        <value key="draftsFolderSelection">AUTOMATIC</value>
-        <value key="expungePolicy">EXPUNGE_IMMEDIATELY</value>
-        <value key="folderDisplayMode">FIRST_CLASS</value>
-        <value key="folderNotifyNewMailMode">ALL</value>
-        <value key="folderPushMode">NONE</value>
-        <value key="folderSyncMode">FIRST_CLASS</value>
-        <value key="folderTargetMode">NOT_SECOND_CLASS</value>
-        <value key="idleRefreshMinutes">24</value>
-        <value key="ignoreChatMessages">false</value>
-        <value key="localStorageProvider">InternalStorage</value>
-        <value key="markMessageAsReadOnDelete">true</value>
-        <value key="markMessageAsReadOnView">true</value>
-        <value key="maxPushFolders">10</value>
-        <value key="maximumAutoDownloadMessageSize">32768</value>
-        <value key="maximumPolledMessageAge">-1</value>
-        <value key="messageFormat">HTML</value>
-        <value key="messageFormatAuto">false</value>
-        <value key="messageReadReceipt">false</value>
-        <value key="notificationLight">Disabled</value>
-        <value key="notifyContactsMailOnly">false</value>
-        <value key="notifyMailCheck">false</value>
-        <value key="notifyNewMail">true</value>
-        <value key="notifySelfNewMail">true</value>
-        <value key="openPgpEncryptAllDrafts">false</value>
-        <value key="openPgpEncryptSubject">false</value>
-        <value key="openPgpHideSignOnly">false</value>
-        <value key="quotePrefix">&gt;</value>
-        <value key="quoteStyle">PREFIX</value>
-        <value key="remoteSearchFullText">false</value>
-        <value key="remoteSearchNumResults">25</value>
-        <value key="replyAfterQuote">false</value>
-        <value key="ring">true</value>
-        <value key="ringtone">content://settings/system/notification_sound</value>
-        <value key="searchableFolders">ALL</value>
-        <value key="sendClientId">true</value>
-        <value key="sentFolderSelection">AUTOMATIC</value>
-        <value key="showPicturesEnum">NEVER</value>
-        <value key="signatureBeforeQuotedText">false</value>
-        <value key="sortAscending">false</value>
-        <value key="sortTypeEnum">SORT_DATE</value>
-        <value key="spamFolderSelection">AUTOMATIC</value>
-        <value key="stripSignature">true</value>
-        <value key="subscribedFoldersOnly">false</value>
-        <value key="syncRemoteDeletions">true</value>
-        <value key="trashFolderSelection">AUTOMATIC</value>
-        <value key="uploadSentMessages">true</value>
-        <value key="useCompression">true</value>
-        <value key="vibrate">false</value>
-        <value key="vibratePattern">0</value>
-        <value key="vibrateTimes">5</value>
-        <value key="autoExpandFolderName">INBOX</value>
-        <value key="archiveFolderName">[Gmail]/All Mail</value>
-        <value key="draftsFolderName">[Gmail]/Drafts</value>
-        <value key="sentFolderName">[Gmail]/Sent Mail</value>
-        <value key="spamFolderName">[Gmail]/Spam</value>
-        <value key="trashFolderName">[Gmail]/Trash</value>
-      </settings>
-      <identities>
-        <identity>
-          <name>fira</name>
-          <email>xoyage@gmail.com</email>
-          <description>Initial identity</description>
-          <settings>
-            <value key="signature">-- 
-Sent from my Android device with K-9 Mail. Please excuse my brevity.</value>
-            <value key="signatureUse">false</value>
-          </settings>
-        </identity>
-      </identities>
-      <folders>
-        <folder name="INBOX">
-          <value key="integrate">true</value>
-          <value key="inTopGroup">false</value>
-          <value key="syncMode">FIRST_CLASS</value>
-          <value key="displayMode">FIRST_CLASS</value>
-          <value key="notifyMode">FIRST_CLASS</value>
-          <value key="pushMode">FIRST_CLASS</value>
-        </folder>
-        <folder name="[Gmail]/All Mail">
-          <value key="integrate">false</value>
-          <value key="inTopGroup">false</value>
-          <value key="syncMode">NO_CLASS</value>
-          <value key="displayMode">FIRST_CLASS</value>
-          <value key="notifyMode">INHERITED</value>
-          <value key="pushMode">SECOND_CLASS</value>
-        </folder>
-        <folder name="[Gmail]/Drafts">
-          <value key="integrate">false</value>
-          <value key="inTopGroup">false</value>
-          <value key="syncMode">NO_CLASS</value>
-          <value key="displayMode">FIRST_CLASS</value>
-          <value key="notifyMode">INHERITED</value>
-          <value key="pushMode">SECOND_CLASS</value>
-        </folder>
-        <folder name="[Gmail]/Sent Mail">
-          <value key="integrate">false</value>
-          <value key="inTopGroup">false</value>
-          <value key="syncMode">NO_CLASS</value>
-          <value key="displayMode">FIRST_CLASS</value>
-          <value key="notifyMode">INHERITED</value>
-          <value key="pushMode">SECOND_CLASS</value>
-        </folder>
-        <folder name="[Gmail]/Spam">
-          <value key="integrate">false</value>
-          <value key="inTopGroup">false</value>
-          <value key="syncMode">NO_CLASS</value>
-          <value key="displayMode">FIRST_CLASS</value>
-          <value key="notifyMode">INHERITED</value>
-          <value key="pushMode">SECOND_CLASS</value>
-        </folder>
-        <folder name="[Gmail]/Trash">
           <value key="integrate">false</value>
           <value key="inTopGroup">false</value>
           <value key="syncMode">NO_CLASS</value>
@@ -625,6 +476,154 @@ Sent from my Android device with K-9 Mail. Please excuse my brevity.</value>
           <value key="pushMode">SECOND_CLASS</value>
         </folder>
         <folder name="Junk">
+          <value key="integrate">false</value>
+          <value key="inTopGroup">false</value>
+          <value key="syncMode">NO_CLASS</value>
+          <value key="displayMode">FIRST_CLASS</value>
+          <value key="notifyMode">INHERITED</value>
+          <value key="pushMode">SECOND_CLASS</value>
+        </folder>
+      </folders>
+    </account>
+    <account uuid="ac17a5e3-7371-4c2c-bfdb-ac8126c372dc">
+      <name>xoyage@gmail.com</name>
+      <incoming-server type="IMAP">
+        <host>imap.gmail.com</host>
+        <port>993</port>
+        <connection-security>SSL_TLS_REQUIRED</connection-security>
+        <authentication-type>XOAUTH2</authentication-type>
+        <username>xoyage@gmail.com</username>
+        <extra>
+          <value key="autoDetectNamespace">true</value>
+          <value key="pathPrefix" />
+        </extra>
+      </incoming-server>
+      <outgoing-server type="SMTP">
+        <host>smtp.gmail.com</host>
+        <port>465</port>
+        <connection-security>SSL_TLS_REQUIRED</connection-security>
+        <authentication-type>XOAUTH2</authentication-type>
+        <username>xoyage@gmail.com</username>
+      </outgoing-server>
+      <settings>
+        <value key="alwaysShowCcBcc">false</value>
+        <value key="archiveFolderSelection">AUTOMATIC</value>
+        <value key="autocryptMutualMode">false</value>
+        <value key="automaticCheckIntervalMinutes">15</value>
+        <value key="chipColor">#ffb300</value>
+        <value key="defaultQuotedTextShown">true</value>
+        <value key="deletePolicy">DELETE</value>
+        <value key="displayCount">500</value>
+        <value key="draftsFolderSelection">AUTOMATIC</value>
+        <value key="expungePolicy">EXPUNGE_IMMEDIATELY</value>
+        <value key="folderDisplayMode">NOT_SECOND_CLASS</value>
+        <value key="folderNotifyNewMailMode">ALL</value>
+        <value key="folderPushMode">NONE</value>
+        <value key="folderSyncMode">FIRST_CLASS</value>
+        <value key="folderTargetMode">FIRST_CLASS</value>
+        <value key="idleRefreshMinutes">24</value>
+        <value key="ignoreChatMessages">false</value>
+        <value key="localStorageProvider">InternalStorage</value>
+        <value key="markMessageAsReadOnDelete">true</value>
+        <value key="markMessageAsReadOnView">true</value>
+        <value key="maxPushFolders">10</value>
+        <value key="maximumAutoDownloadMessageSize">32768</value>
+        <value key="maximumPolledMessageAge">-1</value>
+        <value key="messageFormat">HTML</value>
+        <value key="messageFormatAuto">false</value>
+        <value key="messageReadReceipt">false</value>
+        <value key="notificationLight">Disabled</value>
+        <value key="notifyContactsMailOnly">false</value>
+        <value key="notifyMailCheck">false</value>
+        <value key="notifyNewMail">true</value>
+        <value key="notifySelfNewMail">true</value>
+        <value key="openPgpEncryptAllDrafts">false</value>
+        <value key="openPgpEncryptSubject">false</value>
+        <value key="openPgpHideSignOnly">false</value>
+        <value key="quotePrefix">&gt;</value>
+        <value key="quoteStyle">PREFIX</value>
+        <value key="remoteSearchFullText">false</value>
+        <value key="remoteSearchNumResults">25</value>
+        <value key="replyAfterQuote">false</value>
+        <value key="ring">true</value>
+        <value key="ringtone">content://settings/system/notification_sound</value>
+        <value key="searchableFolders">ALL</value>
+        <value key="sendClientId">true</value>
+        <value key="sentFolderSelection">AUTOMATIC</value>
+        <value key="showPicturesEnum">NEVER</value>
+        <value key="signatureBeforeQuotedText">false</value>
+        <value key="sortAscending">false</value>
+        <value key="sortTypeEnum">SORT_DATE</value>
+        <value key="spamFolderSelection">AUTOMATIC</value>
+        <value key="stripSignature">true</value>
+        <value key="subscribedFoldersOnly">false</value>
+        <value key="syncRemoteDeletions">true</value>
+        <value key="trashFolderSelection">AUTOMATIC</value>
+        <value key="uploadSentMessages">true</value>
+        <value key="useCompression">true</value>
+        <value key="vibrate">false</value>
+        <value key="vibratePattern">0</value>
+        <value key="vibrateTimes">5</value>
+        <value key="autoExpandFolderName">INBOX</value>
+        <value key="archiveFolderName">[Gmail]/All Mail</value>
+        <value key="draftsFolderName">[Gmail]/Drafts</value>
+        <value key="sentFolderName">[Gmail]/Sent Mail</value>
+        <value key="spamFolderName">[Gmail]/Spam</value>
+        <value key="trashFolderName">[Gmail]/Trash</value>
+      </settings>
+      <identities>
+        <identity>
+          <name>fira</name>
+          <email>xoyage@gmail.com</email>
+          <description>Initial identity</description>
+          <settings>
+            <value key="signature">fira</value>
+            <value key="signatureUse">true</value>
+          </settings>
+        </identity>
+      </identities>
+      <folders>
+        <folder name="INBOX">
+          <value key="integrate">true</value>
+          <value key="inTopGroup">false</value>
+          <value key="syncMode">FIRST_CLASS</value>
+          <value key="displayMode">FIRST_CLASS</value>
+          <value key="notifyMode">FIRST_CLASS</value>
+          <value key="pushMode">FIRST_CLASS</value>
+        </folder>
+        <folder name="[Gmail]/All Mail">
+          <value key="integrate">false</value>
+          <value key="inTopGroup">false</value>
+          <value key="syncMode">NO_CLASS</value>
+          <value key="displayMode">FIRST_CLASS</value>
+          <value key="notifyMode">INHERITED</value>
+          <value key="pushMode">SECOND_CLASS</value>
+        </folder>
+        <folder name="[Gmail]/Drafts">
+          <value key="integrate">false</value>
+          <value key="inTopGroup">false</value>
+          <value key="syncMode">NO_CLASS</value>
+          <value key="displayMode">FIRST_CLASS</value>
+          <value key="notifyMode">INHERITED</value>
+          <value key="pushMode">SECOND_CLASS</value>
+        </folder>
+        <folder name="[Gmail]/Sent Mail">
+          <value key="integrate">false</value>
+          <value key="inTopGroup">false</value>
+          <value key="syncMode">NO_CLASS</value>
+          <value key="displayMode">FIRST_CLASS</value>
+          <value key="notifyMode">INHERITED</value>
+          <value key="pushMode">SECOND_CLASS</value>
+        </folder>
+        <folder name="[Gmail]/Spam">
+          <value key="integrate">false</value>
+          <value key="inTopGroup">false</value>
+          <value key="syncMode">NO_CLASS</value>
+          <value key="displayMode">FIRST_CLASS</value>
+          <value key="notifyMode">INHERITED</value>
+          <value key="pushMode">SECOND_CLASS</value>
+        </folder>
+        <folder name="[Gmail]/Trash">
           <value key="integrate">false</value>
           <value key="inTopGroup">false</value>
           <value key="syncMode">NO_CLASS</value>

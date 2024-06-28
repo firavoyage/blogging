@@ -409,8 +409,29 @@ upd
 打网车一次20算,一天打3次
 买个200k的车,不买,大约可以打10年
 不用自己开,还不用停车
-可惜现在软件没有这个选项,只要30以下50以上的司机
-中年人没意思的
+可惜现在软件没有这个选项,只要30以下或50以上的司机
+中年司机没意思的
+
+upd
+我不买车,甚至不学车,因为我站在时间这边.
+终会找到那一天,人少,路上不再纷扰(隐喻)
+
+可是客观世界的制约和时间无关
+不如买些手办
+车能到达的地方是有限的 但手办的世界是无限的
+(ref "以有涯追无涯殆已")
+
+手办象征着视野中的景物
+山水不包括在内,因为现代人看不到
+书本,盆栽都包括在内
+
+或许手办的表达也相当有限
+可人们只是触景生情
+而非反之
+
+你知道的
+我又要说出世哲学了,去赞美精神世界
+(ref "人生哲思录" "给青年人的十二封信")
 
 ## money
 
@@ -713,27 +734,29 @@ unused
 
 ## people discovered at school
 - lida junior high school
-  - 11 //#1,calm and easy girl,went to qibao high school
-  - 29 //among the top students,math lover,confident boy,football player
-  - 37 //stupid one,small size boy,genshin and brawlstars player,lovely and naive
+  - self(2-41)
+  - 2-11 //#1,calm and easy girl,went to qibao high school
+  - 2-29 //among the top students,math lover,confident boy,football player
+  - 2-37 //stupid one,small size boy,genshin and brawlstars player,lovely and naive
   - zhangchuanzhi //teach chemistry,love doing experiments,great humor,1960s or 1970s,insight of the world
 - dajing vocational high school
   - 02 03 07 09 //stylish girls
-  - chenshiyu //1998,better 2 to be called as waifu instead of sensei,low saturation ppt,brain-dead writing approach
+  - self(6-28)
+  - chenshiyu //1998,sh normal school undergraduate,waifu instead of sensei,low saturation ppt,writing noskill
   - wangzhaohai //1970s,variable substitute & function image master,one with humor & enthusiasm,phone bell "五十年以后"
-  - lujianhong //1980s?,studied in us,stories of graduated students,one with idioms and foreign cultures
-  - jiangzhijun21 //greatest competitor of grade #1
+  - lujianhong //1980s?,studied in us,stories of students taught,one with idioms and foreign culture
+  - jiangzhijun(6-21) //greatest competitor of grade #1
   - lvfuyuan //math god with obesity
   - wangxiaofeng dixuchen //nsfw humor and acg lover
   - dixuchen //nsfw and adolescent conceit
   - friends in class 1 and class 7 //playmates and believers 
-...
+
 fira
 "开导,打表,求解"
 "简单技巧不用动脑"
 djhs g1t1 master
 > 慎终如始
-...
+
 jiang
 "这不是很简单吗"
 "蒋门永存"
@@ -1001,16 +1024,6 @@ js获取屏幕长宽
 我会告诉祂,不要理会这个世界,听自己内心的声音
 我还会告诉祂,数学要如何学,英语要如何学...
 
-## use allusions
-
-流传的作品都爱用典
-
-nahida pv 花车颠啊颠,纳西妲睁开眼
-sparkle pv 当我痛苦时,他却在欢笑.
-
-你暗恋得已经足够明显了,只是她不喜欢你
-祂给的意象已经足够明确了,只是你不理解
-
 ## huawei criticism
 
 如何理性客观地批评华为公司
@@ -1106,6 +1119,25 @@ there are a lot of lovers i've found."
 到140,因为祂善于联想,有惊人的注意力
 到150,因为祂善于联想,有惊人的注意力,还不失误
 
+## money
+
+为什么不谈钱啊?
+很简单,
+钱的作用,边际递减
+钱的获取,反之
+
+3000 6000 10000 20000 40000 80000
+说的是中国大陆元,月薪
+显然,越后面的两项之间,生活水平的差异越小
+
+没钱的,送外卖的,开网约车的,我很难想象十年后他们会提升什么
+坐在办公室的,许多有稳定的晋升期望,回头看每次跳槽都增加不少
+开着豪车的,钱不过跳动的数字耳,虚无
+
+直白地
+富有者越发易于生财,钱却越发不能增益于生活
+所以常怀出世心态
+
 ## nsfw idioms
 
 > "故一代有一代之文学" ("人间词话")
@@ -1136,8 +1168,142 @@ i wandered lonely as a cloud
 不妨竖起大拇指,并订阅将来的更新,如果你感到些许欢愉
 feel free to thumb up and subscribe if you love this
 
+现代社会的财富本就是上流的.(双关)
+
 👍🏿4%,👴🏿💵,🐁🐁🗿
 👍🏿2%,👴🏿💸,🐁🐁💰
+
+品味生命固有的乐趣
+同人类历史上伟大的灵魂交往
+即使在一个无趣的时代
+也能活得有趣
+
+相对于自然,地理不过是细节
+相对于生命,历史不过是细节
+
+我们无家可归,但我们有永恒的归宿
+
+最少的物质就能使人们满足
+再多的物质也不能使人们满足
+
+又何妨用只有一件小屋的标准来限定必需的物品
+又何妨用来日不多的标准来限定必做的事情
+
+花车颠啊颠,纳西妲睁开眼 (nahida pv)
+当我痛苦时,他却在欢笑 (sparkle pv)
+
+你暗恋得已经足够明显了,只是她不喜欢你
+祂给的意象已经足够明确了,只是你不理解
+
+## to be addressed
+
+姓汪.
+高中的时候,有些学友叫我"大哥",
+太自负了,不要那么做.
+江湖上,那时候年轻,被称呼"少爷".
+我喜欢的人亦然...
+你知道黄执中吧,打哲理辩论的.
+
+## high school grade 1 term 2 last day
+
+陈:
+我们商量好了,下班了
+不上课了,这节课合影,say goodbye
+(放红楼梦)
+陈:
+我不收手机,你们也不说我没上课,怎么样.
+f:
+我考哪个大学能和你做校友
+陈:
+我上师大的
+jiang:
+祂读研了吗
+f:
+肯定没有啊
+祂说祂2016上海高考
+还带过上一届
+不然时间不够啊,毕业第一年就教我们.
+jiang:
+我们学校嘎腊鸡辣?
+上师大本科都能来了!
+感觉有关系.
+陈:
+你看华师大的愿意来(此)当老师吗?
+陈:
+上师大分数低,资源还是不少的.
+
+f:(->陈)
+没准,十年后我们能做同事.
+
+f:(->陈)
+你有男朋友吗?
+陈:
+(nothing to say...)
+jiang:
+感觉没有.
+
+f:
+你选了啥啊
+陈:
+我那时候是3+1
+加了历史
+...:
+(无奈)(羡慕)
+
+王:(导学选必一p152)
+12(3)至少要讲一刻钟,不讲了
+f:
+第三问超纲了吗
+王:
+不超纲
+
+王:
+还有问题吗?
+没有问题了...
+好,那高一的问题解决了.
+f:
+那讲讲第三问吧
+王:
+如果你高考想考135以上
+第三问一定要看会看懂
+答案写得很详细.
+
+## high school aspiration
+
+...:
+志愿怎么填
+陈:
+下夸克
+(板书 "夸克app")
+张雪峰和李雪琴代言的
+教你填志愿
+
+f:
+老王
+我们将来填志愿
+你推荐我们填数学教育吗
+将来当数学老师
+王:
+填你喜欢的,将来想做什么就填什么
+...:
+(f当老师的话)第一节课,"导数"
+f:
+那你推荐吗?
+王:
+我们那时候工作主要是为了吃饭.
+现在,你做你喜欢的事,一个月一万,八千都行
+做不想做的,一个月三万也没用
+f:
+(兴奋)
+王:
+现在经济发展了,生活的物质基础都有了
+比如你们上海的,家里房子都有吧!
+就是一个月三千,也能活得不错.
+所以啊,最重要的,
+就是过得快乐,按你的兴趣去选就行了
+f:
+(在理)
+
 
 
 

@@ -62,6 +62,8 @@ the drive to teach
 ```
   - features
 ```
+- presentation as a textbook
+no animation and effects just split pages
 - based on extended markdown
 eveything in markdown
 it focuses on the content 
@@ -110,16 +112,10 @@ inspired by `siri` `lean prover` `mistral large`
 ```
 neko
 
-neko terminal
-
-deconstruct all
-- english grammar
+translate reasonably
+- deconstruct english grammar
 > ref [薄冰英语语法](https://oldwestenglish.github.io/grammar/#/) [goldendict]
 > source `wikipedia` `imdb reviews`
-
-translation
-优雅地直译(neko plugin)
-
 ```
   - features
 ```
@@ -334,18 +330,18 @@ pre + block:lyrics 实现
 ```
 - `pure` my desired math courses
 inspired by `lean prover` `beamer`
-> alias `纯真数学` `疯狗` `pure math` `purity of math`
+> alias `纯真数学` `pure math`
   - products
 ```
 纯度数学
 - 简化表述
 符号化,句式统一,前置定义
-"在三角形ABC中" -> "tri(ABC)"
-"A与B的距离" -> "abs(vector(a b))"
+"在三角形ABC中," -> "\tri ABC,"
+"A与B的距离" -> "|\vector(a b)|"
 "a=2b,求a使得b=1" -> "a=2b,b=1,求a"
-"a,b,c为 tri(ABC) 内角A,B,C对边"
+"a,b,c为 \tri ABC 内角A,B,C对边"
 "i为虚数单位"
-"k belong() Z"
+"because so -> , ."
 - 注意力公式
 让每个人都拥有`惊人的注意力`
 通过`注意到a,考虑b c d`形式的`公式`
@@ -372,9 +368,14 @@ A4的总结
 
 dailyab
 - 每天两道
-A4,正反面打印
+a4,正反面打印
 - 周末十道
-A4,一面,只有题目,没有留白
+a4,一面,只有题目,没有留白
+
+elation intro (iq test)
+the first class for everyone (ref zhangchuanzhi the beginning)
+high school math framework in 40min (pre)
+then a few blank-filling problems in an a4 page(ref sr sparkle)
 ```
   - features 
 ```
@@ -529,6 +530,10 @@ contents from
   - character ultimate voice
   - britain poems
   - lyrics & lines
+
+- the designers
+redesign popular web apps
+not just css but data-binding
 ```
   - features
 ```
@@ -604,8 +609,8 @@ bind(el)
 get(prop)
 set(prop)
 - implementation
-components: bind
-structure: pass
+components: bind data
+structure: pass data
 ```
 - `view` make data intuitive
 `list` `json` `mindmap` `table` `...`
