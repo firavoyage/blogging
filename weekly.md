@@ -3,6 +3,25 @@
 > 🌕 💤 before 23:00!
 > -> `endeavour` on ubuntu
 
+## 20240702
+
+> summer vacation daily
+- visit my digital homes (al hi sr)
+- eat (bilimiao)
+> summer vacation day
+- read "math challenger tut" & design "pure math" (visit "courses through the air" "one math tut")
+- read "javascript tut" "js20" "js30" "js50" & design firascript 
+- watch & conclude debations (new national debation)
+- revise projects
+> summer vacation night
+- read sr stories
+- watch bangumis ("yosuga no sora" "mygo" "frieren")
+- watch lives (simplelive)
+> school life
+- read books "人生哲思录"
+- english papers (cloze reading translation)
+- math papers
+
 ## 20240701
 
 > summer vacation daily
