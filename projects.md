@@ -98,9 +98,10 @@ genstock
   - features
 ```
 - sources
+magazine covers
+digital wallpapers
 pixiv hall of fame
 world vintage artworks
-free wallpapers
 - examples
 five fingered hands with veins
 anime characters in svg
@@ -115,7 +116,7 @@ neko
 translate reasonably
 - deconstruct english grammar
 > ref [薄冰英语语法](https://oldwestenglish.github.io/grammar/#/) [goldendict]
-> source `wikipedia` `imdb reviews`
+> source `wikipedia` `imdb reviews` `reddit` `github`
 ```
   - features
 ```
@@ -134,18 +135,26 @@ inspired by `setapp`
 - `convert` translate programs
 from `md` `object` ... to `json` `html`...
 - `material` elegant image editor
-  - `vctr` full-featured svg editor
-  - `svgify` rethink photo expansion 
-convert pexels to paths
-without llm
-  - `fltr` artwork styling
-  - `mosaic` better mosaic
-  - `toning` simple toning
-text to geometric symbols
-identity to circles not squares
   -  products
 ```
 material
+material web app
+
+vctr 
+full-featured svg editor
+
+svgify
+rethink photo expansion 
+convert pexels to paths without llm
+
+mosaic 
+add or clear mosaic
+text to geometric symbols
+identity to circles not squares
+
+pattern
+trotting horse lamp of love
+use symbols(colors,clothes) to infer anime waifus
 
 ton
 > ref `b 朋友说我的调色像魔法`
@@ -197,6 +206,8 @@ inspired by `google reader` `rsshub`
 ```
 - `fav` internet time capsule
 inspired by `pocket` `instapaper` `notion`
+> berryberry down?i will save you
+  - products
   - features
 ```
 - import favlist from bilibili,youtube,zhihu
@@ -317,12 +328,16 @@ eg:
 - 昨晚正是愉快啊,我到现在还像漂浮在水面上的蜡烛一样呢
 - 从黄昏到水面,从恍惚到睡眠
 
-pretest great
-从出题者的角度,评析一模卷现代文阅读理解题目质量和答案质量
+chinese reading in math thoughts
+> 当数学老师出语文卷子...
+现代文阅读.
+一些耐人寻味的题目和荒诞滑稽的标答qwq.
 
-math teacher v chinese reading
-不喜欢`联想` `反推`
-喜欢 `枚举` `正推`
+chinese literary in math thoughts
+> 17岁少年的数学 v 文言阅读...
+文言文阅读.
+离散的变成连续的,相似的变成相同的
+情感,命运,因果...
 
 clipboard
 从哲思书籍中收集观念
@@ -330,7 +345,7 @@ pre + block:lyrics 实现
 ```
 - `pure` my desired math courses
 inspired by `lean prover` `beamer`
-> alias `纯真数学` `pure math`
+> alias `纯真` `pure math`
   - products
 ```
 纯度数学
@@ -459,6 +474,9 @@ lol, impressive metaphors in gi
 
 poems
 读诗
+
+rest of world
+(politics holyshit or criticism porn)
 ```
 no courses or paid services included
 no network required
@@ -486,44 +504,38 @@ learn web dev through making games
 visualized firascript
   - products
 ```
-- web app dev tut
-html tags and attributes
-css selector and attributes
-js grammar and built-in methods
-- spark
-  - implement io games and single-machine games
-great games
-[nobsgames](https://nobsgames.stavros.io/android/)
+the tut
+- html tags and attributes
+- css selector and attributes
+- js grammar and built-in methods
+- vue
+- react
+- threejs
 
-on steam
-roguelike or platformer
+charstyler
+unicode player
 
-tiny games
-poki,4399,scratch,honkai impact third,zoomless zone zero,azurlane
+game ideas
+> ref [no bullshit games](https://nobsgames.stavros.io/android/)
+> ref poki,scratch,mihoyo
 
-ideas
-cards master: gambers with unique characters
-cool wind: scalable openworld game like eldenring 
-clashlocal: 15 ideas ignored by sc,8 evo slots,evo by damage dealt
-letsbrawl: play with quality teamates,everyone hypercharged
-platfighter: platformer and honkai school 2
-doubanvimdb: behind diff ranks of the same movie,analyse with cultures and tastes
-  - rethink popular apps
-digdog
-snapcat
-zoombie
-ganstagram
-pickduckduck
-  - create gorgeous visual effects
-from games like gi sr 
-  - build everything with you
-no libraries necessary
-  - write elegant code
-data separated and component based
+genshindungeon
+constant soul knight bosses but genshin characters
 
-- nsfw idioms
+unique card gambers
+know the enemy and know yourself
+
+platfighter
+fight towards enemy or try another path
+
+passordeath
+strive or not
+
+crlocal
+nice strategy & fierce force
+
+nsfw idioms
 > -> git/blogging/reply > nsfw idioms
-> ref mihoyo
 bored of `loren ipsum`?let's nsfwify
 contents from
   - net "网言网语"
@@ -531,9 +543,15 @@ contents from
   - britain poems
   - lyrics & lines
 
-- the designers
-redesign popular web apps
-not just css but data-binding
+the designers
+rethink popular apps,not just css but data-binding
+- digdog
+- berryberry
+- snapcat
+- zoombie
+- ganstagram
+- pickduckduck
+- firebook
 ```
   - features
 ```

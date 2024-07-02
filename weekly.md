@@ -3,6 +3,46 @@
 > 🌕 💤 before 23:00!
 > -> `endeavour` on ubuntu
 
+## 20240701
+
+> summer vacation daily
+- visit my digital homes (al hi sr)
+- eat (bilimiao)
+> summer vacation day
+- read "javascript tut" "js20 js30 js50" & design firascript 
+- read "math challenger tut" & design "pure math" (visit "courses through the air" "one math tut")
+- watch & conclude debations (new national debation)
+- organize discoveries ("fav")
+- revise projects
+> summer vacation night
+- read sr stories
+- watch & rewatch bangumis ("yosuga no sora" "mygo" "frieren")
+- watch game lives (simplelive)
+> school life
+- read books "人生哲思录"
+- english papers (cloze reading translation)
+- math papers
+
+## 20240630
+
+> summer vacation daily
+- visit my digital homes (al hi sr)
+- eat (bilimiao)
+> summer vacation day
+- read "javascript tut" "js20 js30 js50" & design firascript 
+- read "math challenger tut" & design "pure math" (visit "courses through the air" "one math tut")
+- watch & conclude debations (new national debation)
+- organize discoveries ("memories > comments" "fav")
+- revise projects
+> summer vacation night
+- read sr stories
+- watch & rewatch bangumis ("yosuga no sora" "mygo" "frieren")
+- watch game lives (simplelive)
+> school life
+- read books "人生哲思录"
+- english papers (cloze reading translation)
+- math papers (weekly exam)
+
 ## 20240620
 
 > summer vacation daily
@@ -13,10 +53,10 @@
 - read "javascript tut" "js20 js30 js50" & design firascript 
 - read "math advanced" & design "purity"
 - revise projects ("projects > love -> readme")
-- watch & conclude debations (selected few from "fav > xinguobian")
+- watch & conclude debations (selected few from "fav > new national debation")
+- organize discoveries ("web > blogs" "memories > comments" "fav")
 > summer vacation night
 - read sr stories
-- organize discoveries & memories ("web > blogs" "memories > comments" "fav")
 - watch & rewatch bangumis ("yosuga no sora" "mygo" "frieren")
 - watch game streams (simplelive)
 

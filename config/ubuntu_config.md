@@ -23,7 +23,7 @@ ubuntu config
   - thunderbird
   - code
   - goldendict
-  - todo
+  - endeavour
 - config dock application icon
 > -> extensions > ubuntu dock > more > settings > launchers
   - show application icon `disabled`
@@ -108,16 +108,12 @@ leave it blank & enter
 > -> git/fonts
 - config `system default fonts`
 > -> gnome tweaks > fonts
-```
-interface text `ubuntu sans`
-document text `noto sans cjk sc`
-monospace text `fira code`
-```
+  - interface text `ubuntu sans`
+  - document text `noto sans cjk sc`
+  - monospace text `fira code`
 - config `preferred cjk fonts`
-  - for `ubuntu 22`
-> -> admin:///etc/fonts/conf.d/64-language-selector-prefer.conf
-  - for `ubuntu 24`
-> -> admin:///etc/fonts/conf.d/64-language-selector-cjk-prefer.conf
+> ubuntu 22 -> admin:///etc/fonts/conf.d/64-language-selector-prefer.conf
+> ubuntu 24 -> admin:///etc/fonts/conf.d/64-language-selector-cjk-prefer.conf
 ```
 <?xml version="1.0"?>
 <!DOCTYPE fontconfig SYSTEM "fonts.dtd">
@@ -168,10 +164,10 @@ disable all
 # gnome-tweaks
 - config `startup applications`
 ```
-endeavour //gnome-todo
 ibus
 fcitx5
 code
+endeavour //formerly gnome-todo
 ```
 
 # files
@@ -329,9 +325,8 @@ mkdir -p ~/.local/share/fcitx5/pinyin/dictionaries/
 mv zhwiki-20220416.dict ~/.local/share/fcitx5/pinyin/dictionaries/
 // 2
 // -> https://github.com/wuhgit/CustomPinyinDictionary
-download .dict file
-// -> admin:///usr/share/fcitx5/pinyin/
-move .dict file here
+// download CustomPinyinDictionary_Fcitx.dict
+mv CustomPinyinDictionary_Fcitx.dict ~/.local/share/fcitx5/pinyin/dictionaries/
 
 // set fcitx default
 im-config
@@ -343,9 +338,6 @@ QT_IM_MODULE=fcitx
 XMODIFIERS=@im=fcitx
 SDL_IM_MODULE=fcitx
 GLFW_IM_MODULE=fcitx
-
-// -> tweak > startup application
-sudo apt install gnome-tweaks
 
 // config
 fcitx5-configtool
@@ -444,10 +436,14 @@ sudo apt install --install-recommends winehq-stable
 sudo apt install libasound2-dev
 sudo apt install libfontconfig-dev
 ```
-- config sound
+- config sound library
 ```
 sudo apt install winetricks
 winetricks sound=pulse
+```
+- config wine
+```
+winecfg
 ```
 
 # obs

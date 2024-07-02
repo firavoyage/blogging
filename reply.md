@@ -3,9 +3,9 @@
 ## course design issues
 客观地
 ...
-如特色餐馆发展中,往往降低特色以扩大客源
+如特色餐馆发展中,往往选择降低特色以扩大客源
 如信息过度消费中,往往许多有待打磨的作品被批量生产
-如运输效率提升中,往往承担更多交通风险
+如运输效率提升中,往往不可避免地承担更多交通风险
 ...
 我不亲自解决这些问题,受客观条件制约,为了解决另一些问题
 ...
@@ -14,11 +14,73 @@
 如无选择的分班制度,往往加剧师生矛盾并终于恨铁成钢或无为而治
 如通用课本的编写,往往脱离考试的上限且反之被商业教育控制
 如电子蓝光的普及,往往减负师者却失板书之书写自由与阅读轻松
-> 电子化的一笔,是刺眼的蓝光,是拖动文本框,是敲键盘选词,是形式主义激荡(ref 六朝骈文)
-> 怀旧的一笔,只是举重若轻地,拿起笔,划过去
 如普遍学生的练习题书,往往无因材施教则加剧应试教育之疲倦与伤痛
 ...
 想到了这些,想到了再写
+
+upd
+这只是一些想象
+一些实现很个人化,写于别处
+有的是时间看清这些技巧.
+
+## pure math tutorial writing style
+
+经典硅谷程序员思想.
+抽象和化简
+
+更重要的,是文案.
+参考文言文
+- 省略主语
+- 定后状后
+- 宾前
+- ...
+参考歌曲填词
+- 排比
+- 押韵
+- ...
+
+upd
+高中的时候喜欢做英语阅读
+读到"reading is active while watching tv is passive"的观点
+我还引用到了readme里面,因为太喜欢了
+
+更激进地,我甚至想一句话也不说
+老师说话,除了让课堂变得热闹,没什么用
+
+如果要吸引注意力,就把需要的内容独立成段,或者用markdown blockquote渲染
+如果要表达情感,就直接引用角色,比如星穹铁道的,那些是很广为人知的意象
+如果要标注信息,就直接用material画插图,最好直接手绘在浅黄纸上
+
+不如直接读书?那些书写的枯燥乏味.
+说白了我也是个写书人,只想做个写书人.
+
+可能只有举例子的时候要说话吧...
+找乐子可简单了,
+- treat life as merely playing games "american meme" "sliver wolf"
+- rethink the surrounding world "digdog snapcat berryberry"
+- mosiac on non-nsfw images "symbol of popular subcultures"
+- acg otaku dialect "upstart words" "anime lines"
+- be perfectly poised "solve anything in a few words" "straight forward and clearly written nsfws"
+- after class episodes "music break from bangumis"
+- express theories knowingly "throw problems and answer them without voice"
+
+upd
+虽然也可以堆起书本,拥起符号
+我想我要做些鼓励...
+更具体地
+在`pre>h1`后面
+加上一个`扉页`
+标题是大拇指emoji
+内容是一张图片
+有一个人,一个课桌,草稿本,笔,计算器.没有书或者练习册
+...
+言传身教:
+顶格写大字.
+
+## pure math comment
+
+ask me anything!
+(comment as a new post qwq)
 
 ## moral criticism
 预知,钱的作用边际递减.
@@ -108,13 +170,6 @@ upd
 希望祂基于定义与推理,而非实验与工业
 代数几何与程序设计,都是不错的例子
 
-## purity of math
-
-开导,开导,开!
-通解,爽!
-(ref 几何法)
-(ref "冲刺,冲刺,冲!")
-
 ## women right
 
 女厕多于男厕,固然推动了实际平等,而非一比一的形式平等.
@@ -163,43 +218,50 @@ upd
 课后练习即可
 (ref 周玄毅 "内卷辩 > 筛选不创造价值")
 
-## girlfriend
-
-浮躁时,期待清高者
-孤独时,期待世俗者
-自负时,不期待归隐者
-落魄时,不期待鸢飞者
-...
-正期负待,随遇而改
-不知状,亦不知人
-奈何人皆如此
-...
-且从流飘荡,乐夫天命
-
 upd
-已矣乎
-无论祂外在内在何
-不可避免地
-人都趋同
-...
-与此同时
-我想,我不能安于大公司构筑的幻境
-我必须亲自创作我的幻想世界
+千百年前
+数学家们的草稿上,演算着今天的定理
+物理学家们的工作台上,进行着今天的实验
+或许
+步骤繁复与实现细节不同
+但论其本质
+只是解决命题,思考步骤.
 
-upd
-一个先验的词,`早恋`,前人述之备矣
-本质,`个性解放`与`世俗礼教`的矛盾
-特别地,于我个人地
-我想,更多是`清高`与`博爱`的矛盾
-通俗地
-那个"看山是山看水是水"的世界,我不愿意欣赏.
-(ref 朱光潜 "给青年人的十二封信 > 多元宇宙")
-许多年后,或许那个曾经十六岁的孩子
-(ref livid "letter from 26 to 18")
-祂手边多了浮华,身边多了知己,心间多了世俗
-不忘记,祂的心思不在这里.
+那时候
+人们以务农为生
+科学研究许多时候没有功利的报酬
+理学往往是旧时贵族的成就
+超功利地,为什么人们从无数的可能性中,选择了这些命题研究呢
+大概是祂们"有意思"吧
 
-## highschool entrance exam
+而今天的阅读理解,
+不说千百年前的文学家
+就在几十年前,也未必是这样的题
+
+今人是多少激进,才能打破先验的历史呢
+我不知道
+我只是看到了大量于之的批评
+想着大概莫出于此吧
+
+我一直以为,文学不是每个人的游戏
+一些默写记忆和解题技巧,确实可以通过不断重复进行传授
+可是那些真正的意趣,奇妙的比喻,生动的单子动词,情感寄托的意象
+真的能通过朴素的教与学获取吗
+我不知道
+
+或许,当下的教育,只是从无尽的书海中
+选出最富于表现手法的那些,批注上名家的解读
+然后,那些善于想象,善于类比的孩子,自然能习得些"文采"
+至于那个更广阔的世界,不妨从流飘荡,任意东西
+
+我想
+数学,对于非压轴题,若要检验一个定理的应用,或许改些数据就能达到目的
+文学,当不重复的题目被批量生产,不知其中有多少是真正值得分析和解读的
+
+当迎面吹来应试教育的风
+看看那些孩子和试题,这是否好事,谁知道呢
+
+## university entrance exam
 
 现在的高考模式如何?
 不好啊
@@ -280,6 +342,46 @@ upd
 (太讽刺了)
 或云,每一门科目都有学习方法和特色,值得一学
 是啊,所以有合格考存在
+
+upd
+或者
+直接3+1吧.
+
+## girlfriend
+
+浮躁时,期待清高者
+孤独时,期待世俗者
+自负时,不愿面对归隐者
+落魄时,不愿面对鸢飞者
+...
+正期负待,随遇而改
+不知状,亦不知人
+奈何人皆如此
+...
+且从流飘荡,乐夫天命
+
+upd
+已矣乎
+无论祂外在内在何
+不可避免地
+人都趋同
+...
+与此同时
+我想,我不能安于大公司构筑的幻境
+我必须亲自创作我的幻想世界
+
+upd
+一个先验的词,`早恋`,前人述之备矣
+本质,`个性解放`与`世俗礼教`的矛盾
+特别地,于我个人地
+我想,更多是`清高`与`博爱`的矛盾
+通俗地
+那个"看山是山看水是水"的世界,我不愿意欣赏.
+(ref 朱光潜 "给青年人的十二封信 > 多元宇宙")
+许多年后,或许那个曾经十六岁的孩子
+(ref livid "letter from 26 to 18")
+祂手边多了浮华,身边多了知己,心间多了世俗
+不忘记,祂的心思不在这里.
 
 ## emptiness
 
@@ -749,7 +851,9 @@ unused
   - lvfuyuan //math god with obesity
   - wangxiaofeng dixuchen //nsfw humor and acg lover
   - dixuchen //nsfw and adolescent conceit
-  - friends in class 1 and class 7 //playmates and believers 
+  - friends in class 1 //believers & music lovers
+  - friends in class 4 //football players
+  - friends in class 7 //mobile gamers
 
 fira
 "开导,打表,求解"
@@ -785,6 +889,7 @@ djhs g1t2 master
 夜深了,考试结束了,夏天到了
 躺下吧,不穿胖次了,披件睡衣
 空调的薄在被子上摩擦
+举重若轻地盖上,是短裙的感觉.
 🌕 💤
 ...
 是青春啊
@@ -805,7 +910,7 @@ djhs g1t2 master
 角色台词,角色本身,...其后才是世俗的纷纷扰扰
 是啊,语言,作为角色性格的体现,不该最重要之吗
 
-## purity illusory number
+## pure math illusory
 
 定义虚数,其符号记作$i$,有$i^2=-1$
 ...
@@ -1058,6 +1163,7 @@ mission: make tools elegant
 哪有分数(台阶)的压力,中学生活不过寻个乐子
 比如老王(wangzhaohai,1970s),善于严谨证明,计算易错但强在思路清晰
 我喜欢他,不过喜欢他的悠然自得,游刃有余
+很喜欢在课上计算,经常算错,总能自己发现并修正
 我和我的同学就不一样了,两句顶十句话,
 不仅会翻译人话,比如"≡mod -> a%b=c" "limx+inf -> l" "a是角A的对边 -> rm" etc.
 还留一手 "惊人的注意力(打表找规律)" "计算器解了(近似化精确)" "举重若轻(抽象跳步)"
@@ -1154,6 +1260,8 @@ there are a lot of lovers i've found."
 如果祂涉世未深,就带她见世间繁华.(ref yomiya)
 如果祂历尽沧桑,就带她骑旋转木马.(ref raiden shogun)
 
+你们都是我的翅膀啊
+
 man!what can i say!
 wow,holyshit,what is this!
 
@@ -1194,6 +1302,17 @@ feel free to thumb up and subscribe if you love this
 
 你暗恋得已经足够明显了,只是她不喜欢你
 祂给的意象已经足够明确了,只是你不理解
+
+知识,要用苦痛来换取.
+修改现实数据而已,不值一提的小把戏.
+
+so much for this have a nice day.
+
+上帝会宽恕你的一切罪行.
+(圣经)
+
+因为我爱过你,所以我爱你.(anime characters in real life...)
+我喜欢你,我想成为你.(继承老王的衣钵...)
 
 ## to be addressed
 
@@ -1304,6 +1423,75 @@ f:
 f:
 (在理)
 
+## anime nsfw
+
+三次元的欲望相当有限,仅是充斥着过度饱和的暖调.
+二次元给了我新的世界,无声地告诉我颜色是自由的.
+
+## why not use capital letters
+
+i prefer not to use capital letters even if it's the first letter in a sentence or to represent myself
+two reasons.
+one is that if you use uppercases you must press the shift key or capslock key
+keep it stupid simple!never press an extra key!
+another is that if you see uppercases often you may feel anxious and uneasy
+so use lowercase,everything is soft and gentle
+
+even further i seldom use . to mark the end of a sentence
+if i want to start a new sentence i just \n
+i even changed my markdown render script to make a \n actually a \n
+it feels like reading a poem
+wow that's good
+
+## chinese politics holyshit
+
+> 本来想要叫 chinese politics porn的
+> 但是词典太落后了
+> takeaway -> keypoints or cheetsheet
+> porn -> infomation that doesnt make sense or just for fun
+> 一些如此常见的义项都缺失,怎么行啊
+
+看了ruanyf的周刊
+gitcode搬运了整个github.
+
+我想
+这并没有什么问题
+github上的每个开源项目都有fork按钮
+按下,就可以在自己的主页创建副本
+gitcode做了什么呢
+不过是
+- 对每个开源项目,按下fork
+- 给个人主页,注入css样式
+- 将个人主页,挂在新的域名下
+仅此而已
+
+至于内容农村与搜索引擎污染
+我还真不信,在google上它能排过github
+除非投放ad
+
+就像许多优质的内容
+挂着朴素的封面和标题
+秉持着"酒香不怕巷子深"的道理
+
+试想换上炫目的色彩作封面,网言网语作标题
+浏览翻几番都不一定,收入也不会少长
+
+只是
+他们没有这样做
+而
+另一些人这样做了,而已
+
+很多时候我看到中文社会的乱象,根本不想评论了
+因为本质上只是一些个人选择
+
+选择当然反映人们的观念
+但观念的水位上升,需要时间
+
+对于急于求成的人,变革不在这几年发生就已经太慢
+对于另一些人,近几十年的发展已经足够波澜壮阔
+
+我不变不移地,选择站在时间一边
+在此之前,我尊重他人选择
 
 
 
