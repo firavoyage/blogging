@@ -20,7 +20,7 @@
 > school life
 - read books "人生哲思录"
 - english papers (cloze reading translation)
-- math papers
+- math challenger tut
 
 ## 20240701
 
