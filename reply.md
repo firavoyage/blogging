@@ -77,6 +77,22 @@ upd
 言传身教:
 顶格写大字.
 
+upd
+我得创造些网络迷因
+我得学用英语说话
+
+upd
+有许多学科都值得我教学
+可惜有些学科,广泛教材写的不好,民间教材也烂.
+...
+道理很简单
+有些学科,即使失去了升学主义的光辉,教材依然灿烂
+有些学科,反之,教材就不知如何编写了
+...
+更直白地
+离开了试题,
+有些教材,内容大致不变.有些反之.
+
 ## pure math comment
 
 ask me anything!
@@ -347,7 +363,7 @@ upd
 或者
 直接3+1吧.
 
-## girlfriend
+## girlfriend or waifu
 
 浮躁时,期待清高者
 孤独时,期待世俗者
@@ -382,6 +398,11 @@ upd
 (ref livid "letter from 26 to 18")
 祂手边多了浮华,身边多了知己,心间多了世俗
 不忘记,祂的心思不在这里.
+
+upd
+趋同的人们,不妨幻化多少情人归一.
+一直喜欢老子,庄子的道家思想
+现代的手办艺术,不过是历史的幻化罢了
 
 ## emptiness
 
@@ -1250,7 +1271,6 @@ there are a lot of lovers i've found."
 
 "..."("房思琪的初恋乐园")
 "..."("活着")
-啊,要写的这么...吗,不妨借物喻人(f)
 枫叶的金黄,穿梭风中,溶解泥中
 红日的倒影,闪烁空中,沉潜水中
 玫瑰的朝霞,黄昏窗中,折映屋中
@@ -1270,21 +1290,20 @@ memories,are the language of rosemary flowers
 no sacrifice shall go unrewarded
 solitary clouds shadow in the setting sun stirs the drifter's heart
 
+知识,要用苦痛来换取.
+修改现实数据而已,不值一提的小把戏.
+
 parsley sage rosemary and thyme
 i wandered lonely as a cloud
 
-不妨竖起大拇指,并订阅将来的更新,如果你感到些许欢愉
+如果你感觉欢愉,不妨竖起大拇指,并订阅将来的更新
 feel free to thumb up and subscribe if you love this
-
-现代社会的财富本就是上流的.(双关)
 
 👍🏿4%,👴🏿💵,🐁🐁🗿
 👍🏿2%,👴🏿💸,🐁🐁💰
 
-品味生命固有的乐趣
-同人类历史上伟大的灵魂交往
-即使在一个无趣的时代
-也能活得有趣
+有技兄这
+迟b片
 
 相对于自然,地理不过是细节
 相对于生命,历史不过是细节
@@ -1297,22 +1316,21 @@ feel free to thumb up and subscribe if you love this
 又何妨用只有一件小屋的标准来限定必需的物品
 又何妨用来日不多的标准来限定必做的事情
 
-花车颠啊颠,纳西妲睁开眼 (nahida pv)
-当我痛苦时,他却在欢笑 (sparkle pv)
+花车颠啊颠,纳西妲睁开眼 
+当我痛苦时,他却在欢笑
 
 你暗恋得已经足够明显了,只是她不喜欢你
 祂给的意象已经足够明确了,只是你不理解
 
-知识,要用苦痛来换取.
-修改现实数据而已,不值一提的小把戏.
-
 so much for this have a nice day.
 
-上帝会宽恕你的一切罪行.
+上帝会宽恕你的一切罪行...
 (圣经)
 
-因为我爱过你,所以我爱你.(anime characters in real life...)
+因为我爱过你,所以我爱你.(real life anime...)
 我喜欢你,我想成为你.(继承老王的衣钵...)
+
+欲望与遗忘的对抗...
 
 ## to be addressed
 
@@ -1449,6 +1467,7 @@ wow that's good
 > 但是词典太落后了
 > takeaway -> keypoints or cheetsheet
 > porn -> infomation that doesnt make sense or just for fun
+> holyshit -> formalism or awkward ridiculous policies
 > 一些如此常见的义项都缺失,怎么行啊
 
 看了ruanyf的周刊
@@ -1492,6 +1511,18 @@ gitcode做了什么呢
 
 我不变不移地,选择站在时间一边
 在此之前,我尊重他人选择
+
+upd
+换皮镜像站,前人之述备矣.
+哈哈哈...
+
+## chinese politics theory
+
+无论一切,命运总是无常.
+与此同时,高中语文告诉人们,每一记命的音符,都由主观与客观构筑.
+客观因素,观念环境在其中是不移不变的重要位置.
+那么很好,这给了许多人情绪的出口.
+仅此而已,自然的现象.
 
 
 

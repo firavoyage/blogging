@@ -27,7 +27,7 @@
   - hard-boiled eggs simmered with tea
 -
   - uniqlo & muji shirt with buttons
-  - life-size waifu (keqing | fuxuan | sparkle | ksora)
+  - life-size waifu (keqing | fuxuan | ksora | sparkle)
   - flowers and greenery
   - pure math
   - web development
@@ -46,6 +46,45 @@
   - soul
   - the shawshank redemption
   - the graduate
+  - new national debation
+-
+  - forever naive taffy
+  - orient snowy lotus
+  - nova lciop
+  - mohamad light
+  - natural brawl star
+  - longbow flintlock
+  - micheal jackson
+  - scorpions
+  - johann sebastian bach
+-
+  - title theme
+  - ymca
+  - wind of change
+  - scarborough fair
+  - the sound of silence
+  - caresse sur l'océan
+  - da capo
+  - always in my heart
+  - benevolence bequeathed
+  - -記憶-
+  - -遠い空へ-
+  - 比翼の羽根
+  - ツナグキズナ
+  - フタリ (春日野穹ver)
+  - 五十年以后
+  - 米店
+  - 富士山下
+  - 海阔天空
+  - 匆匆那年
+  - ルマruma
+  - 청춘(응답하라1988 1화)
+  - one last kiss
+  - 勇者
+  - anytime anywhere
+  - all my people
+  - beat it
+  - 千本樱
 -
   - azurlane
   - bluearchive
@@ -64,35 +103,6 @@
   - _grand theft auto v
   - _needy streamer overload
   - _senrenbanka
--
-  - title theme
-  - ymca
-  - wind of change
-  - scarborough fair
-  - the sound of silence
-  - caresse sur l'océan
-  - da capo
-  - always in my heart
-  - benevolence bequeathed
-  - -記憶-
-  - -遠い空へ-
-  - 比翼の羽根
-  - ツナグキズナ
-  - フタリ (春日野穹ver)
-  - 米店
-  - 富士山下
-  - 海阔天空
-  - 光辉岁月
-  - 五十年以后
-  - 匆匆那年
-  - ルマruma
-  - ほろよい
-  - 청춘(응답하라1988 1화)
-  - 惠化洞(双门洞)
-  - butter-fly
-  - one last kiss
-  - 勇者
-  - anytime anywhere
 -
   - the bible
   - 观念的水位
@@ -134,23 +144,16 @@
   - _罗生门
   - _理想国
   - _复活
+  - _黄金年代
   - _competitive programmer’s handbook
   - _refactoring ui
   - _the art of supercell 10th anniversary edition
--
-  - forever naive taffy
-  - orient snowy lotus
-  - nova lciop
-  - mohamad light
-  - natural brawl star
-  - longbow flintlock
 - 
   - ubuntu
   - android
-  - code
   - chromium
+  - code
   - git
-  - fira
 - 
   - antennapod
   - bilimiao

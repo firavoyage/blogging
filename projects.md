@@ -1,24 +1,18 @@
 # projects
 
 ## write
-- `para` opensource notion running local
-inspired by `notion` `typora`
+- `para` the reader
+inspired by `notion` `typora` `beamer`
   - products
 ```
 para
-blogging in solitude
-
-para editor
-typora as a component
+the reader of the infomative age
 
 para compiler
 render extended markdown
 
-para independent app
-render to html with slide script included
-
 docu
-document builder
+document site builder
 
 goodnight
 keeping made simple
