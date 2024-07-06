@@ -300,12 +300,16 @@ tv takes all that good imagination away.
   - weekly
   - timeln
   - djhs grades
+- pref
+  - chromium bookmarks
+  - list adguard
+  - list simplelive
   - ubuntu config
 
 ## repos here
 - `git/blogging` notes and inspirations 
-- `git/blogging/debation` debation summaries
 - `git/blogging/config` preferences and guides
+- `git/blogging/debation` debation summaries
 - `git/web/blogs` internet pages capsuled
 - `git/memories` life
 - `git/memories/comments` internet spectator life
