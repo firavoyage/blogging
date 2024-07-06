@@ -359,17 +359,17 @@ become a success story on producthunt and retire early (upstart belike)
 contribute to the liberty of the world
 explore the simplicity of development
 
-## status
-when i'm not working on my projects
-i'm eating my feed list
-or enjoying acg
-or studying
-
 ## alias
 - `fira`
 - `忘我思考`
 - `言序&映画`
 - `苇名一心`
+
+## status
+when i'm not working
+i'm eating my feed list
+or enjoying acg
+or learning
 
 > -> books_douban_top250
 > -> movies_douban_top250

@@ -212,13 +212,14 @@ math leader (daoxuexianfeng)
 math helper (fudaoyutigao)
 math challenger (huashidaqiangji)
   - use literary writing approach
-nsfw quotes (uee zero score writings https://www.gaokao.com/gkzw/gklfzw/)
+reality satire (uee zero score writings https://www.gaokao.com/gkzw/gklfzw/)
+game idioms (moegirlpedia > idioms list https://moegirl.icu/Category:%E6%A2%97%E5%88%97%E8%A1%A8)
 net idioms (those chatting in back rows,see those gamers,dont disturb the sleeping)
-ancient vernacular (for form words)
+game lines (mihoyo cv)
+ancient vernacular (form words)
 omit the subject word
 leave attribute adverbial behind
 paired phrases
-use allusions
   - use abstracted internet meme
 ref "r/abstractart"
 internet meme as flowing gradients
