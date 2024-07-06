@@ -1,0 +1,43 @@
+cd Music
+git pull e master
+git add .
+git commit -m '.'
+git push e
+cd ..
+cd Documents
+cd blogging
+git pull e master
+git add .
+git commit -m '.'
+git push e
+cd ../memories
+git pull e master
+git add .
+git commit -m '.'
+git push e
+cd ../programs
+git pull e master
+git add .
+git commit -m '.'
+git push e
+cd ../web
+git pull e master
+git add .
+git commit -m '.'
+git push e
+cd ../g
+git pull e master
+git add .
+git commit -m '.'
+git push e
+cd ../self
+git pull e master
+git add .
+git commit -m '.'
+git push e
+cd ../fonts
+git pull e master
+git add .
+git commit -m '.'
+git push e
+cd ../..
