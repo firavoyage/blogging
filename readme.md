@@ -25,10 +25,51 @@
   - pure math
   - web dev
 -
+  - tom and jerry
+  - in solitude where we are least alone
+  - worldend: what do you do at the end of the world? are you busy? will you save us?
+  - frieren: beyond journey's end
+  - bang dream! it's mygo!!!!!
+  - bocchi the rock
+  - oshi no ko
+  - reply 1988
+  - the long season
+  - evangelion
+  - joker
+  - soul
+  - the shawshank redemption
+  - the graduate
+  - new national debation
+-
   - johann sebastian bach
   - joseph haydn
   - scorpions
   - micheal jackson
+-
+  - wind of change
+  - scarborough fair
+  - the sound of silence
+-
+  - title theme
+  - ymca
+  - caresse sur l'océan
+  - da capo
+  - always in my heart
+  - one last kiss
+  - benevolence bequeathed
+  - -記憶-
+  - 比翼の羽根
+  - ツナグキズナ
+  - フタリ (春日野穹ver)
+  - 米店
+  - 海阔天空
+  - 富士山下
+  - 匆匆那年
+  - 五十年以后
+  - 청춘(응답하라1988 1화)
+  - 勇者
+  - ルマruma
+  - 千本樱
 -
   - forever naive taffy
   - orient snowy lotus
@@ -52,47 +93,6 @@
   - old bai sleepwalked
   - swedish cook
   - longbow flintlock
--
-  - tom and jerry
-  - in solitude where we are least alone
-  - worldend: what do you do at the end of the world? are you busy? will you save us?
-  - frieren: beyond journey's end
-  - bang dream! it's mygo!!!!!
-  - bocchi the rock
-  - oshi no ko
-  - reply 1988
-  - the long season
-  - evangelion
-  - joker
-  - soul
-  - the shawshank redemption
-  - the graduate
-  - new national debation
--
-  - title theme
-  - wind of change
-  - scarborough fair
-  - the sound of silence
-  - caresse sur l'océan
-  - da capo
-  - always in my heart
-  - one last kiss
-  - benevolence bequeathed
-  - ymca
-  - beat it
-  - -記憶-
-  - 比翼の羽根
-  - ツナグキズナ
-  - フタリ (春日野穹ver)
-  - 五十年以后
-  - 米店
-  - 富士山下
-  - 海阔天空
-  - 匆匆那年
-  - ルマruma
-  - 청춘(응답하라1988 1화)
-  - 勇者
-  - 千本樱
 -
   - azurlane
   - bluearchive

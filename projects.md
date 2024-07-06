@@ -125,8 +125,8 @@ view and adjust your user avatar
   - capsule things
 powered by fav
   - local first
-like thunderbird
 posts are downloaded local
+import and export subscription list
 
 - `fav` digital time capsule
 > all memories in your palm "一切追想一片手掌"
@@ -143,6 +143,7 @@ save what?cover image,tag,intro,... listed in json
 quote blogpost podcast video ... 
   - local first
 get rid of the fickleness of the cencership
+import and export fav list
 
 - `shelf` elegant bookshelf
 > how a reading app should be
