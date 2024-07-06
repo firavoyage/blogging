@@ -172,7 +172,7 @@
   - roboto
   - source han sans cn
   - source han serif cn
-  - ubuntu
+  - ubuntu sans
   - zhi mang xing
 - 
   - english
@@ -182,9 +182,9 @@
   - spanish
   - deutsch
 - 
-  - ubuntu
-  - android
-  - chromium
+  - ubuntu 24
+  - android 11
+  - chromium 124
   - code
   - git
 - 

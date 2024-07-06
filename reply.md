@@ -1018,6 +1018,9 @@ unused
 unused
 
 ## people discovered at school
+- self
+  - 20070917
+  - shanghai
 - lida junior high school
   - self(2-41)
   - 2-11 //#1,calm and easy girl,went to qibao high school
@@ -1027,7 +1030,7 @@ unused
 - dajing vocational high school
   - 02 03 07 09 //stylish girls
   - self(6-28)
-  - chenshiyu //1998,sh normal school undergraduate,waifu instead of sensei,low saturation ppt,writing noskill
+  - chenshiyu //1998,waifu instead of sensei,play our video games,low saturation ppt,writing noskill,2016 shanghai uee -> shanghai normal school,2022 -> djhs,teached "last session" students
   - wangzhaohai //1960s?,variable substitute & function image master,one with humor & enthusiasm,phone bell "五十年以后"
   - lujianhong //1980s?,studied in us,stories of students taught,one with idioms and foreign culture
   - jiangzhijun(6-21) //greatest competitor of grade #1

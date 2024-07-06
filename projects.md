@@ -211,6 +211,7 @@ math leader (daoxuexianfeng)
 math helper (fudaoyutigao)
 math challenger (huashidaqiangji)
   - use literary writing approach
+nsfw quotes (uee zero score writings https://www.gaokao.com/gkzw/gklfzw/)
 net idioms (those chatting in back rows,see those gamers,dont disturb the sleeping)
 ancient vernacular (for form words)
 omit the subject word
@@ -263,6 +264,8 @@ threejs methods
   - web apps builder
 markdown beautiful card
 charstyler
+plain text table
+plain text journaling
 emoji index
 anime-style message
 one line news weekly

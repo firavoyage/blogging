@@ -4,7 +4,7 @@
 > range from the oldest to current(issue 307)
 > interesting project ideas -> projects.md
 > -> "project name" "essence" "slogan" "features(list)"
-> significant quotes -> ruanyf_weekly_archive.md
+> significant quotes -> ruanyfarchive.md
 > -> "header title" "quote"
 > (fira,20240706)
 
