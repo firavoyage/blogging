@@ -25,22 +25,6 @@
   - pure math
   - web dev
 -
-  - tom and jerry
-  - in solitude where we are least alone
-  - worldend: what do you do at the end of the world? are you busy? will you save us?
-  - frieren: beyond journey's end
-  - bang dream! it's mygo!!!!!
-  - bocchi the rock
-  - oshi no ko
-  - reply 1988
-  - the long season
-  - evangelion
-  - joker
-  - soul
-  - the shawshank redemption
-  - the graduate
-  - new national debation
--
   - johann sebastian bach
   - joseph haydn
   - scorpions
@@ -71,6 +55,35 @@
   - ルマruma
   - 千本樱
 -
+  - tom and jerry
+  - in solitude where we are least alone
+  - worldend: what do you do at the end of the world? are you busy? will you save us?
+  - frieren: beyond journey's end
+  - bang dream! it's mygo!!!!!
+  - bocchi the rock
+  - oshi no ko
+  - reply 1988
+  - evangelion
+  - joker
+  - soul
+  - the shawshank redemption
+  - the graduate
+  - new national debation
+- 
+  - adhesiontek
+  - paperclip
+  - director porridge with spicy pidan
+  - codingstartup
+  - efficlab
+  - interpreter gavin
+  - mihoyo wei bro
+  - shl great pigeon
+  - mihoyo my sister is just that cute 
+  - one slice bread
+  - old bai sleepwalked
+  - swedish cook
+  - longbow flintlock
+-
   - forever naive taffy
   - orient snowy lotus
   - nova lciop
@@ -79,32 +92,18 @@
   - idle free man
   - tail tail here
   - chenzihao
-- 
-  - adhesiontek
-  - paperclip
-  - director porridge with spicy pidan
-  - codingstartup
-  - efficlab
-  - interpreter gavin
-  - super wei bro (mihoyo)
-  - shl great pigeon
-  - my sister is just that cute (mihoyo nsfw)
-  - one slice bread
-  - old bai sleepwalked
-  - swedish cook
-  - longbow flintlock
 -
   - azurlane
   - bluearchive
   - brawl stars
   - clash royale
-  - honkai star rail
-  - honkai impact third
-  - houkai gakuen second
-  - fly me 2 the moon
-  - zenless zone zero
   - soul knight
+  - fly me 2 the moon
+  - houkai gakuen second
+  - honkai impact third
   - genshin impact
+  - honkai star rail
+  - zenless zone zero
   - the rainbow appears after flowering rain.
   - _sekiro: shadows die twice
   - _elden ring
@@ -126,11 +125,12 @@
   - 活着
   - 房思琪的初恋乐园
   - 草房子
+  - refactoring ui
   - .人生哲思录
   - _海子的诗
   - _顾城的诗
   - _飞鸟集
-  - _gödel,escher,bach
+  - _集异璧
   - _人间词话
   - _树上的男爵
   - _看不见的城市
@@ -151,19 +151,21 @@
   - _一句顶一万句
   - _傲慢与偏见
   - _悲惨世界
-  - _雕刻时光
   - _罗生门
   - _理想国
   - _复活
   - _黄金年代
-  - _competitive programmer’s handbook
-  - _refactoring ui
+- 
+  - english
+  - japanese
+  - chinese
+  - french
+  - spanish
 - 
   - chill round gothic
   - dejavu sans
   - dejavu serif
   - fira code
-  - fira sans
   - free sans
   - free serif
   - fz kaiti
@@ -172,21 +174,14 @@
   - roboto
   - source han sans cn
   - source han serif cn
-  - ubuntu sans
+  - ubuntu
   - zhi mang xing
-- 
-  - english
-  - japanese
-  - chinese
-  - french
-  - spanish
-  - deutsch
 - 
   - ubuntu 24
   - android 11
   - chromium 124
-  - code
-  - git
+  - code 1.89
+  - git 2.43
 - 
   - antennapod
   - bilimiao
@@ -207,12 +202,16 @@
   - anna's archive
   - goldendict
   - codeforces
-  - material file on android
+  - material file
   - fcitx5 & fcitx android
-  - unicode emojis
-  - pwa & wasm & browser ext
+  - gnome characters
+- 
   - design.google
+  - google material design
   - ubuntu yaru
+  - dracula official
+  - monokai pro
+  - one dark pro
 - 
   - lenovo yoga 13s 2021
   - smartisan revolution ii
