@@ -12,7 +12,6 @@
 - read "javascript tut" "js20" "js50" & design firascript 
 - watch "new national debation" & summarize (-> rat race)
 - read ruanyf weekly archive & save ideas(-> projects) and quotes(-> ruanyfarchive)
-- trim git/memories and git/web
 > summer vacation night
 - read visual novels (rpgs)
 - watch bangumis ("yosuga no sora" "mygo" "frieren")
