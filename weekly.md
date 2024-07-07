@@ -2,6 +2,27 @@
 
 > 🌕 💤 before 23:00!
 
+## 20240707
+
+> summer vacation daily
+- visit digital homes (al ba hi sr)
+- eat (bilimiao)
+> summer vacation day
+- read "math challenger" & design "pure math"
+- read "javascript tut" "js20" "js50" & design firascript 
+- watch "new national debation" & summarize (-> rat race)
+- read ruanyf weekly archive & save ideas(-> projects) and quotes(-> ruanyfarchive)
+- trim git/memories and git/web
+> summer vacation night
+- read visual novels (rpgs)
+- watch bangumis ("yosuga no sora" "mygo" "frieren")
+- watch simplelive
+> school life
+- watch "air courses" & take notes
+- read books "人生哲思录"
+- read "math challenger"
+- write english papers (cloze reading translation)
+
 ## 20240706
 
 > summer vacation daily
@@ -10,9 +31,10 @@
 > summer vacation day
 - read "math challenger" & design "pure math"
 - read "javascript tut" "js20" "js50" & design firascript 
-- watch "new national debation" & summarize
+- watch "new national debation" & summarize (-> rat race)
 - trim git/memories and git/web
-- read ruanyf weekly archive & save ideas(-> projects) and quotes( -> ruanyf)
+- read ruanyf weekly archive & save ideas(-> projects) and quotes(-> ruanyfarchive)
+- add projects.md > apps
 > summer vacation night
 - read visual novels (rpgs)
 - watch bangumis ("yosuga no sora" "mygo" "frieren")

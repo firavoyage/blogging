@@ -13,9 +13,9 @@ zoom in and zoom out
   - markdown extended
 various content blocks
 collapse and show more
-by para compiler
+line break styles powered by para compiler
   - themes to choose
-by voyage
+powered by voyage
   - runs local
 based on pwa
 
@@ -40,8 +40,13 @@ footer for page index,author and date
 - `mind` elegance of thoughts
 > beautiful progressive web app for mind map
   - keyboard controlled
+hotkey for every commend like code
   - markdown based
+not just inputting vehicle but files type
+  - various styles
+to mindmap treeview venn
   - themes
+powered by voyage
 
 ## create
 
@@ -186,8 +191,32 @@ contrast
 straw man
   - based on markdown
 
+- `noskill` any writing -> pure templates
+> writing noskill
+  - goblin mode
+pursue high score,failed and failed...gave up at the end of the day.
+only a standard b+ score can content me
+  - templated writing
+beginning (quote analyse throw) "引析立"
+what is the keyword. "何为?"
+in the past,positive examples... "为何?纵观历史,古人a以此...古人b以此...古人c以此..."
+nowadays,why people cant... subjective and objective reason "反观当下,今人为何不能...?主观上,...客观上,..."
+how to do "如何?"
+if not,ok.but can be better."诚然,反之亦可.顺策与逆策本质上并不矛盾."
+ending (throw in another way) "重申."
+
+- `heresy` full marks in writing but heresy
+> the heresy masterpieces "如何写出离经叛道的满分作文?"
+  - another writing template
+common features in those unexpected max score writings
+beginning & ending -> narrate (real life experience)
+middle -> comment (young master style,huangzhizhong-like)
+  - reality satire
+high score to standard
+wow,holyshit.
+
 - `symbols` symbol world of wonder
-> literary original desire 
+> literary original desire "奇妙比喻的初心"
   - unexpected metaphor simile
   - criticism to the reality
 
@@ -207,19 +236,23 @@ skip calculations
   - use analogies
 grade school problem:find the regularity
   - based on public resources
+("因先人之迹,行映画之术,布简明之道")
 math tut (shanghai highschool math textbooks)
 math leader (daoxuexianfeng)
 math helper (fudaoyutigao)
 math challenger (huashidaqiangji)
-  - use literary writing approach
-reality satire (uee zero score writings https://www.gaokao.com/gkzw/gklfzw/)
-game idioms (moegirlpedia > idioms list https://moegirl.icu/Category:%E6%A2%97%E5%88%97%E8%A1%A8)
-net idioms (those chatting in back rows,see those gamers,dont disturb the sleeping)
-game lines (mihoyo cv)
-ancient vernacular (form words)
-omit the subject word
-leave attribute adverbial behind
-paired phrases
+  - use internet quotes and ancient vernacular 
+("罢免今世文俗,善取网言网语,求索古时白话")
+nsfw idioms (-> idioms.md)
+game meme (moegirlpedia idioms list -> https://moegirl.icu/Category:%E6%A2%97%E5%88%97%E8%A1%A8)
+reality satire (uee zero score writings -> https://www.gaokao.com/gkzw/gklfzw/)
+japanese hanji
+taiwan loco dialect
+omit the subject word (especially human)
+leave attributes and adverbials behind (like english)
+paired phrases (especially compound words,vvnn -> verb noun verb noun)
+  - high level music
+bach classics and english golden ballads
   - use abstracted internet meme
 ref "r/abstractart"
 internet meme as flowing gradients
@@ -256,6 +289,57 @@ sync with git or drives...
   - human-like pronounciation 
 powered by gptsovits
 
+## apps
+
+- `fx` arithmatic beautiful
+> casio fx991
+  - write full literal
+  - use accurate form as possible
+  - various themes
+
+- `mdcard` markdown beautiful card
+> one of a kind message "见字如面"
+  - use markdown
+  - put in a letter or card
+  - gradient or art bg
+
+- `charstyler` unicode player
+> unique text for unique you "相由心生"
+  - style in one click
+  - show preview
+  - support all unicode forms
+
+- `plaintable` table in plain text 
+> retro terminal table style 
+  - add split lines
+  - unified align
+
+- `journaling` plain text journaling
+> weeks and months
+  - four weeks horizonal
+  - todos vertical
+  - one symbol status
+
+- `emoji` find and copy emoji 
+> all emojis one emoji
+  - like gnome characters
+  - copy in one click
+
+- `msgx^2` anime style messaging
+> like houkai gakuen second
+  - kawaii faces unicodes
+  - indexed with emotions
+  - random
+
+- `1lweekly` one line news weekly
+> tech news in one line
+  - slashdot
+  - ruanyf
+  - yc news
+  - flower tech news tg channel
+
+## dev
+
 - `intuitive` showcase the power of web
 > script sparks
   - frontend tech(which is really knowledge) structured
@@ -263,14 +347,8 @@ html tags and attributes
 css selector and attributes
 js grammar and built-in methods
 threejs methods
-  - web apps builder
-markdown beautiful card
-charstyler
-plain text table
-plain text journaling
-emoji index
-anime-style message
-one line news weekly
+  - interesting demos
+and useful progressive web apps
   - intuitive game engine
 ref "no bullshit games","poki","scratch"
 examples:
@@ -279,19 +357,11 @@ genshin dungeon:soul knight but gi monsters
 unique card gambers:know the enemy and know yourself
 platfighter:pass or death
 cr local:ideas ignored by supercell,human-like opponents
-  - using standard format
+  - use standard format
 based on firascript (compiled to html)
 edit with any ide and launch in browsers
   - various themes
 powered by voyage
-
-- `fx` arithmatic beautiful
-> casio fx991
-  - write full literal
-  - use accurate form as possible
-  - various themes
-
-## dev
 
 - `firascript` simplicity of javascript
 > another javascript dialect

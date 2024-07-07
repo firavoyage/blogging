@@ -47,7 +47,9 @@
   - フタリ (春日野穹ver)
   - 米店
   - 海阔天空
+  - 光辉岁月
   - 富士山下
+  - 浮夸
   - 匆匆那年
   - 五十年以后
   - 청춘(응답하라1988 1화)
@@ -77,18 +79,18 @@
   - efficlab
   - interpreter gavin
   - mihoyo wei bro
-  - shl great pigeon
+  - shl super pigeon
   - mihoyo my sister is just that cute 
   - one slice bread
   - old bai sleepwalked
   - swedish cook
   - longbow flintlock
 -
-  - forever naive taffy
-  - orient snowy lotus
+  - forever naive(maiden) taffy
+  - orient(japanese) snowy lotus
   - nova lciop
   - mohamad light
-  - natural brawl master
+  - natural brawl master(stars)
   - idle free man
   - tail tail here
   - chenzihao
@@ -155,12 +157,6 @@
   - _理想国
   - _复活
   - _黄金年代
-- 
-  - english
-  - japanese
-  - chinese
-  - french
-  - spanish
 - 
   - chill round gothic
   - dejavu sans
@@ -294,6 +290,7 @@ tv takes all that good imagination away.
 - ideas
   - projects
   - reply
+  - idioms
   - comments
 - self
   - weekly
