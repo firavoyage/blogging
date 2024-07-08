@@ -20,7 +20,7 @@
   - hard-boiled eggs simmered by tea
 -
   - uniqlo & muji shirts with buttons
-  - life-size waifus
+  - life-size waifu (sparkle)
   - flowers and greenery
   - pure math
   - web dev
@@ -66,15 +66,16 @@
   - paperclip
   - codingstartup
   - efficlab
-  - porridge with spicy pidan
   - interpreter gavin
-  - shl super pigeon
-  - my sister is just that cute 
-  - old bai sleepwalked
-  - swedish cook
+  - porridge with spicy pidan
+- 
   - mihoyo wei bro
+  - my sis is just that cute 
+  - old bai sleepwalked
   - longbow flintlock
-  - blackman cupid
+  - black man cupid
+  - keqing
+  - fuxuan
 -
   - forever naive taffy
   - orient snowy lotus
@@ -125,26 +126,14 @@
   - _集异璧
   - _人间词话
   - _树上的男爵
-  - _看不见的城市
-  - _分成两半的子爵
   - _人生的智慧
-  - _人生的枷锁
-  - _红楼梦
-  - _水浒传
   - _西游记
-  - _三国演义
   - _道德经
-  - _庄子
-  - _史记
-  - _风流去
-  - _百年孤独
-  - _月亮和六便士
   - _傲慢与偏见
-  - _悲惨世界
   - _罗生门
-  - _理想国
-  - _复活
   - _黄金年代
+  - _百年孤独
+  - _复活
 -
   - ubuntu 24
   - android 11
