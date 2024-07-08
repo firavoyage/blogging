@@ -17,7 +17,7 @@
   - burgerking
   - steamed bun and mineral water
   - special spicy pork noodles
-  - hard-boiled eggs simmered with tea
+  - hard-boiled eggs simmered by tea
 -
   - uniqlo & muji shirts with buttons
   - life-size waifus
@@ -29,33 +29,23 @@
   - joseph haydn
   - scorpions
   - micheal jackson
+  - hatsune miku
 -
   - wind of change
   - scarborough fair
   - the sound of silence
--
-  - title theme
-  - ymca
-  - caresse sur l'océan
   - da capo
-  - always in my heart
   - one last kiss
-  - benevolence bequeathed
+  - title theme
   - -記憶-
   - 比翼の羽根
   - ツナグキズナ
-  - フタリ (春日野穹ver)
   - 米店
   - 海阔天空
-  - 光辉岁月
   - 富士山下
   - 浮夸
-  - 匆匆那年
-  - 五十年以后
-  - 청춘(응답하라1988 1화)
-  - 勇者
-  - ルマruma
-  - 千本樱
+  - 青春(응답하라1988)
+  - 勇者(葬送のフリーレン)
 -
   - tom and jerry
   - in solitude where we are least alone
@@ -86,11 +76,11 @@
   - swedish cook
   - longbow flintlock
 -
-  - forever naive(maiden) taffy
-  - orient(japanese) snowy lotus
+  - forever naive taffy
+  - orient snowy lotus
   - nova lciop
   - mohamad light
-  - natural brawl master(stars)
+  - natural brawl master
   - idle free man
   - tail tail here
   - chenzihao
@@ -149,14 +139,18 @@
   - _风流去
   - _百年孤独
   - _月亮和六便士
-  - _可能性的艺术:比较政治学30讲
-  - _一句顶一万句
   - _傲慢与偏见
   - _悲惨世界
   - _罗生门
   - _理想国
   - _复活
   - _黄金年代
+-
+  - ubuntu 24
+  - android 11
+  - chromium 124
+  - code 1.89
+  - git 2.43
 - 
   - chill round gothic
   - dejavu sans
@@ -172,12 +166,6 @@
   - source han serif cn
   - ubuntu
   - zhi mang xing
-- 
-  - ubuntu 24
-  - android 11
-  - chromium 124
-  - code 1.89
-  - git 2.43
 - 
   - antennapod
   - bilimiao
@@ -205,14 +193,43 @@
   - design.google
   - google material design
   - ubuntu yaru
+  - smartisan os
   - dracula official
   - monokai pro
   - one dark pro
-- 
-  - lenovo yoga 13s 2021
-  - smartisan revolution ii
 
 ## quotes
+- as human beings it is our right (maybe our moral duty) to reshape the universe to our preferences
+  - technology, which is really knowledge, enables this
+  - you should probably work on raising the ceiling, not the floor
+- enthusiasm matters
+  - it's much easier to work on things that are exciting to you
+  - it might be easier to do big things than small things because of this reason
+- it's important to do things fast
+  - you learn more per unit time because you make contact with reality more frequently
+  - going fast makes you focus on what's important; there's no time for bullshit
+- the efficient market hypothesis is a lie
+  - in many cases it's more accurate to model the world as 500 people than 8 billion
+  - most people are other people
+- where do you get your dopamine?
+  - the answer is predictive of your behavior
+  - better to get your dopamine from improving your ideas than from having them validated
+  - it's ok to get yours from "making things happen"
+- reading is active while watching tv is passive
+  - all the research says reading a book is good for you.
+  - it reduces stress,promotes comprehension,relieves depression,helps you sleep and may contribute to preventing alzheimer's.
+  - the act of physically turning a page creates a momentary pause for understanding to sink in.
+  - our brains have to work to translate the black squiggles on the page into words and then interpret the meaning and intent of those words.
+  - when a character is described as tall with brown hair,a reader creates her own picture.
+  - tv takes all that good imagination away.
+- stay focused, keep shipping. 
+  - build early, build always. 
+  - improve yourself, write solid/simple/stupid code. 
+- do have faith in what you are doing
+  - world is powered by solitude
+  - gravitated and spellbound
+  - beautifully advance
+- live in the future and build what's missing
 - 遂迷不复得路
 - 念念不忘必有回想
 - 命里有时终须有命里无时莫强求
@@ -231,46 +248,8 @@
 - 劝君莫惜金缕衣劝君惜取少年时花开堪折直须折莫待无花空折枝
 - 人生得意须尽欢莫使金樽空对月
 - 以有涯随无涯殆已
-- 陈时前说称诗书生骂之曰乃公凭数英而得之安事诗书
 - 以我观物故物皆着我之色彩
-- 拼搏是兴奋剂时间是止痛药
-- stay focused, keep shipping. build early, build always. improve yourself, write solid/simple/stupid code. 
-live in the future and build what's missing
-- do have faith in what you are doing
-gravitated and spellbound
-beautifully advance
-- life is a long-plank game
-character is destiny
-- as human beings it is our right (maybe our moral duty) to reshape the universe to our preferences
-technology, which is really knowledge, enables this
-you should probably work on raising the ceiling, not the floor
-- enthusiasm matters
-it's much easier to work on things that are exciting to you
-it might be easier to do big things than small things because of this reason
-- it's important to do things fast
-you learn more per unit time because you make contact with reality more frequently
-going fast makes you focus on what's important; there's no time for bullshit
-- the efficient market hypothesis is a lie
-in many cases it's more accurate to model the world as 500 people than 8 billion
-most people are other people
-- where do you get your dopamine?
-the answer is predictive of your behavior
-better to get your dopamine from improving your ideas than from having them validated
-it's ok to get yours from "making things happen"
-- ruanyf "road ahead > decade"
-dont suppose things going naturally or imagine others making them happen.
-even if you are the tiniest person or an amateur,it does make a difference as long as you try.
-- paulg "h&p"
-currently,we believe having a job is normal,but actually it's an unreliable illusion through the history.
-in the so-called industrial countries nowadays,most people lived on farming just two or three generations ago.
-if many people change their way of living in the future,it may be surprising,but if not,it may be even more surprising. 
-- reading is active while watching tv is passive
-all the research says reading a book is good for you.
-it reduces stress,promotes comprehension,relieves depression,helps you sleep and may contribute to preventing alzheimer's.
-the act of physically turning a page creates a momentary pause for understanding to sink in.
-our brains have to work to translate the black squiggles on the page into words and then interpret the meaning and intent of those words.
-when a character is described as tall with brown hair,a reader creates her own picture.
-tv takes all that good imagination away.
+- 人生是长板游戏
 
 ## character
 - reminiscent youth // good old days...
@@ -283,7 +262,6 @@ tv takes all that good imagination away.
 - people
   - livid
   - ruanyf
-  - ruanyfarchive
   - nat
   - yinming
   - mistral

@@ -9,9 +9,9 @@
 - eat (bilimiao)
 > summer vacation day
 - read "math challenger" & design "pure math"
-- read "javascript tut" "js20" "js50" & design firascript 
+- read "javascript tut" "js20" "js50" & design firascript (-> fs0.6)
 - watch "new national debation" & summarize (-> rat race)
-- read ruanyf weekly archive & save ideas(-> projects) and quotes(-> ruanyfarchive)
+- read ruanyf weekly archive & save ideas(-> projects) and quotes(-> ruanyf)
 > summer vacation night
 - read visual novels (rpgs)
 - watch bangumis ("yosuga no sora" "mygo" "frieren")

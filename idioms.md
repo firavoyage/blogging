@@ -72,7 +72,41 @@ dajing vocational high school
 (战术摇头)
 哇!她的翅膀好翘啊!她的帽子好大啊!
 
+do have faith in what you are doing
+world is powered by solitude
+gravitated and spellbound
+beautifully advance
 
+character is destiny
+
+ok.i'm waiting for the punchline.
+there's no punchline.it's not a joke.
+
+dont suppose things going naturally or imagine others making them happen.
+even if you are the tiniest person or an amateur,it does make a difference as long as you try.
+(ruanyf "road ahead > decade")
+
+currently,we believe having a job is normal,but actually it's an unreliable illusion through the history.
+in the so-called industrial countries nowadays,most people lived on farming just two or three generations ago.
+if many people change their way of living in the future,it may be surprising,but if not,it may be even more surprising. 
+(paulg "h&p")
+
+陈时前说称 诗 书
+生骂之曰
+乃公凭数英而得之
+安事诗书
+(境高书生列传)
+
+拼搏是兴奋剂时间是止痛药
+(wangzhaohai)
+
+这不是很简单吗...
+(jiangzhijun)
+
+反正就...
+(tail tail here)
+
+There are three words in the English language that end in -gry. One is hungry and another is angry. What is the third word? Everyone uses this word every day; everyone knows what it means and what it stands for. If you've listened closely, I've already told you what the word is.
 
 
 

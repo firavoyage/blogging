@@ -1623,11 +1623,45 @@ mihoyo的标语以"tech,otakus"为首
 玩大厂游戏时候
 常常想,要是能和策划聊天就好了...
 
-## waifu
+## life size waifu
 
 buying life size pillows
 holding my waifu
 just like holding that boy aged 16 
+
+## nodejs auto update
+
+我的app使用nodejs进行应用内更新
+
+```
+- node
+  - launch.js
+  - update.js
+- app
+  - chromium
+  - files
+  - app_1.0.js
+  - app_1.1.js
+  - version.txt
+```
+
+应用打开,调用launch.js,用来启动各种资源
+
+
+```
+//update.js
+
+const version ["github raw url","github raw mirror1 url","github raw mirror2 url","other mirrors"]
+const source ["github raw url","github raw mirror1 url","github raw mirror2 url","other mirrors"]
+```
+
+先检查version,如果有新版本
+使用source下载
+
+下载完成,添加到version.txt第一行.
+
+下次打开,删除过时的文件,如`app_1.0.js` `files/outdated.jpg`
+
 
 
 
