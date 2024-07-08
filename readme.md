@@ -305,38 +305,33 @@
 - personal site
   - _wip
 
-## mission
-- make tools elegant
-
 ## wish
-- school life
-shanghai dajing vocational high school 2026 graduate
-have got #1 #2 #3 in my grade (-> djhs_grades.md)
-dont study overtime :d
+- mission
+  - make tools elegant
 - work
-knowledge organized with structure and elegance
-free and premium courses made with love
+  - knowledge organized with structure and simplicity (-> `/pure` | `/intuitive`)
+  - free and premium courses made with love
+- school life
+  - shanghai dajing vocational high school 2026 graduate
+  - have got #1 #2 #3 in my grade (-> `djhs_grades.md`)
+  - dont study overtime qwq
 - prospect
-do what `adobe` and `coursera` have done with details improved
-become a success story on producthunt and retire early (upstart belike)
+  - work on things `adobe` and `coursera` have done with features improved
 - rest
-contribute to the liberty of the world
-explore the simplicity of development
+  - contribute to the liberty of the world
+  - explore the simplicity of programming
+
+## status
+- when i'm not working
+- i'm eating my feed list
+- or enjoying acg
+- or learning
 
 ## alias
 - `fira`
 - `忘我思考`
 - `言序&映画`
 - `苇名一心`
-
-## status
-when i'm not working
-i'm eating my feed list
-or enjoying acg
-or learning
-
-> -> books_douban_top250
-> -> movies_douban_top250
 
 > 🌕 💤 23:00
 
