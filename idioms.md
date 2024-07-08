@@ -1,10 +1,10 @@
-## nsfw idioms
+# nsfw idioms
 
 > bored of `lorem ipsum`?
 > lets get nsfwify
 
-凡一代有一代之文学：楚之骚，汉之赋，六代之骈语，唐之诗，宋之词，元之曲，皆所谓一代之文学，而后世莫能继焉者也。
-(王国维 "人间词话")
+> 凡一代有一代之文学：楚之骚，汉之赋，六代之骈语，唐之诗，宋之词，元之曲，皆所谓一代之文学，而后世莫能继焉者也。
+> (王国维 "人间词话")
 
 "..."("房思琪的初恋乐园")
 "..."("活着")
@@ -33,12 +33,6 @@ solitary clouds shadow in the setting sun stirs the drifter's heart
 parsley sage rosemary and thyme
 i wandered lonely as a cloud
 
-如果你感觉欢愉,不妨竖起大拇指,并订阅将来的更新
-feel free to thumb up and subscribe if you love this
-
-👍🏿4%,👴🏿💵,🐁🐁🗿
-👍🏿2%,👴🏿💸,🐁🐁💰
-
 有技兄这
 迟b片
 
@@ -61,16 +55,10 @@ loli有三好,身轻体柔易推倒
 
 就像把"我的梦想"填到了"我的志愿"一栏
 
-dajing vocational high school
-后排聊天的,学学人家打游戏的,别影响前排同学睡觉
-
 是刀吗?不是糖!是糖!
 好甜!好甜!好甜...
 
 怒艹大伟哥
-
-(战术摇头)
-哇!她的翅膀好翘啊!她的帽子好大啊!
 
 do have faith in what you are doing
 world is powered by solitude
@@ -97,6 +85,22 @@ if many people change their way of living in the future,it may be surprising,but
 安事诗书
 (境高书生列传)
 
+## english brain work
+
+There are three words in the English language that end in -gry. One is hungry and another is angry. What is the third word? Everyone uses this word every day; everyone knows what it means and what it stands for. If you've listened closely, I've already told you what the word is.
+
+## pure math
+
+👍🏿4%,👴🏿💵,🐁🐁🗿
+👍🏿2%,👴🏿💸,🐁🐁💰
+
+怎么算出来是个负的呢
+考试时候
+遇到不会的题目
+一定要跳过
+所以下一题
+(做完下一题,回头改几个字)
+
 拼搏是兴奋剂时间是止痛药
 (wangzhaohai)
 
@@ -106,7 +110,18 @@ if many people change their way of living in the future,it may be surprising,but
 反正就...
 (tail tail here)
 
-There are three words in the English language that end in -gry. One is hungry and another is angry. What is the third word? Everyone uses this word every day; everyone knows what it means and what it stands for. If you've listened closely, I've already told you what the word is.
+能在诸多诱惑之下点进去学习数学的人
+没有什么困难是不能克服的
+("pornhub > math advanced")
+
+(战术摇头)
+哇!她的翅膀好翘啊!她的帽子好大啊!
+
+如果你感觉欢愉,不妨竖起大拇指,并订阅将来的更新
+feel free to thumb up and subscribe if you love this
+
+dajing vocational high school
+后排聊天的,学学人家打游戏的,别影响前排同学睡觉
 
 
 

@@ -66,6 +66,11 @@ use symbols(colors,clothes) to infer anime waifus
   - ton
 magic of tonning
 
+- `workshop` origin of posters and memes
+> choose template,add design elements,export
+- used by influencers
+chinadaily
+
 - `gen` image generator gone crazy without neutral network
 > libraries and highly abstracted scripts
   - sources
@@ -182,7 +187,7 @@ track the goods
 
 - `debation` new national debation summaries
 > structured views instead of unordered words
-> -> git/blogging/debation
+> -> /debation
   - opinions abstracted
 positive
 negative
@@ -222,6 +227,7 @@ wow,holyshit.
 
 - `pure` my desired math courses
 > pure math in vocational high school
+> -> /pure
   - expressions simplified
 "在三角形ABC中," -> "\tri ABC,"
 "A与B的距离" -> "AB" | "|\vector(a b)|"
@@ -231,32 +237,39 @@ wow,holyshit.
 "a,b,c" -> "\tri ABC 内角A,B,C对边"
 "i" -> "imaginary unit"
   - solution abstracted 
+("去繁章琐算,布简理明道")
 only a few essentail steps
 skip calculations
-  - use analogies
-grade school problem:find the regularity
   - based on public resources
-("因先人之迹,行映画之术,布简明之道")
+("因先人之迹,行映画之术")
 math tut (shanghai highschool math textbooks)
 math leader (daoxuexianfeng)
 math helper (fudaoyutigao)
 math challenger (huashidaqiangji)
   - use internet quotes and ancient vernacular 
-("罢免今世文俗,善取网言网语,求索古时白话")
+("罢拙今世文俗,善取网言网语,求索古时白话")
 nsfw idioms (-> idioms.md)
 game meme (moegirlpedia idioms list -> https://moegirl.icu/Category:%E6%A2%97%E5%88%97%E8%A1%A8)
-reality satire (uee zero score writings -> https://www.gaokao.com/gkzw/gklfzw/)
+taiwan locomotive dialect
 japanese hanji
-taiwan loco dialect
 omit the subject word (especially human)
 leave attributes and adverbials behind (like english)
 paired phrases (especially compound words,vvnn -> verb noun verb noun)
+  - invite waifus
+("流水的老婆,铁打的刻晴")
+inspired by zhangxu math advanced at pornhub,taiwan
+use mihoyo life size pillows as blackboard erasers
+use ba life size pillows as students
   - high level music
+("如闻仙乐耳暂明")
 bach classics and english golden ballads
+vocaloid songs
   - use abstracted internet meme
+("虚实结合,以虚写实")
 ref "r/abstractart"
 internet meme as flowing gradients
   - dailyab
+("习题三面,日课两道")
 on an a4 page
 everyday 2 problems
   - first class
