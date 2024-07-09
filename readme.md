@@ -107,17 +107,14 @@
   - _needy streamer overload
   - _senrenbanka
 -
-  - the bible
+  - 前方的路
+  - 黑客与画家
   - 观念的水位
   - 刘擎西方现代思想讲义
   - 给青年人的十二封信
-  - 前方的路
-  - 黑客与画家
-  - 给大壮的信
   - 目送
-  - 活着
-  - 房思琪的初恋乐园
   - 草房子
+  - 房思琪的初恋乐园
   - refactoring ui
   - .人生哲思录
   - _海子的诗
@@ -131,6 +128,7 @@
   - _道德经
   - _傲慢与偏见
   - _罗生门
+  - _给大壮的信
   - _黄金年代
   - _百年孤独
   - _复活
@@ -219,6 +217,7 @@
   - gravitated and spellbound
   - beautifully advance
 - live in the future and build what's missing
+- life is a long-plank game
 - 遂迷不复得路
 - 念念不忘必有回想
 - 命里有时终须有命里无时莫强求
@@ -235,10 +234,11 @@
 - 为者败之执者失之慎终如始则无败事
 - 天地者万物之逆旅也光阴者百代之过客也
 - 劝君莫惜金缕衣劝君惜取少年时花开堪折直须折莫待无花空折枝
-- 人生得意须尽欢莫使金樽空对月
-- 以有涯随无涯殆已
 - 以我观物故物皆着我之色彩
-- 人生是长板游戏
+- 以有涯随无涯殆已
+- 人生得意须尽欢莫使金樽空对月
+- 宁为玉碎不为瓦全
+- 壮士断腕义无再辱
 
 ## character
 - reminiscent youth // good old days...

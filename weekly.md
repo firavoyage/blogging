@@ -8,9 +8,9 @@
 - visit digital homes (al ba hi sr)
 - eat (bilimiao)
 > summer vacation day
-- read "math challenger" & design "pure math"
+- read "math challenger" & design "pure math" (-> /pure)
 - read "javascript tut" "js20" "js50" & design firascript (-> fs0.6)
-- watch "new national debation" & summarize (-> rat race)
+- watch "new national debation" & summarize (-> /debation/rat race)
 - read ruanyf weekly archive & save ideas(-> projects) and quotes(-> ruanyf)
 > summer vacation night
 - read visual novels (rpgs)

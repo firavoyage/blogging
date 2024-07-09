@@ -226,20 +226,22 @@ wow,holyshit.
   - criticism to the reality
 
 - `pure` my desired math courses
-> pure math in vocational high school
+> pure math in vocational high school "几何是兴奋剂,代数是止痛药" "洞察天地之数的冷静与理性:惊人的注意力"
 > -> /pure
-  - expressions simplified
-"在三角形ABC中," -> "\tri ABC,"
-"A与B的距离" -> "AB" | "|\vector(a b)|"
-"求x使得y=1" -> "y=1,求x"
-"\because \so" -> , ."
-  - definitions preposed
-"a,b,c" -> "\tri ABC 内角A,B,C对边"
-"i" -> "imaginary unit"
   - solution abstracted 
 ("去繁章琐算,布简理明道")
 only a few essentail steps
 skip calculations
+  - definitions preposed
+("立重定叠义于先")
+"a,b,c" -> "\tri ABC 内角A,B,C对边"
+"i" -> "imaginary unit"
+  - problem expressions simplified
+("题之述致清致纯")
+"在三角形ABC中," -> "\tri ABC,"
+"A与B的距离" -> "AB" | "|\vector(a b)|"
+"求x使得y=1" -> "y=1,求x"
+"\because \so" -> , ."
   - based on public resources
 ("因先人之迹,行映画之术")
 math tut (shanghai highschool math textbooks)
@@ -248,34 +250,32 @@ math helper (fudaoyutigao)
 math challenger (huashidaqiangji)
   - use internet quotes and ancient vernacular 
 ("罢拙今世文俗,善取网言网语,求索古时白话")
-nsfw idioms (-> idioms.md)
-game meme (moegirlpedia idioms list -> https://moegirl.icu/Category:%E6%A2%97%E5%88%97%E8%A1%A8)
-taiwan locomotive dialect
-japanese hanji
-omit the subject word (especially human)
-leave attributes and adverbials behind (like english)
-paired phrases (especially compound words,vvnn -> verb noun verb noun)
-  - invite waifus
-("流水的老婆,铁打的刻晴")
-inspired by zhangxu math advanced at pornhub,taiwan
-use mihoyo life size pillows as blackboard erasers
-use ba life size pillows as students
-  - high level music
+nsfw idioms (-> idioms)
+abstracted internet meme (moegirlpedia -> https://moegirl.icu/Category:%E6%A2%97%E5%88%97%E8%A1%A8)
+taiwan locomotive dialect (zhangxu)
+japanese hanji (haiku)
+omit the subject word (human)
+leave attributes and adverbials behind
+paired phrases (compound words:verb2noun2 -> vnvn)
+  - unworldly music
 ("如闻仙乐耳暂明")
 bach classics and english golden ballads
 vocaloid songs
-  - use abstracted internet meme
-("虚实结合,以虚写实")
-ref "r/abstractart"
-internet meme as flowing gradients
+  - invite waifus
+("流水的老婆,铁打的刻晴")
+inspired by zhangxu math advanced
+use mihoyo life size pillows as blackboard erasers
+use blue archive life size pillows as students
   - dailyab
 ("习题三面,日课两道")
 on an a4 page
 everyday 2 problems
   - first class
-hs math framework in 40min
+("神与韵")
+cheetsheet for each unit including its usage and its magic
+some useful tricks (calc,attention,sub var,image)
 a few blank-filling problems on an a4 page (iq test)
-  - knowledge structured
+  - distractions free
 powered by pre and mind
   - various themes
 powered by voyage

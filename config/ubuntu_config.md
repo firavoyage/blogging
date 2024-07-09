@@ -391,12 +391,9 @@ passwd `firafira`
 - config `proxy only gfwlist` or `proxy except cn sites` 
 - config nodes
 ```
-/*
-replace `githubusercontent` with a mirror if needed...
-and just import it ❤
-*/
+// replace `githubusercontent` with a mirror if needed
 
-//repos
+// repos
 https://github.com/aiboboxx/v2rayfree
 https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
 
@@ -409,10 +406,10 @@ https://raw.githubusercontent.com/pawdroid/free-servers/main/sub
 https://github.com/mksshare/mksshare.github.io
 https://raw.githubusercontent.com/mksshare/mksshare.github.io/main/README.md
 
-//mirrors
+// mirrors
 githubraw.com
-mirror.ghproxy.com
 raw.staticdn.net
+mirror.ghproxy.com
 raw.gitmirror.com
 raw.kkgithub.com
 raw.fastgit.org

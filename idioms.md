@@ -63,6 +63,35 @@ There are three words in the English language that end in -gry. One is hungry an
 
 少爷(黄执中)厉害啊...
 
+## meme
+
+人之...者有三,...,汝非其一
+
+ok.i'm waiting for the punchline.
+there's no punchline.it's not a joke.
+
+如果祂涉世未深,就带她见世间繁华.
+如果祂历尽沧桑,就带她骑旋转木马.
+
+你们都是我的翅膀啊
+
+有技兄这
+迟b片
+
+loli有三好,身轻体柔易推倒
+
+是刀吗?不是糖!是糖!
+好甜!好甜!好甜...
+
+怒艹大伟哥
+
+世界上没有什么事儿是一发8088不能解决的
+如果有,那就两发
+(亚洲骗氪天王,尼古拉斯.大伟哥)
+
+真诚是必杀技...
+哪有人开局用必杀技啊
+
 ## pure math
 
 👍🏿4%,👴🏿💵,🐁🐁🗿
@@ -75,7 +104,7 @@ There are three words in the English language that end in -gry. One is hungry an
 所以下一题
 (做完下一题,回头改几个字)
 
-拼搏是兴奋剂时间是止痛药
+拼搏是兴奋剂,时间是止痛药
 (wangzhaohai)
 
 这不是很简单吗...
@@ -99,31 +128,9 @@ dajing vocational high school
 
 知识,要用苦痛来换取.
 
-## meme
+什么狂妄之人啊,会想到要亲自编写教材...
 
-人之...者有三,...,汝非其一
-
-ok.i'm waiting for the punchline.
-there's no punchline.it's not a joke.
-
-如果祂涉世未深,就带她见世间繁华.
-如果祂历尽沧桑,就带她骑旋转木马.
-
-你们都是我的翅膀啊
-
-有技兄这
-迟b片
-
-loli有三好,身轻体柔易推倒
-
-是刀吗?不是糖!是糖!
-好甜!好甜!好甜...
-
-怒艹大伟哥
-
-没有什么是一发...(8088)不能解决的
-如果有,那就两发
-(亚洲骗氪天王,尼古拉斯.大伟哥)
+好书不会畅销，但会重印。
 
 
 
