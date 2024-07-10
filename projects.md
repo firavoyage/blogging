@@ -196,7 +196,7 @@ contrast
 straw man
   - based on markdown
 
-- `noskill` any writing -> pure templates
+- `noskill` any writing style -> templates
 > writing noskill
   - goblin mode
 pursue high score,failed and failed...gave up at the end of the day.
@@ -252,8 +252,8 @@ math challenger (huashidaqiangji)
 ("罢拙今世文俗,善取网言网语,求索古时白话")
 nsfw idioms (-> idioms)
 abstracted internet meme (moegirlpedia -> https://moegirl.icu/Category:%E6%A2%97%E5%88%97%E8%A1%A8)
-taiwan locomotive dialect (zhangxu)
-japanese hanji (haiku)
+maybe,taiwan locomotive dialect (zhangxu)
+maybe,japanese hanji (haiku)
 omit the subject word (human)
 leave attributes and adverbials behind
 paired phrases (compound words:verb2noun2 -> vnvn)
@@ -270,11 +270,11 @@ use blue archive life size pillows as students
 ("习题三面,日课两道")
 on an a4 page
 everyday 2 problems
-  - first class
-("神与韵")
+  - hs40min
+("肆拾分钟讲完高中数学")
 cheetsheet for each unit including its usage and its magic
 some useful tricks (calc,attention,sub var,image)
-a few blank-filling problems on an a4 page (iq test)
+a few blank-filling problems on an a4 page (iq test maybe)
   - distractions free
 powered by pre and mind
   - various themes
@@ -378,7 +378,7 @@ powered by voyage
 
 - `firascript` simplicity of javascript
 > another javascript dialect
-> -> fs0.6.md
+> -> /firascript
   - inspired by 
 javascript:the good parts
 arc language

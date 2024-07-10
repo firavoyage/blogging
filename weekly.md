@@ -5,17 +5,17 @@
 ## 20240707
 
 > summer vacation daily
-- visit digital homes (al ba hi sr)
+- visit digital homes (al ba hi hg sr zzz)
 - eat (bilimiao)
 > summer vacation day
 - read "math challenger" & design "pure math" (-> /pure)
-- read "javascript tut" "js20" "js50" & design firascript (-> fs0.6)
+- read "javascript tut" "js20" "js50" & design firascript (-> /firascript)
 - watch "new national debation" & summarize (-> /debation/rat race)
 - read ruanyf weekly archive & save ideas(-> projects) and quotes(-> ruanyf)
 > summer vacation night
 - read visual novels (rpgs)
-- watch bangumis ("yosuga no sora" "mygo" "frieren")
-- watch simplelive
+- watch bangumis (-> /../../videos/yosuga no sora)
+- watch simplelive (bs cr)
 > school life
 - watch "air courses" & take notes
 - read books "人生哲思录"

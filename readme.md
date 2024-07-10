@@ -264,14 +264,15 @@
   - timeln
   - djhs grades
 - pref
+  - ubuntu config
   - chromium bookmarks
   - list adguard
   - list simplelive
-  - ubuntu config
 
 ## repos here
 - `git/blogging` notes and inspirations 
-- `git/blogging/config` preferences and guides
+- `git/blogging/pref` configurations and preferences
+- `git/blogging/shortcut` terminal commands
 - `git/blogging/debation` debation summaries
 - `git/web/blogs` internet pages capsuled
 - `git/memories` life
