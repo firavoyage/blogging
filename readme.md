@@ -263,7 +263,7 @@
   - weekly
   - timeln
   - djhs grades
-- pref
+- config
   - ubuntu config
   - chromium bookmarks
   - list adguard
@@ -271,7 +271,7 @@
 
 ## repos here
 - `git/blogging` notes and inspirations 
-- `git/blogging/pref` configurations and preferences
+- `git/blogging/config` app preferences
 - `git/blogging/shortcut` terminal commands
 - `git/blogging/debation` debation summaries
 - `git/web/blogs` internet pages capsuled

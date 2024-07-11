@@ -32,6 +32,8 @@ no eye-catching effects
   - markdown extended
 various content blocks
 markdown is not a vehicle of rich text 
+use json to store texts images positions and styles
+markdown auto-compiled to json
   - structure view
 cover for header 1
 toc pages for header 2 with the current one highlighted
@@ -68,8 +70,17 @@ magic of tonning
 
 - `workshop` origin of posters and memes
 > choose template,add design elements,export
-- used by influencers
+  - used by influencers
 chinadaily
+
+- `crickets` human-like viewer
+> auto comment bot "促织"
+  - by time
+more than 30days -> "爷关更"
+  - by tag
+"枫原万叶" -> "心至空处,天地万物..."
+  - by publisher
+"mihoyo artists" -> "申鹤重云了"
 
 - `gen` image generator gone crazy without neutral network
 > libraries and highly abstracted scripts

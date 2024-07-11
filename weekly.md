@@ -9,7 +9,8 @@
 - eat (bilimiao)
 > summer vacation day
 - read "math challenger" & design "pure math" (-> /pure)
-- read "javascript tut" "js20" "js50" & design firascript (-> /firascript)
+- read "javascript tut" "js20" "js50" & summarize (-> /intuitive)
+- design firascript (-> /firascript)
 - watch "new national debation" & summarize (-> /debation/rat race)
 - read ruanyf weekly archive & save ideas(-> projects) and quotes(-> ruanyf)
 > summer vacation night

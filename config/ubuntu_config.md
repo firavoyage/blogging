@@ -166,7 +166,7 @@ disable all
 ```
 fcitx5
 code
-endeavour //replaced with code where i list weekly plan
+endeavour //removed
 ```
 
 # files
@@ -206,11 +206,13 @@ right click the title bar
   - adguard `https://chromewebstore.google.com/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg`
     - filters `ad blocking` `privacy` `annoyance` `...`
     - import settings `git/blogging/config/list_adguard.json`
+    - allow in incognito
   - google translate `https://chromewebstore.google.com/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb`
     - my primary language `chinese(simplified)`
     - pop-up translations `immediately popup`
   - tampermonkey `https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo`
     - zhihu enhancement `https://greasyfork.org/en/scripts/419081`
+    - allow in incognito
   - bewlybewly `https://chromewebstore.google.com/detail/bewlybewly/bbbiejemhfihiooipfcjmjmbfdmobobp`
   - justblack `https://chromewebstore.google.com/detail/just-black/aghfnjkcakhmadgdomlmlhhaocbkloab`
 - config fonts
@@ -273,24 +275,32 @@ at view>appearance
 > -> git/blogging/config/cpp.code-snippets
 - config shortcuts
 ```
+// config these with "ctrl k ctrl s"
+duplicate selection `ctrl d`
+insert line below `shift enter`
+
+run code `ctrl r`
+stop running `ctrl e`
+
+// shortcuts below are built-in
 do anything `ctrl shift p`
 
+open nav bar `alt`
 open side bar `ctrl b`
 open explorer `ctrl shift e`
 open extensions `ctrl shift x`
 
 new file `ctrl n`
 close file `ctrl w`
-(*) rename file `alt enter`
-(*) open containing folder `ctrl shift o`
 
-run code `ctrl r`
-stop running `ctrl e`
+skip words `ctrl leftarrow|rightarrow`
+scroll page `ctrl uparrow|downarrow`
+select letters `shift leftarrow|rightarrow`
+select words `ctrl shift leftarrow|rightarrow`
+select blocks `shift alt leftarrow|rightarrow`
+duplicate cursor `ctrl shift uparrow|downarrow` | `shift alt uparrow|downarrow` | `alt click` 
+move current line `alt uparrow|downarrow`
 
-(*) duplicate selection `ctrl d`
-(*) insert line below `shift enter`
-
-transform cursor `ctrl|shift|alt arrowkeys`
 reset cursor `esc`
 ```
 

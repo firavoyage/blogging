@@ -32,10 +32,16 @@ everyday 2 problems on an a4 page
 hs40min...
 cheetsheet for each unit including its usage and its magic
 
+## commercialize
 
+- popularity
+invite a mihoyo waifu as clikcbait
+select a competitive math problem as content
+also make structured courses after become known
 
-
-
+- revenue
+put ads promoting school organizations
+make paid courses
 
 
 
