@@ -72,8 +72,11 @@
   - mihoyo wei bro
   - my sis is just that cute 
   - old bai sleepwalked
+  - kumimi addict
   - longbow flintlock
   - black man cupid
+  - hongkong doll
+  - changhsu math
   - keqing
   - fuxuan
 -

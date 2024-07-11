@@ -43,6 +43,10 @@ also make structured courses after become known
 put ads promoting school organizations
 make paid courses
 
+## purpose
+
+- be a math challenger
+- find my desired high school math course
 
 
 
