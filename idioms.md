@@ -61,8 +61,6 @@ There are three words in the English language that end in -gry. One is hungry an
 
 少爷(黄执中)厉害啊...
 
-## meme
-
 人之...者有三,...,汝非其一
 
 ok.i'm waiting for the punchline.
@@ -101,8 +99,6 @@ loli有三好,身轻体柔易推倒
 生在这个时代,得珍惜啊
 像虚拟世界的恋爱,几千年的先验了
 只有现实世界,才能使我感到些新意
-
-## pure math
 
 👍🏿4%,👴🏿💵,🐁🐁🗿
 👍🏿2%,👴🏿💸,🐁🐁💰
@@ -150,9 +146,12 @@ so much for this have a nice day.
 
 good luck and have fun.
 
+荒野乱斗?
+感觉像个小孩玩的游戏
+是啊!
+小孩是贬义词.不过,小孩的反义词,才文学作品里,也是贬义词.
 
-
-
+想通过印刷钞票来消灭贫穷，就像是通过颁发毕业证书来消除文盲。
 
 
 

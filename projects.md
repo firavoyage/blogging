@@ -313,6 +313,106 @@ sync with git or drives...
   - human-like pronounciation 
 powered by gptsovits
 
+## dev
+
+- `intuitive` showcase the power of web
+> script sparks
+  - frontend tech(which is really knowledge) structured
+html tags and attributes
+css selector and attributes
+js grammar and built-in methods
+threejs methods
+  - interesting demos
+and useful progressive web apps
+  - intuitive game engine
+ref "no bullshit games","poki","scratch"
+examples:
+fly me 2 the moon:the origin of mihoyo,endless levels
+genshin dungeon:soul knight but gi monsters
+unique card gambers:know the enemy and know yourself
+platfighter:pass or death
+cr local:ideas ignored by supercell,human-like opponents
+  - use standard format
+based on firascript (compiled to html)
+edit with any ide and launch in browsers
+  - various themes
+powered by voyage
+
+- `firascript` simplicity of javascript
+> another javascript dialect
+> -> /firascript
+  - inspired by 
+javascript:the good parts
+arc language
+js20
+js30
+js50
+  - fson
+firascript object notation
+  - wip
+
+- `voyage` opensource design platform
+> designs to elegant programs
+  - color themes
+dracula official
+monokai pro
+one dark pro
+  - app component systems
+material
+yaru
+hi
+hg
+gi
+sr
+zzz
+al
+ba
+ark
+r1999
+fgo
+  - blog component systems
+ruanyf blog
+  - components binding
+rethink popular apps:not just css
+digdog
+berryberry
+snapcat
+zoombie
+ganstagram
+pickduckduck
+
+- `voyage.js` build with elegance
+> components and data
+  - methods
+parse(fson)
+bind(el)
+get(prop)
+set(prop)
+  - implementation
+components: bind data
+structure: pass data
+
+## channel
+
+project - channel
+mission(reply the world)
+prospect(reply the myself)
+
+- `fira` my thoughts and discoveries
+> fira official "Fira | 言序"
+  - pure math tut
+become a math challenge
+  - pure math dailyab
+  - intuitive web dev tut
+  - intuitive web dev ideas
+  - app recommendation
+  - debation summaries
+  - ruanyf archive visualization
+  - one line tech news 
+  - clash royale replay
+  - brawl stars replay
+  - school life
+
 ## apps
 
 - `fx` arithmatic beautiful
@@ -361,82 +461,4 @@ powered by gptsovits
   - ruanyf
   - yc news
   - flower tech news tg channel
-
-## dev
-
-- `intuitive` showcase the power of web
-> script sparks
-  - frontend tech(which is really knowledge) structured
-html tags and attributes
-css selector and attributes
-js grammar and built-in methods
-threejs methods
-  - interesting demos
-and useful progressive web apps
-  - intuitive game engine
-ref "no bullshit games","poki","scratch"
-examples:
-fly me 2 the moon:the origin of mihoyo,endless levels
-genshin dungeon:soul knight but gi monsters
-unique card gambers:know the enemy and know yourself
-platfighter:pass or death
-cr local:ideas ignored by supercell,human-like opponents
-  - use standard format
-based on firascript (compiled to html)
-edit with any ide and launch in browsers
-  - various themes
-powered by voyage
-
-- `firascript` simplicity of javascript
-> another javascript dialect
-> -> /firascript
-  - inspired by 
-javascript:the good parts
-arc language
-js20
-js30
-js50
-  - fson
-firascript object notation
-  - wip
-
-- `voyage` opensource design platform
-> designs to elegant programs
-  - color themes
-dracula official
-monokai pro
-one dark pro
-  - component systems
-material
-yaru
-hi
-hg
-gi
-sr
-zzz
-al
-ba
-ark
-r1999
-fgo
-  - components binding
-rethink popular apps:not just css
-digdog
-berryberry
-snapcat
-zoombie
-ganstagram
-pickduckduck
-
-- `voyage.js` build with elegance
-> components and data
-  - methods
-parse(fson)
-bind(el)
-get(prop)
-set(prop)
-  - implementation
-components: bind data
-structure: pass data
-
 

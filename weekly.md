@@ -17,8 +17,10 @@
 - watch bangumis (-> /../../videos/yosuga no sora)
 - watch simplelive
 > school life
-- read book "人生哲思录"
+- watch "air course"
+- write math papers (4 subjects)
 - write english papers (cloze reading translation)
+- read book "人生哲思录"
 
 ## 20240707
 
