@@ -394,24 +394,31 @@ structure: pass data
 
 ## channel
 
-project - channel
-mission(reply the world)
-prospect(reply the myself)
-
-- `fira` my thoughts and discoveries
-> fira official "Fira | 言序"
+- `fira` reply the world and myself
+> my thoughts and discoveries "Fira | 言序"
   - pure math tut
-become a math challenge
+become a math challenger
+tell the world how to teach math
   - pure math dailyab
+more popular one
   - intuitive web dev tut
+become a frontend challenger
+tell the world how to teach frontend
   - intuitive web dev ideas
+more popular one
   - app recommendation
+most popular one
+easy to make
   - debation summaries
+become a critical thinker
+tell the world how to summarize views and statements
   - ruanyf archive visualization
-  - one line tech news 
-  - clash royale replay
-  - brawl stars replay
-  - school life
+most popular one
+some inspiring ideas from ruanyifeng's blog
+  - game replay
+archived for myself
+  - school life moments
+archived for myself  
 
 ## apps
 
