@@ -12,12 +12,12 @@ ubuntu config
 
 ## ubuntu desktop
 - config
-  - desktop icons `disabled`
-  - auto hide dock `enabled`
-  - panel mode `disabled`
+  - desktop icons `off`
+  - auto hide dock `on`
+  - panel mode `off`
   - icon size `max`
   - configure dock behavior
-    - show trash `disabled`
+    - show trash `off`
 - config dock pins
   - chromium
   - thunderbird
@@ -26,7 +26,7 @@ ubuntu config
   - endeavour
 - config dock application icon
 > -> extensions > ubuntu dock > more > settings > launchers
-  - show application icon `disabled`
+  - show application icon `off`
 
 ## apps
 > -> default apps
@@ -38,7 +38,7 @@ ubuntu config
 - photos `image viewer`
 
 ## displays
-- desktop icons `disabled` 
+- desktop icons `off` 
 ```
 sudo apt install gnome-shell-extension-prefs
 ```
@@ -67,33 +67,32 @@ sudo localectl set-locale lc_time=en_us.utf8
 - remove password
 ```
 sudo visudo `fira all=(all) nopasswd:all`
-
--> admin:///etc/polkit-1/localauthority/50-local.d/nopw.pkla
+```
+> -> admin:///etc/polkit-1/localauthority/50-local.d/nopw.pkla
+```
 [no password prompt]
 identity=unix-group:sudo
 action=*
 resultactive=yes
 ```
-- disable `keyring auth popup`
+- disable `keyring popup`
 > ref `https://linuxconfig.org/how-to-disable-keyring-popup-on-ubuntu`
-```
-open `passwords and keys`
-select `change passwd`
-enter old passwd
-leave it blank & enter
-```
+  - open `passwords and keys`
+  - select `change passwd`
+  - enter old passwd
+  - leave it blank & enter
 
 ## sound
-- system sound `disabled`
+- system sound `off`
 - config
   - alert sound `none`
 
 ## power
-- automatic screen brightness `disabled`
+- automatic screen brightness `off`
 - config `screen blank 5 min`
 - config `automatic suspend`
   - battery power `20min`
-  - plugged in `disabled`
+  - plugged in `off`
 
 ## printer
 - install canon printer driver
@@ -157,9 +156,7 @@ sudo sed --in-place 's/NoDisplay=true/NoDisplay=false/g' /etc/xdg/autostart/upda
 ```
 - disable `auto update`
 > -> softwares & updates > other softwares
-```
-disable all
-```
+  - disable all
 
 # gnome-tweaks
 - config `startup applications`
@@ -195,11 +192,11 @@ chrome://flags/#customize-chrome-side-panel
 chrome://flags/#chrome-refresh-2023
 chrome://flags/#chrome-webui-refresh-2023
 ```
-- disable `use system title bar`
-right click the title bar
+- use system title bar `off`
+> right click the title bar
 - config `new tab page`
 > -> customize chromium
-  - show shortcuts `disabled`
+  - show shortcuts `off`
 - import bookmarks
 > -> git/blogging/config/chromium_bookmarks.html
 - config extensions
@@ -239,13 +236,15 @@ sudo apt-get update
 
 sudo apt-get install code
 ```
-- disable `welcome page` 
-at first launch
-- disable `menu & status & ... bar` `minimap` `toggle bread crumbs` `render control characters`
-at view>appearance
-- enable `sticky scroll`
-at view>appearance
-- config 
+- config appearance
+> -> view > appearance
+  - menu & status & ... bar `off` 
+  - minimap `off`
+  - toggle bread crumbs `off`
+  - render control characters `off`
+  - sticky scroll `on`
+- config behavior
+> -> `ctrl ,`
   - autosave `after delay`
   - font family `"Fira Code", "Noto Sans CJK SC", monospace`
   - font size `16`
@@ -260,11 +259,11 @@ at view>appearance
   - monokai pro
 - install extensions
   - code runner
-    - run in terminal `enabled`
-    - auto focus terminal `enabled`
+    - run in terminal `on`
+    - auto focus terminal `on`
     - fix `cjk filename` issue
+> -> settings.json
 ```
-// -> settings.json
 "code-runner.executormap": {
   // "cpp": "cd $dir && g++ $filename -o $filenamewithoutext && $dir$filenamewithoutext",
   "cpp": "cd $dir && g++ \"$filename\" -o \"$filenamewithoutext\" && \"$dir$filenamewithoutext\"",
@@ -316,62 +315,57 @@ git config --global credential.helper store
 
 # fcitx5
 - install
-> ref https://zhuanlan.zhihu.com/p/508797663
+  - install app
 ```
-// install
-sudo apt install fcitx5 \
-fcitx5-chinese-addons \
-fcitx5-frontend-gtk4 fcitx5-frontend-gtk3 fcitx5-frontend-gtk2 \
-fcitx5-frontend-qt5
-
-// chinese support
-sudo apt install --install-recommends fcitx5 fcitx5-chinese-addons
-
-// install dicts
-// 1
+sudo apt install fcitx5 fcitx5-chinese-addons fcitx5-frontend-gtk4 fcitx5-frontend-gtk3 fcitx5-frontend-gtk2 fcitx5-frontend-qt5
+```
+  - install dict
+```
 wget https://github.com/felixonmars/fcitx5-pinyin-zhwiki/releases/download/0.2.4/zhwiki-20220416.dict
 mkdir -p ~/.local/share/fcitx5/pinyin/dictionaries/
 mv zhwiki-20220416.dict ~/.local/share/fcitx5/pinyin/dictionaries/
-// 2
-// -> https://github.com/wuhgit/CustomPinyinDictionary
+```
+  - install another dict
+> -> https://github.com/wuhgit/CustomPinyinDictionary
+```
 // download CustomPinyinDictionary_Fcitx.dict
 mv CustomPinyinDictionary_Fcitx.dict ~/.local/share/fcitx5/pinyin/dictionaries/
-
-// set fcitx default
+```
+  - set default
+```
 im-config
-
-// environment variables
-// -> admin:///etc/environment
+```
+  - set environment variables
+> -> admin:///etc/environment
+```
 GTK_IM_MODULE=fcitx
 QT_IM_MODULE=fcitx
 XMODIFIERS=@im=fcitx
 SDL_IM_MODULE=fcitx
 GLFW_IM_MODULE=fcitx
-
-// config
+```
+- disable `input method hint`
+```
 fcitx5-configtool
 ```
-- config
-  - hint `disabled`
-```
-// fctix5-configtool
-// -> global options - behavior
-show input method infomation `off`
-```
-  - fuzzy pinyin `enabled`
-  - prediction `disabled`
+> -> global options > behavior
+  - show input method infomation `off` 
+- config pinyin
+> -> input method > pinyin > settings icon
+  - fuzzy pinyin `on`
+  - prediction `off`
   - character&punctuation `half-width`
 - config theme
-> ref
-> https://github.com/tonyfettes/fcitx5-nord
-> https://github.com/thep0y/fcitx5-themes-candlelight
+> -> https://github.com/tonyfettes/fcitx5-nord
+> -> https://github.com/thep0y/fcitx5-themes-candlelight
 ```
 git clone https://github.com/tonyfettes/fcitx5-nord.git
 mkdir -p ~/.local/share/fcitx5/themes/
 cd fcitx5-nord
 cp -r Nord-Dark/ Nord-Light/ ~/.local/share/fcitx5/themes/
-
--> ~/.config/fcitx5/conf/classicui.conf
+```
+> -> ~/.config/fcitx5/conf/classicui.conf
+```
 Theme=Nord-Dark
 Theme=Default //in the end...
 ```
@@ -463,14 +457,9 @@ winecfg
 
 # goldendict
 - install dictionaries
-> -> source `mdict.org`
-> -> mirror `https://t.me/archivefiravoyage`
+> -> Edit > Dictionaries
+> -> mdict.org (mirror https://t.me/archivefiravoyage)
 ```
-// -> Edit > Dictionaries
-
-// how to choose between dictionaries
-https://www.zhihu.com/question/20961302
-
 Longman Dictionary of Contemporary English
 https://mdx.mdict.org/%E5%85%AD%E5%A4%A7%E7%9F%A5%E5%90%8D%E8%AF%8D%E5%85%B8/%E6%9C%97%E6%96%87_Longman/STFU%20LongmanBundle-%E7%BB%AE%E5%8F%A5%E6%85%A8%E9%90%97-By%20Amazon%2020160928/Longman%20Dictionary%20Of%20Contemporary%20English%206th%20EnEn/LongmanDictionaryOfContemporaryEnglish6thEnEn.mdd
 https://mdx.mdict.org/%E5%85%AD%E5%A4%A7%E7%9F%A5%E5%90%8D%E8%AF%8D%E5%85%B8/%E6%9C%97%E6%96%87_Longman/STFU%20LongmanBundle-%E7%BB%AE%E5%8F%A5%E6%85%A8%E9%90%97-By%20Amazon%2020160928/Longman%20Dictionary%20Of%20Contemporary%20English%206th%20EnEn/LongmanDictionaryOfContemporaryEnglish6thEnEn.mdx
@@ -518,10 +507,9 @@ Penguin English Dictionary (third Edition)
 https://mdx.mdict.org/Recommend/The%20Penguin%20English%20Dictionary%203rd%2C%202007_2.zip
 ```
 - config dicts order
+> -> Edit > Dictionaries
 ```
-// -> Edit > Dictionaries
-
-英汉大词典（第2版） //名利是浮云，灵魂在高处——缅怀陆谷孙先生
+英汉大词典（第2版）
 牛津高阶英汉双解词典（第9版）
 Cambridge Advanced Learner's Dictionary 3th
 Collins COBUILD Advanced Learner's Dictinary | 8th ed (En-En)
@@ -534,14 +522,11 @@ FreeDictionary-Idioms
 新世纪汉英大词典
 ```
 - config preferences
-```
-// -> Edit > Preferences > Interface > Tabbed Browsing
-open new tabs in background `disabled`
-
-// -> View
-navigation `enabled`
-others `disabled`
-```
+> -> Edit > Preferences > Interface > Tabbed Browsing
+  - open new tabs in background `off`
+> -> View
+  - navigation `on`
+  - others `off`
 
 # vlc
 - config

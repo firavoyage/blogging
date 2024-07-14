@@ -467,5 +467,13 @@ archived for myself
   - slashdot
   - ruanyf
   - yc news
-  - flower tech news tg channel
+  - tg channel
+
+- `board` the board
+> better excelidraw
+  - click to place text
+  - drag to place shapes
+
+
+
 

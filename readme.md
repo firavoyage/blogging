@@ -1,4 +1,4 @@
-# _firavoyage 
+# firavoyage 
 
 ## self
 - a developer
@@ -20,7 +20,8 @@
   - hard-boiled eggs simmered by tea
 -
   - uniqlo & muji shirts with buttons
-  - life-size waifu (sparkle)
+  - camphor wood bars
+  - life-size waifu (sparkle | keqing | fuxuan)
   - flowers and greenery
   - pure math
   - web dev
@@ -28,14 +29,14 @@
   - johann sebastian bach
   - joseph haydn
   - scorpions
-  - micheal jackson
+  - michael jackson
   - hatsune miku
 -
   - wind of change
   - scarborough fair
   - the sound of silence
-  - da capo
   - one last kiss
+  - da capo
   - title theme
   - -記憶-
   - 比翼の羽根
@@ -44,22 +45,21 @@
   - 海阔天空
   - 富士山下
   - 浮夸
-  - 青春(응답하라1988)
-  - 勇者(葬送のフリーレン)
+  - 青春
+  - 勇者
 -
-  - tom and jerry
   - in solitude where we are least alone
   - worldend: what do you do at the end of the world? are you busy? will you save us?
   - frieren: beyond journey's end
   - bang dream! it's mygo!!!!!
   - bocchi the rock
   - oshi no ko
-  - reply 1988
   - evangelion
+  - reply 1988
+  - tom and jerry
   - joker
   - soul
   - the shawshank redemption
-  - the graduate
   - new national debation
 - 
   - adhesiontek
@@ -67,18 +67,13 @@
   - codingstartup
   - efficlab
   - interpreter gavin
-  - porridge with spicy pidan
-- 
+  - spicy porridge with pidan
   - mihoyo wei bro
-  - my sis is just that cute 
   - old bai sleepwalked
-  - kumimi addict
+  - my sister is just that cute 
   - longbow flintlock
-  - black man cupid
   - hongkong doll
   - changhsu math
-  - keqing
-  - fuxuan
 -
   - forever naive taffy
   - orient snowy lotus
@@ -86,8 +81,8 @@
   - mohamad light
   - natural brawl master
   - idle free man
-  - tail tail here
   - chenzihao
+  - tail tail here
 -
   - azurlane
   - bluearchive
@@ -96,10 +91,10 @@
   - soul knight
   - fly me 2 the moon
   - houkai gakuen second
-  - honkai impact third
-  - genshin impact
   - honkai star rail
+  - honkai impact third
   - zenless zone zero
+  - genshin impact
   - the rainbow appears after flowering rain.
   - _sekiro: shadows die twice
   - _elden ring
@@ -126,8 +121,6 @@
   - _集异璧
   - _人间词话
   - _树上的男爵
-  - _人生的智慧
-  - _西游记
   - _道德经
   - _月亮与六便士
   - _傲慢与偏见
@@ -135,7 +128,19 @@
   - _给大壮的信
   - _黄金年代
   - _百年孤独
-  - _复活
+- 
+  - chill round gothic
+  - dejavu serif
+  - fira code
+  - free sans
+  - fz kaiti
+  - i.ngaan
+  - resource han rounded cn
+  - roboto
+  - source han sans cn
+  - source han serif cn
+  - ubuntu sans
+  - zhi mang xing
 -
   - ubuntu 24
   - android 11
@@ -143,46 +148,28 @@
   - code 1.89
   - git 2.43
 - 
-  - chill round gothic
-  - dejavu sans
-  - dejavu serif
-  - fira code
-  - free sans
-  - free serif
-  - fz kaiti
-  - i.ngaan
-  - resource han rounded cn
-  - roboto
-  - source han sans cn
-  - source han serif cn
-  - ubuntu
-  - zhi mang xing
-- 
-  - antennapod
+  - nekogram
   - bilimiao
   - simplelive
-  - legado
-  - nekogram
+  - antennapod
+  - snapseed
+  - inkscape
+  - libre office
+  - obs studio
+  - vlc media player
   - qbitorrent
   - v2raya
-  - vlc
-  - obs
-  - libreoffice
-  - inkscape
-  - geogebra
-  - waybackmachine
+  - wine
   - wikipedia
-  - imdb
+  - internet archive
   - z library
-  - anna's archive
-  - goldendict
-  - codeforces
-  - material file
-  - fcitx5 & fcitx android
+  - golden dict
   - gnome characters
+  - material file
+  - fcitx android
 - 
+  - plaintxt.org
   - design.google
-  - google material design
   - ubuntu yaru
   - smartisan os
   - dracula official

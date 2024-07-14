@@ -2137,7 +2137,44 @@ english "Inzakuma shines external!"
 当然,表达我通常还是用中文
 这是个人能力的问题了,而且有些网言网语也不好翻译
 
+## everything not guilty
 
+先讲些虚的...
+在忘川前,上帝会宽恕你的一切罪行.
+常世,不过是灵魂的另一种存在耳
+
+> 曾几何时，我觉得Google就是我的水和空气，没有Google，我不知道怎么活。但是，当这一天真的就要来临时，我反而坦然了，不再觉得没有互联网的生活不能接受了。
+> 为什么我觉得互联网可以没有呢？因为我想明白了一件事。这个国家变成了现在这个样子，个人的前途已经谈不上了。不管有没有互联网，个人在这个国家里都是没有前途的。你建设国家的理想，被专制制度挡在门外；你幸福生活的梦想，被高涨的房价和稀薄的社会保障碾得粉碎；你赚钱发家的愿望，被各种罗网束缚，每前进一步，你就要做一次妥协，出卖一点灵魂。等到你快要走到终点的时候，你的灵魂也出卖得差不多了，变成和监视你的人一样的生物了。
+> 一个人没有了前途，你说除了消磨时光，上网还有什么意义呢？
+> (ruanyf)
+
+再讲些实的...
+一方面,当下对`罪行`的定义,有很强的历史局限性
+当然可以认为当下的文明是最好的文明,如同监视你的人那样
+不过这显然忽视了那些批评的声音
+> 现代文明越发展,人们的精神就越空虚
+> 现代文明越发展,劳动的异化就越极端
+如是前人述备矣
+
+另一方面,多数人的意见不能代表全部
+不妨翻开你的语文书,举些狱中作出的名篇,如史记
+不妨再翻开你的历史书,举些反叛者的成就,如小岗村
+哈哈
+
+## web dev alias
+
+其实很多javascript built-in api都可以有alias...
+
+- addEventListener `when`
+- removeEventListener `notWhen`
+- setTimeOut `wait`
+- clearTimeOut `notWait`
+- document.querySelector `document.element`
+- document.querySelectorAll `document.elements`
+- document.createElement `document.new`
+
+然后在用上firascript
+太舒服了qwq...
 
 
 
