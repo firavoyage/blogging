@@ -21,7 +21,7 @@
 -
   - uniqlo & muji shirts with buttons
   - camphor wood bars
-  - life-size waifu (sparkle | keqing | fuxuan)
+  - life-size pillows
   - flowers and greenery
   - pure math
   - web dev
@@ -68,9 +68,10 @@
   - efficlab
   - interpreter gavin
   - spicy porridge with pidan
+  - flash guy
   - mihoyo wei bro
   - old bai sleepwalked
-  - my sister is just that cute 
+  - my sister is just that kawaii
   - longbow flintlock
   - hongkong doll
   - changhsu math
@@ -83,6 +84,14 @@
   - idle free man
   - chenzihao
   - tail tail here
+-
+  - sparkle
+  - keqing
+  - fuxuan
+  - nahida
+  - kaedehara kazuha
+  - kasugano sora
+  - taiho
 -
   - azurlane
   - bluearchive
