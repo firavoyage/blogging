@@ -176,14 +176,22 @@ json based (can be converted to markdown)
 import and export
 
 - `globe` detailed map of the digital age
-> wikipedia for sites and creators
-  - show the hidden treasures
-not just the promoted or the most popular ones should be shown
-  - various types
-blogs
-channels
-games
-abstract memes
+> guide for a 2000s time traveller,not just sites
+  - show the "treasures"
+not just promoted,most commercialized ones
+  - maintain
+discussion on github issues
+maintainer,myself
+  - sites
+categorized
+  - channels
+tag based
+  - blogs
+blogs existed before mobile internet like ruanyf
+and internet archive for each
+  - more
+indie games,bangumis,visual novels,... are not included as their databases are implemented well
+fonts,design systems,... may be added in the future
 
 - `goods` get rid of consumerism
 > it's not buying matters
@@ -338,7 +346,7 @@ edit with any ide and launch in browsers
   - various themes
 powered by voyage
 
-- `firascript` simplicity of javascript
+- `firascript` simplicity of a script
 > another javascript dialect
 > -> /firascript
   - inspired by 
@@ -400,25 +408,21 @@ structure: pass data
 become a math challenger
 tell the world how to teach math
   - pure math dailyab
-more popular one
+most popular one
   - intuitive web dev tut
 become a frontend challenger
 tell the world how to teach frontend
-  - intuitive web dev ideas
-more popular one
-  - app recommendation
-most popular one
-easy to make
   - debation summaries
 become a critical thinker
 tell the world how to summarize views and statements
-  - ruanyf archive visualization
+  - app recommendation
+most popular one
+easy to make
+  - ruanyf ideas visualization
 most popular one
 some inspiring ideas from ruanyifeng's blog
-  - game replay
-archived for myself
-  - school life moments
-archived for myself  
+  - archive for myself
+gaming and school life
 
 ## apps
 

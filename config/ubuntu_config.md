@@ -552,20 +552,6 @@ FreeDictionary-Idioms
 # apps
 - install in terminal
 ```
-sudo snap install android-studio
-sudo snap install chromium --revision 2842
-sudo snap install firefox
-sudo snap install heroic
-sudo snap install inkscape
-sudo snap install krita
-sudo snap install --edge lutris
-sudo snap install obs-studio
-sudo snap install qbittorrent-arnatious
-sudo snap install shotcut --classic
-sudo snap install telegram-desktop
-sudo snap install thunderbird
-sudo snap install v2raya
-sudo snap install vlc
 sudo apt install git
 sudo apt install zsh
 sudo apt install nodejs
@@ -574,6 +560,20 @@ sudo apt install python3
 sudo apt install imagemagick
 sudo apt install gnome-tweaks
 sudo apt install goldendict
+sudo snap install android-studio
+sudo snap install chromium --revision 2842
+sudo snap install firefox
+sudo snap install gimp
+sudo snap install inkscape
+sudo snap install kdenlive
+sudo snap install krita
+sudo snap install obs-studio
+sudo snap install qbittorrent-arnatious
+sudo snap install shotcut --classic
+sudo snap install telegram-desktop
+sudo snap install thunderbird
+sudo snap install v2raya
+sudo snap install vlc
 ```
 - install from websites
   - virtualbox

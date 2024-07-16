@@ -12,12 +12,10 @@
 -
   - lipton black tea
   - cocacola zero
-  - lays pototo chips original in bags
-  - ruby chocolate flavored popsicle
-  - burgerking
-  - steamed bun and mineral water
-  - special spicy pork noodles
-  - hard-boiled eggs simmered by tea
+  - lays crisps original
+  - ruby chocolate popsicle
+  - burgerking french fries
+  - tea egg
 -
   - uniqlo & muji shirts with buttons
   - camphor wood bars
@@ -72,6 +70,7 @@
   - mihoyo wei bro
   - old bai sleepwalked
   - my sister is just that kawaii
+  - kumimi addict
   - longbow flintlock
   - hongkong doll
   - changhsu math
@@ -171,7 +170,7 @@
   - wine
   - wikipedia
   - internet archive
-  - z library
+  - the pirate bay
   - golden dict
   - gnome characters
   - material file
@@ -180,7 +179,6 @@
   - plaintxt.org
   - design.google
   - ubuntu yaru
-  - smartisan os
   - dracula official
   - monokai pro
   - one dark pro
@@ -212,10 +210,10 @@
 - stay focused, keep shipping. 
   - build early, build always. 
   - improve yourself, write solid/simple/stupid code. 
-- do have faith in what you are doing
-  - world is powered by solitude
+- world is powered by solitude.
   - gravitated and spellbound
   - beautifully advance
+  - do have faith in what you are doing
 - live in the future and build what's missing
 - life is a long-plank game
 - 遂迷不复得路

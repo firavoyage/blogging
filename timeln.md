@@ -948,6 +948,23 @@ qwq...
 这里的23centigrade是真冷啊
 换成26了,然后风速min
 
+## 20240716
+
+家里通wifi了!
+
+这几天一直在
+- read ruanyf archive
+- play rpgs(hg,sr)
+- watch simplelive
+- eat(bilimiao)
+娱乐之外,就是第一条了
+
+ruanyf的各个板块都翻阅了
+除了几个板块
+- 周刊
+- 剪贴板
+- 笔记本
+- 杂物间
 
 
 

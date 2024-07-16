@@ -43,6 +43,20 @@ also make structured courses after become known
 put ads promoting school organizations
 make paid courses
 
+## format
+
+`设` 字母表示数
+`令` 换元
+
+多项式,降幂排列 
+集合,从左到右,从小到大 (就像数轴)
+
+... (summarize later)
+
+## style
+
+... (summarize later)
+
 ## purpose
 
 - be a math challenger
