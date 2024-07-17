@@ -303,11 +303,9 @@ powered by voyage
 > english vocabularies pasttime
   - words filtered
 no grade school words
-pass proficient words
-  - word roots first
-word transforms right after
--ed -ing -able in- im-
-  - leisure
+  - no roots,only affix
+-ize -ify -en
+  - easy
 everyday words the same
 only one button,next
   - white list

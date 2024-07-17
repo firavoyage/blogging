@@ -18,8 +18,8 @@
   - tea egg
 -
   - uniqlo & muji shirts with buttons
-  - camphor wood bars
   - life-size pillows
+  - camphor wood bars
   - flowers and greenery
   - pure math
   - web dev
@@ -34,17 +34,11 @@
   - scarborough fair
   - the sound of silence
   - one last kiss
-  - da capo
   - title theme
   - -記憶-
-  - 比翼の羽根
-  - ツナグキズナ
-  - 米店
   - 海阔天空
   - 富士山下
-  - 浮夸
-  - 青春
-  - 勇者
+  - 惠化洞
 -
   - in solitude where we are least alone
   - worldend: what do you do at the end of the world? are you busy? will you save us?
@@ -55,9 +49,9 @@
   - evangelion
   - reply 1988
   - tom and jerry
+  - redo of healer
   - joker
   - soul
-  - the shawshank redemption
   - new national debation
 - 
   - adhesiontek
@@ -70,27 +64,20 @@
   - mihoyo wei bro
   - old bai sleepwalked
   - my sister is just that kawaii
-  - kumimi addict
   - longbow flintlock
-  - hongkong doll
   - changhsu math
--
   - forever naive taffy
-  - orient snowy lotus
   - nova lciop
-  - mohamad light
   - natural brawl master
-  - idle free man
-  - chenzihao
-  - tail tail here
+  - unfettered idle man
 -
   - sparkle
-  - keqing
   - fuxuan
+  - clara
+  - keqing
   - nahida
   - kaedehara kazuha
   - kasugano sora
-  - taiho
 -
   - azurlane
   - bluearchive
@@ -108,11 +95,11 @@
   - _elden ring
   - _the binding of isaac
   - _the legend of zelda
-  - _minecraft
   - _grand theft auto v
   - _needy streamer overload
   - _senrenbanka
 -
+  - the bible
   - 前方的路
   - 黑客与画家
   - 观念的水位
@@ -137,7 +124,6 @@
   - _黄金年代
   - _百年孤独
 - 
-  - chill round gothic
   - dejavu serif
   - fira code
   - free sans
@@ -156,10 +142,10 @@
   - code 1.89
   - git 2.43
 - 
-  - nekogram
   - bilimiao
   - simplelive
   - antennapod
+  - nekogram
   - snapseed
   - inkscape
   - libre office
@@ -214,6 +200,14 @@
   - gravitated and spellbound
   - beautifully advance
   - do have faith in what you are doing
+- tell me, and i will forget.
+  - show me, and i may remember.
+  - involve me, and i will understand.
+  - confucius circa 450 bc
+- and this is the message we have heard from him and announce to you: 
+  - god is light, and in him there is no darkness at all. 
+  - if we say we have fellowship with him yet walk in the darkness, we lie and do not practice the truth. 
+  - but if we walk in the light as he is in the light, we have fellowship with one another, and the blood of jesus his son cleanses us from all sin.
 - live in the future and build what's missing
 - life is a long-plank game
 - 遂迷不复得路
