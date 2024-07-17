@@ -90,7 +90,7 @@
   - honkai impact third
   - zenless zone zero
   - genshin impact
-  - the rainbow appears after flowering rain.
+  - the rainbow appears after flowering rain
   - _sekiro: shadows die twice
   - _elden ring
   - _the binding of isaac
@@ -102,13 +102,12 @@
   - the bible
   - 前方的路
   - 黑客与画家
+  - 给青年人的十二封信
   - 观念的水位
   - 刘擎西方现代思想讲义
-  - 给青年人的十二封信
   - 目送
   - 草房子
   - 房思琪的初恋乐园
-  - refactoring ui
   - .人生哲思录
   - _海子的诗
   - _顾城的诗
