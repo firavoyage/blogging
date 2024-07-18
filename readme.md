@@ -35,6 +35,7 @@
   - the sound of silence
   - one last kiss
   - title theme
+  - never gonna give you up
   - -記憶-
   - 海阔天空
   - 富士山下
@@ -240,16 +241,16 @@
 
 ## pages here
 - people
+  - nat
   - livid
   - ruanyf
-  - nat
   - yinming
-  - mistral
 - ideas
   - projects
   - reply
   - idioms
   - comments
+  - mistral
 - self
   - weekly
   - timeln

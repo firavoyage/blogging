@@ -187,7 +187,7 @@ categorized
   - channels
 tag based
   - blogs
-blogs existed before mobile internet like ruanyf
+long-existed blogs like ruanyf
 and internet archive for each
   - more
 indie games,bangumis,visual novels,... are not included as their databases are implemented well
