@@ -65,7 +65,7 @@ identity to circles not squares
   - pattern
 trotting horse lamp of love
 use symbols(colors,clothes) to infer anime waifus
-  - ton
+  - tonning
 magic of tonning
 
 - `workshop` origin of posters and memes
@@ -146,8 +146,9 @@ view and adjust your user avatar
   - capsule things
 powered by fav
   - local first
-posts are downloaded local
-import and export subscription list
+all blog posts are downloaded local
+you can read some anywhere anytime
+downloads and subscriptions can be imported and exported
 
 - `fav` digital time capsule
 > all memories in your palm "一切追想一片手掌"
@@ -215,37 +216,13 @@ contrast
 straw man
   - based on markdown
 
-- `noskill` any writing style -> templates
-> writing noskill
-  - goblin mode
-pursue high score,failed and failed...gave up at the end of the day.
-only a standard b+ score can content me
-  - templated writing
-beginning (quote analyse throw) "引析立"
-what is the keyword. "何为?"
-in the past,positive examples... "为何?纵观历史,古人a以此...古人b以此...古人c以此..."
-nowadays,why people cant... subjective and objective reason "反观当下,今人为何不能...?主观上,...客观上,..."
-how to do "如何?"
-if not,ok.but can be better."诚然,反之亦可.顺策与逆策本质上并不矛盾."
-ending (throw in another way) "重申."
-
-- `heresy` full marks in writing but heresy
-> the heresy masterpieces "如何写出离经叛道的满分作文?"
-  - another writing template
-common features in those unexpected max score writings
-beginning & ending -> narrate (real life experience)
-middle -> comment (young master style,huangzhizhong-like)
-  - reality satire
-high score to standard
-wow,holyshit.
-
 - `symbols` symbol world of wonder
 > literary original desire "奇妙比喻的初心"
   - unexpected metaphor simile
   - criticism to the reality
 
 - `pure` my desired math courses
-> pure math in vocational high school "几何是兴奋剂,代数是止痛药" "洞察天地之数的冷静与理性:惊人的注意力"
+> difficulities with great simplicity "三言两语,举重若轻."
 > -> /pure
   - solution abstracted 
 ("去繁章琐算,布简理明道")
@@ -421,6 +398,24 @@ most popular one
 some inspiring ideas from ruanyifeng's blog
   - archive for myself
 gaming and school life
+
+- `hoyogamer` get moved by mihoyo's ninth art
+> touching stories by gaming-helpers "代练文化的闪光"
+  - gi story in english
+i was once a gi primogem addicted player 
+and i click the screen mindlessly and missed a lot
+now it's high time to pick up these memories
+  - sr story in english
+fav mihoyo game,for me personally
+i played this on my phone and screenshoted a few moments
+now i desire a full gameplay vid with state-of-art hardware
+  - other games
+hg,hi,zzz are nothing but anime harem games full of internet memes
+which allow players to skip the scenes
+as they are battle-based and the stories are secondary,maybe
+so currently only gi and sr
+after all they are great "rpg games" or pasttime vehicles
+but perhaps not significant "visual novels" in the literary perspective
 
 ## apps
 

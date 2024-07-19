@@ -47,13 +47,11 @@
   - bang dream! it's mygo!!!!!
   - bocchi the rock
   - oshi no ko
-  - evangelion
   - reply 1988
-  - tom and jerry
   - redo of healer
+  - tom and jerry
   - joker
   - soul
-  - new national debation
 - 
   - adhesiontek
   - paperclip
@@ -61,7 +59,7 @@
   - efficlab
   - interpreter gavin
   - spicy porridge with pidan
-  - flash guy
+  - new national debation
   - mihoyo wei bro
   - old bai sleepwalked
   - my sister is just that kawaii
@@ -126,14 +124,19 @@
 - 
   - dejavu serif
   - fira code
+  - fira sans
   - free sans
+  - free serif
   - fz kaiti
-  - i.ngaan
+  - fz shusong
+  - han wang shin su
+  - han wang yan kai
   - resource han rounded cn
   - roboto
+  - rounded mplus
   - source han sans cn
   - source han serif cn
-  - ubuntu sans
+  - ubuntu
   - zhi mang xing
 -
   - ubuntu 24
@@ -141,26 +144,6 @@
   - chromium 124
   - code 1.89
   - git 2.43
-- 
-  - bilimiao
-  - simplelive
-  - antennapod
-  - nekogram
-  - snapseed
-  - inkscape
-  - libre office
-  - obs studio
-  - vlc media player
-  - qbitorrent
-  - v2raya
-  - wine
-  - wikipedia
-  - internet archive
-  - the pirate bay
-  - golden dict
-  - gnome characters
-  - material file
-  - fcitx android
 - 
   - plaintxt.org
   - design.google

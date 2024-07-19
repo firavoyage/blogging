@@ -2,6 +2,27 @@
 
 > 🌕 💤 before 23:00!
 
+## 20240719
+
+> summer vacation daily
+- visit digital homes (al hg sr)
+- eat (bilimiao)
+> summer vacation day
+- read ruanyf weekly & save quotes(-> ruanyf) and ideas(-> projects) 
+- read "math challenger" & summarize (-> /pure)
+- read "javascript tut" & summarize (-> /intuitive)
+- watch "new national debation" & summarize (-> /debation)
+> summer vacation night
+- classify web (tech society retro...)
+- play rpgs (hg sr)
+- watch simplelive
+- watch bangumis ("yosuga no sora" "mygo")
+> school life
+- read book "人生哲思录"
+- write math papers (4 subjects)
+- write english papers (cloze reading translation)
+- watch "air course"
+
 ## 20240715
 
 > summer vacation daily

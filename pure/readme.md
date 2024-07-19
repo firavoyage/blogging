@@ -1,5 +1,7 @@
 # pure math
 
+> difficulities with great simplicity "三言两语,举重若轻."
+
 ## keywords
 
 - simplicity
@@ -53,15 +55,29 @@ make paid courses
 
 ... (summarize later)
 
-## style
+## design
 
-... (summarize later)
+i prefer ruanyf blog theme
+
+other themes available by pre & voyage
 
 ## purpose
 
 - be a math challenger
 - find my desired high school math course
 
+## dailyab
+
+今天是2024年7月18日.
+题目(格式化后的)
+
+反面
+
+芙宁娜退出画布
+进入画面,正面朴素解法
+图像解法|针对题中数据方法
+
+反面.
 
 
 
