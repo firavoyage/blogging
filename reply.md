@@ -2337,7 +2337,14 @@ for every lonely and wandering soul, there is a lucky star behind the darkness, 
 
 some day. till then
 
+## school courses holyshit
 
+现在
+我很少看舞台表演,多是看电影和连续剧
+
+我想授课也是一样的
+就在你面前,对着一个演示和板子不停地讲,不像是未来
+可能未来的课程,有动画,有cv,就像rpg游戏
 
 
 

@@ -53,23 +53,22 @@
   - joker
   - soul
 - 
-  - adhesiontek
-  - paperclip
-  - codingstartup
-  - efficlab
+  - adhesion tek
+  - coding startup
   - interpreter gavin
-  - spicy porridge with pidan
+  - spicy century egg porridge
+  - effic lab
+  - paperclip
   - new national debation
-  - mihoyo wei bro
+  - nicholas wei bro
+  - longbow flintlock
   - old bai sleepwalked
   - my sister is just that kawaii
-  - longbow flintlock
-  - changhsu math
-  - forever naive taffy
-  - orient snowy lotus
+  - unfettered idle man
   - nova lciop
   - natural brawl master
-  - unfettered idle man
+  - forever naive taffy
+  - orient snowy lotus
 -
   - sparkle
   - fuxuan
@@ -78,6 +77,8 @@
   - nahida
   - kaedehara kazuha
   - kasugano sora
+  - taiho
+  - warspite
 -
   - azurlane
   - bluearchive

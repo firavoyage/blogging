@@ -7,13 +7,13 @@
 > i dont use tags for searching
 > instead,i unified some similar words in the titles
 > tutorial tricks wiki document guide -> guide
-> implementation explanation theory -> theory
+> implementation explanation style theory -> theory
 > library list collection repository -> repo
 > vintage legacy golden nostalgia reminiscent retro -> retro
 > -> quote,-> story,-> ...
 > those not included are most probably life moments or bbs posts
 
-## ruanyf weekly issues mission
+## ruanyf weekly mission
 
 1
 
@@ -235,8 +235,118 @@ https://www.bleepingcomputer.com/news/security/css-is-so-overpowered-it-can-dean
 
 以前的解释是，为了长远利益、忍受眼前诱惑的人，更可能成功。但是，新的研究发现，那些忍住不吃的小孩，大多来自富裕人家，也就是说他们的人生成功，很可能与忍耐力无关，而是家庭的帮助。
 
-## 
+## cross platfrom aftereffect renderer 
 
+Lottie
+
+http://airbnb.io/lottie/
+
+Airbnb 推出的动画效果库，可以把 Adobe After Effects 制作的动画用于 Web、安卓和 iOS。
+
+## google hardware design theory
+
+谷歌硬件产品的设计风格
+
+https://designobserver.com/feature/what-we-see-when-we-see-google-design/39808
+
+上图是谷歌硬件产品的全家福，从左到右依次是 Google Pixel Buds，Pixel 2 XL，Pixel 2 XL，Pixel 2，Google Home Mini，Google Home，Google Home Max，Google Clips，Daydream View，Pixelbook Pen，Google Pixelbook。
+
+可以看到，这些产品大多采用了统一的设计语言：纯净的双色块对比。
+
+## deepin overworked founder sunsetting story
+
+Deepin 创始人王勇宣布离职
+
+Deepin 是一个很有人气的国产 Linux 发行版。创始人兼 CTO 王勇在 Deepin 官网论坛发表声明，表示因个人原因离职。在离职声明里面，他谈到创立公司八年，遇到了很多困难。
+
+写代码太累下班晚上要靠输液才能继续第二天继续上班
+晚上陪客户喝酒，喝三场，吐了无数次，实在喝不下去了还要一口闷
+很长一段时间天天加班，睡在公司，老婆只能把小朋友抱到公司楼下才能逼我回家
+遇到人生很多惨痛的打击，不想再继续人生了，哭的痛不欲生
+
+## why these starting companies succeeded quote
+
+创业公司为什么成功？这是最难的问题。
+
+大多数人只是指出非常明显的事情："创始人很聪明也很勤奋，企业文化也非常优秀。"问题在于，其他5000家创业公司也是如此，但都失败了。（《幸存者偏见》）
+
+## the city i love quote
+
+我喜欢这样的小城镇：大到足以容纳电影院和书店，小到足以让你感觉态度友善、适宜居住。（布莱森《小不列颠札记》）
+
+## webgl platformer maze game
+
+zelda-like art
+
+https://heraclosgame.com/
+
+## why ruanyf weekly only talking about tech
+
+本周话题：周刊为什么只谈技术？
+自从我认定，未来二三十年，人类社会将有天翻地覆的大变。我的所有时间，就都投在技术领域了。因为变化是技术引起的，只有了解技术，才可能应对变化。
+
+我相信，未来最大的那些机会，一定是技术带来的机会。底层的年轻人要想翻身，当工程师是比较可能的途径。当然，医生和律师依然可以赚钱，但我觉得前景不如工程师，因为将来一定是机器帮你看病，帮你打官司。
+
+这个《每周分享》系列只谈技术的原因就在这里，因为其他东西没有那么重要。
+
+## flutter design theory
+
+Flutter 入门介绍（英文）
+
+https://www.smashingmagazine.com/2018/06/google-flutter-mobile-development/
+
+现在的跨平台App开发工具分成两类：（1）容器包了Web View，App实际是一个本地网站；（2）原生控件的跨平台抽象。Flutter走了不一样的路：自己开发了一套原生控件，每个平台实现一遍，然后把渲染引擎（这套控件）打包在每个应用里面，因此性能没有问题，平台差异也很小。
+
+## "surprise" logical problem
+
+大吃一惊的逻辑题
+
+https://en.wikipedia.org/wiki/Unexpected_hanging_paradox
+
+国王对一个犯人说，下周一到周五的某一天，你会被绞死，但我不告诉你到底是哪一天，到时你肯定大吃一惊。
+
+犯人分析后，认为自己不会死。首先不会在周五死，因为周四晚上能推断出次日的绞刑，所以不会大吃一惊。如果已知周五不会执行死刑，那么同理也可以推断出不会在周四死。以此类推，哪一天都不会死。
+
+犯人因此觉得不用担心。但是就在星期三中午，士兵进来把他押到刑场执行死刑。犯人因此大吃一惊："我明明不应该在今天死啊！"由于他认定自己不会死，所以实际上他任何一天都可能死，因为到时肯定大吃一惊。
+
+## google reader web app retro
+
+Google Reader 怀旧版
+
+http://readerisdead.com/reader/view/
+
+Google Reader 是谷歌的线上 RSS 阅读器，2013年关闭。现在，有人复制了一个一模一样的，让大家体验一下当年的感觉。
+
+## ruanyf weekly source
+
+很多网友问，《每周分享》的来源是什么，你从哪里得知这些消息？
+
+我的消息来源主要是下面几个。
+
+Hacker News https://news.ycombinator.com/
+GitHub https://github.com/explore
+RSS 订阅
+Twitter 和 Facebook
+
+多年来，我每天都会浏览这些消息来源，了解资讯，看到有意思的东西，就会写入《每周分享》。我从学生时代就有做笔记的习惯，《每周分享》只是把个人笔记公开了而已。
+
+这些消息来源大部分是英语，中文的内容比较少，因为中文信息来源很难找。国内的媒体往往只报道，谁融到了多少钱、谁上市了、哪位高管又跳槽了......技术本身的报道是非常少的。另一方面，国内的氛围是，独家技术都不太愿意曝光，更别说写得清晰易懂了。
+
+我希望，国内也能有 Hacker News 那样的技术资讯网站。《每周分享》只是第一步，看看有多少人对这类东西感兴趣。如果有那么一批读者，经常来看，那么进一步就可以做社区，共同创造一些更有意义和价值的东西。
+
+## image editor web app
+
+tui.image-editor
+
+https://github.com/nhnent/tui.image-editor
+
+开源的在线图像编辑器。
+
+## conceited app quote
+
+一个软件要多么自负，才会选择 .key 作为文件后缀名。这个软件就叫 Mac Keynote。（推特@climagic）
+
+## 
 
 
 
