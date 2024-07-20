@@ -8,7 +8,7 @@
 - visit digital homes (al hg sr)
 - eat (bilimiao)
 > summer vacation day
-- read ruanyf weekly & save quotes(-> ruanyf) and ideas(-> projects) 
+- read ruanyf weekly & save quotes(-> ruanyf)
 - read "math challenger" & summarize (-> /pure)
 - read "javascript tut" & summarize (-> /intuitive)
 - watch "new national debation" & summarize (-> /debation)

@@ -66,6 +66,7 @@
   - longbow flintlock
   - changhsu math
   - forever naive taffy
+  - orient snowy lotus
   - nova lciop
   - natural brawl master
   - unfettered idle man
@@ -144,6 +145,8 @@
   - chromium 124
   - code 1.89
   - git 2.43
+  - fcitx 5.1.7 & fcitx android
+  - wine 9.0
 - 
   - plaintxt.org
   - design.google

@@ -292,6 +292,8 @@ open extensions `ctrl shift x`
 new file `ctrl n`
 close file `ctrl w`
 
+preview markdown `ctrl shift v`
+
 skip words `ctrl leftarrow|rightarrow`
 scroll page `ctrl uparrow|downarrow`
 select letters `shift leftarrow|rightarrow`
