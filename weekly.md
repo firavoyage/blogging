@@ -14,9 +14,11 @@
 - watch "new national debation" & summarize (-> /debation)
 > summer vacation night
 - classify web (tech society retro...)
+- reclassify memories (comments discoveries memes)
 - play rpgs (hg sr)
 - watch simplelive
 - watch bangumis ("yosuga no sora" "mygo")
+- write swimming guide
 > school life
 - read book "人生哲思录"
 - write math papers (4 subjects)

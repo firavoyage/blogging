@@ -2,9 +2,9 @@
 
 ## self
 - a developer
-- came to the world on sept17 2007
 - grew up in shanghai
 - on the internet since 2022 which is my actual home town
+- working on pure math
 
 ## love
 - 
@@ -57,63 +57,57 @@
   - coding startup
   - interpreter gavin
   - spicy century egg porridge
-  - effic lab
   - paperclip
   - new national debation
-  - nicholas wei bro
-  - longbow flintlock
-  - old bai sleepwalked
-  - my sister is just that kawaii
   - unfettered idle man
-  - nova lciop
-  - natural brawl master
   - forever naive taffy
   - orient snowy lotus
+  - nicholas wei bro
+  - old bai sleepwalked
+  - my sister is just that kawaii
+  - longbow flintlock
 -
   - sparkle
   - fuxuan
   - clara
   - keqing
-  - nahida
   - kaedehara kazuha
+  - nahida
   - kasugano sora
-  - taiho
   - warspite
+  - taiho
 -
   - azurlane
-  - bluearchive
+  - honkai star rail
+  - honkai impact third
+  - houkai gakuen second
+  - genshin impact
+  - zenless zone zero
   - brawl stars
   - clash royale
   - soul knight
-  - fly me 2 the moon
-  - houkai gakuen second
-  - honkai star rail
-  - honkai impact third
-  - zenless zone zero
-  - genshin impact
   - the rainbow appears after flowering rain
   - _sekiro: shadows die twice
   - _elden ring
   - _the binding of isaac
   - _the legend of zelda
   - _grand theft auto v
-  - _needy streamer overload
   - _senrenbanka
+  - _fly me 2 the moon
 -
-  - the bible
   - 前方的路
   - 黑客与画家
   - 给青年人的十二封信
   - 观念的水位
   - 刘擎西方现代思想讲义
   - 目送
-  - 草房子
   - 房思琪的初恋乐园
   - .人生哲思录
+  - _the bible
+  - _geb
   - _海子的诗
   - _顾城的诗
   - _飞鸟集
-  - _集异璧
   - _人间词话
   - _树上的男爵
   - _道德经
@@ -149,12 +143,12 @@
   - fcitx 5.1.7 & fcitx android
   - wine 9.0
 - 
-  - plaintxt.org
   - design.google
+  - plaintxt.org
   - ubuntu yaru
   - dracula official
-  - monokai pro
   - one dark pro
+  - monokai pro
 
 ## quotes
 - as human beings it is our right (maybe our moral duty) to reshape the universe to our preferences
@@ -242,6 +236,7 @@
   - weekly
   - timeln
   - djhs grades
+  - swim
 - config
   - ubuntu config
   - chromium bookmarks
@@ -271,14 +266,14 @@
   - telegram `archivefiravoyage`
   - official mirrors `_wip`
 - posts
-  - twitter `firascript`
+  - github `firavoyage`
   - blogger `firavoyage`
-  - zhihu `firavoyage`
-  - official mirrors `_wip`
+  - twitter(i hate elon btw) `firascript` 
+  - mirrors `_wip`
 - videos
   - bilibili `Fira_言序`
   - youtube `_wip`
-  - official mirrors `_wip`
+  - mirrors `_wip`
 - letters
   - email `firavoyage@outlook.com`
   - telegram group `_wip`
@@ -289,14 +284,12 @@
 - mission
   - make tools elegant
 - work
-  - knowledge organized with structure and simplicity (-> `/pure` | `/intuitive`)
+  - knowledge organized with structure and simplicity (-> pure -> intuitive)
   - free and premium courses made with love
-- school life
-  - shanghai dajing vocational high school 2026 graduate
-  - have got #1 #2 #3 in my grade (-> `djhs_grades.md`)
+- school
+  - shanghai dajing "vocational" high school 2026 graduate
+  - have got #1 #2 #3 in my grade (-> djhs grades)
   - dont study overtime qwq
-- prospect
-  - work on things `adobe` and `coursera` have done with features improved
 - rest
   - contribute to the liberty of the world
   - explore the simplicity of programming

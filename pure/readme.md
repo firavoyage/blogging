@@ -79,6 +79,27 @@ other themes available by pre & voyage
 
 反面.
 
+## fellows
+
+market research
+
+- 芙宁娜科普
+- 派蒙科普
+- ...
+
+## links
+
+个人地,我喜欢github和telegram
+大部分人并不是从此了解我的,
+不过关心我的人,或许会去那里游泳
+
+如果需要全部的传送门,往下看
+
+- github ...
+- telegram ...
+- bilibili ...
+- youtube ...
+
 
 
 

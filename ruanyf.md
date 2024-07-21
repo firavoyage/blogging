@@ -49,8 +49,6 @@ Chrome DevTools 的一些使用技巧
 
 https://flaviocopes.com/chrome-devtools-tips/#drag-and-drop-in-the-elements-panel
 
-(ctrl shift i & ctrl shift p)
-
 ## all algorithms repo
 
 代码仓库 Cosmos https://github.com/OpenGenus/cosmos
@@ -99,7 +97,7 @@ http://seriot.ch/parsing_json.php
 
 但是，我们现在知道，JSON 格式的解析器很难写，因为它没有规定如何处理各种边界情况。
 
-## retro wonderful feeling of internet
+## retro feeling of internet quote
 
 十八年前刚刚接触网络，常常有世界触手可及的奇妙感觉。如今技术越来越先进，那种感觉却越来越少。（网友）
 
@@ -317,6 +315,14 @@ http://readerisdead.com/reader/view/
 
 Google Reader 是谷歌的线上 RSS 阅读器，2013年关闭。现在，有人复制了一个一模一样的，让大家体验一下当年的感觉。
 
+## dont ever grow up play on quote
+
+6月底，由于竞争不过网上商店，美国最大的玩具连锁店玩具反斗城（Toys R US）破产关门，全美700多家连锁店全部歇业，70年的公司历史正式结束。最后一天，一个员工贴出了一张照片：清空的商店里面，一只长颈鹿拿着行李箱准备离开。
+
+公司的网页也发表了告别声明：
+
+"感谢每一位客户，请答应我们一件事件：永远不要长大，一直玩下去。"（Don't ever grow up. Play on!）
+
 ## ruanyf weekly source
 
 很多网友问，《每周分享》的来源是什么，你从哪里得知这些消息？
@@ -345,6 +351,201 @@ https://github.com/nhnent/tui.image-editor
 ## conceited app quote
 
 一个软件要多么自负，才会选择 .key 作为文件后缀名。这个软件就叫 Mac Keynote。（推特@climagic）
+
+## startup happy memories quote
+
+這段大陸創業的日子，帶給了我太多美好的回憶，這所謂的『美好回憶』，不是指我有多成功，而是我選擇了自己想要的生活，有句話不是這樣說嗎？唯一真正的成功，是按自己的意思過上生活。（一个台湾网友）
+
+http://mapleduh.pixnet.net/blog/post/48030264
+
+## jquery and github history
+
+GitHub 放弃使用 jQuery，改用标准 JS 操作 DOM。jQuery 的历史使命已经完成，正在退出前端开发的工具箱。
+
+https://twitter.com/mislav/status/1022058279000842240
+
+## whiteboard desktop app
+
+微软 Whiteboard
+
+https://techcommunity.microsoft.com/t5/Office-365-Blog/Microsoft-Whiteboard-is-now-generally-available-for-Windows/ba-p/214574
+
+微软推出了一个团队协作工具，可以让用户在多种设备上，远程实时分享电子白板。目前，它只有 Windows 10 的客户端，但马上就会推出 iOS 客户端和 Web 版本。
+
+## cross platform app design system language
+
+Dart 语言发布2.0版。该语言的前途完全取决于谷歌的 Flutter 框架（Dart 是 Flutter 唯一支持的语言），如果谷歌大力推广这个框架，Dart 才有可能成
+功。
+
+https://github.com/dart-lang/sdk/blob/master/CHANGELOG.md
+
+## svg animation guide
+
+SVG 动画入门：以加载转子为例（英文）
+
+https://webdesign.tutsplus.com/tutorials/how-to-create-a-loader-icon-with-svg-animations--cms-31542
+
+本文手把手教你如何写一个最简单的 SVG 动画。
+
+## python fibonacci calculation theory
+
+斐波那契数列的计算公式（英文）
+
+https://blog.paulhankin.net/fibonacci/
+
+如果不用递归，直接算出斐波那契数列的任意项，应该怎么计算？
+
+## led street light history
+
+LED 街灯
+
+https://medium.com/@caseorganic/energy-saved-sleep-lost-the-unintended-consequences-of-led-lighting-c0909d4872d0
+
+随着 LED 产业的发展，街灯已经大量改成了节能的 LED 灯。传统的昏黄温暖的橙色灯光，变成了明亮的蓝色灯光。有人提出，蓝色的明亮灯光容易对人类造成影响，使得效率降低，失眠和焦虑增加。
+
+## ui prototype design app
+
+Framer
+
+https://framer.com/
+
+一个用于原型产品 UI 设计的桌面软件，类似 Sketch。
+
+## linkedin is a mmorpg quote
+
+LinkedIn 是一种游戏
+
+https://theoutline.com/post/5495/how-to-beat-linked-in-the-game?zd=1&zi=4ysmx4oy
+
+2002年成立以来，LinkedIn 已迅速成为有史以来最受欢迎的游戏之一。它目前拥有约5.3亿用户，并于2016年以262亿美元被微软收购。
+
+对于那些不熟悉的人来说，LinkedIn是一款角色扮演类的 MMORPG 游戏，玩家身处危险的商业世界，可以从数十个角色类别（例如，企业家，教师，财务总监）中进行选择，每个角色都有自己的技能和特殊动作。他们通过各种工作经历获得经验值，还能获得其他用户的认可。
+
+LinkedIn 游戏的总体目标是在网站上找到尽可能多的人并与之建立联系，以确保你的社交资本和进一步的职业生涯。对于初学者来说，游戏似乎是开放式的，并且不存在那种传统意义上的被其他人"击败"的可能。
+
+下面是用户在 LinkedIn 赢得胜利的一些技巧。
+
+
+
+赢得LinkedIn最重要的部分是创造完美的个人简历。将您的位置设为纽约、旧金山或洛杉矶（唯一重要的三个城市） ，或者更好的是，将自己描述为东海岸和西海岸都有工作经历，如果加入金融行业和常春藤联盟学校的经历，那就更好了。并要插入你与人们握手和参加会议的照片。
+
+一旦你的个人简历填写完毕，你就可以开始与陌生人联系。不幸的是，LinkedIn 限制用户只有30,000个连接和3,000 个连接请求，因此请谨慎使用。
+
+你需要每天花几个小时与人交往。首先，搜索 Google 和 Facebook 等大公司的员工，向他们发出请求。当其他用户接受您的连接请求时，您的等级将上升。起初，有些人可能拒绝您的请求，但最终一旦您的社交网络不断增长，别人会看到他们认识的其他人已经与你建立联系，就将毫无疑问地接受您的请求。
+
+## one hundred million people's choice cant be wrong satirical quote 
+
+杯子的背面写着"一亿人的选择不会错"。
+
+杯子的正面表明这是 Flash 的广告。（推特@jenna）
+
+## wikipedia scientist pages editor bot
+
+AI 为维基百科写条目
+
+https://quicksilver.primer.ai/
+
+Quicksilver 项目使用机器学习算法，为维基百科添加条目。第一步是收集30,000篇关于科学家的维基百科文章，用来训练算法怎么写人物条目。然后，从学术搜索引擎里面找出20万名科学家的名单，发现哪些人还没有条目，再根据新闻报道和他们的论文，生成完整的传记条目添加到维基百科。
+
+## contemporary workers quote
+
+像奴隶一样工作，像国王一样命令，像神一样创造。（康斯坦丁·布朗库西，1876年－1957年，现代主义雕塑先驱）
+
+## another twitter app theory
+
+Mastodon 简介（英文）
+
+https://kevq.uk/how-does-mastodon-work/
+
+Mastodon 是开源的 Twitter 克隆。它的最大特点是允许多个实例（即服务器）之间的互相联系，比如引用一个用户需要给出他所在的实例地址（@foo@mastodon.instance），有点像 Email 的概念。
+
+## 15 web design common faults theory
+
+网页设计的常见错误（英文）
+
+http://blog-en.tilda.cc/articles-website-design-mistakes
+
+本文使用图片对比，列出网页外观设计的15个注意点。上图左侧是改造前的网页，右侧是改造后。
+
+## unicode with style web app
+
+unicode-style
+
+https://github.com/ekmartin/unicode-style
+
+Unicode 本身就带有粗体、斜体字符（只限于拉丁字母），这个工具就采用这些字符进行文本的格式化。然后，不管复制到那里，文本都带有格式。
+
+## programmer rest and inspirations quote
+
+有一个诀窍，让我成为一个更好的程序员，那就是我常常休息，大量的休息，我的新想法都是在休息时产生的。
+
+休息的时候，我阅读，大量阅读任何我有兴趣的内容，这样我才可能产生新想法。（推特@brucel）
+
+## chrome browser history
+
+Chrome 浏览器 10 周年
+
+https://techcrunch.com/2018/09/04/chrome-gets-a-new-look-for-its-10th-birthday/
+
+本周一（9月2日）是 Chrome 浏览器的10岁生日。十年来，这个项目带动了无数创新，让互联网产生了天翻地覆的变化。
+
+十年前，主流浏览器还是 IE6，JS 仍然是一种玩具语言，一大堆无法调试的运行时错误。谷歌决定做自己的浏览器，为此特别开发了底层引擎 V8。发布的那天，所有人都震惊了，原来JS可以运行得这么快...... 后来，V8 导致了 Node 的诞生，Chrome 导致了 Electron 和 ChromeOS。
+
+为了纪念了这个日子，Chrome、Gmail、Google Drive 都在这一天发了新版。
+
+## tech going backward quote
+
+伟大的文明会崩溃，技术也会倒退。罗马帝国灭亡后，欧洲的技术水平大大倒退，停滞发展了1000年。这样的事情，如今也不是没有可能发生。
+
+-- TIm O'reily《未来地图》
+
+## microsoft solitaire history
+
+Windows 纸牌游戏的历史
+
+https://www.filfre.net/2018/08/the-games-of-windows/
+
+1988年的夏天，一位名叫 Wes Cherry 的大学生在微软担任实习生。为了搞懂 Windows，他决定改写 Macintosh 电脑的一个纸牌游戏，写出一个 Windows 版本。根据 Cherry 本人的说法，他写的游戏代码"没有什么特别之处"，并不比其他纸牌游戏更好。对他来说，这个软件最特别之处仅仅在于，纸牌背面的图案由他的女友 Leslie Kooy 绘制。
+
+被问到开发这个游戏最困难的是什么，他说是游戏胜利后纸牌不断弹跳的场景。
+
+暑期实习结束时，他将自己的纸牌游戏放在一个微软内部的服务器上，然后又回到了大学。
+
+几个月后，微软的一位产品经理发现了这个游戏。当时，微软已经开始寻找即将推出的 Windows 3.0 的内置游戏，他们决定把这个纸牌游戏放进去。对这个游戏进行了测试之后，他们让 Wes Cherry 解决发现的各种错误，报酬是一台全新的计算机。
+
+1990年5月，Windows 3.0发布时，纸牌游戏包括在内。这个游戏很快就风靡全球，成为人们最常玩的电脑游戏，直到今天还是如此。微软很快就宣布，它是"最常用"的 Windows 应用程序。全世界办公室的咖啡时间和休息时间，都有人在玩这个游戏。1994年，华盛顿邮报的一篇文章半开玩笑地说，这个游戏正在播下"美国资本主义崩溃"的种子。2007年芬兰的一项研究发现，它是36％的女性和13％的男性最喜欢的游戏，没有其他任何游戏接近这些数字。
+
+Wes Cherry 是上班时间在微软办公室开发这个游戏，因此知识产权属于微软。他创造了历史上最受欢迎的电脑游戏，但是除了一台免费电脑之外，他从来没有得到任何报酬。他说他不介意。他早已离开计算机行业，现在西雅图附近的 Vashon 岛拥有并经营一家苹果酒酿酒厂。
+
+## tech document writing theory
+
+写作技术文档的技巧
+
+https://blog.stoplight.io/writing-documentation-when-you-arent-a-technical-writer-part-one-ef08a09870d1
+
+用户阅读网页内容的热力图是下面这样。
+
+这就是说，用户以 F 状的方式阅读网页，先看前三行，然后垂直向下阅读，只看每一行的前几个字。
+
+所以，写作的时候，应该注意下面几点。
+
+第一段和第二段必须给出最重要的信息，而且第一句话最重要。
+标题、段落、列表的开头，都应该立即给出信息。
+通过字型的变化（大小、黑体、链接），把用户的注意力吸引到重点句子。
+
+## jslint dont be evil quote
+
+我把许可证授予 IBM、它的顾客、合作者和下属公司，允许他们使用 JSLint 做坏事。
+
+-- JSLint 许可证写着："这个软件只能用于善事，不得用于邪恶"。由于善和恶的含义很难准确定义，IBM 公司的律师要求找到开发者 Douglas Crockford 要求给予 IBM 特别许可，Douglas Crockford 就在许可证里面加了上面一行。
+
+## goods buying extra costs quote
+
+我们购买任何商品时，支付价格不包括商品的全部成本。我们没有支付商品回收处理的成本，也没有支付修复环境的成本，更没有支付应对生产过程中排放的二氧化碳的成本。换句话说，每一件商品里面都包含后代支付给我们的大量补贴。
+
+-- 一个读者对各国政府没有有效控制温室气体的评论
+
+https://news.ycombinator.com/item?id=17900833
 
 ## 
 

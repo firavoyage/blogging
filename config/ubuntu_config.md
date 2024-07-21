@@ -163,7 +163,8 @@ sudo sed --in-place 's/NoDisplay=true/NoDisplay=false/g' /etc/xdg/autostart/upda
 ```
 fcitx5
 code
-endeavour //removed
+vlc media player //play bach music
+endeavour //removed,weekly todo list moved to a markdown file in code
 ```
 
 # files
@@ -571,7 +572,7 @@ sudo snap install kdenlive
 sudo snap install krita
 sudo snap install obs-studio
 sudo snap install qbittorrent-arnatious
-sudo snap install shotcut --classic
+sudo snap install shotcut --classicDD
 sudo snap install telegram-desktop
 sudo snap install thunderbird
 sudo snap install v2raya
