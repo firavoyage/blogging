@@ -8,7 +8,7 @@
 > instead,i unified some similar words in the titles
 > tutorial tricks wiki document guide -> guide
 > implementation explanation style theory -> theory
-> library list collection repository -> repo
+> library list collection repository -> library
 > vintage legacy golden nostalgia reminiscent retro -> retro
 > -> quote,-> story,-> ...
 > those not included are most probably life moments or bbs posts
@@ -49,7 +49,7 @@ Chrome DevTools 的一些使用技巧
 
 https://flaviocopes.com/chrome-devtools-tips/#drag-and-drop-in-the-elements-panel
 
-## all algorithms repo
+## all algorithms library
 
 代码仓库 Cosmos https://github.com/OpenGenus/cosmos
 
@@ -546,6 +546,144 @@ https://blog.stoplight.io/writing-documentation-when-you-arent-a-technical-write
 -- 一个读者对各国政府没有有效控制温室气体的评论
 
 https://news.ycombinator.com/item?id=17900833
+
+## poverty passing research
+
+很多人都说，当今社会趋向阶级固化，贫穷世袭。这种说法有根据吗？
+
+纽约大学的社会学家就做了一次调查，企图给出实证数据。最近，他们公布了结果。
+
+社会学家按照收入，把所有美国的职业分成100个等级。收入最高的职业为100分，收入最低的职业为1分。在这个体系里面，医生是93分，空姐是53分，擦鞋工是9分。
+
+一共调查了2万多个人，结果发现，子女的等级与父母的等级，呈现明显的正相关。如果父母的职业在76分以上，子女的职业往往也是这个等级；如果父母的职业在25分以下，子女很可能也是如此。概率在50%以上。
+
+调查报告写道：
+
+"人们总说，美国是一块充满机会的大陆。事实并非如此，美国人的职业发展，最大的决定因素可能是父母。"
+
+注意，这是美国的调查结果，那个地方号称有"美国梦"，人们相信奋斗就能改变人生。如果在中国调查，我想正相关肯定更明显，父母因素的决定性将更大。一个表现就是，由于太缺乏改变人生的正常途径，才导致我们这里任何可能暴富的东西，都异乎寻常的流行，比如彩票、传销、互联网金融和加密货币。
+
+## big companies programming language history
+
+HHVM 结束支持 PHP
+
+脸书的 HHVM 编译器宣布，结束支持 PHP，以后只支持脸书自已的 Hack 语言。
+
+现在不好判断这对PHP有什么影响。很清楚的一点是，大公司越来越倾向于用自己的语言：谷歌有go和dart，苹果有object-c和swift，微软有.net和TS，脸书有Hack。
+
+## retro design history museum 
+
+网页设计博物馆
+
+https://www.webdesignmuseum.org/all-websites
+
+https://www.webdesignmuseum.org/apps
+
+该博物馆展出了900多个精心挑选和分类的网站，展示了1995年至2005年间的网页设计趋势。上图是苹果公司2001年的主页。
+
+## death reminder twitter
+
+死亡提醒
+
+《乔布斯传》提到，古罗马时代，将军凯旋都会举行胜利大游行。为了提醒将军不可得意忘形、勿忘心存谦卑，背后总有仆人负责不断对他喊"人终有一死"。
+
+现在有人做了一个推特账号 @death_reminder ，每天向你发一条死亡提醒。
+
+## html input label unfamiliar attributes 
+
+input 元素的三个属性（英文）
+
+https://dev.to/stefanjudis/three-input-element-properties-that-i-discovered-while-reading-mdn-30fg
+
+HTML 网页的 input 元素有几十个属性，本文介绍其中三个开发者比较不熟悉的属性。
+
+## google graveyard history
+
+谷歌放弃的产品
+
+https://www.lemonde.fr/pixels/visuel/2018/09/05/google-memorial-les-projets-abandonnes-par-google-depuis-vingt-ans_5350679_4408996.html
+
+谷歌推出了很多产品，许多后来都放弃了。这个网页列出所有被谷歌放弃的产品，目前有70个。
+
+## retro data visualization in 1985
+
+1985年的数据可视化
+
+https://medium.economist.com/data-visualisation-from-1987-to-today-65d0609c6017
+
+1985年个人 PC 刚刚诞生，那时报纸上的饼图都是手绘的。
+
+## better boolean variable name theory
+
+编程小知识
+
+https://twitter.com/samantha_ming/status/1043578525339418624
+
+如果变量是一个布尔值，变量名最好加上 is、has 或 can 作为前缀（见下图）。
+
+## just make a few quality decisions quote
+
+作为一个决策者，你的职责不是做出很多决定，而是只需做出几个高质量的决定。
+
+如果我每天做出三个不错的决定，就很满意了。巴菲特说，他的一年就是做对三个投资决定。
+
+-- 贝佐斯，亚马逊公司创始人
+
+## fast loading web page theory
+
+v8.dev
+
+https://v8.dev/
+
+v8 引擎新的官方网站。为了体现 v8 高效快速的特点，这个网站故意做得很简单，能够快速加载。
+
+## code to image web app
+
+Carbon
+
+https://carbon.now.sh/
+
+将代码保存成图片的开源服务，可以用来上传到社交媒体。
+
+## mobile app portray satirical quote
+
+https://twitter.com/nixcraft/status/1040536061590622208
+
+很多手机应用，就是上面这张漫画，说是整个社会的写照也可以：以安全名义把用户信息都留住，同时把用户隐私剥个精光。（via 推特@nixcraft）
+
+## waste time developing indie game story
+
+我已经投入了2,600多个小时，编写了62,176行代码（主要是C ++）。该游戏的收入为27.92美元，每小时收入约0.01美元。
+
+-- 一个游戏开发者。他用了三年，独自一人开发游戏，放到 Steam 平台销售后，只有四个人购买。现在，他不得不考虑放弃这个游戏，这意味这三年时间都白费了。
+
+https://store.steampowered.com/app/1090060/Weapon_Hacker/
+
+## calm down at work quote
+
+Basecamp 是 IT 行业很有名的一家公司，提供团队协作工具，同时也是 Rails on Ruby 框架的创造者。这家公司的特别之处在于，它不仅写软件，还写畅销书！
+
+它的两位老板喜欢写书，已经出版了三本----《Rework》、《Getting Real》和《Remote》----每一本都卖得很好。最近，他们又出版了第四本《工作何必疯狂》（It Doesn't Have to Be Crazy at Work，见上图）。
+
+https://basecamp.com/books/calm
+
+这本新书的主要观点是，IT 行业的员工加班（或者说投入工作的程度），已经超过了合理标准，接近于疯狂，应该得到遏制。很多软件工程师每周的工作时间已经达到了60小时，甚至70、80小时。除了工作和睡眠，生活几乎没有其他内容。作者认为，这是错误的。
+
+加班真的是 IT 行业的日常。国内有过一个《2016 年 IT 公司加班时间排行榜》，排名前三位的分别是华为、腾讯和阿里，平均每天的加班时间分别为3.96小时、3.92小时和3.89小时。
+
+是不是一定要那么多加班？这本书说，也不是。加班多的一个因素是，公司没有好好珍惜员工的时间，打断工作的事情特别多，最典型的举措就是开放式办公室，使得人们互相干扰。员工因此不得不加班，因为在正常时间内无法完成工作。作者认为，公司应该创造条件，让员工全身心投入工作，不要拖到夜深人静时才能没有打扰。
+
+许多公司似乎都很擅长浪费：浪费时间、注意力、金钱、精力。每周60、70、80的工作小时中，有多少是真正用于工作本身的？又有多少时间是在会议中浪费掉的，或被各种琐事打断的？大部分吧。
+
+答案不是更多的时间投入，而是减少浪费，减少员工的注意力分散，减少那些引起焦虑和压力的事情。
+
+同时，这本书也指出，IT 公司的工作任务也确实过多：无休止的需求、不断的营销活动、精确到小时的排期，都给工程师带来了焦虑和压力。普通的行业，用户一年增长一倍，绝对是值得庆祝的，但是 IT 行业不行。这个行业渴望的是一年增长十倍，甚至百倍，要的是从0变成独角兽的那种速度。
+
+作者说，我们要一定要这样吗？IT 行业对高速增长有一种不健康的痴迷。正是这种痴迷，使得人们产生不切实际的期望，导致从业者精疲力尽。
+
+这本书的主张是，软件行业也可以是一个平静的行业，而不一定像现在这样，是一个加速再加速的行业。平静才是长期可持续发展的关键。（注意，这里不是指公司，公司只要不断雇佣新人，就可以让工作永远加速运行。但是员工不行，人的生理和心理都不是可以长期透支的。）
+
+过去的18年里，我们一直致力于让 Basecamp 成为一家平静的公司。我们不提出不可能的承诺，不追求高额的营业额，不设置最后期限，不人为制造繁忙的工作和系统性的焦虑。有些项目似乎永远不会结束，我们觉得也 OK。
 
 ## 
 

@@ -2169,9 +2169,8 @@ english "Inzakuma shines external!"
 - removeEventListener `notWhen`
 - setTimeOut `wait`
 - clearTimeOut `notWait`
-- document.querySelector `document.element`
-- document.querySelectorAll `document.elements`
-- document.createElement `document.new`
+- document.querySelector `document.select`
+- document.querySelectorAll `document.selectAll`
 
 然后在用上firascript
 太舒服了qwq...
@@ -2417,6 +2416,10 @@ https://github.com/tauri-apps/awesome-tauri
 
 在写一本小说,关于一个男孩的故事,他的童年,占了人生的一半
 我要这么写,不知道你们爱不爱看...
+
+有人说,这些表达太个人化了,我也觉得,就不说了.
+
+
 
 
 

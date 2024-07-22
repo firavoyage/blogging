@@ -21,8 +21,9 @@
   - life-size pillows
   - camphor wood bars
   - flowers and greenery
+  - new national debation
   - pure math
-  - web dev
+  - web app dev
 -
   - johann sebastian bach
   - joseph haydn
@@ -58,7 +59,6 @@
   - interpreter gavin
   - spicy century egg porridge
   - paperclip
-  - new national debation
   - unfettered idle man
   - forever naive taffy
   - orient snowy lotus
@@ -77,12 +77,13 @@
   - warspite
   - taiho
 -
-  - azurlane
   - honkai star rail
   - honkai impact third
   - houkai gakuen second
   - genshin impact
   - zenless zone zero
+  - azurlane
+  - blue archive
   - brawl stars
   - clash royale
   - soul knight
@@ -222,8 +223,8 @@
 
 ## pages here
 - people
-  - nat
   - livid
+  - nat
   - ruanyf
   - yinming
 - ideas

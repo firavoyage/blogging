@@ -108,9 +108,16 @@ good generated examples
 
 - `pepper` alway live
 > fav livestreams never stop
-  - all platforms,free of distractions 
+  - all platforms,distraction free 
 like simplelive
   - watch replays like watching live
+
+- `berryberry` redesigned video app
+> wow
+  - stat nums to rate
+  - progressive loading
+  - distraction free
+  - by voyage
 
 - `float` music undisturbed
 > songs in solitude
@@ -119,7 +126,7 @@ songs index from search engines
 source from popular music sites and video sites
 work with albums and lists
 powered by webview and nodejs
-  - distractions free
+  - distraction free
 no comments,clubs,communities,lives...
 away from the hustle and bustle of modern internet
   - transparent recommendation
@@ -227,7 +234,7 @@ straw man
   - criticism to the reality
 
 - `pure` my desired math courses
-> difficulities with great simplicity "三言两语,举重若轻."
+> difficulities with great simplicity "三言两语,举重若轻." "纯度数学" "算术莽夫"
 > -> /pure
   - simplicity
 most online courses are overstuffed
@@ -271,7 +278,7 @@ everyday words the same
 only one button,next
   - white list
 spell ok twice then pass
-  - free of distractions
+  - distraction free
 choose a words book
 then start learning right after app launch
   - all platforms
