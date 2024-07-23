@@ -70,15 +70,17 @@
   - longbow flintlock
 -
   - sparkle
-  - fuxuan
-  - clara
   - keqing
-  - kaedehara kazuha
+  - clara
+  - fuxuan
+  - herta
   - nahida
-  - billy kid
+  - kaedehara kazuha
+  - xingqiu
   - kasugano sora
   - warspite
   - taiho
+  - billy kid
 -
   - honkai star rail
   - honkai impact third
