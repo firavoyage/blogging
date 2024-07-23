@@ -44,9 +44,16 @@ hotkey for every commend like code
   - markdown based
 not just inputting vehicle but files type
   - various styles
-to mindmap treeview venn
+mindmap treeview venn
+  - base on pwa
+install web app,then use it local
+so cross platform ok
   - themes
 powered by voyage
+  - inspired by
+process on
+xmind
+drawio
 
 ## create
 
@@ -68,8 +75,14 @@ magic of tonning
 
 - `workshop` origin of posters and memes
 > choose template,add design elements,export
-  - used by influencers
-chinadaily
+  - easy to use
+like keynote but for cover/poster/banner making
+  - all images are templates
+save editable files
+  - everything local
+files,not cloud resources
+files in json,opensource format
+  - based on web
 
 - `crickets` human-like viewer
 > auto comment bot "促织"
@@ -79,6 +92,9 @@ more than 30days -> "爷关更"
 "枫原万叶" -> "心至空处,天地万物..."
   - by publisher
 "mihoyo artists" -> "申鹤重云了"
+"doujin artists" -> "迟b片" "有技兄这"
+  - by fans
+more than 10k -> "捉,大师球"
 
 - `gen` image generator gone crazy without neutral network
 > libraries and highly abstracted scripts
@@ -321,50 +337,62 @@ arc language
 js20
 js30
 js50
-  - fson
-firascript object notation
   - wip
 
 - `voyage` opensource design platform
 > designs to elegant programs
   - color themes
 dracula official
-monokai pro
 one dark pro
+monokai pro
   - app component systems
-material
-yaru
+design.google
+material.io
+plaintxt.org
+jrsinclair.com
+2018.stateofjs.com
+ubuntu yaru
+ruanyf blog
+sr
 hi
 hg
 gi
-sr
-zzz
-al
-ba
-ark
-r1999
-fgo
-  - blog component systems
-ruanyf blog
+zzz (relaxing retro city style)
   - components binding
-rethink popular apps:not just css
+rethink popular apps & not just css
 digdog
 berryberry
 snapcat
 zoombie
 ganstagram
-pickduckduck
 
 - `voyage.js` build with elegance
 > components and data
   - methods
-parse(fson)
+parse(obj)
 bind(el)
 get(prop)
 set(prop)
   - implementation
 components: bind data
 structure: pass data
+  - type
+voyage element
+```
+{tag "div" attr {style "" count ""} inner [element element]}
+```
+voyage component
+```
+{tag "div" attr attrfn inner [fn1 fn2]}
+```
+  - data
+based on voyage element obj type
+first,define components(json in voyage component type,with functions)
+e.g. icons,buttons(incl icons),pages(incl buttons),app(incl pages)
+then,give data to components,get element(json in voyage element type)
+e.g. render app,call functions incl pages,buttons,icons,get html element
+finally,render element,get html node(html node obj)
+ok,you can append the app node to document body
 
 ## channel
 

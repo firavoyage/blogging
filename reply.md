@@ -1024,7 +1024,7 @@ unused
   - chenshiyu //1998,waifu instead of sensei,play our video games,low saturation ppt,writing noskill,2016 shanghai uee -> shanghai normal school,2022 -> djhs,teached "last session" students
   - wangzhaohai //1960s?,variable substitute & function image master,one with humor & enthusiasm,phone bell "五十年以后"
   - lujianhong //1980s?,studied in us,stories of students taught,one with idioms and foreign culture
-  - jiangzhijun(6-21) //greatest competitor of grade #1
+  - jiangzhijun(6-21) //greatest competitor of grade #1,chess go master5,spent over 1000y in brawlstars cn server
   - lvfuyuan //math god with obesity
   - wangxiaofeng dixuchen //nsfw humor and acg lover
   - dixuchen //nsfw and adolescent conceit
@@ -2418,6 +2418,26 @@ https://github.com/tauri-apps/awesome-tauri
 我要这么写,不知道你们爱不爱看...
 
 有人说,这些表达太个人化了,我也觉得,就不说了.
+
+## to raise a child quote
+
+20年后,孩子的说
+希冀&渴望
+男孩子,最喜欢xingqiu了
+女孩子,最喜欢herta了
+
+## frontend status quote
+
+前端从业者,行情不佳
+前端行业,蓬勃发展
+不矛盾的.
+
+## give up frontend framework quote
+
+"react,你太重了!"
+不喜欢前端框架.
+如果祂有10000行代码,而我只要1%功能
+或许只需要100行,这不难做到.
 
 
 

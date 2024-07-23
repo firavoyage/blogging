@@ -102,6 +102,14 @@ resultactive=yes
 > -> tmpfile&trash
 - config `auto delete files after 30days`
 
+# backup
+> -> preferences
+- config storage `local folder:backup`
+- config schedule 
+  - backup automatically `on`
+  - frequency `daily`
+  - keep `forever`
+
 # fonts
 - install fonts
 > -> git/fonts

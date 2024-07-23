@@ -87,6 +87,24 @@ market research
 - 派蒙科普
 - ...
 
+## intro
+
+alias:tldr,snap,quicklook
+
+失恋怀旧走马灯
+
+几页演示,大图大字,寥寥片语
+
+## takeaway
+
+alias:cheetsheet,conclusion,summary
+
+frontend flex/grid layout cheetsheet
+
+前端css布局参数表
+
+几张a4纸
+
 ## links
 
 个人地,我喜欢github和telegram

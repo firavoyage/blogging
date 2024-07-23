@@ -8,10 +8,16 @@
 > instead,i unified some similar words in the titles
 > tutorial tricks wiki document guide -> guide
 > implementation explanation style theory -> theory
-> library list collection repository -> library
+> lists database library collection repository -> library
 > vintage legacy golden nostalgia reminiscent retro -> retro
 > -> quote,-> story,-> ...
-> those not included are most probably life moments or bbs posts
+> those not included are most probably just another bbs post
+> (fira,20240719)
+
+> after reading 30 issues,i discovered my interest
+> selected:creative apps,startup quotes,developer stories,design theory,programming guides,resource libraries
+> others:novel hardwares,biological or astronomical researches,prove of concept programming tools,business news
+> (fira,20240723)
 
 ## ruanyf weekly mission
 
@@ -685,7 +691,571 @@ https://basecamp.com/books/calm
 
 过去的18年里，我们一直致力于让 Basecamp 成为一家平静的公司。我们不提出不可能的承诺，不追求高额的营业额，不设置最后期限，不人为制造繁忙的工作和系统性的焦虑。有些项目似乎永远不会结束，我们觉得也 OK。
 
+## tech document writing guide
+
+如何撰写技术文档（英文）
+
+https://www.divio.com/blog/documentation/
+
+技术文档（documents）分成四种：教程（tutorial）、指导（guide）、解释（explanation）和参考（reference）。本文解释了每一种文档的特点，并给出了写作建议。
+
+## san francisco travelling programmers story
+
+湾区就是新的矿场
+
+https://pedestrianobservations.com/2018/09/24/the-mines/
+
+19世纪时，美国社会有一个流行的现象。许多年轻人离乡背井，为了得到高薪，去遥远的西部矿场挖矿。在那里工作几年，就可以赚取足够的钱，回家娶一个老婆。矿场的生活是非常艰苦的，条件很差，这也是矿主支付高薪的原因，否则没人愿意来。
+
+20世纪时，这种现象变成了石油行业。石油钻井平台通常都在偏远地区，有的还是在沙漠和海洋里。石油工人可以得到高工资，代价是恶劣的生活条件，以及远离家庭的孤独。
+
+现在，这种现象变成了 IT 行业。年轻人为了高薪，来到湾区当程序员，同样过着艰苦的生活。我听说，旧金山的一间卧室里面，居然住了好几个大学毕业生，因为旧金山双居室公寓的租金是5500美元/月。有些谷歌的雇员也是合住，而且地理位置也不好，离交通干线很远。
+
+很多人把湾区看成新时代的矿场。IT 行业的工资比其他行业高，那些外来的程序员，计划是省钱，忍受一段时间的恶劣生活，然后在30多岁退休，再去低成本城市工作并在那里开始家庭生活。
+
+## startup simulator game web app
+
+创业公司
+
+http://thefounder.biz/
+
+一个网页游戏，玩家是创业公司的创始人，模拟经营这家公司，完成各种任务。
+
+## silicon valley gamer quote
+
+我有时觉得，硅谷是一个游戏，每个玩家有10年时间。在这10年里面，如果你发财了，就赢得了游戏，否则你就出局，必须离开硅谷。
+
+-- Florent Crivello
+
+https://florentcrivello.com/index.php/2018/09/25/go-west-young-man/
+
+## steve jobs passion quote criticism
+
+2005年，斯坦福大学邀请乔布斯在毕业典礼演讲。这个演讲后来成为经典，《乔布斯传》说"或许有些演讲对后世影响更大，但是你找不到（比这篇）更好的演讲。"
+
+演讲中，乔布斯说了一段有名的话。
+
+"你们的时间有限，所以不要把它浪费在过其他人的生活。最重要的是，你要有勇气跟随你的内心和直觉。某种程度上，它们已经知道你真正想要成为什么样子。其他所有事情都是次要的。"
+
+这段话后来被称为"热情假设"，很多人都引用它鼓励年轻人：寻找职业方向的时候，要跟随内心的热情（passion），去做那些你有强烈意愿从事的工作。
+
+但是，美国最近出版了一本新书《优秀到无法忽略》（《So Good They Can't Ignore You》），声称乔布斯的这个建议是完全错误的，误导年轻人。别的不说，乔布斯本人也不遵守"热情假设"。年轻时，他对禅宗思想最感兴趣，去印度学习佛教。如果他真的追随自己的内心，他就应该去当一个禅宗老师，而不是跑回美国创办苹果公司。
+
+这本书认为，以下几个原因导致"热情假设"不是一个好的建议。
+
+第一，热情真的很罕见。大部分人都对自己的工作没兴趣，而是对某种爱好（比如打球、钓鱼）有兴趣。如果大部分人都找不到自己的职业热情，你怎么能叫他们去追随热情呢？
+
+第二，热情需要时间来建立。许多人刚开始工作的时候，对自己的职业并没有兴趣，随着时间积累，他们的经验越来越多，能够掌控的东西越来越多，这才慢慢开始热爱自己的工作。找工作阶段，你可能根本不会意识到这个职业就是你的热情所在。
+
+第三，过度强调热情，容易对现状产生不满。2010年的一项调查发现，只有45％的美国人对自己的工作满意。由于很多人相信，无法产生热情的工作不是好工作，导致对职业生涯抱有不切实际的期望，对现有的工作不满意，不断跳槽。
+
+这本书提出，热情不是凭空产生的，它跟自主权有关。如果你在某个职位上的自主权越大，能够掌控的东西越多，就越容易对当前的职业产生热情。与其强调跟随内心的热情，不如强调如何在某种职业里面获得自主权。你必须使自己变得优秀，让别人无法忽视你，同意让你掌控更多的资源，这就是书名的含义。
+
+## google search text adventure console game
+
+谷歌搜索的彩蛋
+
+https://www.rockpapershotgun.com/2018/09/29/recently-discovered-google-easter-egg-is-a-browser-based-text-adventure-game/
+
+国外用户发现了一个谷歌搜索的彩蛋，搜索 text adventure 后，打开开发者工具，会看到提示，问你要不要玩游戏。回答 yes，就可以开始玩了。
+
+这是一个文字游戏，探索加利福尼亚州山景城的谷歌总部。玩一次游戏，走完整个过程，大约需要30分钟到一个小时。
+
+## fruit that isnt orange meme
+
+不是橙色的水果
+
+https://hashtag.ai/blog/2018/09/23/fruit.html
+
+如果你在搜索引擎里面，搜索"不是橙色的水果"，结果会恰恰相反，返回的都是橙色的水果。这证明，搜索引擎目前都是基于关键词，而不是语义搜索。
+
+## instagram startup history quote
+
+最早，我们做的是一个地理位置应用，人们到了一个地点，可以签到和发照片。我们发现，人们对位置不太在乎，只是希望将照片放在那里。
+
+后来，由于发展得不好，我们决定简化功能，只保留照片、评论，以及给照片标识位置，应用的名字改成了 Instagram。
+
+-- 《Instagram 的故事》
+
+## tech is knowledge or not quote
+
+第24期时，我引用了一个开发者对年轻程序员的告诫。
+
+在软件开发中，技术变化如此之快，你花费了大量时间学习技术和工具，一旦这些技术被取代，你的知识将变得毫无价值，因为它们大部分都是实施的细节。
+
+我最近总是在想这段话，软件开发算不算是真正的知识？
+
+如果它是一种真正的知识，那么理论上，我们学到的东西大部分应该不会过时，就好像微积分不会过时一样。可是实际上，我们都知道，软件开发技能有时效性，十年前学习的编程知识，十年后几乎肯定不能用于生产。那样的话，软件开发就不能算真正的知识，只是一种实施的细节。
+
+公司旁边有一家税务所，每天都有很多人排队交税。如果你是第一次来交税，肯定搞不清楚怎么交，交税是一门学问，必须有人教你，要带哪些证件，要填哪些表，去哪些窗口排队等等。
+
+我现在认为，学习编程跟学习交税是一样的，都是学习实施的细节。一旦外部环境变了，原来的实施细节就没用了。当代编程由于层层的抽象和封装，我们已经不必接触底层真正具有通用性的知识了。大部分时候，所谓编程就是在写某个抽象层的配置。比如，网页样式就是在写 CSS 配置，你很难说这到底是真正的知识，还是像《办税指南》那样的实施细节。
+
+实施细节并不是知识，而是操作步骤。如果技术栈发生变更，实施细节就会毫无用处。但是，你又不能不学习它，不知道实施细节，就没法做出项目。我觉得，程序员应该要警惕，不要落入实施细节的陷阱，不要把全部精力花在实施细节上面，然后以为自己学到了真正的知识。对待各种语言和工具，正确的态度应该是"进得去，出得来"，既要了解足够的细节，也要能够站在宏观的角度看待它，探寻底层到底是怎么实现的。
+
+## youtube best channels library
+
+Youtube 资源
+
+https://www.bestyoutubechannels.info/
+
+该网站列出分类的最受欢迎 Youtube 频道。如果你不知道 Youtube 上看什么，可以浏览一下这个网站。
+
+## sense of probability
+
+感知概率
+
+http://blog.sciencenet.cn/blog-420554-1139743.html
+
+平时在交谈中，我们会使用"可能"、"很可能"、"极有可能"、"大概"、"不肯定"、"不太可能"等等词语来描述一个事件的可能性。但是，这些词语到底表示多大的概率？每个人都有不一样的理解。
+
+比如，有的人心目中，"可能"就意味着50%的概率，"很可能"就意味着70%的概率，而"不太可能"就是30%的概率。另一些人可能会认为，"很可能"应该是75%的概率。
+
+耶鲁大学教授谢尔曼·肯特（Sherman Kent）做过一个统计调查。他询问许多人，将得到的数据做成了下图，给出了每一个用词所代表的概率区间。
+
+https://www.wangbase.com/blogimg/asset/201810/bg2018102615.jpg
+
+可以看到，在他的调查中，"probable"、"likely"、"probably"和"we believe"的区间都大约是62-85%。
+
+有人在reddit上重新做了一次统计，然后用R语言程序计算出每个短语的箱形图（box plot），再用ggplot2绘图包制作出漂亮的图表。
+
+https://www.wangbase.com/blogimg/asset/201810/bg2018102616.jpg
+
+https://www.wangbase.com/blogimg/asset/201810/bg2018102617.jpg
+
+## make a tool before a network quote
+
+先工具，后网络。（Come for the tool，stay for the network.）
+
+-- 创业家@cdixon提出，个人或小型创业公司的产品，起先应该是工具，有了足够的用户以后再向网络方向发展。
+
+http://cdixon.org/2015/01/31/come-for-the-tool-stay-for-the-network/
+
+## complex programs show a complex company quote (conway'law)
+
+1968年，计算机学家梅尔文·E·康威发表了一篇著名论文，后来被称为康威定律（Conway's law）。
+
+"软件系统的架构，反映了公司的组织结构。"
+
+这个定律说，公司的行政组织架构，会反映在软件产品之中。举例来说，如果四个小组一起写编译器，那么这个编译器内部一定会分成四个环节。很多实证研究，都证实了这个定律。
+
+为什么这样？原因是大公司里面，主管的地位主要取决于他的团队规模和预算。团队越大、预算越多，主管在公司里面的地位就越高，这就是为什么主管都会争取尽可能大的团队和预算。问题在于，团队变得越来越大时，你不得不做出安排，让每个成员有事可做。因此，当团队的所有人都在做一个项目时，随着组织结构的膨胀，软件的架构不得不跟着膨胀，以容纳所有的人手。
+
+根据康威定律，大公司的大型项目一定会有复杂架构，哪怕这种架构可能是不必要的。另一方面，许多程序员崇拜复杂性，认为软件越复杂，表示作者的能力越高。这
+
+https://www.innoq.com/en/blog/do-we-worship-complexity/
+
+导致了这样一种状况：大公司（比如阿里腾讯）由于组织架构复杂，会做出复杂软件，然后大家认定，软件必须那么复杂，为了向业内前进水平看齐，自己的软件也必须模仿他们的复杂性。这种想法是不对的，仅仅因为阿里腾讯那样做，并不意味着你也应该那样做，他们无法摆脱复杂性，并不意味着你也需要那种复杂性。
+
+## the cease of android history
+
+安卓品牌的消失
+
+https://9to5google.com/2018/10/11/the-dirty-word-android-dead-made-by-google/
+
+有人注意到，10月9日的谷歌新品发布会上，谷歌一次也没有提到安卓。它主推的是 Pixel 3 手机和 ChromeOS 设备，底层的安卓系统根本没提。甚至可穿戴系统 Android Wear，都重新命名为 Wear OS。
+
+有人因此猜测，谷歌可能只想把安卓作为一个技术名词，而不想向普通消费者推广这个品牌。因为无数厂商都生产安卓手机，谷歌自家的产品无法体现出差异。另外，跟 iPhone 相比，安卓这个词往往让人联想到低档手机。回顾历史，2017年新品发布会提到了一次安卓，2016年提到了六次。当然，面向开发者的谷歌 I/O 2018大会提到了无数次安卓。
+
+## sites lite version library
+
+轻量级网站列表
+
+https://github.com/mdibaiee/awesome-lite-websites
+
+很多网站有一个轻量级版本（lite version），这个仓库收集这些网站的清单。
+
+## lost computer science quote
+
+失传的计算机科学
+
+http://rubyhacker.com/blog2/20150917.html
+
+如今的程序员与上一代不一样。计算机科学是一个艰深的领域，但是如今成千上万的程序员，可能根本没有受过正式的计算机教育。
+
+由于开发程序变得容易了，一个人可以在知道很少的情况下完成小型程序。但这也意味着，这个人可能永远也不会写大程序。这个行业里面，你只要学会5％的东西，可以完成简单的工作，就可以谋生了。
+
+我是在上个世纪80年代学习编程的。现在的编程就有点像，一个赛车手将一个孩子抱在他的腿上，孩子说"好吧，我也可以开车。每个人都可以开车。你只需按下绿色按钮。"
+
+当然，在我之前几代人以同样的方式看着我。20世纪40年代，你必须拥有电气工程学位才能看到或触摸电脑。在70年代和80年代初，你只要是科学或工程专业就可以了。
+
+你想做一个什么样的程序员，完全取决于你真正想做的事情。如果您想制作网站，那么你不需要计算机科学学位。甚至不需要学位。如果你想制作一些前所未有的令人兴奋的精彩内容，如果你想在行业中做出微小的改变并稍微改变世界，那么你确实需要那个学位。
+
+或者换一种方式看待它：如果你想建造狗屋，只需用锤子和钉子。如果你想成为一名设计和建造摩天大楼的建筑师，那么首先要获得建筑学位。但请不要明明在建造狗屋，你却称呼自己为建筑师。
+
+## best autoreplies quote
+
+自动回复
+
+https://www.optiweb.com/best-autoresponders/
+
+某人为工作邮箱设置了自动回复。
+
+"本人休假中，有问题请去找谷歌。"
+
+## math abstract art library
+
+Sol LeWitt
+
+http://solvingsol.com/
+
+Sol LeWitt 是一个美国画家，但是他根本不作画，而是用语言描述自己的画，让别人画出来。
+
+现在，有人做了一个 JS 库，专门用来根据他的描述，生成画作。
+
+比如，第17号作品（1969）。
+
+四部分的绘画，每个部分具有不同的线条方向。
+
+第46号作品（1970）。
+
+垂直线条，不直，不接触，均匀覆盖墙壁。
+
+第 56 号作品（1970）。
+
+在水平和垂直方向上分成四个相等的正方形，每个正方形在四个方向上逐行叠加。
+
+## successful capitalist entrepreneur quote
+
+我是一名成功的资本家，但是我厌倦听别人说，像我这样的人创造了就业机会。其实，唯一创造就业机会的是客户。我们一直压榨工人，导致他们没有财力成为我们的客户。
+
+-- 创业家 Nick Hanauer，他参与创立的 aQuantive 公司，2007年被微软以60亿美元收购。
+
+## leaving google after holidays quote
+
+长假回来时，我意识到，一群我不知道是谁的人，正在告诉我做一些我不关心的事情。我觉得是时候离开了。
+
+-- Gmail 创造者 Paul Buchheit 谈为什么离开谷歌
+
+## character of a company quote
+
+上个月谷歌宣布，社交应用 G+ 将在10个月后关闭。
+
+https://www.blog.google/technology/safety-security/project-strobe/
+
+主要原因有两个。一是缺乏用户，90%的用户会话短于5秒；二是有安全漏洞，近50万用户资料存在泄露风险，虽然没有证据表明黑客发现了这个漏洞。
+
+谷歌是世界最大的互联网公司，资金和技术都不是问题，所有底层产品几乎都是业内最强：人工智能、搜索、邮件、地图、照片、云盘、在线办公......按理说，G+ 没有理由失败，谷歌只要把底层产品组合一下，就没人打得过。可是，G+ 就是做不起来。谷歌做过四个社交产品，全部失败了，这是为什么？
+
+几年前，一度有传言，Gmail 要并入 G+，提升后者的访问量，结果也没有实施。这多少反映了 G+ 不是谷歌的核心业务，公司并没有不惜一切代价投入。谷歌这家公司的兴趣，从来不在应用软件，而是在基础服务、底层算法、操作系统上面。我猜想，谷歌内部多多少少把 G+ 看作玩具，"发动态，加好友，这种玩意有多少难度？"，工程师和科学家更愿意去研究高难度的产品。这才是 G+ 失败的根本原因，谷歌从高管到基层，对社交产品都缺乏足够兴趣。不信你去看，谷歌没有一个高管，喜欢玩社交媒体。甚至谷歌工程师里面，很少有特别喜欢写博客的，Steve Yegge 算一个，但是他觉得谷歌不合适自己，辞职了。
+
+这件事情告诉我们，公司跟人一样，也有自己的兴趣爱好。倘若硬要去做那些没兴趣的事情，不仅内心煎熬，而且投入大量时间和金钱之后，最终还是难逃认赔离场的结局。
+
+## minecraft mud based home story
+
+泥浆打印的房屋
+
+https://newatlas.com/wasp-gaia-3d-printed-mud-hut/56777/
+
+一家意大利3D打印公司，发明用泥浆和稻草打印小屋。每间的成本只要1000欧元。上图中，外墙的水平纹路就是一圈圈打印出来的。点击标题链接，就可以观看小屋打印过程的视频。
+
+https://www.wangbase.com/blogimg/asset/201811/bg2018110906.jpg
+
+https://www.wangbase.com/blogimg/asset/201811/bg2018110907.jpg
+
+## concepts javascript programmers should know library
+
+33 个 JS 程序员需要知道的概念
+
+https://github.com/leonardomso/33-js-concepts
+
+按照主题，收集 JS 学习资源的仓库。
+
+## just one key value database on web theory
+
+irondb
+
+https://github.com/gruns/ImmortalDB
+
+irondb 是一个浏览器 key-value 储存的封装库，把 Cookies、IndexedDB、LocalStorage、SessionStorage 统一成一个接口。它的最大特色就是数据冗余机制，即使某种底层储存机制失效，它可以从其他机制恢复数据。
+
+## free mindmap web app
+
+Process On
+
+https://www.processon.com/
+
+免费在线作图，可以实时协作。ProcessOn 支持流程图、思维导图、原型图、UML、网络拓扑图、组织结构图等。（@wuzhenda_ _投稿）
+
+## the pros of javascript are actually cons quote
+
+JavaScript 的优点是可以写任何东西，缺点是你真的会用它去写这些东西。
+
+-- Reg Braithwaite
+
+https://twitter.com/CodeWisdom/status/1054713299386986496
+
+## behind the rise of housing prices quote
+
+房价不断上涨的前提是不断有新人加入，他们愿意并且能够支付越来越高的房价。房价上涨的本质是，年轻人愿意把自己的财富转移给老年人，当这些年轻人变老时，再有新的年轻人愿意给他们更多的钱。
+
+-- 《住房不是一项好的投资》
+
+http://cityobservatory.org/housing-cant-be-affordable_and_be-a-good-investment/
+
+## programmers think about retirement quote
+
+计算机科学家 Tim Bray 最近写了一篇博客，他觉得自己可能应该退休了。
+
+https://www.tbray.org/ongoing/When/201x/2018/10/25/On-Retirement
+
+他列出了下面几个理由。
+
+1、好多个早晨，我想继续睡觉，而不是起床。
+
+2、就算起床，我想做的第一件事，是去看新闻，而不是去工作。
+
+3、夏天到了，我想待在自己的度假小屋。
+
+4、工作时，我的强度依然很大，不比年青时差太多。但是，结束工作以后，我感到极累，有时候连说话的力气也没有。
+
+5、我越来越想做一些自己感兴趣的东西。它们肯定不会带来钱，但我毫不在意。
+
+我觉得，这几个特征也许可以作为测试标准，如果你也满足这几点，可能也到了应该考虑退休，去干一点其他事情的时候了。
+
+说到退休，这个问题对于程序员尤其有现实意义。因为程序员的退休年龄要早于其他行业，可能早早就会满足上面特征。
+
+为什么程序员退休比较早？原因很简单，程序员的工作强度大，技术更新快，几乎不可能像公务员那样，轻松悠闲得熬到六十几岁退休。程序员其实也是机器，而且是"被操得很猛"的机器。机器都有报废年限，一旦折旧完了，就要报废。使用强度越大，折旧越快，报废越早。普通汽车的折旧年限一般是十年，长途汽车的折旧年限就短得多。为什么很少看到高龄程序员，因为他们都被用到报废了。
+
+年轻程序员应该对自己的人生有一个规划。你的编程技能具有经济价值的年限是很短的，不可能一直在第一线编程的。折旧差不多以后，你的人生角色就会发生变化，应该多想想下一步要做的事情。
+
+## bus station waiting time survey fault quote
+
+等待时间悖论（英文）
+
+http://jakevdp.github.io/blog/2018/09/13/waiting-time-paradox/
+
+公共汽车的间隔时间为10分钟，那么平均等待时间应该为5分钟，但是如果进行抽样，你会发现抽样得到的平均时间为10分钟，这是为什么？简单说，原因就是等待时
+间越长的人，越容易被抽样到。
+
+## american freelancer stats
+
+美国的自由职业者达到5760万，三个劳动力里面就有一个自由职业者。技术使得找工作变得更容易，64％的自由职业者在网上找工作。
+
+https://www.upwork.com/press/2018/10/31/freelancing-in-america-2018/
+
+## oi wiki library
+
+OI-wiki
+
+https://github.com/24OI/OI-wiki
+
+收集编程竞赛的基础知识、常见题型、解题思路以及常用工具等内容。
+
+## crash course education library 
+
+crushcourse.club
+
+https://crashcourse.club/category
+
+Crash Course 是一个 Youtube 的教育频道。B站上面有很多翻译小组。他们组成了一个联盟防止翻译重复，并提供了索引。（@showerc 投稿）
+
+## morning writing quote
+
+许多有名的作家，都是每天早上安排3-4小时的写作，一天的其余时间进行散步、通信、午睡和其他智力要求较低的活动。
+
+--《早晨写作》
+
+https://www.gwern.net/Morning-writing
+
+## money is of best use to buy time quote
+
+金钱最有价值的用途就是购买时间。
+
+-- 有人提到，自己已经有不少钱了，但还是拼命想赚更多的钱。一个网友做了上面的回应，钱的意义在于它可以换来更多时间，让你去做自己想做的事情。
+
+https://news.ycombinator.com/item?id=18373002
+
+## two people and a swimming pool artwork
+
+大卫·霍克尼（David Hockney）1972年的油画《两个人的游泳池》，11月15日拍卖出了9030万美元，创下了还活着的艺术家的最高价格。
+
+http://www.latimes.com/la-et-em-david-hockney-painting-20181116-story.html
+
+## horizonal kanban design theory
+
+水平看板（英文）
+
+http://philippe.bourgau.net/vertical-kanban-board-setup/
+
+看板（kanban）是管理 issue 的流行方式，一般的看板是垂直的。本文提出，这是因为日本文字是直排的，而看板是日本人发明的，西方文字是横排的，所以看板应该改成水平。
+
+## photoshop web app
+
+Photopea
+
+https://www.photopea.com/
+
+在线图像编辑器，免费，可以替代 PhotoShop 的一部分功能。
+
+## benefits of british measurement system story
+
+英制度量衡的便利之处
+
+https://news.ycombinator.com/item?id=18473014
+
+英美使用英制度量衡，而不是公制度量衡。这种度量衡有它的便利之处。
+
+首先，英制度量衡采用十二进制。1英尺等于12英寸。十二进制的方便在于，它可以很容易地四等分、三等分和二等分；十进制只能二等分。另外，1英寸（2.54厘米）大约等于成人大拇指的宽度，用起来也非常方便。
+
+其次，表示温度的华氏度比摄氏度更便于使用。100华氏度（37.8摄氏度）等于人的体温。所以，0华氏度（-17.8摄氏度）表示非常冷的天气，100华氏度表示很热的天气，50华氏度表示需要穿毛衣的天气。另外，水在 212°F 沸腾，在 32°F 时结冰，之间有180度，又是一个12的倍数。
+
+## silicon valley salary decrease story
+
+除了软件工程师，加州的工资都在下降
+
+https://www.mercurynews.com/2018/11/18/silicon-valley-wages-have-dropped-for-all-except-highest-paying-jobs-report/
+
+美国的经济正处在繁荣期，失业率是多年来最低的。但是很难相信，除了软件工程师，加州其他工作岗位的工资竟然不如1997年的水平。一项研究发现，调整通货膨胀以后，过去20年，软件工程师的工资增长了32%，而普通加州人的工资下降了12％～14％。那些低收入和中等收入工作的工人，比如教师和消防员，保姆和厨师，工资都在下降。
+
+不仅工资水平在下降，而且低工资工人的比例在过去20年增长了25％。中高薪的工作岗位越来越少。
+
+但是，过去20年加州的 GDP 一直在快速增长，人均 GDP 增加了74％。比全国速度快了五倍多。这表明绝大多数财富都没有落入工人的口袋，谷歌和 Facebook 这样的大型科技公司在市场中占据主导地位，它们将更多的收入分配给投资者和一些顶级员工。
+
+经济学家认为，加州经济不是沙漏型（两端大，中间小），而是正从梨型（下面大，上面小）变成图钉型：顶部在萎缩，底部在膨胀。
+
+## pink color prison lowered violence rate story
+
+贝克米勒粉红色
+
+https://en.wikipedia.org/wiki/Baker-Miller_pink
+
+1979年，美国西雅图的海军监狱需要油漆房间。监狱的两位所长贝克和米勒，咨询心理学家亚历山大·绍斯（Alexander Schauss）。后者根据自己的研究，建议将监狱墙壁油漆为粉红色（#FF91AF），这种颜色有助于减少暴力和攻击。
+
+监狱采纳了他的建议。因此，这种粉红色后来就被称为"贝克米勒粉红色"。根据海军后来的研究，这种颜色确实降低了监狱内的暴力行为。
+
+## the essense of graphql quote
+
+GraphQL 的本质是程序员想对 JSON 使用 SQL。
+
+-- 推特@kellybyte
+
+https://twitter.com/kellabyte/status/1059970357430341632
+
+## employers steal employees quote
+
+2012年，美国的盗窃案总金额是3.4亿美元，但是同年雇员投诉雇主克扣工资、加班费短缺，并补发成功的总金额是9.3亿美元。雇主偷窃员工应得工资的现象非常普遍。
+
+-- 《工资偷窃是最大的偷窃》
+
+https://www.epi.org/publication/wage-theft-bigger-problem-forms-theft-workers/
+
+## solitude renaissance story
+
+媒体报道，50岁以上的日本男性每四人就有一人独自生活，女性每七人就有一人独自生活。由于独居人口越来越多，日本开始推出"一人份"的服务，专门针对独自一人就餐、娱乐、旅行的消费者。
+
+经营卡拉OK连锁店的"腰高公司"6年前注意到，三成顾客独自来唱歌。公司于是推出"1卡拉"包厢，专供独自唱歌的消费者使用，相当受消费者欢迎。日本一些电影院、拉面馆和主题公园也纷纷推出带隔板的单人座位，确保独自前来的消费者"个人空间"不受打扰。
+
+可能有人看了上面的报道，会觉得这表示日本人很孤独。可是，我觉得"一人份"难道不是未来的趋势吗？人类以前没有这种条件，享受一个人的自由，现在互联网科技终于让我们可以一个人行动了。
+
+以前，无论做什么，你都必须与其他人互动。现在不用了，互联网大大减轻了我们对他人的依赖：购物也好，娱乐也好，办事也好，手机点几下就可以了......至于孤独，这其实跟你是否一个人无关，有时候你待在人群里，也会感到强烈的孤独。科技使得普通人也有了独自行动的自由，即使远离人群，也能随时跟他人保持联系。
+
+以后，"一人份"服务可能会越来越多，反倒是我们自己，太习惯了跟他人待在一起，忘了大多数事情你都可以一个人去做。
+
+## redesigned gmail web app program awkward story
+
+新版 Gmail 代码一瞥（英文）
+
+https://medium.com/@boriscoder/peeking-under-the-hood-of-redesigned-gmail-dd84b532e0f5
+
+新版的 Gmail 用谷歌自家的 Lighthouse 评估性能，100分里面只得了2分。下载的脚本有6MB，完全渲染需要9秒，其中一半代码可能根本用不到。有人分析了代码，发现过时的早期代码都还在。猜测由于过于复杂，现有团队可能没有能力升级底层，只做了一些样式的更新。
+
+## minimalist programmer quote
+
+极简主义软件工程师宣言（英文）
+
+http://minifesto.org/
+
+作者解释了什么是极简主义的态度开发软件。
+
+## state of javascript 2018 story
+
+2018年 JavaScript 开发者调查（英文）
+
+https://2018.stateofjs.com/
+
+2018年 JS 开发者的调查报告，主要是各种框架、工具的使用情况。
+
+## javascript transcompiling languages library
+
+可以编译成 JS 的语言列表
+
+https://github.com/jashkenas/coffeescript/wiki/List-of-languages-that-compile-to-JS
+
+许多语言可以编译成 JavaScript，从而在浏览器运行，这张列表收集所有已经有编译工具的语言。提醒，这是一张很长的列表。
+
+## influencers advertising industry theory
+
+网红经济
+
+https://www.wired.com/story/pricey-war-influence-your-instagram-feed/
+
+2017年，洛蒂开了一家假睫毛公司。一位懂行的投资者跟她说，产品质量不重要，客户满意度也不重要，重要的是对消费者有影响力的网红，她应该付钱请 YouTube 和 Instagram 的网红谈论她的假睫毛。
+
+洛蒂认为这个建议太夸张了，那些网红并不便宜，每人要收费5万到7万美元。这对创业公司来说是一大笔钱，而这些钱只是为了让那些网红的粉丝听到她公司的名字。她觉得不太值得，就没有支付。
+
+但是，后来她发现，她太天真了，网红是推广新产品唯一有效的方法，没有办法绕过它。
+
+网红是社交媒体上面有影响力的人。他们的影响力远远超出了人们的想象，很多行业的营销人员都发现网红能够带动销售。随着公司对社交媒体广告的热情，网红营销已经发展成为一个价值数十亿美元的行业。许多用户不会将网红视为付费代言人或销售人员，而是把他们当作值得信赖的专家或朋友。这就是为什么品牌愿意花这么多钱，以换取 Instagram 上面的曝光。
+
+品牌通常会花费超过60,000美元换取一条社交媒体的视频介绍，或者85,000美元换取一次公开贬低竞争对手的产品。曝光不限于直接评论，还包括网红将产品放在他们的桌子上，或者放在他们后面的布景里面，任何可以巧妙地在屏幕上显示几秒钟的地方，都可以用来做广告。
+
+桑德斯·肯尼迪是一个受欢迎的 YouTuber，拥有超过20万名订阅者。他接受了几千美元，条件是拍摄时将特定的饮料留在他的桌子上。他不知道这个品牌，但是助理告诉他，只需要确保饮料出现在桌上就可以了，并且不需要提到这个品牌。
+
+对于带有产品的单张照片，Instagram 有百万粉丝的网红起价为10,000美元。YouTube 更贵，拥有300万订阅者的内容创建者通常每个视频收费至少40,000美元。如果该公司希望 YouTuber 对竞争对手的产品进行负面评价，则需要额外花费10,000美元到30,000美元以上。当然，费率随着网红的追随者数量而增加。
+
+网红的报价有不断上涨的趋势。2016年顶级网红的收费大约是5,000到10,000美元，现在他们的报价可能会"超过100,000美元"。
+
+很多网红并没有披露，他们收到了赞助，发布的内容实际是推销。美国联邦贸易委员会提出，如果网红已收到了任何东西 - 无论是现金，免费产品还是其他东西 - 可能影响观众看待他们提及的品牌或产品，他们就必须披露。
+
+## ikea decorative painting story
+
+一张宜家装饰画的故事
+
+https://petapixel.com/2018/11/20/the-story-behind-that-ikea-photo-of-amsterdam/
+
+（原始网页将下面的故事拍成15分钟的纪录片，比文字更有意思，推荐观看。）
+
+我家有一张宜家买来的装饰画《阿姆斯特丹街头》。
+
+朋友问我，这张照片到底好看在哪里，看上去很普通的一张风景照，为什么全世界到处都有人买去，挂在自己的屋子里。我于是就很想搞清楚它背后的故事，宜家为什么会选中这张照片。
+
+宜家网站显示，这张照片的作者是费尔南多（Fernando Bengoechea）。我查了这个摄影师，很不幸，他在2004年印度洋大海啸期间失踪了。然后，我设法联系了他的兄弟马塞洛，了解到失踪时他是纽约市最好的摄影师之一，曾为杂志工作。他走遍了世界各地，拍摄各种主题。
+
+马塞洛把我介绍给室内设计师Nate Berkus，他是费尔南多当时的男朋友，海啸期间，他们在一起。Berkus 说，这张照片是费尔南多为前男友阿夫卡米（ Ahmad Sardar Afkami）拍的。他把阿夫卡米的联系方式给了我，那是一位纽约的建筑师。
+
+阿夫卡米回忆道，这张照片是在1999年3月拍摄的。他们一起去荷兰旅行，但是途中发生了争吵，费尔南多一人在阿姆斯特丹的街头散心，随手拍了一些照片，用它们向阿夫卡米道歉。
+
+费尔南多在印度洋海啸中过世以后，他的所有未发表的照片作为遗物，都放在 Corbis.com 网站上出售。宜家就是在那里购买照片版权的。
+
+最后，我找到了宜家瑞典总部的装饰画部门的负责人。我问他为什么选择这张照片，他说他们最主要考虑的是价格，这张照片非常非常便宜，这就是他们选择它的原因。
+
+## toilet foot-lifting chair story
+
+Squatty Potty
+
+https://www.theguardian.com/news/2018/nov/30/bowel-movement-change-the-way-you-poo-squatty-potty-toilet
+
+2011年，Squatty Potty 作为新发明，进入美国市场。它是一款7英寸高的塑料凳子，让你坐在马桶上大便的时候，双脚踩在上面，使得你的膝盖高于臀部，更接近人类原始的排泄姿势。
+
+据说，这种姿势可以展开你的结肠，加快排便过程，减轻腹胀，减少便秘和痔疮的发病。这款产品的美国销售量已经超过了500万个。
+
+## the language you love is the language you complain about quote
+
+只有两种计算机语言：一种是人们不停抱怨的语言，另一种是没人用的语言。
+
+-- C++ 之父 Bjarne Stroustrup
+
+## life as a program quote
+
+每个人的一生就是一次程序运行。
+
+-- 某网友的 ID
+
 ## 
+
+
+
 
 
 

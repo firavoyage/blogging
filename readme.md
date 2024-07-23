@@ -17,8 +17,8 @@
   - burgerking french fries
   - tea egg
 -
-  - uniqlo & muji shirts with buttons
   - life-size pillows
+  - uniqlo & muji shirts with buttons
   - camphor wood bars
   - flowers and greenery
   - new national debation
@@ -34,9 +34,9 @@
   - wind of change
   - scarborough fair
   - the sound of silence
+  - ymca
   - one last kiss
   - title theme
-  - never gonna give you up
   - -記憶-
   - 海阔天空
   - 富士山下
@@ -44,18 +44,20 @@
 -
   - in solitude where we are least alone
   - worldend: what do you do at the end of the world? are you busy? will you save us?
-  - frieren: beyond journey's end
   - bang dream! it's mygo!!!!!
+  - tom and jerry classic collection
+  - frieren: beyond journey's end
   - bocchi the rock
   - oshi no ko
   - reply 1988
   - redo of healer
-  - tom and jerry
+  - one room
   - joker
   - soul
 - 
   - adhesion tek
   - coding startup
+  - refactoring ui
   - interpreter gavin
   - spicy century egg porridge
   - paperclip
@@ -73,6 +75,7 @@
   - keqing
   - kaedehara kazuha
   - nahida
+  - billy kid
   - kasugano sora
   - warspite
   - taiho
@@ -141,7 +144,7 @@
   - chromium 124
   - code 1.89
   - git 2.43
-  - fcitx 5.1.7 & fcitx android
+  - fcitx 5.1.7
   - wine 9.0
 - 
   - design.google
@@ -215,36 +218,34 @@
 - 壮士断腕义无再辱
 
 ## character
-- reminiscent youth // good old days...
-- tech otaku // unworldly girls...
-- digital hoarder // memories forever...
-- simplicity addict // elegance of knowledge...
-- indie developer // freedom of mind...
+- reminiscent youth //good old days...
+- tech otaku //unworldly girls...
+- digital hoarder //memories forever...
+- simplicity addict //elegance of knowledge...
+- indie developer //freedom of mind...
 
-## pages here
+## pages
 - people
-  - livid
-  - nat
-  - ruanyf
-  - yinming
+  - livid //desired youth as a letter
+  - nat //beliefs of a tech entrepreneur
+  - ruanyf //everything about the digital time
+  - yinming //answers from a typical startup webmaster
 - ideas
-  - projects
-  - reply
-  - idioms
-  - comments
-  - mistral
+  - projects //interesting and meaningful time killers
+  - reply //reply to the world 
+  - comments //words and its origin
+  - idioms //meme-like quotes just for fun
+  - mistral //wikipedia by mistral ai
 - self
-  - weekly
-  - timeln
-  - djhs grades
-  - swim
+  - weekly //weekly plans constantly updating
+  - timeln //personal happenings
+  - djhs grades //school life
+  - swim //guide to libre swimming
 - config
-  - ubuntu config
-  - chromium bookmarks
-  - list adguard
-  - list simplelive
+  - ubuntu config //elegant work flow
+  - chromium bookmarks //source of all
 
-## repos here
+## repos
 - `git/blogging` notes and inspirations 
 - `git/blogging/config` app preferences
 - `git/blogging/shortcut` terminal commands
@@ -260,26 +261,27 @@
 - `git/self` favorite avatars
 - `git/programs` code sources
 
-## there
+## links
 - files
   - github `firavoyage`
-  - gitee `firavoyage`
-  - telegram `archivefiravoyage`
-  - official mirrors `_wip`
+  - gitee mirror `firavoyage`
+  - other mirrors `_wip`
 - posts
   - github `firavoyage`
   - blogger `firavoyage`
+  - cnblogs `fira`
+  - telegram `firavoyage`
   - twitter(i hate elon btw) `firascript` 
-  - mirrors `_wip`
+  - other mirrors `_wip`
 - videos
   - bilibili `Fira_言序`
   - youtube `_wip`
-  - mirrors `_wip`
+  - other mirrors `_wip`
 - letters
-  - email `firavoyage@outlook.com`
   - telegram group `_wip`
+  - email `firavoyage@outlook.com`
 - personal site
-  - _wip
+  - my blog `_wip`
 
 ## wish
 - mission
@@ -300,12 +302,6 @@
 - i'm eating my feed list
 - or enjoying acg
 - or learning
-
-## alias
-- `fira`
-- `忘我思考`
-- `言序&映画`
-- `苇名一心`
 
 > 🌕 💤 23:00
 

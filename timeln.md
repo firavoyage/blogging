@@ -1081,6 +1081,48 @@ abcd都是多项式,不过条件不难推
 后面二三很简单,画图就行了,
 应该直接跳题的,像中考一样
 
+## 20240723
+
+这几天都在看ruanyf的周刊
+像一些智能硬件,生物医疗,航天的研究,功能重复的新轮子,忽略了
+另一些,关于软件创意,关于创业哲理,关于设计理论,记录一下
+都在 ruanyf.md 里面
+
+补充一点.
+ruanyf关心改变世界的力量,科技.
+我关心,其中,哪些是我的同路人创造的.
+
+cnblogs死不冤.
+看看blogger
+- Publish your passions, your way
+- Choose the perfect design
+- Get a domain
+- Earn money
+- Know your audience
+- Hang onto your memories
+- Join millions of others
+这是landing page上的几个h2 title
+反观cnblogs,不知道做到了几点
+低商业化,的确实现了基本功能,能用了
+在世外互联网上,对比几个csdn,juejin,
+一些方面上,或许有优势,很有优势.
+然后呢?
+博客注册还要审批,然后后台虽然清新淡雅,然连跨浏览器一致都做不到,打开inspect,一堆html中文注释
+博客主题一堆,一堆垃圾,看看blogger,wordpress上面的
+哈哈,高下.
+然后商业化也很烂,想着啥会员捐赠,推广友情链接,...
+哈哈
+完全可以做个内容平台啊,比如用ai,翻译一下hackernews的最新帖子
+然后贴在首页醒目位置上,或者
+做个ruanyf weekly,slashdot之类的平台
+如果是我,就多搞点科技时事热点,不断中外对比,文末阐明中立立场(或爱国立场,爱土地,但不爱领导者,和大企业),比如
+百度创始人新的逆天发言(对比google创始人,dont be evil),腾讯的新游戏推广策略(对比国外最好的游戏,画面,体验,创意)
+京东淘宝的ui改版(对比amazon.com,清爽和浮躁一目了然),华为的新"独立自主"策略(对比国外产品效果)
+然后评论一堆(理性用户v热血青年),广告(adsense,万维,或者大厂sass推广专门合作)盆满钵满
+并且很优雅,内容水深火热,界面出世淡雅(ruanyf 宁为玉碎,壮士断腕),github issue讨论(揭秘大陆...)
+懂么?哈哈,你们的对手,不是csdn,juejin,segmentf,...,而是githubio,wordpress,blogger...
+
+
 
 
 
