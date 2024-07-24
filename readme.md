@@ -48,6 +48,7 @@
 - 
   - adhesion tek
   - coding startup
+  - diygod
   - refactoring ui
   - interpreter gavin
   - new national debation
@@ -264,17 +265,20 @@
   - other mirrors `_wip`
 - posts
   - github `firavoyage`
-  - blogger `firavoyage`
   - cnblogs `fira`
-  - telegram `firavoyage`
-  - twitter(i hate elon btw) `firascript` 
+  - blogger `firavoyage`
+  - medium `_wip`
+  - wordpress `_wip`
+  - telegram `archivefiravoyage`
+  - twitter `firascript` 
   - other mirrors `_wip`
 - videos
+  - telegram `firavid`
   - bilibili `Fira_言序`
   - youtube `_wip`
   - other mirrors `_wip`
 - letters
-  - telegram group `_wip`
+  - telegram group `voyagefira`
   - email `firavoyage@outlook.com`
 - personal site
   - my blog `_wip`

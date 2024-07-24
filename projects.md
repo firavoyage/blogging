@@ -34,6 +34,9 @@ no html comment needed
 cover for header 1
 toc pages for header 2 with the current one highlighted
 footer for page index,author and date
+  - play like video
+example
+https://scrimba.com/g/glearnreact
   - inspired by 
 fusuma
 
@@ -331,7 +334,7 @@ edit with any ide and launch in browsers
 powered by voyage
 
 - `firascript` simplicity of a script
-> another javascript dialect
+> another javascript dialect "fuckscript"
 > -> /firascript
   - (wip)
   - inspired by 
@@ -473,10 +476,14 @@ maybe i could get a novel experience.
   - show preview
   - support all unicode forms
 
-- `plaintable` table in plain text 
+- `plain` data in plain text 
 > retro terminal table style 
-  - add split lines
-  - unified align
+  - table
+add split lines
+unified align
+  - json
+no brackets
+id based
 
 - `journaling` plain text journaling
 > weeks and months

@@ -1342,6 +1342,215 @@ https://remykarem.medium.com/9-bash-aliases-to-make-your-life-easier-3e5855aa95f
 
 本文介绍9个实用的 Bash 函数，你可以参考他的方式，将自己常用的操作封装成函数，然后设置别名。
 
+## css animation beginner guide
+
+CSS Animation 101
+
+https://github.com/cssanimation/css-animation-101
+
+开源电子书《CSS Animation 101》，从零开始介绍 CSS 动画。
+
+## react short video 45 episodes guide
+
+React 视频课程（英文）
+
+https://scrimba.com/g/glearnreact
+
+React 的短视频课程，几分钟一集，共有45集。
+
+## rejected great programmers story
+
+rejected.us
+
+https://rejected.us/
+
+该网站收集优秀程序员面试没通过的经历，用来鼓励面试失败者不要灰心。
+
+## simple programming interview problems library
+
+30秒系列
+
+https://github.com/30-seconds/30-seconds-of-code
+
+https://www.30secondsofcode.org/js/p/1/
+
+该系列专门收集30秒以内可以解答的问题。目前有以下6个库：（1）30秒 JS 问题；（2）30秒 CSS 问题；（3）30秒面试问题；（4）30秒 React 问题；（5）30秒 Python 问题；（6）30秒 PHP 问题。
+
+## beautiful image exif card web app
+
+ExifShot
+
+https://exifshot.com/
+
+一个以美观的形式展示照片 EXIF 信息的在线工具。
+
+## premium mediocre marketing theory
+
+优质平庸
+
+2017年，有人发明了"优质平庸"（Premium Mediocre）这个词。它指的是一种营销手段，让消费者认为他们正在消费奢侈品，而实际上只是在消费普通商品，比如"精酿"啤酒、"手工"比萨饼、"烘焙师签名"汉堡等等都是"优质平庸"的例子。
+
+这种做法很简单，就是用一些额外的手段，让平庸的东西看上去更加优质，让消费者产生一种幻想，认为自己正在购买高级产品。营销人员通常采用的手段是，为商品名加上"首选"、"手工"、"收藏级"等词语。
+
+许多公司希望消费者愿意付出较高的价格，就用"负担得起的奢侈品"的定位来推销自己的产品。当然，他们销售的并不是奢侈品，而是把奢侈品的光环像面包粉一样，洒一点在平庸商品上面。这里的重点是，必须让消费者觉得，平庸的商品一点不平庸。
+
+"优质平庸"也延伸到了真正的奢侈品品牌。普通消费者买不起这些奢侈品，但是奢侈品公司仍然想赚他们的钱，就设法提供一些入门级的产品系列，将一些低成本的产品贴上自家的奢侈品品牌，比如 Prada 尼龙背包、路易威登帆布包、Gucci的塑料凉鞋等等。这个策略很成功，优质平庸市场的利润非常高，据统计，2015年小型皮具奢侈品的销售额达到57亿美元，预计到2020年将达到75亿美元。对于消费者来说，只要几百美元，就能买到奢侈品牌，很多人愿意尝试。
+
+这件事情的启示就是，商品的徽标比产品本身更重要，普通鸡蛋只能卖一块钱，但是标上"天然土鸡蛋"就能卖一块五。"优质平庸"的关键，就是商品有一个独一无二、消费者认同的徽标。
+
+## big tech companies income source image
+
+主要技术公司收入来源图
+
+https://medium.com/zerotomastery/programmers-guide-to-the-big-tech-companies-1bfc078e5a76
+
+苹果：iPhone 占 63% 的收入
+谷歌：广告占 88% 的收入
+微软：Office 占 28% 的收入
+亚马逊：商品销售占 72% 的收入
+脸书：广告占 97% 的收入
+
+## great public apology letter writing theory
+
+新年的1月2日，苹果公司发布了一份公开信，长达1400字。主要内容是，由于大中华市场的销售额下滑，该公司预计2019年第一季度，收入会低于预期7%。
+
+https://www.apple.com/newsroom/2019/01/letter-from-tim-cook-to-apple-investors/
+
+有人找出，苹果公司上一次发布收益预警，还是在2002年6月18日，一共只有100多个词。
+
+https://daringfireball.net/2019/01/steve_jobs_and_apples_last_previous_earnings_warning
+
+"苹果公司预计第二季度的收入将达到约14亿美元～14.5亿美元，低于此前约16亿美元的预期。收入低于预期主要是由于消费者和创意市场（如广告和出版）的需求疲软。从地理位置来看，欧洲和日本的收入变得特别薄​​弱。由于成本降低，毛利率高于预期，预计收入不足将被大幅抵消。因此，公司已将盈利预测修订为每股0.08美元至0.10美元，而之前的指引为0.11美元或略高。"
+
+"与我们行业的其他人一样，本季度我们的销售额正在放缓。因此，我们将低于收入预测约10％，导致利润略微下降，"苹果首席执行官史蒂夫乔布斯说。"我们有一些令人惊叹的新产品正在开发中，所以我们对未来一年感到兴奋。作为目前在PC业务中获利的少数几家公司之一，我们对苹果长期增长的前景仍持乐观态度。"
+
+如果你仔细阅读上面这份公告，那一次的收入下滑是10%，比这一次的幅度7%还大。但是，公告写得非常巧妙，导致你完全感受不到悲观，仿佛你正在阅读的不是一个坏消息，读后反而还感到振奋。第一段开门见山，直接给出数字，但也说不利影响"已被大幅抵消"；第二段告诉你，这是整个行业的问题，不是我们的问题，而且我们有"惊人的新产品"；最后，才是最厉害的一句话，"作为目前在PC业务中获利的少数公司之一......"。这时你感觉到的不是担心，而是对苹果公司良好的信心。
+
+这种差异的真正原因在于，上次的作者是史蒂夫·乔布斯，这次的作者是蒂姆·库克。这一次的信太长了，辩解太多，这会让人感到作者很心虚，故意在掩饰，完全没有给人信心，所以一发出来，苹果股价就跌了10%。如果乔布斯还在，他可能会这样写这封信：
+
+"我们都知道中国市场出了问题，一半是因为中国自己的原因，一半是因为愚蠢的贸易战。这个季度的 iPhone 销售比我们预期差，但完全是中国市场的原因，其他所有市场都正常。全球客户都喜欢 iPhone XS、XS Max 和 XR，iPhone 占全世界整个手机行业利润的90％。我们预计利润份额还会增长，因为竞争对手的产品高度同质化。"
+
+好了，公开信到此结束。
+
+## maintaining complex system like decorating office floor quote
+
+一家公司想装修办公室地板，结果发现下面是蜿蜒曲折的通信电缆。如果彻底装修，必须更换并重新连接电缆。他们这样做了吗？没有，当他们看到复杂的电缆后，就没有碰任何东西，只是小心地更换了地板。谁知道每根电缆的作用和连接方式？最好保持原样。
+
+-- 《如何维护复杂系统》
+
+https://unintendedconsequenc.es/dont-touch-anything/
+
+## about "a real programmer" a little printf story
+
+什么是真正的程序员（中文）
+
+https://www.cnblogs.com/xueweihan/p/5220513.html
+
+本文是一篇译文，作者仿照《小王子》中的情节，通过小 printf 遇见的不同类型的程序员，最后悟出什么才是真正的程序员！（@LanjianNUll_ _投稿）
+
+## 10 fizzbuzz solutions in 10 lang guide
+
+FizzBuzz 的10种语言解答（英文）
+
+http://iolivia.me/posts/fizzbuzz-in-10-languages/
+
+FizzBuzz 是考验编程初学者的经典题目，本文用10种语言写出答案，比较各种语言的不同。
+
+## go to sweden as a programmer story
+
+去瑞典当工程师，是否值得？（英文）
+
+http://hongchao.me/living-and-working-in-sweden-as-engineers/
+
+一个中国开发者移居到瑞典当工程师。十年之后，他对自己这个决定的看法，留在国内好，还是去瑞典好？
+
+## most popular tech stacks discussion
+
+现在最流行的网站技术栈是什么？（英文）
+
+https://news.ycombinator.com/item?id=18829557
+
+这是一个论坛的讨论帖，有人问这个问题，下面一堆回答，流行的技术基本上都提到了。
+
+## the elements of euclid colorized web app
+
+《几何原本》在线版
+
+https://www.c82.net/euclid/
+
+在线还原1847年的欧几里得《几何原本》的彩色版本。（@arbeitandy 投稿）
+
+## page loading animations library
+
+页面加载动画
+
+https://medium.com/@ann.green/loading-indicators-e9d9ac9680b
+
+这篇文章收集了近20个加载页面的优秀动画效果。
+
+## github status newspaper-like web app
+
+devhub
+
+https://github.com/devhubapp/devhub
+
+将 GitHub 动态以 TweetDeck 形式展示的开源工具。
+
+## medium getting awful history
+
+你不应该把内容发布在 Medium
+
+https://bts.nomadgate.com/medium-evergreen-content
+
+很多人选择在 Medium 发布内容。但是，现在的 Medium 已经跟以前不一样了，发布之前你应该三思。
+
+（1）Medium 允许你为文章设置原文链接，以前这个链接是可以修改的，现在一旦设置了，就不再允许修改。
+
+（2）Medium 不再允许绑定自定义域名，自己的域名无法指向它的网站。
+
+（3）Medium 以前允许某些网站以 iFrame 形式嵌入，比如统计表单，现在不行了。
+
+（4）Medium 不再允许第三方广告，也就是说，你不再能够在自己的文章里接广告。
+
+（5）Medium 的阅读体验已经变得糟糕。以前读者打开文章，看到的是下面的样子。
+
+现在，看到的是下面这样。
+
+(sign up splashscreen)
+
+## population mountain-like map image
+
+人口山
+
+https://pudding.cool/2018/12/3d-cities-story/index.html
+
+https://www.wangbase.com/blogimg/asset/201901/bg2019011827.jpg
+
+如果将人口的聚集状况，以柱状图叠加在地图上，就形成了"人口山"。上图是中国的人口山地图。下图是美国东北部的人口山。
+
+https://www.wangbase.com/blogimg/asset/201901/bg2019011828.jpg
+
+## flattening change of logos history
+
+Logo 的改变
+
+https://boingboing.net/2018/12/13/interesting-logos-are-being-re.html
+
+下图上排是以前的logo，下排是现在的logo。各公司都不约而同，选择了加粗的直线式无衬线字体，这样是为了更醒目、辨识度更高吗？
+
+https://www.wangbase.com/blogimg/asset/201901/bg2019011829.jpg
+
+网友 @chun1iu 评论："不是更加醒目，而是更加中庸，更容易被所有人接受。不会很喜欢，也不会很反感，就是很大众。这些公司的成长过了标新立异的阶段而已。"
+
+## the essense of midlife crisis quote
+
+
+中年人是艰难的。青年时代的理想主义已经消退，健康和活力也不可避免地有一点降低，但是承担的责任却在增长，再加上一些对死亡的恐惧和一些对活着的恐惧，你就有了叫做中年危机的东西。
+
+-- Bryan Cantrill（dtrace 的作者）
+
+http://dtrace.org/blogs/bmc/2018/12/14/open-source-confronts-its-midlife-crisis/
+
 ## 
 
 
