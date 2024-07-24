@@ -113,6 +113,8 @@ pexels
 ...
   - stock
 good generated examples
+  - examples
+深夜,酒吧二楼,花火倚靠在扶手,楼下灯红酒绿,光怪陆离,年轻人三两成群地游荡,北欧中世纪建筑中,窗上亮出夜店光,人们失了身影,只剩明亮的倒影
 
 - `neko` human-like chatting
 > reply and translate reasonably
@@ -331,13 +333,13 @@ powered by voyage
 - `firascript` simplicity of a script
 > another javascript dialect
 > -> /firascript
+  - (wip)
   - inspired by 
+arc lang
 javascript:the good parts
-arc language
 js20
 js30
 js50
-  - wip
 
 - `voyage` opensource design platform
 > designs to elegant programs
@@ -350,7 +352,6 @@ design.google
 material.io
 plaintxt.org
 jrsinclair.com
-2018.stateofjs.com
 ubuntu yaru
 ruanyf blog
 sr
@@ -380,6 +381,10 @@ structure: pass data
 voyage element
 ```
 {tag "div" attr {style "" count ""} inner [element element]}
+```
+or maybe something like that
+```
+["div" {style {color "gold" z-index "666"} id "focus"} [["button"] ["input"]]]
 ```
 voyage component
 ```
@@ -442,6 +447,11 @@ as they are battle-based and the stories are secondary,maybe
 so currently only gi and sr
 after all they are great "rpg games" or pasttime vehicles
 but perhaps not significant "visual novels" in the literary perspective
+  - update 20240724
+i think i should play it myself
+e.g. after graduate,at spare time,open live
+then,i understand english better,may pay for my love(just fate zero)
+maybe i could get a novel experience.
 
 ## apps
 

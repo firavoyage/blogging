@@ -10,26 +10,17 @@
 - 
   - 🌕 💤 23:00
 -
-  - lipton black tea
-  - cocacola zero
-  - lays crisps original
-  - ruby chocolate popsicle
-  - burgerking french fries
-  - tea egg
--
-  - life-size pillows
-  - uniqlo & muji shirts with buttons
-  - camphor wood bars
-  - flowers and greenery
-  - new national debation
-  - pure math
-  - web app dev
--
   - johann sebastian bach
-  - joseph haydn
-  - scorpions
-  - michael jackson
-  - hatsune miku
+  - lipton black tea
+  - lays crisps original
+  - burgerking french fries
+  - ruby chocolate popsicle
+  - tea egg
+  - life-size pillows
+  - indoor greenery
+  - camphor wood smell
+  - pure math
+  - intuitive web app
 -
   - wind of change
   - scarborough fair
@@ -59,9 +50,11 @@
   - coding startup
   - refactoring ui
   - interpreter gavin
+  - new national debation
   - spicy century egg porridge
-  - paperclip
   - unfettered idle man
+  - edmund d zhang
+  - tail tail desu
   - forever naive taffy
   - orient snowy lotus
   - nicholas wei bro
@@ -95,9 +88,9 @@
   - the rainbow appears after flowering rain
   - _sekiro: shadows die twice
   - _elden ring
-  - _the binding of isaac
   - _the legend of zelda
   - _grand theft auto v
+  - _the binding of isaac
   - _senrenbanka
   - _fly me 2 the moon
 -
@@ -107,38 +100,46 @@
   - 观念的水位
   - 刘擎西方现代思想讲义
   - 目送
+  - 给大壮的信
   - 房思琪的初恋乐园
   - .人生哲思录
-  - _the bible
   - _geb
+  - _the bible
   - _海子的诗
   - _顾城的诗
   - _飞鸟集
   - _人间词话
   - _树上的男爵
   - _道德经
-  - _月亮与六便士
   - _傲慢与偏见
   - _罗生门
-  - _给大壮的信
   - _黄金年代
   - _百年孤独
+-
+  - design.google
+  - material.io
+  - plaintxt.org
+  - jrsinclair.com
+  - ruanyifeng.com/blog
+  - ubuntu yaru
+  - dracula official
+  - one dark pro
+  - monokai pro
 - 
   - dejavu serif
   - fira code
   - fira sans
   - free sans
-  - free serif
   - fz kaiti
-  - fz shusong
+  - google sans
   - han wang shin su
   - han wang yan kai
+  - noto sans
+  - noto serif
   - resource han rounded cn
   - roboto
   - rounded mplus
-  - source han sans cn
-  - source han serif cn
-  - ubuntu
+  - ubuntu sans
   - zhi mang xing
 -
   - ubuntu 24
@@ -148,13 +149,6 @@
   - git 2.43
   - fcitx 5.1.7
   - wine 9.0
-- 
-  - design.google
-  - plaintxt.org
-  - ubuntu yaru
-  - dracula official
-  - one dark pro
-  - monokai pro
 
 ## quotes
 - as human beings it is our right (maybe our moral duty) to reshape the universe to our preferences

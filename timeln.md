@@ -1122,7 +1122,60 @@ cnblogs死不冤.
 并且很优雅,内容水深火热,界面出世淡雅(ruanyf 宁为玉碎,壮士断腕),github issue讨论(揭秘大陆...)
 懂么?哈哈,你们的对手,不是csdn,juejin,segmentf,...,而是githubio,wordpress,blogger...
 
+## 20240724
 
+最近,常常摸着自己的心跳,脉搏(脖子)
+睡觉的时候,静坐的时候.
+压重一点,跳的感觉.
+只是舒服,但是更像是上帝的隐喻
+我知道,那是我.
+
+cnblogs批评.
+看看blogger
+- Publish your passions, your way
+- Choose the perfect design
+- Get a domain
+- Earn money
+- Know your audience
+- Hang onto your memories
+- Join millions of others
+
+upd
+今天更新一下,上一篇太情绪化,太激进.
+一条条分析吧
+- Publish your passions, your way
+注册很复杂(不能直接oauth,要手机邮箱,然后temp mail,sms receive free就搞定了),
+开通博客需要申请(填写职位,公司,目的...)
+说是要筛选内容,不要推广的垃圾内容,实际上,不应该是在这里筛选
+而是你注册很容易,发表很容易,无论任何目的和内容,
+但是低质量内容推荐,展示很难
+- Choose the perfect design
+cnblogs很多人,用了第三方主题(插入一行js)
+一个blog site,最重要的东西都没做好
+官方是有个选择主题页面,哈哈.
+不妨访问一下,哈哈.
+- Get a domain
+你可以把cnblogs部署在自己的域名上(like githubio)
+或者blogspot(abc.blogspot.com)
+这些显然是没有实现的
+- Earn money
+插入adsense广告分成?
+这个不要实现,没问题.
+- Know your audience
+google的blogspot analy是免费的
+很多人,在blog上面,插入了baidu anayl(插入一行js)
+哈哈
+这个应该是cnblogs自己的工作吧...
+就算是membership feature也可以啊,像twitter
+- Hang onto your memories
+世外互联网,不谈了
+- Join millions of others
+这个可以放在介绍页面的最后,很好.
+- and more...
+打开blog后台,可以看到虽然很清新,很简约
+也很简陋,直接用了一堆浏览器默认样式...
+用jquery,没有组件库...也不能说是问题吧
+只是...
 
 
 
