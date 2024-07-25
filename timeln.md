@@ -1177,7 +1177,20 @@ google的blogspot analy是免费的
 用jquery,没有组件库...也不能说是问题吧
 只是...
 
+## 20240725
 
+removed brawlstars
+rp with nulls brawl
+
+updated readme.md
+(see diff)
+
+stop firascript project
+because
+firascript is better
+but javascript is good enough
+
+read ruanyf weekly
 
 
 

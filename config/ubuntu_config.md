@@ -253,7 +253,7 @@ sudo apt-get install code
   - render control characters `off`
   - sticky scroll `on`
 - config behavior
-> -> `ctrl ,`
+> -> file > preferences > settings
   - autosave `after delay`
   - font family `"Fira Code", "Noto Sans CJK SC", monospace`
   - font size `16`
@@ -263,7 +263,7 @@ sudo apt-get install code
   - lightbulb `off`
   - workspace `off`
 - install theme
-  - dracula official `❤`
+  - dracula official (current)
   - one dark pro
   - monokai pro
 - install extensions
@@ -283,15 +283,17 @@ sudo apt-get install code
 > -> git/blogging/config/cpp.code-snippets
 - config shortcuts
 ```
-// config these with "ctrl k ctrl s"
+// config these by "ctrl k ctrl s"
 duplicate selection `ctrl d`
 insert line below `shift enter`
 
 run code `ctrl r`
 stop running `ctrl e`
 
-// shortcuts below are built-in
+// below are built-in
 do anything `ctrl shift p`
+
+open settings page `ctrl ,`
 
 open nav bar `alt`
 open side bar `ctrl b`

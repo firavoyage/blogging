@@ -22,29 +22,59 @@
   - pure math
   - intuitive web app
 -
-  - wind of change
-  - scarborough fair
-  - the sound of silence
-  - ymca
-  - one last kiss
-  - title theme
-  - -記憶-
-  - 海阔天空
-  - 富士山下
-  - 惠化洞
+  - wind of change (scorpions)
+  - scarborough fair (sarah brightman)
+  - the sound of silence (simon & garfunkel)
+  - ymca (village people)
+  - one last kiss (hikaru utada)
+  - title theme (koji kondo)
+  - old memory (manack & bruno wen li) 
+  - sky (beyond)
+  - fu shi shan xia (eason chan)
+  - hyehwadong (park bo ram)
 -
   - in solitude where we are least alone
   - worldend: what do you do at the end of the world? are you busy? will you save us?
   - bang dream! it's mygo!!!!!
-  - tom and jerry classic collection
   - frieren: beyond journey's end
   - bocchi the rock
   - oshi no ko
+  - tom and jerry classic collection
+  - evangelion
   - reply 1988
-  - redo of healer
-  - one room
   - joker
   - soul
+-
+  - honkai star rail
+  - honkai impact third
+  - houkai gakuen second
+  - genshin impact
+  - zenless zone zero
+  - azurlane
+  - blue archive
+  - brawl stars
+  - clash royale
+  - soul knight
+  - the rainbow appears after flowering rain
+  - _the legend of zelda
+  - _sekiro: shadows die twice
+  - _elden ring
+  - _grand theft auto v
+  - _the binding of isaac
+  - _needy streamer overload
+  - _senrenbanka
+  - _fly me 2 the moon
+-
+  - billy kid
+  - clara
+  - fuxuan
+  - herta
+  - kaedehara kazuha
+  - kasugano sora
+  - keqing
+  - nahida
+  - sparkle
+  - xingqiu
 - 
   - adhesion tek
   - coding startup
@@ -63,38 +93,6 @@
   - my sister is just that kawaii
   - longbow flintlock
 -
-  - sparkle
-  - keqing
-  - clara
-  - fuxuan
-  - herta
-  - nahida
-  - kaedehara kazuha
-  - xingqiu
-  - kasugano sora
-  - warspite
-  - taiho
-  - billy kid
--
-  - honkai star rail
-  - honkai impact third
-  - houkai gakuen second
-  - genshin impact
-  - zenless zone zero
-  - azurlane
-  - blue archive
-  - brawl stars
-  - clash royale
-  - soul knight
-  - the rainbow appears after flowering rain
-  - _sekiro: shadows die twice
-  - _elden ring
-  - _the legend of zelda
-  - _grand theft auto v
-  - _the binding of isaac
-  - _senrenbanka
-  - _fly me 2 the moon
--
   - 前方的路
   - 黑客与画家
   - 给青年人的十二封信
@@ -104,7 +102,7 @@
   - 给大壮的信
   - 房思琪的初恋乐园
   - .人生哲思录
-  - _geb
+  - _godel,escher,bach
   - _the bible
   - _海子的诗
   - _顾城的诗
@@ -132,11 +130,11 @@
   - fira sans
   - free sans
   - fz kaiti
-  - google sans
+  - google product sans
   - han wang shin su
   - han wang yan kai
-  - noto sans
-  - noto serif
+  - noto sans cjk
+  - noto serif cjk
   - resource han rounded cn
   - roboto
   - rounded mplus
