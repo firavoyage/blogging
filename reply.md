@@ -2486,6 +2486,51 @@ https://github.com/tauri-apps/awesome-tauri
 或许有一些错误决策吧
 或许只是我不理解,就是这样.
 
+## death reminder
+
+twitter 上有个 death reminder
+每天固定发送
+
+"勿忘您总有一死"
+
+想到了
+永远不知道意外与明日孰先至
+
+或许不一定要去
+酒吧夜店,电影院,游乐场
+就是
+浇花,喝茶,读书
+
+浇花不一定要看到花开,读书也不是为了读完
+
+不过有些事确实就放弃了
+
+## how to teach
+
+关于教什么,怎么教
+后者我大概是清楚的
+前者在目录体现淋漓尽致
+
+更具体地
+关于A,B两个相关的主题
+- A,A.details
+- A.usage
+- B,B.details
+- B.usage
+这是今天的逻辑
+- A,B
+- A.details,.usage
+- B.details,.usage
+想集合与逻辑,函数与极限与导数
+我是希望在第一节课里提到的.
+
+如果是前端的话
+第一节课,我或许会做个material的water drop animation
+综合运用basic html css js
+
+再说吧.
+或许只是about simplicity(time)
+
 
 
 

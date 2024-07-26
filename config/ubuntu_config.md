@@ -46,7 +46,7 @@ sudo apt install gnome-shell-extension-prefs
   - nightlight `0 to 0`
 
 ## keyboard
-- shortcuts
+- get shortcuts
 ```
 close_window `ctrl q`
 home_folder `super e`
@@ -282,15 +282,16 @@ sudo apt-get install code
 > -> file > preferences > configure user snippets
 > -> git/blogging/config/cpp.code-snippets
 - config shortcuts
+> ctrl k ctrl s
 ```
-// config these by "ctrl k ctrl s"
 duplicate selection `ctrl d`
 insert line below `shift enter`
 
 run code `ctrl r`
 stop running `ctrl e`
-
-// below are built-in
+```
+- get shortcuts
+```
 do anything `ctrl shift p`
 
 open settings page `ctrl ,`
@@ -382,7 +383,7 @@ cp -r Nord-Dark/ Nord-Light/ ~/.local/share/fcitx5/themes/
 Theme=Nord-Dark
 Theme=Default //in the end...
 ```
-- shortcuts
+- get shortcuts
 ```
 clipboard `ctrl ;`
 ```
@@ -540,6 +541,10 @@ FreeDictionary-Idioms
 > -> View
   - navigation `on`
   - others `off`
+- get shortcuts
+```
+screen word picker `ctrl c ctrl c`
+```
 
 # vlc
 - config

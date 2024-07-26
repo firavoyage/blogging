@@ -475,6 +475,12 @@ e.g. render app,call functions incl pages,buttons,icons,get html element
 finally,render element,get html node(html node obj)
 ok,you can append the app node to document body
 
+- `autoarchive` auto save webpage
+> by internet archive
+  - if a web page or image is mentioned in your blog
+auto save it to internet archive
+by api
+
 ## channel
 
 - `fira` reply the world and myself
@@ -555,6 +561,10 @@ you can read a chapter for several times,skip the boring ones and free your hand
 but the game itself just offers something like a bookmark,you can only continue reading and go forward
 skipping are disabled and reread is just like a dictionary including scrolling texts and voice-playing buttons
 and most importantly,all these vid are in english,it may opens a whole new world for chinese
+  - idea
+nothing special.
+i would like to read the book again,just like many other steamers.
+and this time i will meet more characters and make vid.
   - inspired by
 memoir of prosperity
 playboy's promise

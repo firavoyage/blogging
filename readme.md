@@ -32,6 +32,8 @@
   - sky (beyond)
   - fu shi shan xia (eason chan)
   - hyehwadong (park bo ram)
+  - story of time (luo da you)
+  - tomorrow will be better (luo da you)
 -
   - in solitude where we are least alone
   - worldend: what do you do at the end of the world? are you busy? will you save us?
@@ -86,12 +88,15 @@
   - unfettered idle man
   - edmund d zhang
   - tail tail desu
-  - forever naive taffy
-  - orient snowy lotus
-  - nicholas wei bro
   - old bai sleepwalked
   - my sister is just that kawaii
   - longbow flintlock
+  - nicholas wei bro
+  - forever naive taffy
+  - orient snowy lotus
+  - wanderer brawlstars
+  - nova lciop
+  - gao zi xiang
 -
   - 前方的路
   - 黑客与画家
@@ -133,8 +138,8 @@
   - google product sans
   - han wang shin su
   - han wang yan kai
-  - noto sans cjk
-  - noto serif cjk
+  - noto sans cjk sc
+  - noto serif cjk sc
   - resource han rounded cn
   - roboto
   - rounded mplus
@@ -180,6 +185,8 @@
   - gravitated and spellbound
   - beautifully advance
   - do have faith in what you are doing
+  - live in the future and build what's missing
+  - life is a long-plank game
 - tell me, and i will forget.
   - show me, and i may remember.
   - involve me, and i will understand.
@@ -188,8 +195,8 @@
   - god is light, and in him there is no darkness at all. 
   - if we say we have fellowship with him yet walk in the darkness, we lie and do not practice the truth. 
   - but if we walk in the light as he is in the light, we have fellowship with one another, and the blood of jesus his son cleanses us from all sin.
-- live in the future and build what's missing
-- life is a long-plank game
+- soli deo gloria.
+- memento mori.
 - 遂迷不复得路
 - 念念不忘必有回想
 - 命里有时终须有命里无时莫强求

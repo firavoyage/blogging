@@ -10,7 +10,7 @@
 > implementation explanation style theory -> theory
 > lists database library collection repository -> library
 > vintage legacy golden nostalgia reminiscent retro -> retro
-> -> quote,-> story,-> ...
+> -> quote,-> story,-> history,-> view,->...
 > those not included are most probably just another bbs post
 > (fira,20240719)
 
@@ -69,7 +69,7 @@ A mostly reasonable approach to JavaScript
 
 https://github.com/airbnb/javascript
 
-## why programmers dislike conferences quote
+## why programmers dislike conferences view
 
 《为什么程序员不喜欢开会？》，by Paul Graham
 
@@ -321,7 +321,7 @@ http://readerisdead.com/reader/view/
 
 Google Reader 是谷歌的线上 RSS 阅读器，2013年关闭。现在，有人复制了一个一模一样的，让大家体验一下当年的感觉。
 
-## dont ever grow up play on quote
+## dont ever grow up play on story
 
 6月底，由于竞争不过网上商店，美国最大的玩具连锁店玩具反斗城（Toys R US）破产关门，全美700多家连锁店全部歇业，70年的公司历史正式结束。最后一天，一个员工贴出了一张照片：清空的商店里面，一只长颈鹿拿着行李箱准备离开。
 
@@ -354,11 +354,11 @@ https://github.com/nhnent/tui.image-editor
 
 开源的在线图像编辑器。
 
-## conceited app quote
+## a so conceited app called mac keynote quote
 
 一个软件要多么自负，才会选择 .key 作为文件后缀名。这个软件就叫 Mac Keynote。（推特@climagic）
 
-## startup happy memories quote
+## startup happy memories story
 
 這段大陸創業的日子，帶給了我太多美好的回憶，這所謂的『美好回憶』，不是指我有多成功，而是我選擇了自己想要的生活，有句話不是這樣說嗎？唯一真正的成功，是按自己的意思過上生活。（一个台湾网友）
 
@@ -417,7 +417,7 @@ https://framer.com/
 
 一个用于原型产品 UI 设计的桌面软件，类似 Sketch。
 
-## linkedin is a mmorpg quote
+## linkedin is a mmorpg view
 
 LinkedIn 是一种游戏
 
@@ -430,8 +430,6 @@ https://theoutline.com/post/5495/how-to-beat-linked-in-the-game?zd=1&zi=4ysmx4oy
 LinkedIn 游戏的总体目标是在网站上找到尽可能多的人并与之建立联系，以确保你的社交资本和进一步的职业生涯。对于初学者来说，游戏似乎是开放式的，并且不存在那种传统意义上的被其他人"击败"的可能。
 
 下面是用户在 LinkedIn 赢得胜利的一些技巧。
-
-
 
 赢得LinkedIn最重要的部分是创造完美的个人简历。将您的位置设为纽约、旧金山或洛杉矶（唯一重要的三个城市） ，或者更好的是，将自己描述为东海岸和西海岸都有工作经历，如果加入金融行业和常春藤联盟学校的经历，那就更好了。并要插入你与人们握手和参加会议的照片。
 
@@ -545,7 +543,7 @@ https://blog.stoplight.io/writing-documentation-when-you-arent-a-technical-write
 
 -- JSLint 许可证写着："这个软件只能用于善事，不得用于邪恶"。由于善和恶的含义很难准确定义，IBM 公司的律师要求找到开发者 Douglas Crockford 要求给予 IBM 特别许可，Douglas Crockford 就在许可证里面加了上面一行。
 
-## goods buying extra costs quote
+## goods buying extra costs view
 
 我们购买任何商品时，支付价格不包括商品的全部成本。我们没有支付商品回收处理的成本，也没有支付修复环境的成本，更没有支付应对生产过程中排放的二氧化碳的成本。换句话说，每一件商品里面都包含后代支付给我们的大量补贴。
 
@@ -651,7 +649,7 @@ https://carbon.now.sh/
 
 将代码保存成图片的开源服务，可以用来上传到社交媒体。
 
-## mobile app portray satirical quote
+## mobile app portray satirical image
 
 https://twitter.com/nixcraft/status/1040536061590622208
 
@@ -665,7 +663,7 @@ https://twitter.com/nixcraft/status/1040536061590622208
 
 https://store.steampowered.com/app/1090060/Weapon_Hacker/
 
-## calm down at work quote
+## calm down at work view
 
 Basecamp 是 IT 行业很有名的一家公司，提供团队协作工具，同时也是 Rails on Ruby 框架的创造者。这家公司的特别之处在于，它不仅写软件，还写畅销书！
 
@@ -729,7 +727,7 @@ http://thefounder.biz/
 
 https://florentcrivello.com/index.php/2018/09/25/go-west-young-man/
 
-## steve jobs passion quote criticism
+## steve jobs passion quotes criticism
 
 2005年，斯坦福大学邀请乔布斯在毕业典礼演讲。这个演讲后来成为经典，《乔布斯传》说"或许有些演讲对后世影响更大，但是你找不到（比这篇）更好的演讲。"
 
@@ -769,7 +767,7 @@ https://hashtag.ai/blog/2018/09/23/fruit.html
 
 如果你在搜索引擎里面，搜索"不是橙色的水果"，结果会恰恰相反，返回的都是橙色的水果。这证明，搜索引擎目前都是基于关键词，而不是语义搜索。
 
-## instagram startup history quote
+## instagram startup story quote
 
 最早，我们做的是一个地理位置应用，人们到了一个地点，可以签到和发照片。我们发现，人们对位置不太在乎，只是希望将照片放在那里。
 
@@ -777,7 +775,7 @@ https://hashtag.ai/blog/2018/09/23/fruit.html
 
 -- 《Instagram 的故事》
 
-## tech is knowledge or not quote
+## tech is not knowledge view
 
 第24期时，我引用了一个开发者对年轻程序员的告诫。
 
@@ -831,7 +829,7 @@ https://www.wangbase.com/blogimg/asset/201810/bg2018102617.jpg
 
 http://cdixon.org/2015/01/31/come-for-the-tool-stay-for-the-network/
 
-## complex programs show a complex company quote (conway'law)
+## complex programs are a complex company view (conway'law)
 
 1968年，计算机学家梅尔文·E·康威发表了一篇著名论文，后来被称为康威定律（Conway's law）。
 
@@ -865,7 +863,7 @@ https://github.com/mdibaiee/awesome-lite-websites
 
 很多网站有一个轻量级版本（lite version），这个仓库收集这些网站的清单。
 
-## lost computer science quote
+## lost computer science view
 
 失传的计算机科学
 
@@ -883,7 +881,7 @@ http://rubyhacker.com/blog2/20150917.html
 
 或者换一种方式看待它：如果你想建造狗屋，只需用锤子和钉子。如果你想成为一名设计和建造摩天大楼的建筑师，那么首先要获得建筑学位。但请不要明明在建造狗屋，你却称呼自己为建筑师。
 
-## best autoreplies quote
+## best auto replies
 
 自动回复
 
@@ -927,7 +925,7 @@ Sol LeWitt 是一个美国画家，但是他根本不作画，而是用语言描
 
 -- Gmail 创造者 Paul Buchheit 谈为什么离开谷歌
 
-## character of a company quote
+## companies have their characters view
 
 上个月谷歌宣布，社交应用 G+ 将在10个月后关闭。
 
@@ -993,7 +991,7 @@ https://twitter.com/CodeWisdom/status/1054713299386986496
 
 http://cityobservatory.org/housing-cant-be-affordable_and_be-a-good-investment/
 
-## programmers think about retirement quote
+## when programmers should consider retirement view
 
 计算机科学家 Tim Bray 最近写了一篇博客，他觉得自己可能应该退休了。
 
@@ -1019,7 +1017,7 @@ https://www.tbray.org/ongoing/When/201x/2018/10/25/On-Retirement
 
 年轻程序员应该对自己的人生有一个规划。你的编程技能具有经济价值的年限是很短的，不可能一直在第一线编程的。折旧差不多以后，你的人生角色就会发生变化，应该多想想下一步要做的事情。
 
-## bus station waiting time survey fault quote
+## bus station waiting time survey fault theory
 
 等待时间悖论（英文）
 
@@ -1160,7 +1158,7 @@ https://medium.com/@boriscoder/peeking-under-the-hood-of-redesigned-gmail-dd84b5
 
 新版的 Gmail 用谷歌自家的 Lighthouse 评估性能，100分里面只得了2分。下载的脚本有6MB，完全渲染需要9秒，其中一半代码可能根本用不到。有人分析了代码，发现过时的早期代码都还在。猜测由于过于复杂，现有团队可能没有能力升级底层，只做了一些样式的更新。
 
-## minimalist programmer quote
+## minimalist programmer statement theory
 
 极简主义软件工程师宣言（英文）
 
@@ -1542,8 +1540,7 @@ https://www.wangbase.com/blogimg/asset/201901/bg2019011829.jpg
 
 网友 @chun1iu 评论："不是更加醒目，而是更加中庸，更容易被所有人接受。不会很喜欢，也不会很反感，就是很大众。这些公司的成长过了标新立异的阶段而已。"
 
-## the essense of midlife crisis quote
-
+## what is midlife crisis quote
 
 中年人是艰难的。青年时代的理想主义已经消退，健康和活力也不可避免地有一点降低，但是承担的责任却在增长，再加上一些对死亡的恐惧和一些对活着的恐惧，你就有了叫做中年危机的东西。
 
@@ -1551,7 +1548,7 @@ https://www.wangbase.com/blogimg/asset/201901/bg2019011829.jpg
 
 http://dtrace.org/blogs/bmc/2018/12/14/open-source-confronts-its-midlife-crisis/
 
-## the internet industry is never depressed quote
+## the internet industry is never ever depressed view
 
 有几个网友留言问我，怎么看互联网"裁员潮"。我就来谈几句。
 
@@ -1599,9 +1596,9 @@ https://www.changhai.org/articles/science/misc/BigQuestions.php
 
 https://medium.com/incerto/iq-is-largely-a-pseudoscientific-swindle-f131c101ba39
 
-## the intersection of two top 25% areas is a successful job quote
+## the intersection of two top 25% areas is a successful job view
 
-呆伯特漫画的作者亚当斯（ Scott Adams），有一次谈到自己的成功秘诀。
+呆伯特漫画的作者亚当斯（Scott Adams），有一次谈到自己的成功秘诀。
 
 他的经历其实很普通。小时候喜欢画画，画得还可以，但远远不算优秀。长大以后，在一家公司当经理，管理企业，也是业绩平平。无论是选择当画家，或者继续当公司经理，也许都能够干下去，但应该都不会很成功。于是，他灵机一动，把自己的这两个特点结合起来，选择了另一条路：专门画讽刺企业管理的漫画，结果走红了，成了世界闻名的漫画家。
 
@@ -1637,7 +1634,7 @@ https://github.com/shimohq/chinese-programmer-wrong-pronunciation
 
 https://twitter.com/wolfejosh/status/981017179897376770
 
-## only those with parachute will jump quote
+## only those with parachute will jump theory
 
 上图是一架小飞机停在草地，一个人从上面跳下来。
 
@@ -1810,6 +1807,234 @@ https://en.wikipedia.org/wiki/Mukbang
 但是我还是疑惑，如果将来的工作都是拍这种视频，那有多大的意思呢？卡辛斯基曾经提到过这种情况。未来生产力大发展，物质极大丰富，人类无所事事，只能"把时间花在互相擦皮鞋上面，或者用出租车带着彼此到处瞎转，互相为对方做手工艺品，互相给对方端盘子等等。"说实话，我看不出来，大家互相拍视频，直播吃饭、购物、打游戏，跟互相擦皮鞋，有什么本质的不同。
 
 https://www.ruanyifeng.com/blog/2017/09/unabomber.html
+
+## too much stupid homework social problem story
+
+写字机器人
+
+https://www.thepaper.cn/newsDetail_forward_2998361
+
+《钱江晚报》报道，哈尔滨市的张女士发现，初三的女儿在网上买了一台"写字机器人"，它不仅可以模仿孩子的笔迹抄课文、抄生字，还能画手抄报，女儿的语文作业就是机器人帮着写的。她一怒之下摔碎了"机器人"，还骂了女儿一顿。
+
+据网店客服介绍，"写字机器人"实为一组杆状的电子金属套件，只需简单组装、下载软件，让机器人识别使用者的笔迹，导入需要书写的文字内容，再在前端安置一支笔，它就能在纸上模仿使用者笔迹书写指定内容，书写速度比较快，每分钟40个字左右，连笔字更快。
+
+## emotion voice map library web app
+
+声音地图
+
+https://s3-us-west-1.amazonaws.com/vocs/map.html#
+
+https://www.researchgate.net/publication/329824563_Mapping_24_Emotions_Conveyed_by_Brief_Human_Vocalization
+
+该网站将不同情绪对应的声音，画成一幅地图。鼠标移到每个点上，都会听到声音，比如包含了50%的敬爱、33%的同情、17%满意的声音。
+
+## frontend daily library
+
+前端开发技术日报
+
+https://github.com/kujian/frontendDaily
+
+每日分享互联网上的前端技术、前端资讯。（@kujian 投稿）
+
+## trending program repos web app
+
+GitNews
+
+https://git.news/
+
+该网站实时显示 GitHub 趋势、HackerNews 和 Reddit 里面出现的热门代码仓库。
+
+## claiming busy is nothing quote
+
+如果没有完成项目，你再忙碌，也无法掩饰没有成效。
+
+-- Jack Bruce Simpson
+
+http://jacksimpson.co/finishing-being-productive-busy/
+
+## popular tech itself is useless quote
+
+技术本身并不重要，公司只是希望工程师团队不知疲倦地应用最新的流行技术，做出很炫的东西。
+
+-- James Beswick
+
+https://itnext.io/the-cloud-skills-shortage-and-the-unemployed-army-of-the-certified-bd405784cef1
+
+## orange color history
+
+橙色的历史（英文）
+
+https://mymodernmet.com/history-color-orange/
+
+https://cdn.beekka.com/blogimg/asset/201903/bg2019032213.jpg
+
+欧洲人直到16世纪才开始使用这种颜色。橙色象征着生育和富饶，上图是1895年的油画，反映了穿着橙色长袍的青年女性。
+
+## indie ios dev apps library
+
+中国独立 iOS 和 macOS 开发者的作品
+
+https://josephchang10.github.io/chinese-indie-hackers/
+
+该仓库收集个人开发者提交的作品。（@Y024 投稿）
+
+## getting locked by amazon web server quote
+
+如果你每月在 AWS 花费10万美元，亚马逊会向你提供折扣。如果你一个月的花费超过100万美元，他们将不再理会你。因为他们知道你已经被锁在他们的服务里面，去不了别的地方。
+
+-- 《Lambda 和 无服务器将锁定你》
+
+## investors dont care 150% revenue quote
+
+如果你跟风险投资家说，你的项目将使得他们三年内获得3倍的回报，他们可能根本不会进行投资。每年50％的回报率不值得他们花时间。
+
+这是因为所有风投项目如果有1/3提供3倍的回报，其余的都失败了，那么这个风投基金将一无所获。
+
+-- 《我们未能建立一个10亿美元的公司》
+
+## dont afraid of giving up view
+
+一个美国程序员分享自己的工作方法，其中有一条是 "要么不做，要做就做完"。
+
+https://briancasel.com/impatient-execution/
+
+他的意思是，不要给自己留下做了一半的活。因为这意味着你需要再回来，继续把它做完；你会挂念这件事情，它就像一个钟摆，过一段时间就会重新出现在你的脑海，时不时烦扰着你。
+
+你的目标应该是，当天就把这件事情做完，从此不必再去碰它，第二天继续做下一件事就行了。如果遇到一天做不完的大项目，那就把它分解成一个个小步骤，每天完成一个步骤。
+
+我觉得他说得很好，但是这句话比较重要的，其实是前半句：有些事情不要去做。事情是做不完的，而你的时间和精力是有限的，不要只想着如何才能把事情做完，还要学会不做那些不应该做的事情。
+
+某种程度上，不做比做完更困难。因为通常来说，做完一件事，多多少少都有一些好处，不做意味着你要放弃一些眼前的好处，这并不容易。
+
+最糟糕的一种情况是，某个项目不值得做，但是你已经做了，为了不要浪费已经投入的成本，于是你进一步投入，在泥坑里面越陷越深。等到项目最后失败的时候，你大伤元气，一蹶不振。项目管理有一个很重要的原则，叫做"尽快失败"，就是为了防止这种情况。胡适先生原来学农科，专业是果树栽培，他觉得实在没意思，大学读到一半就改学哲学，后来当上了北大校长。如果他没有放弃，想着拿完农科文凭再说，那他大概就不会有以后的成就了。总之，对于那些没希望的项目，放弃得越早越好。
+
+https://www.ruanyifeng.com/blog/2007/02/hushih_s_switch_part_i.html
+
+## the cost of abstraction theory
+
+抽象的成本（英文）
+
+http://250bpm.com/blog:86
+
+重复的代码通常会被抽象掉，本文讨论抽象带来的额外成本。
+
+## 996 icu social problem history
+
+996.icu
+
+https://996.icu/#/
+
+一个程序员制作的抗议 996 工作制的网站。（@9527q 投稿）
+
+## why should you stop reading news view
+
+为什么你应该停止阅读新闻？
+
+https://fs.blog/2013/12/stop-reading-news/
+
+今天的新闻业与以前有很大不同。
+
+（1）新闻传播的速度大大提高。现在，新闻在发生后的几秒内，就开始传播，每个人在很短时间内，就会知道发生了什么事。
+
+（2）新闻的产出成本大幅下降。现在，有人可以每天写12篇报道，一年就是近3000篇，这还只是一个人的产量。这么快的产出速度，几乎不可能在一个主题有一些深思熟虑的东西。由于产出成本已降至接近零，因此新闻业存在很多竞争。
+
+（3）新闻业企图给读者洗脑。今天的新闻不再强调客观，而是充满了主观看法，企图用个性吸引读者。
+
+（4）点击量成了主要目标。由于竞争激烈，大多数新闻媒体都不得不提供免费新闻，因此必须依靠广告产生收入。广告收入的高低直接依赖于点击量。创造很多耸人听闻的新闻，最容易获得点击。
+
+总之，今天网上的大部分新闻都毫无意义，对你的生活并不重要，不会帮助你做出更好的决定，也不会帮助你理解世界，与周围的人建立联系。它们只会消耗你的注意力，造成你的注意力不足。你被大量信息包围，感到不知所措，为了赶上这一切，内心承受了压力。完全不看新闻，可能是更好的做法。
+
+## the stupid overconfident ones quote
+
+我们这个时代的痛苦在于，那些愚蠢的人都非常自信，那些有想象力和理解能力的人充满了怀疑和犹豫不决。
+
+-- 《关于愚蠢》
+
+http://nautil.us/blog/the-case-for-professors-of-stupidity
+
+## the never ending problem of social medias quote
+
+社交媒体的问题是永不结束。它只让你看最新的东西，就像在轮子上奔跑的仓鼠一样，我们生活在消耗短暂内容的无限循环中，结果我们失去了历史感。
+
+-- 《此时此刻永无止尽》
+
+http://www.perell.com/blog/never-ending-now
+
+## never getting bored design theory
+
+可乐不会形成味道的记忆。你可以在上午9点，上午11点，下午5点各喝一杯，而不会对它的味道厌倦，其他饮料都做不到，一段时间后你会厌倦它们。普通人每天饮用64盎司的液体，你可以将所有64盎司的液体都换成可乐。
+
+-- 巴菲特解释他为什么投资可口可乐
+
+https://twitter.com/naval/status/1094005693818884096
+
+## dont earn at the cost of time view
+
+前几天，我听一个广播节目。主持人问，现在很多人开网约车，这样能赚多少钱，能够赚到大钱吗？
+
+这个问题很容易回答，答案就是不能。出租车司机的收入，主要由营业时间的长短决定。基本上，一天开12个小时，就是比开6个小时，收入高出一倍。每天只有24个小时，因此收入存在上限，不可能偏离平均水平很远。
+
+出租车是"时间换收入"的典型行业，投入的时间越多，收入越高，在家休息就没收入。很多行业都属于"时间换收入"，所有此类行业都赚不到大钱。因为你能用来交换的时间是有限的，而且进入中年以后，你就拿不出更多的时间来交换。开出租车赚零花钱，或者作为短期过渡，这是没问题的，但作为终身职业是很糟糕的。
+
+我觉得，越来越多的程序员正在落入这个陷井，用编码的时间换取收入。只有不停地做项目，才能拿到钱。项目做得越多，收入越高。这个项目开发完了，公司又让他去干下一个项目。 忙了好几年，项目完成了一大堆，但是自己什么也没留下，以后的收入还要取决于从零开始的新项目。这样的话，你跟出租车司机有何两样，哪一天你不写代码了，不是照样没收入。
+
+那些赚到大钱的人，没有一个是靠时间换取收入的。他们要么通过积累资产致富，要么购买他人的时间，为自己创造财富。你应该警惕，不要落入"时间换取收入"的陷井，不要只顾着为别人生产代码，而要注意积累自己的资产，以及适时开展属于自己的业务。
+
+## redesign ui is a waste of time view
+
+重新设计 UI 基本上是浪费时间（英文）
+
+https://debugandrelease.blogspot.com/2019/03/ui-redesigns-are-mostly-waste-of-time.html
+
+作者认为，95%情况下，你不需要重新设计 UI。
+
+## 30 days react beginner guide
+
+React 教程
+
+https://github.com/fullstackreact/30-days-of-react
+
+一个 React 的30天开源教程。（@CharlesCCC 投稿）
+
+## 7 days roguelike game dev challenge library
+
+7DRL Challenge 2019
+
+https://itch.io/jam/7drl-challenge-2019
+
+这是一个地图探险类（rogue like）游戏的比赛，全世界开发者都可以将自己的作品上传，唯一的条件是该游戏必须是在七天内开发完成。目前，已经有100多个作品，各个平台都有，其中将近一半可以在浏览器里面运行，都可以免费下载。
+
+## pure css lemonage image web app
+
+纯 CSS 图片
+
+https://codepen.io/ivorjetski/pen/xMJoYO
+
+下面图片不是照片，而是纯粹用 CSS 生成的。（@beiyeqingteng 投稿）
+
+## full lifecycle dev theory
+
+全周期工程师就是一个人负责完整的软件生命周期：设计，开发，测试，部署，操作和支持。
+
+https://medium.com/@eminetto/full-stack-vs-full-cycle-developer-2a454942291b
+
+-- 《从全栈工程师到全周期工程师》
+
+## dev well using a laptop from a decade ago story
+
+https://cdn.beekka.com/blogimg/asset/201904/bg2019041201.jpg
+
+一个程序员的 Macbook 送修了，他只好重新使用10年前的笔记本电脑（上图）。结果意外地发现，虽然有点慢，但是不影响使用。10年前的电脑依然能够满足日常工作。
+
+https://geoff.greer.fm/2017/01/23/oldest-viable-laptop/
+
+如果2009年的时候，让你去使用1999年的电脑，那是不可想象的，根本没有实用性。但是，2019年的时候，去使用2009年的电脑，却是完全可行的。
+
+这说明，过去十年的硬件进展不太大，导致10年前的硬件不是那么过时。过去十年，进展主要体现在软件上面：软件功能更强大、使用更友好、界面更美观。
+
+经济有一个定理，叫做"边际收益递减"，意思是，发展到比较成熟的阶段以后，以后每一步的进展会越来越小。硬件就是如此，摩尔定理到了尽头以后，就已经开始慢下来了。我估计，硬件之后就是软件，随着软件开发技术的成熟，以后软件的进展也会放缓，总有一天，我们使用十年以前的软件，也会觉得还可以接受，当然现在还没到这一步。
+
+软件之后的发展重点，我认为将是算法和数据，以后的进步更多会体现在算法优化和数据训练上面。
 
 ## 
 
