@@ -44,6 +44,7 @@
   - joker (2019)
   - soul (2020)
   - _evangelion (1995)
+  - _your name (2016)
   - _bang dream! it's mygo!!!!! (2023)
   - _bocchi the rock (2022)
   - _frieren: beyond journey's end (2023)
