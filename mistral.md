@@ -1371,4 +1371,91 @@ For more information on Markdown, check out the [Markdown Cheat Sheet](https://g
 It's worth noting that some high schools may offer additional courses or electives, depending on the school's resources and student interests. For example, some schools may offer advanced math or science classes, music or art programs, or language exchange opportunities with students from other countries.
 ```
 
+## c++ struct functions
+
+> -> mistral large
+> can c++ struct include functions
+
+```
+Yes, in C++, a `struct` can include functions, just like a `class`. The main difference between a `struct` and a `class` in C++ is that members of a `struct` are public by default, while members of a `class` are private by default. However, both can contain member functions, constructors, destructors, and other member types.
+
+Here's an example of a `struct` that includes functions:
+
+\```cpp
+#include <iostream>
+
+struct MyStruct {
+    int value;
+
+    // Constructor
+    MyStruct(int val) : value(val) {}
+
+    // Member function
+    void printValue() const {
+        std::cout << "Value: " << value << std::endl;
+    }
+
+    // Another member function
+    void incrementValue(int amount) {
+        value += amount;
+    }
+};
+
+int main() {
+    MyStruct myStruct(10);
+    myStruct.printValue();  // Output: Value: 10
+
+    myStruct.incrementValue(5);
+    myStruct.printValue();  // Output: Value: 15
+
+    return 0;
+}
+\```
+
+In this example, `MyStruct` is a `struct` that contains:
+- A data member `value`.
+- A constructor `MyStruct(int val)` to initialize `value`.
+- A member function `printValue()` to print the value.
+- Another member function `incrementValue(int amount)` to increment the value.
+
+You can use `struct` in C++ just like you would use a `class`, with the understanding that the default access level for members is public.
+```
+
+> -> mistral codestral
+> can c++ struct include functions
+
+```
+Yes, a C++ struct can include functions. In fact, a struct in C++ is very similar to a class, with the main difference being that the default access specifier for a struct is public, while for a class it is private.
+
+Here's an example of a struct that includes a function:
+
+\```cpp
+#include <iostream>
+
+struct Rectangle {
+    int width, height;
+
+    void setValues(int w, int h) {
+        width = w;
+        height = h;
+    }
+
+    int area() {
+        return width * height;
+    }
+};
+
+int main() {
+    Rectangle rect;
+    rect.setValues(3, 4);
+    std::cout << "Area: " << rect.area() << std::endl;
+    return 0;
+}
+\```
+
+In this example, the `Rectangle` struct has two member variables (`width` and `height`), and two member functions (`setValues` and `area`). The `setValues` function sets the width and height of the rectangle, and the `area` function calculates and returns the area of the rectangle.
+```
+
+
+
 

@@ -1,10 +1,11 @@
 # firavoyage 
 
 ## self
-- a developer
+- an entrepreneur, developer
 - grew up in shanghai
-- on the internet since 2022 which is my actual home town
-- working on pure math
+- on the internet since 2022, which is my actual "home town"
+- live in rest of the world
+- working on building pure math
 
 ## love
 - 
@@ -38,14 +39,15 @@
   - in solitude where we are least alone
   - worldend: what do you do at the end of the world? are you busy? will you save us?
   - bang dream! it's mygo!!!!!
-  - frieren: beyond journey's end
   - bocchi the rock
+  - frieren: beyond journey's end
   - oshi no ko
-  - tom and jerry classic collection
   - evangelion
+  - tom and jerry classic collection
   - reply 1988
   - joker
   - soul
+  - the good the bad and the ugly
 -
   - honkai star rail
   - honkai impact third
@@ -57,15 +59,14 @@
   - brawl stars
   - clash royale
   - soul knight
-  - the rainbow appears after flowering rain
+  - _fly me 2 the moon
   - _the legend of zelda
   - _sekiro: shadows die twice
   - _elden ring
   - _grand theft auto v
   - _the binding of isaac
-  - _needy streamer overload
   - _senrenbanka
-  - _fly me 2 the moon
+  - _tuxun.fun
 -
   - billy kid
   - clara
@@ -81,10 +82,10 @@
   - adhesion tek
   - coding startup
   - diygod
-  - refactoring ui
   - interpreter gavin
   - new national debation
   - spicy century egg porridge
+  - paperclip
   - unfettered idle man
   - edmund d zhang
   - tail tail desu
@@ -96,35 +97,45 @@
   - orient snowy lotus
   - wanderer brawlstars
   - nova lciop
-  - gao zi xiang
+  - gao zixiang
+  - chen zihao
+  - zhang chuanzhi
+  - chen shiyu
+  - wang zhaohai
+  - jiang zhijun
 -
-  - 前方的路
-  - 黑客与画家
-  - 给青年人的十二封信
-  - 观念的水位
-  - 刘擎西方现代思想讲义
-  - 目送
-  - 给大壮的信
-  - 房思琪的初恋乐园
-  - .人生哲思录
-  - _godel,escher,bach
+  - road ahead (ruanyf)
+  - survivor: a guide for the future (ruanyf)
+  - hackers and painters (paulg)
+  - refactoring ui (adam wathan & steve schoger)
+  - javascript: the good parts (douglas crockford)
+  - javascript: the definitive guide (david flanagan)
+  - javascript notes for professionals book (goalkicker)
+  - twelve letters for the young (zhu guangqian)
+  - the water level of concept (liu yu)
+  - liu qing's lectures on modern western thought (liu qing)
+  - a long gaze (long yingtai)
+  - letter to da zhuang (miao wei)
+  - .philosophy of life (zhou guoping)
+  - .mathematics (the second affiliated middle school of east china normal university)
+  - _godel, escher, bach (douglas hofstadter)
   - _the bible
-  - _海子的诗
-  - _顾城的诗
-  - _飞鸟集
-  - _人间词话
-  - _树上的男爵
-  - _道德经
-  - _傲慢与偏见
-  - _罗生门
-  - _黄金年代
-  - _百年孤独
+  - _haizi's poems (hai zi)
+  - _gu cheng's poems (gu cheng)
+  - _stray birds (rabindranath tagore)
+  - _remarks on the song lyric and the human condition (wang guowei)
+  - _if on a winter's night a traveler (italo calvino)
+  - _tao te ching (laozi)
+  - _pride and prejudice (jane austen)
+  - _rashomon (ryunosuke akutagawa)
+  - _one hundred years of solitude (gabriel garcía marquez)
 -
   - design.google
-  - material.io
-  - plaintxt.org
-  - jrsinclair.com
-  - ruanyifeng.com/blog
+  - material design
+  - ruanyifeng blog
+  - plaintxt blog
+  - jrsinclair blog
+  - iphone 4
   - ubuntu yaru
   - dracula official
   - one dark pro
@@ -135,11 +146,11 @@
   - fira sans
   - free sans
   - fz kaiti
-  - google product sans
   - han wang shin su
   - han wang yan kai
   - noto sans cjk sc
   - noto serif cjk sc
+  - product sans
   - resource han rounded cn
   - roboto
   - rounded mplus
@@ -149,10 +160,53 @@
   - ubuntu 24
   - android 11
   - chromium 124
+  - firefox 124
   - code 1.89
   - git 2.43
   - fcitx 5.1.7
   - wine 9.0
+-
+  - fcitx android
+  - gnome amberol
+  - gnome apostrophe
+  - gnome blanket
+  - gnome calculator
+  - gnome calendar
+  - gnome cartridges
+  - gnome characters
+  - gnome clairvoyant
+  - gnome déjà dup backups
+  - gnome disk usage analyzer
+  - gnome document viewer
+  - gnome eyedropper
+  - gnome files
+  - gnome fonts
+  - gnome graphs
+  - gnome image viewer
+  - gnome impression
+  - gnome letterpress
+  - gnome maps
+  - gnome music
+  - gnome newsflash
+  - gnome podcasts
+  - gnome settings
+  - gnome shortwave
+  - gnome software
+  - gnome system monitor
+  - gnome terminal
+  - gnome text editor
+  - gnome weather
+  - gnome web
+  - gnu image manipulation program
+  - inkscape
+  - jan
+  - kdenlive
+  - libre office
+  - material files
+  - obs studio
+  - qbitorrent
+  - v2raya
+  - vlc media player
 
 ## quotes
 - as human beings it is our right (maybe our moral duty) to reshape the universe to our preferences
@@ -173,10 +227,10 @@
   - it's ok to get yours from "making things happen"
 - reading is active while watching tv is passive
   - all the research says reading a book is good for you.
-  - it reduces stress,promotes comprehension,relieves depression,helps you sleep and may contribute to preventing alzheimer's.
+  - it reduces stress, promotes comprehension, relieves depression, helps you sleep and may contribute to preventing alzheimer's.
   - the act of physically turning a page creates a momentary pause for understanding to sink in.
   - our brains have to work to translate the black squiggles on the page into words and then interpret the meaning and intent of those words.
-  - when a character is described as tall with brown hair,a reader creates her own picture.
+  - when a character is described as tall with brown hair, a reader creates her own picture.
   - tv takes all that good imagination away.
 - stay focused, keep shipping. 
   - build early, build always. 
@@ -219,49 +273,40 @@
 - 宁为玉碎不为瓦全
 - 壮士断腕义无再辱
 
-## character
-- reminiscent youth //good old days...
-- tech otaku //unworldly girls...
-- digital hoarder //memories forever...
-- simplicity addict //elegance of knowledge...
-- indie developer //freedom of mind...
-
 ## pages
 - people
-  - livid //desired youth as a letter
-  - nat //beliefs of a tech entrepreneur
+  - livid //a letter to confused youth
+  - nat //belief of a tech entrepreneur
   - ruanyf //everything about the digital time
-  - yinming //answers from a typical startup webmaster
+  - yinming //answers from a startup webmaster
 - ideas
-  - projects //interesting and meaningful time killers
-  - reply //reply to the world 
-  - comments //words and its origin
-  - idioms //meme-like quotes just for fun
-  - mistral //wikipedia by mistral ai
+  - projects //the interesting and the meaningful
+  - reply //reply to the world and rest of the world
+  - comments //words and their sources
+  - idioms //meme like quotes for fun and not for fun
+  - mistral //another wikipedia by mistral
 - self
-  - weekly //weekly plans constantly updating
-  - timeln //personal happenings
-  - djhs grades //school life
-  - swim //guide to libre swimming
+  - weekly //weekly plans at each time
+  - timeln //personal discoveries and thoughts
+  - djhs grades //perspective of school life
+  - email //way to contact me
+  - swim //libre swimming guide
 - config
   - ubuntu config //elegant work flow
   - chromium bookmarks //source of all
 
 ## repos
 - `git/blogging` notes and inspirations 
-- `git/blogging/config` app preferences
-- `git/blogging/shortcut` terminal commands
-- `git/blogging/debation` debation summaries
-- `git/web/blogs` internet pages capsuled
+- `git/web` pages capsuled
 - `git/memories` life
-- `git/memories/comments` internet spectator life
+- `git/memories/comments` spectator life
 - `git/memories/discoveries` digital life
 - `git/memories/gaming/self` gaming life
-- `git/memories/school` high school life
+- `git/memories/school` school life
+- `git/programs` source
 - `git/music` favorite songs
 - `git/fonts` favorite fonts
 - `git/self` favorite avatars
-- `git/programs` code sources
 
 ## links
 - files
@@ -287,6 +332,13 @@
   - email `firavoyage@outlook.com`
 - personal site
   - my blog `_wip`
+
+## character
+- reminiscent youth //good old days...
+- tech otaku //unworldly girls...
+- digital hoarder //memories forever...
+- simplicity addict //elegance of knowledge...
+- indie developer //freedom of mind...
 
 ## wish
 - mission

@@ -68,16 +68,30 @@ other themes available by pre & voyage
 
 ## dailyab
 
-今天是2024年7月18日.
-题目(格式化后的)
+### school time
+sep g1t1 g2t1 g3t1
+oct g1t1 g2t1 g3t1
+nov g1t1 g2t1 g3t1
+dec g1t1 g2t1 g3t1
 
-反面
+mar g1t2 g2t2 g3t2
+apr g1t2 g2t2 g3t2
+may g1t2 g2t2 g3t2
+jun g1t2 g2t2 g3t2
 
-芙宁娜退出画布
-进入画面,正面朴素解法
-图像解法|针对题中数据方法
+### style
 
-反面.
+daily problem a & problem b on two sides of an a4 page
+
+problem words simplified & solutions in several difficulty levels
+
+voice and avatar from keqing or elon musk
+
+## source
+
+- mathematics (the second affiliated middle school of east china normal university)
+- daoxuexianfeng
+- fudaoyutigao
 
 ## fellows
 
@@ -105,6 +119,27 @@ frontend flex/grid layout cheetsheet
 
 几张a4纸
 
+## elon musk
+
+下午17:30
+berryberry上有furina math channel
+digdog上有paimon sci channel,venti teaching channel
+
+我看到一张图片
+
+https://www.wangbase.com/blogimg/asset/201905/bg2019051712.jpg
+
+想到了"ma bro math channel"的点子
+哈哈
+
+更具体地,我想到的是
+ma bro teaching pure math!
+ma bro teaching intuitive!
+
+大家好,我是马云,今天我来教大家如何用图表撒谎
+大家好,我是elon musk,今天我来教大家高中数学
+hello,this is time cook,today i will teach you how to steal to inzakuma
+
 ## links
 
 个人地,我喜欢github和telegram
@@ -117,6 +152,7 @@ frontend flex/grid layout cheetsheet
 - telegram ...
 - bilibili ...
 - youtube ...
+
 
 
 

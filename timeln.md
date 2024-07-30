@@ -1202,7 +1202,7 @@ read ruanyf weekly
 衣柜,被褥,颜容,风景
 玩的pekka bridgespam,舒服哦.
 反正就是,性情中人我都是喜欢的,开心的.
-关键字:纵欲,真诚,三冲,过日子,恋爱追想,老板...
+纵欲,真诚,三冲,过日子,恋爱追想,老板...
 
 说一点,就是纵欲
 黑头发,黄皮肤,黑眼睛的,染的穿的不算.
@@ -1232,10 +1232,46 @@ inspired by
 挺惊险的,错一步就没了,关键是kafka break,和fu xuan ultimate recover hp
 哦...,说白了就是强度和炼度
 
+## 20240727
 
+凌晨1:24
+看chenzihao直播
+开全球唯一一台电动ferrari f8,拿着大疆云台(broken)
+去犀浦夜市吃炒粉 "吃个夜宵,散散心"
+脚下有拖鞋,身边有纹身精神小伙
+...
+鸢飞者闲情
 
+哪有300w,我这辆,
+1w公里的,270w就行了
+敞篷的310w左右
+像4,500w的,得童锦程才开得起
+像a,他4,5kw的...
+像b,他也3,4kw的...
 
+我轰一声油门给你听听哦
+好了
+别轰了,轰油门伤车
+我很爱惜我的车,哦不是,我朋友的车的
+朋友的车不要乱开
 
+下午17:30
+berryberry上有furina math channel
+digdog上有paimon sci channel,venti teaching channel
+
+我看到一张图片
+
+https://www.wangbase.com/blogimg/asset/201905/bg2019051712.jpg
+
+想到了"ma bro math channel"的点子
+哈哈
+
+更具体地,我想到的是
+ma bro teaching pure math!
+ma bro teaching intuitive!
+
+大家好,我是马云,今天我来教大家如何用图表撒谎
+大家好,我是elon musk,今天我来教大家高中数学
 
 
 

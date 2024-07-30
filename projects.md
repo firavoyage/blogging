@@ -14,6 +14,7 @@ zoom in and zoom out
 various content blocks
 collapse and show more
 line break styles powered by para compiler
+mdlint included.(use `#` or `=====`,no h4 h5 h6)
   - themes to choose
 powered by voyage
   - runs local
@@ -290,6 +291,10 @@ cheetsheet for each unit including its usage and its magic
 powered by pre and mind
   - various themes
 powered by voyage
+  - inspired by
+one math channel
+furina math channel
+elon musk avatar and voice
 
 - `leisure` retro language learning
 > english vocabularies pasttime
@@ -373,6 +378,7 @@ a(A){B} //a=function(A){B}
   - condition
 look like integrating switch statement into if statement
 but a few else and if make it clearer
+or you may define a fn called switch() or case(a,{value fn value fn...})
 ```
 if(a){A}(b){B}(c){C}{D} //if(a){A}else if(b){B}else if(c){C}else{D}
 ```
@@ -401,12 +407,22 @@ for(i 1 10 j 10 100){A} //for(let i=1;i<=10;i++){for(let j=10;i<=100;j++){A}}
 
 for(i arr j brr){A} //for(let __fs_i=0,i=arr[__fs_i],j=brr[__fs_i];__fs_i<arr.length&&__fs_i<brr.length;__fs_i++){A}
 ```
+  - conclusion
+firascript is a good idea,but i will continue writing javascript
+and... with some functions built-in.(define them at the top of all program)
+`define(obj,where)` copy all data (key value pairs) to `window`
+`case(value,pairs,StopAtFirstMatch=false)` match value to all value-fn pairs and run fn if it matches
+`repeat(fn,times=-1)` run fn several times,default infinite
+`each(first,last,step=1)` return an array of numbers,like python,used in `for(i of each(1,10)){}`
+then you get "firascript in javascript"
+it has consts(`consts={when:"addEventListener",select:"document.querySelector",selectId:"document.getElementById"}`) and functions(`functions={case(){},repeat(){},each(){}}`) and `define(obj,where)`.
+it ain't oop,it separates data(`define(consts)`) and fn(`define(functions)`)
+it has 2 condition operators,`if()`(including `else if()` and `else`) and `case()`
+it has 4 loop operators,`repeat()`,`for(i of each())`,`for(i of arr)`,`while()`
   - inspired by 
-arc lang
-javascript:the good parts
-js20
-js30
-js50
+arc lang (-> arc.txt)
+javascript (-> javascript.md)
+my javascript (-> myJavascript.md)
 
 - `voyage` opensource design platform
 > build with elegance
@@ -445,35 +461,77 @@ ant design
 
 - `voyage.js` implementation of voyage 
 > framework can be heavy,and not so heavy
+  - feature
+popular frontend frameworks write javascript into html
+instead,we write html into javascript 
+  - voyage element
+elements are instance of Object, not Node 
+dataKeys in d are binded,if one of them changes,call f
+```
+e={
+  t "div" //tag
+  a {id "app" style {color "gold" z-index "666"}} //attributes
+  c [{t "button"} {t "input"}] //children
+  f ["show" "button_1" "style"] //function,fn,data,to
+  d ["button_1"] //keys
+} 
+```
+  - voyage component
+components are functions,give it data and then get element
+```
+c={
+  button(icon){
+    //create button with an icon
+    key=voyage.new("button") 
+    voyage.set(key,"off") 
+    voyage.get(key)
+    //...
+  }
+  listItem(item){
+    //create listItem
+  }
+  list(items){
+    r={t "div" a {class "list"} c []} //result
+    //or r=make("div.list")
+    for(let i of items){
+      let li=listItem(i)
+      r.c.append(li)
+    }
+    return r
+  }
+  app(data){
+    r={t "div" a {id "app"} c [list(data.items),button()]}
+    return r
+  }
+}
+```
   - methods
-parse(obj)
-bind(el)
-get(prop)
-set(prop)
-  - implementation
-components: bind data
-structure: pass data
-  - type
-voyage element
 ```
-{tag "div" attr {style "" count ""} inner [element element]}
+voyage.new(name) //get "name_1","name_2"
+voyage.set(key,value) //call functions binded with this key
+voyage.get(key) //get its value
+voyage.run(element) //bind element data,get Node
 ```
-or maybe something like that
+  - example
 ```
-["div" {style {color "gold" z-index "666"} id "focus"} [["button"] ["input"]]]
+{new,set,get,run}=voyage
+let app=c.app(data)
+let node=run(app)
+document.body.append(node)
 ```
-voyage component
-```
-{tag "div" attr attrfn inner [fn1 fn2]}
-```
-  - data
-based on voyage element obj type
-first,define components(json in voyage component type,with functions)
-e.g. icons,buttons(incl icons),pages(incl buttons),app(incl pages)
-then,give data to components,get element(json in voyage element type)
-e.g. render app,call functions incl pages,buttons,icons,get html element
-finally,render element,get html node(html node obj)
-ok,you can append the app node to document body
+  - inspired by
+alpinejs
+reactjs
+vuejs
+
+- `look` rethink popular apps not just css
+  - digdog
+  - berryberry
+  - snapcat
+  - zoombie
+  - ganstagram
+  - google-like bing
+  - google-like baidu
 
 - `autoarchive` auto save webpage
 > by internet archive

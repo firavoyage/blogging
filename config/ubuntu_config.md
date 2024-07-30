@@ -46,7 +46,7 @@ sudo apt install gnome-shell-extension-prefs
   - nightlight `0 to 0`
 
 ## keyboard
-- get shortcuts
+- use shortcuts
 ```
 close_window `ctrl q`
 home_folder `super e`
@@ -290,7 +290,7 @@ insert line below `shift enter`
 run code `ctrl r`
 stop running `ctrl e`
 ```
-- get shortcuts
+- use shortcuts
 ```
 do anything `ctrl shift p`
 
@@ -383,7 +383,7 @@ cp -r Nord-Dark/ Nord-Light/ ~/.local/share/fcitx5/themes/
 Theme=Nord-Dark
 Theme=Default //in the end...
 ```
-- get shortcuts
+- use shortcuts
 ```
 clipboard `ctrl ;`
 ```
@@ -541,9 +541,9 @@ FreeDictionary-Idioms
 > -> View
   - navigation `on`
   - others `off`
-- get shortcuts
+- use shortcuts
 ```
-screen word picker `ctrl c ctrl c`
+open screen word selector `ctrl c ctrl c`
 ```
 
 # vlc

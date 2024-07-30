@@ -2531,7 +2531,161 @@ twitter 上有个 death reminder
 再说吧.
 或许只是about simplicity(time)
 
+## wealth desire
 
+不要羡慕了,不要酸啊
+你哪天发财了,不一定要过jack ma的生活的
+也可以是马化腾或者张一鸣哦
+evanyou和ruanyf也很不错
+或者加点acg otaku属性
+哈哈,像是说自己哦
+
+## leisure english learning
+
+首先掌握基础词汇
+不要用手机软件,浮躁太多,得不偿失
+根据你的水平,买一本大考考纲
+(中考,高考,四级,六级,八级)
+拿一本本子,纵向对折,左边单词,右边意思
+抄写不会的那些,意思不写词性(-的,-地,动词名词不必区分),尽量简短(一个义项一个词,只用逗号不用分号)
+没事(下课,发呆,午休,放学,等车...)看两眼
+过一段时间,折掉半边,大概90%都会了,就行了
+
+然后是复杂词汇.
+一般是在网络上游泳(reddit,medium)看到,或者模考(reading,cloze)看到
+随便一本词典就行(推荐直接用流行的youdao,jinshan,我用的eudic和goldendict)
+有很多方法,推荐同义词和词缀
+同义词判别很松
+像words quote view opinion thoughts point 
+像vintage legacy golden nostalgia reminiscent retro
+这些我都看作同义词了
+词缀不包括词根,因为很多词的词根都很牵强
+就是re-,-ize,-ify,-ion,-ium,-bility
+一个熟悉的词,加一个词缀,会猜对的
+不需要专门背有哪些词缀,看到一堆词
+都是同样开头或者同样结尾,会有感觉的
+
+至于那些
+- 复杂(没背过,或者没背会)
+- 没有同义词(或者不知道,或者牵强)
+- 构词奇妙(没有词缀,词根牵强)
+根据上下文吧.
+
+最后
+分数不重要,现实生活没人能扣你分
+
+english是实用的语言
+于我,最大的用途
+是在reddit,hacker news,medium上读文章
+是在programming时候,使用准确的表达(名字,注释)
+是在github issues,看懂人们的观点
+是在一些英文作品(geb,poems,voice lines),感受英文的美
+至于听说,其实表达情绪为主,就是说japanese,french,spanish都是一样
+至于思维,其实和文言文(或者古白话)的思维差不多了
+
+## my javascript principles
+
+首先参考airbnb js guide
+看完了?讲讲我的补充
+
+第一常量不写在代码里
+如果需要修改,写在配置文件里,用json保存
+然后运行时候读取.
+
+如果不需要修改,写在代码开头
+是object形式的几个变量
+
+这意味着,不要把数据写在**服务器返回的html**里
+使用**database api**替代.
+静态blog,这种web1.0时代的东西例外
+更具体地,html只有一个`app`标签和一些说明(title,meta)和资源链接(style,script)
+css写组件样式,js写组件逻辑和数据交互
+
+这意味着,下面的逻辑代码里
+没有任何的`number`,`string`类型的**定值**
+不出现任何的数字和字符串
+当然,前提是它们有实义,
+像判断偶数num%2==0,还是可以出现的,当然也可以抽象成math_even()
+
+第二使用函数式编程
+json without fn
+你知道的,在js里,有obj.fn(a,b,c)这样的东西
+但是,在json里,是不能有函数的
+
+这不好.
+具体地,如果你想写`console.log(a)`这样的代码
+改成`log(console,a)`这样
+
+你可能联想到了`c++ struct`
+这是个好设计,在js里面重新实现一下吧,用来管理有结构的数据,代替`class`
+至于操作struct的方法,写在另外的函数库里
+
+这意味着,你的代码里
+不会出现`prototype`,`class`,`constructor`,`export`,`extends`,`super`,`this`这些**单词**
+当然,纯函数库例外,如`math.abs()`,`math.sin()`...
+改写成`math_abs()`或者`mathSin()`,没有意义.
+函数式编程的目的是,不要把**数据**和**函数**混在一个**变量**或**类**里
+导致一个函数动不动就要访问"外面的世界",写出什么`this`,`self`之类的东西
+
+总结:
+- 阅读airbnb js guide,那里有全面的内容
+- 常量分离,逻辑代码里就没有常量
+- 函数式编程,数据和方法不在一个object里
+
+## make quick money strategy
+
+版权法,肖像权法,不完善
+这是快钱
+
+世界->世外
+捏造->偷窃
+声音->elon musk
+画面->furina
+...
+
+哈哈
+
+## buying a house quote
+
+- 最优质的单人间很贵,最差的单人间很便宜
+- 质量为x,价格为y,该函数连续
+- 最多的物质也无法使人满足,韦神如此,马云亦然
+
+qed.
+
+## old classmate meeting quote
+
+一个十年后,同学聚会上
+你看着祂,拿着不到两万的月薪,在上海的角落,早早地娶妻生子
+无言,唯有沉默
+祂羡慕你的江湖故事,野心与成败
+你羡慕祂的苟且偷安,平庸与沉静
+
+## why rust is cult of god quote
+
+终于明白了为啥rust神教
+cpp:你可以强奸幼女(操空指针),但要负责啊
+rs:你可以草枯幼女,耶稣的血(编译期检查)会洗清你的一切罪恶
+js:你不能干幼女qwq
+
+now i finally understood why rust is cult of god
+cpp:you can fuck loli(pull null *p) but it sucks
+rs:you can fuck loli and you will be forgived(compilication checked)
+js:you shouldnt fuck loli.
+
+## to all those copy my creation quote
+
+我不认识那些模仿我 App 的人，但我明白诱惑是怎么一回事，所以如果阁下碰巧认识他们，请替我转告：我一点也不生气。为了让他们明白我的意思，不妨给他们讲讲下面这个故事：
+从前有一个人，总是抱着一块石头，他遇到一条狗，就去用石头砸它，遇到一条狗就砸一次。
+有天他遇到一条黑狗，也去砸它，但黑狗的主人就在旁边，黑狗的主人立马把他抓住，狠狠地打了一顿，一边打一边说：「你不知道这是黑狗吗！你不知道这是黑狗吗！」
+后来这个人遇到狗，还是会用石头砸，不过当他再遇到黑狗时，他心里会想：「这是黑狗，我不能砸。」从此他就再也没砸过黑狗了。
+
+## fuck you exam-oriented english
+
+扣分扣哦,现实世界谁能扣我分?
+两个单词的拼接词,我连一起是对的,加个hyphen是对的,加个空格也是对的.
+甚至我所有字都不大写,逗号用空格,句号用\n也是对的.
+哈哈.
 
 
 
