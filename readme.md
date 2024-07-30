@@ -39,7 +39,7 @@
 -
   - in solitude where we are least alone (2010)
   - worldend: what do you do at the end of the world? are you busy? will you save us? (2017)
-  - tom and jerry classic collection (1945)
+  - tom and jerry classic collection (1940)
   - reply 1988 (2015)
   - joker (2019)
   - soul (2020)
@@ -63,7 +63,7 @@
   - clash royale (2016)
   - soul knight (2017)
   - _fly me 2 the moon (2011)
-  - _the legend of zelda (1998)
+  - _the legend of zelda (1998) (2017) (2023)
   - _sekiro: shadows die twice (2019)
   - _elden ring (2022)
   - _grand theft auto v (2013)

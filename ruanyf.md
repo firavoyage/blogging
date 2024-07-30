@@ -4640,7 +4640,7 @@ https://erights.medium.com/the-tragedy-of-the-common-lisp-why-large-languages-ex
 
 https://blog.cloudflare.com/details-of-the-cloudflare-outage-on-july-2-2019/
 
-七月初，cloudflare 曾经全球中断服务，原因是一个正则表达式耗尽了 CPU 资源。现在，他们公布了这个正则表达式（上图），看着很复杂，简化以后，出问题是这个模式 .*.*=.* 。七个字符里面包含三个贪婪匹配，从而导致急剧放大的计算量。上面链接详细解释，为什么这个模式有问题。
+七月初，cloudflare 曾经全球中断服务，原因是一个正则表达式耗尽了 CPU 资源。现在，他们公布了这个正则表达式（上图），看着很复杂，简化以后，出问题是这个模式 `.*.*=.*` 。七个字符里面包含三个贪婪匹配，从而导致急剧放大的计算量。上面链接详细解释，为什么这个模式有问题。
 
 ## why we read quote
 
