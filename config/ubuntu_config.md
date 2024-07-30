@@ -304,6 +304,7 @@ new file `ctrl n`
 close file `ctrl w`
 
 preview markdown `ctrl shift v`
+view all markdown headers `ctrl t`
 
 skip words `ctrl leftarrow|rightarrow`
 scroll page `ctrl uparrow|downarrow`

@@ -623,7 +623,7 @@ http://readerisdead.com/reader/view/
 
 Google Reader 是谷歌的线上 RSS 阅读器，2013年关闭。现在，有人复制了一个一模一样的，让大家体验一下当年的感觉。
 
-## dont ever grow up play on story
+## dont ever grow up play on quote
 
 6月底，由于竞争不过网上商店，美国最大的玩具连锁店玩具反斗城（Toys R US）破产关门，全美700多家连锁店全部歇业，70年的公司历史正式结束。最后一天，一个员工贴出了一张照片：清空的商店里面，一只长颈鹿拿着行李箱准备离开。
 
@@ -4508,7 +4508,151 @@ Yet we're adding new features to the platform just to bring web components to *
 
 Given finite resources, time spent on one task means time not spent on another task. Considerable energy has been expended on web components despite a largely indifferent developer population. What could the web have achieved if that energy had been spent elsewhere?
 
+## react markdown documentation web app
+
+Docusaurus
+
+https://github.com/facebook/Docusaurus
+
+Facebook 出品的 Markdown 静态文档网站的建站工具，前端使用 React 构建。
+
+## historical perspective of the 20th century quote
+
+500年后，人们想起20世纪，不会想到第二次世界大战，它已经变得跟英格兰玫瑰战争一样久远。人们会想到 DNA、青霉素、计算机和微芯片，因为它们改变了文明。但是，他们想到的第一件事，将是20世纪是人类开始探索太空的世纪，阿波罗11号登月是20世纪最重要的事件。
+
+-- 历史学家亚瑟·施莱辛格（Arthur Schlesinger Jr.）
+
+https://www.smithsonianmag.com/science-nature/what-you-didnt-know-about-apollo-11-mission-fifty-years-ago-180972165/
+
+## the digital independence declaration
+
+数字独立宣言
+
+https://larrysanger.org/2019/06/declaration-of-digital-independence/
+
+维基百科联合创始人之一撰写的互联网领域的权利宣言，摘录两段。
+
+"人类被巨大的数字帝国轻蔑地对待。因此，现在有必要用独立个体的分散网络取代这些帝国，就像互联网的早期一样。"
+
+"我们声明，我们拥有不可剥夺的数字权利。由于目前互联网的专有集中式架构已经促使大多数人放弃这些权利，我们应该要求一个能够尊重它们的新系统。"
+
+## a restaurant asking for one star review story 
+
+要求一星评价的餐厅
+
+https://thehustle.co/botto-bistro-1-star-yelp/
+
+2014年，厨师 Davide Cerretini 宣布了一个永远改变其命运的政策：任何他的顾客离开餐厅时，在 Yelp 上面进行一星评价，都可以享受五折的披萨折扣。
+
+Yelp 是美国最大的餐厅点评网站，由 PayPal 前员工 Jeremy Stoppelman于2004年推出。它允许顾客对餐厅打分，五星是最高分，一星是最低分。这对餐厅影响很大，有时半颗星的差距会让高峰时段的人流量相差19％。
+
+Davide Cerretini 的餐厅2009年开业后几个月，就开始收到 Yelp 销售人员的几十个电话，他们要求他购买广告。他拒绝了，然后就发现自己餐厅新增的五星好评被删除了。
+
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019061101.jpg)
+
+他说："我是意大利移民，完全知道黑手党敲诈勒索的样子。Yelp 正在操纵评论，并希望我支付保护费。我来美国工作25年，现在却被硅谷的一些白痴敲诈勒索。"
+
+Yelp 否认 Cerretini 的指控，表示删除正面评价是因为该平台的算法。算法通常根据一系列非公开标准过滤评论。这些"过滤"掉的评论仍然可供客户看到，但不会影响企业的整体星级评分。
+
+面对评价下降，Davide Cerretini 决定做出反应。"我写了自己餐厅的五星好评，"他承认。"我不是一个好人。我写的是假评价，以弥补他们删除的真实评价。"但是，这很快就被算法发现，然后全部删除。
+
+最终，他屈服了，每月花费270美元在 Yelp 上面做广告。但是6个月之后，他发现这项服务"毫无用处"，就取消了它。结果，他的星级评价再一次暴跌。
+
+2014年春天，拒绝了另一位 Yelp 销售人员后，Davide Cerretini 声称他的页面中又有四条5星好评被过滤掉了，顶部的三个评价全部是一星的。
+
+"这些一星评价来自那些从未来过我餐厅的人，" Cerretini 说。"有人抱怨我们的服务员......我们甚至没有服务员，顾客要自己取餐！"
+
+他忍无可忍，决定采取极端措施进行反抗。他在餐厅门口的黑板上，宣布只要在 Yelp 上打下一星评价，批萨价格就可以对折。
+
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019061102.jpg)
+
+没想到，这个措施发布后，他一天的营业额相当于以前一个月。很多人打了一星评价，但是文字写的却是好评。所有那些痛恨 Yelp 的餐厅主，都纷纷表示对他的支持。
+
+几天之后，他的 Yelp 页面已经有超过2,300个一星级评级（占评论总数的95％），其中大部分是赞扬。这使得该餐厅成为 Yelp 上评价最差的餐厅。
+
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019061103.jpg)
+
+他也因此成为名人。在媒体眼里，他象征着单枪匹马与科技巨头对抗的孤独骑士。他趁机推出了私人的烹饪课程，售价高达3000美元。
+
+## moral condition of ecmo medical care story
+
+ECMO 的道德困境
+
+https://khn.org/news/miracle-machine-makes-heroic-rescues-and-leaves-patients-in-limbo/
+
+![](https://cdn.beekka.com/blogimg/asset/201906/bg2019062202.jpg)
+
+ECMO 是"体外膜氧合"的缩写（台湾译成"叶克膜"），是一套医疗系统，用于心脏或肺部失去功能的危重病人，在体外完成血液的氧合。
+
+通俗地说，就是将血液引出体外，通过机器将血液里面的废物除去，把氧气加进去，然后再输入体内，充当体外临时的心脏和肺。
+
+ECMO 不是永久性措施，而是一个过渡措施，为病人争取时间，等待心脏或肺的移植。病人必须住在 ICU（重症护理病房），时刻监控，离开 ICU 就会死。ECMO 非常昂贵，2014年中位数费用为55万美元。
+
+如果病人因为种种原因，最终无法进行器官移植，就会产生巨大的道德问题。ECMO 造出了很多死不了的人。病人是有意识的，甚至可能保持清醒和警觉，但是 ECMO 不能长期使用，一旦医疗团队和家属决定拔掉插头，病人立刻就会死亡。
+
+一名17岁的男孩患有肺部囊性纤维化，住进波士顿儿童医院的 ICU，呼吸已经衰竭了。挽救他生命的唯一方法就是使用 ECMO，等待肺部移植。
+
+这个男孩完全清醒，可以做家庭作业，给朋友发短信，与家人说话。他在 ICU 生活了两个月之后，诊断出患有无法治愈的癌症，这使得他没有资格接受肺移植。
+
+医生对下一步有很大分歧。有些人主张立即停止 ECMO，因为移植已经不可能了。其他人认为，这个男孩在 ECMO 的帮助下，状态还可以，他的家人有权继续这种生命支持，就像血液透析的情况。
+
+第三个论点出现了，如果这名患者可以长期使用 ECMO，为什么我们不把所有患有呼吸衰竭的人都放在 ECMO呢？
+
+孩子的父母无法忍受，选择某一天或某一刻关闭 ECMO，因为他们知道他们的孩子会立即死亡。
+
+临床医生最终设计了一个家人同意的替代方案：他们决定不更换 ECMO 的氧合器，这个部件需要每周或每两周更换一次。一旦氧合器逐渐失效，患者就会意识丧失并死亡。这种方案的主要优点是，医生或家人不必选择他的死亡时刻。
+
+## why we sleep quote
+
+睡眠似乎是愚蠢的生物行为。当你睡着了，你不能收集食物，不能社交，无法培育或保护后代。更糟糕的是，睡眠让你很容易被猎食。
+
+但是，如果睡眠不是绝对重要，为什么生物进化没有消除睡眠呢？
+
+-- 《为什么我们睡眠》
+
+https://www.amazon.com/Why-We-Sleep-Unlocking-Dreams/dp/1501144316/
+
+## programming language feels like infinite quote
+
+一旦语言足够复杂，编程就好像从所有功能之中选择一个子集，其他大多数功能我们从来没有学过。
+
+一旦语言感觉是无限的，增加更多功能的成本就不再明显了。
+
+-- 《为什么大型语言会爆炸》
+
+https://erights.medium.com/the-tragedy-of-the-common-lisp-why-large-languages-explode-4e83096239b9
+
+## startup is good and politics is bad view
+
+生存是一种即时策略游戏，所有的人都是这场游戏的玩家。财务自由了，就是游戏赢家。
+
+具体来说，又分成两种游戏：财富游戏和地位游戏。财富游戏的玩家追求更多的财富，地位游戏的玩家追求更高的地位。
+
+古时候，地位越高，财富越多，当大官就是发大财，所以大家都玩地位游戏。现代社会，财富游戏和地位游戏慢慢脱离了关系，不当大官也可以发大财，财富游戏的玩家多了起来。
+
+这两种游戏有本质的区别。地位游戏一定是零和的，有赢家就肯定有输家。 比如，我当了部门主管，你就不能当了。所以，地位游戏很凶险，必须时刻提防其他玩家的冷枪。财富游戏不是零和的，我盖了一幢漂亮的房子，不影响你也盖一幢。我赚钱了，不影响其他人的利益，很可能还让其他人过得更好。比如，乔布斯创办了苹果公司，其他人就有了更好的电子产品可用。
+
+创业是财富游戏，政治是地位游戏。 因为上面的原因，我认为，创业值得参与，政治不值得参与。有些创业项目也是零和的，比如抢票技术、秒杀技术、游戏外挂等等，那也不值得参与。
+
+## regular expression backtracking problem theory
+
+耗尽 CPU 的正则表达式（英文）
+
+https://blog.cloudflare.com/details-of-the-cloudflare-outage-on-july-2-2019/
+
+七月初，cloudflare 曾经全球中断服务，原因是一个正则表达式耗尽了 CPU 资源。现在，他们公布了这个正则表达式（上图），看着很复杂，简化以后，出问题是这个模式 .*.*=.* 。七个字符里面包含三个贪婪匹配，从而导致急剧放大的计算量。上面链接详细解释，为什么这个模式有问题。
+
+## why we read quote
+
+喜欢读书的人在死之前，活过1000次，不读书的人只活过一次。
+
+-- 乔治 R.R. 马丁，《冰与火之歌》的作者
+
+https://goel.io/why-read/
+
 ## 
+
+
 
 
 

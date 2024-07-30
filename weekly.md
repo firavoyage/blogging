@@ -10,7 +10,7 @@
 > summer vacation day
 - read ruanyf weekly & save quotes(-> ruanyf)
 - read "math challenger" & design pure math (-> /pure.dailyab)
-- read "javascript tut" & design intuitive (-> /intuitive.voyage)
+- read "javascript tut" & design intuitive (-> /intuitive.voyage.fresh)
 > summer vacation night
 - classify web (tech society retro learning...)
 - redesign fav

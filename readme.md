@@ -17,9 +17,9 @@
   - burgerking french fries
   - ruby chocolate popsicle
   - tea egg
-  - life-size pillows
-  - indoor greenery
-  - camphor wood smell
+  - life-size pillow
+  - potted landscape
+  - camphor wood
   - pure math
   - intuitive web app
 -
@@ -28,7 +28,8 @@
   - the sound of silence (simon & garfunkel)
   - ymca (village people)
   - one last kiss (hikaru utada)
-  - title theme (koji kondo)
+  - angry birds theme (ari pulkkinen & david schweitzer)
+  - the legend of zelda: ocarina of time title theme (koji kondo)
   - old memory (manack & bruno wen li) 
   - sky (beyond)
   - fu shi shan xia (eason chan)
@@ -36,48 +37,64 @@
   - story of time (luo da you)
   - tomorrow will be better (luo da you)
 -
-  - in solitude where we are least alone
-  - worldend: what do you do at the end of the world? are you busy? will you save us?
-  - bang dream! it's mygo!!!!!
-  - bocchi the rock
-  - frieren: beyond journey's end
-  - oshi no ko
-  - evangelion
-  - tom and jerry classic collection
-  - reply 1988
-  - joker
-  - soul
-  - the good the bad and the ugly
+  - in solitude where we are least alone (2010)
+  - worldend: what do you do at the end of the world? are you busy? will you save us? (2017)
+  - tom and jerry classic collection (1945)
+  - reply 1988 (2015)
+  - joker (2019)
+  - soul (2020)
+  - _evangelion (1995)
+  - _bang dream! it's mygo!!!!! (2023)
+  - _bocchi the rock (2022)
+  - _frieren: beyond journey's end (2023)
+  - _oshi no ko (2023)
+  - _the good the bad and the ugly (1966)
 -
-  - honkai star rail
-  - honkai impact third
-  - houkai gakuen second
-  - genshin impact
-  - zenless zone zero
-  - azurlane
-  - blue archive
-  - brawl stars
-  - clash royale
-  - soul knight
-  - _fly me 2 the moon
-  - _the legend of zelda
-  - _sekiro: shadows die twice
-  - _elden ring
-  - _grand theft auto v
-  - _the binding of isaac
-  - _senrenbanka
-  - _tuxun.fun
+  - angry birds (2009)
+  - honkai star rail (2023)
+  - honkai impact third (2016)
+  - houkai gakuen second (2014)
+  - genshin impact (2020)
+  - zenless zone zero (2024)
+  - azurlane (2017)
+  - blue archive (2021)
+  - brawl stars (2017)
+  - clash royale (2016)
+  - soul knight (2017)
+  - _fly me 2 the moon (2011)
+  - _the legend of zelda (1998)
+  - _sekiro: shadows die twice (2019)
+  - _elden ring (2022)
+  - _grand theft auto v (2013)
+  - _the binding of isaac (2011)
+  - _senren banka (2016)
+  - _geoguessr (2013)
 -
-  - billy kid
-  - clara
-  - fuxuan
-  - herta
-  - kaedehara kazuha
-  - kasugano sora
-  - keqing
-  - nahida
-  - sparkle
-  - xingqiu
+  - road ahead (ruanyf)
+  - survivor: a guide for the future (ruanyf)
+  - hackers and painters (paulg)
+  - refactoring ui (adam wathan & steve schoger)
+  - javascript: the good parts (douglas crockford)
+  - javascript: the definitive guide (david flanagan)
+  - javascript notes for professionals book (goalkicker)
+  - twelve letters for the young (zhu guangqian)
+  - the water level of concept (liu yu)
+  - liu qing's lectures on modern western thought (liu qing)
+  - a long gaze (long yingtai)
+  - letter to da zhuang (miao wei)
+  - .philosophy of life (zhou guoping)
+  - .mathematics (the second affiliated middle school of east china normal university)
+  - _godel, escher, bach (douglas hofstadter)
+  - _the bible (divine authorship)
+  - _haizi's poems (hai zi)
+  - _gu cheng's poems (gu cheng)
+  - _stray birds (rabindranath tagore)
+  - _remarks on the song lyric and the human condition (wang guowei)
+  - _if on a winter's night a traveler (italo calvino)
+  - _tao te ching (laozi)
+  - _pride and prejudice (jane austen)
+  - _rashomon (ryunosuke akutagawa)
+  - _one hundred years of solitude (gabriel garcía marquez)
 - 
   - adhesion tek
   - coding startup
@@ -104,42 +121,15 @@
   - wang zhaohai
   - jiang zhijun
 -
-  - road ahead (ruanyf)
-  - survivor: a guide for the future (ruanyf)
-  - hackers and painters (paulg)
-  - refactoring ui (adam wathan & steve schoger)
-  - javascript: the good parts (douglas crockford)
-  - javascript: the definitive guide (david flanagan)
-  - javascript notes for professionals book (goalkicker)
-  - twelve letters for the young (zhu guangqian)
-  - the water level of concept (liu yu)
-  - liu qing's lectures on modern western thought (liu qing)
-  - a long gaze (long yingtai)
-  - letter to da zhuang (miao wei)
-  - .philosophy of life (zhou guoping)
-  - .mathematics (the second affiliated middle school of east china normal university)
-  - _godel, escher, bach (douglas hofstadter)
-  - _the bible
-  - _haizi's poems (hai zi)
-  - _gu cheng's poems (gu cheng)
-  - _stray birds (rabindranath tagore)
-  - _remarks on the song lyric and the human condition (wang guowei)
-  - _if on a winter's night a traveler (italo calvino)
-  - _tao te ching (laozi)
-  - _pride and prejudice (jane austen)
-  - _rashomon (ryunosuke akutagawa)
-  - _one hundred years of solitude (gabriel garcía marquez)
--
-  - design.google
-  - material design
-  - ruanyifeng blog
-  - plaintxt blog
-  - jrsinclair blog
-  - iphone 4
-  - ubuntu yaru
-  - dracula official
-  - one dark pro
-  - monokai pro
+  - sparkle
+  - fuxuan
+  - clara
+  - herta
+  - keqing
+  - nahida
+  - kaedehara kazuha
+  - kasugano sora
+  - billy kid
 - 
   - dejavu serif
   - fira code
@@ -156,6 +146,16 @@
   - rounded mplus
   - ubuntu sans
   - zhi mang xing
+-
+  - design.google
+  - material design
+  - ruanyifeng blog
+  - plaintxt blog
+  - iphone os 4
+  - ubuntu yaru
+  - dracula official
+  - one dark pro
+  - monokai pro
 -
   - ubuntu 24
   - android 11
@@ -241,6 +241,7 @@
   - do have faith in what you are doing
   - live in the future and build what's missing
   - life is a long-plank game
+  - art is in the eye of the beholder
 - tell me, and i will forget.
   - show me, and i may remember.
   - involve me, and i will understand.

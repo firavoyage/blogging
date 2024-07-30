@@ -41,6 +41,7 @@ https://scrimba.com/g/glearnreact
   - inspired by 
 slidev
 fusuma
+nodeppt
 
 - `mind` elegance of thoughts
 > beautiful progressive web app for mind map
@@ -84,6 +85,11 @@ magic of tonning
 like keynote but for cover/poster/banner making
   - all images are templates
 save editable files
+  - for sharing
+youtube vid
+berryberry vid
+github repo
+medium/wordpress article ...
   - everything local
 files,not cloud resources
 files in json,opensource format
@@ -447,23 +453,15 @@ number(chinese or english,precise or not)
 button(material water drop effect,svg uncolorized icon,alt msg,keyboard focus)
 link(internet archive,preview,stats)
 ...
-  - components binding
-rethink popular apps & not just css
-digdog
-berryberry
-snapcat
-zoombie
-ganstagram
   - inspired by
-mui
-next ui
-ant design
+webflow
+framer
+figma
 
 - `voyage.js` implementation of voyage 
 > framework can be heavy,and not so heavy
   - feature
-popular frontend frameworks write javascript into html
-instead,we write html into javascript 
+write html as javascript object
   - voyage element
 elements are instance of Object, not Node 
 dataKeys in d are binded,if one of them changes,call f
@@ -480,11 +478,11 @@ e={
 components are functions,give it data and then get element
 ```
 c={
-  button(icon){
-    //create button with an icon
+  button(icon){ 
+    //include d(pressed state),not include f(change)
+    //r=...
     key=voyage.new("button") 
     voyage.set(key,"off") 
-    voyage.get(key)
     //...
   }
   listItem(item){
@@ -500,7 +498,7 @@ c={
     return r
   }
   app(data){
-    r={t "div" a {id "app"} c [list(data.items),button()]}
+    r={t "div" a {id "app"} c [list(data.items),button(data.buttonicon)]}
     return r
   }
 }
@@ -539,17 +537,17 @@ when data change,run all its functions
 for each function,call fn(id,data)
   - inspired by
 alpinejs
+sveltejs examples
+vuejs examples
 reactjs
-vuejs
 
-- `look` rethink popular apps not just css
+- `fresh` rethink popular apps not just css
+  - bing/baidu googlified
   - digdog
   - berryberry
   - snapcat
   - zoombie
   - ganstagram
-  - google-like bing
-  - google-like baidu
 
 - `autoarchive` auto save webpage
 > by internet archive

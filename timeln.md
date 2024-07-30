@@ -1273,5 +1273,26 @@ ma bro teaching intuitive!
 大家好,我是马云,今天我来教大家如何用图表撒谎
 大家好,我是elon musk,今天我来教大家高中数学
 
+## 20240730
+
+好冷啊
+好冷啊
+切到27centigrade了
+
+learn from alpine,svelte,vue,react & design voyage (ok)
+read ruanyf weekly (issue 64)
+build pure math dailyab (...)
+design intuitive voyage fresh (...)
+
+晚上看了一集新国辩
+tech v art
+技术正在拯救/毁灭艺术
+所有的争论(质询)都跳过了,没有意思
+有些人话都说不清楚,逻辑不明,多次重复/口误
+一倍数播放的,就看那些至少简明的语言.
+...
+看完了
+最佳片段,反方两位评审的发言(周玄毅,胡渐彪)
+
 
 
