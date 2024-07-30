@@ -25,17 +25,17 @@ ubuntu config
   - goldendict
   - endeavour
 - config dock application icon
-> -> extensions > ubuntu dock > more > settings > launchers
   - show application icon `off`
+> -> extensions > ubuntu dock > more > settings > launchers
 
 ## apps
-> -> default apps
 - web `chromium web browser`
 - mail `thunderbird mail`
 - calendar `calendar`
 - music `vlc media player`
 - video `vlc media player`
 - photos `image viewer`
+> -> default apps
 
 ## displays
 - desktop icons `off` 
@@ -68,19 +68,19 @@ sudo localectl set-locale lc_time=en_us.utf8
 ```
 sudo visudo `fira all=(all) nopasswd:all`
 ```
-> -> admin:///etc/polkit-1/localauthority/50-local.d/nopw.pkla
 ```
 [no password prompt]
 identity=unix-group:sudo
 action=*
 resultactive=yes
 ```
+> -> admin:///etc/polkit-1/localauthority/50-local.d/nopw.pkla
 - disable `keyring popup`
-> ref `https://linuxconfig.org/how-to-disable-keyring-popup-on-ubuntu`
   - open `passwords and keys`
   - select `change passwd`
   - enter old passwd
   - leave it blank & enter
+> ref `https://linuxconfig.org/how-to-disable-keyring-popup-on-ubuntu`
 
 ## sound
 - system sound `off`
@@ -99,28 +99,27 @@ resultactive=yes
 > ref `https://in.canon/en/support/search` `linux64 ij debian`
 
 ## privacy
-> -> tmpfile&trash
 - config `auto delete files after 30days`
+> -> tmpfile&trash
 
 # backup
+- config 
+  - storage `local folder:backup`
+  - schedule 
+    - backup automatically `on`
+    - frequency `daily`
+    - keep `forever`
 > -> preferences
-- config storage `local folder:backup`
-- config schedule 
-  - backup automatically `on`
-  - frequency `daily`
-  - keep `forever`
 
 # fonts
 - install fonts
 > -> git/fonts
 - config `system default fonts`
-> -> gnome tweaks > fonts
   - interface text `ubuntu sans`
   - document text `noto sans cjk sc`
   - monospace text `fira code`
+> -> gnome tweaks > fonts
 - config `preferred cjk fonts`
-> ubuntu 22 -> admin:///etc/fonts/conf.d/64-language-selector-prefer.conf
-> ubuntu 24 -> admin:///etc/fonts/conf.d/64-language-selector-cjk-prefer.conf
 ```
 <?xml version="1.0"?>
 <!DOCTYPE fontconfig SYSTEM "fonts.dtd">
@@ -156,6 +155,8 @@ resultactive=yes
 	</alias>
 </fontconfig>
 ```
+> ubuntu 22 -> admin:///etc/fonts/conf.d/64-language-selector-prefer.conf
+> ubuntu 24 -> admin:///etc/fonts/conf.d/64-language-selector-cjk-prefer.conf
 
 # softwares & updates
 - disable `software updater popup`
@@ -163,8 +164,8 @@ resultactive=yes
 sudo sed --in-place 's/NoDisplay=true/NoDisplay=false/g' /etc/xdg/autostart/update-notifier.desktop
 ```
 - disable `auto update`
+  - (all) `off`
 > -> softwares & updates > other softwares
-  - disable all
 
 # gnome-tweaks
 - config `startup applications`
@@ -185,12 +186,10 @@ cpp.cpp
 # chromium
 - disable `new look`
   - install `chromium 124.0.6367.118`
-> ref
-> https://snapcraft.io/docs/revisions
-> https://snapcraft.io/docs/managing-updates
 ```
 sudo snap install chromium --revision 2842
 ```
+> ref https://snapcraft.io/docs/revisions https://snapcraft.io/docs/managing-updates
   - disable `auto update`
 ```
 sudo snap refresh --hold=forever
@@ -201,11 +200,12 @@ chrome://flags/#customize-chrome-side-panel
 chrome://flags/#chrome-refresh-2023
 chrome://flags/#chrome-webui-refresh-2023
 ```
-- use system title bar `off`
+- config title bar
+  - use system title bar `off`
 > right click the title bar
 - config `new tab page`
-> -> customize chromium
   - show shortcuts `off`
+> -> customize chromium
 - import bookmarks
 > -> git/blogging/config/chromium_bookmarks.html
 - config extensions
@@ -222,16 +222,15 @@ chrome://flags/#chrome-webui-refresh-2023
   - bewlybewly `https://chromewebstore.google.com/detail/bewlybewly/bbbiejemhfihiooipfcjmjmbfdmobobp`
   - justblack `https://chromewebstore.google.com/detail/just-black/aghfnjkcakhmadgdomlmlhhaocbkloab`
 - config fonts
-> -> chrome://settings/fonts
   - standard `roboto`
   - serif `noto serif cjk sc`
   - sans-serif `noto sans cjk sc`
   - fixed-width `fira code`
   - mathematical `dejavu serif`
+> -> chrome://settings/fonts
 
 # code
-- install
-> fix `fcitx issue`
+- install (fix fcitx compatibilty issue)
 ```
 sudo snap remove code
 
@@ -246,14 +245,13 @@ sudo apt-get update
 sudo apt-get install code
 ```
 - config appearance
-> -> view > appearance
   - menu & status & ... bar `off` 
   - minimap `off`
   - toggle bread crumbs `off`
   - render control characters `off`
   - sticky scroll `on`
+> -> view > appearance
 - config behavior
-> -> file > preferences > settings
   - autosave `after delay`
   - font family `"Fira Code", "Noto Sans CJK SC", monospace`
   - font size `16`
@@ -262,6 +260,7 @@ sudo apt-get install code
   - render whitespace `none`
   - lightbulb `off`
   - workspace `off`
+> -> file > preferences > settings
 - install theme
   - dracula official (current)
   - one dark pro
@@ -282,7 +281,6 @@ sudo apt-get install code
 > -> file > preferences > configure user snippets
 > -> git/blogging/config/cpp.code-snippets
 - config shortcuts
-> ctrl k ctrl s
 ```
 duplicate selection `ctrl d`
 insert line below `shift enter`
@@ -290,6 +288,7 @@ insert line below `shift enter`
 run code `ctrl r`
 stop running `ctrl e`
 ```
+> ctrl k ctrl s
 - use shortcuts
 ```
 do anything `ctrl shift p`
@@ -318,7 +317,6 @@ reset cursor `esc`
 ```
 
 # git
-> -> git/blogging/config/git_config.txt
 - config 
 ```
 git config --global user.name "Fira"
@@ -340,17 +338,16 @@ mkdir -p ~/.local/share/fcitx5/pinyin/dictionaries/
 mv zhwiki-20220416.dict ~/.local/share/fcitx5/pinyin/dictionaries/
 ```
   - install another dict
-> -> https://github.com/wuhgit/CustomPinyinDictionary
 ```
 // download CustomPinyinDictionary_Fcitx.dict
 mv CustomPinyinDictionary_Fcitx.dict ~/.local/share/fcitx5/pinyin/dictionaries/
 ```
+> -> https://github.com/wuhgit/CustomPinyinDictionary
   - set default
 ```
 im-config
 ```
   - set environment variables
-> -> admin:///etc/environment
 ```
 GTK_IM_MODULE=fcitx
 QT_IM_MODULE=fcitx
@@ -358,31 +355,27 @@ XMODIFIERS=@im=fcitx
 SDL_IM_MODULE=fcitx
 GLFW_IM_MODULE=fcitx
 ```
+> -> admin:///etc/environment
 - disable `input method hint`
-```
-fcitx5-configtool
-```
-> -> global options > behavior
   - show input method infomation `off` 
+> -> fcitx5-configtool > global options > behavior
 - config pinyin
-> -> input method > pinyin > settings icon
   - fuzzy pinyin `on`
   - prediction `off`
   - character&punctuation `half-width`
+> -> input method > pinyin > settings icon
 - config theme
-> -> https://github.com/tonyfettes/fcitx5-nord
-> -> https://github.com/thep0y/fcitx5-themes-candlelight
 ```
 git clone https://github.com/tonyfettes/fcitx5-nord.git
 mkdir -p ~/.local/share/fcitx5/themes/
 cd fcitx5-nord
 cp -r Nord-Dark/ Nord-Light/ ~/.local/share/fcitx5/themes/
 ```
-> -> ~/.config/fcitx5/conf/classicui.conf
 ```
 Theme=Nord-Dark
-Theme=Default //in the end...
+Theme=Default //current
 ```
+> -> ~/.config/fcitx5/conf/classicui.conf
 - use shortcuts
 ```
 clipboard `ctrl ;`
@@ -409,9 +402,9 @@ passwd `firafira`
 - config `proxy only gfwlist` or `proxy except cn sites` 
 - config nodes
 ```
-// replace `githubusercontent` with a mirror if needed
+//replace `githubusercontent` with a mirror if needed
 
-// repos
+//repos
 https://github.com/aiboboxx/v2rayfree
 https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
 
@@ -424,7 +417,7 @@ https://raw.githubusercontent.com/pawdroid/free-servers/main/sub
 https://github.com/mksshare/mksshare.github.io
 https://raw.githubusercontent.com/mksshare/mksshare.github.io/main/README.md
 
-// mirrors
+//mirrors
 githubraw.com
 raw.staticdn.net
 mirror.ghproxy.com
@@ -471,8 +464,6 @@ winecfg
 
 # goldendict
 - install dictionaries
-> -> Edit > Dictionaries
-> -> mdict.org (mirror https://t.me/archivefiravoyage)
 ```
 Longman Dictionary of Contemporary English
 https://mdx.mdict.org/%E5%85%AD%E5%A4%A7%E7%9F%A5%E5%90%8D%E8%AF%8D%E5%85%B8/%E6%9C%97%E6%96%87_Longman/STFU%20LongmanBundle-%E7%BB%AE%E5%8F%A5%E6%85%A8%E9%90%97-By%20Amazon%2020160928/Longman%20Dictionary%20Of%20Contemporary%20English%206th%20EnEn/LongmanDictionaryOfContemporaryEnglish6thEnEn.mdd
@@ -520,8 +511,8 @@ https://mdx.mdict.org/Recommend/fmidioms.zip
 Penguin English Dictionary (third Edition)
 https://mdx.mdict.org/Recommend/The%20Penguin%20English%20Dictionary%203rd%2C%202007_2.zip
 ```
-- config dicts order
 > -> Edit > Dictionaries
+- config dicts order
 ```
 英汉大词典（第2版）
 牛津高阶英汉双解词典（第9版）
@@ -535,12 +526,14 @@ FreeDictionary-Idioms
 现代英汉汉英综合大辞典
 新世纪汉英大词典
 ```
-- config preferences
-> -> Edit > Preferences > Interface > Tabbed Browsing
-  - open new tabs in background `off`
-> -> View
+> -> Edit > Dictionaries
+- config appearance
   - navigation `on`
   - others `off`
+> -> View
+- config behavior
+  - open new tabs in background `off`
+> -> Edit > Preferences > Interface > Tabbed Browsing
 - use shortcuts
 ```
 open screen word selector `ctrl c ctrl c`
@@ -548,20 +541,20 @@ open screen word selector `ctrl c ctrl c`
 
 # vlc
 - config
-> -> tools > preferences
   - show settings `all`
+> -> tools > preferences
 - config jump length
-> -> interface > hotkeys settings
   - short jump length `5`
+> -> interface > hotkeys settings
 - config interface
-> -> interface > main interfaces > qt
   - show notification popup on track change `never`
   - continue playback `never`
+> -> interface > main interfaces > qt
 
 # qbittorrent
 - config trackers
-> -> tools > preferences > bitorrent
   - automatically add these trackers to new downloads `config/list_trackers.md`
+> -> tools > preferences > bitorrent
 
 # terminal
 - install `oh-my-zsh`

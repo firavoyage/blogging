@@ -472,7 +472,7 @@ e={
   t "div" //tag
   a {id "app" style {color "gold" z-index "666"}} //attributes
   c [{t "button"} {t "input"}] //children
-  f ["show" "button_1" "style"] //function,fn,data,to
+  f ["fn.show"] //functions
   d ["button_1"] //keys
 } 
 ```
@@ -505,12 +505,25 @@ c={
   }
 }
 ```
+  - voyage functions
+fn={
+  show(id,state){
+    node=voyage.node(id)
+    if(state=="off"){
+      node.style.display="none"
+    }
+    else{
+      node.style.display="inline"
+    }
+  }
+}
   - methods
 ```
-voyage.new(name) //get "name_1","name_2"
-voyage.set(key,value) //call functions binded with this key
+voyage.new(name) //count name,get "name_1" or "name_2" or ...
+voyage.set(key,value) //set key,call everything binded
 voyage.get(key) //get its value
 voyage.run(element) //bind element data,get Node
+voyage.node(id) //give element id,get Node
 ```
   - example
 ```
@@ -519,6 +532,11 @@ let app=c.app(data)
 let node=run(app)
 document.body.append(node)
 ```
+  - voyage.run
+for each element with data
+give it an id,bind this id to its data key
+when data change,run all its functions
+for each function,call fn(id,data)
   - inspired by
 alpinejs
 reactjs
