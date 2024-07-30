@@ -277,38 +277,38 @@
 
 ## pages
 - people
-  - livid //a letter to confused youth
-  - nat //belief of a tech entrepreneur
-  - ruanyf //everything about the digital time
-  - yinming //answers from a startup webmaster
+  - `livid` letter to confused youth
+  - `nat` belief of a tech entrepreneur
+  - `ruanyf` everything about the digital time
+  - `yinming` answers from a startup webmaster
 - ideas
-  - projects //the interesting and the meaningful
-  - reply //reply to the world and rest of the world
-  - comments //words and their sources
-  - idioms //meme like quotes for fun and not for fun
-  - mistral //another wikipedia by mistral
+  - `projects` the interesting and the meaningful
+  - `reply` reply to the world and rest of the world
+  - `comments` words and their sources
+  - `idioms` meme like quotes for fun and not for fun
+  - `mistral` another wikipedia by mistral
 - self
-  - weekly //weekly plans at each time
-  - timeln //personal discoveries and thoughts
-  - djhs grades //perspective of school life
-  - email //way to contact me
-  - swim //libre swimming guide
+  - `weekly` weekly plans at each time
+  - `timeln` personal discoveries and thoughts
+  - `djhs grades` perspective of school life
+  - `email` way to contact me
+  - `swim` libre swimming guide
 - config
-  - ubuntu config //elegant work flow
-  - chromium bookmarks //source of all
+  - `ubuntu config` elegant work flow
+  - `chromium bookmarks` source of all
 
 ## repos
-- `git/blogging` notes and inspirations 
-- `git/web` pages capsuled
-- `git/memories` life
-- `git/memories/comments` spectator life
-- `git/memories/discoveries` digital life
-- `git/memories/gaming/self` gaming life
-- `git/memories/school` school life
-- `git/programs` source
-- `git/music` favorite songs
-- `git/fonts` favorite fonts
-- `git/self` favorite avatars
+- `blogging` notes and inspirations 
+- `web` pages capsuled
+- `memories` life
+- `memories/comments` spectator life
+- `memories/discoveries` digital life
+- `memories/gaming` gaming life
+- `memories/school` school life
+- `programs` source
+- `music` favorite songs
+- `fonts` favorite fonts
+- `self` favorite avatars
 
 ## links
 - files
@@ -336,21 +336,23 @@
   - my blog `_wip`
 
 ## character
-- reminiscent youth //good old days...
-- tech otaku //unworldly girls...
-- digital hoarder //memories forever...
-- simplicity addict //elegance of knowledge...
-- indie developer //freedom of mind...
+- `reminiscent youth` good old days...
+- `tech otaku` unworldly girls...
+- `digital hoarder` memories forever...
+- `simplicity addict` elegance of knowledge...
+- `indie developer` freedom of mind...
 
 ## wish
 - mission
   - make tools elegant
 - work
-  - knowledge organized with structure and simplicity (-> pure -> intuitive)
+  - knowledge organized with structure and simplicity
+  - -> /pure
+  - -> /intuitive
   - free and premium courses made with love
 - school
   - shanghai dajing "vocational" high school 2026 graduate
-  - have got #1 #2 #3 in my grade (-> djhs grades)
+  - have got #1 #2 #3 in my grade
   - dont study overtime qwq
 - rest
   - contribute to the liberty of the world
