@@ -326,6 +326,7 @@ powered by gptsovits
 
 - `intuitive` showcase the power of web
 > script sparks
+> /intuitive
   - frontend tech(which is really knowledge) structured
 html tags and attributes
 css selector and attributes
@@ -336,6 +337,7 @@ and useful progressive web apps
   - intuitive game engine
 ref "no bullshit games","poki","scratch"
 examples:
+angry birds
 fly me 2 the moon:the origin of mihoyo,endless levels
 genshin dungeon:soul knight but gi monsters
 unique card gambers:know the enemy and know yourself

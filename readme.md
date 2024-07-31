@@ -290,12 +290,21 @@
 - self
   - `weekly` weekly plans at each time
   - `timeln` personal discoveries and thoughts
+  - `/recollection` legacy timeln
   - `djhs grades` perspective of school life
   - `email` way to contact me
   - `swim` libre swimming guide
+- project
+  - `/firascript` simple script language
+  - `/intuitive` intuitive web dev
+  - `/pure` pure math
 - config
-  - `ubuntu config` elegant work flow
-  - `chromium bookmarks` source of all
+  - `/config` `ubuntu config` elegant work flow
+  - `/config` `chromium bookmarks` source of all
+  - `/shortcut` terminal shortcuts
+- notes
+  - `/notes` `plain language` simple english guide
+  - `/notes` `(...)` stack overflow documentation
 
 ## repos
 - `blogging` notes and inspirations 
