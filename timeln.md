@@ -1294,5 +1294,23 @@ tech v art
 看完了
 最佳片段,反方两位评审的发言(周玄毅,胡渐彪)
 
+## 20240731
+
+last day!
+always day 1!
+
+看了一集evangelion,revise readme,dl your name,...
+昨晚(今早)凌晨4点睡的
+今天中午起来
+好冷啊!25centigrade的空调,感觉坏了
+体感18centigrade...
+调到28centigrade,然后直接关掉了
+
+房间是不通风的
+保温很好
+现在都不开空调很久了
+还是凉快
+啥时候感觉热了,再开个10min吧
+尤其晚上绝对不能开,起床冷死了
 
 

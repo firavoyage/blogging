@@ -43,9 +43,9 @@
   - reply 1988 (2015)
   - joker (2019)
   - soul (2020)
-  - _evangelion (1995)
-  - _your name (2016)
-  - _bang dream! it's mygo!!!!! (2023)
+  - your name (2016)
+  - .evangelion (1995)
+  - .bang dream! it's mygo!!!!! (2023)
   - _bocchi the rock (2022)
   - _frieren: beyond journey's end (2023)
   - _oshi no ko (2023)
@@ -148,15 +148,16 @@
   - ubuntu sans
   - zhi mang xing
 -
-  - design.google
-  - material design
+  - google design
+  - wikipedia
+  - the pirate bay
   - ruanyifeng blog
-  - plaintxt blog
+  - plaintxt
   - iphone os 4
   - ubuntu yaru
-  - dracula official
-  - one dark pro
-  - monokai pro
+  - dracula theme
+  - one dark pro darker
+  - monokai classic
 -
   - ubuntu 24
   - android 11
@@ -271,7 +272,6 @@
 - 劝君莫惜金缕衣劝君惜取少年时花开堪折直须折莫待无花空折枝
 - 以我观物故物皆着我之色彩
 - 以有涯随无涯殆已
-- 人生得意须尽欢莫使金樽空对月
 - 宁为玉碎不为瓦全
 - 壮士断腕义无再辱
 

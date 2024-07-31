@@ -40,4 +40,9 @@ git pull e master
 git add .
 git commit -m '.'
 git push e
+cd ../bach
+git pull e master
+git add .
+git commit -m '.'
+git push e
 cd ../..
