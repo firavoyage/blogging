@@ -188,12 +188,9 @@ cpp.cpp
   - install `chromium 124.0.6367.118`
 ```
 sudo snap install chromium --revision 2842
-```
-> ref https://snapcraft.io/docs/revisions https://snapcraft.io/docs/managing-updates
-  - disable `auto update`
-```
 sudo snap refresh --hold=forever
 ```
+> ref https://snapcraft.io/docs/revisions https://snapcraft.io/docs/managing-updates
   - disable `flags`
 ```
 chrome://flags/#customize-chrome-side-panel
@@ -208,6 +205,8 @@ chrome://flags/#chrome-webui-refresh-2023
 > -> customize chromium
 - import bookmarks
 > -> git/blogging/config/chromium_bookmarks.html
+- import passwords
+> -> git/blogging/config/chromium_passwords.zip
 - config extensions
   - adguard `https://chromewebstore.google.com/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg`
     - filters `ad blocking` `privacy` `annoyance` `...`

@@ -2687,7 +2687,13 @@ js:you shouldnt fuck loli.
 甚至我所有字都不大写,逗号用空格,句号用\n也是对的.
 哈哈.
 
+## is typescript needed 
 
+typescript,最后会编译成javascript来运行
+那些typescript的语法,最后也会变成javascript的模块,类,函数
+很难说这些特性,能否用一些原生js的函数式编程实现.
+
+这是"is ts needed"的关键
 
 
 

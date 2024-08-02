@@ -1,6 +1,6 @@
 # pure math
 
-> difficulities with great simplicity "三言两语,举重若轻."
+> difficulities as great simplicity "三言两语,举重若轻."
 
 ## keywords
 
@@ -34,6 +34,88 @@ everyday 2 problems on an a4 page
 hs in 40min...
 cheetsheet for each unit including its usage and its magic
 
+## purpose
+
+- math in anime style
+- review what just have learnt
+- be a math challenger
+- find my desired high school math course
+
+## dailyab
+
+### match school time
+sep g1t1 g2t1 g3t1
+oct g1t1 g2t1 g3t1
+nov g1t1 g2t1 g3t1
+dec g1t1 g2t1 g3t1
+
+mar g1t2 g2t2 g3t2
+apr g1t2 g2t2 g3t2
+may g1t2 g2t2 g3t2
+jun g1t2 g2t2 g3t2
+
+## handwritten style
+
+"数学手书"
+
+off vocal
+
+great simplicity
+
+elegant background music (bach classic)
+
+### anime style (rm)
+
+voice and avatar as keqing or nilou
+
+inspired by mihoyo doujin makers
+
+too many existed... removed idea.
+
+### challenger style
+
+this is the problem math nerds do
+
+### hs math lover style
+
+show my profile (how a shanghai hs student teach math)
+
+### shanghai based
+
+calc is significant
+
+use calculator as possible!
+
+### form
+
+daily problem a & problem b on two sides of an a4 page
+
+problem words simplified & solutions in several difficulty levels
+
+takeaway (cheetsheet,conclusion,summary)
+
+several horizonal a4 pages in poster style
+
+### design
+
+by voyage(in pre)
+
+personally,prefer ruanyf blog style
+
+### source
+
+- mathematics (the second affiliated middle school of east china normal university)
+- daoxuexianfeng
+- fudaoyutigao
+
+## market research
+
+fellows
+- furina math
+- paimon science
+- venti science
+- ...
+
 ## commercialize
 
 - popularity
@@ -45,108 +127,7 @@ also make structured courses after become known
 put ads promoting school organizations
 make paid courses
 
-## format
-
-`设` 字母表示数
-`令` 换元
-
-多项式,降幂排列 
-集合,从左到右,从小到大 (就像数轴)
-
-... (summarize later)
-
-## design
-
-i prefer ruanyf blog theme
-
-other themes available by pre & voyage
-
-## purpose
-
-- be a math challenger
-- find my desired high school math course
-
-## dailyab
-
-### school time
-sep g1t1 g2t1 g3t1
-oct g1t1 g2t1 g3t1
-nov g1t1 g2t1 g3t1
-dec g1t1 g2t1 g3t1
-
-mar g1t2 g2t2 g3t2
-apr g1t2 g2t2 g3t2
-may g1t2 g2t2 g3t2
-jun g1t2 g2t2 g3t2
-
-### style
-
-daily problem a & problem b on two sides of an a4 page
-
-problem words simplified & solutions in several difficulty levels
-
-voice and avatar from keqing or elon musk
-
-## source
-
-- mathematics (the second affiliated middle school of east china normal university)
-- daoxuexianfeng
-- fudaoyutigao
-
-## fellows
-
-market research
-
-- 芙宁娜科普
-- 派蒙科普
-- ...
-
-## intro
-
-alias:tldr,snap,quicklook
-
-失恋怀旧走马灯
-
-几页演示,大图大字,寥寥片语
-
-## takeaway
-
-alias:cheetsheet,conclusion,summary
-
-frontend flex/grid layout cheetsheet
-
-前端css布局参数表
-
-几张a4纸
-
-## elon musk
-
-下午17:30
-berryberry上有furina math channel
-digdog上有paimon sci channel,venti teaching channel
-
-我看到一张图片
-
-https://www.wangbase.com/blogimg/asset/201905/bg2019051712.jpg
-
-想到了"ma bro math channel"的点子
-哈哈
-
-更具体地,我想到的是
-ma bro teaching pure math!
-ma bro teaching intuitive!
-
-大家好,我是马云,今天我来教大家如何用图表撒谎
-大家好,我是elon musk,今天我来教大家高中数学
-hello,this is time cook,today i will teach you how to steal to inzakuma
-
 ## links
-
-个人地,我喜欢github和telegram
-大部分人并不是从此了解我的,
-不过关心我的人,或许会去那里游泳
-
-如果需要全部的传送门,往下看
 
 - github ...
 - telegram ...

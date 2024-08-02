@@ -4720,6 +4720,1407 @@ https://www.plainlanguage.gov/guidelines/words/use-simple-words-phrases/
 
 https://www.plainlanguage.gov/media/FederalPLGuidelines.pdf
 
+## the problem of object oriented programming quote
+
+面向对象编程的问题是，每个对象都有自己的状态，开发程序时，必须记住当前所有对象的状态。
+
+为了让我们的生活更轻松，最好只有一小部分代码库处理状态，其他代码都是无状态和纯的。实际上，这就是前端的 Redux 库取得巨大成功的主要原因。
+
+-- 《面向对象编程：一万亿美元的错误》
+
+## pirate party revolution statement theory
+
+海盗党的版权改革主张（英文）
+
+https://christianengstrom.wordpress.com/the-pirate-party-on-copyright-reform/
+
+这篇文章是瑞典盗版党的版权改革主张：非商业用途应该免费，商业用途只能保护作品发布后的五年，允许衍生作品不支付版权费，废除数字版权机制 DRM。
+
+## a buddha statue changes a neighbourhood theory
+
+街角的一尊佛像
+
+https://www.facebook.com/story.php?story_fbid=10156010147332105&id=657082104
+
+Dan Stevenson 与妻子住在加州奥克兰的东湖区，已经40年。不知何时开始，东湖区治安越来越差，有贩毒的、卖淫的，偶尔还有进户抢劫的。
+
+最让 Dan 感到愤怒的，是第11大道和东19街的交叉口，有一小块车道分流的三角绿地。那里本来应该是绿化，却堆满了废弃床垫、沙发、衣服、随手扔弃的垃圾、甚至使用过的保险套和针筒。更糟的是，Dan 还看过有私人垃圾车开过来把一车的垃圾跟废弃家具倾倒完，就跑了。
+
+从 Dan 的窗户看出去，就看见这一大坨堆积如山的垃圾。Dan 与太太每天都要不断打电话给市政府，但都没什么用，清掉一次，这里马上又会堆满垃圾。
+
+Dan 与妻子为这个事想了很久，到底该怎么改善这坨垃圾山的问题，他们想了很多方法。有一天，他们浮现一个主意：佛像！
+
+他们决定去买一尊佛像摆在那块小树丛。Dan与妻子并不是佛教徒，为什么会想到佛像呢？
+
+Dan 说，因为佛教在西方是很温和中立的一种信仰。假如放一尊耶稣神像，可能就会有争议，但佛像不一样，似乎不太有人会对佛陀有什么不满。
+
+Dan 开始到处找合适的佛像，有天他看到一尊大约60公分高的黑色石雕佛像，很喜欢。但他担心如果佛像放在那块地上被偷走，所以给佛像做了底座，让她坚实地固定在草地上。
+
+就这样，Dan 每天早上起床喝咖啡的时候，就可以看到佛像是否还安好。这算是在公有土地上做私有的事，Dan可不管，他觉得有些事就是先做再说，别管什么行政程序了。
+
+![](https://www.wangbase.com/blogimg/asset/201907/bg2019071704.jpg)
+
+佛像就静静地坐在那块草地上，一开始，垃圾少了，然后大约四个月后的某天一早，他发现有人坐在草地上给佛陀上漆。那人非常小心翼翼，他把佛像漆成了白色的。而且那人还留了一颗橘子在佛陀前。
+
+隔了一天，一颗橘子变成了一对橘子。在那之后，佛陀每天都有新的贡品，有时是花束、有时是水果，有时甚至还有钱币。
+
+有天 Dan 下班回家，发现佛陀神像旁多了两尊神像。Dan 不知道这是怎么回事，但他后来理解，应该是有人觉得佛陀需要被保护。
+
+慢慢地，这尊石雕佛像，摇身一变成了一座神坛。而且佛陀也升级了，她不再是白色的，而是金色的，而且还有人给她做了衣服（袈裟），Dan 觉得她现在的样子酷极了。
+
+这尊佛雕除了外型变了，还有人为她盖了一栋房子，若你个子娇小，还可以钻进去跟佛陀一起睡一晚的那种小房子。
+
+![](https://www.wangbase.com/blogimg/asset/201907/bg2019071705.jpg)
+
+每天早上七点，就会有人来膜拜诵经，他们会敲着木鱼念唱一段时间。有时候，神坛前会出现一排桌子摆满食物与祭品，然后这些虔诚的信徒们会先进行祭拜仪式，接着他们就在树下闲聊，过一会再把祭品收拾干净，或者坐在草地上分享祭品一起吃掉。
+
+![](https://www.wangbase.com/blogimg/asset/201907/bg2019071706.jpg)
+
+这些信徒都是从别处来的，不是这个社区的，他们英文不好，有的甚至不会说英文。现在一天大概会有70-80个人特别来这里祭拜佛陀，甚至还有从明尼苏达来的。
+
+这几年时间，先是垃圾没了，然后不知从何时开始，毒贩一个个搬走了，然后卖淫的也纷纷离开了。一篇当地报导写道，Oakland 东湖区从2012年有神秘佛坛与固定祭祀活动开始，这区的犯罪率在一年内下降了80%。
+
+## where you graduate is why you startup view
+
+我家附近有一所重点中学，校门口拉起了大红条幅："热烈祝贺我校三名同学考入北大清华"。
+
+这不禁让我想到，很多科技公司的创始人都不是一流名校毕业。马云是杭州师范学院，马化腾是深圳大学，任正非是重庆建筑工程学院，丁磊是成都电子科大，周鸿祎是西安交大。
+
+当然，名校毕业的也不少。李彦宏是北京大学，张朝阳是清华大学，王兴是清华大学，张一鸣是南开大学，陈天桥是复旦大学。但是，其中不少是留学回国后创业，有政策扶植的。
+
+总的来说，我认为，来自一般学校的创业者更常见，反倒是高管大部分都是名校毕业。
+
+理由是好学校毕业以后，出路比较好，通常都会进入不错的单位，离职创业的机会成本比较大。如果是一般学校毕业，就业又是很普通的单位，看不到前途，反而容易创业，而且因为没有退路，只能破釜沉舟，放手一博。
+
+从这个角度看，高考不理想的同学，应该早早就有思想准备，将来可能走创业这条路。
+
+## risk is not aftermath quote
+
+风险是可控的，只是需要高度自律（中文）
+
+纪录片《徒手攀岩》中，Alex 徒手没有任何保护，爬上了酋长岩。即使是在专业的攀岩运动员看来，这也是一个不可能完成的任务。说白了，就等于送死。
+
+他说了一句话，非常地奇怪，他说："风险和后果是两回事。徒手攀岩的风险很低，只是后果很严重。"
+
+## browser incognito mode detecting guide theory
+
+1Chrome 隐身模式依然可以检测（英文）
+
+https://www.bleepingcomputer.com/news/google/google-chrome-incognito-mode-can-still-be-detected-by-these-methods/
+
+Chrome 76 堵上了隐身模式的漏洞，使用内存模拟 FileSystem API，导致隐身模式的检测脚本失效。本文提出，隐身模式依然有办法检测到。一种令人惊艳的思路是，内存比文件系统快得多，因此可以从访问速度判断是否为隐身模式。
+
+## machine learning runs tic tac toe web app theory
+
+jokenpo
+
+https://github.com/victorqribeiro/jokenpo
+
+一个网页游戏，使用机器学习算法，让玩家与计算机进行"剪刀石头布"游戏。
+
+## the major of web apps quote
+
+90%的 Web 应用是数据库前端。
+
+-- HN 读者留言
+
+https://news.ycombinator.com/item?id=20642038
+
+## no discipline needed is why python is great quote
+
+人们的经验是，对于10行代码的脚本，Perl 语言是完美的。但如果你有500行脚本代码和几千行的库，那么需要大量的纪律才能使 Perl 代码可维护。
+
+而在 Python 语言中，即使没有那么多的纪律，代码仍然具有相当的可读性和可维护性。
+
+-- Guido van Rossum，Python 语言创始人
+
+https://www.zdnet.com/article/python-is-eating-the-world-how-one-developers-side-project-became-the-hottest-programming-language-on-the-planet/
+
+## youtube recommendation algorithm is a problem view theory
+
+Youtube 推荐算法的问题
+
+https://news.ycombinator.com/item?id=20560146
+
+五年前，我上传了第一个 Youtube 视频。此后，我一直在发布内容。我觉得，自己的内容很有趣，肯定很受欢迎。
+
+但是，没人看我的视频！每个视频平均只有20次观看。Youtube 从来不把它们推荐给任何人，因为我是一个小频道。也许有些视频质量不高，但我确实发布了一些自己感到自豪的作品。
+
+后来，我开始使用抖音 TikTok。出于无聊，我选了一首歌，拍了一段模仿视频，有50次观看。我逐渐又发布了一些视频，合计得到了4万个喜欢和1200个关注者，视频总观看次数是15万。注意，我的第一个视频是在今年2月份拍的，6月份才拍了第二个。
+
+YouTube 不鼓励小创作者、非知名人士和没钱做广告的人，而抖音让任何有才华的人都变得至少相对受欢迎。
+
+抖音的算法是，你发布视频时，抖音会将其显示给一定数量的人。如果有足够的人看到它并按下"喜欢"，抖音就会让更多的人看到这个视频，这个过程不断重复，直到应用程序里面的每个人都看到它。这很简单，直接，透明。
+
+YouTube 的算法是什么，根本没人知道。我觉得很好笑，一个中国公司的算法更加透明。YouTube 不了解它的使用者，它是一个垄断公司，已经停滞不前。我的遭遇是众多类似故事中的一个。
+
+(the original)
+
+Here's why YouTube can go fuck itself:
+I have a YouTube channel. My first video will be five years old on September 14. I kept putting out content for a number of years, content which I thought was funny and would surely be well-received.
+
+But people never watched my videos! I get 20ish views per video. They never get recommended to anyone because I'm a smaller channel, and then I never become big for that reason. (Or maybe my videos just suck. Some of them definitely do, but I've made some that I'm proud of.)
+
+I joined TikTok, YouTube's 60-second-max competitor. Out of boredom I made a video synced to one of those songs. Fifty views on my first one. Eventually I started making more content. I've clocked around 150K views on my videos combined, 40K likes, and 1200 followers. I made my first video around February and my second around June.
+
+While YouTube discourages small creators, non-celebrities, and those that don't have massive amounts of cash to throw around on sets, TikTok lets whoever's talented become at least relatively popular.
+
+TikTok's algorithm is pretty well-documented by its community: When you post a video, TikTok shows it to a certain amount of people. If enough people who see it "like" it, it moves to a larger amount of people, and so on until everyone on the app sees it. This is easy, straightforward, and transparent (for the most part, there are special cases and such).
+
+YouTube's algorithm is: [redacted]. It's amusing to me that a Chinese company would be more transparent about this. YouTube doesn't understand its community and it's probably too late to save it, it got a monopoly and stagnated. My story is one of many others.
+
+## last days of an once lion king story
+
+饿死的狮子王
+
+https://travelguideandphotography.com/2018/04/23/the-death-of-a-king/
+
+我们参观南非的克鲁格国家公园（Kruger National Park），看到一只巨大的雄狮蹲在河岸边。
+
+![](https://www.wangbase.com/blogimg/asset/201907/bg2019073102.jpg)
+
+他瘦得皮包骨头，几乎站不起来。
+
+![](https://www.wangbase.com/blogimg/asset/201907/bg2019073103.jpg)
+
+他慢慢地离开河边，摇摇晃晃地好像喝醉了一样。每走几步，他就会停下来喘口气，低着头，直到他有足够的力量再走几步。走到一半的时候，他突然倒在路上。很明显，他已经在生命的最后阶段了。
+
+![](https://www.wangbase.com/blogimg/asset/201907/bg2019073104.jpg)
+
+一只大象靠近他，他努力站起来，试图逃跑。
+
+![](https://www.wangbase.com/blogimg/asset/201907/bg2019073105.jpg)
+
+![](https://www.wangbase.com/blogimg/asset/201907/bg2019073106.jpg)
+
+当天晚些时候，我们发现他躺在草地上，筋疲力尽无法动弹。我离他不到五英尺，看着他的眼睛。我只是想让他知道，他不会独自死去。
+
+![](https://www.wangbase.com/blogimg/asset/201907/bg2019073107.jpg)
+
+他的胸部一上一下，不停地抽搐，一个小时之后，他死了。
+
+![](https://www.wangbase.com/blogimg/asset/201907/bg2019073108.jpg)
+
+多年来，作为一名摄影记者，我拍摄过失去一切的人、受伤的人、正在死去的人，但从来没有拍过像这只雄伟的动物那样悲伤的东西。他是真正的野兽之王，但是老了以后，可怜地饿死了。
+
+后来我们才知道，这只高贵狮子的名字是Skybed Scar，他在克鲁格国家公园以其漫游和统治多年而闻名。他自由地生活，自由地死去。
+
+## pure infomation charge is not a good business modal view theory
+
+大家有没有感觉，互联网上免费的东西越来越少了。
+
+打开很多网站或 App，都要求你付费：听歌要钱，视频要钱，下载要钱，读一篇文章也要钱。这当然无可厚非，但是我总觉得，纯粹的信息收费不是一个好的商业模式，除非有增值服务。 这有两个原因。
+
+第一个原因是，信息与实体商品不同。实体商品具有排他性，我吃了这只苹果，别人就吃不到，但是信息可以无数次消费。
+
+而且，信息有一个奇怪的特征：消费的人越多，它的价值越高。一篇文章只有二三十人看，很快就会被忘记；但有一百万人看，就是全国的热点。 收费会阻止信息的这种零成本的自我增值。
+
+第二个原因是，信息收费很难扩展。80%的用户都是看一眼就走了， 收费会阻止这些轻度使用的用户。 比如，《纽约时报》网站是收费的，但是我一个月就看几篇文章，不太可能为这几篇文章成为付费用户。信息收费的前提是，用户会深入地、长期地使用这个服务，这种深度用户很难找，因此收费很难扩展。
+
+所以，我认为， 信息的商业模式，不应该是收费，而是应该鼓励更多的人消费它。 越多人消费，信息的价值越高，这时就可以开发增值服务，从服务赚钱。
+
+开源软件就是很好的例子。Linux 原来是一个大学生的作品，可以免费用，结果成了行业标准。基于 Linux 的 Red Hat 公司，所有产品都是开源的，只对服务收费，最终被 IBM 以 340亿美元的价格收购。
+
+![](https://www.wangbase.com/blogimg/asset/201909/bg2019091909.jpg)
+
+就像上图的那句话："Open is smart. Smart is open" 。我们不要做 closed 的产品，而要做 open 的产品。Open 一定会带来更大的价值。
+
+## weekend side project is one of the appstore best story
+
+我的周末项目（英文）
+
+https://tannerchristensen.com/blog/2018/12/30/oh-shit-my-weekend-project-turned-into-an-app-store-best-new-app
+
+本文记述作者一个周末写的项目，结果意外变成了苹果应用商店的最佳新应用，赚到了4000美元。作者谈了他的一些感想。
+
+(the original)
+
+### Oh shit, my weekend project turned into an App Store Best New App
+
+On March 14, 2015, while reading the book [*Creative Confidence*](http://web.archive.org/web/20190919044638/http://www.amazon.com/gp/product/038534936X/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=038534936X&linkCode=as2&tag=simmakmon-20&linkId=EWU7WRPNBEFCMBRQ), I stumbled on a single sentence that seemed to encapsulate the essence of the book in a powerful way.
+
+As a blogger and design-driven individual, **I wanted to capture the quote in a captivating way that would allow me to share it quickly online**.
+
+### An idea strikes.
+
+I held my place in the book with one hand while thumbing through the app store on my phone in the other, unable to find an app that could accomplish what I was looking for. Then an idea suddenly struck me: I could *easily* create --- or try to create --- an app that allows me to highlight and share quotes from the books I'm reading. Or so I thought.
+
+It just so happens that the line in the book at that very moment was the momentum I needed to at least try to build a simple enough solution:
+
+![](http://web.archive.org/web/20190919044638im_/https://images.squarespace-cdn.com/content/v1/5b05a3300dbda3d74934c189/1546226279469-24Q187E5048L8PW99BFU/ke17ZwdGBToddI8pDm48kLXMM7vgPZ8okL8TCKCPeIcUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcYo28TYT98UPvWk9WoutShTaI0V78DVbK7kxgSSdgoAH2TReMEYG8xQ2LFQ6dbz20/image-asset.png?format=1500w)
+
+The line resonated so well with me --- particularly because I belong to the church of reason that says [ideas are worthless until we get them out of our heads ](http://web.archive.org/web/20190919044638/http://www.startupvitamins.com/products/startup-poster-ideas-are-worthless-until-you-get-them-out-of-your-head-to-see-what-they-can-do)--- that I ran over to my laptop and started working on mockups of what an app with this type of focus could look like.
+
+![1*cioo5prT3aSs79_f4zC2XA.png](http://web.archive.org/web/20190919044638im_/https://images.squarespace-cdn.com/content/v1/5b05a3300dbda3d74934c189/1546226378336-3XJOWODMZ1FFFT2XP2ZL/ke17ZwdGBToddI8pDm48kPmdWrmmXEELxSJgJ0EPayNZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzIHnr6jMCVqcX8E4iPuf8L5yrOo4wprfN4nucMjn4N6BgX6Ar9SDMOolwhT88_qbo/1*cioo5prT3aSs79_f4zC2XA.png?format=750w)
+
+Of course my initial instinct --- of being able to quickly create a highlighting app that effortlessly produces a sharable image of a text quote --- wasn't entirely correct.
+
+I ran into problems with device orientation and how to create a visual effect of a highlight without actually creating the highlight (for the nerds reading who are interested in technical details: I ended up creating two image views of the photo, one brightened and the other dimmed. When a user slides their finger over the dimmed view, we create a mask layer that lets the brightened view shine through).
+
+All-in-all **the project took me an hour to program** and another few hours to generate screenshots for, icons, text for the App Store, and promotional material like this short video:
+
+I used the app to create the quote image you see above, shared it on Facebook, and submitted the App Store, then called it a day.
+
+You can [download Snaplight here](http://web.archive.org/web/20190919044638/https://itunes.apple.com/US/app/id977049674?mt=8) if you haven't tried it yet.
+
+In total Snaplight took less than 24 hours to conceptualize, design, program, create promotional material for, and submit to the app store. Which brings me to the reason I'm writing this...
+
+Let me be clear: I think Snaplight is a pretty lame app.
+
+Snaplight is terrible. It's hardly useable today. That's not to say it's useless...it's great for doing one simple thing well, but that's where it stops.
+
+### There are a number of things *wrong* with Snaplight.
+
+Photos are cropped strangely because of the limitations on the device. Highlights are one-size-fits-all (for now) because I didn't want to add clutter to the interface and an algorithm to detect the size of text in a photograph wasn't complete (but is coming to the app soon).
+
+But the app did exactly what I wanted it to do: allow me to create sharable photos of highlighted passages from the books I'm reading.
+
+Then, one morning a few days after Snaplight became available in the iPhone and iPad App Store, I noticed a slight uptick in downloads for it. A friend messaged me on Facebook to let me know the app was not only trending, it was **being featured on the App Store homepage**.
+
+![1*aPseKlSlstwadfnPFoggCA.png](http://web.archive.org/web/20190919044638im_/https://images.squarespace-cdn.com/content/v1/5b05a3300dbda3d74934c189/1546226475726-VCU5MMYVDFN8UVP84V9F/ke17ZwdGBToddI8pDm48kKTy6cM85Cql2KHCMc1OUK8UqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcLyKQSttnA0X79jwWlQoiE82CHqxCGAsSJTlUjswWU5fBuUVIYLVFygYpzXB9JHv9/1*aPseKlSlstwadfnPFoggCA.png?format=1500w)
+
+Within hours the app climbed to rest in the top 20 apps under the Lifestyle category, and reached the top 200 apps for all categories worldwide.
+
+"Shit," I thought to myself, "this is going to get some seriously bad reviews."
+
+Snaplight serves an extremely niche need: mine. But does that make it useless? No. I imagine someone at Apple who has been looking at [my past work](http://web.archive.org/web/20190919044638/https://itunes.apple.com/us/developer/tanner-christensen/id421646590) (Snaplight is my fifth creativity-oriented app in the store to-date), thought it was clever enough to promote to the homepage of the store.
+
+After a few thousand downloads: I now am waiting for the negative, one-star reviews to roll in. And there is no doubt in my mind that they will, because Snaplight isn't the type of product many people will find useful.
+
+![Thanks for the constructive feedback gregh1981!](http://web.archive.org/web/20190919044638im_/https://images.squarespace-cdn.com/content/v1/5b05a3300dbda3d74934c189/1546226506670-58IUKNC5P2R2TTG5P9EY/ke17ZwdGBToddI8pDm48kO1X1AXj_SgYLLzQqiRoGr3lfiSMXz2YNBs8ylwAJx2qLijIv1YpVq4N1RMuCCrb3iJz4vYg48fcPCuGX417dnYl-GcFhkaaFAf3TLuKEBXiochIn-QxixjlLE5bSWoqXAoyyEsAbPHhHcQMU6bWQFI/1*qJP2Ie8MQQ77TcvRPmzfHw.png?format=500w)
+
+Thanks for the constructive feedback gregh1981!
+
+My own mother, after testing the app on launch day, simply said: *"Like the app a lot. Hope you can improve it."*
+
+Of course I have ideas for improving the app, but it's likely to never become a #1 app or meet all of the needs of those who will try it out in the coming months.
+
+And not all of the incoming reviews are negative. Jeff Byrnes of AppAdvice.com had a few [kind words to say about Snaplight](http://web.archive.org/web/20190919044638/http://appadvice.com/appnn/2015/04/share-inspirational-quotes-with-ease-in-snaplight): *"Whether you're highlighting a quote from a book you're reading now or loading up an old photo from your photo library, the app is easy to use for creating a picture of your highlighted passages."*
+
+Thanks Jeff!
+
+But...
+
+### **I'm ok with falling short in the eyes of those who don't find Snaplight useful.**
+
+Instead of looking at this as a story of failure and missing an opportunity to potentially be a massively popular app, I want to instead focus on the reasons I built the app and how they've empowered me to not only reach hundreds of thousands of people time and time again, but helped me to be successful financially, in my career, and in my personal life.
+
+Here's what I think is more important than getting a 100% 5-star review rating on an app:
+
+### 1. Scratch your own itch
+
+Snaplight solves an exact need --- or scratch --- I had: being able to quickly capture a photo of a book I'm reading and create a sharable quote from it.
+
+All of my work has followed this same pattern of scratching my own itch, and here's why:
+
+If the project fails, at least you have something that fulfills ***your ***need.
+
+Even if Snaplight was never featured in the App Store, and even as it is certainly doomed to fall in the rankings due to low ratings, the app was a success in that it fulfilled my need.
+
+There's a bonus benefit to scratching your own itch in the work you do as well: you can adapt it to fit your needs as they change or grow, because you own it.If I ever have a problem with Snaplight or want to add new features, I'm completely empowered to make those changes happen, because it's my product.
+
+### 2. Start with MVP
+
+Minimum viable product. Whatever it is you're working on: it needs to do what you set out to make it do, and nothing more (at least initially).
+
+**You can always add more to a product, what's tremendously more difficult is getting the damn thing built and out the door in the first place.**If you have an idea, focus on whatever the minimum product can look like and build that. You can always adapt/grow/improve the product once it's built, but until you have something you can actually see or play with in front of you: don't worry about your growth strategy for it.
+
+For Snaplight, I knew I wanted to be able to adjust the height of the highlighted area (something not present in version 1.0), I even began working on a text-height detecting algorithm that looks at a series of pixels in a photo and compares their contrasts in aggregate in order to return an ideal height for the highlight. But features like auto highlight sizing based on text size detection is candy compared to what I set out to build in the first place.
+
+### 3. Don't be afraid to ask for money
+
+Your work deserves a dollar, at the very least. **If you want to succeed you'll need to get comfortable asking for money.**
+
+If you're willing to put in some work to do something (anything) you should be rewarded for your efforts, particularly if someone else is going to benefit from them.
+
+As long as you believe the product offers *someone* value, they'll pay a reasonable price for it. And because you're scratching your own itch, there's a bit of early proof that makes it clear:
+
+Of course "someone" will get value from whatever it is you create: people like you.
+
+In the end, I'm excited that Snaplight is getting a bit of additional exposure to those who *will* find it useful but otherwise wouldn't have discovered the app in the first place.
+
+For everyone else who tries it and finds it to be a useless piece of garbage: thanks for trying it and providing feedback, I hope you find what you're looking for elsewhere.
+
+But for those in the last category, if you aren't finding the product that scratches your itch, might I make a suggestion? ...
+
+### Learn how to build whatever it is you need, then go build it.
+
+It's been a pretty effective strategy for me so far.
+
+![Screen Shot 2018-12-30 at 7.23.53 PM.png](http://web.archive.org/web/20190919044638im_/https://images.squarespace-cdn.com/content/v1/5b05a3300dbda3d74934c189/1546226664905-Z77V5YZ5TNRT3JLMH1CT/ke17ZwdGBToddI8pDm48kGYOAjNScA-AaO0KtoClJvp7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UfWc148nRMI8Y4j6FxO0oAYwndgVWNzh9HFPQ3Y7UHUlJvwGh1qtNWvMhYKnvaKhbA/Screen+Shot+2018-12-30+at+7.23.53+PM.png?format=1500w)
+
+**Update:** On September 1st, 2015, Starbucks selected Snaplight as their Pick of the Week, highlighting the app for more than a million people in the United States. Thanks Starbucks!
+
+**Update:** As of March 2017, two years after launching Snaplight, it's still going strong with about 10,000 downloads each week.
+
+## days are long while years are short quote
+
+每一天很长，但几十年很短。
+
+-- Sam Altman，《我的30岁感想》
+
+https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short
+
+## sketchy style web chart library
+
+chart.xkcd
+
+https://github.com/timqian/chart.xkcd
+
+一个 XKCD 漫画风格的网页图表库。（@timqian 投稿）
+
+## sketchy style web svg library
+
+Rough.js
+
+https://github.com/pshihn/rough/
+
+生成手绘风格图片的 JS 库。
+
+## zero width characters hidden text theory
+
+基于零宽字符的文本隐藏加密工具
+
+https://github.com/ruanyf/weekly/issues/796
+
+该工具的原理是利用零宽度字符，将加密文本转码后嵌入到普通文本当中，从而表面看起来是一段普通文本，但是复制粘贴不会丢失密文。
+
+## python tricky features library
+
+wtfpython-cn
+
+https://github.com/leisurelicht/wtfpython-cn
+
+这个仓库收集一些有趣且鲜为人知的 Python 特性，内容是从英语翻译而来的。（@fengrussell 投稿）
+
+## why we abstract while programming quote
+
+最好的工程师不是写代码最多的工程师，而是做出未来可以少写代码的决策的工程师。
+
+-- Dan Goldin
+
+https://dangoldin.com/2019/09/16/goldilocks-and-the-three-implementations/
+
+## create a successful side project story theory
+
+我如何创建一个盈利的副业项目？（英文）
+
+https://blog.pixelixe.com/2019/09/19/how-a-facebook-rejection-pushed-me-to-start-and-grow-a-profitable-business-in-12-months/
+
+作者在面试 Facebook 被拒以后，决定做一个项目证明自己。本文记录他构思、开发、推广的过程，发布后4个月产生了1000美元的收入。
+
+(the original)
+
+### How a Facebook rejection pushed me to start and grow a profitable business in 12 months
+
+![](https://pixelixe.com/blog/images/18/pixelixe-studio-graphic-creation.jpg)
+
+*Here is the story behind the creation of [Pixelixe.com](https://pixelixe.com/), an online graphic creation tool I started creating in my free time 12 months ago after an interview failure at Facebook. The project quickly reached profitability, discover below how all started.*
+
+The 23th of January 2018 (which was also exactly my birth day), I received the first email from Facebook. In brief, the Facebook London office was recruiting a tech team for the Paris office and they wanted to interview me to potentially become one of their Solutions Engineering Manager.
+
+Here is the first email I received :
+
+```
+Hello Thomas,
+My name is XXX XXXX from the EMEA recruiting team in Facebook, I'm keen to connect with you in relation to a role we currently have open in our Paris office - Solutions Engineering Manager, Southern Europe, please see link to the role below.
+https://www.facebook.com/careers/jobs/xxxxxxxxxxxxx
+Your experience looks very interesting and relevant as we are particularly interested in talent who have demonstrated engineering management experience combined with coding capability. I would love the opportunity to have an informal chat with you so I could provide you with more context on the role and share more details with you as to what the team do.
+I look forward to hearing from you.
+Kind regards,
+XXXX xxxx
+Technical Recruitment at Facebook*
+```
+
+After reading the above email, I knew I had to say "Yes"! First reason, even if I was quite happy with my current job, it was hard for me to refuse an opportunity to work for one of the hottest companies in the world. Second reason, I have to admit I was very flattered they were impressed by my CV and reached out to me. Who wouldn't??
+
+It is important to be aware than in my current job at that time, even if I had a software engineering background, I didn't code that much. I was and still am the Data CTO for a large retail company based in 16 countries worldwide and I spend most of my days doing mostly management and strategy meetings. I was interacting with engineers but almost three years had passed since I really coded.
+
+Basically, apart from the management skills, this job opportunity at Facebook required to be a computer science expert. And as you already know, companies such as Google or Facebook propose a quite sharp hiring process.
+
+In 3 steps, here is how it works :
+
+- Stage 1 : Phone call interview
+
+- Stage 2 : Coding screen interview with one of their software engineer leads.
+
+- Stage 3 : On site interview
+
+The first phone interview went perfectly well, the recruiter was confident I was a potential good fit for the team. She also added in our conversation that the basis salary for such position within Facebook started at 150.000 Euros and we both agreed we should quickly organise the coding interview.
+
+Even if I built software for a decade prior to this first contact with Facebook, I did my homework dutifully. I read a ton of articles about how to prepare for a software engineering interview at Facebook. I spent days revising basic data structure courses, Big O Notations, recursive functions and so on to increase my chances of success. I even did a lot of fake coding interviews to make sure I will be ready.
+
+The next week, I sat down in front of my laptop, ready to tackle this software engineering interview and guess what?? I failed!
+
+I suppose I was too stressed out, even if the stakes were not high at all, I already had a great job and my life didn't depend on this interview. But still, I lost my ability to focus.
+
+As you may know, during on screen coding interview, your recruiter asks you to solve problems and you have to write code on a shared live document meanwhile explaining your choices and your approach to solve the problem. English is not my mother tongue (I am French) and I struggled coding and speaking complex technical english simultaneously.
+
+To be honest, I do not blame Facebook at all, both recruiters I talked with were really kind and professional.
+
+Moreover, I have always admired companies that select their employees carefully and tend to attract the best profiles. There are too many companies out there that do not raise the bar high enough and have poor or weak level and ends up never being "innovation" driven.
+
+Anyway, it was exciting to take this little challenge and I do not regret anything. As Gary Vaynerchuck always says, "Have zero regrets", right?
+
+But, I ended up being really frustrated. Was I that bad as a software engineer? Did I lose my computer science skills? I started doubting myself and my technical abilities. So badly, that I decided to do something about it to regain them. I didn't want to become one of those high level executive directors that are too far away from operational teams.
+
+A few years ago, I read an article explaining that Werner Vogels, the CTO of Amazon coded at least one day each month even being a busy man in a huge organisation such as Amazon. This article always resonated with me. How a CTO can be efficient and productive for its organization if he loses the link with technical topics and does not understand the suffering of his technical teams?
+
+What a better way to stay updated on computer science evolution and to understand issues met by engineering teams than by keeping coding regularly throughout your career?
+
+So, in April 2018, I started being motivated to code again in my free time (evenings, weekends, holidays). This Facebook rejection motivated me so much, I wanted to prove to myself that I was, not only, able to code but also to built an entire product and launch it all by myself.
+
+### Step 1 : Find a product idea challenging enough from a technical point of view
+
+The challenge I decided to face was to develop a fully working product, as a side project (keeping my full time job). I won't be in a hurry if I kept working full time (no money stress), meaning I will always have my job to pay the bills.
+
+Also, when I was young, I have always been a huge fan of Gyro Gearloose (inventing stuff by himself in his garage) and when I grew up, I was fascinated by startups that was born in garages with nothing apart a single guy working on his passion project.
+
+![](https://pixelixe.com/blog/images/18/startup-garage.png)
+
+Find below conditions I decided to follow for my side project :
+
+Condition 1 : I decided I wanted to do everything by myself, from the idea, to conception and design and to develop every line of code alone: databases, middleware, APIs, website, defining UX/UI, everything!!! I just wanted to keep fit and sharpen my technical skills.
+
+Condition 2 : I didn't want to build something too easy. I wanted it to be fun, complex with a lot of calculus problems to solve (to revise mathematics simultaneously with coding), maybe a bit of 3D, something that people would use with pleasure and that I will be proud of.
+
+Condition 3 : It was obvious from the start, I wanted to create a Saas product with a freemium model. As it will be a side project, I couldn't afford to start a business where I would have to meet people face to face (salesman way) to turn them into potential users or buyers. The plan was to create a tool accessible 100% online. Users will be able to use the free plan or upgrade with their credit cards without any human intervention whatsoever. That way keeping my full time job won't be a problem at all.
+
+Condition 4 : Finally, I decided to spend no money at all on this project. (Except for buying a domain name which is mandatory) Bootstrapping was the way to go. I wanted to persuade myself that on the Internet in 2019, you could still build something from the ground up with no money. (Like in the 70s/80s/90s, when geeks started profitable businesses directly from their garage).
+
+### Step 2 : find a business idea
+
+The next step was to find a business idea. I made some research on Google, Reddit, Quora to find ideas. But nothing really popped up and motivated me.
+
+I then spent two weeks interviewing some friends and my network that had jobs in small and medium businesses. I quickly noticed asking a bunch of questions that a lot of small businesses struggled to get or create graphics to promote their services on social and digital platform (Existing solutions were too complex or too expensive). The tools available were not only complicated, but they were incredibly time-consuming. Hiring a graphic designer was also out of the question for SMBs.
+
+I then decided to create an easier way to design graphics and images for non-designers.
+
+Moreover, this idea was motivating me a lot, I decided to build the most easy to use and accessible graphic design studio on the market. Developing a WYSIWYG (What You See Is What You Get) editor was complex enough to challenge my computer engineering skills. A lot of mathematics and calculus would be involved, perfect. I was excited as hell!
+
+To summarize, the plan was to develop a design studio, conceived for non-designers (SMBs with limited resources and budgets), startups, bloggers and marketers willing to launch simple marketing and social media campaigns without spending tons of money with agencies.
+
+I started developing the first line of code in May 2018.
+
+![](https://pixelixe.com/blog/images/18/office-macbook.jpg)
+
+### Step 3 : There is no such thing as finding a startup name, In reality, the trick is to find a free domain name that looks like a startup name
+
+I quickly realised that instead of trying to find a startup name, the main difficulty was to find an available and cheap domain name. This process took me almost two entire days. It was painful, exhausting and I disliked it. My approach was to brainstorm to find words that resonated with graphic/image/design/pixel and spent my time searching if my domain ideas "smartpixels", "pixelsmart", "pixelgraphic" and few other hundreds were available or not and was the cheapest as possible. I wanted a ".com", not a ".io", or ".ai" or something else.
+
+After two days, I finally found "Pixelixe.com" and I purchased it for $13/year from Google Domains. Yes, only $13 and since then, I didn't spend anything else on the project.
+
+For the record, I launched the first version of the website in September 2018 but I haven't tried at that moment to acquire traffic. I was still developing the major features of the product.
+
+Finally, one year later, the app is now live for 4 months and is already profitable
+
+Almost one year after I started coding my graphic studio, I released the first version of the product the 25th of March on Product Hunt.
+
+https://www.producthunt.com/posts/pixelixe
+
+Since then, I focus my energy on growing traffic and fixing small bugs.
+
+So far, thousands of users created and downloaded a graphic with Pixelixe Studio.
+
+I had my first paying customers the day after the launch. I was so thrilled, it was a really exciting moment for me and a huge milestone for Pixelixe. I felt so rewarded after the ton of hours I put into the project.
+
+After spending a lot of time focusing on SEO optimisations on the website, organic traffic starting to grow every week steadily.
+
+![](https://pixelixe.com/blog/images/18/pixelixe-google-search-console.png)
+
+I learned a lot about coding but also, communication, marketing and I am ready to share few tips with you in next articles.
+
+### Conclusion 12 months after starting the project
+
+Profitability for a side project can be, I suppose, controversial. I do not rely on Pixelixe, my side project to live and get a full salary. The only expense Pixelixe had so far is $13 to get the domain name "pixelixe.com" from Google Domain last September. In 4 months since the launch, Pixelixe Studio generated around $1000 of positive income. Not bad for a side project start, right?
+
+I did a lot of effort to reduce expenses as low as possible optimizing codes and favorising client-side processing instead of server-side processing to avoid hosting costs. (In another article, I will explain how I did it).
+
+Today, gains are almost 100% bigger than expenses. Therefore, I consider the project as profitable in the sense, it generates enough cash flow to sustain itself (and even more). I do not plan yet to reinvest part or totality of profits into the project, I am still trying to validate pricing, business model and get more organic growth.
+
+I am glad I went out of my comfort zone accepting this Facebook interview. I learned and grew a lot since then.
+
+I am proud to say I regain my coding abilities, design abilities, web marketing abilities and I can carry on as there are so many skills required to launch a startup as a side project.
+
+## jira web app confused ui design theory
+
+为什么 Jira 难用透了（英文）
+
+https://medium.com/@jtomaszewski/15-reasons-why-jira-and-confluence-suck-37507361cbdf
+
+Jira 是常用的项目管理工具，本文使用大量图片解释这个工具是多么难用。
+
+(the original)
+
+### Over 16 reasons why Jira and Confluence suck
+
+For years I have been both an end-user and a [developer](https://jtom.me/portfolio/) of many web applications, with many of those being Software as a Service.
+
+Many times I have used tools like Asana or Trello to manage project tasks.
+
+Recently I have been asked to use Jira. I had joined a new project of an existing organization. They've been using Jira for years.
+
+![](https://miro.medium.com/v2/resize:fit:1400/1*4XHSBOrTW6uUNLO4cXMBUQ.png)
+
+Looks so nice at first glance.
+
+And damn, mate. That has been an adventure.
+
+### Hanging out with Jira
+
+First week was like going back into the 90s. Everything was opening so slowly. The UI was bloated so much. It asked me so many times with senseless "Are you sure?" confirmations. I felt like being back in Windows '95 times. (Although Windows was way better.)
+
+Second week I was constantly like *"hey guys, can we switch to Asana?"* ;) Me and my teammate went even as far as to create an alternative Asana board. We had started creating our own tasks in there instead of Jira. Unfortunately, switching over was out of the question. We had to use the existing tool to which the whole organization has adhered to.
+
+During the third week and the following few months, I realized that I had no other choice. I had to get used to it. As they say, *"If you can't change something, live with it." *That meant getting used to a tool that encouraged everything, but the effective project management and [agile software development](https://en.wikipedia.org/wiki/Agile_software_development).
+
+The only thing Jira encourages you to is to spend as little time on it as possible. Many of my teammates prefer to keep their TODO list in a physical notebook. They just find Jira too ineffective and time consuming.* (Strangely, when I had collaborated with others on Asana or Trello, nobody was doing that. They found it intuitive enough to make notes in the app instead.)*
+
+![](https://miro.medium.com/v2/resize:fit:1400/0*4qHcFi97njD9c3LG)
+
+Do you find this better than Jira? / Photo by [Glenn Carstens-Peters](https://unsplash.com/@glenncarstenspeters?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=medium&utm_medium=referral)
+
+Some would say: *"You hadn't learned how to use Jira yet". "Jira is going through important updates now". *I call bullshit!I've been using it for 9 months already, and I still find it as terrible as when I was starting out with it. ([Asana](https://asana.com/) and [ClickUp](https://clickup.com/) probably introduced 10 new features in the meantime.)
+
+I was so surprised that such a popular and important for the whole organisation tool is so terrible. Jira should be a web app that "lets you easily manage your project". Yet, it fails tremendously at it.
+
+Some of my friends respond to me when I am explaining my Jira horror stories to them: *"Ok, I understand you, it could be better a bit, but other tools are nowhere near good as Jira is in reporting or integration with other tools."*
+
+What kind of explanation is that? Asana lacks one feature on reporting, so what? Have you considered what downsides to your projects brings Jira? With such User Experience it has, it makes more bad than good to your organization. It's a matter of time until the other tools will have the features you need without the cost of unusability. Leaving your organisation on Jira will be a huge disadvantage to both your projects or any people considering to work for you.
+
+Let me give you a few examples to illustrate my point.
+
+### Jira UX
+
+For the purpose of this article I signed up for a free trial of ["Jira Software + Documentation" package](https://www.atlassian.com/software/jira/try). As my user scenario, let's imagine that I had just created a new company, and now I created a project in Jira called "Indri Landing", which will be used as a project management centre for preparing the launch of my company's landing page.
+
+After creating the project, I decided to create my first task (that is: issue).
+
+![](https://miro.medium.com/v2/resize:fit:1400/1*YM8hYpABaCN_jnUa8KiAzQ.png)
+
+Kanban board --- first view you see after creating a project.
+
+### 1. Issue Type --- why does it exist?
+
+First thing you learn while creating an issue in Jira, is that each issue is not a just an issue. New issue by default might be a Story, Epic, Bug Item, or a Task (and a sub-task, but more about it in a second).
+
+![](https://miro.medium.com/v2/resize:fit:600/1*XFXViLMGYRat9gXp2ptDPQ.png)
+
+Why does such split exist? The difference between them is explained in both theory ("they serve different purpose") and practice ("Story has different workflow than a Bug").
+
+In short however they are all the same thing. A task to do/fix something.
+
+So in practice, every time you create an Issue, you have to think on what kind should it be. Should it be an epic, a story or a task? Or maybe all of them? (Like, I should first create "Initial Release" epic, then follow it with a "Bootstrap the project" story, and then, in it create tasks like "Create source code repository"?)
+
+*... uhm. I'll just create "Create landing page" task for now, and then compose it of other tasks.*
+
+### 2. How to create a new issue?
+
+After creating my first issue, I wanted immediately to create another one. However, because now that I have an existing issue, the big "Create an issue" placeholder has disappeared. So I started to look for an "Add Issue" button.
+
+![](https://miro.medium.com/v2/resize:fit:2000/1*MZX3q8RUz19olk9LZbyhww.png)
+
+You have 500 ms to find the "Add Issue" button. Start.
+
+*...Where is it?*
+
+I clicked on the three dots button, but the only thing I saw was this.
+
+![](https://miro.medium.com/v2/resize:fit:484/1*tiAxAJL5c7lGShCQcn5LTQ.png)
+
+I can create new boards, but not issues.
+
+Then I clicked "Add Item" link in the sidebar on the left, just to see this:
+
+![](https://miro.medium.com/v2/resize:fit:1306/1*cn1KQ7QiEopy0a4o3OCT5A.png)
+
+I can create shortcuts and pages, but not issues.
+
+*... oh, there it is!* On the far left in the blue sidebar which visually doesn't belong to the project view at all. Interesting decision from the UI designers.
+
+![](https://miro.medium.com/v2/resize:fit:2000/1*DZrzoYvslgmW_kbPZvQeLA.png)
+
+"Add issue" button found --- on the far left of the screen as a tiny "plus" icon.
+
+### 3. Task can have sub-tasks, but a task can't be a sub-task of a task
+
+I've been working with Jira for 9 months now and still I can't stop laughing while reading the above subtitle. An issue on Jira can be a task or a sub-task of a task. However, existing task can't be a sub-task of a task. You'd need to "convert" existing task to a sub-task in order to make it such.
+
+My scenario: I had created second task called "Prepare Graphic Design", and now I wanted to make it as a sub-task of "Create landing page" task.
+
+![](https://miro.medium.com/v2/resize:fit:544/1*xMk-VUeam73yCZpgIdCtVA.png)
+
+I have created two tasks, but now I realized that one of them is actually a part of the another.
+
+So I went into "Create landing page" and tried to add a sub-task.
+
+Unfortunately, after typing the other task name in, it just created a new sub-task:
+
+![](https://miro.medium.com/v2/resize:fit:2000/1*qEwDEtHWePUUev8HKqbnBA.png)
+
+By the way. What's this "This board has been updated" alert about?
+
+*Mhm, not something I desired. Let's remove it.* However I couldn't find any remove button next to the sub-task element on the sub-tasks list. *(Why? I don't know yet.)* So I clicked on the sub-task in order to proceed to its' view and maybe find the remove button there.
+
+![](https://miro.medium.com/v2/resize:fit:1400/1*FTgo8waeeEjXoCtxTEM-bg.png)
+
+Looking for the "Remove issue" button. Attempt no 1.
+
+*... I must be blind. No delete button anywhere, even after clicking on the main three dots button. Maybe the other three dots button includes that?*
+
+![](https://miro.medium.com/v2/resize:fit:794/1*79IbX9f4jziq-hKrKDDRFA.png)
+
+Looking for the "Remove issue" button. Attempt no 2.
+
+*Nope. Maybe if I go to the parent's task view and click the three dots button that is located next to the "Sub-tasks" section title, I'll be able to delete the subtask from there?*
+
+![](https://miro.medium.com/v2/resize:fit:1318/1*W4nFJpVkSAOf_3s44ArhBw.png)
+
+*Nope!* I was expecting here something in lines of "Select and delete", but the only thing that could be anyhow related to it was the "Bulk edit" link.So I clicked that.
+
+... which caused a redirect to some totally different page called "Bulk Operation"! Which was loading for about 6 seconds. While all I wanted was just to delete a subtask that I had just created. *(Mhm, I hope it will remember my last view once I finish this "Bulk Operation".)*
+
+![](https://miro.medium.com/v2/resize:fit:2000/1*S5GO6MRdOhQMsRCF9KVM6w.png)
+
+"You do not have permission to delete the selected 1 issues."
+
+*A bit weird. I am the only person in this project, I had created both it and the issue, but now I can't remove them? Why is that? *I started googling.
+
+![](https://miro.medium.com/v2/resize:fit:1400/1*z7RkcEssHo_TTm_ZOT8LHA.png)
+
+TL;DR: Deleting issues is prohibited because it would make restoring them impossible.
+
+Oh, so it's a feature, not a bug. OK, I get it - it might be a good safety practice not to let the users delete any of the issues. (Even the ones they had just created a second ago?! ;>).
+
+*... Come on. *Is it the best that a big company like Atlassian can think of?
+
+Why they have never thought of placing an "Archive" button? Almost every web-based tool nowadays has a way to archive files, photos, articles. (It's same as "delete" but with "undo" feature included.)
+
+*Anyways, I won't be changing these permissions now, I don't have time for that.* *Maybe I can mark the subtask as "Skipped" or something?*
+
+![](https://miro.medium.com/v2/resize:fit:1400/1*bYxM5jX1JZDk18SoQxmMCQ.png)
+
+*Nope. I can only move it forwards. *Thus, as a temporary workaround, I renamed the issue title to "ARCHIVED" and marked as done for now.
+
+### 4. Making a task subtask of a task
+
+Anyways, let's go back to the "Create landing page" issue. I wanted to make an existing task a subtask of it.
+
+By spotting a "Link" button in the UI I noticed I can link issues to each other. It looks cool, I admit, however it seems to be something else than the task-subtask relation:
+
+![](https://miro.medium.com/v2/resize:fit:1400/1*dInjKSx2V3vX75OwuStowQ.png)
+
+There are many options in the link dropdown, like "blocks" "clones" "duplicates", but there is no option like "subtask of".
+
+Why do subtasks exist at all then, if tasks can be linked to each other on their own anyways? I mean, a subtask is usually blocking the parent task too, isn't it?
+
+Since I can't link an existing task to another task with a task-subtask relation, maybe I can convert existing task to a "subtask" type? Let's google.
+
+![](https://miro.medium.com/v2/resize:fit:1400/1*ZYUC1nx2H2KH-9oWZsvluA.png)
+
+There is a possibility to convert task into subtasks one by one and also by group as well.
+
+OK. But where is that functionality to convert a task? Maybe I missed out on it somewhere?
+
+![](https://miro.medium.com/v2/resize:fit:2000/1*Tk_fFADGifrjZ8sWnalZEw.png)
+
+Searching again in the three dots dropdown.
+
+I found "Convert to Subtask" link after clicking one of the three-dots buttons. After clicking it (and waiting ~5-10s for a full page reload), following view has been shown.
+
+![](https://miro.medium.com/v2/resize:fit:2000/1*i8Srog41d1GcjLuc-0mE0w.png)
+
+Looks like I was about to reformat my OS. Why does it look like so complex? (All I wanted was to make a task a subtask.)
+
+![](https://miro.medium.com/v2/resize:fit:1012/1*y6Lt_uxVEyw1KlEGWXqBgw.png)
+
+The multi-step form also shows this. Even though I had already shown my intention explicitly by clicking a "Convert to subtask" link. This select here doesn't list any other options anyways. What's the sense of showing it?
+
+After selecting the issue and clicking "Next", it moved me to the next step:
+
+![](https://miro.medium.com/v2/resize:fit:2000/1*at5Xddk-PkiNrwJ53X2LDg.png)
+
+Step that is not required, gives no information, and has no possible actions other than "Next". Why bother showing it at all?
+
+Having clicking another senseless "Next", it moved me forward again:
+
+![](https://miro.medium.com/v2/resize:fit:1400/1*XVcFfpUPI0-lZpjzVyWpCg.png)
+
+Three times I had already confirmed that I want to convert the task into a subtask. What does JIRA do? Asks you again! (Ordering a taxi would be easier.)
+
+After final click on the "Finish", (and another full page redirect and ~8s of awaiting), finally I managed to convert the task into a subtask:
+
+![](https://miro.medium.com/v2/resize:fit:2000/1*WwSyiUtw6EjcBYkyAXrngw.png)
+
+Yes! Task seems to be a subtask now. (However I don't even see the parent task title, just an ID...)
+
+BTW. Have you noticed that alert in the top?
+
+![](https://miro.medium.com/v2/resize:fit:2000/1*W7w3w7BcePUO7WYe-nSYDQ.png)
+
+It tells me that I'm on a new issue view. That's generally a cool way to inform users about new features. However I'm a new user. I don't really know what's new and old.
+
+Besides, can you see it --- it has no close button?! (Clicking all the links and hitting refresh also doesn't hide it --- yes, I checked.) *Jeez... Let's move forward, maybe this annoying alert will disappear soon. *(It won't. I've been seeing it for 9 months already.)
+
+### 5. Splitting tasks into separate releases
+
+Having learned that converting an existing task to a subtask is non-trivial, I created next subtasks directly from the task view. I also created some other tasks, like "Ask for feedback", "Check SEO", that should be done after the initial release of my website is done.
+
+Now, I'd like to somehow group those other issues into a future release or something, so they don't distract me while working on the initial release tasks.
+
+I found this button "Release" in the Kanban board view and noticed that it allows me to create releases:
+
+![](https://miro.medium.com/v2/resize:fit:1038/1*-jLhKHPwQnkk5C-LsDLVgQ.png)
+
+Did you know... release needs a date? What if we don't know when a release will be done? Don't ask me.
+
+I decided to create two new releases: "1.0" and "2.0". Unfortunately, after creating the first release, I couldn't create the second one anymore:
+
+![](https://miro.medium.com/v2/resize:fit:638/1*IDC-_rI9EYba9nCmVa9epA.png)
+
+"Release" button is now disabled.
+
+Before resorting out to google, I noticed that there is a "Releases" link in the sidebar. I clicked on it only to have Jira greeting me with such view:
+
+![](https://miro.medium.com/v2/resize:fit:2000/1*hiXZs8-F7fUVS50lyM9LJA.png)
+
+Releases view that shows nothing, even though I had just created a release.
+
+This resulted in me having three questions on my mind now:
+
+1.  *"Can't find that version" --- what? what version? I haven't even start looking for any specific version yet.*
+2.  *Is release the same thing as version? (Why don't you guys stick to one naming?)*
+3.  *Where is the version/release I had created?*
+
+After changing the search filters from "Unreleased" to "Released", I learned that release has in fact been created but it has been marked as "Released". Even though I had set the date of it to be in the future. Why?
+
+![](https://miro.medium.com/v2/resize:fit:2000/1*KAgMoOG0m-UQWFDYtooBsQ.png)
+
+No idea. To fix it I "unreleased" it. After that, from the same Releases view, I created a new version called "2.0":
+
+![](https://miro.medium.com/v2/resize:fit:852/1*In8WJcWfvCKNJ4RcLSwvZw.png)
+
+While creating a release in this view, you don't have to set its' dates. So are they required or not?
+
+Now that I have my planned releases created, I decided to go back into the Kanban board and assign my existing issues to their corresponding releases.
+
+![](https://miro.medium.com/v2/resize:fit:2000/1*v4mNuXaPabH7a3XzIP8gCw.png)
+
+Looking for "Release" in the issue's sidebar. Found just "Fix Versions". I guess that's it?
+
+*(Why do I have to guess all the time?)*
+
+![](https://miro.medium.com/v2/resize:fit:1400/1*1W__QJ1xleZbtSXzt6LuNg.png)
+
+Release (that is: Fix Version) assigned. Uff.
+
+While going into the issue view, and assigning it to a specific Fix Version for about 4th time, I noticed it's quite a tedious task. I'd like to automate it a bit. Can I select many issues and bulk edit them all at once?
+
+I went back to Kanban board because I was expecting that some kind of bulk actions were reachable from there. (Un)Surprisingly, they weren't.
+
+![](https://miro.medium.com/v2/resize:fit:1400/1*WKHELkwE6amhusaB005DFw.png)
+
+Looking for Bulk Edit on Kanban board. Without success.
+
+Where can it be? Let's google [again].
+
+![](https://miro.medium.com/v2/resize:fit:1400/1*HQO2C2y-tr9DCUTDLL6oyA.png)
+
+Bulk actions are accessible only from a "search view". Whatever that is.
+
+... So how do I perform the "search"? *(I thought Kanban board is a search view already, as it has the search filters.)*
+
+I clicked the search button in the sidebar,
+
+![](https://miro.medium.com/v2/resize:fit:142/1*bysDxZJ4JaBMswB05sX8mw.png)
+
+to open this:
+
+![](https://miro.medium.com/v2/resize:fit:1206/1*tPLfv2xA5o4EQ-MTfb-MZg.png)
+
+Unfortunately, no bulk actions here yet.
+
+I clicked "Advanced search for issues". A full page reload and 10 seconds later,
+
+![](https://miro.medium.com/v2/resize:fit:2000/1*Ul8vwcCSmbOwTy6HO3fz0Q.png)
+
+Advanced search view has appeared. Showing total 0 issues that were matching my search (even though I hadn't search for anything yet), and a big field with some long, weird, programmatic query language.
+
+🤦 ‍Why would you put as a default search view a view that shows nothing?
+
+To change the situation I had to click "All issues". Finally it showed something:
+
+![](https://miro.medium.com/v2/resize:fit:1400/1*0lfX0KHUaIVuFTEgVszGiw.png)
+
+But where are the bulk actions? Maybe in that "More" button next to filters?
+
+![](https://miro.medium.com/v2/resize:fit:672/1*nkp_c9wtXXM95AGEn1sSNg.png)
+
+Nope. Maybe they'll appear after clicking "Advanced" button, the one located next to the search input?
+
+![](https://miro.medium.com/v2/resize:fit:1400/1*x91yCy6J2gbSB5qoIyh8rQ.png)
+
+Nope. It just changed the input look. Maybe in the three dots button in top right corner then?
+
+![](https://miro.medium.com/v2/resize:fit:632/1*KP490tMTO4YLYrQXIwQy3w.png)
+
+Yes! I got it! But... I don't want to change all 16 issues... I only want to change some of them. How do I do it? ...
+
+I changed the search filters to scope the issues down a bit, so the view would show only the main issues, and decided to Bulk change all 4 of them.
+
+![](https://miro.medium.com/v2/resize:fit:1400/1*5TI6822calEzRapxi9bc5A.png)
+
+Luckily, (after 5s and another full page reload), Jira listed all those issues again, but this time with checkboxes, so I could select only some of the issues that I initially wanted to edit. (Couldn't we do the "select" thing on the previous view though?)
+
+![](https://miro.medium.com/v2/resize:fit:1400/1*mFyNYqoajd9vH_nkVNevxw.png)
+
+Another list of issues, this time finally with checkboxes.
+
+P.S. If you'd like to preview those issues here before selecting them, guess what --- you can't. (If you click on the issue link, it'll redirect you to it, dropping this view.) If Kanban view has ability to preview issues in a modal, why this one doesn't have it? 🤔
+
+After having selected 3 of those 4 issues, clicking 4 times on a "Next" button (and waiting for a full page render between each of those clicks), finally I was given this final view:
+
+![](https://miro.medium.com/v2/resize:fit:1372/1*MVfcVK_J3_mFBGhOXjhQSw.png)
+
+Operation complete. Congratulations! (They could have put some fireworks in here.)
+
+### 6. Browsing issues only from a given release
+
+Having my issues split amongst two separate releases, now I could focus only on the issues from the 1.0 release... At least that's what I hoped for. I went back into the Kanban view.
+
+![](https://miro.medium.com/v2/resize:fit:1400/1*rblIqaR5RwwaTcBK98wWaA.png)
+
+First question on my mind: How can I filter issues to see only the ones from 1.0 release?
+
+*... looking for the filter button ...*
+
+1. If I had clicked the "Release" button in the top-right corner, that would have only shown me a dropdown that allows to add/move "Done" issues into an existing release.\
+    (P.S. It's not easy to tell it from the UI what exactly it does. You have to learn it by yourself by making a release and observing what it exactly does, or by learning the docs. The modal doesn't clearly explain its' function.)
+
+![](https://miro.medium.com/v2/resize:fit:1190/1*siSE4-UNyGkOgwlepQMT_w.png)
+
+2. If I had clicked the "three-dots" button in the top right corner, I wouldn't have seen there any filters neither. Instead, I would spot two other links, that maybe could help me: "Board settings" and "Create board".
+
+*... Board Settings? What's that? Let's try that.*
+
+![](https://miro.medium.com/v2/resize:fit:2000/1*_5zVt94IzCqE-qr3ZJ_zSg.png)
+
+"Board Settings" view
+
+It seemed like it could be something that I was looking for. *Maybe the Kanban board is programmed in such a way that it always shows all the Board issues, and if you want to filter them, you have to edit the board or create a new one? (*I had to have such complex thoughts in my head just to filter the issues on the issues view.)
+
+*... but that'd be super weird*. How many applications do you know in which you have to "create" a view, in order to filter it? *(If you want to filter emails on Gmail, do you have to create a new Gmail board? Nope.)*
+
+Nevertheless, I decided to create a new board specifically for the 1.0 release. After clicking "Create board" button, Jira greeted me with the following modal:
+
+![](https://miro.medium.com/v2/resize:fit:1400/1*jVjK8TV0MU8jBHjW8idCLg.png)
+
+Scrum or Kanban? That is the question.
+
+*What if I like to work in Sprints but I also like to use a Kanban view? Does it really exclude itself? :(* After a deep thought, I decided I usually prefer to be flexible with sprints and deadlines. I went with Kanban.
+
+![](https://miro.medium.com/v2/resize:fit:1400/1*1jmWtzwlk5tscgvpzGF1Sw.png)
+
+What Board would you like to create, sir?
+
+At first thought, I wanted to pick "Board from an existing Saved Filter", as I wanted to show issues from my project that are a bit filtered. However, *what is that "Saved Filter" thing? Sounds a bit too complex as for a simple filter. *So I picked "from an existing project" (because indeed I wanted to create a board for an existing project).
+
+![](https://miro.medium.com/v2/resize:fit:1400/1*VWHG1fB03VKWlzycYCQBow.png)
+
+Last step of creating the board
+
+![](https://miro.medium.com/v2/resize:fit:1400/1*fEtRzhtz9uAqvayPbrZdOQ.png)
+
+Board created. Looks the same as my initial one.
+
+*Oh damn, I had created the same board as I had before.* 😞
+
+They didn't predict that I want to show issues from an existing project AND filter them at the same time. *(Who's at fault in here? Me or Jira UI designers?)*
+
+*Let's go back into the Board settings. Maybe I can set the filters for this board since I have it created already.*
+
+![](https://miro.medium.com/v2/resize:fit:844/1*QMKAUB_v7qka3k3spUbFEw.png)
+
+Board Settings -> General -> "Filter" section
+
+*Not sure if I understand all of it, but maybe it's the "Filter Query" thing? Let's edit it.*
+
+I got redirected to already familiar advanced search view:
+
+![](https://miro.medium.com/v2/resize:fit:1400/1*M_WZpv3Z6xnZc8arqCz9YQ.png)
+
+"Filter for 1.0" Advanced search view
+
+Being familiar with the filters already, I quickly managed to add a "Fix Version" filter.
+
+![](https://miro.medium.com/v2/resize:fit:1400/1*xsbiBmFqG9xmk1eGScJYzg.png)
+
+Filtering issues to the ones that belong to 1.0 Fix Version
+
+Just after that, a "Save" button appeared next to the filters title. I clicked on it and surprisingly, Jira redirected me back to where I was before editing the project... Oh no, wait, it didn't. 😐
+
+![](https://miro.medium.com/v2/resize:fit:1400/1*2efQK8idPJH57ld7PqoaJA.png)
+
+Instead it just showed a flash message that the filter has been saved. *(Has it been set as the filter of the board though?* 🤔*)*
+
+To go back to where I was (Kanban view for the 1.0 board) and to confirm if the thing I wanted to do was actually done, I had to:
+
+1. Click on the "Back to main menu" link in the blue sidebar on the left.
+
+![](https://miro.medium.com/v2/resize:fit:646/1*Xm1GAl2QUIjv__lk2AarCg.png)
+
+2. Click "Projects" to see this (after another full page reload!):
+
+![](https://miro.medium.com/v2/resize:fit:2000/1*UlqI99QMFS2H74JM7ZhkcQ.png)
+
+Do I want to show a project or a dashboard or Issues? Kanban board is all of that, lol. How do I get back? Can somebody help me?!
+
+3. ... Click "Indri Landing".
+
+![](https://miro.medium.com/v2/resize:fit:1400/1*y_5UkDIzH5Uc_JjcfSoxpg.png)
+
+After another full-page reload, finally I managed to see what I originally wanted --- a Kanban board that is filtered down only to the issues from a given release. I feel so proud that I managed to do it. 😁
+
+### 7. Creating an issue in a filtered board
+
+Now that I have a board focused only on 1.0 release, let's get to work --- move some subtasks to "In progress" and start working on them.
+
+*... but where are my subtasks?!* 😮
+
+In a global project board I saw both tasks and their subtasks, but now I see only the main task.
+
+![](https://miro.medium.com/v2/resize:fit:1400/1*zWRfaeXcqyZjjzoUoc8Vng.png)
+
+*... Seems like the newly created board has different settings than my previous default board?*
+
+After looking into the Board Settings and googling for almost 5 minutes ([1](https://community.atlassian.com/t5/Jira-questions/How-to-show-the-subtasks-in-the-backlog-sprint-tree/qaq-p/412630), [2](https://community.atlassian.com/t5/Jira-questions/How-to-Display-Sub-Task-below-the-Parent-Task-in-the-Backlog/qaq-p/262062), [3](https://community.atlassian.com/t5/Jira-questions/Newly-created-Sub-tasks-not-showing-up-on-Kanban-board-since/qaq-p/70864), [4](https://community.atlassian.com/t5/Agile-questions/Why-do-some-sub-tasks-appear-on-kanban-board-and-others-don-t/qaq-p/734063)), it seemed like it's impossible. Nice, Jira! You ruined my Kanban board for me now completely.
+
+*... Having googled for another 5 minutes...* OK, got it. It seems like even though I moved the tasks to a given release, the subtasks that belonged to them, have stayed in "no release", and that's why they don't appear.
+
+So not only I had to move the tasks, but also their subtasks to the 1.0 release. (It's a pity that Jira didn't suggest me changing tasks' subtasks as well at that operation.) Let's do that:
+
+*Go to advanced search -> find the subtasks -> bulk operation -> edit all issues -> assign to fix version 1.0 -> yes I confirm -> waiting for the operation... -> ... -> yes I acknowledge -> go back to projects -> go back to Indri -> go back to 1.0 board*
+
+Yes! Now I got it:
+
+![](https://miro.medium.com/v2/resize:fit:1400/1*4_wZDn5Yd4UeHrcNyC_UMg.png)
+
+*(They should *[*pay me*](https://www.google.com/search?q=jira+administrator+jobs)* for doing this Jira work.)*
+
+### 8. Creating tasks in a filtered board
+
+While being on 1.0 board I realised that I need to a few more things for the 1.0 launch. So I decided to create a task:
+
+![](https://miro.medium.com/v2/resize:fit:1400/1*q1WFvsglBKkbFQcG-GeWfQ.gif)
+
+Creating the issue ended up with "Issue is not currently visible" alert. *WHY?!* *Mhm. Maybe there was that "Fix version" field that hasn't been prefilled (even though I'm on the version view), and that's why it isn't appearing?*
+
+*... going back to advanced search view ... finding the issue .. yeah, it doesn't have the Fix Version. (Even though I created it on a Fix Version-only board.)*
+
+Why doesn't Jira allow you to create issues specifically for the current board, and why it forces you to always prefill all the fields, no matter what your current issues view shows you? Don't ask me.
+
+### Other issues in short
+
+We could go on and on, but this post is already taking too long. I'll give you a few last examples of terrible UX, but this time in a shorter form. Those examples will be from my daily work.
+
+### 9. Creating an issue takes forever
+
+In our organization there are multiple projects and teams collaborating on one Jira workspace. Thus, whenever we create an issue, we are obligated to fill in:
+
+- Fix Version (version in which we plan to fix it)
+- Component (team that will fix it)
+- Epic (the "feature", in which this thing will be delivered)
+
+Unfortunately, Jira doesn't help us filling those fields at all:
+
+- it never remembers the last value, nor lets me define the default value, nor lets me define a "template" or anything, (so I could quickly create a task with just one click,)
+- some of the above fields that I'm required to fill in are actually hidden in the very far bottom of the "Create issue" modal. Although I can hide some of them, I can't change the order in which they appear.
+
+Outcome:
+
+- While Jira should be the centre for all of our project tasks, very often it isn't. Creating a task takes at least a good minute. Because I need to focus so much on filling all the mandatory fields properly, it requires me to [switch my context](https://personalmba.com/cognitive-switching-penalty/) every time I do it. Very often we end up avoiding Jira totally, just to "save our time", resulting in tasks and knowledge being lost in the vain of endless Slack chats, instead of the project management centre.
+- Issues often get lost in the vain. When somebody forgets to fill at least one of those fields, there's high chance that our board's filter query will not catch the issue, and nobody will ever see it.
+- People resort to using [alternative](https://marketplace.visualstudio.com/items?itemName=Atlassian.atlascode) Jira [clients](https://alternativeto.net/software/jira-client/), probably because the native one sucks so much. Even myself, I'm now using a [CLI client](https://github.com/go-jira/jira) to create and browse Jira issues. I had to spend a couple of hours to customize it, so it would fill all my needs. Luckily, now creating a task is just a matter of 2 ENTER clicks and typing the issue title, just as it should have been from the beginning. *(The tool is so terrible that I had to resort to configuring a CLI client. Can you believe it? For example, do you use CLI to chat on your Slack? Of course not. Somehow for Jira it sounds reasonable.)*
+
+### 10. Split into "New" and "old" issue view
+
+Some of the features that are accessible from the "Old issue view", are not accessible from the "New issue view", and vice-versa. They had released a "New issue view" that lacks important features from the old view. At the same time it introduced new features that can't be accessed by the customers still using the old view.
+
+For example:
+
+- you can't browse work time logs from the new issue view, but you can do that in the old issue view,
+- you can't edit issue's time estimate from the old issue view, but you can do that in the new issue view.
+
+Result: I have to constantly switch between the new and old issue view. (Of course, it is not that easy. If you want to switch, you have to go to your account settings and reload all your currently opened issue views.)
+
+### 11. Moving issue to a different status is cumbersome
+
+When I switch an Issue from one status to another, i.e. from "In Progress" to "Fixed", often I am obligated to fill in some additional fields, like "Resolve type". There are many different values, like "Done" "Blocked", "Skipped". You know what we click? In 99% cases, that's "Done". Is it selected as the default value? Of course not --- it always requires you to do that one additional click. (Mouse click --- because keyboard navigation often doesn't work.)
+
+### 12. Multiple views that illustrate the same thing, always differently
+
+Just look at that.
+
+![](https://miro.medium.com/v2/resize:fit:1400/1*bfteF7CZFfUDK_aUlv9Ojw.gif)
+
+7 different Issue listing views, each looking completely different, often with different UI of pagination and filters.
+
+Honestly, every time I open up a view in Jira, I have no idea in what way will it look like.
+
+### 13. Email Notifications spam
+
+Jira notifies you about any issue updates via email. This is excellent. However, when doing dashboard apps like Jira, you will quickly notice that the amount and frequency of these "X has been updated" emails is a bit too big. So you do a simple solution: send notifications in bulk. (Don't notify for~5 min or so, and then send all of them at once in one email.).
+
+Atlassian haven't though about it yet. (Or their system is too bloated to go through such a change.) Thus, you end up having hundreds of email notifications. (Unless you turn them off completely. Beware though, this might make your workmates angry, if they notice that you don't respond to their updates.)
+
+What is worse, if you use Jira integrations, it's very probable that they will cause Jira to send even more emails. For example, we use [Aha! integration](https://www.aha.io/product/integrations/jira). Whenever I create a Jira issue, Aha! integration links it with something on Aha!. Which causes an additional email: *"Aha! Integration changed issue XXX. Fields changes: Aha Integration Link from nothing to YYYY."*. Thanks mate, very good to know...
+
+### 14. Invisible In-app notifications
+
+Instead of email notifications, some people resort to in-app notifications.
+
+However, somebody made an idea that they are hidden somewhere in the bottom left corner of the screen. Thanks to this, I didn't know they exist until somebody had told me about it about three months after I started out with Jira.
+
+Even after that, I very rarely spot the "You've got new notifications" dot. The notifications icon is put in such a place on the screen that you really have to remind yourself about notifications in order to remember about them. (*Shouldn't it be the opposite though --- that notifications should be ones that remind?* 😉*)*
+
+![](https://miro.medium.com/v2/resize:fit:1400/1*gj1j7DMk__rTImg2JJOp4g.png)
+
+### 15. Performance!!!
+
+Biggest [PITA](https://www.collinsdictionary.com/dictionary/english/a-pain-in-the-arse) of Jira is its' performance. Almost every click results in a full page reload, which requires about ~10 seconds for it to be loaded. Which means, if you want to quickly show a list of issues, read about 4 of them, and edit one of them, you have to wait for full page reload about 7 times. Simple operation like "see what are my issues and start working on one of them" often takes at least a minute or two, and makes you lose your focus on your job completely.
+
+### 16. Confluence also sucks
+
+Confluence advertises itself as "Team Collaboration Software".
+
+![](https://miro.medium.com/v2/resize:fit:1400/1*Z32zv3zguHj2eG4YIFdSYA.png)
+
+Confluence landing page telling a beautiful story about it.
+
+TL;DR: it's a nested directory of documents that can be read and edited online.
+
+However, you know what you can do in Google Docs, Microsoft Word Online, Dropbox Paper, Hackpad, but you can't do in Confluence? Read and edit at the same time!
+
+If you want to edit, you have to go to a separate edit page (that requires a full page reload) and wait sometimes even up to 15 seconds for it to load.
+
+Theoretically, there is a possibility to collaborate on a document in a few people at the same time. In practice however, any changes you make while editing won't be seen in the "read mode" until you actually click "Save". And when you do that, I bet that first you will see a giant and confusing alert "Are you sure you want to publish changes made by XXX?". This is because if somebody had done some changes before you, but they haven't published them, you must commit them as well when publishing your own changes. (The notification appears even if somebody had done just accidental whitespace changes.)
+
+*Damn! But I want to push only my changes!* Sorry folk, you will not do that in Confluence.
+
+You know what's the biggest problem with keeping [good documentation culture](https://jtom.me/talks/keep-everything-documented-and-public.pdf) in your company? Having people being too lazy to create and update the docs, which makes them in result missing or outdated.
+
+It is easy to complain on people. It is also rarely productive. What is more productive is to have tools that help them doing their job well. A good documentation tool should make reading and editing the docs as easy and seamless as possible.
+
+Confluence fails at that.
+
+### Summary
+
+I could ramble and ramble on this UI, but I think we've both had enough of it.
+
+Have you known that there are companies who are hiring people specifically for ["JIRA Administrator" position](https://www.indeed.com/q-Jira-Administrator-jobs.html)? Having used it now so much, I don't feel surprised. This tool needs people of which only job is to handle the tool, so other people can do at least a part of their supposed real job, instead of having to play around with Jira.
+
+Why such tool like Jira is so popular even though it is so terrible?
+
+Why such a big and software-focused company like Atlassian neglects their main product so much? They risk a lot in such a way. If Jira is unusable and prevents doing the main thing it should do (manage the project), it's a matter of time until competition (like [Asana](https://asana.com/), [ClickUp](https://clickup.com/), or something else) will leverage that, build a tool that doesn't suck, and take over their customers.
+
+This is why I wrote this article.
+
+To tell you: Avoid Jira if you can.
+
+To tell Atlassian: Please, fix your product.
+
+P.S. Looking for a full-stack software engineer to help with your project? If so, check out my [portfolio](https://jtom.me/) and [contact me](https://jtom.me/contact). With over 15 years of experience under my belt, and a constant drive towards finding the best available tech on the market, you'll probably be surprised with what I can offer.
+
+## reverse interview questions library theory
+
+反向面试
+
+https://github.com/yifeikong/reverse-interview-zh
+
+这个中文仓库收集反向面试的问题，一共50多个，你可以用来问面试官。（@ifrontend-xyz 投稿)
+
+(the original)
+
+### 反向面试
+
+> 大部分翻译自：https://github.com/viraptor/reverse-interview ，亦有其他网友补充。
+
+> 译者总结的一份适合突击记忆的简洁版 LeetCode 题解和面试问题，也欢迎 Star。<https://github.com/yifeikong/interview>
+
+下面列表里的问题对于参加技术面试的人来说可能有些用。 列表里的问题并不一定适用于某个特定的职位或者工作类型，也没有排序 最开始的时候这只是我自己的问题列表，但是慢慢地添加了一些我觉得可能让我对这家公司亮红牌的问题。 我也注意到被我面试的人提问我的问题太少了，感觉他们挺浪费机会的。
+
+如果你问过的问题没有被列出来，请提交一个 PR。
+
+翻译：
+
+[English](https://github.com/viraptor/reverse-interview) [Korean](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/Reverse_Interview/README.md) [Portuguese](https://github.com/viraptor/reverse-interview/blob/master/translations/PORTUGUESE.md) [繁體中文](https://github.com/NeroCube/reverse-interview-zh-tw/blob/master/README.md)
+
+### 预期使用方式
+
+- 检查一下哪些问题你感兴趣
+- 检查一下哪些是你可以自己在网上找到答案的
+- 找不到的话就向面试官提问
+
+绝对不要想把这个列表里的每个问题都问一遍。(尊重面试官的时间，而且你可以通过查找已经发布的答案来显示 你的主动性)
+
+请记住事情总是灵活的，组织的结构调整也会经常发生。拥有一个 bug 追踪系统并不会保证高效处理 bug。 CI/CD (持续集成系统) 也不一定保证交付时间会很短。
+
+### 职责
+
+- On-call (电话值班)的计划或者规定是什么？值班或者遇到问题加班时候有加班费吗？
+- 我的日常工作是什么？
+- 有给我设定的特定目标吗？
+- 团队里面初级和高级工程师的比例是多少？(有计划改变吗)
+- 入职培训 (onboarding) 会是什么样的？
+- 每个开发者有多大的自由来做出决定？
+- 在你看来，这个工作做到什么程度算成功？
+- 你期望我在最初的一个月 / 三个月能够完成什么？
+- 试用期结束的时候，你会怎么样衡量我的绩效？
+- 自己单独的开发活动和按部就班工作的比例大概是怎样的？
+- 一个典型的一天或者一周的工作是怎样安排的？
+- 对我的申请你有什么疑虑么？
+- 在这份工作上，我将会和谁紧密合作？
+- 我的直接上级他们的上级都是什么样的管理风格？(事无巨细还是着眼宏观)
+- 我在这个岗位上应该如何发展？会有哪些机会？
+- 每天预期 / 核心工作时间是多少小时？
+- 我入职的岗位是新增还是接替之前离职的同事？(是否有技术债需要还)？(zh)
+- 入职之后在哪个项目组，项目是新成立还是已有的？(zh)
+
+### 技术
+
+- 公司常用的技术栈是什么？
+- 你们怎么使用源码控制系统？
+- 你们怎么测试代码？
+- 你们怎么追踪 bug?
+- 你们怎样监控项目？
+- 你们怎么集成和部署代码改动？是使用持续集成和持续部署吗 (CI/CD)？
+- 你们的基础设施搭建在版本管理系统里吗？或者是代码化的吗？
+- 从计划到完成一项任务的工作流是什么样的？
+- 你们如何准备故障恢复？
+- 有标准的开发环境吗？是强制的吗？
+- 你们需要花费多长时间来给产品搭建一个本地测试环境？(分钟 / 小时 / 天)
+- 你们需要花费多长时间来响应代码或者依赖中的安全问题？
+- 所有的开发者都可以使用他们电脑的本地管理员权限吗？
+- 介绍一下你们的技术原则或者展望。
+- 你们的代码有开发文档吗？有没有单独的供消费者阅读的文档？
+- 你们有更高层次的文档吗？比如说 ER 图，数据库范式
+- 你们使用静态代码分析吗？
+- 你们如何管理内部和外部的数字资产？
+- 你们如何管理依赖？
+- 公司是否有技术分享交流活动？有的话，多久一次呢？(zh)
+- 你们的数据库是怎么进行版本控制的？(zh)
+- 业务需求有没有文档记录？是如何记录的？(zh)
+- 你们是如何面对和解决技术债的？是否有专门的时间或者预算用于重构？
+- 你们如何进行单元测试呢，是否都有单元测试的习惯?
+
+### 团队
+
+- 工作是怎么组织的？
+- 团队内 / 团队间的交流通常是怎样的？
+- 你们使用什么工具来做项目组织？你的实际体会是什么？
+- 如果遇到不同的意见怎样处理？
+- 谁来设定优先级 / 计划？
+- 如果团队没能赶上预期发布日期怎么办？
+- 每周都会开什么类型的会议？
+- 会有定期的和上级的一对一谈话吗？
+- 产品 / 服务的规划是什么样的？(n 周一发布 / 持续部署 / 多个发布流 / ...)
+- 生产环境发生事故了怎么办？是否有不批评人而分析问题的文化？
+- 有没有一些团队正在经历还尚待解决的挑战？
+- 你们如何跟踪进度？
+- 预期和目标是如何设定的？谁来设定？
+- Code Review 如何实施？
+- 给我介绍下团队里一个典型的 sprint
+- 你们如何平衡技术和商业目标？
+- 你们如何共享知识？
+- 团队有多大？
+- 公司技术团队的架构和人员组成？(zh)
+- 团队内开发、产品、运营哪一方是需求的主要提出方？哪一方更强势？(zh)
+
+### 问未来的同事
+
+- 开发者倾向于从哪里学习？
+- 你对在这里工作最满意的地方是？
+- 最不满意的呢？
+- 如果可以的话，你想改变哪里？
+- 团队最老的成员在这里多久了？
+- 在小团队中，有没有出现成员性格互相冲突的情况？最后是如何解决的？
+
+### 公司
+
+- 公司为什么在招人？(产品发展 / 新产品 / 波动...)
+- 有没有会议 / 旅行预算？使用的规定是什么？
+- 晋升流程是怎样的？要求 / 预期是怎样沟通的？
+- 绩效评估流程是怎样的？
+- 技术和管理两条职业路径是分开的吗？
+- 对于多元化招聘的现状或者观点是什么？
+- 有公司级别的学习资源吗？比如电子书订阅或者在线课程？
+- 有获取证书的预算吗？
+- 公司的成熟度如何？(早期寻找方向 / 有内容的工作 / 维护中 / ...)
+- 我可以为开源项目做贡献吗？是否需要审批？
+- 你认为公司未来五年或者十年会发展成什么样子？
+- 公司的大多数员工是如何看待整洁代码的？
+- 你上次注意到有人成长是什么时候？他们在哪方面成长了？
+- 在这里成功的定义是什么？如何衡量成功？
+- 有体育活动或者团建么？
+- 有内部的黑客马拉松活动吗？
+- 公司支持开源项目吗？
+- 有竞业限制或者保密协议需要签吗？
+- 你们认为公司文化中的空白是什么？
+- 能够跟我说一公司处于不良情况，以及如何处理的故事吗？
+- 您在这工作了多久了？您觉得体验如何？(zh)
+- 大家为什么会喜欢这里？(zh)
+- 公司的调薪制度是如何的？(zh)
+- 公司有没有申请调岗的制度？
+- 公司对于员工的心理健康和福祉有什么具体措施？
+- 你对在这里工作最满意的地方是？你为什么留在这家公司？
+
+### 社会问题
+
+- 你们关于多元化招聘什么看法？
+- 你们的公司文化如何？你认为有什么空白么？
+- 这里的工作生活平衡地怎么样？
+- 公司对气候变化有什么态度吗？
+
+### 冲突
+
+- 不同的意见如何处理？
+- 如果被退回了会怎样？("这个在预计的时间内做不完")
+- 当团队有压力并且在超负荷工作的时候怎么处理？
+- 如果有人注意到了在流程或者技术等其他方面又改进的地方，怎么办？
+- 当管理层的预期和工程师的绩效之间有差距的时候如何处理？
+- 能给我讲一个公司深处有毒环境以及如何处理的故事吗？
+- 如果在公司内你的同事因涉嫌性侵犯他人而被调查，请问你会如何处理？
+- 假设我自己很不幸是在公司内被性侵的受害者，在公司内部有没有争取合法权益的渠道？
+
+### 商业
+
+- 你们现在盈利吗？
+- 如果没有的话，还需要多久？
+- 如果有的话，年度营业额是大概有多少？(我现在的公司年度营业额是 5 亿)
+- 公司的资金来源是什么？谁影响或者制定高层计划或方向？
+- 你们如何挣钱？
+- 什么阻止了你们挣更多的钱？
+- 公司未来一年的增长计划怎样？五年呢？
+- 你们认为什么是你们的竞争优势？
+- 你们的竞争优势是什么？
+- 公司未来的商业规划是怎样的？有上市的计划吗？(zh)
+- 都在做副业吗？
+
+### 远程工作
+
+- 远程工作和办公室工作的比例是多少？
+- 公司提供硬件吗？更新计划如何？
+- 使用自己的硬件办公可以吗？现在有政策吗？
+- 额外的附件和家具可以通过公司购买吗？这方面是否有预算？
+- 有共享办公或者上网的预算吗？
+- 多久需要去一次办公室？
+- 公司的会议室是否一直是视频会议就绪的？
+
+### 办公室布局
+
+- 办公室的布局如何？(开放的 / 小隔间 / 独立办公室)
+- 有没有支持 / 市场 / 或者其他需要大量打电话的团队在我的团队旁边办公？
+
+### 终极问题
+
+- 该职位为何会空缺？
+- 公司如何保证人才不流失？
+- 这份工作 / 团队 / 公司最好和最坏的方面是？
+- 你最开始为什么选择了这家公司？
+- 你为什么留在这家公司？
+
+### 待遇
+
+- 如果有奖金计划的话，奖金如何分配？
+- 如果有奖金计划的话，过去的几年里通常会发百分之多少的奖金？
+- 有五险一金(zh)/401k(us)或者其他退休养老金等福利吗？
+- 五险一金中，补充公积金一般交多少比例？/401k一般交多少比例？我可以自己选择这一比例吗？
+- 有什么医疗保险吗？如果有的话何时开始？
+- 有额外商业保险吗？例如人寿保险和额外的养老/医疗保险？
+- 商业保险可以给家人办理吗？成年人/未成年人？
+- 更换工作地点，公司付费吗？
+- 是否可以申请更换工作地点？
+- 是否愿意协助海外应聘者申请工作签证？
+
+### 休假
+
+- 带薪休假时间有多久？
+- 病假和事假是分开的还是一起算？
+- 我可以提前使用假期时间吗？也就是说应休假期是负的？
+- 假期的更新策略是什么样的？也就是说未休的假期能否滚入下一周期
+- 照顾小孩的政策如何？
+- 无薪休假政策是什么样的？
+- 学术性休假政策是怎么样的？
+- 孕产假政策具体是怎样的？
+
+### 福利
+
+- 公司提供 mac 开发吗？
+- 使用自带电脑有补贴吗？
+- 公积金多少比例缴纳？
+- 公司是否有食堂，是否有餐饮福利补贴？
+- 是否提供租房补贴？
+- 是否提供话费补贴？
+- 是否有交通补贴？
+
+### 人才培养
+
+- 升职加薪条件是否量化?
+- 每年给团队安排多少费用用于学习培训?
+- 每年组织多少次关于技术能力提升的讲座/论坛？
+
+### 其他资源
+
+Find more inspiration for questions in:
+
+- [The Joel Test: 12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/) by Joel Spolsky
+- [Questions I'm asking in interviews](https://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/) by Julia Evans
+
+## web app in phone apps style quote
+
+错误响应代码
+
+https://twitter.com/webperftips/status/405760114499395584
+
+```
+window.onerror = window.close;
+```
+
+上面这行代码，可以让网页应用有手机 App 的体验。
+
+## internet startup companies 40% theory
+
+40% 规则
+
+https://avc.com/2015/02/the-40-rule/
+
+互联网创业公司有一条40％规则：
+
+年收入增长率 + 营业利润率 应该等于40％。
+
+如果你的年增长率达到100％，那么可以承受60％的亏损。
+
+如果年增长率为40％，你应该收支平衡。
+
+如果增长率为20％，你应该有20％的营业利润率。
+
+如果没有增长，你应该有40％的营业利润率。
+
+如果业务下降10％，你应该有50％的营业利润率。
+
+我从来没有见过一个如此简单的规则。我总是觉得如果你快速增长，就可以接受赔钱。随着增长放缓，你必须赚钱并增加利润。现在有这样一个简单的公式，我非常喜欢。
+
+## wealth growth style for the rich is not for the poor quote
+
+如果你已经富裕，2％的收入增长速度就很不错了，可以让你保持并变得更加富裕。
+
+但是，对于几乎没有收入的人来说，2％的收入增长速度，基本上就代表他们将永远贫穷。
+
+-- HN 读者评论中国经济增长速度降到6%
+
+https://news.ycombinator.com/item?id=20997415
+
 ## 
+
 
 

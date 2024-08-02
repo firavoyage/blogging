@@ -44,14 +44,15 @@
   - joker (2019)
   - soul (2020)
   - your name (2016)
+  - the shawshank redemption (1994)
   - .evangelion (1995)
   - .bang dream! it's mygo!!!!! (2023)
   - _bocchi the rock (2022)
   - _frieren: beyond journey's end (2023)
   - _oshi no ko (2023)
+  - _the godfather (1972)
   - _the good the bad and the ugly (1966)
 -
-  - angry birds (2009)
   - honkai star rail (2023)
   - honkai impact third (2016)
   - houkai gakuen second (2014)
@@ -62,22 +63,28 @@
   - brawl stars (2017)
   - clash royale (2016)
   - soul knight (2017)
+  - angry birds classic (2009)
+  - plants vs zombies 2 (2013)
+  - kingdom rush (2011)
+  - canabalt hd (2009)
+  - yosuga no sora (2008)
+  - senren banka (2016)
+  - the rainbow appears after flowering rain (2016)
+  - wonderful everyday (2010)
+  - bishoujo mangekyou (2011)
   - _fly me 2 the moon (2011)
   - _the legend of zelda (1998) (2017) (2023)
   - _sekiro: shadows die twice (2019)
   - _elden ring (2022)
   - _grand theft auto v (2013)
   - _the binding of isaac (2011)
-  - _senren banka (2016)
   - _geoguessr (2013)
 -
   - road ahead (ruanyf)
-  - survivor: a guide for the future (ruanyf)
   - hackers and painters (paulg)
   - refactoring ui (adam wathan & steve schoger)
   - javascript: the good parts (douglas crockford)
   - javascript: the definitive guide (david flanagan)
-  - javascript notes for professionals book (goalkicker)
   - twelve letters for the young (zhu guangqian)
   - the water level of concept (liu yu)
   - liu qing's lectures on modern western thought (liu qing)
@@ -137,11 +144,12 @@
   - fira sans
   - free sans
   - fz kaiti
+  - google product sans
   - han wang shin su
   - han wang yan kai
+  - lato
   - noto sans cjk sc
   - noto serif cjk sc
-  - product sans
   - resource han rounded cn
   - roboto
   - rounded mplus
@@ -303,7 +311,8 @@
   - `/config` `chromium bookmarks` source of all
   - `/shortcut` terminal shortcuts
 - notes
-  - `/notes` `plain language` simple english guide
+  - `/notes` `plain` plain english guide
+  - `/notes` `competitive` competitive programming guide
   - `/notes` `(...)` stack overflow documentation
 
 ## repos

@@ -12,8 +12,10 @@
 - read "math challenger" & design pure math (-> /pure.dailyab)
 - read "javascript tut" & design intuitive (-> /intuitive.voyage.fresh)
 > summer vacation night
-- classify web (tech society retro learning...)
-- redesign fav
+- add details to projects (inspired by)
+- classify web (tags)
+- classify memories (comments & discoveries | tags)
+- redesign fav (trim and move)
 - play rpgs (hg sr)
 - watch simplelive
 - watch bangumis ("yosuga no sora" "mygo")
