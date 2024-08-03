@@ -3,7 +3,7 @@
 ## write
 
 ### `para` 
-> the pure reader
+> the reader
 - spilt content and style
 - present freely without any distraction
   - say goodbye to word while teaching,conferencing...
@@ -14,8 +14,7 @@
 - markdown extended
   - various content blocks
   - collapse and show more
-  - line break styles by para compiler
-  - mdlint included.(use `#` or `=====`,no h4 h5 h6)
+  - config by para compiler
 - themes to choose
   - by voyage
 - local based
@@ -58,25 +57,31 @@
 
 ## create
 
-### `workshop` 
-> origin of posters and memes
-- create
-  - easy to use
-  - like keynote but for cover/poster/banner making
-- share card
+### `material`
+> workshop of posters
+- create posters
+  - full featured like photoshop
+  - easy to use like keynote
+- share cards
   - youtube vid
   - berryberry vid
   - berryberry uploader profile
   - github repo
   - medium/wordpress article ...
-  - everything local
+- share lists
+  - books
+  - movies
+  - quotes
 - automation
-  - all images are templates
-  - save editable files
+  - everything is template
+  - files are json
 - svg editor
   - full featured
 - local based
-  - files in json without online resources
+  - in app update
+  - by pwa
+- various themes
+  - by voyage
 - inspired by
   - canva
   - pixelixe
@@ -187,6 +192,12 @@
 - local based
   - get rid of the fickleness of the cencership
   - import and export the fav list
+- sync everywhere
+  - github
+  - notion
+  - obsidian
+  - yuque
+  - ...
 
 ### `shelf`
 > the elegance of a bookshelf
@@ -233,40 +244,47 @@ indie games,bangumis,visual novels,fonts,... not included as their databases are
 ### `pure` 
 > my desired math courses | difficulities in great simplicity
 > -> /pure
-  - simplicity
-most online courses are overstuffed
-secondary school students are secondary school students,not pupils
-vivid as they are,there's no need for these time-wasting examples and explanations
-so here's the simplified approach,including definitions,expressions,calculations and solutions
-  - difficulty
-no challenge,no thoughts
-hearing without listening,watching without understanding
-that's the problem present
-and the major cause is...
-low difficulty
-imagine when getting a problem,you see the answer at a glance
-where does the patience come from,to watching the teacher repeating all those steps
-our problems are selected from "math challenger" "math leader" "math helper" and exams
-  - unique
-unlike ordinary school courses
-we pick internet memes and ancient vernacular while teaching
-more detailed,these quotes are from "nsfw idioms" "moegirlpedia"
-and the literary chinese includes omitting subject words,leaving stuff behind and paired phrases
-we also play bach classics,english golden ballads and vocaloid songs in breaks
-to attract teens,we invite life-size waifus into classroom
-  - rest
-dailyab...
-everyday 2 problems on an a4 page
-hs in 40min...
-cheetsheet for each unit including its usage and its magic
-  - distraction free
-by pre and mind
-  - various themes
-by voyage
-  - inspired by
-one math channel
-furina math channel
-elon musk avatar and voice
+- simplicity
+  - most online courses are overstuffed
+  - secondary school students are secondary school students,not pupils
+  - vivid as they are,there's no need for these time-wasting examples and explanations
+  - so here's the simplified approach,including definitions,expressions,calculations and solutions
+- difficulty
+  - no challenge,no thoughts
+  - hearing without listening,watching without understanding
+  - that's the problem present
+  - and the major cause is...
+  - low difficulty
+  - imagine when getting a problem,you see the answer at a glance
+  - where does the patience come from,to watching the teacher repeating all those steps
+  - our problems are selected from "math challenger" "math leader" "math helper" and exams
+- unworldly
+  - omit all subject words and verbal parallelism
+  - internet memes but vocal off like easter eggs (ref mihoyo)
+  - source from nsfw idioms & moegirl pedia
+  - bach classics & english vintage ballads & vocaloids everywhere
+  - invite life-size waifus but no hentai (some serious characters like herta or fuxuan)
+- print course
+  - stay away from the hustle and bustle of internet
+  - every course is printable
+  - same experience from watching to reading
+- dailyab
+  - everyday 2 problems on an a4 page
+- 40min hs math
+  - cheetsheet for each unit
+  - difficult problem solutions | animation
+  - vocal off and bach classic
+- build with elegance | distraction free
+  - by pre and mind
+- various themes
+  - by voyage
+- inspired by
+  - one math channel
+  - zju su dekuang
+  - math bu channel
+  - xiaogu math channel
+  - furina math channel
+  - math graduate (math people) channel
 
 - `leisure` 
 > retro vocabulary memorization style
@@ -296,6 +314,7 @@ elon musk avatar and voice
   - js grammar and built-in methods
   - threejs methods
 - interesting demos
+  - source codepen
   - and useful progressive web apps
 - intuitive game engine
   - angry birds
@@ -306,6 +325,8 @@ elon musk avatar and voice
   - cr local:ideas ignored by supercell,human-like opponents
 - various themes
   - by voyage
+- inspired by
+  - wes bos
 
 ### `firascript` 
 > simplicity of a script

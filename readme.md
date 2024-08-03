@@ -1,7 +1,7 @@
 # firavoyage 
 
 ## self
-- an entrepreneur, developer
+- an entrepreneur, developer, otaku
 - grew up in shanghai
 - on the internet since 2022, which is my actual "home town"
 - live in rest of the world
@@ -13,12 +13,14 @@
 -
   - johann sebastian bach
   - lipton black tea
+  - mixue bubble tea
+  - cocacola
   - lays crisps original
   - burgerking french fries
   - ruby chocolate popsicle
   - tea egg
   - life-size pillow
-  - potted landscape
+  - potted plant
   - camphor wood
   - pure math
   - intuitive web app
@@ -51,6 +53,7 @@
   - _frieren: beyond journey's end (2023)
   - _oshi no ko (2023)
   - _the godfather (1972)
+  - _wall-e (2008)
   - _the good the bad and the ugly (1966)
 -
   - honkai star rail (2023)
@@ -156,17 +159,6 @@
   - ubuntu sans
   - zhi mang xing
 -
-  - google design
-  - wikipedia
-  - the pirate bay
-  - ruanyifeng blog
-  - plaintxt
-  - iphone os 4
-  - ubuntu yaru
-  - dracula theme
-  - one dark pro darker
-  - monokai classic
--
   - ubuntu 24
   - android 11
   - chromium 124
@@ -175,6 +167,18 @@
   - git 2.43
   - fcitx 5.1.7
   - wine 9.0
+-
+  - wikipedia
+  - the pirate bay
+  - material design
+  - ruanyf blog
+  - paulg blog
+  - james sinclair blog
+  - iphone os 4
+  - ubuntu yaru
+  - dracula theme
+  - one dark pro darker
+  - monokai classic
 -
   - fcitx android
   - gnome amberol
@@ -251,7 +255,7 @@
   - do have faith in what you are doing
   - live in the future and build what's missing
   - life is a long-plank game
-  - art is in the eye of the beholder
+  - your overthinking is my opportunity
 - tell me, and i will forget.
   - show me, and i may remember.
   - involve me, and i will understand.

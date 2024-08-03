@@ -217,6 +217,7 @@ chrome://flags/#chrome-webui-refresh-2023
     - pop-up translations `immediately popup`
   - tampermonkey `https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo`
     - zhihu enhancement `https://greasyfork.org/en/scripts/419081`
+    - zhihu dark mode `https://greasyfork.org/en/scripts/408224`
     - allow in incognito
   - bewlybewly `https://chromewebstore.google.com/detail/bewlybewly/bbbiejemhfihiooipfcjmjmbfdmobobp`
   - justblack `https://chromewebstore.google.com/detail/just-black/aghfnjkcakhmadgdomlmlhhaocbkloab`
