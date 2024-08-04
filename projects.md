@@ -130,7 +130,13 @@
 - watch replays like watching live
 
 ### `berryberry`
-> just another video app and redesigned
+> rethink your bilibili
+- tag based
+  - like youtube second nav
+  - mihoyo doujin
+  - mihoyo update
+  - tech news
+  - novel apps
 - stat nums to rate
 - progressive loading
 - distraction free
@@ -155,8 +161,8 @@
   - songs downloaded local
   - preference stored local
 - not afraid of takedown
-  - like a browser or magnet downloader
-  - no commercial sources included
+  - like a browser or a magnet downloader
+  - no source included
 - various themes
   - by voyage
 
@@ -245,19 +251,13 @@ indie games,bangumis,visual novels,fonts,... not included as their databases are
 > my desired math courses | difficulities in great simplicity
 > -> /pure
 - simplicity
-  - most online courses are overstuffed
-  - secondary school students are secondary school students,not pupils
-  - vivid as they are,there's no need for these time-wasting examples and explanations
-  - so here's the simplified approach,including definitions,expressions,calculations and solutions
+  - no word can be removed like in an abstracted syntax tree
+  - vivid examples and explanations are collapsed by default (vocal off | quick animation)
+  - strict lint for definitions, calculations, solutions, etc.
 - difficulty
-  - no challenge,no thoughts
-  - hearing without listening,watching without understanding
-  - that's the problem present
-  - and the major cause is...
-  - low difficulty
-  - imagine when getting a problem,you see the answer at a glance
-  - where does the patience come from,to watching the teacher repeating all those steps
-  - our problems are selected from "math challenger" "math leader" "math helper" and exams
+  - from lowest to highest
+  - not including competition problems
+  - source "math challenger" "math leader" "math helper" and top highschool exams
 - unworldly
   - omit all subject words and verbal parallelism
   - internet memes but vocal off like easter eggs (ref mihoyo)
@@ -276,15 +276,18 @@ indie games,bangumis,visual novels,fonts,... not included as their databases are
   - vocal off and bach classic
 - build with elegance | distraction free
   - by pre and mind
+- commercialize
+  - members can receive homework answers
 - various themes
   - by voyage
 - inspired by
-  - one math channel
-  - zju su dekuang
-  - math bu channel
-  - xiaogu math channel
-  - furina math channel
-  - math graduate (math people) channel
+  - one math channel (-> one_math.md https://www.bilibili.com/video/BV147411K7xu/)
+  - zju su dekuang (-> https://www.bilibili.com/video/BV1GB4y1v7sL/)
+  - zhao lixian channel (-> https://www.bilibili.com/video/BV1X14y1d7pu/)
+  - math bu channel (-> https://www.bilibili.com/video/BV1KN411n7pp/ https://www.bilibili.com/video/BV1gt4y1h7dQ/)
+  - xiaogu math channel (-> https://space.bilibili.com/490447495)
+  - furina math channel (-> https://space.bilibili.com/1341745816)
+  - math graduate channel (-> https://space.bilibili.com/628523505)
 
 - `leisure` 
 > retro vocabulary memorization style
@@ -322,6 +325,7 @@ indie games,bangumis,visual novels,fonts,... not included as their databases are
   - genshin dungeon:soul knight but gi monsters
   - unique card gambers:know the enemy and know yourself
   - platfighter:pass or death
+  - bs local:ideas ignored by supercell,strong teammates
   - cr local:ideas ignored by supercell,human-like opponents
 - various themes
   - by voyage
@@ -437,6 +441,8 @@ for(i arr j brr){A} //for(let __fs_i=0,i=arr[__fs_i],j=brr[__fs_i];__fs_i<arr.le
 > web framework can be heavy and not heavy
 - feature
   - write html as javascript object
+  - functional programming
+  - route method separated in another script
 - voyage element
   - elements are instance of Object, not Node 
   - dataKeys in d are binded,if one of them changes,call f
@@ -445,8 +451,8 @@ e={
   t "div" //tag
   a {id "app" style {color "gold" z-index "666"}} //attributes
   c [{t "button"} {t "input"}] //children
-  f ["fn.show"] //functions
-  d ["button_1"] //keys
+  f ["show"] //function keys
+  d ["button_1"] //data keys
 } 
 ```
 - voyage component

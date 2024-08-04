@@ -8,7 +8,6 @@
 > -> mistral large
 > write about my passing youth around 600 words
 
-```
 As I sit here, nestled in the quiet corner of my room, I find myself reflecting on the fleeting essence of my youth. The memories, like the pages of an old, worn-out book, are filled with vibrant colors that have now begun to fade. As I flip through them, I am transported back to a time when life was a grand adventure, brimming with endless possibilities and untainted by the harsh realities of the world.
 
 My youth was a symphony of laughter, dreams, and boundless energy. It was a time when every sunrise brought with it a new promise, and every sunset painted the sky with hues of hope. I was a free spirit, untethered by the chains of responsibilities and societal norms. I danced in the rain, chased butterflies in the meadows, and built castles in the clouds. Life was a canvas, and I was an artist, eager to paint it with the colors of my dreams.
@@ -24,11 +23,9 @@ As I stand on the precipice of adulthood, I look back at my youth with a sense o
 My youth may have passed, but it has left behind a trail of memories, of experiences, of lessons that I will carry with me. It has left behind a part of me that will forever remain young, forever remain curious, forever remain hopeful. As I step into the future, I carry with me the essence of my youth, the spirit of adventure, the thirst for knowledge, the courage to dream.
 
 In the end, my youth was not just a period of my life, but a collection of moments, of experiences, of emotions. It was a journey of self-discovery, of growth, of transformation. It was a time when I was not just living, but truly alive. And as I bid farewell to my youth, I do not mourn its passing, but celebrate its existence. For it was in my youth that I truly learned what it means to live, to love, to dream, and to be.
-```
 
 > -> mistral instruct 7b q4
 
-```
 Title: Reflections on the Passing Youth: A Nostalgic Journey Through the Golden Years of Life
 
 The passage of time is an inescapable reality. Each moment slips away, leaving us with memories and experiences that shape our lives. As we reach the threshold of middle age, around the age of sixty, we often find ourselves reflecting on the fleeting nature of youth. In this essay, I would like to share some thoughts on the passing youth and the invaluable lessons it teaches us.
@@ -46,14 +43,12 @@ Another lesson that the passing youth imparts is the value of resilience. Youth 
 As we look back on our passing youth, it's natural to feel a sense of nostalgia and longing. We may wish that we could turn back the clock and relive those moments once more. But the truth is, each moment, no matter how small or seemingly insignificant, contributes to the rich tapestry of our lives. It's through the experiences of our youth that we grow and evolve into the person we are today.
 
 In conclusion, the passing youth is a bittersweet reminder of the fleeting nature of life. It's a time of boundless energy, endless possibilities, and unbridled curiosity. It's a time to seize the moment, develop resilience, and create memories that will enrich our lives for years to come. As we move into middle age, let us carry the lessons of our youth with us - a sense of wonder, a spirit of adventure, and a determination to make the most of every moment.
-```
 
 ## classic songs
 
 > -> gpt 3.5
 > 50 english classic songs with publication year
 
-```
 Here is a list of 50 classic English songs along with their publication years:
 
 1. "Bohemian Rhapsody" by Queen (1975)
@@ -106,12 +101,10 @@ Here is a list of 50 classic English songs along with their publication years:
 48. "The Times They Are a-Changin'" by Bob Dylan (1964)
 49. "Georgia on My Mind" by Ray Charles (1960)
 50. "Unchained Melody" by The Righteous Brothers (1965)
-```
 
 > -> mistral large
 > english golden songs with publication year
 
-```
 Here is a list of 50 English golden songs along with their publication year:
 
 1. "Bohemian Rhapsody" by Queen (1975)
@@ -164,12 +157,10 @@ Here is a list of 50 English golden songs along with their publication year:
 48. "Ain't No Mountain High Enough" by Marvin Gaye and Tammi Terrell (1967)
 49. "Papa's Got a Brand New Bag" by James Brown (1965)
 50. "I Got You (I Feel Good)" by James Brown (1965)
-```
 
 > -> mistral instruct 7b q4
 > 50 english classic songs with publication year
 
-```
 I've compiled a list of 50 classic English songs with their publication years or the years they were first recorded. This list is not exhaustive, but it includes some of the most iconic and influential songs in English music history.
 
 1. "God Save the Queen" (Traditional, 1741, with various arrangements since)
@@ -224,12 +215,10 @@ I've compiled a list of 50 classic English songs with their publication years or
 50. "Stairway to Heaven" (Led Zeppelin, 1971, but officially released in 1973)
 
 This list covers a wide range of genres and artists that have influenced English music history. Enjoy!
-```
 
 > -> openhermes neutral 7b q4
 > 50 english classic songs with publication year
 
-```
 Here is a list of 50 English classic songs with their publication year:
 
 1. "My Way" by Paul Anka (originally performed by Frank Sinatra in 1969) - 1969
@@ -282,14 +271,12 @@ Here is a list of 50 English classic songs with their publication year:
 48. "Smoke Gets in Your Eyes" by The Platters (from their album In the Still of the Night in 1956) - 1956
 49. "Unchained Melody" by The Righteous Brothers (from their album of the same name in 1965) - 1965
 50. "Sitting on Top of the World" by The Mississippi Sheiks (from their album of the same name in 1934) - 1934
-```
 
 ## ballad songs
 
 > -> gpt 3.5
 > 50 english ballad songs with publication year
 
-```
 1. "Yesterday" by The Beatles (1965)
 2. "Imagine" by John Lennon (1971)
 3. "Hotel California" by Eagles (1976)
@@ -340,12 +327,10 @@ Here is a list of 50 English classic songs with their publication year:
 48. "I Don't Want to Miss a Thing" by Aerosmith (1998)
 49. "Paint It Black" by The Rolling Stones (1966)
 50. "The Times They Are a-Changin'" by Bob Dylan (1964)
-```
 
 > -> gpt 4o
 > 50 english ballad songs with publication year
 
-```
 Here's a list of 50 English ballad songs along with their publication years:
 
 1. "Barbara Allen" - Traditional (17th century)
@@ -400,12 +385,10 @@ Here's a list of 50 English ballad songs along with their publication years:
 50. "The Maid of Culmore" - Traditional (19th century)
 
 These ballads span several centuries and reflect a rich tradition of English and Celtic folk music.
-```
 
 > -> claude
 > 50 english ballad songs with publication year
 
-```
 Here are 50 famous English ballad songs with their year of publication:
 
 Greensleeves - 1580
@@ -458,12 +441,10 @@ Lucy in the Sky with Diamonds - 1967
 Both Sides Now - 1968
 American Pie - 1971
 Free Bird - 1973
-```
 
 > -> mistral large
 > 50 english ballad songs with publication year
 
-```
 Here is a list of 50 English ballad songs along with their publication years. Please note that some of the older songs have unknown exact publication years, so I provided an approximate period.
 
 1. "Greensleeves" (Traditional, 16th century)
@@ -516,12 +497,10 @@ Here is a list of 50 English ballad songs along with their publication years. Pl
 48. "Love Me Like You Do" (2015) - Ellie Goulding
 49. "Thinking Out Loud" (2014) - Ed Sheeran
 50. "Photograph" (2014) - Ed Sheeran
-```
 
 > -> mistral instruct 7b q4
 > english ballad songs with publication year
 
-```
 Here are some English ballad songs with their approximate publication years:
 
 1. "Scarborough Fair" - The earliest known printed version of this song appears in Francis James Child's "The English and Scottish Popular Ballads," published between 1882 and 1898.
@@ -536,14 +515,12 @@ Here are some English ballad songs with their approximate publication years:
 10. "The Twa Corbies" - This ballad has its origins in the 16th or 17th century, but the first printed version was published in Francis James Child's "The English and Scottish Popular Ballads" between 1882 and 1898.
 
 It is important to note that the exact publication year of some ballads may not be known, and some of these ballads may have existed in oral tradition for centuries before being printed.
-```
 
 ## frontend
 
 > -> mistral large
 > how to learn web dev
 
-```
 Learning web development involves acquiring a variety of skills, including coding languages, design principles, and understanding how the web works. Here's a step-by-step guide to help you get started:
 
 1. Understand what web development is: Web development is the process of creating websites or web applications. It can be divided into two main parts: front-end (client-side) and back-end (server-side) development.
@@ -567,12 +544,10 @@ Learning web development involves acquiring a variety of skills, including codin
 10. Network and join the web development community: Connect with other developers, attend meetups, and join online forums to learn from others, share your knowledge, and stay up-to-date with the latest trends and technologies in web development.
 
 11. Keep learning and improving: Web development is a constantly evolving field, so it's essential to continue learning new skills and technologies. Set aside time for self-improvement and stay curious about new tools and techniques.
-```
 
 > -> mistral instruct 7b q4
 > how to learn web dev
 
-```
 Learning web development from scratch can be an exciting and rewarding experience. Here are some steps to help you get started:
 
 1. Choose a programming language: HTML, CSS, and JavaScript are the three essential technologies for building websites. You can start with HTML and CSS to build the structure and design of a website, and then learn JavaScript for interactivity and dynamic content.
@@ -582,14 +557,12 @@ Learning web development from scratch can be an exciting and rewarding experienc
 5. Stay up-to-date: Web development technologies are constantly evolving, so it's important to stay informed about the latest trends and best practices. Follow industry blogs, attend webinars, and participate in online communities to stay up-to-date.
 6. Build a portfolio: Create a portfolio of your projects to showcase your work to potential employers or clients. This will help you build credibility and establish yourself as a skilled web developer.
 7. Network: Connect with other developers in the community through online forums, social media, or local meetups. Building relationships with other developers can help you learn new skills and gain insights into the industry.
-```
 
 ## retro
 
 > -> mistral large
 > reasons of retro
 
-```
 "Retro" is a term used to describe things that are old-fashioned or reminiscent of the past. There are several reasons why people enjoy retro styles, designs, and products:
 
 1. Nostalgia: Retro items often evoke a sense of nostalgia, reminding people of simpler times or happy memories from their past. This can be comforting and enjoyable, providing a sense of familiarity and warmth.
@@ -611,14 +584,12 @@ Learning web development from scratch can be an exciting and rewarding experienc
 9. Collectibility: Retro items can be valuable collectibles, with some becoming more valuable over time as they become rarer and more sought-after.
 
 10. Fun and Enjoyment: Ultimately, many people simply enjoy the fun and enjoyment that comes from engaging with retro styles, whether it's through fashion, music, art, or other forms of expression.
-```
 
 ## cencership
 
 > -> mistral large
 > countries with network cencership
 
-```
 There are several countries known for implementing network censorship, restricting access to certain online content for various reasons. Some of these countries include:
 
 1. China: Known for its "Great Firewall," China has strict internet censorship laws, blocking access to numerous foreign websites and closely monitoring online activity.
@@ -640,13 +611,11 @@ There are several countries known for implementing network censorship, restricti
 9. Cuba: Internet access in Cuba is heavily restricted and controlled by the government. Access to certain websites and online services is limited, and online activity is closely monitored.
 
 10. Egypt: Egypt has a history of blocking access to websites and social media platforms, particularly during politically sensitive times or in response to specific events.
-```
 
 ## chinese
 
 > -> mistral large
 
-```
 translate 太空有空间站,太挤就没有空间站
 
 In English, the sentence "太空有空间站,太挤就没有空间站" translates to "Space has space stations, if it's too crowded, there are no space stations." However, the second part of the sentence might not make complete sense as space is vast and not typically considered "crowded." A more accurate translation might be "Space has space stations, but if an area is too congested, there might not be any space stations there."
@@ -678,14 +647,12 @@ In English, the sentence "你评论区都乱成一锅粥了还不快趁热喝了
 translate 人要是行,干一行行一行,一行行行行行,行行行干哪行都行
 
 In English, the sentence "人要是行,干一行行一行,一行行行行行,行行行干哪行都行" translates to "If a person is capable, they can do one thing after another, do many things, and be able to do anything they want." This sentence is a colloquial expression that emphasizes the importance of being capable and versatile. The phrase "人要是行" (rén yào shì xíng) means "if a person is capable," suggesting that having skills and abilities is important for success. The phrase "干一行行一行" (gàn yī xíng xíng yī xíng) means "to do one thing after another," suggesting that a capable person can handle many tasks and responsibilities. The phrase "一行行行行行" (yī xíng xíng xíng xíng xíng) means "to do many things," emphasizing the breadth of the person's abilities. The phrase "行行行干哪行都行" (xíng xíng xíng gàn nǎ xíng dōu xíng) means "to be able to do anything they want," suggesting that a capable person has many options and opportunities available to them. Overall, the sentence is a playful and optimistic way of expressing the idea that being capable and versatile can lead to success and fulfillment.
-```
 
 ## js v ts
 
 > -> mistral large
 > javascript vs typescript list pros and cons
 
-```
 Sure, I'd be happy to help with that. Here are some pros and cons of both JavaScript and TypeScript:
 
 **JavaScript:**
@@ -714,11 +681,9 @@ Cons:
 2. **Compilation Step:** Since TypeScript is not natively understood by browsers, you'll need to add a compilation step to your build process to convert TypeScript to JavaScript.
 3. **Less Community and Resources:** While TypeScript's community is growing, it's still smaller than JavaScript's. This means fewer resources, libraries, and frameworks are available.
 4. **Complexity:** TypeScript can be more complex than JavaScript due to its additional features like interfaces, generics, etc. This complexity can be a pro or a con, depending on your needs and preferences.
-```
 
 > typescript vs javascript list pros and cons
 
-```
 Sure, I'd be happy to help with that. Here are some pros and cons of both JavaScript and TypeScript:
 
 **JavaScript:**
@@ -747,14 +712,12 @@ Cons:
 2. **Compilation:** TypeScript needs to be compiled into JavaScript before it can be run in a browser, which can add an extra step to the development process.
 3. **Less Universal Support:** Not all libraries and frameworks support TypeScript out of the box, though this is improving.
 4. **Overkill for Small Projects:** For small projects or simple scripts, TypeScript might be overkill and add unnecessary complexity.
-```
 
 ## vue v react
 
 > -> mistral large
 > vue vs react list pros and cons
 
-```
 Sure, here are some pros and cons of Vue.js and React.js:
 
 Vue.js:
@@ -784,11 +747,9 @@ Cons:
 2. Complexity: React.js can be complex and harder to understand, especially for beginners.
 3. Lack of Official Guidelines: React.js lacks official guidelines, which can lead to poor code quality.
 4. Fast-Paced Environment: The environment of React.js is fast-paced, which means developers need to keep up with the latest updates and changes.
-```
 
 > react vs vue list pros and cons
 
-```
 Sure, I'd be happy to help you compare React and Vue.js. Both are popular JavaScript frameworks used for building user interfaces, but they have different strengths and weaknesses.
 
 **React**
@@ -815,14 +776,12 @@ Cons:
 1. **Smaller Community**: While Vue.js has a growing community, it's still smaller than React's. This might mean fewer resources and libraries.
 2. **Limited Flexibility**: While Vue.js provides guidelines which can be helpful, they might limit flexibility for some developers.
 3. **Less Job Opportunities**: Currently, there are more job opportunities for React developers compared to Vue.js developers.
-```
 
 ## sketch v figma
 
 > -> mistral large
 > sketch vs figma list pros and cons
 
-```
 Sure, here's a comparison of Sketch and Figma, two popular design tools, with their respective pros and cons:
 
 **Sketch:**
@@ -856,11 +815,9 @@ Cons:
 4. **File Management:** Figma's file management can be a bit tricky and may require some getting used to.
 
 Both tools have their strengths and weaknesses, and the best choice depends on your specific needs, such as your operating system, need for collaboration, and design complexity.
-```
 
 > figma vs sketch list pros and cons
 
-```
 Sure, I'd be happy to help you compare Figma and Sketch. Both are popular tools used for UI/UX design, and each has its own strengths and weaknesses. Here's a simple comparison:
 
 **Figma**
@@ -886,14 +843,12 @@ Cons:
 1. **Mac-only**: Sketch is only available for macOS, which can be a limitation for Windows or Linux users.
 2. **Collaboration**: While Sketch does offer collaboration features through Sketch Cloud, it's not as real-time or seamless as Figma's collaboration tools.
 3. **Pricing**: Sketch's licensing model can be more expensive, especially for larger teams.
-```
 
 ## sketch v illu
 
 > -> mistral large
 > sketch vs illustrator list pros and cons
 
-```
 Sure, here's a comparison of Sketch and Adobe Illustrator with their respective pros and cons:
 
 **Sketch**
@@ -923,11 +878,9 @@ Cons:
 2. **Performance:** Illustrator can sometimes be slow and resource-intensive, especially when working with large files.
 3. **Subscription Model:** Like Sketch, Illustrator also operates on a subscription model, which can be a downside for some users.
 4. **Less Ideal for UI/UX Design:** While Illustrator is powerful, it's not specifically designed for UI/UX design, and some features may be lacking compared to Sketch.
-```
 
 > illustrator vs sketch list pros and cons
 
-```
 Sure, here's a comparison of Adobe Illustrator and Sketch, two popular vector graphics editors, with their respective pros and cons:
 
 **Adobe Illustrator**
@@ -960,14 +913,12 @@ Cons:
 4. No Native iPad Support: Unlike Illustrator, Sketch does not have a native iPad app, limiting its use to desktop computers.
 
 Both tools have their strengths and weaknesses, and the best choice depends on your specific design needs, platform preference, and budget.
-```
 
 ## ubuntu v arch
 
 > -> mistral large
 > ubuntu vs arch list pros and cons
 
-```
 Sure, I'd be happy to help compare Ubuntu and Arch Linux. Both are popular Linux distributions, but they have different philosophies and features that might make one more suitable for you than the other.
 
 **Ubuntu:**
@@ -996,14 +947,12 @@ Cons:
 3. **Smaller community**: While the Arch community is active and helpful, it's not as large as Ubuntu's. This means you might have a harder time finding help and resources.
 
 In conclusion, if you're new to Linux or want a stable, user-friendly system, Ubuntu might be the better choice. If you're more experienced and want a highly customizable, cutting-edge system, you might prefer Arch Linux.
-```
 
 ## tg v discord
 
 > -> mistral large
 > telegram vs discord list pros and cons
 
-```
 Sure, here's a comparison of Telegram and Discord, highlighting some of their pros and cons:
 
 Telegram:
@@ -1032,14 +981,12 @@ Cons:
 3. **Group Size**: Discord servers can have up to 250,000 members, but the number of online members is capped at 5,000 for voice channels.
 
 Both platforms have their strengths and weaknesses, and the best choice depends on your specific needs and preferences.
-```
 
 ## online courses
 
 > -> mistral instruct 7b q4
 > popular courses sites
 
-```
 There are several popular websites that offer online courses across various subjects and skill levels. Here are some of the most well-known sites:
 
 1. Coursera (<https://www.coursera.org>): Coursera partners with universities and organizations around the world to offer online courses and programs in a wide range of subjects, from computer science and business to humanities and social sciences.
@@ -1052,26 +999,22 @@ There are several popular websites that offer online courses across various subj
 8. FutureLearn (<https://www.futurelearn.com>): FutureLearn is a digital education platform founded by the UK Open University, which offers free online courses from over 150 leading institutions and organizations worldwide. The platform covers a wide range of subjects, including business, science, technology, arts, and humanities.
 9. Alison (<https://alison.com>): ALISON is a free online learning platform that offers over 1,300 courses in various subjects, including IT and office skills, health and safety, engineering, and more. The platform uses interactive multimedia lessons, quizzes, and assessments to help learners master new skills at their own pace.
 10. Open Culture (<https://www.openculture.com>): Open Culture is a free online resource that offers over 1,300 courses from top universities and cultural institutions around the world. The platform covers a wide range of subjects, including art, music, literature, science, history, and more. Courses are available for free online or through iTunes U or other platforms.
-```
 
 ## replication crisis
 
 > -> mistral instruct 7b q4
 
-```
 The replication crisis refers to the ongoing debate in psychology and other scientific fields about the reliability and validity of research findings, particularly those that cannot be reproduced. The crisis began to gain significant attention around 2011 when a series of high-profile studies in psychology failed to replicate, leading to concerns about the integrity and transparency of research methods and data reporting.
 
 The replication crisis has raised important questions about the ways in which scientific research is conducted and reported, including issues related to sample size, statistical power, data sharing, transparency, and reproducibility. Many researchers argue that these issues are not unique to psychology, but rather represent systemic challenges that affect many fields of science.
 
 To address the replication crisis, various initiatives have been launched, including efforts to increase transparency and openness in research practices, such as preregistration of studies, sharing of data and materials, and more rigorous peer review processes. These efforts aim to improve the reliability and validity of research findings, restore public trust in scientific research, and ultimately advance our understanding of the world around us.
-```
 
 
 ## efficient market hypothesis
 
 > -> mistral instruct 7b q4
 
-```
 The Efficient Market Hypothesis (EMH) is a financial theory that suggests it is impossible to beat the market consistently over time by making informed investments based on publicly available information. According to EMH, financial markets are informationally efficient, meaning that the prices of securities reflect all available and relevant information.
 
 There are three forms of EMH:
@@ -1081,13 +1024,11 @@ There are three forms of EMH:
 3. Strong Form: This form of EMH suggests that the market prices reflect all possible information, including insider information and information that is not yet publicly available. In other words, it is impossible to make abnormal profits from the market by using any type of information.
 
 It's important to note that while EMH is a widely accepted theory in finance, it is not without its critics. Some argue that markets are not always efficient and that there are indeed opportunities for investors to make above-average returns through careful analysis and risk management. However, EMH remains a popular framework for understanding financial markets and investor behavior.
-```
 
 ## latex tut
 
 > -> mistral instruct 7b q4
 
-```
 I'd be happy to provide you with a brief introduction to LaTeX and some resources for learning it further.
 
 LaTeX is a document preparation system that is widely used for producing high-quality typeset documents, especially in scientific and technical fields. It offers a rich set of features for creating complex documents with mathematical equations, diagrams, and tables.
@@ -1097,7 +1038,7 @@ Here are some basic steps to get started with LaTeX:
 1. Install a LaTeX distribution: The first step is to install a LaTeX distribution on your computer. Some popular options include TeX Live, MiKTeX, and MacTeX.
 2. Write your document: LaTeX documents are written in a text editor or IDE that supports LaTeX syntax. You can start by creating a new LaTeX file with the extension `.tex`. Here's an example of a simple LaTeX document:
 
-\```latex
+```latex
 \documentclass{article} % choose document class (e.g., article, report, or book)
 
 % add packages here if needed
@@ -1113,13 +1054,13 @@ Here are some basic steps to get started with LaTeX:
 \maketitle % generate title page
 
 \end{document}
-\```
+```
 
 3. Compile and view your document: Once you've written your LaTeX code, you need to compile it to generate a PDF output. You can do this by running the `pdflatex` command in a terminal or command prompt, followed by any necessary auxiliary files (e.g., `.aux`, `.log`) generated during compilation. For example:
 
-\```bash
+```bash
 pdflatex mydocument.tex
-\```
+```
 
 4. Learn LaTeX syntax and features: There are many resources available for learning LaTeX in depth. Here are some recommended ones:
    - The LaTeX Beginner's Guide by Stefan Kottwitz: This is a free online book that covers the basics of LaTeX and provides many examples.
@@ -1128,43 +1069,35 @@ pdflatex mydocument.tex
    - The LaTeX Community: This is a forum where you can ask questions, share tips and tricks, and get help with all aspects of LaTeX.
 
 I hope this introduction helps you get started with LaTeX! Let me know if you have any specific questions or topics you'd like to learn about.
-```
 
 ## GEB
 
 > -> mistral instruct 7b q4
 > what's the book `GEB`
 
-```
 "GEB" refers to "Gödel, Escher, Bach: An Eternal Golden Braid" by Douglas Hofstadter. It is a Pulitzer Prize-winning book published in 1979 that explores the relationship between logic, self-reference, and human thought through the works of mathematician Kurt Gödel, artist M.C. Escher, and composer Johann Sebastian Bach. The book is known for its interdisciplinary approach to these topics and its engaging style that combines mathematical concepts with everyday experiences and anecdotes.
-```
 
 > what does `Gödel, Escher, Bach: An Eternal Golden Braid` mean
 
-```
 The title "Gödel, Escher, Bach: An Eternal Golden Braid" is a metaphorical reference to the interconnectedness of the ideas explored in the book. Here's a brief explanation of each part of the title and how it relates to the overall theme:
 
 1. Gödel: Kurt Gödel was a mathematician famous for his incompleteness theorems, which state that within any formal mathematical system, there are statements that cannot be proven or disproven using the rules of the system alone. This concept of self-referential paradoxes and undecidable statements is explored in the book through Gödel's biography and his mathematical work.
 2. Escher: M.C. Escher was a visual artist known for his mathematically-inspired art, particularly his work on tessellations and impossible constructions. Hofstadter uses Escher's art as a visual representation of the logical paradoxes and self-referential loops that are present in Gödel's work, demonstrating how these abstract concepts can manifest in everyday experiences.
 3. Bach: Johann Sebastian Bach was a composer whose music is characterized by its intricate counterpoint and interwoven melodies, which can be seen as a musical representation of the interconnectedness and self-reference present in Gödel's mathematical work and Escher's art.
 4. An Eternal Golden Braid: This phrase refers to the idea that these seemingly disparate fields – mathematics, art, and music – are in fact deeply interconnected. The title suggests a complex web of intricate patterns and connections that span across these disciplines, symbolizing the eternal and unbroken chain of knowledge and creativity.
-```
 
 ## foo bar
 
 > -> mistral instruct 7b q4
 > whats the meaning of `foo bar`
 
-```
 The term "foo bar" is an idiomatic expression with no specific meaning on its own. It originated in the world of engineering and technology, particularly in software development, as a placeholder or catch-all term for an undefined or complex concept. In other words, when someone says "foo bar" they're usually referring to something that is not well-defined or understood at the moment. It can also be used sarcastically or humorously to indicate a lack of progress or understanding in a particular situation.
-```
 
 ## svg
 
 > -> mistral instruct 7b q4
 > write svg tut
 
-```
 Title: Getting Started with SVG (Scalable Vector Graphics)
 
 SVG, or Scalable Vector Graphics, is an XML-based vector graphic format for two-dimensional graphics with support for interactivity and animation. In this tutorial, we will cover the basics of creating and editing SVG files using various tools and text editors.
@@ -1191,88 +1124,86 @@ SVG, or Scalable Vector Graphics, is an XML-based vector graphic format for two-
 **Using a Text Editor:**
 - Open your text editor, create a new file, and save it with an .svg extension. For example, "shape.svg".
 - Write the basic structure of an SVG file:
-\```xml
+```xml
 <svg width="100" height="100">
   <!-- Content goes here -->
 </svg>
-\```
+```
 
 **Step 2: Drawing Shapes**
 
 Using Adobe Illustrator, Inkscape, or your text editor, you can draw and edit various shapes like rectangles, circles, ellipses, lines, polygons, etc.
 
 For example, in a text editor, add the following code to create a blue square with a side length of 100 pixels:
-\```xml
+```xml
 <svg width="100" height="100">
   <rect x="10" y="10" width="80" height="80" fill="#0072B2"/>
 </svg>
-\```
+```
 
 **Step 3: Adding Text**
 
 To add text, use the `<text>` element and the `<tspan>` element for multiple lines. For example:
-\```xml
+```xml
 <text x="50" y="30">Hello World!</text>
 <tspan x="50" y="45" font-size="16px" font-weight="bold">Welcome to SVG!</tspan>
-\```
+```
 
 **Step 4: Styling with CSS**
 
 You can style your SVG using CSS, just like HTML and web pages. For example:
-\```xml
+```xml
 <style type="text/css">
   rect { fill: red; }
   text { font-size: 20px; }
 </style>
-\```
+```
 
 **Step 5: Adding Interactivity and Animation**
 
 SVG supports interactivity using SMIL (Synchronized Multimedia Integration Language) animation, JavaScript, and other libraries like D3.js. For a simple example of animating a rectangle, use the following SMIL code:
-\```xml
+```xml
 <rect x="10" y="10" width="80" height="80" fill="#0072B2">
   <animate attributeName="x" from="10" to="150" dur="3s" repeatCount="indefinite"/>
 </rect>
-\```
+```
 
 This tutorial covers the basics of creating and editing SVG files. You can explore more advanced features, like transformations, gradients, masks, filters, etc., using various tools and resources available online. Happy designing!
-```
 
 ## markdown
 
 > -> mistral instruct 7b q4
 > write markdown tut
 
-```
-# Markdown Tutorial
+### Markdown Tutorial
 
 Markdown is a lightweight markup language for creating formatted text. It's easy to use and can be rendered beautifully on various platforms like GitHub, Jupyter Notebooks, and more. In this tutorial, we will cover the basics of Markdown.
 
-## Headers
+### Headers
 
 You can create headers using the `#` symbol. The number of `#` you use will determine the level of the header. For example:
 
-\```markdown
+```markdown
 # This is a Level 1 header
 ## This is a Level 2 header
 ### This is a Level 3 header
-\```
+```
 
-## Emphasis
+### Emphasis
 
 You can add emphasis to text by using the `*` or `_` symbols. For example:
 
-\```markdown
+```markdown
 *This text will be italicized*
 **This text will be bold**
 ***This text will be both italicized and bold***
-\```
+```
 
-## Lists
+### Lists
 
 You can create ordered lists using numbers and unordered lists using asterisks or hyphens. For example:
 
-\```markdown
+```markdown
 1. First item
 2. Second item
 3. Third item
@@ -1280,83 +1211,81 @@ You can create ordered lists using numbers and unordered lists using asterisks o
 - Item 1
 - Item 2
 - Item 3
-\```
+```
 
-## Links
+### Links
 
 You can create inline links by wrapping the link text in `[]` and the URL in `()`. For example:
 
-\```markdown
+```markdown
 [Google](https://www.google.com)
-\```
+```
 
-## Images
+### Images
 
 To insert an image, use the following format:
 
-\```markdown
+```markdown
 ![Alt text](image.jpg)
-\```
+```
 
-## Code
+### Code
 
 To insert inline code, use the `\` symbol followed by backticks (`). For example:
 
-\```markdown
+```markdown
 Use the following Python code: `print("Hello, world!")`
-\```
+```
 
-To insert a block of code, use triple backticks (```). For example:
+To insert a block of code, use triple backticks (). For example:
 
-\```markdown
-\```python
+```markdown
+```python
 def add(x, y):
     return x + y
 
 print(add(2, 3))
-\```
-\```
+```
+```
 
 ## Tables
 
 To create a table, use pipes (|) and dashes (-) to separate columns and rows. For example:
 
-\```markdown
+```markdown
 | Name  | Age |
 |-------|-----|
 | Alice | 25  |
 | Bob   | 30  |
-\```
+```
 
-## Blockquotes
+### Blockquotes
 
 To create a blockquote, use the `>` symbol followed by a space. For example:
 
-\```markdown
+```markdown
 > This is a quote from someone else.
-\```
+```
 
-## Horizontal lines
+### Horizontal lines
 
 To create a horizontal line, use three hyphens (---), asterisks (***), or underscores (___). For example:
 
-\```markdown
+```markdown
 ---
 ***
 ___
-\```
+```
 
-## Getting Help
+### Getting Help
 
 For more information on Markdown, check out the [Markdown Cheat Sheet](https://github.com/ad-mallos/markdown-files/blob/master/MARKDOWN.md) or the [Markdown Guide](https://www.markdownguide.org/)!
-```
 
 ## high school subjects
 
 > -> mistral instruct 7b q4
 > 中国高中有哪些必读数目
 
-```
 中国高中学生需要读习的课程和知识点有所不同，因为各地教育政策和 curriculum 可能会有所差异。但是，以下是中国大多数高中学生需要读的主要课程和学科：
 
 1. 语文 (Yuwen, or Chinese language) : This is a mandatory subject for all students in China. It includes Chinese literature and composition, as well as the study of Chinese characters and grammar.
@@ -1369,19 +1298,17 @@ For more information on Markdown, check out the [Markdown Cheat Sheet](https://g
 8. 体育 (Tiyu, or Physical Education) : Regular physical activity is important for all students, so high schools require a certain number of hours of physical education each week.
 
 It's worth noting that some high schools may offer additional courses or electives, depending on the school's resources and student interests. For example, some schools may offer advanced math or science classes, music or art programs, or language exchange opportunities with students from other countries.
-```
 
 ## c++ struct functions
 
 > -> mistral large
 > can c++ struct include functions
 
-```
 Yes, in C++, a `struct` can include functions, just like a `class`. The main difference between a `struct` and a `class` in C++ is that members of a `struct` are public by default, while members of a `class` are private by default. However, both can contain member functions, constructors, destructors, and other member types.
 
 Here's an example of a `struct` that includes functions:
 
-\```cpp
+```cpp
 #include <iostream>
 
 struct MyStruct {
@@ -1410,7 +1337,7 @@ int main() {
 
     return 0;
 }
-\```
+```
 
 In this example, `MyStruct` is a `struct` that contains:
 - A data member `value`.
@@ -1419,17 +1346,15 @@ In this example, `MyStruct` is a `struct` that contains:
 - Another member function `incrementValue(int amount)` to increment the value.
 
 You can use `struct` in C++ just like you would use a `class`, with the understanding that the default access level for members is public.
-```
 
 > -> mistral codestral
 > can c++ struct include functions
 
-```
 Yes, a C++ struct can include functions. In fact, a struct in C++ is very similar to a class, with the main difference being that the default access specifier for a struct is public, while for a class it is private.
 
 Here's an example of a struct that includes a function:
 
-\```cpp
+```cpp
 #include <iostream>
 
 struct Rectangle {
@@ -1451,10 +1376,254 @@ int main() {
     std::cout << "Area: " << rect.area() << std::endl;
     return 0;
 }
-\```
+```
 
 In this example, the `Rectangle` struct has two member variables (`width` and `height`), and two member functions (`setValues` and `area`). The `setValues` function sets the width and height of the rectangle, and the `area` function calculates and returns the area of the rectangle.
+
+## voyage js
+
+> -> mistral large 2
+> voyage.js web framework
+
+Voyage.js 是一个基于 JavaScript 的前端框架，专注于构建现代化的单页应用（SPA）。它提供了一系列工具和功能，帮助开发者更高效地构建和管理复杂的前端应用。以下是一些关于 Voyage.js 的关键特性和使用方法：
+
+### 关键特性
+
+1. **组件化开发**：Voyage.js 支持组件化开发，允许开发者将应用拆分为独立的、可重用的组件。
+2. **路由管理**：内置强大的路由管理系统，支持动态路由和嵌套路由。
+3. **状态管理**：提供简单易用的状态管理机制，帮助开发者更好地管理应用的状态。
+4. **模板引擎**：支持多种模板引擎，如 JSX、Pug 等，开发者可以根据需要选择合适的模板引擎。
+5. **插件系统**：Voyage.js 提供了灵活的插件系统，允许开发者扩展框架的功能。
+6. **性能优化**：框架内置了一些性能优化措施，如代码分割、懒加载等，帮助提升应用的性能。
+
+### 安装和使用
+
+#### 安装
+
+你可以通过 npm 或 yarn 安装 Voyage.js：
+
+```bash
+npm install voyage.js
 ```
+
+或者
+
+```bash
+yarn add voyage.js
+```
+
+#### 基本使用
+
+以下是一个简单的示例，展示如何使用 Voyage.js 创建一个基本的单页应用：
+
+```javascript
+import Voyage from 'voyage.js';
+
+// 创建一个应用实例
+const app = new Voyage({
+  el: '#app', // 挂载点
+  template: `
+    <div>
+      <h1>Hello, Voyage.js!</h1>
+      <router-view></router-view>
+    </div>
+  `,
+  routes: [
+    { path: '/', component: Home },
+    { path: '/about', component: About }
+  ]
+});
+
+// 定义组件
+const Home = {
+  template: `<div>Home Page</div>`
+};
+
+const About = {
+  template: `<div>About Page</div>`
+};
+
+// 启动应用
+app.start();
+```
+
+### 路由管理
+
+Voyage.js 提供了强大的路由管理功能，支持动态路由和嵌套路由。以下是一个示例，展示如何定义和使用路由：
+
+```javascript
+const app = new Voyage({
+  el: '#app',
+  template: `
+    <div>
+      <nav>
+        <a href="/">Home</a>
+        <a href="/about">About</a>
+      </nav>
+      <router-view></router-view>
+    </div>
+  `,
+  routes: [
+    { path: '/', component: Home },
+    { path: '/about', component: About },
+    { path: '/user/:id', component: User }
+  ]
+});
+
+const Home = {
+  template: `<div>Home Page</div>`
+};
+
+const About = {
+  template: `<div>About Page</div>`
+};
+
+const User = {
+  template: `<div>User Page: {{ id }}</div>`,
+  data() {
+    return {
+      id: this.$route.params.id
+    };
+  }
+};
+
+app.start();
+```
+
+### 状态管理
+
+Voyage.js 提供了简单易用的状态管理机制，帮助开发者更好地管理应用的状态。以下是一个示例，展示如何使用状态管理：
+
+```javascript
+const app = new Voyage({
+  el: '#app',
+  template: `
+    <div>
+      <h1>{{ message }}</h1>
+      <button @click="updateMessage">Update Message</button>
+    </div>
+  `,
+  data() {
+    return {
+      message: 'Hello, Voyage.js!'
+    };
+  },
+  methods: {
+    updateMessage() {
+      this.message = 'Message Updated!';
+    }
+  }
+});
+
+app.start();
+```
+
+希望这些信息能帮助你更好地理解和使用 Voyage.js。如果你有更多的问题或需要更详细的指导，欢迎继续提问！
+
+> -> mistral large 2
+> voyage.js web framework
+
+Voyage.js is a web framework designed to simplify the development of web applications by providing a set of tools and conventions that help developers build, test, and deploy their applications more efficiently. While Voyage.js is not as widely known as some other frameworks like React, Angular, or Vue.js, it aims to offer a streamlined approach to web development.
+
+Here are some key features and concepts typically associated with web frameworks like Voyage.js:
+
+### Key Features:
+
+1. **Component-Based Architecture**:
+   - Allows developers to build reusable UI components.
+   - Encourages modularity and separation of concerns.
+
+2. **Routing**:
+   - Provides a routing system to manage navigation between different views or pages.
+   - Supports dynamic routing and nested routes.
+
+3. **State Management**:
+   - Offers built-in state management solutions or integrates with popular state management libraries.
+   - Helps manage application state in a predictable and scalable way.
+
+4. **Server-Side Rendering (SSR)**:
+   - Supports server-side rendering for improved performance and SEO.
+   - Allows rendering of components on the server before sending them to the client.
+
+5. **Development Tools**:
+   - Includes a set of development tools for debugging, testing, and optimizing applications.
+   - Provides a development server with hot module replacement (HMR) for a better development experience.
+
+6. **Build System**:
+   - Comes with a build system that handles bundling, transpiling, and optimizing code for production.
+   - Supports modern JavaScript features and CSS preprocessors.
+
+7. **Extensibility**:
+   - Allows developers to extend the framework with custom plugins or middleware.
+   - Provides a flexible architecture that can be adapted to different project requirements.
+
+### Getting Started:
+
+To get started with Voyage.js, you would typically follow these steps:
+
+1. **Installation**:
+   - Install Voyage.js using a package manager like npm or yarn.
+   ```bash
+   npm install voyage.js
+   ```
+
+2. **Project Setup**:
+   - Create a new project or add Voyage.js to an existing project.
+   - Set up the necessary configuration files and folder structure.
+
+3. **Creating Components**:
+   - Define reusable UI components using JavaScript or a templating language.
+   ```javascript
+   import { Component } from 'voyage.js';
+
+   class MyComponent extends Component {
+     render() {
+       return `<div>Hello, Voyage.js!</div>`;
+     }
+   }
+
+   export default MyComponent;
+   ```
+
+4. **Routing**:
+   - Define routes and associate them with components.
+   ```javascript
+   import { Router } from 'voyage.js';
+   import HomeComponent from './components/HomeComponent';
+   import AboutComponent from './components/AboutComponent';
+
+   const router = new Router();
+
+   router.addRoute('/', HomeComponent);
+   router.addRoute('/about', AboutComponent);
+
+   router.start();
+   ```
+
+5. **State Management**:
+   - Implement state management to handle application data.
+   ```javascript
+   import { Store } from 'voyage.js';
+
+   const store = new Store({
+     count: 0,
+   });
+
+   store.subscribe((state) => {
+     console.log(state);
+   });
+
+   store.dispatch({ type: 'INCREMENT' });
+   ```
+
+6. **Building and Deploying**:
+   - Use the build system to compile and optimize your application for production.
+   - Deploy the built application to a web server or a cloud platform.
+
+### Conclusion:
+
+Voyage.js, like other web frameworks, aims to provide a comprehensive set of tools and conventions to streamline web development. By leveraging its features, developers can build scalable, maintainable, and performant web applications more efficiently. If you are considering using Voyage.js, be sure to check the official documentation and community resources for the latest information and best practices.
+
 
 
 

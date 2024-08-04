@@ -18,10 +18,11 @@
   - lays crisps original
   - burgerking french fries
   - ruby chocolate popsicle
+  - preserved plum
+  - preserved peel
   - tea egg
-  - life-size pillow
+  - life size pillow
   - potted plant
-  - camphor wood
   - pure math
   - intuitive web app
 -
@@ -47,6 +48,7 @@
   - soul (2020)
   - your name (2016)
   - the shawshank redemption (1994)
+  - the knockout (2023)
   - .evangelion (1995)
   - .bang dream! it's mygo!!!!! (2023)
   - _bocchi the rock (2022)
@@ -127,6 +129,7 @@
   - nova lciop
   - gao zixiang
   - chen zihao
+-
   - zhang chuanzhi
   - chen shiyu
   - wang zhaohai
@@ -169,11 +172,30 @@
   - wine 9.0
 -
   - wikipedia
+  - internet archive
   - the pirate bay
-  - material design
-  - ruanyf blog
-  - paulg blog
-  - james sinclair blog
+  - mistral le chat
+  - google
+  - youtube
+  - tophub.today
+  - rebang.today
+  - reddit
+  - zhihu
+  - v2ex
+  - codeforces
+  - nga bbs
+  - bangumi bbs
+  - pixiv
+  - codepen spark
+  - dribbble
+  - producthunt
+  - hacker news
+  - slashdot
+- 
+  - design.google
+  - ruanyf blog design
+  - paulg blog design
+  - james sinclair blog design
   - iphone os 4
   - ubuntu yaru
   - dracula theme
@@ -297,8 +319,8 @@
   - `projects` the interesting and the meaningful
   - `reply` reply to the world and rest of the world
   - `comments` words and their sources
-  - `idioms` meme like quotes for fun and not for fun
-  - `mistral` another wikipedia by mistral
+  - `idioms` meme like quotes just for fun
+  - `mistral` answers from mistral le chat
 - self
   - `weekly` weekly plans at each time
   - `timeln` personal discoveries and thoughts
