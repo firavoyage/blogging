@@ -108,6 +108,18 @@
   - _pride and prejudice (jane austen)
   - _rashomon (ryunosuke akutagawa)
   - _one hundred years of solitude (gabriel garcía marquez)
+-
+  - anyway.fm (jj ying & leon gao)
+  - beyond code (randy lu & geek plux)
+  - hard hacker (yixiao & 0xsaito & anson)
+  - it gonglun (ipn)
+  - mindhub by product thinking (shaonan & fonter & mengna)
+  - pan.icu (wu tao & rio)
+  - pretro.xyz (ren ning & rio)
+  - ux coffee (riceman & hoka)
+  - web worker (xinbao & lv777 & pakchoi & kaiyi & x smart)
+  - yitianshijie (li ruyi)
+  - yixi (yixi)
 - 
   - adhesion tek
   - coding startup
@@ -193,15 +205,17 @@
   - slashdot
 - 
   - design.google
-  - ruanyf blog design
-  - paulg blog design
-  - james sinclair blog design
+  - ruanyf blog
+  - james sinclair blog
   - iphone os 4
   - ubuntu yaru
   - dracula theme
   - one dark pro darker
   - monokai classic
 -
+  - antennapod
+  - bilimiao
+  - ehentai viewer
   - fcitx android
   - gnome amberol
   - gnome apostrophe
@@ -234,13 +248,22 @@
   - gnome weather
   - gnome web
   - gnu image manipulation program
+  - golden dict
   - inkscape
   - jan
+  - k9 mail
   - kdenlive
+  - legado read 3.0
   - libre office
   - material files
+  - nekogram
   - obs studio
+  - onscripter yuri
   - qbitorrent
+  - simplelive
+  - snapseed
+  - thunder bird
+  - v2ray ng
   - v2raya
   - vlc media player
 

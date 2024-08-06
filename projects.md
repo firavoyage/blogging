@@ -169,7 +169,7 @@
 ### `eat`
 > survive the content farms | breathe in the digital age
 - all platforms,one subscription list
-  - like google reader or rsshub
+  - like google reader
   - work with popular blog sites and video sites
   - not status sites so instagram reddit twitter aint included
 - trending page included
@@ -183,6 +183,8 @@
   - you can read some anywhere anytime
   - downloads and subscriptions can be imported and exported
 - inspired by 
+  - rsshub
+  - instapaper
   - netnewswire
 
 ### `fav` 
@@ -276,6 +278,9 @@ indie games,bangumis,visual novels,fonts,... not included as their databases are
   - vocal off and bach classic
 - build with elegance | distraction free
   - by pre and mind
+- promotion
+  - open high school math in wei bro's way
+  - relearn high school math as a beginner
 - commercialize
   - members can receive homework answers
 - various themes
@@ -417,8 +422,8 @@ for(i arr j brr){A} //for(let __fs_i=0,i=arr[__fs_i],j=brr[__fs_i];__fs_i<arr.le
   - monokai pro
 - app component systems
   - design.google
-  - material.io
   - plaintxt.org
+  - ruanyifeng.com/blog
   - jrsinclair.com
   - ubuntu yaru
   - ruanyf blog
@@ -435,6 +440,7 @@ for(i arr j brr){A} //for(let __fs_i=0,i=arr[__fs_i],j=brr[__fs_i];__fs_i<arr.le
 - inspired by
   - webflow
   - framer
+  - popsy
   - figma
 
 ### `voyagejs` 

@@ -12,6 +12,7 @@
 - read "math challenger" & design pure math (-> /pure.dailyab)
 - read "javascript tut" & design intuitive (-> /intuitive.voyage.fresh)
 - revise projects.md (detail & elegance & inspired by)
+- implement voyage.js (-> /voyagejs)
 > summer vacation night
 - add details to projects (inspired by)
 - classify web (tags)

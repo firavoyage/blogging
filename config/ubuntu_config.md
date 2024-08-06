@@ -278,8 +278,8 @@ sudo apt-get install code
 }
 ```
 - config user snippets
-> -> file > preferences > configure user snippets
-> -> git/blogging/config/cpp.code-snippets
+> from -> git/blogging/config/cpp.code-snippets
+> to -> file > preferences > configure user snippets
 - config shortcuts
 ```
 duplicate selection `ctrl d`
