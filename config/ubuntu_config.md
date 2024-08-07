@@ -286,7 +286,6 @@ duplicate selection `ctrl d`
 insert line below `shift enter`
 
 run code `ctrl r`
-stop running `ctrl e`
 ```
 > ctrl k ctrl s
 - use shortcuts
@@ -313,6 +312,8 @@ select words `ctrl shift leftarrow|rightarrow`
 select blocks `shift alt leftarrow|rightarrow`
 duplicate cursor `ctrl shift uparrow|downarrow` | `shift alt uparrow|downarrow` | `alt click` 
 move current line `alt uparrow|downarrow`
+
+stop code running in terminal `ctrl c`
 
 reset cursor `esc`
 ```

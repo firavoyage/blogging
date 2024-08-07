@@ -14,7 +14,7 @@
 - markdown extended
   - various content blocks
   - collapse and show more
-  - config by para compiler
+  - by para compiler
 - themes to choose
   - by voyage
 - local based
@@ -241,6 +241,8 @@ indie games,bangumis,visual novels,fonts,... not included as their databases are
 ### `debation`
 > structured views instead of unordered sentences
 > -> /debation
+- style
+  - quotes on two sides of the timeln
 - words abstracted
   - positive
   - negative
@@ -279,8 +281,11 @@ indie games,bangumis,visual novels,fonts,... not included as their databases are
 - build with elegance | distraction free
   - by pre and mind
 - promotion
+  - childhood retro | my desired math courses
+  - purity of math is noskill
   - open high school math in wei bro's way
   - relearn high school math as a beginner
+  - the libre high school math textbook
 - commercialize
   - members can receive homework answers
 - various themes
@@ -293,8 +298,9 @@ indie games,bangumis,visual novels,fonts,... not included as their databases are
   - xiaogu math channel (-> https://space.bilibili.com/490447495)
   - furina math channel (-> https://space.bilibili.com/1341745816)
   - math graduate channel (-> https://space.bilibili.com/628523505)
+  - zhangyu math channel (-> https://space.bilibili.com/679237565)
 
-- `leisure` 
+### `leisure` 
 > retro vocabulary memorization style
 - words filtered
   - no grade school words
@@ -313,6 +319,16 @@ indie games,bangumis,visual novels,fonts,... not included as their databases are
 
 ## dev
 
+### `paracompiler`
+> elegant md html compiler
+- markdown extended
+  - icon images
+  - block style
+- configurable
+  - line break style
+  - identation style
+- work with mdlint
+
 ### `intuitive` 
 > showcase the power of web
 > /intuitive
@@ -324,14 +340,31 @@ indie games,bangumis,visual novels,fonts,... not included as their databases are
 - interesting demos
   - source codepen
   - and useful progressive web apps
-- intuitive game engine
-  - angry birds
+- intuitive playground 
+  - game engine like scratch
+  - javascript based 
+- game ideas
+  - angry birds classic
   - fly me 2 the moon:the origin of mihoyo,endless levels
   - genshin dungeon:soul knight but gi monsters
   - unique card gambers:know the enemy and know yourself
   - platfighter:pass or death
   - bs local:ideas ignored by supercell,strong teammates
   - cr local:ideas ignored by supercell,human-like opponents
+- why javascript
+  - use bracket symbols while some use words like begin end
+  - use math expressions while some put operaters before
+  - object oriented programming support while some use address method
+  - functional programming support while some does not consider functions as variables
+  - flexible syntax while some have strict limits like line end semicolons and main functions
+  - the only script language which browsers support
+  - es6 great power like block definition and destructuring assignment
+- when not javascript
+  - cpp for high performance need like oi
+  - python for its request and data process lib
+  - golang for its server calc and database lib
+  - java for android dev
+  - swift for ios dev
 - various themes
   - by voyage
 - inspired by
@@ -437,6 +470,8 @@ for(i arr j brr){A} //for(let __fs_i=0,i=arr[__fs_i],j=brr[__fs_i];__fs_i<arr.le
   - button(material water drop effect,svg uncolorized icon,alt msg,keyboard focus)
   - link(internet archive,preview,stats)
   - ...
+- generate code
+  - run with voyagejs
 - inspired by
   - webflow
   - framer

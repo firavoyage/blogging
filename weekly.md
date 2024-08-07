@@ -17,6 +17,7 @@
 - add details to projects (inspired by)
 - classify web (tags)
 - classify memories (comments & discoveries | tags)
+- move some idioms to quotes (-> quotes)
 - redesign fav (trim and move)
 - play rpgs (hg sr)
 - watch simplelive

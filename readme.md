@@ -3,7 +3,7 @@
 ## self
 - an entrepreneur, developer, otaku
 - grew up in shanghai
-- on the internet since 2022, which is my actual "home town"
+- on the internet since 2019, which is my actual "home town"
 - live in rest of the world
 - working on building pure math
 
@@ -55,6 +55,7 @@
   - _frieren: beyond journey's end (2023)
   - _oshi no ko (2023)
   - _the godfather (1972)
+  - _the truman show (1998)
   - _wall-e (2008)
   - _the good the bad and the ugly (1966)
 -
@@ -102,12 +103,13 @@
   - _haizi's poems (hai zi)
   - _gu cheng's poems (gu cheng)
   - _stray birds (rabindranath tagore)
-  - _remarks on the song lyric and the human condition (wang guowei)
   - _if on a winter's night a traveler (italo calvino)
-  - _tao te ching (laozi)
+  - _the moon and sixpence (william somerset maugham)
   - _pride and prejudice (jane austen)
   - _rashomon (ryunosuke akutagawa)
   - _one hundred years of solitude (gabriel garcía marquez)
+  - _tao te ching (laozi)
+  - _remarks on the song lyric and the human condition (wang guowei)
 -
   - anyway.fm (jj ying & leon gao)
   - beyond code (randy lu & geek plux)
@@ -186,27 +188,41 @@
   - wikipedia
   - internet archive
   - the pirate bay
-  - mistral le chat
   - google
   - youtube
-  - tophub.today
-  - rebang.today
-  - reddit
-  - zhihu
-  - v2ex
-  - codeforces
-  - nga bbs
-  - bangumi bbs
-  - pixiv
-  - codepen spark
-  - dribbble
-  - producthunt
-  - hacker news
-  - slashdot
-- 
-  - design.google
+  - mistral chat
+  - tophub
+  - rebang
   - ruanyf blog
+  - hacker news
+  - codepen spark
+  - codeforces
+  - reddit
+  - v2ex
+  - nga
+  - bangumi.tv
+  - zhihu
+  - pixiv
+  - slashdot
+  - product hunt
+  - dribbble
+  - design.google
   - james sinclair blog
+  - the keyword
+  - william long
+  - codingnow
+  - iconmoon
+  - windliang
+  - livid
+  - vikingz
+  - chyk
+  - paulg
+  - t9t.io
+  - growth.design
+  - fabrice bellard
+  - james sinclair
+  - jiongks zhaojinjiang
+-
   - iphone os 4
   - ubuntu yaru
   - dracula theme
@@ -341,8 +357,9 @@
 - ideas
   - `projects` the interesting and the meaningful
   - `reply` reply to the world and rest of the world
-  - `comments` words and their sources
+  - `quotes` ideas and experiences
   - `idioms` meme like quotes just for fun
+  - `comments` words and their sources
   - `mistral` answers from mistral le chat
 - self
   - `weekly` weekly plans at each time
