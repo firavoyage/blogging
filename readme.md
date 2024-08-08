@@ -7,6 +7,9 @@
 - live in rest of the world
 - working on building pure math
 
+## mission
+- make tools elegant
+
 ## love
 - 
   - 🌕 💤 23:00
@@ -316,7 +319,6 @@
   - do have faith in what you are doing
   - live in the future and build what's missing
   - life is a long-plank game
-  - your overthinking is my opportunity
 - tell me, and i will forget.
   - show me, and i may remember.
   - involve me, and i will understand.
@@ -325,6 +327,7 @@
   - god is light, and in him there is no darkness at all. 
   - if we say we have fellowship with him yet walk in the darkness, we lie and do not practice the truth. 
   - but if we walk in the light as he is in the light, we have fellowship with one another, and the blood of jesus his son cleanses us from all sin.
+- character is destiny
 - soli deo gloria.
 - memento mori.
 - 遂迷不复得路
@@ -427,8 +430,6 @@
 - `indie developer` freedom of mind...
 
 ## wish
-- mission
-  - make tools elegant
 - work
   - knowledge organized with structure and simplicity
   - -> /pure

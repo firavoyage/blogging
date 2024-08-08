@@ -546,6 +546,7 @@ fn={
 voyage.new(name) //count name,get "name_1" or "name_2" or ...
 voyage.set(key,value) //set key,call everything binded
 voyage.get(key) //get its value
+voyage.state(element,key) //get own prop
 voyage.run(element) //bind element data,get Node
 voyage.node(id) //give element id,get Node
 ```
