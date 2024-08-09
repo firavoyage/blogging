@@ -1624,6 +1624,104 @@ To get started with Voyage.js, you would typically follow these steps:
 
 Voyage.js, like other web frameworks, aims to provide a comprehensive set of tools and conventions to streamline web development. By leveraging its features, developers can build scalable, maintainable, and performant web applications more efficiently. If you are considering using Voyage.js, be sure to check the official documentation and community resources for the latest information and best practices.
 
+## timsort
+
+> -> mistral large 2
+> tim sort implementation in js
+
+Timsort is a hybrid sorting algorithm derived from merge sort and insertion sort, designed to perform well on many kinds of real-world data. It was implemented as the default sort algorithm for Python and Java. Here's a basic implementation of Timsort in JavaScript:
+
+```javascript
+function insertionSort(arr, left = 0, right = arr.length - 1) {
+  for (let i = left + 1; i <= right; i++) {
+    let temp = arr[i];
+    let j = i - 1;
+    while (j >= left && arr[j] > temp) {
+      arr[j + 1] = arr[j];
+      j--;
+    }
+    arr[j + 1] = temp;
+  }
+}
+
+function merge(arr, l, m, r) {
+  let len1 = m - l + 1;
+  let len2 = r - m;
+  let left = new Array(len1);
+  let right = new Array(len2);
+
+  for (let i = 0; i < len1; i++) {
+    left[i] = arr[l + i];
+  }
+  for (let j = 0; j < len2; j++) {
+    right[j] = arr[m + 1 + j];
+  }
+
+  let i = 0;
+  let j = 0;
+  let k = l;
+
+  while (i < len1 && j < len2) {
+    if (left[i] <= right[j]) {
+      arr[k] = left[i];
+      i++;
+    } else {
+      arr[k] = right[j];
+      j++;
+    }
+    k++;
+  }
+
+  while (i < len1) {
+    arr[k] = left[i];
+    i++;
+    k++;
+  }
+
+  while (j < len2) {
+    arr[k] = right[j];
+    j++;
+    k++;
+  }
+}
+
+function timSort(arr) {
+  const RUN = 32;
+  let n = arr.length;
+
+  for (let i = 0; i < n; i += RUN) {
+    insertionSort(arr, i, Math.min((i + RUN - 1), (n - 1)));
+  }
+
+  let size = RUN;
+  while (size < n) {
+    for (let left = 0; left < n; left += 2 * size) {
+      let mid = left + size - 1;
+      let right = Math.min((left + 2 * size - 1), (n - 1));
+
+      if (mid < right) {
+        merge(arr, left, mid, right);
+      }
+    }
+    size = 2 * size;
+  }
+}
+
+// Example usage
+let arr = [5, 21, 7, 23, 19, 1, 12, 3, 11, 17];
+timSort(arr);
+console.log(arr); // Output: [1, 3, 5, 7, 11, 12, 17, 19, 21, 23]
+```
+
+### Explanation:
+1. **Insertion Sort**: Used to sort small chunks (runs) of the array. The `insertionSort` function sorts a subarray from `left` to `right`.
+2. **Merge**: Combines two sorted subarrays into a single sorted subarray.
+3. **Timsort**:
+   - First, it sorts small chunks (runs) of the array using insertion sort.
+   - Then, it merges these sorted runs using the `merge` function.
+   - The size of the runs starts at `RUN` (typically 32) and doubles each iteration until the entire array is sorted.
+
+This implementation provides a good balance between the efficiency of merge sort and the simplicity of insertion sort for small arrays.
 
 
 

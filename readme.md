@@ -21,11 +21,11 @@
   - lays crisps original
   - burgerking french fries
   - ruby chocolate popsicle
-  - preserved plum
-  - preserved peel
+  - preserved plum & preserved peel
   - tea egg
-  - life size pillow
+  - life size waifu pillow
   - potted plant
+  - mini cooper
   - pure math
   - intuitive web app
 -
@@ -122,7 +122,7 @@
   - pan.icu (wu tao & rio)
   - pretro.xyz (ren ning & rio)
   - ux coffee (riceman & hoka)
-  - web worker (xinbao & lv777 & pakchoi & kaiyi & x smart)
+  - web worker (xinbao & lv777 & pakchoi & kaiyi & smart)
   - yitianshijie (li ruyi)
   - yixi (yixi)
 - 
@@ -191,6 +191,8 @@
   - wikipedia
   - internet archive
   - the pirate bay
+  - github
+  - snapcraft
   - google
   - youtube
   - mistral chat
@@ -210,8 +212,7 @@
   - product hunt
   - dribbble
   - design.google
-  - james sinclair blog
-  - the keyword
+  - james sinclair
   - william long
   - codingnow
   - iconmoon
@@ -333,21 +334,19 @@
 - 遂迷不复得路
 - 念念不忘必有回想
 - 命里有时终须有命里无时莫强求
-- 江畔何人初见月江月何年初照人
-- 年年岁岁花相似岁岁年年人不同
 - 欲买桂花同载酒终不似少年游
+- 江畔何人初见月江月何年初照人
+- 天地者万物之逆旅也光阴者百代之过客也
+- 悟已往之不谏知来者之可追
 - 寓形宇内复几时曷不委心任去留
-- 聊乘化以归尽乐夫天命复何疑
-- 惟江上之清风与山间之明月
 - 鸢飞戾天者望峰息心经伦事务者窥谷忘反
+- 惟江上之清风与山间之明月
+- 以有涯随无涯殆已
 - 壁上小虫忽跃落衿袖间
 - 以神遇而不以目视官知止而神欲行
-- 有意栽花花不开无心插柳柳成荫
 - 为者败之执者失之慎终如始则无败事
-- 天地者万物之逆旅也光阴者百代之过客也
-- 劝君莫惜金缕衣劝君惜取少年时花开堪折直须折莫待无花空折枝
+- 花开堪折直须折莫待无花空折枝
 - 以我观物故物皆着我之色彩
-- 以有涯随无涯殆已
 - 宁为玉碎不为瓦全
 - 壮士断腕义无再辱
 

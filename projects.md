@@ -39,35 +39,53 @@
   - fusuma
   - nodeppt
 
-### `mind` 
+### `board` 
 > elegance of thoughts
-- beautiful progressive web app for mind map
-- keyboard controlled
-  - hotkey for every commend like code
+- present
+  - freedom of unordered thoughts
+  - click to place text 
+  - drag to draw 
+  - double click or right click to add content block
+- inspire
+  - structure of ordered thoughts
+  - food recipe gantt image
+  - math venn image
+  - programming roadmap 
+  - issues kanban
+  - book recommendation list
+  - message timeln 
+  - product features tree
 - markdown based
-  - not just inputting vehicle but files type
-- various styles
-  - mindmap treeview venn
-- themes
+  - static files instead of cloud resources
+- libre
+  - opensource on github
+- pwa based
+  - offline ok
+- various themes
   - by voyage
 - inspired by
   - xmind
   - process on
   - drawio
+  - developer roadmap
 
 ## create
 
 ### `material`
-> workshop of posters
+> the workshop
 - create posters
   - full featured like photoshop
   - easy to use like keynote
 - share cards
-  - youtube vid
+  - yelltube vid
   - berryberry vid
-  - berryberry uploader profile
+  - berryberry profile
   - github repo
-  - medium/wordpress article ...
+  - medium article ...
+- generate memes
+  - nokia phone
+  - azurlane cat
+  - genshin paimon
 - share lists
   - books
   - movies
@@ -84,8 +102,8 @@
   - by voyage
 - inspired by
   - canva
-  - pixelixe
   - snapseed
+  - zzkia
 
 ### `crickets` 
 > auto comment bot "促织"
@@ -178,34 +196,41 @@
   - view and adjust your user avatar
 - capsule things
   - by fav
-- local first
+- local based
   - all blog posts are downloaded local
   - you can read some anywhere anytime
   - downloads and subscriptions can be imported and exported
 - inspired by 
   - rsshub
-  - instapaper
+  - google reader
   - netnewswire
 
 ### `fav` 
-> digital time capsule
+> digital time capsule, yours
 - from anywhere
-  - one script
-  - from bilibili,youtube,zhihu,juejin,medium,...
-- sync anytime
-  auto import regularly
+  - bookmarks
+  - content platforms
+  - imported scripts
 - save everything
-  - cover image,tag,intro,...
-  - quote blogpost podcast video ... 
+  - vid
+  - cover img
+  - intro
+  - comments
+  - etc.
+- categorized in order
+  - tag based
+  - placed in timeln
 - local based
-  - get rid of the fickleness of the cencership
-  - import and export the fav list
-- sync everywhere
-  - github
-  - notion
-  - obsidian
-  - yuque
-  - ...
+  - play anytime
+  - static files instead of remote resources
+  - import and export
+  - sync online
+- various themes
+  - by voyage
+- inspired by
+  - pocket
+  - instapaper
+  - archive box
 
 ### `shelf`
 > the elegance of a bookshelf
@@ -369,6 +394,8 @@ indie games,bangumis,visual novels,fonts,... not included as their databases are
   - by voyage
 - inspired by
   - wes bos
+  - brad traversy
+  - scratch
 
 ### `firascript` 
 > simplicity of a script
@@ -577,6 +604,24 @@ document.body.append(node)
   - zoombie
   - ganstagram
 
+### `opengram`
+> rethink libre
+- telegram sucks
+  - close backend source
+  - dont update app source for months
+  - kill other apps
+  - "telegram is opensource!!11!"
+  - done.
+- rebuild telegram
+  - in real libre way
+- pwa based
+  - offline ok
+- various themes
+  - by voyage
+- inspired by
+  - disquz
+  - matrix
+
 ## channel
 
 ### `fira` 
@@ -667,11 +712,6 @@ document.body.append(node)
 - four weeks horizonal
 - todos vertical
 - one symbol status
-
-### `board`
-> simple excelidraw
-- click to place text
-- drag to place shapes
 
 ### `firststep` 
 > a great journey begins here | choose the language you love
