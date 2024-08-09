@@ -1480,5 +1480,29 @@ companile hotel by jin jiang.
 22:58
 从无障碍卫生间出来，列车里空荡荡的，人下了许多，已经到南京南了。
 
+## 20240809
+
+昨晚看视频,感慨良多
+床上,翻来覆去,辗转反侧
+student he:i am a sponge of all emotions
+by spicy pidan porridge & so reliable old jiang
+
+总之就是凌晨4:00多睡的,起来中午了,没啥精神,一整天
+
+影视飓风也发视频了,和mini合作(车真好看)
+也是怀旧总结,不过比student he神气多了.
+舒服.
+
+没精神的话,还是看ruanyf weekly.
+
+最重要的事情:
+-> mistral.md
+**functional programming**
+**object oriented programming**
+
+我是喜欢函数式编程的.而今天里其他的发生都太琐碎,
+**fp|oop将决定我一生道路,映照我的性格,预示我的命运**
+
+
 
 

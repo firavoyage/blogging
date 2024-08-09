@@ -5,18 +5,18 @@
 ## 20240809
 
 > summer vacation daily
-- visit digital home (al)
+- visit digital home (al sr)
 - eat (bilimiao)
 > summer vacation day
 - read ruanyf weekly & save quotes(-> ruanyf)
-- read "math challenger" & design pure math (-> /pure.dailyab)
-- read "javascript tut" & design intuitive (-> /intuitive.voyage.fresh)
-- revise projects (structured details & inspired by)
+- read "math challenger" & design pure math (-> /pure)
 - implement voyage.js (-> /voyagejs)
+- design intuitive fresh (-> /intuitive)
 > summer vacation night
+- revise projects (structured details & inspired by)
+- redesign fav (trim and move)
 - classify web (tags)
 - classify memories (comments & discoveries | tags)
-- redesign fav (trim and move)
 - play rpgs (sr hg)
 - watch simplelive
 - watch bangumis ("yosuga no sora" "mygo")

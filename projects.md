@@ -143,9 +143,33 @@
 
 ## perceive
 
-### `pepper`
-> fav livestreams never stop
-- watch replays like watching live
+### `float`
+> listen in solitude
+- from everywhere
+  - index by search engines
+  - source from any music and video sites
+- distraction free
+  - no ads no stats no comments
+  - away from the hustle and bustle
+- transparent algorithm
+  - ranking 
+  - recommendation
+- full featured
+  - songs
+  - podcasts
+  - profiles
+  - albums
+  - etc.
+- local based
+  - multi download
+  - import and export
+  - sync with most platforms
+- various themes
+  - by voyage
+- inspired by
+  - spotify
+  - apple music
+  - my free mp3
 
 ### `berryberry`
 > rethink your bilibili
@@ -160,34 +184,9 @@
 - distraction free
 - theme by voyage
 
-### `float`
-> listen in solitude
-- all platforms
-  - songs index from search engines
-  - source from popular music sites and video sites
-  - work with albums and lists
-  - by webview and nodejs
-- distraction free
-  - no comments,clubs,communities,lives...
-  - away from the hustle and bustle of modern internet
-- transparent recommendation
-  - change the recommendation algorithm by just importing a script
-  - view and adjust your user avatar
-- multi download
-  - like material file
-- local based
-  - songs downloaded local
-  - preference stored local
-- not afraid of takedown
-  - like a browser or a magnet downloader
-  - no source included
-- various themes
-  - by voyage
-
 ### `eat`
 > survive the content farms | breathe in the digital age
-- all platforms,one subscription list
-  - like google reader
+- one subscription list for everywhere
   - work with popular blog sites and video sites
   - not status sites so instagram reddit twitter aint included
 - trending page included
@@ -277,7 +276,7 @@ indie games,bangumis,visual novels,fonts,... not included as their databases are
 - markdown based
 
 ### `pure` 
-> my desired math courses | difficulities in great simplicity
+> my desired math courses | difficulities in great simplicity | math noskill
 > -> /pure
 - simplicity
   - no word can be removed like in an abstracted syntax tree
@@ -294,7 +293,7 @@ indie games,bangumis,visual novels,fonts,... not included as their databases are
   - bach classics & english vintage ballads & vocaloids everywhere
   - invite life-size waifus but no hentai (some serious characters like herta or fuxuan)
 - print course
-  - stay away from the hustle and bustle of internet
+  - stay away from the hustle and bustle
   - every course is printable
   - same experience from watching to reading
 - dailyab
@@ -466,9 +465,10 @@ for(i arr j brr){A} //for(let __fs_i=0,i=arr[__fs_i],j=brr[__fs_i];__fs_i<arr.le
   - `each(first,last,step=1)` return an array of numbers,like python,used in `for(i of each(1,10)){}`
   - then you get "firascript in javascript"
   - it has consts(`consts={when:"addEventListener",select:"document.querySelector",selectId:"document.getElementById"}`) and functions(`functions={case(){},repeat(){},each(){}}`) and `define(obj,where)`.
-  - it ain't oop,it separates data(`define(consts)`) and fn(`define(functions)`)
-  - it has 2 condition operators,`if()`(including `else if()` and `else`) and `case()`
-  - it has 4 loop operators,`repeat()`,`for(i of each())`,`for(i of arr)`,`while()`
+  - separates data(`define(consts)`) and fn(`define(functions)`)
+- operators
+  - 2 for condition,`if()`(incl `else`), `case()`
+  - 4 for loop,`repeat()`,`for(i of each())`,`for(i of arr)`,`while()`
 - inspired by 
   - arc lang (-> arc.txt)
   - javascript (-> javascript.md)
@@ -592,7 +592,6 @@ document.body.append(node)
 - inspired by
   - alpinejs
   - sveltejs examples
-  - vuejs examples
   - reactjs
 
 ### `fresh` 

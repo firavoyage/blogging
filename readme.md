@@ -23,10 +23,11 @@
   - ruby chocolate popsicle
   - preserved plum & preserved peel
   - tea egg
-  - life size waifu pillow
   - potted plant
+  - life size waifu pillow
+  - camphor wood
   - mini cooper
-  - pure math
+  - pure noskill math
   - intuitive web app
 -
   - wind of change (scorpions)
@@ -131,7 +132,7 @@
   - diygod
   - interpreter gavin
   - new national debation
-  - spicy century egg porridge
+  - spicy pidan porridge
   - paperclip
   - unfettered idle man
   - edmund d zhang

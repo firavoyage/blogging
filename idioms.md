@@ -157,5 +157,11 @@ make tools elegant.
 
 读者意识和现实针对性。
 
+真的,就很你
+
+我的想法很简单.像往常一样编程,然后不用`new`,`class`,`prototype`,`this`,`extend`,`export`.
+这就是函数式编程.我喜欢函数式编程.
+**fp|oop将决定我一生道路,映照我的性格,预示我的命运**
+(-> mistral.md /functional programming | /object oriented programming)
 
 

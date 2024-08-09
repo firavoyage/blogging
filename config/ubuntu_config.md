@@ -208,6 +208,7 @@ chrome://flags/#chrome-webui-refresh-2023
 - import passwords
 > -> git/blogging/config/chromium_passwords.zip
 - config extensions
+  - justblack `https://chromewebstore.google.com/detail/just-black/aghfnjkcakhmadgdomlmlhhaocbkloab`
   - adguard `https://chromewebstore.google.com/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg`
     - filters `ad blocking` `privacy` `annoyance` `...`
     - import settings `git/blogging/config/list_adguard.json`
@@ -220,7 +221,8 @@ chrome://flags/#chrome-webui-refresh-2023
     - zhihu dark mode `https://greasyfork.org/en/scripts/408224`
     - allow in incognito
   - bewlybewly `https://chromewebstore.google.com/detail/bewlybewly/bbbiejemhfihiooipfcjmjmbfdmobobp`
-  - justblack `https://chromewebstore.google.com/detail/just-black/aghfnjkcakhmadgdomlmlhhaocbkloab`
+  - wayback machine `https://chromewebstore.google.com/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak`
+    - login
 - config fonts
   - standard `roboto`
   - serif `noto serif cjk sc`
@@ -281,42 +283,32 @@ sudo apt-get install code
 > from -> git/blogging/config/cpp.code-snippets
 > to -> file > preferences > configure user snippets
 - config shortcuts
-```
-duplicate selection `ctrl d`
-insert line below `shift enter`
-
-run code `ctrl r`
-```
+  - duplicate selection `ctrl d`
+  - insert line below `shift enter`
+  - run code `ctrl r`
 > ctrl k ctrl s
 - use shortcuts
-```
-do anything `ctrl shift p`
-
-open settings page `ctrl ,`
-
-open nav bar `alt`
-open side bar `ctrl b`
-open explorer `ctrl shift e`
-open extensions `ctrl shift x`
-
-new file `ctrl n`
-close file `ctrl w`
-
-preview markdown `ctrl shift v`
-view all markdown headers `ctrl t`
-
-skip words `ctrl leftarrow|rightarrow`
-scroll page `ctrl uparrow|downarrow`
-select letters `shift leftarrow|rightarrow`
-select words `ctrl shift leftarrow|rightarrow`
-select blocks `shift alt leftarrow|rightarrow`
-duplicate cursor `ctrl shift uparrow|downarrow` | `shift alt uparrow|downarrow` | `alt click` 
-move current line `alt uparrow|downarrow`
-
-stop code running in terminal `ctrl c`
-
-reset cursor `esc`
-```
+  - do anything `ctrl shift p`
+  - open settings page `ctrl ,`
+  - open nav bar `alt`
+  - open side bar `ctrl b`
+  - open explorer `ctrl shift e`
+  - open extensions `ctrl shift x`
+  - new file `ctrl n`
+  - close file `ctrl w`
+  - format code `ctrl shift i`
+  - preview markdown `ctrl shift v`
+  - view all markdown headers `ctrl t`
+  - stop code running in terminal `ctrl c`
+  - skip words `ctrl leftarrow|rightarrow`
+  - scroll page `ctrl uparrow|downarrow`
+  - select letters `shift leftarrow|rightarrow`
+  - select words `ctrl shift leftarrow|rightarrow`
+  - select line `ctrl l`
+  - select blocks `shift alt leftarrow|rightarrow`
+  - duplicate cursor `ctrl shift uparrow|downarrow` | `shift alt uparrow|downarrow` | `alt click` 
+  - move current line `alt uparrow|downarrow`
+  - reset cursor `esc`
 
 # git
 - config 

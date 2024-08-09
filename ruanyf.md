@@ -2934,13 +2934,17 @@ https://xw.qq.com/partner/hwbrowser/20190128A0BHUQ/20190128A0BHUQ00?ADTAG=hwb&pg
 
 https://www.bookofjoe.com/2019/03/why-do-old-books-smell.html
 
-## why functional programming instead of objectward programming quote
+## why functional programming not objectward programming quote
 
 面向对象编程的问题是，默认带有环境。你只想要一个香蕉，但是得到了一只拿着香蕉的大猩猩，甚至还有整个丛林。
 
 -- 计算机语言大师 Joe Armstrong，2019年4月20日去世。他非常不喜欢面向对象编程，发明了函数式语言 Erlang。
 
 http://www.defprogramming.com/quotes-by/joe-armstrong/
+
+(the original)
+
+The problem with object-oriented languages is they’ve got all this implicit environment that they carry around with them. You wanted a banana but what you got was a gorilla holding the banana and the entire jungle.
 
 ## high revenue is high scalability view
 
@@ -3186,7 +3190,7 @@ https://practicaltypography.com/typography-2020.html
 
 本文介绍评论了美国2020年总统大选的参选人的网站设计，目前一共有几十个参选人。
 
-## why oopl(object oriented programming language) sucks view theory
+## why oo(object oriented programming language) sucks view theory
 
 为什么面向对象编程糟透了？（英文）
 
@@ -6275,6 +6279,118 @@ https://github.com/jwenjian/ghiblog/issues/114
 ![](https://www.wangbase.com/blogimg/asset/201910/bg2019101020.jpg)
 
 美国农业部为全世界已知水果制作了 7500 幅水彩"证件照"，并提供高清下载。作者讲述自己如何编写 Python 爬虫，抓取这些图片。（@jwenjian 投稿）
+
+## chinese indie blogs library
+
+中文独立博客列表
+
+https://github.com/timqian/chinese-independent-blogs
+
+该仓库根据 feedly 的 RSS 订阅数，列出了主要的中文独立博客。（@timqian 投稿）
+
+## how is auto drive quote
+
+特斯拉汽车的自动驾驶可以挽救数百万人的生命，但它可能首先会造成一些人的死亡，然后才能达到这个目标。
+
+-- 彭博社
+
+https://www.bloomberg.com/news/features/2019-10-09/tesla-s-autopilot-could-save-the-lives-of-millions-but-it-will-kill-some-people-first?srnd=businessweek-v2
+
+## obvious ui is better view theory
+
+明显的 UI 通常是最好的 UI。
+
+-- Medium 文章
+
+https://medium.com/google-design/the-obvious-ui-is-often-the-best-ui-7a25597d79fd
+
+(the original)
+
+### The Obvious UI is Often the Best UI
+
+### Design clear interactions instead of clever ones, and users will follow
+
+![](https://miro.medium.com/v2/resize:fit:1400/0*mDApa3RLAhnA3oNp)
+
+Illustration by Thanh Tran, UX Designer
+
+Voltaire said, "*le sens commun est fort rare"---c*ommon sense is very rare. Perhaps to realize that a certain decision is common sense, one has to have enough life experience to know the right path to take , at which point certain choices become common sense and don't require much analysis.
+
+When we talk about common sense with product design, what we now see as strikingly obvious may not have been so apparent to designers when they first started. For a long time, designers have endeavored to make products as easy to use and navigate as possible. However, in order to highlight their products' features, it has taken time for designers to understand users' needs and challenges and iterate.
+
+### Bottom navigation bar = increased usage
+
+Google Product Director [Luke Wroblewski](https://www.lukew.com/about/) espoused the design principle "[obvious always wins](https://www.lukew.com/ff/entry.asp?1945=)," and pushed designers to recognize that clear interactions outperform clever ones. After analyzing the user engagement statistics of apps that switched from semi-hidden navigation within [hamburger menus](https://en.wikipedia.org/wiki/Hamburger_button) to more visible [bottom navigation bars](https://material.io/guidelines/components/bottom-navigation.html#), and apps that switched from more exposed to semi-hidden navigation, Wroblewski saw a trend. "Navigation is the manifestation of what is possible in an app and when people can't see what's possible, they likely won't know what they can/should do in that app," he told me in an interview about this idea. Increasing visibility boosts usage.
+
+When the project management app [Redbooth](https://redbooth.com/blog/hamburger-menu-iphone-app?utm_campaign=iOS_Dev_Weekly_Issue_181&utm_medium=email&utm_source=iOS%2BDev%2BWeekly) (formerly called Teambox) switched from a hamburger menu to a bottom navigation bar, session time increased 70 percent, and daily active users increased by 65 percent nearly overnight. Functionality that had been previously hidden in the hamburger menu was now front and center for Redbooth users to find.
+
+![](https://miro.medium.com/v2/resize:fit:1400/0*AgEXYt-9-n2J6Lpn)
+
+Before: The Redbooth (Teambox) app previously used a hamburger menu. After: The app switched to a bottom navigation menu and saw a 65 percent increase in daily active users and a 70 percent increase in session time.
+
+On the flip side, Wroblewski found that making it harder to find common features reduced user engagement. When the (former) Polar app simplified their navigation design from a segmented control menu to a toggle menu to make the design seem "cleaner," user engagement dropped because the primary functions were no longer continually exposed to users.
+
+![](https://miro.medium.com/v2/resize:fit:1400/0*1u5vN7Z1imyRpDxO)
+
+Before: Segmented control menu showed three tabs at the top. After: Daily engagement decreased when Polar added a toggle menu with the "Top" label
+
+Bottom navigation bars and accessibility
+
+Making design more obvious might sometimes have a side benefit of also making the design more accessible. Ergonomically, it's easier for users with big phones or tablets to touch the bottom navigation bar using one finger than it is to hold the phone with one hand and use the other to tap on the hamburger menu in the top left. Bottom navigation is also critical for accessibility reasons. In an email interview, Google Brand Manager Aubrie Lee said that users with muscular dystrophy and other mobility impairments cannot always reach the upper portion of the screen. "This is a game changer. For disabled people, technology isn't just a convenience --- it's often the difference between confinement and independence. Having these bottom navigation buttons is going to make life so much easier for so many of us."
+
+"Obvious" icons are not always "universal" icons
+
+Obvious design isn't only about location of components, but also how easy it is for a user to understand the actions and options in a UI. For example, not all users will immediately understand icons and symbols. The $ symbol means dollars or money in the US, Canada and some other countries, but is not the symbol for currency worldwide.
+
+Someone who grew up using computers with floppy disks will most likely automatically know what a floppy disk is and recognize that a floppy disk icon means "save." However, for those who began to use computers in the 21st century and who never saw a floppy disk, the floppy disk save icon may look like a mobile phone SIM card with a rectangular and circular hole and a missing corner. Those users may not understand the meaning of the floppy disk save icon.
+
+![](https://miro.medium.com/v2/resize:fit:1400/0*bOChaMcPoXCmKm-C)
+
+The upload, delete, voicemail, speaker, save, and credit card icons are common, yet may confuse users if they are not paired with a text label.
+
+To make designs easy to understand at first glance, consider these two suggestions:
+
+Pair text with an icon
+
+In the Google I/O talk [Designing Great Apps for New Internet Users](https://youtu.be/Fo-1qrHeQXQ), Garen Checkley and Tracy Lindsay Chan of YouTube Go showed that the combination of icon and text is important for users to remember what an affordance does. The "receive" button has both text and an icon to make it clear what will happen when the user taps the button.
+
+Combining text and icon also makes your product more accessible. It's easier for people scanning a page to understand what a button means when the button has text and an icon.
+
+When [Google Translate combined text and icon](https://medium.com/google-design/a-fish-in-your-ear-134deed70268) for the features below the main translation box, the use of the handwriting feature increased by 25 percent. Some users thought the features below the main box were new even though they had existed for years. Without the text labels, users didn't understand the value of the features, and therefore didn't use the features.
+
+![](https://miro.medium.com/v2/resize:fit:1400/0*24guSnnmXQu2zi3n)
+
+Before: Google Translate only showed icons. After: Google Translate added text for the icons and usage of the handwriting feature increased 25%
+
+Use just text, add hint text, and add labels with icons
+
+The "upload" icons may make sense to someone who is used to uploading content to a cloud memory service. However, for some users, there may be no concept of "up" or "down" movement when it comes to adding their photographs from their computer to their cloud photo storage.
+
+To make it clear to Google Photos desktop web edition users how to search through photos and upload new photos, the Google Photos team replaced the upload icon with an "upload" text button and added search hints in the search box. Similar to YouTube Go's and Translate's pairing of text with icon, the Google Photos team added the labels "album," "assistant," and "photos" below the icons.
+
+![](https://miro.medium.com/v2/resize:fit:1400/0*sDLz4R5pslT0jvkT)
+
+Icons with text labels added to them, icons replaced by text labels, and added search hints improved the usability of Google Photos
+
+### Copying other UIs does not guarantee obvious design
+
+However, making something obvious doesn't mean assuming that because another app has a certain look, that it is the best choice for your product. It may seem easy to copy what other apps do---especially popular apps---and assume that it's a good design. You don't know how much, if any, research is behind the company's choice to use a certain design pattern or component.
+
+### To find the obvious, get close to the problem
+
+Without waiting for years of usage data or hiring a researcher, how does a designer know what is obvious or even common sense to a user? "The closer you are to the pain, the more you care about solving it," Wroblewski says. If you are making a product to solve a problem you have, then you are likely to know the product's core features and how they solve your problem.
+
+If you are not your target user, then you have to observe users, learn, and iterate. This does not require huge research and travel budgets or even having large amounts of usage data. It involves talking to potential and existing users and finding out what problems they have or imagining yourself as a user. Wroblewski recommends [Rapid Iterative Testing and Evaluation (RITE) Testing](https://en.wikipedia.org/wiki/RITE_Method). "Every week, we take whatever we worked on, we put it in front of human beings and watch them try to use it. You're always going back to immersing yourself with the customer or the potential customer. When a designer says, 'I sat with this person and I saw he couldn't do what he wanted because our design failed him,' that's very visceral and very real," he says.
+
+Spend time with users often and regularly and your designs will become more relevant, appropriate, and "obvious." It's not until you understand the problem space that you can clearly appreciate what is "obvious" or even "common sense" and create designs that are easy to use.
+
+## screen recorder web app
+
+在线屏幕录制
+
+https://www.p2hp.com/screenrecord.html
+
+一个浏览器里面的在线录屏小工具。（@w3yyb 投稿）
 
 ## 
 

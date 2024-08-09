@@ -1240,15 +1240,15 @@ Use the following Python code: `print("Hello, world!")`
 To insert a block of code, use triple backticks (). For example:
 
 ```markdown
-```python
+\```python
 def add(x, y):
     return x + y
 
 print(add(2, 3))
-```
+\```
 ```
 
-## Tables
+### Tables
 
 To create a table, use pipes (|) and dashes (-) to separate columns and rows. For example:
 
@@ -1723,6 +1723,218 @@ console.log(arr); // Output: [1, 3, 5, 7, 11, 12, 17, 19, 21, 23]
 
 This implementation provides a good balance between the efficiency of merge sort and the simplicity of insertion sort for small arrays.
 
+## functional programming
+
+> -> mistral large 2
+> functional programming
+
+Functional programming (FP) is a programming paradigm that treats computation as the evaluation of mathematical functions and avoids changing-state and mutable data. It emphasizes the use of pure functions, immutability, and higher-order functions. Here are some key concepts in functional programming:
+
+1. **Pure Functions**: A pure function is a function where the output value is determined only by its input values, without observable side effects. This means that calling a pure function with the same arguments will always return the same result.
+
+2. **Immutability**: In functional programming, data is immutable, meaning it cannot be changed once created. Instead of modifying existing data, you create new data.
+
+3. **First-Class and Higher-Order Functions**: Functions are treated as first-class citizens, meaning they can be passed as arguments to other functions, returned as values from other functions, and assigned to variables. Higher-order functions are functions that take other functions as arguments or return them as results.
+
+4. **Function Composition**: This involves combining simple functions to build more complex ones. It's a powerful technique that promotes code reuse and modularity.
+
+5. **Avoiding Side Effects**: Functional programming aims to minimize side effects, which are changes in state or interactions with the outside world (like I/O operations) that occur during the calculation of a result.
+
+6. **Declarative**: Functional programming is declarative rather than imperative. This means you describe what you want to do, not how to do it.
+
+Here's a simple example in JavaScript using some of these concepts:
+
+```javascript
+// Pure function
+const add = (x, y) => x + y;
+
+// Higher-order function
+const applyOperation = (x, y, operation) => operation(x, y);
+
+// Function composition
+const multiply = (x, y) => x * y;
+const addThenMultiply = (x, y, z) => multiply(add(x, y), z);
+
+// Usage
+console.log(applyOperation(2, 3, add)); // Output: 5
+console.log(addThenMultiply(2, 3, 4)); // Output: 20
+```
+
+Popular languages for functional programming include Haskell, Lisp, Clojure, Erlang, and F#. However, many multi-paradigm languages also support functional programming, such as JavaScript, Python, Java, and C++.
+
+## object oriented programming
+
+> -> mistral large 2
+> object oriented programming
+
+Object-oriented programming (OOP) is a programming paradigm based on the concept of "objects," which can contain data and code: data in the form of fields (often referred to as attributes or properties), and code, in the form of procedures (often referred to as methods). Here are the key concepts of OOP:
+
+1. **Classes and Objects**:
+   - A **class** is a blueprint for creating objects. It defines a set of properties and methods that the objects created from the class will have.
+   - An **object** is an instance of a class. It represents a concrete entity that has a state (values of its properties) and behavior (methods).
+
+2. **Encapsulation**:
+   - Encapsulation is the bundling of data with the methods that operate on that data.
+   - It hides the internal state and requires all interaction to be performed through an object's methods, which is known as data hiding.
+
+3. **Inheritance**:
+   - Inheritance is a mechanism where one class (subclass or derived class) acquires the properties (methods and fields) of another class (superclass or base class).
+   - It promotes code reuse and establishes a hierarchical relationship between classes.
+
+4. **Polymorphism**:
+   - Polymorphism allows methods to do different things based on the object it is acting upon.
+   - It enables one interface to be used for a general class of actions, providing a way to perform a single action in different forms.
+
+5. **Abstraction**:
+   - Abstraction focuses on the essential characteristics of an object, ignoring the unnecessary details.
+   - It helps in managing complexity by providing a simplified model of the system.
+
+Here's a simple example in Python to illustrate these concepts:
+
+```python
+# Define a class named Animal
+class Animal:
+    def __init__(self, name):
+        self.name = name
+
+    def speak(self):
+        pass
+
+# Define a subclass named Dog that inherits from Animal
+class Dog(Animal):
+    def speak(self):
+        return "Woof!"
+
+# Define a subclass named Cat that inherits from Animal
+class Cat(Animal):
+    def speak(self):
+        return "Meow!"
+
+# Create objects of Dog and Cat
+dog = Dog("Buddy")
+cat = Cat("Whiskers")
+
+# Polymorphism in action
+animals = [dog, cat]
+for animal in animals:
+    print(f"{animal.name} says {animal.speak()}")
+```
+
+In this example:
+- `Animal` is a base class with a method `speak`.
+- `Dog` and `Cat` are subclasses that inherit from `Animal` and override the `speak` method.
+- Objects `dog` and `cat` are instances of `Dog` and `Cat`, respectively.
+- Polymorphism is demonstrated when the `speak` method is called on each animal in the list, producing different outputs based on the type of the animal.
+
+> -> mistral large 2
+> object oriented programming in js
+
+Object-Oriented Programming (OOP) in JavaScript is a programming paradigm that uses objects and classes to organize and structure code. JavaScript supports OOP through prototypes and, more recently, through the `class` syntax introduced in ECMAScript 2015 (ES6). Below are the key concepts and examples of OOP in JavaScript:
+
+### Key Concepts
+
+1. **Classes**: A blueprint for creating objects.
+2. **Objects**: Instances of classes that contain data (properties) and behavior (methods).
+3. **Inheritance**: A mechanism where one class can inherit properties and methods from another class.
+4. **Encapsulation**: Bundling data and methods that operate on the data within one unit (class).
+5. **Polymorphism**: The ability to present the same interface for different data types.
+
+### Example
+
+#### Defining a Class
+
+```javascript
+class Animal {
+  constructor(name) {
+    this.name = name;
+  }
+
+  speak() {
+    console.log(`${this.name} makes a noise.`);
+  }
+}
+
+// Creating an instance of the Animal class
+const myAnimal = new Animal('Generic Animal');
+myAnimal.speak(); // Output: Generic Animal makes a noise.
+```
+
+#### Inheritance
+
+```javascript
+class Dog extends Animal {
+  speak() {
+    console.log(`${this.name} barks.`);
+  }
+}
+
+const myDog = new Dog('Buddy');
+myDog.speak(); // Output: Buddy barks.
+```
+
+#### Encapsulation
+
+JavaScript does not have strict access modifiers like private or protected, but you can use conventions and closures to achieve encapsulation.
+
+```javascript
+class Person {
+  constructor(name, age) {
+    this._name = name; // Convention for "protected"
+    this._age = age;   // Convention for "protected"
+  }
+
+  getName() {
+    return this._name;
+  }
+
+  getAge() {
+    return this._age;
+  }
+
+  setAge(age) {
+    if (age > 0) {
+      this._age = age;
+    }
+  }
+}
+
+const person = new Person('John', 30);
+console.log(person.getName()); // Output: John
+console.log(person.getAge());  // Output: 30
+person.setAge(35);
+console.log(person.getAge());  // Output: 35
+```
+
+#### Polymorphism
+
+```javascript
+class Cat extends Animal {
+  speak() {
+    console.log(`${this.name} meows.`);
+  }
+}
+
+const myCat = new Cat('Whiskers');
+myCat.speak(); // Output: Whiskers meows.
+
+// Polymorphism in action
+const animals = [new Animal('Generic Animal'), new Dog('Buddy'), new Cat('Whiskers')];
+animals.forEach(animal => animal.speak());
+// Output:
+// Generic Animal makes a noise.
+// Buddy barks.
+// Whiskers meows.
+```
+
+### Summary
+
+- **Classes** define the structure and behavior of objects.
+- **Objects** are instances of classes.
+- **Inheritance** allows classes to inherit properties and methods from other classes.
+- **Encapsulation** helps in bundling data and methods together.
+- **Polymorphism** allows methods to be used interchangeably across different classes.
+
+By using these concepts, you can create more organized, reusable, and maintainable code in JavaScript.
 
 
 
