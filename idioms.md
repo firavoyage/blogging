@@ -164,4 +164,6 @@ make tools elegant.
 **fp|oop将决定我一生道路,映照我的性格,预示我的命运**
 (-> mistral.md /functional programming | /object oriented programming)
 
+不自由不累.
+
 

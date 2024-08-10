@@ -6288,7 +6288,7 @@ https://github.com/timqian/chinese-independent-blogs
 
 该仓库根据 feedly 的 RSS 订阅数，列出了主要的中文独立博客。（@timqian 投稿）
 
-## how is auto drive quote
+## tesla auto driving is tradeoff between killing some and saving a lot quote
 
 特斯拉汽车的自动驾驶可以挽救数百万人的生命，但它可能首先会造成一些人的死亡，然后才能达到这个目标。
 
