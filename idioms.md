@@ -147,7 +147,7 @@ your overthinking is my opportunity
 
 Dorothy followed her through many of the beautiful rooms in her castle.
 
-offline progressive web app suki!
+offline progressive web app.
 
 看三做二说一
 
