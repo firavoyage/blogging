@@ -379,9 +379,9 @@
   - `/intuitive` intuitive web dev
   - `/pure` pure math
 - config
+  - `/config` preferences and shortcuts
   - `/config` `ubuntu config` elegant work flow
   - `/config` `chromium bookmarks` source of all
-  - `/shortcut` terminal shortcuts
 - notes
   - `/notes` `plain` plain english guide
   - `/notes` `competitive` competitive programming guide

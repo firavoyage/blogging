@@ -2695,5 +2695,11 @@ typescript,最后会编译成javascript来运行
 
 这是"is ts needed"的关键
 
+## not being in love
+
+为什么?
+因为恋爱不刺激.我说的是**个人化现实演绎**.
+没有小说(游戏)刺激,更没有赌博(创业)刺激.
+哈哈.
 
 

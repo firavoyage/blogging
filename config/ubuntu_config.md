@@ -318,6 +318,12 @@ git config --global user.email "devvhy@zohomail.cn"
 git config --global push.autoSetupRemote true
 git config --global credential.helper store
 ```
+> -> git/blogging/config/git_config.txt
+- use shortcuts
+```
+...
+```
+> -> git/blogging/config/git_shortcut.txt
 
 # fcitx5
 - install
