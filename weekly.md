@@ -9,9 +9,9 @@
 - eat (bilimiao)
 > summer vacation day
 - read ruanyf weekly & save quotes(-> ruanyf)
-- read "math challenger" & design pure math (-> /pure)
 - implement voyage.js (-> /voyagejs)
-- design intuitive fresh (-> /intuitive)
+- read "math challenger" & design pure math (-> /pure)
+- design intuitive.fresh (-> /intuitive)
 > summer vacation night
 - revise projects (structured details & inspired by)
 - redesign fav (trim and move)

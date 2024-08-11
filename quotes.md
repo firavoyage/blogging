@@ -92,5 +92,42 @@ berryberry的计数单位是万。yelltube的计数单位是k,m,b
 他们不炒冷饭,也没人炒他们的冷饭.
 遍历你的追想,想哪条争议不尽如此.
 
+我口袋里有一个小设备，可以访问几乎全部的人类知识。我却用它与不认识的人进行毫无意义的争论，并看猫的照片。
+
+-- HN 读者
+
+https://news.ycombinator.com/item?id=21360284
+
+## oi sucks
+
+oi中最重要的就是速度.所以用cpp.
+可是这玩意,太笨了,
+像循环1,10,就很傻...
+```cpp
+for(int i=1;i<=10;i++){
+  //...
+}
+```
+当然你可以用macro(`#define`)优化.
+或者,更安全地,用class(oop sucks!),用iterator,vector...,只不过那样更复杂了,不如不用
+```cpp
+//#define ...
+each(i,1,10){
+  //...
+}
+```
+然后key value pair是不内置的,你得自己写个hash函数...
+但是,取地址这玩意也太搞笑了...
+想想看,函数和数组,作为参数和返回值,多么复杂
+以至于我们最后往往都写成了全局变量...
+
+## words strong
+
+really simple approach.
+
+may will -> shall must
+can has -> be (nounified word)
+not only ... but also ... -> not ... but ...
+a is b -> not a is not b
 
 

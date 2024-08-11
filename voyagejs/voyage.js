@@ -1,40 +1,38 @@
-//voyagejs
-
-let firascript={
-  case(value,pairs,stop=false){
-  
-  },
-  repeat(fn,times=-1){
-    
-  },
-  each(first,last,step=1){
-    
-  }
-}
+//voyage.js 0.1
 
 let voyage={
   data:{}, //key and value
-  bind:{}, //key and function
+  bind:{}, //key and functions
   count:{}, //name and count
   fn:{}, //pure functions
-  new(name){
-    
-  }, //count name,get "name_1" or "name_2" or ...
+  node(type,labels={},contents,binds,keys){
+    //create element
+    let element={}
+    element.t=type //tag
+    element.a=labels //attributes
+    element.c=contents //children
+    element.f=binds //functions
+    element.d=keys //data
+    return element
+  },
+  key(name){ 
+    //generate key by name "name_1" "name_2"
+  }, 
   set(key,value){
-
-  }, //set key,call everything binded
+    //set its value and call its binds
+  }, 
   get(key){
-
-  }, //get its value
+    //get its value
+  },
   how(element,key){
-
-  }, //get own prop
-  node(id){
-    
-  } //give element id,get Node
+    //get own prop
+  }, 
+  where(id){
+    //give element id,get Node
+  }, 
   run(element){
-
-  }, //bind element data,get Node
+    //bind element data,get Node
+  }, 
 }
 
 ```

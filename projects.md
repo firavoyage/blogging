@@ -14,7 +14,7 @@
 - markdown extended
   - various content blocks
   - collapse and show more
-  - by para compiler
+  - by parac
 - themes to choose
   - by voyage
 - local based
@@ -171,19 +171,6 @@
   - apple music
   - my free mp3
 
-### `berryberry`
-> rethink your bilibili
-- tag based
-  - like youtube second nav
-  - mihoyo doujin
-  - mihoyo update
-  - tech news
-  - novel apps
-- stat nums to rate
-- progressive loading
-- distraction free
-- theme by voyage
-
 ### `eat`
 > survive the content farms | breathe in the digital age
 - one subscription list for everywhere
@@ -200,9 +187,10 @@
   - you can read some anywhere anytime
   - downloads and subscriptions can be imported and exported
 - inspired by 
-  - rsshub
   - google reader
-  - netnewswire
+  - net news wire
+  - rsshub
+  - webfollow top rss list
 
 ### `fav` 
 > digital time capsule, yours
@@ -343,12 +331,13 @@ indie games,bangumis,visual novels,fonts,... not included as their databases are
 
 ## dev
 
-### `paracompiler`
+### `parac`
 > elegant md html compiler
 - markdown extended
   - icon images
   - block style
 - configurable
+  - header style
   - line break style
   - identation style
 - work with mdlint
@@ -377,7 +366,7 @@ indie games,bangumis,visual novels,fonts,... not included as their databases are
   - cr local:ideas ignored by supercell,human-like opponents
 - why javascript
   - use bracket symbols while some use words like begin end
-  - use math expressions while some put operaters before
+  - use math expressions like a+b and f(x) while some put operaters before
   - object oriented programming support while some use address method
   - functional programming support while some does not consider functions as variables
   - flexible syntax while some have strict limits like line end semicolons and main functions
@@ -394,6 +383,7 @@ indie games,bangumis,visual novels,fonts,... not included as their databases are
 - inspired by
   - wes bos
   - brad traversy
+  - rodrigo pombo
   - scratch
 
 ### `firascript` 
@@ -514,14 +504,32 @@ for(i arr j brr){A} //for(let __fs_i=0,i=arr[__fs_i],j=brr[__fs_i];__fs_i<arr.le
 - voyage element
   - elements are instance of Object, not Node 
   - dataKeys in d are binded,if one of them changes,call f
+  - object based
 ```
 e={
   t "div" //tag
-  a {id "app" style {color "gold" z-index "666"}} //attributes
+  a {id "app" style {color "gold" z-index "6"}} //attributes
   c [{t "button"} {t "input"}] //children
   f ["show"] //function keys
   d ["button_1"] //data keys
 } 
+```
+  - arrayified
+```
+e=[
+  "div" //tag
+  {id "app" style {color "gold" z-index "6"}} //attributes
+  [["button"] ["input"]] //children
+  ["show"] //function keys
+  ["button_1"] //data keys
+] 
+```
+- functionified
+```
+e=function div(id="app",style={color "gold" z-index "6"},f=["show"],d=["button_1"]){
+  button()
+  input()
+}
 ```
 - voyage component
   - components are functions,give it data and then get element
@@ -591,17 +599,26 @@ document.body.append(node)
   - for each function,call fn(id,data)
 - inspired by
   - alpinejs
-  - sveltejs examples
+  - mithriljs
+  - sveltejs
   - reactjs
 
 ### `fresh` 
-> rethink popular apps not just css
-  - bing/baidu googlified
-  - digdog
-  - berryberry
-  - snapcat
-  - zoombie
-  - ganstagram
+> rethink popular apps beyond styling
+- berryberry
+  - tag based (mihoyo doujin | indie projects | novel apps)
+  - rating or stars instead of count nums
+  - api based progressive loading
+  - distraction free
+- yelltube
+- bing googlified
+- mastodon birdified
+- digdog
+- snapcat
+- zoombie
+- ganstagram
+- various themes 
+  - by voyage
 
 ### `opengram`
 > rethink libre
@@ -613,7 +630,11 @@ document.body.append(node)
   - done.
 - rebuild telegram
   - in real libre way
+- web chat
+  - between same page viewers
 - pwa based
+  - one tap open
+  - sync notification 
   - offline ok
 - various themes
   - by voyage
@@ -702,9 +723,13 @@ document.body.append(node)
 
 ### `charstyler`
 > unicode player
-- style in one click
-- show preview
-- support all unicode forms
+- input method integration
+  - js library
+  - berryberry danmaku one tap
+- easy to use
+  - tap a style
+  - show preview
+- support all unicode styles
 
 ### `journaling` 
 > weeks and months | plain text journaling

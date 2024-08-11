@@ -20,13 +20,13 @@
   - cocacola
   - lays crisps original
   - burgerking french fries
-  - ruby chocolate popsicle
   - preserved plum & preserved peel
+  - ruby chocolate popsicle
   - tea egg
-  - potted plant
   - life size waifu pillow
+  - mini cooper car
   - camphor wood
-  - mini cooper
+  - potted plant
   - pure noskill math
   - intuitive web app
 -
@@ -171,6 +171,7 @@
   - google product sans
   - han wang shin su
   - han wang yan kai
+  - inconsolata
   - lato
   - noto sans cjk sc
   - noto serif cjk sc
@@ -193,7 +194,6 @@
   - internet archive
   - the pirate bay
   - github
-  - snapcraft
   - google
   - youtube
   - mistral chat
@@ -202,14 +202,16 @@
   - ruanyf blog
   - hacker news
   - codepen spark
-  - codeforces
+  - css tricks
   - reddit
+  - zhihu
   - v2ex
   - nga
   - bangumi.tv
-  - zhihu
-  - pixiv
-  - slashdot
+  - pixiv monthly
+  - codeforces
+  - leetcode
+  - luogu
   - product hunt
   - dribbble
   - design.google
@@ -226,7 +228,9 @@
   - growth.design
   - fabrice bellard
   - james sinclair
-  - jiongks zhaojinjiang
+  - jiongks gougu zhaojinjiang
+  - rodrigo pombo
+  - overreacted dan abramov
 -
   - iphone os 4
   - ubuntu yaru
@@ -305,6 +309,10 @@
   - the answer is predictive of your behavior
   - better to get your dopamine from improving your ideas than from having them validated
   - it's ok to get yours from "making things happen"
+- stay focused, keep shipping. 
+  - build early, build always. 
+  - improve yourself, write solid/simple/stupid code. 
+  - move fast and break things.
 - reading is active while watching tv is passive
   - all the research says reading a book is good for you.
   - it reduces stress, promotes comprehension, relieves depression, helps you sleep and may contribute to preventing alzheimer's.
@@ -312,24 +320,19 @@
   - our brains have to work to translate the black squiggles on the page into words and then interpret the meaning and intent of those words.
   - when a character is described as tall with brown hair, a reader creates her own picture.
   - tv takes all that good imagination away.
-- stay focused, keep shipping. 
-  - build early, build always. 
-  - improve yourself, write solid/simple/stupid code. 
 - world is powered by solitude.
   - gravitated and spellbound
   - beautifully advance
   - do have faith in what you are doing
   - live in the future and build what's missing
   - life is a long-plank game
+  - character is destiny
 - tell me, and i will forget.
   - show me, and i may remember.
   - involve me, and i will understand.
-  - confucius circa 450 bc
-- and this is the message we have heard from him and announce to you: 
-  - god is light, and in him there is no darkness at all. 
+- god is light, and in him there is no darkness at all. 
   - if we say we have fellowship with him yet walk in the darkness, we lie and do not practice the truth. 
   - but if we walk in the light as he is in the light, we have fellowship with one another, and the blood of jesus his son cleanses us from all sin.
-- character is destiny
 - soli deo gloria.
 - memento mori.
 - 遂迷不复得路
@@ -363,7 +366,7 @@
   - `quotes` ideas and experiences
   - `idioms` meme like quotes just for fun
   - `comments` words and their sources
-  - `mistral` answers from mistral le chat
+  - `mistral` answers from mistral ai
 - self
   - `weekly` weekly plans at each time
   - `timeln` personal discoveries and thoughts

@@ -1501,8 +1501,29 @@ by spicy pidan porridge & so reliable old jiang
 **object oriented programming**
 
 我是喜欢函数式编程的.而今天里其他的发生都太琐碎,
-**fp|oop将决定我一生道路,映照我的性格,预示我的命运**
+**fp|oop将决定我的道路,映照我的性格,预示我的命运**
 
+## 20240810
+
+今日最佳:
+准高中生,使用猴子跨域,实现zzz/interknot论坛
+**https://share121.github.io/inter-knot/**
+
+**i have a problem.and i choose oop.now i have a problem factory**
+
+**我口袋里有一个小设备，可以访问几乎全部的人类知识。我却用它与不认识的人进行毫无意义的争论，并看猫的照片。**
+
+七夕节,在ruanyf weekly休息.
+
+public domain
+
+## 20240811
+
+**一个周末很长,三周很短,几个月更短**
+(weekend projects)
+
+今日最佳:
+***Inconsolata!* is my google product sans alternative**
 
 
 

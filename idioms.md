@@ -147,7 +147,10 @@ your overthinking is my opportunity
 
 Dorothy followed her through many of the beautiful rooms in her castle.
 
-offline progressive web app.
+progressive web app.
+- open in one tap
+- offline use
+- send notifications
 
 看三做二说一
 
@@ -165,5 +168,11 @@ make tools elegant.
 (-> mistral.md /functional programming | /object oriented programming)
 
 不自由不累.
+
+白毛红瞳.赛高.
+
+文章里有错别字，部分句子句末缺少句号，中英文括号混用，大小写不统一，综合这些来看应该不是 AI 生成
+
+
 
 

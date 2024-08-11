@@ -469,7 +469,7 @@ Facebook 公司推出Pyre，用来检查Python程序的静态类型错误，下�
 
 千万别上瘾只想去解决那些困难的问题。如果那些问题本身就是错的，你会浪费时间；如果你解决不了，也会浪费时间。
 
-## what is machine learning quote
+## what is machine learning satirical quote
 
 30字短文《什么是机器学习》
 
@@ -623,7 +623,7 @@ http://readerisdead.com/reader/view/
 
 Google Reader 是谷歌的线上 RSS 阅读器，2013年关闭。现在，有人复制了一个一模一样的，让大家体验一下当年的感觉。
 
-## dont ever grow up play on quote
+## dont ever grow up play on retro quote
 
 6月底，由于竞争不过网上商店，美国最大的玩具连锁店玩具反斗城（Toys R US）破产关门，全美700多家连锁店全部歇业，70年的公司历史正式结束。最后一天，一个员工贴出了一张照片：清空的商店里面，一只长颈鹿拿着行李箱准备离开。
 
@@ -927,13 +927,58 @@ https://twitter.com/samantha_ming/status/1043578525339418624
 
 如果变量是一个布尔值，变量名最好加上 is、has 或 can 作为前缀（见下图）。
 
-## just make a few quality decisions quote
+## just make a few quality decisions quote theory
 
 作为一个决策者，你的职责不是做出很多决定，而是只需做出几个高质量的决定。
 
 如果我每天做出三个不错的决定，就很满意了。巴菲特说，他的一年就是做对三个投资决定。
 
 -- 贝佐斯，亚马逊公司创始人
+
+https://www.axios.com/2018/09/14/jeff-bezos-amazon-secrets-rubenstein
+
+(the original)
+
+### Jeff Bezos' secrets for life and business
+
+![](https://images.axios.com/pyBrNkQb8fNHCWBSKG28GTxHOus=/37x0:1372x751/1920x1080/2018/09/14/1536922130777.png?w=1920)
+
+Jeff Bezos gave a master class on life and business onstage in Washington last night, with this keeper advice: "All of my best decisions in business and in life have been made with heart, intuition, guts, ... not analysis."
+
+> "If you can make a decision with analysis, you should do so. But it turns out in life that your most important decisions are always made with instinct and intuition."
+
+*--- Amazon CEO Jeff Bezos*
+
+- "Everything I have ever done has started small," Bezos added, drawing laughter at the 32nd anniversary dinner of the Economic Club of Washington, D.C.:
+- "Amazon [now with 500,000 employees] ... started with five people."
+- "It's hard to remember for you guys, but for me it's like yesterday I was driving the packages to the post office myself, and hoping one day we could afford a forklift."
+
+Amazon's president, CEO and chairman was interviewed at the Washington Hilton for 70 minutes by David Rubenstein, co-founder and co-executive chairman of The Carlyle Group (one of the world's largest private equity firms), and president of the Economic Club.
+
+- After a long answer, Rubenstein joked: "I'm not used to cutting off the richest man in the world."
+
+Bezos, 54, owns The Washington Post, where today he'll cut the ribbon on a newsroom expansion to accommodate 850 journalists and 350 engineers. He drew applause with his defense of the press:
+
+- "What the president should say is, 'This is right. This is good. I'm glad I'm being scrutinized.' And that would be so secure and confident."
+- "But it's really dangerous to demonize the media. ... It's dangerous to say that they're the enemy of the people."
+
+Turning to business best practices, Bezos said he sets his first meeting at 10 a.m.:
+
+- "I go to bed early and I get up early. I like to putter in the morning. So I like to read the newspaper. I like to have coffee. I like have breakfast with my kids before they go to school."
+- "I do my high-IQ meetings before lunch. Like anything that's going to be really mentally challenging, that's a 10 o'clock meeting. And by 5 p.m., I'm like, 'I can't think about that today. Let's try this again tomorrow at 10 a.m.'"
+
+Bezos said he gets eight hours of sleep:
+
+- "I prioritize it. ... I think better. I have more energy. My mood is better."
+
+- "As a senior executive, you get paid to make a small number of high-quality decisions. Your job is not to make thousands of decisions every day."
+- "Is that really worth it if the quality of those decisions might be lower because you're tired or grouchy?"
+
+"All of our senior executives operate the same way I do. They work in the future, they live in the future."
+
+- "Right now, I'm working on a quarter that's going to reveal itself in 2021 sometime."
+- "If I make, like, three good decisions a day, that's enough."
+- "Warren Buffett says he's good if he makes three good decisions a *year."* [Laughter].
 
 ## fast loading web page theory
 
@@ -1277,7 +1322,7 @@ https://www.processon.com/
 
 免费在线作图，可以实时协作。ProcessOn 支持流程图、思维导图、原型图、UML、网络拓扑图、组织结构图等。（@wuzhenda_ _投稿）
 
-## the pros of javascript are actually cons quote
+## the pros of javascript are also cons quote
 
 JavaScript 的优点是可以写任何东西，缺点是你真的会用它去写这些东西。
 
@@ -1358,13 +1403,24 @@ Crash Course 是一个 Youtube 的教育频道。B站上面有很多翻译小组
 
 https://www.gwern.net/Morning-writing
 
-## money is of best use to buy time quote
+## money is of best use to buy time quote theory
 
 金钱最有价值的用途就是购买时间。
 
 -- 有人提到，自己已经有不少钱了，但还是拼命想赚更多的钱。一个网友做了上面的回应，钱的意义在于它可以换来更多时间，让你去做自己想做的事情。
 
 https://news.ycombinator.com/item?id=18373002
+
+(the original)
+
+First, realize that you're probably making at least double the median US income. If you have a house with no loan and that income, you're doing way, way, way better than average.
+I see two possible paths forward.
+
+The less likely is to read and internalize http://www.mrmoneymustache.com/2012/01/13/the-shockingly-sim... and realize how quickly you can reach financial independence at a reduced spending level (but one that still affords an amazing life). Buying time is the most valuable use of money, IMO.
+
+The second is to stay miserable for a while, striving for something ambiguous yet out of reach, until you get older and this feeling fades.
+
+Path #1 (or a variant) is probably healthier and happier.
 
 ## two people and a swimming pool artwork
 
@@ -1646,8 +1702,8 @@ http://www.yinwang.org/blog-cn/2018/11/23/grammar
 
 掌握句子包括两种能力：
 
-1.  能够迅速地**造出**正确的句子，准确地**表达**自己的意思。
-2.  能够迅速地**分析**别人的句子，准确地**理解**别人的意思。
+1. 能够迅速地**造出**正确的句子，准确地**表达**自己的意思。
+2. 能够迅速地**分析**别人的句子，准确地**理解**别人的意思。
 
 这两件事，一个是表达（发送），一个是理解（接收）。因为语言是沟通（或者叫"通讯"）的工具，所以它就只包含这两件事。
 
@@ -1885,8 +1941,8 @@ Fuji 是对 apples 的修饰，或者说是它的"属性"，所以我们在树�
 
 所以我给你开的处方是这样：
 
-1.  练习造句。每学一个动词，要先看例句，然后用它造出多个句子来。这样你就获得了灵活运用的能力。
-2.  分析句子。看到一个复杂的句子，觉得理解有难度，你就把它抄下来。按照我介绍的"造句方法"，把它分解成主干和修饰成分。不久，你就会发现理解能力和造句能力都提高了。
+1. 练习造句。每学一个动词，要先看例句，然后用它造出多个句子来。这样你就获得了灵活运用的能力。
+2. 分析句子。看到一个复杂的句子，觉得理解有难度，你就把它抄下来。按照我介绍的"造句方法"，把它分解成主干和修饰成分。不久，你就会发现理解能力和造句能力都提高了。
 
 要注意的是，分析句子的时候，没必要去纠结一个句子成分"叫什么"，对应什么术语。比如它是表语还是宾语，还是宾补...... 这没有意义。
 
@@ -2280,13 +2336,29 @@ https://www.bbc.com/news/stories-47033704
 
 监狱不仅提供了住处，还提供了免费的三餐。由于入狱不会影响犯人的退休金，所以很多老人认为，住在监狱还有利于储蓄，离开的时候会节省出一笔钱。一位80岁的老妇人说："我无法与丈夫相处。我无处可居，无处可去，无法找到食物和金钱。所以偷窃成了我唯一的选择。"2016年被判有罪的2,500多名65岁以上的犯人中，超过三分之一的人有超过五次的犯罪记录。
 
-## how wealth are divided quote
+## wealth are divided not by bloodline only when productivity leap quote theory
 
 只有在生产力取得巨大进步的时期，财富的分配才不是由血统决定。
 
 -- DHH 《我在2018年读过的书》
 
 https://m.signalvnoise.com/the-books-i-read-in-2018/
+
+(the original)
+
+**The Gift of Fear** by Gavin de Becker shares a bunch of anecdotes from violent attacks, how the victims often knew per instinct that something wasn't right, but suppressed that instinct for fear of seeming rude or silly or whatever. He also presents a bunch of analytical frameworks for evaluating threats, stalkers, and other menaces.
+
+But it's not a dry textbook. Gavin had a violent upbringing and brings a lot of personal anecdotes and perspectives to bear as well.
+
+About a quarter into Thomas Piketty's **Capital in the Twenty-First Century**. This is the book that was catapulted by it's conclusion: r > g. That the rate of return on capital is greater than the growth rate of the economy. Which means that capital, and the people who own it, will end up with a larger and larger share of all wealth and income in the economy as time goes on.
+
+It's a dense dive into the historical data on wealth, income, and economic growth from the optic of inequality. It's fascinating to realize just how little economic growth there was before the industrial revolution (<0.1% at times). Centuries would pass where societies got almost no more productive, and thus saw no per-capita growth.
+
+The historical backdrop serves mainly to setup the thesis that the period from 1914 to 1980 (or so) was a historical anomaly. That so much of capital was destroyed by the world wars while at the same time society saw massive steps forward in productivity. Which in turn meant that hereditary wealth was at its least influential in history.
+
+In the past few decades, we've moved closer to the historical norm. Real growth through productivity improvements is down a lot since that former golden period, most western societies aren't growing their population as rapidly as they were, and thus hereditary wealth and privileges are coming back as prime determinants of inequality.
+
+Despite the dense approach, the book isn't in anyway unapproachable. It's well told and easily read. And it's about as timely as it gets. Highly recommend it so far.
 
 ## dev news kanban web app
 
@@ -2588,7 +2660,7 @@ https://fs.blog/2013/12/stop-reading-news/
 
 总之，今天网上的大部分新闻都毫无意义，对你的生活并不重要，不会帮助你做出更好的决定，也不会帮助你理解世界，与周围的人建立联系。它们只会消耗你的注意力，造成你的注意力不足。你被大量信息包围，感到不知所措，为了赶上这一切，内心承受了压力。完全不看新闻，可能是更好的做法。
 
-## the stupid overconfident ones quote
+## stupid overconfident ones is problem of the time quote theory
 
 我们这个时代的痛苦在于，那些愚蠢的人都非常自信，那些有想象力和理解能力的人充满了怀疑和犹豫不决。
 
@@ -2596,13 +2668,49 @@ https://fs.blog/2013/12/stop-reading-news/
 
 http://nautil.us/blog/the-case-for-professors-of-stupidity
 
-## the never ending problem of social medias quote
+(the original)
+
+### The Case for Professors of Stupidity
+
+The greatest problem facing the world today is a rule system.
+
+on this past International Holocaust Remembrance Day, I reread a bit of Bertrand Russell. In 1933, dismayed at the Nazification of Germany, the philosopher wrote "The Triumph of Stupidity," attributing the rise of Adolf Hitler to the organized fervor of stupid and brutal people---two qualities, he noted, that "usually go together." He [](https://books.google.com/books?id=awXsxB5HPv0C&printsec=frontcover#v=onepage&q=)[went on](https://books.google.com/books?id=awXsxB5HPv0C&lpg=PP1&pg=PA27#v=onepage&q&f=false) to make one of his most famous observations, that the "fundamental cause of the trouble is that in the modern world the stupid are cocksure while the intelligent are full of doubt."
+
+Russell's quip prefigured the scientific discovery of a cognitive bias---the Dunning--Kruger effect---that has been so resonant that it has penetrated popular culture, inspiring, for example, [an opera song](https://www.youtube.com/watch?v=BdnH19KsVVc) (from Harvard's annual Ig Nobel Award Ceremony): "Some people's own incompetence somehow gives them a stupid sense that anything they do is first rate. They think it's great." No surprise, then, that psychologist [Joyce Ehrlinger](https://scholar.google.com/citations?hl=en&user=m3ORNxEAAAAJ&view_op=list_works&gmla=AJsN-F4AVH91NUYLSZrIvY76gGBBy5gxOGn8iqx3lZe_py-CHwMaxUD5uSJrThir3YU_Fxre4_84zBKUiAR9i6tNC5J6NrCgqjT-m3ao7GHocptZIG79yx4) prefaced a 2008 [paper](https://www.sciencedirect.com/science/article/pii/S074959780700060X?via=ihub) she wrote with David Dunning and Justin Kruger, among others, with Russell's comment---the one he later made in his 1951 book, *New Hopes for a Changing World*: "One of the painful things about our time is that those who feel certainty are stupid, and those with any imagination and understanding are filled with doubt and indecision." "By now," Ehrlinger noted in that paper, "this phenomenon has been demonstrated even for everyday tasks, about which individuals have likely received substantial feedback regarding their level of knowledge and skill." Humans have shown a tendency, in other words, to be a bit thick about even the most mundane things, like how well they drive.
+
+> Stupidity is not simply the opposite of intelligence.
+
+Russell, who died in 1970 at 97 years of age, probably would not be surprised to hear news of this new [study](https://www.nature.com/articles/s41562-018-0520-3), published in *Nature Human Behaviour*: "Extreme opponents of genetically modified foods know the least but think they know the most." The researchers, led by Philip Fernbach, cognitive scientist and co-author of *The Knowledge Illusion: Why We Never Think Alone*, analyzed survey responses from a nationally representative sample of U.S. adults. They obtained similar results, they write, "in a parallel study with representative samples from the United States, France and Germany, and in a study testing attitudes about a medical application of genetic engineering technology (gene therapy)."
+
+Fernbach called their result "perverse." It was nevertheless consistent with prior work exploring the Dunning--Kruger effect and the psychology of extremism, he [said](https://phys.org/news/2019-01-genetically-food-opponents.html?utm_source=nwletter&utm_medium=email&utm_campaign=weekly-nwletter). "Extreme views often stem from people feeling they understand complex topics better than they do." Now as ever, societies need to know how to combat this.
+
+But what exactly is stupidity? David Krakauer, the President of the Santa Fe Institute, [told](https://nautil.us/issue/23/dominoes/ingenious-david-krakauer) interviewer Steve Paulson, for *Nautilus*, stupidity is not simply the opposite of intelligence. "Stupidity is using a rule where adding more data doesn't improve your chances of getting [a problem] right," Krakauer said. "In fact, it makes it more likely you'll get it wrong." Intelligence, on the other hand, is using a rule that allows you to solve complex problems with simple, elegant solutions. "Stupidity is a very interesting class of phenomena in human history, and it has to do with rule systems that have made it harder for us to arrive at the truth," he said. "It's an interesting fact that, whilst there are numerous individuals who study intelligence---there are whole departments that are interested in it---if you were to ask yourself what's the greatest problem facing the world today, I would say it would be stupidity. So we should have professors of stupidity---it would just be embarrassing to be called the stupid professor."
+
+## the never ending problem of social medias quote theory
 
 社交媒体的问题是永不结束。它只让你看最新的东西，就像在轮子上奔跑的仓鼠一样，我们生活在消耗短暂内容的无限循环中，结果我们失去了历史感。
 
 -- 《此时此刻永无止尽》
 
 http://www.perell.com/blog/never-ending-now
+
+(the original)
+
+### The Never-Ending Now
+
+I once attended a comedy show with a group of friends. Since the venue was across town, we split an SUV. I sat in the back. You know... all the way in the rear, where the seats get so narrow that you have to do gymnastics just to get back there.
+
+From the moment the driver hit the gas pedal, everybody was on their phones. From the back row, I watched my friends scroll their social media feeds with ferocious intensity. One thing stuck out: the people in front of me only consumed content created within the last 24 hours.
+
+No exceptions.
+
+I succumb to the same impulse. Chances are, so do you. 
+
+The structure of our social media feeds place us in a Never-Ending Now. Like hamsters running on a wheel, we live in an endless cycle of ephemeral content consumption --- a merry-go-round that spins faster and faster but barely goes anywhere. Stuck in the fury of the present, we're swept up in dizzying chaos like leaves in a gale-force wind. Even though on the Internet, we're just a click away from the greatest authors of all time, from Plato to Tolstoy, we default to novelty instead of timelessness.  
+
+We're trapped in a Never-Ending Now --- blind to our place in history, engulfed in the present moment, overwhelmed by the slightest breeze of chaos.
+
+Here's the bottom line: How can you prioritize the accumulated wisdom of humanity over the impulses of the past 24 hours?
 
 ## never getting bored design theory
 
@@ -2748,7 +2856,7 @@ https://www.semantics3.com/blog/state-of-ecommerce-report/
 
 截止2019年2月，互联网上共有93,482,546个有内容的域名，其中68％是英文站点，12%是中文站点，3%是西班牙语站点。
 
-## between thoughts and words quote
+## difference between thoughts and words quote
 
 思考某事和讲述某事是不同的事情。我们思考事物的方式很复杂，有时甚至是不连贯的，而且经常是矛盾的。但是讲述时，我们必须把某事表达得很清晰，可以在很短的时间内说得出来。
 
@@ -2772,7 +2880,7 @@ https://www.256kilobytes.com/content/show/4808/what-is-the-wayback-machine-how-t
 
 Wayback Machine 是一个庞大的网页数字档案库，为全世界的网页存档。该项目于1996年启动，目前保存了100亿个快照，数据量达到 30PB，另外还有 30PB 备份。
 
-## type moving right(type after variable name) theory
+## type moving right(type after variable name) history theory
 
 类型正在向右移动（英文）
 
@@ -2934,7 +3042,7 @@ https://xw.qq.com/partner/hwbrowser/20190128A0BHUQ/20190128A0BHUQ00?ADTAG=hwb&pg
 
 https://www.bookofjoe.com/2019/03/why-do-old-books-smell.html
 
-## why functional programming not objectward programming quote
+## why functional programming not objectward programming quote theory
 
 面向对象编程的问题是，默认带有环境。你只想要一个香蕉，但是得到了一只拿着香蕉的大猩猩，甚至还有整个丛林。
 
@@ -3130,7 +3238,7 @@ Windows 用户看到以后，感到很困惑："你们已经拥有了所需的�
 
 https://zwischenzugs.com/2019/03/25/aws-vs-k8s-is-the-new-windows-vs-linux/
 
-## why stack overflow succeeded quote
+## behind the success of stack overflow quote
 
 Stack Overflow 已经成立11年了，现在，世界上每个开发者实际上都使用它。我经常看到开发者编写代码时，他们就会在一个浏览器窗口中打开 Stack Overflow。
 
@@ -3476,7 +3584,7 @@ static int MONEY = 0;
 void deposit_money(int amount) {
     for (int i = 0; i < amount; ++i)
         ++MONEY;
-        // Runtime data race.  Some increments can be ignored.
+        // Runtime data race. Some increments can be ignored.
 }
 
 int main() {
@@ -4196,7 +4304,7 @@ https://github.com/timqian/star-history
 
 -- Peter Thiel
 
-## fact matters and proof does not matter quote
+## fact matters while proof does not matter quote theory
 
 重要的是事实，而不是证据。物理学可以在没有证据的情况下进步，但是如果没有事实，我们就不能继续前进。
 
@@ -4520,7 +4628,7 @@ https://github.com/facebook/Docusaurus
 
 Facebook 出品的 Markdown 静态文档网站的建站工具，前端使用 React 构建。
 
-## historical perspective of the 20th century quote
+## historical perspective of the 20th century quote theory
 
 500年后，人们想起20世纪，不会想到第二次世界大战，它已经变得跟英格兰玫瑰战争一样久远。人们会想到 DNA、青霉素、计算机和微芯片，因为它们改变了文明。但是，他们想到的第一件事，将是20世纪是人类开始探索太空的世纪，阿波罗11号登月是20世纪最重要的事件。
 
@@ -4678,7 +4786,7 @@ https://goel.io/why-read/
 
 现实世界就是一个复杂的主题公园 ，为了保证每个"游乐设施"都正常运作，这个公园越造越复杂，管理难度成倍增加，最后人们只好让计算机来管理。根据伊恩·马尔科姆的观点，最后总归会有人按错一个按钮，现实世界就会变得像恐龙横行的侏罗纪公园。
 
-## give up twitter for its third party restriction quote
+## give up twitter for its third party restriction view quote
 
 推特宣布限制第三方客户端时，我就决定不再使用它了。这种服务要求用户投入大量时间，却不提供个人数据的所有权和控制权。
 
@@ -4724,13 +4832,479 @@ https://www.plainlanguage.gov/guidelines/words/use-simple-words-phrases/
 
 https://www.plainlanguage.gov/media/FederalPLGuidelines.pdf
 
-## the problem of object oriented programming quote
+## the problem of object oriented programming quote theory
 
 面向对象编程的问题是，每个对象都有自己的状态，开发程序时，必须记住当前所有对象的状态。
 
 为了让我们的生活更轻松，最好只有一小部分代码库处理状态，其他代码都是无状态和纯的。实际上，这就是前端的 Redux 库取得巨大成功的主要原因。
 
 -- 《面向对象编程：一万亿美元的错误》
+
+https://medium.com/codeiq/object-oriented-programming-the-trillion-dollar-disaster-%EF%B8%8F-92a4b666c7c7
+
+(the original)
+
+### Summary
+
+The provided content argues that Object-Oriented Programming (OOP) is a flawed paradigm that has failed to manage code complexity effectively, suggesting that it's time for the software industry to move towards more reliable and simpler programming approaches, such as Functional Programming (FP).
+
+### Abstract
+
+The article "Object-Oriented Programming --- The Trillion Dollar Disaster" presents a critical view of OOP, questioning its status as the de facto standard for code organization. It posits that OOP, despite its initial promise to simplify code through abstraction and encapsulation, has instead led to increased complexity, promiscuous sharing of mutable state, and difficulty in maintaining and scaling codebases. The author, who admits a bias against OOP, points out that even the creator of OOP, Alan Kay, is critical of its modern implementation. The article suggests that OOP's core ideas, such as inheritance and polymorphism, are misguided and that the paradigm's emphasis on shared state and complex hierarchies makes code unreliable and hard to reason about. In contrast, FP is presented as a more robust alternative that emphasizes simplicity, immutability, and functional purity, leading to more reliable and maintainable code. The author also criticizes the prevalence of OOP in the industry, attributing it to historical factors and the dominance of languages like Java and C#, and calls for a shift towards FP to improve the state of software development.
+
+### Opinions
+
+- OOP has failed in its primary goal to manage the complexity of codebases, leading to more issues than solutions.
+- The complexity of OOP codebases is exacerbated by the promiscuous sharing of mutable state, which makes reasoning about the program very hard.
+- Modern OOP languages like Java and C# are seen as the main reason for OOP's dominance in the industry, despite their inherent flaws.
+- The author believes that encapsulation in OOP is a "trojan horse" that gives a false sense of security by hiding the complexity of shared mutable state.
+- The article argues that OOP's design patterns are band-aids that add unnecessary complexity and are not a solution to the fundamental problems of OOP.
+- Functional Programming is advocated as a superior alternative to OOP, offering reliability, simplicity, and a focus on immutability and pure functions.
+- The author suggests that the industry's resistance to change is similar to the resistance encountered during the transition from horse-drawn carriages to automobiles.
+- The historical prevalence of OOP is seen as a barrier to the adoption of better programming practices, with many developers and organizations being too invested in the OOP paradigm.
+- The author encourages developers to explore functional languages and to question the widespread use of OOP, advocating for a paradigm shift in software development practices.
+
+Object-Oriented Programming --- The Trillion Dollar Disaster
+
+### Why it's time to move on from OOP
+
+OOP is considered by many to be the crown jewel of computer science. The ultimate solution to code organization. The end to all our problems. The only true way to write our programs. Bestowed upon us by the one true God of programming himself...
+
+Until...it's not, and people start succumbing under the weight of abstractions, and the complex graph of promiscuously shared mutable objects. Precious time and brainpower are being spent thinking about "abstractions" and "[design patterns](https://suzdalnitski.com/oop-design-patterns-bd2c4fb3014c)" instead of solving real-world problems.
+
+Many people have criticized Object-Oriented Programming, including very prominent software engineers. Heck, even the inventor of OOP himself is a well-known critic of modern OOP!
+
+The ultimate goal of every software developer should be to write *reliable *code. Nothing else matters if the code is buggy and unreliable. And what is the best way to write code that is reliable? *Simplicity*. Simplicity is the opposite of *complexity*. Therefore our first and foremost responsibility as software developers should be to *reduce code complexity.*
+
+![](https://cdn-images-1.readmedium.com/v2/resize:fit:800/1*eSgw4TrT3_5kUU3QFFW4qA.jpeg)
+
+### Disclaimer
+
+I'll be honest, I'm not a raving fan of object-orientation. Of course, this article is going to be biased. However, I have good reasons to dislike OOP.
+
+I also understand that criticism of OOP is a very sensitive topic --- I will probably offend many readers. However, I'm doing what I think is right. My goal is not to offend, but to raise awareness of the issues that OOP introduces.
+
+I'm not criticizing Alan Kay's OOP --- he is a genius. I wish OOP was implemented the way he designed it. I'm criticizing the [modern Java/C# approach](https://betterprogramming.pub/modern-languages-suck-ad21cbc8a57c) to OOP.
+
+I think that it is not right that OOP is considered the de-facto standard for code organization by many people, including those in very senior technical positions. It is also unacceptable that many mainstream languages don't offer any other alternatives to code organization other than OOP.
+
+Hell, I used to struggle a lot myself while working on OOP projects. And I had no single clue why I was struggling this much. Maybe I wasn't good enough? I had to learn a couple more design patterns (I thought)! Eventually, I got completely burned out.
+
+This post sums up my first-hand decade-long journey from Object-Oriented to Functional programming. Unfortunately, no matter how hard I try, I can no longer find use cases for OOP. I have personally seen OOP projects fail because they become too complex to maintain.
+
+### TLDR
+
+> Object oriented programs are offered as alternatives to correct ones...
+
+> --- [Edsger W. Dijkstra](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra), pioneer of computer science
+
+Object-Oriented Programming has been created with one goal in mind --- to *manage the complexity* of procedural codebases. In other words, it was supposed to *improve code organization.* There's no objective and open evidence that OOP is better than plain procedural programming.
+
+The bitter truth is that OOP *fails *at the only task it was intended to address. It looks good on paper --- we have clean hierarchies of animals, dogs, humans, etc. However, it falls flat once the complexity of the application starts increasing. Instead of reducing complexity, it encourages promiscuous *sharing of [mutable state](https://suzdalnitski.com/terrible-coding-mistake-aa1fbebd83b4)*[](https://suzdalnitski.com/terrible-coding-mistake-aa1fbebd83b4) and introduces additional complexity with its numerous [*design patterns*](https://suzdalnitski.com/oop-design-patterns-bd2c4fb3014c). OOP makes common development practices, like refactoring and testing, needlessly hard.
+
+Some might disagree with me, but the truth is that modern [Java/C# OOP](https://betterprogramming.pub/modern-languages-suck-ad21cbc8a57c) has never been properly designed. It never came out of a proper research institution (in contrast with Haskell/FP). Lambda calculus offers a complete theoretical foundation for Functional Programming. OOP has nothing to match that.
+
+Using OOP is seemingly innocent in the short-term, especially on greenfield projects. But what are the* long-term* consequences of using OOP? OOP is a time bomb, set to explode sometime in the future when the codebase gets big enough.
+
+Projects get delayed, deadlines get missed, developers get burned-out, adding in new features becomes next to *impossible.* The organization labels the codebase as the *"legacy codebase"*, and the development team plans a *rewrite*.
+
+OOP is not natural for the human brain, our thought process is centered around "doing" things --- go for a walk, talk to a friend, eat pizza. Our brains have evolved to do things, not to organize the world into complex hierarchies of abstract objects.
+
+OOP code is non-deterministic --- unlike with functional programming, we're not guaranteed to get the same output given the same inputs. This makes reasoning about the program very hard. As an oversimplified example, the output of `2+2` or `calculator.Add(2, 2) `mostly is equal to four, but sometimes it might become equal to three, five, and maybe even 1004. The dependencies of the `Calculator` object might change the result of the computation in subtle, but profound ways. OOPs...
+
+### The Need for a Resilient Framework
+
+Good programmers write good code, bad programmers write bad code, no matter the programming paradigm. However, the programming paradigm should constrain bad programmers from doing too much damage. Of course, this is not you, since you already are reading this article and putting in the effort to learn. Bad programmers never have the time to learn, they only press random buttons on the keyboard like crazy. Whether you like it or not, you will be working with bad programmers, some of them will be really really bad. And, unfortunately, OOP does not have enough constraints in place that would prevent bad programmers from doing too much damage. OOPs...
+
+I don't consider myself a bad programmer, but even I am unable to write good code without a strong framework to base my work on. Yes, there are frameworks that concern themselves with some very particular problems (e.g. Angular or ASP.Net).
+
+I'm not talking about the software frameworks. I'm talking about the more abstract *dictionary definition* of a framework: "an essential *supporting structure*" --- frameworks that concern themselves with the more abstract things like code organization and tackling code complexity. Even though Object-Oriented and Functional Programming are both programming paradigms, they're also both very high-level frameworks.
+
+### Limiting our choices
+
+> C++ is a horrible [object-oriented] language... And limiting your project to C means that people don't screw things up with any idiotic "object model" c&@p. --- Linus Torvalds, the creator of Linux
+
+Linus Torvalds is widely known for his open criticism of C++ and OOP. One thing he was 100% right about is limiting programmers in the choices they can make. In fact, the fewer choices programmers have, the more resilient their code becomes. In the quote above, Linus Torvalds highly recommends having a good framework to base our code upon.
+
+![](https://cdn-images-1.readmedium.com/v2/resize:fit:800/1*ujt2PMrbhCZuGhufoxfr5w.jpeg)
+
+Photo by [specphotops](https://unsplash.com/@specphotops?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
+Many dislike speed limits on the roads, but they're essential to help prevent people from crashing to death. Similarly, a good programming framework should provide mechanisms that prevent us from doing *stupid *things.
+
+A good programming framework helps us to write reliable code. First and foremost, it should help reduce complexity by providing the following things:
+
+1. Modularity and reusability
+2. Proper state isolation
+3. High signal-to-noise ratio
+
+Unfortunately, OOP provides developers too many tools and choices, without imposing the right kinds of limitations. Even though OOP promises to address modularity and improve reusability, it fails to deliver on its promises (more on this later). OOP code encourages the use of shared mutable state, which has been proven to be unsafe time and time again. OOP typically requires a lot of boilerplate code (low signal-to-noise ratio).
+
+### Functional programming
+
+What exactly is Functional Programming? Some people consider it to be a highly complicated programming paradigm that is only applicable in academia and is not suitable for the "real-world". This couldn't be further from the truth!
+
+Yes, Functional Programming has a strong mathematical foundation and takes its roots in [lambda calculus](https://en.wikipedia.org/wiki/Lambda_calculus). However, most of its ideas emerged as a response to the *weaknesses* in the more mainstream programming languages. *Functions* are the core abstraction of Functional Programming. When used properly, functions provide a level of code modularity and reusability never seen in OOP. It even features design patterns that address the issues of nullability and provides a superior way of error handling.
+
+The one thing that Functional Programming does really well is it helps us write *reliable* software. The need for a debugger almost disappears completely. Yep, no need to step through your code and watch variables. I personally haven't touched a debugger in a very long time.
+
+The best part? If you already know how to use functions, then you're already a functional programmer. You just need to learn how to make the best use of those functions!
+
+I'm not preaching Functional Programming, I don't really care what programming paradigm you use writing your code. I'm simply trying to convey the mechanisms that Functional Programming provides to address the problems inherent with OOP/imperative programming.
+
+### We Got OOP All Wrong
+
+> *I'm sorry that I long ago coined the term "objects" for this topic because it gets many people to focus on the lesser idea. The big idea is messaging. - Alan Kay, the inventor of OOP*
+
+Erlang is not usually thought of as an Object-Oriented language. But probably Erlang is the [*only*](https://stackoverflow.com/questions/3431509/is-erlang-object-oriented/3433808#3433808)mainstream Object-Oriented language out there. Yes, of course Smalltalk is a proper OOP language --- however, it is not in wide use. Both Smalltalk and Erlang make use of OOP the way it was *originally intended* by its inventor, Alan Kay.
+
+### Messaging
+
+Alan Kay coined the term "Object Oriented Programming" in the 1960s. He had a background in biology and was attempting to make computer programs communicate the same way living cells do.
+
+Alan Kay's big idea was to have independent programs (cells) communicate by sending *messages* to each other. The state of the independent programs would *never be shared* with the outside world (encapsulation).
+
+That's it. OOP was *never intended* to have things like inheritance, polymorphism, the "new" keyword, and the myriad of [design patterns](https://suzdalnitski.com/oop-design-patterns-bd2c4fb3014c).
+
+### OOP in its purest form
+
+Erlang is OOP in its *purest* form. Unlike more mainstream languages, it focuses on the core idea of OOP --- messaging. In Erlang, objects communicate by passing immutable messages between objects.
+
+Is there proof that immutable messages are a superior approach compared to method calls?
+
+*Hell yes!* Erlang is probably the most *reliable* language in the world. It powers most of the world's telecom (and hence the internet) infrastructure. Some of the systems written in Erlang have reliability of 99.9999999% (you read that right --- nine nines).
+
+### Code Complexity
+
+> With OOP-inflected programming languages, computer software becomes more verbose, less readable, less descriptive, and harder to modify and maintain.
+
+> --- [Richard Mansfield](http://www.4js.com/files/documents/products/genero/WhitePaperHasOOPFailed.pdf)
+
+The *most important *aspect of software development is keeping the code complexity down. Period. None of the fancy features matter if the codebase becomes impossible to maintain. Even 100% test coverage is worth nothing if the codebase becomes too *complex *and *unmaintainable*.
+
+What makes the codebase complex? There are many things to consider, but in my opinion, the top offenders are: shared [mutable state](https://suzdalnitski.com/terrible-coding-mistake-aa1fbebd83b4), erroneous abstractions, and low signal-to-noise ratio (often caused by boilerplate code). All of them are prevalent in OOP.
+
+### The Problems of State
+
+What is state? Simply put, state is any temporary data stored in memory. Think variables or fields/properties in OOP. Imperative programming (including OOP) describes computation in terms of the program state and *changes to that state*. Declarative (functional) programming describes the *desired results* instead, and don't specify changes to the state explicitly.
+
+### Mutable State --- the act of mental juggling
+
+> I think that large objected-oriented programs struggle with increasing complexity as you build this large object graph of mutable objects. You know, trying to understand and keep in your mind what will happen when you call a method and what will the side effects be.
+
+> --- [Rich Hickey](http://www.se-radio.net/2010/03/episode-158-rich-hickey-on-clojure/), creator of Clojure
+
+State by itself is quite harmless. However, mutable state is the big offender. Especially if it is shared. What exactly is mutable state? Any state that can change. Think variables or fields in OOP.
+
+**Real-world example, please!**
+
+You have a blank piece of paper, you write a note on it, and you end up with the same piece of paper in a different state (text). You, effectively, have mutated the state of that piece of paper.
+
+That is completely fine in the real world since *nobody* else probably cares about that piece of paper. Unless this piece of paper is the original Mona Lisa painting.
+
+### Limitations of the Human Brain
+
+Why is mutable state such a big problem? The human brain is the most powerful machine in the known universe. However, our brains are really bad at working with state since we can only hold about *5 items* at a time in our working memory. It is much easier to reason about a piece of code if you only think about *what *the code does, not what variables it changes around the codebase.
+
+Programming with [mutable state](https://suzdalnitski.com/terrible-coding-mistake-aa1fbebd83b4) is an act of mental juggling️. I don't know about you, but I could probably juggle two balls. Give me three or more balls and I will certainly drop all of them. Why are we then trying to perform this act of mental juggling every single day at work?
+
+Unfortunately, the mental juggling of mutable state is at the very core of OOP . The sole purpose for the existence of methods on an object is to mutate that same object.
+
+### Scattered state
+
+OOP makes the problem of code organization even worse by scattering state all over the program. The scattered state is then shared *promiscuously *between various objects.
+
+**Real-world example, please!**
+
+Let's forget for a second that we're all grown-ups, and pretend we're trying to assemble a cool lego truck.
+
+However, there's a catch --- all the truck parts are randomly mixed with parts from your other lego toys. And they have been put in 50 different boxes, randomly again. And you're not allowed to group your truck parts together --- you have to keep in your head where the various truck parts are, and can only take them out one by one.
+
+Yes, you will *eventually *assemble that truck, but how long will it take you?
+
+How does this relate to programming?
+
+In Functional Programming, state typically is being *isolated. *You always know where some state is coming from. State is never scattered across your different functions. In OOP, every object has its own state, and when building a program , you have to keep in mind the state of *all* of the objects that you currently are working with.
+
+To make our lives easier, it is best to have only a very small portion of the codebase deal with state. Let the core parts of your application be stateless and pure. This actually is the main reason for the huge success of the flux pattern on the frontend (aka [Redux](https://en.wikipedia.org/wiki/Redux_(JavaScript_library))).
+
+### Promiscuously shared state
+
+As if our lives aren't already hard enough because of having scattered mutable state, OOP goes one step further!
+
+**Real-world Example, Please!**
+
+Mutable state in the real world is almost never a problem, since things are kept private and never shared. This is "proper encapsulation" at work. Imagine a painter who is working on the next Mona Lisa painting. He is working on the painting alone, finishes up, and then sells his masterpiece for millions.
+
+Now, he's bored with all that money and decides to do things a little bit differently. He thinks that it would be a good idea to have a painting party. He invites his friends elf, Gandalf, policeman, and a zombie to help him out. Teamwork! They all start painting on the same canvas at the same time. Of course, nothing good comes out of it --- the painting is a complete disaster!
+
+Shared mutable state makes no sense in the real world. Yet this is exactly what happens in OOP programs --- state is promiscuously shared between various objects, and they mutate it in any way they see fit. This, in turn, makes reasoning about the program harder and harder as the codebase keeps growing.
+
+### Concurrency issues
+
+The promiscuous sharing of mutable state in OOP code makes parallelizing such code almost impossible. Complex mechanisms have been invented in order to address this problem. Thread locking, mutex, and many other mechanisms have been invented. Of course, such complex approaches have their own drawbacks --- deadlocks, lack of composability, debugging multi-threaded code is very hard and time-consuming. I'm not even talking about the increased complexity caused by making use of such concurrency mechanisms.
+
+### Not all state is evil
+
+Is all state evil? No, Alan Kay state probably is not evil! State mutation probably is fine if it is truly isolated (not the "OOP-way" isolated).
+
+It is also completely fine to have immutable data-transfer-objects. The key here is "immutable". Such objects are then used to pass data between functions.
+
+However, such objects would also make OOP methods and properties completely redundant. What's the use in having methods and properties on an object if it cannot be mutated?
+
+### Mutability is Inherent to OOP
+
+Some might argue that mutable state is a design choice in OOP, not an obligation. There is a problem with that statement. It is not a design choice, but pretty much the only option. Yes, one can pass immutable objects to methods in Java/C#, but this is rarely done since most of the developers default to data mutation. Even if developers attempt to make proper use of immutability in their OOP programs, the languages provide no built-in mechanisms for immutability, and for working effectively with immutable data (i.e. persistent data structures).
+
+Yes, we can ensure that objects communicate only by passing immutable messages and never pass any references (which is rarely done). Such programs would be more reliable than mainstream OOP. However, the objects still have to mutate their own state once a message has been received. A message is a side effect, and its single purpose is to cause changes. Messages would be useless if they couldn't mutate the state of other objects.
+
+It is impossible to make use of OOP without causing state mutations.
+
+### The Trojan Horse of Encapsulation
+
+We've been told that encapsulation is one of the greatest benefits of OOP. It is supposed to *protect *the object's internal state from outside access. There's a small problem with this though. It doesn't work.
+
+Encapsulation is the *trojan horse *of OOP. It sells the idea of shared mutable state by making it *appear *safe. Encapsulation allows (and even encourages) unsafe code to sneak into our codebase, making the codebase rot from within.
+
+### The global state problem
+
+We've been told that *global state* is the root of all evil. It should be avoided at all costs. What we have never been told is that encapsulation, in fact, is glorified global state.
+
+To make the code more efficient, objects are passed not by their value, but by their *reference*. This is where "dependency injection" falls flat.
+
+Let me explain. Whenever we create an object in OOP, we pass *references *to its dependencies to the *constructor*. Those dependencies also have their own *internal state. *The newly created object happily stores references to those dependencies in its internal state and is then happy to modify them in any way it pleases. And it also passes those references down to anything else it might end up using.
+
+This creates a complex graph of promiscuously shared objects that all end up changing each other's state. This, in turn, causes *huge *problems since it becomes almost impossible to see what caused the program state to change. Days might be wasted trying to debug such state changes. And you're lucky if you don't have to deal with concurrency (more on this later).
+
+### Methods/Properties
+
+The methods or properties that provide access to particular fields are *no better *than changing the value of a field directly. It doesn't matter whether you mutate an object's state by using a fancy property or method --- the *result is the same: mutated state.*
+
+### The Problem with Real World Modeling
+
+Some people say that OOP tries to model the real world. This is simply not true --- OOP has nothing to relate to in the real world. Trying to model programs as objects probably is one of the biggest OOP mistakes.
+
+### The real world is not hierarchical
+
+OOP attempts to model everything as a hierarchy of objects. Unfortunately, that is not how things work in the real world. Objects in the real world interact with each other using messages, but they mostly are independent of each other.
+
+### Inheritance in the real world
+
+OOP inheritance is not modeled after the real world. The parent object in the real world is unable to change the behavior of child objects at run-time. Even though you inherit your DNA from your parents, they're unable to make changes to your DNA as they please. You do not inherit "behaviors" from your parents, you develop your own behaviors. And you're unable to "override" your parents' behaviors.
+
+### The real world has no methods
+
+Does the piece of paper you're writing on have a "write" *method*? No! You take an empty piece of paper, pick up a pen, and write some text. You, as a person, don't have a "write" method either --- you make the decision to write some text based on outside events or your internal thoughts.
+
+### The Kingdom of Nouns
+
+> Objects bind functions and data structures together in indivisible units. I think this is a fundamental error since functions and data structures belong in totally different worlds.
+
+> --- [Joe Armstrong](http://harmful.cat-v.org/software/OO_programming/why_oo_sucks), creator of Erlang
+
+Objects (or nouns) are at the very core of OOP. A fundamental limitation of OOP is that it forces everything into nouns. And not everything should be modeled as nouns. Operations (functions) should not be modeled as objects. Why are we forced to create a `Multiplier`class when all we need is a function that multiplies two numbers? Simply have a `Multiply` function, let data be data and let functions be functions!
+
+In non-OOP languages, doing trivial things like saving data to a file is straightforward --- very similar to how you would describe an action in plain English.
+
+**Real-world example, please!**
+
+Sure, going back to the painter example, the painter owns a `PaintingFactory`. He has hired a dedicated `BrushManager` , `ColorManager`, a `CanvasManager` and a `MonaLisaProvider`. His good friend zombie makes use of a `BrainConsumingStrategy `. Those objects, in turn, define the following methods: `CreatePainting` , `FindBrush` , `PickColor` , `CallMonaLisa` , and `ConsumeBrainz`.
+
+Of course, this is plain stupidity, and could never have happened in the real world. How much unnecessary complexity has been created for the simple act of drawing a painting?
+
+There's no need to invent strange concepts to hold your functions when they're allowed to exist separately from the objects.
+
+### Unit Testing
+
+Automated testing is an important part of the development process and helps tremendously in preventing regressions (i.e. bugs being introduced into existing code). *Unit Testing* plays a huge role in the process of automated testing.
+
+Some might disagree, but OOP code is notoriously difficult to unit test. Unit Testing assumes testing things in isolation, and to make a method unit-testable:
+
+1. Its dependencies have to be extracted into a separate class.
+2. Create an interface for the newly created class.
+3. Declare fields to hold the instance of the newly created class.
+4. Make use of a mocking framework to mock the dependencies.
+5. Make use of a dependency-injection framework to inject the dependencies.
+
+How much more complexity has to be created just to make a piece of code testable? How much time was wasted just to make some code testable?
+
+*> PS we'd also have to instantiate the entire class in order to test a single method. This will also bring in the code from all of its parent classes.*
+
+With OOP, writing tests for legacy code is even harder --- almost impossible. Entire companies have been created ([TypeMock](https://www.typemock.com/)) around the issue of testing legacy OOP code.
+
+### Boilerplate code
+
+Boilerplate code is probably the biggest offender when it comes to the signal-to-noise ratio. Boilerplate code is "noise" that is required to get the program to compile. Boilerplate code takes time to write and makes the codebase less readable because of the added noise.
+
+While "program to an interface, not to an implementation" is the recommended approach in OOP, not everything should become an interface. We'd have to resort to using interfaces in the entire codebase, for the sole purpose of testability. We'd also probably have to make use of dependency injection, which further introduced unnecessary complexity.
+
+### Testing private methods
+
+Some people say that private methods shouldn't be tested... I tend to disagree, unit testing is called "unit" for a reason --- test small units of code in isolation. Yet testing of private methods in OOP is nearly impossible. We shouldn't be making private methods`internal` just for the sake of testability.
+
+In order to achieve testability of private methods, they usually have to be extracted into a separate object. This, in turn, introduces unnecessary complexity and boilerplate code.
+
+### Refactoring
+
+Refactoring is an important part of a developer's day-to-day job. Ironically, OOP code is notoriously hard to refactor. Refactoring is supposed to make the code less complex, and more maintainable. On the contrary, refactored OOP code becomes significantly more complex --- to make the code testable, we'd have to make use of dependency injection, and create an interface for the refactored class. Even then, refactoring OOP code is really hard without dedicated tools like Resharper.
+
+In the simple example above, the line count has more than doubled just to extract a single method. Why does refactoring create even more complexity, when the code is being refactored in order to decrease complexity in the first place?
+
+Contrast this to a similar refactor of non-OOP code in JavaScript:
+
+The code has literally stayed the same --- we simply moved the `isValidInput` function to a different file and added a single line to import that function. We've also added `_isValidInput` to the function signature for the sake of testability.
+
+This is a simple example, but in practice the complexity grows exponentially as the codebase gets bigger.
+
+And that's not all. Refactoring OOP code is *extremely risky*. Complex dependency graphs and state scattered all over OOP codebase, make it impossible for the human brain to consider all of the potential issues.
+
+### The Band-aids
+
+What do we do when something is not working? It is simple, we only have two options --- throw it away or try fixing it. OOP is something that can't be thrown away easily, millions of developers are trained in OOP. And millions of organizations worldwide are using OOP.
+
+You probably see now that OOP *doesn't really work*, it makes our code complex and unreliable. And you're not alone! People have been thinking hard for *decades *trying to address the issues prevalent in OOP code. They've come up with a myriad of [*design patterns*](https://suzdalnitski.com/oop-design-patterns-bd2c4fb3014c)*.*
+
+### Design patterns
+
+OOP provides a set of guidelines that should *theoretically *allow developers to incrementally build larger and larger systems: SOLID principle, dependency injection, design patterns, and others.
+
+Unfortunately, the design patterns are nothing other than band-aids. They exist solely to address the *shortcomings *of OOP. A myriad of books has even been written on the topic. They wouldn't have been so bad, had they not been responsible for the introduction of enormous complexity to our codebases.
+
+### The problem factory
+
+In fact, it is impossible to write good and maintainable Object-Oriented code.
+
+On one side of the spectrum we have an OOP codebase that is inconsistent and doesn't seem to adhere to any standards. On the other side of the spectrum, we have a tower of over-engineered code, a bunch of erroneous abstractions built one on top of one another. Design patterns are very helpful in building such towers of abstractions.
+
+Soon, adding in new functionality, and even making sense of all the complexity, gets harder and harder. The codebase will be full of things like `SimpleBeanFactoryAwareAspectInstanceFactory`, `AbstractInterceptorDrivenBeanDefinitionDecorator`, `TransactionAwarePersistenceManagerFactoryProxy`or`RequestProcessorFactoryFactory` .
+
+Precious brainpower has to be wasted trying to understand the tower of abstractions that the developers themselves have created. The absence of structure is in many cases better than having bad structure (if you ask me).
+
+![](https://cdn-images-1.readmedium.com/v2/resize:fit:800/1*_xDSrTC0F2lke6OYtkRm8g.png)
+
+Image source: https://www.reddit.com/r/ProgrammerHumor/comments/418x95/theory_vs_reality
+
+Further reading: [FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition)
+
+### The Fall of the Four OOP Pillars
+
+The four pillars of OOP are: Abstraction, Inheritance, Encapsulation, and Polymorphism.
+
+Let's see what they really are, one-by-one.
+
+### Inheritance
+
+> I think the lack of reusability comes in object-oriented languages, not in functional languages. Because the problem with object-oriented languages is they've got all this implicit environment that they carry around with them. You wanted a banana but what you got was a gorilla holding the banana and the entire jungle.
+
+> --- Joe Armstrong, creator of Erlang
+
+OOP inheritance has nothing to do with the real world. Inheritance, in fact, is an inferior way to achieve code reusability. The gang of four has explicitly recommended preferring composition over inheritance. Some [modern programming languages](https://en.wikipedia.org/wiki/Go_(programming_language)) avoid inheritance altogether.
+
+There are a few problems with inheritance:
+
+1. Bringing in a lot of code that your class doesn't even need (banana and the jungle problem).
+2. Having parts of your class defined somewhere else makes the code hard to reason about, especially with multiple levels of inheritance.
+3. In most programming languages, multiple inheritance isn't even possible. This mostly renders inheritance useless as a code-sharing mechanism.
+
+### OOP polymorphism
+
+Polymorphism is great, it allows us to change program behavior at runtime. However, it is a very basic concept in computer programming. I'm not too sure why OOP focuses so much on polymorphism. OOP polymorphism gets the job done but once again it results in the act of mental juggling. It makes the codebase significantly more complex, and reasoning about the concrete method that is being invoked becomes really hard.
+
+Functional programming, on the other hand, allows us to achieve the same polymorphism in a much more elegant way...by simply passing in a function that defines the desired runtime behavior. What could be simpler than that? No need to define a bunch of overloaded abstract virtual methods in multiple files (and the interface).
+
+### Encapsulation
+
+As we discussed earlier, encapsulation is the trojan horse of OOP. It is actually a glorified global mutable state and makes the *unsafe *code appear safe. An unsafe coding practice is a pillar that OOP programmers rely on in their day-to-day job...
+
+### Abstraction
+
+Abstraction in OOP attempts to tackle complexity by hiding unnecessary details from the programmer. *Theoretically*, it should allow the developer to reason about the codebase without having to think about the hidden complexity.
+
+I don't even know what to say...a fancy word for a simple concept. In procedural/functional languages we can simply "hide" the implementation details in a neighboring file. No need to call this basic act an "abstraction".
+
+*For more details on the fall of OOP pillars, please read [Goodbye, Object Oriented Programming](https://readmedium.com/goodbye-object-oriented-programming-a59cda4c0e53)*
+
+### Why Does OOP Dominate the Industry?
+
+The answer is simple, the reptiloid alien race has conspired with the NSA (and the Russians) to torture us programmers to death...
+
+But seriously, [Java](https://betterprogramming.pub/modern-languages-suck-ad21cbc8a57c) is probably the answer.
+
+> [Java](https://betterprogramming.pub/modern-languages-suck-ad21cbc8a57c) is the most distressing thing to happen to computing since MS-DOS.
+
+> - Alan Kay, the [inventor](http://www.cc.gatech.edu/fac/mark.guzdial/squeak/oopsla.html) of object-oriented programming
+
+### Java was Simple
+
+When it was first introduced in 1995, Java was a very simple programming language, compared to the alternatives. At that time, the barrier of entry for writing desktop applications was high. Developing desktop applications involved writing low-level win32 APIs in C, and developers also had to concern themselves with manual memory management. The other alternative was Visual Basic, but many probably didn't want to lock themselves into the Microsoft ecosystem.
+
+When Java was introduced, it was a no-brainer for many developers since it was free, and could be used across all platforms. Things like built-in garbage collection, friendly-named APIs (compared to the cryptic win32 APIs), proper namespaces, and familiar C-like syntax made Java even more approachable.
+
+GUI programming was also becoming more popular, and it seemed that various UI components mapped well to classes. Method autocompletion in the IDEs also made people claim that OOP APIs are easier to use.
+
+Perhaps Java wouldn't have been so bad had it not forced OOP on developers. Everything else about Java seemed pretty good. Its garbage collection, portability, exception handling features, which other mainstream programming languages lacked, were really great in 1995,
+
+### Then C# came along
+
+Initially, Microsoft had been relying heavily on Java. When things started getting awry (and after a long legal battle with Sun Microsystems over Java licensing), Microsoft decided to invest in its own version of Java. That is when [C# 1.0](https://betterprogramming.pub/modern-languages-suck-ad21cbc8a57c) was born. C# as a language has always been thought of as "the better Java". However, there's one huge problem --- it was the same OOP language with the same flaws, hidden under a slightly improved syntax.
+
+Microsoft has been investing heavily in its .NET ecosystem, which also included good developer tooling. For years Visual Studio has probably been one of the best IDEs available. This, in turn, has led to wide-spread adoption of the .NET framework, especially in the enterprise.
+
+More recently Microsoft has been investing heavily in the browser ecosystem, by pushing its TypeScript. TypeScript is great because it can compile pure JavaScript and adds in things like static type checking. What's not so great about it is it has no proper support for functional constructs --- no built-in immutable data structures, no function composition, no proper pattern matching. TypeScript is OOP-first, and mostly is C# for the browser. [Anders Hejlsberg](https://en.wikipedia.org/wiki/Anders_Hejlsberg) was even responsible for the design of both C# and TypeScript.
+
+### Functional languages
+
+[Functional languages](https://betterprogramming.pub/modern-languages-suck-ad21cbc8a57c), on the other hand, have never been backed by someone as big as Microsoft. F# doesn't count since the investment was minuscule. The development of functional languages is mostly community-driven. This probably explains the differences in popularity between OOP and FP languages.
+
+### Time to Move On?
+
+> We now know that OOP is an experiment that failed. It is time to move on. It is time that we, as a community, admit that this idea has failed us, and we must give up on it.
+
+> - [Lawrence Krubner](http://www.smashcompany.com/technology/object-oriented-programming-is-an-expensive-disaster-which-must-end)
+
+Why are we stuck using something that fundamentally is a suboptimal way to organize programs? Is this plain ignorance? I doubt it, the people working in software engineering aren't stupid. Are we perhaps more worried about "looking smart" in the face of our peers by making use of fancy OOP terms like "design patterns", "abstraction", "encapsulation", "polymorphism" and "interface segregation"? Probably not.
+
+I think that it's really easy to continue using something that we've been using for decades. Most of the people have never really tried Functional Programming. Those who have (like myself) can never go back to writing OOP code.
+
+Henry Ford once famously said --- "If I had asked people what they wanted, they would have said *faster horses*". In the world of software, most people would probably want a "better OOP language". People can easily describe a problem they're having (getting the codebase organized and less complex), but not the best solution.
+
+### What Are the Alternatives?
+
+*Spoiler alert: Functional Programming*.
+
+If terms like functors and monads make you a little uneasy, then you're not alone! Functional Programming wouldn't have been so scary had they given more intuitive names to some of its concepts. Functor? That's simply something we can transform with a function, think `list.map`. Monad? Simply computations that can be chained!
+
+Trying out Functional Programming will make you a better developer. You will finally have the time to write real code that solves real-world problems, rather than having to spend most of your time thinking about abstractions and design patterns.
+
+You might not realize this, but you already are a functional programmer. Are you using functions in your day-to-day work? Yes? Then you're already a functional programmer! You just have to learn how to make the best use of those functions.
+
+Two great functional languages with a very gentle learning curve are [Elixir ](https://elixir-lang.org/)and [Elm](https://elm-lang.org/). They let the developer focus on what matters most --- writing reliable software while removing all of the complexity that more traditional functional languages have.
+
+What are the other options? Is your organization already is using C#? Give F# a try --- it is an amazing functional language, and provides great interoperability with the existing .NET code. Using Java? Then using Scala or Clojure are both really good options. Using JavaScript? With the right guidance and linting, JavaScript can be a good functional language.
+
+### The Defenders of OOP
+
+I expect some sort of reaction from the defenders of OOP. They will say that this article is full of inaccuracies. Some might even start calling names. They might even call me a "junior" developer with no real-world OOP experience. Some might say that my assumptions are erroneous, and examples are useless. Whatever.
+
+They have the right to their opinion. However, their arguments in the defense of OOP are usually quite weak. It is ironic that most of them probably have never really programmed in a true functional language. How can someone draw comparisons between two things if you have never really tried both? Such comparisons aren't very useful.
+
+The Law of Demeter is not very useful --- it does nothing to address the issue of non-determinism, shared [mutable state](https://suzdalnitski.com/terrible-coding-mistake-aa1fbebd83b4) is still shared mutable state, no matter how you access or mutate that state. `a.total()`is not much better than `a.getB().getC().total()`. It simply sweeps the problem under the rug.
+
+Domain-Driven Design? That's a useful design methodology, it helps a bit with the complexity. However, it still does nothing to address the fundamental issue of shared mutable state.
+
+### Just a tool in a toolbox...
+
+I often hear people say that OOP is just another tool in a toolbox. Yes, it is as much a tool in a toolbox as horses and cars are both tools for transportation... After all, they all serve the same purpose, right? Why use cars when we can continue riding good old horses?
+
+### History repeats itself
+
+This actually reminds me of [something](https://99percentinvisible.org/article/cities-paved-dung-urban-design-great-horse-manure-crisis-1894/). At the beginning of the 20th century, automobiles started replacing the horses. In the year 1900 New York had only a few cars on the roads, people have been using horses for transportation. In the year 1917, no more horses were left on the roads. A huge industry was centered around horse transportation. Entire businesses have been created around things like manure cleaning.
+
+And people resisted change. They called automobiles another "fad" that eventually pass. After all, horses have been here for centuries! Some even asked the government to intervene.
+
+How is this relevant? The software industry is centered around OOP. Millions of people are trained in OOP, and millions of companies make use of OOP in their code. Of course, they will try to discredit anything that threatens their bread-and-butter! It's just common sense.
+
+We clearly see the history repeating itself --- in the 20th century it was the horses vs automobiles, in the 21st century it is Object-Oriented vs Functional Programming.
 
 ## pirate party revolution statement theory
 
@@ -5492,9 +6066,9 @@ Releases view that shows nothing, even though I had just created a release.
 
 This resulted in me having three questions on my mind now:
 
-1.  *"Can't find that version" --- what? what version? I haven't even start looking for any specific version yet.*
-2.  *Is release the same thing as version? (Why don't you guys stick to one naming?)*
-3.  *Where is the version/release I had created?*
+1. *"Can't find that version" --- what? what version? I haven't even start looking for any specific version yet.*
+2. *Is release the same thing as version? (Why don't you guys stick to one naming?)*
+3. *Where is the version/release I had created?*
 
 After changing the search filters from "Unreleased" to "Released", I learned that release has in fact been created but it has been marked as "Released". Even though I had set the date of it to be in the future. Why?
 
@@ -6288,7 +6862,7 @@ https://github.com/timqian/chinese-independent-blogs
 
 该仓库根据 feedly 的 RSS 订阅数，列出了主要的中文独立博客。（@timqian 投稿）
 
-## tesla auto driving is tradeoff between killing some and saving a lot quote
+## tesla auto driving is tradeoff between killing some and saving many quote theory
 
 特斯拉汽车的自动驾驶可以挽救数百万人的生命，但它可能首先会造成一些人的死亡，然后才能达到这个目标。
 
@@ -6391,6 +6965,1936 @@ Spend time with users often and regularly and your designs will become more rele
 https://www.p2hp.com/screenrecord.html
 
 一个浏览器里面的在线录屏小工具。（@w3yyb 投稿）
+
+## encryption base is big numbers resolve theory
+
+大整数分解的新纪录
+
+https://lists.gforge.inria.fr/pipermail/cado-nfs-discuss/2019-December/001139.html
+
+美国科学家宣布，240个十进制位的整数分解成功（相当于795个二进制位），找到了它的两个大质数因子。这是已经公布的最高纪录，此前的记录是768个二进制位整数。
+
+整数分解是加密学的基石，一旦实现快速的整数分解，现代的公钥加密就会失效。目前主流的加密强度是2048个二进制位的密钥，所以还是安全的。本次分解在 2.1G CPU 上需要4000核年，即单核运算需要4000年，多核运算的总花费大约为十多万美元。
+
+## chat between same page viewers idea story web app
+
+Same Page 2
+
+https://chrome.google.com/webstore/detail/same-page-2/bldcellajihanglphncgjmceklbibjkk
+
+Chrome 浏览器插件，让浏览同一个网页的访问者互联聊天，源码在 GitHub。
+
+## basecamp we dont want to run this ad story
+
+Basecamp 广告
+
+https://www.seroundtable.com/basecamp-google-ad-28161.html
+
+![](https://www.wangbase.com/blogimg/asset/201910/bg2019102104.jpg)
+
+Basecamp 公司最近在谷歌的搜索页上，做了一个广告，题目叫做"我们不想投放此广告"。
+
+我们是这个搜索词排名第一的公司，但谷歌允许其他公司在我们上面做广告。所以我们在这里页面，一家很小的独立公司向一家大型科技公司支付赎金。"
+
+## instagram by a small team quote
+
+你知道，Instagram 被10亿美元收购时，只有12个员工吗？
+
+-- HN 读者
+
+https://news.ycombinator.com/item?id=21359505
+
+## a phone in pocket is all knowledge of humanity but meaningless conflicts quote theory
+
+我口袋里有一个小设备，可以访问几乎全部的人类知识。我却用它与不认识的人进行毫无意义的争论，并看猫的照片。
+
+-- HN 读者
+
+https://news.ycombinator.com/item?id=21360284
+
+(the original)
+
+I have a small device in my pocket that provides access to nearly the sum total of human knowledge. I use it to get into pointless arguments with people I don't know and look at pictures of cats. (I wish I could claim that as original but it is something I read on the Internet. Between cats. :-/ )
+
+## moving fast like killing a snake quote
+
+最近，我读到两段话，都是用蛇比喻企业管理。
+
+![](https://www.wangbase.com/blogimg/asset/201912/bg2019122601.jpg)
+
+第一段话出自 Netscape 公司的首席执行官 James Barksdale。
+
+> 在 Netscape，我们有三条规则。
+>
+> 第一条规则是，如果你看到一条蛇，不要打电话给管理委员会，不要打电话给朋友，不要组建一个团队，不要召开会议，你要做的就是杀死蛇。
+>
+> 第二条规则是，不要跑回去玩那条死蛇。太多的人浪费了太多时间，为那些已经做出的决定。
+>
+> 第三条规则是，所有机会一开始的时候，看起来都像蛇，需要找到出问题的地方。
+
+他的意思是，第一个看到问题的人，就要立刻着手解决，不要拖延。
+
+![](https://www.wangbase.com/blogimg/asset/201912/bg2019122602.jpg)
+
+第二段话出自亿万富翁 Ross Perot 评论通用汽车公司的管理。
+
+> 我来自一个环境，如果谁看到一条蛇，就会杀死它。
+>
+> 但是，在通用汽车公司，如果你看到蛇，做的第一件事就是雇用一个咨询顾问，讨论这个问题。然后，成立了一个委员会，研究怎么做。讨论了几年，最有可能的结果是什么都没做。因为这条蛇还没有咬任何人，所以你就放任它在工厂地板上爬行。
+>
+> 我们需要建立一个环境，让第一个看到蛇的人杀死它。
+
+我觉得，这两段话都说得很好，值得分享给大家。
+
+不过，他们这样说的前提是，你有能力杀死蛇。但是我觉得，很多时候遇到的是大蛇，你根本没有能力杀死它，尤其对于小企业和个人的人生，你遇到的问题都比你强大。这时唯一的对策，大概只能是不管蛇，认准自己的方向，拼命往前跑（发展壮大），希望能摆脱它。
+
+## css theme utility classes abstracted theory
+
+如何写出可复用的 CSS 样式表？（英文）
+
+https://adamwathan.me/css-utility-classes-and-separation-of-concerns/
+
+Tailwind CSS 框架的作者谈自己如何一步步探索，写出与 HTML 代码彻底分离的、可以复用的 CSS 样式表。
+
+(the original)
+
+### CSS Utility Classes and "Separation of Concerns"
+
+Over the last several years, the way I write CSS has transitioned from a very "semantic" approach to something much more like what is often called "functional CSS."
+
+Writing CSS this way can evoke [a pretty visceral reaction](https://twitter.com/mezzoblue/status/794419442272714752) from a lot of developers, so I'd like to explain how I got to this point and share some of the lessons and insights I've picked up along the way.
+
+### Phase 1: "Semantic" CSS
+
+One of the best practices you'll hear about when you're trying to learn how to CSS good is "separation of concerns."
+
+The idea is that your HTML should only contain information about your *content*, and all of your styling decisions should be made in your CSS.
+
+Take a look at this HTML:
+
+```html
+<p class="text-center">
+    Hello there!
+</p>
+```
+
+See that `.text-center` class? Centering text is a design decision, so this code violates "separation of concerns" because we've let styling information bleed into our HTML.
+
+Instead, the recommended approach is to give your elements class names based on their content, and use those classes as *hooks* in your CSS to style your markup:
+
+```html
+<style>
+.greeting {
+    text-align: center;
+}
+</style>
+
+<p class="greeting">
+    Hello there!
+</p>
+```
+
+The quintessential example of this approach has always been [CSS Zen Garden](http://www.csszengarden.com/); a site designed to show that if you "separate your concerns", you can completely redesign a site just by swapping out the stylesheet.
+
+My workflow looked something like this:
+
+1. Write the markup I needed for some new UI *(an author bio card in this case)*:
+
+```html
+<div>
+  <img src="https://cdn-images-1.medium.com/max/1600/0*o3c1g40EXj65Fq9k." alt="">
+  <div>
+    <h2>Adam Wathan</h2>
+    <p>
+      Adam is a rad dude who likes TDD, Active Record, and garlic bread with cheese. He also hosts a decent podcast and has never had a really great haircut.
+    </p>
+  </div>
+</div>
+```
+
+2. Add a descriptive class or two based on the content:
+
+```diff
+- <div>
++ <div class="author-bio">
+    <img src="https://cdn-images-1.medium.com/max/1600/0*o3c1g40EXj65Fq9k." alt="">
+    <div>
+      <h2>Adam Wathan</h2>
+      <p>
+        Adam is a rad dude who likes TDD, Active Record, and garlic bread with cheese. He also hosts a decent podcast and has never had a really great haircut.
+      </p>
+    </div>
+  </div>
+```
+
+3. Use those classes as "hooks" in my CSS/Less/Sass to style my new markup:
+
+```css
+.author-bio {
+  background-color: white;
+  border: 1px solid hsl(0,0%,85%);
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  overflow: hidden;
+  > img {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+  > div {
+    padding: 1rem;
+    > h2 {
+      font-size: 1.25rem;
+      color: rgba(0,0,0,0.8);
+    }
+    > p {
+      font-size: 1rem;
+      color: rgba(0,0,0,0.75);
+      line-height: 1.5;
+    }
+  }
+}
+```
+
+Here's a demo of the final result:
+
+See the Pen ["Semantic" mapping layer (terrible idea!)](https://codepen.io/adamwathan/pen/ZJeWBY/) by Adam Wathan ([@adamwathan](https://codepen.io/adamwathan)) on [CodePen](https://codepen.io/).
+
+This approach intuitively made sense to me, and for a while this is how I wrote HTML and CSS.
+
+Eventually though, something started to feel a bit off.
+
+I had "separated my concerns", but there was still a very obvious coupling between my CSS and my HTML. Most of the time my CSS was like a mirror for my markup; perfectly reflecting my HTML structure with nested CSS selectors.
+
+My markup wasn't concerned with styling decisions, but my CSS was very concerned with my markup structure.
+
+Maybe my concerns weren't so separated after all.
+
+### Phase 2: Decoupling styles from structure
+
+After looking around for a solution to this coupling, I started finding more and more recommendations towards adding more classes to your markup so you could target them directly; keeping selector specificity low and making your CSS less dependent on your particular DOM structure.
+
+The most well-known methodology that advocates this idea is [Block Element Modifer](http://getbem.com/introduction/), or *BEM* for short.
+
+Taking a BEM-like approach, the markup for our author bio might look more like this:
+
+```html
+<div class="author-bio">
+  <img class="author-bio__image" src="https://cdn-images-1.medium.com/max/1600/0*o3c1g40EXj65Fq9k." alt="">
+  <div class="author-bio__content">
+    <h2 class="author-bio__name">Adam Wathan</h2>
+    <p class="author-bio__body">
+      Adam is a rad dude who likes TDD, Active Record, and garlic bread with cheese. He also hosts a decent podcast and has never had a really great haircut.
+    </p>
+  </div>
+</div>
+```
+
+...and our CSS would look like this:
+
+```css
+.author-bio {
+  background-color: white;
+  border: 1px solid hsl(0,0%,85%);
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  overflow: hidden;
+}
+.author-bio__image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+.author-bio__content {
+  padding: 1rem;
+}
+.author-bio__name {
+  font-size: 1.25rem;
+  color: rgba(0,0,0,0.8);
+}
+.author-bio__body {
+  font-size: 1rem;
+  color: rgba(0,0,0,0.75);
+  line-height: 1.5;
+}
+```
+
+*[View on CodePen](https://codepen.io/adamwathan/pen/ZJepYj)*
+
+This felt like a huge improvement to me. My markup was still "semantic" and didn't contain any styling decisions, and now my CSS felt decoupled from my markup structure, with the added bonus of avoiding unnecessary selector specificity.
+
+But then I ran into a dilemma.
+
+### Dealing with similar components
+
+Say I needed to add a new feature to the site: displaying a preview of an article in a card layout.
+
+Say this article preview card had a full bleed image on the top, a padded content section below, a bold title, and some smaller body text.
+
+Say it looked exactly like an author bio.
+
+![](https://user-images.githubusercontent.com/4323180/29088772-342696c0-7c48-11e7-877d-9f28b52a7a51.png)
+
+What's the best way to handle this while still separating our concerns?
+
+We can't apply our `.author-bio` classes to our article preview; that wouldn't be semantic. So we definitely need to make `.article-preview` its own component.
+
+Here's what our markup could look like:
+
+```html
+<div class="article-preview">
+  <img class="article-preview__image" src="https://i.vimeocdn.com/video/585037904_1280x720.webp" alt="">
+  <div class="article-preview__content">
+    <h2 class="article-preview__title">Stubbing Eloquent Relations for Faster Tests</h2>
+    <p class="article-preview__body">
+      In this quick blog post and screencast, I share a trick I use to speed up tests that use Eloquent relationships but don't really depend on database functionality.
+    </p>
+  </div>
+</div>
+```
+
+But how should we handle the CSS?
+
+### Option 1: Duplicate the styles
+
+One approach would be to straight up duplicate our `.author-bio` styles and rename the classes:
+
+```css
+.article-preview {
+  background-color: white;
+  border: 1px solid hsl(0,0%,85%);
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  overflow: hidden;
+}
+.article-preview__image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+.article-preview__content {
+  padding: 1rem;
+}
+.article-preview__title {
+  font-size: 1.25rem;
+  color: rgba(0,0,0,0.8);
+}
+.article-preview__body {
+  font-size: 1rem;
+  color: rgba(0,0,0,0.75);
+  line-height: 1.5;
+}
+```
+
+This works but of course it's not very *DRY*. It also makes it a bit too easy for these components to differ in slightly different ways (maybe a different padding, or font color) which can lead to an inconsistent looking design.
+
+### Option 2: `@extend` the author bio component
+
+Another approach is to use the `@extend` feature of your preprocessor of choice; letting you piggy-back off of the styles already defined in our `.author-bio` component:
+
+```css
+.article-preview {
+  @extend .author-bio;
+}
+.article-preview__image {
+  @extend .author-bio__image;
+}
+.article-preview__content {
+  @extend .author-bio__content;
+}
+.article-preview__title {
+  @extend .author-bio__name;
+}
+.article-preview__body {
+  @extend .author-bio__body;
+}
+```
+
+*[View on CodePen](https://codepen.io/adamwathan/pen/ZJepLq)*
+
+Using `@extend` at all is [generally not recommended](https://csswizardry.com/2014/11/when-to-use-extend-when-to-use-a-mixin/), but that aside, this feels like it solves our problem right?
+
+We've removed the duplication in our CSS, and our markup is still free of styling decisions.
+
+But let's examine one more option...
+
+### Option 3: Create a content-agnostic component
+
+Our `.author-bio` and `.article-preview` components have nothing in common from a "semantic" perspective. One is the bio of an author, the other is a preview of an article.
+
+But as we've already seen, they have a *lot* in common from a design perspective.
+
+So if we wanted to, we could create a new component named after what they *do* have in common, and reuse that component for both types of content.
+
+Let's call it a `.media-card`.
+
+Here's the CSS:
+
+```css
+.media-card {
+  background-color: white;
+  border: 1px solid hsl(0,0%,85%);
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  overflow: hidden;
+}
+.media-card__image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+.media-card__content {
+  padding: 1rem;
+}
+.media-card__title {
+  font-size: 1.25rem;
+  color: rgba(0,0,0,0.8);
+}
+.media-card__body {
+  font-size: 1rem;
+  color: rgba(0,0,0,0.75);
+  line-height: 1.5;
+}
+```
+
+...here's what the markup for our author bio would look like:
+
+```html
+<div class="media-card">
+  <img class="media-card__image" src="https://cdn-images-1.medium.com/max/1600/0*o3c1g40EXj65Fq9k." alt="">
+  <div class="media-card__content">
+    <h2 class="media-card__title">Adam Wathan</h2>
+    <p class="media-card__body">
+      Adam is a rad dude who likes TDD, Active Record, and garlic bread with cheese. He also hosts a decent podcast and has never had a really great haircut.
+    </p>
+  </div>
+</div>
+```
+
+...and here's the markup for our article preview:
+
+```html
+<div class="media-card">
+  <img class="media-card__image" src="https://i.vimeocdn.com/video/585037904_1280x720.webp" alt="">
+  <div class="media-card__content">
+    <h2 class="media-card__title">Stubbing Eloquent Relations for Faster Tests</h2>
+    <p class="media-card__body">
+      In this quick blog post and screencast, I share a trick I use to speed up tests that use Eloquent relationships but don't really depend on database functionality.
+    </p>
+  </div>
+</div>
+```
+
+This approach also removes the duplication from our CSS, but aren't we "mixing concerns" now?
+
+Our markup all of a sudden knows that we want both of these pieces of content to be styled as media cards. What if we wanted to change how the author bio looked without changing how the article preview looks?
+
+Before, we could just open up our stylesheet and choose new styles for either of the two components. Now we'd need to edit the HTML! *Blasphemy!*
+
+But let's think about the flip side for a minute.
+
+What if we needed to add *a new type of content* that also needed the same styling?
+
+Using a "semantic" approach, we'd need to write the new HTML, add some content-specific classes as styling "hooks", open up our stylesheet, create a new CSS component for the new content type, and apply the shared styles, either through duplication or using `@extend` or a mixin.
+
+Using our content-agnostic `.media-card` class, all we'd need to write is the new HTML; we wouldn't have to open the stylesheet at all.
+
+If we're really "mixing concerns", shouldn't we need to make changes in multiple places?
+
+### "Separation of concerns" is a straw man
+
+When you think about the relationship between HTML and CSS in terms of "separation of concerns", it's very black and white.
+
+You either have separation of concerns *(good!)*, or you don't *(bad!)*.
+
+This is not the right way to think about HTML and CSS.
+
+Instead, think about *dependency direction.*
+
+There are two ways you can write HTML and CSS:
+
+1. ~~*"Separation of Concerns"*~~CSS that depends on HTML.
+
+Naming your classes based on your content (like `.author-bio`) treats your HTML as a dependency of your CSS.
+
+The HTML is independent; it doesn't care how you make it look, it just exposes *hooks* like `.author-bio` that *the HTML controls.*
+
+Your CSS on the other hand is not independent; it needs to know what classes your HTML has decided to expose, and it needs to target those classes to style the HTML.
+
+In this model, your HTML is restyleable, but your CSS is not reusable.
+
+2. ~~*"Mixing Concerns"*~~HTML that depends on CSS.
+
+Naming your classes in a content-agnostic way after the repeating patterns in your UI (like `.media-card`) treats your CSS as a dependency of your HTML.
+
+The CSS is independent; it doesn't care what content it's being applied to, it just exposes a set of building blocks that you can apply to your markup.
+
+Your HTML is not independent; it's making use of classes that have been provided by the CSS, and it needs to know what classes exist so that it combine them however it needs to to achieve the desired design.
+
+In this model, your CSS is reusable, but your HTML is not restyleable.
+
+CSS Zen Garden takes the first approach, while UI frameworks like [Bootstrap](http://v4-alpha.getbootstrap.com/) or [Bulma](http://bulma.io/) take the second approach.
+
+Neither is inherently "wrong"; it's just a decision made based on what's more important to you in a specific context.
+
+For the project you're working on, what would be more valuable: restyleable HTML, or reusable CSS?
+
+### Choosing reusability
+
+The turning point for me came when I read Nicolas Gallagher's [About HTML semantics and front-end architecture](http://nicolasgallagher.com/about-html-semantics-front-end-architecture/).
+
+I won't reiterate all of his points here, but needless to say I came away from that blog post fully convinced that optimizing for reusable CSS was going to be the right choice for the sorts of projects I work on.
+
+### Phase 3: Content-agnostic CSS components
+
+My goal at this point was to *explicitly avoid* creating classes that were based on my content, instead trying to name everything in a way that was as reusable as possible.
+
+That resulted in class names like:
+
+- `.card`
+- `.btn`, `.btn--primary`, `.btn--secondary`
+- `.badge`
+- `.card-list`, `.card-list-item`
+- `.img--round`
+- `.modal-form`, `.modal-form-section`
+
+...and so on and so forth.
+
+I noticed something else when I started focusing on creating reusable classes:
+
+The more a component does, or the more specific a component is, the harder it is to reuse.
+
+Here's an intuitive example.
+
+Say we were building a form, with a few form sections, and a submit button at the bottom.
+
+If we thought of all of the form contents as part of a `.stacked-form` component, we might give the submit button a class like `.stacked-form__button`:
+
+```html
+<form class="stacked-form" action="#">
+  <div class="stacked-form__section">
+    <!-- ... -->
+  </div>
+  <div class="stacked-form__section">
+    <!-- ... -->
+  </div>
+  <div class="stacked-form__section">
+    <button class="stacked-form__button">Submit</button>
+  </div>
+</form>
+```
+
+But maybe there's another button on our site that's *not* part of a form that we need to style the same way.
+
+Using the `.stacked-form__button` class on that button wouldn't make a lot of sense; it's not part of a stacked form.
+
+Both of these buttons are primary actions on their respective pages though, so what if we named the button based on what the components have in common and called it `.btn--primary`, removing the `.stacked-form__` prefix completely?
+
+```diff
+  <form class="stacked-form" action="#">
+    <!-- ... -->
+    <div class="stacked-form__section">
+- <button class="stacked-form__button">Submit</button>
++     <button class="btn btn--primary">Submit</button>
+    </div>
+  </form>
+```
+
+Now say we wanted this stacked form to look like it was in a floated card.
+
+One approach would be to create a modifier and apply it to this form:
+
+```diff
+- <form class="stacked-form" action="#">
++ <form class="stacked-form stacked-form--card" action="#">
+    <!-- ... -->
+  </form>
+```
+
+But if we already have a `.card` class, why don't we *compose* this new UI using our existing card and stacked form?
+
+```diff
++ <div class="card">
+    <form class="stacked-form" action="#">
+      <!-- ... -->
+    </form>
++ </div>
+```
+
+By taking this approach, we have a `.card` that can be a home for any content, and an unopinionated `.stacked-form` that can be used inside of any container.
+
+We're getting more reuse out of our components, and we didn't have to write any new CSS.
+
+### Composition over subcomponents
+
+Say we needed to add another button to the bottom of our stacked form, and we wanted it to be spaced out a little from the existing button:
+
+```html
+<form class="stacked-form" action="#">
+  <!-- ... -->
+  <div class="stacked-form__section">
+    <button class="btn btn--secondary">Cancel</button>
+    <!-- Need some space in here -->
+    <button class="btn btn--primary">Submit</button>
+  </div>
+</form>
+```
+
+One approach would be to create a new subcomponent, like `.stacked-form__footer`, add an additional class to each button like `.stacked-form__footer-item`, and use descendant selectors to add some margin:
+
+```diff
+  <form class="stacked-form" action="#">
+    <!-- ... -->
+- <div class="stacked-form__section">
++   <div class="stacked-form__section stacked-form__footer">
+- <button class="btn btn--secondary">Cancel</button>
+- <button class="btn btn--primary">Submit</button>
++     <button class="stacked-form__footer-item btn btn--secondary">Cancel</button>
++     <button class="stacked-form__footer-item btn btn--primary">Submit</button>
+    </div>
+  </form>
+```
+
+Here's what the CSS might look like:
+
+```css
+.stacked-form__footer {
+  text-align: right;
+}
+.stacked-form__footer-item {
+  margin-right: 1rem;
+  &:last-child {
+    margin-right: 0;
+  }
+}
+```
+
+But what if we had this same problem in a subnav somewhere, or a header?
+
+We can't reuse the `.stacked-form__footer` outside of a `.stacked-form`, so maybe we make a new subcomponent inside of our header:
+
+```diff
+  <header class="header-bar">
+    <h2 class="header-bar__title">New Product</h2>
++   <div class="header-bar__actions">
++     <button class="header-bar__action btn btn--secondary">Cancel</button>
++     <button class="header-bar__action btn btn--primary">Save</button>
++   </div>
+  </header>
+```
+
+...but now we have to duplicate the effort we put into building our `.stacked-form__footer` in our new `.header-bar__actions` components.
+
+This feels a lot like the problem we ran into way back at the beginning with content-driven class names doesn't it?
+
+One way to solve this problem is to come up with an entirely *new* component that's easier to reuse, and use composition.
+
+Maybe we make something like an `.actions-list`:
+
+```css
+.actions-list {
+  text-align: right;
+}
+.actions-list__item {
+  margin-right: 1rem;
+  &:last-child {
+    margin-right: 0;
+  }
+}
+```
+
+Now we can get rid of the `.stacked-form__footer` and `.header-bar__actions` components completely, and instead use an `.actions-list` in both situations:
+
+```html
+<!-- Stacked form -->
+<form class="stacked-form" action="#">
+  <!-- ... -->
+  <div class="stacked-form__section">
+    <div class="actions-list">
+      <button class="actions-list__item btn btn--secondary">Cancel</button>
+      <button class="actions-list__item btn btn--primary">Submit</button>
+    </div>
+  </div>
+</form>
+
+<!-- Header bar -->
+<header class="header-bar">
+  <h2 class="header-bar__title">New Product</h2>
+  <div class="actions-list">
+    <button class="actions-list__item btn btn--secondary">Cancel</button>
+    <button class="actions-list__item btn btn--primary">Save</button>
+  </div>
+</header>
+```
+
+But what if one of these actions lists was supposed to be left justified, and the other was supposed to be right justified? Do we make `.actions-list--left` and `.actions-list--right` modifiers?
+
+### Phase 4: Content-agnostic components + utility classes
+
+Trying to come up with these component names all of the time is exhausting.
+
+When you make modifiers like `.actions-list--left`, you're creating a whole new component modifier just to assign a single CSS property. It's already got `left` in the name, so you're not going to fool anyone that it's "semantic" in any way either.
+
+What if we had another component that needed left-align and right-align modifiers, would we create new component modifiers for that as well?
+
+This gets back to same problem we were facing when we decided to kill `.stacked-form__footer` and `.header-bar__actions` and replace them with a single `.actions-list`:
+
+We prefer composition to duplication.
+
+So if we had two actions lists, one that needed to be left aligned and another that needed to be right aligned, how could we solve that problem with composition?
+
+### Alignment utilities
+
+To solve this problem with composition, we need to be able to add a new reusable class to our component that gives us the desired effect.
+
+We were already going to call our modifers `.actions-list--left` and `.actions-list--right`, so there's no reason not to call these new classes something like `.align-left` and `.align-right`:
+
+```css
+.align-left {
+  text-align: left;
+}
+.align-right {
+  text-align: right;
+}
+```
+
+Now we can use composition to make our stacked form buttons left-aligned:
+
+```html
+<form class="stacked-form" action="#">
+  <!-- ... -->
+  <div class="stacked-form__section">
+    <div class="actions-list align-left">
+      <button class="actions-list__item btn btn--secondary">Cancel</button>
+      <button class="actions-list__item btn btn--primary">Submit</button>
+    </div>
+  </div>
+</form>
+```
+
+...and our header buttons right-aligned:
+
+```html
+<header class="header-bar">
+  <h2 class="header-bar__title">New Product</h2>
+  <div class="actions-list align-right">
+    <button class="actions-list__item btn btn--secondary">Cancel</button>
+    <button class="actions-list__item btn btn--primary">Save</button>
+  </div>
+</header>
+```
+
+### Don't be afraid
+
+If seeing the words "left" and "right" in your HTML makes you feel uncomfortable, remember we have been using components named after visual patterns in our UI for ages at this point.
+
+There's no pretending that `.stacked-form` is any more "semantic" than `.align-right`; they're both named after how they affect the presentation of the markup, and we are using those classes in our markup to achieve a specific presentational result.
+
+We're writing CSS-dependent HTML. If we want to change our form from a `.stacked-form` to a `.horizontal-form`, we do it in the markup, not the CSS.
+
+### Deleting useless abstractions
+
+The interesting thing about this solution is that our `.actions-list` component is now basically useless; all it did before was align the contents to the right.
+
+Let's delete it:
+
+```diff
+- .actions-list {
+- text-align: right;
+- }
+  .actions-list__item {
+    margin-right: 1rem;
+    &:last-child {
+      margin-right: 0;
+    }
+  }
+```
+
+But now it's a little weird to have an `.actions-list__item` without an `.actions-list`. Is there another way we can solve our original problem without creating an `.actions-list__item` component?
+
+If you think back, the whole reason we created this component was to add a little bit of margin between two buttons. `.actions-list` was a pretty decent metaphor for a list of buttons because it was generic and fairly reusable, but certainly there could be situations where we need the same amount of spacing between items that aren't "actions" right?
+
+Maybe a more reusable name would be something like `.spaced-horizontal-list`? We already deleted the actual `.actions-list` component though, because it's only the children that really need any styling.
+
+### Spacer utilities
+
+If only the children need styling, maybe it would be simpler to style the children independently instead of using fancy pseudo-selectors to style them as group?
+
+The most reusable way to add some spacing next to an element would be a class that let's us say "this element should have some space next to it".
+
+We already added utilities like `.align-left` and `.align-right`, what if we made a new utility just for adding some right margin?
+
+Let's create a new utility class, something like `.mar-r-sm`, for adding a small amount of margin to the right of an element:
+
+```diff
+- .actions-list__item {
+- margin-right: 1rem;
+- &:last-child {
+- margin-right: 0;
+- }
+- }
++ .mar-r-sm {
++   margin-right: 1rem;
++ }
+```
+
+Here's what our form and header would look like now:
+
+```html
+<!-- Stacked form -->
+<form class="stacked-form" action="#">
+  <!-- ... -->
+  <div class="stacked-form__section align-left">
+    <button class="btn btn--secondary mar-r-sm">Cancel</button>
+    <button class="btn btn--primary">Submit</button>
+  </div>
+</form>
+
+<!-- Header bar -->
+<header class="header-bar">
+  <h2 class="header-bar__title">New Product</h2>
+  <div class="align-right">
+    <button class="btn btn--secondary mar-r-sm">Cancel</button>
+    <button class="btn btn--primary">Save</button>
+  </div>
+</header>
+```
+
+The entire concept of an `.actions-list` is nowhere to be seen, our CSS is smaller, and our classes are more reusable.
+
+### Phase 5: Utility-first CSS
+
+Once this clicked for me, it wasn't long before I had built out a whole suite of utility classes for common visual tweaks I needed, things like:
+
+- Text sizes, colors, and weights
+- Border colors, widths, and positions
+- Background colors
+- Flexbox utilities
+- Padding and margin helpers
+
+The amazing thing about this is that before you know it, you can build entirely new UI components without writing any new CSS.
+
+Take a look at this sort of "product card" component from a project of mine:
+
+![](https://user-images.githubusercontent.com/4323180/29088813-62ff9b86-7c48-11e7-9854-9c966ffbf9c4.png)
+
+Here's what my markup looks like:
+
+```html
+<div class="card rounded shadow">
+    <a href="..." class="block">
+        <img class="block fit" src="...">
+    </a>
+    <div class="py-3 px-4 border-b border-dark-soft flex-spaced flex-y-center">
+        <div class="text-ellipsis mr-4">
+            <a href="..." class="text-lg text-medium">
+                Test-Driven Laravel
+            </a>
+        </div>
+        <a href="..." class="link-softer">
+            @icon('link')
+        </a>
+    </div>
+    <div class="flex text-lg text-dark">
+        <div class="py-2 px-4 border-r border-dark-soft">
+            @icon('currency-dollar', 'icon-sm text-dark-softest mr-4')
+            <span>$3,475</span>
+        </div>
+        <div class="py-2 px-4">
+            @icon('user', 'icon-sm text-dark-softest mr-4')
+            <span>25</span>
+        </div>
+    </div>
+</div>
+```
+
+The number of classes used here might make you balk at first, but say we did want to make this a real CSS component instead of composing it out of utilities. What would we call it?
+
+We don't want to use content-specific names because then our component could only be used in one context.
+
+Maybe something like this?
+
+```css
+.image-card-with-a-full-width-section-and-a-split-section { ... }
+```
+
+Of course not, that's ridiculous. Instead we'd probably want to compose it out of smaller components, like we've talked about before.
+
+What might those components be?
+
+Well maybe it's housed in a card. Not all cards have a shadow though so we could have a `.card--shadowed` modifier, or we could create a `.shadow` utility that could be applied to any element. That sounds more reusable, so let's do that.
+
+It turns out some of the cards on our site don't have rounded corners, but this one does. We could make it `.card--rounded`, but we have other elements on the site that are sometimes rounded the same amount too, and those aren't cards. A `rounded` utility would be more reusable.
+
+What about the image at the top? Maybe that's something like a `.img--fitted`, so it fills the card? Well there's a few other spots on the site where we need to fit something to it's parent width, and it's not always an image. Maybe just a `.fit` helper would be better.
+
+...you can see where I'm going with this.
+
+If you follow that trail far enough with a focus on reusability, building this component out of reusable utilities is the natural destination.
+
+### Enforced consistency
+
+One of the biggest benefits of using small, composable utilities is that every developer on your team is always choosing values from a fixed set of options.
+
+How many times have you needed to style some HTML and thought, *"this text needs to be a little darker,"* then reached for the `darken()` function to tweak some base `$text-color`?
+
+Or maybe, *"this font should be a little smaller,"* and added `font-size: .85em` to the component you're working on?
+
+It feels like you're doing things "right", because you're using a relative color or a relative font size, not just arbitrary values.
+
+But what if you decide to darken the text by 10% for your component, and someone else darkens it by 12% for their component? Before you know it you end up with [402 unique text colors in your stylesheet](http://cssstats.com/stats?link=https%3A%2F%2Fgist.githubusercontent.com%2Fadamwathan%2F51ce5f8445dece60ef49d6b7dcc4e538%2Fraw%2Fe5349db6f1ccbd175f7dd7c581e061b4d49c1ff4%2Fgitlab.css).
+
+This happens in every codebase where the way you style something is to write new CSS:
+
+- [GitLab](http://cssstats.com/stats?link=https%3A%2F%2Fgist.githubusercontent.com%2Fadamwathan%2F51ce5f8445dece60ef49d6b7dcc4e538%2Fraw%2Fe5349db6f1ccbd175f7dd7c581e061b4d49c1ff4%2Fgitlab.css): 402 text colors, 239 background colors, 59 font sizes
+- [Buffer](http://cssstats.com/stats?link=https%3A%2F%2Fgist.githubusercontent.com%2Fadamwathan%2F51ce5f8445dece60ef49d6b7dcc4e538%2Fraw%2Fd560c4dadb9e85197d6e33ac0cb55c2435c45c65%2Fbuffer.css): 124 text colors, 86 background colors, 54 font sizes
+- [HelpScout](http://cssstats.com/stats?link=https%3A%2F%2Fgist.githubusercontent.com%2Fadamwathan%2F51ce5f8445dece60ef49d6b7dcc4e538%2Fraw%2F1a12773f211891f4199d03c59bde97e814e044f0%2Fhelpscout.css): 198 text colors, 133 background colors, 67 font sizes
+- [Gumroad](http://cssstats.com/stats?link=https%3A%2F%2Fstatic-1.gumroad.com%2Fres%2Fgumroad%2Fassets%2Fapplication-f7ade6b83ca73dcd02cc9762068df43c4ea824e0c94babde8e4c9ecfc2653acb.css): 91 text colors, 28 background colors, 48 font sizes
+- [Stripe](http://cssstats.com/stats?link=https%3A%2F%2Fgist.githubusercontent.com%2Fadamwathan%2Fca146a9dbe99754159c07c6599ea45d2%2Fraw%2F90d64ed31422e9c4fc8b08b035b47ea048275ad1%2Fstripe.css): 189 text colors, 90 background colors, 35 font sizes
+- [GitHub](http://cssstats.com/stats?url=http%3A%2F%2Fgithub.com&name=GitHub): 163 text colors, 147 background colors, 56 font sizes
+- [ConvertKit](http://cssstats.com/stats?link=https%3A%2F%2Fgist.githubusercontent.com%2Fadamwathan%2F4ca6aafc50342ad87a98970204053b71%2Fraw%2Fbb42e4fda01d9933afff7225b33e77dbfbd559ff%2Fconvertkit.css): 128 text colors, 124 background colors, 70 font sizes
+
+This is because every new chunk of CSS you write is a blank canvas; there's nothing stopping you from using whatever values you want.
+
+You could try and enforce consistency through variables or mixins, but every line of new CSS is still an opportunity for new complexity; adding more CSS will never make your CSS simpler.
+
+If instead, the solution to styling something is to *apply existing classes,* all of a sudden that blank canvas problem goes away.
+
+Want to mute some dark text a little? Add the `.text-dark-soft` class.
+
+Need to make the font size a little smaller? Use the `.text-sm` class.
+
+When everyone on a project is choosing their styles from a curated set of limited options, your CSS stops growing linearly with your project size, and you get consistency for free.
+
+### You should still create components
+
+One of the areas where my opinion differs a bit from some of the really die-hard functional CSS advocates is that I don't think you should build things out of utilities *only.*
+
+If you look at some of the popular utility-based frameworks like [Tachyons](http://tachyons.io/) (which is a fantastic project), you'll see they create even button styles out of pure utilities:
+
+```html
+<button class="f6 br3 ph3 pv2 white bg-purple hover-bg-light-purple">
+  Button Text
+</button>
+```
+
+*Whoa.* Let me break this one down:
+
+- `f6`: Use the sixth font size in the font size scale (.875rem in Tachyons)
+- `br3`: Use the third border radius in the radius scale (.5rem)
+- `ph3`: Use the third size in the padding scale for horizontal padding (1rem)
+- `pv2`: Use the second size in the padding scale for vertical padding (.5rem)
+- `white`: Use white text
+- `bg-purple`: Use a purple background
+- `hover-bg-light-purple`: Use a light purple background on hover
+
+If you need multiple buttons that have this same combination of classes, the recommended approach with Tachyons is to create an abstraction through templating rather than through CSS.
+
+If you were using [Vue.js](https://vuejs.org/) for example, you might create a component that you would use like this:
+
+```html
+<ui-button color="purple">Save</ui-button>
+```
+
+...and be defined something like this:
+
+```html
+<template>
+  <button class="f6 br3 ph3 pv2" :class="colorClasses">
+    <slot></slot>
+  </button>
+</template>
+
+<script>
+export default {
+  props: ['color'],
+  computed: {
+    colorClasses() {
+      return {
+        purple: 'white bg-purple hover-bg-light-purple',
+        lightGray: 'mid-gray bg-light-gray hover-bg-light-silver',
+        // ...
+      }[this.color]
+    }
+  }
+}
+</script>
+```
+
+This is a great approach for a lot of projects, but I still think there are a lot of use cases where it's more practical to create a CSS component than it is to create a template-based component.
+
+For the sort of projects I work on, it's usually simpler to create a new `.btn-purple` class that bundles up those 7 utilities than it is to commit to templatizing every tiny widget on the site.
+
+### ...but build them using utilities first
+
+The reason I call the approach I take to CSS utility-*first* is because I try to build everything I can out of utilities, and only extract repeating patterns as they emerge.
+
+If you're using [Less](http://lesscss.org/) as your preprocessor, you can use existing classes as mixins. That means that creating this `.btn-purple` component takes only a bit of multi-cursor wizardry in your editor:
+
+![](https://user-images.githubusercontent.com/4323180/29084097-f16c97c6-7c38-11e7-92dd-d20c1364d869.gif)
+
+Unfortunately you can't do this in Sass or Stylus without creating a separate mixin for every utility class, so it's a bit more work there.
+
+It's not always possible for every single declaration in a component to come from a utility of course. Complex interactions between elements like changing a child's property when hovering over a parent are hard to do with utilities-only, so use your best judgment and do whatever feels simpler.
+
+### No more premature abstraction
+
+Taking a component-first approach to CSS means you create components for things even if they will never get reused. This premature abstraction is the source of a lot of bloat and complexity in stylesheets.
+
+Take a navbar for example. How many times in your app do you rewrite the markup for your main nav?
+
+In my projects I typically only do that once; in my main layout file.
+
+If you build things with utilities first and only extract components when you see worrisome duplication, you probably never need to extract a navbar component.
+
+Instead, your navbar might look something like this:
+
+```html
+<nav class="bg-brand py-4 flex-spaced">
+  <div><!-- Logo goes here --></div>
+  <div>
+    <!-- Menu items go here -->
+  </div>
+</nav>
+```
+
+There's just nothing there worth extracting.
+
+### Isn't this just inline styles?
+
+It's easy to look at this approach and think it's just like throwing style tags on your HTML elements and adding whatever properties you need, but in my experience it's very different.
+
+With inline styles, there are no constraints on what values you choose.
+
+One tag could be `font-size: 14px`, another could be `font-size: 13px`, another could be `font-size: .9em`, and another could be `font-size: .85rem`.
+
+It's the same blank canvas problem you face when writing new CSS for every new component.
+
+Utilities force you to choose:
+
+Is this `text-sm` or `text-xs`?
+
+Should I use `py-3` or `py-4`?
+
+Do I want `text-dark-soft` or `text-dark-faint`?
+
+You can't just pick any value want; you have to choose from a curated list.
+
+Instead of 380 text colors, you end up with 10 or 12.
+
+My experience is that building things utility-first leads to *more* consistent looking designs than working component-first, as unintuitive as it might sound at first.
+
+### Where to start
+
+If this approach sounds interesting to you, here's a few frameworks worth checking out:
+
+- [Tachyons](http://tachyons.io/)
+- [Basscss](http://basscss.com/)
+- [Beard](http://buildwithbeard.com/)
+- [turretcss](http://turretcss.com/)
+
+Recently, I also released my own free open-source PostCSS framework called [Tailwind CSS](https://tailwindcss.com/) that's designed around this idea of working utility-first and extracting components from repeated patterns:
+
+![](https://tailwindcss.com/img/twitter-large-card.png)
+
+If you're interested in checking it out, [head over to the Tailwind CSS website](https://tailwindcss.com/) and give it a try.
+
+## react js another implementation guide theory
+
+如何自己实现一个 React 框架（英文）
+
+https://pomb.us/build-your-own-react/
+
+本文一步步用简单的代码讲解，如何自己从头实现 React 框架。
+
+(the original)
+
+### Build your own React
+
+[Rodrigo Pombo](https://pomb.us/)
+
+November 13, 2019
+
+We are going to rewrite React from scratch. Step by step. Following the architecture from the real React code but without all the optimizations and non-essential features.
+
+If you've read any of [my previous "build your own React" posts](https://engineering.hexacta.com/didact-learning-how-react-works-by-building-it-from-scratch-51007984e5c5), the difference is that this post is based on React 16.8, so we can now use hooks and drop all the code related to classes.
+
+You can find the history with the old blog posts and the code on the [Didact repo](https://github.com/pomber/didact). There's also a [talk covering the same content](https://youtu.be/8Kc2REHdwnQ). But this is a self-contained post.
+
+Starting from scratch, these are all the things we'll add to our version of React one by one:
+
+- Step I: The `createElement` Function
+- Step II: The `render` Function
+- Step III: Concurrent Mode
+- Step IV: Fibers
+- Step V: Render and Commit Phases
+- Step VI: Reconciliation
+- Step VII: Function Components
+- Step VIII: Hooks
+
+```js
+const element = {
+  type: "h1",
+  props: {
+    title: "foo",
+    children: "Hello",
+  },
+}​
+const container = document.getElementById("root")​ const node = document.createElement(element.type) node["title"] = element.props.title​
+const text = document.createTextNode("") text["nodeValue"] = element.props.children​ node.appendChild(text) container.appendChild(node)
+```
+
+### Step Zero: Review
+
+But first let's review some basic concepts. You can skip this step if you already have a good idea of how React, JSX and DOM elements work.
+
+We'll use this React app, just three lines of code. The first one defines a React element. The next one gets a node from the DOM. The last one renders the React element into the container.
+
+Let's remove all the React specific code and replace it with vanilla JavaScript.
+
+On the first line we have the element, defined with JSX. It isn't even valid JavaScript, so in order to replace it with vanilla JS, first we need to replace it with valid JS.
+
+JSX is transformed to JS by build tools like Babel. The transformation is usually simple: replace the code inside the tags with a call to `createElement`, passing the tag name, the props and the children as parameters.
+
+`React.createElement` creates an object from its arguments. Besides some validations, that's all it does. So we can safely replace the function call with its output.
+
+And this is what an element is, an object with two properties: `type` and `props` (well, [it has more](https://github.com/facebook/react/blob/f4cc45ce962adc9f307690e1d5cfa28a288418eb/packages/react/src/ReactElement.js#L111), but we only care about these two).
+
+The `type` is a string that specifies the type of the DOM node we want to create, it's the `tagName` you pass to `document.createElement` when you want to create an HTML element. It can also be a function, but we'll leave that for Step VII.
+
+`props` is another object, it has all the keys and values from the JSX attributes. It also has a special property: `children`.
+
+`children` in this case is a string, but it's usually an array with more elements. That's why elements are also trees.
+
+The other piece of React code we need to replace is the call to `ReactDOM.render`.
+
+`render` is where React changes the DOM, so let's do the updates ourselves.
+
+First we create a node* using the element `type`, in this case `h1`.
+
+Then we assign all the element `props` to that node. Here it's just the title.
+
+** To avoid confusion, I'll use "element" to refer to React elements and "node" for DOM elements.*
+
+Then we create the nodes for the children. We only have a string as a child so we create a text node.
+
+Using `textNode` instead of setting `innerText` will allow us to treat all elements in the same way later. Note also how we set the `nodeValue` like we did it with the `h1` title, it's almost as if the string had `props: {nodeValue: "hello"}`.
+
+Finally, we append the `textNode` to the `h1` and the `h1` to the `container`.
+
+And now we have the same app as before, but without using React.
+
+```js
+function createElement(type, props, ...children) {
+  return {
+    type,
+    props: {
+      ...props,
+      children: children.map(child => typeof child === "object" ? child : createTextElement(child)),
+    },
+  }
+}​
+function createTextElement(text) {
+  return {
+    type: "TEXT_ELEMENT",
+    props: {
+      nodeValue: text,
+      children: [],
+    },
+  }
+}​
+function render(element, container) {
+  const dom = element.type == "TEXT_ELEMENT" ? document.createTextNode("") : document.createElement(element.type)​ const isProperty = key => key !== "children"
+  Object.keys(element.props).filter(isProperty).forEach(name => {
+    dom[name] = element.props[name]
+  })​ element.props.children.forEach(child => render(child, dom))​ container.appendChild(dom)
+}​
+const Didact = {
+  createElement,
+  render,
+}​ /** @jsx Didact.createElement */
+const element = ( < div id = "foo" > < a > bar < /a>    <b / > < /div>)const container = document.getElementById("root")Didact.render(element, container)
+```
+
+### Step I: The `createElement` Function
+
+Let's start again with another app. This time we'll replace React code with our own version of React.
+
+We'll start by writing our own `createElement`.
+
+Let's transform the JSX to JS so we can see the `createElement` calls.
+
+As we saw in the previous step, an element is an object with `type` and `props`. The only thing that our function needs to do is create that object.
+
+We use the *spread operator* for the `props` and the *rest parameter syntax* for the `children`, this way the `children` prop will always be an array.
+
+For example, `createElement("div")` returns:
+
+```js
+{
+  "type": "div",
+  "props": {
+    "children": []
+  }
+}
+```
+
+`createElement("div", null, a)` returns:
+
+```js
+{
+  "type": "div",
+  "props": {
+    "children": [a]
+  }
+}
+```
+
+and `createElement("div", null, a, b)` returns:
+
+```js
+{
+  "type": "div",
+  "props": {
+    "children": [a, b]
+  }
+}
+```
+
+The `children` array could also contain primitive values like strings or numbers. So we'll wrap everything that isn't an object inside its own element and create a special type for them: `TEXT_ELEMENT`.
+
+*React doesn't wrap primitive values or create empty arrays when there aren't `children`, but we do it because it will simplify our code, and for our library we prefer simple code than performant code.*
+
+We are still using React's `createElement`.
+
+In order to replace it, let's give a name to our library. We need a name that sounds like React but also hints its *didactic* purpose.
+
+We'll call it Didact.
+
+But we still want to use JSX here. How do we tell babel to use Didact's `createElement` instead of React's?
+
+If we have a comment like this one, when babel transpiles the JSX it will use the function we define.
+
+### Step II: The `render` Function
+
+Next, we need to write our version of the `ReactDOM.render` function.
+
+For now, we only care about adding stuff to the DOM. We'll handle updating and deleting later.
+
+We start by creating the DOM node using the element type, and then append the new node to the container.
+
+We recursively do the same for each child.
+
+We also need to handle text elements, if the element type is `TEXT_ELEMENT` we create a text node instead of a regular node.
+
+The last thing we need to do here is assign the element props to the node.
+
+And that's it. We now have a library that can render JSX to the DOM.
+
+Give it a try on [codesandbox](https://codesandbox.io/s/didact-2-k6rbj).
+
+### Step III: Concurrent Mode
+
+But... before we start adding more code we need a refactor.
+
+```js
+function createElement(type, props, ...children) {
+  return {
+    type,
+    props: {
+      ...props,
+      children: children.map(child => typeof child === "object" ? child : createTextElement(child)),
+    },
+  }
+}​
+function createTextElement(text) {
+  return {
+    type: "TEXT_ELEMENT",
+    props: {
+      nodeValue: text,
+      children: [],
+    },
+  }
+}​
+function render(element, container) {
+  const dom = element.type == "TEXT_ELEMENT" ? document.createTextNode("") : document.createElement(element.type)​ const isProperty = key => key !== "children"
+  Object.keys(element.props).filter(isProperty).forEach(name => {
+    dom[name] = element.props[name]
+  })​ element.props.children.forEach(child => render(child, dom))​ container.appendChild(dom)
+}​
+let nextUnitOfWork = null​
+function workLoop(deadline) {
+  let shouldYield = false
+  while (nextUnitOfWork && !shouldYield) {
+    nextUnitOfWork = performUnitOfWork(nextUnitOfWork) shouldYield = deadline.timeRemaining() < 1
+  }
+  requestIdleCallback(workLoop)
+}​
+requestIdleCallback(workLoop)​
+function performUnitOfWork(nextUnitOfWork) { // TODO}​const Didact = {  createElement,  render,}​/** @jsx Didact.createElement */const element = (  <div id="foo">    <a>bar</a>    <b />  </div>)const container = document.getElementById("root")Didact.render(element, container)
+```
+
+There's a problem with this recursive call.
+
+Once we start rendering, we won't stop until we have rendered the complete element tree. If the element tree is big, it may block the main thread for too long. And if the browser needs to do high priority stuff like handling user input or keeping an animation smooth, it will have to wait until the render finishes.
+
+So we are going to break the work into small units, and after we finish each unit we'll let the browser interrupt the rendering if there's anything else that needs to be done.
+
+We use `requestIdleCallback` to make a loop. You can think of `requestIdleCallback` as a `setTimeout`, but instead of us telling it when to run, the browser will run the callback when the main thread is idle.
+
+*React [doesn't use `requestIdleCallback` anymore](https://github.com/facebook/react/issues/11171#issuecomment-417349573). Now it uses the [scheduler package](https://github.com/facebook/react/tree/master/packages/scheduler). But for this use case it's conceptually the same.*
+
+`requestIdleCallback` also gives us a deadline parameter. We can use it to check how much time we have until the browser needs to take control again.
+
+*As of November 2019, Concurrent Mode isn't stable in React yet. The stable version of the loop looks more like this:*
+
+```js
+while (nextUnitOfWork) {
+  nextUnitOfWork = performUnitOfWork(nextUnitOfWork)
+}
+```
+
+To start using the loop we'll need to set the first unit of work, and then write a `performUnitOfWork` function that not only performs the work but also returns the next unit of work.
+
+### Step IV: Fibers
+
+To organize the units of work we'll need a data structure: a fiber tree.
+
+We'll have one fiber for each element and each fiber will be a unit of work.
+
+Let me show you with an example.
+
+![Fiber Tree 3](https://pomb.us/static/c8bdcc17706e9ab06233c980ed9cf007/d3fa7/fiber3.png "Fiber Tree 3")
+
+![Fiber Tree 4](https://pomb.us/static/19c304dcb3824b14722691ded539ecdb/d3fa7/fiber4.png "Fiber Tree 4")
+
+Suppose we want to render an element tree like this one:
+
+```js
+Didact.render( < div > < h1 > < p / > < a / > < /h1> < h2 / > < /div>,
+  container)
+```
+
+In the `render` we'll create the root fiber and set it as the `nextUnitOfWork`. The rest of the work will happen on the `performUnitOfWork` function, there we will do three things for each fiber:
+
+1. add the element to the DOM
+2. create the fibers for the element's children
+3. select the next unit of work
+
+One of the goals of this data structure is to make it easy to find the next unit of work. That's why each fiber has a link to its first child, its next sibling and its parent.
+
+When we finish performing work on a fiber, if it has a `child` that fiber will be the next unit of work.
+
+From our example, when we finish working on the `div` fiber the next unit of work will be the `h1` fiber.
+
+If the fiber doesn't have a `child`, we use the `sibling` as the next unit of work.
+
+For example, the `p` fiber doesn't have a `child` so we move to the `a` fiber after finishing it.
+
+And if the fiber doesn't have a `child` nor a `sibling` we go to the "uncle": the `sibling` of the `parent`. Like `a` and `h2` fibers from the example.
+
+Also, if the `parent` doesn't have a `sibling`, we keep going up through the `parent`s until we find one with a `sibling` or until we reach the root. If we have reached the root, it means we have finished performing all the work for this `render`.
+
+Now let's put it into code.
+
+```js
+function createElement(type, props, ...children) {
+  return {
+    type,
+    props: {
+      ...props,
+      children: children.map(child => typeof child === "object" ? child : createTextElement(child)),
+    },
+  }
+}​
+function createTextElement(text) {
+  return {
+    type: "TEXT_ELEMENT",
+    props: {
+      nodeValue: text,
+      children: [],
+    },
+  }
+}​
+function createDom(fiber) {
+  const dom = fiber.type == "TEXT_ELEMENT" ? document.createTextNode("") : document.createElement(fiber.type)​ updateDom(dom, {}, fiber.props)​ return dom
+}​
+const isEvent = key => key.startsWith("on") const isProperty = key => key !== "children" && !isEvent(key) const isNew = (prev, next) => key => prev[key] !== next[key]
+const isGone = (prev, next) => key => !(key in next)
+function updateDom(dom, prevProps, nextProps) { //Remove old or changed event listeners  Object.keys(prevProps)    .filter(isEvent)    .filter(      key =>        !(key in nextProps) ||        isNew(prevProps, nextProps)(key)    )    .forEach(name => {      const eventType = name        .toLowerCase()        .substring(2)      dom.removeEventListener(        eventType,        prevProps[name]      )    })​  // Remove old properties  Object.keys(prevProps)    .filter(isProperty)    .filter(isGone(prevProps, nextProps))    .forEach(name => {      dom[name] = ""    })​  // Set new or changed properties  Object.keys(nextProps)    .filter(isProperty)    .filter(isNew(prevProps, nextProps))    .forEach(name => {      dom[name] = nextProps[name]    })​  // Add event listeners  Object.keys(nextProps)    .filter(isEvent)    .filter(isNew(prevProps, nextProps))    .forEach(name => {      const eventType = name        .toLowerCase()        .substring(2)      dom.addEventListener(        eventType,        nextProps[name]      )    })}​function commitRoot() {  deletions.forEach(commitWork)  commitWork(wipRoot.child)  currentRoot = wipRoot  wipRoot = null}​function commitWork(fiber) {  if (!fiber) {    return  }​  const domParent = fiber.parent.dom  if (    fiber.effectTag === "PLACEMENT" &&    fiber.dom != null  ) {    domParent.appendChild(fiber.dom)  } else if (    fiber.effectTag === "UPDATE" &&    fiber.dom != null  ) {    updateDom(      fiber.dom,      fiber.alternate.props,      fiber.props    )  } else if (fiber.effectTag === "DELETION") {    domParent.removeChild(fiber.dom)  }​  commitWork(fiber.child)  commitWork(fiber.sibling)}​function render(element, container) {  wipRoot = {    dom: container,    props: {      children: [element],    },    alternate: currentRoot,  }  deletions = []  nextUnitOfWork = wipRoot}​let nextUnitOfWork = nulllet currentRoot = nulllet wipRoot = nulllet deletions = null​function workLoop(deadline) {  let shouldYield = false  while (nextUnitOfWork && !shouldYield) {    nextUnitOfWork = performUnitOfWork(      nextUnitOfWork    )    shouldYield = deadline.timeRemaining() < 1  }​  if (!nextUnitOfWork && wipRoot) {    commitRoot()  }​  requestIdleCallback(workLoop)}​requestIdleCallback(workLoop)​function performUnitOfWork(fiber) {  if (!fiber.dom) {    fiber.dom = createDom(fiber)  }​  const elements = fiber.props.children  reconcileChildren(fiber, elements)​  if (fiber.child) {    return fiber.child  }  let nextFiber = fiber  while (nextFiber) {    if (nextFiber.sibling) {      return nextFiber.sibling    }    nextFiber = nextFiber.parent  }}​function reconcileChildren(wipFiber, elements) {  let index = 0  let oldFiber =    wipFiber.alternate && wipFiber.alternate.child  let prevSibling = null​  while (    index < elements.length ||    oldFiber != null  ) {    const element = elements[index]    let newFiber = null​    const sameType =      oldFiber &&      element &&      element.type == oldFiber.type​    if (sameType) {      newFiber = {        type: oldFiber.type,        props: element.props,        dom: oldFiber.dom,        parent: wipFiber,        alternate: oldFiber,        effectTag: "UPDATE",      }    }    if (element && !sameType) {      newFiber = {        type: element.type,        props: element.props,        dom: null,        parent: wipFiber,        alternate: null,        effectTag: "PLACEMENT",      }    }    if (oldFiber && !sameType) {      oldFiber.effectTag = "DELETION"      deletions.push(oldFiber)    }​    if (oldFiber) {      oldFiber = oldFiber.sibling    }​    if (index === 0) {      wipFiber.child = newFiber    } else if (element) {      prevSibling.sibling = newFiber    }​    prevSibling = newFiber    index++  }}​const Didact = {  createElement,  render,}​/** @jsx Didact.createElement */const element = (  <div id="foo">    <a>bar</a>    <b />  </div>)const container = document.getElementById("root")Didact.render(element, container)
+```
+
+First, let's remove this code from the `render` function.
+
+We keep the part that creates a DOM node in its own function, we are going to use it later.
+
+In the `render` function we set `nextUnitOfWork` to the root of the fiber tree.
+
+Then, when the browser is ready,it will call our `workLoop` and we'll start working on the root.
+
+First, we create a new node and append it to the DOM.
+
+We keep track of the DOM node in the `fiber.dom` property.
+
+Then for each child we create a new fiber.
+
+And we add it to the fiber tree setting it either as a child or as a sibling, depending on whether it's the first child or not.
+
+Finally we search for the next unit of work. We first try with the child, then with the sibling, then with the uncle, and so on.
+
+And that's our `performUnitOfWork`.
+
+### Step V: Render and Commit Phases
+
+We have another problem here.
+
+We are adding a new node to the DOM each time we work on an element. And, remember, the browser could interrupt our work before we finish rendering the whole tree. In that case, the user will see an incomplete UI. And we don't want that.
+
+So we need to remove the part that mutates the DOM from here.
+
+Instead, we'll keep track of the root of the fiber tree. We call it the work in progress root or `wipRoot`.
+
+And once we finish all the work (we know it because there isn't a next unit of work) we commit the whole fiber tree to the DOM.
+
+We do it in the `commitRoot` function. Here we recursively append all the nodes to the dom.
+
+### Step VI: Reconciliation
+
+So far we only *added* stuff to the DOM, but what about updating or deleting nodes?
+
+That's what we are going to do now, we need to compare the elements we receive on the `render` function to the last fiber tree we committed to the DOM.
+
+So we need to save a reference to that "last fiber tree we committed to the DOM" after we finish the commit. We call it `currentRoot`.
+
+We also add the `alternate` property to every fiber. This property is a link to the old fiber, the fiber that we committed to the DOM in the previous commit phase.
+
+Now let's extract the code from `performUnitOfWork` that creates the new fibers...
+
+...to a new `reconcileChildren` function.
+
+Here we will reconcile the old fibers with the new elements.
+
+We iterate at the same time over the children of the old fiber (`wipFiber.alternate`) and the array of elements we want to reconcile.
+
+If we ignore all the boilerplate needed to iterate over an array and a linked list at the same time, we are left with what matters most inside this while: `oldFiber` and `element`. The `element` is the thing we want to render to the DOM and the `oldFiber` is what we rendered the last time.
+
+We need to compare them to see if there's any change we need to apply to the DOM.
+
+To compare them we use the type:
+
+- if the old fiber and the new element have the same type, we can keep the DOM node and just update it with the new props
+
+- if the type is different and there is a new element, it means we need to create a new DOM node
+
+- and if the types are different and there is an old fiber, we need to remove the old node
+
+*Here React also uses keys, that makes a better reconciliation. For example, it detects when children change places in the element array.*
+
+When the old fiber and the element have the same type, we create a new fiber keeping the DOM node from the old fiber and the props from the element.
+
+We also add a new property to the fiber: the `effectTag`. We'll use this property later, during the commit phase.
+
+Then for the case where the element needs a new DOM node we tag the new fiber with the `PLACEMENT` effect tag.
+
+And for the case where we need to delete the node, we don't have a new fiber so we add the effect tag to the old fiber.
+
+But when we commit the fiber tree to the DOM we do it from the work in progress root, which doesn't have the old fibers.
+
+So we need an array to keep track of the nodes we want to remove.
+
+And then, when we are commiting the changes to the DOM, we also use the fibers from that array.
+
+Now, let's change the `commitWork` function to handle the new `effectTags`.
+
+If the fiber has a `PLACEMENT` effect tag we do the same as before, append the DOM node to the node from the parent fiber.
+
+If it's a `DELETION`, we do the opposite, remove the child.
+
+And if it's an `UPDATE`, we need to update the existing DOM node with the props that changed.
+
+We'll do it in this `updateDom` function.
+
+We compare the props from the old fiber to the props of the new fiber, remove the props that are gone, and set the props that are new or changed.
+
+One special kind of prop that we need to update are event listeners, so if the prop name starts with the "on" prefix we'll handle them differently.
+
+If the event handler changed we remove it from the node.
+
+And then we add the new handler.
+
+Try the version with reconciliation on [codesandbox](https://codesandbox.io/s/didact-6-96533).
+
+```js
+function createElement(type, props, ...children) {
+  return {
+    type,
+    props: {
+      ...props,
+      children: children.map(child => typeof child === "object" ? child : createTextElement(child)),
+    },
+  }
+}​
+function createTextElement(text) {
+  return {
+    type: "TEXT_ELEMENT",
+    props: {
+      nodeValue: text,
+      children: [],
+    },
+  }
+}​
+function createDom(fiber) {
+  const dom = fiber.type == "TEXT_ELEMENT" ? document.createTextNode("") : document.createElement(fiber.type)​ updateDom(dom, {}, fiber.props)​ return dom
+}​
+const isEvent = key => key.startsWith("on") const isProperty = key => key !== "children" && !isEvent(key) const isNew = (prev, next) => key => prev[key] !== next[key]
+const isGone = (prev, next) => key => !(key in next)
+function updateDom(dom, prevProps, nextProps) { //Remove old or changed event listeners  Object.keys(prevProps)    .filter(isEvent)    .filter(      key =>        !(key in nextProps) ||        isNew(prevProps, nextProps)(key)    )    .forEach(name => {      const eventType = name        .toLowerCase()        .substring(2)      dom.removeEventListener(        eventType,        prevProps[name]      )    })​  // Remove old properties  Object.keys(prevProps)    .filter(isProperty)    .filter(isGone(prevProps, nextProps))    .forEach(name => {      dom[name] = ""    })​  // Set new or changed properties  Object.keys(nextProps)    .filter(isProperty)    .filter(isNew(prevProps, nextProps))    .forEach(name => {      dom[name] = nextProps[name]    })​  // Add event listeners  Object.keys(nextProps)    .filter(isEvent)    .filter(isNew(prevProps, nextProps))    .forEach(name => {      const eventType = name        .toLowerCase()        .substring(2)      dom.addEventListener(        eventType,        nextProps[name]      )    })}​function commitRoot() {  deletions.forEach(commitWork)  commitWork(wipRoot.child)  currentRoot = wipRoot  wipRoot = null}​function commitWork(fiber) {  if (!fiber) {    return  }​  let domParentFiber = fiber.parent  while (!domParentFiber.dom) {    domParentFiber = domParentFiber.parent  }  const domParent = domParentFiber.dom​  if (    fiber.effectTag === "PLACEMENT" &&    fiber.dom != null  ) {    domParent.appendChild(fiber.dom)  } else if (    fiber.effectTag === "UPDATE" &&    fiber.dom != null  ) {    updateDom(      fiber.dom,      fiber.alternate.props,      fiber.props    )  } else if (fiber.effectTag === "DELETION") {    commitDeletion(fiber, domParent)  }​  commitWork(fiber.child)  commitWork(fiber.sibling)}​function commitDeletion(fiber, domParent) {  if (fiber.dom) {    domParent.removeChild(fiber.dom)  } else {    commitDeletion(fiber.child, domParent)  }}​function render(element, container) {  wipRoot = {    dom: container,    props: {      children: [element],    },    alternate: currentRoot,  }  deletions = []  nextUnitOfWork = wipRoot}​let nextUnitOfWork = nulllet currentRoot = nulllet wipRoot = nulllet deletions = null​function workLoop(deadline) {  let shouldYield = false  while (nextUnitOfWork && !shouldYield) {    nextUnitOfWork = performUnitOfWork(      nextUnitOfWork    )    shouldYield = deadline.timeRemaining() < 1  }​  if (!nextUnitOfWork && wipRoot) {    commitRoot()  }​  requestIdleCallback(workLoop)}​requestIdleCallback(workLoop)​function performUnitOfWork(fiber) {  const isFunctionComponent =    fiber.type instanceof Function  if (isFunctionComponent) {    updateFunctionComponent(fiber)  } else {    updateHostComponent(fiber)  }  if (fiber.child) {    return fiber.child  }  let nextFiber = fiber  while (nextFiber) {    if (nextFiber.sibling) {      return nextFiber.sibling    }    nextFiber = nextFiber.parent  }}​let wipFiber = nulllet hookIndex = null​function updateFunctionComponent(fiber) {  wipFiber = fiber  hookIndex = 0  wipFiber.hooks = []  const children = [fiber.type(fiber.props)]  reconcileChildren(fiber, children)}​function useState(initial) {  const oldHook =    wipFiber.alternate &&    wipFiber.alternate.hooks &&    wipFiber.alternate.hooks[hookIndex]  const hook = {    state: oldHook ? oldHook.state : initial,    queue: [],  }​  const actions = oldHook ? oldHook.queue : []  actions.forEach(action => {    hook.state = action(hook.state)  })​  const setState = action => {    hook.queue.push(action)    wipRoot = {      dom: currentRoot.dom,      props: currentRoot.props,      alternate: currentRoot,    }    nextUnitOfWork = wipRoot    deletions = []  }​  wipFiber.hooks.push(hook)  hookIndex++  return [hook.state, setState]}​function updateHostComponent(fiber) {  if (!fiber.dom) {    fiber.dom = createDom(fiber)  }  reconcileChildren(fiber, fiber.props.children)}​function reconcileChildren(wipFiber, elements) {  let index = 0  let oldFiber =    wipFiber.alternate && wipFiber.alternate.child  let prevSibling = null​  while (    index < elements.length ||    oldFiber != null  ) {    const element = elements[index]    let newFiber = null​    const sameType =      oldFiber &&      element &&      element.type == oldFiber.type​    if (sameType) {      newFiber = {        type: oldFiber.type,        props: element.props,        dom: oldFiber.dom,        parent: wipFiber,        alternate: oldFiber,        effectTag: "UPDATE",      }    }    if (element && !sameType) {      newFiber = {        type: element.type,        props: element.props,        dom: null,        parent: wipFiber,        alternate: null,        effectTag: "PLACEMENT",      }    }    if (oldFiber && !sameType) {      oldFiber.effectTag = "DELETION"      deletions.push(oldFiber)    }​    if (oldFiber) {      oldFiber = oldFiber.sibling    }​    if (index === 0) {      wipFiber.child = newFiber    } else if (element) {      prevSibling.sibling = newFiber    }​    prevSibling = newFiber    index++  }}​const Didact = {  createElement,  render,  useState,}​/** @jsx Didact.createElement */function Counter() {  const [state, setState] = Didact.useState(1)  return (    <h1 onClick={() => setState(c => c + 1)}>      Count: {state}    </h1>  )}const element = <Counter />const container = document.getElementById("root")Didact.render(element, container)
+```
+
+### Step VII: Function Components
+
+The next thing we need to add is support for function components.
+
+First let's change the example. We'll use this simple function component, that returns an `h1` element.
+
+Note that if we transform the jsx to js, it will be:
+
+```js
+function App(props) {
+  return Didact.createElement("h1", null, "Hi ", props.name)
+}
+const element = Didact.createElement(App, {
+  name: "foo",
+})
+```
+
+Function components are differents in two ways:
+
+- the fiber from a function component doesn't have a DOM node
+- and the children come from running the function instead of getting them directly from the `props`
+
+We check if the fiber type is a function, and depending on that we go to a different update function.
+
+In `updateHostComponent` we do the same as before.
+
+And in `updateFunctionComponent` we run the function to get the children.
+
+For our example, here the `fiber.type` is the `App` function and when we run it, it returns the `h1` element.
+
+Then, once we have the children, the reconciliation works in the same way, we don't need to change anything there.
+
+What we need to change is the `commitWork` function.
+
+Now that we have fibers without DOM nodes we need to change two things.
+
+First, to find the parent of a DOM node we'll need to go up the fiber tree until we find a fiber with a DOM node.
+
+And when removing a node we also need to keep going until we find a child with a DOM node.
+
+### Step VIII: Hooks
+
+Last step. Now that we have function components let's also add state.
+
+Let's change our example to the classic counter component. Each time we click it, it increments the state by one.
+
+Note that we are using `Didact.useState` to get and update the counter value.
+
+Here is where we call the `Counter` function from the example. And inside that function we call `useState`.
+
+We need to initialize some global variables before calling the function component so we can use them inside of the `useState` function.
+
+First we set the work in progress fiber.
+
+We also add a `hooks` array to the fiber to support calling `useState` several times in the same component. And we keep track of the current hook index.
+
+When the function component calls `useState`, we check if we have an old hook. We check in the `alternate` of the fiber using the hook index.
+
+If we have an old hook, we copy the state from the old hook to the new hook, if we don't we initialize the state.
+
+Then we add the new hook to the fiber, increment the hook index by one, and return the state.
+
+`useState` should also return a function to update the state, so we define a `setState` function that receives an action (for the `Counter` example this action is the function that increments the state by one).
+
+We push that action to a queue we added to the hook.
+
+And then we do something similar to what we did in the `render` function, set a new work in progress root as the next unit of work so the work loop can start a new render phase.
+
+But we haven't run the action yet.
+
+We do it the next time we are rendering the component, we get all the actions from the old hook queue, and then apply them one by one to the new hook state, so when we return the state it's updated.
+
+And that's all. We've built our own version of React.
+
+You can play with it on [codesandbox](https://codesandbox.io/s/didact-8-21ost) or [github](https://github.com/pomber/didact).
+
+### Epilogue
+
+Besides helping you understand how React works, one of the goals of this post is to make it easier for you to dive deeper in the React codebase. That's why we used the same variable and function names almost everywhere.
+
+For example, if you add a breakpoint in one of your function components in a real React app, the call stack should show you:
+
+- `workLoop`
+- `performUnitOfWork`
+- `updateFunctionComponent`
+
+We didn't include a lot of React features and optimizations. For example, these are a few things that React does differently:
+
+- In Didact, we are walking the whole tree during the render phase. React instead follows some hints and heuristics to skip entire sub-trees where nothing changed.
+- We are also walking the whole tree in the commit phase. React keeps a linked list with just the fibers that have effects and only visit those fibers.
+- Every time we build a new work in progress tree, we create new objects for each fiber. React recycles the fibers from the previous trees.
+- When Didact receives a new update during the render phase, it throws away the work in progress tree and starts again from the root. React tags each update with an expiration timestamp and uses it to decide which update has a higher priority.
+- And many more...
+
+There are also a few features that you can add easily:
+
+- use an object for the style prop
+- [flatten children arrays](https://github.com/pomber/didact/issues/11)
+- useEffect hook
+- reconciliation by key
+
+If you add any of these or other features to Didact send a pull request to the [GitHub repo](https://github.com/pomber/didact), so others can see it.
+
+Thanks for reading!
+
+## behind the competers of america quote
+
+20年前，美国政府宣传说，对手是日本，现在说对手是中国。我毫不怀疑，2040年，我们将被告知对手是印度，2060年对手则是一些成长中的非洲国家。
+
+-- HN 读者
+
+https://news.ycombinator.com/item?id=21382036
+
+## employ a man with children or not quote
+
+孩子出生可能会降低一个人的雄心。事实是，一旦有了孩子，你可能更关心他们，而不是自己。
+
+一个人的注意力是零和游戏，只可能有一个项目是你最关心的事。有了孩子，你最关心的事情通常就是你的孩子，而不是你正在从事的项目。
+
+-- 《不要雇佣有小孩的人》
+
+https://philip.greenspun.com/blog/2019/12/23/paul-graham-dont-hire-anyone-with-children/
+
+...
+
+有些雇主青睐有家庭的男人，因为那样的男人偏好稳定，而且很需要钱！
+
+-- 读者对《不要雇佣有小孩的人》一文的留言
+
+## a weekend project resume web app story theory
+
+我的创业产品如何被2.2万美元收购？（英文）
+
+https://web.archive.org/web/20200407233212/https://mohddanish.me/my-bootstrapped-micro-startup-got-acquired-for-usd22k-10
+
+一个印度大学毕业生自述，他如何找到创业的点子，做了一个小产品，然后把它卖掉。
+
+(the original)
+
+### My Bootstrapped Micro-Startup got acquired for $22k
+
+Building my 9th bootstrapped micro-startup product in 2019.
+
+The journey took me 9 months while I was nomading in India, Singapore & Indonesia.
+
+Working remotely from my laptop and traveling was the best thing I enjoyed doing for work & lifestyle balance.
+
+It was really exciting to start building things when you spark an idea!
+
+![photo credits by Fajar Siddiq, Location: Hangout Cafe, Batam, Indonesia](https://web.archive.org/web/20200407233212im_/https://user-images.githubusercontent.com/9165019/69830123-385bfd80-125e-11ea-9850-32082dad3d15.jpeg) *PC by Fajar Siddiq, Location: Hangout Cafe, Batam, Indonesia*
+
+I joined the indie-makers communities 9 months ago on product hunt, maker's kitchen slack community, makerlog community & also Ramadan Makers community.
+
+There were many other communities like WIP, IndieHackers & DEV.to for those who want their side projects to turn to a profitable startup business.
+
+Not long ago in 2017, I graduated with a master's degree where I studied computer science at Aligarh Muslim University in India.
+
+Right after I graduated, I was very blessed to land myself as a CTO(Chief Technology Officer) at one of the startup tech companies in the co-working space industry.
+
+My dream was to build my own company before I graduated, but I know I did not have any experience to start one, so I started working for another company first.
+
+In my first job role as a CTO, I was maintaining the company website servers and building internal tools to do automation. It was a very repetitive task almost every day for me. I've always love challenges and also new disruptive ideas that could benefit from solving technical problems.
+
+I left the job, after working for 10 months. Till then I started to bootstrapped [my products](https://web.archive.org/web/20200407233212/https://mohddanish.me/projects).
+
+So, here I'll talk about Public APIs project how it started, How it ranked #2 on google for top keywords and Story behind the Acquisition.
+
+### Why I build it?
+
+I quit my job to build a resume builder projects and for that, I was looking at some Public APIs on google. I found a GitHub repo([https://github.com/public-apis/public-apis](https://web.archive.org/web/20200407233212/https://github.com/public-apis/public-apis)) and this was a good collective of 800+ APIs and I found the API for that I was looking for. After that, I found that this repo doesn't have a simple interface where users can easily filter, sort & advanced search to find APIs. So, I decided to build a simple interface with basic features like sort by recently added, category navigation, advanced search feature.
+
+### When I build it?
+
+In Jan'2019 I pause working on resume builder because the Public APIs Interface project seems an interesting project to build. I scrap all the APIs from that GitHub repository and parse data into JSON according to UI requirements. I quickly build a simple MVP with a login system. So, users can also save the API into their profile.
+
+### Where I launch this?
+
+I finish the MVP in 4 days with $0 but I was not aware of the places where to share this and at that time I was active on Twitter. So, from the twitter feed, I got to know about ProductHunt and it's free. I signup there and just click on the "Post a Product" button without knowing the best time of posting there and I watched the page after 1 hour and only 4 upvotes. I was shocked that who are these people but these were genuine upvotes. and I sleep after that. The next day I checked after 00:01 San Francisco time and What I see that it's #1 on PH. I wrote a complete blog post on my PH launch experience If you are interested to read then [here](https://web.archive.org/web/20200407233212/https://mohddanish.me/story-my-first-product-shipped-on-producthunt-3).
+
+### What were the challenges?
+
+Hmm. Yes, after 4 months keep working on this project like Advanced Search, Comment System, Dashboard to add new APIs, etc. I was surviving on my saving and the money was going to use in my accommodations, food, co-working, and transportation. Now, I realize that I'm good to make MVP but I don't know how to monetize these projects. So, for a time being, I get one freelancer project to survive for the next 1 month.
+
+### What made me kept going?
+
+There are some factors was keep me motivated to work on this project.
+
+- Website traffic
+- Users love through email and DM
+- Loving to explore tools related to APIs and companies are working on APIs products
+
+I was getting 30k+ page views per month and 20% traffic from Google only for the homepage because the website was SPA(single page application). So, someone suggests me to convert SPA to static pages.
+
+Finally, the time comes to learn Gatsby and it's easy because this is React based technology to build static pages and best to optimize for SEO.
+
+I build Public APIs 2.0 with Gatsby in June 2019 and this time I launch on multiple platforms like ProductHunt, twitter, dev.to, Reddit, etc. Yes! in the next 1 month I double my traffic from 30k pageview to 60k+.
+
+### Now I got some sales.
+
+In version 2.0 I add some sponsor ads that are $200/month and I add an option to add API on my platform for $29/per API. So, I got 3 sponsor sales after launch that are $600 and 4 people paid to add API on the platform.
+
+So, I make $716 in one month and I was so motivated to work. I also got an email that month. Here is the screenshot.
+
+![Public APIs Acquire Email](https://web.archive.org/web/20200407233212im_/https://user-images.githubusercontent.com/9165019/70633901-4b57d000-1c57-11ea-9ab3-0cd190c2a023.png)
+
+After reading this email I got more confidence that this project has a lot of potentials.
+
+He offers me $8k for this and I replied "No" because I earned that month $716 and I do the calculation that I can earn that money or more in less than 10 months. Here is what I reply and trying to sell some sponsor slots for their APIs products. 😂😂😂
+
+![](https://web.archive.org/web/20200407233212im_/https://paper-attachments.dropbox.com/s_83E94F336352DDA430504CC1D1574F2D0F4BEBA85C1E6DA29602E6038FC5FD84_1574966326374_Screenshot+2019-11-29+at+2.37.49+AM.png)
+
+### When I tired, what I did?
+
+Next month I send 50+ emails to the companies running API products to sponsor the website in exchange to market their products. But I made $0 sale after lots of follow up.
+
+At that time I was reading the buyer email and regretting to accept the offer. So, I was also thinking to apply for a job because it's so hard to survive without money.
+
+My mind always finds a product idea in every case. Someone tweet job vacancies 10 minutes ago on twitter and where I trigger the idea to build tweetjobs.dev(Search engine to find job from twitter) and I build this simple MVP in 11 hours and launch the next day. And I got 60k+ through twitter, HN and PH launch.
+
+![](https://web.archive.org/web/20200407233212im_/https://paper-attachments.dropbox.com/s_83E94F336352DDA430504CC1D1574F2D0F4BEBA85C1E6DA29602E6038FC5FD84_1574967042315_Screenshot+2019-11-29+at+2.50.09+AM.png)
+
+But again everyone is appreciating the idea and got lots of emails, DM but I'm so bad to Monetize products.
+
+After 7 days of tweetjobs.dev launch I got a message on LinkedIn from the same buyer and he offered me $15k this time.
+
+Yess! I decided this time is to sale this project and invest the money into my new IDEA that is NoCodeAPI. But I gave him my price that is $22k and after 1 hour he replied and deal done.
+
+Yess! the deal is done. Money in the account and I handover codebase and domain to them.
+
+## being ordinary is reward or punishment quote
+
+学术界非常传统，经常惩罚那些不遵守常规的人，而产业界则会奖励不守常规的人。
+
+-- 《自然》杂志对6,000多名研究生的调查
+
+https://www.nature.com/articles/d41586-019-03459-7
+
+## to write short code blocks quote theory
+
+如果我只能给其他程序员一个建议，那就是编写小的代码块，你要多写小方法、小功能、小程序。
+
+我自己写C＃时，当函数接近15或20行代码时，我会感到不舒服。我的限制是，一个函数最多最多就是24行代码，因为传统终端就是24行一屏。
+
+-- 《80/24规则》
+
+https://blog.ploeh.dk/2019/11/04/the-80-24-rule/
+
+(the original)
+
+*Write small blocks of code. How small? Here's how small.*
+
+One of the most common questions I get is this:
+
+*If you could give just one advice to programmers, what would it be?*
+
+That's easy:
+
+*Write small blocks of code.*
+
+Small methods. Small functions. Small procedures.
+
+How small?
+
+### Few lines of code
+
+You can't give a universally good answer to that question. Among other things, it depends on the programming language in question. Some languages are much denser than others. The densest language I've ever encountered is [APL](https://en.wikipedia.org/wiki/APL_(programming_language)).
+
+Most mainstream languages, however, seem to be verbose to approximately the same order of magnitude. My experience is mostly with C#, so I'll use that (and similar languages like Java) as a starting point.
+
+When I write C# code, I become uncomfortable when my method size approaches fifteen or twenty lines of code. C# is, however, a fairly wordy language, so it sometimes happens that I have to allow a method to grow larger. My limit is probably somewhere around 25 lines of code.
+
+That's an arbitrary number, but if I have to quote a number, it would be around that size. Since it's arbitrary anyway, let's make it *24*, for reasons that I'll explain later.
+
+The maximum line count of a C# (or Java, or JavaScript, etc.) method, then, should be 24.
+
+To repeat the point from before, this depends on the language. I'd consider a 24-line [Haskell](https://www.haskell.org/) or [F#](https://fsharp.org/) function to be so huge that if I received it as a pull request, I'd reject it [on the grounds of size](https://blog.ploeh.dk/2015/01/15/10-tips-for-better-pull-requests) alone.
+
+### Narrow line width
+
+Most languages allow for flexibility in layout. For example, C-based languages use the `;` character as a delimiter. This enables you to write more than one statement per line:
+
+var foo = 32; var bar = foo + 10; Console.WriteLine(bar);
+
+You could attempt to avoid the 24-line-height rule by writing wide lines. That would, however, be to defeat the purpose.
+
+The purpose of writing small methods is to nudge yourself towards writing readable code; code that fits in your brain. The smaller, the better.
+
+For completeness sake, let's institute a maximum line width as well. If there's any accepted industry standard for maximum line width, it's 80 characters. I've used that maximum for years, and it's a good maximum.
+
+Like all other programmers, other people's code annoys me. The most common annoyance is that people write too wide code.
+
+This is probably because most programmers have drunk the Cool Aid that bigger screens make you more productive. When you code on a big screen, you don't notice how wide your lines become.
+
+There's many scenarios where wide code is problematic:
+
+- When you're comparing changes to a file side-by-side. This often happens when you review pull requests. Now you have only half of your normal screen width.
+- When you're looking at code on a smaller device.
+- When you're getting old, or are otherwise visually impaired. After I turned 40, I discovered that I found it increasingly difficult to see small things. I still use a 10-point font for programming, but I foresee that this will not last much longer.
+- When you're [mob programming](https://en.wikipedia.org/wiki/Mob_programming) you're limited to the size of the shared screen.
+- When you're sharing your screen via the web, for remote pair programming or similar.
+- When you're presenting code at meetups, user groups, conferences, etc.
+
+What most programmers need, I think, is just a [nudge](https://en.wikipedia.org/wiki/Nudge_theory). In Visual Studio, for example, you can install the [Editor Guidelines](https://marketplace.visualstudio.com/items?itemName=PaulHarrington.EditorGuidelines) extension, which will display one or more vertical guidelines. You can configure it as you'd like, but I've mine set to 80 characters, and bright red:
+
+![Screen shot of editor with code, showing red vertical line at 80 characters.](https://blog.ploeh.dk/content/binary/vertical-guideline-at-80-characters.png)
+
+Notice the red dotted vertical line that cuts through `universe`. It tells me where the 80 character limit is.
+
+### Terminal box 
+
+The 80-character limit has a long and venerable history, but what about the 24-line limit? While both are, ultimately, arbitrary, both fit the size of the popular [VT100](https://en.wikipedia.org/wiki/VT100) terminal, which had a display resolution of 80x24 characters.
+
+A box of 80x24 characters thus reproduces the size of an old terminal. Does this mean that I suggest that you should write programs on terminals? No, people always misunderstand this. That should be the maximum size of a method. On larger screens, you'd be able to see multiple small methods at once. For example, you could view a unit test and its target in a split screen configuration.
+
+The exact sizes are arbitrary, but I think that there's something fundamentally right about such continuity with the past.
+
+I've been using the 80-character mark as a soft limit for years. I tend to stay within it, but I occasionally decide to make my code a little wider. I haven't paid quite as much attention to the number of lines of my methods, but only for the reason that I know that I tend to write methods shorter than that. Both limits have served me well for years.
+
+### Example
+
+Consider this example:
+
+```cs
+public ActionResult Post(ReservationDto dto)
+{
+    var validationMsg = Validator.Validate(dto);
+    if (validationMsg != "")
+        return BadRequest(validationMsg);
+
+    var reservation = Mapper.Map(dto);
+    var reservations = Repository.ReadReservations(reservation.Date);
+
+    var accepted = maîtreD.CanAccept(reservations, reservation);
+    if (!accepted)
+        return StatusCode(
+            StatusCodes.Status500InternalServerError,
+            "Couldn't accept.");
+
+    var id = Repository.Create(reservation);
+    return Ok(id);
+}
+```
+
+This method is 18 lines long, which includes the method declaration, curly brackets and blank lines. It easily stays within the 80-character limit. Note that I've deliberately formatted the code so that it behaves. You can see it in this fragment:
+
+```cs
+return StatusCode(
+    StatusCodes.Status500InternalServerError,
+    "Couldn't accept.");
+```
+
+Most people write it like this:
+
+```cs
+return StatusCode(StatusCodes.Status500InternalServerError, "Couldn't accept.");
+```
+
+That doesn't look bad, but I've seen much worse examples.
+
+Another key to writing small methods is to call other methods. The above `Post` method doesn't look like much, but significant functionality could be hiding behind `Validator.Validate`, `Repository.ReadReservations`, or `maîtreD.CanAccept`. I hope that you agree that each of these objects and methods are named well enough to give you an idea about their purpose.
+
+### Code that fits in your brain
+
+As I describe in my [Humane Code](https://cleancoders.com/episode/humane-code-real-episode-1/show) video, the human brain can only keep track of [about seven things](https://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two). I think that this rule of thumb applies to the way we read and interpret code. If you need to understand and keep track of more than seven separate things at the same time, the code becomes harder to understand.
+
+This could explain why small methods are good. They're only good, however, if they're self-contained. When you look at a method like the above `Post` method, you'll be most effective if you don't need to have a deep understanding of how each of the dependencies work. If this is true, the method only juggles about five dependencies: `Validator`, `Mapper`, `Repository`, `maîtreD`, and its own base class (which provides the methods `BadRequest`, `StatusCode`, and `Ok`). Five dependencies is fewer than seven.
+
+Another way to evaluate the cognitive load of a method is to measure its [cyclomatic complexity](https://en.wikipedia.org/wiki/Cyclomatic_complexity). The `Post` method's cyclomatic complexity is *3*, so that should be easily within the brain's capacity.
+
+These are all heuristics, so read this for inspiration, not as law. They've served me well for years, though.
+
+### Conclusion
+
+You've probably heard about the *80/20 rule*, also known as the [Pareto principle](https://en.wikipedia.org/wiki/Pareto_principle). Perhaps the title lead you to believe that this article was a misunderstanding. I admit that I went for an arresting title; perhaps a more proper name is the *80x24 rule*.
+
+The exact numbers can vary, but I've found a maximum method size of 80x24 characters to work well for C#.
+
+## the marketing culture in oracle quote
+
+我曾在甲骨文公司工作多年，这家公司完全是销售驱动的，销售人员通常会骗客户，并保证产品具有它所没有或没有得到很好支持的功能，把产品卖出去之后，再聘请昂贵的顾问使得产品能够跟演示的一致。
+
+如果说苹果是设计师文化，谷歌是工程师文化，那么我想说，甲骨文公司是销售文化。
+
+-- HN 读者
+
+https://news.ycombinator.com/item?id=21550991
+
+## the best video game is visual novel view
+
+这段假期，我在家常常玩电子游戏。
+
+![](https://www.wangbase.com/blogimg/asset/202002/bg2020020509.jpg)
+
+有人说过，世界上有两种游戏。一种是追求明确目标的游戏，比如战胜所有对手，完成目标就取得了游戏胜利；另一种是没有明确目标的游戏，只是为了讲一个故事，或者体验在游戏世界的漫游。
+
+我发现，我对第一种游戏越来越厌倦，对不停地"打怪、升级、做任务、收集宝物"这种模式，尤其没有兴趣。我更喜欢在游戏中漫游和探索，好比在一个陌生的城市观光，没有一定要做的任务，也没有一定要克服的障碍，不需要收集任何东西，不必与任何人作战，也不担心哪个角落会跳出敌人，如果看到感兴趣的东西，就停下来好好欣赏。
+
+![](https://www.wangbase.com/blogimg/asset/202002/bg2020020503.jpg)
+
+![](https://www.wangbase.com/blogimg/asset/202002/bg2020020504.jpg)
+
+有一个很老的游戏，叫做[《亲爱的艾丝特：爱与死之书》](https://www.douban.com/game/19974701/)（Dear Esther），据说是文学性最强的游戏，甚至有的评论家说，这不是游戏，而是一部可以玩的小说，"这是压抑、孤独、沉寂以及心如灰烬的表白或遗书"。玩家身处一个无人海岛，景色优美而荒凉，背景音乐伴着海风时断时续，你在这个岛上漫游，没有目标，耳边是一个陌生男人在不停朗读，他写给亡妻的信。你根据这些信，以及现场发现的线索，自己去推测到底发生了什么。这种游戏很对我的胃口。
+
+在我心目中，好的游戏应该是这样的：玩家处在一个故事之中，漂亮的虚拟世界使得这个故事引人入胜。它会吸引你想留在其中，探索各个角落，等着知道故事的结局。游戏过程就是一次旅行，与周围的物体互动，大部分时间你就是悠闲地探索环境，等待将要发生的情节。
+
+我想，未来会有越来越多这一类游戏，就是一本实境化的数字小说。表面上，你在玩游戏，实际上是在读小说，把自己变成小说人物、亲身体验小说世界、参与其中的情节。
+
+## english fluency map stats image
+
+英语流利程度
+
+https://www.economist.com/graphic-detail/2019/12/04/where-are-the-worlds-best-english-speakers
+
+《经济学家》杂志绘制了一幅全球英语流利程度图。下图中，颜色越深就表示英语越流利，灰色的国家则是英语为母语。
+
+![](https://www.wangbase.com/blogimg/asset/201912/bg2019120911.jpg)
+
+根据这张图，中国人的英语水平高于俄国人，我表示怀疑。
+
+## financial independence retire early movement history
+
+提早退休（英文）
+
+https://en.wikipedia.org/wiki/FIRE_movement
+
+这是维基百科的条目，介绍正在兴起的一种社会运动，能否通过高度储蓄，实现提前退休？具体做法是，年收入的50%以上都储蓄，目标是把每年的消费压低到你个人财富总额的4%。
+
+## neutral network intro guide 
+
+神经网络原理简介
+
+https://github.com/gokadin/ai-simplest-network
+
+![](https://www.wangbase.com/blogimg/asset/202001/bg2020010502.jpg)
+
+一个分成三个部分的神经网络简介，主要介绍数学原理，使用最简单的例子。
+
+## wayback machine web app chromium extension
+
+Wayback Machine 插件
+
+https://blog.archive.org/2017/01/13/wayback-machine-chrome-extension-now-available/
+
+Chrome 浏览器插件，互联网档案馆的官方版本，可以查看一个网页的历史版本，包括那些已经无法访问的网页。
 
 ## 
 
