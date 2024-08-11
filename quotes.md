@@ -130,4 +130,23 @@ can has -> be (nounified word)
 not only ... but also ... -> not ... but ...
 a is b -> not a is not b
 
+## fp or oop
+
+我的想法很简单.像往常一样编程,然后不用`new`,`class`,`prototype`,`this`,`extend`,`export`.
+这就是函数式编程.我喜欢函数式编程.
+**fp|oop将决定我一生道路,映照我的性格,预示我的命运**
+(-> mistral.md /functional programming | /object oriented programming)
+
+## css no limit
+
+css没有局限性.
+或者有两个.
+- 交互动画,与鼠标位置相关的
+- 循环视频,大量几何图形同时变化的
+
+## china in historical perspective
+
+500年后，人们想起20世纪，不会想到第二次世界大战(中日战争)，它已经变得跟英格兰玫瑰战争一样久远。人们会想到 DNA、青霉素、计算机和微芯片，因为它们改变了文明。但是，他们想到的第一件事，将是20世纪是人类开始探索太空的世纪，阿波罗11号登月是20世纪最重要的事件。
+
+
 

@@ -383,6 +383,7 @@
   - `/config` `ubuntu config` elegant work flow
   - `/config` `chromium bookmarks` source of all
 - notes
+  - `/notes` `xbox` xbox travelling guide
   - `/notes` `plain` plain english guide
   - `/notes` `competitive` competitive programming guide
   - `/notes` `(...)` stack overflow documentation

@@ -319,6 +319,10 @@ git config --global push.autoSetupRemote true
 git config --global credential.helper store
 ```
 > -> git/blogging/config/git_config.txt
+  - github 
+> -> https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls
+  - gitee (sync mirror)
+> use username and password
 - use shortcuts
 ```
 ...

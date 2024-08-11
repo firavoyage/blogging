@@ -1,10 +1,6 @@
 //voyage.js 0.1
 
 let voyage={
-  data:{}, //key and value
-  bind:{}, //key and functions
-  count:{}, //name and count
-  fn:{}, //pure functions
   node(type,labels={},contents,binds,keys){
     //create element
     let element={}
@@ -15,11 +11,14 @@ let voyage={
     element.d=keys //data
     return element
   },
-  key(name){ 
-    //generate key by name "name_1" "name_2"
-  }, 
+  run(element){
+    //bind element data,get Node
+  },
   set(key,value){
     //set its value and call its binds
+  }, 
+  key(name){ 
+    //generate key by name "name_1" "name_2"
   }, 
   get(key){
     //get its value
@@ -29,10 +28,11 @@ let voyage={
   }, 
   where(id){
     //give element id,get Node
-  }, 
-  run(element){
-    //bind element data,get Node
-  }, 
+  },
+  data:{}, //key and value
+  bind:{}, //key and functions
+  count:{}, //name and count
+  fn:{}, //pure functions
 }
 
 ```

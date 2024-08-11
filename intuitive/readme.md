@@ -1,26 +1,20 @@
-# intuitive
+# intuitive implementation
 
-## example
+## functional programming guide
 
-intro of a method
+```js
+//about its parameters
+run=function(a,b,c){
+  //about its process (what it does,how data pass)
+  //do something...
+}
+//about its result (return value)
+```
 
-- `fn(a,b,c)` do fn with a on b to c
-  - `a` use
-  - `b` location
-  - `c` destination
+## timeln
 
-> note
-> things about its process and return value
+not now.
 
-## voyage
-
-redesign popular web apps
-
-- bing/baidu googlified
-- cnblogs modernized
-- berryberry
-
-
-
-
+after building voyagejs 
+and get some detailed great ideas
 

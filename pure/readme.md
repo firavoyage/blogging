@@ -1,4 +1,4 @@
-# pure math
+# pure math implementation
 
 > difficulities as great simplicity "三言两语,举重若轻."
 

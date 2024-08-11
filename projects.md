@@ -18,6 +18,10 @@
 - themes to choose
   - by voyage
 - local based
+- inspired by
+  - notion
+  - obsidian
+  - typora
 
 ### `pre`
 > the simplicity of presentation
@@ -46,6 +50,8 @@
   - click to place text 
   - drag to draw 
   - double click or right click to add content block
+  - pure math problem solution
+  - algorithm and data structure visualization
 - inspire
   - structure of ordered thoughts
   - food recipe gantt image
@@ -295,7 +301,7 @@ indie games,bangumis,visual novels,fonts,... not included as their databases are
 - promotion
   - childhood retro | my desired math courses
   - purity of math is noskill
-  - open high school math in wei bro's way
+  - open high school math in nicholas wei bro (mihoyo) way
   - relearn high school math as a beginner
   - the libre high school math textbook
 - commercialize
@@ -341,6 +347,18 @@ indie games,bangumis,visual novels,fonts,... not included as their databases are
   - line break style
   - identation style
 - work with mdlint
+
+## `nsfwly`
+> wow now i get the placeholder
+> -> idioms
+- nsfw idiom
+  - bored of lorem ipsum?
+  - lets go nsfwly
+- source
+  - programming quotes
+  - reddit comments
+  - hentai memes
+  - anime lines
 
 ### `intuitive` 
 > showcase the power of web

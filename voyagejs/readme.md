@@ -13,6 +13,7 @@
   - see the page on the right (output)
   - guess what happened (process)
 - read docs
+  - go to ... (site)
   - get the function names (method)
   - know their usage (attribute and type)
 - view voyagejs program
@@ -30,8 +31,27 @@
 
 ## judge
 
-- voyagejs site (wip)
-- a few examples (wip)
+- voyagejs methods
+```js
+let voyage = {
+  //core
+  node(type,labels,contents,binds,keys){} //tag attr children binds keys
+  run(element){}
+  set(key){}
+  //abstract sugar
+  key(data){}, 
+  get(key){},
+  how(element,key){}, 
+  where(id){} 
+  //private data
+  keys:{}, //key and value
+  binds:{}, //key and functions
+  counts:{}, //name and count
+  methods:{}, //pure functions
+}
+```
+
+- voyagejs examples 
 
 ## make
 
