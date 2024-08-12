@@ -2,6 +2,9 @@
 
 ## functional programming guide
 
+- everything is object oriented programming
+- but functions are pure
+
 ```js
 //about its parameters
 run=function(a,b,c){

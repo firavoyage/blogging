@@ -2702,4 +2702,24 @@ typescript,最后会编译成javascript来运行
 没有小说(游戏)刺激,更没有赌博(创业)刺激.
 哈哈.
 
+## captcha algorithm implementation on our web pages
+
+本质上,并不需要检测真人.
+如果单一机器,每秒访问一次,根本没有压力.
+
+流行的真人检测,其实也都只是算力的问题.
+那些图形验证码(re-,h-)也经不起ai运算.
+
+这是背景,实现也简单.
+用了两种算法,大概是callback
+
+- proof of work
+  - default
+  - use cryptojs
+  - calculate a token
+- select image
+  - if the user is slow
+  - width 3 or 4
+  - each image is separated
+
 

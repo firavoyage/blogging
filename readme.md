@@ -153,14 +153,14 @@
   - wang zhaohai
   - jiang zhijun
 -
+  - kasugano sora
+  - herta
   - sparkle
   - fuxuan
   - clara
-  - herta
   - keqing
   - nahida
   - kaedehara kazuha
-  - kasugano sora
   - billy kid
 - 
   - dejavu serif
@@ -231,6 +231,7 @@
   - jiongks gougu zhaojinjiang
   - rodrigo pombo
   - overreacted dan abramov
+  - naval
 -
   - iphone os 4
   - ubuntu yaru
@@ -285,6 +286,7 @@
   - obs studio
   - onscripter yuri
   - qbitorrent
+  - retro arch
   - simplelive
   - snapseed
   - thunder bird
@@ -357,9 +359,11 @@
 ## pages
 - people
   - `livid` letter to confused youth
+  - `florio` guide to programming ride
   - `nat` belief of a tech entrepreneur
   - `ruanyf` everything about the digital time
   - `yinming` answers from a startup webmaster
+  - `naval` way to rich without luck
 - ideas
   - `projects` the interesting and the meaningful
   - `reply` reply to the world and rest of the world
@@ -373,7 +377,7 @@
   - `/recollection` legacy timeln
   - `djhs grades` perspective of school life
   - `email` way to contact me
-  - `swim` libre swimming guide
+  - `swim` internet swimming guide
 - project
   - `/firascript` simple script language
   - `/intuitive` intuitive web dev

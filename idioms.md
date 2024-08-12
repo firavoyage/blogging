@@ -153,6 +153,14 @@ make tools elegant.
 
 **functions are *pure***
 
+欲望与遗忘的对抗.
+
+不切实际的官人言论与不尽完善的法律条文,本质上都是给双标开路.
+
+不能说一份的自由等于多少份的平等,也就不能权衡利害.
+企业决策反之,可以预估长期经济利益,无非收入开支.
+
+-> github jokenpo machine learning
 
 
 

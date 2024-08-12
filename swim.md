@@ -1,23 +1,29 @@
-# swim freely
+# swim libre
 
-> intro
-> 世外互联网通往世界互联网
+## intro
 
-- 连接节点
-- 使用开源软件
+> if you are not in the world, connect the world!
 
-## find this
+## how
 
 - bing search "github mirrors"
 - open one github mirror available
-- github search "free nodes"
-- open every link on first 3 pages
-- follow instructions on readme.md page
-- ok
+- github search "nodes"
+- open several links
+- follow the instructions on readme.md
+- done.
 
+## 你来了 
 
+> 如果你活在世外, 连接世界!
 
+## 然后呢
 
-
+- bing search "github 镜像"
+- 打开一个可用镜像
+- github search "节点"
+- 打开几个页面
+- 跟着readme.md上的提示干
+- 搞定.
 
 

@@ -2748,7 +2748,7 @@ https://codepen.io/ivorjetski/pen/xMJoYO
 
 下面图片不是照片，而是纯粹用 CSS 生成的。（@beiyeqingteng 投稿）
 
-## dev well using a laptop from a decade ago story
+## dev well using an really old laptop story theory
 
 ![](https://cdn.beekka.com/blogimg/asset/201904/bg2019041201.jpg)
 
@@ -2763,6 +2763,30 @@ https://geoff.greer.fm/2017/01/23/oldest-viable-laptop/
 经济有一个定理，叫做"边际收益递减"，意思是，发展到比较成熟的阶段以后，以后每一步的进展会越来越小。硬件就是如此，摩尔定理到了尽头以后，就已经开始慢下来了。我估计，硬件之后就是软件，随着软件开发技术的成熟，以后软件的进展也会放缓，总有一天，我们使用十年以前的软件，也会觉得还可以接受，当然现在还没到这一步。
 
 软件之后的发展重点，我认为将是算法和数据，以后的进步更多会体现在算法优化和数据训练上面。
+
+(the original)
+
+### Oldest Viable Laptop
+
+23 Jan 2017
+
+What's the oldest laptop you could reasonably do your job with? 3 years old? 5 years? 10? And if asked the same question 10 years ago, would your number be higher or lower? Thanks to a failing battery in [my 12" MacBook](https://geoff.greer.fm/2015/04/19/2015-macbook-review/), I discovered my answer.
+
+For the 10 days it took to repair my MacBook, I had to use my backup laptop:
+
+![ThinkPad X61s](https://geoff.greer.fm/photos/pics/thinkpad_x61s.jpg)
+
+This is a [ThinkPad X61s](http://www.thinkwiki.org/wiki/Category:X61s). Despite being made in 2007, it's been fine for work. Yes, everything about it is worse than my MacBook. It's slower and heavier. It lacks a trackpad. The screen is a mere 1024×768, causing some websites to show their mobile layout.^[1](https://geoff.greer.fm/2017/01/23/oldest-viable-laptop/#fn:font)^ Still, the experience has been significantly better than I predicted. The only major hardware drawback is the lack of video camera. The main sources of frustration have been software. Ubuntu 16.04 doesn't have a built-in dictionary or thesaurus. The default calendar app is a joke. ~~And Thunderbird doesn't have a unified inbox view.~~ (Edit: [It does](http://kb.mozillazine.org/Global_Inbox#Unified_Folders). Thanks To Brendan Long for pointing this out.)
+
+Had a similar circumstance happened 10 years ago, my oldest viable laptop would not be so old. That is to say: There's no way that in 2007, I'd be able to get by with a laptop from 1997. The performance issues would be insurmountable.
+
+Growing up, I never thought I'd be able to use decade-old hardware without issue. Either laptop improvements are well into diminishing returns, or progress in hardware has stagnated, or both.
+
+Update: It's been two weeks since I got my MacBook back, and I still tend to use my ThinkPad more. I'm not sure if I'll stick with it, but there's something about this machine that causes me to favor it.
+
+Update (6 months later): I bought a [Thinkpad X62](https://geoff.greer.fm/2017/07/16/thinkpad-x62/), which is an X61 with modern internals.
+
+Update (2 years later): [I've upgraded to an X210](https://geoff.greer.fm/2019/03/04/thinkpad-x210/), which is an X201s with better specs than the X62.
 
 ## paste anything to markdown web app
 
@@ -8877,7 +8901,1248 @@ https://www.creativereview.co.uk/plan-your-next-trip-inside-xbox/
 
 https://cdn2.hubspot.net/hubfs/2424135/RG_Xbox_v4.pdf
 
-## 
+## react components generator web app
 
+craft.js
+
+https://github.com/prevwong/craft.js
+
+一个可以通过拖拽生成 React 应用的可视化框架。（@ifrontend-xyz 投稿）
+
+## old wild bird story
+
+世界最老的野生鸟类
+
+https://en.wikipedia.org/wiki/Wisdom_%28albatross%29
+
+1956年，鸟类学家钱德勒-罗宾斯在中途岛，抓到了一只5岁的信天翁，取名为"智慧"，并为它装上了脚环，然后放生。
+
+![](https://www.wangbase.com/blogimg/asset/201912/bg2019122904.jpg)
+
+现在，这只鸟还活着，已经达到了69岁的高龄，成为已知寿命最长的野生鸟类。它的脚环因为寿命到期，已经更换了6次。它很幸运在2011年日本海地震和海啸中幸存下来，当时死了2000多只信天翁。
+
+它每年都会回到中途岛，产下一枚蛋，最近一次是2018年11月。美国地质调查局一直追踪着这只鸟，确认她从1956年至今，飞行了超过300万公里，相当于绕地球120圈。鸟类学家表示，这只鸟60岁以后还能不断生育后代，令人感到震惊。
+
+## inventions of internet explorer history theory
+
+Internet Explorer 曾有过的创新（英文）
+
+https://schepp.dev/posts/today-the-trident-era-ends/
+
+微软已经放弃了自己的 Trident 浏览器引擎，改用谷歌的 Blink 引擎。本文回顾了历史上 Internet Explorer 浏览器的众多创新，数量非常多。
+
+(the original)
+
+### Today, the Trident Era Ends
+
+When I was a child, I was always fascinated by stories about ancient civilizations. I devoured books about Atlantis, or the story of [Heinrich Schliemann](https://en.wikipedia.org/wiki/Heinrich_Schliemann)'s discovery of Troy, stories about the Greek, the Romans, the [Inca Empire](https://en.wikipedia.org/wiki/Inca_Empire), or [Ancient Egypt](https://en.wikipedia.org/wiki/Ancient_Egypt). And I was always fascinated by the extent of their capabilities in the fields of [astronomy](https://blogs.scientificamerican.com/observations/the-astronomical-genius-of-the-inca/), [math](https://en.wikipedia.org/wiki/Pythagoras), and [medicine](https://en.wikipedia.org/wiki/Ancient_Egyptian_medicine), their incredible achievements, like building those vast monuments, or their highly functional social systems. What's even more incredible is that most of this already happened way before Jesus Christ first set foot on our earth!
+
+And yet, all these eras of highly developed civilizations one day came to an end. Some just died out quietly, some were outpaced by civilizations with better military capabilities. Most of the time when that happened, the capabilities of the defeated ones *did not* carry over to the now dominating group, thereby enriching their pool, but instead vanished. Which I always found unfortunate.
+
+### The Era of the Trident Engine
+
+Starting now, Microsoft will roll out their new Chromium-based Edge browser to their millions of Windows 10 users. And this will also mark the end of an era. *The era of the Trident-Engine*.
+
+But hadn't the Trident era already ended when Edge appeared? Not really.
+
+When Microsoft created the Edge browser in 2015, what they really did was to fork Trident into EdgeHTML and to strip out plenty of legacy code paths like [ActiveX](https://en.wikipedia.org/wiki/ActiveX) (Microsoft's version of Java Applets) or emulation of older IE rendering engines. Both browsers sharing the same genes gets apparent when you read posts like [these](https://blogs.windows.com/msedgedev/2017/04/19/modernizing-dom-tree-microsoft-edge/) on the Edge Blog or when you see bug reports that [similarly affect IE 11 as well as Edge 17](https://phabricator.wikimedia.org/T203564). [Most of the initial Edge improvements came from Chakra](https://www.anandtech.com/show/8932/internet-explorer-project-spartan-shows-large-performance-gains), the JavaScript engine, whereas only a moderate few [could be attributed to the rendering engine itself](http://html5test.com/compare/browser/ie-11/edge-12.html). Renaming the browser could be considered more of a marketing move, though, as the removal of legacy features already started earlier, when the browser was still called Internet Explorer.
+
+Rebooting Internet Explorer under a new name didn't win back the hearts of the web developers. Up until today Microsoft remained busy playing catch up. Therefore, when we get excited about the web platform nowadays, it is not because of a new Edge release but because of Google unveiling new ideas or APIs during Google I/O or the Chrome Dev Summit. A lot of these innovations are driven by other teams at Google working on Google frameworks like Angular and AMP, or on Google products like Gmail, Search, Drive, Maps, Google Docs, Analytics or in recent times: Lighthouse. In fact, a lot of what defines HTML5 can be rooted back to Google looking for a way to improve the web platform to better accommodate its ideas around web apps. Remember [Google Gears](https://en.wikipedia.org/wiki/Gears_(software))? Or later [Google Chrome Frame](https://en.wikipedia.org/wiki/Google_Chrome_Frame)?
+
+Funnily that same kind of process also drove innovation in Internet Explorer in the old days. ActiveX capability was added to Internet Explorer 3.0, together with the `<object>` tag, to offer one more "compile target" for Microsoft's own Java competitor. It was certainly not the IE team that came up with this idea. Or take what we know today as "AJAX": the idea of lazily fetching content in the background via JavaScript was born in the Exchange / Outlook Web Access team, a product that could be seen as a precursor to Gmail. [After pulling a few tricks inside Microsoft](https://web.archive.org/web/20070227195930/http://www.alexhopmann.com/xmlhttp.htm) they got it (silently) shipped with Internet Explorer 5.0 in 1999. It wasn't until 6 years later that [the term AJAX was coined](https://web.archive.org/web/20050222032831/http://adaptivepath.com/publications/essays/archives/000385.php) and its concepts became widely known.
+
+> we pretty quickly struck a deal to ship the thing as part of the MSXML library. Which is the real explanation of where the name XMLHTTP comes from- the thing is mostly about HTTP and doesn't have any specific tie to XML other than that was the easiest excuse for shipping it so I needed to cram XML into the name (plus- XML was the hot technology at the time and it seemed like some good marketing for the component).
+
+The same goes for [`document.designMode`](https://developer.mozilla.org/en-US/docs/Web/API/Document/designMode) (apparently a wish coming [from the Hotmail team](https://gizmodo.com/how-internet-explorer-shaped-the-internet-5937354)) & [`contentEditable`](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/contentEditable), the [DOM](https://gizmodo.com/how-internet-explorer-shaped-the-internet-5937354) the [Drag-n-Drop API](https://www.quirksmode.org/blog/archives/2009/09/the_html5_drag.html), [iframes](https://en.wikipedia.org/wiki/HTML_element#iframe) or [Clipboard Access](https://depth-first.com/articles/2011/01/24/reading-and-writing-the-sytem-clipboard-in-javascript-copy-and-paste-molfiles-in-chemwriter-on-internet-explorer/). Internet Explorer was also the first browser to have permission prompts:
+
+![Clipboard Access Permission Prompt](https://schepp.dev/img/chemwriter_clipboard_prompt.png)
+
+Back in the days, Microsoft was single-handedly pushing the web forward, [with around 1.000(!) people working on Internet Explorer](https://ericsink.com/Browser_Wars.html) and [with a 100 million dollar budget to burn per year](https://en.wikipedia.org/wiki/Internet_Explorer_version_history#Microsoft_Internet_Explorer_5), with almost no-one left to compete. This was massive!
+
+> [Scott] Isaac also invented the iframe HTML tag. It has been speculated that the tag name stands for the Isaacs Frame, although Scott has denied this.
+
+The last time Internet Explorer introduced new features driven by other business units was in 2012. At that time Windows 8 introduced the Windows Store and corresponding Windows Store Apps. Those apps could be written once and could then be run on Windows, Xbox and Windows Phone. Since Microsoft was late to the app store game, they had to put the entry barrier for developing apps as low as possible, so they got the idea of allowing people to develop apps with web technologies. As a communication path to the underlying OS, they created a JavaScript library called "[WinJS](https://en.wikipedia.org/wiki/WinJS)" and Internet Explorer 10 was meant to be the runtime environment for those apps.
+
+![Metro Design - Microsoft, Public Domain](https://schepp.dev/img/metro.png)
+
+But to be able to model the Windows UI with web technologies, Microsoft had to add plenty of new capabilities to IE: CSS Grid, CSS Flexbox, CSS Scroll Snap Points and the Pointer Events API for touch and stylus interactions (the latter one was required as [Apple had filed a patent on the Touch API](https://books.google.de/books?id=vb4v9HNwWVgC&pg=PA569&lpg=PA569&dq=internet+explorer+pointer+events+patent&source=bl&ots=dlEPaUbP6_&sig=ACfU3U2I08YKVq1fPg5RTHcGC169SyOrEQ&hl=en&sa=X&ved=2ahUKEwj5l4zggtvmAhVPyqQKHS0dACUQ6AEwAXoECAoQAQ#v=onepage&q=internet%20explorer%20pointer%20events%20patent&f=false)).
+
+Microsoft even invented what later became [Origin Trials](https://github.com/GoogleChrome/OriginTrials/blob/gh-pages/developer-guide.md), as documented in [a podcast interview we did with Jacob Rossi from the Edge team in 2015](https://workingdraft.de/211/).
+
+Coming back to my introductory part on ancient civilizations and their achievements: For me, it feels like Internet Explorer already had many of the things that we came to reinvent later and that we now celebrate as innovations. Although our modern reinventions offer more features combined with better developer experience, I came to wonder why we, as a community, only picked up very few of them. The ones mentioned above were picked up - either because browsers were striving for compatibility with IE or because Microsoft was at the right place at the right time. But a lot more were not!
+
+### The Forgotten Parts 
+
+### MHTML
+
+The first one on the list is [MHTML](https://en.wikipedia.org/wiki/MHTML). MHTML or "MIME encapsulation of aggregate HTML documents" was meant as a packaging format. It shared a lot of concepts with how email clients append attachments to an email. MHTML would take an HTML file and inline all of its resources like CSS, JavaScript files or images via base64 into extra sections. So it was basically data URIs, but on steroids. You could also see MHTML as the precursor of [Web Bundles](https://web.dev/web-bundles/). The format was supported from IE 5 onwards, as well as in Presto-based Opera. No other browser officially supported MHTML, but Chromium added the feature later behind a flag called `chrome://flags/#save-page-as-mhtml`. MHTML was [proposed as an open standard to the IETF](https://tools.ietf.org/html/rfc2557) but somehow it never took off.
+
+*Fun fact: Did you know that Outlook Express used MHTML inside the `.eml` email message files, which it used to store emails together with their corresponding attachments on your disk?*
+
+### Page Transition Filters
+
+Internet Explorer had page transition filters which you would define as HTTP header or in the form of a meta tag:
+
+```html
+<meta http-equiv="Page-Enter"
+      content="RevealTrans(Duration=0.600, Transition=6)">
+```
+
+As the name implies, such a filter would smoothly transition the user from page to page upon navigation, instead of having pages appear as abruptly as we are used to. There was an extensive list of transition filters you could choose from by referencing them via number:
+
+- 0 - Box in
+- 1 - Box out
+- 2 - Circle in
+- 3 - Circle out
+- 4 - Wipe up
+- 5 - Wipe down
+- 6 - Wipe right
+- 7 - Wipe left
+- 8 - Vertical blinds
+- 9 - Horizontal blinds
+- 10 - Checkerboard across
+- 11 - Checkerboard down
+- 12 - Random dissolve
+- 13 - Split vertical in
+- 14 - Split vertical out
+- 15 - Split horizontal in
+- 16 - Split horizontal out
+- 17 - Strips left down
+- 18 - Strips left up
+- 19 - Strips right down
+- 20 - Strips right up
+- 21 - Random bars horizontal
+- 22 - Random bars vertical
+- 23 - Any random pattern
+
+In addition to `Page-Enter` you could specify additional transitions for `Page-Exit`, `Site-Enter` and `Site-Exit`. Those soft transitions between pages are something that we see reappearing in the form of [Portals](https://web.dev/hands-on-portals/) or the [Page Transition API](https://www.youtube.com/watch?v=JCJUPJ_zDQ4).
+
+### Object Transition Filters 
+
+Similarly to how you could use filters to transition between pages, you could also transition between two states of the same DOM object. This is similar to Rich Harris' [ramjet](https://github.com/Rich-Harris/ramjet), only that it would not morph between two states, but instead blend over with a movie-like "cut".
+
+What you could also do with those object transition filters is something similar to CSS Transitions or to an [animated CSS crossfade() function](https://schepp.github.io/imagery-on-the-web/#/4/13).
+
+You would start off with applying a blend filter to the element (with a duration of 600ms):
+
+```js
+img.style.filter = 'blendTrans(duration=0.600)';
+```
+
+Then, before making any change to the object, you would freeze its current state:
+
+```js
+img.filters.blendTrans.apply();
+```
+
+Finally you would change the image source and trigger the transition:
+
+```js
+img.src = 'different-src.jpg';
+img.filters.blendTrans.play();
+```
+
+### Effects Filters [#](https://schepp.dev/posts/today-the-trident-era-ends/#effects-filters)
+
+The filter category most people still remember from Internet Explorer 4+ is effects filters. In 1997 they already offered, although in a lower fidelity, what CSS Filters brought to the table when they first appeared in 2012 in Apple Safari 6.
+
+![Screenshot of the grey filter in Internet Explorer 6](https://schepp.dev/img/ie-grey-filter.jpg)
+
+You could also use Internet Explorer's Matrix Filter [to do things](http://extremelysatisfactorytotalitarianism.com/blog/?p=1002) that would later be introduced by CSS Transforms:
+
+```css
+transform: rotate(15deg);
+filter: progid:DXImageTransform.Microsoft.Matrix(
+            M11=0.9659258262890683,
+            M12=-0.2588190451025207,
+            M21=0.2588190451025207,
+            M22=0.9659258262890683,
+            SizingMethod='auto expand');
+```
+
+Or, you could use the Chroma Filter to key out certain color pixels of an element in order to [create rounded corners](http://www.der-schepp.de/chroma-corners/) or [to apply masking](https://web.archive.org/web/20130118094658/https://thenittygritty.co/css-masking).
+
+### Gradient Filter 
+
+You always though Internet Explorer 10 was the first version to support gradients? Not entirely true, there was a CSS filter for that, too:
+
+```css
+filter: progid:DXImageTransform.Microsoft.gradient(enabled='false',
+                startColorstr=#550000FF, endColorstr=#55FFFF00)
+```
+
+Also note how Internet Explorer already supported 8-digit hex codes for RGBA colors, something that only officially appeared in CSS around 2016 as part of the [CSS Color Module Level 4](https://www.w3.org/TR/css-color-4/#hex-notation).
+
+### Custom Scrollbar Styling
+
+Internet Explorer first introduced custom scrollbar styling back in 1999 and it wasn't until 2013 that Safari came up with its own mechanic of styling them.
+
+![](https://schepp.dev/img/ie-scrollbars.gif)
+
+Credit: Stack Overflow, [@iambondbaby](https://stackoverflow.com/a/24422109)
+
+```css
+body {
+  scrollbar-base-color: #C0C0C0;
+  scrollbar-3dlight-color: #C0C0C0;
+  scrollbar-highlight-color: #C0C0C0;
+  scrollbar-track-color: #EBEBEB;
+  scrollbar-arrow-color: black;
+  scrollbar-shadow-color: #C0C0C0;
+  scrollbar-darkshadow-color: #C0C0C0;
+}
+```
+
+### Box-Sizing
+
+Internet Explorer initially implemented the box model as if `box-sizing: border-box` was set by default. Even though [many people found Microsoft's take a lot more logical and user friendly](https://www.jefftk.com/p/the-revenge-of-the-ie-box-model), the CSS WG ultimately chose another default where `width` was not referring to the outer width of a box but to width of the usable content space inside.
+
+![W3C and IE Box Models compared, courtesy of Wikipedia](https://schepp.dev/img/450px-W3C_and_Internet_Explorer_box_models.png)
+
+> Logically, a box is measured from border to border. Take a physical box, any box. Put something in it that is distinctly smaller than the box. Ask anyone to measure the width of the box. He'll measure the distance between the sides of the box (the 'borders'). No one will think of measuring the content of the box. Web designers who create boxes for holding content care about the *visible* width of the box, about the distance from border to border. The borders, and not the content, are the visual cues for the user of the site. Nobody is interested in the width of the content.
+
+It was only with IE 6 that Microsoft added an additional browser rendering mode, this time sticking to the standards. It was not active by default so not to mess old layouts up. You had to opt-in to it, which you would do by [starting your HTML document with a doctype declaration](https://web.archive.org/web/20170531195606/http://www.satzansatz.de/cssd/quirksmode.html) (think of it as JavaScript's `'use strict';`).
+
+Nowadays everyone goes back to IE's model by starting off their CSS with [resetting the box sizing](https://www.paulirish.com/2012/box-sizing-border-box-ftw/):
+
+```css
+html {
+  box-sizing: border-box;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+```
+
+### CSS Expressions 
+
+Up until version 7, Internet Explorer had a great feature called "CSS Expressions", also known as "Dynamic Properties". In essence, they were JavaScript snippets wrapped in a CSS function and what the snippet evaluated to went into the CSS property's value. They could be considered as one precursor of CSS Houdini and CSS'es `calc()` function and other functions.
+
+You could for example script your own `min()` and `max()` functions:
+
+```css
+width: expression(Math.min(this.parentElement.clientWidth, 400) + 'px');
+```
+
+The above code would set the width of the element to the width of the parent until it exceeds 400px. Then it would stop there, similarly to how `max-width` works. The `this` keyword would refer to the current element.
+
+Since IE only supported pseudo-elements from version 8 on, you could use CSS Expressions to "polyfill" these, like so:
+
+```css
+zoom: expression(
+    this.runtimeStyle.zoom = '1',
+    this.insertBefore(document.createElement('span'),(this.hasChildNodes()
+                        ? this.childNodes[0]
+                        : null)).className='before',
+    this.appendChild(document.createElement('span')).className='after'
+  );
+```
+
+The code above is assigned to a more or less irrelevant CSS property: `zoom`. The first thing it would do is to disable further executions of the expression by replacing it with a static value of `1`. This stops it from creating more and more elements with every new evaluation run. Then it creates `<span>` elements which it injects at the beginning and end of its content area, with the CSS class names `.before` and `.after`. Since Internet Explorer 8 was the first version to support pseudo-elements but at the same time dropped support for CSS Expressions, the above code would do no damage in pseudo-element aware browsers.
+
+The reason CSS Expressions were dropped so early from IE was that they quickly acquired themselves a bad image. And that was because with CSS Expressions you could quickly tank a website's rendering performance, bringing it to a crawl. The "problem" with CSS Expressions was that they executed after every single event that the browser registered, which also included `resize`, `scroll` and `mousemove`. Have a look at the following example:
+
+```css
+background: expression('#'+Math.floor(Math.random()*16777216).toString(16));
+```
+
+The above code would randomly calculate a HEX color which would then be assigned as background.You can see it in action in the following video (epilepsy warning because of flashing colors):
+
+See how the background color updates every time one moves the mouse? This is indeed bad for performance, which is why leading figures in the web development scene soon started [advising against using them](https://books.google.de/books?id=jRVlgNDOr60C&pg=PA51&lpg=PA51&dq=%22avoid+css+expressions%22&source=bl&ots=pcA1Hw2ai4&sig=ACfU3U1bDcBGz1ivaBIMf6U3jPZk35aSfw&hl=en&sa=X&ved=2ahUKEwiUvo-1op3nAhXHKVAKHR9hBpcQ6AEwB3oECAoQAQ#v=onepage&q=%22avoid%20css%20expressions%22&f=false) [or to replace them with real JavaScript](https://robertnyman.com/2007/11/13/stop-using-poor-performance-css-expressions-use-javascript-instead/). Back in the days, though, only a few were really versed at writing JavaScript, including me. Nowadays I would argue that it all depends on how you write your code and that you can equally create badly performing code in proper JavaScript. One solution to the problem is the one shown in the pseudo-element code, where the expression disables itself after the first run by assigning a static value to `this.style` or `this.runtimeStyle` (which is another proprietary Microsoft thing representing a style object with even higher precedence in the CSS cascade than inline styles). If the value was meant to stay dynamic, you could modify the code to only do costly calculations when it was supposed to:
+
+```html
+<script>
+  window.calcWidth = '100%';
+  window.updateWidth = false;
+  window.onresize = function() {
+    window.updateWidth = true;
+  };
+</script>
+<style>
+  .element {
+    width: expression(
+      updateWidth ?
+      (
+        calcWidth = Math.min(this.parentElement.clientWidth, 400) + 'px',
+        updateWidth = false
+      ) :
+      calcWidth
+    );
+  }
+</style>
+```
+
+But why not just use plain JavaScript? Well, it's true that you can do all of these things with pure JavaScript. One thing though, that I find super handy about expressions, is that they are easier to invoke on many different sorts of elements, as you can use CSS (selectors) to assign them to elements. And in the case of the pseudo-element polyfill expression it makes even more sense to have it in your CSS as that's also the place where you would create real pseudo-elements. So it depends.
+
+### Fonts
+
+Internet Explorer was the first browser to allow the use of custom fonts. The corresponding `@font-face` rule was part of CSS 2.0 but got pulled out of CSS 2.1 as browser support was too bad - mostly due to font foundries opposing the idea of putting fonts into the web, easy to pirate for everyone. Microsoft continued to support it and paired it with a new file format, which they developed [together with the font foundry Monotype](https://www.w3.org/Style/CSS20/history.html): the Embedded OpenType (EOT) format. EOT was meant to tackle these problems from two directions. On the one side, authoring tools, like Microsoft's Web Embedding Fonts Tool (WEFT), would only accept source fonts that were not marked with a `no embedding` flag. That way font foundries could disallow the use of them on the web. On the other side, during creation, you would specify a list of allowed URLs for the font to be used on and the browser would then check against it and only display the font if the current URL was indeed listed.
+
+Microsoft and Monotype [submitted EOT to be standardized to the W3C in 2008](https://www.w3.org/Submission/2008/01/Comment). But ultimately, the other browser makers of that time decided not to implement it, as it didn't use the (then) commonly supported GZIP algorithm for compression, but a proprietary algorithm called "MicroType Express" [which they didn't want to implement on top](https://www.w3.org/Style/CSS20/history.html). So instead they asked the W3C to develop yet another font embedding format, but based on GZIP, which in 2010 appeared as the WOFF format.
+
+> Rather than embed the URL of a document in the font, it relies on an HTTP feature (the origin header), which allows to give the domain part of a document's URL: less precise than a full URL, but still good enough for most font makers. In the end, however, WOFF still adopted parts of EOT's MicroType Express algorithm, and a new compression algorithm (Brotli), because it allowed better compression than gzip.
+
+*Fun fact: Did you know that when you chose to embed fonts into a Powerpoint 2007 or 2010 presentation, that Powerpoint would embed that font as an EOT file in the corresponding `.pptx`?*
+
+### HTML Components: Attached Behaviors, Element Behaviors & Default Behaviors
+
+As early as 1998, Microsoft already suggested techniques that came close to what we celebrate today as [CSS Houdini](https://developer.mozilla.org/en-US/docs/Web/Houdini) and [Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components): [HTML Components](https://www.w3.org/TR/NOTE-HTMLComponents):
+
+> The growth of HTML with scripting as an application platform has exploded recently. One limiting factor of this growth is that there is no way to formalize the services that an HTML application can provide, or to allow them to be reused as components in another HTML page or application. HTML Components address this shortcoming; an HTML Component (HTC for short) provides a mechanism for reusable encapsulation of a component implemented in HTML, stylesheets and script.\
+>\
+> Componentization is a powerful paradigm that allows component users to build applications using 'building blocks' of functionality without having to implement those building blocks themselves, or necessarily understand how the building works in fine detail. This method makes building complex applications easier by breaking them down into more manageable chunks and allowing the building blocks to be reused in other applications. HTML Components brings this powerful development method to Web applications.
+
+In fact, Microsoft's work [was considered prior art in the early Web Component discussion](https://blog.mecheye.net/2017/08/introduction-to-html-components/#comment-632830).
+
+The first browser to implement HTML Components was Internet Explorer 5 in 1999 and the last one was Internet Explorer 9 in 2010.
+
+And there were three kinds of HTML Components: **Attached Behaviors**, **Element Behaviors**, and **Default Behaviors**.
+
+### Attached Behaviors
+
+Attached Behaviors worked similarly to a CSS Houdini Worklet in that you had a (`.htc`) file which would add new capabilities to any element it was attached to. The attaching itself was done via CSS:
+
+```css
+img {
+  behavior: url(roll.htc);
+}
+```
+
+The `.htc` files consisted of special XML markup used to connect with the outside world, and a script block which would define how the element would behave. The attached DOM element was exposed to the script as the `element` global. The following Attached Behavior is tailored for image elements and would change their source every time the mouse would hover over them (hat tip for his deep dive and and credit for all of the following examples goes to [Jasper St. Pierre](https://blog.mecheye.net/2017/08/introduction-to-html-components/)):
+
+```html
+<public:attach event="onmouseover" onevent="rollover()" />
+<public:attach event="onmouseout" onevent="rollout()" />
+<script>
+var originalSrc = element.src;
+function rollover() {
+    element.src = "rollover-" + originalSrc;
+}
+function rollout() {
+    element.src = originalSrc;
+}
+</script>
+```
+
+### Element Behaviors
+
+Element Behaviors went one step further by not only outsourcing behavior into a `.htc` file but also markup, thereby creating a custom element. This is pretty similar to Web Components' [Custom Elements](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements) which also look trivial from the outside, from the "Light DOM", but hide a complex DOM structure inside in their Shadow DOM. Microsoft's version of Shadow DOM is called ["Viewlink"](https://docs.microsoft.com/en-us/previous-versions//ms531428(v=vs.85)?redirectedfrom=MSDN), into which you can opt-in, and like Shadow DOM it will protect the inner structure from any document styles bleeding in or from external scripts manipulating it.
+
+> Viewlink is a feature of element behaviors that enables you to write fully encapsulated Dynamic HTML (DHTML) behaviors and import them as robust custom elements in a Web page.
+
+In order to use Element Behaviors it wasn't enough anymore to use CSS to tie an HTML element to a behavior. Instead you had to leverage the power of XML by creating a new namespace for your custom components:
+
+```html
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html xmlns:custom>
+<head>
+  <?import namespace="custom" implementation="RollImgComponent.htc">
+</head>
+```
+
+`custom` is a XML namespace name which you could freely chose. It could also be something else. The `<?import>` tag does what we previously used CSS for: referring to a `.htc` file holding the code for that component. In the `.htc` file, you then needed to add a few more parts:
+
+1. You needed to define the custom HTML tag under which to use the element: `<public:component tagname="rollimg">`
+2. You had to define any HTML attributes this element allowed for, e.g.: `<public:property name="src" />`
+3. And you needed to add the inner markup of your element similarly to today's `<template>` element.
+
+```html
+<public:component tagname="rollimg">
+  <public:attach event="onmouseover" onevent="rollover()" />
+  <public:attach event="onmouseout" onevent="rollout()" />
+  <public:property name="src" />
+</public:component>
+
+<img id="image" />
+
+<script>
+  // IE's document.getElementByID
+  var img = document.all['image'];
+  img.src = element.src;
+  img.id = undefined;
+  element.appendChild(img);
+
+  function rollover() {
+    img.src = "rollover-" + element.src;
+  }
+  function rollout() {
+    img.src = element.src;
+  }
+</script>
+```
+
+Note that within the `.htc` file you had your own scoped `document` object to traverse.\
+Now you were ready to go and use your custom element in your HTML markup like so:
+
+```html
+<custom:rollimg src="logo.png">
+```
+
+Custom elements like these were synchronously parsed and created. After the creation of the above example component the page's DOM would look like this:
+
+```html
+<custom:rollimg src="logo.png">
+  <img src="logo.png" />
+</custom:rollimg>
+```
+
+As you can see, these `img` elements became visible and could therefore be targeted from with the HTML document via DOM traversal or CSS. Which may not have been what you wanted. To fix that, you needed to activate Internet Explorer's version of Shadow DOM called "viewLink", like so:
+
+```html
+<public:component tagname="rollimg">
+  <public:attach event="onmouseover" onevent="rollover()" />
+  <public:attach event="onmouseout" onevent="rollout()" />
+  <public:property name="src" />
+</public:component>
+
+<img id="image" />
+
+<script>
+  // Activates IE's Shadow DOM
+  defaults.viewLink = document;
+
+  // IE's document.getElementByID
+  var img = document.all['image'];
+  img.src = element.src;
+
+  function rollover() {
+    img.src = "rollover-" + element.src;
+  }
+  function rollout() {
+    img.src = element.src;
+  }
+</script>
+```
+
+### Default Behaviors 
+
+Default Behaviors are the third variant of HTML Components. They are basically standard libraries built into the browser that you could tap into via CSS or XML extension and that unlocked a completely new set of functionality.
+
+### Triggering a Download
+
+One of them was `behavior:url(#default#download)`.
+
+Nowadays when you want to trigger a download just from within the front-end, what you would do is make use of a link with a [`download` attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a#download) and execute `.click()` on it. Well, back in the old days it went like this:
+
+```html
+<!--
+the following element needs to be created once in the document.
+It then exposes new utility methods you can use, like .startDownload()
+-->
+<span id="download" style="behavior:url(#default#download)"></span>
+
+<button onclick="download.startDownload('menu.pdf')">Download</button>
+```
+
+### Persisting Data
+
+Another super useful Default Behavior was `behavior: url(#default#userData)`. It solves the same problems as `localStorage` does, just in a completely different manner. The following illustrates how to save and restore the values of input elements in old IE:
+
+```html
+<style>
+  #store {
+    behavior: url(#default#userData);
+  }
+</style>
+
+<script>
+  function save(){
+    store.setAttribute('username', username.value);
+    store.setAttribute('email', email.value);
+    store.save('exampleStore');
+  }
+  function restore(){
+    store.load('exampleStore');
+    username.value = store.getAttribute('username');
+    email.value = store.getAttribute('email');
+  }
+</script>
+
+<span id="store"></span>
+<input id="username">
+<input id="email">
+<button onclick="restore()">restore values</button>
+<button onclick="save()">save values</button>
+```
+
+There is even [localStorage polyfills for IE](https://gist.github.com/mmurph211/4271685) that use this technique.
+
+### Client Capabilities
+
+Another Default Behavior is the Client Capabilities Behavior. As the name already hints at, it allows you to find out more about the client. The most interesting piece of information is the one about the user's connection type, similar to today's `navigator.offline` or the [Network Information API](https://developer.mozilla.org/en-US/docs/Web/API/Network_Information_API):
+
+```html
+<span id="clientcapabilities"
+      style="behavior:url(#default#clientCaps)">
+</span>
+
+<script>
+  // Either "modem" or "lan" or "offline"
+  var connectionType = clientcapabilities.connectionType;
+</script>
+```
+
+### Animating via Timed Interactive Multimedia Extensions
+
+You think Internet Explorer could not animate stuff? Not entirely true. Because, back in the days there was already SMIL, the [Synchronized Multimedia Integration Language](https://en.wikipedia.org/wiki/Synchronized_Multimedia_Integration_Language). SMIL is a markup language to describe multimedia presentations, defining markup for timing, layout, animations, visual transitions, and media embedding. While Microsoft was heavily involved in the creation of this new W3C standard, they ultimately [decided against implementing it in Internet Explorer](https://web.archive.org/web/20091206034833/http://www.wired.com/science/discoveries/news/1998/07/13478). What they did, though, was to derive from it a dialect that would integrate with HTML and submitted that to W3C, too: [HTML+TIME](https://en.wikipedia.org/wiki/HTML%2BTIME), the Timed Interactive Multimedia Extensions. The W3C later reworked it into something that became part of SMIL 2.0 and that was called [XHTML+TIME](https://en.wikipedia.org/wiki/XHTML%2BSMIL). Internet Explorer 5 was the first browser [to support it](https://docs.microsoft.com/en-us/previous-versions/windows/internet-explorer/ie-developer/platform-apis/ms533099(v=vs.85)?redirectedfrom=MSDN) in 1999 in version 1.0. Internet Explorer 5.5 one year later supported HTML+TIME version 2.0, the implementation of which was closer to W3C's XHTML+TIME draft. Microsoft still held on to the old name without a leading X, though.
+
+This feature was also encapsulated in a Default Behavior which you had to activate first, either by CSS or by extending the (XML) namespace. Afterwards, what you could do with it was e.g. to show and hide elements over the course of ten seconds, five times in a row:
+
+```html
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+  <style>
+    .time {
+      behavior: url(#default#time2);
+    }
+  </style>
+</head>
+<body>
+<div class="time" repeatcount="5" dur="10" timecontainer="par">
+  <p class="time" begin="0" dur="4">First line of text.</p>
+  <p class="time" begin="2" dur="4">Second line of text.</p>
+  <p class="time" begin="4" dur="4">Third line of text.</p>
+  <p class="time" begin="6" dur="4">Fourth line of text.</p>
+</div>
+</body>
+</html>
+```
+
+Or, switching to the XML namespace variant, you could animate HTML attributes like the background color of the body:
+
+```html
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html xmlns:t="urn:schemas-microsoft-com:time">
+<head>
+  <?import namespace="t" implementation="#default#time2">
+</head>
+<body id="body">
+  <t:animateColor targetElement="body"
+    attributeName="backgroundColor"
+    from="black" to="white"
+    begin="0" dur="3" fill="hold"/>
+</body>
+</html>
+```
+
+Or you could embed a video or audio in HTML, similarly to how you use `<video>` or `<audio>` nowadays, and even have accessible HTML controls:
+
+```html
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html xmlns:t ="urn:schemas-microsoft-com:time">
+<head>
+  <?import namespace="t" implementation="#default#time2">
+</head>
+<body>
+  <t:video id="video" src="video.mpeg" type="video/mpeg"/>
+  <div class="controls">
+    <button type="button" onclick="video.resumeElement()">play</button>
+    <button type="button" onclick="video.pauseElement()">pause</button>
+    <button type="button" onclick="video.speed = 1">1x</button>
+    <button type="button" onclick="video.speed = 4">4x</button>
+  </div>
+</body>
+</html>
+```
+
+All formats were supported for which the underlying Windows operating system found an appropriate decoder. By default those were for example MPEG-1 and AVI encoded with Microsoft Video-1 codec.
+
+You could even combine the Microsoft specific format with HTML5:
+
+```html
+<video id="html5video" autoplay muted>
+  <source src="video.mp4" type="video/mp4"/>
+  <t:video id="video" src="video.mpeg" type="video/mpeg"/>
+</video>
+<div class="controls">
+  <button type="button"
+    onclick="html5video.play ? html5video.play() : video.resumeElement()">play</button>
+  <button type="button"
+    onclick="html5video.pause ? html5video.pause() : video.pauseElement()">pause</button>
+  <button type="button"
+    onclick="html5video.playbackRate = video.speed = 1">1x</button>
+  <button type="button"
+    onclick="html5video.playbackRate = video.speed = 4">4x</button>
+</div>
+```
+
+You find the demo [here](https://schepp.dev/demos/internet-explorer/smil-video). You'll need a ([virtual](https://archive.org/details/ie6.xp.virtualbox)) machine with IE 5.5-8 to experience the IE implementation which you see in the above video.
+
+### Vector Markup Language
+
+Microsoft were also the first to support a vector graphics format in a browser in 1999: the Vector Markup Language, in short VML. VML was developed by Autodesk, Hewlett-Packard, Macromedia, Microsoft, and Vision and submitted to the W3C in 1998. Unfortunately, around that same time, the W3C also received a competing submission called Precision Graphics Markup Language (PGML), developed by Adobe Systems and Sun Microsystems. So W3C merged both proposals and created the Scalable Vector Graphics format (SVG) in 2001. The first browser to support SVG was Konqueror 3.2 in 2004.
+
+To be honest, there isn't much to complain about VML, other than that it could only be used embedded into an HTML file, not externally referenced. Here is how you would create an ellipse both in SVG as well as in VML:
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>SVG Ellipse</title>
+</head>
+<body>
+<svg>
+  <ellipse cx="200"
+    cy="80"
+    rx="100"
+    ry="50"
+    fill="yellow"
+    stroke="purple"
+    stroke-width="2" />
+</svg>
+</body>
+</html>
+```
+
+```html
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html xmlns:v="urn:schemas-microsoft-com:vml" lang="en">
+<head>
+  <title>VML Ellipse</title>
+  <style>v\:* {behavior:url(#default#VML);}</style>
+</head>
+<body>
+<v:oval
+  style="position: absolute; width: 200; height: 100; left: 100; top: 30;"
+  fillcolor="yellow"
+  strokecolor="purple"
+  strokeweight="2">
+</v:oval>
+</body>
+</html>
+```
+
+Both dialects look similar and seem equally unfamiliar to us web developers.
+
+### Data Binding
+
+Back since Internet Explorer 4.0 in 1997 you could embed data sources into your document. This could be done by referencing an [external CSV file](https://docs.microsoft.com/de-de/archive/blogs/dhejo_vanissery/using-tabular-data-control-to-display-csv-files) via `<object>` element:
+
+```html
+<object id="data" classid="clsid:333C7BC4-460F-11D0-BC04-0080C7055A83">
+ <param name="DataURL" value="data.csv">
+</object>
+```
+
+Instead of a CSV file you could also [establish a connection to your database server](https://docs.microsoft.com/en-us/previous-versions/windows/internet-explorer/ie-developer/platform-apis/ms531386(v=vs.85)) (not suggested in writing mode :):
+
+```html
+<object id="data" classid="clsid:BD96C556-65A3-11D0-983A-00C04FC29E33">
+    <param name="Server"  value="http://server">
+    <param name="Connect" value="dsn=database;uid=guest;pwd=">
+    <param name="SQL"     value="select name from people">
+</object>
+```
+
+(Note how the `classid` attribute changes depending on the source of data?)
+
+And finally you could also reference an external XML file via `<xml>` tag...
+
+```html
+<xml src="http://localhost/xmlFile.xml"></xml>
+```
+
+...or use embedded inline XML in HTML as your data source:
+
+```html
+<body>
+<xml id="data">
+  <?xml version="1.0" encoding="UTF-8" ?>
+  <records>
+    <record>
+      <name>Willa Galloway</name>
+      <email>tortor@dictum.com</email>
+      <phone>098-122-8540</phone>
+      <city>Tenali</city>
+    </record>
+    <record>
+      ...
+    </record>
+    ...
+  </records>
+</xml>
+</body>
+```
+
+That inlined XML was called ["XML Data Islands"](https://www.techopedia.com/definition/5243/xml-data-island) and it worked similarly to how browsers nowadays handle SVG embedded in HTML or HTML embedded into an SVG `<foreignObject>` by switching to another parser on the fly.
+
+> An XML data island is an XML document residing within an HTML page. This avoids having to write code (i.e. a script) just to load the XML document, or having to load it through a tag. Client side scripts can directly access these XML data islands. These XML data islands can be bound to HTML elements also.
+
+Now that you had the data in your page you could use Internet Explorer's data binding to e.g. edit it:
+
+```html
+<input type="text" datasrc="#data" datafld="name">
+```
+
+### 2-way Data Binding
+
+Not only could you bind data to an input, but also to arbitrary elements. And you could create a two-way data flow, just with declarative markup:
+
+```html
+<xml id="data">
+  <record>
+    <name></name>
+  </record>
+</xml>
+<h1>Hello, <span datasrc="#data" datafld="name"></span>!</h1>
+<label>Your name: <input datasrc="#data"
+                         datafld="name"
+                         onkeyup="this.blur();this.focus()">
+</label>
+```
+
+The only reason there is `onkeyup="this.blur();this.focus()"` is to trigger data flow after each key press, as otherwise the other connected elements would only receive the updated value *after* the user left the input.
+
+### Data Grids
+
+Internet Explorer also shipped with a native data grid implementation that you hooked up to the above data sources and which is built on top of the `<table>` element. This was called [Tabular Data Control](https://docs.microsoft.com/en-us/previous-versions/windows/internet-explorer/ie-developer/platform-apis/ms531358(v=vs.85)). You would use the HTML attributes `datafld` to map data fields to table columns, `dataformatas` to enable or disable HTML entity encoding of the contained data, and the `datapagesize` attribute to denote how many entries a page of the grid should show at once. And then there were the methods `previousPage`, `nextPage`, `firstPage`, `lastPage` to easily navigate through the pages.
+
+```html
+<table id="datagrid"
+       datasrc="#people"
+       datapagesize="10">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Email</th>
+      <th>Phone</th>
+      <th>City</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><span datafld="name"></span></td>
+      <td><span datafld="email"></span></td>
+      <td><span datafld="phone"></span></td>
+      <td><span datafld="city"></span></td>
+    </tr>
+  </tbody>
+</table>
+<button onclick="datagrid.previousPage()">&lt; previous</button>
+<button onclick="datagrid.nextPage()">next &gt;</button>
+```
+
+### Property Change Event
+
+Internet Explorer featured an interesting `propertychange` event, which you could attach to DOM elements and which would trigger each time one of its properties would be changed programmatically. This could have happened via `setAttribute()` or via object property access. This allowed to create observed/instrumented objects for similar use cases you could use [ES Proxies](https://ponyfoo.com/articles/es6-proxies-in-depth) nowadays. All you needed was a dummy DOM element with `propertychange` event applied:
+
+```html
+<div id="store"></div>
+
+<script>
+  function handler() {
+    // A magic 'event' variable is passed into
+    // the event handler function. When coming
+    // from the 'propertychange' event, it comes
+    // with a 'propertyName' property.
+
+    if (event.propertyName === 'onpropertychange') {
+      // Don't execute right at the beginning on itself
+      return;
+    }
+
+    alert(
+        event.propertyName +
+        '\'s value was changed/set to "' +
+        store[event.propertyName] +
+        '"'
+    );
+  }
+
+  store.onpropertychange = handler;
+
+  store.test = true;
+  store.test = false;
+  store.literal = {};
+  store.literal = {
+    key: 'value2'
+  };
+</script>
+```
+
+### Resize Events for DOM Elements
+
+Internet Explorer had plenty of unique events, but the most interesting one is the [element based `resize` event](https://msdn.microsoft.com/en-us/data/aa769560(v=vs.95)), available up until IE 9.
+
+> The onresize event fires for block and inline objects with layout, even if document or CSS (cascading style sheets) property values are changed.
+
+This event is basically in relation to [Resize Observer](https://developer.mozilla.org/en-US/docs/Web/API/Resize_Observer_API) what mutation events are to the [Mutation Observer](https://developer.mozilla.org/en-US/docs/Web/API/MutationObserver). With the only difference to the usual events in that it triggered asynchronously, similarly to an observer.
+
+```js
+element.onresize = function(e) {
+    /* React to the element's size change */
+}
+```
+
+### JavaScript Preloading
+
+One interesting implementation of Internet Explorer was how it would load and execute JavaScript sources added via script:
+
+```js
+var script = document.createElement('script');
+var head = document.getElementsByTagName('head')[0];
+
+script.src = '...';
+head.appendChild(script);
+```
+
+Other browsers would fetch and execute such a script the moment it was appended to the DOM. Internet Explorer had a more nuanced approach: it splitted both steps up. Fetching already happened as soon as the `.src` property was assigned whereas execution only happened once the script was appended to the DOM. That way you could easily preload scripts without blocking the main thread. Something developers could only implement in a more complicated fashion in other browsers, at least until we got [Resource Hints](https://www.smashingmagazine.com/2019/04/optimization-performance-resource-hints/).
+
+Internet Explorer was also the first browser to introduce the `defer` attribute for scripts.
+
+### Finding the currently executing script
+
+At some point, the HTML5 standard introduced `document.currentScript` which pointed to the `<script>` element which was currently being executed. Why would you need this? For example to read out [extra configuration](https://2ality.com/2014/05/current-script.html) like this one in the `data-main` attribute:
+
+```html
+<script src="scripts/require.js" data-main="js/main"></script>
+```
+
+Somewhere inside `scripts/require.js` there would be this line:
+
+```js
+var main = document.currentScript.getAttribute('data-main');
+```
+
+Sadly, this only got implemented in Edge 12. What only a few people knew was that Internet Explorer had another mechanism in place which not only offered the same result, but that was also more in line with how a document would communicate if it was still loading or if it was fully interactive: scripts had a `.readyState` property.
+
+```js
+function currentScript() {
+  var scripts = document.getElementsByTagName('script');
+
+  for (; i < scripts.length; i++) {
+    // If ready state is interactive, return the script tag
+    if (scripts[i].readyState === 'interactive') {
+      return scripts[i];
+    }
+  }
+
+  return null;
+}
+```
+
+The `.readyState` property was dropped in Internet Explorer 11 which made this version the only one supporting neither `.currentScript` nor `.readyState` (luckily, a genius named [Adam Miller](https://twitter.com/millea9) [found another way to polyfill it](https://github.com/amiller-gh/currentScript-polyfill)).
+
+### So what led to IE's downfall?
+
+Looking at the above list, I would say that Microsoft was lightyears ahead of everyone else in regards to providing tools and solutions for architecting complex and delightful websites. Some syntax may look unfamiliar to us, but this is just because we are not used to it. Back in the days, XML was all the rage. And remember how you felt when you opened an SVG for the first time? Or when you saw ES6'es arrow notation? Or BEM? JSX? You probably had the same feelings.
+
+One part of why Microsoft's ideas didn't really catch on was that we developers just didn't get it. Most of us were amateurs and had no computer degree. Instead we were so busy learning about semantic markup and CSS that we totally missed the rest. And finally, I think too few people back then were fluent enough in JavaScript, let alone in architecting complex applications with JavaScript to appreciate things like HTML Components, Data Bindings or Default Behaviors. Not to speak of those weird XML sprinkles and VML.
+
+The other reason could have been a lack of platforms to spread knowledge to the masses. The internet was still in its infancy, so there was no MDN, no Smashing Magazine, no Codepen, no Hackernoon, no [Dev.to](http://dev.to/) and almost no personal blogs with articles on these things. Except [Webmonkey](https://en.wikipedia.org/wiki/Webmonkey). There were also no conferences yet, where Microsoft devrel people could have spoken. And there was also no broadband and therefore no conference talks you could have watched on video. All there was, was mailing lists like "[A List Apart](https://en.wikipedia.org/wiki/A_List_Apart)" and IRC to get in contact with others, which was basically Slack, but with a lot less polish.
+
+The final nail in the coffin was that after the release of Internet Explorer 6, Microsoft decided to tightly couple new Internet Explorer releases to Windows releases. So they [dismantled the Internet Explorer team](https://wiki.mozilla.org/Timeline) and integrated it into the Windows product team. Sadly, the Windows version in the making, Windows XP's successor with codename "Longhorn" (later Windows Vista), got massively delayed as development was so unfocused and chaotic that [they even needed to reset it](https://en.wikipedia.org/wiki/Windows_Vista#Development_reset). This also delayed a new Internet Explorer release and left the web in a vacuum, with no one fixing bugs and improving existing technology. When Microsoft woke up five years later, it was already too late. W3C had developed new standards and the remaining other browser makers not only implemented them but also founded the WHATWG which brought even more innovations to the table. Microsoft lost its technical leadership, lost its market share, and never recovered from that period.
+
+![Get Internet Explorer Badge](https://schepp.dev/img/ieget_animated.gif)
+
+*Update: don't miss the interesting discussion happening over [at Hacker News](https://news.ycombinator.com/item?id=22146629).*
+
+## programming principles in 20 years theory
+
+我编程20年的指导原则（英文）
+
+https://medium.com/@alexewerlof/my-guiding-principles-after-20-years-of-programming-a087dc55596c
+
+一个编程20年的资深程序员，总结自己编写软件的原则，其中一条是：安全性 > 可用性 > 可维护性 > 代码简洁 > 性能 。另一条是，除非已经完全理解了所要解决的问题，否则不要动手写代码。
+
+(the original)
+
+### My guiding principles after 20 years of programming
+
+I've been programming since 1999 and this year I've officially coded for 20+ years. I started with Basic but soon jumped into Pascal and C and then learned object oriented programming (OOP) with Delphi and C++. In 2006 I started with Java and in 2011 I started with JavaScript. I've worked with a wide range of businesses from robotics, fin tech, med tech to media and telecom. Sometimes I had a different hat as a researcher, CTO, TPM (technical product manager), teacher, system architect or TL (technical leader) but I've always been coding. I've worked on some products that served millions of people, and some that failed before being released. I worked as a consultant and I even had my own startup. I have spent lots of time on open source projects, closed source projects and internally open source projects (proprietary code that is developed by a community inside the company). I've worked with tiny microcontrollers all the way to mobile and desktop apps to cloud servers and lately serverless.
+
+For my 20 years programming anniversary, I tried to list the top principles that have been accumulated over the years as my guiding principles through my career:
+
+1. Don't fight the tools: libraries, language, platform, etc. Use as much native constructs as possible. Don't [bend](https://medium.com/free-code-camp) the technology, but don't bend the problem either. Pick the **right tool** for the job or you'll have to find the right job for the tool you got.
+2. You don't write the code for the machines, you write it for your colleagues and your **future self** (unless it's a throw away project or you're writing assembly). Write it for the junior ones as a reference.
+3. Any significant and rewarding piece of software is the result of collaboration. Communicate effectively and collaborate openly. Trust others and earn their trust. Respect people more than code. Lead by example. Convert your followers to leaders.
+4. Divide and conquer. Write isolated modules with separate concerns which are loosely coupled. Test each part separately and together. Keep the tests close to reality but test the edge cases too.
+5. Deprecate yourself. Don't be the go-to person for the code. Optimize it for people to find their way fixing bugs and adding features to the code. Free yourself to move on to the next project/company. Don't own the code or you'll never grow beyond that.
+6. Security comes in layers: each layer needs to be assessed individually but also in relation to the whole. Risk is a business decision and has direct relation to vulnerability and probability. Each product/organization has a different risk appetite (the risk they are willing to take for a bigger win). Often these 3 concerns fight with each other: UX, Security, Performance.
+7. Realize that every code has a life cycle and will die. Sometimes it dies in its infancy before seeing the light of production. Be OK with letting go. Know the difference between 4 categories of features and where to put your time and energy:
+  **Core**: like an engine in a car. The product is meaningless without it.
+  **Necessary**: like a car's spare wheel. It's rarely used but when needed, its function decides the success of the system.
+  **Added value**: like a car's cup-holder. It's nice to have but the product is perfectly usable without it.
+  **Unique Selling Point**: the main reason people should buy your product instead of your rivals. For example, your car is the best off-road vehicle.
+8. Don't attach your identity to your code. Don't attach anyone's identity to their code. Realize that people are separate from the artifacts they produce. Don't take code criticism personally but be very careful when criticizing others' code.
+9. Tech debt is like fast food. Occasionally it's acceptable but if you get used to it, it'll kill the product faster than you think (and in a painful way).
+10. When making decisions about the solution all things equal, go for this priority:
+  **Security > Reliability > Usability (Accessibility & UX) > Maintainability > Simplicity (Developer experience/DX) > Brevity (code length) > Finance > Performance**
+  But don't follow that blindly because it is dependent on the nature of the product. Like any career, the more experience you earn, the more you can find the right balance for each given situation. For example, when designing a game engine, performance has the highest priority, but when creating a banking app, security is the most important factor.
+11. Bugs' genitals are called **copy & paste**. That's how they reproduce. Always read what you copy, always audit what you import. Bugs take shelter in **complexity**. "Magic" is fine in my dependency but not in my code.
+12. Don't only write code for the happy scenario. Write [good errors](https://medium.com/hackernoon/what-makes-a-good-error-710d02682a68) that answer why it happened, how it was detected and what can be done to resolve it. Validate all system input (including user input): fail early but recover from errors whenever possible. Assume the user hold a gun: put enough effort into your errors to **convince** them to shoot something other than your head!
+13. Don't use **dependencies** unless the cost of importing, maintaining, dealing with their edge cases/bugs and refactoring when they don't satisfy the needs is significantly less than the code that you own.
+14. Stay clear from [**hype-driven development**](https://blog.daftcode.pl/hype-driven-development-3469fc2e9b22). But learn all you can. Always have **pet projects**.
+15. Get out of your comfort zone. Learn every day. Teach what you learn. If you're the master, you're not learning. Expose yourself to other languages, technologies, culture and stay curious.
+16. Good code doesn't need documentation, great code is **well documented** so that anyone who hasn't been part of the evolution, trial & error process and requirements that led to the current status can be productive with it. An undocumented feature is a non-existing feature. A non-existing feature shouldn't have code.
+17. Avoid overriding, inheritance and implicit smartness as much as possible. Write pure functions. They are easier to test and reason about. Any function that's not pure should be a class. Any code construct that has a different function, should have a different name.
+18. Never start coding (making a solution) unless you fully understand the **problem**. It's very normal to spend more time listening and reading than typing code. Understand the domain before starting to code. A problem is like a maze. You need to progressively go through the code-test-improve cycle and explore the problem space till you reach the end.
+19. Don't solve a problem that doesn't exist. Don't do **speculative programming**. Only make the code extensible if it is a validated assumption that it'll be extended. Chances are by the time it gets extended, the problem definition looks different from when you wrote the code. Don't **overengineer**: focus on solving the problem at hand and an effective solution implemented in an efficient manner.
+20. Software is more fun when it's made together. Build a sustainable **community**. Listen. Inspire. Learn. Share.
+
+I don't claim to be an authority in software development. These are just the wisdom I earned along the way. I'm sure this list will be more mature after another 20 years.
+
+## developement of git is moving fast quote
+
+Git 从2005年4月3日开始开发，4月6日完成开发，对外宣布，4月7日上线使用。
+
+-- 维基百科
+
+https://en.wikipedia.org/wiki/Git#History
+
+## explaining a big idea guide theory
+
+我们经常需要表达自己的想法，怎样才能清晰地说出来，让别人记住你要表达的意思？
+
+请看下面这段话，你对它留下深刻印象吗？
+
+![](https://cdn.beekka.com/blogimg/asset/202003/bg2020031101.jpg)
+
+修改一下，是不是效果好了很多。
+
+![](https://cdn.beekka.com/blogimg/asset/202003/bg2020031102.jpg)
+
+这里不是推荐大家使用问答体，而是想要展示两个小技巧，可以快速提升表达效果。
+
+（1）拆分。 内容尽量拆分成一系列简短而明确的小观点，粒度要细到每个观点都可以让人快速地、一目了然地领会。 （2）反复。 开头的几点用来吸引读者的注意力，然后进入核心部分时，采用各种形式反复展示，就是翻来覆去地讲，力求给人留下深刻印象。
+
+只要用好这两个小技巧，一定可以取得不错的效果。你一点一点地展示，让别人跟得上你。即使他们没有跟你一直走到底，只看了一半，也好于一点没看进去。
+
+## typescript is awkward view
+
+TypeScript 的怪异之处（英文）
+
+https://blog.asana.com/2020/01/typescript-quirks/
+
+本文记录了几个 TypeScript 使用过程中不符合直觉的地方。
+
+## people around is your destiny quote
+
+改变生活最持久、最有效的方法就是改变周围的人。所以，你应该明智地选择你的朋友、你的工作，他们会成为你的命运。
+
+-- HN 读者
+
+https://news.ycombinator.com/item?id=22102726
+
+## chinese higher education is nothing view theory
+
+这几天，[教育部](http://edu.people.com.cn/n1/2020/0302/c1053-31612535.html)公布了2020年研究生招生规模，今年会多招18.9万人，比去年增长20%。
+
+![](https://cdn.beekka.com/blogimg/asset/202003/bg2020031819.jpg)
+
+这是为了落实国务院的要求，因为今年有疫情，高校毕业生的就业形势非常严峻，扩大研究生招生，可以减少就业压力。
+
+这固然是不得已的措施，但也反映了我们国家的现实： 高等教育的目的，并不完全是培养学术人才，很大程度上充当了就业缓冲层。
+
+一旦就业不好，高校就会扩招。由于一再的扩招，研究生的培养质量下滑得很厉害。我建议，大家考研一定要慎重， 如果不打算追求学术，轻易不要考研。 否则等到两三年后毕业，拿到一张含金量有限的硕士文凭，你会发现工作同样难找，还白白浪费了好几年的宝贵光阴。
+
+这些年已经司空见惯了，博士研究生去参加公务员考试、去应聘中小学教师。几乎任何一个有学历要求的招聘岗位，都有博士生在应聘。学历贬值的程度可见一斑。
+
+在我看来，读研越来越不值得，研究生文凭在贬值，而学到的那些知识完全可以在互联网上自学。一边工作一边学习，会比读研的成本小很多。工作中提高技能，了解社会，更重要的是可以有收入；下班后，再通过网络自学，补充知识，思考自己未来要走的方向。总之，中国的研究生教育不是出路，学到的东西太少，浪费的时间太多。
+
+## fucking the digital copyright policy story
+
+[生成所有 MIDI 旋律](https://www.musictech.net/news/programmers-generate-every-possible-melody-in-midi-to-prevent-lawsuits/)
+
+![](https://cdn.beekka.com/blogimg/asset/202002/bg2020022804.jpg)
+
+MIDI 是一种电子音乐的格式，可以用数字格式生成和记录音乐。两位美国程序员为了防止有人将 MIDI 旋律申请版权，就用软件生成了所有8个音符、12种节拍的旋律，然后以创意共享许可证发布到网上。软件可以每秒生成30万种旋律。
+
+以后，如果有人要将自己的作品申请版权，就会发现这个旋律已经发布过了，从而无法申请成功。他们解释自己的动机时说："版权制度有问题，急需改革。旋律只是数字而已，不应该被申请版权。"
+
+## clean river water without visitors story
+
+[意大利威尼斯](https://www.boredpanda.com/fish-seen-in-clear-venice-canals-after-coronavirus-lockdown/)由于没有游客，运河中的水变得清澈见底。
+
+![](https://cdn.beekka.com/blogimg/asset/202003/bg2020031817.jpg)
+
+![](https://cdn.beekka.com/blogimg/asset/202003/bg2020031818.jpg)
+
+## jira web app clone in react and node
+
+[jira_clone](https://github.com/oldboyxx/jira_clone)
+
+![](https://cdn.beekka.com/blogimg/asset/202001/bg2020012901.jpg)
+
+使用 React + Node.js 写的项目管理工具 Jira 的克隆。
+
+## newton learning at lockdown story quote
+
+1665年8月，剑桥大学由于鼠疫传播而关闭，一个叫做艾萨克-牛顿的学生不得不回到乡下的老家，躲避瘟疫。
+
+整整18个月，他与世隔绝，努力地读书和做实验，创造性地提出了一整套引力理论。人类的科学进展由于这个单一事件，从此彻底改变。
+
+-- [《艰难时期的横向思考》](https://creativesamba.substack.com/p/lateral-thinking-during-troubled)
+
+## ipad is a productivity failure quote
+
+两天前，ZDNet 发表了新文章《认识 iPad：提高你生产力的10个应用》。这一类的科普文章，每周都会出现，这难道不是一件很奇怪的事情吗？
+
+iPad 已经发布10年了，可是人们还必须看这种文章，说明大家还没找到办法，到底怎样才能在 iPad 上进行实际工作！
+
+-- 《iPad 的失败》
+
+## as a mobile developer working for android 4.4 forever quote theory
+
+我意识到，无论谷歌发布多么新的、文档完善的、功能强大的新 API，我们余生都将为安卓 4.4 编写代码。
+
+-- [HN 读者](https://news.ycombinator.com/item?id=22153034) 回答提问《作为手机开发者，你有没有什么遗憾？》
+
+(the original)
+
+On the iOS side, I regret not knowing how horrible Xcode is and how horrible Apple's documentation is. On the Android side, I regret not realizing that no matter what kind of slick new well documented APIs Google releases we will all be writing code for Android 4.4 for the rest of our lives. Also, I wish I knew mobile developers are some of the lowest paid developers other than game industry peons.
+
+## opensource sketchy whiteboard web app
+
+[Excalidraw](https://excalidraw.com/)
+
+![](https://www.wangbase.com/blogimg/asset/202003/bg2020032106.jpg)
+
+一个非常简单易用的白板绘图开源工具。
+
+## react component generator web app
+
+[react-visual-editor](https://github.com/anye931123/react-visual-editor)
+
+![](https://www.wangbase.com/blogimg/asset/202003/bg2020032603.jpg)
+
+React 的组件可视化拖拽页面编辑与代码生成工具，让不会 React 技术栈的人员可以通过拖拽生成页面。（@[anye931123](https://github.com/ruanyf/weekly/issues/1145) 投稿）
+
+## github chinese repos ranking library
+
+[GitHub 中文项目排行榜](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)
+
+这个仓库收集 GitHub 上面国人的中文项目的 Star 排行。（@[9527q](https://github.com/ruanyf/weekly/issues/1135) 投稿）
+
+## the greatest factor of programming efficiency quote
+
+影响编程效率最大的因素，不是使用何种编程语言，而是昨晚你的睡眠是否充足。
+
+-- [《我的软件工程信念》](https://blog.wesleyac.com/posts/engineering-beliefs)
+
+## behind the poor web app support quote
+
+手机操作系统不愿意全力支持 Web App ，是故意的。因为他们要通过应用商店赚钱，让应用只能通过应用商店安装，就可以保证获得庞大的收入。
+
+-- [HN 读者](https://news.ycombinator.com/item?id=22185250)
+
+## letter to a fresh programmer story theory
+
+[写给新软件工程师的一封信](https://www.florio.dev/20200328-letter-to-myself/)（英文）
+
+![](https://www.wangbase.com/blogimg/asset/202004/bg2020040114.jpg)
+
+作者给进入这个行业的新人，提供了几点建议（上图），我觉得说得相当好。新人对这些建议肯定没有很深的体会，但是工作几年以后，再回头看，你会觉得这才是正确的路。
+
+(the original)
+
+### A letter to myself as a fresh software engineer
+
+Dear Self, these are some tips I wish someone has given me when I started my career. With love, (a more experienced) you.
+
+March 28, 2020
+
+Dear Self,
+
+You just graduated and you are ready to start your career in the IT field. I cannot spoiler anything, but I assure you it will be an interesting ride. I'm writing you this letter because I want to give you some advice that will help you be a better professional. Nothing you won't learn by yourself in the next few years, but it is something that I wish someone had told me when I started my career. They are not ordered by any means and are **all equally important**.
+
+![letter-to-myself](https://www.florio.dev/posts/20200328-letter-to-myself/img/letter-to-myself.png)
+
+### Run a marathon, not a sprint.
+
+The road to becoming a good software engineer is a long one. **Don't rush on stuff**, and don't give up just because you are not getting an easy and fast win. Take your time to learn and become good in the topics you are interested in. Remember that this is a marathon, not a sprint.
+
+### Be humble, not stupid.
+
+It is good -- sorry, it is **fundamental** -- to be humble. There is always something to learn from others, even when you are an experienced professional. But this doesn't mean that everyone is better than you. You have to **respect yourself and your skills**. When you don't respect yourself you become stupid, not humble.
+
+### Compare with yourself, not others.
+
+There is no point in comparing yourself with others. There will always be someone better than you in your job. And there will always be someone better than the one that is better than you. And there will... ok, you got the point. **Just do your best**. If you think someone is a better engineer than you are, learn from him/her. Keep doing your best, and eventually, you will be a reference for someone else.
+
+### Respect people, not titles.
+
+During your career, you will work with exceptional professional. Most important, you will meet exceptional human beings. **Respect people for who they are**, not for the title they have. If `foo` is "Principal Senior Lead Engineering Chief Architect" doesn't mean that he deserves more respect than `bar` that is a junior software developer.
+
+### Choose the challenge, not comfort.
+
+The road will be full of crossroads. There may be multiple choices, but everything boils down to a choice between your comfort zone, or go outside your comfort zone. There may be a moment in your life -- hopefully after decades of work -- when you will feel the need to cool down a bit because you will be satisfied with what you achieved. Until that moment, try to go out of your comfort zone. It will make you a better professional and you will feel more satisfied with your career. Remember that **the best things often happen outside the comfort zone**.
+
+### Jump on the whiteboard, not on the keyboard.
+
+When you have to design a new feature or a new system, don't jump on the keyboard to start coding. The "muscle" you have to train and use as an engineer is your brain, not your fingers. **Always think before act**. For this reason, jump on the whiteboard instead of the keyboard, and start thinking of what you should implement. Better if you have a sparring partner to challenge your thoughts. Oh, when I say "the whiteboard" I mean "every object that can help you think", be it pen and paper, a notebook application, [draw.io](https://app.diagrams.net/), etc.
+
+### Deliver value, not code.
+
+Please don't be affected by the [NIH syndrome](https://en.wikipedia.org/wiki/Not_invented_here). There is no point in reinventing the wheel. **Avoid wasting time in something that is already out there**. If you can achieve your goal simply glueing together some tools, just do it. What you should deliver as a software engineer is value to your business, not lines of code.
+
+### Choose life, not work.
+
+In the IT field, it is easy to focus too much on work. After all, for most of us, it is not just a job, it is passion. Remember that **work is important, but life is more**. Live a meaningful and rich life. Play sports, read books, find hobbies, travel and see the beautiful world we are living in. Hangout with friends, find a partner for your life and give to your partner all the love, attention, and support that you can. You'll be surprised how much having a rich life will improve you as a professional.
+
+That's all I can tell you right now. I still have a lot to learn.
+
+One last thing: **enjoy the ride**! 🚀
+
+With love,
+
+(a more experienced) You.
+
+## to be deep is to be silent quote
+
+浅水是喧哗的，深水是沉默的。（Shallow water is roaring, deep water is silent.）
+
+-- 雪莱
+
+## animals into online meeting story
+
+[动物参加视频会议](https://www.sweetfarm.org/goat-2-meeting)
+
+![](https://www.wangbase.com/blogimg/asset/202004/bg2020041802.jpg)
+
+疫情期间，视频会议变得非常流行。美国加州的一个农场，推出了一项服务，让农场的动物参加视频会议。会议进行时，一个动物会加入直播，仿佛是会议的一个参加者。
+
+这项服务是有偿的，所有收费用来资助农场的运作。用户最低交纳65美元，并发送会议的时间和链接，就可以让一个动物远程出席20分钟会议。目前，可选的动物主要是山羊，以后可能会有其他动物。农场特别声明，不保证山羊有很好的开会状态，它在睡觉也是有可能的。
+
+![](https://www.wangbase.com/blogimg/asset/202004/bg2020041804.jpg)
+
+![](https://www.wangbase.com/blogimg/asset/202004/bg2020041803.jpg)
+
+![](https://www.wangbase.com/blogimg/asset/202004/bg2020041805.jpg)
+
+## kids phone os elegant ui design story
+
+[儿童手机系统](https://techless.com/news-posts/kid-safe-smartphone-launch)
+
+![](https://www.wangbase.com/blogimg/asset/202004/bg2020043004.jpg)
+
+![](https://www.wangbase.com/blogimg/asset/202004/bg2020043005.jpg)
+
+美国一家创业公司推出儿童的手机操作系统 KidOS，只能用来打电话、发短信和拍照，不能上网和看视频，其他还包括一些小工具，比如时钟和计算器。
+
+它基于安卓系统，可以在现有的安卓手机上安装。界面相当简洁，连图标都没有，看上去让人感到很清爽。
+
+## finland morden single page frontend web app dev in react and node guide
+
+[深入浅出现代 Web 编程](https://fullstackopen.com/zh/)
+
+![](https://www.wangbase.com/blogimg/asset/202005/bg2020050207.jpg)
+
+一个芬兰的全栈公开课的中文版。（@[RichardStark](https://github.com/ruanyf/weekly/issues/1214) 投稿）
+
+## why we university theory
+
+[为什么读大学？](https://amgreatness.com/2020/04/29/the-long-decline-of-american-higher-education-has-begun/)
+
+美国经济学家布莱恩-卡普兰（Bryan Caplan）写过一本书，研究人们为什么想读大学。
+
+![](https://www.wangbase.com/blogimg/asset/202005/bg2020050202.jpg)
+
+他发现，读大学出于三个动机。
+
+1）想学习一些东西，无论是培养自己的世界观还是发展实践技能。
+
+2）想结识聪明人，与他们成为朋友。
+
+3）想向雇主表明自己足够聪明，有能力完成工作。
+
+这也可以说是大学的三个功能，很难完全分开：大学无法只提供其中一种，不提供剩下两种。即使你只想获取其中一种好处，也必须完整地读完大学。
+
+这三种动机之中，最强的动机其实是第三种，因为它的效果最明显。第一种动机的困难在于，你多学习一倍的新技能（比如获得第二学位），也无法获得多一倍的工资。事实上，多修大学课程带来的工资增长，到了一定程度后就不明显了。
+
+所以，为了促进招生，大学应该想方设法加强第三种动机，使得优秀学生更容易被雇主识别。
+
+举例来说，百分制的考试评分就比 ABCD 的四等级评分更好，因为更容易突出优秀学生。另外，提高毕业难度，使得一部分学生无法拿到学位，其实也有利于多招生。
+
+## how you recognize phone num is what your mother lang is quote
+
+你用哪种语言记忆电话号码，那种语言就是你的母语。
+
+-- 推特用户
+
+## the greatest conflict between science and business quote
+
+科学要求可复制性，其他人可以复制你的结果。业务不行，要求不可复制性，其他人最好不能复制你的业务。
+
+-- [《商业与科学相结合的艺术》](https://www.younglingfeynman.com/essays/artofbusiness)
+
+## the opportunity nowadays is the software and self media lever view theory
+
+美国风险投资家 Naval Ravikant 有一个很有名的长推特，一共40条，题目叫做[《如何致富，不靠运气》](https://threadreaderapp.com/thread/1002103360646823936.html)，谈了他的商业观。
+
+和菜头翻译过[中文版](https://new.qq.com/omn/20200413/20200413A0U72C00.html)。另外，Naval Ravikant 后来还有一篇[长文](https://nav.al/rich)，详细解释这些观点。
+
+![](https://www.wangbase.com/blogimg/asset/202005/bg2020051404.jpg)
+
+他认为，致富其实只需要两步。
+
+第一步：找到"个人-市场-产品"这三者交叉的那个定位。 你问问自己，你的竞争力在哪里？市场需要的哪一种产品，可以用到你的这种竞争力？这就是你的定位。
+
+第二步：使用各种杠杆（leverage），使得你的产品可以服务尽可能大的市场。
+
+只要做到上面这二步，就会赚到大钱。
+
+![](https://www.wangbase.com/blogimg/asset/202005/bg2020051405.jpg)
+
+我觉得，他总结得很精辟。赚大钱的奥秘就是定位和杠杆这两件事。当市场需要你的产品时，如果有办法"放大"产品，服务更多的人，你就成功了。
+
+Naval Ravikant 说，传统的杠杆是劳动力和资本。通过雇佣更多的员工和借贷更多的钱，把业务放大。但是， 互联网时代，新的杠杆出现了，那就是软件和自媒体。
+
+只要服务器开着，软件（包括网站和 App）就能帮你开展业务，服务更多的人。媒体杠杆更简单，只要写文章、拍视频、录播客，放到网上就可以了。只要别人看到这些内容，就等于帮你放大了业务。
+
+这两种新杠杆，成本更低，限制条件更少（不需要大量雇人，也不需要跟银行打交道），因此是更好的杠杆。如果你把四种杠杆结合起来，就能发挥最大的威力。事实上，那些互联网巨头都是这四种杠杆的结合，难怪它们都赚到了大钱。
+
+![](https://www.wangbase.com/blogimg/asset/202005/bg2020051406.jpg)
+
+在我看来，这个周刊也是一种杠杆。一方面，我通过周刊，把自己的想法、看到的东西，传递出去，接触到更多的人；另一方面，周刊反过来督促我每周大量的阅读，去找到能帮到我的技术、创意、趋势和故事。
+
+从某个角度看，人生的成就其实取决于你能影响到多少人。祝愿大家都能找到自己的人生杠杆。
+
+(the original tweet)
+
+How to Get Rich (without getting lucky): 
+
+Seek wealth, not money or status. Wealth is having assets that earn while you sleep. Money is how we transfer time and wealth. Status is your place in the social hierarchy. 
+
+Understand that ethical wealth creation is possible. If you secretly despise wealth, it will elude you. 
+
+Ignore people playing status games. They gain status by attacking people playing wealth creation games. 
+
+You're not going to get rich renting out your time. You must own equity - a piece of a business - to gain your financial freedom. 
+
+You will get rich by giving society what it wants but does not yet know how to get. At scale. 
+
+Pick an industry where you can play long term games with long term people. 
+
+The Internet has massively broadened the possible space of careers. Most people haven't figured this out yet. 
+
+Play iterated games. All the returns in life, whether in wealth, relationships, or knowledge, come from compound interest. 
+
+Pick business partners with high intelligence, energy, and, above all, integrity. 
+
+Don't partner with cynics and pessimists. Their beliefs are self-fulfilling.
+
+(the original)
+
+(-> naval.md)
+
+## old triangle functions history
+
+[澳大利亚研究人员](https://www.distractify.com/omg/2017/08/28/13BnNP/babylonian-stone-tablet)发现一块3700年前的巴比伦石碑上，镌刻的主题是三角函数！这使得巴比伦人研究三角函数的历史，比古希腊人早了1500年。
+
+![](https://www.wangbase.com/blogimg/asset/202002/bg2020021402.jpg)
+
+![](https://www.wangbase.com/blogimg/asset/202002/bg2020021401.jpg)
+
+## writing is good while meeting is bad quote
+
+会议有利于性格外向的人，尤其是那些说话大声并且不需要时间思考问题的人，不利于那些性格内向的人。这是不公平的，但很少被提出。
+
+-- [《为什么在远程工作中写作很重要？》](http://www.timcasasola.com/blog/writing)
+
+## 
 
 

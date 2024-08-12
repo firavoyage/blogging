@@ -8,19 +8,19 @@
 - visit digital homes (al sr)
 - eat (bilimiao)
 > summer vacation day
-- read ruanyf weekly & save quotes(-> ruanyf)
+- read ruanyf weekly (-> ruanyf)
 - write voyage.js (-> /voyagejs)
-- build pure math (-> /pure)
+- make pure math noskill videos (-> /pure)
 > summer vacation night
-- revise projects (structured detail & inspired by)
-- classify web (tags)
+- revise projects (structured & detailed & inspired by)
+- classify web (by tag)
 - redesign fav (trim and move)
+- play rpgs (sr hg)
 - watch bangumis ("yosuga no sora" "mygo")
 - watch simplelive
-- play rpgs (sr hg)
 > school life
 - read book "人生哲思录"
-- learn math & english
+- learn english & math
 
 ## 20240809
 

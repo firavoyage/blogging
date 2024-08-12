@@ -2075,6 +2075,107 @@ In this example:
 
 These macros can help you write more concise and readable code, especially when you need to perform similar iteration tasks in multiple places.
 
+## oop principles
+
+> -> mistral large 2
+> object oriented programming principles
+
+Object-oriented programming (OOP) is a programming paradigm that uses objects and their interactions to design applications and computer programs. Here are the key principles of OOP:
+
+1. **Encapsulation**:
+   - Bundles data (attributes) and methods (functions) that operate on the data into a single unit called an object.
+   - Restricts direct access to some of an object's components, which can prevent the accidental modification of data.
+   - Example: A `BankAccount` class encapsulates data like `accountNumber` and `balance`, and methods like `deposit` and `withdraw`.
+
+2. **Abstraction**:
+   - Hides the complex implementation details and shows only the essential features of the object.
+   - Allows the user to interact with the object through a simplified interface.
+   - Example: A `Car` class may have a `start` method, but the user doesn't need to know the complex process of starting the engine.
+
+3. **Inheritance**:
+   - Allows a new class to inherit properties and methods from an existing class.
+   - Promotes code reuse and establishes a hierarchical relationship between classes.
+   - Example: A `SavingsAccount` class can inherit common properties and methods from a `BankAccount` class.
+
+4. **Polymorphism**:
+   - Allows objects of different classes to be treated as objects of a common superclass.
+   - Enables a single interface to represent different underlying forms (data types).
+   - Example: A `draw` method can be used to draw different shapes (like circles, rectangles), each implementing the `draw` method differently.
+
+5. **Association**:
+   - Defines a relationship between objects.
+   - Can be one-to-one, one-to-many, many-to-one, or many-to-many.
+   - Example: A `Student` class can have an association with a `Course` class, indicating that a student is enrolled in a course.
+
+6. **Aggregation and Composition**:
+   - Special forms of association.
+   - Aggregation represents a "has-a" relationship where the child can exist independently of the parent.
+   - Composition represents a "part-of" relationship where the child cannot exist independently of the parent.
+   - Example: A `Library` class can have an aggregation relationship with `Book` objects, while a `House` class can have a composition relationship with `Room` objects.
+
+7. **Interface and Implementation**:
+   - Separates the definition of methods (interface) from their implementation.
+   - Allows different classes to implement the same interface, promoting flexibility and interchangeability.
+   - Example: A `Printable` interface can be implemented by different classes like `Document` and `Image`, each providing its own implementation of the `print` method.
+
+These principles help in creating modular, reusable, and maintainable code, making OOP a powerful paradigm for software development.
+
+## fp principles
+
+> -> mistral large 2
+> functional programming principles
+
+Functional programming (FP) is a programming paradigm that treats computation as the evaluation of mathematical functions and avoids changing state and mutable data. Here are the key principles of functional programming:
+
+1. **Pure Functions**:
+   - Functions that always produce the same output for the same input and have no side effects (i.e., they don't modify any external state).
+   - Example: `math.sin(x)` is a pure function because it always returns the same result for a given `x` and doesn't change any external state.
+
+2. **Immutability**:
+   - Data cannot be modified once created. Instead of changing existing data, new data is created.
+   - Promotes safer code with fewer side effects and easier debugging.
+   - Example: In Python, tuples are immutable, while lists are mutable.
+
+3. **First-Class and Higher-Order Functions**:
+   - Functions are treated as first-class citizens, meaning they can be passed as arguments, returned as values, and assigned to variables.
+   - Higher-order functions take one or more functions as arguments or return a function as a result.
+   - Example: `map`, `filter`, and `reduce` are higher-order functions that take a function as an argument.
+
+4. **Function Composition**:
+   - Combining simple functions to build more complex functions.
+   - Allows for reusable and modular code.
+   - Example: `f(g(x))` is a composition of functions `f` and `g`.
+
+5. **Avoiding Side Effects**:
+   - Side effects (like modifying global variables, writing to a file, or printing to the console) are minimized or isolated.
+   - Makes code more predictable, easier to test, and less prone to bugs.
+
+6. **Declarative**:
+   - Focuses on what to do rather than how to do it.
+   - Encourages expressing the logic of computation without describing its control flow.
+   - Example: SQL is a declarative language where you specify what data you want, not how to retrieve it.
+
+7. **Lazy Evaluation**:
+   - Delays the evaluation of an expression until its value is needed.
+   - Improves performance by avoiding unnecessary computations.
+   - Example: In Python, generators use lazy evaluation to produce values on-the-fly as needed.
+
+8. **Recursion**:
+   - Solving a problem by breaking it down into smaller instances of the same problem.
+   - Often used in place of traditional looping constructs.
+   - Example: Calculating the factorial of a number using recursion.
+
+9. **Pattern Matching**:
+   - A way to specify multiple function bodies for different input patterns.
+   - Allows for concise and expressive code.
+   - Example: In languages like Haskell or Scala, pattern matching is used to handle different cases based on the structure of the input data.
+
+10. **Algebraic Data Types (ADTs)**:
+    - Composite types formed by combining other types.
+    - Include product types (like tuples or records) and sum types (like unions or enums).
+    - Example: In Haskell, the `Maybe` type is an ADT that can represent either a value or the absence of a value.
+
+These principles help in creating code that is concise, predictable, and easier to reason about, making functional programming a powerful paradigm for building robust software systems.
 
 
 

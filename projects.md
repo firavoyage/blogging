@@ -158,14 +158,9 @@
   - no ads no stats no comments
   - away from the hustle and bustle
 - transparent algorithm
-  - ranking 
+  - preference stats
   - recommendation
-- full featured
-  - songs
-  - podcasts
-  - profiles
-  - albums
-  - etc.
+  - ranking weight
 - local based
   - multi download
   - import and export
@@ -175,6 +170,8 @@
 - inspired by
   - spotify
   - apple music
+  - youtube music
+  - soundcloud
   - my free mp3
 
 ### `eat`
@@ -256,6 +253,21 @@ indie games,bangumis,visual novels,fonts,... not included as their databases are
 
 ## learn
 
+### `movieheart`
+> different rating is different people
+- the shawshank redemption
+  - all we love this
+  - no one in this prison is guility
+  - i dont know how many people killed.
+- the truman show
+  - so the trumen love this most
+- joker
+  - so the jokers love this most
+- coco
+  - about beyond death
+- soul
+  - move the soulless ones
+
 ### `debation`
 > structured views instead of unordered sentences
 > -> /debation
@@ -272,20 +284,12 @@ indie games,bangumis,visual novels,fonts,... not included as their databases are
 ### `pure` 
 > my desired math courses | difficulities in great simplicity | math noskill
 > -> /pure
-- simplicity
-  - no word can be removed like in an abstracted syntax tree
-  - vivid examples and explanations are collapsed by default (vocal off | quick animation)
-  - strict lint for definitions, calculations, solutions, etc.
-- difficulty
-  - from lowest to highest
-  - not including competition problems
-  - source "math challenger" "math leader" "math helper" and top highschool exams
-- unworldly
-  - omit all subject words and verbal parallelism
-  - internet memes but vocal off like easter eggs (ref mihoyo)
-  - source from nsfw idioms & moegirl pedia
-  - bach classics & english vintage ballads & vocaloids everywhere
-  - invite life-size waifus but no hentai (some serious characters like herta or fuxuan)
+- features
+  - not boring like real class recordings
+  - simplicity by abstract(description and calculation) and collapsion(vocal off quick animation)
+  - difficulty as "math challenger" "math leader" "math helper" and some exams
+  - unworldly by omitting subject words and nsfw idioms (memes and moegirl pedia)
+  - life-size waifus (qwq)
 - print course
   - stay away from the hustle and bustle
   - every course is printable
@@ -348,7 +352,7 @@ indie games,bangumis,visual novels,fonts,... not included as their databases are
   - identation style
 - work with mdlint
 
-## `nsfwly`
+### `nsfwly`
 > wow now i get the placeholder
 > -> idioms
 - nsfw idiom
@@ -403,6 +407,13 @@ indie games,bangumis,visual novels,fonts,... not included as their databases are
   - brad traversy
   - rodrigo pombo
   - scratch
+
+### `sniper`
+> get everything about code snippets
+- inspired by
+  - cacher
+  - lodash
+  - github gist
 
 ### `firascript` 
 > simplicity of a script
@@ -506,115 +517,19 @@ for(i arr j brr){A} //for(let __fs_i=0,i=arr[__fs_i],j=brr[__fs_i];__fs_i<arr.le
   - link(internet archive,preview,stats)
   - ...
 - generate code
-  - run with voyagejs
 - inspired by
   - webflow
   - framer
-  - popsy
   - figma
+  - craftjs
 
 ### `voyagejs` 
 > web framework can be heavy and not heavy
-- feature
-  - write html as javascript object
-  - functional programming
-  - route method separated in another script
-- voyage element
-  - elements are instance of Object, not Node 
-  - dataKeys in d are binded,if one of them changes,call f
-  - object based
-```
-e={
-  t "div" //tag
-  a {id "app" style {color "gold" z-index "6"}} //attributes
-  c [{t "button"} {t "input"}] //children
-  f ["show"] //function keys
-  d ["button_1"] //data keys
-} 
-```
-  - arrayified
-```
-e=[
-  "div" //tag
-  {id "app" style {color "gold" z-index "6"}} //attributes
-  [["button"] ["input"]] //children
-  ["show"] //function keys
-  ["button_1"] //data keys
-] 
-```
-- functionified
-```
-e=function div(id="app",style={color "gold" z-index "6"},f=["show"],d=["button_1"]){
-  button()
-  input()
-}
-```
-- voyage component
-  - components are functions,give it data and then get element
-```
-c={
-  button(icon){ 
-    //include d(pressed state),not include f(change)
-    //r=...
-    key=voyage.new("button") 
-    voyage.set(key,"off") 
-    //...
-  }
-  listItem(item){
-    //create listItem
-  }
-  list(items){
-    r={t "div" a {class "list"} c []} //result
-    //or r=make("div.list")
-    for(let i of items){
-      let li=listItem(i)
-      r.c.append(li)
-    }
-    return r
-  }
-  app(data){
-    r={t "div" a {id "app"} c [list(data.items),button(data.buttonicon)]}
-    return r
-  }
-}
-```
-- voyage functions
-  - functions are pure
-  - not object oriented but functional
-```
-fn={
-  show(id,state){
-    node=voyage.node(id)
-    if(state=="off"){
-      node.style.display="none"
-    }
-    else{
-      node.style.display="inline"
-    }
-  }
-}
-```
-- methods
-```
-voyage.new(name) //count name,get "name_1" or "name_2" or ...
-voyage.set(key,value) //set key,call everything binded
-voyage.get(key) //get its value
-voyage.state(element,key) //get own prop
-voyage.run(element) //bind element data,get Node
-voyage.node(id) //give element id,get Node
-```
-- example
-```
-{new,set,get,run}=voyage
-let app=c.app(data)
-let node=run(app)
-document.body.append(node)
-```
-- voyage.run
-  - for each element with data
-  - give it an id,bind this id to its data key
-  - when data change,run all its functions
-  - for each function,call fn(id,data)
+> -> /voyagejs
+- features
+  - see voyagejs/readme
+- examples
+  - see voyagejs/readme
 - inspired by
   - alpinejs
   - mithriljs
@@ -640,16 +555,9 @@ document.body.append(node)
 
 ### `opengram`
 > rethink libre
-- telegram sucks
-  - close backend source
-  - dont update app source for months
-  - kill other apps
-  - "telegram is opensource!!11!"
-  - done.
-- rebuild telegram
-  - in real libre way
-- web chat
-  - between same page viewers
+- features
+  - ui truly yours
+  - web chat between same page viewers
 - pwa based
   - one tap open
   - sync notification 
@@ -657,8 +565,10 @@ document.body.append(node)
 - various themes
   - by voyage
 - inspired by
-  - disquz
+  - disqus
+  - giscus
   - matrix
+  - mattermost
 
 ## channel
 

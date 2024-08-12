@@ -35,16 +35,17 @@
 ```js
 let voyage = {
   //core
-  node(type,labels,contents,binds,keys){} //tag attr children binds keys
-  run(element){}
-  set(key){}
+  node(type,labels,contents,binds,keys){}, //tag attr children binds keys
+  run(element,binds=this.binds){},
+  set(key,data=this.data){},
   //abstract sugar
-  key(data){}, 
-  get(key){},
+  key(data,counts=this.counts){}, 
+  get(key,data=this.data){},
+  use(name,fn,methods=this.methods){},
   how(element,key){}, 
-  where(id){} 
+  where(id){},
   //private data
-  keys:{}, //key and value
+  data:{}, //key and value
   binds:{}, //key and functions
   counts:{}, //name and count
   methods:{}, //pure functions
