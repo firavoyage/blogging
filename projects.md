@@ -15,9 +15,12 @@
   - various content blocks
   - collapse and show more
   - by parac
-- themes to choose
-  - by voyage
 - local based
+  - static markdown files
+- sync everywhere
+  - by once
+- various themes
+  - by voyage
 - inspired by
   - notion
   - obsidian
@@ -54,6 +57,7 @@
   - algorithm and data structure visualization
 - inspire
   - structure of ordered thoughts
+  - steam top rated rank list (taptap) (qoo) (3839)
   - food recipe gantt image
   - math venn image
   - programming roadmap 
@@ -149,6 +153,19 @@
 - see reasons behind anwsers
 - highly-abstracted grammar,like words filling
 - deconstruct natural languages grammar
+
+### `once`
+> publish once & publish everywhere
+- from anywhere
+  - web
+  - phone
+  - pad
+  - computer
+- to everywhere
+  - instagram
+  - twitter
+  - telegram
+  - github
 
 ## perceive
 

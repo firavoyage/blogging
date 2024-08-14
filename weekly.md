@@ -2,6 +2,28 @@
 
 > 🌕 💤 before 23:00!
 
+## 20240814
+
+> summer vacation daily
+- visit digital homes (al)
+- eat (bilimiao)
+> summer vacation day
+- read ruanyf weekly (-> ruanyf)
+- write voyage.js (-> /voyagejs)
+- make voyage sr-styled component library (-> /voyage)
+- implement pre project (-> /pre)
+- make pure math noskill videos (-> /pure)
+> summer vacation night
+- revise projects (structured & detailed & inspired by)
+- classify web (by tag)
+- redesign fav (trim and move)
+- play rpgs (hg)
+- watch bangumis ("yosuga no sora" "mygo")
+- watch simplelive
+> school life
+- read book "人生哲思录"
+- learn english & math
+
 ## 20240811
 
 > summer vacation daily

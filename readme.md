@@ -48,8 +48,9 @@
   - worldend: what do you do at the end of the world? are you busy? will you save us? (2017)
   - tom and jerry classic collection (1940)
   - reply 1988 (2015)
-  - joker (2019)
+  - life in a day (2011)
   - soul (2020)
+  - joker (2019)
   - your name (2016)
   - the shawshank redemption (1994)
   - the knockout (2023)
@@ -79,6 +80,8 @@
   - canabalt hd (2009)
   - yosuga no sora (2008)
   - senren banka (2016)
+  - sabbat of the witch (2015)
+  - riddle joker (2020)
   - the rainbow appears after flowering rain (2016)
   - wonderful everyday (2010)
   - bishoujo mangekyou (2011)
@@ -203,7 +206,7 @@
   - hacker news
   - css tricks
   - codepen spark
-  - reddit old (reddit) (reddit new)
+  - reddit old (reddit new) (reddit)
   - v2ex creative
   - nga bbs
   - bangumi.tv

@@ -1572,7 +1572,47 @@ berryberry搜索"高中数学动画片".
 
 **hacker news html design awesome**
 
+下午 13:51
+玩senrenbanka
+不知道为啥,风扇狂转...
+wine?不会吧...之前没事啊,ubuntu22那会.
 
+设置有意思
+"中出|外射"
+"射在口中|颜射"
+哈哈
 
+13:55
+重启一下,好了
+senrenbanka.exe占8%cpu.
+像chromium不到1%.
+
+13:59
+不知道为啥,风扇又开始转.
+senrenbanka.exe还是8%cpu
+chromium -all 大概0.0x%.
+太热?
+
+**(左手道观,右手品茶,养生之道.)**
+
+14:43
+玩了一会...
+玩到一个有丛雨,有母亲A的scene.
+不知道啥时候会到h scene...
+好像还在共通线.
+
+看ruanyf weekly去...
+
+如果拼命,最后的,平均的,效率
+或许是原先的两倍,也可能三倍,
+然后呢,无论如何,不会是十倍,
+所以别拼了.
+
+好想法!做一个taptap评分榜,使用board
+
+23:48
+**周刊大概看不完的.**
+慢慢看吧.
+明天接着推**senren banka**.(steam top rated!)
 
 

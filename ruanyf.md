@@ -443,7 +443,7 @@ https://medium.com/@rothgar/the-economics-of-writing-a-technical-book-689d0c12fe
 
 ## wrong emoji icons on android
 
-2、安卓的错误 Emoji 图案
+安卓的错误 Emoji 图案
 
 今年的谷歌 I/O 大会，谷歌的 CEO 特别提到他们修正了两个错误的 Emoji。一个是芝士在牛排下面，另一个半空的啤酒杯却有泡沫溢出。
 
@@ -10840,6 +10840,587 @@ Linus 说，我现在整天就是读 Email，写 Email，再也不编程了。
 
 开源软件的一大部分其实是交流，而交流包括提交信息，也包括来来回回的 Email。告诉别人你想做什么，为什么原来的代码你觉得要改，真的是非常重要的一件事。
 
+## japanese video meeting meme
+
+[视频会议的画面布局](https://lvv2.com/t/2453409/)
+
+![](https://www.wangbase.com/blogimg/asset/202007/bg2020070701.jpg)
+
+视频会议软件 Zoom 的画面布局，是所有人平均分配屏幕空间。日本很多用户感到不习惯，纷纷向 Zoom 反馈，上下级的头像一样大，搞不清楚谁是领导，不好区分地位级别，希望能更改界面。日本网友就画出了下面的屏幕布局，这才是日本企业想要的界面吧。
+
+![](https://www.wangbase.com/blogimg/asset/202007/bg2020070702.jpg)
+
+## the ultimate underground luxury home design theory
+
+1、
+
+![](https://www.wangbase.com/blogimg/asset/202007/bg2020070703.jpg)
+
+美国堪萨斯州中部，巨大的旷野之中，有一个不起眼的大门，通往一座豪华的地下公寓，称为幸存者公寓（Survival Condo），专门为富豪躲避核战争之类的世界末日而建。
+
+2、
+
+![](https://www.wangbase.com/blogimg/asset/202007/bg2020070704.jpg)
+
+公寓四周有铁丝网，提供24小时的保安，防止外来者闯入。
+
+3、
+
+![](https://www.wangbase.com/blogimg/asset/202007/bg2020070705.jpg)
+
+公寓大门每扇重达8吨，一共是16吨的钢板。
+
+4、
+
+![](https://www.wangbase.com/blogimg/asset/202007/bg2020070706.jpg)
+
+这个地方的前身是1960年代建造的核导弹发射井，属于美国核武库的一部分。导弹井深达地下60多米，钢筋混凝土墙厚达2米多。
+
+5、
+
+![](https://www.wangbase.com/blogimg/asset/202007/bg2020070707.jpg)
+
+导弹井退役以后，卖给了一家房地产开发公司，改建成了今天的幸存者公寓，一共有15层，地上只有一个圆顶，远远看上去就是一个隆出地面的小山丘。
+
+6、
+
+![](https://www.wangbase.com/blogimg/asset/202007/bg2020070708.jpg)
+
+上图是改造时从上往下看的电梯井。
+
+7、
+
+![](https://www.wangbase.com/blogimg/asset/202007/bg2020070721.jpg)
+
+这是当年的防爆门，通向导弹的控制室，门外就是核导弹。这些门能够承受核导弹发射时的高温高压。
+
+8、
+
+![](https://www.wangbase.com/blogimg/asset/202007/bg2020070722.jpg)
+
+防爆门后面是一段通往控制室的走廊。
+
+9、
+
+![](https://www.wangbase.com/blogimg/asset/202007/bg2020070723.jpg)
+
+当年绝密的核导弹发射控制室，可以容纳6人，24小时永远有人值班。
+
+10、
+
+![](https://www.wangbase.com/blogimg/asset/202007/bg2020070709.jpg)
+
+改建以后，导弹井变成了一栋公寓楼，分成多套公寓，对外出售。每套公寓都有自己的停车位，方便外出。
+
+11、
+
+![](https://www.wangbase.com/blogimg/asset/202007/bg2020070710.jpg)
+
+公寓设有应急物资供应室，提供各种紧急情况下所需的物质，包括迷彩装备、头盔等。
+
+12、
+
+![](https://www.wangbase.com/blogimg/asset/202007/bg2020070711.jpg)
+
+公寓还设置了枪械室，提供功能齐全的枪支，供居民用来防身。
+
+13、
+
+![](https://www.wangbase.com/blogimg/asset/202007/bg2020070712.jpg)
+
+医疗区可以进行简单的手术，并且配备了足够七年使用的药品。
+
+14、
+
+![](https://www.wangbase.com/blogimg/asset/202007/bg2020070713.jpg)
+
+食品室提供各种各样的食品，从冷冻黑莓到炒鸡蛋，所有食品的保存时间长达35年。
+
+15、
+
+![](https://www.wangbase.com/blogimg/asset/202007/bg2020070714.jpg)
+
+最令人吃惊的是，公寓还设置了全尺寸游泳池，可以自动补充水并对其进行消毒，甚至还配备水滑梯。
+
+16、
+
+![](https://www.wangbase.com/blogimg/asset/202007/bg2020070719.jpg)
+
+电影院可以播放2,000部精选电影。
+
+17、
+
+![](https://www.wangbase.com/blogimg/asset/202007/bg2020070720.jpg)
+
+公寓最底层是图书馆和教室。
+
+18、
+
+![](https://www.wangbase.com/blogimg/asset/202007/bg2020070715.jpg)
+
+公寓内部提供了现代住宅的所有便利，厨房配备了全新的电器，以及触摸屏控制的灯光和暖气。
+
+19、
+
+![](https://www.wangbase.com/blogimg/asset/202007/bg2020070716.jpg)
+
+房间墙上有电视屏幕，可以通过摄像头看到外面的世界。
+
+20、
+
+![](https://www.wangbase.com/blogimg/asset/202007/bg2020070717.jpg)
+
+每套公寓都有宽敞的客厅。
+
+21、
+
+![](https://www.wangbase.com/blogimg/asset/202007/bg2020070718.jpg)
+
+房间的窗口都是电视屏幕。
+
+## tired of over working on my dream story
+
+[工作狂与拖延症](https://www.jamalx31.com/post/between-workaholism-procrastination)
+
+2015年，我在耶路撒冷的一家创业公司工作。每天6点起床，9点到公司上班，下午5点下班。
+
+那年9月，我第一次出国旅行，去了意大利，为期2周。我从此迷上了旅行，每天想的就是下一次旅行，几乎每个月都出行。
+
+有一天，我看到一篇数字游民和远程工作的博客文章。我对自己说："这就是我想要的！"几个月后，我在网上找了第一份远程工作，然后申请了为期3个月的东南亚签证。
+
+2016年9月，在第一次旅行的一年后，我去了泰国，远程工作，享受海滩，喝新鲜的椰子水。"努力工作，努力玩乐"，这是数字游民的口号。每天没有固定的日程，可以灵活安排。
+
+2017年2月，我回到了耶路撒冷看望我的家人，并计划下一步行动。
+
+突然之间，没有了热带海滩、聚会，陌生朋友，我有了很多空闲时间，不知道该怎么办。我就和一个朋友创建了一个外包 Web 开发公司，将所有时间用来创业，每周工作7天，每天工作14小时，成为了工作狂。
+
+我希望通过创建一个成功的企业，有办法离开这个城市，搬到其他地方继续过天堂般的生活。
+
+经过筋疲力尽的3个月，我意识到工作狂的生活不是我想要的，不喜欢现在的生活方式。我问自己，为了未来的快乐，是否今天就值得整日工作，过着悲惨的生活？
+
+这使我想到了另一个更本质的问题： 如果我不喜欢实现梦想和目标的这个过程，那么追求梦想和目标的结果是否有意义？
+
+我对这个问题没有明确的答案，然后，我就慢慢产生了拖延症。一方面，我仍然想要实现我的目标，另一方面，实现目标的过程让我感觉不到快乐，我就拖拖拉拉，没有努力工作。
+
+## fully without javascript quote
+
+本站100%无 JavaScript。
+
+-- [swiftbysundell.com](https://www.swiftbysundell.com/special/javascript-free/)
+
+![](https://www.wangbase.com/blogimg/asset/202007/bg2020070906.jpg)
+
+## life in a day retro movie new story
+
+[一日人生（2020版）](https://lifeinaday.youtube/)
+
+![](https://www.wangbase.com/blogimg/asset/202007/bg2020072203.jpg)
+
+十年前的2010年7月24日，英国导演凯文-麦克唐纳德（Kevin Macdonald）和 Youtube 合作，邀请全世界的人们上传自己当天的日常生活片段。结果收到了189个国家/地区提交的80,000多个视频，长达4,500个小时。他用这些素材剪辑了一部90分钟的纪录片，取名为《一日人生》（Life in a day），目前在 Youtube 上已经观看了超过1600万次。
+
+现在，他又和 Youtube 合作，拍摄《一日人生》的2020版，邀请大家上传2020年7月25日这一天的生活片段，上传到官网。下面是2010版的[预告片](https://v.qq.com/x/cover/5jcd51nz5fls7vj/7FeOsAW4NTt.html)。
+
+## archoring bias marketing theory
+
+锚定偏差（anchoring bias）指的是决策时严重依赖第一个可用的信息。
+
+比如，你走进一家体育用品商店，发现的第一件商品，是一条价值500美元的运动裤。接着，你看到另一条价格为300美元的运动裤时，就会觉得它很便宜，实际上如果首先看到这条300美元的裤子，你会觉得它根本不便宜。
+
+-- [《锚定偏差》](https://models.substack.com/p/why-are-we-anchored-often)
+
+## adobe react components library clear and clean design theory
+
+[React Spectrum](https://react-spectrum.adobe.com/react-spectrum/index.html)
+
+![](https://www.wangbase.com/blogimg/asset/202007/bg2020072402.jpg)
+
+Adobe 公司的 React 组件库，用法非常简单干净。
+
+(the original)
+
+-> https://react-spectrum.adobe.com/react-spectrum/getting-started.html
+
+## openstreet map vitual city dev story
+
+[OSM City](http://stinaflodstrom.com/projects/osm/osm.html)
+
+![](https://www.wangbase.com/blogimg/asset/202007/bg2020072803.jpg)
+
+![](https://www.wangbase.com/blogimg/asset/202007/bg2020072804.jpg)
+
+丹麦艺术家根据开源地图 OpenStreetMap 的数据，让建模软件 Unity 3D 引擎基于真实城市的面貌，自动生成一座虚拟城市。
+
+## tailwind css dev and marketing story theory
+
+[Tailwind CSS：从业余项目到数百万美元的业务](https://adamwathan.me/tailwindcss-from-side-project-byproduct-to-multi-mullion-dollar-business/)（英文）
+
+![](https://www.wangbase.com/blogimg/asset/202008/bg2020080310.jpg)
+
+Tailwind CSS 的作者介绍这个框架的诞生过程，以及他们如何通过它赚到几百万美元。
+
+(the original)
+
+[Adam Wathan](https://adamwathan.me/)
+
+AUGUST 2, 2020
+
+### Tailwind CSS: From Side-Project Byproduct to Multi-Million Dollar Business
+
+*This was originally posted as a [thread on Twitter](https://twitter.com/adamwathan/status/1289645193038192641), but I thought I'd republish it here to give it a proper home.*
+
+* * * * *
+
+So about a month or so ago, Tailwind cracked 10 million total installs, which given its humble beginnings, completely blows my mind.
+
+![](https://adamwathan.me/img/tailwind-backstory/npm-stats.png)
+
+We're also about to cross $2 million in revenue from [Tailwind UI](https://tailwindui.com/), our first commercial Tailwind CSS product which was released about 5 months ago --- a bit under two years after the very first Tailwind CSS release.
+
+Here's the story from the beginning, while it's still fresh enough to remember...
+
+### Reddit meets Pinterest meets Twitter
+
+Way back in 2015, I told my now-business-partner Steve Schoger about a side-project idea I had for a site where companies could share interesting links with their team, and outsiders could subscribe to see what teams they admired were reading.
+
+We called it "Digest".
+
+![](https://adamwathan.me/img/tailwind-backstory/digest-splash.png)
+
+We were pretty excited about it, and I decided to take a week off work to build the initial prototype. In classic developer fashion though, I spent the entire week making decisions about the tech stack, and had maybe one full day at the end to actually hack on the real functionality.
+
+One of those decisions was what to do about the CSS. I'd always been a big Bootstrap fan, but the first Bootstrap 4 alpha had just come out and they had dropped Less for Sass. I hated Sass!
+
+Sass had sort of beat out Less in the preprocessor wars of the mid-2010s, but in my opinion Less was the nicer language. It was functional and declarative, rather than procedural and imperative like Sass, and it had one killer feature Sass didn't have: *classes as mixins.*
+
+You see in Less, any existing class could automatically be used as a mixin. You didn't need to explicitly define a mixin like you did in Sass. This let you easily create larger class abstractions out of smaller utility classes.
+
+If you've used `@apply` in Tailwind, this will probably look familiar...
+
+![](https://adamwathan.me/img/tailwind-backstory/classes-as-mixins.png)
+
+So anyways, back to Digest. Normally I would've used Bootstrap, but the Sass thing killed it for me. I wanted to keep using Less. So of course my only choice was to author all of the styles from scratch.
+
+I spent most of the week on this initial styling system.
+
+What I was building was very Bootstrap-inspired, and had lots of component classes like `btn`, `card-list`, and `radio-box`. But it also had [this small set of utility classes](https://gist.github.com/adamwathan/bfa7454dddba7aadeafc739874033bbf).
+
+*(Here's where we kind of ended up by the way, I think it still looks pretty good even 5 years later!)*
+
+![Digest user interface](https://adamwathan.me/img/tailwind-backstory/digest-screenshot.png)
+
+Anyways, we got busy with other projects, lost enthusiasm for this idea, and ultimately it all landed in the side-project graveyard (as most things do).
+
+All but the stylesheets.
+
+On every new project, I kept copying and pasting all the Less files from Digest and using them as a starting point, customizing them as necessary to suit whatever new design I was building. I must have brought them across to at least 4 or 5 other projects after we abandoned Digest.
+
+I noticed something as I copied the styles across though: the utilities (which started as simple padding and margin utilities) kept growing and evolving, covering more and more CSS features, while the components files kept getting shorter and shorter. The utilities were the only things that were truly "portable", while the component styles were always too opinionated to reuse on another design.
+
+This is when I really started to identify the whole "utility-first" thing as an architectural philosophy, rather than seeing utilities as being just a useful bag of tricks to slap in my HTML here and there as needed.
+
+### Abandoned side-project #2
+
+Fast-forward a few years later and Steve and I started working on [KiteTail](https://kitetail.co/), which was going to be a developer-focused, webhook-driven checkout platform:
+
+[![KiteTail screenshot](https://adamwathan.me/img/kitetail-promo.png)](https://kitetail.co/)
+
+We were taking this one pretty seriously at the time, and --- using those old Digest styles as a starting point --- I started building the thing, trying very hard to make the styles as "project-agnostic" as possible.
+
+You can watch me build a ton of the app on YouTube, and you can see all these utility styles in there the whole time:
+
+[Watch the "Building KiteTail" series on YouTube](https://www.youtube.com/watch?v=XUXpcbYQ_iQ&list=PL7CcGwsqRpSPQ0st8ZHn-nwi7_628bWXo)
+
+Now at this point I had *zero* intention of maintaining any sort of open-source CSS framework. It didn't even occur to me that what I had been building would even be interesting to anyone. But stream after stream, people were always asking about the CSS:
+
+![](https://adamwathan.me/img/tailwind-backstory/youtube-comment.png)
+
+This is the benefit of working in public --- Steve and I would have never built this Tailwind Labs business *(which has now done over $4m in revenue in under 2 years)* if I hadn't been live-streaming my work on yet-another-abandoned-side-project.
+
+Anyways, eventually I thought "maybe I'll open-source this little Less framework?"
+
+### Going open-source
+
+A few people reached out to me about it around this time in case they could collaborate on it with me in any way. One of these people was [Stefan Bauer](https://twitter.com/stefanbauerme), who if I remember right actually was the person to suggest prefixes like `sm:font-bold` instead of `sm-font-bold` for Tailwind's responsive utilities.
+
+My good friend [Jonathan Reinink](https://twitter.com/reinink) also messaged me about the framework around this time, saying he was about to do a big redesign of his SaaS project and wanted to try this crazy utility nonsense I had been blabbering about.
+
+This turned out to be key for making the framework actually good, because our projects had completely different designs, and what-would-become-Tailwind needed to support both of those projects. This was a great forcing function for making it project-agnostic.
+
+By the way, the name Tailwind? It came from me wanting the name to be tied back to KiteTail in some way, since Steve and I were still pushing hard on that idea, and had dreams of it being this awesome company we'd run one day. I just threw `"tail\*"` into [onelook.com](https://onelook.com/?w=tail*&scwo=1&sswo=1) to see if I could find any cool related words.
+
+Back to the story --- this was around June/July 2017, and for the next 2-3 months, Jonathan and I worked feverishly on making something that was good enough to open-source.
+
+One of the challenges I faced during this process was that in order to make Tailwind as configurable as I wanted, I had to seriously push the boundaries of what was possible with Less, and write some truly cryptic and horrific shit:
+
+![](https://adamwathan.me/img/tailwind-backstory/less-madness.png)
+
+Writing a test suite for this sort of thing was not really practical as far as I could figure, and it was getting to the point where I didn't even understand the system anymore and just had to hope and pray that solving one problem didn't introduce another.
+
+This was maybe mid-August, and my friend [David Hemphill](https://twitter.com/davidhemphill) suggested I mess around with [PostCSS](https://postcss.org/) and see if I could write the framework in JS.
+
+I had no idea what it meant to use PostCSS to build something like Tailwind (I thought it was limited to the sort of things [autoprefixer](https://github.com/postcss/autoprefixer) uses it for), but David clued me in to some high-level tricks, like using custom at-rules and custom properties as "hooks" to insert generated code.
+
+I started messing around with it and was immediately amazed by how much more confident I felt in the code, and the amazing things I could do given a proper programming language.
+
+I talked all about it on Full Stack Radio a few weeks later:
+
+[Listen to "Building a CSS Framework with PostCSS" on Full Stack Radio](https://www.fullstackradio.com/episodes/71)
+
+*(By the way, to this day I feel like Tailwind is completely abusing PostCSS in a way it was never intended, and I secretly believe [Andrey Sitnik](https://twitter.com/sitnikcode) cringes a little bit every time he thinks about what we've done with his beautiful library 😅)*
+
+Anyways, on Halloween night 2017 we were putting the finishing touches on the first release, and cranking our asses off on the initial documentation:
+
+We got it out the door and had tons of positive attention, even for v0.1.0:
+
+A few days later, [Andrew Del Prete](https://twitter.com/AndrewDelPrete) wrote what would be one of the most important blog posts in the history of the framework, introducing me to the wonderful world of PurgeCSS.
+
+[Read "Using ~~PurifyCSS~~ PurgeCSS to Remove Unused Tailwind CSS Classes"](https://medium.com/andrewdelprete/using-purifycss-to-remove-unused-tailwind-css-classes-173b3ee8ee01)
+
+After about a year of new v0.x releases with lots of cool new features and a growing community, [I announced I was going to go full-time on Tailwind CSS](https://adamwathan.me/going-full-time-on-tailwind-css/).
+
+### Going full-time on Tailwind
+
+I was supposed to be starting on a new SaaS project with a friend, but after the success of [Refactoring UI](https://refactoringui.com/book) *(a book Steve and I had released in December 2018)* and the growth of Tailwind, I knew I would regret not pushing it further.
+
+Tailwind CSS is by far the highest impact project I've ever worked on --- it felt like it was *this close* to being my "dent in the universe", and the idea of not putting in the work to push it over that hump made me sick.
+
+I was lucky enough to have a big bankroll from Refactoring UI, and I knew there were ways to build commercial offerings around the framework itself *(themes, UI kits, courses, something!)* so I decided to go for it.
+
+I busted my ass cleaning things up and applying what we'd learned to put together a proper v1.0 release, which came out on May 13, 2019:
+
+After that, Steve and I went heads down for the rest of the year trying to figure out what on earth "Tailwind the business" was going to be. We prototyped and discarded tons of different ideas, but eventually decided to pursue what is now Tailwind UI.
+
+Here's the first glimpse of that idea, back in March 2019:
+
+> Been prototyping a [@tailwindcss](https://twitter.com/tailwindcss?ref_src=twsrc%5Etfw) component gallery/studio project I've been planning with [@steveschoger](https://twitter.com/steveschoger?ref_src=twsrc%5Etfw) this weekend 👀\
+>\
+> Think hundreds and hundreds of fully responsive professionally designed components, pre-built so you can just copy the HTML and tweak to taste 👌🏻\
+>\
+> Useful? [pic.twitter.com/WobOoMGwxH](https://t.co/WobOoMGwxH)
+>
+> --- Adam Wathan (@adamwathan) [March 30, 2019](https://twitter.com/adamwathan/status/1112101755888648192?ref_src=twsrc%5Etfw)
+
+We worked tirelessly on Tailwind UI for months, and finally got our early access release out the door in February 2020, after working literally 36 hours straight before our self-imposed deadline.
+
+It has been successful beyond our wildest dreams *(going to cross $2m in revenue next week)*, and as a result we've been able to start building an amazing team ([Brad Cornes](https://twitter.com/bradlc), [Simon Vrachliotis](https://twitter.com/simonswiss) and [mystery developer #3](https://www.youtube.com/watch?v=dQw4w9WgXcQ)) to keep pushing the future of Tailwind forward.
+
+Things are only going to get more incredible from here, and I can't wait to turn some of the ideas rolling around our heads into new features, products, and tools to make the Tailwind experience even better over the coming years.
+
+Thank you for supporting us ❤️
+
+## gpt3 generated article to the top of hacker news story
+
+[我用 GPT-3 写了一篇博客文章](https://liamp.substack.com/p/my-gpt-3-blog-got-26-thousand-visitors)（英文）
+
+![](https://www.wangbase.com/blogimg/asset/202008/bg2020080609.jpg)
+
+GPT-3 是目前最先进的人工智能模型，可以根据输入，返回一篇人类可读的文章。
+
+作者输入文章的标题和简介，GPT-3 就自动返回了一篇博客文章，这篇文章还登上了 Hacker News 的第一名，许多人都没有发现这是计算机写的。
+
+## better to be silent quote
+
+不要轻易说出自己痛苦，能体会的人很少，看热闹的人很多。
+
+也不要轻易炫耀，会替你感到高兴的人很少，等着看你最后下场的人很多。
+
+-- 推特用户
+
+## perfect is failing to remove any more quote
+
+所谓完美，不是指不能再添加别的东西了，而是指没有东西可以从其中拿掉了。
+
+-- [安托万-德圣埃克絮佩里](https://www.brainyquote.com/quotes/antoine_de_saintexupery_103610)，《小王子》作者
+
+## great documentation is great cost view
+
+[Mozilla 裁员](https://www.quirksmode.org/blog/archives/2020/08/the_cult_of_the.html)
+
+![](https://www.wangbase.com/blogimg/asset/202008/bg2020081309.jpg)
+
+Mozilla 本周宣布裁员250人。这其实不算意外，它的全球雇员超过1000人，但是主要产品都是免费的，这样的雇员规模可能确实太大了。
+
+裁员的一个后果就是，MDN 文档团队基本上被裁掉了，只剩下很少的人，MDN 以后可能都要靠志愿者维护。由于 MDN 是 Web 开发事实上的标准文档，这件事恐怕会对全球的开发者造成很大影响。这也反应了，文档是有代价的，优质文档很难免费提供。
+
+## github readme stats card library
+
+[github-readme-stats](https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md)
+
+![](https://www.wangbase.com/blogimg/asset/202008/bg2020081301.jpg)
+
+一个可以自己部署的服务，生成个人 GitHub 账户的统计，可以插在自述文件里面。这里还有另一个[类似的服务](https://github.com/athul/waka-readme)。（[@Imfondof](https://github.com/ruanyf/weekly/issues/1373) 投稿）
+
+(the original)
+
+-> https://github.com/anuraghazra/github-readme-stats/
+
+## hardware is always faster and software is always slower law quote
+
+硬件总是变得越来越快，但软件总是变得越来越慢。
+
+-- [维尔斯定律](https://en.wikipedia.org/wiki/Wirth%27s_law)（Wirth's law）
+
+## why people getting busier view
+
+很多人相信，随着科技的发展，未来的人们会有很多空闲时间，因为机器会干活。
+
+这种观点是不对的。即使有高度智能的机器，未来的工人也不会空闲，可能还会更忙，至少资本主义制度是如此。
+
+![](https://cdn.beekka.com/blogimg/asset/202008/bg2020081908.jpg)
+
+将近100年前的1930年，经济学家凯恩斯[预言](https://www.newstatesman.com/2020/08/why-bertrand-russells-argument-idleness-more-relevant-ever)，在一个世纪之内，生产力的提高将使发达国家的居民每周工作15个小时，还能保持体面的生活水平。
+
+他的预测完全错误。今天，没有一个国家实现每周工作15小时，连接近的都没有，反而出现了996这样的工作制。我相信，再过100年，也不会有每周15小时工作制。
+
+让我们想象一个假设的情景。一家工厂以前每天生产100个产品，随着技术进步，现在每天可以生产200个。如果能够全卖出去，那么工人的劳动时间并不会减少。
+
+如果市场还是原来那样，只能卖出去100个，那么工厂就有50%的产能空出来了。这时，管理层有两个选择。
+
+选择一：工人只工作半天，保持工资不变。
+
+选择二：保留一半的工人，解雇其余的人。
+
+现实中，一定是第二种选择，因为这样有利于增加利润。所以， 技术进步带来的收益，不会变为工人的空闲时间，而是变为一些工人更忙碌，另一些工人失业 ，真正的赢家就是资本家，增加的利润都归他们。
+
+这就是当今世界正在发生的事情，空闲的工人最终会被解雇。IT 行业最明显，因为技术进步对这个行业影响最大。
+
+资本主义追求利润最大化，一旦销售不能同步扩张，技术进步就必然导致裁员，那些失业的人如果不能及时找到工作，就会越来越穷。那些还在工作岗位的人则由于负担更多的生产力，而变得越来越忙。
+
+## web never ending new apis suck quote
+
+Web 和浏览器已经发展到令人恐怖的技术规模。微软完全放弃了，Mozilla 在死亡线上挣扎，Safari 根本无足轻重，只剩下 Google 一个玩家。
+
+我呼吁谷歌立即无限期地中止向 Web 和浏览器添加新 API。浏览器实际上应该开始考虑缩小 API 并削减功能，更关注性能、效率、可靠性和安全性。
+
+-- [《Web 需要停下来》](https://drewdevault.com/2020/08/13/Web-browsers-need-to-stop.html)
+
+## the impact of innocence quote
+
+无知的一阶效应包括做出错误的决定，二阶效应包括不了解决定为何错误。
+
+-- [unintended consequences](https://unintendedconsequenc.es/tiktok-ban-openness-trap/)
+
+## amazon is not the biggest seller quote
+
+去年，苹果应用商店的销售额为5190亿美元（包括硬件），而亚马逊网站为3280亿美元。所以，前者才是美国最大的在线零售商。
+
+-- [《亚马逊并不是最大的在线零售商》](https://www.forbes.com/sites/danrunkevicius/2020/08/17/apple-not-amazon-is-the-largest-online-retail-force/#43ce5d8764cb)
+
+## solid web framework design
+
+[solid](https://github.com/ryansolid/solid)
+
+一个借鉴 React 思想和用法的前端框架，但是不使用虚拟 DOM，也没有那些复杂的 API，用起来比较轻盈。
+
+## leetcode algorithms cheetsheet guide
+
+[labuladong 的算法小抄](https://labuladong.gitbook.io/algo/)
+
+100 多道 LeetCode 算法题目的中文解释。
+
+## hacker news daily top 10 library
+
+[hackernews-daily](https://github.com/headllines/hackernews-daily)
+
+![](https://www.wangbase.com/blogimg/asset/202009/bg2020090207.jpg)
+
+订阅 Hacker News 每日排名最高的10条新闻。具体方法是，通过 GitHub Actions 定时执行脚本，获取帖子，记录到了项目的 issue 里，用户通过 watch GitHub 仓库或者 RSS 订阅。（[@timqian](https://github.com/ruanyf/weekly/issues/1398) 投稿）
+
+## instagram and twitter sync side project end up 30000 dollars story
+
+[我的业余作品如何以3万美元出售](https://marc.io/tweet-photo-acquired)（英文）
+
+![](https://www.wangbase.com/blogimg/asset/202009/bg2020090105.jpg)
+
+作者最初写了一篇文章，介绍如何将 Instagram 图片同步到推特，结果发现浏览量很高。有人还写信，愿意付费使用该功能。作者就把它做成一个小服务，结果被3万美元收购。
+
+## daily leetcode programming for 2 years feeling story theory
+
+[Leetcode 刷题的一些技巧的经验之谈](https://justyy.com/archives/44858)（中文）
+
+作者介绍 LeetCode 刷题体会："坚持在 leetcode 刷题已经有近两年了，刷着刷着就成习惯了，就像每天刷牙吃饭一样，不刷会很不自然。"（[@DoctorLai](https://github.com/ruanyf/weekly/issues/1402) 投稿）
+
+(the original)
+
+### 熟能生巧 -- 刷题的一些技巧的经验之谈
+
+ [2 Comments](https://justyy.com/archives/44858#comments)  2020年9月4日  [程序员](https://justyy.com/archives/category/%e7%a8%8b%e5%ba%8f%e5%91%98 "View all posts in 程序员"), [资讯](https://justyy.com/archives/category/%e8%b5%84%e8%ae%af "View all posts in 资讯"), [软件工程](https://justyy.com/archives/category/%e8%bd%af%e4%bb%b6%e5%b7%a5%e7%a8%8b "View all posts in 软件工程"), [面试](https://justyy.com/archives/category/%e9%9d%a2%e8%af%95 "View all posts in 面试")
+
+坚持在 [leetcode](https://justyy.com/archives/32015) 刷题已经有近两年了, 刷着刷着就成习惯了, 就像每天刷牙吃饭一样, 不刷会很不自然. 刷题的收获还是有挺多的, 特别是对数据结构和算法有了进一步的了解. 还有一些设计题, OOP面向对象, 甚至是数据库SQL和BASH编程还有就是[多线程](https://justyy.com/archives/2257)类型的题都能得到温故而知新.
+
+每天习惯了打卡, 早上起来喝杯咖啡刷个题, 特别是这几个月疫情在家, leetcode有那种每月Challenge, 刷一题得10积分, 还有就是会员题35分一题, 是快速拿积分的好方法(平时每天登陆才得1分, 一件T-shirt 得6000分换, 按照一天10分, 大概不到2年就能换衣服了)
+
+[![leetcode-code-submission-overview 熟能生巧 - 刷题的一些技巧的经验之谈 程序员 资讯 软件工程 面试 ](https://justyy.com/wp-content/uploads/2020/09/leetcode-code-submission-overview.jpg "leetcode-code-submission-overview 熟能生巧 - 刷题的一些技巧的经验之谈 程序员 资讯 软件工程 面试 ")](https://justyy.com/wp-content/uploads/2020/09/leetcode-code-submission-overview.jpg)
+
+### 为啥要刷题?
+
+对于搞计算机的码农, 刷题是找到一份好的搬砖工作最廉价最有效的方法了. 很多屌丝能通过刷题进入Big4, 改变命运, 迎娶白富美. 亚麻就有很多年轻的小姑娘(听说狗家的也是), 美丽年轻, 平时在电梯里碰到都是很时尚的打扮, 拎个名牌包包. 你细品, 进入了BIG4, 是不是离又美丽又智慧的小姑娘又进了一步呢.
+
+面试造原子弹, 工作的时候就煮茶叶蛋. 没有办法, 这对于大公司来说, 是[筛选人才](https://justyy.com/archives/18804)最有效成本低的方式, 除非你在业界真的牛到不需要刷题, 否则有机会发牢骚还不如多刷几题.
+
+我每天刷题, 状态就是保持+慢慢的进步. 每天[进步](https://justyy.com/archives/19030)一点, 积累坚持的力量是很可怕的. 刷过的题可以换种语言换种思路多看看别人的题解, 总是会有新的收获. 坚持刷题, 让你随时都处在最好的状态, 即使要换工作, 再投简历再面试也不需要再额外多做准备了.
+
+### 模拟面试
+
+Leetcode 会员有一个特别有用的功能就是 Mocking, 它可以让模拟公司(Big4)的第一轮电话面试或者是上机筛选, 或者是终面Onsite. 题目都会从相应公司的题库中出, 很多时候真的能碰到原题.
+
+这个模拟面试还能根据你的训练情况, 对你的各项技能进行打分, 比如我动态规化算法得分较少, 就可以多花一些时间练习.
+
+[![leetcode-mocking-overview-google 熟能生巧 - 刷题的一些技巧的经验之谈 程序员 资讯 软件工程 面试 ](https://justyy.com/wp-content/uploads/2020/09/leetcode-mocking-overview-google.jpg "leetcode-mocking-overview-google 熟能生巧 - 刷题的一些技巧的经验之谈 程序员 资讯 软件工程 面试 ")](https://justyy.com/wp-content/uploads/2020/09/leetcode-mocking-overview-google.jpg)
+
+根据用户给的数据, 给出了Big4的中位数员工的分数, 可以看出 Google 狗家最难, [亚麻](https://justyy.com/archives/6611)最容易, 这次给我的评分竟然比Google的中位数员工分数还高(很多人进了Big4 就不怎么刷题了), 看来维持这个状态之后去申请 Google有戏(至少能过第一轮吧)
+
+### 按类型刷题
+
+如果你的时间有限, 比如下个月就[面试](https://justyy.com/archives/18736)了, 你可以按照该公司出题频率来刷, 不过这个是只有会员有的功能, 据说出原题的概率还是挺大的, 即使不是原题, 换汤不换药, 输入输出变一下, 字符串变数组之类的
+
+如果时间有点充裕, 可以按题目算法类型刷, 比如重点刷一下[动态规化](https://justyy.com/archives/32222), 单调堆栈之类的(对你不熟悉的题重点多刷, 很多题都很类似, 刷多了就有感觉了).
+
+### 周赛
+
+参加周赛也是能力提升的很好的方式, 因为我在欧洲, 周赛是周日的早上3-4点, 所以我没法参加, 但是有双周赛, 每两周练习一次, 比赛1个半小时, 4道题, 第一题是简单难度, 2题中等, 最后一题是难. 不用担心和别人比太差, 实际上每次比赛前十名都是大佬-眼快手快, 没法比. 和自己比就可以了, 每次比赛有收获就行. 你可以安慰自己, 每次有做不出来的题才有进步的空间, 哈哈.
+
+比赛是训练你在规定的时间内专注 Problem Solving的能力. 当然比赛还是要有技巧, 比如调试的技巧, 我上周才发现在 leetcode 代码调试里可以用 [print 来调试](https://justyy.com/archives/44806)变量......一直以来都是直接在网页里输代码, 通过返回值不同来试, 调试效率很低. leetcode 可能为了公平期间, 比赛的时候在线 [debugger](https://justyy.com/archives/31427) 是不能用的(这是个会员功能). 我本地也没有装C++的IDE(有时候甚至是在 iPad 平板上刷题), 所以目前所参赛的15次基本上都是0调试 -- 比赛成绩不堪入目.
+
+不过我还是对自己有信心的, 毕竟每次比赛刷不出来的题赛后都认真研究了, 的确也学到了, 有几次甚至是恍然大悟, 捶胸顿足, 为啥比赛的时候就没想出来呢?
+
+当然, 刷题不是全部, 刷题只是敲门砖, 对于毕业生或实习生来说, 面试只有刷题, 但是对于工作几年后的软件工程师来说, 更为重要的是系统设计框架能力的提升, 而相反刷题对于刚毕业的小白和工作几年的大拿来说要求都是差不多一致的. 所以有时候不要纠结于一道非常Tricky的算法题, 它对于你的帮助甚至没有你去了解一下[分布式](https://justyy.com/archives/44793)计算框架的来得重要.
+
+## the cease of personal sites quote
+
+个人网站是一种有点神秘的动物，大部分隐身在互联网的丛林中，很少有人观察到。
+
+那些完全生活在 Facebook 和 Google 的美丽花园中的互联网用户，甚至可能都不知道该物种的存在。其他没有经验的用户可能会认为，个人网站已经像恐龙那样灭绝。事实是野外还存在许多标本，只有了解该物种习性的猎人才能发现它们。
+
+-- [《搜寻几乎不可见的个人网站》](https://cheapskatesguide.org/articles/personal-website-hunting.html)
+
+## pure pragmatism is to always choose the better ideology quote
+
+李光耀在新加坡的成功，不仅是因为他的专制主义，而且还因为新加坡决策精英阶层的纯粹实用主义。他们没有固定不变的意识形态，而是选择合适的意识形态。
+
+-- [Hacker News 读者](https://news.ycombinator.com/item?id=24382427)
+
+## javascript library can be done instead of dead quote theory
+
+它还没有死，但确实已经写完了。
+
+-- [Moment.js](https://momentjs.com/docs/#/-project-status/) 宣布停止开发，进入维护状态。
+
+![](https://www.wangbase.com/blogimg/asset/202009/bg2020091508.jpg)
+
+(the original)
+
+**We now generally consider Moment to be a legacy project in maintenance mode. It is not *dead*, but it is indeed *done*.**
+
+In practice, this means:
+
+- We will not be adding new features or capabilities.
+- We will not be changing Moment's API to be immutable.
+- We will not be addressing tree shaking or bundle size issues.
+- We will not be making *any* major changes (no version 3).
+- We may choose to not fix bugs or behavioral quirks, especially if they are long-standing known issues.
+
 ## 
+
 
 
