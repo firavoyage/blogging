@@ -167,13 +167,13 @@ sudo sed --in-place 's/NoDisplay=true/NoDisplay=false/g' /etc/xdg/autostart/upda
   - (all) `off`
 > -> softwares & updates > other softwares
 
-# gnome-tweaks
+# gnome tweaks
 - config `startup applications`
 ```
-fcitx5
+chromium
 code
-vlc media player //play bach music
-endeavour //removed,weekly todo list moved to a markdown file in code
+fcitx5
+vlc media player
 ```
 
 # files

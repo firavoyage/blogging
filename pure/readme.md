@@ -2,6 +2,10 @@
 
 > difficulities as great simplicity "三言两语,举重若轻."
 
+## intro
+
+-> projects.md
+
 ## purpose
 
 - math in anime style

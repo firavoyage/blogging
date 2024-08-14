@@ -88,7 +88,7 @@
   - _elden ring (2022)
   - _grand theft auto v (2013)
   - _the binding of isaac (2011)
-  - _geoguessr (2013)
+  - _super bunny man (2017)
 -
   - road ahead (ruanyf)
   - hackers and painters (paulg)
@@ -199,15 +199,15 @@
   - mistral chat
   - tophub
   - rebang
-  - ruanyf blog
+  - ruanyf weekly
   - hacker news
-  - codepen spark
   - css tricks
-  - reddit
-  - zhihu
-  - v2ex
-  - nga
+  - codepen spark
+  - reddit old (reddit) (reddit new)
+  - v2ex creative
+  - nga bbs
   - bangumi.tv
+  - zhihu
   - pixiv monthly
   - codeforces
   - leetcode
@@ -215,20 +215,16 @@
   - product hunt
   - dribbble
   - design.google
-  - james sinclair
   - william long
   - codingnow
   - iconmoon
   - windliang
   - livid
-  - vikingz
-  - chyk
-  - paulg
-  - t9t.io
-  - growth.design
+  - chyk kirikaze chiyuki
+  - paulg paul graham
+  - tim qian
   - fabrice bellard
   - james sinclair
-  - jiongks gougu zhaojinjiang
   - rodrigo pombo
   - overreacted dan abramov
   - naval
@@ -246,6 +242,7 @@
   - gnome amberol
   - gnome apostrophe
   - gnome blanket
+  - gnome boxes
   - gnome calculator
   - gnome calendar
   - gnome cartridges
@@ -282,7 +279,8 @@
   - legado read 3.0
   - libre office
   - material files
-  - nekogram
+  - nekogram android (telegram)
+  - discord
   - obs studio
   - onscripter yuri
   - qbitorrent
@@ -374,7 +372,7 @@
 - self
   - `weekly` weekly plans at each time
   - `timeln` personal discoveries and thoughts
-  - `/recollection` legacy timeln
+  - `/recollections` legacy timeln
   - `djhs grades` perspective of school life
   - `email` way to contact me
   - `swim` internet swimming guide
@@ -390,6 +388,7 @@
   - `/notes` `xbox` xbox travelling guide
   - `/notes` `plain` plain english guide
   - `/notes` `competitive` competitive programming guide
+  - `/notes` `(testing...)` google testing on the toilet
   - `/notes` `(...)` stack overflow documentation
 
 ## repos

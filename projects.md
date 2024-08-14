@@ -3,7 +3,7 @@
 ## write
 
 ### `para` 
-> the reader
+> the reader for readers
 - spilt content and style
 - present freely without any distraction
   - say goodbye to word while teaching,conferencing...
@@ -50,7 +50,7 @@
   - click to place text 
   - drag to draw 
   - double click or right click to add content block
-  - pure math problem solution
+  - math problem solution
   - algorithm and data structure visualization
 - inspire
   - structure of ordered thoughts
@@ -78,7 +78,10 @@
 ## create
 
 ### `material`
-> the workshop
+> the workshop for influencers
+- see before you post
+  - stats observation on berryberry and yelltube
+  - use the top templates
 - create posters
   - full featured like photoshop
   - easy to use like keynote
@@ -267,6 +270,8 @@ indie games,bangumis,visual novels,fonts,... not included as their databases are
   - about beyond death
 - soul
   - move the soulless ones
+- inspired by
+  - aww rated
 
 ### `debation`
 > structured views instead of unordered sentences
@@ -288,7 +293,8 @@ indie games,bangumis,visual novels,fonts,... not included as their databases are
   - not boring like real class recordings
   - simplicity by abstract(description and calculation) and collapsion(vocal off quick animation)
   - difficulty as "math challenger" "math leader" "math helper" and some exams
-  - unworldly by omitting subject words and nsfw idioms (memes and moegirl pedia)
+  - omitting subject words and reading textbook beyond the words shown 
+  - nsfw idioms (memes and moegirl pedia)
   - life-size waifus (qwq)
 - print course
   - stay away from the hustle and bustle
@@ -406,6 +412,7 @@ indie games,bangumis,visual novels,fonts,... not included as their databases are
   - wes bos
   - brad traversy
   - rodrigo pombo
+  - dan abramov
   - scratch
 
 ### `sniper`
@@ -491,7 +498,6 @@ for(i arr j brr){A} //for(let __fs_i=0,i=arr[__fs_i],j=brr[__fs_i];__fs_i<arr.le
 - inspired by 
   - arc lang (-> arc.txt)
   - javascript (-> javascript.md)
-  - my javascript (-> myJavascript.md)
 
 ### `voyage` 
 > design with elegance
@@ -520,6 +526,8 @@ for(i arr j brr){A} //for(let __fs_i=0,i=arr[__fs_i],j=brr[__fs_i];__fs_i<arr.le
 - inspired by
   - webflow
   - framer
+  - bubble
+  - popsy
   - figma
   - craftjs
 
@@ -552,23 +560,6 @@ for(i arr j brr){A} //for(let __fs_i=0,i=arr[__fs_i],j=brr[__fs_i];__fs_i<arr.le
 - ganstagram
 - various themes 
   - by voyage
-
-### `opengram`
-> rethink libre
-- features
-  - ui truly yours
-  - web chat between same page viewers
-- pwa based
-  - one tap open
-  - sync notification 
-  - offline ok
-- various themes
-  - by voyage
-- inspired by
-  - disqus
-  - giscus
-  - matrix
-  - mattermost
 
 ## channel
 

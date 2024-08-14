@@ -162,5 +162,16 @@ make tools elegant.
 
 -> github jokenpo machine learning
 
+ciallo~ 0721
+
+小馋猫~
+
+fin.
+
+all `[1,10]` `1..10` `each(1,10)` incl 1 and 10.
+
+现代人魅力时刻.
+
+我意识到，无论谷歌发布多么新的、文档完善的、功能强大的新 API，我们余生都将为安卓 4.4 编写代码。
 
 
