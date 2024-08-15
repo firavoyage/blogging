@@ -24,9 +24,9 @@
   - ruby chocolate popsicle
   - tea egg
   - life size waifu pillow
-  - mini cooper car
-  - camphor wood
   - potted plant
+  - camphor wood
+  - mini cooper
   - pure noskill math
   - intuitive web app
 -
@@ -217,6 +217,7 @@
   - luogu
   - product hunt
   - dribbble
+  - growth.design
   - design.google
   - william long
   - codingnow
@@ -387,10 +388,12 @@
   - `/config` preferences and shortcuts
   - `/config` `ubuntu config` elegant work flow
   - `/config` `chromium bookmarks` source of all
+  - `/config` `list ...` how my apps are
 - notes
-  - `/notes` `xbox` xbox travelling guide
-  - `/notes` `plain` plain english guide
+  - `/notes` `design` psychology of design cheetsheet
+  - `/notes` `plain` plain english writing guide
   - `/notes` `competitive` competitive programming guide
+  - `/notes` `xbox` xbox travelling guide
   - `/notes` `(testing...)` google testing on the toilet
   - `/notes` `(...)` stack overflow documentation
 

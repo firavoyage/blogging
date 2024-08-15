@@ -1615,4 +1615,26 @@ chromium -all 大概0.0x%.
 慢慢看吧.
 明天接着推**senren banka**.(steam top rated!)
 
+## 20240815
+
+最后一天读ruanyf weekly!
+
+14:09
+看了一会,"老骚豆腐"idv.
+排位结束.
+
+下载 "sabbat of the witch"
+from shinnku.
+
+14:20
+from shinnku sharepoint about 5mb/s
+下载完成.
+
+15:31
+sabbat剧情进展真快.
+看完桌角#1.
+
+看growth.design的case studies
+都是一些大产品...可笑哦...
+看来,design is just a cherry on the cake.
 

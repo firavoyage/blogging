@@ -11420,6 +11420,244 @@ In practice, this means:
 - We will not be making *any* major changes (no version 3).
 - We may choose to not fix bugs or behavioral quirks, especially if they are long-standing known issues.
 
+## one page for each chapter python guide theory
+
+[一页 Python](http://damiantgordon.com/PythonMonday/)
+
+一个英文的 Python 初学者教程，特点是每一讲的讲义都只有一页 A4 纸。
+
+(the original)
+
+-> http://damiantgordon.com/PythonMonday/PythonMonday-1-70.pdf
+
+## five monkey and society experiment story
+
+[五只猴子的故事](https://blog.ploeh.dk/2020/09/14/we-need-young-programmers-we-need-old-programmers/)
+
+![](https://www.wangbase.com/blogimg/asset/202009/bg2020092207.jpg)
+
+科学家在笼子里放了五只猴子。笼子中间有一架梯子，梯子上面放着香蕉。
+
+每当一只猴子爬上梯子，科学家就用冷水泼洒其余的猴子。过了一阵子，只要一只猴子爬上梯子，其他猴子就会殴打它。一段时间后，所有猴子都不敢爬上梯子。
+
+然后，科学家用一只新猴子，替换了原来的一只猴子，并且停止用冷水泼洒猴子。这只新猴子立即爬楼梯去拿香蕉，但随即遭到其他猴子的殴打。经过几次殴打，新猴子学会了不爬梯子，即使它从来不知道为什么。
+
+接着，替换了第二只猴子，也发生了同样的事情。刚才放进笼子的那只猴子，同样殴打了新来的猴子。替换了第三只猴子，也是如此。就这样，第四只、第五只猴子也接连被替换了。
+
+最终，笼子里面的五只猴子，尽管从未被泼冷水，仍然继续殴打任何试图爬上梯子的猴子。如果可以问猴子，为什么要殴打所有试图爬上梯子的成员，答案可能是：
+
+"这就是我们在这里做事的方式。"
+
+这个故事告诉我们，如果前人觉得某件事情不能做，阻力就会流传下来，阻止后来的人去做。
+
+但是，大多数人没有意识到，有时候情况会改变。二十年前不可能的事情今天也许并非不可能。比如，电动汽车以前是不可能的，现在随着电池技术的进步，才有可能。
+
+年轻人不知道为什么某事不能做，如果他们不怕阻力，就会去尝试那些不能做的事情。这就是为什么重大创新往往是年轻人做出来的原因。
+
+老年人通常看不到新的机会，因为他们相信有些事情是不可能的。年轻人在无知和热情推动下，愿意尝试那些不可能的事情。大多数年轻人会失败，但少数会成功。
+
+## why i hate web dev is overwhelmed tool chains quote
+
+网站需要3种技术，但是由于用到各种工具和框架，最终使我接触了约20种不同的技术，有时还不得不研究第 n 级依赖项的源代码。
+
+这就是我不喜欢现代 Web 开发的地方，你想使用三个工具，但是必须知道如何使用二十个工具。
+
+-- [《编织在一起的 Web》](https://css-tricks.com/weaved-webs/)
+
+## everyone in the future can dev without programming view
+
+本周话题：未来人人开发软件，几乎没人编码
+
+现在，少儿编程培训班很流行，一到周末，家长们就送孩子去学计算机。
+
+![](https://www.wangbase.com/blogimg/asset/202009/bg2020092805.jpg)
+
+虽然我很赞成从小学习计算机，但总感到有点疑惑： 编程正变得越来越容易，门槛越来越低，小朋友们真有必要牺牲周末的睡眠和体育时间，专门去学编程语言（比如 Python）吗？
+
+上个世纪要当程序员，你必须懂汇编语言。到了如今，编程几乎已经没有门槛了，大多数人一天内就能学会，怎么写一个简单的网页 JavaScript 脚本。那么，你告诉我，未来会怎样？
+
+再过15年或20年，等到现在的小孩进入就业市场，编程可能已经变得极其傻瓜化、智能化，也许只需要动动嘴，说出你想要什么程序，人工智能就自动生成了代码。
+
+那时还会有程序员，但是人数应该很少，而且只负责编写底层代码，就像今天的汇编语言程序员非常少一样。因此我怀疑，孩子们没必要专门去学编程，因为未来可能根本不是今天这样编程。
+
+大家知道吗，世界上用户最多的编程工具是什么软件？
+
+答案是 Excel。无数财务人员、管理人员、销售人员都在用它，解决各种问题，尽管他们根本不懂编程。
+
+![](https://www.wangbase.com/blogimg/asset/202009/bg2020092806.jpg)
+
+我觉得，这就是未来编程工具的趋势，你不需要或者只需要懂一点点代码，就能做出软件，解决你的问题。最近正在兴起的"低代码"（low code）和"无代码"（no code）工具，正好呼应了这种趋势。未来人人都是软件工程师，都能够做出自己需要的软件，但是几乎没人知道如何编程。
+
+## dont display sign up button web design theory 
+
+[别在网页上显示"注册"](https://www.gkogan.co/blog/stop-asking-me-to-sign-up/)（英文）
+
+![](https://www.wangbase.com/blogimg/asset/202009/bg2020092702.jpg)
+
+很多网站在页面上有注册按钮或注册链接（上图），作者认为，"注册"这个词大大降低了用户进一步使用的欲望，因为这要求用户付出操作成本，但没有给出足够的诱因。
+
+经过他的实验，只要将"注册"改成"开始使用"或"免费试用"，就能将转化率提高三倍。
+
+(the original)
+
+### Stop Asking Me to "Sign Up"
+
+Jun 18, 2014 --- 2 min read
+
+![](https://www.gkogan.co/content/images/2024/07/sign-up-buttons.png)
+
+The fate of many startups depends almost entirely on one conversion point: When a visitor becomes a user.
+
+All too often, this pivotal role falls on the shoulders of a pitifully generic "sign up" button that's lucky to get even a minute of consideration during development.
+
+If you take a moment to consider the wording of your signup button, you can drastically increase how many of your visitors turn into users.
+
+*(What happens after the conversion is important, too, but things get significantly easier once you have someone's email and opt-in.)*
+
+### Why "Sign Up" buttons don't work.
+
+- **They're ignored.** When visitors see common elements repeated on many sites, they begin unconsciously ignoring those elements (aka "habituation"). Doesn't matter if they're blue or green or hell-fire-orange.
+- **You're asking for blind commitment.** Don't assume visitors know what you're asking them to sign up for. People don't read pages, they skim. They could've easily missed the part where you mention a free trial or key benefits.
+- **You're not offering any value.** Asking someone to "sign up" offers no help in changing the visitor's thinking from "Why should I?" to "I want this!"
+
+### How to get more signups from your signup button:
+
+- **Tie it to your product.** If you have a SaaS for trading bitcoins: "Start Trading Bitcoins." If you have a marketplace for artists: "Start Selling Art." This helps prevent the button from being overlooked.
+- **Give, don't take.** "Get Access" and "Sign Up" both lead to the same thing, but one makes the visitor feel they're getting something, while the other doesn't.
+- **Compel people to act.** Use action verbs such as *get*, *start*, and *try*.
+
+Examples from startups that get it right:
+
+![Startups with Good Signup Buttons](https://www.gkogan.co/content/images/2024/07/sign-up-buttons-2.png)
+
+(I especially like gliffy's "Start Drawing," which implies how quickly you can get started, and directly relates to their product: [an app for easily drawing diagrams](http://www.gliffy.com/?ref=gkogan.co).)
+
+### Case study: Getting 3x more clicks by changing two words.
+
+Take this example from one of my clients. Like many software companies, Scalyr---a [log aggregation and monitoring tool](https://www.scalyr.com/?ref=gkogan.co)---asked its visitors to "sign up." I suggested that we test a version of the button that *gives* and *compels*: "Try it Free". Here's what happened:
+
+**Asking visitors to *Try it Free* increased clicks by 212%.**
+
+Complete obliteration of the old "Sign Up" button, and a huge win for a test that took two minutes to set up.
+
+![A/B test on Scalyr resulted in 212% increase in clicks.](https://www.gkogan.co/content/images/2024/07/scalyr-test-result.png)
+
+### Now try it yourself...
+
+Test a variation of your "sign up" button with something that *gives*, *compels*, and is *tied to your product*. It's one of the easiest things to test, and could have a huge effect on your conversion rates. If you follow my advice then you're almost certain to do better than asking visitors to "sign up."
+
+## airbnb javascript data visualization library
+
+[visx](https://airbnb.io/visx/)
+
+![](https://www.wangbase.com/blogimg/asset/202009/bg2020092401.jpg)
+
+Airbnb 推出的一套数据可视化组件库，基于 D3 和 React。
+
+## milliseconds in one day math expression quote
+
+[一天的毫秒数](https://twitter.com/3blue1brown/status/1282480577036251136)
+
+下面计算式的结果，就是一天的毫秒数。
+
+![](https://www.wangbase.com/blogimg/asset/202009/bg2020092218.jpg)
+
+这个式子的来历如下。
+
+![](https://www.wangbase.com/blogimg/asset/202009/bg2020092219.jpg)
+
+## open testing version is just marketing quote
+
+苹果公司在发布新的操作系统（iOS、iPadOS、watchOS ）之前，都公开了测试版，但是等到正式版上市，并没有多少改进，依然有很多 Bug。
+
+那么，公开测试版的意义何在？真的是为了提高正式版的质量吗？......无论最初的目的是什么，公共测试版现在都是一种营销工具，一种大肆宣传新版本、并让苹果爱好者购买与新版本一起发布的新产品的方式。
+
+-- [《苹果软件的测试版》](https://leancrew.com/all-this/2020/09/betas/)
+
+## writing a textbook is the only way an old engineer builds impact quote
+
+有一种说法，年龄在35岁以上的人，建立学术影响力的唯一机会是编写一本教科书。
+
+-- [Mark Seemann](https://blog.ploeh.dk/2020/09/14/we-need-young-programmers-we-need-old-programmers/)
+
+## the society is becoming cyber punk view
+
+本周话题：这个社会是否正在变成"赛博朋克"？
+
+下个月，热门游戏[《赛博朋克2077》](https://store.steampowered.com/app/1091500/Cyberpunk_2077/)就要上市了，发布了好多新闻和预告片。我突然觉得，"赛博朋克"这个词（Cyberpunk）很值得谈一下。
+
+![](https://www.wangbase.com/blogimg/asset/202010/bg2020100502.jpg)
+
+"赛博朋克"是两个英语单词的组合：Cyber（赛博）和 punk（朋克）。
+
+"赛博"表示网络技术，比如"网络空间"的英语单词就是 Cyberspace。"朋克"最早是一种摇滚音乐的流派，后来指那些叛逆的另类青年，跟主流社会格格不入。
+
+连在一起，"赛博朋克"就是指高科技社会的另类青年。
+
+![](https://www.wangbase.com/blogimg/asset/202010/bg2020100503.jpg)
+
+朋克大多数都是没钱的底层边缘人，所以"赛博朋克"后来就被引申为一种未来高科技社会的景象：
+
+![](https://www.wangbase.com/blogimg/asset/202010/bg2020100504.jpg)
+
+一切受到高度控制，所有东西都自动化运作，富人、社会名流、精英享受着美好生活；但是，底层的大量贫民生活条件恶劣，没钱消费，没办法把握自己的命运，内心苦闷，不知出路何在，非常迷茫。
+
+![](https://www.wangbase.com/blogimg/asset/202010/bg2020100506.jpg)
+
+他们的心理非常压抑，看不到翻身的希望，行为和价值观完全是叛逆的。精神萎靡，沉迷于各种娱乐，寻求麻醉和逃避。
+
+广义地说，只要你属于高科技社会的底层，抗拒主流文化，那么你在精神上就是"赛博朋克"。
+
+我有时觉得，这个周刊就是站在底层的视角，观察这个高科技社会，试图有所作为，所以也许可以改名叫做《赛博朋克周刊》。
+
+## startup abstract math functions view
+
+本周话题：创业的凸函数和凹函数
+
+著名畅销书[《黑天鹅》](https://book.douban.com/subject/6854525/)的作者纳西姆-塔勒布（Nassim Taleb），以前是纽约大学的数学教授，后来从事数理金融和风险管理。他写了很多科普文章，使用数学概念去分析各种现象。
+
+![](https://www.wangbase.com/blogimg/asset/202010/bg2020100903.jpg)
+
+他有一个[说法](https://www.indiehackers.com/post/bootstrapping-and-convexity-fb3b2da7c9)，我觉得很新奇。 他说创业的时候，要考虑创业方向是凸函数还是凹函数。
+
+简单说，凸函数（convex function）就是函数曲线开头向上（下图左），凹函数（concave function）就是函数曲线开口向下（下图右）。
+
+![](https://www.wangbase.com/blogimg/asset/202010/bg2020100904.jpg)
+
+塔勒布说，最好的创业方向是下面这种曲线。
+
+![](https://www.wangbase.com/blogimg/asset/202010/bg2020100905.jpg)
+
+上图的竖轴是收益（正向为盈利，负向为亏损），横轴是各种外部因素（正向为有利因素，负向为不利因素）。创业开始时，你的收益是零（曲线与横轴的交点），不知道未来会怎样。
+
+好的创业是这个样子：外部环境有利时，你的收益会快速上升，并且上升空间是巨大的；外部环境不利时，你的亏损会缓慢累积，并且最大损失是有限的。这种曲线正是凸函数，如果反过来，你的创业是凹函数，那就完了：盈利有天花板，上升缓慢，亏损则可能无限地快速上升。
+
+举例来说，你的创业项目是一个开源软件，没有现成的商业模式，你还辞职来干，那就属于凹函数创业。你会很辛苦，万一创业失败就会很惨。
+
+有些年轻人"裸辞"，没找到下家就辞职，这种行为也属于凹函数。如果找到的还是同类工作，工资能高到哪里去，万一找不到，就会长期失业，处境更被动。
+
+这种使用数学概念分析日常行为，我觉得很有意思。这也是我佩服西方学者的地方，他们似乎特别善于将各种司空见惯的现象，进行模型化（modelization）和概念化（Conceptualization），从不一样的角度思考问题。 这就叫"抽象化能力"，特别值得学习，能把具体的东西变抽象，也能把抽象的东西变具体。
+
+## google workspace apps icon redesign theory
+
+[谷歌 Workspace 的新图标](https://9to5google.com/2020/10/06/new-gmail-icon/)
+
+![](https://www.wangbase.com/blogimg/asset/202010/bg2020100703.jpg)
+
+疫情发生后，谷歌开始整合邮件、日历、通讯、办公等产品，将原来的办公套件 G Suite 升级成了 Google Workspace，作为个人和企业的网上工作的解决方案。为了适应这个转变，它重新设计了这些产品的图标，使得它们更加协调。
+
+下面依次是 Gmail、日历、文档、视频会议、即时通信的新图标。
+
+![](https://www.wangbase.com/blogimg/asset/202010/bg2020100704.jpg)
+
+![](https://www.wangbase.com/blogimg/asset/202010/bg2020100705.jpg)
+
+![](https://www.wangbase.com/blogimg/asset/202010/bg2020100706.jpg)
+
+![](https://www.wangbase.com/blogimg/asset/202010/bg2020100707.jpg)
+
+![](https://www.wangbase.com/blogimg/asset/202010/bg2020100708.jpg)
+
 ## 
 
 

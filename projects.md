@@ -52,7 +52,8 @@
   - freedom of unordered thoughts
   - click to place text 
   - drag to draw 
-  - double click or right click to add content block
+  - double (right) click to add content block
+  - skies clouds and moods
   - math problem solution
   - algorithm and data structure visualization
 - inspire

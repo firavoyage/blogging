@@ -324,9 +324,6 @@ git config --global credential.helper store
   - gitee (sync mirror)
 > use username and password
 - use shortcuts
-```
-...
-```
 > -> git/blogging/config/git_shortcut.txt
 
 # fcitx5
