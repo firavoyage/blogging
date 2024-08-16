@@ -100,28 +100,26 @@ let voyage = {
   },
 };
 
-let test = {
-  //counter component
-  type: "div",
-  labels: {
-    onclick: function letsgo() {
-      voyage.set("count", voyage.get("count") + 1);
+let unitTest = function () {
+  let counter = {
+    type: "div",
+    labels: {
+      onclick: function letsgo() {
+        voyage.set("count", voyage.get("count") + 1);
+      },
     },
-  },
-  contents: "abc",
-  binds: { count: "process" },
-  methods: {
-    process(nodeid, value) {
-      let node = voyage.getNode(nodeid);
-      node.innerText = value;
+    contents: "abc",
+    binds: { count: "process" },
+    methods: {
+      process(nodeid, value) {
+        let node = voyage.getNode(nodeid);
+        node.innerText = value;
+      },
     },
-  },
+  };
+  document.body.append(voyage.run(counter));
+  voyage.set("count", 0o0721);
 };
 
-let a = voyage.run(test);
-
-document.body.append(a);
-
-voyage.set("count", 3);
-
+unitTest()
 
