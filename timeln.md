@@ -1669,4 +1669,11 @@ test ok.
 
 一天都没有听bach music!
 
+写了个unit test
+我真是太有实力啦
+哈哈
+
+voyagejs出错,debug半天,
+学习一堆shallow deep clone的知识
+最后可以总结到debug20240816.js里面.
 

@@ -33,7 +33,6 @@ let voyage = {
     }
     counts[name]++;
     let newKey = `${name}${counts[name]}`;
-    voyage.counts = counts;
     return newKey;
   },
 
@@ -64,10 +63,10 @@ let voyage = {
       }
     }
     if (methods) {
-      lib = { ...lib, ...methods };
+      for (let i of Object.keys(methods)) {
+        lib[i] = methods[i];
+      }
     }
-    voyage.map = map;
-    voyage.lib = lib;
     return node;
   },
 
@@ -121,5 +120,4 @@ let unitTest = function () {
   voyage.set("count", 0o0721);
 };
 
-unitTest()
-
+unitTest();
