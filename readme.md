@@ -43,6 +43,8 @@
   - hyehwadong (park bo ram)
   - story of time (luo da you)
   - tomorrow will be better (luo da you)
+  - kletka (molchat doma)
+  - sudno (molchat doma)
 -
   - in solitude where we are least alone (2010)
   - worldend: what do you do at the end of the world? are you busy? will you save us? (2017)
@@ -131,25 +133,26 @@
   - yixi (yixi)
 - 
   - adhesion tek
+  - chen zihao
   - coding startup
   - diygod
-  - interpreter gavin
-  - new national debation
-  - spicy pidan porridge
-  - paperclip
-  - unfettered idle man
   - edmund d zhang
-  - tail tail desu
-  - old bai sleepwalked
-  - my sister is just that kawaii
-  - longbow flintlock
-  - nicholas wei bro
   - forever naive taffy
-  - orient snowy lotus
-  - wanderer brawlstars
-  - nova lciop
   - gao zixiang
-  - chen zihao
+  - interpreter gavin
+  - longbow flintlock
+  - my sister is just that kawaii
+  - new national debation
+  - nicholas wei bro
+  - nova lciop
+  - old bai sleepwalked
+  - orient snowy lotus
+  - paperclip
+  - spicy pidan porridge
+  - tail tail desu
+  - unfettered idle man
+  - wanderer brawlstars
+  - yicode chensuiyi
 -
   - zhang chuanzhi
   - chen shiyu
@@ -213,8 +216,9 @@
   - zhihu
   - pixiv monthly
   - codeforces
-  - leetcode
   - luogu
+  - leetcode
+  - oi wiki
   - product hunt
   - dribbble
   - growth.design

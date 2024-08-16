@@ -1638,3 +1638,35 @@ sabbat剧情进展真快.
 都是一些大产品...可笑哦...
 看来,design is just a cherry on the cake.
 
+**key counter in js in fp and oop**
+
+## 20240816
+
+01:04
+好期待啊,今天白天
+有一下午时间,实现voyagejs.
+简单打吧.
+
+12:12
+- read components system
+- read vue and svelte examples
+- read vue svelte syntax
+- write voyagejs
+
+原神发布新版本.直播.
+
+13:26
+老东西爱看冲关,爱大叫.
+给mi tv设置了儿童模式.
+然后外公直接按底下的按钮切频道,破解了.
+
+21:17
+voyagejs 0.1
+test ok.
+
+今日最佳!
+**install code extensions (prettier and eslint)**
+
+一天都没有听bach music!
+
+

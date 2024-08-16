@@ -2,8 +2,10 @@
 
 ## write
 
-### `para` 
+### `para`
+
 > the reader for readers
+
 - spilt content and style
 - present freely without any distraction
   - say goodbye to word while teaching,conferencing...
@@ -27,13 +29,15 @@
   - typora
 
 ### `pre`
+
 > the simplicity of presentation
+
 - content focused
   - just split pages
   - no eye-catching effects
 - markdown extended
   - various content blocks
-  - markdown is not a vehicle of rich text 
+  - markdown is not a vehicle of rich text
   - use json to store texts images positions and styles
   - markdown auto-compiled to json
   - no html comment needed
@@ -41,17 +45,19 @@
   - cover for header 1
   - toc pages for header 2 with the current one highlighted
   - footer for page index,author and date
-- inspired by 
+- inspired by
   - slidev
   - fusuma
   - nodeppt
 
-### `board` 
+### `board`
+
 > elegance of thoughts
+
 - present
   - freedom of unordered thoughts
-  - click to place text 
-  - drag to draw 
+  - click to place text
+  - drag to draw
   - double (right) click to add content block
   - skies clouds and moods
   - math problem solution
@@ -61,10 +67,10 @@
   - steam top rated rank list (taptap) (qoo) (3839)
   - food recipe gantt image
   - math venn image
-  - programming roadmap 
+  - programming roadmap
   - issues kanban
   - book recommendation list
-  - message timeln 
+  - message timeln
   - product features tree
 - markdown based
   - static files instead of cloud resources
@@ -83,7 +89,9 @@
 ## create
 
 ### `material`
+
 > the workshop for influencers
+
 - see before you post
   - stats observation on berryberry and yelltube
   - use the top templates
@@ -119,8 +127,10 @@
   - snapseed
   - zzkia
 
-### `crickets` 
+### `crickets`
+
 > auto comment bot "促织"
+
 - by pop
   - less than 10k views -> "do nothing"
 - by time
@@ -129,12 +139,14 @@
   - "枫原万叶" -> "心至空处,天地万物..."
 - by publisher
   - "mihoyo artists" -> "申鹤重云了"
-  - "doujin artists" -> "迟b片" "有技兄这"
+  - "doujin artists" -> "迟 b 片" "有技兄这"
 - by fans
   - more than 10k -> "捉,大师球"
 
 ### `gen`
+
 > libraries and highly abstracted scripts
+
 - sources
   - magazine covers
   - digital wallpapers
@@ -150,13 +162,17 @@
 - based on svgify
 
 ### `neko`
+
 > reply and translate reasonably
+
 - see reasons behind anwsers
 - highly-abstracted grammar,like words filling
 - deconstruct natural languages grammar
 
 ### `once`
+
 > publish once & publish everywhere
+
 - from anywhere
   - web
   - phone
@@ -171,7 +187,9 @@
 ## perceive
 
 ### `float`
+
 > listen in solitude
+
 - from everywhere
   - index by search engines
   - source from any music and video sites
@@ -196,7 +214,9 @@
   - my free mp3
 
 ### `eat`
+
 > survive the content farms | breathe in the digital age
+
 - one subscription list for everywhere
   - work with popular blog sites and video sites
   - not status sites so instagram reddit twitter aint included
@@ -210,14 +230,16 @@
   - all blog posts are downloaded local
   - you can read some anywhere anytime
   - downloads and subscriptions can be imported and exported
-- inspired by 
+- inspired by
   - google reader
   - net news wire
   - rsshub
   - webfollow top rss list
 
-### `fav` 
+### `fav`
+
 > digital time capsule, yours
+
 - from anywhere
   - bookmarks
   - content platforms
@@ -244,7 +266,9 @@
   - archive box
 
 ### `shelf`
+
 > the elegance of a bookshelf
+
 - source
   - from search engines and user script
   - auto fetch the main content
@@ -252,8 +276,10 @@
   - json based (can be converted to markdown)
   - import and export
 
-### `globe` 
+### `globe`
+
 > treasure hunting guide for a 2000s time traveller
+
 - reveal the treasures
   - not just promoted,most commercialized ones
 - content forms
@@ -261,21 +287,25 @@
   - channels tag based
   - long-existed blogs
 - more
-indie games,bangumis,visual novels,fonts,... not included as their databases are implemented well
+  indie games,bangumis,visual novels,fonts,... not included as their databases are implemented well
 
 ### `goods`
+
 > get rid of consumerism
+
 - source
   - world goods list
 - like a musuem,not a supermarket
   - classify the items
-- focus on what you own,not what you have bought 
+- focus on what you own,not what you have bought
   - track the goods
 
 ## learn
 
 ### `movieheart`
+
 > different rating is different people
+
 - the shawshank redemption
   - all we love this
   - no one in this prison is guility
@@ -292,8 +322,11 @@ indie games,bangumis,visual novels,fonts,... not included as their databases are
   - aww rated
 
 ### `debation`
+
 > structured views instead of unordered sentences
+
 > -> /debation
+
 - style
   - quotes on two sides of the timeln
 - words abstracted
@@ -304,14 +337,17 @@ indie games,bangumis,visual novels,fonts,... not included as their databases are
   - straw man
 - markdown based
 
-### `pure` 
+### `pure`
+
 > my desired math courses | difficulities in great simplicity | math noskill
+
 > -> /pure
+
 - features
   - not boring like real class recordings
   - simplicity by abstract(description and calculation) and collapsion(vocal off quick animation)
   - difficulty as "math challenger" "math leader" "math helper" and some exams
-  - omitting subject words and reading textbook beyond the words shown 
+  - omitting subject words and reading textbook beyond the words shown
   - nsfw idioms (memes and moegirl pedia)
   - life-size waifus (qwq)
 - print course
@@ -346,8 +382,10 @@ indie games,bangumis,visual novels,fonts,... not included as their databases are
   - math graduate channel (-> https://space.bilibili.com/628523505)
   - zhangyu math channel (-> https://space.bilibili.com/679237565)
 
-### `leisure` 
+### `leisure`
+
 > retro vocabulary memorization style
+
 - words filtered
   - no grade school words
 - no roots,only affix
@@ -360,13 +398,15 @@ indie games,bangumis,visual novels,fonts,... not included as their databases are
 - distraction free
   - choose a words book
   - then start learning right after app launch
-- emotional pronounciation 
+- emotional pronounciation
   - by gptsovits
 
 ## dev
 
 ### `parac`
+
 > elegant md html compiler
+
 - markdown extended
   - icon images
   - block style
@@ -377,8 +417,11 @@ indie games,bangumis,visual novels,fonts,... not included as their databases are
 - work with mdlint
 
 ### `nsfwly`
+
 > wow now i get the placeholder
+
 > -> idioms
+
 - nsfw idiom
   - bored of lorem ipsum?
   - lets go nsfwly
@@ -388,9 +431,12 @@ indie games,bangumis,visual novels,fonts,... not included as their databases are
   - hentai memes
   - anime lines
 
-### `intuitive` 
+### `intuitive`
+
 > showcase the power of web
+
 > /intuitive
+
 - frontend tech structured
   - html tags and attributes
   - css selector and attributes
@@ -399,10 +445,13 @@ indie games,bangumis,visual novels,fonts,... not included as their databases are
 - interesting demos
   - source codepen
   - and useful progressive web apps
-- intuitive playground 
+- intuitive playground
   - game engine like scratch
-  - javascript based 
+  - javascript based
 - game ideas
+  - mihoyo tiny games
+  - manjuu tiny games
+  - poki tiny games
   - angry birds classic
   - fly me 2 the moon:the origin of mihoyo,endless levels
   - genshin dungeon:soul knight but gi monsters
@@ -434,19 +483,25 @@ indie games,bangumis,visual novels,fonts,... not included as their databases are
   - scratch
 
 ### `sniper`
+
 > get everything about code snippets
+
 - inspired by
   - cacher
   - lodash
   - github gist
 
-### `firascript` 
+### `firascript`
+
 > simplicity of a script
+
 > -> /firascript
+
 - firascript is better and simpler
   - but javascript is good enough
 - firascript literal
   - typing a few symbools and tokens doesn't cost much time
+
 ```
 (a b c d) //(a,b,c,d)
 
@@ -456,9 +511,11 @@ indie games,bangumis,visual novels,fonts,... not included as their databases are
 
 (A){B} //function(A){B}
 ```
+
 - firascript definition
   - just generate a json and pass its keys to globalthis
   - typing = and function benefits reading and understanding
+
 ```
 const {a 1 b 2 c 3} //const a=1,b=2,c=3
 
@@ -468,13 +525,16 @@ let a (A){B} //let a=function(A){B}
 
 a(A){B} //a=function(A){B}
 ```
+
 - firascript if statement
   - look like integrating switch statement into if statement
   - but a few else and if make it clearer
   - or you may define a fn called switch() or case(a,{value fn value fn...})
+
 ```
 if(a){A}(b){B}(c){C}{D} //if(a){A}else if(b){B}else if(c){C}else{D}
 ```
+
 - firascript loop statement
   - while true is clearer than three letters
   - to repeat several times,
@@ -485,6 +545,7 @@ if(a){A}(b){B}(c){C}{D} //if(a){A}else if(b){B}else if(c){C}else{D}
   - just define a fn numbers(from,to,step=1),and for(i of numbers(1,10))
   - to iter i and j
   - putting two var in one for loop makes it confused,better to wrap them
+
 ```
 for{A} //while(true){A}
 
@@ -500,6 +561,7 @@ for(i 1 10 j 10 100){A} //for(let i=1;i<=10;i++){for(let j=10;i<=100;j++){A}}
 
 for(i arr j brr){A} //for(let __fs_i=0,i=arr[__fs_i],j=brr[__fs_i];__fs_i<arr.length&&__fs_i<brr.length;__fs_i++){A}
 ```
+
 - conclusion
   - firascript is a good idea,but i will continue writing javascript
   - and... with some functions built-in.(define them at the top of all program)
@@ -513,34 +575,34 @@ for(i arr j brr){A} //for(let __fs_i=0,i=arr[__fs_i],j=brr[__fs_i];__fs_i<arr.le
 - operators
   - 2 for condition,`if()`(incl `else`), `case()`
   - 4 for loop,`repeat()`,`for(i of each())`,`for(i of arr)`,`while()`
-- inspired by 
+- inspired by
   - arc lang (-> arc.txt)
   - javascript (-> javascript.md)
 
-### `voyage` 
+### `voyage`
+
 > design with elegance
+
 - color themes
+  - ruanyf blog
+  - jrsinclair blog
+  - ubuntu yaru
   - dracula official
   - one dark pro
   - monokai pro
-- app component systems
+- component systems
   - design.google
-  - plaintxt.org
-  - ruanyifeng.com/blog
-  - jrsinclair.com
-  - ubuntu yaru
-  - ruanyf blog
-  - sr
-  - hi
-  - hg
-  - gi
-  - zzz
+  - mihoyo sr
+  - mihoyo hi
+  - mihoyo gi
+  - mihoyo zzz
 - great components
   - number(chinese or english,precise or not)
   - button(material water drop effect,svg uncolorized icon,alt msg,keyboard focus)
   - link(internet archive,preview,stats)
   - ...
-- generate code
+- playground
+  - generate code
 - inspired by
   - webflow
   - framer
@@ -549,9 +611,12 @@ for(i arr j brr){A} //for(let __fs_i=0,i=arr[__fs_i],j=brr[__fs_i];__fs_i<arr.le
   - figma
   - craftjs
 
-### `voyagejs` 
+### `voyagejs`
+
 > web framework can be heavy and not heavy
+
 > -> /voyagejs
+
 - features
   - see voyagejs/readme
 - examples
@@ -562,8 +627,10 @@ for(i arr j brr){A} //for(let __fs_i=0,i=arr[__fs_i],j=brr[__fs_i];__fs_i<arr.le
   - sveltejs
   - reactjs
 
-### `fresh` 
+### `fresh`
+
 > rethink popular apps beyond styling
+
 - berryberry
   - tag based (mihoyo doujin | indie projects | novel apps)
   - rating or stars instead of count nums
@@ -572,17 +639,20 @@ for(i arr j brr){A} //for(let __fs_i=0,i=arr[__fs_i],j=brr[__fs_i];__fs_i<arr.le
 - yelltube
 - bing googlified
 - mastodon birdified
+- dingtalk telegramified
 - digdog
 - snapcat
 - zoombie
 - ganstagram
-- various themes 
+- various themes
   - by voyage
 
 ## channel
 
-### `fira` 
+### `fira`
+
 > my thoughts and discoveries "Fira | 言序"
+
 - pure math tut
   - become a math challenger
   - tell the world how to teach math
@@ -605,9 +675,11 @@ for(i arr j brr){A} //for(let __fs_i=0,i=arr[__fs_i],j=brr[__fs_i];__fs_i<arr.le
   - gaming and school life
 
 ### `hoyogamer`
+
 > about the traveller and the trailblazer
+
 - gi story in english
-  - i was once a gi primogem addicted player 
+  - i was once a gi primogem addicted player
   - and i click the screen mindlessly and missed a lot
   - now it's high time to pick up these memories
 - sr story in english
@@ -646,20 +718,26 @@ for(i arr j brr){A} //for(let __fs_i=0,i=arr[__fs_i],j=brr[__fs_i];__fs_i<arr.le
 ## apps
 
 ### `fx`
+
 > arithmatic is beautiful | casio fx991
+
 - write full literal
 - accurate form as possible
 - various themes
   - by voyage
 
 ### `card`
+
 > message card in your style
+
 - markdown based
 - put in a letter or card
 - gradient or art bg
 
 ### `charstyler`
+
 > unicode player
+
 - input method integration
   - js library
   - berryberry danmaku one tap
@@ -668,14 +746,18 @@ for(i arr j brr){A} //for(let __fs_i=0,i=arr[__fs_i],j=brr[__fs_i];__fs_i<arr.le
   - show preview
 - support all unicode styles
 
-### `journaling` 
+### `journaling`
+
 > weeks and months | plain text journaling
+
 - four weeks horizonal
 - todos vertical
 - one symbol status
 
-### `firststep` 
+### `firststep`
+
 > a great journey begins here | choose the language you love
+
 - i can not tell you what language is best
   - popular languages are tough competitions
   - others are less positions
@@ -685,6 +767,3 @@ for(i arr j brr){A} //for(let __fs_i=0,i=arr[__fs_i],j=brr[__fs_i];__fs_i<arr.le
 - and see their usages
   - popular apps
   - how are they developed
-
-
-

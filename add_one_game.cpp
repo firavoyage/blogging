@@ -1,3 +1,4 @@
+//20240806
 //add one game
 //two players are best strategy
 #include <iostream>

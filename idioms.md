@@ -209,7 +209,67 @@ unlike chromium desktop.
 
 "世外人","楚门人",有歧视.
 "华人","国人",有问题.
-算了,我说"简中人",没事了!
+好!我说"简中人",哈哈!
 
+rss is bad & json feed is good
+(-> livid blog)
+
+(ui design)
+chromium nav icon downloads slide bar 
+这个交互不错,滚动条的典范.
+当然,也就失去了提示列表长度和位置的作用,(下载不用).
+
+(ui design)
+alt tab短按,是没有屏幕中间闪烁的,直接切屏
+等个半秒吧,才出现.
+
+why english is cult of god
+为什么英语好啊!因为你需要的键盘敲击是最少的.同样意思.
+如果一个单词很长,往往可以缩写成3~4个字母,不影响理解
+- 取头几个字母
+  - conference|configuration -> conf
+  - result|resource -> res
+  - temporary -> tmp | temp
+  - twitter -> twi
+  - development -> dev
+- 去掉几个元音
+  - image -> img
+  - hacker -> hckr
+(反例?)
+
+你喜欢那位歌手?
+周杰伦.标准答案.
+(reliable old jiang -> student he)
+
+你说青梅不如天降~耶.
+
+前端已死?
+或许说的是职业,而非行业.
+行业上,前端
+- 很有趣(codepen,css tricks)
+- 很有用(figma,canva)
+职业上,前端
+- 大厂工资高(job hunting sites)
+- 有许多大佬(ruanyf,evanyou)
+那些找不到工作的,很多时候
+- english skill?
+- math skill?oi or algorithms experience?
+- frontend side projects?
+同样逻辑,前端已死,清北亦已死
+因为,对于应试教育初级学生,努力的作用是边际递减的
+他们可能性的上限,或许也不及t&p的最低录取分
+但是t&p依然是很好的学校.
+
+0d00 0721
+
+javascript symbol is ...
+```js
+symbol = function(anything){
+  const token="dafasdkfhadsfjkadwhifonawfkadshfadsjfkadsfadsjfsdajfkladsjflksafjkadslfjkasljfkadsfjlk"
+  const num=counter.count();
+  let result = `${token}${num}`
+  return result
+}
+```
 
 

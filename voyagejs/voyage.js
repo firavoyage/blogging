@@ -1,88 +1,127 @@
+//20240816
 //voyage.js 0.1
 
-let voyage={
-  node(type,labels={},contents,binds,keys){
+let voyage = {
+  //pure functions
+  isString(test) {
+    if (typeof test == "string") {
+      return true;
+    } else {
+      return false;
+    }
+  },
+  create(type, labels, contents, binds, methods) {
     //create element
-    let element={}
-    element.t=type //tag
-    element.a=labels //attributes
-    element.c=contents //children
-    element.f=binds //functions
-    element.d=keys //data
-    return element
+    type = type || "div"; //node tag name
+    labels = labels || {}; //node attributes
+    contents = contents || []; //node innerText or children
+    states = {}; //private states
+    let element = { type, labels, contents, binds, methods, states };
+    return element;
   },
-  run(element){
+
+  //states
+  data: {}, //key value data storage
+  map: {}, //keys and places and binds
+  lib: {}, //methods binded
+
+  counts: { node: 0 },
+  count(name) {
+    let { counts } = voyage;
+    if (!counts[name]) {
+      counts[name] = 0;
+    }
+    counts[name]++;
+    let newKey = `${name}${counts[name]}`;
+    voyage.counts = counts;
+    return newKey;
+  },
+
+  //core function
+  run(element) {
     //bind element data,get Node
-  },
-  set(key,value){
-    //set its value and call its binds
-  }, 
-  key(name){ 
-    //generate key by name "name_1" "name_2"
-  }, 
-  get(key){
-    //get its value
-  },
-  how(element,key){
-    //get own prop
-  }, 
-  where(id){
-    //give element id,get Node
-  },
-  data:{}, //key and value
-  bind:{}, //key and functions
-  count:{}, //name and count
-  fn:{}, //pure functions
-}
-
-```
-e={
-  t "div" //tag
-  a {id "app" style {color "gold" z-index "666"}} //attributes
-  c [{t "button"} {t "input"}] //children
-  f ["show"] //function keys
-  d ["button_1"] //data keys
-} 
-```
-
-```
-c={
-  button(icon){ 
-    //include d(pressed state),not include f(change)
-    //r=...
-    key=voyage.new("button") 
-    voyage.set(key,"off") 
-    //...
-  }
-  listItem(item){
-    //create listItem
-  }
-  list(items){
-    r={t "div" a {class "list"} c []} //result
-    //or r=make("div.list")
-    for(let i of items){
-      let li=listItem(i)
-      r.c.append(li)
+    let { isString, run, count, map, lib } = voyage;
+    let { type, labels, contents, binds, methods } = element;
+    let node = document.createElement(type);
+    for (let i of Object.keys(labels)) {
+      node.setAttribute(i, labels[i]);
     }
-    return r
-  }
-  app(data){
-    r={t "div" a {id "app"} c [list(data.items),button(data.buttonicon)]}
-    return r
-  }
-}
+    if (isString(contents)) {
+      node.innerText = contents;
+    } else {
+      for (let i of contents) {
+        child = run(i);
+        node.appendChild(child);
+      }
+    }
+    if (binds) {
+      let nodeid = count("node");
+      node.setAttribute(nodeid, "");
+      for (let i of Object.keys(binds)) {
+        map[i] = map[i] || {};
+        map[i][nodeid] = map[i][nodeid] || [];
+        map[i][nodeid] = [...map[i][nodeid], binds[i]];
+      }
+    }
+    if (methods) {
+      lib = { ...lib, ...methods };
+    }
+    voyage.map = map;
+    voyage.lib = lib;
+    return node;
+  },
 
-fn={
-  show(id,state){
-    node=voyage.node(id)
-    if(state=="off"){
-      node.style.display="none"
+  set(key, value) {
+    let { data, map, lib } = voyage;
+    data[key] = value;
+    if (map[key]) {
+      for (let nodeid of Object.keys(map[key])) {
+        for (let method of map[key][nodeid]) {
+          lib[method](nodeid, value);
+        }
+      }
     }
-    else{
-      node.style.display="inline"
-    }
-  }
-}
-```
+  },
+
+  get(key) {
+    let { data } = voyage;
+    let value = data[key];
+    return value;
+  },
+
+  getNode(nodeid) {
+    let node = document.querySelector(`[${nodeid}]`);
+    return node;
+  },
+
+  getKey(element, name) {
+    let key = element.states[name];
+    return key;
+  },
+};
+
+let test = {
+  //counter component
+  type: "div",
+  labels: {
+    onclick: function letsgo() {
+      voyage.set("count", voyage.get("count") + 1);
+    },
+  },
+  contents: "abc",
+  binds: { count: "process" },
+  methods: {
+    process(nodeid, value) {
+      let node = voyage.getNode(nodeid);
+      node.innerText = value;
+    },
+  },
+};
+
+let a = voyage.run(test);
+
+document.body.append(a);
+
+voyage.set("count", 3);
 
 

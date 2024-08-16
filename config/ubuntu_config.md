@@ -268,17 +268,19 @@ sudo apt-get install code
   - one dark pro
   - monokai pro
 - install extensions
+  - eslint
+  - prettier
   - code runner
     - run in terminal `on`
     - auto focus terminal `on`
     - fix `cjk filename` issue
-> -> settings.json
 ```
 "code-runner.executormap": {
   // "cpp": "cd $dir && g++ $filename -o $filenamewithoutext && $dir$filenamewithoutext",
   "cpp": "cd $dir && g++ \"$filename\" -o \"$filenamewithoutext\" && \"$dir$filenamewithoutext\"",
 }
 ```
+> -> settings.json
 - config user snippets
 > from -> git/blogging/config/cpp.code-snippets
 > to -> file > preferences > configure user snippets

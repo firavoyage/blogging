@@ -2381,6 +2381,8 @@ print(numbers.sort_numbers())  # Output: [1, 2, 3, 4, 5]
 
 These examples illustrate how the same tasks can be approached differently in FP and OOP. FP tends to use higher-order functions and immutability, while OOP encapsulates data and behavior within objects.
 
+## list fp oop that fp poor
+
 > -> mistral large 2
 > list of examples in fp and oop that fp is poor at
 
@@ -2776,6 +2778,96 @@ for shape in shapes:
 
 These examples illustrate some scenarios where OOP might be more suitable than FP due to its strengths in state management, object interactions, and inheritance.
 
+## key counter fp oop
+
+> -> mistral large 2
+> key counter in js in fp and oop
+
+Certainly! Let's implement a key counter in JavaScript using both Functional Programming (FP) and Object-Oriented Programming (OOP) approaches.
+
+### Functional Programming (FP) Approach
+
+In FP, we focus on pure functions and immutability. Here's how you can implement a key counter using FP principles:
+
+```javascript
+// Functional Programming Approach
+
+// Pure function to increment the count for a given key
+const incrementKeyCount = (key, counts) => {
+  const newCounts = { ...counts };
+  newCounts[key] = (newCounts[key] || 0) + 1;
+  return newCounts;
+};
+
+// Pure function to decrement the count for a given key
+const decrementKeyCount = (key, counts) => {
+  const newCounts = { ...counts };
+  if (newCounts[key] > 0) {
+    newCounts[key] -= 1;
+  }
+  return newCounts;
+};
+
+// Example usage
+let counts = {};
+counts = incrementKeyCount('a', counts);
+counts = incrementKeyCount('a', counts);
+counts = incrementKeyCount('b', counts);
+counts = decrementKeyCount('a', counts);
+
+console.log(counts); // Output: { a: 1, b: 1 }
+```
+
+### Object-Oriented Programming (OOP) Approach
+
+In OOP, we encapsulate data and behavior within objects. Here's how you can implement a key counter using OOP principles:
+
+```javascript
+// Object-Oriented Programming Approach
+
+class KeyCounter {
+  constructor() {
+    this.counts = {};
+  }
+
+  increment(key) {
+    this.counts[key] = (this.counts[key] || 0) + 1;
+  }
+
+  decrement(key) {
+    if (this.counts[key] > 0) {
+      this.counts[key] -= 1;
+    }
+  }
+
+  getCounts() {
+    return this.counts;
+  }
+}
+
+// Example usage
+const keyCounter = new KeyCounter();
+keyCounter.increment('a');
+keyCounter.increment('a');
+keyCounter.increment('b');
+keyCounter.decrement('a');
+
+console.log(keyCounter.getCounts()); // Output: { a: 1, b: 1 }
+```
+
+### Comparison
+
+- **FP Approach**:
+  - Focuses on pure functions and immutability.
+  - Functions are stateless and return new state objects.
+  - Easier to test and reason about individual functions.
+
+- **OOP Approach**:
+  - Encapsulates state and behavior within objects.
+  - Methods operate on the object's internal state.
+  - Provides a more intuitive way to manage state, especially for complex applications.
+
+Both approaches have their strengths and can be chosen based on the specific requirements and preferences of the project.
 
 
 

@@ -2722,4 +2722,32 @@ typescript,最后会编译成javascript来运行
   - width 3 or 4
   - each image is separated
 
+## decentralized blog
+
+不看好去中心化blog.
+
+目前的简中互联网,或许有三层
+- stage 1
+  - 😶‍🌫️
+  - 😅
+  - 🤬
+- stage 2
+  - 🌏
+  - 🗽
+  - 📖
+- stage 3
+  - 🫨
+  - 🍄
+  - 🚫
+
+世外人,居住在stage1
+世界人,居住在stage2
+
+decentralized network...
+-> stage3?
+
+真正需要的,是谁呢...
+
+
+
 
