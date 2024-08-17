@@ -2,6 +2,67 @@
 
 > 🌕 💤 before 23:00!
 
+## 20240818
+
+> summer vacation daily
+
+- visit digital homes (al)
+- eat (bilimiao)
+
+> summer vacation day
+
+- make sr styled component library in voyagejs (-> /voyagejs)
+- implement pre project (-> /pre)
+- make pure math videos for hs g1t1 (-> /pure)
+- write intuitive web dev guide (-> /intuitive)
+
+> summer vacation night
+
+- revise projects (structured & detailed & inspired by)
+- classify web (by tag)
+- classify memories (by tag)
+- redesign fav (trim and move)
+- read ruanyf weekly (-> ruanyf)
+- play rpgs (hg)
+- watch bangumis ("yosuga no sora" "mygo")
+- watch simplelive
+
+> school life
+
+- read book "人生哲思录"
+- learn english & math
+
+## 20240817
+
+> summer vacation daily
+
+- visit digital homes (al)
+- eat (bilimiao)
+
+> summer vacation day
+
+- extend voyage lib from vue svelte alpine  (-> /voyagejs)
+- make sr styled component library with voyagejs (-> /voyagejs)
+- implement pre project (-> /pre)
+- make pure math videos for hs g1t1 (-> /pure)
+- write intuitive web dev guide (-> /intuitive)
+
+> summer vacation night
+
+- revise projects (structured & detailed & inspired by)
+- classify web (by tag)
+- classify memories (by tag)
+- redesign fav (trim and move)
+- read ruanyf weekly (-> ruanyf)
+- play rpgs (hg)
+- watch bangumis ("yosuga no sora" "mygo")
+- watch simplelive
+
+> school life
+
+- read book "人生哲思录"
+- learn english & math
+
 ## 20240815
 
 > summer vacation daily

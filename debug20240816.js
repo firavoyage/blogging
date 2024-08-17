@@ -4,10 +4,20 @@ let a = {
     let { b } = a;
     let after = { d: "changed" };
     b = { ...b, ...after };
-    console.log(b)
   },
 };
 a.run();
-console.log(a); //wtf! where is a.b.d
+console.log(a); //not changed
+
+// let a = {
+//   b: { c: {} },
+//   run() {
+//     let { b } = a;
+//     let after = { d: "changed" };
+//     b.c = { ...b.c, ...after };
+//   },
+// };
+// a.run();
+// console.log(a); //not changed
 
 

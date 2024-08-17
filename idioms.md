@@ -53,15 +53,15 @@ there's no punchline.it's not a joke.
 你们都是我的翅膀啊
 
 有技兄这
-迟b片
-已b片
+迟 b 片
+已 b 片
 申鹤重云了
 
-loli有三好,身轻体柔易推倒
+loli 有三好,身轻体柔易推倒
 
 怒艹大伟哥
 
-世界上没有什么事儿是一发8088不能解决的
+世界上没有什么事儿是一发 8088 不能解决的
 如果有,那就两发
 (亚洲骗氪天王,尼古拉斯.大伟哥)
 
@@ -120,7 +120,7 @@ everything is a state machine.
 Whereas disregard and contempt for human rights have resulted
 
 人不能同时拥有青春和对青春的感受 (人不能同时既年轻又怀旧)
-(-> 何同学2018回忆)
+(-> 何同学 2018 回忆)
 
 是刀吗?不是糖!是糖!
 好甜!好甜!好甜...
@@ -131,6 +131,7 @@ your overthinking is my opportunity
 Dorothy followed her through many of the beautiful rooms in her castle.
 
 progressive web app.
+
 - open in one tap
 - offline use
 - send notifications
@@ -151,7 +152,7 @@ make tools elegant.
 
 文章里有错别字，部分句子句末缺少句号，中英文括号混用，大小写不统一，综合这些来看应该不是 AI 生成
 
-**functions are *pure***
+**functions are _pure_**
 
 欲望与遗忘的对抗.
 
@@ -185,15 +186,15 @@ all `[1,10]` `1..10` `each(1,10)` incl 1 and 10.
 理工科很容易视作工具,文科反之.文科即使作为工具,也多在丈量自身.
 
 database:files tree & json
-每一条数据,都是一个json文件,收录在索引中.
+每一条数据,都是一个 json 文件,收录在索引中.
 
 长三角,珠三角,东亚,北欧,西欧,美国沿海,未知,免费.
-其余地区按照steam价格分布.
+其余地区按照 steam 价格分布.
 
 很简单.
 我们的地图,国界线和所有界线一般粗细.
 
-selected word should be 
+selected word should be
 with light blue bg like chromium android
 unlike chromium desktop.
 
@@ -201,9 +202,9 @@ unlike chromium desktop.
 
 "赌"个三瓜两枣有啥意思,刺激的是"贪".
 
-唉，有些建议想对男生们说说，尤其是那些身高一米七几，长相普通，家境一般的男生。我知道你们不少是单身，很想谈恋爱，渴望有一段纯粹的爱情，但由于自身条件一般，加上从小被灌输不能早恋的思想和社恐的性格，一直没有机会。你们也许会想，我追一个同样平凡普通的女生总可以吧，但现实很残酷，大部分女生无论条件出众与否，择偶标准都蛮高的，外貌，金钱，才华，人际，要有好几样优秀，她们才会真正的考虑你，才可能会对你产生爱情，女朋友带你出去才会觉得有面子。所谓说的细心，温柔等等标准，前提是女生喜欢你，你表现出这样的品质才会更喜欢。普通的男生们如果遇不到合适的人也没必要强求，不谈恋爱其实也没什么，一定多把精力放在舞萌dx上
+唉，有些建议想对男生们说说，尤其是那些身高一米七几，长相普通，家境一般的男生。我知道你们不少是单身，很想谈恋爱，渴望有一段纯粹的爱情，但由于自身条件一般，加上从小被灌输不能早恋的思想和社恐的性格，一直没有机会。你们也许会想，我追一个同样平凡普通的女生总可以吧，但现实很残酷，大部分女生无论条件出众与否，择偶标准都蛮高的，外貌，金钱，才华，人际，要有好几样优秀，她们才会真正的考虑你，才可能会对你产生爱情，女朋友带你出去才会觉得有面子。所谓说的细心，温柔等等标准，前提是女生喜欢你，你表现出这样的品质才会更喜欢。普通的男生们如果遇不到合适的人也没必要强求，不谈恋爱其实也没什么，一定多把精力放在舞萌 dx 上
 
-周期性蛋白脂肪缺乏症(学名Insanus lovis)是一种广泛存在的慢性病，易感人群多为中国大陆年轻群体，目前暂无有效的治愈方法，只能通过使用美国公司Kentucky Fried Chicken（简称KFC）开发的生物制剂Fried Animal Protein (FAP,中文译名飞普)经由食道对胃与小肠中受体进行靶向治疗缓解症状。今天是该公司降低药物售价的日子，资助50帮我治疗该慢性病。
+周期性蛋白脂肪缺乏症(学名 Insanus lovis)是一种广泛存在的慢性病，易感人群多为中国大陆年轻群体，目前暂无有效的治愈方法，只能通过使用美国公司 Kentucky Fried Chicken（简称 KFC）开发的生物制剂 Fried Animal Protein (FAP,中文译名飞普)经由食道对胃与小肠中受体进行靶向治疗缓解症状。今天是该公司降低药物售价的日子，资助 50 帮我治疗该慢性病。
 
 (oi)刷题,生活之道
 
@@ -215,17 +216,18 @@ rss is bad & json feed is good
 (-> livid blog)
 
 (ui design)
-chromium nav icon downloads slide bar 
+chromium nav icon downloads slide bar
 这个交互不错,滚动条的典范.
 当然,也就失去了提示列表长度和位置的作用,(下载不用).
 
 (ui design)
-alt tab短按,是没有屏幕中间闪烁的,直接切屏
+alt tab 短按,是没有屏幕中间闪烁的,直接切屏
 等个半秒吧,才出现.
 
 why english is cult of god
 为什么英语好啊!因为你需要的键盘敲击是最少的.同样意思.
-如果一个单词很长,往往可以缩写成3~4个字母,不影响理解
+如果一个单词很长,往往可以缩写成 3~4 个字母,不影响理解
+
 - 取头几个字母
   - conference|configuration -> conf
   - result|resource -> res
@@ -235,7 +237,7 @@ why english is cult of god
 - 去掉几个元音
   - image -> img
   - hacker -> hckr
-(反例?)
+    (反例?)
 
 你喜欢那位歌手?
 周杰伦.标准答案.
@@ -246,30 +248,54 @@ why english is cult of god
 前端已死?
 或许说的是职业,而非行业.
 行业上,前端
+
 - 很有趣(codepen,css tricks)
 - 很有用(figma,canva)
-职业上,前端
+  职业上,前端
 - 大厂工资高(job hunting sites)
 - 有许多大佬(ruanyf,evanyou)
-那些找不到工作的,很多时候
+  那些找不到工作的,很多时候
 - english skill?
 - math skill?oi or algorithms experience?
 - frontend side projects?
-同样逻辑,前端已死,清北亦已死
-因为,对于应试教育初级学生,努力的作用是边际递减的
-他们可能性的上限,或许也不及t&p的最低录取分
-但是t&p依然是很好的学校.
+  同样逻辑,前端已死,清北亦已死
+  因为,对于应试教育初级学生,努力的作用是边际递减的
+  他们可能性的上限,或许也不及 t&p 的最低录取分
+  但是 t&p 依然是很好的学校.
 
 0d00 0721
 
 javascript symbol is ...
+
 ```js
-symbol = function(anything){
-  const token="dafasdkfhadsfjkadwhifonawfkadshfadsjfkadsfadsjfsdajfkladsjflksafjkadslfjkasljfkadsfjlk"
-  const num=counter.count();
-  let result = `${token}${num}`
-  return result
-}
+symbol = function (anything) {
+  const token =
+    "dafasdkfhadsfjkadwhifonawfkadshfadsjfkadsfadsjfsdajfkladsjflksafjkadslfjkasljfkadsfjlk";
+  const num = counter.count();
+  let result = `${token}${num}`;
+  return result;
+};
 ```
 
+cpp 是非常优秀的语言,可惜内置的语法糖比较少
+往往需要自己定义宏,自己导入模块
+
+不喜欢 vue,react
+因为它们一般都需要预编译器
+
+女权如何?好.
+我对"好"的定义是,
+民主(有许多支持者)就是好的.
+如此定义,女权显然是好的.
+没必要权衡利弊,
+因为好事不得到实现,也就无利害之说.
+尤其是世外土地的民主.
+什么时候我会反对女权呢?
+当女权过度散布时.(如去往 hupu bbs)
+
+什么是定义辩论?
+内卷是真问题/假问题.
+真问题:找到一种真问题,定义为内卷,详细分析其为何"真"
+假问题:找到一种假问题,定义为内卷,详细分析其为何"假"
+说的都不是同一种"内卷".也没有冲突与交锋.
 

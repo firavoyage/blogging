@@ -1677,3 +1677,21 @@ voyagejs出错,debug半天,
 学习一堆shallow deep clone的知识
 最后可以总结到debug20240816.js里面.
 
+## 20240817
+
+今日最佳:
+**install code extension (es6 code snippets)**
+
+voyagejs
+实现了counter app
+($model)
+
+明天要到shanghai disneyland玩.
+玩过很多次,比如春秋游.
+家人想去,我也就一起了.
+开了新地区desu.
+所以下载一些podcasts.
+
+
+
+

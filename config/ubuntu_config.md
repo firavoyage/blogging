@@ -270,6 +270,7 @@ sudo apt-get install code
 - install extensions
   - eslint
   - prettier
+  - javascript (es6) code snippets
   - code runner
     - run in terminal `on`
     - auto focus terminal `on`

@@ -12320,5 +12320,301 @@ Watching employees get transformed into founders makes it clear that the differe
 
 -- [Hacker News 读者](https://news.ycombinator.com/item?id=24712573)
 
+## ruanyf wechat mini app guide
+
+微信小程序入门教程
+
+本周，我发布了[《微信小程序入门教程》](https://www.ruanyifeng.com/blog/2020/10/wechat-miniprogram-tutorial-part-one.html)，分成四次连载，帮助初学者学会写微信小程序。
+
+这是免费教程，不收任何费用，有兴趣的同学可以看看，相信比其他教程更简单清晰。
+
+## space x law on mars theory
+
+[星链计划的火星协议](https://www.reddit.com/r/Starlink/comments/jjc270/found_a_gem_in_the_starlink_tos_the_parties/)
+
+![](https://www.wangbase.com/blogimg/asset/202010/bg2020102803.jpg)
+
+10月26日晚上，SpaceX 公司向参加星链计划（Starlink）的用户发邮件，宣布 Beta 测试开始，意味着这个卫星上网项目已经可以正式提供服务了。用户必须以499美元购买接收器，然后每月的上网费是99美元。
+
+但是，最轰动的是，它的用户协议里面有这样一段不寻常的话。
+
+![](https://www.wangbase.com/blogimg/asset/202010/bg2020102802.jpg)
+
+> "对于地球或月球服务引起的纠纷，适用美国加利福尼亚州的法律管辖。对于我们在火星上提供的服务，或在飞往火星的星际飞船上提供的服务，当事方均承认火星为自由星球，没有任何一个地球政府对火星拥有管辖权或主权。因此，争端将通过火星定居者之间订立的自治原则来解决。"
+
+这就是说，SpaceX 公司或星链计划，已经在法律上做好了开展火星业务的准备。
+
+## a letter to indian young theory 
+
+[给印度年轻人的一封公开信](https://timesofindia.indiatimes.com/blogs/The-underage-optimist/the-4gotten-generation-an-open-letter-to-indias-youth-get-off-that-smartphone-it-can-destroy-you/)
+
+印度年轻人的失业率极高，约30％。与此同时，这些年轻人在 Facebook 和 Instagram 上花费了大量时间，印度人在 Facebook 和 Instagram 花费的时间在所有国家/地区排名第一。印度互联网广告业的收入却极低，广告主根本找不到对这些人有价值的广告，他们没有购买力。
+
+最近，印度最著名的作家之一的[切坦-巴加特](https://en.wikipedia.org/wiki/Chetan_Bhagat)（Chetan Bhagat）在《印度时报》上发表了这封公开信，呼吁印度年轻人不要沉溺于手机。
+
+![](https://www.wangbase.com/blogimg/asset/202010/bg2020102503.jpg)
+
+亲爱的年轻朋友们，
+
+这封公开信尽管在大报纸上发表，但是我不知道你是否会看到它。你们中的许多人都忙于使用手机，观看视频，玩视频游戏，与朋友聊天，在社交媒体上发表评论，或者只是滚动浏览名人新闻。你们顾不上阅读文章。
+
+但是，如果你碰巧遇到了这篇文章，请完整读完它。这很重要，这关系到你的生活。你正在手机上浪费生命。
+
+你们是印度历史上第一代可以使用智能手机和廉价数据流量的人。你们每天在手机上花费大量时间，对于年轻人来说，每天平均达到5到7个小时。
+
+五小时是你每天清醒时间的三分之一。就像香烟或其他毒品一样，这种手机成瘾正在吞噬你生命的一部分，损害你的职业前景，并弄乱你的大脑。如果这样下去，整个一代印度年轻人将成为被 4G 毁掉的一代人，这一代人全都沉迷于 4G，他们的生活毫无目标，对国家一无所知。
+
+首先，手机成瘾绝对浪费时间，这些时间本可以用于生活中更具生产力的事物。想象一下，每天从手机上节省三个小时，花在任何其他事情上，比如健身，学习技能，找工作，开办企业。如果你始终如一地这样做，它将带你到何处。
+
+第二，手机成瘾会使大脑变钝。当你观看垃圾时，大脑会放松并且运转较少，你很快将变得缺乏逻辑思考、推理或争论的能力。你将不再看到不同的观点，不再能处理不同的问题、评估利弊或做出正确的决定。
+
+由于大脑麻木，你会变得被情绪主导，出现两极分化的情绪，对名人或政客强烈狂热或强烈仇恨。一代人都变得情绪化，失去理性。
+
+最后，连续三个小时以上玩手机，消磨你的动力和精力。生活中的成功来自于设定目标，保持动力并为实现目标而努力。但是，看着手机屏幕会让你失去动力，每天划着屏幕消磨时间。
+
+年轻人将决定印度的未来。想象一下，让印度独立的那一代年轻人，他们关心国家问题，为解放印度而战。今天，年轻人真的在乎影响国家命运的事情吗？还是更在乎轰动的新闻，忙于对娱乐性事件或疯狂性事情做出情绪性反应？
+
+当务之急是使印度的经济再次增长。中国比我们富裕五倍。请在互联网上搜一下中国城市的照片。为了让印度也这样发展，我们必须做很多事情。我们应该集中精力发展经济，还是继续对那些宗教广告表达愤怒？你应该专注于自己的职业，还是应该将时间浪费在永无止境的印度教－穆斯林的历史问题上？你想过上幸福的生活，还是希望搞清楚宝莱坞明星的各种混乱新闻？
+
+你，今天的年轻人，将决定这些问题的答案。没有其他人会为你做这件事，你必须对自己和这个国家的命运负责。印度的贫穷和强烈的民族情绪并不值得自豪，你们的目标应该是让印度和你自己变得富有而谦虚。放下你的手机，将你的思想投入到那些富有成效和创造力的事情中，为自己的生活和国家做出改变。
+
+你们应该使用 4G 成为印度领先的一代人，而不要最终成为被 4G 毁掉的一代人。
+
+爱你们的，
+
+切坦-巴加特
+
+(the original)
+
+### The 4Gotten generation: An open letter to India's youth: Get off that smartphone. It can destroy you
+
+October 24, 2020, 7:28 AM IST
+
+Dear friends,
+
+I don't know if this letter will even reach you, despite being published in a big newspaper. Many of you are so busy with your phones, watching videos, playing video games, chatting with your friends, commenting on social media, or just scrolling through the feeds of beautiful celebrities, reading an article falls way down on the priority list.
+
+However, if you do happen to chance on this, please read this fully. This is important and this is about your life. You are wasting your life on your phone. Yes, you are the first young generation in India's history that has access to smartphones and cheap data, and you are spending hours on it, every day.
+
+Check your screen time, which often averages 5-7 hours a day for young people. Retired or established people can spend so many hours on their devices. A young person, who has to build his/ her life, just can't.
+
+![](https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2020/10/4GGeneration.jpg)
+
+Chad Crowe
+
+Five hours is one-third of your productive waking hours, or one-third of your life. Like cigarettes or other drugs, this phone addiction is eating away a part of your life. It's damaging your career prospects and messing up your brain. If it stays this way, your entire generation will become a 4Gotten generation, an entire generation addicted to 4G, aimless in their life and clueless about the nation.
+
+These are the top three negative effects of this phone addiction.
+
+Number one, of course, is the absolute waste of time, which could be utilised on more productive things in life. Imagine saving three hours a day from your phone, and spending it on anything -- fitness, learning a skill, studying more, a more intense job search, opening a business. Imagine if you did this consistently, where it would take you.
+
+Two, watching mindless stuff dulls your cognitive brain. Our brain has two areas -- cognitive and emotional. A good mind is where both work well. When you watch junk, the cognitive brain disengages and is used less. You soon lack the ability to think, reason or argue something logically. You can no longer see different points of view, process multiple scenarios, evaluate pros and cons or make the right decisions.
+
+You function with your emotional brain alone as your cognitive brain is numb. The constant anger on social media, the polarisation, the intense fandom and intense hate for celebrities or politicians, the popularity of certain screaming TV anchors all point to a generation where the emotional brain is in control, and the reasoning mind is not engaged.
+
+People who work only with an emotional brain don't do well in life. The only way out -- stop numbing your brain and engage your mind in more productive things.
+
+Three, constant hours on the screen kill your motivation and energy. Success in life comes from setting goals, staying motivated and working hard towards your goals. However, watching a screen makes us lazy. Deep down, a fear of failure sets in as you're not sure if you can put in the work anymore.
+
+To cope, you try to find a reason why you can't find success in life. You try to find an enemy -- bad current politicians, bad past politicians, Muslims, Bollywood nepotism, rich people, famous people, any villain to be made responsible for your life not being what it could be. Yes, the system is unfair and rigged. However, wasting time venting on social media won't help you. Working on yourself will.
+
+Stop complaining. Start creating. Create a better life for yourself, and create a better person. Are you doing your maximum? Are you working as hard as you possibly can? Keep that wretched phone away until you make something of your life. Winners find a way out of the unfairness. You can too.
+
+Unlike hard drugs, 4G phones are legal. Kids can keep one in their pocket. The phone is also immensely useful -- for information, shopping or online classes. It can be used to grow and learn. But it can also literally destroy a young person's life, and even an entire generation.
+
+For it's up to the youth to take India where they want to take it. Imagine the generation that got us Independence. How cool were they? They were out there, fighting to make India free. I still remember the Mandal Commission protests, or the 2011 Anna protests. The youth cared about national issues. Today, does the youth actually care about what truly impacts us? Or do they emotionally react to news based on how sensational, entertaining or crazy it is?
+
+The super important, urgent priority is to make our economy grow again. China is five times richer than us. Google pictures of Chinese cities on the Internet. We have to do so much to get there. Should we focus on that? Or should we outrage over harmless ads that show an inter-religious couple? Should you focus on your career, or should you waste your time on never ending historical Hindu-Muslim issues? You want to build a good life or solve Bollywood conspiracies?
+
+You, the youth of today, will decide the answers to these questions. No leader, no actor, no celebrity will do it for you. Take yourself and this country where you want it to go. Don't aim to make India poor and proud. Aim to make India and yourself rich and humble. Get off that stupid phone, engage your mind in productive and creative things and make something of your life and country.
+
+Be the generation that 4Ges India ahead. Don't end up as the 4Gotten generation.
+
+Love,
+
+Chetan Bhagat
+
+## great rubbish classification in japan quote
+
+日本的垃圾分类手册长达37页，而且每天回收的垃圾不一样，这导致我一周大约有6个小时要用来处理垃圾。
+
+-- [一个美国人](https://twitter.com/searls/status/1320411053910609921)在日本生活的感想
+
+![](https://www.wangbase.com/blogimg/asset/202010/bg2020102601.jpg)
+
+## football tracker awkward ai fun
+
+[足球直播的故障](https://www.iflscience.com/technology/ai-camera-ruins-soccar-game-for-fans-after-mistaking-referees-bald-head-for-ball/)
+
+![](https://www.wangbase.com/blogimg/asset/202010/bg2020103102.jpg)
+
+10月25日，苏格兰足球联赛出现了一个令人啼笑皆非的直播事故。赛前，俱乐部宣布，本场比赛将采用 AI 摄像头替代人工摄像师，摄像头会自动识别足球，始终追踪球的运动。
+
+意想不到的是，本场比赛的边裁是一个光头裁判，AI 摄像头分不清光头与足球，很多时候将光头误认为是足球，镜头跟着边裁。观众们纷纷抱怨错过了进球，只看见边判跑来跑去，要求俱乐部赶快为边裁提供一个假发或帽子。
+
+下面的视频（[Youtube](https://www.youtube.com/watch?v=9zoJP2FkpgU)，[腾讯视频](https://v.qq.com/x/page/b3165ovrpnb.html)）就是该场比赛的直播剪辑。
+
+## google new icon awkward design theory
+
+[谷歌 App 的新图标](https://twitter.com/danidonovan/status/1322356167063031814)
+
+![](https://www.wangbase.com/blogimg/asset/202011/bg2020110101.jpg)
+
+谷歌最近将旗下 App 的图标，全部改成统一的色彩风格。很多用户抱怨，新图标的配色完全一样，简直是一场灾难，根本分不清谁是谁（上图）。强烈的颜色压倒了其他信息。
+
+原来的图标明明更易辨识，更有个性（下图是对比），结果上层一拍脑袋，一夜之间就都消失了。
+
+![](https://www.wangbase.com/blogimg/asset/202011/bg2020110102.jpg)
+
+现在一堆图标里面找一个 App，成了一件有难度的事情。
+
+![](https://www.wangbase.com/blogimg/asset/202011/bg2020110103.jpg)
+
+## two minutes working theory
+
+[2分钟规则](https://hoanhan.co/2-minute-rule)
+
+每当你发现很难开始执行某项任务时，可以试试将其缩减成2分钟的版本。
+
+- 看一本书 → 看一页书
+- 写一篇文章 → 写一句话
+- 跑10公里 → 穿上跑鞋
+- 做100次俯卧撑 → 做1次俯卧撑
+- 多吃蔬菜水果 → 吃一个水果
+- 编写一个程序 → 编写一个函数 → 编写一行代码
+
+这样做的目的是使上手变得超级容易，让你先上手再说。一旦开始做了（这可能是最艰难的一步），你就会开始有动力，可能会继续做下去。
+
+- 阅读一页 → 阅读10页 → 读完第一章
+- 写一个句子 → 写文章的开头 → 写出正文
+- 穿上跑鞋 → 步行5分钟 → 跑步5分钟
+
+一旦开始，继续做下去就会容易得多。有时，你甚至会发现，自己在不知不觉间已经完成了任务。
+
+(the original)
+
+### Get started with 2-minute rule
+
+Scale any task down into a 2-minute version to make it easier to get started
+
+October 27, 2020 - 1 min read
+
+* * * * *
+
+Whenever you find it hard to get started on a task, consider scaling it down into a 2-minute version. For example,
+
+- Read a book → Read one page
+- Write an essay → Write one sentence
+- Run 10 miles → Wear my running shoes
+- Do 100 push-ups → Do 1 push up
+- Eat more vegetables → Eat an apple
+- Study for interview → Skim through my notes
+
+The idea is to make it super easy to get started. Once you pass the starting point, which is arguably the hardest step, you start to gain momentum to keep doing the task itself:
+
+- Read one page → Read 10 pages → Finish the first chapter
+- Write one sentence → Write an opening paragraph → Write the body
+- Wear my running shoes → Walk for 5 minutes → Run for 5 minutes
+
+As you can see, once you start, it is much easier to continue doing it. Sometimes, you'll find yourself completing the task even before you even notice it.
+
+## china guizhou can be swizerland view theory
+
+本周话题：贵州变瑞士，有没有可能？
+
+上个月，我第一次去贵州，玩了一周。这次旅行让我想起一篇大学里读过的文章。
+
+浙江大学的一位老师访问瑞士后，发现瑞士的地理条件与贵州省很像：平地很少，全境都是高山，没有出海口，不合适发展工业和农业。但是， 瑞士属于世界最富的国家，贵州却是中国最穷的省份之一，以前号称"天无三日晴，地无三里平，人无三两银"。这是为什么？
+
+他认为，原因是瑞士有合适的产业。它最强的精密制造业（比如钟表和制药）和高端服务业（比如银行、旅游、会展），都不要求大块的土地，但是附加值高，很赚钱。贵州没有这些产业，也不具备发展它们的条件，所以才会贫穷。
+
+我来了贵州，亲眼看了以后，觉得情况发生了很大变化。贵州比想象的好得多，过去限制发展的最大瓶颈，已经没了，具备了经济起飞的条件，前景很看好。
+
+![](https://www.wangbase.com/blogimg/asset/202011/bg2020111121.jpg)
+
+（图片说明：铜仁市三江公园）
+
+首先，交通已经变得比较方便了。主要城市之间都有高铁和高速公路直达，一路上都是高架和隧道，已经没有盘山公路了。其次，全省都在大建设，更新基础设施，我到过的黔东南每个城市（铜仁、凯里、都匀、独山、荔波）都遍布工地，城市面貌都非常新，道路整齐，高楼林立，生活没有任何不方便，跟沿海省份差不多。
+
+![](https://www.wangbase.com/blogimg/asset/202011/bg2020111122.jpg)
+
+（图片说明：荔波小七孔景区的上己定湖）
+
+贵州的旅游业，尤其具有优势。当地最不缺的就是峡谷、溪流和瀑布，由于喀斯特地质，奇特的地貌很多，加上植被茂盛，山水瑰丽，拥有许多世界级的旅游资源，未来肯定是旅游大省。
+
+贵州正在大力发展大数据产业。这是很正确的方向，互联网产业对地理限制最不敏感。 我推荐，程序员可以考虑去贵州远程开发。 有这样几条理由：（1）网络条件很好，无线信号全覆盖；（2）优质的环境和空气，玩的地方多；（3）地处云贵高原，夏天气温不高，没有酷暑；（4）生活成本低，房价非常便宜。
+
+## loon network vs starlink net work story
+
+[气球宽带](https://interestingengineering.com/alphabets-loon-balloon-breaks-record-by-spending-312-days-in-the-stratosphere)
+
+![](https://www.wangbase.com/blogimg/asset/202010/bg2020103004.jpg)
+
+![](https://www.wangbase.com/blogimg/asset/202010/bg2020103003.jpg)
+
+为了让边远地区的人们可以上网，SpaceX 公司的方案是卫星宽度（StarLink 计划），谷歌公司则另辟蹊径，提供气球宽带的方案，项目叫做 Loon。最近，这个项目取得了重大进展，有一只气球在空中停留312天，打破了世界记录。
+
+这只气球在美国加州放飞，然后飞到南美洲，接着飞过了大西洋，然后又飞过太平洋，最后在墨西哥降落。下图是它的飞行路线。
+
+![](https://www.wangbase.com/blogimg/asset/202010/bg2020103005.jpg)
+
+这种大型气球停留在距地面18公里～25公里的平流层，那里几乎没有垂直的气流，所以气球可以保持在固定高度，为下方80公里的区域提供稳定的互联网服务。遇到水平方向的大风时，气球会自动上升或下降，避开大风。气球的动力完全来自太阳能。
+
+## beautiful transcolor dragon chameleon story
+
+[科学家](https://www.goodnewsnetwork.org/rare-chameleon-rediscovered-in-hotel-garden/)在马达加斯加岛发现了一种消失了106年的变色龙，上一次见到这个物种还是在1913年。这种变色龙安静时是绿色的，但是在生气或交配时，就会呈现白、黑、靛蓝的条纹色，并出现三个红色斑点。
+
+![](https://www.wangbase.com/blogimg/asset/202011/bg2020110413.jpg)
+
+![](https://www.wangbase.com/blogimg/asset/202011/bg2020110414.jpg)
+
+## photoshop ai filters tech
+
+[Photoshop 的 AI 滤镜](https://www.jiqizhixin.com/articles/2020-10-23-8)（中文）
+
+![](https://www.wangbase.com/blogimg/asset/202011/bg2020110705.jpg)
+
+Photoshop 22.0 版推出了一个新的滤镜包----Neural Filters，实现了很多 AI 论文的研究成果，包括老照片上色、换表情、修改年龄、提升画质、普通图像一键变梵高风格等。
+
+## interesting 100 dollars iphone x story
+
+[100美元的 iPhone X](https://www.vice.com/en/article/qvmkdd/counterfeit-iphone-x-review-and-teardown)（英文）
+
+![](https://www.wangbase.com/blogimg/asset/202011/bg2020110902.jpg)
+
+![](https://www.wangbase.com/blogimg/asset/202011/bg2020110901.jpg)
+
+2018年的文章。一个美国记者在深圳买到100美元的 iPhone X，实际是一台装了 iPhone 皮肤的低端安卓机，但真的很像苹果手机，尤其是有 Lightning 充电口。经过拆解，除了一些可以想到的问题（比如预装了恶意软件），作者对它的评价不完全是负面，而是 interesting（有趣）。
+
+## using face detection power built in chrome guidde
+
+[浏览器的人脸检测能力](https://ckeditor.com/blog/How-to-detect-human-faces-and-other-shapes-in-JavaScript/)（英文）
+
+![](https://www.wangbase.com/blogimg/asset/202011/bg2020110601.jpg)
+
+Chrome 浏览器已经支持 Shape Detection API，直接调用这个 API，不用加载任何外部库，就可以通过浏览器识别人脸和二维码。
+
+## friendly captcha web app
+
+[Friendly Challenge](https://github.com/FriendlyCaptcha/friendly-challenge)
+
+一个实验性的 Captcha （人类用户识别）开源实现。
+
+传统的人类用户识别，一般都是图像识别。这个工具另辟蹊径，在用户计算机上执行一个计算难题，考验机器的计算能力，脚本机器人一般都不会有真实客户端的计算能力。它的好处是根本不需要用户参与。
+
+## the best resume for elon musk theory
+
+发送简历时，请说明你解决的一些最困难的问题，以及你如何解决这些问题。
+
+-- [马斯克（Elon Musk）](https://twitter.com/elonmusk/status/1324736076800577537)谈他希望看到的简历。
+
+![](https://www.wangbase.com/blogimg/asset/202011/bg2020110701.jpg)
+
+(the original)
+
+When sending your resume, please describe a few of the hardest problems you solved & exactly how you solved them
+
+3:31 PM · Nov 6, 2020
+
 ## 
 

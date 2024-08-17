@@ -133,12 +133,11 @@
   - yixi (yixi)
 - 
   - adhesion tek
-  - chen zihao
+  - chenbimo
   - coding startup
   - diygod
   - edmund d zhang
   - forever naive taffy
-  - gao zixiang
   - interpreter gavin
   - longbow flintlock
   - my sister is just that kawaii
@@ -152,7 +151,6 @@
   - tail tail desu
   - unfettered idle man
   - wanderer brawlstars
-  - yicode chensuiyi
 -
   - zhang chuanzhi
   - chen shiyu
@@ -223,8 +221,8 @@
   - dribbble
   - growth.design
   - design.google
-  - william long
   - codingnow
+  - william long
   - iconmoon
   - windliang
   - livid

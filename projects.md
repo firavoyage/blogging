@@ -49,6 +49,7 @@
   - slidev
   - fusuma
   - nodeppt
+  - presenta
 
 ### `board`
 
@@ -126,6 +127,7 @@
   - canva
   - snapseed
   - zzkia
+  - svg path editor
 
 ### `crickets`
 
@@ -623,9 +625,10 @@ for(i arr j brr){A} //for(let __fs_i=0,i=arr[__fs_i],j=brr[__fs_i];__fs_i<arr.le
   - see voyagejs/readme
 - inspired by
   - alpinejs
-  - mithriljs
   - sveltejs
+  - vuejs
   - reactjs
+  - codingstartup | counter app in jquery vue and react
 
 ### `fresh`
 
@@ -644,6 +647,12 @@ for(i arr j brr){A} //for(let __fs_i=0,i=arr[__fs_i],j=brr[__fs_i];__fs_i<arr.le
 - snapcat
 - zoombie
 - ganstagram
+- anyphone
+  - iphone os
+  - pixel experience
+  - smartisan os
+  - flyme
+  - h2 os
 - various themes
   - by voyage
 
