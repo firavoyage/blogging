@@ -1694,5 +1694,14 @@ voyagejs
 
 **only one code block is not collapsed each time**
 
+## 20240818
+
+shanghai disneyland.
+上海人会玩。
+室内排队，搭个漫展大棚，四周立个空调16c
+人多地方的都限流，没有人挤人的说法，除了烟火秀，只有一场，不能分批
+
+21:43
+晚上.玩一整天.
 
 

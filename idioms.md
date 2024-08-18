@@ -99,7 +99,7 @@ good luck and have fun.
 想当年,在深圳见到你,也是这个发型.
 (-> lciop 黄成辉)
 
-站在岸边看帆船(翻船)
+游致水源清澈处，站在岸边看帆船(翻船)
 
 脱口秀/辩论能更好地回应这个世界
 
@@ -317,4 +317,8 @@ thunder bt in china
 - chinese users
   - download from all
   - in most cases can not upload
+
+小鲨鱼，你可以吃棒棒糖
+云璃，你可以吃琼实鸟串
+
 

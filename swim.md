@@ -1,10 +1,8 @@
 # swim libre
 
-## intro
+## en
 
 > if you are not in the world, connect the world!
-
-## how
 
 - bing search "github mirrors"
 - open one github mirror available
@@ -13,16 +11,14 @@
 - follow the instructions on readme.md
 - done.
 
-## 你来了 
+## zh
 
 > 如果你活在世外, 连接世界!
 
-## 然后呢
-
-- bing search "github 镜像"
+- bing 搜索 "github 镜像"
 - 打开一个可用镜像
-- github search "节点"
-- 打开几个页面
+- github 搜索 "节点"
+- 点开几个链接
 - 跟着readme.md上的提示干
 - 搞定.
 

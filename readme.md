@@ -27,8 +27,8 @@
   - potted plant
   - camphor wood
   - dark style & night light
-  - pure math and oi algorithms
-  - intuitive web dev
+  - math and algorithms (pure)
+  - web dev (intuitive)
 -
   - wind of change (scorpions)
   - scarborough fair (sarah brightman)
@@ -134,29 +134,29 @@
   - yixi (yixi)
 - 
   - adhesion tek
+  - chen shiyu
   - chensuiyi yicode
   - coding startup
   - diygod
   - edmund d zhang
   - forever naive taffy
   - interpreter gavin
+  - jiang zhijun
   - longbow flintlock
   - my sister is just that kawaii
   - new national debation
   - nicholas wei bro
   - nova lciop
   - old bai sleepwalked
+  - old skilled tofu
   - orient snowy lotus
   - paperclip
   - spicy pidan porridge
   - tail tail desu
   - unfettered idle man
   - wanderer brawlstars
--
-  - zhang chuanzhi
-  - chen shiyu
   - wang zhaohai
-  - jiang zhijun
+  - zhang chuanzhi
 -
   - kasugano sora
   - herta
@@ -210,34 +210,34 @@
   - codepen spark
   - reddit old (reddit new) (reddit)
   - v2ex creative
+  - bangumi
   - nga bbs
-  - bangumi.tv
   - zhihu
   - pixiv monthly
+  - oi wiki
+  - leetcode
   - codeforces
   - luogu
-  - leetcode
-  - oi wiki
   - product hunt
   - dribbble
-  - growth.design
-  - design.google
-  - codingnow
-  - william long
-  - iconmoon
-  - windliang
-  - livid
   - chyk kirikaze chiyuki
-  - paulg paul graham
-  - tim qian
+  - codingnow
   - fabrice bellard
+  - growth.design
+  - iconmoon
   - james sinclair
-  - rodrigo pombo
-  - overreacted dan abramov
+  - livid
   - naval
+  - overreacted dan abramov
+  - paulg paul graham
+  - rodrigo pombo
+  - tim qian
+  - william long
+  - windliang
 -
   - iphone os 4
   - ubuntu yaru
+  - material design 3
   - dracula theme
   - one dark pro darker
   - monokai classic

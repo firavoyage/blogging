@@ -45,6 +45,10 @@
   - cover for header 1
   - toc pages for header 2 with the current one highlighted
   - footer for page index,author and date
+- export
+  - to pdf
+  - to ppt
+  - to html
 - inspired by
   - slidev
   - fusuma
