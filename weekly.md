@@ -11,8 +11,8 @@
 
 > summer vacation day
 
-- make sr styled component library in voyagejs (-> /voyagejs)
-- implement pre project (-> /pre)
+- make zzz styled component library in voyagejs (-> /voyagejs)
+- implement pre project with zzz components (-> /pre)
 - make pure math videos for hs g1t1 (-> /pure)
 - write intuitive web dev guide (-> /intuitive)
 

@@ -20,15 +20,15 @@
   - cocacola
   - lays crisps original
   - burgerking french fries
-  - preserved plum & preserved peel
+  - preserved plum & chenpi
   - ruby chocolate popsicle
   - tea egg
   - life size waifu pillow
   - potted plant
   - camphor wood
-  - mini cooper
-  - pure noskill math
-  - intuitive web app
+  - dark style & night light
+  - pure math and oi algorithms
+  - intuitive web dev
 -
   - wind of change (scorpions)
   - scarborough fair (sarah brightman)
@@ -58,6 +58,7 @@
   - the knockout (2023)
   - .evangelion (1995)
   - .bang dream! it's mygo!!!!! (2023)
+  - _girls band cry (2024)
   - _bocchi the rock (2022)
   - _frieren: beyond journey's end (2023)
   - _oshi no ko (2023)
@@ -133,7 +134,7 @@
   - yixi (yixi)
 - 
   - adhesion tek
-  - chenbimo
+  - chensuiyi yicode
   - coding startup
   - diygod
   - edmund d zhang

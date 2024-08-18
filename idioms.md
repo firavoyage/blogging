@@ -295,7 +295,26 @@ cpp 是非常优秀的语言,可惜内置的语法糖比较少
 
 什么是定义辩论?
 内卷是真问题/假问题.
-真问题:找到一种真问题,定义为内卷,详细分析其为何"真"
-假问题:找到一种假问题,定义为内卷,详细分析其为何"假"
+真问题:找到一种和内卷沾边的真问题,定义为内卷,详细分析其为何"真"
+假问题:找到一种和内卷沾边的假问题,定义为内卷,详细分析其为何"假"
 说的都不是同一种"内卷".也没有冲突与交锋.
+
+与ai chatbot对话
+每个单词,只打前3或者前4个字母就行了
+
+vue school does not support china
+hhh
+
+thunder bt in china
+- 主流bt dl apps(qbitorrent,transmission)
+  - 所有人下载来源于所有人
+  - 所有人上传提供给所有人
+- thunder bt
+  - 迅雷用户下载来源于所有人
+  - 迅雷用户上传仅提供给迅雷用户
+  - 这不是好事,不过没关系,迅雷用户大多是简中用户,没有公网ip,没法上传
+  - 用公网ip的,网络圣佛,通常了解迅雷行为,使用主流bt dl apps
+- chinese users
+  - download from all
+  - in most cases can not upload
 
