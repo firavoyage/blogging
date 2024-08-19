@@ -2,7 +2,7 @@
 
 > 🌕 💤 before 23:00!
 
-## 20240818
+## 20240819
 
 > summer vacation daily
 
@@ -11,21 +11,25 @@
 
 > summer vacation day
 
-- make zzz styled component library in voyagejs (-> /voyagejs)
-- implement pre project with zzz components (-> /pre)
+- add features to voyagejs (-> /voyagejs)
+- make sr styled component library in voyagejs (-> /voyagejs)
+- implement pre project with sr components (-> /pre)
 - make pure math videos for hs g1t1 (-> /pure)
 - write intuitive web dev guide (-> /intuitive)
 
 > summer vacation night
 
+- read ruanyf weekly (-> ruanyf)
+- watch bangumis ("yosuga no sora" "mygo")
+- watch simplelive
+- sleep before 1:00
+
+> summer vacation spare time
+
 - revise projects (structured & detailed & inspired by)
 - classify web (by tag)
 - classify memories (by tag)
 - redesign fav (trim and move)
-- read ruanyf weekly (-> ruanyf)
-- play rpgs (hg)
-- watch bangumis ("yosuga no sora" "mygo")
-- watch simplelive
 
 > school life
 

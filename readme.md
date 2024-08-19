@@ -25,10 +25,10 @@
   - tea egg
   - life size waifu pillow
   - potted plant
-  - camphor wood
+  - functional programming
   - dark style & night light
-  - math and algorithms (pure)
-  - web dev (intuitive)
+  - math and algorithms
+  - web dev
 -
   - wind of change (scorpions)
   - scarborough fair (sarah brightman)
@@ -134,29 +134,44 @@
   - yixi (yixi)
 - 
   - adhesion tek
+  - blue striped rabbit
   - chen shiyu
+  - chen zihao
   - chensuiyi yicode
   - coding startup
   - diygod
+  - east gray bar
   - edmund d zhang
   - forever naive taffy
+  - geek bay
   - interpreter gavin
   - jiang zhijun
+  - jiangly beyond dd
   - longbow flintlock
+  - memoir of propery
   - my sister is just that kawaii
   - new national debation
   - nicholas wei bro
   - nova lciop
   - old bai sleepwalked
+  - old ocean tubber
   - old skilled tofu
+  - one math
   - orient snowy lotus
   - paperclip
+  - postpunk singer zongzi
+  - promise of playboy
+  - share 121
   - spicy pidan porridge
+  - spicy porridge
+  - stray digital
   - tail tail desu
   - unfettered idle man
   - wanderer brawlstars
   - wang zhaohai
+  - xiaogu math
   - zhang chuanzhi
+  - zju su dekuang
 -
   - kasugano sora
   - herta
@@ -320,6 +335,8 @@
   - build early, build always. 
   - improve yourself, write solid/simple/stupid code. 
   - move fast and break things.
+  - live in the future and build what's missing.
+  - good luck and have fun.
 - reading is active while watching tv is passive
   - all the research says reading a book is good for you.
   - it reduces stress, promotes comprehension, relieves depression, helps you sleep and may contribute to preventing alzheimer's.
@@ -329,10 +346,9 @@
   - tv takes all that good imagination away.
 - world is powered by solitude.
   - gravitated and spellbound
-  - beautifully advance
   - do have faith in what you are doing
-  - live in the future and build what's missing
-  - life is a long-plank game
+  - beautifully advance
+- life is a long-plank game
   - character is destiny
 - tell me, and i will forget.
   - show me, and i may remember.

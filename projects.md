@@ -236,6 +236,10 @@
   - all blog posts are downloaded local
   - you can read some anywhere anytime
   - downloads and subscriptions can be imported and exported
+- export
+  - json eat
+  - json feed
+  - rss
 - inspired by
   - google reader
   - net news wire
@@ -619,20 +623,21 @@ for(i arr j brr){A} //for(let __fs_i=0,i=arr[__fs_i],j=brr[__fs_i];__fs_i<arr.le
 
 ### `voyagejs`
 
-> web framework can be heavy and not heavy
+> web framework can be simple
 
 > -> /voyagejs
 
 - features
-  - see voyagejs/readme
+  - simple and light weight
+  - intuitive and no vitual dom
+  - various themes
 - examples
-  - see voyagejs/readme
+  - see unit tests
 - inspired by
   - alpinejs
   - sveltejs
   - vuejs
   - reactjs
-  - codingstartup | counter app in jquery vue and react
 
 ### `fresh`
 

@@ -87,8 +87,6 @@ loli 有三好,身轻体柔易推倒
 
 so much for this have a nice day.
 
-good luck and have fun.
-
 想通过印刷钞票来消灭贫穷，就像是通过颁发毕业证书来消除文盲。
 
 男主没脸,女主危险.
@@ -321,4 +319,13 @@ thunder bt in china
 小鲨鱼，你可以吃棒棒糖
 云璃，你可以吃琼实鸟串
 
+why fp sucks
+我有一个字符串,只想要修改一个字.
+oop,调用字符串的方法,在原来的字符串修改那个字.
+fp,创建一整个新字符串,覆盖原来的字符串.
+overkilled?
+
+good luck and have fun.
+
+good game well played
 
