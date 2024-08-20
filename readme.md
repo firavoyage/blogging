@@ -200,15 +200,6 @@
   - ubuntu sans
   - zhi mang xing
 -
-  - ubuntu 24
-  - android 11
-  - chromium 124
-  - firefox 124
-  - code 1.89
-  - git 2.43
-  - fcitx 5.1.7
-  - wine 9.0
--
   - wikipedia
   - internet archive
   - the pirate bay
@@ -249,19 +240,32 @@
   - william long
   - windliang
 -
-  - dracula theme official
-  - atom one dark theme
+  - ubuntu 24
+  - android 11
+  - chromium 124
+  - firefox 124
+  - code 1.91.2
+  - git 2.43
+  - fcitx 5.1.7
+  - wine 9.0
+  - material design 2
+  - material design 3
+  - smartisan os 8
+  - iphone os 6
+  - iphone os 8
+  - iphone os 11
+-
+  - ubuntu yaru
+  - dracula theme
+  - atom one dark
   - nord
   - monokai pro
-  - ubuntu yaru
-  - material design 3
-  - iphone os 4
--
-  - fitten code
-  - code geex
   - eslint
   - prettier
   - code runner
+  - fold vscode
+  - fitten code
+  - code geex
 -
   - antennapod
   - bilimiao

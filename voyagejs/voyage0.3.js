@@ -282,8 +282,6 @@ let voyage = {
       if (hasState(nodeid, "if")) {
         if (get(getState(nodeid, "if"))) {
           runContents(node, contents);
-        } else {
-          //do not run contents
         }
       } else {
         runContents(node, contents);
@@ -493,8 +491,6 @@ let unitTests = {
 unitTests.counter();
 
 //todo
-//no more create in create
-//use array by default
 //id class and attr in tag
 //first is tag and second is obj arr or obj or arr
 
