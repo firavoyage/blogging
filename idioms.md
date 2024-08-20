@@ -329,3 +329,6 @@ good luck and have fun.
 
 good game well played
 
+我打算法竞赛的时候,字符串哈希就是把字符串每个字符加在一起.
+然而cpp is not battery included.wtf.now i am javascript.
+

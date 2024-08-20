@@ -259,7 +259,7 @@
 -
   - fitten code
   - code geex
-  - es lint
+  - eslint
   - prettier
   - code runner
 -

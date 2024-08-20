@@ -1,5 +1,5 @@
-//20240817
-//voyagejs 0.2
+//20240820
+//voyagejs 0.3
 
 let log = console.log;
 
@@ -61,10 +61,58 @@ let voyage = {
   isFunction(obj) {
     return obj instanceof Function;
   },
-  create(type, labels, contents, binds, methods, states) {
-    //create element
-    let element = { type, labels, contents, binds, methods, states };
+  //from [type,labels{},contents[],binds{key:method},states{key:value}]
+  create(from) {
+    let { isArray, isObject, createContents } = voyage;
+    let [a, b, c, d, e] = from; //five options
+    let type,
+      labels = {},
+      contents = [],
+      binds = [],
+      states = [];
+    if (!a) {
+      //nothing given
+      type = "div";
+    } else if (!b) {
+      //only type given
+      type = a;
+    } else if (isArray(b)) {
+      //type and contents given and contents is children
+      type = a;
+      labels = {};
+      contents = createContents(b);
+      binds = c || {};
+      states = d || {};
+    } else if (isObject(b)) {
+      //type and labels given
+      type = a;
+      labels = b;
+      if (isArray(c)) {
+        //contents
+        contents = createContents(c);
+      } else {
+        contents = c || [];
+      }
+      binds = d || {};
+      states = e || {};
+    } else {
+      //type and contents given and contents is text node
+      type = a;
+      labels = {};
+      contents = b || [];
+      binds = c || {};
+      states = d || {};
+    }
+    let element = { type, labels, contents, binds, states };
     return element;
+  },
+  createContents(children) {
+    let { create } = voyage;
+    let result = [];
+    for (let child of children) {
+      result.push(create(child));
+    }
+    return result;
   },
   //data storage
   data: {}, //[key] -> value
@@ -130,7 +178,7 @@ let voyage = {
   //way {element,data,where}
   go(way) {
     //init and run and append
-    let { init, run, select, setMethods } = voyage;
+    let { init, create, run, select, setMethods } = voyage;
     let { element, data, place, methods } = way;
     //set data
     if (data) {
@@ -141,7 +189,7 @@ let voyage = {
       setMethods(methods);
     }
     let parent = select(place);
-    parent.append(run(element));
+    parent.append(run(create(element)));
   },
   run(element) {
     //render element to node
@@ -150,24 +198,17 @@ let voyage = {
     let { count } = voyage;
     let { get, getState } = voyage;
     let { runContents } = voyage;
-    let { setMethods, setBind, setState } = voyage;
-    let { type, labels, contents, binds, methods, states } = element;
+    let { setBind, setStates } = voyage;
+    let { type, labels, contents, binds, states } = element;
     //create element
     type = type || "div";
     let node = document.createElement(type);
     //set nodeid
     let nodeid = count("node");
     node.setAttribute("nodeid", nodeid);
-    //set methods
-    if (methods) {
-      setMethods(methods);
-    }
     //set states
     if (states) {
-      let { nodes } = voyage;
-      for (let stateName in states) {
-        nodes[nodeid][stateName] = states[stateName];
-      }
+      setStates(nodeid, states);
     }
     //set binds
     if (binds) {
@@ -220,8 +261,8 @@ let voyage = {
             function () {
               //run children or not
               let key = labels[labelName];
-              setState(nodeid, "if", key);
-              setState(nodeid, "contents", contents);
+              setStates(nodeid, { if: key });
+              setStates(nodeid, { contents: contents });
               setBind(key, nodeid, "if");
             },
           ],
@@ -292,11 +333,6 @@ let voyage = {
     let { has, map } = voyage;
     return has(map, key);
   },
-  hasRemoval(nodeid) {
-    //has(removal,nodeid)
-    let { has, removal } = voyage;
-    return has(removal, nodeid);
-  },
   set(key, newValue) {
     //set data and call binds
     let { is, get, hasBind, getBindedMethods, getBindedNodes, call } = voyage;
@@ -323,28 +359,15 @@ let voyage = {
     let { lib } = voyage;
     lib[method](nodeid, newValue, oldValue);
   },
-  setMethod(methodName, method) {
-    //lib[methodName]=method
-    let { lib } = voyage;
-    if (lib[methodName]) {
-      //already defined
-    } else {
-      //define method
-      lib[methodName] = method;
-    }
-  },
   setMethods(methods) {
     //for methods setMethod
-    let { setMethod } = voyage;
-    for (let methodName in methods) {
-      setMethod(methodName, methods[methodName]);
-    }
+    let { lib } = voyage;
+    Object.assign(lib, methods);
   },
-  setState(nodeid, stateName, state) {
-    //nodes[nodeid][stateName]=state
+  setStates(nodeid, states) {
     let { nodes } = voyage;
     nodes[nodeid] = nodes[nodeid] || {};
-    nodes[nodeid][stateName] = state;
+    nodes[nodeid] = { ...nodes[nodeid], ...states };
   },
   setBind(key, nodeid, bind) {
     //map[key][nodeid].push(bind);
@@ -400,29 +423,34 @@ let voyage = {
     let value = node.value;
     return value;
   },
-  removeBind(key, nodeid) {
-    let { map, remove } = voyage;
-    remove(map[key], nodeid);
-  },
   removeAllBinds(nodeid) {
+    let { map, remove } = voyage;
+    let { removal, has } = voyage;
     //for removal removeBind(key,nodeid)
-    let { removal, hasRemoval, removeBind } = voyage;
-    if (hasRemoval(nodeid)) {
+    if (has(removal, nodeid)) {
       for (let key of removal[nodeid]) {
-        removeBind(key, nodeid);
+        remove(map[key], nodeid);
       }
+    }
+  },
+  removeAllStates(nodeid) {
+    //for removal removeBind(key,nodeid)
+    let { nodes, has, remove } = voyage;
+    if (has(nodes, nodeid)) {
+      remove(nodes, nodeid);
     }
   },
   removeAllChildren(node) {
     let { toArray } = voyage;
     let { getNodeid } = voyage;
-    let { removeAllBinds, removeAllChildren } = voyage;
+    let { removeAllBinds, removeAllStates, removeAllChildren } = voyage;
     for (let child of toArray(node.children)) {
       //recursively remove all children
       removeAllChildren(child);
-      //remove binds of the child
+      //remove binds and states of the child
       let nodeid = getNodeid(child);
       removeAllBinds(nodeid);
+      removeAllStates(nodeid);
       //remove the child itself
       child.remove();
     }
@@ -437,64 +465,18 @@ let voyage = {
 //examples
 let unitTests = {
   counter() {
-    let inc = function () {
-      voyage.set("count", voyage.get("count") + 1);
-    };
-    let counter = voyage.create(
-      "div",
-      { "@click": "inc" },
-      "",
-      { count: "text" },
-      { inc }
-    );
-    document.body.append(voyage.run(counter));
-    voyage.set("count", 0o0721);
-  },
-  input() {
-    let { parseInt: toInt } = window;
-    let inc = function () {
-      voyage.set("count", toInt(voyage.get("count")) + 1);
-    };
-    let dec = function () {
-      voyage.set("count", toInt(voyage.get("count")) - 1);
-    };
-    let container = voyage.create("div", { id: "container" }, [
-      voyage.create("button", { "@click": "inc" }, "+", "", { inc }),
-      voyage.create("input", { type: "text", $model: "count" }),
-      voyage.create("button", { "@click": "dec" }, "-", "", { dec }),
-    ]);
-    document.body.append(voyage.run(container));
-    voyage.set("count", 0o0721);
-  },
-  go() {
     let { parseInt: toInt } = window;
     voyage.go({
-      element: voyage.create("div", { id: "container" }, [
-        voyage.create("button", { "@click": "inc" }, "+", ""),
-        voyage.create("input", { type: "text", $model: "count" }),
-        voyage.create("button", { "@click": "dec" }, "-", ""),
-      ]),
+      element: [
+        "div",
+        { id: "container" },
+        [
+          ["button", { "@click": "inc" }, "+"],
+          ["input", { type: "text", $model: "count" }],
+          ["button", { "@click": "dec" }, "-"],
+        ],
+      ],
       data: { count: 0o0721 },
-      place: "body",
-      methods: {
-        inc() {
-          voyage.set("count", toInt(voyage.get("count")) + 1);
-        },
-        dec() {
-          voyage.set("count", toInt(voyage.get("count")) - 1);
-        },
-      },
-    });
-  },
-  if() {
-    let { parseInt: toInt } = window;
-    voyage.go({
-      element: voyage.create("div", { id: "container", $if: "display" }, [
-        voyage.create("button", { "@click": "inc" }, "+", ""),
-        voyage.create("input", { type: "text", $model: "count" }),
-        voyage.create("button", { "@click": "dec" }, "-", ""),
-      ]),
-      data: { count: 0o0721, display: 1 },
       place: "body",
       methods: {
         inc() {
@@ -508,4 +490,12 @@ let unitTests = {
   },
 };
 
-unitTests.if();
+unitTests.counter();
+
+//todo
+//no more create in create
+//use array by default
+//id class and attr in tag
+//first is tag and second is obj arr or obj or arr
+
+//custom component like counter

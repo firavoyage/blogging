@@ -1744,3 +1744,6 @@ disabled.
 best of today
 **for in and for of in js**
 
+best of today
+**code extension auto-collapse-blocks**
+
