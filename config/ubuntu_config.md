@@ -268,9 +268,10 @@ sudo apt-get install code
   - one dark pro
   - monokai pro
 - install extensions
+  - code geex
+  - fitten code
   - eslint
   - prettier
-  - javascript (es6) code snippets
   - code runner
     - run in terminal `on`
     - auto focus terminal `on`

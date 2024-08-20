@@ -161,7 +161,6 @@
   - paperclip
   - postpunk singer zongzi
   - promise of playboy
-  - share 121
   - spicy pidan porridge
   - spicy porridge
   - stray digital
@@ -186,18 +185,18 @@
   - dejavu serif
   - fira code
   - fira sans
-  - free sans
   - fz kaiti
   - google product sans
   - han wang shin su
   - han wang yan kai
+  - helvetica
+  - helvetica neue
   - inconsolata
   - lato
   - noto sans cjk sc
   - noto serif cjk sc
   - resource han rounded cn
   - roboto
-  - rounded mplus
   - ubuntu sans
   - zhi mang xing
 -
@@ -250,12 +249,19 @@
   - william long
   - windliang
 -
-  - iphone os 4
+  - dracula theme official
+  - atom one dark theme
+  - nord
+  - monokai pro
   - ubuntu yaru
   - material design 3
-  - dracula theme
-  - one dark pro darker
-  - monokai classic
+  - iphone os 4
+-
+  - fitten code
+  - code geex
+  - es lint
+  - prettier
+  - code runner
 -
   - antennapod
   - bilimiao

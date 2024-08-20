@@ -1733,5 +1733,14 @@ zootopia的主题曲,和"每个动物都可以发挥生性."不错.
 好困啊
 今晚要早睡啊.
 
+## 20240820
 
+install
+- fitten code
+- code geex
+看上去效果不错.然而风扇一直转...
+disabled.
+
+best of today
+**for in and for of in js**
 

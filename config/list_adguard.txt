@@ -1,0 +1,143 @@
+gitee.com###git-header-nav > div.ui.container > div.ui.menu.header-menu.header-container > a.item:nth-child(5)
+gitee.com###project-settings > div.four.wide.column:first-child > div.ui.styled.accordion:first-child > div.title.single_title.toschina-content__hidden:nth-child(3) > a.item > div.ui.label.mini.red.limit_time
+gitee.com###notice-dropdown
+gitee.com##div.side-toolbar:nth-child(19)
+gitee.com###git-header-nav > div.ui.container > div.ui.menu.header-menu.header-container > div.item.gitosc-logo:nth-child(3)
+gitee.com###project-settings > div.twelve.wide.column:last-child > div.project-setting__mirrors:nth-child(2) > h3.ui.header.dividing.project-setting-header:first-child > span:first-child > span.ui.mini.label.red.limit_time
+gitee.com###git-bulletin
+gitee.com###tree-holder > div.project__footer-container:nth-child(2)
+gitee.com###git-footer-main
+gitee.com##div.side-toolbar:nth-child(18)
+gitee.com##div.side-toolbar:nth-child(18)
+blog.csdn.net###remuneration > img
+blog.csdn.net##div.passport-login-tip-container.false:nth-child(50)
+blog.csdn.net##div:nth-child(49)
+blog.csdn.net###csdn-toolbar > div.toolbar-inside.exp3 > div.toolbar-container > div.toolbar-container-right:last-child > div.toolbar-btns.onlyUser > div.toolbar-btn.toolbar-btn-mp.csdn-toolbar-fl:nth-child(5) > div.csdn-toolbar-creative-mp:last-child
+blog.csdn.net###csdn-toolbar > div.toolbar-inside.exp3 > div.toolbar-container > div.toolbar-container-left:first-child > ul.toolbar-menus.csdn-toolbar-fl:last-child
+blog.csdn.net###csdn-toolbar > div.toolbar-inside.exp3 > div.toolbar-container > div.toolbar-container-middle:nth-child(2)
+blog.csdn.net###asideNewNps
+blog.csdn.net###asideProfile
+blog.csdn.net##div.passport-login-container:last-child
+blog.csdn.net##div:nth-child(51)
+blog.csdn.net##div.passport-login-tip-container.false
+blog.csdn.net###toolBarBox
+blog.csdn.net###treeSkill
+blog.csdn.net###mainBox > main:nth-child(2) > div.recommend-box.insert-baidu-box.recommend-box-style:nth-child(14)
+blog.csdn.net###mainBox > main:nth-child(2) > div.blog-footer-bottom:nth-child(16)
+blog.csdn.net###recommendNps
+blog.csdn.net##div:nth-child(52)
+blog.csdn.net##div:nth-child(50)
+blog.csdn.net##div:nth-child(50)
+blog.csdn.net###csdn-toolbar > div.toolbar-inside.exp3 > div.toolbar-container > div.toolbar-container-left:first-child
+bilibili.com##div.desktop-download-tip:nth-child(17)
+space.bilibili.com###biliMainHeader > div.bili-header > div.bili-header__bar.mini-header > ul.left-entry:first-child > li.v-popover-wrap:last-child > a.download-entry.download-client-trigger
+space.bilibili.com###biliMainHeader > div.bili-header > div.bili-header__bar.mini-header > ul.right-entry:last-child > div.vip-wrap:nth-child(2)
+space.bilibili.com###page-fav > div.col-full.clearfix.master:first-child > div.fav-sidenav:first-child > div.nav-container.playlist-container:nth-child(2)
+space.bilibili.com###page-fav > div.col-full.clearfix.master:first-child > div.fav-sidenav:first-child > a.watch-later:last-child
+bilibili.com###biliMainHeader > div.bili-header.fixed-header > div.bili-header__bar.mini-header > ul.left-entry:first-child > li.v-popover-wrap:last-child
+bilibili.com###biliMainHeader > div.bili-header.fixed-header > div.bili-header__bar.mini-header > ul.left-entry:first-child > li.v-popover-wrap.left-loc-entry:nth-child(9) > div
+bilibili.com###biliMainHeader > div.bili-header.fixed-header > div.bili-header__bar.mini-header > ul.right-entry:last-child > div.vip-wrap:nth-child(2)
+bilibili.com###biliMainHeader > div.bili-header.fixed-header > div.bili-header__bar.mini-header > ul.left-entry:first-child > li.v-popover-wrap.left-loc-entry:nth-child(8)
+gitee.com###__next > div.flex.min-h-screen.flex-col:first-child > div.ant-alert.ant-alert-info.ant-alert-with-description.ant-alert-no-icon.rounded-none.border.border-gray-200.bg-green-50.bg-opacity-50.px-8.py-4.text-center:nth-child(2)
+gitee.com###__next > div.fixed.right-5.bottom-32.z-40.md\:hidden:nth-child(2)
+luogu.com.cn###app-old > div.lg-index-content.am-center:nth-child(2) > div.am-g:first-child > div.am-u-md-12 > div.lg-article > div.am-g > div.am-u-md-8:first-child
+luogu.com.cn###app > div.main-container:last-child > div.wrapper.wrapped.lfe-body:last-child > div.footer:last-child > div.info:last-child
+luogu.com.cn###app > div.main-container:last-child > div.wrapper.wrapped.lfe-body:last-child > div.footer:last-child > img.qr-img:nth-child(3)
+zhihu.com##div:last-child > div > div.css-1wq6v87
+zhihu.com###root > div > main.App-main:nth-child(4) > div > div.Profile-main:last-child > div.Profile-sideColumn.css-1qyytj7:last-child > div:last-child > footer.css-2pfapc:last-child
+zhuanlan.zhihu.com##div.css-yoby3j
+zhuanlan.zhihu.com###root > div.App > main.App-main:nth-child(3) > div.Post-content > div.Post-Sub.Post-NormalSub:last-child > div.Recommendations-Main:last-child
+zhihu.com###root > div > main.App-main:nth-child(4) > div > div.QuestionPage > div.Question-main:last-child > div.Question-sideColumn.Question-sideColumn--sticky.css-1qyytj7:last-child > div:last-child > footer.css-2pfapc:last-child
+zhihu.com###root > div > main.App-main:nth-child(4) > div > div.QuestionPage > div.Question-main:last-child > div.ListShortcut:first-child > div.Question-mainColumn > div.Question-mainColumnLogin:first-child
+luogu.com.cn###app > div.main-container:nth-child(3) > main.wrapped.lfe-body.mobile-body:nth-child(2) > div.full-container > div.full-container:last-child > section.side:first-child > div:last-child
+luogu.com.cn###app > div.main-container:nth-child(3) > div.wrapper.wrapped.lfe-body:last-child > div.footer:last-child > div.info:last-child
+luogu.com.cn###app > div.main-container:nth-child(3) > main.wrapped.lfe-body.mobile-body:nth-child(2) > div.full-container > section.side:first-child > div:last-child
+
+luogu.com.cn###app > div.main-container:nth-child(3) > main.wrapped.lfe-body.mobile-body:nth-child(2) > div.full-container > section.side:first-child > div.card.padding-default:nth-child(2)
+luogu.com.cn##div.swal2-container.swal2-center.swal2-fade.swal2-shown:last-child > div.swal2-popup.swal2-modal.swal2-show > div.swal2-header:first-child > img.swal2-image:nth-child(7)
+gitee.com##div.site-content:nth-child(8) > div.git-project-header:first-child > div.ui.container:nth-child(2) > div.git-project-header-details > div.git-project-header-container > h2.git-project-title.mt-0.mb-0:last-child > span.project-badges:nth-child(2)
+cn.bing.com###OverlayIFrame
+cn.bing.com###id_rh
+askubuntu.com###noscript-warning
+zhihu.com###root > div > div:nth-child(2) > header.Sticky.AppHeader.css-17rnw55 > div.AppHeader-inner.css-11p8nt5:first-child > div.AppHeader-userInfo:last-child > div:nth-child(2)
+app.mediafire.com##div.app-container:first-child > div > div:first-child > div:last-child > div > div > div.rxCustomScroll.rxCustomScrollV.active > div.scrollViewport.scrollViewportV:first-child > div > div:nth-child(2)
+app.mediafire.com##div.app-container:first-child > div > div:first-child > div:last-child > div > div > div.rxCustomScroll.rxCustomScrollV.active > div.scrollViewport.scrollViewportV:first-child > div > div:first-child > div:last-child
+app.mediafire.com###frame1
+gitee.com###__next > div.flex.min-h-screen.flex-col:first-child > main.flex.flex-1.flex-col.max-w-2k:last-child > div.flex.flex-1.sm\:flex-col > div.flex.min-w-0.flex-1.flex-col.justify-between.bg-\[\#FAFAFB\].sm\:w-full:last-child > div.flex.flex-1.justify-between:first-child > div.relative.w-68.pt-6.xl\:hidden:last-child
+gitee.com###__next > div.flex.min-h-screen.flex-col:first-child > header.sticky.inset-x-0.top-0.z-20.h-header.bg-gray-700.px-6.text-white.md\:px-3:first-child > div.flex.h-header.items-center.justify-between > nav.sm\:hidden:first-child > ul.mb-0.flex.items-center
+gitee.com###__next > div.flex.min-h-screen.flex-col:first-child > header.sticky.inset-x-0.top-0.z-20.h-header.bg-gray-700.px-6.text-white.md\:px-3:first-child > div.flex.h-header.items-center.justify-between > nav.flex.shrink-0.items-center.justify-end.sm\:hidden:nth-child(2) > ul.mb-0.contents > li.mx-3.flex-shrink-0.delay-300.first\:ml-0.last\:mr-0.md\:mx-2:nth-child(3)
+gitee.com###git-header-nav > div.ui.container > div.ui.menu.header-menu.header-container > a.item:nth-child(4)
+gitee.com###git-header-nav > div.ui.container > div.ui.menu.header-menu.header-container > a.item:nth-child(6)
+gitee.com###git-header-nav > div.ui.container > div.ui.menu.header-menu.header-container > a.item:nth-child(7)
+gitee.com###gitee-blog
+gitee.com###my-gitee-dropdown
+gitee.com###__next > div.flex.min-h-screen.flex-col:first-child > footer:last-child
+app.mediafire.com##div.app-container:first-child > div > div:first-child > div:last-child > div > div > div.rxCustomScroll.rxCustomScrollV.active > div.scrollViewport.scrollViewportV:first-child > div > div:first-child > div:nth-child(3)
+bilibili.com###i_cecream > div.bili-feed4:last-child > main.bili-feed4-layout:nth-child(3) > div.feed2:last-child > div.recommended-container_floor-aside > div.container.is-version8:first-child > div.recommended-swipe.grid-anchor:first-child > div.recommended-swipe-core
+luogu.com.cn##div.swal2-container.swal2-center.swal2-fade.swal2-shown:last-child > div.swal2-popup.swal2-modal.swal2-show
+luogu.com.cn##div.swal2-container.swal2-center.swal2-fade.swal2-shown:last-child
+blog.csdn.net###csdn-toolbar > div.toolbar-inside.exp3 > div.toolbar-container
+luogu.com.cn###app-old > div.lg-index-content.am-center:nth-child(2) > div.am-g:last-child > div.am-u-lg-3.am-u-md-4.lg-right:first-child > div.lg-article:first-child
+luogu.com.cn###app-old > div.lg-index-content.am-center:nth-child(2) > div.am-g:nth-child(2)
+blog.csdn.net##div:nth-child(54)
+search.bilibili.com###bili-header-container > div.bili-header > div.bili-header__bar.mini-header > ul.left-entry:first-child > li.v-popover-wrap:last-child > a.download-entry.download-client-trigger:first-child
+search.bilibili.com###bili-header-container > div.bili-header > div.bili-header__bar.mini-header > ul.right-entry:last-child > div.vip-wrap:nth-child(2)
+acwing.com###\31 024-activity-whole
+leetcode.cn###__next > div.w-full.bg-\[\#ffffff\].dark\:bg-\[\#1a1a1a\]:nth-child(2) > div.flex.min-h-screen.min-w-\[360px\].flex-col.text-label-1.dark\:text-dark-label-1 > div.mx-auto.w-full.grow.md\:mt-0.mt-\[50px\].flex.justify-center.overflow-hidden.p-0.md\:max-w-none.md\:p-0.lg\:max-w-none:nth-child(4) > div.flex.w-full.flex-col.gap-4.p-0 > div.flex.w-full.justify-center:last-child > div.flex.w-full.max-w-\[1020px\].gap-6.px-4 > div.lc-lg\:flex.hidden.h-full.w-\[286px\].flex-none.flex-col.gap-6.px-2:last-child
+wenshushu.cn###wenshushu > a.act-enter:last-child > img
+wenshushu.cn##div.layer:nth-child(8)
+wenshushu.cn##div.layer:nth-child(9)
+docsmall.com###app-main > div.modal-connection.show:nth-child(2)
+leetcode.cn###__next > div.flex.min-h-screen.min-w-\[360px\].flex-col.text-label-1.dark\:text-dark-label-1.bg-layer-bg.dark\:bg-dark-layer-bg:nth-child(2) > div.mx-auto.w-full.grow.p-4.md\:mt-0.md\:max-w-\[888px\].md\:p-6.lg\:max-w-screen-xl.mt-\[50px\]:nth-child(4) > div.lc-lg\:flex-row.lc-lg\:space-x-4.flex.flex-col.overflow-visible:last-child > div.z-overlay.lc-md\:right-\[30px\].lc-md\:bottom-\[31px\].fixed.bottom-4.right-4:last-child
+leetcode.cn###__next > div.flex.min-h-screen.min-w-\[360px\].flex-col.text-label-1.dark\:text-dark-label-1.bg-layer-bg.dark\:bg-dark-layer-bg:nth-child(2) > footer.mt-\[50px\].md\:mt-24.bg-dark-layer-bg.text-dark-label-2.flex.relative.min-w-\[320px\]:last-child
+leetcode.cn###__next > div.w-full.bg-\[\#ffffff\].dark\:bg-\[\#1a1a1a\]:nth-child(2) > div.flex.min-h-screen.min-w-\[360px\].flex-col.text-label-1.dark\:text-dark-label-1 > footer.mt-\[50px\].md\:mt-24.bg-dark-layer-bg.text-dark-label-2.flex.relative.min-w-\[320px\]:last-child
+leetcode.cn###\32 d318f42-f313-bd8c-e371-1edce52cd2e7 > div.flex.h-full.w-full.flex-col > div.flex.w-full.flex-1.flex-col.gap-4.overflow-y-auto.px-4.py-5:first-child > div.mt-6.flex.flex-col.gap-3:nth-child(4) > div:nth-child(2)
+photopea.com##div.flexrow.app:last-child > div:last-child
+help.gitee.com###__docusaurus_skipToContent_fallback > div.fixed.right-5.bottom-\[270px\].z-50.md\:hidden:first-child > div.cursor-pointer.md\:hidden.mb-2.leading-none:first-child
+cn.bing.com###OverlayIFrame
+cn.bing.com###OverlayIFrame
+program-think.blogspot.com###bottom-tip
+cn.bing.com###OverlayIFrame
+cn.bing.com###id_mobile
+bilibili.com##div.desktop-download-tip:nth-child(18)
+bilibili.com###viewbox_report > div.video-info-meta:last-child > div.video-info-detail-list.video-info-detail-content > div.copyright.item:last-child
+twitter.com###react-root > div.css-175oi2r.r-13awgt0.r-12vffkv > div.css-175oi2r.r-13awgt0.r-12vffkv > div.css-175oi2r.r-1f2l425.r-13qz1uu.r-417010.r-18u37iz:last-child > main.css-175oi2r.r-16y2uox.r-1wbh5a2.r-1habvwh:last-child > div.css-175oi2r.r-150rngu.r-16y2uox.r-1wbh5a2.r-rthrr5 > div.css-175oi2r.r-aqfbo4.r-16y2uox > div.css-175oi2r.r-1oszu61.r-1niwhzg.r-18u37iz.r-16y2uox.r-2llsf.r-13qz1uu.r-1wtj0ep > div.css-175oi2r.r-aqfbo4.r-zso239.r-1hycxz:last-child > div.css-175oi2r.r-1pi2tsx > div.css-175oi2r.r-1hycxz.r-gtdqiz:last-child > div.css-175oi2r.r-1adg3ll > div.css-175oi2r > div.css-175oi2r.r-vacyoi.r-ttdzmv > div.css-175oi2r:nth-child(3) > div.css-175oi2r.r-1867qdf.r-1phboty.r-rs99b7.r-1ifxtd0.r-1udh08x.r-g2wdr4.r-14wv3jr > aside.css-175oi2r.r-1habvwh.r-eqz5dr.r-uaa2di.r-ymttw5.r-1f1sjgu
+twitter.com###react-root > div.css-175oi2r.r-13awgt0.r-12vffkv > div.css-175oi2r.r-13awgt0.r-12vffkv > div.css-175oi2r.r-1f2l425.r-13qz1uu.r-417010.r-18u37iz:last-child > main.css-175oi2r.r-16y2uox.r-1wbh5a2.r-1habvwh:last-child > div.css-175oi2r.r-150rngu.r-16y2uox.r-1wbh5a2.r-rthrr5 > div.css-175oi2r.r-aqfbo4.r-16y2uox > div.css-175oi2r.r-1oszu61.r-1niwhzg.r-18u37iz.r-16y2uox.r-2llsf.r-13qz1uu.r-1wtj0ep > div.css-175oi2r.r-aqfbo4.r-zso239.r-1hycxz:last-child > div.css-175oi2r.r-1pi2tsx > div.css-175oi2r.r-1hycxz.r-gtdqiz:last-child > div.css-175oi2r.r-1adg3ll > div.css-175oi2r > div.css-175oi2r.r-vacyoi.r-ttdzmv > div.css-175oi2r.r-1kqtdi0.r-1867qdf.r-1phboty.r-1ifxtd0.r-1udh08x.r-1niwhzg.r-1yadl64:last-child > nav.css-175oi2r.r-18u37iz.r-1w6e6rj.r-ymttw5
+taptap.cn###__nuxt > div.taptap.flex.taptap--scroll > aside.layout-aside-container.box-border.layout-no-aside\:hidden:nth-child(3) > div.layout-aside:last-child > div.layout-aside__content > div.web-aside > div.tap-footer:last-child
+twitter.com###react-root > div.css-175oi2r.r-13awgt0.r-12vffkv > div.css-175oi2r.r-13awgt0.r-12vffkv > div.css-175oi2r.r-1f2l425.r-13qz1uu.r-417010.r-18u37iz:last-child > main.css-175oi2r.r-16y2uox.r-1wbh5a2.r-1habvwh:last-child > div.css-175oi2r.r-150rngu.r-16y2uox.r-1wbh5a2.r-rthrr5 > div.css-175oi2r.r-aqfbo4.r-16y2uox > div.css-175oi2r.r-1oszu61.r-1niwhzg.r-18u37iz.r-16y2uox.r-2llsf.r-13qz1uu.r-1wtj0ep > div.css-175oi2r.r-aqfbo4.r-zso239.r-1hycxz:last-child > div.css-175oi2r.r-1pi2tsx > div.css-175oi2r.r-1hycxz.r-1xcajam:last-child > div.css-175oi2r.r-1adg3ll > div.css-175oi2r > div.css-175oi2r.r-vacyoi.r-ttdzmv > div.css-175oi2r.r-1kqtdi0.r-1867qdf.r-1phboty.r-1ifxtd0.r-1udh08x.r-1niwhzg.r-1yadl64:last-child
+react.dev###__next > div.h-\[40px\].hidden.lg\:flex.w-full.bg-gray-100.dark\:bg-gray-700.text-base.md\:text-lg.py-2.sm\:py-0.items-center.justify-center.flex-col.sm\:flex-row.z-\[100\]:first-child
+twitter.com###react-root > div.css-175oi2r.r-13awgt0.r-12vffkv > div.css-175oi2r.r-13awgt0.r-12vffkv > div.css-175oi2r.r-1f2l425.r-13qz1uu.r-417010.r-18u37iz:last-child > main.css-175oi2r.r-16y2uox.r-1wbh5a2.r-1habvwh:last-child > div.css-175oi2r.r-150rngu.r-16y2uox.r-1wbh5a2.r-rthrr5 > div.css-175oi2r.r-aqfbo4.r-16y2uox > div.css-175oi2r.r-1oszu61.r-1niwhzg.r-18u37iz.r-16y2uox.r-2llsf.r-13qz1uu.r-1wtj0ep > div.css-175oi2r.r-aqfbo4.r-zso239.r-1hycxz:last-child > div.css-175oi2r.r-1pi2tsx > div.css-175oi2r.r-1hycxz.r-gtdqiz:last-child > div.css-175oi2r.r-1adg3ll > div.css-175oi2r > div.css-175oi2r.r-vacyoi.r-ttdzmv > div.css-175oi2r:nth-child(3)
+bilibili.com###i_cecream > div.bili-feed4:last-child > div.bili-header.large-header:first-child > div.bili-header__bar:first-child > ul.left-entry:first-child
+zhihu.com###root > div > main.App-main:nth-child(4) > div.css-11yh8no > div.css-1q32xh5:last-child > div:last-child > footer.css-2pfapc:last-child
+zhihu.com###root > div > main.App-main:nth-child(4) > div.Topstory > div.Topstory-container:last-child > div.css-1qyytj7:last-child > div:last-child > footer.css-2pfapc:last-child
+hix.ai###app-body > div.chatgpt_myBackground__Lh8Dd.w-full.h-\[100vh\].overflow-hidden > div.lg\:hidden:first-child
+hix.ai###app-body > div.chatgpt_myBackground__Lh8Dd.w-full.h-\[100vh\].overflow-hidden > div.overflow-y-auto.lg\:pt-0.relative.z-0.h-\[100vh\].pt-16.lg\:h-\[100vh\]:last-child > div.w-full.min-h-\[65px\].overflow-hidden.lg\:hidden.\!bg-transparent:nth-child(2)
+zhihu.com###root > div > main.App-main:nth-child(4) > div.Topstory > div.Topstory-container:last-child > div.css-1qyytj7:last-child > div:last-child > footer.css-14u5ezw:last-child
+developer.mozilla.org###root > div.page-wrapper.category-web.document-page:nth-child(2) > div.top-banner.fallback:first-child
+juejin.cn###juejin > div:first-child > div.view-container.hot-lists:last-child > div.main-header-box:first-child > header.main-header.visible > div.container > nav.main-nav:last-child > ul.nav-list > li.main-nav-list:first-child > ul.phone-hide.isResourceVisible:last-child > li.nav-item.link-item.special-activity-item:last-child
+juejin.cn###juejin > div:first-child > div.view-container.hot-lists:last-child > div.main-header-box:first-child > header.main-header.visible > div.container > nav.main-nav:last-child > ul.nav-list > ul.right-side-nav:last-child > li.nav-item.vip-entry:nth-child(2)
+juejin.cn###juejin > div:first-child > div.view-container.hot-lists:last-child > div.main-header-box:first-child > header.main-header.visible > div.container > nav.main-nav:last-child > ul.nav-list > ul.right-side-nav:last-child > li.nav-item.notification:nth-child(3)
+juejin.cn###juejin > div.global-component-box:last-child
+juejin.cn###juejin > div.view-container:first-child > div.main-header-box:first-child > header.main-header.visible > div.container > nav.main-nav:last-child > ul.nav-list > li.main-nav-list:first-child > ul.phone-hide.isResourceVisible:last-child > li.nav-item.link-item.special-activity-item:last-child
+juejin.cn###juejin > div.view-container:first-child > div.main-header-box:first-child > header.main-header.visible > div.container > nav.main-nav:last-child > ul.nav-list > ul.right-side-nav:last-child > li.search-add:first-child > ul.search-add-ul.isResourceVisible > li.nav-item.add.creator-item:last-child > div.add-group > div.task-modal.new-user-modal:last-child
+juejin.cn###juejin > div.view-container:first-child > div.main-header-box:first-child > header.main-header.visible > div.container > nav.main-nav:last-child > ul.nav-list > ul.right-side-nav:last-child > li.nav-item.vip-entry:nth-child(2) > div.vip-title
+juejin.cn###sidebar-container > div.adverts-list:nth-child(3)
+juejin.cn###juejin > div.view-container:first-child > div.main-header-box:first-child > header.main-header.visible > div.container > nav.main-nav:last-child > ul.nav-list > ul.right-side-nav:last-child > li.search-add:first-child > ul.search-add-ul.isResourceVisible > li.nav-item.add.creator-item:last-child > div.add-group > div.task-modal.new-user-modal:last-child
+juejin.cn###juejin > div.view-container:first-child > div.main-header-box:first-child > header.main-header.visible > div.container > nav.main-nav:last-child > ul.nav-list
+gaokao.com##div.backf8:nth-child(10) > div.inner.clearfix.tp10.bp30:nth-child(2) > div.w320.rt:last-child > div.lp20
+gaokao.com##div.backf8:nth-child(10) > div.inner.clearfix.tp10.bp30:nth-child(2) > div.w680.lt:first-child > div.wzList > div.relatedNews.bp15.bm20:nth-child(5)
+gaokao.com##div.backf8:nth-child(10) > div.wrapper:nth-child(4)
+gaokao.com##div.backf8:nth-child(10) > div.footer:last-child
+qimai.cn###top-banner > div.ivu-carousel:first-child > div.ivu-carousel-list:nth-child(2) > div.ivu-carousel-track.higher > div.ivu-carousel-item > div.index-header > a > img
+qimai.cn###top-banner > div.ivu-carousel:first-child > div.ivu-carousel-list:nth-child(2) > div.ivu-carousel-track.higher > div.ivu-carousel-item > div.index-header > a
+qimai.cn###app > div.layout-header:first-child > div.head-box:last-child
+qimai.cn###header
+facebook.com##div.x9f619.x1n2onr6.x1ja2u2z:first-child > div.x78zum5.xdt5ytf.xippug5.xg6iff7.x1n2onr6
+cnblogs.com##div.charm-bar-wrapper:last-child
+blog.hackages.io###root > div.a.b.c > div.l.c:last-child > div.l:last-child > div.m.to.tp.tq:nth-child(4) > div.bw.tr.ts.bg.xc > div.tu.t.tv.v.tw.tx.ty.tz.ua.ub.ab.q.cn.fi
+rebang.today###home-body > aside.ml-4.hidden.asideSize\:block.w-\[270px\]:last-child > div.flex.flex-col.h-full.items-stretch.space-y-5 > div.border.border-border-100.dark\:border-borderDark-100.bg-primary-200.dark\:bg-primaryDark-200.rounded-md.shadow-sm:first-child
+cn.bing.com###bnp\.nid\.63968
+jackthenomad.com###root > div.a.b.c > div.l.c:last-child > div.l:last-child > div.ec.vj.vk.vl:first-child
+it365.gitlab.io##div.van-overlay:last-child
+it365.gitlab.io##div.van-dialog:nth-child(12)
+developer.mozilla.org###root > div.page-wrapper.standard-page:nth-child(2) > div.top-banner.fallback:first-child
