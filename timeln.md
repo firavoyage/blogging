@@ -1747,3 +1747,24 @@ best of today
 best of today
 **code extension auto-collapse-blocks**
 
+## 20240821
+
+现在觉得,对于chromium而言
+material design 3
+大行间距,挺好的.至少选项少时,看得舒心.
+code不然,右键那么多选项,我觉得不如就preventDefault吧.
+自己写一个右键样式,允许主题更改配色.就像notion web一样.
+
+(retro)
+最后一节课,一把抱紧chenshiyu...
+太喜欢了.
+是昨晚梦,亦实为之.
+记忆依稀...
+大概就是把jiangzhijun带入chenshiyu.
+
+best of today:
+**ask mistral:choosing a react component library is ant design a good choice**
+
+**para is a better yuque**
+
+

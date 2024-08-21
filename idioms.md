@@ -297,21 +297,22 @@ cpp 是非常优秀的语言,可惜内置的语法糖比较少
 假问题:找到一种和内卷沾边的假问题,定义为内卷,详细分析其为何"假"
 说的都不是同一种"内卷".也没有冲突与交锋.
 
-与ai chatbot对话
-每个单词,只打前3或者前4个字母就行了
+与 ai chatbot 对话
+每个单词,只打前 3 或者前 4 个字母就行了
 
 vue school does not support china
 hhh
 
 thunder bt in china
-- 主流bt dl apps(qbitorrent,transmission)
+
+- 主流 bt dl apps(qbitorrent,transmission)
   - 所有人下载来源于所有人
   - 所有人上传提供给所有人
 - thunder bt
   - 迅雷用户下载来源于所有人
   - 迅雷用户上传仅提供给迅雷用户
-  - 这不是好事,不过没关系,迅雷用户大多是简中用户,没有公网ip,没法上传
-  - 用公网ip的,网络圣佛,通常了解迅雷行为,使用主流bt dl apps
+  - 这不是好事,不过没关系,迅雷用户大多是简中用户,没有公网 ip,没法上传
+  - 用公网 ip 的,网络圣佛,通常了解迅雷行为,使用主流 bt dl apps
 - chinese users
   - download from all
   - in most cases can not upload
@@ -330,10 +331,66 @@ good luck and have fun.
 good game well played
 
 我打算法竞赛的时候,字符串哈希就是把字符串每个字符加在一起.
-然而cpp is not battery included.wtf.now i am javascript.
+然而 cpp is not battery included.wtf.now i am javascript.
 
-回头看,买iphone的建议.
-iphone 5买一个,最后一代拟物
-iphone x买一个,第一代全面屏
+回头看,买 iphone 的建议.
+iphone 5 买一个,最后一代拟物
+iphone x 买一个,第一代全面屏
 
+typescript
+增加了大量成本,收益很少,因为原来就很少在类型上犯错.
+报错大多是逻辑原因.
+
+如果你读外刊
+time,economist,mit tech review
+或者逛论坛
+reddit,hacker news
+他们经常使用从句,有一些特征
+
+- 能用过去分词的情况,不约而同用之
+  - 经常在句首使用,如 given a,b...
+- 很少用超过一个从句
+  - a that b that c
+  - b 修饰 a,c 修饰 a?还是 c 修饰 b?
+  - 增加理解成本.没有收益.
+    这就是为什么我不用`this`in js
+    增加理解成本,收益只是少写几个字.
+
+拼多多 妙界 神奇小鹿 喵喵记账 圣杯 这几样实在太多了[捂脸] 加载视频中间，没法预料
+
+我们吵架?我包赢的.看吵架什么了.
+
+- 理性的内容,比如放权(为什么不给她管钱/装修/带娃权力)
+  - 我相信你是个聪明人,一定有自己的理由,能分析下利弊吗
+  - 是这样的,确实让你掌权更合适
+  - 我只是想着,管钱/装修/带娃真的很有意思
+  - (亮出花火底牌,游戏尘寰)
+  - 如果我想试试看,能让我用钱/设计/教育吗
+  - 无论她同意与否,答应她.
+  - 实际每次行动时,总能拿到权限(欢愉).
+- 感性的内容,比如质疑(你是不是不爱我了/你是不是不相信我了)
+  - 理性的内容,最后常常导向感性的失望/猜忌/质疑.
+  - 一把抱住她,她力气不够的
+  - 把它拽到椅子上或者沙发上,还是抱住她.
+  - 躺在沙发上,休息.不理会所有言论,不放手.
+  - 加力度,把她往自己身上按.最后四下无言.
+  - 向她表示自己的困惑和无知.(我不知道我爱不爱你,如果你是我,你会如何回答自己)
+
+云盘?百度云?如果是电影,可以.
+
+- 清高
+  - 小文件(小于 1g) github telegram
+  - 大文件 dropbox bitorrent
+- 博爱
+  - 小文件(小于 1g) gitee lanzou
+  - 大文件 baiduyun bitorrent
+
+about me
+- @firavoyage
+- fira
+  - origin:fira code
+  - i love that as my current programming font.
+- voyage
+  - origin:english words booklet in junior high school
+  - i love that word that inspired me great imagination
 

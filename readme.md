@@ -1,14 +1,14 @@
 # firavoyage 
 
+## mission
+- make tools elegant
+
 ## self
 - an entrepreneur, developer, otaku
 - grew up in shanghai
 - on the internet since 2019, which is my actual "home town"
 - live in rest of the world
-- working on building pure math
-
-## mission
-- make tools elegant
+- working on web dev
 
 ## love
 - 
@@ -62,6 +62,7 @@
   - _bocchi the rock (2022)
   - _frieren: beyond journey's end (2023)
   - _oshi no ko (2023)
+  - _your lie in april (2014)
   - _the godfather (1972)
   - _the truman show (1998)
   - _wall-e (2008)
@@ -146,7 +147,7 @@
   - geek bay
   - interpreter gavin
   - jiang zhijun
-  - jiangly beyond dd
+  - jiangly not dd desu
   - longbow flintlock
   - memoir of propery
   - my sister is just that kawaii
@@ -162,7 +163,6 @@
   - postpunk singer zongzi
   - promise of playboy
   - spicy pidan porridge
-  - spicy porridge
   - stray digital
   - tail tail desu
   - unfettered idle man
@@ -207,17 +207,18 @@
   - google
   - youtube
   - mistral chat
-  - tophub
-  - rebang
   - ruanyf weekly
+  - antfu 100 days
   - hacker news
   - css tricks
   - codepen spark
-  - reddit old (reddit new) (reddit)
+  - reddit old
   - v2ex creative
+  - zhihu
+  - tophub
+  - rebang
   - bangumi
   - nga bbs
-  - zhihu
   - pixiv monthly
   - oi wiki
   - leetcode
@@ -225,20 +226,19 @@
   - luogu
   - product hunt
   - dribbble
-  - chyk kirikaze chiyuki
   - codingnow
-  - fabrice bellard
+  - kirikaze chiyuki chyk
   - growth.design
   - iconmoon
-  - james sinclair
   - livid
-  - naval
-  - overreacted dan abramov
-  - paulg paul graham
-  - rodrigo pombo
   - tim qian
-  - william long
-  - windliang
+  - james sinclair jrsinclair
+  - dan abramov overreacted
+  - rodrigo pombo
+  - paul graham paulg
+  - naval
+  - fabrice bellard
+  - nat friedman
 -
   - ubuntu 24
   - android 11
@@ -254,21 +254,23 @@
   - iphone os 6
   - iphone os 8
   - iphone os 11
+  - ant design voyage
 -
   - ubuntu yaru
   - dracula theme
   - atom one dark
   - nord
   - monokai pro
+  - fold vscode
   - eslint
   - prettier
   - code runner
-  - fold vscode
   - fitten code
   - code geex
 -
   - antennapod
   - bilimiao
+  - discord
   - ehentai viewer
   - fcitx android
   - gnome amberol
@@ -312,12 +314,12 @@
   - libre office
   - material files
   - nekogram android (telegram)
-  - discord
   - obs studio
   - onscripter yuri
   - qbitorrent
   - retro arch
   - simplelive
+  - slidev
   - snapseed
   - thunder bird
   - v2ray ng
@@ -325,6 +327,8 @@
   - vlc media player
 
 ## quotes
+- a ship in harbor is safe
+  - but that is not what ships are built for
 - as human beings it is our right (maybe our moral duty) to reshape the universe to our preferences
   - technology, which is really knowledge, enables this
   - you should probably work on raising the ceiling, not the floor
@@ -389,12 +393,14 @@
 
 ## pages
 - people
+  - `ruanyf` everything about the digital time
   - `livid` letter to confused youth
   - `florio` guide to programming ride
   - `nat` belief of a tech entrepreneur
-  - `ruanyf` everything about the digital time
   - `yinming` answers from a startup webmaster
   - `naval` way to rich without luck
+  - `programmer` why chinese programmers suck
+  - `one math` why one math channel sucks
 - ideas
   - `projects` the interesting and the meaningful
   - `reply` reply to the world and rest of the world

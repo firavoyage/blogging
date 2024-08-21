@@ -1,38 +1,53 @@
-//20240820
-//voyagejs 0.3
+//20240821
+//voyagejs 0.4
 
 let log = console.log;
 
 let voyage = {
-  //tests [[is1(),good()],[2,bad()],[is3(),ugly()]]
-  handle(value, tests) {
-    //another switch statement
-    //return first match or undefined
-    let { is, isFunction } = voyage;
-    let result = undefined;
+  //value
+  //the test value
+  //tests
+  //[{case:true,fn1()},{case:fn(what),fn2},{case:213,fn3},{fndef}]
+  //stop
+  //can stop at first match
+  match(value, tests, stop = true) {
+    let { is, isBoolean, isFunction } = voyage;
     for (let test of tests) {
-      if (test[1]) {
-        //[query,match]
-        let query = test[0];
-        let match = test[1];
-        let isMatch;
-        if (isFunction(query)) {
-          isMatch = query(value);
+      let keys = Object.keys(test);
+      if (is(keys.length, 1)) {
+        //default case
+        //no need to match value
+        test[keys[0]]();
+      } else {
+        let isMatch = false;
+        if (isBoolean(test.case)) {
+          //if case is true then call the function
+          //else do nothing
+          //here we dont try to match the value to a boolean case
+          //because you wont switch a boolean
+          //for example
+          //switch isSomething case true fn1 case false fn2
+          //instead you write
+          //if(isSomething){fn1}else{fn2}
+          isMatch = test.case;
+        } else if (isFunction(test.case)) {
+          isMatch = test.case(value);
         } else {
-          isMatch = is(query, value);
+          isMatch = is(value, test.case);
         }
         if (isMatch) {
-          result = match();
-          break;
+          for (let key of keys) {
+            if (!is(key, "case")) {
+              //key is the function name
+              test[key]();
+            }
+          }
+          if (stop) {
+            break;
+          }
         }
-      } else {
-        //[match]
-        //the default case
-        let match = test[0];
-        result = match();
       }
     }
-    return result;
   },
   is(a, b) {
     return a === b;
@@ -49,19 +64,25 @@ let voyage = {
   remove(obj, key) {
     delete obj[key];
   },
-  isObject(test) {
-    return test instanceof Object;
+  isBoolean(test) {
+    let { is } = voyage;
+    return is(typeof test, "boolean");
   },
   isArray(obj) {
     return Array.isArray(obj);
+  },
+  isObject(test) {
+    return test instanceof Object;
   },
   toArray(obj) {
     return Array.from(obj);
   },
   isFunction(obj) {
-    return obj instanceof Function;
+    let { is } = voyage;
+    return is(typeof obj, "function");
   },
-  //from [type,labels{},contents[],binds{key:method},states{key:value}]
+  //from
+  //[type,labels{},contents[],binds{key:method},states{key:value}]
   create(from) {
     let { isArray, isObject, createContents } = voyage;
     let [a, b, c, d, e] = from; //five options
@@ -115,12 +136,16 @@ let voyage = {
     return result;
   },
   //data storage
-  data: {}, //[key] -> value
+  //[key] -> value
+  data: {},
   //key binds on each node
-  map: {}, //[key][nodeid] -> binds[]
+  //[key][nodeid] -> binds[]
+  map: {},
   //mark for removal
-  removal: {}, //[nodeid] -> keys[]
+  //[nodeid] -> keys[]
+  removal: {},
   //method library
+  //[methodName] -> method
   lib: {
     text(nodeid, text) {
       let { getNode } = voyage;
@@ -162,11 +187,13 @@ let voyage = {
         removeAllChildren(node);
       }
     },
-  }, //[methodName] -> method
+  },
   //node states
-  nodes: {}, //[nodeid][stateName] -> state
+  //[nodeid][stateName] -> state
+  nodes: {},
   //key counter
-  counts: { node: 0 }, //[key] -> count
+  //[key] -> count
+  counts: { node: 0 },
   count(key) {
     let { counts } = voyage;
     if (!counts[key]) {
@@ -180,33 +207,34 @@ let voyage = {
     //let { querySelector: select } = document; //!Uncaught TypeError: Illegal invocation
     return document.querySelector(selector);
   },
-  //way {element,data,where}
+  //way
+  //{element,data,where}
   go(way) {
     //init and run and append
     let { init, create, run, select, setMethods } = voyage;
     let { element, data, place, methods } = way;
-    //set data
-    if (data) {
-      init(data);
-    }
     //set methods
     if (methods) {
       setMethods(methods);
     }
+    //append to dom
     let parent = select(place);
     parent.append(run(create(element)));
+    //init data
+    if (data) {
+      init(data);
+    }
   },
   run(element) {
     //render element to node
-    let { is, handle } = voyage;
-    let { hasState, hasMethod, hasKey } = voyage;
+    let { is, has, match } = voyage;
+    let { nodes, lib, data } = voyage;
     let { count } = voyage;
     let { get, getState } = voyage;
     let { runContents } = voyage;
     let { setBind, setStates } = voyage;
     let { type, labels, contents, binds, states } = element;
     //create element
-    type = type || "div";
     let node = document.createElement(type);
     //set nodeid
     let nodeid = count("node");
@@ -215,77 +243,93 @@ let voyage = {
     if (states) {
       setStates(nodeid, states);
     }
+    //set labels and process special labels
+    if (labels) {
+      for (let labelName in labels) {
+        let key = labels[labelName];
+        let cases = [
+          {
+            //@event
+            case: is(labelName[0], "@"),
+            addOnEventAttribute() {
+              let onEvent = labelName.replace("@", "on");
+              let handler;
+              if (has(lib, key)) {
+                //a lib function
+                handler = `voyage.lib["${key}"]()`;
+              } else {
+                //not a lib function
+                handler = key;
+              }
+              node.setAttribute(onEvent, handler);
+            },
+          },
+          {
+            case: "$model",
+            twoWayDataBinding() {
+              //bind key
+              setBind(key, nodeid, "value");
+              //bind node.value
+              node.setAttribute(
+                "onchange",
+                `voyage.handleInputOnchange("${nodeid}","${key}")`
+              );
+            },
+          },
+          {
+            case: "$if",
+            initIfLabel() {
+              setStates(nodeid, { if: key });
+              setStates(nodeid, { contents: contents });
+              setBind(key, nodeid, "if");
+            },
+          },
+          {
+            case: "$text",
+            bindText() {
+              setBind(key, nodeid, "text");
+            },
+          },
+          {
+            case: "$html",
+            bindHtml() {
+              setBind(key, nodeid, "html");
+            },
+          },
+          {
+            case: "$show",
+            bindShow() {
+              setBind(key, nodeid, "show");
+            },
+          },
+          {
+            case: "$class",
+            bindClass() {
+              setBind(key, nodeid, "class");
+            },
+          },
+          {
+            default() {
+              //common label
+              node.setAttribute(labelName, key);
+            },
+          },
+        ];
+        match(labelName, cases);
+      }
+    }
     //set binds
     if (binds) {
       for (let key in binds) {
         setBind(key, nodeid, binds[key]);
       }
     }
-    //set labels and process special labels
-    if (labels) {
-      for (let labelName in labels) {
-        let cases = [
-          [
-            function isEvent(labelName) {
-              return is(labelName[0], "@");
-            },
-            function () {
-              //@event
-              let event = labelName.replace("@", "on");
-              let handler;
-              if (hasMethod(labels[labelName])) {
-                //a lib function
-                handler = `voyage.lib["${labels[labelName]}"]()`;
-              } else {
-                //not a lib function
-                handler = labels[labelName];
-              }
-              node.setAttribute(event, handler);
-            },
-          ],
-          [
-            "$model",
-            function () {
-              //two way data binding
-              let key = labels[labelName];
-              //bind value change to node
-              setBind(key, nodeid, "value");
-              //bind node change to value
-              node.setAttribute(
-                "onchange",
-                `voyage.handleInputOnchange("${nodeid}","${key}")`
-              );
-              if (hasKey(key)) {
-                //data inited
-                node.value = get(key);
-              }
-            },
-          ],
-          [
-            "$if",
-            function () {
-              //run children or not
-              let key = labels[labelName];
-              setStates(nodeid, { if: key });
-              setStates(nodeid, { contents: contents });
-              setBind(key, nodeid, "if");
-            },
-          ],
-          [
-            //default case
-            function () {
-              //ordinary label
-              node.setAttribute(labelName, labels[labelName]);
-            },
-          ],
-        ];
-        handle(labelName, cases);
-      }
-    }
     //set contents
     if (contents) {
-      if (hasState(nodeid, "if")) {
-        if (get(getState(nodeid, "if"))) {
+      if (has(nodes[nodeid], "if")) {
+        //has $if label
+        let ifKey = getState(nodeid, "if");
+        if (get(ifKey)) {
           runContents(node, contents);
         }
       } else {
@@ -306,40 +350,17 @@ let voyage = {
       node.innerText = contents;
     }
   },
-  //someData [key] -> value
-  init(someData) {
-    //set all data wihout calling binds
-    let { data } = voyage;
+  init(data) {
+    let { set } = voyage;
     //set all data
-    for (let key in someData) {
-      let value = someData[key];
-      data[key] = value;
+    for (let key in data) {
+      set(key, data[key]);
     }
-  },
-  hasState(nodeid, state) {
-    //has(nodes,state)
-    let { has, nodes } = voyage;
-    return has(nodes[nodeid], state);
-  },
-  hasMethod(methodName) {
-    //has(lib,methodName)
-    let { has, lib } = voyage;
-    return has(lib, methodName);
-  },
-  hasKey(key) {
-    //has(data, key)
-    let { has, data } = voyage;
-    return has(data, key);
-  },
-  hasBind(key) {
-    //has(map,key)
-    let { has, map } = voyage;
-    return has(map, key);
   },
   set(key, newValue) {
     //set data and call binds
-    let { is, get, hasBind, getBindedMethods, getBindedNodes, call } = voyage;
-    let { data } = voyage;
+    let { is, get, has, getBindedMethods, getBindedNodes, call } = voyage;
+    let { data, map } = voyage;
     if (is(get(key), newValue)) {
       //no need to change
     } else {
@@ -348,7 +369,7 @@ let voyage = {
       //set data
       data[key] = newValue;
       //call binds
-      if (hasBind(key)) {
+      if (has(map, key)) {
         for (let nodeid in getBindedNodes(key)) {
           for (let method of getBindedMethods(key, nodeid)) {
             call(method, nodeid, newValue, oldValue);
@@ -374,12 +395,11 @@ let voyage = {
   },
   setBind(key, nodeid, bind) {
     //map[key][nodeid].push(bind);
+    let { is } = voyage;
     let { map, removal } = voyage;
     map[key] = map[key] || {};
     map[key][nodeid] = map[key][nodeid] || [];
-    if (map[key][nodeid].indexOf(bind) >= 0) {
-      //already binded
-    } else {
+    if (is(map[key][nodeid].indexOf(bind), -1)) {
       //define bind
       map[key][nodeid].push(bind);
     }

@@ -272,6 +272,7 @@ sudo apt install code
   - fitten code
   - eslint
   - prettier
+  - fold vscode
   - code runner
     - run in terminal `on`
     - auto focus terminal `on`

@@ -4,9 +4,11 @@
 
 ### `para`
 
-> the reader for readers
+> elegant reader for elegant writer
 
-- spilt content and style
+- content without style
+  - markdown based and content focused
+  - style can be changed at any time in one click
 - present freely without any distraction
   - say goodbye to word while teaching,conferencing...
   - feel like zen mode
@@ -18,13 +20,14 @@
   - collapse and show more
   - by parac
 - local based
-  - static markdown files
+  - static files instead of cloud res
 - sync everywhere
   - by once
 - various themes
   - by voyage
 - inspired by
   - notion
+  - yuque
   - obsidian
   - typora
 
@@ -737,12 +740,16 @@ for(i arr j brr){A} //for(let __fs_i=0,i=arr[__fs_i],j=brr[__fs_i];__fs_i<arr.le
 
 ### `fx`
 
-> arithmatic is beautiful | casio fx991
+> arithmatic is beautiful | "数论推个屁,打表找规律"
 
-- write full literal
-- accurate form as possible
+- features
+  - using accurate form
+  - map
+  - solve
 - various themes
   - by voyage
+- inspired by
+  - casio fx991
 
 ### `card`
 
