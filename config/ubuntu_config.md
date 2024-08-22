@@ -1,5 +1,3 @@
-ubuntu config
-
 # ubuntu
 - ubuntu 22
 - ubuntu 24(current)
@@ -268,11 +266,11 @@ sudo apt install code
   - one dark pro
   - monokai pro
 - install extensions
-  - code geex
-  - fitten code
   - eslint
   - prettier
   - fold vscode
+  - code geex (disabled)
+  - fitten code (disabled)
   - code runner
     - run in terminal `on`
     - auto focus terminal `on`
@@ -314,19 +312,17 @@ sudo apt install code
   - duplicate cursor `ctrl shift uparrow|downarrow` | `shift alt uparrow|downarrow` | `alt click` 
   - move current line `alt uparrow|downarrow`
   - reset cursor `esc`
+  - indent code `ctrl ]`
+  - unindent code `ctrl [`
+  - collapse code `ctrl shift [`
+  - uncollapse code `ctrl shift ]`
+  - zoom in `ctrl +`
+  - zoom out `ctrl -`
 
 # git
-- config 
-```
-git config --global user.name "Fira"
-git config --global user.email "devvhy@zohomail.cn"
-git config --global push.autoSetupRemote true
-git config --global credential.helper store
-```
-> -> git/blogging/config/git_config.txt
-  - github 
+- config github
 > -> https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls
-  - gitee (sync mirror)
+- config gitee (github mirror)
 > use username and password
 - use shortcuts
 > -> git/blogging/config/git_shortcut.txt
@@ -573,9 +569,15 @@ open screen word selector `ctrl c ctrl c`
 - install in terminal
 ```
 sudo apt install git
+git config --global user.name "Fira"
+git config --global user.email "devvhy@zohomail.cn"
+git config --global push.autoSetupRemote true
+git config --global credential.helper store
 sudo apt install zsh
 sudo apt install nodejs
 sudo apt install npm
+npm set registry https://registry.npm.taobao.org/
+sudo npm install terser -g
 sudo apt install python3
 sudo apt install imagemagick
 sudo apt install gnome-tweaks

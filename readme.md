@@ -1,20 +1,21 @@
-# firavoyage 
+# firavoyage
 
-## mission
-- make tools elegant
+## .
 
-## self
 - an entrepreneur, developer, otaku
 - grew up in shanghai
 - on the internet since 2019, which is my actual "home town"
 - live in rest of the world
 - working on web dev
 
+## mission
+
+- make tools elegant
+
 ## love
-- 
-  - 🌕 💤 23:00
--
-  - johann sebastian bach
+
+- - 🌕 💤 23:00
+- - johann sebastian bach
   - lipton black tea
   - mixue bubble tea
   - cocacola
@@ -29,15 +30,14 @@
   - dark style & night light
   - math and algorithms
   - web dev
--
-  - wind of change (scorpions)
+- - wind of change (scorpions)
   - scarborough fair (sarah brightman)
   - the sound of silence (simon & garfunkel)
   - ymca (village people)
   - one last kiss (hikaru utada)
   - angry birds theme (ari pulkkinen & david schweitzer)
   - the legend of zelda: ocarina of time title theme (koji kondo)
-  - old memory (manack & bruno wen li) 
+  - old memory (manack & bruno wen li)
   - sky (beyond)
   - fu shi shan xia (eason chan)
   - hyehwadong (park bo ram)
@@ -45,8 +45,7 @@
   - tomorrow will be better (luo da you)
   - kletka (molchat doma)
   - sudno (molchat doma)
--
-  - in solitude where we are least alone (2010)
+- - in solitude where we are least alone (2010)
   - worldend: what do you do at the end of the world? are you busy? will you save us? (2017)
   - tom and jerry classic collection (1940)
   - reply 1988 (2015)
@@ -58,17 +57,16 @@
   - the knockout (2023)
   - .evangelion (1995)
   - .bang dream! it's mygo!!!!! (2023)
-  - _girls band cry (2024)
-  - _bocchi the rock (2022)
-  - _frieren: beyond journey's end (2023)
-  - _oshi no ko (2023)
-  - _your lie in april (2014)
-  - _the godfather (1972)
-  - _the truman show (1998)
-  - _wall-e (2008)
-  - _the good the bad and the ugly (1966)
--
-  - honkai star rail (2023)
+  - .girls band cry (2024)
+  - .bocchi the rock (2022)
+  - .frieren: beyond journey's end (2023)
+  - .oshi no ko (2023)
+  - .your lie in april (2014)
+  - .the godfather (1972)
+  - .the truman show (1998)
+  - .wall-e (2008)
+  - .the good the bad and the ugly (1966)
+- - honkai star rail (2023)
   - honkai impact third (2016)
   - houkai gakuen second (2014)
   - genshin impact (2020)
@@ -89,40 +87,42 @@
   - the rainbow appears after flowering rain (2016)
   - wonderful everyday (2010)
   - bishoujo mangekyou (2011)
-  - _fly me 2 the moon (2011)
-  - _the legend of zelda (1998) (2017) (2023)
-  - _sekiro: shadows die twice (2019)
-  - _elden ring (2022)
-  - _grand theft auto v (2013)
-  - _the binding of isaac (2011)
-  - _super bunny man (2017)
--
-  - road ahead (ruanyf)
-  - hackers and painters (paulg)
+  - .fly me 2 the moon (2011)
+  - .the legend of zelda (1998) (2017) (2023)
+  - .sekiro: shadows die twice (2019)
+  - .elden ring (2022)
+  - .grand theft auto v (2013)
+  - .the binding of isaac (2011)
+  - .super bunny man (2017)
+- - hackers and painters (paulg)
   - refactoring ui (adam wathan & steve schoger)
   - javascript: the good parts (douglas crockford)
   - javascript: the definitive guide (david flanagan)
-  - twelve letters for the young (zhu guangqian)
-  - the water level of concept (liu yu)
+  - the water level of ideology (liu yu)
   - liu qing's lectures on modern western thought (liu qing)
-  - a long gaze (long yingtai)
+  - twelve letters for the young (zhu guangqian)
   - letter to da zhuang (miao wei)
-  - .philosophy of life (zhou guoping)
-  - .mathematics (the second affiliated middle school of east china normal university)
-  - _godel, escher, bach (douglas hofstadter)
-  - _the bible (divine authorship)
-  - _haizi's poems (hai zi)
-  - _gu cheng's poems (gu cheng)
-  - _stray birds (rabindranath tagore)
-  - _if on a winter's night a traveler (italo calvino)
-  - _the moon and sixpence (william somerset maugham)
-  - _pride and prejudice (jane austen)
-  - _rashomon (ryunosuke akutagawa)
-  - _one hundred years of solitude (gabriel garcía marquez)
-  - _tao te ching (laozi)
-  - _remarks on the song lyric and the human condition (wang guowei)
--
-  - anyway.fm (jj ying & leon gao)
+  - road ahead (ruanyf)
+  - a long gaze (long yingtai)
+  - to live (yu hua)
+  - the scholars (wu jingzi)
+  - what i have seen (chai jing)
+  - .one hundred years of solitude (gabriel garcia marquez)
+  - .meditations on life (zhou guoping)
+  - .mathematics, no 2 secondary school attached to east china normal university (east china normal university)
+  - .godel, escher, bach (douglas hofstadter)
+  - .if on a winter's night a traveler (italo calvino)
+  - .haizi's poems (hai zi)
+  - .gu cheng's poems (gu cheng)
+  - .stray birds (rabindranath tagore)
+  - .the moon and sixpence (william somerset maugham)
+  - .pride and prejudice (jane austen)
+  - .rashomon (ryunosuke akutagawa)
+  - .amusing ourselves to death (neil postman)
+  - .remarks on the song lyric and the human condition (wang guowei)
+  - .tao te ching (laozi)
+  - .the bible (divine authorship)
+- - anyway.fm (jj ying & leon gao)
   - beyond code (randy lu & geek plux)
   - hard hacker (yixiao & 0xsaito & anson)
   - it gonglun (ipn)
@@ -133,8 +133,7 @@
   - web worker (xinbao & lv777 & pakchoi & kaiyi & smart)
   - yitianshijie (li ruyi)
   - yixi (yixi)
-- 
-  - adhesion tek
+- - adhesion tek
   - blue striped rabbit
   - chen shiyu
   - chen zihao
@@ -171,8 +170,7 @@
   - xiaogu math
   - zhang chuanzhi
   - zju su dekuang
--
-  - kasugano sora
+- - kasugano sora
   - herta
   - sparkle
   - fuxuan
@@ -181,8 +179,7 @@
   - nahida
   - kaedehara kazuha
   - billy kid
-- 
-  - dejavu serif
+- - dejavu serif
   - fira code
   - fira sans
   - fz kaiti
@@ -199,8 +196,7 @@
   - roboto
   - ubuntu sans
   - zhi mang xing
--
-  - wikipedia
+- - wikipedia
   - internet archive
   - the pirate bay
   - github
@@ -214,17 +210,16 @@
   - codepen spark
   - reddit old
   - v2ex creative
-  - zhihu
-  - tophub
-  - rebang
+  - travellings.cn
   - bangumi
   - nga bbs
-  - pixiv monthly
+  - zhihu
   - oi wiki
   - leetcode
   - codeforces
   - luogu
   - product hunt
+  - pixiv monthly
   - dribbble
   - codingnow
   - kirikaze chiyuki chyk
@@ -239,13 +234,13 @@
   - naval
   - fabrice bellard
   - nat friedman
--
-  - ubuntu 24
+- - ubuntu 24
   - android 11
   - chromium 124
-  - firefox 124
   - code 1.91.2
   - git 2.43
+  - node 18.19.1
+  - npm 9.2.0
   - fcitx 5.1.7
   - wine 9.0
   - material design 2
@@ -255,8 +250,7 @@
   - iphone os 8
   - iphone os 11
   - ant design voyage
--
-  - ubuntu yaru
+- - ubuntu yaru
   - dracula theme
   - atom one dark
   - nord
@@ -265,10 +259,9 @@
   - eslint
   - prettier
   - code runner
-  - fitten code
   - code geex
--
-  - antennapod
+  - fitten code
+- - antennapod
   - bilimiao
   - discord
   - ehentai viewer
@@ -327,6 +320,7 @@
   - vlc media player
 
 ## quotes
+
 - a ship in harbor is safe
   - but that is not what ships are built for
 - as human beings it is our right (maybe our moral duty) to reshape the universe to our preferences
@@ -345,9 +339,9 @@
   - the answer is predictive of your behavior
   - better to get your dopamine from improving your ideas than from having them validated
   - it's ok to get yours from "making things happen"
-- stay focused, keep shipping. 
-  - build early, build always. 
-  - improve yourself, write solid/simple/stupid code. 
+- stay focused, keep shipping.
+  - build early, build always.
+  - improve yourself, write solid/simple/stupid code.
   - move fast and break things.
   - live in the future and build what's missing.
   - good luck and have fun.
@@ -367,8 +361,8 @@
 - tell me, and i will forget.
   - show me, and i may remember.
   - involve me, and i will understand.
-- god is light, and in him there is no darkness at all. 
-  - if we say we have fellowship with him yet walk in the darkness, we lie and do not practice the truth. 
+- god is light, and in him there is no darkness at all.
+  - if we say we have fellowship with him yet walk in the darkness, we lie and do not practice the truth.
   - but if we walk in the light as he is in the light, we have fellowship with one another, and the blood of jesus his son cleanses us from all sin.
 - soli deo gloria.
 - memento mori.
@@ -392,6 +386,7 @@
 - 壮士断腕义无再辱
 
 ## pages
+
 - people
   - `ruanyf` everything about the digital time
   - `livid` letter to confused youth
@@ -433,7 +428,8 @@
   - `/notes` `(...)` stack overflow documentation
 
 ## repos
-- `blogging` notes and inspirations 
+
+- `blogging` notes and inspirations
 - `web` pages capsuled
 - `memories` life
 - `memories/comments` spectator life
@@ -446,6 +442,7 @@
 - `self` favorite avatars
 
 ## links
+
 - files
   - github `firavoyage`
   - gitee mirror `firavoyage`
@@ -457,7 +454,7 @@
   - medium `_wip`
   - wordpress `_wip`
   - telegram `archivefiravoyage`
-  - twitter `firascript` 
+  - twitter `firascript`
   - other mirrors `_wip`
 - videos
   - telegram `firavid`
@@ -471,6 +468,7 @@
   - my blog `_wip`
 
 ## character
+
 - `reminiscent youth` good old days...
 - `tech otaku` unworldly girls...
 - `digital hoarder` memories forever...
@@ -478,6 +476,7 @@
 - `indie developer` freedom of mind...
 
 ## wish
+
 - work
   - knowledge organized with structure and simplicity
   - -> /pure
@@ -492,12 +491,10 @@
   - explore the simplicity of programming
 
 ## status
+
 - when i'm not working
 - i'm eating my feed list
 - or enjoying acg
 - or learning
 
 > 🌕 💤 23:00
-
-
-

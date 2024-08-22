@@ -394,3 +394,10 @@ about me
   - origin:english words booklet in junior high school
   - i love that word that inspired me great imagination
 
+comment to ai programmer
+- 评价 codegeex & fittencode
+  - 重新造轮子
+  - 缺乏语法糖和宏定义
+  - 这些最笨的活,ai最擅长
+
+

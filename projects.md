@@ -21,8 +21,15 @@
   - by parac
 - local based
   - static files instead of cloud res
-- sync everywhere
-  - by once
+- publish everywhere 
+  - in one click
+  - github pages
+  - hacker news
+  - dev to
+  - cnblogs
+  - zhihu
+  - jianshu
+  - juejin
 - various themes
   - by voyage
 - inspired by
@@ -136,22 +143,6 @@
   - zzkia
   - svg path editor
 
-### `crickets`
-
-> auto comment bot "促织"
-
-- by pop
-  - less than 10k views -> "do nothing"
-- by time
-  - more than 30days -> "爷关更"
-- by tag
-  - "枫原万叶" -> "心至空处,天地万物..."
-- by publisher
-  - "mihoyo artists" -> "申鹤重云了"
-  - "doujin artists" -> "迟 b 片" "有技兄这"
-- by fans
-  - more than 10k -> "捉,大师球"
-
 ### `gen`
 
 > libraries and highly abstracted scripts
@@ -168,7 +159,9 @@
 - library
   - unsplash
   - pexels
-- based on svgify
+- inspired by
+  - stable diffusion
+  - midjourney
 
 ### `neko`
 
@@ -177,21 +170,10 @@
 - see reasons behind anwsers
 - highly-abstracted grammar,like words filling
 - deconstruct natural languages grammar
-
-### `once`
-
-> publish once & publish everywhere
-
-- from anywhere
-  - web
-  - phone
-  - pad
-  - computer
-- to everywhere
-  - instagram
-  - twitter
-  - telegram
-  - github
+- inspired by
+  - siri
+  - chatgpt
+  - mistral chat
 
 ## perceive
 
@@ -288,6 +270,11 @@
 - notes
   - json based (can be converted to markdown)
   - import and export
+- inspired by
+  - legado reader
+  - apple books
+  - tachiyomi
+  - antennapod
 
 ### `globe`
 

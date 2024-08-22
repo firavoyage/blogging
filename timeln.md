@@ -1745,7 +1745,7 @@ best of today
 **for in and for of in js**
 
 best of today
-**code extension auto-collapse-blocks**
+code extension **fold vscode**
 
 ## 20240821
 
@@ -1767,4 +1767,33 @@ best of today:
 
 **para is a better yuque**
 
+## 20240822
+
+2:xx
+honkai star rail
+新版本抽卡(全部记录)
+- 30shots fu xuan
+- 20shots sparkle
+- 80shots gepard weapon
+角色运气不错,武器亏回去.
+
+3:4x
+断网.路由器接触不良.游戏打到一半(狼人杀).
+反复按压导线无果,哈哈,寄了.
+
+明天做啥呢...
+- listen to podcasts (antennapod)
+- watch bangumis (mygo or bocchi or yosuga no sora)
+- play galgames (sabbat or senrenbanka)
+- read books (one hundred years of solitude)
+- program voyagejs (0.5)
+
+14:33
+莫名其妙,没有人修,好了.
+
+看来今天又是网络吞噬的一天.
+
+17:38
+下午没啥精神.
+今晚早睡.
 

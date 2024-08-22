@@ -2,6 +2,46 @@
 
 > 🌕 💤 before 23:00!
 
+## 20240822
+
+> summer vacation daily
+
+- visit digital homes (al)
+- eat (bilimiao)
+
+> summer vacation day
+
+- add features to voyagejs (-> /voyagejs)
+- make sr styled component library in voyagejs (-> /voyagejs)
+- implement pre project with sr components (-> /pre)
+- make pure math videos for highschool grade 1 term 1 (-> /pure)
+- write intuitive web dev guide (-> /intuitive)
+
+> summer vacation without internet
+
+- program voyagejs (0.5)
+- read books (one hundred years of solitude)
+- watch bangumis (mygo or bocchi or yosuga no sora)
+- play galgames (sabbat or senrenbanka)
+- listen to podcasts (antennapod)
+
+> summer vacation night
+
+- read ruanyf weekly (-> ruanyf)
+- play rpg (sr)
+- watch simplelive
+- sleep before 1:00
+
+> summer vacation spare time
+
+- classify web (by tag)
+- classify memories (by tag)
+
+> school life
+
+- read book (philosophy of life or one hundred years of solitude)
+- learn english & math
+
 ## 20240819
 
 > summer vacation daily
@@ -45,7 +85,7 @@
 
 > summer vacation day
 
-- extend voyage lib from vue svelte alpine  (-> /voyagejs)
+- extend voyage lib from vue svelte alpine (-> /voyagejs)
 - make sr styled component library with voyagejs (-> /voyagejs)
 - implement pre project (-> /pre)
 - make pure math videos for hs g1t1 (-> /pure)
