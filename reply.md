@@ -2632,19 +2632,6 @@ json without fn
 - 常量分离,逻辑代码里就没有常量
 - 函数式编程,数据和方法不在一个object里
 
-## make quick money strategy
-
-版权法,肖像权法,不完善
-这是快钱
-
-世界->世外
-捏造->偷窃
-声音->elon musk
-画面->furina
-...
-
-哈哈
-
 ## buying a house quote
 
 - 最优质的单人间很贵,最差的单人间很便宜

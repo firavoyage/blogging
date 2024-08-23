@@ -1774,7 +1774,8 @@ honkai star rail
 新版本抽卡(全部记录)
 - 30shots fu xuan
 - 20shots sparkle
-- 80shots gepard weapon
+- 70shots gepard weapon
+- 30shots ?
 角色运气不错,武器亏回去.
 
 3:4x
@@ -1796,4 +1797,37 @@ honkai star rail
 17:38
 下午没啥精神.
 今晚早睡.
+
+22:14
+现在没有星穹了.
+只垫了30抽光锥.还要50抽左右.
+还有半个月卡池结束,也不是很像肝.
+有三月七专武,但是没有巡猎三月七.
+打算慢慢玩,把三月七拿下.
+游戏尘寰,如果不出也没关系.
+等黄泉复刻,抽黄泉了.
+
+## 20240883 
+
+5:10
+睡觉。
+天亮了,蒙蒙亮,窗帘边角透过蓝。
+
+16:01
+看屏幕,眼睛有点问题.
+每个字都在闪光,是大半夜看kindle,连着看了几个小时的感觉.
+就是恍惚,字都飞出亮光了,是电影院戴着3d眼睛的感觉.
+
+16:47
+看了下sr wiki
+moment of victory 可以给fu xuan
+sparkle可以用四星"dance dance dance"
+武器池大保底,等复刻黄泉.
+
+我想早睡啊!但是几点呢!
+9点不可能,刚吃完晚饭就睡了.
+11点还是1点?
+
+**learn how react alpine vue svelte jquery works**
+
 

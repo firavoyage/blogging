@@ -6,7 +6,7 @@
 
 > summer vacation daily
 
-- visit digital homes (al)
+- visit digital homes (al sr)
 - eat (bilimiao)
 
 > summer vacation day
@@ -36,6 +36,7 @@
 
 - classify web (by tag)
 - classify memories (by tag)
+- redesign fav (trim and move)
 
 > school life
 

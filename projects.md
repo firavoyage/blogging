@@ -339,7 +339,7 @@
 
 ### `pure`
 
-> my desired math courses | difficulities in great simplicity | math noskill
+> my desired math courses | difficulities in great simplicity | "纯度"
 
 > -> /pure
 
@@ -384,7 +384,7 @@
 
 ### `leisure`
 
-> retro vocabulary memorization style
+> retro vocabulary memorization style | "自在"
 
 - words filtered
   - no grade school words
@@ -619,15 +619,18 @@ for(i arr j brr){A} //for(let __fs_i=0,i=arr[__fs_i],j=brr[__fs_i];__fs_i<arr.le
 
 - features
   - simple and light weight
-  - intuitive and no vitual dom
+  - straight forward and no vitual dom
+  - no xml(html) needed and everything is json
   - various themes
-- examples
-  - see unit tests
+- status
+  - wip
 - inspired by
-  - alpinejs
-  - sveltejs
-  - vuejs
   - reactjs
+  - alpinejs
+  - sveltejs examples
+  - vuejs examples
+  - ant design components
+  - jquery
 
 ### `fresh`
 
@@ -652,6 +655,17 @@ for(i arr j brr){A} //for(let __fs_i=0,i=arr[__fs_i],j=brr[__fs_i];__fs_i<arr.le
   - smartisan os
   - flyme
   - h2 os
+- various themes
+  - by voyage
+
+### `berryberry`
+
+> only mihoyo doujin
+
+- only mihoyo doujin
+- in sr style
+- black list is real block
+- comment is real sorting
 - various themes
   - by voyage
 

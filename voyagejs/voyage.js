@@ -220,6 +220,13 @@ let voyage = {
         removeAllChildren(node);
       }
     },
+    rerun(nodeid) {
+      let { runContents, getNode, getState, removeAllChildren } = voyage;
+      let node = getNode(nodeid);
+      removeAllChildren(node);
+      let contents = getState(nodeid, "contents");
+      runContents(node, contents);
+    },
   },
   //node states
   //[nodeid][stateName] -> state
@@ -315,6 +322,13 @@ let voyage = {
               setStates(nodeid, { if: key });
               setStates(nodeid, { contents: contents });
               setBind(key, nodeid, "if");
+            },
+          },
+          {
+            case: "$rerun",
+            setRerun() {
+              setStates(nodeid, { contents: contents });
+              setBind(key, nodeid, "rerun");
             },
           },
           {
