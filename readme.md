@@ -94,6 +94,7 @@
   - .super bunny man (2017)
 - - hackers and painters (paulg)
   - refactoring ui (adam wathan & steve schoger)
+  - react learn docs (react commutity)
   - javascript: the good parts (douglas crockford)
   - javascript: the definitive guide (david flanagan)
   - mathematics, no 2 secondary school attached to east china normal university (math group)
@@ -108,20 +109,20 @@
   - what i have seen (chai jing)
   - .one hundred years of solitude (gabriel garcia marquez)
   - .meditations on life (zhou guoping)
-  - .godel, escher, bach (douglas hofstadter)
-  - .amusing ourselves to death (neil postman)
   - .fortress besieged (qian zhongshu)
-  - .gu cheng's poems (gu cheng)
+  - .godel, escher, bach (douglas hofstadter)
   - .haizi's poems (hai zi)
+  - .gu cheng's poems (gu cheng)
+  - .stray birds (rabindranath tagore)
   - .if on a winter's night a traveler (italo calvino)
+  - .the moon and sixpence (william somerset maugham)
+  - .the chameleon (anton chekhov)
   - .pride and prejudice (jane austen)
   - .rashomon (ryunosuke akutagawa)
+  - .amusing ourselves to death (neil postman)
   - .remarks on the song lyric and the human condition (wang guowei)
-  - .stray birds (rabindranath tagore)
   - .tao te ching (laozi)
   - .the bible (divine authorship)
-  - .the chameleon (anton chekhov)
-  - .the moon and sixpence (william somerset maugham)
 - - anyway.fm (jj ying & leon gao)
   - beyond code (randy lu & geek plux)
   - hard hacker (yixiao & 0xsaito & anson)
@@ -143,7 +144,7 @@
   - east gray bar
   - edmund d zhang
   - forever naive taffy
-  - geek bay
+  - geekerwan geek bay
   - interpreter gavin
   - jiang zhijun
   - jiangly not dd desu
@@ -190,6 +191,7 @@
   - helvetica neue
   - inconsolata
   - lato
+  - montserrat
   - noto sans cjk sc
   - noto serif cjk sc
   - resource han rounded cn
@@ -197,7 +199,7 @@
   - ubuntu sans
   - zhi mang xing
 - - wikipedia
-  - internet archive
+  - internet archive wayback machine
   - the pirate bay
   - github
   - google
@@ -211,13 +213,12 @@
   - reddit old
   - v2ex creative
   - travellings.cn
-  - bangumi
+  - bangumi.tv
   - nga bbs
-  - zhihu
   - oi wiki
   - leetcode
-  - codeforces
   - luogu
+  - codeforces
   - product hunt
   - pixiv monthly
   - dribbble
@@ -234,6 +235,22 @@
   - naval
   - fabrice bellard
   - nat friedman
+- - dracula theme
+  - atom one dark
+  - nord theme
+  - monokai pro
+  - eslint
+  - prettier
+  - code runner
+  - fitten code
+  - mistral chat noir
+  - chromium justblack
+  - ubuntu yaru
+  - material design 2
+  - material design 3
+  - smartisan os 8
+  - iphone os 6
+  - iphone os 11
 - - ubuntu 24
   - android 11
   - chromium 124
@@ -243,23 +260,10 @@
   - npm 9.2.0
   - fcitx 5.1.7
   - wine 9.0
-  - material design 2
-  - material design 3
-  - smartisan os 8
-  - iphone os 6
-  - iphone os 8
-  - iphone os 11
-- - ubuntu yaru
-  - dracula theme
-  - atom one dark
-  - nord
-  - monokai pro
-  - fold vscode
-  - eslint
-  - prettier
-  - code runner
-  - code geex
-  - fitten code
+- - json
+  - javascript
+  - cpp
+  - python
 - - antennapod
   - bilimiao
   - discord

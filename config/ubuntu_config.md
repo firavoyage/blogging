@@ -221,6 +221,7 @@ chrome://flags/#chrome-webui-refresh-2023
   - bewlybewly `https://chromewebstore.google.com/detail/bewlybewly/bbbiejemhfihiooipfcjmjmbfdmobobp`
   - wayback machine `https://chromewebstore.google.com/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak`
     - login
+  - react devtools `https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi`
 - config fonts
   - standard `roboto`
   - serif `noto serif cjk sc`

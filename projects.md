@@ -491,9 +491,26 @@
   - lodash
   - github gist
 
+
+### `pyscript`
+
+> pythonic javascript
+
+- use `:` instead of `{}`
+- no `;` needed
+- no more meaning less `let var`
+  - `a=0`
+  - `int a=0`
+  - `cat a={voice "meow"}`
+- json simplified
+  - `{a 1 b 2 c 3 d, e e}`
+  - `[a b c d e]`
+- macro like cpp
+  - `define each(a,b,c) for(int a=b;a<=c;a++){}`
+
 ### `firascript`
 
-> simplicity of a script
+> simplicity of the script
 
 > -> /firascript
 
@@ -630,7 +647,8 @@ for(i arr j brr){A} //for(let __fs_i=0,i=arr[__fs_i],j=brr[__fs_i];__fs_i<arr.le
   - sveltejs examples
   - vuejs examples
   - ant design components
-  - jquery
+  - "i built the same app 10 times" by fireship
+  - "counter app in jquery vue and react" by codingstartup
 
 ### `fresh`
 

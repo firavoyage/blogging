@@ -1833,4 +1833,12 @@ sparkle可以用四星"dance dance dance"
 
 ## 20240824
 
+17:26
+让mistral实现一个react usestate
+祂可能不会吧.一直没写出来.
+然后我就一直骂,一直重来.
+直接用完了quota,大概是100个问题吧.
+
+- read react docs
+- write quick start in voyagejs
 

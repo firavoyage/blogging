@@ -386,6 +386,7 @@ reddit,hacker news
   - 大文件 baiduyun bitorrent
 
 about me
+
 - @firavoyage
 - fira
   - origin:fira code
@@ -395,27 +396,32 @@ about me
   - i love that word that inspired me great imagination
 
 comment to ai programmer
+
 - 评价 codegeex & fittencode
   - 重新造轮子
   - 缺乏语法糖和宏定义
-  - 这些最笨的活,ai最擅长
+  - 这些最笨的活,ai 最擅长
 
 我上中学那会,少儿编程培训班很火.
-家里人给我报名,然后机缘巧合接触了oi.
-oi肯定用cpp了.
-现在我是前端开发,cpp离我很远.
-似乎只能打oi,写底层.
-而且cpp不是battery-included,
-像python,虽然没性能,但是request,random,files这些都内置了.
-而cpp读个文件,甚至写个随机都要好多行代码,也不知道有没有lodash这种库.
+家里人给我报名,然后机缘巧合接触了 oi.
+oi 肯定用 cpp 了.
+现在我是前端开发,cpp 离我很远.
+似乎只能打 oi,写底层.
+而且 cpp 不是 battery-included,
+像 python,虽然没性能,但是 request,random,files 这些都内置了.
+而 cpp 读个文件,甚至写个随机都要好多行代码,也不知道有没有 lodash 这种库.
+
 ```cpp
 srand(time(0)) //what is that
 ```
+
 又没啥语法糖(比如循环宏定义都需要自己写)
+
 ```cpp
 #define for(i,a,b) for(int i=a;i<=b;i++) //what is that
 ```
-wasm让cpp焕发第二春.
+
+wasm 让 cpp 焕发第二春.
 真好啊,尸体暖洋洋的.
 
 高中那会,玩网易狼人杀.
@@ -426,65 +432,69 @@ wasm让cpp焕发第二春.
 hs student making money
 所有赚**快**钱的方法,都是针对法律的不完善.
 就拿简中互联网举例,
-- 著作权法
-- 人工智能法
-举几个例子吧,都是关于b站涨粉,首先注册新账号,别用自己的
-- 不用代理节点,因为berryberry不封ip,设备.
+
+- - 著作权法
+  - 人工智能法
+- 举几个例子吧,都是关于 b 站涨粉,首先注册新账号,别用自己的
+- 不用代理节点,因为 berryberry 不封 ip,设备.
 - 找到一个在线接收验证码的网站,付一点小钱(两位数),买一个号.
-- 注册b站,快速答题,或者去taobao买一个
-第一个例子是关于画师,gal厂顶替
-- 找到一个pixiv画师,还没有入驻的
-- 发视频,bgm是轻松欢快的英文歌曲
-- top20张图片,每张图2~3秒.
-- 标题,"我是...,我入驻b站了"
-- 账号起名,使用`中文+英文id`("回形针paperclip")或者`日文名字desu`(如"崩坏学园娘desu").
-- 做十个这样的账户,试试看.
-- 或者steam游戏大厂,就发宣传pv(稍作删减,合法化).
-- 参考账号:`柚子社yuzusoft`
-第二个例子是关于名言金句
-- 去知乎上找到一些关于生活的名言金句
-- 比如哲理辩论上,黄执中,周玄毅的发言
-- 比如社交论坛上,一直被转发的quotes
-- 比如批判中式应试教育,批判简中社会的毛泽东
-- 随便找一个在线ai的网站,付一点小钱(两位数)
-- 然后找一个最热门(mihoyo)的角色(gi,sr,zzz),文本转语音
-- 没必要自己研究什么开源部署,设备(五位数)+时间(无价).
-- 账号起名,`${character name}语录`
-- 视频是一个pixiv上找的角色图(热门排名),固定不动
-- 整个视频,只有字幕是在动的
-- 参考账号:`卡芙卡语录`
-第三个例子是关于在线教育
-- 和名言金句同理.
-- 每一个教学都在一两分钟.
-- 文案可以参考同行.
-- 参考账号:`芙宁娜数学`
-最后,至少得到一个有许多粉丝(1w+)的账号.
-改名(`我永远喜欢${anime character}desu`),删除所有视频.
-我并没有这样做,仅仅因为我不知道这些粉丝能用来干嘛.
-我有自己真正想做的事情,**make tools elegant**.
-因为本质上,高粉丝量,是为了得到更多的推荐,便于以后发广告,扩大个人影响力.
-即使拥有粉丝(1w多),然后发无意义视频(比如没有亮点的视频游戏对局实况录屏),
-新视频数据其实会很惨淡.
+- 注册 b 站,快速答题,或者去 taobao 买一个
+- 第一个例子是关于画师,gal 厂顶替
+  - 找到一个 pixiv 画师,还没有入驻的
+  - 发视频,bgm 是轻松欢快的英文歌曲
+  - top20 张图片,每张图 2~3 秒.
+  - 标题,"我是...,我入驻 b 站了"
+  - 账号起名,使用`中文+英文id`("回形针 paperclip")或者`日文名字desu`(如"崩坏学园娘 desu").
+  - 做十个这样的账户,试试看.
+  - 或者 steam 游戏大厂,就发宣传 pv(稍作删减,合法化).
+  - 参考账号:`柚子社yuzusoft`
+- 第二个例子是关于名言金句
+  - 去知乎上找到一些关于生活的名言金句
+  - 比如哲理辩论上,黄执中,周玄毅的发言
+  - 比如社交论坛上,一直被转发的 quotes
+  - 比如批判中式应试教育,批判简中社会的毛泽东
+  - 随便找一个在线 ai 的网站,付一点小钱(两位数)
+  - 然后找一个最热门(mihoyo)的角色(gi,sr,zzz),文本转语音
+  - 没必要自己研究什么开源部署,设备(五位数)+时间(无价).
+  - 账号起名,`${character name}语录`
+  - 视频是一个 pixiv 上找的角色图(热门排名),固定不动
+  - 整个视频,只有字幕是在动的
+  - 参考账号:`卡芙卡语录`
+- 第三个例子是关于在线教育
+  - 和名言金句同理.
+  - 每一个教学都在一两分钟.
+  - 文案可以参考同行.
+  - 参考账号:`芙宁娜数学`
+- 最后,至少得到一个有许多粉丝(1w+)的账号.
+- 改名(`我永远喜欢${anime character}desu`),删除所有视频.
+- 我并没有这样做,仅仅因为我不知道这些粉丝能用来干嘛.
+- 我有自己真正想做的事情,**make tools elegant**.
+- 因为本质上,高粉丝量,是为了得到更多的推荐,便于以后发广告,扩大个人影响力.
+- 即使拥有粉丝(1w 多),然后发无意义视频(比如没有亮点的视频游戏对局实况录屏),
+- 新视频数据其实会很惨淡.
 
 about ai painting
-首先,只谈论ai绘画.ai声音,很强大了,比如gptsovits或者suno.
-ai的问题是,目前很弱.
-- 非常真实的三次元人,参考this person doesnt exist
-- 过分色情的二次元人,参考pixiv ai gen
-我想要的是这些图片吗,不是.
-我想要的是quan的herta,kazuha头像.
-我想想要的是aifadian,patreon上top的画师.
-ai根本做不到.否则早就出现一堆假装真人的画师了.
-如果你能做到,给我测试demo和一些样张,发我邮箱.
-我会付钱,真的,可能1000美金.
+首先,只谈论 ai 绘画.ai 声音,很强大了,比如 gptsovits 或者 suno.
+ai 的问题是,目前很弱.
+
+- 真实的三次元人
+  - 参考 this person doesnt exist
+- 色情的二次元人
+  - 参考 pixiv ai gen
+- 我想要的是这些图片吗,显然不是.
+- 我想要的是 quan 的 herta,kazuha 头像.
+- 我想想要的是 aifadian,patreon 上 top 的画师.
+- ai 根本做不到.否则早就出现一堆假装真人的画师了.
+- 如果你能做到,给我测试 demo 和一些样张,发我邮箱.
+- 我会付钱,真的,可能 1000 美金.
 
 等待的艺术。
 投资如此，创业亦然。自我雇佣不算。
 
 现在的年轻人几点睡。
-你知道mihoyo为啥把新的一天设置在凌晨4点吗
+你知道 mihoyo 为啥把新的一天设置在凌晨 4 点吗
 
-我听到pornhub这个词就觉得恶心.
+我听到 pornhub 这个词就觉得恶心.
 上面全是三次元的,别的都搜不到.
 但是我也不知道二次元的去哪找,或者也不流行吧.
 
@@ -494,4 +504,90 @@ react quick start
 铃/哲.麦片兄妹.
 
 retro:大哥发情遭制裁.
+
+better html thoughts
+
+```js
+//jsx
+<div>
+  <h1>Counters that update together</h1>
+  <MyButton count={count} onClick={handleClick} />
+  <MyButton count={count} onClick={handleClick} />
+</div>
+```
+
+```js
+//functional programming
+div{
+  h1{Counters that update together}
+  MyButton(count=count onClick=handleClick)
+  MyButton(count=count onClick=handleClick)
+}
+```
+
+```js
+//json element
+[
+  "div",
+  [
+    ["h1", "Counters that update together"],
+    ["MyButton", { count: count, onClick: handleClick }],
+    ["MyButton", { count: count, onClick: handleClick }],
+  ],
+];
+```
+
+why i hate cn gov
+中国政府,你打游戏吗?看番剧吗?写代码吗?踢足球吗?看小说吗?
+都没有.至少我没看到.
+你只说你又访问了哪国,又说了啥重要话.
+和我有啥关系呢!
+然后你把自己硬是送上各种媒体首页和推荐,号那么多都屏蔽不掉.
+那我只能表明身份了!我喜欢人和文化,不代表我喜欢现在的政府.
+好,屏蔽不掉是吧!好.我不屏蔽了,我搞白名单,只看自己想看的!
+于是就有了berryberry项目.
+
+why jsx sucks
+too optionated.
+/src/App.js: Adjacent JSX elements must be wrapped in an enclosing tag. Did you want a JSX Fragment <>...</>?
+你看到连着的几个标签,不能在编译的时候,自动加上<></>吗!
+笨.没话说.
+
+react vue和angular都非常optionated.
+为什么?
+使用react,你不得不敲击很多次useState
+使用vue,你不得不敲击很多次this和v-
+使用angular,你不得不敲击很多次ng-
+
+I built the same app 10 times // Which JS Framework is best? by fireship
+...
+Thank you for making this video, I always felt overwhelmed by all of these frameworks and you helped me come to realization that all of them suck, so I am going to create my own Javascript framework tonight.
+...
+I'm in the same boat, actually. The DOM has come a long way in the last 10 years.
+Example of a few things we have now: querySelector, insertAdjacentHTML, data-xxxx, css variables
+I think it's possible to have a small, lightweight "framework" where all the hoopla is just handled in the DOM and the documentation is MDN because it's just DOM.
+I could be wrong.
+...
+I taught he was being real for the first part of the comment until he said, "tonight" lmao
+
+why pyscript
+python有一个许多人都忽略的好处
+就是特别键盘友好.
+就我而言,我手指按在`f``j`上,盲打很舒服的区域
+就是手指移动一格范围.和大键.
+打什么数字啊,`f2`rename啊,上下左右啊,虽然也能盲打,
+但是要移动的就不只是手指了,而是手腕,如果照样按在`f``j`上,就很难够到
+用所有`{}`based的语言,你退出一个大括号(写完一个函数),都要按两下`down`吧!
+python只要连按两下胖胖的`enter`就好了.
+然后`;`也被胖胖的`enter`代替了
+就是打包有点麻烦,不能并在一行里.
+然后太oop了,而且optionated至于没有很好的fp支持.
+python的缺点,就是一般只能在python环境下运行,没法转化cpp和javascript之类的语言
+像typescript就没有这个问题,好像比python火呢.
+
+中文的信息熵极高，可以使用同样多的词汇表达更多的信息。
+
+我个人地,只把`北欧` `西欧` `北美` `俄日韩` `港台` `长三角` `珠三角`视为世界.
+我眼里没有其他地方,或者说那是原始自然.
+如果有谁不属于世界,赶紧来世界吧,至少连接世界.
 
