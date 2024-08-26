@@ -6,7 +6,7 @@
 - grew up in shanghai
 - on the internet since 2019, which is my actual "home town"
 - live in rest of the world
-- working on web dev
+- working on voyage project
 
 ## mission
 
@@ -35,12 +35,12 @@
   - the sound of silence (simon & garfunkel)
   - kletka (molchat doma)
   - old memory (manack & bruno wen li)
-  - one last kiss (hikaru utada)
+  - caresse sur l'océan (bruno coulais & les petits chanteurs de saint-marc)
+  - the legend of zelda: ocarina of time title theme (koji kondo)
   - sky (beyond)
   - fu shi shan xia (eason chan)
+  - one last kiss (hikaru utada)
   - ymca (village people)
-  - the legend of zelda: ocarina of time title theme (koji kondo)
-  - angry birds theme (ari pulkkinen & david schweitzer)
   - hyehwadong (park bo ram)
   - story of time (luo da you)
 - - in solitude where we are least alone (2010)
@@ -50,7 +50,7 @@
   - life in a day (2011)
   - soul (2020)
   - joker (2019)
-  - your name (2016)
+  - your name. (2016)
   - the shawshank redemption (1994)
   - the knockout (2023)
   - .evangelion (1995)
@@ -78,13 +78,9 @@
   - plants vs zombies 2 (2013)
   - kingdom rush (2011)
   - canabalt hd (2009)
-  - yosuga no sora (2008)
   - senren banka (2016)
   - sabbat of the witch (2015)
-  - riddle joker (2020)
   - the rainbow appears after flowering rain (2016)
-  - wonderful everyday (2010)
-  - bishoujo mangekyou (2011)
   - .fly me 2 the moon (2011)
   - .the legend of zelda (1998) (2017) (2023)
   - .sekiro: shadows die twice (2019)
@@ -92,11 +88,14 @@
   - .grand theft auto v (2013)
   - .the binding of isaac (2011)
   - .super bunny man (2017)
+  - .riddle joker (2020)
+  - .yosuga no sora (2008)
+  - .wonderful everyday (2010)
 - - hackers and painters (paulg)
   - refactoring ui (adam wathan & steve schoger)
   - react learn docs (react commutity)
   - javascript: the good parts (douglas crockford)
-  - javascript: the definitive guide (david flanagan)
+  - javascript: the definitive guide seventh edition (david flanagan)
   - mathematics, no 2 secondary school attached to east china normal university (math group)
   - the water level of ideology (liu yu)
   - liu qing's lectures on modern western thought (liu qing)
@@ -107,7 +106,7 @@
   - to live (yu hua)
   - the scholars (wu jingzi)
   - what i have seen (chai jing)
-  - .one hundred years of solitude (gabriel garcia marquez)
+  - .one hundred years of solitude (gabriel garcía márquez)
   - .meditations on life (zhou guoping)
   - .fortress besieged (qian zhongshu)
   - .godel, escher, bach (douglas hofstadter)
@@ -136,22 +135,22 @@
   - yixi (yixi)
 - - adhesion tek
   - blue striped rabbit
-  - chen shiyu
   - chen zihao
   - chensuiyi yicode
   - coding startup
   - diygod
-  - east gray bar
   - edmund d zhang
   - forever naive taffy
   - geekerwan geek bay
+  - huang zhizhong
   - interpreter gavin
   - jiang zhijun
-  - jiangly not dd desu
+  - jiangly not dd
   - longbow flintlock
-  - memoir of propery
+  - memoir of prosperity
+  - mohamad light
+  - mr marmot
   - my sister is just that kawaii
-  - new national debation
   - nicholas wei bro
   - nova lciop
   - old bai sleepwalked
@@ -160,26 +159,26 @@
   - one math
   - orient snowy lotus
   - paperclip
-  - postpunk singer zongzi
   - promise of playboy
+  - richard brawl stars
   - spicy pidan porridge
   - stray digital
   - tail tail desu
   - unfettered idle man
-  - wanderer brawlstars
-  - wang zhaohai
+  - wanderer brawl stars
   - xiaogu math
-  - zhang chuanzhi
-  - zju su dekuang
-- - kasugano sora
-  - herta
-  - sparkle
-  - fuxuan
-  - clara
-  - keqing
-  - nahida
-  - kaedehara kazuha
+  - zhou xuanyi
+- - acheron
   - billy kid
+  - clara
+  - fuxuan
+  - herta
+  - kaedehara kazuha
+  - kasugano sora
+  - keqing
+  - lyndon skott
+  - nahida
+  - sparkle
 - - dejavu serif
   - fira code
   - fira sans
@@ -200,28 +199,36 @@
   - zhi mang xing
 - - wikipedia
   - internet archive wayback machine
+  - archive.today
   - the pirate bay
   - github
   - google
   - youtube
-  - mistral chat
-  - ruanyf weekly
-  - antfu 100 days
   - hacker news
   - css tricks
   - codepen spark
   - reddit old
   - v2ex creative
-  - travellings.cn
-  - bangumi.tv
   - nga bbs
+  - ruanyf weekly
+  - antfu 100 days
+  - share121 inter knot
+  - mistral chat
+  - wolfram alpha
   - oi wiki
-  - leetcode
-  - luogu
   - codeforces
-  - product hunt
+  - luogu
+  - leetcode
+  - my anime list top anime
+  - bangumi.tv anime chart
+  - douban book top 250
+  - imdb movie top 250
+  - steam top 250
   - pixiv monthly
-  - dribbble
+  - dribbble popular
+  - unsplash pexels pixabay stocksnap gratisography
+  - product hunt all time
+  - travellings.cn
   - codingnow
   - kirikaze chiyuki chyk
   - growth.design
@@ -235,71 +242,47 @@
   - naval
   - fabrice bellard
   - nat friedman
-- - dracula theme
+- - ubuntu yaru
+  - dracula theme
   - atom one dark
   - nord theme
   - monokai pro
   - eslint
   - prettier
-  - code runner
-  - fitten code
-  - mistral chat noir
-  - chromium justblack
-  - ubuntu yaru
+  - chromium just black
   - material design 2
   - material design 3
   - smartisan os 8
   - iphone os 6
   - iphone os 11
-- - ubuntu 24
+  - pixel experience
+- - ubuntu 24.04
   - android 11
-  - chromium 124
+  - chromium 124.0.6367.118
+  - firefox 124.0.2
   - code 1.91.2
   - git 2.43
   - node 18.19.1
   - npm 9.2.0
+  - g++ 13.2.0
+  - python 3.12.3
   - fcitx 5.1.7
   - wine 9.0
-- - json
-  - javascript
-  - cpp
-  - python
 - - antennapod
   - bilimiao
   - discord
   - ehentai viewer
   - fcitx android
-  - gnome amberol
-  - gnome apostrophe
-  - gnome blanket
   - gnome boxes
   - gnome calculator
-  - gnome calendar
-  - gnome cartridges
   - gnome characters
-  - gnome clairvoyant
-  - gnome déjà dup backups
-  - gnome disk usage analyzer
+  - gnome deja dup backups
   - gnome document viewer
   - gnome eyedropper
-  - gnome files
-  - gnome fonts
-  - gnome graphs
-  - gnome image viewer
-  - gnome impression
   - gnome letterpress
-  - gnome maps
-  - gnome music
   - gnome newsflash
-  - gnome podcasts
-  - gnome settings
-  - gnome shortwave
-  - gnome software
   - gnome system monitor
   - gnome terminal
-  - gnome text editor
-  - gnome weather
-  - gnome web
   - gnu image manipulation program
   - golden dict
   - inkscape
@@ -309,14 +292,16 @@
   - legado read 3.0
   - libre office
   - material files
-  - nekogram android (telegram)
+  - nekogram android
   - obs studio
+  - oneplus weather
   - onscripter yuri
   - qbitorrent
   - retro arch
   - simplelive
   - slidev
   - snapseed
+  - telegram desktop
   - thunder bird
   - v2ray ng
   - v2raya
@@ -364,15 +349,17 @@
 - tell me, and i will forget.
   - show me, and i may remember.
   - involve me, and i will understand.
-- god is light, and in him there is no darkness at all.
+- soli deo gloria.
+  - god is light, and in him there is no darkness at all.
   - if we say we have fellowship with him yet walk in the darkness, we lie and do not practice the truth.
   - but if we walk in the light as he is in the light, we have fellowship with one another, and the blood of jesus his son cleanses us from all sin.
-- soli deo gloria.
 - memento mori.
+  - you will die some day.
 - 遂迷不复得路
-- 念念不忘必有回想
+- 念念不忘必有回响
 - 命里有时终须有命里无时莫强求
 - 欲买桂花同载酒终不似少年游
+- 年年岁岁花相似岁岁年年人不同
 - 江畔何人初见月江月何年初照人
 - 天地者万物之逆旅也光阴者百代之过客也
 - 悟已往之不谏知来者之可追
@@ -403,6 +390,7 @@
   - `projects` the interesting and the meaningful
   - `reply` reply to the world and rest of the world
   - `quotes` ideas and experiences
+  - `fin` everything of an end
   - `idioms` meme like quotes just for fun
   - `comments` words and their sources
   - `mistral` answers from mistral ai

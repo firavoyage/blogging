@@ -85,8 +85,6 @@ loli 有三好,身轻体柔易推倒
 据说是请了代肝
 (dogstone)
 
-so much for this have a nice day.
-
 想通过印刷钞票来消灭贫穷，就像是通过颁发毕业证书来消除文盲。
 
 男主没脸,女主危险.
@@ -472,6 +470,19 @@ hs student making money
 - 因为本质上,高粉丝量,是为了得到更多的推荐,便于以后发广告,扩大个人影响力.
 - 即使拥有粉丝(1w 多),然后发无意义视频(比如没有亮点的视频游戏对局实况录屏),
 - 新视频数据其实会很惨淡.
+- 说实在的,你要真的玩得够黑
+  - 抖音上买几个能开播的号
+  - 转播其他平台大主播,把脸遮住,换成贴图,live2d或者表情包
+  - 就花电费,收一个礼物都赚.
+- 或者啊
+  - 抖音上开挂(不要放出界面,不要承认)打fps游戏
+  - 带粉打架,送礼物上车
+  - 用别怕,怕别用,封别叫.
+- 或者啊
+  - 开挂养号,mihoyo之类的
+  - 很简单的事情.
+- 最后你肯定不亏,大概率赚个小钱.
+- 行业很发达了,搜一下就很多同行.
 
 about ai painting
 首先,只谈论 ai 绘画.ai 声音,很强大了,比如 gptsovits 或者 suno.
@@ -559,6 +570,8 @@ react vue和angular都非常optionated.
 使用vue,你不得不敲击很多次this和v-
 使用angular,你不得不敲击很多次ng-
 
+https://www.youtube.com/watch?v=cuHDQhDhvPE
+...
 I built the same app 10 times // Which JS Framework is best? by fireship
 ...
 Thank you for making this video, I always felt overwhelmed by all of these frameworks and you helped me come to realization that all of them suck, so I am going to create my own Javascript framework tonight.
@@ -569,6 +582,12 @@ I think it's possible to have a small, lightweight "framework" where all the hoo
 I could be wrong.
 ...
 I taught he was being real for the first part of the comment until he said, "tonight" lmao
+...
+"You'll end up building your own shitty JS framework, and the last thing the world needs is another JS framework." -This is literally GOLD and I can't stop laughing.
+...
+My mind is blown on how someone actually decided to compare these tools in the shortest amount of time while showing all the important things along the way. Extremely well done and many thanks! 
+...
+This was the best video on JS frameworks I've ever seen.
 
 why pyscript
 python有一个许多人都忽略的好处
@@ -590,4 +609,80 @@ python的缺点,就是一般只能在python环境下运行,没法转化cpp和jav
 我个人地,只把`北欧` `西欧` `北美` `俄日韩` `港台` `长三角` `珠三角`视为世界.
 我眼里没有其他地方,或者说那是原始自然.
 如果有谁不属于世界,赶紧来世界吧,至少连接世界.
+
+如果你想找到最好的编程语言,就把同样的代码
+在最流行的一些语言实现,然后把所有内置语法(符号和关键字)删掉
+
+我劝我妹妹学c和python，我真是负责任的哥哥
+
+genshin impact is solitude.
+if not, time to give up.
+原神是清净.失去了孤独的人,要去别处寻找.
+然后特别注意,游戏是代肝文化,不要自己做代肝.
+
+about programming english
+- 最低配置
+  - 认识字母
+  - 建议安装一本离线词典(`youdao`,`eudic`,`goldendict`)
+  - 确保看到一个生词后,十秒内能得到释义
+- 流畅配置
+  - 会从句语法(`despite the fact that`,`indentation based`,`the students present`)
+  - 建议收藏一个在线翻译书签,也可以装插件
+- 高端配置
+  - 会专业八级(或者留学考试)词汇和介词搭配
+  - congratulations
+
+all web frameworks suck
+because it's javascript's fault that didnt offer
+a method to listen a variable change
+after all you could only listen a prop of an obj
+
+run daily
+reply weekly
+release monthly
+revenue yearly
+
+so much for this have a nice day.
+以上.祝你度过智识的,审美的一天.
+
+流淌吧,过往的稻光.
+流淌吧,过往的乐章.
+
+为什么?
+左右互搏!
+
+勇敢去做.
+(in solitude where we are least alone)
+
+lex fridman podcast
+...
+Thank You
+I am forever grateful for the wisdom and love I've encountered in the meandering journey of doing these conversations. I can honestly say that I can die a happy man having had the chance to pause and witness so many moments of magic, at once fleeting and unforgettable. Thank you.
+...
+Note from 2023: The above was written in 2018, 5 years ago, and it is as true now as it ever was. Thank you again. I love you all!
+
+- 我高中辍学了(目前高二在读)
+- 老师很好,来自east cn normal和shanghai normal的占大多数.
+- 教材不好.我对好教材的定义是,react文档.
+- 我想自己编教材,自己教学.
+- 个人对,数学,算法,编程感兴趣.
+...
+btw,javascript设计得太差了,
+不支持宏定义,不支持取地址,不支持运算符重载...
+
+我对`老婆(waifu)`的定义是`给一个少年留下深刻印象的人物的集合`
+`set charactersMovedABoyDeeply`
+对`老公`的定义是`给一个少女留下深刻印象的人物的集合`
+`set charactersMovedAGirlDeeply`
+所以不要意外,如果我把`球友`,`棋友`,`搭子`,`闺蜜`,`兄弟`用伴侣称呼.
+
+任何时候都是入坑mihoyo的好时候.
+
+我喜欢的设计(-> voyage components?)
+- chromium downloads scroll bar
+- apple right click touch control
+
+x^2+y^2=1,求max((x+1)(y+2)).
+y=sqrt(1-x^2),直接求导.导数取零,一元四次方程.
+5次以下都有解析解.done.
 

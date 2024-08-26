@@ -2,6 +2,50 @@
 
 > 🌕 💤 before 23:00!
 
+## 20240827
+
+> summer vacation daily
+
+- visit digital homes (al sr)
+- eat (bilimiao)
+
+> summer vacation day
+
+- write react docs quick start in voyagejs
+- program voyage create and run
+- create voyage unit test (ref react docs examples)
+- make sr styled component library in voyagejs (-> /voyagejs)
+- implement pre project with sr components (-> /pre)
+- make pure math videos for highschool grade 1 term 1 (-> /pure)
+- write intuitive web dev guide (-> /intuitive)
+
+> summer vacation without internet
+
+- program voyagejs (0.5)
+- read books (one hundred years of solitude)
+- watch bangumis (mygo or bocchi or yosuga no sora)
+
+> summer vacation night
+
+- sync phone and handle g.zip
+- reclassify memories
+- play rpg (sr)
+- read ruanyf weekly (-> ruanyf)
+- watch simplelive
+- sleep before 1:00
+- play galgames (senrenbanka)
+- listen to podcasts (antennapod)
+
+> summer vacation spare time
+
+- classify web (by tag)
+- redesign fav (trim and move)
+
+> school life
+
+- read book (one hundred years of solitude)
+- learn english & math
+
 ## 20240822
 
 > summer vacation daily

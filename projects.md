@@ -644,8 +644,10 @@ for(i arr j brr){A} //for(let __fs_i=0,i=arr[__fs_i],j=brr[__fs_i];__fs_i<arr.le
 - inspired by
   - reactjs
   - alpinejs
+  - mithriljs
   - sveltejs examples
   - vuejs examples
+  - jquery
   - ant design components
   - "i built the same app 10 times" by fireship
   - "counter app in jquery vue and react" by codingstartup
