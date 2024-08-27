@@ -35,14 +35,15 @@
   - the sound of silence (simon & garfunkel)
   - kletka (molchat doma)
   - old memory (manack & bruno wen li)
-  - caresse sur l'océan (bruno coulais & les petits chanteurs de saint-marc)
   - the legend of zelda: ocarina of time title theme (koji kondo)
+  - caresse sur l'océan (bruno coulais & les petits chanteurs de saint-marc)
   - sky (beyond)
   - fu shi shan xia (eason chan)
   - one last kiss (hikaru utada)
   - ymca (village people)
   - hyehwadong (park bo ram)
   - story of time (luo da you)
+  - if (bo peep, bo luo sai dong)
 - - in solitude where we are least alone (2010)
   - worldend: what do you do at the end of the world? are you busy? will you save us? (2017)
   - tom and jerry classic collection (1940)
@@ -85,6 +86,7 @@
   - .the legend of zelda (1998) (2017) (2023)
   - .sekiro: shadows die twice (2019)
   - .elden ring (2022)
+  - .minecraft (2011)
   - .grand theft auto v (2013)
   - .the binding of isaac (2011)
   - .super bunny man (2017)
@@ -134,23 +136,37 @@
   - yitianshijie (li ruyi)
   - yixi (yixi)
 - - adhesion tek
+  - antfu 100 days
+  - antonychenn genshin in chinese
+  - anyway.fm/{2016..2021}
   - blue striped rabbit
+  - brad traversy
   - chen zihao
   - chensuiyi yicode
+  - cloudwu codingnow
   - coding startup
+  - dan abramov overreacted
   - diygod
   - edmund d zhang
+  - fabrice bellard
+  - fireship frameworks beyond a todo list
   - forever naive taffy
   - geekerwan geek bay
+  - growth.design
   - huang zhizhong
   - interpreter gavin
+  - james sinclair jrsinclair
   - jiang zhijun
   - jiangly not dd
+  - jjying iconmoon
+  - kirikaze chiyuki chyk
+  - livid v2ex
   - longbow flintlock
   - memoir of prosperity
   - mohamad light
-  - mr marmot
+  - mr marmot little pink wojaks
   - my sister is just that kawaii
+  - nat friedman
   - nicholas wei bro
   - nova lciop
   - old bai sleepwalked
@@ -159,13 +175,17 @@
   - one math
   - orient snowy lotus
   - paperclip
+  - paul graham paulg
   - promise of playboy
   - richard brawl stars
+  - rodrigo pombo pombus
   - spicy pidan porridge
   - stray digital
   - tail tail desu
+  - tim qian
   - unfettered idle man
   - wanderer brawl stars
+  - wes bos
   - xiaogu math
   - zhou xuanyi
 - - acheron
@@ -204,14 +224,13 @@
   - github
   - google
   - youtube
+  - ruanyf weekly
   - hacker news
   - css tricks
   - codepen spark
   - reddit old
   - v2ex creative
   - nga bbs
-  - ruanyf weekly
-  - antfu 100 days
   - share121 inter knot
   - mistral chat
   - wolfram alpha
@@ -229,19 +248,6 @@
   - unsplash pexels pixabay stocksnap gratisography
   - product hunt all time
   - travellings.cn
-  - codingnow
-  - kirikaze chiyuki chyk
-  - growth.design
-  - iconmoon
-  - livid
-  - tim qian
-  - james sinclair jrsinclair
-  - dan abramov overreacted
-  - rodrigo pombo
-  - paul graham paulg
-  - naval
-  - fabrice bellard
-  - nat friedman
 - - ubuntu yaru
   - dracula theme
   - atom one dark
@@ -309,8 +315,6 @@
 
 ## quotes
 
-- a ship in harbor is safe
-  - but that is not what ships are built for
 - as human beings it is our right (maybe our moral duty) to reshape the universe to our preferences
   - technology, which is really knowledge, enables this
   - you should probably work on raising the ceiling, not the floor
@@ -327,12 +331,16 @@
   - the answer is predictive of your behavior
   - better to get your dopamine from improving your ideas than from having them validated
   - it's ok to get yours from "making things happen"
+- a ship in harbor is safe
+  - but that is not what ships are built for
+- if you can make a decision with analysis, you should do so. 
+  - but it turns out in life that your most important decisions are always made with instinct and intuition.
+  - if i make, like, three good decisions a day, that's enough.
+  - warren buffett says he's good if he makes three good decisions a year.
 - stay focused, keep shipping.
   - build early, build always.
   - improve yourself, write solid/simple/stupid code.
-  - move fast and break things.
   - live in the future and build what's missing.
-  - good luck and have fun.
 - reading is active while watching tv is passive
   - all the research says reading a book is good for you.
   - it reduces stress, promotes comprehension, relieves depression, helps you sleep and may contribute to preventing alzheimer's.
@@ -342,7 +350,6 @@
   - tv takes all that good imagination away.
 - world is powered by solitude.
   - gravitated and spellbound
-  - do have faith in what you are doing
   - beautifully advance
 - life is a long-plank game
   - character is destiny
@@ -378,19 +385,17 @@
 ## pages
 
 - people
-  - `ruanyf` everything about the digital time
+  - `ruanyf` everything of the digital time
   - `livid` letter to confused youth
   - `florio` guide to programming ride
   - `nat` belief of a tech entrepreneur
   - `yinming` answers from a startup webmaster
-  - `naval` way to rich without luck
-  - `programmer` why chinese programmers suck
-  - `one math` why one math channel sucks
+  - `naval` about wealth
 - ideas
   - `projects` the interesting and the meaningful
   - `reply` reply to the world and rest of the world
   - `quotes` ideas and experiences
-  - `fin` everything of an end
+  - `fin` at the end of the day
   - `idioms` meme like quotes just for fun
   - `comments` words and their sources
   - `mistral` answers from mistral ai

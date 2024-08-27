@@ -1975,5 +1975,17 @@ sr trailblaze level 40.
 - voyage unit test (ref react docs examples)
 - handle g.zip and reclassify memories
 
+2:43
+不吃水果了,梨和葡萄放冰箱了.
+看richard bs用大锤上大师,睡觉.
+
+## 20240827
+
+21:31
+没做什么事情.
+感觉voyagejs...
+- 不使用html
+- 不区分data和setdata
+- 框架并不是复杂的东西.
 
 
