@@ -163,14 +163,16 @@
   - livid v2ex
   - longbow flintlock
   - memoir of prosperity
+  - mihoyo change release
+  - mihoyo old ocean tubber
+  - mihoyo upright flies
   - mohamad light
   - mr marmot little pink wojaks
   - my sister is just that kawaii
   - nat friedman
   - nicholas wei bro
   - nova lciop
-  - old bai sleepwalked
-  - old ocean tubber
+  - old bai sleepwalked waifu vr
   - old skilled tofu
   - one math
   - orient snowy lotus
@@ -469,7 +471,7 @@
 - `tech otaku` unworldly girls...
 - `digital hoarder` memories forever...
 - `simplicity addict` elegance of knowledge...
-- `indie developer` freedom of mind...
+- `indie developer` libre world...
 
 ## wish
 
