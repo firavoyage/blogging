@@ -698,10 +698,13 @@ y=sqrt(1-x^2),直接求导.导数取零,一元四次方程.
 - 314
 - 1618
 
-收集日式中文.
+收集二字日式中文.
 - 映画
 - 追想
-- 二次元
+- 次元
+- 本家
+- 的说
+- 先辈
 
 我建议啊,上课的时候,你就桌下放个录音,
 回去语音识别一下,拿个逐字稿,看看都说了些啥,
@@ -714,3 +717,33 @@ y=sqrt(1-x^2),直接求导.导数取零,一元四次方程.
 - c
 - done.
 
+todo list should be only one line.
+better?
+
+世界上现在77亿人，有253亿只(养殖的)鸡，是人的数量的三倍。也就是说，每个人平均可以得到三只鸡请记住，不管你有多么孤独，这世界上的某个角落里有三只鸡是为你而生的，就算它们死了，立刻又会有同类补上，就算你一个朋友都没有，你还有三只鸡。今天是肯德基疯狂星期四 V我50，我帮你去谢谢鸡。
+
+- 结束
+- 拿下
+- 得吃
+- 有了
+- 搞定
+...
+这些词都换掉.完成.
+- 以上.
+
+(from react learn docs)
+repeating code?
+```js
+function Profile({ person, size, isSepia, thickBorder }) {
+  return (
+    <div className="card">
+      <Avatar
+        person={person}
+        size={size}
+        isSepia={isSepia}
+        thickBorder={thickBorder}
+      />
+    </div>
+  );
+}
+```

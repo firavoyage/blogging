@@ -27,7 +27,7 @@
   - life size waifu pillow
   - potted plant
   - functional programming
-  - dark style & night light
+  - dark style & night light & low brightness
   - math and algorithms
   - web dev
 - - wind of change (scorpions)
@@ -94,10 +94,10 @@
   - .yosuga no sora (2008)
   - .wonderful everyday (2010)
 - - hackers and painters (paulg)
-  - refactoring ui (adam wathan & steve schoger)
-  - react learn docs (react commutity)
   - javascript: the good parts (douglas crockford)
   - javascript: the definitive guide seventh edition (david flanagan)
+  - react learn docs (react commutity)
+  - refactoring ui (adam wathan & steve schoger)
   - mathematics, no 2 secondary school attached to east china normal university (math group)
   - the water level of ideology (liu yu)
   - liu qing's lectures on modern western thought (liu qing)
@@ -136,9 +136,12 @@
   - yitianshijie (li ruyi)
   - yixi (yixi)
 - - adhesion tek
+  - ahdark
+  - andrew yang
   - antfu 100 days
   - antonychenn genshin in chinese
   - anyway.fm/{2016..2021}
+  - barack obama
   - blue striped rabbit
   - brad traversy
   - chen zihao
@@ -188,6 +191,7 @@
   - unfettered idle man
   - wanderer brawl stars
   - wes bos
+  - white house
   - xiaogu math
   - zhou xuanyi
 - - acheron
@@ -242,10 +246,11 @@
   - leetcode
   - my anime list top anime
   - bangumi.tv anime chart
+  - pixiv monthly
+  - missav japanese
   - douban book top 250
   - imdb movie top 250
   - steam top 250
-  - pixiv monthly
   - dribbble popular
   - unsplash pexels pixabay stocksnap gratisography
   - product hunt all time
@@ -368,8 +373,9 @@
 - 念念不忘必有回响
 - 命里有时终须有命里无时莫强求
 - 欲买桂花同载酒终不似少年游
-- 年年岁岁花相似岁岁年年人不同
 - 江畔何人初见月江月何年初照人
+- 年年岁岁花相似岁岁年年人不同
+- 去年今日此门中人面桃花相映红
 - 天地者万物之逆旅也光阴者百代之过客也
 - 悟已往之不谏知来者之可追
 - 寓形宇内复几时曷不委心任去留
@@ -428,13 +434,13 @@
 ## repos
 
 - `blogging` notes and inspirations
-- `web` pages capsuled
+- `web` findings and capsules
 - `memories` life
-- `memories/comments` spectator life
-- `memories/discoveries` digital life
-- `memories/gaming` gaming life
-- `memories/school` school life
-- `programs` source
+- `memories/comments` cyber wanderer
+- `memories/discoveries` digital memories keeper
+- `memories/gaming` otaku gamer
+- `memories/school` life long student
+- `programs` source of all
 - `music` favorite songs
 - `fonts` favorite fonts
 - `self` favorite avatars
@@ -455,9 +461,9 @@
   - twitter `firascript`
   - other mirrors `_wip`
 - videos
-  - telegram `firavid`
   - bilibili `Fira_言序`
   - youtube `_wip`
+  - telegram `_wip`
   - other mirrors `_wip`
 - letters
   - telegram group `voyagefira`
@@ -470,6 +476,7 @@
 - `reminiscent youth` good old days...
 - `tech otaku` unworldly girls...
 - `digital hoarder` memories forever...
+- `idle student` earthly escapade...
 - `simplicity addict` elegance of knowledge...
 - `indie developer` libre world...
 

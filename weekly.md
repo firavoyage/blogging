@@ -2,6 +2,43 @@
 
 > 🌕 💤 before 23:00!
 
+## 20240829
+
+> summer vacation daily
+
+- visit digital homes (al sr)
+- eat (bilimiao)
+
+> summer vacation day
+
+- read over react docs
+- write react docs in voyage
+- program voyage
+- make sr component library
+- pre project
+- float project
+- pure math project for hs g1t1
+- intuitive project quick start
+
+> summer vacation night
+
+- play rpg (sr)
+- read ruanyf weekly
+- watch bangumis (mygo or bocchi or yosuga no sora)
+- watch simplelive
+- play galgames (senrenbanka)
+- play pod (antennapod)
+
+> summer vacation spare time
+
+- classify web (by tag)
+- rethink fav (rm and mv)
+
+> school life
+
+- read book (one hundred years of solitude)
+- learn math & english
+
 ## 20240827
 
 > summer vacation daily

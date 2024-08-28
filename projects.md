@@ -79,7 +79,7 @@
   - algorithm and data structure visualization
 - inspire
   - structure of ordered thoughts
-  - steam top rated rank list (taptap) (qoo) (3839)
+  - taptap 3839 steam top rated rank list
   - food recipe gantt image
   - math venn image
   - programming roadmap
@@ -119,6 +119,8 @@
   - berryberry profile
   - github repo
   - medium article ...
+- remove watermark
+  - select and remove
 - generate memes
   - nokia phone
   - azurlane cat
@@ -128,7 +130,8 @@
   - movies
   - quotes
 - automation
-  - everything is template
+  - every image is a template
+  - every command is a script
   - files are json
 - svg editor
   - full featured
@@ -467,12 +470,6 @@
   - flexible syntax while some have strict limits like line end semicolons and main functions
   - the only script language which browsers support
   - es6 great power like block definition and destructuring assignment
-- when not javascript
-  - cpp for high performance need like oi
-  - python for its request and data process lib
-  - golang for its server calc and database lib
-  - java for android dev
-  - swift for ios dev
 - various themes
   - by voyage
 - inspired by
@@ -595,6 +592,27 @@ for(i arr j brr){A} //for(let __fs_i=0,i=arr[__fs_i],j=brr[__fs_i];__fs_i<arr.le
 - inspired by
   - arc lang (-> arc.txt)
   - javascript (-> javascript.md)
+
+### `scriptype`
+
+> typescript in javascript
+
+- concepts
+  - tuple
+  - array
+  - object
+- including
+  - create
+  - from
+  - check
+- syntax
+  - cat `{type:"cat",count:number}`
+  - dog `{type:"dog",count:number}`
+  - animal `cat|dog`
+  - zoo `animal[]`
+  - city `zoo{}`
+  - alias `(a,b)`
+  - dict `alias{}`
 
 ### `voyage`
 
