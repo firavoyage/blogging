@@ -152,7 +152,7 @@
   - diygod
   - edmund d zhang
   - fabrice bellard
-  - fireship frameworks beyond a todo list
+  - fireship a todo list and ten frameworks
   - forever naive taffy
   - geekerwan geek bay
   - growth.design
