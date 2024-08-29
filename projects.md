@@ -114,6 +114,7 @@
   - all controls are javascript methods
   - minify and svgify
   - remove watermark
+  - mosiac with abstract shapes and unworldly symbols
 - svg editor
   - simple
 - local based
@@ -576,7 +577,7 @@ for(i arr j brr){A} //for(let __fs_i=0,i=arr[__fs_i],j=brr[__fs_i];__fs_i<arr.le
 
 ### `scriptype`
 
-> typescript in javascript
+> better regex or ast "typescript in javascript"
 
 - concepts
   - tuple

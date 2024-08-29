@@ -23,17 +23,17 @@
   - goldendict
   - endeavour
 - config dock application icon
+  - -> `extensions > ubuntu dock > more > settings > launchers`
   - show application icon `off`
-> -> extensions > ubuntu dock > more > settings > launchers
 
 ## apps
+- -> `default apps`
 - web `chromium web browser`
 - mail `thunderbird mail`
 - calendar `calendar`
 - music `vlc media player`
 - video `vlc media player`
 - photos `image viewer`
-> -> default apps
 
 ## displays
 - desktop icons `off` 
@@ -63,6 +63,7 @@ sudo localectl set-locale lc_time=en_us.utf8
 
 ## users
 - remove password
+  - -> `admin:///etc/polkit-1/localauthority/50-local.d/nopw.pkla`
 ```
 sudo visudo `fira all=(all) nopasswd:all`
 ```
@@ -72,13 +73,12 @@ identity=unix-group:sudo
 action=*
 resultactive=yes
 ```
-> -> admin:///etc/polkit-1/localauthority/50-local.d/nopw.pkla
 - disable `keyring popup`
+  - ref `https://linuxconfig.org/how-to-disable-keyring-popup-on-ubuntu`
   - open `passwords and keys`
   - select `change passwd`
   - enter old passwd
   - leave it blank & enter
-> ref `https://linuxconfig.org/how-to-disable-keyring-popup-on-ubuntu`
 
 ## sound
 - system sound `off`
@@ -93,32 +93,34 @@ resultactive=yes
   - plugged in `off`
 
 ## printer
+- ref `https://in.canon/en/support/search` `linux64 ij debian`
 - install canon printer driver
-> ref `https://in.canon/en/support/search` `linux64 ij debian`
 
 ## privacy
+- -> `tmpfile&trash`
 - config `auto delete files after 30days`
-> -> tmpfile&trash
 
 # backup
 - config 
   - storage `local folder:backup`
   - schedule 
+    - -> `preferences`
     - backup automatically `on`
     - frequency `daily`
     - keep `forever`
-> -> preferences
 
 # fonts
 - install fonts
-> -> git/fonts
+  - -> `git/fonts`
 - config `system default fonts`
+  - -> `gnome tweaks > fonts`
   - interface text `ubuntu sans`
   - document text `noto sans cjk sc`
   - monospace text `fira code`
-> -> gnome tweaks > fonts
 - config `preferred cjk fonts`
-```
+  - ubuntu 22 -> `admin:///etc/fonts/conf.d/64-language-selector-prefer.conf`
+  - ubuntu 24 -> `admin:///etc/fonts/conf.d/64-language-selector-cjk-prefer.conf`
+```xml
 <?xml version="1.0"?>
 <!DOCTYPE fontconfig SYSTEM "fonts.dtd">
 <fontconfig>
@@ -153,8 +155,6 @@ resultactive=yes
 	</alias>
 </fontconfig>
 ```
-> ubuntu 22 -> admin:///etc/fonts/conf.d/64-language-selector-prefer.conf
-> ubuntu 24 -> admin:///etc/fonts/conf.d/64-language-selector-cjk-prefer.conf
 
 # softwares & updates
 - disable `software updater popup`
@@ -162,33 +162,29 @@ resultactive=yes
 sudo sed --in-place 's/NoDisplay=true/NoDisplay=false/g' /etc/xdg/autostart/update-notifier.desktop
 ```
 - disable `auto update`
+  - -> `softwares & updates > other softwares`
   - (all) `off`
-> -> softwares & updates > other softwares
 
 # gnome tweaks
 - config `startup applications`
-```
-chromium
-code
-fcitx5
-vlc media player
-```
+  - chromium
+  - code
+  - fcitx5
+  - vlc media player
 
 # files
 - add templates
-```
-markdown.md
-cpp.cpp
-```
+  - markdown.md
+  - cpp.cpp
 
 # chromium
 - disable `new look`
+  - ref `https://snapcraft.io/docs/revisions` `https://snapcraft.io/docs/managing-updates`
   - install `chromium 124.0.6367.118`
 ```
 sudo snap install chromium --revision 2842
 sudo snap refresh --hold=forever
 ```
-> ref https://snapcraft.io/docs/revisions https://snapcraft.io/docs/managing-updates
   - disable `flags`
 ```
 chrome://flags/#customize-chrome-side-panel
@@ -196,21 +192,21 @@ chrome://flags/#chrome-refresh-2023
 chrome://flags/#chrome-webui-refresh-2023
 ```
 - config title bar
+  - (right click the title bar)
   - use system title bar `off`
-> right click the title bar
 - config `new tab page`
+  - -> `customize chromium`
   - show shortcuts `off`
-> -> customize chromium
 - import bookmarks
-> -> git/blogging/config/chromium_bookmarks.html
-- import passwords
-> -> git/blogging/config/chromium_passwords.zip
+  - -> `git/blogging/config/chromium_bookmarks.html`
+- import passwords `git/blogging/config/chromium_passwords.zip`
 - config extensions
   - justblack `https://chromewebstore.google.com/detail/just-black/aghfnjkcakhmadgdomlmlhhaocbkloab`
   - adguard `https://chromewebstore.google.com/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg`
     - filters `ad blocking` `privacy` `annoyance` `...`
-    - import settings `git/blogging/config/list_adguard.json`
+    - user rules / import settings `git/blogging/config/list_adguard.txt`
     - allow in incognito
+    - additional settings / notify about extension updates `off`
   - google translate `https://chromewebstore.google.com/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb`
     - my primary language `chinese(simplified)`
     - pop-up translations `immediately popup`
@@ -223,12 +219,12 @@ chrome://flags/#chrome-webui-refresh-2023
     - login
   - react devtools `https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi`
 - config fonts
+  - -> `chrome://settings/fonts`
   - standard `roboto`
   - serif `noto serif cjk sc`
   - sans-serif `noto sans cjk sc`
   - fixed-width `fira code`
   - mathematical `dejavu serif`
-> -> chrome://settings/fonts
 
 # code
 - install (fix fcitx compatibilty issue)
@@ -246,13 +242,14 @@ sudo apt update
 sudo apt install code
 ```
 - config appearance
+  - -> `view > appearance`
   - menu & status & ... bar `off` 
   - minimap `off`
   - toggle bread crumbs `off`
   - render control characters `off`
   - sticky scroll `on`
-> -> view > appearance
 - config behavior
+  - -> `file > preferences > settings`
   - autosave `after delay`
   - font family `"Fira Code", "Noto Sans CJK SC", monospace`
   - font size `16`
@@ -261,7 +258,6 @@ sudo apt install code
   - render whitespace `none`
   - lightbulb `off`
   - workspace `off`
-> -> file > preferences > settings
 - install theme
   - dracula official (current)
   - one dark pro
@@ -275,6 +271,7 @@ sudo apt install code
   - code runner
     - run in terminal `on`
     - auto focus terminal `on`
+    - -> `settings.json`
     - fix `cjk filename` issue
 ```
 "code-runner.executormap": {
@@ -282,15 +279,14 @@ sudo apt install code
   "cpp": "cd $dir && g++ \"$filename\" -o \"$filenamewithoutext\" && \"$dir$filenamewithoutext\"",
 }
 ```
-> -> settings.json
 - config user snippets
-> from -> git/blogging/config/cpp.code-snippets
-> to -> file > preferences > configure user snippets
+  - -> `git/blogging/config/cpp.code-snippets`
+  - -> `file > preferences > configure user snippets`
 - config shortcuts
+  - -> `ctrl k ctrl s`
   - duplicate selection `ctrl d`
   - insert line below `shift enter`
   - run code `ctrl r`
-> ctrl k ctrl s
 - use shortcuts
   - do anything `ctrl shift p`
   - open settings page `ctrl ,`
@@ -322,35 +318,35 @@ sudo apt install code
 
 # git
 - config github
-> -> https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls
+  -  -> `https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls`
 - config gitee (github mirror)
-> use username and password
+  - use username and password
 - use shortcuts
-> -> git/blogging/config/git_shortcut.txt
+  - -> `git/blogging/config/git_shortcut.txt`
 
 # fcitx5
-- install
-  - install app
+- install app
 ```
 sudo apt install fcitx5 fcitx5-chinese-addons fcitx5-frontend-gtk4 fcitx5-frontend-gtk3 fcitx5-frontend-gtk2 fcitx5-frontend-qt5
 ```
-  - install dict
+- install dict
 ```
 wget https://github.com/felixonmars/fcitx5-pinyin-zhwiki/releases/download/0.2.4/zhwiki-20220416.dict
 mkdir -p ~/.local/share/fcitx5/pinyin/dictionaries/
 mv zhwiki-20220416.dict ~/.local/share/fcitx5/pinyin/dictionaries/
 ```
-  - install another dict
+- install another dict
+  - -> `https://github.com/wuhgit/CustomPinyinDictionary`
+  - download CustomPinyinDictionary_Fcitx.dict
 ```
-// download CustomPinyinDictionary_Fcitx.dict
 mv CustomPinyinDictionary_Fcitx.dict ~/.local/share/fcitx5/pinyin/dictionaries/
 ```
-> -> https://github.com/wuhgit/CustomPinyinDictionary
-  - set default
+- config default
 ```
 im-config
 ```
-  - set environment variables
+- config environment variables
+  - -> `admin:///etc/environment`
 ```
 GTK_IM_MODULE=fcitx
 QT_IM_MODULE=fcitx
@@ -358,16 +354,16 @@ XMODIFIERS=@im=fcitx
 SDL_IM_MODULE=fcitx
 GLFW_IM_MODULE=fcitx
 ```
-> -> admin:///etc/environment
 - disable `input method hint`
+  - -> `fcitx5-configtool > global options > behavior`
   - show input method infomation `off` 
-> -> fcitx5-configtool > global options > behavior
 - config pinyin
+  - -> `input method > pinyin > settings icon`
   - fuzzy pinyin `on`
   - prediction `off`
   - character&punctuation `half-width`
-> -> input method > pinyin > settings icon
 - config theme
+  - -> `~/.config/fcitx5/conf/classicui.conf`
 ```
 git clone https://github.com/tonyfettes/fcitx5-nord.git
 mkdir -p ~/.local/share/fcitx5/themes/
@@ -378,7 +374,6 @@ cp -r Nord-Dark/ Nord-Light/ ~/.local/share/fcitx5/themes/
 Theme=Nord-Dark
 Theme=Default //current
 ```
-> -> ~/.config/fcitx5/conf/classicui.conf
 - use shortcuts
 ```
 clipboard `ctrl ;`
@@ -404,8 +399,7 @@ passwd `firafira`
 ```
 - config `proxy only gfwlist` or `proxy except cn sites` 
 - config nodes
-  - ref
-> -> git/blogging/swim.md
+  - ref `git/blogging/swim.md`
   - repos
 ```
 https://github.com/aiboboxx/v2rayfree
@@ -470,6 +464,7 @@ winecfg
 
 # goldendict
 - install dictionaries
+  - -> `Edit > Dictionaries`
 ```
 Longman Dictionary of Contemporary English
 https://mdx.mdict.org/%E5%85%AD%E5%A4%A7%E7%9F%A5%E5%90%8D%E8%AF%8D%E5%85%B8/%E6%9C%97%E6%96%87_Longman/STFU%20LongmanBundle-%E7%BB%AE%E5%8F%A5%E6%85%A8%E9%90%97-By%20Amazon%2020160928/Longman%20Dictionary%20Of%20Contemporary%20English%206th%20EnEn/LongmanDictionaryOfContemporaryEnglish6thEnEn.mdd
@@ -517,7 +512,6 @@ https://mdx.mdict.org/Recommend/fmidioms.zip
 Penguin English Dictionary (third Edition)
 https://mdx.mdict.org/Recommend/The%20Penguin%20English%20Dictionary%203rd%2C%202007_2.zip
 ```
-> -> Edit > Dictionaries
 - config dicts order
 ```
 英汉大词典（第2版）
@@ -532,35 +526,32 @@ FreeDictionary-Idioms
 现代英汉汉英综合大辞典
 新世纪汉英大词典
 ```
-> -> Edit > Dictionaries
 - config appearance
+  - -> `View`
   - navigation `on`
   - others `off`
-> -> View
 - config behavior
+  - -> `Edit > Preferences > Interface > Tabbed Browsing`
   - open new tabs in background `off`
-> -> Edit > Preferences > Interface > Tabbed Browsing
 - use shortcuts
-```
-open screen word selector `ctrl c ctrl c`
-```
+  - open screen word selector `ctrl c ctrl c`
 
 # vlc
 - config
+  - -> `tools > preferences`
   - show settings `all`
-> -> tools > preferences
 - config jump length
+  - -> `interface > hotkeys settings`
   - short jump length `5`
-> -> interface > hotkeys settings
 - config interface
+  - -> `interface > main interfaces > qt`
   - show notification popup on track change `never`
   - continue playback `never`
-> -> interface > main interfaces > qt
 
 # qbittorrent
 - config trackers
+  - -> `tools > preferences > bitorrent`
   - automatically add these trackers to new downloads `config/list_trackers.md`
-> -> tools > preferences > bitorrent
 
 # terminal
 - install `oh-my-zsh`

@@ -2053,3 +2053,15 @@ think voyage.
 16:25
 ask mistral **np complete...**
 
+19:40
+git memeries
+8xx mb... the quota has been used over 80%.
+想着,大多数是图片,截图.
+svgify一下,就好了.
+
+22:33
+read over react docs.
+ask mistral **react use state in vue**
+
+
+

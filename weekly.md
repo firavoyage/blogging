@@ -22,8 +22,8 @@
 
 > summer vacation night
 
-- play rpg (sr)
 - read ruanyf weekly
+- play rpg (sr)
 - watch bangumis (mygo or bocchi or yosuga no sora)
 - watch simplelive
 - play galgames (senrenbanka)

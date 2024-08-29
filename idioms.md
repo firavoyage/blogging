@@ -621,16 +621,9 @@ if not, time to give up.
 然后特别注意,游戏是代肝文化,不要自己做代肝.
 
 about programming english
-- 最低配置
-  - 认识字母
-  - 建议安装一本离线词典(`youdao`,`eudic`,`goldendict`)
-  - 确保看到一个生词后,十秒内能得到释义
-- 流畅配置
-  - 会从句语法(`despite the fact that`,`indentation based`,`the students present`)
-  - 建议收藏一个在线翻译书签,也可以装插件
-- 高端配置
-  - 会专业八级(或者留学考试)词汇和介词搭配
-  - congratulations
+- if needed...
+- golden dict
+- google translate extension
 
 all web frameworks suck
 because it's javascript's fault that didnt offer
@@ -770,3 +763,8 @@ function Profile(props) {
 千年来土地兼并,刀枪与硝烟划出的国界线,并没有留下什么.
 放低过大声音,人们看到书籍,画作,乐曲,技术.人们看到文化.
 
+宏定义,运算符重载,函数多态...
+
+`class` is reserved key word in javascript
+so react use `className`...
+wtf.

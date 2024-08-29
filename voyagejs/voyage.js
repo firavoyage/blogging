@@ -5,11 +5,8 @@ let { log } = console;
 
 //type labels contents|children
 let voyage = {
-  //states
   data: {},
-  //listeners
   binds: {},
-  //return element
   create(document) {},
   run(options) {},
 };
