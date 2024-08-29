@@ -4681,5 +4681,39 @@ Certainly! Here is a list of notable American presidential candidates and their 
 
 Please note that some of these websites may no longer be active or may have been archived. For historical purposes, you can often find archived versions of these sites on platforms like the Internet Archive's Wayback Machine.
 
+## np complete
+
+> -> mistral large 2 
+
+> p and np complete
+
+Sure, I can explain the concepts of P and NP-complete in the context of computational complexity theory.
+
+### P (Polynomial Time)
+- **Definition**: P is a complexity class that contains all decision problems that can be solved by a deterministic Turing machine in polynomial time. In other words, these are problems for which an algorithm exists that can solve them in time \( O(n^k) \) for some constant \( k \), where \( n \) is the size of the input.
+- **Examples**:
+  - Sorting a list of numbers.
+  - Finding the shortest path in a graph (e.g., using Dijkstra's algorithm).
+  - Checking if a given number is prime (using the AKS primality test).
+
+### NP (Nondeterministic Polynomial Time)
+- **Definition**: NP is a complexity class that contains all decision problems for which a solution can be verified in polynomial time by a deterministic Turing machine. This means that if you are given a solution to the problem, you can check whether it is correct in polynomial time.
+- **Examples**:
+  - The Traveling Salesman Problem (TSP): Given a list of cities and the distances between each pair of cities, what is the shortest possible route that visits each city exactly once and returns to the original city?
+  - The Boolean Satisfiability Problem (SAT): Given a Boolean formula, is there an assignment of truth values to the variables that makes the formula true?
+
+### NP-complete
+- **Definition**: A problem is NP-complete if it is in NP and every other problem in NP can be reduced to it in polynomial time. This means that if you can solve an NP-complete problem efficiently, you can solve all problems in NP efficiently.
+- **Examples**:
+  - The Traveling Salesman Problem (TSP) is NP-complete.
+  - The Boolean Satisfiability Problem (SAT) is NP-complete.
+  - The Clique Problem: Given a graph and a number \( k \), does the graph contain a clique (a fully connected subgraph) of size \( k \)?
+
+### Relationship Between P and NP
+- **P ⊆ NP**: Every problem in P is also in NP because if a problem can be solved in polynomial time, then a solution can certainly be verified in polynomial time.
+- **P = NP?**: This is one of the most famous unsolved problems in computer science. If P were equal to NP, it would mean that every problem for which a solution can be verified in polynomial time can also be solved in polynomial time. Most experts believe that P ≠ NP, but this has not been proven.
+
+Understanding these concepts is fundamental to grasping the limitations and capabilities of algorithms and computational problems.
+
 
 

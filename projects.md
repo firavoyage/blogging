@@ -91,8 +91,8 @@
   - static files instead of cloud resources
 - libre
   - opensource on github
-- pwa based
-  - offline ok
+- local based
+  - pwa support
 - various themes
   - by voyage
 - inspired by
@@ -107,44 +107,25 @@
 
 > the workshop for influencers
 
-- see before you post
-  - stats observation on berryberry and yelltube
-  - use the top templates
-- create posters
-  - full featured like photoshop
-  - easy to use like keynote
-- share cards
-  - yelltube vid
-  - berryberry vid
-  - berryberry profile
-  - github repo
-  - medium article ...
-- remove watermark
-  - select and remove
-- generate memes
-  - nokia phone
-  - azurlane cat
-  - genshin paimon
-- share lists
-  - books
-  - movies
-  - quotes
+- template
+  - share videos and posts as cards
+  - image library for memes
 - automation
-  - every image is a template
-  - every command is a script
-  - files are json
+  - all controls are javascript methods
+  - minify and svgify
+  - remove watermark
 - svg editor
-  - full featured
+  - simple
 - local based
+  - content editable json format
   - in app update
-  - by pwa
+  - pwa support
 - various themes
   - by voyage
 - inspired by
   - canva
   - snapseed
   - zzkia
-  - svg path editor
 
 ### `gen`
 
@@ -740,37 +721,19 @@ for(i arr j brr){A} //for(let __fs_i=0,i=arr[__fs_i],j=brr[__fs_i];__fs_i<arr.le
 > about the traveller and the trailblazer
 
 - gi story in english
-  - i was once a gi primogem addicted player
-  - and i click the screen mindlessly and missed a lot
-  - now it's high time to pick up these memories
+  - not for primogem 
+  - play all archon quests
+  - simple
+  - about two weeks
 - sr story in english
-  - fav mihoyo game,for me personally
-  - i played this on my phone and screenshoted a few moments
-  - now i desire a full gameplay vid with state-of-art hardware
-- other games
-  - hg,hi,zzz are nothing but anime harem games full of internet memes
-  - which allow players to skip the scenes
-  - as they are battle-based and the stories are secondary,maybe
-  - so currently only gi and sr
-  - after all they are great "rpg games" or pasttime vehicles
-  - but perhaps not significant "visual novels" in the literary perspective
-- perhaps i should play it myself
-  - for example after graduate,at spare time,i live online
-  - then,i can understand english better and may pay a few cny for my love
-  - just like reading geb again,i will get a novel experience.
-- perhaps i should employ a gaming helper
-  - or just pay nothing,as free ads
-  - whatever,the full story is a long way to go...
-  - even if i have time,my fav are just a few moments among all those scenes
-  - gaming helpers are cheap here,so that's it
-- why not just play the game
-  - take control of all contents
-  - skip to favourite chapter
-  - view danmakus
-- conclusion
-  - just for fun
-  - read the book again just like many others
-  - meet more characters and create new memories
+  - auto battle enabled
+  - play all main quests
+  - elegant
+  - about a week
+- other games like hg hi zzz
+  - not now
+  - they are action games
+  - not visual novels
 - inspired by
   - memoir of prosperity
   - promise of playboy

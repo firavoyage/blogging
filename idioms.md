@@ -747,3 +747,26 @@ function Profile({ person, size, isSepia, thickBorder }) {
   );
 }
 ```
+and replacement is just js?
+```js
+function Profile(props) {
+  return (
+    <div className="card">
+      <Avatar {...props} />
+    </div>
+  );
+}
+```
+
+开盒?
+纸飞机,数据库.知道.
+编号,传真,坐标,称呼...拿到.
+哪个是我,不知道.
+
+不喜欢`国家`的定义.
+如果需要的话,用`语言`或者`文字`代替.
+为什么?
+世界是生者的世界,是今人的世界.
+千年来土地兼并,刀枪与硝烟划出的国界线,并没有留下什么.
+放低过大声音,人们看到书籍,画作,乐曲,技术.人们看到文化.
+

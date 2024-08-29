@@ -2034,3 +2034,22 @@ ask mistral: **sub concepts of elegance**
 
 拿到眼药水了,阿托品.
 之前停了几周,现在继续.
+
+03:22
+react learn docs好长啊...
+就这样吧,明天读完.
+think voyage.
+
+## 20240829
+
+11:xx
+听到做饭的声音,醒了.
+不想起床,在思考问题.其实也困.
+想着,**decorator function in javascript framework?**
+
+2:xx
+起床.读了一些内容.
+
+16:25
+ask mistral **np complete...**
+

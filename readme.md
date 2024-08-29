@@ -162,6 +162,7 @@
   - jiang zhijun
   - jiangly not dd
   - jjying iconmoon
+  - justyyuk doctor lai
   - kirikaze chiyuki chyk
   - livid v2ex
   - longbow flintlock
@@ -240,14 +241,13 @@
   - share121 inter knot
   - mistral chat
   - wolfram alpha
-  - oi wiki
   - codeforces
   - luogu
   - leetcode
+  - oi wiki
   - my anime list top anime
   - bangumi.tv anime chart
   - pixiv monthly
-  - missav japanese
   - douban book top 250
   - imdb movie top 250
   - steam top 250
@@ -258,17 +258,14 @@
 - - ubuntu yaru
   - dracula theme
   - atom one dark
-  - nord theme
+  - nord
   - monokai pro
-  - eslint
-  - prettier
-  - chromium just black
+  - just black chromium
   - material design 2
   - material design 3
   - smartisan os 8
   - iphone os 6
   - iphone os 11
-  - pixel experience
 - - ubuntu 24.04
   - android 11
   - chromium 124.0.6367.118
@@ -277,6 +274,8 @@
   - git 2.43
   - node 18.19.1
   - npm 9.2.0
+  - eslint 6.4.0
+  - prettier 9.2.0
   - g++ 13.2.0
   - python 3.12.3
   - fcitx 5.1.7
@@ -355,14 +354,19 @@
   - our brains have to work to translate the black squiggles on the page into words and then interpret the meaning and intent of those words.
   - when a character is described as tall with brown hair, a reader creates her own picture.
   - tv takes all that good imagination away.
-- world is powered by solitude.
-  - gravitated and spellbound
-  - beautifully advance
-- life is a long-plank game
-  - character is destiny
 - tell me, and i will forget.
   - show me, and i may remember.
   - involve me, and i will understand.
+- i have a small device in my pocket that provides access to nearly the sum total of human knowledge. 
+  - i use it to get into pointless arguments with people i don't know and look at pictures of cats. - (i wish i could claim that as original but it is something i read on the internet. between cats. :-/ )
+- we now generally consider moment to be a legacy project in maintenance mode. 
+  - it is not dead, 
+  - but it is indeed done.
+- world is powered by solitude.
+  - gravitated and spellbound
+  - beautifully advance
+- character is destiny
+  - life is a long-plank game
 - soli deo gloria.
   - god is light, and in him there is no darkness at all.
   - if we say we have fellowship with him yet walk in the darkness, we lie and do not practice the truth.
@@ -399,8 +403,11 @@
   - `nat` belief of a tech entrepreneur
   - `yinming` answers from a startup webmaster
   - `naval` about wealth
+  - `one math` one math criticism
+  - `programmer` programming noskill criticism
+  - `phone` youth in phones criticism
 - ideas
-  - `projects` the interesting and the meaningful
+  - `projects` things interesting and things meaningful
   - `reply` reply to the world and rest of the world
   - `quotes` ideas and experiences
   - `fin` at the end of the day
@@ -419,16 +426,15 @@
   - `/intuitive` intuitive web dev
   - `/pure` pure math
 - config
-  - `/config` preferences and shortcuts
   - `/config` `ubuntu config` elegant work flow
   - `/config` `chromium bookmarks` source of all
-  - `/config` `list ...` how my apps are
+  - `/config` `(...)` preferences and shortcuts
 - notes
-  - `/notes` `design` psychology of design cheetsheet
-  - `/notes` `plain` plain english writing guide
-  - `/notes` `competitive` competitive programming guide
-  - `/notes` `xbox` xbox travelling guide
-  - `/notes` `(testing...)` google testing on the toilet
+  - `/notes` `design` psychology in design
+  - `/notes` `plain` federal plain language
+  - `/notes` `competitive` competitive programming
+  - `/notes` `xbox` video games travelling
+  - `/notes` `(testing...)` google testing
   - `/notes` `(...)` stack overflow documentation
 
 ## repos
