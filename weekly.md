@@ -11,8 +11,7 @@
 
 > summer vacation day
 
-- read over react docs
-- write react docs in voyage
+- rewrite react docs in voyage
 - program voyage
 - make sr component library
 - pre project
@@ -22,17 +21,18 @@
 
 > summer vacation night
 
+- read react learn docs
 - read ruanyf weekly
+- classify web (by tag)
+- rethink fav (rm and mv)
+
+> summer vacation spare time
+
 - play rpg (sr)
 - watch bangumis (mygo or bocchi or yosuga no sora)
 - watch simplelive
 - play galgames (senrenbanka)
 - play pod (antennapod)
-
-> summer vacation spare time
-
-- classify web (by tag)
-- rethink fav (rm and mv)
 
 > school life
 

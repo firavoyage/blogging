@@ -489,18 +489,18 @@
 ## wish
 
 - work
+  - do what adobe and coursera do
   - knowledge organized with structure and simplicity
-  - -> /pure
-  - -> /intuitive
-  - free and premium courses made with love
 - school
   - shanghai dajing "vocational" high school 2026 graduate
   - have got #1 #2 #3 in my grade
   - dont study overtime qwq
 - rest
   - contribute to the liberty of the world
-  - explore the simplicity of programming
-
+  - discover the elegance of programming
+- mission
+  - make tools elegant
+  
 ## status
 
 - when i'm not working

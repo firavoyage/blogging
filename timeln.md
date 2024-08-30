@@ -2045,13 +2045,15 @@ think voyage.
 11:xx
 听到做饭的声音,醒了.
 不想起床,在思考问题.其实也困.
-想着,**decorator function in javascript framework?**
+想着,**decorator function in javascript framework like mithril?**
 
-2:xx
+14:xx
 起床.读了一些内容.
 
 16:25
 ask mistral **np complete...**
+...
+玩sr,好喜欢kafka
 
 19:40
 git memeries
@@ -2062,6 +2064,42 @@ svgify一下,就好了.
 22:33
 read over react docs.
 ask mistral **react use state in vue**
+
+01:27
+
+ask mistral **dom apis**
+
+ask mistral **web frameworks diff**
+
+01:52
+休息.明天读react docs.
+目前在
+- LEARN REACT
+  - ADDING INTERACTIVITY
+    - Queueing a Series of State Updates
+
+## 20240830
+
+3:xx
+睡觉,但是一直睡不着,思考各种问题.
+- 番剧的评分,决定因素
+- 交往的话语,和对话想象
+- 技术的兴衰,我的喜好
+- ...
+反正睡不着.空调设置的一个小时关.
+关.
+
+6:xx
+天亮了,听到了人声.
+阳光很亮,先是老人,再是脚步.
+只想睡觉...
+最后应该是睡着.
+
+14:46
+起床.
+看到窗台上,几周没浇水的绿色.
+去先浇水,然后扫地.
+清爽.
 
 
 
