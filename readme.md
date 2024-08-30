@@ -144,6 +144,7 @@
   - barack obama
   - blue striped rabbit
   - brad traversy
+  - chen xiao amazing origami
   - chen zihao
   - chensuiyi yicode
   - cloudwu codingnow
@@ -371,8 +372,13 @@
   - god is light, and in him there is no darkness at all.
   - if we say we have fellowship with him yet walk in the darkness, we lie and do not practice the truth.
   - but if we walk in the light as he is in the light, we have fellowship with one another, and the blood of jesus his son cleanses us from all sin.
+- two drifters off to see the world
+  - there's such a lot of world to see...
+  - for every lonely and wandering soul, 
+  - there is a lucky star behind the darkness, 
+  - waiting and shining with the freshest hope and warmest aura.
+  - some day. till then
 - memento mori.
-  - you will die some day.
 - 遂迷不复得路
 - 念念不忘必有回响
 - 命里有时终须有命里无时莫强求
@@ -397,7 +403,7 @@
 ## pages
 
 - people
-  - `ruanyf` everything of the digital time
+  - `ruanyf` everything in the digital time
   - `livid` letter to confused youth
   - `florio` guide to programming ride
   - `nat` belief of a tech entrepreneur
@@ -408,11 +414,10 @@
   - `phone` youth in phones criticism
 - ideas
   - `projects` things interesting and things meaningful
-  - `reply` reply to the world and rest of the world
-  - `quotes` ideas and experiences
-  - `fin` at the end of the day
-  - `idioms` meme like quotes just for fun
-  - `comments` words and their sources
+  - `quotes` my thoughts and my perspective
+  - `comments` what i have heard as a student
+  - `idioms` lines and memes just for fun
+  - `fin` words at the end of the day
   - `mistral` answers from mistral ai
 - self
   - `weekly` weekly plans at each time

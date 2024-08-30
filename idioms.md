@@ -154,9 +154,6 @@ make tools elegant.
 
 不切实际的官人言论与不尽完善的法律条文,本质上都是给双标开路.
 
-不能说一份的自由等于多少份的平等,也就不能权衡利害.
-企业决策反之,可以预估长期经济利益,无非收入开支.
-
 -> github jokenpo machine learning
 
 ciallo~ 0721
@@ -171,28 +168,9 @@ all `[1,10]` `1..10` `each(1,10)` incl 1 and 10.
 
 我意识到，无论谷歌发布多么新的、文档完善的、功能强大的新 API，我们余生都将为安卓 4.4 编写代码。
 
-**哈哈,我不教书~我是个小前端喵~**
-
 **tom and jerry instead of foo and bar in programming**
 
 `一数`适合基础不太好的同学.
-
-"一切都是对象".
-一切都是工具,人际交往有工具人,思考问题有工具理性.
-理工科很容易视作工具,文科反之.文科即使作为工具,也多在丈量自身.
-
-database:files tree & json
-每一条数据,都是一个 json 文件,收录在索引中.
-
-长三角,珠三角,东亚,北欧,西欧,美国沿海,未知,免费.
-其余地区按照 steam 价格分布.
-
-很简单.
-我们的地图,国界线和所有界线一般粗细.
-
-selected word should be
-with light blue bg like chromium android
-unlike chromium desktop.
 
 你是正版软件的受害者.
 
@@ -202,438 +180,42 @@ unlike chromium desktop.
 
 周期性蛋白脂肪缺乏症(学名 Insanus lovis)是一种广泛存在的慢性病，易感人群多为中国大陆年轻群体，目前暂无有效的治愈方法，只能通过使用美国公司 Kentucky Fried Chicken（简称 KFC）开发的生物制剂 Fried Animal Protein (FAP,中文译名飞普)经由食道对胃与小肠中受体进行靶向治疗缓解症状。今天是该公司降低药物售价的日子，资助 50 帮我治疗该慢性病。
 
-(oi)刷题,生活之道
-
-"世外人","楚门人",有歧视.
-"华人","国人",有问题.
-好!我说"简中人",哈哈!
-
-rss is bad & json feed is good
-(-> livid blog)
-
-(ui design)
-chromium nav icon downloads slide bar
-这个交互不错,滚动条的典范.
-当然,也就失去了提示列表长度和位置的作用,(下载不用).
-
-(ui design)
-alt tab 短按,是没有屏幕中间闪烁的,直接切屏
-等个半秒吧,才出现.
-
-why english is cult of god
-为什么英语好啊!因为你需要的键盘敲击是最少的.同样意思.
-如果一个单词很长,往往可以缩写成 3~4 个字母,不影响理解
-
-- 取头几个字母
-  - conference|configuration -> conf
-  - result|resource -> res
-  - temporary -> tmp | temp
-  - twitter -> twi
-  - development -> dev
-- 去掉几个元音
-  - image -> img
-  - hacker -> hckr
-    (反例?)
-
-你喜欢那位歌手?
-周杰伦.标准答案.
-(reliable old jiang -> student he)
-
 你说青梅不如天降~耶.
-
-前端已死?
-或许说的是职业,而非行业.
-行业上,前端
-
-- 很有趣(codepen,css tricks)
-- 很有用(figma,canva)
-  职业上,前端
-- 大厂工资高(job hunting sites)
-- 有许多大佬(ruanyf,evanyou)
-  那些找不到工作的,很多时候
-- english skill?
-- math skill?oi or algorithms experience?
-- frontend side projects?
-  同样逻辑,前端已死,清北亦已死
-  因为,对于应试教育初级学生,努力的作用是边际递减的
-  他们可能性的上限,或许也不及 t&p 的最低录取分
-  但是 t&p 依然是很好的学校.
 
 0d00 0721
 
-javascript symbol is ...
-
-```js
-symbol = function (anything) {
-  const token =
-    "dafasdkfhadsfjkadwhifonawfkadshfadsjfkadsfadsjfsdajfkladsjflksafjkadslfjkasljfkadsfjlk";
-  const num = counter.count();
-  let result = `${token}${num}`;
-  return result;
-};
-```
-
-cpp 是非常优秀的语言,可惜内置的语法糖比较少
-往往需要自己定义宏,自己导入模块
-
-不喜欢 vue,react
-因为它们一般都需要预编译器
-
-女权如何?好.
-我对"好"的定义是,
-民主(有许多支持者)就是好的.
-如此定义,女权显然是好的.
-没必要权衡利弊,
-因为好事不得到实现,也就无利害之说.
-尤其是世外土地的民主.
-什么时候我会反对女权呢?
-当女权过度散布时.(如去往 hupu bbs)
-
-什么是定义辩论?
-内卷是真问题/假问题.
-真问题:找到一种和内卷沾边的真问题,定义为内卷,详细分析其为何"真"
-假问题:找到一种和内卷沾边的假问题,定义为内卷,详细分析其为何"假"
-说的都不是同一种"内卷".也没有冲突与交锋.
-
-与 ai chatbot 对话
-每个单词,只打前 3 或者前 4 个字母就行了
-
-vue school does not support china
-hhh
-
-thunder bt in china
-
-- 主流 bt dl apps(qbitorrent,transmission)
-  - 所有人下载来源于所有人
-  - 所有人上传提供给所有人
-- thunder bt
-  - 迅雷用户下载来源于所有人
-  - 迅雷用户上传仅提供给迅雷用户
-  - 这不是好事,不过没关系,迅雷用户大多是简中用户,没有公网 ip,没法上传
-  - 用公网 ip 的,网络圣佛,通常了解迅雷行为,使用主流 bt dl apps
-- chinese users
-  - download from all
-  - in most cases can not upload
-
 小鲨鱼，你可以吃棒棒糖
 云璃，你可以吃琼实鸟串
-
-why fp sucks
-我有一个字符串,只想要修改一个字.
-oop,调用字符串的方法,在原来的字符串修改那个字.
-fp,创建一整个新字符串,覆盖原来的字符串.
-overkilled?
 
 good luck and have fun.
 
 good game well played
 
-我打算法竞赛的时候,字符串哈希就是把字符串每个字符加在一起.
-然而 cpp is not battery included.wtf.now i am javascript.
+iphone 5 最后一代拟物
+iphone x 第一代全面屏
 
-回头看,买 iphone 的建议.
-iphone 5 买一个,最后一代拟物
-iphone x 买一个,第一代全面屏
-
-typescript
-增加了大量成本,收益很少,因为原来就很少在类型上犯错.
-报错大多是逻辑原因.
-
-如果你读外刊
-time,economist,mit tech review
-或者逛论坛
-reddit,hacker news
-他们经常使用从句,有一些特征
-
-- 能用过去分词的情况,不约而同用之
-  - 经常在句首使用,如 given a,b...
-- 很少用超过一个从句
-  - a that b that c
-  - b 修饰 a,c 修饰 a?还是 c 修饰 b?
-  - 增加理解成本.没有收益.
-    这就是为什么我不用`this`in js
-    增加理解成本,收益只是少写几个字.
-
-拼多多 妙界 神奇小鹿 喵喵记账 圣杯 这几样实在太多了[捂脸] 加载视频中间，没法预料
-
-我们吵架?我包赢的.看吵架什么了.
-
-- 理性的内容,比如放权(为什么不给她管钱/装修/带娃权力)
-  - 我相信你是个聪明人,一定有自己的理由,能分析下利弊吗
-  - 是这样的,确实让你掌权更合适
-  - 我只是想着,管钱/装修/带娃真的很有意思
-  - (亮出花火底牌,游戏尘寰)
-  - 如果我想试试看,能让我用钱/设计/教育吗
-  - 无论她同意与否,答应她.
-  - 实际每次行动时,总能拿到权限(欢愉).
-- 感性的内容,比如质疑(你是不是不爱我了/你是不是不相信我了)
-  - 理性的内容,最后常常导向感性的失望/猜忌/质疑.
-  - 一把抱住她,她力气不够的
-  - 把它拽到椅子上或者沙发上,还是抱住她.
-  - 躺在沙发上,休息.不理会所有言论,不放手.
-  - 加力度,把她往自己身上按.最后四下无言.
-  - 向她表示自己的困惑和无知.(我不知道我爱不爱你,如果你是我,你会如何回答自己)
-
-云盘?百度云?如果是电影,可以.
-
-- 清高
-  - 小文件(小于 1g) github telegram
-  - 大文件 dropbox bitorrent
-- 博爱
-  - 小文件(小于 1g) gitee lanzou
-  - 大文件 baiduyun bitorrent
-
-about me
-
-- @firavoyage
-- fira
-  - origin:fira code
-  - i love that as my current programming font.
-- voyage
-  - origin:english words booklet in junior high school
-  - i love that word that inspired me great imagination
-
-comment to ai programmer
-
-- 评价 codegeex & fittencode
-  - 重新造轮子
-  - 缺乏语法糖和宏定义
-  - 这些最笨的活,ai 最擅长
-
-我上中学那会,少儿编程培训班很火.
-家里人给我报名,然后机缘巧合接触了 oi.
-oi 肯定用 cpp 了.
-现在我是前端开发,cpp 离我很远.
-似乎只能打 oi,写底层.
-而且 cpp 不是 battery-included,
-像 python,虽然没性能,但是 request,random,files 这些都内置了.
-而 cpp 读个文件,甚至写个随机都要好多行代码,也不知道有没有 lodash 这种库.
-
-```cpp
-srand(time(0)) //what is that
-```
-
-又没啥语法糖(比如循环宏定义都需要自己写)
-
-```cpp
-#define for(i,a,b) for(int i=a;i<=b;i++) //what is that
-```
-
-wasm 让 cpp 焕发第二春.
-真好啊,尸体暖洋洋的.
-
-高中那会,玩网易狼人杀.
-不能和每个人都站队的.
+我们吵架?我一般抱住她.
 
 天台的风真大.
+我仿佛看到了异世界.
 
-hs student making money
-所有赚**快**钱的方法,都是针对法律的不完善.
-就拿简中互联网举例,
+思考 现在的年轻人几点睡。
+思考 mihoyo 为啥把新的一天设置在凌晨 4 点吗
 
-- - 著作权法
-  - 人工智能法
-- 举几个例子吧,都是关于 b 站涨粉,首先注册新账号,别用自己的
-- 不用代理节点,因为 berryberry 不封 ip,设备.
-- 找到一个在线接收验证码的网站,付一点小钱(两位数),买一个号.
-- 注册 b 站,快速答题,或者去 taobao 买一个
-- 第一个例子是关于画师,gal 厂顶替
-  - 找到一个 pixiv 画师,还没有入驻的
-  - 发视频,bgm 是轻松欢快的英文歌曲
-  - top20 张图片,每张图 2~3 秒.
-  - 标题,"我是...,我入驻 b 站了"
-  - 账号起名,使用`中文+英文id`("回形针 paperclip")或者`日文名字desu`(如"崩坏学园娘 desu").
-  - 做十个这样的账户,试试看.
-  - 或者 steam 游戏大厂,就发宣传 pv(稍作删减,合法化).
-  - 参考账号:`柚子社yuzusoft`
-- 第二个例子是关于名言金句
-  - 去知乎上找到一些关于生活的名言金句
-  - 比如哲理辩论上,黄执中,周玄毅的发言
-  - 比如社交论坛上,一直被转发的 quotes
-  - 比如批判中式应试教育,批判简中社会的毛泽东
-  - 随便找一个在线 ai 的网站,付一点小钱(两位数)
-  - 然后找一个最热门(mihoyo)的角色(gi,sr,zzz),文本转语音
-  - 没必要自己研究什么开源部署,设备(五位数)+时间(无价).
-  - 账号起名,`${character name}语录`
-  - 视频是一个 pixiv 上找的角色图(热门排名),固定不动
-  - 整个视频,只有字幕是在动的
-  - 参考账号:`卡芙卡语录`
-- 第三个例子是关于在线教育
-  - 和名言金句同理.
-  - 每一个教学都在一两分钟.
-  - 文案可以参考同行.
-  - 参考账号:`芙宁娜数学`
-- 最后,至少得到一个有许多粉丝(1w+)的账号.
-- 改名(`我永远喜欢${anime character}desu`),删除所有视频.
-- 我并没有这样做,仅仅因为我不知道这些粉丝能用来干嘛.
-- 我有自己真正想做的事情,**make tools elegant**.
-- 因为本质上,高粉丝量,是为了得到更多的推荐,便于以后发广告,扩大个人影响力.
-- 即使拥有粉丝(1w 多),然后发无意义视频(比如没有亮点的视频游戏对局实况录屏),
-- 新视频数据其实会很惨淡.
-- 说实在的,你要真的玩得够黑
-  - 抖音上买几个能开播的号
-  - 转播其他平台大主播,把脸遮住,换成贴图,live2d或者表情包
-  - 就花电费,收一个礼物都赚.
-- 或者啊
-  - 抖音上开挂(不要放出界面,不要承认)打fps游戏
-  - 带粉打架,送礼物上车
-  - 用别怕,怕别用,封别叫.
-- 或者啊
-  - 开挂养号,mihoyo之类的
-  - 很简单的事情.
-- 最后你肯定不亏,大概率赚个小钱.
-- 行业很发达了,搜一下就很多同行.
-
-about ai painting
-首先,只谈论 ai 绘画.ai 声音,很强大了,比如 gptsovits 或者 suno.
-ai 的问题是,目前很弱.
-
-- 真实的三次元人
-  - 参考 this person doesnt exist
-- 色情的二次元人
-  - 参考 pixiv ai gen
-- 我想要的是这些图片吗,显然不是.
-- 我想要的是 quan 的 herta,kazuha 头像.
-- 我想想要的是 aifadian,patreon 上 top 的画师.
-- ai 根本做不到.否则早就出现一堆假装真人的画师了.
-- 如果你能做到,给我测试 demo 和一些样张,发我邮箱.
-- 我会付钱,真的,可能 1000 美金.
-
-等待的艺术。
-投资如此，创业亦然。自我雇佣不算。
-
-现在的年轻人几点睡。
-你知道 mihoyo 为啥把新的一天设置在凌晨 4 点吗
-
-我听到 pornhub 这个词就觉得恶心.
-上面全是三次元的,别的都搜不到.
-但是我也不知道二次元的去哪找,或者也不流行吧.
+naval get rich
+132 `leverage` on this page
 
 react quick start
-29 "components" on this page
+29 `components` on this page
 
 铃/哲.麦片兄妹.
 
-retro:大哥发情遭制裁.
-
-better html thoughts
-
-```js
-//jsx
-<div>
-  <h1>Counters that update together</h1>
-  <MyButton count={count} onClick={handleClick} />
-  <MyButton count={count} onClick={handleClick} />
-</div>
-```
-
-```js
-//functional programming
-div{
-  h1{Counters that update together}
-  MyButton(count=count onClick=handleClick)
-  MyButton(count=count onClick=handleClick)
-}
-```
-
-```js
-//json element
-[
-  "div",
-  [
-    ["h1", "Counters that update together"],
-    ["MyButton", { count: count, onClick: handleClick }],
-    ["MyButton", { count: count, onClick: handleClick }],
-  ],
-];
-```
-
-why i hate cn gov
-中国政府,你打游戏吗?看番剧吗?写代码吗?踢足球吗?看小说吗?
-都没有.至少我没看到.
-你只说你又访问了哪国,又说了啥重要话.
-和我有啥关系呢!
-然后你把自己硬是送上各种媒体首页和推荐,号那么多都屏蔽不掉.
-那我只能表明身份了!我喜欢人和文化,不代表我喜欢现在的政府.
-好,屏蔽不掉是吧!好.我不屏蔽了,我搞白名单,只看自己想看的!
-于是就有了berryberry项目.
-
-why jsx sucks
-too optionated.
-/src/App.js: Adjacent JSX elements must be wrapped in an enclosing tag. Did you want a JSX Fragment <>...</>?
-你看到连着的几个标签,不能在编译的时候,自动加上<></>吗!
-笨.没话说.
-
-react vue和angular都非常optionated.
-为什么?
-使用react,你不得不敲击很多次useState
-使用vue,你不得不敲击很多次this和v-
-使用angular,你不得不敲击很多次ng-
-
-https://www.youtube.com/watch?v=cuHDQhDhvPE
-...
-I built the same app 10 times // Which JS Framework is best? by fireship
-...
-Thank you for making this video, I always felt overwhelmed by all of these frameworks and you helped me come to realization that all of them suck, so I am going to create my own Javascript framework tonight.
-...
-I'm in the same boat, actually. The DOM has come a long way in the last 10 years.
-Example of a few things we have now: querySelector, insertAdjacentHTML, data-xxxx, css variables
-I think it's possible to have a small, lightweight "framework" where all the hoopla is just handled in the DOM and the documentation is MDN because it's just DOM.
-I could be wrong.
-...
-I taught he was being real for the first part of the comment until he said, "tonight" lmao
-...
-"You'll end up building your own shitty JS framework, and the last thing the world needs is another JS framework." -This is literally GOLD and I can't stop laughing.
-...
-My mind is blown on how someone actually decided to compare these tools in the shortest amount of time while showing all the important things along the way. Extremely well done and many thanks! 
-...
-This was the best video on JS frameworks I've ever seen.
-
-why pyscript
-python有一个许多人都忽略的好处
-就是特别键盘友好.
-就我而言,我手指按在`f``j`上,盲打很舒服的区域
-就是手指移动一格范围.和大键.
-打什么数字啊,`f2`rename啊,上下左右啊,虽然也能盲打,
-但是要移动的就不只是手指了,而是手腕,如果照样按在`f``j`上,就很难够到
-用所有`{}`based的语言,你退出一个大括号(写完一个函数),都要按两下`down`吧!
-python只要连按两下胖胖的`enter`就好了.
-然后`;`也被胖胖的`enter`代替了
-就是打包有点麻烦,不能并在一行里.
-然后太oop了,而且optionated至于没有很好的fp支持.
-python的缺点,就是一般只能在python环境下运行,没法转化cpp和javascript之类的语言
-像typescript就没有这个问题,好像比python火呢.
-
 中文的信息熵极高，可以使用同样多的词汇表达更多的信息。
-
-我个人地,只把`北欧` `西欧` `北美` `俄日韩` `港台` `长三角` `珠三角`视为世界.
-我眼里没有其他地方,或者说那是原始自然.
-如果有谁不属于世界,赶紧来世界吧,至少连接世界.
 
 如果你想找到最好的编程语言,就把同样的代码
 在最流行的一些语言实现,然后把所有内置语法(符号和关键字)删掉
 
-我劝我妹妹学c和python，我真是负责任的哥哥
-
-genshin impact is solitude.
-if not, time to give up.
-原神是清净.失去了孤独的人,要去别处寻找.
-然后特别注意,游戏是代肝文化,不要自己做代肝.
-
-about programming english
-- if needed...
-- golden dict
-- google translate extension
-
-all web frameworks suck
-because it's javascript's fault that didnt offer
-a method to listen a variable change
-after all you could only listen a prop of an obj
-
-run daily
-reply weekly
-release monthly
-revenue yearly
+我劝我妹妹学 c 和 python，我真是负责任的哥哥
 
 so much for this have a nice day.
 以上.祝你度过智识的,审美的一天.
@@ -647,177 +229,69 @@ so much for this have a nice day.
 勇敢去做.
 (in solitude where we are least alone)
 
-lex fridman podcast
-...
-Thank You
-I am forever grateful for the wisdom and love I've encountered in the meandering journey of doing these conversations. I can honestly say that I can die a happy man having had the chance to pause and witness so many moments of magic, at once fleeting and unforgettable. Thank you.
-...
-Note from 2023: The above was written in 2018, 5 years ago, and it is as true now as it ever was. Thank you again. I love you all!
-
-- 我高中辍学了(目前高二在读)
-- 老师很好,来自east cn normal和shanghai normal的占大多数.
-- 教材不好.我对好教材的定义是,react文档.
-- 我想自己编教材,自己教学.
-- 个人对,数学,算法,编程感兴趣.
-...
-btw,javascript设计得太差了,
-不支持宏定义,不支持取地址,不支持运算符重载...
-
-我对`老婆(waifu)`的定义是`给一个少年留下深刻印象的人物的集合`
-`set charactersMovedABoyDeeply`
-对`老公`的定义是`给一个少女留下深刻印象的人物的集合`
-`set charactersMovedAGirlDeeply`
-所以不要意外,如果我把`球友`,`棋友`,`搭子`,`闺蜜`,`兄弟`用伴侣称呼.
-
-任何时候都是入坑mihoyo的好时候.
+任何时候都是入坑 mihoyo 的好时候.
 
 我喜欢的设计(-> voyage components?)
-- chromium downloads scroll bar
-- apple right click touch control
 
-x^2+y^2=1,求max((x+1)(y+2)).
-y=sqrt(1-x^2),直接求导.导数取零,一元四次方程.
-5次以下都有解析解.done.
+-收集有意思的数字
+  - 0721
+  - 8964
+  - 314
+  - 0618
+- 收集二字日式中文.
+  - 映画
+  - 追想
+  - 次元
+  - 本家
+  - 的说
+  - 先辈
+- 收集二字广东中文.
+  - 靓仔
+  - 靓妹
+- 收集二字台式中文.
+  - 软体
+  - 程式
+  - 视讯
+  - 伺服器
+  - 骇客
+  - 电动
+  - 共有
+  - 正体
+  - 宅配
+  - 网路
+  - 影印
+  - 滑鼠
+  - 当掉
+  - 把妹
+  - 在地
+- qed. done.
+  - 结束
+  - 拿下
+  - 得吃
+  - 有了
+  - 搞定
+  - 以上.
 
-很简单的道理.
-满足了一些人对话命运的贪欲,高中不过是填补从成熟到成年的空白,打发时间而已.
-高中教学其实是一种智力竞赛,是左右互搏的象征.
-六门学科,对于任意一门,都可以不选,在剩下的五门里选.
-即,"任意一门不选都无伤大雅".与"一定至少选三门"矛盾.
-
-有意思的数字好少啊...
-- 0721
-- 8964
-- 314
-- 1618
-
-收集二字日式中文.
-- 映画
-- 追想
-- 次元
-- 本家
-- 的说
-- 先辈
-
-我建议啊,上课的时候,你就桌下放个录音,
-回去语音识别一下,拿个逐字稿,看看都说了些啥,
-然后啊,删掉个大部分语句,再欣赏一下,舒服啊.
-
-身在台灣真的好多了，雖然有錢有權比較好混，但沒有集體洗腦，所以沒有糟成那樣，記得我國二下的時候，班上來了一個轉學生，他父母是台商，他從小就被帶去中國生活，也是那種討厭的調調，喜歡高談闊論他的價值觀，他常常說他很挑朋友，只跟優秀聰明的當朋友，結果根本只跟有錢人玩，我成績都保持在校排前五，但家裡沒錢，爸媽是工人跟廚工，所以他把我當成空氣，班上很多人都討厭他，連他靠花錢請客交到的酒肉朋友也是，只是享受那些好吃好玩的，私底下都在說他壞話
-
-- a
-- b
-- c
-- done.
-
-todo list should be only one line.
-better?
-
-世界上现在77亿人，有253亿只(养殖的)鸡，是人的数量的三倍。也就是说，每个人平均可以得到三只鸡请记住，不管你有多么孤独，这世界上的某个角落里有三只鸡是为你而生的，就算它们死了，立刻又会有同类补上，就算你一个朋友都没有，你还有三只鸡。今天是肯德基疯狂星期四 V我50，我帮你去谢谢鸡。
-
-- 结束
-- 拿下
-- 得吃
-- 有了
-- 搞定
-...
-这些词都换掉.完成.
-- 以上.
-
-(from react learn docs)
-repeating code?
-```js
-function Profile({ person, size, isSepia, thickBorder }) {
-  return (
-    <div className="card">
-      <Avatar
-        person={person}
-        size={size}
-        isSepia={isSepia}
-        thickBorder={thickBorder}
-      />
-    </div>
-  );
-}
-```
-and replacement is just js?
-```js
-function Profile(props) {
-  return (
-    <div className="card">
-      <Avatar {...props} />
-    </div>
-  );
-}
-```
-
-开盒?
-纸飞机,数据库.知道.
-编号,传真,坐标,称呼...拿到.
-哪个是我,不知道.
-
-不喜欢`国家`的定义.
-如果需要的话,用`语言`或者`文字`代替.
-为什么?
-世界是生者的世界,是今人的世界.
-千年来土地兼并,刀枪与硝烟划出的国界线,并没有留下什么.
-放低过大声音,人们看到书籍,画作,乐曲,技术.人们看到文化.
-
-宏定义,运算符重载,函数多态...javascript
-- 没有宏定义,导致没有办法创建语法糖(如循环宏,switch宏)
-- 没有运算符重载,导致没有办法优雅地计算数据结构
-- 没有函数多态,导致面向对象方法的流行,或者只能用class和prototype.
-
-`class` is reserved key word in javascript
-so react use `className`...
-wtf.
+世界上现在 77 亿人，有 253 亿只(养殖的)鸡，是人的数量的三倍。也就是说，每个人平均可以得到三只鸡请记住，不管你有多么孤独，这世界上的某个角落里有三只鸡是为你而生的，就算它们死了，立刻又会有同类补上，就算你一个朋友都没有，你还有三只鸡。今天是肯德基疯狂星期四 V 我 50，我帮你去谢谢鸡。
 
 技术先于规范.
 
 人类的一切操作都是有规律的
-github jokenpo的道理
+github jokenpo 的道理
 
 定义里
 存在比个人更高的意识主体.
 可以和祂对话.不能操纵之.
 
-如果有超能力能让你爱的人爱上你,要不要用.
-...
-最后反方说,你怎么知道你比渣男更好.爱是选择.
-...
-很简单地,渣男不爱人,"我爱的人"定义了我不是渣男.
-不爱你,才会说"你是渣男","爱上你"定义了我不被认为是渣男.
-爱是追求.
+one has hexagramatic position has always in flux. planning is paramount
 
-技术正在拯救/毁灭艺术.
-...
-反方金句,现在是历史上艺术的高峰吗?
-如果是,那为什么要拯救呢.
-如果不是,那这些年什么东西发展了,不就是技术吗,说明技术正在毁灭艺术.
-...
-很简单地,是.
-技术让过去无法实现的艺术呈现在面前,已经拯救了许多艺术,正在拯救更多艺术.
+ask me anything.
 
-狼人杀不是逻辑游戏,是听感游戏.
-...
-如果狼人杀是逻辑游戏,为什么不玩暗牌文字场?
-因为那里狼人有必胜打法.
-狼人跳一个或者两个预言家.剩下跳平民.
-预言家公式发言,"我是预言家,x号金水/查杀,警徽流y,z.我觉得对面会开狼,随便抓了张y.z没有上警."
-真预言家,公式发言以外,说多错多,也不一定能拉高自己身份.
-后面打法也简单,预言家不要验神,不要给好人发查杀.然后晚上随机刀人,可以刀神/刀民/自刀.
-好人里,就预言家有信息,其他人没有更多信息,无法判断谁是真预言家,然后狼人随机刀人,所以女巫守卫也没有信息.
-并且狼人随机发神金水/发平民金水/发平民查杀/发狼金水/发狼查杀,被验的人也无法判断身份.
-当然,神可以装平民,而狼给神误发查杀的负收益,和好人认不出神的负收益,其实是持平的.
-真预言家和悍跳狼都不可能发神查杀,而其他操作真预言家和狼都能打出来.
-唯一有信息的预言家,没有办法判断.其他的信息都是随机的.
-...
-发言游戏就不一样了,有听感.听感先于逻辑.
+"大哥" "少爷"
 
-why voyagejs
-我写voyage的原因很简单,流行的框架都太重,太复杂.
-事实上,目前jquery,vanillajs仍然有很大的市场.
-这是我的愿望.
-- 实现最基础的功能
-- 不高频更新
+i weap for the departed
+
+if you ever miss me just close your eyes maybe i will appear in your dreams
+
+讲真,如果学校里丁真来说书,会很开心.
 

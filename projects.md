@@ -487,6 +487,27 @@
 - macro like cpp
   - `define each(a,b,c) for(int a=b;a<=c;a++){}`
 
+### `scriptype`
+
+> typescript in javascript "better regex for ast"
+
+- concepts
+  - tuple
+  - array
+  - object
+- including
+  - create
+  - from
+  - check
+- syntax
+  - cat `{type:"cat",count:number}`
+  - dog `{type:"dog",count:number}`
+  - animal `cat|dog`
+  - zoo `animal[]`
+  - city `zoo{}`
+  - alias `(a,b)`
+  - dict `alias{}`
+
 ### `firascript`
 
 > simplicity of the script
@@ -574,27 +595,6 @@ for(i arr j brr){A} //for(let __fs_i=0,i=arr[__fs_i],j=brr[__fs_i];__fs_i<arr.le
 - inspired by
   - arc lang (-> arc.txt)
   - javascript (-> javascript.md)
-
-### `scriptype`
-
-> better regex or ast "typescript in javascript"
-
-- concepts
-  - tuple
-  - array
-  - object
-- including
-  - create
-  - from
-  - check
-- syntax
-  - cat `{type:"cat",count:number}`
-  - dog `{type:"dog",count:number}`
-  - animal `cat|dog`
-  - zoo `animal[]`
-  - city `zoo{}`
-  - alias `(a,b)`
-  - dict `alias{}`
 
 ### `voyage`
 

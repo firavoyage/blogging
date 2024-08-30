@@ -25,6 +25,7 @@
 - read ruanyf weekly
 - classify web (by tag)
 - rethink fav (rm and mv)
+- revise quotes (rm and edit)
 
 > summer vacation spare time
 
