@@ -2,6 +2,46 @@
 
 > 🌕 💤 before 23:00!
 
+## 20240901
+
+> summer vacation daily
+
+- visit digital homes (al sr)
+- eat (bilimiao)
+
+> summer vacation day
+
+- rewrite react docs in voyage
+- program voyage
+- make sr component library
+- pre project
+- pure math project for hs g1t1
+- intuitive project contents
+
+> summer vacation night
+
+- read react learn docs
+- read ruanyf weekly
+
+> summer vacation spare time
+
+- revise projects
+- classify web (by tag)
+- rethink berryberry fav (rm and mv)
+
+> summer vacation weekend
+
+- play rpg (sr)
+- watch bangumis (mygo or bocchi or yosuga no sora)
+- watch simplelive
+- play galgames (senrenbanka)
+- play pod (antennapod)
+
+> school life
+
+- read book (one hundred years of solitude)
+- learn math & english
+
 ## 20240829
 
 > summer vacation daily
@@ -23,6 +63,7 @@
 
 - read react learn docs
 - read ruanyf weekly
+- read hello algo
 - classify web (by tag)
 - rethink fav (rm and mv)
 - revise quotes (rm and edit)

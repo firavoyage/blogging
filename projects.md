@@ -470,17 +470,16 @@
   - lodash
   - github gist
 
-
 ### `pyscript`
 
 > pythonic javascript
 
-- use `:` instead of `{}`
 - no `;` needed
-- no more meaning less `let var`
+- use `:` instead of `{}`
+- no more `let` `var`
   - `a=0`
   - `int a=0`
-  - `cat a={voice "meow"}`
+  - `myType b`
 - json simplified
   - `{a 1 b 2 c 3 d, e e}`
   - `[a b c d e]`
@@ -492,21 +491,27 @@
 > typescript in javascript "better regex for ast"
 
 - concepts
-  - tuple
-  - array
-  - object
-- including
-  - create
-  - from
-  - check
+  - pair `query(string,string)`
+  - array `type items[n]`
+  - object `query dict{}`
 - syntax
-  - cat `{type:"cat",count:number}`
-  - dog `{type:"dog",count:number}`
-  - animal `cat|dog`
-  - zoo `animal[]`
-  - city `zoo{}`
-  - alias `(a,b)`
-  - dict `alias{}`
+  - check
+```
+uint(n){
+  return n>=0
+}
+```
+  - struct
+```
+item {
+  int weight
+  int value
+}
+problem {
+  item items[n]
+  int capacity
+}
+```
 
 ### `firascript`
 

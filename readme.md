@@ -26,6 +26,7 @@
   - tea egg
   - life size waifu pillow
   - potted plant
+  - origami
   - functional programming
   - dark style & night light & low brightness
   - math and algorithms
@@ -37,6 +38,7 @@
   - old memory (manack & bruno wen li)
   - the legend of zelda: ocarina of time title theme (koji kondo)
   - caresse sur l'océan (bruno coulais & les petits chanteurs de saint-marc)
+  - the name of life (joe hisaishi)
   - sky (beyond)
   - fu shi shan xia (eason chan)
   - one last kiss (hikaru utada)
@@ -53,7 +55,7 @@
   - joker (2019)
   - your name. (2016)
   - the shawshank redemption (1994)
-  - the knockout (2023)
+  - how to make millions before grandma dies (2024)
   - .evangelion (1995)
   - .bang dream! it's mygo!!!!! (2023)
   - .girls band cry (2024)
@@ -82,28 +84,31 @@
   - senren banka (2016)
   - sabbat of the witch (2015)
   - the rainbow appears after flowering rain (2016)
-  - .fly me 2 the moon (2011)
+  - .minecraft (2011)
   - .the legend of zelda (1998) (2017) (2023)
   - .sekiro: shadows die twice (2019)
   - .elden ring (2022)
-  - .minecraft (2011)
   - .grand theft auto v (2013)
   - .the binding of isaac (2011)
   - .super bunny man (2017)
+  - .fly me 2 the moon (2011)
   - .riddle joker (2020)
   - .yosuga no sora (2008)
   - .wonderful everyday (2010)
-- - hackers and painters (paulg)
+- - hackers and painters (paul graham)
   - javascript: the good parts (douglas crockford)
   - javascript: the definitive guide seventh edition (david flanagan)
-  - react learn docs (react commutity)
-  - refactoring ui (adam wathan & steve schoger)
+  - c++ primer plus sixth edition (stephen prata)
+  - hello algo (yudong jin krahets)
+  - oi wiki (oi community)
   - mathematics, no 2 secondary school attached to east china normal university (math group)
+  - refactoring ui (adam wathan & steve schoger)
+  - react learn docs (react commutity)
   - the water level of ideology (liu yu)
   - liu qing's lectures on modern western thought (liu qing)
   - twelve letters for the young (zhu guangqian)
   - letter to da zhuang (miao wei)
-  - road ahead (ruanyf)
+  - road ahead (ruan yifeng)
   - a long gaze (long yingtai)
   - to live (yu hua)
   - the scholars (wu jingzi)
@@ -144,7 +149,7 @@
   - barack obama
   - blue striped rabbit
   - brad traversy
-  - chen xiao amazing origami
+  - chen xiao origami
   - chen zihao
   - chensuiyi yicode
   - cloudwu codingnow
@@ -245,7 +250,6 @@
   - codeforces
   - luogu
   - leetcode
-  - oi wiki
   - my anime list top anime
   - bangumi.tv anime chart
   - pixiv monthly
@@ -358,8 +362,13 @@
 - tell me, and i will forget.
   - show me, and i may remember.
   - involve me, and i will understand.
+  - confucius
+- knowledge isn't free. 
+  - you have to pay attention.
+  - richard p. feynman
 - i have a small device in my pocket that provides access to nearly the sum total of human knowledge. 
-  - i use it to get into pointless arguments with people i don't know and look at pictures of cats. - (i wish i could claim that as original but it is something i read on the internet. between cats. :-/ )
+  - i use it to get into pointless arguments with people i don't know and look at pictures of cats.
+  - (i wish i could claim that as original but it is something i read on the internet. between cats. :-/ )
 - we now generally consider moment to be a legacy project in maintenance mode. 
   - it is not dead, 
   - but it is indeed done.

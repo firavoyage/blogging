@@ -5453,6 +5453,213 @@ SolidJS is a modern JavaScript library for building user interfaces, and it's of
 
 In summary, SolidJS offers a unique approach to reactivity and aims to provide excellent performance. It's a good choice if you're looking for something smaller and potentially more performant than React, but it comes with its own learning curve.
 
+## giscus guide
+
+> -> mistral large 2
+
+> giscus
+
+Giscus is an open-source commenting system powered by GitHub Discussions. It allows users to add a comment section to their websites, blogs, or any other web pages, leveraging the GitHub Discussions feature for managing comments. Here are some key features and benefits of using Giscus:
+
+### Key Features:
+1. **GitHub Integration**: Giscus uses GitHub Discussions as its backend, meaning all comments are stored as discussions in a GitHub repository.
+2. **Markdown Support**: Comments can be written in Markdown, allowing for rich text formatting.
+3. **Customizable**: You can customize the appearance and behavior of the comment section to match your site's design.
+4. **Moderation**: Since comments are stored as GitHub Discussions, you can use GitHub's tools for moderation and management.
+5. **Open Source**: Giscus is open-source, which means you can inspect, modify, and contribute to its codebase.
+
+### Benefits:
+1. **No External Database**: By using GitHub Discussions, you don't need to set up or manage a separate database for comments.
+2. **Easy to Implement**: Adding Giscus to your site is straightforward and typically involves adding a script tag to your HTML.
+3. **Community Engagement**: Leveraging GitHub Discussions can help foster a sense of community and engagement among your users.
+4. **Security**: GitHub handles the security and spam protection for the discussions, reducing the burden on you.
+
+### How to Use Giscus:
+1. **Create a GitHub Repository**: You'll need a GitHub repository to store the discussions.
+2. **Enable GitHub Discussions**: Enable the Discussions feature in your repository settings.
+3. **Configure Giscus**: Use the Giscus configuration tool to generate the necessary script and configuration options.
+4. **Add to Your Site**: Include the generated script in your website's HTML where you want the comment section to appear.
+
+### Example Configuration:
+Here's a basic example of how you might include Giscus in your HTML:
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Blog</title>
+</head>
+<body>
+  <h1>My Blog Post</h1>
+  <p>This is the content of my blog post.</p>
+
+  <!-- Giscus Comments Section -->
+  <script src="https://giscus.app/client.js"
+    data-repo="your-username/your-repo"
+    data-repo-id="your-repo-id"
+    data-category="General"
+    data-category-id="your-category-id"
+    data-mapping="pathname"
+    data-strict="0"
+    data-reactions-enabled="1"
+    data-emit-metadata="0"
+    data-input-position="bottom"
+    data-theme="light"
+    data-lang="en"
+    crossorigin="anonymous"
+    async>
+  </script>
+</body>
+</html>
+```
+
+### Conclusion:
+Giscus is a powerful and flexible commenting system that leverages GitHub Discussions to provide a seamless and integrated commenting experience for your website. Its open-source nature and ease of use make it an attractive option for developers and content creators alike.
+
+## markdown math latex
+
+> -> mistral large 2
+
+> long latex symbols list
+
+Certainly! LaTeX is a powerful typesetting system that is widely used for creating documents with complex mathematical notation. Below is a list of commonly used LaTeX symbols, categorized for easy reference:
+
+### Greek Letters
+- **Lowercase:**
+  - `\alpha` $\alpha$
+  - `\beta` $\beta$
+  - `\gamma` $\gamma$
+  - `\delta` $\delta$
+  - `\epsilon` $\epsilon$
+  - `\zeta` $\zeta$
+  - `\eta` $\eta$
+  - `\theta` $\theta$
+  - `\iota` $\iota$
+  - `\kappa` $\kappa$
+  - `\lambda` $\lambda$
+  - `\mu` $\mu$
+  - `\nu` $\nu$
+  - `\xi` $\xi$
+  - `\pi` $\pi$
+  - `\rho` $\rho$
+  - `\sigma` $\sigma$
+  - `\tau` $\tau$
+  - `\upsilon` $\upsilon$
+  - `\phi` $\phi$
+  - `\chi` $\chi$
+  - `\psi` $\psi$
+  - `\omega` $\omega$
+
+- **Uppercase:**
+  - `\Gamma` $\Gamma$
+  - `\Delta` $\Delta$
+  - `\Theta` $\Theta$
+  - `\Lambda` $\Lambda$
+  - `\Xi` $\Xi$
+  - `\Pi` $\Pi$
+  - `\Sigma` $\Sigma$
+  - `\Upsilon` $\Upsilon$
+  - `\Phi` $\Phi$
+  - `\Psi` $\Psi$
+  - `\Omega` $\Omega$
+
+### Mathematical Symbols
+- **Arithmetic:**
+  - `+` $+$
+  - `-` $-$
+  - `\times` $\times$
+  - `\div` $\div$
+  - `\pm` $\pm$
+  - `\mp` $\mp$
+
+- **Relational:**
+  - `=` $=$
+  - `\neq` $\neq$
+  - `<` $<$
+  - `>` $>$
+  - `\leq` $\leq$
+  - `\geq` $\geq$
+  - `\approx` $\approx$
+  - `\sim` $\sim$
+  - `\cong` $\cong$
+
+- **Set Theory:**
+  - `\in` $\in$
+  - `\notin` $\notin$
+  - `\subset` $\subset$
+  - `\supset` $\supset$
+  - `\subseteq` $\subseteq$
+  - `\supseteq` $\supseteq$
+  - `\cup` $\cup$
+  - `\cap` $\cap$
+  - `\emptyset` $\emptyset$
+
+- **Logic:**
+  - `\forall` $\forall$
+  - `\exists` $\exists$
+  - `\neg` $\neg$
+  - `\land` $\land$
+  - `\lor` $\lor$
+  - `\rightarrow` $\rightarrow$
+  - `\leftarrow` $\leftarrow$
+  - `\Rightarrow` $\Rightarrow$
+  - `\Leftarrow` $\Leftarrow$
+  - `\Leftrightarrow` $\Leftrightarrow$
+
+- **Calculus:**
+  - `\int` $\int$
+  - `\oint` $\oint$
+  - `\sum` $\sum$
+  - `\prod` $\prod$
+  - `\lim` $\lim$
+  - `\infty` $\infty$
+  - `\partial` $\partial$
+  - `\nabla` $\nabla$
+
+### Miscellaneous Symbols
+- **Accents:**
+  - `\hat{a}` $\hat{a}$
+  - `\bar{a}` $\bar{a}$
+  - `\vec{a}` $\vec{a}$
+  - `\dot{a}` $\dot{a}$
+  - `\ddot{a}` $\ddot{a}$
+  - `\tilde{a}` $\tilde{a}$
+
+- **Brackets:**
+  - `( )` $( )$
+  - `[ ]` $[ ]$
+  - `\{ \}` $\{ \}$
+  - `\langle \rangle` $\langle \rangle$
+  - `\lfloor \rfloor` $\lfloor \rfloor$
+  - `\lceil \rceil` $\lceil \rceil$
+
+- **Arrows:**
+  - `\uparrow` $\uparrow$
+  - `\downarrow` $\downarrow$
+  - `\leftarrow` $\leftarrow$
+  - `\rightarrow` $\rightarrow$
+  - `\leftrightarrow` $\leftrightarrow$
+  - `\Uparrow` $\Uparrow$
+  - `\Downarrow` $\Downarrow$
+  - `\Leftarrow` $\Leftarrow$
+  - `\Rightarrow` $\Rightarrow$
+  - `\Leftrightarrow` $\Leftrightarrow$
+
+### Special Characters
+- `\cdot` $\cdot$
+- `\cdots` $\cdots$
+- `\vdots` $\vdots$
+- `\ddots` $\ddots$
+- `\sqrt{x}` $\sqrt{x}$
+- `\sqrt[n]{x}` $\sqrt[n]{x}$
+- `\frac{a}{b}` $\frac{a}{b}$
+- `\binom{n}{k}` $\binom{n}{k}$
+
+This list covers many of the commonly used symbols in LaTeX. For more specialized symbols, you can refer to the comprehensive symbol list in the LaTeX documentation or online resources.
+
+
 
 
 

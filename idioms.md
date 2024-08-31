@@ -234,10 +234,11 @@ so much for this have a nice day.
 我喜欢的设计(-> voyage components?)
 
 -收集有意思的数字
-  - 0721
-  - 8964
-  - 314
-  - 0618
+
+- 0721
+- 8964
+- 314
+- 0618
 - 收集二字日式中文.
   - 映画
   - 追想
@@ -291,7 +292,26 @@ ask me anything.
 
 i weap for the departed
 
+dusk's rain... it too shall fall.
+
+rain shall fall
+
+stream forth, the gleam of old blades
+
 if you ever miss me just close your eyes maybe i will appear in your dreams
 
-讲真,如果学校里丁真来说书,会很开心.
+讲真,如果学校里丁真来说书,...
+会很开心.
+
+有选择不选和没选择，不一样，或者说结果一样。现代人选择很多哦。
+
+put a problem before each chapter.
+
+“此身如朝露，身名俱灭
+忘川无波澜，引渡徘徊”
+
+“所有过往，俱已归于虚无，
+就像泪水，终将消失在雨中。”
+
+智力游戏,左右互搏.
 
