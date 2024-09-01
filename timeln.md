@@ -2110,4 +2110,25 @@ ask mistral **web frameworks diff**
 **ruanyf weekly,放学后慢慢看**
 react docs今天读.
 
+## 20240901
+
+放课后...
+f:
+你教哪个班?
+陈(waifu):
+(指.)
+我教一班和八班.
+我和分班的说好了,不管你怎么选,我都不教你.
+
+djhs g1t2 fin.
+"so much for this have a nice day.
+以上.祝你度过智识的,审美的一天."
+
+开学了.
+日记,记在本子上.
+不在此更新.
+
+今天
+**quotes**
+倒是更新了.
 

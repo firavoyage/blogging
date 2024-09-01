@@ -1,14 +1,18 @@
 # ubuntu
+
 - ubuntu 22
-- ubuntu 24(current)
+- ubuntu 24 current
 
 # settings
+
 ## appearance
+
 - config
   - style `dark`
   - wallpaper `jelly fish in black background`
 
 ## ubuntu desktop
+
 - config
   - desktop icons `off`
   - auto hide dock `on`
@@ -27,6 +31,7 @@
   - show application icon `off`
 
 ## apps
+
 - -> `default apps`
 - web `chromium web browser`
 - mail `thunderbird mail`
@@ -36,15 +41,20 @@
 - photos `image viewer`
 
 ## displays
-- desktop icons `off` 
+
+- desktop icons `off`
+
 ```
 sudo apt install gnome-shell-extension-prefs
 ```
+
 - config
   - nightlight `0 to 0`
 
 ## keyboard
+
 - use shortcuts
+
 ```
 close_window `ctrl q`
 home_folder `super e`
@@ -53,26 +63,33 @@ fullscreen `f11`
 ```
 
 ## multitasking
+
 - config `number of workspaces 1`
 
 ## date&time
+
 - config `lang en`
+
 ```
 sudo localectl set-locale lc_time=en_us.utf8
 ```
 
 ## users
+
 - remove password
   - -> `admin:///etc/polkit-1/localauthority/50-local.d/nopw.pkla`
+
 ```
 sudo visudo `fira all=(all) nopasswd:all`
 ```
+
 ```
 [no password prompt]
 identity=unix-group:sudo
 action=*
 resultactive=yes
 ```
+
 - disable `keyring popup`
   - ref `https://linuxconfig.org/how-to-disable-keyring-popup-on-ubuntu`
   - open `passwords and keys`
@@ -81,11 +98,13 @@ resultactive=yes
   - leave it blank & enter
 
 ## sound
+
 - system sound `off`
 - config
   - alert sound `none`
 
 ## power
+
 - automatic screen brightness `off`
 - config `screen blank 5 min`
 - config `automatic suspend`
@@ -93,23 +112,27 @@ resultactive=yes
   - plugged in `off`
 
 ## printer
+
 - ref `https://in.canon/en/support/search` `linux64 ij debian`
 - install canon printer driver
 
 ## privacy
+
 - -> `tmpfile&trash`
 - config `auto delete files after 30days`
 
 # backup
-- config 
+
+- config
   - storage `local folder:backup`
-  - schedule 
+  - schedule
     - -> `preferences`
     - backup automatically `on`
     - frequency `daily`
     - keep `forever`
 
 # fonts
+
 - install fonts
   - -> `git/fonts`
 - config `system default fonts`
@@ -120,6 +143,7 @@ resultactive=yes
 - config `preferred cjk fonts`
   - ubuntu 22 -> `admin:///etc/fonts/conf.d/64-language-selector-prefer.conf`
   - ubuntu 24 -> `admin:///etc/fonts/conf.d/64-language-selector-cjk-prefer.conf`
+
 ```xml
 <?xml version="1.0"?>
 <!DOCTYPE fontconfig SYSTEM "fonts.dtd">
@@ -157,15 +181,19 @@ resultactive=yes
 ```
 
 # softwares & updates
+
 - disable `software updater popup`
+
 ```
 sudo sed --in-place 's/NoDisplay=true/NoDisplay=false/g' /etc/xdg/autostart/update-notifier.desktop
 ```
+
 - disable `auto update`
   - -> `softwares & updates > other softwares`
   - (all) `off`
 
 # gnome tweaks
+
 - config `startup applications`
   - chromium
   - code
@@ -173,24 +201,30 @@ sudo sed --in-place 's/NoDisplay=true/NoDisplay=false/g' /etc/xdg/autostart/upda
   - vlc media player
 
 # files
+
 - add templates
   - markdown.md
   - cpp.cpp
 
 # chromium
+
 - disable `new look`
   - ref `https://snapcraft.io/docs/revisions` `https://snapcraft.io/docs/managing-updates`
   - install `chromium 124.0.6367.118`
+
 ```
 sudo snap install chromium --revision 2842
 sudo snap refresh --hold=forever
 ```
-  - disable `flags`
+
+- disable `flags`
+
 ```
 chrome://flags/#customize-chrome-side-panel
 chrome://flags/#chrome-refresh-2023
 chrome://flags/#chrome-webui-refresh-2023
 ```
+
 - config title bar
   - (right click the title bar)
   - use system title bar `off`
@@ -227,7 +261,9 @@ chrome://flags/#chrome-webui-refresh-2023
   - mathematical `dejavu serif`
 
 # code
+
 - install (fix fcitx compatibilty issue)
+
 ```
 sudo snap remove code
 
@@ -241,9 +277,10 @@ sudo apt update
 
 sudo apt install code
 ```
+
 - config appearance
   - -> `view > appearance`
-  - menu & status & ... bar `off` 
+  - menu & status & ... bar `off`
   - minimap `off`
   - toggle bread crumbs `off`
   - render control characters `off`
@@ -273,12 +310,14 @@ sudo apt install code
     - auto focus terminal `on`
     - -> `settings.json`
     - fix `cjk filename` issue
+
 ```
 "code-runner.executormap": {
   // "cpp": "cd $dir && g++ $filename -o $filenamewithoutext && $dir$filenamewithoutext",
   "cpp": "cd $dir && g++ \"$filename\" -o \"$filenamewithoutext\" && \"$dir$filenamewithoutext\"",
 }
 ```
+
 - config user snippets
   - -> `git/blogging/config/cpp.code-snippets`
   - -> `file > preferences > configure user snippets`
@@ -306,7 +345,7 @@ sudo apt install code
   - select words `ctrl shift leftarrow|rightarrow`
   - select line `ctrl l`
   - select blocks `shift alt leftarrow|rightarrow`
-  - duplicate cursor `ctrl shift uparrow|downarrow` | `shift alt uparrow|downarrow` | `alt click` 
+  - duplicate cursor `ctrl shift uparrow|downarrow` | `shift alt uparrow|downarrow` | `alt click`
   - move current line `alt uparrow|downarrow`
   - reset cursor `esc`
   - indent code `ctrl ]`
@@ -317,36 +356,47 @@ sudo apt install code
   - zoom out `ctrl -`
 
 # git
+
 - config github
-  -  -> `https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls`
+  - -> `https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls`
 - config gitee (github mirror)
   - use username and password
 - use shortcuts
   - -> `git/blogging/config/git_shortcut.txt`
 
 # fcitx5
+
 - install app
+
 ```
 sudo apt install fcitx5 fcitx5-chinese-addons fcitx5-frontend-gtk4 fcitx5-frontend-gtk3 fcitx5-frontend-gtk2 fcitx5-frontend-qt5
 ```
+
 - install dict
+
 ```
 wget https://github.com/felixonmars/fcitx5-pinyin-zhwiki/releases/download/0.2.4/zhwiki-20220416.dict
 mkdir -p ~/.local/share/fcitx5/pinyin/dictionaries/
 mv zhwiki-20220416.dict ~/.local/share/fcitx5/pinyin/dictionaries/
 ```
+
 - install another dict
   - -> `https://github.com/wuhgit/CustomPinyinDictionary`
   - download CustomPinyinDictionary_Fcitx.dict
+
 ```
 mv CustomPinyinDictionary_Fcitx.dict ~/.local/share/fcitx5/pinyin/dictionaries/
 ```
+
 - config default
+
 ```
 im-config
 ```
+
 - config environment variables
   - -> `admin:///etc/environment`
+
 ```
 GTK_IM_MODULE=fcitx
 QT_IM_MODULE=fcitx
@@ -354,9 +404,10 @@ XMODIFIERS=@im=fcitx
 SDL_IM_MODULE=fcitx
 GLFW_IM_MODULE=fcitx
 ```
+
 - disable `input method hint`
   - -> `fcitx5-configtool > global options > behavior`
-  - show input method infomation `off` 
+  - show input method infomation `off`
 - config pinyin
   - -> `input method > pinyin > settings icon`
   - fuzzy pinyin `on`
@@ -364,43 +415,54 @@ GLFW_IM_MODULE=fcitx
   - character&punctuation `half-width`
 - config theme
   - -> `~/.config/fcitx5/conf/classicui.conf`
+
 ```
 git clone https://github.com/tonyfettes/fcitx5-nord.git
 mkdir -p ~/.local/share/fcitx5/themes/
 cd fcitx5-nord
 cp -r Nord-Dark/ Nord-Light/ ~/.local/share/fcitx5/themes/
 ```
+
 ```
 Theme=Nord-Dark
 Theme=Default //current
 ```
+
 - use shortcuts
+
 ```
 clipboard `ctrl ;`
 ```
 
 # thunderbird
+
 - config `mail`
   - zoho
   - outlook
   - gmail
-  - _qq
+  - \_qq
 - config `junk`
 
 # v2raya
-- install dependence 
+
+- install dependence
+
 ```
 sudo apt install v2ray
 ```
+
 - config account
+
 ```
 name `f`
 passwd `firafira`
 ```
-- config `proxy only gfwlist` or `proxy except cn sites` 
+
+- config `proxy only gfwlist` or `proxy except cn sites`
 - config nodes
   - ref `git/blogging/swim.md`
   - repos
+
 ```
 https://github.com/aiboboxx/v2rayfree
 https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
@@ -417,7 +479,9 @@ https://raw.githubusercontent.com/mksshare/mksshare.github.io/main/README.md
 https://github.com/chengaopan/AutoMergePublicNodes
 https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.txt
 ```
-  - mirrors
+
+- mirrors
+
 ```
 githubraw.com
 raw.staticdn.net
@@ -428,7 +492,9 @@ raw.fastgit.org
 ```
 
 # wine
+
 - install
+
 ```
 sudo dpkg --add-architecture i386
 
@@ -438,22 +504,29 @@ sudo add-apt-repository 'deb https://dl.winehq.org/wine-builds/ubuntu/ jammy mai
 sudo apt update
 sudo apt install --install-recommends winehq-stable
 ```
+
 - install libraries
+
 ```
 sudo apt install libasound2-dev
 sudo apt install libfontconfig-dev
 ```
+
 - config sound library
+
 ```
 sudo apt install winetricks
 winetricks sound=pulse
 ```
+
 - config wine
+
 ```
 winecfg
 ```
 
 # obs
+
 - config `source`
   - mic/aux(pulseaudio)
   - screen capsule(pipewire)
@@ -463,8 +536,10 @@ winecfg
   - frame rate `60fps //or 30fps`
 
 # goldendict
+
 - install dictionaries
   - -> `Edit > Dictionaries`
+
 ```
 Longman Dictionary of Contemporary English
 https://mdx.mdict.org/%E5%85%AD%E5%A4%A7%E7%9F%A5%E5%90%8D%E8%AF%8D%E5%85%B8/%E6%9C%97%E6%96%87_Longman/STFU%20LongmanBundle-%E7%BB%AE%E5%8F%A5%E6%85%A8%E9%90%97-By%20Amazon%2020160928/Longman%20Dictionary%20Of%20Contemporary%20English%206th%20EnEn/LongmanDictionaryOfContemporaryEnglish6thEnEn.mdd
@@ -512,7 +587,9 @@ https://mdx.mdict.org/Recommend/fmidioms.zip
 Penguin English Dictionary (third Edition)
 https://mdx.mdict.org/Recommend/The%20Penguin%20English%20Dictionary%203rd%2C%202007_2.zip
 ```
+
 - config dicts order
+
 ```
 英汉大词典（第2版）
 牛津高阶英汉双解词典（第9版）
@@ -526,6 +603,7 @@ FreeDictionary-Idioms
 现代英汉汉英综合大辞典
 新世纪汉英大词典
 ```
+
 - config appearance
   - -> `View`
   - navigation `on`
@@ -537,6 +615,7 @@ FreeDictionary-Idioms
   - open screen word selector `ctrl c ctrl c`
 
 # vlc
+
 - config
   - -> `tools > preferences`
   - show settings `all`
@@ -549,51 +628,54 @@ FreeDictionary-Idioms
   - continue playback `never`
 
 # qbittorrent
+
 - config trackers
   - -> `tools > preferences > bitorrent`
   - automatically add these trackers to new downloads `config/list_trackers.md`
 
 # terminal
+
 - install `oh-my-zsh`
 - set default `sudo chsh -s /bin/zsh`
 
 # apps
+
 - install in terminal
+
 ```
 sudo apt install git
 git config --global user.name "Fira"
 git config --global user.email "devvhy@zohomail.cn"
 git config --global push.autoSetupRemote true
 git config --global credential.helper store
-sudo apt install zsh
-sudo apt install nodejs
-sudo apt install npm
-npm set registry https://registry.npm.taobao.org/
-sudo npm install terser -g
-sudo apt install python3
-sudo apt install imagemagick
 sudo apt install gnome-tweaks
 sudo apt install goldendict
+sudo apt install imagemagick
+sudo apt install nodejs
+sudo apt install npm
+sudo apt install python3
+sudo apt install zsh
 sudo snap install android-studio
 sudo snap install chromium --revision 2842
 sudo snap install firefox
 sudo snap install gimp
+sudo snap install gnome-boxes
 sudo snap install inkscape
 sudo snap install kdenlive
 sudo snap install krita
 sudo snap install obs-studio
 sudo snap install qbittorrent-arnatious
-sudo snap install shotcut --classicDD
+sudo snap install shotcut --classic
 sudo snap install telegram-desktop
 sudo snap install thunderbird
 sudo snap install v2raya
 sudo snap install vlc
+npm set registry https://registry.npm.taobao.org/
+npm install terser -g
 ```
+
 - install from websites
   - virtualbox
   - dingtalk
   - onsyuri
   - localsend
-
-
-

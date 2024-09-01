@@ -233,46 +233,6 @@ so much for this have a nice day.
 
 我喜欢的设计(-> voyage components?)
 
--收集有意思的数字
-
-- 0721
-- 8964
-- 314
-- 0618
-- 收集二字日式中文.
-  - 映画
-  - 追想
-  - 次元
-  - 本家
-  - 的说
-  - 先辈
-- 收集二字广东中文.
-  - 靓仔
-  - 靓妹
-- 收集二字台式中文.
-  - 软体
-  - 程式
-  - 视讯
-  - 伺服器
-  - 骇客
-  - 电动
-  - 共有
-  - 正体
-  - 宅配
-  - 网路
-  - 影印
-  - 滑鼠
-  - 当掉
-  - 把妹
-  - 在地
-- qed. done.
-  - 结束
-  - 拿下
-  - 得吃
-  - 有了
-  - 搞定
-  - 以上.
-
 世界上现在 77 亿人，有 253 亿只(养殖的)鸡，是人的数量的三倍。也就是说，每个人平均可以得到三只鸡请记住，不管你有多么孤独，这世界上的某个角落里有三只鸡是为你而生的，就算它们死了，立刻又会有同类补上，就算你一个朋友都没有，你还有三只鸡。今天是肯德基疯狂星期四 V 我 50，我帮你去谢谢鸡。
 
 技术先于规范.
@@ -303,15 +263,24 @@ if you ever miss me just close your eyes maybe i will appear in your dreams
 讲真,如果学校里丁真来说书,...
 会很开心.
 
-有选择不选和没选择，不一样，或者说结果一样。现代人选择很多哦。
+有选择不选和没选择，不一样，无非结果一样。现代人选择很多哦。
 
 put a problem before each chapter.
 
-“此身如朝露，身名俱灭
-忘川无波澜，引渡徘徊”
+Existence is fleeting as the dawn's dew, destined for oblivion.
 
-“所有过往，俱已归于虚无，
-就像泪水，终将消失在雨中。”
+On the still waters of oblivion, I guide the wandering souls.
+
+Lone voyagers in the cosmos are driven by two desires: to tread in the trails of the past, and to forge their own way. But under THEIR scrutiny... most end up adhering to the former.
+
+Our journey begins anew. Life passes like a fleeting rain, eventually merging with the ground. May our next encounter be... under a clear sky.
+
+When I awoke from that place, the sea's horizon still held faint thunder, and the falling blood rain was easing — the sight of that moment lay strikingly clear before me.
+
+Perhaps there's more than one right answer.
 
 智力游戏,左右互搏.
+
+reduce the problem to sth not simplify ...
+
 

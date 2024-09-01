@@ -459,7 +459,7 @@
   - brad traversy
   - rodrigo pombo
   - dan abramov
-  - scratch
+  - harvard cs50
 
 ### `sniper`
 
@@ -491,15 +491,46 @@
 > typescript in javascript "better regex for ast"
 
 - concepts
-  - pair `query(string,string)`
+  - type `int`
+  - pair `string string`
   - array `type items[n]`
-  - object `query dict{}`
+  - object `string string dict{}`
 - syntax
-  - check
+  - comment
 ```
+//comment
+/*comments*/
+```
+  - define type 
+```
+any(){
+  return true
+}
 uint(n){
   return n>=0
 }
+```
+  - list
+```
+content(c){
+  return type(c) == "element[]" || type(c) == "string" //children or text node
+}
+element [
+  string type //tag
+  string string labels{} //attributes
+  content content
+]
+```
+  - hash map
+```
+query(q){
+  //number or string or boolean or function
+  return q != undefined
+}
+fn(f){
+  return type(f)=="function"
+}
+query fn handle {}
 ```
   - struct
 ```
@@ -512,6 +543,9 @@ problem {
   int capacity
 }
 ```
+- methods
+  - type
+  - check
 
 ### `firascript`
 

@@ -25,12 +25,12 @@
   - ruby chocolate popsicle
   - tea egg
   - life size waifu pillow
-  - potted plant
-  - origami
+  - simple gardening
+  - simple origami
   - functional programming
   - dark style & night light & low brightness
   - math and algorithms
-  - web dev
+  - web dev abstract
 - - wind of change (scorpions)
   - scarborough fair (sarah brightman)
   - the sound of silence (simon & garfunkel)
@@ -39,6 +39,7 @@
   - the legend of zelda: ocarina of time title theme (koji kondo)
   - caresse sur l'océan (bruno coulais & les petits chanteurs de saint-marc)
   - the name of life (joe hisaishi)
+  - the brave (yoasobi)
   - sky (beyond)
   - fu shi shan xia (eason chan)
   - one last kiss (hikaru utada)
@@ -247,6 +248,7 @@
   - share121 inter knot
   - mistral chat
   - wolfram alpha
+  - geogebra
   - codeforces
   - luogu
   - leetcode
@@ -344,7 +346,7 @@
   - it's ok to get yours from "making things happen"
 - a ship in harbor is safe
   - but that is not what ships are built for
-- if you can make a decision with analysis, you should do so. 
+- if you can make a decision with analysis, you should do so.
   - but it turns out in life that your most important decisions are always made with instinct and intuition.
   - if i make, like, three good decisions a day, that's enough.
   - warren buffett says he's good if he makes three good decisions a year.
@@ -363,14 +365,14 @@
   - show me, and i may remember.
   - involve me, and i will understand.
   - confucius
-- knowledge isn't free. 
+- knowledge isn't free.
   - you have to pay attention.
   - richard p. feynman
-- i have a small device in my pocket that provides access to nearly the sum total of human knowledge. 
+- i have a small device in my pocket that provides access to nearly the sum total of human knowledge.
   - i use it to get into pointless arguments with people i don't know and look at pictures of cats.
   - (i wish i could claim that as original but it is something i read on the internet. between cats. :-/ )
-- we now generally consider moment to be a legacy project in maintenance mode. 
-  - it is not dead, 
+- we now generally consider moment to be a legacy project in maintenance mode.
+  - it is not dead,
   - but it is indeed done.
 - world is powered by solitude.
   - gravitated and spellbound
@@ -383,8 +385,8 @@
   - but if we walk in the light as he is in the light, we have fellowship with one another, and the blood of jesus his son cleanses us from all sin.
 - two drifters off to see the world
   - there's such a lot of world to see...
-  - for every lonely and wandering soul, 
-  - there is a lucky star behind the darkness, 
+  - for every lonely and wandering soul,
+  - there is a lucky star behind the darkness,
   - waiting and shining with the freshest hope and warmest aura.
   - some day. till then
 - memento mori.
@@ -514,7 +516,7 @@
   - discover the elegance of programming
 - mission
   - make tools elegant
-  
+
 ## status
 
 - when i'm not working

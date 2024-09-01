@@ -4,12 +4,17 @@
 
 ## 20240901
 
-> summer vacation daily
+> daily
 
 - visit digital homes (al sr)
 - eat (bilimiao)
 
-> summer vacation day
+> night
+
+- read react learn docs
+- read ruanyf weekly
+
+> weekend day
 
 - rewrite react docs in voyage
 - program voyage
@@ -18,26 +23,23 @@
 - pure math project for hs g1t1
 - intuitive project contents
 
-> summer vacation night
+> weekend night
 
-- read react learn docs
-- read ruanyf weekly
-
-> summer vacation spare time
-
-- revise projects
-- classify web (by tag)
-- rethink berryberry fav (rm and mv)
-
-> summer vacation weekend
-
+- install windows and mac on gnome boxes
 - play rpg (sr)
 - watch bangumis (mygo or bocchi or yosuga no sora)
 - watch simplelive
 - play galgames (senrenbanka)
 - play pod (antennapod)
 
-> school life
+> leisure
+
+- classify web (by tag)
+- rethink berryberry fav (rm and mv)
+- revise projects
+- sync phone
+
+> school
 
 - read book (one hundred years of solitude)
 - learn math & english
