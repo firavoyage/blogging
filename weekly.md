@@ -41,7 +41,7 @@
 
 > school
 
-- read book (one hundred years of solitude)
+- read "one hundred years of solitude"
 - learn math & english
 
 ## 20240829

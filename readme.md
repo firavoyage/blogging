@@ -57,6 +57,7 @@
   - your name. (2016)
   - the shawshank redemption (1994)
   - how to make millions before grandma dies (2024)
+  - the legend of 1900 (1998)
   - .evangelion (1995)
   - .bang dream! it's mygo!!!!! (2023)
   - .girls band cry (2024)
@@ -296,12 +297,14 @@
   - gnome calculator
   - gnome characters
   - gnome deja dup backups
+  - gnome disks
   - gnome document viewer
   - gnome eyedropper
   - gnome letterpress
   - gnome newsflash
   - gnome system monitor
   - gnome terminal
+  - gnome transmission
   - gnu image manipulation program
   - golden dict
   - inkscape
@@ -458,8 +461,8 @@
 - `blogging` notes and inspirations
 - `web` findings and capsules
 - `memories` life
-- `memories/comments` cyber wanderer
-- `memories/discoveries` digital memories keeper
+- `memories/perspective` cyber wanderer
+- `memories/insight` digital memories keeper
 - `memories/gaming` otaku gamer
 - `memories/school` life long student
 - `programs` source of all
