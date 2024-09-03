@@ -15,8 +15,7 @@
 ## love
 
 - - 🌕 💤 23:00
-- - johann sebastian bach
-  - lipton black tea
+- - lipton black tea
   - mixue bubble tea
   - cocacola
   - lays crisps original
@@ -27,11 +26,12 @@
   - life size waifu pillow
   - simple gardening
   - simple origami
-  - functional programming
   - dark style & night light & low brightness
+  - functional programming
   - math and algorithms
   - web dev abstract
-- - wind of change (scorpions)
+- - bach werke verzeichnis (johann sebastian bach)
+  - wind of change (scorpions)
   - scarborough fair (sarah brightman)
   - the sound of silence (simon & garfunkel)
   - kletka (molchat doma)
@@ -79,24 +79,23 @@
   - brawl stars (2017)
   - clash royale (2016)
   - soul knight (2017)
+  - minecraft (2011)
   - angry birds classic (2009)
-  - plants vs zombies 2 (2013)
   - kingdom rush (2011)
   - canabalt hd (2009)
   - senren banka (2016)
   - sabbat of the witch (2015)
   - the rainbow appears after flowering rain (2016)
-  - .minecraft (2011)
   - .the legend of zelda (1998) (2017) (2023)
   - .sekiro: shadows die twice (2019)
   - .elden ring (2022)
-  - .grand theft auto v (2013)
   - .the binding of isaac (2011)
+  - .grand theft auto v (2013)
   - .super bunny man (2017)
   - .fly me 2 the moon (2011)
-  - .riddle joker (2020)
   - .yosuga no sora (2008)
   - .wonderful everyday (2010)
+  - .riddle joker (2020)
 - - hackers and painters (paul graham)
   - javascript: the good parts (douglas crockford)
   - javascript: the definitive guide seventh edition (david flanagan)
@@ -297,6 +296,7 @@
   - gnome calculator
   - gnome characters
   - gnome deja dup backups
+  - gnome disk usage analyzer
   - gnome disks
   - gnome document viewer
   - gnome eyedropper
@@ -464,11 +464,12 @@
 - `memories/perspective` cyber wanderer
 - `memories/insight` digital memories keeper
 - `memories/gaming` otaku gamer
-- `memories/school` life long student
+- `memories/school` lifelong student
 - `programs` source of all
 - `music` favorite songs
 - `fonts` favorite fonts
 - `self` favorite avatars
+- `git` favorite doujins
 
 ## links
 

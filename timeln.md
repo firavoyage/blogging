@@ -2201,3 +2201,23 @@ djhs g2t1 day1.
 太晚了.
 今天玩了许久 sr,还调试 gnome boxes.
 g.zip 划去些许,明再整理
+
+## 20240903
+
+语文课本最爱
+- 逻辑的力量
+- 老子
+- 百年孤独
+
+我并非创作最接近完美的产品.
+只是"make tools elegant"
+javascript es6以后,没什么想改的,该有的都有alternative了
+react我不想用jsx,所以写一个吧.
+
+school life summary
+you should probably be reserved.
+**缄默.矜持.**
+
+**"!!!?" video title forever.**
+
+

@@ -418,7 +418,7 @@
 
 ### `intuitive`
 
-> showcase the power of web
+> showcase the power of web "scratch in js"
 
 > /intuitive
 

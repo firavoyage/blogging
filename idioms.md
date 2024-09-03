@@ -20,6 +20,8 @@ no sacrifice shall go unrewarded
 
 solitary clouds shadow in the setting sun stirs the drifter's heart
 
+if you ever miss me just close your eyes maybe i will appear in your dreams
+
 既不解题又不写稿，那就别怪自己的人生无趣咯？
 
 我已经够完美了，还有什么事要做？我当然可以再写几本书…但这于我何用，我为什么还要白费这些力气？
@@ -258,8 +260,6 @@ rain shall fall
 
 stream forth, the gleam of old blades
 
-if you ever miss me just close your eyes maybe i will appear in your dreams
-
 讲真,如果学校里丁真来说书,...
 会很开心.
 
@@ -284,3 +284,9 @@ Perhaps there's more than one right answer.
 reduce the problem to sth not simplify ...
 
 regular expression (regex) -> 字符串规律匹配表达式 (正则)
+
+"!!!?" video title
+
+报任安书.(文言用典)
+
+And in case I don’t see you, good afternoon, good evening and good night!
