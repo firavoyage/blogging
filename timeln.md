@@ -2218,6 +2218,15 @@ school life summary
 you should probably be reserved.
 **缄默.矜持.**
 
-**"!!!?" video title forever.**
+**"...!...?" video title**
+
+updated weekly & readme.
+
+## 20240904
+
+01:12
+g.zip 还有 78 items
+不过要睡觉了.
+昨晚2点睡的,起来好困啊,很多自修都趴桌了.
 
 
