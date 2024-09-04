@@ -2205,14 +2205,15 @@ g.zip 划去些许,明再整理
 ## 20240903
 
 语文课本最爱
+
 - 逻辑的力量
 - 老子
 - 百年孤独
 
 我并非创作最接近完美的产品.
 只是"make tools elegant"
-javascript es6以后,没什么想改的,该有的都有alternative了
-react我不想用jsx,所以写一个吧.
+javascript es6 以后,没什么想改的,该有的都有 alternative 了
+react 我不想用 jsx,所以写一个吧.
 
 school life summary
 you should probably be reserved.
@@ -2227,10 +2228,21 @@ updated weekly & readme.
 01:12
 g.zip 还有 78 items
 不过要睡觉了.
-昨晚2点睡的,起来好困啊,很多自修都趴桌了.
+昨晚 2 点睡的,起来好困啊,很多自修都趴桌了.
 
 23:59
 finished g.zip unpacking
 sync phone memeories completed
 
+## 20240905
 
+00:09
+上了 inter knot 看看
+自动跳转 inot.top
+用 flutter md3 设计,再没有了 zzz 味道.
+失落.
+
+打开 inspector
+flutter 使用了 web component.
+然后一直在刷新 canvas...
+一个论坛,数据库前端而已,有必要吗,用 web + tauri 不好吗...
