@@ -80,6 +80,7 @@
   - clash royale (2016)
   - soul knight (2017)
   - minecraft (2011)
+  - terraria (2011)
   - angry birds classic (2009)
   - kingdom rush (2011)
   - canabalt hd (2009)

@@ -17,7 +17,7 @@
 - write voyage
 - create sr component library
 - design pre project
-- pure math project
+- pure project
 - intuitive project
 
 > weekend night

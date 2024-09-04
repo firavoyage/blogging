@@ -290,3 +290,5 @@ regular expression (regex) -> 字符串规律匹配表达式 (正则)
 报任安书.(文言用典)
 
 And in case I don’t see you, good afternoon, good evening and good night!
+
+现在语境的"批评"是必然负面的?
