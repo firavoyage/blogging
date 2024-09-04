@@ -151,6 +151,8 @@
   - barack obama
   - blue striped rabbit
   - brad traversy
+  - change release
+  - chen shiyu
   - chen xiao origami
   - chen zihao
   - chensuiyi yicode
@@ -175,9 +177,6 @@
   - livid v2ex
   - longbow flintlock
   - memoir of prosperity
-  - mihoyo change release
-  - mihoyo old ocean tubber
-  - mihoyo upright flies
   - mohamad light
   - mr marmot little pink wojaks
   - my sister is just that kawaii
@@ -185,6 +184,7 @@
   - nicholas wei bro
   - nova lciop
   - old bai sleepwalked waifu vr
+  - old ocean tubber
   - old skilled tofu
   - one math
   - orient snowy lotus
@@ -198,6 +198,7 @@
   - tail tail desu
   - tim qian
   - unfettered idle man
+  - upright flies
   - wanderer brawl stars
   - wes bos
   - white house
