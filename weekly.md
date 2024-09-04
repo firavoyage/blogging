@@ -34,7 +34,7 @@
 - classify web by tag
 - rethink berryberry fav
 - revise projects
-- sync phone
+- sync phone memories
 
 > school
 
