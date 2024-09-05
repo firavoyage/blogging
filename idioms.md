@@ -291,4 +291,7 @@ regular expression (regex) -> 字符串规律匹配表达式 (正则)
 
 And in case I don’t see you, good afternoon, good evening and good night!
 
-山河四省
+山河四省,教育资源.
+
+语言是许多限制和不利.写字,打字之.中文写字慢,打字慢.英文写字快,打字快.
+看似利好的字数和书法,本质不然,无非降低阅读舒缓,减少可用字体.

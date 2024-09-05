@@ -177,6 +177,7 @@
   - kirikaze chiyuki chyk
   - livid v2ex
   - longbow flintlock
+  - ma dugong bedtime news
   - memoir of prosperity
   - mohamad light
   - mr marmot little pink wojaks
@@ -196,7 +197,6 @@
   - rodrigo pombo pombus
   - spicy pidan porridge
   - stray digital
-  - supervisor ma bedtime news
   - tail tail desu
   - tim qian
   - unfettered idle man

@@ -49,6 +49,7 @@ In conclusion, the passing youth is a bittersweet reminder of the fleeting natur
 ## classic songs
 
 **`!important`**
+**`!ref`**
 
 > -> gpt 3.5
 
@@ -283,6 +284,7 @@ Here is a list of 50 English classic songs with their publication year:
 ## ballad songs
 
 **`!important`**
+**`!ref`**
 
 > -> gpt 3.5
 
@@ -578,6 +580,7 @@ Learning web development from scratch can be an exciting and rewarding experienc
 ## retro
 
 **`!important`**
+**`!ref`**
 
 > -> mistral large
 
@@ -1080,6 +1083,8 @@ To address the replication crisis, various initiatives have been launched, inclu
 
 ## efficient market hypothesis
 
+**`!important`**
+
 > -> mistral instruct 7b q4
 
 The Efficient Market Hypothesis (EMH) is a financial theory that suggests it is impossible to beat the market consistently over time by making informed investments based on publicly available information. According to EMH, financial markets are informationally efficient, meaning that the prices of securities reflect all available and relevant information.
@@ -1138,6 +1143,9 @@ pdflatex mydocument.tex
 I hope this introduction helps you get started with LaTeX! Let me know if you have any specific questions or topics you'd like to learn about.
 
 ## GEB
+
+**`!important`**
+**`!ref`**
 
 > -> mistral instruct 7b q4
 
@@ -1831,6 +1839,9 @@ This implementation provides a good balance between the efficiency of merge sort
 
 ## functional programming
 
+**`!important`**
+**`!ref`**
+
 > -> mistral large 2
 
 > functional programming
@@ -1870,6 +1881,9 @@ console.log(addThenMultiply(2, 3, 4)); // Output: 20
 Popular languages for functional programming include Haskell, Lisp, Clojure, Erlang, and F#. However, many multi-paradigm languages also support functional programming, such as JavaScript, Python, Java, and C++.
 
 ## object oriented programming
+
+**`!important`**
+**`!ref`**
 
 > -> mistral large 2
 
@@ -2056,6 +2070,8 @@ By using these concepts, you can create more organized, reusable, and maintainab
 
 ## unit test
 
+**`!important`**
+
 > -> mistral large 2
 
 > unit testing
@@ -2142,6 +2158,8 @@ Unit testing is a fundamental practice in software development that helps ensure
 
 ## cpp iteration abstract
 
+**`!important`**
+
 > -> mistral large 2
 
 > iteration abstract in cpp using define including iter variable start and end
@@ -2203,6 +2221,9 @@ These macros can help you write more concise and readable code, especially when 
 
 ## oop principles
 
+**`!important`**
+**`!ref`**
+
 > -> mistral large 2
 
 > object oriented programming principles
@@ -2254,6 +2275,9 @@ Object-oriented programming (OOP) is a programming paradigm that uses objects an
 These principles help in creating modular, reusable, and maintainable code, making OOP a powerful paradigm for software development.
 
 ## fp principles
+
+**`!important`**
+**`!ref`**
 
 > -> mistral large 2
 
@@ -3188,6 +3212,8 @@ Choosing between shallow and deep cloning depends on your specific use case and 
 
 ## vue options
 
+**`!important`**
+
 > -> mistral large 2
 
 > new Vue(options)
@@ -3296,6 +3322,9 @@ If Ant Design doesn't seem like the right fit, you might consider other popular 
 Ultimately, the choice of a component library depends on your project's specific needs, your team's familiarity with the library, and the design language you prefer. Ant Design is a strong contender and worth considering for many types of applications.
 
 ## newton vs bisection
+
+**`!important`**
+**`!ref`**
 
 > -> mistral large 2
 
@@ -3987,6 +4016,8 @@ These examples demonstrate how to create a simple counter app using different te
 
 ## editable counter app in frameworks
 
+**`!important`**
+
 > -> mistral large 3
 
 > counter app with editable input type text increase and decrease in react alpine vue svelte and jquery
@@ -4191,6 +4222,9 @@ Sure, here's a brief overview of the web frameworks behind some popular sites:
 This list provides a snapshot of the technologies used by these companies, but keep in mind that many large companies use a mix of technologies and may have custom frameworks or components as well.
 
 ## javascript framework behind popular sites
+
+**`!important`**
+**`!ref`**
 
 > -> mistral large 2
 
@@ -4644,6 +4678,9 @@ While these examples illustrate the basic concept, React's actual implementation
 
 ## beyond elegance
 
+**`!important`**
+**`!ref`**
+
 > -> mistral large 2
 
 > sub concepts of elegance
@@ -4673,6 +4710,8 @@ Elegance is a multifaceted concept that is often associated with grace, beauty, 
 Each of these sub-concepts contributes to the overall notion of elegance, and they often overlap and interplay with each other.
 
 ## elegantly designed personal sites
+
+**`!important`**
 
 > -> mistral large 2
 
@@ -4704,6 +4743,9 @@ Certainly! Here is a list of notable American presidential candidates and their 
 Please note that some of these websites may no longer be active or may have been archived. For historical purposes, you can often find archived versions of these sites on platforms like the Internet Archive's Wayback Machine.
 
 ## np complete
+
+**`!important`**
+**`!ref`**
 
 > -> mistral large 2
 
@@ -5588,6 +5630,9 @@ Here's a basic example of how you might include Giscus in your HTML:
 Giscus is a powerful and flexible commenting system that leverages GitHub Discussions to provide a seamless and integrated commenting experience for your website. Its open-source nature and ease of use make it an attractive option for developers and content creators alike.
 
 ## markdown math latex
+
+**`!important`**
+**`!ref`**
 
 > -> mistral large 2
 

@@ -2564,3 +2564,13 @@ int capacity
 大学新生,没有编程经验,只是读书.
 若是数学和英语,就不一样了.
 学过哦.
+
+## why education inequality sucks
+
+**`!important`**
+**`!ref`**
+
+最优雅教育资源,多以讲演,视频形式,不利传播.
+建议编写markdown & latex形式的图文稿.
+降低教育不平等.
+
