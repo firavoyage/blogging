@@ -158,6 +158,7 @@
   - chensuiyi yicode
   - cloudwu codingnow
   - coding startup
+  - cr ryley
   - dan abramov overreacted
   - diygod
   - edmund d zhang
@@ -195,6 +196,7 @@
   - rodrigo pombo pombus
   - spicy pidan porridge
   - stray digital
+  - supervisor ma bedtime news
   - tail tail desu
   - tim qian
   - unfettered idle man
@@ -409,8 +411,8 @@
 - 惟江上之清风与山间之明月
 - 以有涯随无涯殆已
 - 壁上小虫忽跃落衿袖间
-- 以神遇而不以目视官知止而神欲行
-- 为者败之执者失之慎终如始则无败事
+- 以神遇而不以目视
+- 为者败之执者失之
 - 花开堪折直须折莫待无花空折枝
 - 以我观物故物皆着我之色彩
 - 宁为玉碎不为瓦全

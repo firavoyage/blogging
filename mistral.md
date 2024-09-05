@@ -48,6 +48,8 @@ In conclusion, the passing youth is a bittersweet reminder of the fleeting natur
 
 ## classic songs
 
+**`!important`**
+
 > -> gpt 3.5
 
 > 50 english classic songs with publication year
@@ -279,6 +281,8 @@ Here is a list of 50 English classic songs with their publication year:
 50. "Sitting on Top of the World" by The Mississippi Sheiks (from their album of the same name in 1934) - 1934
 
 ## ballad songs
+
+**`!important`**
 
 > -> gpt 3.5
 
@@ -572,6 +576,8 @@ Learning web development from scratch can be an exciting and rewarding experienc
 7. Network: Connect with other developers in the community through online forums, social media, or local meetups. Building relationships with other developers can help you learn new skills and gain insights into the industry.
 
 ## retro
+
+**`!important`**
 
 > -> mistral large
 

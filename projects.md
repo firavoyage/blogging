@@ -80,6 +80,7 @@
 - inspire
   - structure of ordered thoughts
   - taptap 3839 steam top rated rank list
+  - world goods list
   - food recipe gantt image
   - math venn image
   - programming roadmap
