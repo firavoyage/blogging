@@ -1374,6 +1374,9 @@ For more information on Markdown, check out the [Markdown Cheat Sheet](https://g
 
 ## high school subjects
 
+**`!important`**
+**`!ref`**
+
 > -> mistral instruct 7b q4
 
 > 中国高中有哪些必读数目
@@ -5629,7 +5632,7 @@ Here's a basic example of how you might include Giscus in your HTML:
 
 Giscus is a powerful and flexible commenting system that leverages GitHub Discussions to provide a seamless and integrated commenting experience for your website. Its open-source nature and ease of use make it an attractive option for developers and content creators alike.
 
-## markdown math latex
+## latex math symbols
 
 **`!important`**
 **`!ref`**
@@ -5784,6 +5787,232 @@ Certainly! LaTeX is a powerful typesetting system that is widely used for creati
 
 This list covers many of the commonly used symbols in LaTeX. For more specialized symbols, you can refer to the comprehensive symbol list in the LaTeX documentation or online resources.
 
+## latex math expressions
+
+**`!important`**
+**`!ref`**
+
+> -> mistral large 2
+
+> long latex math expressions list
+
+Certainly! Here is a list of some common mathematical expressions in LaTeX:
+
+### Basic Expressions
+
+1. **Fractions**
+
+   ```latex
+   \frac{a}{b}
+   ```
+
+2. **Square Root**
+
+   ```latex
+   \sqrt{x}
+   ```
+
+3. **Nth Root**
+
+   ```latex
+   \sqrt[n]{x}
+   ```
+
+4. **Exponents**
+
+   ```latex
+   a^n
+   ```
+
+5. **Subscripts**
+
+   ```latex
+   a_n
+   ```
+
+6. **Summation**
+
+   ```latex
+   \sum_{i=1}^{n} a_i
+   ```
+
+7. **Product**
+
+   ```latex
+   \prod_{i=1}^{n} a_i
+   ```
+
+8. **Integral**
+
+   ```latex
+   \int_{a}^{b} f(x) \, dx
+   ```
+
+9. **Partial Derivative**
+
+   ```latex
+   \frac{\partial f}{\partial x}
+   ```
+
+10. **Limit**
+    ```latex
+    \lim_{x \to a} f(x)
+    ```
+
+### Greek Letters
+
+1. **Alpha**
+
+   ```latex
+   \alpha
+   ```
+
+2. **Beta**
+
+   ```latex
+   \beta
+   ```
+
+3. **Gamma**
+
+   ```latex
+   \gamma
+   ```
+
+4. **Delta**
+
+   ```latex
+   \delta
+   ```
+
+5. **Epsilon**
+   ```latex
+   \epsilon
+   ```
+
+### Trigonometric Functions
+
+1. **Sine**
+
+   ```latex
+   \sin \theta
+   ```
+
+2. **Cosine**
+
+   ```latex
+   \cos \theta
+   ```
+
+3. **Tangent**
+   ```latex
+   \tan \theta
+   ```
+
+### Logarithmic Functions
+
+1. **Natural Logarithm**
+
+   ```latex
+   \ln x
+   ```
+
+2. **Logarithm**
+   ```latex
+   \log x
+   ```
+
+### Matrices
+
+1. **Matrix**
+
+   ```latex
+   \begin{matrix}
+   a & b \\
+   c & d
+   \end{matrix}
+   ```
+
+2. **Determinant**
+   ```latex
+   \begin{vmatrix}
+   a & b \\
+   c & d
+   \end{vmatrix}
+   ```
+
+### Vectors and Sets
+
+1. **Vector**
+
+   ```latex
+   \vec{v}
+   ```
+
+2. **Set**
+   ```latex
+   \{a, b, c\}
+   ```
+
+### Miscellaneous
+
+1. **Infinity**
+
+   ```latex
+   \infty
+   ```
+
+2. **Approximately Equal**
+
+   ```latex
+   \approx
+   ```
+
+3. **Not Equal**
+
+   ```latex
+   \neq
+   ```
+
+4. **Less Than or Equal To**
+
+   ```latex
+   \leq
+   ```
+
+5. **Greater Than or Equal To**
+
+   ```latex
+   \geq
+   ```
+
+6. **Therefore**
+
+   ```latex
+   \therefore
+   ```
+
+7. **Because**
+   ```latex
+   \because
+   ```
+
+### Example of a Complex Expression
+
+```latex
+E = mc^2
+```
+
+```latex
+\int_{0}^{\infty} e^{-x^2} \, dx = \frac{\sqrt{\pi}}{2}
+```
+
+```latex
+\frac{d}{dx} \left( \int_{0}^{x} f(t) \, dt \right) = f(x)
+```
+
+These are just a few examples of the many mathematical expressions you can create using LaTeX. LaTeX is a powerful typesetting system that allows for the creation of complex mathematical notation with ease.
+
 ## why jetbrains
 
 > -> mistral large 2
@@ -5863,3 +6092,38 @@ Choosing between JetBrains and VSCode depends on your specific needs and prefere
 - **VSCode** is excellent if you prefer a lightweight, extensible editor that is free and has strong community support.
 
 Both tools are highly regarded in the developer community, and many developers use both depending on the project or task at hand.
+
+## to elegance
+
+**`!important`**
+**`!ref`**
+
+> -> mistral large 2
+
+> to elegance
+
+To achieve elegance, consider the following suggestions that apply to various aspects of life:
+
+1. **Simplicity**: Embrace simplicity in your choices, whether it's in fashion, home decor, or communication. Less is often more, and simplicity can exude sophistication and grace.
+
+2. **Timelessness**: Opt for classic and timeless pieces rather than following short-lived trends. This applies to fashion, interior design, and even personal values.
+
+3. **Quality**: Invest in quality items that will last. Elegance is often associated with durability and craftsmanship.
+
+4. **Etiquette**: Practice good manners and be respectful of others. Elegance is not just about appearance, but also about how you conduct yourself.
+
+5. **Poise**: Maintain good posture and move with grace. Poise is an essential component of physical elegance.
+
+6. **Eloquence**: Speak thoughtfully and articulately. Elegance is also reflected in the way you express your thoughts and ideas.
+
+7. **Confidence**: Be confident in who you are and what you stand for. True elegance comes from within and is reflected in your self-assurance.
+
+8. **Kindness**: Be kind and compassionate. Elegance is not just about appearance; it's also about character and how you treat others.
+
+9. **Consistency**: Maintain consistency in your behavior and style. Elegance is something that should be cultivated over time.
+
+10. **Personal Touch**: Add your own unique touch to your elegant style. Elegance doesn't have to be bland or boring; it should reflect your personality.
+
+11. **Continuous Learning**: Elegance is also about refinement and growth. Keep learning and evolving.
+
+12. **Mindfulness**: Be mindful of your surroundings and the people around you. Elegance is about being present and thoughtful.

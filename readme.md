@@ -1,4 +1,4 @@
-# firavoyage
+# firavoyage `elegance`
 
 ## .
 
@@ -31,6 +31,7 @@
   - math and algorithms
   - web dev abstract
 - - bach werke verzeichnis (johann sebastian bach)
+  - hotel california (eagles)
   - wind of change (scorpions)
   - scarborough fair (sarah brightman)
   - the sound of silence (simon & garfunkel)
@@ -94,9 +95,9 @@
   - .grand theft auto v (2013)
   - .super bunny man (2017)
   - .fly me 2 the moon (2011)
-  - .yosuga no sora (2008)
-  - .wonderful everyday (2010)
   - .riddle joker (2020)
+  - .wonderful everyday (2010)
+  - .doki doki literature club! (2017)
 - - hackers and painters (paul graham)
   - javascript: the good parts (douglas crockford)
   - javascript: the definitive guide seventh edition (david flanagan)
@@ -163,10 +164,11 @@
   - diygod
   - edmund d zhang
   - fabrice bellard
-  - fireship a todo list and ten frameworks
+  - fireship ten js frameworks
   - forever naive taffy
-  - geekerwan geek bay
+  - geek bay geekerwan
   - growth.design
+  - hexagram with spiritual wind
   - huang zhizhong
   - interpreter gavin
   - james sinclair jrsinclair
@@ -181,6 +183,7 @@
   - memoir of prosperity
   - mohamad light
   - mr marmot little pink wojaks
+  - mr yu teaches physics
   - my sister is just that kawaii
   - nat friedman
   - nicholas wei bro
@@ -195,6 +198,7 @@
   - promise of playboy
   - richard brawl stars
   - rodrigo pombo pombus
+  - ruan yifeng ruanyf
   - spicy pidan porridge
   - stray digital
   - tail tail desu
@@ -202,9 +206,9 @@
   - unfettered idle man
   - upright flies
   - wanderer brawl stars
-  - wes bos
-  - white house
+  - wes bos web dev
   - xiaogu math
+  - yunling sapphire
   - zhou xuanyi
 - - acheron
   - billy kid
@@ -397,6 +401,7 @@
   - waiting and shining with the freshest hope and warmest aura.
   - some day. till then
 - memento mori.
+  - just let time be precious...
 - 遂迷不复得路
 - 念念不忘必有回响
 - 命里有时终须有命里无时莫强求
@@ -440,14 +445,10 @@
 - self
   - `weekly` weekly plans at each time
   - `timeln` personal discoveries and thoughts
-  - `/recollections` legacy timeln
-  - `djhs grades` perspective of school life
+  - `djhs` wax and wane of school life
   - `email` way to contact me
   - `swim` internet swimming guide
-- project
-  - `/firascript` simple script language
-  - `/intuitive` intuitive web dev
-  - `/pure` pure math
+  - `/recollections` legacy timeln
 - config
   - `/config` `ubuntu config` elegant work flow
   - `/config` `chromium bookmarks` source of all

@@ -223,7 +223,7 @@
 
 - from anywhere
   - bookmarks
-  - content platforms
+  - berryberry
   - imported scripts
 - save everything
   - vid
@@ -329,6 +329,8 @@
 
 > -> /pure
 
+- mission
+  - make mathematics elegant 
 - features
   - not boring like real class recordings
   - simplicity by abstract(description and calculation) and collapsion(vocal off quick animation)
@@ -460,7 +462,6 @@
   - brad traversy
   - rodrigo pombo
   - dan abramov
-  - harvard cs50
 
 ### `sniper`
 

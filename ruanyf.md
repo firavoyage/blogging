@@ -16,7 +16,7 @@
 
 > after reading 30 issues,i discovered my interest
 > selected:creative apps,startup quotes,developer stories,design theory,programming guides,resource libraries
-> others:novel hardwares,biological or astronomical researches,prove of concept programming tools,business news
+> ignored:novel hardwares,biological or astronomical researches,prove of concept programming tools,business news
 > (fira,20240723)
 
 ## ruanyf weekly mission

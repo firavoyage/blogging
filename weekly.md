@@ -2,6 +2,43 @@
 
 > 🌕 💤 before 23:00!
 
+## 20240908
+
+> daily
+
+- visit digital homes (al sr)
+- eat (bilimiao)
+
+> weekend
+
+- read react learn docs
+- think voyage in react
+- write voyage
+- think antd in sr
+- design pre pages
+- pure project
+- intuitive project
+
+> weekend night
+
+- read ruanyf weekly
+- read sr story
+- watch mygo
+- rewatch yosuga no sora
+- watch simplelive
+- play senrenbanka
+
+> spare time
+
+- classify web by tag
+- revise projects
+- sync phone memories
+
+> school
+
+- read one hundred years of solitude
+- learn math & english
+
 ## 20240903
 
 > daily

@@ -293,5 +293,17 @@ And in case I don’t see you, good afternoon, good evening and good night!
 
 山河四省,教育资源.
 
-语言是许多限制和不利.写字,打字之.中文写字慢,打字慢.英文写字快,打字快.
-看似利好的字数和书法,本质不然,无非降低阅读舒缓,减少可用字体.
+祁厅长,我太想进步了
+
+凡数列者,勿求导之.
+
+rise and fall | ebb and flow | wax and wane
+
+多年以后,...(one hundred years of solitude)
+
+i see. i come. i conquer.
+
+fun fact... youtube itself does not use material design.
+
+缄默,矜持.无心无波澜.
+

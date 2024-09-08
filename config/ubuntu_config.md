@@ -105,11 +105,14 @@ resultactive=yes
 
 ## power
 
+- power mode `performance`
 - automatic screen brightness `off`
-- config `screen blank 5 min`
-- config `automatic suspend`
-  - battery power `20min`
-  - plugged in `off`
+- dim screen `on`
+- screen blank `5 min`
+- automatic power saver `off`
+- automatic suspend `20min` `off`
+- power button behavior `power off`
+- show battery percentage `off`
 
 ## printer
 
@@ -237,9 +240,9 @@ chrome://flags/#chrome-webui-refresh-2023
 - config extensions
   - justblack `https://chromewebstore.google.com/detail/just-black/aghfnjkcakhmadgdomlmlhhaocbkloab`
   - adguard `https://chromewebstore.google.com/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg`
-    - filters `ad blocking` `privacy` `annoyance` `...`
+    - general / activate the most appropriate filters automatically `off`
+    - filters `ad blocking` `privacy` `annoyance`
     - user rules / import settings `git/blogging/config/list_adguard.txt`
-    - allow in incognito
     - additional settings / notify about extension updates `off`
   - google translate `https://chromewebstore.google.com/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb`
     - my primary language `chinese(simplified)`
@@ -327,33 +330,38 @@ sudo apt install code
   - insert line below `shift enter`
   - run code `ctrl r`
 - use shortcuts
-  - do anything `ctrl shift p`
-  - open settings page `ctrl ,`
-  - open nav bar `alt`
-  - open side bar `ctrl b`
-  - open explorer `ctrl shift e`
-  - open extensions `ctrl shift x`
-  - new file `ctrl n`
-  - close file `ctrl w`
-  - format code `ctrl shift i`
-  - preview markdown `ctrl shift v`
-  - view all markdown headers `ctrl t`
-  - stop code running in terminal `ctrl c`
-  - skip words `ctrl leftarrow|rightarrow`
-  - scroll page `ctrl uparrow|downarrow`
-  - select letters `shift leftarrow|rightarrow`
-  - select words `ctrl shift leftarrow|rightarrow`
-  - select line `ctrl l`
-  - select blocks `shift alt leftarrow|rightarrow`
-  - duplicate cursor `ctrl shift uparrow|downarrow` | `shift alt uparrow|downarrow` | `alt click`
-  - move current line `alt uparrow|downarrow`
-  - reset cursor `esc`
-  - indent code `ctrl ]`
-  - unindent code `ctrl [`
-  - collapse code `ctrl shift [`
-  - uncollapse code `ctrl shift ]`
-  - zoom in `ctrl +`
-  - zoom out `ctrl -`
+  - - do anything `ctrl shift p`
+  - - open settings `ctrl ,`
+    - open nav bar `alt`
+    - open side bar `ctrl b`
+    - open explorer `ctrl shift e`
+    - open extensions `ctrl shift x`
+  - - new file `ctrl n`
+    - close file `ctrl w`
+  - - format code `ctrl shift i`
+    - preview markdown `ctrl shift v`
+    - view symbols(or markdown headers) in current file `ctrl shift o`
+    - view symbols(or markdown headers) everywhere `ctrl t`
+  - - run code `ctrl r`
+    - stop running `ctrl c`
+  - - skip to next word `ctrl left|right`
+    - scroll page `ctrl up|down`
+  - - select letters `shift left|right`
+    - select words `ctrl shift left|right`
+    - select lines `ctrl l`
+    - select blocks `shift alt left|right`
+  - - duplicate cursor vertically `ctrl shift up|down` | `shift alt up|down`
+    - duplicate cursor anywhere `alt click`
+    - reset cursor `esc`
+  - - duplicate selection `ctrl d`
+    - move line vertically `alt up|down`
+    - insert line below `shift enter`
+  - - indent code `ctrl ]`
+    - unindent code `ctrl [`
+    - collapse code `ctrl shift [`
+    - uncollapse code `ctrl shift ]`
+  - - zoom in `ctrl +`
+    - zoom out `ctrl -`
 
 # git
 
