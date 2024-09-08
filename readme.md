@@ -451,15 +451,15 @@
   - `/recollections` legacy timeln
 - config
   - `/config` `ubuntu config` elegant work flow
-  - `/config` `chromium bookmarks` source of all
-  - `/config` `(...)` preferences and shortcuts
+  - `/config` `list ...` preferences
+  - `/config` `terminal ...` shortcuts
 - notes
   - `/notes` `design` psychology in design
   - `/notes` `plain` federal plain language
   - `/notes` `competitive` competitive programming
   - `/notes` `xbox` video games travelling
-  - `/notes` `(testing...)` google testing
-  - `/notes` `(...)` stack overflow documentation
+  - `/notes` `testing ...` google testing
+  - `/notes` `...` stack overflow documentation
 
 ## repos
 

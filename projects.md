@@ -244,6 +244,7 @@
 - inspired by
   - pocket
   - instapaper
+  - raindrop
   - archive box
 
 ### `shelf`
