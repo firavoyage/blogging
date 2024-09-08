@@ -5,12 +5,19 @@
 - an entrepreneur, developer, otaku
 - grew up in shanghai
 - on the internet since 2019, which is my actual "home town"
-- live in rest of the world
+- live in high school
 - working on voyage project
 
-## mission
+## career
 
 - make tools elegant
+- make knowledge pure
+
+## wisdom
+
+- be serene
+- be reticent
+- be restrained
 
 ## love
 
@@ -68,7 +75,6 @@
   - .your lie in april (2014)
   - .the godfather (1972)
   - .the truman show (1998)
-  - .wall-e (2008)
   - .the good the bad and the ugly (1966)
 - - honkai star rail (2023)
   - honkai impact third (2016)
@@ -375,16 +381,10 @@
 - tell me, and i will forget.
   - show me, and i may remember.
   - involve me, and i will understand.
-  - confucius
 - knowledge isn't free.
   - you have to pay attention.
-  - richard p. feynman
 - i have a small device in my pocket that provides access to nearly the sum total of human knowledge.
   - i use it to get into pointless arguments with people i don't know and look at pictures of cats.
-  - (i wish i could claim that as original but it is something i read on the internet. between cats. :-/ )
-- we now generally consider moment to be a legacy project in maintenance mode.
-  - it is not dead,
-  - but it is indeed done.
 - world is powered by solitude.
   - gravitated and spellbound
   - beautifully advance
@@ -510,21 +510,6 @@
 - `idle student` earthly escapade...
 - `simplicity addict` elegance of knowledge...
 - `indie developer` libre world...
-
-## wish
-
-- work
-  - do what adobe and coursera do
-  - knowledge organized with structure and simplicity
-- school
-  - shanghai dajing "vocational" high school 2026 graduate
-  - have got #1 #2 #3 in my grade
-  - dont study overtime qwq
-- rest
-  - contribute to the liberty of the world
-  - discover the elegance of programming
-- mission
-  - make tools elegant
 
 ## status
 
