@@ -24,7 +24,7 @@
   - content block
   - auto collapse
 - local based
-  - static file storage
+  - as markdown files
 - various themes
   - by voyage
 - inspired by
@@ -68,9 +68,16 @@
   - drag to draw
   - right click to add content block
   - double click to select
+- inspire
+  - tab to forward
+  - backspace to backward
+  - enter to new line
+  - arrow to switch
+  - click to add block
+  - drag to link
+- examples
   - math problem solution
   - algorithm and data structure visualization
-- inspire
   - taptap 3839 steam top rated rank list
   - world goods list
   - food recipe gantt image
@@ -80,10 +87,8 @@
   - book recommendation list
   - message timeln
   - product features tree
-- libre
-  - opensource on github
 - local based
-  - static file storage
+  - as markdown files
   - pwa support
 - various themes
   - by voyage
@@ -91,7 +96,7 @@
   - xmind
   - process on
   - drawio
-  - developer roadmap
+  - developer roadmaps
 
 ## create
 
@@ -348,6 +353,10 @@
 
 > /intuitive
 
+- guides
+  - frontend
+  - cpp
+  - python
 - frontend tech structured
   - html tags and attributes
   - css selector and attributes
@@ -489,10 +498,11 @@ problem {
 
 > -> /firascript
 
-- firascript is better and simpler
-  - but javascript is good enough
-- firascript literal
-  - typing a few symbools and tokens doesn't cost much time
+- features
+  - javascript is good enough
+  - with functional programming
+  - and libraries like lodash
+- literal
 
 ```
 (a b c d) //(a,b,c,d)
@@ -504,9 +514,7 @@ problem {
 (A){B} //function(A){B}
 ```
 
-- firascript definition
-  - just generate a json and pass its keys to globalthis
-  - typing = and function benefits reading and understanding
+- definition
 
 ```
 const {a 1 b 2 c 3} //const a=1,b=2,c=3
@@ -518,55 +526,32 @@ let a (A){B} //let a=function(A){B}
 a(A){B} //a=function(A){B}
 ```
 
-- firascript if statement
-  - look like integrating switch statement into if statement
-  - but a few else and if make it clearer
-  - or you may define a fn called switch() or case(a,{value fn value fn...})
+- if
 
 ```
 if(a){A}(b){B}(c){C}{D} //if(a){A}else if(b){B}else if(c){C}else{D}
+
+match(value,pairs,stop=false)
 ```
 
-- firascript loop statement
-  - while true is clearer than three letters
-  - to repeat several times,
-  - just define a fn repeat(fn,times=-1) right in js
-  - to iter an array
-  - for(i of arr) is built-in in js and omitting of ain't a good idea
-  - to iter i from 1 to 10,
-  - just define a fn numbers(from,to,step=1),and for(i of numbers(1,10))
-  - to iter i and j
-  - putting two var in one for loop makes it confused,better to wrap them
+- loop
 
 ```
 for{A} //while(true){A}
 
 while{A} //while(true){A}
 
-for(10){A} //for(let __fs_i=0;__fs_i<10;__fs_i++){A}
+repeat(10){A} //for(let __i=0;__i<10;__i++){A}
 
-for(i arr){A} //for(let __fs_i=0,i=arr[__fs_i];__fs_i<arr.length;__fs_i++){A}
+each(i arr){A} //for(let __i=0,i=arr[__i];__i<arr.length;__i++,i=arr[__i]){A}
+
+each(i obj){A} //for(let __i=0,__k=Object.keys(obj),i=__k[__i];__i<__k.length;__i++,i=__k[__i]){A}
 
 for(i 1 10){A} //for(let i=1;i<=10;i++){A}
 
 for(i 1 10 j 10 100){A} //for(let i=1;i<=10;i++){for(let j=10;i<=100;j++){A}}
-
-for(i arr j brr){A} //for(let __fs_i=0,i=arr[__fs_i],j=brr[__fs_i];__fs_i<arr.length&&__fs_i<brr.length;__fs_i++){A}
 ```
 
-- conclusion
-  - firascript is a good idea,but i will continue writing javascript
-  - and... with some functions built-in.(define them at the top of all program)
-  - `define(obj,where)` copy all data (key value pairs) to `window`
-  - `case(value,pairs,StopAtFirstMatch=false)` match value to all value-fn pairs and run fn if it matches
-  - `repeat(fn,times=-1)` run fn several times,default infinite
-  - `each(first,last,step=1)` return an array of numbers,like python,used in `for(i of each(1,10)){}`
-  - then you get "firascript in javascript"
-  - it has consts(`consts={when:"addEventListener",select:"document.querySelector",selectId:"document.getElementById"}`) and functions(`functions={case(){},repeat(){},each(){}}`) and `define(obj,where)`.
-  - separates data(`define(consts)`) and fn(`define(functions)`)
-- operators
-  - 2 for condition,`if()`(incl `else`), `case()`
-  - 4 for loop,`repeat()`,`for(i of each())`,`for(i of arr)`,`while()`
 - inspired by
   - arc language
   - airbnb javascript guide
@@ -612,18 +597,21 @@ for(i arr j brr){A} //for(let __fs_i=0,i=arr[__fs_i],j=brr[__fs_i];__fs_i<arr.le
 - features
   - no pre compiler or custom file type
   - no optionated prefix
+  - reactive not declarative
   - component based
   - minimal change
+- methods
+  - data listener
+  - json to html
 - inspired by
-  - reactjs
+  - reactjs 
   - alpinejs
   - mithriljs
   - sveltejs examples
   - vuejs examples
   - jquery
   - ant design components
-  - "i built the same app 10 times" by fireship
-  - "counter app in jquery vue and react" by codingstartup
+  - fireship web frameworks
 
 ### `fresh`
 
@@ -658,31 +646,6 @@ for(i arr j brr){A} //for(let __fs_i=0,i=arr[__fs_i],j=brr[__fs_i];__fs_i<arr.le
 - inspired by
   - bewlybewly
 
-## channel
-
-### `hoyogamer`
-
-> about the traveller and the trailblazer
-
-- gi story in english
-  - not for primogem
-  - play all archon quests
-  - simple
-  - about two weeks
-- sr story in english
-  - auto battle enabled
-  - play all main quests
-  - elegant
-  - about a week
-- other games like hg hi zzz
-  - not now
-  - they are action games
-  - not visual novels
-- inspired by
-  - memoir of prosperity
-  - promise of playboy
-  - old ocean tubber
-
 ## apps
 
 ### `fx`
@@ -707,3 +670,25 @@ for(i arr j brr){A} //for(let __fs_i=0,i=arr[__fs_i],j=brr[__fs_i];__fs_i<arr.le
 - gradient or art bg
 - inspired by
   - share card
+
+### `gameplay`
+
+> about the traveller and the trailblazer
+
+- gi story in english
+  - not for primogem
+  - play all archon quests
+  - simple
+  - about two weeks
+- sr story in english
+  - auto battle enabled
+  - play all main quests
+  - about a week
+- other games like hg hi zzz
+  - not now
+  - they are action games
+  - not visual novels
+- inspired by
+  - memoir of prosperity
+  - promise of playboy
+  - old ocean tubber

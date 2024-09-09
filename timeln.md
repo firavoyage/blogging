@@ -2643,3 +2643,19 @@ sync phone. complete.
 another monday! sr simulated universe.
 
 love **hotel california**
+
+23:07
+
+(recollection...)
+
+白天,写了个counter app design
+
+- vanilla js
+- voyagejs app
+- voyagejs component
+
+react的state太激进了.
+**如果真的functional programming,其实完全可以把框架当作函数库.**
+
+- data listener
+- component to html
