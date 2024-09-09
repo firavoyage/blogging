@@ -6169,4 +6169,91 @@ Wisdom is a broad and multifaceted concept that encompasses various sub-concepts
 
 These sub-concepts interconnect and reinforce each other, contributing to the overall development of wisdom.
 
-##
+## lodash
+
+**`!important`**
+**`!ref`**
+
+> -> mistral large 2
+
+> lodash
+
+Lodash is a popular JavaScript library that provides utility functions for common programming tasks. It is designed to make working with arrays, objects, strings, and other data structures easier and more efficient. Lodash is modular, meaning you can import only the functions you need, which helps keep your project lightweight.
+
+Here are some key features and commonly used functions in Lodash:
+
+### Key Features
+
+- **Modularity**: You can import only the functions you need.
+- **Performance**: Optimized for performance.
+- **Consistency**: Provides a consistent API across different environments.
+- **Compatibility**: Works in both Node.js and browser environments.
+
+### Commonly Used Functions
+
+#### Array Functions
+
+- **`_.chunk(array, [size=1])`**: Creates an array of elements split into groups the length of `size`.
+- **`_.compact(array)`**: Creates an array with all falsey values removed.
+- **`_.concat(array, [values])`**: Creates a new array concatenating `array` with any additional arrays and/or values.
+- **`_.difference(array, [values])`**: Creates an array of `array` values not included in the other given arrays.
+- **`_.flatten(array)`**: Flattens `array` a single level deep.
+- **`_.intersection(...arrays)`**: Creates an array of unique values that are included in all given arrays.
+- **`_.union(...arrays)`**: Creates an array of unique values, in order, from all given arrays.
+
+#### Object Functions
+
+- **`_.assign(object, [sources])`**: Assigns own enumerable string keyed properties of source objects to the destination object.
+- **`_.clone(value)`**: Creates a shallow clone of `value`.
+- **`_.cloneDeep(value)`**: Creates a deep clone of `value`.
+- **`_.defaults(object, [sources])`**: Assigns own and inherited enumerable string keyed properties of source objects to the destination object for all destination properties that resolve to `undefined`.
+- **`_.merge(object, [sources])`**: Recursively merges own and inherited enumerable string keyed properties of source objects into the destination object.
+- **`_.pick(object, [props])`**: Creates an object composed of the picked `object` properties.
+- **`_.omit(object, [props])`**: Creates an object composed of the own and inherited enumerable string keyed properties of `object` that are not omitted.
+
+#### String Functions
+
+- **`_.camelCase([string=''])`**: Converts `string` to camel case.
+- **`_.kebabCase([string=''])`**: Converts `string` to kebab case.
+- **`_.snakeCase([string=''])`**: Converts `string` to snake case.
+- **`_.startCase([string=''])`**: Converts `string` to start case.
+- **`_.upperFirst([string=''])`**: Converts the first character of `string` to upper case.
+
+#### Utility Functions
+
+- **`_.debounce(func, [wait=0], [options={}])`**: Creates a debounced function that delays invoking `func` until after `wait` milliseconds have elapsed since the last time the debounced function was invoked.
+- **`_.throttle(func, [wait=0], [options={}])`**: Creates a throttled function that only invokes `func` at most once per every `wait` milliseconds.
+- **`_.memoize(func, [resolver])`**: Creates a function that memoizes the result of `func`.
+- **`_.random([lower=0], [upper=1], [floating])`**: Produces a random number between the inclusive `lower` and `upper` bounds.
+
+### Installation
+
+You can install Lodash using npm or yarn:
+
+```bash
+npm install lodash
+```
+
+or
+
+```bash
+yarn add lodash
+```
+
+### Usage
+
+You can import Lodash in your JavaScript file:
+
+```javascript
+const _ = require("lodash");
+
+// or using ES6 import
+import _ from "lodash";
+
+// Example usage
+const array = [1, 2, 3, 4];
+const chunkedArray = _.chunk(array, 2);
+console.log(chunkedArray); // Output: [[1, 2], [3, 4]]
+```
+
+Lodash is a powerful tool that can greatly simplify and optimize your JavaScript code. Whether you're working with arrays, objects, or strings, Lodash has a function to help you get the job done efficiently.

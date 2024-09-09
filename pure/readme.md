@@ -118,14 +118,6 @@ personally,prefer ruanyf blog style
 - daoxuexianfeng
 - fudaoyutigao
 
-## market research
-
-fellows
-- furina math
-- paimon science
-- venti science
-- ...
-
 ## commercialize
 
 - popularity

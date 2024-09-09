@@ -1,64 +1,58 @@
 # projects
 
+## mission
+
+- make tools elegant
+- make knowledge pure
+
 ## write
 
 ### `para`
 
 > elegant reader for elegant writer
 
-- content without style
+- content separated from style
   - markdown based and content focused
   - style can be changed at any time in one click
-- present freely without any distraction
-  - say goodbye to word while teaching,conferencing...
-  - feel like zen mode
+- present without distraction
+  - document slide view
+  - zen mode without editor panel
 - structure view
-  - stay focused.
+  - contents and headers
   - zoom in and zoom out
 - markdown extended
-  - various content blocks
-  - collapse and show more
-  - by parac
+  - content block
+  - auto collapse
 - local based
-  - static files instead of cloud res
-- publish everywhere 
-  - in one click
-  - github pages
-  - hacker news
-  - dev to
-  - cnblogs
-  - zhihu
-  - jianshu
-  - juejin
+  - static file storage
 - various themes
   - by voyage
 - inspired by
   - notion
-  - yuque
   - obsidian
-  - typora
+  - yuque
 
 ### `pre`
 
 > the simplicity of presentation
 
-- content focused
-  - just split pages
-  - no eye-catching effects
+- just content
+  - no animations or effects
 - markdown extended
-  - various content blocks
-  - markdown is not a vehicle of rich text
-  - use json to store texts images positions and styles
-  - markdown auto-compiled to json
-  - no html comment needed
+  - page style
+  - content block
 - structure view
-  - cover for header 1
-  - toc pages for header 2 with the current one highlighted
-  - footer for page index,author and date
+  - title page
+  - toc page
+  - chapter info page
+- footer
+  - author
+  - date
+  - page index
 - export
-  - to pdf
-  - to ppt
-  - to html
+  - pdf
+  - ppt
+  - html
 - inspired by
   - slidev
   - fusuma
@@ -70,15 +64,13 @@
 > elegance of thoughts
 
 - present
-  - freedom of unordered thoughts
   - click to place text
   - drag to draw
-  - double (right) click to add content block
-  - skies clouds and moods
+  - right click to add content block
+  - double click to select
   - math problem solution
   - algorithm and data structure visualization
 - inspire
-  - structure of ordered thoughts
   - taptap 3839 steam top rated rank list
   - world goods list
   - food recipe gantt image
@@ -88,11 +80,10 @@
   - book recommendation list
   - message timeln
   - product features tree
-- markdown based
-  - static files instead of cloud resources
 - libre
   - opensource on github
 - local based
+  - static file storage
   - pwa support
 - various themes
   - by voyage
@@ -274,7 +265,16 @@
   - channels tag based
   - long-existed blogs
 - more
-  indie games,bangumis,visual novels,fonts,... not included as their databases are implemented well
+  - indie games
+  - bangumis
+  - visual novels
+  - fonts
+- inspired by
+  - imdb
+  - douban
+  - goodreads
+  - vndb
+  - steamdb
 
 ### `goods`
 
@@ -286,43 +286,11 @@
   - classify the items
 - focus on what you own,not what you have bought
   - track the goods
+- inspired by
+  - amazon
+  - raindrop
 
 ## learn
-
-### `movieheart`
-
-> different rating is different people
-
-- the shawshank redemption
-  - all we love this
-  - no one in this prison is guility
-  - i dont know how many people killed.
-- the truman show
-  - so the trumen love this most
-- joker
-  - so the jokers love this most
-- coco
-  - about beyond death
-- soul
-  - move the soulless ones
-- inspired by
-  - aww rated
-
-### `debation`
-
-> structured views instead of unordered sentences
-
-> -> /debation
-
-- style
-  - quotes on two sides of the timeln
-- words abstracted
-  - positive
-  - negative
-  - example
-  - contrast
-  - straw man
-- markdown based
 
 ### `pure`
 
@@ -330,46 +298,30 @@
 
 > -> /pure
 
-- mission
-  - make mathematics elegant 
 - features
-  - not boring like real class recordings
-  - simplicity by abstract(description and calculation) and collapsion(vocal off quick animation)
-  - difficulty as "math challenger" "math leader" "math helper" and some exams
-  - omitting subject words and reading textbook beyond the words shown
-  - nsfw idioms (memes and moegirl pedia)
-  - life-size waifus (qwq)
-- print course
-  - stay away from the hustle and bustle
-  - every course is printable
-  - same experience from watching to reading
-- dailyab
-  - everyday 2 problems on an a4 page
-- 40min hs math
-  - cheetsheet for each unit
-  - difficult problem solutions | animation
-  - vocal off and bach classic
-- build with elegance | distraction free
-  - by pre and mind
-- promotion
-  - childhood retro | my desired math courses
-  - purity of math is noskill
-  - open high school math in nicholas wei bro (mihoyo) way
-  - relearn high school math as a beginner
+  - lists not blockquotes
+  - known conditions not problem explanations
+  - math challengers not exam candidates
+  - on paper not on screen
+- concepts
+  - dailyab
+  - 40min hs math
+  - unit cheetsheet
+- wonders
+  - childhood retro and my desired math course
+  - learn hs math as nicholas wei bro
   - the libre high school math textbook
-- commercialize
-  - members can receive homework answers
+  - teach hs math to pupils
+  - hs math overkill
 - various themes
   - by voyage
 - inspired by
-  - one math channel (-> one_math.md https://www.bilibili.com/video/BV147411K7xu/)
-  - zju su dekuang (-> https://www.bilibili.com/video/BV1GB4y1v7sL/)
-  - zhao lixian channel (-> https://www.bilibili.com/video/BV1X14y1d7pu/)
-  - math bu channel (-> https://www.bilibili.com/video/BV1KN411n7pp/ https://www.bilibili.com/video/BV1gt4y1h7dQ/)
-  - xiaogu math channel (-> https://space.bilibili.com/490447495)
-  - furina math channel (-> https://space.bilibili.com/1341745816)
-  - math graduate channel (-> https://space.bilibili.com/628523505)
-  - zhangyu math channel (-> https://space.bilibili.com/679237565)
+  - yunling sapphire
+  - mr yu teaching physics
+  - one math channel
+  - zhao lixian channel
+  - math bu channel
+  - math contest fei bro
 
 ### `leisure`
 
@@ -389,36 +341,6 @@
   - then start learning right after app launch
 - emotional pronounciation
   - by gptsovits
-
-## dev
-
-### `parac`
-
-> elegant md html compiler
-
-- markdown extended
-  - icon images
-  - block style
-- configurable
-  - header style
-  - line break style
-  - identation style
-- work with mdlint
-
-### `nsfwly`
-
-> wow now i get the placeholder
-
-> -> idioms
-
-- nsfw idiom
-  - bored of lorem ipsum?
-  - lets go nsfwly
-- source
-  - programming quotes
-  - reddit comments
-  - hentai memes
-  - anime lines
 
 ### `intuitive`
 
@@ -448,14 +370,6 @@
   - platfighter:pass or death
   - bs local:ideas ignored by supercell,strong teammates
   - cr local:ideas ignored by supercell,human-like opponents
-- why javascript
-  - use bracket symbols while some use words like begin end
-  - use math expressions like a+b and f(x) while some put operaters before
-  - object oriented programming support while some use address method
-  - functional programming support while some does not consider functions as variables
-  - flexible syntax while some have strict limits like line end semicolons and main functions
-  - the only script language which browsers support
-  - es6 great power like block definition and destructuring assignment
 - various themes
   - by voyage
 - inspired by
@@ -468,6 +382,11 @@
 
 > get everything about code snippets
 
+- code snippets
+  - title
+  - tag
+  - content
+  - meaning
 - inspired by
   - cacher
   - lodash
@@ -488,6 +407,8 @@
   - `[a b c d e]`
 - macro like cpp
   - `define each(a,b,c) for(int a=b;a<=c;a++){}`
+- inspired by
+  - python
 
 ### `scriptype`
 
@@ -500,11 +421,14 @@
   - object `string string dict{}`
 - syntax
   - comment
+
 ```
 //comment
 /*comments*/
 ```
-  - define type 
+
+- define type
+
 ```
 any(){
   return true
@@ -513,7 +437,9 @@ uint(n){
   return n>=0
 }
 ```
-  - list
+
+- list
+
 ```
 content(c){
   return type(c) == "element[]" || type(c) == "string" //children or text node
@@ -524,7 +450,9 @@ element [
   content content
 ]
 ```
-  - hash map
+
+- hash map
+
 ```
 query(q){
   //number or string or boolean or function
@@ -535,7 +463,9 @@ fn(f){
 }
 query fn handle {}
 ```
-  - struct
+
+- struct
+
 ```
 item {
   int weight
@@ -546,9 +476,12 @@ problem {
   int capacity
 }
 ```
+
 - methods
   - type
   - check
+- inspired by
+  - typescript
 
 ### `firascript`
 
@@ -635,8 +568,8 @@ for(i arr j brr){A} //for(let __fs_i=0,i=arr[__fs_i],j=brr[__fs_i];__fs_i<arr.le
   - 2 for condition,`if()`(incl `else`), `case()`
   - 4 for loop,`repeat()`,`for(i of each())`,`for(i of arr)`,`while()`
 - inspired by
-  - arc lang (-> arc.txt)
-  - javascript (-> javascript.md)
+  - arc language
+  - airbnb javascript guide
 
 ### `voyage`
 
@@ -677,12 +610,10 @@ for(i arr j brr){A} //for(let __fs_i=0,i=arr[__fs_i],j=brr[__fs_i];__fs_i<arr.le
 > -> /voyagejs
 
 - features
-  - simple and light weight
-  - straight forward and no vitual dom
-  - no xml(html) needed and everything is json
-  - various themes
-- status
-  - wip
+  - no pre compiler or custom file type
+  - no optionated prefix
+  - component based
+  - minimal change
 - inspired by
   - reactjs
   - alpinejs
@@ -703,6 +634,10 @@ for(i arr j brr){A} //for(let __fs_i=0,i=arr[__fs_i],j=brr[__fs_i];__fs_i<arr.le
   - rating or stars instead of count nums
   - api based progressive loading
   - distraction free
+  - only mihoyo doujin
+  - in sr style
+  - black list is real block
+  - comment is real sorting
 - yelltube
 - bing googlified
 - mastodon birdified
@@ -720,51 +655,17 @@ for(i arr j brr){A} //for(let __fs_i=0,i=arr[__fs_i],j=brr[__fs_i];__fs_i<arr.le
   - h2 os
 - various themes
   - by voyage
-
-### `berryberry`
-
-> only mihoyo doujin
-
-- only mihoyo doujin
-- in sr style
-- black list is real block
-- comment is real sorting
-- various themes
-  - by voyage
+- inspired by
+  - bewlybewly
 
 ## channel
-
-### `fira`
-
-> my thoughts and discoveries "Fira | 言序"
-
-- pure math tut
-  - become a math challenger
-  - tell the world how to teach math
-- pure math dailyab
-  - great for review and challenge
-- intuitive web dev tut
-  - become a frontend challenger
-  - tell the world how to teach frontend
-- debation summaries
-  - become a critical thinker
-  - tell the world how to summarize views and statements
-- app recommendation
-  - simple but significant
-  - easy to make
-- one line news
-  - ruanyf ideas visualization
-  - other tech channels
-  - some inspiring ideas from ruanyifeng's blog
-- archive for myself
-  - gaming and school life
 
 ### `hoyogamer`
 
 > about the traveller and the trailblazer
 
 - gi story in english
-  - not for primogem 
+  - not for primogem
   - play all archon quests
   - simple
   - about two weeks
@@ -804,37 +705,5 @@ for(i arr j brr){A} //for(let __fs_i=0,i=arr[__fs_i],j=brr[__fs_i];__fs_i<arr.le
 - markdown based
 - put in a letter or card
 - gradient or art bg
-
-### `charstyler`
-
-> unicode player
-
-- input method integration
-  - js library
-  - berryberry danmaku one tap
-- easy to use
-  - tap a style
-  - show preview
-- support all unicode styles
-
-### `journaling`
-
-> weeks and months | plain text journaling
-
-- four weeks horizonal
-- todos vertical
-- one symbol status
-
-### `firststep`
-
-> a great journey begins here | choose the language you love
-
-- i can not tell you what language is best
-  - popular languages are tough competitions
-  - others are less positions
-- ok then feel their grammars
-  - fuzz buzz
-  - other problems
-- and see their usages
-  - popular apps
-  - how are they developed
+- inspired by
+  - share card

@@ -51,6 +51,7 @@
   - sky (beyond)
   - fu shi shan xia (eason chan)
   - one last kiss (hikaru utada)
+  - way down we go (kaleo)
   - ymca (village people)
   - hyehwadong (park bo ram)
   - story of time (luo da you)
@@ -122,6 +123,7 @@
   - to live (yu hua)
   - the scholars (wu jingzi)
   - what i have seen (chai jing)
+  - the chameleon (anton chekhov)
   - .one hundred years of solitude (gabriel garcía márquez)
   - .meditations on life (zhou guoping)
   - .fortress besieged (qian zhongshu)
@@ -131,9 +133,9 @@
   - .stray birds (rabindranath tagore)
   - .if on a winter's night a traveler (italo calvino)
   - .the moon and sixpence (william somerset maugham)
-  - .the chameleon (anton chekhov)
   - .pride and prejudice (jane austen)
   - .rashomon (ryunosuke akutagawa)
+  - .jin ping mei (lanling xiaoxiao sheng)
   - .amusing ourselves to death (neil postman)
   - .remarks on the song lyric and the human condition (wang guowei)
   - .tao te ching (laozi)
@@ -170,7 +172,7 @@
   - diygod
   - edmund d zhang
   - fabrice bellard
-  - fireship ten js frameworks
+  - fireship js framework
   - forever naive taffy
   - geek bay geekerwan
   - growth.design
@@ -186,10 +188,11 @@
   - livid v2ex
   - longbow flintlock
   - ma dugong bedtime news
+  - math contest fei bro
   - memoir of prosperity
   - mohamad light
   - mr marmot little pink wojaks
-  - mr yu teaches physics
+  - mr yu teaching physics
   - my sister is just that kawaii
   - nat friedman
   - nicholas wei bro
@@ -371,6 +374,13 @@
   - build early, build always.
   - improve yourself, write solid/simple/stupid code.
   - live in the future and build what's missing.
+- knowledge isn't free.
+  - you have to pay attention.
+- tell me, and i will forget.
+  - show me, and i may remember.
+  - involve me, and i will understand.
+- i have a small device in my pocket that provides access to nearly the sum total of human knowledge.
+  - i use it to get into pointless arguments with people i don't know and look at pictures of cats.
 - reading is active while watching tv is passive
   - all the research says reading a book is good for you.
   - it reduces stress, promotes comprehension, relieves depression, helps you sleep and may contribute to preventing alzheimer's.
@@ -378,30 +388,23 @@
   - our brains have to work to translate the black squiggles on the page into words and then interpret the meaning and intent of those words.
   - when a character is described as tall with brown hair, a reader creates her own picture.
   - tv takes all that good imagination away.
-- tell me, and i will forget.
-  - show me, and i may remember.
-  - involve me, and i will understand.
-- knowledge isn't free.
-  - you have to pay attention.
-- i have a small device in my pocket that provides access to nearly the sum total of human knowledge.
-  - i use it to get into pointless arguments with people i don't know and look at pictures of cats.
 - world is powered by solitude.
   - gravitated and spellbound
   - beautifully advance
 - character is destiny
   - life is a long-plank game
-- soli deo gloria.
-  - god is light, and in him there is no darkness at all.
-  - if we say we have fellowship with him yet walk in the darkness, we lie and do not practice the truth.
-  - but if we walk in the light as he is in the light, we have fellowship with one another, and the blood of jesus his son cleanses us from all sin.
 - two drifters off to see the world
   - there's such a lot of world to see...
   - for every lonely and wandering soul,
   - there is a lucky star behind the darkness,
   - waiting and shining with the freshest hope and warmest aura.
   - some day. till then
+- soli deo gloria.
+  - god is light, and in him there is no darkness at all.
+  - if we say we have fellowship with him yet walk in the darkness, we lie and do not practice the truth.
+  - but if we walk in the light as he is in the light, we have fellowship with one another, and the blood of jesus his son cleanses us from all sin.
 - memento mori.
-  - just let time be precious...
+  - just let time be precious
 - 遂迷不复得路
 - 念念不忘必有回响
 - 命里有时终须有命里无时莫强求

@@ -184,7 +184,7 @@ all `[1,10]` `1..10` `each(1,10)` incl 1 and 10.
 
 你说青梅不如天降~耶.
 
-0d00 0721
+0d00 0721 0d00.cn
 
 小鲨鱼，你可以吃棒棒糖
 云璃，你可以吃琼实鸟串
@@ -306,4 +306,5 @@ i see. i come. i conquer.
 fun fact... youtube itself does not use material design.
 
 缄默,矜持.无心无波澜.
+
 

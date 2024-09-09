@@ -16,8 +16,8 @@
 - write voyage
 - think antd in sr
 - design pre pages
-- pure project
-- intuitive project
+- create pure project
+- create intuitive project
 
 > weekend night
 
@@ -25,13 +25,11 @@
 - read sr story
 - watch mygo
 - rewatch yosuga no sora
-- watch simplelive
 - play senrenbanka
 
 > spare time
 
 - classify web by tag
-- revise projects
 - sync phone memories
 
 > school
