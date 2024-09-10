@@ -607,10 +607,9 @@ for(i 1 10 j 10 100){A} //for(let i=1;i<=10;i++){for(let j=10;i<=100;j++){A}}
   - reactjs 
   - alpinejs
   - mithriljs
-  - sveltejs examples
-  - vuejs examples
+  - sveltejs
   - jquery
-  - ant design components
+  - ant design
   - fireship web frameworks
 
 ### `fresh`

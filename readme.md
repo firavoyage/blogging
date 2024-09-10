@@ -5,7 +5,7 @@
 - an entrepreneur, developer, otaku
 - grew up in shanghai
 - on the internet since 2019, which is my actual "home town"
-- live in high school
+- live in dajing high school
 - working on voyage project
 
 ## career
@@ -221,7 +221,7 @@
   - yunling sapphire
   - zhou xuanyi
 - - acheron
-  - billy kid
+  - adventurine
   - clara
   - fuxuan
   - herta
@@ -367,19 +367,19 @@
   - it's ok to get yours from "making things happen"
 - a ship in harbor is safe
   - but that is not what ships are built for
-- if you can make a decision with analysis, you should do so.
-  - but it turns out in life that your most important decisions are always made with instinct and intuition.
-  - if i make, like, three good decisions a day, that's enough.
-  - warren buffett says he's good if he makes three good decisions a year.
-- stay focused, keep shipping.
-  - build early, build always.
-  - improve yourself, write solid/simple/stupid code.
-  - live in the future and build what's missing.
 - knowledge isn't free.
   - you have to pay attention.
 - tell me, and i will forget.
   - show me, and i may remember.
   - involve me, and i will understand.
+- stay focused, keep shipping.
+  - build early, build always.
+  - improve yourself, write solid/simple/stupid code.
+  - live in the future and build what's missing.
+- if you can make a decision with analysis, you should do so.
+  - but it turns out in life that your most important decisions are always made with instinct and intuition.
+  - if i make, like, three good decisions a day, that's enough.
+  - warren buffett says he's good if he makes three good decisions a year.
 - i have a small device in my pocket that provides access to nearly the sum total of human knowledge.
   - i use it to get into pointless arguments with people i don't know and look at pictures of cats.
 - reading is active while watching tv is passive
@@ -400,11 +400,15 @@
   - there is a lucky star behind the darkness,
   - waiting and shining with the freshest hope and warmest aura.
   - some day. till then
+- veni, vidi, vici
+  - i came, i saw, i conquered
+  - so much for this, have a nice day.
 - soli deo gloria.
   - god is light, and in him there is no darkness at all.
   - if we say we have fellowship with him yet walk in the darkness, we lie and do not practice the truth.
   - but if we walk in the light as he is in the light, we have fellowship with one another, and the blood of jesus his son cleanses us from all sin.
 - memento mori.
+  - an honourable death is better than a disgraceful life
   - just let time be precious
 - 遂迷不复得路
 - 念念不忘必有回响
@@ -424,8 +428,8 @@
 - 为者败之执者失之
 - 花开堪折直须折莫待无花空折枝
 - 以我观物故物皆着我之色彩
-- 宁为玉碎不为瓦全
-- 壮士断腕义无再辱
+- 宁为玉碎不为瓦全壮士断腕义无再辱
+- 以上祝你度过智识的审美的一天
 
 ## pages
 

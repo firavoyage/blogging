@@ -2784,3 +2784,21 @@ sr 的解密(小游戏),比 gi 有意思很多.
 其实原神或者说太大了,有些人想欣赏剧情,有些想打怪练级,有些喜欢探索发现,有些收集养成
 
 原神不能只选一个,必须都玩,否则就太弱了,打得没劲.
+
+## about voyagejs design
+
+**`!important`**
+**`!ref`**
+
+counter app design
+
+- vanilla js
+- voyagejs app
+- voyagejs component
+
+react state太激进了.
+**如果functional programming,其实不存在框架,只是方法库.**
+
+- data listener
+- component to html
+
