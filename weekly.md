@@ -23,14 +23,16 @@
 > weekend night
 
 - read ruanyf weekly
-- play sr
-- watch mygo & rewatch yosuga no sora
-- play senrenbanka
+- sr
+- mygo & yosuga no sora
+- senrenbanka
+- origami
 
 > spare time
 
 - categorize web by tag
-- sync phone memories
+- trim memories blogs 
+- sync phone
 
 > school
 

@@ -499,9 +499,8 @@ problem {
 > -> /firascript
 
 - features
-  - javascript is good enough
-  - with functional programming
-  - and libraries like lodash
+  - macro based
+  - functional programming
 - literal
 
 ```
@@ -550,6 +549,22 @@ each(i obj){A} //for(let __i=0,__k=Object.keys(obj),i=__k[__i];__i<__k.length;__
 for(i 1 10){A} //for(let i=1;i<=10;i++){A}
 
 for(i 1 10 j 10 100){A} //for(let i=1;i<=10;i++){for(let j=10;i<=100;j++){A}}
+```
+
+- function
+
+```
+let f = {method(){}} //function method(){} | ()=>{}
+```
+
+- object
+
+```
+{
+  o(a){
+    return _.deepclone(a)
+  }
+}
 ```
 
 - inspired by

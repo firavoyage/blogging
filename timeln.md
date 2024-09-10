@@ -2648,14 +2648,14 @@ love **hotel california**
 
 (recollection...)
 
-白天,写了个counter app design
+白天,写了个 counter app design
 
 - vanilla js
 - voyagejs app
 - voyagejs component
 
-react的state太激进了.
-**如果真的functional programming,其实完全可以把框架当作函数库.**
+react 的 state 太激进了.
+**如果真的 functional programming,其实完全可以把框架当作函数库.**
 
 - data listener
 - component to html
@@ -2678,9 +2678,84 @@ archived!
 
 19:29
 
-算了一下,吃完饭20:00的话.
-到23点睡觉,也有三个小时.
+算了一下,吃完饭 20:00 的话.
+到 23 点睡觉,也有三个小时.
 
-不知道我为什么前几周都是1点左右睡觉的.
+不知道我为什么前几周都是 1 点左右睡觉的.
 不过仔细想想,我早睡的愿望也不强哦.
 
+22:48
+
+sr 新版本.一班有好多玩 gi,玩 sr 的.
+
+我...
+
+看到卡池有个 herta 专武,就抽.
+
+然后出了 4 个 up 四星,就是没有 herta lightcone.
+
+厉害.然后 kafka 也抽了,没出.
+
+**总之,浪费了几十发吧,或者说垫.10 发角色,40 发光锥.**
+
+23:40
+
+无意间,点开了 gi 的 app 主页.
+
+旁边推荐了一堆别的 open world game
+
+如果说最赚钱,mihoyo,kuro,tower...当然说的手游
+
+但是如果不赔钱就行,多了,多到似乎我都能做.
+
+可是剧情呢...小说剧本...好像只有 mihoyo 有 quality story.
+
+23:56
+
+read react docs...
+
+Choosing the State Structure
+
+## 20240911
+
+00:14
+
+回顾...
+
+之前想着有三个小时.现在我知道去哪了.
+
+玩 sr,玩狼人杀,看 berryberry.
+
+明天计划
+
+**complete reading react learn docs | managing state**
+
+00:18
+
+看一眼,gi 阿炜.
+
+新号,大世界一个 bennet,barbara,collei 打烈绽放,练度不错.
+
+第二十一天,打了 170 个小时了,满探索满剧情满深渊的说.也到后期了.
+
+看来时长统计网站的 200 小时没错.
+
+**时间不骗人.**
+
+02:25
+
+今天白天下雨,踢球,一身汗,吹空调.
+晚上这个点睡觉,白天 6:30 起床.不会死吧...
+**还好我年轻.明天或许有精神,释怀了.**
+
+memories blogs 太乱了,trim 一下.
+added to weekly.
+
+洗了,晒了被子,床单,枕头.有一种酒店新房的感受.
+以上.
+
+**今天 0 点就一直在空调房冒热汗...**
+或许睡一觉舒适.明天一切如常,星期三,做两件事.
+
+- 文本解析 (百年孤独,react learn docs)
+- 逻辑判断 (memories,eat)
