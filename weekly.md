@@ -23,10 +23,10 @@
 > weekend night
 
 - read ruanyf weekly
-- sr
-- mygo & yosuga no sora
-- senrenbanka
-- origami
+- read sr
+- watch mygo & yosuga no sora
+- play senrenbanka
+- try origami
 
 > spare time
 
@@ -37,6 +37,7 @@
 > school
 
 - read one hundred years of solitude
+- write math papers
 - learn math & english
 
 ## 20240908

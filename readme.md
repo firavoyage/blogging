@@ -219,6 +219,7 @@
   - wes bos web dev
   - xiaogu math
   - yunling sapphire
+  - zhang yizhe
   - zhou xuanyi
 - - acheron
   - adventurine
@@ -263,23 +264,22 @@
   - reddit old
   - v2ex creative
   - nga bbs
-  - share121 inter knot
   - mistral chat
   - wolfram alpha
   - geogebra
   - codeforces
   - luogu
   - leetcode
-  - my anime list top anime
+  - my anime list top
   - bangumi.tv anime chart
-  - pixiv monthly
-  - douban book top 250
   - imdb movie top 250
   - steam top 250
+  - douban book top 250
+  - pixiv monthly
   - dribbble popular
-  - unsplash pexels pixabay stocksnap gratisography
+  - unsplash pexels pixabay
   - product hunt all time
-  - travellings.cn
+  - travellings foreverblog
 - - ubuntu yaru
   - dracula theme
   - atom one dark
@@ -412,6 +412,7 @@
   - just let time be precious
 - 遂迷不复得路
 - 念念不忘必有回响
+- 不如相忘于江湖
 - 命里有时终须有命里无时莫强求
 - 欲买桂花同载酒终不似少年游
 - 江畔何人初见月江月何年初照人
@@ -486,29 +487,29 @@
 
 ## links
 
-- files
+- things
   - github `firavoyage`
   - gitee mirror `firavoyage`
-  - other mirrors `_wip`
 - posts
   - github `firavoyage`
-  - cnblogs `fira`
   - blogger `firavoyage`
-  - medium `_wip`
-  - wordpress `_wip`
-  - telegram `archivefiravoyage`
   - twitter `firascript`
-  - other mirrors `_wip`
-- videos
-  - bilibili `Fira_言序`
-  - youtube `_wip`
-  - telegram `_wip`
-  - other mirrors `_wip`
-- letters
+  - cnblogs `fira`
+  - medium `_`
+  - wordpress `_`
+- movies
+  - bilibili `fira_言序`
+  - youtube `_`
+  - telegram `_`
+- chats
+  - telegram `firavoyage`
   - telegram group `voyagefira`
   - email `firavoyage@outlook.com`
-- personal site
-  - my blog `_wip`
+- spaces
+  - name `firavoyage`
+  - alias `忘我思考`
+  - site `_`
+  - mirrors `_`
 
 ## character
 
@@ -518,12 +519,5 @@
 - `idle student` earthly escapade...
 - `simplicity addict` elegance of knowledge...
 - `indie developer` libre world...
-
-## status
-
-- when i'm not working
-- i'm eating my feed list
-- or enjoying acg
-- or learning
 
 > 🌕 💤 23:00

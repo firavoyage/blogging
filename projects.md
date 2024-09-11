@@ -308,6 +308,7 @@
   - known conditions not problem explanations
   - math challengers not exam candidates
   - on paper not on screen
+  - latex based not hand written
 - concepts
   - dailyab
   - 40min hs math
@@ -317,16 +318,16 @@
   - learn hs math as nicholas wei bro
   - the libre high school math textbook
   - teach hs math to pupils
-  - hs math overkill
+  - random pick from a class of mihoyo or ba students
 - various themes
   - by voyage
 - inspired by
   - yunling sapphire
   - mr yu teaching physics
+  - math contest fei bro
   - one math channel
   - zhao lixian channel
   - math bu channel
-  - math contest fei bro
 
 ### `leisure`
 

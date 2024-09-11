@@ -2759,3 +2759,11 @@ added to weekly.
 
 - 文本解析 (百年孤独,react learn docs)
 - 逻辑判断 (memories,eat)
+
+20:40
+
+削铅笔,换水笔,无壳橡皮
+
+下周三,初态考试,一天三门.
+
+

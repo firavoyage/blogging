@@ -6,7 +6,7 @@ csvContent += "folder,title,url\n";
 
 function getCSVFileName() {
   var userName = $("#h-name").text();
-  return userName + "的收藏夹.csv";
+  return userName + "fav.csv";
 }
 
 function getFolderName() {
@@ -68,13 +68,13 @@ function downloadCSV() {
     win.document.open();
     win.document.write("<html><body>");
     win.document.write(
-      '<a href="' + url + '" download="' + fileName + '">点击下载</a>'
+      '<a href="' + url + '" download="' + fileName + '">download</a>'
     );
     win.document.write('<script>document.querySelector("a").click();</script>');
     win.document.write("</body></html>");
     win.document.close();
   } else {
-    alert("下载窗口被浏览器阻止，请先在设置里允许网页弹窗后重试。");
+    alert("allow popup to download");
   }
 }
 

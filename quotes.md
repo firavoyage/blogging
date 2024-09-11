@@ -2398,6 +2398,7 @@ wtf.
   - 在地
   - 道地
   - 编码
+  - 影片
 - qed. done.
   - 结束
   - 拿下
@@ -2801,4 +2802,10 @@ react state太激进了.
 
 - data listener
 - component to html
+
+## prefer sr to gi
+
+sr像是送了免费代肝机器人.
+
+gi没有.如是云云.
 
