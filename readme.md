@@ -34,8 +34,9 @@
   - simple gardening
   - simple origami
   - dark style & night light & low brightness
-  - functional programming
+  - second person omniscient and past tense
   - math and algorithms
+  - functional programming
   - web dev abstract
 - - bach werke verzeichnis (johann sebastian bach)
   - hotel california (eagles)
@@ -68,6 +69,7 @@
   - how to make millions before grandma dies (2024)
   - the legend of 1900 (1998)
   - .5 centimeters per second (2007)
+  - .lucky star (2007)
   - .evangelion (1995)
   - .bang dream! it's mygo!!!!! (2023)
   - .girls band cry (2024)
@@ -122,24 +124,25 @@
   - road ahead (ruan yifeng)
   - a long gaze (long yingtai)
   - to live (yu hua)
+  - the chameleon (anton chekhov)
   - the scholars (wu jingzi)
   - what i have seen (chai jing)
-  - the chameleon (anton chekhov)
-  - .one hundred years of solitude (gabriel garcía márquez)
+  - one hundred years of solitude (gabriel garcía márquez)
   - .meditations on life (zhou guoping)
   - .fortress besieged (qian zhongshu)
   - .godel, escher, bach (douglas hofstadter)
   - .haizi's poems (hai zi)
   - .gu cheng's poems (gu cheng)
   - .stray birds (rabindranath tagore)
-  - .amusing ourselves to death (neil postman)
   - .if on a winter's night a traveler (italo calvino)
   - .the moon and sixpence (william somerset maugham)
-  - .pride and prejudice (jane austen)
   - .jin ping mei (lanling xiaoxiao sheng)
+  - .pride and prejudice (jane austen)
   - .rashomon (ryunosuke akutagawa)
   - .remarks on the song lyric and the human condition (wang guowei)
+  - .amusing ourselves to death (neil postman)
   - .the bible (divine authorship)
+  - .the wisdom of life (schopenhauer)
   - .tao te ching (laozi)
 - - anyway.fm (jj ying & leon gao)
   - beyond code (randy lu & geek plux)
@@ -152,12 +155,69 @@
   - web worker (xinbao & lv777 & pakchoi & kaiyi & smart)
   - yitianshijie (li ruyi)
   - yixi (yixi)
+- - acheron
+  - clara
+  - fuxuan
+  - herta
+  - kaedehara kazuha
+  - kasugano sora
+  - keqing
+  - nahida
+  - sparkle
+- - dejavu serif
+  - fira code
+  - fira sans
+  - fz kaiti
+  - google product sans
+  - han wang shin su
+  - han wang yan kai
+  - helvetica
+  - helvetica neue
+  - inconsolata
+  - lato
+  - montserrat
+  - noto sans cjk sc
+  - noto serif cjk sc
+  - resource han rounded cn
+  - roboto
+  - ubuntu sans
+  - zhi mang xing
+- - wikipedia
+  - internet archive wayback machine
+  - archive.today
+  - the pirate bay
+  - github
+  - google
+  - youtube
+  - ruanyf weekly
+  - hacker news
+  - css tricks
+  - codepen spark
+  - reddit old
+  - v2ex creative
+  - nga bbs
+  - mistral chat
+  - wolfram alpha
+  - geogebra
+  - codeforces
+  - luogu
+  - leetcode
+  - douban book top 250
+  - douban movie top 250
+  - my anime list top
+  - bangumi.tv anime chart
+  - imdb movie top 250
+  - steam top 250
+  - pixiv monthly
+  - dribbble popular
+  - unsplash pexels pixabay
+  - product hunt all time
+  - travellings foreverblog
 - - adhesion tek
   - ahdark
   - andrew yang
   - antfu 100 days
   - antonychenn genshin in chinese
-  - anyway.fm/{2016..2021}
   - barack obama
   - blue striped rabbit
   - brad traversy
@@ -213,6 +273,7 @@
   - stray digital
   - tail tail desu
   - tim qian
+  - timochan
   - unfettered idle man
   - upright flies
   - wanderer brawl stars
@@ -221,65 +282,6 @@
   - yunling sapphire
   - zhang yizhe
   - zhou xuanyi
-- - acheron
-  - adventurine
-  - clara
-  - fuxuan
-  - herta
-  - kaedehara kazuha
-  - kasugano sora
-  - keqing
-  - lyndon skott
-  - nahida
-  - sparkle
-- - dejavu serif
-  - fira code
-  - fira sans
-  - fz kaiti
-  - google product sans
-  - han wang shin su
-  - han wang yan kai
-  - helvetica
-  - helvetica neue
-  - inconsolata
-  - lato
-  - montserrat
-  - noto sans cjk sc
-  - noto serif cjk sc
-  - resource han rounded cn
-  - roboto
-  - ubuntu sans
-  - zhi mang xing
-- - wikipedia
-  - internet archive wayback machine
-  - archive.today
-  - the pirate bay
-  - github
-  - google
-  - youtube
-  - ruanyf weekly
-  - hacker news
-  - css tricks
-  - codepen spark
-  - reddit old
-  - v2ex creative
-  - nga bbs
-  - mistral chat
-  - wolfram alpha
-  - geogebra
-  - codeforces
-  - luogu
-  - leetcode
-  - my anime list top
-  - bangumi.tv anime chart
-  - imdb movie top 250
-  - steam top 250
-  - douban book top 250
-  - pixiv monthly
-  - dribbble popular
-  - unsplash pexels pixabay
-  - product hunt all time
-  - travellings foreverblog
 - - ubuntu yaru
   - dracula theme
   - atom one dark

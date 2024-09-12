@@ -186,6 +186,15 @@
   - soundcloud
   - my free mp3
 
+## `theatre`
+
+> retro theatre feeling
+
+- inspired by
+  - imdb
+  - piratebay
+  - netflix
+
 ### `eat`
 
 > survive the content farms | breathe in the digital age
@@ -333,6 +342,10 @@
 
 > retro vocabulary memorization style | "自在"
 
+- local dict
+  - like goldendict and mdict
+  - gmail legacy design
+  - web based
 - words filtered
   - no grade school words
 - no roots,only affix

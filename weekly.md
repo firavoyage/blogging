@@ -2,7 +2,7 @@
 
 > 🌕 💤 before 23:00!
 
-## 20240911
+## 20240912
 
 > daily
 
@@ -31,7 +31,6 @@
 > spare time
 
 - categorize web by tag
-- trim memories blogs 
 - sync phone
 
 > school
