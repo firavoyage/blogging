@@ -1,4 +1,4 @@
-# firavoyage `elegance`
+# $fira$ firavoyage `elegance`
 
 ## .
 
@@ -443,16 +443,13 @@
   - `nat` belief of a tech entrepreneur
   - `yinming` answers from a startup webmaster
   - `naval` about wealth
-  - `one math` one math criticism
-  - `programmer` programming noskill criticism
-  - `phone` youth in phones criticism
 - ideas
   - `projects` things interesting and things meaningful
-  - `quotes` my thoughts and my perspective
+  - `quotes` perspective and thoughts
+  - `mistral` wisdom of mistral ai
   - `comments` what i have heard as a student
   - `idioms` lines and memes just for fun
   - `fin` words at the end of the day
-  - `mistral` answers from mistral ai
 - self
   - `weekly` weekly plans at each time
   - `timeln` personal discoveries and thoughts

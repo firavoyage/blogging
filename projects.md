@@ -344,7 +344,6 @@
 
 - local dict
   - like goldendict and mdict
-  - gmail legacy design
   - web based
 - words filtered
   - no grade school words
@@ -598,6 +597,7 @@ let f = {method(){}} //function method(){} | ()=>{}
   - monokai pro
 - component systems
   - design.google
+  - gmail old design
   - mihoyo sr
   - mihoyo hi
   - mihoyo gi
