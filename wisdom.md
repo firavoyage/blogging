@@ -39,38 +39,22 @@ https://news.ycombinator.com/item?id=21360284
 
 500 年后，人们想起 20 世纪，不会想到第二次世界大战，它已经变得跟英格兰玫瑰战争一样久远。人们会想到 DNA、青霉素、计算机和微芯片，因为它们改变了文明。但是，他们想到的第一件事，将是 20 世纪是人类开始探索太空的世纪，阿波罗 11 号登月是 20 世纪最重要的事件。
 
-## why english variable name cult of god
+## dealing with over cencership in choosing a cloud drive perspective
 
-为什么英语好啊!因为你需要的键盘敲击是最少的.同样意思.
-如果一个单词很长,往往可以缩写成 3~4 个字母,不影响理解
+"集体利益高于个人利益"
 
-- 取头几个字母
-  - conference|configuration -> conf
-  - result|resource -> res
-  - temporary -> tmp | temp
-  - twitter -> twi
-  - development -> dev
-- 去掉几个元音
-  - image -> img
-  - hacker -> hckr
-    (反例?)
+"国家利益高于一切"
 
-至少,与 ai chatbot 对话
-每个单词,只打前 3 或者前 4 个字母就行了
+前任述备矣,你如是不作赏析.
 
-upd
-tldr each word can be rp with maybe fewer than three or four letters
-
-## choose a cloud drive
-
-> todo
+宁为玉碎不为瓦全,你选择朴素的技术.
 
 - 清高
-  - 小文件(小于 1g) github telegram
-  - 大文件 dropbox bitorrent
+  - for small files `github` `telegram` `google drive`
+  - otherwise `dropbox` `bitorrent`
 - 博爱
-  - 小文件(小于 1g) gitee lanzou
-  - 大文件 baiduyun bitorrent
+  - for small files `gitee` `lanzou`
+  - otherwise `baiduyun` `bitorrent`
 
 ## better html ideas
 
@@ -142,7 +126,7 @@ not
   - 8964
   - 314
   - 0618
-- 收集二字日式中文.
+- 收集日式中文.
   - 映画
   - 追想
   - 次元
@@ -157,16 +141,17 @@ not
   - 后日谈
   - 日后谈
   - 二周目
-- 收集二字广东中文.
+- 收集广东中文.
   - 靓仔
   - 靓妹
-- 收集二字台式中文.
+- 收集台式中文.
   - 软体
   - 程式
   - 视讯
   - 伺服器
   - 骇客
   - 电动
+  - 机车
   - 共有
   - 正体
   - 宅配
@@ -179,13 +164,15 @@ not
   - 道地
   - 编码
   - 影片
-- qed. done.
-  - 结束
+- 无序
+  - done.
+  - qed. 
+  - 以上
   - 拿下
+  - 命中
   - 得吃
-  - 有了
-  - 搞定
-  - 以上.
+  - 如是
+  - 云云
 
 ## make good use of words
 
@@ -353,21 +340,23 @@ Henceforth, to prove you're a JS developer, you'll need to show us the framework
 
 > symbol language same
 
-说话时,关键字重读,词无声调,句反之.
+conf res ans ref temp twi yt dev img hckr
 
-打字快,写字快,笔画简单.
+so many words and meanings can be rp with fewer than five letters
+
+打字快,写字快,笔画简单.声调表意.
 
 中文反之.
 
-## uee problem foresight
+限定,考虑效率的选择.
 
-> todo
+语言是随意的,不深刻的.
 
 ## improving textbook is useless
 
 > todo
 
-类比下棋,1段,5段.
+类比下棋,1 段,5 段.
 
 类比小学解方程,中学秒杀.体会一样
 
@@ -375,11 +364,29 @@ Henceforth, to prove you're a JS developer, you'll need to show us the framework
 
 课本不能穷尽真理.考试感受是温差,相对的.
 
-你一开始,写mission
+你一开始,写 mission
 
 - make tools elegant
 - make knowledge pure
 
-或者说nat - preference
+或者说 nat - preference
 
+并不是关于内容(难度,范围),而是关于形式(符号语言,学习方法)
 
+## job hunting anxiety sucks
+
+假设,影响一个人生活水平的一切,都可以被量化.
+
+如果每一项数值都拉满,我会过极尽成功的一生.
+反之不然.
+
+而你,作为新世界的创造者~~简体中文领导人~~,只需要保证一点.
+
+**此函数连续**
+
+意味着什么?
+
+> 任取极低收入者,存在收入多于之一千者,得相似生活水平.
+> 反之亦然.
+
+这就够了,不必关心就业压力,那不过是`abstract`之下琐碎.

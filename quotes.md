@@ -2750,3 +2750,22 @@ Be the generation that 4Ges India ahead. Don't end up as the 4Gotten generation.
 Love,
 
 Chetan Bhagat
+
+## gi gaming hours
+
+**`!important`**
+
+看到原神阿炜,要抽卡了.
+
+版本5.0
+
+地图全满,任务清空.第二十五天,时长207h
+
+62484 primogems 76 fates 109 regular
+
+看来时长统计网站没错,**时间不骗人**.
+
+
+
+
+

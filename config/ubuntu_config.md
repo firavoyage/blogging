@@ -672,6 +672,7 @@ sudo apt install npm
 sudo apt install python3
 sudo apt install zsh
 sudo snap install android-studio
+sudo snap install blender --classic
 sudo snap install chromium --revision 2842
 sudo snap install firefox
 sudo snap install gimp
@@ -686,8 +687,9 @@ sudo snap install telegram-desktop
 sudo snap install thunderbird
 sudo snap install v2raya
 sudo snap install vlc
-npm set registry https://registry.npm.taobao.org/
-npm install terser -g
+sudo npm config set registry https://registry.npm.taobao.org
+sudo npm install -g @wenyan/cli
+sudo npm install terser -g
 ```
 
 - install from websites

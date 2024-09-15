@@ -5202,7 +5202,7 @@ Here's a simple example to illustrate the process:
 
 The Svelte compiler will transform this into JavaScript code that efficiently updates the DOM when the `count` variable changes. The resulting code will look something like this (simplified for clarity):
 
-```javascript
+```js
 function create_fragment(ctx) {
   let button;
   let t0;
@@ -5285,7 +5285,7 @@ Here are some examples to illustrate how the Svelte compiler works:
 
 **Compiled JavaScript:**
 
-```javascript
+```js
 function create_fragment(ctx) {
   let button;
   let t0;
@@ -5366,7 +5366,7 @@ export default App;
 
 **Compiled JavaScript:**
 
-```javascript
+```js
 function create_fragment(ctx) {
   let h1;
   let t0;
@@ -5438,7 +5438,7 @@ export default Greeting;
 
 **Compiled JavaScript:**
 
-```javascript
+```js
 function create_fragment(ctx) {
   let p0;
   let t0;
@@ -6248,7 +6248,7 @@ yarn add lodash
 
 You can import Lodash in your JavaScript file:
 
-```javascript
+```js
 const _ = require("lodash");
 
 // or using ES6 import
@@ -6261,3 +6261,156 @@ console.log(chunkedArray); // Output: [[1, 2], [3, 4]]
 ```
 
 Lodash is a powerful tool that can greatly simplify and optimize your JavaScript code. Whether you're working with arrays, objects, or strings, Lodash has a function to help you get the job done efficiently.
+
+## p5 js
+
+**`!important`**
+**`!ref`**
+
+> -> mistral large 2
+
+> p5js
+
+P5.js is a JavaScript library that makes it easy to create graphics and interactive experiences. It's designed to be accessible for artists, designers, educators, and beginners, while also being flexible enough for more advanced users. Here are some key features and concepts of p5.js:
+
+1. **Setup and Draw**: The basic structure of a p5.js sketch consists of two main functions: `setup()` and `draw()`. `setup()` is called once when the program starts, and `draw()` is called continuously in a loop.
+
+```js
+function setup() {
+  createCanvas(400, 400);
+}
+
+function draw() {
+  background(220);
+  ellipse(50, 50, 80, 80);
+}
+```
+
+2. **Shapes and Drawing**: p5.js provides functions to draw various shapes like `ellipse()`, `rect()`, `line()`, `point()`, `triangle()`, etc. It also supports custom shapes using `beginShape()` and `endShape()`.
+
+3. **Color**: You can set colors using `fill()` for shapes, `stroke()` for outlines, and `background()` for the canvas background. Colors can be defined using RGB, HSB, or hexadecimal values.
+
+4. **Interaction**: p5.js allows you to create interactive experiences using mouse and keyboard input. You can use variables like `mouseX`, `mouseY`, `keyCode`, and functions like `mousePressed()`, `keyPressed()` to handle user input.
+
+5. **Animation and Motion**: By using variables and manipulating them inside the `draw()` loop, you can create animations and motion.
+
+6. **Libraries**: p5.js has a growing list of libraries that extend its functionality, such as p5.sound for audio processing, p5.dom for manipulating the DOM, and p5.serial for serial communication.
+
+To get started with p5.js, you can use the online editor at <https://editor.p5js.org/> or download the library and use it locally. The official p5.js website (<https://p5js.org/>) provides extensive documentation, tutorials, and examples.
+
+Here's a simple example of an interactive p5.js sketch:
+
+```js
+function setup() {
+  createCanvas(400, 400);
+}
+
+function draw() {
+  background(220);
+  fill(50, 100, 200);
+  ellipse(mouseX, mouseY, 50, 50);
+}
+```
+
+This sketch creates a canvas with a blue ellipse that follows the mouse cursor.
+
+## three js
+
+**`!important`**
+**`!ref`**
+
+> -> mistral large 2
+
+> threejs
+
+Three.js is a popular JavaScript library used for creating and displaying 3D graphics in web browsers. It abstracts away many of the complexities of WebGL, making it easier to work with 3D content on the web. Here are some key features and concepts of Three.js:
+
+### Key Features
+
+1. **Scene Management**: Three.js allows you to create and manage scenes, which are containers for all the objects in your 3D world.
+2. **Cameras**: Different types of cameras (perspective, orthographic) can be used to view the scene.
+3. **Geometry and Materials**: You can create various shapes (cubes, spheres, etc.) and apply materials to them to define their appearance.
+4. **Lighting**: Add different types of lights (ambient, directional, point, spot) to illuminate your scene.
+5. **Animations**: Animate objects using built-in animation systems or custom scripts.
+6. **Shaders**: Customize the rendering process using shaders written in GLSL (OpenGL Shading Language).
+7. **Post-processing**: Apply effects like bloom, depth of field, and more to enhance the visual quality.
+8. **Loaders**: Import 3D models in various formats (GLTF, OBJ, FBX, etc.).
+
+### Basic Example
+
+Here's a simple example to get you started with Three.js:
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Three.js Example</title>
+    <style>
+      body {
+        margin: 0;
+      }
+      canvas {
+        display: block;
+      }
+    </style>
+  </head>
+  <body>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <script>
+      // Create a scene
+      const scene = new THREE.Scene();
+
+      // Create a camera
+      const camera = new THREE.PerspectiveCamera(
+        75,
+        window.innerWidth / window.innerHeight,
+        0.1,
+        1000
+      );
+      camera.position.z = 5;
+
+      // Create a renderer
+      const renderer = new THREE.WebGLRenderer();
+      renderer.setSize(window.innerWidth, window.innerHeight);
+      document.body.appendChild(renderer.domElement);
+
+      // Create a cube
+      const geometry = new THREE.BoxGeometry();
+      const material = new THREE.MeshBasicMaterial({ color: 0x00ff00 });
+      const cube = new THREE.Mesh(geometry, material);
+      scene.add(cube);
+
+      // Animation loop
+      function animate() {
+        requestAnimationFrame(animate);
+
+        // Rotate the cube
+        cube.rotation.x += 0.01;
+        cube.rotation.y += 0.01;
+
+        renderer.render(scene, camera);
+      }
+
+      animate();
+    </script>
+  </body>
+</html>
+```
+
+### Explanation
+
+1. **Scene**: The `THREE.Scene` object is the container for all the 3D objects.
+2. **Camera**: The `THREE.PerspectiveCamera` is used to view the scene. It's positioned along the z-axis.
+3. **Renderer**: The `THREE.WebGLRenderer` is responsible for rendering the scene to the canvas.
+4. **Geometry and Material**: A cube is created using `THREE.BoxGeometry` and `THREE.MeshBasicMaterial`.
+5. **Mesh**: The `THREE.Mesh` combines the geometry and material to create a visible object.
+6. **Animation Loop**: The `animate` function uses `requestAnimationFrame` to create a smooth animation loop, rotating the cube.
+
+### Resources
+
+- **Official Documentation**: [Three.js Documentation](https://threejs.org/docs/)
+- **Examples**: [Three.js Examples](https://threejs.org/examples/)
+- **Community**: [Three.js Forum](https://discourse.threejs.org/)
+
+Three.js is a powerful tool for creating interactive 3D experiences on the web. With a bit of practice, you can create complex and visually stunning applications.

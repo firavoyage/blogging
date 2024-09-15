@@ -315,5 +315,10 @@ mihoyo 有一种面向病历招聘的美
 
 愿母神三度为你阖眼，令你的血脉鼓动，旅程永远坦途，诡计永不败露。
 
+If you're not solving problems or writing up contributions, then don't blame me if your life is boring.
+
+I'm perfect enough already. What else do I need to prove? Of course, I could write a few more books... but what would I get out of that? Why should I bother?
+
+
 
 

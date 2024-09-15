@@ -203,7 +203,6 @@
   - antfu 100 days
   - antonychenn genshin in chinese
   - barack obama
-  - beyond fireship react vs svelte
   - blue striped rabbit
   - brad traversy
   - change release
@@ -265,7 +264,7 @@
   - wes bos web dev
   - xiaogu math
   - yunling sapphire
-  - zhang yizhe
+  - zhang xizhe
   - zhou xuanyi
 - - dejavu serif
   - fira code
@@ -287,10 +286,10 @@
   - zhi mang xing
 - - ubuntu yaru
   - dracula theme
-  - atom one dark
   - nord
   - monokai pro
-  - just black chromium
+  - atom one dark
+  - chromium just black
   - material design 2
   - material design 3
   - smartisan os 8
@@ -302,55 +301,44 @@
   - firefox 124.0.2
   - code 1.91.2
   - git 2.43
+  - fcitx 5.1.7
+  - wine 9.0
+  - v2raya 2.2.5.1
   - node 18.19.1
   - npm 9.2.0
   - eslint 6.4.0
   - prettier 9.2.0
+  - wenyan 0.3.4
   - g++ 13.2.0
   - python 3.12.3
-  - fcitx 5.1.7
-  - wine 9.0
-- - antennapod
-  - bilimiao
-  - discord
-  - ehentai viewer
-  - fcitx android
-  - gnome boxes
-  - gnome calculator
-  - gnome characters
-  - gnome deja dup backups
-  - gnome disk usage analyzer
-  - gnome disks
-  - gnome document viewer
-  - gnome eyedropper
-  - gnome letterpress
-  - gnome newsflash
-  - gnome system monitor
-  - gnome terminal
-  - gnome transmission
-  - gnu image manipulation program
-  - golden dict
-  - inkscape
-  - jan
-  - k9 mail
-  - kdenlive
-  - legado read 3.0
-  - libre office
-  - material files
-  - nekogram 
-  - obs studio
-  - oneplus weather
-  - onscripter yuri
-  - qbitorrent
-  - retro arch
-  - simplelive
-  - slidev
-  - snapseed
-  - telegram
-  - thunder bird
-  - v2ray ng
-  - v2raya
-  - vlc media player
+  - antennapod 3.1.2
+  - baobab 46.0
+  - bilimiao 2.3.8.3
+  - blender 4.2.1
+  - deja-dup 45.2
+  - evince 46.0
+  - fcitx-android 0.0.7
+  - gimp 2.10.38
+  - gnome-boxes 45.0
+  - gnome-system-monitor 46.0
+  - goldendict 1.5.0
+  - inkscape 1.3.1
+  - jan 0.5.2
+  - k9-mail 6.801
+  - kdenlive 23.08.4
+  - libreoffice 24.2.5.2
+  - material-files 1.4.2
+  - nekogram 11.0.0
+  - obs-studio 30.0.2
+  - onscripter-yuri 0.7.4
+  - qbitorrent-arnatious 4.3.9
+  - simplelive 1.7.3
+  - snapseed 2.19.1
+  - telegram-desktop 4.16.8
+  - thunderbird 115.11.0
+  - transmission 4.0.5
+  - vlc 3.0.20
+  - zsh 5.9
 
 ## quotes
 

@@ -292,17 +292,22 @@
 
 ### `goods`
 
-> get rid of consumerism
+> get rid of consumerism "world goods list"
 
-- source
-  - world goods list
-- like a musuem,not a supermarket
-  - classify the items
-- focus on what you own,not what you have bought
-  - track the goods
+- features
+  - museum to market
+  - stats to feelings
+  - tree based lists to algorithms based recommendations
+  - loved ones to promoted ones
+- edit and share with ease
+  - based on board
+- various themes
+  - based on voyage
 - inspired by
   - amazon
-  - raindrop
+  - wikipedia
+  - globe
+  - fav
 
 ## learn
 
@@ -610,13 +615,13 @@ for(i 1 10 j 10 100){A} //for(let i=1;i<=10;i++){for(let j=10;i<=100;j++){A}}
   - data listener
   - json to html
 - inspired by
-  - reactjs
-  - alpinejs
-  - mithriljs
-  - sveltejs
+  - react
+  - alpine
+  - mithril
+  - svelte
   - jquery
   - ant design
-  - fireship web frameworks
+  - fireship
 
 ### `fresh`
 
