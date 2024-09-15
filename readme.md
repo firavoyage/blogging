@@ -39,6 +39,7 @@
   - functional programming
   - web dev abstract
 - - bach werke verzeichnis (johann sebastian bach)
+  - the very best of chopin (frédéric chopin)
   - hotel california (eagles)
   - a day in the life (the beatles)
   - wind of change (scorpions)
@@ -175,6 +176,7 @@
   - material design 2
   - material design 3
   - smartisan os 8
+  - hydrogen os 11
   - android 4
   - iphone os 6
   - iphone os 11
