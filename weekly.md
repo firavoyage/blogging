@@ -26,7 +26,7 @@
 - read sr
 - watch mygo & yosuga no sora
 - play senrenbanka
-- try origami
+- learn origami from chenxiao
 
 > spare time
 

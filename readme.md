@@ -40,6 +40,7 @@
   - web dev abstract
 - - bach werke verzeichnis (johann sebastian bach)
   - hotel california (eagles)
+  - a day in the life (the beatles)
   - wind of change (scorpions)
   - scarborough fair (sarah brightman)
   - the sound of silence (simon & garfunkel)
@@ -61,16 +62,15 @@
   - worldend: what do you do at the end of the world? are you busy? will you save us? (2017)
   - tom and jerry classic collection (1940)
   - reply 1988 (2015)
-  - life in a day (2011)
-  - soul (2020)
   - joker (2019)
+  - soul (2020)
+  - life in a day (2011)
   - your name. (2016)
-  - the shawshank redemption (1994)
   - how to make millions before grandma dies (2024)
   - the legend of 1900 (1998)
+  - .evangelion (1995)
   - .5 centimeters per second (2007)
   - .lucky star (2007)
-  - .evangelion (1995)
   - .bang dream! it's mygo!!!!! (2023)
   - .girls band cry (2024)
   - .bocchi the rock (2022)
@@ -141,7 +141,7 @@
   - .rashomon (ryunosuke akutagawa)
   - .remarks on the song lyric and the human condition (wang guowei)
   - .amusing ourselves to death (neil postman)
-  - .the bible (divine authorship)
+  - .the holy bible (king james version)
   - .the wisdom of life (schopenhauer)
   - .tao te ching (laozi)
 - - anyway.fm (jj ying & leon gao)
@@ -156,32 +156,16 @@
   - yitianshijie (li ruyi)
   - yixi (yixi)
 - - acheron
+  - adventurine
   - clara
   - fuxuan
+  - gallagher
   - herta
   - kaedehara kazuha
   - kasugano sora
   - keqing
   - nahida
   - sparkle
-- - dejavu serif
-  - fira code
-  - fira sans
-  - fz kaiti
-  - google product sans
-  - han wang shin su
-  - han wang yan kai
-  - helvetica
-  - helvetica neue
-  - inconsolata
-  - lato
-  - montserrat
-  - noto sans cjk sc
-  - noto serif cjk sc
-  - resource han rounded cn
-  - roboto
-  - ubuntu sans
-  - zhi mang xing
 - - wikipedia
   - internet archive wayback machine
   - archive.today
@@ -210,7 +194,7 @@
   - steam top 250
   - pixiv monthly
   - dribbble popular
-  - unsplash pexels pixabay
+  - unsplash nature
   - product hunt all time
   - travellings foreverblog
 - - adhesion tek
@@ -219,6 +203,7 @@
   - antfu 100 days
   - antonychenn genshin in chinese
   - barack obama
+  - beyond fireship react vs svelte
   - blue striped rabbit
   - brad traversy
   - change release
@@ -248,7 +233,7 @@
   - kirikaze chiyuki chyk
   - livid v2ex
   - longbow flintlock
-  - ma dugong bedtime news
+  - ma dugong proletariats bishop bedtime news 
   - math contest fei bro
   - memoir of prosperity
   - mohamad light
@@ -282,6 +267,24 @@
   - yunling sapphire
   - zhang yizhe
   - zhou xuanyi
+- - dejavu serif
+  - fira code
+  - fira sans
+  - fz kaiti
+  - google product sans
+  - han wang shin su
+  - han wang yan kai
+  - helvetica
+  - helvetica neue
+  - inconsolata
+  - lato
+  - montserrat
+  - noto sans cjk sc
+  - noto serif cjk sc
+  - resource han rounded cn
+  - roboto
+  - ubuntu sans
+  - zhi mang xing
 - - ubuntu yaru
   - dracula theme
   - atom one dark
@@ -334,7 +337,7 @@
   - legado read 3.0
   - libre office
   - material files
-  - nekogram android
+  - nekogram 
   - obs studio
   - oneplus weather
   - onscripter yuri
@@ -343,7 +346,7 @@
   - simplelive
   - slidev
   - snapseed
-  - telegram desktop
+  - telegram
   - thunder bird
   - v2ray ng
   - v2raya
@@ -431,6 +434,7 @@
 - 为者败之执者失之
 - 花开堪折直须折莫待无花空折枝
 - 以我观物故物皆着我之色彩
+- 十年饮冰难凉热血
 - 宁为玉碎不为瓦全壮士断腕义无再辱
 - 以上祝你度过智识的审美的一天
 
@@ -445,6 +449,7 @@
   - `naval` about wealth
 - ideas
   - `projects` things interesting and things meaningful
+  - `wisdom` foresights and references
   - `quotes` perspective and thoughts
   - `mistral` wisdom of mistral ai
   - `comments` what i have heard as a student

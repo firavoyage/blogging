@@ -2387,12 +2387,15 @@ djhs g1t2 fin.
 ## 20240902
 
 23:45
+
 下载了 gnome boxes,
 在 ubuntu 上跑 windows,mac,android.
 hn 上有人成功的,得到了 10k 观看.
 挺有意思,不过没啥用.
 
 改下 memories
+
+**`!ref`**
 
 - `comments` -> `perspective`
 - `discoveries` -> `insight`
@@ -2401,11 +2404,13 @@ djhs g2t1 day1.
 太琐碎,没有什么深刻的话题.
 
 00:13
+
 早睡.
 带好零食了.
 抓进存盘看看实力.
 
 00:23
+
 太晚了.
 今天玩了许久 sr,还调试 gnome boxes.
 g.zip 划去些许,明再整理
@@ -2463,6 +2468,7 @@ flutter 使用了 web component.
 
 ## 20240906
 
+**`!important`**
 **`!ref`**
 
 (school)
@@ -2521,7 +2527,7 @@ $
 
 $
 \{a_n\},\forall n \in N^+,a_n > 0,a_{n+1} \leq S_n \\
-\{b_n\},b_n=\frac{4^n}{a_n},\exists x \in N^+,\forall x_1>x,b_{x_1}-b_{x_1+1}=b_{x_1+1}-b_{x_1+2} ?
+\{b_n\},b_n=\frac{4^n}{a_n},\exists x_1 \in N^+,\forall x>x_1,b_{x}-b_{x+1}=b_{x+1}-b_{x+2} ?
 $
 
 问了几个球友,现在新高三,都说不会.年级中游的说.
@@ -2538,7 +2544,7 @@ $
 
 说,上一届高三年一就考了 566,好的 211 或者差的 985.年前十就上大.
 
-一本线 500 多.上上一届有个清华的.
+问一本线多少.一本线 500 多.上上一届有个清华的.还是美术特长.
 
 挺失落的,也不想为学校鸢飞戾天一把.
 
@@ -2558,6 +2564,8 @@ $
 一年又过去,江月年年望相似,而我又做了些什么呢.
 
 23:01
+
+**`!ref`**
 
 闲来无事,翻看 mihoyo 日志,看看有没有人玩我的号.
 
@@ -2851,4 +2859,65 @@ ${a_n},a_n=(-1)^{n}*\frac{1}{n},S_n?$
 
 想起了 react docs and ruanyf weekly,或者说各种 weekly plan
 
+22:39
+
+**`!important`**
+**`!ref`**
+
+reading react learn docs...
+
+突然想起来
+
+**下周三初态考试**
+
+并不是一周的第三天!中秋节后,第一天上学!
+
+23:05
+
+**`!ref`**
+
+最近我每本教科书,都会把封面到目录中间的页去掉,把每一页压横
+
+**或许,这是折纸(origami)感觉**
+
+## 20240913
+
+00:13
+
+complete reading **Preserving and Resetting State**
+
+**`!ref`**
+
+what awkward solution.
+
+what voyagejs do
+
+- put all states to props as functional programming
+- separate use state and bind state
+
+## 20240914
+
+15:xx
+
+拿到准考证.seat 0603
+
+本班参考!
+
+22:xx
+
+抽sr光锥,终于出了 the birth of the self
+
+23:37
+
+下单了折纸...birthday gift?
+
+西口折纸. 60cm 单面折纸 反面白色
+
+电脑85折?促进消费的说.罢了,不想换.
+
+而已,多了许多不需要的特性...手心设备亦然.
+
+有点感冒,鼻血,昨晚2点睡...得早点啊,前半夜睡哦.
+
+或者说,回学校初态考试,其实初态比高考重要."it's always day 1"
 

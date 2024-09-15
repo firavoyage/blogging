@@ -1466,32 +1466,6 @@ https://www.ruanyifeng.com/blog/2009/06/who_will_speak_for_the_victim.html
 很多时候,生者比死者更怯懦
 那些苟且偷生的人,尽管形体存在一辈子,最后灵魂也不剩下多少了
 
-## a decade of a doctor "it was a snowy late night when i was born"
-
-**`!important`**
-**`!ref`**
-
-"从进入大学到博士毕业，整整十年了。在这十年中，我过得浑浑愕额。
-
-十年前，我身高 170cm，十年后，我身高还是 170cm。十年前，我体重 60kg，十年后，我体重还是 60kg。十年前，我一无所有，十年后，我还是一无所有。十年前，我眼睛明亮、有神，十年后，摘掉眼镜，我已看不清自己有多少个手指了。十年前，我声音洪亮、清澈，十年后，已经是慢性咽喉炎，声音嘶哑。十年前，我踌躇满志、指点江山、激扬文字，十年后，我心如止水，只求温饱。
-
-当然，我也得到了一些东西。
-
-十年前，我还是个农民的儿子，十年后，我成为了一个博士。十年前，我只懂得砍柴、种田、割草、放牛，十年后，我已经成为了一个懂机械、金融、管理的复合型人才。
-
-但如果您问我这十年最大的长进是什么，我将告诉您：十年前，我十七，十年后，我二十七。"
-
-## a lonely drifter off to see the world
-
-**`!important`**
-**`!ref`**
-
-two drifters off to see the world
-there's such a lot of world to see...
-for every lonely and wandering soul, there is a lucky star behind the darkness, waiting and shining with the freshest hope and warmest aura.
-
-some day. till then
-
 ## school courses holyshit
 
 现在
@@ -1515,16 +1489,6 @@ some day. till then
 "几百万美元"不过是上海市中心一套房
 上海有成千上万套这样的房子,大部分都不是空关的
 真好.
-
-## to raise a child quote
-
-**`!important`**
-**`!ref`**
-
-10 年后,孩子的说
-希冀,渴望
-男孩子,最喜欢 xingqiu 了
-女孩子,最喜欢 herta 了
 
 ## frontend status quote
 
@@ -1614,15 +1578,6 @@ twitter 上有个 death reminder
 evanyou 和 ruanyf 也很不错
 或者加点 acg otaku 属性
 哈哈,像是说自己哦
-
-## my javascript principles
-
-**`!important`**
-**`!ref`**
-
-fp in oop is that...
-never use any of these words in your code
-`prototype`,`class`,`constructor`,`export`,`extends`,`super`,`this`,`self`
 
 ## buying a house quote
 
@@ -1743,25 +1698,6 @@ berryberry 的计数单位是万。yelltube 的计数单位是 k,m,b.
 - 监听单个变量方法,而不是只能监听对象的一层属性,像 proxy.
 - 没有取地址,也应该提供只复制名字,浅复制,深复制吧.
 
-## diff view is diff definition
-
-**`!important`**
-**`!ref`**
-
-比如林志玲是不是美女，如果我们说的林志玲是同一个人，对美女的定义也一样，就不可能你觉得林志玲是美女，我觉得林志玲不是美女。
-(黄执中)
-
-## getting from internet conflict
-
-**`!important`**
-**`!ref`**
-
-我口袋里有一个小设备，可以访问几乎全部的人类知识。我却用它与不认识的人进行毫无意义的争论，并看猫的照片。
-
--- HN 读者
-
-https://news.ycombinator.com/item?id=21360284
-
 ## oi sucks
 
 oi 中最重要的就是速度.所以用 cpp.
@@ -1796,13 +1732,6 @@ css 没有局限性.
 
 - 交互动画,与鼠标位置相关的
 - 循环视频,大量几何图形同时变化的
-
-## china in historical perspective
-
-**`!important`**
-**`!ref`**
-
-500 年后，人们想起 20 世纪，不会想到第二次世界大战，它已经变得跟英格兰玫瑰战争一样久远。人们会想到 DNA、青霉素、计算机和微芯片，因为它们改变了文明。但是，他们想到的第一件事，将是 20 世纪是人类开始探索太空的世纪，阿波罗 11 号登月是 20 世纪最重要的事件。
 
 ## typora sucks
 
@@ -1849,31 +1778,6 @@ alt tab 短按,是没有屏幕中间闪烁的,直接切屏
 apple right click touch control
 great elegance
 
-## why english variable name cult of god
-
-**`!important`**
-**`!ref`**
-
-为什么英语好啊!因为你需要的键盘敲击是最少的.同样意思.
-如果一个单词很长,往往可以缩写成 3~4 个字母,不影响理解
-
-- 取头几个字母
-  - conference|configuration -> conf
-  - result|resource -> res
-  - temporary -> tmp | temp
-  - twitter -> twi
-  - development -> dev
-- 去掉几个元音
-  - image -> img
-  - hacker -> hckr
-    (反例?)
-
-至少,与 ai chatbot 对话
-每个单词,只打前 3 或者前 4 个字母就行了
-
-upd
-tldr each word can be rp with maybe fewer than three or four letters
-
 ## frontend not dead
 
 前端已死?
@@ -1893,22 +1797,6 @@ tldr each word can be rp with maybe fewer than three or four letters
   因为,对于应试教育初级学生,努力的作用是边际递减的
   他们可能性的上限,或许也不及 t&p 的最低录取分
   但是 t&p 依然是很好的学校.
-
-## javascript symbol is ...
-
-**`!important`**
-**`!ref`**
-
-```js
-symbol = function (anything) {
-  const token =
-    "dafasdkfhadsfjkadwhifonawfkadshfadsjfkadsfadsjfsdajfkladsjflksafjkadslfjkasljfkadsfjlk";
-  const num = counter.count();
-  let result = `${token}${num}`;
-  return result;
-  //object define prop enumable false
-};
-```
 
 ## cpp status
 
@@ -2011,18 +1899,6 @@ upd
 ## the common berryberry sponsors
 
 拼多多 妙界 神奇小鹿 喵喵记账 圣杯 这几样实在太多了 加载视频中间，没法预料
-
-## choose a cloud drive
-
-**`!important`**
-**`!ref`**
-
-- 清高
-  - 小文件(小于 1g) github telegram
-  - 大文件 dropbox bitorrent
-- 博爱
-  - 小文件(小于 1g) gitee lanzou
-  - 大文件 baiduyun bitorrent
 
 ## about ai programmer
 
@@ -2133,51 +2009,6 @@ ai 的问题是,目前很弱.
 - 如果你能做到,给我测试 demo 和一些样张,发我邮箱.
 - 我会付钱,真的,可能 1000 美金.
 
-## better html ideas
-
-**`!important`**
-**`!ref`**
-
-```js
-//jsx
-<div>
-  <h1>Counters that update together</h1>
-  <MyButton count={count} onClick={handleClick} />
-  <MyButton count={count} onClick={handleClick} />
-</div>
-```
-
-```js
-//functional programming
-div{
-  h1{Counters that update together}
-  MyButton(count=count onClick=handleClick)
-  MyButton(count=count onClick=handleClick)
-}
-```
-
-```js
-//json element
-[
-  "div",
-  [
-    ["h1", "Counters that update together"],
-    ["MyButton", { count: count, onClick: handleClick }],
-    ["MyButton", { count: count, onClick: handleClick }],
-  ],
-];
-```
-
-```js
-//pythonic plain text
-`
-div
-  h1 "Counters that update together"
-  MyButton count count onClick handleClick
-  MyButton count count onClick handleClick
-`;
-```
-
 ## why i hate cn gov
 
 中国政府,只说你又访问了哪国,又说了啥重要话.
@@ -2210,18 +2041,6 @@ python 只要连按两下胖胖的`enter`就好了.
 python 的缺点,就是一般只能在 python 环境下运行,没法转化 cpp 和 javascript 之类的语言
 像 typescript 就没有这个问题,好像比 python 火呢.
 
-## about definition of world
-
-**`!important`**
-**`!ref`**
-
-世界.或者说世界观.
-`北欧` `西欧` `北美` `俄日韩` `港台` `长三角` `珠三角`
-
-也有一些不在不在列表中,如`南非`,`北京`,那里有许多智慧的人类
-
-或许被忽略了吧.
-
 ## about programming in english
 
 - golden dict
@@ -2234,14 +2053,6 @@ because it's javascript's fault that didnt offer
 a method to listen a variable change
 
 after all you could only listen a prop of an obj
-
-## fin
-
-**`!important`**
-**`!ref`**
-
-so much for this have a nice day.
-以上.祝你度过智识的,审美的一天.
 
 ## lex fridman podcast thanks
 
@@ -2260,15 +2071,6 @@ Note from 2023: The above was written in 2018, 5 years ago, and it is as true no
   ...
   btw,javascript 设计得太差了,
   不支持宏定义,不支持取地址,不支持运算符重载...
-
-## about definition of waifu
-
-**`!important`**
-**`!ref`**
-
-waifu
-`给一个少年留下深刻印象的人物的集合`
-`set charactersMovedABoyDeeply`
 
 ## why chinese hs sucks
 
@@ -2295,16 +2097,6 @@ better.
 纸飞机,数据库.知道.
 编号,传真,坐标,称呼...拿到.
 哪个是我,不知道.
-
-## about definition of country
-
-**`!important`**
-**`!ref`**
-
-country
-`语言` `文字` `文化`
-not
-`国家` `地区`
 
 ## why javascript as a programming language sucks
 
@@ -2356,122 +2148,6 @@ wtf.
 - 打开宝箱,自动领取
 - 把地图指引做进游戏,没有人喜欢看教程视频同时打游戏
 
-## words and idioms collection
-
-**`!important`**
-**`!ref`**
-
-- 收集有意思的数字
-  - 0721
-  - 8964
-  - 314
-  - 0618
-- 收集二字日式中文.
-  - 映画
-  - 追想
-  - 次元
-  - 本家
-  - 的说
-  - 先辈
-  - 荣枯
-  - 不思议
-  - 恋口上
-  - 定型文
-  - 放课后
-  - 后日谈
-  - 日后谈
-  - 二周目
-- 收集二字广东中文.
-  - 靓仔
-  - 靓妹
-- 收集二字台式中文.
-  - 软体
-  - 程式
-  - 视讯
-  - 伺服器
-  - 骇客
-  - 电动
-  - 共有
-  - 正体
-  - 宅配
-  - 网路
-  - 影印
-  - 滑鼠
-  - 当掉
-  - 把妹
-  - 在地
-  - 道地
-  - 编码
-  - 影片
-- qed. done.
-  - 结束
-  - 拿下
-  - 得吃
-  - 有了
-  - 搞定
-  - 以上.
-
-## make good use of words
-
-**`!important`**
-**`!ref`**
-
-- 避免对话
-  - 删去 `我` `你` `他` `她` `它`
-  - 保留 `人们` `祂` `之`
-  - `假想论敌/有人可能就会问了/回答这些评论` -> `或者说`
-- 弱化转折
-  - `但是` -> `只是` `无非` `那么` `这样`
-- 强化判断
-  - `有` `要` `反映` `体现` -> `(同位语)` `是`
-  - `不仅是 而且是` -> `不是 而是`
-  - `都` `所有` `一切` -> `没有 不`
-- 强化逻辑
-  - 删去一半字符 降低一倍语速 `barrak obama address`
-  - 去掉所有虚词 `的` `地` `得` `着` `了` `过`
-- 强化疏离感
-  - 使用舶来中文词语 `日式` `广式` `台式`
-  - 使用文言语法 `宾语前置` `定语后置`
-- 简化表述
-  - 去除结构 保留内容 `把 a 定义为 1` `b 的值为 2` `给 c 赋值为 3` -> `a 1 b 2 c 3 (ref fp|oop)`
-  - 避免重复 `反之` `亦然` `不然` `或然`
-- fin
-  - so much for this have a nice day.
-  - 以上.祝你度过智识的,审美的一天.
-  - done.
-
-upd
-前面的太激进了.
-使用第二人称和第三人称,这样平静,优雅.
-
-- 避免对话
-  - 隐去第一人称 `我` -> `少年` `画中人` `过客`
-  - 使用第二人称 `你` `挑战者` `征服者`
-  - 使用第三人称 `祂` `或` `之`
-- 无心无波澜
-  - 全知视角 `你一定想着...` `你可能要说` -> `你想...` `你说...`
-  - 旁白语气 `如果你赢得了世界,我会...` -> `你赢得了世界.我...`
-  - 假想论敌 `有人觉得` `你可能会问` -> `或者说`
-  - 弱化转折 `但是` -> `只是` `此时` `这样` `无非`
-- 强化逻辑
-  - 使用同位语 `a是b` -> `a b` `a,b.`
-  - 避免动词名词化 `plain english guide`
-  - 重读词语 降低语速 `barrak obama address`
-- 强化疏离感
-  - 使用平凡词语 `日式` `广式` `台式`
-  - 使用文言语法 `宾语前置` `定语后置`
-- 简化表述
-  - 避免重复 `反之` `亦然` `不然` `或然`
-  - 取关键词补集 `google search` `mistral chat`
-  - 去除结构 保留内容 `把 a 定义为 1` `b 的值为 2` `给 c 赋值为 3` -> `a 1 b 2 c 3 (ref fp|oop)`
-- fin.
-  - so much for this have a nice day.
-  - 以上.祝你度过智识的,审美的一天.
-  - 如是云云.
-  - done.
-
-**缄默,矜持.无心,无波澜.**
-
 ## about deep dive into machine leaning
 
 动手学机器学习,评价不好.
@@ -2501,30 +2177,6 @@ upd
 从"算法无处不在"到"贪心问题"
 这是同样读者吗...
 (读者意识)
-
-## translate a problem description
-
-**`!important`**
-**`!ref`**
-
-(ref scriptype project)
-
-before
-
-```
-给定 𝑛 个物品，第 𝑖 个物品的重量为 𝑤𝑔𝑡[𝑖-1]、价值为 𝑣𝑎𝑙[𝑖-1] ，和一个容量为 𝑐𝑎𝑝 的背包。每个物品只能选择一次，问在限定背包容量下能放入物品的最大价值。
-```
-
-after
-
-```
-item {
-  int weight
-  int value
-}
-item items[n]
-int capacity
-```
 
 ## money and education
 
@@ -2561,15 +2213,6 @@ int capacity
 若是数学和英语,就不一样了.
 学过哦.
 
-## why education inequality sucks
-
-**`!important`**
-**`!ref`**
-
-最优雅教育资源,多以讲演,视频形式,不利传播.
-建议编写 markdown & latex 形式的图文稿.
-降低教育不平等.
-
 ## now english cult of god
 
 **`!important`**
@@ -2584,32 +2227,6 @@ int capacity
 花几十亿做广告、雇销售这不是烧家长血汗钱吗？
 教师们都不研究和更新课程，一心想着把学生留下来续班继续赚钱
 (石油 sensei)
-
-## to be a math challenger
-
-**`!ref`**
-
-每天打印卷子,到处抓题,不如选点练习册原题.
-
-你知道少年对面的人.
-
-- 数学
-- 导学先锋
-- 辅导与提高
-- 金典导学案
-- 一课一练
-- 华二强基
-- (exam papers)
-
-## elegant abstract best practice
-
-**`!ref`**
-
-the best abstract is google search with ai (maybe mistral chat)
-
-i provide enough infomation or keywords (parameters)
-
-whatever the complexity of the function is, the rest is yours
 
 ## zhangxuefeng literary criticism
 
@@ -2649,18 +2266,6 @@ genshin impact 从零开始,把主线,地图打完,大概 200h
 
 时间不会骗人.如是云云.
 
-## math formulas
-
-**`!ref`**
-
-记住理科公式
-
-不妨抄写在一张纸上,放于旁.
-
-开卷做练习册.
-
-使用几次公式即可.
-
 ## british a level high school intro
 
 英国的中学分为两类，普通中学和甲等中学。甲等中
@@ -2685,19 +2290,6 @@ level 的意思就是“高标准”。
 达到很高的水平。反观我国的高中，经常为了高考成
 绩而限制优秀学生的发展。
 
-## definition of chinese yuan
-
-**`!important`**
-**`!ref`**
-
-人民币
-
-`零钱`.
-
-- 美金,或者欧元,存储.
-- 简体中文,监管(言论管制,外汇管制,个人企业备案,数字生活备案)严格.
-- 简体中文,人均消费力低.较高的部分人,善于使用英文.
-
 ## math noskill
 
 一切初等不等式都可以暴力配凑
@@ -2705,56 +2297,6 @@ level 的意思就是“高标准”。
 所以这些问题对于当代数学而言都是容易题
 
 但对于考生不是
-
-## best js framework out of 10
-
-**`!important`**
-
-Thank you for making this video, I always felt overwhelmed by all of these frameworks and you helped me come to realization that all of them suck, so I am going to create my own Javascript framework tonight.
-
-I'm in the same boat, actually. The DOM has come a long way in the last 10 years.
-Example of a few things we have now: querySelector, insertAdjacentHTML, data-xxxx, css variables
-I think it's possible to have a small, lightweight "framework" where all the hoopla is just handled in the DOM and the documentation is MDN because it's just DOM.
-I could be wrong.
-
-I taught he was being real for the first part of the comment until he said, "tonight" lmao
-
-"You'll end up building your own shitty JS framework, and the last thing the world needs is another JS framework." -This is literally GOLD and I can't stop laughing.
-
-My mind is blown on how someone actually decided to compare these tools in the shortest amount of time while showing all the important things along the way. Extremely well done and many thanks!
-
-This was the best video on JS frameworks I've ever seen.
-
-## javascript framework abstract
-
-**`!important`**
-
-I built a JS framework with a rich abstraction layer that automatically picks the best JS framework to use under the hood
-
-"Last thing the world needs is another JavaScript framwork" - Jeff 2021
-
-"I wouldn't recommend using it in production until it reaches Alpha"
-10/10
-
-Henceforth, to prove you're a JS developer, you'll need to show us the framework you've built
-
-## fucking chinese junior high school
-
-初三数学,有那时间刷题,不如学点高中知识.
-
-像那个正弦函数和余弦函数就很有用,学会这个,还做啥辅助线解三角形啊.
-
-初中不就是平面几何,坐标,建系啊.
-
-导数也很有用,不过中考好像没有函数题.
-
-计算器倒是没啥用,中考如果算出二次以上的方程,肯定出问题了.
-
-或者说,锻炼学生几何思维也很好.是的,只不过后面也用不到了.
-
-就像记叙文,有的人真情实感,因为有经历,另一些人没办法,就是陈词滥调和虚情假意.
-
-平时阅读,读些小说和散文随笔.
 
 ## about gi script
 
@@ -2790,23 +2332,6 @@ sr 的解密(小游戏),比 gi 有意思很多.
 
 原神不能只选一个,必须都玩,否则就太弱了,打得没劲.
 
-## about voyagejs design
-
-**`!important`**
-**`!ref`**
-
-counter app design
-
-- vanilla js
-- voyagejs app
-- voyagejs component
-
-react state 太激进了.
-**如果 functional programming,其实不存在框架,只是方法库.**
-
-- data listener
-- component to html
-
 ## prefer sr to gi
 
 **`!important`**
@@ -2832,3 +2357,396 @@ gi 没有.如是云云.
 比如最近那个《12 岁骑行男孩遭机动车碾压身亡》也是第一时间把司机抓了，也是这个逻辑。
 
 (telegram news)
+
+## chenxiao origami
+
+https://www.youtube.com/watch?v=HXKTPpz7138
+
+@Blue05534
+2 months ago
+Where do you get your paper from? I'm desperate, i've been searching for good paper for weeks.
+
+@coralineiscoraline
+2 months ago
+I would like to know this too!
+
+@Noblion.
+2 months ago
+I think it is double sided paper, you can get it from the origami shop but it is expensive. You can also try making your own paper
+
+@chenxiaoorigami8301
+2 months ago
+Origamishop and Chinese Taobao.
+
+## awkward success of chinese dingzhen
+
+如果说 zood 是开山鼻祖，好似倾盆之雨，虽有缺漏确实实在在打开了这理塘盛世；igs 好似那烈酒，是技术力巅峰，体现主人公的放荡不羁，为大家带来一场真正的试听盛宴；烟 distance 是纯洁的冰雪从主客两面带给人这个时代的反思；那 丁花瓷 便是那高山流水，温润之玉，相较于前辈们的句句带刺，一针见血的主流，以 俗 著称，瓷却反其道而行之，在 雅 这个方面做到了极致，每一字每一句细细品味都好似一个激动人心的故事，其文笔之流畅，填词之自然，作者在描绘丁真上丝毫不吝惜文采，但要写 dz 就不能只写 dz，作者他还写了雪豹，阿嫲，写了他扶摇直上，写了他粘合国演讲，写了他双手沾满金钱的铜臭，写了那羡慕又嫉妒他却又不得不如那漫山牛羊匍匐苟活于世的芸芸众生，瓷它雅，但不仅仅是雅，它还有俗，它雅的那么俗，但又俗的那么雅，可谓雅俗共赏，在一句句妙语连珠中，那个策马扬鞭，抽着自己的心爱的瑞克五代，倾听雪豹低泣的少年如同青花瓷般清晰明了栩栩如生的出现在我们面前
+
+想了半天，不知道如何表达我的震撼，就如青花瓷本身一样充满诗意，这首也将丁真的成名变成了一首诗，也许当初成名并不是他本意，也许成名后失去了很多东西，正如歌词里的雪豹和锐克，泪别阿妈来到上海，全篇透露着一股忧伤，我们嫉妒丁真有那种鸿运，但我们其实更厌恶这畸形的社会，丁真成为了时代的幸运儿，但同时时代创造出了这种名为“丁真”的悲剧，我没啥文化，只能说先生大才
+
+## a day in the life by beatles
+
+In 1967 I was 13. I bought this LP and raced home to play it in my room on my old Zenith record player in my room. I listened to it 3-4 times. When my father a violinist came home from work. This song was playing. He came into my room and sat down on my bed and listened with me. When it ended , he said play it again. We sat there not speaking listening. When it ended he stood up and said creative instrumentals. Then left. That was one of the only times I shared a moment with my dad in our troubled relationship. I ended running away from home at 15, 1969.
+RIP dad
+
+## one math criticism
+
+some solutions seem awkward
+
+https://www.zhihu.com/question/426193563/answer/2081606072
+
+准高一，数学基础较好，看了前面部分的我认为一数在某些思维难度较大的部分并没有讲清楚，即使有弹幕也填不完整这个坑。（注：难的部分我都看懂了，但弹幕却反应有很多疑问）
+
+当然，我没看后面部分，不能以偏概全，客观上他的课程确实帮助了许多基础较弱的同学，所以我不全反对。
+
+---
+
+举几个例子吧，比如最前面的证明集合相等他并没有完全讲清楚（后来还补了一期视频，说法差不多，只是驳回一些弹幕错误的想法）
+
+1. 已知  𝐴={𝑥|𝑥=14𝑚+36𝑛,𝑚,𝑛∈𝑍} ， 𝐵={𝑥|𝑥=2𝑘,𝑘∈𝑍} ，求证  𝐴=𝐵 。（考点精华---集合---集合相等的证明方法，新版合集 P9）
+
+一数：
+
+需证  𝐴⊆𝐵∧𝐵⊆𝐴 。
+
+在证  𝐴⊆𝐵  中，需证  𝐴  中任意元素都在  𝐵  里，这只需在  𝐴  中令  𝑘=7𝑚+18𝑛 （注意，严格意义上这里应表述成令  7𝑚+18𝑛=𝑘 ）即可，因为  7𝑚+18𝑛∈𝑍 ，满足  𝐵  的条件，所以可以这样令。（翻译：证  ∀𝑚,𝑛(∃𝑘((𝑚,𝑛,𝑘∈𝑍)∧(7𝑚+18𝑛=𝑘))) ）
+
+在证  𝐵⊆𝐴  中，需证  𝐵  中任意元素都在  𝐴  里，即证  ∀𝑘(∃𝑚,𝑛((𝑚,𝑛,𝑘∈𝑍)∧(𝑘=7𝑚+18𝑛))) （在线翻译），后面证法不是重点，略了。
+
+评价：
+
+一数的讲法是没有太大问题的，但是许多弹幕都反应说听不懂，看看弹幕反应：
+
+① 在证  𝐴⊆𝐵  中，为什么可以令  𝑘 ？创造条件？② 在证  𝐵⊆𝐴  中，这不是回到证  𝐴⊆𝐵  了吗？"讨论的第一类中可以令   ＝ 𝑘 ＝ 7𝑚+18𝑛 ，为什么第二类中还要写成带  𝑘  的形式？直接令   ＝ 𝑘 ＝ 7𝑚+18𝑛  不行吗？"③ 为什么第一类就不用证明   ＝ 𝑘 ＝ 7𝑚+18𝑛 ？
+
+没错，这就是逻辑硬伤，对于基础差逻辑不好的学生来说这是短时间内无法解决的，需要长时间的思考和领悟。由于课本逻辑用语的内容放在集合的后面，一数应该换一种通俗的讲法，并且不要用令  𝑘  的方法，这很容易引起混淆。
+
+比如把  14𝑚+36𝑛  改写成  2(7𝑚+18𝑛) ，然后因为  𝑚,𝑛∈𝑍 ，所以显然  7𝑚+18𝑛∈𝑍 ，由于  𝐵={𝑥|𝑥=2𝑘,𝑘∈𝑍} ，对于  2(7𝑚+18𝑛)  来说，满足条件，所以所有的  14𝑚+36𝑛  都在  𝐵  里，即证  𝐴⊆𝐵 。证明  𝐵⊆𝐴  说法很多，不列举了。
+
+或者我这里整理有证明子集的逻辑思路：
+
+![](https://pic1.zhimg.com/v2-59eb168e981f61469c679af054e6bb09.webp)
+
+如果没解决逻辑问题，那么换个集合就很有可能不会证，比如最经典的两个集合：
+
+已知  𝐴={𝑥|𝑥=2𝑘+1,𝑘∈𝑍} ， 𝐵={𝑥|𝑥=4𝑘±1,𝑘∈𝑍} ，求证  𝐴=𝐵
+
+那有人会说，这些高考几乎不会考，关心什么，期中末月考混过去不就完了吗？那我就会说，最根本的逻辑问题不解决，基础肯定不怎么扎实。
+
+---
+
+再举个例子，讲判别式法求值域。
+
+2. 求  𝑦=𝑥+414𝑥2-𝑥+2  的值域。（考点精华---函数概念与性质---值域考点完全解析（中档），新版合集 P38）
+
+一数：
+
+把解析式化为方程  3𝑥2+(2𝑦-16)𝑥-𝑦2+32=0
+
+然后这里照搬原话：
+
+> 诶，那我们只需要让这个式子满足什么呢？是不是只需要满足它有解就可以啦？\
+> 对于这个方程中的每一个  𝑥 ，是不都有对应的一个  𝑦 ？\
+> 那我们都有一个  (𝑥,𝑦)  不就是这个  𝑦  是可以取到吗？\
+> 所以跟我们判别式法完全类似（注：到现在他还没讲判别式的具体方法）\
+> 此时我们是不只需要  Δ≥0  就可以啦？\
+> 我们利用  Δ≥0  可以得到  𝑦  的范围\
+> 而在这个  Δ≥0  得到的  𝑦  的范围内的每一个  𝑦 ，都有对应的  𝑥  与之对应\
+> 而我们的任何  𝑥  都是满足条件的，也就不会使得根号下不成立对不对？\
+> 所以我们就不用担心会产生增根
+
+评价：
+
+说实话，第一次听我也没听懂，后来看了看网上关于判别式法的介绍才明白他在说什么，原来他在这里是直接讲他自己的思路而不深入探究原理，导致弹幕几乎全是云里雾里的。
+
+在这题中首先必须要说明为什么解析式和方程是完全等价的。有的人说这不简单嘛？移项，然后两边平方化简不就可以了吗？但是这里有陷阱：平方后  𝑥  的取值范围真的不变吗？在解析式中，一部分关于  𝑥  的式子是放在根号里的，也就意味着  𝑥  的取值范围可能有限制；将平方后化简的方程左边设为新的函数  𝑓(𝑥)=3𝑥2+(2𝑦-16)𝑥-𝑦2+32 ，这个函数中  𝑥  的取值范围就没有限制了。原本使得解析式中根号内小于零的  𝑥 ，即取值范围之外的  𝑥 ，在  𝑓(𝑥)  中的  𝑥  却可以取到。解方程  𝑓(𝑥)=0  得到的根可能在原来的解析式取值范围之外，这就是所谓的增根。一数把增根问题放在最后讲不是很合适（不过同学前面没听懂更别谈这里了）当然，原题中根号下的式子  14𝑥2-𝑥+2  抛物线开口向上，而且  Δ<0 ，所以恒大于零，不用担心增根，解析式和方程完全等价。
+
+接着要说明为什么要求  𝑓(𝑥)  的判别式  Δ≥0 ？一数确实说明了原因，但是他说" 𝑦  是可以取到的，所以  Δ≥0 "，y1s1 跳跃太大了，而且这不是简简单单只讲述  (𝑥,𝑦)  的对应关系就能说明白的原理，他只根据这个方程论  (𝑥,𝑦)  的关系，一张对应关系图都不画，导致弹幕一堆疑问。
+
+要说明清楚原因，就要讨论一般情况，这就要谈到函数的定义了。这里我不严谨地讲：对于函数定义域中的每个  𝑥 ，在值域中都有唯一的  𝑦  与  𝑥  对应；*相反，对于函数值域中的每一个  𝑦 ，在定义域中都至少有一个  𝑥* *与  𝑦  对应*。所以把函数中的这个  (𝑥,𝑦)  关系放在完全等价的方程  𝑓(𝑥)=0  中的意思就是对于所有的  𝑦 ，方程都有（至少有一个）实数根，也就是  Δ≥0 。
+
+![](https://picx.zhimg.com/v2-b42141f3f4de50dda62368cb5bfe0533.webp)
+
+示例：y=x^2, x∈{-2, -1, 0, 1, 2}
+
+比如解析式  𝑦=𝑥2  完全等价于方程  𝑥2-𝑦=0 ，假设函数定义域是  𝑅 ，利用  Δ=0-4×1×(-𝑦)=4𝑦≥0  得到值域  𝑦≥0 。
+
+---
+
+再举个例子，定义法"找零点"讨论单调性。
+
+3. 利用定义法讨论函数  𝑓(𝑥)=𝑥2+16𝑥  的单调性。（考点精华---函数概念与性质---函数单调性解法大全，新版合集 P39）
+
+一数：
+
+在定义域中任取  𝑥1,𝑥2 ，得  𝑓(𝑥1)-𝑓(𝑥2)=𝑥12-𝑥22+16(𝑥2-𝑥1𝑥1𝑥2) ，化简得  𝑓(𝑥1)-𝑓(𝑥2)=(𝑥1-𝑥2)(𝑥1+𝑥2-16𝑥1𝑥2)
+
+等式右边中，如果我们规定了  𝑥1  和  𝑥2  之间的大小关系，因式  (𝑥1-𝑥2)  就容易判断正负，而因式  (𝑥1+𝑥2-16𝑥1𝑥2)  却不好判断，"虽然高考不会考但是遇到了也要学会做，我们令  𝑥1=𝑥2=𝑥 ，有  2𝑥-16𝑥2=0 ，所以  𝑥=2 "。这是因为我们要找到  (𝑥1+𝑥2-16𝑥1𝑥2)  的零点，在这个零点会有一个单调临界点，单调性会改变。后面在实数集中以 0, 2 为节点分别讨论区间单调性即可。
+
+评价：
+
+。。。不止我一个，弹幕都反应问号：
+
+① 为什么要令  𝑥1=𝑥2=𝑥 ？② 为什么有  2𝑥-16𝑥2=0 ？当  𝑥1=𝑥2  时  𝑓(𝑥1)-𝑓(𝑥2)=0  并且  𝑥1-𝑥2=0 ，此时  2𝑥-16𝑥2  不是取任何数都可以吗，为什么等于零？③ 为什么会有一个单调临界点？......
+
+可以看出，一数在这里是纯属只讲方法不讲原因，导致一片问号。
+
+为什么要令？这涉及到对称式的思想，这东西还是要换种说法。
+
+为什么  2𝑥-16𝑥2=0 ，这里一数不应该写"有"这个字，应该归纳为"令"的范畴。由于  (𝑥1+𝑥2-16𝑥1𝑥2)  符号难以确定，我们可以找出这个因式何时为零。如果直接令  𝑥1+𝑥2-16𝑥1𝑥2=0  会得到一个描述  𝑥1  和  𝑥2  关系的方程，而我们需要一组最简单的二元解，不妨规定  𝑥1=𝑥2 ，这样两个未知数，两个方程，这样就解出来了， 𝑥1=𝑥2=2 ，这就是因式为零的临界情况：如果稍微更动  𝑥1  或者  𝑥2  的值，这个因式就必然会大于零或者小于零。
+
+---
+
+我举的例子都是些思维强度较大的题目，一数见到难点的例子如果按照原来的语速继续讲解讲不清楚，就会在某些地方敷衍了事。并且由于是讲题，一数讲的内容注重方法套路，并不注重原理，所以观看门槛在一些考点内容里稍微有点高。
+
+我发现 B 站视频的评论区大多数内容并不讨论问题本身，而是无脑吹捧，玩梗，反倒给一些人感觉虚伪、反感。弹幕水平参差不齐，有的互相讨论问题，但有的却在某些地方刷类似"哇，我不懂了，我是不是没救了"之类的弹幕、玩梗、吹捧"一哥"，甚至有的初中生在里面吹牛逼。根据这个学习氛围，我认为认真看视频的也没几个，至少不占多数。
+
+最后，这里祝愿一数能越办越好，始终坚持初心和贯彻理念，脚踏实地，让更多同学受益。
+
+---
+
+kills uee
+
+![](https://pic1.zhimg.com/v2-046709467a12a680788fb68fe6310e0f.webp)
+
+---
+
+early days
+
+https://www.zhihu.com/question/413601021/answer/1521983484
+
+发布于 2020-10-13 17:57 ，编辑于 2022-11-07 17:59
+
+啊 不请自来
+
+我是 2020 年高考生（而且是美术生）
+
+最后几个月我在 b 站看到了一数 点了关注没有怎么看
+
+最后三个月 疫情关系我们都晚开学了 我是 4 月 6 日开的学 那个时候正式开始在 b 站和一数系统性的学习数学
+
+我是一个数学超级渣
+
+开始跟一哥学习了几天 深入的了解了整个高中数学的知识体系框架
+
+迎接了一模 不出意外的蒙对了两道选择题 一模考了 190 数学 10 分
+
+几乎放弃 但是依旧支撑了下来 制定了以数学和文综为主的学习计划
+
+二模 刷完了整个高中知识体系 并且竭尽全力的尝试去理解其中的内容
+
+要通过简单的基础题型来理解知识点 但是因为时间有限 直接上真题 结果自然是头皮发麻 但是幸好我命硬 扛下来了
+
+二模 我取得了 65 分的成绩 狠狠地打了数学班主任的脸 她那句"你没救了 要么不要念了 要么留在这里混到高考"的话成为了过去式。
+
+65 分其实并不算高 我把目光盯在了基础上
+
+二刷之前并没弄太懂的基础知识 并且用了更多的题去巩固
+
+提高了刷题的比例 把每一道题都和基础知识都做了深入的联系 并且思考其中的奥妙
+
+（其实整个学习数学的过程中 我刷的题并不多 综合算下来其实也就是近 10 年的一二三卷而已）
+
+三模 我考了 100+ 作为美术生 我成为了学霸 和曾经的数学第一不相上下
+
+我学会了思考 开拓了思路 同时也爱上了数学。
+
+三模后开始针对性的刷题
+
+最后高考 我考的二卷 难度很高 有很多题把我这个着重基础的菜鸡给挡住了。。。
+
+根本写不完 高考没考好。就不说成绩了
+
+但我花了三个月时间 从一个本该去专科垃圾，逆袭成为省内一本的学生。
+
+这其中 一数他功不可没。
+
+深入浅出的教学让我快速上手冗杂的高中知识
+
+他思考问题和学习知识的方式 潜移默化让我学习效率和进步速度暴增 思维的提升也给我带来了很多应试教育之外的优势。
+
+这个假期 我去武汉找到了一数 他也是一个非常暖的大哥哥 带我玩了几天武汉。
+
+同时这个假期 我继续去学习数学 不是为了复读或者再考试 而是......因为爱好。
+
+一个假期过去 我现在可以自测高考卷考到 130+ 。
+
+感谢一哥 他是我的导师 是把我从深渊中拉出来的救命恩人
+
+以上故事全部真实 如果有数学不好或者想更上一层楼的朋友 可以去 b 站跟一数学习数学！你们一定可以的！
+
+附上在武汉和一哥面基的一些照片
+
+（应一哥要求 我不放露脸照啦 ✓）
+
+![](https://picx.zhimg.com/v2-8976d646afca722fa6fdee4deab55739.webp)
+
+![](https://picx.zhimg.com/v2-20dd4e119688ac860b48dacd4e3a8ebc.webp)
+
+匿了匿了 私我的人太多但本质上我没有办法为你们提供太多帮助
+
+每个人都有最适合自己独一无二的学习方法
+
+不必纠结于那种方式才是最正确的，要自己摸索
+
+最本质最有用的学习方法， 围绕这一句话展开就足够了:
+
+不要自我欺骗，要做到问心无愧的学习
+
+## chinese programmer sucks
+
+发布于 2023-08-21 09:49 ，编辑于 2023-09-07 07:45
+
+https://www.zhihu.com/question/612709226/answer/3175163822
+
+3551 人赞同了该回答
+
+1.各种培训班实际上就是数据库套壳，对没错，asp.net.java.python.搞来搞去就是写一套代码，然后操作数据库，这套东西并不是浅显低级的东西，而是无数前辈，高手已经让这套过于成熟，安全感知，上亿的并发，分层架构。后来者要么做螺丝钉要么成为高手，为整套的东西性能再提高一点点。
+
+培训的风气是 09 年开始的，到现在一个生肖轮回了，再大的需求也架不住这么多批量化的生产，可笑的是，.java.python.net  等本来是通用的编程，居然教成了专门写后端的语言，一提到 java 说来说去还是各种前后端框架，无聊至极
+
+我对培训班的印象可以说极差，以下都是站在培训班对立面的，不爽可以直接举报
+
+实际上，任何主动推到你面前的培训广告，不管是 dotnet.java.python.数据分析，大数据，都要三思，如果有意，首先看自己的学历，是的，别听培训班什么技术优先的鬼话，现在只要有点规模的公司首先看的是学历，没有 985.211.  双一流请三思，年龄超过 28 在这行还没任何积累的请三思
+
+然后再搜索 b 站，各大读书 app，阅读观看入门免费资源，如果学下来，还没学会自己看文档，甚至不能做一个 demo，干脆直接放弃。如果你觉得轻松，那么我推荐你买算法导论，深入理解计算机原理两本书两本黑黑的书，不用全部读完，实际上也大不可能，就读前三章，如果还是很轻松，那么恭喜你，你拿到了计算机道路上成功的入场券，也不用去啥培训班了，这里给出几个小项目，用于检验自己有没有程序员素质，api  太高级请忍住别用
+
+计算器，windows 自带那种，加减乘除不用说，至少把自然对数，求 log 做出来，简单数学能力
+
+算 24 点程序，做出界面，简单算法，字符串转化成运算，简单自创算法能力
+
+模拟钢琴，看查官方文档能力，任何高级语言都有操作声卡 api，然后查一下功夫在代码外的能力，顺便学下啥叫音阶，升音降音。
+
+彩色照片变黑白，提高饱和度，检测出图片颜色，把红色变绿色，顺便学下光色的组成，都是简单 ps 功能，也是功夫在代码外
+
+这几个题目可以说是纯粹的编程，没有被互联网黑话污染的编程，如果做不出来，甚至看 b 站都没思路的，还是建议放弃
+
+学大数据，数据分析的，麻烦看下 head first 数据分析，统计学，的书，两本，网上买不过 100 多，如果读的下去，再考虑培训，说实话，培训里的数据分析和大数据已经近似诈骗，讲的大部分是各种软件的使用，数据分析能不讲统计学？统计学培训半年能讲完吗？
+
+然后人工智能也是近似诈骗，人工智能不讲线性代数，不讲概率居然也能行，这两个东西是培训班能讲的？
+
+反正想着培训班培训一年就能找到工作安心领工资，不管这一年你吃了多少苦，都做好心理准备，这条路会比较坎坷
+
+2.整套产业已经被培训机构带偏，真正的程序员的技能是可以迁移的，举几个例子
+
+excel 报表真的烦，那么能否仅仅凭官方文档用公式和  vba  提升效率
+
+小工厂买不起 整套  erp，那么能否仅仅凭官方文档写一个统计小东西，用 r，python，excel 都可以
+
+独立程序员先别管版号，著作权。能不能模仿一个壁纸引擎，一个分盘程序，这些官方文档都没有，自己找资料，可以看下 windows 编程，cpp  相关书籍
+
+从培训班出来的是没有教的，只会教怎么面试，包装简历，怎么装，说来说去就是工作岗位上的事，而这些工作岗位搞来搞去就是界面，服务器，数据库三个大层，比如说，数学专业好，但是数学培训机构讲来讲去就是微积分，数学难道只有微积分？线性代数，概率论，群论，数学分析都就不是数学，没错，微积分也是高深的，但是管你高深不高深，批量这么多年，极小概率才能出现得高手的位置也满了，你不卷谁卷？
+
+3.编程的服务对象往往不是自己，这点是编程区别于数学，乐器，绘画，书法，写诗，雕塑的关键，程序员写出一个音乐播放器，但是服务对象是音乐爱好者，司机，但是服务对象唯独不是自己，这基本断绝了野生大师的可能，这跟编程的出发点是违背的，大多数程序员因为兴趣入行，而不是为服务用户入行。
+
+而绘画，乐器，下棋可以自娱自乐的，可以人菜瘾大，但是编程不行，编程菜是真的无聊，没有任何人可以在没有工资回报的情况做做  crud  一辈子。但是下棋，绘画，乐器可以多少人终身不能从业余突破到专业，但是不妨碍公园几个老头乐呵呵的杀一局。
+
+更别说高手， 从三岁琴童，到 80 岁的钢琴大师，阿格里奇到了 80 岁，音乐会还一票难求。
+
+绘画也可以超写实，意识流，油画，素描，工笔画，水墨画，乐器钢琴口琴笛子手风琴小提琴总有一款可以让人菜的很舒心，舞蹈可以芭蕾，交际舞，民族，二人转。
+
+而编程不突破到数学层次，实在很难让人感受到乐趣，不能取悦自己，没有物质回报的菜如何能够持久，更别说工作上的 kpi 考核，这个行业怎么能不垃圾，有人会说人工智能，麻烦搞清楚，人工智能都是数学家搞出了公式，叫程序员写成代码了，都说劳心者治人，劳力者治于人，除非数学家和程序员是同一个人，这种打下手的岗位怎么可能不内卷，不垃圾
+
+编程这块可以举林纳克丝，问题在于阿格里奇，傅聪，冷军可以重弹重画一模一样的作品，他可以超越也可以不超越，但是不会有人要求重写一遍 linux，操作系统得补充工作被分解，因为编程说到底就是这一段话给计算机执行去，谁来看计算机表演呢，哦，对了，林只是写了一个调度程序，没有任何贬低的意思，操作系统的初衷就是让计算机自己决定该执行什么任务，写好了这个，剩下的可以给不那么高的手来写，那林可以写一个更好的操作系统吗？我敢说做不到，后面就到了数学的层次了，真的能突破，林会获得一顶数学家的桂冠，成为数学家谁脑残要当程序员
+
+4.应用级别的程序员，对类库框架有着深层次的依赖，就说前端，有多少程序员脱离了  vue，react，还可以做一个一模一样的功能或者作品，如此高频的版本更新哪里有沉淀的可能，有的程序员组成非正式的联盟，固守在低版本上，比如多少用 java 的公司还在用 8？也就是程序员对版本更新这么关注，钢琴手画家总不会对钢琴有依赖吧！依赖的是自己手，笔颜料乐器都是可以直接用钱买到的，围棋顶多也就讨论下先手后手的贴目问题。这些规则就是都是几百年不变的东西。稍微快一点法律，医学，稍微的变动都是整个行业关注，十来年不变的，这些从业者可以静下心来慢慢专研，更加让人尊重
+
+而程序员却对每次框架的更新都要关注，或者干脆加入旧版本联盟，美其名曰稳定，不过别认为最惨，更惨的是电竞选手，正式比赛顶多就是旧一个版本，这还要看开发商脸色，想固守更早的版本门都没有！
+
+5.软件天花板太低，低到不能呼吸，功夫在代码外。可能时过境迁才能真正理解这两句话！多少人在往数据库套壳的道路上卷！这行业能不卷吗？能不垃圾吗，中国为啥没有自己的 adobe.matlab，自动桌！永远还是互联网，
+
+喂！醒醒！！！
+
+做自己的 ps 除了代码懂多少图形学？
+
+做自己的 matlab 除了代码懂多少物理
+
+做自己的编曲软件，除了代码懂多少乐理？
+
+医学需要软件，除了代码懂多少生理学，病理学，解剖学。
+
+工业需要软件，除了代码懂多少机械，化学，物理
+
+博彩行业需要软件，除了代码懂多少概率学，这方面缅甸也比中国强
+
+做建模软件，除了代码懂多少及时渲染，拓扑学，几何学？
+
+搞数据安全，除了代码懂多少密码学？
+
+搞数据孪生，除了代码 matlab，仿真懂多少
+
+做行业 erp？哈哈哈，不是工业软件那种，通用 erp 金蝶用友两只大老虎，医院教育司法？ 水都深的没边了，尤其是政府项目，关系永远比技术重要
+
+6.很多人没有意识到程序员并不是职业终点。答案就在眼前，刘强东，雷军，求伯君，他们以前都是一流的程序员，但是现在他们是企业家，林纳克丝以前是程序员，现在我们会尊敬的说他是 linux 之父。岩田聪以前是程序员，现在他是任天堂的社长。还有很多不知名的编程高手，他们通过程序学习了程序外的知识，成为了数学家，物理学家，企业家。或者反过来，因为手工太繁琐，学习写程序，不断发展才有了各种各样的工业软件。
+
+还有一些人，专研语言本身，哦，不，研究编译器，造出各种语法糖，优化编译器让其更有效率。
+
+造出新的语言并天时地利让其称为潮流，比如 python
+
+或者做了程序里的  github，svn，steam，这些人就是做出了编程界的巴拿马运河，万里长城，三峡水库，都江堰，国会山，巴黎圣母院等等做到了这种程度，自然不会有找工作的问题了
+
+以上三种早就脱离了普通程序员的范畴，脱离了就业失业的循环，如果说程序员做到什么程度可以无视行业内卷，那么就事以上三种
+
+好的程序员都是真正得做到了功夫在代码外，但是很多人却因为调用类库的很熟练而沾沾自喜。只是当时他们不明白，这份自以为是，轻则虚耗几年光阴，重则消耗整个青春，难有回头路
+
+编程不会凉，互联网赶紧凉，也必须凉，多少人的青春，多少金钱在无谓的消耗，只有互联网倒了，才会有更多的人静下心来思考沉淀，焕发新的生机
+
+评论不是我删的
+
+本答案，是本人对程序员的一点思考，思考就像炒菜，没有原材料是做不出来的，原材料如下
+
+书籍，深入理解计算机系统，隐匿计算机背后的语言，程序员的数学，短码高手，普林斯顿微积分读本，游戏 3d 数学
+
+视频，杨中科的.net 教学视频，游戏蛮牛课程，虚幻官方课
+
+实际经历，医疗领域  his  和电子病历招投标（甲方执行人员），帮人写论文，erp 买不起而自己写钉钉的宜搭程序，一年的互联网打工人
+
+## india phone usage problem
+
+The 4Gotten generation: An open letter to India's youth: Get off that smartphone. It can destroy you
+
+October 24, 2020, 7:28 AM IST
+
+Dear friends,
+
+I don't know if this letter will even reach you, despite being published in a big newspaper. Many of you are so busy with your phones, watching videos, playing video games, chatting with your friends, commenting on social media, or just scrolling through the feeds of beautiful celebrities, reading an article falls way down on the priority list.
+
+However, if you do happen to chance on this, please read this fully. This is important and this is about your life. You are wasting your life on your phone. Yes, you are the first young generation in India's history that has access to smartphones and cheap data, and you are spending hours on it, every day.
+
+Check your screen time, which often averages 5-7 hours a day for young people. Retired or established people can spend so many hours on their devices. A young person, who has to build his/ her life, just can't.
+
+![](https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2020/10/4GGeneration.jpg)
+
+Chad Crowe
+
+Five hours is one-third of your productive waking hours, or one-third of your life. Like cigarettes or other drugs, this phone addiction is eating away a part of your life. It's damaging your career prospects and messing up your brain. If it stays this way, your entire generation will become a 4Gotten generation, an entire generation addicted to 4G, aimless in their life and clueless about the nation.
+
+These are the top three negative effects of this phone addiction.
+
+Number one, of course, is the absolute waste of time, which could be utilised on more productive things in life. Imagine saving three hours a day from your phone, and spending it on anything -- fitness, learning a skill, studying more, a more intense job search, opening a business. Imagine if you did this consistently, where it would take you.
+
+Two, watching mindless stuff dulls your cognitive brain. Our brain has two areas -- cognitive and emotional. A good mind is where both work well. When you watch junk, the cognitive brain disengages and is used less. You soon lack the ability to think, reason or argue something logically. You can no longer see different points of view, process multiple scenarios, evaluate pros and cons or make the right decisions.
+
+You function with your emotional brain alone as your cognitive brain is numb. The constant anger on social media, the polarisation, the intense fandom and intense hate for celebrities or politicians, the popularity of certain screaming TV anchors all point to a generation where the emotional brain is in control, and the reasoning mind is not engaged.
+
+People who work only with an emotional brain don't do well in life. The only way out -- stop numbing your brain and engage your mind in more productive things.
+
+Three, constant hours on the screen kill your motivation and energy. Success in life comes from setting goals, staying motivated and working hard towards your goals. However, watching a screen makes us lazy. Deep down, a fear of failure sets in as you're not sure if you can put in the work anymore.
+
+To cope, you try to find a reason why you can't find success in life. You try to find an enemy -- bad current politicians, bad past politicians, Muslims, Bollywood nepotism, rich people, famous people, any villain to be made responsible for your life not being what it could be. Yes, the system is unfair and rigged. However, wasting time venting on social media won't help you. Working on yourself will.
+
+Stop complaining. Start creating. Create a better life for yourself, and create a better person. Are you doing your maximum? Are you working as hard as you possibly can? Keep that wretched phone away until you make something of your life. Winners find a way out of the unfairness. You can too.
+
+Unlike hard drugs, 4G phones are legal. Kids can keep one in their pocket. The phone is also immensely useful -- for information, shopping or online classes. It can be used to grow and learn. But it can also literally destroy a young person's life, and even an entire generation.
+
+For it's up to the youth to take India where they want to take it. Imagine the generation that got us Independence. How cool were they? They were out there, fighting to make India free. I still remember the Mandal Commission protests, or the 2011 Anna protests. The youth cared about national issues. Today, does the youth actually care about what truly impacts us? Or do they emotionally react to news based on how sensational, entertaining or crazy it is?
+
+The super important, urgent priority is to make our economy grow again. China is five times richer than us. Google pictures of Chinese cities on the Internet. We have to do so much to get there. Should we focus on that? Or should we outrage over harmless ads that show an inter-religious couple? Should you focus on your career, or should you waste your time on never ending historical Hindu-Muslim issues? You want to build a good life or solve Bollywood conspiracies?
+
+You, the youth of today, will decide the answers to these questions. No leader, no actor, no celebrity will do it for you. Take yourself and this country where you want it to go. Don't aim to make India poor and proud. Aim to make India and yourself rich and humble. Get off that stupid phone, engage your mind in productive and creative things and make something of your life and country.
+
+Be the generation that 4Ges India ahead. Don't end up as the 4Gotten generation.
+
+Love,
+
+Chetan Bhagat

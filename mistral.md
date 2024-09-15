@@ -4346,7 +4346,9 @@ This list provides a snapshot of the frameworks used by these sites, but it's im
 
 As of my last update, my knowledge cutoff is October 2023. This means that the information I provide is based on data and events up to that point. I don't have real-time access to the internet or the ability to update my knowledge base beyond that date. If you have specific questions or need information that might have changed after October 2023, I can provide general advice or context based on what I know up to that point.
 
-## obj define prop
+## object define property
+
+**`!ref`**
 
 > -> mistral large 2
 
@@ -4441,6 +4443,8 @@ console.log(obj.name); // John Doe
 Using `Object.defineProperty` gives you precise control over the behavior of object properties, making it a powerful tool for creating more robust and flexible JavaScript objects.
 
 ## proxy and reflect
+
+**`!ref`**
 
 > -> mistral large 2
 

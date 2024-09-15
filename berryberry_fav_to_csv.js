@@ -1,12 +1,13 @@
-//https://github.com/AHCorn/Bilibili-To-Raindrop
-var delay = 2000; //等待时间
+//source https://github.com/AHCorn/Bilibili-To-Raindrop
+
+var delay = 500; //request interval
 var gen = listGen();
 var csvContent = "\uFEFF";
 csvContent += "folder,title,url\n";
 
 function getCSVFileName() {
   var userName = $("#h-name").text();
-  return userName + "fav.csv";
+  return `fav_${userName}.csv`;
 }
 
 function getFolderName() {
@@ -19,7 +20,7 @@ function escapeCSV(field) {
 
 function getVideosFromPage() {
   var results = [];
-  var folderName = getFolderName().replace(/\//g, "\\"); // 替换 / 为 \ 避免 Raindrop 识别出错
+  var folderName = getFolderName().replace(/\//g, "\\"); // replace "/" to "\" to avoid errors
   $(".fav-video-list > li > a.title").each(function () {
     var title = $(this).text().replace(/,/g, "");
     if (title !== "已失效视频") {
@@ -33,7 +34,7 @@ function getVideosFromPage() {
 }
 
 function processVideos() {
-  csvContent += getVideosFromPage() + "\n"; // 自动换行
+  csvContent += getVideosFromPage() + "\n"; // auto new line
   if ($(".be-pager-next:visible").length == 0) {
     setTimeout(changeList, delay);
   } else {
@@ -68,7 +69,7 @@ function downloadCSV() {
     win.document.open();
     win.document.write("<html><body>");
     win.document.write(
-      '<a href="' + url + '" download="' + fileName + '">download</a>'
+      '<a href="' + url + '" download="' + fileName + '">direct download</a>'
     );
     win.document.write('<script>document.querySelector("a").click();</script>');
     win.document.write("</body></html>");

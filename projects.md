@@ -186,7 +186,7 @@
   - soundcloud
   - my free mp3
 
-## `theatre`
+### `theatre`
 
 > retro theatre feeling
 
@@ -308,16 +308,20 @@
 
 ### `pure`
 
-> my desired math courses | difficulities in great simplicity | "纯度"
+> my desired math courses "纯度"
 
 > -> /pure
 
 - features
-  - lists not blockquotes
-  - known conditions not problem explanations
-  - math challengers not exam candidates
-  - on paper not on screen
-  - latex based not hand written
+  - text based to voice based
+  - lines to paragraphs
+  - symbol language to chinese words
+  - latex based to hand written
+  - on paper to on screen
+  - math challengers to exam candidates
+- perspectives
+  - dark mode
+  - blockquotes low opacity
 - concepts
   - dailyab
   - 40min hs math
@@ -326,8 +330,10 @@
   - childhood retro and my desired math course
   - learn hs math as nicholas wei bro
   - the libre high school math textbook
-  - teach hs math to pupils
+  - teach hs math to 12 yr old children
   - random pick from a class of mihoyo or ba students
+  - high school g1t1 math 40min definitions theories tricks and uee paper
+  - theories usage as card playing
 - various themes
   - by voyage
 - inspired by
@@ -366,32 +372,27 @@
 
 > /intuitive
 
-- guides
-  - frontend
-  - cpp
+- learn
+  - javascript
   - python
-- frontend tech structured
-  - html tags and attributes
-  - css selector and attributes
-  - js grammar and built-in methods
-  - threejs methods
-- interesting demos
-  - source codepen
-  - and useful progressive web apps
-- intuitive playground
-  - game engine like scratch
-  - javascript based
+  - cpp
+- create
+  - phone app
+  - wide screen app
+  - voyagejs
+  - reactjs
+  - nihilitycss
+  - threejs
+  - p5js
 - game ideas
   - mihoyo tiny games
-  - manjuu tiny games
+  - azurlane tiny games
   - poki tiny games
   - angry birds classic
-  - fly me 2 the moon:the origin of mihoyo,endless levels
-  - genshin dungeon:soul knight but gi monsters
-  - unique card gambers:know the enemy and know yourself
-  - platfighter:pass or death
-  - bs local:ideas ignored by supercell,strong teammates
-  - cr local:ideas ignored by supercell,human-like opponents
+  - fly me 2 the moon endless
+  - genshin dungeon like soulknight
+  - cr ideas
+  - gi characters in sr
 - various themes
   - by voyage
 - inspired by
@@ -414,12 +415,79 @@
   - lodash
   - github gist
 
-### `pyscript`
+### `nihility`
 
-> pythonic javascript
+> more radical tailwind
 
-- no `;` needed
-- use `:` instead of `{}`
+- inspired by
+  - tailwindcss
+  - voyagejs
+
+### `yourscript`
+
+> javascript not optionated
+
+- comment
+
+```
+# ...
+// ...
+/* ... */
+```
+
+- type based
+
+```
+int n
+
+int numbers[10]
+
+string players[]
+
+any()
+  return true
+
+uint(n)
+  return n>=0
+
+content(c)
+  return type(c) == "element[]" || type(c) == "string" //children or text node
+element [
+  string type
+  string string labels{}
+  content content
+]
+
+query(q)
+  return q != undefined
+fn(f)
+  return type(f)=="function"
+query fn handle {}
+
+item
+  int weight
+  int value
+problem
+  item items[n]
+  int capacity
+```
+- pythonic
+
+```
+a
+  b
+  c
+    d
+  e
+
+a:
+  b
+  c:
+    d
+  e
+
+a{b;c{d};e}
+```
 - no more `let` `var`
   - `a=0`
   - `int a=0`
@@ -431,90 +499,18 @@
   - `define each(a,b,c) for(int a=b;a<=c;a++){}`
 - inspired by
   - python
-
-### `scriptype`
-
-> typescript in javascript "better regex for ast"
-
-- concepts
-  - type `int`
-  - pair `string string`
-  - array `type items[n]`
-  - object `string string dict{}`
-- syntax
-  - comment
-
-```
-//comment
-/*comments*/
-```
-
-- define type
-
-```
-any(){
-  return true
-}
-uint(n){
-  return n>=0
-}
-```
-
-- list
-
-```
-content(c){
-  return type(c) == "element[]" || type(c) == "string" //children or text node
-}
-element [
-  string type //tag
-  string string labels{} //attributes
-  content content
-]
-```
-
-- hash map
-
-```
-query(q){
-  //number or string or boolean or function
-  return q != undefined
-}
-fn(f){
-  return type(f)=="function"
-}
-query fn handle {}
-```
-
-- struct
-
-```
-item {
-  int weight
-  int value
-}
-problem {
-  item items[n]
-  int capacity
-}
-```
-
-- methods
-  - type
-  - check
-- inspired by
   - typescript
 
 ### `firascript`
 
-> simplicity of the script
+> simplicity of a script
 
 > -> /firascript
 
 - features
   - macro based
   - functional programming
-- literal
+- truth
 
 ```
 (a b c d) //(a,b,c,d)
@@ -524,31 +520,21 @@ problem {
 {a b c d} //{a:b,c:d}
 
 (A){B} //function(A){B}
-```
 
-- definition
-
-```
 const {a 1 b 2 c 3} //const a=1,b=2,c=3
 
 let a [A] //let a=[A]
 
+let f(){} //let f = function(){}
+
 let a (A){B} //let a=function(A){B}
 
 a(A){B} //a=function(A){B}
-```
 
-- if
-
-```
 if(a){A}(b){B}(c){C}{D} //if(a){A}else if(b){B}else if(c){C}else{D}
 
 match(value,pairs,stop=false)
-```
 
-- loop
-
-```
 for{A} //while(true){A}
 
 while{A} //while(true){A}
@@ -564,22 +550,10 @@ for(i 1 10){A} //for(let i=1;i<=10;i++){A}
 for(i 1 10 j 10 100){A} //for(let i=1;i<=10;i++){for(let j=10;i<=100;j++){A}}
 ```
 
-- function
-
-```
-let f = {method(){}} //function method(){} | ()=>{}
-```
-
-- object
-
-```
-{
-  o(a){
-    return _.deepclone(a)
-  }
-}
-```
-
+- reality
+  - firajs lib
+  - firascript into javascript
+  - wd
 - inspired by
   - arc language
   - airbnb javascript guide
@@ -598,6 +572,9 @@ let f = {method(){}} //function method(){} | ()=>{}
 - component systems
   - design.google
   - gmail old design
+  - youtube design
+  - reddit old design
+  - apple landing page
   - mihoyo sr
   - mihoyo hi
   - mihoyo gi
@@ -633,7 +610,7 @@ let f = {method(){}} //function method(){} | ()=>{}
   - data listener
   - json to html
 - inspired by
-  - reactjs 
+  - reactjs
   - alpinejs
   - mithriljs
   - sveltejs
