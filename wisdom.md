@@ -165,11 +165,14 @@ not
   - 编码
   - 影片
 - 无序
+  - 命中
+  - GG
+  - MM
+- 有序
   - done.
   - qed. 
   - 以上
   - 拿下
-  - 命中
   - 得吃
   - 如是
   - 云云
@@ -259,9 +262,7 @@ after
 
 ## to be a math challenger
 
-> todo
-
-每天打印卷子,到处抓题,不如选点练习册原题.
+每天打印卷子,到处抓题,不如买本练习册.
 
 你知道少年对面的人.
 
@@ -281,6 +282,10 @@ item {
 item items[n]
 int capacity
 ```
+
+upd
+
+好像和人教版很不相关.
 
 ## elegant abstract best practice
 
@@ -336,25 +341,27 @@ Henceforth, to prove you're a JS developer, you'll need to show us the framework
 
 ## why english is so great
 
-> todo and combine
-
-> symbol language same
-
 conf res ans ref temp twi yt dev img hckr
 
 so many words and meanings can be rp with fewer than five letters
+
+wow impressive
+
+type fast and write fast with simple strokes
+
+chinese is not that sort
+
+efficiency value!
+
+and language is not good for such ideas and concepts
 
 打字快,写字快,笔画简单.声调表意.
 
 中文反之.
 
-限定,考虑效率的选择.
-
-语言是随意的,不深刻的.
+至于语言是随意的,不深刻的.
 
 ## improving textbook is useless
-
-> todo
 
 类比下棋,1 段,5 段.
 
@@ -372,6 +379,10 @@ so many words and meanings can be rp with fewer than five letters
 或者说 nat - preference
 
 并不是关于内容(难度,范围),而是关于形式(符号语言,学习方法)
+
+upd
+
+关于课本的反自学设计.并不重要.
 
 ## job hunting anxiety sucks
 
