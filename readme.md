@@ -455,31 +455,32 @@
   - `djhs` wax and wane of school life
   - `email` way to contact me
   - `swim` internet swimming guide
-  - `/recollections` legacy timeln
-- config
-  - `/config` `ubuntu config` elegant work flow
-  - `/config` `list ...` preferences
-  - `/config` `terminal ...` shortcuts
+- config 
+  - `/config`
+  - `ubuntu config` elegant work flow
+  - `list ...` preferences
+  - `terminal ...` shortcuts
 - notes
-  - `/notes` `wenyan` wenyan lang guide
-  - `/notes` `design` psychology in design
-  - `/notes` `plain` federal plain language
-  - `/notes` `competitive` competitive programming
-  - `/notes` `refactoring` refactoring ui
-  - `/notes` `xbox` video games travelling
-  - `/notes` `testing ...` google testing
-  - `/notes` `/react` react learn
-  - `/notes` `...` stack overflow documentation
+  - `/notes`
+  - `wenyan` wenyan lang guide
+  - `design` psychology in design
+  - `plain` federal plain language
+  - `competitive` competitive programming
+  - `refactoring` refactoring ui
+  - `react` react learn
+  - `xbox` travelling in video games
+  - `testing ...` google testing
+  - `...` stack overflow documentation
 
 ## repos
 
 - `blogging` notes and inspirations
 - `web` findings and capsules
 - `memories` life
-- `memories/perspective` cyber wanderer
-- `memories/insight` digital memories keeper
-- `memories/gaming` otaku gamer
-- `memories/school` lifelong student
+  - `/perspective` cyber wanderer
+  - `/insight` digital memories keeper
+  - `/gaming` otaku gamer
+  - `/school` lifelong student
 - `programs` source of all
 - `music` favorite songs
 - `fonts` favorite fonts

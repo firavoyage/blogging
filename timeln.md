@@ -1,12 +1,10 @@
 # timeln
 
-> no longer using `recollection_...` or `recall_...` as the daily journal
-
 ## vintage
 
 **`!ref`**
 
-> from elsewhere unordered
+> imported from elsewhere unordered
 
 坐标系
 微积分
@@ -140,11 +138,1802 @@ wzz!
 "缘起缘落"
 我告诉我同桌啦
 
+## vintage 2
+
+> imported from smartisan notes
+
+i used to use smartisan notes (till jan 2024)
+now i gave up
+because it missed a lot of features i need
+
+- sync using git
+- export files
+  also the major reason i used it was just to
+  put a few images together with a caption
+
+these are the things i would like to remember
+(i will delete the notes soon
+
+```
+# djhs memories idv
+他说古董商连空两棍
+像追_一样
+你还会跟着我走吗
+真心话大冒险
+fate
+我现在还不想睡~
+不二其心
+笃信.
+
+# idv
+和匹配的路人
+完成20m雾刃
+
+五排
+感受到burke的强度
+
+喜欢律师和囚徒
+
+# gi
+stories from nov12 2023
+
+miyoushe login history
+`unknown` 2021 07 16 last login
+
+changed the name from `T.wang` to `Fira`
+set the birthday
+
+meet `papa` on snow mountain one day
+
+unlocked all basic characters(amber,xiangling,barbara,collei...)
+
+upgraded anemo&geo statue to lv10
+
+changed the avatar
+- lumine
+- shogun
+- nahida
+
+meet papa's `keqing` & heard his `wish` story & shared my thoughts
+
+`宅女`
+`学霸姐姐`
+
+lunar newyear chat happily
+`和朋友去滑雪`
+`去哪玩了`
+`没有一起去吗`
+`绍兴`
+
+steal to inzakuma
+
+meet shiyuioo & pig godfather on bili
+
+soon i became lv45,lv50
+&
+the stories were no longer remarkable...
+just some wish histories, world quests, artifacts and so on...
+
+
+# cr
+stories from may 2023
+
+meet lciop on huya
+
+played a lot 2.6 before 5k trophies
+
+joined a lot of clans for cards donation
+
+discover the site `royaleapi`
+
+card evo
+
+joined clan `douyin search dapika`
+
+mohamad light got top ladder 1 2 3 with evo_fc miner
+
+played a lot lavaloon
+
+got a lot of coins by `chess event`
+
+played a lot goblin giant & e golem
+
+reached league 6
+
+watched some livestreams & leagues
+
+gzx lived with gf at midnight
+
+lv15 on rank mode
+
+light got top ladder 1 2 3 4 with miner poison delivery
+
+double evolution
+
+upg e golem deck to lv14 lv13 lv12
+
+i could no longer find the joy playing the game...
+just p2w
+
+but it's fun to watch videos & livestreams
+
+sometimes i play challenges & tornaments
+
+
+# weather
+oct 2023
+watched the bangumi
+`in solitude where we re least alone`(full)
+`huawuyu`(a few ep)
+
+two bs account got banned because of the use of script(mastery)
+also used it in cr & got 7k gems without ban (card mastery)
+
+nov 2023
+discovered zju calculus `sudekuang`
+
+played tuxun.fun
+
+# pages
+some blog posts
+most of them are on
+- zhihu
+- ancient chinese poems
+- short novels
+- wikis
+
+some quotes
+- screenshots on ruanyifeng's blog
+```
+
+## 20230000
+
+```
+# 2023 Summary
+At the end of every year people always make a sum up about what they have done.
+You may see some of them on ruanyf's blog,codeforces.com.
+For me, I finished junior high school with not such a hight score in high school entrance exam.
+But it was just the beginning of my life in Dajing HS.
+I had a few boring trips in summer vacation.
+I achieved No1 in the first exam at school but in fact it was meaningless.
+In Oct, I picked up my Lv1 GI account which was quickly abandoned after I reg it in July2021.
+I also played CR,BS,IdV,some galgames and some retro offline games a lot and it was really fun.
+I attempted to build friendships with some of my classmates but actually it turned out that I was too young and too naive.
+I progressed further in English, Math and OI.
+I would like to pick up my interest in Physics and Chemistry in the next year;
+To my wish, I will achieve more in the subjects I love and widen my impact on internet.
+```
+
+## 20240103
+
+```
+try printing sth...
+canon pixma e470 isnt on sys list
+fixed after download driver from its official site
+
+sync repos between gitee & github...
+It needs a gh api key.
+after I uploaded the gh_key on github,
+github detected it & automatically revoked it
+so gitee can no longer keep sync
+it took me a lot of time to find out what happened,
+I did so just for my inablity to recognize the keys
+finally here comes the solution{
+gh/keysabc/keysdef
+}
+yeah I just splitted it.
+
+learning git...
+although I can upload files online,
+but there's memory limit & it's a waste of time
+so many things just cant be done without git (qwq)...
+maybe I should follow the examples &
+avoid learning the whole git methods
+```
+
+## 20240116
+
+```
+in the world,one himself is not so important
+there's a player who is controlling the character
+the character is so naive that he knows so little about the player
+while the player is on the opposite
+obviously,the player feels more devoted in certain stories
+while pressing 'ctrl' or clicking the screen quickly in the others
+but the character wont be absent-minded
+in fact he acts the same...
+anyway,the player doesnt need to care
+he focuses on what he loves(his xp)
+sometimes we may feel powerless
+I think we can imagine the players
+and try to think in their ways
+they have their own memories & discoveries in their daily life
+they have their own wishes to ourselves
+they know what the road ahead of us can be
+yeah
+what really matters is the player himself
+he have been being with you since he started the journey
+&
+he will be with you forever
+```
+
 ## 20240117
 
 grade 1 autumn finished!
 
 > its always day 1 ❤
+
+## 20240123
+
+```
+written at 00:00 Jan24,2024
+
+i would like to play the galgame SenrenBanka
+after dl it from shinnku's personal site
+it cant be opened...
+it said that "missing krkrsteam.dll"
+i installed it but it didnt work...
+in the end, the game started properly after i changed the path to english
+(i installed wine before)
+
+soon i found that it couldnt present sound...
+(winecfg | audio | "selected driver:(none)")
+i installed libalsa but it didnt work
+i installed winetricks
+nothing happened
+i changed regedit
+nothing happened
+
+ok i gave up
+i installed virtualbox
+(a windows emulator)
+but it didnt work
+it just stoped at the windows installation
+
+finally i uninstalled wine
+installed it again
+it auto detected the alsa audio library
+then i opened the game...
+luckily everything just worked!
+
+happy...qwq
+```
+
+## 20240124
+
+```
+寒假初的一天。
+今天在云南旅行
+这里是3000m的高原
+不觉得缺氧
+昨天晚上凌晨睡的
+今天早上7点起床
+其实不晚
+但是写文章的时候已经是深夜了
+困，乏
+趴在床上一会，这是回想的好时机
+
+心情并不好
+一方面白天都在旅行
+然而在路上游荡并不是什么直接的精神刺激
+这可是消费主义的时代
+这可是享乐主义的时代
+不管了
+或许这样
+晚上休息休息才更舒服
+
+已经是1/6的高中生涯结束了
+下学期高一下...
+这学期印象最深的就是两次年一
+但是心境已经大不相同
+第一次是sept初态
+出分后几天
+忽然有许多同学叫我大哥
+我以为来djhs就是炸鱼的
+我认为来djhs是来炸鱼的
+没错
+像是一个长大了的小学生
+仿佛传承先帝遗志
+我说班里的同学年轻
+我似乎已然是学长的身份了
+快乐。
+
+当然我的快乐来源于
+每天被09奖励qwq
+
+后来oct考试有年二
+高一分。无所谓啦
+或者说我低一分
+
+后来两次几乎没有发挥
+也平常心看待啦
+至少每一天都有新的发现
+留下新的回忆
+当是在体验人生了
+
+期末的榜一对我的打击蛮大的
+我就是很想炫耀了
+我后来甚至觉得
+我对自己说
+“你可是被智慧之神庇佑的孩子啊”
+不只是平常心的问题了
+
+我现在只知道什么是 萌|kawaii
+怎样更 优雅|elegant
+已经再也找不到当时的心境了
+那种快乐。
+并非刻意追求的
+并不属于年轻人的
+。
+
+如今
+无论如何
+我再也不会活的如此自然了
+
+好在
+我知道我在做什么
+那就好。
+```
+
+## 20240128
+
+```
+这几天我一直在想着那些重要的事情
+关注那些重要的事情就好
+
+原神 45级
+语法 权威指南
+算法 模板题
+博客 年终总结
+如是。
+
+我想我知道我在做什么了
+我想我知道我要做什么了
+```
+
+## 20240129
+
+1
+
+```
+I would like to change my internet name
+choices below...
+Fira|言序
+fira|言序
+_fira
+_fira_
+__fira__
+
+At last
+I chose `Fira_言序`
+
+thats it.
+```
+
+2
+
+```
+下载了很多内容
+没有看
+
+玩终末之花 没有玩到干莲的结局 复制了个全cg存档结束
+看伤物语III VLC全程4倍速 就看了个被班长奖励 看了个结局
+玩gi 有人说45级是入门 我觉得这是毕业 长草的开始
+
+想说
+之前专门写了篇关于“重要”的文章
+
+或者说
+视频 小说 游戏
+把太多的东西展现给你
+我只能被动接受
+
+讽刺的图片 简短的文字
+反而给你想象的空间
+值得我细细品味。
+
+算了
+人生苦短
+开心就好
+
+May all the beauty be blessed
+萌 & 雅
+kawaii & elegant
+
+我想我知道我要做什么了
+```
+
+3
+
+```
+bilibili
+教科书 珊瑚宫心海
+> 心海的奶量好大
+```
+
+## 20240130
+
+1
+
+```
+我想做一个导出bili网站favlist的app
+1. 最无脑的实现
+使用按键精灵+chromium保存mhtml
+2. 一般的实现
+devconsole-network查询到api(大概率是json) 了解cppcurl的使用方法(带cookie的get请求) fstream的用法(save txt)
+直接save filename.json
+3. 最优雅的实现
+将所有的图片下载到 /img
+编写前端界面(grid,flex)
+
+长草了~好孤独,好漫长~
+我不知道...
+
+@firavoyage
+(Fira/apps/trkr?site=bili)
+```
+
+```
+upd 22:32
+
+放弃了
+
+想用最喜欢的cpp写
+发现我的g++默认不带curl库
+还要专门学习语法
+
+python request没装
+
+最后选择了js snippet直接在浏览器写
+/programs/bili_favlist.js
+
+然而输出莫名其妙 懒得debug了
+
+查了各种资料
+js regex
+ajax
+json parser
+file api
+
+或许全面学会fe技能再战更好吧
+暂告一段落!
+```
+
+2
+
+```
+hduacm lcy bili first cmt
+取得了3000多粉丝
+
+之前看到的yukeyin选题何为高级
+1w多吧
+
+不重要
+反正评论区好多人的回忆
+
+另外官网有lcy的课程(零基础+进阶)报名pdf
+存档在blogging/quotes了
+
+挺有意思的
+就是这样.
+
+(Fira/blogging/v?filter=oi)
+```
+
+3
+
+```
+每天我们都在用不同的工具
+他们大多设计的不优雅
+ui设计之外
+可以有统一的程序设计思路
+- api (command`/`,底层支持类似命令行控制)
+- ui (不需要html,代码是html的方言,底层2json | style在class里,css根据theme规范,不对单独的app编写)
+- 考虑 异歩的evlistener(利于人的理解&性能) | 同步的事件循环(利于复杂动画)
+多数不涉及多么精妙的算法
+或者被封装好了调用api
+
+我想我知道我要做什么了
+
+(Fira/apps?path=about)
+```
+
+4
+
+```
+玩原神
+咋玩了半天还是42级?
+我想刷本了!
+```
+
+(2)
+
+```
+第二次追想
+22:53
+```
+
+```
+刚放弃了bilifavlist.js
+想着做任何事情都要有好的工具
+
+工具教育着使用者
+使用者培养了工具
+
+没有好的工具不如先放下手头的工作
+以cpp和web举例
+```
+
+cpp
+
+```
+算法库肯定要带的
+eg
+
+powmod(int x,int a,int mod) // 快速幂
+
+bs(int a[],int l,int r,bool up=1) // 二分搜索 默认升序 没有-1
+bsl(...) // 没有返回left的index
+bsr(...) // 没有返回right的index
+```
+
+js
+
+```
+obj s(string sel) //give css_selector return elementslist
+void l(obj e,string template) //convert the string into html & set innerhtml (l for load)
+/*
+the template syntax goes like this
+
+d .search .bar #myid{
+  input .search .bar .input{
+  }
+  button .search .bar .button{
+    "search"
+  }
+}
+*/
+void ls(string theme) //no need writing css for each app, just write the template theme & use them by class like tailwindcss
+/*
+the theme syntax is similar to less
+*/
+
+obj g(string url,obj headers,int t) //if timeout return {status:-1}
+/*
+the return goes like this
+
+{
+status: 200,
+type: "b", // b for binaryfile | t for text&json&anythingelse
+data: obj data
+}
+*/
+
+obj p(string url,obj headers,obj data)
+
+// and function library of cource
+```
+
+## 20240208
+
+wrote status_20240208
+
+(the original)
+
+```
+# status
+
+16岁 | 年一 | dd | Fira | 言序
+
+# work
+- 寒假作业: 想做的都会完成
+  - eng 中译英
+  - math 拓展题
+- plan: 这个学期很多的校内时间都在追求不存在的快乐(boring)
+  - next 做一些物化地的作业,英语一模
+
+# life
+- gi
+  - status
+    - 4.3版本开始玩
+    - 还有15个小月亮 > 草本 绝缘本
+  - quests
+    - archon: fontaine
+    - world: done a lot
+  - teams
+    - etenity(shogun xiangling bennet xingqiu/barbara) wisdom(nahida xingqiu kuki)
+- cr
+  - 新赛季 情人节 选了觉醒骑士
+  - 感觉就是pay2win 长草了
+  - 正在跑脚本刷皇冠(卫队超骑电车水人杂鱼 无脑沉底)
+- idv
+  - 长草
+- gal
+  - 推完了终末世界与不败之花
+  - 妹调教日记 推了一半
+  - android上下了很多ons krkr
+  - ubuntu上wine测试ok `a thousand colors of love`
+  - 下一部大概就是丛雨啦
+
+# dev
+- oi
+  - cpp primer plus 里面有很多高级技巧 (#define,lambda...)
+  - luogu problem list
+- web apps & extensions
+  - 不知道用啥框架 当然不是react vue之类的
+  - 不知道wasm会不会普及
+  - 一些简单的理念
+    - data view
+    - terminal available
+    - html在js中解析 css(stylus? themes)
+```
+
+## 20240209
+
+1
+
+```
+i really love playing gi
+everyday i make some new progress
+here's what i've done
+in three parts:
+- novel reading
+- treasure hunting
+- characters developing
+```
+
+2
+
+```
+wrote status_gi_20240209
+```
+
+(the original)
+
+```
+# today
+- used 1000 original resins to get artifacts(for nahida & kuki)
+- finished `The Chasm` world quest
+- made two four-star weapons: `wood sword` `iron sword`(for bennet & kuki)
+
+# so far
+- my account reg in july 2021
+- start playing from nov 2023
+- now adventure rank 49
+
+## novel reading
+- archon
+  - currently at fontaine
+- story
+  - klee
+- world(remain)
+  - sacred sakura cleansing ritual
+  - tatara tales
+  - the moon-bathed deep
+  - khvarena of good and evil
+  - ... a lot of small quests
+
+## treasure hunting
+- collected all anemo&geo culus
+- exploration progress
+  - mondstadt 64%
+  - liyue 48%
+  - inzakuma 17%
+  - sumeru 15%
+  - fontaine 19%
+
+## characters developing
+- teams
+  - etenity: shogun xiangling barbara bennet
+  - wisdom: nahida xingqiu kuki fira(dendro)
+- weapons
+  - prototype starglitter
+  - the catch(refine 2)
+  - favonius codex
+  - sapwood blade
+  - prototype rancour
+  - sacrificial fragments
+  - iron sting
+  - sacrificial sword
+  - eye of perception
+  - sacrificial bow
+  - the stringless(refine 2)
+  - snow-tombed starsilver
+  - the bell
+- artifacts
+  - shogun xiangling xingqiu | emblem
+  - barbara | maiden
+  - nahida fira | deepwood
+  - kuki | gilded
+```
+
+## 20240228
+
+```
+as a grade 1 student in djhs
+today i took the `foreign teacher` class
+
+about `digital writing`
+
+these are a few moments
+
+ft
+huzhenghao you use pornhub?
+h
+no ...
+(kind of boring words
+
+f
+he bet a lot
+ft
+i used to bet in hs but i no longer bet any more
+
+ft
+blogging is a way of digital writing
+you should use wordpress medium blogger etc
+f
+but things you metioned are all blocked by the great fire wall
+
+ft
+do you use vpn
+f
+which one do you use
+(a few vpns & v2ray
+ft
+some cheap ones but it works
+
+f
+the ppt looks nice
+i dont belive that you made it all by yourself
+ft
+no i used template
+f
+so did you obey the content policy
+where did you dl it from
+ft
+i just searched `free ppt`...
+```
+
+## 20240229
+
+the last day of feb
+
+1
+
+```
+i created a new fav list folder `pin` on bili
+& put some special videos inside
+- new uploader,new video,100k times played(how to attract a lot of viewers from scratch
+- some inspiring ones(how to enlarge the tiny emotions
+- some interesting strategies(how to bewitch the audience
+to help me understand the secret of video making
+```
+
+2
+
+```
+i think i should make a js tool to deal with it
+- give every video tags instead of using folders to classify
+- auto capsule the videos i want by simple rules(pub by who | reached certain times played | contained certain tag | etc
+- import&export the data
+```
+
+3
+
+```
+今天是2024.2.29 语文
+为啥记录呢?因为陈诗瑜太对我xp了...(雾
+(现实中攻略了多少男主啊qwq
+无非新课和默写
+# 新课
+通过史记庄子引出庖丁解牛
+- 庄子简介
+- 庄子写的渔父,偷盗相关
+- 论据:盗钩的被逮捕,盗国的成为诸侯
+- 庄子擅长微言大义,通过讲述寓言反映道理
+说明了史记中含有作者的主观臆断,举孔子和项羽的例子证明(没有陈涉
+由微言大义引出一个故事(并不是幼儿园午睡的故事
+- 庄子物质贫精神不穷,向朋友惠子借小钱,朋友...
+- 鱼的故事: 等你带着军队把吴越的水引进来,去市场找我吧,我按斤买了!
+(啊 f也向去超市找你 f也想超市你!
+
+# 默写
+并没有啥意思(也许...
+- 这个妹妹我见过~(红楼梦友情客串
+- 别抄书了! 抄我!
+- 别抄写了 在抄就要出写了!
+- 找个凶大一点的妹妹
+- 舒服了
+
+我知道你不喜欢我 但是我还是想上你(tg
+
+我们班上有两种人
+一种是像小a一样肉眼可见的 (??
+一种是像小b一样藏在心里的 (??
+像小b一样的对女孩危害更大 (大雾! 陈语
+
+好 又是愉快的一天呢!
+
+# 后续
+f
+啊啊啊 你是不是把我检举了!我被榨干啦!
+c
+我没有检举你!
+我要是怪你
+我早就骂你了
+f
+嘿嘿
+肥宅赛高!
+```
+
+## 20240304
+
+1
+
+```
+today is the first exam of sh dj hs g1t2
+chinese unknown(maybe average)
+math 96-(maybe lower)
+english -24.5(objective questions) -5(translate,maybe)
+
+not good
+but im happy after all(finished! im coming for the new life!
+qwq
+```
+
+2
+
+```
+gi is so boring
+
+new week started
+what can i do?
+i can defeat weekly boss,complete repu quests,challenge the domain for artifacts
+i should complete four quests every day
+i should collect materials and defeat small monsters to upgrade my characters
+
+just repeative works so boring so tired
+i gave up
+now i only play gi at weekends
+
+i discovered the game al recently
+the boats(girls) in al are so attractive
+i can even marry with some of them
+everything was on my `xp`(what i really desire)
+everyday i only need to click some buttons
+then the battles will be completed automatically
+i love the life as a commander!
+```
+
+## 20240305
+
+1
+
+```
+sh djhs g1t2 memories
+陈 你平时都做我们老师多没意思啊 偶尔做我老婆也挺好嘛
+qwq
+
+考试成绩出了大概
+不理想 但反而好
+因为平常心嘛
+不必和山外的山比
+只和我在意的人比较
+09 15 21 38
+```
+
+2
+
+```
+bilibili fav
+有了一个`fav`的设想 (-> project.md)
+当然现在不可能去实现
+还得自己管理favlist
+整理的过程也很有意思
+分类 | 合并 | 去除
+
+最喜欢 `皮蛋粥加辣` 了
+```
+
+3
+
+```
+bilibili retro style
+
+好多回忆啊
+
+- `已失效视频` (早期mmd鬼畜 + bili`和谐`视频)
+- `告别2022` (皮蛋粥 + 世界杯 + 疫情回忆 + 生活情感)
+- `洛谷2019延时绘图`
+
+- 各种收藏夹的内容(-> fav|firavoyage)
+```
+
+## 20240307
+
+```
+wrote thoughts on artificial intelligence
+```
+
+## 20240313
+
+1
+
+```
+foreign teacher
+
+"leaving gi behind is the best decision ive ever made"
+
+some good parts & bad parts of gi
+
+chatting with ft is really interesting
+but not so impressive
+so i prefer not to mention it
+
+for me
+
+i once play gi a lot
+but gi is actually a visual novel
+after reading its kind of boring
+
+yeah theres always something new
+but in fact the contents updated once a month
+can be played in a few days
+for example like 2 hours a day
+
+so it stayed still in my phone
+but i no longer play it so often
+```
+
+2
+
+```
+bili -> sora
+
+"longing goodbye"
+
+`in solitude where we are least alone` is a galgame of great historic importance
+
+the video mainly talked about the person who drew the character `sora`
+his life experience
+his status now
+```
+
+3
+
+```
+bili -> debate
+
+lots of debate are based on meaningless title
+about personal choices
+`doing sth is wrong or not`
+
+these titles may attract viewers
+but actually
+one should never prevent others for making own decisions freely
+
+after all
+its interesting
+i prefer not to use bots to make summaries
+but to listen to the speakers
+```
+
+## 20240317
+
+1
+
+```
+//alias: math noskill
+
+突然想要
+做一套标准化的数学课
+<纯度数学 | pure math>
+<math noskill>
+<bot-gen hs math courses>
+
+# mission
+to organize the world's knowledge
+and make it easy and unified
+让数学简洁有序
+
+具体地
+- 使用现代(base on web)的工具
+- 维护统一的风格
+- 运用先进的解法(就像习惯了打字就回不去手写那样)
+- 基于自由共享的协议
+> 这是我最先想到的几条.
+
+# tools
+- `pre` markdown presentation
+- `latex2` symbols simple
+- `v2t` use kawaii voice to read textbook
+- `obs` record screen
+- `fira` where everything happens
+
+# why
+缘起...
+
+我的高中数学老师
+老王
+还有几年就退休了
+
+复杂的计算与思考
+早就不属于他了
+
+为什么能从容的讲课
+我相信
+是纯粹的技巧给予他的力量
+使得一切成为可能
+e.g.
+a=(a-b)+b,a-2b=(a-b)-b
+...
+
+即使学业考试不断竞赛化
+我相信
+永远**可以**用朴素的思想简化之
+
+# future
+一些比较纯的学科也可能成为未来的一部分
+而有些则不应如此
+
+# timeln
+大概今年(july 2024,shdjhs g1t2 to g2t1)暑假开始吧
+如果我没有被各种事情占据的话...
+真希望啊
+
+# ref
+nat.org - moral duty
+```
+
+2
+
+```
+wrote meaningless time of a student
+```
+
+3
+
+```
+wrote about_me.md
+
+包含
+学习生涯
+和
+我最喜欢的
+各种事物
+
+incl
+school life &
+my fav list
+```
+
+4
+
+```
+# 关于高中选修课程
+
+以a学科举例
+一周一节课,40min
+一学期实际上课约15周
+总共统计约10h
+说白了
+一个学期的所有内容
+无非一个周末两天
+一天5h即可
+尤其是一般学校
+对于中等难度的自由学习资源
+有很多了
+```
+
+5
+
+```
+wrote all skills needed for android dev
+```
+
+## 20240319
+
+1
+
+```
+学工的第二天
+无聊
+有时有趣
+
+唯一的思想是
+软件太高级了 也太落后了
+其实强大的功能并不意味着复杂的操作
+希望他们能明白哦
+```
+
+2
+
+```
+wrote firascript_v0.1
+& firascript0.2
+
+以前想设计理想的c++方言
+但最后发现
+改进的无非是
+- 补全(`auto`,`;`)
+- 宏(如循环宏)
+前者改动不大 而且是在影响理解的代价下简化编写
+后者可以用c++ template直接实现
+所以最后放弃了
+是的
+> 比c++高级的语言往往以c++作为实现,比c++低级的语言则过于简陋
+
+但js的现状就真的值得改进了
+js有大量令我费解的东西
+`NaN!=NaN` what?
+`==` `===` conclusion: former is useless
+`function` not `fn` `func`
+`this` various meanings
+`var` `let` conclusion: former is useless
+尽管es6**新增**了许多特性
+但是保持对历史的兼容
+意味着不可能有真正的**改变**
+而其方言`ts`
+也并没有处理令我费解的东西
+
+`firascript`
+或许会成为解法之一
+
+> 从空隙处着手
+> (庖丁解牛)
+```
+
+## 20240323
+
+```
+wrote asking_myself.md
+```
+
+## 20240324
+
+```
+wrote liberty&equality
+```
+
+## 20240326
+
+1
+
+```
+bili
+`先天圣体`
+
+评价
+- 仲永
+- 纯粹的学习
+- ~渴望 再见~
+```
+
+2
+
+```
+read prism.js
+except lots of compatible codes
+main functions are
+- matchToken()
+- matchGrammar()
+the attr of the two functions are strings
+which are actually regex
+does regex have a high performance speed?
+maybe
+
+but i still prefer to use grammar-tree in compiling firascript
+(maybe fs0.6)
+- fs0.4 detailed steps
+- fs0.5 getch eat read
+- fs0.6 grammar tree
+```
+
+## 20240329
+
+1
+
+```
+以后就叫recall吧
+因为比recollection高级嘛
+~才不是为了少打三字母~
+```
+
+2
+
+```
+春游!
+鲜花港!
+老蒋!
+老王!
+陈妹妹!
+prprpr!!
+<-第7次考试
+```
+
+3
+
+```
+写了点文章
+- study bot wtf
+- who am i
+```
+
+## 20240330
+
+```
+wrote
+- misuse of words
+- anti cencership
+```
+
+## 20240402
+
+1
+
+```
+sync /blogging
+including bookmarks,sl...
+```
+
+2
+
+```
+dl `nulls clash`
+pure gamplay
+no p2w
+real fun interacting with real players
+
+but i spent a lot of time reg nulls connect
+tried zohomail and outlook but couldnt get the code
+fin tried gmail and succeeded
+```
+
+3
+
+```
+then i wanted to add mail accounts to my mail cli
+ive done that in thunderbird on my ubuntu before
+but thunderbird doesnt have a mobile ver
+"your best bet is to try z9mail"
+added zohomail,outlook
+and it worked
+
+failed several times dealing with gmail
+it took me a lot of time
+at last im tired and happy
+
+but i still dont know why!
+maybe my v2ray nodes are in a poor condition
+maybe its google that no longer support imap api and forced me to use oauth2
+anyway
+fin it all worked
+```
+
+## 20240403
+
+1
+
+```
+updated djhsgrades
+所有成绩出来了
+老蒋296年一
+他该拿年一了
+```
+
+2
+
+```
+lin ch78
+在办公室
+在陈身边
+一直哭...
+
+(如初中的女孩...)
+```
+
+## 20240404
+
+```
+Qingming festival begins!
+
+wrote
+- pure math
+- why subjects
+```
+
+## 20240405
+
+```
+wrote qingming homework
+
+wrote fijs0.1
+
+bs new ranked season
+```
+
+## 20240406
+
+```
+played bs a lot
+
+ranked from bronze to diamond
+(qwq)
+
+bs cnml server club `ut` established
+a lot of arguments about how they profit
+
+wrote
+- bot wtf
+- fi0.2
+```
+
+## 20240407
+
+1
+
+```
+movie
+
+看了电影
+宫崎骏的
+
+看不懂
+不知道在说什么
+
+画面观感可以
+```
+
+2
+
+```
+bs
+
+作为f2p玩家
+devvhy@zohomail.cn的号
+mastery打满了
+
+靠着日常奖励
+养成速度很慢了
+而角色池有很多既不强
+又没意思的
+- shelly
+- darryl
+- ...
+排位永远选那几个
+- colt
+- spike
+- bull
+- leon
+其他的往往都没有满配置
+比如没有好starpower,hypercharge
+不想玩了
+
+所以今天开了个新号
+firavoyage@outlook.com
+
+写了个新脚本
+rp{
+攻击,移动 1min
+刷新网络
+}
+内容应该还是双击
+3v3效率更低
+5v5不是一直有
+
+大概就是这样
+这次只培养喜欢的角色
+```
+
+3
+
+```
+new week plan
+
+现在是周日凌晨
+qingming festival
+今天白天补周五
+
+上周好多想做的事没做啊
+月考大概年3吧 -> djhs grades
+这周要好好计划了
+
+school life
+- read `观念的水位`
+- solve problems
+
+at home
+- run `bs` program
+
+after school
+- read `js` `cpp` tut
+- play gal `in solitude`
+- do daily `duo` `al`
+
+weekend
+- watch bangumi `...`
+- watch live -> simplelive
+- play gal `...`
+
+-> week plan
+```
+
+(2)
+
+1
+
+```
+bs script upd
+
+下午
+发现bs的脚本好多双击平局
+灰色的
+不结算专精和杯数
+
+于是improve了一下
+更加激进
+
+- 连续点击30次(attack)
+- 滑动(move)
+- 每3min左右网络重连(network)
+
+原来attack1move1
+还有随机延时和偏移
+看起来更像真人
+反而导致大量灰色对局
+
+关键是
+现在已经没什么好害怕的了
+
+培养几个角色即可
+没那么复杂
+
+我仿佛又找回玩bs的初心了
+```
+
+2
+
+```
+bili fav
+
+有了整理bili收藏的想法
+不过不着急实现
+
+将来integrate 到`fav`里面
+配个优雅的gui
+```
+
+## 20240408
+
+1
+
+```
+sl
+
+今天上学有点困
+今晚早点睡觉
+```
+
+2
+
+```
+dev
+
+读了vkingz的blog
+关于`easycv`的solidev
+有些感悟
+```
+
+3
+
+```
+dev
+
+想到了fi
+我想
+所有的compo
+大概都是模板+config{data,style}
+
+而config是不可能用html的
+所以一定要把compo写在script里面
+只不过不一定是html格式了
+```
+
+4
+
+```
+sl plan
+
+明天信息课
+手动整理bilifav一下
+```
+
+## 20240412
+
+```
+gi videos
+
+曾经想做个原神的视频合集
+现在放弃了
+
+一方面
+我要用english interface
+english cv
+而我目前只有高中水平
+至少背点gre单词之类的吧
+
+另一方面
+gi不是文学作品 也不是gal
+终究一个游戏而已
+不一定值得用形而上的视角看之
+```
+
+```
+anime games
+
+cg163com
+玩了一会儿
+- 尘白禁区
+- 深空之眼
+
+终于明白了
+如果要长时间游玩的话
+游戏性很重要
+看初心吧
+有的人喜欢而已
+
+就像有很多人喜欢galgame
+仅此而已...
+```
+
+## 20240413
+
+1
+
+```
+eng
+
+英语是世界上最自由的语言了
+
+可是这并不是人人都能使用的语言...
+对于世界上很多地方的人而言
+没有长期的努力
+连玩个原神都费劲
+
+我想语言不该是这样的啊
+难道还叫我们看翻译?
+
+不自在
+所以我要做个程序玩玩`pure`
+
+不妨不要把语言当成工具了
+当成艺术作品学好了
+
+先把能看见的几千个词和用法记住
+然后就自由了
+
+(好一个鼓舞人心的废话啊)
+```
+
+2
+
+```
+ancient chinese
+
+蛙趣
+
+我这都学的啥啊
+统编高中课本
+
+tm
+让我学促织
+学完我都不想活了
+想魂化成虫了
+
+大型科幻片啊
+
+原本自己读
+读个大概 像读轻小说一样
+字字落实
+反而不自在了
+```
+
+3
+
+```
+jp
+
+其实1和2
+是有关系的
+
+日语也是如此
+
+现在看一些日文词
+cv
+也学一些
+
+会不会听懂了就失去了本来的意味呢?
+```
+
+(2)
+
+1
+
+```
+retro
+
+good old days...
+
+i once use twidere
+then twi closed its api
+
+i reg a twi account
+the app is full of the smell of elon
+
+then i attempted to change my username
+and it's said `rate limited`
+
+wtf
+```
+
+2
+
+```
+idv
+
+in the ivl
+all i've seen is among the following list
+- 歌剧
+- 鹿头
+- 使徒
+- 邦邦
+- 女巫
+- ...
+
+if everyone plays the same characters
+how boring the game could be
+
+now i understood why i left idv
+i believe my choice was right
+```
+
+## 20240414
+
+1
+
+```
+oi
+
+看了绿导师的oi劝退视频
+
+这是我的想法
+
+首先
+大部分人的校园生活
+总是在学习中度过的
+
+有人说
+> 买菜不用微积分
+> 搬砖不用解析几何
+> 前端不用高级的算法
+
+学习的意义当然不仅限于技术
+还可以学到别的能力
+- 总结归纳
+- 审美,阅读理解
+- 时间规划
+- ...
+
+oi也是一样的
+
+假设有abcde难度递增
+很多人而言
+学会了a的想学b
+学会了b的想学c
+只不过
+把有限的学习时间给更有意义的事情罢了
+
+当然能看到许多真心喜欢oi的人
+可以在各种网络社群看到他们
+
+至于那些反对的声音
+无非两点
+- 刚学会a就教我e
+- 不喜欢oi
+
+对于前者
+可能的解释是
+
+虽然对于学习者
+他学不会
+但是对于教学者
+abcd都是前人之述备矣
+教e才与时俱进
+
+只能天真单纯的希望
+他有强大的理解能力啦
+
+对于后者
+知识的海洋是广阔的
+或许他还没有发现自己的喜好
+或者学习能力一般
+那就算了吧
+
+elegant != simple != easy
+```
+
+2
+
+```
+beamer
+
+beamer isnt based on markdown
+so it couldnt replace `pre`
+```
+
+(afternoon)
+
+```
+outdoor
+
+去了`time park`玩
+一个室内游乐园
+一下午
+
+# 看到了一个小伙子
+f
+感觉好幼啊
+reply
+我01年的
+(他坐着打手机)
+(领导把手机收走了)
+f
+你手机被收啦
+r
+我两部手机都收走了
+f
+你好像高中生啊
+感觉和我同学差不多
+r
+我骗你的
+我06年的
+f
+你哪个学校的
+r
+...(没听说过的pudong)
+f
+你们学校竞赛文化咋样
+r
+...(没听懂)
+f
+比如数学竞赛物理竞赛oi
+r
+...(职业学校)
+学3d的
+暑假7月乐园刚开进来了
+f
+...(没听懂)
+r
+...(学计算机的)
+f
+编程吗
+r
+...(3dmax)
+(...)
+(f)
+人间百态啊
+各有各的乐趣
+就是充满了青春的活力
+
+# 看到了一只情侣
+带着幼儿园小男孩
+情侣真可爱啊
+
+充满了青春的气息
+感觉像刚谈恋爱一样
+
+年轻真好啊
+```
 
 ## 20240425
 
@@ -3123,9 +4912,12 @@ node erred. changed to an american node. everything worked well just like before
 
 no more "google supports..." or slow connection.
 
+10:12
+
+merge recollection and timeln
+
+sync phone.
+
 11:30
 
 movie. `a frozen rage`
-
-
-

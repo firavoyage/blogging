@@ -1,3 +1,0 @@
-```
-wrote liberty&equality
-```
