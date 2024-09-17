@@ -319,6 +319,8 @@ If you're not solving problems or writing up contributions, then don't blame me 
 
 I'm perfect enough already. What else do I need to prove? Of course, I could write a few more books... but what would I get out of that? Why should I bother?
 
+像等级没到45,狂刷圣遗物.
 
+啊!腿软了.
 
 

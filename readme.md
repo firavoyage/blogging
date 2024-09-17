@@ -315,7 +315,6 @@
   - prettier 9.2.0
   - wenyan 0.3.4
   - g++ 13.2.0
-  - python 3.12.3
   - antennapod 3.1.2
   - baobab 46.0
   - bilimiao 2.3.8.3
@@ -333,9 +332,11 @@
   - kdenlive 23.08.4
   - libreoffice 24.2.5.2
   - material-files 1.4.2
+  - nautilus 46.2
   - nekogram 11.0.0
   - obs-studio 30.0.2
   - onscripter-yuri 0.7.4
+  - python 3.12.3
   - qbitorrent-arnatious 4.3.9
   - simplelive 1.7.3
   - snapseed 2.19.1
@@ -460,6 +461,8 @@
   - `/config` `list ...` preferences
   - `/config` `terminal ...` shortcuts
 - notes
+  - `/notes` `react` react learn
+  - `/notes` `wenyan` wenyan lang guide
   - `/notes` `design` psychology in design
   - `/notes` `plain` federal plain language
   - `/notes` `competitive` competitive programming

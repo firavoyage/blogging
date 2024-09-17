@@ -681,7 +681,13 @@ school
 
 时间紧迫,先做题再读题,分类讨论了不符定义域的情况(最后都没有舍解)
 
-压轴第一问,要用定义证明$sin2x+acosx,a < -2$在$[0,2\pi]$严增,任取...作差失败,还固执地在草稿纸求导试试看(浪费时间).
+**`!math`**
+
+压轴第一问,要用定义证明
+
+$y=sin2x+acosx,a\in(\infty,-2),x\in[0,2\pi],y^{'}>0$,
+
+任取...作差失败,还固执地在草稿纸求导试试看(浪费时间).
 
 然后第二三问讨论三角函数零点情况,其实好做的,没时间了
 
@@ -1265,11 +1271,15 @@ ruanyf 看的只剩周刊了
 
 考定义法证明单调性,本质是考这个
 
+**`!math`**
+
 $a>b>0$,$c<d<0$,证$ac-bd<0$
 
 abcd 都是多项式,不过条件不难推
 
 高一的时候做这个,我想到的是
+
+**`!math`**
 
 令$a=b+m$,$c=d-n$,$m,n>0$
 
@@ -2519,6 +2529,7 @@ retro...
 
 **`!important`**
 **`!ref`**
+**`!math`**
 
 $
 \{a_n\},\forall n \in N^+,a_n > 0,a_{n+1} \leq S_n \\
@@ -2806,6 +2817,7 @@ added to weekly.
 
 **`!important`**
 **`!ref`**
+**`!math`**
 
 $x^2+y^2=1,((x+1)(y+2))_{max}?$
 
@@ -2981,6 +2993,10 @@ ask mistral
 
 无线蓝牙的.选简单的.
 
+**oneplus buds** at the end of the day
+
+simple choice.
+
 ## 20240916
 
 00:52
@@ -2992,4 +3008,124 @@ ask mistral
 重复:永远,永远不要开洗漱间的窗户.
 
 (直接用透明胶连上把手.)
+
+11:47
+
+选了个耳机.
+
+**`!ref`**
+
+**oneplus buds3**
+
+本来还想选个,ios4,h2os 的手机怀旧,又不贵.
+
+只是大概也不会用,作为艺术品,那一些图片和动画就可以抽象之.作罢.
+
+15:18
+
+**`!math`**
+
+$\forall a,b,f(x)=ax+b,g(x)=2^x,\exists infinity x_0 \in Z,g(x)>f(x)$
+
+**`!math`**
+
+提问第三.蒋之骏说:"这不是很简单吗".
+
+> 是题你不会.我也不会.
+>
+> 你说,高考数学想考 135 以上的话,一定要看会看懂,答案很详细.
+>
+> 你欣赏步骤,排版符号,整理语言.我读了答案.高处不胜寒.
+
+20:03
+
+吃饭,去一个大商场
+
+琐碎思想,不知因何起.
+
+忘我思考, [9/16/24 6:37 PM]
+我父母的生死，这个世界没什么变化
+
+忘我思考, [9/16/24 6:37 PM]
+我爸铁道毕业，后来并入同济，开始设计院工作片刻，一直在上海电气，一天大部分时间在 outlook 和 conf
+
+忘我思考, [9/16/24 6:37 PM]
+我妈复旦博士，在红房子妇产科，她的同事和她是一样的，一样的病人，一样的检查
+
+忘我思考, [9/16/24 6:37 PM]
+认识他们的人把消息给我
+
+忘我思考, [9/16/24 6:37 PM]
+或者说遗产，但钱对我不重要了
+
+忘我思考, [9/16/24 6:37 PM]
+有些人的生命对世界是很重要的
+
+忘我思考, [9/16/24 6:38 PM]
+像 ruanyf,他不在了，我就看不到周刊了
+
+忘我思考, [9/16/24 6:39 PM]
+像 evanyou,dan，前端框架不难，难在取舍，开发这些功能，舍弃那些，要不要向后兼容，或者说 optionated
+
+忘我思考, [9/16/24 6:40 PM]
+或者说感情？
+
+忘我思考, [9/16/24 6:40 PM]
+我活不到她 departed
+
+忘我思考, [9/16/24 6:41 PM]
+几百年的少女哦
+
+忘我思考, [9/16/24 6:42 PM]
+三次元哪有真正的爱情，太琐碎了，不抽象
+
+忘我思考, [9/16/24 6:43 PM]
+文学作品有
+
+忘我思考, [9/16/24 6:43 PM]
+我坚持唯美主义，或者说客观唯心
+
+21:05
+
+明天生日,后天初态.
+
+birthday...
+
+**`!important`**
+**`!ref`**
+
+- gift `oneplus buds 3`
+- gift `origami paper one side 60cm`
+- cake `21cake black label`
+- movie `a frozen rage`
+
+## 20240917
+
+birthday.
+
+09:36
+
+hair cut. 1mm.
+
+not now. maybe afternoon.
+
+thinking about gifts and cake. can be delivered today?
+
+maybe. but typhoon is striking here in shanghai. ok now gone.
+
+09:45
+
+open google.
+
+birthday balloon on my profile avatar. (qwq)
+
+node erred. changed to an american node. everything worked well just like before.
+
+no more "google supports..." or slow connection.
+
+11:30
+
+movie. `a frozen rage`
+
+
 
