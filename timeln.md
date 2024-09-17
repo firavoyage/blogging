@@ -4940,3 +4940,9 @@ had cake. `21cake black label`
 
 sync phone... so many files. maybe tomorrow.
 
+22:02
+
+watch a few vid about composition from chinese teacher learned oil
+
+sleep.
+
