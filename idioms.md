@@ -327,5 +327,7 @@ I'm perfect enough already. What else do I need to prove? Of course, I could wri
 
 重筛选,轻培养.
 
+上课?上什么课!上课多耽误学习.
+
 
 

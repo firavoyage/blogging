@@ -214,7 +214,8 @@
   - reddit old
   - v2ex creative
   - nga bbs
-  - zhihu
+  - zhihu following
+  - wenxuecity
   - mistral chat
   - wolfram alpha
   - geogebra
@@ -261,6 +262,7 @@
   - huang zhizhong
   - interpreter gavin
   - james sinclair jrsinclair
+  - jiang yanyan
   - jiang zhijun
   - jiangly not dd
   - jjying iconmoon

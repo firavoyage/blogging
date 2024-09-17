@@ -4945,4 +4945,3 @@ sync phone... so many files. maybe tomorrow.
 watch a few vid about composition from chinese teacher learned oil
 
 sleep.
-
