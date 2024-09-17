@@ -4921,3 +4921,22 @@ sync phone.
 11:30
 
 movie. `a frozen rage`
+
+15:37
+
+movie watched. oridinary comedy.
+
+`oneplus buds 3` arrived.
+
+18:28
+
+`origami paper 60cm*60cm` arrived.
+
+so large! wrapped in a hard paper barrel and foams
+
+20:56
+
+had cake. `21cake black label`
+
+sync phone... so many files. maybe tomorrow.
+

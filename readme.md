@@ -129,6 +129,7 @@
   - the scholars (wu jingzi)
   - what i have seen (chai jing)
   - one hundred years of solitude (gabriel garcía márquez)
+  - i wandered lonely as a cloud (william wordsworth)
   - .meditations on life (zhou guoping)
   - .fortress besieged (qian zhongshu)
   - .godel, escher, bach (douglas hofstadter)
@@ -400,7 +401,6 @@
   - waiting and shining with the freshest hope and warmest aura.
   - some day. till then
 - veni, vidi, vici
-  - i came, i saw, i conquered
   - so much for this, have a nice day.
 - soli deo gloria.
   - god is light, and in him there is no darkness at all.
