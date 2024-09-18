@@ -4906,7 +4906,7 @@ maybe. but typhoon is striking here in shanghai. ok now gone.
 
 open google.
 
-birthday balloon on my profile avatar. (qwq)
+birthday colorful balloons flying over my profile avatar. (qwq)
 
 node erred. changed to an american node. everything worked well just like before.
 
@@ -4945,3 +4945,102 @@ sync phone... so many files. maybe tomorrow.
 watch a few vid about composition from chinese teacher learned oil
 
 sleep.
+
+00:13
+
+finished everything. sleep.
+
+tomorrow:
+
+**`!ref`**
+
+- djhs g2t1 first monthly exam
+- sync phone and categorize things
+
+## 20240918
+
+17:57
+
+djhs g2t1 first monthly exam finished.
+
+wrote on black board "关注永雏塔菲谢谢喵"
+
+played big screen at school "cloud gi mail received kinich 80shots"
+
+pork is delicious
+
+unconciously ignored one condition in math contest.
+cant work out any more. wtf.
+
+math choice question "b"\*4
+
+(in teachers' office)
+
+- wangzhaohai:
+- choose your problem. (a few small papers with a number in hand)
+- liuyuan:
+- (pick one)
+- problem 16!
+- wow it's easy one! (happy)
+- wangzhaohai:
+- pick another for teacher x
+- liuyuan:
+- (pick one)
+- problem 15.
+
+(after school 放课后)
+
+- (at class 1)
+- one playing fire ninja with his classmate
+- one playing ba blue archive battling with another player in auto mode
+- one playing gi genshin impact explaining his stategy and i gave him my account
+
+about origami...
+
+- choose a tranquil afternoon
+- start with sr sparkle
+
+## 20240919
+
+00:08
+
+visited inot.top
+
+well flutter seems awkward.
+
+replace all lines into words and spaces
+
+- span"hello" span"" span"world"
+- not span"hello world"
+
+and all geometry into canvas (not svg)
+
+01:05
+
+**`!math`**
+**`!ref`**
+
+title: 补档.国家信竞集训队员qingyu教你如何挂人
+
+https://web.archive.org/web/20240905081058/https://qoj.ac/blog/qingyu/blog/971
+
+01:55
+
+**todo. 周五前早睡.周五放课后踢球.**
+
+viewed some life stories about oi school and student he.
+
+foresight which is actually experience++
+
+sleep zzz...
+
+02:35
+
+**`!ref`**
+
+或者说,你也不需要什么知识了.
+
+简化解析,解释答案.足矣.
+
+("make knowledge pure")
+

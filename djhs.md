@@ -27,7 +27,7 @@
 ## djhs grades
 
 - g1t1
-  - sep
+  - sept
     - fira `274 a+#1 76 b 101 a+ 97 a+`
     - jiangzhijun `271 #2`
   - oct
@@ -66,6 +66,9 @@
     - jiangzhijun `255.5 #1 75 96 84.5`
     - lvfuyuan `235.5 a+ 67 98 70.5`
     - room and seat 0521
+- g2t1
+  - sept
+    - fira ` `
 
 ## jhs fin exam
 

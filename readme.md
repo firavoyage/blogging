@@ -31,8 +31,8 @@
   - ruby chocolate popsicle
   - tea egg
   - life size waifu pillow
-  - simple gardening
   - simple origami
+  - simple gardening
   - dark style & night light & low brightness
   - second person omniscient and past tense
   - math and algorithms
@@ -137,13 +137,12 @@
   - .haizi's poems (hai zi)
   - .gu cheng's poems (gu cheng)
   - .stray birds (rabindranath tagore)
+  - .pride and prejudice (jane austen)
   - .if on a winter's night a traveler (italo calvino)
   - .the moon and sixpence (william somerset maugham)
-  - .jin ping mei (lanling xiaoxiao sheng)
-  - .pride and prejudice (jane austen)
   - .rashomon (ryunosuke akutagawa)
+  - .jin ping mei (lanling xiaoxiao sheng)
   - .remarks on the song lyric and the human condition (wang guowei)
-  - .amusing ourselves to death (neil postman)
   - .the holy bible (king james version)
   - .the wisdom of life (schopenhauer)
   - .tao te ching (laozi)
@@ -296,6 +295,7 @@
   - tail tail desu
   - tim qian
   - timochan
+  - tourist codeforces
   - unfettered idle man
   - upright flies
   - wanderer brawl stars
@@ -434,12 +434,14 @@
 - 以我观物故物皆着我之色彩
 - 十年饮冰难凉热血
 - 宁为玉碎不为瓦全壮士断腕义无再辱
+- 民为贵社稷次之君为轻
 - 以上祝你度过智识的审美的一天
 
 ## pages
 
 - people
   - `ruanyf` everything in the digital time
+  - `reflections` everything in the digital world
   - `livid` letter to confused youth
   - `florio` guide to programming ride
   - `nat` belief of a tech entrepreneur
@@ -449,7 +451,7 @@
   - `projects` things interesting and things meaningful
   - `wisdom` foresights and references
   - `quotes` perspective and thoughts
-  - `mistral` wisdom of mistral ai
+  - `mistral` erudition of mistral ai
   - `comments` what i have heard as a student
   - `idioms` lines and memes just for fun
   - `fin` words at the end of the day

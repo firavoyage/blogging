@@ -1,6 +1,43 @@
 # weekly plan
 
-> 🌕 💤 before 23:00!
+> 🌕 💤 before 00:00!
+
+## 20240917
+
+> daily
+
+- visit digital homes (al sr)
+- eat berryberry (bilimiao)
+
+> weekend
+
+- read react learn docs
+- think react in vanillajs abstract
+- think react in voyagejs
+- write voyagejs
+- think ant design in sr
+- create pre project
+- design intuitive project contents
+- design pure project contents
+
+> weekend night
+
+- read ruanyf weekly
+- read sr story
+- watch mygo
+- rewatch yosuga no sora
+- play senrenbanka
+- learn origami from chenxiao
+
+> spare time
+
+- move web to blogging
+- sync phone
+
+> school
+
+- read one hundred years of solitude
+- learn math & english
 
 ## 20240912
 
@@ -36,7 +73,7 @@
 > school
 
 - read one hundred years of solitude
-- write math papers
+- write summer holidays math papers
 - learn math & english
 
 ## 20240908

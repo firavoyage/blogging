@@ -5,25 +5,10 @@
 so much for this have a nice day.
 以上.祝你度过智识的,审美的一天.
 
-## it was a snowy late night when i was born
+## aestheticism declaration
 
-"从进入大学到博士毕业，整整十年了。在这十年中，我过得浑浑愕额。
-
-十年前，我身高 170cm，十年后，我身高还是 170cm。十年前，我体重 60kg，十年后，我体重还是 60kg。十年前，我一无所有，十年后，我还是一无所有。十年前，我眼睛明亮、有神，十年后，摘掉眼镜，我已看不清自己有多少个手指了。十年前，我声音洪亮、清澈，十年后，已经是慢性咽喉炎，声音嘶哑。十年前，我踌躇满志、指点江山、激扬文字，十年后，我心如止水，只求温饱。
-
-当然，我也得到了一些东西。
-
-十年前，我还是个农民的儿子，十年后，我成为了一个博士。十年前，我只懂得砍柴、种田、割草、放牛，十年后，我已经成为了一个懂机械、金融、管理的复合型人才。
-
-但如果您问我这十年最大的长进是什么，我将告诉您：十年前，我十七，十年后，我二十七。"
-
-## a lonely drifter off to see the world
-
-two drifters off to see the world
-there's such a lot of world to see...
-for every lonely and wandering soul, there is a lucky star behind the darkness, waiting and shining with the freshest hope and warmest aura.
-
-some day. till then
+- make tools elegant
+- make knowledge pure
 
 ## my javascript principles
 
@@ -31,18 +16,6 @@ prefer fp to oop.
 
 never use any of these words in your code
 `prototype`,`class`,`constructor`,`export`,`extends`,`super`,`this`,`self`
-
-## getting from internet conflict
-
-我口袋里有一个小设备，可以访问几乎全部的人类知识。我却用它与不认识的人进行毫无意义的争论，并看猫的照片。
-
--- HN 读者
-
-https://news.ycombinator.com/item?id=21360284
-
-## china in historical perspective
-
-500 年后，人们想起 20 世纪，不会想到第二次世界大战，它已经变得跟英格兰玫瑰战争一样久远。人们会想到 DNA、青霉素、计算机和微芯片，因为它们改变了文明。但是，他们想到的第一件事，将是 20 世纪是人类开始探索太空的世纪，阿波罗 11 号登月是 20 世纪最重要的事件。
 
 ## dealing with over cencership in choosing a cloud drive perspective
 
@@ -122,6 +95,8 @@ div
 
 ## words and idioms collection
 
+**`!ref`**
+
 收集中文词汇
 
 - 数字
@@ -187,6 +162,13 @@ div
   - 魅时
   - 迟片
   - 已片
+- 逻辑
+  - 如常
+  - 反之
+  - 亦然
+  - 不然
+  - 或然
+  - 玩味
 - 无序
   - 靓仔
   - 靓妹
@@ -202,6 +184,8 @@ div
   - 云云
 
 ## make good use of words
+
+**`!ref`**
 
 - 避免对话
   - 删去 `我` `你` `他` `她` `它`
@@ -425,11 +409,6 @@ upd
 
 这就够了,不必关心就业压力,那,琐碎.
 
-## aestheticism declaration
-
-- make tools elegant
-- make knowledge pure
-
 ## why i programmer
 
 上学的时候,学校里有信息课.
@@ -441,4 +420,50 @@ upd
 家里有个laptop,装了点软件,旅程开始.
 
 后来,许多事自然.
+
+## working out problems
+
+**`!ref`**
+
+f:
+我不喜欢做题,动笔也是画个大概.
+只喜欢思索,欣赏答案.
+
+或者说,解释令人费解的参考答案.
+
+> 尤其oi,闪烁,光标,蓝光,发呆.只有越来越困,越来越迟钝的说法.
+
+> 除非你能秒题,"那不是很简单吗",then go ahead boy.
+
+## about low quality teacher
+
+懒惰.教的少,轻松愉快.
+
+勤奋.不好好教,浪费时间.
+
+前者或许有欢乐教育的说法,后者纯唐氏.
+
+属于没有见过人心险恶.知道学校没有安检的.
+
+愤怒和仇恨.加上未成年人护盾.
+
+自作自受.
+
+## about teaching style
+
+幼稚园中,人们读彩色绘本.
+
+小学塾内,人们读图文楷体.
+
+上中学了,人们读文雅宋体.
+
+读大学后,人们读白黑符号.
+
+observation.
+
+归纳,更成熟者,读书朴素.
+
+那些上课活泼,欢乐的.
+
+或许说,把书生当作小孩教学.
 

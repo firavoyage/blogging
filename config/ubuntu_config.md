@@ -250,6 +250,7 @@ chrome://flags/#chrome-webui-refresh-2023
   - tampermonkey `https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo`
     - zhihu enhancement `https://greasyfork.org/en/scripts/419081`
     - zhihu dark mode `https://greasyfork.org/en/scripts/408224`
+    - allow copy `https://greasyfork.org/en/scripts/12561-allow-copy-and-context-menu-continued`
   - bewlybewly `https://chromewebstore.google.com/detail/bewlybewly/bbbiejemhfihiooipfcjmjmbfdmobobp`
   - wayback machine `https://chromewebstore.google.com/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak`
     - login

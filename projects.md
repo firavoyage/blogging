@@ -76,6 +76,7 @@
   - click to add block
   - drag to link
 - examples
+  - following list
   - math problem solution
   - algorithm and data structure visualization
   - taptap 3839 steam top rated rank list
@@ -226,6 +227,11 @@
 
 > digital time capsule, yours
 
+- list following
+  - escape awkward reco algo
+  - read only your followings
+  - profiles categorized in topics
+  - by board
 - from anywhere
   - bookmarks
   - berryberry
@@ -339,6 +345,11 @@
   - random pick from a class of mihoyo or ba students
   - high school g1t1 math 40min definitions theories tricks and uee paper
   - theories usage as card playing
+- learn
+  - knowledge and definitions
+  - tricks and theories
+  - solution and conditions
+  - practice and problems
 - various themes
   - by voyage
 - inspired by
@@ -381,6 +392,11 @@
   - javascript
   - python
   - cpp
+- oi
+  - cpp syntax and sugar
+  - algorithms and three problems each
+  - leetcode weekly contest
+  - codeforces editorial for a 12yr old boy
 - create
   - phone app
   - wide screen app
