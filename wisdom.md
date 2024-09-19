@@ -176,7 +176,7 @@ div
   - MM
 - 有序
   - done.
-  - qed. 
+  - qed.
   - 以上
   - 拿下
   - 得吃
@@ -413,11 +413,11 @@ upd
 
 上学的时候,学校里有信息课.
 
-学打字,学office,学scratch,学python.
+学打字,学 office,学 scratch,学 python.
 
 挺好玩的,一天逛书城,随意买了些书.
 
-家里有个laptop,装了点软件,旅程开始.
+家里有个 laptop,装了点软件,旅程开始.
 
 后来,许多事自然.
 
@@ -431,7 +431,7 @@ f:
 
 或者说,解释令人费解的参考答案.
 
-> 尤其oi,闪烁,光标,蓝光,发呆.只有越来越困,越来越迟钝的说法.
+> 尤其 oi,闪烁,光标,蓝光,发呆.只有越来越困,越来越迟钝的说法.
 
 > 除非你能秒题,"那不是很简单吗",then go ahead boy.
 
@@ -467,3 +467,46 @@ observation.
 
 或许说,把书生当作小孩教学.
 
+## vehicle of education
+
+**`!ref`**
+
+不要用语言.声音不停留.
+
+用图文,或者视频.
+
+不要用白底红笔,或者直播回放.
+
+前者刺眼,随意.后者无意义信息多.
+
+不妨写书.(i love herta)
+
+upd
+
+a programmer without dark mode seems psycho
+
+and a teacher may use bright red over #fff screen.
+
+some with great thoughts and solutions failed words.
+
+i teach 12yr old boys oi
+
+or math or web dev
+
+i m indeed a literary enthusiast
+
+not a theoritical one.
+
+one with aestheticism
+
+including elegandce and purity at first place
+
+"make tools elegant"
+
+"make knowledge pure"
+
+i may explain solutions and give courses.
+
+without solving problems myself
+
+which i m unable to do so or just too lazy.

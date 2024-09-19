@@ -328,6 +328,7 @@
   - deja-dup 45.2
   - evince 46.0
   - fcitx-android 0.0.7
+  - gedit 46.2
   - gimp 2.10.38
   - gnome-boxes 45.0
   - gnome-system-monitor 46.0

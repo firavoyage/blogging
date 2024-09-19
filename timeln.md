@@ -4957,6 +4957,14 @@ tomorrow:
 - djhs g2t1 first monthly exam
 - sync phone and categorize things
 
+upd
+
+3:xx | 4:xx
+
+woke up hot sweated
+
+ac off. near new day.
+
 ## 20240918
 
 17:57
@@ -5043,4 +5051,22 @@ sleep zzz...
 简化解析,解释答案.足矣.
 
 ("make knowledge pure")
+
+## 20240920
+
+00:07
+
+**`!math`**
+
+想出钓鱼题,但是没想法.
+
+$
+x,y \in N^+,x>y \\
+x^2+y^2=12017 \\
+(x,y)?
+$
+
+00:30
+
+sleep. early.
 

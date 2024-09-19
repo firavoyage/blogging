@@ -196,6 +196,28 @@
   - piratebay
   - netflix
 
+### `virtual`
+
+> live with elegance
+
+- from anywhere
+  - twitch
+  - youtube live
+  - berryberry
+  - huya
+  - douyin
+  - douyu
+- timeln based
+  - backward
+  - forward
+- better chat
+  - danmaku
+  - super chat
+  - system message
+- inspired by
+  - simplelive
+  - youtube live
+
 ### `eat`
 
 > survive the content farms | breathe in the digital age
@@ -369,13 +391,14 @@
   - web based
 - words filtered
   - no grade school words
-- no roots,only affix
-  - -ize -ify -en
+  - usage frequency based
+- roots and affix
+  - -ize 
+  - -ify 
+  - -ium
 - easy
   - everyday words the same
   - only one button,next
-- white list
-  - spell ok twice then pass
 - distraction free
   - choose a words book
   - then start learning right after app launch
@@ -394,6 +417,7 @@
   - cpp
 - oi
   - cpp syntax and sugar
+  - macros pr prn each etc.
   - algorithms and three problems each
   - leetcode weekly contest
   - codeforces editorial for a 12yr old boy
