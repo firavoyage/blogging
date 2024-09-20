@@ -68,7 +68,10 @@
     - room and seat 0521
 - g2t1
   - sept
-    - fira ` `
+    - fira `82 94.5`
+    - zhangyizhe `34`
+    - jiangzhijun `111 95`
+    - lvfuyuan `114 72`
 
 ## jhs fin exam
 

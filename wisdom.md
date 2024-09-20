@@ -510,3 +510,11 @@ i may explain solutions and give courses.
 without solving problems myself
 
 which i m unable to do so or just too lazy.
+
+upd
+
+岁年,不知多少参加普及组,提高组.
+
+一如其弈棋,书画,奏琴,考级,云云.
+
+其间,多者雅兴如是,亦无退役之说.

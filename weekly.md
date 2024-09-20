@@ -22,12 +22,12 @@
 
 > weekend night
 
+- learn origami
 - read ruanyf weekly
 - read sr story
 - watch mygo
 - rewatch yosuga no sora
 - play senrenbanka
-- learn origami from chenxiao
 
 > spare time
 

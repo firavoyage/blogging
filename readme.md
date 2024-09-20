@@ -257,6 +257,7 @@
   - forever naive taffy
   - geek bay geekerwan
   - growth.design
+  - gui minghao
   - hexagram with spiritual wind
   - huang zhizhong
   - interpreter gavin
@@ -269,6 +270,7 @@
   - kirikaze chiyuki chyk
   - livid v2ex
   - longbow flintlock
+  - lv fuyuan
   - ma dugong proletariats bishop bedtime news 
   - math contest fei bro
   - memoir of prosperity

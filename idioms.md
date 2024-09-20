@@ -340,3 +340,6 @@ I'm perfect enough already. What else do I need to prove? Of course, I could wri
 qingyu love flower. forever.
 
 我不~要!用反证法.啊!缺推论?
+
+你几分啊!说出来吓死你!
+

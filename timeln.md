@@ -5028,7 +5028,7 @@ and all geometry into canvas (not svg)
 **`!math`**
 **`!ref`**
 
-title: 补档.国家信竞集训队员qingyu教你如何挂人
+title: 补档.国家信竞集训队员 qingyu 教你如何挂人
 
 https://web.archive.org/web/20240905081058/https://qoj.ac/blog/qingyu/blog/971
 
@@ -5066,7 +5066,50 @@ x^2+y^2=12017 \\
 (x,y)?
 $
 
-00:30
+00:40
 
 sleep. early.
 
+**`!ref`**
+
+weekend plan
+
+- origami
+- react learn docs
+- ruanyf weekly
+- sr story
+
+11:xx
+
+math score out.
+
+80!wtf.
+
+扣了好多格式分,还不是步骤分.
+
+最后改分,就到 82.
+
+wtf.
+
+**`!ref`**
+
+王兆海:
+
+不行啊!你之前年级前列的!
+
+(upd djhs.md)
+
+16:38
+
+for a full classwide meeting
+
+working with zhangxizhe
+
+finally solved.
+
+**`!math`**
+
+$
+\{a_n\},a_2=\frac{a_1}{2},\forall n \geq 3,a_n=\frac{a_{n-1}+a_{n-2}}{2}.\\
+\lim_{n\to+\infty}{a_n}=2,{a_1}?
+$
