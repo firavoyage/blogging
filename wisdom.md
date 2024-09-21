@@ -1,23 +1,23 @@
 # wisdom
 
-## fin
+## quotes fin
 
 so much for this have a nice day.
 以上.祝你度过智识的,审美的一天.
 
-## aestheticism declaration
+## idea aestheticism declaration
 
 - make tools elegant
 - make knowledge pure
 
-## my javascript principles
+## idea my javascript principles
 
 prefer fp to oop.
 
 never use any of these words in your code
 `prototype`,`class`,`constructor`,`export`,`extends`,`super`,`this`,`self`
 
-## dealing with over cencership in choosing a cloud drive perspective
+## view dealing with over cencership in choosing a cloud drive view
 
 "集体利益高于个人利益"
 
@@ -34,7 +34,7 @@ never use any of these words in your code
   - for small files `gitee` `lanzou`
   - otherwise `baiduyun` `bitorrent`
 
-## better html ideas
+## idea better html
 
 ```js
 //jsx
@@ -76,7 +76,7 @@ div
 `;
 ```
 
-## about definition of world
+## idea about definition of world
 
 世界.或者说世界观.
 `北欧` `西欧` `北美` `俄日韩` `港台` `长三角` `珠三角`
@@ -85,7 +85,7 @@ div
 
 或许被忽略了吧.
 
-## about definition of country
+## idea about definition of country
 
 定义里,没有`国家`
 
@@ -93,7 +93,7 @@ div
 
 或者`语言` `文字` `文化`,更好.
 
-## words and idioms collection
+## quotes words and idioms collection
 
 **`!ref`**
 
@@ -183,7 +183,7 @@ div
   - 如是
   - 云云
 
-## make good use of words
+## idea make good use of words
 
 **`!ref`**
 
@@ -258,7 +258,7 @@ pov...
     - object (me)
   - third party (it)
 
-## translate a problem description
+## idea translate a problem description
 
 (ref scriptype project)
 
@@ -270,7 +270,16 @@ before
 
 after
 
-## to be a math challenger
+```
+item {
+  int weight
+  int value
+}
+item items[n]
+int capacity
+```
+
+## view to be a math challenger
 
 每天打印卷子,到处抓题,不如买本练习册.
 
@@ -284,20 +293,13 @@ after
 - 华二强基
 - (exam papers)
 
-```
-item {
-  int weight
-  int value
-}
-item items[n]
-int capacity
-```
-
 upd
 
 好像和人教版很不相关.
 
-## elegant abstract best practice
+人教版真好.
+
+## quotes elegant abstract best practice
 
 the best abstract is google search with ai (maybe mistral chat)
 
@@ -305,7 +307,9 @@ i provide enough infomation or keywords (parameters)
 
 whatever the complexity of the function is, the rest is yours
 
-## best js framework out of 10
+## quotes best js framework out of 10
+
+**`!ref`**
 
 Thank you for making this video, I always felt overwhelmed by all of these frameworks and you helped me come to realization that all of them suck, so I am going to create my own Javascript framework tonight.
 
@@ -322,7 +326,9 @@ My mind is blown on how someone actually decided to compare these tools in the s
 
 This was the best video on JS frameworks I've ever seen.
 
-## javascript framework abstract
+## quotes javascript framework abstract
+
+**`!ref`**
 
 I built a JS framework with a rich abstraction layer that automatically picks the best JS framework to use under the hood
 
@@ -333,7 +339,7 @@ I built a JS framework with a rich abstraction layer that automatically picks th
 
 Henceforth, to prove you're a JS developer, you'll need to show us the framework you've built
 
-## awkward chinese courses
+## view awkward chinese courses
 
 当代教育,资源不均,水平不齐.
 
@@ -349,7 +355,7 @@ Henceforth, to prove you're a JS developer, you'll need to show us the framework
 
 你已经行动了.
 
-## why english is so great
+## view why english is so great
 
 conf res ans ref temp twi yt dev img hckr
 
@@ -371,7 +377,7 @@ and language is not good for such ideas and concepts
 
 至于语言是随意的,不深刻的.
 
-## improving textbook is useless
+## view improving textbook is useless
 
 类比下棋,1 段,5 段.
 
@@ -394,22 +400,7 @@ upd
 
 关于课本的反自学设计.并不重要.
 
-## job hunting anxiety sucks
-
-假设,影响一个人生活水平的一切,都可以被量化.
-
-如果每一项数值都拉满,我会过极尽成功的一生.
-反之不然.
-
-而你,作为新世界的创造者~~简体中文领导人~~,只需要保证一点.
-
-**此函数连续**
-
-意味着什么?
-
-这就够了,不必关心就业压力,那,琐碎.
-
-## why i programmer
+## weather why i became a programmer
 
 上学的时候,学校里有信息课.
 
@@ -421,7 +412,7 @@ upd
 
 后来,许多事自然.
 
-## working out problems
+## idea working out problems
 
 **`!ref`**
 
@@ -435,21 +426,7 @@ f:
 
 > 除非你能秒题,"那不是很简单吗",then go ahead boy.
 
-## about low quality teacher
-
-懒惰.教的少,轻松愉快.
-
-勤奋.不好好教,浪费时间.
-
-前者或许有欢乐教育的说法,后者纯唐氏.
-
-属于没有见过人心险恶.知道学校没有安检的.
-
-愤怒和仇恨.加上未成年人护盾.
-
-自作自受.
-
-## about teaching style
+## view about teaching style
 
 幼稚园中,人们读彩色绘本.
 
@@ -467,7 +444,7 @@ observation.
 
 或许说,把书生当作小孩教学.
 
-## vehicle of education
+## idea vehicle of education
 
 **`!ref`**
 
@@ -518,3 +495,84 @@ upd
 一如其弈棋,书画,奏琴,考级,云云.
 
 其间,多者雅兴如是,亦无退役之说.
+
+upd
+
+**南京外国语学校**
+
+几座学府云云.不公开资料统治.
+
+upd
+
+大境中学的升学率很低.
+
+(去年年一山东大学)
+
+就在身边.
+
+同学,友人的兴趣爱好是许多成就.反之不然.
+
+现在追想.
+
+塞翁失马焉知非福.
+
+显然,你没有走延迟毕业的宽敞路.
+
+## view why every web framework is a tradeoff
+
+激进与保守的矛盾是原罪.
+
+javascript 是个保守的语言,因为向下兼容.
+
+宁可使用
+
+```js
+var a = 1; //es5
+
+let b = 1; //es6
+```
+
+也不要
+
+```js
+"use es6";
+
+var a = 1; //es5 var syntax but work in es6 let way
+```
+
+html 也是个保守的语言,其中有语义重复.
+
+```html
+<header a=1 b=2 c=3>
+  <!-- i'm header! -->
+  <!-- ... -->
+</header>
+<!-- i'm header! but havent you already self introduced? -->
+```
+
+另一种可能
+
+```
+header a 1 b 2 c 3
+  // start with indentation
+```
+
+另一种可能
+
+```
+header a=1 b=2 c=3{div;div;div}
+```
+
+其实,常用的结构表示,就`xml`和`json`
+
+在矛盾之下,更具体的细节.
+
+options...
+
+- logic as html attribute like `v-if`?
+- work with jquery without error?
+- use a pre compiler?
+- be a library or a framework?
+- use custom file affix?
+- etc.
+

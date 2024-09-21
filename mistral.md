@@ -6498,3 +6498,31 @@ A segmentation fault, often abbreviated as "segfault," is a specific kind of err
    ```
 
 By understanding the common causes and using the appropriate tools, you can effectively debug and resolve segmentation faults in your programs.
+
+## codeforces polygon
+
+> -> mistral large 2
+
+> codeforces polygon
+
+Codeforces Polygon is a platform associated with Codeforces, a popular competitive programming website. Polygon is specifically designed for problem setting and testing. It provides tools for creating, testing, and managing competitive programming problems. Here are some key features and functionalities of Codeforces Polygon:
+
+1. **Problem Creation**: Polygon allows users to create problems by specifying input and output formats, constraints, and sample test cases.
+
+2. **Test Case Generation**: Users can generate test cases manually or automatically using scripts. Polygon supports various methods for generating test cases, including random generation and specific patterns.
+
+3. **Validator and Checker**: Polygon allows users to write validators to ensure that the input data meets the problem's constraints and checkers to verify the correctness of the output produced by contestants' solutions.
+
+4. **Solution and Stress Testing**: Users can upload reference solutions and perform stress testing to ensure that the problem is well-defined and that the reference solutions are correct.
+
+5. **Collaboration**: Polygon supports collaborative problem setting, allowing multiple users to work on the same problem simultaneously.
+
+6. **Export and Integration**: Problems created in Polygon can be exported and integrated into various competitive programming platforms, including Codeforces itself.
+
+7. **Version Control**: Polygon provides version control for problems, allowing users to track changes and revert to previous versions if needed.
+
+8. **Documentation**: Polygon offers comprehensive documentation and tutorials to help users get started with problem setting and testing.
+
+Polygon is widely used by competitive programming enthusiasts, contest organizers, and educators to create high-quality problems for contests, exams, and educational purposes. If you are interested in creating your own competitive programming problems, Polygon is a valuable tool to explore.
+
+## 

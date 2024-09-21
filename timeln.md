@@ -5113,3 +5113,45 @@ $
 \{a_n\},a_2=\frac{a_1}{2},\forall n \geq 3,a_n=\frac{a_{n-1}+a_{n-2}}{2}.\\
 \lim_{n\to+\infty}{a_n}=2,{a_1}?
 $
+
+18:37
+
+我不想,在html tag里面乱加东西.
+
+nodes in javascript obj
+
+20:xx
+
+我不喜欢有机化学啊.
+
+每个词都是专有名词啊啊啊.
+
+而且不能用分子式,同分异构,得消歧义.
+
+妈的,傻逼命名法.
+
+20:24
+
+**`!ref`**
+
+英语,年一没上三位数,作罢.
+
+数学太差了,我爸的老婆想买点东西.
+
+我推荐她数学一模卷,还有没发的课本.
+
+练习册用华师大强基,答案很详细.
+
+## 20240921
+
+1:4x
+
+sleep.
+
+11:42
+
+get up.
+
+maybe earlier tomorrow? i'm weak.
+
+writing an article about web framework tradeoff 

@@ -59,14 +59,14 @@
   - hyehwadong (park bo ram)
   - dance music of youth (luo da you)
   - story of time (luo da you)
-  - if (bo peep, bo luo sai dong)
+  - if (bo peep)
 - - in solitude where we are least alone (2010)
   - worldend: what do you do at the end of the world? are you busy? will you save us? (2017)
   - tom and jerry classic collection (1940)
-  - reply 1988 (2015)
   - joker (2019)
   - soul (2020)
   - life in a day (2011)
+  - reply 1988 (2015)
   - your name. (2016)
   - how to make millions before grandma dies (2024)
   - the legend of 1900 (1998)
@@ -249,6 +249,7 @@
   - cloudwu codingnow
   - coding startup
   - cr ryley
+  - dai jiangqi
   - dan abramov overreacted
   - diygod
   - edmund d zhang
@@ -272,6 +273,7 @@
   - longbow flintlock
   - lv fuyuan
   - ma dugong proletariats bishop bedtime news 
+  - magicalflower
   - math contest fei bro
   - memoir of prosperity
   - mohamad light
@@ -289,10 +291,12 @@
   - paperclip
   - paul graham paulg
   - promise of playboy
+  - qingyu
   - richard brawl stars
   - rodrigo pombo pombus
   - ruan yifeng ruanyf
   - spicy pidan porridge
+  - sqr5's blog
   - stray digital
   - tail tail desu
   - tim qian
@@ -320,6 +324,7 @@
   - npm 9.2.0
   - eslint 6.4.0
   - prettier 9.2.0
+  - terser 5.19.2
   - wenyan 0.3.4
   - g++ 13.2.0
   - python 3.12.3
@@ -420,6 +425,8 @@
 - 念念不忘必有回响
 - 不如相忘于江湖
 - 命里有时终须有命里无时莫强求
+- 惟江上之清风与山间之明月
+- 塞翁失马焉知非福
 - 欲买桂花同载酒终不似少年游
 - 江畔何人初见月江月何年初照人
 - 年年岁岁花相似岁岁年年人不同
@@ -428,7 +435,6 @@
 - 悟已往之不谏知来者之可追
 - 寓形宇内复几时曷不委心任去留
 - 鸢飞戾天者望峰息心经伦事务者窥谷忘反
-- 惟江上之清风与山间之明月
 - 以有涯随无涯殆已
 - 壁上小虫忽跃落衿袖间
 - 以神遇而不以目视

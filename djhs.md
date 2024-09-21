@@ -92,3 +92,10 @@
 - politics `27` + `30`
 - pe `30`
 
+> only hs near my home are listed
+
+- shanghai hs `710`
+- datong hs `694`
+- dajing hs `66x`
+- shiba hs `x`
+- shinan hs `x`

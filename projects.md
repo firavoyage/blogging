@@ -395,7 +395,7 @@
 - roots and affix
   - -ize 
   - -ify 
-  - -ium
+  - -ism
 - easy
   - everyday words the same
   - only one button,next

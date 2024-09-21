@@ -1,4 +1,4 @@
-# ubuntu
+ubuntu
 
 - ubuntu 22
 - ubuntu 24 current
@@ -185,6 +185,9 @@ resultactive=yes
 
 # softwares & updates
 
+- config source
+  - -> `/etc/apt/sources.list.d/`
+
 - disable `software updater popup`
 
 ```
@@ -251,6 +254,7 @@ chrome://flags/#chrome-webui-refresh-2023
     - zhihu enhancement `https://greasyfork.org/en/scripts/419081`
     - zhihu dark mode `https://greasyfork.org/en/scripts/408224`
     - allow copy `https://greasyfork.org/en/scripts/12561-allow-copy-and-context-menu-continued`
+      - exclude `google.com`
   - bewlybewly `https://chromewebstore.google.com/detail/bewlybewly/bbbiejemhfihiooipfcjmjmbfdmobobp`
   - wayback machine `https://chromewebstore.google.com/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak`
     - login
@@ -284,18 +288,19 @@ sudo apt install code
   - -> `view > appearance`
   - menu & status & ... bar `off`
   - minimap `off`
-  - toggle bread crumbs `off`
   - render control characters `off`
   - sticky scroll `on`
+  - toggle bread crumbs `off`
 - config behavior
   - -> `file > preferences > settings`
   - autosave `after delay`
   - font family `"Fira Code", "Noto Sans CJK SC", monospace`
-  - font size `16`
   - font ligatures `on`
-  - tab `2 spaces`
-  - render whitespace `none`
+  - font size `16`
+  - git:enabled `off`
   - lightbulb `off`
+  - render whitespace `none`
+  - tab `2 spaces`
   - workspace `off`
 - install theme
   - dracula official (current)
@@ -688,13 +693,12 @@ sudo snap install telegram-desktop
 sudo snap install thunderbird
 sudo snap install v2raya
 sudo snap install vlc
-sudo npm config set registry https://registry.npm.taobao.org
+sudo npm config set registry https://registry.npmjs.org/
 sudo npm install -g @wenyan/cli
 sudo npm install terser -g
 ```
 
-- install from websites
+- install elsewhere
   - virtualbox
-  - dingtalk
   - onsyuri
   - localsend
