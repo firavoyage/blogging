@@ -1,6 +1,6 @@
 # weekly plan
 
-> 🌕 💤 before 00:00!
+> 🌕 💤 before 23:00!
 
 ## 20240920
 
@@ -12,13 +12,12 @@
 > weekend
 
 - read react learn docs
-- think react in vanillajs abstract
-- think react in voyagejs
+- think react in vanillajs
 - write voyagejs
 - think ant design in sr
 - create pre project
-- design intuitive project contents
 - design pure project contents
+- design intuitive project contents
 
 > weekend night
 
@@ -26,6 +25,7 @@
 - read ruanyf weekly
 - watch evangelion
 - watch mygo
+- watch 5 centimeters per second
 - read sr story
 - play senrenbanka
 

@@ -23,21 +23,21 @@
 
 - - 🌕 💤 23:00
 - - lipton black tea
+  - cocacola zero
   - mixue bubble tea
-  - cocacola
+  - guiguicha egg puffs
   - lays crisps original
   - burgerking french fries
   - preserved plum & chenpi
   - ruby chocolate popsicle
   - tea egg
   - life size waifu pillow
-  - simple origami
-  - simple gardening
+  - simple origami & gardening
   - dark style & night light & low brightness
-  - second person omniscient and past tense
+  - second person omniscient narrator
   - math and algorithms
   - functional programming
-  - web dev abstract
+  - vanilla web dev
 - - bach werke verzeichnis (johann sebastian bach)
   - the very best of chopin (frédéric chopin)
   - hotel california (eagles)
@@ -79,6 +79,7 @@
   - .frieren: beyond journey's end (2023)
   - .oshi no ko (2023)
   - .your lie in april (2014)
+  - .the melancholy of haruhi suzumiya (2006)
   - .the godfather (1972)
   - .the truman show (1998)
   - .the good the bad and the ugly (1966)
@@ -87,26 +88,30 @@
   - houkai gakuen second (2014)
   - genshin impact (2020)
   - zenless zone zero (2024)
+  - reverse: 1999 (2023)
   - azurlane (2017)
   - blue archive (2021)
   - brawl stars (2017)
   - clash royale (2016)
-  - soul knight (2017)
   - minecraft (2011)
   - terraria (2011)
   - angry birds classic (2009)
   - kingdom rush (2011)
+  - soul knight (2017)
   - canabalt hd (2009)
   - senren banka (2016)
   - sabbat of the witch (2015)
   - the rainbow appears after flowering rain (2016)
-  - .the legend of zelda (1998) (2017) (2023)
+  - .the legend of zelda: Ocarina of Time (1998)
+  - .the legend of zelda: Breath of the Wild (2017)
+  - .the legend of zelda: Tears of the Kingdom (2023)
   - .sekiro: shadows die twice (2019)
   - .elden ring (2022)
   - .the binding of isaac (2011)
   - .grand theft auto v (2013)
   - .super bunny man (2017)
   - .fly me 2 the moon (2011)
+  - .yosuga no sora (2008)
   - .riddle joker (2020)
   - .wonderful everyday (2010)
   - .doki doki literature club! (2017)
@@ -169,8 +174,8 @@
   - nahida
   - sparkle
 - - ubuntu yaru
-  - dracula theme
   - nord
+  - dracula theme
   - monokai pro
   - atom one dark
   - chromium just black
@@ -272,7 +277,7 @@
   - livid v2ex
   - longbow flintlock
   - lv fuyuan
-  - ma dugong proletariats bishop bedtime news 
+  - ma dugong proletariats bishop bedtime news
   - magicalflower
   - math contest fei bro
   - memoir of prosperity
@@ -326,6 +331,7 @@
   - prettier 9.2.0
   - terser 5.19.2
   - wenyan 0.3.4
+  - marked 14.1.2
   - g++ 13.2.0
   - python 3.12.3
   - antennapod 3.1.2
@@ -356,6 +362,7 @@
   - telegram-desktop 4.16.8
   - thunderbird 115.11.0
   - transmission 4.0.5
+  - virtualbox 7.0.16
   - vlc 3.0.20
   - zsh 5.9
 
@@ -428,6 +435,7 @@
 - 惟江上之清风与山间之明月
 - 塞翁失马焉知非福
 - 欲买桂花同载酒终不似少年游
+- 只道当时是寻常
 - 江畔何人初见月江月何年初照人
 - 年年岁岁花相似岁岁年年人不同
 - 去年今日此门中人面桃花相映红
@@ -470,7 +478,7 @@
   - `djhs` wax and wane of school life
   - `email` way to contact me
   - `swim` internet swimming guide
-- config 
+- config
   - `/config`
   - `ubuntu config` elegant work flow
   - `list ...` preferences

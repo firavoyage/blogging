@@ -5155,3 +5155,17 @@ get up.
 maybe earlier tomorrow? i'm weak.
 
 writing an article about web framework tradeoff 
+
+15:04
+
+ubuntu source err.
+
+edit sources.d and get fixed.
+
+21:06
+
+了解 reverse 1999
+
+seem like a bangumi made as a game by mistake
+
+

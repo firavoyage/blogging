@@ -1,17 +1,19 @@
-ubuntu
+# ubuntu
+
+## .
 
 - ubuntu 22
 - ubuntu 24 current
 
-# settings
+## settings
 
-## appearance
+### appearance
 
 - config
   - style `dark`
   - wallpaper `jelly fish in black background`
 
-## ubuntu desktop
+### ubuntu desktop
 
 - config
   - desktop icons `off`
@@ -30,7 +32,7 @@ ubuntu
   - -> `extensions > ubuntu dock > more > settings > launchers`
   - show application icon `off`
 
-## apps
+### apps
 
 - -> `default apps`
 - web `chromium web browser`
@@ -40,7 +42,7 @@ ubuntu
 - video `vlc media player`
 - photos `image viewer`
 
-## displays
+### displays
 
 - desktop icons `off`
 
@@ -51,7 +53,7 @@ sudo apt install gnome-shell-extension-prefs
 - config
   - nightlight `0 to 0`
 
-## keyboard
+### keyboard
 
 - use shortcuts
 
@@ -62,11 +64,11 @@ screenshot `prsc`
 fullscreen `f11`
 ```
 
-## multitasking
+### multitasking
 
 - config `number of workspaces 1`
 
-## date&time
+### date&time
 
 - config `lang en`
 
@@ -74,7 +76,7 @@ fullscreen `f11`
 sudo localectl set-locale lc_time=en_us.utf8
 ```
 
-## users
+### users
 
 - remove password
   - -> `admin:///etc/polkit-1/localauthority/50-local.d/nopw.pkla`
@@ -97,13 +99,13 @@ resultactive=yes
   - enter old passwd
   - leave it blank & enter
 
-## sound
+### sound
 
 - system sound `off`
 - config
   - alert sound `none`
 
-## power
+### power
 
 - power mode `performance`
 - automatic screen brightness `off`
@@ -114,17 +116,17 @@ resultactive=yes
 - power button behavior `power off`
 - show battery percentage `off`
 
-## printer
+### printer
 
 - ref `https://in.canon/en/support/search` `linux64 ij debian`
 - install canon printer driver
 
-## privacy
+### privacy
 
 - -> `tmpfile&trash`
 - config `auto delete files after 30days`
 
-# backup
+## backup
 
 - config
   - storage `local folder:backup`
@@ -134,7 +136,7 @@ resultactive=yes
     - frequency `daily`
     - keep `forever`
 
-# fonts
+## fonts
 
 - install fonts
   - -> `git/fonts`
@@ -183,7 +185,7 @@ resultactive=yes
 </fontconfig>
 ```
 
-# softwares & updates
+## softwares & updates
 
 - config source
   - -> `/etc/apt/sources.list.d/`
@@ -198,7 +200,7 @@ sudo sed --in-place 's/NoDisplay=true/NoDisplay=false/g' /etc/xdg/autostart/upda
   - -> `softwares & updates > other softwares`
   - (all) `off`
 
-# gnome tweaks
+## gnome tweaks
 
 - config `startup applications`
   - chromium
@@ -206,13 +208,13 @@ sudo sed --in-place 's/NoDisplay=true/NoDisplay=false/g' /etc/xdg/autostart/upda
   - fcitx5
   - vlc media player
 
-# files
+## files
 
 - add templates
   - markdown.md
   - cpp.cpp
 
-# chromium
+## chromium
 
 - disable `new look`
   - ref `https://snapcraft.io/docs/revisions` `https://snapcraft.io/docs/managing-updates`
@@ -266,7 +268,7 @@ chrome://flags/#chrome-webui-refresh-2023
   - fixed-width `fira code`
   - mathematical `dejavu serif`
 
-# code
+## code
 
 - install (fix fcitx compatibilty issue)
 
@@ -342,7 +344,7 @@ sudo apt install code
     - open extensions `ctrl shift x`
   - - new file `ctrl n`
     - close file `ctrl w`
-  - - format code `ctrl shift i`
+  - - format document or code `ctrl shift i`
     - preview markdown `ctrl shift v`
     - view symbols(or markdown headers) in current file `ctrl shift o`
     - view symbols(or markdown headers) everywhere `ctrl t`
@@ -367,7 +369,7 @@ sudo apt install code
   - - zoom in `ctrl +`
     - zoom out `ctrl -`
 
-# git
+## git
 
 - config github
   - -> `https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls`
@@ -376,7 +378,7 @@ sudo apt install code
 - use shortcuts
   - -> `git/blogging/config/git_shortcut.txt`
 
-# fcitx5
+## fcitx5
 
 - install app
 
@@ -446,7 +448,7 @@ Theme=Default //current
 clipboard `ctrl ;`
 ```
 
-# thunderbird
+## thunderbird
 
 - config `mail`
   - zoho
@@ -455,7 +457,7 @@ clipboard `ctrl ;`
   - \_qq
 - config `junk`
 
-# v2raya
+## v2raya
 
 - install dependence
 
@@ -503,7 +505,7 @@ raw.kkgithub.com
 raw.fastgit.org
 ```
 
-# wine
+## wine
 
 - install
 
@@ -537,7 +539,7 @@ winetricks sound=pulse
 winecfg
 ```
 
-# obs
+## obs
 
 - config `source`
   - mic/aux(pulseaudio)
@@ -547,7 +549,7 @@ winecfg
   - output resolution `2560x1600`
   - frame rate `60fps //or 30fps`
 
-# goldendict
+## goldendict
 
 - install dictionaries
   - -> `Edit > Dictionaries`
@@ -626,7 +628,7 @@ FreeDictionary-Idioms
 - use shortcuts
   - open screen word selector `ctrl c ctrl c`
 
-# vlc
+## vlc
 
 - config
   - -> `tools > preferences`
@@ -639,18 +641,18 @@ FreeDictionary-Idioms
   - show notification popup on track change `never`
   - continue playback `never`
 
-# qbittorrent
+## qbittorrent
 
 - config trackers
   - -> `tools > preferences > bitorrent`
   - automatically add these trackers to new downloads `config/list_trackers.md`
 
-# terminal
+## terminal
 
 - install `oh-my-zsh`
 - set default `sudo chsh -s /bin/zsh`
 
-# apps
+## apps
 
 - install in terminal
 
@@ -676,6 +678,7 @@ sudo apt install imagemagick
 sudo apt install nodejs
 sudo apt install npm
 sudo apt install python3
+sudo apt install virtualbox
 sudo apt install zsh
 sudo snap install android-studio
 sudo snap install blender --classic
@@ -688,17 +691,16 @@ sudo snap install kdenlive
 sudo snap install krita
 sudo snap install obs-studio
 sudo snap install qbittorrent-arnatious
-sudo snap install shotcut --classic
 sudo snap install telegram-desktop
 sudo snap install thunderbird
 sudo snap install v2raya
 sudo snap install vlc
 sudo npm config set registry https://registry.npmjs.org/
 sudo npm install -g @wenyan/cli
-sudo npm install terser -g
+sudo npm install -g marked
+sudo npm install -g terser
 ```
 
 - install elsewhere
-  - virtualbox
   - onsyuri
   - localsend

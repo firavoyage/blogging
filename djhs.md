@@ -69,7 +69,7 @@
 - g2t1
   - sept
     - fira `82 94.5`
-    - zhangyizhe `34`
+    - zhangyizhe `85 43`
     - jiangzhijun `111 95`
     - lvfuyuan `114 72`
 

@@ -2765,5 +2765,12 @@ Chetan Bhagat
 
 看来时长统计网站没错,**时间不骗人**.
 
+## dont worry about ai programmer 
+
+»»
+
+MikeMirzayanov
+
+We are also unable to determine whether you are solving the problems on your own or generating all the ideas with a large team. Indeed, in the context of online competitions, we cannot enforce all the rules strictly, but I believe we have always done what is within our power and moved forward by continuing to hold contests. I hope that the Codeforces community remains the same as before – with a significant number of participants who follow the rules and do not constantly look for loopholes to break them.
 
 

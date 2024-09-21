@@ -339,6 +339,37 @@
 
 ## learn
 
+### `leisure`
+
+> retro vocabulary memorization | "自在" "丁真打原神"
+
+- real simple
+  - only one next button
+  - everyday same ammount
+- distraction free
+  - choose a wordbook
+  - learn and review combined
+  - stats and timeln
+  - no more unnecessary pages
+- emotional pronounciation
+  - by gptsovits
+- words filtered
+  - usage frequency based
+  - no useless or grasped ones
+- roots and affix
+  - -ize
+  - -ify
+  - -ism
+- local based
+  - pwa support
+  - static dict file
+- various themes
+  - by voyage
+- inspired by
+  - exam wordbook
+  - bubeidanci
+  - maimemo
+
 ### `pure`
 
 > my desired math courses "纯度"
@@ -382,29 +413,6 @@
   - zhao lixian channel
   - math bu channel
 
-### `leisure`
-
-> retro vocabulary memorization style | "自在"
-
-- local dict
-  - like goldendict and mdict
-  - web based
-- words filtered
-  - no grade school words
-  - usage frequency based
-- roots and affix
-  - -ize 
-  - -ify 
-  - -ism
-- easy
-  - everyday words the same
-  - only one button,next
-- distraction free
-  - choose a words book
-  - then start learning right after app launch
-- emotional pronounciation
-  - by gptsovits
-
 ### `intuitive`
 
 > showcase the power of web "scratch in js"
@@ -416,11 +424,11 @@
   - python
   - cpp
 - oi
-  - cpp syntax and sugar
-  - macros pr prn each etc.
-  - algorithms and three problems each
+  - cpp syntax and tricks
+  - macros like each rd pr prn
+  - algorithms and template problems
   - leetcode weekly contest
-  - codeforces editorial for a 12yr old boy
+  - codeforces editorial for beginners
 - create
   - phone app
   - wide screen app
@@ -516,6 +524,7 @@ problem
   item items[n]
   int capacity
 ```
+
 - pythonic
 
 ```
@@ -533,6 +542,7 @@ a:
 
 a{b;c{d};e}
 ```
+
 - no more `let` `var`
   - `a=0`
   - `int a=0`
