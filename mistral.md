@@ -48,7 +48,7 @@ In conclusion, the passing youth is a bittersweet reminder of the fleeting natur
 
 ## classic songs
 
-**`!important`**
+**`!list`**
 **`!ref`**
 
 > -> gpt 3.5
@@ -283,7 +283,7 @@ Here is a list of 50 English classic songs with their publication year:
 
 ## ballad songs
 
-**`!important`**
+**`!list`**
 **`!ref`**
 
 > -> gpt 3.5
@@ -579,7 +579,8 @@ Learning web development from scratch can be an exciting and rewarding experienc
 
 ## retro
 
-**`!important`**
+**`!list`**
+**`!concept`**
 **`!ref`**
 
 > -> mistral large
@@ -1144,7 +1145,7 @@ I hope this introduction helps you get started with LaTeX! Let me know if you ha
 
 ## GEB
 
-**`!important`**
+**`!concept`**
 **`!ref`**
 
 > -> mistral instruct 7b q4
@@ -1371,28 +1372,6 @@ To create a horizontal line, use three hyphens (---), asterisks (\*\*\*), or und
 ### Getting Help
 
 For more information on Markdown, check out the [Markdown Cheat Sheet](https://github.com/ad-mallos/markdown-files/blob/master/MARKDOWN.md) or the [Markdown Guide](https://www.markdownguide.org/)!
-
-## high school subjects
-
-**`!important`**
-**`!ref`**
-
-> -> mistral instruct 7b q4
-
-> 中国高中有哪些必读数目
-
-中国高中学生需要读习的课程和知识点有所不同，因为各地教育政策和 curriculum 可能会有所差异。但是，以下是中国大多数高中学生需要读的主要课程和学科：
-
-1. 语文 (Yuwen, or Chinese language) : This is a mandatory subject for all students in China. It includes Chinese literature and composition, as well as the study of Chinese characters and grammar.
-2. 数学 (Shuaxue, or Mathematics) : Students must take this subject for at least three years in high school. It includes algebra, geometry, trigonometry, statistics, and calculus.
-3. 英文 (Yingwen, or English) : English is becoming increasingly important in China, especially for students who plan to go abroad for further education. Most high schools require at least three years of English instruction.
-4. 自然科学 (Ziran kexue, or Natural Science) : This subject encompasses physics, chemistry, and biology. Students typically take all three subjects during their high school years.
-5. 社会科学 (Shehui kexue, or Social Science) : This subject includes history, geography, and political science. It is important for students to have a solid understanding of their own culture and the world around them.
-6. 技术科学 (Jishu kexue, or Technical Science) : Depending on the school and student's interests, this subject may include computer science, engineering, or industrial arts.
-7. 外国语 (Wàiguó yǔ, or Foreign Language) : Some high schools may offer the opportunity for students to study a foreign language other than English. This can be beneficial for students who plan to travel or work internationally in the future.
-8. 体育 (Tiyu, or Physical Education) : Regular physical activity is important for all students, so high schools require a certain number of hours of physical education each week.
-
-It's worth noting that some high schools may offer additional courses or electives, depending on the school's resources and student interests. For example, some schools may offer advanced math or science classes, music or art programs, or language exchange opportunities with students from other countries.
 
 ## c++ struct functions
 
@@ -1842,7 +1821,8 @@ This implementation provides a good balance between the efficiency of merge sort
 
 ## functional programming
 
-**`!important`**
+**`!concept`**
+**`!dev`**
 **`!ref`**
 
 > -> mistral large 2
@@ -1885,7 +1865,8 @@ Popular languages for functional programming include Haskell, Lisp, Clojure, Erl
 
 ## object oriented programming
 
-**`!important`**
+**`!concept`**
+**`!dev`**
 **`!ref`**
 
 > -> mistral large 2
@@ -2224,7 +2205,8 @@ These macros can help you write more concise and readable code, especially when 
 
 ## oop principles
 
-**`!important`**
+**`!concept`**
+**`!dev`**
 **`!ref`**
 
 > -> mistral large 2
@@ -2279,7 +2261,8 @@ These principles help in creating modular, reusable, and maintainable code, maki
 
 ## fp principles
 
-**`!important`**
+**`!concept`**
+**`!dev`**
 **`!ref`**
 
 > -> mistral large 2
@@ -3326,7 +3309,7 @@ Ultimately, the choice of a component library depends on your project's specific
 
 ## newton vs bisection
 
-**`!important`**
+**`!math`**
 **`!ref`**
 
 > -> mistral large 2
@@ -4226,7 +4209,7 @@ This list provides a snapshot of the technologies used by these companies, but k
 
 ## javascript framework behind popular sites
 
-**`!important`**
+**`!dev`**
 **`!ref`**
 
 > -> mistral large 2
@@ -4348,6 +4331,7 @@ As of my last update, my knowledge cutoff is October 2023. This means that the i
 
 ## object define property
 
+**`!dev`**
 **`!ref`**
 
 > -> mistral large 2
@@ -4444,6 +4428,7 @@ Using `Object.defineProperty` gives you precise control over the behavior of obj
 
 ## proxy and reflect
 
+**`!dev`**
 **`!ref`**
 
 > -> mistral large 2
@@ -4685,7 +4670,7 @@ While these examples illustrate the basic concept, React's actual implementation
 
 ## elegance
 
-**`!important`**
+**`!concept`**
 **`!ref`**
 
 > -> mistral large 2
@@ -4751,7 +4736,7 @@ Please note that some of these websites may no longer be active or may have been
 
 ## np complete
 
-**`!important`**
+**`!math`**
 **`!ref`**
 
 > -> mistral large 2
@@ -5638,7 +5623,7 @@ Giscus is a powerful and flexible commenting system that leverages GitHub Discus
 
 ## latex math symbols
 
-**`!important`**
+**`!list`**
 **`!ref`**
 
 > -> mistral large 2
@@ -5793,7 +5778,7 @@ This list covers many of the commonly used symbols in LaTeX. For more specialize
 
 ## latex math expressions
 
-**`!important`**
+**`!list`**
 **`!ref`**
 
 > -> mistral large 2
@@ -6099,7 +6084,7 @@ Both tools are highly regarded in the developer community, and many developers u
 
 ## to elegance
 
-**`!important`**
+**`!concept`**
 **`!ref`**
 
 > -> mistral large 2
@@ -6134,7 +6119,7 @@ To achieve elegance, consider the following suggestions that apply to various as
 
 ## wisdom
 
-**`!important`**
+**`!concept`**
 **`!ref`**
 
 > -> mistral large 2
@@ -6175,7 +6160,7 @@ These sub-concepts interconnect and reinforce each other, contributing to the ov
 
 ## lodash
 
-**`!important`**
+**`!dev`**
 **`!ref`**
 
 > -> mistral large 2
@@ -6264,7 +6249,7 @@ Lodash is a powerful tool that can greatly simplify and optimize your JavaScript
 
 ## p5 js
 
-**`!important`**
+**`!dev`**
 **`!ref`**
 
 > -> mistral large 2
@@ -6316,7 +6301,7 @@ This sketch creates a canvas with a blue ellipse that follows the mouse cursor.
 
 ## three js
 
-**`!important`**
+**`!dev`**
 **`!ref`**
 
 > -> mistral large 2
@@ -6417,7 +6402,7 @@ Three.js is a powerful tool for creating interactive 3D experiences on the web. 
 
 ## cpp segmentation fault
 
-**`!important`**
+**`!dev`**
 **`!ref`**
 
 > -> mistral large 2
@@ -6592,6 +6577,9 @@ Deconstructionism has been highly influential in many fields, including literary
 
 ## sub concepts of deconstruct
 
+**`!concept`**
+**`!ref`**
+
 > -> mistral large 2
 
 > sub concepts of deconstruct
@@ -6617,3 +6605,102 @@ Deconstruction, a term often associated with French philosopher Jacques Derrida,
 9. **Intertextuality**: This is the idea that all texts refer to and depend on other texts for their meaning. No text is an island; each is a node in a vast network of textual relations.
 
 10. **Pharmakon**: This is a term that Derrida uses to illustrate the complexity of language. It can mean both 'poison' and 'cure', demonstrating that words can have contradictory meanings simultaneously.
+
+## purity
+
+**`!concept`**
+**`!ref`**
+
+> -> mistral large 2
+
+> sub concepts of purity
+
+Purity is a broad concept that can be broken down into several sub-concepts, varying across different contexts such as philosophy, religion, science, and social sciences. Here are some of the key sub-concepts:
+
+1. **Moral Purity**:
+
+   - **Virtue**: Upholding high moral standards.
+   - **Innocence**: Freedom from guilt or sin.
+   - **Honesty**: Truthfulness and integrity.
+   - **Chastity**: Purity in terms of sexual behavior, often associated with abstinence.
+
+2. **Physical Purity**:
+
+   - **Cleanliness**: Freedom from dirt, contamination, or pollution.
+   - **Health**: The state of being free from illness or disease.
+   - **Hygiene**: Practices conducive to maintaining health and preventing disease.
+
+3. **Chemical Purity**:
+
+   - **Unadulterated**: Free from impurities or contaminants.
+   - **Pure Substance**: A substance that is made up of only one type of atom or molecule.
+
+4. **Spiritual Purity**:
+
+   - **Holiness**: A state of being dedicated or consecrated to a deity or spiritual ideal.
+   - **Enlightenment**: Achieving a state of profound understanding or spiritual insight.
+
+5. **Intellectual Purity**:
+
+   - **Objectivity**: Freedom from bias or prejudice.
+   - **Clarity**: Precision and lucidity in thought and expression.
+   - **Integrity**: Adherence to moral and ethical principles.
+
+6. **Cultural Purity**:
+
+   - **Authenticity**: Being true to one's cultural heritage.
+   - **Tradition**: Adherence to long-established customs or beliefs.
+
+7. **Environmental Purity**:
+
+   - **Ecological Integrity**: The health and wholeness of ecosystems.
+   - **Sustainability**: Practices that support long-term ecological balance.
+
+8. **Emotional Purity**:
+   - **Sincerity**: Genuineness and honesty in feelings and actions.
+   - **Serenity**: A state of being calm and untroubled.
+
+Each of these sub-concepts can be explored in depth, and their meanings can vary depending on cultural, religious, and personal perspectives.
+
+## unworldly purity
+
+**`!concept`**
+**`!ref`**
+
+> -> mistral large 2
+
+> sub concepts of unworldly purity
+
+Unworldly purity is a broad concept that can be broken down into several sub-concepts. Here are some of them:
+
+1. **Spiritual Purity**: This refers to the state of being free from moral or spiritual contamination. It's often associated with religious or spiritual practices, such as:
+
+   - **Innocence**: Freedom from sin or moral wrong.
+   - **Sacredness**: Being holy or dedicated to a deity or religious purpose.
+   - **Virtuousness**: Possessing and demonstrating virtues and moral excellence.
+
+2. **Physical Purity**: This involves being clean, unadulterated, or free from pollutants. Sub-concepts include:
+
+   - **Cleanliness**: The state of being free from dirt or contaminants.
+   - **Simplicity**: Freedom from complexity or extravagance.
+   - **Naturalness**: Being in an unspoiled, pristine state, as found in nature.
+
+3. **Mental Purity**: This relates to clarity and peace of mind. Sub-concepts include:
+
+   - **Serenity**: The state of being calm, peaceful, and untroubled.
+   - **Clarity**: Freedom from confusion or ambiguity.
+   - **Mindfulness**: Being fully present and engaged in the current moment.
+
+4. **Emotional Purity**: This involves being free from negative or harmful emotions. Sub-concepts include:
+
+   - **Contentment**: A state of peaceful happiness and satisfaction.
+   - **Compassion**: Sympathetic consciousness of others' distress together with a desire to alleviate it.
+   - **Forgiveness**: The action of forgiving someone or the state of being forgiven.
+
+5. **Aesthetic Purity**: This relates to beauty and harmony in appearance or form. Sub-concepts include:
+
+   - **Elegance**: Graceful and stylish in appearance or manner.
+   - **Symmetry**: Harmonious and balanced proportion.
+   - **Minimalism**: A style or technique that is characterized by extreme spareness and simplicity.
+
+6. **Cultural or Symbolic Purity**: This involves being free from cultural or symbolic contamination. Sub-concepts can vary greatly depending on the specific culture or symbolic system.

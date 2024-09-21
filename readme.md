@@ -206,7 +206,7 @@
   - zhi mang xing
 - - wikipedia
   - internet archive wayback machine
-  - archive.today
+  - archive.today archive.is
   - the pirate bay
   - github
   - google

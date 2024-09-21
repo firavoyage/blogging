@@ -390,19 +390,24 @@
   - dailyab
   - 40min hs math
   - unit cheetsheet
+- problem
+  - knowledge or theory
+  - observation or divine sight
+  - trick or methodology
+- course
+  - definition
+  - axiom and theory
+  - conclusion proof
+  - demonstration on math challenger
+  - practice on math guide
 - wonders
   - childhood retro and my desired math course
   - learn hs math as nicholas wei bro
   - the libre high school math textbook
-  - teach hs math to 12 yr old children
+  - hs math editorial for children
   - random pick from a class of mihoyo or ba students
   - high school g1t1 math 40min definitions theories tricks and uee paper
   - theories usage as card playing
-- learn
-  - knowledge and definitions
-  - tricks and theories
-  - solution and conditions
-  - practice and problems
 - various themes
   - by voyage
 - inspired by
@@ -425,10 +430,13 @@
   - cpp
 - oi
   - cpp syntax and tricks
-  - macros like each rd pr prn
+  - macros like rd pr prn each
   - algorithms and template problems
   - leetcode weekly contest
-  - codeforces editorial for beginners
+  - codeforces editorial for children
+- course
+  - math theory
+  - template problem
 - create
   - phone app
   - wide screen app
@@ -634,6 +642,9 @@ for(i 1 10 j 10 100){A} //for(let i=1;i<=10;i++){for(let j=10;i<=100;j++){A}}
   - mihoyo hi
   - mihoyo gi
   - mihoyo zzz
+- finger control
+  - codeforces mobile
+  - swipe left or right
 - great components
   - number(chinese or english,precise or not)
   - button(material water drop effect,svg uncolorized icon,alt msg,keyboard focus)
