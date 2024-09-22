@@ -360,4 +360,4 @@ qingyu love flower. forever.
 
 物化生包含大量的定义与专有名词.数学反之,简单的定义与复杂的性质.
 
-除了物质水平,什么东西是富人一定有,穷人一定没有的?
+stream forth, the gleam of old blades.

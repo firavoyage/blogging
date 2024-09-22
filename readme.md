@@ -163,48 +163,6 @@
   - web worker (xinbao & lv777 & pakchoi & kaiyi & smart)
   - yitianshijie (li ruyi)
   - yixi (yixi)
-- - acheron
-  - adventurine
-  - clara
-  - fuxuan
-  - gallagher
-  - herta
-  - kaedehara kazuha
-  - kasugano sora
-  - keqing
-  - nahida
-  - sparkle
-- - ubuntu yaru
-  - nord
-  - dracula theme
-  - monokai pro
-  - atom one dark
-  - chromium just black
-  - material design 2
-  - material design 3
-  - smartisan os 8
-  - hydrogen os 11
-  - android 4
-  - iphone os 6
-  - iphone os 11
-- - dejavu serif
-  - fira code
-  - fira sans
-  - fz kaiti
-  - google product sans
-  - han wang shin su
-  - han wang yan kai
-  - helvetica
-  - helvetica neue
-  - inconsolata
-  - lato
-  - montserrat
-  - noto sans cjk sc
-  - noto serif cjk sc
-  - resource han rounded cn
-  - roboto
-  - ubuntu sans
-  - zhi mang xing
 - - wikipedia
   - internet archive wayback machine
   - archive.today archive.is
@@ -240,6 +198,20 @@
   - unsplash nature
   - product hunt all time
   - travellings foreverblog
+- - acheron
+  - adventurine
+  - clara
+  - forever naive taffy
+  - fuxuan
+  - gallagher
+  - herta
+  - kaedehara kazuha
+  - kasugano sora
+  - keqing
+  - minato aqua
+  - nahida
+  - orient snowy lotus
+  - sparkle
 - - adhesion tek
   - ahbei douban
   - ahdark
@@ -263,9 +235,7 @@
   - edmund d zhang
   - fabrice bellard
   - fireship js framework
-  - forever naive taffy
   - geek bay geekerwan
-  - growth.design
   - gui minghao
   - hexagram with spiritual wind
   - huang zhizhong
@@ -280,7 +250,7 @@
   - livid v2ex
   - longbow flintlock
   - lv fuyuan
-  - ma dugong proletariats bishop bedtime news
+  - ma dugong bedtime news
   - magicalflower
   - math contest fei bro
   - memoir of prosperity
@@ -295,7 +265,6 @@
   - old ocean tubber
   - old skilled tofu
   - one math
-  - orient snowy lotus
   - paperclip
   - paul graham paulg
   - promise of playboy
@@ -305,7 +274,6 @@
   - ruan yifeng ruanyf
   - spicy pidan porridge
   - sqr5's blog
-  - stray digital
   - tail tail desu
   - tim qian
   - timochan
@@ -313,12 +281,39 @@
   - unfettered idle man
   - upright flies
   - wanderer brawl stars
-  - wes bos web dev
+  - wes bos
   - xiaogu math
   - yunling sapphire
   - zhang hai
   - zhang xizhe
   - zhou xuanyi
+- - dejavu serif
+  - fira code
+  - fira sans
+  - fz kai
+  - google product sans
+  - han wang shin su
+  - han wang yan kai
+  - helvetica neue
+  - inconsolata
+  - lato
+  - montserrat
+  - noto sans cjk sc
+  - noto serif cjk sc
+  - resource han rounded cn
+  - roboto
+  - ubuntu sans
+  - zhi mang xing
+- - ubuntu yaru
+  - nord
+  - dracula theme
+  - monokai pro
+  - atom one dark
+  - chromium just black
+  - material design 3
+  - smartisan os 8
+  - hydrogen os 11
+  - iphone os 6
 - - ubuntu 24.04
   - android 11
   - chromium 124.0.6367.118

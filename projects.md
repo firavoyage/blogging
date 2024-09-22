@@ -191,6 +191,10 @@
 
 > retro theatre feeling
 
+- distraction free
+  - only a few good pages
+- various themes
+  - by voyage
 - inspired by
   - imdb
   - piratebay
@@ -363,7 +367,7 @@
   - same root with different affix
   - quick reaction clicking next
 - definition page
-  - chinese translation
+  - chinese translation from google and bing
   - english explanation from collins
   - synonyms from cambridge and merriam webster
   - example sentences from collins and merriam webster
@@ -379,9 +383,9 @@
   - exam wordbook
   - bubeidanci
   - maimemo
-  - shanbay voca
-  - list voca
-  - tantan voca
+  - shanbay
+  - list
+  - tantan
 
 ### `pure`
 
