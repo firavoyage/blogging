@@ -408,9 +408,9 @@
   - 40min hs math
   - unit cheetsheet
 - problem
-  - knowledge or theory
-  - observation or divine sight
-  - trick or methodology
+  - knowledge from textbook
+  - tricks from workbook
+  - observation from divine source
 - course
   - definition
   - axiom and theory

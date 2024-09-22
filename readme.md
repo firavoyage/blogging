@@ -47,6 +47,7 @@
   - the sound of silence (simon & garfunkel)
   - kletka (molchat doma)
   - old memory (manack & bruno wen li)
+  - magnet (minato aqua & inuyama tamaki)
   - the legend of zelda: ocarina of time title theme (koji kondo)
   - caresse sur l'océan (bruno coulais & les petits chanteurs de saint-marc)
   - the name of life (joe hisaishi)
@@ -54,7 +55,6 @@
   - sky (beyond)
   - fu shi shan xia (eason chan)
   - one last kiss (hikaru utada)
-  - magnet (minato aqua & inuyama tamaki)
   - ymca (village people)
   - hyehwadong (park bo ram)
   - way down we go (kaleo)
@@ -184,9 +184,9 @@
   - wolfram alpha
   - geogebra
   - kaggle
+  - leetcode
   - codeforces
   - luogu
-  - leetcode
   - douban book top 250
   - douban movie top 250
   - my anime list top
@@ -205,11 +205,14 @@
   - fuxuan
   - gallagher
   - herta
+  - inuyama tamaki
   - kaedehara kazuha
+  - kagura mea
   - kasugano sora
   - keqing
   - minato aqua
   - nahida
+  - necora nyaru
   - orient snowy lotus
   - sparkle
 - - adhesion tek
@@ -247,6 +250,7 @@
   - jjying iconmoon
   - justyyuk doctor lai
   - kirikaze chiyuki chyk
+  - kkksc03 luogu
   - livid v2ex
   - longbow flintlock
   - lv fuyuan
@@ -254,6 +258,7 @@
   - magicalflower
   - math contest fei bro
   - memoir of prosperity
+  - mike mirzayanov codeforces
   - mohamad light
   - mr marmot little pink wojaks
   - mr yu teaching physics
@@ -268,7 +273,7 @@
   - paperclip
   - paul graham paulg
   - promise of playboy
-  - qingyu
+  - qingyu qwq
   - richard brawl stars
   - rodrigo pombo pombus
   - ruan yifeng ruanyf
@@ -283,6 +288,7 @@
   - wanderer brawl stars
   - wes bos
   - xiaogu math
+  - yan xuecan acwing
   - yunling sapphire
   - zhang hai
   - zhang xizhe

@@ -361,3 +361,8 @@ qingyu love flower. forever.
 物化生包含大量的定义与专有名词.数学反之,简单的定义与复杂的性质.
 
 stream forth, the gleam of old blades.
+
+**honkai star rail daily 240 or 80 good design**
+
+**i never pressed one more ctrl save after getting vscode.**
+

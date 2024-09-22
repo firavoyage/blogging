@@ -5111,7 +5111,7 @@ finally solved.
 
 $
 \{a_n\},a_2=\frac{a_1}{2},\forall n \geq 3,a_n=\frac{a_{n-1}+a_{n-2}}{2}.\\
-\lim_{n\to+\infty}{a_n}=2,{a_1}?
+\lim\limits_{n\to+\infty}{a_n}=2,{a_1}?
 $
 
 18:37
