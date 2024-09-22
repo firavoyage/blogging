@@ -362,7 +362,5 @@ qingyu love flower. forever.
 
 stream forth, the gleam of old blades.
 
-**honkai star rail daily 240 or 80 good design**
-
-**i never pressed one more ctrl save after getting vscode.**
+你是GG还是MM
 

@@ -2757,13 +2757,20 @@ Chetan Bhagat
 
 看到原神阿炜,要抽卡了.
 
-版本5.0
+版本 5.0
 
-地图全满,任务清空.第二十五天,时长207h
+地图全满,任务清空.第二十五天,时长 207h
 
 62484 primogems 76 fates 109 regular
 
 看来时长统计网站没错,**时间不骗人**.
 
+## why vscode cult of god
 
+**i never pressed one more ctrl save after getting vscode.**
 
+## sr daily design
+
+**honkai star rail daily 240 or 80 good design**
+
+auto battle. simple.
