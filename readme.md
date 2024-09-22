@@ -54,9 +54,10 @@
   - sky (beyond)
   - fu shi shan xia (eason chan)
   - one last kiss (hikaru utada)
-  - way down we go (kaleo)
+  - magnet (minato aqua & inuyama tamaki)
   - ymca (village people)
   - hyehwadong (park bo ram)
+  - way down we go (kaleo)
   - dance music of youth (luo da you)
   - story of time (luo da you)
   - if (bo peep)
@@ -210,6 +211,7 @@
   - the pirate bay
   - github
   - google
+  - yandex
   - youtube
   - ruanyf weekly
   - hacker news
@@ -223,6 +225,7 @@
   - mistral chat
   - wolfram alpha
   - geogebra
+  - kaggle
   - codeforces
   - luogu
   - leetcode

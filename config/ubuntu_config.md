@@ -256,7 +256,10 @@ chrome://flags/#chrome-webui-refresh-2023
     - zhihu enhancement `https://greasyfork.org/en/scripts/419081`
     - zhihu dark mode `https://greasyfork.org/en/scripts/408224`
     - allow copy `https://greasyfork.org/en/scripts/12561-allow-copy-and-context-menu-continued`
-      - only sites needed `on`
+      - original includes `off`
+      - user matches `on`
+        - zhihu `*://www.zhihu.com/*`
+        - zhihu article `*://zhuanlan.zhihu.com/*`
   - bewlybewly `https://chromewebstore.google.com/detail/bewlybewly/bbbiejemhfihiooipfcjmjmbfdmobobp`
   - wayback machine `https://chromewebstore.google.com/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak`
     - login

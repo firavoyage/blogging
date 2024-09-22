@@ -5174,3 +5174,21 @@ seem like a bangumi made as a game by mistake
 
 sleep.
 
+02:19
+
+read zhihu about nanjing foreign language school
+
+sleep.
+
+retro
+
+**`!math`**
+**`!ref`**
+
+zhangxizhe:
+
+知道你英语好,没想到你英语这么好啊,你说的我一个都不会.
+
+(最触动的一句话,尽管他英语没上半分)
+
+
