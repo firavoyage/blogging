@@ -22,29 +22,27 @@
 ## love
 
 - - 🌕 💤 23:00
-- - lipton black tea
+- - johann sebastian bach
+  - frédéric chopin
+  - lipton black tea
   - cocacola zero
+  - lays crisps original
+  - preserved plum & chenpi
+  - tea leaf eggs
   - mixue bubble tea
   - guiguicha egg puffs
-  - lays crisps original
-  - burgerking french fries
-  - preserved plum & chenpi
   - ruby chocolate popsicle
-  - tea egg
   - life size waifu pillow
-  - simple origami & gardening
+  - simple gardening & origami
+  - math & algorithms
+  - functional programming & vanilla js
   - dark style & night light & low brightness
   - second person omniscient narrator
-  - math and algorithms
-  - functional programming
-  - vanilla javascript
-- - bach werke verzeichnis (johann sebastian bach)
-  - the very best of chopin (frédéric chopin)
-  - hotel california (eagles)
-  - a day in the life (the beatles)
+- - hotel california (eagles)
   - wind of change (scorpions)
   - scarborough fair (sarah brightman)
   - the sound of silence (simon & garfunkel)
+  - a day in the life (the beatles)
   - old memory (manack & bruno wen li)
   - magnet (minato aqua & inuyama tamaki)
   - the legend of zelda: ocarina of time title theme (koji kondo)
