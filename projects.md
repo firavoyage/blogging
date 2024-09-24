@@ -151,7 +151,7 @@
 > reply and translate reasonably
 
 - see reasons behind anwsers
-- highly-abstracted grammar,like words filling
+- highly-abstracted grammarlike words filling
 - deconstruct natural languages grammar
 - inspired by
   - siri
@@ -251,7 +251,7 @@
 
 ### `fav`
 
-> digital time capsule, yours
+> digital time capsule yours
 
 - list following
   - escape awkward reco algo
@@ -305,7 +305,7 @@
 > treasure hunting guide for a 2000s time traveller
 
 - reveal the treasures
-  - not just promoted,most commercialized ones
+  - not just promoted most commercialized ones
 - content forms
   - sites categorized
   - channels tag based
@@ -394,35 +394,32 @@
 > -> /pure
 
 - features
-  - text based to voice based
-  - lines to paragraphs
-  - symbol language to chinese words
-  - latex based to hand written
-  - on paper to on screen
-  - math challengers to exam candidates
+  - text based not voice based
+  - lines not paragraphs
+  - symbol language not chinese words
+  - latex based not hand written
+  - on paper not on screen
+  - for fun not for exam
 - perspectives
   - dark mode
   - blockquotes low opacity
+  - no ol only ul
 - concepts
   - dailyab
-  - 40min hs math
+  - 40min high school math
   - unit cheetsheet
-- problem
-  - knowledge from textbook
-  - tricks from workbook
-  - observation from divine source
-- course
-  - definition
-  - axiom and theory
-  - conclusion proof
-  - demonstration on math challenger
+- solutions
+  - knowledge from textbooks
+  - tricks from workbooks
+  - observations from divine source
+- courses
+  - definitions theories and conclusions
+  - learn on math challenger
   - practice on math guide
 - wonders
   - childhood retro and my desired math course
-  - learn hs math as nicholas wei bro
   - the libre high school math textbook
-  - hs math editorial for children
-  - random pick from a class of mihoyo or ba students
+  - random pick a student from mihoyo or blue archive characters
   - high school g1t1 math 40min definitions theories tricks and uee paper
   - theories usage as card playing
 - various themes
@@ -573,10 +570,10 @@ a{b;c{d};e}
   - `int a=0`
   - `myType b`
 - json simplified
-  - `{a 1 b 2 c 3 d, e e}`
+  - `{a 1 b 2 c 3 d e e}`
   - `[a b c d e]`
 - macro like cpp
-  - `define each(a,b,c) for(int a=b;a<=c;a++){}`
+  - `define each(abc) for(int a=b;a<=c;a++){}`
 - inspired by
   - python
   - typescript
@@ -593,15 +590,15 @@ a{b;c{d};e}
 - truth
 
 ```
-(a b c d) //(a,b,c,d)
+(a b c d) //(abcd)
 
-[a b c d] //[a,b,c,d]
+[a b c d] //[abcd]
 
-{a b c d} //{a:b,c:d}
+{a b c d} //{a:bc:d}
 
 (A){B} //function(A){B}
 
-const {a 1 b 2 c 3} //const a=1,b=2,c=3
+const {a 1 b 2 c 3} //const a=1b=2c=3
 
 let a [A] //let a=[A]
 
@@ -613,7 +610,7 @@ a(A){B} //a=function(A){B}
 
 if(a){A}(b){B}(c){C}{D} //if(a){A}else if(b){B}else if(c){C}else{D}
 
-match(value,pairs,stop=false)
+match(valuepairsstop=false)
 
 for{A} //while(true){A}
 
@@ -621,9 +618,9 @@ while{A} //while(true){A}
 
 repeat(10){A} //for(let __i=0;__i<10;__i++){A}
 
-each(i arr){A} //for(let __i=0,i=arr[__i];__i<arr.length;__i++,i=arr[__i]){A}
+each(i arr){A} //for(let __i=0i=arr[__i];__i<arr.length;__i++i=arr[__i]){A}
 
-each(i obj){A} //for(let __i=0,__k=Object.keys(obj),i=__k[__i];__i<__k.length;__i++,i=__k[__i]){A}
+each(i obj){A} //for(let __i=0__k=Object.keys(obj)i=__k[__i];__i<__k.length;__i++i=__k[__i]){A}
 
 for(i 1 10){A} //for(let i=1;i<=10;i++){A}
 
@@ -662,10 +659,10 @@ for(i 1 10 j 10 100){A} //for(let i=1;i<=10;i++){for(let j=10;i<=100;j++){A}}
 - finger control
   - codeforces mobile
   - swipe left or right
-- great components
-  - number(chinese or english,precise or not)
-  - button(material water drop effect,svg uncolorized icon,alt msg,keyboard focus)
-  - link(internet archive,preview,stats)
+- tiny components
+  - number(chinese or englishprecise or not)
+  - button(material water drop effectsvg uncolorized iconalt msgkeyboard focus)
+  - link(internet archivepreviewstats)
   - ...
 - playground
   - generate code
@@ -697,7 +694,7 @@ for(i 1 10 j 10 100){A} //for(let i=1;i<=10;i++){for(let j=10;i<=100;j++){A}}
   - alpine
   - mithril
   - svelte
-  - vanilla jquery 
+  - vanilla jquery
 
 ### `fresh`
 
@@ -736,7 +733,7 @@ for(i 1 10 j 10 100){A} //for(let i=1;i<=10;i++){for(let j=10;i<=100;j++){A}}
 
 ### `fx`
 
-> arithmatic is beautiful | "数论推个屁,打表找规律"
+> arithmatic is beautiful | "数论推个屁打表找规律"
 
 - features
   - using accurate form
@@ -746,6 +743,10 @@ for(i 1 10 j 10 100){A} //for(let i=1;i<=10;i++){for(let j=10;i<=100;j++){A}}
   - by voyage
 - inspired by
   - casio fx991
+  - wolfram alpha
+  - mathway
+  - math for you
+  - symbolab
 
 ### `card`
 

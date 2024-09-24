@@ -37,7 +37,7 @@
   - second person omniscient narrator
   - math and algorithms
   - functional programming
-  - vanilla web dev
+  - vanilla javascript
 - - bach werke verzeichnis (johann sebastian bach)
   - the very best of chopin (frédéric chopin)
   - hotel california (eagles)
@@ -67,10 +67,12 @@
   - joker (2019)
   - soul (2020)
   - life in a day (2011)
-  - reply 1988 (2015)
+  - the chorus (2004)
+  - the phantom of the opera (2004)
   - your name. (2016)
   - how to make millions before grandma dies (2024)
   - the legend of 1900 (1998)
+  - les misérables (2012)
   - .evangelion (1995)
   - .5 centimeters per second (2007)
   - .lucky star (2007)
@@ -81,9 +83,15 @@
   - .oshi no ko (2023)
   - .your lie in april (2014)
   - .the melancholy of haruhi suzumiya (2006)
+  - .my youth romantic comedy is wrong, as i expected (2011)
+  - .a certain scientific railgun (2009)
+  - .reply 1988 (2015)
   - .the godfather (1972)
-  - .the truman show (1998)
   - .the good the bad and the ugly (1966)
+  - .the truman show (1998)
+  - .forrest gump (1994)
+  - .titanic (1997)
+  - .roman holiday (1953)
 - - honkai star rail (2023)
   - honkai impact third (2016)
   - houkai gakuen second (2014)
@@ -111,6 +119,7 @@
   - .the binding of isaac (2011)
   - .grand theft auto v (2013)
   - .super bunny man (2017)
+  - .pico park (2019)
   - .fly me 2 the moon (2011)
   - .yosuga no sora (2008)
   - .riddle joker (2020)
@@ -184,9 +193,10 @@
   - wolfram alpha
   - geogebra
   - kaggle
-  - leetcode
   - codeforces
+  - libreoj
   - luogu
+  - leetcode
   - douban book top 250
   - douban movie top 250
   - my anime list top
@@ -253,6 +263,7 @@
   - kkksc03 luogu
   - livid v2ex
   - longbow flintlock
+  - lu jianhong
   - lv fuyuan
   - ma dugong bedtime news
   - magicalflower
@@ -286,6 +297,7 @@
   - unfettered idle man
   - upright flies
   - wanderer brawl stars
+  - wang zhaohai
   - wes bos
   - xiaogu math
   - yan xuecan acwing
@@ -492,6 +504,8 @@
   - `wenyan` wenyan lang guide
   - `design` psychology in design
   - `plain` federal plain language
+  - `symbols` latex symbols list
+  - `physics` chinese high school physics textbook
   - `competitive` competitive programming
   - `refactoring` refactoring ui
   - `react` react learn

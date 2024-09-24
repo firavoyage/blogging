@@ -1,22 +1,35 @@
 # ruanyf weekly
 
-> i read all ruanyf weekly issues from the oldest to the latest
-> significant quotes -> ruanyf.md
+## .
+
+> reading all ruanyf weekly posts
+>
+> good ones are saved here
+>
 > (fira,20240706)
 
-> i dont use tags for searching
-> instead,i unified some similar words in the titles
+> i unified some words of similar meaning for searching in titles
+>
 > tutorial tricks wiki document guide -> guide
+>
 > implementation explanation style theory -> theory
+>
 > lists database library collection repository -> library
+>
 > vintage legacy golden nostalgia reminiscent retro -> retro
-> -> quote,-> story,-> history,-> view,->...
-> those not included are most probably just another bbs post
+>
+> -> quote,story,history,view,etc.
+>
 > (fira,20240719)
 
-> after reading 30 issues,i discovered my interest
-> selected:creative apps,startup quotes,developer stories,design theory,programming guides,resource libraries
-> ignored:novel hardwares,biological or astronomical researches,prove of concept programming tools,business news
+> finished reading first 30 weekly issues
+>
+> reviewing what i picked
+>
+> selected: creative apps,startup quotes,developer stories,design theory,programming guides,resource libraries
+>
+> ignored: novel hardwares,biological or astronomical researches,prove of concept programming tools,business news
+>
 > (fira,20240723)
 
 ## ruanyf weekly mission
@@ -397,16 +410,6 @@ http://seriot.ch/parsing_json.php
 ## retro feeling of internet quote
 
 十八年前刚刚接触网络，常常有世界触手可及的奇妙感觉。如今技术越来越先进，那种感觉却越来越少。（网友）
-
-## ruanyf blog server attack
-
-本周，服务器遭受攻击，网站下线 50 多个小时。我一度以为，《每周分享》不能按时发了。现在，攻击停了，但你不知道，什么时候它还会回来。这件事情的细节，我后面会单独写文章，这里只说说我的一个感受。
-
-消息传出以后，许多素不相识的朋友通过各种渠道，询问我是否需要帮助，愿意提供个人或公司的资源，帮我渡过难关。阿里云和腾讯云都向我赠送了高防 IP。我全部牢记心中，这里不再一一感谢了。就算攻击最大的时候，我都没有担心过，因为我知道，背后有那么多人支持，你打不垮我的，只会激发我的斗志。
-
-我最大的体会就是，在互联网上做一个好人，真是一件最划算的事情。你平时无非就是网上写写教程，邮件回答一些问题，虽然也是尽力去帮助别人，实际上并没有什么了不起的付出。但是，互联网的传播作用使得一点点微不足道的善行，都会被许多人看到和记住。等到你有困难的时候，人们就会在网上出现，从四面八方走过来帮你，默默用眼神支持你。
-
-相反，如果你做一个坏人，躲在黑暗的角落放冷枪，也许能够达到那些自私的目的，攫取各种利益，但是你从此不敢相信别人，紧张兮兮活着，因为别人可能也会用同样的手段对付你。等到你落难了，不要说有人帮，他们庆祝和复仇都来不及呢。我觉得，这种人生可耻又可悲。
 
 ## upward programming theory
 
@@ -1049,7 +1052,7 @@ http://thefounder.biz/
 
 https://florentcrivello.com/index.php/2018/09/25/go-west-young-man/
 
-## steve jobs passion quotes criticism
+## steve jobs passion quote criticism
 
 2005 年，斯坦福大学邀请乔布斯在毕业典礼演讲。这个演讲后来成为经典，《乔布斯传》说"或许有些演讲对后世影响更大，但是你找不到（比这篇）更好的演讲。"
 
@@ -10208,7 +10211,7 @@ Don't partner with cynics and pessimists. Their beliefs are self-fulfilling.
 
 Leetcode 前 300 题，每道都进行了详细通俗的分析，并且提供多种思路解法。（@[wind-liang](https://github.com/ruanyf/weekly/issues/1230)  投稿）
 
-## the philosophical razor quotes theory
+## the philosophical razor quote theory
 
 [哲学剃刀](https://zh.wikipedia.org/wiki/%E5%93%B2%E5%AD%A6%E5%89%83%E5%88%80)
 

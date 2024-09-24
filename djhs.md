@@ -68,22 +68,23 @@
     - room and seat 0521
 - g2t1
   - sept
-    - fira `82 94.5`
-    - zhangyizhe `85 43`
-    - jiangzhijun `111 95`
-    - lvfuyuan `114 72`
+    - fira `258.5 a+ 82 a 82 b+ 94.5 a+`
+    - jiangzhijun `287 #1 81 111 95`
+    - lvfuyuan `265 79 114 72`
+    - zhangyizhe `205 75 85 45`
+    - room and seat 0603
 
 ## jhs fin exam
 
 - sum `684`
   - max `750`
-- chinese `121` 
+- chinese `121`
   - writing 会心之乐
 - math `145`
   - some confusing bad problems killed my classmates
   - 23 24(3) skipped at first and done at the end of the day
   - 25(3) worth 5 points. $1:2$ but i guessed $\frac{\sqrt{5}-1}{2}$
-- english `136` 
+- english `136`
 - physics `65`
 - chemistry `47`
 - geography&biology `13`
@@ -92,10 +93,9 @@
 - politics `27` + `30`
 - pe `30`
 
-> only hs near my home are listed
+> hs aspirations
 
 - shanghai hs `710`
 - datong hs `694`
 - dajing hs `66x`
 - shiba hs `x`
-- shinan hs `x`

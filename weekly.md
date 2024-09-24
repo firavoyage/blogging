@@ -31,14 +31,14 @@
 
 > spare time
 
-- make pages markdown
+- make webpages markdown
 - sync phone
 
 > school
 
-- read one hundred years of solitude
 - write math challenger
-- learn math & english
+- learn english vocabulary
+- read one hundred years of solitude
 
 ## 20240917
 
