@@ -79,10 +79,13 @@
   - .bocchi the rock (2022)
   - .frieren: beyond journey's end (2023)
   - .oshi no ko (2023)
-  - .your lie in april (2014)
+  - .tonikawa: over the moon for you (2020)
   - .the melancholy of haruhi suzumiya (2006)
   - .my youth romantic comedy is wrong, as i expected (2011)
+  - .your lie in april (2014)
   - .a certain scientific railgun (2009)
+  - .bakemonogatari (2009)
+  - .scum's wish (2017)
   - .reply 1988 (2015)
   - .the godfather (1972)
   - .the good the bad and the ugly (1966)
@@ -109,9 +112,9 @@
   - senren banka (2016)
   - sabbat of the witch (2015)
   - the rainbow appears after flowering rain (2016)
-  - .the legend of zelda: Ocarina of Time (1998)
-  - .the legend of zelda: Breath of the Wild (2017)
-  - .the legend of zelda: Tears of the Kingdom (2023)
+  - .the legend of zelda: ocarina of time (1998)
+  - .the legend of zelda: breath of the wild (2017)
+  - .the legend of zelda: tears of the kingdom (2023)
   - .sekiro: shadows die twice (2019)
   - .elden ring (2022)
   - .the binding of isaac (2011)
@@ -127,9 +130,9 @@
   - javascript: the good parts (douglas crockford)
   - javascript: the definitive guide seventh edition (david flanagan)
   - c++ primer plus sixth edition (stephen prata)
-  - hello algo (yudong jin krahets)
-  - oi wiki (oi community)
   - mathematics, no 2 secondary school attached to east china normal university (math group)
+  - oi wiki (oi community)
+  - hello algo (yudong jin krahets)
   - refactoring ui (adam wathan & steve schoger)
   - react learn docs (react commutity)
   - the water level of ideology (liu yu)
@@ -139,11 +142,12 @@
   - road ahead (ruan yifeng)
   - a long gaze (long yingtai)
   - to live (yu hua)
-  - the chameleon (anton chekhov)
   - the scholars (wu jingzi)
   - what i have seen (chai jing)
   - one hundred years of solitude (gabriel garcía márquez)
   - i wandered lonely as a cloud (william wordsworth)
+  - the chameleon (anton chekhov)
+  - rashomon (ryunosuke akutagawa)
   - .meditations on life (zhou guoping)
   - .fortress besieged (qian zhongshu)
   - .godel, escher, bach (douglas hofstadter)
@@ -153,12 +157,14 @@
   - .pride and prejudice (jane austen)
   - .if on a winter's night a traveler (italo calvino)
   - .the moon and sixpence (william somerset maugham)
-  - .rashomon (ryunosuke akutagawa)
   - .jin ping mei (lanling xiaoxiao sheng)
   - .remarks on the song lyric and the human condition (wang guowei)
-  - .the holy bible (king james version)
   - .the wisdom of life (schopenhauer)
   - .tao te ching (laozi)
+  - .the holy bible (king james version)
+  - .the smiling, proud wanderer (jin yong)
+  - .demi-gods and semi-devils (jin yong)
+  - .the heaven sword and dragon saber (jin yong)
 - - anyway.fm (jj ying & leon gao)
   - beyond code (randy lu & geek plux)
   - hard hacker (yixiao & 0xsaito & anson)
@@ -176,6 +182,7 @@
   - the pirate bay
   - github
   - google
+  - google doodle
   - yandex
   - youtube
   - ruanyf weekly
@@ -452,6 +459,7 @@
 - 只道当时是寻常
 - 江畔何人初见月江月何年初照人
 - 年年岁岁花相似岁岁年年人不同
+- 花开堪折直须折莫待无花空折枝
 - 去年今日此门中人面桃花相映红
 - 天地者万物之逆旅也光阴者百代之过客也
 - 悟已往之不谏知来者之可追
@@ -461,9 +469,9 @@
 - 壁上小虫忽跃落衿袖间
 - 以神遇而不以目视
 - 为者败之执者失之
-- 花开堪折直须折莫待无花空折枝
 - 以我观物故物皆着我之色彩
 - 十年饮冰难凉热血
+- 待到秋来九月八我花开后百花杀
 - 宁为玉碎不为瓦全壮士断腕义无再辱
 - 民为贵社稷次之君为轻
 - 以上祝你度过智识的审美的一天

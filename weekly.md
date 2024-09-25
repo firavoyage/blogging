@@ -16,8 +16,8 @@
 - write voyagejs
 - think ant design in sr
 - create pre project
-- design pure project contents
-- design intuitive project contents
+- design pure project
+- design intuitive project
 
 > weekend night
 

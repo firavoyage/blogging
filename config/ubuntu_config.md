@@ -260,6 +260,7 @@ chrome://flags/#chrome-webui-refresh-2023
       - user matches `on`
         - zhihu `*://www.zhihu.com/*`
         - zhihu article `*://zhuanlan.zhihu.com/*`
+        - nga `*://nga.178.com/*`
   - bewlybewly `https://chromewebstore.google.com/detail/bewlybewly/bbbiejemhfihiooipfcjmjmbfdmobobp`
   - wayback machine `https://chromewebstore.google.com/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak`
     - login
