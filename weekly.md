@@ -7,7 +7,6 @@
 > daily
 
 - visit digital homes (al sr)
-- eat berryberry (bilimiao)
 
 > weekend
 
@@ -19,14 +18,18 @@
 - design pure project
 - design intuitive project
 
-> weekend night
+> weekend afternoon
 
 - learn origami
 - read ruanyf weekly
+
+> weekend night
+
 - watch 5 centimeters per second
 - watch evangelion
 - watch mygo
-- read sr story
+- rewatch yosuga no sora
+- play sr
 - play senrenbanka
 
 > spare time
@@ -36,7 +39,7 @@
 
 > school
 
-- memorize tem8 vocabulary
+- memorize tem 8 vocabulary
 - write math challenger
 - write physics challenger
 - write chemistry challenger

@@ -367,6 +367,7 @@
   - blender 4.2.1
   - bubeidanci 5.8.8
   - deja-dup 45.2
+  - eudic 9.3.1
   - evince 46.0
   - fcitx5-android 0.0.7
   - gedit 46.2
@@ -379,6 +380,7 @@
   - jan 0.5.2
   - k9-mail 6.801
   - kdenlive 23.08.4
+  - legado 3.23.112523
   - libreoffice 24.2.5.2
   - material-files 1.4.2
   - nautilus 46.2
