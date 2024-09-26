@@ -2,24 +2,24 @@
 
 ## .
 
-- an entrepreneur, developer, otaku
+- an entrepreneur, developer, writer
 - grew up in shanghai
 - on the internet since 2019, which is my actual "home town"
 - live in dajing high school
 - working on voyage project
 
-## career
+## desiderata
 
 - make tools elegant
 - make knowledge pure
 
-## wisdom
+## enlightenment
 
 - be serene
 - be reticent
-- be restrained
+- be reserved
 
-## love
+## intuition
 
 - - 🌕 💤 23:00
 - - johann sebastian bach
@@ -182,13 +182,13 @@
   - the pirate bay
   - github
   - google
-  - google doodle
   - yandex
   - youtube
   - ruanyf weekly
   - hacker news
   - css tricks
   - codepen spark
+  - doodle.google
   - reddit old
   - v2ex creative
   - nga bbs
@@ -202,17 +202,19 @@
   - libreoj
   - luogu
   - leetcode
+  - travellings
+  - foreverblog
   - douban book top 250
   - douban movie top 250
   - my anime list top
   - bangumi.tv anime chart
   - imdb movie top 250
   - steam top 250
+  - unsplash nature
   - pixiv monthly
   - dribbble popular
-  - unsplash nature
+  - github awesome
   - product hunt all time
-  - travellings foreverblog
 - - acheron
   - adventurine
   - clara
@@ -333,6 +335,7 @@
   - monokai pro
   - atom one dark
   - chromium just black
+  - material design 2
   - material design 3
   - smartisan os 8
   - hydrogen os 11
@@ -343,29 +346,34 @@
   - firefox 124.0.2
   - code 1.91.2
   - git 2.43
-  - fcitx 5.1.7
-  - wine 9.0
-  - v2raya 2.2.5.1
+  - g++ 13.2.0
+  - python 3.12.3
   - node 18.19.1
   - npm 9.2.0
   - eslint 6.4.0
+  - marked 14.1.2
   - prettier 9.2.0
   - terser 5.19.2
   - wenyan 0.3.4
-  - marked 14.1.2
-  - g++ 13.2.0
-  - python 3.12.3
+  - apt 2.7.14
+  - snap 2.63.1
+  - flatpak 1.14.10
+  - fcitx 5.1.7
+  - wine 9.0
+  - v2raya 2.2.5.1
   - antennapod 3.1.2
   - baobab 46.0
   - bilimiao 2.3.8.3
   - blender 4.2.1
+  - bubeidanci 5.8.8
   - deja-dup 45.2
   - evince 46.0
-  - fcitx-android 0.0.7
+  - fcitx5-android 0.0.7
   - gedit 46.2
   - gimp 2.10.38
   - gnome-boxes 45.0
   - gnome-system-monitor 46.0
+  - gnome-weather 44.0
   - goldendict 1.5.0
   - inkscape 1.3.1
   - jan 0.5.2
@@ -376,6 +384,7 @@
   - nautilus 46.2
   - nekogram 11.0.0
   - obs-studio 30.0.2
+  - oneplus-weather 1.8.5
   - onscripter-yuri 0.7.4
   - qbitorrent-arnatious 4.3.9
   - simplelive 1.7.3
@@ -440,14 +449,12 @@
   - there is a lucky star behind the darkness,
   - waiting and shining with the freshest hope and warmest aura.
   - some day. till then
-- veni, vidi, vici
-  - so much for this, have a nice day.
 - soli deo gloria.
   - god is light, and in him there is no darkness at all.
   - if we say we have fellowship with him yet walk in the darkness, we lie and do not practice the truth.
   - but if we walk in the light as he is in the light, we have fellowship with one another, and the blood of jesus his son cleanses us from all sin.
 - memento mori.
-  - an honourable death is better than a disgraceful life
+  - i came, i saw, i conquered.
   - just let time be precious
 - 遂迷不复得路
 - 念念不忘必有回响
@@ -471,10 +478,9 @@
 - 为者败之执者失之
 - 以我观物故物皆着我之色彩
 - 十年饮冰难凉热血
+- 民为贵社稷次之君为轻
 - 待到秋来九月八我花开后百花杀
 - 宁为玉碎不为瓦全壮士断腕义无再辱
-- 民为贵社稷次之君为轻
-- 以上祝你度过智识的审美的一天
 
 ## pages
 
@@ -511,6 +517,7 @@
   - `design` psychology in design
   - `plain` federal plain language
   - `symbols` latex symbols list
+  - `kjv` king james version
   - `physics` chinese high school physics textbook
   - `competitive` competitive programming
   - `refactoring` refactoring ui
@@ -562,11 +569,15 @@
 
 ## character
 
-- `reminiscent youth` good old days...
-- `tech otaku` unworldly girls...
-- `digital hoarder` memories forever...
-- `idle student` earthly escapade...
-- `simplicity addict` elegance of knowledge...
-- `indie developer` libre world...
+- _reminiscent youth_ good old days...
+- _internet otaku_ unworldly girls...
+- _digital hoarder_ memories forever...
+- _idle classmate_ earthly escapade...
+- _simplicity addict_ elegance of ideas...
+- _indie developer_ libre world...
+
+> so much for this, have a nice day.
+
+> 以上, 祝你度过智识的, 审美的一天
 
 > 🌕 💤 23:00

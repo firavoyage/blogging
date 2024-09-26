@@ -6194,6 +6194,7 @@ Certainly! Below is a comprehensive list of LaTeX symbols, including Greek lette
 ### Greek Letters
 
 #### Lowercase Greek Letters
+
 - `\alpha` $\alpha$
 - `\beta` $\beta$
 - `\gamma` $\gamma$
@@ -6225,6 +6226,7 @@ Certainly! Below is a comprehensive list of LaTeX symbols, including Greek lette
 - `\omega` $\omega$
 
 #### Uppercase Greek Letters
+
 - `\Alpha` $A$
 - `\Beta` $B$
 - `\Gamma` $\Gamma$
@@ -6252,6 +6254,7 @@ Certainly! Below is a comprehensive list of LaTeX symbols, including Greek lette
 ### Mathematical Symbols
 
 #### Relational Operators
+
 - `=` $=$
 - `\neq` $\neq$
 - `\approx` $\approx$
@@ -6268,6 +6271,7 @@ Certainly! Below is a comprehensive list of LaTeX symbols, including Greek lette
 - `\propto` $\propto$
 
 #### Arithmetic Operators
+
 - `+` $+$
 - `-` $-$
 - `\times` $\times$
@@ -6281,6 +6285,7 @@ Certainly! Below is a comprehensive list of LaTeX symbols, including Greek lette
 - `\bullet` $\bullet$
 
 #### Set Theory
+
 - `\in` $\in$
 - `\notin` $\notin$
 - `\subset` $\subset$
@@ -6294,6 +6299,7 @@ Certainly! Below is a comprehensive list of LaTeX symbols, including Greek lette
 - `\varnothing` $\varnothing$
 
 #### Logical Symbols
+
 - `\land` $\land$
 - `\lor` $\lor$
 - `\lnot` $\lnot$
@@ -6310,6 +6316,7 @@ Certainly! Below is a comprehensive list of LaTeX symbols, including Greek lette
 - `\nexists` $\nexists$
 
 #### Miscellaneous Symbols
+
 - `\infty` $\infty$
 - `\partial` $\partial$
 - `\nabla` $\nabla$
@@ -6328,6 +6335,7 @@ Certainly! Below is a comprehensive list of LaTeX symbols, including Greek lette
 - `\cot` $\cot$
 
 ### Arrows
+
 - `\leftarrow` $\leftarrow$
 - `\rightarrow` $\rightarrow$
 - `\uparrow` $\uparrow$
@@ -6352,6 +6360,7 @@ Certainly! Below is a comprehensive list of LaTeX symbols, including Greek lette
 - `\iff` $\iff$
 
 ### Delimiters
+
 - `(` $( $
 - `)` $) $
 - `[` $[$
@@ -6374,6 +6383,7 @@ Certainly! Below is a comprehensive list of LaTeX symbols, including Greek lette
 - `\lrcorner` $\lrcorner$
 
 ### Accents
+
 - `\hat{a}` $\hat{a}$
 - `\check{a}` $\check{a}$
 - `\breve{a}` $\breve{a}$
@@ -7316,3 +7326,82 @@ Unworldly purity is a broad concept that can be broken down into several sub-con
    - **Minimalism**: A style or technique that is characterized by extreme spareness and simplicity.
 
 6. **Cultural or Symbolic Purity**: This involves being free from cultural or symbolic contamination. Sub-concepts can vary greatly depending on the specific culture or symbolic system.
+
+## material design
+
+**`!concept`**
+**`!ref`**
+
+> -> mistral large 2
+
+> material design 2 vs 3
+
+Material Design is a design system developed by Google, and it has evolved over the years. Material Design 2 (MD2) and Material Design 3 (MD3) are different versions of this design system, each with its own set of guidelines, components, and visual styles. Here's a comparison of the two:
+
+### Material Design 2 (MD2)
+
+1. **Aesthetics**:
+
+   - **Color**: MD2 uses a more vibrant and saturated color palette.
+   - **Shadows**: Emphasis on shadows to create depth and a sense of materiality.
+   - **Icons**: Flat, minimalistic icons with a focus on simplicity.
+
+2. **Components**:
+
+   - **Buttons**: Flat buttons with subtle shadows.
+   - **Cards**: Use of elevation to create a sense of depth.
+   - **Navigation**: Bottom navigation bars and floating action buttons (FABs) are common.
+
+3. **Interaction**:
+
+   - **Animations**: Smooth, natural animations to enhance user experience.
+   - **Feedback**: Visual feedback for user interactions, such as ripple effects on buttons.
+
+4. **Typography**:
+   - **Fonts**: Use of Roboto and other Google fonts.
+   - **Styles**: Clear hierarchy with different font sizes and weights.
+
+### Material Design 3 (MD3)
+
+1. **Aesthetics**:
+
+   - **Color**: MD3 introduces more dynamic and adaptive color schemes, including a focus on accessibility and personalization.
+   - **Shadows**: Less emphasis on shadows, with a more flat and minimalistic approach.
+   - **Icons**: More detailed and expressive icons, often with a touch of personality.
+
+2. **Components**:
+
+   - **Buttons**: More rounded and softer edges, with a focus on touch-friendly design.
+   - **Cards**: Simplified and less reliant on shadows, with a focus on content.
+   - **Navigation**: Enhanced navigation patterns, including more intuitive and adaptive navigation bars.
+
+3. **Interaction**:
+
+   - **Animations**: More fluid and dynamic animations, with a focus on micro-interactions.
+   - **Feedback**: Enhanced visual and haptic feedback for user interactions.
+
+4. **Typography**:
+   - **Fonts**: Continued use of Roboto and other Google fonts, but with more flexibility and customization options.
+   - **Styles**: Improved typography hierarchy and readability, with a focus on accessibility.
+
+### Key Differences
+
+1. **Color and Theming**:
+
+   - MD3 introduces more dynamic and adaptive color schemes, allowing for greater personalization and accessibility.
+
+2. **Shadows and Depth**:
+
+   - MD2 relies heavily on shadows to create depth, while MD3 moves towards a more flat and minimalistic design.
+
+3. **Components and Interaction**:
+
+   - MD3 components are more rounded and touch-friendly, with enhanced animations and feedback.
+   - MD2 components are more traditional, with a focus on elevation and depth.
+
+4. **Typography**:
+   - MD3 offers more flexibility and customization in typography, with a focus on readability and accessibility.
+
+### Conclusion
+
+Material Design 3 represents an evolution of the design system, with a focus on adaptability, personalization, and accessibility. While Material Design 2 laid the foundation with its emphasis on depth and materiality, MD3 builds on this by introducing more dynamic and user-friendly elements. The choice between MD2 and MD3 depends on the specific needs and goals of your project, as well as the target audience and platform.
