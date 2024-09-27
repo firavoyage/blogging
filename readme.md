@@ -19,32 +19,32 @@
 - be reticent
 - be reserved
 
-## intuition
+## perception
 
 - - 🌕 💤 23:00
 - - johann sebastian bach
   - frédéric chopin
-  - lipton black tea
+  - black tea
   - cocacola zero
-  - lays crisps original
-  - preserved plum & chenpi
+  - crisps classic
+  - huamei & chenpi
   - tea leaf eggs
-  - mixue bubble tea
-  - guiguicha egg puffs
-  - ruby chocolate popsicle
-  - life size waifu pillow
-  - simple gardening & origami
+  - bubble tea
+  - egg puffs
+  - chocolate popsicle
+  - second person omniscience
+  - waifu pillow & origami
+  - reading & gardening
   - math & algorithms
   - functional programming & vanilla js
   - dark style & night light & low brightness
-  - second person omniscient narrator
 - - hotel california (eagles)
   - wind of change (scorpions)
   - scarborough fair (sarah brightman)
   - the sound of silence (simon & garfunkel)
   - a day in the life (the beatles)
-  - old memory (manack & bruno wen li)
   - magnet (minato aqua & inuyama tamaki)
+  - old memory (manack & bruno wen li)
   - the legend of zelda: ocarina of time title theme (koji kondo)
   - caresse sur l'océan (bruno coulais & les petits chanteurs de saint-marc)
   - the name of life (joe hisaishi)
@@ -131,7 +131,7 @@
   - javascript: the definitive guide seventh edition (david flanagan)
   - c++ primer plus sixth edition (stephen prata)
   - mathematics, no 2 secondary school attached to east china normal university (math group)
-  - oi wiki (oi community)
+  - oi wiki (oi wiki community)
   - hello algo (yudong jin krahets)
   - refactoring ui (adam wathan & steve schoger)
   - react learn docs (react commutity)
@@ -158,10 +158,10 @@
   - .if on a winter's night a traveler (italo calvino)
   - .the moon and sixpence (william somerset maugham)
   - .jin ping mei (lanling xiaoxiao sheng)
-  - .remarks on the song lyric and the human condition (wang guowei)
   - .the wisdom of life (schopenhauer)
   - .tao te ching (laozi)
   - .the holy bible (king james version)
+  - .remarks on the song lyric and the human condition (wang guowei)
   - .the smiling, proud wanderer (jin yong)
   - .demi-gods and semi-devils (jin yong)
   - .the heaven sword and dragon saber (jin yong)
@@ -258,16 +258,19 @@
   - geek bay geekerwan
   - gui minghao
   - hexagram with spiritual wind
+  - hu qianlin
   - huang zhizhong
   - interpreter gavin
   - james sinclair jrsinclair
   - jiang yanyan
   - jiang zhijun
   - jiangly not dd
+  - jin jinjin
   - jjying iconmoon
   - justyyuk doctor lai
   - kirikaze chiyuki chyk
   - kkksc03 luogu
+  - liu yuan
   - livid v2ex
   - longbow flintlock
   - lu jianhong
@@ -295,6 +298,8 @@
   - richard brawl stars
   - rodrigo pombo pombus
   - ruan yifeng ruanyf
+  - shen ruochen 
+  - shen tongjun
   - spicy pidan porridge
   - sqr5's blog
   - tail tail desu
@@ -308,9 +313,12 @@
   - wes bos
   - xiaogu math
   - yan xuecan acwing
+  - yang yang
   - yunling sapphire
+  - zhang chuanzhi
   - zhang hai
   - zhang xizhe
+  - zhou ling
   - zhou xuanyi
 - - dejavu serif
   - fira code
@@ -398,7 +406,7 @@
   - vlc 3.0.20
   - zsh 5.9
 
-## quotes
+## strength
 
 - as human beings it is our right (maybe our moral duty) to reshape the universe to our preferences
   - technology, which is really knowledge, enables this
@@ -479,12 +487,11 @@
 - 以神遇而不以目视
 - 为者败之执者失之
 - 以我观物故物皆着我之色彩
-- 十年饮冰难凉热血
 - 民为贵社稷次之君为轻
 - 待到秋来九月八我花开后百花杀
-- 宁为玉碎不为瓦全壮士断腕义无再辱
+- 有所玩有所爱有所坚持有所懈怠
 
-## pages
+## erudition
 
 - people
   - `ruanyf` everything in the digital time
@@ -528,7 +535,7 @@
   - `testing ...` google testing
   - `...` stack overflow documentation
 
-## repos
+## beauties
 
 - `blogging` notes and inspirations
 - `web` findings and capsules
@@ -543,33 +550,26 @@
 - `self` favorite avatars
 - `git` favorite doujins
 
-## links
+## shadows
 
-- things
-  - github `firavoyage`
+- - github `firavoyage`
   - gitee mirror `firavoyage`
-- posts
-  - github `firavoyage`
-  - blogger `firavoyage`
+- - blogger `firavoyage`
   - twitter `firascript`
   - cnblogs `fira`
   - medium `_`
   - wordpress `_`
-- movies
-  - bilibili `fira_言序`
+- - bilibili `fira_言序`
   - youtube `_`
   - telegram `_`
-- chats
-  - telegram `firavoyage`
-  - telegram group `voyagefira`
+- - telegram `voyagefira`
   - email `firavoyage@outlook.com`
-- spaces
-  - name `firavoyage`
+- - name `fira`
   - alias `忘我思考`
   - site `_`
   - mirrors `_`
 
-## character
+## insight
 
 - _reminiscent youth_ good old days...
 - _internet otaku_ unworldly girls...

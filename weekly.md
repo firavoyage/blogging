@@ -1,4 +1,4 @@
-# weekly plan
+# $weekly$
 
 > 🌕 💤 before 23:00!
 
@@ -39,8 +39,9 @@
 
 > school
 
-- memorize tem 8 vocabulary
 - write math challenger
+- write english papers
+- memorize tem 8 vocabulary
 - write physics challenger
 - write chemistry challenger
 - read one hundred years of solitude
