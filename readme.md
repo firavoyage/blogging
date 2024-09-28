@@ -131,6 +131,8 @@
   - javascript: the definitive guide seventh edition (david flanagan)
   - c++ primer plus sixth edition (stephen prata)
   - mathematics, no 2 secondary school attached to east china normal university (math group)
+  - physics, no 2 secondary school attached to east china normal university (physics group)
+  - chemistry, no 2 secondary school attached to east china normal university (chemistry group)
   - oi wiki (oi wiki community)
   - hello algo (jin yudong krahets)
   - refactoring ui (adam wathan & steve schoger)
@@ -162,6 +164,7 @@
   - .tao te ching (laozi)
   - .the holy bible (king james version)
   - .remarks on the song lyric and the human condition (wang guowei)
+  - .the literary mind and the carving of dragons (liu xie)
   - .the smiling, proud wanderer (jin yong)
   - .demi-gods and semi-devils (jin yong)
   - .the heaven sword and dragon saber (jin yong)
@@ -200,7 +203,6 @@
   - luogu
   - leetcode
   - geogebra
-  - kaggle
   - douban book top 250
   - douban movie top 250
   - my anime list top
@@ -309,7 +311,6 @@
   - wanderer brawl stars
   - wang zhaohai
   - wes bos
-  - xiaogu math
   - yan xuecan acwing
   - yang yang
   - yunling sapphire
@@ -471,10 +472,10 @@
   - just let time be precious
 - 遂迷不复得路
 - 念念不忘必有回响
-- 不如相忘于江湖
+- 塞翁失马焉知非福
+- 有意栽花花不发无心插柳柳成荫
 - 命里有时终须有命里无时莫强求
 - 惟江上之清风与山间之明月
-- 塞翁失马焉知非福
 - 欲买桂花同载酒终不似少年游
 - 只道当时是寻常
 - 江畔何人初见月江月何年初照人
@@ -486,6 +487,7 @@
 - 寓形宇内复几时曷不委心任去留
 - 鸢飞戾天者望峰息心经伦事务者窥谷忘反
 - 以有涯随无涯殆已
+- 不如相忘于江湖
 - 壁上小虫忽跃落衿袖间
 - 以神遇而不以目视
 - 为者败之执者失之
@@ -530,7 +532,8 @@
   - `plain` federal plain language
   - `symbols` latex symbols list
   - `kjv` king james version
-  - `physics` chinese high school physics textbook
+  - `geb` geb
+  - `physics` high school physics textbook
   - `competitive` competitive programming
   - `refactoring` refactoring ui
   - `react` react learn
