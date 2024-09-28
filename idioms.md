@@ -448,3 +448,19 @@ It's not "don't go"
 
 你不敢轻视每个自命不凡的少年(年轻人).
 
+## fucking overwhelming notifications
+
+知道.再见.结束.
+
+## fucking chinese patriotic education
+
+中国的仇恨教育是如何反噬自己的？从幼儿园就开始的仇日教育有多可怕？
+
+(老周横眉)
+
+在中國當然還是有善良和勇敢的人，但那是因為他們是個人，不是因為他們是中國人！
+
+## subscribe! humanity.
+
+這影片你們都不點讚關注，你們有沒有人性啊~是不是人啊~
+

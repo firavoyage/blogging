@@ -658,7 +658,7 @@ FreeDictionary-Idioms
 
 ## apps
 
-- install in terminal
+- install code 
 
 ```
 sudo snap remove code
@@ -669,6 +669,8 @@ sudo apt install apt-transport-https
 sudo apt update
 sudo apt install code
 ```
+
+- install others
 
 ```
 sudo apt install git
@@ -703,8 +705,7 @@ sudo npm config set registry https://registry.npmjs.org/
 sudo npm install -g @wenyan/cli
 sudo npm install -g marked
 sudo npm install -g terser
+sudo apt install flatpak
+sudo apt install gnome-software-plugin-flatpak
+sudo flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
 ```
-
-- install elsewhere
-  - onsyuri
-  - localsend

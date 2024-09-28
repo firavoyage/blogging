@@ -76,7 +76,8 @@
   - click to add block
   - drag to link
 - examples
-  - following list
+  - latest phone stats comparison 
+  - opml following list
   - math problem solution
   - algorithm and data structure visualization
   - taptap 3839 steam top rated rank list
@@ -382,7 +383,8 @@
 - various themes
   - by voyage
 - inspired by
-  - exam wordbook
+  - paper wordbooks
+  - anki
   - bubeidanci
   - shanbay 
   - maimemo

@@ -27,13 +27,14 @@
   - black tea
   - cocacola zero
   - crisps classic
-  - huamei & chenpi
-  - tea leaf eggs
   - bubble tea
   - egg puffs
+  - tea leaf eggs
+  - huamei & chenpi
   - chocolate popsicle
-  - second person omniscience
-  - waifu pillow & origami
+  - second person omniscient narration
+  - dissociation & divine perspective
+  - life size waifu pillow & origami
   - reading & gardening
   - math & algorithms
   - functional programming & vanilla js
@@ -49,16 +50,15 @@
   - caresse sur l'océan (bruno coulais & les petits chanteurs de saint-marc)
   - the name of life (joe hisaishi)
   - the brave (yoasobi)
-  - sky (beyond)
-  - fu shi shan xia (eason chan)
   - one last kiss (hikaru utada)
   - ymca (village people)
   - kletka (molchat doma)
-  - hyehwadong (park bo ram)
   - way down we go (kaleo)
-  - dance music of youth (luo da you)
+  - hyehwadong (park bo ram)
+  - sky (beyond)
+  - fu shi shan xia (eason chan)
+  - fleet of time (faye wong)
   - story of time (luo da you)
-  - if (bo peep)
 - - in solitude where we are least alone (2010)
   - worldend: what do you do at the end of the world? are you busy? will you save us? (2017)
   - tom and jerry classic collection (1940)
@@ -98,7 +98,6 @@
   - houkai gakuen second (2014)
   - genshin impact (2020)
   - zenless zone zero (2024)
-  - reverse: 1999 (2023)
   - azurlane (2017)
   - blue archive (2021)
   - brawl stars (2017)
@@ -112,6 +111,7 @@
   - senren banka (2016)
   - sabbat of the witch (2015)
   - the rainbow appears after flowering rain (2016)
+  - reverse: 1999 (2023)
   - .the legend of zelda: ocarina of time (1998)
   - .the legend of zelda: breath of the wild (2017)
   - .the legend of zelda: tears of the kingdom (2023)
@@ -132,7 +132,7 @@
   - c++ primer plus sixth edition (stephen prata)
   - mathematics, no 2 secondary school attached to east china normal university (math group)
   - oi wiki (oi wiki community)
-  - hello algo (yudong jin krahets)
+  - hello algo (jin yudong krahets)
   - refactoring ui (adam wathan & steve schoger)
   - react learn docs (react commutity)
   - the water level of ideology (liu yu)
@@ -177,33 +177,30 @@
   - yitianshijie (li ruyi)
   - yixi (yixi)
 - - wikipedia
-  - internet archive wayback machine
-  - archive.today archive.is
+  - internet archive
+  - archive.today
   - the pirate bay
   - github
   - google
   - yandex
   - youtube
+  - mistral chat
   - ruanyf weekly
   - hacker news
   - css tricks
   - codepen spark
-  - doodle.google
+  - google doodle
   - reddit old
   - v2ex creative
   - nga bbs
   - zhihu following
   - wenxuecity
-  - mistral chat
-  - wolfram alpha
-  - geogebra
-  - kaggle
   - codeforces
   - libreoj
   - luogu
   - leetcode
-  - travellings
-  - foreverblog
+  - geogebra
+  - kaggle
   - douban book top 250
   - douban movie top 250
   - my anime list top
@@ -215,6 +212,8 @@
   - dribbble popular
   - github awesome
   - product hunt all time
+  - travellings
+  - foreverblog
 - - acheron
   - adventurine
   - clara
@@ -283,7 +282,6 @@
   - mohamad light
   - mr marmot little pink wojaks
   - mr yu teaching physics
-  - my sister is just that kawaii
   - nat friedman
   - nicholas wei bro
   - nova lciop
@@ -345,9 +343,11 @@
   - chromium just black
   - material design 2
   - material design 3
-  - smartisan os 8
-  - hydrogen os 11
   - iphone os 6
+  - smartisan os 8
+  - oxygen os 11
+  - color os 11
+  - flyme os 7
 - - ubuntu 24.04
   - android 11
   - chromium 124.0.6367.118
@@ -357,22 +357,24 @@
   - g++ 13.2.0
   - python 3.12.3
   - node 18.19.1
+  - marked 14.1.2
+  - wenyan 0.3.4
   - npm 9.2.0
   - eslint 6.4.0
-  - marked 14.1.2
   - prettier 9.2.0
   - terser 5.19.2
-  - wenyan 0.3.4
   - apt 2.7.14
-  - snap 2.63.1
   - flatpak 1.14.10
+  - snap 2.63.1
   - fcitx 5.1.7
-  - wine 9.0
   - v2raya 2.2.5.1
+  - wine 9.0
+  - zsh 5.9
   - antennapod 3.1.2
   - baobab 46.0
   - bilimiao 2.3.8.3
   - blender 4.2.1
+  - bottles 51.13
   - bubeidanci 5.8.8
   - deja-dup 45.2
   - eudic 9.3.1
@@ -381,6 +383,8 @@
   - gedit 46.2
   - gimp 2.10.38
   - gnome-boxes 45.0
+  - gnome-letterpress 2.1
+  - gnome-newsflash 3.3.5
   - gnome-system-monitor 46.0
   - gnome-weather 44.0
   - goldendict 1.5.0
@@ -404,7 +408,6 @@
   - transmission 4.0.5
   - virtualbox 7.0.16
   - vlc 3.0.20
-  - zsh 5.9
 
 ## strength
 
