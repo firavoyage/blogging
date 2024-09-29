@@ -202,7 +202,6 @@
   - libreoj
   - luogu
   - leetcode
-  - geogebra
   - douban book top 250
   - douban movie top 250
   - my anime list top
@@ -382,10 +381,9 @@
   - evince 46.0
   - fcitx5-android 0.0.7
   - gedit 46.2
+  - geogebra 6.0.804.0
   - gimp 2.10.38
   - gnome-boxes 45.0
-  - gnome-letterpress 2.1
-  - gnome-newsflash 3.3.5
   - gnome-system-monitor 46.0
   - gnome-weather 44.0
   - goldendict 1.5.0
@@ -394,16 +392,19 @@
   - k9-mail 6.801
   - kdenlive 23.08.4
   - legado 3.23.112523
+  - letterpress 2.1
   - libreoffice 24.2.5.2
   - material-files 1.4.2
   - nautilus 46.2
   - nekogram 11.0.0
+  - newsflash 3.3.5
   - obs-studio 30.0.2
   - oneplus-weather 1.8.5
   - onscripter-yuri 0.7.4
   - qbitorrent-arnatious 4.3.9
   - simplelive 1.7.3
   - snapseed 2.19.1
+  - solanum 5.0.0
   - telegram-desktop 4.16.8
   - thunderbird 115.11.0
   - transmission 4.0.5

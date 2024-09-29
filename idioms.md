@@ -477,4 +477,8 @@ It's not "don't go"
 ——Antoine de Saint-Exupery，
 《小王子》作者
 
+## doujin without laughter
+
+真的不能一边笑一边开导啊!真的不能!
+
 

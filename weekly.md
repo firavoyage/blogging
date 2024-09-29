@@ -2,7 +2,7 @@
 
 > 🌕 💤 before 23:00!
 
-## 20240926
+## 20240929
 
 > daily
 
@@ -15,22 +15,21 @@
 - write voyagejs
 - think ant design in sr
 - create pre project
-- design pure project
-- design intuitive project
+- design pure math
+- design intuitive cpp
 
 > weekend afternoon
 
-- learn origami
 - read ruanyf weekly
+- learn origami
 
 > weekend night
 
 - watch 5 centimeters per second
 - watch evangelion
-- watch mygo
 - rewatch yosuga no sora
-- play sr
 - play senrenbanka
+- play sr
 
 > spare time
 
@@ -41,10 +40,13 @@
 
 - write math challenger
 - write english papers
+- read one hundred years of solitude
+
+> after school
+
 - memorize tem 8 vocabulary
 - write physics challenger
 - write chemistry challenger
-- read one hundred years of solitude
 
 ## 20240925
 

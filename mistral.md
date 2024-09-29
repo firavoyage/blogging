@@ -1,9 +1,5 @@
 # answers from mistral ai
 
-> `mistral large` on mistral.ai
-
-> or `mistral instruct 7b q4` on jan
-
 ## passing youth
 
 > -> mistral large
@@ -51,62 +47,64 @@ In conclusion, the passing youth is a bittersweet reminder of the fleeting natur
 **`!list`**
 **`!ref`**
 
-> -> gpt 3.5
+> -> mistral large 2
 
 > 50 english classic songs with publication year
 
-Here is a list of 50 classic English songs along with their publication years:
+Here are 50 classic English songs, along with their publication years, spanning various decades and genres:
 
-1. "Bohemian Rhapsody" by Queen (1975)
-2. "Imagine" by John Lennon (1971)
-3. "Hotel California" by Eagles (1977)
-4. "Stairway to Heaven" by Led Zeppelin (1971)
-5. "Hey Jude" by The Beatles (1968)
-6. "Sweet Child o' Mine" by Guns N' Roses (1987)
-7. "Yesterday" by The Beatles (1965)
-8. "Like a Rolling Stone" by Bob Dylan (1965)
-9. "Smells Like Teen Spirit" by Nirvana (1991)
-10. "I Will Always Love You" by Whitney Houston (1992)
-11. "Every Breath You Take" by The Police (1983)
-12. "Let It Be" by The Beatles (1970)
-13. "Wonderwall" by Oasis (1995)
-14. "Billie Jean" by Michael Jackson (1982)
-15. "Purple Haze" by Jimi Hendrix (1967)
-16. "My Generation" by The Who (1965)
-17. "Dancing Queen" by ABBA (1976)
-18. "Brown Eyed Girl" by Van Morrison (1967)
-19. "Livin' on a Prayer" by Bon Jovi (1986)
-20. "I Want to Hold Your Hand" by The Beatles (1963)
-21. "Don't Stop Believin'" by Journey (1981)
-22. "Boogie Wonderland" by Earth, Wind & Fire (1979)
-23. "I Will Survive" by Gloria Gaynor (1978)
-24. "Born to Run" by Bruce Springsteen (1975)
-25. "Don't Worry, Be Happy" by Bobby McFerrin (1988)
-26. "Wonderful Tonight" by Eric Clapton (1977)
-27. "I Heard It Through the Grapevine" by Marvin Gaye (1968)
-28. "All You Need Is Love" by The Beatles (1967)
-29. "Hello" by Adele (2015)
-30. "Dream On" by Aerosmith (1973)
-31. "Hallelujah" by Leonard Cohen (1984)
-32. "Bridge Over Troubled Water" by Simon & Garfunkel (1970)
-33. "Help!" by The Beatles (1965)
-34. "The Sound of Silence" by Simon & Garfunkel (1964)
-35. "I Want to Know What Love Is" by Foreigner (1984)
-36. "Tears in Heaven" by Eric Clapton (1992)
-37. "My Girl" by The Temptations (1964)
-38. "Stand by Me" by Ben E. King (1961)
-39. "Piano Man" by Billy Joel (1973)
-40. "Don't Let the Sun Go Down on Me" by Elton John (1974)
-41. "You Are So Beautiful" by Joe Cocker (1974)
-42. "The Weight" by The Band (1968)
-43. "Space Oddity" by David Bowie (1969)
-44. "Ain't No Mountain High Enough" by Marvin Gaye and Tammi Terrell (1967)
-45. "Crazy" by Patsy Cline (1961)
-46. "I Can't Help Falling in Love with You" by Elvis Presley (1961)
-47. "You've Lost That Lovin' Feelin'" by The Righteous Brothers (1964)
-48. "The Times They Are a-Changin'" by Bob Dylan (1964)
-49. "Georgia on My Mind" by Ray Charles (1960)
-50. "Unchained Melody" by The Righteous Brothers (1965)
+1. **Over the Rainbow** - Judy Garland (1939)
+2. **White Christmas** - Bing Crosby (1942)
+3. **That's Life** - Frank Sinatra (1966)
+4. **Respect** - Aretha Franklin (1967)
+5. **Hey Jude** - The Beatles (1968)
+6. **Satisfaction** - The Rolling Stones (1965)
+7. **Bridge Over Troubled Water** - Simon & Garfunkel (1970)
+8. **Hotel California** - Eagles (1976)
+9. **Bohemian Rhapsody** - Queen (1975)
+10. **Stairway to Heaven** - Led Zeppelin (1971)
+11. **Imagine** - John Lennon (1971)
+12. **What's Going On** - Marvin Gaye (1971)
+13. **American Pie** - Don McLean (1971)
+14. **Like a Rolling Stone** - Bob Dylan (1965)
+15. **Good Vibrations** - The Beach Boys (1966)
+16. **Yesterday** - The Beatles (1965)
+17. **A Change Is Gonna Come** - Sam Cooke (1964)
+18. **Stand by Me** - Ben E. King (1961)
+19. **Johnny B. Goode** - Chuck Berry (1958)
+20. **Hound Dog** - Elvis Presley (1956)
+21. **Billie Jean** - Michael Jackson (1983)
+22. **Every Breath You Take** - The Police (1983)
+23. **Sweet Child O' Mine** - Guns N' Roses (1987)
+24. **Smells Like Teen Spirit** - Nirvana (1991)
+25. **Wonderwall** - Oasis (1995)
+26. **Bittersweet Symphony** - The Verve (1997)
+27. **Don't Stop Believin'** - Journey (1981)
+28. **Livin' on a Prayer** - Bon Jovi (1986)
+29. **Purple Rain** - Prince (1984)
+30. **Thriller** - Michael Jackson (1982)
+31. **Comfortably Numb** - Pink Floyd (1979)
+32. **Dream On** - Aerosmith (1973)
+33. **Wish You Were Here** - Pink Floyd (1975)
+34. **Sweet Home Alabama** - Lynyrd Skynyrd (1974)
+35. **Carry On Wayward Son** - Kansas (1976)
+36. **More Than a Feeling** - Boston (1976)
+37. **Go Your Own Way** - Fleetwood Mac (1977)
+38. **Don't Stop Me Now** - Queen (1978)
+39. **Message in a Bottle** - The Police (1979)
+40. **Another Brick in the Wall, Part 2** - Pink Floyd (1979)
+41. **Back in Black** - AC/DC (1980)
+42. **Under Pressure** - Queen & David Bowie (1981)
+43. **Sweet Dreams (Are Made of This)** - Eurythmics (1983)
+44. **When Doves Cry** - Prince (1984)
+45. **Born in the U.S.A.** - Bruce Springsteen (1984)
+46. **We Didn't Start the Fire** - Billy Joel (1989)
+47. **Black Hole Sun** - Soundgarden (1994)
+48. **Zombie** - The Cranberries (1994)
+49. **Angels** - Robbie Williams (1997)
+50. **Fix You** - Coldplay (2005)
+
+These songs represent a mix of genres, including pop, rock, soul, and more, showcasing the diversity of classic English music.
 
 > -> mistral large
 
@@ -224,6 +222,63 @@ I've compiled a list of 50 classic English songs with their publication years or
 
 This list covers a wide range of genres and artists that have influenced English music history. Enjoy!
 
+> -> gpt 3.5
+
+> 50 english classic songs with publication year
+
+Here is a list of 50 classic English songs along with their publication years:
+
+1. "Bohemian Rhapsody" by Queen (1975)
+2. "Imagine" by John Lennon (1971)
+3. "Hotel California" by Eagles (1977)
+4. "Stairway to Heaven" by Led Zeppelin (1971)
+5. "Hey Jude" by The Beatles (1968)
+6. "Sweet Child o' Mine" by Guns N' Roses (1987)
+7. "Yesterday" by The Beatles (1965)
+8. "Like a Rolling Stone" by Bob Dylan (1965)
+9. "Smells Like Teen Spirit" by Nirvana (1991)
+10. "I Will Always Love You" by Whitney Houston (1992)
+11. "Every Breath You Take" by The Police (1983)
+12. "Let It Be" by The Beatles (1970)
+13. "Wonderwall" by Oasis (1995)
+14. "Billie Jean" by Michael Jackson (1982)
+15. "Purple Haze" by Jimi Hendrix (1967)
+16. "My Generation" by The Who (1965)
+17. "Dancing Queen" by ABBA (1976)
+18. "Brown Eyed Girl" by Van Morrison (1967)
+19. "Livin' on a Prayer" by Bon Jovi (1986)
+20. "I Want to Hold Your Hand" by The Beatles (1963)
+21. "Don't Stop Believin'" by Journey (1981)
+22. "Boogie Wonderland" by Earth, Wind & Fire (1979)
+23. "I Will Survive" by Gloria Gaynor (1978)
+24. "Born to Run" by Bruce Springsteen (1975)
+25. "Don't Worry, Be Happy" by Bobby McFerrin (1988)
+26. "Wonderful Tonight" by Eric Clapton (1977)
+27. "I Heard It Through the Grapevine" by Marvin Gaye (1968)
+28. "All You Need Is Love" by The Beatles (1967)
+29. "Hello" by Adele (2015)
+30. "Dream On" by Aerosmith (1973)
+31. "Hallelujah" by Leonard Cohen (1984)
+32. "Bridge Over Troubled Water" by Simon & Garfunkel (1970)
+33. "Help!" by The Beatles (1965)
+34. "The Sound of Silence" by Simon & Garfunkel (1964)
+35. "I Want to Know What Love Is" by Foreigner (1984)
+36. "Tears in Heaven" by Eric Clapton (1992)
+37. "My Girl" by The Temptations (1964)
+38. "Stand by Me" by Ben E. King (1961)
+39. "Piano Man" by Billy Joel (1973)
+40. "Don't Let the Sun Go Down on Me" by Elton John (1974)
+41. "You Are So Beautiful" by Joe Cocker (1974)
+42. "The Weight" by The Band (1968)
+43. "Space Oddity" by David Bowie (1969)
+44. "Ain't No Mountain High Enough" by Marvin Gaye and Tammi Terrell (1967)
+45. "Crazy" by Patsy Cline (1961)
+46. "I Can't Help Falling in Love with You" by Elvis Presley (1961)
+47. "You've Lost That Lovin' Feelin'" by The Righteous Brothers (1964)
+48. "The Times They Are a-Changin'" by Bob Dylan (1964)
+49. "Georgia on My Mind" by Ray Charles (1960)
+50. "Unchained Melody" by The Righteous Brothers (1965)
+
 > -> openhermes neutral 7b q4
 
 > 50 english classic songs with publication year
@@ -285,6 +340,141 @@ Here is a list of 50 English classic songs with their publication year:
 
 **`!list`**
 **`!ref`**
+
+> -> mistral large 2
+
+> 50 english ballad songs with publication year
+
+Here are 50 English ballad songs along with their publication years. Please note that some of these dates refer to the earliest known publication or recording, and many traditional ballads have unknown origins and may have existed in oral tradition for centuries before they were published.
+
+1. **Barbara Allen** - (Traditional, first published in 1750)
+2. **The Unquiet Grave** - (Traditional, first published in 1813)
+3. **Lord Randall** - (Traditional, first published in 1782)
+4. **The Twa Sisters** - (Traditional, first published in 1656)
+5. **The Cruel Sister** - (Traditional, first published in 1805)
+6. **The Daemon Lover** - (Traditional, first published in 1824)
+7. **The House Carpenter** - (Traditional, first published in 1843)
+8. **The Wife of Usher's Well** - (Traditional, first published in 1802)
+9. **The Three Ravens** - (Traditional, first published in 1611)
+10. **The Trees They Do Grow High** - (Traditional, first published in 1792)
+11. **Greensleeves** - (Traditional, registered in 1580)
+12. **Scarborough Fair** - (Traditional, first published in 1891)
+13. **Matty Groves** - (Traditional, first published in 1687)
+14. **Tam Lin** - (Traditional, first published in 1791)
+15. **The Gypsy Laddie** - (Traditional, first published in 1720)
+16. **The Streets of Laredo** - (Traditional, first published in 1910)
+17. **St. James Infirmary Blues** - (Joe Primrose, 1928)
+18. **The Wild Rover** - (Traditional, first published in 1813)
+19. **The Black Velvet Band** - (Traditional, first published in 1867)
+20. **Whiskey in the Jar** - (Traditional, first published in 1951)
+21. **The Water is Wide** - (Traditional, first published in 1906)
+22. **The Skye Boat Song** - (Sir Harold Boulton, 1884)
+23. **Loch Lomond** - (Traditional, first published in 1841)
+24. **Auld Lang Syne** - (Robert Burns, 1788)
+25. **The Parting Glass** - (Traditional, first published in 1770)
+26. **The Leaving of Liverpool** - (Traditional, first published in 1887)
+27. **The Shores of Botany Bay** - (Traditional, first published in 1885)
+28. **The Fields of Athenry** - (Pete St. John, 1979)
+29. **The Band Played Waltzing Matilda** - (Eric Bogle, 1971)
+30. **The Green Fields of France** - (Eric Bogle, 1976)
+31. **The Keeper** - (Bonnie 'Prince' Billy, 1999)
+32. **The Sound of Silence** - (Simon & Garfunkel, 1964)
+33. **Yesterday** - (The Beatles, 1965)
+34. **Bridge Over Troubled Water** - (Simon & Garfunkel, 1970)
+35. **Landslide** - (Fleetwood Mac, 1975)
+36. **The Wind Beneath My Wings** - (Bette Midler, 1988)
+37. **Everything I Do (I Do It for You)** - (Bryan Adams, 1991)
+38. **Tears in Heaven** - (Eric Clapton, 1992)
+39. **I Will Always Love You** - (Whitney Houston, 1992)
+40. **My Heart Will Go On** - (Celine Dion, 1997)
+41. **Fix You** - (Coldplay, 2005)
+42. **Chasing Cars** - (Snow Patrol, 2006)
+43. **The A Team** - (Ed Sheeran, 2011)
+44. **Someone Like You** - (Adele, 2011)
+45. **Let Her Go** - (Passenger, 2012)
+46. **Say Something** - (A Great Big World & Christina Aguilera, 2013)
+47. **All of Me** - (John Legend, 2013)
+48. **Thinking Out Loud** - (Ed Sheeran, 2014)
+49. **Perfect** - (Ed Sheeran, 2017)
+50. **Shallow** - (Lady Gaga & Bradley Cooper, 2018)
+
+These songs span various centuries and styles, showcasing the evolution of the English ballad over time.
+
+> -> mistral large
+
+> 50 english ballad songs with publication year
+
+Here is a list of 50 English ballad songs along with their publication years. Please note that some of the older songs have unknown exact publication years, so I provided an approximate period.
+
+1. "Greensleeves" (Traditional, 16th century)
+2. "Scarborough Fair" (Traditional, 17th century)
+3. "Barbara Allen" (Traditional, 17th century)
+4. "The House Carpenter" (Traditional, 17th century)
+5. "The Cruel War" (1861)
+6. "When Johnny Comes Marching Home" (1863)
+7. "Aura Lea" (1861)
+8. "The Water Is Wide" (Traditional, 17th century)
+9. "The Streets of Laredo" (Traditional, 19th century)
+10. "Oh Shenandoah" (Traditional, 19th century)
+11. "Home on the Range" (1873)
+12. "Danny Boy" (1913)
+13. "The Unfortunate Rake" (Traditional, 18th century)
+14. "The Wreck of the Edmund Fitzgerald" (1976) - Gordon Lightfoot
+15. "American Pie" (1971) - Don McLean
+16. "The Boxer" (1968) - Simon & Garfunkel
+17. "Bridge over Troubled Water" (1970) - Simon & Garfunkel
+18. "Hallelujah" (1984) - Leonard Cohen
+19. "The Sound of Silence" (1964) - Simon & Garfunkel
+20. "Yesterday" (1965) - The Beatles
+21. "Bohemian Rhapsody" (1975) - Queen
+22. "Stairway to Heaven" (1971) - Led Zeppelin
+23. "Hotel California" (1976) - The Eagles
+24. "Imagine" (1971) - John Lennon
+25. "Hey Jude" (1968) - The Beatles
+26. "November Rain" (1991) - Guns N' Roses
+27. "Candle in the Wind" (1973) - Elton John
+28. "Don't Let the Sun Go Down on Me" (1974) - Elton John
+29. "Your Song" (1970) - Elton John
+30. "Tears in Heaven" (1991) - Eric Clapton
+31. "Unchained Melody" (1955) - The Righteous Brothers
+32. "The First Time Ever I Saw Your Face" (1957) - Roberta Flack
+33. "Killing Me Softly with His Song" (1971) - Roberta Flack
+34. "I Will Always Love You" (1973) - Dolly Parton
+35. "Angel" (1998) - Sarah McLachlan
+36. "My Immortal" (2003) - Evanescence
+37. "Bring Me to Life" (2003) - Evanescence
+38. "Someone like You" (2011) - Adele
+39. "Rolling in the Deep" (2010) - Adele
+40. "Halo" (2008) - Beyoncé
+41. "Apologize" (2006) - Timbaland ft. OneRepublic
+42. "Fix You" (2005) - Coldplay
+43. "Viva la Vida" (2008) - Coldplay
+44. "Chasing Cars" (2006) - Snow Patrol
+45. "I'm Not the Only One" (2014) - Sam Smith
+46. "Stay with Me" (2014) - Sam Smith
+47. "All of Me" (2013) - John Legend
+48. "Love Me Like You Do" (2015) - Ellie Goulding
+49. "Thinking Out Loud" (2014) - Ed Sheeran
+50. "Photograph" (2014) - Ed Sheeran
+
+> -> mistral instruct 7b q4
+
+> english ballad songs with publication year
+
+Here are some English ballad songs with their approximate publication years:
+
+1. "Scarborough Fair" - The earliest known printed version of this song appears in Francis James Child's "The English and Scottish Popular Ballads," published between 1882 and 1898.
+2. "Greensleeves" - The melody for this ballad was first published in a manuscript around 1580, but the lyrics were not added until much later. A printed version of the complete song was published in 1780 by William Boyce in his collection "Melodies."
+3. "The Bonny Bunch of Roses" - This ballad has its origins in the 16th century, but the first printed version was published in Ritson's "Ancient Songs" in 1794.
+4. "Barbara Allen" - This ballad has its origins in the 16th or 17th century, but the first printed version was published in Francis James Child's "The English and Scottish Popular Ballads" between 1882 and 1898.
+5. "Matty Groves" - This ballad has its origins in the 16th or 17th century, but the first printed version was published in Francis James Child's "The English and Scottish Popular Ballads" between 1882 and 1898.
+6. "Sir Patrick Spence" - This ballad has its origins in the 15th or 16th century, but the first printed version was published in Francis James Child's "The English and Scottish Popular Ballads" between 1882 and 1898.
+7. "Lord Randal" - This ballad has its origins in the 16th or 17th century, but the first printed version was published in Francis James Child's "The English and Scottish Popular Ballads" between 1882 and 1898.
+8. "The Water is Wide" - This ballad has its origins in the 16th or 17th century, but the first printed version was published in Francis James Child's "The English and Scottish Popular Ballads" between 1882 and 1898.
+9. "Matty Groves" - This ballad has its origins in the 16th or 17th century, but the first printed version was published in Francis James Child's "The English and Scottish Popular Ballads" between 1882 and 1898.
+10. "The Twa Corbies" - This ballad has its origins in the 16th or 17th century, but the first printed version was published in Francis James Child's "The English and Scottish Popular Ballads" between 1882 and 1898.
+
+It is important to note that the exact publication year of some ballads may not be known, and some of these ballads may have existed in oral tradition for centuries before being printed.
 
 > -> gpt 3.5
 
@@ -456,82 +646,6 @@ Lucy in the Sky with Diamonds - 1967
 Both Sides Now - 1968
 American Pie - 1971
 Free Bird - 1973
-
-> -> mistral large
-
-> 50 english ballad songs with publication year
-
-Here is a list of 50 English ballad songs along with their publication years. Please note that some of the older songs have unknown exact publication years, so I provided an approximate period.
-
-1. "Greensleeves" (Traditional, 16th century)
-2. "Scarborough Fair" (Traditional, 17th century)
-3. "Barbara Allen" (Traditional, 17th century)
-4. "The House Carpenter" (Traditional, 17th century)
-5. "The Cruel War" (1861)
-6. "When Johnny Comes Marching Home" (1863)
-7. "Aura Lea" (1861)
-8. "The Water Is Wide" (Traditional, 17th century)
-9. "The Streets of Laredo" (Traditional, 19th century)
-10. "Oh Shenandoah" (Traditional, 19th century)
-11. "Home on the Range" (1873)
-12. "Danny Boy" (1913)
-13. "The Unfortunate Rake" (Traditional, 18th century)
-14. "The Wreck of the Edmund Fitzgerald" (1976) - Gordon Lightfoot
-15. "American Pie" (1971) - Don McLean
-16. "The Boxer" (1968) - Simon & Garfunkel
-17. "Bridge over Troubled Water" (1970) - Simon & Garfunkel
-18. "Hallelujah" (1984) - Leonard Cohen
-19. "The Sound of Silence" (1964) - Simon & Garfunkel
-20. "Yesterday" (1965) - The Beatles
-21. "Bohemian Rhapsody" (1975) - Queen
-22. "Stairway to Heaven" (1971) - Led Zeppelin
-23. "Hotel California" (1976) - The Eagles
-24. "Imagine" (1971) - John Lennon
-25. "Hey Jude" (1968) - The Beatles
-26. "November Rain" (1991) - Guns N' Roses
-27. "Candle in the Wind" (1973) - Elton John
-28. "Don't Let the Sun Go Down on Me" (1974) - Elton John
-29. "Your Song" (1970) - Elton John
-30. "Tears in Heaven" (1991) - Eric Clapton
-31. "Unchained Melody" (1955) - The Righteous Brothers
-32. "The First Time Ever I Saw Your Face" (1957) - Roberta Flack
-33. "Killing Me Softly with His Song" (1971) - Roberta Flack
-34. "I Will Always Love You" (1973) - Dolly Parton
-35. "Angel" (1998) - Sarah McLachlan
-36. "My Immortal" (2003) - Evanescence
-37. "Bring Me to Life" (2003) - Evanescence
-38. "Someone like You" (2011) - Adele
-39. "Rolling in the Deep" (2010) - Adele
-40. "Halo" (2008) - Beyoncé
-41. "Apologize" (2006) - Timbaland ft. OneRepublic
-42. "Fix You" (2005) - Coldplay
-43. "Viva la Vida" (2008) - Coldplay
-44. "Chasing Cars" (2006) - Snow Patrol
-45. "I'm Not the Only One" (2014) - Sam Smith
-46. "Stay with Me" (2014) - Sam Smith
-47. "All of Me" (2013) - John Legend
-48. "Love Me Like You Do" (2015) - Ellie Goulding
-49. "Thinking Out Loud" (2014) - Ed Sheeran
-50. "Photograph" (2014) - Ed Sheeran
-
-> -> mistral instruct 7b q4
-
-> english ballad songs with publication year
-
-Here are some English ballad songs with their approximate publication years:
-
-1. "Scarborough Fair" - The earliest known printed version of this song appears in Francis James Child's "The English and Scottish Popular Ballads," published between 1882 and 1898.
-2. "Greensleeves" - The melody for this ballad was first published in a manuscript around 1580, but the lyrics were not added until much later. A printed version of the complete song was published in 1780 by William Boyce in his collection "Melodies."
-3. "The Bonny Bunch of Roses" - This ballad has its origins in the 16th century, but the first printed version was published in Ritson's "Ancient Songs" in 1794.
-4. "Barbara Allen" - This ballad has its origins in the 16th or 17th century, but the first printed version was published in Francis James Child's "The English and Scottish Popular Ballads" between 1882 and 1898.
-5. "Matty Groves" - This ballad has its origins in the 16th or 17th century, but the first printed version was published in Francis James Child's "The English and Scottish Popular Ballads" between 1882 and 1898.
-6. "Sir Patrick Spence" - This ballad has its origins in the 15th or 16th century, but the first printed version was published in Francis James Child's "The English and Scottish Popular Ballads" between 1882 and 1898.
-7. "Lord Randal" - This ballad has its origins in the 16th or 17th century, but the first printed version was published in Francis James Child's "The English and Scottish Popular Ballads" between 1882 and 1898.
-8. "The Water is Wide" - This ballad has its origins in the 16th or 17th century, but the first printed version was published in Francis James Child's "The English and Scottish Popular Ballads" between 1882 and 1898.
-9. "Matty Groves" - This ballad has its origins in the 16th or 17th century, but the first printed version was published in Francis James Child's "The English and Scottish Popular Ballads" between 1882 and 1898.
-10. "The Twa Corbies" - This ballad has its origins in the 16th or 17th century, but the first printed version was published in Francis James Child's "The English and Scottish Popular Ballads" between 1882 and 1898.
-
-It is important to note that the exact publication year of some ballads may not be known, and some of these ballads may have existed in oral tradition for centuries before being printed.
 
 ## frontend
 

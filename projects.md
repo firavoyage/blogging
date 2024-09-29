@@ -443,13 +443,13 @@
 > /intuitive
 
 - learn
-  - javascript
-  - python
-  - cpp
-- oi
-  - cpp syntax and tricks
+  - javascript for web dev
+  - python for oi
+  - cpp for oi
+- cpp
+  - basic syntax and sugars
   - macros like rd pr prn each
-  - algorithms and template problems
+  - algorithms and templates
   - leetcode weekly contest
   - codeforces editorial for children
 - course

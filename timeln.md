@@ -5273,3 +5273,32 @@ best: **iphone 6**
 01:43
 
 sleep. after reading worldly stories.
+
+22:33
+
+追想一天的放课后
+
+或许,从17点,到22点,一直在无序的数字中漂游.
+
+**`!ref`**
+
+**竟然不自知.**
+
+想起,今天后半夜2点多睡觉的.或许如常.
+
+晚睡是原罪,控制思想的流动.
+
+空调26c不冷,鼻中也不通畅,还是早睡.
+
+一直流汗,不是第一天如此.
+
+00:27
+
+**`!ref`**
+
+ask mistral: **classic songs & ballad songs**
+
+sleep.
+
+(sports festival?)
+
