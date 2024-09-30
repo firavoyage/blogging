@@ -1,14 +1,21 @@
 # $weekly$
 
-> 🌕 💤 before 23:00!
+> 🌕 💤 _before 23:00!_
 
-## 20240929
+> 🍅 ⏲️ _gnome-solanum_
 
-> daily
+## 20240930
+
+> _daily_
 
 - visit digital homes (al sr)
 
-> weekend
+> _weekend morning_
+
+- read ruanyf weekly
+- learn origami
+
+> _weekend afternoon_
 
 - read react learn docs
 - think react in vanillajs
@@ -18,12 +25,7 @@
 - design pure math
 - design intuitive cpp
 
-> weekend afternoon
-
-- read ruanyf weekly
-- learn origami
-
-> weekend night
+> _weekend night_
 
 - watch 5 centimeters per second
 - watch evangelion
@@ -31,22 +33,22 @@
 - play senrenbanka
 - play sr
 
-> spare time
-
-- make webpages markdown
-- sync phone
-
-> school
+> _school_
 
 - write math challenger
 - write english papers
 - read one hundred years of solitude
 
-> after school
+> _after school_
 
 - memorize tem 8 vocabulary
 - write physics challenger
 - write chemistry challenger
+
+> _spare time_
+
+- sync phone
+- make blog posts markdown
 
 ## 20240925
 

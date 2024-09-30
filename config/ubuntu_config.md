@@ -334,12 +334,8 @@ sudo apt install code
 - config user snippets
   - -> `git/blogging/config/cpp.code-snippets`
   - -> `file > preferences > configure user snippets`
-- config shortcuts
-  - -> `ctrl k ctrl s`
-  - duplicate selection `ctrl d`
-  - insert line below `shift enter`
-  - run code `ctrl r`
 - use shortcuts
+  - - config shortcuts `ctrl k ctrl s`
   - - do anything `ctrl shift p`
   - - open settings `ctrl ,`
     - open nav bar `alt`
@@ -350,8 +346,8 @@ sudo apt install code
     - close file `ctrl w`
   - - format document or code `ctrl shift i`
     - preview markdown `ctrl shift v`
-    - view symbols(or markdown headers) in current file `ctrl shift o`
-    - view symbols(or markdown headers) everywhere `ctrl t`
+    - view all symbols in current file `ctrl shift o`
+    - view symbols in opened files `ctrl t`
   - - run code `ctrl r`
     - stop running `ctrl c`
   - - skip to next word `ctrl left|right`
@@ -360,11 +356,13 @@ sudo apt install code
     - select words `ctrl shift left|right`
     - select lines `ctrl l`
     - select blocks `shift alt left|right`
-  - - duplicate cursor vertically `ctrl shift up|down` | `shift alt up|down`
-    - duplicate cursor anywhere `alt click`
+  - - add cursor above `ctrl shift up`
+    - add cursor below `ctrl shift down`
+    - add cursor anywhere `alt click`
     - reset cursor `esc`
   - - duplicate selection `ctrl d`
-    - move line vertically `alt up|down`
+    - move line up `alt up`
+    - move line down `alt down`
     - insert line below `shift enter`
   - - indent code `ctrl ]`
     - unindent code `ctrl [`

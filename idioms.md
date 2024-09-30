@@ -481,4 +481,20 @@ It's not "don't go"
 
 真的不能一边笑一边开导啊!真的不能!
 
+## reply all criticism
 
+贬词褒用?
+
+口是心非?
+
+欲擒故纵?
+
+欲拒还迎?
+
+爱憎分明?
+
+抖 s?
+
+## no respect needed
+
+认可是尊重的前提.于是你不尊重人.

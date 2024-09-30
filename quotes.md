@@ -506,7 +506,7 @@ ff:
 
 ## life memories
 
-**`!important`**
+`important`
 
 (2 young 2 naive,written in my early age)
 ...
@@ -597,7 +597,7 @@ upd
 
 ## education background
 
-**`!important`**
+`important`
 
 schools
 
@@ -638,7 +638,7 @@ schools
 
 ## emails
 
-**`!important`**
+`important`
 
 - `firavoyage@outlook.com`
   send message here
@@ -653,7 +653,7 @@ schools
 
 ## people discovered at school
 
-**`!important`**
+`important`
 
 - self
   - 20070917
@@ -740,7 +740,7 @@ upd
 
 ## genshin impact lover
 
-**`!important`**
+`important`
 
 Genshin is honestly life changing. I haven't played a game this fun in years
 
@@ -754,7 +754,7 @@ In the more I play this game, I find myself wondering, why can't other games be 
 
 ## shanghai retro
 
-**`!important`**
+`important`
 
 在那些阳光最不饶人的日子
 我身边有`小胖` `小雅` `小丁丁`
@@ -868,7 +868,7 @@ mission: make tools elegant
 
 ## school lover
 
-**`!important`**
+`important`
 
 "here at dajing vocational high school
 there are a lot of lovers i've found."
@@ -887,7 +887,7 @@ there are a lot of lovers i've found."
 
 ## high school grade 1 term 2 last day
 
-**`!important`**
+`important`
 
 a life at school.
 
@@ -960,7 +960,7 @@ f:
 
 ## remove all capital letters
 
-**`!important`**
+`important`
 
 i prefer not to use capital letters even if it's the first letter in a sentence or to represent myself
 two reasons.
@@ -1521,7 +1521,7 @@ https://www.ruanyifeng.com/blog/2009/06/who_will_speak_for_the_victim.html
 
 ## hetongxue vid story
 
-**`!important`**
+`important`
 
 何同学?
 近期视频,好几个商单,形式简单,质量下降?
@@ -1587,7 +1587,7 @@ evanyou 和 ruanyf 也很不错
 
 ## to all those copy my creation quote
 
-**`!important`**
+`important`
 
 我不认识那些模仿我 App 的人，但我明白诱惑是怎么一回事，所以如果阁下碰巧认识他们，请替我转告：我一点也不生气。为了让他们明白我的意思，不妨给他们讲讲下面这个故事：
 从前有一个人，总是抱着一块石头，他遇到一条狗，就去用石头砸它，遇到一条狗就砸一次。
@@ -1687,7 +1687,7 @@ berryberry 的计数单位是万。yelltube 的计数单位是 k,m,b.
 
 ## redesign javascript
 
-**`!important`**
+`important`
 
 如果去重新设计 js,至少会做这些事.
 
@@ -1800,7 +1800,7 @@ great elegance
 
 ## cpp status
 
-**`!important`**
+`important`
 
 cpp 是非常优秀的语言,可惜内置的语法糖比较少
 往往需要自己定义宏,自己导入模块
@@ -1819,7 +1819,7 @@ cpp 是非常优秀的语言,可惜内置的语法糖比较少
 
 ## debation wtf
 
-**`!important`**
+`important`
 
 好无聊的定义辩...
 
@@ -1847,7 +1847,7 @@ cpp 是非常优秀的语言,可惜内置的语法糖比较少
 
 ## why voice feeling matters
 
-**`!important`**
+`important`
 
 狼人杀不是逻辑游戏,是听感游戏.
 ...
@@ -1909,7 +1909,7 @@ upd
 
 ## about my cpp and oi experience
 
-**`!important`**
+`important`
 
 我上中学那会,少儿编程培训班很火.
 家里人给我报名,然后机缘巧合接触了 oi.
@@ -1935,7 +1935,7 @@ wasm 让 cpp 焕发第二春.
 
 ## about chinese hs student making quick money
 
-**`!important`**
+`important`
 
 所有赚**快**钱的方法,都是针对法律的不完善.
 就拿简中互联网举例,
@@ -2140,7 +2140,7 @@ wtf.
 
 ## about mihoyo gi
 
-**`!important`**
+`important`
 
 如果我是原神策划,我现在就会做三件事
 
@@ -2215,7 +2215,7 @@ upd
 
 ## now english cult of god
 
-**`!important`**
+`important`
 
 语言是许多限制和不利.写字,打字之.中文写字慢,打字慢.英文写字快,打字快.
 看似利好的字数和书法,本质不然,无非降低阅读舒缓,减少可用字体.
@@ -2240,7 +2240,7 @@ upd
 
 ## mihoyo awkward running motion
 
-**`!important`**
+`important`
 
 好奇怪的奔跑姿势...
 
@@ -2334,7 +2334,7 @@ sr 的解密(小游戏),比 gi 有意思很多.
 
 ## prefer sr to gi
 
-**`!important`**
+`important`
 
 sr 像是送了免费代肝机器人.
 
@@ -2753,7 +2753,7 @@ Chetan Bhagat
 
 ## gi gaming hours
 
-**`!important`**
+`important`
 
 看到原神阿炜,要抽卡了.
 

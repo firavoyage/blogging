@@ -22,24 +22,24 @@
 ## perception
 
 - - 🌕 💤 23:00
-- - johann sebastian bach
-  - frédéric chopin
-  - black tea
+- - black tea
   - cocacola zero
-  - crisps classic
   - bubble tea
+  - crisps classic
   - egg puffs
   - tea leaf eggs
   - huamei & chenpi
   - chocolate popsicle
-  - second person omniscient narration
-  - dissociation & divine perspective
   - life size waifu pillow & origami
   - reading & gardening
+  - second person omniscient narration
+  - dissociation & divine perspective
   - math & algorithms
   - functional programming & vanilla js
   - dark style & night light & low brightness
-- - hotel california (eagles)
+- - johann sebastian bach
+  - frédéric chopin
+  - hotel california (eagles)
   - wind of change (scorpions)
   - scarborough fair (sarah brightman)
   - the sound of silence (simon & garfunkel)
@@ -75,15 +75,14 @@
   - .5 centimeters per second (2007)
   - .lucky star (2007)
   - .bang dream! it's mygo!!!!! (2023)
-  - .girls band cry (2024)
   - .bocchi the rock (2022)
   - .frieren: beyond journey's end (2023)
   - .oshi no ko (2023)
-  - .tonikawa: over the moon for you (2020)
+  - .a certain scientific railgun (2009)
+  - .your lie in april (2014)
   - .the melancholy of haruhi suzumiya (2006)
   - .my youth romantic comedy is wrong, as i expected (2011)
-  - .your lie in april (2014)
-  - .a certain scientific railgun (2009)
+  - .tonikawa: over the moon for you (2020)
   - .bakemonogatari (2009)
   - .scum's wish (2017)
   - .reply 1988 (2015)
@@ -91,7 +90,6 @@
   - .the good the bad and the ugly (1966)
   - .the truman show (1998)
   - .forrest gump (1994)
-  - .titanic (1997)
   - .roman holiday (1953)
 - - honkai star rail (2023)
   - honkai impact third (2016)
@@ -180,14 +178,13 @@
   - yitianshijie (li ruyi)
   - yixi (yixi)
 - - wikipedia
+  - github
+  - the pirate bay
   - internet archive
   - archive.today
-  - the pirate bay
-  - github
-  - google
-  - yandex
-  - youtube
   - mistral chat
+  - google
+  - youtube
   - ruanyf weekly
   - hacker news
   - css tricks
@@ -371,20 +368,30 @@
   - wine 9.0
   - zsh 5.9
   - antennapod 3.1.2
-  - baobab 46.0
   - bilimiao 2.3.8.3
   - blender 4.2.1
   - bottles 51.13
   - bubeidanci 5.8.8
-  - deja-dup 45.2
   - eudic 9.3.1
-  - evince 46.0
   - fcitx5-android 0.0.7
   - gedit 46.2
   - geogebra 6.0.804.0
   - gimp 2.10.38
+  - gnome-baobab 46.0
+  - gnome-blanket 0.7.0
   - gnome-boxes 45.0
+  - gnome-cartridges 2.9.3
+  - gnome-characters 46.0
+  - gnome-clairvoyant 3.1.8
+  - gnome-deja-dup 45.2
+  - gnome-dialect 2.4.2
+  - gnome-evince 46.0
+  - gnome-letterpress 2.1
+  - gnome-nautilus 46.2
+  - gnome-newsflash 3.3.5
+  - gnome-solanum 5.0.0
   - gnome-system-monitor 46.0
+  - gnome-tuba 0.8.4
   - gnome-weather 44.0
   - goldendict 1.5.0
   - inkscape 1.3.1
@@ -392,19 +399,15 @@
   - k9-mail 6.801
   - kdenlive 23.08.4
   - legado 3.23.112523
-  - letterpress 2.1
   - libreoffice 24.2.5.2
   - material-files 1.4.2
-  - nautilus 46.2
   - nekogram 11.0.0
-  - newsflash 3.3.5
   - obs-studio 30.0.2
   - oneplus-weather 1.8.5
   - onscripter-yuri 0.7.4
   - qbitorrent-arnatious 4.3.9
   - simplelive 1.7.3
   - snapseed 2.19.1
-  - solanum 5.0.0
   - telegram-desktop 4.16.8
   - thunderbird 115.11.0
   - transmission 4.0.5
@@ -562,10 +565,11 @@
 - - github `firavoyage`
   - gitee mirror `firavoyage`
 - - blogger `firavoyage`
+  - mastodon `firavoyage@mastodon.social` `fira@techhub.social`
   - twitter `firascript`
-  - cnblogs `fira`
-  - medium `_`
   - wordpress `_`
+  - medium `_`
+  - cnblogs `fira`
 - - bilibili `fira_言序`
   - youtube `_`
   - telegram `_`
@@ -574,7 +578,6 @@
 - - name `fira`
   - alias `忘我思考`
   - site `_`
-  - mirrors `_`
 
 ## insight
 
