@@ -5292,6 +5292,8 @@ sleep. after reading worldly stories.
 
 一直流汗,不是第一天如此.
 
+## 20240930
+
 00:27
 
 **`!ref`**
@@ -5301,4 +5303,60 @@ ask mistral: **classic songs & ballad songs**
 sleep.
 
 (sports festival?)
+
+15:xx
+
+(sports festival feels like spring outing)
+
+22:xx
+
+restart and flatpak works
+
+run tomato timer
+
+reg mastodon
+
+## 20241001
+
+2:xx
+
+sleep.
+
+11:xx
+
+起床.
+
+19:44
+
+游玩一天.回归家中.
+
+我和我爸的老婆一起.
+
+看电影,爆款好人,平凡喜剧片吧.
+
+电影院旁,有mr x密室逃脱.
+
+300块.买了部calling,改编2020年韩国电影the call.
+
+质量不错.npc演绎卖力.微恐.闪烁灯光.
+
+两对情侣,一个大哥一道体验.
+
+有个人看过这部电影的说,不过记忆不多.
+
+大哥一个人来的,一会还有一场的说.
+
+出发时台风呼啸,傍晚寒风入骨.自行车骑去,归来.
+
+20:48
+
+tried gnome totem
+
+buggy when it comes to large video files
+
+sound doesnt sync. splitted to two tracks one after another.
+
+ok.
+
+returned to vlc.although it's no ubuntu yaru theme based.
 

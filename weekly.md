@@ -49,6 +49,8 @@
 
 - sync phone
 - make blog posts markdown
+- eat berryberry
+- watch simplelive
 
 ## 20240925
 

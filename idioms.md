@@ -494,7 +494,3 @@ It's not "don't go"
 爱憎分明?
 
 抖 s?
-
-## no respect needed
-
-认可是尊重的前提.于是你不尊重人.

@@ -71,6 +71,7 @@
   - how to make millions before grandma dies (2024)
   - the legend of 1900 (1998)
   - les misérables (2012)
+  - call (2020)
   - .evangelion (1995)
   - .5 centimeters per second (2007)
   - .lucky star (2007)
@@ -377,15 +378,16 @@
   - gedit 46.2
   - geogebra 6.0.804.0
   - gimp 2.10.38
+  - gnome-amberol 2024.1
   - gnome-baobab 46.0
   - gnome-blanket 0.7.0
   - gnome-boxes 45.0
   - gnome-cartridges 2.9.3
   - gnome-characters 46.0
-  - gnome-clairvoyant 3.1.8
   - gnome-deja-dup 45.2
   - gnome-dialect 2.4.2
   - gnome-evince 46.0
+  - gnome-eyedropper 2.0.1
   - gnome-letterpress 2.1
   - gnome-nautilus 46.2
   - gnome-newsflash 3.3.5

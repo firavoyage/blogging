@@ -44,8 +44,7 @@ In conclusion, the passing youth is a bittersweet reminder of the fleeting natur
 
 ## classic songs
 
-**`!list`**
-**`!ref`**
+`list` `ref`
 
 > -> mistral large 2
 
@@ -338,8 +337,7 @@ Here is a list of 50 English classic songs with their publication year:
 
 ## ballad songs
 
-**`!list`**
-**`!ref`**
+`list` `ref`
 
 > -> mistral large 2
 
@@ -693,9 +691,7 @@ Learning web development from scratch can be an exciting and rewarding experienc
 
 ## retro
 
-**`!list`**
-**`!concept`**
-**`!ref`**
+`list` `concept` `ref`
 
 > -> mistral large
 
@@ -1198,7 +1194,7 @@ To address the replication crisis, various initiatives have been launched, inclu
 
 ## efficient market hypothesis
 
-**`!important`**
+`ref`
 
 > -> mistral instruct 7b q4
 
@@ -1259,8 +1255,7 @@ I hope this introduction helps you get started with LaTeX! Let me know if you ha
 
 ## GEB
 
-**`!concept`**
-**`!ref`**
+`concept` `ref`
 
 > -> mistral instruct 7b q4
 
@@ -1935,9 +1930,7 @@ This implementation provides a good balance between the efficiency of merge sort
 
 ## functional programming
 
-**`!concept`**
-**`!dev`**
-**`!ref`**
+`concept` `dev` `ref`
 
 > -> mistral large 2
 
@@ -1979,9 +1972,7 @@ Popular languages for functional programming include Haskell, Lisp, Clojure, Erl
 
 ## object oriented programming
 
-**`!concept`**
-**`!dev`**
-**`!ref`**
+`concept` `dev` `ref`
 
 > -> mistral large 2
 
@@ -2168,7 +2159,7 @@ By using these concepts, you can create more organized, reusable, and maintainab
 
 ## unit test
 
-**`!important`**
+`dev`
 
 > -> mistral large 2
 
@@ -2256,7 +2247,7 @@ Unit testing is a fundamental practice in software development that helps ensure
 
 ## cpp iteration abstract
 
-**`!important`**
+`dev`
 
 > -> mistral large 2
 
@@ -2319,9 +2310,7 @@ These macros can help you write more concise and readable code, especially when 
 
 ## oop principles
 
-**`!concept`**
-**`!dev`**
-**`!ref`**
+`concept` `dev` `ref`
 
 > -> mistral large 2
 
@@ -2375,9 +2364,7 @@ These principles help in creating modular, reusable, and maintainable code, maki
 
 ## fp principles
 
-**`!concept`**
-**`!dev`**
-**`!ref`**
+`concept` `dev` `ref`
 
 > -> mistral large 2
 
@@ -3312,7 +3299,7 @@ Choosing between shallow and deep cloning depends on your specific use case and 
 
 ## vue options
 
-**`!important`**
+`dev`
 
 > -> mistral large 2
 
@@ -3369,6 +3356,8 @@ You can include other options as needed to configure your Vue instance.
 
 ## ant design
 
+`design` `dev`
+
 > -> mistral large 2
 
 > choosing a react component library is ant design a good choice
@@ -3423,8 +3412,7 @@ Ultimately, the choice of a component library depends on your project's specific
 
 ## newton vs bisection
 
-**`!math`**
-**`!ref`**
+`math` `ref`
 
 > -> mistral large 2
 
@@ -4116,7 +4104,7 @@ These examples demonstrate how to create a simple counter app using different te
 
 ## editable counter app in frameworks
 
-**`!important`**
+`dev`
 
 > -> mistral large 3
 
@@ -4323,8 +4311,7 @@ This list provides a snapshot of the technologies used by these companies, but k
 
 ## javascript framework behind popular sites
 
-**`!dev`**
-**`!ref`**
+`dev` `ref`
 
 > -> mistral large 2
 
@@ -4445,8 +4432,7 @@ As of my last update, my knowledge cutoff is October 2023. This means that the i
 
 ## object define property
 
-**`!dev`**
-**`!ref`**
+`dev` `ref`
 
 > -> mistral large 2
 
@@ -4542,8 +4528,7 @@ Using `Object.defineProperty` gives you precise control over the behavior of obj
 
 ## proxy and reflect
 
-**`!dev`**
-**`!ref`**
+`dev` `ref`
 
 > -> mistral large 2
 
@@ -4784,8 +4769,7 @@ While these examples illustrate the basic concept, React's actual implementation
 
 ## elegance
 
-**`!concept`**
-**`!ref`**
+`concept` `ref`
 
 > -> mistral large 2
 
@@ -4817,7 +4801,7 @@ Each of these sub-concepts contributes to the overall notion of elegance, and th
 
 ## elegantly designed personal sites
 
-**`!important`**
+`design`
 
 > -> mistral large 2
 
@@ -4850,8 +4834,7 @@ Please note that some of these websites may no longer be active or may have been
 
 ## np complete
 
-**`!math`**
-**`!ref`**
+`math` `ref`
 
 > -> mistral large 2
 
@@ -5737,8 +5720,7 @@ Giscus is a powerful and flexible commenting system that leverages GitHub Discus
 
 ## latex math symbols
 
-**`!list`**
-**`!ref`**
+`list` `ref`
 
 > -> mistral large 2
 
@@ -5892,8 +5874,7 @@ This list covers many of the commonly used symbols in LaTeX. For more specialize
 
 ## full latex math symbols
 
-**`!list`**
-**`!ref`**
+`list` `ref`
 
 > -> mistral large 2
 
@@ -6115,8 +6096,7 @@ This list covers many of the commonly used symbols and commands in LaTeX. For mo
 
 ## comprehensive latex math symbols
 
-**`!list`**
-**`!ref`**
+`list` `ref`
 
 > -> mistral large 2
 
@@ -6296,8 +6276,7 @@ This list covers a wide range of symbols commonly used in mathematical and logic
 
 ## another comprehensive latex symbols list
 
-**`!list`**
-**`!ref`**
+`list` `ref`
 
 > -> mistral large 2
 
@@ -6514,8 +6493,7 @@ This list covers a wide range of symbols commonly used in LaTeX for mathematical
 
 ## latex math expressions
 
-**`!list`**
-**`!ref`**
+`list` `ref`
 
 > -> mistral large 2
 
@@ -6820,8 +6798,7 @@ Both tools are highly regarded in the developer community, and many developers u
 
 ## to elegance
 
-**`!concept`**
-**`!ref`**
+`concept` `ref`
 
 > -> mistral large 2
 
@@ -6855,8 +6832,7 @@ To achieve elegance, consider the following suggestions that apply to various as
 
 ## wisdom
 
-**`!concept`**
-**`!ref`**
+`concept` `ref`
 
 > -> mistral large 2
 
@@ -6896,8 +6872,7 @@ These sub-concepts interconnect and reinforce each other, contributing to the ov
 
 ## lodash
 
-**`!dev`**
-**`!ref`**
+`dev` `ref`
 
 > -> mistral large 2
 
@@ -6985,8 +6960,7 @@ Lodash is a powerful tool that can greatly simplify and optimize your JavaScript
 
 ## p5 js
 
-**`!dev`**
-**`!ref`**
+`dev` `ref`
 
 > -> mistral large 2
 
@@ -7037,8 +7011,7 @@ This sketch creates a canvas with a blue ellipse that follows the mouse cursor.
 
 ## three js
 
-**`!dev`**
-**`!ref`**
+`dev` `ref`
 
 > -> mistral large 2
 
@@ -7138,8 +7111,7 @@ Three.js is a powerful tool for creating interactive 3D experiences on the web. 
 
 ## cpp segmentation fault
 
-**`!dev`**
-**`!ref`**
+`dev` `ref`
 
 > -> mistral large 2
 
@@ -7313,8 +7285,7 @@ Deconstructionism has been highly influential in many fields, including literary
 
 ## sub concepts of deconstruct
 
-**`!concept`**
-**`!ref`**
+`concept` `ref`
 
 > -> mistral large 2
 
@@ -7344,8 +7315,7 @@ Deconstruction, a term often associated with French philosopher Jacques Derrida,
 
 ## purity
 
-**`!concept`**
-**`!ref`**
+`concept` `ref`
 
 > -> mistral large 2
 
@@ -7400,8 +7370,7 @@ Each of these sub-concepts can be explored in depth, and their meanings can vary
 
 ## unworldly purity
 
-**`!concept`**
-**`!ref`**
+`concept` `ref`
 
 > -> mistral large 2
 
@@ -7443,8 +7412,7 @@ Unworldly purity is a broad concept that can be broken down into several sub-con
 
 ## material design
 
-**`!concept`**
-**`!ref`**
+`concept` `design` `ref`
 
 > -> mistral large 2
 
