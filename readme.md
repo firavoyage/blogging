@@ -66,9 +66,9 @@
   - soul (2020)
   - the knockout (2023)
   - life in a day (2011)
-  - reply 1988 (2015)
   - the chorus (2004)
   - the phantom of the opera (2004)
+  - reply 1988 (2015)
   - your name. (2016)
   - how to make millions before grandma dies (2024)
   - the legend of 1900 (1998)
@@ -98,7 +98,7 @@
   - houkai gakuen second (2014)
   - genshin impact (2020)
   - zenless zone zero (2024)
-  - azurlane (2017)
+  - azur lane (2017)
   - blue archive (2021)
   - brawl stars (2017)
   - clash royale (2016)
@@ -108,10 +108,10 @@
   - kingdom rush (2011)
   - soul knight (2017)
   - canabalt hd (2009)
+  - reverse: 1999 (2023)
   - senren banka (2016)
   - sabbat of the witch (2015)
   - the rainbow appears after flowering rain (2016)
-  - reverse: 1999 (2023)
   - .the legend of zelda: ocarina of time (1998)
   - .the legend of zelda: breath of the wild (2017)
   - .the legend of zelda: tears of the kingdom (2023)
@@ -191,15 +191,15 @@
   - hacker news
   - css tricks
   - codepen spark
-  - google doodle
+  - doodle google
   - reddit old
   - v2ex creative
   - nga bbs
   - zhihu following
-  - wenxuecity
-  - codeforces
-  - libreoj
   - luogu
+  - vijos
+  - libreoj
+  - codeforces
   - leetcode
   - douban book top 250
   - douban movie top 250
@@ -216,7 +216,9 @@
   - foreverblog
 - - acheron
   - adventurine
+  - chtholly
   - clara
+  - farmer john & bessie
   - forever naive taffy
   - fuxuan
   - gallagher
@@ -296,7 +298,7 @@
   - richard brawl stars
   - rodrigo pombo pombus
   - ruan yifeng ruanyf
-  - shen ruochen 
+  - shen ruochen
   - shen tongjun
   - spicy pidan porridge
   - sqr5's blog
@@ -437,71 +439,74 @@
   - it's ok to get yours from "making things happen"
 - a ship in harbor is safe
   - but that is not what ships are built for
-- knowledge isn't free.
-  - you have to pay attention.
-- tell me, and i will forget.
-  - show me, and i may remember.
-  - involve me, and i will understand.
-- stay focused, keep shipping.
-  - build early, build always.
-  - improve yourself, write solid/simple/stupid code.
-  - live in the future and build what's missing.
-- if you can make a decision with analysis, you should do so.
-  - but it turns out in life that your most important decisions are always made with instinct and intuition.
-  - if i make, like, three good decisions a day, that's enough.
-  - warren buffett says he's good if he makes three good decisions a year.
-- i have a small device in my pocket that provides access to nearly the sum total of human knowledge.
-  - i use it to get into pointless arguments with people i don't know and look at pictures of cats.
+- i do not know what i may appear to the world
+  - but to myself i seem to have been only like a boy playing on the sea-shore
+  - and diverting myself in now 
+  - and then finding a smoother pebble or a prettier shell than ordinary
+  - whilst the great ocean of truth lay all undiscovered before me
+- knowledge isn't free
+  - you have to pay attention
+- tell me, and i will forget
+  - show me, and i may remember
+  - involve me, and i will understand
+- if you can make a decision with analysis, you should do so
+  - but it turns out in life that your most important decisions are always made with instinct and intuition
+- if i make, like, three good decisions a day, that's enough
+  - warren buffett says he's good if he makes three good decisions a year
+- i have a small device in my pocket that provides access to nearly the sum total of human knowledge
+  - i use it to get into pointless arguments with people i don't know and look at pictures of cats
+- stay focused, keep shipping
+  - build early, build always
+  - improve yourself, write solid/simple/stupid code
+  - live in the future and build what's missing
 - reading is active while watching tv is passive
-  - all the research says reading a book is good for you.
-  - it reduces stress, promotes comprehension, relieves depression, helps you sleep and may contribute to preventing alzheimer's.
-  - the act of physically turning a page creates a momentary pause for understanding to sink in.
-  - our brains have to work to translate the black squiggles on the page into words and then interpret the meaning and intent of those words.
-  - when a character is described as tall with brown hair, a reader creates her own picture.
-  - tv takes all that good imagination away.
-- world is powered by solitude.
+  - all the research says reading a book is good for you
+  - it reduces stress, promotes comprehension, relieves depression, helps you sleep and may contribute to preventing alzheimer's
+  - the act of physically turning a page creates a momentary pause for understanding to sink in
+  - our brains have to work to translate the black squiggles on the page into words and then interpret the meaning and intent of those words
+  - when a character is described as tall with brown hair, a reader creates her own picture
+  - tv takes all that good imagination away
+- world is powered by solitude
   - gravitated and spellbound
   - beautifully advance
 - character is destiny
-  - life is a long-plank game
+  - life is a long plank game
 - two drifters off to see the world
   - there's such a lot of world to see...
-  - for every lonely and wandering soul,
-  - there is a lucky star behind the darkness,
-  - waiting and shining with the freshest hope and warmest aura.
+  - for every lonely and wandering soul
+  - there is a lucky star behind the darkness
+  - waiting and shining with the freshest hope and warmest aura
   - some day. till then
 - soli deo gloria.
   - god is light, and in him there is no darkness at all.
   - if we say we have fellowship with him yet walk in the darkness, we lie and do not practice the truth.
   - but if we walk in the light as he is in the light, we have fellowship with one another, and the blood of jesus his son cleanses us from all sin.
 - memento mori.
-  - i came, i saw, i conquered.
+  - i came, i saw, i conquered
   - just let time be precious
 - 遂迷不复得路
 - 念念不忘必有回响
-- 塞翁失马焉知非福
-- 有意栽花花不发无心插柳柳成荫
-- 命里有时终须有命里无时莫强求
-- 惟江上之清风与山间之明月
-- 欲买桂花同载酒终不似少年游
-- 只道当时是寻常
-- 江畔何人初见月江月何年初照人
-- 年年岁岁花相似岁岁年年人不同
-- 花开堪折直须折莫待无花空折枝
-- 去年今日此门中人面桃花相映红
-- 天地者万物之逆旅也光阴者百代之过客也
-- 悟已往之不谏知来者之可追
-- 寓形宇内复几时曷不委心任去留
-- 鸢飞戾天者望峰息心经伦事务者窥谷忘反
+- 有意栽花花不发
+- 命里有时终须有
 - 以有涯随无涯殆已
-- 不如相忘于江湖
-- 壁上小虫忽跃落衿袖间
-- 以神遇而不以目视
 - 为者败之执者失之
+- 壁上小虫忽跃落衿袖间
+- 塞翁失马焉知非福
+- 惟江上之清风
+- 鸢飞戾天者望峰息心
+- 寓形宇内复几时
+- 相濡以沫不如相忘于江湖
+- 欲买桂花同载酒
+- 当时只道是寻常
+- 江畔何人初见月
+- 年年岁岁花相似
+- 花开堪折直须折
+- 去年今日此门中
+- 光阴者百代之过客也
+- 以神遇而不以目视
 - 以我观物故物皆着我之色彩
-- 民为贵社稷次之君为轻
-- 待到秋来九月八我花开后百花杀
-- 有所玩有所爱有所坚持有所懈怠
+- 民为贵社稷次之
+- 待到秋来九月八
 
 ## erudition
 

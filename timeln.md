@@ -5360,3 +5360,38 @@ ok.
 
 returned to vlc.although it's no ubuntu yaru theme based.
 
+## 20241002
+
+1:xx
+
+watch simplelive
+
+richard bs & wanderer bs
+
+最喜欢`压场&卡墙`体系
+
+1:50
+
+sleep.
+
+11:10
+
+get up
+
+17:55
+
+**sr**
+
+你不打算一步一个脚印慢慢打.
+
+你想先过任务,清体力,干到65级,狂刷资源.
+
+然后带着满级的装备,一路杀穿所有.
+
+目前抽卡就出了符玄,花火,还有游戏尘寰.
+
+还有黑塔专武,实际上是垫了.
+
+流萤和飞霄没抽,知更鸟也没抽,卡夫卡也没抽.
+
+

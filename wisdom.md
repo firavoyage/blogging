@@ -15,7 +15,7 @@ so much for this have a nice day.
 prefer fp to oop.
 
 never use any of these words in your code
-`prototype`,`class`,`constructor`,`export`,`extends`,`super`,`this`,`self`
+`prototype`,`class`,`constructor`,`this`,`self`
 
 ## view dealing with over cencership in choosing a cloud drive view
 
@@ -164,6 +164,7 @@ div
   - 魅时
   - 迟片
   - 已片
+  - 乱搞
 - 逻辑
   - 如常
   - 反之
@@ -656,3 +657,27 @@ options...
 
 离心力也没问题,向心力离心现象不过是定义习惯尔.
 
+## chinese internet interesting guys
+
+`view` `society`
+
+- 恰饭人
+- 拳师
+- 高级黑
+- 魔怔人
+- 阴阳人
+- 谜语人
+- 反串人
+- 节奏人
+- 乐子人
+- 神神(恨國黨)
+- 兔友(小粉紅)
+- 老鼠
+- 蝙蝠
+- 典中典
+- 小丑
+- 精致的利己主义者
+- 理中客
+- 战狼
+- 左壬
+- 复制人

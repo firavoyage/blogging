@@ -8,20 +8,15 @@
 
 > _daily_
 
-- visit digital homes (al sr)
-
-> _weekend morning_
-
-- read ruanyf weekly
-- learn origami
+- visit virtual homes (al sr)
 
 > _weekend afternoon_
 
 - read react learn docs
-- think react in vanillajs
+- think react in vanilla js
 - write voyagejs
 - think ant design in sr
-- create pre project
+- create pre app
 - design pure math
 - design intuitive cpp
 
@@ -47,8 +42,13 @@
 
 > _spare time_
 
+- learn origami
+- read ruanyf weekly
+- make reflections markdown
+
+> _meanwhile_
+
 - sync phone
-- make blog posts markdown
 - eat berryberry
 - watch simplelive
 

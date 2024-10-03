@@ -371,7 +371,7 @@
   - quick reaction clicking next
 - definition page
   - chinese translation from google and mistral ai
-  - one line explanation from cambridge and collins
+  - english explanation from cambridge and collins
   - synonyms from cambridge and merriam webster
   - example sentences from collins and merriam webster
   - history from oxford
