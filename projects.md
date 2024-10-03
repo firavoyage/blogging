@@ -467,7 +467,11 @@
   - google doodles
   - mihoyo tiny games
   - azurlane tiny games
+  - itch tiny games
   - poki tiny games
+  - imo 2010 problem 5 grow and swap
+    - https://matrix67.itch.io/almost-infinite
+    - https://artofproblemsolving.com/wiki/index.php/2010_IMO_Problems/Problem_5
   - cr ideas
   - genshin dungeon
   - angry birds classic

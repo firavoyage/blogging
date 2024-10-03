@@ -2,6 +2,8 @@
 
 ## .
 
+> welcome to hotel california
+
 - an entrepreneur, developer, writer
 - grew up in shanghai
 - on the internet since 2019, which is my actual "home town"
@@ -45,7 +47,7 @@
   - the sound of silence (simon & garfunkel)
   - a day in the life (the beatles)
   - magnet (minato aqua & inuyama tamaki)
-  - old memory (manack & bruno wen li)
+  - -tooi sora he- (manack & bruno wen li)
   - the legend of zelda: ocarina of time title theme (koji kondo)
   - caresse sur l'océan (bruno coulais & les petits chanteurs de saint-marc)
   - the name of life (joe hisaishi)
@@ -81,12 +83,13 @@
   - .bocchi the rock (2022)
   - .frieren: beyond journey's end (2023)
   - .oshi no ko (2023)
-  - .a certain scientific railgun (2009)
-  - .your lie in april (2014)
   - .the melancholy of haruhi suzumiya (2006)
   - .my youth romantic comedy is wrong, as i expected (2011)
   - .tonikawa: over the moon for you (2020)
+  - .a certain scientific railgun (2009)
+  - .your lie in april (2014)
   - .bakemonogatari (2009)
+  - .school days (2007)
   - .scum's wish (2017)
   - .the godfather (1972)
   - .the good the bad and the ugly (1966)
@@ -115,6 +118,7 @@
   - .the legend of zelda: ocarina of time (1998)
   - .the legend of zelda: breath of the wild (2017)
   - .the legend of zelda: tears of the kingdom (2023)
+  - .star craft (1998)
   - .sekiro: shadows die twice (2019)
   - .elden ring (2022)
   - .the binding of isaac (2011)
@@ -125,31 +129,34 @@
   - .yosuga no sora (2008)
   - .riddle joker (2020)
   - .wonderful everyday (2010)
+  - .bishoujo mangekyou (2020)
   - .doki doki literature club! (2017)
-- - hackers and painters (paul graham)
+- - hackers and painters (paulg)
   - javascript: the good parts (douglas crockford)
   - javascript: the definitive guide seventh edition (david flanagan)
+  - c++ primer fifth edition (barbara e. moo & josée lajoie & stanley b. lippman)
   - c++ primer plus sixth edition (stephen prata)
+  - react learn docs (react commutity)
+  - refactoring ui (adam wathan & steve schoger)
+  - hello algo (krahets)
+  - cut the knot: probability riddles (alexander bogomolny)
+  - road ahead (ruanyf)
+  - the water level of ideology (liu yu)
+  - twelve letters for the young (zhu guangqian)
+  - letter to da zhuang (miao wei)
+  - liu qing's lectures on modern western thought (liu qing)
+  - oi wiki (oi wiki community)
   - mathematics, no 2 secondary school attached to east china normal university (math group)
   - physics, no 2 secondary school attached to east china normal university (physics group)
   - chemistry, no 2 secondary school attached to east china normal university (chemistry group)
-  - oi wiki (oi wiki community)
-  - hello algo (jin yudong krahets)
-  - refactoring ui (adam wathan & steve schoger)
-  - react learn docs (react commutity)
-  - the water level of ideology (liu yu)
-  - liu qing's lectures on modern western thought (liu qing)
-  - twelve letters for the young (zhu guangqian)
-  - letter to da zhuang (miao wei)
-  - road ahead (ruan yifeng)
   - a long gaze (long yingtai)
   - to live (yu hua)
   - the scholars (wu jingzi)
   - what i have seen (chai jing)
   - one hundred years of solitude (gabriel garcía márquez)
-  - i wandered lonely as a cloud (william wordsworth)
   - the chameleon (anton chekhov)
   - rashomon (ryunosuke akutagawa)
+  - i wandered lonely as a cloud (william wordsworth)
   - .meditations on life (zhou guoping)
   - .fortress besieged (qian zhongshu)
   - .godel, escher, bach (douglas hofstadter)
@@ -210,6 +217,7 @@
   - unsplash nature
   - pixiv monthly
   - dribbble popular
+  - itch
   - github awesome
   - product hunt all time
   - travellings
@@ -257,6 +265,7 @@
   - fabrice bellard
   - fireship js framework
   - geek bay geekerwan
+  - gu sen matrix67
   - gui minghao
   - hexagram with spiritual wind
   - hu qianlin
@@ -267,12 +276,14 @@
   - jiang zhijun
   - jiangly not dd
   - jin jinjin
+  - jin yudong krahets
   - jjying iconmoon
   - justyyuk doctor lai
   - kirikaze chiyuki chyk
-  - kkksc03 luogu
+  - kkksc03
   - liu yuan
   - livid v2ex
+  - localhost-8080
   - longbow flintlock
   - lu jianhong
   - lv fuyuan
@@ -293,6 +304,7 @@
   - one math
   - paperclip
   - paul graham paulg
+  - physixfan
   - promise of playboy
   - qingyu qwq
   - richard brawl stars
@@ -337,7 +349,7 @@
   - ubuntu sans
   - zhi mang xing
 - - ubuntu yaru
-  - nord
+  - nord theme
   - dracula theme
   - monokai pro
   - atom one dark
@@ -418,6 +430,7 @@
   - transmission 4.0.5
   - virtualbox 7.0.16
   - vlc 3.0.20
+  - wolfram-alpha 1.4.25
 
 ## strength
 
@@ -441,7 +454,7 @@
   - but that is not what ships are built for
 - i do not know what i may appear to the world
   - but to myself i seem to have been only like a boy playing on the sea-shore
-  - and diverting myself in now 
+  - and diverting myself in now
   - and then finding a smoother pebble or a prettier shell than ordinary
   - whilst the great ocean of truth lay all undiscovered before me
 - knowledge isn't free
@@ -596,8 +609,8 @@
 - _simplicity addict_ elegance of ideas...
 - _indie developer_ libre world...
 
-> so much for this, have a nice day.
-
 > 以上, 祝你度过智识的, 审美的一天
+
+> so much for this, have a nice day.
 
 > 🌕 💤 23:00

@@ -44,6 +44,8 @@
 
 - learn origami
 - read ruanyf weekly
+- classify ruanyf with tags
+- classify idioms with headers
 - make reflections markdown
 
 > _meanwhile_

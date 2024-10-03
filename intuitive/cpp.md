@@ -4,37 +4,47 @@
 
 ### why cpp
 
-- - kill time
+- about competitive programming
+  - kill time
     - the great ocean of truth
     - fun of problem solving
-    - on ai ruining "solving math problems with computer" https://codeforces.com/blog/entry/133949
+      - (ref)
+      - on ai ruining "solving math problems with computer" 
+      - https://codeforces.com/blog/entry/133949
+  - create memories of oi
+    - communicate with souls of diverse fates and intuitions 
+    - acquire their erudition and strength
   - learn math & english
     - math proofs behind algorithms
     - math symbols elegance
     - english comments
-  - create memories of oi
-    - communicate with souls of diverse fates and intuitions 
-    - acquire their erudition and strength
-  - take tech otaku lifestyle
+  - become internet otaku
     - get on with foss apps
     - become a linux user mostly ubuntu or arch
     - read anime styled problem intro
-- - balance between readablity and performance
+  - escape boring courses
+    - "prefer to stuck in computer rooms rather than stuck in classrooms"
+    - a few may join top universities without exams
+- about cpp
   - functional programming support
+  - balance between performance and readablity
   - highly customizable macros and overrides
 
-### before
+### preparation
 
-> compiler and editor
-
-- install compiler eg `g++`
-  - download ...
-  - for ubuntu `sudo apt install g++`
-- install ide eg `code`
-  - download https://code.visualstudio.com/
-  - for ubuntu `sudo snap install code`
-    - may err with fcitx but it's search-solvable
-  -
+- compiler
+  - install `g++`
+  - for windows ...
+  - for mac ...
+  - for ubuntu
+    - `sudo apt install g++`
+- editor
+  - install `code`
+  - for windows or mac
+    - https://code.visualstudio.com/
+  - for ubuntu
+    - `sudo snap install code`
+    - have issue with fcitx but is solvable by searching
 
 ### basics
 
