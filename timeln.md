@@ -2,7 +2,7 @@
 
 ## vintage
 
-**`!ref`**
+`ref`
 
 > imported from elsewhere unordered
 
@@ -1955,7 +1955,7 @@ school
 
 ## 20240427
 
-**`!ref`**
+`ref`
 
 school
 学习就是关于乐趣的事情
@@ -2076,7 +2076,7 @@ anyway it works
 
 ## 20240516
 
-**`!ref`**
+`ref`
 
 school
 社团全剧终
@@ -2125,7 +2125,7 @@ retro
 
 ## 20240523
 
-**`!ref`**
+`ref`
 
 weather
 开始饮用红茶
@@ -2385,7 +2385,7 @@ school
 
 ## 20240609
 
-**`!ref`**
+`ref`
 
 tech
 上午
@@ -2470,7 +2470,7 @@ school
 
 时间紧迫,先做题再读题,分类讨论了不符定义域的情况(最后都没有舍解)
 
-**`!math`**
+`math`
 
 压轴第一问,要用定义证明
 
@@ -2491,7 +2491,7 @@ $y=sin2x+acosx,a\in(\infty,-2),x\in[0,2\pi],y^{'}>0$,
 
 ## 20240622
 
-**`!ref`**
+`ref`
 
 02:28
 夜深了,考试结束了,夏天到了
@@ -2504,7 +2504,7 @@ $y=sin2x+acosx,a\in(\infty,-2),x\in[0,2\pi],y^{'}>0$,
 
 ## 20240623
 
-**`!ref`**
+`ref`
 
 高中的第一个暑假将至.
 想象小学二年级时
@@ -2541,7 +2541,7 @@ f:(->jiangzhijun)
 
 ## 20240625
 
-**`!ref`**
+`ref`
 
 推荐老蒋玩`tuxun.fun`世界挑战
 
@@ -2647,7 +2647,7 @@ d:
 
 ## 20240627
 
-**`!ref`**
+`ref`
 
 jiangzhijun math96 其实给多了
 看了他的卷子
@@ -2663,7 +2663,7 @@ jiangzhijun math96 其实给多了
 
 ## 20240628
 
-**`!ref`**
+`ref`
 
 陈:(->jiang)
 你选了什么?
@@ -2772,7 +2772,7 @@ f:
 
 ## 20240630
 
-**`!ref`**
+`ref`
 
 暑假前
 最后一次返校.
@@ -2787,7 +2787,7 @@ wangzhaohai
 
 ## 20240702
 
-**`!ref`**
+`ref`
 
 昨晚没有晚睡.
 自然醒.
@@ -2962,7 +2962,7 @@ ruanyf 的各个板块都翻阅了
 
 ## 20240718
 
-**`!ref`**
+`ref`
 
 今天早上起来 9 点多,有精神,下午喝红茶.
 
@@ -3060,7 +3060,7 @@ ruanyf 看的只剩周刊了
 
 考定义法证明单调性,本质是考这个
 
-**`!math`**
+`math`
 
 $a>b>0$,$c<d<0$,证$ac-bd<0$
 
@@ -3068,7 +3068,7 @@ abcd 都是多项式,不过条件不难推
 
 高一的时候做这个,我想到的是
 
-**`!math`**
+`math`
 
 令$a=b+m$,$c=d-n$,$m,n>0$
 
@@ -3198,7 +3198,7 @@ read ruanyf weekly
 
 ## 20240726
 
-**`!ref`**
+`ref`
 
 今晚(今早)看 gaozixiang 直播
 现在 2:00 了
@@ -3240,7 +3240,7 @@ inspired by
 
 ## 20240727
 
-**`!ref`**
+`ref`
 
 凌晨 1:24
 看 chenzihao 直播
@@ -3378,7 +3378,7 @@ sync phone and laptop
 
 ## 20240803
 
-**`!ref`**
+`ref`
 
 要出发了
 没咋收拾,几本书,电脑,手机,好了
@@ -3394,7 +3394,7 @@ sync phone and laptop
 
 ## 20240804
 
-**`!ref`**
+`ref`
 
 in atour hotel.
 装修华丽,目中一切
@@ -3448,7 +3448,7 @@ companile hotel by jin jiang.
 
 ## 20240807
 
-**`!ref`**
+`ref`
 
 晚上.环球影城度假区.
 排侏罗纪世界过山车,手机锁保险柜了.后悔,还有 80 分钟的队.
@@ -3469,7 +3469,7 @@ companile hotel by jin jiang.
 
 ## 20240808
 
-**`!ref`**
+`ref`
 
 北京回上海的火车，晚点。
 
@@ -3500,7 +3500,7 @@ companile hotel by jin jiang.
 
 ## 20240809
 
-**`!ref`**
+`ref`
 
 昨晚看视频,感慨良多
 床上,翻来覆去,辗转反侧
@@ -3525,7 +3525,7 @@ by spicy pidan porridge & so reliable old jiang
 
 ## 20240810
 
-**`!ref`**
+`ref`
 
 今日最佳:
 准高中生,使用猴子跨域,实现 zzz/interknot 论坛
@@ -3719,7 +3719,7 @@ voyagejs
 
 ## 20240818
 
-**`!ref`**
+`ref`
 
 shanghai disneyland.
 上海人会玩。
@@ -3837,7 +3837,7 @@ honkai star rail
 
 ## 20240823
 
-**`!ref`**
+`ref`
 
 5:10
 睡觉。
@@ -4079,7 +4079,7 @@ think voyage.
 
 ## 20240829
 
-**`!ref`**
+`ref`
 
 11:xx
 听到做饭的声音,醒了.
@@ -4120,7 +4120,7 @@ ask mistral **web frameworks diff**
 
 ## 20240830
 
-**`!ref`**
+`ref`
 
 3:xx
 睡觉,但是一直睡不着,思考各种问题.
@@ -4146,7 +4146,7 @@ ask mistral **web frameworks diff**
 
 ## 20240831
 
-**`!ref`**
+`ref`
 
 02:18
 明天看电影,如果喜欢,加入 readme.
@@ -4157,7 +4157,7 @@ react docs 今天读.
 
 ## 20240901
 
-**`!ref`**
+`ref`
 
 放课后...
 f:
@@ -4194,7 +4194,7 @@ hn 上有人成功的,得到了 10k 观看.
 
 改下 memories
 
-**`!ref`**
+`ref`
 
 - `comments` -> `perspective`
 - `discoveries` -> `insight`
@@ -4252,7 +4252,7 @@ sync phone memeories completed
 
 ## 20240905
 
-**`!ref`**
+`ref`
 
 00:09
 上了 inter knot 看看
@@ -4267,8 +4267,7 @@ flutter 使用了 web component.
 
 ## 20240906
 
-**`!important`**
-**`!ref`**
+`ref`
 
 (school)
 
@@ -4316,9 +4315,8 @@ retro...
 
 "如果你高考想考 135 以上,(3)一定要看懂看会,答案写得很详细."
 
-**`!important`**
-**`!ref`**
-**`!math`**
+`ref`
+`math`
 
 $
 \{a_n\},\forall n \in N^+,a_n > 0,a_{n+1} \leq S_n \\
@@ -4365,7 +4363,7 @@ $
 
 23:01
 
-**`!ref`**
+`ref`
 
 闲来无事,翻看 mihoyo 日志,看看有没有人玩我的号.
 
@@ -4437,7 +4435,7 @@ idea: **机器人代肝.** (third party plugin?)
 
 best of today.
 
-**`!ref`**
+`ref`
 
 **added `elegance` after my name**
 
@@ -4474,7 +4472,7 @@ love **hotel california**
 
 react 的 state 太激进了.
 
-**`!ref`**
+`ref`
 
 **如果真的 functional programming,其实完全可以把框架当作函数库.**
 
@@ -4559,7 +4557,7 @@ Choosing the State Structure
 
 第二十一天,打了 170 个小时了,满探索满剧情满深渊的说.也到后期了.
 
-**`!ref`**
+`ref`
 
 **看来游戏时长投票统计网站的 200 小时没错.**
 
@@ -4577,7 +4575,7 @@ added to weekly.
 洗了,晒了被子,床单,枕头.有一种酒店新房的感受.
 以上.
 
-**`!ref`**
+`ref`
 
 **今天 0 点就一直在空调房冒热汗...**
 或许睡一觉舒适.明天一切如常,星期三,做两件事.
@@ -4604,9 +4602,8 @@ added to weekly.
 好多高一六班的大佬都去二班物化生了,我们四班物化地,感觉就两个大佬.
 今天午休,我出了两道钓鱼题,成功捕捉.
 
-**`!important`**
-**`!ref`**
-**`!math`**
+`ref`
+`math`
 
 $x^2+y^2=1,((x+1)(y+2))_{max}?$
 
@@ -4619,7 +4616,7 @@ ${a_n},a_n=(-1)^{n}*\frac{1}{n},S_n?$
 
 学校里没有什么事务.
 
-**`!ref`**
+`ref`
 
 **如果有,拿了数学培优卷子和暑假练习**
 
@@ -4642,7 +4639,7 @@ ${a_n},a_n=(-1)^{n}*\frac{1}{n},S_n?$
 缘起是 chenxiao origami,
 我想要生日礼物,一些折纸.
 
-**`!ref`**
+`ref`
 
 **60cm\*60cm 双色纸张**
 
@@ -4654,7 +4651,7 @@ ${a_n},a_n=(-1)^{n}*\frac{1}{n},S_n?$
 
 20:14
 
-**`!ref`**
+`ref`
 
 **时间悠远.从容自在地读书.**
 
@@ -4662,8 +4659,7 @@ ${a_n},a_n=(-1)^{n}*\frac{1}{n},S_n?$
 
 22:39
 
-**`!important`**
-**`!ref`**
+`ref`
 
 reading react learn docs...
 
@@ -4675,7 +4671,7 @@ reading react learn docs...
 
 23:05
 
-**`!ref`**
+`ref`
 
 最近我每本教科书,都会把封面到目录中间的页去掉,把每一页压横
 
@@ -4687,7 +4683,7 @@ reading react learn docs...
 
 complete reading **Preserving and Resetting State**
 
-**`!ref`**
+`ref`
 
 what awkward solution.
 
@@ -4802,7 +4798,7 @@ simple choice.
 
 选了个耳机.
 
-**`!ref`**
+`ref`
 
 **oneplus buds3**
 
@@ -4812,11 +4808,11 @@ simple choice.
 
 15:18
 
-**`!math`**
+`math`
 
 $\forall a,b,f(x)=ax+b,g(x)=2^x,\exists infinity x_0 \in Z,g(x)>f(x)$
 
-**`!math`**
+`math`
 
 提问第三.蒋之骏说:"这不是很简单吗".
 
@@ -4880,8 +4876,7 @@ $\forall a,b,f(x)=ax+b,g(x)=2^x,\exists infinity x_0 \in Z,g(x)>f(x)$
 
 birthday...
 
-**`!important`**
-**`!ref`**
+`ref`
 
 - gift `oneplus buds 3`
 - gift `origami paper one side 60cm`
@@ -4952,7 +4947,7 @@ finished everything. sleep.
 
 tomorrow:
 
-**`!ref`**
+`ref`
 
 - djhs g2t1 first monthly exam
 - sync phone and categorize things
@@ -5025,8 +5020,8 @@ and all geometry into canvas (not svg)
 
 01:05
 
-**`!math`**
-**`!ref`**
+`math`
+`ref`
 
 title: 补档.国家信竞集训队员 qingyu 教你如何挂人
 
@@ -5044,7 +5039,7 @@ sleep zzz...
 
 02:35
 
-**`!ref`**
+`ref`
 
 或者说,你也不需要什么知识了.
 
@@ -5056,7 +5051,7 @@ sleep zzz...
 
 00:07
 
-**`!math`**
+`math`
 
 想出钓鱼题,但是没想法.
 
@@ -5070,7 +5065,7 @@ $
 
 sleep. early.
 
-**`!ref`**
+`ref`
 
 weekend plan
 
@@ -5091,7 +5086,7 @@ math score out.
 
 wtf.
 
-**`!ref`**
+`ref`
 
 王兆海:
 
@@ -5107,7 +5102,7 @@ working with zhangxizhe
 
 finally solved.
 
-**`!math`**
+`math`
 
 $
 \{a_n\},a_2=\frac{a_1}{2},\forall n \geq 3,a_n=\frac{a_{n-1}+a_{n-2}}{2}.\\
@@ -5116,7 +5111,7 @@ $
 
 18:37
 
-我不想,在html tag里面乱加东西.
+我不想,在 html tag 里面乱加东西.
 
 nodes in javascript obj
 
@@ -5132,7 +5127,7 @@ nodes in javascript obj
 
 20:24
 
-**`!ref`**
+`ref`
 
 英语,年一没上三位数,作罢.
 
@@ -5154,7 +5149,7 @@ get up.
 
 maybe earlier tomorrow? i'm weak.
 
-writing an article about web framework tradeoff 
+writing an article about web framework tradeoff
 
 15:04
 
@@ -5182,8 +5177,8 @@ sleep.
 
 retro
 
-**`!math`**
-**`!ref`**
+`math`
+`ref`
 
 zhangxizhe:
 
@@ -5197,12 +5192,12 @@ zhangxizhe:
 
 ## 20240923
 
-五本数学,三本math challenger.
+五本数学,三本 math challenger.
 手上.你仿佛知道要做什么了.(pure)
 
 "你觉得我和陈诗瑜还有机会吗"
 
-zhoushenghui也上师大的!
+zhoushenghui 也上师大的!
 
 22:45
 
@@ -5216,7 +5211,7 @@ zhoushenghui也上师大的!
 
 00:49
 
-不听 magnet了
+不听 magnet 了
 
 单曲循环 hotel california
 
@@ -5250,7 +5245,7 @@ sleep.
 
 电池不行了.现在不换,因为你喜欢拟物风格.
 
-下一部手机,大概oneplus,meizu,google里面选.
+下一部手机,大概 oneplus,meizu,google 里面选.
 
 之前手机绿屏,就想好了.不过几年后大概就变化了.
 
@@ -5278,17 +5273,17 @@ sleep. after reading worldly stories.
 
 追想一天的放课后
 
-或许,从17点,到22点,一直在无序的数字中漂游.
+或许,从 17 点,到 22 点,一直在无序的数字中漂游.
 
-**`!ref`**
+`ref`
 
 **竟然不自知.**
 
-想起,今天后半夜2点多睡觉的.或许如常.
+想起,今天后半夜 2 点多睡觉的.或许如常.
 
 晚睡是原罪,控制思想的流动.
 
-空调26c不冷,鼻中也不通畅,还是早睡.
+空调 26c 不冷,鼻中也不通畅,还是早睡.
 
 一直流汗,不是第一天如此.
 
@@ -5296,7 +5291,7 @@ sleep. after reading worldly stories.
 
 00:27
 
-**`!ref`**
+`ref`
 
 ask mistral: **classic songs & ballad songs**
 
@@ -5334,11 +5329,11 @@ sleep.
 
 看电影,爆款好人,平凡喜剧片吧.
 
-电影院旁,有mr x密室逃脱.
+电影院旁,有 mr x 密室逃脱.
 
-300块.买了部calling,改编2020年韩国电影the call.
+300 块.买了部 calling,改编 2020 年韩国电影 the call.
 
-质量不错.npc演绎卖力.微恐.闪烁灯光.
+质量不错.npc 演绎卖力.微恐.闪烁灯光.
 
 两对情侣,一个大哥一道体验.
 
@@ -5384,7 +5379,7 @@ get up
 
 你不打算一步一个脚印慢慢打.
 
-你想先过任务,清体力,干到65级,狂刷资源.
+你想先过任务,清体力,干到 65 级,狂刷资源.
 
 然后带着满级的装备,一路杀穿所有.
 
@@ -5396,30 +5391,130 @@ get up
 
 ## 20241003
 
-sr trailblaze level 60 reached. 
+sr trailblaze level 60 reached.
 
 18:39
 
 不能换很多很多的体力!
 
-gi不一样,可以换一堆.
+gi 不一样,可以换一堆.
 
 ## 20241004
 
 00:35
 
-一晚上都在刷各种blog posts
+一晚上都在刷各种 blog posts
 
-然后挂自动战斗sr.
+然后挂自动战斗 sr.
 
-刚升级60,数据上60和65差不多.
+刚升级 60,数据上 60 和 65 差不多.
 
-准备这两天把70多个凝结能量和1000多个燃料全用了.
+准备这两天把 70 多个凝结能量和 1000 多个燃料全用了.
 
 主要刷圣遗物.
 
 01:36
 
-不刷了,凝结体力没了,还有20来个燃料.
+不刷了,凝结体力没了,还有 20 来个燃料.
 
 欣赏和提升,出了一个一次没歪的双暴头,其他随便上锁了一些,不过升级材料不够.
+
+03:33
+
+今天睡得好晚.
+
+- sr 圣遗物刷了很久,或许是激动吧,终于到等级了,终于开始了.
+
+- 逛 matrix67 和 localhost8080 的 blog,顺着 links 再 swim.
+
+- 玩了会 matrix67 itch 上的 imo2010p5 游戏,看了解析,解析是 6 个盒子,游戏是 5 个盒子.
+
+  - 公式会.开始几步不会,作罢.
+
+- 最后在看"竞赛退役是种怎样的体验？知乎",没看完.
+
+sleep.
+
+11:xx
+
+awake. thinking math problem
+
+`math`
+
+(game from imo 2010 problem 5)
+
+$
+A_n:1,1,1,1,1. \\
+grow(n):a_n^{'}=a_n-1,a_{n+1}^{'}=a_{n+1}+2,(n\in[1,4],a_n>0) \\
+swap(n):a_n^{'}=a_n-1,a_{n+1}^{'}=a_{n+2},a_{n+2}^{'}=a_{n+1},(n\in[1,3],a_n>0) \\
+\text{you can grow or swap any times} \\
+{a_5}_{max}?
+$
+
+12:10
+
+get up.
+
+13:02
+
+整理草稿本数学题的追想,还有g.zip.
+
+想起国庆节只剩下3天,5,6,7.
+
+8号月考.
+
+不妨从容自在.
+
+对于无出游计划者,国庆不过是几个周末的并集.
+
+16:50
+
+**brain in a vat**!
+
+cool.
+
+17:59
+
+sr的主c好少啊.
+
+`firefly` `acheron` `feixiao`
+
+没了.其他的差点数值啊.
+
+23:07
+
+入秋了,不开空调哦.
+
+23:25
+
+**hotel california**
+
+## 20241005
+
+11:xx
+
+get up.
+
+玩游戏,看直播.
+
+13:xx
+
+出发.去世博园,"探鱼".
+
+吃了些烤鱼,还有牛蛙,不拍照了.
+
+15:xx
+
+逛商店,挑选床铺.
+
+选了个木板靠背.光滑没有修饰的木板.
+
+靠着没什么存在感,然后躺着打游戏.
+
+16:31
+
+回家.
+
+家中老女孩说想学习物化.
+
+把华二强基给她,说了下正在学习的.

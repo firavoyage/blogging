@@ -26,10 +26,10 @@
 - - 🌕 💤 23:00
 - - black tea
   - cocacola zero
-  - bubble tea
+  - boba tea
   - crisps classic
   - egg puffs
-  - tea leaf eggs
+  - tea eggs
   - huamei & chenpi
   - chocolate popsicle
   - life size waifu pillow & origami
@@ -79,19 +79,18 @@
   - .evangelion (1995)
   - .5 centimeters per second (2007)
   - .lucky star (2007)
-  - .bang dream! it's mygo!!!!! (2023)
-  - .bocchi the rock (2022)
-  - .frieren: beyond journey's end (2023)
-  - .oshi no ko (2023)
-  - .the melancholy of haruhi suzumiya (2006)
-  - .my youth romantic comedy is wrong, as i expected (2011)
-  - .tonikawa: over the moon for you (2020)
   - .a certain scientific railgun (2009)
+  - .the melancholy of haruhi suzumiya (2006)
+  - .tonikawa: over the moon for you (2020)
+  - .my youth romantic comedy is wrong, as i expected (2011)
   - .your lie in april (2014)
+  - .bang dream! it's mygo!!!!! (2023)
+  - .frieren: beyond journey's end (2023)
+  - .bocchi the rock (2022)
+  - .oshi no ko (2023)
   - .bakemonogatari (2009)
   - .school days (2007)
   - .scum's wish (2017)
-  - .the godfather (1972)
   - .the good the bad and the ugly (1966)
   - .the truman show (1998)
   - .forrest gump (1994)
@@ -217,7 +216,7 @@
   - unsplash nature
   - pixiv monthly
   - dribbble popular
-  - itch
+  - itch matrix67
   - github awesome
   - product hunt all time
   - travellings
@@ -503,6 +502,7 @@
 - 命里有时终须有
 - 以有涯随无涯殆已
 - 为者败之执者失之
+- 锦瑟无端五十弦
 - 壁上小虫忽跃落衿袖间
 - 塞翁失马焉知非福
 - 惟江上之清风
@@ -544,7 +544,7 @@
   - `timeln` personal discoveries and thoughts
   - `djhs` wax and wane of school life
   - `email` way to contact me
-  - `swim` internet swimming guide
+  - `swim` libre internet guide
 - config
   - `/config`
   - `ubuntu config` elegant work flow
