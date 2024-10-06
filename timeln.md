@@ -5518,3 +5518,99 @@ get up.
 家中老女孩说想学习物化.
 
 把华二强基给她,说了下正在学习的.
+
+18:21
+
+ask mistral.
+
+`math`
+
+$a,b,c\in Z,a^3+b^3+c^3=4.\\ \text{a,b,c}?$
+
+killed mistral.
+
+19:31
+
+看了眼mistral.
+
+直接给整炸了.
+
+总之,
+
+就是输出了好多好多屏幕,然后卡住了.
+
+不知道是超时了还是过长了.
+
+## 20241006
+
+12:xx
+
+awaken.
+
+thinking...
+
+"好像当topaz的猪啊!或者asta的狗." ("我看你就是想傍富婆")
+
+"老白别发这个,腿软了" ("这么经不起诱惑?")
+
+"毕竟topaz你啊,也不想再多一笔坏账吧?"
+
+"今天给兄弟们看看榜一大哥视角!"
+
+"给你那么多暗/示,为什么你还是???"
+
+"akt_animation::silver_wolf"
+
+"要不这样,135你,236她?"
+
+"不是,他说要你就给了啊?"
+
+"今天晚上和三月七约跑..."
+
+"jm搜不到啊"
+
+"but we could never leave!"
+
+13:30
+
+get up.
+
+19:47
+
+today's best:
+
+**take a bath & sleep early**
+
+好多失去的思维,都归因到睡眠不合理.消散吧.
+
+21:09
+
+**refreshed from bathroom**
+
+**& black tea on my desk**
+
+感觉下巴被蚊子咬了.剃须刀是没用的.
+作罢.哈哈.
+
+## 20241007
+
+01:xx
+
+playing sr.
+
+打"past present and eternal show" (correct spelled?)
+
+玩的"fuxuan sparkle herta drratio".没过.
+
+**换了一套"fuxuan trailblazer(preservation) asta drratio".过了.**
+
+mapped就是猛.各种装备全给我送满了.
+
+02:05
+
+simplelive::cr lciop
+
+**屠夫猪**无敌了多少版本啊... (虽然是力量哥对面的)
+
+三个核心,无敌防守.
+

@@ -124,9 +124,6 @@ if (number > 0) {
 }
 ```
 
-
-### next
-
 > todo
 
 Once you're comfortable with the basics, you can explore more advanced topics like:
@@ -137,9 +134,9 @@ Once you're comfortable with the basics, you can explore more advanced topics li
 - **Exception Handling**: Managing runtime errors.
 - **File I/O**: Reading from and writing to files.
 
-### learn
+### learn further
 
-- join the world
+- join the world (for humanity under sensor ship)
   - bing search "github mirror"
   - github search "free nodes"
 - search knowledge
@@ -149,7 +146,7 @@ Once you're comfortable with the basics, you can explore more advanced topics li
   - chatgpt
   - mistral
   - hix
-- use knowledge
+- exchange knowledge
   - luogu
   - libreoj
   - codeforces

@@ -767,23 +767,24 @@ for(i 1 10 j 10 100){A} //for(let i=1;i<=10;i++){for(let j=10;i<=100;j++){A}}
 - inspired by
   - share card
 
-### `gameplay`
+### `anothergamer`
 
 > about the traveller and the trailblazer
 
 - gi story in english
   - not for primogem
-  - play all archon quests
-  - simple
-  - about two weeks
+  - all archon quests
+  - simple as possible
+  - no boring combats except bosses
+  - full story in about three weeks
 - sr story in english
   - auto battle enabled
   - play all main quests
-  - about a week
+  - no boring combats except bosses
+  - full story in about a week
 - other games like hg hi zzz
   - not now
-  - they are action games
-  - not visual novels
+  - action games not visual novels
 - inspired by
   - memoir of prosperity
   - promise of playboy

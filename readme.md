@@ -4,6 +4,10 @@
 
 > welcome to hotel california
 
+> 🍅 ⏲️ _solanum_
+
+> 🌕 💤 _23:00_
+
 - an entrepreneur, developer, writer
 - grew up in shanghai
 - on the internet since 2019, which is my actual "home town"
@@ -59,6 +63,7 @@
   - hyehwadong (park bo ram)
   - sky (beyond)
   - fu shi shan xia (eason chan)
+  - counter-clockwise clock (jay chou)
   - fleet of time (faye wong)
   - story of time (luo da you)
 - - in solitude where we are least alone (2010)
@@ -76,6 +81,7 @@
   - the legend of 1900 (1998)
   - les misérables (2012)
   - call (2020)
+  - .the big bang theory (2007)
   - .evangelion (1995)
   - .5 centimeters per second (2007)
   - .lucky star (2007)
@@ -243,6 +249,7 @@
 - - adhesion tek
   - ahbei douban
   - ahdark
+  - akt animation
   - andrew yang
   - antfu 100 days
   - antonychenn genshin in chinese
@@ -266,8 +273,8 @@
   - geek bay geekerwan
   - gu sen matrix67
   - gui minghao
-  - hexagram with spiritual wind
-  - hu qianlin
+  - hexagram in spiritual wind
+  - hu qianling
   - huang zhizhong
   - interpreter gavin
   - james sinclair jrsinclair
@@ -612,5 +619,3 @@
 > 以上, 祝你度过智识的, 审美的一天
 
 > so much for this, have a nice day.
-
-> 🌕 💤 23:00
