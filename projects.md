@@ -1,6 +1,6 @@
 # $projects$
 
-## mission
+## desiderata
 
 - make tools elegant
 - make knowledge pure
@@ -175,6 +175,9 @@
   - preference stats
   - recommendation
   - ranking weight
+- lists
+  - mistral classic
+  - mistral ballads
 - local based
   - multi download
   - import and export
@@ -476,9 +479,17 @@
   - genshin dungeon
   - angry birds classic
   - fly me 2 the moon endless
+- local oj
+  - problem readme
+  - input files
+  - output files
+  - test program
 - various themes
   - by voyage
 - inspired by
+  - itheima
+  - shangguigu
+  - csdiy
   - wes bos
   - brad traversy
   - rodrigo pombo
@@ -710,14 +721,6 @@ for(i 1 10 j 10 100){A} //for(let i=1;i<=10;i++){for(let j=10;i<=100;j++){A}}
 > rethink popular apps beyond styling
 
 - berryberry
-  - tag based (mihoyo doujin | indie projects | novel apps)
-  - rating or stars instead of count nums
-  - api based progressive loading
-  - distraction free
-  - only mihoyo doujin
-  - in sr style
-  - black list is real block
-  - comment is real sorting
 - yelltube
 - bing googlified
 - mastodon birdified
@@ -732,13 +735,36 @@ for(i 1 10 j 10 100){A} //for(let i=1;i<=10;i++){for(let j=10;i<=100;j++){A}}
   - pixel experience
   - smartisan os
   - flyme
-  - h2 os
+  - oxygen os
 - various themes
   - by voyage
 - inspired by
   - bewlybewly
 
 ## apps
+
+### `berryberry`
+
+> retro anime favor
+
+- tag based recommendation
+  - mihoyo doujin
+  - indie projects
+  - novel apps
+- stats improved
+  - rating or stars 
+  - instead of count nums
+- timeln
+  - best of each month each subject
+- fully controlled
+  - black list enhanced
+  - comment sorting
+- various themes
+  - by voyage
+- insprired by
+  - bilimiao
+  - libretube
+  - youtube
 
 ### `fx`
 

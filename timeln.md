@@ -5457,11 +5457,11 @@ get up.
 
 13:02
 
-整理草稿本数学题的追想,还有g.zip.
+整理草稿本数学题的追想,还有 g.zip.
 
-想起国庆节只剩下3天,5,6,7.
+想起国庆节只剩下 3 天,5,6,7.
 
-8号月考.
+8 号月考.
 
 不妨从容自在.
 
@@ -5475,7 +5475,7 @@ cool.
 
 17:59
 
-sr的主c好少啊.
+sr 的主 c 好少啊.
 
 `firefly` `acheron` `feixiao`
 
@@ -5531,7 +5531,7 @@ killed mistral.
 
 19:31
 
-看了眼mistral.
+看了眼 mistral.
 
 直接给整炸了.
 
@@ -5549,11 +5549,11 @@ awaken.
 
 thinking...
 
-"好像当topaz的猪啊!或者asta的狗." ("我看你就是想傍富婆")
+"好像当 topaz 的猪啊!或者 asta 的狗." ("我看你就是想傍富婆")
 
 "老白别发这个,腿软了" ("这么经不起诱惑?")
 
-"毕竟topaz你啊,也不想再多一笔坏账吧?"
+"毕竟 topaz 你啊,也不想再多一笔坏账吧?"
 
 "今天给兄弟们看看榜一大哥视角!"
 
@@ -5561,13 +5561,13 @@ thinking...
 
 "akt_animation::silver_wolf"
 
-"要不这样,135你,236她?"
+"要不这样,135 你,236 她?"
 
 "不是,他说要你就给了啊?"
 
 "今天晚上和三月七约跑..."
 
-"jm搜不到啊"
+"jm 搜不到啊"
 
 "but we could never leave!"
 
@@ -5604,7 +5604,7 @@ playing sr.
 
 **换了一套"fuxuan trailblazer(preservation) asta drratio".过了.**
 
-mapped就是猛.各种装备全给我送满了.
+mapped 就是猛.各种装备全给我送满了.
 
 02:05
 
@@ -5614,3 +5614,136 @@ simplelive::cr lciop
 
 三个核心,无敌防守.
 
+02:44
+
+topaz hsr.
+
+**"标准性感上司."** (我勒个职场潜规则啊!)
+
+真想抽啊...不过作罢.片中 waifu 尔,抽了不玩没意思.
+
+03:42
+
+换上新的睡衣(冬季,长裤长袖).是洗衣机的感觉.
+
+不加修饰的干燥乏味.
+
+10:xx
+
+awake.
+
+lost in thoughts...
+
+- projects
+- features
+- launch
+- dreams
+
+13:25
+
+get up.
+
+国庆不过是另一个周末.如是.飘散吧.
+
+计划?如常.
+
+- play sr (monday!)
+- swim in threads & write math challenger
+- write cpp guide & launch on berryberry?
+
+15:46
+
+black tea on desk. hotel california playing.
+
+sr diverse universe auto battling.
+
+swimming in threads. saving some to reflections.
+
+17:52
+
+playing sr (player controlled).
+
+encounter(battle). survive four turns to obtain curios.
+
+exciting. every turn is the best strategy to survive.
+
+19:01
+
+cleared divergent universe portal 1.
+
+build: fuxuan trailblazer(preservation) asta drratio
+
+boss: sam
+
+to use skill or not to use skill.
+
+exciting. every turn must be the best strategy.
+
+21:49
+
+swimming in threads(zhihu & berryberry)...end.
+
+going out of bedroom.
+
+now. in the living room.
+
+seeing mother writing chemistry master and taking notes.
+
+several a4 paper written already.
+
+wow.
+
+21:53
+
+`ref` `school`
+
+(playing hotel california at max volume)
+
+tomorrow is monthly exam of oct. good luck and have fun.
+
+- chinese (recitation at will, writing at will)
+- math (one hour left for improvement)
+  - $\{a_n\}$ no regularity observation. must be strictly proven.
+  - $plane \& proof$ observation is all. but will i remember theories?
+- english (no wax and wane)
+  - vocabulary all known. just simple logic inferences.
+  - i must be focused.
+- no more subjects.
+
+23:16
+
+mother left 5 a4 pages of notes.
+
+wow. hard working!
+
+sleep.
+
+## 20241008
+
+07:13
+
+(playing magnet by minato aqua)
+
+周凌说:不考试了,周五考.
+
+啊?我勒个教育心理学啊!
+
+23:43
+
+(playing hotel california)
+
+playing sr luminary wardance (auto battling) (for full reward obtainment)
+
+- school works
+  - including english and math
+  - must be done at school
+- g.zip
+  - will be categorized when i am free
+- intuitive cpp
+  - will be written as weekend project
+- pure math
+  - and misc
+  - delayed
+- others
+  - such as bangumi watching
+  - at leisure

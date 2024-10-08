@@ -36,16 +36,17 @@
   - tea eggs
   - huamei & chenpi
   - chocolate popsicle
+  - johann sebastian bach
+  - frédéric chopin
   - life size waifu pillow & origami
+  - anime tragedy & eternity
   - reading & gardening
   - second person omniscient narration
   - dissociation & divine perspective
   - math & algorithms
   - functional programming & vanilla js
   - dark style & night light & low brightness
-- - johann sebastian bach
-  - frédéric chopin
-  - hotel california (eagles)
+- - hotel california (eagles)
   - wind of change (scorpions)
   - scarborough fair (sarah brightman)
   - the sound of silence (simon & garfunkel)
@@ -156,6 +157,7 @@
   - chemistry, no 2 secondary school attached to east china normal university (chemistry group)
   - a long gaze (long yingtai)
   - to live (yu hua)
+  - brothers (yu hua)
   - the scholars (wu jingzi)
   - what i have seen (chai jing)
   - one hundred years of solitude (gabriel garcía márquez)
@@ -212,7 +214,7 @@
   - vijos
   - libreoj
   - codeforces
-  - leetcode
+  - csdiy
   - douban book top 250
   - douban movie top 250
   - my anime list top
@@ -516,6 +518,7 @@
 - 鸢飞戾天者望峰息心
 - 寓形宇内复几时
 - 相濡以沫不如相忘于江湖
+- 回首向来萧瑟处
 - 欲买桂花同载酒
 - 当时只道是寻常
 - 江畔何人初见月
@@ -608,6 +611,8 @@
   - site `_`
 
 ## insight
+
+> good luck and have fun
 
 - _reminiscent youth_ good old days...
 - _internet otaku_ unworldly girls...

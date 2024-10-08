@@ -188,6 +188,7 @@ resultactive=yes
 ## softwares & updates
 
 - config source
+
   - -> `/etc/apt/sources.list.d/`
 
 - disable `software updater popup`
@@ -207,6 +208,7 @@ sudo sed --in-place 's/NoDisplay=true/NoDisplay=false/g' /etc/xdg/autostart/upda
   - code
   - fcitx5
   - vlc media player
+  - solanum
 
 ## files
 
@@ -656,7 +658,7 @@ FreeDictionary-Idioms
 
 ## apps
 
-- install code 
+- install code
 
 ```
 sudo snap remove code

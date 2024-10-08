@@ -1,6 +1,6 @@
 # cpp guide
 
-## first 20 min
+## quick start in 10 min
 
 ### why cpp
 
@@ -8,9 +8,6 @@
   - kill time
     - the great ocean of truth
     - fun of problem solving
-      - (ref)
-      - on ai ruining "solving math problems with computer" 
-      - https://codeforces.com/blog/entry/133949
   - create memories of oi
     - communicate with souls of diverse fates and intuitions 
     - acquire their erudition and strength
@@ -33,12 +30,14 @@
 ### preparation
 
 - compiler
+  - prefer g++ but the option is yours
   - install `g++`
   - for windows ...
   - for mac ...
   - for ubuntu
     - `sudo apt install g++`
 - editor
+  - prefer vscode but the option is yours
   - install `code`
   - for windows or mac
     - https://code.visualstudio.com/
@@ -150,3 +149,10 @@ Once you're comfortable with the basics, you can explore more advanced topics li
   - luogu
   - libreoj
   - codeforces
+
+## about
+
+> make tools elegant
+
+> make knowledge pure
+

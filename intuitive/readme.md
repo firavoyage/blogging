@@ -7,10 +7,10 @@
 
 ```js
 //about its parameters
-run=function(a,b,c){
+run = function (a, b, c) {
   //about its process (what it does,how data pass)
   //do something...
-}
+};
 //about its result (return value)
 ```
 
@@ -18,6 +18,5 @@ run=function(a,b,c){
 
 not now.
 
-after building voyagejs 
+after building voyagejs
 and get some detailed great ideas
-

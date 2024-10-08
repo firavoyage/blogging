@@ -20,10 +20,10 @@
   - firefox
   - node
 - source
-mdn
-css tricks
-ruanyf
-...
+  mdn
+  css tricks
+  ruanyf
+  ...
 
 ## javascript variables
 
@@ -46,20 +46,10 @@ let dog = 0 //use let
 
 - let vs var
   - pros
-block definition
-`!` instead of `undefined` (find typo easier)
+    block definition
+    `!` instead of `undefined` (find typo easier)
   - cons
-type more letters
+    type more letters
   - conclusion
-most cases,they work the same
-if you often typo,use `let`
-
-
-
-
-
-
-
-
-
-
+    most cases,they work the same
+    if you often typo,use `let`

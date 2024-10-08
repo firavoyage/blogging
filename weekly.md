@@ -1,8 +1,65 @@
 # $weekly$
 
-> 🌕 💤 _before 23:00!_
+> welcome to hotel california
 
-> 🍅 ⏲️ _gnome-solanum_
+> 🍅 ⏲️ _solanum_
+
+> 🌕 💤 _23:00_
+
+## .
+
+- _make tools elegant_
+- _make knowledge pure_
+
+## 20241008
+
+> _everyday_
+
+- visit digital homes (al sr)
+
+> _weekend endeavour_
+
+- read react learn docs
+- think react in vanilla js
+- write voyagejs
+- think ant design in sr
+- write pre app
+- design intuitive cpp
+- design pure math
+
+> _weekend diversion_
+
+- play sr
+- watch 5 centimeters per second
+- watch evangelion
+- rewatch yosuga no sora
+- play senrenbanka
+
+> _weekend enlightenment_
+
+- learn origami
+- read ruanyf weekly
+- classify ruanyf into tags
+- make reflections markdown
+
+> _school_
+
+- write english papers translation
+- write math challenger
+- recite literary chinese stories
+- read one hundred years of solitude
+
+> _after school_
+
+- memorize tem 8 vocabulary
+- write physics challenger
+- write chemistry challenger
+
+> _meanwhile_
+
+- sync phone
+- eat berryberry
+- watch simplelive
 
 ## 20240930
 
