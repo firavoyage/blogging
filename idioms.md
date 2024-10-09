@@ -615,3 +615,5 @@ playing sr diverse universe.
 i never read blessing details
 
 when it's no a choice but an obtainment
+
+

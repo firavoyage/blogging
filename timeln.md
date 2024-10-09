@@ -5747,3 +5747,13 @@ playing sr luminary wardance (auto battling) (for full reward obtainment)
 - others
   - such as bangumi watching
   - at leisure
+
+## 20241009
+
+01:49
+
+finally! fully rewards obtained.
+
+sr luminary wardance complete.
+
+80 shots available now.

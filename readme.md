@@ -21,9 +21,8 @@
 
 ## enlightenment
 
-- be serene
-- be reticent
-- be reserved
+- world is powered by solitude
+- gravitated and spellbound
 
 ## perception
 
@@ -145,13 +144,14 @@
   - react learn docs (react commutity)
   - refactoring ui (adam wathan & steve schoger)
   - hello algo (krahets)
-  - cut the knot: probability riddles (alexander bogomolny)
+  - clean code (robert c. martin)
   - road ahead (ruanyf)
   - the water level of ideology (liu yu)
   - twelve letters for the young (zhu guangqian)
   - letter to da zhuang (miao wei)
   - liu qing's lectures on modern western thought (liu qing)
   - oi wiki (oi wiki community)
+  - cut the knot: probability riddles (alexander bogomolny)
   - mathematics, no 2 secondary school attached to east china normal university (math group)
   - physics, no 2 secondary school attached to east china normal university (physics group)
   - chemistry, no 2 secondary school attached to east china normal university (chemistry group)
@@ -184,11 +184,13 @@
   - .the heaven sword and dragon saber (jin yong)
 - - anyway.fm (jj ying & leon gao)
   - beyond code (randy lu & geek plux)
+  - fyfy.fm (justin yan & hzlzh)
   - hard hacker (yixiao & 0xsaito & anson)
   - it gonglun (ipn)
   - mindhub by product thinking (shaonan & fonter & mengna)
   - pan.icu (wu tao & rio)
   - pretro.xyz (ren ning & rio)
+  - python hunter (manjusaka & adam wen & laixintao)
   - ux coffee (riceman & hoka)
   - web worker (xinbao & lv777 & pakchoi & kaiyi & smart)
   - yitianshijie (li ruyi)
@@ -262,7 +264,7 @@
   - chen shiyu
   - chen xiao origami
   - chen zihao
-  - chensuiyi yicode
+  - chen suiyi chenbimo
   - cloudwu codingnow
   - coding startup
   - cr ryley
@@ -287,6 +289,7 @@
   - jin yudong krahets
   - jjying iconmoon
   - justyyuk doctor lai
+  - jysperm
   - kirikaze chiyuki chyk
   - kkksc03
   - liu yuan
@@ -462,8 +465,7 @@
   - but that is not what ships are built for
 - i do not know what i may appear to the world
   - but to myself i seem to have been only like a boy playing on the sea-shore
-  - and diverting myself in now
-  - and then finding a smoother pebble or a prettier shell than ordinary
+  - and diverting myself in now and then finding a smoother pebble or a prettier shell than ordinary
   - whilst the great ocean of truth lay all undiscovered before me
 - knowledge isn't free
   - you have to pay attention
@@ -487,9 +489,6 @@
   - our brains have to work to translate the black squiggles on the page into words and then interpret the meaning and intent of those words
   - when a character is described as tall with brown hair, a reader creates her own picture
   - tv takes all that good imagination away
-- world is powered by solitude
-  - gravitated and spellbound
-  - beautifully advance
 - character is destiny
   - life is a long plank game
 - two drifters off to see the world
@@ -534,8 +533,8 @@
 ## erudition
 
 - people
-  - `ruanyf` everything in the digital time
-  - `reflections` everything in the digital world
+  - `ruanyf` everything of the digital time
+  - `reflections` memories of the age
   - `livid` letter to confused youth
   - `florio` guide to programming ride
   - `nat` belief of a tech entrepreneur
@@ -619,7 +618,7 @@
 - _digital hoarder_ memories forever...
 - _idle classmate_ earthly escapade...
 - _simplicity addict_ elegance of ideas...
-- _indie developer_ libre world...
+- _indie developer_ libre tech...
 
 > 以上, 祝你度过智识的, 审美的一天
 

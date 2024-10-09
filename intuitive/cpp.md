@@ -6,8 +6,8 @@
 
 - about competitive programming
   - kill time
-    - the great ocean of truth
-    - fun of problem solving
+    - facing the great ocean
+    - creating problem reducers
   - create memories of oi
     - communicate with souls of diverse fates and intuitions 
     - acquire their erudition and strength

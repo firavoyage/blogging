@@ -6313,7 +6313,6 @@ I am new to programming , and I think leetcode is more friendly to me
 
 ---
 
-
 yup LC is easier mostly beacuse its easier to access the editorial for problems and the quailty of it is quite consistent,
 
 where on CF they`re written by the problem author and sometimes you may find hints in it, most of the time you wont.
@@ -6332,5 +6331,189 @@ For interviews, Leetcode is very sufficient.
 
 Cf is really next lvl and takes a lot of dedication but hey the result is quite fruitful.
 
+## livid portfolio
 
+`dev` `story`
 
+livid
+
+创作是一件开心的事情，沉浸只是因为纯粹的灵感。我希望自己的生命能够时常充满灵感，而文字就是这些愉快时光曾经存在过的证明。
+
+(the original)
+
+Portfolio
+
+Livid 是我从 2000 年开始在网上使用的 ID，也是我在  [Twitter](https://twitter.com/livid)，[GitHub](https://github.com/livid)  和  [V2EX](https://www.v2ex.com/member/Livid)  的用户名。
+
+我目前的工作是制作工具，那些能够帮助人们更快捷地做完事情的工具。我相信好的工具应该使用起来也是让人愉快的。
+
+在这个页面上，是我的一些作品。
+
+### [V2EX](https://www.v2ex.com/)
+
+V2EX 是创意工作者的社区，比如程序员，设计师，创业者。这只是一个单纯的 idea，这个世界上每天有很多人在靠创意生活，他们的绝大部分时间都在创作及思考和创作有关的一切。而 V2EX 为这样的人提供了一个交流的地方。
+
+大家每天可以在 V2EX 上看到别人最新的作品，或是提出并参与各种问题的讨论，或是通过  [酷工作](https://www.v2ex.com/go/jobs)  节点找到一同做事的伙伴。我希望 V2EX 是一个让有用信息可以快速流动的地方。
+
+V2EX 使用节点，也就是 node 这一概念来组织内容。每一个话题都属于某个节点之下。同时节点和节点之间会以各种方式连接起来。关于节点的灵感有一部分我想是来自神经元的工作方式。
+
+为了保持 V2EX 上的信息始终健康流动，有一些规则从第一天起即确立：V2EX 上不会有任何无营养的回复，比如「顶」和「沙发」；我们尊重原创，V2EX 上不会有任何关于如何获得盗版内容的讨论；V2EX 不会全文转载任何文章，如果我们发现了好东西，我们会以链接方式分享。及重要的：**待人友善，对话是为了解决实际问题**。
+
+最后，感谢  [Claude Shannon](https://en.wikipedia.org/wiki/Claude_Shannon)  和  [Kevin Kelly](http://kk.org/)，他们关于信息的信息给了我很多灵感。
+
+## livid letter
+
+`letter` `dev` `life`
+
+Livid
+
+About Design Portfolio
+
+### 在 26 岁时写给 18 岁的自己
+
+Jan 24, 2012
+
+我知道现在的自己是再也回不去的了。可是倘若有机会，我是多么希望能让 18 岁的你在一个晴朗的，没有负担的午后读到这封信，并且多么希望你能够将它读上好多遍。
+
+这样的场景或许只会发生在奇幻电影中，26 岁的我坐在这里一字一字写下给 18 岁的你的文字，当文字就这么不停地落下，周遭的景致便不停变化，有的记忆会消失，有的记忆会莫名浮起，不知处在什么年岁的夹在中间的我，就像是芝诺悖论中的阿喀琉斯或那只乌龟，不知道谁会最终超过谁。
+
+而此时此刻，在这个世界上，还有无数的像你一样 18 岁的少年，他们绝对无法知道在他们人生未来的岁月里将会发生的。有一天他们也会到 26 岁，那个时候他们会希望未来的自己游回这 8 年的时间河流，和青春的自己长谈么？
+
+这些文字恐怕不可避免地会带有说教的意味，并非是现在的自己觉得那时的你做的不好。只是，你所做的每一件事，都会基于你当时所掌握的所有信息量。如果信息量发生改变，你所做的决定和之后的实际行动也就会必然发生改变。
+
+### 身体
+
+你的身体是你最宝贵的、首要的一切。
+
+未来你所拥有的最有创造力的时间是固定的，你最有想象力的那些创造需要的是彻底不被打扰的时间，而保有完美的身体，将会始终保证你能够将你的最好的时光都用在最美好的事情上。
+
+不要挑食，你需要每天都均衡地摄入各种食物，那些能够让你健康的食物，不要太多，也不要太少。你需要学会为自己的所有事情做计划，你会先根据直觉，为自己设定一个健康的食谱，然后再逐渐调整它。你的所有计划需要放在一个你能够经常看到的地方。
+
+随着你脑中的事情越来越多，你可能会越来越忽略自己的身体。所以你不仅需要的是对于保护身体的持续提醒，你更需要的是良好的习惯。
+
+每天睡觉之前，和睡醒之后，一定要记得刷牙，并且要用牙线，只是不要用力过猛。用完牙线之后，记得用漱口水，一定要含足 30 秒之后再吐掉。只用李施德林牌的漱口水，具有强烈刺激性的味道，没准可以启发你的灵感。
+
+在你的人生中，你可能不可避免地会有一段时间必须在夜深人静的时候才能完成自己的想法。不要让这样的生活方式成为常态。你应该每天晨跑，还记得 15 岁中考前为了拿体育满分的每日晨跑么？晨跑是一件会上瘾的，对你的一切都有好处的事情。为了提醒自己养成这个良好习惯，用一个专门的本子记下自己每个月跑的公里数，每页一个月，每行一天，那么在 30 岁时，你就会有一本写满了跑步公里数的 144 页的本子，这只是半本中文版《一九八四》的厚度。而 12 年间，你会至少跑过 10000 公里。这不是一件这个世界上的所有人都能做到的事情，但是如果你做到了，那么在你试着去完成别的事情的过程中，这件事情会给你信心。
+
+另外就是，不要喝任何太甜的饮料，尤其是碳酸饮料。不过，在你头痛的时候，你或许可以稍微喝一点点可口可乐，这东西对缓解头痛确实有点效果。
+
+### 精神
+
+读《圣经》。找到一个轻便的版本，放进你随身的包里。
+
+在你高兴的时候，痛苦的时候，困惑的时候，想到里面的句子，打开它，静静地读。和你爱的人分享你从阅读《圣经》中所体会的。
+
+你要相信，这个世界上存在着一种最高的道德和标准，你知道这样的存在却并不知道其具体的面貌，只是，在你面临选择的时候，想到书中的那些话，想想自己要如何做会让他高兴和认可。
+
+每个月至少读一本和自己专业无关的书，为自己读过的书写下一点什么。
+
+看你能找到的所有电影，从 IMDB TOP 250 开始看，记下喜欢的导演的名字，去 Wikipedia 看他的人生经历，找他的其他电影来看。
+
+这个世界会将很多的音乐推入你的耳朵，而有些特别的音乐需要你自己去寻找。找到巴赫的所有音乐去听，不要错过 GEB 这本书，这会是一本你在人生不同的阶段用自己不同的信息量去读的一本书。
+
+### 朋友
+
+在你的人生中，你不可避免地会遇到很多人。而越往后，你所遇到的人对你而言的情况就越复杂，恐怕你们也就越难成为一生的好朋友。而那些你很早就遇到，现在却依然在你身边的人，你需要付出努力让他们能够一直在你身边，他们是你一生的朋友。
+
+这些努力包括：
+
+- 不要简单地觉得别人错了，很多时候可能是因为自己没有仔细读说明书或是往来邮件。
+- 忘掉你为朋友做的事情 。
+- 当你有负面情绪的时候，不要把任何人想成坏人。转移注意力，用音乐和电影去挤掉脑中的负面情绪，一天，两天，一周，两周，一年，两年后，你会看到别人在变，或者你已忘记。
+
+### 整理
+
+你需要持续地整理自己周遭的一切。因为你处在的这个世界所指向的趋势是无序的。如果你自身不做足够多的努力，你就会被这样的无序性所吞噬。
+
+暴露在空气中的食物在一个星期之后就会变坏，沙滩上堆砌的小城堡会被风和海浪还原成沙子，这一切都是因为我们所处在的这个世界的熵在升高。
+
+而生命的诞生、发展和存在的过程却是与此相反的，虽然生命的最终结局是熵到达最大值时吞噬一切意义，但是那个时刻离现在的我们还有几十年的时间。而在这几十年里，你需要持续整理你周遭的一切。这或许可以理解为一种对抗，也可以被认为这就是生命的意义。
+
+### 积累
+
+整理的结果，就是你的积累。而你能对这个世界所产生的有益贡献，就是你以自己的方式所积累的。而你从这个世界所获得回报，由你所积累的质量决定。
+
+所以，在你 18 岁，甚至更早的时候，你就应该已然找到一个你能够积累的方向，也可以说成是兴趣的。然后你接下来所做的，就是让这个方向上所有的信息都尽可能多的汇聚到你的大脑中，你的记忆或者说潜意识就像一片大海一样当然是能够装下这一切的。然后，想象你从 20000 米的高空俯瞰大地，大地上是你日复一日所积累的信息，然后你将他们分类，合并，丢弃那些质量低劣的。你见得越多，你就越明白什么算是质量低劣的，也就必然丢得越多。
+
+积累某个方向上的信息量是你一辈子的工作的本质。
+
+你所积累的信息量，最终需要传递到别人那里去。当有越多的人需要你所积累的信息时，这个世界也就会自然给你越丰厚的回报。所以，你需要时不时的问问自己，自己现在在积累的这些信息，由这些信息所创造的现实存在，究竟能够帮助到多少人，又被多少人所必需。
+
+而这一切或许不会在积累之初便看得很清楚。但是，当你在做正确的事情时，你就会自然从这个世界的各个角落听到对于你所做的事情的讨论乃至感谢。这一切或许会需要时间，但是你不要觉得自己是在等待什么，你只是在持续地，习惯性地积累自己所爱的方向上的信息量。
+
+Livid livid@v2ex.com
+
+Beautifully Advance
+
+## wikipedia anti cencership
+
+`wiki` `society` `dev`
+
+依附的自由是一种反审查策略，试图使审查机构因经济损失无法阻止互联网上的内容。[1][2][3]作者把敏感内容存放在云服务上，因为云服务是加密的，审查机构无法选择性地屏蔽云服务上的内容，要么允许访问敏感内容，要么阻止该云服务上的所有内容。因为大量公司使用云服务，审查机构一般认为云服务“太重要而无法阻止”。
+
+## book recommendation from a great programmer
+
+`guide` `dev`
+
+[0x01 byte](https://1byte.io/)
+
+- [荐书](https://1byte.io/books)
+- [其他推荐](https://1byte.io/links)
+- [关于我](https://1byte.io/about)
+- [订阅 RSS](https://1byte.io/articles/index.xml)
+
+(the original)
+
+### 好书推荐
+
+不太能记起经常更新这个页面，所以如果你对书评感兴趣，可以[在 Goodreads 关注我](https://www.goodreads.com/user/show/43524560-hong-jiang)。
+
+### Kindle 电子书
+
+这些是我从头至尾看过并认为值得推荐的书，大部分都是美国亚马逊的 Kindle 电子书，有中文版纸质书的也给出了链接。我比较推荐看原版，因为翻译难免失去或者改变一些原有的意义。如果你不知道如何从美国亚马逊购买 Kindle 电子书，请看[这篇文章](https://1byte.io/how-to-learn-english/))。
+
+### 计算机技术
+
+- [Clean Code](https://amzn.to/2P7NpbV) - 最具有实践性的软件工程的书（[中文版](https://union-click.jd.com/jdc?e=&p=AyIGZRtYFAcXBFIZWR0yEgRWHlkSBhM3EUQDS10iXhBeGlcJDBkNXg9JHU4YDk5ER1xOGRNLGEEcVV8BXURFUFdfC0RVU1JRUy1OVxUBEQJXHF8UMnUGNhoFF1ISYjNhLRBDZ2wzYwZ2BUQLWStaJQITBlUdWxcCEQRlK1sSMkBpja3tzaejG4Gx1MCKhTdUK1sRBREBUR5TFAUUAVUrXBULIl4OQwtKVEJAC1lrJTIRN2UrWyUBIkU7GA4UBBQFURldFFZHAgYSW0VRRwdSHFhFAhMCXUxTQQUiBVQaXxw%3D&t=W1dCFFlQCxxKQgFHREkdSVJKSQVJHFRXFk9FUlpGQUpLCVBaTFhbXQtWVmpSWRtYFgcQAFEa)）
+- [Working Effectively with Legacy Code](https://amzn.to/2weJ9QP) - 我在 Google 工作时，这是工程师入职时公司发的人手一本的书。开发和维护大型复杂系统必备。（[京东纸质原版](https://union-click.jd.com/jdc?e=&p=AyIGZRtSFwETBlYTWhAyEgZdEl4XBRcGUSsfSlpMWGVCHlBDUAxLBQNQVk4YCQQAQB1AWQkFHUVBRhkSQw9THUJVEEMFSgxUVxZPI0AOEgZdEl4XBRcGUSsPUEVxAj5iHXVpFQAmfzhzaUcEHG87GQ4iBmUbWhQCFAdXG1gWMiIHUisaewYUAVUaaxQyEgNSGF0RBhEEUx5bETIVB1wrAk5aQlgDSxxLQCI3ZRhrJTISN1YrGXsAGw9WSQlHURtSVhteFVIRVFQeUxQARgEATlsQCkBXUStZFAMWDg%3D%3D&t=W1dCFFlQCxxKQgFHREkdSVJKSQVJHFRXFk9FUlpGQUpLCVBaTFhbXQtWVmpSWRtaHQsXBVIeWhE%3D)）
+- [The Pragmatic Programmer: From Journeyman to Master](https://amzn.to/2LqTMow) - 一本关于软件开发实践的经典图书。我读了很多遍。（[京东纸质原版](https://union-click.jd.com/jdc?e=&p=AyIGZRtSFwETBlYTWhAyEgZdGF0SAhUOUSsfSlpMWGVCHlBDUAxLBQNQVk4YCQQAQB1AWQkFHUVBRhkSQw9THUJVEEMFSgxUVxZPI0AOEgZdGF0SAhUOUSsbdAp6XggZI3dEEW4Tby19eBFwS1gdGQ4iBmUbWhQCFAdXG1gWMiIHUisaewYUAVUaaxQyEgNSGF0RBhAFUBlaEjIVB1wrAk5aQlgDSxxLQCI3ZRhrJTISN1YrGXsEFA9STFkXUREOUBheRwIWV1dJCRQGQQdUTF9CAkUCBStZFAMWDg%3D%3D&t=W1dCFFlQCxxKQgFHREkdSVJKSQVJHFRXFk9FUlpGQUpLCVBaTFhbXQtWVmpSWRtaHQEUAFUcUhE%3D)）
+- [Programming Pearls](https://amzn.to/2MTnkQq) - 如果只看一本算法书，就选这本。（[京东纸质原版](https://union-click.jd.com/jdc?e=&p=AyIGZRtSFwETBlYTWhAyEgZdElwRAxoDUisfSlpMWGVCHlBDUAxLBQNQVk4YCQQAQB1AWQkFHUVBRhkSQw9THUJVEEMFSgxUVxZPI0AOEgZdElwRAxoDUismVmQUYgF7C3YBSndVGl1AV1dUMW47GQ4iBmUbWhQCFAdXG1gWMiIHUisaewYUAVUaaxQyEgNSGF0RBhAOUBldFjIVB1wrAk5aQlgDSxxLQCI3ZRhrJTISN1YrGXsAFABWSQwSAxsGUx9eQgUaVwEZW0YEE1IFSFNBC0VUAitZFAMWDg%3D%3D&t=W1dCFFlQCxxKQgFHREkdSVJKSQVJHFRXFk9FUlpGQUpLCVBaTFhbXQtWVmpSWRtaHQsVA1QTXxI%3D)，[中文版](https://union-click.jd.com/jdc?e=&p=AyIGZRtYFAcXBFIZWR0yEgdWGVoWCho3EUQDS10iXhBeGlcJDBkNXg9JHU4YDk5ER1xOGRNLGEEcVV8BXURFUFdfC0RVU1JRUy1OVxUCEQVUGFMdMhpMFxwAU0JXZR5PCVVjdkEoQFxuYEQLWStaJQITBlUdWxcCEQRlK1sSMkBpja3tzaejG4Gx1MCKhTdUK1sRBREBUR9eHQUVBFYrXBULIl4OQwtKVEJAC1lrJTIRN2UrWyUBIkU7H10TCkUFBxlaEgMbAgBPXx0BR1BSH1NABUEGVBpfF1ciBVQaXxw%3D&t=W1dCFFlQCxxKQgFHREkdSVJKSQVJHFRXFk9FUlpGQUpLCVBaTFhbXQtWVmpSWRtbFgATBF0T)）
+- [Introduction to Algorithms](https://amzn.to/2BMc1VQ) - 很经典也很厚的算法书，在 Yale 读 Ph.D. 第一年时为了准备 comprehensive exams 读了两遍。（[京东纸质原版](https://union-click.jd.com/jdc?e=&p=AyIGZRtSFwETBlYTWhAyFwJRE1sXAxoOXRNrUV1KWQorAlBHU0VeBUVNR0ZbSkdETlcNVQtHRVNSUVNLXANBRA1XB14DS10cQQVYD21XHgJQH1MVABMPXBNTJVBuWV1JOGJdcQM3YQsURGR1E2cQQEQeC2UaaxUDEwdTG1kVARE3ZRtcJUN8A1MdWxQyEzdVH1wWBBYDURJYFgYRN1IbUiVbSV8FRA1FRUxFZStrFjIiN1UrWCVAfA8BGVoWUBBTAR5TEgdAAwcSWRYGRQQCGFNFVRJVVhwJJQATBlES&t=W1dCFFlQCxxKQgFHREkdSVJKSQVJHFRXFk9FUlpGQUpLCVBaTFhbXQtWVmpSWR5eEQoSBVQTUh0K)，[中文版](https://union-click.jd.com/jdc?e=&p=AyIGZRtYFAcXBFIZWR0yEgZVGFkdBhA3EUQDS10iXhBeGlcJDBkNXg9JHU4YDk5ER1xOGRNLGEEcVV8BXURFUFdfC0RVU1JRUy1OVxUDEgRXE18XMhdsPWNTSXVbYjZ9AxUEaGItTRtuC1QLWStaJQITBlUdWxcCEQRlK1sSMkBpja3tzaejG4Gx1MCKhTdUK1sRBREBUR9cEQASAVIrXBULIl4OQwtKVEJAC1lrJTIRN2UrWyUBIkU7ElkSUBAEUhhSQgsWAl1LDB0GQA9cGg8dAxEEVxgPFVAiBVQaXxw%3D&t=W1dCFFlQCxxKQgFHREkdSVJKSQVJHFRXFk9FUlpGQUpLCVBaTFhbXQtWVmpSWRtaFQEQD1EZ)）
+- [Code: The Hidden Language of Computer Hardware and Software](https://amzn.to/2PEpOAU) - 从最底层讲解计算机软硬件的原理，同时又非常可读，需要的背景知识很少。即使是计算机专业毕业的人也值得一读。（[中文版](https://union-click.jd.com/jdc?e=&p=AyIGZRtYFAcXBFIZWR0yEgdVG1wUARU3EUQDS10iXhBeGlcJDBkNXg9JHU4YDk5ER1xOGRNLGEEcVV8BXURFUFdfC0RVU1JRUy1OVxUCEgdSGlgSMgxvPhkuF2sWZzVDXUlUSkwvcxIPClQLWStaJQITBlUdWxcCEQRlK1sSMkBpja3tzaejG4Gx1MCKhTdUK1sRBREBUR1ZEAAVDlUrXBULIl4OQwtKVEJAC1lrJTIRN2UrWyUBIkU7GAwcVkIDBkhYFQNHAgdOXkYGRQIFS1wUABIHAU5eFAQiBVQaXxw%3D&t=W1dCFFlQCxxKQgFHREkdSVJKSQVJHFRXFk9FUlpGQUpLCVBaTFhbXQtWVmpSWRtbFQIVBlYc)）
+
+### 创业
+
+- [The Hard Thing About Hard Things](https://amzn.to/2NjXvWR) - 国内翻译成「创业维艰」，这是我看过的创业者写的书里最好最真实的一本。
+- [Disrupted: My Misadventure in the Start-Up Bubble](https://amzn.to/2Nkg9xK) - 真实的硅谷创业公司的荒唐故事，作者是 HBO 电视剧「硅谷」的编剧之一。
+- [The Lean Startup](https://amzn.to/2LracgR)
+- [Start Small, Stay Small: A Developer's Guide to Launching a Startup](https://amzn.to/2NlQHb4)
+
+### 市场及推广
+
+- [The 1-page marketing plan](https://amzn.to/2Lwzpqg) - 简短但全面的市场计划指南。
+- [Crossing the Chasm](https://amzn.to/2LqTcak) - 技术产品的市场推广与销售
+
+### 科技及人文
+
+- [Sapiens: A Brief History of Humankind](https://amzn.to/2PBqK8W)
+- [Homo Deus: A Brief History of Tomorrow](https://amzn.to/2MSMPBr)
+- [What If?: Serious Scientific Answers to Absurd Hypothetical Questions](https://amzn.to/2MAY16w)
+- [A Brief History of Time](https://amzn.to/2BURrTc)
+- [The Wisdom of Finance](https://amzn.to/2CKucuG) - 把历史、文学和金融结合，讲述了金融所蕴含的哲理和智慧
+
+### 传记和回忆录
+
+- [Out of the Gobi: My Story of China and America](https://amzn.to/2yuBC51) （[Audible 有声书](https://amzn.to/3c0kUbp)）- 我写了一篇[书评](https://1byte.io/out-of-the-gobi/)。
+- [Permanent Record](https://amzn.to/2PeQ32H) - Edward Snowden 的回忆录，讲述了他如何发现和披露对平民的大规模监控。大陆的简体中文版当然是有大量删减的，还是在 Kindle 上看英文版吧。
+- [Shoe Dog: A Memoir by the Creator of Nike](https://amzn.to/2LmATDj) - 耐克创始人的自传。
+- [Bad Blood](https://amzn.to/2MfsFPs) - 一家硅谷创业公司的谎言。我写过[一篇详细的书评](https://1byte.io/bad-blood/)。
+- [Educated](https://amzn.to/2Jrl2FC) - 详见[我写的书评](https://1byte.io/educated/)。
+
+### 写作
+
+- [The Elements of Style](https://amzn.to/2o95cnN) - 如果你只想看一本关于英文写作的书，就看这本。很短，值得每年看一遍。
+
+### 小说
+
+- [The Last Wish: Introducing the Witcher](https://amzn.to/2Mza4RQ) - The Witcher 系列小说的第一本，有兴趣可以一直读下去。
+- [The Phoenix Project](https://amzn.to/2RTCyIJ) - 以小说形式写的一本讲 IT、运维、项目管理的书。
