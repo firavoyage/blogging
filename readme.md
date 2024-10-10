@@ -11,7 +11,7 @@
 - an entrepreneur, developer, writer
 - grew up in shanghai
 - on the internet since 2019, which is my actual "home town"
-- live in dajing high school
+- live in djhs
 - working on voyage project
 
 ## desiderata
@@ -22,7 +22,6 @@
 ## enlightenment
 
 - world is powered by solitude
-- gravitated and spellbound
 
 ## perception
 
@@ -37,9 +36,8 @@
   - chocolate popsicle
   - johann sebastian bach
   - frédéric chopin
-  - life size waifu pillow & origami
-  - anime tragedy & eternity
   - reading & gardening
+  - life size waifu pillow & origami
   - second person omniscient narration
   - dissociation & divine perspective
   - math & algorithms
@@ -52,6 +50,7 @@
   - a day in the life (the beatles)
   - magnet (minato aqua & inuyama tamaki)
   - -tooi sora he- (manack & bruno wen li)
+  - haru no kaze (aoi teshima)
   - the legend of zelda: ocarina of time title theme (koji kondo)
   - caresse sur l'océan (bruno coulais & les petits chanteurs de saint-marc)
   - the name of life (joe hisaishi)
@@ -117,6 +116,7 @@
   - soul knight (2017)
   - canabalt hd (2009)
   - reverse: 1999 (2023)
+  - doki doki literature club! (2017)
   - senren banka (2016)
   - sabbat of the witch (2015)
   - the rainbow appears after flowering rain (2016)
@@ -135,8 +135,8 @@
   - .riddle joker (2020)
   - .wonderful everyday (2010)
   - .bishoujo mangekyou (2020)
-  - .doki doki literature club! (2017)
 - - hackers and painters (paulg)
+  - metaphors we live by (george lakoff & mark johnson)
   - javascript: the good parts (douglas crockford)
   - javascript: the definitive guide seventh edition (david flanagan)
   - c++ primer fifth edition (barbara e. moo & josée lajoie & stanley b. lippman)
@@ -150,19 +150,19 @@
   - twelve letters for the young (zhu guangqian)
   - letter to da zhuang (miao wei)
   - liu qing's lectures on modern western thought (liu qing)
-  - oi wiki (oi wiki community)
   - cut the knot: probability riddles (alexander bogomolny)
+  - oi wiki (oi wiki community)
   - mathematics, no 2 secondary school attached to east china normal university (math group)
   - physics, no 2 secondary school attached to east china normal university (physics group)
   - chemistry, no 2 secondary school attached to east china normal university (chemistry group)
   - a long gaze (long yingtai)
   - to live (yu hua)
   - brothers (yu hua)
-  - the scholars (wu jingzi)
   - what i have seen (chai jing)
-  - one hundred years of solitude (gabriel garcía márquez)
+  - the scholars (wu jingzi)
   - the chameleon (anton chekhov)
   - rashomon (ryunosuke akutagawa)
+  - one hundred years of solitude (gabriel garcía márquez)
   - i wandered lonely as a cloud (william wordsworth)
   - .meditations on life (zhou guoping)
   - .fortress besieged (qian zhongshu)
@@ -173,6 +173,7 @@
   - .pride and prejudice (jane austen)
   - .if on a winter's night a traveler (italo calvino)
   - .the moon and sixpence (william somerset maugham)
+  - .country driving (peter hessler)
   - .jin ping mei (lanling xiaoxiao sheng)
   - .the wisdom of life (schopenhauer)
   - .tao te ching (laozi)
@@ -200,16 +201,15 @@
   - the pirate bay
   - internet archive
   - archive.today
-  - mistral chat
   - google
   - youtube
   - ruanyf weekly
   - hacker news
   - css tricks
   - codepen spark
-  - doodle google
+  - google doodle
   - reddit old
-  - v2ex creative
+  - v2ex
   - nga bbs
   - zhihu following
   - luogu
@@ -260,16 +260,19 @@
   - barack obama
   - blue striped rabbit
   - brad traversy
+  - cali castle
   - change release
   - chen shiyu
+  - chen suiyi chenbimo
   - chen xiao origami
   - chen zihao
-  - chen suiyi chenbimo
   - cloudwu codingnow
   - coding startup
   - cr ryley
   - dai jiangqi
   - dan abramov overreacted
+  - di xuchen
+  - diviner in spiritual wind
   - diygod
   - edmund d zhang
   - fabrice bellard
@@ -277,7 +280,6 @@
   - geek bay geekerwan
   - gu sen matrix67
   - gui minghao
-  - hexagram in spiritual wind
   - hu qianling
   - huang zhizhong
   - interpreter gavin
@@ -291,9 +293,10 @@
   - justyyuk doctor lai
   - jysperm
   - kirikaze chiyuki chyk
+  - kiun b
   - kkksc03
   - liu yuan
-  - livid v2ex
+  - livid
   - localhost-8080
   - longbow flintlock
   - lu jianhong
@@ -332,13 +335,14 @@
   - unfettered idle man
   - upright flies
   - wanderer brawl stars
+  - wang xiaofeng
   - wang zhaohai
   - wes bos
   - yan xuecan acwing
   - yang yang
+  - yin ming kalasoo
   - yunling sapphire
   - zhang chuanzhi
-  - zhang hai
   - zhang xizhe
   - zhou ling
   - zhou xuanyi
@@ -367,6 +371,7 @@
   - chromium just black
   - material design 2
   - material design 3
+  - google books classic
   - iphone os 6
   - smartisan os 8
   - oxygen os 11
@@ -378,6 +383,8 @@
   - firefox 124.0.2
   - code 1.91.2
   - git 2.43
+  - solanum 5.0.0
+  - mistral-large 2
   - g++ 13.2.0
   - python 3.12.3
   - node 18.19.1
@@ -387,7 +394,6 @@
   - eslint 6.4.0
   - prettier 9.2.0
   - terser 5.19.2
-  - apt 2.7.14
   - flatpak 1.14.10
   - snap 2.63.1
   - fcitx 5.1.7
@@ -397,27 +403,21 @@
   - antennapod 3.1.2
   - bilimiao 2.3.8.3
   - blender 4.2.1
-  - bottles 51.13
   - bubeidanci 5.8.8
   - eudic 9.3.1
   - fcitx5-android 0.0.7
   - gedit 46.2
   - geogebra 6.0.804.0
   - gimp 2.10.38
-  - gnome-amberol 2024.1
   - gnome-baobab 46.0
   - gnome-blanket 0.7.0
-  - gnome-boxes 45.0
-  - gnome-cartridges 2.9.3
   - gnome-characters 46.0
   - gnome-deja-dup 45.2
   - gnome-dialect 2.4.2
   - gnome-evince 46.0
   - gnome-eyedropper 2.0.1
-  - gnome-letterpress 2.1
   - gnome-nautilus 46.2
   - gnome-newsflash 3.3.5
-  - gnome-solanum 5.0.0
   - gnome-system-monitor 46.0
   - gnome-tuba 0.8.4
   - gnome-weather 44.0
@@ -538,8 +538,6 @@
   - `livid` letter to confused youth
   - `florio` guide to programming ride
   - `nat` belief of a tech entrepreneur
-  - `yinming` answers from a startup webmaster
-  - `naval` about wealth
 - ideas
   - `projects` things interesting and things meaningful
   - `wisdom` foresights and references

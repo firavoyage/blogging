@@ -41,6 +41,7 @@
 - read ruanyf weekly
 - classify ruanyf into tags
 - make reflections markdown
+- categorize yinming 
 
 > _school_
 

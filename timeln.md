@@ -5757,3 +5757,163 @@ finally! fully rewards obtained.
 sr luminary wardance complete.
 
 80 shots available now.
+
+## 20241010
+
+(one day left of oct monthly exam)
+
+**world is powered by solitude.**
+
+00:53
+
+swimming...
+
+added a few people and podcasts to readme
+
+added a book to readme. clean code.
+
+saved a few pages to web and reflections.
+
+sleep.
+
+01:27
+
+swimming further 
+
+sleep at the end of the day.
+
+17:xx
+
+f:
+
+di xuchen played cards at self study class
+
+and chatted loudly.
+
+zhou ling:
+
+(looking)
+
+f:
+
+gone.
+
+zhou ling:
+
+well.
+
+i will bring him away in next self study classes.
+
+(ask for confirmation)
+
+(confirmed)
+
+zhou ling:
+
+(head to another guy)
+
+you did ...?
+
+the guy:
+
+no! (laughter)
+
+zhou ling:
+
+creating paper cards...
+
+making gambling tools..
+
+how dare! (fake angry)
+
+(write apology letter)
+
+(and ... for di xuchen)
+
+the guy:
+
+wtf. f revealed us.
+
+f:
+
+blame di xuchen.
+
+no one let him ... (treatment to me)
+
+(f:)
+
+(forgot what to say)
+
+(laughter)
+
+18:xx
+
+`ref` `school` `weather`
+
+放课后...
+
+after school and entered apartment...
+
+in the elevator...
+
+(someone to 23 floor:)
+
+a male adult.
+
+aged about 30 or more.
+
+wearing shirts with collar.
+
+the guy:
+
+you from djhs? (i'm wearing school uniform)
+
+f:
+
+right.
+
+the guy:
+
+which grade?
+
+f:
+
+(showed two fingers)
+
+the guy:
+
+who teaches you *chemistry*?
+
+f:
+
+zhou ling. (surprised. why chemistry?)
+
+are you teacher from djhs?
+
+the guy:
+
+no.
+
+(f:)
+
+(...)
+
+the guy:
+
+i'm familiar with zhou ling. (astonished.)
+
+20:30
+
+tomorrow is oct monthly contest.
+
+just be in regular mood.
+
+21:33
+
+2024.10.10 nation day!
+
+*113rd aniversary.*
+
+23:599
+
+**平常心**
