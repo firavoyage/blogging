@@ -616,4 +616,27 @@ i never read blessing details
 
 when it's no a choice but an obtainment
 
+## high school students
+
+学生是什么?
+
+好斗,炫耀,嘲讽,对赌,装逼.
+
+当然是大哥和少爷们.
+
+女孩不在我的观察.
+
+我印象里的女孩,大多溶解了神性,或是回响着超越意义.
+
+- herta (erudition perspective,not real humanity,indifferent)
+- nahida (similar or same as herta)
+- fuxuan (foresight perspective,human creation belief)
+- acheron (live by beyond,calmness facing death,over powered)
+- sparkle (perform any shape as life,elation belief)
+- ...
+
+而目之所及都是平凡的,甚至世俗的.
+
+那些恋爱中人,似乎不是作为娱乐就是
+
 

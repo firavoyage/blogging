@@ -2,7 +2,7 @@
 
 ## passing youth
 
-> -> mistral large
+> $\to mistral \space large$
 
 > write about my passing youth around 600 words
 
@@ -22,7 +22,9 @@ My youth may have passed, but it has left behind a trail of memories, of experie
 
 In the end, my youth was not just a period of my life, but a collection of moments, of experiences, of emotions. It was a journey of self-discovery, of growth, of transformation. It was a time when I was not just living, but truly alive. And as I bid farewell to my youth, I do not mourn its passing, but celebrate its existence. For it was in my youth that I truly learned what it means to live, to love, to dream, and to be.
 
-> -> mistral instruct 7b q4
+> $\to mistral \space instruct \space 7b \space q4$
+
+> write about my passing youth around 600 words
 
 Title: Reflections on the Passing Youth: A Nostalgic Journey Through the Golden Years of Life
 
@@ -46,7 +48,7 @@ In conclusion, the passing youth is a bittersweet reminder of the fleeting natur
 
 `list` `ref`
 
-> -> mistral large 2
+> $\to mistral \space large \space 2$
 
 > 50 english classic songs with publication year
 
@@ -105,7 +107,7 @@ Here are 50 classic English songs, along with their publication years, spanning 
 
 These songs represent a mix of genres, including pop, rock, soul, and more, showcasing the diversity of classic English music.
 
-> -> mistral large
+> $\to mistral \space large$
 
 > english golden songs with publication year
 
@@ -162,7 +164,7 @@ Here is a list of 50 English golden songs along with their publication year:
 49. "Papa's Got a Brand New Bag" by James Brown (1965)
 50. "I Got You (I Feel Good)" by James Brown (1965)
 
-> -> mistral instruct 7b q4
+> $\to mistral \space instruct \space 7b \space q4$
 
 > 50 english classic songs with publication year
 
@@ -221,7 +223,7 @@ I've compiled a list of 50 classic English songs with their publication years or
 
 This list covers a wide range of genres and artists that have influenced English music history. Enjoy!
 
-> -> gpt 3.5
+> $\to gpt \space 3.5$
 
 > 50 english classic songs with publication year
 
@@ -278,7 +280,7 @@ Here is a list of 50 classic English songs along with their publication years:
 49. "Georgia on My Mind" by Ray Charles (1960)
 50. "Unchained Melody" by The Righteous Brothers (1965)
 
-> -> openhermes neutral 7b q4
+> $\to openhermes \space neutral \space 7b \space q4$
 
 > 50 english classic songs with publication year
 
@@ -339,7 +341,7 @@ Here is a list of 50 English classic songs with their publication year:
 
 `list` `ref`
 
-> -> mistral large 2
+> $\to mistral \space large \space 2$
 
 > 50 english ballad songs with publication year
 
@@ -398,7 +400,7 @@ Here are 50 English ballad songs along with their publication years. Please note
 
 These songs span various centuries and styles, showcasing the evolution of the English ballad over time.
 
-> -> mistral large
+> $\to mistral \space large$
 
 > 50 english ballad songs with publication year
 
@@ -455,7 +457,7 @@ Here is a list of 50 English ballad songs along with their publication years. Pl
 49. "Thinking Out Loud" (2014) - Ed Sheeran
 50. "Photograph" (2014) - Ed Sheeran
 
-> -> mistral instruct 7b q4
+> $\to mistral \space instruct \space 7b \space q4$
 
 > english ballad songs with publication year
 
@@ -474,7 +476,7 @@ Here are some English ballad songs with their approximate publication years:
 
 It is important to note that the exact publication year of some ballads may not be known, and some of these ballads may have existed in oral tradition for centuries before being printed.
 
-> -> gpt 3.5
+> $\to gpt \space 3.5$
 
 > 50 english ballad songs with publication year
 
@@ -529,7 +531,7 @@ It is important to note that the exact publication year of some ballads may not 
 49. "Paint It Black" by The Rolling Stones (1966)
 50. "The Times They Are a-Changin'" by Bob Dylan (1964)
 
-> -> gpt 4o
+> $\to gpt \space 4o$
 
 > 50 english ballad songs with publication year
 
@@ -588,7 +590,7 @@ Here's a list of 50 English ballad songs along with their publication years:
 
 These ballads span several centuries and reflect a rich tradition of English and Celtic folk music.
 
-> -> claude
+> $\to claude$
 
 > 50 english ballad songs with publication year
 
@@ -647,7 +649,7 @@ Free Bird - 1973
 
 ## frontend
 
-> -> mistral large
+> $\to mistral \space large$
 
 > how to learn web dev
 
@@ -675,7 +677,7 @@ Learning web development involves acquiring a variety of skills, including codin
 
 11. Keep learning and improving: Web development is a constantly evolving field, so it's essential to continue learning new skills and technologies. Set aside time for self-improvement and stay curious about new tools and techniques.
 
-> -> mistral instruct 7b q4
+> $\to mistral \space instruct \space 7b \space q4$
 
 > how to learn web dev
 
@@ -693,7 +695,7 @@ Learning web development from scratch can be an exciting and rewarding experienc
 
 `list` `concept` `ref`
 
-> -> mistral large
+> $\to mistral \space large$
 
 > reasons of retro
 
@@ -721,7 +723,7 @@ Learning web development from scratch can be an exciting and rewarding experienc
 
 ## cencership
 
-> -> mistral large
+> $\to mistral \space large$
 
 > countries with network cencership
 
@@ -749,7 +751,7 @@ There are several countries known for implementing network censorship, restricti
 
 ## chinese
 
-> -> mistral large
+> $\to mistral \space large$
 
 translate 太空有空间站,太挤就没有空间站
 
@@ -785,7 +787,7 @@ In English, the sentence "人要是行,干一行行一行,一行行行行行,行
 
 ## js v ts
 
-> -> mistral large
+> $\to mistral \space large$
 
 > javascript vs typescript list pros and cons
 
@@ -859,7 +861,7 @@ Cons:
 
 ## vue v react
 
-> -> mistral large
+> $\to mistral \space large$
 
 > vue vs react list pros and cons
 
@@ -932,7 +934,7 @@ Cons:
 
 ## sketch v figma
 
-> -> mistral large
+> $\to mistral \space large$
 
 > sketch vs figma list pros and cons
 
@@ -1008,7 +1010,7 @@ Cons:
 
 ## sketch v illu
 
-> -> mistral large
+> $\to mistral \space large$
 
 > sketch vs illustrator list pros and cons
 
@@ -1087,7 +1089,7 @@ Both tools have their strengths and weaknesses, and the best choice depends on y
 
 ## ubuntu v arch
 
-> -> mistral large
+> $\to mistral \space large$
 
 > ubuntu vs arch list pros and cons
 
@@ -1126,7 +1128,7 @@ In conclusion, if you're new to Linux or want a stable, user-friendly system, Ub
 
 ## tg v discord
 
-> -> mistral large
+> $\to mistral \space large$
 
 > telegram vs discord list pros and cons
 
@@ -1165,7 +1167,7 @@ Both platforms have their strengths and weaknesses, and the best choice depends 
 
 ## online courses
 
-> -> mistral instruct 7b q4
+> $\to mistral \space instruct \space 7b \space q4$
 
 > popular courses sites
 
@@ -1184,7 +1186,7 @@ There are several popular websites that offer online courses across various subj
 
 ## replication crisis
 
-> -> mistral instruct 7b q4
+> $\to mistral \space instruct \space 7b \space q4$
 
 The replication crisis refers to the ongoing debate in psychology and other scientific fields about the reliability and validity of research findings, particularly those that cannot be reproduced. The crisis began to gain significant attention around 2011 when a series of high-profile studies in psychology failed to replicate, leading to concerns about the integrity and transparency of research methods and data reporting.
 
@@ -1196,7 +1198,7 @@ To address the replication crisis, various initiatives have been launched, inclu
 
 `ref`
 
-> -> mistral instruct 7b q4
+> $\to mistral \space instruct \space 7b \space q4$
 
 The Efficient Market Hypothesis (EMH) is a financial theory that suggests it is impossible to beat the market consistently over time by making informed investments based on publicly available information. According to EMH, financial markets are informationally efficient, meaning that the prices of securities reflect all available and relevant information.
 
@@ -1210,7 +1212,7 @@ It's important to note that while EMH is a widely accepted theory in finance, it
 
 ## latex tut
 
-> -> mistral instruct 7b q4
+> $\to mistral \space instruct \space 7b \space q4$
 
 I'd be happy to provide you with a brief introduction to LaTeX and some resources for learning it further.
 
@@ -1257,7 +1259,7 @@ I hope this introduction helps you get started with LaTeX! Let me know if you ha
 
 `concept` `ref`
 
-> -> mistral instruct 7b q4
+> $\to mistral \space instruct \space 7b \space q4$
 
 > what's the book `GEB`
 
@@ -1274,7 +1276,7 @@ The title "Gödel, Escher, Bach: An Eternal Golden Braid" is a metaphorical refe
 
 ## foo bar
 
-> -> mistral instruct 7b q4
+> $\to mistral \space instruct \space 7b \space q4$
 
 > whats the meaning of `foo bar`
 
@@ -1282,7 +1284,7 @@ The term "foo bar" is an idiomatic expression with no specific meaning on its ow
 
 ## svg
 
-> -> mistral instruct 7b q4
+> $\to mistral \space instruct \space 7b \space q4$
 
 > write svg tut
 
@@ -1369,7 +1371,7 @@ This tutorial covers the basics of creating and editing SVG files. You can explo
 
 ## markdown
 
-> -> mistral instruct 7b q4
+> $\to mistral \space instruct \space 7b \space q4$
 
 > write markdown tut
 
@@ -1484,7 +1486,7 @@ For more information on Markdown, check out the [Markdown Cheat Sheet](https://g
 
 ## c++ struct functions
 
-> -> mistral large
+> $\to mistral \space large$
 
 > can c++ struct include functions
 
@@ -1532,7 +1534,7 @@ In this example, `MyStruct` is a `struct` that contains:
 
 You can use `struct` in C++ just like you would use a `class`, with the understanding that the default access level for members is public.
 
-> -> mistral codestral
+> $\to mistral \space codestral$
 
 > can c++ struct include functions
 
@@ -1568,7 +1570,7 @@ In this example, the `Rectangle` struct has two member variables (`width` and `h
 
 ## voyage js
 
-> -> mistral large 2
+> $\to mistral \space large \space 2$
 
 > voyage.js web framework
 
@@ -1707,7 +1709,7 @@ app.start();
 
 希望这些信息能帮助你更好地理解和使用 Voyage.js。如果你有更多的问题或需要更详细的指导，欢迎继续提问！
 
-> -> mistral large 2
+> $\to mistral \space large \space 2$
 
 > voyage.js web framework
 
@@ -1829,7 +1831,7 @@ Voyage.js, like other web frameworks, aims to provide a comprehensive set of too
 
 ## timsort
 
-> -> mistral large 2
+> $\to mistral \space large \space 2$
 
 > tim sort implementation in js
 
@@ -1932,7 +1934,7 @@ This implementation provides a good balance between the efficiency of merge sort
 
 `concept` `dev` `ref`
 
-> -> mistral large 2
+> $\to mistral \space large \space 2$
 
 > functional programming
 
@@ -1974,7 +1976,7 @@ Popular languages for functional programming include Haskell, Lisp, Clojure, Erl
 
 `concept` `dev` `ref`
 
-> -> mistral large 2
+> $\to mistral \space large \space 2$
 
 > object oriented programming
 
@@ -2042,7 +2044,7 @@ In this example:
 - Objects `dog` and `cat` are instances of `Dog` and `Cat`, respectively.
 - Polymorphism is demonstrated when the `speak` method is called on each animal in the list, producing different outputs based on the type of the animal.
 
-> -> mistral large 2
+> $\to mistral \space large \space 2$
 
 > object oriented programming in js
 
@@ -2161,7 +2163,7 @@ By using these concepts, you can create more organized, reusable, and maintainab
 
 `dev`
 
-> -> mistral large 2
+> $\to mistral \space large \space 2$
 
 > unit testing
 
@@ -2249,7 +2251,7 @@ Unit testing is a fundamental practice in software development that helps ensure
 
 `dev` `guide`
 
-> -> mistral large 2
+> $\to mistral \space large \space 2$
 
 > iteration abstract in cpp using define including iter variable start and end
 
@@ -2312,7 +2314,7 @@ These macros can help you write more concise and readable code, especially when 
 
 `concept` `dev` `ref`
 
-> -> mistral large 2
+> $\to mistral \space large \space 2$
 
 > object oriented programming principles
 
@@ -2366,7 +2368,7 @@ These principles help in creating modular, reusable, and maintainable code, maki
 
 `concept` `dev` `ref`
 
-> -> mistral large 2
+> $\to mistral \space large \space 2$
 
 > functional programming principles
 
@@ -2433,7 +2435,7 @@ These principles help in creating code that is concise, predictable, and easier 
 
 ## counter fp oop
 
-> -> mistral large 2
+> $\to mistral \space large \space 2$
 
 > define a counter in fp oop
 
@@ -2507,7 +2509,7 @@ Both approaches have their strengths and are suitable for different types of pro
 
 ## list fp oop
 
-> -> mistral large 2
+> $\to mistral \space large \space 2$
 
 > list of same examples in fp and oop
 
@@ -2650,7 +2652,7 @@ These examples illustrate how the same tasks can be approached differently in FP
 
 ## list fp oop that fp poor
 
-> -> mistral large 2
+> $\to mistral \space large \space 2$
 
 > list of examples in fp and oop that fp is poor at
 
@@ -2898,7 +2900,7 @@ db.close()
 
 These examples illustrate scenarios where OOP is often more natural or efficient than FP. OOP's ability to encapsulate state and behavior within objects makes it well-suited for tasks involving complex interactions, stateful computations, event-driven programming, GUI development, and database interactions.
 
-> -> mistral large 2
+> $\to mistral \space large \space 2$
 
 > list of examples in fp and oop that fp is poor at give me code
 
@@ -3075,7 +3077,7 @@ These examples illustrate some scenarios where OOP might be more suitable than F
 
 ## key counter fp oop
 
-> -> mistral large 2
+> $\to mistral \space large \space 2$
 
 > key counter in js in fp and oop
 
@@ -3168,7 +3170,7 @@ Both approaches have their strengths and can be chosen based on the specific req
 
 ## shallow clone and deep clone
 
-> -> mistral large 2
+> $\to mistral \space large \space 2$
 
 > shallow clone and deep clone in js
 
@@ -3301,7 +3303,7 @@ Choosing between shallow and deep cloning depends on your specific use case and 
 
 `dev` `guide`
 
-> -> mistral large 2
+> $\to mistral \space large \space 2$
 
 > new Vue(options)
 
@@ -3358,7 +3360,7 @@ You can include other options as needed to configure your Vue instance.
 
 `design` `dev`
 
-> -> mistral large 2
+> $\to mistral \space large \space 2$
 
 > choosing a react component library is ant design a good choice
 
@@ -3414,7 +3416,7 @@ Ultimately, the choice of a component library depends on your project's specific
 
 `math` `ref`
 
-> -> mistral large 2
+> $\to mistral \space large \space 2$
 
 > newton and bisection
 
@@ -3481,7 +3483,7 @@ In practice, a hybrid approach can be used where the bisection method is employe
 
 ## npm error
 
-> -> mistral large 2
+> $\to mistral \space large \space 2$
 
 > npm can not install and it lasts forever
 
@@ -3584,7 +3586,7 @@ By following these steps, you should be able to diagnose and resolve the issue w
 
 ## speed test wasm
 
-> -> mistral large 2
+> $\to mistral \space large \space 2$
 
 > speed test wasm in cpp and js complex function
 
@@ -3707,7 +3709,7 @@ This guide provides a basic framework for comparing the performance of a complex
 
 ## install emscripten compiler
 
-> -> mistral large 2
+> $\to mistral \space large \space 2$
 
 > install emcc
 
@@ -3852,7 +3854,7 @@ You have successfully installed `emcc` and compiled a simple C++ program to WebA
 
 ## react ssr
 
-> -> mistral large 2
+> $\to mistral \space large \space 2$
 
 > react ssr
 
@@ -3970,7 +3972,7 @@ By following these steps, you can set up a basic SSR implementation with React. 
 
 ## counter app in frameworks
 
-> -> mistral large 2
+> $\to mistral \space large \space 2$
 
 > counter app in react alpine vue svelte and jquery
 
@@ -4106,7 +4108,7 @@ These examples demonstrate how to create a simple counter app using different te
 
 `dev`
 
-> -> mistral large 3
+> $\to mistral \space large$ 3
 
 > counter app with editable input type text increase and decrease in react alpine vue svelte and jquery
 
@@ -4250,7 +4252,7 @@ Each of these examples demonstrates a simple counter app with an editable input 
 
 ## web framework behind popular sites
 
-> -> mistral large 2
+> $\to mistral \space large \space 2$
 
 > web framework behind a list of 50 popular sites like google github and more in just a few words like vue react svelte alpine jquery
 
@@ -4313,7 +4315,7 @@ This list provides a snapshot of the technologies used by these companies, but k
 
 `dev` `ref`
 
-> -> mistral large 2
+> $\to mistral \space large \space 2$
 
 > list of javascript framework behind 100 popular sites in a few words
 
@@ -4424,7 +4426,7 @@ This list provides a snapshot of the frameworks used by these sites, but it's im
 
 ## mistral latest data
 
-> -> mistral large 2
+> $\to mistral \space large \space 2$
 
 > when is your data updated
 
@@ -4434,7 +4436,7 @@ As of my last update, my knowledge cutoff is October 2023. This means that the i
 
 `dev` `guide`
 
-> -> mistral large 2
+> $\to mistral \space large \space 2$
 
 > obj define prop guide
 
@@ -4530,7 +4532,7 @@ Using `Object.defineProperty` gives you precise control over the behavior of obj
 
 `dev` `guide`
 
-> -> mistral large 2
+> $\to mistral \space large \space 2$
 
 > proxy and reflect guide
 
@@ -4655,7 +4657,7 @@ This guide should give you a good starting point for understanding and using pro
 
 ## react use state
 
-> -> chatgpt 4o
+> $\to chatgpt \space 4o$
 
 > show how react usestate works write usestate function without react
 
@@ -4771,7 +4773,7 @@ While these examples illustrate the basic concept, React's actual implementation
 
 `concept` `ref`
 
-> -> mistral large 2
+> $\to mistral \space large \space 2$
 
 > sub concepts of elegance
 
@@ -4803,7 +4805,7 @@ Each of these sub-concepts contributes to the overall notion of elegance, and th
 
 `design`
 
-> -> mistral large 2
+> $\to mistral \space large \space 2$
 
 > long list of american presidential candidates sites in past decades one line for each
 
@@ -4836,7 +4838,7 @@ Please note that some of these websites may no longer be active or may have been
 
 `math` `ref`
 
-> -> mistral large 2
+> $\to mistral \space large \space 2$
 
 > p and np complete
 
@@ -4874,7 +4876,7 @@ Understanding these concepts is fundamental to grasping the limitations and capa
 
 ## react use state
 
-> -> mistral large 2
+> $\to mistral \space large \space 2$
 
 > react use state in vue
 
@@ -4967,7 +4969,7 @@ Both approaches allow you to manage state in a reactive manner, similar to how `
 
 ## dom api
 
-> -> mistral large 2
+> $\to mistral \space large \space 2$
 
 > detailed dom api
 
@@ -5094,7 +5096,7 @@ The DOM API is extensive and powerful, allowing developers to create dynamic and
 
 ## diff without vdom
 
-> -> mistral large 2
+> $\to mistral \space large \space 2$
 
 > how frameworks without vdom diff
 
@@ -5139,7 +5141,7 @@ In summary, frameworks without a VDOM use a variety of strategies to manage and 
 
 ## diff in svelte
 
-> -> mistral large 2
+> $\to mistral \space large \space 2$
 
 > how svelte diff
 
@@ -5246,7 +5248,7 @@ In summary, Svelte offers a unique approach to building user interfaces with its
 
 ## svelte compiler
 
-> -> mistral large 2
+> $\to mistral \space large \space 2$
 
 > how svelte compile
 
@@ -5339,7 +5341,7 @@ This compiled code is highly optimized and directly manipulates the DOM, resulti
 
 ## svelte compiler examples
 
-> -> mistral large 2
+> $\to mistral \space large \space 2$
 
 > svelte compiler examples
 
@@ -5612,7 +5614,7 @@ These examples illustrate how the Svelte compiler transforms Svelte components i
 
 ## solid js
 
-> -> mistral large 2
+> $\to mistral \space large \space 2$
 
 > solidjs comparison
 
@@ -5649,7 +5651,7 @@ In summary, SolidJS offers a unique approach to reactivity and aims to provide e
 
 ## giscus guide
 
-> -> mistral large 2
+> $\to mistral \space large \space 2$
 
 > giscus
 
@@ -5722,7 +5724,7 @@ Giscus is a powerful and flexible commenting system that leverages GitHub Discus
 
 `list` `ref`
 
-> -> mistral large 2
+> $\to mistral \space large \space 2$
 
 > long latex symbols list
 
@@ -5872,413 +5874,11 @@ Certainly! LaTeX is a powerful typesetting system that is widely used for creati
 
 This list covers many of the commonly used symbols in LaTeX. For more specialized symbols, you can refer to the comprehensive symbol list in the LaTeX documentation or online resources.
 
-## full latex math symbols
+## latex symbols comprehensive list
 
 `list` `ref`
 
-> -> mistral large 2
-
-> full latex symbols list
-
-Certainly! LaTeX is a powerful typesetting system that allows for the creation of complex mathematical formulas and symbols. Below is a list of commonly used LaTeX symbols and commands:
-
-### Greek Letters
-
-- `\alpha` $\alpha$
-- `\beta` $\beta$
-- `\gamma` $\gamma$
-- `\delta` $\delta$
-- `\epsilon` $\epsilon$
-- `\zeta` $\zeta$
-- `\eta` $\eta$
-- `\theta` $\theta$
-- `\iota` $\iota$
-- `\kappa` $\kappa$
-- `\lambda` $\lambda$
-- `\mu` $\mu$
-- `\nu` $\nu$
-- `\xi` $\xi$
-- `\pi` $\pi$
-- `\rho` $\rho$
-- `\sigma` $\sigma$
-- `\tau` $\tau$
-- `\upsilon` $\upsilon$
-- `\phi` $\phi$
-- `\chi` $\chi$
-- `\psi` $\psi$
-- `\omega` $\omega$
-
-### Binary Operators
-
-- `+` $+$
-- `-` $-$
-- `\times` $\times$
-- `\div` $\div$
-- `\cdot` $\cdot$
-- `\pm` $\pm$
-- `\mp` $\mp$
-- `\ast` $\ast$
-- `\star` $\star$
-- `\circ` $\circ$
-- `\bullet` $\bullet$
-- `\oplus` $\oplus$
-- `\ominus` $\ominus$
-- `\otimes` $\otimes$
-- `\oslash` $\oslash$
-- `\odot` $\odot$
-- `\cup` $\cup$
-- `\cap` $\cap$
-- `\setminus` $\setminus$
-- `\amalg` $\amalg$
-
-### Relational Operators
-
-- `=` $=$
-- `\neq` $\neq$
-- `<` $<$
-- `>` $>$
-- `\leq` $\leq$
-- `\geq` $\geq$
-- `\approx` $\approx$
-- `\sim` $\sim$
-- `\cong` $\cong$
-- `\equiv` $\equiv$
-- `\propto` $\propto$
-- `\prec` $\prec$
-- `\succ` $\succ$
-- `\preceq` $\preceq$
-- `\succeq` $\succeq$
-- `\ll` $\ll$
-- `\gg` $\gg$
-- `\subset` $\subset$
-- `\supset` $\supset$
-- `\subseteq` $\subseteq$
-- `\supseteq` $\supseteq$
-- `\in` $\in$
-- `\notin` $\notin$
-- `\ni` $\ni$
-- `\not\ni` $\not\ni$
-
-### Arrows
-
-- `\leftarrow` $\leftarrow$
-- `\rightarrow` $\rightarrow$
-- `\uparrow` $\uparrow$
-- `\downarrow` $\downarrow$
-- `\Leftarrow` $\Leftarrow$
-- `\Rightarrow` $\Rightarrow$
-- `\Uparrow` $\Uparrow$
-- `\Downarrow` $\Downarrow$
-- `\leftrightarrow` $\leftrightarrow$
-- `\Leftrightarrow` $\Leftrightarrow$
-- `\mapsto` $\mapsto$
-- `\longleftarrow` $\longleftarrow$
-- `\longrightarrow` $\longrightarrow$
-- `\Longleftarrow` $\Longleftarrow$
-- `\Longrightarrow` $\Longrightarrow$
-- `\longleftrightarrow` $\longleftrightarrow$
-- `\Longleftrightarrow` $\Longleftrightarrow$
-
-### Miscellaneous Symbols
-
-- `\infty` $\infty$
-- `\partial` $\partial$
-- `\nabla` $\nabla$
-- `\forall` $\forall$
-- `\exists` $\exists$
-- `\emptyset` $\emptyset$
-- `\varnothing` $\varnothing$
-- `\therefore` $\therefore$
-- `\because` $\because$
-- `\cdots` $\cdots$
-- `\vdots` $\vdots$
-- `\ddots` $\ddots$
-- `\ldots` $\ldots$
-- `\dots` $\dots$
-- `\sqrt` $\sqrt{}$
-- `\sqrt[n]` $\sqrt[n]{}$
-- `\sum` $\sum$
-- `\prod` $\prod$
-- `\int` $\int$
-- `\oint` $\oint$
-- `\lim` $\lim$
-- `\log` $\log$
-- `\sin` $\sin$
-- `\cos` $\cos$
-- `\tan` $\tan$
-- `\sec` $\sec$
-- `\csc` $\csc$
-- `\cot` $\cot$
-- `\sinh` $\sinh$
-- `\cosh` $\cosh$
-- `\tanh` $\tanh$
-- `\coth` $\coth$
-- `\arcsin` $\arcsin$
-- `\arccos` $\arccos$
-- `\arctan` $\arctan$
-- `\arg` $\arg$
-- `\deg` $\deg$
-- `\det` $\det$
-- `\dim` $\dim$
-- `\exp` $\exp$
-- `\gcd` $\gcd$
-- `\hom` $\hom$
-- `\ker` $\ker$
-- `\lg` $\lg$
-- `\ln` $\ln$
-- `\log` $\log$
-- `\Pr` $\Pr$
-- `\sup` $\sup$
-- `\inf` $\inf$
-- `\max` $\max$
-- `\min` $\min$
-
-### Delimiters
-
-- `(` $($
-- `)` $)$
-- `[` $[$
-- `]` $]$
-- `\{` $\{$
-- `\}` $\}$
-- `|` $|$
-- `\|` $\|$
-- `\langle` $\langle$
-- `\rangle` $\rangle$
-- `\lfloor` $\lfloor$
-- `\rfloor` $\rfloor$
-- `\lceil` $\lceil$
-- `\rceil` $\rceil$
-- `\ulcorner` $\ulcorner$
-- `\urcorner` $\urcorner$
-- `\llcorner` $\llcorner$
-- `\lrcorner` $\lrcorner$
-
-### Accents
-
-- `\hat{a}` $\hat{a}$
-- `\check{a}` $\check{a}$
-- `\tilde{a}` $\tilde{a}$
-- `\acute{a}` $\acute{a}$
-- `\grave{a}` $\grave{a}$
-- `\dot{a}` $\dot{a}$
-- `\ddot{a}` $\ddot{a}$
-- `\breve{a}` $\breve{a}$
-- `\bar{a}` $\bar{a}$
-- `\vec{a}` $\vec{a}$
-
-### Special Characters
-
-- `\#` $\#$
-- `\$` $\$$
-- `\%` $\%$
-- `\&` $\&$
-- `\_` $\_$
-- `\{` $\{$
-- `\}` $\}$
-- `\backslash` $\backslash$
-- `\^` $\^$
-- `\~` $\~$
-- `\'` $\'$
-- ` \`` $\ `$
-- `\"` $\"$
-- `\.` $\.$
-- `\=` $\=$
-- `\u` $\u$
-- `\v` $\v$
-- `\H` $\H$
-- `\t` $\t$
-- `\c` $\c$
-- `\d` $\d$
-- `\b` $\b$
-
-This list covers many of the commonly used symbols and commands in LaTeX. For more specialized symbols, you may need to consult the documentation for specific packages or the Comprehensive LaTeX Symbol List.
-
-## comprehensive latex math symbols
-
-`list` `ref`
-
-> -> mistral large 2
-
-> comprehensive latex symbols list including greek math and logic
-
-Certainly! LaTeX is a powerful typesetting system that is widely used for creating documents with complex mathematical notation. Below is a comprehensive list of LaTeX symbols, including Greek letters, mathematical symbols, and logic symbols.
-
-### Greek Letters
-
-#### Lowercase Greek Letters
-
-- `\alpha` $\alpha$
-- `\beta` $\beta$
-- `\gamma` $\gamma$
-- `\delta` $\delta$
-- `\epsilon` $\epsilon$
-- `\varepsilon` $\varepsilon$
-- `\zeta` $\zeta$
-- `\eta` $\eta$
-- `\theta` $\theta$
-- `\vartheta` $\vartheta$
-- `\iota` $\iota$
-- `\kappa` $\kappa$
-- `\lambda` $\lambda$
-- `\mu` $\mu$
-- `\nu` $\nu$
-- `\xi` $\xi$
-- `\pi` $\pi$
-- `\varpi` $\varpi$
-- `\rho` $\rho$
-- `\varrho` $\varrho$
-- `\sigma` $\sigma$
-- `\varsigma` $\varsigma$
-- `\tau` $\tau$
-- `\upsilon` $\upsilon$
-- `\phi` $\phi$
-- `\varphi` $\varphi$
-- `\chi` $\chi$
-- `\psi` $\psi$
-- `\omega` $\omega$
-
-#### Uppercase Greek Letters
-
-- `\Gamma` $\Gamma$
-- `\Delta` $\Delta$
-- `\Theta` $\Theta$
-- `\Lambda` $\Lambda$
-- `\Xi` $\Xi$
-- `\Pi` $\Pi$
-- `\Sigma` $\Sigma$
-- `\Upsilon` $\Upsilon$
-- `\Phi` $\Phi$
-- `\Psi` $\Psi$
-- `\Omega` $\Omega$
-
-### Mathematical Symbols
-
-#### Arithmetic Operators
-
-- `+` $+$
-- `-` $-$
-- `\times` $\times$
-- `\div` $\div$
-- `\cdot` $\cdot$
-- `\pm` $\pm$
-- `\mp` $\mp$
-- `\neq` $\neq$
-- `\approx` $\approx$
-- `\leq` $\leq$
-- `\geq` $\geq$
-- `<` $<$
-- `>` $>$
-- `\ll` $\ll$
-- `\gg` $\gg$
-- `\sim` $\sim$
-- `\simeq` $\simeq$
-- `\cong` $\cong$
-- `\equiv` $\equiv$
-- `\propto` $\propto$
-- `\approxeq` $\approxeq$
-- `\asymp` $\asymp$
-
-#### Set Theory
-
-- `\in` $\in$
-- `\notin` $\notin$
-- `\subset` $\subset$
-- `\subseteq` $\subseteq$
-- `\supset` $\supset$
-- `\supseteq` $\supseteq$
-- `\cup` $\cup$
-- `\cap` $\cap$
-- `\setminus` $\setminus$
-- `\emptyset` $\emptyset$
-- `\varnothing` $\varnothing$
-- `\mathbb{N}` $\mathbb{N}$
-- `\mathbb{Z}` $\mathbb{Z}$
-- `\mathbb{Q}` $\mathbb{Q}$
-- `\mathbb{R}` $\mathbb{R}$
-- `\mathbb{C}` $\mathbb{C}$
-
-#### Logic Symbols
-
-- `\land` $\land$
-- `\lor` $\lor$
-- `\lnot` $\lnot$
-- `\neg` $\neg$
-- `\forall` $\forall$
-- `\exists` $\exists$
-- `\implies` $\implies$
-- `\iff` $\iff$
-- `\rightarrow` $\rightarrow$
-- `\leftarrow` $\leftarrow$
-- `\leftrightarrow` $\leftrightarrow$
-- `\Rightarrow` $\Rightarrow$
-- `\Leftarrow` $\Leftarrow$
-- `\Leftrightarrow` $\Leftrightarrow$
-
-#### Miscellaneous Symbols
-
-- `\infty` $\infty$
-- `\partial` $\partial$
-- `\nabla` $\nabla$
-- `\sqrt` $\sqrt$
-- `\sum` $\sum$
-- `\prod` $\prod$
-- `\int` $\int$
-- `\oint` $\oint$
-- `\lim` $\lim$
-- `\log` $\log$
-- `\sin` $\sin$
-- `\cos` $\cos$
-- `\tan` $\tan$
-- `\sec` $\sec$
-- `\csc` $\csc$
-- `\cot` $\cot$
-- `\arcsin` $\arcsin$
-- `\arccos` $\arccos$
-- `\arctan` $\arctan$
-
-### Additional Symbols
-
-- `\cdot` $\cdot$
-- `\cdots` $\cdots$
-- `\vdots` $\vdots$
-- `\ddots` $\ddots$
-- `\dots` $\dots$
-- `\ldots` $\ldots$
-- `\therefore` $\therefore$
-- `\because` $\because$
-- `\angle` $\angle$
-- `\perp` $\perp$
-- `\parallel` $\parallel$
-- `\triangle` $\triangle$
-- `\square` $\square$
-- `\blacksquare` $\blacksquare$
-- `\circ` $\circ$
-- `\bullet` $\bullet$
-- `\diamond` $\diamond$
-- `\star` $\star$
-- `\ast` $\ast$
-- `\oplus` $\oplus$
-- `\otimes` $\otimes$
-- `\odot` $\odot$
-- `\oslash` $\oslash$
-- `\bigcirc` $\bigcirc$
-- `\bigtriangleup` $\bigtriangleup$
-- `\bigtriangledown` $\bigtriangledown$
-- `\dagger` $\dagger$
-- `\ddagger` $\ddagger$
-- `\aleph` $\aleph$
-- `\beth` $\beth$
-- `\gimel` $\gimel$
-- `\daleth` $\daleth$
-
-This list covers a wide range of symbols commonly used in mathematical and logical contexts. For more specialized symbols, you can refer to the comprehensive LaTeX symbol list available in the Comprehensive LaTeX Symbol List documentation.
-
-## another comprehensive latex symbols list
-
-`list` `ref`
-
-> -> mistral large 2
+> $\to mistral \space large \space 2$
 
 > comprehensive latex symbols list including greek math and all logic
 
@@ -6352,16 +5952,20 @@ Certainly! Below is a comprehensive list of LaTeX symbols, including Greek lette
 - `\neq` $\neq$
 - `\approx` $\approx$
 - `\equiv` $\equiv$
-- `\leq` $\leq$
-- `\geq` $\geq$
 - `<` $<$
 - `>` $>$
+- `\leq` $\leq$
+- `\geq` $\geq$
 - `\ll` $\ll$
 - `\gg` $\gg$
 - `\sim` $\sim$
 - `\simeq` $\simeq$
 - `\cong` $\cong$
 - `\propto` $\propto$
+- `\prec` $\prec$
+- `\succ` $\succ$
+- `\preceq` $\preceq$
+- `\succeq` $\succeq$
 
 #### Arithmetic Operators
 
@@ -6372,7 +5976,28 @@ Certainly! Below is a comprehensive list of LaTeX symbols, including Greek lette
 - `\cdot` $\cdot$
 - `\pm` $\pm$
 - `\mp` $\mp$
+- `\neq` $\neq$
+- `\approx` $\approx$
+- `\leq` $\leq$
+- `\geq` $\geq$
+- `<` $<$
+- `>` $>$
+- `\ll` $\ll$
+- `\gg` $\gg$
+- `\sim` $\sim$
+- `\simeq` $\simeq$
+- `\cong` $\cong$
+- `\equiv` $\equiv$
+- `\propto` $\propto$
+- `\approxeq` $\approxeq$
+- `\asymp` $\asymp$
 - `\ast` $\ast$
+- `\oplus` $\oplus$
+- `\ominus` $\ominus$
+- `\otimes` $\otimes$
+- `\oslash` $\oslash$
+- `\odot` $\odot$
+- `\amalg` $\amalg$
 - `\star` $\star$
 - `\circ` $\circ$
 - `\bullet` $\bullet$
@@ -6381,6 +6006,8 @@ Certainly! Below is a comprehensive list of LaTeX symbols, including Greek lette
 
 - `\in` $\in$
 - `\notin` $\notin$
+- `\ni` $\ni$
+- `\not\ni` $\not\ni$
 - `\subset` $\subset$
 - `\supset` $\supset$
 - `\subseteq` $\subseteq$
@@ -6390,6 +6017,11 @@ Certainly! Below is a comprehensive list of LaTeX symbols, including Greek lette
 - `\setminus` $\setminus$
 - `\emptyset` $\emptyset$
 - `\varnothing` $\varnothing$
+- `\mathbb{N}` $\mathbb{N}$
+- `\mathbb{Z}` $\mathbb{Z}$
+- `\mathbb{Q}` $\mathbb{Q}$
+- `\mathbb{R}` $\mathbb{R}$
+- `\mathbb{C}` $\mathbb{C}$
 
 #### Logical Symbols
 
@@ -6397,16 +6029,17 @@ Certainly! Below is a comprehensive list of LaTeX symbols, including Greek lette
 - `\lor` $\lor$
 - `\lnot` $\lnot$
 - `\neg` $\neg$
+- `\forall` $\forall$
+- `\exists` $\exists$
+- `\nexists` $\nexists$
 - `\rightarrow` $\rightarrow$
 - `\leftarrow` $\leftarrow$
+- `\leftrightarrow` $\leftrightarrow$
 - `\Rightarrow` $\Rightarrow$
 - `\Leftarrow` $\Leftarrow$
 - `\Leftrightarrow` $\Leftrightarrow$
 - `\implies` $\implies$
 - `\iff` $\iff$
-- `\forall` $\forall$
-- `\exists` $\exists$
-- `\nexists` $\nexists$
 
 #### Miscellaneous Symbols
 
@@ -6420,12 +6053,34 @@ Certainly! Below is a comprehensive list of LaTeX symbols, including Greek lette
 - `\oint` $\oint$
 - `\lim` $\lim$
 - `\log` $\log$
+- `\lg` $\lg$
+- `\ln` $\ln$
 - `\sin` $\sin$
 - `\cos` $\cos$
 - `\tan` $\tan$
 - `\sec` $\sec$
 - `\csc` $\csc$
 - `\cot` $\cot$
+- `\sinh` $\sinh$
+- `\cosh` $\cosh$
+- `\tanh` $\tanh$
+- `\coth` $\coth$
+- `\arcsin` $\arcsin$
+- `\arccos` $\arccos$
+- `\arctan` $\arctan$
+- `\arg` $\arg$
+- `\deg` $\deg$
+- `\det` $\det$
+- `\dim` $\dim$
+- `\exp` $\exp$
+- `\gcd` $\gcd$
+- `\hom` $\hom$
+- `\ker` $\ker$
+- `\Pr` $\Pr$
+- `\sup` $\sup$
+- `\inf` $\inf$
+- `\max` $\max$
+- `\min` $\min$
 
 ### Arrows
 
@@ -6460,6 +6115,8 @@ Certainly! Below is a comprehensive list of LaTeX symbols, including Greek lette
 - `]` $]$
 - `\{` $\{$
 - `\}` $\}$
+- `|` $|$
+- `\|` $\|$
 - `\langle` $\langle$
 - `\rangle` $\rangle$
 - `\lvert` $\lvert$
@@ -6489,13 +6146,147 @@ Certainly! Below is a comprehensive list of LaTeX symbols, including Greek lette
 - `\ddot{a}` $\ddot{a}$
 - `\mathring{a}` $\mathring{a}$
 
+### Additional Symbols
+
+- `\cdot` $\cdot$
+- `\cdots` $\cdots$
+- `\vdots` $\vdots$
+- `\ddots` $\ddots$
+- `\dots` $\dots$
+- `\ldots` $\ldots$
+- `\therefore` $\therefore$
+- `\because` $\because$
+- `\angle` $\angle$
+- `\perp` $\perp$
+- `\parallel` $\parallel$
+- `\triangle` $\triangle$
+- `\square` $\square$
+- `\blacksquare` $\blacksquare$
+- `\circ` $\circ$
+- `\bullet` $\bullet$
+- `\diamond` $\diamond$
+- `\star` $\star$
+- `\ast` $\ast$
+- `\oplus` $\oplus$
+- `\otimes` $\otimes$
+- `\odot` $\odot$
+- `\oslash` $\oslash$
+- `\bigcirc` $\bigcirc$
+- `\bigtriangleup` $\bigtriangleup$
+- `\bigtriangledown` $\bigtriangledown$
+- `\dagger` $\dagger$
+- `\ddagger` $\ddagger$
+- `\aleph` $\aleph$
+- `\beth` $\beth$
+- `\gimel` $\gimel$
+- `\daleth` $\daleth$
+
+### Special Characters
+
+- `\#` $\#$
+- `\$` $\$$
+- `\%` $\%$
+- `\&` $\&$
+- `\_` $\_$
+- `\{` $\{$
+- `\}` $\}$
+- `\backslash` $\backslash$
+
 This list covers a wide range of symbols commonly used in LaTeX for mathematical and logical purposes. For more specialized symbols, you may need to consult additional packages or documentation.
+
+## latex underset limits
+
+`list` `ref`
+
+> $\to mistral \space large \space 2$
+
+> latex underset and limits\_ in markdown
+
+In Markdown, you can use LaTeX syntax for mathematical expressions by enclosing them in dollar signs (`$`). To use `\underset` and `\limits` in LaTeX within Markdown, you can do the following:
+
+### Using `\underset`
+
+The `\underset` command is used to place a subscript directly below an expression. Here's an example:
+
+```markdown
+$\underset{i=1}{\overset{n}{\sum}} a_i$
+```
+
+This will render as:
+
+$\underset{i=1}{\overset{n}{\sum}} a_i$
+
+### Using `\limits`
+
+The `\limits` command is used to place the limits of summation or integration directly below the operator. Here's an example:
+
+```markdown
+$\sum\limits_{i=1}^{n} a_i$
+```
+
+This will render as:
+
+$\sum\limits_{i=1}^{n} a_i$
+
+### Combining Both
+
+You can also combine both `\underset` and `\limits` if needed:
+
+```markdown
+$\underset{i=1}{\overset{n}{\sum\limits_{i=1}^{n}}} a_i$
+```
+
+This will render as:
+
+$\underset{i=1}{\overset{n}{\sum\limits_{i=1}^{n}}} a_i$
+
+> $\to mistral \space large \space 2$
+
+> latex underset and limits\_ in markdown
+
+In Markdown, you can use LaTeX syntax for mathematical expressions, including underset and limits, by enclosing the LaTeX code within dollar signs (`$`) for inline math or double dollar signs (`$$`) for display math. Here's how you can use underset and limits:
+
+1. **Underset:**
+
+```markdown
+$$\underset{x\to 0}{\lim} \frac{\sin(x)}{x} = 1$$
+```
+
+$$\underset{x\to 0}{\lim} \frac{\sin(x)}{x} = 1$$
+
+2. **Limits:**
+
+```markdown
+$$\lim_{x\to 0} \frac{\sin(x)}{x} = 1$$
+```
+
+$$\lim_{x\to 0} \frac{\sin(x)}{x} = 1$$
+
+3. **Summation with limits:**
+
+```markdown
+$$\sum_{i=1}^n i = \frac{n(n+1)}{2}$$
+```
+
+$$\sum_{i=1}^n i = \frac{n(n+1)}{2}$$
+
+4. **Integral with limits:**
+
+```markdown
+$$\int_0^\infty e^{-x}\,dx = 1$$
+```
+
+$$\int_0^\infty e^{-x}\,dx = 1$$
+
+Remember that not all Markdown renderers support LaTeX syntax. Some popular ones that do are MathJax-based renderers (like the one used on Math.StackExchange) and KaTeX-based renderers (like the one used on GitHub).
+
+To ensure proper rendering, you might need to include the appropriate JavaScript library (MathJax, KaTeX, etc.) in your HTML or use a Markdown editor/viewer that supports these libraries.
 
 ## latex math expressions
 
 `list` `ref`
 
-> -> mistral large 2
+> $\to mistral \space large \space 2$
 
 > long latex math expressions list
 
@@ -6718,7 +6509,7 @@ These are just a few examples of the many mathematical expressions you can creat
 
 ## why jetbrains
 
-> -> mistral large 2
+> $\to mistral \space large \space 2$
 
 > detailed jetbrains vs vscode
 
@@ -6800,7 +6591,7 @@ Both tools are highly regarded in the developer community, and many developers u
 
 `concept` `ref`
 
-> -> mistral large 2
+> $\to mistral \space large \space 2$
 
 > to elegance
 
@@ -6834,7 +6625,7 @@ To achieve elegance, consider the following suggestions that apply to various as
 
 `concept` `ref`
 
-> -> mistral large 2
+> $\to mistral \space large \space 2$
 
 > sub concepts of wisdom
 
@@ -6874,7 +6665,7 @@ These sub-concepts interconnect and reinforce each other, contributing to the ov
 
 `dev` `guide`
 
-> -> mistral large 2
+> $\to mistral \space large \space 2$
 
 > lodash
 
@@ -6962,7 +6753,7 @@ Lodash is a powerful tool that can greatly simplify and optimize your JavaScript
 
 `dev` `guide`
 
-> -> mistral large 2
+> $\to mistral \space large \space 2$
 
 > p5js
 
@@ -7013,7 +6804,7 @@ This sketch creates a canvas with a blue ellipse that follows the mouse cursor.
 
 `dev` `guide`
 
-> -> mistral large 2
+> $\to mistral \space large \space 2$
 
 > threejs
 
@@ -7113,7 +6904,7 @@ Three.js is a powerful tool for creating interactive 3D experiences on the web. 
 
 `dev` `ref`
 
-> -> mistral large 2
+> $\to mistral \space large \space 2$
 
 > segmentation fault
 
@@ -7194,7 +6985,7 @@ By understanding the common causes and using the appropriate tools, you can effe
 
 ## codeforces polygon
 
-> -> mistral large 2
+> $\to mistral \space large \space 2$
 
 > codeforces polygon
 
@@ -7220,7 +7011,7 @@ Polygon is widely used by competitive programming enthusiasts, contest organizer
 
 ## deconstruct
 
-> -> mistral large 2
+> $\to mistral \space large \space 2$
 
 > deconstruct
 
@@ -7263,7 +7054,7 @@ Sentence: "I love eating ice cream on a hot day."
 
 ## deconstructionism
 
-> -> mistral large 2
+> $\to mistral \space large \space 2$
 
 > deconstructionism
 
@@ -7287,7 +7078,7 @@ Deconstructionism has been highly influential in many fields, including literary
 
 `concept` `ref`
 
-> -> mistral large 2
+> $\to mistral \space large \space 2$
 
 > sub concepts of deconstruct
 
@@ -7317,7 +7108,7 @@ Deconstruction, a term often associated with French philosopher Jacques Derrida,
 
 `concept` `ref`
 
-> -> mistral large 2
+> $\to mistral \space large \space 2$
 
 > sub concepts of purity
 
@@ -7372,7 +7163,7 @@ Each of these sub-concepts can be explored in depth, and their meanings can vary
 
 `concept` `ref`
 
-> -> mistral large 2
+> $\to mistral \space large \space 2$
 
 > sub concepts of unworldly purity
 
@@ -7414,7 +7205,7 @@ Unworldly purity is a broad concept that can be broken down into several sub-con
 
 `concept` `design` `ref`
 
-> -> mistral large 2
+> $\to mistral \space large \space 2$
 
 > material design 2 vs 3
 
@@ -7492,7 +7283,7 @@ Material Design 3 represents an evolution of the design system, with a focus on 
 
 `dev` `ref`
 
-> -> mistral large 2
+> $\to mistral \space large \space 2$
 
 > why "#define" method is not mentioned in both "cpp primer" and "cpp primer plus"
 
@@ -7625,7 +7416,7 @@ This approach can make the code slightly more concise and easier to read, while 
 
 `concept` `ref`
 
-> -> mistral large 2
+> $\to mistral \space large \space 2$
 
 > sub concepts of solitude
 
@@ -7661,7 +7452,7 @@ Each of these sub-concepts contributes to a broader understanding of solitude an
 
 `concept` `ref`
 
-> -> mistral large 2
+> $\to mistral \space large \space 2$
 
 > to achieve solitude
 
