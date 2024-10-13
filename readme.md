@@ -81,7 +81,6 @@
   - the legend of 1900 (1998)
   - les misérables (2012)
   - call (2020)
-  - .the big bang theory (2007)
   - .evangelion (1995)
   - .5 centimeters per second (2007)
   - .lucky star (2007)
@@ -90,8 +89,9 @@
   - .tonikawa: over the moon for you (2020)
   - .my youth romantic comedy is wrong, as i expected (2011)
   - .your lie in april (2014)
-  - .bang dream! it's mygo!!!!! (2023)
+  - .the big bang theory (2007)
   - .frieren: beyond journey's end (2023)
+  - .bang dream! it's mygo!!!!! (2023)
   - .bocchi the rock (2022)
   - .oshi no ko (2023)
   - .bakemonogatari (2009)
@@ -255,7 +255,7 @@
   - ahdark
   - akt animation
   - andrew yang
-  - antfu 100 days
+  - anthony fu antfu 
   - antonychenn genshin in chinese
   - barack obama
   - blue striped rabbit
@@ -293,6 +293,7 @@
   - jin yudong krahets
   - jjying iconmoon
   - justyyuk doctor lai
+  - kevin deng
   - kirikaze chiyuki chyk
   - kiun b
   - kkksc03

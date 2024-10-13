@@ -6104,3 +6104,15 @@ bailu is fully charged at battle start
 after lots of turns still got defeated.
 
 dont know why.
+
+21:46
+
+`game` `weather` `ref`
+
+swimming sr wiki.
+
+sub stats of relics are nothing.
+
+only have 1/10 effect of main relics
+
+just focus on main stats. thats it.
