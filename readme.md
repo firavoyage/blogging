@@ -33,20 +33,21 @@
   - egg puffs
   - tea eggs
   - huamei & chenpi
-  - chocolate popsicle
-  - johann sebastian bach
+- - johann sebastian bach
   - frédéric chopin
-  - reading & gardening
-  - life size waifu pillow & origami
+  - calendar & wall clock
+  - reading & waifu pillow
+  - gardening & origami
   - second person omniscient narration
   - dissociation & divine perspective
+  - dark style & night light & low brightness
   - math & algorithms
   - functional programming & vanilla js
-  - dark style & night light & low brightness
 - - hotel california (eagles)
   - wind of change (scorpions)
   - scarborough fair (sarah brightman)
   - the sound of silence (simon & garfunkel)
+  - lost for words (pink floyd)
   - a day in the life (the beatles)
   - magnet (minato aqua & inuyama tamaki)
   - -tooi sora he- (manack & bruno wen li)
@@ -240,7 +241,6 @@
   - fuxuan
   - gallagher
   - herta
-  - inuyama tamaki
   - kaedehara kazuha
   - kagura mea
   - kasugano sora
@@ -274,12 +274,14 @@
   - di xuchen
   - diviner in spiritual wind
   - diygod
+  - doris yee yeedor
   - edmund d zhang
   - fabrice bellard
   - fireship js framework
   - geek bay geekerwan
   - gu sen matrix67
   - gui minghao
+  - hakim el hattab
   - hu qianling
   - huang zhizhong
   - interpreter gavin
@@ -291,7 +293,6 @@
   - jin yudong krahets
   - jjying iconmoon
   - justyyuk doctor lai
-  - jysperm
   - kirikaze chiyuki chyk
   - kiun b
   - kkksc03
@@ -332,6 +333,7 @@
   - tim qian
   - timochan
   - tourist codeforces
+  - trent walton
   - unfettered idle man
   - upright flies
   - wanderer brawl stars
@@ -344,6 +346,7 @@
   - yunling sapphire
   - zhang chuanzhi
   - zhang xizhe
+  - zhao jinjiang jiongks
   - zhou ling
   - zhou xuanyi
 - - dejavu serif
@@ -461,17 +464,17 @@
   - the answer is predictive of your behavior
   - better to get your dopamine from improving your ideas than from having them validated
   - it's ok to get yours from "making things happen"
-- a ship in harbor is safe
-  - but that is not what ships are built for
-- i do not know what i may appear to the world
-  - but to myself i seem to have been only like a boy playing on the sea-shore
-  - and diverting myself in now and then finding a smoother pebble or a prettier shell than ordinary
-  - whilst the great ocean of truth lay all undiscovered before me
 - knowledge isn't free
   - you have to pay attention
 - tell me, and i will forget
   - show me, and i may remember
   - involve me, and i will understand
+- i do not know what i may appear to the world
+  - but to myself i seem to have been only like a boy playing on the sea-shore
+  - and diverting myself in now and then finding a smoother pebble or a prettier shell than ordinary
+  - whilst the great ocean of truth lay all undiscovered before me
+- a ship in harbor is safe
+  - but that is not what ships are built for
 - if you can make a decision with analysis, you should do so
   - but it turns out in life that your most important decisions are always made with instinct and intuition
 - if i make, like, three good decisions a day, that's enough
@@ -502,7 +505,6 @@
   - if we say we have fellowship with him yet walk in the darkness, we lie and do not practice the truth.
   - but if we walk in the light as he is in the light, we have fellowship with one another, and the blood of jesus his son cleanses us from all sin.
 - memento mori.
-  - i came, i saw, i conquered
   - just let time be precious
 - 遂迷不复得路
 - 念念不忘必有回响
@@ -511,19 +513,19 @@
 - 以有涯随无涯殆已
 - 为者败之执者失之
 - 锦瑟无端五十弦
+- 欲买桂花同载酒
 - 壁上小虫忽跃落衿袖间
 - 塞翁失马焉知非福
 - 惟江上之清风
 - 鸢飞戾天者望峰息心
 - 寓形宇内复几时
 - 相濡以沫不如相忘于江湖
+- 临渊羡鱼退而结网
 - 回首向来萧瑟处
-- 欲买桂花同载酒
 - 当时只道是寻常
 - 江畔何人初见月
 - 年年岁岁花相似
 - 花开堪折直须折
-- 去年今日此门中
 - 光阴者百代之过客也
 - 以神遇而不以目视
 - 以我观物故物皆着我之色彩

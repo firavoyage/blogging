@@ -5778,7 +5778,7 @@ sleep.
 
 01:27
 
-swimming further 
+swimming further
 
 sleep at the end of the day.
 
@@ -5882,7 +5882,7 @@ f:
 
 the guy:
 
-who teaches you *chemistry*?
+who teaches you _chemistry_?
 
 f:
 
@@ -5910,9 +5910,9 @@ just be in regular mood.
 
 21:33
 
-2024.10.10 *nation day*!
+2024.10.10 _nation day_!
 
-*113rd aniversary.*
+_113rd aniversary._
 
 23:59
 
@@ -5926,7 +5926,7 @@ swimming in v2ex and hacker space.
 
 swimming in berryberry.
 
-asking mistral about *solitude*.
+asking mistral about _solitude_.
 
 sleep.
 
@@ -5942,7 +5942,7 @@ after school...
 
 妈的填空题卡了几分钟浪费时间没证出来乱选了.
 
-输了,全输了!后面六行字能证完的,白给6分.
+输了,全输了!后面六行字能证完的,白给 6 分.
 
 当然只是一个好定理,算不上观察.
 
@@ -5956,7 +5956,7 @@ $$QP \{a_n\} \\ a_7 \cdot a_{4040}>1 \\ \prod\limits_{i=1}^{n}{a_i}>1 \\ {n}_{mi
 
 21:44
 
-蛙趣,写了几个字在timeln,问了几个mistral,就半小时了...
+蛙趣,写了几个字在 timeln,问了几个 mistral,就半小时了...
 
 作罢.
 
@@ -5981,11 +5981,21 @@ returned home.
 
 周凌来家里闲聊.
 
-家离学校几步路.不是f邀请的.
+家离学校几步路.不是 f 邀请的.
 
 周凌自己有儿子,上大学.平凡世俗教师.
 
 下周督导要来学校,的说.
+
+"hotel california" "magnet" "..." (mindlessly)
+
+"livid on fyfy.fm #1" (mindlessly)
+
+"sr autobattle"
+
+周凌:
+
+我儿子也喜欢挂游戏,他高中时候做作业,电脑放很远,刚好能看到电脑屏幕.
 
 琐碎的信息.
 
@@ -5997,7 +6007,7 @@ returned home.
   - 都有大量无用信息.比如不用符号语言.
   - 在讲演中加入无用图片.
   - 真正有价值的讲义,就是笔记.
-  - 并不是以段落为形式的,而是行,或者markdown ul.
+  - 并不是以段落为形式的,而是行,或者 markdown ul.
   - 或者说不使用中文...
   - 最后的逐字稿也不过是两三页纸.
 - 一种信仰.
@@ -6008,7 +6018,7 @@ returned home.
     - 初中时候,传哥如是.(suki)
   - 文科除外.记忆大概与课堂无关.有些课也可以记笔记.
 - 归因
-  - 一节课有40分钟哦,老师又准备了多少内容呢.
+  - 一节课有 40 分钟哦,老师又准备了多少内容呢.
   - 学生愿意学习吗,为什么来这里,不去四校八大?
   - 老师时间有限,其实很愿意引用内容,比如截图,放视频.
     - 而不是整理笔记,像个学生那样.
@@ -6021,3 +6031,76 @@ returned home.
 - intuitive cpp
 - pure math
 
+## 20241013
+
+17:46
+
+plan
+
+- rewatch yosuga no sora
+- categorize yinming
+- read react learn docs
+- play sr
+
+playing sr...
+
+divergent universe ordinary v2...
+
+on occurence and met swarm and chose battling
+
+team:
+
+- fuxuan
+- trailblazer (preservation)
+- herta
+- drratio
+
+all 1% hp due to pineapple
+
+wtf
+
+so many rounds...
+
+and berserked lots of times...
+
+although disciplinary flicker equipped.
+
+finally get killed.
+
+... finallize? depressed.
+
+oh! i can change teamup during divergent universe!
+
+changed to
+
+- fuxuan
+- trailblazer (preservation)
+- bailu
+- sparkle
+
+even with
+
+- disciplinary flicker
+
+and
+
+- mapped all lightcones relics ...
+
+wow impressive. now all full hp.
+
+ok after a few turns the big swarm still in stage 1 and 90%+ hp ...
+
+sparkle is useless and preservations and abundances are too much
+
+changed again
+
+- fuxuan
+- herta
+- bailu
+- dr ratio
+
+bailu is fully charged at battle start
+
+after lots of turns still got defeated.
+
+dont know why.

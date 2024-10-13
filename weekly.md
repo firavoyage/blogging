@@ -41,7 +41,6 @@
 - read ruanyf weekly
 - classify ruanyf into tags
 - make reflections markdown
-- categorize yinming 
 - listen to podcasts
 
 > _school_
