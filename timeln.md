@@ -6131,3 +6131,53 @@ rewatching yosuga no sora
   - 10
   - 11
   - 12
+
+## 20241014
+
+01:27
+
+`game` `weather` `dev`
+
+playing sr divergent universe.
+
+on plane 2 boss. 
+
+boss:
+
+a girl that can turn hp grey and put aoe debuff 
+
+paired with two mecha that can heal itself after defeated
+
+team:
+
+- herta
+- fuxuan
+- herta
+- sparkle
+
+defeated after a few berserk effect applied
+
+changed team.
+
+- herta
+- fuxuan
+- herta
+- misha
+
+finally defeated the boss.
+
+well, thats challenging.
+
+no more auto battle.
+
+sleep?
+
+01:31
+
+ubuntu bug! touchpad err.
+
+cant move pointer. only double finger acts the same.
+
+not the first time happening.
+
+a restart can fix.

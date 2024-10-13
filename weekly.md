@@ -11,7 +11,18 @@
 - _make tools elegant_
 - _make knowledge pure_
 
-## 20241012
+## 20241015
+
+> _foresight_
+
+- read react learn docs
+- write voyagejs
+- write pre app
+- design intuitive cpp
+- design pure math
+- watch 5 centimeters per second
+- listen to podcasts
+- sync phone
 
 > _everyday_
 
@@ -40,6 +51,57 @@
 - read ruanyf weekly
 - classify ruanyf into tags
 - make reflections markdown
+- listen to podcasts
+
+> _school_
+
+- write english papers translation
+- write math challenger
+- read one hundred years of solitude
+
+> _after school_
+
+- memorize tem 8 vocabulary
+- write physics challenger
+- write chemistry challenger
+
+> _meanwhile_
+
+- sync phone
+- eat berryberry
+- watch simplelive
+
+## 20241012
+
+> _everyday_
+
+- visit digital homes (al sr)
+
+> _weekend endeavour_
+
+- read react learn docs
+- think react in vanilla js
+- write voyagejs
+- think ant design in sr
+- write pre app
+- design intuitive cpp
+- design pure math
+
+> _weekend diversion_
+
+- play sr
+- watch 5 centimeters per second
+- watch evangelion
+- rewatch yosuga no sora
+- play senrenbanka
+
+> _weekend enlightenment_
+
+- learn origami
+- read ruanyf weekly
+- classify ruanyf into tags
+- make reflections markdown
+- categorize yinming 
 - listen to podcasts
 
 > _school_
