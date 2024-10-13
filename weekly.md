@@ -32,7 +32,6 @@
 - play sr
 - watch 5 centimeters per second
 - watch evangelion
-- rewatch yosuga no sora
 - play senrenbanka
 
 > _weekend enlightenment_

@@ -6116,3 +6116,18 @@ sub stats of relics are nothing.
 only have 1/10 effect of main relics
 
 just focus on main stats. thats it.
+
+23:06
+
+`weather` `bangumi`
+
+rewatching yosuga no sora
+
+- prev
+  - 1
+  - 2
+  - 7
+- next
+  - 10
+  - 11
+  - 12
