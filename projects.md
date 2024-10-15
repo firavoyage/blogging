@@ -396,89 +396,98 @@
 
 ### `pure`
 
-> my desired math courses "纯度"
+> one's desired math courses "纯度"
 
 > -> /pure
 
 - features
-  - text based not voice based
-  - lines not paragraphs
-  - symbol language not chinese words
-  - latex based not hand written
-  - on paper not on screen
-  - for fun not for exam
+  - text based instead of voice based
+  - poetry lines instead of intricate paragraphs
+  - symbol language instead of natural language
+  - on paper instead of on screen
+  - wiki instead of textbooks
+  - cards instead of theories
+  - cheetsheets instead of tables
+  - for fun instead of for rating
 - perspectives
   - dark mode
-  - blockquotes low opacity
-  - no ol only ul
-- concepts
-  - dailyab
-  - 40min high school math
-  - unit cheetsheet
+  - low opacity blockquote
+  - no ordered list
 - solutions
   - knowledge from textbooks
-  - tricks from workbooks
-  - observations from divine source
+  - trick from workbooks
+  - observation from divine source
 - courses
-  - definitions theories and conclusions
   - learn on math challenger
   - practice on math guide
+  - ref on math textbook
 - wonders
-  - childhood retro and my desired math course
-  - the libre high school math textbook
-  - random pick a student from mihoyo or blue archive characters
-  - high school g1t1 math 40min definitions theories tricks and uee paper
-  - theories usage as card playing
+  - libre math theorem wiki
+  - hs math foresight in one hour
+  - childhood retro: hs math made simple stupid
+  - teaching hs math in mihoyo or blue archive
+  - daily problems a & b
 - various themes
   - by voyage
 - inspired by
   - yunling sapphire
   - mr yu teaching physics
   - math contest fei bro
-  - one math channel
-  - zhao lixian channel
-  - math bu channel
+  - one math
+  - zhao lixian
+  - math bu
 
 ### `intuitive`
 
-> showcase the power of web "scratch in js"
+> beautifully advance "awesome showcase"
 
 > /intuitive
 
 - learn
-  - javascript for web dev
-  - python for oi
-  - cpp for oi
-- cpp
-  - basic syntax and sugars
-  - macros like rd pr prn each
-  - algorithms and templates
-  - leetcode weekly contest
-  - codeforces editorial for children
-- course
-  - math theory
-  - template problem
-- create
-  - phone app
-  - wide screen app
-  - voyagejs
-  - reactjs
-  - nihilitycss
-  - threejs
-  - p5js
+  - javascript & game engine
+  - cpp & macro sugars
+  - python & libraries
+  - algorithm & problems
+  - codeforces & editorial
+- macros
+  - rd
+  - pr
+  - prn
+  - each
+- metaphors
+  - void / 幻灭
+  - int / 筹算
+  - bool / 取舍
+  - string / 言说
+  - if / 命运
+  - for / 轮回
+  - break / 解离
+  - continue / 超度
+  - while / 劫渡
+  - function / 规律
+  - struct / 洞察
+  - array / 秩序
+  - set / 存在
+  - vector / 联结
+  - map / 众生
+  - pointer / 刻舟
+  - reference / 假面
+- solutions
+  - knowledge from math proofs
+  - trick from template problems
+  - observation from divine source
 - game ideas
   - google doodles
   - mihoyo tiny games
   - azurlane tiny games
   - itch tiny games
   - poki tiny games
-  - imo 2010 problem 5 grow and swap
+  - adventurine's coins
+    - imo 2010 p5
     - https://matrix67.itch.io/almost-infinite
-    - https://artofproblemsolving.com/wiki/index.php/2010_IMO_Problems/Problem_5
-  - cr ideas
-  - genshin dungeon
+  - cr ideas that supercell rejected
   - angry birds classic
-  - fly me 2 the moon endless
+  - fly me 2 the moon
 - local oj
   - problem readme
   - input files
@@ -487,6 +496,7 @@
 - various themes
   - by voyage
 - inspired by
+  - wylang guide
   - itheima
   - shangguigu
   - csdiy
@@ -508,14 +518,6 @@
   - cacher
   - lodash
   - github gist
-
-### `nihility`
-
-> more radical tailwind
-
-- inspired by
-  - tailwindcss
-  - voyagejs
 
 ### `anotherscript`
 
@@ -696,25 +698,43 @@ for(i 1 10 j 10 100){A} //for(let i=1;i<=10;i++){for(let j=10;i<=100;j++){A}}
 
 ### `voyagejs`
 
-> web framework can be simple
+> simple stupid web framework
 
 > -> /voyagejs
 
 - features
-  - no pre compiler or custom file type
+  - various themes
+  - straight forward fp
+  - no pre compiler
   - no optionated prefix
-  - reactive not declarative
   - component based
-  - minimal change
-- methods
-  - data listener
-  - json to html
+- learn
+  - show
+  - handle
+  - control
+  - escape
+- ref
+  - __storage
+  - __states
+  - __listeners
+  - __removal
+  - __components
+  - _select
+  - _create
+  - _remove
+  - use
+  - run
+  - store
+  - keep
+  - when
+  - self
 - inspired by
   - react
+  - vue
+  - svelte
   - alpine
   - mithril
-  - svelte
-  - vanilla jquery
+  - vanilla js & jquery
 
 ### `fresh`
 

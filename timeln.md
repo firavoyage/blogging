@@ -6134,6 +6134,19 @@ rewatching yosuga no sora
 
 ## 20241014
 
+00:xx
+
+rewatching yosuga no sora...
+
+- 1
+- 2
+- 7
+- 10
+- 11
+- 12
+
+done.
+
 01:27
 
 `game` `weather` `dev`
@@ -6181,3 +6194,86 @@ cant move pointer. only double finger acts the same.
 not the first time happening.
 
 a restart can fix.
+
+02:19
+
+`game` `weather`
+
+playing sr...
+
+divergent universe ordinary exploration protocol v2
+
+final boss: the swarm
+
+easy win.
+
+team:
+
+- herta
+- fuxuan
+- dr ratio
+- misha
+
+the swarm weakness types:
+
+- imaginary
+- ice
+- quantum
+
+well, my turn and my turn and my turn...
+
+ultimate... brain in vat... equation turn...
+
+lucky.
+
+02:26
+
+sleep.
+
+21:54
+
+swimming in wiki.
+
+`game`
+
+sr average players can obtain 10 5star characters every year.
+
+great.
+
+topaz dropped at 80 shots.
+
+simple.
+
+## 20241015
+
+00:xx
+
+`game` `weather` `quotes`
+
+"herta space station is where all knowledge converge"
+
+"she's so pretty!"
+
+"doctor, you are... huge!"
+
+01:13
+
+`game`
+
+numby & topaz are so great.
+
+wandering on map...
+
+auto finding treasures...
+
+cool.
+
+sleep?
+
+01:40
+
+drifting for treasures and trotters...
+
+so many...
+
+sleep.

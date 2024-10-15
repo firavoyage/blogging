@@ -40,6 +40,7 @@
   - gardening & origami
   - second person omniscient narration
   - dissociation & divine perspective
+  - deceased & departed
   - dark style & night light & low brightness
   - math & algorithms
   - functional programming & vanilla js
@@ -233,26 +234,33 @@
   - foreverblog
 - - acheron
   - adventurine
+  - asta & herta & screwllum
+  - bessie & farmer john
   - chtholly
   - clara
-  - farmer john & bessie
   - forever naive taffy
-  - fuxuan
+  - fu xuan
   - gallagher
-  - herta
   - kaedehara kazuha
   - kagura mea
   - kasugano sora
-  - keqing
+  - ke qing
   - minato aqua
+  - misha
   - nahida
   - necora nyaru
+  - numby & topaz
+  - xing qiu
   - orient snowy lotus
+  - rubert the emperor
+  - seele & bronya
+  - silver wolf & kafka
   - sparkle
 - - adhesion tek
   - ahbei douban
   - ahdark
   - akt animation
+  - yuler
   - andrew yang
   - anthony fu antfu 
   - antonychenn genshin in chinese
@@ -297,7 +305,7 @@
   - kiun b
   - kkksc03
   - liu yuan
-  - livid
+  - livid v2ex
   - localhost-8080
   - longbow flintlock
   - lu jianhong
@@ -340,6 +348,7 @@
   - wang xiaofeng
   - wang zhaohai
   - wes bos
+  - xia chuyun
   - yan xuecan acwing
   - yang yang
   - yin ming kalasoo
@@ -402,10 +411,12 @@
   - fcitx 5.1.7
   - v2raya 2.2.5.1
   - wine 9.0
+  - retroarch 1.19.1
   - zsh 5.9
   - antennapod 3.1.2
   - bilimiao 2.3.8.3
   - blender 4.2.1
+  - bottles 51.14
   - bubeidanci 5.8.8
   - eudic 9.3.1
   - fcitx5-android 0.0.7
@@ -414,6 +425,7 @@
   - gimp 2.10.38
   - gnome-baobab 46.0
   - gnome-blanket 0.7.0
+  - gnome-cartridges 2.10.1
   - gnome-characters 46.0
   - gnome-deja-dup 45.2
   - gnome-dialect 2.4.2
@@ -512,9 +524,11 @@
 - 命里有时终须有
 - 以有涯随无涯殆已
 - 为者败之执者失之
+- 木已成舟
 - 锦瑟无端五十弦
 - 欲买桂花同载酒
 - 壁上小虫忽跃落衿袖间
+- 池鱼思故渊
 - 塞翁失马焉知非福
 - 惟江上之清风
 - 鸢飞戾天者望峰息心

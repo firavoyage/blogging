@@ -20,9 +20,10 @@
 - write pre app
 - design intuitive cpp
 - design pure math
-- watch 5 centimeters per second
+- watch bangumis
 - listen to podcasts
 - sync phone
+- learn math & english
 
 > _everyday_
 

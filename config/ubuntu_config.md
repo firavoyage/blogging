@@ -188,9 +188,7 @@ resultactive=yes
 ## softwares & updates
 
 - config source
-
   - -> `/etc/apt/sources.list.d/`
-
 - disable `software updater popup`
 
 ```
@@ -200,6 +198,12 @@ sudo sed --in-place 's/NoDisplay=true/NoDisplay=false/g' /etc/xdg/autostart/upda
 - disable `auto update`
   - -> `softwares & updates > other softwares`
   - (all) `off`
+
+## flatpak
+
+- config update
+  - -> `preferences`
+  - software updates `manual`
 
 ## gnome tweaks
 
