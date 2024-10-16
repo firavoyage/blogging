@@ -7543,3 +7543,99 @@ Here are some grounding techniques that might help when feeling dissociated:
 - **5-4-3-2-1 technique**: Identify 5 things you can see, 4 things you can touch, 3 things you can hear, 2 things you can smell, and 1 thing you can taste.
 - **Deep breathing**: Focus on slow, steady breaths.
 - **Physical activity**: Go for a walk, do some light exercises, or stretch.
+
+## cpp boost
+
+`dev` `guide`
+
+> $\to mistral \space large \space 2$
+
+> cpp boost
+
+Boost is a collection of high-quality, peer-reviewed, open-source libraries for C++. It provides a wide range of functionalities, including smart pointers, threading, regular expressions, and more. Boost libraries are designed to work well with the C++ Standard Library and are often a precursor to features that eventually make it into the C++ Standard.
+
+Here are some key features and commonly used libraries in Boost:
+
+### Key Features
+
+- **Portability**: Boost libraries are designed to be portable across different platforms and compilers.
+- **Quality**: All Boost libraries undergo a rigorous peer-review process.
+- **Extensibility**: Boost libraries are designed to be easily extended and customized.
+- **Documentation**: Comprehensive documentation is available for each library.
+
+### Commonly Used Libraries
+
+1. **Boost.SmartPointer**: Provides smart pointer classes like `shared_ptr`, `unique_ptr`, and `weak_ptr` (some of which are now part of the C++ Standard Library).
+
+2. **Boost.Thread**: Offers threading support, including thread creation, synchronization primitives, and thread-safe data structures.
+
+3. **Boost.Asio**: A cross-platform C++ library for network and low-level I/O programming.
+
+4. **Boost.Filesystem**: Provides portable filesystem operations.
+
+5. **Boost.Regex**: Regular expression library for pattern matching.
+
+6. **Boost.DateTime**: Date and time manipulation library.
+
+7. **Boost.Serialization**: Allows serialization of C++ data structures to and from various formats.
+
+8. **Boost.Test**: A framework for writing and running tests.
+
+### Example Usage
+
+Here's a simple example demonstrating the use of Boost.SmartPointer and Boost.Thread:
+
+```cpp
+#include <iostream>
+#include <boost/shared_ptr.hpp>
+#include <boost/thread.hpp>
+
+void threadFunction() {
+    for (int i = 0; i < 5; ++i) {
+        std::cout << "Thread: " << i << std::endl;
+        boost::this_thread::sleep(boost::posix_time::seconds(1));
+    }
+}
+
+int main() {
+    // Using Boost.SmartPointer
+    boost::shared_ptr<int> sp(new int(42));
+    std::cout << "Smart Pointer Value: " << *sp << std::endl;
+
+    // Using Boost.Thread
+    boost::thread t(threadFunction);
+    t.join();
+
+    return 0;
+}
+```
+
+### Installation
+
+Boost can be installed via package managers or by downloading and building from source. Here are some common methods:
+
+- **Linux (Ubuntu)**:
+
+  ```sh
+  sudo apt-get install libboost-all-dev
+  ```
+
+- **Windows (vcpkg)**:
+
+  ```sh
+  vcpkg install boost
+  ```
+
+- **From Source**:
+  ```sh
+  wget https://boostorg.jfrog.io/artifactory/main/release/1.76.0/source/boost_1_76_0.tar.gz
+  tar -xzf boost_1_76_0.tar.gz
+  cd boost_1_76_0
+  ./bootstrap.sh
+  ./b2
+  sudo ./b2 install
+  ```
+
+### Conclusion
+
+Boost is a powerful set of libraries that can greatly enhance your C++ development experience. Whether you need advanced data structures, networking capabilities, or robust testing frameworks, Boost likely has a library that can help.

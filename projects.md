@@ -401,14 +401,13 @@
 > -> /pure
 
 - features
-  - text based instead of voice based
-  - poetry lines instead of intricate paragraphs
-  - symbol language instead of natural language
-  - on paper instead of on screen
-  - wiki instead of textbooks
-  - cards instead of theories
-  - cheetsheets instead of tables
-  - for fun instead of for rating
+  - wiki based
+  - symbol language
+  - courses printable
+  - tricks as cards 
+  - paragraphs as lines
+  - theorems as macros
+  - not for rating
 - perspectives
   - dark mode
   - low opacity blockquote
@@ -704,37 +703,45 @@ for(i 1 10 j 10 100){A} //for(let i=1;i<=10;i++){for(let j=10;i<=100;j++){A}}
 
 - features
   - various themes
-  - straight forward fp
-  - no pre compiler
-  - no optionated prefix
+  - no pre compiler or optionated prefix
   - component based
+  - functional programming
+  - polymorphic
 - learn
   - show
   - handle
   - control
   - escape
 - ref
+  - @memo
+  - @alias
+  - $mark
+  - $ignore
   - __storage
   - __states
   - __listeners
+  - __memo
   - __removal
   - __components
+  - _generate
   - _select
-  - _create
+  - _compile
   - _remove
-  - use
+  - def
   - run
   - store
   - keep
+  - ref
   - when
   - self
 - inspired by
   - react
-  - vue
-  - svelte
   - alpine
   - mithril
-  - vanilla js & jquery
+  - svelte
+  - vue
+  - jquery
+  - vanilla js
 
 ### `fresh`
 

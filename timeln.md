@@ -6277,3 +6277,38 @@ drifting for treasures and trotters...
 so many...
 
 sleep.
+
+23:41
+
+reading react learn docs..
+
+`dev` `view`
+
+i know what happened using jquery
+
+vice versa is react
+
+## 20241016
+
+00:14
+
+`dev`
+
+reading react learn docs...
+
+end. all finished. removed from weekly
+
+02:15
+
+`game`
+
+playing sr...
+
+herta space station & jalio vi.
+
+all treasures & trotters & special rewards
+
+obtained.
+
+sleep.
+

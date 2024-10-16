@@ -197,7 +197,7 @@ sudo sed --in-place 's/NoDisplay=true/NoDisplay=false/g' /etc/xdg/autostart/upda
 
 - disable `auto update`
   - -> `softwares & updates > other softwares`
-  - (all) `off`
+  - `*` `off`
 
 ## flatpak
 

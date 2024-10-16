@@ -30,6 +30,7 @@
   - cocacola zero
   - boba tea
   - crisps classic
+  - dark chocolate
   - egg puffs
   - tea eggs
   - huamei & chenpi
@@ -144,18 +145,18 @@
   - c++ primer plus sixth edition (stephen prata)
   - react learn docs (react commutity)
   - refactoring ui (adam wathan & steve schoger)
-  - hello algo (krahets)
   - clean code (robert c. martin)
+  - hello algo (krahets)
+  - competitive programmers' handbook (antti laaksonen)
+  - oi wiki (oi wiki community)
+  - cut the knot: probability riddles (alexander bogomolny)
+  - mathematics, no 2 secondary school attached to east china normal university (math group)
+  - physics, no 2 secondary school attached to east china normal university (physics group)
   - road ahead (ruanyf)
   - the water level of ideology (liu yu)
   - twelve letters for the young (zhu guangqian)
   - letter to da zhuang (miao wei)
   - liu qing's lectures on modern western thought (liu qing)
-  - cut the knot: probability riddles (alexander bogomolny)
-  - oi wiki (oi wiki community)
-  - mathematics, no 2 secondary school attached to east china normal university (math group)
-  - physics, no 2 secondary school attached to east china normal university (physics group)
-  - chemistry, no 2 secondary school attached to east china normal university (chemistry group)
   - a long gaze (long yingtai)
   - to live (yu hua)
   - brothers (yu hua)
@@ -224,17 +225,17 @@
   - bangumi.tv anime chart
   - imdb movie top 250
   - steam top 250
+  - itch.io
   - unsplash nature
   - pixiv monthly
   - dribbble popular
-  - itch matrix67
   - github awesome
   - product hunt all time
   - travellings
   - foreverblog
 - - acheron
   - adventurine
-  - asta & herta & screwllum
+  - asta & herta
   - bessie & farmer john
   - chtholly
   - clara
@@ -250,17 +251,17 @@
   - nahida
   - necora nyaru
   - numby & topaz
-  - xing qiu
   - orient snowy lotus
   - rubert the emperor
+  - screwllum
   - seele & bronya
   - silver wolf & kafka
   - sparkle
+  - xing qiu
 - - adhesion tek
   - ahbei douban
   - ahdark
   - akt animation
-  - yuler
   - andrew yang
   - anthony fu antfu 
   - antonychenn genshin in chinese
@@ -304,6 +305,7 @@
   - kirikaze chiyuki chyk
   - kiun b
   - kkksc03
+  - liu chenyu
   - liu yuan
   - livid v2ex
   - localhost-8080
@@ -311,6 +313,7 @@
   - lu jianhong
   - lv fuyuan
   - ma dugong bedtime news
+  - ma zhengyao
   - magicalflower
   - math contest fei bro
   - memoir of prosperity
@@ -352,12 +355,15 @@
   - yan xuecan acwing
   - yang yang
   - yin ming kalasoo
+  - yue fukang
+  - yuluer
   - yunling sapphire
   - zhang chuanzhi
   - zhang xizhe
   - zhao jinjiang jiongks
   - zhou ling
   - zhou xuanyi
+  - zhou zhiyuan
 - - dejavu serif
   - fira code
   - fira sans
@@ -408,11 +414,9 @@
   - terser 5.19.2
   - flatpak 1.14.10
   - snap 2.63.1
+  - apt 2.7.14
   - fcitx 5.1.7
   - v2raya 2.2.5.1
-  - wine 9.0
-  - retroarch 1.19.1
-  - zsh 5.9
   - antennapod 3.1.2
   - bilimiao 2.3.8.3
   - blender 4.2.1
@@ -440,6 +444,7 @@
   - inkscape 1.3.1
   - jan 0.5.2
   - k9-mail 6.801
+  - katomic 24.08.2
   - kdenlive 23.08.4
   - legado 3.23.112523
   - libreoffice 24.2.5.2
@@ -448,12 +453,16 @@
   - obs-studio 30.0.2
   - oneplus-weather 1.8.5
   - onscripter-yuri 0.7.4
+  - peertube 6.3.2
   - qbitorrent-arnatious 4.3.9
+  - retroarch 1.19.1
   - simplelive 1.7.3
   - snapseed 2.19.1
   - telegram-desktop 4.16.8
   - thunderbird 115.11.0
   - transmission 4.0.5
+  - wine 9.0
+  - zsh 5.9
   - virtualbox 7.0.16
   - vlc 3.0.20
   - wolfram-alpha 1.4.25
@@ -504,8 +513,6 @@
   - our brains have to work to translate the black squiggles on the page into words and then interpret the meaning and intent of those words
   - when a character is described as tall with brown hair, a reader creates her own picture
   - tv takes all that good imagination away
-- character is destiny
-  - life is a long plank game
 - two drifters off to see the world
   - there's such a lot of world to see...
   - for every lonely and wandering soul
@@ -517,11 +524,14 @@
   - if we say we have fellowship with him yet walk in the darkness, we lie and do not practice the truth.
   - but if we walk in the light as he is in the light, we have fellowship with one another, and the blood of jesus his son cleanses us from all sin.
 - memento mori.
+  - character is destiny
   - just let time be precious
+  - what's the difference between truth and reality
 - 遂迷不复得路
 - 念念不忘必有回响
-- 有意栽花花不发
+- 不如相忘于江湖
 - 命里有时终须有
+- 惟江上之清风
 - 以有涯随无涯殆已
 - 为者败之执者失之
 - 木已成舟
@@ -530,17 +540,16 @@
 - 壁上小虫忽跃落衿袖间
 - 池鱼思故渊
 - 塞翁失马焉知非福
-- 惟江上之清风
 - 鸢飞戾天者望峰息心
 - 寓形宇内复几时
-- 相濡以沫不如相忘于江湖
+- 无心插柳柳成荫
 - 临渊羡鱼退而结网
 - 回首向来萧瑟处
 - 当时只道是寻常
 - 江畔何人初见月
 - 年年岁岁花相似
 - 花开堪折直须折
-- 光阴者百代之过客也
+- 光阴者百代之过客
 - 以神遇而不以目视
 - 以我观物故物皆着我之色彩
 - 民为贵社稷次之
@@ -549,16 +558,16 @@
 ## erudition
 
 - people
-  - `ruanyf` everything of the digital time
-  - `reflections` memories of the age
-  - `livid` letter to confused youth
-  - `florio` guide to programming ride
-  - `nat` belief of a tech entrepreneur
+  - `livid` letter to solitary youth
+  - `ruanyf` things in the digital time
+  - `reflections` memories of the fellows
+  - `florio` guide to programming journey
+  - `nat` belief of an entrepreneur
 - ideas
-  - `projects` things interesting and things meaningful
+  - `projects` endeavours worthwhile
   - `wisdom` foresights and references
   - `quotes` perspective and thoughts
-  - `mistral` erudition of mistral ai
+  - `mistral` gamut of mistral ai
   - `comments` what i have heard as a student
   - `idioms` lines and memes just for fun
   - `fin` words at the end of the day
@@ -569,40 +578,38 @@
   - `email` way to contact me
   - `swim` libre internet guide
 - config
-  - `/config`
+  - $\to \text{/config}$
   - `ubuntu config` elegant work flow
   - `list ...` preferences
   - `terminal ...` shortcuts
 - notes
-  - `/notes`
+  - $\to \text{/notes}$
   - `wenyan` wenyan lang guide
-  - `design` psychology in design
+  - `design` ue design psychology
   - `plain` federal plain language
-  - `symbols` latex symbols list
-  - `kjv` king james version
-  - `geb` geb
-  - `physics` high school physics textbook
-  - `competitive` competitive programming
-  - `refactoring` refactoring ui
-  - `react` react learn
-  - `xbox` travelling in video games
+  - `symbols` latex symbols
+  - `physics` chinese hs physics
+  - `xbox` video game travelling
   - `testing ...` google testing
   - `...` stack overflow documentation
 
 ## beauties
 
-- `blogging` notes and inspirations
-- `web` findings and capsules
+- `blogging` notebook librarian
+- `web` time capsule creator
 - `memories` life
-  - `/perspective` cyber wanderer
-  - `/insight` digital memories keeper
-  - `/gaming` otaku gamer
-  - `/school` lifelong student
-- `programs` source of all
-- `music` favorite songs
-- `fonts` favorite fonts
-- `self` favorite avatars
-- `git` favorite doujins
+  - $\to \text{/perspective}$
+  - cyber wanderer
+  - $\to \text{/insight}$ 
+  - digital memories keeper
+  - $\to \text{/gaming}$ 
+  - internet otaku
+  - $\to \text{/school}$ 
+  - lifelong student
+- `programs` programmer
+- `music` music lover
+- `fonts` typography enthusiast
+- `self` avatar album designer
 
 ## shadows
 
@@ -628,9 +635,9 @@
 > good luck and have fun
 
 - _reminiscent youth_ good old days...
-- _internet otaku_ unworldly girls...
+- _anime otaku_ unworldly girls...
 - _digital hoarder_ memories forever...
-- _idle classmate_ earthly escapade...
+- _idle fellow_ earthly escapade...
 - _simplicity addict_ elegance of ideas...
 - _indie developer_ libre tech...
 
