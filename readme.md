@@ -145,6 +145,7 @@
   - c++ primer plus sixth edition (stephen prata)
   - react learn docs (react commutity)
   - refactoring ui (adam wathan & steve schoger)
+  - gnome human interface guidelines (gnome)
   - clean code (robert c. martin)
   - hello algo (krahets)
   - competitive programmers' handbook (antti laaksonen)
@@ -401,8 +402,14 @@
   - firefox 124.0.2
   - code 1.91.2
   - git 2.43
-  - solanum 5.0.0
   - mistral-large 2
+  - flatpak 1.14.10
+  - snap 2.63.1
+  - apt 2.7.14
+  - wine 9.0
+  - zsh 5.9
+  - fcitx 5.1.7
+  - v2raya 2.2.5.1
   - g++ 13.2.0
   - python 3.12.3
   - node 18.19.1
@@ -412,11 +419,6 @@
   - eslint 6.4.0
   - prettier 9.2.0
   - terser 5.19.2
-  - flatpak 1.14.10
-  - snap 2.63.1
-  - apt 2.7.14
-  - fcitx 5.1.7
-  - v2raya 2.2.5.1
   - antennapod 3.1.2
   - bilimiao 2.3.8.3
   - blender 4.2.1
@@ -437,6 +439,7 @@
   - gnome-eyedropper 2.0.1
   - gnome-nautilus 46.2
   - gnome-newsflash 3.3.5
+  - gnome-solanum 5.0.0
   - gnome-system-monitor 46.0
   - gnome-tuba 0.8.4
   - gnome-weather 44.0
@@ -446,6 +449,9 @@
   - k9-mail 6.801
   - katomic 24.08.2
   - kdenlive 23.08.4
+  - kigo 0.6.24082
+  - kolourpaint 24.08.2
+  - krita 5.2.6
   - legado 3.23.112523
   - libreoffice 24.2.5.2
   - material-files 1.4.2
@@ -461,8 +467,6 @@
   - telegram-desktop 4.16.8
   - thunderbird 115.11.0
   - transmission 4.0.5
-  - wine 9.0
-  - zsh 5.9
   - virtualbox 7.0.16
   - vlc 3.0.20
   - wolfram-alpha 1.4.25
