@@ -29,10 +29,10 @@
 - - black tea
   - cocacola zero
   - boba tea
-  - crisps classic
   - dark chocolate
   - egg puffs
   - tea eggs
+  - crisps classic
   - huamei & chenpi
 - - johann sebastian bach
   - frédéric chopin
@@ -41,7 +41,6 @@
   - gardening & origami
   - second person omniscient narration
   - dissociation & divine perspective
-  - deceased & departed
   - dark style & night light & low brightness
   - math & algorithms
   - functional programming & vanilla js

@@ -425,6 +425,7 @@
   - hs math foresight in one hour
   - childhood retro: hs math made simple stupid
   - teaching hs math in mihoyo or blue archive
+  - elite education in shanghai
   - daily problems a & b
 - various themes
   - by voyage
@@ -438,10 +439,15 @@
 
 ### `intuitive`
 
-> beautifully advance "awesome showcase"
+> beautifully advance
 
 > /intuitive
 
+- features
+  - wiki based
+  - simple stupid
+  - algorithm card collection
+  - not for rating
 - learn
   - javascript & game engine
   - cpp & macro sugars
@@ -495,10 +501,9 @@
 - various themes
   - by voyage
 - inspired by
-  - wylang guide
   - itheima
   - shangguigu
-  - csdiy
+  - wylang guide
   - wes bos
   - brad traversy
   - rodrigo pombo
@@ -720,7 +725,6 @@ for(i 1 10 j 10 100){A} //for(let i=1;i<=10;i++){for(let j=10;i<=100;j++){A}}
   - __storage
   - __states
   - __listeners
-  - __memo
   - __removal
   - __components
   - _generate
@@ -735,13 +739,12 @@ for(i 1 10 j 10 100){A} //for(let i=1;i<=10;i++){for(let j=10;i<=100;j++){A}}
   - when
   - self
 - inspired by
+  - jquery
   - react
   - alpine
   - mithril
   - svelte
   - vue
-  - jquery
-  - vanilla js
 
 ### `fresh`
 

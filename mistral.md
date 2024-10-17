@@ -751,80 +751,47 @@ There are several countries known for implementing network censorship, restricti
 
 ## chinese
 
+`test`
+
 > $\to mistral \space large$
 
-translate 太空有空间站,太挤就没有空间站
+> translate 太空有空间站,太挤就没有空间站
 
 In English, the sentence "太空有空间站,太挤就没有空间站" translates to "Space has space stations, if it's too crowded, there are no space stations." However, the second part of the sentence might not make complete sense as space is vast and not typically considered "crowded." A more accurate translation might be "Space has space stations, but if an area is too congested, there might not be any space stations there."
 
-用中文回答 生鱼片是死鱼片吗
+> 用中文回答 生鱼片是死鱼片吗
 
 生鱼片不是死鱼片。生鱼片是用新鲜的鱼肉制作的，通常是先将鱼肉冻存，然后切片并进行其他处理，最终在餐桌上用特殊的方法展示和食用。而死鱼片则是用已经处理过的鱼肉制作的，通常是将鱼肉烤干或煮熟后切片，用于制作某些菜肴或者当作零食食用。因此，生鱼片和死鱼片在制作方式、口感和用途等方面都有所不同。
 
-translate 我骑着你去爬长城
+> translate 我骑着你去爬长城
 
 In English, the sentence "我骑着你去爬长城" translates to "I will ride on you to climb the Great Wall." This sentence is a metaphorical or humorous way of saying that the speaker will use the other person's help or support to achieve a difficult goal. The Great Wall is a symbol of something challenging and impressive, so the sentence suggests that the speaker is undertaking a significant task and needs the other person's assistance. However, the literal meaning of the sentence is that the speaker will physically ride on the other person like a horse or other animal to climb the Great Wall, which is not a common or practical way of visiting the landmark.
 
-translate 记住是金子总会发光,但你是老铁
+> translate 记住是金子总会发光,但你是老铁
 
 In English, the sentence "记住是金子总会发光,但你是老铁" translates to "Remember that gold will always shine, but you are a true friend." This sentence is a metaphorical way of expressing the value of friendship. The first part of the sentence, "gold will always shine," is a common saying that means that something of true value will always be recognized and appreciated. The second part of the sentence, "but you are a true friend," emphasizes the importance of having loyal and reliable friends who are more valuable than material possessions. The use of the term "老铁" (lǎotiě) in Chinese is a colloquial way of referring to a close friend or buddy, and it conveys a sense of camaraderie and mutual support. Overall, the sentence is expressing the idea that while material wealth may be valuable, true friendship is even more precious.
 
-translate 有朋自远方来虽远必诛
+> translate 有朋自远方来虽远必诛
 
 In English, the sentence "有朋自远方来虽远必诛" translates to "Although friends may come from afar, they must be executed if they have done wrong." This sentence is a classical Chinese saying that emphasizes the importance of justice and accountability, even in the context of personal relationships. The first part of the sentence, "有朋自远方来" (yǒu péng zì yuǎn fāng lái), means that friends may come from far away, suggesting that distance or geographical separation is not a barrier to forming close relationships. However, the second part of the sentence, "虽远必诛" (suī yuǎn bì zhū), means that even if someone is a friend, they must be punished if they have committed a crime or done something wrong. The use of the word "诛" (zhū), which means "to execute" or "to punish severely," suggests that the consequences of wrongdoing are serious and cannot be ignored, even in the context of personal relationships. Overall, the saying emphasizes the importance of upholding justice and accountability, even when it comes to people we care about.
 
-translate 我带你去大排档拿你做生腌
+> translate 我带你去大排档拿你做生腌
 
 In English, the sentence "我带你去大排档拿你做生腌" translates to "I will take you to the street food stall and have you made into pickles." This sentence is a humorous or playful way of expressing the idea that the speaker will take the other person to a street food stall and order something tasty, but with a twist. The phrase "有你做生腌" (yǒu nǐ zuò shēngyān) means "to have you made into pickles," which is a metaphorical or humorous way of saying that the speaker will turn the other person into a tasty snack or treat. The use of the word "生腌" (shēngyān) specifically refers to a type of pickled vegetable that is popular in Chinese cuisine. Overall, the sentence is a lighthearted way of expressing the idea that the speaker enjoys spending time with the other person and wants to share a fun and tasty experience with them.
 
-translate 你评论区都乱成一锅粥了还不快趁热喝了
+> translate 你评论区都乱成一锅粥了还不快趁热喝了
 
 In English, the sentence "你评论区都乱成一锅粥了还不快趁热喝了" translates to "Your comment section has turned into a pot of porridge, why don't you quickly drink it while it's still hot?" This sentence is a metaphorical or humorous way of expressing the idea that the comment section of the person being addressed has become chaotic or confusing, like a pot of porridge that has been stirred too much. The phrase "乱成一锅粥" (luàn chéng yī guō zhōu) means "to become a pot of porridge," which is a colloquial expression used to describe a situation that has become messy or disorganized. The use of the word "趁热" (chèn rè) means "to take advantage of the heat," suggesting that the person should act quickly before the situation cools down or becomes less relevant. Overall, the sentence is a playful way of suggesting that the person being addressed should pay attention to the comments in their section and respond to them while they are still active or relevant.
 
-translate 人要是行,干一行行一行,一行行行行行,行行行干哪行都行
+> translate 人要是行,干一行行一行,一行行行行行,行行行干哪行都行
 
 In English, the sentence "人要是行,干一行行一行,一行行行行行,行行行干哪行都行" translates to "If a person is capable, they can do one thing after another, do many things, and be able to do anything they want." This sentence is a colloquial expression that emphasizes the importance of being capable and versatile. The phrase "人要是行" (rén yào shì xíng) means "if a person is capable," suggesting that having skills and abilities is important for success. The phrase "干一行行一行" (gàn yī xíng xíng yī xíng) means "to do one thing after another," suggesting that a capable person can handle many tasks and responsibilities. The phrase "一行行行行行" (yī xíng xíng xíng xíng xíng) means "to do many things," emphasizing the breadth of the person's abilities. The phrase "行行行干哪行都行" (xíng xíng xíng gàn nǎ xíng dōu xíng) means "to be able to do anything they want," suggesting that a capable person has many options and opportunities available to them. Overall, the sentence is a playful and optimistic way of expressing the idea that being capable and versatile can lead to success and fulfillment.
 
 ## js v ts
 
+`dev` `comparison`
+
 > $\to mistral \space large$
-
-> javascript vs typescript list pros and cons
-
-Sure, I'd be happy to help with that. Here are some pros and cons of both JavaScript and TypeScript:
-
-**JavaScript:**
-
-Pros:
-
-1. **Ubiquity:** JavaScript is supported by all modern web browsers without needing any plugins.
-2. **Flexibility:** JavaScript is a dynamically typed language, which can provide flexibility in programming.
-3. **Community and Resources:** JavaScript has a large community and a wealth of resources, libraries, and frameworks available.
-4. **Easy to Learn:** JavaScript is often considered easier to learn for beginners due to its simpler syntax and dynamic nature.
-
-Cons:
-
-1. **Lack of Type Safety:** Since JavaScript is dynamically typed, it can lead to runtime errors that could have been caught at compile time in a statically typed language.
-2. **Scope Issues:** JavaScript's handling of variable scope (particularly with 'this' keyword) can sometimes lead to confusion and bugs.
-3. **Performance:** While JavaScript engines have become increasingly fast, the dynamic nature of the language can sometimes lead to performance issues compared to statically typed languages.
-
-**TypeScript:**
-
-Pros:
-
-1. **Type Safety:** TypeScript is a statically typed superset of JavaScript, which can help catch errors at compile time.
-2. **Better Tooling:** TypeScript's static typing provides better autocompletion, type checking, and advanced refactoring capabilities.
-3. **ES6 Features:** TypeScript supports most ECMAScript 6 features (like arrow functions, let, and const), and transpiles your code to ES5 or earlier, so it can run in any browser.
-4. **Interfaces:** TypeScript allows you to use interfaces to ensure certain classes meet a specific contract.
-
-Cons:
-
-1. **Learning Curve:** If you're already familiar with JavaScript, there will be a learning curve to understand TypeScript's type system and other features.
-2. **Compilation Step:** Since TypeScript is not natively understood by browsers, you'll need to add a compilation step to your build process to convert TypeScript to JavaScript.
-3. **Less Community and Resources:** While TypeScript's community is growing, it's still smaller than JavaScript's. This means fewer resources, libraries, and frameworks are available.
-4. **Complexity:** TypeScript can be more complex than JavaScript due to its additional features like interfaces, generics, etc. This complexity can be a pro or a con, depending on your needs and preferences.
-
-> typescript vs javascript list pros and cons
 
 Sure, I'd be happy to help with that. Here are some pros and cons of both JavaScript and TypeScript:
 
@@ -859,45 +826,11 @@ Cons:
 3. **Less Universal Support:** Not all libraries and frameworks support TypeScript out of the box, though this is improving.
 4. **Overkill for Small Projects:** For small projects or simple scripts, TypeScript might be overkill and add unnecessary complexity.
 
-## vue v react
+## react v vue
+
+`dev` `comparison`
 
 > $\to mistral \space large$
-
-> vue vs react list pros and cons
-
-Sure, here are some pros and cons of Vue.js and React.js:
-
-Vue.js:
-Pros:
-
-1. Easy to Learn: Vue.js is easier to learn than React.js. Its documentation is clear and comprehensive.
-2. Simple and Clean: Vue.js is simpler and cleaner, making it easier to understand and develop applications.
-3. Flexibility: Vue.js offers more flexibility and is easier to integrate into existing projects.
-4. Better Performance: Vue.js has better performance in terms of memory allocation and speed.
-5. Two-way Communication: Vue.js supports two-way communication, which makes it easier to handle HTML blocks.
-6. Detailed Documentation: Vue.js has very detailed documentation, making it easier for developers to understand and use it.
-
-Cons:
-
-1. Limited Resources: Vue.js has limited resources compared to React.js. There are fewer plugins and components available.
-2. Smaller Community: The community of Vue.js is smaller than that of React.js, which means fewer questions are asked and answered.
-3. Risk of Over Flexibility: Sometimes, too much flexibility can lead to poor code quality.
-
-React.js:
-Pros:
-
-1. Large Community: React.js has a large community, which means more questions are asked and answered.
-2. More Resources: React.js has more resources, plugins, and components available.
-3. Backed by Facebook: React.js is backed by Facebook, which means it's less likely to disappear and has a strong future.
-4. Virtual DOM: React.js uses a virtual DOM, which improves app performance.
-5. JSX: React.js uses JSX, making the code easier to understand and debug.
-
-Cons:
-
-1. Steep Learning Curve: React.js has a steep learning curve. It's more difficult to learn than Vue.js.
-2. Complexity: React.js can be complex and harder to understand, especially for beginners.
-3. Lack of Official Guidelines: React.js lacks official guidelines, which can lead to poor code quality.
-4. Fast-Paced Environment: The environment of React.js is fast-paced, which means developers need to keep up with the latest updates and changes.
 
 > react vs vue list pros and cons
 
@@ -933,6 +866,8 @@ Cons:
 3. **Less Job Opportunities**: Currently, there are more job opportunities for React developers compared to Vue.js developers.
 
 ## sketch v figma
+
+`app` `comparison`
 
 > $\to mistral \space large$
 
@@ -976,39 +911,9 @@ Cons:
 
 Both tools have their strengths and weaknesses, and the best choice depends on your specific needs, such as your operating system, need for collaboration, and design complexity.
 
-> figma vs sketch list pros and cons
-
-Sure, I'd be happy to help you compare Figma and Sketch. Both are popular tools used for UI/UX design, and each has its own strengths and weaknesses. Here's a simple comparison:
-
-**Figma**
-
-Pros:
-
-1. **Web-based**: Figma runs in the browser, which means it's platform-independent and there's no need to install any software.
-2. **Real-time Collaboration**: Multiple designers can work on the same project simultaneously, making collaboration and teamwork easier.
-3. **Sharing and Commenting**: Figma allows for easy sharing of designs with team members or clients, and they can provide feedback directly on the design.
-4. **Version Control**: Figma automatically saves and versions your work, so you can easily revert to previous versions if needed.
-
-Cons:
-
-1. **Performance**: Since it's web-based, Figma's performance can sometimes be affected by your internet connection.
-2. **Plugin Ecosystem**: While Figma's plugin ecosystem is growing, it's not as extensive as Sketch's.
-
-**Sketch**
-
-Pros:
-
-1. **Vector-based**: Sketch is a vector-based tool, which makes it perfect for creating scalable, high-quality designs.
-2. **Plugin Ecosystem**: Sketch has a robust plugin ecosystem that can extend its functionality and streamline your design workflow.
-3. **Integration**: Sketch integrates well with other design tools and platforms, such as InVision, Zeplin, and more.
-
-Cons:
-
-1. **Mac-only**: Sketch is only available for macOS, which can be a limitation for Windows or Linux users.
-2. **Collaboration**: While Sketch does offer collaboration features through Sketch Cloud, it's not as real-time or seamless as Figma's collaboration tools.
-3. **Pricing**: Sketch's licensing model can be more expensive, especially for larger teams.
-
 ## sketch v illu
+
+`app` `comparison`
 
 > $\to mistral \space large$
 
@@ -1048,46 +953,9 @@ Cons:
 3. **Subscription Model:** Like Sketch, Illustrator also operates on a subscription model, which can be a downside for some users.
 4. **Less Ideal for UI/UX Design:** While Illustrator is powerful, it's not specifically designed for UI/UX design, and some features may be lacking compared to Sketch.
 
-> illustrator vs sketch list pros and cons
-
-Sure, here's a comparison of Adobe Illustrator and Sketch, two popular vector graphics editors, with their respective pros and cons:
-
-**Adobe Illustrator**
-
-Pros:
-
-1. Industry Standard: Illustrator is widely used in the design industry, making it a versatile tool for various design needs.
-2. Advanced Tools: It offers a vast array of advanced tools and features for creating complex illustrations, typography, and more.
-3. Integration with Other Adobe Apps: Illustrator integrates seamlessly with other Adobe applications like Photoshop and InDesign, which can be beneficial for those already using Adobe's Creative Cloud suite.
-4. Robust Plugins: There are numerous plugins available to extend Illustrator's functionality.
-5. Raster and Vector Support: Illustrator can handle both vector and raster graphics, offering more flexibility.
-
-Cons:
-
-1. Steep Learning Curve: Due to its extensive features, Illustrator can be challenging for beginners to learn.
-2. Subscription-based Pricing: Illustrator is only available through Adobe's subscription model, which may not be appealing to everyone.
-3. Resource Intensive: Illustrator can be resource-intensive, requiring a more powerful computer to run smoothly, especially when working with large files.
-
-**Sketch**
-
-Pros:
-
-1. User Interface: Sketch has a clean and intuitive interface, making it easier for beginners to learn and use.
-2. Focused on Digital Design: Sketch is specifically designed for digital and UI/UX design, offering features tailored to these needs, such as artboards, symbols, and shared styles.
-3. Lightweight: Sketch is less resource-intensive compared to Illustrator, allowing it to run more smoothly on less powerful computers.
-4. Collaboration Features: Sketch offers collaboration features like Cloud sharing and Libraries, making it easier for teams to work together.
-5. Plugins and Integrations: Sketch has a vast ecosystem of plugins and integrations with third-party tools, enhancing its functionality.
-
-Cons:
-
-1. Mac-only: Sketch is only available for macOS, limiting its accessibility to Windows users.
-2. Limited Raster Capabilities: While Sketch can handle basic raster editing, it's primarily focused on vector graphics, which may not be sufficient for those needing advanced raster editing features.
-3. Less Suitable for Print Design: Sketch is mainly aimed at digital design, making it less suitable for print-based projects.
-4. No Native iPad Support: Unlike Illustrator, Sketch does not have a native iPad app, limiting its use to desktop computers.
-
-Both tools have their strengths and weaknesses, and the best choice depends on your specific design needs, platform preference, and budget.
-
 ## ubuntu v arch
+
+`dev` `comparison`
 
 > $\to mistral \space large$
 
@@ -1128,6 +996,8 @@ In conclusion, if you're new to Linux or want a stable, user-friendly system, Ub
 
 ## tg v discord
 
+`dev` `app` `comparison`
+
 > $\to mistral \space large$
 
 > telegram vs discord list pros and cons
@@ -1135,6 +1005,7 @@ In conclusion, if you're new to Linux or want a stable, user-friendly system, Ub
 Sure, here's a comparison of Telegram and Discord, highlighting some of their pros and cons:
 
 Telegram:
+
 Pros:
 
 1. **Security**: Telegram offers end-to-end encryption for secret chats, ensuring that only the sender and receiver can read the messages.
@@ -1150,6 +1021,7 @@ Cons:
 3. **Community Management**: Managing large communities can be challenging due to the lack of robust moderation tools.
 
 Discord:
+
 Pros:
 
 1. **Voice and Video Calling**: Discord offers high-quality voice and video calling, making it popular for gaming communities and remote teams.
@@ -3414,7 +3286,7 @@ Ultimately, the choice of a component library depends on your project's specific
 
 ## newton vs bisection
 
-`math` `ref`
+`dev` `math` `comparison`
 
 > $\to mistral \space large \space 2$
 
@@ -3585,6 +3457,8 @@ As a last resort, you can try reinstalling Node.js and npm. Make sure to downloa
 By following these steps, you should be able to diagnose and resolve the issue with `npm install` hanging or taking an excessively long time.
 
 ## speed test wasm
+
+`dev` `comparison` `guide`
 
 > $\to mistral \space large \space 2$
 
@@ -4250,179 +4124,118 @@ export default CounterApp;
 
 Each of these examples demonstrates a simple counter app with an editable input field that allows the user to increase or decrease the count. The implementations are straightforward and highlight the syntax and structure of each framework or library.
 
-## web framework behind popular sites
+## js framework of top sites
+
+`list` `dev` `ref` `comparison`
 
 > $\to mistral \space large \space 2$
 
-> web framework behind a list of 50 popular sites like google github and more in just a few words like vue react svelte alpine jquery
+> top 100 sites sorted by popularity and paired with js framework after name
 
-Sure, here's a brief overview of the web frameworks behind some popular sites:
+Creating a list of the top 100 websites sorted by popularity and pairing them with a JavaScript framework is a complex task, as the popularity of websites can change frequently, and the specific JavaScript frameworks used by these sites can vary or be proprietary. However, I can provide a general overview of some popular websites and the JavaScript frameworks they might be using. Note that this information is based on publicly available data and may not be entirely accurate or up-to-date.
 
-1. **Google**: Custom frameworks, often using Angular and Polymer.
-2. **GitHub**: Rails (backend), React (frontend).
-3. **Facebook**: React.
-4. **Twitter**: React, Rails.
-5. **Instagram**: React.
-6. **Netflix**: React, Node.js.
-7. **Airbnb**: React, Rails.
-8. **Reddit**: React, Python (Django).
-9. **LinkedIn**: Ember.js.
-10. **Pinterest**: React.
-11. **Yahoo**: React, Node.js.
-12. **Dropbox**: React.
-13. **Trello**: Backbone.js, React.
-14. **Etsy**: React, PHP.
-15. **WhatsApp**: React.
-16. **Slack**: React.
-17. **Tumblr**: React.
-18. **Medium**: React.
-19. **PayPal**: React, Node.js.
-20. **Uber**: React, Node.js.
-21. **Spotify**: React.
-22. **Amazon**: Custom frameworks, React.
-23. **eBay**: Node.js, React.
-24. **Wikipedia**: MediaWiki (PHP).
-25. **Craigslist**: Custom, Perl.
-26. **Booking.com**: React.
-27. **TripAdvisor**: React.
-28. **AliExpress**: React.
-29. **Baidu**: Custom, Vue.js.
-30. **Yandex**: Custom, React.
-31. **Stack Overflow**: ASP.NET, jQuery.
-32. **Quora**: React.
-33. **Coursera**: React.
-34. **Duolingo**: React.
-35. **Asana**: React.
-36. **Tinder**: React.
-37. **Discord**: React.
-38. **Zillow**: React.
-39. **Indeed**: React.
-40. **Glassdoor**: React.
-41. **Robinhood**: React.
-42. **Coinbase**: React.
-43. **Twitch**: React.
-44. **Shopify**: React, Ruby on Rails.
-45. **SquareSpace**: React.
-46. **Wix**: React.
-47. **WeChat**: Custom, Vue.js.
-48. **Alibaba**: Custom, React.
-49. **Flipkart**: React.
-50. **Zomato**: React.
+1. **Google** - Angular (for some internal tools)
+2. **YouTube** - Polymer
+3. **Facebook** - React
+4. **Twitter** - React
+5. **Instagram** - React
+6. **Amazon** - React
+7. **Wikipedia** - jQuery
+8. **LinkedIn** - React
+9. **Netflix** - React
+10. **Reddit** - React
+11. **Pinterest** - React
+12. **Ebay** - React
+13. **Twitch** - React
+14. **Yahoo** - React
+15. **Microsoft** - React
+16. **Bing** - React
+17. **Stack Overflow** - jQuery
+18. **GitHub** - React
+19. **Medium** - React
+20. **Tumblr** - React
+21. **Quora** - React
+22. **PayPal** - React
+23. **Spotify** - React
+24. **Airbnb** - React
+25. **Uber** - React
+26. **Dropbox** - React
+27. **Slack** - React
+28. **Trello** - React
+29. **Asana** - React
+30. **Craigslist** - jQuery
+31. **Yelp** - React
+32. **Zillow** - React
+33. **Glassdoor** - React
+34. **Indeed** - React
+35. **Coursera** - React
+36. **Duolingo** - React
+37. **Khan Academy** - React
+38. **CodePen** - React
+39. **Dribbble** - React
+40. **Behance** - React
+41. **Flickr** - React
+42. **Vimeo** - React
+43. **SoundCloud** - React
+44. **TripAdvisor** - React
+45. **Booking.com** - React
+46. **Expedia** - React
+47. **Kayak** - React
+48. **Hotels.com** - React
+49. **Airbnb** - React
+50. **Tinder** - React
+51. **OkCupid** - React
+52. **Match.com** - React
+53. **Bumble** - React
+54. **Grindr** - React
+55. **Hinge** - React
+56. **Pinterest** - React
+57. **Etsy** - React
+58. **Shopify** - React
+59. **Wix** - React
+60. **Squarespace** - React
+61. **Weebly** - React
+62. **WooCommerce** - React
+63. **Magento** - React
+64. **BigCommerce** - React
+65. **Gumroad** - React
+66. **Patreon** - React
+67. **Kickstarter** - React
+68. **Indiegogo** - React
+69. **GoFundMe** - React
+70. **Crowdfunder** - React
+71. **Upwork** - React
+72. **Fiverr** - React
+73. **Freelancer** - React
+74. **99designs** - React
+75. **Dribbble** - React
+76. **Behance** - React
+77. **Flickr** - React
+78. **Vimeo** - React
+79. **SoundCloud** - React
+80. **TripAdvisor** - React
+81. **Booking.com** - React
+82. **Expedia** - React
+83. **Kayak** - React
+84. **Hotels.com** - React
+85. **Airbnb** - React
+86. **Tinder** - React
+87. **OkCupid** - React
+88. **Match.com** - React
+89. **Bumble** - React
+90. **Grindr** - React
+91. **Hinge** - React
+92. **Pinterest** - React
+93. **Etsy** - React
+94. **Shopify** - React
+95. **Wix** - React
+96. **Squarespace** - React
+97. **Weebly** - React
+98. **WooCommerce** - React
+99. **Magento** - React
+100. **BigCommerce** - React
 
-This list provides a snapshot of the technologies used by these companies, but keep in mind that many large companies use a mix of technologies and may have custom frameworks or components as well.
-
-## javascript framework behind popular sites
-
-`dev` `ref`
-
-> $\to mistral \space large \space 2$
-
-> list of javascript framework behind 100 popular sites in a few words
-
-Sure, here's a brief list of JavaScript frameworks used by some popular websites:
-
-1. **Facebook**: React
-2. **Twitter**: React
-3. **Instagram**: React
-4. **LinkedIn**: React
-5. **Netflix**: React
-6. **Airbnb**: React
-7. **Uber**: React
-8. **Pinterest**: React
-9. **WhatsApp**: React
-10. **Dropbox**: React
-11. **Reddit**: React
-12. **PayPal**: React
-13. **Yahoo**: React
-14. **Microsoft**: React
-15. **Walmart**: React
-16. **The New York Times**: React
-17. **BBC**: React
-18. **CNN**: React
-19. **Asana**: React
-20. **Atlassian**: React
-21. **Google**: Angular, Vue.js
-22. **YouTube**: Angular
-23. **Gmail**: Angular
-24. **Forbes**: Angular
-25. **The Guardian**: Angular
-26. **Upwork**: Angular
-27. **Weather.com**: Angular
-28. **Nike**: Angular
-29. **Sony**: Angular
-30. **IBM**: Angular
-31. **Apple**: Vue.js
-32. **Adobe**: Vue.js
-33. **GitLab**: Vue.js
-34. **Alibaba**: Vue.js
-35. **Xiaomi**: Vue.js
-36. **Nintendo**: Vue.js
-37. **Grubhub**: Vue.js
-38. **Behance**: Vue.js
-39. **Laracasts**: Vue.js
-40. **Etsy**: Vue.js
-41. **Tumblr**: Backbone.js
-42. **SoundCloud**: Backbone.js
-43. **Disqus**: Backbone.js
-44. **Trello**: Backbone.js
-45. **Khan Academy**: Backbone.js
-46. **Wikipedia**: jQuery
-47. **Stack Overflow**: jQuery
-48. **WordPress**: jQuery
-49. **Amazon**: jQuery
-50. **eBay**: jQuery
-51. **Craigslist**: jQuery
-52. **IMDb**: jQuery
-53. **TripAdvisor**: jQuery
-54. **BuzzFeed**: jQuery
-55. **HuffPost**: jQuery
-56. **Spotify**: jQuery
-57. **Slack**: jQuery
-58. **Tinder**: jQuery
-59. **Evernote**: jQuery
-60. **Medium**: jQuery
-61. **Quora**: jQuery
-62. **Yelp**: jQuery
-63. **Zillow**: jQuery
-64. **Expedia**: jQuery
-65. **Booking.com**: jQuery
-66. **Indeed**: jQuery
-67. **Glassdoor**: jQuery
-68. **Coursera**: jQuery
-69. **Duolingo**: jQuery
-70. **CodePen**: jQuery
-71. **GitHub**: jQuery
-72. **Bitbucket**: jQuery
-73. **Heroku**: jQuery
-74. **DigitalOcean**: jQuery
-75. **Dribbble**: jQuery
-76. **Flickr**: jQuery
-77. **Vimeo**: jQuery
-78. **Pandora**: jQuery
-79. **Foursquare**: jQuery
-80. **Meetup**: jQuery
-81. **Eventbrite**: jQuery
-82. **Kickstarter**: jQuery
-83. **Indiegogo**: jQuery
-84. **Patreon**: jQuery
-85. **Twitch**: jQuery
-86. **Discord**: jQuery
-87. **Roblox**: jQuery
-88. **Steam**: jQuery
-89. **Epic Games**: jQuery
-90. **Blizzard**: jQuery
-91. **Riot Games**: jQuery
-92. **EA**: jQuery
-93. **Nintendo**: jQuery
-94. **PlayStation**: jQuery
-95. **Xbox**: jQuery
-96. **Hulu**: jQuery
-97. **HBO**: jQuery
-98. **Disney+**: jQuery
-99. **Prime Video**: jQuery
-100. **Apple TV+**: jQuery
-
-This list provides a snapshot of the frameworks used by these sites, but it's important to note that many large websites use a combination of technologies and frameworks, and their tech stacks can evolve over time.
+Please note that the actual frameworks used by these websites can change over time, and some websites may use multiple frameworks or custom solutions. Additionally, the popularity ranking of websites can vary based on different metrics and sources. For the most accurate and up-to-date information, you would need to refer to specific sources like Alexa rankings or BuiltWith for technology stack details.
 
 ## mistral latest data
 
@@ -5096,6 +4909,8 @@ The DOM API is extensive and powerful, allowing developers to create dynamic and
 
 ## diff without vdom
 
+`dev`
+
 > $\to mistral \space large \space 2$
 
 > how frameworks without vdom diff
@@ -5140,6 +4955,8 @@ Frameworks that do not use a Virtual DOM (VDOM) for diffing and updating the UI 
 In summary, frameworks without a VDOM use a variety of strategies to manage and update the DOM efficiently, ranging from direct manipulation to sophisticated rendering engines and compile-time optimizations. The choice of framework often depends on the specific requirements and constraints of the application being developed.
 
 ## diff in svelte
+
+`dev` `ref`
 
 > $\to mistral \space large \space 2$
 
@@ -5614,6 +5431,8 @@ These examples illustrate how the Svelte compiler transforms Svelte components i
 
 ## solid js
 
+`dev` `comparison`
+
 > $\to mistral \space large \space 2$
 
 > solidjs comparison
@@ -5874,7 +5693,7 @@ Certainly! LaTeX is a powerful typesetting system that is widely used for creati
 
 This list covers many of the commonly used symbols in LaTeX. For more specialized symbols, you can refer to the comprehensive symbol list in the LaTeX documentation or online resources.
 
-## latex symbols comprehensive list
+## latex math symbols comprehensive list
 
 `list` `ref`
 
@@ -6194,7 +6013,7 @@ Certainly! Below is a comprehensive list of LaTeX symbols, including Greek lette
 
 This list covers a wide range of symbols commonly used in LaTeX for mathematical and logical purposes. For more specialized symbols, you may need to consult additional packages or documentation.
 
-## latex underset limits
+## latex math symbols underset limits
 
 `list` `ref`
 
@@ -6282,232 +6101,9 @@ Remember that not all Markdown renderers support LaTeX syntax. Some popular ones
 
 To ensure proper rendering, you might need to include the appropriate JavaScript library (MathJax, KaTeX, etc.) in your HTML or use a Markdown editor/viewer that supports these libraries.
 
-## latex math expressions
-
-`list` `ref`
-
-> $\to mistral \space large \space 2$
-
-> long latex math expressions list
-
-Certainly! Here is a list of some common mathematical expressions in LaTeX:
-
-### Basic Expressions
-
-1. **Fractions**
-
-   ```latex
-   \frac{a}{b}
-   ```
-
-2. **Square Root**
-
-   ```latex
-   \sqrt{x}
-   ```
-
-3. **Nth Root**
-
-   ```latex
-   \sqrt[n]{x}
-   ```
-
-4. **Exponents**
-
-   ```latex
-   a^n
-   ```
-
-5. **Subscripts**
-
-   ```latex
-   a_n
-   ```
-
-6. **Summation**
-
-   ```latex
-   \sum_{i=1}^{n} a_i
-   ```
-
-7. **Product**
-
-   ```latex
-   \prod_{i=1}^{n} a_i
-   ```
-
-8. **Integral**
-
-   ```latex
-   \int_{a}^{b} f(x) \, dx
-   ```
-
-9. **Partial Derivative**
-
-   ```latex
-   \frac{\partial f}{\partial x}
-   ```
-
-10. **Limit**
-    ```latex
-    \lim_{x \to a} f(x)
-    ```
-
-### Greek Letters
-
-1. **Alpha**
-
-   ```latex
-   \alpha
-   ```
-
-2. **Beta**
-
-   ```latex
-   \beta
-   ```
-
-3. **Gamma**
-
-   ```latex
-   \gamma
-   ```
-
-4. **Delta**
-
-   ```latex
-   \delta
-   ```
-
-5. **Epsilon**
-   ```latex
-   \epsilon
-   ```
-
-### Trigonometric Functions
-
-1. **Sine**
-
-   ```latex
-   \sin \theta
-   ```
-
-2. **Cosine**
-
-   ```latex
-   \cos \theta
-   ```
-
-3. **Tangent**
-   ```latex
-   \tan \theta
-   ```
-
-### Logarithmic Functions
-
-1. **Natural Logarithm**
-
-   ```latex
-   \ln x
-   ```
-
-2. **Logarithm**
-   ```latex
-   \log x
-   ```
-
-### Matrices
-
-1. **Matrix**
-
-   ```latex
-   \begin{matrix}
-   a & b \\
-   c & d
-   \end{matrix}
-   ```
-
-2. **Determinant**
-   ```latex
-   \begin{vmatrix}
-   a & b \\
-   c & d
-   \end{vmatrix}
-   ```
-
-### Vectors and Sets
-
-1. **Vector**
-
-   ```latex
-   \vec{v}
-   ```
-
-2. **Set**
-   ```latex
-   \{a, b, c\}
-   ```
-
-### Miscellaneous
-
-1. **Infinity**
-
-   ```latex
-   \infty
-   ```
-
-2. **Approximately Equal**
-
-   ```latex
-   \approx
-   ```
-
-3. **Not Equal**
-
-   ```latex
-   \neq
-   ```
-
-4. **Less Than or Equal To**
-
-   ```latex
-   \leq
-   ```
-
-5. **Greater Than or Equal To**
-
-   ```latex
-   \geq
-   ```
-
-6. **Therefore**
-
-   ```latex
-   \therefore
-   ```
-
-7. **Because**
-   ```latex
-   \because
-   ```
-
-### Example of a Complex Expression
-
-```latex
-E = mc^2
-```
-
-```latex
-\int_{0}^{\infty} e^{-x^2} \, dx = \frac{\sqrt{\pi}}{2}
-```
-
-```latex
-\frac{d}{dx} \left( \int_{0}^{x} f(t) \, dt \right) = f(x)
-```
-
-These are just a few examples of the many mathematical expressions you can create using LaTeX. LaTeX is a powerful typesetting system that allows for the creation of complex mathematical notation with ease.
-
 ## why jetbrains
+
+`app` `comparison`
 
 > $\to mistral \space large \space 2$
 
@@ -6902,7 +6498,7 @@ Three.js is a powerful tool for creating interactive 3D experiences on the web. 
 
 ## cpp segmentation fault
 
-`dev` `ref`
+`dev` `guide` `ref`
 
 > $\to mistral \space large \space 2$
 
@@ -7203,7 +6799,7 @@ Unworldly purity is a broad concept that can be broken down into several sub-con
 
 ## material design
 
-`concept` `design` `ref`
+`concept` `design` `ref` `comparison`
 
 > $\to mistral \space large \space 2$
 
@@ -7639,3 +7235,135 @@ Boost can be installed via package managers or by downloading and building from 
 ### Conclusion
 
 Boost is a powerful set of libraries that can greatly enhance your C++ development experience. Whether you need advanced data structures, networking capabilities, or robust testing frameworks, Boost likely has a library that can help.
+
+## turing complete
+
+`dev` `concept` `ref`
+
+> $\to mistral \space large \space 2$
+
+> turing complete
+
+Turing completeness is a concept in computability theory that describes a system of rules that can simulate a Turing machine. A Turing machine is an abstract machine that manipulates symbols on a strip of tape according to a table of rules. It is a theoretical model of computation that defines an abstract machine.
+
+A system or programming language is said to be Turing complete if it can simulate any Turing machine. This means that it can perform any computation that a Turing machine can, given enough time and resources. In other words, a Turing-complete system can compute any function that can be computed by any other Turing-complete system, including all modern programming languages.
+
+Examples of Turing-complete systems include:
+
+1. **Programming Languages**: Most general-purpose programming languages, such as Python, Java, C++, and JavaScript, are Turing complete.
+2. **Automata and Formal Languages**: Certain types of automata, like pushdown automata with two stacks, are Turing complete.
+3. **Cellular Automata**: Some cellular automata, like Conway's Game of Life, are Turing complete.
+4. **Lambda Calculus**: A formal system in mathematical logic and computer science that is Turing complete.
+5. **Post Correspondence Problem**: A decision problem that is Turing complete.
+
+Turing completeness is a fundamental concept in the theory of computation and has implications for understanding the limits of what can be computed.
+
+## turing machine
+
+`dev`
+
+> $\to mistral \space large \space 2$
+
+> turing machine
+
+A Turing machine is a theoretical model of computation introduced by Alan Turing in 1936. It is designed to manipulate symbols on a strip of tape according to a table of rules. Despite its simplicity, a Turing machine is capable of simulating the logic of any computer algorithm, no matter how complex, making it a fundamental concept in computer science and the theory of computation.
+
+### Components of a Turing Machine
+
+1. **Tape**: An infinite strip divided into cells, each of which can contain a symbol from a finite alphabet. The tape is used for input, output, and intermediate storage.
+2. **Head**: A read/write device that scans the tape one cell at a time. The head can move left or right along the tape.
+3. **State Register**: Stores the current state of the machine. The machine has a finite number of states.
+4. **Table of Rules**: A finite set of instructions that dictate the machine's behavior. Each instruction specifies what the machine should do based on its current state and the symbol it is reading from the tape.
+
+### Operation of a Turing Machine
+
+1. **Initial Configuration**: The machine starts in an initial state with the input written on the tape.
+2. **Transition**: Based on the current state and the symbol under the head, the machine performs the following actions:
+   - Writes a new symbol to the current cell.
+   - Moves the head one cell to the left or right.
+   - Transitions to a new state.
+3. **Halting**: The machine may enter a special halting state, at which point the computation stops. The output is whatever is written on the tape at that time.
+
+### Example
+
+Consider a simple Turing machine that increments a binary number:
+
+- **Alphabet**: {0, 1, B} (where B is a blank symbol)
+- **States**: {q0, q1, q2, q3, q4} (where q4 is the halting state)
+- **Transition Rules**:
+  - (q0, 1) -> (q0, 1, R) (move right if the current symbol is 1)
+  - (q0, 0) -> (q1, 1, L) (change 0 to 1 and move left)
+  - (q1, 1) -> (q1, 1, L) (move left if the current symbol is 1)
+  - (q1, 0) -> (q2, 0, R) (move right if the current symbol is 0)
+  - (q2, 1) -> (q2, 1, R) (move right if the current symbol is 1)
+  - (q2, B) -> (q3, 1, L) (change blank to 1 and move left)
+  - (q3, 1) -> (q3, 1, L) (move left if the current symbol is 1)
+  - (q3, 0) -> (q4, 0, N) (halt if the current symbol is 0)
+
+### Importance
+
+Turing machines are important because they provide a formal definition of computation and serve as a standard against which the computational power of other systems can be measured. They are used to study the limits of what can be computed and to prove the existence of problems that cannot be solved by any algorithm (e.g., the halting problem).
+
+In summary, a Turing machine is a simple yet powerful model of computation that forms the basis for much of the theory of computation and computer science.
+
+## rss
+
+`concept` `history` `ref` `dev` `comparison`
+
+> $\to mistral \space large \space 2$
+
+> rss pros cons
+
+Sure, here are some pros and cons of using RSS (Really Simple Syndication):
+
+**Pros:**
+
+1. **Content Aggregation**: RSS allows users to aggregate content from various sources into a single feed, making it easier to stay updated without visiting multiple websites.
+
+2. **Time-Saving**: Users can save time by quickly scanning headlines and summaries in their RSS reader, only clicking through to read the full articles that interest them.
+
+3. **Reduced Email Clutter**: RSS can help reduce email clutter by replacing email newsletters with a single feed.
+
+4. **Privacy**: RSS doesn't require users to share personal data like email addresses to subscribe to content.
+
+5. **Customization**: Users can tailor their RSS feeds to include only the topics and sources they're interested in.
+
+6. **Real-Time Updates**: RSS feeds update in real-time, ensuring users get the latest content as soon as it's published.
+
+**Cons:**
+
+1. **Declining Popularity**: With the rise of social media and other content discovery methods, RSS has seen a decline in popularity among casual users.
+
+2. **Less Interaction**: RSS is mainly for content consumption, not interaction. Unlike social media, it doesn't facilitate likes, comments, or shares.
+
+3. **Technical Setup**: Setting up and understanding RSS feeds can be technical and intimidating for non-tech-savvy users.
+
+4. **Lack of Visual Appeal**: RSS feeds are typically text-based and lack the visual appeal of curated websites or social media platforms.
+
+5. **No Algorithmic Personalization**: Unlike some other platforms, RSS doesn't use algorithms to suggest content based on user behavior.
+
+6. **Maintenance**: For publishers, maintaining an RSS feed can be an additional task, and if not done properly, it can lead to broken links or outdated content.
+
+7. **Limited Analytics**: RSS feeds provide limited data about subscribers and their engagement with content.
+
+## google reader
+
+`concept` `history` `app`
+
+> $\to mistral \space large \space 2$
+
+> google reader
+
+Google Reader was a web-based aggregator, capable of reading Atom and RSS feeds. It was launched in 2005 and allowed users to keep track of their favorite websites and blogs in a single location. Users could subscribe to feeds from various sources, and Google Reader would display new content from those feeds in a streamlined interface.
+
+Key features of Google Reader included:
+
+- **Feed Subscriptions**: Users could subscribe to RSS or Atom feeds from various websites.
+- **Organization**: Feeds could be organized into folders and tags for easier management.
+- **Sharing**: Users could share interesting articles with friends or publicly.
+- **Starring**: Articles could be starred for later reference.
+- **Offline Access**: Through Google Gears, users could access their feeds offline.
+
+Google Reader was widely popular among users who wanted to stay updated with multiple sources of information without visiting each website individually. However, Google announced the discontinuation of Google Reader in March 2013, citing declining usage. The service was officially shut down on July 1, 2013.
+
+Since its closure, several alternatives have emerged to fill the gap left by Google Reader, including Feedly, Inoreader, and The Old Reader, among others. These services offer similar functionality and have gained popularity among former Google Reader users.

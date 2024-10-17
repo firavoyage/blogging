@@ -639,4 +639,26 @@ when it's no a choice but an obtainment
 
 那些恋爱中人,似乎不是作为娱乐就是
 
+## fucking new developer tool apps
 
+"next generation ..."
+
+wtf. completely nonsense.
+
+## must be mihoyo's fault
+
+一定是mihoyo干的!
+
+一定是传感器船干的!
+
+一定是party干的!
+
+一定是ccf干的!
+
+## chinese hs sleepy guys
+
+轻轻敲醒沉睡的心灵
+
+慢慢张开你的眼睛
+
+垂死病中惊坐起
