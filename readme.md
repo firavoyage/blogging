@@ -142,12 +142,14 @@
   - javascript: the definitive guide seventh edition (david flanagan)
   - c++ primer fifth edition (barbara e. moo & josée lajoie & stanley b. lippman)
   - c++ primer plus sixth edition (stephen prata)
+  - An Introduction to Programming in Wenyan Language (huang lingdong)
   - react learn docs (react commutity)
   - refactoring ui (adam wathan & steve schoger)
   - gnome human interface guidelines (gnome)
   - clean code (robert c. martin)
   - hello algo (krahets)
   - competitive programmers' handbook (antti laaksonen)
+  - goalkicker (stack overflow documentation)
   - oi wiki (oi wiki community)
   - cut the knot: probability riddles (alexander bogomolny)
   - mathematics, no 2 secondary school attached to east china normal university (math group)
@@ -249,7 +251,7 @@
   - minato aqua
   - misha
   - nahida
-  - necora nyaru
+  - neko electro
   - numby & topaz
   - orient snowy lotus
   - rubert the emperor
@@ -562,10 +564,10 @@
 
 - people
   - `livid` letter to solitary youth
+  - `nat` belief of an entrepreneur
+  - `florio` guide to programming journey
   - `ruanyf` things in the digital time
   - `reflections` memories of the fellows
-  - `florio` guide to programming journey
-  - `nat` belief of an entrepreneur
 - ideas
   - `projects` endeavours worthwhile
   - `wisdom` foresights and references
@@ -587,14 +589,12 @@
   - `terminal ...` shortcuts
 - notes
   - $\to \text{/notes}$
-  - `wenyan` wenyan lang guide
   - `design` ue design psychology
   - `plain` federal plain language
   - `symbols` latex symbols
   - `physics` chinese hs physics
   - `xbox` video game travelling
   - `testing ...` google testing
-  - `...` stack overflow documentation
 
 ## beauties
 
