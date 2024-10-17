@@ -3230,7 +3230,7 @@ You can include other options as needed to configure your Vue instance.
 
 ## ant design
 
-`design` `dev`
+`design` `dev` `comparison`
 
 > $\to mistral \space large \space 2$
 
@@ -7367,3 +7367,84 @@ Key features of Google Reader included:
 Google Reader was widely popular among users who wanted to stay updated with multiple sources of information without visiting each website individually. However, Google announced the discontinuation of Google Reader in March 2013, citing declining usage. The service was officially shut down on July 1, 2013.
 
 Since its closure, several alternatives have emerged to fill the gap left by Google Reader, including Feedly, Inoreader, and The Old Reader, among others. These services offer similar functionality and have gained popularity among former Google Reader users.
+
+## sof doc closure
+
+`concept` `history` `dev`
+
+> $\to mistral \space large \space 2$
+
+> why is stackoverflow documentation closed
+
+Stack Overflow Documentation was a feature introduced by Stack Overflow to provide a collaborative platform for developers to create and maintain documentation for various programming topics. However, it was officially closed in August 2017. The primary reasons for its closure were:
+
+1. **Low Usage**: Despite the initial enthusiasm, the usage of the Documentation feature did not meet the expectations of the Stack Overflow team. The number of active contributors and the volume of content created were lower than anticipated.
+
+2. **Quality Concerns**: Maintaining high-quality documentation was a challenge. The collaborative nature of the platform sometimes led to inconsistencies and inaccuracies in the content. Ensuring that the documentation was up-to-date and reliable required significant effort.
+
+3. **Resource Allocation**: Stack Overflow decided to focus its resources on improving the core question-and-answer platform, which is the primary service that the majority of its users rely on. By closing the Documentation feature, they could redirect their efforts towards enhancing the main site's functionality and user experience.
+
+4. **Community Feedback**: Feedback from the community indicated that the Documentation feature was not meeting their needs as effectively as the main Q&A platform. Users preferred the traditional format of asking and answering specific questions rather than contributing to a more structured documentation system.
+
+The closure of Stack Overflow Documentation was a strategic decision aimed at better serving the community by concentrating on the strengths of the platform. The core Q&A format remains the primary focus, allowing developers to seek and share knowledge in a more dynamic and interactive manner.
+
+## react component libraries
+
+`list` `design` `dev` `ref`
+
+> $\to mistral \space large \space 2$
+
+> react component libraries
+
+There are several popular React component libraries that can help you build user interfaces more efficiently. Here are some of the most widely used ones:
+
+1. **Material-UI (MUI)**
+
+   - **Website**: [Material-UI](https://mui.com/)
+   - **Description**: A comprehensive library that implements Google's Material Design. It includes a wide range of components and customization options.
+
+2. **Ant Design**
+
+   - **Website**: [Ant Design](https://ant.design/)
+   - **Description**: A design system with a set of high-quality React components out of the box. It is widely used for building enterprise-level products.
+
+3. **Semantic UI React**
+
+   - **Website**: [Semantic UI React](https://react.semantic-ui.com/)
+   - **Description**: The official React integration for Semantic UI. It offers a variety of components and themes.
+
+4. **Chakra UI**
+
+   - **Website**: [Chakra UI](https://chakra-ui.com/)
+   - **Description**: A simple, modular, and accessible component library that gives you the building blocks you need to build React applications.
+
+5. **Blueprint**
+
+   - **Website**: [Blueprint](https://blueprintjs.com/)
+   - **Description**: A React-based UI toolkit for the web. It is optimized for building complex, data-dense interfaces for desktop applications.
+
+6. **React Bootstrap**
+
+   - **Website**: [React Bootstrap](https://react-bootstrap.github.io/)
+   - **Description**: The most popular front-end framework, rebuilt for React. It includes a set of reusable components built with Bootstrap's design.
+
+7. **Grommet**
+
+   - **Website**: [Grommet](https://v2.grommet.io/)
+   - **Description**: A React-based framework that provides a rich set of components to build responsive and accessible mobile-first projects.
+
+8. **Evergreen**
+
+   - **Website**: [Evergreen](https://evergreen.segment.com/)
+   - **Description**: A UI framework for building ambitious products on the web. It includes a set of React components and tools for building web applications.
+
+9. **Rebass**
+
+   - **Website**: [Rebass](https://rebassjs.org/)
+   - **Description**: A React UI component library built with styled-system. It provides a set of primitive components that can be easily composed to build complex UIs.
+
+10. **Reactstrap**
+    - **Website**: [Reactstrap](https://reactstrap.github.io/)
+    - **Description**: Another popular library that provides Bootstrap 4 components for React. It is easy to use and integrates well with existing Bootstrap themes.
+
+These libraries offer a range of components and styles, allowing you to choose the one that best fits your project's requirements and design preferences.

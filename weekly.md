@@ -15,7 +15,11 @@
 
 > _foresight_
 
+- think svelte examples in voyage
+- think antd components in voyage
+- think ant design in sr
 - write voyagejs
+- think slidev in pre
 - write pre app
 - design intuitive cpp
 - design pure math
