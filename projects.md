@@ -672,25 +672,24 @@ for(i 1 10 j 10 100){A} //for(let i=1;i<=10;i++){for(let j=10;i<=100;j++){A}}
   - one dark pro
   - monokai pro
 - component systems
-  - material design 3
-  - google doodle
-  - gmail old design
-  - youtube design
-  - reddit old design
-  - apple landing page
+  - material ui
+  - chakra
+  - google books classic
+  - youtube
+  - reddit old
   - mihoyo sr
   - mihoyo hi
   - mihoyo gi
   - mihoyo zzz
 - finger control
   - codeforces mobile
-  - swipe left or right
+  - try swiping left or right
 - tiny components
   - number(chinese or englishprecise or not)
   - button(material water drop effectsvg uncolorized iconalt msgkeyboard focus)
   - link(internet archivepreviewstats)
-  - ...
 - playground
+  - play components
   - generate code
 - inspired by
   - webflow

@@ -16,8 +16,8 @@
 > _foresight_
 
 - think svelte examples in voyage
-- think antd components in voyage
-- think ant design in sr
+- think chakra components in voyage
+- think chakra in sr
 - write voyagejs
 - think slidev in pre
 - write pre app
@@ -35,7 +35,7 @@
 > _weekend endeavour_
 
 - write voyagejs
-- think ant design in sr
+- think chakra in sr
 - write pre app
 - design intuitive cpp
 - design pure math
@@ -65,7 +65,6 @@
 
 - memorize tem 8 vocabulary
 - write physics challenger
-- write chemistry challenger
 
 > _meanwhile_
 

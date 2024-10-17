@@ -174,6 +174,7 @@
   - .haizi's poems (hai zi)
   - .gu cheng's poems (gu cheng)
   - .stray birds (rabindranath tagore)
+  - .shakespeare's sonnets (william shakespeare)
   - .pride and prejudice (jane austen)
   - .if on a winter's night a traveler (italo calvino)
   - .the moon and sixpence (william somerset maugham)
