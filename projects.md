@@ -459,19 +459,24 @@
   - pr
   - prn
   - each
+- aeons
+  - 命途
+  - 轮回
+  - 秩序
+  - 洞察
 - metaphors
   - void / 幻灭
-  - int / 筹算
+  - int / 算筹
   - bool / 取舍
   - string / 言说
-  - if / 命运
-  - for / 轮回
+  - if / 决断
+  - for / 往复
   - break / 解离
   - continue / 超度
   - while / 劫渡
   - function / 规律
-  - struct / 洞察
-  - array / 秩序
+  - struct / 析构
+  - array / 编列
   - set / 存在
   - vector / 联结
   - map / 众生
@@ -492,6 +497,7 @@
     - https://matrix67.itch.io/almost-infinite
   - cr ideas that supercell rejected
   - angry birds classic
+  - terraria
   - fly me 2 the moon
 - local oj
   - problem readme

@@ -2,6 +2,8 @@
 
 ## passing youth
 
+`literary`
+
 > $\to mistral \space large$
 
 > write about my passing youth around 600 words
@@ -46,7 +48,7 @@ In conclusion, the passing youth is a bittersweet reminder of the fleeting natur
 
 ## classic songs
 
-`list` `ref`
+`list` `ref` `music` `art`
 
 > $\to mistral \space large \space 2$
 
@@ -339,7 +341,7 @@ Here is a list of 50 English classic songs with their publication year:
 
 ## ballad songs
 
-`list` `ref`
+`list` `ref` `music` `art`
 
 > $\to mistral \space large \space 2$
 
@@ -648,6 +650,8 @@ American Pie - 1971
 Free Bird - 1973
 
 ## frontend
+
+`dev` `guide`
 
 > $\to mistral \space large$
 
@@ -7451,7 +7455,7 @@ These libraries offer a range of components and styles, allowing you to choose t
 
 ## shakespeare
 
-`list` `ref`
+`list` `ref` `literary` `art`
 
 > $\to mistral \space large \space 2$
 
@@ -7492,3 +7496,25 @@ To provide a tailored recommendation, it would be helpful to know your preferenc
 - **The Tempest**: Often considered a romance, it tells the story of Prospero, a sorcerer, and his daughter Miranda. It's a magical and thought-provoking play that explores themes of forgiveness, redemption, and the power of art.
 
 Choose the one that resonates with your interests the most, and enjoy exploring the rich world of Shakespeare's literature!
+
+## the number of parts that three planes can divide a space into
+
+`concept` `math` `ref`
+
+> $\to mistral \space large \space 2$
+
+> the number of parts that three planes can divide a space into
+
+The number of parts that three planes can divide a space into depends on the relative positions of the planes. Here are the possible scenarios:
+
+1. **All three planes are parallel**: If all three planes are parallel to each other, they will divide the space into four parts.
+
+2. **Two planes are parallel, and the third one intersects them**: In this case, the space will be divided into six parts.
+
+3. **All three planes intersect along a single line**: If all three planes intersect along the same line, they will divide the space into six parts.
+
+4. **All three planes intersect at a single point (and not along a line)**: If the three planes intersect at a single point (but not along a line), they will divide the space into seven parts.
+
+5. **Two planes intersect, and the third one intersects both but not along the same line**: In this case, the space will be divided into eight parts.
+
+So, the maximum number of parts that three planes can divide a space into is eight.

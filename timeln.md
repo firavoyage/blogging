@@ -6357,4 +6357,48 @@ swimming in mistral ai...
 
 00:33
 
+...
+
 sleep.
+
+02:03
+
+`weather`
+
+playing buring desires by zzz burnice
+
+retro late night bar music feeling...
+
+callback...
+
+`school` `ref` `refref`
+
+today is thurday. on math class in the moring...
+
+liuyuan played "alan becker match man vs math"
+
+in last 15 min. after this is lunch time.
+
+`comparison`
+
+what's the metaphor? 
+
+retro late night bar music & liuyuan playing abstract battling film
+
+sleep.
+
+02:34
+
+sleep.
+
+19:36
+
+friday. weekend.
+
+school life retro...
+
+"周生辉很年轻的,不到40岁"
+
+"啊?"
+
+"可能有点显老"

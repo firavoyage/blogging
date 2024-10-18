@@ -662,3 +662,33 @@ wtf. completely nonsense.
 慢慢张开你的眼睛
 
 垂死病中惊坐起
+
+## fucking high rating guys
+
+你甚至需要别人的认可.
+
+似乎名校学子的自杀率更高...
+
+似乎竞赛选手的性取向更丰富...
+
+## chinese fictional names
+
+张脑子
+
+张显智慧
+
+董得多
+
+尤智慧
+
+汪不掉
+
+汪汪仙贝
+
+全晓得
+
+周基尼
+
+周玩家
+
+叶不错

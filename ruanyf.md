@@ -2,7 +2,7 @@
 
 ## .
 
-> read all ruanyf weekly posts and took passages
+$\text{reading all ruanyf weekly posts and took passages}$
 
 - picked
   - creative apps
@@ -17,7 +17,7 @@
   - useless programming tools
   - business news
 
-> tags are used for seaching
+$\text{tags used for seaching}$
 
 - tags
   - ref
@@ -4628,6 +4628,8 @@ https://github.com/facebook/Docusaurus
 Facebook 出品的 Markdown 静态文档网站的建站工具，前端使用 React 构建。
 
 ## historical perspective of the 20th century quote theory
+
+`history` `view` `quote` `concept`
 
 500 年后，人们想起 20 世纪，不会想到第二次世界大战，它已经变得跟英格兰玫瑰战争一样久远。人们会想到 DNA、青霉素、计算机和微芯片，因为它们改变了文明。但是，他们想到的第一件事，将是 20 世纪是人类开始探索太空的世纪，阿波罗 11 号登月是 20 世纪最重要的事件。
 

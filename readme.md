@@ -2,11 +2,11 @@
 
 ## .
 
-> welcome to hotel california
+> $\text{welcome to hotel california}$
 
-> 🍅 ⏲️ _solanum_
+> 🍅 ⏲️ $solanum$
 
-> 🌕 💤 _23:00_
+> 🌕 💤 $23\text{:}00$
 
 - an entrepreneur, developer, writer
 - grew up in shanghai
@@ -22,6 +22,7 @@
 ## enlightenment
 
 - world is powered by solitude
+- prudence and scepticism
 
 ## perception
 
@@ -51,6 +52,7 @@
   - lost for words (pink floyd)
   - a day in the life (the beatles)
   - magnet (minato aqua & inuyama tamaki)
+  - burning desires (zzz studio & hoyo mix)
   - -tooi sora he- (manack & bruno wen li)
   - haru no kaze (aoi teshima)
   - the legend of zelda: ocarina of time title theme (koji kondo)
@@ -73,6 +75,7 @@
   - soul (2020)
   - the knockout (2023)
   - life in a day (2011)
+  - downton abbey (2010)
   - the chorus (2004)
   - the phantom of the opera (2004)
   - reply 1988 (2015)
@@ -165,16 +168,17 @@
   - what i have seen (chai jing)
   - the scholars (wu jingzi)
   - the chameleon (anton chekhov)
+  - nineteen eighty-four (george orwell)
   - rashomon (ryunosuke akutagawa)
   - one hundred years of solitude (gabriel garcía márquez)
   - i wandered lonely as a cloud (william wordsworth)
   - .meditations on life (zhou guoping)
   - .fortress besieged (qian zhongshu)
   - .godel, escher, bach (douglas hofstadter)
+  - .shakespeare's sonnets (william shakespeare)
   - .haizi's poems (hai zi)
   - .gu cheng's poems (gu cheng)
   - .stray birds (rabindranath tagore)
-  - .shakespeare's sonnets (william shakespeare)
   - .pride and prejudice (jane austen)
   - .if on a winter's night a traveler (italo calvino)
   - .the moon and sixpence (william somerset maugham)
@@ -285,6 +289,7 @@
   - di xuchen
   - diviner in spiritual wind
   - diygod
+  - dong guanxi
   - doris yee yeedor
   - edmund d zhang
   - fabrice bellard
@@ -619,12 +624,12 @@
 
 - - github `firavoyage`
   - gitee mirror `firavoyage`
-- - blogger `firavoyage`
-  - mastodon `firavoyage@mastodon.social` `fira@techhub.social`
+- - mastodon `firavoyage@mastodon.social` `fira@techhub.social`
   - twitter `firascript`
+- - blogger `firavoyage`
+  - cnblogs `fira`
   - wordpress `_`
   - medium `_`
-  - cnblogs `fira`
 - - bilibili `fira_言序`
   - youtube `_`
   - telegram `_`
