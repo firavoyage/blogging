@@ -126,6 +126,43 @@ resultactive=yes
 - -> `tmpfile&trash`
 - config `auto delete files after 30days`
 
+## softwares & updates
+
+- config source
+  - -> `/etc/apt/sources.list.d/`
+- disable `software updater popup`
+
+```
+sudo apt-get remove update-notifier
+```
+
+- disable `auto update`
+  - -> `softwares & updates > other softwares`
+  - `*` `off`
+
+## flatpak
+
+- disable `auto update`
+  - -> `preferences`
+  - software updates `manual`
+
+## gnome tweaks
+
+- config `startup applications`
+  - chromium
+    - `env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/chromium_chromium.desktop /snap/bin/chromium %U`
+  - code
+    - `/usr/share/code/code %F`
+  - fcitx5
+    - `/usr/bin/fcitx5`
+  - vlc media player
+    - `env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/vlc_vlc.desktop /snap/bin/vlc %U`
+  - solanum
+    - `flatpak run org.gnome.Solanum`
+  - ssh key agent
+    - `/usr/bin/gnome-keyring-daemon --start --components=ssh`
+  - update notifier `off`
+
 ## backup
 
 - config
@@ -184,35 +221,6 @@ resultactive=yes
 	</alias>
 </fontconfig>
 ```
-
-## softwares & updates
-
-- config source
-  - -> `/etc/apt/sources.list.d/`
-- disable `software updater popup`
-
-```
-sudo sed --in-place 's/NoDisplay=true/NoDisplay=false/g' /etc/xdg/autostart/update-notifier.desktop
-```
-
-- disable `auto update`
-  - -> `softwares & updates > other softwares`
-  - `*` `off`
-
-## flatpak
-
-- config update
-  - -> `preferences`
-  - software updates `manual`
-
-## gnome tweaks
-
-- config `startup applications`
-  - chromium
-  - code
-  - fcitx5
-  - vlc media player
-  - solanum
 
 ## files
 

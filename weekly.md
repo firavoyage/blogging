@@ -1,10 +1,10 @@
 # $weekly$
 
-> welcome to hotel california
+> $\text{welcome to hotel california}$
 
-> 🍅 ⏲️ _solanum_
+> 🍅 ⏲️ $solanum$
 
-> 🌕 💤 _23:00_
+> 🌕 💤 $23\text{:}00$
 
 ## .
 

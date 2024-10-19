@@ -22,7 +22,6 @@
 ## enlightenment
 
 - world is powered by solitude
-- prudence and scepticism
 
 ## perception
 
@@ -51,13 +50,14 @@
   - the sound of silence (simon & garfunkel)
   - lost for words (pink floyd)
   - a day in the life (the beatles)
-  - magnet (minato aqua & inuyama tamaki)
-  - burning desires (zzz studio & hoyo mix)
   - -tooi sora he- (manack & bruno wen li)
   - haru no kaze (aoi teshima)
   - the legend of zelda: ocarina of time title theme (koji kondo)
   - caresse sur l'océan (bruno coulais & les petits chanteurs de saint-marc)
   - the name of life (joe hisaishi)
+  - magnet (minato aqua & inuyama tamaki)
+  - burning desires (zzz studio & hoyo mix)
+  - internet overdose (aiobahn & kotoko & needy girl overdose)
   - the brave (yoasobi)
   - one last kiss (hikaru utada)
   - ymca (village people)
@@ -84,9 +84,9 @@
   - the legend of 1900 (1998)
   - les misérables (2012)
   - call (2020)
+  - .lucky star (2007)
   - .evangelion (1995)
   - .5 centimeters per second (2007)
-  - .lucky star (2007)
   - .a certain scientific railgun (2009)
   - .the melancholy of haruhi suzumiya (2006)
   - .tonikawa: over the moon for you (2020)
@@ -139,13 +139,21 @@
   - .riddle joker (2020)
   - .wonderful everyday (2010)
   - .bishoujo mangekyou (2020)
-- - hackers and painters (paulg)
+- - to live (yu hua)
+  - road ahead (ruanyf)
+  - the water level of ideology (liu yu)
+  - twelve letters for the young (zhu guangqian)
+  - letter to da zhuang (miao wei)
+  - liu qing's lectures on modern western thought (liu qing)
+  - a long gaze (long yingtai)
+  - one hundred years of solitude (gabriel garcía márquez)
+  - hackers and painters (paulg)
   - metaphors we live by (george lakoff & mark johnson)
   - javascript: the good parts (douglas crockford)
   - javascript: the definitive guide seventh edition (david flanagan)
   - c++ primer fifth edition (barbara e. moo & josée lajoie & stanley b. lippman)
   - c++ primer plus sixth edition (stephen prata)
-  - An Introduction to Programming in Wenyan Language (huang lingdong)
+  - an introduction to programming in wenyan language (huang lingdong)
   - react learn docs (react commutity)
   - refactoring ui (adam wathan & steve schoger)
   - gnome human interface guidelines (gnome)
@@ -157,20 +165,11 @@
   - cut the knot: probability riddles (alexander bogomolny)
   - mathematics, no 2 secondary school attached to east china normal university (math group)
   - physics, no 2 secondary school attached to east china normal university (physics group)
-  - road ahead (ruanyf)
-  - the water level of ideology (liu yu)
-  - twelve letters for the young (zhu guangqian)
-  - letter to da zhuang (miao wei)
-  - liu qing's lectures on modern western thought (liu qing)
-  - a long gaze (long yingtai)
-  - to live (yu hua)
-  - brothers (yu hua)
-  - what i have seen (chai jing)
   - the scholars (wu jingzi)
-  - the chameleon (anton chekhov)
   - nineteen eighty-four (george orwell)
+  - what i have seen (chai jing)
+  - the chameleon (anton chekhov)
   - rashomon (ryunosuke akutagawa)
-  - one hundred years of solitude (gabriel garcía márquez)
   - i wandered lonely as a cloud (william wordsworth)
   - .meditations on life (zhou guoping)
   - .fortress besieged (qian zhongshu)
@@ -226,6 +225,8 @@
   - libreoj
   - codeforces
   - csdiy
+  - kaggle
+  - db ip
   - douban book top 250
   - douban movie top 250
   - my anime list top
@@ -256,7 +257,7 @@
   - minato aqua
   - misha
   - nahida
-  - neko electro
+  - necora nyaru electro kitty
   - numby & topaz
   - orient snowy lotus
   - rubert the emperor
@@ -270,7 +271,7 @@
   - ahdark
   - akt animation
   - andrew yang
-  - anthony fu antfu 
+  - anthony fu antfu
   - antonychenn genshin in chinese
   - barack obama
   - blue striped rabbit
@@ -288,18 +289,19 @@
   - dan abramov overreacted
   - di xuchen
   - diviner in spiritual wind
-  - diygod
+  - diygod & justcc
   - dong guanxi
   - doris yee yeedor
   - edmund d zhang
   - fabrice bellard
   - fireship js framework
   - geek bay geekerwan
-  - gu sen matrix67
+  - gu sen matrix67 & localhost-8080
   - gui minghao
   - hakim el hattab
   - hu qianling
   - huang zhizhong
+  - hui xinyu
   - interpreter gavin
   - james sinclair jrsinclair
   - jiang yanyan
@@ -316,7 +318,6 @@
   - liu chenyu
   - liu yuan
   - livid v2ex
-  - localhost-8080
   - longbow flintlock
   - lu jianhong
   - lv fuyuan
@@ -338,6 +339,7 @@
   - one math
   - paperclip
   - paul graham paulg
+  - pea3nut peadar
   - physixfan
   - promise of playboy
   - qingyu qwq
@@ -543,6 +545,7 @@
 - 不如相忘于江湖
 - 命里有时终须有
 - 惟江上之清风
+- 一花一世界
 - 以有涯随无涯殆已
 - 为者败之执者失之
 - 木已成舟
@@ -609,11 +612,11 @@
 - `memories` life
   - $\to \text{/perspective}$
   - cyber wanderer
-  - $\to \text{/insight}$ 
+  - $\to \text{/insight}$
   - digital memories keeper
-  - $\to \text{/gaming}$ 
+  - $\to \text{/gaming}$
   - internet otaku
-  - $\to \text{/school}$ 
+  - $\to \text{/school}$
   - lifelong student
 - `programs` programmer
 - `music` music lover

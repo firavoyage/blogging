@@ -673,6 +673,8 @@ wtf. completely nonsense.
 
 ## chinese fictional names
 
+`laughter`
+
 张脑子
 
 张显智慧
@@ -692,3 +694,10 @@ wtf. completely nonsense.
 周玩家
 
 叶不错
+
+## sr moment
+
+i want to give acheron a hug
+
+i want to be sparkle's lapdog
+

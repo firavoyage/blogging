@@ -496,6 +496,7 @@
     - imo 2010 p5
     - https://matrix67.itch.io/almost-infinite
   - cr ideas that supercell rejected
+  - brawl stars
   - angry birds classic
   - terraria
   - fly me 2 the moon
