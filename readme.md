@@ -39,11 +39,12 @@
   - calendar & wall clock
   - reading & waifu pillow
   - gardening & origami
-  - second person omniscient narration
-  - dissociation & divine perspective
-  - dark style & night light & low brightness
+  - reflections & remembrance
+  - dissociation & second person omniscient narration
+  - prudence & scepticism
   - math & algorithms
   - functional programming & vanilla js
+  - dark style & night light & low brightness
 - - hotel california (eagles)
   - wind of change (scorpions)
   - scarborough fair (sarah brightman)
@@ -172,12 +173,13 @@
   - rashomon (ryunosuke akutagawa)
   - i wandered lonely as a cloud (william wordsworth)
   - .meditations on life (zhou guoping)
-  - .fortress besieged (qian zhongshu)
   - .godel, escher, bach (douglas hofstadter)
   - .shakespeare's sonnets (william shakespeare)
-  - .haizi's poems (hai zi)
-  - .gu cheng's poems (gu cheng)
+  - .over autumn rooftops (hai zi)
+  - .nameless flowers (gu cheng)
   - .stray birds (rabindranath tagore)
+  - .waiting for godot (samuel beckett)
+  - .fortress besieged (qian zhongshu)
   - .pride and prejudice (jane austen)
   - .if on a winter's night a traveler (italo calvino)
   - .the moon and sixpence (william somerset maugham)
@@ -397,9 +399,9 @@
   - monokai pro
   - atom one dark
   - chromium just black
+  - google books classic
   - material design 2
   - material design 3
-  - google books classic
   - iphone os 6
   - smartisan os 8
   - oxygen os 11
@@ -537,8 +539,8 @@
   - if we say we have fellowship with him yet walk in the darkness, we lie and do not practice the truth.
   - but if we walk in the light as he is in the light, we have fellowship with one another, and the blood of jesus his son cleanses us from all sin.
 - memento mori.
+  - sleep is the best pleasure
   - character is destiny
-  - just let time be precious
   - what's the difference between truth and reality
 - 遂迷不复得路
 - 念念不忘必有回响
@@ -644,7 +646,7 @@
 
 ## insight
 
-> good luck and have fun
+> just let time be precious
 
 - _reminiscent youth_ good old days...
 - _anime otaku_ unworldly girls...

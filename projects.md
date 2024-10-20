@@ -488,18 +488,19 @@
   - observation from divine source
 - game ideas
   - google doodles
-  - mihoyo tiny games
-  - azurlane tiny games
-  - itch tiny games
-  - poki tiny games
-  - adventurine's coins
-    - imo 2010 p5
-    - https://matrix67.itch.io/almost-infinite
+  - honkai star rail
+  - honkai impact third
+  - genshin impact
+  - zenless zone zero
+  - azurlane
+  - itch.io
+  - poki.net
+  - adventurine's coins (imo 2010 p5)
   - cr ideas that supercell rejected
-  - brawl stars
-  - angry birds classic
-  - terraria
   - fly me 2 the moon
+  - angry birds classic
+  - brawl stars
+  - terraria
 - local oj
   - problem readme
   - input files
