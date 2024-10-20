@@ -710,3 +710,7 @@ sr is like a fable
 原神像是童话
 
 星铁像是寓言
+
+## djhs g1t1 memories
+
+"大哥"

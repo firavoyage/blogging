@@ -53,17 +53,18 @@
   - a day in the life (the beatles)
   - -tooi sora he- (manack & bruno wen li)
   - haru no kaze (aoi teshima)
+  - hyehwadong (park bo ram)
+  - the name of life (joe hisaishi)
   - the legend of zelda: ocarina of time title theme (koji kondo)
   - caresse sur l'océan (bruno coulais & les petits chanteurs de saint-marc)
-  - the name of life (joe hisaishi)
-  - magnet (minato aqua & inuyama tamaki)
-  - burning desires (zzz studio & hoyo mix)
-  - internet overdose (aiobahn & kotoko & needy girl overdose)
+  - one more time, one more chance (masayoshi yamazaki)
   - the brave (yoasobi)
   - one last kiss (hikaru utada)
   - ymca (village people)
+  - magnet (minato aqua & inuyama tamaki)
+  - burning desires (zzz studio & hoyo mix)
+  - internet overdose (aiobahn & kotoko & needy girl overdose)
   - kletka (molchat doma)
-  - hyehwadong (park bo ram)
   - sky (beyond)
   - fu shi shan xia (eason chan)
   - counter-clockwise clock (jay chou)
@@ -84,10 +85,10 @@
   - how to make millions before grandma dies (2024)
   - the legend of 1900 (1998)
   - les misérables (2012)
+  - 5 centimeters per second (2007)
   - call (2020)
   - .lucky star (2007)
   - .evangelion (1995)
-  - .5 centimeters per second (2007)
   - .tonikawa: over the moon for you (2020)
   - .my youth romantic comedy is wrong, as i expected (2011)
   - .the melancholy of haruhi suzumiya (2006)
@@ -221,6 +222,7 @@
   - reddit old
   - v2ex
   - nga bbs
+  - 4chan
   - zhihu following
   - luogu
   - vijos
@@ -332,7 +334,7 @@
   - memoir of prosperity
   - mike mirzayanov codeforces
   - mohamad light
-  - mr marmot little pink wojaks
+  - mr marmot & wojaks
   - mr yu teaching physics
   - nat friedman
   - nicholas wei bro

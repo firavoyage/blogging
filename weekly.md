@@ -47,8 +47,8 @@
 
 - play sr
 - watch 5 centimeters per second
-- watch evangelion
 - watch lucky star
+- watch evangelion
 - play senrenbanka
 
 > _weekend enlightenment_
