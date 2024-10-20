@@ -1446,6 +1446,8 @@ In this example, the `Rectangle` struct has two member variables (`width` and `h
 
 ## voyage js
 
+`dev` `guide` `library`
+
 > $\to mistral \space large \space 2$
 
 > voyage.js web framework
@@ -1706,6 +1708,8 @@ To get started with Voyage.js, you would typically follow these steps:
 Voyage.js, like other web frameworks, aims to provide a comprehensive set of tools and conventions to streamline web development. By leveraging its features, developers can build scalable, maintainable, and performant web applications more efficiently. If you are considering using Voyage.js, be sure to check the official documentation and community resources for the latest information and best practices.
 
 ## timsort
+
+`dev` `math` `guide`
 
 > $\to mistral \space large \space 2$
 
@@ -4130,7 +4134,7 @@ Each of these examples demonstrates a simple counter app with an editable input 
 
 ## js framework of top sites
 
-`list` `dev` `ref` `comparison`
+`list` `dev` `comparison`
 
 > $\to mistral \space large \space 2$
 
@@ -6351,7 +6355,7 @@ Lodash is a powerful tool that can greatly simplify and optimize your JavaScript
 
 ## p5 js
 
-`dev` `guide`
+`dev` `guide` `library`
 
 > $\to mistral \space large \space 2$
 
@@ -6402,7 +6406,7 @@ This sketch creates a canvas with a blue ellipse that follows the mouse cursor.
 
 ## three js
 
-`dev` `guide`
+`dev` `guide` `library`
 
 > $\to mistral \space large \space 2$
 
@@ -6653,6 +6657,8 @@ Sentence: "I love eating ice cream on a hot day."
     - Noun: day
 
 ## deconstructionism
+
+`concept` `literary`
 
 > $\to mistral \space large \space 2$
 
@@ -7372,7 +7378,7 @@ Google Reader was widely popular among users who wanted to stay updated with mul
 
 Since its closure, several alternatives have emerged to fill the gap left by Google Reader, including Feedly, Inoreader, and The Old Reader, among others. These services offer similar functionality and have gained popularity among former Google Reader users.
 
-## sof doc closure
+## stack overflow doc closure
 
 `concept` `history` `dev`
 
@@ -7571,3 +7577,784 @@ So, the maximum number of parts that six planes can divide a space into is 42.
 
 This maximum is achieved when the planes are positioned in such a way that they intersect each other in the most complex manner possible, creating the greatest number of distinct regions.
 
+## jquery
+
+`dev` `guide` `library` `comparison`
+
+> $\to mistral \space large \space 2$
+
+> jquery
+
+jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animating, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers. Here are some key features and examples of how to use jQuery:
+
+### Key Features
+
+1. **DOM Manipulation**: Easily select, traverse, and manipulate HTML elements.
+2. **Event Handling**: Simplify the process of handling events like clicks, hovers, and form submissions.
+3. **Ajax**: Make asynchronous HTTP requests to load data in the background without reloading the page.
+4. **Animations**: Create animations and effects with minimal code.
+5. **Cross-Browser Compatibility**: jQuery handles many cross-browser inconsistencies, making your code work consistently across different browsers.
+
+### Getting Started
+
+To use jQuery, you need to include the jQuery library in your HTML file. You can either download it from the official jQuery website or use a CDN (Content Delivery Network).
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>jQuery Example</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  </head>
+  <body>
+    <h1>Hello, jQuery!</h1>
+    <button id="myButton">Click Me</button>
+
+    <script>
+      $(document).ready(function () {
+        $("#myButton").click(function () {
+          alert("Button was clicked!");
+        });
+      });
+    </script>
+  </body>
+</html>
+```
+
+### Basic Usage
+
+#### Selecting Elements
+
+```javascript
+// Select all elements with the class 'myClass'
+$(".myClass").css("color", "red");
+
+// Select the element with the ID 'myId'
+$("#myId").text("New Text");
+```
+
+#### Event Handling
+
+```javascript
+// Handle click event on a button
+$("#myButton").click(function () {
+  alert("Button was clicked!");
+});
+
+// Handle hover event on a div
+$(".myDiv").hover(
+  function () {
+    $(this).css("background-color", "yellow");
+  },
+  function () {
+    $(this).css("background-color", "");
+  }
+);
+```
+
+#### Ajax Requests
+
+```javascript
+// Make a GET request
+$.get("https://api.example.com/data", function (data) {
+  console.log(data);
+});
+
+// Make a POST request
+$.post("https://api.example.com/data", { key: "value" }, function (data) {
+  console.log(data);
+});
+```
+
+#### Animations
+
+```javascript
+// Fade out an element
+$("#myElement").fadeOut("slow");
+
+// Slide down an element
+$("#myElement").slideDown("slow");
+
+// Animate an element
+$("#myElement").animate(
+  {
+    opacity: 0.25,
+    left: "+=50",
+    height: "toggle",
+  },
+  5000,
+  function () {
+    // Animation complete
+  }
+);
+```
+
+### Conclusion
+
+jQuery simplifies many common tasks in JavaScript, making it easier to write cross-browser compatible code. While modern JavaScript frameworks and libraries like React, Angular, and Vue.js have become popular, jQuery is still widely used and remains a valuable tool for many web developers.
+
+## vanilla js
+
+`dev` `guide` `library` `comparison`
+
+> $\to mistral \space large \space 2$
+
+> vanilla js
+
+Vanilla JavaScript refers to using plain JavaScript without any additional libraries or frameworks. It's a great way to understand the core concepts of JavaScript and how it interacts with the DOM (Document Object Model). Here are some basic examples to get you started with vanilla JavaScript:
+
+### 1. Selecting Elements
+
+You can select elements from the DOM using various methods:
+
+```javascript
+// Select by ID
+const elementById = document.getElementById("myId");
+
+// Select by class name
+const elementsByClass = document.getElementsByClassName("myClass");
+
+// Select by tag name
+const elementsByTag = document.getElementsByTagName("div");
+
+// Select by CSS selector
+const elementByQuery = document.querySelector(".myClass");
+const elementsByQueryAll = document.querySelectorAll(".myClass");
+```
+
+### 2. Manipulating Elements
+
+You can manipulate the content and attributes of elements:
+
+```javascript
+// Change the text content
+elementById.textContent = "New Text";
+
+// Change the inner HTML
+elementById.innerHTML = "<strong>New HTML</strong>";
+
+// Change an attribute
+elementById.setAttribute("data-custom", "value");
+
+// Add a class
+elementById.classList.add("newClass");
+
+// Remove a class
+elementById.classList.remove("oldClass");
+```
+
+### 3. Event Listeners
+
+You can add event listeners to elements to respond to user interactions:
+
+```javascript
+// Add a click event listener
+elementById.addEventListener("click", function () {
+  alert("Element clicked!");
+});
+
+// Add a mouseover event listener
+elementById.addEventListener("mouseover", function () {
+  elementById.style.backgroundColor = "yellow";
+});
+
+// Add a mouseout event listener
+elementById.addEventListener("mouseout", function () {
+  elementById.style.backgroundColor = "";
+});
+```
+
+### 4. Creating and Appending Elements
+
+You can create new elements and append them to the DOM:
+
+```javascript
+// Create a new div element
+const newDiv = document.createElement("div");
+
+// Set the text content
+newDiv.textContent = "New Div";
+
+// Append the new div to the body
+document.body.appendChild(newDiv);
+```
+
+### 5. Fetching Data
+
+You can fetch data from a server using the Fetch API:
+
+```javascript
+fetch("https://api.example.com/data")
+  .then((response) => response.json())
+  .then((data) => {
+    console.log(data);
+    // Do something with the data
+  })
+  .catch((error) => {
+    console.error("Error:", error);
+  });
+```
+
+### 6. Form Handling
+
+You can handle form submissions and validate inputs:
+
+```javascript
+const form = document.querySelector("form");
+
+form.addEventListener("submit", function (event) {
+  event.preventDefault(); // Prevent the default form submission
+
+  const name = document.querySelector("#name").value;
+  const email = document.querySelector("#email").value;
+
+  if (name === "" || email === "") {
+    alert("Please fill in all fields");
+  } else {
+    // Process the form data
+    console.log("Name:", name);
+    console.log("Email:", email);
+  }
+});
+```
+
+These examples cover some of the basic operations you can perform with vanilla JavaScript. As you become more comfortable with these concepts, you can explore more advanced topics like asynchronous programming, working with APIs, and building complex user interfaces.
+
+## react
+
+`dev` `guide` `library` `comparison`
+
+> $\to mistral \space large \space 2$
+
+> reactjs
+
+ReactJS, often simply referred to as React, is a popular JavaScript library for building user interfaces, particularly single-page applications where you need a fast and interactive user experience. It was developed and is maintained by Facebook along with a large community of individual developers and companies.
+
+Here are some key concepts and features of ReactJS:
+
+### Key Concepts
+
+1. **Components**:
+
+   - React applications are built using components. A component is a small, reusable piece of code that returns a React element to be rendered to the page. Components can be functional or class-based.
+
+2. **JSX (JavaScript XML)**:
+
+   - JSX is a syntax extension for JavaScript that looks similar to HTML. It allows you to write HTML-like code within JavaScript.
+
+3. **State and Props**:
+
+   - **State**: A built-in object that is used to contain data or information about the component. State can change over time, and whenever it changes, the component re-renders.
+   - **Props**: Short for properties, props are read-only values passed down from parent components to child components.
+
+4. **Virtual DOM**:
+
+   - React uses a virtual DOM to improve performance. The virtual DOM is a lightweight copy of the actual DOM. When the state of an object changes, the virtual DOM changes first. Then, React compares the virtual DOM with a snapshot that was taken before the update, calculates the difference, and updates only the necessary parts of the real DOM.
+
+5. **Lifecycle Methods**:
+
+   - Class components have lifecycle methods that you can override to run code at particular times in the process. Examples include `componentDidMount`, `componentDidUpdate`, and `componentWillUnmount`.
+
+6. **Hooks**:
+   - Introduced in React 16.8, hooks allow you to use state and other React features in functional components. Common hooks include `useState`, `useEffect`, `useContext`, and `useReducer`.
+
+### Basic Example
+
+Here's a simple example of a functional component using hooks:
+
+```jsx
+import React, { useState } from "react";
+
+function Counter() {
+  const [count, setCount] = useState(0);
+
+  return (
+    <div>
+      <p>You clicked {count} times</p>
+      <button onClick={() => setCount(count + 1)}>Click me</button>
+    </div>
+  );
+}
+
+export default Counter;
+```
+
+### Setting Up a React Project
+
+To set up a new React project, you can use Create React App, a popular toolchain for building React applications:
+
+```bash
+npx create-react-app my-app
+cd my-app
+npm start
+```
+
+This will create a new React project in the `my-app` directory and start the development server.
+
+### Ecosystem
+
+React has a rich ecosystem with many libraries and tools that can help you build complex applications. Some popular ones include:
+
+- **Redux**: A state management library for JavaScript apps.
+- **React Router**: A library for routing in React applications.
+- **Material-UI**: A popular UI component library for React.
+- **Next.js**: A React framework for server-side rendering and static site generation.
+
+### Conclusion
+
+ReactJS is a powerful and flexible library for building user interfaces. Its component-based architecture, virtual DOM, and hooks make it a popular choice for developers building modern web applications.
+
+## vue
+
+`dev` `guide` `library` `comparison`
+
+> $\to mistral \space large \space 2$
+
+> vuejs
+
+Vue.js is a progressive JavaScript framework used for building user interfaces and single-page applications. It is designed to be incrementally adoptable, meaning you can use it as a library to enhance an existing project or as a full-fledged framework to build complex applications from scratch. Here are some key features and concepts of Vue.js:
+
+### Key Features
+
+1. **Reactive Data Binding**: Vue.js uses a reactive system that automatically updates the DOM when the data changes.
+2. **Component-Based Architecture**: Vue.js encourages the use of reusable components, which makes the code more modular and easier to maintain.
+3. **Directives**: Vue.js provides built-in directives like `v-if`, `v-for`, `v-bind`, and `v-model` to manipulate the DOM easily.
+4. **Virtual DOM**: Vue.js uses a virtual DOM to optimize performance by minimizing direct manipulation of the real DOM.
+5. **Single-File Components**: Vue.js supports single-file components (`.vue` files) that encapsulate the template, script, and styles in a single file.
+6. **State Management**: Vuex is the official state management library for Vue.js, which helps manage the application state in a predictable way.
+7. **Routing**: Vue Router is the official router for Vue.js, which allows you to build single-page applications with multiple views.
+
+### Basic Example
+
+Here's a simple example to get you started with Vue.js:
+
+1. **Include Vue.js**: You can include Vue.js via a CDN or install it via npm.
+
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Vue.js Example</title>
+    <script src="https://cdn.jsdelivr.net/npm/vue@2"></script>
+  </head>
+  <body>
+    <div id="app">
+      <p>{{ message }}</p>
+      <input v-model="message" />
+    </div>
+
+    <script>
+      new Vue({
+        el: "#app",
+        data: {
+          message: "Hello Vue.js!",
+        },
+      });
+    </script>
+  </body>
+</html>
+```
+
+### Components
+
+Components are the building blocks of a Vue.js application. Here's an example of a simple component:
+
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Vue.js Component Example</title>
+    <script src="https://cdn.jsdelivr.net/npm/vue@2"></script>
+  </head>
+  <body>
+    <div id="app">
+      <my-component></my-component>
+    </div>
+
+    <script>
+      Vue.component("my-component", {
+        template: "<div>{{ message }}</div>",
+        data: function () {
+          return {
+            message: "Hello from my component!",
+          };
+        },
+      });
+
+      new Vue({
+        el: "#app",
+      });
+    </script>
+  </body>
+</html>
+```
+
+### Single-File Components
+
+If you're using a build tool like Webpack, you can use single-file components (`.vue` files):
+
+```vue
+<template>
+  <div>
+    <p>{{ message }}</p>
+    <input v-model="message" />
+  </div>
+</template>
+
+<script>
+export default {
+  data() {
+    return {
+      message: "Hello from single-file component!",
+    };
+  },
+};
+</script>
+
+<style scoped>
+p {
+  color: blue;
+}
+</style>
+```
+
+### Vue CLI
+
+Vue CLI is a command-line tool for scaffolding Vue.js projects. You can install it via npm:
+
+```bash
+npm install -g @vue/cli
+```
+
+To create a new project:
+
+```bash
+vue create my-project
+```
+
+### Conclusion
+
+Vue.js is a powerful and flexible framework that makes it easy to build modern web applications. Whether you're a beginner or an experienced developer, Vue.js offers a smooth learning curve and a robust ecosystem to help you build anything from simple web pages to complex applications.
+
+## svelte
+
+`dev` `guide` `library` `comparison`
+
+> $\to mistral \space large \space 2$
+
+> sveltejs
+
+Svelte is a modern JavaScript framework for building user interfaces. Unlike traditional frameworks such as React or Vue, Svelte shifts the work from the browser to a compile step, resulting in highly optimized vanilla JavaScript that directly manipulates the DOM. Here are some key features and concepts of Svelte:
+
+### Key Features
+
+1. **Compile-Time Optimization**: Svelte compiles your code to highly efficient vanilla JavaScript at build time, which means there's no need for a virtual DOM.
+
+2. **Reactive Declarations**: Svelte uses reactive declarations to automatically update the DOM when the state changes. This makes the code more readable and easier to maintain.
+
+3. **Svelte Store**: Svelte provides a simple and powerful state management system called Svelte Store, which can be used to manage global state.
+
+4. **Scoped Styles**: Svelte supports scoped styles, which means styles are scoped to the component they are defined in, preventing style leakage.
+
+5. **Easy to Learn**: Svelte has a simple and intuitive syntax, making it easy for developers to pick up and start building applications quickly.
+
+### Basic Concepts
+
+#### Components
+
+Components in Svelte are defined using a `.svelte` file, which contains HTML, CSS, and JavaScript. Here's a simple example:
+
+```svelte
+<script>
+  let count = 0;
+
+  function increment() {
+    count += 1;
+  }
+</script>
+
+<style>
+  button {
+    font-size: 1.5em;
+  }
+</style>
+
+<button on:click={increment}>
+  Clicked {count} {count === 1 ? 'time' : 'times'}
+</button>
+```
+
+#### Reactive Statements
+
+Reactive statements in Svelte automatically update when the values they depend on change. They are defined using the `$:` syntax.
+
+```svelte
+<script>
+  let count = 0;
+
+  $: doubled = count * 2;
+</script>
+
+<p>Count: {count}</p>
+<p>Doubled: {doubled}</p>
+```
+
+#### Stores
+
+Svelte provides a simple way to manage global state using stores. Stores can be writable or read-only.
+
+```svelte
+<script>
+  import { writable } from 'svelte/store';
+
+  const count = writable(0);
+
+  function increment() {
+    count.update(n => n + 1);
+  }
+</script>
+
+<button on:click={increment}>
+  Clicked {$count} {count === 1 ? 'time' : 'times'}
+</button>
+```
+
+#### Lifecycle Functions
+
+Svelte provides lifecycle functions to run code at specific points in a component's lifecycle, such as `onMount`, `onDestroy`, `beforeUpdate`, and `afterUpdate`.
+
+```svelte
+<script>
+  import { onMount } from 'svelte';
+
+  onMount(() => {
+    console.log('Component mounted');
+  });
+</script>
+
+<p>Hello, world!</p>
+```
+
+### Getting Started
+
+To get started with Svelte, you can use the official Svelte template or set up a project manually. Here's how to set up a project using the official template:
+
+1. **Install Node.js and npm** if you haven't already.
+
+2. **Create a new Svelte project** using the official template:
+
+   ```bash
+   npx degit sveltejs/template my-svelte-project
+   cd my-svelte-project
+   npm install
+   npm run dev
+   ```
+
+3. **Open your browser** and navigate to `http://localhost:5000` to see your Svelte app in action.
+
+### Conclusion
+
+Svelte is a powerful and efficient framework for building modern web applications. Its unique approach to shifting work to the compile step results in highly optimized code, making it a great choice for performance-critical applications. Whether you're building a small personal project or a large-scale enterprise application, Svelte provides the tools you need to create fast and maintainable user interfaces.
+
+## mithril
+
+`dev` `guide` `library` `comparison`
+
+> $\to mistral \space large \space 2$
+
+> mithriljs
+
+Mithril.js is a modern client-side JavaScript framework for building Single Page Applications (SPAs). It's known for its small size, high performance, and simplicity. Here are some key features and concepts of Mithril.js:
+
+1. **Small Size**: Mithril.js is incredibly small, with a gzipped size of around 8 KB, making it one of the smallest frameworks available.
+
+2. **Virtual DOM**: Mithril.js uses a virtual DOM to minimize browser redraws, leading to faster rendering and improved performance.
+
+3. **Components**: In Mithril.js, you build your application using components. A component is a JavaScript function that returns a virtual DOM tree. Components can be functional (stateless) or class-based (stateful).
+
+4. **Routing**: Mithril.js has a built-in router for managing navigation in your SPA.
+
+5. **XHR**: Mithril.js provides a simple API for making XMLHttpRequests.
+
+Here's a simple example of a Mithril.js component:
+
+```javascript
+// A simple counter component
+const Counter = {
+  view: function (vnode) {
+    return m("div", [
+      m("button", { onclick: vnode.attrs.onDecrease }, "-"),
+      m("span", vnode.attrs.count),
+      m("button", { onclick: vnode.attrs.onIncrease }, "+"),
+    ]);
+  },
+};
+
+// A stateful component that uses the Counter component
+const App = {
+  oninit: function (vnode) {
+    vnode.state.count = 0;
+  },
+  view: function (vnode) {
+    return m("div", [
+      m(Counter, {
+        count: vnode.state.count,
+        onIncrease: () => {
+          vnode.state.count++;
+        },
+        onDecrease: () => {
+          vnode.state.count--;
+        },
+      }),
+    ]);
+  },
+};
+
+// Mount the App component to the DOM
+m.mount(document.body, App);
+```
+
+To get started with Mithril.js, you can include it via a script tag or install it via npm:
+
+```html
+<script src="https://unpkg.com/mithril/mithril.js"></script>
+```
+
+Or using npm:
+
+```bash
+npm install mithril
+```
+
+Then, you can import it in your JavaScript file:
+
+```javascript
+import m from "mithril";
+```
+
+For more information, you can check out the official Mithril.js documentation: <https://mithril.js.org/>
+
+## alpine
+
+`dev` `guide` `library` `comparison`
+
+> $\to mistral \space large \space 2$
+
+> alpinejs
+
+Alpine.js is a lightweight JavaScript framework designed to bring the reactivity and declarative nature of modern JavaScript frameworks to your HTML. It's often referred to as a "JavaScript framework for the HTML-centric developer" because it allows you to add interactivity to your HTML without having to write much JavaScript.
+
+Here are some key features and concepts of Alpine.js:
+
+### Key Features
+
+1. **Lightweight**: Alpine.js is very small in size, making it easy to include in your projects without significantly increasing load times.
+2. **Declarative**: It allows you to write interactive components directly in your HTML using a simple syntax.
+3. **Reactive**: Alpine.js provides reactive data binding, meaning that changes to your data automatically update the DOM.
+4. **Easy to Learn**: The syntax is straightforward and easy to pick up, especially for those familiar with HTML and basic JavaScript.
+
+### Basic Concepts
+
+1. **x-data**: This directive is used to define a new component scope. It can be used to initialize data and methods.
+
+   ```html
+   <div x-data="{ open: false }">
+     <button @click="open = !open">Toggle</button>
+     <div x-show="open">Content</div>
+   </div>
+   ```
+
+2. **x-show**: This directive is used to conditionally show or hide an element based on a boolean value.
+
+   ```html
+   <div x-show="open">Content</div>
+   ```
+
+3. **x-bind**: This directive is used to bind attributes to data.
+
+   ```html
+   <input type="text" x-bind:value="name" />
+   ```
+
+4. **x-on**: This directive is used to bind event listeners.
+
+   ```html
+   <button x-on:click="open = !open">Toggle</button>
+   ```
+
+5. **x-model**: This directive is used for two-way data binding, similar to Vue.js's `v-model`.
+
+   ```html
+   <input type="text" x-model="name" />
+   ```
+
+6. **x-ref**: This directive is used to reference DOM elements.
+   ```html
+   <input type="text" x-ref="input" />
+   ```
+
+### Example
+
+Here's a simple example of a dropdown menu using Alpine.js:
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Alpine.js Example</title>
+    <script src="https://unpkg.com/alpinejs" defer></script>
+  </head>
+  <body>
+    <div x-data="{ open: false }">
+      <button @click="open = !open">Toggle Dropdown</button>
+      <div x-show="open">
+        <ul>
+          <li>Item 1</li>
+          <li>Item 2</li>
+          <li>Item 3</li>
+        </ul>
+      </div>
+    </div>
+  </body>
+</html>
+```
+
+In this example, clicking the button toggles the visibility of the dropdown menu. The `x-data` directive initializes the component's state, and the `x-show` directive conditionally displays the dropdown menu based on the `open` state.
+
+### Conclusion
+
+Alpine.js is a powerful and lightweight tool for adding interactivity to your HTML without the need for complex JavaScript frameworks. Its simplicity and ease of use make it a great choice for small to medium-sized projects where you want to add dynamic behavior without a lot of overhead.
+
+## abstract culture
+
+`concept` `literary` `ref`
+
+> $\to mistral \space large \space 2$
+
+> internet abstract culture
+
+Internet abstract culture refers to the digital environment's collective behaviors, norms, values, and creative outputs that have evolved and emerged online. This culture is abstract because it exists primarily in the digital realm, transcending physical boundaries and traditional cultural norms. Here are some key aspects of internet abstract culture:
+
+1. **Memes**: Memes are a significant part of internet abstract culture. They are ideas, behaviors, or styles that spread from person to person within a culture, often taking the form of images, videos, or text, and they evolve and mutate over time.
+
+2. **Online Communities**: Platforms like Reddit, 4chan, or Discord host countless communities where people with shared interests congregate and develop their own subcultures, complete with unique language, norms, and hierarchies.
+
+3. **Net Art and Digital Art**: This includes artistic works that are created and experienced online, often pushing the boundaries of traditional art forms and exploring the unique possibilities of digital media.
+
+4. **Internet Language and Slang**: The internet has spawned its own linguistic trends and slang, such as acronyms (LOL, BRB), emoticons, emojis, and unique phrasing that often emerges from online communities.
+
+5. **Viral Content**: Videos, images, or stories that gain rapid popularity online, spreading quickly through social sharing, are a prominent feature of internet culture.
+
+6. **Online Gaming Culture**: This includes the norms, behaviors, and creative outputs of online gaming communities, from esports to role-playing games.
+
+7. **Hacktivism and Online Activism**: The internet has enabled new forms of activism, where collective action is coordinated and carried out online, often aimed at political or social change.
+
+8. **Remix Culture**: The practice of combining or editing existing materials to produce new creative works is prevalent online, facilitated by the ease of digital reproduction and distribution.
+
+9. **Anonymity and Pseudonymity**: The ability to interact online without revealing one's real-world identity has led to unique cultural phenomena, both positive (such as increased freedom of expression) and negative (like trolling and cyberbullying).
+
+Internet abstract culture is constantly evolving, driven by the rapid pace of technological change and the influx of new users. It's a complex and multifaceted ecosystem that reflects the diversity and creativity of its global user base.

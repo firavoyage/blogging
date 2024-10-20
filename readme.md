@@ -2,11 +2,11 @@
 
 ## .
 
-> $\text{welcome to hotel california}$
+> $welcome \space to \space hotel \space california$
 
 > 🍅 ⏲️ $solanum$
 
-> 🌕 💤 $23\text{:}00$
+> 🌕 💤 $\text{23:00}$
 
 - an entrepreneur, developer, writer
 - grew up in shanghai
@@ -88,11 +88,11 @@
   - .lucky star (2007)
   - .evangelion (1995)
   - .5 centimeters per second (2007)
-  - .a certain scientific railgun (2009)
-  - .the melancholy of haruhi suzumiya (2006)
   - .tonikawa: over the moon for you (2020)
   - .my youth romantic comedy is wrong, as i expected (2011)
+  - .the melancholy of haruhi suzumiya (2006)
   - .your lie in april (2014)
+  - .a certain scientific railgun (2009)
   - .the big bang theory (2007)
   - .frieren: beyond journey's end (2023)
   - .bang dream! it's mygo!!!!! (2023)
@@ -284,6 +284,7 @@
   - chen suiyi chenbimo
   - chen xiao origami
   - chen zihao
+  - chino moca qiront
   - cloudwu codingnow
   - coding startup
   - cr ryley
@@ -317,6 +318,7 @@
   - kirikaze chiyuki chyk
   - kiun b
   - kkksc03
+  - linesoft
   - liu chenyu
   - liu yuan
   - livid v2ex
@@ -363,6 +365,7 @@
   - wang xiaofeng
   - wang zhaohai
   - wes bos
+  - with.fish lz233
   - xia chuyun
   - yan xuecan acwing
   - yang yang
@@ -555,10 +558,10 @@
 - 欲买桂花同载酒
 - 壁上小虫忽跃落衿袖间
 - 池鱼思故渊
+- 无心插柳柳成荫
 - 塞翁失马焉知非福
 - 鸢飞戾天者望峰息心
 - 寓形宇内复几时
-- 无心插柳柳成荫
 - 临渊羡鱼退而结网
 - 回首向来萧瑟处
 - 当时只道是寻常
@@ -646,7 +649,9 @@
 
 ## insight
 
-> just let time be precious
+> $just \space let \space time \space be \space precious$
+
+> $good \space luck \space and \space have \space fun$
 
 - _reminiscent youth_ good old days...
 - _anime otaku_ unworldly girls...
@@ -657,4 +662,4 @@
 
 > 以上, 祝你度过智识的, 审美的一天
 
-> so much for this, have a nice day.
+> $so \space much \space for \space this, \space have \space a \space nice \space day.$

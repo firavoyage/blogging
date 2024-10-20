@@ -701,3 +701,12 @@ i want to give acheron a hug
 
 i want to be sparkle's lapdog
 
+## mihoyo games
+
+gi is like a fairy tale
+
+sr is like a fable
+
+原神像是童话
+
+星铁像是寓言

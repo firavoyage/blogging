@@ -1,15 +1,80 @@
 # $weekly$
 
-> $\text{welcome to hotel california}$
+> $welcome \space to \space hotel \space california$
 
 > 🍅 ⏲️ $solanum$
 
-> 🌕 💤 $23\text{:}00$
+> 🌕 💤 $\text{23:00}$
 
 ## .
 
 - _make tools elegant_
 - _make knowledge pure_
+
+## 20241020
+
+> _foresight_
+
+- think svelte examples in voyage
+- think chakra components in voyage
+- think chakra in sr
+- write voyagejs
+- think slidev in pre
+- write pre app
+- design intuitive cpp
+- design pure math
+- watch bangumis
+- listen to podcasts
+- sync phone
+- learn math & english
+
+> _everyday_
+
+- visit digital homes (al sr)
+
+> _weekend endeavour_
+
+- write voyagejs
+- think chakra in sr
+- write pre app
+- design intuitive cpp
+- design pure math
+- write leisure app
+- write eat app
+- write float app
+
+> _weekend diversion_
+
+- play sr
+- watch 5 centimeters per second
+- watch evangelion
+- watch lucky star
+- play senrenbanka
+
+> _weekend enlightenment_
+
+- learn origami
+- read ruanyf weekly
+- classify ruanyf into tags
+- make reflections markdown
+- listen to podcasts
+
+> _school_
+
+- write english papers translation
+- write math challenger
+- read one hundred years of solitude
+
+> _after school_
+
+- memorize tem 8 vocabulary
+- write physics challenger
+
+> _meanwhile_
+
+- sync phone
+- eat berryberry
+- watch simplelive
 
 ## 20241016
 

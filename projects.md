@@ -34,30 +34,39 @@
 
 ### `pre`
 
-> the simplicity of presentation
+> simplicity of presentation
 
-- just content
-  - no animations or effects
-- markdown extended
-  - page style
-  - content block
-- structure view
-  - title page
-  - contents page
-  - chapter info page
-- footer
-  - author
-  - date
-  - page index
-- export
+- features
+  - content focused
+  - extended markdown
+  - portable
+  - symbolic interface
+  - cli support
+  - pwa based
+- tags
+  - template
+  - theme
+  - collapsed block
+- elements
+  - title
+  - table of contents
+  - chapter intro
+  - content
+  - footnote
+  - author & date & page index
+- export to
   - pdf
   - ppt
   - html
+  - image set
+- various themes
+  - by voyage
 - inspired by
+  - overleaf
   - slidev
+  - revealjs
+  - marp
   - fusuma
-  - nodeppt
-  - presenta
 
 ### `board`
 
@@ -76,7 +85,7 @@
   - click to add block
   - drag to link
 - examples
-  - latest phone stats comparison 
+  - latest phone stats comparison
   - opml following list
   - math problem solution
   - algorithm and data structure visualization
@@ -165,42 +174,56 @@
 
 > listen in solitude
 
-- from everywhere
+- features
   - index by search engines
-  - source from any music and video sites
-- distraction free
-  - no ads no stats no comments
-  - away from the hustle and bustle
-- transparent algorithm
-  - preference stats
-  - recommendation
-  - ranking weight
-- lists
-  - mistral classic
-  - mistral ballads
+  - various sources
+  - symbolic interface
+  - transparent algorithm
+  - no comment page
+  - quality selection in settings
+- algorithm
+  - by musician
+  - by genre
+  - by playlist
+  - by popularity
+- source
+  - music sites
+  - music videos
+  - library
 - local based
-  - multi download
   - import and export
-  - sync with most platforms
+  - sync
 - various themes
   - by voyage
 - inspired by
+  - myfreemp3
   - spotify
   - apple music
   - youtube music
   - soundcloud
-  - my free mp3
 
 ### `theatre`
 
-> retro theatre feeling
+> retro theatre board
 
-- distraction free
-  - only a few good pages
+- features
+  - timeln & calendar
+  - various ratings
+  - magnet sources
+- order
+  - cover
+  - title & translations & year
+  - director & actors
+  - ratings
+  - intro
+  - episodes
+  - short comments
+  - long comments
 - various themes
   - by voyage
 - inspired by
   - imdb
+  - douban
   - piratebay
   - netflix
 
@@ -228,30 +251,23 @@
 
 ### `eat`
 
-> survive the content farms | breathe in the digital age
+> breathe in the content overload
 
-- one subscription list for everywhere
-  - work with popular blog sites and video sites
-  - not status sites so instagram reddit twitter aint included
-- trending page included
-- transparent recommendation algorithm
-  - change the recommendation algorithm by just importing a script
-  - view and adjust your user avatar
-- capsule things
-  - by fav
+- features
+  - various forms not just text
+  - subscription script for popular sites
+  - no algorithm just categorized lists
+  - opml support
 - local based
-  - all blog posts are downloaded local
-  - you can read some anywhere anytime
-  - downloads and subscriptions can be imported and exported
-- export
-  - json eat
-  - json feed
-  - rss
+  - read anywhere anytime
+  - import and export
+  - autosave by fav
 - inspired by
   - google reader
-  - net news wire
+  - netnewswire
   - rsshub
-  - webfollow top rss list
+  - webfollow list
+  - rss source list
 
 ### `fav`
 
@@ -290,7 +306,7 @@
 
 ### `shelf`
 
-> the elegance of a bookshelf
+> elegance of the bookshelf
 
 - source
   - from search engines and user script
@@ -349,50 +365,53 @@
 
 ### `leisure`
 
-> vocabulary memorization made simple | "自在"
+> simplicity of memorization | "自在"
 
-- simple
-  - only one next button
-  - same amount everyday
-- distraction free
-  - wordbook list
-  - learn and review combined
-  - stats and timeln
-  - no more unnecessary pages
-- listen
-  - review
-  - foresee
-  - by gptsovits
-- words filtered and categorized
-  - frequency from kaggle english word frequency
-  - difficulty from kaggle word difficulty prediction
-  - root and affix from kaggle morphemic segmentation of english words
-  - thesaurus from kaggle wordnet dictionary thesaurus
-- favorability based
-  - some words get high fav at first
-  - same root with different affix
-  - quick reaction clicking next
-- definition page
-  - chinese translation from google and mistral ai
-  - english explanation from cambridge and collins
-  - synonyms from cambridge and merriam webster
-  - example sentences from collins and merriam webster
-  - history from oxford
-  - origin from collins and oxford
+- features
+  - symbolic interface & reduced control
+  - word selection before memorization
+  - anime characters & gptsovits
+  - elegant word cards
+  - dynamic calendar & stats insight
+  - pwa based
+- modes
+  - selection
+  - paperback reading
+  - learn & review
+  - quiz
+  - spell
+- cards
+  - translation
+  - thesaurus
+  - root and affix
+  - explanation
+  - example sentences
+  - history & origin
+  - frequency
+- source
+  - chatgpt & mistral ai
+  - wikipedia
+  - github
+  - cambridge
+  - collins
+  - merriam webster
+  - oxford
+  - kaggle english word frequency
+  - kaggle morphemic segmentation of english words
+  - kaggle wordnet dictionary thesaurus
 - local based
-  - offline use
+  - memorize anytime anywhere
   - static dict file
-  - pwa support
 - various themes
   - by voyage
 - inspired by
-  - paper wordbooks
+  - paperback wordbooks
   - anki
+  - wordforest
   - bubeidanci
-  - shanbay 
+  - shanbay
   - maimemo
   - tantan
-  - list
 
 ### `pure`
 
@@ -404,7 +423,7 @@
   - wiki based
   - symbol language
   - courses printable
-  - tricks as cards 
+  - tricks as cards
   - paragraphs as lines
   - theorems as macros
   - not for rating
@@ -714,11 +733,10 @@ for(i 1 10 j 10 100){A} //for(let i=1;i<=10;i++){for(let j=10;i<=100;j++){A}}
 > -> /voyagejs
 
 - features
-  - various themes
-  - no pre compiler or optionated prefix
-  - component based
   - functional programming
-  - polymorphic
+  - component based
+  - theme class
+  - library not framework
 - learn
   - show
   - handle
@@ -729,15 +747,15 @@ for(i 1 10 j 10 100){A} //for(let i=1;i<=10;i++){for(let j=10;i<=100;j++){A}}
   - @alias
   - $mark
   - $ignore
-  - __storage
-  - __states
-  - __listeners
-  - __removal
-  - __components
-  - _generate
-  - _select
-  - _compile
-  - _remove
+  - \_\_storage
+  - \_\_states
+  - \_\_listeners
+  - \_\_removal
+  - \_\_components
+  - \_generate
+  - \_select
+  - \_compile
+  - \_remove
   - def
   - run
   - store
@@ -789,7 +807,7 @@ for(i 1 10 j 10 100){A} //for(let i=1;i<=10;i++){for(let j=10;i<=100;j++){A}}
   - indie projects
   - novel apps
 - stats improved
-  - rating or stars 
+  - rating or stars
   - instead of count nums
 - timeln
   - best of each month each subject
