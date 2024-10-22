@@ -85,8 +85,8 @@
   - how to make millions before grandma dies (2024)
   - the legend of 1900 (1998)
   - les misérables (2012)
-  - 5 centimeters per second (2007)
   - call (2020)
+  - 5 centimeters per second (2007)
   - .lucky star (2007)
   - .evangelion (1995)
   - .tonikawa: over the moon for you (2020)
@@ -218,11 +218,10 @@
   - hacker news
   - css tricks
   - codepen spark
-  - google doodle
   - reddit old
+  - 4chan
   - v2ex
   - nga bbs
-  - 4chan
   - zhihu following
   - luogu
   - vijos
@@ -237,6 +236,7 @@
   - bangumi.tv anime chart
   - imdb movie top 250
   - steam top 250
+  - google doodle
   - itch.io
   - unsplash nature
   - pixiv monthly
@@ -357,6 +357,7 @@
   - spicy pidan porridge
   - sqr5's blog
   - tail tail desu
+  - tamicake1479
   - tim qian
   - timochan
   - tourist codeforces
@@ -505,7 +506,8 @@
   - the answer is predictive of your behavior
   - better to get your dopamine from improving your ideas than from having them validated
   - it's ok to get yours from "making things happen"
-- knowledge isn't free
+- where are geniuses' attentions dissolved?
+  - knowledge isn't free
   - you have to pay attention
 - tell me, and i will forget
   - show me, and i may remember
@@ -550,26 +552,25 @@
 - 遂迷不复得路
 - 念念不忘必有回响
 - 不如相忘于江湖
-- 命里有时终须有
+- 木已成舟
 - 惟江上之清风
-- 一花一世界
 - 以有涯随无涯殆已
 - 为者败之执者失之
-- 木已成舟
-- 锦瑟无端五十弦
-- 欲买桂花同载酒
+- 命里有时终须有
 - 壁上小虫忽跃落衿袖间
 - 池鱼思故渊
-- 无心插柳柳成荫
-- 塞翁失马焉知非福
-- 鸢飞戾天者望峰息心
-- 寓形宇内复几时
-- 临渊羡鱼退而结网
-- 回首向来萧瑟处
+- 锦瑟无端五十弦
+- 春风若有怜花意
+- 欲买桂花同载酒
 - 当时只道是寻常
 - 江畔何人初见月
 - 年年岁岁花相似
 - 花开堪折直须折
+- 也无风雨也无晴
+- 无心插柳柳成荫
+- 鸢飞戾天者望峰息心
+- 当时年少春衫薄
+- 寓形宇内复几时
 - 光阴者百代之过客
 - 以神遇而不以目视
 - 以我观物故物皆着我之色彩

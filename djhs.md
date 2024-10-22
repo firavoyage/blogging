@@ -80,9 +80,9 @@
     - zhang xizhe `205 75 85 45`
     - room and seat 0603
   - oct
-    - fira `256.5 a+ 70 b+ 96 a+ 90.5 a`
+    - fira `256.5 a+#9 70 b+ 96 a+ 90.5 a`
+    - hui xinyu `282.5 a+#1 71 112 99.5`
     - jiang zhijun `253.5 71 90 92.5`
-    - hui xinyu `282.5 71 112 99.5`
     - dong guanxi `262.5 76 82 104.5`
     - zhang xizhe `225.5 65.5 100 60`
     - xia chuyun `227.5 55 97 75.5`

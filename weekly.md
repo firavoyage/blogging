@@ -16,10 +16,7 @@
 > _foresight_
 
 - think svelte examples in voyage
-- think chakra components in voyage
-- think chakra in sr
 - write voyagejs
-- think slidev in pre
 - write pre app
 - design intuitive cpp
 - design pure math
@@ -34,8 +31,11 @@
 
 > _weekend endeavour_
 
+- think svelte examples in voyage
 - write voyagejs
-- think chakra in sr
+- think chakra components in voyage
+- think chakra ui in sr
+- think slidev in pre
 - write pre app
 - design intuitive cpp
 - design pure math
@@ -46,7 +46,6 @@
 > _weekend diversion_
 
 - play sr
-- watch 5 centimeters per second
 - watch lucky star
 - watch evangelion
 - play senrenbanka
@@ -55,9 +54,8 @@
 
 - learn origami
 - read ruanyf weekly
-- classify ruanyf into tags
+- classify ruanyf with tags
 - make reflections markdown
-- listen to podcasts
 
 > _school_
 
@@ -73,6 +71,9 @@
 > _meanwhile_
 
 - sync phone
+- categorize laptop screenshots
+- change filename underslashes to spaces
+- listen to podcasts
 - eat berryberry
 - watch simplelive
 

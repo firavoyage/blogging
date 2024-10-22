@@ -415,7 +415,7 @@
 
 ### `pure`
 
-> one's desired math courses "纯度"
+> one's desired math courses "纯度" "数学狱友"
 
 > -> /pure
 
@@ -434,6 +434,7 @@
 - solutions
   - knowledge from textbooks
   - trick from workbooks
+  - hint from one's remembrance
   - observation from divine source
 - courses
   - learn on math challenger
@@ -443,9 +444,17 @@
   - libre math theorem wiki
   - hs math foresight in one hour
   - childhood retro: hs math made simple stupid
-  - teaching hs math in mihoyo or blue archive
   - elite education in shanghai
+  - learn with lucky star
+  - blue archive group discussion
+  - mihoyo classroom
+  - seat selection in vocational hs
+  - fuxuan's divine perspective
   - daily problems a & b
+- repetition
+  - abstract expression
+  - at leisure
+  - elegance
 - various themes
   - by voyage
 - inspired by
@@ -458,7 +467,7 @@
 
 ### `intuitive`
 
-> beautifully advance
+> beautifully advance "朴素"
 
 > /intuitive
 
@@ -469,7 +478,7 @@
   - not for rating
 - learn
   - javascript & game engine
-  - cpp & macro sugars
+  - cpp & sugars
   - python & libraries
   - algorithm & problems
   - codeforces & editorial
@@ -520,6 +529,9 @@
   - angry birds classic
   - brawl stars
   - terraria
+- wonders
+  - adventurine's bet table
+  - silver wolf's hacker space
 - local oj
   - problem readme
   - input files
@@ -735,8 +747,8 @@ for(i 1 10 j 10 100){A} //for(let i=1;i<=10;i++){for(let j=10;i<=100;j++){A}}
 - features
   - functional programming
   - component based
-  - theme class
-  - library not framework
+  - jquery with macros 
+  - not reduced react
 - learn
   - show
   - handle
@@ -763,6 +775,10 @@ for(i 1 10 j 10 100){A} //for(let i=1;i<=10;i++){for(let j=10;i<=100;j++){A}}
   - ref
   - when
   - self
+- state
+  - create at init 
+  - keep at change
+  - remove at parent change
 - inspired by
   - jquery
   - react

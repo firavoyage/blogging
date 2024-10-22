@@ -697,7 +697,7 @@ Learning web development from scratch can be an exciting and rewarding experienc
 
 ## retro
 
-`list` `concept` `ref`
+`concept` `ref`
 
 > $\to mistral \space large$
 
@@ -830,45 +830,6 @@ Cons:
 3. **Less Universal Support:** Not all libraries and frameworks support TypeScript out of the box, though this is improving.
 4. **Overkill for Small Projects:** For small projects or simple scripts, TypeScript might be overkill and add unnecessary complexity.
 
-## react v vue
-
-`dev` `comparison`
-
-> $\to mistral \space large$
-
-> react vs vue list pros and cons
-
-Sure, I'd be happy to help you compare React and Vue.js. Both are popular JavaScript frameworks used for building user interfaces, but they have different strengths and weaknesses.
-
-**React**
-
-Pros:
-
-1. **Backing and Community**: React is developed and maintained by Facebook, and it has a large and active community. This means you can find a wealth of resources, libraries, and solutions for potential issues.
-2. **Flexibility**: React is more of a library than a framework, which gives developers a lot of flexibility in how they structure their projects.
-3. **Virtual DOM**: React uses a virtual DOM, which optimizes rendering and improves app performance.
-4. **JSX**: React uses JSX, a syntax extension for JavaScript, which can make code easier to read and write.
-
-Cons:
-
-1. **Learning Curve**: React has a steeper learning curve, especially for beginners. Understanding its concepts, like the virtual DOM and JSX, can take time.
-2. **Lack of Official Guidelines**: While the flexibility of React is a pro, it can also be a con. The lack of official guidelines can lead to inconsistency in project structure and code.
-
-**Vue.js**
-
-Pros:
-
-1. **Ease of Use**: Vue.js is generally easier to learn and use than React, especially for beginners. Its syntax is simpler and it provides detailed documentation.
-2. **Versatility**: Vue.js can be used to develop anything from small interactive interfaces to large single-page applications.
-3. **Integration**: Vue.js can be easily integrated with other libraries and existing projects.
-4. **Official Guidelines**: Vue.js provides official guidelines and a style guide, which can help maintain consistency in code and project structure.
-
-Cons:
-
-1. **Smaller Community**: While Vue.js has a growing community, it's still smaller than React's. This might mean fewer resources and libraries.
-2. **Limited Flexibility**: While Vue.js provides guidelines which can be helpful, they might limit flexibility for some developers.
-3. **Less Job Opportunities**: Currently, there are more job opportunities for React developers compared to Vue.js developers.
-
 ## sketch v figma
 
 `app` `comparison`
@@ -1000,7 +961,7 @@ In conclusion, if you're new to Linux or want a stable, user-friendly system, Ub
 
 ## tg v discord
 
-`dev` `app` `comparison`
+`app` `comparison`
 
 > $\to mistral \space large$
 
@@ -1361,6 +1322,8 @@ To create a horizontal line, use three hyphens (---), asterisks (\*\*\*), or und
 For more information on Markdown, check out the [Markdown Cheat Sheet](https://github.com/ad-mallos/markdown-files/blob/master/MARKDOWN.md) or the [Markdown Guide](https://www.markdownguide.org/)!
 
 ## c++ struct functions
+
+`dev` `guide` `cpp`
 
 > $\to mistral \space large$
 
@@ -2129,7 +2092,7 @@ Unit testing is a fundamental practice in software development that helps ensure
 
 ## cpp iteration abstract
 
-`dev` `guide`
+`dev` `guide` `cpp`
 
 > $\to mistral \space large \space 2$
 
@@ -3294,7 +3257,7 @@ Ultimately, the choice of a component library depends on your project's specific
 
 ## newton vs bisection
 
-`dev` `math` `comparison`
+`math` `comparison`
 
 > $\to mistral \space large \space 2$
 
@@ -3466,7 +3429,7 @@ By following these steps, you should be able to diagnose and resolve the issue w
 
 ## speed test wasm
 
-`dev` `comparison` `guide`
+`dev` `comparison` `guide` `cpp` `js`
 
 > $\to mistral \space large \space 2$
 
@@ -4917,7 +4880,7 @@ The DOM API is extensive and powerful, allowing developers to create dynamic and
 
 ## diff without vdom
 
-`dev`
+`dev` `comparison`
 
 > $\to mistral \space large \space 2$
 
@@ -6506,7 +6469,7 @@ Three.js is a powerful tool for creating interactive 3D experiences on the web. 
 
 ## cpp segmentation fault
 
-`dev` `guide` `ref`
+`dev` `guide` `ref` `cpp`
 
 > $\to mistral \space large \space 2$
 
@@ -6615,6 +6578,8 @@ Polygon is widely used by competitive programming enthusiasts, contest organizer
 
 ## deconstruct
 
+`literary`
+
 > $\to mistral \space large \space 2$
 
 > deconstruct
@@ -6658,7 +6623,7 @@ Sentence: "I love eating ice cream on a hot day."
 
 ## deconstructionism
 
-`concept` `literary`
+`literary`
 
 > $\to mistral \space large \space 2$
 
@@ -6682,7 +6647,7 @@ Deconstructionism has been highly influential in many fields, including literary
 
 ## sub concepts of deconstruct
 
-`concept` `ref`
+`concept` `literary`
 
 > $\to mistral \space large \space 2$
 
@@ -6887,7 +6852,7 @@ Material Design 3 represents an evolution of the design system, with a focus on 
 
 ## cpp define method
 
-`dev` `ref`
+`dev` `ref` `cpp`
 
 > $\to mistral \space large \space 2$
 
@@ -7152,7 +7117,7 @@ Here are some grounding techniques that might help when feeling dissociated:
 
 ## cpp boost
 
-`dev` `guide`
+`dev` `guide` `library` `cpp`
 
 > $\to mistral \space large \space 2$
 
@@ -7318,7 +7283,7 @@ In summary, a Turing machine is a simple yet powerful model of computation that 
 
 ## rss
 
-`concept` `history` `ref` `dev` `comparison`
+`concept` `history` `ref` `app` `comparison`
 
 > $\to mistral \space large \space 2$
 
@@ -7358,7 +7323,7 @@ Sure, here are some pros and cons of using RSS (Really Simple Syndication):
 
 ## google reader
 
-`concept` `history` `app`
+`history` `app`
 
 > $\to mistral \space large \space 2$
 
@@ -7503,7 +7468,7 @@ To provide a tailored recommendation, it would be helpful to know your preferenc
 
 Choose the one that resonates with your interests the most, and enjoy exploring the rich world of Shakespeare's literature!
 
-## the number of parts that three planes can divide a space into
+## three planes divide a space
 
 `concept` `math` `ref`
 
@@ -7579,7 +7544,7 @@ This maximum is achieved when the planes are positioned in such a way that they 
 
 ## jquery
 
-`dev` `guide` `library` `comparison`
+`dev` `comparison` `library` `guide`
 
 > $\to mistral \space large \space 2$
 
@@ -7697,7 +7662,7 @@ jQuery simplifies many common tasks in JavaScript, making it easier to write cro
 
 ## vanilla js
 
-`dev` `guide` `library` `comparison`
+`dev` `comparison` `library` `guide`
 
 > $\to mistral \space large \space 2$
 
@@ -7824,7 +7789,7 @@ These examples cover some of the basic operations you can perform with vanilla J
 
 ## react
 
-`dev` `guide` `library` `comparison`
+`dev` `comparison` `library` `guide`
 
 > $\to mistral \space large \space 2$
 
@@ -7908,7 +7873,7 @@ ReactJS is a powerful and flexible library for building user interfaces. Its com
 
 ## vue
 
-`dev` `guide` `library` `comparison`
+`dev` `comparison` `library` `guide`
 
 > $\to mistral \space large \space 2$
 
@@ -8040,7 +8005,7 @@ Vue.js is a powerful and flexible framework that makes it easy to build modern w
 
 ## svelte
 
-`dev` `guide` `library` `comparison`
+`dev` `comparison` `library` `guide`
 
 > $\to mistral \space large \space 2$
 
@@ -8160,7 +8125,7 @@ Svelte is a powerful and efficient framework for building modern web application
 
 ## mithril
 
-`dev` `guide` `library` `comparison`
+`dev` `comparison` `library` `guide`
 
 > $\to mistral \space large \space 2$
 
@@ -8238,7 +8203,7 @@ For more information, you can check out the official Mithril.js documentation: <
 
 ## alpine
 
-`dev` `guide` `library` `comparison`
+`dev` `comparison` `library` `guide`
 
 > $\to mistral \space large \space 2$
 
@@ -8358,3 +8323,519 @@ Internet abstract culture refers to the digital environment's collective behavio
 9. **Anonymity and Pseudonymity**: The ability to interact online without revealing one's real-world identity has led to unique cultural phenomena, both positive (such as increased freedom of expression) and negative (like trolling and cyberbullying).
 
 Internet abstract culture is constantly evolving, driven by the rapid pace of technological change and the influx of new users. It's a complex and multifaceted ecosystem that reflects the diversity and creativity of its global user base.
+
+## jquery react
+
+`dev` `comparison` `library`
+
+> $\to mistral \space large \space 2$
+
+> jquery vs react
+
+jQuery and React are both popular JavaScript libraries/frameworks, but they serve different purposes and have distinct approaches to web development. Here's a comparison to help you understand each:
+
+### jQuery
+
+1. **Purpose**:
+
+   - jQuery is a fast, small, and feature-rich JavaScript library that simplifies HTML document traversal, event handling, animations, and AJAX interactions.
+
+2. **Approach**:
+
+   - jQuery focuses on manipulating the DOM directly. It provides a set of methods to select, traverse, and manipulate HTML elements.
+   - It is often used for adding interactivity to existing web pages without requiring a full rewrite.
+
+3. **Learning Curve**:
+
+   - jQuery has a relatively low learning curve, especially for those familiar with JavaScript and HTML.
+
+4. **Performance**:
+
+   - jQuery can be slower for complex applications because it directly manipulates the DOM, which can be performance-intensive.
+
+5. **Use Cases**:
+
+   - Ideal for small projects, adding interactivity to static websites, or for quick prototyping.
+
+6. **Community and Ecosystem**:
+   - jQuery has a large community and a vast number of plugins and extensions.
+   - However, its popularity has been declining in recent years as more modern frameworks and libraries have emerged.
+
+### React
+
+1. **Purpose**:
+
+   - React is a JavaScript library for building user interfaces, particularly single-page applications where you need a dynamic and responsive UI.
+
+2. **Approach**:
+
+   - React uses a component-based architecture. Each component manages its own state and can be composed to build complex UIs.
+   - It uses a virtual DOM to optimize updates to the real DOM, which can lead to better performance.
+
+3. **Learning Curve**:
+
+   - React has a steeper learning curve compared to jQuery, especially for those new to component-based architectures and JSX (JavaScript XML).
+
+4. **Performance**:
+
+   - React is generally more performant for complex applications due to its virtual DOM and efficient diffing algorithm.
+
+5. **Use Cases**:
+
+   - Ideal for building large-scale, dynamic web applications, particularly single-page applications (SPAs).
+
+6. **Community and Ecosystem**:
+   - React has a large and active community, with a rich ecosystem of libraries and tools.
+   - It is backed by Facebook and has become one of the most popular choices for building modern web applications.
+
+### Key Differences
+
+1. **DOM Manipulation**:
+
+   - jQuery: Directly manipulates the DOM.
+   - React: Uses a virtual DOM to optimize updates.
+
+2. **Component-Based Architecture**:
+
+   - jQuery: Not component-based; more procedural.
+   - React: Component-based, promoting reusability and modularity.
+
+3. **State Management**:
+
+   - jQuery: State is typically managed manually.
+   - React: State is managed within components and can be lifted up or managed with context or external libraries like Redux.
+
+4. **Performance**:
+
+   - jQuery: Can be slower for complex applications due to direct DOM manipulation.
+   - React: Generally more performant for complex applications due to the virtual DOM.
+
+5. **Modernity**:
+   - jQuery: Older and more traditional approach.
+   - React: Modern and aligned with current best practices in web development.
+
+### Conclusion
+
+- **Use jQuery** if you need to add interactivity to an existing website quickly or if you're working on a small project where direct DOM manipulation is sufficient.
+- **Use React** if you're building a large-scale, dynamic web application that requires a component-based architecture and better performance.
+
+Both have their strengths and are suitable for different types of projects. The choice between them depends on your specific needs and the complexity of your application.
+
+> jquery vs react
+
+jQuery and React are both popular JavaScript libraries/frameworks, but they serve different purposes and have distinct philosophies. Here's a comparison to help you understand each:
+
+### jQuery
+
+**Purpose:**
+
+- jQuery is primarily used for DOM manipulation, event handling, animations, and AJAX requests.
+
+**Philosophy:**
+
+- jQuery is designed to simplify client-side scripting of HTML. It allows developers to easily select, manipulate, and animate DOM elements.
+
+**Key Features:**
+
+- **DOM Manipulation:** Easily select and manipulate HTML elements.
+- **Event Handling:** Simplifies the process of attaching event handlers to elements.
+- **AJAX:** Provides a simple API for making asynchronous HTTP requests.
+- **Animations:** Offers built-in methods for animations and effects.
+- **Cross-Browser Compatibility:** Ensures that code works consistently across different browsers.
+
+**Example:**
+
+```javascript
+$(document).ready(function () {
+  $("button").click(function () {
+    $("p").hide();
+  });
+});
+```
+
+### React
+
+**Purpose:**
+
+- React is a JavaScript library for building user interfaces, particularly single-page applications.
+
+**Philosophy:**
+
+- React is based on the concept of components and a virtual DOM. It encourages a declarative approach to building UIs, making it easier to manage complex user interfaces.
+
+**Key Features:**
+
+- **Component-Based Architecture:** UI is broken down into reusable components.
+- **Virtual DOM:** React uses a virtual DOM to optimize updates to the real DOM, improving performance.
+- **One-Way Data Binding:** Data flows in a single direction, making it easier to reason about the application state.
+- **JSX:** A syntax extension for JavaScript that allows you to write HTML-like code within JavaScript.
+
+**Example:**
+
+```javascript
+import React, { useState } from "react";
+
+function App() {
+  const [isVisible, setIsVisible] = useState(true);
+
+  const toggleVisibility = () => {
+    setIsVisible(!isVisible);
+  };
+
+  return (
+    <div>
+      <button onClick={toggleVisibility}>Toggle</button>
+      {isVisible && <p>This is a paragraph.</p>}
+    </div>
+  );
+}
+
+export default App;
+```
+
+### Comparison
+
+**1. Purpose:**
+
+- **jQuery:** Focuses on DOM manipulation and simplifying client-side scripting.
+- **React:** Focuses on building complex user interfaces with a component-based architecture.
+
+**2. Philosophy:**
+
+- **jQuery:** Imperative programming, directly manipulating the DOM.
+- **React:** Declarative programming, describing what the UI should look like based on the state.
+
+**3. Performance:**
+
+- **jQuery:** Can be less performant for complex UIs due to direct DOM manipulation.
+- **React:** Generally more performant for complex UIs due to the virtual DOM and efficient updates.
+
+**4. Learning Curve:**
+
+- **jQuery:** Easier to learn for simple tasks and small projects.
+- **React:** Steeper learning curve but more powerful for building large-scale applications.
+
+**5. Ecosystem:**
+
+- **jQuery:** Has a large ecosystem of plugins and extensions.
+- **React:** Has a rich ecosystem of libraries and tools, including state management solutions like Redux and routing libraries like React Router.
+
+### Conclusion
+
+- **Use jQuery** if you need to quickly manipulate the DOM, handle events, or add simple interactivity to a web page.
+- **Use React** if you are building a complex user interface or a single-page application where performance and maintainability are crucial.
+
+Both libraries have their strengths and can be used together in some cases, but for modern web development, React is often preferred for building scalable and maintainable applications.
+
+## react vue
+
+`dev` `comparison` `library`
+
+> $\to mistral \space large \space 2$
+
+> react vs vue
+
+Choosing between React and Vue.js depends on your specific needs, preferences, and the context of your project. Here's a comparison to help you make an informed decision:
+
+### React
+
+**Pros:**
+
+1. **Large Ecosystem:** React has a vast ecosystem with a wide range of libraries and tools, such as Redux for state management, React Router for routing, and more.
+2. **Community and Support:** React has a large and active community, which means you can find plenty of resources, tutorials, and third-party libraries.
+3. **Flexibility:** React is highly flexible and can be used in various contexts, from small components to large-scale applications.
+4. **Virtual DOM:** React uses a virtual DOM to optimize performance by minimizing direct manipulation of the browser's DOM.
+5. **Backed by Facebook:** React is developed and maintained by Facebook, which ensures ongoing support and development.
+
+**Cons:**
+
+1. **Steep Learning Curve:** React can be more complex to learn, especially for beginners, due to its ecosystem and the need to understand concepts like JSX, state management, and hooks.
+2. **Boilerplate Code:** Setting up a React project can require more boilerplate code compared to Vue.js.
+3. **Lack of Built-in Features:** React is more of a library than a framework, so you may need to integrate additional libraries for features like state management and routing.
+
+### Vue.js
+
+**Pros:**
+
+1. **Ease of Learning:** Vue.js has a gentler learning curve, making it easier for beginners to get started.
+2. **All-in-One Solution:** Vue.js is a progressive framework that can be incrementally adopted, meaning you can use it for small parts of your application or as a full-fledged framework.
+3. **Built-in Features:** Vue.js comes with built-in features like state management (Vuex) and routing (Vue Router), which simplifies the setup process.
+4. **Flexibility:** Vue.js is highly flexible and can be used for both small and large-scale applications.
+5. **Community and Support:** Vue.js has a growing community and good documentation, making it easier to find resources and support.
+
+**Cons:**
+
+1. **Smaller Ecosystem:** While growing, Vue.js has a smaller ecosystem compared to React, which means fewer third-party libraries and tools.
+2. **Less Mature:** Vue.js is relatively newer compared to React, so it may not have the same level of maturity and stability.
+3. **Less Corporate Backing:** Although Vue.js is backed by Evan You, it does not have the same level of corporate backing as React.
+
+### When to Choose React:
+
+- You need a highly flexible and powerful library for building complex user interfaces.
+- You prefer a large ecosystem with a wide range of libraries and tools.
+- You are comfortable with a steeper learning curve and more boilerplate code.
+
+### When to Choose Vue.js:
+
+- You want an easier learning curve and a more straightforward setup process.
+- You prefer an all-in-one solution with built-in features like state management and routing.
+- You are looking for a progressive framework that can be incrementally adopted.
+
+Ultimately, the choice between React and Vue.js depends on your specific needs, the complexity of your project, and your team's familiarity with the technologies. Both have their strengths and can be excellent choices for building modern web applications.
+
+## react svelte
+
+`dev` `comparison` `library`
+
+> $\to mistral \space large \space 2$
+
+> react vs svelte
+
+React and Svelte are both popular JavaScript libraries/frameworks for building user interfaces, but they have different philosophies and approaches. Here's a comparison to help you understand each:
+
+### React
+
+**Overview:**
+
+- React is a JavaScript library for building user interfaces, developed and maintained by Facebook.
+- It focuses on the view layer of an application.
+
+**Key Features:**
+
+- **Component-Based Architecture:** React allows you to build encapsulated components that manage their own state and can be composed to make complex UIs.
+- **Virtual DOM:** React uses a virtual DOM to optimize updates to the actual DOM, which can improve performance.
+- **JSX:** React uses JSX, a syntax extension for JavaScript that looks similar to HTML, to describe the UI.
+- **State Management:** React has built-in state management, but for more complex state management, developers often use libraries like Redux or Context API.
+- **Ecosystem:** React has a vast ecosystem with a wide range of third-party libraries and tools.
+
+**Pros:**
+
+- Large community and extensive ecosystem.
+- Mature and well-documented.
+- Flexible and can be used with other libraries and frameworks.
+- Strong support for server-side rendering (SSR) and static site generation (SSG).
+
+**Cons:**
+
+- Can be verbose and require a lot of boilerplate code.
+- Steeper learning curve for beginners.
+- Performance can be an issue in some cases, especially with large applications.
+
+### Svelte
+
+**Overview:**
+
+- Svelte is a compiler that turns declarative components into highly efficient JavaScript that directly manipulates the DOM.
+- It was developed by Rich Harris and focuses on simplicity and performance.
+
+**Key Features:**
+
+- **Compiled Framework:** Svelte compiles your code to highly efficient vanilla JavaScript at build time, which means there's no runtime overhead.
+- **Reactive Declarations:** Svelte uses reactive declarations to automatically update the DOM when the state changes.
+- **SvelteKit:** SvelteKit is a framework built on top of Svelte that provides additional features like routing, server-side rendering, and static site generation.
+- **Simpler Syntax:** Svelte has a simpler and more intuitive syntax compared to React.
+
+**Pros:**
+
+- Excellent performance due to compile-time optimization.
+- Simpler and more intuitive syntax.
+- Less boilerplate code.
+- Built-in support for reactive programming.
+
+**Cons:**
+
+- Smaller community and ecosystem compared to React.
+- Less mature and fewer third-party libraries.
+- May not be as flexible as React for certain use cases.
+
+### When to Use Each
+
+**React:**
+
+- When you need a mature, well-documented library with a large community and ecosystem.
+- When you need to integrate with other libraries and frameworks.
+- When you need strong support for server-side rendering and static site generation.
+
+**Svelte:**
+
+- When you need a simpler, more intuitive syntax.
+- When performance is a critical concern.
+- When you prefer a compiled framework with no runtime overhead.
+- When you want built-in support for reactive programming.
+
+Ultimately, the choice between React and Svelte depends on your specific needs, preferences, and the requirements of your project. Both have their strengths and can be excellent choices for building modern web applications.
+
+## fp
+
+`concept` `ref` `dev` `guide`
+
+> $\to mistral \space large \space 2$
+
+> sub concepts of functional programming
+
+Functional programming is a programming paradigm that treats computation as the evaluation of mathematical functions and avoids changing-state and mutable data. Here are some key sub-concepts of functional programming:
+
+1. **Pure Functions**: These are functions that, given the same input, always produce the same output, and have no side effects (i.e., they don't modify any external state).
+
+2. **Immutability**: Data is immutable in functional programming, meaning it cannot be changed once created. Instead of modifying existing data, you create new data.
+
+3. **First-Class and Higher-Order Functions**: Functions are treated as first-class citizens, meaning they can be passed as arguments to other functions, returned as values from other functions, and assigned to variables. Higher-order functions are functions that take other functions as arguments or return them as results.
+
+4. **Function Composition**: This involves combining simple functions to build more complex ones. It's a way to build up complex transformations from simple ones.
+
+5. **Recursion**: Functional programming often uses recursion instead of loops to repeat code. Recursion involves a function calling itself until it reaches a base case.
+
+6. **Lazy Evaluation**: This is a technique used to delay the evaluation of an expression until its value is actually needed. It can improve performance by avoiding unnecessary computations.
+
+7. **Closures**: A closure is a function that captures the environment in which it was created. It can access variables from its containing scope even after that scope has finished executing.
+
+8. **Currying**: This is a technique where a function that takes multiple arguments is transformed into a sequence of functions that each take a single argument.
+
+9. **Pattern Matching**: This is a way to specify multiple function bodies for different input patterns. It's a powerful feature that allows for concise and expressive code.
+
+10. **Monads, Functors, and other abstract structures**: These are abstract structures used to handle side effects, compose functions, and perform other complex tasks in a functional way.
+
+11. **Declarative**: Functional programming is declarative rather than imperative. This means you describe what you want to do, not how to do it.
+
+12. **Referential Transparency**: This means that an expression can be replaced with its value without changing the program's behavior. It's a key aspect of pure functions.
+
+Each of these concepts contributes to the unique style and benefits of functional programming.
+
+## oop
+
+`concept` `ref` `dev` `guide`
+
+> $\to mistral \space large \space 2$
+
+> sub concepts of object oriented programming
+
+Object-oriented programming (OOP) is a programming paradigm that uses objects and their interactions to design applications and computer programs. Here are some key sub-concepts of OOP:
+
+1. **Classes and Objects**:
+
+   - **Class**: A blueprint for creating objects. It defines a set of properties and methods that the created objects will have.
+   - **Object**: An instance of a class. It represents a concrete entity with its own state and behavior.
+
+2. **Four Fundamental Principles (Pillars of OOP)**:
+
+   - **Encapsulation**: The bundling of data (attributes) and methods (functions) that operate on the data into a single unit called a class. It also restricts direct access to some of an object's components, which can prevent the accidental modification of data.
+   - **Inheritance**: A mechanism where one class (subclass) acquires the properties and behaviors of another class (superclass). It promotes code reusability.
+   - **Polymorphism**: The ability of different classes to be treated as instances of the same class through inheritance. It allows one interface to be used for a general class of actions.
+   - **Abstraction**: The concept of hiding the complex implementation details and showing only the essential features of the object. It helps in reducing programming complexity and effort.
+
+3. **Other Important Concepts**:
+   - **Association**: A relationship between two or more objects that allows one object to be connected to another object. It can be one-to-one, one-to-many, many-to-one, or many-to-many.
+   - **Aggregation**: A specialized form of association that represents a "whole-part" relationship. It is a weak relationship where the child can exist independently of the parent.
+   - **Composition**: A specialized form of aggregation where the child object does not have an independent existence without the parent object. It represents a strong ownership.
+   - **Interface**: A reference type in Java that is similar to a class and is a collection of abstract methods. A class implements an interface, thereby inheriting the abstract methods of the interface.
+   - **Abstract Class**: A class that cannot be instantiated and may contain abstract methods (methods without a body). It is designed to be subclassed.
+   - **Method Overloading**: A feature that allows a class to have more than one method with the same name, as long as their parameter lists are different.
+   - **Method Overriding**: A feature that allows a subclass to provide a specific implementation of a method that is already defined in its superclass.
+
+These concepts work together to enable the creation of modular, reusable, and maintainable code in object-oriented programming.
+
+## geniuses attention
+
+`concept` `ref`
+
+> $\to mistral \space large \space 2$
+
+> where are geniuses' attentions dissolved
+
+Geniuses often have their attention dissolved or deeply engaged in several areas. Here are a few common ones:
+
+1. **Problem-Solving**: Geniuses often focus on complex problems that others may find too challenging or intricate. They enjoy the process of deciphering puzzles, patterns, or issues that others might overlook.
+
+2. **Learning and Curiosity**: They are often voracious learners, constantly seeking new information and understanding. Their attention is often drawn to new topics, ideas, or skills to master.
+
+3. **Creativity and Innovation**: Geniuses may spend a lot of time brainstorming new ideas, creating, or innovating. They might be engrossed in artistic pursuits, scientific innovations, or entrepreneurial ventures.
+
+4. **Deep Thinking and Reflection**: They often spend time in deep thought, reflecting on various subjects, exploring abstract concepts, or contemplating philosophical questions.
+
+5. **Observation**: Geniuses may pay close attention to details that others miss. They might be intrigued by patterns, connections, or anomalies in the world around them.
+
+6. **Passion Projects**: Many geniuses have specific areas of interest where they devote a significant amount of their time and attention. These could be anything from music to mathematics, from physics to painting.
+
+7. **Daydreaming and Mind Wandering**: Some geniuses may appear to be lost in thought or daydreaming. This can be a productive state where they process complex ideas or generate creative solutions.
+
+8. **Multitasking**: While not all geniuses are multitaskers, some may have their attention divided among several tasks or projects at once, making progress on each as inspiration or necessity dictates.
+
+9. **Social and Emotional Connections**: While the stereotype of a genius is often someone who is socially isolated, many geniuses do invest significant attention in their relationships, whether they are personal or professional.
+
+10. **Self-Improvement**: They might be focused on personal growth, self-reflection, and continuous self-improvement.
+
+These areas of focus can vary greatly depending on the individual's interests, personality, and field of expertise.
+
+## metaphors
+
+`concept` `ref` `literary` `book`
+
+> $\to mistral \space large \space 2$
+
+> metaphors we live by
+
+"Metaphors We Live By" is a groundbreaking book by George Lakoff and Mark Johnson, first published in 1980. The authors argue that metaphors are not just poetic or rhetorical devices, but are pervasive in our everyday language and thought. They shape how we understand and experience the world. Here are some key points and examples from the book:
+
+1. **Conceptual Metaphors**: These are mappings from one conceptual domain to another. For example:
+
+   - LOVE IS A JOURNEY: "Our relationship has hit a dead-end," "We're at a crossroads," "We've been through a rough patch."
+   - ARGUMENT IS WAR: "He attacked my argument," "I defended my position," "She shot down my ideas."
+
+2. **Orientational Metaphors**: These give concepts spatial orientations. For example:
+
+   - GOOD IS UP / BAD IS DOWN: "Things are looking up," "I feel down today."
+   - MORE IS UP / LESS IS DOWN: "Prices are rising," "The number of students dropped."
+
+3. **Ontological Metaphors**: These allow us to understand abstract concepts in terms of more concrete entities or substances. For example:
+   - INFLATION IS AN ENTITY: "Inflation is eating up our profits."
+   - THE MIND IS A MACHINE: "My mind just isn't working today."
+
+Lakoff and Johnson argue that these metaphors are not just ways of speaking, but fundamentally shape how we think and act. They also discuss how new metaphors can create new realities and how understanding our metaphorical systems can help us understand our own thoughts and actions.
+
+The book has had a significant impact on various fields, including linguistics, philosophy, psychology, and cognitive science.
+
+## geb
+
+`concept` `ref` `literary` `book`
+
+> $\to mistral \space large \space 2$
+
+> GEB
+
+"GEB" typically refers to "Gödel, Escher, Bach: An Eternal Golden Braid," a Pulitzer Prize-winning book written by Douglas Hofstadter. Published in 1979, the book explores the intertwined lives and works of mathematician Kurt Gödel, artist M.C. Escher, and composer Johann Sebastian Bach.
+
+The book is known for its intricate and multifaceted exploration of the nature of consciousness, the structure of thought, and the relationship between mathematics, art, and music. Hofstadter uses the works of Gödel, Escher, and Bach as a framework to discuss concepts such as recursion, self-reference, and the nature of intelligence.
+
+"GEB" is celebrated for its innovative approach, blending technical discussions with creative and playful elements, including dialogues, puzzles, and visual illustrations. It has become a classic in the fields of cognitive science, artificial intelligence, and philosophy of mind.
+
+## why retro
+
+`concept` `ref`
+
+> $\to mistral \space large \space 2$
+
+> reasons for retro
+
+Retro aesthetics and styles have seen a resurgence in recent years for several reasons:
+
+1. **Nostalgia**: Many people find comfort in revisiting the past. Retro styles evoke memories of simpler times or happy moments from one's youth.
+
+2. **Cultural Cyclicity**: Fashion, design, and cultural trends often move in cycles. What was once old becomes new again as younger generations rediscover and reinterpret past trends.
+
+3. **Authenticity and Quality**: Some retro products are perceived to be of higher quality and more authentic than contemporary ones. This is often seen in the appreciation for vintage vinyl records, classic cars, or vintage fashion.
+
+4. **Escapism**: In times of uncertainty or rapid change, people may turn to retro styles as a form of escapism, seeking comfort in the familiar and predictable.
+
+5. **Aesthetic Appeal**: Retro designs often have a unique and appealing aesthetic that stands out in today's world. They can be vibrant, playful, or elegantly simple, depending on the era they draw from.
+
+6. **Sustainability**: With growing concerns about the environment, there's an increased interest in vintage or retro items as a way to reduce waste and promote sustainability.
+
+7. **Self-Expression**: Retro styles allow people to express their individuality and personal style, drawing from a wide range of past influences.
+
+8. **Pop Culture Influence**: Movies, TV shows, and music often glamorize or romanticize certain time periods, leading to a renewed interest in those eras' styles.
+
+9. **Timeless Design**: Some retro designs are considered timeless and continue to be appreciated for their enduring appeal.
+
+10. **Rebellion**: In some cases, embracing retro styles can be a form of rebellion against current trends or mainstream culture.
+
+These reasons can vary greatly from person to person, but they all contribute to the ongoing appeal of retro styles.
