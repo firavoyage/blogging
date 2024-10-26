@@ -1,18 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Alpine.js x-if Example</title>
-    <script src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js" defer></script>
-</head>
-<body>
+    <script src="alpine3.0.0.js" defer></script>
+  </head>
+  <body>
     <div x-data="{ show: false }">
-        <button @click="show = !show">Toggle</button>
+      <button @click="show = !show">Toggle</button>
 
-        <template x-if="show">
-            <p>This content is conditionally rendered.</p>
-        </template>
+      <template x-if="show">
+        <p>This content is conditionally rendered.</p>
+      </template>
     </div>
-</body>
+  </body>
 </html>

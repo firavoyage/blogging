@@ -53,9 +53,9 @@
 > _weekend enlightenment_
 
 - learn origami
+- make reflections markdown
 - read ruanyf weekly
 - classify ruanyf with tags
-- make reflections markdown
 
 > _school_
 

@@ -34,15 +34,17 @@
 
 ### `pre`
 
-> simplicity of presentation
+> simplicity of presentation "wide screen notion"
 
 - features
-  - content focused
-  - extended markdown
-  - portable
-  - symbolic interface
+  - content blocks
+  - theme based
+  - quick navigation
+  - markdown local
+  - minimal interface
+  - portable format
+  - cross platform
   - cli support
-  - pwa based
 - tags
   - template
   - theme
@@ -62,11 +64,11 @@
 - various themes
   - by voyage
 - inspired by
+  - notion
   - overleaf
+  - marp
   - slidev
   - revealjs
-  - marp
-  - fusuma
 
 ### `board`
 
@@ -175,21 +177,23 @@
 > listen in solitude
 
 - features
-  - index by search engines
-  - various sources
-  - symbolic interface
+  - minimal interface
+  - sources converged
+  - search engine powered
   - transparent algorithm
-  - no comment page
+- solitude
+  - distraction free
+  - no comment section
   - quality selection in settings
+- source
+  - music sites
+  - music videos
+  - library
 - algorithm
   - by musician
   - by genre
   - by playlist
   - by popularity
-- source
-  - music sites
-  - music videos
-  - library
 - local based
   - import and export
   - sync
@@ -254,10 +258,18 @@
 > breathe in the content overload
 
 - features
-  - various forms not just text
-  - subscription script for popular sites
-  - no algorithm just categorized lists
-  - opml support
+  - choosing before reading
+  - more than text
+  - site subscription
+  - tag based recommendation
+  - timeless archive
+  - poster sharing
+  - cross platform
+  - cli support
+- spec
+  - content fetcher web extension
+  - using javascript selector
+  - background sync
 - local based
   - read anywhere anytime
   - import and export
@@ -271,26 +283,18 @@
 
 ### `fav`
 
-> digital time capsule yours
+> digital time capsule "anywhere anytime"
 
-- list following
-  - escape awkward reco algo
-  - read only your followings
-  - profiles categorized in topics
-  - by board
-- from anywhere
-  - bookmarks
-  - berryberry
-  - imported scripts
-- save everything
+- features
+  - archive everything
+  - categorized in order
+  - auto sync
+- things
   - vid
   - cover img
   - intro
   - comments
-  - etc.
-- categorized in order
-  - tag based
-  - placed in timeln
+  - etc
 - local based
   - play anytime
   - static files instead of remote resources
@@ -302,7 +306,7 @@
   - pocket
   - instapaper
   - raindrop
-  - archive box
+  - archive.org
 
 ### `shelf`
 
@@ -426,35 +430,42 @@
   - tricks as cards
   - paragraphs as lines
   - theorems as macros
+  - takeaway as cheetsheet
   - not for rating
 - perspectives
   - dark mode
   - low opacity blockquote
   - no ordered list
 - solutions
-  - knowledge from textbooks
-  - trick from workbooks
-  - hint from one's remembrance
+  - knowledge in notes
   - observation from divine source
+  - trick as common observation
+  - hint from remembrance
 - courses
   - learn on math challenger
   - practice on math guide
   - ref on math textbook
 - wonders
-  - libre math theorem wiki
+  - all math theories list
+  - libre hs math wiki
   - hs math foresight in one hour
   - childhood retro: hs math made simple stupid
+  - hello f. i'm your past.
   - elite education in shanghai
   - learn with lucky star
   - blue archive group discussion
   - mihoyo classroom
   - seat selection in vocational hs
   - fuxuan's divine perspective
+  - math universe by herta(asta) & screwllum
   - daily problems a & b
 - repetition
   - abstract expression
   - at leisure
   - elegance
+- self
+  - a bot reading lecture notes & answering questions
+  - a learner solving problems & writing wiki
 - various themes
   - by voyage
 - inspired by
@@ -477,12 +488,12 @@
   - algorithm card collection
   - not for rating
 - learn
-  - javascript & game engine
-  - cpp & sugars
-  - python & libraries
-  - algorithm & problems
-  - codeforces & editorial
-- macros
+  - javascript with game dev
+  - cpp with algorithms
+  - python with libraries
+  - oi roadmap with problem lists
+  - codeforces editorial for 8yo
+- macro sugars
   - rd
   - pr
   - prn
@@ -511,42 +522,40 @@
   - pointer / 刻舟
   - reference / 假面
 - solutions
-  - knowledge from math proofs
-  - trick from template problems
+  - knowledge in wiki
+  - algorithm as template problems
   - observation from divine source
+  - trick as common observation (flow network)
+  - hint from remembrance
+- wonders
+  - all algorithms list
+  - adventurine's coins (imo 2010 p5)
+  - cr ideas that supercell rejected
+  - sr styled brawl stars
 - game ideas
   - google doodles
+  - azurlane
   - honkai star rail
   - honkai impact third
   - genshin impact
   - zenless zone zero
-  - azurlane
   - itch.io
   - poki.net
-  - adventurine's coins (imo 2010 p5)
-  - cr ideas that supercell rejected
   - fly me 2 the moon
   - angry birds classic
-  - brawl stars
   - terraria
-- wonders
-  - adventurine's bet table
-  - silver wolf's hacker space
-- local oj
-  - problem readme
-  - input files
-  - output files
-  - test program
 - various themes
   - by voyage
 - inspired by
-  - itheima
-  - shangguigu
-  - wylang guide
+  - oi wiki
+  - jiang yanyan jsoi
   - wes bos
   - brad traversy
   - rodrigo pombo
   - dan abramov
+  - wylang guide
+  - itheima
+  - shangguigu
 
 ### `sniper`
 
@@ -562,7 +571,7 @@
   - lodash
   - github gist
 
-### `anotherscript`
+### `scriptwonder`
 
 > javascript not optionated
 
@@ -745,36 +754,39 @@ for(i 1 10 j 10 100){A} //for(let i=1;i<=10;i++){for(let j=10;i<=100;j++){A}}
 > -> /voyagejs
 
 - features
-  - functional programming
-  - component based
   - jquery with macros 
-  - not reduced react
+  - not react reduced
+  - component based
 - learn
   - show
   - handle
   - control
   - escape
 - ref
-  - @memo
-  - @alias
-  - $mark
-  - $ignore
-  - \_\_storage
-  - \_\_states
-  - \_\_listeners
-  - \_\_removal
-  - \_\_components
-  - \_generate
-  - \_select
-  - \_compile
-  - \_remove
-  - def
-  - run
-  - store
-  - keep
-  - ref
-  - when
-  - self
+  - .storage
+  - .states
+  - .listeners
+  - .components
+  - .counter
+  - .generate()
+  - .select()
+  - create()
+  - store()
+  - define()
+  - run()
+  - remove()
+- methods
+  - define component
+  - create component by arguments
+  - generate component id
+  - save states on component id
+  - run component
+  - wait until states change
+  - get the component id that the states binded
+  - if the component id can't be found in dom then remove it
+  - else if reducer is specified then run it
+  - otherwise create component again and replace the one in dom 
+  - done
 - state
   - create at init 
   - keep at change
@@ -864,10 +876,15 @@ for(i 1 10 j 10 100){A} //for(let i=1;i<=10;i++){for(let j=10;i<=100;j++){A}}
 - inspired by
   - share card
 
-### `anothergamer`
+### `gamerf`
 
 > about the traveller and the trailblazer
 
+- features
+  - mihoyo pv styled title and cover
+  - each chapter of a typical image
+  - poetry words summarizing a story
+  - english voice & sub full gameplay
 - gi story in english
   - not for primogem
   - all archon quests

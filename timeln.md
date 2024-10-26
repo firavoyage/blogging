@@ -6465,3 +6465,181 @@ haircut? time for dinner.
 delayed to weekend.
 
 "得E门生"
+
+20:xx
+
+couldnt wait.
+
+got hair cut.
+
+23:xx
+
+playing sr...
+
+main quest: adventurine and acheron.
+
+defeated adventurine boss.
+
+## 20241023
+
+02:42
+
+playing bs official server...
+
+watched lucky star episode 2.
+
+02:52
+
+playing bs ranking...
+
+sleep.
+
+18:xx
+
+"jin luochen"?
+
+他也在我们学校!再隔壁班?
+
+"我高一军训就认识你了"
+
+"你太有特点了"
+
+"f!..."
+
+"(乐)你也认识我啊!"
+
+"我们全校都认识你,没准新高一..."
+
+"新高一认识我的也不少..."
+
+`ref` `weather` `important`
+
+**"他乡遇故知"**
+
+19:56
+
+`weather` `bangumi`
+
+review "lucky star episode 2"
+
+昨天一边打游戏一边看,没仔细看
+
+今天重新看,用了好多倒叙和插叙手法啊,虽然只是校园日常
+
+revise mistral
+
+adding important tag to things
+
+## 20241024
+
+01:48
+
+`gaming`
+
+revise readme.
+
+- i dont know... whoo... how boring.
+- Idle mode... *yawn* How boring.
+
+02:32
+
+reviewed lucky star episode 2
+
+which was watched mindlessly yesterday
+
+sleep.
+
+## 20241025
+
+02:47
+
+只是搜索了"皎月半撒花"的名字
+
+不知道为何在oi网路上逛了几圈...
+
+如是.
+
+03:31
+
+watched lucky star ep 3
+
+sleep.
+
+15:xx
+
+周凌:这个笔按两下就写字,按一下切换.
+
+f:这笔能按摩吗
+
+周凌:(乐)
+
+f:唐!(乐)
+
+f:电源开了吗?
+
+周凌:(乐!)
+
+16:xx
+
+球场还在养草.
+
+好像更旺盛了.
+
+21:13
+
+`gaming` `important`
+
+playing sr...
+
+reached eq 65.
+
+upgraded sparkle to lv 80
+
+**childhood's end**
+
+## 20241026
+
+14:xx
+
+get up.
+
+have a steamed bun.
+
+16:21
+
+playing sr...
+
+rainy weather outside...
+
+playing aoi teshima (haze)...
+
+depressed.
+
+watch lucky star? maybe in the evening. 
+
+done.
+
+- writing project voyagejs
+- lucky star
+- brawl stars nulls
+
+16:38
+
+writing voyagejs...
+
+cold windy and rainy outside.
+
+playing aoi teshima...
+
+sadness.
+
+20:01
+
+playing aoi teshima...
+
+black tea.
+
+- 0721
+- play brawlstars
+- write voyagejs
+- watch lucky star episode 4

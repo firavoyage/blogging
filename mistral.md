@@ -48,7 +48,7 @@ In conclusion, the passing youth is a bittersweet reminder of the fleeting natur
 
 ## classic songs
 
-`list` `ref` `music` `art`
+`list` `ref` `music` `art` `important`
 
 > $\to mistral \space large \space 2$
 
@@ -341,7 +341,7 @@ Here is a list of 50 English classic songs with their publication year:
 
 ## ballad songs
 
-`list` `ref` `music` `art`
+`list` `ref` `music` `art` `important`
 
 > $\to mistral \space large \space 2$
 
@@ -697,7 +697,7 @@ Learning web development from scratch can be an exciting and rewarding experienc
 
 ## retro
 
-`concept` `ref`
+`concept` `ref` `important`
 
 > $\to mistral \space large$
 
@@ -1775,7 +1775,7 @@ This implementation provides a good balance between the efficiency of merge sort
 
 ## functional programming
 
-`concept` `dev` `ref`
+`concept` `ref` `dev` `guide` `important`
 
 > $\to mistral \space large \space 2$
 
@@ -1817,7 +1817,7 @@ Popular languages for functional programming include Haskell, Lisp, Clojure, Erl
 
 ## object oriented programming
 
-`concept` `dev` `ref`
+`concept` `ref` `dev` `guide` `important`
 
 > $\to mistral \space large \space 2$
 
@@ -2155,7 +2155,7 @@ These macros can help you write more concise and readable code, especially when 
 
 ## oop principles
 
-`concept` `dev` `ref`
+`concept` `dev` `ref` `important`
 
 > $\to mistral \space large \space 2$
 
@@ -2209,7 +2209,7 @@ These principles help in creating modular, reusable, and maintainable code, maki
 
 ## fp principles
 
-`concept` `dev` `ref`
+`concept` `dev` `ref` `important`
 
 > $\to mistral \space large \space 2$
 
@@ -4555,7 +4555,7 @@ While these examples illustrate the basic concept, React's actual implementation
 
 ## elegance
 
-`concept` `ref`
+`concept` `ref` `important`
 
 > $\to mistral \space large \space 2$
 
@@ -5666,7 +5666,7 @@ This list covers many of the commonly used symbols in LaTeX. For more specialize
 
 ## latex math symbols comprehensive list
 
-`list` `ref`
+`list` `ref` `important`
 
 > $\to mistral \space large \space 2$
 
@@ -5986,7 +5986,7 @@ This list covers a wide range of symbols commonly used in LaTeX for mathematical
 
 ## latex math symbols underset limits
 
-`list` `ref`
+`list` `ref` `important`
 
 > $\to mistral \space large \space 2$
 
@@ -6156,7 +6156,7 @@ Both tools are highly regarded in the developer community, and many developers u
 
 ## to elegance
 
-`concept` `ref`
+`concept` `ref` `important`
 
 > $\to mistral \space large \space 2$
 
@@ -6190,7 +6190,7 @@ To achieve elegance, consider the following suggestions that apply to various as
 
 ## wisdom
 
-`concept` `ref`
+`concept` `ref` `important`
 
 > $\to mistral \space large \space 2$
 
@@ -6677,7 +6677,7 @@ Deconstruction, a term often associated with French philosopher Jacques Derrida,
 
 ## purity
 
-`concept` `ref`
+`concept` `ref` `important`
 
 > $\to mistral \space large \space 2$
 
@@ -6732,7 +6732,7 @@ Each of these sub-concepts can be explored in depth, and their meanings can vary
 
 ## unworldly purity
 
-`concept` `ref`
+`concept` `ref` `important`
 
 > $\to mistral \space large \space 2$
 
@@ -6852,7 +6852,7 @@ Material Design 3 represents an evolution of the design system, with a focus on 
 
 ## cpp define method
 
-`dev` `ref` `cpp`
+`concept` `history` `dev` `ref` `cpp` `important`
 
 > $\to mistral \space large \space 2$
 
@@ -6985,7 +6985,7 @@ This approach can make the code slightly more concise and easier to read, while 
 
 ## solitude
 
-`concept` `ref`
+`concept` `ref` `important`
 
 > $\to mistral \space large \space 2$
 
@@ -7021,7 +7021,7 @@ Each of these sub-concepts contributes to a broader understanding of solitude an
 
 ## to solitude
 
-`concept` `ref`
+`concept` `ref` `important`
 
 > $\to mistral \space large \space 2$
 
@@ -7057,7 +7057,7 @@ By incorporating these practices into your routine, you can achieve a deeper sen
 
 ## divine perspective
 
-`concept` `ref`
+`concept` `ref` `important`
 
 > $\to mistral \space large \space 2$
 
@@ -7089,31 +7089,35 @@ Adopting a divine perspective can help individuals navigate life with greater cl
 
 ## dissociation
 
-`concept` `ref`
+`concept` `ref` `important`
 
 > $\to mistral \space large \space 2$
 
-> dissociation
+> sub concepts of dissociation
 
-Dissociation is a common coping mechanism that people may experience in response to trauma or overwhelming stress. It's a disconnection or separation from something, such as your thoughts, feelings, memories, or sense of identity. Here are a few types of dissociation:
+Dissociation is a complex psychological process that involves a disconnection or disruption in consciousness, memory, identity, or perception. It's often used as a coping mechanism to manage overwhelming stress or trauma. Here are some key sub-concepts of dissociation:
 
-1. **Depersonalization**: Feeling detached from one's own body or mental processes, as if one is an outside observer of one's own life.
+1. **Depersonalization**: This is a sense of detachment or estrangement from one's self. People may feel as if they are observing themselves from outside their body, or feel like they are in a dream.
 
-2. **Derealization**: Feeling detached from one's surroundings, as if the world is unreal or distant.
+2. **Derealization**: This is a feeling of unreality or detachment from one's surroundings. People may feel like the world around them is not real, or they may see objects changing in shape, size, or color.
 
-3. **Dissociative Amnesia**: Inability to recall important personal information, usually of a traumatic or stressful nature, that is too extensive to be explained by ordinary forgetfulness.
+3. **Dissociative Amnesia**: This involves an inability to recall important personal information, usually related to a traumatic event, that is too extensive to be explained by ordinary forgetfulness.
 
-4. **Dissociative Identity Disorder (DID)**: Formerly known as multiple personality disorder, this is a complex psychological condition that is likely caused by many factors, including severe trauma during early childhood.
+4. **Dissociative Fugue**: In this state, people may suddenly and unexpectedly travel away from their home or place of work, and have amnesia for their past. They may also assume a new identity.
 
-5. **Dissociative Fugue**: A rare condition where a person suddenly and unexpectedly travels away from home or work, accompanied by an inability to remember one's past.
+5. **Dissociative Identity Disorder (DID)**: Formerly known as multiple personality disorder, DID is characterized by the presence of two or more distinct personality states that recurrently take control of the individual's behavior. This is accompanied by memory lapses that go beyond ordinary forgetfulness.
 
-Dissociation can be a normal response to stress or trauma, but if it's causing problems in your daily life, it's important to seek help from a mental health professional. Treatment often involves psychotherapy and may also include medication.
+6. **Identity Confusion**: This refers to a sense of uncertainty or confusion about one's own identity.
 
-Here are some grounding techniques that might help when feeling dissociated:
+7. **Identity Alteration**: This involves a shift in one's sense of identity, which may include changes in personality traits, personal history, and even personal preferences.
 
-- **5-4-3-2-1 technique**: Identify 5 things you can see, 4 things you can touch, 3 things you can hear, 2 things you can smell, and 1 thing you can taste.
-- **Deep breathing**: Focus on slow, steady breaths.
-- **Physical activity**: Go for a walk, do some light exercises, or stretch.
+8. **Emotional Numbing**: This is a sense of detachment from one's own emotions, often described as feeling numb or empty.
+
+9. **Out-of-Body Experiences**: These involve a feeling of floating outside of one's own body and, in some cases, perceiving it from a place outside.
+
+10. **Dissociative Trance**: This is a temporary alteration in the state of consciousness, characterized by a narrowing of awareness of immediate surroundings or a loss of contact with reality.
+
+Each of these sub-concepts can manifest differently from person to person, and they often overlap with one another. It's important to note that dissociation can be a normal response to stress, but if it's causing significant distress or impairment, it may be indicative of a dissociative disorder. If you or someone else is struggling with these symptoms, it's important to seek help from a mental health professional.
 
 ## cpp boost
 
@@ -7283,7 +7287,7 @@ In summary, a Turing machine is a simple yet powerful model of computation that 
 
 ## rss
 
-`concept` `history` `ref` `app` `comparison`
+`concept` `history` `dev` `ref` `comparison` `important`
 
 > $\to mistral \space large \space 2$
 
@@ -8667,7 +8671,7 @@ Ultimately, the choice between React and Svelte depends on your specific needs, 
 
 ## fp
 
-`concept` `ref` `dev` `guide`
+`concept` `ref` `dev` `guide` `important`
 
 > $\to mistral \space large \space 2$
 
@@ -8736,7 +8740,7 @@ These concepts work together to enable the creation of modular, reusable, and ma
 
 ## geniuses attention
 
-`concept` `ref`
+`concept` `ref` `history` `important`
 
 > $\to mistral \space large \space 2$
 
@@ -8768,7 +8772,7 @@ These areas of focus can vary greatly depending on the individual's interests, p
 
 ## metaphors
 
-`concept` `ref` `literary` `book`
+`concept` `ref` `literary` `book` `important`
 
 > $\to mistral \space large \space 2$
 
@@ -8796,7 +8800,7 @@ The book has had a significant impact on various fields, including linguistics, 
 
 ## geb
 
-`concept` `ref` `literary` `book`
+`concept` `ref` `literary` `book` `important`
 
 > $\to mistral \space large \space 2$
 
@@ -8810,7 +8814,7 @@ The book is known for its intricate and multifaceted exploration of the nature o
 
 ## why retro
 
-`concept` `ref`
+`concept` `ref` `important`
 
 > $\to mistral \space large \space 2$
 

@@ -49,22 +49,25 @@
   - wind of change (scorpions)
   - scarborough fair (sarah brightman)
   - the sound of silence (simon & garfunkel)
-  - lost for words (pink floyd)
   - a day in the life (the beatles)
+  - lost for words (pink floyd)
+  - world.execute(me); (mili)
+  - magnet (minato aqua & inuyama tamaki)
   - -tooi sora he- (manack & bruno wen li)
   - haru no kaze (aoi teshima)
   - hyehwadong (park bo ram)
+  - dry hands (c418)
   - the name of life (joe hisaishi)
   - the legend of zelda: ocarina of time title theme (koji kondo)
+  - yumeji’s theme (shigeru umebayashi)
   - caresse sur l'océan (bruno coulais & les petits chanteurs de saint-marc)
   - one more time, one more chance (masayoshi yamazaki)
   - the brave (yoasobi)
   - one last kiss (hikaru utada)
-  - ymca (village people)
-  - magnet (minato aqua & inuyama tamaki)
-  - burning desires (zzz studio & hoyo mix)
   - internet overdose (aiobahn & kotoko & needy girl overdose)
+  - burning desires (zzz studio & hoyo mix)
   - kletka (molchat doma)
+  - ymca (village people)
   - sky (beyond)
   - fu shi shan xia (eason chan)
   - counter-clockwise clock (jay chou)
@@ -98,6 +101,7 @@
   - .frieren: beyond journey's end (2023)
   - .bang dream! it's mygo!!!!! (2023)
   - .bocchi the rock (2022)
+  - .girls band cry (2024)
   - .oshi no ko (2023)
   - .bakemonogatari (2009)
   - .school days (2007)
@@ -130,6 +134,7 @@
   - .the legend of zelda: breath of the wild (2017)
   - .the legend of zelda: tears of the kingdom (2023)
   - .star craft (1998)
+  - .doom (1993)
   - .sekiro: shadows die twice (2019)
   - .elden ring (2022)
   - .the binding of isaac (2011)
@@ -160,10 +165,11 @@
   - refactoring ui (adam wathan & steve schoger)
   - gnome human interface guidelines (gnome)
   - clean code (robert c. martin)
+  - goalkicker (stack overflow documentation)
   - hello algo (krahets)
   - competitive programmers' handbook (antti laaksonen)
-  - goalkicker (stack overflow documentation)
   - oi wiki (oi wiki community)
+  - how to ask questions the smart way (eric steven raymond)
   - cut the knot: probability riddles (alexander bogomolny)
   - mathematics, no 2 secondary school attached to east china normal university (math group)
   - physics, no 2 secondary school attached to east china normal university (physics group)
@@ -184,6 +190,7 @@
   - .pride and prejudice (jane austen)
   - .if on a winter's night a traveler (italo calvino)
   - .the moon and sixpence (william somerset maugham)
+  - .story of your life (novella by ted chiang)
   - .country driving (peter hessler)
   - .jin ping mei (lanling xiaoxiao sheng)
   - .the wisdom of life (schopenhauer)
@@ -215,21 +222,20 @@
   - google
   - youtube
   - ruanyf weekly
-  - hacker news
   - css tricks
   - codepen spark
   - reddit old
-  - 4chan
-  - v2ex
+  - genius
   - nga bbs
-  - zhihu following
-  - luogu
-  - vijos
-  - libreoj
+  - zhihu
+  - v2ex
+  - hacker news
   - codeforces
+  - libre oj
+  - vijos
+  - luogu
   - csdiy
   - kaggle
-  - db ip
   - douban book top 250
   - douban movie top 250
   - my anime list top
@@ -247,7 +253,7 @@
   - foreverblog
 - - acheron
   - adventurine
-  - asta & herta
+  - asta & herta & screwllum
   - bessie & farmer john
   - chtholly
   - clara
@@ -255,17 +261,20 @@
   - fu xuan
   - gallagher
   - kaedehara kazuha
+  - kagami hiiragi & tsukasa hiiragi
   - kagura mea
   - kasugano sora
   - ke qing
+  - konata izumi
   - minato aqua
   - misha
+  - miyuki takara
   - nahida
   - necora nyaru electro kitty
   - numby & topaz
   - orient snowy lotus
+  - origami birds
   - rubert the emperor
-  - screwllum
   - seele & bronya
   - silver wolf & kafka
   - sparkle
@@ -276,17 +285,21 @@
   - akt animation
   - andrew yang
   - anthony fu antfu
-  - antonychenn genshin in chinese
+  - arseniy chebynkin arsenixc
   - barack obama
   - blue striped rabbit
   - brad traversy
   - cali castle
+  - caspar david friedric
   - change release
+  - chaochao divided by six & artistic tech
   - chen shiyu
   - chen suiyi chenbimo
   - chen xiao origami
+  - chen zhiwei
   - chen zihao
   - chino moca qiront
+  - claude monet
   - cloudwu codingnow
   - coding startup
   - cr ryley
@@ -297,6 +310,7 @@
   - diygod & justcc
   - dong guanxi
   - doris yee yeedor
+  - dudu cnblogs
   - edmund d zhang
   - fabrice bellard
   - fireship js framework
@@ -309,17 +323,19 @@
   - hui xinyu
   - interpreter gavin
   - james sinclair jrsinclair
+  - Jeff Hawkins
   - jiang yanyan
   - jiang zhijun
   - jiangly not dd
   - jin jinjin
+  - jin luochen
   - jin yudong krahets
   - jjying iconmoon
   - justyyuk doctor lai
   - kevin deng
   - kirikaze chiyuki chyk
   - kiun b
-  - kkksc03
+  - kkksc03 & chen zhe
   - linesoft
   - liu chenyu
   - liu yuan
@@ -334,7 +350,7 @@
   - memoir of prosperity
   - mike mirzayanov codeforces
   - mohamad light
-  - mr marmot & wojaks
+  - mr marmot & art school & wojaks
   - mr yu teaching physics
   - nat friedman
   - nicholas wei bro
@@ -346,12 +362,14 @@
   - paperclip
   - paul graham paulg
   - pea3nut peadar
+  - peng kunshuo orchidany
   - physixfan
   - promise of playboy
   - qingyu qwq
   - richard brawl stars
   - rodrigo pombo pombus
   - ruan yifeng ruanyf
+  - science fictional lycium chinense
   - shen ruochen
   - shen tongjun
   - spicy pidan porridge
@@ -392,19 +410,23 @@
   - helvetica neue
   - inconsolata
   - lato
+  - lora
   - montserrat
-  - noto sans cjk sc
-  - noto serif cjk sc
+  - noto sans
+  - noto serif
+  - playfair display
+  - poppins
+  - pt serif
   - resource han rounded cn
   - roboto
   - ubuntu sans
   - zhi mang xing
-- - ubuntu yaru
+- - dracula theme
   - nord theme
-  - dracula theme
   - monokai pro
   - atom one dark
   - chromium just black
+- - ubuntu yaru
   - google books classic
   - material design 2
   - material design 3
@@ -420,13 +442,16 @@
   - code 1.91.2
   - git 2.43
   - mistral-large 2
+  - github-copilot 1.242.0
+  - javascript-code-snippets 1.8.0
+  - javascript-snippets 0.4.0
+  - apt 2.7.14
   - flatpak 1.14.10
   - snap 2.63.1
-  - apt 2.7.14
-  - wine 9.0
-  - zsh 5.9
   - fcitx 5.1.7
   - v2raya 2.2.5.1
+  - wine 9.0
+  - zsh 5.9
   - g++ 13.2.0
   - python 3.12.3
   - node 18.19.1
@@ -509,25 +534,15 @@
 - where are geniuses' attentions dissolved?
   - knowledge isn't free
   - you have to pay attention
-- tell me, and i will forget
-  - show me, and i may remember
-  - involve me, and i will understand
+- idle mode... yawn... how boring.
+  - if you're not solving problems or writing up contributions
+  - then don't blame me if your life is boring
 - i do not know what i may appear to the world
   - but to myself i seem to have been only like a boy playing on the sea-shore
   - and diverting myself in now and then finding a smoother pebble or a prettier shell than ordinary
   - whilst the great ocean of truth lay all undiscovered before me
-- a ship in harbor is safe
-  - but that is not what ships are built for
-- if you can make a decision with analysis, you should do so
-  - but it turns out in life that your most important decisions are always made with instinct and intuition
-- if i make, like, three good decisions a day, that's enough
-  - warren buffett says he's good if he makes three good decisions a year
 - i have a small device in my pocket that provides access to nearly the sum total of human knowledge
   - i use it to get into pointless arguments with people i don't know and look at pictures of cats
-- stay focused, keep shipping
-  - build early, build always
-  - improve yourself, write solid/simple/stupid code
-  - live in the future and build what's missing
 - reading is active while watching tv is passive
   - all the research says reading a book is good for you
   - it reduces stress, promotes comprehension, relieves depression, helps you sleep and may contribute to preventing alzheimer's
@@ -541,6 +556,18 @@
   - there is a lucky star behind the darkness
   - waiting and shining with the freshest hope and warmest aura
   - some day. till then
+- if i make, like, three good decisions a day, that's enough
+  - and they should be as high quality as i can make them
+  - warren buffett says he's good if he makes three good decisions a year
+- tell me, and i will forget
+  - show me, and i may remember
+  - involve me, and i will understand
+- a ship in harbor is safe
+  - but that is not what ships are built for
+- stay focused, keep shipping
+  - build early, build always
+  - improve yourself, write solid/simple/stupid code
+  - live in the future and build what's missing
 - soli deo gloria.
   - god is light, and in him there is no darkness at all.
   - if we say we have fellowship with him yet walk in the darkness, we lie and do not practice the truth.
@@ -552,6 +579,7 @@
 - 遂迷不复得路
 - 念念不忘必有回响
 - 不如相忘于江湖
+- 且放白鹿青崖间
 - 木已成舟
 - 惟江上之清风
 - 以有涯随无涯殆已
@@ -568,6 +596,7 @@
 - 花开堪折直须折
 - 也无风雨也无晴
 - 无心插柳柳成荫
+- 他乡遇故知
 - 鸢飞戾天者望峰息心
 - 当时年少春衫薄
 - 寓形宇内复几时
@@ -587,11 +616,11 @@
   - `reflections` memories of the fellows
 - ideas
   - `projects` endeavours worthwhile
+  - `mistral` gamut of mistral ai
   - `wisdom` foresights and references
   - `quotes` perspective and thoughts
-  - `mistral` gamut of mistral ai
-  - `comments` what i have heard as a student
   - `idioms` lines and memes just for fun
+  - `comments` what i have heard as a student
   - `fin` words at the end of the day
 - self
   - `weekly` weekly plans at each time
@@ -617,15 +646,10 @@
 
 - `blogging` notebook librarian
 - `web` time capsule creator
-- `memories` life
-  - $\to \text{/perspective}$
-  - cyber wanderer
-  - $\to \text{/insight}$
-  - digital memories keeper
-  - $\to \text{/gaming}$
-  - internet otaku
-  - $\to \text{/school}$
-  - lifelong student
+- `memories/perspective` cyber wanderer
+- `memories/insight` digital memokeeper
+- `memories/gaming` internet otaku
+- `memories/school` lifelong learner
 - `programs` programmer
 - `music` music lover
 - `fonts` typography enthusiast
