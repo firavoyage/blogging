@@ -64,12 +64,13 @@
   - the brave (yoasobi)
   - one last kiss (hikaru utada)
   - internet overdose (aiobahn & kotoko & needy girl overdose)
-  - burning desires (zzz studio & hoyo mix)
+  - burning desires (burnice & zzz studio & hoyo mix)
   - kletka (molchat doma)
   - ymca (village people)
   - sky (beyond)
   - fu shi shan xia (eason chan)
   - counter-clockwise clock (jay chou)
+  - love before bc (jay chou)
   - story of time (luo da you)
   - fleet of time (faye wong)
 - - in solitude where we are least alone (2010)
@@ -174,6 +175,7 @@
   - physics, no 2 secondary school attached to east china normal university (physics group)
   - the scholars (wu jingzi)
   - nineteen eighty-four (george orwell)
+  - party (han han)
   - what i have seen (chai jing)
   - the chameleon (anton chekhov)
   - rashomon (ryunosuke akutagawa)
@@ -205,6 +207,7 @@
   - fyfy.fm (justin yan & hzlzh)
   - hard hacker (yixiao & 0xsaito & anson)
   - it gonglun (ipn)
+  - lex fridman podcast (lex fridman)
   - mindhub by product thinking (shaonan & fonter & mengna)
   - pan.icu (wu tao & rio)
   - pretro.xyz (ren ning & rio)
@@ -266,7 +269,7 @@
   - ke qing
   - konata izumi
   - minato aqua
-  - misha
+  - misha & mikhail the watchmaker
   - miyuki takara
   - nahida
   - necora nyaru electro kitty
@@ -302,19 +305,21 @@
   - coding startup
   - cr ryley
   - dai jiangqi
-  - pink rabbit oier
-  - fu su oier
   - dan abramov overreacted
+  - daughter's gamer mihoyo
   - di xuchen
   - diviner in spiritual wind
   - diygod & justcc
   - dong guanxi
   - doris yee yeedor
   - dudu cnblogs
+  - dusk's rain in early winter sr
   - edmund d zhang
+  - entropy increaser & math
   - fabrice bellard
   - fireship js framework
-  - foreman ma bedtime news madugong
+  - foreman ma madugong & bedtime news
+  - fu su oier
   - geek bay geekerwan
   - gu sen matrix67 & localhost-8080
   - gui minghao
@@ -337,6 +342,7 @@
   - kirikaze chiyuki chyk
   - kiun b
   - kkksc03 & chen zhe
+  - lex fridman
   - linesoft
   - liu yuan
   - livid v2ex
@@ -363,9 +369,12 @@
   - pea3nut peadar
   - peng kunshuo orchidany
   - physixfan
+  - pink rabbit oier
+  - poker mihoyo
   - promise of playboy sr
   - qingyu codeforces
   - richard bs
+  - right that asd mihoyo
   - rodrigo pombo pombus
   - ruan yifeng ruanyf
   - science fictional lycium chinense
@@ -393,7 +402,7 @@
   - yin ming kalasoo
   - yue fukang
   - yuluer
-  - yunling sapphire
+  - yunling sapphire & high school life
   - zhang chuanzhi
   - zhang xizhe
   - zhao jinjiang jiongks

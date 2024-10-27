@@ -260,9 +260,11 @@
 - features
   - choosing before reading
   - more than text
+  - categorized source list
   - site subscription
   - tag based recommendation
   - timeless archive
+  - stop point "you've caught up"
   - poster sharing
   - cross platform
   - cli support

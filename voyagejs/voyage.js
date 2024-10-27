@@ -8,36 +8,28 @@ let voyage = {
   components: {},
   counter: {
     componentid: 0,
+    current: 0,
   },
   generate() {
     let { counter } = voyage;
     counter.componentid++;
+    counter.current = counter.componentid;
     return counter.componentid;
   },
   select(componentid) {
-    let node = document.querySelector(`[componentid="${componentid}"]`);
+    const node = document.querySelector(`[componentid="${componentid}"]`);
     return node;
   },
   createNode(element) {
-    if (!element) {
-      element = [];
-    }
+    element = element || [];
     let [tag, labels, children] = element;
-    if (!tag) {
-      tag = "div";
-    }
-    if (!labels) {
-      labels = {};
-    }
-    if (!children) {
-      children = [];
-    }
+    tag = tag || "div";
+    labels = labels || {};
+    children = children || [];
     let node = document.createElement(tag);
-
     for (const label in labels) {
       node.setAttribute(label, labels[label]);
     }
-
     if (typeof children === "string") {
       node.innerText = children;
     } else {
@@ -50,6 +42,7 @@ let voyage = {
         }
       }
     }
+    return node;
   },
   create(...options) {
     const { createNode } = voyage;
@@ -60,22 +53,38 @@ let voyage = {
     }
   },
   storeState(initial) {
-    const { componentid } = voyage.counter;
-    
+    const { current } = voyage.counter;
   },
   storeGlobal(arguments) {},
   store(options) {
     const { storeState, storeGlobal } = voyage;
     let { storage, states } = voyage;
+    if(options instanceof Array){
+      //states
+    }else if (options instanceof Object) {
+      //global
+      storeGlobal(options)
+    }else {
+      //state
+      storeState(options)
+    }
   },
   define() {},
   run(options) {},
   remove() {},
 };
 
-//unit tests
 let examples = {
-  counter() {},
+  counter() {
+    const { store, create } = voyage;
+    let count = store(0);
+    let dec = create("button", undefined, "-");
+    let num = create("input", { type: "text", value: count });
+    let inc = create("button", undefined, "+");
+    let combined = create("", "", [dec, num, inc]);
+    console.log(dec);
+    document.body.appendChild(combined);
+  },
 };
 
 examples.counter();

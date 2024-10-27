@@ -286,22 +286,22 @@ some quotes
 - screenshots on ruanyifeng's blog
 ```
 
-## 20230000
+## 20240000
 
 ```
-# 2023 Summary
-At the end of every year people always make a sum up about what they have done.
-You may see some of them on ruanyf's blog,codeforces.com.
-For me, I finished junior high school with not such a hight score in high school entrance exam.
-But it was just the beginning of my life in Dajing HS.
-I had a few boring trips in summer vacation.
-I achieved No1 in the first exam at school but in fact it was meaningless.
-In Oct, I picked up my Lv1 GI account which was quickly abandoned after I reg it in July2021.
-I also played CR,BS,IdV,some galgames and some retro offline games a lot and it was really fun.
-I attempted to build friendships with some of my classmates but actually it turned out that I was too young and too naive.
-I progressed further in English, Math and OI.
-I would like to pick up my interest in Physics and Chemistry in the next year;
-To my wish, I will achieve more in the subjects I love and widen my impact on internet.
+# 2023 summary
+at the end of every year people always make a sum up about what they have done.
+you may see some of them on ruanyf's blog,codeforces.com.
+for me, i finished junior high school with not such a hight score in high school entrance exam.
+but it was just the beginning of my life in djhs.
+i had a few boring trips in summer vacation.
+i achieved no1 in the first exam at school but in fact it was meaningless.
+in oct, i picked up my lv1 gi account which was quickly abandoned after i reg it in july2021.
+i also played cr,bs,idv,some galgames and some retro offline games a lot and it was really fun.
+i attempted to build friendships with some of my classmates but actually it turned out that i was too young and too naive.
+i progressed further in english, math and oi.
+i would like to pick up my interest in physics and chemistry in the next year;
+to my wish, i will achieve more in the subjects i love and widen my impact on internet.
 ```
 
 ## 20240103
@@ -6689,3 +6689,146 @@ sleep. sleep is the best pleasure.
 tomorrow plan.
 
 finish writing voyagejs 0.8
+
+17:36
+
+`gaming`
+
+playing sr.
+
+switched to bothil & robin perspective
+
+beated knight of beauty
+
+facing sunday
+
+"through harmony, we get order"
+
+"build a cage for it or not"
+
+19:21
+
+`gaming`
+
+playing sr.
+
+"the order is dead!"
+
+"the world is harmony!"
+
+19:xx
+
+had kfc.
+
+cocacola is great
+
+20:00
+
+`gaming`
+
+playing sr.
+
+fighting order's three puppets
+
+"past present and future"
+
+"no one claimed order's grace. all puppets will recieve more dmg."
+
+20:10
+
+`gaming`
+
+playing sr.
+
+fighting "harmonious choir" the great septimus
+
+the conductor, the order.
+
+"walk in the light"
+
+"no one reponses to the god, the order failed to launch"
+
+20:46
+
+`gaming`
+
+playing sr.
+
+"Honkai Star Rail"
+
+"Leading Actor: f"
+
+"... as ..."
+
+21:11
+
+`gaming`
+
+playing sr.
+
+into a story
+
+using trailblazer (harmony)
+
+`laughter`
+
+https://www.bilibili.com/video/BV1Hx4UeeEv1
+
+no story order. awkward!
+
+21:46
+
+`gaming`
+
+playing sr.
+
+robin:
+
+"brother, it's not the eden people want"
+
+(callback gi raiden shogun "numerous desiderta")
+
+"embryo of philosophy sunday"
+
+21:55
+
+`gaming`
+
+playing sr.
+
+"harmony embraces order, again."
+
+again:
+
+penacony, the dreamland.
+
+$$fin.$$
+
+"Honkai: Star Rail"
+
+"leadering actor:f "
+
+"superviser elio"
+
+goodnight, mikhail.
+
+"May this journey lead us starward"
+
+23:03
+
+swimming...
+
+- play sr (done.)
+- write voyagejs (wip)
+- play bs
+- watch lucky star 
+
+`retro`
+
+watched some mihoyo gameplay vid...
+
+brought me a sense of nostalgia...
+
+first days in genshin... so beautiful...
+
+and end up repeating and repeating.
