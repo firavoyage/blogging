@@ -1,5 +1,5 @@
-//20241027
-//voyagejs 0.8
+//20241026
+//voyagejs 0.7
 
 let voyage = {
   storage: {},
@@ -18,7 +18,7 @@ let voyage = {
     let node = document.querySelector(`[componentid="${componentid}"]`);
     return node;
   },
-  createNode(element) {
+  create(element) {
     if (!element) {
       element = [];
     }
@@ -43,30 +43,25 @@ let voyage = {
     } else {
       for (const child of children) {
         if (child instanceof Array) {
-          const { createNode } = voyage;
-          node.appendChild(createNode(child));
-        } else if (child instanceof Node) {
+          const { create } = voyage;
+          node.appendChild(create(child));
+        } 
+        else if (child instanceof Node) {
           node.appendChild(child);
         }
       }
     }
   },
-  create(...options) {
-    const { createNode } = voyage;
-    if (options[0] instanceof Array) {
-      return createNode(options[0]);
-    } else {
-      return createNode(options);
-    }
+  storeState(){
+    const {componentid} = voyage.counter
   },
-  storeState(initial) {
-    const { componentid } = voyage.counter;
+  storeGlobal(arguments) {
     
   },
-  storeGlobal(arguments) {},
   store(options) {
-    const { storeState, storeGlobal } = voyage;
-    let { storage, states } = voyage;
+    const {storeState,storeGlobal} =voyage
+    let {storage,states} = voyage
+    
   },
   define() {},
   run(options) {},

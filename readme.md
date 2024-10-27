@@ -10,7 +10,7 @@
 
 - an entrepreneur, developer, writer
 - grew up in shanghai
-- on the internet since 2019, which is my actual "home town"
+- on the internet since 2016, which is my actual "home town"
 - live in djhs
 - working on voyage project
 
@@ -25,7 +25,6 @@
 
 ## perception
 
-- - 🌕 💤 23:00
 - - black tea
   - cocacola zero
   - boba tea
@@ -228,12 +227,14 @@
   - genius
   - nga bbs
   - zhihu
-  - v2ex
+  - v2ex creative
   - hacker news
   - codeforces
   - libre oj
   - vijos
   - luogu
+  - travellings
+  - foreverblog
   - csdiy
   - kaggle
   - douban book top 250
@@ -249,8 +250,6 @@
   - dribbble popular
   - github awesome
   - product hunt all time
-  - travellings
-  - foreverblog
 - - acheron
   - adventurine
   - asta & herta & screwllum

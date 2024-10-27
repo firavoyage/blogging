@@ -727,6 +727,8 @@ Learning web development from scratch can be an exciting and rewarding experienc
 
 ## cencership
 
+`list` `ref`
+
 > $\to mistral \space large$
 
 > countries with network cencership
@@ -8770,6 +8772,56 @@ Geniuses often have their attention dissolved or deeply engaged in several areas
 
 These areas of focus can vary greatly depending on the individual's interests, personality, and field of expertise.
 
+> where are geniuses' attention dissolved
+
+Geniuses often have their attention dissolved or focused in several areas, driven by their intense curiosity, deep thinking, and passion for learning. Here are some common areas where their attention might be engaged:
+
+1. **Problem-Solving**: Geniuses often focus on complex problems that others may find daunting. They can become deeply engrossed in finding solutions or innovations.
+
+2. **Learning and Research**: They frequently delve deep into subjects that interest them, reading widely and conducting thorough research to gain a comprehensive understanding.
+
+3. **Creative Pursuits**: Many geniuses channel their attention into creative outlets such as art, music, writing, or inventing. This allows them to express their unique perspectives and ideas.
+
+4. **Pattern Recognition**: They often look for patterns and connections that others might miss, which can lead to breakthroughs in various fields.
+
+5. **Introspection and Reflection**: Geniuses may spend a lot of time in thought, reflecting on their experiences, ideas, and the world around them. This introspection can lead to profound insights.
+
+6. **Interdisciplinary Exploration**: They often have diverse interests and can see connections between seemingly unrelated fields. This interdisciplinary approach can lead to innovative ideas and solutions.
+
+7. **Collaboration and Discussion**: Engaging with other intellectuals, experts, or peers can stimulate their thinking and help refine their ideas.
+
+8. **Experimentation and Exploration**: They might be deeply involved in hands-on experimentation or exploration, whether in a lab, through travel, or in other forms of experiential learning.
+
+9. **Philosophical and Theoretical Thought**: Geniuses often ponder deep philosophical questions and theoretical concepts, seeking to understand the fundamental nature of reality, knowledge, and existence.
+
+10. **Practical Application**: They might be focused on applying their knowledge and ideas to real-world problems, aiming to make a tangible impact.
+
+While their attention can be highly focused, it can also be quite fluid, moving between different areas of interest and exploration. This multifaceted approach often contributes to their innovative and groundbreaking work.
+
+> where are geniuses' attention dissolved
+
+Geniuses often have their attention dissolved or absorbed in various areas due to their intense curiosity, deep thinking, and passion for learning. Here are a few common areas where geniuses might focus their attention:
+
+1. **Problem-Solving**: Geniuses often devote significant attention to complex problems, puzzles, or challenges in their fields of interest. They may become deeply engrossed in finding solutions or innovations.
+
+2. **Learning and Research**: Many geniuses are lifelong learners, constantly reading, studying, and researching to expand their knowledge and understanding of the world.
+
+3. **Creative Pursuits**: Geniuses may focus their attention on creative endeavors such as art, music, writing, or designing, as these activities allow them to express their unique perspectives and ideas.
+
+4. **Pattern Recognition**: Geniuses often pay close attention to patterns and connections that others might miss. They may spend considerable time observing, analyzing, and interpreting these patterns.
+
+5. **Daydreaming and Mind Wandering**: Some geniuses may appear to be lost in thought or daydreaming. This can be a productive process where they explore ideas, make connections, and generate insights.
+
+6. **Deep Work and Flow States**: Geniuses often engage in deep work, where they focus intensely on a single task or project for extended periods. This can lead to a state of flow, where they are completely absorbed in their work.
+
+7. **Philosophical and Existential Questions**: Many geniuses are drawn to big, fundamental questions about life, the universe, and everything. They may spend considerable time pondering these questions and exploring potential answers.
+
+8. **Observing the World**: Geniuses may pay close attention to the world around them, noticing details and nuances that others might miss. This keen observation can fuel their curiosity and inspire new ideas.
+
+9. **Making Connections**: Geniuses often focus on interdisciplinary connections, drawing links between seemingly disparate fields or ideas.
+
+10. **Teaching and Mentoring**: Some geniuses devote significant attention to sharing their knowledge and insights with others, helping to inspire and educate the next generation.
+
 ## metaphors
 
 `concept` `ref` `literary` `book` `important`
@@ -8820,26 +8872,179 @@ The book is known for its intricate and multifaceted exploration of the nature o
 
 > reasons for retro
 
-Retro aesthetics and styles have seen a resurgence in recent years for several reasons:
+There are several reasons why people might be drawn to retro styles, aesthetics, or activities. Here are a few:
 
-1. **Nostalgia**: Many people find comfort in revisiting the past. Retro styles evoke memories of simpler times or happy moments from one's youth.
+1. **Nostalgia**: Retro trends often evoke feelings of nostalgia, reminding people of simpler times or happy memories from their past. This can provide a sense of comfort and familiarity.
 
-2. **Cultural Cyclicity**: Fashion, design, and cultural trends often move in cycles. What was once old becomes new again as younger generations rediscover and reinterpret past trends.
+2. **Timeless Design**: Many retro styles, such as those from the mid-century modern era, are considered timeless and continue to be appreciated for their aesthetic value.
 
-3. **Authenticity and Quality**: Some retro products are perceived to be of higher quality and more authentic than contemporary ones. This is often seen in the appreciation for vintage vinyl records, classic cars, or vintage fashion.
+3. **Quality and Durability**: Items from the past were often built to last. This is appealing to those who value durability and sustainability over disposable, fast-fashion trends.
 
-4. **Escapism**: In times of uncertainty or rapid change, people may turn to retro styles as a form of escapism, seeking comfort in the familiar and predictable.
+4. **Self-Expression**: Retro styles can help people express their individuality and personal style, allowing them to stand out from the crowd.
 
-5. **Aesthetic Appeal**: Retro designs often have a unique and appealing aesthetic that stands out in today's world. They can be vibrant, playful, or elegantly simple, depending on the era they draw from.
+5. **Escapism**: In today's fast-paced, technology-driven world, some people find solace in retro activities or environments that offer a slower pace and a break from modern life.
 
-6. **Sustainability**: With growing concerns about the environment, there's an increased interest in vintage or retro items as a way to reduce waste and promote sustainability.
+6. **Cultural Influences**: Movies, TV shows, music, and other forms of media often glamorize or romanticize certain time periods, leading to a renewed interest in those eras.
 
-7. **Self-Expression**: Retro styles allow people to express their individuality and personal style, drawing from a wide range of past influences.
+7. **Sustainability**: There's an environmental aspect to retro as well. Reusing, repurposing, and recycling old items aligns with sustainable practices.
 
-8. **Pop Culture Influence**: Movies, TV shows, and music often glamorize or romanticize certain time periods, leading to a renewed interest in those eras' styles.
+8. **Appreciation for Craftsmanship**: Many retro items were handcrafted or made with techniques that are less common today. Appreciating the skill and artistry involved can be a reason to embrace retro.
 
-9. **Timeless Design**: Some retro designs are considered timeless and continue to be appreciated for their enduring appeal.
+9. **Historical Interest**: Some people are simply fascinated by history and enjoy incorporating elements of the past into their present lives.
 
-10. **Rebellion**: In some cases, embracing retro styles can be a form of rebellion against current trends or mainstream culture.
+10. **Trend Cycles**: Fashion and design trends often recur in cycles. What was once old can become new and exciting again.
 
-These reasons can vary greatly from person to person, but they all contribute to the ongoing appeal of retro styles.
+These reasons can vary greatly from person to person, but they all contribute to the enduring appeal of retro styles.
+
+## mithril examples
+
+`dev` `comparison` `library` `guide`
+
+> $\to mistral \space large \space 2$
+
+> mithriljs component examples
+
+Mithril.js is a modern client-side JavaScript framework for building Single Page Applications. It's small (< 10kb gzip), fast, and provides routing and XHR utilities out of the box. Below are some examples of Mithril.js components to help you get started.
+
+### Basic Component
+
+Here's a simple component that displays a message:
+
+```javascript
+// Define a component
+const Hello = {
+  view: function (vnode) {
+    return m("div", "Hello, Mithril!");
+  },
+};
+
+// Mount the component to the DOM
+m.mount(document.body, Hello);
+```
+
+### Component with Props
+
+A component that accepts properties:
+
+```javascript
+// Define a component with props
+const Greeting = {
+  view: function (vnode) {
+    return m("div", `Hello, ${vnode.attrs.name}!`);
+  },
+};
+
+// Mount the component to the DOM with props
+m.mount(document.body, {
+  view: function () {
+    return m(Greeting, { name: "World" });
+  },
+});
+```
+
+### Component with State
+
+A component that manages its own state:
+
+```javascript
+// Define a component with state
+const Counter = {
+  oninit: function (vnode) {
+    vnode.state.count = 0;
+  },
+  view: function (vnode) {
+    return m("div", [
+      m("button", { onclick: () => vnode.state.count++ }, "Increment"),
+      m("p", `Count: ${vnode.state.count}`),
+    ]);
+  },
+};
+
+// Mount the component to the DOM
+m.mount(document.body, Counter);
+```
+
+### Component with Lifecycle Methods
+
+A component that uses lifecycle methods:
+
+```javascript
+// Define a component with lifecycle methods
+const LifecycleComponent = {
+  oninit: function (vnode) {
+    console.log("Component initialized");
+  },
+  oncreate: function (vnode) {
+    console.log("Component created");
+  },
+  onupdate: function (vnode) {
+    console.log("Component updated");
+  },
+  onbeforeremove: function (vnode) {
+    console.log("Component will be removed");
+  },
+  onremove: function (vnode) {
+    console.log("Component removed");
+  },
+  view: function (vnode) {
+    return m("div", "Lifecycle Component");
+  },
+};
+
+// Mount the component to the DOM
+m.mount(document.body, LifecycleComponent);
+```
+
+### Component with Routing
+
+A simple example of routing in Mithril.js:
+
+```javascript
+// Define components
+const Home = {
+  view: function () {
+    return m("div", "Home Page");
+  },
+};
+
+const About = {
+  view: function () {
+    return m("div", "About Page");
+  },
+};
+
+// Define routes
+m.route(document.body, "/", {
+  "/": Home,
+  "/about": About,
+});
+```
+
+### Component with XHR
+
+A component that makes an HTTP request:
+
+```javascript
+// Define a component that makes an XHR request
+const UserProfile = {
+  oninit: function (vnode) {
+    m.request({
+      method: "GET",
+      url: "https://api.example.com/user/1",
+    }).then(function (data) {
+      vnode.state.user = data;
+    });
+  },
+  view: function (vnode) {
+    return m(
+      "div",
+      vnode.state.user ? `Name: ${vnode.state.user.name}` : "Loading..."
+    );
+  },
+};
+
+// Mount the component to the DOM
+m.mount(document.body, UserProfile);
+```
+
+These examples should give you a good starting point for building components with Mithril.js. You can explore more advanced features and patterns as you become more comfortable with the framework.

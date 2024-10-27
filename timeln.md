@@ -6637,9 +6637,55 @@ sadness.
 
 playing aoi teshima...
 
-black tea.
+**black tea.**
 
 - 0721
 - play brawlstars
 - write voyagejs
 - watch lucky star episode 4
+
+best of today: **vscode ext javascript snippets**
+
+## 20241027
+
+sunday!
+
+00:xx
+
+playing nulls cr.
+
+jokenpo rts game
+
+constantly matching low rating guys.
+
+couldnt go up. fuck.
+
+01:xx
+
+playing brawl stars ranked
+
+no op brawlers owned in official server
+
+so nulls.
+
+fucking teammates. some even idling.
+
+02:xx
+
+swimming...
+
+ask mistral about genius and mithriljs
+
+mithril is nothing but 
+
+a node creation function and a vue like state management
+
+03:19
+
+watched lucky star episode 4
+
+sleep. sleep is the best pleasure.
+
+tomorrow plan.
+
+finish writing voyagejs 0.8
