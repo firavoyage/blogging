@@ -290,8 +290,7 @@
   - brad traversy
   - cali castle
   - caspar david friedric
-  - change release
-  - chaochao divided by six & artistic tech
+  - change release mihoyo
   - chen shiyu
   - chen suiyi chenbimo
   - chen xiao origami
@@ -303,6 +302,8 @@
   - coding startup
   - cr ryley
   - dai jiangqi
+  - pink rabbit oier
+  - fu su oier
   - dan abramov overreacted
   - di xuchen
   - diviner in spiritual wind
@@ -313,6 +314,7 @@
   - edmund d zhang
   - fabrice bellard
   - fireship js framework
+  - foreman ma bedtime news madugong
   - geek bay geekerwan
   - gu sen matrix67 & localhost-8080
   - gui minghao
@@ -322,7 +324,7 @@
   - hui xinyu
   - interpreter gavin
   - james sinclair jrsinclair
-  - Jeff Hawkins
+  - jeff hawkins
   - jiang yanyan
   - jiang zhijun
   - jiangly not dd
@@ -336,26 +338,24 @@
   - kiun b
   - kkksc03 & chen zhe
   - linesoft
-  - liu chenyu
   - liu yuan
   - livid v2ex
   - longbow flintlock
   - lu jianhong
   - lv fuyuan
-  - ma dugong bedtime news
   - ma zhengyao
-  - magicalflower
+  - magicalflower codeforces
   - math contest fei bro
-  - memoir of prosperity
+  - memoir of prosperity sr
   - mike mirzayanov codeforces
-  - mohamad light
+  - mohamad light cr
   - mr marmot & art school & wojaks
   - mr yu teaching physics
   - nat friedman
-  - nicholas wei bro
-  - nova lciop
+  - nicholas wei bro mihoyo
+  - nova lciop cr
   - old bai sleepwalked waifu vr
-  - old ocean tubber
+  - old ocean tubber mihoyo
   - old skilled tofu
   - one math
   - paperclip
@@ -363,25 +363,26 @@
   - pea3nut peadar
   - peng kunshuo orchidany
   - physixfan
-  - promise of playboy
-  - qingyu qwq
-  - richard brawl stars
+  - promise of playboy sr
+  - qingyu codeforces
+  - richard bs
   - rodrigo pombo pombus
   - ruan yifeng ruanyf
   - science fictional lycium chinense
   - shen ruochen
   - shen tongjun
+  - six divided chaochao & retro art
   - spicy pidan porridge
   - sqr5's blog
   - tail tail desu
-  - tamicake1479
+  - tamicake1479 cr
   - tim qian
   - timochan
   - tourist codeforces
   - trent walton
   - unfettered idle man
-  - upright flies
-  - wanderer brawl stars
+  - upright flies mihoyo
+  - wanderer bs
   - wang xiaofeng
   - wang zhaohai
   - wes bos
