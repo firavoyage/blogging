@@ -1,5 +1,5 @@
-//20241031
-//voyagejs 0.12
+//20241029
+//voyagejs 0.9
 
 let voyage = {
   storage: {},
@@ -22,13 +22,6 @@ let voyage = {
     }
     return obj.hasOwnProperty(key);
   },
-  lacks(obj, key) {
-    const { isnt } = voyage;
-    if (isnt(typeof obj, "object")) {
-      return false;
-    }
-    return !obj.hasOwnProperty(key);
-  },
   generate() {
     let { counter } = voyage;
     counter.componentid++;
@@ -38,30 +31,23 @@ let voyage = {
     const node = document.querySelector(`[componentid="${componentid}"]`);
     return node;
   },
-  callComponent(component, componentid) {
-    const { lacks } = voyage;
-    let { states, counter } = voyage;
-    if (lacks(states, componentid)) {
-      states[componentid] = [];
-    }
-    counter.current = componentid;
-    states[componentid].order = 0;
-    const node = component();
-    node.setAttribute("componentid", componentid);
-    return node;
-  },
-  createComponent(component) {
-    let { states } = voyage;
-    const { lacks } = voyage;
+  createComponent(component, parent) {
+    const { has } = voyage;
     const { generate } = voyage;
-    const { callComponent, updateComponent } = voyage;
+    const { updateComponent } = voyage;
+    let { states, counter } = voyage;
     const componentid = generate();
-    const node = callComponent(component, componentid);
-    if (lacks(states[componentid], "update")) {
+    counter.current = componentid;
+    states[componentid] = states[componentid] || [];
+    if (!has(states[componentid], "update")) {
       states[componentid].update = function () {
         updateComponent(component, componentid);
       };
     }
+    states[componentid].order = 0;
+    const node = component();
+    states[componentid].order = 0;
+    node.setAttribute("componentid", componentid);
     return node;
   },
   createNode(element) {
@@ -104,11 +90,11 @@ let voyage = {
   },
   storeState(initial) {
     let { states } = voyage;
-    const { isnt, lacks } = voyage;
+    const { isnt, has } = voyage;
     const { current } = voyage.counter;
     const { order: here } = states[current];
     const { defineProperty: watch } = Object;
-    if (lacks(states[current], here)) {
+    if (!has(states[current], here)) {
       states[current][here] = initial;
     }
     let result = Object(states[current][here]);
@@ -123,8 +109,8 @@ let voyage = {
         }
       },
     };
-    const aliases = ["v", "value"];
-    for (let key of aliases) {
+    const alias = ["v", "value"];
+    for (let key of alias) {
       watch(result, key, eye);
     }
     states[current].order++;
@@ -151,9 +137,14 @@ let voyage = {
   },
   updateComponent(component, componentid) {
     const { select } = voyage;
-    const { callComponent } = voyage;
+    let { states, counter } = voyage;
     const node = select(componentid);
-    const newComponent = callComponent(component, componentid);
+    states[componentid] = states[componentid] || [];
+    states[componentid].order = 0;
+    counter.current = componentid;
+    const newComponent = component();
+    newComponent.setAttribute("componentid", componentid);
+    states[componentid].order = 0;
     node.parentNode.replaceChild(newComponent, node);
   },
   define() {},
@@ -163,7 +154,7 @@ let voyage = {
     if (options[1]) {
       [component, parent] = options;
     }
-    const node = createComponent(component);
+    const node = createComponent(component, parent);
     parent.appendChild(node);
   },
   remove() {},
@@ -173,23 +164,15 @@ let examples = {
   counter() {
     const { store, create } = voyage;
     let count = store(0);
-    const dec = function () {
+    const dec = function (arguments) {
       count.v--;
     };
-    const inc = function () {
+    const inc = function (arguments) {
       count.v++;
-    };
-    const change = function (e) {
-      const value = e.target.value;
-      if (isNaN(value)) {
-        count.v = 0;
-      } else {
-        count.v = value;
-      }
     };
     let combined = create("", "", [
       ["button", { "@click": dec }, "-"],
-      ["input", { type: "text", value: count, "@change": change }],
+      ["input", { type: "text", value: count }],
       ["button", { "@click": inc }, "+"],
     ]);
     return combined;
@@ -198,62 +181,3 @@ let examples = {
 
 voyage.run(examples.counter, document.body);
 voyage.run(examples.counter, document.body);
-
-// todo
-// 
-// remove
-// - need to select componentid -> failed -> remove componentid
-// ref decorator for state
-// - ref() (state without default change function)
-// macro
-// - built in macro ("@model")
-// - define macro (macro(node,state obj))
-// create component
-// - create(fn,[arg],children)
-// custom efficient update function
-// - state.update (default updateComponent)
-// - state bind list (everywhere concerned with)
-// - bind list item [node,attribute,reducer]
-// component public states with key
-// - state = store({key:value})
-// - [state,state2] = store([{key:value},{key2:value2}])
-// - get(componentid,state key)
-// - state.id (componentid & state key)
-// - state = storeGlobal({key:value})
-// select while create
-// - attribute $0 $1 $2
-// - input = select("$0")
-// - [input] = select(["$0"])
-// - input.focus()
-// - component = select("$xyz")
-// - component.state key (proxy or obj def prop)
-// - nav = select(parent,location [0,1,0,2])
-// dom method macros
-// - steal from jquery
-// - learn from common use case
-// unit test 
-// - mulitple states in one component
-// - implement more svelte examples
-// revise
-// - less typing
-// - clear variable name
-// - function poly
-// analyzer
-// - precompiler like svelte
-// - generate while create (by state get observer)
-// - if get elsewhere (maybe conditional rendering) then dont optimize
-// - dom update diff (update virtual dom everytime)
-// examples
-// - chakra ui in voyage
-// - material ui in voyage
-// theme
-// - mihoyo sr
-// - google books classic'
-// - ...
-// xhr
-// - from jquery
-// - sync and async
-// route
-// - simple
-// - custom reducer
-

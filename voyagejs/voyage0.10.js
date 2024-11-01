@@ -1,5 +1,5 @@
-//20241031
-//voyagejs 0.12
+//20241029
+//voyagejs 0.10
 
 let voyage = {
   storage: {},
@@ -47,6 +47,7 @@ let voyage = {
     counter.current = componentid;
     states[componentid].order = 0;
     const node = component();
+    states[componentid].order = 0;
     node.setAttribute("componentid", componentid);
     return node;
   },
@@ -180,16 +181,16 @@ let examples = {
       count.v++;
     };
     const change = function (e) {
-      const value = e.target.value;
-      if (isNaN(value)) {
+      const value = e.target.value
+      if(isNaN(value)){
         count.v = 0;
-      } else {
+      }else {
         count.v = value;
       }
     };
     let combined = create("", "", [
       ["button", { "@click": dec }, "-"],
-      ["input", { type: "text", value: count, "@change": change }],
+      ["input", { type: "text", value: count,"@change":change }],
       ["button", { "@click": inc }, "+"],
     ]);
     return combined;
@@ -200,60 +201,11 @@ voyage.run(examples.counter, document.body);
 voyage.run(examples.counter, document.body);
 
 // todo
-// 
 // remove
-// - need to select componentid -> failed -> remove componentid
-// ref decorator for state
-// - ref() (state without default change function)
-// macro
-// - built in macro ("@model")
-// - define macro (macro(node,state obj))
-// create component
-// - create(fn,[arg],children)
-// custom efficient update function
-// - state.update (default updateComponent)
-// - state bind list (everywhere concerned with)
-// - bind list item [node,attribute,reducer]
-// component public states with key
-// - state = store({key:value})
-// - [state,state2] = store([{key:value},{key2:value2}])
-// - get(componentid,state key)
-// - state.id (componentid & state key)
-// - state = storeGlobal({key:value})
-// select while create
-// - attribute $0 $1 $2
-// - input = select("$0")
-// - [input] = select(["$0"])
-// - input.focus()
-// - component = select("$xyz")
-// - component.state key (proxy or obj def prop)
-// - nav = select(parent,location [0,1,0,2])
-// dom method macros
-// - steal from jquery
-// - learn from common use case
-// unit test 
-// - mulitple states in one component
-// - implement more svelte examples
-// revise
-// - less typing
-// - clear variable name
-// - function poly
-// analyzer
-// - precompiler like svelte
-// - generate while create (by state get observer)
-// - if get elsewhere (maybe conditional rendering) then dont optimize
-// - dom update diff (update virtual dom everytime)
-// examples
-// - chakra ui in voyage
-// - material ui in voyage
-// theme
-// - mihoyo sr
-// - google books classic'
-// - ...
-// xhr
-// - from jquery
-// - sync and async
-// route
-// - simple
-// - custom reducer
-
+// state.update (initial updateComponent)
+// -> state bind list (everywhere concerned with)
+// state id (component id + state order | state key)
+// -> get componentid (node)
+// -> component public storage (key value)
+// store({key:value}[]) ...
+// global storage method & use case

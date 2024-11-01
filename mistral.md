@@ -4220,7 +4220,7 @@ As of my last update, my knowledge cutoff is October 2023. This means that the i
 
 ## object define property
 
-`dev` `guide`
+`dev` `guide` `ref`
 
 > $\to mistral \space large \space 2$
 
@@ -4316,7 +4316,7 @@ Using `Object.defineProperty` gives you precise control over the behavior of obj
 
 ## proxy and reflect
 
-`dev` `guide`
+`dev` `guide` `ref`
 
 > $\to mistral \space large \space 2$
 
@@ -8709,36 +8709,133 @@ Each of these concepts contributes to the unique style and benefits of functiona
 
 ## oop
 
-`concept` `ref` `dev` `guide`
+`concept` `ref` `dev` `guide` `important`
 
 > $\to mistral \space large \space 2$
 
 > sub concepts of object oriented programming
 
-Object-oriented programming (OOP) is a programming paradigm that uses objects and their interactions to design applications and computer programs. Here are some key sub-concepts of OOP:
+Object-oriented programming (OOP) is a programming paradigm based on the concept of "objects," which can contain data and code: data in the form of fields (often known as attributes), and code, in the form of procedures (often known as methods). Here are some of the key sub-concepts of OOP:
 
 1. **Classes and Objects**:
 
-   - **Class**: A blueprint for creating objects. It defines a set of properties and methods that the created objects will have.
+   - **Class**: A blueprint for creating objects. It defines a set of attributes and methods that the created objects will have.
    - **Object**: An instance of a class. It represents a concrete entity with its own state and behavior.
 
-2. **Four Fundamental Principles (Pillars of OOP)**:
+2. **Four Principles of OOP**:
 
-   - **Encapsulation**: The bundling of data (attributes) and methods (functions) that operate on the data into a single unit called a class. It also restricts direct access to some of an object's components, which can prevent the accidental modification of data.
-   - **Inheritance**: A mechanism where one class (subclass) acquires the properties and behaviors of another class (superclass). It promotes code reusability.
-   - **Polymorphism**: The ability of different classes to be treated as instances of the same class through inheritance. It allows one interface to be used for a general class of actions.
-   - **Abstraction**: The concept of hiding the complex implementation details and showing only the essential features of the object. It helps in reducing programming complexity and effort.
+   - **Encapsulation**: The bundling of data with the methods that operate on that data. It hides the internal state and requires all interaction to be performed through an object's methods.
+   - **Abstraction**: The process of exposing only the relevant data (or methods) to the user while hiding the underlying details or unnecessary information.
+   - **Inheritance**: A mechanism where a new class (subclass or derived class) is derived from an existing class (superclass or base class), inheriting its properties and behaviors.
+   - **Polymorphism**: The ability of different classes to be treated as instances of the same class through inheritance. It allows methods to act differently based on the object that they are acting upon.
 
 3. **Other Important Concepts**:
-   - **Association**: A relationship between two or more objects that allows one object to be connected to another object. It can be one-to-one, one-to-many, many-to-one, or many-to-many.
-   - **Aggregation**: A specialized form of association that represents a "whole-part" relationship. It is a weak relationship where the child can exist independently of the parent.
-   - **Composition**: A specialized form of aggregation where the child object does not have an independent existence without the parent object. It represents a strong ownership.
-   - **Interface**: A reference type in Java that is similar to a class and is a collection of abstract methods. A class implements an interface, thereby inheriting the abstract methods of the interface.
-   - **Abstract Class**: A class that cannot be instantiated and may contain abstract methods (methods without a body). It is designed to be subclassed.
-   - **Method Overloading**: A feature that allows a class to have more than one method with the same name, as long as their parameter lists are different.
-   - **Method Overriding**: A feature that allows a subclass to provide a specific implementation of a method that is already defined in its superclass.
 
-These concepts work together to enable the creation of modular, reusable, and maintainable code in object-oriented programming.
+   - **Association**: A relationship between two or more objects where the objects have their own lifecycle and there is no owner.
+   - **Aggregation**: A specialized form of association where all objects have their own lifecycle, but there is ownership, and child objects cannot belong to another parent object.
+   - **Composition**: A specialized form of aggregation where the child object does not have its own lifecycle, and if the parent object is deleted, all its child objects will also be deleted.
+   - **Interface**: A reference type in Java similar to a class that can contain only constants, method signatures, default methods, static methods, and nested types. Interfaces cannot contain instance fields or constructors.
+   - **Package**: A namespace that organizes a set of related classes and interfaces.
+   - **Exception Handling**: A process that handles runtime errors, providing a mechanism to maintain the normal flow of the application.
+
+4. **Design Principles and Patterns**:
+   - **SOLID Principles**: A set of design principles intended to make software designs more understandable, flexible, and maintainable. They are fundamental principles of object-oriented design.
+   - **Design Patterns**: Typical solutions to common problems in software design. Each pattern is like a blueprint that you can customize to solve a particular design problem in your code.
+
+These concepts work together to create a robust and flexible programming paradigm that is widely used in software development.
+
+## fp oop
+
+`concept` `ref` `dev` `guide` `comparison` `important`
+
+> $\to mistral \space large \space 2$
+
+> fp vs oop
+
+Certainly! Let's break down the differences between Functional Programming (FP) and Object-Oriented Programming (OOP):
+
+### Functional Programming (FP)
+
+1. **Paradigm**:
+
+   - Emphasizes the use of functions and immutability.
+   - Functions are first-class citizens, meaning they can be passed around as values, returned from other functions, and assigned to variables.
+
+2. **Immutability**:
+
+   - Data is immutable, meaning once created, it cannot be changed.
+   - This leads to fewer side effects and easier debugging.
+
+3. **Pure Functions**:
+
+   - Functions have no side effects and always produce the same output for the same input.
+   - This makes them easier to test and reason about.
+
+4. **Higher-Order Functions**:
+
+   - Functions that take other functions as arguments or return functions as results.
+   - Examples include `map`, `filter`, and `reduce`.
+
+5. **Declarative**:
+
+   - Focuses on what to do rather than how to do it.
+   - Code is often more concise and easier to understand.
+
+6. **Languages**:
+   - Examples include Haskell, Lisp, Erlang, and functional features in languages like JavaScript, Python, and Scala.
+
+### Object-Oriented Programming (OOP)
+
+1. **Paradigm**:
+
+   - Emphasizes the use of objects, which are instances of classes.
+   - Objects encapsulate data (attributes) and behavior (methods).
+
+2. **Encapsulation**:
+
+   - Bundles the data and methods that operate on the data into a single unit called an object.
+   - Hides the internal state and requires all interaction to be performed through an object's methods.
+
+3. **Inheritance**:
+
+   - Allows classes to inherit commonly used states and behaviors from other classes.
+   - Promotes code reuse and hierarchical classification.
+
+4. **Polymorphism**:
+
+   - Allows methods to do different things based on the object it is acting upon.
+   - Supports method overriding and method overloading.
+
+5. **Abstraction**:
+
+   - Hides the complex implementation details and shows only the essential features of the object.
+   - Simplifies complexity by modeling classes appropriate to the problem.
+
+6. **Languages**:
+   - Examples include Java, C++, C#, Python, and Ruby.
+
+### Comparison
+
+- **State Management**:
+
+  - FP: Immutable data structures and pure functions.
+  - OOP: Mutable objects with encapsulated state.
+
+- **Code Reuse**:
+
+  - FP: Higher-order functions and composition.
+  - OOP: Inheritance and polymorphism.
+
+- **Testing**:
+
+  - FP: Easier to test due to pure functions and immutability.
+  - OOP: Can be more complex due to state and side effects.
+
+- **Concurrency**:
+  - FP: Generally easier to manage due to immutability and lack of side effects.
+  - OOP: Can be more challenging due to shared mutable state.
+
+Both paradigms have their strengths and are often used together in modern programming. Many languages support both FP and OOP styles, allowing developers to choose the best approach for their specific needs.
 
 ## geniuses attention
 
@@ -9048,3 +9145,26 @@ m.mount(document.body, UserProfile);
 ```
 
 These examples should give you a good starting point for building components with Mithril.js. You can explore more advanced features and patterns as you become more comfortable with the framework.
+
+## tart
+
+`weather` `literary`
+
+> $\to mistral \space large \space 2$
+
+> sarcastic vs tart
+
+Sarcastic and tart are both adjectives used to describe a certain kind of speech or attitude, but they have slightly different connotations:
+
+1. **Sarcastic**:
+
+   - Sarcasm is a form of humor that is often used to mock or ridicule something or someone.
+   - It usually involves saying the opposite of what you mean, with a specific tone or facial expression that indicates your true intention.
+   - Example: "Oh, great, it's raining again. Just what we needed." (When you're actually annoyed by the rain.)
+
+2. **Tart**:
+   - Tart speech is sharp, abrupt, or even cutting. It can be harsh or biting, but it's not necessarily humorous like sarcasm.
+   - It often expresses strong, negative feelings like annoyance, impatience, or criticism.
+   - Example: "If you're not going to help, then just stay out of the way." (Said in a sharp, irritated tone.)
+
+While both can indicate a level of displeasure or criticism, sarcasm typically involves irony or mockery, while tart speech is more direct and harsh. Also, sarcasm can sometimes be playful or humorous, while tart speech is usually more serious and confrontational.

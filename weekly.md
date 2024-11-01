@@ -11,6 +11,139 @@
 - _make tools elegant_
 - _make knowledge pure_
 
+## 20241101
+
+> _foresight_
+
+- write voyagejs
+- think svelte examples
+- create google reader component library
+- write pre app
+- design intuitive cpp
+- design pure math
+- watch lucky star
+- learn math & english
+
+> _everyday_
+
+- visit digital homes (al sr)
+
+> _mind wandering_
+
+- design library
+- pre ui
+- leisure ui
+- float ui
+- eat ui
+- pure math contents
+- intuitive cpp contents
+
+> _weekend endeavour_
+
+- write voyagejs
+- think svelte examples in voyage
+- think chakra components in sr
+- think slidev in pre
+- write pre app
+- design intuitive cpp
+- design pure math
+- create video guide
+
+> _weekend diversion_
+
+- play sr
+- watch lucky star
+- watch evangelion
+- play senrenbanka
+
+> _weekend enlightenment_
+
+- learn origami
+- read ruanyf weekly & classify with tags
+- make reflections markdown
+
+> _school_
+
+- read one hundred years of solitude
+- write math challenger
+- write english papers
+
+> _after school_
+
+- memorize tem 8 vocabulary
+- read physics guide
+
+> _meanwhile_
+
+- sync phone
+- listen to podcasts
+- eat berryberry
+
+## 20241028
+
+> _foresight_
+
+- write voyagejs
+- think svelte examples in voyage
+- create sr component library
+- write pre app
+- design intuitive cpp
+- design pure math
+- watch lucky star
+- sync phone
+- learn math & english
+
+> _everyday_
+
+- visit digital homes (al sr)
+
+> _weekend endeavour_
+
+- write voyagejs
+- think svelte examples in voyage
+- think chakra components in voyage
+- think chakra ui in sr
+- think slidev in pre
+- write pre app
+- design intuitive cpp
+- design pure math
+- create fira channel
+- design leisure app
+- design float app
+- design eat app
+
+> _weekend diversion_
+
+- play sr
+- watch lucky star
+- watch evangelion
+- play senrenbanka
+
+> _weekend enlightenment_
+
+- learn origami
+- classify ruanyf with tags
+- read ruanyf weekly
+- make reflections markdown
+
+> _school_
+
+- write english papers
+- write math challenger
+- read one hundred years of solitude
+
+> _after school_
+
+- memorize tem 8 vocabulary
+- write physics challenger
+
+> _meanwhile_
+
+- sync phone
+- categorize laptop screenshots
+- listen to podcasts
+- eat berryberry
+
 ## 20241020
 
 > _foresight_

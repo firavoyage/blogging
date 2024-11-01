@@ -6153,11 +6153,11 @@ done.
 
 playing sr divergent universe.
 
-on plane 2 boss. 
+on plane 2 boss.
 
 boss:
 
-a girl that can turn hp grey and put aoe debuff 
+a girl that can turn hp grey and put aoe debuff
 
 paired with two mecha that can heal itself after defeated
 
@@ -6338,9 +6338,9 @@ tomorrow...
 
 swimming in berryberry...
 
-updated 
+updated
 
-- nulls bs 
+- nulls bs
 - nulls cr.
 
 23:12
@@ -6381,7 +6381,7 @@ in last 15 min. after this is lunch time.
 
 `comparison`
 
-what's the metaphor? 
+what's the metaphor?
 
 retro late night bar music & liuyuan playing abstract battling film
 
@@ -6397,7 +6397,7 @@ friday. weekend.
 
 school life retro...
 
-"周生辉很年轻的,不到40岁"
+"周生辉很年轻的,不到 40 岁"
 
 "啊?"
 
@@ -6428,9 +6428,9 @@ sleep.
 
 说白了,就是身边人类很无聊,不要浪费时间,除非是碎片闲暇.
 
-想要翻译一下,添加到readme的醒目位置...
+想要翻译一下,添加到 readme 的醒目位置...
 
-再想想算了... 其实readme里面那么多音乐视频文字播客...
+再想想算了... 其实 readme 里面那么多音乐视频文字播客...
 
 艺术作品不少了...
 
@@ -6464,7 +6464,7 @@ haircut? time for dinner.
 
 delayed to weekend.
 
-"得E门生"
+"得 E 门生"
 
 20:xx
 
@@ -6539,7 +6539,7 @@ adding important tag to things
 revise readme.
 
 - i dont know... whoo... how boring.
-- Idle mode... *yawn* How boring.
+- Idle mode... _yawn_ How boring.
 
 02:32
 
@@ -6555,7 +6555,7 @@ sleep.
 
 只是搜索了"皎月半撒花"的名字
 
-不知道为何在oi网路上逛了几圈...
+不知道为何在 oi 网路上逛了几圈...
 
 如是.
 
@@ -6615,7 +6615,7 @@ playing aoi teshima (haze)...
 
 depressed.
 
-watch lucky star? maybe in the evening. 
+watch lucky star? maybe in the evening.
 
 done.
 
@@ -6676,7 +6676,7 @@ swimming...
 
 ask mistral about genius and mithriljs
 
-mithril is nothing but 
+mithril is nothing but
 
 a node creation function and a vue like state management
 
@@ -6821,7 +6821,7 @@ swimming...
 - play sr (done.)
 - write voyagejs (wip)
 - play bs
-- watch lucky star 
+- watch lucky star
 
 `retro`
 
@@ -6832,3 +6832,634 @@ brought me a sense of nostalgia...
 first days in genshin... so beautiful...
 
 and end up repeating and repeating.
+
+## 20241028
+
+0:xx
+
+playing bs & cr...
+
+bs couldnt match. too few players online.
+
+new decks from royaleapi. so op.
+
+1:xx
+
+writing voyagejs...
+
+fp is great
+
+oop is also great.
+
+```
+str.slice(1)
+```
+
+```
+slice(str,1)
+```
+
+the former is intuitive.
+
+the latter may be related to namespace issue.
+
+02:43
+
+`bangumi`
+
+watched lucky star ep 5.
+
+sleep.
+
+19:27
+
+freezing cold. even at home
+
+weather 16 centigrade
+
+ref: kiun b.
+
+23:02
+
+`gaming` `exciting`
+
+playing sr.
+
+simulated universe.
+
+recently reached lv65.
+
+challenging su max difficulty.
+
+in world 5 vs boss svalog.
+
+team
+
+- fu xuan
+- sparkle
+- herta
+- dr ratio
+
+su doesnt map character. and only these four are lv 80.
+
+attempted several times but failed.
+
+the last time, i carefully prepared in stage 2 fin.
+
+let fuxuan and dr ratio go into stage 3 with max energy.
+
+at last, all three are dead. only dr ratio survived.
+
+(help me, adventurine!)
+
+and dr ratio's talent didnt miss.
+
+lucky.
+
+23:53
+
+`gaming`
+
+playing sr.
+
+challenging simulated universe.
+
+fighting abundant ebon deer.
+
+this guy looks weak.
+
+auto battle all time. easy win.
+
+team
+
+- herta
+- fu xuan
+- dr ratio
+- sparkle
+
+## 20241029
+
+02:27
+
+writing voyagejs.
+
+fighting bugs...
+
+too tired. watch an episode & sleep.
+
+02:35
+
+bug fixed. release new version.
+
+added abstract and code reuse.
+
+congrats!
+
+03:18
+
+watched lucky star ep 6.
+
+sleep.
+
+22:15
+
+`gaming`
+
+playing sr.
+
+simulated universe highest level.
+
+fighting kafka.
+
+team
+
+- fu xuan
+- herta
+- sparkle
+- dr ratio
+
+kafka looks very weak.
+
+every time she attempted to control fu xuan.
+
+"effect res"
+
+lol.
+
+easy win.
+
+at the end of the day, everyone is max hp.
+
+no one has even been controlled!
+
+**poor kafka!**
+
+going to next world.
+
+22:23
+
+`dev` `ubuntu`
+
+ubuntu crashed.
+
+i mean "vlc media player isnt responding"
+
+it's not ubuntu's fault.
+
+it's linux's fault as it also happens in early android versions.
+
+but that's not the case in windows and mac.
+
+app got crashed or not responding but human's control delivery works fast.
+
+23:22
+
+`gaming`
+
+playing sr.
+
+simulated universe.
+
+team
+
+- fu xuan
+- herta
+- sparkle
+- dr ratio
+
+fighting cololia.
+
+another easy win. (path: the hunt)
+
+even completed the achievement
+
+**"save the princess."**
+
+(defeat cololia without defeating bronya)
+
+## 20241030
+
+00:11
+
+`weather`
+
+many clothes bought in double eleven festival
+
+which fit me well
+
+**happy.**
+
+most of them are from $uniqlo$ and $fila$
+
+`gaming`
+
+playing sr simulated universe.
+
+auto battling. today i will clear all su levels.
+
+00:13
+
+`weather` `music`
+
+playing hotel california.
+
+- write voyagejs
+- watch lucky star ep 7
+
+00:19
+
+`ubuntu`
+
+even chromium is crashed. (not responding)
+
+not the first time. wtf.
+
+01:04
+
+`gaming`
+
+playing sr simulated universe.
+
+only world 8 and 9 left.
+
+step on the hunt...
+
+always choosing combat...
+
+mindlessly choosing blessings...
+
+fighting yanqing... failed.
+
+now challenging again.
+
+01:58
+
+`gaming`
+
+playing hotel california.
+
+playing sr su.
+
+changed fu xuan's lightcone.
+
+from **moment of victory** to **texture of memories**
+
+wise choice.
+
+team
+
+- fu xuan (texture of memories)
+- herta (the birth of the self)
+- sparkle (earthly escapade)
+- dr ratio (voyage in astral sea)
+
+step on the path of abundance.
+
+abundance appears in action flow.
+
+so much abundance blessings gain.
+
+yan qing's huge sword
+
+even couldnt activate fu xuan's talent
+
+**poor yan qing!**
+
+only world 9 left. challenge it tommorow.
+
+voyagejs writing delayed. watch an episode and sleep.
+
+03:34
+
+watched lucky star episode 7.
+
+sleep.
+
+17:43
+
+playing hotel california
+
+**尘影 aa**
+
+同学都在玩洲!入坑.
+
+上面那个是同学 id.加他好友.
+
+done.
+
+waiting for approval.
+
+23:38
+
+playing delta force.
+
+all night.
+
+love war mode. love red wolf.
+
+## 20241031
+
+01:xx
+
+`gaming`
+
+playing delta force.
+
+02:26
+
+`gaming`
+
+(not playing hotel california, for solitude at late night)
+
+playing sr simulated universe world 9 on abundance path.
+
+writing voyagejs plan.
+
+- watch lucky star episode 8
+
+03:31
+
+`gaming`
+
+playing sr...
+
+failed. what a 10 bar hp.
+
+try again on nihility path.
+
+03:59
+
+watching lucky star.
+
+while sr auto battling.
+
+**disciplinary flicker**!
+
+**cosmos chorus**! 10 positive effect!
+
+**replace all curios with random**! great curios!
+
+**1210 fragments at last respite**! enhance all!
+
+lucky!
+
+04:12
+
+`bangumi`
+
+watched lucky star episode 8.
+
+sleep.
+
+04:17
+
+`gaming`
+
+fighting memory zone meme.
+
+"something unto death"
+
+in simulated universe on nihility path.
+
+**auto battling all time.**
+
+team same as yesterday one
+
+13 blessings of nihility obtained. all enhanced.
+
+easy win.
+
+wow, daily missions refreshed!
+
+first time seen in sr.
+
+(in gi that was a winter holiday when i was for primogems for nahida)
+
+04:20
+
+sleep.
+
+22:50
+
+`gaming`
+
+playing sr simulated universe: swarm disaster.
+
+team
+
+- fu xuan
+- dr ratio
+- herta
+- sparkle
+
+on the path of destruction
+
+failed. down in the abundance deer stage 3.
+
+on the path of elation.
+
+failed.
+
+no healer. no abundance blessing.
+
+23:03
+
+on the path of abundance.
+
+**bad luck.**
+
+only one abundance blessing received.
+
+auto battle off.
+
+every move must be the best strategy.
+
+**i even changed lineup, just for replacing character order.**
+
+**and hoping the elite monster lock on characters with more hp.**
+
+still struggling. may be i should take a bath first.
+
+but my time is plenty.
+
+23:11
+
+at the beginning of second plane.
+
+at the end of the day getting 3 blessings of abundance.
+
+bad luck.
+
+eventually enabled the path resonance and nihility resonance interplay.
+
+23:22
+
+dealing with a bold mosquito flying around me.
+
+it even hasnt tried to dodge me before i clapped my hand.
+
+finally it paid its life. 
+
+**fucking insect.**
+
+**both in and outside the game.**
+
+23:28
+
+the third time fighting **the ascended** today. 
+
+**the worst matchup could be.**
+
+but now with abundance i'm quite stronger.
+
+lucky you!
+
+23:42
+
+great.
+
+elation: **aftertaste for follow-up**.
+
+elation: **ultimate is follow-up**.
+
+23:59
+
+chose kafka as second plane boss.
+
+effect res all time.
+
+abundance appears in action list.
+
+even with fu xuan's talent and abundance resonance.
+
+always max hp.
+
+**poor kafka!**
+
+wtf. 
+
+on stage 3, kafka killed fu xuan's 9000 hp in one shot!
+
+anyway. when receiving killing blow, reset with 1% hp.
+
+well, how could it be! 
+
+it's just normal difficulty.
+
+kafka level 80, without rage or stats improve.
+
+maybe not activating fu xuan's skill and try again?
+
+**kafka's grenade so op**!
+
+**but why kafka is just weak in normal simulated universe**?
+
+**any stats enhancement in swarm disaster**?
+
+## 20241101
+
+00:17
+
+`gaming`
+
+stuck in sr su.
+
+emmm...
+
+still stuck in kafka stage 3.
+
+open kafka enemy detail page... 
+
+now i see.
+
+**2.0% dmg boost stacked 61 times**
+
+wtf. why is this!
+
+now my team is
+
+- fu xuan
+- dr ratio
+- herta (down)
+- sparkle (down)
+
+i thought the matrix of prescience could resist kakfa's "dominated".
+
+and as two charcters are down, the distributed dmg couldnt be too much.
+
+but it's turned out that i was wrong.
+
+**2.0% dmg boost stacked 80 times**
+
+it eventually dawned on me that 
+
+i shouldnt restart the challenge.
+
+after i saw this...
+
+**every shock effect slightly increases kafka's dmg**
+
+**it was my dmg too low. as i could resist the dot dmg by any means.**
+
+**or it's my fault not choosing a blessing for removing debuff**
+
+maybe it's time to move forward.
+
+- take a bath
+- sync notebook (easy).
+- sync phone (delete most of g.zip)
+- solve a difficult math problem
+- play delta force.
+- watch lucky star episode 9.
+
+my time is unlimited. great.
+
+01:05
+
+refreshed from bathroom.
+
+01:40
+
+played google doodle halloween
+
+"happy halloween!"
+
+"play part 2!"
+
+03:32
+
+- sync g.zip
+- play delta force.
+- watch lucky star episode 9.
+
+03:54
+
+played delta force.
+
+found zelyd's pocket watch.
+
+earned 500000 in one match.
+
+04:26
+
+`bangumi`
+
+watched lucky star episode 9.
+
+sleep.
+
+## 20241102
+
+00:48
+
+不看 lucky star 了!
+
+整理下 g.zip
+
+打会游戏. df
+
+01:38
+
+archived! 换了新的日记本.
+
+("记作业的小本子")

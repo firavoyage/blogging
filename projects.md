@@ -272,6 +272,8 @@
   - content fetcher web extension
   - using javascript selector
   - background sync
+- design
+  - mastodon
 - local based
   - read anywhere anytime
   - import and export
@@ -405,6 +407,9 @@
   - kaggle english word frequency
   - kaggle morphemic segmentation of english words
   - kaggle wordnet dictionary thesaurus
+- design
+  - podcast player
+  - calendar
 - local based
   - memorize anytime anywhere
   - static dict file
@@ -439,18 +444,23 @@
   - low opacity blockquote
   - no ordered list
 - solutions
-  - knowledge in notes
-  - observation from divine source
-  - trick as common observation
+  - definitions and theories in notes
+  - conclusions and tricks from workbook
   - hint from remembrance
+  - observation from divine source
 - courses
   - learn on math challenger
   - practice on math guide
   - ref on math textbook
+- repetition
+  - abstract expression
+  - at leisure
+  - elegance
 - wonders
-  - all math theories list
   - libre hs math wiki
+  - all math theories list
   - hs math foresight in one hour
+  - daily problems a & b
   - childhood retro: hs math made simple stupid
   - hello f. i'm your past.
   - elite education in shanghai
@@ -460,23 +470,50 @@
   - seat selection in vocational hs
   - fuxuan's divine perspective
   - math universe by herta(asta) & screwllum
-  - daily problems a & b
-- repetition
-  - abstract expression
-  - at leisure
-  - elegance
+  - dying voice after sports
+- practice
+  - workbook & textbook for the ordinary
+  - challenge & notes for the gifted
+- foresight
+  - all definitions
+  - all theories without strict proof
+  - some conclusions by problems
+  - uee paper guide
 - self
   - a bot reading lecture notes & answering questions
   - a learner solving problems & writing wiki
+- mood
+  - prudence
+  - scepticism
+  - humbleness
+- free
+  - it's break time!
+  - solve these problems if you like
+  - or listen to the song i picked
+- will
+  - what's the fun of single machine rpgs
+  - kill the game with ease
+  - or getting through challenges
+  - neither.
+  - one without power actually stucks all time
+  - and after getting op build 
+  - the game soon become grass growing
+  - at the end of the day it dawns on him that
+  - it's just a never ending pursuit where
+  - things are based on what he spent
+  - while that's not the case of retro gaming where
+  - levels were much harder and one's skill was priorer 
+  - neither is problem solving which could be like
+  - completing puzzle games in our childhood
+  - which is the pleasure of math challengers
 - various themes
   - by voyage
 - inspired by
   - yunling sapphire
   - mr yu teaching physics
-  - math contest fei bro
   - one math
-  - zhao lixian
   - math bu
+  - math contest fei bro
 
 ### `intuitive`
 
@@ -722,16 +759,16 @@ for(i 1 10 j 10 100){A} //for(let i=1;i<=10;i++){for(let j=10;i<=100;j++){A}}
   - one dark pro
   - monokai pro
 - component systems
-  - material ui
-  - chakra
-  - google books classic
-  - youtube
-  - reddit old
   - mihoyo sr
   - mihoyo hi
   - mihoyo gi
   - mihoyo zzz
-- finger control
+  - google books classic
+  - reddit old
+  - material ui
+  - youtube
+  - chakra
+- touch control
   - codeforces mobile
   - try swiping left or right
 - tiny components
@@ -756,7 +793,7 @@ for(i 1 10 j 10 100){A} //for(let i=1;i<=10;i++){for(let j=10;i<=100;j++){A}}
 > -> /voyagejs
 
 - features
-  - jquery with macros 
+  - jquery with macros
   - not react reduced
   - component based
 - learn
@@ -787,10 +824,10 @@ for(i 1 10 j 10 100){A} //for(let i=1;i<=10;i++){for(let j=10;i<=100;j++){A}}
   - get the component id that the states binded
   - if the component id can't be found in dom then remove it
   - else if reducer is specified then run it
-  - otherwise create component again and replace the one in dom 
+  - otherwise create component again and replace the one in dom
   - done
 - state
-  - create at init 
+  - create at init
   - keep at change
   - remove at parent change
 - inspired by
@@ -878,26 +915,31 @@ for(i 1 10 j 10 100){A} //for(let i=1;i<=10;i++){for(let j=10;i<=100;j++){A}}
 - inspired by
   - share card
 
+## channels
+
 ### `gamerf`
 
 > about the traveller and the trailblazer
 
 - features
+  - game as simple visual novel
+  - away from gacha system or power
+  - skip or rewind any chapter
+  - boring battles omitted
+  - no action needed just watching
   - mihoyo pv styled title and cover
   - each chapter of a typical image
   - poetry words summarizing a story
   - english voice & sub full gameplay
 - gi story in english
-  - not for primogem
   - all archon quests
-  - simple as possible
-  - no boring combats except bosses
-  - full story in about three weeks
+  - autoplay all the time
+  - in about three weeks
 - sr story in english
-  - auto battle enabled
-  - play all main quests
-  - no boring combats except bosses
-  - full story in about a week
+  - all trailblaze missions full gameplay
+  - autoplay all the time
+  - auto battle as possible
+  - in about two weeks
 - other games like hg hi zzz
   - not now
   - action games not visual novels
@@ -905,3 +947,17 @@ for(i 1 10 j 10 100){A} //for(let i=1;i<=10;i++){for(let j=10;i<=100;j++){A}}
   - memoir of prosperity
   - promise of playboy
   - old ocean tubber
+
+## `fira`
+
+> math & dev
+
+- features
+  - hs math foresight
+  - intuitive cpp
+  - web dev
+- inspired by
+  - jiang yanyan jsoi
+  - wes bos
+  - yunling sapphire
+  - one math

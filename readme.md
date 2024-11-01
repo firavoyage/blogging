@@ -4,6 +4,8 @@
 
 > $welcome \space to \space hotel \space california$
 
+> $lucky \space \text{☆} \space star !$
+
 > 🍅 ⏲️ $solanum$
 
 > 🌕 💤 $\text{23:00}$
@@ -26,13 +28,13 @@
 ## perception
 
 - - black tea
-  - cocacola zero
-  - boba tea
-  - dark chocolate
-  - egg puffs
-  - tea eggs
+  - coca-cola
+  - bubble tea
+  - dark chocolate bar
+  - egg waffle 
+  - tea egg
   - crisps classic
-  - huamei & chenpi
+  - chenpi & huamei
 - - johann sebastian bach
   - frédéric chopin
   - calendar & wall clock
@@ -73,16 +75,16 @@
   - love before bc (jay chou)
   - story of time (luo da you)
   - fleet of time (faye wong)
-- - in solitude where we are least alone (2010)
-  - worldend: what do you do at the end of the world? are you busy? will you save us? (2017)
-  - tom and jerry classic collection (1940)
+- - tom and jerry classic collection (1940)
   - joker (2019)
   - soul (2020)
   - the knockout (2023)
   - life in a day (2011)
   - downton abbey (2010)
+  - in solitude where we are least alone (2010)
   - the chorus (2004)
   - the phantom of the opera (2004)
+  - worldend: what do you do at the end of the world? are you busy? will you save us? (2017)
   - reply 1988 (2015)
   - your name. (2016)
   - how to make millions before grandma dies (2024)
@@ -90,7 +92,7 @@
   - les misérables (2012)
   - call (2020)
   - 5 centimeters per second (2007)
-  - .lucky star (2007)
+  - lucky star (2007)
   - .evangelion (1995)
   - .tonikawa: over the moon for you (2020)
   - .my youth romantic comedy is wrong, as i expected (2011)
@@ -119,6 +121,8 @@
   - blue archive (2021)
   - brawl stars (2017)
   - clash royale (2016)
+  - delta force (2024)
+  - pubg mobile (2018)
   - minecraft (2011)
   - terraria (2011)
   - angry birds classic (2009)
@@ -160,7 +164,6 @@
   - javascript: the definitive guide seventh edition (david flanagan)
   - c++ primer fifth edition (barbara e. moo & josée lajoie & stanley b. lippman)
   - c++ primer plus sixth edition (stephen prata)
-  - an introduction to programming in wenyan language (huang lingdong)
   - react learn docs (react commutity)
   - refactoring ui (adam wathan & steve schoger)
   - gnome human interface guidelines (gnome)
@@ -170,6 +173,8 @@
   - competitive programmers' handbook (antti laaksonen)
   - oi wiki (oi wiki community)
   - how to ask questions the smart way (eric steven raymond)
+  - federal plain language guidelines (united states government)
+  - an introduction to programming in wenyan language (huang lingdong)
   - cut the knot: probability riddles (alexander bogomolny)
   - mathematics, no 2 secondary school attached to east china normal university (math group)
   - physics, no 2 secondary school attached to east china normal university (physics group)
@@ -218,6 +223,7 @@
   - yixi (yixi)
 - - wikipedia
   - github
+  - z library
   - the pirate bay
   - internet archive
   - archive.today
@@ -240,19 +246,19 @@
   - foreverblog
   - csdiy
   - kaggle
-  - douban book top 250
-  - douban movie top 250
-  - my anime list top
-  - bangumi.tv anime chart
-  - imdb movie top 250
-  - steam top 250
-  - google doodle
+  - bangumi.tv
+  - my anime list
+  - douban book
+  - douban movie
+  - imdb movie
+  - google doodles
   - itch.io
+  - steam
+  - product hunt all time
   - unsplash nature
   - pixiv monthly
   - dribbble popular
-  - github awesome
-  - product hunt all time
+  - awesome pixel art
 - - acheron
   - adventurine
   - asta & herta & screwllum
@@ -268,96 +274,97 @@
   - kasugano sora
   - ke qing
   - konata izumi
+  - minami iwasaki
   - minato aqua
   - misha & mikhail the watchmaker
   - miyuki takara
   - nahida
+  - nanako kuroi
   - necora nyaru electro kitty
   - numby & topaz
   - orient snowy lotus
   - origami birds
+  - ruan mei & snack life
   - rubert the emperor
   - seele & bronya
   - silver wolf & kafka
   - sparkle
   - xing qiu
-- - adhesion tek
-  - ahbei douban
-  - ahdark
+- - adhesion tek & abstract meme
+  - ahbei & douban founding
+  - ahdark & cs student life
   - akt animation
-  - andrew yang
-  - anthony fu antfu
-  - arseniy chebynkin arsenixc
-  - barack obama
+  - andrew yang & humanity future
+  - anthony fu antfu & web dev
+  - arseniy chebynkin arsenixc & art
+  - barack obama & humanity future
   - blue striped rabbit
-  - brad traversy
-  - cali castle
-  - caspar david friedric
+  - brad traversy & web dev guide
+  - cali castle & zolplay founding & game dev
+  - cao yunfan djhs
+  - caspar david friedric & art
   - change release mihoyo
-  - chen shiyu
-  - chen suiyi chenbimo
+  - chen shiyu djhs & chinese allusions & kawaii waifu
+  - chen suiyi chenbimo & web dev
   - chen xiao origami
-  - chen zhiwei
+  - chen zhiwei ldhs djhs
   - chen zihao
   - chino moca qiront
-  - claude monet
-  - cloudwu codingnow
-  - coding startup
-  - cr ryley
-  - dai jiangqi
-  - dan abramov overreacted
+  - claude monet & art
+  - cloudwu codingnow & dev
+  - coding startup & web dev
+  - dai jiangqi & oi champion
+  - dan abramov overreacted & web dev
   - daughter's gamer mihoyo
-  - di xuchen
+  - di xuchen djhs
   - diviner in spiritual wind
   - diygod & justcc
-  - dong guanxi
+  - dong guanxi djhs
   - doris yee yeedor
-  - dudu cnblogs
+  - dudu & cnblogs founding
   - dusk's rain in early winter sr
   - edmund d zhang
-  - entropy increaser & math
-  - fabrice bellard
-  - fireship js framework
+  - fabrice bellard & cpp
+  - fireship & js framework
   - foreman ma madugong & bedtime news
-  - fu su oier
+  - fu su & oi
   - geek bay geekerwan
   - gu sen matrix67 & localhost-8080
-  - gui minghao
-  - hakim el hattab
-  - hu qianling
-  - huang zhizhong
-  - hui xinyu
-  - interpreter gavin
+  - gui minghao djhs
+  - hakim el hattab & web dev & design
+  - hu qianling djhs & tart english teacher life
+  - huang zhizhong & debate
+  - hui xinyu djhs & exam champion
+  - interpreter gavin & mihoyo in english
   - james sinclair jrsinclair
-  - jeff hawkins
-  - jiang yanyan
-  - jiang zhijun
-  - jiangly not dd
-  - jin jinjin
-  - jin luochen
-  - jin yudong krahets
-  - jjying iconmoon
-  - justyyuk doctor lai
-  - kevin deng
-  - kirikaze chiyuki chyk
-  - kiun b
-  - kkksc03 & chen zhe
-  - lex fridman
+  - jeff hawkins & palm founding & brain research
+  - jiang yanyan & oi & os dev
+  - jiang zhijun djhs & exam champion
+  - jiangly not dd & oi
+  - jin jinjin ldhs
+  - jin luochen djhs
+  - jin yudong krahets & algorithms guide
+  - jjying iconmoon & design
+  - justyyuk doctor lai & algorithms
+  - kevin deng sanxiaozhizi & web dev
+  - kirikaze chiyuki chyk & cs school life
+  - kiun b & yakutsk life
+  - kkksc03 & luogu founding
+  - lex fridman & dev conversation
   - linesoft
-  - liu yuan
-  - livid v2ex
+  - liu yuan djhs & interactive math
+  - livid & v2ex founding
   - longbow flintlock
-  - lu jianhong
-  - lv fuyuan
-  - ma zhengyao
+  - lu jianhong djhs & english culture
+  - lv fuyuan djhs
   - magicalflower codeforces
   - math contest fei bro
   - memoir of prosperity sr
-  - mike mirzayanov codeforces
+  - mike mirzayanov & codeforces
   - mohamad light cr
-  - mr marmot & art school & wojaks
-  - mr yu teaching physics
-  - nat friedman
+  - mr marmot & art institute & wojaks
+  - mr yu ceo & physics
+  - nat friedman & github ceo & venture capital
   - nicholas wei bro mihoyo
   - nova lciop cr
   - old bai sleepwalked waifu vr
@@ -365,50 +372,53 @@
   - old skilled tofu
   - one math
   - paperclip
-  - paul graham paulg
+  - paul graham paulg & y combinator hacker news founding
   - pea3nut peadar
-  - peng kunshuo orchidany
+  - peng kunshuo orchidany & oi
   - physixfan
-  - pink rabbit oier
-  - poker mihoyo
+  - pieter levels levelsio & nomad list founding
+  - pink rabbit & oi
   - promise of playboy sr
   - qingyu codeforces
   - richard bs
   - right that asd mihoyo
   - rodrigo pombo pombus
-  - ruan yifeng ruanyf
+  - ruan yifeng ruanyf & tech enthusiast weekly
   - science fictional lycium chinense
-  - shen ruochen
-  - shen tongjun
+  - shen ruochen djhs
+  - shen tongjun djhs & kind headmaster life
   - six divided chaochao & retro art
   - spicy pidan porridge
   - sqr5's blog
   - tail tail desu
   - tamicake1479 cr
-  - tim qian
+  - tim qian & indie dev
   - timochan
-  - tourist codeforces
-  - trent walton
+  - tourist codeforces & rating champion
+  - trent walton & design
   - unfettered idle man
   - upright flies mihoyo
   - wanderer bs
-  - wang xiaofeng
-  - wang zhaohai
-  - wes bos
+  - wang xiaofeng djhs
+  - wang zhaohai djhs & math whiteboard
+  - wes bos & web dev
   - with.fish lz233
-  - xia chuyun
+  - xia chuyun djhs
   - yan xuecan acwing
-  - yang yang
-  - yin ming kalasoo
-  - yue fukang
+  - yang beilei djhs & intuitive geography
+  - yang yang djhs & breezy physics
+  - yao qixuan djhs
+  - yin ming kalasoo & juejin founding
+  - yue fukang djhs
   - yuluer
-  - yunling sapphire & high school life
-  - zhang chuanzhi
-  - zhang xizhe
-  - zhao jinjiang jiongks
-  - zhou ling
-  - zhou xuanyi
-  - zhou zhiyuan
+  - yunling sapphire & peer tutor life
+  - yunyoujun & web dev
+  - zhang chuanzhi ldhs & chemistry quizzes
+  - zhang xizhe djhs
+  - zhao jinjiang jiongks & web dev
+  - zhou ling djhs & kind class master life
+  - zhou xuanyi & debate
+  - zhou zhiyuan djhs & japan culture
 - - dejavu serif
   - fira code
   - fira sans
@@ -436,7 +446,7 @@
   - atom one dark
   - chromium just black
 - - ubuntu yaru
-  - google books classic
+  - google reader
   - material design 2
   - material design 3
   - iphone os 6
@@ -552,6 +562,7 @@
   - whilst the great ocean of truth lay all undiscovered before me
 - i have a small device in my pocket that provides access to nearly the sum total of human knowledge
   - i use it to get into pointless arguments with people i don't know and look at pictures of cats
+  - philistine.
 - reading is active while watching tv is passive
   - all the research says reading a book is good for you
   - it reduces stress, promotes comprehension, relieves depression, helps you sleep and may contribute to preventing alzheimer's
@@ -587,14 +598,16 @@
   - what's the difference between truth and reality
 - 遂迷不复得路
 - 念念不忘必有回响
-- 不如相忘于江湖
+- 庄生晓梦迷蝴蝶
 - 且放白鹿青崖间
-- 木已成舟
 - 惟江上之清风
+- 弱水三千取一瓢饮
 - 以有涯随无涯殆已
 - 为者败之执者失之
+- 他日江湖相逢
 - 命里有时终须有
 - 壁上小虫忽跃落衿袖间
+- 木已成舟
 - 池鱼思故渊
 - 锦瑟无端五十弦
 - 春风若有怜花意
@@ -603,13 +616,13 @@
 - 江畔何人初见月
 - 年年岁岁花相似
 - 花开堪折直须折
+- 如今却忆江南乐
 - 也无风雨也无晴
 - 无心插柳柳成荫
 - 他乡遇故知
-- 鸢飞戾天者望峰息心
-- 当时年少春衫薄
 - 寓形宇内复几时
 - 光阴者百代之过客
+- 鸢飞戾天者望峰息心
 - 以神遇而不以目视
 - 以我观物故物皆着我之色彩
 - 民为贵社稷次之
@@ -619,9 +632,9 @@
 
 - people
   - `livid` letter to solitary youth
-  - `nat` belief of an entrepreneur
-  - `florio` guide to programming journey
-  - `ruanyf` things in the digital time
+  - `nat` belief of a tech entrepreneur
+  - `ruanyf` observation of the digital time
+  - `florio` advice for the programming ride
   - `reflections` memories of the fellows
 - ideas
   - `projects` endeavours worthwhile
@@ -644,12 +657,11 @@
   - `terminal ...` shortcuts
 - notes
   - $\to \text{/notes}$
-  - `design` ue design psychology
-  - `plain` federal plain language
-  - `symbols` latex symbols
-  - `physics` chinese hs physics
-  - `xbox` video game travelling
-  - `testing ...` google testing
+  - `testing ...` google testing cheetsheet
+  - `design` psychology of design
+  - `xbox` video game sightseeing
+  - `symbols` latex symbols spec
+  - `physics` chinese physics textbook
 
 ## beauties
 

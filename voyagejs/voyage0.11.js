@@ -1,5 +1,5 @@
-//20241031
-//voyagejs 0.12
+//20241030
+//voyagejs 0.11
 
 let voyage = {
   storage: {},
@@ -210,16 +210,11 @@ voyage.run(examples.counter, document.body);
 // - define macro (macro(node,state obj))
 // create component
 // - create(fn,[arg],children)
-// custom efficient update function
-// - state.update (default updateComponent)
-// - state bind list (everywhere concerned with)
-// - bind list item [node,attribute,reducer]
 // component public states with key
 // - state = store({key:value})
 // - [state,state2] = store([{key:value},{key2:value2}])
 // - get(componentid,state key)
 // - state.id (componentid & state key)
-// - state = storeGlobal({key:value})
 // select while create
 // - attribute $0 $1 $2
 // - input = select("$0")
@@ -228,6 +223,14 @@ voyage.run(examples.counter, document.body);
 // - component = select("$xyz")
 // - component.state key (proxy or obj def prop)
 // - nav = select(parent,location [0,1,0,2])
+// custom efficient update function
+// - state.update (default updateComponent)
+// - state bind list (everywhere concerned with)
+// - bind list item [position (node tree array),reducer]
+// custom state management
+// - unique state id (component id + state order | state key)
+// - get componentid (node)
+// - get component state (key) from componentid public storage
 // dom method macros
 // - steal from jquery
 // - learn from common use case
@@ -250,10 +253,3 @@ voyage.run(examples.counter, document.body);
 // - mihoyo sr
 // - google books classic'
 // - ...
-// xhr
-// - from jquery
-// - sync and async
-// route
-// - simple
-// - custom reducer
-
