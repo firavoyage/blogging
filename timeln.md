@@ -7298,7 +7298,7 @@ dealing with a bold mosquito flying around me.
 
 it even hasnt tried to dodge me before i clapped my hand.
 
-finally it paid its life. 
+finally it paid its life.
 
 **fucking insect.**
 
@@ -7306,7 +7306,7 @@ finally it paid its life.
 
 23:28
 
-the third time fighting **the ascended** today. 
+the third time fighting **the ascended** today.
 
 **the worst matchup could be.**
 
@@ -7336,13 +7336,13 @@ always max hp.
 
 **poor kafka!**
 
-wtf. 
+wtf.
 
 on stage 3, kafka killed fu xuan's 9000 hp in one shot!
 
 anyway. when receiving killing blow, reset with 1% hp.
 
-well, how could it be! 
+well, how could it be!
 
 it's just normal difficulty.
 
@@ -7368,7 +7368,7 @@ emmm...
 
 still stuck in kafka stage 3.
 
-open kafka enemy detail page... 
+open kafka enemy detail page...
 
 now i see.
 
@@ -7391,7 +7391,7 @@ but it's turned out that i was wrong.
 
 **2.0% dmg boost stacked 80 times**
 
-it eventually dawned on me that 
+it eventually dawned on me that
 
 i shouldnt restart the challenge.
 
@@ -7490,7 +7490,7 @@ playing sr.
 
 `dev`
 
-renamed all files with "_" to " "
+renamed all files with "\_" to " "
 
 16:41
 
@@ -7509,3 +7509,41 @@ playing sr.
 things are done.
 
 怅然若失.
+
+23:xx
+
+`gaming`
+
+watching simplelive
+
+gaozixiang & wanderer bs
+
+cr championship
+
+bs championship
+
+## 20241103
+
+01:01
+
+`gaming`
+
+playing df.
+
+零号大坝. 普通.
+
+因为等级不够.
+
+玩威龙,跑刀.
+
+队友开起来,有正面作用.就是清人机和敌人.
+
+几乎没有抢东西的负面作用.
+
+因为我的角色跑得快,直接走,队友可能会清人机.
+
+打人和打人机爆率一样.
+
+然后不喜欢的对局就直接退了.
+
+等级高一点,去机密好.同学早入坑,都去机密了.

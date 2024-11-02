@@ -115,14 +115,14 @@
 - - honkai star rail (2023)
   - honkai impact third (2016)
   - houkai gakuen second (2014)
-  - genshin impact (2020)
-  - zenless zone zero (2024)
-  - azur lane (2017)
-  - blue archive (2021)
   - brawl stars (2017)
   - clash royale (2016)
   - delta force (2024)
   - pubg mobile (2018)
+  - azur lane (2017)
+  - blue archive (2021)
+  - genshin impact (2020)
+  - zenless zone zero (2024)
   - minecraft (2011)
   - terraria (2011)
   - angry birds classic (2009)
@@ -377,7 +377,7 @@
   - peng kunshuo orchidany & oi
   - physixfan
   - pieter levels levelsio & nomad list founding
-  - pink rabbit & oi
+  - pink rabbit codeforces
   - promise of playboy sr
   - qingyu codeforces
   - richard bs
@@ -446,7 +446,7 @@
   - atom one dark
   - chromium just black
 - - ubuntu yaru
-  - google reader
+  - google books classic
   - material design 2
   - material design 3
   - iphone os 6
@@ -460,13 +460,6 @@
   - firefox 124.0.2
   - code 1.91.2
   - git 2.43
-  - mistral-large 2
-  - github-copilot 1.242.0
-  - javascript-code-snippets 1.8.0
-  - javascript-snippets 0.4.0
-  - apt 2.7.14
-  - flatpak 1.14.10
-  - snap 2.63.1
   - fcitx 5.1.7
   - v2raya 2.2.5.1
   - wine 9.0
@@ -480,6 +473,12 @@
   - eslint 6.4.0
   - prettier 9.2.0
   - terser 5.19.2
+  - mistral-large 2
+  - javascript-code-snippets 1.8.0
+  - javascript-snippets 0.4.0
+  - apt 2.7.14
+  - flatpak 1.14.10
+  - snap 2.63.1
   - antennapod 3.1.2
   - bilimiao 2.3.8.3
   - blender 4.2.1
@@ -627,6 +626,7 @@
 - 以我观物故物皆着我之色彩
 - 民为贵社稷次之
 - 待到秋来九月八
+- 怅然若失
 
 ## erudition
 

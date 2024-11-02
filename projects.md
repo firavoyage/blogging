@@ -763,17 +763,16 @@ for(i 1 10 j 10 100){A} //for(let i=1;i<=10;i++){for(let j=10;i<=100;j++){A}}
 > design with elegance
 
 - color themes
-  - ruanyf blog
-  - jrsinclair blog
   - ubuntu yaru
   - dracula official
   - one dark pro
   - monokai pro
+  - ruanyf blog
 - component systems
-  - mihoyo sr
-  - mihoyo hi
-  - mihoyo gi
-  - mihoyo zzz
+  - sr
+  - hi
+  - gi
+  - zzz
   - google books classic
   - reddit old
   - material ui
