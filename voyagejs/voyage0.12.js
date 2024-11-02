@@ -305,11 +305,15 @@ voyage.run(examples.counter, document.body);
 // todo
 //
 // remove
-// - select componentid -> failed -> remove componentid
-// macro
-// - more built in macro ("@model")
+// - select componentid -> failed -> remove componentid -> return false
+// create poly
+// - create(str tag,obj labels,arr children)
+// - create(str tag,obj labels,str text)
+// - create(obj labels,str text)
 // create component
 // - create(fn,[arg],children)
+// macro
+// - more built in macro ("@model")
 // custom efficient update function
 // - state.update (default update)
 // - state bind list (everywstateid concerned with)
@@ -349,7 +353,7 @@ voyage.run(examples.counter, document.body);
 // theme
 // - mihoyo sr
 // - google books classic'
-// - ...
+// - chakra
 // xhr
 // - from jquery
 // - sync and async

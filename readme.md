@@ -122,14 +122,12 @@
   - azur lane (2017)
   - blue archive (2021)
   - genshin impact (2020)
-  - zenless zone zero (2024)
-  - minecraft (2011)
   - terraria (2011)
-  - angry birds classic (2009)
+  - minecraft (2011)
   - kingdom rush (2011)
   - soul knight (2017)
   - canabalt hd (2009)
-  - reverse: 1999 (2023)
+  - angry birds classic (2009)
   - doki doki literature club! (2017)
   - senren banka (2016)
   - sabbat of the witch (2015)
@@ -280,7 +278,7 @@
   - miyuki takara
   - nahida
   - nanako kuroi
-  - necora nyaru electro kitty
+  - necora nyaru
   - numby & topaz
   - orient snowy lotus
   - origami birds

@@ -7547,3 +7547,35 @@ playing df.
 然后不喜欢的对局就直接退了.
 
 等级高一点,去机密好.同学早入坑,都去机密了.
+
+02:57
+
+`gaming`
+
+watching simplelive
+
+wanderer bs.
+
+bs championship 8 to 4
+
+`dev`
+
+writing voyagejs.
+
+completed todo
+
+- macro
+- ref
+
+released 0.12
+
+current
+
+- sync g.zip.
+
+`plan`
+
+tomorrow
+
+- watch lucky star ep 10
+
