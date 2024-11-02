@@ -394,8 +394,9 @@
   - root and affix
   - explanation
   - example sentences
-  - history & origin
+  - word origin
   - frequency
+  - difficulty
 - source
   - chatgpt & mistral ai
   - wikipedia
@@ -404,9 +405,10 @@
   - collins
   - merriam webster
   - oxford
-  - kaggle english word frequency
   - kaggle morphemic segmentation of english words
   - kaggle wordnet dictionary thesaurus
+  - kaggle english word frequency
+  - kaggle english word difficulty prediction
 - design
   - podcast player
   - calendar
@@ -426,7 +428,7 @@
 
 ### `pure`
 
-> one's desired math courses "纯度" "数学狱友"
+> one's desired math courses "纯度"
 
 > -> /pure
 
@@ -479,13 +481,11 @@
   - all theories without strict proof
   - some conclusions by problems
   - uee paper guide
-- self
-  - a bot reading lecture notes & answering questions
-  - a learner solving problems & writing wiki
-- mood
-  - prudence
-  - scepticism
-  - humbleness
+- challenge
+  - problems are only given
+  - when you have a chance to work it out
+  - of course you will do things fast
+  - or you may head to the answer
 - free
   - it's break time!
   - solve these problems if you like
@@ -506,6 +506,17 @@
   - neither is problem solving which could be like
   - completing puzzle games in our childhood
   - which is the pleasure of math challengers
+- mode
+  - thanks to sponsors on github and patreon
+  - it could be pure knowledge 
+  - without the poor's desire of class leap
+- self
+  - a bot reading lecture notes & answering questions
+  - a learner solving problems & writing wiki
+- mood
+  - prudence
+  - scepticism
+  - humbleness
 - various themes
   - by voyage
 - inspired by
@@ -944,6 +955,7 @@ for(i 1 10 j 10 100){A} //for(let i=1;i<=10;i++){for(let j=10;i<=100;j++){A}}
   - not now
   - action games not visual novels
 - inspired by
+  - fandom sr wiki
   - memoir of prosperity
   - promise of playboy
   - old ocean tubber
