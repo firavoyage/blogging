@@ -31,7 +31,7 @@
   - coca-cola
   - bubble tea
   - dark chocolate bar
-  - egg waffle 
+  - egg waffle
   - tea egg
   - crisps classic
   - chenpi & huamei
@@ -557,6 +557,9 @@
 - knowledge isn't free
   - you have to pay attention
   - where are geniuses' attention dissolved?
+- tell me, and i will forget
+  - show me, and i may remember
+  - involve me, and i will understand
 - idle mode... (yawn) how boring.
   - if you're not solving problems or writing up contributions
   - then don't blame me if your life is boring
@@ -579,15 +582,12 @@
 - if i make, like, three good decisions a day, that's enough
   - and they should be as high quality as i can make them
   - warren buffett says he's good if he makes three good decisions a year
-- tell me, and i will forget
-  - show me, and i may remember
-  - involve me, and i will understand
-- a ship in harbor is safe
-  - but that is not what ships are built for
 - stay focused, keep shipping
   - build early, build always
   - improve yourself, write solid/simple/stupid code
   - live in the future and build what's missing
+- a ship in harbor is safe
+  - but that is not what ships are built for
 - soli deo gloria.
   - god is light, and in him there is no darkness at all.
   - if we say we have fellowship with him yet walk in the darkness, we lie and do not practice the truth.
