@@ -482,8 +482,13 @@ voyage.run({
   parent: "body",
 });
 
-// todo
-//
+// roadmap
+// - complete todos
+// - svelte examples for feature testing
+// - chakra ui for more realistic case
+// - sr component library for fun
+// 
+// @todo
 // store key value
 // - component properties and stateid move to info[componentid]
 // - state = store({key:value})
