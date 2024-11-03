@@ -225,6 +225,8 @@
   - the pirate bay
   - internet archive
   - archive.today
+  - kaggle
+  - hugging face
   - google
   - youtube
   - ruanyf weekly
@@ -243,8 +245,9 @@
   - travellings
   - foreverblog
   - csdiy
-  - kaggle
   - bangumi.tv
+  - bgmlist
+  - mikan project
   - my anime list
   - douban book
   - douban movie

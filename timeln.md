@@ -7579,3 +7579,73 @@ tomorrow
 
 - watch lucky star ep 10
 
+## 20241104
+
+14:02
+
+`pure`
+
+writing set logic.
+
+15:xx
+
+`gaming`
+
+playing al,sr.
+
+做了日常.
+
+playing df.
+
+看了眼 df 好友战绩.
+
+zhang xizhe 从 10 点打到 15 点,一直输,大概是跑刀.
+
+15:44
+
+`pure`
+
+wrote set logic.
+
+16:56
+
+`dev`
+
+wrote voyagejs
+
+- revise
+- remove
+
+writing create poly
+
+19:37
+
+`gaming`
+
+playing df.
+
+以前一键转移,还要把装备单独转移.
+
+现在懒得转移了.人机装备没啥好转移的.
+
+说的是包和装甲.
+
+枪倒是可以转移,反正没有子弹也用不了.
+
+21:33
+
+had supper
+
+`dev`
+
+wrote voyagejs
+
+- create poly
+
+21:34
+
+`gaming`
+
+playing df.
+
+- watch lucky star ep 10

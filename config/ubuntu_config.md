@@ -371,6 +371,7 @@ sudo apt install gnome-shell-extension-prefs
     - select words `ctrl shift left|right`
     - select lines `ctrl l`
     - select blocks `shift alt left|right`
+  - - go to line `ctrl g`
   - - add cursor above `ctrl shift up`
     - add cursor below `ctrl shift down`
     - add cursor anywhere `alt click`
