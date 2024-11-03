@@ -324,9 +324,9 @@ let voyage = {
     const { update } = voyage;
     const { refState, bind } = voyage;
 
+    const { componentid } = voyage.counter;
     const { states } = voyage;
     const { stateid } = states[componentid];
-    const { componentid } = voyage.counter;
     
     if (lacks(states[componentid], stateid)) {
       bind(componentid, stateid, update);
@@ -425,17 +425,6 @@ let examples = {
     const dec = function () {
       count.v--;
     };
-    const inc = function () {
-      count.v++;
-    };
-    const change = function (e) {
-      const value = e.target.value;
-      if (isNaN(value)) {
-        count.v = 0;
-      } else {
-        count.v = value;
-      }
-    };
     const combined = create(["button", { "@click": dec }, "-"]);
     return combined;
   },
@@ -444,9 +433,6 @@ let examples = {
     let count = store(0);
     const dec = function () {
       count.v--;
-    };
-    const inc = function () {
-      count.v++;
     };
     const change = function (e) {
       const value = e.target.value;

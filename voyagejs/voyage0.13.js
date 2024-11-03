@@ -324,9 +324,9 @@ let voyage = {
     const { update } = voyage;
     const { refState, bind } = voyage;
 
+    const { componentid } = voyage.counter;
     const { states } = voyage;
     const { stateid } = states[componentid];
-    const { componentid } = voyage.counter;
     
     if (lacks(states[componentid], stateid)) {
       bind(componentid, stateid, update);
