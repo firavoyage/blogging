@@ -550,16 +550,16 @@
   - the answer is predictive of your behavior
   - better to get your dopamine from improving your ideas than from having them validated
   - it's ok to get yours from "making things happen"
-- where are geniuses' attentions dissolved?
-  - knowledge isn't free
-  - you have to pay attention
-- idle mode... yawn... how boring.
-  - if you're not solving problems or writing up contributions
-  - then don't blame me if your life is boring
 - i do not know what i may appear to the world
   - but to myself i seem to have been only like a boy playing on the sea-shore
   - and diverting myself in now and then finding a smoother pebble or a prettier shell than ordinary
   - whilst the great ocean of truth lay all undiscovered before me
+- knowledge isn't free
+  - you have to pay attention
+  - where are geniuses' attention dissolved?
+- idle mode... yawn... how boring.
+  - if you're not solving problems or writing up contributions
+  - then don't blame me if your life is boring
 - i have a small device in my pocket that provides access to nearly the sum total of human knowledge
   - i use it to get into pointless arguments with people i don't know and look at pictures of cats
   - philistine.

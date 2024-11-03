@@ -8861,63 +8861,55 @@ Geniuses often have their attention dissolved or deeply engaged in several areas
 
 7. **Daydreaming and Mind Wandering**: Some geniuses may appear to be lost in thought or daydreaming. This can be a productive state where they process complex ideas or generate creative solutions.
 
-8. **Multitasking**: While not all geniuses are multitaskers, some may have their attention divided among several tasks or projects at once, making progress on each as inspiration or necessity dictates.
+8. **Deep Work and Flow States**: Geniuses often engage in deep work, where they focus intensely on a single task or project for extended periods. This can lead to a state of flow, where they are completely absorbed in their work.
 
 9. **Social and Emotional Connections**: While the stereotype of a genius is often someone who is socially isolated, many geniuses do invest significant attention in their relationships, whether they are personal or professional.
 
 10. **Self-Improvement**: They might be focused on personal growth, self-reflection, and continuous self-improvement.
 
+11. **Introspection and Reflection**: Geniuses may spend a lot of time in thought, reflecting on their experiences, ideas, and the world around them. This introspection can lead to profound insights.
+
+12. **Interdisciplinary Exploration**: They often have diverse interests and can see connections between seemingly unrelated fields. This interdisciplinary approach can lead to innovative ideas and solutions.
+
+13. **Philosophical and Theoretical Thought**: Geniuses often ponder deep philosophical questions and theoretical concepts, seeking to understand the fundamental nature of reality, knowledge, and existence.
+
+14. **Practical Application**: They might be focused on applying their knowledge and ideas to real-world problems, aiming to make a tangible impact.
+
+15. **Teaching and Mentoring**: Some geniuses devote significant attention to sharing their knowledge and insights with others, helping to inspire and educate the next generation.
+
 These areas of focus can vary greatly depending on the individual's interests, personality, and field of expertise.
 
-> where are geniuses' attention dissolved
+## geniuses
 
-Geniuses often have their attention dissolved or focused in several areas, driven by their intense curiosity, deep thinking, and passion for learning. Here are some common areas where their attention might be engaged:
+`concept` `ref` `history` `important`
 
-1. **Problem-Solving**: Geniuses often focus on complex problems that others may find daunting. They can become deeply engrossed in finding solutions or innovations.
+> $\to mistral \space large \space 2$
 
-2. **Learning and Research**: They frequently delve deep into subjects that interest them, reading widely and conducting thorough research to gain a comprehensive understanding.
+> where are geniuses devoted
 
-3. **Creative Pursuits**: Many geniuses channel their attention into creative outlets such as art, music, writing, or inventing. This allows them to express their unique perspectives and ideas.
+Geniuses can be devoted to a wide range of fields and pursuits. Here are some areas where you might find them:
 
-4. **Pattern Recognition**: They often look for patterns and connections that others might miss, which can lead to breakthroughs in various fields.
+1. **Science and Technology**: Many geniuses devote their lives to scientific research and technological innovation. They might be physicists, biologists, chemists, computer scientists, or engineers, working on anything from theoretical physics to artificial intelligence to renewable energy.
 
-5. **Introspection and Reflection**: Geniuses may spend a lot of time in thought, reflecting on their experiences, ideas, and the world around them. This introspection can lead to profound insights.
+2. **Mathematics**: Some geniuses are devoted to solving complex mathematical problems, developing new theories, or applying mathematics to other fields.
 
-6. **Interdisciplinary Exploration**: They often have diverse interests and can see connections between seemingly unrelated fields. This interdisciplinary approach can lead to innovative ideas and solutions.
+3. **Arts and Literature**: Geniuses in the arts might be devoted to painting, sculpture, music, writing, poetry, or other forms of creative expression. They often push the boundaries of their medium and contribute unique perspectives to the world.
 
-7. **Collaboration and Discussion**: Engaging with other intellectuals, experts, or peers can stimulate their thinking and help refine their ideas.
+4. **Philosophy**: Some geniuses are devoted to exploring fundamental questions about existence, knowledge, values, reason, mind, and language. They might develop new philosophical theories or build upon existing ones.
 
-8. **Experimentation and Exploration**: They might be deeply involved in hands-on experimentation or exploration, whether in a lab, through travel, or in other forms of experiential learning.
+5. **Medicine**: Geniuses in the field of medicine might be devoted to understanding and treating diseases, developing new medical technologies, or improving healthcare systems.
 
-9. **Philosophical and Theoretical Thought**: Geniuses often ponder deep philosophical questions and theoretical concepts, seeking to understand the fundamental nature of reality, knowledge, and existence.
+6. **Business and Entrepreneurship**: Some geniuses are devoted to creating and growing businesses, innovating in industries, or solving societal problems through entrepreneurship.
 
-10. **Practical Application**: They might be focused on applying their knowledge and ideas to real-world problems, aiming to make a tangible impact.
+7. **Social Sciences**: Geniuses in the social sciences might be devoted to understanding and improving societies, economies, or political systems. They might be economists, sociologists, psychologists, or political scientists.
 
-While their attention can be highly focused, it can also be quite fluid, moving between different areas of interest and exploration. This multifaceted approach often contributes to their innovative and groundbreaking work.
+8. **Education**: Some geniuses are devoted to teaching and inspiring others, innovating in education, or conducting research to improve educational systems.
 
-> where are geniuses' attention dissolved
+9. **Social Causes**: Many geniuses devote their time and talents to addressing social and environmental challenges, such as poverty, inequality, climate change, or social justice.
 
-Geniuses often have their attention dissolved or absorbed in various areas due to their intense curiosity, deep thinking, and passion for learning. Here are a few common areas where geniuses might focus their attention:
+10. **Combination of Fields**: Some geniuses are devoted to interdisciplinary pursuits, combining knowledge and methods from multiple fields to address complex problems.
 
-1. **Problem-Solving**: Geniuses often devote significant attention to complex problems, puzzles, or challenges in their fields of interest. They may become deeply engrossed in finding solutions or innovations.
-
-2. **Learning and Research**: Many geniuses are lifelong learners, constantly reading, studying, and researching to expand their knowledge and understanding of the world.
-
-3. **Creative Pursuits**: Geniuses may focus their attention on creative endeavors such as art, music, writing, or designing, as these activities allow them to express their unique perspectives and ideas.
-
-4. **Pattern Recognition**: Geniuses often pay close attention to patterns and connections that others might miss. They may spend considerable time observing, analyzing, and interpreting these patterns.
-
-5. **Daydreaming and Mind Wandering**: Some geniuses may appear to be lost in thought or daydreaming. This can be a productive process where they explore ideas, make connections, and generate insights.
-
-6. **Deep Work and Flow States**: Geniuses often engage in deep work, where they focus intensely on a single task or project for extended periods. This can lead to a state of flow, where they are completely absorbed in their work.
-
-7. **Philosophical and Existential Questions**: Many geniuses are drawn to big, fundamental questions about life, the universe, and everything. They may spend considerable time pondering these questions and exploring potential answers.
-
-8. **Observing the World**: Geniuses may pay close attention to the world around them, noticing details and nuances that others might miss. This keen observation can fuel their curiosity and inspire new ideas.
-
-9. **Making Connections**: Geniuses often focus on interdisciplinary connections, drawing links between seemingly disparate fields or ideas.
-
-10. **Teaching and Mentoring**: Some geniuses devote significant attention to sharing their knowledge and insights with others, helping to inspire and educate the next generation.
+Regardless of the field, geniuses often share a common trait of intense focus, passion, and dedication to their chosen pursuit.
 
 ## metaphors
 

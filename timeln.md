@@ -7649,3 +7649,55 @@ wrote voyagejs
 playing df.
 
 - watch lucky star ep 10
+
+## 20241105
+
+00:xx
+
+`dev`
+
+wrote voyagejs
+
+- store with ref
+
+released 0.13
+
+01:xx
+
+`ref` `important` `school`
+
+retro...
+
+周凌:
+
+有个同学,晚上不睡,早上很不想起来,
+
+正好早自修没课,就总想迟到,又必须起来,
+
+然后就抑郁了.
+
+(f:)
+
+啊啊,没有升学压力,什么都无所谓喵!
+
+大哥是少爷哦!
+
+我不知道世界如何看待我,我就像海边拾贝壳的男孩.
+
+(只)做有意思的事情.
+
+根本不会抑郁.
+
+01:40
+
+`bangumi`
+
+watched lucky star episode 10
+
+- watch bs championship at wanderer bs simplelive?
+
+playing df. and then
+
+sleep.
+
+
