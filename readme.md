@@ -557,7 +557,7 @@
 - knowledge isn't free
   - you have to pay attention
   - where are geniuses' attention dissolved?
-- idle mode... yawn... how boring.
+- idle mode... (yawn) how boring.
   - if you're not solving problems or writing up contributions
   - then don't blame me if your life is boring
 - i have a small device in my pocket that provides access to nearly the sum total of human knowledge
