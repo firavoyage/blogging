@@ -7700,4 +7700,80 @@ playing df. and then
 
 sleep.
 
+03:xx
 
+watched supercell helsinki championship live and matches replay.
+
+bs: humble win, only only one lose to sk gaming
+
+cr: mohamad light win, with only one lose to lciop
+
+04:50
+
+watched simplelive df
+
+key253 playing df.
+
+a open and frank boy in cute anime charcater of red eyes.
+
+kksk!
+
+`school` `ref` `important` `retro`
+
+oh it's too late... maybe not?
+
+the day after tomorrow will be monthly exam...
+
+anyway. it's supercell championship!
+
+the same happens when i was in jhs grade 3 and it was fifa world cup.
+
+i didnt remember, maybe croatia vs brazil?
+
+it was also monthly exam tomorrow...
+
+and df! it's an arousing fps game.
+
+i stayed up late for months when i was jhs grade 2 playing pubg mobile.
+
+it was covid pandemic that time
+
+and my classmates learned online while i didnt love watching live courses
+
+i just played and played and stayed up late and always giving up sleep.
+
+anyway, earthly escapade! 
+
+my mission is just to threat life merely as playing game.
+
+"a boy constantly looking pretty shells than ordinary"
+
+just working out problems at possible. and keep in mind that
+
+score is nothing. no stress or pressure. that's school life. enjoy youth!
+
+i never go to school with phone. spare out time playing games makes me nervous.
+
+as a play games for indulgence not for pasttime.
+
+that's life.
+
+05:03
+
+finished writing all those above.
+
+tomorrow
+
+- complete some voyagejs todo
+- watch lucky star
+- sleep early for contest
+
+next week
+
+- monday: normal
+- tues to thurs: monthly exam
+- friday: autumn outing
+- the week after next: practice craftman skill
+- next next: the grass is grown and opened. time for football.
+
+sleep. (slumber.)

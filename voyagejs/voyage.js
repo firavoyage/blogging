@@ -449,7 +449,7 @@ let examples = {
     return combined;
   },
   counterMacro() {
-    const { ref, create } = voyage;
+    const { ref, c } = voyage;
     let count = ref(0);
     const dec = function () {
       count.v--;
@@ -457,7 +457,7 @@ let examples = {
     const inc = function () {
       count.v++;
     };
-    const combined = create([
+    const combined = c([
       ["button", { "@click": dec }, "-"],
       ["input", { type: "text", value: count, "@model": count }],
       ["button", { "@click": inc }, "+"],

@@ -450,6 +450,7 @@
   - google books classic
   - material design 2
   - material design 3
+  - chakra ui
   - iphone os 6
   - smartisan os 8
   - oxygen os 11
@@ -563,6 +564,10 @@
 - idle mode... (yawn) how boring.
   - if you're not solving problems or writing up contributions
   - then don't blame me if your life is boring
+- konata is a mischievous, sarcastic and eccentric
+  - yet good-natured and friendly girl
+  - who is very intelligent but lazy
+  - which is why her grades are uneasy
 - i have a small device in my pocket that provides access to nearly the sum total of human knowledge
   - i use it to get into pointless arguments with people i don't know and look at pictures of cats
   - philistine.
