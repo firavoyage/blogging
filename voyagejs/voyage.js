@@ -486,6 +486,7 @@ voyage.run({
 // - complete todos
 // - svelte examples for feature testing
 // - chakra ui for more realistic case
+// - google reader for elegance
 // - sr component library for fun
 // 
 // @todo
@@ -511,28 +512,11 @@ voyage.run({
 // dom method macros
 // - steal from jquery
 // - learn from common use case
-// unit test
-// - mulitple states in one component
-// - implement more svelte examples
 // revise
-// - less typing
-// - clear variable name
+// - clearer variable name
 // - function poly
-// analyzer
-// - precompiler like svelte
-// - generate while create (by state get observer)
-// - if get elsewstateid (maybe conditional rendering) then dont optimize
-// - dom update diff (update virtual dom everytime)
-// examples
-// - chakra ui in voyage
-// - material ui in voyage
-// theme
-// - mihoyo sr
-// - google books classic'
-// - chakra
+// - less typing
 // xhr
-// - from jquery
-// - sync and async
+// - impl elsewhere
 // route
-// - simple
-// - custom reducer
+// - impl elsewhere
