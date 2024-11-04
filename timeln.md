@@ -7777,3 +7777,56 @@ next week
 - next next: the grass is grown and opened. time for football.
 
 sleep. (slumber.)
+
+06:55
+
+get up.
+
+so hot so sweated. full body.
+
+like a fever but of course not.
+
+status: just sleepy.
+
+17:xx
+
+no math paper today.
+
+followed zhang xizhe all way home
+
+18:xx
+
+took a bath.
+
+refreshed.
+
+19:20
+
+`gaming`
+
+playing sr.
+
+- daily assignment
+- weekly div universe 
+- sampo activity
+
+and account got logged out.
+
+"account logged in another device."
+
+turned to user.mihoyo.com and got ip log
+
+"大连"
+
+`retro`
+
+哇,暑假里的回忆还在继续!
+
+22:19
+
+`dev`
+
+released new voyagejs.
+
+- some states moved to info
+- key value states
