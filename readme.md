@@ -75,16 +75,16 @@
   - love before bc (jay chou)
   - story of time (luo da you)
   - fleet of time (faye wong)
-- - tom and jerry classic collection (1940)
+- - lucky star (2007)
+  - in solitude where we are least alone (2010)
+  - worldend: what do you do at the end of the world? are you busy? will you save us? (2017)
+  - tom and jerry classic collection (1940)
   - joker (2019)
   - soul (2020)
-  - the knockout (2023)
   - life in a day (2011)
   - downton abbey (2010)
-  - in solitude where we are least alone (2010)
   - the chorus (2004)
   - the phantom of the opera (2004)
-  - worldend: what do you do at the end of the world? are you busy? will you save us? (2017)
   - reply 1988 (2015)
   - your name. (2016)
   - how to make millions before grandma dies (2024)
@@ -92,7 +92,6 @@
   - les misérables (2012)
   - call (2020)
   - 5 centimeters per second (2007)
-  - lucky star (2007)
   - .evangelion (1995)
   - .tonikawa: over the moon for you (2020)
   - .my youth romantic comedy is wrong, as i expected (2011)
@@ -561,7 +560,7 @@
 - tell me, and i will forget
   - show me, and i may remember
   - involve me, and i will understand
-- idle mode... (yawn) how boring.
+- idle mode... *yawn* how boring.
   - if you're not solving problems or writing up contributions
   - then don't blame me if your life is boring
 - konata is a mischievous, sarcastic and eccentric

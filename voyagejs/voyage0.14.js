@@ -292,8 +292,7 @@ let voyage = {
       stateid = keys(initial)[0];
       initial = values(initial)[0];
     } else {
-      stateid = info[componentid].stateid;
-      count(info[componentid], "stateid");
+      stateid = count(info[componentid], "stateid");
     }
 
     init(states, componentid, {});
@@ -360,6 +359,9 @@ let voyage = {
     } else {
       return storeState(options);
     }
+  },
+  keep(...options){
+
   },
   updateState(componentid, stateid) {
     const { updaters } = voyage;
@@ -524,12 +526,16 @@ voyage.run({
 //
 // @todo
 // store global
-// - get(componentid,stateid)
-// - get(key)
-// - state = storeGlobal({key:value})
-// - global state bind
-// macro
-// - more built in macro ("@model")
+// - keep(key,value) in storage, return refState.
+// - bind(key) for storage
+// - get(componentid,stateid) for state
+// - get(key) for storage
+// bind poly
+// - bind(componendid,stateid,updater)
+// - bind(state,updater)
+// diff update and other updaters to avoid inf loop
+// - annoymous fn will be pushed as array item of any times
+// - named fn will be added as object key of only one time
 // select while create
 // - attribute $0 $1 $2
 // - input = select("$0")
@@ -538,12 +544,17 @@ voyage.run({
 // - component = select("$xyz")
 // - component.state key (proxy or obj def prop)
 // - nav = select(parent,location [0,1,0,2])
+// - select(number) for component
+// - select(string) for node or reactive component
 // dom method macros
 // - steal from jquery
 // - learn from common use case
+// macro
+// - more built in macro ("@model")
 // revise
-// - clearer variable name
+// - param (a,b) ({a,b}) (...ab)
 // - function poly
+// - clearer method name
 // - less typing
 // xhr
 // - impl elsewhere

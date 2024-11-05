@@ -11,26 +11,27 @@
 
 > elegant reader for elegant writer
 
-- content separated from style
-  - markdown based and content focused
-  - style can be changed at any time in one click
-- present without distraction
-  - document slide view
-  - zen mode without editor panel
-- structure view
-  - contents and headers
-  - zoom in and zoom out
+- features
+  - open source
+  - extendable
+  - content focused
+  - quick navigation
+  - presentation mode
+  - portable format
+  - local based
+- view
+  - zen mode docs
+  - slide view
 - markdown extended
   - content block
   - auto collapse
-- local based
-  - as markdown files
 - various themes
   - by voyage
 - inspired by
   - notion
   - obsidian
   - yuque
+  - feishu
 
 ### `pre`
 
@@ -436,10 +437,9 @@
   - wiki based
   - symbol language
   - courses printable
-  - tricks as cards
-  - paragraphs as lines
-  - theorems as macros
-  - takeaway as cheetsheet
+  - methods visualized to cards
+  - lines instead of paragraphs
+  - cheetsheet takeaway
   - not for rating
 - perspectives
   - dark mode
@@ -454,10 +454,6 @@
   - learn on math challenger
   - practice on math guide
   - ref on math textbook
-- repetition
-  - abstract expression
-  - at leisure
-  - elegance
 - wonders
   - libre hs math wiki
   - all math theories list
@@ -490,7 +486,25 @@
   - it's break time!
   - solve these problems if you like
   - or listen to the song i picked
-- will
+- desire
+  - you don't learn to overstep others.
+  - which may seem appealing but is actually unhealthy.
+  - you learn just for the sake of knowledge.
+  - and you learn how to learn knowledge quickly.
+  - whether you love studying or not, you indeed spend time studying.
+  - for instance, you will learn something meaningful through listening
+  - even if you feel sleepy in class.
+  - and you will master repetitive things like using theories.
+  - even if you copy others' homework.
+  - you won't making full use of your effort,
+  - instead, you make full use of your time spent.
+  - you don't even need a teacher.
+  - and you can begin when you have both textbook notes and a workbook.
+  - few things given in neither the answer nor the key points are important.
+  - you don't make a plan, schedule, or timetable.
+  - and you decide what you'd love to master, not just to achieve.
+  - things are either made simple or removed from the contents.
+- pleasure
   - what's the fun of single machine rpgs
   - kill the game with ease
   - or getting through challenges
@@ -510,6 +524,10 @@
   - thanks to sponsors on github and patreon
   - it could be pure knowledge 
   - without the poor's desire of class leap
+- repetition
+  - abstract expression
+  - at leisure
+  - elegance
 - self
   - a bot reading lecture notes & answering questions
   - a learner solving problems & writing wiki
@@ -594,6 +612,9 @@
   - fly me 2 the moon
   - angry birds classic
   - terraria
+- app ideas
+  - notion
+  - feishu
 - various themes
   - by voyage
 - inspired by

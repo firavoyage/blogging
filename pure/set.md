@@ -43,6 +43,9 @@
 
 ### proposition
 
+[image]
+[image]
+
 - $a \in b,a \notin b$
   - $\pi \in \text{实数}$
   - "$\pi$`属于`实数"
@@ -60,11 +63,17 @@
 
 ### emptyset
 
+[image]
+
 - $\varnothing$
 
 > 空集属于任意集合
 
 ### formulation
+
+[image]
+[image]
+[image]
 
 - $\{1,2,3\}$
   - 给出所有元素.
@@ -89,6 +98,10 @@
 
 ### calculation
 
+[image]
+[image]
+[image]
+
 - $a \cap b$
   - "a交b" "a,b交集"
   - (examples)
@@ -111,6 +124,8 @@
           - 正整数 $\mathbb{N^{\text{+}}}$ $\mathbb{N^{\text{*}}}$
 
 > 6 symbols
+
+> [footnote]
 
 ### problems
 

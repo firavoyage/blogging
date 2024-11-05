@@ -1,5 +1,5 @@
-//20241107
-//voyagejs 0.16
+//20241106
+//voyagejs 0.15
 
 let voyage = {
   info: {},
@@ -34,20 +34,20 @@ let voyage = {
   },
   checkType(a) {
     const { is } = voyage;
-    if (is(a, undefined) || is(a, null)) {
+    if (is(a, null) || is(a, undefined)) {
       return false;
+    } else if (Array.isArray(a)) {
+      return "array";
     } else {
       return typeof a;
     }
   },
   check(a, b) {
     const { is, checkType } = voyage;
-    if (b) {
-      if (is(checkType(b), "function")) {
-        return a instanceof b;
-      } else {
-        return is(checkType(a), b);
-      }
+    if (is(checkType(b), "string")) {
+      return is(checkType(a), b);
+    } else if (is(checkType(b), "object")) {
+      return a instanceof b;
     } else {
       return checkType(a);
     }
@@ -98,7 +98,7 @@ let voyage = {
     const { name } = fn;
 
     if (param) {
-      if (check(param, Array)) {
+      if (check(param, "array")) {
         return {
           [name]: function () {
             return fn(...param);
@@ -141,10 +141,10 @@ let voyage = {
   },
   has(obj, key) {
     const { check } = voyage;
-    if (check(obj, Array) && check(key, "number")) {
-      return key < obj.length;
-    } else if (check(obj, "object")) {
+    if (check(obj, "object")) {
       return obj.hasOwnProperty(key);
+    } else if (check(obj, "array") && check(key, "number")) {
+      return key < obj.length;
     } else {
       return false;
     }
@@ -307,7 +307,7 @@ let voyage = {
       node.innerText = children;
     } else {
       for (const child of children) {
-        if (check(child, Array)) {
+        if (check(child, "array")) {
           node.appendChild(create(...child));
         } else {
           node.appendChild(child);
@@ -332,17 +332,25 @@ let voyage = {
     } else {
       let element = {};
 
+      let typeOptions = [];
+      for (const option of options) {
+        typeOptions.push([check(option), option]);
+      }
+
       reset(counter, "string");
       reset(counter, "array");
-      for (const option of options) {
-        if (check(option, "string")) {
+      for (const typeOption of typeOptions) {
+        const [type, option] = typeOption;
+        if (is(type, "string")) {
           if (is(counter.string, 0)) {
             element.tag = option;
             count(counter, "string");
           } else {
             element.children = option;
           }
-        } else if (check(option, Array)) {
+        } else if (is(type, "object")) {
+          element.labels = option;
+        } else if (is(type, "array")) {
           if (is(counter.array, 0)) {
             element.children = option;
             count(counter, "array");
@@ -350,8 +358,6 @@ let voyage = {
             element.children = options;
             break;
           }
-        } else {
-          element.labels = option;
         }
       }
 
@@ -362,7 +368,7 @@ let voyage = {
       let isChildrenChild = false;
       for (const i of each(2)) {
         if (has(element.children, i)) {
-          if (!check(element.children[i], Array)) {
+          if (!check(element.children[i], "array")) {
             isChildrenChild = true;
           }
         }
@@ -466,7 +472,7 @@ let voyage = {
 
     const { check, map } = voyage;
     const { refState } = voyage;
-    if (check(options, Array)) {
+    if (check(options, "array")) {
       return map(options, refState);
     } else {
       return refState(options);
@@ -491,7 +497,7 @@ let voyage = {
 
     const { check, map } = voyage;
     const { storeState } = voyage;
-    if (check(options, Array)) {
+    if (check(options, "array")) {
       return map(options, storeState);
     } else {
       return storeState(options);

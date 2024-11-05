@@ -7579,8 +7579,6 @@ tomorrow
 
 - watch lucky star ep 10
 
-## 20241104
-
 14:02
 
 `pure`
@@ -7650,7 +7648,7 @@ playing df.
 
 - watch lucky star ep 10
 
-## 20241105
+## 20241104
 
 00:xx
 
@@ -7830,3 +7828,83 @@ released new voyagejs.
 
 - some states moved to info
 - key value states
+
+## 20241105
+
+01:46
+
+`dev`
+
+about to watch lucky star ep 11
+
+launched laptop...
+
+what? ubuntu restarted?
+
+i dont know...
+
+02:15
+
+`bangumi`
+
+watched lucky star episode 11
+
+02:31
+
+watched simplelive
+
+about df.
+
+sleep. (earlier than yesterday!)
+
+16:45
+
+`gaming`
+
+playing sr.
+
+蛙趣,星穹咋变少了!
+
+查了抽卡记录,11.03抽了好多发.
+
+好像是40发吧,限定角色池,没出货.
+
+大概是那个"大连"抽的.
+
+不过无所谓吧,让她玩会.
+
+23:15
+
+`dev`
+
+voyagejs 0.15 released.
+
+(details in code)
+
+- play df
+- watch lucky star episode 12
+
+## 20241106
+
+00:01
+
+`dev`
+
+ubuntu is so weak...
+
+pasted some string... "not responding"
+
+`dev`
+
+debugging voyagejs...
+
+revised check function qwq...
+
+00:06
+
+`dev`
+
+succeeded! 
+
+happy.
+
