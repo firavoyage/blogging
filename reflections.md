@@ -7335,6 +7335,10 @@ application.yml[飙泪笑]
 
 他应该起名叫vue.config.js
 
+这是尤雨溪的老网名，现在他的网名叫vite.config.js
+
+错，现在应该是vite.config.ts
+
 你好，CMakeLists.txt
 
 [赞]别落下我package.xml
@@ -7352,5 +7356,19 @@ application.yml[飙泪笑]
 不如叫:() { :|:& };:[大笑]
 
 无畏契约国服就是这样的🤣自从改名成了null，就启动器就再也查不到个人数据了
+
+我要改成.gitignore
+
+是最没存在感的辅助了吧
+
+好，下次我叫pom.xml
+
+玩大乱斗遇到过个叫IntelliJ丶IDEA的[捂脸]
+
+那你问他HashMap的底层原理了没有？[惊喜]
+
+这id高低也得问点红黑树[看看你]
+
+你好，我是index.html
 
 

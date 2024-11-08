@@ -674,14 +674,12 @@ voyage.run({
 //
 // @todo
 // init poly
-// - init(a,b,{})
 // - init(a,b)
-// - init(a[b],c)
-// - init(a[b],c,[])
-// - init(a,[c]) //c is array
-// - init(a,[[c]]) //c is array
-// - init(a,[b,c])
-// - init(a,[[b],c],{}) //b is array
+// - init(a,b,c)
+// - init(a,b,[c]) c is array
+// create poly redo
+// - create(string tag,obj labels,array child,array child)
+// - create([string tag,obj labels,array child,array child]) -> one more div wrap
 // select while create
 // - attribute $0 $1 $2
 // - input = select("$0")

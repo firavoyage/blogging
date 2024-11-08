@@ -28,12 +28,12 @@
 ## perception
 
 - - black tea
-  - coca-cola
-  - bubble tea
   - dark chocolate bar
+  - coca cola
+  - crisps classic
+  - bubble tea
   - egg waffle
   - tea egg
-  - crisps classic
   - chenpi & huamei
 - - johann sebastian bach
   - frédéric chopin
@@ -60,14 +60,13 @@
   - dry hands (c418)
   - the name of life (joe hisaishi)
   - the legend of zelda: ocarina of time title theme (koji kondo)
-  - yumeji’s theme (shigeru umebayashi)
+  - benevolence bequeathed (nahida & hoyo mix)
   - caresse sur l'océan (bruno coulais & les petits chanteurs de saint-marc)
   - one more time, one more chance (masayoshi yamazaki)
   - the brave (yoasobi)
   - one last kiss (hikaru utada)
   - internet overdose (aiobahn & kotoko & needy girl overdose)
   - burning desires (burnice & zzz studio & hoyo mix)
-  - kletka (molchat doma)
   - ymca (village people)
   - sky (beyond)
   - fu shi shan xia (eason chan)
@@ -75,6 +74,8 @@
   - love before bc (jay chou)
   - story of time (luo da you)
   - fleet of time (faye wong)
+  - kletka (molchat doma)
+  - yumeji’s theme (shigeru umebayashi)
 - - lucky star (2007)
   - in solitude where we are least alone (2010)
   - worldend: what do you do at the end of the world? are you busy? will you save us? (2017)
@@ -98,7 +99,6 @@
   - .the melancholy of haruhi suzumiya (2006)
   - .your lie in april (2014)
   - .a certain scientific railgun (2009)
-  - .the big bang theory (2007)
   - .frieren: beyond journey's end (2023)
   - .bang dream! it's mygo!!!!! (2023)
   - .bocchi the rock (2022)
@@ -111,6 +111,7 @@
   - .the truman show (1998)
   - .forrest gump (1994)
   - .roman holiday (1953)
+  - .the big bang theory (2007)
 - - honkai star rail (2023)
   - honkai impact third (2016)
   - houkai gakuen second (2014)
@@ -127,6 +128,9 @@
   - soul knight (2017)
   - canabalt hd (2009)
   - angry birds classic (2009)
+  - hollow knight (2017)
+  - celeste (2018)
+  - undertale (2015)
   - doki doki literature club! (2017)
   - senren banka (2016)
   - sabbat of the witch (2015)
@@ -261,20 +265,21 @@
   - awesome pixel art
 - - acheron
   - adventurine
+  - akira kogami
   - asta & herta & screwllum
   - bessie & farmer john
   - chtholly
   - clara
   - forever naive taffy
   - fu xuan
+  - fuli the remembrance
   - gallagher
   - kaedehara kazuha
   - kagami hiiragi & tsukasa hiiragi
   - kagura mea
   - kasugano sora
   - ke qing
-  - konata izumi
-  - minami iwasaki
+  - konata izumi & kanata izumi & sōjirō izumi
   - minato aqua
   - misha & mikhail the watchmaker
   - miyuki takara
@@ -290,7 +295,7 @@
   - silver wolf & kafka
   - sparkle
   - xing qiu
-- - adhesion tek & abstract meme
+- - adhesion tek & abstract internet meme
   - ahbei & douban founding
   - ahdark & cs student life
   - akt animation
@@ -304,6 +309,7 @@
   - cao yunfan djhs
   - caspar david friedric & art
   - change release mihoyo
+  - chen liangzhou pink rabbit codeforces & gi
   - chen shiyu djhs & chinese allusions & kawaii waifu
   - chen suiyi chenbimo & web dev
   - chen xiao origami
@@ -313,7 +319,7 @@
   - claude monet & art
   - cloudwu codingnow & dev
   - coding startup & web dev
-  - dai jiangqi & oi champion
+  - dai jiangqi codeforces & ioi imo champion
   - dan abramov overreacted & web dev
   - daughter's gamer mihoyo
   - di xuchen djhs
@@ -327,7 +333,6 @@
   - fabrice bellard & cpp
   - fireship & js framework
   - foreman ma madugong & bedtime news
-  - fu su & oi
   - geek bay geekerwan
   - gu sen matrix67 & localhost-8080
   - gui minghao djhs
@@ -338,19 +343,21 @@
   - interpreter gavin & mihoyo in english
   - james sinclair jrsinclair
   - jeff hawkins & palm founding & brain research
-  - jiang yanyan & oi & os dev
+  - jiang yanyan & oi teaching & os dev
   - jiang zhijun djhs & exam champion
-  - jiangly not dd & oi
-  - jin jinjin ldhs
+  - jiangly not dd codeforces
+  - jin jinjin ldhs & kind class master
   - jin luochen djhs
   - jin yudong krahets & algorithms guide
   - jjying iconmoon & design
   - justyyuk doctor lai & algorithms
   - kevin deng sanxiaozhizi & web dev
+  - key725 df & white hair and crimson eye
   - kirikaze chiyuki chyk & cs school life
   - kiun b & yakutsk life
   - kkksc03 & luogu founding
   - lex fridman & dev conversation
+  - li xinshuo djhs & otaku girl
   - linesoft
   - liu yuan djhs & interactive math
   - livid & v2ex founding
@@ -374,10 +381,9 @@
   - paperclip
   - paul graham paulg & y combinator hacker news founding
   - pea3nut peadar
-  - peng kunshuo orchidany & oi
+  - peng kunshuo orchidany flowerpks codeforces
   - physixfan
   - pieter levels levelsio & nomad list founding
-  - pink rabbit codeforces
   - promise of playboy sr
   - qingyu codeforces
   - richard bs
@@ -401,6 +407,7 @@
   - wanderer bs
   - wang xiaofeng djhs
   - wang zhaohai djhs & math whiteboard
+  - wen zhen djhs & dorm sarcasm
   - wes bos & web dev
   - with.fish lz233
   - xia chuyun djhs
@@ -414,11 +421,13 @@
   - yunling sapphire & peer tutor life
   - yunyoujun & web dev
   - zhang chuanzhi ldhs & chemistry quizzes
+  - zhang shuhao studyingfather codeforces & oi wiki
   - zhang xizhe djhs
   - zhao jinjiang jiongks & web dev
   - zhou ling djhs & kind class master life
   - zhou xuanyi & debate
   - zhou zhiyuan djhs & japan culture
+  - zhuo anyuan fusu codeforces
 - - dejavu serif
   - fira code
   - fira sans

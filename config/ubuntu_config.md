@@ -361,8 +361,8 @@ sudo apt install gnome-shell-extension-prefs
     - close file `ctrl w`
   - - format document or code `ctrl shift i`
     - preview markdown `ctrl shift v`
-    - view all symbols in current file `ctrl shift o`
-    - view symbols in opened files `ctrl t`
+    - view symbols in current file `ctrl shift o`
+    - view symbols in all files `ctrl t`
   - - run code `ctrl r`
     - stop running `ctrl c`
   - - skip to next word `ctrl left|right`
@@ -376,10 +376,10 @@ sudo apt install gnome-shell-extension-prefs
     - add cursor below `ctrl shift down`
     - add cursor anywhere `alt click`
     - reset cursor `esc`
-  - - duplicate selection `ctrl d`
+  - - *duplicate selection* `ctrl d`
     - move line up `alt up`
     - move line down `alt down`
-    - insert line below `shift enter`
+    - *insert line below* `shift enter`
   - - indent code `ctrl ]`
     - unindent code `ctrl [`
   - - fold code `ctrl shift [`

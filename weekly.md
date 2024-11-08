@@ -11,6 +11,72 @@
 - _make tools elegant_
 - _make knowledge pure_
 
+## 20241107
+
+> _foresight_
+
+- write voyagejs
+- think svelte examples
+- think chakra and sr
+- write pre app
+- design intuitive cpp foresight
+- design pure math foresight
+- watch lucky star
+- play df
+- learn math & english
+
+> _everyday_
+
+- visit digital homes (al sr)
+
+> _mind wandering_
+
+- pre app
+- leisure app
+- pure math contents
+- intuitive cpp contents
+- design system
+
+> _weekend endeavour_
+
+- write voyagejs
+- think svelte examples in voyage
+- think chakra components in sr
+- think slidev in pre
+- write pre app
+- design intuitive cpp vid
+- design pure math vid
+
+> _weekend diversion_
+
+- play sr
+- watch lucky star
+- watch evangelion
+- play senrenbanka
+
+> _weekend enlightenment_
+
+- read ruanyf weekly & classify with tags
+- make reflections markdown
+
+> _school_
+
+- read one hundred years of solitude
+- write english papers
+- write math challenger
+
+> _after school_
+
+- play df
+- memorize tem 8 vocabulary
+- read physics guide
+
+> _meanwhile_
+
+- sync phone
+- learn origami
+- listen to podcasts
+
 ## 20241101
 
 > _foresight_
@@ -362,7 +428,7 @@
 - read ruanyf weekly
 - classify ruanyf into tags
 - make reflections markdown
-- categorize yinming 
+- categorize yinming
 - listen to podcasts
 
 > _school_
@@ -413,7 +479,7 @@
 - read ruanyf weekly
 - classify ruanyf into tags
 - make reflections markdown
-- categorize yinming 
+- categorize yinming
 
 > _school_
 

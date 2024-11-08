@@ -467,6 +467,7 @@
   - mihoyo classroom
   - seat selection in vocational hs
   - fuxuan's divine perspective
+  - sr relic and time probability
   - math universe by herta(asta) & screwllum
   - dying voice after sports
 - practice
@@ -566,6 +567,22 @@
   - pr
   - prn
   - each
+- why cpp
+  - elegant tools compose humanity
+  - great programs compose the tools
+  - when people gaze into programming 
+  - they see algorithms
+  - *yawn*
+  - cpp has lowest learning curve in fast languages
+- theory
+  - given 
+  - steps (omitted by theory)
+  - conclusion 
+- foresight
+  - cpp syntax in 20 min (one lucky star episode)
+  - cpp syntax in 45 min (one football match)
+  - not beginner friendly
+  - to screen delicate learners
 - aeons
   - 命途
   - 轮回

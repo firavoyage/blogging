@@ -1,5 +1,5 @@
-//20241108
-//voyagejs 0.17
+//20241107
+//voyagejs 0.16
 
 let voyage = {
   info: {},
@@ -102,19 +102,17 @@ let voyage = {
     }
   },
   use(fn, ...param) {
-    if (fn) {
-      const { name } = fn;
+    const { name } = fn;
 
-      return {
-        [name]() {
-          return fn(...param);
-        },
-      }[name];
-    }
+    return {
+      [name]() {
+        return fn(...param);
+      },
+    }[name];
   },
-  sync(obj, key, observer) {
-    const { isnt, map, use } = voyage;
+  sync(obj, key, listener) {
     const { defineProperty } = Object;
+    const { isnt } = voyage;
 
     let reactive = Object(obj[key]);
     const agent = {
@@ -125,15 +123,11 @@ let voyage = {
         const oldValue = obj[key];
         if (isnt(oldValue, value)) {
           obj[key] = value;
-          observer(value, oldValue);
+          listener(value, oldValue);
         }
       },
     };
-
-    const aliases = ["v", "value"];
-    for (const alias of aliases) {
-      defineProperty(reactive, alias, agent);
-    }
+    defineProperty(reactive, "v", agent);
     return reactive;
   },
   has(obj, key) {
@@ -264,59 +258,60 @@ let voyage = {
 
     return node;
   },
+  createComponent(component, properties) {
+    const { init } = voyage;
+    const { count, counter } = voyage;
+    const { call } = voyage;
+    let { info } = voyage;
+    const componentid = count(counter, "component");
+    init(info, [componentid, { component, properties }]);
+    return call(componentid);
+  },
+  createNode(element) {
+    const { is, has, check } = voyage;
+    const { listen } = voyage;
+    const { create } = voyage;
+    const { macros } = voyage;
+
+    let { tag, labels, children } = element;
+
+    let node = document.createElement(tag);
+
+    for (const label in labels) {
+      const data = labels[label];
+      if (is(label[0], "@")) {
+        const macro = label.slice(1);
+        if (has(macros, macro)) {
+          const state = data;
+          macros[macro]({ node, state });
+        } else {
+          const event = macro;
+          const handler = data;
+          listen(node, event, handler);
+        }
+      } else {
+        node.setAttribute(label, data);
+      }
+    }
+
+    if (check(children, "string")) {
+      node.innerText = children;
+    } else {
+      for (const child of children) {
+        if (check(child, Array)) {
+          node.appendChild(create(...child));
+        } else {
+          node.appendChild(child);
+        }
+      }
+    }
+
+    return node;
+  },
   create(...options) {
     const { is, each, has, check, init } = voyage;
     const { reset, count, counter } = voyage;
-    const { createComponent, createNode } = {
-      createComponent(component, properties) {
-        const { count, counter } = voyage;
-        const { call } = voyage;
-        let { info } = voyage;
-        const componentid = count(counter, "component");
-        init(info, [componentid, { component, properties }]);
-        return call(componentid);
-      },
-      createNode(element) {
-        const { create } = voyage;
-        const { listen } = voyage;
-        const { macros } = voyage;
-
-        let { tag, labels, children } = element;
-
-        let node = document.createElement(tag);
-
-        for (const label in labels) {
-          const data = labels[label];
-          if (is(label[0], "@")) {
-            const macro = label.slice(1);
-            if (has(macros, macro)) {
-              const state = data;
-              macros[macro]({ node, state });
-            } else {
-              const event = macro;
-              const handler = data;
-              listen(node, event, handler);
-            }
-          } else {
-            node.setAttribute(label, data);
-          }
-        }
-
-        if (check(children, "string")) {
-          node.innerText = children;
-        } else {
-          for (const child of children) {
-            if (check(child, Array)) {
-              node.appendChild(create(...child));
-            } else {
-              node.appendChild(child);
-            }
-          }
-        }
-
-        return node;
-      },
-    };
+    const { createComponent, createNode } = voyage;
     const { assign: put } = Object;
 
     if (check(options[0], "function")) {
@@ -373,28 +368,27 @@ let voyage = {
     const { create } = voyage;
     return create(...options);
   },
+  getState(componentid, stateid) {
+    const { lacks } = voyage;
+    const { states } = voyage;
+    if (lacks(states, componentid)) {
+      return false;
+    } else if (lacks(states[componentid], stateid)) {
+      return false;
+    }
+    return states[componentid][stateid];
+  },
+  getStorage(key) {
+    const { lacks } = voyage;
+    const { storage } = voyage;
+    if (lacks(storage, key)) {
+      return false;
+    }
+    return storage[key];
+  },
   get(...options) {
     const { is } = voyage;
-    const { getState, getStorage } = {
-      getState(componentid, stateid) {
-        const { lacks } = voyage;
-        const { states } = voyage;
-        if (lacks(states, componentid)) {
-          return false;
-        } else if (lacks(states[componentid], stateid)) {
-          return false;
-        }
-        return states[componentid][stateid];
-      },
-      getStorage(key) {
-        const { lacks } = voyage;
-        const { storage } = voyage;
-        if (lacks(storage, key)) {
-          return false;
-        }
-        return storage[key];
-      },
-    };
+    const { getState, getStorage } = voyage;
     if (is(options.length, 1)) {
       return getStorage(...options);
     } else {
@@ -402,14 +396,23 @@ let voyage = {
     }
   },
   updateState(componentid, stateid) {
-    const { init } = voyage;
     const { updaters } = voyage;
+    const { init } = voyage;
     init(updaters, componentid, [stateid]);
     for (const updater of updaters[componentid][stateid]) {
       updater(componentid, stateid);
     }
   },
-  updateComponent(componentid) {
+  updateStorage(key) {
+    const { init } = voyage;
+    const { updaters } = voyage;
+    init(updaters, "storage", [key]);
+
+    for (const updater of updaters.storage[key]) {
+      updater();
+    }
+  },
+  update(componentid) {
     const { call } = voyage;
     const { select, replace } = voyage;
 
@@ -418,15 +421,15 @@ let voyage = {
     replace(node, updatedNode);
   },
   refState(initial) {
+    const { assign: put, keys, values } = Object;
     const { init, check, sync, use } = voyage;
     const { count } = voyage;
-    const { updateState } = voyage;
     let { info, states } = voyage;
+    const { updateState } = voyage;
 
     const { componentid } = info;
     let stateid;
     if (check(initial, "object")) {
-      const { keys, values } = Object;
       stateid = keys(initial)[0];
       initial = values(initial)[0];
     } else {
@@ -440,8 +443,6 @@ let voyage = {
       stateid,
       use(updateState, componentid, stateid)
     );
-
-    const { assign: put } = Object;
     put(reactive, { componentid, stateid });
     return reactive;
   },
@@ -459,6 +460,17 @@ let voyage = {
       return refState(options);
     }
   },
+  storeState(initial) {
+    const { refState, bind } = voyage;
+    const { update } = voyage;
+
+    const { info } = voyage;
+    const { componentid } = info;
+    const { stateid } = info[componentid];
+
+    bind(componentid, stateid, update);
+    return refState(initial);
+  },
   store(...options) {
     const { is } = voyage;
     if (is(options.length, 1)) {
@@ -466,19 +478,7 @@ let voyage = {
     }
 
     const { check, map } = voyage;
-    const { storeState } = {
-      storeState(initial) {
-        const { refState, bind } = voyage;
-        const { updateComponent } = voyage;
-
-        const { info } = voyage;
-        const { componentid } = info;
-        const { stateid } = info[componentid];
-
-        bind(componentid, stateid, updateComponent);
-        return refState(initial);
-      },
-    };
+    const { storeState } = voyage;
     if (check(options, Array)) {
       return map(options, storeState);
     } else {
@@ -486,18 +486,17 @@ let voyage = {
     }
   },
   keep(obj) {
-    const { is, map, sync, use } = voyage;
+    const { is, map } = voyage;
     const { keepStorage } = {
       keepStorage(key, value) {
-        const { updateState } = voyage;
+        const { assign: put } = Object;
+        const { sync, use } = voyage;
+        const { updateStorage } = voyage;
 
         let { storage } = voyage;
         storage[key] = value;
 
-        const { assign: put } = Object;
-        return put(sync(storage, key, use(updateState, "storage", key)), {
-          key,
-        });
+        return put(sync(storage, key, use(updateStorage, key)), { key });
       },
     };
 
@@ -518,16 +517,15 @@ let voyage = {
     macros[macro.name] = macro;
   },
   define() {},
+  runComponent(options) {
+    const { component, properties, parent } = options;
+    const { createComponent } = voyage;
+    const node = createComponent(component, properties);
+    parent.appendChild(node);
+  },
   run(...options) {
     const { check } = voyage;
-    const { runComponent } = {
-      runComponent(options) {
-        const { component, properties, parent } = options;
-        const { create } = voyage;
-        const node = create(component, properties);
-        parent.appendChild(node);
-      },
-    };
+    const { runComponent } = voyage;
     if (options.length > 1) {
       const [component, properties, parent] = options;
       options = { component, properties, parent };
@@ -652,26 +650,26 @@ voyage.run({
 // - sr component library for fun
 //
 // @todo
-// give use some super power
-// - use() -> sha256 hash of placeholder
-// - use(...) -> indexof indexof [1,4]
-// - fn(...options){} -> replace corresponding param with options
+// count revise
+// - count -> lack -> reset
 // private function
-// - checkType which only appears in check function is private
-// - make more functions like checkType private
+// - checkType is private in check function
+// bind revise
+// - change bind behavior
+// - combine bindState (componentid,stateid) and bindStorage ("storage",key)
+// map revise
+// - map for object
+// init poly
+// - init(a,b)
+// - init(a,b,c)
+// - init(a,b,[c],d) c is array
+// - init(a,b,[c,cvalue],d) c is cvalue
+// - init(a,b,{c:cvalue},d) c is cvalue
+// fix use
+// - bug fix
 // create poly redo
-// - create(string tag,obj labels,string text)
 // - create(string tag,obj labels,array child,array child)
-// - create(string tag,obj labels,[array child,array child]) -> one more div wrap children
-// - create([string tag,obj labels,array child,array child]) -> one more div wrap all
-// better updater
-// - give updater value and oldvalue
-// support flat param
-// - ref(a,b,c)
-// - ref([a,b,c]) (works the same)
-// create labels obj
-// - class
-// - style
+// - create([string tag,obj labels,array child,array child]) -> one more div wrap
 // select while create
 // - attribute $0 $1 $2
 // - input = select("$0")
@@ -679,9 +677,9 @@ voyage.run({
 // - input.focus()
 // - component = select("$xyz")
 // - component.state key (proxy or obj def prop)
-// - select(number) for component node
-// - select(string) for node or component node
-// - get(string) for component obj
+// - nav = select(parent,location [0,1,0,2])
+// - select(number) for component
+// - select(string) for node or reactive component
 // dom method macros
 // - steal from jquery
 // - learn from common use case
@@ -690,7 +688,6 @@ voyage.run({
 // revise
 // - param (a,b) ({a,b}) (...ab)
 // - function poly
-// - separate public and private function
 // - clearer method name
 // - less typing
 // xhr

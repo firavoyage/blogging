@@ -872,11 +872,11 @@ poetry and dreamland
 
 ## livid
 
-(某期podcast)
+(某期 podcast)
 
 "来到美国后,你...?"
 
-"我现在ping一下google..."
+"我现在 ping 一下 google..."
 
 "3ms."
 
@@ -921,3 +921,7 @@ retro...
 (只)做有意思的事情.
 
 根本不会抑郁.
+
+## seele bronya
+
+The Iron Flower and the Butterfly of the Storm
