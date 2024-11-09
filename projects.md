@@ -504,7 +504,9 @@
   - few things given in neither the answer nor the key points are important.
   - you don't make a plan, schedule, or timetable.
   - and you decide what you'd love to master, not just to achieve.
-  - things are either made simple or removed from the contents.
+  - you dont care utilitarianism such as what university you adopt
+  - you care the time you would spend and things could be simple
+  - like a boy collecting beautiful shells on beach
 - pleasure
   - what's the fun of single machine rpgs
   - kill the game with ease

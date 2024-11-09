@@ -17,13 +17,13 @@
 
 - write voyagejs
 - think svelte examples
-- think chakra and sr
+- think chakra & sr
 - write pre app
-- design intuitive cpp foresight
-- design pure math foresight
+- design pure & intuitive foresight
 - watch lucky star
 - play df
 - learn math & english
+- sync phone
 
 > _everyday_
 
@@ -76,6 +76,7 @@
 - sync phone
 - learn origami
 - listen to podcasts
+- watch simplelive
 
 ## 20241101
 

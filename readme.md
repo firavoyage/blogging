@@ -40,12 +40,13 @@
   - calendar & wall clock
   - reading & waifu pillow
   - gardening & origami
-  - reflections & remembrance
-  - dissociation & second person omniscient narration
-  - prudence & scepticism
   - math & algorithms
   - functional programming & vanilla js
   - dark style & night light & low brightness
+  - remembrance & finality
+  - daydreaming & mind wandering
+  - observation & reflection
+  - dissociation & second person omniscient narration
 - - hotel california (eagles)
   - wind of change (scorpions)
   - scarborough fair (sarah brightman)
@@ -65,9 +66,9 @@
   - one more time, one more chance (masayoshi yamazaki)
   - the brave (yoasobi)
   - one last kiss (hikaru utada)
+  - ymca (village people)
   - internet overdose (aiobahn & kotoko & needy girl overdose)
   - burning desires (burnice & zzz studio & hoyo mix)
-  - ymca (village people)
   - sky (beyond)
   - fu shi shan xia (eason chan)
   - counter-clockwise clock (jay chou)
@@ -115,15 +116,14 @@
 - - honkai star rail (2023)
   - honkai impact third (2016)
   - houkai gakuen second (2014)
+  - azur lane (2017)
   - brawl stars (2017)
   - clash royale (2016)
   - delta force (2024)
   - pubg mobile (2018)
-  - azur lane (2017)
-  - blue archive (2021)
   - genshin impact (2020)
-  - terraria (2011)
   - minecraft (2011)
+  - terraria (2011)
   - kingdom rush (2011)
   - soul knight (2017)
   - canabalt hd (2009)
@@ -171,6 +171,7 @@
   - clean code (robert c. martin)
   - goalkicker (stack overflow documentation)
   - hello algo (krahets)
+  - integer overflow: the development, prosperity and decline of olympics in informatics (xu xiling)
   - competitive programmers' handbook (antti laaksonen)
   - oi wiki (oi wiki community)
   - how to ask questions the smart way (eric steven raymond)
@@ -185,7 +186,6 @@
   - what i have seen (chai jing)
   - the chameleon (anton chekhov)
   - rashomon (ryunosuke akutagawa)
-  - i wandered lonely as a cloud (william wordsworth)
   - .meditations on life (zhou guoping)
   - .godel, escher, bach (douglas hofstadter)
   - .shakespeare's sonnets (william shakespeare)
@@ -237,6 +237,7 @@
   - codepen spark
   - reddit old
   - genius
+  - poetry foundation
   - nga bbs
   - zhihu
   - v2ex creative
@@ -244,7 +245,7 @@
   - codeforces
   - libre oj
   - vijos
-  - luogu
+  - luogu blog
   - travellings
   - foreverblog
   - csdiy
@@ -314,6 +315,7 @@
   - chen suiyi chenbimo & web dev
   - chen xiao origami
   - chen zhiwei ldhs djhs
+  - chen zhiwei ldhs djhs & football clubmate
   - chen zihao
   - chino moca qiront
   - claude monet & art
@@ -337,6 +339,7 @@
   - gu sen matrix67 & localhost-8080
   - gui minghao djhs
   - hakim el hattab & web dev & design
+  - hu jiaying ldhs & sports girl
   - hu qianling djhs & tart english teacher life
   - huang zhizhong & debate
   - hui xinyu djhs & exam champion
@@ -347,7 +350,7 @@
   - jiang zhijun djhs & exam champion
   - jiangly not dd codeforces
   - jin jinjin ldhs & kind class master
-  - jin luochen djhs
+  - jin luochen djhs & primary schooler
   - jin yudong krahets & algorithms guide
   - jjying iconmoon & design
   - justyyuk doctor lai & algorithms
@@ -364,10 +367,12 @@
   - longbow flintlock
   - lu jianhong djhs & english culture
   - lv fuyuan djhs
+  - lv yirong ldhs qbhs & exam champion
   - magicalflower codeforces
   - math contest fei bro
   - memoir of prosperity sr
-  - mike mirzayanov & codeforces
+  - menci & oier db founding
+  - mike mirzayanov & codeforces founding
   - mohamad light cr
   - mr marmot & art institute & wojaks
   - mr yu ceo & physics
@@ -386,6 +391,7 @@
   - pieter levels levelsio & nomad list founding
   - promise of playboy sr
   - qingyu codeforces
+  - ren baoshuo fzu & oi
   - richard bs
   - right that asd mihoyo
   - rodrigo pombo pombus
@@ -406,28 +412,32 @@
   - upright flies mihoyo
   - wanderer bs
   - wang xiaofeng djhs
+  - wang yining fira & dev
   - wang zhaohai djhs & math whiteboard
   - wen zhen djhs & dorm sarcasm
   - wes bos & web dev
   - with.fish lz233
   - xia chuyun djhs
+  - xie haotong ldhs & math champion
+  - xu haohuan ldhs & cute silly boy
   - yan xuecan acwing
   - yang beilei djhs & intuitive geography
   - yang yang djhs & breezy physics
   - yao qixuan djhs
   - yin ming kalasoo & juejin founding
+  - yu weilun ldhs & cute gifted boy
   - yue fukang djhs
   - yuluer
   - yunling sapphire & peer tutor life
   - yunyoujun & web dev
   - zhang chuanzhi ldhs & chemistry quizzes
-  - zhang shuhao studyingfather codeforces & oi wiki
+  - zhang shuhao studyingfather & oi wiki writing
   - zhang xizhe djhs
   - zhao jinjiang jiongks & web dev
   - zhou ling djhs & kind class master life
   - zhou xuanyi & debate
   - zhou zhiyuan djhs & japan culture
-  - zhuo anyuan fusu codeforces
+  - zhuo anyuan fusu & oi
 - - dejavu serif
   - fira code
   - fira sans
@@ -455,7 +465,7 @@
   - atom one dark
   - chromium just black
 - - ubuntu yaru
-  - google books classic
+  - google reader
   - material design 2
   - material design 3
   - chakra ui
@@ -470,20 +480,22 @@
   - firefox 124.0.2
   - code 1.91.2
   - git 2.43
+  - solanum 5.0.0
+  - wakatime 24.7.2
   - fcitx 5.1.7
   - v2raya 2.2.5.1
   - wine 9.0
   - zsh 5.9
+  - mistral-large 2
   - g++ 13.2.0
   - python 3.12.3
   - node 18.19.1
+  - npm 9.2.0
   - marked 14.1.2
   - wenyan 0.3.4
-  - npm 9.2.0
   - eslint 6.4.0
   - prettier 9.2.0
   - terser 5.19.2
-  - mistral-large 2
   - javascript-code-snippets 1.8.0
   - javascript-snippets 0.4.0
   - apt 2.7.14
@@ -509,7 +521,6 @@
   - gnome-eyedropper 2.0.1
   - gnome-nautilus 46.2
   - gnome-newsflash 3.3.5
-  - gnome-solanum 5.0.0
   - gnome-system-monitor 46.0
   - gnome-tuba 0.8.4
   - gnome-weather 44.0
@@ -569,7 +580,7 @@
 - tell me, and i will forget
   - show me, and i may remember
   - involve me, and i will understand
-- idle mode... *yawn* how boring.
+- idle mode... _yawn_ how boring.
   - if you're not solving problems or writing up contributions
   - then don't blame me if your life is boring
 - konata is a mischievous, sarcastic and eccentric
@@ -592,6 +603,17 @@
   - there is a lucky star behind the darkness
   - waiting and shining with the freshest hope and warmest aura
   - some day. till then
+- for oft, when on my couch i lie
+  - in vacant or in pensive mood
+  - they flash upon that inward eye
+  - which is the bliss of solitude
+  - and then my heart with pleasure fills
+  - and dances with the daffodils
+- i shall be telling this with a sigh
+  - somewhere ages and ages hence
+  - two roads diverged in a wood, and i—
+  - i took the one less traveled by
+  - and that has made all the difference
 - if i make, like, three good decisions a day, that's enough
   - and they should be as high quality as i can make them
   - warren buffett says he's good if he makes three good decisions a year
@@ -608,8 +630,9 @@
 - memento mori.
   - sleep is the best pleasure
   - character is destiny
-  - what's the difference between truth and reality
+- with a flash of insight i realized what the dream meant.
 - 遂迷不复得路
+- 从流飘荡任意东西
 - 念念不忘必有回响
 - 庄生晓梦迷蝴蝶
 - 且放白鹿青崖间
@@ -620,7 +643,7 @@
 - 他日江湖相逢
 - 命里有时终须有
 - 壁上小虫忽跃落衿袖间
-- 木已成舟
+- 鸢飞戾天者望峰息心
 - 池鱼思故渊
 - 锦瑟无端五十弦
 - 春风若有怜花意
@@ -635,12 +658,11 @@
 - 他乡遇故知
 - 寓形宇内复几时
 - 光阴者百代之过客
-- 鸢飞戾天者望峰息心
+- 怅然若失
 - 以神遇而不以目视
 - 以我观物故物皆着我之色彩
 - 民为贵社稷次之
 - 待到秋来九月八
-- 怅然若失
 
 ## erudition
 
@@ -696,6 +718,7 @@
   - gitee mirror `firavoyage`
 - - mastodon `firavoyage@mastodon.social` `fira@techhub.social`
   - twitter `firascript`
+  - wakatime `firavoyage`
 - - blogger `firavoyage`
   - cnblogs `fira`
   - wordpress `_`

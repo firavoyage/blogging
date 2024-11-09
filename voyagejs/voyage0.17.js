@@ -1,5 +1,5 @@
-//20241109
-//voyagejs 0.18
+//20241108
+//voyagejs 0.17
 
 let voyage = {
   info: {},
@@ -679,6 +679,13 @@ voyage.run({
 // - sr component library for fun
 //
 // @todo
+// give use some super power
+// - use() -> sha256 hash of placeholder
+// - use(...) -> indexof indexof [1,4]
+// - fn(...options){} -> replace corresponding param with options
+// private function
+// - checkType which only appears in check function is private
+// - make more functions like checkType private
 // create poly redo
 // - create(string tag,obj labels,string text)
 // - create(string tag,obj labels,array child,array child)

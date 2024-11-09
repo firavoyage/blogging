@@ -49,7 +49,7 @@
 - g1t2
   - feb
     - fira `260.5 a+#12 75 b+ 92 a 93.5 a`
-    - lin `#6`
+    - lin zhe `a+#6`
   - mar
     - fira `289 a+#3 86 a+ 98 a+ 105 a+`
     - jiang zhijun `296 a+#1 88 105 103`
@@ -95,7 +95,7 @@
 - chinese `121`
   - writing 会心之乐
 - math `145`
-  - some confusing bad problems killed my classmates
+  - some confusing badly given problems killed my classmates
   - 23 24(3) skipped at first and done at the end of the day
   - 25(3) worth 5 points. $1:2$ but i guessed $\frac{\sqrt{5}-1}{2}$
 - english `136`

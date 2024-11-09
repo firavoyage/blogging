@@ -7740,7 +7740,7 @@ and my classmates learned online while i didnt love watching live courses
 
 i just played and played and stayed up late and always giving up sleep.
 
-anyway, earthly escapade! 
+anyway, earthly escapade!
 
 my mission is just to threat life merely as playing game.
 
@@ -7805,7 +7805,7 @@ refreshed.
 playing sr.
 
 - daily assignment
-- weekly div universe 
+- weekly div universe
 - sampo activity
 
 and account got logged out.
@@ -7865,9 +7865,9 @@ playing sr.
 
 蛙趣,星穹咋变少了!
 
-查了抽卡记录,11.03抽了好多发.
+查了抽卡记录,11.03 抽了好多发.
 
-好像是40发吧,限定角色池,没出货.
+好像是 40 发吧,限定角色池,没出货.
 
 大概是那个"大连"抽的.
 
@@ -7904,7 +7904,7 @@ revised check function qwq...
 
 `dev`
 
-succeeded! 
+succeeded!
 
 happy.
 
@@ -7914,7 +7914,7 @@ happy.
 
 played df.
 
-打了一整晚df.
+打了一整晚 df.
 
 太点背了.
 
@@ -7934,11 +7934,11 @@ played df.
 
 最后终于撤离了,不过也就一点四级装备.
 
-那个打架的,赚了70万.
+那个打架的,赚了 70 万.
 
-我捡了点东西,赚了50万.
+我捡了点东西,赚了 50 万.
 
-加了3000经验,终于解锁巴克什了.
+加了 3000 经验,终于解锁巴克什了.
 
 **以后就打巴克什和普通大坝跑刀了.**
 
@@ -7970,11 +7970,11 @@ playing df.
 
 挺爽的.什么都不怕.到处乱跑.死了也无所谓.
 
-看白毛红瞳(key725)直播,绝密航天一把大概3,000,000吧.
+看白毛红瞳(key725)直播,绝密航天一把大概 3,000,000 吧.
 
 普通大坝一把是十分之一,但是没有压力.
 
-怀念当初打pubg mobile metro royale...
+怀念当初打 pubg mobile metro royale...
 
 有喷子,有双榴弹,有改妹,有手雷.啥装备都能猛攻.
 
@@ -8004,8 +8004,170 @@ anime con! (lost of words)
 - play df
 - watch lucky star.
 
-今天就不写voyagejs了.
+今天就不写 voyagejs 了.
 
-emm好像已经写了许多了...qwq
+emm 好像已经写了许多了...qwq
 
-不过不release了,在未来发布太唐了...
+不过不 release 了,在未来发布太唐了...
+
+## 20241108
+
+9:30
+
+秋游.欢乐谷.
+
+高中校园社交.
+
+自由活动,三五成群.
+
+朴素.
+
+14:20
+
+集合,回家.
+
+17:xx
+
+`weather` `important`
+
+到家.观察装修.
+
+白墙,白漆,白橱柜.好奇怪.好不舒适.
+
+门上还有磁铁,阻尼和边框海绵.
+
+感觉不如大学宿舍,就塑料桌子和钢铁床架.
+
+但是有生活气息,像是抱枕,挂画,零食,桌搭.
+
+全是人类的活动环境,而不是机器打制出来的.
+
+22:09
+
+观察白毛红瞳(key725)的网站.
+
+kkrb725.com
+
+似乎很好用,但是最高利润好低.
+
+六位数,差不多一把普通大坝跑刀的钱.
+
+## 20241109
+
+00:39
+
+逛 luogu blog...
+
+机缘巧合点进去 zhihu...
+
+"那些因竞赛而停课的选手，竞赛失利后是如何回归高中课堂的？"
+
+`weather` `school` `ref`
+
+回想自己失败的 djhs 生涯...
+
+高一上,最初的,最终的年一.
+
+高一下,蒋之骏拿了四次年一.我一直擦边 a+.
+
+高二上,现在期中了,三门如常,其他没学.出了一些分,全出会填上去的.
+
+00:41
+
+周末了,
+
+- sync phone (remove most)
+- watch lucky star
+- write voyagejs
+- play df
+
+对了,下周学工,挺清闲.
+
+`weather` `school` `desire` `ref` `important`
+
+不知道什么时候开启 pure 或者 intuitive proj
+
+没有网路人类的感情,我真的活不下去.
+
+我想要很多网路人类叫我"大哥"或者"少爷"...
+
+学校里乐我的,使我乐的,好多都是风流的少年(春衫薄),将来的鼠民...
+
+网路生命里,好多好多 gifted ones 啊...(or divine selected ones)
+
+qwq...
+
+`school` `love`
+
+李昕朔好可爱...
+
+添加到 readme 了.作为可爱的女孩子.很可能又是琐碎.
+
+(琐碎:5 年后会忘记的事)
+
+01:21
+
+`dev`
+
+mistral large 2 new design!
+
+chat.mistral.ai
+
+朴素的界面更新.
+
+01:59
+
+逛知乎...
+
+姜萍事件结束?
+
+f 当时认为是"善意的谎言".
+
+f 现在亦然.
+
+02:35
+
+`dev` `important`
+
+installed wakatime.
+
+sleep.
+
+02:54
+
+`dev`
+
+writing voyagejs
+
+- gave use superpower
+
+03:04
+
+`dev`
+
+writing voyagejs
+
+- gave use superpower
+- moved some superpower to match
+
+play df, watch df simplelive
+
+sleep.
+
+12:xx
+
+awake.
+
+`weather`
+
+lost in thoughts...
+
+13:46
+
+get up.
+
+去窗台看,djhs的草坪上有机器运行.
+
+`writing` `concept`
+
+update wisdom.
