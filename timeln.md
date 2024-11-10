@@ -8417,3 +8417,14 @@ cleared history and done.
 
 writing voyagejs. (details in code)
 
+## 20241111
+
+01:02
+
+`dev`
+
+writing voyagejs.
+
+released new version. (details in code.)
+
+**a great revision.**

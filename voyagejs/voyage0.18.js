@@ -1,5 +1,5 @@
-//20241111
-//voyagejs 0.19
+//20241109
+//voyagejs 0.18
 
 let voyage = {
   info: {},
@@ -621,7 +621,7 @@ let examples = {
     );
     return node;
   },
-  hello({msg}) {
+  hello({ msg }) {
     const { c } = voyage;
     return c("p", msg);
   },
@@ -645,6 +645,30 @@ voyage.run({
 // - sr component library for fun
 //
 // @todo
+// fix bug in init
+// - init(obj,1,1)
+// - differs from init(obj,"1",1)
+// - type mistake. obj key could be number (auto convert)
+// fix bug in welcome to hotel california
+// - properties should be object
+// remove stupid listen function
+// - replace with add event listener
+// give init some more superpowers
+// - init(a,{b:c,d:e})
+// - remove init(a,[b,c])
+// create poly redo
+// - create(string tag,obj labels,string text)
+// - create(string tag,obj labels,array child,array child)
+// - create(string tag,obj labels,[array child,array child]) -> one more div wrap children
+// - create([string tag,obj labels,array child,array child]) -> one more div wrap all
+// create avoid sof
+// - use dfs array
+// create labels obj
+// - class
+// - style
+// flatten examples
+// - before: counter [tag,labels,children]
+// - after: counter [tag,labels,child,child,child]
 // better updater
 // - give updater value and oldvalue
 // support flat param
