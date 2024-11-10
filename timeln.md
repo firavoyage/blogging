@@ -8397,3 +8397,23 @@ writing voyagejs...
 sync phone. simplelive autoplaying.
 
 "加持良治ovo:我这一下午就死了一把,想死兄弟们,能不能狙击我啊,有人给主播上强度吗"
+
+22:xx
+
+sync phone.
+
+remote: Repo size: 1059.934MB, exceeds quota 1024MB
+remote: You only have 3 push opportunities
+remote: HelpLink:      https://gitee.com/help/articles/4232
+remote: Repository GC: https://gitee.com/firavoyage/memories/settings#git-gc
+To https://gitee.com/firavoyage/memories.git
+   48527cb..17f6463  master -> master
+
+cleared history and done.
+
+23:20
+
+`dev`
+
+writing voyagejs. (details in code)
+

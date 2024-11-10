@@ -178,7 +178,7 @@ let voyage = {
     return !has(obj, key);
   },
   init(obj, ...path) {
-    const { is, check } = voyage;
+    const { check } = voyage;
     const { initKey } = {
       initKey(obj, key, initial) {
         const { lacks } = voyage;
@@ -189,17 +189,16 @@ let voyage = {
     };
     let current = obj;
     for (const key of path) {
-      if (check(key, Array)) {
-        if (is(key.length, 1)) {
-          initKey(current, key[0], []);
-        } else {
-          initKey(current, key[0], key[1]);
-        }
-      } else if (check(key, "object")) {
-        const { keys, values } = Object;
-        initKey(current, keys(key)[0], values(key)[0]);
-      } else {
+      if (check(key, "string")) {
         initKey(current, key, {});
+      } else if (check(key, Array)) {
+        initKey(current, key[0], []);
+      } else {
+        //check key object
+        for (const item in key) {
+          initKey(current, item, key[item]);
+        }
+        continue;
       }
       current = current[key];
     }
@@ -210,7 +209,6 @@ let voyage = {
   },
   count(counter, key) {
     const { init } = voyage;
-    init(counter, [key, 0]);
     const current = counter[key];
     counter[key]++;
     return current;
@@ -278,11 +276,11 @@ let voyage = {
     }
   },
   call(componentid) {
-    const { assign: put } = Object;
+    const { assign: give } = Object;
     const { reset } = voyage;
     let { info } = voyage;
 
-    put(info, { componentid });
+    give(info, { componentid });
     reset(info[componentid], "stateid");
 
     const { component, properties } = info[componentid];
@@ -292,11 +290,66 @@ let voyage = {
     return node;
   },
   create(...options) {
-    const { check } = voyage;
+    const { is, check, has, lacks, init } = voyage;
+    const { assign: give } = Object;
 
-    let element = [],
+    const { macros } = voyage;
+
+    let elements = [],
       nodes = [];
-    
+
+    let current = 0;
+    elements[0] = options;
+
+    while (true) {
+      if (is(current, elements.length)) {
+        break;
+      }
+      let element = elements[current];
+      for (const item of element.options) {
+        if (check(item, "function")) {
+          element.component = item;
+        } else if (check(item, "string")) {
+          if (lacks(element, "tag")) {
+            element.tag = item;
+          } else {
+            element.text = item;
+          }
+        } else if (check(item, Array)) {
+          let childElement = { options: item, parent: current };
+          elements.push(childElement);
+        } else {
+          //check item object
+          element.labels = item;
+        }
+      }
+      current++;
+    }
+
+    for (const elementIndex in elements) {
+      const element = elements[elementIndex];
+      init(element, { tag: "div", labels: {} });
+
+      let node = document.createElement(element.tag);
+      for (const labelName in labels) {
+        const label = labals[labelName];
+        if (is(labelName, "class") && check(label, Array)) {
+          for (const className of label) {
+            node.classList.add(className);
+          }
+        } else if (is(labelName, "style") && check(label, "object")) {
+          give(node.style, label);
+        } else if (is(labelName[0], "@")) {
+          const event = labelName.slice(1);
+
+          if (has(macros, event)) {
+            const { event: macro } = macros;
+            
+          }
+          node.addEventListener(event, label);
+        }
+      }
+    }
   },
   c(...options) {
     const { create } = voyage;
@@ -362,7 +415,7 @@ let voyage = {
       stateid = count(info[componentid], "stateid");
     }
 
-    init(states, componentid, [stateid, initial]);
+    init(states, componentid, { [stateid]: initial });
 
     let reactive = sync(
       states[componentid],
@@ -370,8 +423,8 @@ let voyage = {
       use(updateState, componentid, stateid)
     );
 
-    const { assign: put } = Object;
-    put(reactive, { componentid, stateid });
+    const { assign: give } = Object;
+    give(reactive, { componentid, stateid });
     return reactive;
   },
   ref(...options) {
@@ -423,8 +476,8 @@ let voyage = {
         let { storage } = voyage;
         storage[key] = value;
 
-        const { assign: put } = Object;
-        return put(sync(storage, key, use(updateState, "storage", key)), {
+        const { assign: give } = Object;
+        return give(sync(storage, key, use(updateState, "storage", key)), {
           key,
         });
       },
@@ -581,6 +634,11 @@ voyage.run({
 // - sr component library for fun
 //
 // @todo
+// remove init in count
+// - counter must be reseted manually
+// give init some more superpowers
+// - init(a,{b:c,d:e})
+// - remove init(a,[b,c])
 // create poly redo
 // - create(string tag,obj labels,string text)
 // - create(string tag,obj labels,array child,array child)
