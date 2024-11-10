@@ -4,7 +4,7 @@
 
 > $welcome \space to \space hotel \space california$
 
-> $lucky \space \text{☆} \space star !$
+> $lucky \space \text{☆} \space star!$
 
 > 🍅 ⏲️ $solanum$
 
@@ -67,13 +67,15 @@
   - the brave (yoasobi)
   - one last kiss (hikaru utada)
   - ymca (village people)
+  - never gonna give you up (rick astley)
   - internet overdose (aiobahn & kotoko & needy girl overdose)
   - burning desires (burnice & zzz studio & hoyo mix)
   - sky (beyond)
+  - thou away from oi (menci & wxh010910 & yanqval & krydom & nirobc & werkeytom_ftd & __stdcall & created_equal & whzzt & wy1627)
+  - story of time (luo da you)
   - fu shi shan xia (eason chan)
   - counter-clockwise clock (jay chou)
   - love before bc (jay chou)
-  - story of time (luo da you)
   - fleet of time (faye wong)
   - kletka (molchat doma)
   - yumeji’s theme (shigeru umebayashi)
@@ -171,12 +173,12 @@
   - clean code (robert c. martin)
   - goalkicker (stack overflow documentation)
   - hello algo (krahets)
-  - integer overflow: the development, prosperity and decline of olympics in informatics (xu xiling)
   - competitive programmers' handbook (antti laaksonen)
   - oi wiki (oi wiki community)
+  - integer overflow: the development, prosperity and decline of olympics in informatics (xu xiling)
+  - an introduction to programming in wenyan language (huang lingdong)
   - how to ask questions the smart way (eric steven raymond)
   - federal plain language guidelines (united states government)
-  - an introduction to programming in wenyan language (huang lingdong)
   - cut the knot: probability riddles (alexander bogomolny)
   - mathematics, no 2 secondary school attached to east china normal university (math group)
   - physics, no 2 secondary school attached to east china normal university (physics group)
@@ -245,6 +247,8 @@
   - codeforces
   - libre oj
   - vijos
+  - xjoi
+  - acwing
   - luogu blog
   - travellings
   - foreverblog
@@ -299,7 +303,7 @@
 - - adhesion tek & abstract internet meme
   - ahbei & douban founding
   - ahdark & cs student life
-  - akt animation
+  - akt animation mihoyo
   - andrew yang & humanity future
   - anthony fu antfu & web dev
   - arseniy chebynkin arsenixc & art
@@ -321,7 +325,7 @@
   - claude monet & art
   - cloudwu codingnow & dev
   - coding startup & web dev
-  - dai jiangqi codeforces & ioi imo champion
+  - dai jiangqi codeforces & oi math champion
   - dan abramov overreacted & web dev
   - daughter's gamer mihoyo
   - di xuchen djhs
@@ -336,6 +340,7 @@
   - fireship & js framework
   - foreman ma madugong & bedtime news
   - geek bay geekerwan
+  - gennady vladimirovich korotkevich tourist codeforces & oi champion
   - gu sen matrix67 & localhost-8080
   - gui minghao djhs
   - hakim el hattab & web dev & design
@@ -343,12 +348,12 @@
   - hu qianling djhs & tart english teacher life
   - huang zhizhong & debate
   - hui xinyu djhs & exam champion
-  - interpreter gavin & mihoyo in english
+  - interpreter gavin & gi english
   - james sinclair jrsinclair
   - jeff hawkins & palm founding & brain research
   - jiang yanyan & oi teaching & os dev
   - jiang zhijun djhs & exam champion
-  - jiangly not dd codeforces
+  - jiangly not dd codeforces & oi champion
   - jin jinjin ldhs & kind class master
   - jin luochen djhs & primary schooler
   - jin yudong krahets & algorithms guide
@@ -371,7 +376,7 @@
   - magicalflower codeforces
   - math contest fei bro
   - memoir of prosperity sr
-  - menci & oier db founding
+  - menci & oi wiki writing & libre oj founding 
   - mike mirzayanov & codeforces founding
   - mohamad light cr
   - mr marmot & art institute & wojaks
@@ -391,7 +396,7 @@
   - pieter levels levelsio & nomad list founding
   - promise of playboy sr
   - qingyu codeforces
-  - ren baoshuo fzu & oi
+  - ren baoshuo fzu & oier db founding
   - richard bs
   - right that asd mihoyo
   - rodrigo pombo pombus
@@ -406,7 +411,6 @@
   - tamicake1479 cr
   - tim qian & indie dev
   - timochan
-  - tourist codeforces & rating champion
   - trent walton & design
   - unfettered idle man
   - upright flies mihoyo
@@ -418,8 +422,9 @@
   - wes bos & web dev
   - with.fish lz233
   - xia chuyun djhs
-  - xie haotong ldhs & math champion
+  - xie haotong ldhs & gifted math
   - xu haohuan ldhs & cute silly boy
+  - xu xiling Tangenter & oi & integer overflow writing
   - yan xuecan acwing
   - yang beilei djhs & intuitive geography
   - yang yang djhs & breezy physics
@@ -427,13 +432,14 @@
   - yin ming kalasoo & juejin founding
   - yu weilun ldhs & cute gifted boy
   - yue fukang djhs
-  - yuluer
+  - yuluer mihoyo
   - yunling sapphire & peer tutor life
   - yunyoujun & web dev
   - zhang chuanzhi ldhs & chemistry quizzes
   - zhang shuhao studyingfather & oi wiki writing
   - zhang xizhe djhs
   - zhao jinjiang jiongks & web dev
+  - zhong fangyuan zhfany & oi
   - zhou ling djhs & kind class master life
   - zhou xuanyi & debate
   - zhou zhiyuan djhs & japan culture
@@ -466,6 +472,7 @@
   - chromium just black
 - - ubuntu yaru
   - google reader
+  - google books classic
   - material design 2
   - material design 3
   - chakra ui
@@ -611,9 +618,17 @@
   - and dances with the daffodils
 - i shall be telling this with a sigh
   - somewhere ages and ages hence
-  - two roads diverged in a wood, and i—
+  - two roads diverged in a wood, and i
   - i took the one less traveled by
   - and that has made all the difference
+- many years later as he faced the firing squad
+  - colonel aureliano buendía was to remember that distant afternoon 
+  - when his father took him to discover ice
+  - at that time macondo was a village of twenty adobe houses
+  - built on the bank of a river of clear water that ran along a bed of polished stones
+  - which were white and enormous, like prehistoric eggs
+  - the world was so recent that many things lacked names
+  - and in order to indicate them it was necessary to point 
 - if i make, like, three good decisions a day, that's enough
   - and they should be as high quality as i can make them
   - warren buffett says he's good if he makes three good decisions a year
@@ -658,6 +673,7 @@
 - 他乡遇故知
 - 寓形宇内复几时
 - 光阴者百代之过客
+- 夕阳忽西流
 - 怅然若失
 - 以神遇而不以目视
 - 以我观物故物皆着我之色彩
@@ -715,10 +731,9 @@
 ## shadows
 
 - - github `firavoyage`
-  - gitee mirror `firavoyage`
+  - wakatime `firavoyage`
 - - mastodon `firavoyage@mastodon.social` `fira@techhub.social`
   - twitter `firascript`
-  - wakatime `firavoyage`
 - - blogger `firavoyage`
   - cnblogs `fira`
   - wordpress `_`
@@ -738,6 +753,8 @@
 
 > $good \space luck \space and \space have \space fun$
 
+> $beautifully \space advance$
+
 - _reminiscent youth_ good old days...
 - _anime otaku_ unworldly girls...
 - _digital hoarder_ memories forever...
@@ -748,3 +765,5 @@
 > 以上, 祝你度过智识的, 审美的一天
 
 > $so \space much \space for \space this, \space have \space a \space nice \space day.$
+
+

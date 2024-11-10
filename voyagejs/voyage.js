@@ -292,109 +292,11 @@ let voyage = {
     return node;
   },
   create(...options) {
-    const { is, each, has, check, init } = voyage;
-    const { reset, count, counter } = voyage;
-    const { createComponent, createNode } = {
-      createComponent(component, properties) {
-        const { count, counter } = voyage;
-        const { call } = voyage;
-        let { info } = voyage;
-        const componentid = count(counter, "component");
-        init(info, [componentid, { component, properties }]);
-        return call(componentid);
-      },
-      createNode(element) {
-        const { create } = voyage;
-        const { listen } = voyage;
-        const { macros } = voyage;
+    const { check } = voyage;
 
-        let { tag, labels, children } = element;
-
-        let node = document.createElement(tag);
-
-        for (const label in labels) {
-          const data = labels[label];
-          if (is(label[0], "@")) {
-            const macro = label.slice(1);
-            if (has(macros, macro)) {
-              const state = data;
-              macros[macro]({ node, state });
-            } else {
-              const event = macro;
-              const handler = data;
-              listen(node, event, handler);
-            }
-          } else {
-            node.setAttribute(label, data);
-          }
-        }
-
-        if (check(children, "string")) {
-          node.innerText = children;
-        } else {
-          for (const child of children) {
-            if (check(child, Array)) {
-              node.appendChild(create(...child));
-            } else {
-              node.appendChild(child);
-            }
-          }
-        }
-
-        return node;
-      },
-    };
-    const { assign: put } = Object;
-
-    if (check(options[0], "function")) {
-      const [component, properties, children] = options;
-      if (children) {
-        put(properties, { children });
-      }
-      return createComponent(component, properties);
-    } else {
-      let element = {};
-
-      reset(counter, "string");
-      reset(counter, "array");
-      for (const option of options) {
-        if (check(option, "string")) {
-          if (is(counter.string, 0)) {
-            element.tag = option;
-            count(counter, "string");
-          } else {
-            element.children = option;
-          }
-        } else if (check(option, Array)) {
-          if (is(counter.array, 0)) {
-            element.children = option;
-            count(counter, "array");
-          } else {
-            element.children = options;
-            break;
-          }
-        } else {
-          element.labels = option;
-        }
-      }
-
-      init(element, { tag: "div" });
-      init(element, "labels");
-      init(element, ["children"]);
-
-      let isChildrenChild = false;
-      for (const i of each(2)) {
-        if (has(element.children, i)) {
-          if (!check(element.children[i], Array)) {
-            isChildrenChild = true;
-          }
-        }
-      }
-      if (isChildrenChild) {
-        element.children = [element.children];
-      }
-      return createNode(element);
-    }
+    let element = [],
+      nodes = [];
+    
   },
   c(...options) {
     const { create } = voyage;
@@ -684,14 +586,16 @@ voyage.run({
 // - create(string tag,obj labels,array child,array child)
 // - create(string tag,obj labels,[array child,array child]) -> one more div wrap children
 // - create([string tag,obj labels,array child,array child]) -> one more div wrap all
+// create avoid sof
+// - use dfs array
+// create labels obj
+// - class
+// - style
 // better updater
 // - give updater value and oldvalue
 // support flat param
 // - ref(a,b,c)
 // - ref([a,b,c]) (works the same)
-// create labels obj
-// - class
-// - style
 // select while create
 // - attribute $0 $1 $2
 // - input = select("$0")
@@ -702,11 +606,12 @@ voyage.run({
 // - select(number) for component node
 // - select(string) for node or component node
 // - get(string) for component obj
+// macro
+// - more built in macro ("@model")
+// - text html
 // dom method macros
 // - steal from jquery
 // - learn from common use case
-// macro
-// - more built in macro ("@model")
 // revise
 // - param (a,b) ({a,b}) (...ab)
 // - function poly

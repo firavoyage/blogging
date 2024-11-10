@@ -8171,3 +8171,229 @@ get up.
 `writing` `concept`
 
 update wisdom.
+
+23:45
+
+`gaming`
+
+not playing df.
+
+watching df guide vid.
+
+还是玩大战场吧...池鱼思故渊了.
+
+"我这边没啥竞争,高二的时候,身边的同学玩df,周末一天八个小时,我因为只玩大战场,压力小很多"
+
+## 20241110
+
+02:xx
+
+`gaming`
+
+watching key725 df live
+
+"能感觉...(老板)有点困了啊,平时是睡得比较晚吗"
+
+02:24
+
+`dev`
+
+ubuntu is buggy...
+
+vscode couldnt render markdown (webview failed)
+
+restart will solve this. true.
+
+02:40
+
+`gaming`
+
+watching key725 df live.
+
+"号是封了,可是老板也火化了"
+
+"三角洲挂太多了..."
+
+"这个特征太明显了,每个连续刷那么多把..."
+
+"现在挂最大的问题是没成本,连人力成本都没有,他进去出来进去出来结束了"
+
+"如果你进十场,一把没死过,每把还打几个人,就很容易匹到挂,连着碰了三把挂"
+
+"匹配机制认为我们太牛逼了!"
+
+03:09
+
+`dev` `gaming`
+
+读 integer overflow
+
+挂着key的直播.
+
+"这把补偿局,下把继续碰挂"
+
+(f):
+
+所以我还是玩大战场吧.
+
+(想起之前玩pubgm metro royale,对比这个游戏的撤离点规则)
+
+(更坚定了)
+
+"???"
+
+"还有sm"
+
+"没主播叫得好听"
+
+"有爱情主题"
+
+(麦晓雯被火烤)
+
+04:12
+
+`weather` `school` `ref`
+
+读完 integer overflow
+
+搜索一个问题"5 年前、10 年前的 OI「圈⼦」是
+什么样的？与现在有什么区别？"
+
+(at page 139)
+
+zhihu 屏蔽了 google
+
+于是搜索到一些奇怪的页面.
+
+https://discourse.xinyoudui.com/c/163-category/163
+
+https://xinyoudui.com/
+
+啊?xjoi也商业化了? (参考archiveorg)
+
+05:10
+
+swimming in zhihu...(saved to reflections)
+
+sleep.
+
+tomorrow...
+
+- voyagejs create poly & flatten & stack to array
+- ...(like before)
+
+14:xx
+
+awake...
+
+mind wandering...
+
+about one hundred years of solitude
+
+"多年以后"
+
+and today's plan
+
+15:xx
+
+get up.
+
+had some great breakfast. 
+
+(noodle with scallion oil)
+
+15:52
+
+`gaming`
+
+playing sr.
+
+pure fiction. (about to end)
+
+stage 2.
+
+team
+
+- sparkle
+- dr ratio
+- topaz
+- march (the hunt)
+
+team 2
+
+- herta
+- trailblazer (harmony)
+- bronya
+- fu xuan
+
+not leveled up. this is the furthest i could go 
+
+16:53
+
+failed. only got 2 stars.
+
+changed team and it's my last try.
+
+team
+
+- herta
+- bronya
+- sparkle
+- fu xuan
+
+team 2
+
+- trailblazer (harmony)
+- dr ratio
+- topaz
+- march (the hunt)
+
+17:14
+
+`gaming`
+
+sr. pure fiction stage 2.
+
+failed again. although no so much rewards i will try again.
+
+it's close. i reached 57000. i will upgrade some stats 
+
+and i could work out.
+
+...
+
+wow it's new month. it's nov. opened store and bought all deal.
+
+17:42
+
+had some black tea.
+
+`gaming`
+
+sr. succeeded.
+
+17:45
+
+watch simplelive df.
+
+最后十秒,冲撤离点...
+
+"所以出去了没啊" "关键切断"
+
+"逆天超管" "超管诗人握持"
+
+"超管被抢丢包撤离了"
+
+17:5x
+
+"你这薯片还在啊,要是你妹,早就吃完了"
+
+18:04
+
+writing voyagejs...
+
+18:28
+
+sync phone. simplelive autoplaying.
+
+"加持良治ovo:我这一下午就死了一把,想死兄弟们,能不能狙击我啊,有人给主播上强度吗"

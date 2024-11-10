@@ -27,7 +27,7 @@
   - thunderbird
   - code
   - goldendict
-  - endeavour
+  - solanum
 - config dock application icon
   - -> `extensions > ubuntu dock > more > settings > launchers`
   - show application icon `off`

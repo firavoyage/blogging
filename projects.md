@@ -259,16 +259,17 @@
 > breathe in the content overload
 
 - features
-  - choosing before reading
-  - more than text
-  - categorized source list
-  - site subscription
-  - tag based recommendation
-  - timeless archive
-  - stop point "you've caught up"
-  - poster sharing
+  - control of your feed
+  - fetcher for any site
+  - support of all visual forms
+  - tag based source list
+  - timeless archive with wayback machine
+  - personal blogs safari
+  - customizable front page
+  - poster generator for sharing
+  - portable format
   - cross platform
-  - cli support
+  - powerful cli
 - spec
   - content fetcher web extension
   - using javascript selector
@@ -458,11 +459,12 @@
   - libre hs math wiki
   - all math theories list
   - hs math foresight in one hour
+  - comment thread of the day
   - daily problems a & b
   - childhood retro: hs math made simple stupid
   - hello f. i'm your past.
   - elite education in shanghai
-  - learn with lucky star
+  - lucky star transition scene
   - blue archive group discussion
   - mihoyo classroom
   - seat selection in vocational hs
@@ -470,6 +472,7 @@
   - sr relic and time probability
   - math universe by herta(asta) & screwllum
   - dying voice after sports
+  - evangelion poster
 - practice
   - workbook & textbook for the ordinary
   - challenge & notes for the gifted
@@ -565,10 +568,22 @@
   - oi roadmap with problem lists
   - codeforces editorial for 8yo
 - macro sugars
-  - rd
-  - pr
-  - prn
-  - each
+  - rd(&a)
+  - pr(...contents)
+  - prn(...contents)
+  - is(a, b) 
+  - isnt(a, b) 
+  - check(a, b) 
+  - each(begin, end, step) 
+  - map(things, converter) 
+  - match(list, item) 
+  - use(fn, ...param) 
+  - sync(obj, key, observer) 
+  - has(obj, key)
+  - lacks(obj, key)
+  - init(obj, ...path)
+  - reset(counter, key)
+  - count(counter, key)
 - why cpp
   - elegant tools compose humanity
   - great programs compose the tools
@@ -576,6 +591,7 @@
   - they see algorithms
   - *yawn*
   - cpp has lowest learning curve in fast languages
+  - and cpp has pointer
 - theory
   - given 
   - steps (omitted by theory)
@@ -614,6 +630,11 @@
   - observation from divine source
   - trick as common observation (flow network)
   - hint from remembrance
+- local oj
+  - test program
+  - problem markdown and io files given
+  - maybe hints editorial and data generator
+  - for improving yourself instead of competing with others
 - wonders
   - all algorithms list
   - adventurine's coins (imo 2010 p5)
@@ -988,11 +1009,15 @@ for(i 1 10 j 10 100){A} //for(let i=1;i<=10;i++){for(let j=10;i<=100;j++){A}}
 - sr story in english
   - all trailblaze missions full gameplay
   - autoplay all the time
+  - wallpaper of certain scenes
   - auto battle as possible
   - in about two weeks
 - other games like hg hi zzz
   - not now
   - action games not visual novels
+- more about gi sr
+  - gi is fairy tale about adventure
+  - sr is fable about paths and aeons
 - inspired by
   - fandom sr wiki
   - memoir of prosperity
