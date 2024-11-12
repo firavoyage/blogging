@@ -70,8 +70,8 @@
   - never gonna give you up (rick astley)
   - internet overdose (aiobahn & kotoko & needy girl overdose)
   - burning desires (burnice & zzz studio & hoyo mix)
+  - thou away from oi (menci & wxh010910 & yan qval & krydom & niro bc & wer key tom_ftd & __stdcall & created_equal & whzzt & wy1627)
   - sky (beyond)
-  - thou away from oi (menci & wxh010910 & yanqval & krydom & nirobc & werkeytom_ftd & __stdcall & created_equal & whzzt & wy1627)
   - story of time (luo da you)
   - fu shi shan xia (eason chan)
   - counter-clockwise clock (jay chou)
@@ -273,6 +273,7 @@
   - akira kogami
   - asta & herta & screwllum
   - bessie & farmer john
+  - black swan
   - chtholly
   - clara
   - forever naive taffy
@@ -376,7 +377,7 @@
   - magicalflower codeforces
   - math contest fei bro
   - memoir of prosperity sr
-  - menci & oi wiki writing & libre oj founding 
+  - menci codeforces & oi wiki writing & libre oj founding 
   - mike mirzayanov & codeforces founding
   - mohamad light cr
   - mr marmot & art institute & wojaks
@@ -655,10 +656,13 @@
 - 弱水三千取一瓢饮
 - 以有涯随无涯殆已
 - 为者败之执者失之
+- 今朝有酒今朝醉
 - 他日江湖相逢
 - 命里有时终须有
+- 以神遇而不以目视
 - 壁上小虫忽跃落衿袖间
 - 鸢飞戾天者望峰息心
+- 以我观物
 - 池鱼思故渊
 - 锦瑟无端五十弦
 - 春风若有怜花意
@@ -675,8 +679,7 @@
 - 光阴者百代之过客
 - 夕阳忽西流
 - 怅然若失
-- 以神遇而不以目视
-- 以我观物故物皆着我之色彩
+- 宁为玉碎
 - 民为贵社稷次之
 - 待到秋来九月八
 

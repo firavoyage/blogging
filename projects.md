@@ -455,24 +455,27 @@
   - learn on math challenger
   - practice on math guide
   - ref on math textbook
-- wonders
-  - libre hs math wiki
+- quick start
+  - 40min hs math foresight
+  - 400min master hs math
+- libre hs math wiki
   - all math theories list
-  - hs math foresight in one hour
+- daily
   - comment thread of the day
   - daily problems a & b
+- retro
   - childhood retro: hs math made simple stupid
   - hello f. i'm your past.
-  - elite education in shanghai
+- anime style
   - lucky star transition scene
   - blue archive group discussion
-  - mihoyo classroom
-  - seat selection in vocational hs
+  - classroom for mihoyo characters
   - fuxuan's divine perspective
-  - sr relic and time probability
   - math universe by herta(asta) & screwllum
+  - evangelion cover art
+- vhs style
+  - seat selection in vocational hs
   - dying voice after sports
-  - evangelion poster
 - practice
   - workbook & textbook for the ordinary
   - challenge & notes for the gifted
@@ -490,6 +493,15 @@
   - it's break time!
   - solve these problems if you like
   - or listen to the song i picked
+- material for parents
+  - some parents are good at study
+  - while their children are not
+  - forgotten what have learned in early years
+  - they couldnt understand some problems
+  - so feel free to join the course
+  - it's open source on github and contributions are welcomed
+  - as the course may seem slow paced at first
+  - for more skilled ones writing papers is the better choice
 - desire
   - you don't learn to overstep others.
   - which may seem appealing but is actually unhealthy.
@@ -596,11 +608,6 @@
   - given 
   - steps (omitted by theory)
   - conclusion 
-- foresight
-  - cpp syntax in 20 min (one lucky star episode)
-  - cpp syntax in 45 min (one football match)
-  - not beginner friendly
-  - to screen delicate learners
 - aeons
   - 命途
   - 轮回
@@ -630,11 +637,11 @@
   - observation from divine source
   - trick as common observation (flow network)
   - hint from remembrance
-- local oj
-  - test program
-  - problem markdown and io files given
-  - maybe hints editorial and data generator
-  - for improving yourself instead of competing with others
+- foresight
+  - 20min master cpp/py/js (one lucky star episode)
+  - 45min algorithms foresight (one football match)
+  - 400min master oi
+  - fast paced, to screen delicate learners
 - wonders
   - all algorithms list
   - adventurine's coins (imo 2010 p5)
@@ -652,9 +659,11 @@
   - fly me 2 the moon
   - angry birds classic
   - terraria
-- app ideas
-  - notion
-  - feishu
+- local oj
+  - test program
+  - problem markdown and io files given
+  - maybe hints editorial and data generator
+  - for improving yourself instead of competing with others
 - various themes
   - by voyage
 - inspired by

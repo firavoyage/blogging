@@ -1,5 +1,5 @@
-//20241112
-//voyagejs 0.20
+//20241111
+//voyagejs 0.19
 
 let voyage = {
   info: {},
@@ -657,26 +657,35 @@ voyage.run({
 // - sr component library for fun
 //
 // @todo
+// change code style
+// - import function and data where it's needed
+// - on top of its usages
+// - not on top of everything
+// put use superpower into practice
+// - sync map alias use defineprop
+// better updater
+// - give updater value and oldvalue
+// - updateState(cid,sid,value,old value)
+// support flat param
+// - ref(a,b,c)
+// - ref([a,b,c]) (works the same)
 // select poly
 // - attribute $ "$:1" "$:123"
-// - -> info selection [key]
-// - input = select("0") -> info.selection["0"]
+// - input = select("0")
 // - [input] = select(["$0"])
 // - input.focus()
-// - select(number) for component node
+// - select(number componentid) for component node
 // - select(string) for node or component node
-// get poly
-// - get(number componentid) -> states {}
-// - get(string "0") -> info.selection["0"] -> states {}
-// val poly
-// - val(cid,sid) -> states[componentid][stateid]
-// - val(key) -> storage[key]
 // revise object like array
 // - make states[componentid] obj not array
 // - make updater obj not array
-// symbol poly
+// symbol function
 // - symbol() -> unique sha256+count
-// - symbol(key) -> unique sha256+key
+// get poly
+// - get(number componentid) -> states {}
+// - get(string "0") -> states {}
+// - states[componentid][stateid]
+// - storage[key]
 // macro
 // - more built in macro ("@model")
 // - text html
