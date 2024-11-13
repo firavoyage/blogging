@@ -87,6 +87,14 @@
     - zhang xizhe `225.5 65.5 100 60`
     - xia chuyun `227.5 55 97 75.5`
     - room and seat 0209
+  - mid
+    - fira `263.5 81 87 95.5`
+    - hui xinyu `276.5 85 105 86.5`
+    - jiang zhijun `275.5 89 90 96.5`
+    - zhang xizhe `204.5 81 60 63.5`
+    - gui minghao `24x . . .`
+    - dong guanxi `. . . 90.5`
+    - chen ruihan `. . . 105`
 
 ## jhs fin exam
 

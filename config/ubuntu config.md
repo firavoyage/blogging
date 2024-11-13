@@ -606,6 +606,7 @@ sudo apt install gnome-shell-extension-prefs
   sudo snap install android-studio
   sudo snap install blender --classic
   sudo snap install chromium --revision 2842
+  sudo snap install docker
   sudo snap install firefox
   sudo snap install gimp
   sudo snap install gnome-boxes

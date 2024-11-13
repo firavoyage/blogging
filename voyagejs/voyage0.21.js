@@ -1,5 +1,5 @@
-//20241114
-//voyagejs 0.22
+//20241113
+//voyagejs 0.21
 
 let voyage = {
   info: {},
@@ -715,6 +715,11 @@ voyage.run({
 // - sr component library for fun
 //
 // @todo
+// revise match variable names
+// - item to query
+// revise bind
+// - add comment to make it clearer
+// - arrange lines
 // macro poly
 // - more built in macro ("@model")
 // - @text @html

@@ -1,5 +1,5 @@
-//20241114
-//voyagejs 0.22
+//20241112
+//voyagejs 0.20
 
 let voyage = {
   info: {},
@@ -15,25 +15,8 @@ let voyage = {
         state.v = value;
       };
       node.addEventListener("change", handleChange);
-      const updater = function modelValue(newValue) {
-        node.value = newValue;
-      };
-      bind(state, updater);
-    },
-    text(node, state) {
-      const { bind } = voyage;
-      node.innerText = state;
-      const updater = function updateText(newValue) {
-        node.innerText = newValue;
-      };
-      bind(state, updater);
-    },
-    html(node, state) {
-      const { bind } = voyage;
-
-      node.innerHTML = state;
-      const updater = function updateHTML(newValue) {
-        node.innerHTML = newValue;
+      const updater = function modelValue() {
+        node.value = state.v;
       };
       bind(state, updater);
     },
@@ -117,15 +100,15 @@ let voyage = {
       return result;
     }
   },
-  match(list, query) {
+  match(list, item) {
     const { isnt } = voyage;
-    let matches = [],
-      index = list.indexOf(query);
-    while (isnt(index, -1)) {
-      matches.push(index);
-      index = list.indexOf(query, index + 1);
+    let result = [],
+      current = list.indexOf(item);
+    while (isnt(current, -1)) {
+      result.push(current);
+      current = list.indexOf(item, current + 1);
     }
-    return matches;
+    return result;
   },
   use(fn, ...param) {
     const { is, match } = voyage;
@@ -164,11 +147,11 @@ let voyage = {
       get() {
         return obj[key];
       },
-      set(newValue) {
+      set(value) {
         const oldValue = obj[key];
-        if (isnt(oldValue, newValue)) {
-          obj[key] = newValue;
-          observer(newValue, oldValue);
+        if (isnt(oldValue, value)) {
+          obj[key] = value;
+          observer(value, oldValue);
         }
       },
     };
@@ -267,19 +250,19 @@ let voyage = {
     node.parentNode.replaceChild(updatedNode, node);
   },
   bind(...options) {
+    const { check, has, init } = voyage;
     let { info, updaters } = voyage;
 
     const { bindUpdater } = {
       bindUpdater(componentid, stateid, updater) {
-        const { init } = voyage;
         init(updaters, componentid, [stateid]);
         init(info, "updaters", componentid, stateid);
 
-        const { lacks } = voyage;
         const { name } = updater;
         if (name) {
-          // isnt name ""
-          if (lacks(info.updaters[componentid][stateid], name)) {
+          if (has(info.updaters[componentid][stateid], name)) {
+            return false;
+          } else {
             info.updaters[componentid][stateid][name] = true;
             updaters[componentid][stateid].push(updater);
           }
@@ -288,24 +271,21 @@ let voyage = {
         }
       },
     };
-
-    const { check, has } = voyage;
-    if (check(options[0], "number")) {
-      const [componentid, stateid, updater] = options;
-      bindUpdater(componentid, stateid, updater);
-    } else if (check(options[0], "string")) {
+    if (check(options[0], "string")) {
       const [key, updater] = options;
       bindUpdater("global", key, updater);
+    } else if (check(options[0], "number")) {
+      const [componentid, stateid, updater] = options;
+      bindUpdater(componentid, stateid, updater);
     } else {
-      // check options[0] "object"
-      if (has(options[0], "componentid")) {
-        const [state, updater] = options;
-        const { componentid, stateid } = state;
-        bindUpdater(componentid, stateid, updater);
-      } else {
+      if (has(options[0], "key")) {
         const [globalState, updater] = options;
         const { key } = globalState;
         bindUpdater("global", key, updater);
+      } else {
+        const [state, updater] = options;
+        const { componentid, stateid } = state;
+        bindUpdater(componentid, stateid, updater);
       }
     }
   },
@@ -471,12 +451,12 @@ let voyage = {
     const { reactive } = voyage;
     return reactive["global"][key];
   },
-  updateState(componentid, stateid, newValue, oldValue) {
+  updateState(componentid, stateid, value, oldValue) {
     const { init } = voyage;
     const { updaters } = voyage;
     init(updaters, componentid, [stateid]);
     for (const updater of updaters[componentid][stateid]) {
-      updater(newValue, oldValue);
+      updater(value, oldValue);
     }
   },
   ref(...options) {
@@ -693,7 +673,7 @@ let examples = {
   },
   hello({ msg }) {
     const { c } = voyage;
-    return c("p", { "@text": msg });
+    return c("p", msg);
   },
 };
 
@@ -715,15 +695,37 @@ voyage.run({
 // - sr component library for fun
 //
 // @todo
-// macro poly
+// selector label
+// - label $ "$:1" "$:123"
+// - -> info selections [key]
+// select poly
+// - input = select("0") -> info.selections["0"].node
+// - [input] = select(["$0"])
+// - input.focus()
+// - select(number) for component node
+// - select(string) for node or component node
+// get poly
+// - get(number componentid) -> states {}
+// - createComponent -> $ -> info.selections["0"].componentid
+// - get(string "0") -> info.selections["0"].componentid -> states {}
+// lookup poly
+// - lookup(cid,sid) -> states[componentid][stateid]
+// - lookup(key) -> storage[key]
+// remove storage
+// - rm storage[key]
+// - rp with states["global"][key]
+// make get and lookup reactive
+// - sync all states
+// - put states into voyage.reactive in refState, etc.
+// revise some objectlike arrays to objects
+// - make states[componentid] obj not array
+// - make updater obj not array
+// symbol poly
+// - symbol() -> unique sha256+count
+// - symbol(key) -> unique sha256+key
+// macro
 // - more built in macro ("@model")
-// - @text @html
-// - macro(node,state)
-// - macro(node,content)
-// symbol method
-// - symbol() -> hash+count
-// - symbol(key) -> hash+key
-// - placeholder = symbol("placeholder")
+// - text html
 // dom method macros
 // - steal from jquery
 // - learn from common use case

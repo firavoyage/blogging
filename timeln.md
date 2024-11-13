@@ -8532,6 +8532,8 @@ peeked wakatime.
 
 本来以为现在1点多了,竟然还没入夜...
 
+## 20241112
+
 02:14
 
 watched df simplelive. added some sub.
@@ -8550,4 +8552,232 @@ weekend
 - categorize memories
 - sync phone
 - read ruanyf
+
+## 20241113
+
+01:31
+
+so tired...
+
+**even didnt** 
+
+- release voyagejs 
+- watch lucky star 
+- or play df
+
+sleep?
+
+01:54
+
+released voyagejs.
+
+02:13
+
+watched 
+
+- mediastorm about the decline of vid quality
+- on acfun.
+
+再强的画面提升,不如一个明暗对比滤镜.
+
+- pixiv 背影高光
+- "没见过怎么高的画质!" amv剪辑
+
+02:55
+
+暮年女孩半夜出来,脚步声.
+
+好像给我断网了qwq,不过我也不需要啊!
+
+也不困了,白天要那么多精神也没用.
+
+学工,趴着歇会.
+
+醒了也最多翻翻百年孤独,不可能做英语或者数学吧,那个地方.
+
+看一集lucky star... 或者再写点voyagejs.
+
+03:32
+
+`dev`
+
+voyagejs0.20 released!
+
+big update. see todo list in code.
+
+03:56
+
+`bangumi`
+
+watched lucky star episode 13.
+
+**ending of great fun.**
+
+sleep.
+
+07:12
+
+get up.
+
+`school`
+
+zhang xizhe weared custom outfit yesterday.
+
+without a piece of school uniform...
+
+so i will wear my clothes at leisure today.
+
+with a school uniform coat...
+
+which is loose and cozy
+
+17:51
+
+`gaming`
+
+playing sr.
+
+acheron dropped. 60shots.
+
+**i love gacha games!**
+
+drawing for adventurine... nothing happened.
+
+gallagher dropped.
+
+22:07
+
+`swimming`
+
+on zhihu.
+
+目前最具性价比的全栈路线是啥？
+
+https://www.zhihu.com/question/594662421/answer/3595669925
+
+IanJiang
+
+小李飞刀成绝响
+
+发布于 2024-08-15 20:53 ，编辑于 2024-08-16 14:25
+
+430 人赞同了该回答
+
+nextjs一把撸到底。
+
+刚开始用户量小，功能迭代快，数据库配noSQL系。
+
+画页面记得上tailwindcss，如果你没几年css功底。然后组件的话，shadcn UI直接复制粘帖组件到页面。
+
+auth.js也可以上如果自己懒得写登陆注册。
+
+邮件服务用resend。
+
+基本上建个小网站目前算ts路线最快的堆砌路线。
+
+如果还要配app，react-native也加上。
+
+最后再学好英语，就可以出海找活了。
+
+(comments)
+
+目前最具性价比的全栈路线是啥？ 惊现AI洗稿，给我来了个同义扩写是吧？？ (op)
+
+https://www.zhihu.com/question/594662421/answer/3596086608
+
+不愧是做 ai 的
+
+2333
+
+(view)
+
+ai洗稿早已不足为奇,不过是第一次见到喵.
+
+22:11
+
+`swimming`
+
+你见过码风最好的 OI 选手是谁？
+
+Visual Studio 2022 的 C++ 代码自动格式化。
+
+(comments)
+
+大括号换行天诛地灭[生气][生气][生气]
+
+大括号不换行天诛地灭（bushi
+
+那你倒是说说，不换行，你大括号前面打不打空格[生气][生气]
+
+那我换一半不换一半，你们都满意了吧[大笑]
+
+这下好了，中间派特有的两边不是人
+
+天诛还是地灭，你选一个[调皮]
+
+22:15
+
+`swimming`
+
+VS Code凭什么如此受欢迎?
+
+gookeryoung
+
+发布于 2023-07-31 10:16 ，编辑于 2023-08-02 22:29
+
+亲爹有钱，可以请设计模式大佬来亲自操刀。
+
+亲爹有钱，可以请安德斯大佬来加持js，再雇团队魔改js性能瓶颈代码。
+
+亲爹有钱，可以无限免费跨平台给大家白嫖。
+
+亲爹有钱，可以官方提供remote ssh等杀手级插件，全部免费。
+
+亲爹有钱，可以收购github，账户和vsc双向绑定使用，免费。
+
+重点是，亲爹。
+
+22:31
+
+`dev`
+
+wifi failed. pushed the wire and fixed.
+
+wtf.
+
+`weather`
+
+**had a bar of frey chocolate.**
+
+great.
+
+22:46
+
+`weather`
+
+桌上放着前方的路.
+
+23:53
+
+翻了翻余华的活着.
+
+不知不觉过了好久.
+
+出身不错,运气也好.什么上辈子做狗...
+
+少爷是一生的底色啊.
+
+像是说我.f.
+
+原谅我一生不羁放纵爱自由...qwq
+
+## 20241114
+
+02:03
+
+`swimming`
+
+localhost8080...
+
+wolfram alpha origami.
 

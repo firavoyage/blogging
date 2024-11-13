@@ -27,10 +27,10 @@
 
 ## perception
 
-- - black tea
-  - dark chocolate bar
+- - lipton black tea
+  - frey dark chocolate bar
   - coca cola
-  - crisps classic
+  - lays crisps classic
   - bubble tea
   - egg waffle
   - tea egg
@@ -39,7 +39,7 @@
   - frédéric chopin
   - calendar & wall clock
   - reading & waifu pillow
-  - gardening & origami
+  - gardening & origami & pixel art
   - math & algorithms
   - functional programming & vanilla js
   - dark style & night light & low brightness
@@ -70,7 +70,7 @@
   - never gonna give you up (rick astley)
   - internet overdose (aiobahn & kotoko & needy girl overdose)
   - burning desires (burnice & zzz studio & hoyo mix)
-  - thou away from oi (menci & wxh010910 & yan qval & krydom & niro bc & wer key tom_ftd & __stdcall & created_equal & whzzt & wy1627)
+  - thou away from oi (menci & wxh010910 & yan qval & krydom & niro bc & wer key tom_ftd & \_\_stdcall & created_equal & whzzt & wy1627)
   - sky (beyond)
   - story of time (luo da you)
   - fu shi shan xia (eason chan)
@@ -102,6 +102,7 @@
   - .the melancholy of haruhi suzumiya (2006)
   - .your lie in april (2014)
   - .a certain scientific railgun (2009)
+  - .re: zero - starting life in another world (2016)
   - .frieren: beyond journey's end (2023)
   - .bang dream! it's mygo!!!!! (2023)
   - .bocchi the rock (2022)
@@ -110,15 +111,16 @@
   - .bakemonogatari (2009)
   - .school days (2007)
   - .scum's wish (2017)
+  - .the big bang theory (2007)
   - .the good the bad and the ugly (1966)
   - .the truman show (1998)
   - .forrest gump (1994)
   - .roman holiday (1953)
-  - .the big bang theory (2007)
 - - honkai star rail (2023)
   - honkai impact third (2016)
   - houkai gakuen second (2014)
   - azur lane (2017)
+  - blue archive (2021)
   - brawl stars (2017)
   - clash royale (2016)
   - delta force (2024)
@@ -234,40 +236,26 @@
   - hugging face
   - google
   - youtube
-  - ruanyf weekly
-  - css tricks
-  - codepen spark
+  - ruanyf & howie6879 weekly
+  - javascript weekly & css tricks & codepen spark
+  - slashdot & solidot
+  - rebang & tophub
+  - genius & poetry foundation
   - reddit old
-  - genius
-  - poetry foundation
   - nga bbs
   - zhihu
   - v2ex creative
   - hacker news
   - codeforces
-  - libre oj
-  - vijos
-  - xjoi
-  - acwing
-  - luogu blog
-  - travellings
-  - foreverblog
-  - csdiy
-  - bangumi.tv
-  - bgmlist
-  - mikan project
-  - my anime list
-  - douban book
-  - douban movie
-  - imdb movie
-  - google doodles
-  - itch.io
-  - steam
+  - libre oj & vijos & xjoi
+  - luogu blog & travellings & foreverblog
+  - bangumi.tv & my anime list
+  - bgmlist & mikan project 
+  - douban & goodread book
+  - douban & imdb movie
+  - google doodles & itch.io & steam
+  - unsplash & pixiv & dribbble
   - product hunt all time
-  - unsplash nature
-  - pixiv monthly
-  - dribbble popular
-  - awesome pixel art
 - - acheron
   - adventurine
   - akira kogami
@@ -332,7 +320,7 @@
   - di xuchen djhs
   - diviner in spiritual wind
   - diygod & justcc
-  - dong guanxi djhs
+  - dong guanxi djhs & english study
   - doris yee yeedor
   - dudu & cnblogs founding
   - dusk's rain in early winter sr
@@ -342,7 +330,7 @@
   - foreman ma madugong & bedtime news
   - geek bay geekerwan
   - gennady vladimirovich korotkevich tourist codeforces & oi champion
-  - gu sen matrix67 & localhost-8080
+  - gu sen matrix67 & cai xueqin localhost-8080
   - gui minghao djhs
   - hakim el hattab & web dev & design
   - hu jiaying ldhs & sports girl
@@ -377,7 +365,7 @@
   - magicalflower codeforces
   - math contest fei bro
   - memoir of prosperity sr
-  - menci codeforces & oi wiki writing & libre oj founding 
+  - menci codeforces & oi wiki writing & libre oj founding
   - mike mirzayanov & codeforces founding
   - mohamad light cr
   - mr marmot & art institute & wojaks
@@ -425,8 +413,8 @@
   - xia chuyun djhs
   - xie haotong ldhs & gifted math
   - xu haohuan ldhs & cute silly boy
-  - xu xiling Tangenter & oi & integer overflow writing
-  - yan xuecan acwing
+  - xu xiling tangenter & oi & integer overflow writing
+  - yan xuecan & acwing founding
   - yang beilei djhs & intuitive geography
   - yang yang djhs & breezy physics
   - yao qixuan djhs
@@ -512,8 +500,8 @@
   - antennapod 3.1.2
   - bilimiao 2.3.8.3
   - blender 4.2.1
-  - bottles 51.14
   - bubeidanci 5.8.8
+  - docker 24.0.5
   - eudic 9.3.1
   - fcitx5-android 0.0.7
   - gedit 46.2
@@ -521,10 +509,8 @@
   - gimp 2.10.38
   - gnome-baobab 46.0
   - gnome-blanket 0.7.0
-  - gnome-cartridges 2.10.1
   - gnome-characters 46.0
   - gnome-deja-dup 45.2
-  - gnome-dialect 2.4.2
   - gnome-evince 46.0
   - gnome-eyedropper 2.0.1
   - gnome-nautilus 46.2
@@ -536,9 +522,7 @@
   - inkscape 1.3.1
   - jan 0.5.2
   - k9-mail 6.801
-  - katomic 24.08.2
   - kdenlive 23.08.4
-  - kigo 0.6.24082
   - kolourpaint 24.08.2
   - krita 5.2.6
   - legado 3.23.112523
@@ -623,13 +607,13 @@
   - i took the one less traveled by
   - and that has made all the difference
 - many years later as he faced the firing squad
-  - colonel aureliano buendía was to remember that distant afternoon 
+  - colonel aureliano buendía was to remember that distant afternoon
   - when his father took him to discover ice
   - at that time macondo was a village of twenty adobe houses
   - built on the bank of a river of clear water that ran along a bed of polished stones
   - which were white and enormous, like prehistoric eggs
   - the world was so recent that many things lacked names
-  - and in order to indicate them it was necessary to point 
+  - and in order to indicate them it was necessary to point
 - if i make, like, three good decisions a day, that's enough
   - and they should be as high quality as i can make them
   - warren buffett says he's good if he makes three good decisions a year
@@ -655,14 +639,15 @@
 - 惟江上之清风
 - 弱水三千取一瓢饮
 - 以有涯随无涯殆已
-- 为者败之执者失之
+- 举重若轻
 - 今朝有酒今朝醉
 - 他日江湖相逢
-- 命里有时终须有
 - 以神遇而不以目视
 - 壁上小虫忽跃落衿袖间
+- 为者败之执者失之
+- 命里有时终须有
 - 鸢飞戾天者望峰息心
-- 以我观物
+- 木已成舟
 - 池鱼思故渊
 - 锦瑟无端五十弦
 - 春风若有怜花意
@@ -679,6 +664,7 @@
 - 光阴者百代之过客
 - 夕阳忽西流
 - 怅然若失
+- 以我观物
 - 宁为玉碎
 - 民为贵社稷次之
 - 待到秋来九月八
@@ -741,7 +727,8 @@
   - cnblogs `fira`
   - wordpress `_`
   - medium `_`
-- - bilibili `fira_言序`
+- - berryberry `fira_言序`
+  - acfun `fira`
   - youtube `_`
   - telegram `_`
 - - telegram `voyagefira`
@@ -752,7 +739,7 @@
 
 ## insight
 
-> $just \space let \space time \space be \space precious$
+> _平常心_
 
 > $good \space luck \space and \space have \space fun$
 
@@ -765,8 +752,6 @@
 - _simplicity addict_ elegance of ideas...
 - _indie developer_ libre tech...
 
-> 以上, 祝你度过智识的, 审美的一天
+> _以上 / 祝你度过智识的 审美的一天_
 
 > $so \space much \space for \space this, \space have \space a \space nice \space day.$
-
-

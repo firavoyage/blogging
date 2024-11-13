@@ -19,6 +19,12 @@
   - presentation mode
   - portable format
   - local based
+- leverage
+  - notions are web based 
+  - which lacks control and integration
+  - so is yuque as well as lark
+  - obsidian lacks features
+  - which notion provide
 - view
   - zen mode docs
   - slide view
@@ -31,7 +37,7 @@
   - notion
   - obsidian
   - yuque
-  - feishu
+  - lark
 
 ### `pre`
 
@@ -46,6 +52,13 @@
   - portable format
   - cross platform
   - cli support
+- leverage
+  - ppt lacks code and formula support
+  - neither is it programmable so it's done
+  - overleaf is latex based
+  - which is complex while markdown is simple
+  - competitors like revealjs have a long way to come
+  - before feeling like a product not a developing library
 - tags
   - template
   - theme
@@ -455,6 +468,9 @@
   - learn on math challenger
   - practice on math guide
   - ref on math textbook
+- material
+  - notes
+  - workbooks
 - quick start
   - 40min hs math foresight
   - 400min master hs math
@@ -566,7 +582,7 @@
 
 > beautifully advance "朴素"
 
-> /intuitive
+> /intuitive`
 
 - features
   - wiki based
@@ -659,6 +675,11 @@
   - fly me 2 the moon
   - angry birds classic
   - terraria
+- simple sprite
+  - scratch as javascript library
+- graphical cpp
+  - block language based
+  - translatable into cpp and js
 - local oj
   - test program
   - problem markdown and io files given
