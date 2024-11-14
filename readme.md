@@ -124,6 +124,7 @@
   - brawl stars (2017)
   - clash royale (2016)
   - delta force (2024)
+  - the powder toy (2013)
   - pubg mobile (2018)
   - genshin impact (2020)
   - minecraft (2011)
@@ -218,42 +219,35 @@
   - hard hacker (yixiao & 0xsaito & anson)
   - it gonglun (ipn)
   - lex fridman podcast (lex fridman)
+  - liqi.io (bob & steve sun & fei ci & robin & mao zhangmen & li xin & gao cong & winboy)
   - mindhub by product thinking (shaonan & fonter & mengna)
   - pan.icu (wu tao & rio)
   - pretro.xyz (ren ning & rio)
   - python hunter (manjusaka & adam wen & laixintao)
+  - the type (eric liu & qian zhengyu)
   - ux coffee (riceman & hoka)
   - web worker (xinbao & lv777 & pakchoi & kaiyi & smart)
   - yitianshijie (li ruyi)
   - yixi (yixi)
 - - wikipedia
-  - github
-  - z library
-  - the pirate bay
-  - internet archive
-  - archive.today
-  - kaggle
-  - hugging face
+  - github & z library & the pirate bay
+  - internet archive wayback machine & archive.today
+  - hugging face & kaggle
   - google
   - youtube
-  - ruanyf & howie6879 weekly
+  - ruanyf weekly & hacker news
   - javascript weekly & css tricks & codepen spark
-  - slashdot & solidot
-  - rebang & tophub
+  - slashdot opensource & solidot software games idle & howie6879 weekly
+  - reddit old & nga bbs
+  - zhihu & v2ex creative & rebang
   - genius & poetry foundation
-  - reddit old
-  - nga bbs
-  - zhihu
-  - v2ex creative
-  - hacker news
-  - codeforces
-  - libre oj & vijos & xjoi
+  - codeforces & libre oj & vijos & xjoi
   - luogu blog & travellings & foreverblog
   - bangumi.tv & my anime list
-  - bgmlist & mikan project 
+  - bgmlist & mikan project
   - douban & goodread book
   - douban & imdb movie
-  - google doodles & itch.io & steam
+  - google doodles & itch.io matrix67 & steam db
   - unsplash & pixiv & dribbble
   - product hunt all time
 - - acheron
@@ -301,7 +295,7 @@
   - brad traversy & web dev guide
   - cali castle & zolplay founding & game dev
   - cao yunfan djhs
-  - caspar david friedric & art
+  - caspar david friedric & art & wanderer above the sea of fog
   - change release mihoyo
   - chen liangzhou pink rabbit codeforces & gi
   - chen shiyu djhs & chinese allusions & kawaii waifu
@@ -326,7 +320,7 @@
   - dusk's rain in early winter sr
   - edmund d zhang
   - fabrice bellard & cpp
-  - fireship & js framework
+  - fireship & web dev & js frameworks
   - foreman ma madugong & bedtime news
   - geek bay geekerwan
   - gennady vladimirovich korotkevich tourist codeforces & oi champion
@@ -349,6 +343,7 @@
   - jjying iconmoon & design
   - justyyuk doctor lai & algorithms
   - kevin deng sanxiaozhizi & web dev
+  - kevin powell & web dev & only css
   - key725 df & white hair and crimson eye
   - kirikaze chiyuki chyk & cs school life
   - kiun b & yakutsk life
@@ -389,7 +384,7 @@
   - richard bs
   - right that asd mihoyo
   - rodrigo pombo pombus
-  - ruan yifeng ruanyf & tech enthusiast weekly
+  - ruan yifeng ruanyf & tech enthusiast
   - science fictional lycium chinense
   - shen ruochen djhs
   - shen tongjun djhs & kind headmaster life
@@ -398,6 +393,8 @@
   - sqr5's blog
   - tail tail desu
   - tamicake1479 cr
+  - theo browne & web dev & production tutorial
+  - theo browne & web dev & production tutorial
   - tim qian & indie dev
   - timochan
   - trent walton & design
@@ -407,6 +404,7 @@
   - wang xiaofeng djhs
   - wang yining fira & dev
   - wang zhaohai djhs & math whiteboard
+  - web dev simplified & programming quick start
   - wen zhen djhs & dorm sarcasm
   - wes bos & web dev
   - with.fish lz233
@@ -501,9 +499,13 @@
   - bilimiao 2.3.8.3
   - blender 4.2.1
   - bubeidanci 5.8.8
+  - cbonsai 1.3.1-1
+  - cowsay 5.38.2
   - docker 24.0.5
   - eudic 9.3.1
   - fcitx5-android 0.0.7
+  - figlet 2.2.5
+  - fortune 9708
   - gedit 46.2
   - geogebra 6.0.804.0
   - gimp 2.10.38
@@ -528,11 +530,13 @@
   - legado 3.23.112523
   - libreoffice 24.2.5.2
   - material-files 1.4.2
+  - mathematica 14.1
   - nekogram 11.0.0
   - obs-studio 30.0.2
   - oneplus-weather 1.8.5
   - onscripter-yuri 0.7.4
   - peertube 6.3.2
+  - powdertoy 98.2.365
   - qbitorrent-arnatious 4.3.9
   - retroarch 1.19.1
   - simplelive 1.7.3
@@ -666,6 +670,7 @@
 - 怅然若失
 - 以我观物
 - 宁为玉碎
+- 肉食者鄙
 - 民为贵社稷次之
 - 待到秋来九月八
 

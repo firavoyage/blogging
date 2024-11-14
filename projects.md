@@ -449,7 +449,7 @@
 
 - features
   - wiki based
-  - symbol language
+  - symbolic language
   - courses printable
   - methods visualized to cards
   - lines instead of paragraphs
@@ -468,7 +468,7 @@
   - learn on math challenger
   - practice on math guide
   - ref on math textbook
-- material
+- material for self learning
   - notes
   - workbooks
 - quick start
@@ -505,19 +505,23 @@
   - when you have a chance to work it out
   - of course you will do things fast
   - or you may head to the answer
-- free
+- freedom
   - it's break time!
   - solve these problems if you like
   - or listen to the song i picked
-- material for parents
-  - some parents are good at study
-  - while their children are not
+- join
   - forgotten what have learned in early years
   - they couldnt understand some problems
   - so feel free to join the course
   - it's open source on github and contributions are welcomed
   - as the course may seem slow paced at first
   - for more skilled ones writing papers is the better choice
+- parent
+  - some parents are good at learning and free after work
+  - while their children are pushed to study all day
+  - perhaps these old boys and old girls would love to spend 20mins
+  - learning problem solving tricks as youth
+  - like completing puzzle games
 - desire
   - you don't learn to overstep others.
   - which may seem appealing but is actually unhealthy.
@@ -554,10 +558,15 @@
   - neither is problem solving which could be like
   - completing puzzle games in our childhood
   - which is the pleasure of math challengers
+- idea
+  - the world is nothing but unordered observations
+  - also known as knowledge point
+  - which is same difficulty for each
+  - with proper division and reference
 - mode
   - thanks to sponsors on github and patreon
   - it could be pure knowledge 
-  - without the poor's desire of class leap
+  - without the poor's desire of social class leap
 - repetition
   - abstract expression
   - at leisure

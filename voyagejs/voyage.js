@@ -21,21 +21,30 @@ let voyage = {
       bind(state, updater);
     },
     text(node, state) {
-      const { bind } = voyage;
-      node.innerText = state;
-      const updater = function updateText(newValue) {
-        node.innerText = newValue;
-      };
-      bind(state, updater);
+      const { check } = voyage;
+      if (check(state, "object")) {
+        const { bind } = voyage;
+        node.innerText = state.v;
+        const updater = function updateText(newValue) {
+          node.innerText = newValue;
+        };
+        bind(state, updater);
+      } else {
+        node.innerText = state;
+      }
     },
     html(node, state) {
-      const { bind } = voyage;
-
-      node.innerHTML = state;
-      const updater = function updateHTML(newValue) {
-        node.innerHTML = newValue;
-      };
-      bind(state, updater);
+      const { check } = voyage;
+      if (check(state, "object")) {
+        const { bind } = voyage;
+        node.innerHTML = state.v;
+        const updater = function updateHTML(newValue) {
+          node.innerHTML = newValue;
+        };
+        bind(state, updater);
+      } else {
+        node.innerHTML = state;
+      }
     },
   },
   counter: {},
@@ -715,16 +724,27 @@ voyage.run({
 // - sr component library for fun
 //
 // @todo
+// symbol method
+// - symbol() -> hash+count
+// - symbol(key) -> hash+key
+// - placeholder = symbol("placeholder")
+// replace meaningless componentid stateid
+// - since we already know what is rendering currently
+// - and bind is only used inside component
+// - instead of bind(cid,sid,updater)
+// - use bind(updater)
+// update is not normal updater
+// - state has a type between store and ref
+// - update only works for ref
+// error handling
+// - select node failed -> just rm the cid
+// - no error occurs
 // macro poly
 // - more built in macro ("@model")
 // - @text @html
 // - macro(node,state)
 // - macro(node,content)
-// symbol method
-// - symbol() -> hash+count
-// - symbol(key) -> hash+key
-// - placeholder = symbol("placeholder")
-// dom method macros
+// dom methods abstract
 // - steal from jquery
 // - learn from common use case
 // revise

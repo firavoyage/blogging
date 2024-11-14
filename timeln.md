@@ -8781,3 +8781,35 @@ localhost8080...
 
 wolfram alpha origami.
 
+18:30
+
+`swimming`
+
+家长们，你们认为孩子沉迷游戏严重还是沉迷Linux严重呢？
+
+北纬
+
+as the Night’s, Reincarnation
+
+发布于 2024-10-01 21:01 ，编辑于 2024-10-01 21:06
+
+1458 人赞同了该回答
+
+最好是 arch linux + hyprland + neovim + rust ，头像是二次元，喜欢算法竞赛，这样人生就美满了
+
+19:04
+
+playing sr.
+
+查了下记录,adventurine垫了60发了.
+
+不出算了.不过追击队不错.
+
+## 20241115
+
+01:35
+
+`swimming`
+
+"I built a JS framework with a rich abstraction layer that automatically picks the best JS framework to use under the hood"
+
