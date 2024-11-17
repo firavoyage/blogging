@@ -40,7 +40,7 @@
   - calendar & wall clock
   - reading & waifu pillow
   - gardening & origami & pixel art
-  - math & algorithms
+  - math & oi & unix porn & mtf pride
   - functional programming & web dev
   - dark style & night light & low brightness
   - remembrance & finality
@@ -56,14 +56,15 @@
   - world.execute(me); (mili)
   - magnet (minato aqua & inuyama tamaki)
   - -tooi sora he- (manack & bruno wen li)
+  - aruarian dance (nujabes)
   - haru no kaze (aoi teshima)
+  - one more time, one more chance (masayoshi yamazaki)
   - hyehwadong (park bo ram)
   - dry hands (c418)
   - the name of life (joe hisaishi)
   - the legend of zelda: ocarina of time title theme (koji kondo)
   - benevolence bequeathed (nahida & hoyo mix)
   - caresse sur l'océan (bruno coulais & les petits chanteurs de saint-marc)
-  - one more time, one more chance (masayoshi yamazaki)
   - the brave (yoasobi)
   - one last kiss (hikaru utada)
   - ymca (village people)
@@ -233,9 +234,9 @@
 - - wikipedia
   - github & z library & the pirate bay
   - internet archive wayback machine & archive.today
-  - hugging face & kaggle
   - google
   - youtube
+  - mistral le chat
   - ruanyf weekly & hacker news
   - javascript weekly & css tricks & codepen spark
   - slashdot opensource & solidot software games idle & howie6879 weekly
@@ -249,6 +250,7 @@
   - douban & goodread book
   - douban & imdb movie
   - google doodles & itch.io matrix67 & steam db
+  - hugging face & kaggle
   - unsplash & pixiv & dribbble
   - product hunt all time
 - - acheron
@@ -482,9 +484,8 @@
   - v2raya 2.2.5.1
   - wine 9.0
   - zsh 5.9
-  - mistral-large 2
   - g++ 13.2.0
-  - python 3.12.3
+  - python3 3.12.3
   - node 18.19.1
   - npm 9.2.0
   - marked 14.1.2
@@ -534,6 +535,7 @@
   - material-files 1.4.2
   - mathematica 14.1
   - nekogram 11.0.0
+  - neofetch 7.1.0
   - obs-studio 30.0.2
   - oneplus-weather 1.8.5
   - onscripter-yuri 0.7.4

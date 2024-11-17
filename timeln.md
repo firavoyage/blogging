@@ -9020,3 +9020,86 @@ splitted school folder. now
 - git/memories
 - git/school
 
+btw,upd readme and git shortcuts
+
+13:43
+
+`gaming`
+
+autoplaying sr.
+
+now 70shots already.
+
+pursue 10 more shots for adventurine.
+
+whether it will drop or not anyway.
+
+sr is much more fun than gi. no big map. has auto battle.
+
+better fit for leisue players like me.
+
+14:33
+
+`gaming`
+
+swimming in zhihu arch femboys...qwq.
+
+and playing sr unknownable domain.
+
+15:08
+
+`gaming`
+
+sr. unknownable domain.
+
+skeptors are so op. 
+
+never is my turn or enemies' turn.
+
+it's all skeptors' turn which is massive 7 digit dmg.
+
+**easy win** 
+
+against new wolf boss.
+
+15:14
+
+`gaming`
+
+playing sr.
+
+**i love gacha gaming.**
+
+wtf!
+
+what a luck.
+
+adventurine dropped in 80shots, even with a free welt in 0shot.
+
+and this is my sr gacha record.
+
+- dr ratio 0shot
+- fuxuan 30shots
+- sparkle 20shots
+- gepard lightcone 70shots
+- sparkle lightcone 70shots
+- bailu 20shots
+- topaz 80shots
+- acheron 60shots
+- adventurine 80shots
+- welt 0shot
+
+(stories from jun 2024.)
+
+**what a luck.**
+
+22:45
+
+made paper models.
+
+took photos of them. exhibiting in living room.
+
+`music`
+
+playing aruarian dance
+

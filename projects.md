@@ -452,10 +452,10 @@
   - wiki based
   - symbolic language
   - courses printable
-  - methods visualized to cards
-  - lines instead of paragraphs
-  - cheetsheet takeaway
-  - not for rating
+  - methods in lightcones
+  - paragraphs to lines
+  - cheetsheets takeaway
+  - for fun not for rating
 - perspectives
   - dark mode
   - low opacity blockquote

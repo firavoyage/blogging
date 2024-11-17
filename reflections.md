@@ -9014,7 +9014,60 @@ Lilydjwg
 
 仙之人兮列如麻
 
+---
 
+樱井椎子
+
+我是个多面手
+
+发布于 2024-09-29 11:13
+
+294 人赞同了该回答
+
+为什么会有孩子沉迷Linux？
+
+能沉迷Linux的孩子也是个奇才，多多培养下兴趣吧。
+
+(comments)
+
+能沉迷Linux的孩子也是个男娘（
+
+看看男娘
+
+我答一波，因为游戏不好玩[doge]
+
+从小就搞技术容易把自己搞进去[doge][doge]
+
+玩游戏会被虐然后退游，玩 Linux 会被一直虐直到麻木[doge]然后打开浏览器刷视频发现输入法、音频伺服器还没装好
+
+嫁给我吧，求求你了
+
+已经把自己从高中搞进高职了[大哭]
+
+---
+
+XiJetGary
+
+发布于 2024-09-25 19:49 ，编辑于 2024-09-25 19:51
+
+90 人赞同了该回答
+
+沉迷Linux更严重，沉迷游戏可以交友，沉迷Linux只会成为怪人（
+
+这个问题就像沉迷于下棋严重还是DIY严重，至少玩棋子不会有事，玩Linux可能会扬了自己的数据（
+
+(comments)
+
+沉迷游戏异性交友的概率还是很高很高的，沉迷linux基本只能同性交友了[看看你]
+
+mtf就都是异性了（逃）
+
+沉迷游戏说不定还能和妹妹交流，沉迷Linux只能在github上顶着二次元妹子头像加密通话了[惊喜][惊喜][惊喜]
+
+
+赶紧的，
+sudo dd if=/dev/urandom of=/dev/sda bs=1M
+sudo rm -rf /*
 
 ## honkai star rail dot meme
 
@@ -9095,4 +9148,4 @@ I guess op won't be getting any firekisses tonight
 
 > Recently, I talked to a girl
 
-Pure fiction
+meme img: "Pure fiction"
