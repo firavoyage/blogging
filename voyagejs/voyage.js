@@ -136,27 +136,27 @@ let voyage = {
     }
     return matches;
   },
-  use(fn, ...param) {
+  use(fn, ...params) {
     const { is, match } = voyage;
     const placeholder =
       "e22f2ddc6ea80bcd61e03272bc44f727e1984d5b986d2ad5e5817b4193dc0a5f";
     //sha256("useplaceholder")
     if (fn) {
       const { name } = fn;
-      if (is(param.indexOf(placeholder), -1)) {
+      if (is(params.indexOf(placeholder), -1)) {
         return {
           [name]() {
-            return fn(...param);
+            return fn(...params);
           },
         }[name];
       } else {
-        const flex = match(param, placeholder);
+        const flex = match(params, placeholder);
         return {
           [name](...flexParam) {
             for (const index in flex) {
-              param[flex[index]] = flexParam[index];
+              params[flex[index]] = flexParam[index];
             }
-            return fn(...param);
+            return fn(...params);
           },
         }[name];
       }
@@ -735,8 +735,10 @@ voyage.run({
 // - use bind(updater)
 // - also replace other fn with cid and sid which only works in component
 // update is not normal updater
-// - state has a type between store and ref
-// - update only works for ref
+// - info.inited -> whether push update or not
+// - just push it and dont care fn.name
+// - updateLabel(label,content,reducer)
+// - customUpd(node,content,reducer)
 // error handling
 // - select node failed -> just rm the cid
 // - no error occurs

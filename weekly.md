@@ -11,6 +11,72 @@
 - _make tools elegant_
 - _make knowledge pure_
 
+## 20241118
+
+> _foresight_
+
+- write voyagejs with svelte examples
+- think chakra & sr component library
+- revise projects and add leverage
+- write pre app
+- design pure & intuitive foresight
+- watch lucky star
+- learn math & english
+- sync phone
+
+> _everyday_
+
+- return to digital homes al sr
+
+> _mind wandering_
+
+- eat app
+- leisure app
+- float app
+- pure math contents
+- intuitive cpp contents
+- design system
+- project leverage
+
+> _weekend endeavour_
+
+- write voyagejs
+- think svelte examples in voyage
+- think chakra components in sr
+- think slidev in pre
+- write pre app
+- design intuitive cpp vid
+- design pure math vid
+
+> _weekend diversion_
+
+- play sr
+- watch lucky star
+- watch evangelion
+- play senrenbanka
+
+> _weekend enlightenment_
+
+- read ruanyf weekly & classify with tags
+
+> _school_
+
+- play football
+- read one hundred years of solitude
+- write english papers & math challenger
+
+> _after school_
+
+- read physics & chemistry beginner notes
+- memorize tem 8 vocabulary
+- play df war mode
+
+> _meanwhile_
+
+- sync phone
+- learn origami
+- listen to podcasts
+
 ## 20241113
 
 > _foresight_

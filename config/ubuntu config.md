@@ -357,48 +357,51 @@ sudo apt install gnome-shell-extension-prefs
     - _open panel_ `ctrl shift n`
     - _new window_ `ctrl shift n`
       - removed
+    - open terminal `ctrl backquote`
     - open explorer `ctrl shift e`
     - open extensions `ctrl shift x`
   - - new file `ctrl n`
     - close file `ctrl w`
-    - _save_ `ctrl s`
-      - removed
-    - _expand selection_ `ctrl s` `shift alt right`
-    - _save as_ `ctrl shift s`
-      - removed
-    - _shrink selection_ `ctrl shift s` `shift alt left`
     - _save as_ `ctrl alt s`
-  - - format code `ctrl shift i`
+  - - auto indent (format code) `ctrl shift i`
     - preview markdown `ctrl shift v`
   - - _run code_ `ctrl r`
-    - _stop running_ `ctrl c`
-  - - _move cursor left_ `ctrl h` `ctrl left`
-    - _move cursor right_ `ctrl l` `ctrl right`
+    - _stop running in terminal_ `ctrl c`
+  - - _move cursor left_ `ctrl h` `left`
+    - _move cursor right_ `ctrl l` `right`
     - _select line_ `ctrl l`
       - removed
-    - _move cursor down_ `ctrl j` `ctrl down`
-    - _move cursor up_ `ctrl k` `ctrl up`
+    - _move cursor down_ `ctrl j` `down`
+    - _move cursor up_ `ctrl k` `up`
     - _move cursor word left_ `ctrl alt h` `alt h` `ctrl left`
     - _move cursor word right_ `ctrl alt l` `alt l` `ctrl right`
     - _select left_ `ctrl shift h` `shift left`
     - _select right_ `ctrl shift l` `shift right`
+    - _select all matches_ `ctrl shift l`
+      - removed
     - _select down_ `ctrl shift j` `ctrl shift down`
     - _select up_ `ctrl shift k` `ctrl shift up`
     - _delete line_ `ctrl shift k`
       - removed
     - _select word left_ `ctrl shift alt h` `shift alt h` `ctrl shift left`
-    - _select word right_  `ctrl shift alt l` `shift alt l` `ctrl shift right`
-    - _select all matches_ `ctrl shift l`
+    - _select word right_ `ctrl shift alt l` `shift alt l` `ctrl shift right`
+    - _expand selection_ `ctrl s` `shift alt right`
+    - _save_ `ctrl s`
       - removed
+    - _shrink selection_ `ctrl shift s` `shift alt left`
+    - _save as_ `ctrl shift s`
+      - removed
+    - _duplicate selection_ `ctrl d`
     - add cursor `alt click`
-    - _add cursor below_ `ctrl shift alt j` `shift alt j` `ctrl shift down`
-    - _add cursor above_ `ctrl shift alt k` `shift alt k` `ctrl shift up`
+    - _add cursor below_ `ctrl alt j` `ctrl shift alt j` `ctrl shift down`
+    - _add cursor above_ `ctrl alt k` `ctrl shift alt k` `ctrl shift up`
     - reset cursor `esc`
     - _move line down_ `alt j` `alt down`
     - _move line up_ `alt k` `alt up`
     - _insert line below_ `shift enter`
     - _insert line above_ `ctrl shift enter`
-    - _duplicate selection_ `ctrl d`
+    - _delete to word start_ `ctrl backspace`
+    - delete to word end `ctrl delete`
   - - _indent line_ `tab` `ctrl ]`
     - _outdent line_ `shift tab` `ctrl [`
     - _tab_ `tab`

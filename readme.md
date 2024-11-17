@@ -71,11 +71,11 @@
   - never gonna give you up (rick astley)
   - internet overdose (aiobahn & kotoko & needy girl overdose)
   - burning desires (burnice & zzz studio & hoyo mix)
-  - thou away from oi (menci & wxh010910 & yan qval & krydom & niro bc & wer key tom_ftd & \_\_stdcall & created_equal & whzzt & wy1627)
   - sky (beyond)
+  - thou away from oi (menci & wxh010910 & yan qval & krydom & niro bc & wer key tom_ftd & \_\_stdcall & created_equal & whzzt & wy1627)
+  - counter-clockwise clock (kafka & jay chou)
   - story of time (luo da you)
   - fu shi shan xia (eason chan)
-  - counter-clockwise clock (jay chou)
   - love before bc (jay chou)
   - fleet of time (faye wong)
   - kletka (molchat doma)
@@ -91,6 +91,7 @@
   - downton abbey (2010)
   - the chorus (2004)
   - the phantom of the opera (2004)
+  - the graduate (1967)
   - reply 1988 (2015)
   - your name. (2016)
   - how to make millions before grandma dies (2024)
@@ -241,7 +242,7 @@
   - javascript weekly & css tricks & codepen spark
   - slashdot opensource & solidot software games idle & howie6879 weekly
   - reddit old & nga bbs
-  - zhihu & v2ex creative & rebang
+  - zhihu & v2ex creative & howie6879 weekly & rebang
   - genius & poetry foundation
   - codeforces & libre oj & vijos & xjoi
   - luogu blog & travellings & foreverblog
@@ -333,6 +334,7 @@
   - hakim el hattab & web dev & design
   - hu jiaying ldhs & sports girl
   - hu qianling djhs & tart english teacher life
+  - huang chenghui lciop cr & spark
   - huang zhizhong & debate
   - hui xinyu djhs & exam champion
   - interpreter gavin & gi english
@@ -359,6 +361,7 @@
   - livid & v2ex founding
   - longbow flintlock
   - lu jianhong djhs & english culture
+  - luca florio & fresh programmer guide
   - lv fuyuan djhs
   - lv yirong ldhs qbhs & exam champion
   - magicalflower codeforces
@@ -367,15 +370,15 @@
   - menci codeforces & oi wiki writing & libre oj founding
   - mike mirzayanov & codeforces founding
   - mohamad light cr
-  - mr marmot & art institute & wojaks
+  - mr marmot & chinese wojaks
   - mr yu ceo & physics
-  - nat friedman & github ceo & venture capital
+  - nat friedman & github ceo & venture capital founding
   - nicholas wei bro mihoyo
-  - nova lciop cr
   - old bai sleepwalked waifu vr
   - old ocean tubber mihoyo
   - old skilled tofu
   - one math
+  - pan tianhong tim & pan shuimiao & mediastorm founding
   - paperclip
   - paul graham paulg & y combinator hacker news founding
   - pea3nut peadar
@@ -388,7 +391,7 @@
   - richard bs
   - right that asd mihoyo
   - rodrigo pombo pombus
-  - ruan yifeng ruanyf & tech enthusiast
+  - ruan yifeng ruanyf & tech enthusiast weekly founding
   - science fictional lycium chinense
   - shen ruochen djhs
   - shen tongjun djhs & kind headmaster life
@@ -397,6 +400,7 @@
   - sqr5's blog
   - tail tail desu
   - tamicake1479 cr
+  - teli & video buddy founding
   - theo browne & web dev & production practice
   - tim qian & indie dev
   - timochan

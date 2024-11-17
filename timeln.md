@@ -8166,7 +8166,7 @@ lost in thoughts...
 
 get up.
 
-去窗台看,djhs的草坪上有机器运行.
+去窗台看,djhs 的草坪上有机器运行.
 
 `writing` `concept`
 
@@ -8182,7 +8182,7 @@ watching df guide vid.
 
 还是玩大战场吧...池鱼思故渊了.
 
-"我这边没啥竞争,高二的时候,身边的同学玩df,周末一天八个小时,我因为只玩大战场,压力小很多"
+"我这边没啥竞争,高二的时候,身边的同学玩 df,周末一天八个小时,我因为只玩大战场,压力小很多"
 
 ## 20241110
 
@@ -8228,7 +8228,7 @@ watching key725 df live.
 
 读 integer overflow
 
-挂着key的直播.
+挂着 key 的直播.
 
 "这把补偿局,下把继续碰挂"
 
@@ -8236,13 +8236,13 @@ watching key725 df live.
 
 所以我还是玩大战场吧.
 
-(想起之前玩pubgm metro royale,对比这个游戏的撤离点规则)
+(想起之前玩 pubgm metro royale,对比这个游戏的撤离点规则)
 
 (更坚定了)
 
 "???"
 
-"还有sm"
+"还有 sm"
 
 "没主播叫得好听"
 
@@ -8269,7 +8269,7 @@ https://discourse.xinyoudui.com/c/163-category/163
 
 https://xinyoudui.com/
 
-啊?xjoi也商业化了? (参考archiveorg)
+啊?xjoi 也商业化了? (参考 archiveorg)
 
 05:10
 
@@ -8298,7 +8298,7 @@ and today's plan
 
 get up.
 
-had some great breakfast. 
+had some great breakfast.
 
 (noodle with scallion oil)
 
@@ -8326,7 +8326,7 @@ team 2
 - bronya
 - fu xuan
 
-not leveled up. this is the furthest i could go 
+not leveled up. this is the furthest i could go
 
 16:53
 
@@ -8356,7 +8356,7 @@ sr. pure fiction stage 2.
 
 failed again. although no so much rewards i will try again.
 
-it's close. i reached 57000. i will upgrade some stats 
+it's close. i reached 57000. i will upgrade some stats
 
 and i could work out.
 
@@ -8396,7 +8396,7 @@ writing voyagejs...
 
 sync phone. simplelive autoplaying.
 
-"加持良治ovo:我这一下午就死了一把,想死兄弟们,能不能狙击我啊,有人给主播上强度吗"
+"加持良治 ovo:我这一下午就死了一把,想死兄弟们,能不能狙击我啊,有人给主播上强度吗"
 
 22:xx
 
@@ -8404,10 +8404,10 @@ sync phone.
 
 remote: Repo size: 1059.934MB, exceeds quota 1024MB
 remote: You only have 3 push opportunities
-remote: HelpLink:      https://gitee.com/help/articles/4232
+remote: HelpLink: https://gitee.com/help/articles/4232
 remote: Repository GC: https://gitee.com/firavoyage/memories/settings#git-gc
 To https://gitee.com/firavoyage/memories.git
-   48527cb..17f6463  master -> master
+48527cb..17f6463 master -> master
 
 cleared history and done.
 
@@ -8437,7 +8437,7 @@ watching df live
 
 key725:
 
-我塔克夫播了六年三十万粉,三角洲播了一个月42万粉.
+我塔克夫播了六年三十万粉,三角洲播了一个月 42 万粉.
 
 12:xx
 
@@ -8514,9 +8514,9 @@ peeked wakatime.
 
 `weather`
 
-薯片好干哦...可能是买了超级分享包的缘故qwq...
+薯片好干哦...可能是买了超级分享包的缘故 qwq...
 
-或者是太困了,昨晚5点睡的...
+或者是太困了,昨晚 5 点睡的...
 
 出去吃点水果.
 
@@ -8530,7 +8530,7 @@ peeked wakatime.
 
 以后吃点红茶和黑巧克力,**平常心**.
 
-本来以为现在1点多了,竟然还没入夜...
+本来以为现在 1 点多了,竟然还没入夜...
 
 ## 20241112
 
@@ -8540,7 +8540,7 @@ watched df simplelive. added some sub.
 
 played df war mode.
 
-*sleep.*
+_sleep._
 
 tomorrow
 
@@ -8559,10 +8559,10 @@ weekend
 
 so tired...
 
-**even didnt** 
+**even didnt**
 
-- release voyagejs 
-- watch lucky star 
+- release voyagejs
+- watch lucky star
 - or play df
 
 sleep?
@@ -8573,7 +8573,7 @@ released voyagejs.
 
 02:13
 
-watched 
+watched
 
 - mediastorm about the decline of vid quality
 - on acfun.
@@ -8581,13 +8581,13 @@ watched
 再强的画面提升,不如一个明暗对比滤镜.
 
 - pixiv 背影高光
-- "没见过怎么高的画质!" amv剪辑
+- "没见过怎么高的画质!" amv 剪辑
 
 02:55
 
 暮年女孩半夜出来,脚步声.
 
-好像给我断网了qwq,不过我也不需要啊!
+好像给我断网了 qwq,不过我也不需要啊!
 
 也不困了,白天要那么多精神也没用.
 
@@ -8595,7 +8595,7 @@ watched
 
 醒了也最多翻翻百年孤独,不可能做英语或者数学吧,那个地方.
 
-看一集lucky star... 或者再写点voyagejs.
+看一集 lucky star... 或者再写点 voyagejs.
 
 03:32
 
@@ -8663,25 +8663,25 @@ IanJiang
 
 430 人赞同了该回答
 
-nextjs一把撸到底。
+nextjs 一把撸到底。
 
-刚开始用户量小，功能迭代快，数据库配noSQL系。
+刚开始用户量小，功能迭代快，数据库配 noSQL 系。
 
-画页面记得上tailwindcss，如果你没几年css功底。然后组件的话，shadcn UI直接复制粘帖组件到页面。
+画页面记得上 tailwindcss，如果你没几年 css 功底。然后组件的话，shadcn UI 直接复制粘帖组件到页面。
 
-auth.js也可以上如果自己懒得写登陆注册。
+auth.js 也可以上如果自己懒得写登陆注册。
 
-邮件服务用resend。
+邮件服务用 resend。
 
-基本上建个小网站目前算ts路线最快的堆砌路线。
+基本上建个小网站目前算 ts 路线最快的堆砌路线。
 
-如果还要配app，react-native也加上。
+如果还要配 app，react-native 也加上。
 
 最后再学好英语，就可以出海找活了。
 
 (comments)
 
-目前最具性价比的全栈路线是啥？ 惊现AI洗稿，给我来了个同义扩写是吧？？ (op)
+目前最具性价比的全栈路线是啥？ 惊现 AI 洗稿，给我来了个同义扩写是吧？？ (op)
 
 https://www.zhihu.com/question/594662421/answer/3596086608
 
@@ -8691,7 +8691,7 @@ https://www.zhihu.com/question/594662421/answer/3596086608
 
 (view)
 
-ai洗稿早已不足为奇,不过是第一次见到喵.
+ai 洗稿早已不足为奇,不过是第一次见到喵.
 
 22:11
 
@@ -8719,7 +8719,7 @@ Visual Studio 2022 的 C++ 代码自动格式化。
 
 `swimming`
 
-VS Code凭什么如此受欢迎?
+VS Code 凭什么如此受欢迎?
 
 gookeryoung
 
@@ -8727,13 +8727,13 @@ gookeryoung
 
 亲爹有钱，可以请设计模式大佬来亲自操刀。
 
-亲爹有钱，可以请安德斯大佬来加持js，再雇团队魔改js性能瓶颈代码。
+亲爹有钱，可以请安德斯大佬来加持 js，再雇团队魔改 js 性能瓶颈代码。
 
 亲爹有钱，可以无限免费跨平台给大家白嫖。
 
-亲爹有钱，可以官方提供remote ssh等杀手级插件，全部免费。
+亲爹有钱，可以官方提供 remote ssh 等杀手级插件，全部免费。
 
-亲爹有钱，可以收购github，账户和vsc双向绑定使用，免费。
+亲爹有钱，可以收购 github，账户和 vsc 双向绑定使用，免费。
 
 重点是，亲爹。
 
@@ -8785,7 +8785,7 @@ wolfram alpha origami.
 
 `swimming`
 
-家长们，你们认为孩子沉迷游戏严重还是沉迷Linux严重呢？
+家长们，你们认为孩子沉迷游戏严重还是沉迷 Linux 严重呢？
 
 北纬
 
@@ -8801,7 +8801,7 @@ as the Night’s, Reincarnation
 
 playing sr.
 
-查了下记录,adventurine垫了60发了.
+查了下记录,adventurine 垫了 60 发了.
 
 不出算了.不过追击队不错.
 
@@ -8821,7 +8821,7 @@ playing sr.
 
 too late. so tired. body muscle ache (maybe due to craftmanship practice).
 
-forced to 
+forced to
 
 **sleep.**
 
@@ -8829,11 +8829,11 @@ forced to
 
 `swimming`
 
-刷不完,根本刷不完qwq...
+刷不完,根本刷不完 qwq...
 
-根本没在看推荐页,就是一个话题,一堆贴子qwq...太多了,谁知道啊.
+根本没在看推荐页,就是一个话题,一堆贴子 qwq...太多了,谁知道啊.
 
-不打df了,不看lucky了,不写voyagejs了.必须睡了.
+不打 df 了,不看 lucky 了,不写 voyagejs 了.必须睡了.
 
 sleep.
 
@@ -8882,7 +8882,7 @@ team
 
 `gaming`
 
-sr. 
+sr.
 
 options and interfaces in divergent universe
 
@@ -8916,9 +8916,9 @@ constantly about max hp. every atk is about 6 digit dmg. fu xuan has 11000 hp.
 
 醒来,发现莫名其妙睡着了.
 
-开着mtf的节点.
+开着 mtf 的节点.
 
-大概是太困了. 
+大概是太困了.
 
 sleep.
 
@@ -8975,6 +8975,32 @@ changing code key shortcuts about cursor.
 `gaming`
 
 sr event stories autoplaying
+
+17:xx
+
+和60多,刚退休的地理班主任聊天.姓氏为戴
+
+在点都德 dim sum.
+
+说闽南话. 人住在厦门,来上海玩玩.
+
+20:xx
+
+去滨江.只有f,暮年少女和戴师爷喵.
+
+空旷,自然,形形色色的人类.
+
+观察或许是灵感,或许是心境.
+
+只穿一件.不是衬衫,是lee外套,塑料黑皮革,金属大纽扣喵.
+
+浦江风凉爽,有时听听上世纪师生回忆,有时听听 dev pod.
+
+扫来一辆,骑行滨江.
+
+22:xx
+
+行于归途. time for departure.
 
 ## 20241117
 
@@ -9052,13 +9078,13 @@ and playing sr unknownable domain.
 
 sr. unknownable domain.
 
-skeptors are so op. 
+skeptors are so op.
 
 never is my turn or enemies' turn.
 
 it's all skeptors' turn which is massive 7 digit dmg.
 
-**easy win** 
+**easy win**
 
 against new wolf boss.
 
@@ -9103,3 +9129,142 @@ took photos of them. exhibiting in living room.
 
 playing aruarian dance
 
+## 20241118
+
+00:26
+
+took a bath.
+
+i'm fully refreshed.
+
+00:52
+
+`dev`
+
+finished editing vscode shortcuts.
+
+`swimming`
+
+in youtube
+
+https://www.youtube.com/watch?v=zqe3UgOQErI
+
+lciop & spark. cr 2v2.
+
+00:59
+
+夫妻档.太好笑了... 钢铁直男.
+
+"我结算第六,你结算第几 huangchenhui!"
+
+"还给你狂起来了!"
+
+"你看清楚!"
+
+01:21
+
+finished watching huang chenghui and spark vid.
+
+01:24
+
+related vid:
+
+`fun` `gaming`
+
+2V2 LADDER WITH MOHAMED LIGHT!!!!!!!!
+
+by ryley cr
+
+(comments)
+
+Is this why 2v2 is down lol
+
+imagine chilling in 2v2 ladder and randomly match against the 2 best players in the world 💀
+
+😂😂😂
+
+The opponent in the first match noticed. Poor guy lmao
+
+One is no.1 and another is no.2 😂
+
+Lmao
+
+bruh💀
+
+Literally 😭😭😭
+
+Worst Nightmare 😂
+
+Double trouble
+
+LITERALLY the 2 best players Mohammed light top 1 in crl and ryley top 2 LOL
+
+Imagine beating them 😂😅
+
+2 finalists is wild
+
+01:28
+
+`music`
+
+still playing aruarian dance.
+
+inf loop.
+
+vid: Why are Indian men so "sex hungry"?
+
+(comments)
+
+Pinned by 宇宙编辑部
+@宇宙编辑部
+11 days ago
+大家好，我是大楠！首先感謝大家對頻道的喜歡，對於大家比較關心的幾個問題做一下說明 😀
+
+1，關於視頻當中的縮寫，實在是無奈之舉，這篇內容由於涉及問題比較敏感，出現了大量的 QJ 等敏感詞匯，YouTube 現在採用的是人工智能審核，一方面擔心會被限流，另一方面也擔心黃標問題，給大家造成的不便，深感抱歉！😶
+
+2，關於頻道的信息，基本都是來源於網絡，經過整理，篩選，重新組織的，沒有說是絕對的真相，只是抱著探討的想法，對一些社會問題或現象進行淺顯的八卦和分析，有任何不對或者淺薄的地方，歡迎大家批評指正 🤗
+
+3，正如第二條所說，這個頻道併不是什麼正經的官方媒體，所有觀點皆為拋磚引玉，我也相信，評論區會更精彩，歡迎大家進行各種觀點的碰撞，但請不要涉及人身攻擊，不然，我會拉黑的喲 🤪（哎呀，還是不要啦～）
+
+開頭提到的女醫生故事被輕描淡寫的帶過了，事實上，女醫生被發現的時候眼睛裡都是碎玻璃，整個臉都毀了，還有多處骨折是包含骨盆碎裂（骨盆是人體最硬的骨骼之一）甚至她的腿已經反折九十度，好幾十個人輪姦她，難以想像她有多痛苦？
+
+她在努力工作幫助別人，卻沒有任何人幫她，甚至隨便推出一個嫌疑人就想草草了事，到現在這個事情也沒有結束，醫院難道沒有監視器嗎？真的為印度政府和多數印度男性感到可悲，希望人們跟國際更重視這個議題，下面的英文是用 google 翻譯有錯誤請諒解 😢
+
+The story of the female doctor mentioned at the beginning was taken lightly. In fact, when the female doctor was found, her eyes were full of broken glass, her entire face was ruined, and there were multiple fractures including a broken pelvis (the pelvis is the human body) One of the hardest bones) Even her legs were bent ninety degrees. Dozens of people gang-raped her. It’s hard to imagine how painful it was for her?
+
+She is working hard to help others, but no one is helping her. She even casually introduces a suspect and wants to get rid of the problem. The matter is still not over yet. Doesn't the hospital have monitors? I really feel sad for the Indian government and most Indian men. I hope people and the world will pay more attention to this issue. The English below is translated using Google. Please forgive me for errors.😢
+
+強姦的本質是逞獸慾、而輪姦甚至殺害則是源於鄙視；
+看似兩性議題、本質上仍脫不了種姓制度在內的歷史。
+
+本質上仍脫不了種姓＋“父權” 在制度內的氾濫。
+
+02:35
+
+fixing readme... 
+
+sync tg and paper.
+
+`dev`
+
+getting on the new vim like hjkl nav shortcut.
+
+`swimming`
+
+in zhihu...
+
+plan:
+
+no nore gaming or bangumi today.
+
+`music`
+
+inf loop: aruarian dance
+
+lofi is great.
+
+02:50
+
+`swimming`
+
+in zhihu "如果影视飓风里的 tim 来自于普通家庭，那么他还会有今天的成就吗？"

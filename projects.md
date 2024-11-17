@@ -192,6 +192,7 @@
 > listen in solitude
 
 - features
+  - podcast in your language
   - minimal interface
   - sources converged
   - search engine powered
@@ -456,6 +457,11 @@
   - paragraphs to lines
   - cheetsheets takeaway
   - for fun not for rating
+- leverage
+  - knowledge is the only thing
+  - away from the excessive diversion time
+  - you learn you write you create
+  - without being pushed to make fun "zheng huo"
 - perspectives
   - dark mode
   - low opacity blockquote
@@ -980,9 +986,14 @@ for(i 1 10 j 10 100){A} //for(let i=1;i<=10;i++){for(let j=10;i<=100;j++){A}}
 > retro anime favor
 
 - tag based recommendation
+  - retro timeln archives
   - mihoyo doujin
   - indie projects
   - novel apps
+- retro
+  - mediastorm in 2017
+  - tech startup stories
+  - retro anime styles
 - stats improved
   - rating or stars
   - instead of count nums
