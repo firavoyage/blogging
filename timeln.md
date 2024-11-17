@@ -9008,3 +9008,15 @@ in shortcuts
 `gaming`
 
 completed sound hunt.
+
+13:36
+
+`dev`
+
+git/memories exceeded size limit
+
+splitted school folder. now
+
+- git/memories
+- git/school
+

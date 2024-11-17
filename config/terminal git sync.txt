@@ -15,6 +15,11 @@ git pull e master
 git add .
 git commit -m '.'
 git push -f e
+cd ../school
+git pull e master
+git add .
+git commit -m '.'
+git push -f e
 cd ../programs
 git pull e master
 git add .

@@ -720,7 +720,7 @@
 - `memories/perspective` cyber wanderer
 - `memories/insight` digital memokeeper
 - `memories/gaming` internet otaku
-- `memories/school` lifelong learner
+- `school` lifelong learner
 - `programs` programmer
 - `music` music lover
 - `fonts` typography enthusiast
