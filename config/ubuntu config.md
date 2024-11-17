@@ -3,9 +3,9 @@
 ## .
 
 - ubuntu 22
-- ubuntu 24 current
+- ubuntu 24 (current)
 
-## settings
+## `settings`
 
 ### appearance
 
@@ -114,63 +114,13 @@ sudo apt install gnome-shell-extension-prefs
 - -> `tmpfile&trash`
 - config `auto delete files after 30days`
 
-## softwares & updates
-
-- config source
-  - -> `/etc/apt/sources.list.d/`
-- disable `software updater popup`
-  ```
-  sudo apt-get remove update-notifier
-  ```
-- disable `auto update`
-  - -> `softwares & updates > other softwares`
-  - `*` `off`
-
-## flatpak
-
-- disable `auto update`
-  - -> `preferences`
-  - software updates `manual`
-
-## gnome tweaks
-
-- config `startup applications`
-  - chromium
-    - `env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/chromium_chromium.desktop /snap/bin/chromium %U`
-  - code
-    - `/usr/share/code/code %F`
-  - fcitx5
-    - `/usr/bin/fcitx5`
-  - vlc media player
-    - `env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/vlc_vlc.desktop /snap/bin/vlc %U`
-  - solanum
-    - `flatpak run org.gnome.Solanum`
-  - ssh key agent
-    - `/usr/bin/gnome-keyring-daemon --start --components=ssh`
-  - update notifier `off`
-
-## backup
-
-- config
-  - storage `local folder:backup`
-  - schedule
-    - -> `preferences`
-    - backup automatically `on`
-    - frequency `daily`
-    - keep `forever`
-
-## fonts
+### fonts
 
 - install fonts
   - -> `git/fonts`
-- config `system default fonts`
-  - -> `gnome tweaks > fonts`
-  - interface text `ubuntu sans`
-  - document text `noto sans cjk sc`
-  - monospace text `fira code`
 - config `preferred cjk fonts`
-  - ubuntu 22 -> `admin:///etc/fonts/conf.d/64-language-selector-prefer.conf`
-  - ubuntu 24 -> `admin:///etc/fonts/conf.d/64-language-selector-cjk-prefer.conf`
+  - (ubuntu 22) -> `admin:///etc/fonts/conf.d/64-language-selector-prefer.conf`
+  - (ubuntu 24) -> `admin:///etc/fonts/conf.d/64-language-selector-cjk-prefer.conf`
     ```xml
     <?xml version="1.0"?>
     <!DOCTYPE fontconfig SYSTEM "fonts.dtd">
@@ -207,13 +157,83 @@ sudo apt install gnome-shell-extension-prefs
     </fontconfig>
     ```
 
-## files
+## `software & updates`
+
+- config source
+  - -> `/etc/apt/sources.list.d/`
+- disable `software updater popup`
+  ```
+  sudo apt-get remove update-notifier
+  ```
+- disable `auto update`
+  - -> `softwares & updates > other softwares`
+  - `*` `off`
+
+## `software(flatpak)`
+
+- disable `auto update`
+  - -> `preferences`
+  - software updates `manual`
+
+## `gnome tweaks`
+
+- config `fonts`
+  - interface text `ubuntu sans`
+  - document text `noto sans cjk sc`
+  - monospace text `fira code`
+- config `mouse and touchpad`
+  - mouse middle click paste `off`
+  - accelerations `on`
+- config `appearance`
+  - styles `yaru`
+  - background `jellyfish`
+- config `windows`
+  - titlebar actions
+    - double click `toggle maximize`
+    - middle click `none`
+    - secondary click `menu`
+  - titlebar buttons
+    - maximize `off`
+      - use `super up` or `double click` instead
+    - minimize `on`
+    - placement `right`
+  - click actions
+    - attach modal dialogs `on`
+    - center new windows `on`
+    - window action key `super`
+    - resize with secondary click `off`
+  - window `focus on hover`
+    - raise windows when focused `off`
+- config `startup applications`
+  - chromium
+    - `env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/chromium_chromium.desktop /snap/bin/chromium %U`
+  - code
+    - `/usr/share/code/code %F`
+  - fcitx5
+    - `/usr/bin/fcitx5`
+  - vlc media player
+    - `env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/vlc_vlc.desktop /snap/bin/vlc %U`
+  - solanum
+    - `flatpak run org.gnome.Solanum`
+
+## `backup`
+
+- config
+  - storage `/backup`
+  - schedule
+    - -> `preferences`
+    - backup automatically `on`
+    - frequency `daily`
+    - keep `forever`
+
+## `files`
 
 - add templates
+  - -> `templates`
   - markdown.md
   - cpp.cpp
 
-## chromium
+## `chromium`
 
 - disable `new look`
   - ref https://snapcraft.io/docs/revisions https://snapcraft.io/docs/managing-updates
@@ -271,7 +291,7 @@ sudo apt install gnome-shell-extension-prefs
   - fixed-width `fira code`
   - mathematical `dejavu serif`
 
-## code
+## `code`
 
 - install
   - fix `fcitx compatibilty issue`
@@ -344,30 +364,34 @@ sudo apt install gnome-shell-extension-prefs
     - view symbols in all files `ctrl t`
   - - run code `ctrl r`
     - stop running `ctrl c`
-  - - skip to next word `ctrl left|right`
+  - - point to next word `ctrl left|right`
     - scroll page `ctrl up|down`
+  - - _indent line_ `tab`
+    - _outdent line_ `shift tab`
+    - _tab_ `tab`
+      - removed
+  - - indent line `ctrl ]`
+    - outdent line `ctrl [`
   - - select letters `shift left|right`
     - select words `ctrl shift left|right`
     - select lines `ctrl l`
     - select blocks `shift alt left|right`
-  - - go to line `ctrl g`
-  - - _find all references_ `ctrl shift r`
-  - - add cursor above `ctrl shift up`
+  - - add cursor `alt click`
+    - add cursor above `ctrl shift up`
     - add cursor below `ctrl shift down`
-    - add cursor anywhere `alt click`
     - reset cursor `esc`
   - - _duplicate selection_ `ctrl d`
     - move line up `alt up`
     - move line down `alt down`
     - _insert line below_ `shift enter`
-  - - indent code `ctrl ]`
-    - unindent code `ctrl [`
   - - fold code `ctrl shift [`
     - unfold code `ctrl shift ]`
+  - - go to line `ctrl g`
+  - - _find all references_ `ctrl shift r`
   - - zoom in `ctrl +`
     - zoom out `ctrl -`
 
-## git
+## `git`
 
 - config github
   - ref https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls
@@ -376,7 +400,7 @@ sudo apt install gnome-shell-extension-prefs
 - use shortcuts
   - -> `git/blogging/config/git_shortcut.txt`
 
-## fcitx5
+## `fcitx5`
 
 - install app
   ```
@@ -430,7 +454,7 @@ sudo apt install gnome-shell-extension-prefs
 - use shortcuts
   - clipboard `ctrl ;`
 
-## thunderbird
+## `thunderbird`
 
 - config `mail`
   - zoho
@@ -439,7 +463,7 @@ sudo apt install gnome-shell-extension-prefs
   - qq
 - config `junk`
 
-## v2raya
+## `v2raya`
 
 - install dependence
   ```
@@ -464,15 +488,16 @@ sudo apt install gnome-shell-extension-prefs
       - https://raw.githubusercontent.com/mksshare/mksshare.github.io/main/README.md
     - https://github.com/chengaopan/AutoMergePublicNodes
       - https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.txt
-- mirrors
-  - githubraw.com
-  - raw.staticdn.net
-  - mirror.ghproxy.com
-  - raw.gitmirror.com
-  - raw.kkgithub.com
-  - raw.fastgit.org
+  - mirrors
+    - githubraw.com
+    - raw.staticdn.net
+    - mirror.ghproxy.com
+    - raw.gitmirror.com
+    - raw.kkgithub.com
+    - raw.fastgit.org
+  -
 
-## wine
+## `wine`
 
 - install
   ```
@@ -497,7 +522,7 @@ sudo apt install gnome-shell-extension-prefs
   winecfg
   ```
 
-## obs
+## `obs`
 
 - config `source`
   - mic/aux(pulseaudio)
@@ -507,7 +532,7 @@ sudo apt install gnome-shell-extension-prefs
   - output resolution `2560x1600`
   - frame rate `60fps //or 30fps`
 
-## goldendict
+## `goldendict`
 
 - install dictionaries
   - -> `Edit > Dictionaries`
@@ -562,7 +587,7 @@ sudo apt install gnome-shell-extension-prefs
 - use shortcuts
   - open screen word selector `ctrl c ctrl c`
 
-## vlc
+## `vlc`
 
 - config
   - -> `tools > preferences`
@@ -575,18 +600,18 @@ sudo apt install gnome-shell-extension-prefs
   - show notification popup on track change `never`
   - continue playback `never`
 
-## qbittorrent
+## `qbittorrent`
 
 - config trackers
   - -> `tools > preferences > bitorrent`
   - automatically add these trackers to new downloads `config/list_trackers.md`
 
-## terminal
+## `terminal`
 
 - install `oh-my-zsh`
 - set default `sudo chsh -s /bin/zsh`
 
-## apps
+## `apps`
 
 - install
   ```
@@ -595,6 +620,12 @@ sudo apt install gnome-shell-extension-prefs
   git config --global user.email "devvhy@zohomail.cn"
   git config --global push.autoSetupRemote true
   git config --global credential.helper store
+  sudo apt install cbonsai
+  sudo apt install cowsay
+  sudo apt install figlet
+  sudo apt install flatpak
+  sudo apt install fortune
+  sudo apt install gnome-software-plugin-flatpak
   sudo apt install gnome-tweaks
   sudo apt install goldendict
   sudo apt install imagemagick
@@ -603,6 +634,11 @@ sudo apt install gnome-shell-extension-prefs
   sudo apt install python3
   sudo apt install virtualbox
   sudo apt install zsh
+  sudo flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
+  sudo npm config set registry https://registry.npmjs.org/
+  sudo npm install -g @wenyan/cli
+  sudo npm install -g marked
+  sudo npm install -g terser
   sudo snap install android-studio
   sudo snap install blender --classic
   sudo snap install chromium --revision 2842
@@ -612,6 +648,7 @@ sudo apt install gnome-shell-extension-prefs
   sudo snap install gnome-boxes
   sudo snap install inkscape
   sudo snap install kdenlive
+  sudo snap install kolourpaint
   sudo snap install krita
   sudo snap install obs-studio
   sudo snap install qbittorrent-arnatious
@@ -619,13 +656,6 @@ sudo apt install gnome-shell-extension-prefs
   sudo snap install thunderbird
   sudo snap install v2raya
   sudo snap install vlc
-  sudo npm config set registry https://registry.npmjs.org/
-  sudo npm install -g @wenyan/cli
-  sudo npm install -g marked
-  sudo npm install -g terser
-  sudo apt install flatpak
-  sudo apt install gnome-software-plugin-flatpak
-  sudo flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
   ```
 - install code
   ```

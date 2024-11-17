@@ -733,6 +733,7 @@ voyage.run({
 // - and bind is only used inside component
 // - instead of bind(cid,sid,updater)
 // - use bind(updater)
+// - also replace other fn with cid and sid which only works in component
 // update is not normal updater
 // - state has a type between store and ref
 // - update only works for ref
@@ -753,7 +754,15 @@ voyage.run({
 // - separate public and private function
 // - clearer method name
 // - less typing
+// styling
+// - class based
+// - style alias
+// - nested style alias
+// - with or without default values
+// - style alias library
+// - define custom style alias
 // xhr
-// - impl elsewhere
+// - fetch in fp without promise
 // route
-// - impl elsewhere
+// - path and page component
+// - regex and custom decision function

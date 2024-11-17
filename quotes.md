@@ -2812,8 +2812,7 @@ auto battle. simple.
 
 這樣的老師 幾乎貫穿我在國內的13年教育😂 (op)
 
-## usenet
+## being linux user is being mtf
 
-想想看吧，已经有一百万只猴子坐在一百万台打字机旁，可Usenet就是比不上莎士比亚。--Blair Houghton
-
+根据我计算机竞赛的经验，沉迷 Linux 就是男娘的外在表现
 

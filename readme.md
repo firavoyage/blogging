@@ -41,7 +41,7 @@
   - reading & waifu pillow
   - gardening & origami & pixel art
   - math & algorithms
-  - functional programming & vanilla js
+  - functional programming & web dev
   - dark style & night light & low brightness
   - remembrance & finality
   - daydreaming & mind wandering
@@ -83,6 +83,7 @@
   - in solitude where we are least alone (2010)
   - worldend: what do you do at the end of the world? are you busy? will you save us? (2017)
   - tom and jerry classic collection (1940)
+  - jurassic world (2015)
   - joker (2019)
   - soul (2020)
   - life in a day (2011)
@@ -172,7 +173,7 @@
   - c++ primer plus sixth edition (stephen prata)
   - react learn docs (react commutity)
   - refactoring ui (adam wathan & steve schoger)
-  - gnome human interface guidelines (gnome)
+  - gnome human interface guidelines (gnome community)
   - clean code (robert c. martin)
   - goalkicker (stack overflow documentation)
   - hello algo (krahets)
@@ -288,11 +289,12 @@
   - ahdark & cs student life
   - akt animation mihoyo
   - andrew yang & humanity future
-  - anthony fu antfu & web dev
+  - anthony fu antfu & web dev & vue
   - arseniy chebynkin arsenixc & art
   - barack obama & humanity future
+  - black man cupid & street girls
   - blue striped rabbit
-  - brad traversy & web dev guide
+  - brad traversy & web dev & crash courses
   - cali castle & zolplay founding & game dev
   - cao yunfan djhs
   - caspar david friedric & art & wanderer above the sea of fog
@@ -300,14 +302,14 @@
   - chen liangzhou pink rabbit codeforces & gi
   - chen shiyu djhs & chinese allusions & kawaii waifu
   - chen suiyi chenbimo & web dev
-  - chen xiao origami
+  - chen xiao & origami
   - chen zhiwei ldhs djhs
   - chen zhiwei ldhs djhs & football clubmate
   - chen zihao
   - chino moca qiront
   - claude monet & art
   - cloudwu codingnow & dev
-  - coding startup & web dev
+  - coding startup & web dev & case studies
   - dai jiangqi codeforces & oi math champion
   - dan abramov overreacted & web dev
   - daughter's gamer mihoyo
@@ -320,7 +322,7 @@
   - dusk's rain in early winter sr
   - edmund d zhang
   - fabrice bellard & cpp
-  - fireship & web dev & js frameworks
+  - fireship & web dev & js frameworks & fast paced guide
   - foreman ma madugong & bedtime news
   - geek bay geekerwan
   - gennady vladimirovich korotkevich tourist codeforces & oi champion
@@ -342,7 +344,7 @@
   - jin yudong krahets & algorithms guide
   - jjying iconmoon & design
   - justyyuk doctor lai & algorithms
-  - kevin deng sanxiaozhizi & web dev
+  - kevin deng sanxiaozhizi & web dev & vue
   - kevin powell & web dev & only css
   - key725 df & white hair and crimson eye
   - kirikaze chiyuki chyk & cs school life
@@ -393,10 +395,10 @@
   - sqr5's blog
   - tail tail desu
   - tamicake1479 cr
-  - theo browne & web dev & production tutorial
-  - theo browne & web dev & production tutorial
+  - theo browne & web dev & production practice
   - tim qian & indie dev
   - timochan
+  - tomoko fuse & origami
   - trent walton & design
   - unfettered idle man
   - upright flies mihoyo
@@ -404,9 +406,9 @@
   - wang xiaofeng djhs
   - wang yining fira & dev
   - wang zhaohai djhs & math whiteboard
-  - web dev simplified & programming quick start
+  - web dev simplified & quick start
   - wen zhen djhs & dorm sarcasm
-  - wes bos & web dev
+  - wes bos & web dev & js 30
   - with.fish lz233
   - xia chuyun djhs
   - xie haotong ldhs & gifted math
@@ -421,11 +423,11 @@
   - yue fukang djhs
   - yuluer mihoyo
   - yunling sapphire & peer tutor life
-  - yunyoujun & web dev
+  - yunyoujun & web dev & popular mini apps
   - zhang chuanzhi ldhs & chemistry quizzes
   - zhang shuhao studyingfather & oi wiki writing
   - zhang xizhe djhs
-  - zhao jinjiang jiongks & web dev
+  - zhao jinjiang jiongks & web dev & vue
   - zhong fangyuan zhfany & oi
   - zhou ling djhs & kind class master life
   - zhou xuanyi & debate
@@ -668,6 +670,8 @@
 - 光阴者百代之过客
 - 夕阳忽西流
 - 怅然若失
+- 仙之人兮列如麻
+- 银瓶乍破水浆迸
 - 以我观物
 - 宁为玉碎
 - 肉食者鄙

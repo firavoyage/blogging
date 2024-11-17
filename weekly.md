@@ -15,14 +15,13 @@
 
 > _foresight_
 
-- add project comparison
-- write voyagejs
-- think svelte examples
-- think chakra & sr
+- write voyagejs with svelte examples
+- think chakra & sr component library
 - write pre app
 - design pure & intuitive foresight
 - watch lucky star
 - learn math & english
+- add project comparison
 - sync phone
 
 > _everyday_

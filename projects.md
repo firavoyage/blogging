@@ -47,6 +47,7 @@
   - content blocks
   - theme based
   - quick navigation
+  - auto page split
   - markdown local
   - minimal interface
   - portable format
@@ -674,11 +675,10 @@
   - sr styled brawl stars
 - game ideas
   - google doodles
-  - azurlane
-  - honkai star rail
-  - honkai impact third
-  - genshin impact
-  - zenless zone zero
+  - azurlane tiny games
+  - sr tiny games
+  - hi tiny games
+  - gi tiny games
   - itch.io
   - poki.net
   - fly me 2 the moon

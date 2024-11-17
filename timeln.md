@@ -8813,3 +8813,198 @@ playing sr.
 
 "I built a JS framework with a rich abstraction layer that automatically picks the best JS framework to use under the hood"
 
+02:14
+
+"根据我计算机竞赛的经验，沉迷 Linux 就是男娘的外在表现"
+
+02:31
+
+too late. so tired. body muscle ache (maybe due to craftmanship practice).
+
+forced to 
+
+**sleep.**
+
+03:02
+
+`swimming`
+
+刷不完,根本刷不完qwq...
+
+根本没在看推荐页,就是一个话题,一堆贴子qwq...太多了,谁知道啊.
+
+不打df了,不看lucky了,不写voyagejs了.必须睡了.
+
+sleep.
+
+7:xx
+
+get up.
+
+`dev`
+
+noticed that mistral ai updated again.
+
+"use @ to mention an agent..."
+
+14:50
+
+returned from craftmanship study
+
+constructed some geometry objects.
+
+using paper models.
+
+21:35
+
+`dev`
+
+still makeing geometry objects.
+
+mainly archimedean objects, using colorized paper.
+
+`gaming`
+
+playing sr. div universe.
+
+ordinary, tortorse protocol 3.
+
+every choice must be the best choice.
+
+team
+
+- topaz
+- dr ratio
+- sparkle
+- fu xuan
+
+21:42
+
+`gaming`
+
+sr. 
+
+options and interfaces in divergent universe
+
+are so beautiful... even of great elegance.
+
+`dev`
+
+**cant wait to finish writing voyagejs and start sr component library**
+
+22:07
+
+`gaming`
+
+playing sr div uni.
+
+lucky!
+
+boss:
+
+**argenti**
+
+i even didnt use herta. too much hp restore buff.
+
+constantly about max hp. every atk is about 6 digit dmg. fu xuan has 11000 hp.
+
+**easy win.**
+
+## 20241116
+
+00:10
+
+醒来,发现莫名其妙睡着了.
+
+开着mtf的节点.
+
+大概是太困了. 
+
+sleep.
+
+10:xx
+
+get up.
+
+11:54
+
+`dev` `craftmanship`
+
+making paper models
+
+`school`
+
+窗外,学校解草了. 是几个环卫工人.
+
+就在学工结束后一天.没有差错,时间不会骗人.
+
+**只需等待.**
+
+15:02
+
+`weather` `retro` `school`
+
+家中老女孩说
+
+她初中班主任来家访.
+
+"漳州一中".
+
+`craft`
+
+making paper models
+
+`gaming`
+
+playing sr.
+
+autoplaying event stories.
+
+16:40
+
+**time for departure**
+
+i mean, depart for supper.
+
+ok. just to eat out.
+
+`dev`
+
+changing code key shortcuts about cursor.
+
+`gaming`
+
+sr event stories autoplaying
+
+## 20241117
+
+3:xx
+
+sleep.
+
+10:xx
+
+awaken.
+
+11:31
+
+get up.
+
+`school`
+
+窗外,施工队.在篮球场边.
+
+13:15
+
+had lunch.
+
+`swimming`
+
+in shortcuts
+
+- jetbrains
+- vim
+
+`gaming`
+
+completed sound hunt.
