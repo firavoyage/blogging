@@ -13,7 +13,7 @@
 - an entrepreneur, developer, writer
 - grew up in shanghai
 - on the internet since 2016, which is my actual "home town"
-- live in djhs
+- live in djhs, california
 - working on voyage project
 
 ## desiderata
@@ -99,6 +99,7 @@
   - les misérables (2012)
   - call (2020)
   - 5 centimeters per second (2007)
+  - tenet (2020)
   - .evangelion (1995)
   - .tonikawa: over the moon for you (2020)
   - .my youth romantic comedy is wrong, as i expected (2011)
@@ -143,6 +144,7 @@
   - senren banka (2016)
   - sabbat of the witch (2015)
   - the rainbow appears after flowering rain (2016)
+  - .needy streamer overload (2022)
   - .the legend of zelda: ocarina of time (1998)
   - .the legend of zelda: breath of the wild (2017)
   - .the legend of zelda: tears of the kingdom (2023)
@@ -240,10 +242,9 @@
   - mistral le chat
   - ruanyf weekly & hacker news
   - javascript weekly & css tricks & codepen spark
-  - slashdot opensource & solidot software games idle & howie6879 weekly
-  - reddit old & nga bbs
   - zhihu & v2ex creative & howie6879 weekly & rebang
-  - genius & poetry foundation
+  - twitter & mastodon & slashdot & solidot
+  - reddit old & nga bbs & acgn.zone & 4chan
   - codeforces & libre oj & vijos & xjoi
   - luogu blog & travellings & foreverblog
   - bangumi.tv & my anime list
@@ -251,9 +252,10 @@
   - douban & goodread book
   - douban & imdb movie
   - google doodles & itch.io matrix67 & steam db
-  - hugging face & kaggle
+  - genius & poetry foundation
   - unsplash & pixiv & dribbble
   - product hunt all time
+  - hugging face & kaggle
 - - acheron
   - adventurine
   - akira kogami
@@ -300,6 +302,7 @@
   - brad traversy & web dev & crash courses
   - cali castle & zolplay founding & game dev
   - cao yunfan djhs
+  - carlyle hainz & mtf diary
   - caspar david friedric & art & wanderer above the sea of fog
   - change release mihoyo
   - chen liangzhou pink rabbit codeforces & gi
@@ -396,6 +399,7 @@
   - shen ruochen djhs
   - shen tongjun djhs & kind headmaster life
   - six divided chaochao & retro art
+  - sofish & web dev & design
   - spicy pidan porridge
   - sqr5's blog
   - tail tail desu
@@ -648,7 +652,7 @@
 - 念念不忘必有回响
 - 庄生晓梦迷蝴蝶
 - 且放白鹿青崖间
-- 惟江上之清风
+- 挟飞仙以遨游
 - 弱水三千取一瓢饮
 - 以有涯随无涯殆已
 - 举重若轻

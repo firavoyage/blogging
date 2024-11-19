@@ -1,5 +1,5 @@
-//20241119
-//voyagejs 0.23
+//20241114
+//voyagejs 0.22
 
 let voyage = {
   info: {},
@@ -728,39 +728,28 @@ voyage.run({
 // - sr component library for fun
 //
 // @todo
-// better and safer state
-// - instead of state=obj(initial)
-// - state={}
-// - state.v for the value
-// - state for the state obj carrying cid sid
-// bind auto anaylze factors
-// - ref -> not created -> get() -> info.factors[cid].push(sid)
-// - bind(fn,[factors]) -> a reducer like useMemo in react
-// - bind(fn) -> bind all info.factors and clear info.factors[cid]
-// bind only when necessary
-// - bind -> info.isStored[cid][sid] && current==cid -> dont bind anything
-// - as itself will updateComponent so details should be omitted
-// label updater
-// - customUpdater(reducer) -> updater(newValue){current;reducer(node,newv)}
-// - labelUpdater(label,reducer) -> updater(newValue){current;node[label]=reducer(newv)}
-// - {label:state} for bind single state
-// - {label:bind(fn,[factors])} or bind(fn) for bind reducer and states it uses
+// symbol method
+// - symbol(count) -> hash+count
+// - symbol(key) -> hash+key
+// - placeholder = symbol("placeholder")
+// update is not normal updater
+// - dont bind any updater after created
+// - dont care fn.name
+// - when create for the first time info[cid].created=false
+// - and bind everything
+// - then created=true bind nothing
+// macro @updater
+// - updateLabel(label,content,reducer)
+// - customUpd(node,content,reducer)
+// - c({label:state}) -> bind state to label
+// error handling
+// - select node failed -> just rm the cid
+// - no error occurs
 // macro poly
 // - more built in macro ("@model")
 // - @if @show
 // - macro(node,state)
 // - macro(node,content)
-// styling
-// - class based
-// - style alias
-// - nested style alias
-// - with or without default values
-// - style alias library
-// - define custom style alias
-// styling spec
-// - style class <- "a-1 b-2 c d e-221"
-// - style obj <- {style:value,style:value}
-// - defineStyle(style,styleObj fn(value) or fn()) 
 // dom methods abstract
 // - steal from jquery
 // - learn from common use case
@@ -770,6 +759,13 @@ voyage.run({
 // - separate public and private function
 // - clearer method name
 // - less typing
+// styling
+// - class based
+// - style alias
+// - nested style alias
+// - with or without default values
+// - style alias library
+// - define custom style alias
 // xhr
 // - fetch in fp without promise
 // route

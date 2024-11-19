@@ -403,6 +403,7 @@ sudo apt install gnome-shell-extension-prefs
     - _delete to word start_ `ctrl backspace`
     - delete to word end `ctrl delete`
   - - _indent line_ `tab` `ctrl ]`
+      - when `!hasNextTabstop && !suggestWidgetVisible`
     - _outdent line_ `shift tab` `ctrl [`
     - _tab_ `tab`
       - removed

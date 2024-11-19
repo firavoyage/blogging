@@ -396,7 +396,9 @@
   - symbolic interface & reduced control
   - word selection before memorization
   - anime characters & gptsovits
+  - passage generation
   - elegant word cards
+  - compound word filter
   - dynamic calendar & stats insight
   - pwa based
 - modes
@@ -406,8 +408,8 @@
   - quiz
   - spell
 - cards
-  - translation
-  - thesaurus
+  - translation & pronounciation & mis-
+  - thesaurus & related words
   - root and affix
   - explanation
   - example sentences
@@ -502,6 +504,22 @@
 - practice
   - workbook & textbook for the ordinary
   - challenge & notes for the gifted
+- idea
+  - the world is nothing but unordered observations
+  - also known as knowledge point
+  - which is same difficulty for each
+  - with proper division and reference
+- mode
+  - thanks to sponsors on github and patreon
+  - it could be pure knowledge 
+  - without the poor's desire of social class leap
+- self
+  - a bot reading lecture notes & answering questions
+  - a learner solving problems & writing wiki
+- mood
+  - prudence
+  - scepticism
+  - humbleness
 - foresight
   - all definitions
   - all theories without strict proof
@@ -565,26 +583,17 @@
   - neither is problem solving which could be like
   - completing puzzle games in our childhood
   - which is the pleasure of math challengers
-- idea
-  - the world is nothing but unordered observations
-  - also known as knowledge point
-  - which is same difficulty for each
-  - with proper division and reference
-- mode
-  - thanks to sponsors on github and patreon
-  - it could be pure knowledge 
-  - without the poor's desire of social class leap
-- repetition
-  - abstract expression
-  - at leisure
-  - elegance
-- self
-  - a bot reading lecture notes & answering questions
-  - a learner solving problems & writing wiki
-- mood
-  - prudence
-  - scepticism
-  - humbleness
+- mtf
+  - we all know
+  - maiden as a metaphor of stillness and tranquility
+  - and boy as a metaphor of rapidness and energy
+  - in problem solving people feels the sense of meditation
+  - perhaps this answers why the mtf dominate competitions
+- about chinese
+  - aka the rest of the world
+  - which must give up the idea of
+  - persisting in truth and staying against the fault asap
+  - as the world is never a black or white world
 - various themes
   - by voyage
 - inspired by
@@ -1011,7 +1020,7 @@ for(i 1 10 j 10 100){A} //for(let i=1;i<=10;i++){for(let j=10;i<=100;j++){A}}
 
 ### `fx`
 
-> arithmatic is beautiful | "数论推个屁打表找规律"
+> arithmatic is beautiful
 
 - features
   - using accurate form
@@ -1073,6 +1082,21 @@ for(i 1 10 j 10 100){A} //for(let i=1;i<=10;i++){for(let j=10;i<=100;j++){A}}
   - memoir of prosperity
   - promise of playboy
   - old ocean tubber
+
+## `imaginary`
+
+> desired urban street shops
+
+- features
+  - imaginary city shops
+  - bubble tea
+  - coffee
+  - fruit & vegetable
+- leverage
+  - build in public
+  - every choice is the best strategy
+- inspired by
+  - grocery markets
 
 ## `fira`
 

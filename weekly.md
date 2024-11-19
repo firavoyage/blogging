@@ -33,10 +33,10 @@
 - eat app
 - leisure app
 - float app
-- pure math contents
-- intuitive cpp contents
 - design system
 - project leverage
+- pure math contents
+- intuitive cpp contents
 
 > _weekend endeavour_
 
@@ -54,10 +54,12 @@
 - watch lucky star
 - watch evangelion
 - play senrenbanka
+- play df war mode
+- watch simplelive
 
 > _weekend enlightenment_
 
-- read ruanyf weekly & classify with tags
+- read ruanyf weekly & categorize
 
 > _school_
 
@@ -67,14 +69,13 @@
 
 > _after school_
 
-- read physics & chemistry beginner notes
 - memorize tem 8 vocabulary
-- play df war mode
+- read physics & chemistry beginner notes
 
 > _meanwhile_
 
 - sync phone
-- learn origami
+- do origami
 - listen to podcasts
 
 ## 20241113
