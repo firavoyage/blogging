@@ -9417,3 +9417,186 @@ tomorrow:
 - write voyagejs bind
 - watch lucky star
 
+## 20241121
+
+00:01
+
+`weather`
+
+it's freezing cold.
+
+turned on ac. heating mode at 26 centi.
+
+01:31
+
+still watched simplelive 
+
+tofu langrensha.
+
+"拟人局" "这能诗人?"
+
+**sleep.**
+
+21:05
+
+`gaming`
+
+sr div uni proto 6.
+
+boss: cirrus.
+
+team
+
+- fu xuan
+- aventurine
+- dr ratio
+- topaz.
+
+bad luck. random blessings and not even one 3 star eq is opened.
+
+too few dmg.
+
+even **berserk** on stage 2.
+
+wtf. finalized.
+
+21:37
+
+`gaming`
+
+started a new round or div uni.
+
+team unchanged.
+
+this time is with more luck.
+
+almost all blessings are based on the hunt or elation.
+
+other blessings are also good. no need to rewrite.
+
+**also, received a 3 star eq with 4500% based dmg.**
+
+**fu xuan has 12000, 13000, now 15535 hp! wtf. how could this happen!**
+
+oh! double **max hp boost: inc max hp by 80%**
+
+**wow fu xuan eventually has 17805 hp & all allies are above 10000 hp**
+
+1158 cosmic fragment currently possessing.
+
+22:05
+
+`gaming`
+
+playing sr div uni proto 6.
+
+**boss: the swarm**
+
+**luck is always with me.**
+
+every follow up delays enemy by 25% up to 3 times.
+
+**my turn, my turn, always my turn.**
+
+wow poor you still have 6000 dmg on stage 3! but fu xuan has more than 13000 hp.
+
+even didnt trigger talent.
+
+22:16
+
+`gaming` `ref` `important` `weather`
+
+it's really enjoyable watching this.
+
+**easy win.**
+
+received title: universe's end.
+
+team:
+
+- aventurine
+- fu xuan
+- dr ratio
+- topaz
+
+weighted curio: the hunt, harmony.
+
+equation (all expanded):
+
+- bionic messiah
+- disaster-halting machanism
+- bounty hunter
+- unsinkable
+- pacifist
+
+blessings obtained:
+
+- 3 preservation
+- 1 nihility
+- 5 abundance
+- 11 the hunt
+- 2 destruction
+- 11 elation
+- 2 propagation
+- 2 erudition
+
+curios obtained: 15.
+
+23:56
+
+`doujin`
+
+watched doujin.
+
+longbow flintlock eula.
+
+feeling great. this is true love.
+
+## 20241122
+
+00:00
+
+`dev`
+
+now i see. ever midnight the wifi fluctuates.
+
+maybe a forced sys restart.
+
+plan.
+
+watch lucky star at weekend.
+
+this will be a big voyagejs revision. write when i'm fully refreshed.
+
+17:59
+
+`music`
+
+playing haru no kaze by aoi teshima
+
+**haru no kaze**
+
+`gaming`
+
+df.
+
+新版本的 app icon 切成圆角了喵!
+
+渲染好像更清晰了,好多图片也更新了.
+
+zhang xizhe: 尘影aa (s1三角洲巅峰)
+
+zhou zhiyuan: 进击的到远 (s1统帅)
+
+他喜欢玩露娜和乌鲁鲁.玩m14和car15.
+
+这赛季打大战场,要上统帅.
+
+23:47
+
+`gaming`
+
+playing df war mode.
+
+今朝有酒今朝醉.
+

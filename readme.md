@@ -43,7 +43,7 @@
   - math & oi & unix porn & mtf pride
   - functional programming & web dev
   - dark style & night light & low brightness
-  - remembrance & finality
+  - arrangement & accumulation 
   - daydreaming & mind wandering
   - observation & reflection
   - dissociation & second person omniscient narration
@@ -655,7 +655,7 @@
 - 挟飞仙以遨游
 - 弱水三千取一瓢饮
 - 以有涯随无涯殆已
-- 举重若轻
+- 归去来兮
 - 今朝有酒今朝醉
 - 他日江湖相逢
 - 以神遇而不以目视
@@ -680,11 +680,8 @@
 - 光阴者百代之过客
 - 夕阳忽西流
 - 怅然若失
-- 仙之人兮列如麻
-- 银瓶乍破水浆迸
 - 以我观物
 - 宁为玉碎
-- 肉食者鄙
 - 民为贵社稷次之
 - 待到秋来九月八
 
@@ -759,6 +756,8 @@
 ## insight
 
 > _平常心_
+
+> _琐碎 / 如是五年后已忘却 / 举重若轻_
 
 > $good \space luck \space and \space have \space fun$
 

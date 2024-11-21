@@ -15,8 +15,8 @@
 
 > _foresight_
 
-- write voyagejs with svelte examples
-- think chakra & sr component library
+- write svelte examples with voyagejs
+- think chakra ui & sr component library
 - revise projects and add leverage
 - write pre app
 - design pure & intuitive foresight
@@ -27,16 +27,6 @@
 > _everyday_
 
 - return to digital homes al sr
-
-> _mind wandering_
-
-- eat app
-- leisure app
-- float app
-- design system
-- project leverage
-- pure math contents
-- intuitive cpp contents
 
 > _weekend endeavour_
 
@@ -64,13 +54,24 @@
 > _school_
 
 - play football
+- write math challenger & learn from answer
+- write english papers & check answer
 - read one hundred years of solitude
-- write english papers & math challenger
 
 > _after school_
 
 - memorize tem 8 vocabulary
-- read physics & chemistry beginner notes
+- read physics & chemistry notes
+
+> _mind wandering_
+
+- eat leisure float app design system 
+- component library
+- project leverage
+- aventurine's trick cards
+- pure math contents
+- intuitive cpp contents
+- math challenges
 
 > _meanwhile_
 

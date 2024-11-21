@@ -452,12 +452,11 @@
 > -> /pure
 
 - features
-  - wiki based
-  - symbolic language
-  - courses printable
-  - methods in lightcones
-  - paragraphs to lines
-  - cheetsheets takeaway
+  - libre math wiki
+  - learn anytime anywhere
+  - printable courses
+  - trick cards and cheetsheets
+  - list based textbook in symbolic language
   - for fun not for rating
 - leverage
   - knowledge is the only thing
@@ -483,8 +482,12 @@
 - quick start
   - 40min hs math foresight
   - 400min master hs math
-- libre hs math wiki
-  - all math theories list
+- self
+  - hey fira here
+  - what you see is my puppet
+  - in the so called reality
+  - and i'm teaching him math
+  - *yawn* he's so stupid
 - daily
   - comment thread of the day
   - daily problems a & b
@@ -690,10 +693,10 @@
   - sr styled brawl stars
 - game ideas
   - google doodles
-  - azurlane tiny games
-  - sr tiny games
-  - hi tiny games
-  - gi tiny games
+  - al mini games
+  - sr mini games
+  - hi mini games
+  - gi mini games
   - itch.io
   - poki.net
   - fly me 2 the moon
