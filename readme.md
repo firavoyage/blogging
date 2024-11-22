@@ -43,9 +43,9 @@
   - math & oi & unix porn & mtf pride
   - functional programming & web dev
   - dark style & night light & low brightness
-  - arrangement & accumulation 
-  - daydreaming & mind wandering
+  - arrangement & accumulation
   - observation & reflection
+  - daydreaming & mind wandering
   - dissociation & second person omniscient narration
 - - hotel california (eagles)
   - wind of change (scorpions)
@@ -639,6 +639,10 @@
   - live in the future and build what's missing
 - a ship in harbor is safe
   - but that is not what ships are built for
+- if it looks like a duck
+  - swims like a duck
+  - and quacks like a duck
+  - then it probably is a duck
 - soli deo gloria.
   - god is light, and in him there is no darkness at all.
   - if we say we have fellowship with him yet walk in the darkness, we lie and do not practice the truth.

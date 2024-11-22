@@ -130,18 +130,22 @@
 
 ### `material`
 
-> the workshop for influencers
+> the elegant image tool
 
 - template
   - share videos and posts as cards
   - image library for memes
 - automation
-  - all controls are javascript methods
-  - minify and svgify
+  - everything is a javascript method
+- revise
+  - svgify
+  - minify
+  - mosiac with geometry shapes 
+  - obfuse with fictional typography
+- filter
+  - line stroke impression
+- scripts
   - remove watermark
-  - mosiac with abstract shapes and unworldly symbols
-- svg editor
-  - simple
 - local based
   - content editable json format
   - in app update
@@ -149,9 +153,11 @@
 - various themes
   - by voyage
 - inspired by
-  - canva
   - snapseed
+  - canva
   - zzkia
+  - gimp
+  - pinta
 
 ### `gen`
 
@@ -381,8 +387,8 @@
 - various themes
   - based on voyage
 - inspired by
+  - fandom
   - amazon
-  - wikipedia
   - globe
   - fav
 
@@ -418,7 +424,6 @@
   - difficulty
 - source
   - chatgpt & mistral ai
-  - wikipedia
   - github
   - cambridge
   - collins
@@ -479,21 +484,28 @@
 - material for self learning
   - notes
   - workbooks
-- quick start
-  - 40min hs math foresight
+- foresight
+  - 40min hs math quick start
   - 400min master hs math
+  - all definitions
+  - all theories without strict proof
+  - some conclusions with template problems
+  - uee paper scan
+  - each scene lasts at least 5 sec
+  - to screen the gifted ones
 - self
   - hey fira here
   - what you see is my puppet
   - in the so called reality
   - and i'm teaching him math
   - *yawn* he's so stupid
+  - ...
+  - hello f. i'm your past.
+  - i failed hs math at hs.
+  - childhood retro: hs math made simple stupid
 - daily
   - comment thread of the day
   - daily problems a & b
-- retro
-  - childhood retro: hs math made simple stupid
-  - hello f. i'm your past.
 - anime style
   - lucky star transition scene
   - blue archive group discussion
@@ -512,10 +524,6 @@
   - also known as knowledge point
   - which is same difficulty for each
   - with proper division and reference
-- mode
-  - thanks to sponsors on github and patreon
-  - it could be pure knowledge 
-  - without the poor's desire of social class leap
 - self
   - a bot reading lecture notes & answering questions
   - a learner solving problems & writing wiki
@@ -523,11 +531,6 @@
   - prudence
   - scepticism
   - humbleness
-- foresight
-  - all definitions
-  - all theories without strict proof
-  - some conclusions by problems
-  - uee paper guide
 - challenge
   - problems are only given
   - when you have a chance to work it out
@@ -600,11 +603,9 @@
 - various themes
   - by voyage
 - inspired by
-  - yunling sapphire
-  - mr yu teaching physics
-  - one math
-  - math bu
-  - math contest fei bro
+  - wikipedia
+  - fandom
+  - oi wiki
 
 ### `intuitive`
 
@@ -685,7 +686,6 @@
   - 20min master cpp/py/js (one lucky star episode)
   - 45min algorithms foresight (one football match)
   - 400min master oi
-  - fast paced, to screen delicate learners
 - wonders
   - all algorithms list
   - adventurine's coins (imo 2010 p5)

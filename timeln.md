@@ -9552,7 +9552,7 @@ longbow flintlock eula.
 
 feeling great. this is true love.
 
-## 20241122
+## 20241121
 
 00:00
 
@@ -9600,3 +9600,38 @@ playing df war mode.
 
 今朝有酒今朝醉.
 
+## 20241122
+
+14:xx
+
+踢球,高一踢高二
+
+打了个10:1.
+
+qwq
+
+18:51
+
+`dev`
+
+好卡啊!wifi也永远连不上...
+
+然后打一个字,要等个一两秒...
+
+chromium咋闪退了...
+
+应该是哪个程序内存泄露了,因为我电脑从不关机...
+
+neofetch了一下,已经连续开机12天了.
+
+如果是arch大概没事了吧...
+
+虽然重启就解决了,每次都这样,boring...
+
+19:16
+
+`dev`
+
+looking into mistral le chat noir new ui
+
+logo seems smaller which makes me feel my screen is larger

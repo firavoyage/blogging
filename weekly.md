@@ -65,7 +65,8 @@
 
 > _mind wandering_
 
-- eat leisure float app design system 
+- eat leisure float material
+- app design system 
 - component library
 - project leverage
 - aventurine's trick cards
