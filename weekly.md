@@ -26,7 +26,7 @@
 
 > _everyday_
 
-- return to digital homes al sr
+- return homes al sr
 
 > _weekend endeavour_
 

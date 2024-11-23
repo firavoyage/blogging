@@ -107,12 +107,12 @@
   - .your lie in april (2014)
   - .a certain scientific railgun (2009)
   - .re: zero - starting life in another world (2016)
+  - .bakemonogatari (2009)
   - .frieren: beyond journey's end (2023)
   - .bang dream! it's mygo!!!!! (2023)
   - .bocchi the rock (2022)
   - .girls band cry (2024)
   - .oshi no ko (2023)
-  - .bakemonogatari (2009)
   - .school days (2007)
   - .scum's wish (2017)
   - .the big bang theory (2007)
@@ -239,7 +239,7 @@
   - internet archive wayback machine & archive.today
   - google
   - youtube
-  - mistral le chat
+  - mistral le chat & awesome gpt prompts
   - ruanyf weekly & hacker news
   - javascript weekly & css tricks & codepen spark
   - zhihu & v2ex creative & howie6879 weekly & rebang
@@ -667,12 +667,13 @@
 - 为者败之执者失之
 - 命里有时终须有
 - 鸢飞戾天者望峰息心
-- 木已成舟
+- 焉知非福
 - 池鱼思故渊
 - 锦瑟无端五十弦
 - 春风若有怜花意
 - 欲买桂花同载酒
 - 当时只道是寻常
+- 木已成舟
 - 江畔何人初见月
 - 年年岁岁花相似
 - 花开堪折直须折
@@ -698,8 +699,9 @@
   - `florio` advice for the programming ride
   - `reflections` memories of the fellows
 - ideas
-  - `projects` endeavours worthwhile
-  - `mistral` gamut of mistral ai
+  - `projects` worthwhile endeavours 
+  - `mistral` observation exchangement with ai
+  - `prompts` to unfold the gamut of ai
   - `wisdom` foresights and references
   - `quotes` perspective and thoughts
   - `idioms` lines and memes just for fun
@@ -708,9 +710,10 @@
 - self
   - `weekly` weekly plans at each time
   - `timeln` personal discoveries and thoughts
+  - `chinese` to reason the highhanded society
   - `djhs` wax and wane of school life
-  - `email` way to contact me
   - `swim` libre internet guide
+  - `email` to contact me
 - config
   - $\to \text{/config}$
   - `ubuntu config` elegant work flow

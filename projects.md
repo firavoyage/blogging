@@ -461,7 +461,7 @@
   - learn anytime anywhere
   - printable courses
   - trick cards and cheetsheets
-  - list based textbook in symbolic language
+  - note list textbook in symbolic language
   - for fun not for rating
 - leverage
   - knowledge is the only thing
@@ -501,8 +501,10 @@
   - *yawn* he's so stupid
   - ...
   - hello f. i'm your past.
-  - i failed hs math at hs.
-  - childhood retro: hs math made simple stupid
+  - childhood retro: hs math
+  - ...
+  - god is defined as one's desire
+  - which is the power of reshaping the world
 - daily
   - comment thread of the day
   - daily problems a & b
@@ -1014,6 +1016,7 @@ for(i 1 10 j 10 100){A} //for(let i=1;i<=10;i++){for(let j=10;i<=100;j++){A}}
 - fully controlled
   - black list enhanced
   - comment sorting
+  - danmaku filter rules
 - various themes
   - by voyage
 - insprired by
