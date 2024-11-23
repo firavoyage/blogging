@@ -255,7 +255,7 @@ sudo apt install gnome-shell-extension-prefs
   - -> `customize chromium`
   - show shortcuts `off`
 - import bookmarks
-  - -> `git/blogging/config/chromium_bookmarks.html`
+  - -> `git/blogging/config/chromium bookmarks.html`
 - import passwords `git/blogging/config/chromium_passwords.zip`
 - config extensions
   - justblack https://chromewebstore.google.com/detail/just-black/aghfnjkcakhmadgdomlmlhhaocbkloab
@@ -346,7 +346,7 @@ sudo apt install gnome-shell-extension-prefs
       }
       ```
 - config user snippets
-  - -> `git/blogging/config/cpp.code-snippets`
+  - -> `git/blogging/config/config cpp.code-snippets`
   - -> `file > preferences > configure snippets`
 - use shortcuts
   - -> `file > preferences > keyboard shortcuts` `ctrl shift p open keyboard shortcuts json`
@@ -429,8 +429,12 @@ sudo apt install gnome-shell-extension-prefs
   - ref https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls
 - config gitee (github mirror)
   - use username and password
+- config zshrc
+  - -> `~/.zshrc`
+  - -> `git/blogging/config/terminal zshrc.txt` 
 - use shortcuts
-  - -> `git/blogging/config/git_shortcut.txt`
+  - -> `git/blogging/config/terminal git shortcut.txt`
+  - `push` sync all git repos
 
 ## `fcitx5`
 
@@ -511,7 +515,7 @@ sudo apt install gnome-shell-extension-prefs
   passwd `firafira`
   ```
 - config `proxy only gfwlist` or `proxy except cn sites`
-- config nodes
+- config proxy nodes
   - ref `git/blogging/swim.md`
   - repos
     - https://github.com/aiboboxx/v2rayfree

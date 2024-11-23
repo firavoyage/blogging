@@ -9756,6 +9756,20 @@ listed some math theories.
 
 solved some math problems.
 
+18:xx
+
+`dev`
+
+android phone bug.
+
+sr game become straight direction...
+
+and it's like a layer covering desktop...
+
+restart could solve it. 
+
+**but it seems that all linux based system is buggy...**
+
 19:xx
 
 had supper.
@@ -9774,5 +9788,52 @@ testing mistral ai again.
 
 > (warning) Content may contain harmful or sensitive material
 
-...
+finding awesome prompts
 
+21:32
+
+mistral ai can hide side panel!
+
+**great feature**
+
+21:36
+
+`gaming`
+
+playing sr.
+
+i need to clear 3 star adventure for 2 times.
+
+failed trotter catch using acheron...
+
+**failed and failed and failed again.**
+
+i thought i couldnt make it done without a sprinting character.
+
+**succeeded with topaz**
+
+wow i forgot topaz can attract trotters...
+
+22:53
+
+playing text rpg with mistral...
+
+> use the candle to fire the door
+
+> (warning) Content may contain harmful or sensitive material
+
+> hit the stone wall hard with head and kill myself
+
+> (alert) In crisis and need to talk to someone? [Find help near you.](https://befrienders.org/)
+
+23:03
+
+`swimming`
+
+searching other useful prompts
+
+https://www.google.com/search?q=prompts&oq=prompts&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiPAjIHCAIQABiPAjIGCAMQRRg8MgYIBBBFGDwyBggFEEUYPDIGCAYQRRg80gEIMjU1N2owajeoAgCwAgA&client=ubuntu-chr&sourceid=chrome&ie=UTF-8
+
+wow!
+
+**google gemini on search page!**

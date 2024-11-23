@@ -690,6 +690,14 @@
 - 民为贵社稷次之
 - 待到秋来九月八
 
+## beauty
+
+- single responsibility principle
+- open–closed principle
+- liskov substitution principle
+- interface segregation principle
+- dependency inversion principle
+
 ## erudition
 
 - people
@@ -699,7 +707,7 @@
   - `florio` advice for the programming ride
   - `reflections` memories of the fellows
 - ideas
-  - `projects` worthwhile endeavours 
+  - `projects` worthwhile endeavours
   - `mistral` observation exchangement with ai
   - `prompts` to unfold the gamut of ai
   - `wisdom` foresights and references
