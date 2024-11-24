@@ -712,7 +712,7 @@
 - ideas
   - `projects` worthwhile endeavours
   - `mistral` observation exchangement with ai
-  - `prompts` to unfold the gamut of ai
+  - `prompts` unfolding the panoply of ai
   - `wisdom` foresights and references
   - `quotes` perspective and thoughts
   - `idioms` lines and memes just for fun
@@ -738,7 +738,7 @@
   - `symbols` latex symbols spec
   - `physics` chinese physics textbook
 
-## beauties
+## gamut
 
 - `blogging` notebook librarian
 - `web` time capsule creator
@@ -755,7 +755,7 @@
 
 - - github `firavoyage`
   - wakatime `firavoyage`
-- - mastodon `firavoyage@mastodon.social` `fira@techhub.social`
+- - mastodon `fira@techhub.social` `firavoyage@mastodon.social`
   - twitter `firascript`
 - - blogger `firavoyage`
   - cnblogs `fira`
