@@ -351,14 +351,14 @@ sudo apt install gnome-shell-extension-prefs
   - -> `file > preferences > keyboard shortcuts` `ctrl shift p open keyboard shortcuts json`
   - - do anything `ctrl shift p`
   - - open settings `ctrl ,`
-    - open nav bar `alt`
-    - open side bar `ctrl b`
-    - _open panel_ `ctrl shift n`
+    - toggle nav bar `alt`
+    - toggle side bar `ctrl b`
+    - _toggle panel_ `ctrl shift n`
     - _new window_ `ctrl shift n`
       - removed
-    - open terminal `ctrl backquote`
-    - open explorer `ctrl shift e`
-    - open extensions `ctrl shift x`
+    - toggle terminal `ctrl backquote`
+    - toggle explorer `ctrl shift e`
+    - toggle extensions `ctrl shift x`
   - - new file `ctrl n`
     - close file `ctrl w`
     - _save as_ `ctrl alt s`
@@ -401,6 +401,9 @@ sudo apt install gnome-shell-extension-prefs
     - _insert line above_ `ctrl shift enter`
     - _delete to word start_ `ctrl backspace`
     - delete to word end `ctrl delete`
+  - - toggle comment `ctrl /`
+    - _toggle block comment_ `ctrl shift /`
+    - _add jsdoc comment_ `/** enter`
   - - _indent line_ `tab` `ctrl ]`
       - when `!hasNextTabstop && !suggestWidgetVisible`
     - _outdent line_ `shift tab` `ctrl [`

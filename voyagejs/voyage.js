@@ -722,29 +722,27 @@ voyage.run({
 // roadmap
 // - complete todos for basis
 // - svelte examples for feature testing
-// - and other examples btw i love svelte
 // - chakra ui for real world practice
-// - google reader for elegance
+// - google reader (google books classic) for elegance
+// - material design 3 for usage
 // - sr component library for fun
 //
 // @todo
 // better and safer state
-// - instead of state=obj(initial)
-// - state={}
+// - instead of state=obj(initial) state={}
 // - state.v for the value
 // - state for the state obj carrying cid sid
-// bind auto anaylze factors
-// - ref -> not created -> get() -> info.factors[cid].push(sid)
-// - bind(fn,[factors]) -> a reducer like useMemo in react
-// - bind(fn) -> bind all info.factors and clear info.factors[cid]
-// bind only when necessary
-// - bind -> info.isStored[cid][sid] && current==cid -> dont bind anything
-// - as itself will updateComponent so details should be omitted
 // label updater
-// - customUpdater(reducer) -> updater(newValue){current;reducer(node,newv)}
-// - labelUpdater(label,reducer) -> updater(newValue){current;node[label]=reducer(newv)}
-// - {label:state} for bind single state
-// - {label:bind(fn,[factors])} or bind(fn) for bind reducer and states it uses
+// - {label:state} -> bind single state to label
+// - updaterLabel(node,label,state){...}
+// - bind(updateLabel,state)
+// label updater with multi factors
+// - {label:calc(fn,...[factor states])}
+// - or calc(fn,[factor states]) -> a reducer like useMemo in react
+// - updaterLabel(node,label,calculator,factor states){...}
+// - bind(updLabel,...[factor states]) 
+// better readabilty
+// - rp all cid sid with state and dc {cid sid} = state
 // macro poly
 // - more built in macro ("@model")
 // - @if @show
