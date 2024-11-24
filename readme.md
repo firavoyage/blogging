@@ -164,13 +164,14 @@
 - - to live (yu hua)
   - road ahead (ruanyf)
   - the water level of ideology (liu yu)
+  - meditations on life (zhou guoping)
   - twelve letters for the young (zhu guangqian)
   - letter to da zhuang (miao wei)
   - liu qing's lectures on modern western thought (liu qing)
   - a long gaze (long yingtai)
-  - one hundred years of solitude (gabriel garcía márquez)
   - hackers and painters (paulg)
   - metaphors we live by (george lakoff & mark johnson)
+  - one hundred years of solitude (gabriel garcía márquez)
   - javascript: the good parts (douglas crockford)
   - javascript: the definitive guide seventh edition (david flanagan)
   - c++ primer fifth edition (barbara e. moo & josée lajoie & stanley b. lippman)
@@ -196,7 +197,6 @@
   - what i have seen (chai jing)
   - the chameleon (anton chekhov)
   - rashomon (ryunosuke akutagawa)
-  - .meditations on life (zhou guoping)
   - .godel, escher, bach (douglas hofstadter)
   - .shakespeare's sonnets (william shakespeare)
   - .over autumn rooftops (hai zi)
@@ -358,10 +358,9 @@
   - kiun b & yakutsk life
   - kkksc03 & luogu founding
   - lex fridman & dev conversation
-  - li xinshuo djhs & otaku girl
-  - linesoft
+  - li xinshuo djhs & otaku girl life
+  - liu xin livid & v2ex founding
   - liu yuan djhs & interactive math
-  - livid & v2ex founding
   - longbow flintlock
   - lu jianhong djhs & english culture
   - luca florio & fresh programmer guide

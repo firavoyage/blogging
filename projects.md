@@ -130,8 +130,12 @@
 
 ### `material`
 
-> the elegant image tool
+> elegance of image editing
 
+- features
+  - library
+  - automation
+  - local based pwa
 - template
   - share videos and posts as cards
   - image library for memes
@@ -966,7 +970,10 @@ for(i 1 10 j 10 100){A} //for(let i=1;i<=10;i++){for(let j=10;i<=100;j++){A}}
   - alpine
   - mithril
   - svelte
-  - vue
+  - tailwind
+  - scss
+  - less
+  - stylus
 
 ### `fresh`
 
