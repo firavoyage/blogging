@@ -559,6 +559,10 @@
   - virtualbox 7.0.16
   - vlc 3.0.20
   - wolfram-alpha 1.4.25
+- - lenovo yoga 13s acn 2021
+  - smartisan revolution ii
+  - oneplus buds 3
+  - logitech wireless mouse m185
 
 ## strength
 
@@ -774,6 +778,8 @@
 
 > _琐碎 / 如是五年后已忘却 / 举重若轻_
 
+> _imagine the same day next year_
+
 > $good \space luck \space and \space have \space fun$
 
 > $beautifully \space advance$
@@ -788,3 +794,5 @@
 > _以上 / 祝你度过智识的 审美的一天_
 
 > $so \space much \space for \space this, \space have \space a \space nice \space day.$
+
+> $btw \space i \space use \space ubuntu$

@@ -9766,9 +9766,9 @@ sr game become straight direction...
 
 and it's like a layer covering desktop...
 
-restart could solve it. 
+restart could solve it.
 
-**but it seems that all linux based system is buggy...**
+**but it seems that all linux based systems are buggy...**
 
 19:xx
 
@@ -9837,3 +9837,298 @@ https://www.google.com/search?q=prompts&oq=prompts&gs_lcrp=EgZjaHJvbWUyBggAEEUYO
 wow!
 
 **google gemini on search page!**
+
+## 20241124
+
+`gaming`
+
+sr div uni proto 7.
+
+**all dmg boosts for characters are useless.**
+
+**only base dmg works**
+
+`swimming`
+
+finding and testing prompts while auto battling.
+
+00:40
+
+**end battle and finalize.**
+
+quited at stage 1.
+
+too few dmg. no base dmg eq are expanded.
+
+**bad luck.**
+
+01:00
+
+discovered some new prompts.
+
+finalized again.
+
+01:16
+
+finalized again.
+
+02:17
+
+swimming and gaming.
+
+sr div uni proto 7.
+
+team
+
+- aventurine
+- march
+- dr ratio
+- topaz
+
+**better luck this time.**
+
+**currently fighting plane 2 boss: yanqing.**
+
+changed lineup.
+
+02:36
+
+failed again.
+
+replaced topaz with acheron and tried again.
+
+02:51
+
+swimming...
+
+still struggling.
+
+forgot closing auto battle at stage 3.
+
+**acheron launched ultimate right before yanqing placed his blades.**
+
+changed lineup.
+
+the situation might be better.
+
+as i got a healing blessing related to crit boost.
+
+my acheron lacks hp in stage 2, esp stage 3.
+
+now she's always full hp.
+
+but still lacks 2 abundance blessing
+
+to expand the 4500% lightening base dmg equation
+
+**bad luck in blessing rewrite**
+
+03:00
+
+**wtf!**
+
+yanqing killed 2 characters in one shot! even at stage 2!
+
+even worse luck this time...
+
+restart. and auto battling.
+
+03:08
+
+on stage 2 again.
+
+this time yanqing's blades reduced acheron's hp to 300...
+
+but we all survived!
+
+how frightening!
+
+03:15
+
+**end combat and finalized.**
+
+yanqing defeated the full team with one shot.
+
+just with 40% dmg boost berserk.
+
+never try div uni proto 7 without base dmg eq.
+
+**wow! i forgot i had curio crown!**
+
+**i continued battle! oh yeah!**
+
+**4500% base dmg eq expanded!**
+
+03:24
+
+all eq are expanded!
+
+even no "not reco to overwrite bls" warning seen.
+
+even didnt use up the cosmic fragments. remained 128.
+
+no more bls needed to be overwritten.
+
+03:29
+
+**good luck.**
+
+**boss: cirrus.**
+
+team
+
+- aventurine
+- march
+- acheron
+- dr ratio
+
+**disabled auto battle to attack directly on the enemy with fiber.**
+
+03:38
+
+changed lineup to make fiber stack decrease easier.
+
+team
+
+- aventurine
+- march
+- topaz
+- dr ratio
+
+04:03
+
+failed after berserked too many times...
+
+restart. try to reduce turns.
+
+changed some relics.
+
+04:46
+
+still does not work.
+
+enemies berserked right before second wave in stage 3.
+
+and too much dmg.
+
+**changed dr ratio to fu xuan**
+
+**changed strategy: march let fu xuan be shi fu as all enemies have quantum weakness**
+
+it's my last attempt. if failed, finalize and sleep.
+
+**i realized my fault... i didnt overwrite eq... only one base dmg eq present!**
+
+**changed relics again. most relics are mapped.**
+
+team
+
+- aventurine (mapped relics)
+- fu xuan
+- march (mapped relics)
+- topaz
+
+**but not a lightcone is mapped.**
+
+team
+
+- aventurine (moment of victory)
+- fu xuan (texture of memories si 3)
+- march (swordplay)
+- topaz (swordplay si 3)
+
+05:14
+
+sleep.
+
+12:xx
+
+get up.
+
+12:26
+
+continue sr battle.
+
+**every time a weakness is broken. the character act again!**
+
+**march can now break all weakness in one turn.**
+
+**wtf. fu xuan has over 20000 hp!**
+
+so much 80% hp boost. where are they from!
+
+**oh i see. aoe reduce fiber by one. other atk reduce two.**
+
+**still got berserk at first wave of stage 3.**
+
+13:03
+
+**now at second wave of stage 3.**
+
+**4 stacks of berserk 40% dmg boost**
+
+**revive at 1 hp used. on fu xuan.**
+
+13:06
+
+failed again. 
+
+**5 stacks of berserk.**
+
+changed lineup.
+
+team
+
+- fu xuan
+- sparkle
+- march
+- acheron
+
+14:03
+
+finalized. things are predestinied.
+
+**bad luck.**
+
+14:56
+
+不饿.
+
+吃了点葱油拌面,酒酿圆子,当是下午茶了.
+
+16:17
+
+`swimming`
+
+finding good prompts
+
+`gaming`
+
+playing sr div uni proto 7.
+
+**i really underestimated sparkle.**
+
+put sparkle into my foa team.
+
+- aventurine
+- sparkle
+- dr ratio
+- topaz
+
+16:48
+
+`gaming`
+
+sr div uni proto 7 on plane 2.
+
+**met yanqing again.**
+
+**fuck. what a bad luck**
+
+overwrote bls 2 times without a the hunt bls appeared.
+
+i just need 1 to expand!
+
+17:24
+
+play df after finalize.

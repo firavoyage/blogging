@@ -422,6 +422,7 @@ sudo apt install gnome-shell-extension-prefs
       - removed
   - - zoom in `ctrl +`
     - zoom out `ctrl -`
+  - - split screen `ctrl \`
 
 ## `git`
 
