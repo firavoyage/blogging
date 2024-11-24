@@ -202,8 +202,7 @@ sudo apt install gnome-shell-extension-prefs
     - center new windows `on`
     - window action key `super`
     - resize with secondary click `off`
-  - window `focus on hover`
-    - raise windows when focused `off`
+  - window `click to focus`
 - config `startup applications`
   - chromium
     - `env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/chromium_chromium.desktop /snap/bin/chromium %U`

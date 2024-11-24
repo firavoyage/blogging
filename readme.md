@@ -317,8 +317,8 @@
   - cloudwu codingnow & dev
   - coding startup & web dev & case studies
   - dai jiangqi codeforces & oi math champion
+  - dan & louis-xavier & growth.design founding
   - dan abramov overreacted & web dev
-  - daughter's gamer mihoyo
   - di xuchen djhs
   - diviner in spiritual wind
   - diygod & justcc
@@ -528,6 +528,7 @@
   - gnome-nautilus 46.2
   - gnome-newsflash 3.3.5
   - gnome-system-monitor 46.0
+  - gnome-terminal 3.52.0
   - gnome-tuba 0.8.4
   - gnome-weather 44.0
   - goldendict 1.5.0
