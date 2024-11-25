@@ -10071,7 +10071,7 @@ so much 80% hp boost. where are they from!
 
 13:06
 
-failed again. 
+failed again.
 
 **5 stacks of berserk.**
 
@@ -10132,3 +10132,43 @@ i just need 1 to expand!
 17:24
 
 play df after finalize.
+
+## 20241125
+
+18:xx
+
+数学周练,不交,搞定,回家.
+
+19:06
+
+`gaming`
+
+sr forgotten hall upd. quick clear.
+
+watching df bs simplelive. while ...
+
+sr div uni. auto battling.
+
+al main quest stage 12 auto battling.
+
+19:44
+
+`gaming`
+
+sr div uni sync level reached 78.
+
+8 days left. 
+
+new week i could reach 80. so no more attempt needed.
+
+21:04
+
+`weather`
+
+checked weather.
+
+rain overnight and clear at dawn.
+
+freezing cold... put on thick clothes maybe?
+
+

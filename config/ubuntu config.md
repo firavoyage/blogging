@@ -683,6 +683,7 @@ sudo apt install gnome-shell-extension-prefs
   sudo flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
   sudo npm config set registry https://registry.npmjs.org/
   sudo npm install -g @wenyan/cli
+  sudo npm install -g jsdoc
   sudo npm install -g marked
   sudo npm install -g terser
   sudo snap install android-studio

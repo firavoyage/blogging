@@ -497,6 +497,10 @@
   - uee paper scan
   - each scene lasts at least 5 sec
   - to screen the gifted ones
+- screen reader
+  - finetuned for the sleepy ones
+  - "notes are shown on the page"
+  - "function image is painted on the screen"
 - self
   - hey fira here
   - what you see is my puppet
@@ -699,10 +703,10 @@
   - sr styled brawl stars
 - game ideas
   - google doodles
-  - al mini games
-  - sr mini games
-  - hi mini games
-  - gi mini games
+  - azue lane
+  - honkai star rail
+  - honkai impact third
+  - genshin impact
   - itch.io
   - poki.net
   - fly me 2 the moon

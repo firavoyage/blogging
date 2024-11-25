@@ -328,7 +328,6 @@
   - dusk's rain in early winter sr
   - edmund d zhang
   - fabrice bellard & cpp
-  - fireship & web dev & js frameworks & fast paced guide
   - foreman ma madugong & bedtime news
   - geek bay geekerwan
   - gennady vladimirovich korotkevich tourist codeforces & oi champion
@@ -342,7 +341,8 @@
   - hui xinyu djhs & exam champion
   - interpreter gavin & gi english
   - james sinclair jrsinclair
-  - jeff hawkins & palm founding & brain research
+  - jeff delaney & fireship founding & web dev in 100 sec
+  - jeff hawkins & palm founding & brain science
   - jiang yanyan & oi teaching & os dev
   - jiang zhijun djhs & exam champion
   - jiangly not dd codeforces & oi champion
@@ -390,11 +390,10 @@
   - promise of playboy sr
   - qingyu codeforces
   - ren baoshuo fzu & oier db founding
-  - richard bs
-  - right that asd mihoyo
-  - rodrigo pombo pombus
+  - rodrigo pombo pombus & web dev
   - ruan yifeng ruanyf & tech enthusiast weekly founding
   - science fictional lycium chinense
+  - segun adebayo & web dev & chakra ui founding
   - shen ruochen djhs
   - shen tongjun djhs & kind headmaster life
   - six divided chaochao & retro art
@@ -402,7 +401,7 @@
   - spicy pidan porridge
   - sqr5's blog
   - tail tail desu
-  - tamicake1479 cr
+  - tamicake cr
   - teli & video buddy founding
   - theo browne & web dev & production practice
   - tim qian & indie dev
@@ -469,11 +468,9 @@
   - atom one dark
   - chromium just black
 - - ubuntu yaru
-  - google reader
-  - google books classic
+  - google reader (google books classic)
   - material design 2
   - material design 3
-  - chakra ui
   - iphone os 6
   - smartisan os 8
   - oxygen os 11

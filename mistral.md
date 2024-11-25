@@ -10126,7 +10126,7 @@ By following the Dependency Inversion Principle, you can create more flexible, m
 
 ## jsdoc
 
-`concept` `ref` `important` `dev` `guide` `library`
+`concept` `ref` `dev` `guide` `library`
 
 > $\to mistral \space large \space 2$
 
@@ -10281,3 +10281,120 @@ The `jsdoc.json` file is a configuration file that specifies the input files and
 This configuration will include all JavaScript files in the `src` directory and generate documentation in the `docs` directory.
 
 JSDoc is a powerful tool for documenting JavaScript code, making it easier to understand and maintain. By using JSDoc comments, you can ensure that your code is well-documented and that the documentation is always up-to-date with the code.
+
+## state machine
+
+`concept` `ref` `important` `dev`
+
+> $\to mistral \space large \space 2$
+
+> state machine
+
+A state machine, also known as a finite state machine (FSM), is a computational model used to design both computer programs and sequential logic circuits. It is a behavioral model composed of a finite number of states, transitions between those states, and actions. Here are the key components and concepts related to state machines:
+
+### Components of a State Machine
+
+1. **States**:
+
+   - Represent the different conditions or situations in which the system can be.
+   - Each state is unique and has a distinct name or identifier.
+
+2. **Transitions**:
+
+   - Define the rules for moving from one state to another.
+   - Transitions are typically triggered by events or conditions.
+
+3. **Events**:
+
+   - Inputs or conditions that cause transitions between states.
+   - Events can be external (e.g., user input) or internal (e.g., timer expiration).
+
+4. **Actions**:
+
+   - Operations or functions that are executed when a transition occurs or when entering/exiting a state.
+   - Actions can be associated with states (entry/exit actions) or transitions.
+
+5. **Initial State**:
+
+   - The state in which the system starts.
+   - There is usually one initial state.
+
+6. **Final State**:
+   - The state in which the system ends.
+   - There can be multiple final states.
+
+### Types of State Machines
+
+1. **Mealy Machine**:
+
+   - Outputs are determined by both the current state and the input.
+   - Actions are associated with transitions.
+
+2. **Moore Machine**:
+   - Outputs are determined solely by the current state.
+   - Actions are associated with states.
+
+### Applications of State Machines
+
+- **Software Development**: Used in designing user interfaces, protocols, and game logic.
+- **Hardware Design**: Used in digital circuit design, such as in the design of sequential logic circuits.
+- **Communication Protocols**: Used to define the behavior of protocols, such as TCP/IP.
+- **Embedded Systems**: Used to control the behavior of embedded devices.
+
+### Example of a State Machine
+
+Consider a simple state machine for a traffic light:
+
+- **States**:
+
+  - Red
+  - Green
+  - Yellow
+
+- **Transitions**:
+
+  - Red → Green (triggered by a timer)
+  - Green → Yellow (triggered by a timer)
+  - Yellow → Red (triggered by a timer)
+
+- **Actions**:
+  - Change the light color when transitioning between states.
+
+### State Diagram
+
+A state diagram is a graphical representation of a state machine. It consists of:
+
+- **Nodes**: Represent states.
+- **Arrows**: Represent transitions between states.
+- **Labels**: On arrows to indicate events and actions.
+
+### Pseudocode for a Simple State Machine
+
+```python
+class TrafficLight:
+    def __init__(self):
+        self.state = 'Red'
+
+    def change_state(self):
+        if self.state == 'Red':
+            self.state = 'Green'
+        elif self.state == 'Green':
+            self.state = 'Yellow'
+        elif self.state == 'Yellow':
+            self.state = 'Red'
+
+    def get_state(self):
+        return self.state
+
+# Example usage
+traffic_light = TrafficLight()
+print(traffic_light.get_state())  # Output: Red
+traffic_light.change_state()
+print(traffic_light.get_state())  # Output: Green
+traffic_light.change_state()
+print(traffic_light.get_state())  # Output: Yellow
+traffic_light.change_state()
+print(traffic_light.get_state())  # Output: Red
+```
+
+This example demonstrates a simple state machine for a traffic light with three states and transitions between them.

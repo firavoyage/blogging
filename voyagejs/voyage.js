@@ -722,9 +722,9 @@ voyage.run({
 // roadmap
 // - complete todos for basis
 // - svelte examples for feature testing
-// - chakra ui for real world practice
-// - google reader (google books classic) for elegance
-// - material design 3 for usage
+// - chakra ui for real world design system
+// - material design 3 for elegance
+// - google reader (google books classic) for retro
 // - sr component library for fun
 //
 // @todo
@@ -743,11 +743,12 @@ voyage.run({
 // - bind(updLabel,...[factor states]) 
 // better readabilty
 // - rp all cid sid with state and dc {cid sid} = state
-// macro poly
-// - more built in macro ("@model")
-// - @if @show
-// - macro(node,state)
-// - macro(node,content)
+// - rp some else with else if
+// theme namespace
+// - same button component across material design and chakra ui
+// - setTheme(str theme)
+// - if theme is set check whether the tag is included in the namespace
+// - if so createComponent otherwise createNode
 // styling
 // - class based
 // - style alias
@@ -759,6 +760,11 @@ voyage.run({
 // - style class <- "a-1 b-2 c d e-221"
 // - style obj <- {style:value,style:value}
 // - defineStyle(style,styleObj fn(value) or fn()) 
+// macro poly
+// - more built in macro ("@model")
+// - @if @show
+// - macro(node,state)
+// - macro(node,content)
 // dom methods abstract
 // - steal from jquery
 // - learn from common use case
@@ -772,4 +778,4 @@ voyage.run({
 // - fetch in fp without promise
 // route
 // - path and page component
-// - regex and custom decision function
+// - custom decision function
