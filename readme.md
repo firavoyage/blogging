@@ -247,8 +247,7 @@
   - reddit old & nga bbs & acgn.zone & 4chan
   - codeforces & libre oj & vijos & xjoi
   - luogu blog & travellings & foreverblog
-  - bangumi.tv & my anime list
-  - bgmlist & mikan project
+  - bangumi.tv & my anime list & bgmlist & mikan project
   - douban & goodread book
   - douban & imdb movie
   - google doodles & itch.io matrix67 & steam db

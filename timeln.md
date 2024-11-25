@@ -10182,3 +10182,9 @@ released new voyagejs version.
 for new features see code comment
 
 watching lucky star.
+
+02:44
+
+`bangumi`
+
+watched lucky star episode 14.
