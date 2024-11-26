@@ -17,12 +17,12 @@
 
 - write svelte examples with voyagejs
 - write component libraries with voyagejs
-- add leverage to projects
+- summarize projects as leverage
 - write pre app
 - design pure & intuitive foresight
 - watch lucky star
 - play df war mode
-- write math challenger
+- learn math & english
 - sync phone
 
 > _everyday_
@@ -31,23 +31,22 @@
 
 > _weekend endeavour_
 
-- voyagejs
-- svelte examples
-- sr styled chakra component library
-- pre app
-- intuitive cpp episodes
-- pure math episodes
-- math trick cards
-- origami works
+- write voyagejs
+- impl svelte examples in voyagejs
+- create sr styled chakra component library
+- create pre app
+- generate intuitive cpp episodes
+- generate pure math episodes
+- categorize trick cards
+- create origami works
 
 > _weekend diversion_
 
 - play sr
+- play df war mode
 - watch lucky star
 - watch evangelion
 - play senrenbanka
-- play df war mode
-- watch simplelive
 
 > _weekend enlightenment_
 
@@ -67,18 +66,19 @@
 
 > _mind wandering_
 
-- eat leisure float material
-- design system & component library
+- design system
+- component library
 - project leverage
 - pure math editorial
+- intuitive cpp editorial
 - aventurine's trick cards
 - herta's math puzzles
-- intuitive cpp editorial
 
 > _meanwhile_
 
-- sync phone
 - listen to podcasts
+- watch simplelive
+- sync phone
 
 ## 20241118
 

@@ -492,11 +492,11 @@
   - node 18.19.1
   - npm 9.2.0
   - marked 14.1.2
-  - wenyan 0.3.4
+  - jsdoc 4.0.4
   - eslint 6.4.0
   - prettier 9.2.0
-  - jsdoc 4.0.4
   - terser 5.19.2
+  - wenyan 0.3.4
   - javascript-code-snippets 1.8.0
   - javascript-snippets 0.4.0
   - apt 2.7.14

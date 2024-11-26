@@ -1,5 +1,5 @@
-//20241127
-//voyagejs 0.25
+//20241126
+//voyagejs 0.24
 
 let voyage = {
   info: {},

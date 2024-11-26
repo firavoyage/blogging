@@ -10188,3 +10188,211 @@ watching lucky star.
 `bangumi`
 
 watched lucky star episode 14.
+
+18:32
+
+`gaming`
+
+sr div uni proto 7.
+
+the auto battle is so stupid! even couldnt focus the boss.
+
+**fighting team leader bug on plane 1**
+
+team
+
+- aventurine
+- march
+- topaz
+- dr ratio
+
+19:12
+
+finalized.
+
+start again.
+
+**boss: dream Dreamjolt Troupe's Beyond Overcooked bug**
+
+**and i have elation bls: delay enemy action by 75%**
+
+easy win.
+
+**lucky!**
+
+19:53
+
+finalized again.
+
+now i've got these two blessings.
+
+**elation: delay enemy 75%**
+
+**rememberance: freeze enemy after 6 attacks**
+
+wtf. **forever frozen!**
+
+easy win.
+
+**lucky!**
+
+20:44
+
+`gaming`
+
+sr div uni proto 7.
+
+bet failed. all allies got 1% hp.
+
+and i have **displ flicker**
+
+**city restorer** expanded.
+
+**on plane 2 boss: svalog**
+
+auto battling all time.
+
+**at the end only aventurine survived.**
+
+while base dmg finished the last shot.
+
+that's close!
+
+now **voyage monitor** is also expanded.
+
+wtf. **interastral big lotto is destroyed**
+
+**1% hp again!**
+
+20:53
+
+on domain respite.
+
+restored about half hp!
+
+**great.**
+
+20:57
+
+**boss: the past present and eternal show (complete)**
+
+**the great auto battle begins.**
+
+team
+
+- aventurine
+- topaz
+- dr ratio
+- march
+
+enemies have shared hp...
+
+**and allies fall into alien dreams some time...**
+
+**how could that be! aventurine! they even have some shield!**
+
+**all allies are attacking one single enemy (the one on the right)!**
+
+**wtf. poor break dmg!**
+
+21:06
+
+**it's still on stage 1. and allies are all in dream some time.**
+
+**two allies are even killed. are restored 1 hp being frozen**
+
+**restarted. auto battle off**
+
+21:14
+
+**no one claim order's grace. and all puppets will receive more dmg!**
+
+so fuck auto battle.
+
+21:24
+
+**wtf!**
+
+the order is so fast!
+
+march died after being frozen two times.
+
+**restart.**
+
+maybe... i lack this blessing...
+
+**elation: recover 15% hp after each attack**
+
+also... 
+
+**allies never get enough grit to cause base dmg before death.**
+
+21:39
+
+changed lineup.
+
+team
+
+- bailu
+- topaz
+- dr ratio
+- march
+
+21:57
+
+changed lineup again.
+
+team
+
+- fu xuan
+- topaz
+- dr ratio
+- march
+
+auto battling...
+
+**this would be my last attempt.**
+
+take a bath first.
+
+22:59
+
+returned from bathroom and took a rest.
+
+**finalized.**
+
+**poor boss selection. bad luck.**
+
+watching wanderer bs simplelive.
+
+playing df.
+
+## 20241127
+
+02:14
+
+`gaming`
+
+df 真好玩啊...
+
+今天就不写voyagejs,看lucky了喵...
+
+玩把df睡觉!
+
+或者说也可以写一点vyg?
+
+02:45
+
+`dev`
+
+released new vyg version.
+
+changed code shortcut for fold and unfold code.
+
+`bangumi`
+
+lucky star is near the end...
+
+watch ep 15 tomorrow...
+
+

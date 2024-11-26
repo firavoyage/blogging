@@ -365,6 +365,7 @@ sudo apt install gnome-shell-extension-prefs
   - - auto indent (format code) `ctrl shift i`
     - preview markdown `ctrl shift v`
   - - _run code_ `ctrl r`
+      - when `terminalFocus`
     - _stop running in terminal_ `ctrl c`
   - - _move cursor left_ `ctrl h` `left`
     - _move cursor right_ `ctrl l` `right`
@@ -384,12 +385,12 @@ sudo apt install gnome-shell-extension-prefs
       - removed
     - _select word left_ `ctrl shift alt h` `shift alt h` `ctrl shift left`
     - _select word right_ `ctrl shift alt l` `shift alt l` `ctrl shift right`
-    - _expand selection_ `ctrl s` `shift alt right`
     - _save_ `ctrl s`
       - removed
-    - _shrink selection_ `ctrl shift s` `shift alt left`
+    - _expand selection_ `ctrl s` `shift alt right`
     - _save as_ `ctrl shift s`
       - removed
+    - _shrink selection_ `ctrl shift s` `shift alt left`
     - _duplicate selection_ `ctrl d`
     - add cursor `alt click`
     - _add cursor below_ `ctrl alt j` `ctrl shift alt j` `ctrl shift down`
@@ -409,8 +410,10 @@ sudo apt install gnome-shell-extension-prefs
     - _outdent line_ `shift tab` `ctrl [`
     - _tab_ `tab`
       - removed
-    - fold code `ctrl shift [`
-    - unfold code `ctrl shift ]`
+    - _fold code (roll)_ `ctrl shift [` `ctrl r`
+      - when `editorTextFocus && foldingEnabled`
+    - _unfold code (expand)_ `ctrl shift ]` `ctrl e`
+      - when `editorTextFocus && foldingEnabled`
   - - find `ctrl f`
     - _replace_ `ctrl h`
       - when `findInputFocussed`
