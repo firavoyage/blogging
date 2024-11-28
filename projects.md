@@ -12,22 +12,18 @@
 > elegant reader for elegant writer
 
 - features
-  - open source
-  - extendable
+  - open source & extendable
   - content focused
   - quick navigation
-  - presentation mode
+  - code & vim shortcuts
+  - zen mode & presentation mode
   - portable format
   - local based
 - leverage
-  - notions are web based 
-  - which lacks control and integration
-  - so is yuque as well as lark
+  - notion and its relatives are web based
   - obsidian lacks features
-  - which notion provide
-- view
-  - zen mode docs
-  - slide view
+  - the least keystrokes to do anything
+  - auto split pages and adjust layout
 - markdown extended
   - content block
   - auto collapse
@@ -44,11 +40,13 @@
 > simplicity of presentation "wide screen notion"
 
 - features
+  - auto page split
   - content blocks
   - theme based
   - quick navigation
-  - auto page split
   - markdown local
+  - custom styling
+  - footnote & subtitle
   - minimal interface
   - portable format
   - cross platform
@@ -71,6 +69,8 @@
   - content
   - footnote
   - author & date & page index
+- custom styling
+  - delete line as low opacity
 - export to
   - pdf
   - ppt
@@ -144,7 +144,7 @@
 - revise
   - svgify
   - minify
-  - mosiac with geometry shapes 
+  - mosiac with geometry shapes
   - obfuse with fictional typography
 - filter
   - line stroke impression
@@ -440,6 +440,18 @@
 - design
   - podcast player
   - calendar
+- best way to memorize words
+  - a paperback wordbook
+  - a notebook folded into two parts
+  - save the words you dont know in the notebook
+  - word on the left and meanings separated with comma on the right
+  - no number or part of speech included
+  - write some new words when free
+  - otherwise randomly open a page and scan the words
+  - save the words you still couldnt remember in another notebook after some time
+  - done.
+  - if you dont want to write anything
+  - then leisure app could be your best bet
 - local based
   - memorize anytime anywhere
   - static dict file
@@ -468,10 +480,9 @@
   - note list textbook in symbolic language
   - for fun not for rating
 - leverage
-  - knowledge is the only thing
-  - away from the excessive diversion time
-  - you learn you write you create
-  - without being pushed to make fun "zheng huo"
+  - the least line of notes to learn anything
+  - you should raise the ceiling not the floor
+  - education channel could stay away from being pushed to make fun
 - perspectives
   - dark mode
   - low opacity blockquote
@@ -485,7 +496,7 @@
   - learn on math challenger
   - practice on math guide
   - ref on math textbook
-- material for self learning
+- material
   - notes
   - workbooks
 - foresight
@@ -501,51 +512,42 @@
   - finetuned for the sleepy ones
   - "notes are shown on the page"
   - "function image is painted on the screen"
+- style
+  - mihoyo or blue archive classroom
+  - aventurine's scheme cards & round-based battle in 0 turn
+  - fuxuan's divine perspective
+  - math solver by herta(asta) & screwllum
+  - lucky star transition scene
+  - evangelion cover art
+  - abstract internet culture in vhs
+  - dying voice after sports
+- mood
+  - prudence
+  - scepticism
+  - humbleness
 - self
   - hey fira here
   - what you see is my puppet
   - in the so called reality
   - and i'm teaching him math
-  - *yawn* he's so stupid
+  - _yawn_ he's so stupid
   - ...
   - hello f. i'm your past.
   - childhood retro: hs math
   - ...
   - god is defined as one's desire
   - which is the power of reshaping the world
+  - ...
+  - a bot reading lecture notes & answering questions
+  - a learner solving problems & writing wiki
 - daily
   - comment thread of the day
   - daily problems a & b
-- anime style
-  - lucky star transition scene
-  - blue archive group discussion
-  - classroom for mihoyo characters
-  - fuxuan's divine perspective
-  - math universe by herta(asta) & screwllum
-  - evangelion cover art
-- vhs style
-  - seat selection in vocational hs
-  - dying voice after sports
-- practice
-  - workbook & textbook for the ordinary
-  - challenge & notes for the gifted
 - idea
   - the world is nothing but unordered observations
   - also known as knowledge point
   - which is same difficulty for each
   - with proper division and reference
-- self
-  - a bot reading lecture notes & answering questions
-  - a learner solving problems & writing wiki
-- mood
-  - prudence
-  - scepticism
-  - humbleness
-- challenge
-  - problems are only given
-  - when you have a chance to work it out
-  - of course you will do things fast
-  - or you may head to the answer
 - freedom
   - it's break time!
   - solve these problems if you like
@@ -589,13 +591,13 @@
   - or getting through challenges
   - neither.
   - one without power actually stucks all time
-  - and after getting op build 
+  - and after getting op build
   - the game soon become grass growing
   - at the end of the day it dawns on him that
   - it's just a never ending pursuit where
   - things are based on what he spent
   - while that's not the case of retro gaming where
-  - levels were much harder and one's skill was priorer 
+  - levels were much harder and one's skill was priorer
   - neither is problem solving which could be like
   - completing puzzle games in our childhood
   - which is the pleasure of math challengers
@@ -616,6 +618,7 @@
   - wikipedia
   - fandom
   - oi wiki
+  - vim
 
 ### `intuitive`
 
@@ -638,14 +641,14 @@
   - rd(&a)
   - pr(...contents)
   - prn(...contents)
-  - is(a, b) 
-  - isnt(a, b) 
-  - check(a, b) 
-  - each(begin, end, step) 
-  - map(things, converter) 
-  - match(list, item) 
-  - use(fn, ...param) 
-  - sync(obj, key, observer) 
+  - is(a, b)
+  - isnt(a, b)
+  - check(a, b)
+  - each(begin, end, step)
+  - map(things, converter)
+  - match(list, item)
+  - use(fn, ...param)
+  - sync(obj, key, observer)
   - has(obj, key)
   - lacks(obj, key)
   - init(obj, ...path)
@@ -654,15 +657,15 @@
 - why cpp
   - elegant tools compose humanity
   - great programs compose the tools
-  - when people gaze into programming 
+  - when people gaze into programming
   - they see algorithms
-  - *yawn*
+  - _yawn_
   - cpp has lowest learning curve in fast languages
   - and cpp has pointer
 - theory
-  - given 
+  - given
   - steps (omitted by theory)
-  - conclusion 
+  - conclusion
 - aeons
   - 命途
   - 轮回
@@ -703,10 +706,10 @@
   - sr styled brawl stars
 - game ideas
   - google doodles
-  - azue lane
   - honkai star rail
   - honkai impact third
   - genshin impact
+  - azur lane
   - itch.io
   - poki.net
   - fly me 2 the moon

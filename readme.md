@@ -84,6 +84,7 @@
   - in solitude where we are least alone (2010)
   - worldend: what do you do at the end of the world? are you busy? will you save us? (2017)
   - tom and jerry classic collection (1940)
+  - the adventures of little carp (2007)
   - jurassic world (2015)
   - joker (2019)
   - soul (2020)
@@ -128,11 +129,11 @@
   - brawl stars (2017)
   - clash royale (2016)
   - delta force (2024)
-  - the powder toy (2013)
   - pubg mobile (2018)
   - genshin impact (2020)
   - minecraft (2011)
   - terraria (2011)
+  - the powder toy (2013)
   - kingdom rush (2011)
   - soul knight (2017)
   - canabalt hd (2009)
@@ -246,10 +247,11 @@
   - twitter & mastodon & slashdot & solidot
   - reddit old & nga bbs & acgn.zone & 4chan
   - codeforces & libre oj & vijos & xjoi
-  - luogu blog & travellings & foreverblog
+  - cnblogs & luogu blog & travellings & foreverblog & webring
   - bangumi.tv & my anime list & bgmlist & mikan project
   - douban & goodread book
   - douban & imdb movie
+  - vndb & shinnku galgame
   - google doodles & itch.io matrix67 & steam db
   - genius & poetry foundation
   - unsplash & pixiv & dribbble
@@ -318,6 +320,7 @@
   - dai jiangqi codeforces & oi math champion
   - dan & louis-xavier & growth.design founding
   - dan abramov overreacted & web dev
+  - derek sivers & cd baby founding
   - di xuchen djhs
   - diviner in spiritual wind
   - diygod & justcc
@@ -356,6 +359,7 @@
   - kirikaze chiyuki chyk & cs school life
   - kiun b & yakutsk life
   - kkksc03 & luogu founding
+  - kyth & jike xiaoyuzhou founding
   - lex fridman & dev conversation
   - li xinshuo djhs & otaku girl life
   - liu xin livid & v2ex founding
@@ -366,6 +370,7 @@
   - lv fuyuan djhs
   - lv yirong ldhs qbhs & exam champion
   - magicalflower codeforces
+  - marco arment & overcast founding
   - math contest fei bro
   - memoir of prosperity sr
   - menci codeforces & oi wiki writing & libre oj founding
@@ -373,19 +378,20 @@
   - mohamad light cr
   - mr marmot & chinese wojaks
   - mr yu ceo & physics
-  - nat friedman & github ceo & venture capital founding
+  - nat friedman & github founding & venture capital
   - nicholas wei bro mihoyo
   - old bai sleepwalked waifu vr
   - old ocean tubber mihoyo
-  - old skilled tofu
-  - one math
+  - old skilled tofu & langrensha
+  - one math & draft style tut vid
+  - owen young & freelancing
   - pan tianhong tim & pan shuimiao & mediastorm founding
   - paperclip
   - paul graham paulg & y combinator hacker news founding
   - pea3nut peadar
   - peng kunshuo orchidany flowerpks codeforces
   - physixfan
-  - pieter levels levelsio & nomad list founding
+  - pieter levels levelsio & nomad list founding & make writing
   - promise of playboy sr
   - qingyu codeforces
   - ren baoshuo fzu & oier db founding
@@ -775,11 +781,9 @@
 
 > _琐碎 / 如是五年后已忘却 / 举重若轻_
 
+> _缄默 / 动唇却不出声交流 / 自言自语_
+
 > _imagine the same day next year_
-
-> $good \space luck \space and \space have \space fun$
-
-> $beautifully \space advance$
 
 - _reminiscent youth_ good old days...
 - _anime otaku_ unworldly girls...
@@ -788,8 +792,12 @@
 - _simplicity addict_ elegance of ideas...
 - _indie developer_ libre tech...
 
-> _以上 / 祝你度过智识的 审美的一天_
+> _以上 / 祝你度过智识的 / 审美的一天_
 
 > $so \space much \space for \space this, \space have \space a \space nice \space day.$
+
+> $good \space luck \space and \space have \space fun$
+
+> $beautifully \space advance$
 
 > $btw \space i \space use \space ubuntu$

@@ -88,7 +88,7 @@
     - xia chuyun `227.5 55 97 75.5`
     - room and seat 0209
   - mid
-    - fira `265.5 a+#7 83 b+ 87 a+ 95.5 a+`
+    - fira `265.5 a+#5 83 b+ 87 a+ 95.5 a+`
     - jiang zhijun `275.5 a+#1 89 90 96.5`
     - hui xinyu `274.5 a+#2 83 105 86.5`
     - zhang xizhe `204.5 81 60 63.5`

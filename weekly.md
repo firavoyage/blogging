@@ -37,7 +37,7 @@
 - create pre app
 - generate intuitive cpp episodes
 - generate pure math episodes
-- categorize trick cards
+- categorize math trick cards
 - create origami works
 
 > _weekend diversion_
@@ -47,6 +47,7 @@
 - watch lucky star
 - watch evangelion
 - play senrenbanka
+- choose the next project
 
 > _weekend enlightenment_
 

@@ -784,6 +784,57 @@ voyage.run({
 - sr component library for fun
 
 @todo
+private fn move to lib
+- private pure functions like has init are moved to voyage.lib
+- voyage includes public functions
+styling
+- learn from css in js and stylus
+- using class like method without class
+- edit style label directly
+- `@style` macro
+- = "big large red button"
+- define with range and step
+- = "big-1 large-4 red-12 button-2"
+- define with param and form a-b-c x-y-z
+- = "border-red-solid"
+- defineStyle big(param){r {font-size:param*10}}
+- importStyleLibrary "myTheme" big red button 
+styling spec
+- style class <- "a-1 b-2 c d e-221"
+- style obj <- {style:value,style:value}
+- defineStyle(style,styleObj fn(value) or fn())
+theme namespace
+- same button component across material design and chakra ui
+- setTheme(str theme)
+- if theme is set check whether the tag is included in the namespace
+- if so createComponent otherwise createNode
+more macro
+- learn from vue 
+- `@if` `@show`
+- macro(node,state) | macro(node,content)
+better readabilty
+- rp all cid sid with state and dc {cid sid} = state
+- rp some else with else if
+- single rep principle: split long fn
+- fn create is too long. split into shorter named fn.
+- dc for fn should be place on top {fn1,fn2}=voyage
+- dc for data should be placed where it's needed
+dom methods abstract
+- steal from jquery
+- learn from common use case
+revise
+- param (a,b) ({a,b}) (...ab)
+- function poly
+- separate public and private function
+- clearer method name
+- less typing
+xhr
+- fetch in fp without promise
+route
+- path and page component
+- custom decision function
+
+@version 0.23
 better and safer state (done)
 - in fn sync
 - instead of state=obj(initial) state={}
@@ -802,51 +853,12 @@ label updater example (done)
 - examples[counterLabel]
 - label:state will only bind state change to label
 - it wont listen label.content change to update state
+
+@version 0.24
 label updater with multi factors (done)
 - {label:calc(fn,...[factor states])}
 - or calc(fn,[factor states]) -> a reducer like useMemo in react
 - return obj {calculator:fn,factors:[...arr]}
 - updateLabelCalc(node,label,calculator){...}
 - map factors bind(updLabelCalc,factor)
-better readabilty
-- rp all cid sid with state and dc {cid sid} = state
-- rp some else with else if
-- single rep principle: split long fn
-- fn create is too long. split into shorter named fn.
-- dc for fn should be place on top {fn1,fn2}=voyage
-- dc for data should be placed where it's needed
-theme namespace
-- same button component across material design and chakra ui
-- setTheme(str theme)
-- if theme is set check whether the tag is included in the namespace
-- if so createComponent otherwise createNode
-more macro
-- `@if` `@show`
-- macro(node,state)
-- macro(node,content)
-styling
-- class based
-- style alias
-- nested style alias
-- with or without default values
-- style alias library
-- define custom style alias
-styling spec
-- style class <- "a-1 b-2 c d e-221"
-- style obj <- {style:value,style:value}
-- defineStyle(style,styleObj fn(value) or fn())
-dom methods abstract
-- steal from jquery
-- learn from common use case
-revise
-- param (a,b) ({a,b}) (...ab)
-- function poly
-- separate public and private function
-- clearer method name
-- less typing
-xhr
-- fetch in fp without promise
-route
-- path and page component
-- custom decision function
 */

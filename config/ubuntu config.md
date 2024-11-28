@@ -56,10 +56,15 @@ sudo apt install gnome-shell-extension-prefs
 ### keyboard
 
 - use shortcuts
-  - close window `ctrl q`
-  - home folder `super e`
-  - screenshot `prsc`
-  - fullscreen `f11`
+  - _close window_ `ctrl q`
+  - _go to home folder_ `super e`
+  - _take screenshot_ `prsc`
+  - _toggle fullscreen_ `f11`
+  - open terminal `ctrl alt t`
+  - open quick settings `super s`
+  - switch apps `super tab`
+  - switch windows `alt tab`
+  - switch windows in app `super backquote`
 
 ### multitasking
 
@@ -353,9 +358,7 @@ sudo apt install gnome-shell-extension-prefs
   - - open settings `ctrl ,`
     - toggle nav bar `alt`
     - toggle side bar `ctrl b`
-    - _toggle panel_ `ctrl shift n`
-    - _new window_ `ctrl shift n`
-      - removed
+    - _toggle panel_ `ctrl shift a`
     - toggle terminal `ctrl backquote`
     - toggle explorer `ctrl shift e`
     - toggle extensions `ctrl shift x`
@@ -364,8 +367,7 @@ sudo apt install gnome-shell-extension-prefs
     - _save as_ `ctrl alt s`
   - - auto indent (format code) `ctrl shift i`
     - preview markdown `ctrl shift v`
-  - - _run code_ `ctrl r`
-      - when `terminalFocus`
+  - - _run code_ `ctrl alt r`
     - _stop running in terminal_ `ctrl c`
   - - _move cursor left_ `ctrl h` `left`
     - _move cursor right_ `ctrl l` `right`
@@ -410,10 +412,8 @@ sudo apt install gnome-shell-extension-prefs
     - _outdent line_ `shift tab` `ctrl [`
     - _tab_ `tab`
       - removed
-    - _fold code (roll)_ `ctrl shift [` `ctrl r`
-      - when `editorTextFocus && foldingEnabled`
+    - _fold code (wrap)_ `ctrl shift [` `ctrl r`
     - _unfold code (expand)_ `ctrl shift ]` `ctrl e`
-      - when `editorTextFocus && foldingEnabled`
   - - find `ctrl f`
     - _replace_ `ctrl h`
       - when `findInputFocussed`
