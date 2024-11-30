@@ -85,6 +85,7 @@
   - worldend: what do you do at the end of the world? are you busy? will you save us? (2017)
   - tom and jerry classic collection (1940)
   - the adventures of little carp (2007)
+  - spirited away (2001)
   - jurassic world (2015)
   - joker (2019)
   - soul (2020)
@@ -101,6 +102,8 @@
   - call (2020)
   - 5 centimeters per second (2007)
   - tenet (2020)
+  - my tsinghua dream (2022)
+  - the great learning (2021)
   - .evangelion (1995)
   - .tonikawa: over the moon for you (2020)
   - .my youth romantic comedy is wrong, as i expected (2011)
@@ -118,9 +121,11 @@
   - .scum's wish (2017)
   - .the big bang theory (2007)
   - .the good the bad and the ugly (1966)
+  - .in the mood for love (2000)
   - .the truman show (1998)
   - .forrest gump (1994)
   - .roman holiday (1953)
+  - .oppenheimer (2023)
 - - honkai star rail (2023)
   - honkai impact third (2016)
   - houkai gakuen second (2014)
@@ -188,10 +193,10 @@
   - integer overflow: the development, prosperity and decline of olympics in informatics (xu xiling)
   - an introduction to programming in wenyan language (huang lingdong)
   - how to ask questions the smart way (eric steven raymond)
+  - mathematics, no 2 secondary school attached to east china normal university (math group)
+  - shanghai senior high school grade 3 first mock exam english test papers (english group)
   - federal plain language guidelines (united states government)
   - cut the knot: probability riddles (alexander bogomolny)
-  - mathematics, no 2 secondary school attached to east china normal university (math group)
-  - physics, no 2 secondary school attached to east china normal university (physics group)
   - the scholars (wu jingzi)
   - nineteen eighty-four (george orwell)
   - party (han han)
@@ -249,8 +254,8 @@
   - codeforces & libre oj & vijos & xjoi
   - cnblogs & luogu blog & travellings & foreverblog & webring
   - bangumi.tv & my anime list & bgmlist & mikan project
-  - douban & goodread book
-  - douban & imdb movie
+  - douban book & goodread
+  - douban movie & imdb
   - vndb & shinnku galgame
   - google doodles & itch.io matrix67 & steam db
   - genius & poetry foundation
@@ -292,8 +297,8 @@
   - xing qiu
 - - adhesion tek & abstract internet meme
   - ahbei & douban founding
-  - ahdark & cs student life
-  - akt animation mihoyo
+  - ahdark & cs learning
+  - akt animation & mihoyo doujin
   - andrew yang & humanity future
   - anthony fu antfu & web dev & vue
   - arseniy chebynkin arsenixc & art
@@ -303,10 +308,12 @@
   - brad traversy & web dev & crash courses
   - cali castle & zolplay founding & game dev
   - cao yunfan djhs
+  - cao yunfan djhs & geography enthusiast
   - carlyle hainz & mtf diary
   - caspar david friedric & art & wanderer above the sea of fog
   - change release mihoyo
   - chen liangzhou pink rabbit codeforces & gi
+  - chen ruihan djhs & history enthusiast
   - chen shiyu djhs & chinese allusions & kawaii waifu
   - chen suiyi chenbimo & web dev
   - chen xiao & origami
@@ -317,7 +324,7 @@
   - claude monet & art
   - cloudwu codingnow & dev
   - coding startup & web dev & case studies
-  - dai jiangqi codeforces & oi math champion
+  - dai jiangqi codeforces & oi math champ
   - dan & louis-xavier & growth.design founding
   - dan abramov overreacted & web dev
   - derek sivers & cd baby founding
@@ -328,26 +335,28 @@
   - doris yee yeedor
   - dudu & cnblogs founding
   - dusk's rain in early winter sr
-  - edmund d zhang
-  - fabrice bellard & cpp
+  - edmund d zhang & indie game live
+  - epcdiy & tech critic & reverse engineering & student he analysis & berryberry early days
+  - fabrice bellard & cpp programming
   - foreman ma madugong & bedtime news
+  - fan shi funshiki & anime otaku & berryberry early days
   - geek bay geekerwan
-  - gennady vladimirovich korotkevich tourist codeforces & oi champion
+  - gennady vladimirovich korotkevich tourist codeforces & oi champ
   - gu sen matrix67 & cai xueqin localhost-8080
-  - gui minghao djhs
+  - gui minghao djhs & math enthusiast & anime otaku
   - hakim el hattab & web dev & design
   - hu jiaying ldhs & sports girl
-  - hu qianling djhs & tart english teacher life
+  - hu qianling djhs & tart english teaching
   - huang chenghui lciop cr & spark
   - huang zhizhong & debate
-  - hui xinyu djhs & exam champion
+  - hui xinyu djhs & champ
   - interpreter gavin & gi english
   - james sinclair jrsinclair
   - jeff delaney & fireship founding & web dev in 100 sec
   - jeff hawkins & palm founding & brain science
   - jiang yanyan & oi teaching & os dev
-  - jiang zhijun djhs & exam champion
-  - jiangly not dd codeforces & oi champion
+  - jiang zhijun djhs & champ
+  - jiangly not dd codeforces & oi champ
   - jin jinjin ldhs & kind class master
   - jin luochen djhs & primary schooler
   - jin yudong krahets & algorithms guide
@@ -356,19 +365,20 @@
   - kevin deng sanxiaozhizi & web dev & vue
   - kevin powell & web dev & only css
   - key725 df & white hair and crimson eye
-  - kirikaze chiyuki chyk & cs school life
+  - kirikaze chiyuki chyk & cs learning
   - kiun b & yakutsk life
   - kkksc03 & luogu founding
   - kyth & jike xiaoyuzhou founding
   - lex fridman & dev conversation
-  - li xinshuo djhs & otaku girl life
+  - li xinshuo djhs & anime otaku girl
+  - liu chenyu djhs & math enthusiast
   - liu xin livid & v2ex founding
   - liu yuan djhs & interactive math
-  - longbow flintlock
+  - longbow flintlock & mihoyo doujin
   - lu jianhong djhs & english culture
-  - luca florio & fresh programmer guide
-  - lv fuyuan djhs
-  - lv yirong ldhs qbhs & exam champion
+  - luca florio & freshman programmer guide
+  - lv fuyuan djhs & math champ
+  - lv yirong ldhs qbhs & champ
   - magicalflower codeforces
   - marco arment & overcast founding
   - math contest fei bro
@@ -396,11 +406,10 @@
   - qingyu codeforces
   - ren baoshuo fzu & oier db founding
   - rodrigo pombo pombus & web dev
-  - ruan yifeng ruanyf & tech enthusiast weekly founding
+  - ruan yifeng ruanyf & caixin editorial & tech enthusiast weekly founding
   - science fictional lycium chinense
   - segun adebayo & web dev & chakra ui founding
-  - shen ruochen djhs
-  - shen tongjun djhs & kind headmaster life
+  - shen ruochen djhs & math teaching & cycle racing
   - six divided chaochao & retro art
   - sofish & web dev & design
   - spicy pidan porridge
@@ -416,7 +425,7 @@
   - unfettered idle man
   - upright flies mihoyo
   - wanderer bs
-  - wang xiaofeng djhs
+  - wang xiaofeng djhs & anime otaku
   - wang yining fira & dev
   - wang zhaohai djhs & math whiteboard
   - web dev simplified & quick start
@@ -434,16 +443,17 @@
   - yin ming kalasoo & juejin founding
   - yu weilun ldhs & cute gifted boy
   - yue fukang djhs
-  - yuluer mihoyo
+  - yuluer & mihoyo doujin
   - yunling sapphire & peer tutor life
   - yunyoujun & web dev & popular mini apps
   - zhang chuanzhi ldhs & chemistry quizzes
   - zhang shuhao studyingfather & oi wiki writing
-  - zhang xizhe djhs
+  - zhang xizhe djhs & math enthusiast & df cr gaming
   - zhao jinjiang jiongks & web dev & vue
   - zhong fangyuan zhfany & oi
-  - zhou ling djhs & kind class master life
+  - zhou ling djhs & kind class master
   - zhou xuanyi & debate
+  - zhou yang & hopico music founding
   - zhou zhiyuan djhs & japan culture
   - zhuo anyuan fusu & oi
 - - dejavu serif
@@ -712,6 +722,8 @@
   - `nat` belief of a tech entrepreneur
   - `ruanyf` observation of the digital time
   - `florio` advice for the programming ride
+  - `jiangyanyan` cs researchers and the time
+  - `tim` mediastorm early days
   - `reflections` memories of the fellows
 - ideas
   - `projects` worthwhile endeavours
@@ -801,3 +813,31 @@
 > $beautifully \space advance$
 
 > $btw \space i \space use \space ubuntu$
+
+> 因为
+>
+> 因为
+>
+> 因为
+>
+> 因为
+>
+> 因为
+>
+> 因为
+>
+> 因为
+>
+> 因为
+>
+> 因为
+>
+> 因为
+>
+> 因为
+>
+> 因为
+>
+> 因为
+>
+> 十三次哟

@@ -9070,13 +9070,13 @@ better fit for leisue players like me.
 
 swimming in zhihu arch femboys...qwq.
 
-and playing sr unknownable domain.
+and playing sr unknowable domain.
 
 15:08
 
 `gaming`
 
-sr. unknownable domain.
+sr. unknowable domain.
 
 skeptors are so op.
 
@@ -10157,7 +10157,7 @@ al main quest stage 12 auto battling.
 
 sr div uni sync level reached 78.
 
-8 days left. 
+8 days left.
 
 new week i could reach 80. so no more attempt needed.
 
@@ -10323,7 +10323,7 @@ maybe... i lack this blessing...
 
 **elation: recover 15% hp after each attack**
 
-also... 
+also...
 
 **allies never get enough grit to cause base dmg before death.**
 
@@ -10375,11 +10375,11 @@ playing df.
 
 df 真好玩啊...
 
-今天就不写voyagejs,看lucky了喵...
+今天就不写 voyagejs,看 lucky 了喵...
 
-玩把df睡觉!
+玩把 df 睡觉!
 
-或者说也可以写一点vyg?
+或者说也可以写一点 vyg?
 
 02:45
 
@@ -10397,7 +10397,7 @@ watch ep 15 tomorrow...
 
 21:37
 
-看良治打df.逆天号.
+看良治打 df.逆天号.
 
 队友是天才少年,对面也是天才少年,全神人.
 
@@ -10411,7 +10411,7 @@ watch ep 15 tomorrow...
 
 死啦!五套当老六,全是老六...
 
--600万.
+-600 万.
 
 打了闪,不过好像没闪到.背身也能闪到的...
 
@@ -10421,7 +10421,7 @@ watch ep 15 tomorrow...
 
 自闭乌鲁鲁,封烟,秒人.
 
-黄金2,34级.2h,8把,21M,100%撤离率. 
+黄金 2,34 级.2h,8 把,21M,100%撤离率.
 
 主播和两水友,都是一枪头,一枪身,一枪手臂,刚好够.
 
@@ -10433,13 +10433,13 @@ watch ep 15 tomorrow...
 
 `gaming`
 
-**df. 现在真感觉大战场好啊,就是roguelike游戏.**
+**df. 现在真感觉大战场好啊,就是 roguelike 游戏.**
 
 **没有那么多因为贪欲刺激的琐碎... 像是抢东西,抢丢包,卖队友...**
 
 22:17
 
-30秒速通巴克斯,刚打完的装备又没了.
+30 秒速通巴克斯,刚打完的装备又没了.
 
 22:41
 
@@ -10467,9 +10467,9 @@ bangumi? 看了看学校里班会没看完的
 
 > 总有人对味同嚼蜡的生活投以病态的敬意
 
-> 我目前住美國中部。週末我吃飯時無聊看了一下這影片，我生長在台灣，現在50歲了，我能理解這影片，因為1990那時台灣還是有所謂的聯考。 我看影片時，兩個兒子(18與16)跟著我看了一陣子，他們先是問我這是那裡，然後問我這是不是中國的類似青少年懲戒所的機構...........看了10幾分鍾，他們看不出這影片背景是一個學校
+> 我目前住美國中部。週末我吃飯時無聊看了一下這影片，我生長在台灣，現在 50 歲了，我能理解這影片，因為 1990 那時台灣還是有所謂的聯考。 我看影片時，兩個兒子(18 與 16)跟著我看了一陣子，他們先是問我這是那裡，然後問我這是不是中國的類似青少年懲戒所的機構...........看了 10 幾分鍾，他們看不出這影片背景是一個學校
 
-> 自我反省了一下，我从高二到大三，一直就只是一个酒徒而已，没有压力，但也只能在一个中游985混着。幽微难明。
+> 自我反省了一下，我从高二到大三，一直就只是一个酒徒而已，没有压力，但也只能在一个中游 985 混着。幽微难明。
 
 不信盖茨比.信这个.
 
@@ -10487,8 +10487,189 @@ playing **origami birds clash**.
 
 23:11
 
-df摸金模式的机制真厉害.
+df 摸金模式的机制真厉害.
 
 破产,连败送人机,大红局... (乐)
 
 想起了地铁逃生...
+
+## 20241129
+
+17:51
+
+`dev`
+
+问 mistral 问题.
+
+"a new version of mistral chat is available"
+
+wtf! in app update.
+
+after clicked "upd" btn, refreshed to home page.
+
+> in web app update
+
+19:25
+
+為什麼被網紅何同學抄襲的越南程序員特別感謝中國人？ | 網紅 | 何同學 | 老師好我是何同學 | 抄襲 | 開源 | Github | 越南 | 程序員 | Việt Nguyễn
+
+by epcdiy
+
+https://www.youtube.com/watch?v=6LAikJKKq2k
+
+19:xx
+
+`gaming`
+
+sr. unknownable domain.
+
+auto battling
+
+20:06
+
+bilibili.com/video/BV1wpUXYUESR/
+
+你猜记忆主立绘背后为什么空无一人
+
+> 因为
+> 因为
+> 因为
+> 因为
+> 因为
+> 因为
+> 因为
+> 因为
+> 因为
+> 因为
+> 因为
+> 因为
+> 因为
+> 十三次哟
+
+21:xx
+
+the father bought a new computer for the mother
+
+lenovo xiaoxin 14.
+
+thicker than mine... but **provides usb support.**
+
+21:52
+
+`gaming`
+
+sr. unknowable domain.
+
+**8 digit dmg?!**
+
+22:08
+
+人之律者登場？十三英桀全滅！帶你看往世樂土大結局！「崩壞3劇情講堂#12」
+
+by funshiki
+
+https://www.youtube.com/watch?v=UoU7gJFTAvc
+
+《崩壞3rd》全新概念PV「往世樂土」
+
+https://www.youtube.com/watch?v=Pa41doP6eFs
+
+`gaming`
+
+sr. swarm disaster.
+
+23:09
+
+`weather`
+
+so tired...
+
+hardly could i open my eyes...
+
+**why?**
+
+23:44
+
+saw the father activating windows and office
+
+contacting sales on wechat and getting code...
+
+> 放下助人情结,尊重他人命运
+
+如是耳.
+
+## 20241130
+
+2:xx
+
+played df. sleep.
+
+11:xx
+
+好困啊... 以为已经13点多了,平时来说...
+
+awaked
+
+12:19
+
+went out for lunch.
+
+14:xx
+
+`weather`
+
+看装修的房子.硬装完成.
+
+简约美式风格.
+
+颜色:白色,黑色,浅色木板,玻璃.
+
+有很多高科技.
+
+- 地暖
+- 卧室门锁磁力控制
+- 厨房门锁吸盘.
+- 自动感应亮灯
+- 调节暖色调渐变灯
+- 电子马桶
+- etc.
+
+简约风格.
+
+- 黑色镂空铁条储物架
+- 定制贴顶储物柜.
+- 无装饰.
+
+高科技多了,就有些恍惚的感觉,因为缺少人文感受.
+
+白墙.家中没有什么饱和度颜色.
+
+大概就是这样.
+
+冷清,可能是看不到什么颜色吧.
+
+15:32
+
+`weather`
+
+had burger king.
+
+had hair cut. 1mm.
+
+`gaming`
+
+playing sr. gold and gears.
+
+thoughts...
+
+df mode is that... 
+
+if you win a lot, you will meet players with dma plugins
+
+otherwise the reward proba in this match will be improved a lot.
+
+**which means whether you could win a lot is predestined**
+
+三角洲摸金模式,或者大战场模式,根据你过去的对局决定下一场的强度和资源...
+
+其实你的成败都是先验(predestined)的.

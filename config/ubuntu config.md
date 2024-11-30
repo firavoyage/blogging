@@ -404,6 +404,10 @@ sudo apt install gnome-shell-extension-prefs
     - _insert line above_ `ctrl shift enter`
     - _delete to word start_ `ctrl backspace`
     - delete to word end `ctrl delete`
+  - - select next suggestion `ctrl j`
+      - when `suggestWidgetMultipleSuggestions && suggestWidgetVisible && textInputFocus || suggestWidgetVisible && textInputFocus && !suggestWidgetHasFocusedSuggestion`
+    - select prev suggestion `ctrl k`
+      - when `suggestWidgetMultipleSuggestions && suggestWidgetVisible && textInputFocus || suggestWidgetVisible && textInputFocus && !suggestWidgetHasFocusedSuggestion`
   - - toggle comment `ctrl /`
     - _toggle block comment_ `ctrl shift /`
     - _add jsdoc comment_ `/** enter`
@@ -631,7 +635,7 @@ sudo apt install gnome-shell-extension-prefs
   - -> `edit > preferences > interface > tabbed browsing`
   - open new tabs in background `off`
 - use shortcuts
-  - open screen word selector `ctrl c c`
+  - open screen word selector `ctrl c ctrl c`
   - _show main window_
     - removed
 

@@ -42,11 +42,10 @@
 - features
   - auto page split
   - content blocks
-  - theme based
+  - pages & themes
   - quick navigation
   - markdown local
-  - custom styling
-  - footnote & subtitle
+  - elements
   - minimal interface
   - portable format
   - cross platform
@@ -62,12 +61,16 @@
   - template
   - theme
   - collapsed block
-- elements
-  - title
+- pages
+  - title & cover
   - table of contents
   - chapter intro
-  - content
+- elements
+  - header
   - footnote
+  - subtitle
+  - danmaku
+  - comment flow
   - author & date & page index
 - custom styling
   - delete line as low opacity
@@ -478,6 +481,7 @@
   - printable courses
   - trick cards and cheetsheets
   - note list textbook in symbolic language
+  - stylish narration
   - for fun not for rating
 - leverage
   - the least line of notes to learn anything
@@ -512,7 +516,7 @@
   - finetuned for the sleepy ones
   - "notes are shown on the page"
   - "function image is painted on the screen"
-- style
+- anime style
   - mihoyo or blue archive classroom
   - aventurine's scheme cards & round-based battle in 0 turn
   - fuxuan's divine perspective
@@ -521,6 +525,11 @@
   - evangelion cover art
   - abstract internet culture in vhs
   - dying voice after sports
+- literary chinese
+  - 集合第一
+  - 函数第二
+  - 平常心其一 (exam foresight)
+  - 平常心其二 (exan reflection)
 - mood
   - prudence
   - scepticism
