@@ -38,7 +38,7 @@
 - - johann sebastian bach
   - frédéric chopin
   - calendar & wall clock
-  - reading & waifu pillow
+  - reading & life size waifu pillow
   - gardening & origami & pixel art
   - math & oi & unix porn & mtf pride
   - functional programming & web dev
@@ -315,7 +315,7 @@
   - change release mihoyo
   - chen liangzhou pink rabbit codeforces & gi
   - chen ruihan djhs & history enthusiast
-  - chen shiyu djhs & chinese allusions & kawaii waifu
+  - chen shiyu djhs & chinese allusions & waifu daisuki
   - chen suiyi chenbimo & web dev
   - chen xiao & origami
   - chen zhiwei ldhs djhs
@@ -392,7 +392,7 @@
   - mr yu ceo & physics
   - nat friedman & github founding & venture capital
   - nicholas wei bro mihoyo
-  - old bai sleepwalked waifu vr
+  - old bai sleepwalked & waifu vr & mihoyo doujin
   - old ocean tubber mihoyo
   - old skilled tofu & langrensha
   - one math & draft style tut vid
@@ -758,16 +758,17 @@
 
 ## gamut
 
-- `blogging` notebook librarian
-- `web` time capsule creator
+- `blogging` notes librarian
 - `memories/perspective` cyber wanderer
 - `memories/insight` digital memokeeper
 - `memories/gaming` internet otaku
 - `school` lifelong learner
-- `programs` programmer
+- `lucky` konata izumi waifu
+- `web` time capsule maintainer
+- `programs` front end programmer
 - `music` music lover
 - `fonts` typography enthusiast
-- `self` avatar album designer
+- `self` avatar designer
 
 ## shadows
 
