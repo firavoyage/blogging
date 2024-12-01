@@ -104,6 +104,7 @@
   - tenet (2020)
   - my tsinghua dream (2022)
   - the great learning (2021)
+  - gold or shit (2024)
   - .evangelion (1995)
   - .tonikawa: over the moon for you (2020)
   - .my youth romantic comedy is wrong, as i expected (2011)
@@ -321,6 +322,7 @@
   - chen zhiwei ldhs djhs & football clubmate
   - chen zihao
   - chino moca qiront
+  - chris coyier & codepen founding & css tricks editorial
   - claude monet & art
   - cloudwu codingnow & dev
   - coding startup & web dev & case studies
@@ -338,8 +340,8 @@
   - edmund d zhang & indie game live
   - epcdiy & tech critic & reverse engineering & student he analysis & berryberry early days
   - fabrice bellard & cpp programming
-  - foreman ma madugong & bedtime news
   - fan shi funshiki & anime otaku & berryberry early days
+  - foreman ma madugong & bedtime news
   - geek bay geekerwan
   - gennady vladimirovich korotkevich tourist codeforces & oi champ
   - gu sen matrix67 & cai xueqin localhost-8080

@@ -10767,3 +10767,25 @@ x^2=1/2,x=1/4...
 
 wtf!我在干什么!
 
+20:19
+
+晚饭.羊肉萝卜汤. 
+
+**浑身湿透.**
+
+感觉好多了.
+
+21:02
+
+`bangumi`
+
+**watched lucky star episode 15.**
+
+22:57
+
+played df.
+
+watching funshiki theatre...
+
+"走走停停"
+

@@ -358,21 +358,6 @@ upd
 - 考试灵活变通("看你原文注释翻译背半天,少爷一张英语把你拉平,一道大题把你干翻")的
   可以说是连接了两个世界("no wonder it's called vocational high school")
 
-## ask for ref
-
-t:数据!我要数据!
-p:背书!我要背书!
-
-## the ignored
-
-看不见那个世界?
-是的
-...
-客观地
-一方面是其群体普遍的浑浊习性
-另一方面是其个体的主观能动性缺失
-(ref nat friedman "you should probably work on raising the ceiling, not the floor")
-
 ## promote rat race
 
 caozheng(biology):
@@ -491,18 +476,6 @@ f:
 (其实我只学语数英...小学科没有及格的)
 ff:
 那你这样华师大挺稳的
-
-## job prospect
-
-- math tut
-  knowledge organized with structure and elegance
-- fe tut
-  ultimate simplicity
-  and unified program style
-- fe dev prac
-  showcase the power of web
-- indie dev
-  make tools elegant
 
 ## life memories
 
@@ -688,57 +661,7 @@ jiang
 "蒋门永存"
 djhs g1t2 master
 
-## gi v sr
-
-我曾想去幻想世界消遣,away from hustle and bustle of city life
-可惜此间何尝不是城中闲宅的功利浮躁呢
-...
-非肉鸽或竞技,一个主剧情和角色的游戏,
-祂的 wiki 如何呢
-...
-(ref biliwiki)
-原神维基的角色页面,引入眼帘
-无非文本信息,战斗数值,升级方法,...其后有角色本身的一席之地
-角色介绍图,往往侧面衬托,引用另外角色的评价
-星穹维基的角色页面,引入眼帘
-角色台词,角色本身,...其后才是世俗的纷纷扰扰
-是啊,语言,作为角色性格的体现,不该最重要之吗
-
-## pure math illusory
-
-定义虚数,其符号记作$i$,有$i^2=-1$
-...
-[mind]
-C
-...
-雷电芽衣,习巧算之术
-
-> $36*200+64*200=(36+64)*200$
-> 雷电影,习以形作数之法
-> $ax+by+cx+dy=(a+c)x+(b+d)y$
-> 黄泉,习虚数加增之律
-> $a+bi+c+di=(a+c)+(b+d)i$
-> 增如是,减亦然
-
-<!-- > $a-bi+c-di=(a-c)+(b-d)i$
-[think] -->
-
-> $a+bi-c-di=(a-c)+(b-d)i$
-> ...
-> [multiplication]
-> ...
-> 雷电芽衣,习通分之术
-> $22/33+33/22=(22*22+33*33)/(22*33)$
-> 雷电影,习分母有理化之法
-> $2/(sqrt(5)+1)=(2(sqrt(5)-1))/((sqrt(5)+1)(sqrt(5)-1))$
-> 黄泉,习虚数相除之律
-> $(a+bi)/(c+di)=((a+bi)(c-di))/((c+di)(c-di))$
-
-upd
-现在不喜欢文言文了,虚词太多,故作玄虚.
-像英语重读一样吧,只读关键字.
-
-## genshin impact lover
+## genshin impact life changing
 
 `important`
 
@@ -953,28 +876,6 @@ f:
 第三问一定要看会看懂
 答案写得很详细.
 
-## anime nsfw
-
-三次元的欲望相当有限,仅是充斥着过度饱和的暖调.
-二次元给了我新的世界,无声地告诉我颜色是自由的.
-
-## remove all capital letters
-
-`important`
-
-i prefer not to use capital letters even if it's the first letter in a sentence or to represent myself
-two reasons.
-one is that if you use uppercases you must press the shift key or capslock key
-keep it stupid simple!never press an extra key!
-another is that if you see uppercases often you may feel anxious and uneasy
-so use lowercase,everything is soft and gentle
-
-even further i seldom use . to mark the end of a sentence
-if i want to start a new sentence i just \n
-i even changed my markdown render script to make a \n actually a \n
-it feels like reading a poem
-wow that's good
-
 ## vacation homework
 
 当莫名其妙地听到世界的声音
@@ -1011,15 +912,7 @@ wow that's good
   说不上好与坏,只是个人化地
   我想做只`reminiscent otaku`...
 
-## liu wei at mihoyo
-
-看 mihoyo 的视频
-常常有大伟哥和玩家聊天...
-
-玩大厂游戏时候
-常常想,要是能和策划聊天就好了...
-
-## give up bs
+## giving up bs
 
 为什么我放弃了荒野乱斗...
 
@@ -1100,39 +993,6 @@ bs 还是一直在玩
 
 比如紫牌到绿牌分段的单机,也挺好玩的
 还有 33 特定模式的大肉盾
-
-## mihoyo characters
-
-mihoyo 特别善于集中许多不可能的性格于一身
-
-furina:悲剧("枫丹倾城雨,宁娜悬顶剑")+呆傻+法式("浪漫")+判官("庄严")
-nahida:智慧+幼女("世界树最纯净的一支")+善言("母亲")+神性
-sparkle:悲剧("我不是花火,我才是花火")+疯癫("欢愉",对超脱的向往)+嘲讽("雌小鬼")+病娇
-zhongli:赋闲+沉稳+庄严+庸常("听书人")
-
-亦有角色热门者反之
-似乎只是现实中的恋爱靓妹形象
-并没有什么情理之外的性格
-
-keqing:性感("黑纱双辫")+勤劳+节俭+恋人
-yomiya:性感("赤身白乳","赤"表颜色,"身"表衣着)+灵巧+烟霞+恋人
-ayaka:性感("冰衣洁体")+舞蹈+恋人
-firefly:白月光("将逝之红尘")+天降+前世缘+恋人
-march 7:青梅+初情+恋人
-
-既无矛盾冲突,亦无风花雪月
-如是角色,不得人心
-这是一般的道理.
-
-我们高中习语文者
-最喜分析人物性格同异
-不难发现
-前者没什么同,全是异
-后者反之
-
-我们同时很喜欢谈论
-"陌生化" "疏离感"
-如是在 mihoyo 语言上体现淋漓尽致
 
 ## fav video games
 
@@ -1286,45 +1146,6 @@ callback:
 不愧是世界第一的互联网公司
 google 赛高!
 
-## why english
-
-在游戏中,我尽可能地使用英文 cv
-
-拿 gi 中 raiden shogun 的终结技举例
-chinese "稻光,亦是永恒!"
-english "Inzakuma shines external!"
-
-前者,首先,我听成了"意识永恒",不过可能只是个人化的理解偏差
-再翻译一下,就是"稻妻的光芒,也是永远的!",除了原句听上去感觉很 cool,亦不知所云何物
-尤"亦是永恒",不知"亦"字作何解,或者只是为了凑个语气节奏?
-而英文,翻译一下,就是"稻妻永远闪耀!",好理解多了
-
-从特殊到一般,游戏中许多台词和专有名词,都用了文言义项
-回到语言本身,cjk 语言,单字作最小含义单元
-而 eng,字母没有意思,组成单词才有意思
-
-这使得,在中文,可能由十个含义单元组成的句子
-在英文,就 4 个单词,大大降低了理解成本
-
-在 android 和 ubuntu,系统设置,我都选了 eng 界面
-
-一方面,英文字体的选择许多,而中文开源字体其实没多少
-另一方面,英文拉丁文字形,比较舒展,不像中文笔画挤在一个小方框里面
-
-## web dev javascript alias
-
-其实很多 javascript built-in api 都可以有 alias...
-
-- addEventListener `when`
-- removeEventListener `notWhen`
-- setTimeOut `wait`
-- clearTimeOut `notWait`
-- document.querySelector `document.select`
-- document.querySelectorAll `document.selectAll`
-
-然后在用上 firascript
-太舒服了 qwq...
-
 ## remove bilibili watermark
 
 bilibili 的水印是简单的白色半透明
@@ -1344,28 +1165,6 @@ bilibili 的水印是简单的白色半透明
 
 然后降低亮度
 降低多少?一个实验出来的数值,反正都是一样的
-
-## laptop os choice
-
-那些大型 3a 游戏,都不是自由开源软件
-像迪士尼或者欢乐谷,或者说花钱买体验
-而 windows 系统则是乐园门票
-
-ubuntu 像是我家
-那些书架,桌椅,放进家里就是我的
-当然不是我造的,不过我不希望他们和一些大公司绑定.
-
-mac 是个特别的存在
-如果只用 windows 轻办公的人,切换到 mac 是个优雅的选择
-没有 ubuntu 的复杂配置,
-能跑一些奇怪但是能用的软件(比如腾讯微信,网易音乐)
-这就是 mac 的优点
-简明的设计也是优点,但其实是 windows 的缺点
-
-总结下来
-windows 是游乐场
-ubuntu 是不动产
-mac 或许是高档招待所
 
 ## jiangping math contest issue
 
@@ -1444,84 +1243,7 @@ upd
 或者一个政治演讲家,可能重点描绘其鼻梁
 就是这样
 
-## death crime
-
-读了一篇文章,简单分析以下"废除死刑"双方的一些论点
-https://www.ruanyifeng.com/blog/2009/06/who_will_speak_for_the_victim.html
-
-我想
-支持死刑的,大多比较世俗
-反之,大多比较超越
-
-世俗意义上,死刑是有许多限制的
-比如,很强的历史局限性,这背后需要许多现代的技术支持和"文明"观念水位
-比如,把社会稳定发展视为最高价值,对于死者而言,这岂止其生命的意义
-比如,把"生存"视为最高价值,让人半死不活,生不如死,倒是不一定死刑
-
-超越意义上,废除死刑显然更慈悲
-从因果上看,当稻妻或者璃月的少女与空共处一室,你就知道要发生什么了
-当仇恨与果敢同时存在于一人手中时,其实死者就已经死了
-死刑,更像是"果",而非"因",死刑犯并非生来如此,对于真正重要的事,人是不惜代价的
-从轮回上看,肉体的死去并不意味灵魂的消亡
-很多时候,生者比死者更怯懦
-那些苟且偷生的人,尽管形体存在一辈子,最后灵魂也不剩下多少了
-
-## school courses holyshit
-
-现在
-我很少看舞台表演,多是看电影和连续剧
-
-我想授课也是一样的
-就在你面前,对着一个演示和板子不停地讲,不像是未来
-可能未来的课程,有动画,有 cv,就像 rpg 游戏
-
-## wealth holyshit
-
-开放的视频编码方案
-
-目前，互联网视频大部分采用 H.264 编码方案。这个方案是有专利的，使用必须付费。即使你可以在 Youtube 这样的视频网站免费观看视频，但是 Youtube 必须为使用 H.264 每年支付几百万美元。
-
-为了有一个彻底开放的视频编码方案，也为了更好的性能，2015 年多家软件和硬件厂商成立了 AOMedia 联盟。现在，新的视频编解码器 AV1 终于问世了。AV1 主要基于谷歌的 VP9 编码方案，并加入了其他代码。AV1 是无版权的，任何人都可以免费使用。它比 H.264 提供更高效的压缩，大约高出 30％。
-
-...
-
-看了这个消息
-"几百万美元"不过是上海市中心一套房
-上海有成千上万套这样的房子,大部分都不是空关的
-真好.
-
-## frontend status quote
-
-前端从业者,行情不佳
-前端行业,蓬勃发展
-不矛盾的.
-
-## any moral criticism
-
-很小的时候,或许听过
-"与一个人聊天,不要问其年龄,问其情感,问其倾向..."
-
-初见不解其中意,再见已是戏中人.
-
-尤其在世外互联网上,如此狂热,打起标签战
-
-- 支持死刑废除?
-- 当下版权制度?
-- 天城商人作风?
-- 评价女友关系?
-- 信仰耶稣圣血?
-- 看待名氏回应?
-- ...
-
-哈哈,猜到还有什么例子了...
-
-哈哈?
-
-哈哈.
-
 ## hetongxue vid story
-
-`important`
 
 何同学?
 近期视频,好几个商单,形式简单,质量下降?
@@ -1551,48 +1273,11 @@ upd
 或许后悔.
 或许无奈.
 
-## death reminder
-
-twitter 上有个 death reminder
-每天固定发送
-
-"勿忘您总有一死"
-
-想到了
-永远不知道意外与明日孰先至
-
-或许不一定要去
-酒吧夜店,电影院,游乐场
-就是
-浇花,喝茶,读书
-
-浇花不一定要看到花开,读书也不是为了读完
-
-不过有些事确实就放弃了
-
-## wealth desire
-
-不要羡慕了,不要酸啊
-你哪天发财了,不一定要过 jack ma 的生活的
-也可以是马化腾或者张一鸣哦
-evanyou 和 ruanyf 也很不错
-或者加点 acg otaku 属性
-哈哈,像是说自己哦
-
 ## buying a house quote
 
 - 最优质的单人间很贵,最差的单人间很便宜
 - 质量为 x,价格为 y,该函数连续
 - 最多的物质也无法使人满足.
-
-## to all those copy my creation quote
-
-`important`
-
-我不认识那些模仿我 App 的人，但我明白诱惑是怎么一回事，所以如果阁下碰巧认识他们，请替我转告：我一点也不生气。为了让他们明白我的意思，不妨给他们讲讲下面这个故事：
-从前有一个人，总是抱着一块石头，他遇到一条狗，就去用石头砸它，遇到一条狗就砸一次。
-有天他遇到一条黑狗，也去砸它，但黑狗的主人就在旁边，黑狗的主人立马把他抓住，狠狠地打了一顿，一边打一边说：「你不知道这是黑狗吗！你不知道这是黑狗吗！」
-后来这个人遇到狗，还是会用石头砸，不过当他再遇到黑狗时，他心里会想：「这是黑狗，我不能砸。」从此他就再也没砸过黑狗了。
 
 ## decentralized blog
 
@@ -1621,109 +1306,12 @@ decentralized network...
 
 真正需要的,是谁呢...
 
-## cnblogs sucks
-
-cnblogs sucks (like jira)
-注册体验一遍,就知道了
-show that in growth.design way
-
-upd
-繁琐啊.其实不是怀旧.
-
-## about mihoyo
-
-最开始接触是崩坏三吧
-那时候,年轻,想打游戏
-有些要付费,有些是竞技游戏
-然后原神没出,崩坏三还有点热度
-下载了,到电脑上,然后也没玩
-忘了...
-"天中划过两道星,一位新的旅行者降临提瓦特"
-还是挺浪漫的吧...
-后来每日委托太无聊,打开游戏不知道玩啥
-退了...
-挺喜欢 mihoyo 这家厂的,
-就找了 hg,sr,zzz 玩,那些倒都不错.
-最喜欢 sr.
-
-## internet age big deals
-
-互联网上不缺神话,我举一些例子吧
-
-- linus torvard
-- fabrice ballerd
-- nat friedman
-- paulg
-- ruanyf
-- nicholas wei bro
-- livid
-  这些人,他们中的一些,个人主页就是朴素的超文本
-  甚至没有什么 css,js.我很敬佩他们.
-  另一些人...
-- 锤子科技
-- 何同学工作室
-- 影视飓风
-  其实也代表很高水平了.
-  或者说太现代化了?热度太高了?
-  只是我喜欢朴素吧.
-
-## freedom or not
-
-无序(low efficiency after all)的自由(pursue you passion & dream)
-有序(good timeln & workflow)的限制(stick to ordinary passive plan)
-我很难说哪种好吧,只知道自由是一种负担.
-
 ## why twitter sucks
 
 不看 twitter,github.真正重要的事情往往不是今天的热点.
 
 upd
 就像大多数日子,没有什么有意义的电影上映
-
-## berryberry v yelltube
-
-berryberry 的计数单位是万。yelltube 的计数单位是 k,m,b.
-其实是值得分析的.
-
-## redesign javascript
-
-`important`
-
-如果去重新设计 js,至少会做这些事.
-
-- 把 let 功能给 var(或者说增加 cpp 类型系统,像 struct,不是 class).
-- 把三个等号功能给两个等号
-- 把 with,解构赋值和 import 统一.
-- 提供 fp 方法,宏定义,运算符重载,函数多态
-- 监听单个变量方法,而不是只能监听对象的一层属性,像 proxy.
-- 没有取地址,也应该提供只复制名字,浅复制,深复制吧.
-
-## oi sucks
-
-oi 中最重要的就是速度.所以用 cpp.
-可是这玩意,太笨了,
-像循环 1,10,就很傻...
-
-```cpp
-for(int i=1;i<=10;i++){
-  //...
-}
-```
-
-当然你可以用 macro(`#define`)优化.
-或者,更安全地,用 class(oop sucks!),用 iterator,vector...,只不过那样更复杂了,不如不用
-
-```cpp
-//#define ...
-each(i,1,10){
-  //...
-}
-```
-
-然后 key value pair 是不内置的,你得自己写个 hash 函数...
-但是,取地址这玩意也太搞笑了...
-想想看,函数和数组,作为参数和返回值,多么复杂
-以至于我们最后往往都把数据结构写成了全局变量...
 
 ## css no limit
 
@@ -1733,121 +1321,7 @@ css 没有局限性.
 - 交互动画,与鼠标位置相关的
 - 循环视频,大量几何图形同时变化的
 
-## typora sucks
-
-typora 做三件事
-
-- 下载 ms word
-- 删除 大多数功能
-- 增加 保存为.md 格式功能
-
-所以不喜欢.
-typora 的感觉,是用非等宽字体编程.
-
-## idv sucks
-
-idv
-
-- 不是一个简单的游戏
-  - 许多游戏,只需两次点击,图标,"开始"
-  - 令人费解的剧情,但是竞技游戏
-- 不是一个优雅的游戏
-  - 匹配时间飘忽不定
-  - 排位限时
-  - 开打要等一分钟
-- 来自简体中文手游
-  - 继承其属性和方法
-
-事实上,一个竞技游戏,有 5 个以上常用按钮,就很复杂
-
-流行不代表什么."羊了个羊"也流行.
-
-## selected words design
-
-selected word should be
-with light blue bg like chromium android
-unlike chromium desktop.
-
-## alt tab design
-
-alt tab 短按,是没有屏幕中间闪烁的,直接切屏
-等个半秒吧,才出现.
-
-## apple design
-
-apple right click touch control
-great elegance
-
-## frontend not dead
-
-前端已死?
-或许说的是职业,而非行业.
-行业上,前端
-
-- 很有趣(codepen,css tricks)
-- 很有用(figma,canva)
-  职业上,前端
-- 大厂工资高(job hunting sites)
-- 有许多大佬(ruanyf,evanyou)
-  那些找不到工作的,很多时候
-- english skill?
-- math skill?oi or algorithms experience?
-- frontend side projects?
-  同样逻辑,前端已死,清北亦已死
-  因为,对于应试教育初级学生,努力的作用是边际递减的
-  他们可能性的上限,或许也不及 t&p 的最低录取分
-  但是 t&p 依然是很好的学校.
-
-## cpp status
-
-`important`
-
-cpp 是非常优秀的语言,可惜内置的语法糖比较少
-往往需要自己定义宏,自己导入模块
-
-## women right is ...
-
-女权如何?好.
-我对"好"的定义是,
-民主(有许多支持者)就是好的.
-如此定义,女权显然是好的.
-没必要权衡利弊,
-因为好事不得到实现,也就无利害之说.
-尤其是世外土地的民主.
-什么时候我会反对女权呢?
-当女权过度散布时.(如去往 hupu bbs)
-
-## debation wtf
-
-`important`
-
-好无聊的定义辩...
-
-内卷是真问题/假问题.
-真问题:找到一种和内卷沾边的真问题,定义为内卷,详细分析其为何"真"
-假问题:找到一种和内卷沾边的假问题,定义为内卷,详细分析其为何"假"
-说的都不是同一种"内卷".也没有冲突与交锋.
-
-如果有超能力能让你爱的人爱上你,要不要用.
-...
-最后反方说,你怎么知道你比渣男更好.爱是选择.
-...
-很简单地,渣男不爱人,"我爱的人"定义了我不是渣男.
-不爱你,才会说"你是渣男","爱上你"定义了我不被认为是渣男.
-爱是追求.
-
-技术正在拯救/毁灭艺术.
-...
-反方金句,现在是历史上艺术的高峰吗?
-如果是,那为什么要拯救呢.
-如果不是,那这些年什么东西发展了,不就是技术吗,说明技术正在毁灭艺术.
-...
-很简单地,是.
-技术让过去无法实现的艺术呈现在面前,已经拯救了许多艺术,正在拯救更多艺术.
-
 ## why voice feeling matters
-
-`important`
 
 狼人杀不是逻辑游戏,是听感游戏.
 ...
@@ -1899,13 +1373,6 @@ upd
 ## the common berryberry sponsors
 
 拼多多 妙界 神奇小鹿 喵喵记账 圣杯 这几样实在太多了 加载视频中间，没法预料
-
-## about ai programmer
-
-- 评价 codegeex & fittencode
-  - 重新造轮子
-  - 缺乏语法糖和宏定义
-  - 这些最笨的活,ai 最擅长
 
 ## about my cpp and oi experience
 
@@ -1993,67 +1460,6 @@ wasm 让 cpp 焕发第二春.
 - 最后你肯定不亏,大概率赚个小钱.
 - 行业很发达了,搜一下就很多同行.
 
-## about ai painting
-
-首先,只谈论 ai 绘画.ai 声音,很强大了,比如 gptsovits 或者 suno.
-ai 的问题是,目前很弱.
-
-- 真实的三次元人
-  - 参考 this person doesnt exist
-- 色情的二次元人
-  - 参考 pixiv ai gen
-- 我想要的是这些图片吗,显然不是.
-- 我想要的是 quan 的 herta,kazuha 头像.
-- 我想想要的是 aifadian,patreon 上 top 的画师.
-- ai 根本做不到.否则早就出现一堆假装真人的画师了.
-- 如果你能做到,给我测试 demo 和一些样张,发我邮箱.
-- 我会付钱,真的,可能 1000 美金.
-
-## why i hate cn gov
-
-中国政府,只说你又访问了哪国,又说了啥重要话.
-和我有啥关系呢!
-然后你把自己硬是送上各种媒体首页和推荐,号那么多都屏蔽不掉.
-那我只能表明身份了!我喜欢人和文化,不代表我喜欢现在的政府.
-好,屏蔽不掉是吧!好.我不屏蔽了,我搞白名单,只看自己想看的!
-于是就有了 berryberry 项目.
-
-## react vue angular optionated
-
-为什么?
-使用 react,你不得不敲击很多次 useState
-使用 vue,你不得不敲击很多次 this 和 v-
-使用 angular,你不得不敲击很多次 ng-
-
-## why pyscript
-
-python 有一个许多人都忽略的好处
-就是特别键盘友好.
-就我而言,我手指按在` f``j `上,盲打很舒服的区域
-就是手指移动一格范围.和大键.
-打什么数字啊,`f2`rename 啊,上下左右啊,虽然也能盲打,
-但是要移动的就不只是手指了,而是手腕,如果照样按在` f``j `上,就很难够到
-用所有`{}`based 的语言,你退出一个大括号(写完一个函数),都要按两下`down`吧!
-python 只要连按两下胖胖的`enter`就好了.
-然后`;`也被胖胖的`enter`代替了
-就是打包有点麻烦,不能并在一行里.
-然后太 oop 了,而且 optionated 至于没有很好的 fp 支持.
-python 的缺点,就是一般只能在 python 环境下运行,没法转化 cpp 和 javascript 之类的语言
-像 typescript 就没有这个问题,好像比 python 火呢.
-
-## about programming in english
-
-- golden dict
-- google translate extension
-
-## all web frameworks suck
-
-because it's javascript's fault that didnt offer
-
-a method to listen a variable change
-
-after all you could only listen a prop of an obj
-
 ## lex fridman podcast thanks
 
 Thank You
@@ -2061,164 +1467,19 @@ I am forever grateful for the wisdom and love I've encountered in the meandering
 
 Note from 2023: The above was written in 2018, 5 years ago, and it is as true now as it ever was. Thank you again. I love you all!
 
-## hs status
-
-- 我高中辍学了(目前高二在读)
-- 老师很好,来自 east cn normal 和 shanghai normal 的占大多数.
-- 教材不好.我对好教材的定义是,react 文档.
-- 我想自己编教材,自己教学.
-- 个人对,数学,算法,编程感兴趣.
-  ...
-  btw,javascript 设计得太差了,
-  不支持宏定义,不支持取地址,不支持运算符重载...
-
-## why chinese hs sucks
-
-很简单的道理.
-满足了一些人对话命运的贪欲,高中不过是填补从成熟到成年的空白,打发时间而已.
-高中教学其实是一种智力竞赛,是左右互搏的象征.
-六门学科,对于任意一门,都可以不选,在剩下的五门里选.
-即,"任意一门不选都无伤大雅".与"一定至少选三门"矛盾.
-
 ## awkward math problem
 
 x^2+y^2=1,求 max((x+1)(y+2)).
 y=sqrt(1-x^2),直接求导.导数取零,一元四次方程.
 5 次以下都有解析解.done.
 
-## one line todo
-
-todo list should be only one line.
-better.
-
-## open box
-
-开盒?
-纸飞机,数据库.知道.
-编号,传真,坐标,称呼...拿到.
-哪个是我,不知道.
-
-## why javascript as a programming language sucks
-
-宏定义,运算符重载,函数多态...javascript
-
-- 没有宏定义,导致没有办法创建语法糖(如循环宏,switch 宏)
-- 没有运算符重载,导致没有办法优雅地计算数据结构
-- 没有函数多态,导致面向对象方法的流行,或者只能用 class 和 prototype.
-
-`class` is reserved key word in javascript
-so react use `className`...
-wtf.
-
-## why voyagejs
-
-我写 voyage 的原因很简单,流行的框架都太重,太复杂.
-事实上,目前 jquery,vanillajs 仍然有很大的市场.
-这是我的愿望.
-
-- 实现最基础的功能
-- 不高频更新
-
-## about ai
-
-想到的内容
-
-- 给出一堆数字是否是素数,判断一个新的数
-- 给出一堆 svg 图标和计算的位图,使一个新的位图转化 svg.
-  其实学 ai 不需要多少数学的,需要好的接口和文档,目前显然没有.
-  定义里,好的文档是像 react learn docs 这样.
-  至于游戏,每一步操作都和之前有关,特征要复杂一些.
-
-## why tech
-
-为什么从事科技行业?
-因为科技是改变世界的唯一力量.
-或者说有其他方式,但只有科技向前,而非循环往复.
-或者说个人的命运如尘,但看到将至的浪潮,想和他们做朋友,做同事.
-或者说不妨偏安一隅,但休闲,作为愿望不总是唯一.
-至少,作为思想._make tools elegant_
-
-## about mihoyo gi
-
-`important`
-
-如果我是原神策划,我现在就会做三件事
-
-- 靠近传送锚点,自动激活
-- 打开宝箱,自动领取
-- 把地图指引做进游戏,没有人喜欢看教程视频同时打游戏
-
-## about deep dive into machine leaning
-
-动手学机器学习,评价不好.
-如果我来写,第一章应该是这样的
-
-- 下载一个语言小模型 (< 1g)
-- import 一个 python 包
-- 编写 20 行以内代码
-- 运行,在命令行输入问题,获取回复
-
-至于数学什么,不要空谈纯数学 pure math,要结合实际
-
-upd
-什么时候使用这些方法呢?困惑.
-
-讲解大量算法,却没有体现出 ai 的`聪明`
-情感分析,
-
-- `this movie is so great` -> `positive`
-- `this movie is so bad` -> `negative`
-  well that seems awkward?
-
-(所以成为那么多大学的教材?)
-
-## about hello algo
-
-从"算法无处不在"到"贪心问题"
-这是同样读者吗...
-(读者意识)
-
-## money and education
-
-教育上,钱的作用边际递减吧.
-
-去看那些富豪榜,他们的孩子,有怎样的聪慧,怎样的成就.
-不一定的.天下己任的,少数.
-
-或者说,性格决定命运,爱好先于成就.
-目前世界的驱动,是科技.
-如果说,一个赋闲的孩子,爱好文学艺术...
-或许也不会惊艳.
-
-科技,大概是数学,英语...
-或者说,材料物化,生物医药,航空航天.
-无非坡度平缓些的,编码和网路.
-
 ## english tech translation
 
-- `regular expression`
+- regular expression
   - literally means (字符串)规律(匹配)表达式
   - in practice we call that "正则"表达式
   - wow holyshit what is that
 - etc.
-
-## cs50 too stupid
-
-看了 harvard cs50
-教编程,从 scratch 引入判断和循环的概念,
-每个语言都 2 小时浅尝辄止,感觉太简单了.
-
-思考.
-大学新生,没有编程经验,只是读书.
-若是数学和英语,就不一样了.
-学过哦.
-
-## now english cult of god
-
-`important`
-
-语言是许多限制和不利.写字,打字之.中文写字慢,打字慢.英文写字快,打字快.
-看似利好的字数和书法,本质不然,无非降低阅读舒缓,减少可用字体.
 
 ## fucking chinese education organizations
 
@@ -2226,35 +1487,8 @@ upd
 但是，互联网大班课应该把价格打下了，而不是疯狂捞金
 花几十亿做广告、雇销售这不是烧家长血汗钱吗？
 教师们都不研究和更新课程，一心想着把学生留下来续班继续赚钱
+
 (石油 sensei)
-
-## zhangxuefeng literary criticism
-
-批评文科.急功近利的视角.
-
-超功利的世界?或许张雪峰不能回答.恐怕理科也不能回答.
-
-少年不支持张雪峰,因为无论你选择行业,世界不属于你.
-
-世界不属于普通人,文科亦然.
-
-## mihoyo awkward running motion
-
-`important`
-
-好奇怪的奔跑姿势...
-
-可以对墙一直跑,原地瞬间转身,
-
-跑步停下,应该把后面的脚迈向前,而非反之.
-
-而且也没必要在起步和停下时,多余动作.
-
-比如疾跑时压低身形,身边刻画风形.
-
-停下时,就是平静,无心无波澜地停下.
-
-车才会有急刹的感觉,人没有刹车距离的.
 
 ## genshin impact helper
 
@@ -2334,29 +1568,9 @@ sr 的解密(小游戏),比 gi 有意思很多.
 
 ## prefer sr to gi
 
-`important`
-
-sr 像是送了免费代肝机器人.
+sr 像是送了免费代肝 bot.
 
 gi 没有.如是云云.
-
-## drama like law
-
-这个是做给那些“受害者”看的，
-
-被骗了自己全部身家，让自己身无分文的那帮人，可不管你这个“被下游引用的无辜”，在他们眼里“你”就是帮凶。诈骗分子那妥妥是刑法，人都被关了，受害者再有不满也没法找他们发泄，指望他们赔钱那是没戏了。但是你这个作者可在外边，你猜这些受害者这时候会怎么做？
-
-受害者高几率会对等报复 aria 作者（提醒一下，最近漯河有个女法官，处理交通事故案件，因为几千块钱的判罚金额争议，被当事人刀了，注意哦，女法官的判决一点问题都没有，是完全秉公依法判案的），或者对作者发起民事诉讼要求作者连带赔偿他们的损失，民事诉讼是零和博弈。一方之所得，必为另一方之所失。双方难免陷入“损失框架”的思维模式。
-
-这个时候呢，逮捕作者，这样就进入“刑事诉讼”的范畴了。
-刑事诉讼则是非零和博弈。完全可以在刑事诉讼框架内获得双赢结果。
-受害者心里其实 aria 作者究竟有多大责任，自己究竟能占几分理，嘴上或许不说，但心里肯定门儿清。现在国家还站你们一边，连人都给你们抓起来了。你们还有什么不满意？你猜，受害者们会不会对国家感激涕零。（政府秉公执法，每个可能的犯罪分子都不放过）
-
-原作者呢，被抓了。他最担心什么？最担心被判刑对不对。只要拖一段时间，拖到受害者不再纠缠了，国家再给她来个无罪释放，能从看守所脱身，不影响子女考公政审已是大幸。你猜会不会也对国家感激涕零。（政府秉公执法，我法律上无罪的果然是无罪）
-
-比如最近那个《12 岁骑行男孩遭机动车碾压身亡》也是第一时间把司机抓了，也是这个逻辑。
-
-(telegram news)
 
 ## chenxiao origami
 
@@ -2710,4 +1924,3 @@ Chetan Bhagat
 大学生日用 Linux 绩点必低，你看看大学生用 Linux 没一个绩点上 3 的，平时大学的志愿活动都不参加，团建也不去，上课也不听，就坐后排抱着笔记本摆弄 Linux。要考试了才依依不舍打开虚拟机里的 Windows，打开实验模拟软件做点题。没几分钟心思又跑 Linux 去了，又去弄 systemd services 去了，弄各种 wm 去了。虚拟机里的 Windows 都睡眠了还浑然不知。考试的时候什么也不会，勉强考上个 60 分不至于毕不了业，毕业了之后也不找正经工作，找那种工作时间短的，拿点基本工资吃泡面。省的 1000 多块钱用来买 thinkpad、各种开发板和单片机了。
 别人 30 多岁都有孩子了，用 Linux 的 30 多了还没谈过恋爱。到以后老了 40 多岁，孩子都生不出来了。不过不用担心，没有孩子，Linux 用户会有更多时间沉浸在开源世界里。等 Linux 用户老了的时候，没有孩子照顾他们，只能去老人院，别的老人在一起下棋、唠家常，而他们只有一个笔记本。他们坐在轮椅上，没人和他们说话，唯一的社交就是在 irc, discourse, telegram 上和年轻人讨论技术。然而那时他们已经老了，思维和知识都比不上年轻人了，于是又是回去摆弄 Linux 到最后去世了，陪葬的只有 GitHub 帐号和 thinkpad 笔记本。
 这就是 Linux 用户的一生，绝大多数 Linux 用户还是一天到晚无所是事那种的。将来你在公司里上班，别人想的下班跟情人办事，你想的是下班之后回家玩 Linux，然后重蹈覆辙
-

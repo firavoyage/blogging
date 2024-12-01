@@ -70,6 +70,11 @@ git pull e master
 git add .
 git commit -m '.'
 git push -f e
+cd ../lucky
+git pull e master
+git add .
+git commit -m '.'
+git push -f e
 cd ../g
 git pull e master
 git add .

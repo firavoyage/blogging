@@ -24,6 +24,7 @@
 - play df war mode
 - learn math & english
 - sync phone
+- archive lucky star screenshots
 
 > _everyday_
 
