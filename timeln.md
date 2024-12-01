@@ -10673,3 +10673,97 @@ otherwise the reward proba in this match will be improved a lot.
 三角洲摸金模式,或者大战场模式,根据你过去的对局决定下一场的强度和资源...
 
 其实你的成败都是先验(predestined)的.
+
+## 20241201
+
+01:26
+
+**synced phone.**
+
+01:34
+
+`weather` `ref`
+
+hardly could i open my eyes...
+
+and now i feels energetic again...
+
+tomorrow:
+
+- lucky
+- swimming in css in js frameworks
+
+play some df and 
+
+**sleep.**
+
+03:42
+
+`gaming` `ref`
+
+df.
+
+打到了校官v.强度好大,队友和对手都不露,一下就秒.
+
+占领了一个区域,排行榜第一击杀才10个左右.
+
+本来想玩m14...结果被坑惨了...
+
+**不知道默认单发,要调成连发...**
+
+结果比连狙差太多了...
+
+心情不好,玩医生,p90.中规中矩的分数.
+
+**sleep.**
+
+12:xx
+
+`weather` `ref`
+
+awaken.
+
+so hot inside... 
+
+**lack of oxygen...**
+
+felt ill...
+
+13:56
+
+got up.
+
+14:35
+
+`dev`
+
+drifting on codepen
+
+`weather` `ref`
+
+had some freezing cold water on face...
+
+felt refreshed.
+
+14:57
+
+`weather`
+
+had black tea.
+
+15:21
+
+`weather` `ref`
+
+had lunch: dumpling soup and meat rolls...
+
+**tasteless...**
+
+17:01
+
+算数学题...
+
+x^2=1/2,x=1/4...
+
+wtf!我在干什么!
+

@@ -138,7 +138,6 @@
   - genshin impact (2020)
   - minecraft (2011)
   - terraria (2011)
-  - the powder toy (2013)
   - kingdom rush (2011)
   - soul knight (2017)
   - canabalt hd (2009)
@@ -146,6 +145,7 @@
   - hollow knight (2017)
   - celeste (2018)
   - undertale (2015)
+  - the powder toy (2013)
   - doki doki literature club! (2017)
   - senren banka (2016)
   - sabbat of the witch (2015)
@@ -247,7 +247,7 @@
   - youtube
   - mistral le chat & awesome gpt prompts
   - ruanyf weekly & hacker news
-  - javascript weekly & css tricks & codepen spark
+  - codepen spark & css tricks & javascript weekly
   - zhihu & v2ex creative & howie6879 weekly & rebang
   - twitter & mastodon & slashdot & solidot
   - reddit old & nga bbs & acgn.zone & 4chan
@@ -771,18 +771,18 @@
 
 - - github `firavoyage`
   - wakatime `firavoyage`
-- - mastodon `fira@techhub.social` `firavoyage@mastodon.social`
-  - twitter `firascript`
-- - blogger `firavoyage`
+- - codepen `firavoyage`
+  - blogger `firavoyage`
   - cnblogs `fira`
   - wordpress `_`
   - medium `_`
 - - berryberry `fira_言序`
-  - acfun `fira`
   - youtube `_`
-  - telegram `_`
-- - telegram `voyagefira`
+  - telegram channel `_`
+- - telegram `firavoyage`
   - email `firavoyage@outlook.com`
+- - mastodon `fira@techhub.social` `firavoyage@mastodon.social`
+  - twitter `firascript`
 - - name `fira`
   - alias `忘我思考`
   - site `_`

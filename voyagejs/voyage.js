@@ -785,7 +785,7 @@ voyage.run({
 
 @todo
 styling
-- learn from css in js and stylus
+- learn from tailwind sass less stylus
 - using class like method without class
 - edit style label directly
 - `@style` macro
@@ -806,8 +806,8 @@ theme namespace
 - setTheme(str theme)
 - if theme is set check whether the tag is included in the namespace
 - if so createComponent otherwise createNode
-more macro
-- learn from vue 
+define more macros
+- learn from jquery react alpine mithril svelte
 - `@if` `@show`
 - macro(node,state) | macro(node,content)
 better readabilty

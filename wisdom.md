@@ -842,3 +842,16 @@ someone on codeforces:problem solving is fun.
 
 一切奇迹都可能发生.
 
+## predestined df match
+
+df mode is that... 
+
+if you win a lot, you will meet players with dma plugins
+
+otherwise the reward proba in this match will be improved a lot.
+
+**which means whether you could win a lot is predestined**
+
+三角洲摸金模式,或者大战场模式,根据你过去的对局决定下一场的强度和资源...
+
+其实你的成败都是先验(predestined)的.
