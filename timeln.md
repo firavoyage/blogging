@@ -10789,3 +10789,24 @@ watching funshiki theatre...
 
 "走走停停"
 
+## 20241202
+
+00:33
+
+`bangumi`
+
+**watched gold or shit at funshiki live.**
+
+"并非喜剧"
+
+"大叔还我睡眠!"
+
+**sleep.**
+
+## 20241203
+
+18:21
+
+写了个网络辩手prompt.
+
+

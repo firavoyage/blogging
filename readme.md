@@ -725,6 +725,7 @@
   - `ruanyf` observation of the digital time
   - `florio` advice for the programming ride
   - `jiangyanyan` cs researchers and the time
+  - `bhaget` letter to the 4gotten generation
   - `tim` mediastorm early days
   - `reflections` memories of the fellows
 - ideas
