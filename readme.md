@@ -143,18 +143,17 @@
   - soul knight (2017)
   - canabalt hd (2009)
   - angry birds classic (2009)
-  - hollow knight (2017)
-  - celeste (2018)
-  - undertale (2015)
   - the powder toy (2013)
-  - doki doki literature club! (2017)
   - senren banka (2016)
   - sabbat of the witch (2015)
   - the rainbow appears after flowering rain (2016)
-  - .needy streamer overload (2022)
+  - earth online (2007)
   - .the legend of zelda: ocarina of time (1998)
   - .the legend of zelda: breath of the wild (2017)
   - .the legend of zelda: tears of the kingdom (2023)
+  - .hollow knight (2017)
+  - .celeste (2018)
+  - .undertale (2015)
   - .star craft (1998)
   - .doom (1993)
   - .sekiro: shadows die twice (2019)
@@ -164,8 +163,10 @@
   - .super bunny man (2017)
   - .pico park (2019)
   - .fly me 2 the moon (2011)
+  - .needy streamer overload (2022)
   - .yosuga no sora (2008)
   - .riddle joker (2020)
+  - .doki doki literature club! (2017)
   - .wonderful everyday (2010)
   - .bishoujo mangekyou (2020)
 - - to live (yu hua)
@@ -725,8 +726,8 @@
   - `ruanyf` observation of the digital time
   - `florio` advice for the programming ride
   - `jiangyanyan` cs researchers and the time
-  - `bhaget` letter to the 4gotten generation
   - `tim` mediastorm early days
+  - `bhaget` letter to the 4gotten generation
   - `reflections` memories of the fellows
 - ideas
   - `projects` worthwhile endeavours

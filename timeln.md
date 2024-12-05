@@ -10564,13 +10564,13 @@ sr. unknowable domain.
 
 22:08
 
-人之律者登場？十三英桀全滅！帶你看往世樂土大結局！「崩壞3劇情講堂#12」
+人之律者登場？十三英桀全滅！帶你看往世樂土大結局！「崩壞 3 劇情講堂#12」
 
 by funshiki
 
 https://www.youtube.com/watch?v=UoU7gJFTAvc
 
-《崩壞3rd》全新概念PV「往世樂土」
+《崩壞 3rd》全新概念 PV「往世樂土」
 
 https://www.youtube.com/watch?v=Pa41doP6eFs
 
@@ -10606,7 +10606,7 @@ played df. sleep.
 
 11:xx
 
-好困啊... 以为已经13点多了,平时来说...
+好困啊... 以为已经 13 点多了,平时来说...
 
 awaked
 
@@ -10662,7 +10662,7 @@ playing sr. gold and gears.
 
 thoughts...
 
-df mode is that... 
+df mode is that...
 
 if you win a lot, you will meet players with dma plugins
 
@@ -10693,7 +10693,7 @@ tomorrow:
 - lucky
 - swimming in css in js frameworks
 
-play some df and 
+play some df and
 
 **sleep.**
 
@@ -10703,11 +10703,11 @@ play some df and
 
 df.
 
-打到了校官v.强度好大,队友和对手都不露,一下就秒.
+打到了校官 v.强度好大,队友和对手都不露,一下就秒.
 
-占领了一个区域,排行榜第一击杀才10个左右.
+占领了一个区域,排行榜第一击杀才 10 个左右.
 
-本来想玩m14...结果被坑惨了...
+本来想玩 m14...结果被坑惨了...
 
 **不知道默认单发,要调成连发...**
 
@@ -10723,7 +10723,7 @@ df.
 
 awaken.
 
-so hot inside... 
+so hot inside...
 
 **lack of oxygen...**
 
@@ -10769,7 +10769,7 @@ wtf!我在干什么!
 
 20:19
 
-晚饭.羊肉萝卜汤. 
+晚饭.羊肉萝卜汤.
 
 **浑身湿透.**
 
@@ -10807,6 +10807,49 @@ watching funshiki theatre...
 
 18:21
 
-写了个网络辩手prompt.
+写了个网络辩手 prompt.
 
+21:08
+
+`dev`
+
+mistral chat 还会自动刷新...
+
+很精致的 web app 啊...
+
+大概是一直在后台同步,数据变化就刷新了.
+
+## 20241205
+
+12:31
+
+`weather`
+
+休息.
+
+手机屏幕坏了,闪烁绿光,整个屏幕.
+
+隐约能透出下面的内容.
+
+以前也如是坏过.闲置了一下午就好了.
+
+电子设备,也如常.
+
+12:41
+
+`dev`
+
+感觉是短路了.
+
+之前经常拔掉充电器还显示在充电.
+
+也有时候反之,那是接触不良.
+
+总之power off吧.
+
+wtf. power off 结果让我 enter password!
+
+厉害啊. 之前还不用输密码呢. 算了算了.
+
+god knows.
 

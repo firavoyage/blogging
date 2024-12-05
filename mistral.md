@@ -5514,160 +5514,6 @@ Giscus is a powerful and flexible commenting system that leverages GitHub Discus
 
 ## latex math symbols
 
-`list` `ref`
-
-> $\to mistral \space large \space 2$
-
-> long latex symbols list
-
-Certainly! LaTeX is a powerful typesetting system that is widely used for creating documents with complex mathematical notation. Below is a list of commonly used LaTeX symbols, categorized for easy reference:
-
-### Greek Letters
-
-- **Lowercase:**
-
-  - `\alpha` $\alpha$
-  - `\beta` $\beta$
-  - `\gamma` $\gamma$
-  - `\delta` $\delta$
-  - `\epsilon` $\epsilon$
-  - `\zeta` $\zeta$
-  - `\eta` $\eta$
-  - `\theta` $\theta$
-  - `\iota` $\iota$
-  - `\kappa` $\kappa$
-  - `\lambda` $\lambda$
-  - `\mu` $\mu$
-  - `\nu` $\nu$
-  - `\xi` $\xi$
-  - `\pi` $\pi$
-  - `\rho` $\rho$
-  - `\sigma` $\sigma$
-  - `\tau` $\tau$
-  - `\upsilon` $\upsilon$
-  - `\phi` $\phi$
-  - `\chi` $\chi$
-  - `\psi` $\psi$
-  - `\omega` $\omega$
-
-- **Uppercase:**
-  - `\Gamma` $\Gamma$
-  - `\Delta` $\Delta$
-  - `\Theta` $\Theta$
-  - `\Lambda` $\Lambda$
-  - `\Xi` $\Xi$
-  - `\Pi` $\Pi$
-  - `\Sigma` $\Sigma$
-  - `\Upsilon` $\Upsilon$
-  - `\Phi` $\Phi$
-  - `\Psi` $\Psi$
-  - `\Omega` $\Omega$
-
-### Mathematical Symbols
-
-- **Arithmetic:**
-
-  - `+` $+$
-  - `-` $-$
-  - `\times` $\times$
-  - `\div` $\div$
-  - `\pm` $\pm$
-  - `\mp` $\mp$
-
-- **Relational:**
-
-  - `=` $=$
-  - `\neq` $\neq$
-  - `<` $<$
-  - `>` $>$
-  - `\leq` $\leq$
-  - `\geq` $\geq$
-  - `\approx` $\approx$
-  - `\sim` $\sim$
-  - `\cong` $\cong$
-
-- **Set Theory:**
-
-  - `\in` $\in$
-  - `\notin` $\notin$
-  - `\subset` $\subset$
-  - `\supset` $\supset$
-  - `\subseteq` $\subseteq$
-  - `\supseteq` $\supseteq$
-  - `\cup` $\cup$
-  - `\cap` $\cap$
-  - `\emptyset` $\emptyset$
-
-- **Logic:**
-
-  - `\forall` $\forall$
-  - `\exists` $\exists$
-  - `\neg` $\neg$
-  - `\land` $\land$
-  - `\lor` $\lor$
-  - `\rightarrow` $\rightarrow$
-  - `\leftarrow` $\leftarrow$
-  - `\Rightarrow` $\Rightarrow$
-  - `\Leftarrow` $\Leftarrow$
-  - `\Leftrightarrow` $\Leftrightarrow$
-
-- **Calculus:**
-  - `\int` $\int$
-  - `\oint` $\oint$
-  - `\sum` $\sum$
-  - `\prod` $\prod$
-  - `\lim` $\lim$
-  - `\infty` $\infty$
-  - `\partial` $\partial$
-  - `\nabla` $\nabla$
-
-### Miscellaneous Symbols
-
-- **Accents:**
-
-  - `\hat{a}` $\hat{a}$
-  - `\bar{a}` $\bar{a}$
-  - `\vec{a}` $\vec{a}$
-  - `\dot{a}` $\dot{a}$
-  - `\ddot{a}` $\ddot{a}$
-  - `\tilde{a}` $\tilde{a}$
-
-- **Brackets:**
-
-  - `( )` $( )$
-  - `[ ]` $[ ]$
-  - `\{ \}` $\{ \}$
-  - `\langle \rangle` $\langle \rangle$
-  - `\lfloor \rfloor` $\lfloor \rfloor$
-  - `\lceil \rceil` $\lceil \rceil$
-
-- **Arrows:**
-  - `\uparrow` $\uparrow$
-  - `\downarrow` $\downarrow$
-  - `\leftarrow` $\leftarrow$
-  - `\rightarrow` $\rightarrow$
-  - `\leftrightarrow` $\leftrightarrow$
-  - `\Uparrow` $\Uparrow$
-  - `\Downarrow` $\Downarrow$
-  - `\Leftarrow` $\Leftarrow$
-  - `\Rightarrow` $\Rightarrow$
-  - `\Leftrightarrow` $\Leftrightarrow$
-
-### Special Characters
-
-- `\cdot` $\cdot$
-- `\cdots` $\cdots$
-- `\vdots` $\vdots$
-- `\ddots` $\ddots$
-- `\sqrt{x}` $\sqrt{x}$
-- `\sqrt[n]{x}` $\sqrt[n]{x}$
-- `\frac{a}{b}` $\frac{a}{b}$
-- `\binom{n}{k}` $\binom{n}{k}$
-
-This list covers many of the commonly used symbols in LaTeX. For more specialized symbols, you can refer to the comprehensive symbol list in the LaTeX documentation or online resources.
-
-## latex math symbols comprehensive list
-
 `list` `ref` `important`
 
 > $\to mistral \space large \space 2$
@@ -10126,7 +9972,7 @@ By following the Dependency Inversion Principle, you can create more flexible, m
 
 ## jsdoc
 
-`concept` `ref` `dev` `guide` `library`
+`concept` `ref` `dev` `library`
 
 > $\to mistral \space large \space 2$
 
@@ -10281,6 +10127,660 @@ The `jsdoc.json` file is a configuration file that specifies the input files and
 This configuration will include all JavaScript files in the `src` directory and generate documentation in the `docs` directory.
 
 JSDoc is a powerful tool for documenting JavaScript code, making it easier to understand and maintain. By using JSDoc comments, you can ensure that your code is well-documented and that the documentation is always up-to-date with the code.
+
+## jsdoc tags
+
+`list` `ref` `important` `dev` `guide` `library`
+
+> $\to mistral \space large \space 2$
+
+> comprehensive list of jsdoc tags with example
+
+JSDoc is a popular tool for generating documentation from JavaScript code comments. It uses special tags to provide additional information about the code. Below is a comprehensive list of commonly used JSDoc tags along with examples:
+
+1. **@param** - Describes a parameter to a function.
+
+   ```javascript
+   /**
+    * Adds two numbers.
+    * @param {number} a - The first number.
+    * @param {number} b - The second number.
+    * @returns {number} The sum of a and b.
+    */
+   function add(a, b) {
+     return a + b;
+   }
+   ```
+
+2. **@returns** - Describes the return value of a function.
+
+   ```javascript
+   /**
+    * Returns the square of a number.
+    * @param {number} x - The number to square.
+    * @returns {number} The square of x.
+    */
+   function square(x) {
+     return x * x;
+   }
+   ```
+
+3. **@type** - Describes the type of a variable.
+
+   ```javascript
+   /**
+    * @type {number}
+    */
+   let age = 30;
+   ```
+
+4. **@typedef** - Defines a custom type.
+
+   ```javascript
+   /**
+    * @typedef {Object} User
+    * @property {string} name - The name of the user.
+    * @property {number} age - The age of the user.
+    */
+   ```
+
+5. **@property** - Describes a property of an object.
+
+   ```javascript
+   /**
+    * @typedef {Object} Person
+    * @property {string} name - The name of the person.
+    * @property {number} age - The age of the person.
+    */
+   ```
+
+6. **@constructor** - Indicates that a function is a constructor.
+
+   ```javascript
+   /**
+    * Creates a new Car.
+    * @constructor
+    * @param {string} make - The make of the car.
+    * @param {string} model - The model of the car.
+    */
+   function Car(make, model) {
+     this.make = make;
+     this.model = model;
+   }
+   ```
+
+7. **@this** - Describes the type of the `this` keyword.
+
+   ```javascript
+   /**
+    * @this {Car}
+    */
+   Car.prototype.start = function () {
+     console.log(this.make + " " + this.model + " is starting.");
+   };
+   ```
+
+8. **@extends** - Indicates that a class extends another class.
+
+   ```javascript
+   /**
+    * @extends {Car}
+    */
+   function ElectricCar(make, model, batteryLife) {
+     Car.call(this, make, model);
+     this.batteryLife = batteryLife;
+   }
+   ```
+
+9. **@implements** - Indicates that a class implements an interface.
+
+   ```javascript
+   /**
+    * @implements {Drivable}
+    */
+   function Car(make, model) {
+     this.make = make;
+     this.model = model;
+   }
+   ```
+
+10. **@interface** - Defines an interface.
+
+    ```javascript
+    /**
+     * @interface
+     */
+    function Drivable() {}
+    ```
+
+11. **@mixin** - Indicates that a class is a mixin.
+
+    ```javascript
+    /**
+     * @mixin
+     */
+    function Loggable() {}
+    ```
+
+12. **@mixes** - Indicates that a class mixes in another class.
+
+    ```javascript
+    /**
+     * @mixes {Loggable}
+     */
+    function Car(make, model) {
+      this.make = make;
+      this.model = model;
+    }
+    ```
+
+13. **@augments** - Indicates that a class augments another class.
+
+    ```javascript
+    /**
+     * @augments {Car}
+     */
+    function ElectricCar(make, model, batteryLife) {
+      Car.call(this, make, model);
+      this.batteryLife = batteryLife;
+    }
+    ```
+
+14. **@enum** - Defines an enumeration.
+
+    ```javascript
+    /**
+     * @enum {number}
+     */
+    const Colors = {
+      RED: 0,
+      GREEN: 1,
+      BLUE: 2,
+    };
+    ```
+
+15. **@callback** - Describes a callback function.
+
+    ```javascript
+    /**
+     * @callback requestCallback
+     * @param {number} responseCode
+     * @param {string} responseMessage
+     */
+    ```
+
+16. **@event** - Describes an event.
+
+    ```javascript
+    /**
+     * @event Button#click
+     * @type {object}
+     * @property {Element} target - The element that was clicked.
+     */
+    ```
+
+17. **@fires** - Indicates that a function fires an event.
+
+    ```javascript
+    /**
+     * @fires Button#click
+     */
+    function clickButton() {
+      // code to click the button
+    }
+    ```
+
+18. **@listens** - Indicates that a function listens for an event.
+
+    ```javascript
+    /**
+     * @listens Button#click
+     */
+    function handleClick() {
+      // code to handle the click event
+    }
+    ```
+
+19. **@example** - Provides an example of how to use a function or class.
+
+    ```javascript
+    /**
+     * Adds two numbers.
+     * @param {number} a - The first number.
+     * @param {number} b - The second number.
+     * @returns {number} The sum of a and b.
+     * @example
+     * // returns 5
+     * add(2, 3);
+     */
+    function add(a, b) {
+      return a + b;
+    }
+    ```
+
+20. **@deprecated** - Indicates that a function or class is deprecated.
+
+    ```javascript
+    /**
+     * @deprecated Use `newFunction` instead.
+     */
+    function oldFunction() {
+      // old code
+    }
+    ```
+
+21. **@see** - Provides a reference to related documentation.
+
+    ```javascript
+    /**
+     * @see {@link https://example.com/docs}
+     */
+    ```
+
+22. **@link** - Creates an inline link to another piece of documentation.
+
+    ```javascript
+    /**
+     * This function is related to {@link add}.
+     */
+    function subtract(a, b) {
+      return a - b;
+    }
+    ```
+
+23. **@todo** - Indicates a task that needs to be done.
+
+    ```javascript
+    /**
+     * @todo Implement this function.
+     */
+    function futureFunction() {
+      // future code
+    }
+    ```
+
+24. **@ignore** - Ignores the following block of code for documentation purposes.
+
+    ```javascript
+    /**
+     * @ignore
+     */
+    function privateFunction() {
+      // private code
+    }
+    ```
+
+25. **@private** - Indicates that a member is private.
+
+    ```javascript
+    /**
+     * @private
+     */
+    function privateFunction() {
+      // private code
+    }
+    ```
+
+26. **@protected** - Indicates that a member is protected.
+
+    ```javascript
+    /**
+     * @protected
+     */
+    function protectedFunction() {
+      // protected code
+    }
+    ```
+
+27. **@public** - Indicates that a member is public.
+
+    ```javascript
+    /**
+     * @public
+     */
+    function publicFunction() {
+      // public code
+    }
+    ```
+
+28. **@readonly** - Indicates that a member is read-only.
+
+    ```javascript
+    /**
+     * @readonly
+     */
+    const PI = 3.14;
+    ```
+
+29. **@override** - Indicates that a method overrides a method in a superclass.
+
+    ```javascript
+    /**
+     * @override
+     */
+    ElectricCar.prototype.start = function () {
+      console.log(
+        this.make +
+          " " +
+          this.model +
+          " is starting with " +
+          this.batteryLife +
+          " battery life."
+      );
+    };
+    ```
+
+30. **@async** - Indicates that a function is asynchronous.
+
+    ```javascript
+    /**
+     * @async
+     * @returns {Promise<number>}
+     */
+    async function fetchData() {
+      return 42;
+    }
+    ```
+
+31. **@generator** - Indicates that a function is a generator.
+
+    ```javascript
+    /**
+     * @generator
+     * @yields {number}
+     */
+    function* generateNumbers() {
+      yield 1;
+      yield 2;
+      yield 3;
+    }
+    ```
+
+32. **@yields** - Describes the value yielded by a generator function.
+
+    ```javascript
+    /**
+     * @generator
+     * @yields {number}
+     */
+    function* generateNumbers() {
+      yield 1;
+      yield 2;
+      yield 3;
+    }
+    ```
+
+33. **@template** - Defines a generic type parameter.
+
+    ```javascript
+    /**
+     * @template T
+     * @param {T} value - The value to return.
+     * @returns {T} The value that was passed in.
+     */
+    function identity(value) {
+      return value;
+    }
+    ```
+
+34. **@borrows** - Indicates that a member is borrowed from another class.
+
+    ```javascript
+    /**
+     * @borrows Car#start as startEngine
+     */
+    ```
+
+35. **@lends** - Describes the properties of an object.
+
+    ```javascript
+    /**
+     * @lends Car.prototype
+     */
+    ```
+
+36. **@alias** - Creates an alias for a namespace.
+
+    ```javascript
+    /**
+     * @alias module:myModule
+     */
+    ```
+
+37. **@memberof** - Indicates that a member belongs to a specific class or namespace.
+
+    ```javascript
+    /**
+     * @memberof Car
+     */
+    Car.prototype.stop = function () {
+      console.log(this.make + " " + this.model + " is stopping.");
+    };
+    ```
+
+38. **@instance** - Indicates that a member is an instance member.
+
+    ```javascript
+    /**
+     * @instance
+     */
+    Car.prototype.start = function () {
+      console.log(this.make + " " + this.model + " is starting.");
+    };
+    ```
+
+39. **@static** - Indicates that a member is a static member.
+
+    ```javascript
+    /**
+     * @static
+     */
+    Car.create = function (make, model) {
+      return new Car(make, model);
+    };
+    ```
+
+40. **@default** - Describes the default value of a parameter.
+
+    ```javascript
+    /**
+     * @param {number} [timeout=1000] - The timeout value.
+     */
+    function setTimeout(timeout) {
+      // code
+    }
+    ```
+
+41. **@defaultvalue** - Describes the default value of a property.
+
+    ```javascript
+    /**
+     * @type {number}
+     * @defaultvalue 1000
+     */
+    let timeout = 1000;
+    ```
+
+42. **@throws** - Describes an error that a function may throw.
+
+    ```javascript
+    /**
+     * @throws {Error} If the input is invalid.
+     */
+    function validateInput(input) {
+      if (!input) {
+        throw new Error("Invalid input");
+      }
+    }
+    ```
+
+43. **@variation** - Describes a variation of a type.
+
+    ```javascript
+    /**
+     * @variation 1
+     */
+    ```
+
+44. **@virtual** - Indicates that a method is intended to be overridden.
+
+    ```javascript
+    /**
+     * @virtual
+     */
+    Car.prototype.start = function () {
+      console.log(this.make + " " + this.model + " is starting.");
+    };
+    ```
+
+45. **@abstract** - Indicates that a method is abstract and must be implemented by subclasses.
+
+    ```javascript
+    /**
+     * @abstract
+     */
+    Car.prototype.start = function () {
+      throw new Error("Method not implemented.");
+    };
+    ```
+
+46. **@access** - Describes the access level of a member.
+
+    ```javascript
+    /**
+     * @access private
+     */
+    function privateFunction() {
+      // private code
+    }
+    ```
+
+47. **@kind** - Describes the kind of a member.
+
+    ```javascript
+    /**
+     * @kind constant
+     */
+    const MAX_VALUE = 100;
+    ```
+
+48. **@name** - Describes the name of a member.
+
+    ```javascript
+    /**
+     * @name Car#start
+     */
+    ```
+
+49. **@member** - Indicates that a member belongs to a class or namespace.
+
+    ```javascript
+    /**
+     * @member {string} Car#make
+     */
+    ```
+
+50. **@file** - Describes the file.
+
+    ```javascript
+    /**
+     * @file This file contains the Car class.
+     */
+    ```
+
+51. **@fileoverview** - Provides an overview of the file.
+
+    ```javascript
+    /**
+     * @fileoverview This file contains the Car class.
+     */
+    ```
+
+52. **@module** - Defines a module.
+
+    ```javascript
+    /**
+     * @module myModule
+     */
+    ```
+
+53. **@exports** - Indicates that a member is exported.
+
+    ```javascript
+    /**
+     * @exports Car
+     */
+    ```
+
+54. **@external** - Indicates that a member is defined externally.
+
+    ```javascript
+    /**
+     * @external jQuery
+     */
+    ```
+
+55. **@global** - Indicates that a member is global.
+
+    ```javascript
+    /**
+     * @global
+     */
+    var globalVar = 42;
+    ```
+
+56. **@inner** - Indicates that a member is an inner member.
+
+    ```javascript
+    /**
+     * @inner
+     */
+    function innerFunction() {
+      // inner code
+    }
+    ```
+
+57. **@namespace** - Defines a namespace.
+
+    ```javascript
+    /**
+     * @namespace
+     */
+    var myNamespace = {};
+    ```
+
+58. **@package** - Describes the package.
+
+    ```javascript
+    /**
+     * @package
+     */
+    ```
+
+59. **@classdesc** - Provides a description for a class.
+
+    ```javascript
+    /**
+     * @classdesc Represents a car.
+     */
+    function Car(make, model) {
+      this.make = make;
+      this.model = model;
+    }
+    ```
+
+60. **@class** - Defines a class.
+    ```javascript
+    /**
+     * @class
+     */
+    function Car(make, model) {
+      this.make = make;
+      this.model = model;
+    }
+    ```
+
+These tags provide a comprehensive way to document JavaScript code, making it easier to understand and maintain.
 
 ## state machine
 

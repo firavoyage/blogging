@@ -102,3 +102,9 @@ git commit -m '.'
 git push -f e
 cd ../..
 }
+
+function gen(){ #generate jsdoc
+cd /home/fira/Documents/blogging/voyagejs
+zsh jsdoc.sh
+open /home/fira/Documents/blogging/voyagejs/docs/index.html
+}

@@ -317,7 +317,8 @@ sudo apt install gnome-shell-extension-prefs
   - toggle bread crumbs `off`
 - config behavior
   - -> `file > preferences > settings`
-  - autosave `after delay`
+  - auto save `after delay`
+    - after delay `100`
   - font family `"Fira Code", "Noto Sans CJK SC", monospace`
   - font ligatures `on`
   - font size `16`

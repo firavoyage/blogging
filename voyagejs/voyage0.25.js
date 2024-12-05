@@ -1,26 +1,20 @@
-/**
- * all data and methods
- * @namespace voyage
- */
+//20241127
+//voyagejs 0.25
+
 let voyage = {
-  /**
-   * some pure functions
-   * @namespace lib
-   */
   lib: {
+    /**
+     * 
+     * @param {*} a 
+     * @param {*} b 
+     * @returns 
+     */
     is(a, b) {
       return a === b;
     },
     isnt(a, b) {
       return a !== b;
     },
-    /**
-     * check if an obj has key or arr has index
-     * @param {object} obj test obj
-     * @param {string | number} key key in obj or in index of arr
-     * @returns {boolean} 
-     * @memberof lib
-     */
     has(obj, key) {
       const { check } = voyage.lib;
 
@@ -37,8 +31,8 @@ let voyage = {
       return !has(obj, key);
     },
     init(obj, ...path) {
-      const { check, lacks } = voyage.lib;
-
+      const { check,lacks } = voyage.lib;
+      
       const { initKey } = {
         initKey(obj, key, initial) {
           if (lacks(obj, key)) {
@@ -317,9 +311,9 @@ let voyage = {
     };
   },
   bind(...options) {
-    const { check, has, init } = voyage.lib;
-
-    let { updaters, info } = voyage;
+    const { check, has,init } = voyage.lib;
+    
+    let { updaters,info } = voyage;
     const { bindUpdater } = {
       bindUpdater(componentid, stateid, updater) {
         if (!info[componentid].created) {
@@ -364,7 +358,7 @@ let voyage = {
   },
   create(...options) {
     const { is, isnt, check, has, lacks, init, each, use, count } = voyage.lib;
-    const { bind, call } = voyage;
+    const { bind,call } = voyage;
     const { assign: give } = Object;
 
     let elements = [],
@@ -514,7 +508,7 @@ let voyage = {
   },
   get(...options) {
     const { is, check } = voyage.lib;
-
+    
     const { reactive } = voyage;
     if (is(options.length, 1)) {
       const [option] = options;
@@ -547,7 +541,7 @@ let voyage = {
     }
   },
   ref(...options) {
-    const { is, check, map, init, count, sync, use } = voyage.lib;
+    const { is,check,map,init,count,sync,use } = voyage.lib;
     const { updateState } = voyage;
 
     const { refState } = {
@@ -594,8 +588,8 @@ let voyage = {
     }
   },
   store(...options) {
-    const { is, check, map, init } = voyage.lib;
-    const { bind, select, replace, call, ref } = voyage;
+    const { is,check,map,init } = voyage.lib;
+    const { bind,select, replace ,call,ref} = voyage;
 
     if (is(options.length, 1)) {
       options = options[0];
@@ -629,11 +623,12 @@ let voyage = {
     }
   },
   keep(obj) {
-    const { is, map, init, sync, use } = voyage.lib;
+    const { is, map,init,sync, use } = voyage.lib;
     const { updateState } = voyage;
 
     const { keepGlobal } = {
       keepGlobal(key, value) {
+
         let { states } = voyage;
         states["global"][key] = value;
 

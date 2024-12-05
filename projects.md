@@ -946,6 +946,13 @@ for(i 1 10 j 10 100){A} //for(let i=1;i<=10;i++){for(let j=10;i<=100;j++){A}}
   - jquery with macros
   - not react reduced
   - component based
+- leverage
+  - react needs pre compiler
+  - i dont want that
+  - and jquery is too straight forward
+  - tailwind only includes detailed style classes 
+  - which lacks macro support
+  - at least i didnt see them widely used in production
 - learn
   - show
   - handle
