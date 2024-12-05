@@ -727,7 +727,7 @@
   - `florio` advice for the programming ride
   - `jiangyanyan` cs researchers and the time
   - `tim` mediastorm early days
-  - `bhaget` letter to the 4gotten generation
+  - `bhaget` worries about the 4gotten generation
   - `reflections` memories of the fellows
 - ideas
   - `projects` worthwhile endeavours

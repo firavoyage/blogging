@@ -713,7 +713,7 @@
   - adventurine's coins (imo 2010 p5)
   - cr ideas that supercell rejected
   - sr styled brawl stars
-- game ideas
+- tiny game ideas
   - google doodles
   - honkai star rail
   - honkai impact third
@@ -943,16 +943,13 @@ for(i 1 10 j 10 100){A} //for(let i=1;i<=10;i++){for(let j=10;i<=100;j++){A}}
 > -> /voyagejs
 
 - features
-  - jquery with macros
-  - not react reduced
+  - no pre compiler
   - component based
+  - pug to element 
 - leverage
-  - react needs pre compiler
-  - i dont want that
-  - and jquery is too straight forward
-  - tailwind only includes detailed style classes 
-  - which lacks macro support
-  - at least i didnt see them widely used in production
+  - removed pre compiler from react
+  - component support for jquery
+  - macro for tailwind 
 - learn
   - show
   - handle
