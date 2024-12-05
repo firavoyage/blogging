@@ -6,20 +6,35 @@ let voyage = {
   /**
    * some pure functions
    * @namespace lib
+   * @memberof voyage
    */
   lib: {
+    /**
+     * strict equality test
+     * @param {*} a
+     * @param {*} b
+     * @returns {boolean} whether a is equal to b
+     * @memberof voyage.lib
+     */
     is(a, b) {
       return a === b;
     },
+    /**
+     * strict equality test
+     * @param {*} a
+     * @param {*} b
+     * @returns {boolean} whether a is not equal to b
+     * @memberof voyage.lib
+     */
     isnt(a, b) {
       return a !== b;
     },
     /**
-     * check if an obj has key or arr has index
-     * @param {object} obj test obj
-     * @param {string | number} key key in obj or in index of arr
-     * @returns {boolean} 
-     * @memberof lib
+     * check whether an object has certain key or an array has certain index
+     * @param {object} obj - the object or array
+     * @param {string | number} key - the key or index
+     * @returns {boolean} whether the object has such key or the array has such index
+     * @memberof voyage.lib
      */
     has(obj, key) {
       const { check } = voyage.lib;
@@ -32,10 +47,41 @@ let voyage = {
         return false;
       }
     },
+    /**
+     * check whether an object lacks certain key or an array lacks certain index
+     * @param {object} obj - the object or array
+     * @param {string | number} key - the key or index
+     * @returns {boolean} whether the object lacks such key or the array lacks such index
+     * @memberof lib
+     */
     lacks(obj, key) {
       const { has } = voyage.lib;
       return !has(obj, key);
     },
+    /**
+     * init an obj with certain path
+     * @param {object} obj - the object needs to be init
+     * @param  {...string|string[]|object} ...path - path to be init, which is object by default.
+     * 
+     * > if the key already exists, it wont init
+     * > 
+     * > if it's a string, consider it as the key and init {key:{}}
+     * > 
+     * > if it's a array with one string element, consider it as the key and init {key:[]}
+     * > 
+     * > if it's an object wiht one key value pair, init {key:value}
+     * 
+     * @returns {object} the object given after being init
+     * @example
+     * 
+     * init({},"foo","bar") //{foo:{bar:{}}}
+     * 
+     * init({},"foo",["bar"]) //{foo:{bar:[]}}
+     * 
+     * init({},{"foo":{abc:"xyz"}},"bar") //{foo:{abc:"xyz",bar:{}]} 
+     * 
+     * @memberof voyage.lib
+     */
     init(obj, ...path) {
       const { check, lacks } = voyage.lib;
 
@@ -62,6 +108,52 @@ let voyage = {
       }
       return obj;
     },
+    /**
+     * check type or type equality
+     * @param {*} a - value needs to be checked
+     * @param {string|function} [b] - type or constructor
+     * @returns {string|boolean} type or equality
+     * 
+     * > calculate a value
+     * >
+     * > if a is undefined or null the value is false
+     * >
+     * > otherwise it's typeof a
+     * >
+     * > if b is not given return the value
+     * >
+     * > if b is given as a string
+     * >
+     * > then return true if b is the same as the value
+     * >
+     * > if b is given as a function
+     * >
+     * > return a instance of b
+     * 
+     * @example
+     * 
+     * check(undefined) //false
+     * 
+     * check(null) //false
+     * 
+     * check(undefined,false) //true
+     * 
+     * check(undefined,"undefined") //false
+     * 
+     * check(false) //"boolean"
+     * 
+     * check(1,"number") //true
+     * 
+     * check("number") //"string"
+     * 
+     * check([],Array) //true
+     * 
+     * check([],"object") //true
+     * 
+     * check([],"array") //false
+     * 
+      * @memberof voyage.lib
+     */
     check(a, b) {
       const { is } = voyage.lib;
 
@@ -84,11 +176,24 @@ let voyage = {
         return checkType(a);
       }
     },
+    /**
+     * get unique identifier for each key. same key same identifier.
+     * @param {string} key 
+     * @returns {string} hash+key
+     * @memberof voyage.lib
+     */
     symbol(key) {
       const symbolSha256 =
         "b76a7ca153c24671658335bbd08946350ffc621fa1c516e7123095d4ffd5c581";
       return symbolSha256 + key;
     },
+    /**
+     * 
+     * @param {number} begin 
+     * @param {number} end 
+     * @param {number} step 
+     * @returns {Iterator} 
+     */
     each(begin, end, step) {
       const { check } = voyage.lib;
 
@@ -830,7 +935,7 @@ define more macros
 - `@if` `@show`
 - macro(node,state) | macro(node,content)
 to element
-- from pug etc.
+- from html pug etc.
 better readabilty
 - rp all cid sid with state and dc {cid sid} = state
 - rp some else with else if
