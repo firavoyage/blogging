@@ -359,7 +359,7 @@ sudo apt install gnome-shell-extension-prefs
   - - open settings `ctrl ,`
     - toggle nav bar `alt`
     - toggle side bar `ctrl b`
-    - _toggle panel_ `ctrl shift a`
+    - _toggle panel_ `ctrl alt p`
     - toggle terminal `ctrl backquote`
     - toggle explorer `ctrl shift e`
     - toggle extensions `ctrl shift x`
@@ -368,7 +368,7 @@ sudo apt install gnome-shell-extension-prefs
     - _save as_ `ctrl alt s`
   - - auto indent (format code) `ctrl shift i`
     - preview markdown `ctrl shift v`
-  - - _run code_ `ctrl alt r`
+  - - _run code_ `ctrl r`
     - _stop running in terminal_ `ctrl c`
   - - _move cursor left_ `ctrl h` `left`
     - _move cursor right_ `ctrl l` `right`
@@ -388,12 +388,9 @@ sudo apt install gnome-shell-extension-prefs
       - removed
     - _select word left_ `ctrl shift alt h` `shift alt h` `ctrl shift left`
     - _select word right_ `ctrl shift alt l` `shift alt l` `ctrl shift right`
-    - _save_ `ctrl s`
-      - removed
-    - _expand selection_ `ctrl s` `shift alt right`
     - _save as_ `ctrl shift s`
       - removed
-    - _shrink selection_ `ctrl shift s` `shift alt left`
+    - _expand line selection_ `ctrl shift s`
     - _duplicate selection_ `ctrl d`
     - add cursor `alt click`
     - _add cursor below_ `ctrl alt j` `ctrl shift alt j` `ctrl shift down`
@@ -417,8 +414,10 @@ sudo apt install gnome-shell-extension-prefs
     - _outdent line_ `shift tab` `ctrl [`
     - _tab_ `tab`
       - removed
-    - _fold code (wrap)_ `ctrl shift [` `ctrl r`
-    - _unfold code (expand)_ `ctrl shift ]` `ctrl e`
+    - _save_ `ctrl s`
+      - removed
+    - _shrink code (fold)_ `ctrl shift [` `ctrl s`
+    - _expand code (unfold)_ `ctrl shift ]` `ctrl e`
   - - find `ctrl f`
     - _replace_ `ctrl h`
       - when `findInputFocussed`

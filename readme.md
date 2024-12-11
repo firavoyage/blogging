@@ -43,10 +43,10 @@
   - math & oi & unix porn & mtf pride
   - functional programming & web dev
   - dark style & night light & low brightness
-  - arrangement & accumulation
   - observation & reflection
+  - arrangement & accumulation
   - daydreaming & mind wandering
-  - dissociation & second person omniscient narration
+  - dissociation & second person omniscient narration & inner speech
 - - hotel california (eagles)
   - wind of change (scorpions)
   - scarborough fair (sarah brightman)
@@ -105,6 +105,7 @@
   - my tsinghua dream (2022)
   - the great learning (2021)
   - gold or shit (2024)
+  - castle in the sky (1986)
   - .evangelion (1995)
   - .tonikawa: over the moon for you (2020)
   - .my youth romantic comedy is wrong, as i expected (2011)
@@ -205,12 +206,12 @@
   - what i have seen (chai jing)
   - the chameleon (anton chekhov)
   - rashomon (ryunosuke akutagawa)
+  - waiting for godot (samuel beckett)
   - .godel, escher, bach (douglas hofstadter)
   - .shakespeare's sonnets (william shakespeare)
   - .over autumn rooftops (hai zi)
   - .nameless flowers (gu cheng)
   - .stray birds (rabindranath tagore)
-  - .waiting for godot (samuel beckett)
   - .fortress besieged (qian zhongshu)
   - .pride and prejudice (jane austen)
   - .if on a winter's night a traveler (italo calvino)
@@ -308,6 +309,7 @@
   - black man cupid & street girls
   - blue striped rabbit
   - brad traversy & web dev & crash courses
+  - bruno simon & web dev & threejs journey founding
   - cali castle & zolplay founding & game dev
   - cao yunfan djhs
   - cao yunfan djhs & geography enthusiast
@@ -365,6 +367,8 @@
   - jin yudong krahets & algorithms guide
   - jjying iconmoon & design
   - justyyuk doctor lai & algorithms
+  - kaiyi & web dev & podcast hosting
+  - kevin brown & mathpages founding
   - kevin deng sanxiaozhizi & web dev & vue
   - kevin powell & web dev & only css
   - key725 df & white hair and crimson eye
@@ -375,6 +379,7 @@
   - lex fridman & dev conversation
   - li xinshuo djhs & anime otaku girl
   - liu chenyu djhs & math enthusiast
+  - liu mingye & web dev & music tools
   - liu xin livid & v2ex founding
   - liu yuan djhs & interactive math
   - longbow flintlock & mihoyo doujin
@@ -382,6 +387,7 @@
   - luca florio & freshman programmer guide
   - lv fuyuan djhs & math champ
   - lv yirong ldhs qbhs & champ
+  - maciej cegłowski & pinboard founding
   - magicalflower codeforces
   - marco arment & overcast founding
   - math contest fei bro
@@ -399,23 +405,24 @@
   - one math & draft style tut vid
   - owen young & freelancing
   - pan tianhong tim & pan shuimiao & mediastorm founding
-  - paperclip
-  - paul graham paulg & y combinator hacker news founding
-  - pea3nut peadar
+  - paul graham paulg & y combinator founding & hacker news founding
+  - pea3nut peadar & web dev
   - peng kunshuo orchidany flowerpks codeforces
   - physixfan
-  - pieter levels levelsio & nomad list founding & make writing
+  - pieter levels levelsio & make authorship & nomad list founding 
   - promise of playboy sr
   - qingyu codeforces
+  - randall munroe & xkcd founding
   - ren baoshuo fzu & oier db founding
+  - richard rusczyk & art of problem solving founding
   - rodrigo pombo pombus & web dev
   - ruan yifeng ruanyf & caixin editorial & tech enthusiast weekly founding
   - science fictional lycium chinense
   - segun adebayo & web dev & chakra ui founding
   - shen ruochen djhs & math teaching & cycle racing
   - six divided chaochao & retro art
-  - sofish & web dev & design
-  - spicy pidan porridge
+  - sofish & web dev & design & life gap & shimo docs founding
+  - spicy pidan porridge & short film direction
   - sqr5's blog
   - tail tail desu
   - tamicake cr
@@ -486,7 +493,8 @@
   - atom one dark
   - chromium just black
 - - ubuntu yaru
-  - google reader (google books classic)
+  - google reader
+  - hacker news
   - material design 2
   - material design 3
   - iphone os 6
@@ -731,8 +739,8 @@
   - `reflections` memories of the fellows
 - ideas
   - `projects` worthwhile endeavours
-  - `mistral` observation exchangement with ai
-  - `prompts` unfolding the panoply of ai
+  - `mistral` walk in the light with le chat
+  - `prompts` unfolding the panoply of answers
   - `wisdom` foresights and references
   - `quotes` perspective and thoughts
   - `idioms` lines and memes just for fun

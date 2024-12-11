@@ -11,6 +11,68 @@
 - _make tools elegant_
 - _make knowledge pure_
 
+## 20241210
+
+> _foresight_
+
+- write voyagejs
+- write hi component library with voyage
+- summarize projects leverage
+- write pre app
+- design pure & intuitive foresights
+- watch lucky star
+- play df
+- learn math & english
+- sync phone & screenshots
+
+> _everyday_
+
+- return homes in al & sr
+
+> _weekend endeavour_
+
+- complete voyagejs todos & add new ones
+- write svelte examples with voyagejs
+- design component libraries based on chakra ui
+- create web apps
+- write foresights
+- generate intuitive cpp episodes
+- generate pure math episodes
+- categorize math trick cards
+- create origami works
+
+> _weekend diversion_
+
+- read hi stories
+- play sr events
+- play df war mode
+- watch lucky star
+- watch evangelion
+- play senrenbanka
+- create design systems
+
+> _weekend enlightenment_
+
+- read & categorize ruanyf weekly 
+
+> _school_
+
+- play football
+- write math challenger
+- write english papers
+- read one hundred years of solitude
+
+> _after school_
+
+- memorize tem 8 vocabulary
+- read physics & chemistry notes
+
+> _meanwhile_
+
+- listen to podcasts
+- watch simplelive
+- sync phone
+
 ## 20241125
 
 > _foresight_

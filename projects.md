@@ -310,8 +310,11 @@
   - autosave by fav
 - inspired by
   - google reader
+  - newsblur
+  - pinboard
   - netnewswire
   - rsshub
+  - hacker news
   - webfollow list
   - rss source list
 
@@ -481,8 +484,9 @@
   - printable courses
   - trick cards and cheetsheets
   - note list textbook in symbolic language
-  - stylish narration
-  - for fun not for rating
+  - screen reader
+  - anime styled narration
+  - for fun
 - leverage
   - the least line of notes to learn anything
   - you should raise the ceiling not the floor
@@ -517,6 +521,8 @@
   - "notes are shown on the page"
   - "function image is painted on the screen"
 - anime style
+  - honkai impact third chapter one set and logic
+  - alysia as sparkle
   - mihoyo or blue archive classroom
   - aventurine's scheme cards & round-based battle in 0 turn
   - fuxuan's divine perspective
@@ -525,7 +531,7 @@
   - evangelion cover art
   - abstract internet culture in vhs
   - dying voice after sports
-- literary chinese
+- list in literary chinese
   - 集合第一
   - 函数第二
   - 平常心其一 (exam foresight)

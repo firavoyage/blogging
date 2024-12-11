@@ -95,6 +95,13 @@
     - gui minghao `24x . . .`
     - dong guanxi `. . . 90.5`
     - chen ruihan `. . . 105`
+    - date 20241105
+  - dec
+    - fira `249 70 86 93`
+    - jiang zhijun `290.5 73 117 100.5`
+    - zhang xizhe `212.5 64 93 55.5`
+    - hui xinyu `illness`
+    - date 20241204
 
 ## jhs fin exam
 

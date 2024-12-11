@@ -4220,7 +4220,7 @@ As of my last update, my knowledge cutoff is October 2023. This means that the i
 
 ## object define property
 
-`dev` `guide` `ref`
+`dev` `guide` `ref` `js`
 
 > $\to mistral \space large \space 2$
 
@@ -4316,7 +4316,7 @@ Using `Object.defineProperty` gives you precise control over the behavior of obj
 
 ## proxy and reflect
 
-`dev` `guide` `ref`
+`dev` `guide` `ref` `js`
 
 > $\to mistral \space large \space 2$
 

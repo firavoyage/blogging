@@ -10845,7 +10845,7 @@ mistral chat 还会自动刷新...
 
 也有时候反之,那是接触不良.
 
-总之power off吧.
+总之 power off 吧.
 
 wtf. power off 结果让我 enter password!
 
@@ -10903,7 +10903,7 @@ playing honkai impact third.
 
 也是看懂了好吧!
 
-对手出了4张牌,就不能动了,抓紧打对手出完的池子.
+对手出了 4 张牌,就不能动了,抓紧打对手出完的池子.
 
 赢两个池子就能赢.
 
@@ -10913,9 +10913,385 @@ playing honkai impact third.
 
 蛙趣!被网络制裁了啊!
 
-我打df,fps都不卡.
+我打 df,fps 都不卡.
 
-打个hi,打牌游戏卡的要死,不是慢,是连不上,闪烁断联.
+打个 hi,打牌游戏卡的要死,不是慢,是连不上,闪烁断联.
 
 wtf.休息休息.
 
+## 20241206
+
+22:03
+
+`gaming`
+
+hi.
+
+差一个自动战斗游戏就能领取 alysia 了...
+
+说是要挂机升级...qwq
+
+## 20241207
+
+00:19
+
+`weather` `bangumi`
+
+watching funshiki live.
+
+about recent bangumi...
+
+playing df.
+
+`dev`
+
+以前只有 00:00 路由器会自动重启,大概两分钟好.
+
+现在是 23:30~00:30,网络都会有间歇性的中断.
+
+似乎路由器的电源不稳定?wtf.
+
+房子是临时的.作罢.
+
+可惜家里装修完后,那里的网络卧室收不到.
+
+买个网络中继?
+
+## 20241208
+
+12:xx
+
+家中暮年少男换手机了.
+
+sumsung galaxy...
+
+大概就是那个后盖平直的那款.
+
+13:xx
+
+吃饭.去 lecasar,在凯德精萃.
+
+`podcast`
+
+listened to podcast. on fyfy.fm
+
+- about google io 2022...
+- about sofish life gap...
+
+`gaming`
+
+playing hi.
+
+自动战斗卡片收集活动游戏.
+
+- card collection & auto battle game in an event.
+
+card levels priors strategies...
+
+16:27
+
+`gaming`
+
+hi...那个活动游戏...
+
+就是纯粹基于时间,挂机时间的卡牌养成 qwq...哈哈.
+
+`weather`
+
+暮年少男在...
+
+用数据线传 100g 多的数据...
+
+一个慢但是简单的方法.
+
+`dev`
+
+refactoring code...
+
+17:03
+
+watching simplelive...
+
+良治:我去的地方没有,他去的地方有红.
+
+他是装不下了,才给我.
+
+"现在队友死了,他摸的东西也会归还."
+
+我去的地方,都是出金率高的地方.谁知道他桌上摸一个.
+
+命里没有,没办法.
+
+你多少万了?150 万...那你把那个无人机拿一下吧...
+
+哈哈哈,我还以为那个无人机呢...
+
+"无人机但医疗."
+
+20:51
+
+`gaming`
+
+playing df.
+
+不玩摸金模式,不过看到了一些藏品.
+
+有赛季保险箱,不用白不用,下赛季不能用,开了.
+
+游戏时长不多,最好的摸到了
+
+**赛义德的怀表**.
+
+价值 200k.
+
+把各种福利礼包全开了,一个周末礼包,开出了
+
+**万足金条**.
+
+感觉不错,价值 300k.
+
+控制爆率的模式,没意思.
+
+## 20241209
+
+14:xx
+
+学校,艺术课,看片.
+
+天空之城.太爽了,不困了.
+
+19:36
+
+`gaming` `ref`
+
+playing hi.
+
+**alysia claimed.**
+
+飞花翩跹(xian)之时.
+
+好久没玩 hi 了...
+
+打开剧情.可以自选章节?
+
+所以说,sparkle event 里面,
+
+那个红温菜包说"剧情当然要从第一章开始看啊!"
+
+**got it.**
+
+## 20241210
+
+00:30
+
+`gaming`
+
+playing df war mode.
+
+23:45~00:30 一如既往地网络闪烁...
+
+这段时间不玩吧...以后.
+
+upd weekly.md
+
+18:57
+
+`gaming`
+
+playing hi...
+
+auto battling 趣咔俱乐部
+
+`ref`
+
+sr.
+
+清 sr 日常...看到角色的位置也变了.
+
+查日志...是漂流瓶的感觉.
+
+2024-12-10 18:24:48 上海 183.192.56.248 登录
+
+2024-12-10 18:15:56 上海 183.192.56.248 登录
+
+2024-12-10 13:29:55 大连 175.163.67.253 登录
+
+2024-12-10 13:09:09 大连 175.163.67.253 登录
+
+2024-12-08 10:56:06 上海 58.220.95.88 登录
+
+2024-12-06 23:19:50 中国 2409:8915:207f:260a:914d:9f3d:684a:529b 登录
+
+2024-12-05 21:20:17 大连 112.42.28.136 登录
+
+2024-12-05 21:17:41 大连 112.42.28.136 登录
+
+2024-12-05 10:14:49 鞍山市 39.152.145.250 登录
+
+2024-12-04 19:07:50 上海 183.192.57.136 登录
+
+2024-12-03 13:21:16 大连 175.163.67.253 登录
+
+2024-11-28 21:10:32 大连 112.42.28.62 登录
+
+2024-11-28 10:11:15 鞍山市 39.152.145.250 登录
+
+2024-11-26 13:06:23 大连 113.234.167.249 登录
+
+2024-11-21 10:20:22 鞍山市 39.152.145.250 登录
+
+2024-11-20 19:29:50 大连 175.171.186.11 登录
+
+2024-11-19 13:08:02 大连 113.234.167.249 登录
+
+2024-11-17 13:00:51 大连 2409:8915:1e3b:1b5e:cc4e:4f7a:d736:6411 登录
+
+2024-11-16 10:19:48 大连 175.171.186.11 登录
+
+2024-11-15 16:08:29 大连 113.234.167.249 登录
+
+2024-11-14 19:02:04 大连 112.42.27.167 登录
+
+2024-11-14 10:11:15 鞍山市 39.152.158.92 登录
+
+2024-11-10 20:26:39 大连 2409:8915:1e7d:c56:b916:ce7b:d01c:bb88 登录
+
+2024-11-10 20:23:35 大连 2409:8915:1e7d:c56:b916:ce7b:d01c:bb88 登录
+
+她还在玩我的号...
+
+上cloud gi看看...有很多福利.
+
+30抽出了龙王...可惜也不玩gi了,没必要肝...
+
+有自动战可能会回坑就是了.
+
+## 20241211
+
+01:52
+
+`gaming`
+
+playing df.
+
+观察...
+
+看出了一些性质... 
+
+- 每一把双方各24个人,前16个人和后8个人分数永远是断层的,说明确实固定有8个人机
+- 每一把前几名很可能用的同一个角色.
+
+17:xx
+
+上sr.又是jing liu的活动模式...
+
+看来那个大连人还在玩喵...
+
+17:53
+
+眼镜断了.透明胶粘了一下,无伤大雅.
+
+手机屏幕又闪烁绿光...qwq
+
+不可能是软件原因吧...
+
+不过无所谓了.
+
+锁屏,点两下指纹就好了,seele ultimate?
+
+哈哈,god knows.
+
+似乎是one step的bug...
+
+18:12
+
+`dev`
+
+write voyagejs
+
+`swimming`
+
+bilibili space new look?
+
+nothing special...
+
+18:33
+
+`math`
+
+swimming in berryberry
+
+欣赏了一下Problem #6 at IMO 1988
+
+https://en.wikipedia.org/wiki/Vieta_jumping
+
+有意思.
+
+"凌驾"原来是梗...以为是番剧截屏,人物替换...
+
+"并非"竟然是梗...以为是literary chinese...
+
+好无聊啊...vygjs.
+
+21:35
+
+`swimming`
+
+found this.
+
+https://news.ycombinator.com/item?id=30440123
+
+Ask HN: What is the most unique website you’ve come across on the internet?
+
+267 points by kandruszkow on Feb 23, 2022 | hide | past | favorite | 263 comments
+
+What are some of your favorite websites you've ever come across on the internet? And why?
+List for whatever reason.. the most obscure, interesting design, the worst design, etc.
+
+I'm waiting to see some exciting findings.
+
+(reply)
+
+Man, if it were the early 2000's, I could give you a seemingly endless list of sites. There was a a network of sites like designiskinky, k10k, praystation, and many others that existed to curate, and showcase interesting websites. A lot of that creativity was due to graphic designers learning Flash, and putting up their experiments. A really interesting period of time.
+
+Sadly, I don't really know of anything like that anymore. I'll run across a random Tumblr from time to time. Or, strike gold with a random Pintrest list. But, it's nothing like it used to be, in regards to out-of-the-box web design.
+
+21:59
+
+真nb,手机绿屏.
+
+太厉害了.
+
+不会真是one step的软件问题吧qwq...
+
+22:32
+
+https://www.bilibili.com/video/BV1T84y1r7Jp
+
+看完我也想赌博了...
+
+我喜欢粉蓝白,国旗带这三个颜色的,进世界杯都支持一下.
+
+舒服了.
+
+**"活着"**
+
+23:50
+
+手机屏幕一蹶不振了...
+
+明天大概就会自我疗愈...
+
+打电脑喵...
+
+sleep!
+
+## 20241212
+
+02:02
+
+`bangumi`
+
+watched lucky star episode 16.
+
+**sleep.**
