@@ -812,11 +812,11 @@ someone on codeforces:problem solving is fun.
 
 大垃圾桶拉到楼下,就像小区多了一个垃圾桶.
 
-很长一段时间里,世界充斥着npc,而少数的玩家中,或许能看见f.
+很长一段时间里,世界充斥着 npc,而少数的玩家中,或许能看见 f.
 
-多年以后,f才想起...
+多年以后,f 才想起...
 
-那些npc,也曾是玩家.
+那些 npc,也曾是玩家.
 
 ## student he fake code authorship
 
@@ -844,7 +844,7 @@ someone on codeforces:problem solving is fun.
 
 ## predestined df match
 
-df mode is that... 
+df mode is that...
 
 if you win a lot, you will meet players with dma plugins
 
@@ -855,3 +855,122 @@ otherwise the reward proba in this match will be improved a lot.
 三角洲摸金模式,或者大战场模式,根据你过去的对局决定下一场的强度和资源...
 
 其实你的成败都是先验(predestined)的.
+
+## contemporary hs sm culture
+
+20241212
+
+这几天停课在家.
+
+想来不过是琐碎如常的事.
+
+挨打了,如果你不想挨打,就要打回去.
+
+如果放在小学初中,我可能会追求正义.
+
+那些人都是未开化的人,可以被改造.
+
+或者说,"我们还是好朋友."
+
+高中,不一样.
+
+**不是所有人都是人.**
+
+举例.
+
+人偷了你的钱,
+
+你去报警,去登记,去做笔录,等待取证,不断联系.
+
+最后人很聪明,什么也没有发生.
+
+或者,他被抓住了.
+
+当然钱已经转移国外,或者已经花了,如果他稍微会玩的话.
+
+时间是被浪费的.钱没有回来.
+
+不过是帮助"世界"清除了一位罪人.
+
+你知道的,这不利己.
+
+而经济学定义下,人都是自利的.
+
+举例结束.
+
+**高中也是一样,你不应该浪费时间.**
+
+最简单的方法,就是展示你的强度.
+
+二次元中可能是言辞,三次元中则是形体.
+
+让人知道,把你作为目标,不好.
+
+在此之前,你要付出成本.
+
+弱者才需要第三方的帮助.
+
+**你知道的,这是一种 tradeoff.**
+
+现在结束个人的视角.
+
+放到更大的背景中.
+
+**现在 sm 文化很流行.**
+
+在平凡的高中,或许你要么作前者,要么作后者.
+
+当然可以不做选择,如果你一直坐在座位上不动.
+
+像是训练中的 bot.
+
+识海迷沉的学者.
+
+**没有人会想要压迫,一只 bot.**
+
+最好的选择,早就不复存在了.
+
+那些人,大多都是 bot.
+
+bot 没有情感体验,无游戏尘寰之说.
+
+每次人 pua 一只 bot,bot 总是向你道歉.
+
+或者说,人们之中,没有 s,只有 m.
+
+而题目,如果有性格的话,或许曾是 s,最后也是 m.
+
+**或者说,在中考后就不复存在了.**
+
+而每一个不是最好的选择,都提前标注了成本.
+
+你要付出成本.
+
+**那天,我写了几段话...**
+
+(character: f. voice: konata izumi lucky star)
+
+"哪天期末考啊..."
+
+(...)
+
+(character: alysia honkai impact third. voice: sparkle honkai star rail)
+
+"所以 f 要用多少时间学习呢 ♡"
+
+"我知道的,你相信 elegance & purity..."
+
+"所以会更愿望 notes & workbooks 本身? ♡"
+
+(character: f the finality. voice: aside)
+
+"哦..."
+
+"你又来到了一模卷前..."
+
+"终于."
+
+**现在我身边有这些...**
+
+- notes
+- workbooks

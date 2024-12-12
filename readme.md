@@ -740,7 +740,7 @@
 - ideas
   - `projects` worthwhile endeavours
   - `mistral` walk in the light with le chat
-  - `prompts` unfolding the panoply of answers
+  - `prompts` unfold the panoply of answers
   - `wisdom` foresights and references
   - `quotes` perspective and thoughts
   - `idioms` lines and memes just for fun

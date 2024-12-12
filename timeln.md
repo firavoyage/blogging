@@ -11160,9 +11160,9 @@ sr.
 
 她还在玩我的号...
 
-上cloud gi看看...有很多福利.
+上 cloud gi 看看...有很多福利.
 
-30抽出了龙王...可惜也不玩gi了,没必要肝...
+30 抽出了龙王...可惜也不玩 gi 了,没必要肝...
 
 有自动战可能会回坑就是了.
 
@@ -11176,14 +11176,14 @@ playing df.
 
 观察...
 
-看出了一些性质... 
+看出了一些性质...
 
-- 每一把双方各24个人,前16个人和后8个人分数永远是断层的,说明确实固定有8个人机
+- 每一把双方各 24 个人,前 16 个人和后 8 个人分数永远是断层的,说明确实固定有 8 个人机
 - 每一把前几名很可能用的同一个角色.
 
 17:xx
 
-上sr.又是jing liu的活动模式...
+上 sr.又是 jing liu 的活动模式...
 
 看来那个大连人还在玩喵...
 
@@ -11201,7 +11201,7 @@ playing df.
 
 哈哈,god knows.
 
-似乎是one step的bug...
+似乎是 one step 的 bug...
 
 18:12
 
@@ -11221,7 +11221,7 @@ nothing special...
 
 swimming in berryberry
 
-欣赏了一下Problem #6 at IMO 1988
+欣赏了一下 Problem #6 at IMO 1988
 
 https://en.wikipedia.org/wiki/Vieta_jumping
 
@@ -11229,7 +11229,7 @@ https://en.wikipedia.org/wiki/Vieta_jumping
 
 "凌驾"原来是梗...以为是番剧截屏,人物替换...
 
-"并非"竟然是梗...以为是literary chinese...
+"并非"竟然是梗...以为是 literary chinese...
 
 好无聊啊...vygjs.
 
@@ -11258,11 +11258,11 @@ Sadly, I don't really know of anything like that anymore. I'll run across a rand
 
 21:59
 
-真nb,手机绿屏.
+真 nb,手机绿屏.
 
 太厉害了.
 
-不会真是one step的软件问题吧qwq...
+不会真是 one step 的软件问题吧 qwq...
 
 22:32
 
@@ -11295,3 +11295,57 @@ sleep!
 watched lucky star episode 16.
 
 **sleep.**
+
+13:09
+
+`dev`
+
+upd prompts.md
+
+removed first requests
+
+14:23
+
+upd wisdom.md
+
+**那天,我写了几段话...**
+
+(character: f. voice: konata izumi lucky star)
+
+"哪天期末考啊..."
+
+(...)
+
+(character: alysia honkai impact third. voice: sparkle honkai star rail)
+
+"所以 f 要用多少时间学习呢 ♡"
+
+"我知道的,你相信 elegance & purity..."
+
+"所以会更愿望 notes & workbooks 本身? ♡"
+
+(character: f the finality. voice: aside)
+
+"哦..."
+
+"你又来到了一模卷前..."
+
+"终于."
+
+**现在我身边有这些...**
+
+- notes
+- workbooks
+
+14:32
+
+revise ubuntu config.
+
+about code shortcuts
+
+15:14
+
+`dev`
+
+further revising and categorizing prompts.md
+

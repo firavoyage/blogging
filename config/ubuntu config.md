@@ -355,22 +355,26 @@ sudo apt install gnome-shell-extension-prefs
   - -> `file > preferences > configure snippets`
 - use shortcuts
   - -> `file > preferences > keyboard shortcuts` `ctrl shift p open keyboard shortcuts json`
-  - - do anything `ctrl shift p`
-  - - open settings `ctrl ,`
+  - all roads lead to rome
+    - do anything `ctrl shift p`
+  - toggle visibility
+    - open settings `ctrl ,`
     - toggle nav bar `alt`
     - toggle side bar `ctrl b`
     - _toggle panel_ `ctrl alt p`
     - toggle terminal `ctrl backquote`
     - toggle explorer `ctrl shift e`
     - toggle extensions `ctrl shift x`
-  - - new file `ctrl n`
+    - _trigger parameter hints_ `ctrl p`
+    - _go to file_ `ctrl p`
+      - removed
+  - create files
+    - new file `ctrl n`
     - close file `ctrl w`
     - _save as_ `ctrl alt s`
-  - - auto indent (format code) `ctrl shift i`
-    - preview markdown `ctrl shift v`
-  - - _run code_ `ctrl r`
-    - _stop running in terminal_ `ctrl c`
-  - - _move cursor left_ `ctrl h` `left`
+  - move cursor
+    - go to line `ctrl g`
+    - _move cursor left_ `ctrl h` `left`
     - _move cursor right_ `ctrl l` `right`
     - _select line_ `ctrl l`
       - removed
@@ -378,6 +382,15 @@ sudo apt install gnome-shell-extension-prefs
     - _move cursor up_ `ctrl k` `up`
     - _move cursor word left_ `ctrl alt h` `alt h` `ctrl left`
     - _move cursor word right_ `ctrl alt l` `alt l` `ctrl right`
+    - add cursor `alt click`
+    - _add cursor below_ `ctrl alt j` `ctrl shift alt j` `ctrl shift down`
+    - _add cursor above_ `ctrl alt k` `ctrl shift alt k` `ctrl shift up`
+    - reset cursor `esc`
+    - select next suggestion `ctrl j`
+      - when `suggestWidgetMultipleSuggestions && suggestWidgetVisible && textInputFocus || suggestWidgetVisible && textInputFocus && !suggestWidgetHasFocusedSuggestion`
+    - select prev suggestion `ctrl k`
+      - when `suggestWidgetMultipleSuggestions && suggestWidgetVisible && textInputFocus || suggestWidgetVisible && textInputFocus && !suggestWidgetHasFocusedSuggestion`
+  - select words
     - _select left_ `ctrl shift h` `shift left`
     - _select right_ `ctrl shift l` `shift right`
     - _select all matches_ `ctrl shift l`
@@ -388,50 +401,48 @@ sudo apt install gnome-shell-extension-prefs
       - removed
     - _select word left_ `ctrl shift alt h` `shift alt h` `ctrl shift left`
     - _select word right_ `ctrl shift alt l` `shift alt l` `ctrl shift right`
+    - _select line (expand line selection)_ `ctrl shift s`
     - _save as_ `ctrl shift s`
       - removed
-    - _expand line selection_ `ctrl shift s`
-    - _duplicate selection_ `ctrl d`
-    - add cursor `alt click`
-    - _add cursor below_ `ctrl alt j` `ctrl shift alt j` `ctrl shift down`
-    - _add cursor above_ `ctrl alt k` `ctrl shift alt k` `ctrl shift up`
-    - reset cursor `esc`
-    - _move line down_ `alt j` `alt down`
-    - _move line up_ `alt k` `alt up`
+  - edit lines
+    - _duplicate current line or current selection_ `ctrl d`
     - _insert line below_ `shift enter`
     - _insert line above_ `ctrl shift enter`
-    - _delete to word start_ `ctrl backspace`
-    - delete to word end `ctrl delete`
-  - - select next suggestion `ctrl j`
-      - when `suggestWidgetMultipleSuggestions && suggestWidgetVisible && textInputFocus || suggestWidgetVisible && textInputFocus && !suggestWidgetHasFocusedSuggestion`
-    - select prev suggestion `ctrl k`
-      - when `suggestWidgetMultipleSuggestions && suggestWidgetVisible && textInputFocus || suggestWidgetVisible && textInputFocus && !suggestWidgetHasFocusedSuggestion`
-  - - toggle comment `ctrl /`
-    - _toggle block comment_ `ctrl shift /`
-    - _add jsdoc comment_ `/** enter`
-  - - _indent line_ `tab` `ctrl ]`
+    - _indent line_ `tab` `ctrl ]`
       - when `!hasNextTabstop && !suggestWidgetVisible`
     - _outdent line_ `shift tab` `ctrl [`
     - _tab_ `tab`
       - removed
+    - _move line down_ `alt j` `alt down`
+    - _move line up_ `alt k` `alt up`
+    - _delete to word start_ `ctrl backspace`
+    - delete to word end `ctrl delete`
+  - zoom perspective
+    - _shrink code (fold)_ `ctrl shift [` `ctrl s`
     - _save_ `ctrl s`
       - removed
-    - _shrink code (fold)_ `ctrl shift [` `ctrl s`
     - _expand code (unfold)_ `ctrl shift ]` `ctrl e`
-  - - find `ctrl f`
+    - zoom in `ctrl +`
+    - zoom out `ctrl -`
+    - split screen `ctrl \`
+  - comment code
+    - toggle comment `ctrl /`
+    - _toggle block comment_ `ctrl shift /`
+    - add jsdoc comment `/** enter`
+  - format and preview document
+    - auto indent (format document) `ctrl shift i`
+    - preview markdown `ctrl shift v`
+  - run code
+    - _run code_ `ctrl r`
+    - _stop running in terminal_ `ctrl c`
+  - find and replace
+    - rename symbol `f2`
+    - find `ctrl f`
     - _replace_ `ctrl h`
       - when `findInputFocussed`
     - _find all references_ `ctrl shift r`
     - find symbol in current file `ctrl shift o`
     - find symbol everywhere `ctrl t`
-  - - go to line `ctrl g`
-  - - rename `f2`
-  - - _triggle parameter hints_ `ctrl p`
-    - _go to file_ `ctrl p`
-      - removed
-  - - zoom in `ctrl +`
-    - zoom out `ctrl -`
-  - - split screen `ctrl \`
 
 ## `git`
 
@@ -441,7 +452,7 @@ sudo apt install gnome-shell-extension-prefs
   - use username and password
 - config zshrc
   - -> `~/.zshrc`
-  - -> `git/blogging/config/terminal zshrc.txt` 
+  - -> `git/blogging/config/terminal zshrc.txt`
 - use shortcuts
   - -> `git/blogging/config/terminal git shortcut.txt`
   - `push` sync all git repos
