@@ -1929,3 +1929,363 @@ Chetan Bhagat
 
 我喜欢巨乳萝莉。至于为什么，因为萝莉小小的，香香的，软软的，可以把她抱进怀里好好爱护一番。而巨乳大大的，香香的，软软的，可以把我脸埋进去好好爱护一番。ᕕ(◠ڼ◠)ᕗ
 
+## linux early days
+
+20241212
+
+Started using Ubuntu for the first time. What are some basic things I should NOT do?
+
+(on reddit since 2011)
+
+I'm pretty used to the ins and outs of what not to do in Windows or Mac, but the whole 'run pretty much everything via command line' thing is very new to me. What should I be wary of when installing software and are there any commands that I should avoid?
+
+1 You don't have to use the command line that way, it is entirely optional in most cases.
+2 If you do use command line be VERY careful with your commands, especially rm, chmod and chown (delete, change permissions, change ownership), and always be careful when using -r (usually means recursive) flags on commands, -f (usually means force), and wildcards such as \*. Mistakes can be hard to undo.
+3 Only add "ppa"s that you trust. If you add a PPA you are adding a new repository that your PC will look for packages in. If you add a malicious or shitty one you will get malicious or shitty software from it.
+Also, r/ubuntu exists.
+
+## btw i use arch and i'm mtf
+
+20241212
+
+(on r/MtF since 2021)
+
+I use arch btw
+So I guess I'm a complete disappointment to my parents lol
+
+Do you use arch?
+
+## adulting as lv 32 human
+
+20241212
+
+(on r/Adulting since 2024)
+
+People who “grew up” later in life… when did it finally happen, and where are you now?
+I (32F) am honestly waking up from sleeping walking through life for… as long as I can remember?
+
+I’m in the process of removing all the bad habits from my life that have been holding me back for ages. Namely, killing my daily weed habit and almost impressive ability to “this is fine” my finances.
+
+I live in a HCOL area (Los Angeles) and frankly, I spend every dollar of every paycheck. Always have. I make more than six figures, but am constantly paycheck to paycheck and it’s so embarrassing. I’ve finally reached my own limits of my own bs… but now I’m facing the overwhelming feeling that I’m starting SO late and will never be caught up to where I should be in life.
+
+I know 32 isn’t old, but it ain’t young either. Feeling pretty down about it, and would appreciate any words of wisdom or perspective from others who’ve been here before and turned things around.
+
+TL;DR - I’ve been living immaturely for years and, at 32, am finally ready to “grow up”. But the shame of being this late to the game is real. Perspectives, wise words, or a swift kick in the rear all welcome. 😅
+
+## lost fun in modern age
+
+20241213
+
+(on r/Zillennials since 2024 written by a 1997 guy)
+
+Feeling like the world I was excited live in as an adult is gone
+
+As a 27 year old zillennial I literally feel like I’ve lived in like three different worlds. One rhat that broke apart in 2008. Then split again in 2020.
+
+I’ve been watching a lot of content from my childhood and getting so many memories of how it used to feel back then and it straight up feels like the world we are in is an entirely different earth now.
+
+For example, I remember listening to my mom on the cordless phone with her friends for hours and watching shows like that’s so raven and Lizzie McGuire, being excited to have my very own phone line like them. Excited to record my very own unique voicemail and add songs to it like a lot of people used to do. Hell I couldn’t wait to get a flip phone and close it shut with attitude like the girls on tv.
+
+I wanted to be just like the teenage millennials who had an AIM and a MySpace with friends and burn my very own cds and play them in my car. I was literally so excited to grow up and do a lot of things that literally do not even exist now.
+
+By the time I hit middle school, everything went completely digital and then Facebook was out and everyone moved past all these fun grown up exciting things I was waiting for.
+
+But even besides the digital stuff, I feel like the world truly was bigger and more exciting back then and now it’s shrunk.
+
+Back in 04 - 07 I used to be out all the time with family and friends going to birthday parties at bowling alleys, skating rinks, and Chuck E. Cheese. Even McDonald’s was fun as hell! They had a whole jungle gym and video games and now it’s all plain gray and corporate. I miss general third places you don’t have to fucking pay for. Like going to Borders and listening to records and chilling on the couches. The world used to be so big and fun.
+
+Nowadays it just feels like no one ever wants to go to third places and hang out. I tried going to skating rink in my city and it was literally dead except a couple gen x - boomer men and some kids.
+
+I just feel like this exciting big world full of fun and physical media and things to do has been replaced, and no one even remembers what it used to be like anymore. Like I feel like I died sometimes and woke up somewhere else.
+
+(comments)
+
+it hurts a lot. I can't describe the loss of joy, wonder, happiness and love I've lost since 2020. I've felt like a dead man walking and my perspective of time is so warped every year since has felt like 2 months each. Just going through motions. I hate how hard I worked to reach happiness at 2019 for it die out like this. Trying to appreciate the small things
+
+---
+
+I relate to this so hard. I think it was 2018 when I felt like I had finally gotten to a healthy place mentally and physically and I was on my way up in life. Then I graduated college in 2019 and was floundering a bit, but I had plans. For grad school and the Disney college program. I got into a good grad school, and the DCP. But the Disney program started in January of 2020. I got 3 months out of it before the world basically ended. I spent two years in a small office in my hometown doing classes over zoom. I lost all my new friends. I lost my independence from my parents. All of my mental and physical improvements disappeared in the blink of an eye and I still can’t recover. Every day I realize it’s been 4 years since then and I’ve accomplished nothing. Im terrified my life is just going to keep speeding up and I will never feel healthy and successful again.
+
+---
+
+I graduated college in Dec. of 2019 and got my dream job overseas in March of 2020. I feel you so much. I saw all my dreams ripped away from me and ended up working at McDonald’s for a year instead. Nothing has been the same since
+
+That’s seriously rough, I’m sorry that happened to you.
+
+---
+
+Me too. Got into a hotel to kickstart my career after I finished culinary school in 2019(i had other jobs during college as well). I started working at the hotel in 2020. Then went through 5 jobs that summer since I had trouble getting unemployment. The longest being Nothing Bunt Cakes. Horrible place to work, ruined my wrists, but they sent me to PT at least. I haven't really felt like my two longer term jobs since then have been good, really. Just slaving away and hurting every day to get chump change that barely covers the bills. And it's still the most money I've ever made in my life! I'm sick and tired of the struggle!!!!!
+
+---
+
+it's crazy how similar our experiences are. Same thing but except for college I was in a amazing spot for my music career getting attention and had an insane network, going to Hollywood studios, working with artists I dreamt of working with. Then 2020 happened and I'm living with my parents and nothing else is close to the same.
+
+So sorry you're going through it too. I wish you the best sincerely
+
+---
+
+2013-2019 probably funnest times of my life, the joy felt so real and even pain etc, idk since 2020 everything feels extra dull
+
+i relate to everything you just said like i was so ready for 2020/starting my career but it all fell apart just like that lmao
+
+literally dude. i made huge connections and music, was literally working with artists I looked up to. shit felt like a dream. then COVID happened and everything is in shambles
+
+---
+
+big, big, BIG same. my mom was diagnosed with stage four cancer on christmas eve 2019 and passed july 2020. that summer before feels like the high water mark for me. it's felt like a nightmarish haze ever since and my life went from doing reasonably well and a bright outlook to shit.
+
+---
+
+I really feel this. I was so excited as a kid to be in my 20s and get to dress up and go get fancy cocktails with friends- but nobody ever wants to do that except my fiancé (at least I have somebody, lol, but I wanted the girly get ready together time too).
+
+I also miss the internet from around when I was in high school. Before ads everywhere (I mean really, you look at peoples profile on Facebook now and get ads between their posts) and super short form content/rage bait content everywhere.
+
+---
+
+Omg yes i wanna be like the women on sex and the city always at restaurants and cute bars!! I literally couldn’t wait to be an adult to do that lol.
+
+Same with the old internet. I’ve literally been playing myscene dress up and room decorating flash games cause I miss it so much.
+
+---
+
+All my friends moved away so I feel like I'm really missing out on fun girls nights 😭 I want my sex and the city Friday nights!! It really doesn't help that everyone is really truly scraping by, and drinks around here cost $14 minimum
+
+I read this as cute bras and I was like, “wow, same!” But bars too, haha!
+
+---
+
+The ads in the middle of the Reddit comment sections kill me
+
+Yes! Idk how I forgot to mention that too
+
+On desktop at least, switching to the old layout and using adblockers(on Firefox) helps.
+
+---
+
+The constant advertising really is draining. You just can't fucking get away from it. It's on every website, every TV channel, radio station and streaming service, in apps, at gas pumps, at the beginings of phone trees when you call a store or restaurant, at the ends of orders you try to place on websites or kiosks encouraging you to buy even more... I've been realizing lately just how damned noisy the world has gotten. And yeah, when I go to Facebook, it's pretty much all ads. I have to specifically search people to see what they're up to. Facebook is no longer a social network, but an advertising platform. And short form videos are absolutely evil...I found a way to turn them off on YouTube because I realized how miserable they were making me feel, how much time I was wasting on the quick dopamine hits...
+
+---
+
+People had the time and money to do it back then. Not to mention social media and e-commerce isn’t what it is now. Instead of buying something online, we would go to the mall or just hang out with friends. Now it just feels like we’re working to make ends meet and too tired/broke to make plans outside of our daily routine
+
+I agree. It only sucks more bc economically things are so hard nowadays, it feels like we were robbed of the life we were promised.
+
+Only thing I can do is keep appreciating the blessings that I do have and the people I love, and to not lose sight of the fact that I’m working to be able to live out my life.
+
+---
+
+Too many changes in too short a time. Historically that doesn’t end well.
+
+I agree with the soul of your post. There are so many things others before us took for granted, that are now gone or changed forever. I often wish I’d been born 20 or even 10 years before I was. Times were simpler, and arguably easier, back then.
+
+---
+
+Also 27 and have been feeling like this lately. Life doesn’t feel as exciting anymore. Ever since Covid it’s hard to look at how different life used to be. I think everyone is craving life before Covid but it will never be the same. Everything is so expensive and it’s hard to even afford fun things anymore. I mostly just do outdoor free things or meetups, but still things have definitely changed and I think I’m still mourning what was taken from everyone during Covid.
+
+I totally get this.
+
+---
+
+The bright, colorful, friendly USA of my childhood is just gone. It’s all soulless now, with everyone at each other’s throats. Unless I can find a way out to a country that actually values a work/life balance, the rest of my life is going to be work, work, work until I die. Oh, joy… 😢
+
+Literally I thought I imagined it with rose tinted glasses but shit was truly more colorful and lively back then! Like the lava lamps, the colorful room furniture, the custom phones that we used to be able to choose wallpapers and ringtones for. There was just a lot more variety, color and life
+
+now it is all beige and landlord white because painting something a color or making it interestingly shaped means that there's less resale value. why make a taco bell look distinct if it means mcdonalds may not want to buy it later?
+
+---
+
+Tbf. You can still do the ringtones and wallpapers, its just buried in menus now
+
+lol ik! I mean getting customs ones are so much harder. 😭 I had to follow like a 10 step tutorial to change my ringtone to a custom song on iPhone
+
+To be fair, the bright colorful friendly USA that was portrayed from the 50s to 2010s was mostly intense astroturfing propaganda campaigns by heavily polluting and discriminating companies if you remove the actual countercultural movements of the time. Now we all know so they have to change their tactics.
+
+But this is why ignorance is bliss. It really is. We’re too smart for our own good now, to where we see the “man behind the curtain” and now it makes everything “soulless” as OP pointed out.
+
+There is definitely more tangibility to right now “feeling worse” even if this is what has been going on all along and we’re just privy to it now.
+
+Part of the nostalgia we feel I think is just missing being a kid tbh. None of the real world shit matters much, politics is something adults do, and you dont really know enough to see through the acts people and companies put on
+
+---
+
+Yeah, like we were kids in the post 9/11 world. Which sucked. Freedoms were taken away and countries were bombed left and right as Americans became bloodthirsty savages wanting to bomb any Muslim person they wanted and anyone who opposes the US needs to be bombed next (it's why to this day Americans have this weird hatred of France, France said America's invasion of Iraq was unjust and Americans flocked like idiots to hage France). America was "united" but in all the wrong ways.
+
+---
+
+26F here.
+
+I agree with you. It's a shame, the lack of third spaces. It's one of the reasons why everyone relies so heavily on computers.
+
+The downfall of society started when fast food places got rid of their video game hub things. I'm surprised your roller rink isn't more popular; I feel like a few upgrades, like maybe a rentable space to play video games, would change all that.
+
+---
+
+I thought I'd have a house, or at least an apartment, or a trailer home of my own by now. Maybe have a dog... I want to be able to have friends over, and decorate an entire house space the way I decorate my bedroom, and grow a garden and plant the flowers I want...
+
+Me too! I’m living this fantasy out in the sims 4 as I speak 😭
+
+The downfall of society started because McDonald’s took away their PS2 and GameCube stations
+
+Truly this was the beginning of the end
+
+---
+
+Same. From where I am standing, it's painfully obvious that the urban 20-something lifestyle (à la the sitcom Friends) that I dreamed of is unaffordable, unobtainable and otherwise obsolete.
+
+Now, most people in my age group and area simply live wherever their parents live and suck it up, made more jarring for me since I went to a commuter college and therefore have friends scattered all over the province whom I hardly get to see in person again.
+
+All that said, I've kinda moved past the point of being truly salty about it, since most of us are in the same boat anyways.
+
+Hell the humble starter home in the Sims which as a kid I thought was what all I wanted as an adult and couldn't wait to have my own small place is a luxury now.
+
+---
+
+You can still do many of those things tbh. But yeah I totally agree, its changed. I collect records and have an mp3 player and in my experience ppl think its really cool so don't be afraid to go against the grain and get old tech. As for getting ppl to hang out.... yeah I feel that, it really sucks. I was an introvert as a kid and now I'm not but now no one can hang out, really sucks. So I just go places by myself usually (mistly to concerts, tbh I need to start going to 3rd places to hang out like the library more). Sometimes I make new acquaintances which is good.
+
+My boyfriend and I got his grandpas DVD/VHS player when he passed away. We had both saved tapes from when we were kids. The first one I popped in, I sat on the floor in awe and cried just watching the commercials.
+
+---
+
+As a kid in a rural town in the bible/rust belt I was so excited to move to a big city and find my people. Then I got old enough to move there and educated enough to support myself but there was little community to be found since I wasn't from there. Everyone is addicted to their phones and at each others throats, including myself.
+
+Sounds like me living in SF 😭 literally moving home again cause I quit my job and couldn’t take it anymore. I also grew up in a super small town so I feel
+
+Omg I feel you. I moved to SF during Covid and being stuck there from 2020-2022 was HELL. The restrictions there were probably worse than anywhere in the US and I became so hermited and depressed.
+
+I felt that too at your age but recently started to reinvest time into my hobbies and try to completely stop caring about my job when I’m not there (still working on this lol). Fortunately my hobby is somewhat social and requires me to be around a lot of people and it’s exciting so that’s just lucky for me.
+
+---
+
+I've felt the same way. I was excited to rent my own movies and games at Blockbusters. That's gone.
+
+I was excited to go to high school with all the cool teenagers. They left.
+
+I was interested in buying Blu-rays and DVDs from electronic stores once I started working and making money. They stopped selling them.
+
+I was looking forward to adult life in the late 90s/early 2000s. That era's long gone and what replaced it feels depressing.
+
+I feel cheated out of the adult life I expected to have.
+
+---
+
+Blockbuster- you felt that way because you were a kid. If we still rented movies from blockbuster now it would’ve lost its charm. That’s what adulthood does to things. It was still an event that brought you out of the house though, and physical media had a charm to it. Of course it just felt normal then, so the charm is in hindsight.
+
+-You went to high school with the teenagers who were the same age as you. The ones who came before were only cool to you because you were a child. They probably felt the same way about the teens they saw as children, and children when you were a teen saw you that way, too.
+
+-You can still buy physical media. There are lots at stores like Good Will. But really, this is only something you feel you lost out on because it’s over. We didn’t feel that DVDs were special until they were gone from stores. In fact, we were all so excited by streaming when it first came out.
+
+-the early 2000s felt very depressing for adults due to 9/11 and the start of the Iraq war. The late 2000s felt depressing because of the recession. They said the same thing about the period from when they were kids “would’ve been so cool to be an adult in the 60s/70s”.
+
+The world doesn’t look the same for any adult as it did when they were a kid. I know the changes have been drastic throughout our lives, but all of this negativity is what perpetuates a toxic society. We have to find what is special about the now to move forward and progress. I’ll bet when you were a kid you felt you’d always be open to change. Like when our grandparents saw us texting on our flip phones and said “texting is ruining society and the youth”, we probably rolled our eyes and thought “I’ll never be that way”. But here we are.
+
+I’m not trying to downplay our reality. It sort of really sucks. But we have to pull ourselves out of this mass depression and move forward.
+
+---
+
+I agree with everything you said. It was all from the point of view of a child. I have to change my perspective to adulthood in the 2020s with what I know now.
+
+Thank-you for this thoughtful reply. This is one of my favorite comments on Reddit. I definitely agree about the mass depression we have to escape from and live our lives the best we can.
+
+It’s mass depression, but it also feels like a mass deception. I feel like my brain, even though horribly depressed and fucked up, is still waiting for that other shoe to drop. Like something has got to get better. At least one of the things we looked forward to is going to happen.
+
+And it’s not. It’s actually actively getting worse. I especially feel like I lost my late teens/early twenties because I was an alcoholic and decided I was going to get sober in February 2020. And I did and it’s great because I’m not losing relationships now. But, I feel like the time I should have gotten back was stolen from me. I mean, y’know, I take absolute responsibility for having spent those early years drunk, but fuck. Sobriety was supposed to feel better.
+
+---
+
+You CANNOT tell me we’re living the same 24 hours as generations past. A lot of our parents had 2 kids at our age and both had FT jobs and houses to pay for. How tf did they do that
+
+---
+
+I was thinking exactly this only yesterday. It occurred to me that we're just not given the tools or the oppourtunity to build our own lives like recent generations. Many people in my country are still living with random flatmates in shitholes into their 30s with no real prospects of getting anywhere any time soon, yet are over-educated and working full jobs. It's not possible to do things or enjoy things.
+
+I don't understand how there can be much of a society like this for very long, there's no incentive to participate, to start families, or any sense you're part of community. But there's every reason to want to tear it to shit. The rise of social instability has been more gradual than I expected but you can really see the rot setting in to western nations.
+
+---
+
+Financially speaking stuff is so weird now. My older sister ('85) was able to afford a car with part time job next to attending college. She also had a room of her own next to the uni. This was during the early 00's as I remember helping her move stuff as a child.
+
+Fast forward to 2018-ish when I got to college ('97) and I could never dream of owning my own car. In fact most couples (that I know!) with full time jobs can hardly afford a single car. The age where people got their own car went from like 18 to 25 with the addition of having to share it with your partner. Even my brother ('88) went from having a car to having a scooter he still drives to this day because owning 2 cars as a couple is just too expensive.
+
+---
+
+Real! I’m moving back home with my parents for the second time in my 20s and my 26 year old brother also hasn’t moved in yet. I feel like this generation is taking the longest to truly grow up because it’s damn near impossible now. My goal is to save up for a car and get another remote job (my last one shut down) 😭 then move back out. But that is the only way I’ll be able to set myself up for success by 30.
+
+---
+
+I agree with this so hard. Like, every aspect of it- down to the CD burning in my future car. :( We’ve become so isolated, and capitalism has even more of stranglehold on the working class. Not to mention the state of the world triggers such anxiety that makes staying connected digitally rather than directly more appealing. Elder and middle millennials were sold the “work hard and you can achieve it” ideology. Media reflected it. Cribs, Pimp My Ride…excess. But I remember being on tumblr in junior high fantasizing about a one room, well-lit apartment. Even then we knew we’d never own homes. We knew the world was burning and college was expensive with atrocious job opportunities that couldn’t justify the price. Young millennials/Zillennial/Gen Z were the first to see and feel the futility of it all. And to also have to battle having our identities intertwined with social media—and how the comparison with others can destroy self-worth. Everything just seems bleak. And the younger you are, the worse the prognosis has been for as long as you can remember.
+
+---
+
+I 100% know what you mean. I was so eager to be old enough to dress like Sabrina and then by the time I was a teen the styles had completely changed.
+
+I had a thought the other day, my children will never have the experiences I had. They won't have the tradition of the TV show they look forward to each week at the specific time. We're just going to stream.
+
+We won't be going to blockbuster to pick out movies and candy.
+
+They won't get the experience of calling a friend's house and talking to a parent for a little bit, or answering the phone and not knowing who it is. They're going to look forward to getting their own cellphone, not a phone line in their room.
+
+They probably won't even be able to walk over to a friend's house after finishing their homework to ask if they can come outside and play. Playing outside with just a parent watching vaguely from a window just isn't a think anymore. And yeah it's safer but there was just something about being able to hang out without an adult hovering. Gathering everyone together into a huge group so everyone could walk down the street to the 99c store and spend all our allowance on water balloons and candy.
+
+Or going to the mall! No one goes to the mall to go back to school clothes shopping anymore, or for that first bra, or for a prom dress, or for that holiday shopping trip! You can't go anymore and get a pretzel and throw a coin in the fountain. And don't even get me started on the vibes around the holidays lately.
+
+It breaks my heart, I thought I would get to share all these experiences with my kids and I can't because they don't exist anymore.
+
+---
+
+It's too expensive to actually live a life worth living.
+
+---
+
+It's too expensive to actually live
+
+---
+
+I miss how grim and dark media was allowed to be without it having to be some obscure ass title. StarCraft Warcraft Diablo halo etc all just had these grim stories and just a genuine feeling when playing them that’s still there even to this day. I remember when SC2 came out I was excited to see it in 3D but was disappointed with how much the tone shifted even with the Zerg. They went from this gruesome menace to just being treated like some action flick monster. Even Star Trek has just become boring with its tones it’s no longer unique
+
+---
+
+Wow no, I can't relate at all. Maybe it's different in your part of the world (US? They always talk about this loss of third places) - but honestly I think you need a scene. Like, say, a music scene. What are you into? Metal? Jazz? Psy? Get involved! Go to all the gigs/events in your area. You'll soon start seeing the same people week after week.
+
+---
+
+There was definitely a culture shift in late 2008. I can't say I care for late 2008-present (especially late 2014-present).
+
+1997-2007 (especially 1997-2004) FTW!
+
+---
+
+This my friend, is plain old nostalgia. But the times are so.on point ..,2000, 2008, 2020... So. OON POINT!
+
+---
+
+I feel the inverse. I feel like the early portion of my life was very boring but peaceful. It seems to be that the early 2000s was a cultural void. It seemed like we were in a decline and just most people don't care. Then things changed around 2012 or so. The world got way more vitriolic and pessimistic. Then we got true division around 2016, and then outright malice in 2020.
+
+In early life I felt a bit alienated, now I feel everyone is alienated from each other.
+
+I've found a community I fit in now, things are better. The only worry I have now is losing what I got.
+
+## otaku boys in anime games nsfw
+
+20241213
+
+https://www.youtube.com/watch?v=qVOyKNbXviY
+
+(comment)
+
+男生小時候：電動玩具、遙控玩具、會發光會震動
+女生小時候：洋娃娃、能換衣服、能互動、想像是自己的妹妹
+
+男生長大後：洋娃娃、能換衣服、能互動、想像是自己的妹妹
+女生長大後：電動玩具、遙控玩具、會發光會震動
+
+## otaku boys and girls nsfw
+
+20241214
+
+https://www.zhihu.com/question/25950258/answer/31702833
+
+(comment)
+
+没错，宅女费电，宅男费纸，纸不够用了，费猫
+
+

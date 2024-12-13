@@ -34,9 +34,27 @@ let voyage = {
       return a !== b;
     },
     /**
+     * @typedef {string|symbol|boolean|number|bigint} Key
+     * the possible types of a key in an object
+     *
+     * > all literals are included
+     * >
+     * > because different literals will be different keys
+     * >
+     * > except undefined and null which are considered errors
+     * >
+     * > objects ofcourse are not included
+     * >
+     * > as different objects could be the same after to string
+     * >
+     * > same to functions in case they have different environments
+     * >
+     * > and same to arrays in case they are nested or containing invalid values
+     */
+    /**
      * check whether an object has certain key or an array has certain index
      * @param {object} obj - the object or array
-     * @param {string | number} key - the key or index
+     * @param {Key} key - the key or index
      * @returns {boolean} whether the object has such key or the array has such index
      * @memberof voyage.lib
      */
@@ -54,7 +72,7 @@ let voyage = {
     /**
      * check whether an object lacks certain key or an array lacks certain index
      * @param {object} obj - the object or array
-     * @param {string | number} key - the key or index
+     * @param {Key} key - the key or index
      * @returns {boolean} whether the object lacks such key or the array lacks such index
      * @memberof lib
      */
@@ -167,7 +185,7 @@ let voyage = {
      * set a prop in an obj on a certain path
      * @param {*} value - the value to be set
      * @param {object} obj - the object
-     * @param {string[]} path - the path in the object
+     * @param {Key[]} path - the path in the object
      * @returns {object} the updated object
      */
     set(value, obj, ...path) {
@@ -240,7 +258,7 @@ let voyage = {
     },
     /**
      * get unique identifier for each key. same key same identifier.
-     * @param {string} key
+     * @param {Key} key
      * @returns {string} hash+key
      * @memberof voyage.lib
      */
@@ -392,7 +410,7 @@ let voyage = {
     /**
      * make an object prop reactive
      * @param {object} obj - the object to be observed
-     * @param {*} key - the key in the object refering to a value
+     * @param {Key} key - the key in the object refering to a value
      * @param {SyncObserver} observer - the callback fn when obj[key] changes
      * @returns {SyncReactive} the reactive object
      * @memberof voyage.lib
@@ -425,7 +443,7 @@ let voyage = {
     /**
      * reset a key to 0 in a counter object
      * @param {object} counter - the counter object
-     * @param {string} key - the key to be reset
+     * @param {Key} key - the key to be reset
      * @returns {void}
      * @memberof voyage.lib
      */
@@ -435,7 +453,7 @@ let voyage = {
     /**
      * count a key in a counter object
      * @param {object} counter - the counter object
-     * @param {string} key - the key to be counted
+     * @param {Key} key - the key to be counted
      * @returns {number} current value, the value before increment
      * @memberof voyage.lib
      */
@@ -448,12 +466,24 @@ let voyage = {
     },
   },
   /**
+   * some calculation results of pure functions
+   * ref by memorize()
+   * @type {object}
+   * @memberof voyage
+   */
+  memo: {},
+  /**
    * private data in creating components
    * @type {object}
    * @prop {number} componentid the componentid refering the current component being created
    * @memberof voyage
    */
   info: {},
+  /**
+   * @template Type
+   * @typedef {Type[]} ComponentArray
+   * @prop {Type} [componentid:number]
+   */
   /**
    * @typedef {object} Component
    * @prop {boolean} created whether this componentid is created at least once
@@ -463,44 +493,43 @@ let voyage = {
    */
   /**
    * private data of components
-   * @type {Component[]}
+   * @type {ComponentArray<Component>}
    * @memberof voyage
    */
   components: {},
   /**
    * @typedef {object} Selection
    * @prop {Node} node the node selected
-   * @prop {number} [componentid] the componentid of this node, if it's a component
+   * @prop {number} [componentid] the componentid which exists if the node is a component
    */
   /**
    * private data of nodes selected and their componentids
-   * @type {Selection[]}
+   * @type {ComponentArray<Selection>}
    * @memberof voyage
    */
   selections: {},
   /**
-   * @typedef {object} States
+   * @typedef {ComponentArray} States
    * @prop {object} global the global states
-   * @prop {object} [componentid:number] the states of components
    */
   /**
    * private states of components
    * @type {States}
    * @memberof voyage
    */
-  states: { global: {} },
+  states: {},
   /**
-   * some calculation results of pure functions
-   * ref by memorize()
-   * @type {object}
+   * @typedef {object} Updaters
+   * @prop {function[]} [stateid:number] - when state changes call updaters
+   */
+  /**
+   * @type {ComponentArray<Updaters>}
    * @memberof voyage
    */
-  memo: {},
+  updaters: {},
   /**
    * 
    */
-  updaters: {},
-  components: {},
   macros: {
     model(node, state) {
       const { bind } = voyage;
@@ -549,10 +578,10 @@ let voyage = {
   counter: {},
   /**
    * memory a pure function with certain params.
-   * functions must have a different names.
-   * the params will be object key so object is not allowed.
+   * functions must have different names.
+   * the params must be literals not objects, which will be object keys.
    * @param {function} fn - the function to be memorized
-   * @param  {string[]} params - the params of the fn
+   * @param  {Key[]} params - the params of the fn
    * @returns {*} the calculation result
    */
   memorize(fn, ...params) {
@@ -879,9 +908,9 @@ let voyage = {
   lookup(key) {
     const { memorize, getState } = voyage;
 
-    const reactiveState = memorize(getState, "global", key);
-    give(reactiveState, { key });
-    return reactiveState;
+    const state = memorize(getState, "global", key);
+    give(state, { key });
+    return state;
   },
   updateState(componentid, stateid, newValue, oldValue) {
     const { init } = voyage.lib;
@@ -914,8 +943,8 @@ let voyage = {
         let { states } = voyage;
         init(states, componentid, { [stateid]: initial });
 
-        const reactiveState = memorize(getState, componentid, stateid);
-        return reactiveState;
+        const state = memorize(getState, componentid, stateid);
+        return state;
       },
     };
 
@@ -967,14 +996,14 @@ let voyage = {
     }
   },
   keep(obj) {
-    const { is, map } = voyage.lib;
+    const { is, map, init } = voyage.lib;
     const { memorize, getState } = voyage;
     const { keys } = Object;
 
     const { keepGlobal } = {
       keepGlobal(key, value) {
         let { states } = voyage;
-        states["global"][key] = value;
+        init(states, "global", key, value);
 
         return memorize(getState, "global", key);
       },
@@ -1122,22 +1151,21 @@ roadmap
 - sr component library for fun
 
 @todo
-add jsdoc comments
-- at param {} name
-- at return {} name
-- function poly
-- separate public and private function
-- clearer method name
-- less typing
 single responsibility principle
 - remove excessive fn poly
 - split fn into smaller fn
-add styling macro
+learn css in js methods
 - learn from tailwind sass less stylus
-- ask mistral css in js methods to define events like hover in js
+- ask mistral css in js methods to define events and parent style in js
 - which inline style couldnt support
+add styling macro
 - `@style` macro
-- `@style:"opacity-low h2 hover:opacity-high"`
+- class-like styling `@style:"opacity-low h2"`
+- syntax: `style style-param style-p1-p2-p3`
+- styling with event `@style:"hover:opacity-high"`
+- syntax: `event:styles`
+- styling as parent `@style:"article{a{d e} b c} block{a c e} .xyz{}"`
+- syntax: `selector{styles}`
 - work with class and css in js
 - `@theme` macro
 - `@theme:"myTheme"`
@@ -1177,6 +1205,29 @@ route
 - custom decision function
 
 @version 0.28 release date
+add Key type
+- object.key
+- all literals except object(and fn)
+- undef and null not included
+changed keep global behavior
+- from states[][]=value to init states ... ... value
+- removed states.global
+- which provides better terser support
+changed variable naming
+- from reactiveState
+- to state
+typedef component array
+- [componentid:number]
+add jsdoc comments
+- at param {} name
+- at return {} name
+- function poly
+- separate public and private function
+- clearer method name
+- less typing
+remove redundant code
+- voyage.component exists twice
+- the latter will take over the former
 
 @version 0.27 20241212
 change typedef naming

@@ -11349,3 +11349,87 @@ about code shortcuts
 
 further revising and categorizing prompts.md
 
+15:55
+
+手机屏幕复旧.
+
+清日常,打游戏.
+
+翻翻笔记.
+
+21:15
+
+writing pure/chemitry
+
+`dev` `ref` `important`
+
+installed markdown all in one
+
+**great!**
+
+22:22
+
+**markdown all in one is so great!**
+
+23:20
+
+on blogging...
+
+removed awkward chinese.md
+
+or moved to wisdom
+
+## 20241213
+
+00:42
+
+pasting comments to quotes...
+
+on https://www.reddit.com/r/Zillennials/comments/1eo625r/feeling_like_the_world_i_was_excited_live_in_as/
+
+01:29
+
+`dev` `ref` `important`
+
+Reddit is anonymous, so your username is what you’ll go by here. Choose wisely—because once you get a name, you can’t change it.
+
+(got a random name when logged in with google)
+
+registering new one
+
+01:48
+
+on reddit
+
+> we had a server error...
+
+wtf?
+
+and reddit uses lit as frontend
+
+sleep.
+
+02:xx
+
+`fun`
+
+二一定律 (二次元第一定律)
+
+by old skilled tofu langrensha
+
+14:20
+
+`dev`
+
+downloading books
+
+在zlib和anna下载了一堆教科书
+
+化学,数学...
+
+上海,人教,鲁教版...
+
+zlib每一个号每天可以下载10本书...
+
+我有好几个邮箱,应该够.同一个邮箱还有alias...
+

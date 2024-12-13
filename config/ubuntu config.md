@@ -328,6 +328,7 @@ sudo apt install gnome-shell-extension-prefs
   - tab `2 spaces`
   - workspace `off`
 - install theme
+  - ref https://vscodethemes.com/
   - dracula official (current)
   - one dark pro
   - monokai pro
@@ -338,6 +339,9 @@ sudo apt install gnome-shell-extension-prefs
   - prettier
   - javascript snippets
   - javascript (es6) code snippets
+  - markdown all in one
+    - -> `settings>markdown>extension>theming>decoration`
+    - render code span `off`
   - code runner
     - -> `settings`
     - run in terminal `on`
@@ -362,12 +366,11 @@ sudo apt install gnome-shell-extension-prefs
     - toggle nav bar `alt`
     - toggle side bar `ctrl b`
     - _toggle panel_ `ctrl alt p`
-    - toggle terminal `ctrl backquote`
+    - toggle terminal in panel `ctrl backquote`
     - toggle explorer `ctrl shift e`
+    - toggle search `ctrl shift f`
     - toggle extensions `ctrl shift x`
     - _trigger parameter hints_ `ctrl p`
-    - _go to file_ `ctrl p`
-      - removed
   - create files
     - new file `ctrl n`
     - close file `ctrl w`
@@ -376,8 +379,6 @@ sudo apt install gnome-shell-extension-prefs
     - go to line `ctrl g`
     - _move cursor left_ `ctrl h` `left`
     - _move cursor right_ `ctrl l` `right`
-    - _select line_ `ctrl l`
-      - removed
     - _move cursor down_ `ctrl j` `down`
     - _move cursor up_ `ctrl k` `up`
     - _move cursor word left_ `ctrl alt h` `alt h` `ctrl left`
@@ -393,17 +394,11 @@ sudo apt install gnome-shell-extension-prefs
   - select words
     - _select left_ `ctrl shift h` `shift left`
     - _select right_ `ctrl shift l` `shift right`
-    - _select all matches_ `ctrl shift l`
-      - removed
     - _select down_ `ctrl shift j` `ctrl shift down`
     - _select up_ `ctrl shift k` `ctrl shift up`
-    - _delete line_ `ctrl shift k`
-      - removed
     - _select word left_ `ctrl shift alt h` `shift alt h` `ctrl shift left`
     - _select word right_ `ctrl shift alt l` `shift alt l` `ctrl shift right`
     - _select line (expand line selection)_ `ctrl shift s`
-    - _save as_ `ctrl shift s`
-      - removed
   - edit lines
     - _duplicate current line or current selection_ `ctrl d`
     - _insert line below_ `shift enter`
@@ -411,30 +406,16 @@ sudo apt install gnome-shell-extension-prefs
     - _indent line_ `tab` `ctrl ]`
       - when `!hasNextTabstop && !suggestWidgetVisible`
     - _outdent line_ `shift tab` `ctrl [`
-    - _tab_ `tab`
-      - removed
     - _move line down_ `alt j` `alt down`
     - _move line up_ `alt k` `alt up`
     - _delete to word start_ `ctrl backspace`
     - delete to word end `ctrl delete`
   - zoom perspective
     - _shrink code (fold)_ `ctrl shift [` `ctrl s`
-    - _save_ `ctrl s`
-      - removed
     - _expand code (unfold)_ `ctrl shift ]` `ctrl e`
     - zoom in `ctrl +`
     - zoom out `ctrl -`
     - split screen `ctrl \`
-  - comment code
-    - toggle comment `ctrl /`
-    - _toggle block comment_ `ctrl shift /`
-    - add jsdoc comment `/** enter`
-  - format and preview document
-    - auto indent (format document) `ctrl shift i`
-    - preview markdown `ctrl shift v`
-  - run code
-    - _run code_ `ctrl r`
-    - _stop running in terminal_ `ctrl c`
   - find and replace
     - rename symbol `f2`
     - find `ctrl f`
@@ -443,6 +424,30 @@ sudo apt install gnome-shell-extension-prefs
     - _find all references_ `ctrl shift r`
     - find symbol in current file `ctrl shift o`
     - find symbol everywhere `ctrl t`
+  - comment code
+    - toggle comment `ctrl /`
+    - _toggle block comment_ `ctrl shift /`
+    - add jsdoc comment `/** enter`
+  - format code
+    - auto indent and remove redundant spaces (format document) `ctrl shift i`
+  - write markdown
+    - preview document `ctrl shift v`
+    - toggle italic `ctrl i`
+    - toggle math environment `ctrl m`
+    - toggle strike through `alt s`
+    - toggle task list `alt c`
+  - run code
+    - _run code_ `ctrl r`
+    - _stop running in terminal_ `ctrl c`
+- remove conflicting shortcuts
+  - _markdown all in one: toggle bold_ `ctrl b`
+  - _go to file_ `ctrl p`
+  - _select line_ `ctrl l`
+  - _select all matches_ `ctrl shift l`
+  - _delete line_ `ctrl shift k`
+  - _save as_ `ctrl shift s`
+  - _tab_ `tab`
+  - _save_ `ctrl s`
 
 ## `git`
 
@@ -688,6 +693,7 @@ sudo apt install gnome-shell-extension-prefs
   sudo apt install figlet
   sudo apt install flatpak
   sudo apt install fortune
+  sudo apt install ghostscript
   sudo apt install gnome-software-plugin-flatpak
   sudo apt install gnome-tweaks
   sudo apt install goldendict

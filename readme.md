@@ -40,12 +40,11 @@
   - calendar & wall clock
   - reading & life size waifu pillow
   - gardening & origami & pixel art
-  - math & oi & unix porn & mtf pride
+  - math & algorithms & unix porn & mtf pride
   - functional programming & web dev
   - dark style & night light & low brightness
-  - observation & reflection
+  - observation & reflection & mind wandering
   - arrangement & accumulation
-  - daydreaming & mind wandering
   - dissociation & second person omniscient narration & inner speech
 - - hotel california (eagles)
   - wind of change (scorpions)
@@ -63,14 +62,15 @@
   - dry hands (c418)
   - the name of life (joe hisaishi)
   - the legend of zelda: ocarina of time title theme (koji kondo)
-  - benevolence bequeathed (nahida & hoyo mix)
+  - benevolence bequeathed (nahida & hoyo-mix)
   - caresse sur l'océan (bruno coulais & les petits chanteurs de saint-marc)
+  - gion2 (honkai impact third & hoyo-mix)
   - the brave (yoasobi)
   - one last kiss (hikaru utada)
   - ymca (village people)
   - never gonna give you up (rick astley)
   - internet overdose (aiobahn & kotoko & needy girl overdose)
-  - burning desires (burnice & zzz studio & hoyo mix)
+  - burning desires (burnice & zzz studio & hoyo-mix)
   - sky (beyond)
   - thou away from oi (menci & wxh010910 & yan qval & krydom & niro bc & wer key tom_ftd & \_\_stdcall & created_equal & whzzt & wy1627)
   - counter-clockwise clock (kafka & jay chou)
@@ -148,12 +148,13 @@
   - senren banka (2016)
   - sabbat of the witch (2015)
   - the rainbow appears after flowering rain (2016)
-  - earth online (2007)
-  - .the legend of zelda: ocarina of time (1998)
-  - .the legend of zelda: breath of the wild (2017)
+  - earth online (2024)
   - .the legend of zelda: tears of the kingdom (2023)
+  - .the legend of zelda: breath of the wild (2017)
+  - .the legend of zelda: ocarina of time (1998)
   - .hollow knight (2017)
   - .celeste (2018)
+  - .astro bot (2024)
   - .undertale (2015)
   - .star craft (1998)
   - .doom (1993)
@@ -169,7 +170,6 @@
   - .riddle joker (2020)
   - .doki doki literature club! (2017)
   - .wonderful everyday (2010)
-  - .bishoujo mangekyou (2020)
 - - to live (yu hua)
   - road ahead (ruanyf)
   - the water level of ideology (liu yu)
@@ -187,9 +187,9 @@
   - c++ primer plus sixth edition (stephen prata)
   - react learn docs (react commutity)
   - refactoring ui (adam wathan & steve schoger)
+  - stack overflow documentation (goalkicker books)
   - gnome human interface guidelines (gnome community)
   - clean code (robert c. martin)
-  - goalkicker (stack overflow documentation)
   - hello algo (krahets)
   - competitive programmers' handbook (antti laaksonen)
   - oi wiki (oi wiki community)
@@ -244,16 +244,16 @@
   - yitianshijie (li ruyi)
   - yixi (yixi)
 - - wikipedia
-  - github & z library & the pirate bay
+  - github & the pirate bay & z library & anna's archive
   - internet archive wayback machine & archive.today
   - google
   - youtube
   - mistral le chat & awesome gpt prompts
-  - ruanyf weekly & hacker news
+  - hacker news & ruanyf weekly
   - codepen spark & css tricks & javascript weekly
   - zhihu & v2ex creative & howie6879 weekly & rebang
   - twitter & mastodon & slashdot & solidot
-  - reddit old & nga bbs & acgn.zone & 4chan
+  - old reddit & stack exchange & 4chan & nga bbs & acgn.zone
   - codeforces & libre oj & vijos & xjoi
   - cnblogs & luogu blog & travellings & foreverblog & webring
   - bangumi.tv & my anime list & bgmlist & mikan project
@@ -262,7 +262,7 @@
   - vndb & shinnku galgame
   - google doodles & itch.io matrix67 & steam db
   - genius & poetry foundation
-  - unsplash & pixiv & dribbble
+  - unsplash & pixiv & deviantart & dribbble
   - product hunt all time
   - hugging face & kaggle
 - - acheron
@@ -374,7 +374,7 @@
   - key725 df & white hair and crimson eye
   - kirikaze chiyuki chyk & cs learning
   - kiun b & yakutsk life
-  - kkksc03 & luogu founding
+  - kkksc03 & zhihu swimming & luogu founding
   - kyth & jike xiaoyuzhou founding
   - lex fridman & dev conversation
   - li xinshuo djhs & anime otaku girl
@@ -401,15 +401,15 @@
   - nicholas wei bro mihoyo
   - old bai sleepwalked & waifu vr & mihoyo doujin
   - old ocean tubber mihoyo
-  - old skilled tofu & langrensha
+  - old skilled tofu langrensha
   - one math & draft style tut vid
   - owen young & freelancing
   - pan tianhong tim & pan shuimiao & mediastorm founding
   - paul graham paulg & y combinator founding & hacker news founding
   - pea3nut peadar & web dev
   - peng kunshuo orchidany flowerpks codeforces
-  - physixfan
-  - pieter levels levelsio & make authorship & nomad list founding 
+  - physixfan eaglefantasy & math & physics
+  - pieter levels levelsio & make authorship & nomad list founding
   - promise of playboy sr
   - qingyu codeforces
   - randall munroe & xkcd founding
@@ -749,7 +749,6 @@
 - self
   - `weekly` weekly plans at each time
   - `timeln` personal discoveries and thoughts
-  - `chinese` to reason the highhanded society
   - `djhs` wax and wane of school life
   - `swim` libre internet guide
   - `email` to contact me
@@ -758,13 +757,13 @@
   - `ubuntu config` elegant work flow
   - `list ...` preferences
   - `terminal ...` shortcuts
+  - `...` ...
 - notes
   - $\to \text{/notes}$
-  - `testing ...` google testing cheetsheet
   - `design` psychology of design
   - `xbox` video game sightseeing
   - `symbols` latex symbols spec
-  - `physics` chinese physics textbook
+  - `...` ...
 
 ## gamut
 
@@ -789,13 +788,14 @@
   - cnblogs `fira`
   - wordpress `_`
   - medium `_`
+- - reddit `r/firavoyage` `u/firavoyage` `u/Possible_Help4623`
+  - mastodon `fira@techhub.social` `firavoyage@mastodon.social`
+  - twitter `firascript`
 - - berryberry `fira_言序`
   - youtube `_`
   - telegram channel `_`
 - - telegram `firavoyage`
   - email `firavoyage@outlook.com`
-- - mastodon `fira@techhub.social` `firavoyage@mastodon.social`
-  - twitter `firascript`
 - - name `fira`
   - alias `忘我思考`
   - site `_`
@@ -809,6 +809,8 @@
 > _缄默 / 动唇却不出声交流 / 自言自语_
 
 > _imagine the same day next year_
+
+> _time flies when you're having fun :)_
 
 - _reminiscent youth_ good old days...
 - _anime otaku_ unworldly girls...
@@ -825,7 +827,11 @@
 
 > $beautifully \space advance$
 
-> $btw \space i \space use \space ubuntu$
+> $btw \space i \space use \space ubuntu$ > _"do not change anything unless you know what you are doing"_
+
+> neko nya
+>
+> uwu
 
 > 因为
 >

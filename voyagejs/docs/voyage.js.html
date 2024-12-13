@@ -1,6 +1,6 @@
 <!DOCTYPE html><html lang="en" style="font-size:16px"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Source: voyage.js</title><!--[if lt IE 9]>
       <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]--><script src="scripts/third-party/hljs.js" defer="defer"></script><script src="scripts/third-party/hljs-line-num.js" defer="defer"></script><script src="scripts/third-party/popper.js" defer="defer"></script><script src="scripts/third-party/tippy.js" defer="defer"></script><script src="scripts/third-party/tocbot.min.js"></script><script>var baseURL="/",locationPathname="";baseURL=(locationPathname=document.location.pathname).substr(0,locationPathname.lastIndexOf("/")+1)</script><link rel="stylesheet" href="styles/clean-jsdoc-theme.min.css"><svg aria-hidden="true" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="display:none"><defs><symbol id="copy-icon" viewbox="0 0 488.3 488.3"><g><path d="M314.25,85.4h-227c-21.3,0-38.6,17.3-38.6,38.6v325.7c0,21.3,17.3,38.6,38.6,38.6h227c21.3,0,38.6-17.3,38.6-38.6V124    C352.75,102.7,335.45,85.4,314.25,85.4z M325.75,449.6c0,6.4-5.2,11.6-11.6,11.6h-227c-6.4,0-11.6-5.2-11.6-11.6V124    c0-6.4,5.2-11.6,11.6-11.6h227c6.4,0,11.6,5.2,11.6,11.6V449.6z"/><path d="M401.05,0h-227c-21.3,0-38.6,17.3-38.6,38.6c0,7.5,6,13.5,13.5,13.5s13.5-6,13.5-13.5c0-6.4,5.2-11.6,11.6-11.6h227    c6.4,0,11.6,5.2,11.6,11.6v325.7c0,6.4-5.2,11.6-11.6,11.6c-7.5,0-13.5,6-13.5,13.5s6,13.5,13.5,13.5c21.3,0,38.6-17.3,38.6-38.6    V38.6C439.65,17.3,422.35,0,401.05,0z"/></g></symbol><symbol id="search-icon" viewBox="0 0 512 512"><g><g><path d="M225.474,0C101.151,0,0,101.151,0,225.474c0,124.33,101.151,225.474,225.474,225.474    c124.33,0,225.474-101.144,225.474-225.474C450.948,101.151,349.804,0,225.474,0z M225.474,409.323    c-101.373,0-183.848-82.475-183.848-183.848S124.101,41.626,225.474,41.626s183.848,82.475,183.848,183.848    S326.847,409.323,225.474,409.323z"/></g></g><g><g><path d="M505.902,476.472L386.574,357.144c-8.131-8.131-21.299-8.131-29.43,0c-8.131,8.124-8.131,21.306,0,29.43l119.328,119.328    c4.065,4.065,9.387,6.098,14.715,6.098c5.321,0,10.649-2.033,14.715-6.098C514.033,497.778,514.033,484.596,505.902,476.472z"/></g></g></symbol><symbol id="font-size-icon" viewBox="0 0 24 24"><path fill="none" d="M0 0h24v24H0z"/><path d="M11.246 15H4.754l-2 5H.6L7 4h2l6.4 16h-2.154l-2-5zm-.8-2L8 6.885 5.554 13h4.892zM21 12.535V12h2v8h-2v-.535a4 4 0 1 1 0-6.93zM19 18a2 2 0 1 0 0-4 2 2 0 0 0 0 4z"/></symbol><symbol id="add-icon" viewBox="0 0 24 24"><path fill="none" d="M0 0h24v24H0z"/><path d="M11 11V5h2v6h6v2h-6v6h-2v-6H5v-2z"/></symbol><symbol id="minus-icon" viewBox="0 0 24 24"><path fill="none" d="M0 0h24v24H0z"/><path d="M5 11h14v2H5z"/></symbol><symbol id="dark-theme-icon" viewBox="0 0 24 24"><path fill="none" d="M0 0h24v24H0z"/><path d="M10 7a7 7 0 0 0 12 4.9v.1c0 5.523-4.477 10-10 10S2 17.523 2 12 6.477 2 12 2h.1A6.979 6.979 0 0 0 10 7zm-6 5a8 8 0 0 0 15.062 3.762A9 9 0 0 1 8.238 4.938 7.999 7.999 0 0 0 4 12z"/></symbol><symbol id="light-theme-icon" viewBox="0 0 24 24"><path fill="none" d="M0 0h24v24H0z"/><path d="M12 18a6 6 0 1 1 0-12 6 6 0 0 1 0 12zm0-2a4 4 0 1 0 0-8 4 4 0 0 0 0 8zM11 1h2v3h-2V1zm0 19h2v3h-2v-3zM3.515 4.929l1.414-1.414L7.05 5.636 5.636 7.05 3.515 4.93zM16.95 18.364l1.414-1.414 2.121 2.121-1.414 1.414-2.121-2.121zm2.121-14.85l1.414 1.415-2.121 2.121-1.414-1.414 2.121-2.121zM5.636 16.95l1.414 1.414-2.121 2.121-1.414-1.414 2.121-2.121zM23 11v2h-3v-2h3zM4 11v2H1v-2h3z"/></symbol><symbol id="reset-icon" viewBox="0 0 24 24"><path fill="none" d="M0 0h24v24H0z"/><path d="M18.537 19.567A9.961 9.961 0 0 1 12 22C6.477 22 2 17.523 2 12S6.477 2 12 2s10 4.477 10 10c0 2.136-.67 4.116-1.81 5.74L17 12h3a8 8 0 1 0-2.46 5.772l.997 1.795z"/></symbol><symbol id="down-icon" viewBox="0 0 16 16"><path fill-rule="evenodd" clip-rule="evenodd" d="M12.7803 6.21967C13.0732 6.51256 13.0732 6.98744 12.7803 7.28033L8.53033 11.5303C8.23744 11.8232 7.76256 11.8232 7.46967 11.5303L3.21967 7.28033C2.92678 6.98744 2.92678 6.51256 3.21967 6.21967C3.51256 5.92678 3.98744 5.92678 4.28033 6.21967L8 9.93934L11.7197 6.21967C12.0126 5.92678 12.4874 5.92678 12.7803 6.21967Z"></path></symbol><symbol id="codepen-icon" viewBox="0 0 24 24"><path fill="none" d="M0 0h24v24H0z"/><path d="M16.5 13.202L13 15.535v3.596L19.197 15 16.5 13.202zM14.697 12L12 10.202 9.303 12 12 13.798 14.697 12zM20 10.869L18.303 12 20 13.131V10.87zM19.197 9L13 4.869v3.596l3.5 2.333L19.197 9zM7.5 10.798L11 8.465V4.869L4.803 9 7.5 10.798zM4.803 15L11 19.131v-3.596l-3.5-2.333L4.803 15zM4 13.131L5.697 12 4 10.869v2.262zM2 9a1 1 0 0 1 .445-.832l9-6a1 1 0 0 1 1.11 0l9 6A1 1 0 0 1 22 9v6a1 1 0 0 1-.445.832l-9 6a1 1 0 0 1-1.11 0l-9-6A1 1 0 0 1 2 15V9z"/></symbol><symbol id="close-icon" viewBox="0 0 24 24"><path fill="none" d="M0 0h24v24H0z"/><path d="M12 10.586l4.95-4.95 1.414 1.414-4.95 4.95 4.95 4.95-1.414 1.414-4.95-4.95-4.95 4.95-1.414-1.414 4.95-4.95-4.95-4.95L7.05 5.636z"/></symbol><symbol id="menu-icon" viewBox="0 0 24 24"><path fill="none" d="M0 0h24v24H0z"/><path d="M3 4h18v2H3V4zm0 7h18v2H3v-2zm0 7h18v2H3v-2z"/></symbol></defs></svg></head><body data-theme="dark"><div class="sidebar-container"><div class="sidebar" id="sidebar"><div class="sidebar-items-container"><div class="sidebar-section-title with-arrow" data-isopen="false" id="sidebar-namespaces"><div>Namespaces</div><svg><use xlink:href="#down-icon"></use></svg></div><div class="sidebar-section-children-container"><div class="sidebar-section-children"><a href="voyage.html">voyage</a></div><div class="sidebar-section-children"><a href="voyage.lib.html">lib</a></div></div><div class="sidebar-section-title with-arrow" data-isopen="false" id="sidebar-global"><div>Global</div><svg><use xlink:href="#down-icon"></use></svg></div><div class="sidebar-section-children-container"><div class="sidebar-section-children"><a href="global.html#Component">Component</a></div><div class="sidebar-section-children"><a href="global.html#SeekResult">SeekResult</a></div><div class="sidebar-section-children"><a href="global.html#Selection">Selection</a></div><div class="sidebar-section-children"><a href="global.html#SingleElementArray">SingleElementArray</a></div><div class="sidebar-section-children"><a href="global.html#States">States</a></div><div class="sidebar-section-children"><a href="global.html#SyncObserver">SyncObserver</a></div><div class="sidebar-section-children"><a href="global.html#SyncReactive">SyncReactive</a></div></div></div></div></div><div class="navbar-container" id="VuAckcnZhf"><nav class="navbar"><div class="navbar-left-items"></div><div class="navbar-right-items"><div class="navbar-right-item"><button class="icon-button search-button" aria-label="open-search"><svg><use xlink:href="#search-icon"></use></svg></button></div><div class="navbar-right-item"><button class="icon-button theme-toggle" aria-label="toggle-theme"><svg><use class="theme-svg-use" xlink:href="#light-theme-icon"></use></svg></button></div><div class="navbar-right-item"><button class="icon-button font-size" aria-label="change-font-size"><svg><use xlink:href="#font-size-icon"></use></svg></button></div></div><nav></nav></nav></div><div class="toc-container"><div class="toc-content"><span class="bold">On this page</span><div id="eed4d2a0bfd64539bb9df78095dec881"></div></div></div><div class="body-wrapper"><div class="main-content"><div class="main-wrapper"><section id="source-page" class="source-page"><header><h1 id="title" class="has-anchor">voyage.js</h1></header><article><pre class="prettyprint source lang-js"><code>/**
+    <![endif]--><script src="scripts/third-party/hljs.js" defer="defer"></script><script src="scripts/third-party/hljs-line-num.js" defer="defer"></script><script src="scripts/third-party/popper.js" defer="defer"></script><script src="scripts/third-party/tippy.js" defer="defer"></script><script src="scripts/third-party/tocbot.min.js"></script><script>var baseURL="/",locationPathname="";baseURL=(locationPathname=document.location.pathname).substr(0,locationPathname.lastIndexOf("/")+1)</script><link rel="stylesheet" href="styles/clean-jsdoc-theme.min.css"><svg aria-hidden="true" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="display:none"><defs><symbol id="copy-icon" viewbox="0 0 488.3 488.3"><g><path d="M314.25,85.4h-227c-21.3,0-38.6,17.3-38.6,38.6v325.7c0,21.3,17.3,38.6,38.6,38.6h227c21.3,0,38.6-17.3,38.6-38.6V124    C352.75,102.7,335.45,85.4,314.25,85.4z M325.75,449.6c0,6.4-5.2,11.6-11.6,11.6h-227c-6.4,0-11.6-5.2-11.6-11.6V124    c0-6.4,5.2-11.6,11.6-11.6h227c6.4,0,11.6,5.2,11.6,11.6V449.6z"/><path d="M401.05,0h-227c-21.3,0-38.6,17.3-38.6,38.6c0,7.5,6,13.5,13.5,13.5s13.5-6,13.5-13.5c0-6.4,5.2-11.6,11.6-11.6h227    c6.4,0,11.6,5.2,11.6,11.6v325.7c0,6.4-5.2,11.6-11.6,11.6c-7.5,0-13.5,6-13.5,13.5s6,13.5,13.5,13.5c21.3,0,38.6-17.3,38.6-38.6    V38.6C439.65,17.3,422.35,0,401.05,0z"/></g></symbol><symbol id="search-icon" viewBox="0 0 512 512"><g><g><path d="M225.474,0C101.151,0,0,101.151,0,225.474c0,124.33,101.151,225.474,225.474,225.474    c124.33,0,225.474-101.144,225.474-225.474C450.948,101.151,349.804,0,225.474,0z M225.474,409.323    c-101.373,0-183.848-82.475-183.848-183.848S124.101,41.626,225.474,41.626s183.848,82.475,183.848,183.848    S326.847,409.323,225.474,409.323z"/></g></g><g><g><path d="M505.902,476.472L386.574,357.144c-8.131-8.131-21.299-8.131-29.43,0c-8.131,8.124-8.131,21.306,0,29.43l119.328,119.328    c4.065,4.065,9.387,6.098,14.715,6.098c5.321,0,10.649-2.033,14.715-6.098C514.033,497.778,514.033,484.596,505.902,476.472z"/></g></g></symbol><symbol id="font-size-icon" viewBox="0 0 24 24"><path fill="none" d="M0 0h24v24H0z"/><path d="M11.246 15H4.754l-2 5H.6L7 4h2l6.4 16h-2.154l-2-5zm-.8-2L8 6.885 5.554 13h4.892zM21 12.535V12h2v8h-2v-.535a4 4 0 1 1 0-6.93zM19 18a2 2 0 1 0 0-4 2 2 0 0 0 0 4z"/></symbol><symbol id="add-icon" viewBox="0 0 24 24"><path fill="none" d="M0 0h24v24H0z"/><path d="M11 11V5h2v6h6v2h-6v6h-2v-6H5v-2z"/></symbol><symbol id="minus-icon" viewBox="0 0 24 24"><path fill="none" d="M0 0h24v24H0z"/><path d="M5 11h14v2H5z"/></symbol><symbol id="dark-theme-icon" viewBox="0 0 24 24"><path fill="none" d="M0 0h24v24H0z"/><path d="M10 7a7 7 0 0 0 12 4.9v.1c0 5.523-4.477 10-10 10S2 17.523 2 12 6.477 2 12 2h.1A6.979 6.979 0 0 0 10 7zm-6 5a8 8 0 0 0 15.062 3.762A9 9 0 0 1 8.238 4.938 7.999 7.999 0 0 0 4 12z"/></symbol><symbol id="light-theme-icon" viewBox="0 0 24 24"><path fill="none" d="M0 0h24v24H0z"/><path d="M12 18a6 6 0 1 1 0-12 6 6 0 0 1 0 12zm0-2a4 4 0 1 0 0-8 4 4 0 0 0 0 8zM11 1h2v3h-2V1zm0 19h2v3h-2v-3zM3.515 4.929l1.414-1.414L7.05 5.636 5.636 7.05 3.515 4.93zM16.95 18.364l1.414-1.414 2.121 2.121-1.414 1.414-2.121-2.121zm2.121-14.85l1.414 1.415-2.121 2.121-1.414-1.414 2.121-2.121zM5.636 16.95l1.414 1.414-2.121 2.121-1.414-1.414 2.121-2.121zM23 11v2h-3v-2h3zM4 11v2H1v-2h3z"/></symbol><symbol id="reset-icon" viewBox="0 0 24 24"><path fill="none" d="M0 0h24v24H0z"/><path d="M18.537 19.567A9.961 9.961 0 0 1 12 22C6.477 22 2 17.523 2 12S6.477 2 12 2s10 4.477 10 10c0 2.136-.67 4.116-1.81 5.74L17 12h3a8 8 0 1 0-2.46 5.772l.997 1.795z"/></symbol><symbol id="down-icon" viewBox="0 0 16 16"><path fill-rule="evenodd" clip-rule="evenodd" d="M12.7803 6.21967C13.0732 6.51256 13.0732 6.98744 12.7803 7.28033L8.53033 11.5303C8.23744 11.8232 7.76256 11.8232 7.46967 11.5303L3.21967 7.28033C2.92678 6.98744 2.92678 6.51256 3.21967 6.21967C3.51256 5.92678 3.98744 5.92678 4.28033 6.21967L8 9.93934L11.7197 6.21967C12.0126 5.92678 12.4874 5.92678 12.7803 6.21967Z"></path></symbol><symbol id="codepen-icon" viewBox="0 0 24 24"><path fill="none" d="M0 0h24v24H0z"/><path d="M16.5 13.202L13 15.535v3.596L19.197 15 16.5 13.202zM14.697 12L12 10.202 9.303 12 12 13.798 14.697 12zM20 10.869L18.303 12 20 13.131V10.87zM19.197 9L13 4.869v3.596l3.5 2.333L19.197 9zM7.5 10.798L11 8.465V4.869L4.803 9 7.5 10.798zM4.803 15L11 19.131v-3.596l-3.5-2.333L4.803 15zM4 13.131L5.697 12 4 10.869v2.262zM2 9a1 1 0 0 1 .445-.832l9-6a1 1 0 0 1 1.11 0l9 6A1 1 0 0 1 22 9v6a1 1 0 0 1-.445.832l-9 6a1 1 0 0 1-1.11 0l-9-6A1 1 0 0 1 2 15V9z"/></symbol><symbol id="close-icon" viewBox="0 0 24 24"><path fill="none" d="M0 0h24v24H0z"/><path d="M12 10.586l4.95-4.95 1.414 1.414-4.95 4.95 4.95 4.95-1.414 1.414-4.95-4.95-4.95 4.95-1.414-1.414 4.95-4.95-4.95-4.95L7.05 5.636z"/></symbol><symbol id="menu-icon" viewBox="0 0 24 24"><path fill="none" d="M0 0h24v24H0z"/><path d="M3 4h18v2H3V4zm0 7h18v2H3v-2zm0 7h18v2H3v-2z"/></symbol></defs></svg></head><body data-theme="dark"><div class="sidebar-container"><div class="sidebar" id="sidebar"><div class="sidebar-items-container"><div class="sidebar-section-title with-arrow" data-isopen="false" id="sidebar-namespaces"><div>Namespaces</div><svg><use xlink:href="#down-icon"></use></svg></div><div class="sidebar-section-children-container"><div class="sidebar-section-children"><a href="voyage.html">voyage</a></div><div class="sidebar-section-children"><a href="voyage.lib.html">lib</a></div></div><div class="sidebar-section-title with-arrow" data-isopen="false" id="sidebar-global"><div>Global</div><svg><use xlink:href="#down-icon"></use></svg></div><div class="sidebar-section-children-container"><div class="sidebar-section-children"><a href="global.html#Component">Component</a></div><div class="sidebar-section-children"><a href="global.html#ComponentArray">ComponentArray</a></div><div class="sidebar-section-children"><a href="global.html#Key">Key</a></div><div class="sidebar-section-children"><a href="global.html#SeekResult">SeekResult</a></div><div class="sidebar-section-children"><a href="global.html#Selection">Selection</a></div><div class="sidebar-section-children"><a href="global.html#SingleElementArray">SingleElementArray</a></div><div class="sidebar-section-children"><a href="global.html#States">States</a></div><div class="sidebar-section-children"><a href="global.html#SyncObserver">SyncObserver</a></div><div class="sidebar-section-children"><a href="global.html#SyncReactive">SyncReactive</a></div><div class="sidebar-section-children"><a href="global.html#Updaters">Updaters</a></div></div></div></div></div><div class="navbar-container" id="VuAckcnZhf"><nav class="navbar"><div class="navbar-left-items"></div><div class="navbar-right-items"><div class="navbar-right-item"><button class="icon-button search-button" aria-label="open-search"><svg><use xlink:href="#search-icon"></use></svg></button></div><div class="navbar-right-item"><button class="icon-button theme-toggle" aria-label="toggle-theme"><svg><use class="theme-svg-use" xlink:href="#light-theme-icon"></use></svg></button></div><div class="navbar-right-item"><button class="icon-button font-size" aria-label="change-font-size"><svg><use xlink:href="#font-size-icon"></use></svg></button></div></div><nav></nav></nav></div><div class="toc-container"><div class="toc-content"><span class="bold">On this page</span><div id="eed4d2a0bfd64539bb9df78095dec881"></div></div></div><div class="body-wrapper"><div class="main-content"><div class="main-wrapper"><section id="source-page" class="source-page"><header><h1 id="title" class="has-anchor">voyage.js</h1></header><article><pre class="prettyprint source lang-js"><code>/**
  * @file
  * the js library of voyage web framework
  */
@@ -36,9 +36,27 @@ let voyage = {
       return a !== b;
     },
     /**
+     * @typedef {string|symbol|boolean|number|bigint} Key
+     * the possible types of a key in an object
+     *
+     * > all literals are included
+     * >
+     * > because different literals will be different keys
+     * >
+     * > except undefined and null which are considered errors
+     * >
+     * > objects ofcourse are not included
+     * >
+     * > as different objects could be the same after to string
+     * >
+     * > same to functions in case they have different environments
+     * >
+     * > and same to arrays in case they are nested or containing invalid values
+     */
+    /**
      * check whether an object has certain key or an array has certain index
      * @param {object} obj - the object or array
-     * @param {string | number} key - the key or index
+     * @param {Key} key - the key or index
      * @returns {boolean} whether the object has such key or the array has such index
      * @memberof voyage.lib
      */
@@ -56,7 +74,7 @@ let voyage = {
     /**
      * check whether an object lacks certain key or an array lacks certain index
      * @param {object} obj - the object or array
-     * @param {string | number} key - the key or index
+     * @param {Key} key - the key or index
      * @returns {boolean} whether the object lacks such key or the array lacks such index
      * @memberof lib
      */
@@ -76,7 +94,7 @@ let voyage = {
      */
     include(constructor) {
       const handler = {
-        get: (obj, prop) => {
+        get(obj, prop) {
           const { fn } = {
             fn(...params) {
               return obj.prototype[prop].call(...params);
@@ -100,7 +118,7 @@ let voyage = {
      * > if the key already exists, it wont init
      * >
      * > if it's an object wiht one key value pair, init {key:value}
-     * 
+     *
      * > if it's a string, consider it as the key and init {key:{}}
      * >
      * > if it's a array with one string element, consider it as the key and init {key:[]}
@@ -169,7 +187,7 @@ let voyage = {
      * set a prop in an obj on a certain path
      * @param {*} value - the value to be set
      * @param {object} obj - the object
-     * @param {string[]} path - the path in the object
+     * @param {Key[]} path - the path in the object
      * @returns {object} the updated object
      */
     set(value, obj, ...path) {
@@ -242,7 +260,7 @@ let voyage = {
     },
     /**
      * get unique identifier for each key. same key same identifier.
-     * @param {string} key
+     * @param {Key} key
      * @returns {string} hash+key
      * @memberof voyage.lib
      */
@@ -394,7 +412,7 @@ let voyage = {
     /**
      * make an object prop reactive
      * @param {object} obj - the object to be observed
-     * @param {*} key - the key in the object refering to a value
+     * @param {Key} key - the key in the object refering to a value
      * @param {SyncObserver} observer - the callback fn when obj[key] changes
      * @returns {SyncReactive} the reactive object
      * @memberof voyage.lib
@@ -427,7 +445,7 @@ let voyage = {
     /**
      * reset a key to 0 in a counter object
      * @param {object} counter - the counter object
-     * @param {string} key - the key to be reset
+     * @param {Key} key - the key to be reset
      * @returns {void}
      * @memberof voyage.lib
      */
@@ -437,7 +455,7 @@ let voyage = {
     /**
      * count a key in a counter object
      * @param {object} counter - the counter object
-     * @param {string} key - the key to be counted
+     * @param {Key} key - the key to be counted
      * @returns {number} current value, the value before increment
      * @memberof voyage.lib
      */
@@ -450,12 +468,24 @@ let voyage = {
     },
   },
   /**
+   * some calculation results of pure functions
+   * ref by memorize()
+   * @type {object}
+   * @memberof voyage
+   */
+  memo: {},
+  /**
    * private data in creating components
    * @type {object}
    * @prop {number} componentid the componentid refering the current component being created
    * @memberof voyage
    */
   info: {},
+  /**
+   * @template Type
+   * @typedef {Type[]} ComponentArray
+   * @prop {Type} [componentid:number]
+   */
   /**
    * @typedef {object} Component
    * @prop {boolean} created whether this componentid is created at least once
@@ -465,41 +495,38 @@ let voyage = {
    */
   /**
    * private data of components
-   * @type {Component[]}
+   * @type {ComponentArray&lt;Component>}
    * @memberof voyage
    */
   components: {},
   /**
    * @typedef {object} Selection
    * @prop {Node} node the node selected
-   * @prop {number} [componentid] the componentid of this node, if it's a component
+   * @prop {number} [componentid] the componentid which exists if the node is a component
    */
   /**
    * private data of nodes selected and their componentids
-   * @type {Selection[]}
+   * @type {ComponentArray&lt;Selection>}
    * @memberof voyage
    */
   selections: {},
   /**
-   * @typedef {object} States
+   * @typedef {ComponentArray} States
    * @prop {object} global the global states
-   * @prop {object} [componentid:number] the states of components
    */
   /**
    * private states of components
    * @type {States}
    * @memberof voyage
    */
-  states: { global: {} },
+  states: {},
   /**
-   * some calculation results of pure functions
-   * ref by memorize()
-   * @type {object}
-   * @memberof voyage
+   * @typedef {object} Updaters
+   * @prop {function[]} [stateid:number] - when state changes call updaters
    */
-  memo: {},
   /**
-   *
+   * @type {ComponentArray&lt;Updaters>}
+   * @memberof voyage
    */
   updaters: {},
   components: {},
@@ -551,10 +578,10 @@ let voyage = {
   counter: {},
   /**
    * memory a pure function with certain params.
-   * functions must have a different names.
-   * the params will be object key so object is not allowed.
+   * functions must have different names.
+   * the params must be literals not objects, which will be object keys.
    * @param {function} fn - the function to be memorized
-   * @param  {string[]} params - the params of the fn
+   * @param  {Key[]} params - the params of the fn
    * @returns {*} the calculation result
    */
   memorize(fn, ...params) {
@@ -825,7 +852,7 @@ let voyage = {
   },
   get(...options) {
     const { is, check } = voyage.lib;
-    const { memorize, getReactiveState } = voyage;
+    const { memorize, getState, getStates } = voyage;
 
     if (is(options.length, 1)) {
       const [option] = options;
@@ -838,34 +865,52 @@ let voyage = {
         componentid = option;
       }
 
-      const { memo } = voyage;
-      return memo.getReactiveState[componentid];
+      return memorize(getStates, componentid);
     } else {
       const [componentid, stateid] = options;
-      return memorize(getReactiveState, componentid, stateid);
+      return memorize(getState, componentid, stateid);
     }
   },
-  getReactiveState(componentid, stateid) {
+  getState(componentid, stateid) {
     const { sync, use } = voyage.lib;
     const { updateState } = voyage;
     const { assign: give } = Object;
 
     const { states } = voyage;
-    const reactiveState = sync(
+    const state = sync(
       states[componentid],
       stateid,
       use(updateState, componentid, stateid, use(), use())
     );
-    give(reactiveState, { componentid, stateid });
+    give(state, { componentid, stateid });
 
-    return reactiveState;
+    return state;
+  },
+  getStates(componentid) {
+    const { updateState } = voyage;
+
+    const { states } = voyage;
+    const handler = {
+      get(states, stateid) {
+        const state = states[stateid];
+        return state;
+      },
+      set(states, stateid, newValue) {
+        const oldValue = states[stateid];
+        states[stateid] = newValue;
+        updateState(componentid, stateid, newValue, oldValue);
+      },
+    };
+
+    const proxy = new Proxy(states[componentid], handler);
+    return proxy;
   },
   lookup(key) {
-    const { memorize, getReactiveState } = voyage;
+    const { memorize, getState } = voyage;
 
-    const reactiveState = memorize(getReactiveState, "global", key);
-    give(reactiveState, { key });
-    return reactiveState;
+    const state = memorize(getState, "global", key);
+    give(state, { key });
+    return state;
   },
   updateState(componentid, stateid, newValue, oldValue) {
     const { init } = voyage.lib;
@@ -878,7 +923,7 @@ let voyage = {
   },
   ref(...options) {
     const { is, check, map, init, count } = voyage.lib;
-    const { memorize, getReactiveState } = voyage;
+    const { memorize, getState } = voyage;
     const { keys, values } = Object;
 
     const { refState } = {
@@ -898,8 +943,8 @@ let voyage = {
         let { states } = voyage;
         init(states, componentid, { [stateid]: initial });
 
-        const reactiveState = memorize(getReactiveState, componentid, stateid);
-        return reactiveState;
+        const state = memorize(getState, componentid, stateid);
+        return state;
       },
     };
 
@@ -951,16 +996,16 @@ let voyage = {
     }
   },
   keep(obj) {
-    const { is, map } = voyage.lib;
-    const { memorize, getReactiveState } = voyage;
+    const { is, map, init } = voyage.lib;
+    const { memorize, getState } = voyage;
     const { keys } = Object;
 
     const { keepGlobal } = {
       keepGlobal(key, value) {
         let { states } = voyage;
-        states["global"][key] = value;
+        init(states, "global", key, value);
 
-        return memorize(getReactiveState, "global", key);
+        return memorize(getState, "global", key);
       },
     };
 
@@ -1106,15 +1151,9 @@ roadmap
 - sr component library for fun
 
 @todo
-add jsdoc comments
-- at param {} name
-- at return {} name
-- function poly
-- separate public and private function
-- clearer method name
-- less typing
 single responsibility principle
 - remove excessive fn poly
+- split fn into smaller fn
 add styling macro
 - learn from tailwind sass less stylus
 - ask mistral css in js methods to define events like hover in js
@@ -1159,7 +1198,29 @@ route
 - path and page component
 - custom decision function
 
-@version 0.27 release date
+@version 0.28 release date
+add Key type
+- object.key
+- all literals except object(and fn)
+- undef and null not included
+changed keep global behavior
+- from states[][]=value to init states ... ... value
+- removed states.global
+- which provides better terser support
+changed variable naming
+- from reactiveState
+- to state
+typedef component array
+- [componentid:number]
+add jsdoc comments
+- at param {} name
+- at return {} name
+- function poly
+- separate public and private function
+- clearer method name
+- less typing
+
+@version 0.27 20241212
 change typedef naming
 - from various naming methods to
 - AaBbCc
@@ -1167,11 +1228,14 @@ change seek behavior
 - return SeekResult
 - {result:...}
 - precalculation.result
+add examples to lib init
+- case when init has no effect
 change get state behavior
 - from getReactiveState
 - to getState(cid,sid) and getStates(cid)
-add examples to lib init
-- case when init has no effect
+revise fn get
+- from memo.getReactiveState ...
+- to memorize(getStates,cid)
 
 @version 0.26 20241210
 separate objects and arrays
@@ -1245,4 +1309,4 @@ label updater example
 - label:state will only bind state change to label
 - it wont listen label.content change to update state
 */
-</code></pre></article></section></div></div></div><div class="search-container" id="PkfLWpAbet" style="display:none"><div class="wrapper" id="iCxFxjkHbP"><button class="icon-button search-close-button" id="VjLlGakifb" aria-label="close search"><svg><use xlink:href="#close-icon"></use></svg></button><div class="search-box-c"><svg><use xlink:href="#search-icon"></use></svg> <input type="text" id="vpcKVYIppa" class="search-input" placeholder="Search..." autofocus></div><div class="search-result-c" id="fWwVHRuDuN"><span class="search-result-c-text">Type anything to view search result</span></div></div></div><div class="mobile-menu-icon-container"><button class="icon-button" id="mobile-menu" data-isopen="false" aria-label="menu"><svg><use xlink:href="#menu-icon"></use></svg></button></div><div id="mobile-sidebar" class="mobile-sidebar-container"><div class="mobile-sidebar-wrapper"><div class="mobile-nav-links"></div><div class="mobile-sidebar-items-c"><div class="sidebar-section-title with-arrow" data-isopen="false" id="sidebar-namespaces"><div>Namespaces</div><svg><use xlink:href="#down-icon"></use></svg></div><div class="sidebar-section-children-container"><div class="sidebar-section-children"><a href="voyage.html">voyage</a></div><div class="sidebar-section-children"><a href="voyage.lib.html">lib</a></div></div><div class="sidebar-section-title with-arrow" data-isopen="false" id="sidebar-global"><div>Global</div><svg><use xlink:href="#down-icon"></use></svg></div><div class="sidebar-section-children-container"><div class="sidebar-section-children"><a href="global.html#Component">Component</a></div><div class="sidebar-section-children"><a href="global.html#SeekResult">SeekResult</a></div><div class="sidebar-section-children"><a href="global.html#Selection">Selection</a></div><div class="sidebar-section-children"><a href="global.html#SingleElementArray">SingleElementArray</a></div><div class="sidebar-section-children"><a href="global.html#States">States</a></div><div class="sidebar-section-children"><a href="global.html#SyncObserver">SyncObserver</a></div><div class="sidebar-section-children"><a href="global.html#SyncReactive">SyncReactive</a></div></div></div><div class="mobile-navbar-actions"><div class="navbar-right-item"><button class="icon-button search-button" aria-label="open-search"><svg><use xlink:href="#search-icon"></use></svg></button></div><div class="navbar-right-item"><button class="icon-button theme-toggle" aria-label="toggle-theme"><svg><use class="theme-svg-use" xlink:href="#light-theme-icon"></use></svg></button></div><div class="navbar-right-item"><button class="icon-button font-size" aria-label="change-font-size"><svg><use xlink:href="#font-size-icon"></use></svg></button></div></div></div></div><script type="text/javascript" src="scripts/core.min.js"></script><script src="scripts/search.min.js" defer="defer"></script><script src="scripts/third-party/fuse.js" defer="defer"></script><script type="text/javascript">var tocbotInstance=tocbot.init({tocSelector:"#eed4d2a0bfd64539bb9df78095dec881",contentSelector:".main-content",headingSelector:"h1, h2, h3",hasInnerContainers:!0,scrollContainer:".main-content",headingsOffset:130,onClick:bringLinkToView})</script></body></html>
+</code></pre></article></section></div></div></div><div class="search-container" id="PkfLWpAbet" style="display:none"><div class="wrapper" id="iCxFxjkHbP"><button class="icon-button search-close-button" id="VjLlGakifb" aria-label="close search"><svg><use xlink:href="#close-icon"></use></svg></button><div class="search-box-c"><svg><use xlink:href="#search-icon"></use></svg> <input type="text" id="vpcKVYIppa" class="search-input" placeholder="Search..." autofocus></div><div class="search-result-c" id="fWwVHRuDuN"><span class="search-result-c-text">Type anything to view search result</span></div></div></div><div class="mobile-menu-icon-container"><button class="icon-button" id="mobile-menu" data-isopen="false" aria-label="menu"><svg><use xlink:href="#menu-icon"></use></svg></button></div><div id="mobile-sidebar" class="mobile-sidebar-container"><div class="mobile-sidebar-wrapper"><div class="mobile-nav-links"></div><div class="mobile-sidebar-items-c"><div class="sidebar-section-title with-arrow" data-isopen="false" id="sidebar-namespaces"><div>Namespaces</div><svg><use xlink:href="#down-icon"></use></svg></div><div class="sidebar-section-children-container"><div class="sidebar-section-children"><a href="voyage.html">voyage</a></div><div class="sidebar-section-children"><a href="voyage.lib.html">lib</a></div></div><div class="sidebar-section-title with-arrow" data-isopen="false" id="sidebar-global"><div>Global</div><svg><use xlink:href="#down-icon"></use></svg></div><div class="sidebar-section-children-container"><div class="sidebar-section-children"><a href="global.html#Component">Component</a></div><div class="sidebar-section-children"><a href="global.html#ComponentArray">ComponentArray</a></div><div class="sidebar-section-children"><a href="global.html#Key">Key</a></div><div class="sidebar-section-children"><a href="global.html#SeekResult">SeekResult</a></div><div class="sidebar-section-children"><a href="global.html#Selection">Selection</a></div><div class="sidebar-section-children"><a href="global.html#SingleElementArray">SingleElementArray</a></div><div class="sidebar-section-children"><a href="global.html#States">States</a></div><div class="sidebar-section-children"><a href="global.html#SyncObserver">SyncObserver</a></div><div class="sidebar-section-children"><a href="global.html#SyncReactive">SyncReactive</a></div><div class="sidebar-section-children"><a href="global.html#Updaters">Updaters</a></div></div></div><div class="mobile-navbar-actions"><div class="navbar-right-item"><button class="icon-button search-button" aria-label="open-search"><svg><use xlink:href="#search-icon"></use></svg></button></div><div class="navbar-right-item"><button class="icon-button theme-toggle" aria-label="toggle-theme"><svg><use class="theme-svg-use" xlink:href="#light-theme-icon"></use></svg></button></div><div class="navbar-right-item"><button class="icon-button font-size" aria-label="change-font-size"><svg><use xlink:href="#font-size-icon"></use></svg></button></div></div></div></div><script type="text/javascript" src="scripts/core.min.js"></script><script src="scripts/search.min.js" defer="defer"></script><script src="scripts/third-party/fuse.js" defer="defer"></script><script type="text/javascript">var tocbotInstance=tocbot.init({tocSelector:"#eed4d2a0bfd64539bb9df78095dec881",contentSelector:".main-content",headingSelector:"h1, h2, h3",hasInnerContainers:!0,scrollContainer:".main-content",headingsOffset:130,onClick:bringLinkToView})</script></body></html>
