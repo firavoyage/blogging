@@ -11433,3 +11433,459 @@ zlib每一个号每天可以下载10本书...
 
 我有好几个邮箱,应该够.同一个邮箱还有alias...
 
+## 20241214
+
+00:03
+
+发现markdown all in one可以自动识别删除线!
+
+就是可以 选中+~ !
+
+**great!**
+
+03:13
+
+`gaming`
+
+played df.
+
+enemies are much weaker than usual these days...
+
+maybe because the fin of this season is around the corner
+
+`bangumi`
+
+watched evangelion episode 1.
+
+sleep.
+
+## 20241215
+
+20:11
+
+`weather`
+
+returned home.
+
+这周末出去玩.去无锡.
+
+- 周六
+  - 下午.拈花湾,小镇散步.平常的表演.
+  - 晚.入住某花园温泉酒店.温泉不去,没什么意思.
+  - 夜.同行的人,去星光影院看电影,两部沈腾的电影.f played df.
+- 周日
+  - 早饭后.星光影院.就是室内影院,加上了笨拙的屋顶变色灯.在放"再见,李可乐",感觉不是电影,是恋爱连续剧总结.没有悲剧.
+  - 下午.爬山.平常的山,天然的.山顶能看到大佛,拍了些照片.远不及巴西基督像有气势.也就是寻常开发的景区.
+  - 16点不到.回家.车上,听听罗翔的电台...
+  - 19点不到.到家.
+
+`dev`
+
+mistral ai又更新了.这几个月,更新得好勤快啊!
+
+**input bar moved from the bottom to the middle.**
+
+like google search.
+
+21:05
+
+`weather`
+
+吃饭.聊天.
+
+原本以为明天要去学校,好压抑qwq...
+
+不过还可以停课在家,理由可以算是殴打老师吧,太正义了哈哈!
+
+并不是厌学什么...而是我想,如果我现在直接参加期末考,和学一个月再参加期末考...
+
+可能都没什么差别了,我是说分数...
+
+好无聊啊,zaku学校,zaku上海市中心市重点高中...
+
+简单说一下,为什么zaku...
+
+- 学校成绩断层.
+  - 月考考三门.
+  - 有一次,老蒋第一赢第二名10分,第二名赢我20分,f第五名好像,还是第八名
+  - (这学期拿了第五七八.这次考试没下来,不过头很晕,可能十几名吧qwq).
+  - 说是头晕,但是数学真垃圾,虽然至少a(应该没有a+).说一下错题吧,当然是最ridiculous的几道.
+  - 两个人取小球,取完放回去,算概率.f没想到两个人可以取同一个球.
+  - 圆锥过顶点最大面积的截面,f认为一定是轴截面.
+  - 命题有了,求否命题.求错.(其实是读题读错,"至少有"读成了"只有"的意思,那包没了的呀)
+- 老师zaku.
+  - 其实是生源zaku...
+  - 不多说了,有的老师放空中课堂...
+  - 但是也算是比上不足比下有余吧...毕竟还是普通市重点.(好的,去四校八大)
+  - f是zaku,中考684.格致奉贤的分数,但是没填写八大分校,不想去,现在也不后悔.
+  - **平常心.从流飘荡任意东西**
+  - (志愿:上中710,大同694,大境66x,市八.就填了四个)
+
+从容自在...
+
+23:20
+
+`fun`
+
+fira是唐氏啊啊啊!
+
+把`强酸盐`,定义成了酸性强的盐...
+
+qwq.
+
+23:34
+
+`dev`
+
+ubuntu bug...
+
+some apps always on top.
+
+some apps could never appear on the screen.
+
+fixed by tapping super key.
+
+## 20241216
+
+02:39
+
+watched simplelive.
+
+陈子豪.游戏:miside.
+
+恐怖,恋爱,3d.
+
+`weather` `ref`
+
+被疯狂mita推倒,女上位,想冲,又恐怖...所以作罢.
+
+**sleep.**
+
+12:25
+
+`bangumi`
+
+downloading castle in the sky on mikan project
+
+`dev`
+
+hide vlc media player / lucky star in the task bar 
+
+upd ubuntu config / code shortcuts / all road lead to rome
+
+using solanum as school time
+
+13:10
+
+`dev`
+
+服了.网络非常不稳定.
+
+一直timeout.不是qbitorrent的问题.
+
+13:29
+
+空调开多了,流血.
+
+真够逆天的.清个al sr日常.
+
+清了半小时了,神经简中网络.
+
+昨天都忘了打日常,今天不打根本没心思吃饭.
+
+最后用网络共享搞定的,那个网络共享更逆天,允许wifi和共享同时开,然后就没用.
+
+算了,简中.
+
+13:33
+
+`bangumi`
+
+天空之城不下了,根本没有seeder...
+
+在线看吧,随便找个网站.
+
+15:29
+
+writing pure/chemistry...
+
+`dev`
+
+upd ubuntu config: dynamic workspaces
+
+18:23
+
+returned home from eye glasses shop.
+
+asked info about the broken glasses.
+
+upd djhs.md
+
+18:27
+
+`dev`
+
+upd ubuntu config / solanum
+
+- lap length `20min`
+- short break `5min`
+- long break `40min`
+
+两轮正好4h.
+
+18:50
+
+`dev`
+
+upd ubuntu config / code shortcuts
+
+removed backspace while editing markdown
+
+next time unindent a list item in markdown
+
+use shift tab instead.
+
+i have the habit of using backspace to delete words.
+
+22:09
+
+`writing`
+
+writing pure/chemistry/chapter1
+
+还在写第一章qwq...
+
+进度好慢qwq...
+
+想来是方法不对吧...
+
+f应该先看懂,在记录.
+
+而不是学一点,记一点,在4本教材里游荡.
+
+23:36
+
+`gaming`
+
+watched lciop cr live.
+
+"皇室大厨"
+
+played honkai impact third
+
+几个小游戏. 
+
+`dev`
+
+**这几个游戏似乎是webgl based**
+
+一个是v塔滚格子,另一个是大富翁.
+
+## 20241217
+
+00:36
+
+`weather` `ref` `important`
+
+changed bedtime in readme
+
+from "23:00" to "23:30"
+
+changed bio in readme
+
+from "an entrepreneur, developer, writer"
+to "a developer, writer, wikipedian"
+
+03:15
+
+`bangumi`
+
+watched evangelion episode 2.
+
+**sleep.**
+
+`music`
+
+playing A Cruel Angel's Thesis
+
+`weekly` `foresight`
+
+第二天!想来, 笔记, 一章不过17页.
+
+如果说两分钟一页,也很快了吧...
+
+一周目, 好多时间在配置markdown格式... 还有编辑形式...
+
+还有切换书本,翻阅... 都不是在关于内容的...qwq.
+
+`dev`
+
+emmm... r/firavoyage got banned for no reason. spam? wtf.
+
+nothing. just reddit's fault.
+
+12:xx
+
+awaken. 
+
+continued sleeping... zzz...
+
+lost in thoughts...
+
+14:xx
+
+got up.
+
+15:xx
+
+had lunch.
+
+`gaming`
+
+cleared sr weekly todos.
+
+reading chemistry notes.
+
+`writing`
+
+fixed some mistakes on chapter1 markdown.
+
+16:xx
+
+`gaming`
+
+playing hi.
+
+cleared event mini games.
+
+17:32
+
+`writing` `chemistry`
+
+fira是唐氏...
+
+$\ce{FeCl3 + 3H2O \overset{\Delta}{=} Fe(OH)3 \text{(c)} + 3HCl}$
+
+好像也没有问题?
+
+s stands for solid
+
+18:51
+
+`writing`
+
+finished reading chemistry notes chapter 1.
+
+**chapter 1 of 20.**
+
+`gaming`
+
+playing df.
+
+i will advance my rating by 100 everyday to reach the highest rank.
+
+curreent 4100 of 5000.
+
+21:21
+
+had supper.
+
+`gaming`
+
+played df.
+
+reached rating 4299 of 5000.
+
+`writing`
+
+chemistry notes.
+
+22:24
+
+`writing`
+
+chemistry notes.
+
+一直没有 fold / shrink code qwq...
+
+总之就是好舒服,写完第一节了.
+
+22:59
+
+`dev`
+
+add `\ce` markdown code snippet
+
+23:22
+
+`writing`
+
+solanum: long break!
+
+写到 "第一章 第二节 电离方程式"
+
+人教版好像省略了部分电离, 完全电离. 得抄笔记.
+
+`reflection`
+
+虽然说写得慢... 但是今天起床太晚了...
+
+15点才开始生活...
+
+明天早起. 
+
+- 先速读,看到第五章.
+- 然后看一章,写一章.
+
+upd chemistry/readme/method
+
+## 20241218
+
+01:13
+
+`dev`
+
+added a prompt. (and another useless prompt.)
+
+I would like you to act as a chemistry assistant for a specific task. I will ask you questions related to chemistry, and your job is to provide accurate and concise answers. Your responses should be formatted in Markdown with LaTeX for mathematical and chemical expressions. Please ensure that all chemical formulas are wrapped using the $\ce{...}$ syntax for proper rendering. For example, water should be represented as $\ce{H2O}$. Additionally, wrap your entire answer in a code block to distinguish it clearly from the rest of the text. (Only use single $. Never write double $.) (You don't need to write \ inside a code block.)
+
+Please start by answering the following question:
+
+i thought i could make it fast. but the ai is stupid. 
+
+**wtf.**
+
+too late.
+
+watch bangumis tommorow.
+
+**sleep.**
+
+11:46
+
+`weather`
+
+got up.
+
+clear al sr daily mission.
+
+auto battling...
+
+`dev`
+
+upd prompts.
+
+from "my first question is..." to "Please confirm if you're ready to receive my first request."
+
+15:19
+
+returned home.
+
+配了眼镜. 还是原来的镜片. 镜架也是原来的型号和颜色.
+
+在茂昌眼镜, 南京路.
+
+had lunch.
+
+左庭右院. 也是南京路. 没什么人, 门口倒是站着几个服务员, 真闲啊.
+

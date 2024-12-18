@@ -1,18 +1,56 @@
 # pure_project::chemistry
 
-## .
+## roadmap
 
-- mistral le chat
-- wikipedia
-- 学霸笔记 (pass 绿卡图书) (pub:陕西师范大学)
-- 金典导学案 (钟书金牌)
+- chemistry wiki
+  - status: wip
+  - style: notes summarized from textbook
+  - 20 chapters as 20 markdown files
+- chemistry (revision)
+  - status: wd
+  - style: textbook finetuned for exams
+  - some redundant contents got removed
+  - some hints and warnings are added
+  - 5 volumes in one pdf
+
+## editorial method
+
+1. read through a chapter on the notes
+2. summarize into markdown
+   1. figure out table of contents
+   2. write foresight after each header 3
+   3. write details
+      1. copy words from textbook
+      2. ask mistral for equations in latex
+      3. add contents missing on textbook from notes
+      4. revise expression
+3. read sh sd textbooks and improve the details
+
+> at first i read a few lines and write some markdown
+>
+> and check other books and ask mistral...
+>
+> that's really stupid and inefficient.
+>
+> now i complete these things one by one.
+
+## prompt
+
+I would like you to act as a chemistry assistant for a specific task. I will ask you questions related to chemistry, and your job is to provide accurate and concise answers. Your responses should be formatted in Markdown with LaTeX for mathematical and chemical expressions. Please ensure that all chemical formulas are wrapped using the $\ce{...}$ syntax for proper rendering. For example, water should be represented as $\ce{H2O}$. Additionally, wrap your entire answer in a code block to distinguish it clearly from the rest of the text. (Only use single $. Never write double $.) (You don't need to write \ inside a code block.)
+
+Please confirm if you're ready to receive my first request.
+
+## ref
+
 - 化学 (pub:上海科学技术出版社)
 - 化学 (pub:山东科学技术出版社)
 - 化学 (pub:人民教育出版社)
+- 学霸笔记 (pass 绿卡图书) (pub:陕西师范大学)
+- 金典导学案 (钟书金牌)
+- mistral le chat
+- wikipedia
 
-> zhou ling recommended sd version of chemistry textbook to me
->
-> when i was a student
+## source
 
 - z library
 - anna's archive
@@ -22,9 +60,22 @@
 - a regional cloud drive (login needed) (may contain paywall) (deprecated)
   - source https://pan.quark.cn/s/cfc0883cdc14
 
-> pdf are compressed using the following command
+## pdf compression method
+
+> install ghostscript first
+
+```
+sudo apt install ghostscript #btw i use ubuntu24
+```
+
+> using the following command
 
 ```
 gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/ebook -dNOPAUSE -dQUIET -dBATCH -sOutputFile=output.pdf input.pdf
 ```
 
+## tools
+
+- ubuntu
+- code
+- markdown

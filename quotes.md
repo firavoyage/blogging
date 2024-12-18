@@ -2288,4 +2288,11 @@ https://www.zhihu.com/question/25950258/answer/31702833
 
 没错，宅女费电，宅男费纸，纸不够用了，费猫
 
+## houkai gakuen second
+
+berryberry vid: hg with mygo
+
+(comment)
+
+你的意思是,让我在2024年入坑崩坏学院2?
 

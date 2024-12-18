@@ -8,9 +8,9 @@
 
 > 🍅 ⏲️ $solanum$
 
-> 🌕 💤 $\text{23:00}$
+> 🌕 💤 $\text{23:30}$
 
-- an entrepreneur, developer, writer
+- a developer, writer, wikipedian
 - grew up in shanghai
 - on the internet since 2016, which is my actual "home town"
 - live in djhs, california
@@ -52,6 +52,7 @@
   - the sound of silence (simon & garfunkel)
   - a day in the life (the beatles)
   - lost for words (pink floyd)
+  - a cruel angel's thesis (yoko takahashi)
   - world.execute(me); (mili)
   - magnet (minato aqua & inuyama tamaki)
   - -tooi sora he- (manack & bruno wen li)
@@ -81,6 +82,7 @@
   - kletka (molchat doma)
   - yumeji’s theme (shigeru umebayashi)
 - - lucky star (2007)
+  - evangelion (1995)
   - in solitude where we are least alone (2010)
   - worldend: what do you do at the end of the world? are you busy? will you save us? (2017)
   - tom and jerry classic collection (1940)
@@ -89,6 +91,8 @@
   - jurassic world (2015)
   - joker (2019)
   - soul (2020)
+  - the knockout (2023)
+  - the long season (2023)
   - life in a day (2011)
   - downton abbey (2010)
   - the chorus (2004)
@@ -104,12 +108,12 @@
   - tenet (2020)
   - my tsinghua dream (2022)
   - the great learning (2021)
-  - gold or shit (2024)
+  - g for gap (2024)
   - castle in the sky (1986)
-  - .evangelion (1995)
   - .tonikawa: over the moon for you (2020)
   - .my youth romantic comedy is wrong, as i expected (2011)
   - .the melancholy of haruhi suzumiya (2006)
+  - .the disappearance of haruhi suzumiya (2010)
   - .your lie in april (2014)
   - .a certain scientific railgun (2009)
   - .re: zero - starting life in another world (2016)
@@ -148,7 +152,8 @@
   - senren banka (2016)
   - sabbat of the witch (2015)
   - the rainbow appears after flowering rain (2016)
-  - earth online (2024)
+  - miside (2023)
+  - .earth online (2024)
   - .the legend of zelda: tears of the kingdom (2023)
   - .the legend of zelda: breath of the wild (2017)
   - .the legend of zelda: ocarina of time (1998)
@@ -196,8 +201,8 @@
   - integer overflow: the development, prosperity and decline of olympics in informatics (xu xiling)
   - an introduction to programming in wenyan language (huang lingdong)
   - how to ask questions the smart way (eric steven raymond)
-  - mathematics, no 2 secondary school attached to east china normal university (math group)
-  - shanghai senior high school grade 3 first mock exam english test papers (english group)
+  - mathematics (no 2 secondary school attached to east china normal university math group)
+  - shanghai senior high school grade 3 first mock exam english test papers (ministry of education)
   - federal plain language guidelines (united states government)
   - cut the knot: probability riddles (alexander bogomolny)
   - the scholars (wu jingzi)
@@ -246,17 +251,18 @@
 - - wikipedia
   - github & the pirate bay & z library & anna's archive
   - internet archive wayback machine & archive.today
-  - google
-  - youtube
-  - mistral le chat & awesome gpt prompts
+  - google & mistral le chat & awesome gpt prompts
+  - youtube & berryberry & niconico
   - hacker news & ruanyf weekly
   - codepen spark & css tricks & javascript weekly
   - zhihu & v2ex creative & howie6879 weekly & rebang
   - twitter & mastodon & slashdot & solidot
   - old reddit & stack exchange & 4chan & nga bbs & acgn.zone
-  - codeforces & libre oj & vijos & xjoi
+  - codeforces & libre oj & vijos & luogu & xjoi
   - cnblogs & luogu blog & travellings & foreverblog & webring
-  - bangumi.tv & my anime list & bgmlist & mikan project
+  - bangumi.tv & mikan project & bgmlist & my anime list
+  - google fonts
+  - nyaa.si & hifini.com
   - douban book & goodread
   - douban movie & imdb
   - vndb & shinnku galgame
@@ -298,7 +304,42 @@
   - silver wolf & kafka
   - sparkle
   - xing qiu
-- - adhesion tek & abstract internet meme
+- - ubuntu yaru
+  - hacker news theme
+  - google reader theme
+  - dracula theme
+  - nord theme
+  - monokai pro
+  - atom one dark
+  - chromium just black
+  - material design 2
+  - material design 3 & material you
+  - iphone os 6
+  - smartisan os 8
+  - oxygen os 11
+  - color os 11
+- - ar pl ukai
+  - dejavu serif
+  - fira code
+  - fira sans
+  - google product sans
+  - han wang shin su
+  - han wang yan kai
+  - helvetica neue
+  - inconsolata
+  - lato
+  - lora
+  - montserrat
+  - noto sans
+  - noto serif
+  - playfair display
+  - poppins
+  - pt serif
+  - resource han rounded cn
+  - roboto
+  - ubuntu sans
+  - zhi mang xing
+- - adhesion tek & retro tech & abstract internet culture
   - ahbei & douban founding
   - ahdark & cs learning
   - akt animation & mihoyo doujin
@@ -466,42 +507,6 @@
   - zhou yang & hopico music founding
   - zhou zhiyuan djhs & japan culture
   - zhuo anyuan fusu & oi
-- - dejavu serif
-  - fira code
-  - fira sans
-  - fz kai
-  - google product sans
-  - han wang shin su
-  - han wang yan kai
-  - helvetica neue
-  - inconsolata
-  - lato
-  - lora
-  - montserrat
-  - noto sans
-  - noto serif
-  - playfair display
-  - poppins
-  - pt serif
-  - resource han rounded cn
-  - roboto
-  - ubuntu sans
-  - zhi mang xing
-- - dracula theme
-  - nord theme
-  - monokai pro
-  - atom one dark
-  - chromium just black
-- - ubuntu yaru
-  - google reader
-  - hacker news
-  - material design 2
-  - material design 3
-  - iphone os 6
-  - smartisan os 8
-  - oxygen os 11
-  - color os 11
-  - flyme os 7
 - - ubuntu 24.04
   - android 11
   - chromium 124.0.6367.118
@@ -524,6 +529,9 @@
   - prettier 9.2.0
   - terser 5.19.2
   - wenyan 0.3.4
+  - badge-maker 4.1.0
+  - markdown-all-in-one 3.6.2
+  - code-runner 0.12.2
   - javascript-code-snippets 1.8.0
   - javascript-snippets 0.4.0
   - apt 2.7.14
@@ -564,6 +572,7 @@
   - krita 5.2.6
   - legado 3.23.112523
   - libreoffice 24.2.5.2
+  - localsend 1.12.1
   - material-files 1.4.2
   - mathematica 14.1
   - nekogram 11.0.0
@@ -680,43 +689,39 @@
   - character is destiny
 - with a flash of insight i realized what the dream meant.
 - 遂迷不复得路
-- 从流飘荡任意东西
-- 念念不忘必有回响
+- 从流飘荡 任意东西
+- 念念不忘 必有回响
 - 庄生晓梦迷蝴蝶
-- 且放白鹿青崖间
-- 挟飞仙以遨游
-- 弱水三千取一瓢饮
-- 以有涯随无涯殆已
-- 归去来兮
+- 且放白鹿青崖间 须行即骑访名山
+- 挟飞仙以遨游 抱明月而长终
+- 弱水三千 取一瓢饮
+- 以有涯随无涯 殆已
+- 归去来兮 请息交以绝游
+- 闻道有先后 术业有专攻 如是而已
 - 今朝有酒今朝醉
-- 他日江湖相逢
+- 今番良晤 豪兴不浅 他日江湖相逢 再当杯酒言欢
 - 以神遇而不以目视
 - 壁上小虫忽跃落衿袖间
-- 为者败之执者失之
-- 命里有时终须有
-- 鸢飞戾天者望峰息心
+- 为者败之 执者失之
+- 命里有时终须有 命里无时莫强求
+- 鸢飞戾天者 望峰息心
 - 焉知非福
-- 池鱼思故渊
-- 锦瑟无端五十弦
-- 春风若有怜花意
-- 欲买桂花同载酒
+- 羁鸟恋旧林 池鱼思故渊
+- 锦瑟无端五十弦 一弦一柱思华年
+- 春风若有怜花意 可否许我再少年
+- 欲买桂花同载酒 终不似 少年游
 - 当时只道是寻常
-- 木已成舟
-- 江畔何人初见月
-- 年年岁岁花相似
-- 花开堪折直须折
-- 如今却忆江南乐
-- 也无风雨也无晴
-- 无心插柳柳成荫
-- 他乡遇故知
-- 寓形宇内复几时
-- 光阴者百代之过客
-- 夕阳忽西流
+- 江畔何人初见月 江月何年初照人
+- 花开堪折直须折 莫待无花空折枝
+- 回首向来萧瑟处 归去 也无风雨也无晴
+- 有心栽花花不开 无心插柳柳成荫
+- 寓形宇内复几时 曷不委心任去留 胡为乎遑遑欲何之
+- 夫天地者万物之逆旅也 光阴者百代之过客也
 - 怅然若失
-- 以我观物
-- 宁为玉碎
-- 民为贵社稷次之
-- 待到秋来九月八
+- 有我之境 以我观物 故物皆著我之色彩 无我之境 以物观物 故不知何者为我 何者为物
+- 宁为玉碎 不为瓦全
+- 民为贵 社稷次之 君为轻
+- 待到秋来九月八 我花开后百花杀 
 
 ## beauty
 
@@ -789,6 +794,8 @@
   - wordpress `_`
   - medium `_`
 - - reddit `r/firavoyage` `u/firavoyage` `u/Possible_Help4623`
+  - bangumi.tv `firavoyage`
+  - v2ex `voy`
   - mastodon `fira@techhub.social` `firavoyage@mastodon.social`
   - twitter `firascript`
 - - berryberry `fira_言序`

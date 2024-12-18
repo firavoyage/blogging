@@ -97,11 +97,12 @@
     - chen ruihan `. . . 105`
     - date 20241105
   - dec
-    - fira `249 70 86 93`
+    - fira `249 a 70 c+ 86 a 93 a+`
     - jiang zhijun `290.5 73 117 100.5`
     - zhang xizhe `212.5 64 93 55.5`
     - hui xinyu `illness`
     - date 20241204
+  - fin
 
 ## jhs fin exam
 

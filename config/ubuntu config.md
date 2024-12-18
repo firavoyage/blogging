@@ -68,7 +68,12 @@ sudo apt install gnome-shell-extension-prefs
 
 ### multitasking
 
-- config `number of workspaces 1`
+- config
+  - workspaces `dynamic workspaces`
+  - number of workspaces `1`
+  - app switching `include apps from the current workspace only`
+- use shortcuts
+  - switch between workspaces `ctrl alt left` `ctrl alt right`
 
 ### date&time
 
@@ -162,6 +167,11 @@ sudo apt install gnome-shell-extension-prefs
     </fontconfig>
     ```
 
+## `terminal`
+
+- install `oh-my-zsh`
+- set default `sudo chsh -s /bin/zsh`
+
 ## `software & updates`
 
 - config source
@@ -237,6 +247,32 @@ sudo apt install gnome-shell-extension-prefs
   - markdown.md
   - cpp.cpp
 
+## `solanum`
+
+- install
+  ```
+  sudo flatpak install flathub org.gnome.Solanum
+  ```
+- config
+  - -> `ctrl ,`
+  - lap length `20`
+  - short break length `5`
+  - long break length `40`
+  - sessions until long break `4`
+
+## `evince(document viewer)`
+
+- use shortcuts
+  - `f5` toggle presentation mode
+  - `f9` toggle sidebar
+  - `d` toggle dual page view
+  - `f` fit page
+  - `w` fit width
+  - `h` prev page
+  - `l` next page
+  - `j` scroll page forward
+  - `k` scroll page backward
+
 ## `chromium`
 
 - disable `new look`
@@ -308,25 +344,6 @@ sudo apt install gnome-shell-extension-prefs
     sudo apt update
     sudo apt install code
     ```
-- config appearance
-  - -> `view > appearance`
-  - menu & status & ... bar `off`
-  - minimap `off`
-  - render control characters `off`
-  - sticky scroll `on`
-  - toggle bread crumbs `off`
-- config behavior
-  - -> `file > preferences > settings`
-  - auto save `after delay`
-    - after delay `100`
-  - font family `"Fira Code", "Noto Sans CJK SC", monospace`
-  - font ligatures `on`
-  - font size `16`
-  - git:enabled `off`
-  - lightbulb `off`
-  - render whitespace `none`
-  - tab `2 spaces`
-  - workspace `off`
 - install theme
   - ref https://vscodethemes.com/
   - dracula official (current)
@@ -340,20 +357,37 @@ sudo apt install gnome-shell-extension-prefs
   - javascript snippets
   - javascript (es6) code snippets
   - markdown all in one
-    - -> `settings>markdown>extension>theming>decoration`
-    - render code span `off`
   - code runner
-    - -> `settings`
-    - run in terminal `on`
-    - auto focus terminal `on`
-    - -> `settings.json`
-    - fix `cjk filename issue`
-      ```
-      "code-runner.executormap": {
-        // "cpp": "cd $dir && g++ $filename -o $filenamewithoutext && $dir$filenamewithoutext",
-        "cpp": "cd $dir && g++ \"$filename\" -o \"$filenamewithoutext\" && \"$dir$filenamewithoutext\"",
-      }
-      ```
+- config appearance
+  - -> `view > appearance`
+  - menu & status & ... bar `off`
+  - minimap `off`
+  - render control characters `off`
+  - sticky scroll `off`
+  - toggle bread crumbs `off`
+- config behavior
+  - -> `file > preferences > settings`
+  - auto save `after delay`
+    - after delay `100`
+  - font family `"Fira Code", "Noto Sans CJK SC", monospace`
+  - font ligatures `on`
+  - font size `16`
+  - git:enabled `off`
+  - lightbulb `off`
+  - render whitespace `none`
+  - tab `2 spaces`
+  - workspace `off`
+  - extensions: auto update `none`
+  - markdown>extension>theming>decoration:render code span `off`
+  - code-runner:run in terminal `on`
+  - code-runner:preserve focus `off`
+  - code runner:executor map (-> `settings.json`)
+    ```
+    "code-runner.executormap": {
+      // "cpp": "cd $dir && g++ $filename -o $filenamewithoutext && $dir$filenamewithoutext",
+      "cpp": "cd $dir && g++ \"$filename\" -o \"$filenamewithoutext\" && \"$dir$filenamewithoutext\"",
+    }
+    ```
 - config user snippets
   - -> `git/blogging/config/config cpp.code-snippets`
   - -> `file > preferences > configure snippets`
@@ -361,6 +395,9 @@ sudo apt install gnome-shell-extension-prefs
   - -> `file > preferences > keyboard shortcuts` `ctrl shift p open keyboard shortcuts json`
   - all roads lead to rome
     - do anything `ctrl shift p`
+    - go to file `ctrl p`
+    - go to line `ctrl g`
+    - go to symbol `ctrl t`
   - toggle visibility
     - open settings `ctrl ,`
     - toggle nav bar `alt`
@@ -370,17 +407,17 @@ sudo apt install gnome-shell-extension-prefs
     - toggle explorer `ctrl shift e`
     - toggle search `ctrl shift f`
     - toggle extensions `ctrl shift x`
-    - _trigger parameter hints_ `ctrl p`
   - create files
     - new file `ctrl n`
     - close file `ctrl w`
     - _save as_ `ctrl alt s`
   - move cursor
-    - go to line `ctrl g`
     - _move cursor left_ `ctrl h` `left`
     - _move cursor right_ `ctrl l` `right`
     - _move cursor down_ `ctrl j` `down`
+    - _quickInput.next_ `ctrl j` `down`
     - _move cursor up_ `ctrl k` `up`
+    - _quickInput.previous_ `ctrl k` `down`
     - _move cursor word left_ `ctrl alt h` `alt h` `ctrl left`
     - _move cursor word right_ `ctrl alt l` `alt l` `ctrl right`
     - add cursor `alt click`
@@ -423,7 +460,6 @@ sudo apt install gnome-shell-extension-prefs
       - when `findInputFocussed`
     - _find all references_ `ctrl shift r`
     - find symbol in current file `ctrl shift o`
-    - find symbol everywhere `ctrl t`
   - comment code
     - toggle comment `ctrl /`
     - _toggle block comment_ `ctrl shift /`
@@ -432,22 +468,25 @@ sudo apt install gnome-shell-extension-prefs
     - auto indent and remove redundant spaces (format document) `ctrl shift i`
   - write markdown
     - preview document `ctrl shift v`
-    - toggle italic `ctrl i`
     - toggle math environment `ctrl m`
     - toggle strike through `alt s`
     - toggle task list `alt c`
+    - insert snippet `ctrl i`
   - run code
     - _run code_ `ctrl r`
     - _stop running in terminal_ `ctrl c`
 - remove conflicting shortcuts
   - _markdown all in one: toggle bold_ `ctrl b`
-  - _go to file_ `ctrl p`
   - _select line_ `ctrl l`
   - _select all matches_ `ctrl shift l`
   - _delete line_ `ctrl shift k`
   - _save as_ `ctrl shift s`
   - _tab_ `tab`
   - _save_ `ctrl s`
+  - _Markdown All in One: Toggle Italic_ `ctrl i`
+  - _markdown.extension.onBackspaceKey_ `backspace`
+  - _markdown.extension.onTabKey_ `tab`
+  - _markdown.extension.onShiftTabKey_ `shift tab`
 
 ## `git`
 
@@ -505,6 +544,8 @@ sudo apt install gnome-shell-extension-prefs
   - fuzzy pinyin `on`
   - prediction `off`
   - character&punctuation `half-width`
+  - enable cloud pinyin `off`
+  - action when switching input method `commit current preedit`
 - config theme
   ```
   git clone https://github.com/tonyfettes/fcitx5-nord.git
@@ -674,11 +715,6 @@ sudo apt install gnome-shell-extension-prefs
   - -> `tools > preferences > bitorrent`
   - automatically add these trackers to new downloads `config/list_trackers.md`
 
-## `terminal`
-
-- install `oh-my-zsh`
-- set default `sudo chsh -s /bin/zsh`
-
 ## misc
 
 - install
@@ -704,6 +740,8 @@ sudo apt install gnome-shell-extension-prefs
   sudo apt install python3
   sudo apt install virtualbox
   sudo apt install zsh
+  sudo flatpak install flathub org.gnome.Solanum
+  sudo flatpak install flathub org.localsend.localsend_app
   sudo flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
   sudo npm config set registry https://registry.npmjs.org/
   sudo npm install -g @wenyan/cli

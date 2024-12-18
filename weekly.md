@@ -15,6 +15,7 @@
 
 > _foresight_
 
+- learn from stylus sass less tailwind
 - write voyagejs
 - write hi component library with voyage
 - summarize projects leverage
@@ -23,7 +24,7 @@
 - watch lucky star
 - play df
 - learn math & english
-- sync phone & screenshots
+- sync phone
 
 > _everyday_
 
@@ -48,6 +49,7 @@
 - play df war mode
 - watch lucky star
 - watch evangelion
+- watch the melancholy of haruhi suzumiya
 - play senrenbanka
 - create design systems
 
