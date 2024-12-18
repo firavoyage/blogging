@@ -305,8 +305,8 @@
   - sparkle
   - xing qiu
 - - ubuntu yaru
-  - hacker news theme
-  - google reader theme
+  - google reader
+  - hacker news
   - dracula theme
   - nord theme
   - monokai pro
@@ -373,6 +373,7 @@
   - dai jiangqi codeforces & oi math champ
   - dan & louis-xavier & growth.design founding
   - dan abramov overreacted & web dev
+  - david heinemeier hansson & ruby on rails founding
   - derek sivers & cd baby founding
   - di xuchen djhs
   - diviner in spiritual wind
@@ -740,6 +741,7 @@
   - `florio` advice for the programming ride
   - `jiangyanyan` cs researchers and the time
   - `tim` mediastorm early days
+  - `dhh` the handsome geek
   - `bhaget` worries about the 4gotten generation
   - `reflections` memories of the fellows
 - ideas
@@ -835,35 +837,3 @@
 > $beautifully \space advance$
 
 > $btw \space i \space use \space ubuntu$ > _"do not change anything unless you know what you are doing"_
-
-> neko nya
->
-> uwu
-
-> 因为
->
-> 因为
->
-> 因为
->
-> 因为
->
-> 因为
->
-> 因为
->
-> 因为
->
-> 因为
->
-> 因为
->
-> 因为
->
-> 因为
->
-> 因为
->
-> 因为
->
-> 十三次哟

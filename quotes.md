@@ -2296,3 +2296,13 @@ berryberry vid: hg with mygo
 
 你的意思是,让我在2024年入坑崩坏学院2?
 
+## forever naive taffy wtf 
+
+20241218
+
+forever naive taffy (切片喵!): 哥哥, 慢一点!
+
+(comment)
+
+太极八荒了
+

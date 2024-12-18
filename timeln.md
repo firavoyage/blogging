@@ -11423,21 +11423,21 @@ by old skilled tofu langrensha
 
 downloading books
 
-在zlib和anna下载了一堆教科书
+在 zlib 和 anna 下载了一堆教科书
 
 化学,数学...
 
 上海,人教,鲁教版...
 
-zlib每一个号每天可以下载10本书...
+zlib 每一个号每天可以下载 10 本书...
 
-我有好几个邮箱,应该够.同一个邮箱还有alias...
+我有好几个邮箱,应该够.同一个邮箱还有 alias...
 
 ## 20241214
 
 00:03
 
-发现markdown all in one可以自动识别删除线!
+发现 markdown all in one 可以自动识别删除线!
 
 就是可以 选中+~ !
 
@@ -11476,12 +11476,12 @@ returned home.
 - 周日
   - 早饭后.星光影院.就是室内影院,加上了笨拙的屋顶变色灯.在放"再见,李可乐",感觉不是电影,是恋爱连续剧总结.没有悲剧.
   - 下午.爬山.平常的山,天然的.山顶能看到大佛,拍了些照片.远不及巴西基督像有气势.也就是寻常开发的景区.
-  - 16点不到.回家.车上,听听罗翔的电台...
-  - 19点不到.到家.
+  - 16 点不到.回家.车上,听听罗翔的电台...
+  - 19 点不到.到家.
 
 `dev`
 
-mistral ai又更新了.这几个月,更新得好勤快啊!
+mistral ai 又更新了.这几个月,更新得好勤快啊!
 
 **input bar moved from the bottom to the middle.**
 
@@ -11493,7 +11493,7 @@ like google search.
 
 吃饭.聊天.
 
-原本以为明天要去学校,好压抑qwq...
+原本以为明天要去学校,好压抑 qwq...
 
 不过还可以停课在家,理由可以算是殴打老师吧,太正义了哈哈!
 
@@ -11501,25 +11501,25 @@ like google search.
 
 可能都没什么差别了,我是说分数...
 
-好无聊啊,zaku学校,zaku上海市中心市重点高中...
+好无聊啊,zaku 学校,zaku 上海市中心市重点高中...
 
-简单说一下,为什么zaku...
+简单说一下,为什么 zaku...
 
 - 学校成绩断层.
   - 月考考三门.
-  - 有一次,老蒋第一赢第二名10分,第二名赢我20分,f第五名好像,还是第八名
-  - (这学期拿了第五七八.这次考试没下来,不过头很晕,可能十几名吧qwq).
-  - 说是头晕,但是数学真垃圾,虽然至少a(应该没有a+).说一下错题吧,当然是最ridiculous的几道.
-  - 两个人取小球,取完放回去,算概率.f没想到两个人可以取同一个球.
-  - 圆锥过顶点最大面积的截面,f认为一定是轴截面.
+  - 有一次,老蒋第一赢第二名 10 分,第二名赢我 20 分,f 第五名好像,还是第八名
+  - (这学期拿了第五七八.这次考试没下来,不过头很晕,可能十几名吧 qwq).
+  - 说是头晕,但是数学真垃圾,虽然至少 a(应该没有 a+).说一下错题吧,当然是最 ridiculous 的几道.
+  - 两个人取小球,取完放回去,算概率.f 没想到两个人可以取同一个球.
+  - 圆锥过顶点最大面积的截面,f 认为一定是轴截面.
   - 命题有了,求否命题.求错.(其实是读题读错,"至少有"读成了"只有"的意思,那包没了的呀)
-- 老师zaku.
-  - 其实是生源zaku...
+- 老师 zaku.
+  - 其实是生源 zaku...
   - 不多说了,有的老师放空中课堂...
   - 但是也算是比上不足比下有余吧...毕竟还是普通市重点.(好的,去四校八大)
-  - f是zaku,中考684.格致奉贤的分数,但是没填写八大分校,不想去,现在也不后悔.
+  - f 是 zaku,中考 684.格致奉贤的分数,但是没填写八大分校,不想去,现在也不后悔.
   - **平常心.从流飘荡任意东西**
-  - (志愿:上中710,大同694,大境66x,市八.就填了四个)
+  - (志愿:上中 710,大同 694,大境 66x,市八.就填了四个)
 
 从容自在...
 
@@ -11527,7 +11527,7 @@ like google search.
 
 `fun`
 
-fira是唐氏啊啊啊!
+fira 是唐氏啊啊啊!
 
 把`强酸盐`,定义成了酸性强的盐...
 
@@ -11557,7 +11557,7 @@ watched simplelive.
 
 `weather` `ref`
 
-被疯狂mita推倒,女上位,想冲,又恐怖...所以作罢.
+被疯狂 mita 推倒,女上位,想冲,又恐怖...所以作罢.
 
 **sleep.**
 
@@ -11569,7 +11569,7 @@ downloading castle in the sky on mikan project
 
 `dev`
 
-hide vlc media player / lucky star in the task bar 
+hide vlc media player / lucky star in the task bar
 
 upd ubuntu config / code shortcuts / all road lead to rome
 
@@ -11581,19 +11581,19 @@ using solanum as school time
 
 服了.网络非常不稳定.
 
-一直timeout.不是qbitorrent的问题.
+一直 timeout.不是 qbitorrent 的问题.
 
 13:29
 
 空调开多了,流血.
 
-真够逆天的.清个al sr日常.
+真够逆天的.清个 al sr 日常.
 
 清了半小时了,神经简中网络.
 
 昨天都忘了打日常,今天不打根本没心思吃饭.
 
-最后用网络共享搞定的,那个网络共享更逆天,允许wifi和共享同时开,然后就没用.
+最后用网络共享搞定的,那个网络共享更逆天,允许 wifi 和共享同时开,然后就没用.
 
 算了,简中.
 
@@ -11601,7 +11601,7 @@ using solanum as school time
 
 `bangumi`
 
-天空之城不下了,根本没有seeder...
+天空之城不下了,根本没有 seeder...
 
 在线看吧,随便找个网站.
 
@@ -11631,7 +11631,7 @@ upd ubuntu config / solanum
 - short break `5min`
 - long break `40min`
 
-两轮正好4h.
+两轮正好 4h.
 
 18:50
 
@@ -11653,15 +11653,15 @@ i have the habit of using backspace to delete words.
 
 writing pure/chemistry/chapter1
 
-还在写第一章qwq...
+还在写第一章 qwq...
 
-进度好慢qwq...
+进度好慢 qwq...
 
 想来是方法不对吧...
 
-f应该先看懂,在记录.
+f 应该先看懂,在记录.
 
-而不是学一点,记一点,在4本教材里游荡.
+而不是学一点,记一点,在 4 本教材里游荡.
 
 23:36
 
@@ -11673,13 +11673,13 @@ watched lciop cr live.
 
 played honkai impact third
 
-几个小游戏. 
+几个小游戏.
 
 `dev`
 
-**这几个游戏似乎是webgl based**
+**这几个游戏似乎是 webgl based**
 
-一个是v塔滚格子,另一个是大富翁.
+一个是 v 塔滚格子,另一个是大富翁.
 
 ## 20241217
 
@@ -11710,11 +11710,11 @@ playing A Cruel Angel's Thesis
 
 `weekly` `foresight`
 
-第二天!想来, 笔记, 一章不过17页.
+第二天!想来, 笔记, 一章不过 17 页.
 
 如果说两分钟一页,也很快了吧...
 
-一周目, 好多时间在配置markdown格式... 还有编辑形式...
+一周目, 好多时间在配置 markdown 格式... 还有编辑形式...
 
 还有切换书本,翻阅... 都不是在关于内容的...qwq.
 
@@ -11726,7 +11726,7 @@ nothing. just reddit's fault.
 
 12:xx
 
-awaken. 
+awaken.
 
 continued sleeping... zzz...
 
@@ -11762,7 +11762,7 @@ cleared event mini games.
 
 `writing` `chemistry`
 
-fira是唐氏...
+fira 是唐氏...
 
 $\ce{FeCl3 + 3H2O \overset{\Delta}{=} Fe(OH)3 \text{(c)} + 3HCl}$
 
@@ -11830,9 +11830,9 @@ solanum: long break!
 
 虽然说写得慢... 但是今天起床太晚了...
 
-15点才开始生活...
+15 点才开始生活...
 
-明天早起. 
+明天早起.
 
 - 先速读,看到第五章.
 - 然后看一章,写一章.
@@ -11851,7 +11851,7 @@ I would like you to act as a chemistry assistant for a specific task. I will ask
 
 Please start by answering the following question:
 
-i thought i could make it fast. but the ai is stupid. 
+i thought i could make it fast. but the ai is stupid.
 
 **wtf.**
 
@@ -11888,4 +11888,50 @@ returned home.
 had lunch.
 
 左庭右院. 也是南京路. 没什么人, 门口倒是站着几个服务员, 真闲啊.
+
+16:19
+
+搜索了一下
+
+https://www.google.com/search?q=ace+taffy+wiki
+
+https://www.google.com/search?q=Seren+Azuma+wiki
+
+**Safe Search 的含金量**
+
+ace taffy 和 seren azuma... 在 berryberry 如此兴盛...
+
+**在 libretube 就只有 10k, 30k subs...**
+
+甚至在 fandom Virtual YouTuber Wiki 都不存在
+
+qwq...
+
+而 **minato aqua 有 2.3M followers**... 所以 jiangly? ...
+
+17:40
+
+`writing`
+
+chemistry...
+
+mistral 真舒服... 我的 request 也用 markdown 渲染了喵...
+
+18:37
+
+`gaming`
+
+content pushed.
+
+playing df.
+
+20:20
+
+`gaming`
+
+played df.
+
+had 4 battles. 
+
+**reached 4415 of 5000.**
 

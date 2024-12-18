@@ -74,6 +74,7 @@ sudo apt install gnome-shell-extension-prefs
   - app switching `include apps from the current workspace only`
 - use shortcuts
   - switch between workspaces `ctrl alt left` `ctrl alt right`
+  - move current app between workspaces `ctrl shift alt left` `ctrl shift alt right`
 
 ### date&time
 

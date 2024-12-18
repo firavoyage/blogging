@@ -6,6 +6,11 @@
   - status: wip
   - style: notes summarized from textbook
   - 20 chapters as 20 markdown files
+- chemistry courses
+  - status: wd
+  - style: image based slide show using pre app
+  - some detailed notes are shown for a few seconds without reading
+  - voice: forever naive taffy & codeforces catgirl
 - chemistry (revision)
   - status: wd
   - style: textbook finetuned for exams
@@ -25,6 +30,8 @@
       3. add contents missing on textbook from notes
       4. revise expression
 3. read sh sd textbooks and improve the details
+
+> **better not to write anything myself**
 
 > at first i read a few lines and write some markdown
 >
@@ -78,4 +85,8 @@ gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/ebook -dNOPAUSE -dQ
 
 - ubuntu
 - code
-- markdown
+- solanum
+  - lap length `20`
+  - short break length `5`
+  - long break length `40`
+  - sessions until long break `4`
