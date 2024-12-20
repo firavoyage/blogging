@@ -12222,8 +12222,6 @@ watched evangelion episode 4.
 
 **好压抑, 好真实, 感动?**
 
-**sleep.**
-
 `dev`
 
 wow.
@@ -12231,3 +12229,18 @@ wow.
 **mistral ai new look!**
 
 **so frequent upd! (wtf?)**
+
+**mistral could auto reload when my internet status changes.**
+
+03:31
+
+`dev`
+
+什么垃圾网络. 
+
+之前看直播就卡, 现在 gitee push ref 上不去.
+
+**wtf. 神奇的世外互联网.**
+
+**sleep.**
+
