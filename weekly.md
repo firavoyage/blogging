@@ -11,6 +11,70 @@
 - _make tools elegant_
 - _make knowledge pure_
 
+## 20241220
+
+> _foresight_
+
+- write chemistry wiki on pure project
+- add styling feature to voyagejs & learn from stylus sass less tailwind
+- write hi component library with voyage
+- watch lucky star
+- sync phone
+
+> _everyday_
+
+- return digital homes in al & sr
+- push df warzone rank
+
+> _evening happy hours_
+
+- watch lucky star
+- watch evangelion
+- watch the melancholy of haruhi suzumiya
+- watch bocchi the rock
+
+> _weekend endeavour_
+
+- work on voyagejs project
+- write svelte examples with voyagejs
+- design component libraries & learn from chakra ui
+- write table of contents & generate pure project wiki
+- generate intuitive cpp episodes
+- categorize math trick cards
+
+> _weekend diversion_
+
+- play senrenbanka
+- read hi sr stories
+
+> _weekend enlightenment_
+
+- read & categorize ruanyf weekly
+- summarize projects leverage
+- design pure & intuitive foresights
+- write para app
+- write pre app
+- write leisure app
+- write float app
+
+> _learning_
+
+- write math challenger & english papers
+- read physics & chemistry & geography notes
+- memorize tem 8 vocabulary
+
+> _school life_
+
+- play football
+
+> _meanwhile_
+
+- listen to podcasts
+- watch simplelive
+- create origami works
+- read one hundred years of solitude
+- sync phone
+
 ## 20241210
 
 > _foresight_
@@ -55,7 +119,7 @@
 
 > _weekend enlightenment_
 
-- read & categorize ruanyf weekly 
+- read & categorize ruanyf weekly
 
 > _school_
 
@@ -116,7 +180,7 @@
 
 > _weekend enlightenment_
 
-- read & categorize ruanyf weekly 
+- read & categorize ruanyf weekly
 
 > _school_
 
@@ -201,7 +265,7 @@
 > _mind wandering_
 
 - eat leisure float material
-- app design system 
+- app design system
 - component library
 - project leverage
 - aventurine's trick cards

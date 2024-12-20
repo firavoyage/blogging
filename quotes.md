@@ -2306,3 +2306,36 @@ forever naive taffy (切片喵!): 哥哥, 慢一点!
 
 太极八荒了
 
+## girl's scream. just close your eyes
+
+in evangelion episode 1.
+
+(danmaku)
+
+闭眼新世界
+
+## abstract internet commercial accounts
+
+20241220
+
+怎样让自己的视频看起来像是盗的
+
+bilibili.com/video/BV1RpzEY7EXA/
+
+(comment)
+
+不是，自己录的视频，剪一剪就成自己的视频了，自制投自制是吧，真有你的，知道转载视频不能投自制吗[笑哭]
+
+我再也不玩抽象了.jpg
+
+## you should pay for my time wasted
+
+?
+
+(comment)
+
+你应该向我支付观看这个视频的费用.
+
+## such a lovely world... (without me)
+
+真好啊...

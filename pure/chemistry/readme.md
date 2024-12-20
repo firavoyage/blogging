@@ -4,19 +4,23 @@
 
 - chemistry wiki
   - status: wip
-  - style: notes summarized from textbook
+  - form: notes summarized from textbook
+  - style: moegirlpedia (moegirl.icu)
+  - using para app
   - 20 chapters as 20 markdown files
 - chemistry courses
   - status: wd
-  - style: image based slide show using pre app
+  - form: slide show with dialogue box (avatar and line) on the bottom
+  - style: lucky star episode
+  - using pre app
   - some detailed notes are shown for a few seconds without reading
   - voice: forever naive taffy & codeforces catgirl
 - chemistry (revision)
   - status: wd
-  - style: textbook finetuned for exams
+  - form: pdf downloaded from wikipedia
+  - style: retro textbook
   - some redundant contents got removed
   - some hints and warnings are added
-  - 5 volumes in one pdf
 
 ## editorial method
 

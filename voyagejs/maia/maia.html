@@ -1,0 +1,504 @@
+<!DOCTYPE html>
+<html class="google" dir="ltr">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>maia</title>
+
+    <!-- Maia Core -->
+    <link rel="stylesheet" href="./maia_files/maia.css" />
+    <link rel="stylesheet" href="./maia_files/maia-suez.sitemap.css" />
+    <script src="./maia_files/maia.js"></script>
+    <link rel="stylesheet" href="./maia_files/css" />
+    <!-- Lightbox Plugin -->
+    <script src="./maia_files/lightbox.js"></script>
+    <link rel="stylesheet" href="./maia_files/lightbox.css" />
+    <script>
+      window.onload = function () {
+        var stageTeaser = new gweb.ui.LightBox();
+        stageTeaser.init();
+      };
+    </script>
+    <!-- Extras -->
+    <style>
+      label[for="f-tos"] {
+        float: left;
+        margin-right: 5px;
+      }
+      input#f-tos {
+        margin-right: 5px;
+      }
+      @media screen, projection {
+        #stage {
+          border-bottom: 1px solid #e5e5e5;
+          margin: 0 0 30px;
+          overflow: hidden;
+          padding: 0 0 30px;
+        }
+        #stage h1 {
+          margin-top: 0;
+        }
+        #stage p {
+          font-family: "open sans", arial, sans-serif;
+          font-size: 16px;
+          line-height: 1.69;
+          margin: 0 0 30px;
+        }
+        #stage img {
+          float: right;
+          height: 256px;
+          margin: 10px 0 0 10px;
+          width: 511px;
+        }
+        [dir="rtl"] #stage img {
+          float: left;
+          margin: 30px 10px 0 0;
+        }
+        .promo {
+          background: #fbfbfb;
+          border: 1px solid #f7f7f7;
+        }
+        .promo a {
+          border: 1px solid #f2f2f2;
+          display: block;
+          height: 128px;
+          padding: 15px 0;
+          text-align: center;
+          width: 100%;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <!-- Header -->
+    <div class="maia-header" id="maia-header" aria-hidden="false">
+      <div class="maia-aux">
+        <h1>
+          <a href="https://www.google.com/"
+            ><img src="./maia_files/google_logo_41.png" alt="Google"
+          /></a>
+        </h1>
+      </div>
+    </div>
+    <!-- Main -->
+    <div id="maia-main" aria-hidden="false">
+      <h1>Welcome, maia!</h1>
+      <p>
+        This is maia, an intern Google project which provides a CSS layout (and
+        also JS, but not covered in this example) for anyone at Google who wants
+        to use it.
+      </p>
+      <h2>Examples</h2>
+      <h3>Basic Formatting</h3>
+      <p>
+        Maia treats the <b>b</b>, <i>i</i> and <strong>strong</strong> tags the
+        same way!
+      </p>
+      <p>
+        Formula for Chlorophyll:
+        C<sub>55</sub>H<sub>72</sub>O<sub>5</sub>N<sub>4</sub>Mg
+      </p>
+      <h3>Table</h3>
+      <table>
+        <thead>
+          <tr>
+            <th>A</th>
+            <th>B</th>
+            <th>C</th>
+            <th>D</th>
+            <th>E</th>
+            <th>F</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>1</td>
+            <td>2</td>
+            <td>3</td>
+            <td>4</td>
+            <td>5</td>
+            <td>6</td>
+          </tr>
+          <tr>
+            <td>1</td>
+            <td>2</td>
+            <td>3</td>
+            <td>4</td>
+            <td>5</td>
+            <td>6</td>
+          </tr>
+          <tr>
+            <td>1</td>
+            <td>2</td>
+            <td>3</td>
+            <td>4</td>
+            <td>5</td>
+            <td>6</td>
+          </tr>
+          <tr>
+            <td>1</td>
+            <td>2</td>
+            <td>3</td>
+            <td>4</td>
+            <td>5</td>
+            <td>6</td>
+          </tr>
+        </tbody>
+      </table>
+      <h3>Form</h3>
+      <form>
+        <fieldset>
+          <ul>
+            <li>
+              <label for="f-name">Name and surname</label
+              ><input type="text" name="name" id="f-name" />
+            </li>
+            <li>
+              <label for="f-gproduct"
+                >Select the Google Product you like the most</label
+              ><select name="gproduct" id="f-gproduct">
+                <option value="">Please select one</option>
+                <option value="search">Google Search</option>
+                <option value="chrome">Google Chrome</option>
+                <option value="g+">Google+</option>
+                <option value="maps">Google Maps</option>
+                <option value="glass">Glass</option>
+              </select>
+            </li>
+            <li>
+              <label for="f-aboutyou">Tell us a little bit about you</label
+              ><textarea name="aboutyou" id="f-aboutyou"></textarea>
+            </li>
+            <li>
+              <label for="f-tos">*</label>
+              <input type="checkbox" name="tos" id="f-tos" /> I agree the
+              <a href="https://google.com/chrome/maia/example.html#"
+                >Terms of Service</a
+              >
+              and the
+              <a href="https://google.com/chrome/maia/example.html#"
+                >Privacy Policy</a
+              >
+            </li>
+          </ul>
+        </fieldset>
+      </form>
+      <h3>Columns and Images</h3>
+      <div class="maia-cols">
+        <div class="maia-col-4">
+          <div class="promo">
+            <a href="https://www.google.com/webmasters/tools/?hl=en"
+              ><img
+                alt="Get started"
+                src="./maia_files/webmaster_tools-128.png"
+            /></a>
+          </div>
+          <h2>Webmaster Tools</h2>
+          <p>
+            Understand and improve your site in Google&nbsp;Search.<br />
+            <a href="https://www.google.com/webmasters/tools/?hl=en"
+              >Get&nbsp;started</a
+            >
+          </p>
+        </div>
+        <div class="maia-col-4">
+          <div class="promo">
+            <a
+              href="https://support.google.com/webmasters/bin/static.py?hl=en&amp;page=checklist.cs&amp;tab=1095542"
+            >
+              <img alt="Learn how" src="./maia_files/books-lb128.png"
+            /></a>
+          </div>
+          <h2>Webmaster Education</h2>
+          <p>
+            Videos and articles to help you get found on&nbsp;Google.<br />
+            <a
+              href="https://support.google.com/webmasters/bin/static.py?hl=en&amp;page=checklist.cs&amp;tab=1095542"
+            >
+              Learn&nbsp;more</a
+            >
+          </p>
+        </div>
+        <div class="maia-col-4">
+          <div class="promo">
+            <a href="https://support.google.com/webmasters/?hl=en"
+              ><img alt="Need help?" src="./maia_files/help-128.png"
+            /></a>
+          </div>
+          <h2>Help Center</h2>
+          <p>
+            Fix problems and find answers to your&nbsp;questions.<br />
+            <a href="https://support.google.com/webmasters/?hl=en"
+              >Get&nbsp;help</a
+            >
+          </p>
+        </div>
+      </div>
+      <h3>Code</h3>
+      <pre>var maia = "The best!";</pre>
+      <h3>Lightbox - Google's "Fancybox" Plugin</h3>
+      <p>
+        <a
+          class="lb"
+          data-lightbox-height="422"
+          data-lightbox-width="750"
+          href="https://www.youtube.com/v/c-wCIlvg7sE?autoplay=1"
+          data-lightbox-index="0"
+          ><span class="title">Google Maps: #PegmanLive</span></a
+        >
+      </p>
+      <div>
+        <a
+          class="lb"
+          data-lightbox-height="422"
+          data-lightbox-width="750"
+          href="https://www.youtube.com/v/NhWdNOgfa90?autoplay=1"
+          data-lightbox-index="1"
+          ><div class="title">Google+ Update: New Photo Lightbox</div></a
+        >
+      </div>
+      <h3>Icons</h3>
+      <p></p>
+      <ul>
+        <li>
+          Search Icon:
+          <div
+            style="
+              display: inline-block;
+              width: 16px;
+              height: 16px;
+              background-color: cadetblue;
+            "
+            class="maia-search-icon"
+          ></div>
+        </li>
+      </ul>
+      <p></p>
+      <h2>Source code</h2>
+      <p>
+        You can find the source code on Google Servers. These are the links to
+        download the CSS and JS files:
+      </p>
+      <p></p>
+      <ul>
+        <li>
+          <a href="./maia_files/maia.css" target="_BLANK"
+            >Core CSS file (40.8 KB)</a
+          >
+        </li>
+        <li>
+          <a href="./maia_files/maia.js" target="_BLANK"
+            >Core JS file (7.4 KB)</a
+          >
+        </li>
+        <li>
+          <a href="./maia_files/lightbox.js" target="_BLANK"
+            >Lightbox plugin JS file ()</a
+          >
+        </li>
+      </ul>
+    </div>
+
+    <!-- Footer -->
+    <div id="maia-signature" aria-hidden="false"></div>
+    <div class="maia-footer" id="maia-footer" aria-hidden="false">
+      <div id="maia-footer-local">
+        <div class="maia-aux">
+          <div class="suez-sitemap suez-sitemap-compact">
+            <h3>Webmaster resources</h3>
+            <ul>
+              <li>
+                <a
+                  data-g-action="Webmaster resources"
+                  data-g-event="Footer"
+                  data-g-label="Guidelines"
+                  href="https://support.google.com/webmasters/bin/answer.py?hl=en&amp;answer=35769"
+                  >Guidelines</a
+                >
+              </li>
+              <li>
+                <a
+                  data-g-action="Webmaster resources"
+                  data-g-event="Footer"
+                  data-g-label="Help"
+                  href="https://support.google.com/webmasters/?hl=en"
+                  >Help</a
+                >
+              </li>
+              <li>
+                <a
+                  data-g-action="Webmaster resources"
+                  data-g-event="Footer"
+                  data-g-label="Forum"
+                  href="https://groups.google.com/a/googleproductforums.com/forum/#!forum/webmasters"
+                  >Forum</a
+                >
+              </li>
+              <li>
+                <a
+                  data-g-action="Webmaster resources"
+                  data-g-event="Footer"
+                  data-g-label="Blog"
+                  href="https://googlewebmastercentral.blogspot.com/"
+                  >Blog</a
+                >
+              </li>
+              <li>
+                <a
+                  data-g-action="Webmaster resources"
+                  data-g-event="Footer"
+                  data-g-label="YouTube"
+                  href="https://www.youtube.com/user/GoogleWebmasterHelp"
+                  >YouTube</a
+                >
+              </li>
+            </ul>
+          </div>
+          <div id="suez-footer-univ" class="suez-sitemap suez-sitemap-compact">
+            <h3>Business essentials</h3>
+            <ul>
+              <li>
+                <a
+                  href="https://www.google.com/services/#utm_medium=et&amp;utm_campaign=en&amp;utm_source=ww-ww-et-b2bfooter_compact"
+                  data-g-event="Footer"
+                  data-g-action="Business essentials"
+                  data-g-label="Business Solutions"
+                  >Business Solutions</a
+                >
+              </li>
+              <li>
+                <a
+                  href="https://www.google.com/business/?gmbsrc=ww-ww-et-gs-z-gmb-s-z-h~ser|sitemapb|u&amp;ppsrc=GMBES&amp;utm_campaign=ww-ww-et-gs-z-gmb-s-z-h~ser|sitemapb|u&amp;utm_source=gmb&amp;utm_medium=et"
+                  data-g-event="Footer"
+                  data-g-action="Business essentials"
+                  data-g-label="Google My Business"
+                  >Google My Business</a
+                >
+              </li>
+              <li>
+                <a
+                  href="https://adwords.google.com/home/how-it-works/app-ads/"
+                  data-g-event="Footer"
+                  data-g-action="Business essentials"
+                  data-g-label="Google App Ads"
+                  >Google App Ads</a
+                >
+              </li>
+              <li>
+                <a
+                  href="https://www.google.com/ads/#utm_medium=et&amp;utm_campaign=en&amp;utm_source=ww-ww-et-b2bfooter_compact&amp;subid=ww-ww-et-b2bfooter_compact"
+                  data-g-event="Footer"
+                  data-g-action="Business essentials"
+                  data-g-label="Google Ads"
+                  >Google Ads</a
+                >
+              </li>
+              <li>
+                <a
+                  href="https://www.google.com/work/apps/business/?utm_medium=et&amp;utm_campaign=en&amp;utm_source=ww-ww-et-b2bfooter_compact"
+                  data-g-event="Footer"
+                  data-g-action="Business essentials"
+                  data-g-label="G Suite"
+                  >G Suite</a
+                >
+              </li>
+              <li>
+                <a
+                  href="https://www.google.com/intl/en/analytics/#utm_medium=et&amp;utm_campaign=en&amp;utm_source=ww-ww-et-b2bfooter_compact"
+                  data-g-event="Footer"
+                  data-g-action="Business essentials"
+                  data-g-label="Google Analytics"
+                  >Google Analytics</a
+                >
+              </li>
+              <li>
+                <a
+                  href="https://www.google.com/services/sitemap.html"
+                  data-g-event="Footer"
+                  data-g-action="Business essentials"
+                  data-g-label="More business products"
+                  >More business products</a
+                >
+              </li>
+            </ul>
+          </div>
+          <script src="./maia_files/sitemap-compact.min.js"></script>
+        </div>
+      </div>
+      <div id="maia-footer-global">
+        <div class="maia-aux">
+          <ul>
+            <li>
+              <a href="https://google.com/">Google</a>
+            </li>
+            <li>
+              <a href="https://google.com/intl/en/about/"
+                >About Google</a
+              >
+            </li>
+            <li>
+              <a href="https://google.com/intl/en/policies/"
+                >Privacy &amp; Terms</a
+              >
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <iframe
+      frameborder="0"
+      src='javascript:""'
+      class="gweb-lightbox-bg"
+      style="border: 0px; vertical-align: bottom; display: none; opacity: 0"
+      aria-hidden="false"
+      src="./maia_files/saved_resource.html"
+    ></iframe>
+    <div
+      class="gweb-lightbox-bg"
+      style="display: none; opacity: 0.8"
+      aria-hidden="true"
+    ></div>
+    <div
+      class="gweb-lightbox gweb-lightbox-outside-nav"
+      tabindex="0"
+      role="dialog"
+      aria-labelledby=":0"
+      id="gweb-lightbox-lb"
+      aria-hidden="true"
+      style="display: none"
+    >
+      <div class="gweb-lightbox-title gweb-lightbox-title-draggable" id=":0">
+        <span class="gweb-lightbox-title-text"><span></span></span
+        ><span class="gweb-lightbox-title-close">×</span>
+      </div>
+      <div class="gweb-lightbox-content">
+        <iframe
+          frameborder="0"
+          src='javascript:""'
+          id="gweb-lightbox-lb-iframe"
+          name="gweb-lightbox-lb-iframe"
+          style="border: 0px; vertical-align: bottom"
+          src="./maia_files/saved_resource(1).html"
+        ></iframe>
+      </div>
+      <div class="gweb-lightbox-buttons" style="">
+        <div class="gweb-lightbox-caption gweb-lightbox-hide"></div>
+        <a
+          class="gweb-lightbox-nav gweb-lightbox-prev"
+          href="https://google.com/chrome/maia/example.html#"
+          style="display: none"
+          ><span>‹</span><img src="./maia_files/cleardot.gif" alt="" /></a
+        ><a
+          class="gweb-lightbox-nav gweb-lightbox-next"
+          href="https://google.com/chrome/maia/example.html#"
+          style="display: none"
+          ><span>›</span><img src="./maia_files/cleardot.gif" alt=""
+        /></a>
+      </div>
+    </div>
+    <span
+      tabindex="0"
+      aria-hidden="false"
+      style="display: none; position: absolute"
+    ></span>
+  </body>
+</html>

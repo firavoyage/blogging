@@ -303,6 +303,7 @@ sudo apt install gnome-shell-extension-prefs
   - adguard https://chromewebstore.google.com/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg
     - general / activate the most appropriate filters automatically `off`
     - filters `ad blocking` `privacy` `annoyance`
+    - tracking protection `on`
     - user rules / import settings `git/blogging/config/list_adguard.txt`
     - additional settings / notify about extension updates `off`
   - google translate https://chromewebstore.google.com/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb

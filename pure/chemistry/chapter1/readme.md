@@ -172,7 +172,7 @@
 - 化学方程式: $\ce{FeCl3 + 3H2O \overset{\Delta}{=} Fe(OH)3 \text{(胶体)} + 3HCl}$
   > ![][warning]
   >
-  > 产物是胶体时, 不写 $\downarrow$ > ![][note]
+  > 产物是胶体时, 不写 \downarrow > ![][note]
   >
   > 简写:
   >
@@ -331,6 +331,8 @@
 
 #### 电离方程式
 
+> ionization equation
+
 - $\ce{HCl = H+ + Cl-}$
 - $\ce{H2SO4 = 2H+ + SO4^2-}$
 - $\ce{NaOH = Na+ + OH-}$
@@ -338,40 +340,36 @@
 
 > ![][note]
 >
-> 电离方程式: 哪种等号?
+> 电离方程式: 书写方法
 >
-> - `强电解质` 如 $\ce{KOH = K+ + OH-}$
->   - 理解: 完全电离, 等号左边全变成等号右边喵! (溶液中全是右边)
-> - `弱电解质` 如 $\ce{HCO3- <=> H+ + CO3^2-}$
->   - 理解: 部分电离, 两个方向的变化同时发生, 最终会达到平衡. (溶液中左右两边一定比例共存)
->   - (关于化学平衡过程, 在之后的章节中.)
->     ![][note]
+> 1. 判断是否完全电离, 决定等号形式
+>    - `强电解质` 如 $\ce{KOH = K+ + OH-}$
+>      - 理解: 完全电离, 等号左边全变成等号右边喵! (溶液中全是右边)
+>    - `弱电解质` 如 $\ce{HCO3- <=> H+ + CO3^2-}$
+>      - 理解: 部分电离, 两个方向的变化同时发生, 最终会达到平衡. (溶液中左右两边一定比例共存)
+>      - (关于化学平衡过程, 在之后的章节中.)
+> 2. 判断一步电离还是多步电离
+>    - 一步电离
+>      - `强酸酸式盐` 如 $\ce{NaHSO4 = Na+ + HSO4-}$
+>      - `一元弱酸` 如 $\ce{CH3COOH <=> CH3COO- + H+}$
+>    - 多步电离
+>      - `弱酸酸式盐` 如 $\ce{NaHCO3 = Na+ + HCO3-}$ , $\ce{HCO3- <=> CO3^2- + H+}$
+>      - `多元弱酸` 如 $\ce{H2CO3 <=> HCO3- + H+}$ , $\ce{HCO3- <=> CO3^2- + H+}$
+>    - 多步电离, 一步书写
+>      - `难溶弱碱` 如 $\ce{Mg(OH)2 <=> Mg^2+ + 2OH-}$ 1. $\ce{Mg(OH)2 <=> Mg(OH)+ + OH-}$ 2. $\ce{Mg(OH)+ <=> Mg^2+ + OH-}$ > ![][note]
 >
-> 电离方程式: 一步电离还是多步电离?
+> ![][warning]
 >
-> - 一步电离
->   - `强酸酸式盐` 如 $\ce{NaHSO4 = Na+ + HSO4-}$
->   - `一元弱酸` 如 $\ce{CH3COOH <=> CH3COO- + H+}$
-> - 多步电离
->   - `弱酸酸式盐` 如 $\ce{NaHCO3 = Na+ + HCO3-}$ , $\ce{HCO3- <=> CO3^2- + H+}$
->   - `多元弱酸` 如 $\ce{H2CO3 <=> HCO3- + H+}$ , $\ce{HCO3- <=> CO3^2- + H+}$
-> - 多步电离, 一步书写
->   - `难溶弱碱` 如 $\ce{Mg(OH)2 <=> Mg^2+ + 2OH-}$ 1. $\ce{Mg(OH)2 <=> Mg(OH)+ + OH-}$ 2. $\ce{Mg(OH)+ <=> Mg^2+ + OH-}$ > ![][note]
-
-> ![][note]
+> 电离方程式: 在水中和在熔融状态下, 电离性质不同的特例
 >
-> 电离方程式: 在水中和在熔融状态下, 性质不一定相同
->
-> - 一般地, 性质相同. 如 $\ce{NaCl}$
-> - 特殊情况, 性质不同. 如 $\ce{NaHSO4}$ $\ce{NaHCO4}$
+> - 如 $\ce{NaHSO4}$ $\ce{NaHCO4}$
 >   - 在水溶液中 $\ce{NaHSO4 = Na+ + H+ + SO4^2-}$
 >   - 在熔融状态下 $\ce{NaHSO4 = Na+ + HSO4^-}$
 >   - (原因: 熔融状态下只破坏离子键, 不破坏共价键. 水溶液中, 水分子可以稳定 $\ce{H+}$ 和 $\ce{SO4^2-}$)
->     ![][note]
 
 > ![][note]
 >
-> 酸碱盐的电离
+> 酸碱盐的电离性质
 >
 > - `酸`
 >   - 正离子 $\ce{H+}$
@@ -385,6 +383,8 @@
 
 #### 离子方程式
 
+> ionic equation
+
 - `离子反应` 电解质在溶液中的反应, 实质上是离子间的反应.
 - `离子反应条件`
   - 产生 `沉淀` `气体` `弱电解质`(`水` `弱酸` `弱碱` ...)
@@ -395,55 +395,104 @@
 
 > ![][note]
 >
-> 写离子方程式: 简单的方法
+> 离子方程式: 书写方法
 >
-> 观察化学方程式, 反应前后溶质中一直存在的离子, 就是没发生离子反应, 不要. 其他的都反应了喵!
+> 1. 写出化学方程式
+> 2. 拆开溶解状态的强电解质, 写成离子形式
+>    - $\ce{NaCl}$ 溶解了, 而且是盐属于强电解质, 在水里完全电离, 拆成 $\ce{Na+}$ 和 $\ce{Cl-}$
+>    - $\ce{HF}$ 是弱酸属于弱电解质, 在水里不完全电离, 依然是化学式.
+>    - $\ce{CaCO3}$ 是固体, 不在水里, 依然是化学式.
+>    - $\ce{H2S}$ 是气体, 不在水里, 依然是化学式.
+> 3. 去掉不参与反应的离子 (等号左右两边都出现的那些)
 >
-> 1. 盐酸与氢氧化钠的反应：
->    - 化学方程式：$\ce{HCl + NaOH = NaCl + H2O}$
->    - 观察: $\ce{Na+}$ 和 $\ce{Cl-}$ 一直溶解在水中, 没反应, 去掉.
->    - 离子方程式：$\ce{H+ + OH- = H2O}$
-> 2. 硫酸与氢氧化钡的反应：
->    - 化学方程式：$\ce{H2SO4 + Ba(OH)2 = BaSO4 \downarrow + 2H2O}$
->    - 观察: 不是沉淀离开溶液了, 就是变成溶剂了. 全部留着喵!
->    - 离子方程式：$\ce{2H+ + SO4^2- + Ba^2+ + 2OH- = BaSO4 \downarrow + 2H2O}$
-> 3. 氯化钠与硝酸银的反应：
->    - 化学方程式：$\ce{NaCl + AgNO3 = AgCl \downarrow + NaNO3}$
->    - 观察: $\ce{Na+}$ 和 $\ce{NO3-}$ 一直在, 没反应. 另外两个沉淀了, 没了.
->    - 离子方程式：$\ce{Cl- + Ag+ = AgCl \downarrow}$
-> 4. 碳酸钙与盐酸的反应：
->    - 化学方程式：$\ce{CaCO3 + 2HCl = CaCl2 + H2O + CO2 \uparrow}$
->    - 观察: $\ce{CaCO3}$ 原本就是固体, 本来就不在溶液, 只看 $\ce{HCl}$. $\ce{H+}$ 变成溶剂了, $\ce{Cl-}$ 一直存在.
->    - 离子方程式：$\ce{CaCO3 + 2H+ = Ca^2+ + H2O + CO2 \uparrow}$
-> 5. 氯化铝与氢氧化钠的反应：
->    - 化学方程式：$\ce{AlCl3 + 3NaOH = Al(OH)3 \downarrow + 3NaCl}$
->    - 观察: $\ce{NaCl}$ 身上的两个离子一直在溶质里.
->    - 离子方程式：$\ce{Al^3+ + 3OH- = Al(OH)3 \downarrow}$
+> (简单的方法: 交换2,3两步顺序.)
+>
+> ![][warning]
+>
+> 离子方程式: 拆写的特例
+>
+> - 多元弱酸酸式酸根: 不拆
+>   - 如 $\ce{HCO3-}$ $\ce{HSO3-}$
+> - 微溶物: 如果是固体状态(浑浊), 不拆. 如果是溶解状态(澄清), 拆.
+>   - 如澄清石灰水, 含 $\ce{Ca2+}$ 和 $\ce{OH-}$
+> - $\ce{NH3.H2O}$: 作为生成物, 如果是浓溶液或被加热, 变成氨气和水. 作为反应物不拆.
+>
+> ![][practice]
+>
+> - $\ce{CuSO4 + H2S}$
+>   1. $\ce{CuSO4 + H2S = CuS \downarrow + H2SO4}$
+>   2. $\ce{Cu^2+ + SO4^2- + H2S = CuS \downarrow + 2H+ + SO4^2-}$
+>      - $\ce{H2S}$ 是气体.
+>   3. $\ce{Cu^2+ + H2S = CuS \downarrow + 2H+}$
+> - $\ce{NaHCO3 + HCl}$
+>   1. $\ce{NaHCO3 + HCl = NaCl + H2O + CO2 \uparrow}$
+>   2. $\ce{Na+ + HCO3- + H+ + Cl- = Na+ + Cl- + H2O + CO2 \uparrow}$
+>      - $\ce{HCO3-}$ 是多元弱酸酸式酸根.
+>   3. $\ce{HCO3- + H+ = H2O + CO2 \uparrow}$
+> - $\ce{CH3COOH + CaCO3}$
+>   1. $\ce{2CH3COOH + CaCO3 = (CH3COO)2Ca + H2O + CO2 \uparrow}$
+>   2. $\ce{2CH3COOH + CaCO3 = 2CH3COO- + Ca2+ + H2O + CO2 \uparrow}$
+>      - $\ce{CH3COOH}$ 是弱酸. $\ce{CaCO3}$ 是固体.
+>   3. $\ce{2CH3COOH + CaCO3 = 2CH3COO- + Ca2+ + H2O + CO2 \uparrow}$
+> - $\ce{HCl + Fe}$
+>   1. $\ce{2HCl + Fe = FeCl2 + H2 \uparrow}$
+>   2. $\ce{2H+ + 2Cl- + Fe = Fe^2+ + 2Cl- + H2 \uparrow}$
+>      - $\ce{Fe}$ 是单质, 不属于电解质. $\ce{FeCl2}$ 在水中电离出 $\ce{Fe^2+}$
+>   3. $\ce{2H+ + Fe = Fe^2+ + H2 \uparrow}$
 
 > ![][note]
 >
-> 离子方程式: 通用的方法
+> 题型: 判断离子方程式正确性
 >
-> <!-- wip -->
+> 
 
 ### fin
 
-- [](#) - [按照 `粒子直径` 分类](#按照-粒子直径-分类) - [胶体](#胶体) - [实验: 制备胶体](#实验-制备胶体) - [丁达尔效应](#丁达尔效应)
+- [chapter 1](#chapter-1)
+  - [物质的分类](#物质的分类)
+    - [物质](#物质)
+      - [按照 `组成` 分类](#按照-组成-分类)
+      - [按照 `物理性质` 分类](#按照-物理性质-分类)
+      - [按照 `化学性质` 分类](#按照-化学性质-分类)
+    - [单质](#单质)
+      - [按照 `组成` 分类](#按照-组成-分类-1)
+      - [按照 `元素在周期表中的位置` 分类](#按照-元素在周期表中的位置-分类)
+    - [化合物](#化合物)
+      - [使用`树形分类法`分类](#使用树形分类法分类)
+      - [使用`交叉分类法`分类](#使用交叉分类法分类)
+    - [混合物](#混合物)
+      - [按照 `均匀性` 分类](#按照-均匀性-分类)
+    - [分散系](#分散系)
+      - [按照 `粒子直径` 分类](#按照-粒子直径-分类)
+    - [胶体](#胶体)
+      - [实验: 制备胶体](#实验-制备胶体)
+      - [丁达尔效应](#丁达尔效应)
   - [物质的转化](#物质的转化)
     - [酸](#酸)
     - [碱](#碱)
     - [盐](#盐)
     - [盐的形成](#盐的形成)
     - [$\\ce{NaOH}$ 的制取](#cenaoh-的制取)
+  - [离子反应](#离子反应)
+    - [电解质](#电解质)
+      - [按照`强弱`分类](#按照强弱分类)
+    - [电离方程式](#电离方程式)
+    - [离子方程式](#离子方程式)
   - [fin](#fin)
-    > _so much for this have a nice day_
-    >
-    > _以上. 祝你度过智识的, 审美的一天._ > _chapter 1 of 20_ > [note]: ../../note.svg
-    > [warning]: ../../warning.svg
-    > [hint]: ../../hint.svg
-    > [izumi]: <../../konata izumi avatar.jpg>
-    > [lucky star a]: <../../lucky star a.jpg>
-    > [lucky star b]: <../../lucky star b.jpg>
-    > [periodic table]: <../periodic table wikipedia.png>
-    > [tree]: ./tree.jpg
-    > [cross]: <./cross classification method.png>
+
+> _so much for this have a nice day_
+>
+> _以上. 祝你度过智识的, 审美的一天._
+
+[note]: ../../note.svg
+[warning]: ../../warning.svg
+[hint]: ../../hint.svg
+[practice]: ../../practice.svg
+[izumi]: <../../konata izumi avatar.jpg>
+[lucky star a]: <../../lucky star a.jpg>
+[lucky star b]: <../../lucky star b.jpg>
+[periodic table]: <../periodic table wikipedia.png>
+[tree]: ./tree.jpg
+[cross]: <./cross classification method.png>
+
+> _chapter 1 of 20_

@@ -60,12 +60,14 @@
   - haru no kaze (aoi teshima)
   - one more time, one more chance (masayoshi yamazaki)
   - hyehwadong (park bo ram)
-  - dry hands (c418)
+  - the girl who fell from the sky (joe hisaishi)
   - the name of life (joe hisaishi)
+  - dry hands (c418)
   - the legend of zelda: ocarina of time title theme (koji kondo)
   - benevolence bequeathed (nahida & hoyo-mix)
   - caresse sur l'océan (bruno coulais & les petits chanteurs de saint-marc)
   - gion2 (honkai impact third & hoyo-mix)
+  - moon halo (honkai impact third & hoyo-mix)
   - the brave (yoasobi)
   - one last kiss (hikaru utada)
   - ymca (village people)
@@ -110,6 +112,7 @@
   - the great learning (2021)
   - g for gap (2024)
   - castle in the sky (1986)
+  - .princess mononoke (1997)
   - .tonikawa: over the moon for you (2020)
   - .my youth romantic comedy is wrong, as i expected (2011)
   - .the melancholy of haruhi suzumiya (2006)
@@ -259,8 +262,8 @@
   - twitter & mastodon & slashdot & solidot
   - old reddit & stack exchange & 4chan & nga bbs & acgn.zone
   - codeforces & libre oj & vijos & luogu & xjoi
-  - cnblogs & luogu blog & travellings & foreverblog & webring
-  - bangumi.tv & mikan project & bgmlist & my anime list
+  - cnblogs & luogu blog & travellings.cn & foreverblog.cn & travel.moe
+  - bangumi.tv & mikan project & bgmlist & my anime list & dmhy.org
   - google fonts
   - nyaa.si & hifini.com
   - douban book & goodread
@@ -305,7 +308,7 @@
   - sparkle
   - xing qiu
 - - ubuntu yaru
-  - google reader
+  - google reader & google maia css
   - hacker news
   - dracula theme
   - nord theme
@@ -343,10 +346,10 @@
   - ahbei & douban founding
   - ahdark & cs learning
   - akt animation & mihoyo doujin
-  - andrew yang & humanity future
+  - andrew yang & america founding
   - anthony fu antfu & web dev & vue
   - arseniy chebynkin arsenixc & art
-  - barack obama & humanity future
+  - barack obama & america founding
   - black man cupid & street girls
   - blue striped rabbit
   - brad traversy & web dev & crash courses
@@ -401,6 +404,7 @@
   - james sinclair jrsinclair
   - jeff delaney & fireship founding & web dev in 100 sec
   - jeff hawkins & palm founding & brain science
+  - jens oliver meiert & web dev leadership & google maia css founding
   - jiang yanyan & oi teaching & os dev
   - jiang zhijun djhs & champ
   - jiangly not dd codeforces & oi champ
@@ -420,7 +424,6 @@
   - kyth & jike xiaoyuzhou founding
   - lex fridman & dev conversation
   - li xinshuo djhs & anime otaku girl
-  - liu chenyu djhs & math enthusiast
   - liu mingye & web dev & music tools
   - liu xin livid & v2ex founding
   - liu yuan djhs & interactive math
@@ -722,7 +725,7 @@
 - 有我之境 以我观物 故物皆著我之色彩 无我之境 以物观物 故不知何者为我 何者为物
 - 宁为玉碎 不为瓦全
 - 民为贵 社稷次之 君为轻
-- 待到秋来九月八 我花开后百花杀 
+- 待到秋来九月八 我花开后百花杀
 
 ## beauty
 
@@ -795,7 +798,7 @@
   - cnblogs `fira`
   - wordpress `_`
   - medium `_`
-- - reddit `r/firavoyage` `u/firavoyage` `u/Possible_Help4623`
+- - reddit `u/firavoyage` `u/Possible_Help4623`
   - bangumi.tv `firavoyage`
   - v2ex `voy`
   - mastodon `fira@techhub.social` `firavoyage@mastodon.social`
@@ -837,3 +840,5 @@
 > $beautifully \space advance$
 
 > $btw \space i \space use \space ubuntu$ > _"do not change anything unless you know what you are doing"_
+
+> $may \space all \space the \space beauty \space be \space blessed.$
