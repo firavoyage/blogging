@@ -53,6 +53,7 @@
   - a day in the life (the beatles)
   - lost for words (pink floyd)
   - a cruel angel's thesis (yoko takahashi)
+  - fly me to the moon (all that jazz)
   - world.execute(me); (mili)
   - magnet (minato aqua & inuyama tamaki)
   - -tooi sora he- (manack & bruno wen li)

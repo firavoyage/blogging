@@ -1,0 +1,3 @@
+cd Downloads/compress
+mogrify -quality 50 *.jpg
+cd ../..

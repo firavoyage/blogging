@@ -1,0 +1,5 @@
+cd Downloads/g
+mogrify -background black -flatten -format jpg *.png && rm *.png
+mogrify -quality 80 *.jpg
+cd ../..
+

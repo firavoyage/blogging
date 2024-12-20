@@ -742,9 +742,10 @@ sudo apt install gnome-shell-extension-prefs
   sudo apt install python3
   sudo apt install virtualbox
   sudo apt install zsh
+  sudo flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
+  sudo flatpak install flathub org.gimp.GIMP
   sudo flatpak install flathub org.gnome.Solanum
   sudo flatpak install flathub org.localsend.localsend_app
-  sudo flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
   sudo npm config set registry https://registry.npmjs.org/
   sudo npm install -g @wenyan/cli
   sudo npm install -g jsdoc
@@ -755,7 +756,6 @@ sudo apt install gnome-shell-extension-prefs
   sudo snap install chromium --revision 2842
   sudo snap install docker
   sudo snap install firefox
-  sudo snap install gimp
   sudo snap install gnome-boxes
   sudo snap install inkscape
   sudo snap install kdenlive

@@ -33,6 +33,7 @@
       2. ask mistral for equations in latex
       3. add contents missing on textbook from notes
       4. revise expression
+   4. omit some details (examples), place a @todo comment instead
 3. read sh sd textbooks and improve the details
 
 > **better not to write anything myself**

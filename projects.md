@@ -32,8 +32,11 @@
 - inspired by
   - notion
   - obsidian
-  - yuque
-  - lark
+  - docusaurus
+  - gitbook
+  - material for mkdocs
+  - sphinx
+  - hugo
 
 ### `pre`
 

@@ -11991,9 +11991,9 @@ github.com/verymoe
 
 readme 右边, 是朝武芳乃...
 
-突然想玩 senrenbanka... 好久没玩了, 上一次存档还是在上次qwq...
+突然想玩 senrenbanka... 好久没玩了, 上一次存档还是在上次 qwq...
 
-开了一个workspace... 正好这几天有空, 周末打一打.
+开了一个 workspace... 正好这几天有空, 周末打一打.
 
 19:30
 
@@ -12033,7 +12033,7 @@ https://v.myvideos.info/movie/%E5%A4%A9%E7%A9%BA%E4%B9%8B%E5%9F%8E.1986.mp4?veri
 
 5mb/s 3.4g. dl using chromium.
 
-**我终于意识到, 我似乎不用找magnet... 我可以直接搜索mp4源qwq...**
+**我终于意识到, 我似乎不用找 magnet... 我可以直接搜索 mp4 源 qwq...**
 
 顺便下载了 bocchi the rock 的字幕...
 
@@ -12043,7 +12043,7 @@ https://v.myvideos.info/movie/%E5%A4%A9%E7%A9%BA%E4%B9%8B%E5%9F%8E.1986.mp4?veri
 
 `gaming`
 
-played df. 
+played df.
 
 **reached 4617.**
 
@@ -12111,5 +12111,114 @@ watched castle in the sky.
 
 upd some songs in readme.
 
+02:50
+
 **sleep.**
+
+12:xx
+
+got up.
+
+15:40
+
+`gaming`
+
+playing df.
+
+从 14:33 打到现在.
+
+打了三把, +10 +20 +25.
+
+reached 4672.
+
+16:17
+
+`gaming`
+
+played df.
+
+had one match. together 4 matches today.
+
+**reached 4701.**
+
+16:47
+
+`live`
+
+watched simplelive. 蓝衬衫.
+
+**"低压啊"**
+
+**"我控了一下分均之后好打多了, 他们不趴着了, 敢冲了."**
+
+**"怎么又架起来了"**
+
+17:23
+
+`dev`
+
+had issue (can not input text) with snap gimp.
+
+**installed flatpak gimp instead. it works.**
+
+19:xx
+
+`school` `ref`
+
+期末考试.
+
+小六门: 20241226
+大三门: 20250108
+
+都考两天, 日期是第一天的.
+
+23:57
+
+`gaming`
+
+playing df.
+
+**reached 4827**
+
+`dev` `ref`
+
+**网络波动似乎恢复正常, 目前除了0点的路由器重启, 没有别的异常.**
+
+**great!**
+
+## 20241221
+
+00:08
+
+`dev`
+
+网络似乎还是有些问题. 只是0点前不波动...
+
+在 00:00 ~ 00:30 依然波动qwq...
+
+另外, 以后不写 ref important 的 tag了... 只写 ref.
+
+02:xx
+
+`live`
+
+watched simplelive.
+
+old skilled tofu langrensha.
+
+遇到了几个有意思的玩家.
+
+- 黑白忧郁动画男生头像, 曼波变声器, 抽象, "太好了太好了", 成分拉满.
+- "公公", 声线?
+- 收益, 女巫, qwq...
+
+**笑得面部扭曲, 都是真人啊, 这就是我的时代, 文化!**
+
+03:03
+
+`bangumi`
+
+watched evangelion episode 4.
+
+**好压抑, 好真实, 感动?**
 
