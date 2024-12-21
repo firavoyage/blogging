@@ -12238,7 +12238,7 @@ wow.
 
 什么垃圾网络. 
 
-**怎么说呢... 大概100kb/s吧, git 上的数据.**
+**怎么说呢... 大概100kb/s吧, git 上显示的.**
 
 之前看直播就卡, 现在 gitee push ref 上不去.
 
@@ -12246,3 +12246,10 @@ wow.
 
 **sleep.**
 
+14:18
+
+`dev`
+
+**网络不稳定. 现在 push 了一下, 正常网速.**
+
+**8mb/s receiving (downloading). 3mb/s writing (uploading).**
