@@ -40,7 +40,7 @@
   - calendar & wall clock
   - reading & life size waifu pillow
   - gardening & origami & pixel art
-  - math & algorithms & unix porn & mtf pride
+  - math & algorithms & unixporn & mtf & virtualyoutubers
   - functional programming & web dev
   - dark style & night light & low brightness
   - observation & reflection & mind wandering
@@ -109,10 +109,10 @@
   - call (2020)
   - 5 centimeters per second (2007)
   - tenet (2020)
-  - my tsinghua dream (2022)
   - the great learning (2021)
   - g for gap (2024)
   - castle in the sky (1986)
+  - the last dance (2024)
   - .princess mononoke (1997)
   - .tonikawa: over the moon for you (2020)
   - .my youth romantic comedy is wrong, as i expected (2011)
@@ -123,9 +123,10 @@
   - .re: zero - starting life in another world (2016)
   - .bakemonogatari (2009)
   - .frieren: beyond journey's end (2023)
-  - .bang dream! it's mygo!!!!! (2023)
   - .bocchi the rock (2022)
+  - .bang dream! it's mygo!!!!! (2023)
   - .girls band cry (2024)
+  - .k-on! (2009)
   - .oshi no ko (2023)
   - .school days (2007)
   - .scum's wish (2017)
@@ -257,11 +258,10 @@
   - internet archive wayback machine & archive.today
   - google & mistral le chat & awesome gpt prompts
   - youtube & berryberry & niconico
-  - hacker news & ruanyf weekly
+  - hacker news & v2ex creative & ruanyf weekly & product hunt all time
   - codepen spark & css tricks & javascript weekly
-  - zhihu & v2ex creative & howie6879 weekly & rebang
-  - twitter & mastodon & slashdot & solidot
-  - old reddit & stack exchange & 4chan & nga bbs & acgn.zone
+  - twitter & mastodon & slashdot & solidot & rebang
+  - old reddit & nga bbs & zhihu & 4chan & stack exchange
   - codeforces & libre oj & vijos & luogu & xjoi
   - cnblogs & luogu blog & travellings.cn & foreverblog.cn & travel.moe
   - bangumi.tv & mikan project & bgmlist & my anime list & dmhy.org
@@ -273,7 +273,6 @@
   - google doodles & itch.io matrix67 & steam db
   - genius & poetry foundation
   - unsplash & pixiv & deviantart & dribbble
-  - product hunt all time
   - hugging face & kaggle
 - - acheron
   - adventurine
@@ -332,11 +331,11 @@
   - helvetica neue
   - inconsolata
   - lato
-  - lora
   - montserrat
   - noto sans
   - noto serif
-  - playfair display
+  - nunito
+  - playfair
   - poppins
   - pt serif
   - resource han rounded cn
@@ -358,9 +357,8 @@
   - cali castle & zolplay founding & game dev
   - cao yunfan djhs
   - cao yunfan djhs & geography enthusiast
-  - carlyle hainz & mtf diary
   - caspar david friedric & art & wanderer above the sea of fog
-  - change release mihoyo
+  - change release & mihoyo insane
   - chen liangzhou pink rabbit codeforces & gi
   - chen ruihan djhs & history enthusiast
   - chen shiyu djhs & chinese allusions & waifu daisuki
@@ -389,8 +387,8 @@
   - edmund d zhang & indie game live
   - epcdiy & tech critic & reverse engineering & student he analysis & berryberry early days
   - fabrice bellard & cpp programming
-  - fan shi funshiki & anime otaku & berryberry early days
   - foreman ma madugong & bedtime news
+  - funshiki & anime otaku & berryberry early days
   - geek bay geekerwan
   - gennady vladimirovich korotkevich tourist codeforces & oi champ
   - gu sen matrix67 & cai xueqin localhost-8080
@@ -428,6 +426,7 @@
   - liu mingye & web dev & music tools
   - liu xin livid & v2ex founding
   - liu yuan djhs & interactive math
+  - lks & internet observation & pursuit of fun & berryberry early days
   - longbow flintlock & mihoyo doujin
   - lu jianhong djhs & english culture
   - luca florio & freshman programmer guide
@@ -444,11 +443,12 @@
   - mr marmot & chinese wojaks
   - mr yu ceo & physics
   - nat friedman & github founding & venture capital
-  - nicholas wei bro mihoyo
+  - nicholas wei bro & mihoyo founding
   - old bai sleepwalked & waifu vr & mihoyo doujin
-  - old ocean tubber mihoyo
+  - old ocean tubber & mihoyo insane
   - old skilled tofu langrensha
-  - one math & draft style tut vid
+  - one math & draft style hs math guide
+  - one shot southern & mihoyo doujin & the world of illusion
   - owen young & freelancing
   - pan tianhong tim & pan shuimiao & mediastorm founding
   - paul graham paulg & y combinator founding & hacker news founding
@@ -463,6 +463,7 @@
   - richard rusczyk & art of problem solving founding
   - rodrigo pombo pombus & web dev
   - ruan yifeng ruanyf & caixin editorial & tech enthusiast weekly founding
+  - ryley cr & hall of fame champ
   - science fictional lycium chinense
   - segun adebayo & web dev & chakra ui founding
   - shen ruochen djhs & math teaching & cycle racing
@@ -479,7 +480,7 @@
   - tomoko fuse & origami
   - trent walton & design
   - unfettered idle man
-  - upright flies mihoyo
+  - upright flies & mihoyo insane
   - wanderer bs
   - wang xiaofeng djhs & anime otaku
   - wang yining fira & dev
@@ -620,8 +621,11 @@
   - the answer is predictive of your behavior
   - better to get your dopamine from improving your ideas than from having them validated
   - it's ok to get yours from "making things happen"
-- hkrr
-  - 
+- hkrr theory
+  - happiness, actually a kind of resonance. maybe elation better
+  - knowledge, or a sense of hearing something unknown
+  - resonance, the representation of one's memories
+  - rhythm, what keeps everything from getting boring
 - i do not know what i may appear to the world
   - but to myself i seem to have been only like a boy playing on the sea-shore
   - and diverting myself in now and then finding a smoother pebble or a prettier shell than ordinary
@@ -819,11 +823,9 @@
 
 > _平常心_
 
-> _琐碎 / 如是五年后已忘却 / 举重若轻_
+> _琐碎 / 如是五年后忘却 / 举重若轻_
 
-> _缄默 / 动唇却不出声交流 / 自言自语_
-
-> _imagine the same day next year_
+> _游戏尘寰_
 
 > _time flies when you're having fun :)_
 
@@ -845,3 +847,4 @@
 > $btw \space i \space use \space ubuntu$ > _"do not change anything unless you know what you are doing"_
 
 > $may \space all \space the \space beauty \space be \space blessed.$
+

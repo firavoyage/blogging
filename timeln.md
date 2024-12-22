@@ -10451,7 +10451,7 @@ watch ep 15 tomorrow...
 
 22:56
 
-`bangumi` `documentary`
+`movie` `documentary`
 
 bangumi? 看了看学校里班会没看完的
 
@@ -10785,6 +10785,8 @@ wtf!我在干什么!
 
 played df.
 
+`movie`
+
 watching funshiki theatre...
 
 "走走停停"
@@ -10793,9 +10795,11 @@ watching funshiki theatre...
 
 00:33
 
-`bangumi`
+`movie`
 
 **watched gold or shit at funshiki live.**
+
+(g for gap)
 
 "并非喜剧"
 
@@ -11563,7 +11567,7 @@ watched simplelive.
 
 12:25
 
-`bangumi`
+`movie`
 
 downloading castle in the sky on mikan project
 
@@ -11599,7 +11603,7 @@ using solanum as school time
 
 13:33
 
-`bangumi`
+`movie`
 
 天空之城不下了,根本没有 seeder...
 
@@ -12019,7 +12023,7 @@ everywhere including google books classic, google reader, ...
 
 pushed chemistry.
 
-`bangumi`
+`movie`
 
 **downloading castle in the sky...**
 
@@ -12182,7 +12186,7 @@ playing df.
 
 `dev` `ref`
 
-**网络波动似乎恢复正常, 目前除了0点的路由器重启, 没有别的异常.**
+**网络波动似乎恢复正常, 目前除了 0 点的路由器重启, 没有别的异常.**
 
 **great!**
 
@@ -12192,11 +12196,11 @@ playing df.
 
 `dev`
 
-网络似乎还是有些问题. 只是0点前不波动...
+网络似乎还是有些问题. 只是 0 点前不波动...
 
-在 00:00 ~ 00:30 依然波动qwq...
+在 00:00 ~ 00:30 依然波动 qwq...
 
-另外, 以后不写 ref important 的 tag了... 只写 ref.
+另外, 以后不写 ref important 的 tag 了... 只写 ref.
 
 02:xx
 
@@ -12236,9 +12240,9 @@ wow.
 
 `dev`
 
-什么垃圾网络. 
+什么垃圾网络.
 
-**怎么说呢... 大概100kb/s吧, git 上显示的.**
+**怎么说呢... 大概 100kb/s 吧, git 上显示的.**
 
 之前看直播就卡, 现在 gitee push ref 上不去.
 
@@ -12248,8 +12252,137 @@ wow.
 
 14:18
 
+`weather`
+
+got up.
+
+had lunch. (lunch?) burger king...
+
 `dev`
+
+```
+cd Documents/memories
+rm -rf .git
+git init
+git remote add e https://gitee.com/firavoyage/memories.git
+```
 
 **网络不稳定. 现在 push 了一下, 正常网速.**
 
 **8mb/s receiving (downloading). 3mb/s writing (uploading).**
+
+17:17
+
+`swimming`
+
+swimmed in berryberry.
+
+**off topic random vid.**
+
+upd readme (hkrr)
+
+20:17
+
+`swimming` `dev`
+
+**news: github copilot is free now.**
+
+installed.
+
+**seem awkward and not responding qwq... removed.**
+
+## 20241222
+
+00:43
+
+`doujin` `fun` `bangumi` `ref`
+
+看了 akt 和 yuluer 的 sparkle. 狠狠冲了, 心情真好, 没有烦恼.
+
+https://rule34video.com/video/3453201/24s1-akt-sparkle/
+
+https://rule34video.com/video/3555077/yuluer-sparkle-uncen-honkai-star-rail/
+
+**幻术的世界有什么不好?**
+
+03:49
+
+`gaming` `ref`
+
+played df.
+
+**reached 5010.**
+
+**统帅.**
+
+upd weekly. removed push df rank.
+
+**sleep.**
+
+11:xx
+
+`weather`
+
+got up.
+
+12:53
+
+`writing`
+
+upd pure/math/set
+
+无序 <=> 有任意顺序 <=> 不失一般性可令
+
+upd readme
+
+幻术的世界
+
+18:06
+
+returned home.
+
+had some guangdong cuisine
+
+`movie`
+
+watched the last dance.
+
+from 14:50 to 17:xx
+
+20:19
+
+`gaming` `ref`
+
+played df.
+
+拿到了 `S2 战场统帅` 称号.
+
+漫长的旅途...
+
+没有了 push df rank 的压力, 大概就是休闲游戏吧...
+
+摸金模式的排位也没有打的想法, 收藏游戏哪有积分之说.
+
+20:57
+
+`weather` `ref`
+
+had supper.
+
+暮年少女对我说...
+
+**愿望 f 明天不要睡过中午, 去吃午饭. 她也要吃午饭.**
+
+想来这几天睡得好晚哪... 
+
+**23333 late night otaku desu...**
+
+christmas is around the corner qwq...
+
+**圣诞愿望的说... frey chocolate bar 如常.**
+
+`dev`
+
+upd readme / fonts.
+
+rm rounded mplus. added nunito.

@@ -30,13 +30,12 @@
 - various themes
   - by voyage
 - inspired by
+  - docusaurus
+  - hugo
+  - mkdocs & material for mkdocs
   - notion
   - obsidian
-  - docusaurus
   - gitbook
-  - material for mkdocs
-  - sphinx
-  - hugo
 
 ### `pre`
 

@@ -11,6 +11,72 @@
 - _make tools elegant_
 - _make knowledge pure_
 
+## 20241222
+
+> _foresight_
+
+- write chemistry wiki on pure project
+- write voyagejs & learn styling from stylus sass less tailwind
+- design hi component library with voyage
+- watch lucky star
+- sync phone
+
+> _everyday_
+
+- return digital homes in al sr hi
+
+> _evening_
+
+- watch lucky star
+- watch evangelion
+- watch the melancholy of haruhi suzumiya
+- watch bocchi the rock
+
+> _weekend endeavour_
+
+- work on voyagejs project
+- write svelte examples with voyagejs
+- design component libraries & learn from chakra ui
+- write table of contents & generate pure project wiki
+- generate intuitive cpp episodes
+- categorize math trick cards
+
+> _weekend diversion_
+
+- play senrenbanka
+- play sabbat of the witch
+- read hi sr stories
+- play df
+
+> _weekend enlightenment_
+
+- read & categorize ruanyf weekly
+- summarize projects leverage
+- design pure & intuitive foresights
+- write para app
+- write pre app
+- write leisure app
+- write float app
+- write material app
+
+> _learning_
+
+- write math challenger & english papers
+- read physics & chemistry & geography notes
+- memorize tem 8 vocabulary
+
+> _school life_
+
+- play football
+
+> _meanwhile_
+
+- listen to podcasts
+- watch simplelive
+- create origami works
+- read one hundred years of solitude
+- sync phone
+
 ## 20241220
 
 > _foresight_
@@ -45,6 +111,7 @@
 > _weekend diversion_
 
 - play senrenbanka
+- play sabbat of the witch
 - read hi sr stories
 
 > _weekend enlightenment_
