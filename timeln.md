@@ -12690,7 +12690,7 @@ played df.
 
 00:20
 
-`school`
+`school` `ref`
 
 one day left.
 
@@ -12709,3 +12709,37 @@ watching evangelion episode 7.
 然后就搜索了. 然后就进去 mayx 的 blog 了, 还是 eu org 免费域名...
 
 总之 swimming 半天, 20 几页呢...
+
+03:04
+
+`swimming`
+
+大概就是 mayx 的 blog...
+
+**说是三本院校, 2023 年毕业, 现在是运维, 965, 有着平凡的工作娱乐理想, 就是下班打 vn 游戏**
+
+**(竟然全翻了一遍), 最厉害的是创建了一堆 blog 镜像, 想 euorg, pagesdev, netlify...**
+
+还有一堆 wikipedia pages.
+
+**看看 blogging 里面多了多少 pdf 就知道啦!**
+
+`dev`
+
+memories 超出 1gb git 限制了...
+
+删除历史重来吧, 其实就 600 多 mb.
+
+**说来, 今天网速正常了呢, 为什么呢... (c: bocchi)**
+
+然后 chromium 又挂了, 实在是开的 apps 太多了...
+
+**monitor: 14.7 gb / 16.1 gb cache 2.1 gb**
+
+这是 chromium 闪退之后的, 甚至没有 force stop or wait 的机会!
+
+看了一眼, 都是几百 mb 的 apps... code 300 多... 总之就是浏览器吃内存吧!
+
+不过无伤大雅.
+
+**sleep.**
