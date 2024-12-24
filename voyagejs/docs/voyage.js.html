@@ -529,7 +529,9 @@ let voyage = {
    * @memberof voyage
    */
   updaters: {},
-  components: {},
+  /**
+   * 
+   */
   macros: {
     model(node, state) {
       const { bind } = voyage;
@@ -1154,12 +1156,18 @@ roadmap
 single responsibility principle
 - remove excessive fn poly
 - split fn into smaller fn
-add styling macro
+learn css in js methods
 - learn from tailwind sass less stylus
-- ask mistral css in js methods to define events like hover in js
+- ask mistral css in js methods to define events and parent style in js
 - which inline style couldnt support
+add styling macro
 - `@style` macro
-- `@style:"opacity-low h2 hover:opacity-high"`
+- class-like styling `@style:"opacity-low h2"`
+- syntax: `style style-param style-p1-p2-p3`
+- styling with event `@style:"hover:opacity-high"`
+- syntax: `event:styles`
+- styling as parent `@style:"article{a{d e} b c} block{a c e} .xyz{}"`
+- syntax: `selector{styles}`
 - work with class and css in js
 - `@theme` macro
 - `@theme:"myTheme"`
@@ -1219,6 +1227,9 @@ add jsdoc comments
 - separate public and private function
 - clearer method name
 - less typing
+remove redundant code
+- voyage.component exists twice
+- the latter will take over the former
 
 @version 0.27 20241212
 change typedef naming

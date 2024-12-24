@@ -335,6 +335,7 @@
   - noto sans
   - noto serif
   - nunito
+  - open sans
   - playfair
   - poppins
   - pt serif

@@ -12281,6 +12281,12 @@ swimmed in berryberry.
 
 upd readme (hkrr)
 
+`school`
+
+found a vid on berryberry.
+
+**是武汉的一个同辈. 似乎用的是同一套书, 叫"知识清单", f 的叫"学霸笔记". 书本样式排印都一样.**
+
 20:17
 
 `swimming` `dev`
@@ -12373,7 +12379,7 @@ had supper.
 
 **愿望 f 明天不要睡过中午, 去吃午饭. 她也要吃午饭.**
 
-想来这几天睡得好晚哪... 
+想来这几天睡得好晚哪...
 
 **23333 late night otaku desu...**
 
@@ -12386,3 +12392,201 @@ christmas is around the corner qwq...
 upd readme / fonts.
 
 rm rounded mplus. added nunito.
+
+23:31
+
+`live`
+
+watching lciop cr 20 win live... (2.6 hog)
+
+`gaming` `ref`
+
+playing df...
+
+**摸金生活... 做做任务先.**
+
+想起了我的几个同学
+
+- 高端玩家, 喜欢打架, 喜欢博弈.
+- 高端玩家的队友, 喜欢吃, 喜欢做任务, 任务做了就无所谓输赢.
+- 赚钱玩家, 打得稳健, 听说喜欢玩狙, 现在赚得最多.
+
+## 20241223
+
+00:34
+
+`school` `ref`
+
+fin exam is approaching!
+
+at 20241226~20241227.
+
+**just this thursday and this friday.**
+
+`bangumi`
+
+watched evangelion episode 5.
+
+**幻术的世界有什么不好? (虽然刀...但什么幻术啊)**
+
+`weather`
+
+ac (air conditioner) doesnt work...
+
+30 度, 制热, 根本不热, 就是没开一样.
+
+**不过 1 月就装修好搬回去啦! (期待吗?愿望吗?)**
+
+2:xx
+
+`live`
+
+watched some random lives...
+
+3:xx
+
+`swimming`
+
+看了几个 df 的视频...
+
+任务机制真逆天, 还有信号屏蔽, 拉闸撤离, 爆率控制, 都很劝退 qwq...
+
+虽然有丢包撤离什么的, 但至少要学会看声纹... 之前好像之玩过 tpp 游戏的说...
+
+可能就是休闲游戏吧, 不过做任务没用 qwq...
+
+**sleep.**
+
+15:12
+
+`gaming`
+
+returned homes at al sr hi.
+
+cleared sr div universe while pushing some hi event progress.
+
+**in about 20min.**
+
+15:44
+
+`weather`
+
+had lunch.
+
+葱油拌面, 蛋花圆子.
+
+`dev` `ref`
+
+fixed ac issue.
+
+空调下面有挡板 qwq...
+
+夏天对流正常, 冬天热空气在上面, 根本不对流啊啊啊!
+
+总之就是把挡板拆了.
+
+16:37
+
+`swimming` `gaming`
+
+playing df...
+
+找到了一套厉害的装备.
+
+**三级套+s12k. (感觉是在玩地铁,带块辐射版,卡出生点,三图辐射区进去就回本)**
+
+17:55
+
+`swimming` `gaming` `ref`
+
+playing df...
+
+另一套.
+
+**三级套 g18. (s12k 不行)**
+
+用骇爪.
+
+18:50
+
+`writing` `ref`
+
+writing pure / chemistry chapter 1...
+
+revised some hints.
+
+**just go into flow. forget all about solanum...**
+
+**(wikipedia suggests pomodoro using paper and timer to make one conscious about it...)**
+
+20:26
+
+`gaming` `ref`
+
+played df.
+
+**连跪好几把, 终于撤离了一把机密大坝...**
+
+用的最高级的装备卷, 骇爪.
+
+- 就想把装备带出来, 开局就标撤离点了... 但还是跟着队友吧, 去行政楼...
+- 赛义德刷新了, f 在门口等队友死, 结果队友竟然一梭子给他打了, wtf.
+- f 直接拉闸, 队友在最后几秒被阴了, f 本来没看时间, 来不及了, 结果反而赚了.
+- 扫描了一下, 一个 4 套, 一个 5 套, 有烟有火... 赶紧跑. 也懒得报了. 反正设置里所有语音静音了 (救人都隐藏了).
+- 那两人好像一伙的(想来野排的基本要被赛义德秒), 另一个人狂想报仇, 难怪那人似了半天不退.
+- 杀了一个, 然后似了(那人打了 13min, 所以 f 也不知道). 你自求多福吧...
+- 最后小赚, 把装备卷带出来了, 还有几个金. 不知道为什么这游戏装备算得贵, 金不贵, 但夺舍的一般都没耐久啊.
+- 打了 12min.
+
+总之这装备卷不错, 人机打我没啥伤害了, 开镜也能看, 有大战场一半强度了.
+
+## 20241224
+
+00:47
+
+`bangumi`
+
+watched evangelion episode 6.
+
+`swimming` `gaming`
+
+df kisflow 也是大战场 player 去往摸金的...
+
+有意思喵~
+
+`school`
+
+fin exam:
+
+**two days left.**
+
+02:xx
+
+`live`
+
+watched old skilled tofu live.
+
+网速依然逆天, 半夜只有几kb, 还闪烁. 白天倒是能上mb.
+
+**sleep.**
+
+11:xx
+
+got up.
+
+returned digital homes.
+
+13:xx
+
+`dev`
+
+ask mistral to write search function.
+
+source: blogging/voyagejs/search.js
+
+13:21
+
+`dev`
+
+upd fonts. added open sans.
+
