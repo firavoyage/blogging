@@ -253,7 +253,7 @@
   - web worker (xinbao & lv777 & pakchoi & kaiyi & smart)
   - yitianshijie (li ruyi)
   - yixi (yixi)
-- - wikipedia
+- - wikipedia & wikipedian profiles
   - github & the pirate bay & z library & anna's archive
   - internet archive wayback machine & archive.today
   - google & mistral le chat & awesome gpt prompts
@@ -362,7 +362,7 @@
   - change release & mihoyo insane
   - chen liangzhou pink rabbit codeforces & gi
   - chen ruihan djhs & history enthusiast
-  - chen shiyu djhs & chinese allusions & waifu daisuki
+  - chen shiyu djhs & 26 yo youth & chinese allusions & waifu daisuki
   - chen suiyi chenbimo & web dev
   - chen xiao & origami
   - chen zhiwei ldhs djhs
@@ -408,6 +408,7 @@
   - jiang yanyan & oi teaching & os dev
   - jiang zhijun djhs & champ
   - jiangly not dd codeforces & oi champ
+  - jimmy wales & wikipedia founding
   - jin jinjin ldhs & kind class master
   - jin luochen djhs & primary schooler
   - jin yudong krahets & algorithms guide
@@ -422,6 +423,7 @@
   - kiun b & yakutsk life
   - kkksc03 & zhihu swimming & luogu founding
   - kyth & jike xiaoyuzhou founding
+  - larry sanger & wikipedia founding
   - lex fridman & dev conversation
   - li xinshuo djhs & anime otaku girl
   - liu mingye & web dev & music tools
@@ -437,6 +439,7 @@
   - magicalflower codeforces
   - marco arment & overcast founding
   - math contest fei bro
+  - mayx mabbs & 23 yo geek & sayhuahuo early days & say hanabi dev founding
   - memoir of prosperity sr
   - menci codeforces & oi wiki writing & libre oj founding
   - mike mirzayanov & codeforces founding
@@ -622,18 +625,12 @@
   - the answer is predictive of your behavior
   - better to get your dopamine from improving your ideas than from having them validated
   - it's ok to get yours from "making things happen"
-- hkrr theory
-  - happiness, actually a kind of resonance. maybe elation better
-  - knowledge, or a sense of hearing something unknown
-  - resonance, the representation of one's memories
-  - rhythm, what keeps everything from getting boring
 - i do not know what i may appear to the world
   - but to myself i seem to have been only like a boy playing on the sea-shore
   - and diverting myself in now and then finding a smoother pebble or a prettier shell than ordinary
   - whilst the great ocean of truth lay all undiscovered before me
 - knowledge isn't free
   - you have to pay attention
-  - where are geniuses' attention dissolved?
 - tell me, and i will forget
   - show me, and i may remember
   - involve me, and i will understand
@@ -686,8 +683,11 @@
   - build early, build always
   - improve yourself, write solid/simple/stupid code
   - live in the future and build what's missing
-- a ship in harbor is safe
-  - but that is not what ships are built for
+- hkrr theory
+  - happiness, actually a kind of resonance. maybe elation better
+  - knowledge, or a sense of hearing something unknown
+  - resonance, the representation of one's memories
+  - rhythm, what keeps everything from getting boring
 - if it looks like a duck
   - swims like a duck
   - and quacks like a duck
@@ -745,43 +745,29 @@
 
 ## erudition
 
-- people
-  - `livid` letter to solitary youth
+- capsule
+  - `livid` letter to the solitary youth
   - `nat` belief of a tech entrepreneur
   - `ruanyf` observation of the digital time
   - `florio` advice for the programming ride
   - `jiangyanyan` cs researchers and the time
-  - `tim` mediastorm early days
-  - `dhh` the handsome geek
-  - `bhaget` worries about the 4gotten generation
+  - `tim` reflection of mediastorm early days
+  - `dhh` the bio of a handsome geek
+  - `4gotten` impact of fast internet speed
   - `reflections` memories of the fellows
-- ideas
+- creation
   - `projects` worthwhile endeavours
   - `mistral` walk in the light with le chat
-  - `prompts` unfold the panoply of answers
-  - `wisdom` foresights and references
-  - `quotes` perspective and thoughts
-  - `idioms` lines and memes just for fun
+  - `prompts` unfold the panoply of words
+  - `quotes` sights of the surfer
+  - `wisdom` references to the mind flow
   - `comments` what i have heard as a student
   - `fin` words at the end of the day
 - self
-  - `weekly` weekly plans at each time
-  - `timeln` personal discoveries and thoughts
-  - `djhs` wax and wane of school life
-  - `swim` libre internet guide
-  - `email` to contact me
-- config
-  - $\to \text{/config}$
-  - `ubuntu config` elegant work flow
-  - `list ...` preferences
-  - `terminal ...` shortcuts
-  - `...` ...
-- notes
-  - $\to \text{/notes}$
-  - `design` psychology of design
-  - `xbox` video game sightseeing
-  - `symbols` latex symbols spec
-  - `...` ...
+  - `ubuntu` guide to an elegant work flow
+  - `weekly` weekly plans for distinct times
+  - `timeln` everyday scripts and vibes
+  - `djhs` wax and wane of the school life
 
 ## gamut
 

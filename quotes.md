@@ -1,387 +1,113 @@
 # quotes
 
-## course design issues
+## the literature is the time
 
-- 乏味,入睡,出神,恍惚.
-- 课本.练习册.编写.
-- 电子蓝光.
+凡一代有一代之文学：楚之骚，汉之赋，六代之骈语，唐之诗，宋之词，元之曲，皆所谓一代之文学，而后世莫能继焉者也。
+(王国维 "人间词话")
 
-## pure math tutorial writing style
+## mihoyo lines
 
-经典硅谷程序员思想.
-抽象和化简
-(kksk)
+rules,are made to be broken
 
-upd
-高中的时候喜欢做英语阅读
-读到"reading is active while watching tv is passive"的观点
-我还引用到了 readme 里面,因为太喜欢了
+memories,are the language of rosemary flowers
 
-更激进地,我甚至想一句话也不说
-老师说话,除了让课堂变得热闹,没什么用
+no sacrifice shall go unrewarded
 
-如果要吸引注意力,就把需要的内容独立成段,或者用 markdown blockquote 渲染
-如果要表达情感,就直接引用角色,比如星穹铁道的,那些是很广为人知的意象
-如果要标注信息,就直接用 material 画插图,最好直接手绘在浅黄纸上
+solitary clouds shadow in the setting sun stirs the drifter's heart
 
-不如直接读书?那些书写的枯燥乏味.
-说白了我也是个写书人,只想做个写书人.
+if you ever miss me just close your eyes maybe i will appear in your dreams
 
-可能只有举例子的时候要说话吧...
-找乐子可简单了,
+one has hexagramatic position has always in flux. planning is paramount
 
-- treat life as merely playing games "american meme" "sliver wolf"
-- rethink the surrounding world "digdog snapcat berryberry"
-- mosiac on non-nsfw images "symbol of popular subcultures"
-- acg otaku dialect "upstart words" "anime lines"
-- be perfectly poised "solve anything in a few words" "straight forward and clearly written nsfws"
-- after class episodes "music break from bangumis"
-- express theories knowingly "throw problems and answer them without voice"
+i weap for the departed
 
-upd
-虽然也可以堆起书本,拥起符号
-我想我要做些鼓励...
-更具体地
-在`pre>h1`后面
-加上一个`扉页`
-标题是大拇指 emoji
-内容是一张图片
-有一个人,一个课桌,草稿本,笔,计算器.没有书或者练习册
-...
-言传身教:
-顶格写大字.
+dusk's rain... it too shall fall.
 
-upd
-我得创造些网络迷因
-我得用英语说话 (ref yt:epcdiy)
+rain shall fall
 
-upd
-有许多学科都值得我教学
-可惜有些学科,广泛教材写的不好,民间教材也烂.
-...
-道理很简单
-有些学科,即使失去了升学主义的光辉,教材依然灿烂
-有些学科,反之,教材就不知如何编写了
+stream forth, the gleam of old blades
 
-upd
-同学教的好啊,老师不行的,太专业了
-...
-比如我们来学校,就是寻个乐子,哪个解法欢愉就哪个
-像特值,计算器,打表找规律...
-这些在祂们看来至少都不是最优解
-标准答案是工整清楚啊,然后就没兴趣看了
-...
-比如我们有些最基本的抽象
-像一个计算,我们会说,"这个式子算最后,这些全都会消掉,等于..."
-然后,就发现老师在黑板上吭哧吭哧消给你看,写个五六行
-像解三角形,我们会说,"三角形 abc,这个这个这个知道了,那这个也知道了,..."
-然后,就发现老师在那说着什么"正弦定理""余弦定理"之类的话,教室里充满快活的气氛
-...
-比如我们知道,啥步骤是重要的
-像老师洋洋洒洒写个二十行
-我问同学这题咋做,可能就三句话懂了
-因为其实一个方法真正重要的就那么几步
+Existence is fleeting as the dawn's dew, destined for oblivion.
 
-upd
-继承老王的衣钵
-...
-是想啊
-可是怎么可能呢... (ref "...除非穿上他的鞋子,走他走过的路,否则永远无法理解...")
-别说多活 40 岁 (老王 1960s?)
-就是多活 10 岁,也不可能啊 (ref "回形针 PaperClip")
-就只是可怜的孩子吧... (ref "粘连科技")
+On the still waters of oblivion, I guide the wandering souls.
 
-upd
-哪有人听老师是为了学习啊
-...
-要么是为了打发时间
-不然 12 个小时也无从安放
-像古人有说书的,今天没了,需求还在
-有些人去翻网文了,学校里的听老师讲讲文言文也舒服
-...
-要么是去寻个乐子
-像教师最后一排,带着耳机,背着泡面的
-风格参考 "粘连科技" "小日童" "逍遥散人" "回形针 PaperClip"
-...
-要么是去对弈的
-人从老师那里得不到啥子
-主要是和同学竞技的,"这不是很简单吗"
-当然一页草稿一道题算一天,也很有意思
-风格参考 "jiangzhijun" "lvfuyuan"
-...
-真想学的
-教材也不用另外买
-买本解析详细的
-什么难度的都有啊
+Lone voyagers in the cosmos are driven by two desires: to tread in the trails of the past, and to forge their own way. But under THEIR scrutiny... most end up adhering to the former.
 
-upd
-建议你"3+1"去选个历史
-进个上师大,学中文 (ref jiangzhijun "阿拉藕塘嘎辣鸡啦!上师大本科都能进啦")
-出来一口一个"骈散结合" "纵横捭阖" "不落窠臼" "背面傅粉"
-教室里充满了快活的气氛
-...
-对了 (ref 逍遥散人 "绝区零制作的好,我就是要吹")
-也不必如此了 (ref 逍遥散人 "不喜欢这个模式的,就像直接五个字回合制不玩,就行了")
-直接说"个人化的表达"就行了 (ref "wikipedia guide")
-显得很厉害
+Our journey begins anew. Life passes like a fleeting rain, eventually merging with the ground. May our next encounter be... under a clear sky.
 
-## work on what
+When I awoke from that place, the sea's horizon still held faint thunder, and the falling blood rain was easing — the sight of that moment lay strikingly clear before me.
 
-数学
-基于公理和定义
-而非基于实验或文化
-...
-另一些也很有意思
-但更像是发掘于过去
-而非思考于当下
-...
-编程
-一边连接着
-开发者对优雅的理解
-一边连接着
-创业者在硅谷的文化
-...
-还有一些
-我也认真对待过
-与享乐主义或机会主义有关
-也很好
-(ref f "不妨让十年后的我教现在的自己,总比这些老师强些吧")
+Perhaps there's more than one right answer.
 
-upd
-我喜欢,艺术与文化
-...
-我想,形式从于内容
-与此同时
-文学如形式,理学如内容
-...
-不想,带着客观世界的重重枷锁思考
-更具体地
-希望祂基于定义与推理,而非实验与工业
-代数几何与程序设计,都是不错的例子
+愿母神三度为你阖眼，令你的血脉鼓动，旅程永远坦途，诡计永不败露。
 
-## exam oriented
+If you're not solving problems or writing up contributions, then don't blame me if your life is boring.
 
-在功利的维度中,努力的价值边际递减
-在超功利的维度中,不然.
-(ref "过程 v 结果")
-...
-简单地
-如果你是这个世界的人,那很好
+I'm perfect enough already. What else do I need to prove? Of course, I could write a few more books... but what would I get out of that? Why should I bother?
 
-> 掷飞镖.扔偏了?没关系,爸爸再给你买一个.
-> 如果你得到了神明的帮助,那也很好
-> 这不是很简单吗?举重若轻.
-> 不过是个知识世界的导游
-> 那些可怜的愚蠢的人类
-> 就更不必批评应试教育了
-> ...
-> 或云,为何要让多数人陪跑
-> 或许是当局者迷的幻象
-> 然亦不可逃避的历史过程
-> ...
-> 或云,个人提升是性价比最高的努力
-> 投资常识,风险低的往往收益低
-> ...
-> 或云,可以检测学习成果
-> 课后练习即可
-> (ref 周玄毅 "内卷辩 > 筛选不创造价值")
+既不解题又不写稿，那就别怪自己的人生无趣咯？
 
-upd
-千百年前
-数学家们的草稿上,演算着今天的定理
-物理学家们的工作台上,进行着今天的实验
-或许
-步骤繁复与实现细节不同
-但论其本质
-只是解决命题,思考步骤.
+我已经够完美了，还有什么事要做？我当然可以再写几本书…但这于我何用，我为什么还要白费这些力气？
 
-那时候
-人们以务农为生
-科学研究许多时候没有功利的报酬
-理学往往是旧时贵族的成就
-超功利地,为什么人们从无数的可能性中,选择了这些命题研究呢
-大概是祂们"有意思"吧
+知识要用苦痛来换取
 
-而今天的阅读理解,
-不说千百年前的文学家
-就在几十年前,也未必是这样的题
+修改现实数据而已,不值一提的小把戏.
 
-今人是多少激进,才能打破先验的历史呢
-我不知道
-我只是看到了大量于之的批评
-想着大概莫出于此吧
+## livid
 
-我一直以为,文学不是每个人的游戏
-一些默写记忆和解题技巧,确实可以通过不断重复进行传授
-可是那些真正的意趣,奇妙的比喻,生动的单子动词,情感寄托的意象
-真的能通过朴素的教与学获取吗
-我不知道
+do have faith in what you are doing
 
-或许,当下的教育,只是从无尽的书海中
-选出最富于表现手法的那些,批注上名家的解读
-然后,那些善于想象,善于类比的孩子,自然能习得些"文采"
-至于那个更广阔的世界,不妨从流飘荡,任意东西
+world is powered by solitude
 
-我想
-数学,对于非压轴题,若要检验一个定理的应用,或许改些数据就能达到目的
-文学,当不重复的题目被批量生产,不知其中有多少是真正值得分析和解读的
+gravitated and spellbound
 
-当迎面吹来应试教育的风
-看看那些孩子和试题,这是否好事,谁知道呢
+beautifully advance
 
-## university entrance exam aspiration
+## english brain joke
 
-(school)
+There are three words in the English language that end in -gry. One is hungry and another is angry. What is the third word? Everyone uses this word every day; everyone knows what it means and what it stands for. If you've listened closely, I've already told you what the word is.
 
-...:
-志愿怎么填
-陈:
-下夸克
-(板书 "夸克 app")
-张雪峰和李雪琴代言的
-教你填志愿
+## joker film line
 
-f:
-老王
-我们将来填志愿
-你推荐我们填数学教育吗
-将来当数学老师
-王:
-填你喜欢的,将来想做什么就填什么
-...:
-(f 当老师的话)第一节课,"导数"
-f:
-那你推荐吗?
-王:
-我们那时候工作主要是为了吃饭.
-现在,你做你喜欢的事,一个月一万,八千都行
-做不想做的,一个月三万也没用
-f:
-(兴奋)
-王:
-现在经济发展了,生活的物质基础都有了
-比如你们上海的,
-(-> 一个女孩,是那个立达三班校友)
-家里房子都有吧!
-(女孩轻轻点头)
-其实啊,
-就是一个月三千,也能活得不错.
-所以啊,最重要的,
-就是过得快乐,按你的兴趣去选就行了
-f:
-(赞许)
+ok.i'm waiting for the punchline.
 
-upd
-抛开功利不谈
-一方面
-行情是一时的,兴趣才是永远的
-(ref "强度是一时的,xp 才是永远的")
-另一方面
-现在物质基础普及
-很多时候,金钱只是刺激无尽贪欲
-(ref "刘擎西方现代思想讲义 > 消费主义对人的异化")
-...
-个人地
-可能是童年爱好的延续
-接收到的信息
-大多关于科技行业
-看到了太多"成功"的程序员,设计师,创业者
-而有些人,如师者,医者,我甚至不清楚"成功"的意义
+there's no punchline.it's not a joke.
 
-## blackboard
+## playboy quotes
 
-黑板是个好东西,学生看着舒服,也很怀旧
-就是写字不好拐弯(摩擦力大...),还容易断
-白板也不错,可惜太滑溜了,反光的白色#fff 也很刺眼,最好#eee 以下
-一晃一晃的像块大铁皮,一落笔就压陷下去
-...
-所以最后我就喜欢两种
-一个是草稿纸书写,用投影仪之类的(0.7 水性笔,浅黄纸张)
-(ref bili 上交 kira) (ref bili cjy_e)
-另一个是直接 laptop.ubuntu 上用 code 写 markdown
-然后用 para 和 pre 渲染
-(ref bili 绿导师原谅你了)
+如果祂涉世未深,就带她见世间繁华.
+如果祂历尽沧桑,就带她骑旋转木马.
 
-## teacher
+你们都是我的翅膀啊
 
-个人地
-喜欢 30 以下的,50 以上的老师
-...
-30 以下
-教学的源头活水
+有技兄这
+迟 b 片
+已 b 片
+申鹤重云了
 
-- 如幻灯片的设计,采用低饱和度的颜色,而非大红大绿大黄,排版不拥挤
-  不像一些人,刚学电脑善于堆积内容,外卖(takeaways)和钥匙(keys)是找不到的,把讲义搬进演示照着念,审美深受千禧年路边招牌影响
-- 如艺术与文化学科,看过近 10 年的新书新片,了解网言网语
-  至少能和学生(就差个 decade 不到)聊的来,听书困了看看帅哥靓妹(waifu instead of sensei)也是很舒服的,上课善于用词("超绝" "逆天" ...)
-- 如教师基础,普通话和写字都不错,了解教育心理学
-  不像当年入行标准低,有的善于体罚谩骂学生,有的声线龙飞凤舞,对我说的就是我们校长之一
-- 如个人活力,愿意自己创作,归纳内容,总结题型
-  而不是倾向于搜集引用,尤其在良币不完备不自由的当下(章节覆盖不全,质量参差不齐,优质内容多为培训机构私有)
-  ...
-  50 以上
-  老子的无为而治
-- 如个人活力,乐天知命,不善于对学生发表情绪
-  对于偷懒的孩子,祂可能只是想举重若轻地学习,
-  或许因材施教,就选两道题给祂们,填空和选择第一道,或者填空和解答最后一道都可以
-  对于一个上课聊天的孩子,祂可能只是不喜欢这门课(教学和课本)
-  一点不想学的不妨直接扔出去,会一点的给半块黑板或者草稿纸做题,然后点赞或者嘲讽一下
-  哪怕不因材施教,也好过认真批评(实则不过个人愤怒)一番,一点也不尊重个人选择
-- 如怀旧心态,远离高科技诱惑
-  在白板或者黑板上写字,其实很舒服,就像看书而不是看视频
-  用浅黄草稿纸或者再生纸配合投影仪也很好,比刺眼的增白剂好多了
-  而且远离电子世界的纷纷扰扰和功利浮躁,没有什么弹出广告和恶心的#ff0000 电子笔
-  更重要的是自由,想写啥直接来一笔,不用拖个文本框再按键盘选词再排版配色装饰,然后在演示模式和 bug 和编辑模式里横跳
-- 电子化的一笔,是刺眼的蓝光,是拖动文本框,是敲键盘选词,是形式主义激荡(ref 六朝骈文)
-- 怀旧的一笔,只是举重若轻地,拿起笔,划过去
-  除了老师费力,对学生嘎嘎都是好处
-  我们 djhs 职高的 wangzhaohai 真是太棒了
-- 如人生哲理,见过各种各样的人生和题目
-  随手拿起一道 200x 年的考题就开始讲了,我出生了吗
-  虽然没有酒,故事不少,有的一个暑假逆天改命的,有的学习不行最后飞黄腾达的
-  都是非虚构文学,或者说真实故事改编
-  还有的自己就去过美国留学,在 200x 年在美国人家里借住,有很多文化可以引用
-  我们 djhs 职高真是太棒了
-  ...
-  对了,为什么 djhs 是职高(dajing vocational high school affl2sisu)
-  ~因为上海少爷,这的重点在那里就是职高~
-  因为这里既有
-- 经常打架("替天行道")的
-- 一直睡觉("出世的心态做入世的事")的
-- 上课戴耳机("认真听听力")的
-- 下课打游戏("经验之谈,玩星穹,玩野狐,玩荒野乱斗,皇室战争,炉石传说的数学都很好,玩原神,明朝或者看动漫的不行")的
-- 后排聊天("钻研数学")的
-  也有
-- 下课在黑板上讨论("数学物理化学")的
-- 提出很爽解法("反三角/解方程/打表秒了,开导秒了,图像法秒了")的
-- 学习举重若轻("我从来不交的,放学书包就扔了,其实少爷做一张顶你抄七张")的
-- 考试灵活变通("看你原文注释翻译背半天,少爷一张英语把你拉平,一道大题把你干翻")的
-  可以说是连接了两个世界("no wonder it's called vocational high school")
+loli 有三好,身轻体柔易推倒
 
-## promote rat race
+怒艹大伟哥
 
-caozheng(biology):
-(高一下期末考,即将选科分班)
-我看到许多同学都没带试卷...
-好遗憾啊
-最后一节课了
-连试卷都没有...
+世界上没有什么事儿是一发 8088 不能解决的
+如果有,那就两发
+(亚洲骗氪天王,尼古拉斯.大伟哥)
 
-c:
-我一直认为选三门理科(物化生)的都是勇士
-因为我女儿正上初三(讲故事)
-(讨论分配制度,对比名校内容)
-c:
-(对比其他学校进度)
-你们暑假得学起来了
-不会自学怎么办,看空中课堂
-我也参加过空中课堂的录制
-别看就 20 分钟,准备很久
-(称赞质量)
-因为等到高二
-(鼓励内卷)
+## djhs chenshiyu quote
 
-## about future
+陈时前说称 诗 书 生骂之曰 乃公凭数英而得之 安事诗书
+
+(境高书生列传)
+
+## djhs wangzhaohai quote
+
+拼搏是兴奋剂,时间是止痛药
+
+## djhs jiangzhijun quote
+
+这不是很简单吗...
+
+## chat with djhs jiangzhijun about future
 
 f:
 我们高一的老师会和我们一起升上去吗
@@ -475,342 +201,9 @@ f:
 这学期一直 a+,但最好就年三了
 (其实我只学语数英...小学科没有及格的)
 ff:
-那你这样华师大挺稳的
+那你这样华师大挺稳的 (?)
 
-## life memories
-
-`important`
-
-(2 young 2 naive,written in my early age)
-...
-创作生涯
-13 岁那年疫情流行我宅着
-读了一些关于编程的书,好些关于编程的书
-于是误入歧途 qwq
-我曾经在许多语言和事项中徘徊
-最后发现竞赛导向的算法终究是天才们的娱乐
-就像几年前的奥数
-而数据和运算之外的,视觉上的呈现
-曾经百家争鸣,现在只剩 chromium 和 webview
-于是一往无前,踏上了不归路 qwq
-技术终究只是技术,能做的事情却真的有许多
-只要敢想
-最容易想到的大概是
-`adobe` `coursera` 公司做的事了吧
-前者泛指工具的创造,后者泛指个人化的表达
-我当然也不例外
-不过我喜欢记录和创作,回头看这很大程度上决定了我
-于是有了/blogging
-内容杂乱无章,就像我忘我时的思绪
-不过有索引 #words
-upd
-前者如果有方法大概是两件事
-第一是去`product hunt`寻找灵感
-第二是去 google 搜索这个想法,如果出来许多内页说明很可能是好机会
-反之说明竞争很激烈了
-后者如果有方法大概是两件事
-第一是通过访问量排名,发现人们最关心的,然后找几条最受欢迎的内容
-必须是长期存在的知识,而不是时效性的新闻,或者高难度的制作(比如有 team 和 vc 支持的内容)
-第二是总结这几条内容,进行归纳(保留共性...)和润色(排版,插图...),优雅地表达
-至于发布(标题,封面...)和营销(商业推广,热点...),只是催化剂,并不是最关键的
-二者都可能遇到不择手段的竞争者
-他们总能有效规避(倾销法,劳动法,垄断法,知识产权法...)
-我并不害怕
-原因有二
-一是对于时代而言,一切都会过去,那些真正宝贵的东西才会被留下来,这我是知道的
-live in the future and build what's missing (paul graham)
-二是对于个人而言,网络上有一些,并不少的一些真实故事,我其实是那一些创作者,之一
-Thus began our journey to 2023, a bumpy road involving a combination of continuous savings by our owners (that is, by their retaining earnings), the power of compounding, our avoidance of major mistakes and – most important of all – the American Tailwind. America would have done fine without Berkshire. The reverse is not true.(warren buffett)
-upd
-另外
-人生是失败的总和(ruanyf)
-我相信之,这也是为什么我做出了那些激进的决定把
-...
-校园生涯
-毫无疑问选拔性高考是最简单的道路
-对于大部分人而言
-对此我当然有很多话想说
-最简单的反驳是人生没有捷径,`认识你自己`从无容易可言
-此刻的不假思索,注定与彼刻的迷茫困顿有着千丝万缕的联系
-但是对于他们,那么多的他们...
-我后来理解了
-人的精神是有限的
-为什么不能在此处懒些,别处再接着探索呢
-况且他们或许很有能力做到
-upd
-就是世界上咋有那么多的声音啊
-总能看到洗脑的,鸡汤的,讽刺的,鼓励拼命的,鼓励休闲的...
-他们看不到个人选择的意义吗
-他们居心何在?
-...
-生活近况
-我现在最不缺的就是时间
-因为在一些对于别人而言没有选择的事情
-我都做出了激进的选择
-大概做两件事
-第一是总结学科知识
-我是有许多喜欢的学科的(就是大三门)
-我不敢说稳定年级第一
-但是我确实用少的蛮力多的思维稳定在了 a+
-再往上就真的要拼命了,不过我有更重要的事要做
-这种底气当然主要源自外因,那些不由个人意志转移的资本
-不过人各有志,人各有各的悲欢,我知道这没什么稀奇的
-就像我从不把此方的人与彼方的人相比较,没必要
-第二是为将来的创作铺平道路
-几年前我确实可以快速实现许多炫酷的效果
-现在不然,只是我对一些细节有了更多的关注
-
-- 数据分离,所有写死的`字符串` `数字`都定义为常量放在开头
-- 提前规划,不能在开发的时候纠结界面样式或者用户需求的细节
-- 表达极简,对语法有了一些激进的追求,(firascript)
-- 组件化,对框架有了一些激进的追求,(voyage)
-- 模块化,我通常在草稿纸上构思程序架构
-  为了这些,我正在学习一些` 高级语法``架构设计``项目经验 `相关的内容
-  就是这些
-
-## education background
-
-`important`
-
-schools
-
-- huininglu no3 primary school
-- lida junior high school
-- dajing vocational high school
-  ...
-  ps
-- became a netizen
-- tried scratch and pygame
-  ...
-  jhs
-- tried oi but couldnt understand math in algorithms so gave up
-- received a few books from a friend including web dev ones
-- my frontend journey began
-- wrote some frontend tut with naive writing appoach
-  ...
-  vhs
-- became a digital hoarder
-- moved my home in ubuntu
-- tried to create an elegant work flow
-  ...
-  hs entrance exam
-  sum 684 //max 750
-  chinese 121 //会心之乐
-  math 145 //last problem 1:2 while i guessed (sqrt5-1)/2
-  english 136 //writing suggestions wtf
-  physics 65 //i dont love physics
-  chemistry 47 //some confusing multi selection problems
-  geo&bio 13 //i love geo perhaps?
-  experiment 15
-  history 25 + 30 //i hate history
-  politics 27 + 30
-  pe 30
-  ...
-  for exam results in high school
-  -> djhs_grades
-
-## emails
-
-`important`
-
-- `firavoyage@outlook.com`
-  send message here
-- `xoyage@gmail.com`
-  for google oauth login
-- `devvhy@zoho.com.cn` `devvhy@zohomail.cn`
-  registered some apps
-- `firav@qq.com`
-  unused
-- `firavoyage@foxmail.com`
-  unused
-
-## people discovered at school
-
-`important`
-
-- self
-  - 20070917
-  - shanghai
-- lida junior high school
-  - self(2-41)
-  - 2-11 //#1,calm and easy girl,went to qibao high school
-  - 2-29 //among the top students,math lover,confident boy,football player
-  - 2-37 //stupid one,small size boy,genshin and brawlstars player,lovely and naive
-  - zhangchuanzhi //teach chemistry,love doing experiments,great humor,1960s or 1970s,insight of the world
-- dajing vocational high school
-  - 02 03 07 09 //stylish girls
-  - self(6-28)
-  - chenshiyu //1998,waifu instead of sensei,play our video games,low saturation ppt,writing noskill,2016 shanghai uee -> shanghai normal school,2022 -> djhs,teached "last session" students
-  - wangzhaohai //1960s?,variable substitute & function image master,one with humor & enthusiasm,phone bell "五十年以后"
-  - lujianhong //1980s?,studied in us,stories of students taught,one with idioms and foreign culture
-  - jiangzhijun(6-21) //greatest competitor of grade #1,chess go master5,spent over 1000y in brawlstars cn server
-  - lvfuyuan //math god with obesity
-  - wangxiaofeng dixuchen //nsfw humor and acg lover
-  - dixuchen //nsfw and adolescent conceit
-  - friends in class 1 //believers & music lovers
-  - friends in class 4 //football players
-  - friends in class 7 //mobile gamers
-
-fira
-"开导,打表,求解"
-"简单技巧不用动脑"
-djhs g1t1 master
-
-jiang
-"这不是很简单吗"
-"蒋门永存"
-djhs g1t2 master
-
-## genshin impact life changing
-
-`important`
-
-Genshin is honestly life changing. I haven't played a game this fun in years
-
-One of my favorite games has been World of Warcraft, and it has gotten increasingly lackluster over the years. Exploration is barely rewarded anymore, travel is incredibly fast and you can fly, so the sense of exploration is diminished rapidly, and worst of all, the story is just so memelike that it's hard to take seriously anymore. So I try a handful of other titles/franchises I'm familiar with, and it's all the same exact thing. Cookie cutter, boring, mediocre story. You name it, I've tried it, and got bored with it. Pokemon games, Final Fantasy, Destiny... All so boring, and low effort at least in my own experience. I find myself really craving adventure, so I tried Genshin, a game that game up on suggested games on Epic launcher, and...
-
-Wow. This game is insane. The massive open world is gorgeous. It's like stepping into a whole brand new anime style world where you can just roam around, explore, chill, the quests and stories are really fun and lighthearted. Coming from WoW, it is refreshing to have a story that makes sense, and doesn't sound like some cringe fan fic.
-
-In the more I play this game, I find myself wondering, why can't other games be more like this? Why can't other games have a coherent story, crisp and clean graphics, believable characters, and not feel like a meme 90% of the time? It just escapes me. This game is seriously life changing. I've really missed having something so simple and blissfully fun to play.
-
-(reddit)
-
-## shanghai retro
-
-`important`
-
-在那些阳光最不饶人的日子
-我身边有`小胖` `小雅` `小丁丁`
-还有`Alice` `Peter` `Danny`
-
-## save webpage
-
-今天去 reddit 上网
-看到有意思的,保存`mhtml`
-打开发现一堆混乱格式
-都是有`shadow-root`的东西
-`html template`,你都做了什么好事啊
-我不关心如何实现的
-只知道本该由框架完成的事情
-为何纳入了 html 规范?
-`css variable`我想也并非一个好的设计
-祂似乎本该是预编译器的工作啊
-...
-我的设想是
-html 不做任何`抽象化`的设计
-这些由框架,预编译器完成
-我手中只是一个纯洁的内容
-
-- 甚至`div嵌套`都可以避免
-  所有节点都是最高层的,没有子节点
-  js 获取屏幕长宽
-  然后一切都`position absolute`
-  框架计算定位
-- 甚至`css`都可以避免
-  由 js 计算样式,赋予每个 el.style
-  ...
-  说白了还是`reddit`的过失
-  创建了无意义节点和过度抽象
-  但`html规范`也有罪
-  比如你甚至可以创建一个透明层次
-  `z-index 999 wid 1000px hei 1000px`
-  挡住所有用户鼠标行为,但是不展示内容
-  ...
-  想到了保存 pdf
-  虽然看上去还行,可毕竟不是网页了
-  最后,去调试面板`disabled javascript`
-  然后,把没意思的元素`vis hidden`
-  重新来过,效果一般,但无奈
-  ...
-  想着,当一切都以如此方式呈现...
-  网络便充斥着幻影,永远无法优雅地捕捉
-  互联网恐怖
-
-upd
-发现 firefox 也不支持 mhtml.
-其实那是 web template,先进的东西.
-不过似乎有插件,是直接保存 html,资源转换 base64.
-
-upd
-reddit old.搞定
-
-## reminiscence
-
-好想回到高中
-让那个十六岁的孩子倚在我身上
-我会告诉祂,不要理会这个世界,听自己内心的声音
-我还会告诉祂,数学要如何学,英语要如何学...
-
-## time and mission
-
-mission: make tools elegant
-
-"the problem is that you think you have time"
-空闲时,我渴望消遣
-忙碌时,我渴望时间
-矛盾.
-
-我想
-我十年后很可能要创作内容
-无非教知识或者教技术
-
-教育行业好,尤其是现在站在学生视角,在高中
-我向师长学习,也向班友学习
-感觉老师教的都不如同学教的好
-所以等待我和我的同辈做的事情许多
-
-究其所以
-我想,很多和我一样的孩子
-哪有分数(台阶)的压力,中学生活不过寻个乐子
-比如老王(wangzhaohai,1960s),善于严谨证明,计算易错但强在思路清晰
-我喜欢他,不过喜欢他的悠然自得,游刃有余
-很喜欢在课上计算,经常算错,总能自己发现并修正
-我和我的同学就不一样了,两句顶十句话,
-不仅会翻译人话,比如"≡mod -> a%b=c" "limx+inf -> l" "a 是角 A 的对边 -> rm" etc.
-还留一手 "惊人的注意力(打表找规律)" "计算器解了(近似化精确)" "举重若轻(抽象跳步)"
-太欢愉了
-比如英文(lujianhong),或许很懂专业八级
-也很有解题经验,但她显然不懂无心插柳柳成荫的乐趣
-歪打正着(就看一个词)比旁征博引(分析上下文)可有意思多了
-比如 waifu(chenshiyu),的确参加过 2016 上海高考
-这就是 26 岁~纯情少女~的含金量吗
-网言网语就不说了,反正上课不记得了,应该没有 h
-虽然偶尔发病(讲些文学理论,字词解析),不过绝对可以把思春期肥宅玩死
-反正就算你误入正途,我们 djvhs 少年也能把你拽回来
-
-当然最后我们都还不错,虽然和普高(四校)还是比不了,能拿个 a 或者 a+,运气好#1 #2 #3
-毕竟我们比大多数不得神助(没有学习兴趣)的,或者没有纯真(抓住解题技巧)的强多了
-
-也可能自己干,做独立开发
-但更可能是一种`research`而非`practice`
-最后还是变成了市场实验室的样本
-而非一个有商业价值的产品
-
-"live in the future and build what's missing"
-我得行动起来,`weekly`企划写好了,暑假有时间.
-
-## school lover
-
-`important`
-
-"here at dajing vocational high school
-there are a lot of lovers i've found."
-
-是啊
-可是那些恋爱的孩子也只是在恋爱
-更极端地
-或许每天只是在做着同样的动作,说着无差的话,像是在模仿昨日的影子
-很大程度上,我也一类人
-在不变不移的校园里,寻乐子
-只是平常的,却如此令我兴奋,或许是每道题都不一样吧
-那些乐子,一半是计算器给的,一半是纯真给的,还有一些是神明(jiangzhijun,lvfuyuan)给的
-
-"打表秒了" "反三角秒了" "解方程秒了"
-"直接开导" "直接建系"
-
-## high school grade 1 term 2 last day
-
-`important`
+## djhs g1t2 last day
 
 a life at school.
 
@@ -876,123 +269,419 @@ f:
 第三问一定要看会看懂
 答案写得很详细.
 
-## vacation homework
+## nicholas wei bro
 
-当莫名其妙地听到世界的声音
-不妨假设这是件好事
-然后去猜测
-祂提升了上限,还是提升了下限?
+(战术摇头)
 
-暑假作业的题目大致浏览了.
-不想做的,不做.
+哇!她的翅膀好翘啊!她的帽子好大啊!
 
-> ref 志愿填写 "不想去的学校,**千万千万**不要填上去"
+## vocational high school feel
 
-是不是呼应了时代精神的个性解放?
-哈哈...
+后排聊天的,学学人家打游戏的,别影响前排同学睡觉
 
-> 假期是用来休闲的.仅此而已.
+## busy studying genshin
 
-## about mihoyo
+他说他暑假要奋发图强,弯道超车
+然后一周后,他原神满探索了
+据说是请了代肝
 
-- 关于剧情跳过
-  hi,hg,zzz 可以跳过剧情
-  gi,sr 反之
-  不妨简单想原因...
-  有些除了剧情没什么好玩的(或者不断重复的),有些还有许多剧情之外的内容(如战斗,养成)
-- 关于强度
-  bilibili wiki 中
-  gi 的角色页面,以"数值,材料"为首
-  sr 的角色页面,以"立绘,言语"为首
-  见微知著.
-- 关于怀旧
-  mihoyo 的标语以"tech,otakus"为首
-  或许起初,倾向于后者
-  渐渐地,倾向于前者
-  说不上好与坏,只是个人化地
-  我想做只`reminiscent otaku`...
+## lciop retro memories
 
-## giving up bs
+想当年,在深圳见到你,也是这个发型.
 
-为什么我放弃了荒野乱斗...
+(-> lciop 黄成辉)
 
-开放了暑假,正在下午.
-有大把时间,打开睡在手机里的 bs,一直打到 diamond...
+## staying away from uee and laughing
 
-然后就要 bp 了
-2023 年创的号,角色是够的,满级的有 17 个,都是强势的,或者强过的.
-排行榜上很多这样的,十来个角色的号.
+游至水流清澈处，站在岸边看帆船(翻船)
 
-然后呢...
-想着,如果我先选,80 来个角色
-其实能选的就 10 来个.
-不妨想一想,梅格,吉恩,贝尔,里昂,玻尔...
-b 档以下去掉,投手去掉,肉盾去掉,好像真就这些...
+## anime hentais
 
-那如果后选呢...
-假设对面一选吉恩,后面来个比比,阿方.
-能选什么呢.
-想到了许多 counter-tank,像科莱特,瑟琪,雪莉,都在 82 开以上
-但是,平时很少玩 counter-tank
-想到一些常玩的
-普利莫,吉恩没伤害,比比阿方都好打
-佩佩,手长,伤害高,带个手枪击退
-只是这些,显然不是最优选
-普利莫,打完肉肯定残血,吉恩收掉,要么就回不上血
-佩佩,比比带移速,阿方卡墙,其实都不好打
+异床同梦.
 
-而作为竞技游戏
-如果选些 55,64 开的,而别人都尽可能选 82 开的
-最后,就是一直打不上去
+幻術の世界の何が悪いのか、現実が残酷すぎるのだ
 
-就算站在光头的角度想想
-即使 bp 一直到顶都没有
-如何呢
-因为随便选,最后就是几个强势体系大杀四方.
-就像隔壁 cr 觉醒电塔版本,自闭桶不带桶那套
+## mihoyo anime tragedy
 
-```
-进化电塔 概念神 公主 小出生
-骑士 电豆子 滚木 火箭
-... 刀塔
-```
+是刀吗?不是糖!是糖!
+好甜!好甜!好甜...
 
-最后就剩天狗,尚能一战
-其他卡组,决定权都看对面失不失误
-当然,也看操作,但是游戏本质上都是容错率
-比如杰西,你阿方踹过来,普利莫砸过来,可以杀我无数次
-然后我极限炮台一出,游戏结束
-比如麦乐迪,你铲子抓住破绽,偷球一波,是很厉害
-但是我都不用对面破绽,开局一个大冲球开盾,一个大运球马上大脚,就有了
+(是花火失恋的感觉)
 
-而奖杯模式呢
-且不说赛季末,奖杯结算
-单双鸡,最后能组上队的,就那几个英雄,选别的就被群殴
-三三,打稍微高一点,就是几套体系车队的天下,都是版本英雄
+## handwritten story differs from ai generated one
 
-许多游戏
-都有人权,xp,熟练度的概念
-到了荒野乱斗
-一直玩几个喜欢的,前途在哪里,高分都打 bp 打克制的
-一代版本一代神,一个平衡性不是超模就是砍废
+文章里有错别字，部分句子句末缺少句号，中英文括号混用，大小写不统一，综合这些来看应该不是 AI 生成
 
-最后
-关于游戏模式
-竞技游戏不可能搞 dlc
-其实无非皮肤和抽卡,别的,天方夜谭
+## fin.
 
-我想
-不妨把 bp 移到大师段位
-那些没有排名的人
-让他们想玩啥就玩啥吧
+`ref`
 
-upd
-bs 还是一直在玩
-虽然高分段,都是 6 个 op 射手对线
-但是这个游戏不止是竞技模式
+fin.
 
-比如紫牌到绿牌分段的单机,也挺好玩的
-还有 33 特定模式的大肉盾
+## android 4.4 forever
+
+我意识到，无论谷歌发布多么新的、文档完善的、功能强大的新 API，我们余生都将为安卓 4.4 编写代码。
+
+## tom and jerry
+
+**tom and jerry instead of foo and bar in programming**
+
+## sr trailblazer with march and firefly
+
+你说青梅不如天降~耶.
+
+## mihoyo food lover
+
+小鲨鱼，你可以吃棒棒糖
+云璃，你可以吃琼实鸟串
+
+## iphone os memories
+
+iphone 5 最后一代拟物
+iphone x 第一代全面屏
+
+## beyond foresight
+
+天台的风真大.
+我仿佛看到了异世界.
+
+## so much for this
+
+so much for this have a nice day.
+以上.祝你度过智识的,审美的一天.
+
+## in solitude and always be bold
+
+勇敢去做, 有了就堕.
+(in solitude where we are least alone)
+
+## what i was called in djhs
+
+"大哥" ~~"少爷"~~
+
+讲真,如果学校里丁真来说书,...
+会很开心.
+
+## better translation of regex
+
+regular expression (regex) -> 字符串规律匹配表达式 (正则)
+
+## trumen show line
+
+And in case I don’t see you, good afternoon, good evening and good night!
+
+## school life
+
+rise and fall
+
+ebb and flow
+
+wax and wane
+
+## djhs new ringtone
+
+学校下课铃 "让我们荡起双桨" "吹来凉爽的风"
+
+## oier memories and observations
+
+以前我总觉得自己讨厌矿井，恨矿井，恨它吞掉了自己的青春。
+但现在才知道，我已同它融为一体了，恨也罢，爱也罢，它就是我的青春了。
+
+每个思绪带着各自的历史在脑内相遇。它们来自四面八方，际遇千差万别。在每刻迥异的人生旅途中，世界向每一个时刻展示着不同的影子。影子塑造了人们的直觉。你只活在一刻。但通过和不同时刻的自己交流，你能拥有其他时刻的力量。
+
+时光荏苒，小 S 和小 Y 也会散去。而我们和一个人保持连接的方式就是记住，仅此而已。
+时光走过，小 C 和小 Y 会再遇见。回首往事，大家都过上了各自想要的生活。
+
+僕たちの前にはいまだ巨大すぎる人生が、茫漠とした時間が、どうしようもなく横たわっていた。
+挡着在我们面前的是巨大庞然的人生、广阔无际的时间，令我们无能为力。
+
+这一天我做了什么呢？我好像一直在做事，但确乎什么也没做吧。这一天发生了什么呢？我不知道情况是不是发生了翻天覆地的变化（当然我睡觉的地方确实算翻天覆地了），但是就是感觉心里有什么东西开始流动了啊，停不下来的那种。当初我为什么要种豌豆呢？什么啊。我为什么要这么问呢？发生什么了呢？（诶我好像已经问过了）那好吧。不奇怪吗？不魔幻吗？不恍惚吗？什么啊，什么啊。有什么可问的啊。我相信我明天还会下去种豌豆，那就够了吧，种豌豆很好玩啊，我很喜欢。我只是感觉，在这里我不应该轻松地睡着的。还是让人感觉“空”的那种空旷啊，像缥缈的过去一样。地上的所有豌豆在自上而下的生长的感觉。
+
+## leaving a world without minato aqua
+
+刚才听说阿夸毕业，迷迷糊糊开车撞飞个人，不知道还活着么，不想下车看了，打了 110，等着了，阿夸都没了这几把人生结束算了
+
+爬完楼发现一点瓜都没
+去翻了翻最近的直播
+半天不说一句话纯摆烂
+这毕业了还挺正常的
+
+好像都不是最近了，有一阵子了，前两年就听过人说阿夸纯摆子了
+
+我从冲煌时间后就没怎么来过这个版面了，没想到还有在这发回复的一天。原来我真的是 CREW 吗愁还记得那天 Take Over 发布那天晚上溜了估计得有二三十遍
+
+你也“take over 入坑，自此茶饭不思”？
+
+第一她本来就赚了不少，那么假如不想太累，那么辞职给自己放松和充电是完全正常的
+第二她在的公司是类似偶像公司，这类公司的一些法则跟正常公司不一样，她假如因为个人情感而辞职也......
+
+我是挺难理解辞职放松的，特别是主播这种没后路的职业。我自己水平菜不提，我知道一个在美亚后端狂卷的哥看到这经济都快急疯了，人收入真不低。扇笑收入上去之后很多预支出是真的要你持续有高收入的。
+可能樱花妹不用管房贷车贷家庭支出吧，也好。
+
+还有什么房贷车贷，都差不多财富自由了
+
+你怎么老想着别人很穷的样子？
+
+她辞职以后天天在家随便播天天打想玩的游戏收入也很高，依然是行业前列，比绝大多数 v 都强，比你这后端哥们赚的多还十分轻松，
+
+这是有非常多粉丝的偶像，就别拿苦逼打工人来比了，不是一回事
+
+哭笑累个屁
+一般主播累是因为人家天天直播，每天在保证节目效果的前提下高强度互动，下播了还要忙很多直播以外的事
+圣皇这种人半月播不到十指之数照样有一大堆 crew 追的你跟我讲忙？
+成功来得太容易所以不珍惜罢了
+
+首先，大亏哥这几年差不多都财富自由了
+其次，以她的基数，就算转生个人势和咩一样天天摆烂也不会比粽子他们差
+不过我是真不希望她是为了转生才离开 holo 的，holo 是当 v 最好的平台，虽然没了个人势可以随心所欲的优点
+
+## adhensiontek last vid before graduate
+
+你好像在厭惡，並試圖逃避過去的自己，但離自己太遠是一件糟糕的事情，你會為了「我是誰」這個答案去嘗試接受過去的一切嗎？而不是繼續嘗試殺死他。畢竟我認為像這樣的問題，是需要完整的自己才能回答的
+
+大半内容都是 back to the future，回顾频道主以前对自己的期望，解构过去才能成为一个新的人。XD 打得什么我，看得懂么。。。
+
+你这声音是一边导一边录的吗
+
+好色情的声音，根本没有在听内容只觉得听起来可爱，视频没放完已经打了两次了。
+
+今天又打了，听起来肥肥的好骚哦。
+
+第一次看你的时候还是日科时期，真的很喜欢你的作品，正经的也好抽象的也好，都十分合我的胃口，后来你 b 站注销之后疯了一般的在各个平台找你的痕迹，虽然非常遗憾你大概率不会再制作类似的视频，但是真的让我对抽象这种（姑且算是艺术形式吧）产生了更深刻的思考，无论如何，祝你好运
+
+## aqua last mv before graduate
+
+This MV is really cute, but the transparency is too harsh...
+
+It's not "don't go"
+
+"Go ahead."
+
+## acm is communication with different intuitions and gaining strength from others
+
+我不喜欢个人英雄主义叙事的 ACM。没有人会在所有方面比所有人聪明。
+
+我希望的 ACM 是这样的：
+
+人们带着各自的命运在赛场相遇。他们来自四面八方，际遇千差万别。在迥异的人生旅途中，世界向每一个灵魂展示着不同的影子。影子塑造了人们的直觉。
+
+你只活过一次。但通过和不同直觉的人们交流，你能拥有其他人的力量。
+
+## fucking chinese patriotic education
+
+中国的仇恨教育是如何反噬自己的？从幼儿园就开始的仇日教育有多可怕？ (老周横眉)
+
+在中國當然還是有善良和勇敢的人，但那是因為他們是個人，不是因為他們是中國人！
+
+## subscribe! humanity.
+
+這影片你們都不點讚關注，你們有沒有人性啊~是不是人啊~
+
+## picking up study and start reading a book
+
+高一高二疫情爽玩，高三病情加重荒废学业，哈哈于是就擦线上了个民办二本，我倒是也没多后悔，那个时候的我只作得出那样的选择。就是心里还有一点怅惘，明明每每学到新知识，不管大到流传千年的定理，还是小到未曾注意的常识，我都会乍现出灵光一闪的领悟力，对于学习的贯通感到欣喜若狂，对我来说，学习是件美妙的事这一点从未变过。对应试教育的厌恶或许有多方面的因素，在此不表，我该重新拾捡起对学习的热爱了，就从这个读物开始吧
+
+## desire big
+
+如果你要造船，不要招揽人来搬木材，不要指
+派人任务和工作，而是要教他们去渴望那无边无际
+广袤的大海。
+
+——Antoine de Saint-Exupery，
+《小王子》作者
+
+## fucking berryberry cencership
+
+这审核是未成年人，不喝酒的
+
+楚南申鹤嘛，见怪不怪
+
+## vtuber lovers are laughters
+
+快过年了，不要再讨论什么 v 圈，炒作，a 符号之类的了。你带你的破电脑回到家并不能给你带来任何实质性作用，朋友们兜里掏出一大把钱吃喝玩乐，你默默的在家里刷你的 v 吧。亲戚朋友吃饭问你收获了什么，你说我昨天刚拷打了一个 a 符号 ，用 30sc 钓了一下猫雷，亲戚们懵逼了，你还在心里默默嘲笑他们，笑他们不懂你的威风凛凛，不懂你的炒作手段、不懂你对 v 圈典故的烂熟于心，也笑他们连个 v 老嗨都不是。你父母的同事都在说自己的子女一年的收获，儿子买了个房，女儿买了个车，姑娘升职加薪了，你的父母默默无言，说我的儿子搞了个独轮车，开起来嗡嗡响、家里电表走得越来越快了人也越来越魔怔了。
+
+## neco nyan and alcohol
+
+猫雷是富士康 3 号流水线的质检女工，平常会被工头欺负，女仆咖啡厅都是猫雷幻想出来的，下班回到家只能吃泡面和过期饭团，直播的网路是蹭室友的，直播到凌晨下播后还要赶去当陪酒女喝到第二天天亮，因为奶奶生病了所以打工和直播挣到的钱要给奶奶交医药费，小男友声音一直在变其实都是猫雷找的爸爸活，每个月的 15 号是猫雷哥哥的探监日，这一天是猫雷最开心的日子，猫雷会制作纸杯蛋糕带给哥哥。猫雷在现实里已经流干了眼泪，所以在直播中的猫雷希望可以一直笑下去，一直被爱着自己的喵喵露所爱，这大概是猫雷直播时最幸福的时刻了 😭😭😭
+
+## langrensha awkward first message
+
+我这边一张狼人牌啊,全场唯一真狼.我昨晚摸了张 x(对面牌),x 查杀.警徽流边角位开吧,开张 a,开张 b.啊算了,还是 c,d 顺验吧.我很贪心!双押警下,两票我都要好吧.c,d,你们要是是狼,就给我上一票.不给我就把你当好人打.你们要是投给 y,z(前置位预言家,或者后置位没发言),那你们走远了啊,你们就跟着真预走吧,等过几轮看我刀几个人,你们就知道我是全场唯一真狼了!
+
+## a math problem and a dreamer
+
+昨晚做梦，梦见了一个有趣的数学问题：有没有什么多面体，它的每个面都是凹多边形？有趣的是，接下来我梦见自己醒了过来，然后立即上网寻找答案。我梦见我查到了相关的论文，论文作者的名字中出现了很多奇怪的符号。我梦见我开始研究论文作者的名字该怎么发音。我梦见我研究了半天没有进展，于是踏上了拜访作者本人的路……
+
+然后就彻底醒了。然后立即上网寻找答案。Branko Grünbaum 和 G. C. Shephard 在 1998 年的论文《Isohedra with Nonconvex Faces》中给出了一些例子。下图是我很喜欢的一个例子。整个多面体由 12 个全等的凹多边形组成。
+
+## djhs liuyuan class
+
+"我们班有个大神..."
+
+"模型机我已经抓到 4 个了."
+
+(乐)
+
+## akt animation and his fellows
+
+"好像当 topaz 的猪啊!或者 asta 的狗." ("我看你就是想傍富婆")
+
+"老白别发这个,腿软了" ("这么经不起诱惑?")
+
+"毕竟 topaz 你啊,也不想再多一笔坏账吧?"
+
+"今天给兄弟们看看榜一大哥视角!"
+
+"给你那么多暗/示,为什么你还是???"
+
+"akt_animation::silver_wolf"
+
+"要不这样,135 你,236 她?"
+
+"不是,他说要你就给了啊?"
+
+"今天晚上和三月七约跑..."
+
+"jm 搜不到啊"
+
+"but we could never leave!"
+
+## being well routined
+
+看看楼下的《自律的人怎样过暑假》[滑稽][滑稽][滑稽]
+0 点：起床，洗漱
+
+1-2 点：晨跑 500000000km
+
+2-3 点：环东钱湖游泳 1000000 周
+
+3-4 点：练习飞行，遁地，喷火等实用技能
+
+4-5 点：学会一国语言
+
+6-7 点：早饭时间，吃 100 斤馒头
+
+7-11 点：举汽车深蹲 5000000 个，同时预习明天的他国语言
+
+11-12 点：午饭时间吃 15000000 斤米饭
+
+12-13 点：阅读 200000000 吨书籍
+
+13-15 点：跟奥特曼单挑一次
+
+16-17 点：跑步去叙利亚打仗
+
+18-19 点：吃 800000 斤米饭
+
+19-20 点：饭后散步 100 公里
+
+20-22 点：回忆一天所做
+
+22-23 点：洗澡刷牙
+
+24 点：睡觉
+
+## fucking new developer tool apps
+
+"next generation ..."
+
+wtf. completely nonsense.
+
+## chinese vhs sleepy guys
+
+轻轻敲醒沉睡的心灵
+
+慢慢张开你的眼睛
+
+垂死病中惊坐起
+
+## chinese fictional names
+
+`laughter`
+
+张脑子
+
+张显智慧
+
+董得多
+
+尤智慧
+
+汪不掉
+
+汪汪仙贝
+
+全晓得
+
+周基尼
+
+周玩家
+
+叶不错
+
+## mihoyo games
+
+gi is like a fairy tale
+
+sr is like a fable
+
+原神像是童话
+
+星铁像是寓言
+
+## djhs g1t1 memories
+
+"大哥"
+
+## fucking goverment for startups
+
+Mr 厉害 VM:
+
+不要选在小地方创业，不要选在喜欢开罚单，地方债务很严重的地方创业。
+
+## maimai dx
+
+喂老公在干嘛呢。你电话那头为什么啪啪啪响啊，哦哦你在打舞萌啊，为什么你那里有另一个女人的声音啊？哦哦和路人拼机啊，那你…诶不对啊为什么会有不要不要的声音，哦哦原来是不要大力拍打或滑动啊。但是为什么那里会有喘气声呢，原来是你给她开了茄子打得很累在休息。但她为什么还说不要这个啊，哦哦原来是你想给她开白潘啊，不对啊为什么你那还有水声啊，哦原来是别人的大水不小心碰倒了啊，不对啊为什么还有喊声啊，哦原来是最后一个绝赞掉了鸟加没了在抱怨啊，你那为什么还有嗡嗡嗡跟震动一样的声音啊，哦是别人的手机来电话了啊，那老公你玩吧我就不打扰你了，能不能早点回来啊我一个人在家好害怕啊老公
+
+## what is "these films"?
+
+《泰坦尼克号》《绿皮书》《海上钢琴师》《钢琴家》《爆裂鼓手》《肖申克的救赎》《楚门的世界》《当幸福来敲门》《触不可及》《遗愿清单》《阿甘正传》《摔跤吧爸爸》《幸福终点站》《我不是药神》《何以为家》《血战钢锯岭》《冰雪勇士》《超脱》《天堂电影院》《土拨鼠之》《战狼二》《盗梦空
+
+## da mengzi
+
+3000 元招不来一名农民工，但是能招来一名大学生。 人人都笑大猛子，人人皆是大猛子。 有的人生来就是牛马，有的人生来就在罗马 —大猛子
+
+## livid
+
+(某期 podcast)
+
+"来到美国后,你...?"
+
+"我现在 ping 一下 google..."
+
+"3ms."
+
+"!..."
+
+## evanyou yyx twitter
+
+孩子学校发邮件来说有家长给学校捐款 2000 万新币，心想谁这么大手笔，一看原来是 facebook co-founder / 新加坡首富 🤪
+
+## seele bronya
+
+The Iron Flower and the Butterfly of the Storm
+
+## genshin impact life changing
+
+Genshin is honestly life changing. I haven't played a game this fun in years
+
+One of my favorite games has been World of Warcraft, and it has gotten increasingly lackluster over the years. Exploration is barely rewarded anymore, travel is incredibly fast and you can fly, so the sense of exploration is diminished rapidly, and worst of all, the story is just so memelike that it's hard to take seriously anymore. So I try a handful of other titles/franchises I'm familiar with, and it's all the same exact thing. Cookie cutter, boring, mediocre story. You name it, I've tried it, and got bored with it. Pokemon games, Final Fantasy, Destiny... All so boring, and low effort at least in my own experience. I find myself really craving adventure, so I tried Genshin, a game that game up on suggested games on Epic launcher, and...
+
+Wow. This game is insane. The massive open world is gorgeous. It's like stepping into a whole brand new anime style world where you can just roam around, explore, chill, the quests and stories are really fun and lighthearted. Coming from WoW, it is refreshing to have a story that makes sense, and doesn't sound like some cringe fan fic.
+
+In the more I play this game, I find myself wondering, why can't other games be more like this? Why can't other games have a coherent story, crisp and clean graphics, believable characters, and not feel like a meme 90% of the time? It just escapes me. This game is seriously life changing. I've really missed having something so simple and blissfully fun to play.
+
+(reddit)
 
 ## fav video games
 
@@ -1005,460 +694,9 @@ bs 还是一直在玩
 要空闲的时间
 更要不浮躁的心境
 
-## pure math videos
-
-文案,教材,只是列表一切琐碎的知识
-
-而其中什么重要,什么不重要
-要靠更多的展现
-
-更具体地
-如时间分配
-如镜头语言
-如语气轻重
-
-更一般地
-标题和封面最重要
-内容和置顶评论也很重要
-简介和标签不重要的
-这些,一个单纯计划列表都无法体现
-
-关于内容和置顶评论
-我还想说
-内容是建构,表达激进的观点,展示断章取义的镜头,推出与先人述备之"异"
-评论是解构,辩证反之不矛盾,呈现画外之音的可能,寻求与观者思想之"同"
-
-## mihoyo magic
-
-mihoyo 什么的,最讨厌啦!
-
-不像 steam 上的一些大型独立游戏
-手机上的
-其实主要是休闲和竞技游戏
-
-以前
-是愤怒小鸟,,水果忍者,植物僵尸,保卫萝卜,消消乐
-之类的单机休闲游戏大行其道
-
-现在
-腾讯,网易,supercell
-做的一些游戏,啊,几分钟一局
-有空就来一把,快速竞技
-
-后来
-来了个 mihoyo
-很多人打开手机在做啥
-一看,啊,在看一本视觉小说...
-
-说到底
-就是更丰富的 galgame
-不只有废萌,后宫
-也来些刀片(是刀吗?不是糖!是糖!好甜!好甜!好甜...)
-还有些开放世界,不过说到底就那么几条大路跑来跑去
-还有些怪物,不过那些怪物,都是重复的
-核心玩法,有意思的,就是视觉小说
-
-按常理
-读一本小说,或者视觉小说
-大概是,有一整个空闲的晚上或者下午
-拿个头戴式耳机,坐在电脑前面玩的
-或者
-捧在手里,一页一页翻阅的
-
-把这些另一个世界的内容
-移植到快节奏的手机上面
-可以说几乎所有关于 mihoyo 的争议和批评
-或许都源于此吧...
-
-至于什么尘白禁区
-看看 houkai gakuen second 那会儿
-什么胖次,节操,抚摸啊...
-那都是 mihoyo 玩剩下的
-
-至于什么 withering waves
-手机游戏,没有属于这个时代的画质
-那就别上线手机,做成 steam 独立游戏就好
-
-至于一些细节
-什么剧情跳过啊,日常福利啊
-mihoyo 说到底是端游移植
-手机玩家没有耐心也是很正常的
-反正啊
-我,就下载,做个日常,然后不玩,这些就影响不到我
-这点和主机玩家是共通的,
-steam 上有很多买了不玩的人,只是单纯喜欢这个游戏
-
-什么?
-你说就 gi,sr 不能跳过
-hg,hi,zzz 都可以?
-那是啊
-hg,hi,zzz 你不看剧情,还可以看 cg,也可以就只打怪
-gi,sr 你不看剧情,其实没什么可玩的,最多每天日常下线
-尤其 sr,有自动战斗,除了小说就更没的玩了
-(callback hg2016:
-hg 系列一定要做最有撸感的动作游戏,什么自动战都通通去死去死去死!)
-
-至于福利少
-那是肯定的,你在 steam 上买游戏,买 dlc
-还付钱了
-玩 mihoyo 的,都没有付钱,零氪党,那怎么行
-必须降低福利,才能帮助 mihoyo 一路走下去
-"世界上没有什么事儿是一发 8088 不能解决的
-如果有,那就两发"
-(亚洲骗氪天王,尼古拉斯.大伟哥)
-
-## chinese politics porn
-
-批评 cn ml gov 的已经很多了
-每一年都有
-有一种"年年岁岁花相似","江畔何人初见月"的感觉
-
-现在感觉这些都是 2009 年的回旋镖
-https://www.ruanyifeng.com/blog/2009/12/2009_my_blogging_summary.html
-
-宁为玉碎，不为瓦全
-壮士断腕，义无再辱
-
-Google 退出中国市场，只是一个大事件的开始，而不是结束。让我们耐心等待，看历史站在谁的一边。
-
-callback:
-在所有专制制度中,时间是最专制的那个.
-(ref 刘瑜 "观念的水位")
-
-## scroll bar design
-
-今天在 ubuntu chromium 上网
-无意之间
-打开 nav bar 上的 downlaods history
-
-发现其有意思的 scroll bar design
-并非简单的 css
-
-一般地
-没有滚动条显示
-
-鼠标移动右侧
-滚动条,从不显示,到较暗显示,亮度有一个 ease-in-out 动画
-
-鼠标移动滚动条上
-滚动条变胖,从较暗到较亮,宽度和亮度都有 ease-in-out 动画
-
-不愧是世界第一的互联网公司
-google 赛高!
-
-## remove bilibili watermark
-
-bilibili 的水印是简单的白色半透明
-去除水印非常简单,只需要两步
-先找到水印的所有像素,
-然后改变这几个像素的亮度
-
-找像素,就是把每个像素转换 hsl 颜色格式
-对于四个角
-检查视频不同时间的好几个画面
-一种方法是
-对比一个像素周围的几个像素,分析亮度的变化(识别图像边缘的算法)
-那些重复多次的边缘就是水印边缘
-另一种方法是
-分析每个像素的亮度
-那些一直更亮的像素就是水印
-
-然后降低亮度
-降低多少?一个实验出来的数值,反正都是一样的
-
-## jiangping math contest issue
-
-让等待戈多的人看到希望
-让浮躁异化的人沉心学术
-
-这就够了
-这就够了
-
-那些批评者,支持者,都很无聊.
-
-至于涉事人,只要有流量,就有利益
-对于他们,这就够了,真假辩驳只是更多的流量耳
-
-至于大媒体
-说到底,只是起到输出价值观的工作
-例子有许多了,"李文亮","蔡徐坤","吴亦凡"
-哪个没上过大新闻
-
-他们的存在,只是告诉人们
-这几天,发生了什么大事情,当然要有积极的社会影响
-
-比如"李文亮",警示百姓慎重传谣(假设是谣言)
-比如"蔡徐坤","吴亦凡",提醒艺人洁身自好,警示粉丝理性追星(假设其奸淫)
-比如"姜萍",给予学者改命希望(假设其真实)
-
-而打假,没有他们想要的社会影响,所以不是他们的工作
-
-至于小媒体
-说到底,只是起到转发的工作
-蹭个热点,得些流量,够了
-
-而立场,
-如果粉丝中孩子比较多,就支持姜萍,
-不要告诉孩子世界的阴暗面,要给他们逆天改命的希望
-所以不妨说些"善意的谎言","white lies"
-
-如果粉丝中打工人比较多,就反对姜萍
-很多人的工作很稳定(一眼望到头),也不可能来进修数学
-或者说他们更应该努力陪伴自己的家人,而不是追求一些"虽一毫而莫取"的功名(ref Neveulette)
-所以不妨否定姜萍,顺便否定努力的价值
-
-如果粉丝中高中生,大学生比较多,就不要站队了
-他们善于独立思考,有批判和质疑精神,更有严谨求真的学术精神
-不妨说"目前一些民间评论者,如 a,b,c,提出了对事件真实性的质疑.但在更权威的证据之前,不妨暂不盖棺定论."
-这样可以体现与世俗观点的疏离感,更能体现出清高的态度,而这是当下年轻人普遍赞扬的
-
-## life idea
-
-写一本连载小说,关于一个高中男孩
-小说中人,如皇帝推到宫女,去借钱炒股发家,与毒贩谈场恋爱,
-致富或破产,那些和作者没有关系
-只要读得开心就是了
-
-upd
-想象一个小说作者
-祂写靛青把学生睡了,写粉蓝把妹妹干了
-祂写赤白,那个无心向学的盗版贩子,毕业几年混得比谁都成功
-祂写墨绿,那个脑出血的程序员,在脑机接口帮助下重返岗位
-祂写世间不变不移的先验不再先验
-祂写世人主观臆想的心念不再心念
-...
-这是戏外人的世界,这才是戏外人的世界.
-
-## why anime style
-
-知道我想看什么,而不是只是白描其"存在"
-三次元
-把一堆笔墨,无差地铺在骨架上
-就像一本书,每句话都划上高亮
-就没有强调
-
-画中人不一样
-每一个镜头语言都是意义明确的
-比如一个智慧的学者,可能重点看祂的窗户
-或者一个政治演讲家,可能重点描绘其鼻梁
-就是这样
-
-## hetongxue vid story
-
-何同学?
-近期视频,好几个商单,形式简单,质量下降?
-都是利用复杂的机械,投掷东西.
-
-毫无疑问
-从数据和行情看,其实早就财务自由了
-
-为什么还在做视频?
-热爱?
-那为何接上单呢?
-况且一点也不优雅,就是播放一半,生硬地说几句话
-而非"用典"或"联动"之类.
-责任?
-在组建团队之前,其实早就登峰造极
-并且文案,创意,或许更真挚,富有活力.
-无聊?
-不太可能,电影,书本,环游世界,高尔夫球,zelda,sekiro,...
-这个时代不缺 great time killer...
-
-或许有一些错误决策吧
-或许只是我不理解,就是这样.
-
-upd
-20240905
-新视频是竖向短视频
-或许后悔.
-或许无奈.
-
-## buying a house quote
-
-- 最优质的单人间很贵,最差的单人间很便宜
-- 质量为 x,价格为 y,该函数连续
-- 最多的物质也无法使人满足.
-
-## decentralized blog
-
-不看好去中心化 blog.
-
-目前的简中互联网,或许有三层
-
-- stage 1
-  - 😶‍🌫️
-  - 😅
-  - 🤬
-- stage 2
-  - 🌏
-  - 🗽
-  - 📖
-- stage 3
-  - 🫨
-  - 🍄
-  - 🚫
-
-世外人,居住在 stage1
-世界人,居住在 stage2
-
-decentralized network...
--> stage3?
-
-真正需要的,是谁呢...
-
-## why twitter sucks
-
-不看 twitter,github.真正重要的事情往往不是今天的热点.
-
-upd
-就像大多数日子,没有什么有意义的电影上映
-
-## css no limit
-
-css 没有局限性.
-或者有两个.
-
-- 交互动画,与鼠标位置相关的
-- 循环视频,大量几何图形同时变化的
-
-## why voice feeling matters
-
-狼人杀不是逻辑游戏,是听感游戏.
-...
-如果狼人杀是逻辑游戏,为什么不玩暗牌文字场?
-因为那里狼人有必胜打法.
-狼人跳一个或者两个预言家.剩下跳平民.
-预言家公式发言,"我是预言家,x 号金水/查杀,警徽流 y,z.我觉得对面会开狼,随便抓了张 y.z 没有上警."
-真预言家,公式发言以外,说多错多,也不一定能拉高自己身份.
-后面打法也简单,预言家不要验神,不要给好人发查杀.然后晚上随机刀人,可以刀神/刀民/自刀.
-好人里,就预言家有信息,其他人没有更多信息,无法判断谁是真预言家,然后狼人随机刀人,所以女巫守卫也没有信息.
-并且狼人随机发神金水/发平民金水/发平民查杀/发狼金水/发狼查杀,被验的人也无法判断身份.
-当然,神可以装平民,而狼给神误发查杀的负收益,和好人认不出神的负收益,其实是持平的.
-真预言家和悍跳狼都不可能发神查杀,而其他操作真预言家和狼都能打出来.
-唯一有信息的预言家,没有办法判断.其他的信息都是随机的.
-...
-发言游戏就不一样了,有听感.听感先于逻辑.
-
-upd
-其实感觉发言局,狼人也很好打.
-...
-12 人,第一晚,狼人随机刀人(可以自刀).80%以上女巫会救.
-上警,狼人能看出来真预言家.好人诈身份会退水,如果硬刚,局势混乱,更好.
-狼人全部跳平民,简单打就能赢,不用跳预言家."闭眼牌,上警点评预言家"
-如果狼王,就直接自爆带走预言家,如果不是,就连续两晚刀预言家.
-计算概率或者期望,预言家死后,至少有两个狼.
-狼人不帮别的狼打,各自为战.场上一堆平民,没有更多信息.
-
-upd
-20240905
-其实,如果真的打高胜率,很可能最后只有一个狼,苟起来.
-没有信息了.很容易躲起来在平民里.
-因为平民和狼公开信息上是一样的.无法证明.
-只是这样太无聊了,所以要打啊,要冲啊.
-
-## thunder bt in china
-
-- 主流 bt dl apps(qbitorrent,transmission)
-  - 所有人下载来源于所有人
-  - 所有人上传提供给所有人
-- thunder bt
-  - 迅雷用户下载来源于所有人
-  - 迅雷用户上传仅提供给迅雷用户
-  - 这不是好事,不过没关系,迅雷用户大多是简中用户,没有公网 ip,没法上传
-  - 用公网 ip 的,网络圣佛,通常了解迅雷行为,使用主流 bt dl apps
-- chinese users
-  - download from all
-  - in most cases can not upload
-
 ## the common berryberry sponsors
 
 拼多多 妙界 神奇小鹿 喵喵记账 圣杯 这几样实在太多了 加载视频中间，没法预料
-
-## about my cpp and oi experience
-
-`important`
-
-我上中学那会,少儿编程培训班很火.
-家里人给我报名,然后机缘巧合接触了 oi.
-oi 肯定用 cpp 了.
-现在我是前端开发,cpp 离我很远.
-似乎只能打 oi,写底层.
-而且 cpp 不是 battery-included,
-像 python,虽然没性能,但是 request,random,files 这些都内置了.
-而 cpp 读个文件,甚至写个随机都要好多行代码,也不知道有没有 lodash 这种库.
-
-```cpp
-srand(time(0)) //what is that
-```
-
-又没啥语法糖(比如循环宏定义都需要自己写)
-
-```cpp
-#define for(i,a,b) for(int i=a;i<=b;i++) //what is that
-```
-
-wasm 让 cpp 焕发第二春.
-真好啊,尸体暖洋洋的.
-
-## about chinese hs student making quick money
-
-`important`
-
-所有赚**快**钱的方法,都是针对法律的不完善.
-就拿简中互联网举例,
-
-- - 著作权法
-  - 人工智能法
-- 举几个例子吧,都是关于 b 站涨粉,首先注册新账号,别用自己的
-- 不用代理节点,因为 berryberry 不封 ip,设备.
-- 找到一个在线接收验证码的网站,付一点小钱(两位数),买一个号.
-- 注册 b 站,快速答题,或者去 taobao 买一个
-- 第一个例子是关于画师,gal 厂顶替
-  - 找到一个 pixiv 画师,还没有入驻的
-  - 发视频,bgm 是轻松欢快的英文歌曲
-  - top20 张图片,每张图 2~3 秒.
-  - 标题,"我是...,我入驻 b 站了"
-  - 账号起名,使用`中文+英文id`("回形针 paperclip")或者`日文名字desu`(如"崩坏学园娘 desu").
-  - 做十个这样的账户,试试看.
-  - 或者 steam 游戏大厂,就发宣传 pv(稍作删减,合法化).
-  - 参考账号:`柚子社yuzusoft`
-- 第二个例子是关于名言金句
-  - 去知乎上找到一些关于生活的名言金句
-  - 比如哲理辩论上,黄执中,周玄毅的发言
-  - 比如社交论坛上,一直被转发的 quotes
-  - 比如批判中式应试教育,批判简中社会的毛泽东
-  - 随便找一个在线 ai 的网站,付一点小钱(两位数)
-  - 然后找一个最热门(mihoyo)的角色(gi,sr,zzz),文本转语音
-  - 没必要自己研究什么开源部署,设备(五位数)+时间(无价).
-  - 账号起名,`${character name}语录`
-  - 视频是一个 pixiv 上找的角色图(热门排名),固定不动
-  - 整个视频,只有字幕是在动的
-  - 参考账号:`卡芙卡语录`
-- 第三个例子是关于在线教育
-  - 和名言金句同理.
-  - 每一个教学都在一两分钟.
-  - 文案可以参考同行.
-  - 参考账号:`芙宁娜数学`
-- 最后,至少得到一个有许多粉丝(1w+)的账号.
-- 改名(`我永远喜欢${anime character}desu`),删除所有视频.
-- 我并没有这样做,仅仅因为我不知道这些粉丝能用来干嘛.
-- 我有自己真正想做的事情,**make tools elegant**.
-- 因为本质上,高粉丝量,是为了得到更多的推荐,便于以后发广告,扩大个人影响力.
-- 即使拥有粉丝(1w 多),然后发无意义视频(比如没有亮点的视频游戏对局实况录屏),
-- 新视频数据其实会很惨淡.
-- 说实在的,你要真的玩得够黑
-  - 抖音上买几个能开播的号
-  - 转播其他平台大主播,把脸遮住,换成贴图,live2d 或者表情包
-  - 就花电费,收一个礼物都赚.
-- 或者啊
-  - 抖音上开挂(不要放出界面,不要承认)打 fps 游戏
-  - 带粉打架,送礼物上车
-  - 用别怕,怕别用,封别叫.
-- 或者啊
-  - 开挂养号,mihoyo 之类的
-  - 很简单的事情.
-- 最后你肯定不亏,大概率赚个小钱.
-- 行业很发达了,搜一下就很多同行.
 
 ## lex fridman podcast thanks
 
@@ -1466,20 +704,6 @@ Thank You
 I am forever grateful for the wisdom and love I've encountered in the meandering journey of doing these conversations. I can honestly say that I can die a happy man having had the chance to pause and witness so many moments of magic, at once fleeting and unforgettable. Thank you.
 
 Note from 2023: The above was written in 2018, 5 years ago, and it is as true now as it ever was. Thank you again. I love you all!
-
-## awkward math problem
-
-x^2+y^2=1,求 max((x+1)(y+2)).
-y=sqrt(1-x^2),直接求导.导数取零,一元四次方程.
-5 次以下都有解析解.done.
-
-## english tech translation
-
-- regular expression
-  - literally means (字符串)规律(匹配)表达式
-  - in practice we call that "正则"表达式
-  - wow holyshit what is that
-- etc.
 
 ## fucking chinese education organizations
 
@@ -1490,40 +714,6 @@ y=sqrt(1-x^2),直接求导.导数取零,一元四次方程.
 
 (石油 sensei)
 
-## genshin impact helper
-
-看了一些代肝记录...
-
-genshin impact 从零开始,把主线,地图打完,大概 200h
-
-快的话,150h
-
-时间不会骗人.如是云云.
-
-## british a level high school intro
-
-英国的中学分为两类，普通中学和甲等中学。甲等中
-学英文是 A-level 中学，A 是 advanced 的缩写，A-
-level 的意思就是“高标准”。
-甲等中学的高一就有微积分的内容，高中期间的课程
-相当于我国大学数学专业的数学分析、高等代数、常
-微分方程、数值分析的内容。在这样的数学基础上，
-其他的课程也有较高的标准。例如力学共有 5 册，第
-一册用到了三角函数，第二册用到了解析几何，第三
-册用到了微积分。一般学完 3 册就基本合格，但优秀
-的学生可以学 5 册。
-这些学生高中毕业时就可达到我国大学三年级的基本
-数学水平，同时在其他基于数学的学科如力学上也可
-达到我国大学三年级的基本水平。学习了这些课程
-后，在大学里就不必再学这些内容了。反观我国的学
-生，在中学里学的用初等方法讲的力学，到了大学又
-要在微积分的基础上重讲一遍。
-还有，甲等高中的学生有很强的独立性和团队精神，
-经常做出有创造性的工作。教学的基本要求并不很
-高，但是不限制优秀学生的发展，所以少数学生可以
-达到很高的水平。反观我国的高中，经常为了高考成
-绩而限制优秀学生的发展。
-
 ## math noskill
 
 一切初等不等式都可以暴力配凑
@@ -1531,66 +721,6 @@ level 的意思就是“高标准”。
 所以这些问题对于当代数学而言都是容易题
 
 但对于考生不是
-
-## about gi script
-
-原神退坑了,太肝了.剧情的游戏时长不高的.
-
-零氪的资源其实可以,抽了雷神和 nahida.
-
-但是每天在重复的怪物和重复的任务,无聊.
-
-退坑的时候,51 冒险等级,角色武器等级很低,因为采集自然资源太烦了.
-
-现在玩星铁,剧情刚见到 acheron,adventurine,sparkle,firefly.
-
-运气不错,30shots fuxuan,20shots sparkle,50shots gepard lightcone,70shots sparkle lightcone
-
-关键有自动战斗,而且操作简单,回合制,不像 gi 的怪物活蹦乱跳的,还得观察闪避.
-
-github 上倒是有些 gi script,用的 python 脚本.
-
-说实在的,gi 的大招和特效挺爽的,但是禁不住一直重复,一直手打.
-
-数学其实没用,数学家都想好了,实用的就那几个数学模型,输入参数就行了.
-
-但是大多是关于某个细节,比如钓鱼和副本,不是开个新号,自动满探索,过剧情的.
-
-主播关于 gi 代肝的,不少,好像关注了阿炜,他们大概把 gi 当作 roguelike 来玩.
-
-原神主线不错,如果从沙滩上钓起 paimon 看起的话,玩久了有点无聊.
-
-sr 的解密(小游戏),比 gi 有意思很多.
-
-其实原神或者说太大了,有些人想欣赏剧情,有些想打怪练级,有些喜欢探索发现,有些收集养成
-
-原神不能只选一个,必须都玩,否则就太弱了,打得没劲.
-
-## prefer sr to gi
-
-sr 像是送了免费代肝 bot.
-
-gi 没有.如是云云.
-
-## chenxiao origami
-
-https://www.youtube.com/watch?v=HXKTPpz7138
-
-@Blue05534
-2 months ago
-Where do you get your paper from? I'm desperate, i've been searching for good paper for weeks.
-
-@coralineiscoraline
-2 months ago
-I would like to know this too!
-
-@Noblion.
-2 months ago
-I think it is double sided paper, you can get it from the origami shop but it is expensive. You can also try making your own paper
-
-@chenxiaoorigami8301
-2 months ago
-Origamishop and Chinese Taobao.
 
 ## awkward success of chinese dingzhen
 
@@ -1856,61 +986,6 @@ Be the generation that 4Ges India ahead. Don't end up as the 4Gotten generation.
 Love,
 
 Chetan Bhagat
-
-## gi gaming hours
-
-`important`
-
-看到原神阿炜,要抽卡了.
-
-版本 5.0
-
-地图全满,任务清空.第二十五天,时长 207h
-
-62484 primogems 76 fates 109 regular
-
-看来时长统计网站没错,**时间不骗人**.
-
-## why vscode cult of god
-
-**i never pressed one ctrl s after using vscode.**
-
-## mr marmot gaming wojak
-
-其實這個故事的本質不是鼓勵所有孩子去打遊戲，而是想表達那些 有奇奇怪怪天賦的孩子 經常會因為父母的刻板印象 對新事物的不理解，導致天賦的荒廢。中國教育 差了歐美一大截 ，尤其是對天賦型少年的發現與 培養上 。我自己身邊有太多這樣的悲傷故事了 💔 (op)
-
-影片主角設定太過極端
-要比喻也拿成績 中段來比喻，拿一個倒數第 3 來反駁父母= =
-這不是愛不愛讀書的問題，我也不愛讀書 但我至少能考 前 20 ， 倒數第 3 是擺爛 不要拿不愛讀書來合理化擺爛 ， 要當主播本身也要有點智商， 將來可能還要學外語 理財 還有各種歷史 和技術 ， 你拿一個倒數第 3 擺爛不學習的人 ， 你覺得他可能當的了世界級主播?? 當今哪個主播 學習差的??
-所以只要一個遊戲 世界第一 就能為所欲為?? 這遊戲如果倒了 不就完了 ?? 很多東西都是要結合各種考量的 ， 影片只給出 一個倒數第 3 的擺爛屁孩 和他是某個遊戲世界第一高玩 ....就想合理 被天賦荒廢的故事= =
-
-@kisa4722 世界很大，這樣的人真的有 😂 我同學 高三前一直都是全班倒數，高三下半學期發了一點力，當年他高考直接全班第一，全校前十，他打遊戲也很強，高中平時都不上課，如果不是親身經歷 我都不會相信真的有天才。
-
-所以我一直覺得我很幸運。我也是小時候愛玩電腦愛看課外書，但唯獨對課業沒什麼興趣。明明只是 DOS 上簡單的遊戲卻可以玩一整天，回家不是在打電動就是在看金庸，不然就是在玩 Linux 或 PHP 程式，總之不會是在讀書。
-
-說點逆風的話，影片中主角是真的有實力，讀書才變成浪費時間
-大部分的我們都是平常人，遊戲在不影響生活當作興趣就很好了
-看過一些青少年用夢想當逃避的手段又拿不出東西來證明自己
-說要當 YT 的拍不出啥影片，然後說市場飽和了
-想當 LOL 職業選手的只打得比青銅還要上一階(我沒打 LOL 不知道啥階級)
-
-- 想跳脫凡人的路徑就得有非凡的本事
-
-毀了他一生的是父母，不是遊戲 😟
-
-說簡單點 父母如果是底層 他們的建議真的一點參考價值都沒有 只會延續階級複製
-
-事實就是頂層就是有更高機率養出頂層，就算養不好的給他失敗九次成功一次也夠回本了，底層從不會想自己怎麼是底層只會怨天尤人，如果你看多了這些人的言行，你就會知道不只階級複製，談吐個性也會複製
-
-人沒法賺自己不知道的錢，他們根本想像不到真的能靠打機賺錢，甚至只是研究電腦（碼農）都能，而且是賺很多，事後還抱怨為什麼人家賺大錢而你沒有，完全沒想過是父母自己的錯。
-
-​ @skruber8619 現在時代變更得太快了 像寫編程幾年前還很吃香 現在很多人快要吃土了
-
-老一代的人幾乎都是這觀念 自以為活得久就看得透
-
-😮😮 老師這樣貶低學生將來做甚麼嗎？偏偏他們有一個主席才國小學歷，，，，真諷刺
-
-這樣的老師 幾乎貫穿我在國內的 13 年教育 😂 (op)
 
 ## being linux user is being mtf
 
@@ -2377,21 +1452,21 @@ https://lkssite.vip/
 
 (comments)
 
-我看完了，表示好佩服作者能发现这些网站，肯定是很长的积累吧。而且手速快，英语水平不低，有耐心做视频。很有诚意，良心up，关注已点～希望我们是看着你火起来的最早的一批小粉丝(｡･ω･｡)ﾉ♡
+我看完了，表示好佩服作者能发现这些网站，肯定是很长的积累吧。而且手速快，英语水平不低，有耐心做视频。很有诚意，良心 up，关注已点～希望我们是看着你火起来的最早的一批小粉丝(｡･ω･｡)ﾉ ♡
 
-lks在恕瑞玛帝国的崛起时上首页，就吸引了很多人了(｀・ω・´)
+lks 在恕瑞玛帝国的崛起时上首页，就吸引了很多人了(｀・ω・´)
 
-+1回来考古，lks已经百万粉啦[热词系列_吹爆][热词系列_三连]
++1 回来考古，lks 已经百万粉啦[热词系列\_吹爆][热词系列_三连]
 
-那时候lks有多少粉丝呀
+那时候 lks 有多少粉丝呀
 
-哎呀，忘记了，我记得好像是10万左右？还是5万左右的样子吧，这个不是我第一个看的他的视频，之前的也很有意思
+哎呀，忘记了，我记得好像是 10 万左右？还是 5 万左右的样子吧，这个不是我第一个看的他的视频，之前的也很有意思
 
-哈哈哈大家也挺可爱的，每次lks更新这个系列，就会有一些小伙伴回来看之前的，然后我这条就会被赞，挺有意思的嘿[tv_调皮]
+哈哈哈大家也挺可爱的，每次 lks 更新这个系列，就会有一些小伙伴回来看之前的，然后我这条就会被赞，挺有意思的嘿[tv_调皮]
 
 ---
 
-我靠，从2020过来，以前的LKs　的声音这么奶的吗
+我靠，从 2020 过来，以前的 LKs 　的声音这么奶的吗
 
 ---
 
@@ -2420,5 +1495,3 @@ https://www.bilibili.com/video/BV1ZbqZYfEBN
 批：看来是旧病复发也
 乐：前倨后恭，思之令人发笑
 下头：烦人
-
-

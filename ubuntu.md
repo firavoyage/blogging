@@ -489,6 +489,8 @@ sudo apt install gnome-shell-extension-prefs
   - _markdown.extension.onBackspaceKey_ `backspace`
   - _markdown.extension.onTabKey_ `tab`
   - _markdown.extension.onShiftTabKey_ `shift tab`
+  - _breadcrumbs.toggleToOn_ _breadcrumbs.focusAndSelect_ `ctrl shift <` `ctrl shift .`
+  - _breadcrumbs.focus_ `ctrl shift ;`
 
 ## `git`
 
@@ -545,9 +547,10 @@ sudo apt install gnome-shell-extension-prefs
   - -> `input method > pinyin > settings icon`
   - fuzzy pinyin `on`
   - prediction `off`
-  - character&punctuation `half-width`
+  - character `half-width`
   - enable cloud pinyin `off`
   - action when switching input method `commit current preedit`
+  - remove all punctuation (-> punctuation > `-` button on the right)
 - config theme
   ```
   git clone https://github.com/tonyfettes/fcitx5-nord.git

@@ -9091,921 +9091,338 @@ In some philosophical debates, the nature of truth and reality can be quite comp
 
 By following these steps, you can clear all history in your Git repository using `git filter-branch`.
 
-## solid
+## solid principle
 
-`concept` `ref` `important` `dev`
+`concept` `dev` `ref` `important`
 
 > $\to mistral \space large \space 2$
 
-> Single responsibility principle in js
+> examples of solid principle using js including both bad one and good one. dont use oop methods like class prototype this new. explain why.
 
-The Single Responsibility Principle (SRP) is one of the five SOLID principles of object-oriented design. It states that a class should have only one reason to change, meaning it should have only one job or responsibility. This principle helps in creating more modular, maintainable, and testable code.
+Sure! The SOLID principles are a set of five design principles intended to make software designs more understandable, flexible, and maintainable. These principles are:
 
-In JavaScript, applying the SRP can be achieved by ensuring that each function or module has a single, well-defined purpose. Here are some examples and tips to illustrate how you can apply the SRP in JavaScript:
+1. **Single Responsibility Principle (SRP)**
+2. **Open/Closed Principle (OCP)**
+3. **Liskov Substitution Principle (LSP)**
+4. **Interface Segregation Principle (ISP)**
+5. **Dependency Inversion Principle (DIP)**
 
-### Example 1: Separating Concerns in Functions
+Let's go through each principle with examples in JavaScript, avoiding OOP constructs like `class`, `prototype`, `this`, and `new`.
 
-Instead of having a single function that handles multiple responsibilities, break it down into smaller functions, each with a single responsibility.
+### 1. Single Responsibility Principle (SRP)
 
-**Before SRP:**
+**Bad Example:**
 
 ```javascript
-function processOrder(order) {
-  // Validate order
-  if (!order.customerId || !order.productId) {
-    throw new Error("Invalid order");
+function manageUser(user) {
+  // Responsibility 1: Validate user data
+  if (!user.name || !user.email) {
+    throw new Error("Invalid user data");
   }
 
-  // Calculate total price
-  const totalPrice = order.quantity * order.price;
+  // Responsibility 2: Save user data
+  saveUserToDatabase(user);
 
-  // Save order to database
-  saveOrderToDatabase(order);
-
-  // Send confirmation email
-  sendConfirmationEmail(order);
-
-  return totalPrice;
+  // Responsibility 3: Send welcome email
+  sendWelcomeEmail(user.email);
 }
 ```
 
-**After SRP:**
+**Good Example:**
 
 ```javascript
-function validateOrder(order) {
-  if (!order.customerId || !order.productId) {
-    throw new Error("Invalid order");
+function validateUser(user) {
+  if (!user.name || !user.email) {
+    throw new Error("Invalid user data");
   }
 }
 
-function calculateTotalPrice(order) {
-  return order.quantity * order.price;
+function saveUserToDatabase(user) {
+  // Save user to database logic
 }
 
-function saveOrderToDatabase(order) {
-  // Logic to save order to database
+function sendWelcomeEmail(email) {
+  // Send welcome email logic
 }
 
-function sendConfirmationEmail(order) {
-  // Logic to send confirmation email
-}
-
-function processOrder(order) {
-  validateOrder(order);
-  const totalPrice = calculateTotalPrice(order);
-  saveOrderToDatabase(order);
-  sendConfirmationEmail(order);
-  return totalPrice;
+function manageUser(user) {
+  validateUser(user);
+  saveUserToDatabase(user);
+  sendWelcomeEmail(user.email);
 }
 ```
 
-### Example 2: Modularizing Code with Modules
+**Why:** Each function has a single responsibility, making the code easier to understand, test, and maintain.
 
-Use JavaScript modules to separate different concerns into different files.
+### 2. Open/Closed Principle (OCP)
 
-**Before SRP:**
-
-```javascript
-// order.js
-function processOrder(order) {
-  // Validate order
-  if (!order.customerId || !order.productId) {
-    throw new Error("Invalid order");
-  }
-
-  // Calculate total price
-  const totalPrice = order.quantity * order.price;
-
-  // Save order to database
-  saveOrderToDatabase(order);
-
-  // Send confirmation email
-  sendConfirmationEmail(order);
-
-  return totalPrice;
-}
-```
-
-**After SRP:**
+**Bad Example:**
 
 ```javascript
-// validation.js
-export function validateOrder(order) {
-  if (!order.customerId || !order.productId) {
-    throw new Error("Invalid order");
-  }
-}
-
-// calculation.js
-export function calculateTotalPrice(order) {
-  return order.quantity * order.price;
-}
-
-// database.js
-export function saveOrderToDatabase(order) {
-  // Logic to save order to database
-}
-
-// email.js
-export function sendConfirmationEmail(order) {
-  // Logic to send confirmation email
-}
-
-// order.js
-import { validateOrder } from "./validation.js";
-import { calculateTotalPrice } from "./calculation.js";
-import { saveOrderToDatabase } from "./database.js";
-import { sendConfirmationEmail } from "./email.js";
-
-export function processOrder(order) {
-  validateOrder(order);
-  const totalPrice = calculateTotalPrice(order);
-  saveOrderToDatabase(order);
-  sendConfirmationEmail(order);
-  return totalPrice;
-}
-```
-
-### Tips for Applying SRP in JavaScript
-
-1. **Keep Functions Small**: Each function should do one thing and do it well.
-2. **Use Descriptive Names**: Name functions and modules clearly to reflect their single responsibility.
-3. **Avoid Side Effects**: Functions should not have hidden side effects; they should be predictable.
-4. **Modularize Code**: Use modules to separate different concerns into different files.
-5. **Testability**: Smaller, single-responsibility functions are easier to test.
-
-By following the Single Responsibility Principle, you can create more maintainable and understandable JavaScript code.
-
-> Open–closed principle
-
-The Open-Closed Principle (OCP) is another one of the five SOLID principles of object-oriented design. It states that software entities (classes, modules, functions, etc.) should be open for extension but closed for modification. This means that the behavior of a module can be extended without altering its source code.
-
-In JavaScript, you can apply the OCP by using techniques such as inheritance, composition, and design patterns like the Strategy Pattern or the Decorator Pattern. Here are some examples and tips to illustrate how you can apply the OCP in JavaScript:
-
-### Example 1: Using Inheritance
-
-**Before OCP:**
-
-```javascript
-class Rectangle {
-  constructor(width, height) {
-    this.width = width;
-    this.height = height;
-  }
-
-  area() {
-    return this.width * this.height;
-  }
-}
-
-class Circle {
-  constructor(radius) {
-    this.radius = radius;
-  }
-
-  area() {
-    return Math.PI * this.radius * this.radius;
-  }
-}
-
-// To add a new shape, you would need to modify the existing code
-```
-
-**After OCP:**
-
-```javascript
-class Shape {
-  area() {
-    throw new Error('Method "area()" must be implemented.');
-  }
-}
-
-class Rectangle extends Shape {
-  constructor(width, height) {
-    super();
-    this.width = width;
-    this.height = height;
-  }
-
-  area() {
-    return this.width * this.height;
-  }
-}
-
-class Circle extends Shape {
-  constructor(radius) {
-    super();
-    this.radius = radius;
-  }
-
-  area() {
-    return Math.PI * this.radius * this.radius;
-  }
-}
-
-// To add a new shape, you can extend the Shape class without modifying existing code
-class Triangle extends Shape {
-  constructor(base, height) {
-    super();
-    this.base = base;
-    this.height = height;
-  }
-
-  area() {
-    return 0.5 * this.base * this.height;
+function calculateArea(shape) {
+  if (shape.type === "circle") {
+    return Math.PI * shape.radius * shape.radius;
+  } else if (shape.type === "rectangle") {
+    return shape.width * shape.height;
   }
 }
 ```
 
-### Example 2: Using Composition and Strategy Pattern
-
-**Before OCP:**
+**Good Example:**
 
 ```javascript
-class PaymentProcessor {
-  processPayment(amount, paymentMethod) {
-    if (paymentMethod === "creditCard") {
-      // Process credit card payment
-    } else if (paymentMethod === "paypal") {
-      // Process PayPal payment
-    }
-    // To add a new payment method, you would need to modify this function
-  }
+function calculateCircleArea(circle) {
+  return Math.PI * circle.radius * circle.radius;
 }
+
+function calculateRectangleArea(rectangle) {
+  return rectangle.width * rectangle.height;
+}
+
+function calculateArea(shape, calculator) {
+  return calculator(shape);
+}
+
+// Usage
+const circle = { type: "circle", radius: 5 };
+const rectangle = { type: "rectangle", width: 4, height: 6 };
+
+console.log(calculateArea(circle, calculateCircleArea)); // 78.53981633974483
+console.log(calculateArea(rectangle, calculateRectangleArea)); // 24
 ```
 
-**After OCP:**
+**Why:** The `calculateArea` function is open for extension (adding new shape types) but closed for modification (changing existing code).
+
+### 3. Liskov Substitution Principle (LSP)
+
+**Bad Example:**
 
 ```javascript
-class PaymentStrategy {
-  processPayment(amount) {
-    throw new Error('Method "processPayment(amount)" must be implemented.');
-  }
+function createBird(name) {
+  return {
+    name,
+    fly() {
+      return `${name} is flying`;
+    },
+  };
 }
 
-class CreditCardPaymentStrategy extends PaymentStrategy {
-  processPayment(amount) {
-    // Process credit card payment
-  }
-}
-
-class PayPalPaymentStrategy extends PaymentStrategy {
-  processPayment(amount) {
-    // Process PayPal payment
-  }
-}
-
-class PaymentProcessor {
-  constructor(paymentStrategy) {
-    this.paymentStrategy = paymentStrategy;
-  }
-
-  processPayment(amount) {
-    this.paymentStrategy.processPayment(amount);
-  }
-}
-
-// To add a new payment method, you can create a new strategy class without modifying existing code
-class BitcoinPaymentStrategy extends PaymentStrategy {
-  processPayment(amount) {
-    // Process Bitcoin payment
-  }
-}
-```
-
-### Tips for Applying OCP in JavaScript
-
-1. **Use Abstractions**: Define abstract classes or interfaces that can be extended.
-2. **Prefer Composition over Inheritance**: Use composition to achieve flexibility and reusability.
-3. **Design Patterns**: Utilize design patterns like Strategy, Decorator, or Factory to extend behavior without modifying existing code.
-4. **Avoid Conditional Logic**: Minimize the use of conditional statements (if-else, switch) that require modification when extending functionality.
-5. **Testability**: Extending behavior through abstractions and composition makes the code easier to test.
-
-By following the Open-Closed Principle, you can create more flexible and maintainable JavaScript code that is easier to extend and modify.
-
-> Liskov substitution principle
-
-The Liskov Substitution Principle (LSP) is one of the five SOLID principles of object-oriented design. It states that objects of a superclass should be replaceable with objects of a subclass without affecting the correctness of the program. In other words, subclasses should adhere to the behavior defined by their superclasses.
-
-In JavaScript, you can apply the LSP by ensuring that derived classes (subclasses) can be used interchangeably with their base classes (superclasses) without causing any unexpected behavior. Here are some examples and tips to illustrate how you can apply the LSP in JavaScript:
-
-### Example 1: Violating LSP
-
-**Before LSP:**
-
-```javascript
-class Bird {
-  fly() {
-    console.log("Flying");
-  }
-}
-
-class Sparrow extends Bird {
-  fly() {
-    console.log("Sparrow is flying");
-  }
-}
-
-class Ostrich extends Bird {
-  fly() {
-    throw new Error("Ostrich cannot fly");
-  }
+function createOstrich(name) {
+  return {
+    name,
+    fly() {
+      throw new Error("Ostriches cannot fly");
+    },
+  };
 }
 
 function makeBirdFly(bird) {
-  bird.fly();
+  console.log(bird.fly());
 }
 
-const sparrow = new Sparrow();
-const ostrich = new Ostrich();
+let bird = createBird("Sparrow");
+let ostrich = createOstrich("Ostrich");
 
-makeBirdFly(sparrow); // Sparrow is flying
-makeBirdFly(ostrich); // Error: Ostrich cannot fly
+makeBirdFly(bird); // Sparrow is flying
+makeBirdFly(ostrich); // Error: Ostriches cannot fly
 ```
 
-In this example, the `Ostrich` class violates the LSP because it cannot be substituted for the `Bird` class without causing an error.
-
-**After LSP:**
+**Good Example:**
 
 ```javascript
-class Bird {
-  // Birds can either fly or not
-  canFly() {
-    return false;
-  }
+function createBird(name) {
+  return {
+    name,
+    fly() {
+      return `${name} is flying`;
+    },
+  };
 }
 
-class FlyingBird extends Bird {
-  fly() {
-    console.log("Flying");
-  }
-
-  canFly() {
-    return true;
-  }
-}
-
-class Sparrow extends FlyingBird {
-  fly() {
-    console.log("Sparrow is flying");
-  }
-}
-
-class Ostrich extends Bird {
-  // Ostrich does not override fly method
+function createOstrich(name) {
+  return {
+    name,
+    run() {
+      return `${name} is running`;
+    },
+  };
 }
 
 function makeBirdFly(bird) {
-  if (bird.canFly()) {
-    bird.fly();
+  if (bird.fly) {
+    console.log(bird.fly());
   } else {
     console.log("This bird cannot fly");
   }
 }
 
-const sparrow = new Sparrow();
-const ostrich = new Ostrich();
+let bird = createBird("Sparrow");
+let ostrich = createOstrich("Ostrich");
 
-makeBirdFly(sparrow); // Sparrow is flying
+makeBirdFly(bird); // Sparrow is flying
 makeBirdFly(ostrich); // This bird cannot fly
 ```
 
-In this revised example, the `Ostrich` class does not violate the LSP because it does not override the `fly` method and provides a `canFly` method to check its capability.
+**Why:** The `createOstrich` function should not include a `fly` method if ostriches cannot fly. This ensures that subtypes can be substituted for their base types without altering the correctness of the program. By checking if the `fly` method exists, we avoid errors and ensure the program behaves correctly.
 
-### Example 2: Adhering to LSP with Interfaces
+### 4. Interface Segregation Principle (ISP)
 
-**Before LSP:**
+**Bad Example:**
 
 ```javascript
-class Rectangle {
-  constructor(width, height) {
-    this.width = width;
-    this.height = height;
+function createEntity(name, type) {
+  let entity = {
+    name,
+    work() {
+      return `${name} is working`;
+    },
+    eat() {
+      return `${name} is eating`;
+    },
+    sleep() {
+      return `${name} is sleeping`;
+    },
+  };
+
+  if (type === "robot") {
+    entity.eat = () => {
+      throw new Error("Robots cannot eat");
+    };
+    entity.sleep = () => {
+      throw new Error("Robots cannot sleep");
+    };
   }
 
-  setWidth(width) {
-    this.width = width;
-  }
-
-  setHeight(height) {
-    this.height = height;
-  }
-
-  area() {
-    return this.width * this.height;
-  }
+  return entity;
 }
 
-class Square extends Rectangle {
-  setWidth(width) {
-    this.width = width;
-    this.height = width;
-  }
+let worker = createEntity("John", "worker");
+let robot = createEntity("R2D2", "robot");
 
-  setHeight(height) {
-    this.width = height;
-    this.height = height;
-  }
-}
+console.log(worker.work()); // John is working
+console.log(worker.eat()); // John is eating
+console.log(worker.sleep()); // John is sleeping
 
-function calculateArea(rectangle) {
-  rectangle.setWidth(5);
-  rectangle.setHeight(10);
-  console.log(rectangle.area()); // Expects 50
-}
-
-const rectangle = new Rectangle();
-const square = new Square();
-
-calculateArea(rectangle); // 50
-calculateArea(square); // 100 (violates LSP)
+console.log(robot.work()); // R2D2 is working
+// console.log(robot.eat()); // Error: Robots cannot eat
+// console.log(robot.sleep()); // Error: Robots cannot sleep
 ```
 
-In this example, the `Square` class violates the LSP because it does not behave as expected when substituted for the `Rectangle` class.
-
-**After LSP:**
+**Good Example:**
 
 ```javascript
-class Shape {
-  area() {
-    throw new Error('Method "area()" must be implemented.');
-  }
+function createWorkable(name) {
+  return {
+    name,
+    work() {
+      return `${name} is working`;
+    },
+  };
 }
 
-class Rectangle extends Shape {
-  constructor(width, height) {
-    super();
-    this.width = width;
-    this.height = height;
-  }
-
-  setWidth(width) {
-    this.width = width;
-  }
-
-  setHeight(height) {
-    this.height = height;
-  }
-
-  area() {
-    return this.width * this.height;
-  }
+function createFeedable(name) {
+  return {
+    name,
+    eat() {
+      return `${name} is eating`;
+    },
+  };
 }
 
-class Square extends Shape {
-  constructor(side) {
-    super();
-    this.side = side;
-  }
-
-  setSide(side) {
-    this.side = side;
-  }
-
-  area() {
-    return this.side * this.side;
-  }
+function createSleepable(name) {
+  return {
+    name,
+    sleep() {
+      return `${name} is sleeping`;
+    },
+  };
 }
 
-function calculateArea(shape) {
-  console.log(shape.area());
+function createWorker(name) {
+  let workable = createWorkable(name);
+  let feedable = createFeedable(name);
+  let sleepable = createSleepable(name);
+  return {
+    ...workable,
+    ...feedable,
+    ...sleepable,
+  };
 }
 
-const rectangle = new Rectangle(5, 10);
-const square = new Square(5);
+function createRobot(name) {
+  let workable = createWorkable(name);
+  return {
+    ...workable,
+  };
+}
 
-calculateArea(rectangle); // 50
-calculateArea(square); // 25
+let worker = createWorker("John");
+let robot = createRobot("R2D2");
+
+console.log(worker.work()); // John is working
+console.log(worker.eat()); // John is eating
+console.log(worker.sleep()); // John is sleeping
+
+console.log(robot.work()); // R2D2 is working
+// console.log(robot.eat()); // undefined (Robots cannot eat)
+// console.log(robot.sleep()); // undefined (Robots cannot sleep)
 ```
 
-In this revised example, the `Square` class adheres to the LSP by not overriding the `setWidth` and `setHeight` methods of the `Rectangle` class. Instead, it provides its own `setSide` method.
+**Why:** In the bad example, the `createEntity` function is responsible for creating both `Worker` and `Robot` objects, leading to the issue of forcing the `Robot` to have `eat` and `sleep` methods, which it doesn't need. This violates the Interface Segregation Principle.
 
-### Tips for Applying LSP in JavaScript
+In the good example, we separate the concerns into different interfaces (`createWorkable`, `createFeedable`, `createSleepable`). The `createWorker` function combines these interfaces, while the `createRobot` function only includes the `createWorkable` interface. This ensures that clients are not forced to depend on interfaces they do not use, adhering to the Interface Segregation Principle.
 
-1. **Ensure Substitutability**: Make sure that subclasses can be used interchangeably with their superclasses.
-2. **Avoid Overriding Behavior**: Be cautious when overriding methods in subclasses to ensure they do not violate the expected behavior of the superclass.
-3. **Use Interfaces**: Define interfaces or abstract classes to ensure that subclasses adhere to the expected behavior.
-4. **Preconditions and Postconditions**: Ensure that subclasses maintain the preconditions and postconditions of the superclass methods.
-5. **Testability**: Write tests to verify that subclasses can be substituted for their superclasses without causing errors.
+### 5. Dependency Inversion Principle (DIP)
 
-By following the Liskov Substitution Principle, you can create more robust and maintainable JavaScript code that adheres to the expected behavior of classes and their subclasses.
-
-> Interface segregation principle
-
-The Interface Segregation Principle (ISP) is one of the five SOLID principles of object-oriented design. It states that no client should be forced to depend on interfaces it does not use. In other words, large interfaces should be split into smaller, more specific ones so that clients only need to know about the methods that are relevant to them.
-
-In JavaScript, you can apply the ISP by breaking down large interfaces into smaller, more focused ones. This can be achieved using classes, modules, or even simple objects to define interfaces. Here are some examples and tips to illustrate how you can apply the ISP in JavaScript:
-
-### Example 1: Violating ISP
-
-**Before ISP:**
+**Bad Example:**
 
 ```javascript
-class Worker {
-  work() {
-    // Implementation for work
-  }
-
-  eat() {
-    // Implementation for eat
-  }
+function MySQLDatabase() {
+  return {
+    connect: function () {
+      return "Connected to MySQL";
+    },
+  };
 }
 
-class Robot extends Worker {
-  work() {
-    console.log("Robot is working");
-  }
-
-  eat() {
-    throw new Error("Robot cannot eat");
-  }
-}
-
-class Human extends Worker {
-  work() {
-    console.log("Human is working");
-  }
-
-  eat() {
-    console.log("Human is eating");
-  }
-}
-
-function manageWorker(worker) {
-  worker.work();
-  worker.eat(); // This will cause an error for Robot
-}
-
-const robot = new Robot();
-const human = new Human();
-
-manageWorker(robot); // Error: Robot cannot eat
-manageWorker(human); // Human is working, Human is eating
-```
-
-In this example, the `Robot` class violates the ISP because it is forced to implement the `eat` method, which it does not need.
-
-**After ISP:**
-
-```javascript
-class Workable {
-  work() {
-    throw new Error('Method "work()" must be implemented.');
-  }
-}
-
-class Eatable {
-  eat() {
-    throw new Error('Method "eat()" must be implemented.');
-  }
-}
-
-class Robot extends Workable {
-  work() {
-    console.log("Robot is working");
-  }
-}
-
-class Human extends Workable {
-  work() {
-    console.log("Human is working");
-  }
-}
-
-class HumanEatable extends Eatable {
-  eat() {
-    console.log("Human is eating");
-  }
-}
-
-function manageWorker(worker) {
-  worker.work();
-}
-
-function manageEatable(eatable) {
-  eatable.eat();
-}
-
-const robot = new Robot();
-const human = new Human();
-const humanEatable = new HumanEatable();
-
-manageWorker(robot); // Robot is working
-manageWorker(human); // Human is working
-manageEatable(humanEatable); // Human is eating
-```
-
-In this revised example, the `Robot` class no longer needs to implement the `eat` method, adhering to the ISP.
-
-### Example 2: Using Modules
-
-**Before ISP:**
-
-```javascript
-class Printer {
-  print() {
-    console.log("Printing document");
-  }
-
-  scan() {
-    console.log("Scanning document");
-  }
-
-  fax() {
-    console.log("Faxing document");
-  }
-}
-
-class HomePrinter extends Printer {
-  print() {
-    console.log("Home printer is printing");
-  }
-
-  scan() {
-    console.log("Home printer is scanning");
-  }
-
-  fax() {
-    throw new Error("Home printer cannot fax");
-  }
-}
-
-class OfficePrinter extends Printer {
-  print() {
-    console.log("Office printer is printing");
-  }
-
-  scan() {
-    console.log("Office printer is scanning");
-  }
-
-  fax() {
-    console.log("Office printer is faxing");
-  }
+function UserService() {
+  let db = MySQLDatabase();
+  return {
+    getUser: function (id) {
+      db.connect();
+      return `User ${id}`;
+    },
+  };
 }
 ```
 
-In this example, the `HomePrinter` class violates the ISP because it is forced to implement the `fax` method, which it does not need.
-
-**After ISP:**
+**Good Example:**
 
 ```javascript
-class Printable {
-  print() {
-    throw new Error('Method "print()" must be implemented.');
-  }
+function MySQLDatabase() {
+  return {
+    connect: function () {
+      return "Connected to MySQL";
+    },
+  };
 }
 
-class Scannable {
-  scan() {
-    throw new Error('Method "scan()" must be implemented.');
-  }
+function UserService(db) {
+  return {
+    getUser: function (id) {
+      db.connect();
+      return `User ${id}`;
+    },
+  };
 }
 
-class Faxable {
-  fax() {
-    throw new Error('Method "fax()" must be implemented.');
-  }
-}
-
-class HomePrinter extends Printable {
-  print() {
-    console.log("Home printer is printing");
-  }
-}
-
-class OfficePrinter extends Printable {
-  print() {
-    console.log("Office printer is printing");
-  }
-}
-
-class OfficeScanner extends Scannable {
-  scan() {
-    console.log("Office printer is scanning");
-  }
-}
-
-class OfficeFax extends Faxable {
-  fax() {
-    console.log("Office printer is faxing");
-  }
-}
-
-function managePrinter(printer) {
-  printer.print();
-}
-
-function manageScanner(scanner) {
-  scanner.scan();
-}
-
-function manageFax(fax) {
-  fax.fax();
-}
-
-const homePrinter = new HomePrinter();
-const officePrinter = new OfficePrinter();
-const officeScanner = new OfficeScanner();
-const officeFax = new OfficeFax();
-
-managePrinter(homePrinter); // Home printer is printing
-managePrinter(officePrinter); // Office printer is printing
-manageScanner(officeScanner); // Office printer is scanning
-manageFax(officeFax); // Office printer is faxing
+let db = MySQLDatabase();
+let userService = UserService(db);
 ```
 
-In this revised example, the `HomePrinter` class no longer needs to implement the `fax` method, adhering to the ISP.
+**Why:** The `UserService` depends on an abstraction (the database connection) rather than a concrete implementation, making it easier to switch databases if needed.
 
-### Tips for Applying ISP in JavaScript
-
-1. **Break Down Large Interfaces**: Split large interfaces into smaller, more specific ones.
-2. **Use Composition**: Combine smaller interfaces to create more complex behaviors.
-3. **Avoid Unnecessary Methods**: Ensure that classes only implement the methods they need.
-4. **Modularize Code**: Use modules to define interfaces and ensure that clients only depend on the interfaces they need.
-5. **Testability**: Smaller, more focused interfaces make the code easier to test.
-
-By following the Interface Segregation Principle, you can create more modular, maintainable, and flexible JavaScript code that adheres to the needs of its clients.
-
-> Dependency inversion principle
-
-The Dependency Inversion Principle (DIP) is one of the five SOLID principles of object-oriented design. It states that high-level modules should not depend on low-level modules. Both should depend on abstractions. Additionally, abstractions should not depend on details. Details should depend on abstractions.
-
-In JavaScript, you can apply the DIP by ensuring that your high-level modules (such as business logic) depend on abstractions (such as interfaces or abstract classes) rather than concrete implementations. This can be achieved using techniques like dependency injection. Here are some examples and tips to illustrate how you can apply the DIP in JavaScript:
-
-### Example 1: Violating DIP
-
-**Before DIP:**
-
-```javascript
-class MySQLDatabase {
-  connect() {
-    console.log("Connecting to MySQL database");
-  }
-
-  query(sql) {
-    console.log(`Executing query: ${sql}`);
-  }
-}
-
-class UserService {
-  constructor() {
-    this.database = new MySQLDatabase();
-  }
-
-  getUser(userId) {
-    this.database.connect();
-    this.database.query(`SELECT * FROM users WHERE id = ${userId}`);
-  }
-}
-
-const userService = new UserService();
-userService.getUser(1);
-```
-
-In this example, the `UserService` class directly depends on the `MySQLDatabase` class, violating the DIP. If you want to switch to a different database, you would need to modify the `UserService` class.
-
-**After DIP:**
-
-```javascript
-class Database {
-  connect() {
-    throw new Error('Method "connect()" must be implemented.');
-  }
-
-  query(sql) {
-    throw new Error('Method "query(sql)" must be implemented.');
-  }
-}
-
-class MySQLDatabase extends Database {
-  connect() {
-    console.log("Connecting to MySQL database");
-  }
-
-  query(sql) {
-    console.log(`Executing query: ${sql}`);
-  }
-}
-
-class MongoDatabase extends Database {
-  connect() {
-    console.log("Connecting to MongoDB database");
-  }
-
-  query(sql) {
-    console.log(`Executing query: ${sql}`);
-  }
-}
-
-class UserService {
-  constructor(database) {
-    this.database = database;
-  }
-
-  getUser(userId) {
-    this.database.connect();
-    this.database.query(`SELECT * FROM users WHERE id = ${userId}`);
-  }
-}
-
-const mySQLDatabase = new MySQLDatabase();
-const userService = new UserService(mySQLDatabase);
-userService.getUser(1);
-
-const mongoDatabase = new MongoDatabase();
-const userServiceMongo = new UserService(mongoDatabase);
-userServiceMongo.getUser(1);
-```
-
-In this revised example, the `UserService` class depends on the `Database` abstraction rather than a concrete implementation. This allows you to easily switch between different database implementations without modifying the `UserService` class.
-
-### Example 2: Using Dependency Injection
-
-**Before DIP:**
-
-```javascript
-class EmailService {
-  sendEmail(to, subject, body) {
-    console.log(`Sending email to ${to} with subject ${subject}`);
-  }
-}
-
-class NotificationService {
-  constructor() {
-    this.emailService = new EmailService();
-  }
-
-  sendNotification(to, subject, body) {
-    this.emailService.sendEmail(to, subject, body);
-  }
-}
-
-const notificationService = new NotificationService();
-notificationService.sendNotification(
-  "user@example.com",
-  "Hello",
-  "This is a test email"
-);
-```
-
-In this example, the `NotificationService` class directly depends on the `EmailService` class, violating the DIP. If you want to switch to a different notification method, you would need to modify the `NotificationService` class.
-
-**After DIP:**
-
-```javascript
-class Notification {
-  send(to, subject, body) {
-    throw new Error('Method "send(to, subject, body)" must be implemented.');
-  }
-}
-
-class EmailService extends Notification {
-  send(to, subject, body) {
-    console.log(`Sending email to ${to} with subject ${subject}`);
-  }
-}
-
-class SMSService extends Notification {
-  send(to, subject, body) {
-    console.log(`Sending SMS to ${to} with message ${body}`);
-  }
-}
-
-class NotificationService {
-  constructor(notification) {
-    this.notification = notification;
-  }
-
-  sendNotification(to, subject, body) {
-    this.notification.send(to, subject, body);
-  }
-}
-
-const emailService = new EmailService();
-const notificationService = new NotificationService(emailService);
-notificationService.sendNotification(
-  "user@example.com",
-  "Hello",
-  "This is a test email"
-);
-
-const smsService = new SMSService();
-const notificationServiceSMS = new NotificationService(smsService);
-notificationServiceSMS.sendNotification("1234567890", "", "This is a test SMS");
-```
-
-In this revised example, the `NotificationService` class depends on the `Notification` abstraction rather than a concrete implementation. This allows you to easily switch between different notification methods without modifying the `NotificationService` class.
-
-### Tips for Applying DIP in JavaScript
-
-1. **Depend on Abstractions**: Ensure that high-level modules depend on abstractions rather than concrete implementations.
-2. **Use Dependency Injection**: Inject dependencies into classes to make them more flexible and testable.
-3. **Define Interfaces**: Use interfaces or abstract classes to define the contracts that concrete implementations must adhere to.
-4. **Avoid Tight Coupling**: Minimize direct dependencies between high-level and low-level modules.
-5. **Testability**: Depending on abstractions makes the code easier to test and mock.
-
-By following the Dependency Inversion Principle, you can create more flexible, maintainable, and testable JavaScript code that is easier to extend and modify.
+These examples illustrate how to apply the SOLID principles in JavaScript without using OOP constructs, focusing on functional programming principles instead.
 
 ## jsdoc
 
