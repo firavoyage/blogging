@@ -84,43 +84,42 @@
   - fleet of time (faye wong)
   - kletka (molchat doma)
   - yumeji’s theme (shigeru umebayashi)
-- - lucky star (2007)
-  - evangelion (1995)
-  - in solitude where we are least alone (2010)
-  - worldend: what do you do at the end of the world? are you busy? will you save us? (2017)
-  - tom and jerry classic collection (1940)
-  - the adventures of little carp (2007)
-  - spirited away (2001)
-  - jurassic world (2015)
+- - spirited away (2001)
   - joker (2019)
   - soul (2020)
-  - the knockout (2023)
-  - the long season (2023)
   - life in a day (2011)
-  - downton abbey (2010)
   - the chorus (2004)
   - the phantom of the opera (2004)
-  - the graduate (1967)
-  - reply 1988 (2015)
   - your name. (2016)
   - how to make millions before grandma dies (2024)
   - the legend of 1900 (1998)
   - les misérables (2012)
-  - call (2020)
   - 5 centimeters per second (2007)
-  - tenet (2020)
   - the great learning (2021)
   - g for gap (2024)
-  - castle in the sky (1986)
   - the last dance (2024)
+  - castle in the sky (1986)
   - .princess mononoke (1997)
+  - .the good the bad and the ugly (1966)
+  - .in the mood for love (2000)
+  - .the truman show (1998)
+  - .forrest gump (1994)
+  - .roman holiday (1953)
+  - .oppenheimer (2023)
+- - tom and jerry classic collection (1940)
+  - the adventures of little carp (2007)
+  - the knockout (2023)
+  - in solitude where we are least alone (2010)
+  - worldend: what do you do at the end of the world? are you busy? will you save us? (2017)
+  - lucky star (2007)
+  - evangelion (1995)
   - .tonikawa: over the moon for you (2020)
   - .my youth romantic comedy is wrong, as i expected (2011)
   - .the melancholy of haruhi suzumiya (2006)
   - .the disappearance of haruhi suzumiya (2010)
-  - .your lie in april (2014)
   - .a certain scientific railgun (2009)
   - .re: zero - starting life in another world (2016)
+  - .your lie in april (2014)
   - .bakemonogatari (2009)
   - .frieren: beyond journey's end (2023)
   - .bocchi the rock (2022)
@@ -131,12 +130,8 @@
   - .school days (2007)
   - .scum's wish (2017)
   - .the big bang theory (2007)
-  - .the good the bad and the ugly (1966)
-  - .in the mood for love (2000)
-  - .the truman show (1998)
-  - .forrest gump (1994)
-  - .roman holiday (1953)
-  - .oppenheimer (2023)
+  - .the long season (2023)
+  - .reply 1988 (2015)
 - - honkai star rail (2023)
   - honkai impact third (2016)
   - houkai gakuen second (2014)
@@ -176,6 +171,7 @@
   - .pico park (2019)
   - .fly me 2 the moon (2011)
   - .needy streamer overload (2022)
+  - .aquarium (2023)
   - .yosuga no sora (2008)
   - .riddle joker (2020)
   - .doki doki literature club! (2017)
@@ -253,7 +249,7 @@
   - web worker (xinbao & lv777 & pakchoi & kaiyi & smart)
   - yitianshijie (li ruyi)
   - yixi (yixi)
-- - wikipedia & wikipedian profiles
+- - wikipedia & wikipedian user pages
   - github & the pirate bay & z library & anna's archive
   - internet archive wayback machine & archive.today
   - google & mistral le chat & awesome gpt prompts
@@ -261,12 +257,12 @@
   - hacker news & v2ex creative & ruanyf weekly & product hunt all time
   - codepen spark & css tricks & javascript weekly
   - twitter & mastodon & slashdot & solidot & rebang
-  - old reddit & nga bbs & zhihu & 4chan & stack exchange
-  - codeforces & libre oj & vijos & luogu & xjoi
+  - old reddit & zhihu & 4chan & stack exchange
+  - fandom & moegirl.icu & nga bbs & forum.gamer.com.tw
+  - codeforces & libre oj & vijos & luogu
   - cnblogs & luogu blog & travellings.cn & foreverblog.cn & travel.moe
   - bangumi.tv & mikan project & bgmlist & my anime list & dmhy.org
   - google fonts
-  - nyaa.si & hifini.com
   - douban book & goodread
   - douban movie & imdb
   - vndb & shinnku galgame
@@ -307,8 +303,10 @@
   - silver wolf & kafka
   - sparkle
   - xing qiu
+  - yuuki sakuna
 - - ubuntu yaru
-  - google reader & google maia css
+  - google maia css & google reader
+  - wikipedia vector-2022
   - hacker news
   - dracula theme
   - nord theme
@@ -339,7 +337,7 @@
   - playfair
   - poppins
   - pt serif
-  - resource han rounded cn
+  - resource han rounded
   - roboto
   - ubuntu sans
   - zhi mang xing
@@ -462,7 +460,7 @@
   - pieter levels levelsio & make authorship & nomad list founding
   - promise of playboy sr
   - qingyu codeforces
-  - randall munroe & xkcd founding
+  - randall munroe & xkcd manga founding
   - ren baoshuo fzu & oier db founding
   - richard rusczyk & art of problem solving founding
   - rodrigo pombo pombus & web dev
@@ -540,6 +538,7 @@
   - terser 5.19.2
   - wenyan 0.3.4
   - badge-maker 4.1.0
+  - wikitext 4.0.0
   - markdown-all-in-one 3.6.2
   - code-runner 0.12.2
   - javascript-code-snippets 1.8.0
@@ -629,11 +628,10 @@
   - but to myself i seem to have been only like a boy playing on the sea-shore
   - and diverting myself in now and then finding a smoother pebble or a prettier shell than ordinary
   - whilst the great ocean of truth lay all undiscovered before me
+- again, you can't connect the dots looking forward; you can only connect them looking backwards
+  - so you have to trust that the dots will somehow connect in your future
 - knowledge isn't free
   - you have to pay attention
-- tell me, and i will forget
-  - show me, and i may remember
-  - involve me, and i will understand
 - idle mode... _yawn_ how boring.
   - if you're not solving problems or writing up contributions
   - then don't blame me if your life is boring
@@ -785,6 +783,7 @@
 
 ## shadows
 
+- - wikipedia `User:Firavoyage`
 - - github `firavoyage`
   - wakatime `firavoyage`
 - - codepen `firavoyage`
@@ -835,3 +834,4 @@
 
 > $may \space all \space the \space beauty \space be \space blessed.$
 
+> _毋负今日_

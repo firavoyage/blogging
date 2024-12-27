@@ -360,6 +360,7 @@ sudo apt install gnome-shell-extension-prefs
   - javascript (es6) code snippets
   - markdown all in one
   - code runner
+  - wikitext
 - config appearance
   - -> `view > appearance`
   - menu & status & ... bar `off`

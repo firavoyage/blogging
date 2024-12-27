@@ -1242,12 +1242,6 @@ f 打每个游戏都想赢.
 
 也很好. 但"成为人上人"就太功利了 qwq.
 
-## fu xuan quote
-
-(berryberry 南 i 下 mihoyo sr doujin)
-
-符玄: 你思春期吗!
-
 ## why vscode cult of god
 
 **i never pressed one ctrl s after using vscode.**

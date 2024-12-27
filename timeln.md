@@ -2385,7 +2385,7 @@ school
 
 ## 20240609
 
-`ref`
+`weather` `phone` `ref`
 
 tech
 上午
@@ -2504,7 +2504,7 @@ $y=sin2x+acosx,a\in(\infty,-2),x\in[0,2\pi],y^{'}>0$,
 
 ## 20240623
 
-`ref`
+`weather` `ref` `important`
 
 高中的第一个暑假将至.
 想象小学二年级时
@@ -2787,7 +2787,7 @@ wangzhaohai
 
 ## 20240702
 
-`ref`
+`weather` `retro` `ref`
 
 昨晚没有晚睡.
 自然醒.
@@ -2962,7 +2962,7 @@ ruanyf 的各个板块都翻阅了
 
 ## 20240718
 
-`ref`
+`dev` `ref` `important`
 
 今天早上起来 9 点多,有精神,下午喝红茶.
 
@@ -3198,7 +3198,7 @@ read ruanyf weekly
 
 ## 20240726
 
-`ref`
+`love` `live` `ref`
 
 今晚(今早)看 gaozixiang 直播
 现在 2:00 了
@@ -3240,7 +3240,7 @@ inspired by
 
 ## 20240727
 
-`ref`
+`live` `ref`
 
 凌晨 1:24
 看 chenzihao 直播
@@ -3378,7 +3378,7 @@ sync phone and laptop
 
 ## 20240803
 
-`ref`
+`retro` `ref` `important`
 
 要出发了
 没咋收拾,几本书,电脑,手机,好了
@@ -3448,28 +3448,51 @@ companile hotel by jin jiang.
 
 ## 20240807
 
-`ref`
+`weather` `gaming` `ref` `important`
 
 晚上.环球影城度假区.
+
 排侏罗纪世界过山车,手机锁保险柜了.后悔,还有 80 分钟的队.
+
 遇到个妹妹,手上玩的是原神,右边是 kaeya,amber.
+
 萌新,问是辽宁的,准初一,问她要不要上我的号,送她玩了.
+
 聊天.来自全国唯一能用计算器考试城市 desu,妹妹说好多漫展都在这里,羡慕喵.
+
 妹妹说朋友带她入坑的,小红书还有聊天功能,还能打视频,发表情包挺熟练的,可爱喵.
+
 正在玩星铁 desu,感兴趣?请她看看光脚的不怕穿鞋的,我嘞个萝莉天堂啊.哈哈.
+
 告别.最后怕切完号登不上,把手机号和密码送了.祝好.
 
+upd 20241228
+
+其实她说的是... 漫展都在广州上海...
+
+她那里(辽宁)根本...
+
+---
+
 想起上学期,把 cr 的号送同学了,他拿着 noskill rage eg healer,从 5000 打到 7500desu.
+
 现在不知何方,何样.
+
 也好,是掷漂流瓶的感觉.
 
-8:55,在功夫熊猫那里.
+---
+
+8:55
+
+在功夫熊猫那里.
+
 最后一个项目,穿过四五个空荡荡的房间,眼前一望无际的铁栏迷宫.
+
 入无人之境.坐上了船.
 
 ## 20240808
 
-`ref`
+`weather` `ref`
 
 北京回上海的火车，晚点。
 
@@ -3837,28 +3860,40 @@ honkai star rail
 
 ## 20240823
 
-`ref`
+`weather` `sleep` `ref` `important`
 
 5:10
+
 睡觉。
+
 天亮了,蒙蒙亮,窗帘边角透过蓝。
 
 16:01
+
 看屏幕,眼睛有点问题.
+
 每个字都在闪光,是大半夜看 kindle,连着看了几个小时的感觉.
+
 就是恍惚,字都飞出亮光了,是电影院戴着 3d 眼睛的感觉.
 
 16:47
+
 看了下 sr wiki
+
 moment of victory 可以给 fu xuan
+
 sparkle 可以用四星"dance dance dance"
+
 武器池大保底,等复刻黄泉.
 
 我想早睡啊!但是几点呢!
+
 9 点不可能,刚吃完晚饭就睡了.
+
 11 点还是 1 点?
 
 (-> mistral)
+
 **learn how react alpine vue svelte jquery works**
 
 ## 20240824
@@ -4079,29 +4114,38 @@ think voyage.
 
 ## 20240829
 
-`ref`
-
 11:xx
+
 听到做饭的声音,醒了.
+
 不想起床,在思考问题.其实也困.
+
 想着,**decorator function in javascript framework like mithril?**
 
 14:xx
+
 起床.读了一些内容.
 
 16:25
+
 ask mistral **np complete...**
 ...
 玩 sr,好喜欢 kafka
 
 19:40
+
 git memeries
+
 8xx mb... the quota has been used over 80%.
+
 想着,大多数是图片,截图.
+
 svgify 一下,就好了.
 
 22:33
+
 read over react docs.
+
 ask mistral **react use state in vue**
 
 01:27
@@ -4111,7 +4155,9 @@ ask mistral **dom apis**
 ask mistral **web frameworks diff**
 
 01:52
+
 休息.明天读 react docs.
+
 目前在
 
 - LEARN REACT
@@ -4120,9 +4166,8 @@ ask mistral **web frameworks diff**
 
 ## 20240830
 
-`ref`
-
 3:xx
+
 睡觉,但是一直睡不着,思考各种问题.
 
 - 番剧的评分,决定因素
@@ -4133,46 +4178,71 @@ ask mistral **web frameworks diff**
   关.
 
 6:xx
+
 天亮了,听到了人声.
+
 阳光很亮,先是老人,再是脚步.
+
 只想睡觉...
+
 最后应该是睡着.
 
 14:46
+
 起床.
+
 看到窗台上,几周没浇水的绿色.
+
 去先浇水,然后扫地.
+
 清爽.
 
 ## 20240831
 
-`ref`
-
 02:18
+
 明天看电影,如果喜欢,加入 readme.
 
 计划...
+
 **ruanyf weekly,放学后慢慢看**
+
 react docs 今天读.
 
 ## 20240901
 
-`ref`
+`school` `ref`
 
 放课后...
+
 f:
+
 你教哪个班?
+
 陈(waifu):
+
 (指.)
+
 我教一班和八班.
+
 我和分班的说好了,不管你怎么选,我都不教你.
 
+---
+
+`quote` `fin` `ref` `important`
+
 djhs g1t2 fin.
+
 "so much for this have a nice day.
+
 以上.祝你度过智识的,审美的一天."
 
+---
+
 开学了.
+
 日记,记在本子上.
+
 不在此更新.
 
 今天
@@ -4188,8 +4258,11 @@ djhs g1t2 fin.
 23:45
 
 下载了 gnome boxes,
+
 在 ubuntu 上跑 windows,mac,android.
+
 hn 上有人成功的,得到了 10k 观看.
+
 挺有意思,不过没啥用.
 
 改下 memories
@@ -4200,7 +4273,10 @@ hn 上有人成功的,得到了 10k 观看.
 - `discoveries` -> `insight`
 
 djhs g2t1 day1.
+
 太琐碎,没有什么深刻的话题.
+
+## 20240903
 
 00:13
 
@@ -4213,8 +4289,6 @@ djhs g2t1 day1.
 太晚了.
 今天玩了许久 sr,还调试 gnome boxes.
 g.zip 划去些许,明再整理
-
-## 20240903
 
 语文课本最爱
 
@@ -4255,21 +4329,26 @@ sync phone memeories completed
 `ref`
 
 00:09
+
 上了 inter knot 看看
+
 自动跳转 inot.top
+
 用 flutter md3 设计,再没有了 zzz 味道.
+
 失落.
 
 打开 inspector
+
 flutter 使用了 web component.
+
 然后一直在刷新 canvas...
+
 一个论坛,数据库前端而已,有必要吗,用 web + tauri 不好吗...
 
 ## 20240906
 
-`ref`
-
-(school)
+`school` `ref` `important`
 
 17:55
 
@@ -4315,8 +4394,7 @@ retro...
 
 "如果你高考想考 135 以上,(3)一定要看懂看会,答案写得很详细."
 
-`ref`
-`math`
+`school` `math` `ref` `important`
 
 $
 \{a_n\},\forall n \in N^+,a_n > 0,a_{n+1} \leq S_n \\
@@ -4435,8 +4513,6 @@ idea: **机器人代肝.** (third party plugin?)
 
 best of today.
 
-`ref`
-
 **added `elegance` after my name**
 
 life attitude.
@@ -4471,8 +4547,6 @@ love **hotel california**
 - voyagejs component
 
 react 的 state 太激进了.
-
-`ref`
 
 **如果真的 functional programming,其实完全可以把框架当作函数库.**
 
@@ -4551,13 +4625,13 @@ Choosing the State Structure
 
 00:18
 
+`live`
+
 看一眼,gi 阿炜.
 
 新号,大世界一个 bennet,barbara,collei 打烈绽放,练度不错.
 
 第二十一天,打了 170 个小时了,满探索满剧情满深渊的说.也到后期了.
-
-`ref`
 
 **看来游戏时长投票统计网站的 200 小时没错.**
 
@@ -4575,9 +4649,8 @@ added to weekly.
 洗了,晒了被子,床单,枕头.有一种酒店新房的感受.
 以上.
 
-`ref`
-
 **今天 0 点就一直在空调房冒热汗...**
+
 或许睡一觉舒适.明天一切如常,星期三,做两件事.
 
 - 文本解析 (百年孤独,react learn docs)
@@ -4600,14 +4673,17 @@ added to weekly.
 18:01
 
 好多高一六班的大佬都去二班物化生了,我们四班物化地,感觉就两个大佬.
+
+- gui minghao
+- liu chenyu
+
 今天午休,我出了两道钓鱼题,成功捕捉.
 
-`ref`
-`math`
+`school` `math` `ref` `important`
 
 $x^2+y^2=1,((x+1)(y+2))_{max}?$
 
-${a_n},a_n=(-1)^{n}*\frac{1}{n},S_n?$
+$\{a_n\},a_n=(-1)^{n}*\frac{1}{n},S_n?$
 
 一天挺累的,精神不好,常常想趴着睡觉.
 
@@ -4615,8 +4691,6 @@ ${a_n},a_n=(-1)^{n}*\frac{1}{n},S_n?$
 有些时间,却很振奋,全情投入,只是头痛.
 
 学校里没有什么事务.
-
-`ref`
 
 **如果有,拿了数学培优卷子和暑假练习**
 
@@ -4639,7 +4713,7 @@ ${a_n},a_n=(-1)^{n}*\frac{1}{n},S_n?$
 缘起是 chenxiao origami,
 我想要生日礼物,一些折纸.
 
-`ref`
+`weather` `origami` `craft` `ref` `important`
 
 **60cm\*60cm 双色纸张**
 
@@ -4651,15 +4725,11 @@ ${a_n},a_n=(-1)^{n}*\frac{1}{n},S_n?$
 
 20:14
 
-`ref`
-
 **时间悠远.从容自在地读书.**
 
 想起了 react docs and ruanyf weekly,或者说各种 weekly plan
 
 22:39
-
-`ref`
 
 reading react learn docs...
 
@@ -4682,8 +4752,6 @@ reading react learn docs...
 00:13
 
 complete reading **Preserving and Resetting State**
-
-`ref`
 
 what awkward solution.
 
@@ -4883,6 +4951,10 @@ birthday...
 - cake `21cake black label`
 - movie `a frozen rage`
 
+upd
+
+粗制滥造的电影 qwq... 反正没进 readme 就是了.
+
 ## 20240917
 
 birthday.
@@ -4946,8 +5018,6 @@ sleep.
 finished everything. sleep.
 
 tomorrow:
-
-`ref`
 
 - djhs g2t1 first monthly exam
 - sync phone and categorize things
@@ -5020,9 +5090,6 @@ and all geometry into canvas (not svg)
 
 01:05
 
-`math`
-`ref`
-
 title: 补档.国家信竞集训队员 qingyu 教你如何挂人
 
 https://web.archive.org/web/20240905081058/https://qoj.ac/blog/qingyu/blog/971
@@ -5038,8 +5105,6 @@ foresight which is actually experience++
 sleep zzz...
 
 02:35
-
-`ref`
 
 或者说,你也不需要什么知识了.
 
@@ -5065,8 +5130,6 @@ $
 
 sleep. early.
 
-`ref`
-
 weekend plan
 
 - origami
@@ -5085,8 +5148,6 @@ math score out.
 最后改分,就到 82.
 
 wtf.
-
-`ref`
 
 王兆海:
 
@@ -5126,8 +5187,6 @@ nodes in javascript obj
 妈的,傻逼命名法.
 
 20:24
-
-`ref`
 
 英语,年一没上三位数,作罢.
 
@@ -5175,16 +5234,21 @@ read zhihu about nanjing foreign language school
 
 sleep.
 
-retro
-
-`math`
-`ref`
+`school` `fun` `ref` `important`
 
 zhangxizhe:
 
 知道你英语好,没想到你英语这么好啊,你说的我一个都不会.
 
 (最触动的一句话,尽管他英语没上半分)
+
+upd
+
+翻回忆的时候看到了... 总之就是 hu qianling 看到 f 醒着,
+
+**叫 f 把 cloze 的 15 道题每一个选项都翻译一下 qwq...**
+
+只是认识而已 (leisure app?)... 但也很少全对, 知道单词意思, 然而和作者想得不一样哦...
 
 22:49
 
@@ -5275,8 +5339,6 @@ sleep. after reading worldly stories.
 
 或许,从 17 点,到 22 点,一直在无序的数字中漂游.
 
-`ref`
-
 **竟然不自知.**
 
 想起,今天后半夜 2 点多睡觉的.或许如常.
@@ -5290,8 +5352,6 @@ sleep. after reading worldly stories.
 ## 20240930
 
 00:27
-
-`ref`
 
 ask mistral: **classic songs & ballad songs**
 
@@ -5657,7 +5717,7 @@ black tea on desk. hotel california playing.
 
 sr diverse universe auto battling.
 
-swimming in threads. saving some to reflections.
+surfing in threads. saving some to reflections.
 
 17:52
 
@@ -5681,7 +5741,7 @@ exciting. every turn must be the best strategy.
 
 21:49
 
-swimming in threads(zhihu & berryberry)...end.
+surfing in threads(zhihu & berryberry)...end.
 
 going out of bedroom.
 
@@ -5695,7 +5755,7 @@ wow.
 
 21:53
 
-`ref` `school`
+`school`
 
 (playing hotel california at max volume)
 
@@ -5766,7 +5826,7 @@ sr luminary wardance complete.
 
 00:53
 
-swimming...
+surfing...
 
 added a few people and podcasts to readme
 
@@ -5778,7 +5838,7 @@ sleep.
 
 01:27
 
-swimming further
+surfing further
 
 sleep at the end of the day.
 
@@ -5848,7 +5908,7 @@ no one let him ... (treatment to me)
 
 18:xx
 
-`ref` `school` `weather`
+`weather` `ref`
 
 放课后...
 
@@ -5922,9 +5982,9 @@ _113rd aniversary._
 
 00:18
 
-swimming in v2ex and hacker space.
+surfing in v2ex and hacker space.
 
-swimming in berryberry.
+surfing in berryberry.
 
 asking mistral about _solitude_.
 
@@ -6001,7 +6061,7 @@ returned home.
 
 有用的信息:
 
-`view` `story` `ref`
+`view`
 
 - 一般的,各种教学,比如空中课堂.
   - 都有大量无用信息.比如不用符号语言.
@@ -6107,9 +6167,9 @@ dont know why.
 
 21:46
 
-`game` `weather` `ref`
+`game` `weather`
 
-swimming sr wiki.
+surfing sr wiki.
 
 sub stats of relics are nothing.
 
@@ -6232,7 +6292,7 @@ sleep.
 
 21:54
 
-swimming in wiki.
+surfing in wiki.
 
 `game`
 
@@ -6336,7 +6396,7 @@ tomorrow...
 
 `game` `weather`
 
-swimming in berryberry...
+surfing in berryberry...
 
 updated
 
@@ -6351,7 +6411,7 @@ playing sky by beyond
 
 23:45
 
-swimming in mistral ai...
+surfing in mistral ai...
 
 ## 20241018
 
@@ -6371,13 +6431,15 @@ retro late night bar music feeling...
 
 callback...
 
-`school` `ref` `refref`
+`school` `ref` `important`
 
 today is thurday. on math class in the moring...
 
 liuyuan played "alan becker match man vs math"
 
 in last 15 min. after this is lunch time.
+
+轻松校园生活的 reflection ...
 
 `comparison`
 
@@ -6421,8 +6483,6 @@ sleep.
 23:03
 
 想说一句话...
-
-`ref`
 
 "在有机会时,与溶解了注意力的作品对话"
 
@@ -6512,7 +6572,7 @@ sleep.
 
 "新高一认识我的也不少..."
 
-`ref` `weather` `important`
+`weather` `ref` `important`
 
 **"他乡遇故知"**
 
@@ -6587,7 +6647,7 @@ f:电源开了吗?
 
 21:13
 
-`gaming` `important`
+`gaming` `ref`
 
 playing sr...
 
@@ -6672,7 +6732,7 @@ fucking teammates. some even idling.
 
 02:xx
 
-swimming...
+surfing...
 
 ask mistral about genius and mithriljs
 
@@ -6816,7 +6876,7 @@ goodnight, mikhail.
 
 23:03
 
-swimming...
+surfing...
 
 - play sr (done.)
 - write voyagejs (wip)
@@ -7662,7 +7722,7 @@ released 0.13
 
 01:xx
 
-`ref` `important` `school`
+`school` `ref` `important`
 
 retro...
 
@@ -7682,9 +7742,7 @@ retro...
 
 我不知道世界如何看待我,我就像海边拾贝壳的男孩.
 
-(只)做有意思的事情.
-
-根本不会抑郁.
+做有意思的事情.
 
 01:40
 
@@ -7716,7 +7774,7 @@ a open and frank boy in cute anime charcater of red eyes.
 
 kksk!
 
-`school` `ref` `important` `retro`
+`school` `sleep` `ref` `important`
 
 oh it's too late... maybe not?
 
@@ -8028,7 +8086,7 @@ emm 好像已经写了许多了...qwq
 
 17:xx
 
-`weather` `important`
+`weather` `ref` `important`
 
 到家.观察装修.
 
@@ -8062,7 +8120,7 @@ kkrb725.com
 
 "那些因竞赛而停课的选手，竞赛失利后是如何回归高中课堂的？"
 
-`weather` `school` `ref`
+`weather` `school` `rating` `ref` `important`
 
 回想自己失败的 djhs 生涯...
 
@@ -8083,7 +8141,7 @@ kkrb725.com
 
 对了,下周学工,挺清闲.
 
-`weather` `school` `desire` `ref` `important`
+`weather` `school` `desire`
 
 不知道什么时候开启 pure 或者 intuitive proj
 
@@ -8127,7 +8185,7 @@ f 现在亦然.
 
 02:35
 
-`dev` `important`
+`dev` `ref` `important`
 
 installed wakatime.
 
@@ -8273,7 +8331,7 @@ https://xinyoudui.com/
 
 05:10
 
-swimming in zhihu...(saved to reflections)
+surfing in zhihu...(saved to reflections)
 
 sleep.
 
@@ -8490,7 +8548,7 @@ Thank you for using nginx.
 
 21:25
 
-`weather` `important`
+`weather` `ref`
 
 把薯片拆了.吃了.
 
@@ -8647,7 +8705,7 @@ gallagher dropped.
 
 22:07
 
-`swimming`
+`surfing`
 
 on zhihu.
 
@@ -8695,7 +8753,7 @@ ai 洗稿早已不足为奇,不过是第一次见到喵.
 
 22:11
 
-`swimming`
+`surfing`
 
 你见过码风最好的 OI 选手是谁？
 
@@ -8717,7 +8775,7 @@ Visual Studio 2022 的 C++ 代码自动格式化。
 
 22:15
 
-`swimming`
+`surfing`
 
 VS Code 凭什么如此受欢迎?
 
@@ -8775,7 +8833,7 @@ great.
 
 02:03
 
-`swimming`
+`surfing`
 
 localhost8080...
 
@@ -8783,7 +8841,7 @@ wolfram alpha origami.
 
 18:30
 
-`swimming`
+`surfing`
 
 家长们，你们认为孩子沉迷游戏严重还是沉迷 Linux 严重呢？
 
@@ -8809,7 +8867,7 @@ playing sr.
 
 01:35
 
-`swimming`
+`surfing`
 
 "I built a JS framework with a rich abstraction layer that automatically picks the best JS framework to use under the hood"
 
@@ -8827,7 +8885,7 @@ forced to
 
 03:02
 
-`swimming`
+`surfing`
 
 刷不完,根本刷不完 qwq...
 
@@ -9024,7 +9082,7 @@ get up.
 
 had lunch.
 
-`swimming`
+`surfing`
 
 in shortcuts
 
@@ -9068,7 +9126,7 @@ better fit for leisue players like me.
 
 `gaming`
 
-swimming in zhihu arch femboys...qwq.
+surfing in zhihu arch femboys...qwq.
 
 and playing sr unknowable domain.
 
@@ -9143,7 +9201,7 @@ i'm fully refreshed.
 
 finished editing vscode shortcuts.
 
-`swimming`
+`surfing`
 
 in youtube
 
@@ -9249,7 +9307,7 @@ sync tg and paper.
 
 getting on the new vim like hjkl nav shortcut.
 
-`swimming`
+`surfing`
 
 in zhihu...
 
@@ -9265,7 +9323,7 @@ lofi is great.
 
 02:50
 
-`swimming`
+`surfing`
 
 in zhihu "如果影视飓风里的 tim 来自于普通家庭，那么他还会有今天的成就吗？"
 
@@ -9504,7 +9562,7 @@ even didnt trigger talent.
 
 22:16
 
-`gaming` `ref` `important` `weather`
+`gaming`
 
 it's really enjoyable watching this.
 
@@ -9724,7 +9782,7 @@ playing df
 
 `fun`
 
-swimming in awesome chatgpt prompts
+surfing in awesome chatgpt prompts
 
 > Usage limit reached
 
@@ -9744,7 +9802,7 @@ had buffet. returned.
 
 15:xx
 
-swimming on phone.
+surfing on phone.
 
 16:xx
 
@@ -9828,7 +9886,7 @@ playing text rpg with mistral...
 
 23:03
 
-`swimming`
+`surfing`
 
 searching other useful prompts
 
@@ -9848,7 +9906,7 @@ sr div uni proto 7.
 
 **only base dmg works**
 
-`swimming`
+`surfing`
 
 finding and testing prompts while auto battling.
 
@@ -9874,7 +9932,7 @@ finalized again.
 
 02:17
 
-swimming and gaming.
+surfing and gaming.
 
 sr div uni proto 7.
 
@@ -9899,7 +9957,7 @@ replaced topaz with acheron and tried again.
 
 02:51
 
-swimming...
+surfing...
 
 still struggling.
 
@@ -10098,7 +10156,7 @@ finalized. things are predestinied.
 
 16:17
 
-`swimming`
+`surfing`
 
 finding good prompts
 
@@ -10691,7 +10749,7 @@ and now i feels energetic again...
 tomorrow:
 
 - lucky
-- swimming in css in js frameworks
+- surfing in css in js frameworks
 
 play some df and
 
@@ -11213,7 +11271,7 @@ playing df.
 
 write voyagejs
 
-`swimming`
+`surfing`
 
 bilibili space new look?
 
@@ -11223,7 +11281,7 @@ nothing special...
 
 `math`
 
-swimming in berryberry
+surfing in berryberry
 
 欣赏了一下 Problem #6 at IMO 1988
 
@@ -11239,7 +11297,7 @@ https://en.wikipedia.org/wiki/Vieta_jumping
 
 21:35
 
-`swimming`
+`surfing`
 
 found this.
 
@@ -11365,7 +11423,7 @@ further revising and categorizing prompts.md
 
 writing pure/chemitry
 
-`dev` `ref` `important`
+`dev` `ref`
 
 installed markdown all in one
 
@@ -11393,7 +11451,7 @@ on https://www.reddit.com/r/Zillennials/comments/1eo625r/feeling_like_the_world_
 
 01:29
 
-`dev` `ref` `important`
+`dev` `ref`
 
 Reddit is anonymous, so your username is what you’ll go by here. Choose wisely—because once you get a name, you can’t change it.
 
@@ -11989,7 +12047,7 @@ had 5 matches including 2 battles only giving me 4 points.
 
 看了一个人.
 
-`weather` `ref` `important`
+`weather` `gaming` `ref`
 
 github.com/verymoe
 
@@ -12273,7 +12331,7 @@ git remote add e https://gitee.com/firavoyage/memories.git
 
 17:17
 
-`swimming`
+`surfing`
 
 swimmed in berryberry.
 
@@ -12289,7 +12347,7 @@ found a vid on berryberry.
 
 20:17
 
-`swimming` `dev`
+`surfing` `dev`
 
 **news: github copilot is free now.**
 
@@ -12301,7 +12359,7 @@ installed.
 
 00:43
 
-`doujin` `fun` `bangumi` `ref`
+`doujin` `fun` `bangumi` `ref` `important`
 
 看了 akt 和 yuluer 的 sparkle. 狠狠冲了, 心情真好, 没有烦恼.
 
@@ -12399,7 +12457,7 @@ rm rounded mplus. added nunito.
 
 watching lciop cr 20 win live... (2.6 hog)
 
-`gaming` `ref`
+`gaming`
 
 playing df...
 
@@ -12445,7 +12503,7 @@ watched some random lives...
 
 3:xx
 
-`swimming`
+`surfing`
 
 看了几个 df 的视频...
 
@@ -12487,7 +12545,7 @@ fixed ac issue.
 
 16:37
 
-`swimming` `gaming`
+`surfing` `gaming`
 
 playing df...
 
@@ -12497,7 +12555,7 @@ playing df...
 
 17:55
 
-`swimming` `gaming` `ref`
+`surfing` `gaming`
 
 playing df...
 
@@ -12548,7 +12606,7 @@ played df.
 
 watched evangelion episode 6.
 
-`swimming` `gaming`
+`surfing` `gaming`
 
 df kisflow 也是大战场 player 去往摸金的...
 
@@ -12626,7 +12684,7 @@ f 打大战场的, 这队友匹配, 可以理解成
 
 16:52
 
-`gaming` `mind` `ref`
+`gaming` `thinking` `ref` `important`
 
 thinking df...
 
@@ -12648,9 +12706,21 @@ f 现在有 10M (其实是 1859k, 1.8M... 好像把仓库的垃圾算上了 qwq,
 
 **另外几个图都有信号屏蔽, 还要拉闸 qwq... 还是机坝比较舒服... 那个信号屏蔽谁设计的!**
 
+upd 20241226
+
+算了一下, 头盔买破损的, 一套 g18 装备要 220000.
+
+战备 120485, 机密要求 112500, 卡战备进的, 没法削了.
+
+手里 3398k (总资产 13.2M, 那是仓库, 把不知道什么统计进去了).
+
+**除一下, 15 把就打完了. 算总资产也就 60 把. 长叹!**
+
+而且那玩意经常涨价, 220000 其实少算了, 但是有些东西可能仓库有, 反而会便宜.
+
 18:49
 
-`dev` `ref`
+`dev`
 
 upd mistral/solid principle.
 
@@ -12690,7 +12760,7 @@ played df.
 
 00:20
 
-`school` `ref`
+`school` `ref` `important`
 
 one day left.
 
@@ -12708,11 +12778,11 @@ watching evangelion episode 7.
 
 然后就搜索了. 然后就进去 mayx 的 blog 了, 还是 eu org 免费域名...
 
-总之 swimming 半天, 20 几页呢...
+总之 surfing 半天, 20 几页呢...
 
 03:04
 
-`swimming`
+`surfing`
 
 大概就是 mayx 的 blog...
 
@@ -12730,7 +12800,7 @@ memories 超出 1gb git 限制了...
 
 删除历史重来吧, 其实就 600 多 mb.
 
-**说来, 今天网速正常了呢, 为什么呢... (c: bocchi)**
+**说来, 今天网速正常了呢, 为什么呢... 2mb/s (c: bocchi)**
 
 然后 chromium 又挂了, 实在是开的 apps 太多了...
 
@@ -12743,3 +12813,415 @@ memories 超出 1gb git 限制了...
 不过无伤大雅.
 
 **sleep.**
+
+12:xx
+
+awaken.
+
+15:59
+
+`weather`
+
+returned home.
+
+圣诞节. 收到了, frey chocolate. 几天前选的礼物.
+
+暮年少女给 f 写信... 就是贺卡了, 写在信封上.
+
+吃日式料理, 店里只有 4 个桌子, 胖妹子, 胖男人. 还可以的说.
+
+simple life.
+
+`school` `ref` `important`
+
+**考试的说... 不打算参加了. 一小时, 睡一半, 有什么意思.**
+
+又不是困, 不会哦 qwq... 要么空着, 要么乱填, 当然快...
+
+虽然说 f 常年不及格, 在这个三四百人的学校, 也能杀个几十上百人吧...
+
+总之就是上海市中心平凡市重点了
+
+`school` `ref` `important`
+
+追想上次...
+
+高一写学习的意义
+
+高二写我应当与我愿意的关系
+
+高三写断舍离
+
+说来, 虽然是上学期, 也不是第一次月考了呢...qwq
+
+f g1t1 sept exam 写的是 论成长. 还拿了个年一 (也就那学期拿过, 第一天和最后一天).
+
+很适合高一新手尝试的题目 desu!
+
+不知道这一届写的什么... 好奇呢...
+
+20:46
+
+`dev` `ref` `important`
+
+ubuntu 又不理我喵! 虽然重启就好了...
+
+临终前开了个 system monitor.
+
+**memory: 15.8g (98.1%) of 16.1g**
+
+鼠标是动不了了.
+
+终于明白了为什么 android 从来不崩...
+
+**android 会杀后台, ubuntu 不会, 至少默认不会.**
+
+23:59
+
+`bangumi`
+
+今天就不看番吧 qwq...
+
+休息.
+
+## 20241226
+
+00:40
+
+`ref`
+
+upd readme. separated movies and bangumis.
+
+直接按观看顺序排序吧... 不必将好片放上面, 因为只有喜欢的影片会被放入.
+
+01:23
+
+`dev`
+
+system monitor 显示 200kb/s
+
+wifi 被 isp 限制速率了?
+
+04:21
+
+`gaming`
+
+机密挂了, g18 马枪了, 趴地上就修 4 枪腿, 那人反应了一下, 一枪手两枪头带走.
+
+去普坝跑刀, 保险居然出了怀表, 当然都是我的, 队友没机会的.
+
+打到现在, 就两块怀表, 金条是礼包出的.
+
+跑了两把刀, 做了几个任务.
+
+**还开出了红卡, 忘了是啥了, 放进了卡包, 结果现在没了. 似乎别人都放进保险箱, 为什么呢...**
+
+**跑刀威龙一般吧, 感觉蜂医好些. 其实大部分队友都不和你一块走, 何谈抢保险...**
+
+关键人机的包, 根本没有药. 打人机,
+
+**改了一下 g18 方案, 放 60 法蓝蛋进保险箱. 8 枪变成 6 枪, 很好的.**
+
+8 枪 0.4s, 6 枪 0.3s, 但是 f 又不可能枪枪中 qwq...
+
+至于 s12k 完全没用啊, 又不是地铁逃生... 23333...
+
+04:50
+
+**sleep.**
+
+11:xx
+
+awaken.
+
+annoyed by the family.
+
+15:xx
+
+got up.
+
+16:32
+
+`weather` `sleep` `ref` `important`
+
+had lunch. burgerking.
+
+好晚呢... 不过昨天中午出去吃, 回家也下午了喵!
+
+(从容自在)
+
+18:07
+
+`live`
+
+kisflow: 怎么又是他!
+
+(看来端游 df 玩家挺少的 qwq... 一撞车就撞到了.)
+
+19:48
+
+`dev`
+
+changed all "swimming" to "surfing"
+
+`gaming` `surfing` `ref` `important`
+
+playing df.
+
+没有打, 看攻略, 关于卡战备.
+
+毕竟这个游戏, 避战还是很好的, 不一定要干架.
+
+因为别人有好东西, 很可能躲着你, 或者放保险箱了. 打架就爆装备.
+
+**现在就一个卡战备, 就是买破损的头甲. 其他的好像都不溢价, 或者溢价几千.**
+
+upd 20:20
+
+had supper.
+
+现在想来, 机坝就 112500 战备限制.
+
+玩溢价, 就是破损四级头三级甲跑刀了.
+
+(价格都是现在的, 周四晚上)
+
+破损 mhs 四级头 70527 值 95701.
+
+破损制式三级甲 21946 值 31274.
+
+加起来 92473, 92.5k, 不到十万跑一把刀.
+
+**现在 f 3277k, 可以跑 35 把机坝. g18 那套价格要翻倍不止, 平均收益未必翻倍.**
+
+**地图的话... 普坝跑刀蜂医, 机坝就骇爪. 巴克什打架的图, 还要拉闸. 绝密航天还没解锁 23333.**
+
+但这样完全没战斗力啊, 还得找人机. 而且四级头有啥用, 打头都瞬秒.
+
+现在试试看四级甲配把微改 g18.
+
+四级甲除了 dt, 都价值一万朝上, dt 还很贵, 因为耐久大.
+
+g18 只改弹夹 32262 值 24709, 差 87791 除了 dt 随便四级甲都行.
+
+破损 hmp 四级甲 76784 值 108795.
+
+**加起来 109046, 比上一套跑刀多了 17%, 但是加的战斗力不亏.**
+
+去 kkrb725.com 查了一下, g18 价格非常稳定, 别的查不到, 反正人多时段贵, 周末贵.
+
+upd 21:48
+
+没错现在我还在看, 看了 berryberry always 聪聪 的鸡爪流视频...
+
+23333, 研究中...
+
+**任何售价比战备低的, 基本一两天就回正, 一直如此. 破损头甲除外.**
+
+upd 23:54
+
+上号看了一眼, 似乎会根据耐久削减战备! wtf.
+
+巴克斯要 187500. 除了自闭五头, 任何一个五级头或甲都可以.
+
+**买了一个 破损 dich 五头, 151977 值 165688. 全新的值 236697 啊!**
+
+**236697 \* 28 / 40 = 165687.9. 看来确实是按照耐久等比例削减价值的.**
+
+结论就是要对比几乎全新和破损了... 其实也不用, 因为带把枪就溢出不少了, 无影响, 最便宜破损买就行.
+
+至于五甲, 最便宜的破损也要 190k 以上. 已经超出战备了, 不考虑.
+
+**研究结束. 至于鸡爪流, 似乎是之前大量溢价时代的记忆.**
+
+**想来, 一把机坝没开呢... 研究了好几个小时, f 可真是个 wikipedia addict 啊!**
+
+(和 wikipedia 沉迷的心理是一样的)
+
+## 20241227
+
+00:30
+
+`bangumi`
+
+watched evangelion episode 8.
+
+明日香.
+
+把视频弹幕调成了 30% opacity.
+
+01:28
+
+`writing`
+
+突发奇想, writing pure / math / spatial.
+
+写了 "立体几何证明题难度无上限" 的原因.
+
+02:38
+
+`gaming`
+
+playing df...
+
+打普坝, 蜂医, 专门做任务, 做了好几个任务...
+
+解锁了四级子弹兑换, 似乎可以每天捞一点...
+
+05:30
+
+`weather` `sleep` `gaming` `surfing` `ref` `important`
+
+**找了一套 smg45 的配装. 似乎是最便宜了. 因为枪能兑换, 一些配件有溢价.**
+
+而且比 g18 强. 这枪射速慢伤害高, 冲锋枪 ak. 不像 g18 太快了, 不好操控.
+
+甚至 40 发弹夹都没装, 就用 25 发, 能打 2 秒多, 这么就都打不死, 应该是虐菜, 不必考虑.
+
+破损装备不溢价的, 最好也就比 11 万战备少一点, 不想几周前, 4 万值 11 万.
+
+**这作息时间, 依稀想起, 这是初二疫情停课在家, 打 pubg mobile 的记忆哦...**
+
+**233333, 又是 tencent fps game...**
+
+**上一次 5 点睡觉, 好像还是 supercell 年度总决赛, lciop 输了, light 赢了, humble 赢了.**
+
+天都亮了.
+
+upd 06:12
+
+**sleep.**
+
+06:58
+
+对着 sparkle 狠狠冲了.
+
+`writing`
+
+天完全亮了. 睡不着了. 写点 pure math spatial 吧.
+
+14:21
+
+`dev` `ref`
+
+手机又绿屏 qwq...
+
+记得第一次绿屏, 是跑 bs 脚本, 日夜无休... 然后可能过热了吧...
+
+观察了一下, 似乎屏幕底端有划痕一样的, 1mm 的暗绿色, 锁屏下看的, 其他都是纯黑色.
+
+先是下面一条绿, 然后全屏闪... 潮湿短路了?
+
+还是曲面屏的说...
+
+**测试... 这种故障似乎可以通过来回调节亮度解决.**
+
+15:18
+
+绿屏消失! 又绿屏了?
+
+**绿屏是低亮度下的特有性质! 23333.**
+
+`gaming`
+
+playing al.
+
+更换了一下秘书组...
+
+去 al wiki gallery 上 dl 了一些.
+
+**武藏像古代诗人啊, 说什么"合抱之树生于毫末", 还会用文言语法 233333**
+
+17:00
+
+`writing` `weather` `dev` `ref` `important`
+
+以前的节点, 一直被 wikipedia block.
+
+今天的节点幸免于难! 注册了 wikipedia.
+
+把 wakatime 的通知, 改成了每周日发一封 weekly 和 monthly 的邮件.
+
+**User: Firavoyage**
+
+20:04
+
+`surfing` `writing`
+
+upd readme. about wikitext.
+
+upd blogging. added some classical chinese wikipedia pages.
+
+20:16
+
+`weather` `dev` `ref` `important`
+
+给手机设置了 laptop 一样的 night view. 就是永恒暖色调.
+
+测试了一下绿屏问题.
+
+**30% brightness 以下稳定复现, 等待不超过一分钟闪烁, 直到全盘绿.**
+
+**30% brightness 以上稳定不复现.**
+
+不知道为什么. 但是有几个观察.
+
+- 这只是今天的数据. 以前我一直 25% brightness, 但是一直不出现
+- 今天必须高于 30% 了. 现在用的是 40% brightness.
+- 一个灵异现象. 把亮度在 50% 左右徘徊, 无论向上还是向下穿过 50%, 都会莫名闪烁一下(屏幕突然变暗然后复原).
+
+## 20241228
+
+00:30
+
+took bath.
+
+01:xx
+
+`surfing`
+
+看 berryberry 一些 mihoyo 文本研究... 
+
+好厉害, 语言学大佬. (学的生物学)
+
+02:06
+
+`gaming` `ref` `important`
+
+playing df...
+
+**挺有意思的. 公屏招募队友.**
+
+可以查队友战损比... 还可以显示, 隐藏装备...
+
+还可以加好友.
+
+而且一下就招到了, 似乎 all players 同服?
+
+df 应该是就区分端游和移动版本的 matchup.
+
+虽然一把都还没开打就是了, 但是有真人进来队伍就很开心!
+
+02:53
+
+`surfing` `ref` `important`
+
+(不知道为什么进了 wikipedia 的 page... 233333)
+
+逛 wikipedia / minato aqua, 发现了 aquarium game
+
+逛 https://store.steampowered.com/app/2515070/AQUARIUM/ 
+
+(comments)
+
+看到了 "不说了, 我要去看 ... live 了"
+
+发现了 yuki sakuna
+
+于是 sub, 加入了 readme, 将图片和 wiki page 放进了 blogging...
+
+`dev`
+
+顺便 upd 了一下 git/fonts
+
+把文件夹名字拆开了, 就是加空格
