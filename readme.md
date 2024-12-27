@@ -119,6 +119,7 @@
   - .the disappearance of haruhi suzumiya (2010)
   - .a certain scientific railgun (2009)
   - .re: zero - starting life in another world (2016)
+  - .sword art online (2012)
   - .your lie in april (2014)
   - .bakemonogatari (2009)
   - .frieren: beyond journey's end (2023)
@@ -254,14 +255,14 @@
   - internet archive wayback machine & archive.today
   - google & mistral le chat & awesome gpt prompts
   - youtube & berryberry & niconico
+  - bangumi.tv & mikan project & bgmlist & my anime list & dmhy.org
+  - fandom & moegirl.icu & nga bbs & forum.gamer.com.tw & 4chan
+  - old reddit & stack exchange & zhihu
   - hacker news & v2ex creative & ruanyf weekly & product hunt all time
   - codepen spark & css tricks & javascript weekly
   - twitter & mastodon & slashdot & solidot & rebang
-  - old reddit & zhihu & 4chan & stack exchange
-  - fandom & moegirl.icu & nga bbs & forum.gamer.com.tw
   - codeforces & libre oj & vijos & luogu
   - cnblogs & luogu blog & travellings.cn & foreverblog.cn & travel.moe
-  - bangumi.tv & mikan project & bgmlist & my anime list & dmhy.org
   - google fonts
   - douban book & goodread
   - douban movie & imdb
@@ -822,10 +823,6 @@
 - _simplicity addict_ elegance of ideas...
 - _indie developer_ libre tech...
 
-> _以上 / 祝你度过智识的 / 审美的一天_
-
-> $so \space much \space for \space this, \space have \space a \space nice \space day.$
-
 > $good \space luck \space and \space have \space fun$
 
 > $beautifully \space advance$
@@ -833,5 +830,9 @@
 > $btw \space i \space use \space ubuntu$ > _"do not change anything unless you know what you are doing"_
 
 > $may \space all \space the \space beauty \space be \space blessed.$
+
+> $so \space much \space for \space this, \space have \space a \space nice \space day.$
+> 
+> _以上 / 祝你度过智识的 / 审美的一天_
 
 > _毋负今日_
