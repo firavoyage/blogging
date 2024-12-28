@@ -13507,3 +13507,25 @@ f 做任务去了, 总之一个资源点没吃, 赚了 300k.
 **那个威龙真好啊, 就 5min 值我 20min, 90k 那个也快回本了. 要是不做任务, f 也要冲行政楼.**
 
 不过说来那人真笨, 玩的蜂医 233333. 可能新手吧, 还是想省药钱.
+
+04:08
+
+`surfing`
+
+https://www.youtube.com/watch?v=jhlzl0gsri0
+
+我用假新聞騙了台灣媒體
+
+https://www.youtube.com/watch?v=pMjC-6Uk3qo
+
+我做了首不存在的動漫OP
+
+`dev` `oi` `ref` `important`
+
+https://codeforces.com/blog/entry/66909
+
+https://drive.google.com/file/d/1J2x8pIYQ3MXANgvzOgBciWd3d79j_Exa/view
+
+Since I’m only a Japanese 11th grader, there may be many grammar mistakes and my
+English is poor. I have to apologize about that but conversely, I have to appreciate to the
+readers. Thank you for reading.

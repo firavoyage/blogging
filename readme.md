@@ -261,7 +261,7 @@
   - hacker news & v2ex creative & ruanyf weekly & product hunt all time
   - codepen spark & css tricks & javascript weekly
   - twitter & mastodon & slashdot & solidot & rebang
-  - codeforces & libre oj & vijos & luogu
+  - codeforces & atcoder & luogu & libre oj & vijos
   - cnblogs & luogu blog & travellings.cn & foreverblog.cn & travel.moe
   - google fonts
   - douban book & goodread
@@ -399,6 +399,7 @@
   - huang chenghui lciop cr & spark
   - huang zhizhong & debate
   - hui xinyu djhs & champ
+  - ifeisu & pursuit of fun & school culture
   - interpreter gavin & gi english
   - james sinclair jrsinclair
   - jeff delaney & fireship founding & web dev in 100 sec
