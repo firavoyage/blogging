@@ -1596,3 +1596,15 @@ Apex 英雄S11单排大师段位（东京时间2022年2月4日达成）
 的天才游戏女仆湊あくあ！
 
 回忆是删不掉的
+
+## codeforces goodbye 2024
+
+20241229
+
+(comment)
+
+(green): Well, I'm Just a children who has just learnt programming for a year.
+
+(purple): Beware: you might end up becoming an actual software engineer in your adulthood.
+
+

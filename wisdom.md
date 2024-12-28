@@ -1259,3 +1259,110 @@ fin exam one day left.
 "f 上大专也很好呢..."
 
 "学习... 也就是成为 wikipedian 吧!"
+
+## the only truth is reasoning
+
+20241228
+
+to truth is reasoning.
+
+不喜欢现在的政治课本. "坚持正确, 反对错误."
+
+或者说, 不喜欢那些人对"正确"的定义.
+
+一切能归因的事物都是正确的.
+
+这是 f 想说的.
+
+人, 不过是带着 event listeners 的 npc...
+
+条件到了, 函数就触发了. 
+
+因果.
+
+自然界中, 现代科学发现的因, 推出果. 何谈果之正确与否?
+
+有云: 正义是胜利者定义的.
+
+若无归因, 正确也不过是大人物声音定义尔.
+
+现在似乎正是如此. 
+
+这样的定义, 竟也有许多信徒... 为什么呢...
+
+或许是那过大的声音本身吧.
+
+## before i knew yuuki sakuna...
+
+20241229
+
+**关于 f 和 yuuki sakuna 交集...**
+
+想起来, 小学高年级的时候, 有 scratch 编程课, "信息科技", 一周两节.
+
+自己编程没意思, 但是 sc mit edu 上别人的 proj 很有意思.
+
+也不知道他们是怎么搞出来这种项目的, scratch 似乎也不好合作啊, 又不是文本可以上 git.
+
+大多是 platformer 游戏吧, 有创意的也不少.
+
+总之后来就对编程有兴趣, 学习了 python 和 cpp.
+
+python 是那时候逛福州路上海书城, 去好像比较高的楼层, 忘了, 买的. 
+
+书是 "和孩子一起玩编程", 还有卡片, 想来内容也很简单啊, 不过可以跟着操作, 这是最重要的.
+
+cpp, 买了 prime 和 primer plus... 
+
+现在只喜欢 js, 因为可以 host, 现在 free hosting 很多的, 比如 pages dev, gh io, netlify, vercel...
+
+**除了 js, 其他语言都不能 host, 完全没有社交属性嘛!**
+
+**除非你喜欢教学, 可以发点视频或者网志, 或者是选手, 可以在 bbs (还有平台网络社群) 讨论 (吹水).**
+
+**光是学有什么意思, f 至少作为 wikipedian, 还可以留下一些回忆, 其实就是网志 (思考笔记).**
+
+js 开始是看了 runoob 文档, 后来喜欢查 mdn, 那时候是初中低年级, 还写了一些教学 blogposts.
+
+比如什么 css selector, background gradient... 大概就 copy mdn, 再改一下格式吧, "列表变散文".
+
+**("建议改成散文, 列表不好", 什么 wikipedia 啊!)**
+
+总之是上了 codeforces, 然后看到了榜一 tourist, 不过有时候是 jiangly.
+
+虽然现在也是一把 codeforces 都没开打过... 233333. 不会, 没学. 而且高难度的算法, 似乎应用很少啊 qwq.
+
+现在其实对 abstraction 更感兴趣了. 就是怎样让代码更好看.
+
+cpp 的 macro 太弱了. 连 int x,y = 1,2 似乎都不支持. 人家 js tan 都能用 {} = obj 狠狠干了!
+
+对了, 现在 ai 挺强的, cf 都专门发文 restrict 了.
+
+**反正 f 将来肯定能用 ai, 如果能用 ai 拿到 rank 1, 那我这辈子有了喵!**
+
+不过似乎没那么聪明, 打 div1 是不强的喵... (悲)
+
+**啊, 总之就是 f 看到了 jiangly 的 avatar, 然后 image serach 了一下...**
+
+ok. f 也是入坑 minato aqua 了好吧! 虽然入坑的时候, 她就快毕业了...
+
+当然, 我初中那会 ai 不厉害, 学习 oi (其实就是 cpp syntax 加最简单的算法, 什么 dfs, dp也就是最长不降什么的 23333 ) 还感觉挺有意思的. 现在...
+
+**总之估计就是这几年的事, codeforces 榜一应该就是某个作弊者了吧 2333333. 那时候, 是不是等于 f 有了 aqua 的力量?(补充 aqua 能量)**
+
+而且那时候 f 都不知道 simplelive 这个 app.
+
+后来她转生了, f 也不知道.
+
+有一天在 wikipedia 闲逛, 想要把 aqua 的 wiki pdf 保存到 blogging git repo 下面.
+
+**因为 f 是个 digital hoarder, 喜欢把喜欢的一切存档喵.**
+
+然后链接里有一个 aqua 的恋爱 vn. 搜到了 steam 上去.
+
+然后看 steam 评论.
+
+"... 不说了, 我要去看 结城昨日奈 live 了"
+
+然后就认识了吧! 不过也不懂日语啊, 就在 berryberry 看看切片啦! 233333
+

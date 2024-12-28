@@ -544,9 +544,9 @@
 [warning]: ../../warning.svg
 [hint]: ../../hint.svg
 [practice]: ../../practice.svg
-[izumi]: <../../konata izumi avatar.jpg>
-[lucky star a]: <../../lucky star a.jpg>
-[lucky star b]: <../../lucky star b.jpg>
+[izumi]: <../../../konata izumi avatar.jpg>
+[lucky star a]: <../../../lucky star a.jpg>
+[lucky star b]: <../../../lucky star b.jpg>
 [periodic table]: <../periodic table wikipedia.png>
 [tree]: ./tree.jpg
 [cross]: <./cross classification method.png>
