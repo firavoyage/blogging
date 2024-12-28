@@ -34,12 +34,10 @@
 
 > _weekend endeavour_
 
-- work on voyagejs project
 - write svelte examples with voyagejs
-- design component libraries & learn from chakra ui
-- write table of contents & generate pure project wiki
-- generate intuitive cpp episodes
-- categorize math trick cards
+- design component libraries with voyagejs & learn from chakra ui
+- write syntax guide & generate intuitive cpp episodes
+- write table of contents & generate pure math wiki & categorize math trick cards
 
 > _weekend diversion_
 
