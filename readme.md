@@ -772,6 +772,8 @@
 ## gamut
 
 - `blogging` notes librarian
+- `blogging/intuitive` intuitive programming guide
+- `blogging/pure` pure science guide
 - `memories/perspective` cyber wanderer
 - `memories/insight` digital memokeeper
 - `memories/gaming` internet otaku
