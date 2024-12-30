@@ -12944,7 +12944,7 @@ got up.
 
 16:32
 
-`weather` `sleep` `ref` `important`
+`weather` `sleep` `ref`
 
 had lunch. burgerking.
 
@@ -13248,11 +13248,11 @@ upd 20241229
 
 总之后来就对编程有兴趣, 学习了 python 和 cpp.
 
-python 是那时候逛福州路上海书城, 去好像比较高的楼层, 忘了, 买的. 
+python 是那时候逛福州路上海书城, 去好像比较高的楼层, 忘了, 买的.
 
 书是 "和孩子一起玩编程", 还有卡片, 想来内容也很简单啊, 不过可以跟着操作, 这是最重要的.
 
-cpp, 买了 prime 和 primer plus... 
+cpp, 买了 prime 和 primer plus...
 
 现在只喜欢 js, 因为可以 host, 现在 free hosting 很多的, 比如 pages dev, gh io, netlify, vercel...
 
@@ -13286,7 +13286,7 @@ cpp 的 macro 太弱了. 连 int x,y = 1,2 似乎都不支持. 人家 js tan 都
 
 ok. f 也是入坑 minato aqua 了好吧! 虽然入坑的时候, 她就快毕业了...
 
-当然, 我初中那会 ai 不厉害, 学习 oi (其实就是 cpp syntax 加最简单的算法, 什么 dfs, dp也就是最长不降什么的 23333 ) 还感觉挺有意思的. 现在...
+当然, 我初中那会 ai 不厉害, 学习 oi (其实就是 cpp syntax 加最简单的算法, 什么 dfs, dp 也就是最长不降什么的 23333 ) 还感觉挺有意思的. 现在...
 
 **总之估计就是这几年的事, codeforces 榜一应该就是某个作弊者了吧 2333333. 那时候, 是不是等于 f 有了 aqua 的力量?(补充 aqua 能量)**
 
@@ -13306,9 +13306,9 @@ ok. f 也是入坑 minato aqua 了好吧! 虽然入坑的时候, 她就快毕业
 
 **然后就认识了吧! 不过也不懂日语啊, 就在 berryberry 看看切片啦! 233333**
 
-可能未来会回坑 oi 吧! 有一个搞笑的作用. (今天看了 always聪聪的威龙鸡爪流巴克什教学, 想到这个词)
+可能未来会回坑 oi 吧! 有一个搞笑的作用. (今天看了 always 聪聪的威龙鸡爪流巴克什教学, 想到这个词)
 
-**可惜不懂日语啊! 要学吗... 倒是有个同学在学, 可他要去留学啊, 也不是dd了, 就是玩模型的.**
+**可惜不懂日语啊! 要学吗... 倒是有个同学在学, 可他要去留学啊, 也不是 dd 了, 就是玩模型的.**
 
 `dev`
 
@@ -13518,7 +13518,7 @@ https://www.youtube.com/watch?v=jhlzl0gsri0
 
 https://www.youtube.com/watch?v=pMjC-6Uk3qo
 
-我做了首不存在的動漫OP
+我做了首不存在的動漫 OP
 
 `dev` `oi` `ref` `important`
 
@@ -13529,3 +13529,193 @@ https://drive.google.com/file/d/1J2x8pIYQ3MXANgvzOgBciWd3d79j_Exa/view
 Since I’m only a Japanese 11th grader, there may be many grammar mistakes and my
 English is poor. I have to apologize about that but conversely, I have to appreciate to the
 readers. Thank you for reading.
+
+05:xx
+
+sleep.
+
+15:50
+
+`weather`
+
+got up & cleared game assignments
+
+16:39
+
+`writing` `ref` `important`
+
+暮年少女说...
+
+chapter 2 迟迟不见更新...
+
+(想来 wikipedia 亦非一人之功 qwq...)
+
+weekdays 吧! 喵~
+
+("no original research"? encyclopaedia could be summation!)
+
+(ah, btw it must be wikibook! 233333.)
+
+20:36
+
+`gaming`
+
+playing sr simulated universe gold and gears.
+
+这个聪明 ai 又不打 boss 是吧! 打 argenti.
+
+upd 21:04
+
+拿下. 符玄挂了, 小三月也挂了. 策略是生存位 e, 其他都 a.
+
+那个 the hunt 的友伤剑, 还有 boss 大招都是稳定杀.
+
+team
+
+- aventurine
+- fu xuan
+- topaz
+- march
+
+22:41
+
+`gaming` `ref` `important`
+
+playing df.
+
+打了把机坝. 开局有人拉闸, 一看爆率也不好, 4 分钟不到撤离了 233333.
+
+**对了赶紧换上威龙.**
+
+这个骇爪... 真用处不大, 因为没有什么蹲点的, 哥们不值钱.
+
+乌鲁鲁, 蜂医都不能加速. 红狼没威龙暴力, 比较稳健的说.
+
+**这机制也是厉害, 一直避战撤离, 人是没见着, 然后这把连个蓝都见不到了.**
+
+upd 23:11
+
+连续撤离 9 把了...
+
+爆率一般吧, 上把机坝最好的是 cpu.
+
+不玩坐牢的四级甲配 g18 了, 价值和破损成比例的.
+
+**换上 smg45, 三级包, 三级胸挂, 猛攻!**
+
+(23333)
+
+upd 23:40
+
+仓库里现在有好几个顶级箱子了.
+
+别 tm 给我删档了.
+
+**28 级啦!**
+
+**这个模式打了 14h, 15.8M. 这赛季 5h, 不过好像真正的进展都在这几天qwq...**
+
+现在撤离率有一半了, 总览里就四分之一出头... 
+
+难怪前9h都啥也没干, 都挂了吧233333. 大概是普坝威龙冲行政楼吧, 还被人机打过好几回呢.
+
+**不过现在买了箱子, 只剩 1985k 了, 有破产的可能呢...**
+
+233333.
+
+## 20241230
+
+03:21
+
+`dev` `sleep` `ref` `important`
+
+网络彻底挂了. 搜索都用不了的程度 kora!
+
+上 ys.mihoyo.com 然后一堆损坏的图片23333, 就一点小 icon 能加载喵...
+
+(移动深夜限流?)
+
+**还好下载了一堆熟肉, from berryberry yuuki sakuna's onion port. 昨日奈 prprpr.**
+
+(anchor ⚓)
+
+(bow tie ⑅ & pawprints 🐾)
+
+如果 f 有信仰, f 一定会认为这是上帝给他的提示... time for sleep.
+
+**‍sl‍‍‍‍‍eep.**
+
+14:20
+
+`weather`
+
+看房子. f 终于, 也要回了.
+
+旧的人走了, 新的人来了.
+
+17:32
+
+`gaming` `surfing`
+
+played df. reached 20M. 
+
+watched some vid showing df strategies.
+
+`dev`
+
+sync phone.
+
+19:29
+
+`surfing` `gaming` `ref` `important`
+
+playing df.
+
+看到说: 有固排, 就是最大的红.
+
+遂打开了设置里的语音... 原来麦克风和声音都关闭了的说 233333.
+
+标记按钮也开了.
+
+救援按钮还是 7% opacity. 图标不小哦... f 知道在哪.
+
+招募队友...
+
+**wtf, 居然听到活人的声音了, 太开心了. f 已经好久好久没说过话了, 二三次元都是.**
+
+`weather`
+
+暮年少女, 计划在第二天下午启程.
+
+去什么江南水乡. 元旦放假一天的说...
+
+f 不愿望就是啦! qwq.
+
+21:07
+
+`weather` `dev`
+
+想给 yuuki sakuna 应援来着.
+
+找了了 ribbon emoji. 不叫 bow tie, 也不在 objects 里面.
+
+在 activities 里喵~
+
+`writing`
+
+upd pure math spatial.
+
+21:39
+
+`dev` `writing`
+
+writing pure chemistry wiki chapter 1.
+
+"Error loading webview: Error: Could not register service worker: InvalidStateError: Failed to register a ServiceWorker: The document is in an invalid state.."
+
+逆天, 第二次. wtf.
+
+(not using solanum.)
+
+挂个番茄钟, 有点压力. 还是算了.
+

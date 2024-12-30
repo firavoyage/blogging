@@ -6,9 +6,9 @@
 
 > $lucky \space \text{☆} \space star!$
 
-> 🍅 ⏲️ $solanum$
+> 🍅‍⏲️ $solanum$
 
-> 🌕 💤 $\text{23:30}$
+> 🌕‍💤 $\text{23:30}$
 
 - a developer, writer, wikipedian
 - grew up in shanghai
@@ -107,6 +107,7 @@
   - .roman holiday (1953)
   - .oppenheimer (2023)
 - - tom and jerry classic collection (1940)
+  - spongebob squarepants (1999)
   - the adventures of little carp (2007)
   - the knockout (2023)
   - in solitude where we are least alone (2010)
@@ -154,7 +155,8 @@
   - sabbat of the witch (2015)
   - the rainbow appears after flowering rain (2016)
   - miside (2023)
-  - .earth online (2024)
+  - liar's bar (2024)
+  - .earth online (.)
   - .the legend of zelda: tears of the kingdom (2023)
   - .the legend of zelda: breath of the wild (2017)
   - .the legend of zelda: ocarina of time (1998)
@@ -810,6 +812,10 @@
   - site `_`
 
 ## insight
+
+> _⚓_
+
+> _🎀‍🐾_
 
 > _平常心_
 
