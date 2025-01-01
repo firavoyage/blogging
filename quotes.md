@@ -1635,7 +1635,9 @@ https://www.youtube.com/watch?v=pMjC-6Uk3qo
 
 前阵子他说他能讲出所有动漫 op 的歌名
 
-## rest of the world
+## in the rest of the world
+
+20250101
 
 `laughter` `society`
 

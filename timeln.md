@@ -13854,4 +13854,38 @@ leisure app 不想学, 太压力了. 像是上班.
 
 果断卸载, 神秘国度.
 
+upd 17:03
+
+emmmm... 这玩意似乎根据手机号限区...
+
+懒得搞 sms receive free 或者 google voice...
+
+done.
+
+至于别的 app 似乎不推荐, 除了一些词典.
+
+重开了日语课程.
+
+**即使一切都是 english based... duo 还是把 for chinese learners 放到了第一位! wtf.**
+
+upd 17:45
+
+`dev` `weather` `ref` `important`
+
+也是用上了 duolingo max 好吧!
+
+xda android 老哥真牛b, 还没有 google service 校验.
+
+**android 大法好!**
+
+学习五十音中...(233333)
+
+upd 22:29
+
+`dev`
+
+duolingo 的 component system 真好看啊... intuitive... vivid...
+
+总之加入 voyage proj 了!
+
 

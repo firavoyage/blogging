@@ -19,6 +19,7 @@
 - write voyagejs styling feature
 - design a component library with voyage
 - create a badge for each project
+- summarize projects leverage
 - watch lucky star
 - sync phone
 

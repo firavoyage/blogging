@@ -910,25 +910,24 @@ for(i 1 10 j 10 100){A} //for(let i=1;i<=10;i++){for(let j=10;i<=100;j++){A}}
 
 > design with elegance
 
-- color themes
-  - ubuntu yaru
-  - dracula official
-  - one dark pro
-  - monokai pro
-  - ruanyf blog
 - component systems
+  - ubuntu yaru
+  - google books classic
+  - duolingo
+  - material ui
+  - reddit old
+  - youtube
   - sr
   - hi
   - gi
   - zzz
-  - google books classic
-  - reddit old
-  - material ui
-  - youtube
   - chakra
-- touch control
-  - codeforces mobile
-  - try swiping left or right
+- color themes
+  - dracula official
+  - one dark pro
+  - monokai pro
+- finger control
+  - codeforces mobile (try swiping left or right)
 - tiny components
   - number(chinese or englishprecise or not)
   - button(material water drop effectsvg uncolorized iconalt msgkeyboard focus)
