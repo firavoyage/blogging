@@ -813,18 +813,6 @@
 
 ## insight
 
-> _⚓_
-
-> _🎀‍🐾_
-
-> _平常心_
-
-> _琐碎 / 如是五年后忘却 / 举重若轻_
-
-> _游戏尘寰_
-
-> _time flies when you're having fun :)_
-
 - _reminiscent youth_ good old days...
 - _anime otaku_ unworldly girls...
 - _digital hoarder_ memories forever...
@@ -832,16 +820,22 @@
 - _simplicity addict_ elegance of ideas...
 - _indie developer_ libre tech...
 
-> $good \space luck \space and \space have \space fun$
+> _⚓_
+>
+> _🎀‍🐾_
 
-> $beautifully \space advance$
+> _平常心 / 琐碎 / 举重若轻 / 游戏尘寰_
 
-> $btw \space i \space use \space ubuntu$ > _"do not change anything unless you know what you are doing"_
+> _time flies when you're having fun :)_
 
 > $may \space all \space the \space beauty \space be \space blessed.$
 
+> $btw \space i \space use \space ubuntu$ 
+> 
+> _"do not change anything unless you know what you are doing"_
+
 > $so \space much \space for \space this, \space have \space a \space nice \space day.$
 > 
-> _以上 / 祝你度过智识的 / 审美的一天_
+> _以上 / 祝你度过智识的, 审美的一天_
 
 > _毋负今日_

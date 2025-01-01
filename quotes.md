@@ -1634,3 +1634,14 @@ https://www.youtube.com/watch?v=pMjC-6Uk3qo
 这辈子从来没有没过草
 
 前阵子他说他能讲出所有动漫 op 的歌名
+
+## rest of the world
+
+`laughter` `society`
+
+post: clash royale chinese server removed skeleton elements
+
+(comment by a taiwanese)
+
+神秘国度.
+
