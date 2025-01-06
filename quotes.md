@@ -1647,3 +1647,13 @@ post: clash royale chinese server removed skeleton elements
 
 神秘国度.
 
+## playing df with good karma
+
+20250102
+
+watching random df live...
+
+(saying)
+
+完了上把杀人了, 沾了因果了, 这把爆率好低啊!
+

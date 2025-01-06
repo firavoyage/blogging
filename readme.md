@@ -56,6 +56,7 @@
   - fly me to the moon (all that jazz)
   - world.execute(me); (mili)
   - magnet (minato aqua & inuyama tamaki)
+  - henceforth (kagura mea) (yuuki sakuna)
   - -tooi sora he- (manack & bruno wen li)
   - aruarian dance (nujabes)
   - haru no kaze (aoi teshima)
@@ -729,6 +730,7 @@
 - 花开堪折直须折 莫待无花空折枝
 - 回首向来萧瑟处 归去 也无风雨也无晴
 - 有心栽花花不开 无心插柳柳成荫
+- 相濡以沫 不如相忘于江湖
 - 寓形宇内复几时 曷不委心任去留 胡为乎遑遑欲何之
 - 夫天地者万物之逆旅也 光阴者百代之过客也
 - 怅然若失
@@ -785,13 +787,14 @@
 - `programs` front end programmer
 - `music` music lover
 - `fonts` typography enthusiast
-- `self` avatar designer
+- `self` avatar user
 
 ## shadows
 
 - - wikipedia `User:Firavoyage`
 - - github `firavoyage`
   - wakatime `firavoyage`
+  - duolingo `firavoyage`
 - - codepen `firavoyage`
   - blogger `firavoyage`
   - cnblogs `fira`

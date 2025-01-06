@@ -26,7 +26,7 @@
 > _everyday_
 
 - return digital homes at al sr hi
-- learn japanese on duolingo 
+- learn japanese at duolingo 
 - play df hunt
 
 > _evening_
@@ -67,7 +67,7 @@
 
 - read physics & chemistry & geography notes
 - write math challenger & english papers
-- memorize tem 8 vocabulary
+- memorize tem 8 vocabulary at leisure
 
 > _meanwhile_
 
