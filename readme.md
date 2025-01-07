@@ -109,8 +109,6 @@
   - .oppenheimer (2023)
 - - tom and jerry classic collection (1940)
   - spongebob squarepants (1999)
-  - the adventures of little carp (2007)
-  - the knockout (2023)
   - in solitude where we are least alone (2010)
   - worldend: what do you do at the end of the world? are you busy? will you save us? (2017)
   - lucky star (2007)
