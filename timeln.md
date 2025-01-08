@@ -14453,3 +14453,21 @@ $\frac{12 \times 4 + 7 \times 138}{12 \times 5 + 7 \times 19} \approx 5$
 `dev` `gaming` `ref`
 
 summarized some df timeln to memories/gaming/status df.md
+
+22:01
+
+`gaming` `ref` `important`
+
+playing df.
+
+写了好多, 统计了好多, 学习了好多, 记录了好多... 关于 df.
+
+终于进入游戏啦! 开打.
+
+或许 f 是个 digital hoarder, 或许是 wikipedian.
+
+感觉看教学, 观察统计思考的时间比游戏时长还多呢... 233333.
+
+而且还喜欢收集回忆, 做了啥都想在 timeln 上记一笔qwq...
+
+poor fira!
