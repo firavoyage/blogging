@@ -81,6 +81,8 @@
 
 #### 分散系
 
+<!-- @todo: put this into ![note] -->
+
 > ![izumi] dispersion system
 
 - `分散系` 一些物质 (`分散质`) 以粒子形式分散到另一些物质 (`分散剂`) 中形成的混合物

@@ -254,7 +254,7 @@
 - - wikipedia & wikipedian user pages
   - github & the pirate bay & z library & anna's archive
   - internet archive wayback machine & archive.today
-  - google & mistral le chat & awesome gpt prompts
+  - google & mistral le chat
   - youtube & berryberry & niconico
   - bangumi.tv & mikan project & bgmlist & my anime list & dmhy.org
   - fandom & moegirl.icu & nga bbs & forum.gamer.com.tw & 4chan
@@ -556,12 +556,14 @@
   - cbonsai 1.3.1-1
   - cowsay 5.38.2
   - docker 24.0.5
+  - duolingo 6.11.4-mod
   - eudic 9.3.1
   - fcitx5-android 0.0.7
   - figlet 2.2.5
   - fortune 9708
   - gedit 46.2
   - geogebra 6.0.804.0
+  - ghostscript 10.02.1
   - gimp 2.10.38
   - gnome-baobab 46.0
   - gnome-blanket 0.7.0
@@ -592,6 +594,7 @@
   - obs-studio 30.0.2
   - oneplus-weather 1.8.5
   - onscripter-yuri 0.7.4
+  - pdfarranger 1.10.1
   - peertube 6.3.2
   - powdertoy 98.2.365
   - qbitorrent-arnatious 4.3.9
@@ -816,10 +819,10 @@
 
 - _reminiscent youth_ good old days...
 - _anime otaku_ unworldly girls...
-- _digital hoarder_ memories forever...
+- _digital hoarder_ memories memories...
 - _idle fellow_ earthly escapade...
 - _simplicity addict_ elegance of ideas...
-- _indie developer_ libre tech...
+- _indie developer_ libre apps...
 
 > _⚓_
 >

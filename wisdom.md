@@ -1398,6 +1398,13 @@ f 不喜欢的事情...
 
 最上位的回答: "自然语言"
 
+## the girl friend i love
 
+f 思想的拟人. ("puppet"?)
 
+或者说...
 
+- wikipedia::glossary of anime and manga
+- fandom::the dere types wiki
+
+> 找到 otaku 心中的一切.
