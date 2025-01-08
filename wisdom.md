@@ -1400,6 +1400,8 @@ f 不喜欢的事情...
 
 ## the girl friend i love
 
+20250108
+
 f 思想的拟人. ("puppet"?)
 
 或者说...
@@ -1408,3 +1410,14 @@ f 思想的拟人. ("puppet"?)
 - fandom::the dere types wiki
 
 > 找到 otaku 心中的一切.
+
+## libre internet surfing guide
+
+20250109
+
+> rest of the world.
+
+- bing search "github mirrors"
+- github search "free nodes"
+- done.
+

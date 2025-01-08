@@ -772,6 +772,7 @@
   - `ubuntu` guide to an elegant work flow
   - `weekly` weekly plans for distinct times
   - `timeln` everyday scripts and vibes
+  - `gaming` passion of battles and builds
   - `djhs` wax and wane of the school life
 
 ## gamut
