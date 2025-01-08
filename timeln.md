@@ -11758,6 +11758,10 @@ changed bio in readme
 from "an entrepreneur, developer, writer"
 to "a developer, writer, wikipedian"
 
+upd 20250109
+
+**明明从来没有做到过前半夜睡觉嘛!**
+
 03:15
 
 `bangumi`
@@ -12684,7 +12688,7 @@ f 打大战场的, 这队友匹配, 可以理解成
 
 16:52
 
-`gaming` `thinking` `ref` `important`
+`gaming` `thinking`
 
 thinking df...
 
@@ -12842,7 +12846,7 @@ simple life.
 
 总之就是上海市中心平凡市重点了
 
-`school` `ref` `important`
+`school` 
 
 追想上次...
 
@@ -12966,7 +12970,7 @@ kisflow: 怎么又是他!
 
 changed all "swimming" to "surfing"
 
-`gaming` `surfing` `ref` `important`
+`gaming` `surfing`
 
 playing df.
 
@@ -13072,7 +13076,7 @@ playing df...
 
 05:30
 
-`weather` `sleep` `gaming` `surfing` `ref` `important`
+`weather` `sleep` `gaming` `surfing`
 
 **找了一套 smg45 的配装. 似乎是最便宜了. 因为枪能兑换, 一些配件有溢价.**
 
@@ -13192,7 +13196,7 @@ took bath.
 
 02:06
 
-`gaming` `ref` `important`
+`gaming` 
 
 playing df...
 
@@ -13454,7 +13458,7 @@ upd 17:34
 
 17:51
 
-`gaming` `ref` `important`
+`gaming`
 
 playing df...
 
@@ -13581,7 +13585,7 @@ team
 
 22:41
 
-`gaming` `ref` `important`
+`gaming`
 
 playing df.
 
@@ -13779,7 +13783,7 @@ restart 吧.
 
 03:29
 
-`gaming` `surfing` `ref` `important`
+`gaming` `surfing`
 
 playing df.
 
@@ -13970,7 +13974,7 @@ playing henceforth by kagura mea (yuuki sakuna).
 
 17:39
 
-`gaming` `surfing` `ref` `important`
+`gaming` `surfing`
 
 surfing berryberrry... df vid
 
@@ -14102,7 +14106,7 @@ playing henceforth by yuuki sakuna.
 
 00:16
 
-`gaming` `ref` `important`
+`gaming`
 
 played df.
 
@@ -14159,7 +14163,7 @@ watched live.
 
 **经典, 经典. 看来就是昨天一天网络好转啊...**
 
-`surfing` `gaming` `ref` `important`
+`surfing` `gaming`
 
 把六式的机坝跑刀全看了一遍.
 
@@ -14208,7 +14212,7 @@ upd 14:23
 
 00:02
 
-`gaming` `ref` `important`
+`gaming`
 
 played df.
 
@@ -14294,7 +14298,7 @@ writing pure project / chemistry.
 
 00:11
 
-`gaming` `ref` `important`
+`gaming`
 
 played df.
 
@@ -14380,7 +14384,7 @@ played sr.
 
 19:28
 
-`surfing` `gaming` `ref` `important`
+`surfing` `gaming`
 
 playing df.
 
@@ -14456,7 +14460,7 @@ summarized some df timeln to memories/gaming/status df.md
 
 22:01
 
-`gaming` `ref` `important`
+`gaming`
 
 playing df.
 
@@ -14526,4 +14530,11 @@ upd readme. splitted timeln & gaming.
 
 关于游戏生活, 放到另一个文件中. 不再于此处更新.
 
+把之前关于 df 的回忆也删了. (后来没删, 懒得搞. 不过把 ref important 的标签都删除了.)
+
+`speed` `ref`
+
+说来, 今天从 0:30 开始, 网络好许多呢! 正常速度.
+
+不过也不想打了, 谁好人半夜打游戏啊, 看看飞狙的蝗虫直播吧.
 
