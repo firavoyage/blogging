@@ -1,9 +1,18 @@
 /**
  * @file
- * the js library of voyage web framework
+ * the script of voyage framework
+ *
+ * the current version released at
+ *
+ * has been being written since 20250116 (utc+8)
+ * 
+ * @author firavoyage
+ * @version 0.29
+ * @since 20240809 when voyagejs 0.1 was found
+ * @see changelog.md
  */
 /**
- * all data and methods
+ * all methods and data
  * @namespace voyage
  */
 let voyage = {
@@ -81,29 +90,37 @@ let voyage = {
       return !has(obj, key);
     },
     /**
-     * base of functional programming
-     * @param {function} constructor - the constructor
-     * @returns {Proxy}
+     * essential fn for functional programming.
+     *
+     * (the story of this fn:)
+     * 
+     * at first it's named "include(constructor)" which is a proxy
+     * 
+     * very slow.
+     * 
+     * now it even doesnt need to know what the constructor is.
+     * 
+     * sometimes even faster than direct call
+     * 
+     * maybe it could receive an array of method in the future
+     * 
+     * but now it works well and i dont need that feature
+     *
+     * @param {string} methodName - the method needed
+     * @returns {Object<function>}
      * @example
      * const {slice} = Array
      * console.log(slice([1,2,3],0,2))
      * //instead of
      * console.log([1,2,3].slice(0,2))
      */
-    include(constructor) {
-      const handler = {
-        get(obj, prop) {
-          const { fn } = {
-            fn(...params) {
-              return obj.prototype[prop].call(...params);
-            },
-          };
-          return fn;
+    use(methodName) {
+      const { fn } = {
+        fn(obj, ...args) {
+          return obj[methodName](...args);
         },
       };
-      const proxy = new Proxy(constructor, handler);
-
-      return proxy;
+      return { [methodName]: fn };
     },
     /**
      * @typedef {Array} SingleElementArray
@@ -189,9 +206,11 @@ let voyage = {
      * @returns {object} the updated object
      */
     set(value, obj, ...path) {
-      const { lacks, include } = voyage.lib;
-      const { slice } = include(Array);
+      const { lacks, use } = voyage.lib;
+      const { slice } = use("slice");
+
       let current = obj;
+
       for (const key of slice(path, 0, -1)) {
         if (lacks(current, key)) {
           current[key] = {};
@@ -358,45 +377,6 @@ let voyage = {
       return matches;
     },
     /**
-     * get a new function with some params filled in the old one. keep the name unchanged.
-     * @param {function} [fn] - the function to be used
-     * @param  {...any} [params]
-     * @returns {function|string} the function with some params filled
-     * @example
-     * use() //symbol("placeholder")
-     * use(fn,1,2) //function(){fn(1,2)}
-     * use(fn,use(),1) //function(...p){fn(p[0],1)}
-     * use(fn,"foo",use(),"bar",use()) //function(...p){fn("foo",p[0],"bar",p[1])}
-     * @memberof voyage.lib
-     */
-    use(fn, ...params) {
-      const { is, symbol, match } = voyage.lib;
-      const placeholder = symbol("placeholder");
-      //sha256("useplaceholder")
-      if (fn) {
-        const { name } = fn;
-        if (is(params.indexOf(placeholder), -1)) {
-          return {
-            [name]() {
-              return fn(...params);
-            },
-          }[name];
-        } else {
-          const flex = match(params, placeholder);
-          return {
-            [name](...flexParam) {
-              for (const index in flex) {
-                params[flex[index]] = flexParam[index];
-              }
-              return fn(...params);
-            },
-          }[name];
-        }
-      } else {
-        return placeholder;
-      }
-    },
-    /**
      * @typedef {object} SyncReactive
      * @prop {*} value - the value with getter and setter
      * @prop {*} v - alias of value
@@ -416,7 +396,7 @@ let voyage = {
      * @memberof voyage.lib
      */
     sync(obj, key, observer) {
-      const { isnt, map, use } = voyage.lib;
+      const { isnt } = voyage.lib;
       const { defineProperty } = Object;
 
       let reactive = {};
@@ -434,10 +414,10 @@ let voyage = {
       };
 
       const aliases = ["v", "value"];
-      map(aliases, use(defineProperty, reactive, use(), handler));
-      // for (const alias of aliases) {
-      //   defineProperty(reactive, alias, agent);
-      // }
+
+      for (const alias of aliases) {
+        defineProperty(reactive, alias, handler);
+      }
       return reactive;
     },
     /**
@@ -528,7 +508,7 @@ let voyage = {
    */
   updaters: {},
   /**
-   * 
+   *
    */
   macros: {
     model(node, state) {
@@ -697,11 +677,10 @@ let voyage = {
     return node;
   },
   create(...options) {
-    const { is, isnt, check, has, lacks, init, each, use, count, include } =
-      voyage.lib;
+    const { is, isnt, check, has, lacks, init, each, count, use } = voyage.lib;
     const { bind, call } = voyage;
     const { assign: give } = Object;
-    const { slice } = include(String);
+    const { slice } = use("slice");
 
     let elements = [],
       nodes = [];
@@ -808,7 +787,9 @@ let voyage = {
 
             updateLabelCalc();
 
-            map(factors, use(bind, use(), calculator));
+            for (const factor of factors) {
+              bind(factor, calculator);
+            }
           } else {
             node.setAttribute(label, content);
           }
@@ -872,16 +853,19 @@ let voyage = {
     }
   },
   getState(componentid, stateid) {
-    const { sync, use } = voyage.lib;
+    const { sync } = voyage.lib;
     const { updateState } = voyage;
     const { assign: give } = Object;
 
     const { states } = voyage;
-    const state = sync(
-      states[componentid],
-      stateid,
-      use(updateState, componentid, stateid, use(), use())
-    );
+
+    const { observer } = {
+      observer(newValue, oldValue) {
+        updateState(componentid, stateid, newValue, oldValue);
+      },
+    };
+
+    const state = sync(states[componentid], stateid, observer);
     give(state, { componentid, stateid });
 
     return state;
@@ -1140,181 +1124,3 @@ voyage.run({
   parent: "body",
 });
 
-/**
-@todo
-roadmap
-- complete todos for basic features
-- svelte examples as unit tests
-- chakra ui as a real world design system
-- material design 3 for elegance
-- google reader (google books classic) for retro
-- sr component library for fun
-
-@todo
-single responsibility principle
-- remove excessive fn poly
-- split fn into smaller fn
-learn css in js methods
-- learn from tailwind sass less stylus
-- ask mistral css in js methods to define events and parent style in js
-- which inline style couldnt support
-add styling macro
-- `@style` macro
-- class-like styling `@style:"opacity-low h2"`
-- syntax: `style style-param style-p1-p2-p3`
-- styling with event `@style:"hover:opacity-high"`
-- syntax: `event:styles`
-- styling as parent `@style:"article{a{d e} b c} block{a c e} .xyz{}"`
-- syntax: `selector{styles}`
-- work with class and css in js
-- `@theme` macro
-- `@theme:"myTheme"`
-- apply theme to its children
-define style
-- defineStyle({"del":"opacity-low hover:opacity-medium"},"paragraph")
-- del is a css selector, opacity-low is macro, theme namespace is optional
-- defineMacro({"opacity-low":{"opacity":"0.5"}},"myTheme")
-- key is macro and value is css attr and value
-- defineMacro({"opacity":function opacity(p){...}},"myTheme")
-- opacity-1-2 -> opacity(1,2)
-theme namespace macro
-- div `@theme="myTheme"`
-- rerender all children with `@style` and set them to myTheme
-define more macros
-- learn from jquery react alpine mithril svelte
-- `@if` `@show`
-- macro(node,state) | macro(node,content)
-convert html dialects to voyage element
-- ask mistral pug alternatives
-- translate(words,lang) -> element
-- from html pug etc.
-better readabilty
-- rp all cid sid with state and dc {cid sid} = state
-- rp some else with else if
-- single rep principle: split long fn
-- fn create is too long. split into shorter named fn.
-- dc for fn should be place on top {fn1,fn2}=voyage
-- dc for data should be placed where it's needed
-dom methods abstract
-- steal from jquery
-- learn from common use case
-xhr
-- fetch in fp without promise
-route
-- path and page component
-- custom decision function
-
-@version 0.28 release date
-add Key type
-- object.key
-- all literals except object(and fn)
-- undef and null not included
-changed keep global behavior
-- from states[][]=value to init states ... ... value
-- removed states.global
-- which provides better terser support
-changed variable naming
-- from reactiveState
-- to state
-typedef component array
-- [componentid:number]
-add jsdoc comments
-- at param {} name
-- at return {} name
-- function poly
-- separate public and private function
-- clearer method name
-- less typing
-remove redundant code
-- voyage.component exists twice
-- the latter will take over the former
-
-@version 0.27 20241212
-change typedef naming
-- from various naming methods to
-- AaBbCc
-change seek behavior
-- return SeekResult
-- {result:...}
-- precalculation.result
-add examples to lib init
-- case when init has no effect
-change get state behavior
-- from getReactiveState
-- to getState(cid,sid) and getStates(cid)
-revise fn get
-- from memo.getReactiveState ...
-- to memorize(getStates,cid)
-
-@version 0.26 20241210
-separate objects and arrays
-- from info
-- to info components and selections
-- states stay unchanged
-- because states["global"] acts the same as states[cid]
-remove voyage.reactive
-- seem awkward and redundant. remove all ref.
-- tradeoff of readability. yet badly implemented.
-- rewrite this when needed in the future.
-extract logic
-- fn get reactive state
-- instead of redundant use sync
-change reactive to memo
-- voyage.memo
-- some calculation results of pure functions
-- fn memorize
-- get pre calc result or calc
-seek fn
-- on voyage.lib
-- seek(obj,...path)
-- success -> [item]
-- failed -> false
-set fn
-- on voyage.lib
-- void
-- set(value,obj,...path)
-single element array
-- typedef
-rename some words
-- on obj define prop
-- from "agent" to "handler"
-fn include 
-- to implement functional programming
-- on voyage.lib
-- {slice} = include(Array)
-- slice([],...)
-- instead of [].slice(...)
-
-@version 0.25
-private fn move to lib
-- private pure functions like has init are moved to voyage.lib
-- voyage includes public functions
-
-@version 0.24
-label updater with multi factors
-- {label:calc(fn,...[factor states])}
-- or calc(fn,[factor states]) -> a reducer like useMemo in react
-- return obj {calculator:fn,factors:[...arr]}
-- updateLabelCalc(node,label,calculator){...}
-- map factors bind(updLabelCalc,factor)
-
-@version 0.23
-better and safer state
-- in fn sync
-- instead of state=obj(initial) state={}
-- state.v for the value
-- state for the state obj carrying cid sid
-label updater
-- in fn createNode
-- {label:state} -> bind single state to label
-- updateLabel(node,label,state){...}
-- bind(updateLabel,state)
-revise fn macros.model
-- add node.value=state.v
-- no need to write {value:state,"@model":state}
-- write {"@model":state} instead
-label updater example
-- examples[counterLabel]
-- label:state will only bind state change to label
-- it wont listen label.content change to update state
-*/

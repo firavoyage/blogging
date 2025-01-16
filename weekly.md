@@ -11,6 +11,68 @@
 - _make tools elegant_
 - _make knowledge pure_
 
+## 20250113
+
+> _foresight_
+
+- write chemistry wiki on pure project
+- write voyagejs & design component libraries
+- create project badges
+- summarize project leverages
+- watch lucky star
+- sync phone
+
+> _everyday_
+
+- return digital homes at al sr hi
+- learn japanese at duolingo
+- memorize tem 8 vocabulary at leisure
+- play df hunt
+
+> _evening_
+
+- watch lucky star
+- watch evangelion
+- watch sword art online
+- watch bocchi the rock
+- watch the melancholy of haruhi suzumiya
+
+> _weekend endeavour_
+
+- write chemistry wiki on pure project
+- create project badges
+- write voyagejs styling like tailwind
+- write svelte examples with voyagejs
+- write hi component library like chakra ui
+- create intuitive cpp wiki
+- create pure math wiki & categorize math strategy cards
+
+> _weekend diversion_
+
+- read stories in sr hi hg
+- play senrenbanka
+- play sabbat of the witch
+- create origami works
+
+> _weekend enlightenment_
+
+- read & categorize ruanyf weekly
+- summarize project leverages
+- design pure & intuitive foresights
+- write web apps like pre material para
+- design apps interface of leisure float
+
+> _learning_
+
+- read notes of physics chemistry geography
+- solve problems on math challenger
+
+> _meanwhile_
+
+- listen to podcasts
+- watch simplelive
+- sync phone
+
 ## 20250101
 
 > _foresight_
@@ -26,7 +88,7 @@
 > _everyday_
 
 - return digital homes at al sr hi
-- learn japanese at duolingo 
+- learn japanese at duolingo
 - play df hunt
 
 > _evening_

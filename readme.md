@@ -31,10 +31,12 @@
   - frey dark chocolate bar
   - coca cola
   - lays crisps classic
+  - fast noodles
   - bubble tea
   - egg waffle
   - tea egg
-  - chenpi & huamei
+  - chenpi
+  - huamei
 - - johann sebastian bach
   - frédéric chopin
   - calendar & wall clock
@@ -113,13 +115,13 @@
   - worldend: what do you do at the end of the world? are you busy? will you save us? (2017)
   - lucky star (2007)
   - evangelion (1995)
+  - .sword art online (2012)
   - .tonikawa: over the moon for you (2020)
   - .my youth romantic comedy is wrong, as i expected (2011)
   - .the melancholy of haruhi suzumiya (2006)
   - .the disappearance of haruhi suzumiya (2010)
   - .a certain scientific railgun (2009)
   - .re: zero - starting life in another world (2016)
-  - .sword art online (2012)
   - .your lie in april (2014)
   - .bakemonogatari (2009)
   - .frieren: beyond journey's end (2023)
@@ -372,7 +374,7 @@
   - chris coyier & codepen founding & css tricks editorial
   - claude monet & art
   - cloudwu codingnow & dev
-  - coding startup & web dev & case studies
+  - coding startup & web dev & webpage case studies founding
   - dai jiangqi codeforces & oi math champ
   - dan & louis-xavier & growth.design founding
   - dan abramov overreacted & web dev
@@ -389,7 +391,7 @@
   - epcdiy & tech critic & reverse engineering & student he analysis & berryberry early days
   - fabrice bellard & cpp programming
   - foreman ma madugong & bedtime news
-  - funshiki & anime otaku & berryberry early days
+  - funshiki ふんしき & anime otaku & berryberry early days
   - geek bay geekerwan
   - gennady vladimirovich korotkevich tourist codeforces & oi champ
   - gu sen matrix67 & cai xueqin localhost-8080
@@ -471,6 +473,7 @@
   - ryley cr & hall of fame champ
   - science fictional lycium chinense
   - segun adebayo & web dev & chakra ui founding
+  - share121 & high school life & interknot forum founding
   - shen ruochen djhs & math teaching & cycle racing
   - six divided chaochao & retro art
   - sofish & web dev & design & life gap & shimo docs founding
@@ -504,7 +507,6 @@
   - yao qixuan djhs
   - yin ming kalasoo & juejin founding
   - yu weilun ldhs & cute gifted boy
-  - yue fukang djhs
   - yuluer & mihoyo doujin
   - yunling sapphire & peer tutor life
   - yunyoujun & web dev & popular mini apps
@@ -540,12 +542,12 @@
   - prettier 9.2.0
   - terser 5.19.2
   - wenyan 0.3.4
-  - badge-maker 4.1.0
   - wikitext 4.0.0
   - markdown-all-in-one 3.6.2
-  - code-runner 0.12.2
   - javascript-code-snippets 1.8.0
   - javascript-snippets 0.4.0
+  - code-runner 0.12.2
+  - badge-maker 4.1.0
   - apt 2.7.14
   - flatpak 1.14.10
   - snap 2.63.1
@@ -599,6 +601,7 @@
   - powdertoy 98.2.365
   - qbitorrent-arnatious 4.3.9
   - retroarch 1.19.1
+  - shotcut 24.11.17
   - simplelive 1.7.3
   - snapseed 2.19.1
   - telegram-desktop 4.16.8
@@ -641,6 +644,8 @@
 - idle mode... _yawn_ how boring.
   - if you're not solving problems or writing up contributions
   - then don't blame me if your life is boring
+- on the still waters of oblivion
+  - i guide the wandering souls
 - konata is a mischievous, sarcastic and eccentric
   - yet good-natured and friendly girl
   - who is very intelligent but lazy
@@ -811,7 +816,8 @@
   - youtube `_`
   - telegram channel `_`
 - - telegram `firavoyage`
-  - email `firavoyage@outlook.com`
+  - prefered email `firavoyage@outlook.com` 
+  - email `firafira@duck.com` `xoyage@gmail.com` `devvhy@zoho.com.cn` `firav@qq.com`
 - - name `fira`
   - alias `忘我思考`
   - site `_`

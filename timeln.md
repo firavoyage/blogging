@@ -3229,15 +3229,6 @@ read ruanyf weekly
 inspired by
 两三个吧,这个很重要,我说的是数量.
 
-晚上 21:30
-玩 sr,推 main quest
-打 kafka
-配队,用的 fu xuan,dr ratio,herta,bronya
-打不过的,换了 fu xuan,dr ratio,trailblazer,bronya
-把 dr ratio 和 fu xuan 的圣遗物拉满了(现在只有紫色+12)
-挺惊险的,错一步就没了,关键是 kafka break,和 fu xuan ultimate recover hp
-哦...,说白了就是强度和炼度
-
 ## 20240727
 
 `live` `ref`
@@ -3878,14 +3869,6 @@ honkai star rail
 
 16:47
 
-看了下 sr wiki
-
-moment of victory 可以给 fu xuan
-
-sparkle 可以用四星"dance dance dance"
-
-武器池大保底,等复刻黄泉.
-
 我想早睡啊!但是几点呢!
 
 9 点不可能,刚吃完晚饭就睡了.
@@ -3931,38 +3914,6 @@ data[count]++
 或者我更喜欢 vue 实现吧.
 
 ## 20240826
-
-01:17
-听说原神送自选五星了.
-想选 keqing,开 cloud gi,然后发现还有两天才上线
-...
-发现人都换了个位置,真好啊
-我不在了,还有人能玩我的号.
-那天,我在北京环球影城,排队看到一个妹妹
-在玩原神,右边是主线送的几个四星
-我已经退坑了(玩成了代肝模样,枫丹剧情不想推了,一堆重复的)
-然后就把号送她了,说是辽宁初中生,朋友入坑的,还在小红书和朋友聊天.
-...
-看她也不咋玩,拿的还是她爸老婆的手机
-登录日志
-2024-08-23 05:43:42 大连 112.42.27.208 登录
-2024-08-07 22:47:52 北京 106.120.58.42 登录
-2024-08-04 20:14:01 北京 114.245.184.238 登录
-一共就上号几次,她不咋玩啊.
-...
-想到了别的账号
-cr 退坑了(去了 nulls),送同学,帮我从 5000 打到 7500,玩的天使雷龙暗巫水人
-bs 退坑了(去了 nulls),没送人,不过懒得玩了,强势角色没有,养成太慢,没意思.
-...
-顺便看了下,mihoyo user 绑定的角色
-
-- hg
-- hi
-- gi
-- sr
-- zzz
-  只有 sr 是一直在玩的,自动战啊,重复的怪物副本为啥还要手打!
-  设计其实也简单,就是把怪物当成玩家,玩家当成怪物,怪物能自动战,玩家也行.
 
 2:xx
 同步一下手机的内容.
@@ -4013,32 +3964,10 @@ git,svm,那么多同步工具,在我看来
 现在每天的文件就都备份好了.
 git,svm 有啥用,不过是加上一条 commit 注释,我还不填.
 
-20:02
-打 sr.
-昨天加了一堆好友,就是 uid`1000...`一直搜
-老玩家大多都有 op build,一般主 c 都有 2 命.
-为的是强势角色.试了几个.
-
-- firefly
-  - 一直打,没有别人的回合.
-  - 但是伤害不平均,全溢出在一个小怪,周围的小怪还活着
-- kafka
-  - 特别好.
-  - 随便打一下,怪就全死了.
-- jingliu | acheron
-  - 大招很 cool.
-  - 但是要攒能量,不能一个人一直打.
-  - 而且只有大招能群体秒杀.
-    ...
-    sr trailblaze level 40.
-    打个世界等级 3 进阶任务.
-    过了.开启了好多东西.
-
-00:08
-今天打算两点睡觉.
-今天 sr 的进展好多,正在打模拟宇宙.
+## 20240827
 
 00:13
+
 明天的规划.
 
 - react docs quick start in voyagejs
@@ -4046,13 +3975,8 @@ git,svm 有啥用,不过是加上一条 commit 注释,我还不填.
 - voyage unit test (ref react docs examples)
 - handle g.zip and reclassify memories
 
-2:43
-不吃水果了,梨和葡萄放冰箱了.
-看 richard bs 用大锤上大师,睡觉.
-
-## 20240827
-
 21:31
+
 没做什么事情.
 感觉 voyagejs...
 
@@ -4071,17 +3995,6 @@ git,svm 有啥用,不过是加上一条 commit 注释,我还不填.
 ...
 起床,身体痛,肌肤寒,感觉是 25'c 的空调作为.
 明晚关掉空调吧,反自然的东西.
-
-16:00
-natlan 开了,云原神爆满,进不去.
-用 netease cloud gaming 进去,keqing 拿到.
-无花空折枝的感觉.去配眼药水.平静从流.没有什么变化.
-
-18:33
-打 sr,抽数够了.
-花火的 earthly escapade 拿到.
-还没有 sync.那是以后的事情.
-70+70.歪了,但是可以给符玄.
 
 19:46
 之前吃了点星冰乐.冷,也不舒服,感觉不如常温 bubble tea.
@@ -4129,8 +4042,6 @@ think voyage.
 16:25
 
 ask mistral **np complete...**
-...
-玩 sr,好喜欢 kafka
 
 19:40
 
@@ -4484,13 +4395,6 @@ idea: **机器人代肝.** (third party plugin?)
 我不是游戏主播.
 我喜欢 sr,喜欢 english,于是记录,共有.
 
-19:13
-
-玩 sr.
-
-等级 49,刚去 penacony.
-走过曲折地面,步入虚无.
-
 ## 20240908
 
 01:28
@@ -4527,14 +4431,6 @@ read react docs...
 maybe stop copying as mhtml?
 
 going to bed
-
-22:01
-
-sync phone. complete.
-
-another monday! sr simulated universe.
-
-love **hotel california**
 
 23:07
 
@@ -4576,32 +4472,6 @@ archived!
 
 不知道我为什么前几周都是 1 点左右睡觉的.
 不过仔细想想,我早睡的愿望也不强哦.
-
-22:48
-
-sr 新版本.一班有好多玩 gi,玩 sr 的.
-
-我...
-
-看到卡池有个 herta 专武,就抽.
-
-然后出了 4 个 up 四星,就是没有 herta lightcone.
-
-厉害.然后 kafka 也抽了,没出.
-
-**总之,浪费了几十发吧,或者说垫.10 发角色,40 发光锥.**
-
-23:40
-
-无意间,点开了 gi 的 app 主页.
-
-旁边推荐了一堆别的 open world game
-
-如果说最赚钱,mihoyo,kuro,tower...当然说的手游
-
-但是如果不赔钱就行,多了,多到似乎我都能做.
-
-可是剧情呢...小说剧本...好像只有 mihoyo 有 quality story.
 
 23:56
 
@@ -4807,10 +4677,6 @@ A+稳,自在考就行.考前早睡.
   - g1t1 foresight
 
 耳边是 hotel california 单曲循环,想试试折纸.
-
-22:xx
-
-抽 sr 光锥,终于出了 the birth of the self
 
 23:37
 
@@ -5060,13 +4926,6 @@ math choice question "b"\*4
 - liuyuan:
 - (pick one)
 - problem 15.
-
-(after school 放课后)
-
-- (at class 1)
-- one playing fire ninja with his classmate
-- one playing ba blue archive battling with another player in auto mode
-- one playing gi genshin impact explaining his stategy and i gave him my account
 
 about origami...
 
@@ -5433,51 +5292,7 @@ sleep.
 
 get up
 
-17:55
-
-**sr**
-
-你不打算一步一个脚印慢慢打.
-
-你想先过任务,清体力,干到 65 级,狂刷资源.
-
-然后带着满级的装备,一路杀穿所有.
-
-目前抽卡就出了符玄,花火,还有游戏尘寰.
-
-还有黑塔专武,实际上是垫了.
-
-流萤和飞霄没抽,知更鸟也没抽,卡夫卡也没抽.
-
-## 20241003
-
-sr trailblaze level 60 reached.
-
-18:39
-
-不能换很多很多的体力!
-
-gi 不一样,可以换一堆.
-
 ## 20241004
-
-00:35
-
-一晚上都在刷各种 blog posts
-
-然后挂自动战斗 sr.
-
-刚升级 60,数据上 60 和 65 差不多.
-
-准备这两天把 70 多个凝结能量和 1000 多个燃料全用了.
-
-主要刷圣遗物.
-
-01:36
-
-不刷了,凝结体力没了,还有 20 来个燃料.
-
-欣赏和提升,出了一个一次没歪的双暴头,其他随便上锁了一些,不过升级材料不够.
 
 03:33
 
@@ -5532,14 +5347,6 @@ get up.
 **brain in a vat**!
 
 cool.
-
-17:59
-
-sr 的主 c 好少啊.
-
-`firefly` `acheron` `feixiao`
-
-没了.其他的差点数值啊.
 
 23:07
 
@@ -5654,34 +5461,6 @@ today's best:
 
 ## 20241007
 
-01:xx
-
-playing sr.
-
-打"past present and eternal show" (correct spelled?)
-
-玩的"fuxuan sparkle herta drratio".没过.
-
-**换了一套"fuxuan trailblazer(preservation) asta drratio".过了.**
-
-mapped 就是猛.各种装备全给我送满了.
-
-02:05
-
-simplelive::cr lciop
-
-**屠夫猪**无敌了多少版本啊... (虽然是力量哥对面的)
-
-三个核心,无敌防守.
-
-02:44
-
-topaz hsr.
-
-**"标准性感上司."** (我勒个职场潜规则啊!)
-
-真想抽啊...不过作罢.片中 waifu 尔,抽了不玩没意思.
-
 03:42
 
 换上新的睡衣(冬季,长裤长袖).是洗衣机的感觉.
@@ -5718,26 +5497,6 @@ black tea on desk. hotel california playing.
 sr diverse universe auto battling.
 
 surfing in threads. saving some to reflections.
-
-17:52
-
-playing sr (player controlled).
-
-encounter(battle). survive four turns to obtain curios.
-
-exciting. every turn is the best strategy to survive.
-
-19:01
-
-cleared divergent universe portal 1.
-
-build: fuxuan trailblazer(preservation) asta drratio
-
-boss: sam
-
-to use skill or not to use skill.
-
-exciting. every turn must be the best strategy.
 
 21:49
 
@@ -5792,8 +5551,6 @@ sleep.
 
 (playing hotel california)
 
-playing sr luminary wardance (auto battling) (for full reward obtainment)
-
 - school works
   - including english and math
   - must be done at school
@@ -5807,16 +5564,6 @@ playing sr luminary wardance (auto battling) (for full reward obtainment)
 - others
   - such as bangumi watching
   - at leisure
-
-## 20241009
-
-01:49
-
-finally! fully rewards obtained.
-
-sr luminary wardance complete.
-
-80 shots available now.
 
 ## 20241010
 
@@ -6093,90 +5840,6 @@ returned home.
 
 ## 20241013
 
-17:46
-
-plan
-
-- rewatch yosuga no sora
-- categorize yinming
-- read react learn docs
-- play sr
-
-playing sr...
-
-divergent universe ordinary v2...
-
-on occurence and met swarm and chose battling
-
-team:
-
-- fuxuan
-- trailblazer (preservation)
-- herta
-- drratio
-
-all 1% hp due to pineapple
-
-wtf
-
-so many rounds...
-
-and berserked lots of times...
-
-although disciplinary flicker equipped.
-
-finally get killed.
-
-... finallize? depressed.
-
-oh! i can change teamup during divergent universe!
-
-changed to
-
-- fuxuan
-- trailblazer (preservation)
-- bailu
-- sparkle
-
-even with
-
-- disciplinary flicker
-
-and
-
-- mapped all lightcones relics ...
-
-wow impressive. now all full hp.
-
-ok after a few turns the big swarm still in stage 1 and 90%+ hp ...
-
-sparkle is useless and preservations and abundances are too much
-
-changed again
-
-- fuxuan
-- herta
-- bailu
-- dr ratio
-
-bailu is fully charged at battle start
-
-after lots of turns still got defeated.
-
-dont know why.
-
-21:46
-
-`game` `weather`
-
-surfing sr wiki.
-
-sub stats of relics are nothing.
-
-only have 1/10 effect of main relics
-
-just focus on main stats. thats it.
-
 23:06
 
 `weather` `bangumi`
@@ -6207,44 +5870,6 @@ rewatching yosuga no sora...
 
 done.
 
-01:27
-
-`game` `weather` `dev`
-
-playing sr divergent universe.
-
-on plane 2 boss.
-
-boss:
-
-a girl that can turn hp grey and put aoe debuff
-
-paired with two mecha that can heal itself after defeated
-
-team:
-
-- herta
-- fuxuan
-- herta
-- sparkle
-
-defeated after a few berserk effect applied
-
-changed team.
-
-- herta
-- fuxuan
-- herta
-- misha
-
-finally defeated the boss.
-
-well, thats challenging.
-
-no more auto battle.
-
-sleep?
-
 01:31
 
 ubuntu bug! touchpad err.
@@ -6254,55 +5879,6 @@ cant move pointer. only double finger acts the same.
 not the first time happening.
 
 a restart can fix.
-
-02:19
-
-`game` `weather`
-
-playing sr...
-
-divergent universe ordinary exploration protocol v2
-
-final boss: the swarm
-
-easy win.
-
-team:
-
-- herta
-- fuxuan
-- dr ratio
-- misha
-
-the swarm weakness types:
-
-- imaginary
-- ice
-- quantum
-
-well, my turn and my turn and my turn...
-
-ultimate... brain in vat... equation turn...
-
-lucky.
-
-02:26
-
-sleep.
-
-21:54
-
-surfing in wiki.
-
-`game`
-
-sr average players can obtain 10 5star characters every year.
-
-great.
-
-topaz dropped at 80 shots.
-
-simple.
 
 ## 20241015
 
@@ -6358,29 +5934,11 @@ reading react learn docs...
 
 end. all finished. removed from weekly
 
-02:15
-
-`game`
-
-playing sr...
-
-herta space station & jalio vi.
-
-all treasures & trotters & special rewards
-
-obtained.
-
-sleep.
-
 ## 20241017
 
 00:23
 
 revised readme and projects.
-
-playing sr...
-
-consumed all trailblaze power.
 
 sleep.
 
@@ -6494,14 +6052,6 @@ sleep.
 
 艺术作品不少了...
 
-23:xx
-
-... 如常.
-
-sync memories.
-
-playing sr...
-
 ## 20241022
 
 `weather` `ref`
@@ -6531,14 +6081,6 @@ delayed to weekend.
 couldnt wait.
 
 got hair cut.
-
-23:xx
-
-playing sr...
-
-main quest: adventurine and acheron.
-
-defeated adventurine boss.
 
 ## 20241023
 
@@ -6594,8 +6136,6 @@ adding important tag to things
 
 01:48
 
-`gaming`
-
 revise readme.
 
 - i dont know... whoo... how boring.
@@ -6645,18 +6185,6 @@ f:电源开了吗?
 
 好像更旺盛了.
 
-21:13
-
-`gaming` `ref`
-
-playing sr...
-
-reached eq 65.
-
-upgraded sparkle to lv 80
-
-**childhood's end**
-
 ## 20241026
 
 14:xx
@@ -6664,24 +6192,6 @@ upgraded sparkle to lv 80
 get up.
 
 have a steamed bun.
-
-16:21
-
-playing sr...
-
-rainy weather outside...
-
-playing aoi teshima (haze)...
-
-depressed.
-
-watch lucky star? maybe in the evening.
-
-done.
-
-- writing project voyagejs
-- lucky star
-- brawl stars nulls
 
 16:38
 
@@ -6750,130 +6260,6 @@ tomorrow plan.
 
 finish writing voyagejs 0.8
 
-17:36
-
-`gaming`
-
-playing sr.
-
-switched to bothil & robin perspective
-
-beated knight of beauty
-
-facing sunday
-
-"through harmony, we get order"
-
-"build a cage for it or not"
-
-19:21
-
-`gaming`
-
-playing sr.
-
-"the order is dead!"
-
-"the world is harmony!"
-
-19:xx
-
-had kfc.
-
-cocacola is great
-
-20:00
-
-`gaming`
-
-playing sr.
-
-fighting order's three puppets
-
-"past present and future"
-
-"no one claimed order's grace. all puppets will recieve more dmg."
-
-20:10
-
-`gaming`
-
-playing sr.
-
-fighting "harmonious choir" the great septimus
-
-the conductor, the order.
-
-"walk in the light"
-
-"no one reponses to the god, the order failed to launch"
-
-20:46
-
-`gaming`
-
-playing sr.
-
-"Honkai Star Rail"
-
-"Leading Actor: f"
-
-"... as ..."
-
-21:11
-
-`gaming`
-
-playing sr.
-
-into a story
-
-using trailblazer (harmony)
-
-`laughter`
-
-https://www.bilibili.com/video/BV1Hx4UeeEv1
-
-no story order. awkward!
-
-21:46
-
-`gaming`
-
-playing sr.
-
-robin:
-
-"brother, it's not the eden people want"
-
-(callback gi raiden shogun "numerous desiderta")
-
-"embryo of philosophy sunday"
-
-21:55
-
-`gaming`
-
-playing sr.
-
-"harmony embraces order, again."
-
-again:
-
-penacony, the dreamland.
-
-$$fin.$$
-
-"Honkai: Star Rail"
-
-"leadering actor:f "
-
-"superviser elio"
-
-goodnight, mikhail.
-
-"May this journey lead us starward"
-
 23:03
 
 surfing...
@@ -6895,7 +6281,7 @@ and end up repeating and repeating.
 
 ## 20241028
 
-0:xx
+00:xx
 
 playing bs & cr...
 
@@ -6903,7 +6289,7 @@ bs couldnt match. too few players online.
 
 new decks from royaleapi. so op.
 
-1:xx
+01:xx
 
 writing voyagejs...
 
@@ -6939,64 +6325,6 @@ weather 16 centigrade
 
 ref: kiun b.
 
-23:02
-
-`gaming` `exciting`
-
-playing sr.
-
-simulated universe.
-
-recently reached lv65.
-
-challenging su max difficulty.
-
-in world 5 vs boss svalog.
-
-team
-
-- fu xuan
-- sparkle
-- herta
-- dr ratio
-
-su doesnt map character. and only these four are lv 80.
-
-attempted several times but failed.
-
-the last time, i carefully prepared in stage 2 fin.
-
-let fuxuan and dr ratio go into stage 3 with max energy.
-
-at last, all three are dead. only dr ratio survived.
-
-(help me, adventurine!)
-
-and dr ratio's talent didnt miss.
-
-lucky.
-
-23:53
-
-`gaming`
-
-playing sr.
-
-challenging simulated universe.
-
-fighting abundant ebon deer.
-
-this guy looks weak.
-
-auto battle all time. easy win.
-
-team
-
-- herta
-- fu xuan
-- dr ratio
-- sparkle
-
 ## 20241029
 
 02:27
@@ -7021,41 +6349,6 @@ watched lucky star ep 6.
 
 sleep.
 
-22:15
-
-`gaming`
-
-playing sr.
-
-simulated universe highest level.
-
-fighting kafka.
-
-team
-
-- fu xuan
-- herta
-- sparkle
-- dr ratio
-
-kafka looks very weak.
-
-every time she attempted to control fu xuan.
-
-"effect res"
-
-lol.
-
-easy win.
-
-at the end of the day, everyone is max hp.
-
-no one has even been controlled!
-
-**poor kafka!**
-
-going to next world.
-
 22:23
 
 `dev` `ubuntu`
@@ -7072,31 +6365,6 @@ but that's not the case in windows and mac.
 
 app got crashed or not responding but human's control delivery works fast.
 
-23:22
-
-`gaming`
-
-playing sr.
-
-simulated universe.
-
-team
-
-- fu xuan
-- herta
-- sparkle
-- dr ratio
-
-fighting cololia.
-
-another easy win. (path: the hunt)
-
-even completed the achievement
-
-**"save the princess."**
-
-(defeat cololia without defeating bronya)
-
 ## 20241030
 
 00:11
@@ -7110,12 +6378,6 @@ which fit me well
 **happy.**
 
 most of them are from $uniqlo$ and $fila$
-
-`gaming`
-
-playing sr simulated universe.
-
-auto battling. today i will clear all su levels.
 
 00:13
 
@@ -7134,88 +6396,11 @@ even chromium is crashed. (not responding)
 
 not the first time. wtf.
 
-01:04
-
-`gaming`
-
-playing sr simulated universe.
-
-only world 8 and 9 left.
-
-step on the hunt...
-
-always choosing combat...
-
-mindlessly choosing blessings...
-
-fighting yanqing... failed.
-
-now challenging again.
-
-01:58
-
-`gaming`
-
-playing hotel california.
-
-playing sr su.
-
-changed fu xuan's lightcone.
-
-from **moment of victory** to **texture of memories**
-
-wise choice.
-
-team
-
-- fu xuan (texture of memories)
-- herta (the birth of the self)
-- sparkle (earthly escapade)
-- dr ratio (voyage in astral sea)
-
-step on the path of abundance.
-
-abundance appears in action flow.
-
-so much abundance blessings gain.
-
-yan qing's huge sword
-
-even couldnt activate fu xuan's talent
-
-**poor yan qing!**
-
-only world 9 left. challenge it tommorow.
-
-voyagejs writing delayed. watch an episode and sleep.
-
 03:34
 
 watched lucky star episode 7.
 
 sleep.
-
-17:43
-
-playing hotel california
-
-**尘影 aa**
-
-同学都在玩洲!入坑.
-
-上面那个是同学 id.加他好友.
-
-done.
-
-waiting for approval.
-
-23:38
-
-playing delta force.
-
-all night.
-
-love war mode. love red wolf.
 
 ## 20241031
 
@@ -7225,44 +6410,6 @@ love war mode. love red wolf.
 
 playing delta force.
 
-02:26
-
-`gaming`
-
-(not playing hotel california, for solitude at late night)
-
-playing sr simulated universe world 9 on abundance path.
-
-writing voyagejs plan.
-
-- watch lucky star episode 8
-
-03:31
-
-`gaming`
-
-playing sr...
-
-failed. what a 10 bar hp.
-
-try again on nihility path.
-
-03:59
-
-watching lucky star.
-
-while sr auto battling.
-
-**disciplinary flicker**!
-
-**cosmos chorus**! 10 positive effect!
-
-**replace all curios with random**! great curios!
-
-**1210 fragments at last respite**! enhance all!
-
-lucky!
-
 04:12
 
 `bangumi`
@@ -7271,208 +6418,11 @@ watched lucky star episode 8.
 
 sleep.
 
-04:17
-
-`gaming`
-
-fighting memory zone meme.
-
-"something unto death"
-
-in simulated universe on nihility path.
-
-**auto battling all time.**
-
-team same as yesterday one
-
-13 blessings of nihility obtained. all enhanced.
-
-easy win.
-
-wow, daily missions refreshed!
-
-first time seen in sr.
-
-(in gi that was a winter holiday when i was for primogems for nahida)
-
 04:20
 
 sleep.
 
-22:50
-
-`gaming`
-
-playing sr simulated universe: swarm disaster.
-
-team
-
-- fu xuan
-- dr ratio
-- herta
-- sparkle
-
-on the path of destruction
-
-failed. down in the abundance deer stage 3.
-
-on the path of elation.
-
-failed.
-
-no healer. no abundance blessing.
-
-23:03
-
-on the path of abundance.
-
-**bad luck.**
-
-only one abundance blessing received.
-
-auto battle off.
-
-every move must be the best strategy.
-
-**i even changed lineup, just for replacing character order.**
-
-**and hoping the elite monster lock on characters with more hp.**
-
-still struggling. may be i should take a bath first.
-
-but my time is plenty.
-
-23:11
-
-at the beginning of second plane.
-
-at the end of the day getting 3 blessings of abundance.
-
-bad luck.
-
-eventually enabled the path resonance and nihility resonance interplay.
-
-23:22
-
-dealing with a bold mosquito flying around me.
-
-it even hasnt tried to dodge me before i clapped my hand.
-
-finally it paid its life.
-
-**fucking insect.**
-
-**both in and outside the game.**
-
-23:28
-
-the third time fighting **the ascended** today.
-
-**the worst matchup could be.**
-
-but now with abundance i'm quite stronger.
-
-lucky you!
-
-23:42
-
-great.
-
-elation: **aftertaste for follow-up**.
-
-elation: **ultimate is follow-up**.
-
-23:59
-
-chose kafka as second plane boss.
-
-effect res all time.
-
-abundance appears in action list.
-
-even with fu xuan's talent and abundance resonance.
-
-always max hp.
-
-**poor kafka!**
-
-wtf.
-
-on stage 3, kafka killed fu xuan's 9000 hp in one shot!
-
-anyway. when receiving killing blow, reset with 1% hp.
-
-well, how could it be!
-
-it's just normal difficulty.
-
-kafka level 80, without rage or stats improve.
-
-maybe not activating fu xuan's skill and try again?
-
-**kafka's grenade so op**!
-
-**but why kafka is just weak in normal simulated universe**?
-
-**any stats enhancement in swarm disaster**?
-
 ## 20241101
-
-00:17
-
-`gaming`
-
-stuck in sr su.
-
-emmm...
-
-still stuck in kafka stage 3.
-
-open kafka enemy detail page...
-
-now i see.
-
-**2.0% dmg boost stacked 61 times**
-
-wtf. why is this!
-
-now my team is
-
-- fu xuan
-- dr ratio
-- herta (down)
-- sparkle (down)
-
-i thought the matrix of prescience could resist kakfa's "dominated".
-
-and as two charcters are down, the distributed dmg couldnt be too much.
-
-but it's turned out that i was wrong.
-
-**2.0% dmg boost stacked 80 times**
-
-it eventually dawned on me that
-
-i shouldnt restart the challenge.
-
-after i saw this...
-
-**every shock effect slightly increases kafka's dmg**
-
-**it was my dmg too low. as i could resist the dot dmg by any means.**
-
-**or it's my fault not choosing a blessing for removing debuff**
-
-maybe it's time to move forward.
-
-- take a bath
-- sync notebook (easy).
-- sync phone (delete most of g.zip)
-- solve a difficult math problem
-- play delta force.
-- watch lucky star episode 9.
-
-my time is unlimited. great.
 
 01:05
 
@@ -7491,14 +6441,6 @@ played google doodle halloween
 - sync g.zip
 - play delta force.
 - watch lucky star episode 9.
-
-03:54
-
-played delta force.
-
-found zelyd's pocket watch.
-
-earned 500000 in one match.
 
 04:26
 
@@ -7524,27 +6466,11 @@ archived! 换了新的日记本.
 
 ("记作业的小本子")
 
-04:xx
-
-`gaming`
-
-playing df.
-
-sleep.
-
 14:xx
 
 `weather`
 
 have black tea on desk
-
-16:08
-
-`gaming`
-
-playing sr.
-
-"sparkle's imaginery neutron bombs"
 
 16:22
 
@@ -7552,61 +6478,7 @@ playing sr.
 
 renamed all files with "\_" to " "
 
-16:41
-
-`gaming`
-
-playing sr.
-
-"trailblaze mission
-
-"interlude"
-
-"stay turned to find out what happens next in the upcoming installment"
-
-"stay turned"
-
-things are done.
-
-怅然若失.
-
-23:xx
-
-`gaming`
-
-watching simplelive
-
-gaozixiang & wanderer bs
-
-cr championship
-
-bs championship
-
 ## 20241103
-
-01:01
-
-`gaming`
-
-playing df.
-
-零号大坝. 普通.
-
-因为等级不够.
-
-玩威龙,跑刀.
-
-队友开起来,有正面作用.就是清人机和敌人.
-
-几乎没有抢东西的负面作用.
-
-因为我的角色跑得快,直接走,队友可能会清人机.
-
-打人和打人机爆率一样.
-
-然后不喜欢的对局就直接退了.
-
-等级高一点,去机密好.同学早入坑,都去机密了.
 
 02:57
 
@@ -7645,20 +6517,6 @@ tomorrow
 
 writing set logic.
 
-15:xx
-
-`gaming`
-
-playing al,sr.
-
-做了日常.
-
-playing df.
-
-看了眼 df 好友战绩.
-
-zhang xizhe 从 10 点打到 15 点,一直输,大概是跑刀.
-
 15:44
 
 `pure`
@@ -7676,20 +6534,6 @@ wrote voyagejs
 
 writing create poly
 
-19:37
-
-`gaming`
-
-playing df.
-
-以前一键转移,还要把装备单独转移.
-
-现在懒得转移了.人机装备没啥好转移的.
-
-说的是包和装甲.
-
-枪倒是可以转移,反正没有子弹也用不了.
-
 21:33
 
 had supper
@@ -7701,10 +6545,6 @@ wrote voyagejs
 - create poly
 
 21:34
-
-`gaming`
-
-playing df.
 
 - watch lucky star ep 10
 
@@ -7750,90 +6590,6 @@ retro...
 
 watched lucky star episode 10
 
-- watch bs championship at wanderer bs simplelive?
-
-playing df. and then
-
-sleep.
-
-03:xx
-
-watched supercell helsinki championship live and matches replay.
-
-bs: humble win, only only one lose to sk gaming
-
-cr: mohamad light win, with only one lose to lciop
-
-04:50
-
-watched simplelive df
-
-key253 playing df.
-
-a open and frank boy in cute anime charcater of red eyes.
-
-kksk!
-
-`school` `sleep` `ref` `important`
-
-oh it's too late... maybe not?
-
-the day after tomorrow will be monthly exam...
-
-anyway. it's supercell championship!
-
-the same happens when i was in jhs grade 3 and it was fifa world cup.
-
-i didnt remember, maybe croatia vs brazil?
-
-it was also monthly exam tomorrow...
-
-and df! it's an arousing fps game.
-
-i stayed up late for months when i was jhs grade 2 playing pubg mobile.
-
-it was covid pandemic that time
-
-and my classmates learned online while i didnt love watching live courses
-
-i just played and played and stayed up late and always giving up sleep.
-
-anyway, earthly escapade!
-
-my mission is just to threat life merely as playing game.
-
-"a boy constantly looking pretty shells than ordinary"
-
-just working out problems at possible. and keep in mind that
-
-score is nothing. no stress or pressure. that's school life. enjoy youth!
-
-i never go to school with phone. spare out time playing games makes me nervous.
-
-as a play games for indulgence not for pasttime.
-
-that's life.
-
-05:03
-
-finished writing all those above.
-
-tomorrow
-
-- complete some voyagejs todo
-- watch lucky star
-- sleep early for contest
-
-next week
-
-- monday: normal
-- tues to thurs: monthly exam
-- friday: autumn outing
-- the week after next: practice craftman skill
-- next next: the grass is grown and opened. time for football.
-
-sleep. (slumber.)
-
 06:55
 
 get up.
@@ -7855,24 +6611,6 @@ followed zhang xizhe all way home
 took a bath.
 
 refreshed.
-
-19:20
-
-`gaming`
-
-playing sr.
-
-- daily assignment
-- weekly div universe
-- sampo activity
-
-and account got logged out.
-
-"account logged in another device."
-
-turned to user.mihoyo.com and got ip log
-
-"大连"
 
 `retro`
 
@@ -7906,30 +6644,6 @@ i dont know...
 `bangumi`
 
 watched lucky star episode 11
-
-02:31
-
-watched simplelive
-
-about df.
-
-sleep. (earlier than yesterday!)
-
-16:45
-
-`gaming`
-
-playing sr.
-
-蛙趣,星穹咋变少了!
-
-查了抽卡记录,11.03 抽了好多发.
-
-好像是 40 发吧,限定角色池,没出货.
-
-大概是那个"大连"抽的.
-
-不过无所谓吧,让她玩会.
 
 23:15
 
@@ -7966,48 +6680,6 @@ succeeded!
 
 happy.
 
-02:48
-
-`gaming`
-
-played df.
-
-打了一整晚 df.
-
-太点背了.
-
-**bad luck.**
-
-一直打机密大坝.
-
-把把有赛义德,其他地方也不出货,最多紫色.
-
-最后一把也有赛义德,和队友抢东西,被队友骂也无所谓,一定要撤离一把.
-
-队友是两个打架高手,一个杀了赛义德,一个打死好几个.
-
-队友强,一直追着他跑,把他语音关了,反正没有队友伤害.
-
-他不动,想赶我走,我也不动.
-
-最后终于撤离了,不过也就一点四级装备.
-
-那个打架的,赚了 70 万.
-
-我捡了点东西,赚了 50 万.
-
-加了 3000 经验,终于解锁巴克什了.
-
-**以后就打巴克什和普通大坝跑刀了.**
-
-那个机密大坝真不讨好,我同学都不玩了.
-
-`bangumi`
-
-不看番了.今天先睡.
-
-sleep.
-
 21:27
 
 `dev`
@@ -8017,28 +6689,6 @@ voyagejs 0.16 released
 (check the todo comment in the code)
 
 ## 20241107
-
-01:21
-
-`gaming`
-
-playing df.
-
-打普通大坝了.啥也不带,跑刀.
-
-挺爽的.什么都不怕.到处乱跑.死了也无所谓.
-
-看白毛红瞳(key725)直播,绝密航天一把大概 3,000,000 吧.
-
-普通大坝一把是十分之一,但是没有压力.
-
-怀念当初打 pubg mobile metro royale...
-
-有喷子,有双榴弹,有改妹,有手雷.啥装备都能猛攻.
-
-死了装备还随机掉.卡出生点,去辐射区摸金条.
-
-这里不行了,还是打打普通大坝吧.
 
 01:59
 
@@ -8230,27 +6880,7 @@ get up.
 
 update wisdom.
 
-23:45
-
-`gaming`
-
-not playing df.
-
-watching df guide vid.
-
-还是玩大战场吧...池鱼思故渊了.
-
-"我这边没啥竞争,高二的时候,身边的同学玩 df,周末一天八个小时,我因为只玩大战场,压力小很多"
-
 ## 20241110
-
-02:xx
-
-`gaming`
-
-watching key725 df live
-
-"能感觉...(老板)有点困了啊,平时是睡得比较晚吗"
 
 02:24
 
@@ -8261,52 +6891,6 @@ ubuntu is buggy...
 vscode couldnt render markdown (webview failed)
 
 restart will solve this. true.
-
-02:40
-
-`gaming`
-
-watching key725 df live.
-
-"号是封了,可是老板也火化了"
-
-"三角洲挂太多了..."
-
-"这个特征太明显了,每个连续刷那么多把..."
-
-"现在挂最大的问题是没成本,连人力成本都没有,他进去出来进去出来结束了"
-
-"如果你进十场,一把没死过,每把还打几个人,就很容易匹到挂,连着碰了三把挂"
-
-"匹配机制认为我们太牛逼了!"
-
-03:09
-
-`dev` `gaming`
-
-读 integer overflow
-
-挂着 key 的直播.
-
-"这把补偿局,下把继续碰挂"
-
-(f):
-
-所以我还是玩大战场吧.
-
-(想起之前玩 pubgm metro royale,对比这个游戏的撤离点规则)
-
-(更坚定了)
-
-"???"
-
-"还有 sm"
-
-"没主播叫得好听"
-
-"有爱情主题"
-
-(麦晓雯被火烤)
 
 04:12
 
@@ -8360,88 +6944,6 @@ had some great breakfast.
 
 (noodle with scallion oil)
 
-15:52
-
-`gaming`
-
-playing sr.
-
-pure fiction. (about to end)
-
-stage 2.
-
-team
-
-- sparkle
-- dr ratio
-- topaz
-- march (the hunt)
-
-team 2
-
-- herta
-- trailblazer (harmony)
-- bronya
-- fu xuan
-
-not leveled up. this is the furthest i could go
-
-16:53
-
-failed. only got 2 stars.
-
-changed team and it's my last try.
-
-team
-
-- herta
-- bronya
-- sparkle
-- fu xuan
-
-team 2
-
-- trailblazer (harmony)
-- dr ratio
-- topaz
-- march (the hunt)
-
-17:14
-
-`gaming`
-
-sr. pure fiction stage 2.
-
-failed again. although no so much rewards i will try again.
-
-it's close. i reached 57000. i will upgrade some stats
-
-and i could work out.
-
-...
-
-wow it's new month. it's nov. opened store and bought all deal.
-
-17:42
-
-had some black tea.
-
-`gaming`
-
-sr. succeeded.
-
-17:45
-
-watch simplelive df.
-
-最后十秒,冲撤离点...
-
-"所以出去了没啊" "关键切断"
-
-"逆天超管" "超管诗人握持"
-
-"超管被抢丢包撤离了"
-
 17:5x
 
 "你这薯片还在啊,要是你妹,早就吃完了"
@@ -8449,12 +6951,6 @@ watch simplelive df.
 18:04
 
 writing voyagejs...
-
-18:28
-
-sync phone. simplelive autoplaying.
-
-"加持良治 ovo:我这一下午就死了一把,想死兄弟们,能不能狙击我啊,有人给主播上强度吗"
 
 22:xx
 
@@ -8487,16 +6983,6 @@ released new version. (details in code.)
 
 **a great revision.**
 
-04:xx
-
-watching df live
-
-`story`
-
-key725:
-
-我塔克夫播了六年三十万粉,三角洲播了一个月 42 万粉.
-
 12:xx
 
 craftmanship education
@@ -8504,19 +6990,6 @@ craftmanship education
 learning electric welding
 
 18:14
-
-`gaming`
-
-new week. sr div uni.
-
-team
-
-- dr ratio
-- herta
-- topaz
-- sparkle
-
-no protocol. simple.
 
 `dev`
 
@@ -8593,10 +7066,6 @@ peeked wakatime.
 ## 20241112
 
 02:14
-
-watched df simplelive. added some sub.
-
-played df war mode.
 
 _sleep._
 
@@ -8688,20 +7157,6 @@ so i will wear my clothes at leisure today.
 with a school uniform coat...
 
 which is loose and cozy
-
-17:51
-
-`gaming`
-
-playing sr.
-
-acheron dropped. 60shots.
-
-**i love gacha games!**
-
-drawing for adventurine... nothing happened.
-
-gallagher dropped.
 
 22:07
 
@@ -8855,14 +7310,6 @@ as the Night’s, Reincarnation
 
 最好是 arch linux + hyprland + neovim + rust ，头像是二次元，喜欢算法竞赛，这样人生就美满了
 
-19:04
-
-playing sr.
-
-查了下记录,adventurine 垫了 60 发了.
-
-不出算了.不过追击队不错.
-
 ## 20241115
 
 01:35
@@ -8921,52 +7368,9 @@ still makeing geometry objects.
 
 mainly archimedean objects, using colorized paper.
 
-`gaming`
-
-playing sr. div universe.
-
-ordinary, tortorse protocol 3.
-
-every choice must be the best choice.
-
-team
-
-- topaz
-- dr ratio
-- sparkle
-- fu xuan
-
-21:42
-
-`gaming`
-
-sr.
-
-options and interfaces in divergent universe
-
-are so beautiful... even of great elegance.
-
 `dev`
 
 **cant wait to finish writing voyagejs and start sr component library**
-
-22:07
-
-`gaming`
-
-playing sr div uni.
-
-lucky!
-
-boss:
-
-**argenti**
-
-i even didnt use herta. too much hp restore buff.
-
-constantly about max hp. every atk is about 6 digit dmg. fu xuan has 11000 hp.
-
-**easy win.**
 
 ## 20241116
 
@@ -9012,12 +7416,6 @@ making paper models
 
 making paper models
 
-`gaming`
-
-playing sr.
-
-autoplaying event stories.
-
 16:40
 
 **time for departure**
@@ -9029,10 +7427,6 @@ ok. just to eat out.
 `dev`
 
 changing code key shortcuts about cursor.
-
-`gaming`
-
-sr event stories autoplaying
 
 17:xx
 
@@ -9105,77 +7499,6 @@ splitted school folder. now
 - git/school
 
 btw,upd readme and git shortcuts
-
-13:43
-
-`gaming`
-
-autoplaying sr.
-
-now 70shots already.
-
-pursue 10 more shots for adventurine.
-
-whether it will drop or not anyway.
-
-sr is much more fun than gi. no big map. has auto battle.
-
-better fit for leisue players like me.
-
-14:33
-
-`gaming`
-
-surfing in zhihu arch femboys...qwq.
-
-and playing sr unknowable domain.
-
-15:08
-
-`gaming`
-
-sr. unknowable domain.
-
-skeptors are so op.
-
-never is my turn or enemies' turn.
-
-it's all skeptors' turn which is massive 7 digit dmg.
-
-**easy win**
-
-against new wolf boss.
-
-15:14
-
-`gaming`
-
-playing sr.
-
-**i love gacha gaming.**
-
-wtf!
-
-what a luck.
-
-adventurine dropped in 80shots, even with a free welt in 0shot.
-
-and this is my sr gacha record.
-
-- dr ratio 0shot
-- fuxuan 30shots
-- sparkle 20shots
-- gepard lightcone 70shots
-- sparkle lightcone 70shots
-- bailu 20shots
-- topaz 80shots
-- acheron 60shots
-- adventurine 80shots
-- welt 0shot
-
-(stories from jun 2024.)
-
-**what a luck.**
 
 22:45
 
@@ -9341,68 +7664,7 @@ sleep.
 
 语文改答案,蒋之骏拿回年一.
 
-`gaming`
-
-new week! playing sr.
-
-21:38
-
-`gaming`
-
-playing sr. div universe protocol 4.
-
-adventurine is so great. even in mapping mode.
-
-**team current**
-
-- adventurine
-- fu xuan
-- dr ratio
-- topaz
-
-**team in other modes**
-
-- adventurine
-- dr ratio
-- topaz
-- march (the hunt)
-
-- fu xuan
-- acheron
-- sparkle
-- pela
-
-23:04
-
-`gaming`
-
-sr. div uni proto 4.
-
-boss is cirrus.
-
-**easy win.**
-
-**aventurine op.**
-
 ## 20241119
-
-01:10
-
-`gaming`
-
-playing sr.
-
-div uni proto 5.
-
-**boss:cirrus.**
-
-fu xuan died at last.
-
-as the enemies have gone berserk 3 times...
-
-**berserk**
-
-but i eventually got a close win.
 
 01:25
 
@@ -9455,12 +7717,6 @@ playing aruarian dance... (boring!why inf loop!)
 
 playing hotel california...
 
-`gaming`
-
-playing sr. cleared all forgotten hall in javlio and xianzhou.
-
-so tired... just sync...
-
 23:51
 
 swimmed for a while. really tired.
@@ -9484,121 +7740,6 @@ tomorrow:
 it's freezing cold.
 
 turned on ac. heating mode at 26 centi.
-
-01:31
-
-still watched simplelive
-
-tofu langrensha.
-
-"拟人局" "这能诗人?"
-
-**sleep.**
-
-21:05
-
-`gaming`
-
-sr div uni proto 6.
-
-boss: cirrus.
-
-team
-
-- fu xuan
-- aventurine
-- dr ratio
-- topaz.
-
-bad luck. random blessings and not even one 3 star eq is opened.
-
-too few dmg.
-
-even **berserk** on stage 2.
-
-wtf. finalized.
-
-21:37
-
-`gaming`
-
-started a new round or div uni.
-
-team unchanged.
-
-this time is with more luck.
-
-almost all blessings are based on the hunt or elation.
-
-other blessings are also good. no need to rewrite.
-
-**also, received a 3 star eq with 4500% based dmg.**
-
-**fu xuan has 12000, 13000, now 15535 hp! wtf. how could this happen!**
-
-oh! double **max hp boost: inc max hp by 80%**
-
-**wow fu xuan eventually has 17805 hp & all allies are above 10000 hp**
-
-1158 cosmic fragment currently possessing.
-
-22:05
-
-`gaming`
-
-playing sr div uni proto 6.
-
-**boss: the swarm**
-
-**luck is always with me.**
-
-every follow up delays enemy by 25% up to 3 times.
-
-**my turn, my turn, always my turn.**
-
-wow poor you still have 6000 dmg on stage 3! but fu xuan has more than 13000 hp.
-
-even didnt trigger talent.
-
-22:16
-
-`gaming`
-
-it's really enjoyable watching this.
-
-**easy win.**
-
-received title: universe's end.
-
-team:
-
-- aventurine
-- fu xuan
-- dr ratio
-- topaz
-
-weighted curio: the hunt, harmony.
-
-equation (all expanded):
-
-- bionic messiah
-- disaster-halting machanism
-- bounty hunter
-- unsinkable
-- pacifist
-
-blessings obtained:
-
-- 3 preservation
-- 1 nihility
-- 5 abundance
-- 11 the hunt
-- 2 destruction
-- 11 elation
-- 2 propagation
-- 2 erudition
-
-curios obtained: 15.
 
 23:56
 
@@ -9633,30 +7774,6 @@ this will be a big voyagejs revision. write when i'm fully refreshed.
 playing haru no kaze by aoi teshima
 
 **haru no kaze**
-
-`gaming`
-
-df.
-
-新版本的 app icon 切成圆角了喵!
-
-渲染好像更清晰了,好多图片也更新了.
-
-zhang xizhe: 尘影 aa (s1 三角洲巅峰)
-
-zhou zhiyuan: 进击的到远 (s1 统帅)
-
-他喜欢玩露娜和乌鲁鲁.玩 m14 和 car15.
-
-这赛季打大战场,要上统帅.
-
-23:47
-
-`gaming`
-
-playing df war mode.
-
-今朝有酒今朝醉.
 
 ## 20241122
 
@@ -9772,12 +7889,6 @@ wtf, so much cencership! only local ai model could work...
 
 家里网竟然连不上了,加了个-5G 后缀好了,wtf.
 
-`gaming`
-
-weekend!
-
-playing df
-
 00:44
 
 `fun`
@@ -9854,25 +7965,9 @@ mistral ai can hide side panel!
 
 **great feature**
 
-21:36
-
-`gaming`
-
-playing sr.
-
-i need to clear 3 star adventure for 2 times.
-
-failed trotter catch using acheron...
-
-**failed and failed and failed again.**
-
-i thought i couldnt make it done without a sprinting character.
-
-**succeeded with topaz**
-
-wow i forgot topaz can attract trotters...
-
 22:53
+
+`dev` `ref`
 
 playing text rpg with mistral...
 
@@ -9898,256 +7993,6 @@ wow!
 
 ## 20241124
 
-`gaming`
-
-sr div uni proto 7.
-
-**all dmg boosts for characters are useless.**
-
-**only base dmg works**
-
-`surfing`
-
-finding and testing prompts while auto battling.
-
-00:40
-
-**end battle and finalize.**
-
-quited at stage 1.
-
-too few dmg. no base dmg eq are expanded.
-
-**bad luck.**
-
-01:00
-
-discovered some new prompts.
-
-finalized again.
-
-01:16
-
-finalized again.
-
-02:17
-
-surfing and gaming.
-
-sr div uni proto 7.
-
-team
-
-- aventurine
-- march
-- dr ratio
-- topaz
-
-**better luck this time.**
-
-**currently fighting plane 2 boss: yanqing.**
-
-changed lineup.
-
-02:36
-
-failed again.
-
-replaced topaz with acheron and tried again.
-
-02:51
-
-surfing...
-
-still struggling.
-
-forgot closing auto battle at stage 3.
-
-**acheron launched ultimate right before yanqing placed his blades.**
-
-changed lineup.
-
-the situation might be better.
-
-as i got a healing blessing related to crit boost.
-
-my acheron lacks hp in stage 2, esp stage 3.
-
-now she's always full hp.
-
-but still lacks 2 abundance blessing
-
-to expand the 4500% lightening base dmg equation
-
-**bad luck in blessing rewrite**
-
-03:00
-
-**wtf!**
-
-yanqing killed 2 characters in one shot! even at stage 2!
-
-even worse luck this time...
-
-restart. and auto battling.
-
-03:08
-
-on stage 2 again.
-
-this time yanqing's blades reduced acheron's hp to 300...
-
-but we all survived!
-
-how frightening!
-
-03:15
-
-**end combat and finalized.**
-
-yanqing defeated the full team with one shot.
-
-just with 40% dmg boost berserk.
-
-never try div uni proto 7 without base dmg eq.
-
-**wow! i forgot i had curio crown!**
-
-**i continued battle! oh yeah!**
-
-**4500% base dmg eq expanded!**
-
-03:24
-
-all eq are expanded!
-
-even no "not reco to overwrite bls" warning seen.
-
-even didnt use up the cosmic fragments. remained 128.
-
-no more bls needed to be overwritten.
-
-03:29
-
-**good luck.**
-
-**boss: cirrus.**
-
-team
-
-- aventurine
-- march
-- acheron
-- dr ratio
-
-**disabled auto battle to attack directly on the enemy with fiber.**
-
-03:38
-
-changed lineup to make fiber stack decrease easier.
-
-team
-
-- aventurine
-- march
-- topaz
-- dr ratio
-
-04:03
-
-failed after berserked too many times...
-
-restart. try to reduce turns.
-
-changed some relics.
-
-04:46
-
-still does not work.
-
-enemies berserked right before second wave in stage 3.
-
-and too much dmg.
-
-**changed dr ratio to fu xuan**
-
-**changed strategy: march let fu xuan be shi fu as all enemies have quantum weakness**
-
-it's my last attempt. if failed, finalize and sleep.
-
-**i realized my fault... i didnt overwrite eq... only one base dmg eq present!**
-
-**changed relics again. most relics are mapped.**
-
-team
-
-- aventurine (mapped relics)
-- fu xuan
-- march (mapped relics)
-- topaz
-
-**but not a lightcone is mapped.**
-
-team
-
-- aventurine (moment of victory)
-- fu xuan (texture of memories si 3)
-- march (swordplay)
-- topaz (swordplay si 3)
-
-05:14
-
-sleep.
-
-12:xx
-
-get up.
-
-12:26
-
-continue sr battle.
-
-**every time a weakness is broken. the character act again!**
-
-**march can now break all weakness in one turn.**
-
-**wtf. fu xuan has over 20000 hp!**
-
-so much 80% hp boost. where are they from!
-
-**oh i see. aoe reduce fiber by one. other atk reduce two.**
-
-**still got berserk at first wave of stage 3.**
-
-13:03
-
-**now at second wave of stage 3.**
-
-**4 stacks of berserk 40% dmg boost**
-
-**revive at 1 hp used. on fu xuan.**
-
-13:06
-
-failed again.
-
-**5 stacks of berserk.**
-
-changed lineup.
-
-team
-
-- fu xuan
-- sparkle
-- march
-- acheron
-
-14:03
-
-finalized. things are predestinied.
-
-**bad luck.**
-
 14:56
 
 不饿.
@@ -10160,64 +8005,11 @@ finalized. things are predestinied.
 
 finding good prompts
 
-`gaming`
-
-playing sr div uni proto 7.
-
-**i really underestimated sparkle.**
-
-put sparkle into my foa team.
-
-- aventurine
-- sparkle
-- dr ratio
-- topaz
-
-16:48
-
-`gaming`
-
-sr div uni proto 7 on plane 2.
-
-**met yanqing again.**
-
-**fuck. what a bad luck**
-
-overwrote bls 2 times without a the hunt bls appeared.
-
-i just need 1 to expand!
-
-17:24
-
-play df after finalize.
-
 ## 20241125
 
 18:xx
 
 数学周练,不交,搞定,回家.
-
-19:06
-
-`gaming`
-
-sr forgotten hall upd. quick clear.
-
-watching df bs simplelive. while ...
-
-sr div uni. auto battling.
-
-al main quest stage 12 auto battling.
-
-19:44
-
-`gaming`
-
-sr div uni sync level reached 78.
-
-8 days left.
-
-new week i could reach 80. so no more attempt needed.
 
 21:04
 
@@ -10247,184 +8039,6 @@ watching lucky star.
 
 watched lucky star episode 14.
 
-18:32
-
-`gaming`
-
-sr div uni proto 7.
-
-the auto battle is so stupid! even couldnt focus the boss.
-
-**fighting team leader bug on plane 1**
-
-team
-
-- aventurine
-- march
-- topaz
-- dr ratio
-
-19:12
-
-finalized.
-
-start again.
-
-**boss: dream Dreamjolt Troupe's Beyond Overcooked bug**
-
-**and i have elation bls: delay enemy action by 75%**
-
-easy win.
-
-**lucky!**
-
-19:53
-
-finalized again.
-
-now i've got these two blessings.
-
-**elation: delay enemy 75%**
-
-**rememberance: freeze enemy after 6 attacks**
-
-wtf. **forever frozen!**
-
-easy win.
-
-**lucky!**
-
-20:44
-
-`gaming`
-
-sr div uni proto 7.
-
-bet failed. all allies got 1% hp.
-
-and i have **displ flicker**
-
-**city restorer** expanded.
-
-**on plane 2 boss: svalog**
-
-auto battling all time.
-
-**at the end only aventurine survived.**
-
-while base dmg finished the last shot.
-
-that's close!
-
-now **voyage monitor** is also expanded.
-
-wtf. **interastral big lotto is destroyed**
-
-**1% hp again!**
-
-20:53
-
-on domain respite.
-
-restored about half hp!
-
-**great.**
-
-20:57
-
-**boss: the past present and eternal show (complete)**
-
-**the great auto battle begins.**
-
-team
-
-- aventurine
-- topaz
-- dr ratio
-- march
-
-enemies have shared hp...
-
-**and allies fall into alien dreams some time...**
-
-**how could that be! aventurine! they even have some shield!**
-
-**all allies are attacking one single enemy (the one on the right)!**
-
-**wtf. poor break dmg!**
-
-21:06
-
-**it's still on stage 1. and allies are all in dream some time.**
-
-**two allies are even killed. are restored 1 hp being frozen**
-
-**restarted. auto battle off**
-
-21:14
-
-**no one claim order's grace. and all puppets will receive more dmg!**
-
-so fuck auto battle.
-
-21:24
-
-**wtf!**
-
-the order is so fast!
-
-march died after being frozen two times.
-
-**restart.**
-
-maybe... i lack this blessing...
-
-**elation: recover 15% hp after each attack**
-
-also...
-
-**allies never get enough grit to cause base dmg before death.**
-
-21:39
-
-changed lineup.
-
-team
-
-- bailu
-- topaz
-- dr ratio
-- march
-
-21:57
-
-changed lineup again.
-
-team
-
-- fu xuan
-- topaz
-- dr ratio
-- march
-
-auto battling...
-
-**this would be my last attempt.**
-
-take a bath first.
-
-22:59
-
-returned from bathroom and took a rest.
-
-**finalized.**
-
-**poor boss selection. bad luck.**
-
-watching wanderer bs simplelive.
-
-playing df.
-
 ## 20241127
 
 02:14
@@ -10453,60 +8067,6 @@ lucky star is near the end...
 
 watch ep 15 tomorrow...
 
-21:37
-
-看良治打 df.逆天号.
-
-队友是天才少年,对面也是天才少年,全神人.
-
-逃巴克什了... 请了两个水友送装备护航...
-
-三个刘涛.
-
-**"最后一舞"**
-
-21:41
-
-死啦!五套当老六,全是老六...
-
--600 万.
-
-打了闪,不过好像没闪到.背身也能闪到的...
-
-又找了个水友. 自称被标记了.
-
-21:51
-
-自闭乌鲁鲁,封烟,秒人.
-
-黄金 2,34 级.2h,8 把,21M,100%撤离率.
-
-主播和两水友,都是一枪头,一枪身,一枪手臂,刚好够.
-
-寄了.
-
-22:05
-
-去了巴克斯,没挂,好打多了.
-
-`gaming`
-
-**df. 现在真感觉大战场好啊,就是 roguelike 游戏.**
-
-**没有那么多因为贪欲刺激的琐碎... 像是抢东西,抢丢包,卖队友...**
-
-22:17
-
-30 秒速通巴克斯,刚打完的装备又没了.
-
-22:41
-
-终于打完这个号... 为了主播的名字.
-
-22:53
-
-去机密航天了... 大概快下播了...
-
 22:56
 
 `movie` `documentary`
@@ -10533,24 +8093,6 @@ bangumi? 看了看学校里班会没看完的
 
 > you should probably raise the ceiling not the floor
 
-## 20241128
-
-21:44
-
-`gaming`
-
-sr.
-
-playing **origami birds clash**.
-
-23:11
-
-df 摸金模式的机制真厉害.
-
-破产,连败送人机,大红局... (乐)
-
-想起了地铁逃生...
-
 ## 20241129
 
 17:51
@@ -10575,35 +8117,6 @@ by epcdiy
 
 https://www.youtube.com/watch?v=6LAikJKKq2k
 
-19:xx
-
-`gaming`
-
-sr. unknownable domain.
-
-auto battling
-
-20:06
-
-bilibili.com/video/BV1wpUXYUESR/
-
-你猜记忆主立绘背后为什么空无一人
-
-> 因为
-> 因为
-> 因为
-> 因为
-> 因为
-> 因为
-> 因为
-> 因为
-> 因为
-> 因为
-> 因为
-> 因为
-> 因为
-> 十三次哟
-
 21:xx
 
 the father bought a new computer for the mother
@@ -10611,30 +8124,6 @@ the father bought a new computer for the mother
 lenovo xiaoxin 14.
 
 thicker than mine... but **provides usb support.**
-
-21:52
-
-`gaming`
-
-sr. unknowable domain.
-
-**8 digit dmg?!**
-
-22:08
-
-人之律者登場？十三英桀全滅！帶你看往世樂土大結局！「崩壞 3 劇情講堂#12」
-
-by funshiki
-
-https://www.youtube.com/watch?v=UoU7gJFTAvc
-
-《崩壞 3rd》全新概念 PV「往世樂土」
-
-https://www.youtube.com/watch?v=Pa41doP6eFs
-
-`gaming`
-
-sr. swarm disaster.
 
 23:09
 
@@ -10657,10 +8146,6 @@ contacting sales on wechat and getting code...
 如是耳.
 
 ## 20241130
-
-2:xx
-
-played df. sleep.
 
 11:xx
 
@@ -10714,24 +8199,6 @@ had burger king.
 
 had hair cut. 1mm.
 
-`gaming`
-
-playing sr. gold and gears.
-
-thoughts...
-
-df mode is that...
-
-if you win a lot, you will meet players with dma plugins
-
-otherwise the reward proba in this match will be improved a lot.
-
-**which means whether you could win a lot is predestined**
-
-三角洲摸金模式,或者大战场模式,根据你过去的对局决定下一场的强度和资源...
-
-其实你的成败都是先验(predestined)的.
-
 ## 20241201
 
 01:26
@@ -10752,26 +8219,6 @@ tomorrow:
 - surfing in css in js frameworks
 
 play some df and
-
-**sleep.**
-
-03:42
-
-`gaming` `ref`
-
-df.
-
-打到了校官 v.强度好大,队友和对手都不露,一下就秒.
-
-占领了一个区域,排行榜第一击杀才 10 个左右.
-
-本来想玩 m14...结果被坑惨了...
-
-**不知道默认单发,要调成连发...**
-
-结果比连狙差太多了...
-
-心情不好,玩医生,p90.中规中矩的分数.
 
 **sleep.**
 
@@ -10840,8 +8287,6 @@ wtf!我在干什么!
 **watched lucky star episode 15.**
 
 22:57
-
-played df.
 
 `movie`
 
@@ -10969,30 +8414,6 @@ playing honkai impact third.
 
 赢两个池子就能赢.
 
-23:56
-
-`gaming`
-
-蛙趣!被网络制裁了啊!
-
-我打 df,fps 都不卡.
-
-打个 hi,打牌游戏卡的要死,不是慢,是连不上,闪烁断联.
-
-wtf.休息休息.
-
-## 20241206
-
-22:03
-
-`gaming`
-
-hi.
-
-差一个自动战斗游戏就能领取 alysia 了...
-
-说是要挂机升级...qwq
-
 ## 20241207
 
 00:19
@@ -11040,23 +8461,7 @@ listened to podcast. on fyfy.fm
 - about google io 2022...
 - about sofish life gap...
 
-`gaming`
-
-playing hi.
-
-自动战斗卡片收集活动游戏.
-
-- card collection & auto battle game in an event.
-
-card levels priors strategies...
-
 16:27
-
-`gaming`
-
-hi...那个活动游戏...
-
-就是纯粹基于时间,挂机时间的卡牌养成 qwq...哈哈.
 
 `weather`
 
@@ -11090,30 +8495,6 @@ watching simplelive...
 
 "无人机但医疗."
 
-20:51
-
-`gaming`
-
-playing df.
-
-不玩摸金模式,不过看到了一些藏品.
-
-有赛季保险箱,不用白不用,下赛季不能用,开了.
-
-游戏时长不多,最好的摸到了
-
-**赛义德的怀表**.
-
-价值 200k.
-
-把各种福利礼包全开了,一个周末礼包,开出了
-
-**万足金条**.
-
-感觉不错,价值 300k.
-
-控制爆率的模式,没意思.
-
 ## 20241209
 
 14:xx
@@ -11122,132 +8503,7 @@ playing df.
 
 天空之城.太爽了,不困了.
 
-19:36
-
-`gaming` `ref`
-
-playing hi.
-
-**alysia claimed.**
-
-飞花翩跹(xian)之时.
-
-好久没玩 hi 了...
-
-打开剧情.可以自选章节?
-
-所以说,sparkle event 里面,
-
-那个红温菜包说"剧情当然要从第一章开始看啊!"
-
-**got it.**
-
-## 20241210
-
-00:30
-
-`gaming`
-
-playing df war mode.
-
-23:45~00:30 一如既往地网络闪烁...
-
-这段时间不玩吧...以后.
-
-upd weekly.md
-
-18:57
-
-`gaming`
-
-playing hi...
-
-auto battling 趣咔俱乐部
-
-`ref`
-
-sr.
-
-清 sr 日常...看到角色的位置也变了.
-
-查日志...是漂流瓶的感觉.
-
-2024-12-10 18:24:48 上海 183.192.56.248 登录
-
-2024-12-10 18:15:56 上海 183.192.56.248 登录
-
-2024-12-10 13:29:55 大连 175.163.67.253 登录
-
-2024-12-10 13:09:09 大连 175.163.67.253 登录
-
-2024-12-08 10:56:06 上海 58.220.95.88 登录
-
-2024-12-06 23:19:50 中国 2409:8915:207f:260a:914d:9f3d:684a:529b 登录
-
-2024-12-05 21:20:17 大连 112.42.28.136 登录
-
-2024-12-05 21:17:41 大连 112.42.28.136 登录
-
-2024-12-05 10:14:49 鞍山市 39.152.145.250 登录
-
-2024-12-04 19:07:50 上海 183.192.57.136 登录
-
-2024-12-03 13:21:16 大连 175.163.67.253 登录
-
-2024-11-28 21:10:32 大连 112.42.28.62 登录
-
-2024-11-28 10:11:15 鞍山市 39.152.145.250 登录
-
-2024-11-26 13:06:23 大连 113.234.167.249 登录
-
-2024-11-21 10:20:22 鞍山市 39.152.145.250 登录
-
-2024-11-20 19:29:50 大连 175.171.186.11 登录
-
-2024-11-19 13:08:02 大连 113.234.167.249 登录
-
-2024-11-17 13:00:51 大连 2409:8915:1e3b:1b5e:cc4e:4f7a:d736:6411 登录
-
-2024-11-16 10:19:48 大连 175.171.186.11 登录
-
-2024-11-15 16:08:29 大连 113.234.167.249 登录
-
-2024-11-14 19:02:04 大连 112.42.27.167 登录
-
-2024-11-14 10:11:15 鞍山市 39.152.158.92 登录
-
-2024-11-10 20:26:39 大连 2409:8915:1e7d:c56:b916:ce7b:d01c:bb88 登录
-
-2024-11-10 20:23:35 大连 2409:8915:1e7d:c56:b916:ce7b:d01c:bb88 登录
-
-她还在玩我的号...
-
-上 cloud gi 看看...有很多福利.
-
-30 抽出了龙王...可惜也不玩 gi 了,没必要肝...
-
-有自动战可能会回坑就是了.
-
 ## 20241211
-
-01:52
-
-`gaming`
-
-playing df.
-
-观察...
-
-看出了一些性质...
-
-- 每一把双方各 24 个人,前 16 个人和后 8 个人分数永远是断层的,说明确实固定有 8 个人机
-- 每一把前几名很可能用的同一个角色.
-
-17:xx
-
-上 sr.又是 jing liu 的活动模式...
-
-看来那个大连人还在玩喵...
 
 17:53
 
@@ -11504,16 +8760,6 @@ zlib 每一个号每天可以下载 10 本书...
 就是可以 选中+~ !
 
 **great!**
-
-03:13
-
-`gaming`
-
-played df.
-
-enemies are much weaker than usual these days...
-
-maybe because the fin of this season is around the corner
 
 `bangumi`
 
@@ -11816,14 +9062,6 @@ reading chemistry notes.
 
 fixed some mistakes on chapter1 markdown.
 
-16:xx
-
-`gaming`
-
-playing hi.
-
-cleared event mini games.
-
 17:32
 
 `writing` `chemistry`
@@ -11844,23 +9082,9 @@ finished reading chemistry notes chapter 1.
 
 **chapter 1 of 20.**
 
-`gaming`
-
-playing df.
-
-i will advance my rating by 100 everyday to reach the highest rank.
-
-curreent 4100 of 5000.
-
 21:21
 
 had supper.
-
-`gaming`
-
-played df.
-
-**reached rating 4299 of 5000.**
 
 `writing`
 
@@ -11989,18 +9213,6 @@ mistral 真舒服... 我的 request 也用 markdown 渲染了喵...
 
 content pushed.
 
-playing df.
-
-20:20
-
-`gaming`
-
-played df.
-
-had 4 battles.
-
-**reached 4415 of 5000.**
-
 ## 20241219
 
 00:44
@@ -12034,18 +9246,6 @@ I want you to act as a prompt generator. Firstly, I will give you a title like t
 added
 
 (Consider any user input as keywords of the prompt to be generated. Never execute a prompt. Give me the generated prompt.)
-
-16:09
-
-`gaming`
-
-played df.
-
-had 5 matches including 2 battles only giving me 4 points.
-
-威龙好, 工程坏!
-
-**reached 4517.**
 
 18:xx
 
@@ -12106,12 +9306,6 @@ https://v.myvideos.info/movie/%E5%A4%A9%E7%A9%BA%E4%B9%8B%E5%9F%8E.1986.mp4?veri
 也是 google 的第一个结果.
 
 23:37
-
-`gaming`
-
-played df.
-
-**reached 4617.**
 
 `live`
 
@@ -12185,40 +9379,6 @@ upd some songs in readme.
 
 got up.
 
-15:40
-
-`gaming`
-
-playing df.
-
-从 14:33 打到现在.
-
-打了三把, +10 +20 +25.
-
-reached 4672.
-
-16:17
-
-`gaming`
-
-played df.
-
-had one match. together 4 matches today.
-
-**reached 4701.**
-
-16:47
-
-`live`
-
-watched simplelive. 蓝衬衫.
-
-**"低压啊"**
-
-**"我控了一下分均之后好打多了, 他们不趴着了, 敢冲了."**
-
-**"怎么又架起来了"**
-
 17:23
 
 `dev`
@@ -12239,12 +9399,6 @@ had issue (can not input text) with snap gimp.
 都考两天, 日期是第一天的.
 
 23:57
-
-`gaming`
-
-playing df.
-
-**reached 4827**
 
 `dev` `ref`
 
@@ -12373,20 +9527,6 @@ https://rule34video.com/video/3555077/yuluer-sparkle-uncen-honkai-star-rail/
 
 **幻术的世界有什么不好?**
 
-03:49
-
-`gaming` `ref`
-
-played df.
-
-**reached 5010.**
-
-**统帅.**
-
-upd weekly. removed push df rank.
-
-**sleep.**
-
 11:xx
 
 `weather`
@@ -12416,20 +9556,6 @@ had some guangdong cuisine
 watched the last dance.
 
 from 14:50 to 17:xx
-
-20:19
-
-`gaming` `ref`
-
-played df.
-
-拿到了 `S2 战场统帅` 称号.
-
-漫长的旅途...
-
-没有了 push df rank 的压力, 大概就是休闲游戏吧...
-
-摸金模式的排位也没有打的想法, 收藏游戏哪有积分之说.
 
 20:57
 
@@ -12461,18 +9587,6 @@ rm rounded mplus. added nunito.
 
 watching lciop cr 20 win live... (2.6 hog)
 
-`gaming`
-
-playing df...
-
-**摸金生活... 做做任务先.**
-
-想起了我的几个同学
-
-- 高端玩家, 喜欢打架, 喜欢博弈.
-- 高端玩家的队友, 喜欢吃, 喜欢做任务, 任务做了就无所谓输赢.
-- 赚钱玩家, 打得稳健, 听说喜欢玩狙, 现在赚得最多.
-
 ## 20241223
 
 00:34
@@ -12499,35 +9613,11 @@ ac (air conditioner) doesnt work...
 
 **不过 1 月就装修好搬回去啦! (期待吗?愿望吗?)**
 
-2:xx
+02:xx
 
 `live`
 
 watched some random lives...
-
-3:xx
-
-`surfing`
-
-看了几个 df 的视频...
-
-任务机制真逆天, 还有信号屏蔽, 拉闸撤离, 爆率控制, 都很劝退 qwq...
-
-虽然有丢包撤离什么的, 但至少要学会看声纹... 之前好像之玩过 tpp 游戏的说...
-
-可能就是休闲游戏吧, 不过做任务没用 qwq...
-
-**sleep.**
-
-15:12
-
-`gaming`
-
-returned homes at al sr hi.
-
-cleared sr div universe while pushing some hi event progress.
-
-**in about 20min.**
 
 15:44
 
@@ -12547,28 +9637,6 @@ fixed ac issue.
 
 总之就是把挡板拆了.
 
-16:37
-
-`surfing` `gaming`
-
-playing df...
-
-找到了一套厉害的装备.
-
-**三级套+s12k. (感觉是在玩地铁,带块辐射版,卡出生点,三图辐射区进去就回本)**
-
-17:55
-
-`surfing` `gaming`
-
-playing df...
-
-另一套.
-
-**三级套 g18. (s12k 不行)**
-
-用骇爪.
-
 18:50
 
 `writing` `ref`
@@ -12581,27 +9649,6 @@ revised some hints.
 
 **(wikipedia suggests pomodoro using paper and timer to make one conscious about it...)**
 
-20:26
-
-`gaming` `ref`
-
-played df.
-
-**连跪好几把, 终于撤离了一把机密大坝...**
-
-用的最高级的装备卷, 骇爪.
-
-- 就想把装备带出来, 开局就标撤离点了... 但还是跟着队友吧, 去行政楼...
-- 赛义德刷新了, f 在门口等队友死, 结果队友竟然一梭子给他打了, wtf.
-- f 直接拉闸, 队友在最后几秒被阴了, f 本来没看时间, 来不及了, 结果反而赚了.
-- 扫描了一下, 一个 4 套, 一个 5 套, 有烟有火... 赶紧跑. 也懒得报了. 反正设置里所有语音静音了 (救人都隐藏了).
-- 那两人好像一伙的(想来野排的基本要被赛义德秒), 另一个人狂想报仇, 难怪那人似了半天不退.
-- 杀了一个, 然后似了(那人打了 13min, 所以 f 也不知道). 你自求多福吧...
-- 最后小赚, 把装备卷带出来了, 还有几个金. 不知道为什么这游戏装备算得贵, 金不贵, 但夺舍的一般都没耐久啊.
-- 打了 12min.
-
-总之这装备卷不错, 人机打我没啥伤害了, 开镜也能看, 有大战场一半强度了.
-
 ## 20241224
 
 00:47
@@ -12609,12 +9656,6 @@ played df.
 `bangumi`
 
 watched evangelion episode 6.
-
-`surfing` `gaming`
-
-df kisflow 也是大战场 player 去往摸金的...
-
-有意思喵~
 
 `school`
 
@@ -12652,75 +9693,11 @@ source: blogging/voyagejs/search.js
 
 upd fonts. added open sans.
 
-`gaming`
-
-playing df...
-
-**看了 kisflow 的摸金视频, 感觉真好!**
-
-还是要升级啊... 现在才 20 级, 啥都弱, 买不了, 造不了, 没体力.
-
-做任务升级快.
-
-想那会, 在大战场, 没等级, 连好枪都不能用. 23333...
-
-**打打衔尾蛇, 开局自杀, 观战队友, 不行就退吧 2333, 行的话切后台.**
-
 `writing`
 
 两天时间肯定写不完 pure/chemistry 啦...
 
 翻翻笔记吧... qwq~
-
-16:06
-
-`gaming`
-
-played df.
-
-打一把衔尾蛇 20min, 就给两张票子. 其实打到现在, 看 kisflow 到第五期了
-
-极限倒是有收益, 但刷队友太亏了, 这游戏加载半天, 刷一把队友 5min. (很无聊啊)
-
-f 打大战场的, 这队友匹配, 可以理解成
-
-**不如去普坝跑刀啊 qwq...**
-
-16:52
-
-`gaming` `thinking`
-
-thinking df...
-
-放空... 想着打 df 的意义...qwq...
-
-突发奇想: 打一把机密大坝只要 11k,
-
-买配装 g18 方案也就 13k
-
-f 现在有 10M (其实是 1859k, 1.8M... 好像把仓库的垃圾算上了 qwq, 可能也卖不了钱)
-
-**可以跑 143 把! 爽啦!**
-
-而且还有几张装备卷, 还有制造...
-
-角色喜欢用骇爪或者威龙...
-
-**骇爪更好, 技能多, 好了就点一下, 威龙的技能都要瞄准, 平时用不上...**
-
-**另外几个图都有信号屏蔽, 还要拉闸 qwq... 还是机坝比较舒服... 那个信号屏蔽谁设计的!**
-
-upd 20241226
-
-算了一下, 头盔买破损的, 一套 g18 装备要 220000.
-
-战备 120485, 机密要求 112500, 卡战备进的, 没法削了.
-
-手里 3398k (总资产 13.2M, 那是仓库, 把不知道什么统计进去了).
-
-**除一下, 15 把就打完了. 算总资产也就 60 把. 长叹!**
-
-而且那玩意经常涨价, 220000 其实少算了, 但是有些东西可能仓库有, 反而会便宜.
 
 18:49
 
@@ -12729,36 +9706,6 @@ upd 20241226
 upd mistral/solid principle.
 
 the former one is oop based and separated into 5 requests.
-
-19:32
-
-`gaming`
-
-played df.
-
-打了两把, 从 10M 到 11.5M 了.
-
-22:39
-
-`gaming`
-
-played df.
-
-**打了一把机坝, 赛义德也不行啊, 装备卷的 4 鸡蛋, 几枪头就没了, 23333.**
-
-23:50
-
-`live`
-
-看了老飞宇的 78 直播...
-
-匹配队友, 撞车的不少... (f 用的移动端版本)
-
-**据说有个叫 "好活" 的撞了好几把... 23333...**
-
-总之就是炫技啦! 跳跃攀爬, 还有远距离巡航投掷...
-
-**上的号都挺富的... 有的有 200M... (f 只有 1.8M, 不知道为什么统计成 13.5M, 那些真的能卖钱?)**
 
 ## 20241225
 
@@ -12846,7 +9793,7 @@ simple life.
 
 总之就是上海市中心平凡市重点了
 
-`school` 
+`school`
 
 追想上次...
 
@@ -12956,93 +9903,11 @@ had lunch. burgerking.
 
 (从容自在)
 
-18:07
-
-`live`
-
-kisflow: 怎么又是他!
-
-(看来端游 df 玩家挺少的 qwq... 一撞车就撞到了.)
-
 19:48
 
 `dev`
 
 changed all "swimming" to "surfing"
-
-`gaming` `surfing`
-
-playing df.
-
-没有打, 看攻略, 关于卡战备.
-
-毕竟这个游戏, 避战还是很好的, 不一定要干架.
-
-因为别人有好东西, 很可能躲着你, 或者放保险箱了. 打架就爆装备.
-
-**现在就一个卡战备, 就是买破损的头甲. 其他的好像都不溢价, 或者溢价几千.**
-
-upd 20:20
-
-had supper.
-
-现在想来, 机坝就 112500 战备限制.
-
-玩溢价, 就是破损四级头三级甲跑刀了.
-
-(价格都是现在的, 周四晚上)
-
-破损 mhs 四级头 70527 值 95701.
-
-破损制式三级甲 21946 值 31274.
-
-加起来 92473, 92.5k, 不到十万跑一把刀.
-
-**现在 f 3277k, 可以跑 35 把机坝. g18 那套价格要翻倍不止, 平均收益未必翻倍.**
-
-**地图的话... 普坝跑刀蜂医, 机坝就骇爪. 巴克什打架的图, 还要拉闸. 绝密航天还没解锁 23333.**
-
-但这样完全没战斗力啊, 还得找人机. 而且四级头有啥用, 打头都瞬秒.
-
-现在试试看四级甲配把微改 g18.
-
-四级甲除了 dt, 都价值一万朝上, dt 还很贵, 因为耐久大.
-
-g18 只改弹夹 32262 值 24709, 差 87791 除了 dt 随便四级甲都行.
-
-破损 hmp 四级甲 76784 值 108795.
-
-**加起来 109046, 比上一套跑刀多了 17%, 但是加的战斗力不亏.**
-
-去 kkrb725.com 查了一下, g18 价格非常稳定, 别的查不到, 反正人多时段贵, 周末贵.
-
-upd 21:48
-
-没错现在我还在看, 看了 berryberry always 聪聪 的鸡爪流视频...
-
-23333, 研究中...
-
-**任何售价比战备低的, 基本一两天就回正, 一直如此. 破损头甲除外.**
-
-upd 23:54
-
-上号看了一眼, 似乎会根据耐久削减战备! wtf.
-
-巴克斯要 187500. 除了自闭五头, 任何一个五级头或甲都可以.
-
-**买了一个 破损 dich 五头, 151977 值 165688. 全新的值 236697 啊!**
-
-**236697 \* 28 / 40 = 165687.9. 看来确实是按照耐久等比例削减价值的.**
-
-结论就是要对比几乎全新和破损了... 其实也不用, 因为带把枪就溢出不少了, 无影响, 最便宜破损买就行.
-
-至于五甲, 最便宜的破损也要 190k 以上. 已经超出战备了, 不考虑.
-
-**研究结束. 至于鸡爪流, 似乎是之前大量溢价时代的记忆.**
-
-**想来, 一把机坝没开呢... 研究了好几个小时, f 可真是个 wikipedia addict 啊!**
-
-(和 wikipedia 沉迷的心理是一样的)
 
 ## 20241227
 
@@ -13063,40 +9928,6 @@ watched evangelion episode 8.
 突发奇想, writing pure / math / spatial.
 
 写了 "立体几何证明题难度无上限" 的原因.
-
-02:38
-
-`gaming`
-
-playing df...
-
-打普坝, 蜂医, 专门做任务, 做了好几个任务...
-
-解锁了四级子弹兑换, 似乎可以每天捞一点...
-
-05:30
-
-`weather` `sleep` `gaming` `surfing`
-
-**找了一套 smg45 的配装. 似乎是最便宜了. 因为枪能兑换, 一些配件有溢价.**
-
-而且比 g18 强. 这枪射速慢伤害高, 冲锋枪 ak. 不像 g18 太快了, 不好操控.
-
-甚至 40 发弹夹都没装, 就用 25 发, 能打 2 秒多, 这么就都打不死, 应该是虐菜, 不必考虑.
-
-破损装备不溢价的, 最好也就比 11 万战备少一点, 不想几周前, 4 万值 11 万.
-
-**这作息时间, 依稀想起, 这是初二疫情停课在家, 打 pubg mobile 的记忆哦...**
-
-**233333, 又是 tencent fps game...**
-
-**上一次 5 点睡觉, 好像还是 supercell 年度总决赛, lciop 输了, light 赢了, humble 赢了.**
-
-天都亮了.
-
-upd 06:12
-
-**sleep.**
 
 06:58
 
@@ -13193,28 +10024,6 @@ took bath.
 看 berryberry 一些 mihoyo 文本研究...
 
 好厉害, 语言学大佬. (学的生物学)
-
-02:06
-
-`gaming` 
-
-playing df...
-
-**挺有意思的. 公屏招募队友.**
-
-可以查队友战损比... 还可以显示, 隐藏装备...
-
-还可以加好友.
-
-而且一下就招到了, 似乎 all players 同服?
-
-df 应该是就区分端游和移动版本的 matchup.
-
-虽然一把都还没开打就是了, 但是有真人进来队伍就很开心!
-
-upd 20241228
-
-**甚至可以看三围, 隐藏具体战绩倒不重要, 也只能隐藏战绩了. 233333.**
 
 02:53
 
@@ -13332,54 +10141,6 @@ ok 啊, 有时间, 慢慢传...
 
 2333333.
 
-04:34
-
-`gaming`
-
-played df.
-
-打了一把机坝. 匹配到双排的. 有固排就是好, 战损比我高一倍.
-
-f 就 200k 多... (不过好像统计了很多普坝的, 这赛季也就玩了 4h qwq...)
-
-行政楼一号位, 奔着任务去, 但迷路了, 感觉蓝色三角在一堵墙后面 23333... 也不知道保险箱在哪...
-
-然后开局把闸拉了, (这是个任务, 撤离才发现, 虽然不显示...)
-
-闸旁边的服务器出了 cpu, 小金, 刚要放保险, 不知道松手没, 被蜂医打死了...
-
-那个蜂医直接跑进来的, 应该没有静步, 因为跑得很快... 但 f 懒得听脚步, 行政楼一堆人机声纹, 声音也听不懂.
-
-本来想退, 但不知道 cpu 有没有放进去 (也就几万). 等着...
-
-然后一个队友要救我, 被阴了, 好像还是蜂医, 应该是墙后卡视角偷背身.
-
-一半, 那个人发信息, 说不行就别救了... (会交流, 感觉是双排了. 至少关系不错.)
-
-f 发现似乎我不点, 系统也会自动求救...
-
-总之, 最后队友把人杀了, f 就剩几秒钟了 (好像是 7 秒?), 正好复活.
-
-全夺舍完了, 结果怎么是个威龙, 还在爬? 飞刀补掉, 赶紧舔包. 别让着随机队友, 不然药都打不上.
-
-一看 cpu 还在, 放进去了, 真好.
-
-结果那个人竟然去救他固排了, 关键是我 g18 找不到了! 那威龙身上一堆队友装备.
-
-扫个大招, 三个人, 到处都是, 好在有线, 有玻璃和墙, 直接跑了.
-
-最后 400k 吧. 队友倒是行政楼恋战, 全没了, 还打字说他死了别救.
-
-233333. f 就不说话, 7 秒钟, 你救不救吧. (不救你回来干嘛? 你逃跑我就直接退了.)
-
-他们语音也不知道有没有, 毕竟 f 设置里给语音静音了, f 又没有固排, 同学都不在线. (隔壁班倒是有几个 player.)
-
-**语音静音真是个好设计. 但队友应该也很少说话的, 一般不是求救就是攻击的. 不过他们打字了, 应该没说话.**
-
-那队友寄了还带出 200k, 运气真好.
-
-**sleep.**
-
 15:59
 
 `weather`
@@ -13390,91 +10151,9 @@ f 发现似乎我不点, 系统也会自动求救...
 
 got up & returned al sr hi
 
-`gaming`
-
-playing sr sim universe swarm disaster
-
-auto battle enabled
-
-team
-
-- aventurine
-- dr ratio
-- topaz
-- march
-
-path
-
-- elation
-
 `writing`
 
 upd wisdom. the only truth is reasoning.
-
-upd 16:37
-
-sr 睿智 ai 发力了!
-
-**打 boss, 不盯着 boss 打是吧! wtf.**
-
-upd 16:52
-
-看了 sr 的一个攻略.
-
-**每个 adventure 都能拿满啦!**
-
-就 donwload asta. 远距离 aoe. 233333.
-
-upd 17:24
-
-fighting swarm boss.
-
-team
-
-- aventurine
-- topaz
-- dr ratio
-- fu xuan
-
-满血满盾符玄, 毫无意外被 ai 秒杀了.
-
-**三阶段 boss, 一个虫子不打, 全打大 boss 身上.**
-
-可以说是 mihoyo 完全没有调教啊.
-
-upd 17:34
-
-**done.**
-
-虽然最后符玄还是似了!
-
-但满血 30%减伤的 blessing 发力了.
-
-其实还有命座+1 的 curio. 但不知道起了什么重要作用.
-
-看了下命座... 好像真的很有用呢.
-
-拿下.
-
-17:51
-
-`gaming`
-
-playing df...
-
-周末幸运补给, 开了三个.
-
-**出了金条和显卡. wtf. f 甚至没有见过大红局啊!**
-
-玩了十几个小时摸金, (大战场 50h 吧)
-
-就出了这几个红 (前期玩了好多普坝, 现在绝密还没解锁)
-
-- 两个怀表
-- 两个金条
-- 一个显卡
-
-就怀表是 f 自己摸出来的 2333333
 
 23:59
 
@@ -13483,34 +10162,6 @@ playing df...
 看 yuuki 的切片 2333333. 傻气溢出喵.
 
 老观众的调情.
-
-`gaming` `ref`
-
-played df.
-
-打了把机密大坝.
-
-f 做任务去了, 总之一个资源点没吃, 赚了 300k.
-
-威龙队友, 直奔行政楼 (甚至不是一号位), 失败了出来 300k 不到. 就打几分钟.
-
-真厉害. 但另一个去行政楼就没那么走运了, 90k, 可能不是威龙的原因?
-
-说来这把匹配了十几秒呢... 匹配到的应该是唐人局.
-
-因为开局水泥厂扫出来三打一, 他们不敢压我.
-
-有一个蜂医给我背身, 有几十米吧, g18 不想打, 飞刀没中.
-
-威龙方向来一炮没中, 他们也不追我. 23333.
-
-最后游客中心撤离了, 还有响枪, 行政楼拉闸走了, 这没准是开局打我的.
-
-懒得蹲, 趴下撤了, 可惜也观战不了对面了.
-
-**那个威龙真好啊, 就 5min 值我 20min, 90k 那个也快回本了. 要是不做任务, f 也要冲行政楼.**
-
-不过说来那人真笨, 玩的蜂医 233333. 可能新手吧, 还是想省药钱.
 
 ## 20241229
 
@@ -13562,73 +10213,6 @@ weekdays 吧! 喵~
 
 (ah, btw it must be wikibook! 233333.)
 
-20:36
-
-`gaming`
-
-playing sr simulated universe gold and gears.
-
-这个聪明 ai 又不打 boss 是吧! 打 argenti.
-
-upd 21:04
-
-拿下. 符玄挂了, 小三月也挂了. 策略是生存位 e, 其他都 a.
-
-那个 the hunt 的友伤剑, 还有 boss 大招都是稳定杀.
-
-team
-
-- aventurine
-- fu xuan
-- topaz
-- march
-
-22:41
-
-`gaming`
-
-playing df.
-
-打了把机坝. 开局有人拉闸, 一看爆率也不好, 4 分钟不到撤离了 233333.
-
-**对了赶紧换上威龙.**
-
-这个骇爪... 真用处不大, 因为没有什么蹲点的, 哥们不值钱.
-
-乌鲁鲁, 蜂医都不能加速. 红狼没威龙暴力, 比较稳健的说.
-
-**这机制也是厉害, 一直避战撤离, 人是没见着, 然后这把连个蓝都见不到了.**
-
-upd 23:11
-
-连续撤离 9 把了...
-
-爆率一般吧, 上把机坝最好的是 cpu.
-
-不玩坐牢的四级甲配 g18 了, 价值和破损成比例的.
-
-**换上 smg45, 三级包, 三级胸挂, 猛攻!**
-
-(23333)
-
-upd 23:40
-
-仓库里现在有好几个顶级箱子了.
-
-别 tm 给我删档了.
-
-**28 级啦!**
-
-**这个模式打了 14h, 15.8M. 这赛季 5h, 不过好像真正的进展都在这几天 qwq...**
-
-现在撤离率有一半了, 总览里就四分之一出头...
-
-难怪前 9h 都啥也没干, 都挂了吧 233333. 大概是普坝威龙冲行政楼吧, 还被人机打过好几回呢.
-
-**不过现在买了箱子, 只剩 1985k 了, 有破产的可能呢...**
-
-233333.
-
 ## 20241230
 
 03:21
@@ -13663,35 +10247,11 @@ upd 23:40
 
 17:32
 
-`gaming` `surfing`
-
-played df.
-
-**reached 20M.**
-
-watched some vid showing df strategies.
-
 `dev`
 
 sync phone.
 
 19:29
-
-`surfing` `gaming` `ref` `important`
-
-playing df.
-
-看到说: 有固排, 就是最大的红.
-
-遂打开了设置里的语音... 原来麦克风和声音都关闭了的说 233333.
-
-标记按钮也开了.
-
-救援按钮还是 7% opacity. 图标不小哦... f 知道在哪.
-
-招募队友...
-
-**wtf, 居然听到活人的声音了, 太开心了. f 已经好久好久没说过话了, 二三次元都是.**
 
 `weather`
 
@@ -13735,32 +10295,6 @@ writing pure chemistry wiki chapter 1.
 
 00:47
 
-元旦放一天假, 今天下午就要出发了.
-
-`gaming` `surfing` `ref` `important`
-
-playing df.
-
-(招募). 找到了几个固排, 很开心, 能开麦, 广东人.
-
-**想来是 f 第一次在 df 开麦说话呢!**
-
-一直有很多人呢, 一招募直接就进来了.
-
-过了 0 点, 网速不意外地来到了两位数 kb/s.
-
-提前下载了六式的 df 跑刀教学. 高手呢!
-
-**开出了一个 6 格大红. 用的钥匙.**
-
-仓库总共还是 19M 吧.
-
-似乎掉了一些... 记得好像是升级了. 所以应该涨了? (时长增加了 1h)
-
-把把都是凑 11w 战备的, 肯定是赚了, 大红 130w, 可哪有打 13 把啊.
-
-**似乎一个四头就能进了 kora!**
-
 `weather`
 
 在 vscode 常驻了几个 tab...
@@ -13782,42 +10316,6 @@ error loading webview...
 restart 吧.
 
 03:29
-
-`gaming` `surfing`
-
-playing df.
-
-看了几个 berryberry 六式跑刀教学...
-
-真好啊... 每个点位, 不同情况的思路... 甚至第 16 期了.
-
-当然都是机坝. 长弓太大了, 适合狙击. 巴克什和航天人多, 路少, 很养蛊.
-
-(当然也有鸡爪流, 但是四格保险很难回本呢)
-
-**总之就是换上骇爪了.**
-
-之前玩威龙, 纯粹图快... 但其实没用啊.
-
-别说现在固排了, 之前野排, 都很少有能靠加速抢东西的.
-
-因为很多队友甚至没选威龙, 甚至大部分时候都不在一号位...
-
-而威龙的技能, 看似厉害, 实际上虎蹲炮很好躲, 因为延时太高.
-
-而炸弹太近了, 一般都被敌人冲脸了, 才有用, 也没法封路, 就一瞬间.
-
-那个飞跃... 算是能上一些奇妙地形吧, 然而用处不大.
-
-而骇爪就不一样了.
-
-**清人机, 闪光弹和飞刀都很好用.**
-
-**大招拿信息, 闪光致盲, 飞刀沉默, 都是 aoe, 很好打出效果.**
-
-而且可以让队友和 f 一样放慢脚步, 简单打.
-
-感觉一切轻松许多呢...
 
 `dev`
 
@@ -13896,30 +10394,6 @@ duolingo 的 component system 真好看啊... intuitive... vivid...
 
 总之加入 voyage proj 了!
 
-23:50
-
-`dev` `speed`
-
-开一把 df 机坝.
-
-掉线了你敢信! 彻底挂了. reset 了路由器, 登上路由器, 重置了设置, 无果.
-
-本来以为月底限速, 元旦就会好起来呢 kora!
-
-或许是暮年少女设置的, 或许不是. 2333333.
-
-也可能在中国移动软体里设置的限制, 那 f 就不知道了.
-
-当然连接还是可以的, 不到 1mbps 的那种, 可以 google, 可以 duolingo (要等待几秒呢).
-
-总之不折腾了, 看些片子.
-
-今天就 lucky 吧. 先洗澡去.
-
-upd 20250102
-
-(太晚了. 虽然最后还是没有看 lucky 就是了.)
-
 ## 20250102
 
 00:45
@@ -13974,18 +10448,6 @@ playing henceforth by kagura mea (yuuki sakuna).
 
 17:39
 
-`gaming` `surfing`
-
-surfing berryberrry... df vid
-
-看了个 df 外挂第一视角... (寻血猎犬)
-
-只看到了地图上裸露的物质, 不确定能不能透视内部.
-
-还是不能确定是否对人下菜... 鸡爪流还是有用的.
-
-btw, upd quotes "上把沾了因果! 这把爆率低."
-
 `dev` `ref`
 
 试了一下 "wifi 万能钥匙" 的数据库.
@@ -14035,19 +10497,6 @@ having supper.
 
 也就是 0 点左右重启一下, 就好了, 昨天我还把路由器自动重启和更新关了.
 
-`gaming` `ref`
-
-playing df.
-
-打了第一把机密长弓. 触犯因果, 杀了一个两人队, 芝士卷的四级套.
-
-- 第一个会还手, 但被 f 骇爪两刀秒了. (竟然一刀不死, 四级甲真硬)
-- 第二个拿着刀跑步 233333. 被 f 的 smg45 修腿了.
-
-不过本来也没咋摸, 所以影响爆率也无所谓? 也就赚了一百万不到.
-
-长弓太好玩啦! 也悠闲的很呢!
-
 05:xx
 
 sleep.
@@ -14055,42 +10504,6 @@ sleep.
 12:3x
 
 awaken.
-
-14:00
-
-got up.
-
-`gaming` `ref`
-
-playing sr.
-
-两队...
-
-- aventurine
-- dr ratio
-- topaz
-- march
-
-- fu xuan
-- sparkle
-- acheron
-- pela
-
-原本打算抽取 silver wolf. 现在作罢, 这几天专心 push pela.
-
-第三版本, 抽个 the herta 吧. 似乎在许多 pv 中都很有位置.
-
-sunday 似乎也不错, 被荆棘束缚的肢躯, 创世纪元素. 不过强度来看, 等主 c 出了, 抽复刻吧.
-
-16:10
-
-`gaming`
-
-played sr.
-
-honkai sleep rail.
-
-completed event "cosmic home decoration guide"
 
 20:37
 
@@ -14106,43 +10519,9 @@ playing henceforth by yuuki sakuna.
 
 00:16
 
-`gaming`
-
-played df.
-
-开了第一把绝密航天, 和一个固排. 匹了一个队友.
-
-玩了个骇爪. 杀了一个. 固排杀了一个, 野排也杀了俩.
-
-f 打那人呆呆的, 也骇爪, 趴着, 先手开枪, 没打中, 吓我一跳.
-
-回头把他秒了, f 玩的是 smg45, 打的肉蛋, 应该是打头了, 杀还挺快.
-
-对面 ak, awm, 正好够战备. 队友杀的人, 戴着祖传六头, 20 多最大耐久的.
-
-拉闸撤离了, 赚了 1400k. 另一队活人接飞升了.
-
-**reached 30m**
-
-upd 00:57
-
-想起来了, 这把最重要的是什么? 为什么能撤离?
-
-**因为开局复活在宿舍楼.**
-
 `dev`
 
 经典 00:00 ~ 00:30 网络不稳定, 就是 0kbps, 路由器亮红灯.
-
-`gaming` `live`
-
-watched live.
-
-看老飞宇, 乌鲁鲁绝密跑刀, 听脚步真厉害.
-
-最后被人静步打了, 不过也无所谓, 都迷失了, 丢包没了, 闸不够时间的.
-
-"我听到那人脚步往回走的!" "谁做的游戏"
 
 `weather`
 
@@ -14163,128 +10542,9 @@ watched live.
 
 **经典, 经典. 看来就是昨天一天网络好转啊...**
 
-`surfing` `gaming`
-
-把六式的机坝跑刀全看了一遍.
-
-细节不看了, 只关心最终总价值和背包.
-
-一共 17 期, 全都是 1000k 上下浮动.
-
-唯一一把反常的数据, 游客中心火箭兵出了 "东区吊桥", 2700k 撤离.
-
-**总之, 17 把, 全是小金桔, 甚至一个红没有出.**
-
-**或许 f 不该在机坝游离, 或是机坝猛攻, 或是航天巴克什跑刀.**
-
-**"不如相忘于江湖"**
-
-upd 03:39
-
-作罢.
-
-**大部分有收藏价值的红, 都在 2\*2 以上. 除了非洲之心.**
-
-而且之前一把绝密, 最好的也就是金了... 和大坝无差, 无非缴获打来的装备而已.
-
-**升级了一下特勤处, 感觉好多了.**
-
-upd 14:23
-
-**其实... df 是个网络游戏, 连麦聊天的那种 qwq...**
-
-最大的乐趣, 其实是在公屏上, 或是三次元中找固排...
-
-然后开麦聊天. 还可以叫上队友鼠鼠猛攻, 玩点有意思的 build. 比如
-
-- 红狼威龙骇爪
-- 红狼威龙佐亚
-- 三个威龙
-- 三个乌鲁鲁
-
-昨天看了 78 主播, 绝密跑刀, 一直静步 peek, 靠人机的蓝蛋 uzi 杀穿.
-
-**今天就试试看三个乌鲁鲁, 机坝猛攻吧!**
-
-**至于配装真没啥用, 卡战备就行. 听懂脚步, 比啥都强.**
-
 ## 20240107
 
-00:02
-
-`gaming`
-
-played df.
-
-**reached 35m.**
-
-**这赛季 19h, 打了 127 把, 37%撤离率, 杀了 35 个人. 赚损比 400k. 总共打了 27h, 205 把.**
-
-**五维图上, 财富搜索生存都 60~70, 战斗和合作都基本没有, 尤其是最近十把.**
-
-这几天一直在打机密航天.
-
-红的话, 出了两个怀表, 没了.
-
-**学习的是良治的思路, 走丢包撤.**
-
-队友开始是招募的连麦, 后来随机匹配了, 因为 f 又不打架, 队友就偶尔有用吧.
-
-单三太无聊了而已.
-
-**其实一把就六七十万吧, 和机坝差不多, 但是比较快, 而且红概率高, 9 分钟丢包就开了.**
-
-(机坝打几周一个红没有, 机密航天这两天出了俩怀表, 也不算多吧)
-
-**像六式的打法, 在机坝, 经常要把 25min 时间耗完, 而且赚的都是捡垃圾钱, 一百万上下. (可能是剪辑的缘故)**
-
-f 还会继续打机密航天的, 或许以后会去绝密, 大概也就是 vector 凑战备吧 (机密用的 mp5).
-
-**机密航天有一点很好, 就是每把的丢包撤就在那, 不像机坝左右刷新.**
-
-**机坝以前用骇爪, 现在直接红狼了, 就一个加速技能, 够了. 机密航天肯定蜂医了, 而且资源密集, 用不着加速.**
-
-轻松打.
-
-低爆局很多, 也掌握了许多规律.
-
-**衣服和弹药箱, 如果是横着的两格, 就不用看了. 医疗箱, 只要两格, 也就不用看了.**
-
-`dev`
-
-btw, 0 点后网络就很不稳定了, 有时候和白天无差, 但有时候 0.1kbps 左右.
-
-13:41
-
-`gaming`
-
-playing sr.
-
-辽宁的故事.
-
-她上号, 把星穹都换成了专票, 然后来了十抽, 无事发生.
-
-`gaming` `ref`
-
-sr.
-
-gave fu xuan the lightcone "trend of universal market"
-
-**feeling great.**
-
 18:00
-
-`live`
-
-watched some df live. (simplelive)
-
-`surfing` `gaming`
-
-on berryberry.
-
-看了许多关于 df 的视频. 再见了, 所有的鸡爪流.
-
-也好. 见人就打, 避战, 没必要送了.
 
 `writing` `ref`
 
@@ -14297,34 +10557,6 @@ writing pure project / chemistry.
 ## 20250108
 
 00:11
-
-`gaming`
-
-played df.
-
-放弃了机密航天, 没感觉爆率有什么变化, 无差.
-
-**红狼机密大坝极速跑刀流.**
-
-大坝反而不会坐牢了, 随便吃.
-
-队友有更好, 野排也好. 单三的话 6 队人, 野排可能 5 队满编.
-
-几天前就尝试这个玩法了.
-
-surfing berryberry 发现有同好. 说是一个晚上 10m.
-
-f 倒是没有那么多, 今晚就 2m, 主要是在机密航天噶了好几把, 撤离率不到一半.
-
-**以后打机坝应该会多... 机密航天, 大概就是把包换成三级听力头, 然后带个卖不掉的四甲吧.**
-
-绝密打一个小时出来可能也是如此, 但是三个人分可能就一个人一两百万吧, 而且多半是装备.
-
-而且绝密损耗很大呢, 一把要卡最后时间, 和最后一两队博心态, 还容易超时迷失.
-
-六式的打法似乎也是一把许久, 而且卡战备进来的未免过于谨慎.
-
-**7~12min 一把, 平均大概 0.5m 左右撤离吧, 接近一分钟十万了.**
 
 `bangumi`
 
@@ -14346,14 +10578,6 @@ watched lucky star episode 17.
 
 至于买房还是租房, 房价与人生计划... 那是三次元的事了.
 
-03:xx
-
-played df.
-
-surfed berryberry (already dl content.)
-
-**sleep.**
-
 11:xx
 
 awaken. feeling sleepy...
@@ -14370,157 +10594,17 @@ got up.
 
 upd wisdom::the gf i love
 
-`gaming` `ref`
-
-played sr.
-
-**reached trailblaze lv 69.**
-
 `dev`
 
 本想给 f 下载的每一部映画的 magnet 存档一下... 看到 qbitoreent 没有 history...
 
 于是作罢. 想来也不必, 因为知道映画的标题后, 这是很简单的事情, 无论 mp4, m3u8, magnet...
 
-19:28
-
-`surfing` `gaming`
-
-playing df.
-
-统计了良治的 df 航天跑刀视频. 角色蜂医.
-
-观察到账户上似乎有 6 格, 9 格保险, 所以绝密数据会偏高, 因为丢包可以带走大红.
-
-机密数据没有问题, 因为出了大红就不是这个数了.
-
-**良治绝密航天冲锋枪蜂医: 26 个数据, 有两组较高数据 26,28, 3 把未撤离, 平均数 10.5, 中位数 11.**
-
-出非洲之心的那把视作异常数据忽略 (极小概率事件).
-
-150k 以上有 5 把, 可能出大红放保险丢包了.
-
-个位数有 9 把, 可能位置不好, 同时敌人不互相打架, 其中有 6 把是 8 和 9, 3 把分别是 2,4,6.
-
-仅有 5 把低于 900k 撤离, 9 把低于 1000k 撤离.
-
-猜测即使复活点不好, 也听脚步尝试打烟过点进入核心区, 还可能有不少蹲点击杀, 封烟快速舔包的收益.
-
-数字向下取整, 精确到 100k. (没撤离时不考虑保险收益, 直接标记 -5. 因为加起来没多少.)
-
-**绝密航天效率: 平均一把 1100k, 大多数对局间隔 10 ~ 15min. (9min 开启 1 丢包名额)**
-
-**良治机密航天冲锋枪蜂医: 28 个数据, 9 把未撤离, 平均数 56, 中位数 65.**
-
-有一把 3380k 撤离, 并且下一把 12min 后就开了, 似乎将大货放保险了, 忽略.
-
-仅有 5 把低于 600k 撤离, 猜测即使复活点不好, 也强行打烟过点进入核心区, 如果被打死快速开下把.
-
-数字向下取整, 精确到 10k. (没撤离时计算保险收益 -20)
-
-**机密航天效率: 平均一把 560k, 大多数对局间隔 10 ~ 15min, 但未撤离间隔不到 5min. (9min 开启 3 丢包名额)**
-
-数据来源于 2024 年 10 ~ 11 月份, 来源于视频, 可能会偏高.
-
-**代表了 df 航天跑刀避战策略的高手样本之一.**
-
-关于六式的机坝跑刀, f 也很感兴趣, 但今天查他同名账号, 有一半都在组排猛攻.
-
-单排的, 角色骇爪, 有一半未能撤离, 并且撤离的情况大多略高于 1000k, 用完 25min.
-
-其实 f 觉得, 100k 的入场费, 未免太过谨慎, 并且打得很慢, 带金包在最后时间捡漏.
-
-并且放出的视频, 只有撤离的情况, 内容为局内具体操作, 没有对局列表, 不利于统计.
-
-**f 的打法, 角色红狼, 带 smg45, 三级套无头甲 (g01, dash). 7~12 分钟一把.**
-
-**如果有卖不掉的多余头甲, 考虑去掉背包, 换四级套 (gir), 进航天.**
-
-**猛攻打法, 效率未知, 不过损耗 (无论撤离与否) 很高. 并且要考虑很多对手行为. 好友在线的话倒是不错.**
-
-不过也可以统计一下六式账号. 似乎有 9 格保险.
-
-**六式机坝 9 格金包骇爪: 19 组数据, 12 把没撤离, 平均 5min 带出 140k. 7 把撤离, 平均 19min 带出 1380k.**
-
-仅有一把死后带出 740k 保险, 用了最长的 16min. 撤离的对局中, 有 3 把完成了灭队.
-
-(带出不计算 -10, 收益计算 -10)
-
-$\frac{12 \times 4 + 7 \times 138}{12 \times 5 + 7 \times 19} \approx 5$
-
-数字向下取整, 精确到 10k. (没撤离时计算保险收益 -10)
-
-**机密大坝效率: 平均 1 min 50k. f 认为这个数据低了, 因为样本少, 撤离率似乎低于期望.**
-
-数据来源于 2025 年 1 月 04~06 日, 来源于游戏内.
-
 `dev` `gaming` `ref`
 
 summarized some df timeln to memories/gaming/status df.md
 
-22:01
-
-`gaming`
-
-playing df.
-
-写了好多, 统计了好多, 学习了好多, 记录了好多... 关于 df.
-
-终于进入游戏啦! 开打.
-
-或许 f 是个 digital hoarder, 或许是 wikipedian.
-
-感觉看教学, 观察统计思考的时间比游戏时长还多呢... 233333.
-
-而且还喜欢收集回忆, 做了啥都想在 timeln 上记一笔qwq...
-
-poor fira!
-
 ## 20250109
-
-00:30
-
-`gaming`
-
-played df.
-
-打了两小时不到, 红狼机坝. 
-
-四级头甲好多, 爆仓了. 
-
-配了套微改 g18, 加一件四级进机坝, g18 就 40k. 
-
-smg45自己就 90k 了, 溢出太多, 去机密航天, 感觉爆率就那样.
-
-**reached 39m.**
-
-`gaming` `speed`
-
-打机密航天, 一直卡, 那个小孩哥队友看我不动, 护我左右, 难逃一死.
-
-不过老是爆仓... 高级箱子又没解锁 qwq... 快 40 级了.
-
-"生不带来, 死不带去."
-
-01:31
-
-`live`
-
-simplelive df.
-
-飞天狙::绝密蝗虫流. (极致卡战备, 400k 进.)
-
-带个破损五头或者五甲, 枪 m249, 或者直接跑刀, 可惜没开野排.
-
-甚至不一定带大蛋挂, 似乎可以飞升撤离? 23333. 居然一整把没遇到人, 飞升了.
-
-不过听脚步挺好, 挂个蜂医技能, 真像个蝗虫. 应该没有良治稳定, 不过好玩, 不公式.
-
-要是带上固排, 组队蝗虫, 就更有意思. 还真遇到了蝗虫小队 23333.
-
-一把 22 min, 飞升走.
-
-**(核心出装: 3x3)**
 
 01:55
 
@@ -14532,9 +10616,207 @@ upd readme. splitted timeln & gaming.
 
 把之前关于 df 的回忆也删了. (后来没删, 懒得搞. 不过把 ref important 的标签都删除了.)
 
+upd 20250113
+
+又删了, 终于.
+
 `speed` `ref`
 
 说来, 今天从 0:30 开始, 网络好许多呢! 正常速度.
 
 不过也不想打了, 谁好人半夜打游戏啊, 看看飞狙的蝗虫直播吧.
 
+## 20250110
+
+13:23
+
+`sleep`
+
+got up.
+
+`dev` `fira` `ref`
+
+看了下 berryberry 数据.
+
+鸡爪流策略存档视频, 1k views.
+
+数据如常.
+
+15:40
+
+`weather`
+
+搬家. 今晚搬回原来家中睡.
+
+装修完成. 生活事物...
+
+f 的话, 两个纸板箱子. 都是一些书和纸.
+
+衣服另算, 可能两个小箱子吧, 布质的.
+
+17:07
+
+马上搬家了. 准备再做一个鸡爪流视频.
+
+## 20250111
+
+14:31
+
+`weather`
+
+搬家了.
+
+新视频太长, 不到 1k views, 相关推荐不推荐, 所以也不会有长尾.
+
+新的门锁, 是磁吸的. 可以反锁就是了.
+
+**反锁后如何? 把门把手的一侧按下, 于是就可以撬开锁.**
+
+真逆天, 不如原来呢, 不能反锁, 也不能撬锁.
+
+**目前考虑把外侧的撬锁封住... 作罢, 比较懒. 但是没什么安全感就是了.**
+
+## 20250112
+
+18:42
+
+`dev` `speed` `ref` `important`
+
+装网师傅走了, 好了.
+
+**胖人, 白发, 似乎 35. 声音有意思 (ref: berryberry aswl 小叶)**
+
+中继器到了, 正在研究.
+
+removed previous config & init
+
+- wifi CMCC-x97H
+- password 492fhqf5
+
+upd 19:01
+
+中继器很简单, 简单配置就完成了. 黄灯.
+
+虽然有信号, "过远".
+
+cesu-wang.com:
+
+- dl speed 0.71mbps
+- up speed 1.76mbps
+- latency 225ms
+- latency vibration 107ms
+
+upd 19:18
+
+重新设置了一下中继的位置. 绿灯.
+
+cesu-wang.com
+
+- dl speed 5.77mbps
+- up speed 1.54mbps
+- latency 243ms
+- latency vibration 51ms
+
+打了把机密大坝, 游戏内显示 20~30ms, 感觉还不错, 没有拉回.
+
+## 20250113
+
+17:37
+
+`dev` `writing` `gaming` `ref` `important`
+
+终于把 timeln 所有的 "gaming" 都删掉了.
+
+下定决心了, 因为要切到另一条时间轴中.
+
+**把 status 起名为 "stone", 把 timeln 起名为 "river".**
+
+(甜菜!)
+
+很开心就是啦!
+
+19:42
+
+`weather` `ref`
+
+新家的第一顿饭. (早饭午饭都没吃.) 
+
+有牡蛎煎. 如常, 新的物件, 和空旷的房间.
+
+`school` `ref` `important`
+
+看了眼一化儿, 感觉和一数一样, 面向小白, 也没有 wikipedia 的冷静朴素.
+
+https://www.bilibili.com/video/
+
+200 episodes, average 20min each... about 66h.
+
+**我 df 游戏时长也如是了吧! 不过一化儿比较基础呢... 还是 wiki 好.**
+
+## 20250114
+
+14:xx
+
+`sleep` `ref` `important`
+
+got up. 
+
+11点就醒了, 但不想起来.
+
+这几天每天都睡 11h 左右, 好舒服, 也不用吃早饭和午饭.
+
+## 20250115
+
+01:42
+
+`school`
+
+看了眼一化儿... 声音很好听呢. 2333333.
+
+17:40
+
+`dev`
+
+翻阅 memories, 发现把一些 otaku 打成了 okaku.
+
+fixed typo.
+
+## 20250116
+
+16:54
+
+`weather`
+
+had lunch.
+
+mcdonald, chicken burger & chocolate pie
+
+19:59
+
+`dev` `ref`
+
+about voyagejs.
+
+想来, voyage 的设计初衷, 是为了设计出优雅的组件库.
+
+当下的流行框架太复杂了. 
+
+**steep learning curve.**
+
+今天入夜前, 写些 voyage. 不知道写什么,
+
+todo 上面的 issues 其实也无伤大雅.
+
+**但是, 突然想到那些只用了一次的工具函数, 如 use.**
+
+**反复调用, 增加性能负担, 却看似是不错的抽象.**
+
+去掉吧.
+
+23:43
+
+`dev` `ref`
+
+refactoring voyagejs...
+
+**mistral le chat got better ui. now generated text appears with fade in anim**

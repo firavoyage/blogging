@@ -1,46 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="utf-8">
-    <title>JSDoc: Source: voyage.js</title>
-
-    <script src="scripts/prettify/prettify.js"> </script>
-    <script src="scripts/prettify/lang-css.js"> </script>
-    <!--[if lt IE 9]>
-      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-    <link type="text/css" rel="stylesheet" href="styles/prettify-tomorrow.css">
-    <link type="text/css" rel="stylesheet" href="styles/jsdoc-default.css">
-</head>
-
-<body>
-
-<div id="main">
-
-    <h1 class="page-title">Source: voyage.js</h1>
-
-    
-
-
-
-    
-    <section>
-        <article>
-            <pre class="prettyprint source linenums"><code>/**
+/**
  * @file
- * the script of voyage framework
- *
- * the current version released at
- *
- * has been being written since 20250116 (utc+8)
- * 
- * @author firavoyage
- * @version 0.29
- * @since 20240809 when voyagejs 0.1 was found
- * @see changelog.md
+ * the js library of voyage web framework
  */
 /**
- * all methods and data
+ * all data and methods
  * @namespace voyage
  */
 let voyage = {
@@ -98,8 +61,8 @@ let voyage = {
     has(obj, key) {
       const { check } = voyage.lib;
 
-      if (check(obj, Array) &amp;&amp; check(key, "number")) {
-        return key &lt; obj.length;
+      if (check(obj, Array) && check(key, "number")) {
+        return key < obj.length;
       } else if (check(obj, "object")) {
         return obj.hasOwnProperty(key);
       } else {
@@ -118,37 +81,29 @@ let voyage = {
       return !has(obj, key);
     },
     /**
-     * essential fn for functional programming.
-     *
-     * (the story of this fn:)
-     * 
-     * at first it's named "include(constructor)" which is a proxy
-     * 
-     * very slow.
-     * 
-     * now it even doesnt need to know what the constructor is.
-     * 
-     * sometimes even faster than direct call
-     * 
-     * maybe it could receive an array of method in the future
-     * 
-     * but now it works well and i dont need that feature
-     *
-     * @param {string} methodName - the method needed
-     * @returns {Object&lt;function>}
+     * base of functional programming
+     * @param {function} constructor - the constructor
+     * @returns {Proxy}
      * @example
      * const {slice} = Array
      * console.log(slice([1,2,3],0,2))
      * //instead of
      * console.log([1,2,3].slice(0,2))
      */
-    use(methodName) {
-      const { fn } = {
-        fn(obj, ...args) {
-          return obj[methodName](...args);
+    include(constructor) {
+      const handler = {
+        get(obj, prop) {
+          const { fn } = {
+            fn(...params) {
+              return obj.prototype[prop].call(...params);
+            },
+          };
+          return fn;
         },
       };
-      return { [methodName]: fn };
+      const proxy = new Proxy(constructor, handler);
+
+      return proxy;
     },
     /**
      * @typedef {Array} SingleElementArray
@@ -157,7 +112,7 @@ let voyage = {
     /**
      * init an obj with certain path. very customizable.
      * @param {object} obj - the object needs to be init
-     * @param  {Array&lt;object|string|SingleElementArray&lt;string>>} path - path to be init
+     * @param  {Array<object|string|SingleElementArray<string>>} path - path to be init
      * > if the key already exists, it wont init
      * >
      * > if it's an object wiht one key value pair, init {key:value}
@@ -234,11 +189,9 @@ let voyage = {
      * @returns {object} the updated object
      */
     set(value, obj, ...path) {
-      const { lacks, use } = voyage.lib;
-      const { slice } = use("slice");
-
+      const { lacks, include } = voyage.lib;
+      const { slice } = include(Array);
       let current = obj;
-
       for (const key of slice(path, 0, -1)) {
         if (lacks(current, key)) {
           current[key] = {};
@@ -318,7 +271,7 @@ let voyage = {
      * generate iterator inside for of loop
      * @param {number} begin - first number included
      * @param {number} [end] - last number included
-     * @param {number} [step] - if begin&lt;end then default to 1 otherwise default to -1.
+     * @param {number} [step] - if begin<end then default to 1 otherwise default to -1.
      * @returns {Iterator} the iterator
      * @example
      * each(5) //each(0,5,1)
@@ -334,7 +287,7 @@ let voyage = {
           let index = begin;
           const iterator = {
             next() {
-              if ((index - end) * step &lt;= 0) {
+              if ((index - end) * step <= 0) {
                 const value = index;
                 index += step;
                 return { value, done: false };
@@ -354,7 +307,7 @@ let voyage = {
         begin = 0;
       }
       if (!check(step)) {
-        if (begin &lt;= end) {
+        if (begin <= end) {
           step = 1;
         } else {
           step = -1;
@@ -405,6 +358,45 @@ let voyage = {
       return matches;
     },
     /**
+     * get a new function with some params filled in the old one. keep the name unchanged.
+     * @param {function} [fn] - the function to be used
+     * @param  {...any} [params]
+     * @returns {function|string} the function with some params filled
+     * @example
+     * use() //symbol("placeholder")
+     * use(fn,1,2) //function(){fn(1,2)}
+     * use(fn,use(),1) //function(...p){fn(p[0],1)}
+     * use(fn,"foo",use(),"bar",use()) //function(...p){fn("foo",p[0],"bar",p[1])}
+     * @memberof voyage.lib
+     */
+    use(fn, ...params) {
+      const { is, symbol, match } = voyage.lib;
+      const placeholder = symbol("placeholder");
+      //sha256("useplaceholder")
+      if (fn) {
+        const { name } = fn;
+        if (is(params.indexOf(placeholder), -1)) {
+          return {
+            [name]() {
+              return fn(...params);
+            },
+          }[name];
+        } else {
+          const flex = match(params, placeholder);
+          return {
+            [name](...flexParam) {
+              for (const index in flex) {
+                params[flex[index]] = flexParam[index];
+              }
+              return fn(...params);
+            },
+          }[name];
+        }
+      } else {
+        return placeholder;
+      }
+    },
+    /**
      * @typedef {object} SyncReactive
      * @prop {*} value - the value with getter and setter
      * @prop {*} v - alias of value
@@ -424,7 +416,7 @@ let voyage = {
      * @memberof voyage.lib
      */
     sync(obj, key, observer) {
-      const { isnt } = voyage.lib;
+      const { isnt, map, use } = voyage.lib;
       const { defineProperty } = Object;
 
       let reactive = {};
@@ -442,10 +434,10 @@ let voyage = {
       };
 
       const aliases = ["v", "value"];
-
-      for (const alias of aliases) {
-        defineProperty(reactive, alias, handler);
-      }
+      map(aliases, use(defineProperty, reactive, use(), handler));
+      // for (const alias of aliases) {
+      //   defineProperty(reactive, alias, agent);
+      // }
       return reactive;
     },
     /**
@@ -501,7 +493,7 @@ let voyage = {
    */
   /**
    * private data of components
-   * @type {ComponentArray&lt;Component>}
+   * @type {ComponentArray<Component>}
    * @memberof voyage
    */
   components: {},
@@ -512,7 +504,7 @@ let voyage = {
    */
   /**
    * private data of nodes selected and their componentids
-   * @type {ComponentArray&lt;Selection>}
+   * @type {ComponentArray<Selection>}
    * @memberof voyage
    */
   selections: {},
@@ -531,12 +523,12 @@ let voyage = {
    * @prop {function[]} [stateid:number] - when state changes call updaters
    */
   /**
-   * @type {ComponentArray&lt;Updaters>}
+   * @type {ComponentArray<Updaters>}
    * @memberof voyage
    */
   updaters: {},
   /**
-   *
+   * 
    */
   macros: {
     model(node, state) {
@@ -705,10 +697,11 @@ let voyage = {
     return node;
   },
   create(...options) {
-    const { is, isnt, check, has, lacks, init, each, count, use } = voyage.lib;
+    const { is, isnt, check, has, lacks, init, each, use, count, include } =
+      voyage.lib;
     const { bind, call } = voyage;
     const { assign: give } = Object;
-    const { slice } = use("slice");
+    const { slice } = include(String);
 
     let elements = [],
       nodes = [];
@@ -776,11 +769,11 @@ let voyage = {
 
         for (const label in labels) {
           const content = labels[label];
-          if (is(label, "class") &amp;&amp; check(content, Array)) {
+          if (is(label, "class") && check(content, Array)) {
             for (const className of content) {
               node.classList.add(className);
             }
-          } else if (is(label, "style") &amp;&amp; check(content, "object")) {
+          } else if (is(label, "style") && check(content, "object")) {
             give(node.style, content);
           } else if (is(label[0], "@")) {
             const event = slice(label, 1);
@@ -794,7 +787,7 @@ let voyage = {
           } else if (is(label, "$")) {
             let { selections } = voyage;
             init(selections, content, { node });
-          } else if (check(content, "object") &amp;&amp; has(content, "stateid")) {
+          } else if (check(content, "object") && has(content, "stateid")) {
             node.setAttribute(label, content.v);
 
             const { updateLabel } = {
@@ -804,7 +797,7 @@ let voyage = {
             };
             const state = content;
             bind(state, updateLabel);
-          } else if (check(content, "object") &amp;&amp; has(content, "calculator")) {
+          } else if (check(content, "object") && has(content, "calculator")) {
             const { calculator, factors } = content;
 
             const { updateLabelCalc } = {
@@ -815,9 +808,7 @@ let voyage = {
 
             updateLabelCalc();
 
-            for (const factor of factors) {
-              bind(factor, calculator);
-            }
+            map(factors, use(bind, use(), calculator));
           } else {
             node.setAttribute(label, content);
           }
@@ -881,19 +872,16 @@ let voyage = {
     }
   },
   getState(componentid, stateid) {
-    const { sync } = voyage.lib;
+    const { sync, use } = voyage.lib;
     const { updateState } = voyage;
     const { assign: give } = Object;
 
     const { states } = voyage;
-
-    const { observer } = {
-      observer(newValue, oldValue) {
-        updateState(componentid, stateid, newValue, oldValue);
-      },
-    };
-
-    const state = sync(states[componentid], stateid, observer);
+    const state = sync(
+      states[componentid],
+      stateid,
+      use(updateState, componentid, stateid, use(), use())
+    );
     give(state, { componentid, stateid });
 
     return state;
@@ -1152,26 +1140,181 @@ voyage.run({
   parent: "body",
 });
 
-</code></pre>
-        </article>
-    </section>
+/**
+@todo
+roadmap
+- complete todos for basic features
+- svelte examples as unit tests
+- chakra ui as a real world design system
+- material design 3 for elegance
+- google reader (google books classic) for retro
+- sr component library for fun
 
+@todo
+single responsibility principle
+- remove excessive fn poly
+- split fn into smaller fn
+learn css in js methods
+- learn from tailwind sass less stylus
+- ask mistral css in js methods to define events and parent style in js
+- which inline style couldnt support
+add styling macro
+- `@style` macro
+- class-like styling `@style:"opacity-low h2"`
+- syntax: `style style-param style-p1-p2-p3`
+- styling with event `@style:"hover:opacity-high"`
+- syntax: `event:styles`
+- styling as parent `@style:"article{a{d e} b c} block{a c e} .xyz{}"`
+- syntax: `selector{styles}`
+- work with class and css in js
+- `@theme` macro
+- `@theme:"myTheme"`
+- apply theme to its children
+define style
+- defineStyle({"del":"opacity-low hover:opacity-medium"},"paragraph")
+- del is a css selector, opacity-low is macro, theme namespace is optional
+- defineMacro({"opacity-low":{"opacity":"0.5"}},"myTheme")
+- key is macro and value is css attr and value
+- defineMacro({"opacity":function opacity(p){...}},"myTheme")
+- opacity-1-2 -> opacity(1,2)
+theme namespace macro
+- div `@theme="myTheme"`
+- rerender all children with `@style` and set them to myTheme
+define more macros
+- learn from jquery react alpine mithril svelte
+- `@if` `@show`
+- macro(node,state) | macro(node,content)
+convert html dialects to voyage element
+- ask mistral pug alternatives
+- translate(words,lang) -> element
+- from html pug etc.
+better readabilty
+- rp all cid sid with state and dc {cid sid} = state
+- rp some else with else if
+- single rep principle: split long fn
+- fn create is too long. split into shorter named fn.
+- dc for fn should be place on top {fn1,fn2}=voyage
+- dc for data should be placed where it's needed
+dom methods abstract
+- steal from jquery
+- learn from common use case
+xhr
+- fetch in fp without promise
+route
+- path and page component
+- custom decision function
 
+@version 0.28 release date
+add Key type
+- object.key
+- all literals except object(and fn)
+- undef and null not included
+changed keep global behavior
+- from states[][]=value to init states ... ... value
+- removed states.global
+- which provides better terser support
+changed variable naming
+- from reactiveState
+- to state
+typedef component array
+- [componentid:number]
+add jsdoc comments
+- at param {} name
+- at return {} name
+- function poly
+- separate public and private function
+- clearer method name
+- less typing
+remove redundant code
+- voyage.component exists twice
+- the latter will take over the former
 
+@version 0.27 20241212
+change typedef naming
+- from various naming methods to
+- AaBbCc
+change seek behavior
+- return SeekResult
+- {result:...}
+- precalculation.result
+add examples to lib init
+- case when init has no effect
+change get state behavior
+- from getReactiveState
+- to getState(cid,sid) and getStates(cid)
+revise fn get
+- from memo.getReactiveState ...
+- to memorize(getStates,cid)
 
-</div>
+@version 0.26 20241210
+separate objects and arrays
+- from info
+- to info components and selections
+- states stay unchanged
+- because states["global"] acts the same as states[cid]
+remove voyage.reactive
+- seem awkward and redundant. remove all ref.
+- tradeoff of readability. yet badly implemented.
+- rewrite this when needed in the future.
+extract logic
+- fn get reactive state
+- instead of redundant use sync
+change reactive to memo
+- voyage.memo
+- some calculation results of pure functions
+- fn memorize
+- get pre calc result or calc
+seek fn
+- on voyage.lib
+- seek(obj,...path)
+- success -> [item]
+- failed -> false
+set fn
+- on voyage.lib
+- void
+- set(value,obj,...path)
+single element array
+- typedef
+rename some words
+- on obj define prop
+- from "agent" to "handler"
+fn include 
+- to implement functional programming
+- on voyage.lib
+- {slice} = include(Array)
+- slice([],...)
+- instead of [].slice(...)
 
-<nav>
-    <h2><a href="index.html">Home</a></h2><h3>Namespaces</h3><ul><li><a href="voyage.html">voyage</a></li><li><a href="voyage.lib.html">lib</a></li></ul><h3><a href="global.html">Global</a></h3>
-</nav>
+@version 0.25
+private fn move to lib
+- private pure functions like has init are moved to voyage.lib
+- voyage includes public functions
 
-<br class="clear">
+@version 0.24
+label updater with multi factors
+- {label:calc(fn,...[factor states])}
+- or calc(fn,[factor states]) -> a reducer like useMemo in react
+- return obj {calculator:fn,factors:[...arr]}
+- updateLabelCalc(node,label,calculator){...}
+- map factors bind(updLabelCalc,factor)
 
-<footer>
-    Documentation generated by <a href="https://github.com/jsdoc/jsdoc">JSDoc 4.0.4</a> on Fri Jan 17 2025 00:23:14 GMT+0800 (China Standard Time)
-</footer>
-
-<script> prettyPrint(); </script>
-<script src="scripts/linenumber.js"> </script>
-</body>
-</html>
+@version 0.23
+better and safer state
+- in fn sync
+- instead of state=obj(initial) state={}
+- state.v for the value
+- state for the state obj carrying cid sid
+label updater
+- in fn createNode
+- {label:state} -> bind single state to label
+- updateLabel(node,label,state){...}
+- bind(updateLabel,state)
+revise fn macros.model
+- add node.value=state.v
+- no need to write {value:state,"@model":state}
+- write {"@model":state} instead
+label updater example
+- examples[counterLabel]
+- label:state will only bind state change to label
+- it wont listen label.content change to update state
+*/

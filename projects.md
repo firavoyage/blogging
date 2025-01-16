@@ -1146,6 +1146,30 @@ for(i 1 10 j 10 100){A} //for(let i=1;i<=10;i++){for(let j=10;i<=100;j++){A}}
   - hs math foresight
   - intuitive cpp
   - web dev
+- categories
+  - debut
+  - df game strategy study
+- 1
+  - title 以上。
+  - time 2024-08-25 16:57:20
+  - category debut
+- 2
+  - title df | "鸡爪流已逝, 补偿局仍在" (fira)
+  - time 2025-01-09 18:27:07
+  - category df game strategy study
+  - views 1809
+  - comments
+    - 以太Bit: 你这个这个编程式笔记还挺有意思
+- 3
+  - title df | 鸡爪流的四个重要结论 (to 牢猫:) | fira
+  - time 2025-01-11 01:12:28
+  - category df game strategy study
+  - views 70
+  - comments
+    - 努力是不可能的: 不是，哥们[笑哭]你是哪里毕业的，我怎么感觉看你视频有种上课的味道
+- status
+  - current time 202501110332
+  - two new subs today.
 - inspired by
   - jiang yanyan jsoi
   - wes bos
