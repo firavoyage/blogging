@@ -10820,3 +10820,82 @@ todo 上面的 issues 其实也无伤大雅.
 refactoring voyagejs...
 
 **mistral le chat got better ui. now generated text appears with fade in anim**
+
+## 20250117
+
+18:08
+
+`dev`
+
+想写组件库... 肯定要用 tailwind 这样的工具了.
+
+至少要给每一个 css 属性一个缩写.
+
+然后样式和组件绑定, 直接写在 component fn 的 class 里面,
+
+(button fn class: opacity-0 bold big red-2333)
+
+而不是早期互联网, 用 class 本身区分不同组件, 定义样式.
+
+(class: .button; .button{opacity:0, text:bold, font:red...})
+
+`dev` `writing`
+
+released voyagejs 0.29
+
+revised a sentence with mistral
+
+"the current version released at 20250117 has been being written since 20250116 (utc+8)"
+
+"The current version, released on January 17, 2025, has been in development since January 16, 2025 (UTC+8).""
+
+## 20250118
+
+18:08
+
+`dev` `speed`
+
+laptop 和 phone 连接同一个 wifi.
+
+然后 phone 没网 2333333.
+
+cesu-wang.com
+
+下载速度
+3.52
+Mbps
+上传速度
+0.96
+Mbps
+延迟
+209.60
+ms
+抖动
+38.77
+ms
+
+`fira` `ref` `important`
+
+df | "鸡爪流已逝, 补偿局仍在" (fira)
+
+这标题起得好, 启发人的好奇心. 至今 4k views, 最高.
+
+同类视频有 "为什么 abc (op mechanic) 毁了 df?", 1min 结束.
+
+20:47
+
+`dev`
+
+mistral le chat offers offline pwa (progressive web app).
+
+wow.
+
+## 20250119
+
+03:22
+
+`dev` `writing` `ref` `important`
+
+retro...
+
+

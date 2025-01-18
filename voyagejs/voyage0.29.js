@@ -1,32 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="utf-8">
-    <title>JSDoc: Source: voyage.js</title>
-
-    <script src="scripts/prettify/prettify.js"> </script>
-    <script src="scripts/prettify/lang-css.js"> </script>
-    <!--[if lt IE 9]>
-      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-    <link type="text/css" rel="stylesheet" href="styles/prettify-tomorrow.css">
-    <link type="text/css" rel="stylesheet" href="styles/jsdoc-default.css">
-</head>
-
-<body>
-
-<div id="main">
-
-    <h1 class="page-title">Source: voyage.js</h1>
-
-    
-
-
-
-    
-    <section>
-        <article>
-            <pre class="prettyprint source linenums"><code>/**
+/**
  * @file
  * the script of voyage framework
  *
@@ -36,7 +8,7 @@
  *
  * @author firavoyage
  * @version 0.29
- * @since 0.1 init on 20240806
+ * @since 0.1 initiated on 20240806
  * @see changelog.md
  */
 /**
@@ -98,8 +70,8 @@ let voyage = {
     has(obj, key) {
       const { check } = voyage.lib;
 
-      if (check(obj, Array) &amp;&amp; check(key, "number")) {
-        return key &lt; obj.length;
+      if (check(obj, Array) && check(key, "number")) {
+        return key < obj.length;
       } else if (check(obj, "object")) {
         return obj.hasOwnProperty(key);
       } else {
@@ -135,7 +107,7 @@ let voyage = {
      * but now it works well and i dont need that feature
      *
      * @param {string} methodName - the method needed
-     * @returns {Object&lt;function>}
+     * @returns {Object<function>}
      * @example
      * const {slice} = Array
      * console.log(slice([1,2,3],0,2))
@@ -157,7 +129,7 @@ let voyage = {
     /**
      * init an obj with certain path. very customizable.
      * @param {object} obj - the object needs to be init
-     * @param  {Array&lt;object|string|SingleElementArray&lt;string>>} path - path to be init
+     * @param  {Array<object|string|SingleElementArray<string>>} path - path to be init
      * > if the key already exists, it wont init
      * >
      * > if it's an object wiht one key value pair, init {key:value}
@@ -318,7 +290,7 @@ let voyage = {
      * generate iterator inside for of loop
      * @param {number} begin - first number included
      * @param {number} [end] - last number included
-     * @param {number} [step] - if begin&lt;end then default to 1 otherwise default to -1.
+     * @param {number} [step] - if begin<end then default to 1 otherwise default to -1.
      * @returns {Iterator} the iterator
      * @example
      * each(5) //each(0,5,1)
@@ -334,7 +306,7 @@ let voyage = {
           let index = begin;
           const iterator = {
             next() {
-              if ((index - end) * step &lt;= 0) {
+              if ((index - end) * step <= 0) {
                 const value = index;
                 index += step;
                 return { value, done: false };
@@ -354,7 +326,7 @@ let voyage = {
         begin = 0;
       }
       if (!check(step)) {
-        if (begin &lt;= end) {
+        if (begin <= end) {
           step = 1;
         } else {
           step = -1;
@@ -501,7 +473,7 @@ let voyage = {
    */
   /**
    * private data of components
-   * @type {ComponentArray&lt;Component>}
+   * @type {ComponentArray<Component>}
    * @memberof voyage
    */
   components: {},
@@ -512,7 +484,7 @@ let voyage = {
    */
   /**
    * private data of nodes selected and their componentids
-   * @type {ComponentArray&lt;Selection>}
+   * @type {ComponentArray<Selection>}
    * @memberof voyage
    */
   selections: {},
@@ -531,7 +503,7 @@ let voyage = {
    * @prop {function[]} [stateid:number] - when state changes call updaters
    */
   /**
-   * @type {ComponentArray&lt;Updaters>}
+   * @type {ComponentArray<Updaters>}
    * @memberof voyage
    */
   updaters: {},
@@ -776,11 +748,11 @@ let voyage = {
 
         for (const label in labels) {
           const content = labels[label];
-          if (is(label, "class") &amp;&amp; check(content, Array)) {
+          if (is(label, "class") && check(content, Array)) {
             for (const className of content) {
               node.classList.add(className);
             }
-          } else if (is(label, "style") &amp;&amp; check(content, "object")) {
+          } else if (is(label, "style") && check(content, "object")) {
             give(node.style, content);
           } else if (is(label[0], "@")) {
             const event = slice(label, 1);
@@ -794,7 +766,7 @@ let voyage = {
           } else if (is(label, "$")) {
             let { selections } = voyage;
             init(selections, content, { node });
-          } else if (check(content, "object") &amp;&amp; has(content, "stateid")) {
+          } else if (check(content, "object") && has(content, "stateid")) {
             node.setAttribute(label, content.v);
 
             const { updateLabel } = {
@@ -804,7 +776,7 @@ let voyage = {
             };
             const state = content;
             bind(state, updateLabel);
-          } else if (check(content, "object") &amp;&amp; has(content, "calculator")) {
+          } else if (check(content, "object") && has(content, "calculator")) {
             const { calculator, factors } = content;
 
             const { updateLabelCalc } = {
@@ -1151,26 +1123,3 @@ voyage.run({
   properties: { $: "abc", msg: "welcome to hotel california" },
   parent: "body",
 });
-</code></pre>
-        </article>
-    </section>
-
-
-
-
-</div>
-
-<nav>
-    <h2><a href="index.html">Home</a></h2><h3>Namespaces</h3><ul><li><a href="voyage.html">voyage</a></li><li><a href="voyage.lib.html">lib</a></li></ul><h3><a href="global.html">Global</a></h3>
-</nav>
-
-<br class="clear">
-
-<footer>
-    Documentation generated by <a href="https://github.com/jsdoc/jsdoc">JSDoc 4.0.4</a> on Fri Jan 17 2025 18:23:47 GMT+0800 (China Standard Time)
-</footer>
-
-<script> prettyPrint(); </script>
-<script src="scripts/linenumber.js"> </script>
-</body>
-</html>

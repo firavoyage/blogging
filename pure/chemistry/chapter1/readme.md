@@ -142,41 +142,64 @@
 >
 > 三次元中, 粒子直径是测量结果, 不精确. 故不必关心 "正好等于 1nm".
 
-#### 实验: 制备胶体
+#### `胶体` 的性质
 
 > 如何区分胶体和溶液呢...
 
-- 步骤: 取 $100ml$ 小烧杯, 加入 $40ml$ 蒸馏水, 加热至沸腾. 向沸水中逐滴加入 $5$ ~ $6$ 滴 $\ce{FeCl3}$ 饱和溶液. 继续煮沸至液体呈红褐色, 停止加热.
-  > ![warning]
-  >
-  > 胶体, 介稳体系. 稳定性不及溶液, 以下操作会导致制备失败, 产生沉淀
-  > 
-  > - 使用自来水替代蒸馏水
-  >   - 原因: 自来水中的离子会使胶体粒子聚沉
-  > - 加热过度 (液体呈红褐色后继续加热)
-  > - 使用玻璃棒搅拌
-- 化学方程式: $\ce{FeCl3 + 3H2O \overset{\Delta}{=} Fe(OH)3 \text{(胶体)} + 3HCl}$
-  > ![warning]
-  >
-  > 产物是胶体时, 不写 $\downarrow$
-  >
-  > ![note]
-  >
-  > 非正式的简写:
-  >
-  > $\ce{FeCl3 + 3H2O \overset{\Delta}{=} Fe(OH)3 \text{(s)} + 3HCl}$
-  >
-  > $\ce{FeCl3 + 3H2O \overset{\Delta}{=} Fe(OH)3 \text{(c)} + 3HCl}$
-  >
-  > "s" for solid, "c" for colloid.
-
-<!-- todo: make document structure better -->
+> ![exprm]
+>
+> 制备胶体
+>
+> 取 $100ml$ 小烧杯, 加入 $40ml$ 蒸馏水, 加热至沸腾. 向沸水中逐滴加入 $5$ ~ $6$ 滴 $\ce{FeCl3}$ 饱和溶液. 继续煮沸至液体呈红褐色, 停止加热.
+>
+> $\ce{FeCl3 + 3H2O \overset{\Delta}{=} Fe(OH)3 \text{(胶体)} + 3HCl}$
+>
+> ![warning]
+>
+> 胶体, 介稳体系.
+>
+> 稳定性不及溶液, 以下操作会产生沉淀, 制备失败.
+>
+> - 使用自来水替代蒸馏水
+>   - 原因: 自来水中的离子会使胶体粒子聚沉
+> - 加热过度 (液体呈红褐色后继续加热)
+> - 使用玻璃棒搅拌
+>
+> ![warning]
+>
+> 产物是胶体时, 不写 $\downarrow$
+>
+> ![note]
+>
+> 非正式的简写
+>
+> $\ce{FeCl3 + 3H2O \overset{\Delta}{=} Fe(OH)3 \text{(s)} + 3HCl}$
+>
+> $\ce{FeCl3 + 3H2O \overset{\Delta}{=} Fe(OH)3 \text{(c)} + 3HCl}$
+>
+> "s" for solid, "c" for colloid.
 
 - `丁达尔效应` 当光束通过胶体时, 可以看到一条光亮的"通路"
-  - 类别: 物理性质
-  - 成因: 胶体粒子对光线的散射
-  - 例子: - 光线透过树叶间的缝隙射入密林中 - 电影放映机到银幕间的光柱 - 日光从窗隙射入暗室
-    > 丁达尔效应是鉴别胶体和溶液的常用方法
+  - (物理性质)
+  - 原因: 胶体粒子对光线的散射
+  - 例子:
+    - 光线透过树叶间的缝隙射入密林中
+    - 电影放映机到银幕间的光柱
+    - 日光从窗隙射入暗室
+
+> ![exprm]
+>
+> 使用丁达尔现象区分溶液和胶体
+>
+> <!-- todo details -->
+>
+> ![warning]
+>
+> 丁达尔现象是性质, 不是判定 / 定义. 
+>
+> <!-- todo examples -->
+
+
 
 ### 物质的转化
 
@@ -547,9 +570,10 @@
 > _chapter 1 of 20_
 
 [note]: ../../note.svg
+[exprm]: ../../experiment.svg
 [warning]: ../../warning.svg
 [hint]: ../../hint.svg
-[prac]: ../../prac.svg
+[prac]: ../../practice.svg
 [verbose]: ../../verbose.svg
 [lucky star a]: <../../../lucky star a.jpg>
 [lucky star b]: <../../../lucky star b.jpg>

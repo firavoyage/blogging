@@ -2,13 +2,13 @@
  * @file
  * the script of voyage framework
  *
- * the current version released at
+ * the current version released on
  *
- * has been being written since 20250116 (utc+8)
- * 
+ * has been in development since 20250117 (utc+8)
+ *
  * @author firavoyage
- * @version 0.29
- * @since 20240809 when voyagejs 0.1 was found
+ * @version 0.30
+ * @since 0.1 initiated on 20240806
  * @see changelog.md
  */
 /**
@@ -24,6 +24,13 @@ let voyage = {
   lib: {
     /**
      * strict equality test
+     *
+     * (why)
+     *
+     * i dont like === approach. but there are some issues related to ==.
+     *
+     * so i wrapped === in a fn.
+     *
      * @param {*} a
      * @param {*} b
      * @returns {boolean} whether a is equal to b
@@ -33,7 +40,7 @@ let voyage = {
       return a === b;
     },
     /**
-     * strict equality test
+     * strict inequality test
      * @param {*} a
      * @param {*} b
      * @returns {boolean} whether a is not equal to b
@@ -46,25 +53,22 @@ let voyage = {
      * @typedef {string|symbol|boolean|number|bigint} Key
      * the possible types of a key in an object
      *
-     * > all literals are included
-     * >
-     * > because different literals will be different keys
-     * >
-     * > except undefined and null which are considered errors
-     * >
-     * > objects ofcourse are not included
-     * >
-     * > as different objects could be the same after to string
-     * >
-     * > same to functions in case they have different environments
-     * >
-     * > and same to arrays in case they are nested or containing invalid values
+     * (why)
+     *
+     * all literals are included, not just string
+     *
+     * because they will be converted to string.
      */
     /**
-     * check whether an object has certain key or an array has certain index
-     * @param {object} obj - the object or array
-     * @param {Key} key - the key or index
-     * @returns {boolean} whether the object has such key or the array has such index
+     * check if an object has certain key (own prop)
+     *
+     * if the obj is an array and the key is a number,
+     *
+     * then check if the array has certain index by its length
+     *
+     * @param {object} obj - the object (array)
+     * @param {Key} key - the key (index)
+     * @returns {boolean} whether the key exists
      * @memberof voyage.lib
      */
     has(obj, key) {
@@ -79,40 +83,38 @@ let voyage = {
       }
     },
     /**
-     * check whether an object lacks certain key or an array lacks certain index
-     * @param {object} obj - the object or array
-     * @param {Key} key - the key or index
-     * @returns {boolean} whether the object lacks such key or the array lacks such index
-     * @memberof lib
+     * (opposite to has fn)
+     * @param {object} obj - the object (array)
+     * @param {Key} key - the key (index)
+     * @returns {boolean} whether the key doesn't exist
+     * @memberof voyage.lib
      */
     lacks(obj, key) {
       const { has } = voyage.lib;
       return !has(obj, key);
     },
     /**
-     * essential fn for functional programming.
+     * essential fn for functional programming
      *
-     * (the story of this fn:)
-     * 
+     * (story)
+     *
      * at first it's named "include(constructor)" which is a proxy
-     * 
+     *
      * very slow.
-     * 
+     *
      * now it even doesnt need to know what the constructor is.
-     * 
+     *
      * sometimes even faster than direct call
-     * 
+     *
      * maybe it could receive an array of method in the future
-     * 
+     *
      * but now it works well and i dont need that feature
      *
      * @param {string} methodName - the method needed
      * @returns {Object<function>}
      * @example
-     * const {slice} = Array
-     * console.log(slice([1,2,3],0,2))
-     * //instead of
-     * console.log([1,2,3].slice(0,2))
+     * const {slice} = use("slice")
+     * console.log(slice([1,2,3],0,2)) //console.log([1,2,3].slice(0,2))
      */
     use(methodName) {
       const { fn } = {
@@ -274,17 +276,6 @@ let voyage = {
       } else {
         return checkType(a);
       }
-    },
-    /**
-     * get unique identifier for each key. same key same identifier.
-     * @param {Key} key
-     * @returns {string} hash+key
-     * @memberof voyage.lib
-     */
-    symbol(key) {
-      const symbolSha256 =
-        "b76a7ca153c24671658335bbd08946350ffc621fa1c516e7123095d4ffd5c581";
-      return symbolSha256 + key;
     },
     /**
      * generate iterator inside for of loop
@@ -556,6 +547,7 @@ let voyage = {
     },
   },
   counter: {},
+
   /**
    * memory a pure function with certain params.
    * functions must have different names.
@@ -1123,4 +1115,3 @@ voyage.run({
   properties: { $: "abc", msg: "welcome to hotel california" },
   parent: "body",
 });
-

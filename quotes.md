@@ -1713,3 +1713,16 @@ memories memories
 "那 cos 乌鲁鲁"
 
 哪有那条件啊.
+
+## fuck you!
+
+202501170228
+
+(at df flying sniper live)
+
+谁问你了?
+
+我顶似你!
+
+我捅似你!
+

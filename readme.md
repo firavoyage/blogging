@@ -28,15 +28,15 @@
 ## perception
 
 - - lipton black tea
-  - frey dark chocolate bar
+  - frey dark chocolate bars
+  - lays classic potato chips
   - coca cola
-  - lays crisps classic
-  - fast noodles
   - bubble tea
   - egg waffle
   - tea egg
   - chenpi
   - huamei
+  - fast noodles
 - - johann sebastian bach
   - frédéric chopin
   - calendar & wall clock
@@ -262,7 +262,7 @@
   - fandom & moegirl.icu & nga bbs & forum.gamer.com.tw & 4chan
   - old reddit & stack exchange & zhihu
   - hacker news & v2ex creative & ruanyf weekly & product hunt all time
-  - codepen spark & css tricks & javascript weekly
+  - codepen spark & css tricks & javascript weekly & mdn web docs
   - twitter & mastodon & slashdot & solidot & rebang
   - codeforces & atcoder & luogu & libre oj & vijos
   - cnblogs & luogu blog & travellings.cn & foreverblog.cn & travel.moe
