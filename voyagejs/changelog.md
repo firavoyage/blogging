@@ -1,11 +1,11 @@
 # roadmap
 
-- complete todos for basic features
-- svelte examples as unit tests
-- chakra ui as a real world design system
-- material design 3
-- google reader (google books classic)
-- sr hi hg component library
+- fix issues
+- impl svelte examples with voyagejs
+- learn component system from chakra ui
+- create voyagejs maia (google reader)
+- create voyagejs material design 3
+- create sr hi hg component library
 
 # issues
 
@@ -218,32 +218,81 @@
 - removed voyage.lib.symbol()
   - `refactor`
   - defined but never used in current version
-- (wip) remove memorize fn and its dependencies
+- removed voyage.memorize fn and its dependencies
   - `refactor`
-  - see `ref1`
+  - see "ref1"
+  - removed voyage.lib.seek & voyage.lib.set fn.
+  - removed voyage.memo
+- rewrote voyage.lib.check fn
+  - `fix`
+  - make the fn simpler
+  - to make the jsdoc comment clearer
+- changed voyage.lib.has behavior
+  - `reduce`
+  - removed its ability to check if an array has certain index
+- reduced voyage.lib.lacks behavior
+  - `reduce`
+  - no longer depending on voyage.lib.has
+- removed redundant abstraction
+  - `refactor`
+  - like some lib fn only appearing once
+  - including voyage.lib.reset and voyage.lib.count
+- changed voyage.selections data structure
+  - `refactor`
+  - no longer keep componentid in selections
+  - removed voyage.remove fn (never called)
+  - revised voyage.select fn
+  - removed voyage.get (no reference or comment)
+  - removed voyage.lookup (no reference or comment)
+- (wip) split compile and create fn
+  - `refactor`
+  - write compile fn for json
+    - write a sub fn: recursion(...arr)
+    - iterate the arr, 
+    - if it's the first str then consider it type otherwise contents
+    - if it's an obj, consider it labels
+    - if it's an arr, init contents [] and push recursion(it).
+    - if no str appears, consider type "div"
+    - just use recursion. an element shouldnt be that large.
+    - returns element {str type,obj labels,arr|str contents}
+    - (upd: type can be function, as component)
+  - (wip) rewrite create fn
+    - write a sub fn recursion(element)
+    - create a node of element.type
+    - give it componentid.
+    - if there is macros on labels, bind them to componentid.
+    - if the contents is str, then set innerText
+    - otherwise iterate contents, recursion and appendChild.
+    - just use recursion. an element shouldnt be that large.
+    - returns node
+- (wip) add more lang to compile fn
+  - `extension`
+  - from various lang, not just json. for instance pug.
+  - compile fn can be used as tag fn.
 - (wip) wrote styling feature like tailwind
   - `feature`
-  - todo: ask mistral for css in js methods and css events & test performance
-  - "defineStyle(name style theme)" fn
-    - options {name:"h1",style:"font-size:...;" , theme:"default"}
-    - options {name:"h",style(num){return "font-size:..."}}
-  - "defineStyle({name:styles}, theme)" fn (another case)
-    - name: "button"
-    - style: "opacity-1 hover:abc foo-123 bar-456"
-    - theme: "default"
-  - "useTheme(theme)" fn
-    - change global state theme
-  - in "create()" fn
-    - @style:"h1 h-2 font-red-green great-123 foo"
-    - bind global state theme
-    - if h1 is defined in current theme, use that
-    - if h-2 is defined, calc that, eg style(2)
-    - if great-123 is not defined, add style "great:123;"
-    - if foo is not defined, ignore that
-  - in "create()" fn (another case)
-    - @style: "button"
-    - calc until it couldnt be calc
-    - bind global state theme
+  - three fn. defineStyle(), defineTheme(), useTheme().
+  - defineStyle(obj styles)
+    - two kind of props
+    - first (string)
+      - a prop or value "bg": "background", "blue-1":"lightblue"
+      - a style "c-1": "color-red", "rounded": "border-radius: 5px"
+      - value with - is considered style otherwise prop or value
+    - second (fn)
+      - a value blue(){}. blue-foo-100 calls blue("foo","100")
+      - a style rounded(){}. rounded-5px calls rounded("5px")
+      - when it comes to "a-b-c-d" when ab are fn, eval a(b(c,d))
+      - when b is not defined, eval a("b","c","d")
+      - when a is not defined, consider a as the prop a:b(c,d)
+      - when both not defined, raise error. (no css value has -)
+  - defineTheme(options) saves a theme in voyage obj
+    - if the theme is already defined, merge them
+    - options {"defaultTheme": {...styles}}
+    - styles {"button":"rounded bg-blue-100", "button-inner":"..."}
+    - reason: i prefer to use class as component name, not styles
+  - useTheme(str theme) injects a theme to document head
+    - style componentid="theme" @html=theme
+    - theme is a global state
 
 # river
 

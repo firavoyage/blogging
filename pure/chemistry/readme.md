@@ -58,6 +58,7 @@ Please confirm if you're ready to receive my first request.
 - 化学 (pub:山东科学技术出版社)
 - 化学 (pub:人民教育出版社)
 - 学霸笔记 (pass 绿卡图书) (pub:陕西师范大学)
+  - alias: 知识清单 (same styling, seem to be same content)
 - 金典导学案 (钟书金牌)
 - mistral le chat
 - wikipedia

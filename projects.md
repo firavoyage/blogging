@@ -286,7 +286,7 @@
 
 ### `eat`
 
-> breathe in the content overload
+> breathe in the infomation boom
 
 - features
   - control of your feed
@@ -300,6 +300,33 @@
   - portable format
   - cross platform
   - powerful cli
+- verses
+  - cast (youtube)
+  - berry (bilibili)
+  - flow (medium)
+- observe
+  - latest upd of subscription
+  - recommendation
+  - popular playlists
+  - tags
+  - custom filter
+  - random
+  - ...
+- archive
+  - creators
+  - works
+  - ...
+- socialize
+  - creator profile
+  - subscription
+  - episode stats comments
+  - playlist
+- download
+  - list (favlist, playlist)
+  - custom filter (by creator, tag...)
+- sync
+  - subscription
+  - favlist (zhihu, berryberry)
 - spec
   - content fetcher web extension
   - using javascript selector

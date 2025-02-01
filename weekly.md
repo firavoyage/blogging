@@ -11,6 +11,134 @@
 - _make tools elegant_
 - _make knowledge pure_
 
+> things, not timetable.
+
+## 20250130
+
+> _foresight_
+
+- write chemistry wiki on pure project
+- write voyagejs & design component libraries
+- summarize project leverages
+- create project badges
+- watch lucky star
+- sync phone
+
+> _dawn_
+
+- return digital homes in al sr hi hg
+- learn japanese on duolingo
+
+> _night_
+
+- watch lucky star
+- watch evangelion
+- watch sword art online
+- watch bocchi the rock
+- watch the melancholy of haruhi suzumiya
+
+> _endeavour_
+
+- write pure chemistry wiki
+- write voyagejs & design component libraries
+- create project badges
+- write web apps including pre para material
+- design apps including eat leisure float
+- create intuitive cpp wiki
+- create pure math wiki & categorize strategy cards
+
+> _diversion_
+
+- read sr stories
+- play hg hi events
+- play senrenbanka
+- play sabbat of the witch
+- create origami works
+
+> _enlightenment_
+
+- summarize project leverages
+- read & categorize ruanyf weekly
+- design intuitive cpp guide
+- write pure project video script
+
+> _drift_
+
+- read notes of physics chemistry geography
+- solve problems on math challenger
+- memorize tem 8 vocabulary
+
+> _rest_
+
+- surf zhihu berryberry
+- watch streamers on simplelive
+- play old podcasts on antennapod
+- play df hunt
+- sync phone
+
+## 20250119
+
+> _foresight_
+
+- write chemistry wiki on pure project
+- write voyagejs & design component libraries
+- create project badges
+- summarize project leverages
+- watch lucky star
+- sync phone
+
+> _dawn_
+
+- return digital homes in al sr hi hg
+- learn japanese on duolingo
+
+> _night_
+
+- watch lucky star
+- watch evangelion
+- watch sword art online
+- watch bocchi the rock
+- watch the melancholy of haruhi suzumiya
+
+> _endeavour_
+
+- write chemistry wiki on pure project
+- write voyagejs & design component libraries
+- create project badges
+- write web apps including pre material para
+- design apps including eat leisure float
+- create intuitive cpp wiki
+- create pure math wiki & categorize strategy cards
+
+> _diversion_
+
+- read sr stories
+- play the latest hg hi event
+- play senrenbanka
+- play sabbat of the witch
+- create origami works
+
+> _enlightenment_
+
+- summarize project leverages
+- read & categorize ruanyf weekly
+- design intuitive cpp guide
+- write pure project video script
+
+> _drift_
+
+- memorize tem 8 vocabulary at leisure
+- read notes of physics chemistry geography
+- solve problems on math challenger
+
+> _rest_
+
+- play old podcasts on antennapod
+- watch streamers on simplelive
+- surf berryberry
+- play df hunt
+- sync phone
+
 ## 20250113
 
 > _foresight_

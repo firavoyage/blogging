@@ -34,6 +34,7 @@
   - bubble tea
   - egg waffle
   - tea egg
+  - dried mango
   - chenpi
   - huamei
   - fast noodles
@@ -68,9 +69,10 @@
   - the name of life (joe hisaishi)
   - dry hands (c418)
   - the legend of zelda: ocarina of time title theme (koji kondo)
-  - benevolence bequeathed (nahida & hoyo-mix)
+  - angry birds theme (ari pulkkinen)
   - caresse sur l'océan (bruno coulais & les petits chanteurs de saint-marc)
   - gion2 (honkai impact third & hoyo-mix)
+  - benevolence bequeathed (nahida & hoyo-mix)
   - moon halo (honkai impact third & hoyo-mix)
   - the brave (yoasobi)
   - one last kiss (hikaru utada)
@@ -110,18 +112,18 @@
   - .roman holiday (1953)
   - .oppenheimer (2023)
 - - tom and jerry classic collection (1940)
-  - spongebob squarepants (1999)
   - in solitude where we are least alone (2010)
   - worldend: what do you do at the end of the world? are you busy? will you save us? (2017)
   - lucky star (2007)
   - evangelion (1995)
   - .sword art online (2012)
-  - .tonikawa: over the moon for you (2020)
-  - .my youth romantic comedy is wrong, as i expected (2011)
   - .the melancholy of haruhi suzumiya (2006)
   - .the disappearance of haruhi suzumiya (2010)
+  - .date a live (2013)
   - .a certain scientific railgun (2009)
   - .re: zero - starting life in another world (2016)
+  - .tonikawa: over the moon for you (2020)
+  - .my youth romantic comedy is wrong, as i expected (2011)
   - .your lie in april (2014)
   - .bakemonogatari (2009)
   - .frieren: beyond journey's end (2023)
@@ -131,7 +133,7 @@
   - .k-on! (2009)
   - .oshi no ko (2023)
   - .school days (2007)
-  - .scum's wish (2017)
+  - .white album (2009)
   - .the big bang theory (2007)
   - .the long season (2023)
   - .reply 1988 (2015)
@@ -178,8 +180,8 @@
   - .aquarium (2023)
   - .yosuga no sora (2008)
   - .riddle joker (2020)
-  - .doki doki literature club! (2017)
   - .wonderful everyday (2010)
+  - .doki doki literature club! (2017)
 - - to live (yu hua)
   - road ahead (ruanyf)
   - the water level of ideology (liu yu)
@@ -253,25 +255,25 @@
   - web worker (xinbao & lv777 & pakchoi & kaiyi & smart)
   - yitianshijie (li ruyi)
   - yixi (yixi)
-- - wikipedia & wikipedian user pages
+- - wikipedia & fandom & miraheze & moegirl.icu & wikipedian user pages
   - github & the pirate bay & z library & anna's archive
   - internet archive wayback machine & archive.today
   - google & mistral le chat
   - youtube & berryberry & niconico
   - bangumi.tv & mikan project & bgmlist & my anime list & dmhy.org
-  - fandom & moegirl.icu & nga bbs & forum.gamer.com.tw & 4chan
-  - old reddit & stack exchange & zhihu
-  - hacker news & v2ex creative & ruanyf weekly & product hunt all time
+  - old reddit & nga bbs & forum.gamer.com.tw & tumblr & 4chan
+  - hacker news & slashdot & ruanyf weekly & v2ex creative & product hunt
   - codepen spark & css tricks & javascript weekly & mdn web docs
-  - twitter & mastodon & slashdot & solidot & rebang
+  - zhihu & stack exchange & medium & substack & rebang
   - codeforces & atcoder & luogu & libre oj & vijos
   - cnblogs & luogu blog & travellings.cn & foreverblog.cn & travel.moe
-  - google fonts
+  - telegram & mastodon & twitter
   - douban book & goodread
   - douban movie & imdb
   - vndb & shinnku galgame
+  - javbus & missav & e hentai
   - google doodles & itch.io matrix67 & steam db
-  - genius & poetry foundation
+  - google fonts & genius & poetry foundation
   - unsplash & pixiv & deviantart & dribbble
   - hugging face & kaggle
 - - acheron
@@ -282,24 +284,23 @@
   - black swan
   - chtholly
   - clara
-  - forever naive taffy
   - fu xuan
   - fuli the remembrance
   - gallagher
+  - ijn musashi
   - kaedehara kazuha
   - kagami hiiragi & tsukasa hiiragi
   - kagura mea
   - kasugano sora
   - ke qing
   - konata izumi & kanata izumi & sōjirō izumi
-  - minato aqua
+  - minato aqua & yuuki sakuna
   - misha & mikhail the watchmaker
   - miyuki takara
   - nahida
   - nanako kuroi
   - necora nyaru
   - numby & topaz
-  - orient snowy lotus
   - origami birds
   - ruan mei & snack life
   - rubert the emperor
@@ -307,7 +308,6 @@
   - silver wolf & kafka
   - sparkle
   - xing qiu
-  - yuuki sakuna
 - - ubuntu yaru
   - google maia css & google reader
   - wikipedia vector-2022
@@ -709,6 +709,8 @@
   - sleep is the best pleasure
   - character is destiny
 - with a flash of insight i realized what the dream meant.
+  - the best time to plant a tree was 20 years ago.
+  - the second best time is now.
 - 遂迷不复得路
 - 从流飘荡 任意东西
 - 念念不忘 必有回响
@@ -816,7 +818,7 @@
   - youtube `_`
   - telegram channel `_`
 - - telegram `firavoyage`
-  - prefered email `firavoyage@outlook.com` 
+  - prefered email `firavoyage@outlook.com`
   - email `firafira@duck.com` `xoyage@gmail.com` `devvhy@zoho.com.cn` `firav@qq.com`
 - - name `fira`
   - alias `忘我思考`
@@ -841,12 +843,12 @@
 
 > $may \space all \space the \space beauty \space be \space blessed.$
 
-> $btw \space i \space use \space ubuntu$ 
-> 
+> $btw \space i \space use \space ubuntu$
+>
 > _"do not change anything unless you know what you are doing"_
 
 > $so \space much \space for \space this, \space have \space a \space nice \space day.$
-> 
+>
 > _以上 / 祝你度过智识的, 审美的一天_
 
 > _毋负今日_

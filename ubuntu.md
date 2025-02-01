@@ -719,7 +719,7 @@ sudo apt install gnome-shell-extension-prefs
 
 - config trackers
   - -> `tools > preferences > bitorrent`
-  - automatically add these trackers to new downloads `config/list_trackers.md`
+  - automatically add these trackers to new downloads `config/config trackers.md`
 
 ## misc
 
@@ -750,6 +750,7 @@ sudo apt install gnome-shell-extension-prefs
   sudo flatpak install flathub org.gimp.GIMP
   sudo flatpak install flathub org.gnome.Solanum
   sudo flatpak install flathub org.localsend.localsend_app
+  sudo flatpak install flathub org.qbittorrent.qBittorrent
   sudo npm config set registry https://registry.npmjs.org/
   sudo npm install -g @wenyan/cli
   sudo npm install -g jsdoc
@@ -766,7 +767,6 @@ sudo apt install gnome-shell-extension-prefs
   sudo snap install kolourpaint
   sudo snap install krita
   sudo snap install obs-studio
-  sudo snap install qbittorrent-arnatious
   sudo snap install telegram-desktop
   sudo snap install thunderbird
   sudo snap install v2raya

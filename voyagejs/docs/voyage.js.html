@@ -30,13 +30,13 @@
  * @file
  * the script of voyage framework
  *
- * the current version released on 20250117
+ * the current version released on
  *
- * has been in development since 20250116 (utc+8)
+ * has been in development since 20250117 (utc+8)
  *
  * @author firavoyage
- * @version 0.29
- * @since 0.1 init on 20240806
+ * @version 0.30
+ * @since 0.1 initiated on 20240806
  * @see changelog.md
  */
 /**
@@ -52,6 +52,13 @@ let voyage = {
   lib: {
     /**
      * strict equality test
+     *
+     * (why)
+     *
+     * i dont like === approach. but there are some issues related to ==.
+     *
+     * so i wrapped === in a fn.
+     *
      * @param {*} a
      * @param {*} b
      * @returns {boolean} whether a is equal to b
@@ -61,7 +68,7 @@ let voyage = {
       return a === b;
     },
     /**
-     * strict equality test
+     * strict inequality test
      * @param {*} a
      * @param {*} b
      * @returns {boolean} whether a is not equal to b
@@ -74,53 +81,38 @@ let voyage = {
      * @typedef {string|symbol|boolean|number|bigint} Key
      * the possible types of a key in an object
      *
-     * > all literals are included
-     * >
-     * > because different literals will be different keys
-     * >
-     * > except undefined and null which are considered errors
-     * >
-     * > objects ofcourse are not included
-     * >
-     * > as different objects could be the same after to string
-     * >
-     * > same to functions in case they have different environments
-     * >
-     * > and same to arrays in case they are nested or containing invalid values
+     * (why)
+     *
+     * all literals are included, not just string
+     *
+     * because they will be converted to string.
      */
     /**
-     * check whether an object has certain key or an array has certain index
-     * @param {object} obj - the object or array
-     * @param {Key} key - the key or index
-     * @returns {boolean} whether the object has such key or the array has such index
+     * check if an object has certain key (own prop)
+     *
+     * @param {object} obj - the object
+     * @param {Key} key - the key
+     * @returns {boolean} whether the key exists
      * @memberof voyage.lib
      */
     has(obj, key) {
-      const { check } = voyage.lib;
-
-      if (check(obj, Array) &amp;&amp; check(key, "number")) {
-        return key &lt; obj.length;
-      } else if (check(obj, "object")) {
-        return obj.hasOwnProperty(key);
-      } else {
-        return false;
-      }
+      return obj.hasOwnProperty(key);
     },
     /**
-     * check whether an object lacks certain key or an array lacks certain index
-     * @param {object} obj - the object or array
-     * @param {Key} key - the key or index
-     * @returns {boolean} whether the object lacks such key or the array lacks such index
-     * @memberof lib
+     * check if an object lacks certain key (own prop)
+     *
+     * @param {object} obj - the object
+     * @param {Key} key - the key
+     * @returns {boolean} whether the key doesn't exist
+     * @memberof voyage.lib
      */
     lacks(obj, key) {
-      const { has } = voyage.lib;
-      return !has(obj, key);
+      return !obj.hasOwnProperty(key);
     },
     /**
-     * essential fn for functional programming.
+     * essential fn for functional programming
      *
-     * (the story of this fn:)
+     * (story)
      *
      * at first it's named "include(constructor)" which is a proxy
      *
@@ -137,10 +129,8 @@ let voyage = {
      * @param {string} methodName - the method needed
      * @returns {Object&lt;function>}
      * @example
-     * const {slice} = Array
-     * console.log(slice([1,2,3],0,2))
-     * //instead of
-     * console.log([1,2,3].slice(0,2))
+     * const {slice} = use("slice")
+     * console.log(slice([1,2,3],0,2)) //console.log([1,2,3].slice(0,2))
      */
     use(methodName) {
       const { fn } = {
@@ -202,117 +192,40 @@ let voyage = {
       return obj;
     },
     /**
-     * @typedef {object} SeekResult
-     * @prop {*} result - the result of seeking
-     */
-    /**
-     * get a prop of an obj by its path
-     * @param {object} obj - the object
-     * @param  {string[]} path - the path
-     * @returns {SeekResult|false} an array containing the prop
-     * or false if the path doesnt exist
-     */
-    seek(obj, ...path) {
-      const { lacks } = voyage.lib;
-
-      let current = obj;
-      for (const key of path) {
-        if (lacks(current, key)) {
-          return false;
-        } else {
-          current = current[key];
-        }
-      }
-      const seekResult = { result: current };
-      return seekResult;
-    },
-    /**
-     * set a prop in an obj on a certain path
-     * @param {*} value - the value to be set
-     * @param {object} obj - the object
-     * @param {Key[]} path - the path in the object
-     * @returns {object} the updated object
-     */
-    set(value, obj, ...path) {
-      const { lacks, use } = voyage.lib;
-      const { slice } = use("slice");
-
-      let current = obj;
-
-      for (const key of slice(path, 0, -1)) {
-        if (lacks(current, key)) {
-          current[key] = {};
-        }
-        current = current[key];
-      }
-      current = value;
-      return obj;
-    },
-    /**
-     * check type or type equality
-     * @param {*} a - value needs to be checked
-     * @param {string|function} [b] - type or constructor
+     * one param: typeof valid value
+     * two param: type equality of valid value
+     * if the value is not valid (undefined or null): false
+     * @param {*} value - value to be checked
+     * @param {string|function} type - type or constructor
      * @returns {string|boolean} type or equality
-     * > calculate a value
-     * >
-     * > if a is undefined or null the value is false
-     * >
-     * > otherwise it's typeof a
-     * >
-     * > if b is not given return the value
-     * >
-     * > if b is given as a string
-     * >
-     * > then return true if b is the same as the value
-     * >
-     * > if b is given as a function
-     * >
-     * > then return a instance of b
      * @example
      * check(undefined) //false
      * check(null) //false
-     * check(undefined,false) //true
      * check(undefined,"undefined") //false
      * check(false) //"boolean"
-     * check(1,"number") //true
      * check("number") //"string"
+     * check(123,"number") //true
      * check([],Array) //true
      * check([],"object") //true
      * check([],"array") //false
      * @memberof voyage.lib
      */
-    check(a, b) {
+    check(value, type) {
       const { is } = voyage.lib;
 
-      const { checkType } = {
-        checkType(a) {
-          if (is(a, undefined) || is(a, null)) {
-            return false;
-          } else {
-            return typeof a;
-          }
-        },
-      };
-      if (b) {
-        if (is(checkType(b), "function")) {
-          return a instanceof b;
-        } else {
-          return is(checkType(a), b);
-        }
+      if (is(value, null) || is(value, undefined)) {
+        return false;
       } else {
-        return checkType(a);
+        if (type) {
+          if (is(typeof type, "function")) {
+            return value instanceof type;
+          } else {
+            return is(typeof value, type);
+          }
+        } else {
+          return typeof value;
+        }
       }
-    },
-    /**
-     * get unique identifier for each key. same key same identifier.
-     * @param {Key} key
-     * @returns {string} hash+key
-     * @memberof voyage.lib
-     */
-    symbol(key) {
-      const symbolSha256 =
-        "b76a7ca153c24671658335bbd08946350ffc621fa1c516e7123095d4ffd5c581";
-      return symbolSha256 + key;
     },
     /**
      * generate iterator inside for of loop
@@ -448,38 +361,7 @@ let voyage = {
       }
       return reactive;
     },
-    /**
-     * reset a key to 0 in a counter object
-     * @param {object} counter - the counter object
-     * @param {Key} key - the key to be reset
-     * @returns {void}
-     * @memberof voyage.lib
-     */
-    reset(counter, key) {
-      counter[key] = 0;
-    },
-    /**
-     * count a key in a counter object
-     * @param {object} counter - the counter object
-     * @param {Key} key - the key to be counted
-     * @returns {number} current value, the value before increment
-     * @memberof voyage.lib
-     */
-    count(counter, key) {
-      const { init } = voyage.lib;
-      init(counter, { [key]: 0 });
-      const current = counter[key];
-      counter[key]++;
-      return current;
-    },
   },
-  /**
-   * some calculation results of pure functions
-   * ref by memorize()
-   * @type {object}
-   * @memberof voyage
-   */
-  memo: {},
   /**
    * private data in creating components
    * @type {object}
@@ -531,12 +413,15 @@ let voyage = {
    * @prop {function[]} [stateid:number] - when state changes call updaters
    */
   /**
+   * the updaters binding each component state
    * @type {ComponentArray&lt;Updaters>}
    * @memberof voyage
    */
   updaters: {},
   /**
-   *
+   * the macros on element label, eg "@text"
+   * @type {object&lt;function>}
+   * @memberof voyage
    */
   macros: {
     model(node, state) {
@@ -571,6 +456,7 @@ let voyage = {
     },
     html(node, state) {
       const { check } = voyage;
+
       if (check(state, "object")) {
         const { bind } = voyage;
         node.innerHTML = state.v;
@@ -583,32 +469,7 @@ let voyage = {
       }
     },
   },
-  counter: {},
-  /**
-   * memory a pure function with certain params.
-   * functions must have different names.
-   * the params must be literals not objects, which will be object keys.
-   * @param {function} fn - the function to be memorized
-   * @param  {Key[]} params - the params of the fn
-   * @returns {*} the calculation result
-   */
-  memorize(fn, ...params) {
-    const { seek, set } = voyage.lib;
-
-    const { memo } = voyage;
-    const { name } = fn;
-    const precalculation = seek(memo, name, ...params);
-
-    let result;
-    if (precalculation) {
-      result = precalculation.result;
-    } else {
-      const calculation = fn(...params);
-      set(calculation, memo, name, ...params);
-      result = calculation;
-    }
-    return result;
-  },
+  counter: { component: 0 },
   select(option) {
     const { check } = voyage.lib;
     const { remove } = voyage;
@@ -690,13 +551,12 @@ let voyage = {
     }
   },
   call(componentid) {
-    const { reset } = voyage.lib;
     const { assign: give } = Object;
 
     let { info } = voyage;
     give(info, { componentid });
     let { components } = voyage;
-    reset(components[componentid], "stateid");
+    components[componentid]["stateid"] = 0;
 
     const { component, properties } = components[componentid];
     const node = component(properties);
@@ -704,8 +564,89 @@ let voyage = {
 
     return node;
   },
+  /**
+   * @typedef {object} voyageElement
+   * @prop {string | function} type
+   * @prop {object} labels
+   * @prop {voyageElement[] | string} content
+   * if the type
+   */
+  /**
+   * @param  {...any} options - currently support json
+   * @returns {voyageElement}
+   * @memberof voyage
+   */
+  compile(...options) {
+    const { is, check, use } = voyage.lib;
+    const { push } = use("push");
+    const { json } = {
+      json(options) {
+        const { recursion } = {
+          recursion(arr) {
+            let element = { type: "div", labels: {}, content: [] };
+            let strings = [];
+            for (const item of arr) {
+              if (check(item, "string")) {
+                push(strings, item);
+              } else if (check(item, Array)) {
+                push(element.content, recursion(item));
+              } else if (check(item, "object")) {
+                element.labels = item;
+              }
+            }
+            if (check(element.type, "function")) {
+              if (is(strings.length, 1)) {
+                element.content = strings[0];
+              }
+            } else if (check(element.type, "string")) {
+              if (is(strings.length, 1)) {
+                element.type = strings[0];
+              } else if (is(strings.length, 2)) {
+                element.type = strings[0];
+                element.content = strings[1];
+              }
+            }
+            return element;
+          },
+        };
+        return recursion(options);
+      },
+    };
+    return json(options);
+  },
+  create2(options) {
+    const { check } = voyage.lib;
+    const { recursion } = {
+      recursion(element) {
+        if (check(element.type, "function")) {
+          const { counter } = voyage;
+          const componentid = counter.component++;
+
+          const component = element.type, properties = element.labels;
+
+          let { components } = voyage;
+          init(components, {
+            [componentid]: { component, properties, created: false },
+          });
+
+          const node = call(componentid);
+
+          if (has(properties, "$")) {
+            const { $: selector } = properties;
+
+            let { selections } = voyage;
+            init(selections, selector);
+            give(selections[selector], { node, componentid });
+          }
+
+          components[componentid].created = true;
+        }
+        let node = document.createElement(element.type);
+      },
+    };
+  },
   create(...options) {
-    const { is, isnt, check, has, lacks, init, each, count, use } = voyage.lib;
+    const { is, isnt, check, has, lacks, init, each, use } = voyage.lib;
     const { bind, call } = voyage;
     const { assign: give } = Object;
     const { slice } = use("slice");
@@ -747,7 +688,7 @@ let voyage = {
     const { createComponent, createNode } = {
       createComponent(component, properties) {
         const { counter } = voyage;
-        const componentid = count(counter, "component");
+        const componentid = counter.component++;
 
         let { components } = voyage;
         init(components, {
@@ -861,7 +802,7 @@ let voyage = {
   },
   get(...options) {
     const { is, check } = voyage.lib;
-    const { memorize, getState, getStates } = voyage;
+    const { getState, getStates } = voyage;
 
     if (is(options.length, 1)) {
       const [option] = options;
@@ -874,10 +815,10 @@ let voyage = {
         componentid = option;
       }
 
-      return memorize(getStates, componentid);
+      return getStates(componentid);
     } else {
       const [componentid, stateid] = options;
-      return memorize(getState, componentid, stateid);
+      return getState(componentid, stateid);
     }
   },
   getState(componentid, stateid) {
@@ -918,9 +859,9 @@ let voyage = {
     return proxy;
   },
   lookup(key) {
-    const { memorize, getState } = voyage;
+    const { getState } = voyage;
 
-    const state = memorize(getState, "global", key);
+    const state = getState("global", key);
     give(state, { key });
     return state;
   },
@@ -934,8 +875,8 @@ let voyage = {
     }
   },
   ref(...options) {
-    const { is, check, map, init, count } = voyage.lib;
-    const { memorize, getState } = voyage;
+    const { is, check, map, init } = voyage.lib;
+    const { getState } = voyage;
     const { keys, values } = Object;
 
     const { refState } = {
@@ -949,13 +890,14 @@ let voyage = {
           initial = values(initial)[0];
         } else {
           let { components } = voyage;
-          stateid = count(components[componentid], "stateid");
+          init(components[componentid], { stateid: 0 });
+          stateid = components[componentid].stateid++;
         }
 
         let { states } = voyage;
         init(states, componentid, { [stateid]: initial });
 
-        const state = memorize(getState, componentid, stateid);
+        const state = getState(componentid, stateid);
         return state;
       },
     };
@@ -1009,7 +951,7 @@ let voyage = {
   },
   keep(obj) {
     const { is, map, init } = voyage.lib;
-    const { memorize, getState } = voyage;
+    const { getState } = voyage;
     const { keys } = Object;
 
     const { keepGlobal } = {
@@ -1017,7 +959,7 @@ let voyage = {
         let { states } = voyage;
         init(states, "global", key, value);
 
-        return memorize(getState, "global", key);
+        return getState("global", key);
       },
     };
 
@@ -1036,11 +978,11 @@ let voyage = {
     let { macros } = voyage;
     macros[macro.name] = macro;
   },
-  define() {},
+  defineStyle(styles, theme) {},
+  useTheme(theme) {},
   run(...options) {
     const { init } = voyage.lib;
     const { create } = voyage;
-
     const { runComponent } = {
       runComponent(options) {
         init(options, { properties: {} });
@@ -1167,7 +1109,7 @@ voyage.run({
 <br class="clear">
 
 <footer>
-    Documentation generated by <a href="https://github.com/jsdoc/jsdoc">JSDoc 4.0.4</a> on Fri Jan 17 2025 18:23:47 GMT+0800 (China Standard Time)
+    Documentation generated by <a href="https://github.com/jsdoc/jsdoc">JSDoc 4.0.4</a> on Thu Jan 30 2025 17:18:38 GMT+0800 (China Standard Time)
 </footer>
 
 <script> prettyPrint(); </script>

@@ -112,7 +112,7 @@
     
 
     
-    <h4 class="name" id=".check"><span class="type-signature">(static) </span>check<span class="signature">(a, b<span class="signature-attributes">opt</span>)</span><span class="type-signature"> &rarr; {string|boolean}</span></h4>
+    <h4 class="name" id=".check"><span class="type-signature">(static) </span>check<span class="signature">(value, type)</span><span class="type-signature"> &rarr; {string|boolean}</span></h4>
     
 
     
@@ -120,7 +120,9 @@
 
 
 <div class="description">
-    <p>check type or type equality</p>
+    <p>one param: typeof valid value
+two param: type equality of valid value
+if the value is not valid (undefined or null): false</p>
 </div>
 
 
@@ -144,8 +146,6 @@
         <th>Type</th>
 
         
-        <th>Attributes</th>
-        
 
         
 
@@ -158,7 +158,7 @@
 
         <tr>
             
-                <td class="name"><code>a</code></td>
+                <td class="name"><code>value</code></td>
             
 
             <td class="type">
@@ -171,25 +171,17 @@
             </td>
 
             
-                <td class="attributes">
-                
-
-                
-
-                
-                </td>
-            
 
             
 
-            <td class="description last"><p>value needs to be checked</p></td>
+            <td class="description last"><p>value to be checked</p></td>
         </tr>
 
     
 
         <tr>
             
-                <td class="name"><code>b</code></td>
+                <td class="name"><code>type</code></td>
             
 
             <td class="type">
@@ -204,16 +196,6 @@
             
             </td>
 
-            
-                <td class="attributes">
-                
-                    &lt;optional><br>
-                
-
-                
-
-                
-                </td>
             
 
             
@@ -259,7 +241,7 @@
     
     <dt class="tag-source">Source:</dt>
     <dd class="tag-source"><ul class="dummy"><li>
-        <a href="voyage.js.html">voyage.js</a>, <a href="voyage.js.html#line256">line 256</a>
+        <a href="voyage.js.html">voyage.js</a>, <a href="voyage.js.html#line185">line 185</a>
     </li></ul></dd>
     
 
@@ -289,16 +271,6 @@
         
 <div class="param-desc">
     <p>type or equality</p>
-<blockquote>
-<p>calculate a value</p>
-<p>if a is undefined or null the value is false</p>
-<p>otherwise it's typeof a</p>
-<p>if b is not given return the value</p>
-<p>if b is given as a string</p>
-<p>then return true if b is the same as the value</p>
-<p>if b is given as a function</p>
-<p>then return a instance of b</p>
-</blockquote>
 </div>
 
 
@@ -327,196 +299,13 @@
     
     <pre class="prettyprint"><code>check(undefined) //false
 check(null) //false
-check(undefined,false) //true
 check(undefined,"undefined") //false
 check(false) //"boolean"
-check(1,"number") //true
 check("number") //"string"
+check(123,"number") //true
 check([],Array) //true
 check([],"object") //true
 check([],"array") //false</code></pre>
-
-
-
-        
-            
-
-    
-
-    
-    <h4 class="name" id=".count"><span class="type-signature">(static) </span>count<span class="signature">(counter, key)</span><span class="type-signature"> &rarr; {number}</span></h4>
-    
-
-    
-
-
-
-<div class="description">
-    <p>count a key in a counter object</p>
-</div>
-
-
-
-
-
-
-
-
-
-    <h5>Parameters:</h5>
-    
-
-<table class="params">
-    <thead>
-    <tr>
-        
-        <th>Name</th>
-        
-
-        <th>Type</th>
-
-        
-
-        
-
-        <th class="last">Description</th>
-    </tr>
-    </thead>
-
-    <tbody>
-    
-
-        <tr>
-            
-                <td class="name"><code>counter</code></td>
-            
-
-            <td class="type">
-            
-                
-<span class="param-type">object</span>
-
-
-            
-            </td>
-
-            
-
-            
-
-            <td class="description last"><p>the counter object</p></td>
-        </tr>
-
-    
-
-        <tr>
-            
-                <td class="name"><code>key</code></td>
-            
-
-            <td class="type">
-            
-                
-<span class="param-type"><a href="global.html#Key">Key</a></span>
-
-
-            
-            </td>
-
-            
-
-            
-
-            <td class="description last"><p>the key to be counted</p></td>
-        </tr>
-
-    
-    </tbody>
-</table>
-
-
-
-
-
-
-<dl class="details">
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-    <dt class="tag-source">Source:</dt>
-    <dd class="tag-source"><ul class="dummy"><li>
-        <a href="voyage.js.html">voyage.js</a>, <a href="voyage.js.html#line440">line 440</a>
-    </li></ul></dd>
-    
-
-    
-
-    
-
-    
-</dl>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<h5>Returns:</h5>
-
-        
-<div class="param-desc">
-    <p>current value, the value before increment</p>
-</div>
-
-
-
-<dl>
-    <dt>
-        Type
-    </dt>
-    <dd>
-        
-<span class="param-type">number</span>
-
-
-    </dd>
-</dl>
-
-    
-
-
 
 
 
@@ -703,7 +492,7 @@ check([],"array") //false</code></pre>
     
     <dt class="tag-source">Source:</dt>
     <dd class="tag-source"><ul class="dummy"><li>
-        <a href="voyage.js.html">voyage.js</a>, <a href="voyage.js.html#line301">line 301</a>
+        <a href="voyage.js.html">voyage.js</a>, <a href="voyage.js.html#line214">line 214</a>
     </li></ul></dd>
     
 
@@ -776,7 +565,7 @@ each(20,10) //each(20,10,-1)</code></pre>
 
 
 <div class="description">
-    <p>check whether an object has certain key or an array has certain index</p>
+    <p>check if an object has certain key (own prop)</p>
 </div>
 
 
@@ -828,7 +617,7 @@ each(20,10) //each(20,10,-1)</code></pre>
 
             
 
-            <td class="description last"><p>the object or array</p></td>
+            <td class="description last"><p>the object</p></td>
         </tr>
 
     
@@ -851,7 +640,7 @@ each(20,10) //each(20,10,-1)</code></pre>
 
             
 
-            <td class="description last"><p>the key or index</p></td>
+            <td class="description last"><p>the key</p></td>
         </tr>
 
     
@@ -921,7 +710,7 @@ each(20,10) //each(20,10,-1)</code></pre>
 
         
 <div class="param-desc">
-    <p>whether the object has such key or the array has such index</p>
+    <p>whether the key exists</p>
 </div>
 
 
@@ -1082,7 +871,7 @@ each(20,10) //each(20,10,-1)</code></pre>
     
     <dt class="tag-source">Source:</dt>
     <dd class="tag-source"><ul class="dummy"><li>
-        <a href="voyage.js.html">voyage.js</a>, <a href="voyage.js.html#line150">line 150</a>
+        <a href="voyage.js.html">voyage.js</a>, <a href="voyage.js.html#line140">line 140</a>
     </li></ul></dd>
     
 
@@ -1159,6 +948,9 @@ init({foo:{abc:"xyz"}},{foo:"123"},["bar"]) //{foo:{abc:"xyz"},bar:[]}</code></p
 
 <div class="description">
     <p>strict equality test</p>
+<p>(why)</p>
+<p>i dont like === approach. but there are some issues related to ==.</p>
+<p>so i wrapped === in a fn.</p>
 </div>
 
 
@@ -1274,7 +1066,7 @@ init({foo:{abc:"xyz"}},{foo:"123"},["bar"]) //{foo:{abc:"xyz"},bar:[]}</code></p
     
     <dt class="tag-source">Source:</dt>
     <dd class="tag-source"><ul class="dummy"><li>
-        <a href="voyage.js.html">voyage.js</a>, <a href="voyage.js.html#line32">line 32</a>
+        <a href="voyage.js.html">voyage.js</a>, <a href="voyage.js.html#line39">line 39</a>
     </li></ul></dd>
     
 
@@ -1340,7 +1132,7 @@ init({foo:{abc:"xyz"}},{foo:"123"},["bar"]) //{foo:{abc:"xyz"},bar:[]}</code></p
 
 
 <div class="description">
-    <p>strict equality test</p>
+    <p>strict inequality test</p>
 </div>
 
 
@@ -1456,7 +1248,7 @@ init({foo:{abc:"xyz"}},{foo:"123"},["bar"]) //{foo:{abc:"xyz"},bar:[]}</code></p
     
     <dt class="tag-source">Source:</dt>
     <dd class="tag-source"><ul class="dummy"><li>
-        <a href="voyage.js.html">voyage.js</a>, <a href="voyage.js.html#line42">line 42</a>
+        <a href="voyage.js.html">voyage.js</a>, <a href="voyage.js.html#line49">line 49</a>
     </li></ul></dd>
     
 
@@ -1486,6 +1278,188 @@ init({foo:{abc:"xyz"}},{foo:"123"},["bar"]) //{foo:{abc:"xyz"},bar:[]}</code></p
         
 <div class="param-desc">
     <p>whether a is not equal to b</p>
+</div>
+
+
+
+<dl>
+    <dt>
+        Type
+    </dt>
+    <dd>
+        
+<span class="param-type">boolean</span>
+
+
+    </dd>
+</dl>
+
+    
+
+
+
+
+
+        
+            
+
+    
+
+    
+    <h4 class="name" id=".lacks"><span class="type-signature">(static) </span>lacks<span class="signature">(obj, key)</span><span class="type-signature"> &rarr; {boolean}</span></h4>
+    
+
+    
+
+
+
+<div class="description">
+    <p>check if an object lacks certain key (own prop)</p>
+</div>
+
+
+
+
+
+
+
+
+
+    <h5>Parameters:</h5>
+    
+
+<table class="params">
+    <thead>
+    <tr>
+        
+        <th>Name</th>
+        
+
+        <th>Type</th>
+
+        
+
+        
+
+        <th class="last">Description</th>
+    </tr>
+    </thead>
+
+    <tbody>
+    
+
+        <tr>
+            
+                <td class="name"><code>obj</code></td>
+            
+
+            <td class="type">
+            
+                
+<span class="param-type">object</span>
+
+
+            
+            </td>
+
+            
+
+            
+
+            <td class="description last"><p>the object</p></td>
+        </tr>
+
+    
+
+        <tr>
+            
+                <td class="name"><code>key</code></td>
+            
+
+            <td class="type">
+            
+                
+<span class="param-type"><a href="global.html#Key">Key</a></span>
+
+
+            
+            </td>
+
+            
+
+            
+
+            <td class="description last"><p>the key</p></td>
+        </tr>
+
+    
+    </tbody>
+</table>
+
+
+
+
+
+
+<dl class="details">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    <dt class="tag-source">Source:</dt>
+    <dd class="tag-source"><ul class="dummy"><li>
+        <a href="voyage.js.html">voyage.js</a>, <a href="voyage.js.html#line81">line 81</a>
+    </li></ul></dd>
+    
+
+    
+
+    
+
+    
+</dl>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h5>Returns:</h5>
+
+        
+<div class="param-desc">
+    <p>whether the key doesn't exist</p>
 </div>
 
 
@@ -1638,7 +1612,7 @@ init({foo:{abc:"xyz"}},{foo:"123"},["bar"]) //{foo:{abc:"xyz"},bar:[]}</code></p
     
     <dt class="tag-source">Source:</dt>
     <dd class="tag-source"><ul class="dummy"><li>
-        <a href="voyage.js.html">voyage.js</a>, <a href="voyage.js.html#line344">line 344</a>
+        <a href="voyage.js.html">voyage.js</a>, <a href="voyage.js.html#line257">line 257</a>
     </li></ul></dd>
     
 
@@ -1820,7 +1794,7 @@ init({foo:{abc:"xyz"}},{foo:"123"},["bar"]) //{foo:{abc:"xyz"},bar:[]}</code></p
     
     <dt class="tag-source">Source:</dt>
     <dd class="tag-source"><ul class="dummy"><li>
-        <a href="voyage.js.html">voyage.js</a>, <a href="voyage.js.html#line368">line 368</a>
+        <a href="voyage.js.html">voyage.js</a>, <a href="voyage.js.html#line281">line 281</a>
     </li></ul></dd>
     
 
@@ -1861,734 +1835,6 @@ init({foo:{abc:"xyz"}},{foo:"123"},["bar"]) //{foo:{abc:"xyz"},bar:[]}</code></p
     <dd>
         
 <span class="param-type">Array</span>
-
-
-    </dd>
-</dl>
-
-    
-
-
-
-
-
-        
-            
-
-    
-
-    
-    <h4 class="name" id=".reset"><span class="type-signature">(static) </span>reset<span class="signature">(counter, key)</span><span class="type-signature"> &rarr; {void}</span></h4>
-    
-
-    
-
-
-
-<div class="description">
-    <p>reset a key to 0 in a counter object</p>
-</div>
-
-
-
-
-
-
-
-
-
-    <h5>Parameters:</h5>
-    
-
-<table class="params">
-    <thead>
-    <tr>
-        
-        <th>Name</th>
-        
-
-        <th>Type</th>
-
-        
-
-        
-
-        <th class="last">Description</th>
-    </tr>
-    </thead>
-
-    <tbody>
-    
-
-        <tr>
-            
-                <td class="name"><code>counter</code></td>
-            
-
-            <td class="type">
-            
-                
-<span class="param-type">object</span>
-
-
-            
-            </td>
-
-            
-
-            
-
-            <td class="description last"><p>the counter object</p></td>
-        </tr>
-
-    
-
-        <tr>
-            
-                <td class="name"><code>key</code></td>
-            
-
-            <td class="type">
-            
-                
-<span class="param-type"><a href="global.html#Key">Key</a></span>
-
-
-            
-            </td>
-
-            
-
-            
-
-            <td class="description last"><p>the key to be reset</p></td>
-        </tr>
-
-    
-    </tbody>
-</table>
-
-
-
-
-
-
-<dl class="details">
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-    <dt class="tag-source">Source:</dt>
-    <dd class="tag-source"><ul class="dummy"><li>
-        <a href="voyage.js.html">voyage.js</a>, <a href="voyage.js.html#line430">line 430</a>
-    </li></ul></dd>
-    
-
-    
-
-    
-
-    
-</dl>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<h5>Returns:</h5>
-
-        
-
-
-<dl>
-    <dt>
-        Type
-    </dt>
-    <dd>
-        
-<span class="param-type">void</span>
-
-
-    </dd>
-</dl>
-
-    
-
-
-
-
-
-        
-            
-
-    
-
-    
-    <h4 class="name" id=".seek"><span class="type-signature">(static) </span>seek<span class="signature">(obj, path)</span><span class="type-signature"> &rarr; {<a href="global.html#SeekResult">SeekResult</a>|false}</span></h4>
-    
-
-    
-
-
-
-<div class="description">
-    <p>get a prop of an obj by its path</p>
-</div>
-
-
-
-
-
-
-
-
-
-    <h5>Parameters:</h5>
-    
-
-<table class="params">
-    <thead>
-    <tr>
-        
-        <th>Name</th>
-        
-
-        <th>Type</th>
-
-        
-
-        
-
-        <th class="last">Description</th>
-    </tr>
-    </thead>
-
-    <tbody>
-    
-
-        <tr>
-            
-                <td class="name"><code>obj</code></td>
-            
-
-            <td class="type">
-            
-                
-<span class="param-type">object</span>
-
-
-            
-            </td>
-
-            
-
-            
-
-            <td class="description last"><p>the object</p></td>
-        </tr>
-
-    
-
-        <tr>
-            
-                <td class="name"><code>path</code></td>
-            
-
-            <td class="type">
-            
-                
-<span class="param-type">Array.&lt;string></span>
-
-
-            
-            </td>
-
-            
-
-            
-
-            <td class="description last"><p>the path</p></td>
-        </tr>
-
-    
-    </tbody>
-</table>
-
-
-
-
-
-
-<dl class="details">
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-    <dt class="tag-source">Source:</dt>
-    <dd class="tag-source"><ul class="dummy"><li>
-        <a href="voyage.js.html">voyage.js</a>, <a href="voyage.js.html#line187">line 187</a>
-    </li></ul></dd>
-    
-
-    
-
-    
-
-    
-</dl>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<h5>Returns:</h5>
-
-        
-<div class="param-desc">
-    <p>an array containing the prop
-or false if the path doesnt exist</p>
-</div>
-
-
-
-<dl>
-    <dt>
-        Type
-    </dt>
-    <dd>
-        
-<span class="param-type"><a href="global.html#SeekResult">SeekResult</a></span>
-|
-
-<span class="param-type">false</span>
-
-
-    </dd>
-</dl>
-
-    
-
-
-
-
-
-        
-            
-
-    
-
-    
-    <h4 class="name" id=".set"><span class="type-signature">(static) </span>set<span class="signature">(value, obj, path)</span><span class="type-signature"> &rarr; {object}</span></h4>
-    
-
-    
-
-
-
-<div class="description">
-    <p>set a prop in an obj on a certain path</p>
-</div>
-
-
-
-
-
-
-
-
-
-    <h5>Parameters:</h5>
-    
-
-<table class="params">
-    <thead>
-    <tr>
-        
-        <th>Name</th>
-        
-
-        <th>Type</th>
-
-        
-
-        
-
-        <th class="last">Description</th>
-    </tr>
-    </thead>
-
-    <tbody>
-    
-
-        <tr>
-            
-                <td class="name"><code>value</code></td>
-            
-
-            <td class="type">
-            
-                
-<span class="param-type">*</span>
-
-
-            
-            </td>
-
-            
-
-            
-
-            <td class="description last"><p>the value to be set</p></td>
-        </tr>
-
-    
-
-        <tr>
-            
-                <td class="name"><code>obj</code></td>
-            
-
-            <td class="type">
-            
-                
-<span class="param-type">object</span>
-
-
-            
-            </td>
-
-            
-
-            
-
-            <td class="description last"><p>the object</p></td>
-        </tr>
-
-    
-
-        <tr>
-            
-                <td class="name"><code>path</code></td>
-            
-
-            <td class="type">
-            
-                
-<span class="param-type">Array.&lt;<a href="global.html#Key">Key</a>></span>
-
-
-            
-            </td>
-
-            
-
-            
-
-            <td class="description last"><p>the path in the object</p></td>
-        </tr>
-
-    
-    </tbody>
-</table>
-
-
-
-
-
-
-<dl class="details">
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-    <dt class="tag-source">Source:</dt>
-    <dd class="tag-source"><ul class="dummy"><li>
-        <a href="voyage.js.html">voyage.js</a>, <a href="voyage.js.html#line208">line 208</a>
-    </li></ul></dd>
-    
-
-    
-
-    
-
-    
-</dl>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<h5>Returns:</h5>
-
-        
-<div class="param-desc">
-    <p>the updated object</p>
-</div>
-
-
-
-<dl>
-    <dt>
-        Type
-    </dt>
-    <dd>
-        
-<span class="param-type">object</span>
-
-
-    </dd>
-</dl>
-
-    
-
-
-
-
-
-        
-            
-
-    
-
-    
-    <h4 class="name" id=".symbol"><span class="type-signature">(static) </span>symbol<span class="signature">(key)</span><span class="type-signature"> &rarr; {string}</span></h4>
-    
-
-    
-
-
-
-<div class="description">
-    <p>get unique identifier for each key. same key same identifier.</p>
-</div>
-
-
-
-
-
-
-
-
-
-    <h5>Parameters:</h5>
-    
-
-<table class="params">
-    <thead>
-    <tr>
-        
-        <th>Name</th>
-        
-
-        <th>Type</th>
-
-        
-
-        
-
-        <th class="last">Description</th>
-    </tr>
-    </thead>
-
-    <tbody>
-    
-
-        <tr>
-            
-                <td class="name"><code>key</code></td>
-            
-
-            <td class="type">
-            
-                
-<span class="param-type"><a href="global.html#Key">Key</a></span>
-
-
-            
-            </td>
-
-            
-
-            
-
-            <td class="description last"></td>
-        </tr>
-
-    
-    </tbody>
-</table>
-
-
-
-
-
-
-<dl class="details">
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-    <dt class="tag-source">Source:</dt>
-    <dd class="tag-source"><ul class="dummy"><li>
-        <a href="voyage.js.html">voyage.js</a>, <a href="voyage.js.html#line284">line 284</a>
-    </li></ul></dd>
-    
-
-    
-
-    
-
-    
-</dl>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<h5>Returns:</h5>
-
-        
-<div class="param-desc">
-    <p>hash+key</p>
-</div>
-
-
-
-<dl>
-    <dt>
-        Type
-    </dt>
-    <dd>
-        
-<span class="param-type">string</span>
 
 
     </dd>
@@ -2753,7 +1999,7 @@ or false if the path doesnt exist</p>
     
     <dt class="tag-source">Source:</dt>
     <dd class="tag-source"><ul class="dummy"><li>
-        <a href="voyage.js.html">voyage.js</a>, <a href="voyage.js.html#line398">line 398</a>
+        <a href="voyage.js.html">voyage.js</a>, <a href="voyage.js.html#line311">line 311</a>
     </li></ul></dd>
     
 
@@ -2819,8 +2065,8 @@ or false if the path doesnt exist</p>
 
 
 <div class="description">
-    <p>essential fn for functional programming.</p>
-<p>(the story of this fn:)</p>
+    <p>essential fn for functional programming</p>
+<p>(story)</p>
 <p>at first it's named &quot;include(constructor)&quot; which is a proxy</p>
 <p>very slow.</p>
 <p>now it even doesnt need to know what the constructor is.</p>
@@ -2919,7 +2165,7 @@ or false if the path doesnt exist</p>
     
     <dt class="tag-source">Source:</dt>
     <dd class="tag-source"><ul class="dummy"><li>
-        <a href="voyage.js.html">voyage.js</a>, <a href="voyage.js.html#line117">line 117</a>
+        <a href="voyage.js.html">voyage.js</a>, <a href="voyage.js.html#line107">line 107</a>
     </li></ul></dd>
     
 
@@ -2968,10 +2214,8 @@ or false if the path doesnt exist</p>
 
     <h5>Example</h5>
     
-    <pre class="prettyprint"><code>const {slice} = Array
-console.log(slice([1,2,3],0,2))
-//instead of
-console.log([1,2,3].slice(0,2))</code></pre>
+    <pre class="prettyprint"><code>const {slice} = use("slice")
+console.log(slice([1,2,3],0,2)) //console.log([1,2,3].slice(0,2))</code></pre>
 
 
 
@@ -2997,7 +2241,7 @@ console.log([1,2,3].slice(0,2))</code></pre>
 <br class="clear">
 
 <footer>
-    Documentation generated by <a href="https://github.com/jsdoc/jsdoc">JSDoc 4.0.4</a> on Fri Jan 17 2025 18:23:47 GMT+0800 (China Standard Time)
+    Documentation generated by <a href="https://github.com/jsdoc/jsdoc">JSDoc 4.0.4</a> on Thu Jan 30 2025 17:18:38 GMT+0800 (China Standard Time)
 </footer>
 
 <script> prettyPrint(); </script>

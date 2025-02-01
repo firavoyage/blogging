@@ -10901,3 +10901,145 @@ retro...
 about pure project wiki.
 
 maybe hg theme? looks great.
+
+upd weekly.
+
+17:47
+
+`weather` `sleep` `ref` `important`
+
+got up at 16:xx. slept about 11h.
+
+**fixed bedroom door. now it couldnt be forced opened through outside.**
+
+(can be still opened with special tool. hardly by hand.)
+
+**"The best time to plant a tree was 20 years ago.**
+
+**The second best time is now."**
+
+lipton black tea run out. new one arrived.
+
+mixue bubble tea arrived.
+
+watered my plant. alived over 5 years.
+
+**sync phone.**
+
+19:14
+
+`laughter`
+
+mice got into home. now they are fighting on the ceiling.
+
+yesterday one was caught on "mouse paper" trap.
+
+23:12
+
+`dev`
+
+writing voyagejs.
+
+some bug on vscode related to fold and expand code.
+
+fixed after removing and pasting on the original place
+
+## 20250127
+
+17:28
+
+`weather` `ref`
+
+回老家. 安徽. 安庆 (现铜陵).
+
+晚饭吃了. 很早吧.
+
+很多家人, 平时不见之人, 都与我有关.
+
+前些天在周边城市, 村镇中游玩. 是芜湖.
+
+去了方特乐园. 去爬山.
+
+## 20250128
+
+15:06
+
+`weather` `sleep` `ref` `important`
+
+这几天似乎都早睡早起.
+
+平时这个点, 或许在睡觉呢...
+
+("睡醒就开播, 别过少爷生活.")
+
+## 20250130
+
+17:32
+
+`dev`
+
+writing voyagejs...
+
+`weather` `ref` `important`
+
+明天早上就离开老家了. 
+
+一共在老家待了三天, 第一天晚上是春晚.
+
+(半夜很想开导呢! 性饥渴? 不过忘记到给谁了喵~)
+
+然后也没啥感受吧, 或许是
+
+- laptop
+- phone
+- earphone
+- charger
+
+都带来的缘故, 似乎和在家一样. 
+
+**无非日常琐碎会简陋些, 2333333.**
+
+老家的亲戚都见过了. 
+
+- 奶奶
+  - 一 (大姐, 年纪最大呢...)
+    - 一 (少女, "燕子", 护士) 一家人, 少年继承家业, 孩童读幼稚园. 不打游戏.
+    - 二 (少男, "胡健", "打工") 一家人, 少女开美甲店 (离异), 孩童读幼稚园.
+  - 二 (二姐 "姑姑")
+    - 一 (少女, "文琴", 读央财经济学, 入银行) 一人. 打一个 "种田" 休闲游戏.
+  - 三 ("为父者")
+    - 一 (f)
+    - 二 (少女)
+
+为父者, 与庭前, 鸡犬中闲聊. 那是他的世界啦...
+
+从前很兴奋, 很怀念, 因为老家是日常之外的新奇体验. 
+
+现在本不想回家, 但在最后一天想来, 缓缓的日子亦值得向往.
+
+**不过, 该启程了.**
+
+**f 从来没有喜欢过, 平淡, 平静的故土.**
+
+几天前在芜湖玩, 是小城镇 (三线城市). 
+
+在为父者看来, 那里, 教师, 警察, 医生... 地位最高了. 他认为多数是单职工家庭.
+
+很多这样的城镇, 被推荐为 fire 的好去处. 但那里至少通大路, 与农村相去甚远呢...
+
+233333333.
+
+upd 23:37
+
+为父者似乎很喜欢闲聊 ~~杂谈~~
+
+- 为父者
+- 姑姑
+- 文琴
+
+人生选择, 时代环境...
+
+似乎和 f 没啥关系 qwq
+
+休息会, 打游戏去...
+
