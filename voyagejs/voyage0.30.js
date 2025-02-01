@@ -2,12 +2,12 @@
  * @file
  * the script of voyage framework
  *
- * the current version released on
+ * the current version released on 20250201
  *
  * has been in development since 20250117 (utc+8)
  *
  * @author firavoyage
- * @version 0.31
+ * @version 0.30
  * @since 0.1 initiated on 20240806
  * @see changelog.md
  */
@@ -590,12 +590,6 @@ let voyage = {
     };
     return json(options);
   },
-  /**
-   *
-   * @param {voyageElement} element
-   * @returns {Node}
-   * @memberof voyage
-   */
   create(element) {
     const { call, bind } = voyage;
     const { check, use, has, init, is } = voyage.lib;
@@ -688,11 +682,6 @@ let voyage = {
     };
     return recursion(element);
   },
-  /**
-   * temporary fn for testing
-   * @param  {...any} options
-   * @returns {Node}
-   */
   c(...options) {
     const { compile, create } = voyage;
     return create(compile(...options));
@@ -847,9 +836,7 @@ let voyage = {
     let { macros } = voyage;
     macros[macro.name] = macro;
   },
-  defineStyle(styles, theme) {
-    
-  },
+  defineStyle(styles, theme) {},
   useTheme(theme) {},
   run(...options) {
     const { init } = voyage.lib;

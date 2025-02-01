@@ -11043,3 +11043,24 @@ upd 23:37
 
 休息会, 打游戏去...
 
+## 20250201
+
+20:15
+
+`dev`
+
+released voyagejs 0.30.
+
+still in dev. nothing special.
+
+(see changelog.md)
+
+`dev` `ref`
+
+mistral le chat new ui...
+
+the title becomes
+
+**le chat free**
+
+(maybe a pro version will be released at soon?)

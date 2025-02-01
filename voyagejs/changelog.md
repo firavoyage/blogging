@@ -9,6 +9,11 @@
 
 # issues
 
+- add more lang to compile fn
+  - `extension`
+  - `20250201`
+  - from various lang, not just json. for instance pug.
+  - compile fn can be used as tag fn.
 - single responsibility principle
   - remove excessive fn poly
   - split fn into smaller fn
@@ -188,7 +193,7 @@
   - voyage.component exists twice
   - the latter will take over the former
 
-## 0.29
+## 0.29 20250117
 
 - splitted the source and changelog
   - `docs` `important`
@@ -204,7 +209,7 @@
       - slice(arr,...args) // arr.slice(...args)
   - renamed "include" "use"
 
-## 0.30
+## 0.30 20250201
 
 - revised some words
   - `typo`
@@ -244,7 +249,7 @@
   - revised voyage.select fn
   - removed voyage.get (no reference or comment)
   - removed voyage.lookup (no reference or comment)
-- (wip) split compile and create fn
+- split compile and create fn
   - `refactor`
   - write compile fn for json
     - write a sub fn: recursion(...arr)
@@ -256,7 +261,7 @@
     - just use recursion. an element shouldnt be that large.
     - returns element {str type,obj labels,arr|str contents}
     - (upd: type can be function, as component)
-  - (wip) rewrite create fn
+  - rewrite create fn
     - write a sub fn recursion(element)
     - create a node of element.type
     - give it componentid.
@@ -265,10 +270,19 @@
     - otherwise iterate contents, recursion and appendChild.
     - just use recursion. an element shouldnt be that large.
     - returns node
-- (wip) add more lang to compile fn
-  - `extension`
-  - from various lang, not just json. for instance pug.
-  - compile fn can be used as tag fn.
+- rewrite c fn
+  - `test`
+  - create fn includes compile fn before, now doesn't
+  - so let c(...) equal to create(compile(...))
+  - to make the code work
+  - (this is a temp solution)
+
+## 0.31
+
+- more jsdoc comments
+  - `docs`
+  - not everywhere, just the newly added ones
+  - (eventually it will be completed.)
 - (wip) wrote styling feature like tailwind
   - `feature`
   - three fn. defineStyle(), defineTheme(), useTheme().
@@ -306,132 +320,8 @@ asked mistral le chat.
 
 > eg, i have a number(num) component, which is very simple. and i place number(1), number(2), number(1) in dom. will react call the component three times or twice?
 
-In React, if you render the same component with the same props multiple times, React will call the component function (or class) for each instance, even if the props are the same. This means that in your example, the `Number` component will be called three times, once for each instance: `Number(1)`, `Number(2)`, and `Number(1)`.
-
-Here's a simple example to illustrate this:
-
-```jsx
-import React from "react";
-
-const Number = ({ num }) => {
-  console.log(`Rendering Number with prop: ${num}`);
-  return <div>{num}</div>;
-};
-
-const App = () => {
-  return (
-    <div>
-      <Number num={1} />
-      <Number num={2} />
-      <Number num={1} />
-    </div>
-  );
-};
-
-export default App;
-```
-
-In this example, you will see the following output in the console:
-
-```
-Rendering Number with prop: 1
-Rendering Number with prop: 2
-Rendering Number with prop: 1
-```
-
-This shows that the `Number` component is called three times, once for each instance, even though `Number(1)` is rendered twice with the same prop.
-
-### Optimizing with `React.memo`
-
-If you want to optimize this and avoid re-rendering the component when the props haven't changed, you can use `React.memo`:
-
-```jsx
-import React from "react";
-
-const Number = React.memo(({ num }) => {
-  console.log(`Rendering Number with prop: ${num}`);
-  return <div>{num}</div>;
-});
-
-const App = () => {
-  return (
-    <div>
-      <Number num={1} />
-      <Number num={2} />
-      <Number num={1} />
-    </div>
-  );
-};
-
-export default App;
-```
-
-With `React.memo`, the component will only re-render if the props change. However, in this specific case, since the components are rendered initially and not re-rendered later, you will still see the component function called three times initially. `React.memo` is more useful for preventing re-renders on subsequent updates rather than initial renders.
-
-### Summary
-
-- By default, React will call the component function for each instance, even if the props are the same.
-- `React.memo` can be used to optimize and prevent re-renders on subsequent updates when the props haven't changed, but it won't affect the initial render count.
-
 > why still three times even with react.memo? i mean the first one and the third one have the same prop
 
-The behavior you're observing is due to how React handles the initial rendering of components. Even with `React.memo`, each instance of the component will be rendered initially because React needs to create the DOM elements and mount them. `React.memo` is primarily useful for preventing unnecessary re-renders during updates, not during the initial render.
+(ans omitted)
 
-Here's a more detailed explanation:
 
-1. **Initial Render**: During the initial render, React needs to create the DOM elements for each instance of the component. This means that even if the props are the same, React will call the component function for each instance to generate the initial DOM.
-
-2. **Subsequent Updates**: `React.memo` is effective during subsequent updates. If the props of a memoized component haven't changed, React will reuse the previous rendered output instead of calling the component function again.
-
-Let's illustrate this with an example:
-
-```jsx
-import React, { useState } from "react";
-
-const Number = React.memo(({ num }) => {
-  console.log(`Rendering Number with prop: ${num}`);
-  return <div>{num}</div>;
-});
-
-const App = () => {
-  const [count, setCount] = useState(0);
-
-  return (
-    <div>
-      <Number num={1} />
-      <Number num={2} />
-      <Number num={1} />
-      <button onClick={() => setCount(count + 1)}>Increment</button>
-      <p>Count: {count}</p>
-    </div>
-  );
-};
-
-export default App;
-```
-
-### Initial Render
-
-When the `App` component is first rendered, you will see the following output in the console:
-
-```
-Rendering Number with prop: 1
-Rendering Number with prop: 2
-Rendering Number with prop: 1
-```
-
-This is because React needs to create the DOM elements for each instance of the `Number` component.
-
-### Subsequent Updates
-
-If you click the "Increment" button, the `App` component will re-render, but the `Number` components will not re-render because their props haven't changed. You won't see any additional console logs for the `Number` components.
-
-### Why `React.memo` Doesn't Affect Initial Render
-
-`React.memo` works by performing a shallow comparison of the props. If the props haven't changed, React will reuse the previous rendered output. However, during the initial render, there is no previous rendered output to reuse, so React must call the component function for each instance to generate the initial DOM.
-
-### Summary
-
-- During the initial render, React will call the component function for each instance, even if the props are the same.
-- `React.memo` is effective during subsequent updates, preventing re-renders when the props haven't changed.
-- The initial render behavior is necessary for React to create the DOM elements and mount them.
