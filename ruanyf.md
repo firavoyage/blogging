@@ -2,39 +2,38 @@
 
 ## .
 
-$\text{reading all ruanyf weekly posts and took passages}$
+> reading [ruanyf weekly archive](https://www.ruanyifeng.com/blog/weekly/)
 
-- picked
+- taken
   - creative apps
-  - life quotes
   - startup stories
-  - design theory
+  - inspiring quotes
+  - design theorems
   - programming guides
-  - resources and libraries
+  - useful libraries
   - ...
 - ignored
-  - novel awkward hardwares
-  - biological or astronomical paper
-  - useless programming tools
   - business news
+  - useless stylish hardwares
+  - proof of concept tools
+  - biological & astronomical findings
   - ...
 
-$\text{tags used for seaching}$
+> tags for searching
 
-- tags
-  - guide
-  - theory
-  - retro
-  - library
-  - design
-  - quote
-  - story
-  - history
-  - view
-  - app
-  - concept
-  - ref
-  - ...
+- guide
+- theory
+- retro
+- library
+- design
+- quote
+- story
+- history
+- view
+- app
+- concept
+- ref
+- ...
 
 ## ruanyf weekly mission
 

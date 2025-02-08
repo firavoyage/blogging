@@ -327,12 +327,12 @@
 - sync
   - subscription
   - favlist (zhihu, berryberry)
-- spec
+- integration 
+  - trkr (github top 500 awesome list changes)
+- method
   - content fetcher web extension
   - using javascript selector
   - background sync
-- design
-  - mastodon
 - local based
   - read anywhere anytime
   - import and export

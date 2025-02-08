@@ -30,6 +30,8 @@
 - - lipton black tea
   - frey dark chocolate bars
   - lays classic potato chips
+  - kentucky fried chicken
+  - burger king
   - coca cola
   - bubble tea
   - egg waffle
@@ -37,7 +39,6 @@
   - dried mango
   - chenpi
   - huamei
-  - fast noodles
 - - johann sebastian bach
   - frédéric chopin
   - calendar & wall clock
@@ -209,7 +210,6 @@
   - an introduction to programming in wenyan language (huang lingdong)
   - how to ask questions the smart way (eric steven raymond)
   - mathematics (no 2 secondary school attached to east china normal university math group)
-  - shanghai senior high school grade 3 first mock exam english test papers (ministry of education)
   - federal plain language guidelines (united states government)
   - cut the knot: probability riddles (alexander bogomolny)
   - the scholars (wu jingzi)
@@ -258,16 +258,14 @@
 - - wikipedia & fandom & miraheze & moegirl.icu & wikipedian user pages
   - github & the pirate bay & z library & anna's archive
   - internet archive wayback machine & archive.today
-  - google & mistral le chat
+  - google & mistral le chat & deepseek
   - youtube & berryberry & niconico
   - bangumi.tv & mikan project & bgmlist & my anime list & dmhy.org
-  - old reddit & nga bbs & forum.gamer.com.tw & tumblr & 4chan
+  - old reddit & zhihu & nga bbs & forum.gamer.com.tw & tumblr & 4chan
   - hacker news & slashdot & ruanyf weekly & v2ex creative & product hunt
-  - codepen spark & css tricks & javascript weekly & mdn web docs
-  - zhihu & stack exchange & medium & substack & rebang
+  - codepen spark & css tricks & javascript weekly & mdn web docs & stack exchange
   - codeforces & atcoder & luogu & libre oj & vijos
   - cnblogs & luogu blog & travellings.cn & foreverblog.cn & travel.moe
-  - telegram & mastodon & twitter
   - douban book & goodread
   - douban movie & imdb
   - vndb & shinnku galgame
@@ -287,10 +285,11 @@
   - fu xuan
   - fuli the remembrance
   - gallagher
-  - ijn musashi
+  - ijn musashi (azur lane)
   - kaedehara kazuha
   - kagami hiiragi & tsukasa hiiragi
   - kagura mea
+  - karin (houkai gakuen second)
   - kasugano sora
   - ke qing
   - konata izumi & kanata izumi & sōjirō izumi
@@ -307,6 +306,7 @@
   - seele & bronya
   - silver wolf & kafka
   - sparkle
+  - theresa (houkai gakuen second)
   - xing qiu
 - - ubuntu yaru
   - google maia css & google reader
@@ -358,7 +358,6 @@
   - brad traversy & web dev & crash courses
   - bruno simon & web dev & threejs journey founding
   - cali castle & zolplay founding & game dev
-  - cao yunfan djhs
   - cao yunfan djhs & geography enthusiast
   - caspar david friedric & art & wanderer above the sea of fog
   - change release & mihoyo insane
@@ -367,9 +366,7 @@
   - chen shiyu djhs & 26 yo youth & chinese allusions & waifu daisuki
   - chen suiyi chenbimo & web dev
   - chen xiao & origami
-  - chen zhiwei ldhs djhs
   - chen zhiwei ldhs djhs & football clubmate
-  - chen zihao
   - chino moca qiront
   - chris coyier & codepen founding & css tricks editorial
   - claude monet & art
@@ -518,7 +515,7 @@
   - zhou ling djhs & kind class master
   - zhou xuanyi & debate
   - zhou yang & hopico music founding
-  - zhou zhiyuan djhs & japan culture
+  - zhou zhiyuan djhs & japanese culture
   - zhuo anyuan fusu & oi
 - - ubuntu 24.04
   - android 11

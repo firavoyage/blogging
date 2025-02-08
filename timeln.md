@@ -11055,6 +11055,10 @@ still in dev. nothing special.
 
 (see changelog.md)
 
+debugging...
+
+**array is not a type. it's an constructor. the type is object.**
+
 `dev` `ref`
 
 mistral le chat new ui...
@@ -11064,3 +11068,34 @@ the title becomes
 **le chat free**
 
 (maybe a pro version will be released at soon?)
+
+## 20250206
+
+21:55
+
+`weather`
+
+今天下午回家啦! 结束了春节旅途...
+
+`weather` `math` `ref` `important`
+
+实妹在做 "奥数教程: 五年级" (f 当年没做的题目...)
+
+问: $x = 1,2,3 mod 3,5,7. x \in [200,300]. solve x.$
+
+f:
+
+- crt from oi wiki (满足互质条件.)
+- solve (ax+b = cy+d, x,y in N+)
+
+定理: 贝祖定理.
+
+23333333.
+
+`dev`
+
+mistral le chat got up. icon changed.
+
+**mistral le chat pro was released. free plan limitation is unknown...**
+
+(but still "early adopter" after 1 yr)

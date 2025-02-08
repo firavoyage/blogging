@@ -282,7 +282,8 @@
 - more jsdoc comments
   - `docs`
   - not everywhere, just the newly added ones
-  - (eventually it will be completed.)
+  - stategy: first write comments, then write code.
+  - jsdoc includes: param returns examples
 - (wip) wrote styling feature like tailwind
   - `feature`
   - three fn. defineStyle(), defineTheme(), useTheme().
@@ -305,6 +306,9 @@
     - styles {"button":"rounded bg-blue-100", "button-inner":"..."}
     - reason: i prefer to use class as component name, not styles
   - useTheme(str theme) injects a theme to document head
+    - private fn compile(css)
+      - param list of str selector and obj properties (type: Css)
+      - returns str innerhtml of style element
     - style componentid="theme" @html=theme
     - theme is a global state
 

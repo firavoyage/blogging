@@ -67,6 +67,16 @@ team 3
 - herta (with paired lightcone the birth of the self)
 - the herta (with paired lightcone)
 
+upd 20250201
+
+**reached lv 70.**
+
+upd 20250207
+
+- bronya lightcone 30shots regular
+- bailu lightcone 0shots regular
+- silver wolf 50shots
+
 ## df
 
 > delta force
@@ -6461,4 +6471,17 @@ played df.
 - write voyagejs, 并不复杂
 - 赛季 3x3 不难, 做掉. 所谓一命通关, 开上去起五甲紫丹两把就搞定.
 
+## 20250204
+
+01:xx
+
+`ref` `important`
+
+played df.
+
+**300k ~ 330k 就能进绝密航天了. 两把 sr25, 加上配件.**
+
+找了许多固排...
+
+**出非洲之心了. 绝密航天蓝室核心.**
 

@@ -1648,7 +1648,7 @@ f 是这样认为的. (至此.)
 
 ## call me as i like
 
-20250201026
+202502010026
 
 `ref` `important`
 
@@ -1661,3 +1661,20 @@ ano...
 所以... fira 就用 f 代之吧!
 
 2333333.
+
+## a player on earth online
+
+`ref` `important`
+
+202502061829
+
+"f 上大专也很好呢..."
+
+fira is but a player on earth online.
+
+## berryberry anti acg movement
+
+20250206
+
+拜年祭 -> -纪
+音乐姬 -> -机

@@ -847,10 +847,23 @@ let voyage = {
     let { macros } = voyage;
     macros[macro.name] = macro;
   },
-  defineStyle(styles, theme) {
-    
+  /**
+   *
+   * @param {*} styles
+   * @param {*} theme
+   */
+  defineStyle(styles, theme) {},
+  defineTheme(options) {},
+  /**
+   * 
+   * @param {string} theme - the name of the theme
+   * @returns {true}
+   */
+  useTheme(theme) {
+    const { compile } = { compile(css) {
+
+    } };
   },
-  useTheme(theme) {},
   run(...options) {
     const { init } = voyage.lib;
     const { c } = voyage;
