@@ -770,22 +770,6 @@ https://www.processon.com/
 
 免费在线作图，可以实时协作。ProcessOn 支持流程图、思维导图、原型图、UML、网络拓扑图、组织结构图等。（@wuzhenda\_ \_投稿）
 
-## the pros of javascript are also cons quote
-
-JavaScript 的优点是可以写任何东西，缺点是你真的会用它去写这些东西。
-
--- Reg Braithwaite
-
-https://twitter.com/CodeWisdom/status/1054713299386986496
-
-## behind the rise of housing prices quote
-
-房价不断上涨的前提是不断有新人加入，他们愿意并且能够支付越来越高的房价。房价上涨的本质是，年轻人愿意把自己的财富转移给老年人，当这些年轻人变老时，再有新的年轻人愿意给他们更多的钱。
-
--- 《住房不是一项好的投资》
-
-http://cityobservatory.org/housing-cant-be-affordable_and_be-a-good-investment/
-
 ## when programmers should consider retirement view
 
 计算机科学家 Tim Bray 最近写了一篇博客，他觉得自己可能应该退休了。

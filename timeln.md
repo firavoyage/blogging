@@ -11099,3 +11099,25 @@ mistral le chat got up. icon changed.
 **mistral le chat pro was released. free plan limitation is unknown...**
 
 (but still "early adopter" after 1 yr)
+
+## 20250211
+
+03:17
+
+`writing` `dev` `ref`
+
+reading ruanyf weekly...
+
+removed this.
+
+收集的时候, 觉得很厉害的话. 后来觉得造作, 无意义的...
+
+---
+
+JavaScript 的优点是可以写任何东西，缺点是你真的会用它去写这些东西。
+
+-- Reg Braithwaite
+
+https://twitter.com/CodeWisdom/status/1054713299386986496
+
+

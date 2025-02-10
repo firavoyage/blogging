@@ -102,7 +102,6 @@
   - the legend of 1900 (1998)
   - les misérables (2012)
   - 5 centimeters per second (2007)
-  - the great learning (2021)
   - g for gap (2024)
   - the last dance (2024)
   - castle in the sky (1986)
@@ -119,9 +118,9 @@
   - lucky star (2007)
   - evangelion (1995)
   - .sword art online (2012)
+  - .date a live (2013)
   - .the melancholy of haruhi suzumiya (2006)
   - .the disappearance of haruhi suzumiya (2010)
-  - .date a live (2013)
   - .a certain scientific railgun (2009)
   - .re: zero - starting life in another world (2016)
   - .tonikawa: over the moon for you (2020)
@@ -179,12 +178,12 @@
   - .pico park (2019)
   - .fly me 2 the moon (2011)
   - .needy streamer overload (2022)
-  - .aquarium (2023)
   - .yosuga no sora (2008)
   - .riddle joker (2020)
   - .wonderful everyday (2010)
   - .doki doki literature club! (2017)
 - - to live (yu hua)
+  - one hundred years of solitude (gabriel garcía márquez)
   - road ahead (ruanyf)
   - the water level of ideology (liu yu)
   - meditations on life (zhou guoping)
@@ -194,32 +193,20 @@
   - a long gaze (long yingtai)
   - hackers and painters (paulg)
   - metaphors we live by (george lakoff & mark johnson)
-  - one hundred years of solitude (gabriel garcía márquez)
   - javascript: the good parts (douglas crockford)
   - javascript: the definitive guide seventh edition (david flanagan)
   - c++ primer fifth edition (barbara e. moo & josée lajoie & stanley b. lippman)
   - c++ primer plus sixth edition (stephen prata)
-  - react learn docs (react commutity)
-  - refactoring ui (adam wathan & steve schoger)
+  - react learn docs (react community)
   - stack overflow documentation (goalkicker books)
-  - gnome human interface guidelines (gnome community)
-  - clean code (robert c. martin)
+  - refactoring ui (adam wathan & steve schoger)
   - hello algo (krahets)
   - competitive programmers' handbook (antti laaksonen)
   - oi wiki (oi wiki community)
   - integer overflow: the development, prosperity and decline of olympics in informatics (xu xiling)
-  - an introduction to programming in wenyan language (huang lingdong)
-  - how to ask questions the smart way (eric steven raymond)
-  - mathematics (no 2 secondary school attached to east china normal university math group)
-  - federal plain language guidelines (united states government)
   - cut the knot: probability riddles (alexander bogomolny)
   - the scholars (wu jingzi)
-  - nineteen eighty-four (george orwell)
-  - party (han han)
   - what i have seen (chai jing)
-  - the chameleon (anton chekhov)
-  - rashomon (ryunosuke akutagawa)
-  - waiting for godot (samuel beckett)
   - .godel, escher, bach (douglas hofstadter)
   - .shakespeare's sonnets (william shakespeare)
   - .over autumn rooftops (hai zi)
@@ -228,18 +215,12 @@
   - .fortress besieged (qian zhongshu)
   - .pride and prejudice (jane austen)
   - .if on a winter's night a traveler (italo calvino)
-  - .the moon and sixpence (william somerset maugham)
-  - .story of your life (novella by ted chiang)
-  - .country driving (peter hessler)
   - .jin ping mei (lanling xiaoxiao sheng)
-  - .the wisdom of life (schopenhauer)
   - .tao te ching (laozi)
   - .the holy bible (king james version)
   - .remarks on the song lyric and the human condition (wang guowei)
   - .the literary mind and the carving of dragons (liu xie)
   - .the smiling, proud wanderer (jin yong)
-  - .demi-gods and semi-devils (jin yong)
-  - .the heaven sword and dragon saber (jin yong)
 - - anyway.fm (jj ying & leon gao)
   - beyond code (randy lu & geek plux)
   - fyfy.fm (justin yan & hzlzh)
@@ -274,41 +255,19 @@
   - steam db & google doodles & itch.io & textadventures.co.uk
   - google fonts & genius & poetry foundation
   - unsplash & pixiv & deviantart & dribbble
-  - hugging face & kaggle
-- - acheron
-  - adventurine
+- - acheron (honkai star rail)
   - akira kogami
-  - asta & herta & screwllum
-  - bessie & farmer john
-  - black swan
+  - asta & herta (honkai star rail)
   - chtholly
-  - clara
-  - fu xuan
-  - fuli the remembrance
-  - gallagher
   - ijn musashi (azur lane)
-  - kaedehara kazuha
-  - kagami hiiragi & tsukasa hiiragi
-  - kagura mea
+  - kagura mea & minato aqua & yuuki sakuna
   - karin (houkai gakuen second)
   - kasugano sora
-  - ke qing
-  - konata izumi & kanata izumi & sōjirō izumi
-  - minato aqua & yuuki sakuna
-  - misha & mikhail the watchmaker
-  - miyuki takara
-  - nahida
-  - nanako kuroi
-  - necora nyaru
-  - numby & topaz
-  - origami birds
-  - ruan mei & snack life
-  - rubert the emperor
-  - seele & bronya
-  - silver wolf & kafka
-  - sparkle
+  - konata izumi & kagami hiiragi & tsukasa hiiragi & miyuki takara
+  - nahida (genshin impact)
+  - origami birds (honkai star rail)
+  - sparkle (honkai star rail)
   - theresa (houkai gakuen second)
-  - xing qiu
 - - ubuntu yaru
   - google maia css & google reader
   - wikipedia vector-2022
