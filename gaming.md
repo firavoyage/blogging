@@ -27,6 +27,8 @@ stories from jun 6 2024.
 - - bronya 50shots newbie
   - bronya 80shots regular
   - himeko lightcone 70shots regular
+  - bronya lightcone 30shots regular
+  - bailu lightcone 0shot regular
 - - fuxuan 30shots
   - sparkle 20shots
   - gepard lightcone 70shots
@@ -38,6 +40,7 @@ stories from jun 6 2024.
   - welt 0shot
   - the herta 80 shots
   - the herta lightcone 70 shots
+  - silver wolf 40shots
 
 today is 20241117
 
@@ -73,9 +76,7 @@ upd 20250201
 
 upd 20250207
 
-- bronya lightcone 30shots regular
-- bailu lightcone 0shots regular
-- silver wolf 50shots
+had some warp. (two lightcone & silver wolf)
 
 ## df
 
@@ -6493,7 +6494,7 @@ played df.
 
 played df.
 
-**reached 73m at 33h, lv55.**
+**reached 75m at 33h, lv55.**
 
 出火箭燃料了. 30h.
 
@@ -6502,3 +6503,15 @@ played df.
 仓库全是大红. 占满三个中级藏品箱, 还不止.
 
 **great game.**
+
+## 20250209
+
+04:xx
+
+played df.
+
+**reached 85m at 37h, lv56.**
+
+四个小时, 多了一个中级藏品箱的大红...
+
+补偿机制是对的! 23333333.

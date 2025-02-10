@@ -41,3 +41,11 @@ wikipedia 是由爱好者共建的.
 但其内容应该源于 wiki, 而非反之 (wiki 从中受教).
 
 而 wiki 也可以链接之, 但不应以盈利为目的.
+
+upd 20250209
+
+> hs wiki for introverts
+
+
+
+

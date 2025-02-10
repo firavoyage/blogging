@@ -69,6 +69,7 @@
   - the girl who fell from the sky (joe hisaishi)
   - the name of life (joe hisaishi)
   - dry hands (c418)
+  - shopsation (houkai gakuen second & hoyo-mix)
   - the legend of zelda: ocarina of time title theme (koji kondo)
   - angry birds theme (ari pulkkinen)
   - caresse sur l'océan (bruno coulais & les petits chanteurs de saint-marc)
@@ -255,22 +256,22 @@
   - web worker (xinbao & lv777 & pakchoi & kaiyi & smart)
   - yitianshijie (li ruyi)
   - yixi (yixi)
-- - wikipedia & fandom & miraheze & moegirl.icu & wikipedian user pages
+- - wikipedia & fandom & miraheze & moegirl.icu & mdn web docs
   - github & the pirate bay & z library & anna's archive
   - internet archive wayback machine & archive.today
   - google & mistral le chat & deepseek
   - youtube & berryberry & niconico
   - bangumi.tv & mikan project & bgmlist & my anime list & dmhy.org
-  - old reddit & zhihu & nga bbs & forum.gamer.com.tw & tumblr & 4chan
+  - old reddit & zhihu & stack exchange & nga bbs & forum.gamer.com.tw & tumblr
   - hacker news & slashdot & ruanyf weekly & v2ex creative & product hunt
-  - codepen spark & css tricks & javascript weekly & mdn web docs & stack exchange
+  - codepen spark & css tricks & javascript weekly
   - codeforces & atcoder & luogu & libre oj & vijos
   - cnblogs & luogu blog & travellings.cn & foreverblog.cn & travel.moe
   - douban book & goodread
   - douban movie & imdb
   - vndb & shinnku galgame
   - javbus & missav & e hentai
-  - google doodles & itch.io matrix67 & steam db
+  - steam db & google doodles & itch.io & textadventures.co.uk
   - google fonts & genius & poetry foundation
   - unsplash & pixiv & deviantart & dribbble
   - hugging face & kaggle
@@ -344,6 +345,7 @@
   - resource han rounded
   - roboto
   - ubuntu sans
+  - xiaolai
   - zhi mang xing
 - - adhesion tek & retro tech & abstract internet culture
   - ahbei & douban founding
