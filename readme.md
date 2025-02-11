@@ -163,7 +163,6 @@
   - .earth online (.)
   - .the legend of zelda: tears of the kingdom (2023)
   - .the legend of zelda: breath of the wild (2017)
-  - .the legend of zelda: ocarina of time (1998)
   - .hollow knight (2017)
   - .celeste (2018)
   - .astro bot (2024)
@@ -242,47 +241,28 @@
   - internet archive wayback machine & archive.today
   - google & mistral le chat & deepseek
   - youtube & berryberry & niconico
-  - bangumi.tv & mikan project & bgmlist & my anime list & dmhy.org
   - old reddit & zhihu & stack exchange & nga bbs & forum.gamer.com.tw & tumblr
+  - bangumi.tv & my anime list & mikan project & bgmlist & dmhy.org
   - hacker news & slashdot & ruanyf weekly & v2ex creative & product hunt
   - codepen spark & css tricks & javascript weekly
   - codeforces & atcoder & luogu & libre oj & vijos
-  - cnblogs & luogu blog & travellings.cn & foreverblog.cn & travel.moe
+  - google reader & cnblogs & travellings.cn & foreverblog.cn & travel.moe
   - douban book & goodread
   - douban movie & imdb
   - vndb & shinnku galgame
   - javbus & missav & e hentai
   - steam db & google doodles & itch.io & textadventures.co.uk
-  - google fonts & genius & poetry foundation
+  - genius & poetry foundation
   - unsplash & pixiv & deviantart & dribbble
-- - acheron (honkai star rail)
-  - akira kogami
-  - asta & herta (honkai star rail)
-  - chtholly
-  - ijn musashi (azur lane)
-  - kagura mea & minato aqua & yuuki sakuna
-  - karin (houkai gakuen second)
-  - kasugano sora
-  - konata izumi & kagami hiiragi & tsukasa hiiragi & miyuki takara
-  - nahida (genshin impact)
-  - origami birds (honkai star rail)
-  - sparkle (honkai star rail)
-  - theresa (houkai gakuen second)
 - - ubuntu yaru
-  - google maia css & google reader
-  - wikipedia vector-2022
-  - hacker news
+  - material design 2 & material design 3
+  - iphone os 6
+  - oxygen os 11
   - dracula theme
   - nord theme
   - monokai pro
   - atom one dark
-  - chromium just black
-  - material design 2
-  - material design 3 & material you
-  - iphone os 6
-  - smartisan os 8
-  - oxygen os 11
-  - color os 11
+  - just black chromium
 - - ar pl ukai
   - dejavu serif
   - fira code
