@@ -10352,3 +10352,371 @@ print(traffic_light.get_state())  # Output: Red
 ```
 
 This example demonstrates a simple state machine for a traffic light with three states and transitions between them.
+
+## js framework
+
+`dev` `js` `ref` `important`
+
+> $\to gemini \space 2.0 \space flash \space thinking \space experimental$
+
+> write js framework like react and vue
+
+Okay, let's dive into creating a conceptual JavaScript framework inspired by React and Vue, but in a simplified form to demonstrate the core principles. We'll call it **"Rivulet.js"**.
+
+**Conceptual Goals for Rivulet.js:**
+
+- **Component-Based:** Break down the UI into reusable components.
+- **Declarative Rendering:** Describe _what_ the UI should look like based on data, not _how_ to manipulate the DOM directly.
+- **Reactive Data:** Changes in data automatically update the UI.
+- **Virtual DOM (Simplified):** For efficient updates, though we'll keep this conceptually lighter than a full Virtual DOM in this example.
+- **Simple and Understandable:** Focus on the core ideas, not production-ready features.
+
+**Core Concepts We'll Implement:**
+
+1.  **Components:** Functions that return a description of the UI (like JSX in React or templates in Vue).
+2.  **State Management:** A simple way for components to manage their own data that triggers re-renders when changed.
+3.  **Rendering Mechanism:** A function that takes a component and mounts it into the DOM, handling initial render and updates.
+4.  **Basic Event Handling:** For user interactions.
+
+**Let's build Rivulet.js step by step:**
+
+**1. `defineComponent` Function:**
+
+This function will be used to create components. Components are essentially functions that return a UI description.
+
+```javascript
+function defineComponent(renderFn) {
+  return renderFn; // For simplicity, just return the render function itself
+}
+```
+
+**2. `useState` Hook (Simplified Reactive State):**
+
+We need a way for components to manage state and trigger re-renders when that state changes. We'll create a simplified `useState`-like hook.
+
+```javascript
+function useState(initialValue) {
+  let _value = initialValue; // Private value storage
+
+  const getValue = () => _value;
+  const setValue = (newValue) => {
+    _value = newValue;
+    // **Crucially, we need to trigger a re-render here when state changes**
+    // We'll implement the re-render mechanism later in `renderComponent`
+    if (currentComponent) {
+      // `currentComponent` will be set during rendering
+      renderComponent(currentComponent);
+    }
+  };
+
+  return [getValue, setValue];
+}
+
+// Keep track of the component currently being rendered for useState to work
+let currentComponent = null;
+```
+
+**3. `renderComponent` Function (The Rendering Engine):**
+
+This function takes a component (which is a render function from `defineComponent`) and handles rendering or re-rendering it into a container in the DOM.
+
+```javascript
+function renderComponent(componentFn) {
+  currentComponent = componentFn; // Set the context for useState
+
+  const container = componentFn.__container; // We'll store the container on the component
+
+  // Get the UI description from the component's render function
+  const uiDescription = componentFn(); // Call the component function to get UI
+
+  // **Simplified DOM Update (No Virtual DOM in this example)**
+  // For simplicity, we'll just replace the entire content of the container.
+  // In a real framework, you'd use a Virtual DOM for efficient updates.
+  container.innerHTML = uiDescription;
+
+  currentComponent = null; // Clear context after rendering
+}
+```
+
+**4. `render` Function (Mounting the Application):**
+
+This is the entry point to mount your Rivulet.js application.
+
+```javascript
+function render(componentFn, container) {
+  componentFn.__container = container; // Store the container for the component
+  renderComponent(componentFn); // Initial render
+}
+```
+
+**5. Basic Templating (HTML Strings for Simplicity):**
+
+For this example, we'll use simple HTML strings within our components. In a more advanced framework, you'd use JSX-like syntax or template literals with tagged functions for better developer experience and potential optimizations.
+
+**Example Component using Rivulet.js:**
+
+Let's create a simple counter component:
+
+```javascript
+const CounterComponent = defineComponent(() => {
+  const [count, setCount] = useState(0);
+
+  const increment = () => {
+    setCount(count() + 1); // Call count() to get the current reactive value
+  };
+
+  const decrement = () => {
+    setCount(count() - 1);
+  };
+
+  return `
+    <div>
+      <p>Count: ${count()}</p>
+      <button onclick="${increment}">Increment</button>
+      <button onclick="${decrement}">Decrement</button>
+    </div>
+  `;
+});
+```
+
+**Usage in HTML:**
+
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Rivulet.js Example</title>
+  </head>
+  <body>
+    <div id="app"></div>
+    <script>
+      // Rivulet.js framework code (from above - defineComponent, useState, renderComponent, render)
+      function defineComponent(renderFn) {
+        /* ... (code from step 1) ... */ return renderFn;
+      }
+      function useState(initialValue) {
+        /* ... (code from step 2) ... */ let _value = initialValue; /* ... */
+      }
+      let currentComponent = null;
+      function renderComponent(componentFn) {
+        /* ... (code from step 3) ... */ currentComponent =
+          componentFn; /* ... */
+      }
+      function render(componentFn, container) {
+        /* ... (code from step 4) ... */ componentFn.__container =
+          container; /* ... */
+      }
+
+      // CounterComponent (from above)
+      const CounterComponent = defineComponent(() => {
+        /* ... (component code from example) ... */
+        const [count, setCount] = useState(0);
+
+        const increment = () => {
+          setCount(count() + 1);
+        };
+
+        const decrement = () => {
+          setCount(count() - 1);
+        };
+
+        return `
+        <div>
+          <p>Count: ${count()}</p>
+          <button onclick="${increment}">Increment</button>
+          <button onclick="${decrement}">Decrement</button>
+        </div>
+      `;
+      });
+
+      // Mount the application
+      render(CounterComponent, document.getElementById("app"));
+    </script>
+  </body>
+</html>
+```
+
+**Explanation:**
+
+1.  **`defineComponent`**: Wraps our component logic. For now, it's very basic.
+2.  **`useState`**: Provides reactive state. When `setValue` is called, it triggers a re-render of the component. We're using closures to keep the state private and associated with the component.
+3.  **`renderComponent`**: Takes a component, executes its render function to get the UI description, and updates the DOM. It also sets the `currentComponent` context so `useState` knows which component to re-render.
+4.  **`render`**: Mounts the entire application by calling `renderComponent` for the root component.
+5.  **Component Example**: `CounterComponent` uses `useState` to manage the count and HTML strings for the UI. `onclick` attributes are used to directly call the `increment` and `decrement` functions.
+
+**Limitations and Further Improvements (Roadmap for a Real Framework):**
+
+- **Very Basic DOM Updates:** We are simply replacing `innerHTML`. A real framework needs a **Virtual DOM** and efficient DOM diffing algorithms to update only what's changed.
+- **No Virtual DOM:** Our "Virtual DOM" is conceptual. We're not implementing a real one with diffing and patching.
+- **String-Based Templates:** Using HTML strings is not ideal for complex UIs. A **JSX-like syntax** (processed by Babel) or **template literals with tagged functions** (like Lit-html) would be better.
+- **Event Handling**: Our event handling (`onclick="..."`) is very basic. A more robust framework would use **synthetic events** for consistency and performance.
+- **Props and Component Communication:** We haven't implemented props (passing data from parent to child components) or more complex component communication patterns.
+- **Lifecycle Hooks:** React and Vue have lifecycle methods (e.g., `componentDidMount`, `mounted`). Rivulet.js lacks these.
+- **Component Composition:** We haven't explicitly shown how to compose components (nest components within each other) in this simplified example, but it's a core concept.
+- **Performance Optimizations:** A real framework would have many performance optimizations, including memoization, batching updates, etc.
+- **Routing, State Management Libraries, Ecosystem:** Frameworks like React and Vue have vast ecosystems with routing libraries, state management solutions (Redux, Vuex, Pinia), and more. Rivulet.js is just the rendering core.
+
+**Conclusion:**
+
+This "Rivulet.js" is a highly simplified demonstration. It captures the core ideas of component-based, declarative, and reactive UI frameworks. Building a production-ready framework like React or Vue is a significantly more complex undertaking, involving handling all the limitations listed above, performance considerations, developer experience, and building a robust ecosystem. However, this example gives you a foundational understanding of the underlying principles at play.
+
+## regular expression guide
+
+`dev` `ref` `important`
+
+> $\to deepseek \space r1$
+
+> regular expression guide
+
+**Regular Expression (Regex) Quick Guide**  
+A regex is a sequence of characters defining a search pattern. Use it for text validation, extraction, or replacement.
+
+---
+
+### **1. Basic Syntax**
+
+| **Element** | **Description**                    | **Example**                 |
+| ----------- | ---------------------------------- | --------------------------- |
+| `a`         | Match literal "a"                  | `a` → "a" in "cat"          |
+| `.`         | Match any character (except \n)    | `c.t` → "cat", "cot"        |
+| `\d`        | Digit (0-9)                        | `\d\d` → "42" in "a42"      |
+| `\w`        | Word character (a-z, A-Z, 0-9, \_) | `\w+` → "Hello123"          |
+| `\s`        | Whitespace (space, tab, newline)   | `\s+` → " "                 |
+| `[abc]`     | Match any of a, b, or c            | `[aeiou]` → "e" in "hello"  |
+| `[^abc]`    | Match anything **not** a, b, or c  | `[^0-9]` → "a" in "3a"      |
+| `^`         | Start of string                    | `^Hello` → "Hello" at start |
+| `$`         | End of string                      | `world$` → "world" at end   |
+
+---
+
+### **2. Quantifiers**
+
+| **Quantifier**      | **Description**           | **Example**                                  |
+| ------------------- | ------------------------- | -------------------------------------------- |
+| `*`                 | 0 or more times           | `a*` → "", "a", "aaa"                        |
+| `+`                 | 1 or more times           | `\d+` → "1", "123"                           |
+| `?`                 | 0 or 1 time (optional)    | `colou?r` → "color", "colour"                |
+| `{n}`               | Exactly `n` times         | `a{3}` → "aaa"                               |
+| `{n,}`              | `n` or more times         | `\d{2,}` → "12", "123"                       |
+| `{n,m}`             | Between `n` and `m` times | `a{2,4}` → "aa", "aaaa"                      |
+| **Greedy vs. Lazy** | Add `?` for lazy matching | `.*?` matches as few characters as possible. |
+
+---
+
+### **3. Groups & Lookarounds**
+
+| **Pattern** | **Description**     | **Example**                     |
+| ----------- | ------------------- | ------------------------------- | ---- | --------------------- |
+| `(abc)`     | Capture group       | `(ab)+` → "abab" in "abab123"   |
+| `(?:abc)`   | Non-capturing group | `(?:ab)+` → "abab" (no capture) |
+| `           | `                   | Alternation (OR)                | `cat | dog` → "cat" or "dog" |
+| `(?=abc)`   | Positive lookahead  | `a(?=b)` → "a" before "b"       |
+| `(?!abc)`   | Negative lookahead  | `a(?!b)` → "a" not before "b"   |
+| `(?<=abc)`  | Positive lookbehind | `(?<=a)b` → "b" after "a"       |
+| `(?<!abc)`  | Negative lookbehind | `(?<!a)b` → "b" not after "a"   |
+
+---
+
+### **4. Special Characters**
+
+- Escape metacharacters with `\`: `\.`, `\*`, `\$`, etc.
+- **Anchors**: `^` (start), `$` (end), `\b` (word boundary).
+  - `\bword\b` → "word" as a whole word.
+
+---
+
+### **5. Flags**
+
+Modify regex behavior with flags:
+
+- `i`: Case-insensitive (`/hello/i` → "HELLO").
+- `g`: Global (find all matches).
+- `m`: Multiline (^ and $ match start/end of lines).
+
+---
+
+### **6. Common Use Cases**
+
+1. **Email Validation**:  
+   `^[\w\.-]+@[\w-]+\.\w{2,3}(\.\w{2,3})?$`  
+   Matches: `user.name@example.com`
+
+2. **Phone Number (US)**:  
+   `^\+1-\d{3}-\d{3}-\d{4}$`  
+   Matches: `+1-555-123-4567`
+
+3. **URL Extraction**:  
+   `https?://(?:www\.)?\w+\.\w{2,}`  
+   Matches: `https://www.example.com`
+
+4. **Date (YYYY-MM-DD)**:  
+   `^\d{4}-(0[1-9]|1[0-2])-(0[1-9]|[12]\d|3[01])$`  
+   Matches: `2023-09-15`
+
+---
+
+### **7. Tools & Tips**
+
+- **Test Regex**: Use online tools like [RegExr](https://regexr.com) or [Regex101](https://regex101.com).
+- **Performance**: Avoid catastrophic backtracking (e.g., nested quantifiers).
+- **Readability**: Use comments with `(?#comment)` or split into parts.
+
+---
+
+**Quick Reference Table**  
+| **Pattern** | **Matches** |  
+|-------------|----------------------|  
+| `\d` | Digit |  
+| `\D` | Non-digit |  
+| `\s` | Whitespace |  
+| `\S` | Non-whitespace |  
+| `\n` | Newline |  
+| `\t` | Tab |
+
+---
+
+**Example: Extract Hashtags**
+
+```regex
+# Match hashtags like #regex
+\B#\w+\b
+```
+
+- `\B` ensures `#` isn't part of another word (e.g., `#regex` in `hello#regex`).
+
+---
+
+Regex mastery requires practice! Start with simple patterns and test often. 🚀
+
+## shanghai housing price history
+
+`society` `ref` `important`
+
+> $\to deepseek \space r1$
+
+> shanghai huangpu district house price per sq m from 2000 to 2020
+
+The housing prices in Shanghai's Huangpu District (黄浦区) from 2000 to 2020 reflect broader trends in Shanghai’s real estate market, though direct district-specific data for this period is limited in the search results. Below is a synthesized analysis based on available contextual information:
+
+### Key Observations:
+
+1. **Pre-2010 Trends**  
+   While no explicit Huangpu District data is available for the early 2000s, Shanghai’s average housing price in **2010** was reported at **19,168 yuan per square meter**, ranking third nationally after Hangzhou and Beijing. Huangpu, as a central district, likely exceeded this average due to its prime location.
+
+2. **2016–2017 Surge**  
+   By **2016**, new homes inside Shanghai’s Inner Ring Road (including Huangpu) averaged **87,426 yuan per square meter**, a 21% annual increase from 2015. This highlights Huangpu’s premium status as part of the city’s core commercial and residential zone.
+
+3. **2020 Market Adjustments**  
+   In early **2020**, Shanghai’s citywide average new home price dropped to **54,616 yuan per square meter** due to increased sales of medium-to-low-end properties. However, Huangpu’s prices likely remained higher than the city average, given its consistent positioning as a high-end market.
+
+### Supporting Context:
+
+- **Comparative Analysis**: In 2010, Shanghai’s prices were already criticized for exceeding U.S. averages (8,000 yuan/sq m) when adjusted for building area differences. Huangpu’s centrality and commercial appeal would have amplified this disparity.
+- **Policy Impact**: Government measures, such as land-use reclassification (e.g., Xiaomi’s 2021 plot in Xuhui District later rezoned for residential use), influenced adjacent high-value areas like Huangpu by driving competition among developers.
+
+### Challenges in Data Accuracy:
+
+- Limited district-specific historical data requires reliance on citywide averages and proxy indicators (e.g., Inner Ring Road pricing).
+- Market polarization, as seen in 2024 auctions (e.g., record bids in Xuhui District), underscores Huangpu’s enduring premium status despite broader fluctuations.
+
+For precise Huangpu District figures, official municipal archives or real estate databases would provide more granular data.

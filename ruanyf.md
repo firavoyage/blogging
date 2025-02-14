@@ -26,11 +26,16 @@
 - `js` frameworks
 - `algorithms` steps of math calculation
 - `library` resources
+- `info` collections
 - `guide` tutorials
+- `review` analyses
 - `app` creators and viewers
+- `image` stylers
+- `feed` trackers
 - `game` diversions
 - `retro` good old days
 - `design` beauties
+- `art` opuses
 - `theory` insights
 - `quote` aftertastes
 - `meme` posts
@@ -431,7 +436,7 @@ https://www.toptal.com/designers/ui/button-design-dribbble-timeline
 
 ## geometry background image creator for social sharing
 
-`app`
+`app` `image`
 
 Cool Backgrounds
 
@@ -468,7 +473,7 @@ https://heraclosgame.com/
 
 ## google reader web app copy
 
-`app` `retro` `design` `ref`
+`app` `feed` `retro` `design` `ref`
 
 Google Reader 怀旧版
 
@@ -500,7 +505,7 @@ Twitter 和 Facebook
 
 ## full featured image editor using web canvas
 
-`app` `ref`
+`app` `image` `ref`
 
 tui.image-editor
 
@@ -654,7 +659,7 @@ https://www.webdesignmuseum.org/apps
 
 ## hand drawn style data visualization in 1985
 
-`retro` `meme`
+`retro` `design` `meme`
 
 1985 年的数据可视化
 
@@ -666,7 +671,7 @@ https://medium.economist.com/data-visualisation-from-1987-to-today-65d0609c6017
 
 ## code to image creator for social sharing
 
-`app`
+`app` `image` `dev`
 
 Carbon
 
@@ -760,7 +765,7 @@ https://github.com/leonardomso/33-js-concepts
 
 ## mindmap editor on web
 
-`app`
+`app` `image`
 
 Process On
 
@@ -770,48 +775,19 @@ https://www.processon.com/
 
 免费在线作图，可以实时协作。ProcessOn 支持流程图、思维导图、原型图、UML、网络拓扑图、组织结构图等。（@wuzhenda\_ \_投稿）
 
-## when programmers should consider retirement view
+## bus waiting paradox
 
-计算机科学家 Tim Bray 最近写了一篇博客，他觉得自己可能应该退休了。
-
-https://www.tbray.org/ongoing/When/201x/2018/10/25/On-Retirement
-
-他列出了下面几个理由。
-
-1、好多个早晨，我想继续睡觉，而不是起床。
-
-2、就算起床，我想做的第一件事，是去看新闻，而不是去工作。
-
-3、夏天到了，我想待在自己的度假小屋。
-
-4、工作时，我的强度依然很大，不比年青时差太多。但是，结束工作以后，我感到极累，有时候连说话的力气也没有。
-
-5、我越来越想做一些自己感兴趣的东西。它们肯定不会带来钱，但我毫不在意。
-
-我觉得，这几个特征也许可以作为测试标准，如果你也满足这几点，可能也到了应该考虑退休，去干一点其他事情的时候了。
-
-说到退休，这个问题对于程序员尤其有现实意义。因为程序员的退休年龄要早于其他行业，可能早早就会满足上面特征。
-
-为什么程序员退休比较早？原因很简单，程序员的工作强度大，技术更新快，几乎不可能像公务员那样，轻松悠闲得熬到六十几岁退休。程序员其实也是机器，而且是"被操得很猛"的机器。机器都有报废年限，一旦折旧完了，就要报废。使用强度越大，折旧越快，报废越早。普通汽车的折旧年限一般是十年，长途汽车的折旧年限就短得多。为什么很少看到高龄程序员，因为他们都被用到报废了。
-
-年轻程序员应该对自己的人生有一个规划。你的编程技能具有经济价值的年限是很短的，不可能一直在第一线编程的。折旧差不多以后，你的人生角色就会发生变化，应该多想想下一步要做的事情。
-
-## bus station waiting time survey fault view
+`theory` `meme`
 
 等待时间悖论（英文）
 
 http://jakevdp.github.io/blog/2018/09/13/waiting-time-paradox/
 
-公共汽车的间隔时间为 10 分钟，那么平均等待时间应该为 5 分钟，但是如果进行抽样，你会发现抽样得到的平均时间为 10 分钟，这是为什么？简单说，原因就是等待时
-间越长的人，越容易被抽样到。
+公共汽车的间隔时间为 10 分钟，那么平均等待时间应该为 5 分钟，但是如果进行抽样，你会发现抽样得到的平均时间为 10 分钟，这是为什么？简单说，原因就是等待时间越长的人，越容易被抽样到。
 
-## american freelancer stats
+## oi wiki
 
-美国的自由职业者达到 5760 万，三个劳动力里面就有一个自由职业者。技术使得找工作变得更容易，64％的自由职业者在网上找工作。
-
-https://www.upwork.com/press/2018/10/31/freelancing-in-america-2018/
-
-## oi wiki guide library
+`algorithms` `library` `guide`
 
 OI-wiki
 
@@ -819,23 +795,9 @@ https://github.com/24OI/OI-wiki
 
 收集编程竞赛的基础知识、常见题型、解题思路以及常用工具等内容。
 
-## crash course education library
+## buying time makes the best use of money
 
-crushcourse.club
-
-https://crashcourse.club/category
-
-Crash Course 是一个 Youtube 的教育频道。B 站上面有很多翻译小组。他们组成了一个联盟防止翻译重复，并提供了索引。（@showerc 投稿）
-
-## morning writing quote
-
-许多有名的作家，都是每天早上安排 3-4 小时的写作，一天的其余时间进行散步、通信、午睡和其他智力要求较低的活动。
-
---《早晨写作》
-
-https://www.gwern.net/Morning-writing
-
-## money is of best use to buy time quote theory
+`career` `view`
 
 金钱最有价值的用途就是购买时间。
 
@@ -848,27 +810,15 @@ https://news.ycombinator.com/item?id=18373002
 First, realize that you're probably making at least double the median US income. If you have a house with no loan and that income, you're doing way, way, way better than average.
 I see two possible paths forward.
 
-The less likely is to read and internalize http://www.mrmoneymustache.com/2012/01/13/the-shockingly-sim... and realize how quickly you can reach financial independence at a reduced spending level (but one that still affords an amazing life). Buying time is the most valuable use of money, IMO.
+The less likely is to read and internalize https://www.mrmoneymustache.com/2012/01/13/the-shockingly-simple-math-behind-early-retirement/ and realize how quickly you can reach financial independence at a reduced spending level (but one that still affords an amazing life). Buying time is the most valuable use of money, IMO.
 
 The second is to stay miserable for a while, striving for something ambiguous yet out of reach, until you get older and this feeling fades.
 
 Path #1 (or a variant) is probably healthier and happier.
 
-## two people and a swimming pool artwork
+## opensource photoshop on web
 
-大卫·霍克尼（David Hockney）1972 年的油画《两个人的游泳池》，11 月 15 日拍卖出了 9030 万美元，创下了还活着的艺术家的最高价格。
-
-http://www.latimes.com/la-et-em-david-hockney-painting-20181116-story.html
-
-## horizonal kanban ui design
-
-水平看板（英文）
-
-http://philippe.bourgau.net/vertical-kanban-board-setup/
-
-看板（kanban）是管理 issue 的流行方式，一般的看板是垂直的。本文提出，这是因为日本文字是直排的，而看板是日本人发明的，西方文字是横排的，所以看板应该改成水平。
-
-## photoshop web app
+`app` `image`
 
 Photopea
 
@@ -876,43 +826,9 @@ https://www.photopea.com/
 
 在线图像编辑器，免费，可以替代 PhotoShop 的一部分功能。
 
-## benefits of british measurement system story
+## graphgl is applying sql on json
 
-英制度量衡的便利之处
-
-https://news.ycombinator.com/item?id=18473014
-
-英美使用英制度量衡，而不是公制度量衡。这种度量衡有它的便利之处。
-
-首先，英制度量衡采用十二进制。1 英尺等于 12 英寸。十二进制的方便在于，它可以很容易地四等分、三等分和二等分；十进制只能二等分。另外，1 英寸（2.54 厘米）大约等于成人大拇指的宽度，用起来也非常方便。
-
-其次，表示温度的华氏度比摄氏度更便于使用。100 华氏度（37.8 摄氏度）等于人的体温。所以，0 华氏度（-17.8 摄氏度）表示非常冷的天气，100 华氏度表示很热的天气，50 华氏度表示需要穿毛衣的天气。另外，水在 212°F 沸腾，在 32°F 时结冰，之间有 180 度，又是一个 12 的倍数。
-
-## silicon valley salary decrease story
-
-除了软件工程师，加州的工资都在下降
-
-https://www.mercurynews.com/2018/11/18/silicon-valley-wages-have-dropped-for-all-except-highest-paying-jobs-report/
-
-美国的经济正处在繁荣期，失业率是多年来最低的。但是很难相信，除了软件工程师，加州其他工作岗位的工资竟然不如 1997 年的水平。一项研究发现，调整通货膨胀以后，过去 20 年，软件工程师的工资增长了 32%，而普通加州人的工资下降了 12％～ 14％。那些低收入和中等收入工作的工人，比如教师和消防员，保姆和厨师，工资都在下降。
-
-不仅工资水平在下降，而且低工资工人的比例在过去 20 年增长了 25％。中高薪的工作岗位越来越少。
-
-但是，过去 20 年加州的 GDP 一直在快速增长，人均 GDP 增加了 74％。比全国速度快了五倍多。这表明绝大多数财富都没有落入工人的口袋，谷歌和 Facebook 这样的大型科技公司在市场中占据主导地位，它们将更多的收入分配给投资者和一些顶级员工。
-
-经济学家认为，加州经济不是沙漏型（两端大，中间小），而是正从梨型（下面大，上面小）变成图钉型：顶部在萎缩，底部在膨胀。
-
-## pink color prison lowered violence rate story
-
-贝克米勒粉红色
-
-https://en.wikipedia.org/wiki/Baker-Miller_pink
-
-1979 年，美国西雅图的海军监狱需要油漆房间。监狱的两位所长贝克和米勒，咨询心理学家亚历山大·绍斯（Alexander Schauss）。后者根据自己的研究，建议将监狱墙壁油漆为粉红色（#FF91AF），这种颜色有助于减少暴力和攻击。
-
-监狱采纳了他的建议。因此，这种粉红色后来就被称为"贝克米勒粉红色"。根据海军后来的研究，这种颜色确实降低了监狱内的暴力行为。
-
-## the essense of graphql quote
+`dev` `meme`
 
 GraphQL 的本质是程序员想对 JSON 使用 SQL。
 
@@ -920,27 +836,9 @@ GraphQL 的本质是程序员想对 JSON 使用 SQL。
 
 https://twitter.com/kellabyte/status/1059970357430341632
 
-## employers steal employees quote
+## the new gmail with redundant code and bad performance
 
-2012 年，美国的盗窃案总金额是 3.4 亿美元，但是同年雇员投诉雇主克扣工资、加班费短缺，并补发成功的总金额是 9.3 亿美元。雇主偷窃员工应得工资的现象非常普遍。
-
--- 《工资偷窃是最大的偷窃》
-
-https://www.epi.org/publication/wage-theft-bigger-problem-forms-theft-workers/
-
-## solitude renaissance story
-
-媒体报道，50 岁以上的日本男性每四人就有一人独自生活，女性每七人就有一人独自生活。由于独居人口越来越多，日本开始推出"一人份"的服务，专门针对独自一人就餐、娱乐、旅行的消费者。
-
-经营卡拉 OK 连锁店的"腰高公司"6 年前注意到，三成顾客独自来唱歌。公司于是推出"1 卡拉"包厢，专供独自唱歌的消费者使用，相当受消费者欢迎。日本一些电影院、拉面馆和主题公园也纷纷推出带隔板的单人座位，确保独自前来的消费者"个人空间"不受打扰。
-
-可能有人看了上面的报道，会觉得这表示日本人很孤独。可是，我觉得"一人份"难道不是未来的趋势吗？人类以前没有这种条件，享受一个人的自由，现在互联网科技终于让我们可以一个人行动了。
-
-以前，无论做什么，你都必须与其他人互动。现在不用了，互联网大大减轻了我们对他人的依赖：购物也好，娱乐也好，办事也好，手机点几下就可以了......至于孤独，这其实跟你是否一个人无关，有时候你待在人群里，也会感到强烈的孤独。科技使得普通人也有了独自行动的自由，即使远离人群，也能随时跟他人保持联系。
-
-以后，"一人份"服务可能会越来越多，反倒是我们自己，太习惯了跟他人待在一起，忘了大多数事情你都可以一个人去做。
-
-## redesigned gmail web app ui,programs seem awkward story
+`dev` `review`
 
 新版 Gmail 代码一瞥（英文）
 
@@ -948,23 +846,9 @@ https://medium.com/@boriscoder/peeking-under-the-hood-of-redesigned-gmail-dd84b5
 
 新版的 Gmail 用谷歌自家的 Lighthouse 评估性能，100 分里面只得了 2 分。下载的脚本有 6MB，完全渲染需要 9 秒，其中一半代码可能根本用不到。有人分析了代码，发现过时的早期代码都还在。猜测由于过于复杂，现有团队可能没有能力升级底层，只做了一些样式的更新。
 
-## minimalist programmer statement web app
-
-极简主义软件工程师宣言（英文）
-
-http://minifesto.org/
-
-作者解释了什么是极简主义的态度开发软件。
-
-## state of javascript 2018 story
-
-2018 年 JavaScript 开发者调查（英文）
-
-https://2018.stateofjs.com/
-
-2018 年 JS 开发者的调查报告，主要是各种框架、工具的使用情况。
-
 ## javascript transcompiling languages library
+
+`js` `info`
 
 可以编译成 JS 的语言列表
 
@@ -972,31 +856,9 @@ https://github.com/jashkenas/coffeescript/wiki/List-of-languages-that-compile-to
 
 许多语言可以编译成 JavaScript，从而在浏览器运行，这张列表收集所有已经有编译工具的语言。提醒，这是一张很长的列表。
 
-## influencers advertising industry history
+## behind a popular decorative painting of ikea
 
-网红经济
-
-https://www.wired.com/story/pricey-war-influence-your-instagram-feed/
-
-2017 年，洛蒂开了一家假睫毛公司。一位懂行的投资者跟她说，产品质量不重要，客户满意度也不重要，重要的是对消费者有影响力的网红，她应该付钱请 YouTube 和 Instagram 的网红谈论她的假睫毛。
-
-洛蒂认为这个建议太夸张了，那些网红并不便宜，每人要收费 5 万到 7 万美元。这对创业公司来说是一大笔钱，而这些钱只是为了让那些网红的粉丝听到她公司的名字。她觉得不太值得，就没有支付。
-
-但是，后来她发现，她太天真了，网红是推广新产品唯一有效的方法，没有办法绕过它。
-
-网红是社交媒体上面有影响力的人。他们的影响力远远超出了人们的想象，很多行业的营销人员都发现网红能够带动销售。随着公司对社交媒体广告的热情，网红营销已经发展成为一个价值数十亿美元的行业。许多用户不会将网红视为付费代言人或销售人员，而是把他们当作值得信赖的专家或朋友。这就是为什么品牌愿意花这么多钱，以换取 Instagram 上面的曝光。
-
-品牌通常会花费超过 60,000 美元换取一条社交媒体的视频介绍，或者 85,000 美元换取一次公开贬低竞争对手的产品。曝光不限于直接评论，还包括网红将产品放在他们的桌子上，或者放在他们后面的布景里面，任何可以巧妙地在屏幕上显示几秒钟的地方，都可以用来做广告。
-
-桑德斯·肯尼迪是一个受欢迎的 YouTuber，拥有超过 20 万名订阅者。他接受了几千美元，条件是拍摄时将特定的饮料留在他的桌子上。他不知道这个品牌，但是助理告诉他，只需要确保饮料出现在桌上就可以了，并且不需要提到这个品牌。
-
-对于带有产品的单张照片，Instagram 有百万粉丝的网红起价为 10,000 美元。YouTube 更贵，拥有 300 万订阅者的内容创建者通常每个视频收费至少 40,000 美元。如果该公司希望 YouTuber 对竞争对手的产品进行负面评价，则需要额外花费 10,000 美元到 30,000 美元以上。当然，费率随着网红的追随者数量而增加。
-
-网红的报价有不断上涨的趋势。2016 年顶级网红的收费大约是 5,000 到 10,000 美元，现在他们的报价可能会"超过 100,000 美元"。
-
-很多网红并没有披露，他们收到了赞助，发布的内容实际是推销。美国联邦贸易委员会提出，如果网红已收到了任何东西 - 无论是现金，免费产品还是其他东西 - 可能影响观众看待他们提及的品牌或产品，他们就必须披露。
-
-## ikea decorative painting story
+`story`
 
 一张宜家装饰画的故事
 
@@ -1010,7 +872,7 @@ https://petapixel.com/2018/11/20/the-story-behind-that-ikea-photo-of-amsterdam/
 
 宜家网站显示，这张照片的作者是费尔南多（Fernando Bengoechea）。我查了这个摄影师，很不幸，他在 2004 年印度洋大海啸期间失踪了。然后，我设法联系了他的兄弟马塞洛，了解到失踪时他是纽约市最好的摄影师之一，曾为杂志工作。他走遍了世界各地，拍摄各种主题。
 
-马塞洛把我介绍给室内设计师 Nate Berkus，他是费尔南多当时的男朋友，海啸期间，他们在一起。Berkus 说，这张照片是费尔南多为前男友阿夫卡米（ Ahmad Sardar Afkami）拍的。他把阿夫卡米的联系方式给了我，那是一位纽约的建筑师。
+马塞洛把我介绍给室内设计师 Nate Berkus，他是费尔南多当时的男朋友，海啸期间，他们在一起。Berkus 说，这张照片是费尔南多为前男友阿夫卡米（Ahmad Sardar Afkami）拍的。他把阿夫卡米的联系方式给了我，那是一位纽约的建筑师。
 
 阿夫卡米回忆道，这张照片是在 1999 年 3 月拍摄的。他们一起去荷兰旅行，但是途中发生了争吵，费尔南多一人在阿姆斯特丹的街头散心，随手拍了一些照片，用它们向阿夫卡米道歉。
 
@@ -1018,29 +880,17 @@ https://petapixel.com/2018/11/20/the-story-behind-that-ikea-photo-of-amsterdam/
 
 最后，我找到了宜家瑞典总部的装饰画部门的负责人。我问他为什么选择这张照片，他说他们最主要考虑的是价格，这张照片非常非常便宜，这就是他们选择它的原因。
 
-## toilet foot-lifting chair story
+## things are always being complained about once they gain popularity
 
-Squatty Potty
-
-https://www.theguardian.com/news/2018/nov/30/bowel-movement-change-the-way-you-poo-squatty-potty-toilet
-
-2011 年，Squatty Potty 作为新发明，进入美国市场。它是一款 7 英寸高的塑料凳子，让你坐在马桶上大便的时候，双脚踩在上面，使得你的膝盖高于臀部，更接近人类原始的排泄姿势。
-
-据说，这种姿势可以展开你的结肠，加快排便过程，减轻腹胀，减少便秘和痔疮的发病。这款产品的美国销售量已经超过了 500 万个。
-
-## the language you love is the language you complain about quote
+`dev` `quote`
 
 只有两种计算机语言：一种是人们不停抱怨的语言，另一种是没人用的语言。
 
 -- C++ 之父 Bjarne Stroustrup
 
-## life as a program quote
+## programmers surplus concern
 
-每个人的一生就是一次程序运行。
-
--- 某网友的 ID
-
-## programmers over crowded history
+`dev` `career` `history`
 
 美国一个编程培训班的老板，写了一篇文章。他说自己很担忧。现在，那么多人学习编程，他的公司全靠培训赚钱，将来会不会程序员过剩？
 
@@ -1056,17 +906,9 @@ https://www.forbes.com/sites/rajatbhageria/2017/09/10/is-learning-how-to-code-st
 
 由于其他行业不景气，大量年轻人正在转向软件业就业。但是，程序员的淘汰也很厉害，上车的人多，下车的人也多。大家应该对这一点有清醒的认识。
 
-## indie game soli dev succeed story
+## game background patterns in 80s
 
-一个人如何开发游戏《星露谷》（英文）
-
-https://www.gq.com/story/stardew-valley-eric-barone-profile
-
-畅销游戏《星露谷》（Stardew Valley）作者只有一个人埃里克·巴罗恩，从编码到美术音乐都靠自己。大学毕业后，他没找工作，而是待在公寓写了四年游戏。唯一收入是晚上打工，在电影院门口收电影票。
-
-上线前，唯一测试就是女朋友玩了几天。如果卖不出去（绝大多数游戏的结局），四年就浪费了，幸好成功了。不过，这个游戏借鉴了任天堂的《牧场物语》，有人认为他抄袭了。
-
-## retro game background images
+`retro` `design` `art`
 
 80 年代的游戏背景图案
 
@@ -1074,7 +916,9 @@ https://vgdensetsu.tumblr.com/post/179656817318/designing-2d-graphics-in-the-jap
 
 上个世纪 80 年代，电脑游戏的图案一般先是手绘，然后再用数字转换仪转成像素图。
 
-## sunlight sending app story
+## the sunlight sharing project
+
+`story` `meme`
 
 2006 年，两名美国学生完成了一个名为"发送阳光"的项目。如果手机发现，你的朋友在天气不好的地方，而你在天气很好的地方，那么手机就会提示你，拍一张照片发送给朋友，让他们振作起来。
 
@@ -1084,7 +928,9 @@ https://vgdensetsu.tumblr.com/post/179656817318/designing-2d-graphics-in-the-jap
 
 https://www.1843magazine.com/features/the-scientists-who-make-apps-addictive
 
-## everyone is a reader retro history
+## the time when everyone reads
+
+`retro` `history`
 
 前些日子，武侠小说泰斗金庸先生去世了。
 
@@ -1098,297 +944,9 @@ https://www.1843magazine.com/features/the-scientists-who-make-apps-addictive
 
 通过小说对一代人产生影响，这种事情可能永久地结束了。以后，对一代人有影响的可能将是某个游戏、某个视频节目、某个网红。
 
-## english grammar decoding guide theory
+## categorized sites for programmers
 
-解密英语语法 （中文）
-
-http://www.yinwang.org/blog-cn/2018/11/23/grammar
-
-王垠老师的《解密计算机科学》还没写完，又开始写第二本书《解密英语语法》。发布第一章以后，第二天他又把这个计划取消了，"我曾经想过把这写成一本完整的语法书，可是后来发现似乎一篇文章足矣。"（@wblovezqy\_ \_投稿）
-
----
-
-### 解谜英语语法
-
-我发现很多人仍然在为语法的枯燥繁琐而头痛。市面上好像不存在一本深入本质的语法教材。语法对于我来说已经早就不是问题，所以我萌生了写这样一篇文章的念头，帮助那些正在为学习语法而痛苦挣扎的人们。
-
-这篇文章里包含了一些我自己保留多年的关于英语学习的秘密。我曾经想过把这写成一本完整的语法书，可是后来发现似乎一篇文章足矣。
-
-### 句子的核心地位
-
-直到几百年前，各个不同大陆上的人还从来没见过面，他们的语言里却不约而同出现了同样的结构：句子。这似乎说明句子的出现是一种自然规律，必然结果，而不只是巧合。
-
-句子是人类语言最核心的构造。为什么呢？因为人和人说话终究是为了一个目的：描述一件事。
-
-这件事也许只有一个字：吃！
-
-也许可以很长：昨天晚上在上海某路边餐厅吃的**鹅肝**，**是**我吃遍全世界**最好的**。
-
-一个句子表达的就是一件事，或者叫一个"事件"。人与人交流，无非就是讲述一个个的事件。
-
-许多人学英语，一来就背单词，背了很多单词，仍然写不出像样的句子来。只见树木不见森林，因为他们没有意识到句子才是最关键的部分。我们应该一开头就理解句子是什么，如何造出句子，而不是背单词。单词是树木，句子才是森林。
-
-### 你需要的能力
-
-所以掌握一门语言，基本就是要掌握句子。有了句子就有了一切。
-
-掌握句子包括两种能力：
-
-1. 能够迅速地**造出**正确的句子，准确地**表达**自己的意思。
-2. 能够迅速地**分析**别人的句子，准确地**理解**别人的意思。
-
-这两件事，一个是表达（发送），一个是理解（接收）。因为语言是沟通（或者叫"通讯"）的工具，所以它就只包含这两件事。
-
-### 句子的本质
-
-假设我们是原始人，还没有语言。我想告诉同伴"我吃苹果"这件事，该怎么表达呢？没有语言，那我可以先画个图嘛：
-
-![](http://www.yinwang.org/images/i-eat-apple.png)
-
-画图是很麻烦的，笔画太多不说，还可能有歧义。到后来，部落里的人聪明了一点，发明了"符号"这种东西，只需要几笔就能表示一个概念。他们给事物起了简单的符号名字，不再需要画图了。于是我们有了 I, apple 这样的词用来指代事物。有了 eat 这样的词，用来代表动作。所以画面变成这个样子：
-
-![](http://www.yinwang.org/images/i-eat-apple-symbol.png)
-
-后来干脆连框也不画了，直接写出这些符号来，这就是我们现在看到的"句子"：
-
-> I eat apples.
-
-注意，虽然没有了上面的框图，这句话其实隐含了这幅图。写这个句子的人假设阅读者能够从一串**符号**还原出一个**画面**（或者叫结构）来。
-
-有些人不能理解别人的话，看书看不懂，就是没能从符号还原出结构来。很多语法书列举出千奇百怪的"组合情况"，为的只是帮助你从这串符号还原出结构来。在现代语言学和计算机科学里面，这个过程就叫做"语法分析"（parsing）。
-
-### 动词是句子的核心
-
-那么，你觉得"我吃苹果"这个事，里面最关键的部分是什么呢？是"我"，"苹果"，还是"吃"呢？
-
-稍微想一下，你也许会发现，关键在于"吃"这个动作。因为那是我和苹果之间发生的**事件**。这句话是说"吃"这件事，而"我"或者"苹果"，只是"吃"的组成部分。
-
-用 eat 这个词，你不但可以表达"我吃苹果"，还可以表达"他吃面条"，"猫吃老鼠"之类的很多事情。于是，聪明一点的人就把 eat 这个词提取出来，做成一个"模板"：
-
-![](http://www.yinwang.org/images/eat-verb.png)
-
-这个模板就是所谓"动词"。eat 这个动词给你留下两个空，填进去之后，左边的东西吃右边的。
-
-句子是语言的核心，而动词就是句子的核心。动词是事件的关键，比如 eat。
-
-> A eat B.
-
-我们可以选择空格里的 A 或者 B 是什么。但不管怎么换，事情仍然是"吃"。为了描述方便，我们把 A 和 B 这两个空格叫做**参数**（parameter）。
-
-这跟数学函数的参数（f(x) 里面那个 x）类似，也跟程序函数的参数类似。用数学或者程序的方式来表示这个句子，就是这样：
-
-> eat(A, B)
-
-其中 A 和 B，是动作 eat 的参数。我只是打个比方帮助你理解，当然我们不会这样写英语。如果你完全不懂数学或者编程，可以忽略这个比方。
-
-动词决定了它可以有几个参数，它们可以在什么位置，参数可以是什么种类的成分。比如 eat，它可以有两个参数。这两个参数只能是某种"物体"。你不能放另一个动作（比如 walk）进去，也不能放一个形容词（比如 red）进去。这种动词对参数的约束，叫做参数的"类型"。
-
-在这个例子里，eat 可以接受两个"名词"（noun），所以它的两个参数，类型都是 noun。
-
-你可能注意到了，I eat apples 里面的"I"并不是名词，而是"代词"。我解释一下。我这里所说的"名词"，是泛指一切物体以及指代物体的名字。所以我叫做"名词"的东西，也包括了代词，比如 I, you, he, she, it。如果你回想一下代词的英文是 pronoun，就会意识到它和名词（noun）之间的关系。
-
-![](http://www.yinwang.org/images/pronoun-def.png)
-
-你会发现这种扩展的"名词"，会大大方便我们的理解。在本书中除非特别指明，所谓"名词"包括了代词，以及一切可以被作为名词使用的结构（比如从句，动名词）。
-
-一个句子除了动词，好像就只剩下动词的参数了。动词对它的参数具有决定性的作用，动词就是句子的核心。准确理解一个动词"想要什么参数"，什么样的结构可以出现在参数的位置，就是造出正确句子的关键。
-
-使用不同的动词可以造出不同的句子。所以要理解语法，你在应该把大部分精力放在各种各样的动词身上，而不是花几个月时间去背名词和形容词。我并不是说名词和形容词不重要，只是它们并不是核心或者骨架。
-
-没有人会怪你不认识某种恐龙的名字，但如果你不能理解"I am not used to eating garbage food." 是什么意思，那你可能就有麻烦了。
-
-### 具有三个参数的动词
-
-现在举个复杂点的例子：
-
-> Coffee **makes** me happy. （咖啡使我快乐）
-
-这里的动词是 make。跟 eat 不大一样，make 可以接受三个参数：coffee, me, happy。它的模板可以表示为：
-
-> A make B C\
-> 意思是：A 使得 B 具有性质 C。
-
-比如 Coffee makes me happy，其中 A 是  *coffee*，B 是  *me*，C 是  *happy*。
-
-再来一个例子：
-
-> I told you everything. （我告诉了你一切）
-
-这里动词 tell 也有三个参数，它的模板是这样：
-
-> A tell B C.\
-> 意思是：A 告诉 B 一件事 C。
-
-比如 I told you everything，其中 A 是  *I*，B 是  *you*，C 是  *everything*。
-
-### 扯个淡：什么是宾补
-
-说到这里我想扯个淡。初学者不知道什么是"宾补"的，可以跳过这一节，你不会损失什么。
-
-在传统语法里，上面一节的  *A make B C*  和  *A tell B C*  被看做是不同的语法现象，前者被称为含有"宾语补足语"，后者含有"双宾语"。可是在我们的框架下，这两者都不过是"接受三个参数的动词"。你只需要熟悉  *A make B C*  和  *A tell B C*  是什么意思就可以了。
-
-*A make B C*  里的 C 参数，其实就是传统语法叫做"宾语补足语"（宾补）的东西。然而跟传统语法不同，我不把它叫做"宾补"。这个成分没有任何特殊的名字和地位，而只是动词 make 的第三个参数。
-
-有的动词可以有三个参数，有的动词只能有两个参数，有的动词只有一个参数。有的动词有时有两个参数，有时只有一个参数...... 就是这么简单，没有什么道理好讲，因为人们就是那么说话的。
-
-人们约定俗成的说话方式，决定了 make 可以有三个参数，决定了这三者之间的关系：A 使得 B 变得 C。这就像数学的"定义"一样，是没有道理可讲的。你只需要多多练习，按照这个模板造句，知道它**具体**的意思就可以了。
-
-模板"A make B C"，精确地决定了动词 make 可以产生的句型，定义了参数 A，B 和 C 之间的关系。你不需要把 C 叫做"宾补"就能明白这个句子在说什么。实际上，我认为"宾语补足语"，"补足语"这些术语，基本是子虚乌有的。它们来源于一种古板的观念，认为句子只有主谓宾三种成分，所以多出来一个东西，就只能叫做"补足语"了。他们没有意识到，有的动词可以有三个参数，就是这么简单。
-
-### 如何造出正确的句子
-
-我已经提到，对于人的语言能力，"造句"能力占了一半。很多人不知道复杂的长句是怎么造出来的，所以他们也很难看懂别人写的长句。
-
-我并不是说一味追求长句是好事，正好相反。如果你能用短句表达出你的意思，就最好不要用长句。虽说如此，拥有造长句的"能力"是很重要的。这就像拥有制造核武器的能力是重要的，虽然我们可能永远不会用到核武器。
-
-当然，长句不可能有核武器的难度。造长句其实挺容易。你先造出一个正确的短句，然后按照规则，一步步往上面添加成分，就可以逐渐"生成"一个长句。
-
-这就像造一个房子，你首先打稳地基，用钢板造一个架子，然后往上面添砖加瓦。你可以自由地选择你想要的窗户的样式，瓦片的颜色，墙壁的材质，浴缸的形状...... 好像有点抽象了，我举个例子吧。
-
-首先，我造一个最简单的句子。最简单的句子是什么呢？我们已经知道动词是句子的核心，有些动词自己就可以是一个句子。所以我们的第一个句子就是：
-
-> eat.
-
-它适用于这样的场景：你在碗里放上狗粮，然后对狗儿说："吃。" 当然，你体会到了，这句话缺乏一些爱意，或者你只是早上起来还比较迷糊，不想多说一个字，但它至少是一个正确的句子。
-
-接下来，我们知道 eat 可以加上两个参数，所以我就给它两个参数：I 和 apples。
-
-> **I** eat **apples**. （我吃苹果）
-
-这个句子适用于这样的场景：别人问我："你一般吃什么水果呢？" 我说："我吃苹果。"
-
-有点单调，所以我再加点东西上去。
-
-> I eat **Fuji apples**. （我吃富士苹果）
-
-Fuji 被我加在了 apples 前面，它给 apples 增加了一个"修饰"或者"限定"。它只能是富士苹果，而不是其它种类的苹果。
-
-但我并不总是吃富士苹果，我有时不吃苹果。我想表达我只是"有时"吃富士苹果，所以句子又被我扩充了：
-
-> I **sometimes** eat Fuji apples. （我有时吃富士苹果）
-
-你觉得这个 sometimes 是在修饰（限制）句子的哪个部分呢？它在修饰"我"，"苹果"，还是"吃"？实际上，它是在限制"吃"这个动作发生的频率，所以它跟 eat 的关系紧密一些，也就是说它是在修饰 eat，而不是 I 或者 apples。
-
-以此类推，我们可以把它发展得很长：
-
-> **I** sometimes **eat** fresh Fuji **apples** from a nearby grocery store.
-
-我有时候吃从附近杂货店买来的新鲜富士苹果。注意，虽然这句子挺长，但它的"骨架"仍然是 I eat apples.
-
-我已经演示了一个长句是怎么"生成"的。先造一个短句，然后往上面添砖加瓦。正确的短句，按照规则加上一些成分，就成为正确的长句。从正确走向正确，这样你的语法就会一直是正确的。
-
-当然，扩展句子的时候，你不能随意往上加东西，它们必须满足一定的规则才能正确的衔接。比如，你只能把 Fuji 放在 apple 前面，而不是后面，from 之类的词不可少。这就像造房子，你不能在该放窗户的地方放一道门，你不能用错配件，漏掉胶水。所谓语法，很多时候就是在告诉你这些部件要怎么样才能接的上，就跟做木工活一样。
-
-### 如何理解句子
-
-人与人交流的另一个部分就是"接收"。如果书上有很长一句话，你要怎么才能理解它呢？许多人看到长句就头痛，不知道该怎么办。这是因为他们不明白长句都是从短句扩展出来的，是有结构的。许多人理解长句失败的原因，在于他们总是从左到右，一个个的扫描单词。开头几个词感觉还认识，再多看几个词，就不知道是怎么回事了。
-
-其实理解长句的方法，都隐含在了上一节介绍的造长句的方法里面。造句的时候我们先勾画出一个框架，然后往里面填修饰的成分。理解的时候如果有困难，我们可以用类似的办法。我们首先分析出句子的**主干**，把这个框架理解了，然后再把其它成分放回去，逐步把握整个句子的含义。
-
-这个分析主干的过程，往往是"跳跃式"的，而不是"顺序式"的扫描单词。
-
-比如之前的那个例子：
-
-> **I** sometimes **eat** fresh Fuji **apples** from a local grocery store.
-
-你需要跳过修饰的成分，分析出句子的主干是短句"I eat apples"。如果你觉得一下子找不到主干，那么你可以挨个找到"修饰成分"，把它们逐个删掉，最后留下来的就是主干了。
-
-注意，主干"I eat apples" 本身就是一个语法正确的句子，它满足所有的语法规则。于是你理解了它在说"我吃苹果"。然后你返回去再看几遍，逐渐加上细节，知道是什么样的苹果，从哪里买来的，什么时候吃。
-
-漏掉或者误解了细节，你可能会误解一部分意思，但抓住了主干，你就不会完全不理解这个句子在说什么。
-
-再次强调，每一个复杂的长句，里面都藏着一个非常短的，语法正确的短句。理解长句的关键，就在于找到这个核心的短句。
-
-如何获得识别修饰成分，找到主干短句的能力，也在于你对具体的语法规则的理解。
-
-### 句子的树状结构
-
-之前，我们的原始人画了这样一个图：
-
-![](http://www.yinwang.org/images/i-eat-apple-symbol.png)
-
-它表示这样一个英语句子：
-
-> I eat apples.
-
-很多人觉得后者是更简洁，更先进的方法。然而他们没有意识到，原始人的图片里，其实包含了关键而本质的东西。被转换成一串符号之后，里面的结构看不见了，反而需要费一些脑筋才能理解。这个简单的情况也许不能说明问题，等句子复杂起来之后，你就能体会到这一点。
-
-从现代语言学，计算机自然语言处理（NLP）的观点看来，句子并不是一串符号，而是一个"树状"的结构。我们把这种树叫做"语法树"。
-
-比如 I eat apples，其实表示的是下图这样的结构：
-
-![](http://www.yinwang.org/images/i-eat-apple-tree.png)
-
-你可以把这个图看成是一棵倒着长的树。你把屏幕旋转 180 度，就会看到一棵树。树干 eat 发出两个"分支"，连接着它的两个参数：I 和 apples。为了表达清晰，我用红色圆圈来表示动词，而用蓝色方形表示名词。
-
-动词 eat 需要两个名词参数，我们给它 I 和 apples，就成了一个完整的句子。再次声明，我这里的"名词"，包括了像"I"这样的"代词"。
-
-### 扩展一棵树
-
-之前我们通过扩充 I eat apples 这句话，得到了一个逐渐变长的句子。现在有了"语法树"的概念，我们来重新演示一下这个扩充句子的过程，看看它对应的语法树是怎么变化的。
-
-首先，我们给苹果加上"富士"（Fuji）的修饰：
-
-> I eat **Fuji** apples.
-
-Fuji 是对 apples 的修饰，或者说是它的"属性"，所以我们在树上把它和 apples 连在一起。
-
-![](http://www.yinwang.org/images/i-eat-fuji-apples-tree.png)
-
-对于这种"修饰"成分，我们用绿色方框来表示。它们通过灰色箭头指向它们所修饰的部分。
-
-接着，我们加上一个时间修饰 sometimes：
-
-> I **sometimes** eat Fuji apples.
-
-由于 sometimes 是修饰 eat 动作的频率，我们把它指向 eat 动词节点。
-
-![](http://www.yinwang.org/images/i-sometimes-eat-fuji-apples-tree.png)
-
-最后那个复杂点的句子：
-
-> I sometimes eat fresh Fuji apples from a nearby grocery store.
-
-它的语法树大概是这个样子：
-
-![](http://www.yinwang.org/images/i-eat-apple-complex-tree.png)
-
-之所以说"大概"，是因为我没有把"from a nearby grocery store"完全表示成一棵树结构。当我们觉得暂时没必要深入理解一个部分的时候，我们可以把它合在一起。所以"from a nearby grocery store"一起放在了一个节点里，表示对 apples 的另一个修饰成分。
-
-### 树的作用
-
-从上面的扩展过程，你也许发现了语法树在造句时用处。它帮助你快速的"定位"需要扩展的部分。如果你的句子只是一串字符，那么你得先用眼睛找到你需要的部分，把它和旁边的文字分离开。
-
-在理解句子的时候，它的用处就更加明显了。树结构把句子之间相关的部分都直接连在了一起，所以你能清晰地看到它的结构。哪个词在修饰哪一部分，都一目了然。看看上面最复杂的那个句子，你可以一眼就能看出它的主干是什么：
-
-![](http://www.yinwang.org/images/i-eat-apples-trunk.png)
-
-对比一下原来短句的语法树，你发现虽然句子变长了，然而它的主干其实一点都没有变，仍然是 I eat apples。如果把句子写成一行，你就需要通过一阵子分析才能知道主干是什么。
-
-这就是为什么我跟你讲语法树这个概念，因为它可以简化你对句子结构的理解。帮助你造句，帮助你理解复杂的句子。如果有长句看不懂，你可以使用语法树对其进行分解。
-
-### 如何培养真正的语言能力
-
-这一章我只是介绍了你需要的两种能力，可是如何培养这两种能力呢？其实它们两者是相辅相成的。造句的能力可以帮助你理解别人的句子，而阅读别人的句子，分析其结构，可以帮助你获得造出类似句子的能力。
-
-所以我给你开的处方是这样：
-
-1. 练习造句。每学一个动词，要先看例句，然后用它造出多个句子来。这样你就获得了灵活运用的能力。
-2. 分析句子。看到一个复杂的句子，觉得理解有难度，你就把它抄下来。按照我介绍的"造句方法"，把它分解成主干和修饰成分。不久，你就会发现理解能力和造句能力都提高了。
-
-要注意的是，分析句子的时候，没必要去纠结一个句子成分"叫什么"，对应什么术语。比如它是表语还是宾语，还是宾补...... 这没有意义。
-
-你可以理解任何英语句子，你可以成为很好的记者或者作家，却仍然不知道什么叫做"宾补"。你只需要造句的能力和理解句子的能力，而你不需要术语就能做到这两点。
-
-另外，你分析的句子来源，最好是真正的，有良好风格的英文书籍，而不是来自中国人写的语法书。比如，你可以选一本通俗易懂的英文小说，比如《哈利波特》的第一部。或者你可以用英文杂志（比如《TIME》）上的文章。很有趣的是，中国人写的语法书里面，为了演示各种语法规则，经常是"没有困难，制造困难也要上"，造出一些外国人根本不会用的，容易让人误解的句子。这种句子，就算你分析清楚了，反而是有害的。这种丑陋的句子会破坏人的语感，而且让你觉得语法无比困难，打击你的信心。你受到影响之后，就会写出类似的，让外国人看了翻白眼的丑陋句子。
-
-最后可能有人问，你这是提高实际的英语能力，可是我需要应付标准化考试，这样学能行吗？当然行，而且你做语法题的速度会非常快。托福，雅思，GRE 之类的考试，不可能变态到要你"找出句子里的宾补成分来"。实际上，题目里根本不可能出现"宾补"这类词。他们只会在某个位置留一个空，让你选择合适的内容填进去。也就是说，你不需要知道那个成分叫"宾补"，就能做对题。
-
-实际上，做题的时候，你的头脑里根本不应该出现"宾补"这样的术语。具有了真正的英语能力，做语法选择题的时候，你会一眼就选对正确的答案，却说不出这道题在考你哪方面的能力。是时态呢，还是某种句子成分？我不知道，因为那毫无意义。我就是感觉其它答案都不"顺口"，我根本不会写那样的句子，而正确的选项一眼看起来就是"通的"。
-
-所以不管是实际的交流还是做题，死抠语法术语都没有什么意义。你去问问每一个英国人，美国人，他们是怎么做对语法题的，你会得到同样的答案。你应该努力得到这种母语级别的能力，而不是记住一些纸上谈兵的术语。
-
-## sites for programmers library
+`dev` `guide` `library`
 
 Best-websites-a-programmer-should-visit
 
@@ -1396,7 +954,9 @@ https://github.com/sdmg15/Best-websites-a-programmer-should-visit
 
 该仓库收集对程序员有用的网址，包含问题查找、技术新闻、技术博客、开源社区、英文提升、新奇的玩意儿、视频教程、在线工具等数十个方向的内容。（@qiurenbo 投稿）
 
-## how awful are new tech quote
+## the problem is no one really knows how awful new technologies are
+
+`dev` `quote` `retro`
 
 有时，我们想用新技术解决旧技术的包袱，问题是新技术会带来更多的包袱。新技术的一个问题是，人们还不知道它到底有多糟糕。
 
@@ -1406,13 +966,17 @@ http://boringtechnology.club/
 
 ## bash shortcut functions guide
 
+`dev` `guide`
+
 让你的生活更轻松的 9 个 Bash 快捷别名（英文）
 
 https://remykarem.medium.com/9-bash-aliases-to-make-your-life-easier-3e5855aa95fa
 
 本文介绍 9 个实用的 Bash 函数，你可以参考他的方式，将自己常用的操作封装成函数，然后设置别名。
 
-## css animation beginner guide
+## opensource book css animation for beginner
+
+`css` `guide`
 
 CSS Animation 101
 
@@ -1420,33 +984,9 @@ https://github.com/cssanimation/css-animation-101
 
 开源电子书《CSS Animation 101》，从零开始介绍 CSS 动画。
 
-## react short video 45 episodes guide library
+## image framer with exif shown for social sharing on web
 
-React 视频课程（英文）
-
-https://scrimba.com/g/glearnreact
-
-React 的短视频课程，几分钟一集，共有 45 集。
-
-## rejected great programmers story
-
-rejected.us
-
-https://rejected.us/
-
-该网站收集优秀程序员面试没通过的经历，用来鼓励面试失败者不要灰心。
-
-## simple programming interview problems library
-
-30 秒系列
-
-https://github.com/30-seconds/30-seconds-of-code
-
-https://www.30secondsofcode.org/js/p/1/
-
-该系列专门收集 30 秒以内可以解答的问题。目前有以下 6 个库：（1）30 秒 JS 问题；（2）30 秒 CSS 问题；（3）30 秒面试问题；（4）30 秒 React 问题；（5）30 秒 Python 问题；（6）30 秒 PHP 问题。
-
-## beautiful image exif card web app
+`app` `image`
 
 ExifShot
 
@@ -1454,33 +994,9 @@ https://exifshot.com/
 
 一个以美观的形式展示照片 EXIF 信息的在线工具。
 
-## premium mediocre marketing trick history
+## the public apology letter written by steve jobs
 
-优质平庸
-
-2017 年，有人发明了"优质平庸"（Premium Mediocre）这个词。它指的是一种营销手段，让消费者认为他们正在消费奢侈品，而实际上只是在消费普通商品，比如"精酿"啤酒、"手工"比萨饼、"烘焙师签名"汉堡等等都是"优质平庸"的例子。
-
-这种做法很简单，就是用一些额外的手段，让平庸的东西看上去更加优质，让消费者产生一种幻想，认为自己正在购买高级产品。营销人员通常采用的手段是，为商品名加上"首选"、"手工"、"收藏级"等词语。
-
-许多公司希望消费者愿意付出较高的价格，就用"负担得起的奢侈品"的定位来推销自己的产品。当然，他们销售的并不是奢侈品，而是把奢侈品的光环像面包粉一样，洒一点在平庸商品上面。这里的重点是，必须让消费者觉得，平庸的商品一点不平庸。
-
-"优质平庸"也延伸到了真正的奢侈品品牌。普通消费者买不起这些奢侈品，但是奢侈品公司仍然想赚他们的钱，就设法提供一些入门级的产品系列，将一些低成本的产品贴上自家的奢侈品品牌，比如 Prada 尼龙背包、路易威登帆布包、Gucci 的塑料凉鞋等等。这个策略很成功，优质平庸市场的利润非常高，据统计，2015 年小型皮具奢侈品的销售额达到 57 亿美元，预计到 2020 年将达到 75 亿美元。对于消费者来说，只要几百美元，就能买到奢侈品牌，很多人愿意尝试。
-
-这件事情的启示就是，商品的徽标比产品本身更重要，普通鸡蛋只能卖一块钱，但是标上"天然土鸡蛋"就能卖一块五。"优质平庸"的关键，就是商品有一个独一无二、消费者认同的徽标。
-
-## big tech companies income source image
-
-主要技术公司收入来源图
-
-https://medium.com/zerotomastery/programmers-guide-to-the-big-tech-companies-1bfc078e5a76
-
-苹果：iPhone 占 63% 的收入
-谷歌：广告占 88% 的收入
-微软：Office 占 28% 的收入
-亚马逊：商品销售占 72% 的收入
-脸书：广告占 97% 的收入
-
-## great public apology letter writing approach history
+`guide` `theory` `ref`
 
 新年的 1 月 2 日，苹果公司发布了一份公开信，长达 1400 字。主要内容是，由于大中华市场的销售额下滑，该公司预计 2019 年第一季度，收入会低于预期 7%。
 
@@ -1490,7 +1006,7 @@ https://www.apple.com/newsroom/2019/01/letter-from-tim-cook-to-apple-investors/
 
 https://daringfireball.net/2019/01/steve_jobs_and_apples_last_previous_earnings_warning
 
-"苹果公司预计第二季度的收入将达到约 14 亿美元～ 14.5 亿美元，低于此前约 16 亿美元的预期。收入低于预期主要是由于消费者和创意市场（如广告和出版）的需求疲软。从地理位置来看，欧洲和日本的收入变得特别薄 ​​ 弱。由于成本降低，毛利率高于预期，预计收入不足将被大幅抵消。因此，公司已将盈利预测修订为每股 0.08 美元至 0.10 美元，而之前的指引为 0.11 美元或略高。"
+"苹果公司预计第二季度的收入将达到约 14 亿美元～ 14.5 亿美元，低于此前约 16 亿美元的预期。收入低于预期主要是由于消费者和创意市场（如广告和出版）的需求疲软。从地理位置来看，欧洲和日本的收入变得特别薄弱。由于成本降低，毛利率高于预期，预计收入不足将被大幅抵消。因此，公司已将盈利预测修订为每股 0.08 美元至 0.10 美元，而之前的指引为 0.11 美元或略高。"
 
 "与我们行业的其他人一样，本季度我们的销售额正在放缓。因此，我们将低于收入预测约 10％，导致利润略微下降，"苹果首席执行官史蒂夫乔布斯说。"我们有一些令人惊叹的新产品正在开发中，所以我们对未来一年感到兴奋。作为目前在 PC 业务中获利的少数几家公司之一，我们对苹果长期增长的前景仍持乐观态度。"
 
@@ -1502,7 +1018,9 @@ https://daringfireball.net/2019/01/steve_jobs_and_apples_last_previous_earnings_
 
 好了，公开信到此结束。
 
-## maintaining complex system like decorating office floor quote
+## keep things there and do minimal work
+
+`dev` `quote`
 
 一家公司想装修办公室地板，结果发现下面是蜿蜒曲折的通信电缆。如果彻底装修，必须更换并重新连接电缆。他们这样做了吗？没有，当他们看到复杂的电缆后，就没有碰任何东西，只是小心地更换了地板。谁知道每根电缆的作用和连接方式？最好保持原样。
 
@@ -1510,7 +1028,9 @@ https://daringfireball.net/2019/01/steve_jobs_and_apples_last_previous_earnings_
 
 https://unintendedconsequenc.es/dont-touch-anything/
 
-## about "a real programmer" a little printf story
+## a little printf: becoming a "real" programmer
+
+`dev` `meme`
 
 什么是真正的程序员（中文）
 
@@ -1518,7 +1038,13 @@ https://www.cnblogs.com/xueweihan/p/5220513.html
 
 本文是一篇译文，作者仿照《小王子》中的情节，通过小 printf 遇见的不同类型的程序员，最后悟出什么才是真正的程序员！（@LanjianNUll\_ \_投稿）
 
-## 10 fizzbuzz solutions in 10 lang
+---
+
+http://ferd.ca/the-little-printf.html
+
+## fizzbuzz in 10 programming languages
+
+`dev` `theory`
 
 FizzBuzz 的 10 种语言解答（英文）
 

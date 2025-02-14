@@ -1,6 +1,7 @@
 # roadmap
 
 - fix issues
+- write every example on react learn
 - impl svelte examples with voyagejs
 - learn component system from chakra ui
 - create voyagejs maia (google reader)
@@ -212,7 +213,7 @@
 ## 0.30 20250201
 
 - revised some words
-  - `typo`
+  - `wording`
   - before: "the current version released on (date) has been being written since 20250117 (utc+8)" "@since 20240806 when voyagejs was found"
   - after: "the current version released on (date) has been in development since 20250117 (utc+8)" "@since 0.1 initiated on 20240806"
 - revised some jsdoc comment
@@ -271,21 +272,54 @@
     - just use recursion. an element shouldnt be that large.
     - returns node
 - rewrite c fn
-  - `test`
+  - `alias`
   - create fn includes compile fn before, now doesn't
   - so let c(...) equal to create(compile(...))
   - to make the code work
-  - (this is a temp solution)
 
 ## 0.31
 
-- more jsdoc comments
-  - `docs`
+- docs: more jsdoc comments
   - not everywhere, just the newly added ones
   - stategy: first write comments, then write code.
   - jsdoc includes: param returns examples
-- (wip) wrote styling feature like tailwind
-  - `feature`
+- (wip) wording: rename some fn names
+  - inspired by component life cycle of react
+  - mount, update, unmount
+  - create (creating & created), show, update, remove
+- (wip) feat: add voyage.pointer, alias p
+  - usage: p("foo","bar","xyz")
+  - returns a proxy with .value pointing states.foo.bar.xyz
+  - get handler is simple
+  - set handler updates the component
+- (wip) feat: add voyage.listen
+  - usage: listen(updater, stateName)
+  - returns true, bind the updater to the state
+  - updater(newValue, oldValue, node)
+  - returns the updated node or true.
+  - if true, the updater edits the dom (by prop node) directly.
+- (wip) feat: add voyage.getStatus
+  - react has "usestate(init fn)"
+  - in voyagejs it's simple, just get status, and do it yourself.
+- (wip) refactor: change ref and store fn behavior
+  - of course it can function like react, store them by order
+  - but in voyagejs, each state must have a name
+  - so only objects are accepted
+  - fix the legacy examples
+- (wip) feat: set value behavior
+  - state.value wont be changed before created
+  - such changes will be applied like useEffect or onMount
+- (wd) example: list of counter that can be sorted
+  - (two components, list and counter)
+  - list has the states, counters: [{id:..., count: ...}, ...] using ref
+  - order: "ascended" using store
+  - give each counter a p("counters", index, "count") state, done.
+  - counter also consider count as ref, binding input.value
+  - when inc/dec/change, list wont rerender, counters wont rerender.
+  - when sorted, list will rerender, counters will rerender.
+  - (only changing position of counters is ok, but not supported by default)
+  - (just counters.v = sort(counters.v...), component wont update before created)
+- (wip) feat: write styling feature like tailwind
   - three fn. defineStyle(), defineTheme(), useTheme().
   - defineStyle(obj styles)
     - two kind of props
@@ -311,6 +345,9 @@
       - returns str innerhtml of style element
     - style componentid="theme" @html=theme
     - theme is a global state
+- (wd) docs: see readme.md
+  - roadmap, but in very informal style
+  - (lots of thoughts)
 
 # river
 
@@ -328,4 +365,6 @@ asked mistral le chat.
 
 (ans omitted)
 
+## 20250214
 
+(@see readme.md)

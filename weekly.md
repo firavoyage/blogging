@@ -13,6 +13,67 @@
 
 > things, not timetable.
 
+## 20250214
+
+> _foresight_
+
+- categorize ruanyf weekly archive
+- write voyagejs
+- surf zhihu
+- watch evangelion
+- watch simplelive
+
+> _dawn_
+
+- learn japanese on duolingo
+- return digital homes in al sr hi hg ba
+
+> _night_
+
+- watch lucky star
+- watch evangelion
+- watch date a live
+- watch sword art online
+
+> _endeavour_
+
+- write voyagejs
+- design component libraries
+- create project avatars
+- write pure chemistry wiki
+- write apps like pre para eat material leisure float
+- create pre for pure project
+- create pre for intuitive project
+
+> _diversion_
+
+- play senrenbanka
+- read sr stories
+- play hg hi events
+- create origami works
+
+> _enlightenment_
+
+- categorize ruanyf weekly archive
+- read ruanyf weekly
+- summarize project leverages
+- write pure math wiki
+- write intuitive cpp wiki
+
+> _drift_
+
+- memorize english vocabulary
+- read notes of physics chemistry geography
+
+> _rest_
+
+- surf zhihu
+- surf berryberry
+- watch simplelive
+- play df hunt
+- play antennapod
+- sync phone
+
 ## 20250209
 
 > _foresight_

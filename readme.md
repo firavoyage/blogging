@@ -47,9 +47,9 @@
   - math & algorithms & unixporn & mtf & virtualyoutubers
   - functional programming & web dev
   - dark style & night light & low brightness
-  - observation & reflection & mind wandering
+  - attention & observation
   - arrangement & accumulation
-  - dissociation & second person omniscient narration & inner speech
+  - cynicism & dissociation & second person omniscient narration & inner speech
 - - hotel california (eagles)
   - wind of change (scorpions)
   - scarborough fair (sarah brightman)
@@ -92,8 +92,9 @@
   - kletka (molchat doma)
   - yumeji’s theme (shigeru umebayashi)
 - - spirited away (2001)
-  - joker (2019)
+  - goodbye mr. loser (2015)
   - soul (2020)
+  - joker (2019)
   - life in a day (2011)
   - the chorus (2004)
   - the phantom of the opera (2004)
@@ -105,6 +106,7 @@
   - g for gap (2024)
   - the last dance (2024)
   - castle in the sky (1986)
+  - searching (2018)
   - .princess mononoke (1997)
   - .the good the bad and the ugly (1966)
   - .in the mood for love (2000)
@@ -183,29 +185,32 @@
   - .doki doki literature club! (2017)
 - - to live (yu hua)
   - one hundred years of solitude (gabriel garcía márquez)
-  - road ahead (ruanyf)
+  - the scholars (wu jingzi)
+  - road ahead (ruan yifeng)
   - the water level of ideology (liu yu)
+  - what i have seen (chai jing)
   - meditations on life (zhou guoping)
   - twelve letters for the young (zhu guangqian)
   - letter to da zhuang (miao wei)
   - liu qing's lectures on modern western thought (liu qing)
-  - a long gaze (long yingtai)
-  - hackers and painters (paulg)
+  - a long gaze (lung yingtai)
+  - hackers and painters (paul graham)
   - metaphors we live by (george lakoff & mark johnson)
   - javascript: the good parts (douglas crockford)
   - javascript: the definitive guide seventh edition (david flanagan)
   - c++ primer fifth edition (barbara e. moo & josée lajoie & stanley b. lippman)
   - c++ primer plus sixth edition (stephen prata)
-  - react learn docs (react community)
   - stack overflow documentation (goalkicker books)
   - refactoring ui (adam wathan & steve schoger)
+  - react docs: learn (react community)
   - hello algo (krahets)
   - competitive programmers' handbook (antti laaksonen)
-  - oi wiki (oi wiki community)
   - integer overflow: the development, prosperity and decline of olympics in informatics (xu xiling)
+  - mathematics, no 2 secondary school attached to east china normal university
+  - mathematics olympiad series (shan zun & xiongbin & ...)
+  - advanced and ingenious high school mathematics: concepts and methods (cai xiaoxiong)
+  - advanced and ingenious high school mathematics: multiple approaches and problem variations (cai xiaoxiong)
   - cut the knot: probability riddles (alexander bogomolny)
-  - the scholars (wu jingzi)
-  - what i have seen (chai jing)
   - .godel, escher, bach (douglas hofstadter)
   - .shakespeare's sonnets (william shakespeare)
   - .over autumn rooftops (hai zi)
@@ -236,24 +241,25 @@
   - web worker (xinbao & lv777 & pakchoi & kaiyi & smart)
   - yitianshijie (li ruyi)
   - yixi (yixi)
-- - wikipedia & fandom & miraheze & moegirl.icu & mdn web docs
+- - wikipedia & miraheze & fandom & moegirl.icu & mdn web docs & oi wiki
   - github & the pirate bay & z library & anna's archive
   - internet archive wayback machine & archive.today
-  - google & mistral le chat & deepseek
+  - google & mistral le chat & gemini & deepseek & kimi
   - youtube & berryberry & niconico
   - old reddit & zhihu & stack exchange & nga bbs & forum.gamer.com.tw & tumblr
   - bangumi.tv & my anime list & mikan project & bgmlist & dmhy.org
   - hacker news & slashdot & ruanyf weekly & v2ex creative & product hunt
   - codepen spark & css tricks & javascript weekly
-  - codeforces & atcoder & luogu & libre oj & vijos
+  - codeforces & atcoder & luogu & libre oj 
   - google reader & cnblogs & travellings.cn & foreverblog.cn & travel.moe
   - douban book & goodread
   - douban movie & imdb
+  - steam db & google doodles & itch.io & textadventures.co.uk
+  - pixiv & deviantart & dribbble & unsplash
+  - genius & poetry foundation
   - vndb & shinnku galgame
   - javbus & missav & e hentai
-  - steam db & google doodles & itch.io & textadventures.co.uk
-  - genius & poetry foundation
-  - unsplash & pixiv & deviantart & dribbble
+  - eu.org & workers & pages & netlify & vercel & deno & glitch
 - - ubuntu yaru
   - material design 2 & material design 3
   - iphone os 6
@@ -302,24 +308,23 @@
   - cao yunfan djhs & geography enthusiast
   - caspar david friedric & art & wanderer above the sea of fog
   - change release & mihoyo insane
-  - chen liangzhou pink rabbit codeforces & gi
+  - chen liangzhou pink rabbit & oi & gi
   - chen ruihan djhs & history enthusiast
   - chen shiyu djhs & 26 yo youth & chinese allusions & waifu daisuki
   - chen suiyi chenbimo & web dev
   - chen xiao & origami
-  - chen zhiwei ldhs djhs & football clubmate
+  - chen zhiwei ldhs djhs & football
   - chino moca qiront
   - chris coyier & codepen founding & css tricks editorial
   - claude monet & art
   - cloudwu codingnow & dev
   - coding startup & web dev & webpage case studies founding
-  - dai jiangqi codeforces & oi math champ
+  - dai jiangqi & math champ & oi champ
   - dan & louis-xavier & growth.design founding
   - dan abramov overreacted & web dev
   - david heinemeier hansson & ruby on rails founding
   - derek sivers & cd baby founding
   - di xuchen djhs
-  - diviner in spiritual wind
   - diygod & justcc
   - dong guanxi djhs & english study
   - doris yee yeedor
@@ -331,15 +336,11 @@
   - foreman ma madugong & bedtime news
   - funshiki ふんしき & anime otaku & berryberry early days
   - geek bay geekerwan
-  - gennady vladimirovich korotkevich tourist codeforces & oi champ
+  - gennady vladimirovich korotkevich tourist & oi champ
   - gu sen matrix67 & cai xueqin localhost-8080
   - gui minghao djhs & math enthusiast & anime otaku
   - hakim el hattab & web dev & design
-  - hu jiaying ldhs & sports girl
-  - hu qianling djhs & tart english teaching
   - huang chenghui lciop cr & spark
-  - huang zhizhong & debate
-  - hui xinyu djhs & champ
   - ifeisu & pursuit of fun & school culture
   - interpreter gavin & gi english
   - james sinclair jrsinclair
@@ -348,17 +349,14 @@
   - jens oliver meiert & web dev leadership & google maia css founding
   - jiang yanyan & oi teaching & os dev
   - jiang zhijun djhs & champ
-  - jiangly not dd codeforces & oi champ
+  - jiangly not dd & oi champ
   - jimmy wales & wikipedia founding
-  - jin jinjin ldhs & kind class master
-  - jin luochen djhs & primary schooler
-  - jin yudong krahets & algorithms guide
+  - jin jinjin ldhs & lovely daughter
+  - jin yudong krahets & hello algorithms authorship
   - jjying iconmoon & design
   - justyyuk doctor lai & algorithms
   - kaiyi & web dev & podcast hosting
   - kevin brown & mathpages founding
-  - kevin deng sanxiaozhizi & web dev & vue
-  - kevin powell & web dev & only css
   - key725 df & white hair and crimson eye
   - kirikaze chiyuki chyk & cs learning
   - kiun b & yakutsk life
@@ -366,7 +364,6 @@
   - kyth & jike xiaoyuzhou founding
   - larry sanger & wikipedia founding
   - lex fridman & dev conversation
-  - li xinshuo djhs & anime otaku girl
   - liu mingye & web dev & music tools
   - liu xin livid & v2ex founding
   - liu yuan djhs & interactive math
@@ -375,14 +372,14 @@
   - lu jianhong djhs & english culture
   - luca florio & freshman programmer guide
   - lv fuyuan djhs & math champ
-  - lv yirong ldhs qbhs & champ
+  - lv yirong ldhs & champ
   - maciej cegłowski & pinboard founding
-  - magicalflower codeforces
+  - magicalflower & oi
   - marco arment & overcast founding
   - math contest fei bro
   - mayx mabbs & 23 yo geek & sayhuahuo early days & say hanabi dev founding
   - memoir of prosperity sr
-  - menci codeforces & oi wiki writing & libre oj founding
+  - menci & libre oj founding
   - mike mirzayanov & codeforces founding
   - mohamad light cr
   - mr marmot & chinese wojaks
@@ -398,11 +395,11 @@
   - pan tianhong tim & pan shuimiao & mediastorm founding
   - paul graham paulg & y combinator founding & hacker news founding
   - pea3nut peadar & web dev
-  - peng kunshuo orchidany flowerpks codeforces
+  - peng kunshuo orchidany flowerpks & oi
   - physixfan eaglefantasy & math & physics
   - pieter levels levelsio & make authorship & nomad list founding
   - promise of playboy sr
-  - qingyu codeforces
+  - qingyu & oi
   - randall munroe & xkcd manga founding
   - ren baoshuo fzu & oier db founding
   - richard rusczyk & art of problem solving founding
@@ -430,33 +427,29 @@
   - wanderer bs
   - wang xiaofeng djhs & anime otaku
   - wang yining fira & dev
-  - wang zhaohai djhs & math whiteboard
+  - wang zhaohai djhs & math on whiteboard
   - web dev simplified & quick start
-  - wen zhen djhs & dorm sarcasm
   - wes bos & web dev & js 30
   - with.fish lz233
-  - xia chuyun djhs
-  - xie haotong ldhs & gifted math
-  - xu haohuan ldhs & cute silly boy
+  - xu haohuan ldhs & kawaii & gi gaming
   - xu xiling tangenter & oi & integer overflow writing
   - yan xuecan & acwing founding
-  - yang beilei djhs & intuitive geography
-  - yang yang djhs & breezy physics
-  - yao qixuan djhs
+  - yang beilei djhs & geography
+  - yang yang djhs & physics
   - yin ming kalasoo & juejin founding
-  - yu weilun ldhs & cute gifted boy
+  - yu weilun ldhs & kawaii
   - yuluer & mihoyo doujin
   - yunling sapphire & peer tutor life
   - yunyoujun & web dev & popular mini apps
   - zhang chuanzhi ldhs & chemistry quizzes
-  - zhang shuhao studyingfather & oi wiki writing
-  - zhang xizhe djhs & math enthusiast & df cr gaming
+  - zhang shuhao studyingfather & oi
+  - zhang xizhe djhs & math enthusiast & cr df gaming
   - zhao jinjiang jiongks & web dev & vue
   - zhong fangyuan zhfany & oi
-  - zhou ling djhs & kind class master
-  - zhou xuanyi & debate
+  - zhou ling djhs & kindly class master
+  - zhou xuanyi & huang zhizhong & debate
   - zhou yang & hopico music founding
-  - zhou zhiyuan djhs & japanese culture
+  - zhou zhiyuan djhs & japanese learning
   - zhuo anyuan fusu & oi
 - - ubuntu 24.04
   - android 11
@@ -480,7 +473,6 @@
   - prettier 9.2.0
   - terser 5.19.2
   - wenyan 0.3.4
-  - wikitext 4.0.0
   - markdown-all-in-one 3.6.2
   - javascript-code-snippets 1.8.0
   - javascript-snippets 0.4.0
@@ -545,6 +537,7 @@
   - telegram-desktop 4.16.8
   - thunderbird 115.11.0
   - transmission 4.0.5
+  - typst 0.12.0
   - virtualbox 7.0.16
   - vlc 3.0.20
   - wolfram-alpha 1.4.25
@@ -716,9 +709,10 @@
 - self
   - `ubuntu` guide to an elegant work flow
   - `weekly` weekly plans for distinct times
+  - `anime` vistas and cadences
+  - `gaming` passion for battles and builds
   - `timeln` everyday scripts and vibes
-  - `gaming` passion of battles and builds
-  - `djhs` wax and wane of the school life
+  - `djhs` wax and wane of school life
 
 ## gamut
 

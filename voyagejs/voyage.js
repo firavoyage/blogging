@@ -544,6 +544,10 @@ let voyage = {
    * will be considered properties if the type is a fn.
    * @prop {voyageElement[] | string} content
    * will be ignored if the type is a fn.
+   * @description
+   * voyage element can contain either list of nodes or text, but not both.
+   * 
+   * such text should be wrapped in p, span, div, etc.
    */
   /**
    * @param  {...any} options - currently support json

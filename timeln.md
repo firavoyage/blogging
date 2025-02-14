@@ -4857,7 +4857,7 @@ movie. `a frozen rage`
 
 15:37
 
-movie watched. oridinary comedy.
+movie watched. ordinary comedy.
 
 `oneplus buds 3` arrived.
 
@@ -5276,7 +5276,7 @@ returned to vlc.although it's no ubuntu yaru theme based.
 
 ## 20241002
 
-1:xx
+01:xx
 
 watch simplelive
 
@@ -5284,7 +5284,7 @@ richard bs & wanderer bs
 
 最喜欢`压场&卡墙`体系
 
-1:50
+01:50
 
 sleep.
 
@@ -11120,4 +11120,61 @@ JavaScript 的优点是可以写任何东西，缺点是你真的会用它去写
 
 https://twitter.com/CodeWisdom/status/1054713299386986496
 
+## 20250213
+
+04:08
+
+`ref` `important`
+
+**copied watching... to anime.md**
+
+no longer upd here.
+
+## 20250214
+
+02:31
+
+`sleep` `ref`
+
+surfed zhihu... (school love story & weathers of hentai)
+
+(got inspired)
+
+裸睡喵... 融入自然的感觉.
+
+(一丝不挂!)
+
+## 20250215
+
+00:06
+
+`movie`
+
+watched searching (2018) on funshiki live.
+
+`sleep` `ref` `important`
+
+不裸睡了. 冬天哦, 冷...
+
+**"犬儒主义神教" (在 readme 加了这个 cy 开头的词语, 和 goodbye mr loser)**
+
+(dl 了一个 2014 新国辩, huang vs zhou 的, 在 bilimiao)
+
+06:11
+
+`dev` `ref` `important`
+
+太吓人了. 有惊无险. 误传了大文件上去.
+
+```
+git reset --hard HEAD~1  # Reverts the last commit and discards changes
+git push origin <branch-name> --force  # Force-push to update the remote repository
+```
+
+```
+git reflog
+git reset --hard a1b2c3d  # Replace with your commit hash
+```
+
+还好... 不过说来, 其实没有删除我的历史数据?
 
