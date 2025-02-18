@@ -500,6 +500,7 @@
   - gimp 2.10.38
   - gnome-baobab 46.0
   - gnome-blanket 0.7.0
+  - gnome-calculator 46.1
   - gnome-characters 46.0
   - gnome-deja-dup 45.2
   - gnome-evince 46.0
