@@ -10720,3 +10720,17 @@ The housing prices in Shanghai's Huangpu District (黄浦区) from 2000 to 2020 
 - Market polarization, as seen in 2024 auctions (e.g., record bids in Xuhui District), underscores Huangpu’s enduring premium status despite broader fluctuations.
 
 For precise Huangpu District figures, official municipal archives or real estate databases would provide more granular data.
+
+## 1000 true fans
+
+`concept` `ref`
+
+> $\to mistral \space le \space chat$
+
+> 1000 true fans
+
+The concept of "1,000 True Fans" was popularized by Kevin Kelly, the founding executive editor of Wired magazine. In his 2008 essay, Kelly proposed that creators, artists, and entrepreneurs could build a sustainable business by cultivating a dedicated base of 1,000 true fans. These true fans are defined as individuals who will purchase anything and everything you produce. They will drive long distances to see you perform, buy your products, and actively support your work.
+
+The idea is that by directly connecting with these true fans and providing them with value, a creator can earn a living. Kelly suggested that if each true fan spends $100 per year, the creator would earn $100,000 annually, which is a reasonable income for many people.
+
+This concept has been influential in the era of digital content creation and direct-to-fan marketing, encouraging creators to focus on building deep, meaningful relationships with a smaller, more engaged audience rather than trying to reach a broad, shallow market.

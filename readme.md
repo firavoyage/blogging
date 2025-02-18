@@ -117,10 +117,11 @@
 - - tom and jerry classic collection (1940)
   - in solitude where we are least alone (2010)
   - worldend: what do you do at the end of the world? are you busy? will you save us? (2017)
+  - international chinese debating competition (2013)
   - lucky star (2007)
   - evangelion (1995)
-  - .sword art online (2012)
   - .date a live (2013)
+  - .sword art online (2012)
   - .the melancholy of haruhi suzumiya (2006)
   - .the disappearance of haruhi suzumiya (2010)
   - .a certain scientific railgun (2009)
@@ -206,11 +207,12 @@
   - hello algo (krahets)
   - competitive programmers' handbook (antti laaksonen)
   - integer overflow: the development, prosperity and decline of olympics in informatics (xu xiling)
-  - mathematics, no 2 secondary school attached to east china normal university
+  - cut the knot: probability riddles (alexander bogomolny)
+  - mathematics, no 2 secondary school attached to east china normal university (liu chuxi & shi hongliang & cai dongshan)
   - mathematics olympiad series (shan zun & xiongbin & ...)
   - advanced and ingenious high school mathematics: concepts and methods (cai xiaoxiong)
   - advanced and ingenious high school mathematics: multiple approaches and problem variations (cai xiaoxiong)
-  - cut the knot: probability riddles (alexander bogomolny)
+  - self-study series in mathematics, physics, and chemistry (xu fusheng & ...)
   - .godel, escher, bach (douglas hofstadter)
   - .shakespeare's sonnets (william shakespeare)
   - .over autumn rooftops (hai zi)
@@ -378,8 +380,7 @@
   - marco arment & overcast founding
   - math contest fei bro
   - mayx mabbs & 23 yo geek & sayhuahuo early days & say hanabi dev founding
-  - memoir of prosperity sr
-  - menci & libre oj founding
+  - menci & oierdb founding & libre oj founding
   - mike mirzayanov & codeforces founding
   - mohamad light cr
   - mr marmot & chinese wojaks

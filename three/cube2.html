@@ -1,0 +1,181 @@
+<!-- 
+author: kimi k1.5 loong thinking
+prompt: write a javascript 3d renderer
+answer: 
+
+Here's a simple JavaScript 3D cube renderer with mouse-controlled rotation and perspective projection:
+
+(code)
+
+This code creates a rotating cube with the following features:
+
+1. Perspective Projection: Simulates depth using a simple field-of-view scaling factor.
+2. Mouse Rotation Control: Click and drag to rotate the cube.
+3. Responsive Design: Resizes with the browser window and centers the canvas.
+4. Backface Culling: Avoids rendering points behind the camera.
+
+To use this renderer:
+
+1. Open the HTML file in a browser.
+2. Click and drag the canvas to rotate the cube.
+
+This implementation is a basic example and does not include:
+
+- Depth sorting or hidden surface removal
+- Transformation matrices
+- Textures or lighting
+- Efficient rendering optimizations
+- Complex geometry support
+
+For more advanced 3D rendering, consider using WebGL or a framework like Three.js.
+-->
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>3D Cube Renderer</title>
+    <style>
+      canvas {
+        border: 1px solid black;
+        display: block;
+        margin: 0 auto;
+      }
+    </style>
+  </head>
+  <body>
+    <canvas id="canvas"></canvas>
+    <script>
+      // Cube geometry
+      const cube = {
+        vertices: [
+          { x: -1, y: -1, z: -1 },
+          { x: 1, y: -1, z: -1 },
+          { x: 1, y: 1, z: -1 },
+          { x: -1, y: 1, z: -1 },
+          { x: -1, y: -1, z: 1 },
+          { x: 1, y: -1, z: 1 },
+          { x: 1, y: 1, z: 1 },
+          { x: -1, y: 1, z: 1 },
+        ],
+        edges: [
+          [0, 1],
+          [1, 2],
+          [2, 3],
+          [3, 0],
+          [4, 5],
+          [5, 6],
+          [6, 7],
+          [7, 4],
+          [0, 4],
+          [1, 5],
+          [2, 6],
+          [3, 7],
+        ],
+      };
+
+      // Setup
+      const canvas = document.getElementById("canvas");
+      const ctx = canvas.getContext("2d");
+      let width = (canvas.width = innerWidth);
+      let height = (canvas.height = innerHeight);
+      let rx = 0,
+        ry = 0,
+        rz = 0;
+      const cameraZ = 5;
+      const fov = 200;
+      let isDragging = false;
+      let lastX, lastY;
+
+      // Rotation functions
+      function rotateX(p, a) {
+        const rad = (a * Math.PI) / 180;
+        return {
+          x: p.x,
+          y: p.y * Math.cos(rad) - p.z * Math.sin(rad),
+          z: p.y * Math.sin(rad) + p.z * Math.cos(rad),
+        };
+      }
+
+      function rotateY(p, a) {
+        const rad = (a * Math.PI) / 180;
+        return {
+          x: p.x * Math.cos(rad) + p.z * Math.sin(rad),
+          y: p.y,
+          z: -p.x * Math.sin(rad) + p.z * Math.cos(rad),
+        };
+      }
+
+      function rotateZ(p, a) {
+        const rad = (a * Math.PI) / 180;
+        return {
+          x: p.x * Math.cos(rad) - p.y * Math.sin(rad),
+          y: p.x * Math.sin(rad) + p.y * Math.cos(rad),
+          z: p.z,
+        };
+      }
+
+      // Projection pipeline
+      function project(v, rx, ry, rz) {
+        let rotated = rotateZ(v, rz);
+        rotated = rotateY(rotated, ry);
+        rotated = rotateX(rotated, rx);
+        const z = rotated.z + cameraZ;
+        if (z <= 0) return { x: 0, y: 0 }; // Backface culling
+        const scale = fov / z;
+        const x = rotated.x * scale + width / 2;
+        const y = -rotated.y * scale + height / 2;
+        return { x, y };
+      }
+
+      // Render loop
+      function render() {
+        ctx.clearRect(0, 0, width, height);
+        const points = cube.vertices.map((v) => project(v, rx, ry, rz));
+
+        ctx.beginPath();
+        ctx.lineWidth = 2;
+        ctx.strokeStyle = "black";
+
+        cube.edges.forEach(([a, b]) => {
+          ctx.moveTo(points[a].x, points[a].y);
+          ctx.lineTo(points[b].x, points[b].y);
+        });
+
+        ctx.stroke();
+      }
+
+      // Mouse input handling
+      function handleDrag(e) {
+        if (!isDragging) return;
+        const dx = e.clientX - lastX;
+        const dy = e.clientY - lastY;
+        ry += dx * 0.5;
+        rx += dy * 0.5;
+        lastX = e.clientX;
+        lastY = e.clientY;
+      }
+
+      // Event listeners
+      canvas.addEventListener("mousedown", (e) => {
+        isDragging = true;
+        lastX = e.clientX;
+        lastY = e.clientY;
+      });
+
+      canvas.addEventListener("mousemove", handleDrag);
+
+      window.addEventListener("mouseup", () => (isDragging = false));
+
+      window.addEventListener("resize", () => {
+        width = canvas.width = innerWidth;
+        height = canvas.height = innerHeight;
+      });
+
+      // Start animation loop
+      (function animate() {
+        requestAnimationFrame(animate);
+        render();
+      })();
+    </script>
+  </body>
+</html>
