@@ -50,56 +50,78 @@ git pull e master
 git add .
 git commit -m '.'
 git push -f e
+git push -f l
+
 cd ../memories
 git pull e master
 git add .
 git commit -m '.'
 git push -f e
+git push -f l
+
 cd ../school
 git pull e master
 git add .
 git commit -m '.'
 git push -f e
+git push -f l
+
 cd ../programs
 git pull e master
 git add .
 git commit -m '.'
 git push -f e
+git push -f l
+
 cd ../web
 git pull e master
 git add .
 git commit -m '.'
 git push -f e
+git push -f l
+
 cd ../lucky
 git pull e master
 git add .
 git commit -m '.'
 git push -f e
+git push -f l
+
 cd ../g
 git pull e master
 git add .
 git commit -m '.'
 git push -f e
+git push -f l
+
 cd ../self
 git pull e master
 git add .
 git commit -m '.'
 git push -f e
+git push -f l
+
 cd ../fonts
 git pull e master
 git add .
 git commit -m '.'
 git push -f e
+git push -f l
+
 cd ../bach
 git pull e master
 git add .
 git commit -m '.'
 git push -f e
+git push -f l
+
 cd ../chopin
 git pull e master
 git add .
 git commit -m '.'
 git push -f e
+git push -f l
+
 cd ../..
 }
 

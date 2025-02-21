@@ -498,7 +498,16 @@ sudo apt install gnome-shell-extension-prefs
 - config github
   - ref https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls
 - config gitee (github mirror)
-  - use username and password
+  - use
+    ```
+    git remote add e https://gitee.com/username/project.git
+    ```
+  - input username and password
+- config gitlab
+  - use
+    ```
+    git remote add l https://username:passowrd@gitlab.com/username/project.git
+    ```
 - config zshrc
   - -> `~/.zshrc`
   - -> `git/blogging/config/terminal zshrc.txt`
