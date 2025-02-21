@@ -298,6 +298,11 @@
   - updater(newValue, oldValue, node)
   - returns the updated node or true.
   - if true, the updater edits the dom (by prop node) directly.
+- (wip) feat: add voyage.lib.pattern (alias voyage.lib.p)
+  - tagged fn
+  - p "Counter: ${...}" 
+  - usage: a string, with some states inside
+  - returns a calculator
 - (wip) feat: add voyage.getStatus
   - react has "usestate(init fn)"
   - in voyagejs it's simple, just get status, and do it yourself.
@@ -318,7 +323,8 @@
   - when inc/dec/change, list wont rerender, counters wont rerender.
   - when sorted, list will rerender, counters will rerender.
   - (only changing position of counters is ok, but not supported by default)
-  - (just counters.v = sort(counters.v...), component wont update before created)
+  - just counters.v = sort(counters.v...), component wont update before created
+  - like fetch..., state changes during creation will be delayed
 - (wip) feat: write styling feature like tailwind
   - three fn. defineStyle(), defineTheme(), useTheme().
   - defineStyle(obj styles)

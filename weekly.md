@@ -42,8 +42,7 @@
 - create project avatars
 - write pure chemistry wiki
 - write apps like pre para eat material leisure float
-- create pre for pure project
-- create pre for intuitive project
+- create pre & make vid for pure intuitive
 
 > _diversion_
 
@@ -57,8 +56,8 @@
 - categorize ruanyf weekly archive
 - read ruanyf weekly
 - summarize project leverages
-- write pure math wiki
-- write intuitive cpp wiki
+- create pure math wiki
+- create intuitive cpp wiki
 
 > _drift_
 

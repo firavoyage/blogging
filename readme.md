@@ -236,11 +236,11 @@
   - liqi.io (bob & steve sun & fei ci & robin & mao zhangmen & li xin & gao cong & winboy)
   - mindhub by product thinking (shaonan & fonter & mengna)
   - pan.icu (wu tao & rio)
-  - pretro.xyz (ren ning & rio)
   - python hunter (manjusaka & adam wen & laixintao)
-  - the type (eric liu & qian zhengyu)
+  - think fast talk smart (matt abrahams)
   - ux coffee (riceman & hoka)
   - web worker (xinbao & lv777 & pakchoi & kaiyi & smart)
+  - y combinator startup podcast (y combinator)
   - yitianshijie (li ruyi)
   - yixi (yixi)
 - - wikipedia & miraheze & fandom & moegirl.icu & mdn web docs & oi wiki
@@ -270,6 +270,8 @@
   - nord theme
   - monokai pro
   - atom one dark
+  - nes.css
+  - maia.css
   - just black chromium
 - - ar pl ukai
   - dejavu serif
@@ -735,7 +737,7 @@
 ## shadows
 
 - - wikipedia `User:Firavoyage`
-- - github `firavoyage`
+- - github gitlab gitee `firavoyage`
   - wakatime `firavoyage`
   - duolingo `firavoyage`
 - - codepen `firavoyage`
