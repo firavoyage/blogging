@@ -39,8 +39,7 @@
   - dried mango
   - chenpi
   - huamei
-- - johann sebastian bach
-  - frédéric chopin
+- - jazz & lofi & hiphop & classical
   - calendar & wall clock
   - reading & life size waifu pillow
   - gardening & origami & pixel art
@@ -330,7 +329,7 @@
   - derek sivers & cd baby founding
   - di xuchen djhs
   - diygod & justcc
-  - dong guanxi djhs & english study
+  - dong guanxi djhs & english
   - doris yee yeedor
   - dudu & cnblogs founding
   - dusk's rain in early winter sr
@@ -338,6 +337,7 @@
   - epcdiy & tech critic & reverse engineering & student he analysis & berryberry early days
   - fabrice bellard & cpp programming
   - foreman ma madugong & bedtime news
+  - frédéric chopin & classical music
   - funshiki ふんしき & anime otaku & berryberry early days
   - geek bay geekerwan
   - gennady vladimirovich korotkevich tourist & oi champ
@@ -358,6 +358,7 @@
   - jin jinjin ldhs & lovely daughter
   - jin yudong krahets & hello algorithms authorship
   - jjying iconmoon & design
+  - johann sebastian bach & classical music
   - justyyuk doctor lai & algorithms
   - kaiyi & web dev & podcast hosting
   - kevin brown & mathpages founding
@@ -737,28 +738,23 @@
 ## shadows
 
 - - wikipedia `User:Firavoyage`
-- - github gitlab gitee `firavoyage`
-  - wakatime `firavoyage`
+- - github & gitlab & gitee & codepen & wakatime `firavoyage`
   - duolingo `firavoyage`
-- - codepen `firavoyage`
-  - blogger `firavoyage`
+- - blogger `firavoyage`
   - cnblogs `fira`
   - wordpress `_`
   - medium `_`
-- - reddit `u/firavoyage` `u/Possible_Help4623`
+- - telegram & discord `firavoyage`
+  - telegram channel `_`
+  - youtube `_`
+  - berryberry `fira_言序`
   - bangumi.tv `firavoyage`
   - v2ex `voy`
-  - mastodon `fira@techhub.social` `firavoyage@mastodon.social`
+  - reddit `u/firavoyage` `u/Possible_Help4623`
   - twitter `firascript`
-- - berryberry `fira_言序`
-  - youtube `_`
-  - telegram channel `_`
-- - telegram `firavoyage`
-  - prefered email `firavoyage@outlook.com`
-  - email `firafira@duck.com` `xoyage@gmail.com` `devvhy@zoho.com.cn` `firav@qq.com`
-- - name `fira`
-  - alias `忘我思考`
-  - site `_`
+  - mastodon `fira@techhub.social` `firavoyage@mastodon.social`
+  - email `firavoyage@outlook.com`
+  - alternatives `firafira@duck.com` `xoyage@gmail.com` `devvhy@zoho.com.cn` `firav@qq.com`
 
 ## insight
 

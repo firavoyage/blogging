@@ -369,12 +369,14 @@ sudo apt install gnome-shell-extension-prefs
   - sticky scroll `off`
   - toggle bread crumbs `off`
 - config behavior
-  - -> `file > preferences > settings`
+  - -> `file > preferences > settings` `ctrl ,`
   - auto save `after delay`
     - after delay `100`
   - font family `"Fira Code", "Noto Sans CJK SC", monospace`
   - font ligatures `on`
   - font size `16`
+  - editor: cursor blinking `solid`
+  - editor: occurrences highlight `off`
   - git:enabled `off`
   - lightbulb `off`
   - render whitespace `none`
@@ -497,17 +499,18 @@ sudo apt install gnome-shell-extension-prefs
 
 - config github
   - ref https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls
+    > github no longer supports password. personal access token or ssh needed.
+- config gitlab (github mirror)
+  - use
+    ```
+    git remote add l https://username:passowrd@gitlab.com/username/project.git
+    ```
 - config gitee (github mirror)
   - use
     ```
     git remote add e https://gitee.com/username/project.git
     ```
   - input username and password
-- config gitlab
-  - use
-    ```
-    git remote add l https://username:passowrd@gitlab.com/username/project.git
-    ```
 - config zshrc
   - -> `~/.zshrc`
   - -> `git/blogging/config/terminal zshrc.txt`
@@ -599,7 +602,7 @@ sudo apt install gnome-shell-extension-prefs
 - config `proxy only gfwlist` or `proxy except cn sites`
 - config proxy nodes
   - ref `git/blogging/swim.md`
-  - repos
+  - repos of free nodes
     - https://github.com/aiboboxx/v2rayfree
       - https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
     - https://github.com/adiwzx/freenode/
@@ -610,14 +613,21 @@ sudo apt install gnome-shell-extension-prefs
       - https://raw.githubusercontent.com/mksshare/mksshare.github.io/main/README.md
     - https://github.com/chengaopan/AutoMergePublicNodes
       - https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.txt
-  - mirrors
-    - githubraw.com
+  - mirrors of github raw
     - raw.staticdn.net
-    - mirror.ghproxy.com
     - raw.gitmirror.com
+    - githubraw.com
+    - mirror.ghproxy.com
     - raw.kkgithub.com
     - raw.fastgit.org
-  -
+  - sites of freemium nodes
+    - https://ikuuu.one/ (https://ikuuu.top/) (find@ikuuu.pro)
+  - tools for converting between clash and v2ray subscriptions
+    - https://clash.rokeyyan.com/
+    - https://v2.v2rayse.com/clash-convert/
+    - https://github.com/tindy2013/subconverter
+  - library for building custom proxy
+    - https://github.com/Anankke/SSPanel-Uim
 
 ## `wine`
 

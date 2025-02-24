@@ -1025,9 +1025,7 @@ for(i 1 10 j 10 100){A} //for(let i=1;i<=10;i++){for(let j=10;i<=100;j++){A}}
   - mithril
   - svelte
   - tailwind
-  - sass
-  - less
-  - stylus
+  - tachyons
 
 ### `fresh`
 

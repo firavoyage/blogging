@@ -287,6 +287,9 @@
   - inspired by component life cycle of react
   - mount, update, unmount
   - create (creating & created), show, update, remove
+- (wip) refactor: change inner text to text node
+  - a node can contain both text nodes and other nodes
+  - everything that isnt object will be a text node
 - (wip) feat: add voyage.pointer, alias p
   - usage: p("foo","bar","xyz")
   - returns a proxy with .value pointing states.foo.bar.xyz
@@ -329,28 +332,36 @@
   - three fn. defineStyle(), defineTheme(), useTheme().
   - defineStyle(obj styles)
     - two kind of props
-    - first (string)
+    - for string
       - a prop or value "bg": "background", "blue-1":"lightblue"
       - a style "c-1": "color-red", "rounded": "border-radius: 5px"
       - value with - is considered style otherwise prop or value
-    - second (fn)
+    - for fn
       - a value blue(){}. blue-foo-100 calls blue("foo","100")
       - a style rounded(){}. rounded-5px calls rounded("5px")
       - when it comes to "a-b-c-d" when ab are fn, eval a(b(c,d))
       - when b is not defined, eval a("b","c","d")
       - when a is not defined, consider a as the prop a:b(c,d)
       - when both not defined, raise error. (no css value has -)
+    - these styles will be applied by default
   - defineTheme(options) saves a theme in voyage obj
     - if the theme is already defined, merge them
-    - options {"defaultTheme": {...styles}}
+    - options {"darkTheme": {...styles}}
+    - styles {"text-color":"white", "bg-color":"black"}
     - styles {"button":"rounded bg-blue-100", "button-inner":"..."}
-    - reason: i prefer to use class as component name, not styles
+    - options {"shiro": {...styles}}
+    - styles {"text-color":"grey", "bg-color":"white"}
+    - these styles will only be applied for certain global state "theme"
   - useTheme(str theme) injects a theme to document head
     - private fn compile(css)
       - param list of str selector and obj properties (type: Css)
       - returns str innerhtml of style element
     - style componentid="theme" @html=theme
     - theme is a global state
+    - styles will be generated with recursion
+      - e.g. text style can reference text-color style
+      - no matter which one is former or latter 
+      - voyagejs will make the recursion work
 - (wd) docs: see readme.md
   - roadmap, but in very informal style
   - (lots of thoughts)

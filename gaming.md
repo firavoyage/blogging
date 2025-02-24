@@ -1,45 +1,5 @@
 # stone
 
-## qq
-
-> tencent qq
-
-socialize...
-
-20250219 03:01
-
-搜索到了, djhs表白墙.
-
-就是一个类似 bot 的用户, 你发匿名/真名消息, 
-
-他转发到 qq 空间. (一个类似 twitter 的 timeline)
-
-最新几条, 有表白 lv fuyuan 的 (数学领域大神, 不过不打竞赛).
-
-这个人, f 甚至有加入 readme, 肯定真了. (网络很多同名学校的)
-
-一个类似公告的消息里, 一堆人点赞.
-
-f 挨个看, 喜欢的主页, 就加好友.
-
-- 有一个妹子 (或许是)
-  - 小学初中高中都和 f 一样, 低一级.
-  - 好友验证消息是 "我的真实姓名"
-  - f 直接 tg 社工库, qq 反查 phone, 然后直接反查 id
-  - 查到了, 陈若菲. (id 不放了, 毕竟也不认识)
-- 有几个人, 凌晨还在看手机
-  - 表现为, 刚发送申请, 过了一会就通过, 还不是自动通过
-- 申请语句:
-  - `喵喵喵! 好耶, 是二次元 (djhs` 如果对面主页很二次元
-  - `djhs 扩列喵` 反之
-  - (不申请) 对面空空如也, 或者很恶心 (尤其那种 "新时代" 二次元)
-
-upd
-
-查了一下, 那个公告是 "个性签名" (即 bio)
-
-2016 年发表的, 52 个人按赞 (虽然展开不了的说).
-
 ## gi
 
 > genshin impact
@@ -61,7 +21,7 @@ stories from jun 6 2024.
 
 (on apr 5 2024 f first awakened by cloud gaming.)
 
-(two months later was the game dl)
+(but until jun 6 was sr downloaded.)
 
 - - dr ratio 0shot
 - - bronya 50shots newbie
@@ -81,42 +41,7 @@ stories from jun 6 2024.
   - the herta 80 shots
   - the herta lightcone 70 shots
   - silver wolf 40shots
-
-today is 20241117
-
-team 1
-
-- aventurine
-- dr ratio
-- topaz
-- march (the hunt)
-
-team 2
-
-- fu xuan
-- acheron
-- sparkle (with paired lightcone)
-- pela
-
-other delicate characters
-
-- herta
-- bronya
-
-upd 20250116
-
-team 3
-
-- herta (with paired lightcone the birth of the self)
-- the herta (with paired lightcone)
-
-upd 20250201
-
-**reached lv 70.**
-
-upd 20250207
-
-had some warp. (two lightcone & silver wolf)
+  - robin 30shots
 
 ## df
 
@@ -156,11 +81,55 @@ stories from 20240224
 
 stories from 20240726
 
+> brawl stars
+
+stories from feb 2025
+
 ## cr
 
 > brawl stars (nulls private server)
 
 stories from 20240712
+
+## qq
+
+> tencent qq
+
+socialize...
+
+20250219 03:01
+
+搜索到了, djhs 表白墙.
+
+就是一个类似 bot 的用户, 你发匿名/真名消息,
+
+他转发到 qq 空间. (一个类似 twitter 的 timeline)
+
+最新几条, 有表白 lv fuyuan 的 (数学领域大神, 不过不打竞赛).
+
+这个人, f 甚至有加入 readme, 肯定真了. (网络很多同名学校的)
+
+一个类似公告的消息里, 一堆人点赞.
+
+f 挨个看, 喜欢的主页, 就加好友.
+
+- 有一个妹子 (或许是)
+  - 小学初中高中都和 f 一样, 低一级.
+  - 好友验证消息是 "我的真实姓名"
+  - f 直接 tg 社工库, qq 反查 phone, 然后直接反查 id
+  - 查到了, 陈若菲. (id 不放了, 毕竟也不认识)
+- 有几个人, 凌晨还在看手机
+  - 表现为, 刚发送申请, 过了一会就通过, 还不是自动通过
+- 申请语句:
+  - `喵喵喵! 好耶, 是二次元 (djhs` 如果对面主页很二次元
+  - `djhs 扩列喵` 反之
+  - (不申请) 对面空空如也, 或者很恶心 (尤其那种 "新时代" 二次元)
+
+upd
+
+查了一下, 那个公告是 "个性签名" (即 bio)
+
+2016 年发表的, 52 个人按赞 (虽然展开不了的说).
 
 # river
 
@@ -1204,8 +1173,6 @@ maybe not activating fu xuan's skill and try again?
 
 ## 20241101
 
-## 20241101
-
 00:17
 
 stuck in sr su.
@@ -1825,9 +1792,24 @@ and this is my sr gacha record.
 
 upd
 
-`ref`
+team 1
 
-saved these to "stone"
+- aventurine
+- dr ratio
+- topaz
+- march (the hunt)
+
+team 2
+
+- fu xuan
+- acheron
+- sparkle (with paired lightcone)
+- pela
+
+other delicate characters
+
+- herta
+- bronya
 
 ## 20241118
 
@@ -5788,6 +5770,13 @@ played sr.
 
 **"into the unreachable veil"**
 
+upd
+
+team 3
+
+- herta (with paired lightcone the birth of the self)
+- the herta (with paired lightcone)
+
 ## 20250117
 
 04:13
@@ -6517,6 +6506,14 @@ played df.
 - write voyagejs, 并不复杂
 - 赛季 3x3 不难, 做掉. 所谓一命通关, 开上去起五甲紫丹两把就搞定.
 
+## 20250201
+
+`ref` `important`
+
+played sr.
+
+**reached lv 70.**
+
 ## 20250204
 
 01:xx
@@ -6530,6 +6527,12 @@ played df.
 找了许多固排...
 
 **出非洲之心了. 绝密航天蓝室核心.**
+
+## 20250207
+
+played sr.
+
+had some warp. (two lightcone & silver wolf)
 
 ## 20250209
 
@@ -6549,7 +6552,7 @@ played df.
 
 **great game.**
 
-## 20250209
+## 20250210
 
 04:xx
 
@@ -6607,3 +6610,86 @@ played df.
 
 **休闲打法, 没有任务, 没有仓库的 roguelike.**
 
+## 20250223
+
+22:28
+
+`ref` `important`
+
+played sr.
+
+**robin dropped at 30 shots.**
+
+no more lightcone needed, just use bronya's.
+
+## 20250225
+
+02:23
+
+`ref` `important`
+
+played bs.
+
+遇到了一个日本好友. (批量添加了, 都不认识, 好友推荐全加)
+
+(昨天和一个简中人, 一个繁中人聊天, rank, 豪玩!)
+
+in game chat. 
+
+brawlstars tag @89L2J2CG9
+
+19 yr o.
+
+向他推荐了 0d00.cn
+
+交换了 x (twitter).
+
+@firascript
+
+@lxyqc2
+
+"私日本人"
+
+"君日本语本当上手"
+
+"really"
+
+"japanese hate chinese"
+
+"bear"
+
+"i mean u r monkey"
+
+"your president is bear"
+
+"winnie the pooh"
+
+"yeah"
+
+"go to 0d00.cn"
+
+"i replied u"
+
+"dm come on!"
+
+"your name is kawa"
+
+...
+
+"a galgame"
+
+"wow"
+
+"hentai"
+
+"i dont use x frequently"
+
+"most time on telegram and github"
+
+"Let's talk if you feel like it"
+
+"i'm sleepy😴😴"
+
+"sorry"
+
+"ok" (reacted with crying emoji)

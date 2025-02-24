@@ -11229,3 +11229,33 @@ ikuuu.one
 https://github.com/Anankke/SSPanel-Uim
 
 **great!**
+
+部署了自己的项目到 github, gitee, gitlab, 同步.
+
+用上了 ikuuu 的节点, 免费 50gb, 还可以签到! 
+
+**爽啦! 闪一下就加载了.**
+
+## 20250222
+
+18:44
+
+reading ruanyf weekly...
+
+revised readme. added the music genre i love
+
+> jazz & lofi & classical
+
+revising berryberry fav...
+
+## 20250225
+
+05:17
+
+`ref`
+
+a common day.
+
+- categorizing ruanyf weekly
+- chatted with a japanese in brawl stars
+- upd mistral.md (nodejs guide)
