@@ -6518,19 +6518,21 @@ Substack 刚刚发布的在线 RSS 阅读器。
 
 -- [Uncle Bob](https://critter.blog/2020/09/15/dont-comment-your-code-refactor-it/)
 
-## 
+## geometry style image filter
 
-`app` `info`
+`app` `image` `art`
 
-[BrowserTime](https://github.com/seanmiller802/BrowserTime)
+[Geometrize](https://www.geometrize.co.uk/)
 
-![](https://cdn.beekka.com/blogimg/asset/202012/bg2020121707.jpg)
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020122001.jpg)
 
-Chrome 浏览器的插件，显示一个仪表盘，分析你的浏览历史，显示你在哪些网站花费最多时间。
+![](https://cdn.beekka.com/blogimg/asset/202012/bg2020122002.jpg)
+
+一个在线工具，将照片转成基于几何形状的水彩画。
 
 ##
 
-##
+
 
 ##
 

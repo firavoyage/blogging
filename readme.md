@@ -290,12 +290,10 @@
   - brad traversy & web dev & crash courses
   - bruno simon & web dev & threejs journey founding
   - cali castle & zolplay founding & game dev
-  - cao yunfan djhs & geography enthusiast
   - caspar david friedric & art & wanderer above the sea of fog
   - change release & mihoyo insane
   - chen liangzhou pink rabbit & oi & gi
-  - chen ruihan djhs & history enthusiast
-  - chen shiyu djhs & 26 yo youth & chinese allusions & waifu daisuki
+  - chen shiyu djhs & chinese analysis & 26 yr o waifu
   - chen suiyi chenbimo & web dev
   - chen xiao & origami
   - chen zhiwei ldhs djhs & football
@@ -309,9 +307,8 @@
   - dan abramov overreacted & web dev
   - david heinemeier hansson & ruby on rails founding
   - derek sivers & cd baby founding
-  - di xuchen djhs
+  - di xuchen djhs & hentai
   - diygod & justcc
-  - dong guanxi djhs & english
   - doris yee yeedor
   - dudu & cnblogs founding
   - dusk's rain in early winter sr
@@ -338,7 +335,7 @@
   - jiang zhijun djhs & champ
   - jiangly not dd & oi champ
   - jimmy wales & wikipedia founding
-  - jin jinjin ldhs & lovely daughter
+  - jin jinjin ldhs & with daughter
   - jin yudong krahets & hello algorithms authorship
   - jjying iconmoon & design
   - johann sebastian bach & classical music
@@ -354,7 +351,6 @@
   - lex fridman & dev conversation
   - liu mingye & web dev & music tools
   - liu xin livid & v2ex founding
-  - liu yuan djhs & interactive math
   - lks & internet observation & pursuit of fun & berryberry early days
   - longbow flintlock & mihoyo doujin
   - lu jianhong djhs & english culture
@@ -396,7 +392,6 @@
   - science fictional lycium chinense
   - segun adebayo & web dev & chakra ui founding
   - share121 & high school life & interknot forum founding
-  - shen ruochen djhs & math teaching & cycle racing
   - six divided chaochao & retro art
   - sofish & web dev & design & life gap & shimo docs founding
   - spicy pidan porridge & short film direction
@@ -414,26 +409,21 @@
   - wanderer bs
   - wang xiaofeng djhs & anime otaku
   - wang yining fira & dev
-  - wang zhaohai djhs & math on whiteboard
+  - wang zhaohai djhs & handwriting math
   - web dev simplified & quick start
   - wes bos & web dev & js 30
-  - with.fish lz233
-  - xu haohuan ldhs & kawaii & gi gaming
+  - xu haohuan ldhs & kawaii boy & gi gaming
   - xu xiling tangenter & oi & integer overflow writing
   - yan xuecan & acwing founding
-  - yang beilei djhs & geography
-  - yang yang djhs & physics
   - yin ming kalasoo & juejin founding
-  - yu weilun ldhs & kawaii
+  - yu weilun ldhs & kawaii boy
   - yuluer & mihoyo doujin
-  - yunling sapphire & peer tutor life
+  - yunling sapphire & peer tutoring
   - yunyoujun & web dev & popular mini apps
-  - zhang chuanzhi ldhs & chemistry quizzes
-  - zhang shuhao studyingfather & oi
-  - zhang xizhe djhs & math enthusiast & cr df gaming
+  - zhang chuanzhi ldhs & daily chemistry quiz
+  - zhang xizhe djhs & math enthusiast & cr gaming
   - zhao jinjiang jiongks & web dev & vue
   - zhong fangyuan zhfany & oi
-  - zhou ling djhs & kindly class master
   - zhou xuanyi & huang zhizhong & debate
   - zhou yang & hopico music founding
   - zhou zhiyuan djhs & japanese learning
@@ -468,6 +458,7 @@
   - apt 2.7.14
   - flatpak 1.14.10
   - snap 2.63.1
+  - aegis-authenticator 3.3.4
   - antennapod 3.1.2
   - bilimiao 2.3.8.3
   - blender 4.2.1
@@ -532,6 +523,7 @@
 - - lenovo yoga 13s acn 2021
   - smartisan revolution ii
   - oneplus buds 3
+  - oppo enco free 3
   - logitech wireless mouse m185
 
 ## strength
@@ -731,6 +723,7 @@
   - telegram channel `_`
   - youtube `_`
   - berryberry `fira_言序`
+  - acfun `忘我思考` `65210945`
   - bangumi.tv `firavoyage`
   - v2ex `voy`
   - reddit `u/firavoyage`
