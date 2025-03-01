@@ -41,7 +41,7 @@
 - design component libraries
 - create project avatars
 - write pure chemistry wiki
-- write apps like pre para eat material leisure float
+- write apps like pre para eat leisure float material
 - create pre & make vid for pure intuitive
 
 > _diversion_

@@ -301,6 +301,11 @@
   - updater(newValue, oldValue, node)
   - returns the updated node or true.
   - if true, the updater edits the dom (by prop node) directly.
+- (wd) feat: make functions stoppable
+  - if global state like "display method" changed from 1 to 2
+  - the full page will rerender (expensive)
+  - and user cancelled quickly (changing display method again, like 3)
+  - the former rerender will stop, and run next rerender as method 3
 - (wip) feat: add voyage.lib.pattern (alias voyage.lib.p)
   - tagged fn
   - p "Counter: ${...}" 

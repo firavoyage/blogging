@@ -321,10 +321,16 @@ sudo apt install gnome-shell-extension-prefs
   - bewlybewly https://chromewebstore.google.com/detail/bewlybewly/bbbiejemhfihiooipfcjmjmbfdmobobp
   - wayback machine https://chromewebstore.google.com/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak
     - login
-  - wakatime
+  - wakatime https://chrome.google.com/webstore/detail/jnbbnacmeggbgdjgaoojpmhdlkkpblgi
     - add api key
     - logging type `entire url`
     - theme `dark`
+  - buster https://chrome.google.com/webstore/detail/mpbjkejclgfgadiemmefgebjfooflfhl
+    - ref https://github.com/dessant/buster
+  - authenticator https://chromewebstore.google.com/detail/authenticator/bhghoamapcdpbohphigoooaddinpkbai
+    - -> `git/blogging/config/config github recovery codes.zip`
+    - config issuer `Github`
+    - config secret `...`
 - config fonts
   - -> `chrome://settings/fonts`
   - standard `roboto`

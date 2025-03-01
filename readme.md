@@ -82,9 +82,11 @@
   - internet overdose (aiobahn & kotoko & needy girl overdose)
   - burning desires (burnice & zzz studio & hoyo-mix)
   - sky (beyond)
+  - you my deskmate (gao xiaosong & lao lang)
   - thou away from oi (menci & wxh010910 & yan qval & krydom & niro bc & wer key tom_ftd & \_\_stdcall & created_equal & whzzt & wy1627)
   - counter-clockwise clock (kafka & jay chou)
   - story of time (luo da you)
+  - pompous (eason chan)
   - fu shi shan xia (eason chan)
   - love before bc (jay chou)
   - fleet of time (faye wong)
@@ -107,8 +109,6 @@
   - castle in the sky (1986)
   - searching (2018)
   - .princess mononoke (1997)
-  - .the good the bad and the ugly (1966)
-  - .in the mood for love (2000)
   - .the truman show (1998)
   - .forrest gump (1994)
   - .roman holiday (1953)
@@ -137,52 +137,38 @@
   - .oshi no ko (2023)
   - .school days (2007)
   - .white album (2009)
-  - .the big bang theory (2007)
-  - .the long season (2023)
   - .reply 1988 (2015)
-- - honkai star rail (2023)
-  - honkai impact third (2016)
-  - houkai gakuen second (2014)
-  - azur lane (2017)
-  - blue archive (2021)
-  - brawl stars (2017)
-  - clash royale (2016)
-  - delta force (2024)
-  - pubg mobile (2018)
-  - genshin impact (2020)
-  - minecraft (2011)
-  - terraria (2011)
-  - kingdom rush (2011)
+  - .the big bang theory (2007)
+  - .yes minister (1980)
+- - minecraft (2011)
   - soul knight (2017)
-  - canabalt hd (2009)
-  - angry birds classic (2009)
-  - the powder toy (2013)
-  - senren banka (2016)
-  - sabbat of the witch (2015)
-  - the rainbow appears after flowering rain (2016)
-  - miside (2023)
-  - liar's bar (2024)
+  - genshin impact (2020)
+  - clash royale (2016)
+  - brawl stars (2017)
+  - azur lane (2017)
+  - honkai star rail (2023)
+  - honkai impact third (2016)
+  - blue archive (2021)
+  - houkai gakuen second (2014)
+  - delta force (2024)
   - .earth online (.)
+  - .terraria (2011)
   - .the legend of zelda: tears of the kingdom (2023)
   - .the legend of zelda: breath of the wild (2017)
+  - .grand theft auto v (2013)
+  - .elden ring (2022)
+  - .sekiro: shadows die twice (2019)
+  - .the binding of isaac (2011)
+  - .yosuga no sora (2008)
+  - .wonderful everyday (2010)
+  - .senren banka (2016)
+  - .sabbat of the witch (2015)
+  - .super bunny man (2017)
   - .hollow knight (2017)
   - .celeste (2018)
+  - .liar's bar (2024)
   - .astro bot (2024)
-  - .undertale (2015)
-  - .star craft (1998)
-  - .doom (1993)
-  - .sekiro: shadows die twice (2019)
-  - .elden ring (2022)
-  - .the binding of isaac (2011)
-  - .grand theft auto v (2013)
-  - .super bunny man (2017)
-  - .pico park (2019)
-  - .fly me 2 the moon (2011)
-  - .needy streamer overload (2022)
-  - .yosuga no sora (2008)
-  - .riddle joker (2020)
-  - .wonderful everyday (2010)
-  - .doki doki literature club! (2017)
+  - .monster hunter wilds (2025)
 - - to live (yu hua)
   - one hundred years of solitude (gabriel garcía márquez)
   - the scholars (wu jingzi)
@@ -245,24 +231,20 @@
 - - wikipedia & miraheze & fandom & moegirl.icu & mdn web docs & oi wiki
   - github & the pirate bay & z library & anna's archive
   - internet archive wayback machine & archive.today
-  - google & mistral le chat & gemini & deepseek & kimi
-  - youtube & berryberry & niconico
-  - old reddit & zhihu & stack exchange & nga bbs & forum.gamer.com.tw & tumblr
+  - google & mistral le chat & gemini & chatgpt & deepseek & kimi
+  - youtube & berryberry & vtbs.moe & hololist
+  - old reddit & zhihu & nga bbs & forum.gamer.com.tw & v2ex & stack exchange
   - bangumi.tv & my anime list & mikan project & bgmlist & dmhy.org
-  - hacker news & slashdot & ruanyf weekly & v2ex creative & product hunt
-  - codepen spark & css tricks & javascript weekly
-  - codeforces & atcoder & luogu & libre oj 
-  - google reader & cnblogs & travellings.cn & foreverblog.cn & travel.moe
-  - douban book & goodread
-  - douban movie & imdb
-  - steam db & google doodles & itch.io & textadventures.co.uk
+  - douban & imdb & genius & poetry foundation
+  - e hentai & mangadex & vndb & shinnku galgame
   - pixiv & deviantart & dribbble & unsplash
-  - genius & poetry foundation
-  - vndb & shinnku galgame
-  - javbus & missav & e hentai
-  - eu.org & workers & pages & netlify & vercel & deno & glitch
+  - steam db & itch.io & google doodles & textadventures.co.uk
+  - hacker news & ruanyf weekly & gamedevjs weekly & codepen spark & product hunt
+  - codeforces & atcoder & luogu & libre oj
+  - cnblogs & travellings.cn & foreverblog.cn & travel.moe & google reader
+  - eu.org & cloudflare & netlify & vercel & deno & glitch
 - - ubuntu yaru
-  - material design 2 & material design 3
+  - material design 2 & 3
   - iphone os 6
   - oxygen os 11
   - dracula theme
@@ -341,7 +323,7 @@
   - funshiki ふんしき & anime otaku & berryberry early days
   - geek bay geekerwan
   - gennady vladimirovich korotkevich tourist & oi champ
-  - gu sen matrix67 & cai xueqin localhost-8080
+  - gu sen matrix67 & cai xueqin localhost-8080 & itch
   - gui minghao djhs & math enthusiast & anime otaku
   - hakim el hattab & web dev & design
   - huang chenghui lciop cr & spark
@@ -351,6 +333,7 @@
   - jeff delaney & fireship founding & web dev in 100 sec
   - jeff hawkins & palm founding & brain science
   - jens oliver meiert & web dev leadership & google maia css founding
+  - jez swanson jezzamon & itch & fourier transformation
   - jiang yanyan & oi teaching & os dev
   - jiang zhijun djhs & champ
   - jiangly not dd & oi champ
@@ -379,6 +362,7 @@
   - lv fuyuan djhs & math champ
   - lv yirong ldhs & champ
   - maciej cegłowski & pinboard founding
+  - maggie appleton & visual essays & the garden
   - magicalflower & oi
   - marco arment & overcast founding
   - math contest fei bro
@@ -387,7 +371,6 @@
   - mike mirzayanov & codeforces founding
   - mohamad light cr
   - mr marmot & chinese wojaks
-  - mr yu ceo & physics
   - nat friedman & github founding & venture capital
   - nicholas wei bro & mihoyo founding
   - old bai sleepwalked & waifu vr & mihoyo doujin
@@ -750,10 +733,11 @@
   - berryberry `fira_言序`
   - bangumi.tv `firavoyage`
   - v2ex `voy`
-  - reddit `u/firavoyage` `u/Possible_Help4623`
+  - reddit `u/firavoyage`
   - twitter `firascript`
   - mastodon `fira@techhub.social` `firavoyage@mastodon.social`
-  - email `firavoyage@outlook.com`
+  - bluesky `@firavoyage.bsky.social`
+- - email `firavoyage@outlook.com`
   - alternatives `firafira@duck.com` `xoyage@gmail.com` `devvhy@zoho.com.cn` `firav@qq.com`
 
 ## insight
@@ -784,3 +768,7 @@
 > _以上 / 祝你度过智识的, 审美的一天_
 
 > _毋负今日_
+
+> f 最后会离开, 但在此之前, 她很快就会落魄. 或许三十岁吧, 是虚指, 可能是二十八, 因为每个人都是这样的. 幻想, 那时候的 f 一定失去了太多... (...) f 要活在当下, 不仅活在现在, 也要让未来的 f 活在现在. f 好像和落魄的 f, 超越世界的 f 拥抱, 告诉她, f 喜欢什么... f 的一生活得很精彩, 至少比周围人聪明... 其实, f 想着, 这世界上会有许多 f 吧... 虽然做了许多事只是追寻琐碎的欢乐, 但真正有意义的事情还是让米那桑记住 f 吧. 虽然那时候的 f 或许已经不在意这些了, 但很长一段时间, 直到现在 f 都想着, 这是她一生该追寻的. 不过这种意义也很开心就是了.
+
+> f 的愿望... 记住 f, 成为 f. 这也是对 f 自己说的.
