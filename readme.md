@@ -13,7 +13,7 @@
 - a developer, writer, wikipedian
 - grew up in shanghai
 - on the internet since 2016, which is my actual "home town"
-- live in djhs, california
+- live in the bay area of the internet
 - working on voyage project
 
 ## desiderata
@@ -45,7 +45,7 @@
   - gardening & origami & pixel art
   - math & algorithms & unixporn & mtf & virtualyoutubers
   - functional programming & web dev
-  - dark style & night light & low brightness
+  - dark style & night light & low brightness & tranquility
   - attention & observation
   - arrangement & accumulation
   - cynicism & dissociation & second person omniscient narration & inner speech
@@ -60,7 +60,7 @@
   - world.execute(me); (mili)
   - magnet (minato aqua & inuyama tamaki)
   - henceforth (kagura mea) (yuuki sakuna)
-  - -tooi sora he- (manack & bruno wen li)
+  - toui sora he (manack & bruno wen li)
   - aruarian dance (nujabes)
   - haru no kaze (aoi teshima)
   - one more time, one more chance (masayoshi yamazaki)
@@ -108,6 +108,7 @@
   - the last dance (2024)
   - castle in the sky (1986)
   - searching (2018)
+  - being john malkovich (1999)
   - .princess mononoke (1997)
   - .the truman show (1998)
   - .forrest gump (1994)
@@ -453,8 +454,8 @@
   - markdown-all-in-one 3.6.2
   - javascript-code-snippets 1.8.0
   - javascript-snippets 0.4.0
+  - rust-analyzer 0.3.2328
   - code-runner 0.12.2
-  - badge-maker 4.1.0
   - apt 2.7.14
   - flatpak 1.14.10
   - snap 2.63.1
@@ -668,16 +669,12 @@
 
 ## erudition
 
-- capsule
+- lights
+  - `ruanyf` observation of the digital time
   - `livid` letter to the solitary youth
   - `nat` belief of a tech entrepreneur
-  - `ruanyf` observation of the digital time
   - `florio` advice for the programming ride
-  - `jiangyanyan` cs researchers and the time
-  - `tim` reflection of mediastorm early days
-  - `dhh` the bio of a handsome geek
-  - `4gotten` impact of fast internet speed
-  - `reflections` memories of the fellows
+  - `jiangyanyan` confusing cs graduates in the time
 - creation
   - `projects` worthwhile endeavours
   - `mistral` walk in the light with le chat
@@ -696,19 +693,21 @@
 
 ## gamut
 
-- `blogging` notes librarian
-- `blogging/intuitive` intuitive programming guide
-- `blogging/pure` pure science guide
-- `memories/perspective` cyber wanderer
-- `memories/insight` digital memokeeper
-- `memories/gaming` internet otaku
-- `school` lifelong learner
-- `lucky` konata izumi waifu
-- `web` time capsule maintainer
-- `programs` front end programmer
-- `music` music lover
-- `fonts` typography enthusiast
-- `self` avatar user
+- `blogging` gardener
+- `blogging/config` geek
+- `blogging/excerpts` learner
+- `blogging/notes` librarian
+- `blogging/...` craftsman
+- `memories/perspective` surfer
+- `memories/insight` sojourner
+- `memories/gaming` otaku
+- `school` photographer
+- `lucky` konata izumi
+- `web` archivist
+- `programs` developer
+- `music` audience
+- `fonts` calligrapher
+- `self` avatar
 
 ## shadows
 
@@ -722,7 +721,7 @@
 - - telegram & discord `firavoyage`
   - telegram channel `_`
   - youtube `_`
-  - berryberry `fira_言序`
+  - berryberry `fira_言序` `1156993272`
   - acfun `忘我思考` `65210945`
   - bangumi.tv `firavoyage`
   - v2ex `voy`
@@ -765,3 +764,7 @@
 > f 最后会离开, 但在此之前, 她很快就会落魄. 或许三十岁吧, 是虚指, 可能是二十八, 因为每个人都是这样的. 幻想, 那时候的 f 一定失去了太多... (...) f 要活在当下, 不仅活在现在, 也要让未来的 f 活在现在. f 好像和落魄的 f, 超越世界的 f 拥抱, 告诉她, f 喜欢什么... f 的一生活得很精彩, 至少比周围人聪明... 其实, f 想着, 这世界上会有许多 f 吧... 虽然做了许多事只是追寻琐碎的欢乐, 但真正有意义的事情还是让米那桑记住 f 吧. 虽然那时候的 f 或许已经不在意这些了, 但很长一段时间, 直到现在 f 都想着, 这是她一生该追寻的. 不过这种意义也很开心就是了.
 
 > f 的愿望... 记住 f, 成为 f. 这也是对 f 自己说的.
+
+> 90% 和 95% 是有区别的, 80% 和 20% 是没有区别的. 想成为厉害的人. 如果 f 死后没有许多陌生人记住 f, f 活着也没什么意思.
+
+> 或许未来, 机械足够发展, 没有什么真正的工作了, 也有新的分配方式, 或者说社会基础福利. 或者说, 在今天就已经显示出许多了, 不繁华的地方, 一年的薪水可以构建许多年的朴素生活, 似乎也形成了躺平的理念. 或者简单一点的假设, 如果他们都退休了, 从现在开始, 有足够的退休金, 对于一个繁华之外生活的 otaku 而言. 他们会有什么成就呢? 他们能过上得意的人生吗? f 不知道. f 看着他们, 大笑, 或是大哭, 最后也只是释怀和悲悯. 而 f 会征服世界吗? f 还没有上过 hunt, hn, github trending...

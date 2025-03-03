@@ -10739,7 +10739,7 @@ cesu-wang.com
 
 `weather` `ref`
 
-新家的第一顿饭. (早饭午饭都没吃.) 
+新家的第一顿饭. (早饭午饭都没吃.)
 
 有牡蛎煎. 如常, 新的物件, 和空旷的房间.
 
@@ -10759,9 +10759,9 @@ https://www.bilibili.com/video/
 
 `sleep` `ref` `important`
 
-got up. 
+got up.
 
-11点就醒了, 但不想起来.
+11 点就醒了, 但不想起来.
 
 这几天每天都睡 11h 左右, 好舒服, 也不用吃早饭和午饭.
 
@@ -10799,7 +10799,7 @@ about voyagejs.
 
 想来, voyage 的设计初衷, 是为了设计出优雅的组件库.
 
-当下的流行框架太复杂了. 
+当下的流行框架太复杂了.
 
 **steep learning curve.**
 
@@ -10982,7 +10982,7 @@ writing voyagejs...
 
 `weather` `ref` `important`
 
-明天早上就离开老家了. 
+明天早上就离开老家了.
 
 一共在老家待了三天, 第一天晚上是春晚.
 
@@ -10995,11 +10995,11 @@ writing voyagejs...
 - earphone
 - charger
 
-都带来的缘故, 似乎和在家一样. 
+都带来的缘故, 似乎和在家一样.
 
 **无非日常琐碎会简陋些, 2333333.**
 
-老家的亲戚都见过了. 
+老家的亲戚都见过了.
 
 - 奶奶
   - 一 (大姐, 年纪最大呢...)
@@ -11013,7 +11013,7 @@ writing voyagejs...
 
 为父者, 与庭前, 鸡犬中闲聊. 那是他的世界啦...
 
-从前很兴奋, 很怀念, 因为老家是日常之外的新奇体验. 
+从前很兴奋, 很怀念, 因为老家是日常之外的新奇体验.
 
 现在本不想回家, 但在最后一天想来, 缓缓的日子亦值得向往.
 
@@ -11021,7 +11021,7 @@ writing voyagejs...
 
 **f 从来没有喜欢过, 平淡, 平静的故土.**
 
-几天前在芜湖玩, 是小城镇 (三线城市). 
+几天前在芜湖玩, 是小城镇 (三线城市).
 
 在为父者看来, 那里, 教师, 警察, 医生... 地位最高了. 他认为多数是单职工家庭.
 
@@ -11186,9 +11186,9 @@ git reset --hard a1b2c3d  # Replace with your commit hash
 
 玩耍, 在 tencent qq. (一个类似 telegram 的软体, 在中国大陆一度流行)
 
-qq 搜索到了, djhs表白墙.
+qq 搜索到了, djhs 表白墙.
 
-就是一个类似 bot 的用户, 你发匿名/真名消息, 
+就是一个类似 bot 的用户, 你发匿名/真名消息,
 
 他转发到 qq 空间. (一个类似 twitter 的 timeline)
 
@@ -11232,7 +11232,7 @@ https://github.com/Anankke/SSPanel-Uim
 
 部署了自己的项目到 github, gitee, gitlab, 同步.
 
-用上了 ikuuu 的节点, 免费 50gb, 还可以签到! 
+用上了 ikuuu 的节点, 免费 50gb, 还可以签到!
 
 **爽啦! 闪一下就加载了.**
 
@@ -11272,3 +11272,28 @@ finished categorizing legacy ruanyf weekly (issues 1 to 133)
 
 new journey began.
 
+## 20250303
+
+00:29
+
+`movie`
+
+watched being john malkovich (1999) on funshiki live.
+
+great movie. special feeling.
+
+`sleep` `ref` `important`
+
+funshiki said:
+
+我今天要早点睡了. 昨天睡太晚了, 凌晨 4 点睡的.
+
+(f 凌晨 5 点睡的, 233333, 抱着被子半醒, 幻想了两个小时... 然后继续睡到中午, 13 点吧.)
+
+(幻想的对象是你哦, 退役 vtuber... acfun 上的, 七宫天空 aria, 和其前世福利姬.)
+
+(电脑还存了他的图集, 感觉不如魅魔 vtuber 形态, 不够癫疯, 只是普通的福利姬哪.)
+
+接着说 funshiki, 周日说直播计划, 白白
+
+周一放送中国产武侠网游, 周二周三放送星穹铁道新版本, 周四 mujica, ... (?)

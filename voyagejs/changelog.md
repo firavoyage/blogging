@@ -306,6 +306,10 @@
   - the full page will rerender (expensive)
   - and user cancelled quickly (changing display method again, like 3)
   - the former rerender will stop, and run next rerender as method 3
+- (wip) feat: add type calculator, a label can be calculator
+  - an object
+  - prop factors, an array of str keys of states
+  - prop calculator, a fn with states inside
 - (wip) feat: add voyage.lib.pattern (alias voyage.lib.p)
   - tagged fn
   - p "Counter: ${...}" 
