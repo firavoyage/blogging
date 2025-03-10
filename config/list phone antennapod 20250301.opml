@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no' ?>
+<opml version="2.0">
+  <head>
+    <title>AntennaPod Subscriptions</title>
+    <dateCreated>01 Mar 25 20:04:14 +0800</dateCreated>
+  </head>
+  <body>
+    <outline text="Anyway.FM 设计杂谈" title="Anyway.FM 设计杂谈" type="rss" xmlUrl="https://Anyway.FM/rss.xml" htmlUrl="https://anyway.fm" />
+    <outline text="IT 公论" title="IT 公论" type="rss" xmlUrl="https://itgonglun.com/feed/audio.xml" htmlUrl="https://itgonglun.com/" />
+    <outline text="Lex Fridman Podcast" title="Lex Fridman Podcast" type="rss" xmlUrl="https://lexfridman.com/feed/podcast/" htmlUrl="https://lexfridman.com/" />
+    <outline text="Think Fast Talk Smart: Communication Techniques" title="Think Fast Talk Smart: Communication Techniques" type="rss" xmlUrl="https://feeds.transistor.fm/think-fast-talk-smart-communication-techniques" htmlUrl="https://fastersmarter.io" />
+    <outline text="UX Coffee 设计咖" title="UX Coffee 设计咖" type="rss" xmlUrl="https://uxcoffee.typlog.io/feed/audio.xml" htmlUrl="https://uxcoffee.com/" />
+    <outline text="Web Worker-前端程序员都爱听" title="Web Worker-前端程序员都爱听" type="rss" xmlUrl="https://feed.xyzfm.space/rv449dl9kqka" htmlUrl="https://www.xiaoyuzhoufm.com/podcast/613753ef23c82a9a1ccfdf35?utm_source=rss" />
+    <outline text="Y Combinator Startup Podcast" title="Y Combinator Startup Podcast" type="rss" xmlUrl="https://anchor.fm/s/8c1524bc/podcast/rss" htmlUrl="http://www.ycombinator.com" />
+    <outline text="一天世界" title="一天世界" type="rss" xmlUrl="https://yitianshijie.net/feed/audio.xml" htmlUrl="https://yitianshijie.net" />
+    <outline text="一席YiXi" title="一席YiXi" type="rss" xmlUrl="http://www.ximalaya.com/album/242812.xml" htmlUrl="https://www.ximalaya.com/album/242812" />
+    <outline text="代码之外 Beyond Code" title="代码之外 Beyond Code" type="rss" xmlUrl="https://feed.xyzfm.space/nfm8cu8deycn" htmlUrl="https://www.xiaoyuzhoufm.com/podcast/6194d973c14c9a0db82de1ea?utm_source=rss" />
+    <outline text="内核恐慌" title="内核恐慌" type="rss" xmlUrl="https://pan.icu/feed" htmlUrl="https://pan.icu" />
+    <outline text="奇想驿 by 产品沉思录" title="奇想驿 by 产品沉思录" type="rss" xmlUrl="https://feed.xyzfm.space/4wq8y3ymmc7p" htmlUrl="https://www.xiaoyuzhoufm.com/podcast/6034daea97755b8fc9c66480?utm_source=rss" />
+    <outline text="捕蛇者说" title="捕蛇者说" type="rss" xmlUrl="https://pythonhunter.org/feed/audio.xml" htmlUrl="https://pythonhunter.org/" />
+    <outline text="枫言枫语" title="枫言枫语" type="rss" xmlUrl="https://justinyan.me/feed/podcast" htmlUrl="https://fyfy.fm" />
+    <outline text="硬地骇客" title="硬地骇客" type="rss" xmlUrl="https://feed.xyzfm.space/byhkljlbep9j" htmlUrl="https://www.xiaoyuzhoufm.com/podcast/640ee2438be5d40013fe4a87?utm_source=rss" />
+  </body>
+</opml>
