@@ -358,16 +358,16 @@ sudo apt install gnome-shell-extension-prefs
   - one dark pro
   - monokai pro
 - install extensions
-  - wakatime
+  - wakatime `wakatime.vscode-wakatime`
     - add api key
-  - eslint
-  - prettier
-  - javascript snippets
-  - javascript (es6) code snippets
-  - markdown all in one
-  - code runner
-  - rust-analyzer
-  - fold
+  - eslint `dbaeumer.vscode-eslint`
+  - prettier `esbenp.prettier-vscode`
+  - javascript snippets `nathanchapman.javascriptsnippets`
+  - javascript (es6) code snippets `xabikos.javascriptsnippets`
+  - markdown all in one `yzhang.markdown-all-in-one`
+  - code runner `formulahendry.code-runner`
+  - rust-analyzer `rust-lang.rust-analyzer`
+  - fold `felicio.vscode-fold`
 - config appearance
   - -> `view > appearance`
   - menu & status & ... bar `off`
@@ -387,7 +387,7 @@ sudo apt install gnome-shell-extension-prefs
   - git:enabled `off`
   - lightbulb `off`
   - render whitespace `none`
-  - tab `2 spaces`
+  - editor: tab size `2 spaces`
   - workspace `off`
   - extensions: auto update `none`
   - markdown>extension>theming>decoration:render code span `off`

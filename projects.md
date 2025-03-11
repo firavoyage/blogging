@@ -309,7 +309,7 @@
 
 ### `eat`
 
-> breathe in the infomation boom
+> breathe in the overwhelm of infomation
 
 - features
   - control of your feed
@@ -516,13 +516,11 @@
 - various themes
   - by voyage
 - inspired by
-  - paperback wordbooks
+  - duolingo
   - anki
-  - wordforest
   - bubeidanci
   - shanbay
-  - maimemo
-  - tantan
+  - paperback wordbooks
 
 ### `pure`
 
