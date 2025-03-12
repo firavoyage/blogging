@@ -1,3 +1,4 @@
 cd Downloads/g
 mogrify -background black -flatten -format jpg *.png && rm *.png
+mogrify -background black -flatten -format jpg *.webp && rm *.webp
 cd ../..

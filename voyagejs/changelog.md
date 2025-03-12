@@ -338,39 +338,27 @@
   - just counters.v = sort(counters.v...), component wont update before created
   - like fetch..., state changes during creation will be delayed
 - (wip) feat: write styling feature like tailwind
-  - three fn. defineStyle(), defineTheme(), useTheme().
-  - defineStyle(obj styles)
-    - two kind of props
-    - for string
-      - a prop or value "bg": "background", "blue-1":"lightblue"
-      - a style "c-1": "color-red", "rounded": "border-radius: 5px"
-      - value with - is considered style otherwise prop or value
-    - for fn
-      - a value blue(){}. blue-foo-100 calls blue("foo","100")
-      - a style rounded(){}. rounded-5px calls rounded("5px")
-      - when it comes to "a-b-c-d" when ab are fn, eval a(b(c,d))
-      - when b is not defined, eval a("b","c","d")
-      - when a is not defined, consider a as the prop a:b(c,d)
-      - when both not defined, raise error. (no css value has -)
-    - these styles will be applied by default
-  - defineTheme(options) saves a theme in voyage obj
-    - if the theme is already defined, merge them
-    - options {"darkTheme": {...styles}}
-    - styles {"text-color":"white", "bg-color":"black"}
-    - styles {"button":"rounded bg-blue-100", "button-inner":"..."}
-    - options {"shiro": {...styles}}
-    - styles {"text-color":"grey", "bg-color":"white"}
-    - these styles will only be applied for certain global state "theme"
-  - useTheme(str theme) injects a theme to document head
-    - private fn compile(css)
-      - param list of str selector and obj properties (type: Css)
-      - returns str innerhtml of style element
-    - style componentid="theme" @html=theme
-    - theme is a global state
-    - styles will be generated with recursion
-      - e.g. text style can reference text-color style
-      - no matter which one is former or latter 
-      - voyagejs will make the recursion work
+  - defineTheme(), useTheme(), @style macro.
+  - defineTheme(obj theme)
+    - theme includes obj, str, fn `{str|fn|[theme]:{str|fn}}`
+    - obj `"c-1": {dark:"black", light: "white"}`
+    - str `{bg: "background", bar: "perspective: 123"}`
+    - fn `{w(v){return 100*v}}`
+  - useTheme(str theme)
+    - change global state theme
+  - @style
+    - {@style: "bg-c-1 br-2 color-black font-weight-w-1 foo hover:bar"}
+    - split by " " into array of styles, for each style, split by "-"
+    - bg is defined as string, converted to `"background"`
+    - c is defined, and -1 is valid, converted by current theme
+    - br and 2 are not defined, converted to `"br:2,"`
+    - font and weight are not defined, stay still
+    - w is defined, pass 1 to it, get 100, so `font-weight: 100`
+    - foo is not defined, even without value, not taking effect
+    - bar is defined using peusdo class
+    - all these style will generate a murmurhash as classname in style element
+    - the style element has state "theme" and "map" (hash: "br-2 ...")
+  - inspired by tailwindcss, emotion, unocss, tachyons
 - (wd) docs: see readme.md
   - roadmap, but in very informal style
   - (lots of thoughts)

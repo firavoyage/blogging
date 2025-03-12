@@ -48,7 +48,6 @@
 
 - read ruanyf weekly archive
 - create project badges
-- summarize project leverages
 - write math guide
 - write cpp guide
 - create videos using pre

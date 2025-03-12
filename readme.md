@@ -123,7 +123,9 @@
   - .date a live (2013)
   - .sword art online (2012)
   - .bocchi the rock (2022)
+  - .girls band cry (2024)
   - .bang dream! it's mygo!!!!! (2023)
+  - .k-on! (2009)
   - .frieren: beyond journey's end (2023)
   - .the melancholy of haruhi suzumiya (2006)
   - .the disappearance of haruhi suzumiya (2010)
@@ -131,9 +133,7 @@
   - .re: zero - starting life in another world (2016)
   - .tonikawa: over the moon for you (2020)
   - .my youth romantic comedy is wrong, as i expected (2011)
-  - .girls band cry (2024)
-  - .k-on! (2009)
-  - .oshi no ko (2023)
+  - .puella magi madoka magica (2011)
   - .school days (2007)
   - .white album (2009)
   - .reply 1988 (2015)
@@ -231,7 +231,7 @@
 - - wikipedia & miraheze & fandom & moegirl.icu & mdn web docs & oi wiki
   - the pirate bay & z library & anna's archive
   - internet archive wayback machine & archive.today
-  - google & chatgpt & deepseek & gemini & kimi & mistral le chat
+  - google & chatgpt & deepseek & gemini & mistral le chat
   - youtube & berryberry & acfun & niconico & vtbs.moe & hololist
   - old reddit & zhihu & nga bbs & forum.gamer.com.tw & stack exchange
   - bangumi.tv & my anime list & mikan project & bgmlist & dmhy.org

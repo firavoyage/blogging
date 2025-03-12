@@ -30,12 +30,11 @@
 - various themes
   - by voyage
 - inspired by
-  - docusaurus
-  - hugo
-  - mkdocs & material for mkdocs
   - notion
-  - obsidian
+  - mdbook
   - gitbook
+  - mkdocs & material for mkdocs
+  - docusaurus
 
 ### `pre`
 
@@ -52,13 +51,6 @@
   - portable format
   - cross platform
   - cli support
-- leverage
-  - ppt lacks code and formula support
-  - neither is it programmable so it's done
-  - overleaf is latex based
-  - which is complex while markdown is simple
-  - competitors like revealjs have a long way to come
-  - before feeling like a product not a developing library
 - tags
   - template
   - theme
@@ -323,43 +315,38 @@
   - portable format
   - cross platform
   - powerful cli
-- verses
-  - cast (youtube)
-  - berry (bilibili)
-  - flow (medium)
-- observe
-  - latest upd of subscription
+- platforms
+  - youtube
+  - berryberry (bilibili)
+  - zhihu
+  - ...
+- feed
+  - subscription
   - recommendation
-  - popular playlists
-  - tags
   - custom filter
-  - random
+  - playlist 
+  - tag
+  - favorites
   - ...
-- archive
-  - creators
-  - works
-  - ...
-- socialize
+- share
   - creator profile
   - subscription
-  - episode stats comments
+  - episode with stats and comments
   - playlist
-- download
+- multi download
   - list (favlist, playlist)
   - custom filter (by creator, tag...)
 - sync
   - subscription
-  - favlist (zhihu, berryberry)
+  - favorites
 - integration 
   - trkr (github top 500 awesome list changes)
-- method
-  - content fetcher web extension
-  - using javascript selector
-  - background sync
-- local based
+- automation
+  - content fetcher extension or userscript (js selector or api, no cors issue)
+  - background sync (api)
+- local
   - read anywhere anytime
   - import and export
-  - autosave by fav
 - inspired by
   - google reader
   - newsblur
@@ -1042,11 +1029,10 @@ for(i 1 10 j 10 100){A} //for(let i=1;i<=10;i++){for(let j=10;i<=100;j++){A}}
 - inspired by
   - jquery
   - react
+  - svelte
   - alpine
   - mithril
-  - svelte
   - tailwind
-  - tachyons
 
 ### `fresh`
 
