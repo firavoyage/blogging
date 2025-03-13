@@ -3081,7 +3081,7 @@ comprehensive list of 300+ LaTeX symbols
 
 ## in svelte we write less code
 
-`dev` `js` `misc` `ref` `essay`
+`js` `misc` `ref` `essay`
 
 In Svelte, you update local component state with an assignment operator:
 
@@ -3185,7 +3185,7 @@ https://www.conventionalcommits.org/en/v1.0.0/
 
 ## simple project management kanban app using localstorage
 
-`dev` `js` `app` `panel`
+`js` `app` `panel`
 
 [Nullboard](https://github.com/apankrat/nullboard)
 
@@ -3211,21 +3211,34 @@ https://www.conventionalcommits.org/en/v1.0.0/
 
 这是每年一度的调查，根据过去一年中 GitHub 新增的 Star 数量，对各个领域的 JavaScript 工具进行排名，可以快速掌握新出现的主流工具。
 
-## "crash only software"
+## jquery method alternatives in vanillajs
 
-`dev` `quote` `meme`
+`js` `guide` `misc` `ref` `essay`
 
-"仅仅崩溃"软件（Crash-only software）指的是仅通过重新启动进行故障恢复的计算机程序，这样可以避免任何复杂的修复。
+You (Might) Don't Need jQuery
 
--- [维基百科](https://en.wikipedia.org/wiki/Crash-only_software)
+---
+
+https://github.com/camsong/You-Dont-Need-jQuery
+
+---
+
+(jquery.md)
+
+## wasm performance test, compared with js
+
+`js` `misc` `essay`
+
+Wasm total: 9447ms (avg 472.35ms/call)
+JS total: 18562.100000023842ms (avg 928.1050000011921ms/call)
+
+---
+
+(wasm test.md)
 
 ##
 
 
-
-##
-
-##
 
 ##
 

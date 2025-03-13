@@ -370,6 +370,7 @@ sudo apt install gnome-shell-extension-prefs
   - fold `felicio.vscode-fold`
 - config appearance
   - -> `view > appearance`
+  - custom titlebar `off`
   - menu & status & ... bar `off`
   - minimap `off`
   - render control characters `off`
@@ -459,9 +460,9 @@ sudo apt install gnome-shell-extension-prefs
     - _delete to word start_ `ctrl backspace`
     - delete to word end `ctrl delete`
   - zoom
-    - _shrink code (fold)_ `ctrl shift [` `ctrl s`
+    - _shrink code (fold)_ `ctrl s` `ctrl shift [`
     - _shirnk all (fold all)_ `ctrl shift s`
-    - _expand code (unfold)_ `ctrl shift ]` `ctrl e`
+    - _expand code (unfold)_ `ctrl e` `ctrl shift ]`
     - zoom in `ctrl +`
     - zoom out `ctrl -`
     - split screen `ctrl \`

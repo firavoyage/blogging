@@ -84,6 +84,7 @@
   - sky (beyond)
   - you my deskmate (gao xiaosong & lao lang)
   - thou away from oi (menci & wxh010910 & yan qval & krydom & niro bc & wer key tom_ftd & \_\_stdcall & created_equal & whzzt & wy1627)
+  - qun ding (mi feng chu & qiu ju)
   - counter-clockwise clock (kafka & jay chou)
   - story of time (luo da you)
   - pompous (eason chan)
@@ -282,17 +283,23 @@
     - android 11
   - - chromium 124.0.6367.118
     - firefox 124.0.2
-    - code 1.91.2
-    - git 2.43
+    - code 1.97.2
+    - git 2.43.0
     - fcitx 5.1.7
     - v2raya 2.2.5.1
     - wine 9.0
     - zsh 5.9
-  - - g++ 13.2.0
+  - - g++ 13.3.0
+    - emcc 4.0.5
     - node 18.19.1
     - npm 9.2.0
     - python3 3.12.3
-    - rustc 1.75.0
+    - pip 24.0
+    - rustup 1.28.1
+    - rustc 1.85.0
+    - cargo 1.85.0
+    - wasm-pack 0.13.1
+    - mdbook 0.4.47
   - - eslint 6.4.0
     - jsdoc 4.0.4
     - marked 14.1.2
@@ -306,9 +313,10 @@
     - formulahendry.code-runner 0.12.2
     - felicio.vscode-fold 1.4.3
   - - apt 2.7.14
-    - flatpak 1.14.10
+    - flatpak 1.16.0
     - snap 2.63.1
-  - - blender 4.2.1
+  - - android-studio 2023.3.1
+    - blender 4.2.1
     - cbonsai 1.3.1-1
     - cowsay 5.38.2
     - docker 24.0.5
