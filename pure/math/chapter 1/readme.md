@@ -8,6 +8,18 @@
 
 > enjoy your ride 𝅘𝅥𝅮
 
+> ![warning]
+>
+> (meme from math olympiad books of east china normal university pub)
+>
+> 本书或许不适合你, 如果
+>
+> 你每次都能考到 95% 以上 - so easy!
+> 
+> 你很少考到 80% - so difficult!
+> 
+> 不认为自己能学好数学 - attitude first!
+
 > ![note]
 >
 > 准备好黑色水笔, 草稿纸, 笔记本, (计算器).
