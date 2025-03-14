@@ -152,6 +152,7 @@
   - blue archive (2021)
   - houkai gakuen second (2014)
   - delta force (2024)
+  - arknights (2019)
   - .earth online (.)
   - .terraria (2011)
   - .the legend of zelda: tears of the kingdom (2023)

@@ -3225,7 +3225,7 @@ https://github.com/camsong/You-Dont-Need-jQuery
 
 (jquery.md)
 
-## wasm performance test, compared with js
+## wasm performance test compared with js
 
 `js` `misc` `essay`
 
@@ -3236,9 +3236,101 @@ JS total: 18562.100000023842ms (avg 928.1050000011921ms/call)
 
 (wasm test.md)
 
+## haffman coding used by gzip explanation
+
+`dev` `guide`
+
+[什么是霍夫曼编码？](https://www.baseclass.io/huffman-coding/)（英文）
+
+![](https://cdn.beekka.com/blogimg/asset/202102/bg2021022202.jpg)
+
+霍夫曼编码是经典的压缩算法，[GZIP](https://jvns.ca/blog/2015/02/22/how-gzip-uses-huffman-coding/)  就使用它。本文是我见过最简单的解释，可以在五分钟内理解这个算法的实现原理。
+
+## opensource chess engine stockfish
+
+`app` `ai`
+
+[Stockfish 12](https://stockfishchess.org/)
+
+![](https://cdn.beekka.com/blogimg/asset/202102/bg2021021910.jpg)
+
+开源的国际象棋引擎，号称比人类的世界冠军还要强大。官方提供 Mac App 下载，并且有许多其他操作系统的第三方 App。
+
+## code to image by raycast
+
+`app` `image`
+
+[Ray.so](https://ray.so/)
+
+![](https://cdn.beekka.com/blogimg/asset/202102/bg2021021923.jpg)
+
+这个网站可以生成漂亮的代码截图，颜色、阴影、背景都可以调整。
+
+---
+
+https://www.raycast.com/
+
+https://github.com/raycast/ray-so
+
+https://ray.so/prompts
+
+https://ray.so/presets
+
+## rss page generater using github actions
+
+`app` `feed` `ref`
+
+[嘎 RSS!](https://github.com/zhaoolee/garss)
+
+使用免费的 GitHub Actions，定时抓取一系列 RSS 源，生成一个页面，还支持邮件通知。（[@zhaoolee](https://github.com/ruanyf/weekly/issues/1649)  投稿）
+
+---
+
+https://zhaoolee.com/garss/
+
+## bing wallpaper spider using github actions
+
+`app` `feed` `ref`
+
+[Bing Wallpaper](https://github.com/niumoo/bing-wallpaper)
+
+![](https://cdn.beekka.com/blogimg/asset/202103/bg2021030307.jpg)
+
+这个项目使用 GitHub Actions，收集 Bing 搜索引擎每天的壁纸，提供下载，详见[这篇说明文章](https://www.wdbyte.com/2021/03/bing-wallpaper-github-action/)。（[@niumoo](https://github.com/ruanyf/weekly/issues/1656)  投稿）
+
+---
+
+https://bing.wdbyte.com/
+
+## the curse of knowledge
+
+`theory` `quote`
+
+知识的诅咒（Curse of knowledge）是一种认知偏差，指的是与他人交流时，你不知不觉地假设对方拥有跟你相似的认知，能够理解你的意思。
+
+-- [维基百科](https://zh.wikipedia.org/wiki/%E7%9F%A5%E8%AD%98%E7%9A%84%E8%A9%9B%E5%92%92)
+
+## svg is better to be json than xml
+
+`css` `view` `quote`
+
+SVG 是一个非常臃肿的文件格式，规格文档厚达826页。如果要正确渲染所有 SVG 文件，还需要考虑另外20页的 XLink 规范。此外，SVG 支持 CSS 样式和 JAVASCRIPT 脚本。是的，SVG 文件可以包含`<script>`标签。
+
+-- [《SVG：优点，缺点和丑陋之处》](https://www.eisfunke.com/article/svg-the-good-the-bad-and-the-ugly.html)
+
 ##
 
 
+
+##
+
+##
+
+##
+
+##
+
+##
 
 ##
 

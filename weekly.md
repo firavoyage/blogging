@@ -47,6 +47,7 @@
 > _enlightenment_
 
 - read ruanyf weekly archive
+- summarize project features
 - create project badges
 - write math guide
 - write cpp guide

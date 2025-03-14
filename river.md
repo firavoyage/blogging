@@ -4297,3 +4297,18 @@ updated vscode to new version.
 custom title bar is redundant, turned off.
 
 copilot is useless, turned off.
+
+---
+
+(funshiki)
+
+"感谢老板的 sc, 祝老板生活如意, 期待与你下次相遇哦."
+
+### 20250314
+
+(on simplelive)
+
+关注了大量的 vtuber, 许多都来自 asoul, virtual real, psplive...
+
+还关注了瓶子.
+

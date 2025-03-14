@@ -149,13 +149,16 @@
 
         <tr>
             
-                <td class="name"><code>created</code></td>
+                <td class="name"><code>status</code></td>
             
 
             <td class="type">
             
                 
-<span class="param-type">boolean</span>
+<span class="param-type">"creating"</span>
+|
+
+<span class="param-type">"created"</span>
 
 
             
@@ -165,7 +168,7 @@
 
             
 
-            <td class="description last"><p>whether this componentid is created at least once</p></td>
+            <td class="description last"></td>
         </tr>
 
     
@@ -218,6 +221,29 @@
 
         <tr>
             
+                <td class="name"><code>states</code></td>
+            
+
+            <td class="type">
+            
+                
+<span class="param-type">object</span>
+
+
+            
+            </td>
+
+            
+
+            
+
+            <td class="description last"><p>the states of this component, without proxy</p></td>
+        </tr>
+
+    
+
+        <tr>
+            
                 <td class="name"><code>stateid</code></td>
             
 
@@ -234,7 +260,7 @@
 
             
 
-            <td class="description last"><p>the state count used privately in creating this component</p></td>
+            <td class="description last"><p>the state counter for creating this component</p></td>
         </tr>
 
     
@@ -273,7 +299,7 @@
     
     <dt class="tag-source">Source:</dt>
     <dd class="tag-source"><ul class="dummy"><li>
-        <a href="voyage.js.html">voyage.js</a>, <a href="voyage.js.html#line349">line 349</a>
+        <a href="voyage.js.html">voyage.js</a>, <a href="voyage.js.html#line286">line 286</a>
     </li></ul></dd>
     
 
@@ -302,7 +328,7 @@
     <ul>
         <li>
             
-<span class="param-type">Array.&lt;Type></span>
+<span class="param-type">Array</span>
 
 
         </li>
@@ -340,13 +366,13 @@
 
         <tr>
             
-                <td class="name"><code>componentid:number</code></td>
+                <td class="name"><code>componentid: Componentid</code></td>
             
 
             <td class="type">
             
                 
-<span class="param-type">Type</span>
+<span class="param-type"><a href="global.html#Component">Component</a></span>
 
 
             
@@ -403,7 +429,78 @@
     
     <dt class="tag-source">Source:</dt>
     <dd class="tag-source"><ul class="dummy"><li>
-        <a href="voyage.js.html">voyage.js</a>, <a href="voyage.js.html#line344">line 344</a>
+        <a href="voyage.js.html">voyage.js</a>, <a href="voyage.js.html#line297">line 297</a>
+    </li></ul></dd>
+    
+
+    
+
+    
+
+    
+</dl>
+
+
+
+
+
+
+            
+                
+<h4 class="name" id="Componentid">Componentid</h4>
+
+
+
+
+
+
+    <h5>Type:</h5>
+    <ul>
+        <li>
+            
+<span class="param-type">number</span>
+|
+
+<span class="param-type">"global"</span>
+
+
+        </li>
+    </ul>
+
+
+
+
+
+<dl class="details">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    <dt class="tag-source">Source:</dt>
+    <dd class="tag-source"><ul class="dummy"><li>
+        <a href="voyage.js.html">voyage.js</a>, <a href="voyage.js.html#line294">line 294</a>
     </li></ul></dd>
     
 
@@ -427,10 +524,7 @@
 
 
 <div class="description">
-    <p>the possible types of a key in an object</p>
-<p>(why)</p>
-<p>all literals are included, not just string</p>
-<p>because they will be converted to string.</p>
+    <p>the appropriate types of a key in an object</p>
 </div>
 
 
@@ -490,166 +584,7 @@
     
     <dt class="tag-source">Source:</dt>
     <dd class="tag-source"><ul class="dummy"><li>
-        <a href="voyage.js.html">voyage.js</a>, <a href="voyage.js.html#line52">line 52</a>
-    </li></ul></dd>
-    
-
-    
-
-    
-
-    
-</dl>
-
-
-
-
-
-
-            
-                
-<h4 class="name" id="Selection">Selection</h4>
-
-
-
-
-
-
-    <h5>Type:</h5>
-    <ul>
-        <li>
-            
-<span class="param-type">object</span>
-
-
-        </li>
-    </ul>
-
-
-
-
-
-    <h5 class="subsection-title">Properties:</h5>
-
-    
-
-<table class="props">
-    <thead>
-    <tr>
-        
-        <th>Name</th>
-        
-
-        <th>Type</th>
-
-        
-        <th>Attributes</th>
-        
-
-        
-
-        <th class="last">Description</th>
-    </tr>
-    </thead>
-
-    <tbody>
-    
-
-        <tr>
-            
-                <td class="name"><code>node</code></td>
-            
-
-            <td class="type">
-            
-                
-<span class="param-type">Node</span>
-
-
-            
-            </td>
-
-            
-                <td class="attributes">
-                
-
-                
-                </td>
-            
-
-            
-
-            <td class="description last"><p>the node selected</p></td>
-        </tr>
-
-    
-
-        <tr>
-            
-                <td class="name"><code>componentid</code></td>
-            
-
-            <td class="type">
-            
-                
-<span class="param-type">number</span>
-
-
-            
-            </td>
-
-            
-                <td class="attributes">
-                
-                    &lt;optional><br>
-                
-
-                
-                </td>
-            
-
-            
-
-            <td class="description last"><p>the componentid which exists if the node is a component</p></td>
-        </tr>
-
-    
-    </tbody>
-</table>
-
-
-
-
-<dl class="details">
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-    <dt class="tag-source">Source:</dt>
-    <dd class="tag-source"><ul class="dummy"><li>
-        <a href="voyage.js.html">voyage.js</a>, <a href="voyage.js.html#line362">line 362</a>
+        <a href="voyage.js.html">voyage.js</a>, <a href="voyage.js.html#line50">line 50</a>
     </li></ul></dd>
     
 
@@ -769,7 +704,7 @@
     
     <dt class="tag-source">Source:</dt>
     <dd class="tag-source"><ul class="dummy"><li>
-        <a href="voyage.js.html">voyage.js</a>, <a href="voyage.js.html#line115">line 115</a>
+        <a href="voyage.js.html">voyage.js</a>, <a href="voyage.js.html#line112">line 112</a>
     </li></ul></dd>
     
 
@@ -787,301 +722,7 @@
 
             
                 
-<h4 class="name" id="States">States</h4>
-
-
-
-
-
-
-    <h5>Type:</h5>
-    <ul>
-        <li>
-            
-<span class="param-type"><a href="global.html#ComponentArray">ComponentArray</a></span>
-
-
-        </li>
-    </ul>
-
-
-
-
-
-    <h5 class="subsection-title">Properties:</h5>
-
-    
-
-<table class="props">
-    <thead>
-    <tr>
-        
-        <th>Name</th>
-        
-
-        <th>Type</th>
-
-        
-
-        
-
-        <th class="last">Description</th>
-    </tr>
-    </thead>
-
-    <tbody>
-    
-
-        <tr>
-            
-                <td class="name"><code>global</code></td>
-            
-
-            <td class="type">
-            
-                
-<span class="param-type">object</span>
-
-
-            
-            </td>
-
-            
-
-            
-
-            <td class="description last"><p>the global states</p></td>
-        </tr>
-
-    
-    </tbody>
-</table>
-
-
-
-
-<dl class="details">
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-    <dt class="tag-source">Source:</dt>
-    <dd class="tag-source"><ul class="dummy"><li>
-        <a href="voyage.js.html">voyage.js</a>, <a href="voyage.js.html#line373">line 373</a>
-    </li></ul></dd>
-    
-
-    
-
-    
-
-    
-</dl>
-
-
-
-
-
-
-            
-                
-
-    
-
-    
-    <h4 class="name" id="SyncObserver"><span class="type-signature"></span>SyncObserver<span class="signature">(newValue, oldValue)</span><span class="type-signature"> &rarr; {void}</span></h4>
-    
-
-    
-
-
-
-
-
-
-
-
-
-
-
-    <h5>Parameters:</h5>
-    
-
-<table class="params">
-    <thead>
-    <tr>
-        
-        <th>Name</th>
-        
-
-        <th>Type</th>
-
-        
-
-        
-
-        <th class="last">Description</th>
-    </tr>
-    </thead>
-
-    <tbody>
-    
-
-        <tr>
-            
-                <td class="name"><code>newValue</code></td>
-            
-
-            <td class="type">
-            
-                
-<span class="param-type">*</span>
-
-
-            
-            </td>
-
-            
-
-            
-
-            <td class="description last"></td>
-        </tr>
-
-    
-
-        <tr>
-            
-                <td class="name"><code>oldValue</code></td>
-            
-
-            <td class="type">
-            
-                
-<span class="param-type">*</span>
-
-
-            
-            </td>
-
-            
-
-            
-
-            <td class="description last"></td>
-        </tr>
-
-    
-    </tbody>
-</table>
-
-
-
-
-
-
-<dl class="details">
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-    <dt class="tag-source">Source:</dt>
-    <dd class="tag-source"><ul class="dummy"><li>
-        <a href="voyage.js.html">voyage.js</a>, <a href="voyage.js.html#line297">line 297</a>
-    </li></ul></dd>
-    
-
-    
-
-    
-
-    
-</dl>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<h5>Returns:</h5>
-
-        
-
-
-<dl>
-    <dt>
-        Type
-    </dt>
-    <dd>
-        
-<span class="param-type">void</span>
-
-
-    </dd>
-</dl>
-
-    
-
-
-
-
-
-            
-                
-<h4 class="name" id="SyncReactive">SyncReactive</h4>
+<h4 class="name" id="State">State</h4>
 
 
 
@@ -1206,7 +847,7 @@
     
     <dt class="tag-source">Source:</dt>
     <dd class="tag-source"><ul class="dummy"><li>
-        <a href="voyage.js.html">voyage.js</a>, <a href="voyage.js.html#line292">line 292</a>
+        <a href="voyage.js.html">voyage.js</a>, <a href="voyage.js.html#line621">line 621</a>
     </li></ul></dd>
     
 
@@ -1217,6 +858,180 @@
     
 </dl>
 
+
+
+
+
+
+            
+                
+
+    
+
+    
+    <h4 class="name" id="StateUpdater"><span class="type-signature"></span>StateUpdater<span class="signature">(newValue, oldValue)</span><span class="type-signature"> &rarr; {void}</span></h4>
+    
+
+    
+
+
+
+
+
+
+
+
+
+
+
+    <h5>Parameters:</h5>
+    
+
+<table class="params">
+    <thead>
+    <tr>
+        
+        <th>Name</th>
+        
+
+        <th>Type</th>
+
+        
+
+        
+
+        <th class="last">Description</th>
+    </tr>
+    </thead>
+
+    <tbody>
+    
+
+        <tr>
+            
+                <td class="name"><code>newValue</code></td>
+            
+
+            <td class="type">
+            
+                
+<span class="param-type">*</span>
+
+
+            
+            </td>
+
+            
+
+            
+
+            <td class="description last"></td>
+        </tr>
+
+    
+
+        <tr>
+            
+                <td class="name"><code>oldValue</code></td>
+            
+
+            <td class="type">
+            
+                
+<span class="param-type">*</span>
+
+
+            
+            </td>
+
+            
+
+            
+
+            <td class="description last"></td>
+        </tr>
+
+    
+    </tbody>
+</table>
+
+
+
+
+
+
+<dl class="details">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    <dt class="tag-source">Source:</dt>
+    <dd class="tag-source"><ul class="dummy"><li>
+        <a href="voyage.js.html">voyage.js</a>, <a href="voyage.js.html#line626">line 626</a>
+    </li></ul></dd>
+    
+
+    
+
+    
+
+    
+</dl>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h5>Returns:</h5>
+
+        
+
+
+<dl>
+    <dt>
+        Type
+    </dt>
+    <dd>
+        
+<span class="param-type">void</span>
+
+
+    </dd>
+</dl>
+
+    
 
 
 
@@ -1336,7 +1151,7 @@
     
     <dt class="tag-source">Source:</dt>
     <dd class="tag-source"><ul class="dummy"><li>
-        <a href="voyage.js.html">voyage.js</a>, <a href="voyage.js.html#line383">line 383</a>
+        <a href="voyage.js.html">voyage.js</a>, <a href="voyage.js.html#line313">line 313</a>
     </li></ul></dd>
     
 
@@ -1358,6 +1173,11 @@
 
 
 
+
+<div class="description">
+    <p>voyage element can contain either list of nodes or text, but not both.</p>
+<p>such text should be wrapped in p, span, div, etc.</p>
+</div>
 
 
 
@@ -1420,7 +1240,7 @@
 
             
 
-            <td class="description last"></td>
+            <td class="description last"><p>string type refers to its html tag. fn type refers to its component.</p></td>
         </tr>
 
     
@@ -1443,7 +1263,7 @@
 
             
 
-            <td class="description last"></td>
+            <td class="description last"><p>will be considered properties if the type is a fn.</p></td>
         </tr>
 
     
@@ -1469,7 +1289,7 @@
 
             
 
-            <td class="description last"><p>if the type</p></td>
+            <td class="description last"><p>will be ignored if the type is a fn.</p></td>
         </tr>
 
     
@@ -1508,7 +1328,7 @@
     
     <dt class="tag-source">Source:</dt>
     <dd class="tag-source"><ul class="dummy"><li>
-        <a href="voyage.js.html">voyage.js</a>, <a href="voyage.js.html#line539">line 539</a>
+        <a href="voyage.js.html">voyage.js</a>, <a href="voyage.js.html#line459">line 459</a>
     </li></ul></dd>
     
 
@@ -1544,7 +1364,7 @@
 <br class="clear">
 
 <footer>
-    Documentation generated by <a href="https://github.com/jsdoc/jsdoc">JSDoc 4.0.4</a> on Thu Jan 30 2025 17:18:38 GMT+0800 (China Standard Time)
+    Documentation generated by <a href="https://github.com/jsdoc/jsdoc">JSDoc 4.0.4</a> on Sat Mar 15 2025 01:53:04 GMT+0800 (China Standard Time)
 </footer>
 
 <script> prettyPrint(); </script>

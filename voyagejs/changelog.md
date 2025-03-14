@@ -1,4 +1,8 @@
-# roadmap
+# voyagejs changelog
+
+> ui is a function of state `ui = function(state)`
+
+## roadmap
 
 - fix issues
 - write every example on react learn
@@ -8,7 +12,7 @@
 - create voyagejs material design 3
 - create sr hi hg component library
 
-# issues
+## issues
 
 - add more lang to compile fn
   - `extension`
@@ -68,13 +72,13 @@
   - path and page component
   - custom decision function
 
-# stone
+## stone
 
 > the date after the version number is its release date (utc+8)
 
 > version 0.xx: the framework being written, no static api
 
-## 0.23
+### 0.23
 
 - better and safer state
   - in fn sync
@@ -95,7 +99,7 @@
   - label:state will only bind state change to label
   - it wont listen label.content change to update state
 
-## 0.24
+### 0.24
 
 - label updater with multi factors
   - {label:calc(fn,...[factor states])}
@@ -104,13 +108,13 @@
   - updateLabelCalc(node,label,calculator){...}
   - map factors bind(updLabelCalc,factor)
 
-## 0.25
+### 0.25
 
 - private fn move to lib
   - private pure functions like has init are moved to voyage.lib
   - voyage includes public functions
 
-## 0.26 20241210
+### 0.26 20241210
 
 - separate objects and arrays
   - from info
@@ -150,7 +154,7 @@
   - slice([],...)
   - instead of [].slice(...)
 
-## 0.27 20241212
+### 0.27 20241212
 
 - change typedef naming
   - from various naming methods to
@@ -168,7 +172,7 @@
   - from memo.getReactiveState ...
   - to memorize(getStates,cid)
 
-## 0.28 20250116
+### 0.28 20250116
 
 - add Key type
   - object.key
@@ -194,7 +198,7 @@
   - voyage.component exists twice
   - the latter will take over the former
 
-## 0.29 20250117
+### 0.29 20250117
 
 - splitted the source and changelog
   - `docs` `important`
@@ -210,7 +214,7 @@
       - slice(arr,...args) // arr.slice(...args)
   - renamed "include" "use"
 
-## 0.30 20250201
+### 0.30 20250201
 
 - revised some words
   - `wording`
@@ -254,7 +258,7 @@
   - `refactor`
   - write compile fn for json
     - write a sub fn: recursion(...arr)
-    - iterate the arr, 
+    - iterate the arr,
     - if it's the first str then consider it type otherwise contents
     - if it's an obj, consider it labels
     - if it's an arr, init contents [] and push recursion(it).
@@ -277,12 +281,21 @@
   - so let c(...) equal to create(compile(...))
   - to make the code work
 
-## 0.31
+### 0.31
 
-- docs: more jsdoc comments
-  - not everywhere, just the newly added ones
-  - stategy: first write comments, then write code.
-  - jsdoc includes: param returns examples
+- docs: add jsdoc comments to existing code
+- refactor: some unused functions
+- refactor: merge voyage.info into voyage.counter
+- refactor: change syntax of private functions
+  - from `const { a } = { a() {} };`
+  - to `const a = function () {};`
+  - the former one omits `function` at the cost of redundant indentation and the repetition of `a`
+- refactor: merge voyage.states into voyage.components
+  - from `voyage.states[componentid]` to `voyage.components[componentid].states`
+  - more semantic now
+- refactor: voyage.ref and voyage.store
+  - fn(...options) is awkward, changed to fn(initial, stateid)
+  - both param are optional
 - (wip) wording: rename some fn names
   - inspired by component life cycle of react
   - mount, update, unmount
@@ -310,9 +323,10 @@
   - an object
   - prop factors, an array of str keys of states
   - prop calculator, a fn with states inside
+  - ref: vue computed
 - (wip) feat: add voyage.lib.pattern (alias voyage.lib.p)
   - tagged fn
-  - p "Counter: ${...}" 
+  - p "Counter: ${...}"
   - usage: a string, with some states inside
   - returns a calculator
 - (wip) feat: add voyage.getStatus
@@ -363,9 +377,9 @@
   - roadmap, but in very informal style
   - (lots of thoughts)
 
-# river
+## river
 
-## 20250118
+### 20250118
 
 21:13
 
@@ -379,6 +393,6 @@ asked mistral le chat.
 
 (ans omitted)
 
-## 20250214
+### 20250214
 
 (@see readme.md)

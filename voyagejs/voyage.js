@@ -1,10 +1,8 @@
 /**
  * @file
- * the script of voyage framework
+ * voyage framework
  *
- * the current version released on
- *
- * has been in development since 20250117 (utc+8)
+ * this version is developed during 20250117 ~ ... (utc+8)
  *
  * @author firavoyage
  * @version 0.31
@@ -106,10 +104,8 @@ let voyage = {
      * slice([1,2,3],0,2) //[1,2,3].slice(0,2)
      */
     use(methodName) {
-      const { fn } = {
-        fn(obj, ...args) {
-          return obj[methodName](...args);
-        },
+      const fn = function (obj, ...args) {
+        return obj[methodName](...args);
       };
       return { [methodName]: fn };
     },
@@ -141,12 +137,10 @@ let voyage = {
     init(obj, ...path) {
       const { check, lacks } = voyage.lib;
 
-      const { initKey } = {
-        initKey(obj, key, initial) {
-          if (lacks(obj, key)) {
-            obj[key] = initial;
-          }
-        },
+      const initKey = function (obj, key, initial) {
+        if (lacks(obj, key)) {
+          obj[key] = initial;
+        }
       };
       let current = obj;
       for (const key of path) {
@@ -215,25 +209,23 @@ let voyage = {
     each(begin, end, step) {
       const { check } = voyage.lib;
 
-      const { iterate } = {
-        iterate(begin, end, step) {
-          let index = begin;
-          const iterator = {
-            next() {
-              if ((index - end) * step <= 0) {
-                const value = index;
-                index += step;
-                return { value, done: false };
-              } else {
-                return { value: undefined, done: true };
-              }
-            },
-            [Symbol.iterator]() {
-              return iterator;
-            },
-          };
-          return iterator;
-        },
+      const iterate = function (begin, end, step) {
+        let index = begin;
+        const iterator = {
+          next() {
+            if ((index - end) * step <= 0) {
+              const value = index;
+              index += step;
+              return { value, done: false };
+            } else {
+              return { value: undefined, done: true };
+            }
+          },
+          [Symbol.iterator]() {
+            return iterator;
+          },
+        };
+        return iterator;
       };
       if (!check(end)) {
         end = begin;
@@ -290,74 +282,25 @@ let voyage = {
       }
       return matches;
     },
-    /**
-     * @typedef {object} SyncReactive
-     * @prop {*} value - the value with getter and setter
-     * @prop {*} v - alias of value
-     */
-    /**
-     * @callback SyncObserver
-     * @param {*} newValue
-     * @param {*} oldValue
-     * @returns {void}
-     */
-    /**
-     * make an object prop reactive
-     * @param {object} obj - the object to be observed
-     * @param {Key} key - the key in the object refering to a value
-     * @param {SyncObserver} observer - the callback fn when obj[key] changes
-     * @returns {SyncReactive} the reactive object
-     * @memberof voyage.lib
-     */
-    sync(obj, key, observer) {
-      const { isnt } = voyage.lib;
-      const { defineProperty } = Object;
-
-      let reactive = {};
-      const handler = {
-        get() {
-          return obj[key];
-        },
-        set(newValue) {
-          const oldValue = obj[key];
-          if (isnt(oldValue, newValue)) {
-            obj[key] = newValue;
-            observer(newValue, oldValue);
-          }
-        },
-      };
-
-      const aliases = ["v", "value"];
-
-      for (const alias of aliases) {
-        defineProperty(reactive, alias, handler);
-      }
-      return reactive;
-    },
   },
-  /**
-   * private data in creating components
-   * @type {object}
-   * @prop {number} componentid
-   * the componentid of the next component to be created
-   * @memberof voyage
-   */
-  info: {},
-  /**
-   * @template Type
-   * @typedef {Type[]} ComponentArray
-   * @prop {Type} [componentid:number]
-   */
   /**
    * @typedef {object} Component
    * @prop {"creating"|"created"} status
    * @prop {function} component the function that creates this component
    * @prop {object} properties the properties of this component
-   * @prop {number} stateid the state count used privately in creating this component
+   * @prop {object} states the states of this component, without proxy
+   * @prop {number} stateid the state counter for creating this component
+   */
+  /**
+   * @typedef {number | "global"} Componentid
+   */
+  /**
+   * @typedef {Array} ComponentArray
+   * @prop {Component} [componentid: Componentid]
    */
   /**
    * private data of components
-   * @type {ComponentArray<Component>}
+   * @type {ComponentArray}
    * @memberof voyage
    */
   components: {},
@@ -367,16 +310,6 @@ let voyage = {
    * @memberof voyage
    */
   selections: {},
-  /**
-   * @typedef {ComponentArray} States
-   * @prop {object} global the global states
-   */
-  /**
-   * private states of components
-   * @type {States}
-   * @memberof voyage
-   */
-  states: {},
   /**
    * @typedef {object} Updaters
    * @prop {function[]} [stateid:number] - when state changes call updaters
@@ -438,64 +371,60 @@ let voyage = {
       }
     },
   },
-  counter: { component: 0 },
+  /**
+   * @type {object}
+   * @prop {number} component
+   * the counter of componentid
+   * @prop {number} current
+   * the componentid of the current component being created
+   * @memberof voyage
+   */
+  counter: { component: 0, componentid: 0 },
   /**
    * select a node or find it in selections
-   * @param {number | string} option
+   * @param {number | string} query
    * numbers are considered componentids,
    * strings are considered selectors.
    * @returns {Node | false}
    * false if it doesn't exist
    * @memberof voyage
    */
-  select(option) {
+  select(query) {
     const { check } = voyage.lib;
 
-    const { getNode } = {
-      getNode(option) {
-        if (check(option, "number")) {
-          return document.querySelector(`[componentid="${option}"]`);
-        } else {
-          const { selections } = voyage;
-          return selections[option];
-        }
-      },
+    const getNode = function (query) {
+      if (check(query, "number")) {
+        return document.querySelector(`[componentid="${query}"]`);
+      } else {
+        const { selections } = voyage;
+        return selections[query];
+      }
     };
 
-    const node = getNode(option);
-
-    if (node) {
-      return node;
-    } else {
-      return false;
-    }
+    return getNode(query) || false;
   },
-  replace(node, updatedNode) {
-    node.parentNode.replaceChild(updatedNode, node);
+  /**
+   * replace a node
+   * @param {Node} node
+   * @param {Node} previousNode
+   * @returns {void}
+   */
+  replace(node, previousNode) {
+    previousNode.parentNode.replaceChild(node, previousNode);
   },
-  calc(calculator, ...factors) {
-    const { check } = voyage.lib;
-
-    if (check(factors[0], Array)) {
-      factors = factors[0];
-    }
-
-    return {
-      calculator,
-      factors,
-    };
-  },
+  /**
+   * @todo
+   * @param  {...any} options
+   */
   bind(...options) {
     const { is, check, init } = voyage.lib;
 
     let { updaters, components } = voyage;
-    const { bindUpdater } = {
-      bindUpdater(componentid, stateid, updater) {
-        if (is(components[componentid].status, "creating")) {
-          init(updaters, componentid, [stateid]);
-          updaters[componentid][stateid].push(updater);
-        }
-      },
+    const bindUpdater = function (componentid, stateid, updater) {
+      if (is(components[componentid].status, "creating")) {
+        init(updaters, componentid, [stateid]);
+        updaters[componentid][stateid].push(updater);
+      }
     };
 
     if (check(options[0], "number")) {
@@ -523,10 +452,8 @@ let voyage = {
    * @memberof voyage
    */
   call(componentid) {
-    const { assign } = Object;
-
-    let { info } = voyage;
-    assign(info, { componentid });
+    let { counter } = voyage;
+    counter.current = componentid;
 
     let { components } = voyage;
     components[componentid].stateid = 0;
@@ -546,7 +473,7 @@ let voyage = {
    * will be ignored if the type is a fn.
    * @description
    * voyage element can contain either list of nodes or text, but not both.
-   * 
+   *
    * such text should be wrapped in p, span, div, etc.
    */
   /**
@@ -557,40 +484,36 @@ let voyage = {
   compile(...options) {
     const { is, check, use } = voyage.lib;
     const { push } = use("push");
-    const { json } = {
-      json(options) {
-        const { recursion } = {
-          recursion(arr) {
-            let element = { type: "div", labels: {}, content: [] };
-            let strings = [];
-            for (const item of arr) {
-              if (check(item, "string")) {
-                push(strings, item);
-              } else if (check(item, "function")) {
-                element.type = item;
-              } else if (check(item, Array)) {
-                push(element.content, recursion(item));
-              } else if (check(item, "object")) {
-                element.labels = item;
-              }
-            }
-            if (check(element.type, "function")) {
-              if (is(strings.length, 1)) {
-                element.content = strings[0];
-              }
-            } else if (check(element.type, "string")) {
-              if (is(strings.length, 1)) {
-                element.type = strings[0];
-              } else if (is(strings.length, 2)) {
-                element.type = strings[0];
-                element.content = strings[1];
-              }
-            }
-            return element;
-          },
-        };
-        return recursion(options);
-      },
+    const json = function (options) {
+      const recursion = function (arr) {
+        let element = { type: "div", labels: {}, content: [] };
+        let strings = [];
+        for (const item of arr) {
+          if (check(item, "string")) {
+            push(strings, item);
+          } else if (check(item, "function")) {
+            element.type = item;
+          } else if (check(item, Array)) {
+            push(element.content, recursion(item));
+          } else if (check(item, "object")) {
+            element.labels = item;
+          }
+        }
+        if (check(element.type, "function")) {
+          if (is(strings.length, 1)) {
+            element.content = strings[0];
+          }
+        } else if (check(element.type, "string")) {
+          if (is(strings.length, 1)) {
+            element.type = strings[0];
+          } else if (is(strings.length, 2)) {
+            element.type = strings[0];
+            element.content = strings[1];
+          }
+        }
+        return element;
+      };
+      return recursion(options);
     };
     return json(options);
   },
@@ -605,90 +528,84 @@ let voyage = {
     const { check, use, has, init, is } = voyage.lib;
     const { join } = use("join");
     const { slice } = use("slice");
-    const { recursion } = {
-      recursion(element) {
-        if (check(element.type, "function")) {
-          const { counter } = voyage;
-          const componentid = counter.component++;
+    const recursion = function recursion(element) {
+      if (check(element.type, "function")) {
+        let { counter } = voyage;
+        const componentid = counter.component++;
 
-          const { type: component, labels: properties } = element;
+        const { type: component, labels: properties } = element;
 
-          let { components } = voyage;
-          init(components, {
-            [componentid]: { component, properties, status: "creating" },
-          });
-          const node = call(componentid);
+        let { components } = voyage;
+        init(components, {
+          [componentid]: { component, properties, status: "creating" },
+        });
+        const node = call(componentid);
 
-          if (has(properties, "$")) {
-            const { $: selector } = properties;
-            let { selections } = voyage;
-            init(selections, { [selector]: node });
-          }
+        if (has(properties, "$")) {
+          const { $: selector } = properties;
+          let { selections } = voyage;
+          init(selections, { [selector]: node });
+        }
 
-          components[componentid].status = "created";
-          return node;
-        } else if (check(element.type, "string")) {
-          let node = document.createElement(element.type);
+        components[componentid].status = "created";
+        return node;
+      } else if (check(element.type, "string")) {
+        let node = document.createElement(element.type);
 
-          const { labels } = element;
-          for (const label in labels) {
-            const content = labels[label];
-            if (is(label, "class") && check(content, Array)) {
-              node.className = join(content, " ");
-            } else if (is(label, "style") && check(content, "object")) {
-              assign(node.style, content);
-            } else if (is(label[0], "@")) {
-              const { macros } = voyage;
-              const event = slice(label, 1);
-              if (has(macros, event)) {
-                const { [event]: macro } = macros;
-                macro(node, content);
-              } else {
-                node.addEventListener(event, content);
-              }
-            } else if (is(label, "$")) {
-              let { selections } = voyage;
-              init(selections, { [content]: node });
-            } else if (has(content, "stateid")) {
-              const state = content;
-              node.setAttribute(label, state.value);
-
-              const { updateLabel } = {
-                updateLabel(newValue) {
-                  node.setAttribute(label, newValue);
-                },
-              };
-
-              bind(state, updateLabel);
-            } else if (has(content, "calculator")) {
-              const { calculator, factors } = content;
-
-              const { updateLabelAfterCalc } = {
-                updateLabelAfterCalc() {
-                  node.setAttribute(label, calculator());
-                },
-              };
-
-              updateLabelAfterCalc();
-
-              for (const factor of factors) {
-                bind(factor, calculator);
-              }
+        const { labels } = element;
+        for (const label in labels) {
+          const content = labels[label];
+          if (is(label, "class") && check(content, Array)) {
+            node.className = join(content, " ");
+          } else if (is(label, "style") && check(content, "object")) {
+            assign(node.style, content);
+          } else if (is(label[0], "@")) {
+            const { macros } = voyage;
+            const event = slice(label, 1);
+            if (has(macros, event)) {
+              const { [event]: macro } = macros;
+              macro(node, content);
             } else {
-              node.setAttribute(label, content);
+              node.addEventListener(event, content);
             }
-          }
+          } else if (is(label, "$")) {
+            let { selections } = voyage;
+            init(selections, { [content]: node });
+          } else if (has(content, "stateid")) {
+            const state = content;
+            node.setAttribute(label, state.value);
 
-          if (check(element.content, Array)) {
-            for (const child of element.content) {
-              node.appendChild(recursion(child));
+            const updateLabel = function (newValue) {
+              node.setAttribute(label, newValue);
+            };
+
+            bind(state, updateLabel);
+          } else if (has(content, "calculator")) {
+            const { calculator, factors } = content;
+
+            const updateLabelAfterCalc = function () {
+              node.setAttribute(label, calculator());
+            };
+
+            updateLabelAfterCalc();
+
+            for (const factor of factors) {
+              bind(factor, calculator);
             }
           } else {
-            node.innerText = element.content;
+            node.setAttribute(label, content);
           }
-          return node;
         }
-      },
+
+        if (check(element.content, Array)) {
+          for (const child of element.content) {
+            node.appendChild(recursion(child));
+          }
+        } else {
+          node.innerText = element.content;
+        }
+        return node;
+      }
     };
     return recursion(element);
   },
@@ -696,48 +613,86 @@ let voyage = {
    * temporary fn for testing
    * @param  {...any} options
    * @returns {Node}
+   * @memberof voyage
    */
   c(...options) {
     const { compile, create } = voyage;
     return create(compile(...options));
   },
+  /**
+   * @typedef {object} State
+   * @prop {*} value - the value with getter and setter
+   * @prop {*} v - alias of value
+   */
+  /**
+   * @param {Componentid} componentid
+   * @param {Key} stateid
+   * @returns {State}
+   * @memberof voyage
+   */
   getState(componentid, stateid) {
-    const { sync } = voyage.lib;
+    /**
+     * @callback StateUpdater
+     * @param {*} newValue
+     * @param {*} oldValue
+     * @returns {void}
+     */
+    /**
+     * make an object prop reactive
+     * @param {object} obj - the object to be observed
+     * @param {Key} key - the key in the object refering to a value
+     * @param {StateUpdater} updater - the callback fn when obj[key] changes
+     * @returns {State} the reactive object
+     * @memberof voyage.lib
+     */
+    const sync = function (obj, key, updater) {
+      const { isnt } = voyage.lib;
+      const { defineProperty } = Object;
+
+      let state = {};
+      const handler = {
+        get() {
+          return obj[key];
+        },
+        set(newValue) {
+          const oldValue = obj[key];
+          if (isnt(oldValue, newValue)) {
+            obj[key] = newValue;
+            updater(newValue, oldValue);
+          }
+        },
+      };
+
+      const aliases = ["v", "value"];
+
+      for (const alias of aliases) {
+        defineProperty(state, alias, handler);
+      }
+      return state;
+    };
     const { updateState } = voyage;
     const { assign } = Object;
 
-    const { states } = voyage;
+    const { components } = voyage;
 
-    const { observer } = {
-      observer(newValue, oldValue) {
-        updateState(componentid, stateid, newValue, oldValue);
-      },
+    const updater = function (newValue, oldValue) {
+      updateState(componentid, stateid, newValue, oldValue);
     };
 
-    const state = sync(states[componentid], stateid, observer);
+    const state = sync(components[componentid].states, stateid, updater);
     assign(state, { componentid, stateid });
 
     return state;
   },
-  getStates(componentid) {
-    const { updateState } = voyage;
-
-    const { states } = voyage;
-    const handler = {
-      get(states, stateid) {
-        const state = states[stateid];
-        return state;
-      },
-      set(states, stateid, newValue) {
-        const oldValue = states[stateid];
-        states[stateid] = newValue;
-        updateState(componentid, stateid, newValue, oldValue);
-      },
-    };
-
-    const proxy = new Proxy(states[componentid], handler);
-    return proxy;
-  },
+  /**
+   * call updaters of a state
+   * @param {number} componentid
+   * @param {Key} stateid
+   * @param {*} newValue
+   * @param {*} oldValue
+   * @returns {void}
+   * @memberof voyage
+   */
   updateState(componentid, stateid, newValue, oldValue) {
     const { init } = voyage.lib;
 
@@ -747,141 +702,83 @@ let voyage = {
       updater(newValue, oldValue);
     }
   },
-  ref(...options) {
-    const { is, check, map, init } = voyage.lib;
+  /**
+   * create a state, without binding any updater
+   * @param {*} [initial] - the initial value
+   * @param {Key} [stateid] - if not specified, use counter
+   * @returns {State}
+   * @memberof voyage
+   */
+  ref(initial, stateid) {
+    const { check, init } = voyage.lib;
     const { getState } = voyage;
-    const { keys, values } = Object;
 
-    const { refState } = {
-      refState(initial) {
-        const { info } = voyage;
-        const { componentid } = info;
+    const { current: componentid } = voyage.counter;
 
-        let stateid;
-        if (check(initial, "object")) {
-          stateid = keys(initial)[0];
-          initial = values(initial)[0];
-        } else {
-          let { components } = voyage;
-          init(components[componentid], { stateid: 0 });
-          stateid = components[componentid].stateid++;
-        }
-
-        let { states } = voyage;
-        init(states, componentid, { [stateid]: initial });
-
-        const state = getState(componentid, stateid);
-        return state;
-      },
-    };
-
-    if (is(options.length, 1)) {
-      options = options[0];
-    }
-
-    if (check(options, Array)) {
-      return map(options, refState);
-    } else {
-      return refState(options);
-    }
-  },
-  store(...options) {
-    const { is, check, map, init } = voyage.lib;
-    const { bind, select, replace, call, ref } = voyage;
-
-    if (is(options.length, 1)) {
-      options = options[0];
-    }
-
-    const { storeState } = {
-      storeState(initial) {
-        const { info } = voyage;
-        const { componentid } = info;
-
-        const { components } = voyage;
-        const { stateid } = components[componentid];
-
-        let { updaters } = voyage;
-        init(updaters, componentid, [stateid]);
-
-        const { updateComponent } = {
-          updateComponent() {
-            const node = select(componentid);
-            const updatedNode = call(componentid);
-            replace(node, updatedNode);
-          },
-        };
-        bind(componentid, stateid, updateComponent);
-
-        return ref(initial);
-      },
-    };
-    if (check(options, Array)) {
-      return map(options, storeState);
-    } else {
-      return storeState(options);
-    }
-  },
-  keep(obj) {
-    const { is, map, init } = voyage.lib;
-    const { getState } = voyage;
-    const { keys } = Object;
-
-    const { keepGlobal } = {
-      keepGlobal(key, value) {
-        let { states } = voyage;
-        init(states, "global", key, value);
-
-        return getState("global", key);
-      },
-    };
-
-    if (is(keys(obj).length, 1)) {
-      const key = keys(obj)[0];
-      return keepGlobal(key, obj[key]);
-    } else {
-      return map(obj, keepGlobal);
-    }
-  },
-  defineComponent(component) {
     let { components } = voyage;
-    components[component.name] = component;
-  },
-  defineMacro(macro) {
-    let { macros } = voyage;
-    macros[macro.name] = macro;
-  },
-  /**
-   *
-   * @param {*} styles
-   * @param {*} theme
-   */
-  defineStyle(styles, theme) {},
-  defineTheme(options) {},
-  /**
-   * 
-   * @param {string} theme - the name of the theme
-   * @returns {true}
-   */
-  useTheme(theme) {
-    const { compile } = { compile(css) {
+    if (!check(stateid)) {
+      init(components[componentid], { stateid: 0 });
+      stateid = components[componentid].stateid++;
+    }
+    init(components, componentid, "states", { [stateid]: initial });
 
-    } };
+    const state = getState(componentid, stateid);
+    return state;
   },
+  /**
+   * create a state, update the component if it changes
+   * @param {*} [initial] - the initial value
+   * @param {Key} [stateid] - if not specified, use counter
+   * @returns {State}
+   * @memberof voyage
+   */
+  store(initial, stateid) {
+    const { check } = voyage.lib;
+    const { bind, call, select, replace, ref } = voyage;
+
+    const { current: componentid } = voyage.counter;
+    if (!check(stateid)) {
+      const { components } = voyage;
+      stateid = components[componentid].stateid++;
+    }
+
+    const state = ref(initial, stateid);
+
+    const updateComponent = function () {
+      const updatedNode = call(componentid);
+      const node = select(componentid);
+      replace(updatedNode, node);
+    };
+    bind(componentid, stateid, updateComponent);
+
+    return state;
+  },
+  /**
+   * @todo
+   * create a global state
+   * @param {*} [initial] - the initial value
+   * @param {Key} [stateid] - if not specified, use counter
+   * @returns {State}
+   * @memberof voyage
+   */
+  keep(inital, stateid) {},
+  /**
+   * @todo
+   * @param  {...any} options
+   * @memberof voyage
+   */
   run(...options) {
     const { init } = voyage.lib;
     const { c } = voyage;
-    const { runComponent } = {
-      runComponent(options) {
-        init(options, { properties: {} });
+    const runComponent = function (options) {
+      init(options, { properties: {} });
 
-        const { component, properties, parent } = options;
+      const { component, properties, parent } = options;
 
-        const node = c(component, properties);
+      const node = c(component, properties);
 
-        const parentNode = document.querySelector(parent);
-        parentNode.appendChild(node);
-      },
+      const parentNode = document.querySelector(parent);
+      parentNode.appendChild(node);
     };
 
     if (options.length > 1) {
@@ -936,7 +833,7 @@ let examples = {
   },
   counterKey() {
     const { ref, c } = voyage;
-    let count = ref({ count: 0 });
+    let count = ref(0, "count");
     const dec = function () {
       count.v--;
     };
@@ -952,7 +849,7 @@ let examples = {
   },
   counterLabel() {
     const { ref, c } = voyage;
-    let count = ref({ count: 0 });
+    let count = ref(0, "count");
     const dec = function () {
       count.v--;
     };
