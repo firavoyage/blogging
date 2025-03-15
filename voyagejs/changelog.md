@@ -281,12 +281,12 @@
   - so let c(...) equal to create(compile(...))
   - to make the code work
 
-### 0.31
+### 0.31 20250316
 
 - docs: add jsdoc comments to existing code
 - refactor: some unused functions
 - refactor: merge voyage.info into voyage.counter
-- refactor: change syntax of private functions
+- style: change syntax of private functions
   - from `const { a } = { a() {} };`
   - to `const a = function () {};`
   - the former one omits `function` at the cost of redundant indentation and the repetition of `a`
@@ -296,13 +296,22 @@
 - refactor: voyage.ref and voyage.store
   - fn(...options) is awkward, changed to fn(initial, stateid)
   - both param are optional
-- (wip) wording: rename some fn names
-  - inspired by component life cycle of react
-  - mount, update, unmount
-  - create (creating & created), show, update, remove
-- (wip) refactor: change inner text to text node
+- refactor: merge voyage.getState into voyage.ref
+- refactor: rename some component life cycle fn
+  - component: create, show, update.
+  - state: ref (create state), set (change state), apply (apply new value).
+  - inspired by react (mount, update, unmount)
+- refactor: voyage.lib.use
+  - changed its implementation to proxy
+  - now it doesnt rely on method name, and can return all methods at once
+- feat: change event listener of @model macro to "input"
+  - not "change"
+  - inspired by vue model
+- refactor: change inner text to text node
   - a node can contain both text nodes and other nodes
-  - everything that isnt object will be a text node
+
+### 0.32
+
 - (wip) feat: add voyage.pointer, alias p
   - usage: p("foo","bar","xyz")
   - returns a proxy with .value pointing states.foo.bar.xyz
@@ -323,7 +332,7 @@
   - an object
   - prop factors, an array of str keys of states
   - prop calculator, a fn with states inside
-  - ref: vue computed
+  - ref: vue computed, immer
 - (wip) feat: add voyage.lib.pattern (alias voyage.lib.p)
   - tagged fn
   - p "Counter: ${...}"
@@ -332,11 +341,6 @@
 - (wip) feat: add voyage.getStatus
   - react has "usestate(init fn)"
   - in voyagejs it's simple, just get status, and do it yourself.
-- (wip) refactor: change ref and store fn behavior
-  - of course it can function like react, store them by order
-  - but in voyagejs, each state must have a name
-  - so only objects are accepted
-  - fix the legacy examples
 - (wip) feat: set value behavior
   - state.value wont be changed before created
   - such changes will be applied like useEffect or onMount

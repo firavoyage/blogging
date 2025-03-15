@@ -201,6 +201,7 @@ https://heraclosgame.com/
 `career` `view`
 
 本周话题：周刊为什么只谈技术？
+
 自从我认定，未来二三十年，人类社会将有天翻地覆的大变。我的所有时间，就都投在技术领域了。因为变化是技术引起的，只有了解技术，才可能应对变化。
 
 我相信，未来最大的那些机会，一定是技术带来的机会。底层的年轻人要想翻身，当工程师是比较可能的途径。当然，医生和律师依然可以赚钱，但我觉得前景不如工程师，因为将来一定是机器帮你看病，帮你打官司。
@@ -1451,6 +1452,14 @@ https://github.com/leisurelicht/wtfpython-cn
 ---
 
 https://github.com/satwikkansal/wtfpython
+
+---
+
+[What the f\*ck Python!](https://github.com/leisurelicht/wtfpython-cn)
+
+![](https://cdn.beekka.com/blogimg/asset/202102/bg2021021408.jpg)
+
+这个仓库是原始英文版的中文翻译，收集 Python 语言的各种怪异的语法点，以及鲜为人知的功能特性，并尝试讨论这些语法现象背后真正的原理。
 
 ## create a successful side project story theory
 
@@ -3314,13 +3323,119 @@ https://bing.wdbyte.com/
 
 `css` `view` `quote`
 
-SVG 是一个非常臃肿的文件格式，规格文档厚达826页。如果要正确渲染所有 SVG 文件，还需要考虑另外20页的 XLink 规范。此外，SVG 支持 CSS 样式和 JAVASCRIPT 脚本。是的，SVG 文件可以包含`<script>`标签。
+SVG 是一个非常臃肿的文件格式，规格文档厚达 826 页。如果要正确渲染所有 SVG 文件，还需要考虑另外 20 页的 XLink 规范。此外，SVG 支持 CSS 样式和 JAVASCRIPT 脚本。是的，SVG 文件可以包含`<script>`标签。
 
 -- [《SVG：优点，缺点和丑陋之处》](https://www.eisfunke.com/article/svg-the-good-the-bad-and-the-ugly.html)
+
+---
+
+[SVG 俄罗斯方块](https://www.xul.fr/svgtetris.svg)
+
+![](https://cdn.beekka.com/blogimg/asset/202103/bg2021030703.jpg)
+
+在一个 SVG 文件里面，实现俄罗斯方块小游戏。原理是 SVG 可以内嵌`<script>`标签。
+
+## music downloader from youtube
+
+`app` `panel`
+
+[ytmdl-web](https://github.com/deepjyoti30/ytmdl-web-v2)
+
+![](https://cdn.beekka.com/blogimg/asset/202102/bg2021022707.jpg)
+
+这个 Web 应用为从 Youtube 下载的歌曲音频文件，写入 iTunes、LastFM 等网站上的歌曲元数据。
+
+## the best computer 10 years before is in your hand
+
+`retro` `meme`
+
+[iPhone 与超级计算机](https://www.tnhh.net/posts/phone-power.html)
+
+iPhone 12 的 A14 芯片，运算速度是 11 TFlOPS（每秒 11 万亿次）。
+
+下图是它跟历年世界 500 强超级计算机的比较。
+
+![](https://cdn.beekka.com/blogimg/asset/202102/bg2021021102.jpg)
+
+上图中，绿色的水平线就是 A14 芯片的运算速度，黄线是超级计算机的入围门槛，红线是最强性能的计算机。
+
+可以看到，如果放在 2009 年，它可以入围世界 500 强超级计算机。如果放在 2001 年，它比世界最快的计算机还要快。
+
+这就是说，你手里的这台小小的手机，拥有十几年前世界最顶级计算机的性能。
+
+## best music is written when there are not lots of music
+
+`career` `view` `ref`
+
+本周话题：当音乐还是稀缺的时候
+
+上周，磁带的发明者、飞利浦公司的荷兰工程师 Lou Ottens [去世](https://www.npr.org/2021/03/10/975598869/lou-ottens-inventor-of-the-cassette-tape-has-died)了。
+
+![](https://cdn.beekka.com/blogimg/asset/202103/bg2021031605.jpg)
+
+这让我想起了往事。这里的年轻读者，可能从没有听过磁带，但是 20 多年前，它是我们接触流行音乐的唯一渠道。
+
+那时，电台的音乐频道会播歌，要想反复听，就必须录音，或者购买歌手的专辑。我记得，最早一盒是 7 元，后来涨到了 10 元。对于学生是很贵的东西，买一盒要下很久的决心，买来以后会反复听几百遍。
+
+![](https://cdn.beekka.com/blogimg/asset/202103/bg2021031606.jpg)
+
+现在完全不一样了，一个新专辑在网上发布，很少有人连着听几百遍吧，不知名歌手的专辑可能根本没人听。因为音乐实在太多了，随便一个流媒体网站，都是上百万的曲库，大家已经不会在一张专辑上花太多的时间了。
+
+音乐家应该会怀念磁带的年代。那时，生活中缺乏音乐，人们才会那么投入地去听，歌手也会投入地创作。那时的歌曲真的会影响人生，甚至影响社会。
+
+![](https://cdn.beekka.com/blogimg/asset/202103/bg2021031607.jpg)
+
+美国歌手鲍勃-迪伦因为他的歌词，得到诺贝尔文学奖。"一个人要经历多少旅途，才能长大 / 一只鸽子要飞过多少海洋，才能看到沙滩 / 一门大炮要发射多少次，才有和平 / 我的朋友啊，答案就在风中飘荡"，成了一个时代的标志。要是他生在现在，到处是快餐文化，这种歌即使写出来，也不会有太大反响，最多就是在社交媒体上转发一阵子。
+
+音乐的黄金年代，其实是它稀缺的年代。  现在的音乐就像流水线上的产品，丰富到大家都不在乎了。歌手出一张专辑，跟发一条朋友圈差不多。
+
+如果看得远一点，真正出大师的年代，是音乐更稀缺的时候。巴赫、贝多芬和莫扎特的年代，根本没有录音技术，想听音乐必须去现场。但是，偏偏那个年代出现了最伟大的音乐家，后世的技术提升了，却没人赶得上他们，这是为什么？
+
+我猜想，原因可能跟稀缺有关系。稀缺意味着竞争少，所有问题都没有解决，你可以探索各种可能性和解决方案，容易出大师，影响后世。顺便说一下，也许有人会问，为什么更早以前没有出现著名音乐家？因为欧洲人在 17 世纪才掌握了成熟的炼钢技术，可以制作钢丝琴弦，能够确定准确的音高了。
+
+稀缺年代不仅诞生大师，也会诞生大公司。  现在的科技大厂，都是新技术的早期诞生的。PC 的稀缺诞生了微软和苹果，互联网的稀缺诞生了 BAT，手机 App 的稀缺诞生了美团和字节跳动。等到不稀缺的时候，再想变成巨头就难了。
+
+这告诉我们，如果你真想做一番大事，就应该投入那些刚刚开始发展、供给还很稀缺的领域。否则，想要成功就好像在互联网年代当一个歌手。
+
+## the moving sofa geometry problem
+
+`algorithms` `theory`
+
+[沙发过弯问题](https://www.math.ucdavis.edu/~romik/movingsofa/)（英文）
+
+![](https://cdn.beekka.com/blogimg/asset/202103/bg2021030313.jpg)
+
+![](https://cdn.beekka.com/blogimg/asset/202103/bg2021030314.jpg)
+
+1966 年，一个数学家提出一个问题，在一个直角走廊里面，能够通过的沙发最大可以有多大？
+
+## the faster html parser linkdom
+
+`js` `theory`
+
+[LinkDOM](https://github.com/WebReflection/linkedom)
+
+JSDOM 的一个替代品，使用 JavaScript 解析 HTML 字符串，返回一个 DOM 对象，在上面实现了 DOM 接口。它比 JSDOM 体积更小、速度更快、内存占用更少。
+
+## svg waves generater with several factors
+
+`css` `app` `image`
+
+[SVG Waves](https://www.softr.io/tools/svg-wave-generator)
+
+![](https://cdn.beekka.com/blogimg/asset/202103/bg2021030505.jpg)
+
+一个在线工具，可以生成 SVG 的波浪图片，各种细节都可以定制。
 
 ##
 
 
+
+##
+
+##
+
+##
 
 ##
 

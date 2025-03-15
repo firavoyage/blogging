@@ -4305,7 +4305,7 @@ copilot is useless, turned off.
 
 "感谢老板的 sc, 祝老板生活如意, 期待与你下次相遇哦."
 
-### 20250314
+### 20250315
 
 (on simplelive)
 
@@ -4313,3 +4313,10 @@ copilot is useless, turned off.
 
 还关注了瓶子.
 
+(upd: unfollowed some of them, especially those voice seems old)
+
+---
+
+school life...
+
+f 基本没学习小六门呢! 所以最后 f 会去学习吗...
