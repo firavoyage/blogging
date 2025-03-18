@@ -43,7 +43,7 @@
 - - jazz & lofi & hiphop & classical
   - calendar & wall clock
   - reading & life size waifu pillow
-  - gardening & origami & pixel art
+  - origami & pixel art & gardening
   - math & algorithms & unixporn & mtf & virtualyoutubers
   - functional programming & web dev
   - dark style & night light & low brightness & tranquility
@@ -238,11 +238,11 @@
   - old reddit & zhihu & nga bbs & forum.gamer.com.tw & stack exchange
   - bangumi.tv & my anime list & mikan project & bgmlist & dmhy.org
   - douban & imdb & genius & poetry foundation & art of problem solving
-  - e hentai & mangadex & vndb & shinnku galgame
+  - e hentai & 9 hentai & tsumino & hitomi.la & vndb & shinnku galgame
   - pixiv & deviantart & dribbble & unsplash
   - steam db & itch.io & google doodles & emoji db
-  - github trending & hacker news & product hunt & v2ex
-  - ruanyf weekly & tw93.fun weekly & gamedevjs weekly & codepen spark
+  - github trending & hacker news & product hunt & v2ex & dev.to
+  - ruanyf weekly & tw93 weekly & gamedevjs weekly & codepen spark
   - codeforces & atcoder & luogu & libre oj
   - cnblogs & travellings.cn & foreverblog.cn & travel.moe & google reader
   - eu.org & cloudflare & netlify & vercel & deno & glitch
@@ -294,22 +294,23 @@
     - emcc 4.0.5
     - node 18.19.1
     - npm 9.2.0
+      - jsdoc 4.0.4
+      - terser 5.19.2
+      - marked 14.1.2
     - python3 3.12.3
     - pip 24.0
     - rustup 1.28.1
     - rustc 1.85.0
     - cargo 1.85.0
-    - wasm-pack 0.13.1
-    - mdbook 0.4.47
-  - - eslint 6.4.0
-    - jsdoc 4.0.4
-    - marked 14.1.2
-    - prettier 3.5.3
-    - terser 5.19.2
+      - wasm-pack 0.13.1
+      - mdbook 0.4.47
   - - wakatime.vscode-wakatime 24.9.2
     - yzhang.markdown-all-in-one 3.6.2
+    - davidanson.vscode-markdownlint 0.59.0
     - xabikos.javascriptsnippets 1.8.0
     - nathanchapman.javascriptsnippets 0.4.0
+    - dbaeumer.vscode-eslint 3.0.10
+    - esbenp.prettier-vscode 11.0.0
     - rust-lang.rust-analyzer 0.3.2328
     - formulahendry.code-runner 0.12.2
     - felicio.vscode-fold 1.4.3
@@ -373,6 +374,7 @@
     - k9-mail 6.801
     - legado 3.23.112523
     - material-files 1.4.2
+    - metro 6.1.0
     - nekogram 11.0.0
     - oneplus-weather 1.8.5
     - onscripter-yuri 0.7.4
@@ -501,8 +503,9 @@
 
 ## erudition
 
-- lights
+- troves
   - `ruanyf` observation of the digital time
+- lights
   - `livid` letter to the solitary youth
   - `nat` belief of a tech entrepreneur
   - `florio` advice for the programming ride
@@ -510,16 +513,15 @@
 - ideas
   - `projects` worthwhile endeavours
   - `quotes` collection of the surfer
-  - `wisdom` reference to the mind flow
   - `mistral` walk in the light with le chat
-  - `prompts` unfold the panoply of words
-  - `comments` what i have heard as a student
-  - `fin` words at the end of the day
-- self
+- albums
   - `river` the polished stones
   - `weekly` works and wonders
   - `ubuntu` digital home decor
   - `blackboard` wax and wane
+  - `comments` what i have heard as a student
+  - `wisdom` reference to the mind flow
+  - `fin` words at the end of the day
 
 ## gamut
 
@@ -542,7 +544,8 @@
 ## shadows
 
 - - wikipedia `User:Firavoyage`
-- - github & gitlab & gitee & codepen & wakatime `firavoyage`
+- - github & gitlab & gitee & wakatime `firavoyage`
+  - codepen & dev.to `firavoyage`
   - duolingo `firavoyage`
 - - blogger `firavoyage`
   - cnblogs `fira`
@@ -596,3 +599,9 @@
 > 90% 和 95% 是有区别的, 80% 和 20% 是没有区别的. 想成为厉害的人. 如果 f 死后没有许多陌生人记住 f, f 活着也没什么意思.
 
 > f's debut plan? 虚拟形象? 三次元已经足够无聊了, 就这几个表情吧, 至少比较有意思. 想到了... 发电(兴奋)的, 讽刺的, 还有怜悯的. 有可能失落 (成为大贤者) 的时候, 或者思考的时候都是怜悯的表情. 其他的时候, 心情愉悦的时候, 肯定只能是在发电或者讽刺. 痴汉 (~~梦女~~) 还有难绷 (我们受过专业训练一般不会笑, 除非忍不住) 的就不要设计了, 都用发电代替. 反正从声音也能听出来. 一定要媚宅, 就 hentai 大叔那样, 比较正直, 或者也像小处男 (~~小男娘, mtf~~ ~~直男是好古早的词啦~~)? 媚女的好多矫揉造作啊, 要么比较弱小, 要么比较强势 (甚至很难找到别的形象呐, dere type wiki 上完全不一样嘛.), 虽然 xp 各种各样就是了.
+
+> 人间游戏, 许多输赢. 有时苦笑, 自嘲, 相信命运与幻术. 有时天真无邪, 只是观察. 有时想赢. 或者 f 想赢. 或者 f 只是忠于欲望. 或者 f 只是践行命运, 或许不是.
+
+> vtuber debut 企画! 不使用 live2d, 使用 emoji + threejs / css3d. 这个好... 太对了. 努力! 闪耀!
+
+> "raising the ceiling." 一切愿望都存在策略可使立竿见影? 并不如此. 或者僧多粥少, 或者看向别处. 历史过程就是不可避免的牺牲. 平静, 从容, 举重若轻.

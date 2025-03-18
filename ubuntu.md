@@ -46,7 +46,7 @@
 
 - desktop icons `off`
 
-```
+```sh
 sudo apt install gnome-shell-extension-prefs
 ```
 
@@ -79,23 +79,28 @@ sudo apt install gnome-shell-extension-prefs
 ### date&time
 
 - config `lang en`
-  ```
+
+  ```sh
   sudo localectl set-locale lc_time=en_us.utf8
   ```
 
 ### users
 
 - remove password
+
   - -> `admin:///etc/polkit-1/localauthority/50-local.d/nopw.pkla`
-    ```
+
+    ```sh
     sudo visudo `fira all=(all) nopasswd:all`
     ```
-    ```
+
+    ```sh
     [no password prompt]
     identity=unix-group:sudo
     action=*
     resultactive=yes
     ```
+
 - disable `keyring popup`
   - ref https://linuxconfig.org/how-to-disable-keyring-popup-on-ubuntu
   - open `passwords and keys`
@@ -178,7 +183,7 @@ sudo apt install gnome-shell-extension-prefs
 - config source
   - -> `/etc/apt/sources.list.d/`
 - disable `software updater popup`
-  ```
+  ```sh
   sudo apt-get remove update-notifier
   ```
 - disable `auto update`
@@ -247,11 +252,12 @@ sudo apt install gnome-shell-extension-prefs
   - -> `templates`
   - markdown.md
   - cpp.cpp
+  - file
 
 ## `solanum`
 
 - install
-  ```
+  ```sh
   sudo flatpak install flathub org.gnome.Solanum
   ```
 - config
@@ -279,16 +285,14 @@ sudo apt install gnome-shell-extension-prefs
 - disable `new look`
   - ref https://snapcraft.io/docs/revisions https://snapcraft.io/docs/managing-updates
   - install `chromium 124.0.6367.118`
-    ```
+    ```sh
     sudo snap install chromium --revision 2842
     sudo snap refresh --hold=forever
     ```
 - disable `flags`
-  ```
-  chrome://flags/#customize-chrome-side-panel
-  chrome://flags/#chrome-refresh-2023
-  chrome://flags/#chrome-webui-refresh-2023
-  ```
+  - chrome://flags/#customize-chrome-side-panel
+  - chrome://flags/#chrome-refresh-2023
+  - chrome://flags/#chrome-webui-refresh-2023
 - config title bar
   - (right click the title bar)
   - use system title bar `off`
@@ -343,7 +347,7 @@ sudo apt install gnome-shell-extension-prefs
 
 - install
   - fix `fcitx compatibilty issue`
-    ```
+    ```sh
     sudo snap remove code
     curl https://packages.microsoft.com/keys/microsoft.asc | gpg --dearmor > packages.microsoft.gpg
     sudo install -o root -g root -m 644 packages.microsoft.gpg /usr/share/keyrings/
@@ -368,6 +372,7 @@ sudo apt install gnome-shell-extension-prefs
   - code runner `formulahendry.code-runner`
   - rust-analyzer `rust-lang.rust-analyzer`
   - fold `felicio.vscode-fold`
+  - markdownlint `davidanson.vscode-markdownlint`
 - config appearance
   - -> `view > appearance`
   - custom titlebar `off`
@@ -395,10 +400,24 @@ sudo apt install gnome-shell-extension-prefs
   - code-runner:run in terminal `on`
   - code-runner:preserve focus `off`
   - code runner:executor map (-> `settings.json`)
-    ```
+    ```json
     "code-runner.executormap": {
       // "cpp": "cd $dir && g++ $filename -o $filenamewithoutext && $dir$filenamewithoutext",
       "cpp": "cd $dir && g++ \"$filename\" -o \"$filenamewithoutext\" && \"$dir$filenamewithoutext\"",
+      // "python": "python -u",
+      "python": "python3 -u",
+    }
+    ```
+  - markdownlint (-> `settings.json`)
+    ```json
+    "markdownlint.config": {
+        "MD034": false,
+        "MD026": false,
+        "MD012": false,
+        "MD024": false,
+        "MD031": false,
+        "MD045": false,
+        "MD028": false,
     }
     ```
 - config user snippets
@@ -415,11 +434,12 @@ sudo apt install gnome-shell-extension-prefs
     - open settings `ctrl ,`
     - toggle nav bar `alt`
     - toggle side bar `ctrl b`
-    - _toggle panel_ `ctrl alt p`
     - toggle terminal in panel `ctrl backquote`
     - toggle explorer `ctrl shift e`
     - toggle search `ctrl shift f`
     - toggle extensions `ctrl shift x`
+    - _toggle panel_ `ctrl alt p`
+    - toggle problems panel `ctrl shift m`
   - create files
     - new file `ctrl n`
     - close file `ctrl w`
@@ -510,12 +530,12 @@ sudo apt install gnome-shell-extension-prefs
     > github no longer supports password. personal access token or ssh needed.
 - config gitlab (github mirror)
   - use
-    ```
+    ```sh
     git remote add l https://username:password@gitlab.com/username/project.git
     ```
 - config gitee (github mirror)
   - use
-    ```
+    ```sh
     git remote add e https://gitee.com/username/project.git
     ```
   - input username and password
@@ -529,11 +549,11 @@ sudo apt install gnome-shell-extension-prefs
 ## `fcitx5`
 
 - install app
-  ```
+  ```sh
   sudo apt install fcitx5 fcitx5-chinese-addons fcitx5-frontend-gtk4 fcitx5-frontend-gtk3 fcitx5-frontend-gtk2 fcitx5-frontend-qt5
   ```
 - install dict
-  ```
+  ```sh
   wget https://github.com/felixonmars/fcitx5-pinyin-zhwiki/releases/download/0.2.4/zhwiki-20220416.dict
   mkdir -p ~/.local/share/fcitx5/pinyin/dictionaries/
   mv zhwiki-20220416.dict ~/.local/share/fcitx5/pinyin/dictionaries/
@@ -541,16 +561,16 @@ sudo apt install gnome-shell-extension-prefs
 - install another dict
   - -> https://github.com/wuhgit/CustomPinyinDictionary
   - download CustomPinyinDictionary_Fcitx.dict
-    ```
+    ```sh
     mv CustomPinyinDictionary_Fcitx.dict ~/.local/share/fcitx5/pinyin/dictionaries/
     ```
 - config default
-  ```
+  ```sh
   im-config
   ```
 - config environment variables
   - -> `admin:///etc/environment`
-    ```
+    ```text
     GTK_IM_MODULE=fcitx
     QT_IM_MODULE=fcitx
     XMODIFIERS=@im=fcitx
@@ -573,14 +593,14 @@ sudo apt install gnome-shell-extension-prefs
   - action when switching input method `commit current preedit`
   - remove all punctuation (-> punctuation > `-` button on the right)
 - config theme
-  ```
+  ```sh
   git clone https://github.com/tonyfettes/fcitx5-nord.git
   mkdir -p ~/.local/share/fcitx5/themes/
   cd fcitx5-nord
   cp -r Nord-Dark/ Nord-Light/ ~/.local/share/fcitx5/themes/
   ```
   - -> `~/.config/fcitx5/conf/classicui.conf`
-    ```
+    ```text
     Theme=Nord-Dark
     Theme=Default
     ```
@@ -599,14 +619,12 @@ sudo apt install gnome-shell-extension-prefs
 ## `v2raya`
 
 - install dependence
-  ```
+  ```sh
   sudo apt install v2ray
   ```
 - config account
-  ```
-  name `f`
-  passwd `firafira`
-  ```
+  - username `f`
+  - password `firafira`
 - config `proxy only gfwlist` or `proxy except cn sites`
 - config proxy nodes
   - ref `git/blogging/swim.md`
@@ -640,7 +658,7 @@ sudo apt install gnome-shell-extension-prefs
 ## `wine`
 
 - install
-  ```
+  ```sh
   sudo dpkg --add-architecture i386
   wget -O - https://dl.winehq.org/wine-builds/winehq.key | sudo apt-key add -
   sudo add-apt-repository 'deb https://dl.winehq.org/wine-builds/ubuntu/ jammy main'
@@ -648,17 +666,17 @@ sudo apt install gnome-shell-extension-prefs
   sudo apt install --install-recommends winehq-stable
   ```
 - install libraries
-  ```
+  ```sh
   sudo apt install libasound2-dev
   sudo apt install libfontconfig-dev
   ```
 - config sound library
-  ```
+  ```sh
   sudo apt install winetricks
   winetricks sound=pulse
   ```
 - config wine
-  ```
+  ```sh
   winecfg
   ```
 
@@ -751,7 +769,7 @@ sudo apt install gnome-shell-extension-prefs
 ## misc
 
 - install
-  ```
+  ```sh
   sudo apt install git
   git config --global user.name "Fira"
   git config --global user.email "devvhy@zohomail.cn"
@@ -800,7 +818,7 @@ sudo apt install gnome-shell-extension-prefs
   sudo snap install vlc
   ```
 - install code
-  ```
+  ```sh
   sudo snap remove code
   curl https://packages.microsoft.com/keys/microsoft.asc | gpg --dearmor > packages.microsoft.gpg
   sudo install -o root -g root -m 644 packages.microsoft.gpg /usr/share/keyrings/

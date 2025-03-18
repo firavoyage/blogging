@@ -312,50 +312,34 @@
 
 ### 0.32
 
-- (wip) feat: add voyage.pointer, alias p
-  - usage: p("foo","bar","xyz")
-  - returns a proxy with .value pointing states.foo.bar.xyz
-  - get handler is simple
-  - set handler updates the component
-- (wip) feat: add voyage.listen
-  - usage: listen(updater, stateName)
-  - returns true, bind the updater to the state
-  - updater(newValue, oldValue, node)
-  - returns the updated node or true.
-  - if true, the updater edits the dom (by prop node) directly.
-- (wd) feat: make functions stoppable
-  - if global state like "display method" changed from 1 to 2
-  - the full page will rerender (expensive)
-  - and user cancelled quickly (changing display method again, like 3)
-  - the former rerender will stop, and run next rerender as method 3
-- (wip) feat: add type calculator, a label can be calculator
-  - an object
-  - prop factors, an array of str keys of states
-  - prop calculator, a fn with states inside
-  - ref: vue computed, immer
-- (wip) feat: add voyage.lib.pattern (alias voyage.lib.p)
-  - tagged fn
-  - p "Counter: ${...}"
-  - usage: a string, with some states inside
-  - returns a calculator
-- (wip) feat: add voyage.getStatus
-  - react has "usestate(init fn)"
-  - in voyagejs it's simple, just get status, and do it yourself.
-- (wip) feat: set value behavior
-  - state.value wont be changed before created
-  - such changes will be applied like useEffect or onMount
-- (wd) example: list of counter that can be sorted
-  - (two components, list and counter)
-  - list has the states, counters: [{id:..., count: ...}, ...] using ref
-  - order: "ascended" using store
-  - give each counter a p("counters", index, "count") state, done.
-  - counter also consider count as ref, binding input.value
-  - when inc/dec/change, list wont rerender, counters wont rerender.
-  - when sorted, list will rerender, counters will rerender.
-  - (only changing position of counters is ok, but not supported by default)
-  - just counters.v = sort(counters.v...), component wont update before created
-  - like fetch..., state changes during creation will be delayed
-- (wip) feat: write styling feature like tailwind
+- feat: replace innertext with textcontent
+  - faster and preserve formatting
+- refactor: remove newvalue param on `apply`
+  - and oldvalue is optional now
+- refactor: remove `keep` and `"global"` componentid
+  - no reference, and number componentid works well
+- refactor: merge updaters into components
+  - `components[cid].states[sid].updaters`
+- refactor: `voyage.lib.init`
+  - previous one is too complex logic
+  - replace voyage.lib.lacks with !voyage.lib.has
+- refactor: remove voyage.store
+  - use `a = ref(...); bind(a, update())` instead
+  - store and ref are `useState` and `useRef` in react
+  - now store feels redundant
+  - inspired by svelte vue
+- (wip) 
+- chore: read svelte examples
+  - learn from it
+  - define stable apis to release version 1.0
+- chore: read tailwindcss docs
+  - learn from it
+  - define theming features
+- feat(state): aftercreate and delay state changes on the fly
+  - state changes wont apply when the component is in `create` status. these stateids will be put into `components[cid].afterCreate`. after create the component, apply all changes and clear todo.
+  - eg. a component store internet resources in a state, show loading until data is fetched.
+  - inspired by react `useEffect`
+- feat: theming feature
   - defineTheme(), useTheme(), @style macro.
   - defineTheme(obj theme)
     - theme includes obj, str, fn `{str|fn|[theme]:{str|fn}}`
@@ -377,9 +361,68 @@
     - all these style will generate a murmurhash as classname in style element
     - the style element has state "theme" and "map" (hash: "br-2 ...")
   - inspired by tailwindcss, emotion, unocss, tachyons
-- (wd) docs: see readme.md
-  - roadmap, but in very informal style
-  - (lots of thoughts)
+- feat: voyage.computed, a special state
+  - `voyage.computed(computation, ...factors)`
+  - return a `computedState`
+  - prop compute, fn(states)
+  - prop factors, an array of states
+  - prop value
+  - get: value
+  - set: no effect
+  - binds all its factors to `recompute(){value=compute()}`
+  - inspired by vue computed, immer, svelte derived
+- feat: voyage.pattern, a tagged fn that returns computed state
+  - pattern`Clicked ${count} {count === 1 ? 'time' : 'times'}`
+  - inspired by svelte example: reactive assignments
+- feat: voyage.bind supports remover fn and multiple states
+  - replace the param order to `bind(updater, ...states)`, more semantic
+  - bind for each state
+  - callupdater(uid) logic
+    - call updater
+    - if the updater returns a fn, it will run when updater rerun or component is removed
+    - store the fn on `voyage.components[cid].remover[uid]`
+  - return uid
+  - inspired by svelte effect
+- refactor: updaters of a component
+  - `voyage.components[cid].updaterid`
+  - a component should have certain number of updaters, like states
+  - reset to 0 when it recreates
+  - `state.updaters[uid]` is an object now, not array
+- feat: voyage.remove(cid) and voyage.family
+  - call for each `voyage.components[cid].remover`
+  - remove all children `component.children`
+  - delete `voyage.components[cid]`
+  - define `voyage.family`, when creating a component push it, when created pop it to its parent `component.children`
+- refactor: store componentid and stateid of reactive state in prototype
+  - using obj.getprototypeof and set...
+- refactor: voyage.ref and deep state
+  - objects ref doesnt need .value now, just use as normal object, it's a proxy
+  - `voyage.snapshot` can turn the proxy into a normal object (by cloning)
+  - `voyage.raw` is for large arrays, just reference the object and add state info to its prototype. need to apply it specially for any changes.
+  - `voyage.pointer(state, ...path)` (alias `voyage.p`) creates a special state on certain path of a reactive object state
+  - inspired by svelte state.raw state.snapshot
+- refactor: $ label
+  - remove voyage selections
+  - $: state, define the element as the state value
+  - the state should be raw({}), and Object.assign will be used.
+  - inspired by svelte bind
+- feat: aftershow and voyage.effect(effect, ...states)
+  - bind(effect,...states) and put effect to `component.afterShow`
+  - inspired by svelte effect
+- (wd)
+- feat(diff): preserve focus in input element
+  - no need to update dom when state changes
+  - diff between the new component and real dom before `replace`
+  - only affects `store`, not `ref`
+  - inspired by svelte
+- feat(key): list of counter that can be sorted
+  - list component ref array counts and boolean isAscended
+  - counter component has a prop count, which is created by pointer
+- feat: make functions stoppable
+  - if global state like "display method" changed from 1 to 2
+  - the full page will rerender (expensive)
+  - and user cancelled quickly (changing display method again, like 3)
+  - the former rerender will stop, and run next rerender as method 3
 
 ## river
 
