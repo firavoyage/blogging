@@ -1,4 +1,32 @@
-/**
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>JSDoc: Source: voyage.js</title>
+
+    <script src="scripts/prettify/prettify.js"> </script>
+    <script src="scripts/prettify/lang-css.js"> </script>
+    <!--[if lt IE 9]>
+      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <link type="text/css" rel="stylesheet" href="styles/prettify-tomorrow.css">
+    <link type="text/css" rel="stylesheet" href="styles/jsdoc-default.css">
+</head>
+
+<body>
+
+<div id="main">
+
+    <h1 class="page-title">Source: voyage.js</h1>
+
+    
+
+
+
+    
+    <section>
+        <article>
+            <pre class="prettyprint source linenums"><code>/**
  * @file
  * voyage framework
  *
@@ -75,9 +103,9 @@ let voyage = {
      *
      * invalid value (undefined or null): false
      *
-     * valid value & no type given: typeof value
+     * valid value &amp; no type given: typeof value
      *
-     * valid value & type: equals type or instanceof type
+     * valid value &amp; type: equals type or instanceof type
      *
      * @memberof voyage.lib
      */
@@ -109,7 +137,7 @@ let voyage = {
      *
      * begin defaults to 0,
      *
-     * step defaults to 1 if begin < end, otherwise -1
+     * step defaults to 1 if begin &lt; end, otherwise -1
      *
      * @param {number} begin - first param
      * @param {number} [end] - second param
@@ -124,7 +152,7 @@ let voyage = {
         let index = begin;
         const iterator = {
           next() {
-            if ((index - end) * step <= 0) {
+            if ((index - end) * step &lt;= 0) {
               const value = index;
               index += step;
               return { value, done: false };
@@ -143,7 +171,7 @@ let voyage = {
         begin = 0;
       }
       if (!check(step)) {
-        if (begin <= end) {
+        if (begin &lt;= end) {
           step = 1;
         } else {
           step = -1;
@@ -178,7 +206,7 @@ let voyage = {
     /**
      * functional programming essential
      *
-     * @returns {Proxy<function>}
+     * @returns {Proxy&lt;function>}
      * @example
      * const {slice} = use(Array)
      * slice([1,2,3],0,2) //[1,2,3].slice(0,2)
@@ -206,7 +234,7 @@ let voyage = {
    * string means html tag. fn means component.
    * @prop {object} labels
    * or properties for a component.
-   * @prop {Array <Element | string>} content
+   * @prop {Array &lt;Element | string>} content
    * ignored if it's a component. string means text node.
    */
   /**
@@ -287,7 +315,7 @@ let voyage = {
             } else {
               node.className = value;
             }
-          } else if (is(label, "style") && check(value, "object")) {
+          } else if (is(label, "style") &amp;&amp; check(value, "object")) {
             assign(node.style, value);
           } else if (is(label[0], "@")) {
             const { macros } = voyage;
@@ -350,60 +378,42 @@ let voyage = {
 };
 
 let examples = {
-  HelloWorld() {
-    const { p, c, t } = voyage;
-    const { name } = p({ name: "world" });
-    return c("div", t`hello ${name}`);
-  },
-  Label() {
-    const { p, c, t } = voyage;
-    const { name, src } = p();
-    return c("img", { src, alt: t`${name} dancing` });
-  },
-  Html() {
-    const { p, c, h } = voyage;
-    const { html } = p({ html: `here's some <strong>HTML!!!</strong>` });
-    return c("p", h(html));
-  },
-  SimpleCounter() {
-    const { p, c, t } = voyage;
-    const { count } = p({ count: 0 });
+  hello_world() {},
+  counter() {
+    const { props, ref, c } = voyage;
+    const p = props({ count: 0 });
     return c(
-      "button",
-      {
-        "@click": () => {
-          count(count() + 1);
-        },
-      },
-      t`clicked ${count} ${() => (count() > 1 ? "times" : "time")}`
+      ["button", { "@click": () => p.count--, $: "a" }, "-"],
+      ["input", { type: "text", "@bind:value": ref("count") }],
+      ["button", { "@click": () => p.count++ }, "+"]
     );
   },
-  SafeCounter() {
-    const { p, c, t, effect } = voyage;
-    const { count } = p({ count: 0 });
-    effect(() => {
-      if (count() >= 10) {
-        console.log(`count is dangerously high!`);
-        count(9);
-      }
-    });
-    return c(
-      "button",
-      {
-        "@click": () => {
-          count(count() + 1);
-        },
-      },
-      t`clicked ${count} ${() => (count() > 1 ? "times" : "time")}`
-    );
-  },
-  Counter() {
-    const { p, c } = voyage;
-    const { count } = p({ count: 0 });
-    return c(
-      ["button", { "@click": () => count(count() - 1) }, "-"],
-      ["input", { type: "text", "@bind:value": count }],
-      ["button", { "@click": () => count(count() + 1) }, "+"]
-    );
+  hello() {
+    const { props, c } = voyage;
+    p = props({ message: "hello" });
+    return c("p", p.message);
   },
 };
+</code></pre>
+        </article>
+    </section>
+
+
+
+
+</div>
+
+<nav>
+    <h2><a href="index.html">Home</a></h2><h3>Namespaces</h3><ul><li><a href="voyage.html">voyage</a></li><li><a href="voyage.lib.html">lib</a></li></ul><h3><a href="global.html">Global</a></h3>
+</nav>
+
+<br class="clear">
+
+<footer>
+    Documentation generated by <a href="https://github.com/jsdoc/jsdoc">JSDoc 4.0.4</a> on Sun Mar 23 2025 03:11:12 GMT+0800 (China Standard Time)
+</footer>
+
+<script> prettyPrint(); </script>
+<script src="scripts/linenumber.js"> </script>
+</body>
+</html>

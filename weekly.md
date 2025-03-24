@@ -27,7 +27,7 @@
 
 > _dawn_
 
-- return homes in sr hi hg ba arknights
+- return homes in sr hi hg ba ak
 - learn japanese on duolingo
 
 > _night_

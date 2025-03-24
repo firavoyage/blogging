@@ -40,16 +40,17 @@
   - dried mango
   - chenpi
   - huamei
-- - jazz & lofi & hiphop & classical
+- - jazz & lofi & hiphop & downtempo & classical
   - calendar & wall clock
   - reading & life size waifu pillow
   - origami & pixel art & gardening
-  - math & algorithms & unixporn & mtf & virtualyoutubers
-  - functional programming & web dev
+  - math & algorithms & unixporn & mtf & virtualyoutubers & xkcd
+  - keyboard cat & henri, le chat noir & mugumogu maru
+  - functional programming & web dev & rust
   - dark style & night light & low brightness & tranquility
   - attention & observation
   - arrangement & accumulation
-  - cynicism & dissociation & second person omniscient narration & inner speech
+  - cynicism & dissociation & inner speech & second person omniscient narration
 - - hotel california (eagles)
   - wind of change (scorpions)
   - scarborough fair (sarah brightman)
@@ -94,6 +95,7 @@
   - kletka (molchat doma)
   - yumeji’s theme (shigeru umebayashi)
 - - spirited away (2001)
+  - goodbye mr. loser (2015)
   - soul (2020)
   - the shawshank redemption (1994)
   - joker (2019)
@@ -111,13 +113,13 @@
   - searching (2018)
   - being john malkovich (1999)
   - jaws (1975)
+  - flow (2024)
   - .princess mononoke (1997)
   - .the truman show (1998)
   - .forrest gump (1994)
-  - .roman holiday (1953)
-  - .oppenheimer (2023)
 - - tom and jerry (1940)
   - in solitude where we are least alone (2010)
+  - international chinese debating competition (2013)
   - worldend: what do you do at the end of the world? are you busy? will you save us? (2017)
   - lucky star (2007)
   - evangelion (1995)
@@ -173,6 +175,7 @@
   - .monster hunter wilds (2025)
   - .stardew valley (2016)
   - .split fiction (2025)
+  - .inzoi (2025)
 - - to live (yu hua)
   - one hundred years of solitude (gabriel garcía márquez)
   - the scholars (wu jingzi)
@@ -185,6 +188,7 @@
   - liu qing's lectures on modern western thought (liu qing)
   - a long gaze (lung yingtai)
   - hackers and painters (paul graham)
+  - masters of doom (david kushner)
   - metaphors we live by (george lakoff & mark johnson)
   - javascript: the good parts (douglas crockford)
   - javascript: the definitive guide seventh edition (david flanagan)
@@ -230,16 +234,16 @@
   - y combinator startup podcast (y combinator)
   - yitianshijie (li ruyi)
   - yixi (yixi)
-- - wikipedia & miraheze & fandom & moegirl.icu & mdn web docs & oi wiki
+- - wikipedia & miraheze & fandom & moegirl.icu & oi wiki & mdn web docs
   - the pirate bay & z library & anna's archive
   - internet archive wayback machine & archive.today
   - google & chatgpt & deepseek & gemini & mistral le chat
   - youtube & berryberry & acfun & niconico & vtbs.moe & hololist
-  - old reddit & zhihu & nga bbs & forum.gamer.com.tw & stack exchange
+  - old reddit & zhihu & nga bbs & forum.gamer.com.tw & baidu tieba
   - bangumi.tv & my anime list & mikan project & bgmlist & dmhy.org
   - douban & imdb & genius & poetry foundation & art of problem solving
   - e hentai & 9 hentai & tsumino & hitomi.la & vndb & shinnku galgame
-  - pixiv & deviantart & dribbble & unsplash
+  - pixiv & danboru & deviantart & dribbble & unsplash
   - steam db & itch.io & google doodles & emoji db
   - github trending & hacker news & product hunt & v2ex & dev.to
   - ruanyf weekly & tw93 weekly & gamedevjs weekly & codepen spark
@@ -314,6 +318,14 @@
     - rust-lang.rust-analyzer 0.3.2328
     - formulahendry.code-runner 0.12.2
     - felicio.vscode-fold 1.4.3
+  - - adguard 5.0.212
+    - authenticator 8.0.1
+    - bewlybewly 0.41.1
+    - buster 3.1.0
+    - simple translate 3.0.0
+    - tampermonkey 5.3.3
+    - wakatime 4.0.12
+    - wayback machine 3.4.2
   - - apt 2.7.14
     - flatpak 1.16.0
     - snap 2.63.1
@@ -394,24 +406,28 @@
 - enthusiasm matters
   - it's much easier to work on things that are exciting to you
   - it might be easier to do big things than small things because of this reason
+  - energy is a necessary input for progress
 - it's important to do things fast
   - you learn more per unit time because you make contact with reality more frequently
   - going fast makes you focus on what's important; there's no time for bullshit
-- the efficient market hypothesis is a lie
-  - in many cases it's more accurate to model the world as 500 people than 8 billion
-  - most people are other people
+  - "slow is fake"
+  - a week is 2% of the year
+  - time is the denominator
 - where do you get your dopamine?
   - the answer is predictive of your behavior
   - better to get your dopamine from improving your ideas than from having them validated
   - it's ok to get yours from "making things happen"
-- i do not know what i may appear to the world
-  - but to myself i seem to have been only like a boy playing on the sea-shore
-  - and diverting myself in now and then finding a smoother pebble or a prettier shell than ordinary
-  - whilst the great ocean of truth lay all undiscovered before me
+- you can do more than you think
+  - we are tied down by invisible orthodoxy
+  - the laws of physics are the only limit
 - stay focused, keep shipping
   - build early, build always
   - improve yourself, write solid/simple/stupid code
   - live in the future and build what's missing
+- i do not know what i may appear to the world
+  - but to myself i seem to have been only like a boy playing on the sea-shore
+  - and diverting myself in now and then finding a smoother pebble or a prettier shell than ordinary
+  - whilst the great ocean of truth lay all undiscovered before me
 - knowledge isn't free
   - you have to pay attention
 - i have a small device in my pocket that provides access to nearly the sum total of human knowledge
@@ -471,9 +487,9 @@
 - 庄生晓梦迷蝴蝶
 - 且放白鹿青崖间 须行即骑访名山
 - 挟飞仙以遨游 抱明月而长终
-- 弱水三千 取一瓢饮
 - 以有涯随无涯 殆已
 - 归去来兮 请息交以绝游
+- 潭中鱼可百许头 皆若空游无所依
 - 闻道有先后 术业有专攻 如是而已
 - 今朝有酒今朝醉
 - 今番良晤 豪兴不浅 他日江湖相逢 再当杯酒言欢
@@ -495,8 +511,7 @@
 - 相濡以沫 不如相忘于江湖
 - 寓形宇内复几时 曷不委心任去留 胡为乎遑遑欲何之
 - 夫天地者万物之逆旅也 光阴者百代之过客也
-- 怅然若失
-- 有我之境 以我观物 故物皆著我之色彩 无我之境 以物观物 故不知何者为我 何者为物
+- 以我观物 故物皆著我之色彩 无我之境 以物观物 故不知何者为我 何者为物
 - 宁为玉碎 不为瓦全
 - 民为贵 社稷次之 君为轻
 - 待到秋来九月八 我花开后百花杀
@@ -509,7 +524,7 @@
   - `livid` letter to the solitary youth
   - `nat` belief of a tech entrepreneur
   - `florio` advice for the programming ride
-  - `jiangyanyan` confusing cs graduates in the time
+  - `jiangyanyan` confused cs graduates in the time
 - ideas
   - `projects` worthwhile endeavours
   - `quotes` collection of the surfer
@@ -520,23 +535,23 @@
   - `ubuntu` digital home decor
   - `blackboard` wax and wane
   - `comments` what i have heard as a student
-  - `wisdom` reference to the mind flow
+  - `wisdom` snapshots of the mind flow
   - `fin` words at the end of the day
 
 ## gamut
 
 - `blogging` gardener
 - `blogging/config` geek
-- `blogging/excerpts` learner
+- `blogging/lights` learner
 - `blogging/notes` librarian
-- `blogging/...` crafter
+- `blogging/pure` tutor
+- `blogging/...` developer
 - `memories/perspective` surfer
 - `memories/insight` sojourner
 - `memories/gaming` otaku
 - `school` photographer
 - `lucky` konata izumi
 - `web` archivist
-- `programs` developer
 - `music` audience
 - `fonts` calligrapher
 - `self` avatar
@@ -559,6 +574,7 @@
   - bangumi.tv `firavoyage`
   - v2ex `voy`
   - reddit `u/firavoyage`
+  - baidu tieba `____f_____`
   - twitter `firascript`
   - mastodon `fira@techhub.social` `firavoyage@mastodon.social`
   - bluesky `@firavoyage.bsky.social`
@@ -578,7 +594,7 @@
 >
 > _🎀‍🐾_
 
-> _平常心 / 琐碎 / 举重若轻 / 游戏尘寰_
+> _平常心 / 琐碎 / 举重若轻 / 怅然若失 / 游戏尘寰_
 
 > _time flies when you're having fun :)_
 
@@ -596,12 +612,20 @@
 
 > f 的愿望... 记住 f, 成为 f. 这也是对 f 自己说的.
 
-> 90% 和 95% 是有区别的, 80% 和 20% 是没有区别的. 想成为厉害的人. 如果 f 死后没有许多陌生人记住 f, f 活着也没什么意思.
+> 90% 和 95% 是有区别的, 80% 和 20% 是没有区别的. 想成为厉害的人. 如果 f 死后没有许多陌生人记住 f, f 活着也没什么意思. (或者说, 那些遥远的声音, 其实就是 dev 办公桌上的小黄鸭?)
 
 > f's debut plan? 虚拟形象? 三次元已经足够无聊了, 就这几个表情吧, 至少比较有意思. 想到了... 发电(兴奋)的, 讽刺的, 还有怜悯的. 有可能失落 (成为大贤者) 的时候, 或者思考的时候都是怜悯的表情. 其他的时候, 心情愉悦的时候, 肯定只能是在发电或者讽刺. 痴汉 (~~梦女~~) 还有难绷 (我们受过专业训练一般不会笑, 除非忍不住) 的就不要设计了, 都用发电代替. 反正从声音也能听出来. 一定要媚宅, 就 hentai 大叔那样, 比较正直, 或者也像小处男 (~~小男娘, mtf~~ ~~直男是好古早的词啦~~)? 媚女的好多矫揉造作啊, 要么比较弱小, 要么比较强势 (甚至很难找到别的形象呐, dere type wiki 上完全不一样嘛.), 虽然 xp 各种各样就是了.
 
-> 人间游戏, 许多输赢. 有时苦笑, 自嘲, 相信命运与幻术. 有时天真无邪, 只是观察. 有时想赢. 或者 f 想赢. 或者 f 只是忠于欲望. 或者 f 只是践行命运, 或许不是.
+> 人间游戏, 许多输赢. 有时苦笑, 自嘲, 相信命运与幻术. 有时天真无邪, 只是观察. 有时想赢. 或者 f 想赢. 是贫穷使人自卑敏感吗? 忠于欲望吧.
 
 > vtuber debut 企画! 不使用 live2d, 使用 emoji + threejs / css3d. 这个好... 太对了. 努力! 闪耀!
 
-> "raising the ceiling." 一切愿望都存在策略可使立竿见影? 并不如此. 或者僧多粥少, 或者看向别处. 历史过程就是不可避免的牺牲. 平静, 从容, 举重若轻.
+> "raising the ceiling." 一切愿望都存在策略? 或许很遥远啊, 或许也不优雅, 浮躁地追逐. 很多时候只是简单的僧多粥少吧. 或者, 看向别处. 历史过程就是不可避免的牺牲. 平静, 从容, 举重若轻.
+
+> 喜欢折纸, 压平, 用笔杆划. 喜欢把靠背往前, 把 f 压进桌沿. 有意思呢. 喜欢无心少女.
+>
+> 喜欢存档, 分类, 归因... 摄影? 手机贴脸, 看自己的 pov. 是什么感觉呢. 转动手腕, 手臂, 压出声音. 伸展, 使劲伸展, 停顿. 无心少年 role play.
+
+> 关于名字, firavoyage. fira 是字体, 很喜欢, 一直如此. voyage... 之前, 那是 2020 年吧, 用过一个软体, "潮汐" (tide), 放白噪音的. 有一个声音叫 "夜航". 没用多久 "nightflight" 这个 id, 检索到 voyage, 就一直现在喵. 想来, 检索过好多词啊... 最近都是用 llm 啦, 比如文件名, 函数名, 想要 "poetic" "metaphorical" 的说. 其实还用过别的 id, 翻出来的回忆... 那时候想法许多 (好像关于开发和自媒体), 但拿到的观察和信息很少吧, 看上去很天真呢.
+
+> 有时会恍惚吧. 就想象着世界随着 f 的心意转变. 像天气. 感知天气, 其实就是心情. 比如看东西入神. 风停, 人琐碎, 言语也疏离. 往来的人, 都看不到五官, 就像没有画一样, 虚焦的肤色. 像知识, 工具, 或许不够优雅吧. 想象里, 会舒服许多. 有时候想象会很清晰, 就想取一些草稿, 画出来, 或者列出来. 喜欢的话, 就去复现想象. 心情会好呢.

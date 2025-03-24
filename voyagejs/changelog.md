@@ -1,84 +1,12 @@
 # voyagejs changelog
 
-> ui is a function of state `ui = function(state)`
-
-## roadmap
-
-- fix issues
-- write every example on react learn
-- impl svelte examples with voyagejs
-- learn component system from chakra ui
-- create voyagejs maia (google reader)
-- create voyagejs material design 3
-- create sr hi hg component library
-
-## issues
-
-- add more lang to compile fn
-  - `extension`
-  - `20250201`
-  - from various lang, not just json. for instance pug.
-  - compile fn can be used as tag fn.
-- single responsibility principle
-  - remove excessive fn poly
-  - split fn into smaller fn
-- learn css in js methods
-  - learn from tailwind sass less stylus
-  - ask mistral css in js methods to define events and parent style in js
-  - which inline style couldnt support
-- add styling macro
-  - `@style` macro
-  - class-like styling `@style:"opacity-low h2"`
-  - syntax: `style style-param style-p1-p2-p3`
-  - styling with event `@style:"hover:opacity-high"`
-  - syntax: `event:styles`
-  - styling as parent `@style:"article{a{d e} b c} block{a c e} .xyz{}"`
-  - syntax: `selector{styles}`
-  - work with class and css in js
-  - `@theme` macro
-  - `@theme:"myTheme"`
-  - apply theme to its children
-- define style
-  - defineStyle({"del":"opacity-low hover:opacity-medium"},"paragraph")
-  - del is a css selector, opacity-low is macro, theme namespace is optional
-  - defineMacro({"opacity-low":{"opacity":"0.5"}},"myTheme")
-  - key is macro and value is css attr and value
-  - defineMacro({"opacity":function opacity(p){...}},"myTheme")
-  - opacity-1-2 -> opacity(1,2)
-- theme namespace macro
-  - div `@theme="myTheme"`
-  - rerender all children with `@style` and set them to myTheme
-- define more macros
-  - learn from jquery react alpine mithril svelte
-  - `@if` `@show`
-  - macro(node,state) | macro(node,content)
-- convert html dialects to voyage element
-  - ask mistral pug alternatives
-  - translate(words,lang) -> element
-  - from html pug etc.
-- better readabilty
-  - rp all cid sid with state and dc {cid sid} = state
-  - rp some else with else if
-  - single rep principle: split long fn
-  - fn create is too long. split into shorter named fn.
-  - dc for fn should be place on top {fn1,fn2}=voyage
-  - dc for data should be placed where it's needed
-- dom methods abstract
-  - steal from jquery
-  - learn from common use case
-- xhr
-  - fetch in fp without promise
-- route
-  - path and page component
-  - custom decision function
-
-## stone
+> ui is a function of states `ui = f(states)`
 
 > the date after the version number is its release date (utc+8)
 
 > version 0.xx: the framework being written, no static api
 
-### 0.23
+## 0.23
 
 - better and safer state
   - in fn sync
@@ -99,7 +27,7 @@
   - label:state will only bind state change to label
   - it wont listen label.content change to update state
 
-### 0.24
+## 0.24
 
 - label updater with multi factors
   - {label:calc(fn,...[factor states])}
@@ -108,13 +36,13 @@
   - updateLabelCalc(node,label,calculator){...}
   - map factors bind(updLabelCalc,factor)
 
-### 0.25
+## 0.25
 
 - private fn move to lib
   - private pure functions like has init are moved to voyage.lib
   - voyage includes public functions
 
-### 0.26 20241210
+## 0.26 20241210
 
 - separate objects and arrays
   - from info
@@ -154,7 +82,7 @@
   - slice([],...)
   - instead of [].slice(...)
 
-### 0.27 20241212
+## 0.27 20241212
 
 - change typedef naming
   - from various naming methods to
@@ -172,7 +100,7 @@
   - from memo.getReactiveState ...
   - to memorize(getStates,cid)
 
-### 0.28 20250116
+## 0.28 20250116
 
 - add Key type
   - object.key
@@ -198,7 +126,7 @@
   - voyage.component exists twice
   - the latter will take over the former
 
-### 0.29 20250117
+## 0.29 20250117
 
 - splitted the source and changelog
   - `docs` `important`
@@ -214,7 +142,7 @@
       - slice(arr,...args) // arr.slice(...args)
   - renamed "include" "use"
 
-### 0.30 20250201
+## 0.30 20250201
 
 - revised some words
   - `wording`
@@ -281,7 +209,7 @@
   - so let c(...) equal to create(compile(...))
   - to make the code work
 
-### 0.31 20250316
+## 0.31 20250316
 
 - docs: add jsdoc comments to existing code
 - refactor: some unused functions
@@ -297,7 +225,7 @@
   - fn(...options) is awkward, changed to fn(initial, stateid)
   - both param are optional
 - refactor: merge voyage.getState into voyage.ref
-- refactor: rename some component life cycle fn
+- style: rename some component life cycle fn
   - component: create, show, update.
   - state: ref (create state), set (change state), apply (apply new value).
   - inspired by react (mount, update, unmount)
@@ -310,7 +238,7 @@
 - refactor: change inner text to text node
   - a node can contain both text nodes and other nodes
 
-### 0.32
+## 0.32 20250321
 
 - feat: replace innertext with textcontent
   - faster and preserve formatting
@@ -320,35 +248,40 @@
   - no reference, and number componentid works well
 - refactor: merge updaters into components
   - `components[cid].states[sid].updaters`
-- refactor: `voyage.lib.init`
+- refactor: `lib.init`
   - previous one is too complex logic
   - replace voyage.lib.lacks with !voyage.lib.has
-- refactor: remove voyage.store
+- refactor: remove `store`
   - use `a = ref(...); bind(a, update())` instead
   - store and ref are `useState` and `useRef` in react
   - now store feels redundant
   - inspired by svelte vue
-- (wip) 
+- style: rename `call` to `render`
+- fix: `class` label doesnt take effect
+  - replace with `className`
+
+## 0.33 .
+
+- (wip)
 - chore: read svelte examples
   - learn from it
   - define stable apis to release version 1.0
 - chore: read tailwindcss docs
   - learn from it
   - define theming features
-- feat(state): aftercreate and delay state changes on the fly
+- feat(state): `aftercreate` and delay state changes on the fly
   - state changes wont apply when the component is in `create` status. these stateids will be put into `components[cid].afterCreate`. after create the component, apply all changes and clear todo.
   - eg. a component store internet resources in a state, show loading until data is fetched.
   - inspired by react `useEffect`
-- feat: theming feature
-  - defineTheme(), useTheme(), @style macro.
-  - defineTheme(obj theme)
+- feat(theming): `defineTheme()`, `useTheme()`, `@style` macro.
+  - `defineTheme(obj theme)`
     - theme includes obj, str, fn `{str|fn|[theme]:{str|fn}}`
     - obj `"c-1": {dark:"black", light: "white"}`
     - str `{bg: "background", bar: "perspective: 123"}`
     - fn `{w(v){return 100*v}}`
-  - useTheme(str theme)
+  - `useTheme(str theme)`
     - change global state theme
-  - @style
+  - `@style`
     - {@style: "bg-c-1 br-2 color-black font-weight-w-1 foo hover:bar"}
     - split by " " into array of styles, for each style, split by "-"
     - bg is defined as string, converted to `"background"`
@@ -361,7 +294,7 @@
     - all these style will generate a murmurhash as classname in style element
     - the style element has state "theme" and "map" (hash: "br-2 ...")
   - inspired by tailwindcss, emotion, unocss, tachyons
-- feat: voyage.computed, a special state
+- feat: `computed`, a special state
   - `voyage.computed(computation, ...factors)`
   - return a `computedState`
   - prop compute, fn(states)
@@ -371,45 +304,61 @@
   - set: no effect
   - binds all its factors to `recompute(){value=compute()}`
   - inspired by vue computed, immer, svelte derived
-- feat: voyage.pattern, a tagged fn that returns computed state
-  - pattern`Clicked ${count} {count === 1 ? 'time' : 'times'}`
-  - inspired by svelte example: reactive assignments
-- feat: voyage.bind supports remover fn and multiple states
-  - replace the param order to `bind(updater, ...states)`, more semantic
+- feat: `bind` supports `remover` fn and multiple states
+  - replace the param order to `bind(updater, ...states)`, more semantic ("bind a to b")
   - bind for each state
-  - callupdater(uid) logic
-    - call updater
-    - if the updater returns a fn, it will run when updater rerun or component is removed
-    - store the fn on `voyage.components[cid].remover[uid]`
-  - return uid
+  - change the logic of calling updaters:
+    - if the `isnt(prototype(updater).removerid, 0)`, call `component.removers[rid]`, then remove `component.removers[rid]` and reset removerid to 0
+    - if the updater returns a fn, it will be put on `component.removers[component.removerid++]` and put removerid to its `prototype`
+    - conclusion: remover will run when updater rerun or component is removed
   - inspired by svelte effect
-- refactor: updaters of a component
-  - `voyage.components[cid].updaterid`
-  - a component should have certain number of updaters, like states
-  - reset to 0 when it recreates
-  - `state.updaters[uid]` is an object now, not array
-- feat: voyage.remove(cid) and voyage.family
-  - call for each `voyage.components[cid].remover`
+- feat: `remove(cid)`, `family` and `component.children`
+  - call all `voyage.components[cid].removers`
   - remove all children `component.children`
   - delete `voyage.components[cid]`
   - define `voyage.family`, when creating a component push it, when created pop it to its parent `component.children`
-- refactor: store componentid and stateid of reactive state in prototype
-  - using obj.getprototypeof and set...
-- refactor: voyage.ref and deep state
+- refactor: use `prototype` to define reactive states info
+  - using `obj.getprototypeof` and `set...`
+  - including `componentid`, `stateid`
+- feat: `ref` supports deep state, and `snap` `raw`
   - objects ref doesnt need .value now, just use as normal object, it's a proxy
-  - `voyage.snapshot` can turn the proxy into a normal object (by cloning)
-  - `voyage.raw` is for large arrays, just reference the object and add state info to its prototype. need to apply it specially for any changes.
-  - `voyage.pointer(state, ...path)` (alias `voyage.p`) creates a special state on certain path of a reactive object state
+  - `snap` can turn the proxy into a normal object (by cloning)
+  - `raw` is for large arrays, just reference the object and add state info to its prototype. need to apply it specially for any changes.
   - inspired by svelte state.raw state.snapshot
-- refactor: $ label
+- refactor: `$` label
   - remove voyage selections
   - $: state, define the element as the state value
   - the state should be raw({}), and Object.assign will be used.
   - inspired by svelte bind
-- feat: aftershow and voyage.effect(effect, ...states)
-  - bind(effect,...states) and put effect to `component.afterShow`
+- feat: `aftershow` and `effect(effect, ...states)`
+  - `bind(effect,...states)` and put effect to `component.afterShow`
   - inspired by svelte effect
-- (wd)
+- feat: `load` a component `library`
+  - no need to import or deconstruct child components
+  - just load them, and use them as string
+  - both functions and strings found in `library` are consider components
+- feat: `html`, a tagged fn to copmuted state
+  - `html(...state)` creates a component, and bind the state to its innerhtml
+  - `html` can also be use as tagged fn
+- feat: `text`, a tagged fn to computed state
+  - text`Clicked ${count} ${computed(()=>count === 1 ? 'time' : 'times')}`
+  - similar to `html`
+  - inspired by svelte example: reactive assignments
+- feat: `children` prop and `@content` macro, remove `@text` `@html`
+  - during `compile`,
+  - for components, children will be put into `children` prop
+  - for nodes, if children contain state, the whole children will be converted to a compiled state of array, with these states as factors, put on `@content`
+  - `@html` and `@text` are useless, being removed
+- feat: `replace` fn diff with `key`
+  - for each old, create key map `{key: {node, index}}`
+  - for each new, if new one has key 
+    - if key exists, move old one and remove matched key
+    - otherwise insert new one
+    - remove leftover old nodes on key map
+  - otherwise assign to old index
+    - type match: labels (shallow), content (recursive), add to used list
+    - unused (type not match or redundant nodes at the end): remove
+  - inspired by vue, svelte each
 - feat(diff): preserve focus in input element
   - no need to update dom when state changes
   - diff between the new component and real dom before `replace`
@@ -418,28 +367,26 @@
 - feat(key): list of counter that can be sorted
   - list component ref array counts and boolean isAscended
   - counter component has a prop count, which is created by pointer
-- feat: make functions stoppable
-  - if global state like "display method" changed from 1 to 2
-  - the full page will rerender (expensive)
-  - and user cancelled quickly (changing display method again, like 3)
-  - the former rerender will stop, and run next rerender as method 3
 
-## river
+## 0.34
 
-### 20250118
-
-21:13
-
-`ref1`
-
-asked mistral le chat.
-
-> eg, i have a number(num) component, which is very simple. and i place number(1), number(2), number(1) in dom. will react call the component three times or twice?
-
-> why still three times even with react.memo? i mean the first one and the third one have the same prop
-
-(ans omitted)
-
-### 20250214
-
-(@see readme.md)
+- refactor!: `ui = f(states)` and test driven dev
+  - props and states are the same thing, as `p`
+  - rewrite unit tests (examples)
+  - make the whole api simpler and remove most legacy code
+    - more often being used, shorter fn name
+  - ref
+    - svelte playground
+    - solidjs docs & component examples
+    - react component examples
+    - mitosis api
+- feat: `p(obj)`, properties of a component
+  - each key in the param obj becomes a fn
+  - call fn without param: get value
+  - call fn with a param: set value
+  - call fn with a param (using fn): pass current value, set returned value
+  - a prop can not be set to undefined, if the param fn returns undefined, consider some prop inside the state has changed
+  - in derived tracking, get will put it into dependencies
+  - set will call dependencies
+- feat: `context`
+  - create a named context, and store some props

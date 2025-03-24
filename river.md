@@ -54,6 +54,14 @@ things like game progress (gacha system) are categorized, put together.
 legacy `/timeln.md`
 anime `/anime.md`
 
+### upd
+
+ate march 2024
+
+replaced header 3 dates to months
+
+(the exact dates is redundant, same as times)
+
 ## bangumis
 
 ### in solitude where we re least alone
@@ -63,38 +71,11 @@ anime `/anime.md`
 
 ### lucky star
 
-- `1` 20241022 02:00
-- `2` 20241024 02:32
-- `3` 20241025 03:31
-- `4` 20241027 03:19
-- `5` 20241028 02:43
-- `6` 20241029 03:18
-- `7` 20241030 00:13
-- `8` 20241031 04:12
-- `9` 20241101 04:26
-- `10` 20241104 01:40
-- `11` 20241105 02:15
-- `12` 20241107 01:59
-- `13` 20241113 03:56
-- `14` 20241126 02:44
-- `15` 20241201 21:02
-- `16` 20241212 02:02
-- `17` 20250108 00:42
-- `18` 20250315 05:05
+- `1` 20241022 - `2` 20241024 - `3` 20241025 - `4` 20241027 - `5` 20241028 - `6` 20241029 - `7` 20241030 - `8` 20241031 - `9` 20241101 - `10` 20241104 - `11` 20241105 - `12` 20241107 - `13` 20241113 - `14` 20241126 - `15` 20241201 - `16` 20241212 - `17` 20250108 - `18` 20250315
 
 ### evangelion
 
-- `1` 20241214 00:03
-- `2` 20241217 03:15
-- `3` 20241219 00:44
-- `4` 20241221 03:03
-- `5` 20241223 00:34
-- `6` 20241224 00:47
-- `7` 20241225 00:20
-- `8` 20241227 00:30
-- `9` 20250213 03:51
-- `10` 20250223 04:18
-- `11` 20250307 02:54
+- `1` 20241214 - `2` 20241217 - `3` 20241219 - `4` 20241221 - `5` 20241223 - `6` 20241224 - `7` 20241225 - `8` 20241227 - `9` 20250213 - `10` 20250223 - `11` 20250307
 
 ## gaming
 
@@ -395,7 +376,7 @@ fate
 不二其心
 笃信.
 
-### 2023
+### dec 2023
 
 ```
 at the end of every year people always make a sum up about what they have done.
@@ -412,13 +393,13 @@ i would like to pick up my interest in physics and chemistry in the next year;
 to my wish, i will achieve more in the subjects i love and widen my impact on internet.
 ```
 
-### 20240117
+### jan 2024
 
 grade 1 autumn finished!
 
 > its always day 1 ❤
 
-### 20240123
+---
 
 ```
 written at 00:00 Jan24,2024
@@ -454,7 +435,7 @@ luckily everything just worked!
 happy...qwq
 ```
 
-### 20240124
+---
 
 ```
 寒假初的一天。
@@ -530,7 +511,7 @@ happy...qwq
 那就好。
 ```
 
-### 20240128
+---
 
 ```
 这几天我一直在想着那些重要的事情
@@ -546,7 +527,7 @@ happy...qwq
 我想我知道我要做什么了
 ```
 
-### 20240129
+---
 
 1
 
@@ -598,7 +579,7 @@ kawaii & elegant
 我想我知道我要做什么了
 ```
 
-### 20240208
+### feb 2024
 
 ```
 # status
@@ -651,7 +632,7 @@ kawaii & elegant
     - html在js中解析 css(stylus? themes)
 ```
 
-### 20240209
+---
 
 1
 
@@ -729,7 +710,7 @@ in three parts:
   - kuki | gilded
 ```
 
-### 20240229
+---
 
 the last day of feb
 
@@ -805,7 +786,7 @@ f
 肥宅赛高!
 ```
 
-### 20240304
+### mar 2024
 
 1
 
@@ -844,7 +825,7 @@ then the battles will be completed automatically
 i love the life as a commander!
 ```
 
-### 20240305
+---
 
 1
 
@@ -888,7 +869,7 @@ bilibili retro style
 - 各种收藏夹的内容(-> fav|firavoyage)
 ```
 
-### 20240317
+---
 
 1
 
@@ -979,7 +960,7 @@ nat.org - moral duty
 有很多了
 ```
 
-### 20240319
+---
 
 1
 
@@ -1031,7 +1012,7 @@ js有大量令我费解的东西
 > (庖丁解牛)
 ```
 
-### 20240329
+---
 
 1
 
@@ -1045,7 +1026,7 @@ prprpr!!
 <-第7次考试
 ```
 
-### 20240402
+### apr 2024
 
 1
 
@@ -1081,12 +1062,13 @@ anyway
 fin it all worked
 ```
 
-### 20240403
+---
 
 1
 
 ```
-updated djhsgrades
+upd
+ated djhsgrades
 所有成绩出来了
 老蒋296年一
 他该拿年一了
@@ -1103,7 +1085,7 @@ lin ch78
 (如初中的女孩...)
 ```
 
-### 20240405
+---
 
 ```
 wrote qingming homework
@@ -1113,7 +1095,7 @@ wrote fijs0.1
 bs new ranked season
 ```
 
-### 20240407
+---
 
 1
 
@@ -1208,6 +1190,7 @@ weekend
 ```
 bs script upd
 
+
 下午
 发现bs的脚本好多双击平局
 灰色的
@@ -1246,7 +1229,7 @@ bili fav
 配个优雅的gui
 ```
 
-### 20240408
+---
 
 1
 
@@ -1273,7 +1256,7 @@ dev
 只不过不一定是html格式了
 ```
 
-### 20240412
+---
 
 ```
 gi videos
@@ -1311,7 +1294,7 @@ cg163com
 仅此而已...
 ```
 
-### 20240414
+---
 
 1
 
@@ -1388,7 +1371,7 @@ r
 年轻真好啊
 ```
 
-### 20240425
+---
 
 放弃了 duolingo 的 jp
 为了追求快乐去做的
@@ -1403,7 +1386,7 @@ r
 放学踢了会球
 联想到了 vikingz 的 freelancer 建议
 
-### 20240515
+### may 2024
 
 改了一下 ubuntu 的 default cjk fonts
 不知为什么默认的 jp
@@ -1418,7 +1401,7 @@ chroimium,endeavour
 
 anyway it works
 
-### 20240516
+---
 
 `ref`
 
@@ -1437,14 +1420,14 @@ anyway it works
 感受那些昔日的小伙伴
 在最后的时间
 
-### 20240522
+---
 
 并不认可 al new user interface...
 切回旧版了
 ...
 就像 chromium/flags 一样
 
-### 20240523
+---
 
 开始饮用红茶
 好喜欢好喜欢好喜欢
@@ -1454,7 +1437,7 @@ anyway it works
 哈哈
 人间短暂啊
 
-### 20240525
+---
 
 "hair cut..."
 "1mm"
@@ -1475,7 +1458,7 @@ ok 了
 
 今天真是祸不单行啊
 
-### 20240526
+---
 
 今天一上午都在搞 chromium
 8 点起床听个播客,硬地骇客@momen,到九点吃个饭
@@ -1519,7 +1502,6 @@ bilimiao 把浙大苏德矿的微积分教程都删了
 
 晚上
 
-22:20
 不看直播了
 印象里,有
 
@@ -1537,7 +1519,7 @@ bilimiao 把浙大苏德矿的微积分教程都删了
 - organize & revise & record
 - ...
 
-### 20240528
+---
 
 中午
 一个校领导逼着老师切全屏了
@@ -1558,7 +1540,7 @@ it works
 ...
 改了 bubeidanci 的设置,美国小妹妹发音...
 
-### 20240601
+### june 2024
 
 1
 
@@ -1584,7 +1566,7 @@ memories/school_life too large
 效果肉眼无法区分
 哈哈
 
-### 20240602
+---
 
 看了`天使湾创业之夏Demo Day见闻 - 阮一峰的网络日志`
 有些出生就被大哥压制,或者只是技术不是产品,注定了败局
@@ -1604,7 +1586,7 @@ memories/school_life too large
 ...
 想想这个年代的业余时间,有钱不焦虑,哈哈
 
-### 20240609
+---
 
 上午
 
@@ -1633,16 +1615,14 @@ memories/school_life too large
 竟然安然无恙
 感觉真是天意啊
 
-### 20240617
+---
 
 选择了专八词书
 放弃了乱序 gre
 既然都不能完全包括 gi 的单词
 不妨选择更有价值的.
 
-### 20240619
-
-23:08
+---
 
 明天英语半天
 
@@ -1670,15 +1650,13 @@ $y=sin2x+acosx,a\in(-\infty,-2),x\in[0,\frac{\pi}{2}],y^{'}>0$,
 
 > 不像中考数学,先做后面,最后都举重若轻地补全,2023 上海,145.
 
-### 20240620
+---
 
 英文,如常
 听力有听写句子,报三遍,一三匀速,二每个分句停顿 about 5s
 作文"small changes make an ideal school library"
 
-### 20240622
-
-02:28
+---
 
 夜深了,考试结束了,夏天到了
 躺下吧,不穿胖次了,披件睡衣
@@ -1688,7 +1666,7 @@ $y=sin2x+acosx,a\in(-\infty,-2),x\in[0,\frac{\pi}{2}],y^{'}>0$,
 ...
 是青春啊
 
-### 20240623
+---
 
 高中的第一个暑假将至.
 想象小学二年级时
@@ -1701,7 +1679,7 @@ $y=sin2x+acosx,a\in(-\infty,-2),x\in[0,\frac{\pi}{2}],y^{'}>0$,
 然后读些书,数学和编程,可以的话总结
 每晚看些视频,辩论和番剧
 
-### 20240624
+---
 
 f:
 我三门没上 80 的,有机会 a+吗
@@ -1721,7 +1699,7 @@ f:(->jiangzhijun)
 但不是断层了
 相当于我更差了 qwq
 
-### 20240625
+---
 
 上学路,雨中
 
@@ -1819,12 +1797,12 @@ d:
 你可以闭嘴了
 问你答案再张嘴
 
-### 20240626
+---
 
 实际上
 差 1 分 a+
 
-### 20240627
+---
 
 jiangzhijun math96 其实给多了
 看了他的卷子
@@ -1836,7 +1814,7 @@ jiangzhijun math96 其实给多了
 老蒋一直在和一个学友下围棋,水平不错,在野狐上
 对了祂是男子单打冠军,学校乒乓球
 
-### 20240628
+---
 
 陈:(->jiang)
 你选了什么?
@@ -1943,7 +1921,7 @@ f:
 第三问一定要看会看懂
 答案写得很详细.
 
-### 20240630
+---
 
 暑假前
 最后一次返校.
@@ -1956,7 +1934,7 @@ wenzheng 和 zhanzihao 在玩 soulknight
 我会成为你的 ❤
 wangzhaohai
 
-### 20240702
+### july 2024
 
 昨晚没有晚睡.
 自然醒.
@@ -1970,7 +1948,7 @@ wangzhaohai
 许多未尽的项目
 都赢得世界
 
-### 20240704
+---
 
 javascript tut 暂缓.
 作为工具
@@ -1983,7 +1961,7 @@ javascript tut 暂缓.
 暑假主线
 math challenger tut
 
-### 20240712
+---
 
 明天就要搬家了
 这个房子装修
@@ -2030,7 +2008,7 @@ math challenger tut
   > 看的少了,慢了
   > 慢慢看吧,记录一些
 
-### 20240717
+---
 
 昨晚思考人生,半夜 3 点起来在 laptop 上写字(记录)
 今天下午一点多起来
@@ -2046,7 +2024,7 @@ math challenger tut
 把 ruanyf 的"剪贴板"看完了
 去 phone 上逛逛...
 
-### 20240718
+---
 
 今天早上起来 9 点多,有精神,下午喝红茶.
 
@@ -2057,7 +2035,7 @@ ruanyf 看的只剩周刊了
 主要是分享题目,最简单的.
 看到一些成果,在想别的.
 
-### 20240719
+---
 
 今天,吃完午饭,到下午 4 点
 一直看 ruanyf weekly
@@ -2089,8 +2067,6 @@ ruanyf 看的只剩周刊了
 没啥有用的信息,只有个身份证和生活地区
 一会儿查查别的...
 
-22:48
-
 一直在 tg 上查个人信息
 有几个人"阮一峰" "刘昕"我查了,但是不知道是哪个结果
 确定的,就三个人,"陈诗瑜" "王兆海" "蒋之骏"
@@ -2103,7 +2079,7 @@ ruanyf 看的只剩周刊了
   > 然后因为我不用微信,qq,现在也没人打电话了
   > 所以没用,感觉度过了充实又无聊的一晚...
 
-### 20240721
+---
 
 这几天都在看 ruanyf 的周刊
 像一些智能硬件,生物医疗,航天的研究,功能重复的新轮子,忽略了
@@ -2127,11 +2103,12 @@ ruanyf 看的只剩周刊了
 - nova lciop
 - ...
 
-upd 20250307
+upd
+20250307
 
 前者指, 逍遥散人
 
-### 20240722
+---
 
 数组打乱 nb 啊
 
@@ -2143,7 +2120,7 @@ upd
 
 就是那个算法, 把每个数组元素都和随机一个交换.
 
-### 20240723
+---
 
 cnblogs 死不冤.
 看看 blogger
@@ -2159,14 +2136,14 @@ cnblogs 死不冤.
 这是 landing page 上的几个 h2 title
 反观 cnblogs,不知道做到了几点
 
-### 20240725
+---
 
 stop firascript project
 because
 firascript is better
 but javascript is good enough
 
-### 20240726
+---
 
 今晚(今早)看 gaozixiang 直播
 现在 2:00 了
@@ -2185,8 +2162,7 @@ but javascript is good enough
 我不喜欢.哈哈.
 你知道的,我在暗示什么,对立什么.
 
-下午了 14:15
-
+下午了
 天气很不好,台风,小雨初停
 白天都要开灯了,不然很暗
 若是在底下,穿着厚衣服,游荡,或许清爽.
@@ -2196,7 +2172,7 @@ but javascript is good enough
 想到了
 如果一天读 10 篇,就游刃有余,从容自在.
 
-### 20240727
+---
 
 凌晨 1:24
 
@@ -2221,14 +2197,13 @@ but javascript is good enough
 朋友的车不要乱开!
 (爆了)
 
-下午 17:30
-
+下午
 berryberry 上有 furina math channel
 digdog 上有 paimon sci channel,venti teaching channel
 
 ...
 
-### 20240803
+### aug 2024
 
 要出发了
 没咋收拾,几本书,电脑,手机,好了
@@ -2242,7 +2217,7 @@ digdog 上有 paimon sci channel,venti teaching channel
 也不知道我是在高一,高二,还是高三.
 一样的风景.
 
-### 20240804
+---
 
 in atour hotel.
 装修华丽,目中一切
@@ -2260,7 +2235,7 @@ in atour hotel.
 这个 atour hotel
 有"深夜粥到"功能,可以自助热粥,哈哈
 
-### 20240806
+---
 
 add one game cpp
 
@@ -2273,7 +2248,7 @@ add mode and add multiply mode test ok.
 companile hotel by jin jiang.
 标准化的.舒服.可以把更多注意力放在住处之外.
 
-### 20240807
+---
 
 晚上.环球影城度假区.
 
@@ -2291,7 +2266,8 @@ companile hotel by jin jiang.
 
 告别.最后怕切完号登不上,把手机号和密码送了.祝好.
 
-upd 20241228
+upd
+20241228
 
 其实她说的是... 漫展都在广州上海...
 
@@ -2307,15 +2283,13 @@ upd 20241228
 
 ---
 
-20:55
-
 在功夫熊猫那里.
 
 最后一个项目,穿过四五个空荡荡的房间,眼前一望无际的铁栏迷宫.
 
 入无人之境.坐上了船.
 
-### 20240808
+---
 
 北京回上海的火车，晚点。
 
@@ -2341,15 +2315,14 @@ upd 20241228
 
 坐在归途火车上，躺在桶盖上，靠在墙上，倚在黄扶手上。握在手机上，贴在耳畔上。手机睡在锁屏上，扬声器响在脸上，手指扶在按钮上。节目放着 beyondcode pod,音量半响。
 
-22:58
-
 从无障碍卫生间出来，列车里空荡荡的，人下了许多，已经到南京南了。
 
-upd 20250307
+upd
+20250307
 
 (是全角标点喵! 一下子就想到是那时候手机上打的, 在 nekogram, 然后上 telegram-desktop 复制了一下. laptop 上面 fctix 设置了半角.)
 
-### 20240813
+---
 
 我看过很多独立项目
 **我知道 projects.md,每一个会如何成功,如何火爆.**
@@ -2370,7 +2343,7 @@ berryberry 搜索"高中数学动画片".
 少年和少女在教室桌下玩 idv.
 看来那是他们喜欢的东西啊.
 
-### 20240814
+---
 
 下午
 
@@ -2399,7 +2372,7 @@ chromium -all 大概 0.0x%.
 不知道啥时候会到 h scene...
 好像还在共通线.
 
-### 20240815
+---
 
 下载 "sabbat of the witch"
 from shinnku.
@@ -2410,7 +2383,7 @@ from shinnku sharepoint about 5mb/s
 sabbat 剧情进展真快.
 看完桌角#1.
 
-### 20240817
+---
 
 voyagejs
 实现了 counter app
@@ -2422,7 +2395,7 @@ voyagejs
 开了新地区 desu.
 所以下载一些 podcasts.
 
-### 20240818
+---
 
 shanghai disneyland.
 上海人会玩。
@@ -2436,7 +2409,7 @@ zootopia 的主题曲,和"每个动物都可以发挥生性."不错.
 
 回去了,不看烟火.不想等.
 
-### 20240821
+---
 
 现在觉得,对于 chromium 而言
 material design 3
@@ -2450,7 +2423,7 @@ code 不然,右键那么多选项,我觉得不如就 preventDefault 吧.
 记忆依稀...
 大概就是把 jiangzhijun 带入 chenshiyu.
 
-### 20240826
+---
 
 同步一下手机的内容.
 
@@ -2475,7 +2448,7 @@ berryberry 上还有 2013 年的上百万播放.
 望向窗外,校园的跑道上,草坪上,新人军训.
 有一种"江月何年"的感觉.
 
-### 20240901
+### sept 2024
 
 放课后...
 
@@ -2513,7 +2486,7 @@ djhs g1t2 fin.
 暑假经常后半夜(2am,4am)睡觉.
 现在大概(23pm,0am).
 
-### 20240906
+---
 
 djhs g2t1 first after school football friday
 
@@ -2607,7 +2580,7 @@ $
 
 挺有意思的.二次元漂流瓶的感觉.
 
-### 20240907
+---
 
 昨天,上午语文.
 同学说,他喜欢写些文章.其实 berryberry 上就发布了些.
@@ -2617,7 +2590,7 @@ $
 登录了他的号,对就是他,挂在电脑上,我就操作一下,关注了自己.
 对就是他.
 
-### 20240912
+---
 
 这周工作一直到周六,周日周一周二休息.
 周二是中秋节.那天 9.17,正好是我的生日.
@@ -2633,7 +2606,7 @@ $
 
 或许,这是折纸(origami)感觉
 
-### 20240915
+---
 
 窗外猩红的天空,映照白漆,像是加了滤镜.
 
@@ -2647,7 +2620,7 @@ $
 
 simple choice.
 
-### 20240917
+---
 
 birthday.
 
@@ -2683,7 +2656,7 @@ so large! wrapped in a hard paper barrel and foams
 
 had cake. `21cake black label`
 
-### 20240918
+---
 
 djhs g2t1 first monthly exam finished.
 
@@ -2717,7 +2690,7 @@ about origami...
 choose a tranquil afternoon
 start with sr sparkle
 
-### 20240920
+---
 
 math score out.
 
@@ -2770,7 +2743,7 @@ nodes in javascript obj
 
 练习册用华师大强基,答案很详细.
 
-### 20240922
+---
 
 zhangxizhe:
 
@@ -2788,7 +2761,7 @@ upd
 
 夜晚,骑行.寒风.冬天到了.
 
-### 20240928
+---
 
 连上手机电源,我去,1%电.
 
@@ -2800,7 +2773,7 @@ upd
 
 best: **iphone 6**
 
-### 20241001
+### oct 2024
 
 sleep.
 
@@ -2826,7 +2799,7 @@ sleep.
 
 出发时台风呼啸,傍晚寒风入骨.自行车骑去,归来.
 
-### 20241005
+---
 
 get up.
 
@@ -2842,7 +2815,7 @@ get up.
 
 靠着没什么存在感,然后躺着打游戏.
 
-### 20241006
+---
 
 "好像当 topaz 的猪啊!或者 asta 的狗." ("我看你就是想傍富婆")
 
@@ -2874,13 +2847,13 @@ today's best:
 
 好多失去的思维,都归因到睡眠不合理.消散吧.
 
-### 20241016
+---
 
 reading react learn docs...
 
 end. all finished. removed from weekly
 
-### 20241023
+---
 
 playing bs official server...
 
@@ -2916,7 +2889,7 @@ rewatched lucky star episode 2
 
 今天重新看,用了好多倒叙和插叙手法啊,虽然只是校园日常
 
-### 20241027
+---
 
 sunday!
 
@@ -2954,7 +2927,7 @@ first days in genshin... so beautiful...
 
 and end up repeating and repeating.
 
-### 20241028
+---
 
 writing voyagejs...
 
@@ -2974,7 +2947,7 @@ the former is intuitive.
 
 the latter may be related to namespace issue.
 
-### 20241101
+### nov 2024
 
 played google doodle halloween
 
@@ -2982,7 +2955,7 @@ played google doodle halloween
 
 "play part 2!"
 
-### 20241104
+---
 
 (f:)
 
@@ -3006,7 +2979,7 @@ refreshed.
 
 哇,暑假里的回忆还在继续!
 
-### 20241107
+---
 
 watched lucky star episode 12.
 
@@ -3020,7 +2993,7 @@ anime con! (lost of words)
 
 下周学工,"自动控制"(编程小车?无人机?).
 
-### 20241108
+---
 
 秋游.欢乐谷.
 
@@ -3046,7 +3019,7 @@ anime con! (lost of words)
 
 全是人类的活动环境,而不是机器打制出来的.
 
-### 20241109
+---
 
 回想自己失败的 djhs 生涯...
 
@@ -3090,7 +3063,7 @@ f 当时认为是"善意的谎言".
 
 f 现在亦然.
 
-### 20241111
+---
 
 把薯片拆了.吃了.
 
@@ -3122,7 +3095,7 @@ delicious.
 
 本来以为现在 1 点多了,竟然还没入夜...
 
-### 20241113
+---
 
 surfing zhihu.
 
@@ -3134,8 +3107,7 @@ IanJiang
 
 小李飞刀成绝响
 
-发布于 2024-08-15 20:53 ，编辑于 2024-08-16 14:25
-
+发布于 2024-08-15 20:53 ，编辑于 2024-08-16
 430 人赞同了该回答
 
 nextjs 一把撸到底。
@@ -3168,8 +3140,7 @@ VS Code 凭什么如此受欢迎?
 
 gookeryoung
 
-发布于 2023-07-31 10:16 ，编辑于 2023-08-02 22:29
-
+发布于 2023-07-31 10:16 ，编辑于 2023-08-02
 亲爹有钱，可以请设计模式大佬来亲自操刀。
 
 亲爹有钱，可以请安德斯大佬来加持 js，再雇团队魔改 js 性能瓶颈代码。
@@ -3198,7 +3169,7 @@ gookeryoung
 
 原谅我一生不羁放纵爱自由...qwq
 
-### 20241114
+---
 
 localhost8080...
 
@@ -3214,19 +3185,18 @@ surfing zhihu
 
 as the Night’s, Reincarnation
 
-发布于 2024-10-01 21:01 ，编辑于 2024-10-01 21:06
-
+发布于 2024-10-01 21:01 ，编辑于 2024-10-01
 1458 人赞同了该回答
 
 最好是 arch linux + hyprland + neovim + rust ，头像是二次元，喜欢算法竞赛，这样人生就美满了
 
-### 20241115
+---
 
 "I built a JS framework with a rich abstraction layer that automatically picks the best JS framework to use under the hood"
 
 "根据我计算机竞赛的经验，沉迷 Linux 就是男娘的外在表现"
 
-### 20241116
+---
 
 家中老女孩说
 
@@ -3256,7 +3226,7 @@ as the Night’s, Reincarnation
 
 行于归途. time for departure.
 
-### 20241121
+---
 
 it's freezing cold.
 
@@ -3270,7 +3240,7 @@ longbow flintlock eula.
 
 feeling great. this is true love.
 
-### 20241122
+---
 
 踢球,高一踢高二
 
@@ -3294,13 +3264,13 @@ neofetch 了一下,已经连续开机 12 天了.
 
 虽然重启就解决了,每次都这样,boring...
 
-### 20241124
+---
 
 不饿.
 
 吃了点葱油拌面,酒酿圆子,当是下午茶了.
 
-### 20241130
+---
 
 看装修的房子.硬装完成.
 
@@ -3332,13 +3302,13 @@ neofetch 了一下,已经连续开机 12 天了.
 
 冷清,可能是看不到什么颜色吧.
 
-### 20241201
+### dec 2024
 
 watching funshiki theatre...
 
 "走走停停"
 
-### 20241202
+---
 
 watched gold or shit at funshiki live.
 
@@ -3348,13 +3318,13 @@ watched gold or shit at funshiki live.
 
 "大叔还我睡眠!"
 
-### 20241209
+---
 
 学校,艺术课,看片.
 
 天空之城.太爽了,不困了.
 
-### 20241212
+---
 
 (character: f. voice: konata izumi lucky star)
 
@@ -3378,7 +3348,7 @@ watched gold or shit at funshiki live.
 
 "终于."
 
-### 20241213
+---
 
 https://www.reddit.com/r/Zillennials/comments/1eo625r/feeling_like_the_world_i_was_excited_live_in_as/
 
@@ -3396,7 +3366,7 @@ zlib 每一个号每天可以下载 10 本书...
 
 我有好几个邮箱,应该够.同一个邮箱还有 alias...
 
-### 20241215
+---
 
 returned home.
 
@@ -3444,7 +3414,7 @@ returned home.
   - **平常心.从流飘荡任意东西**
   - (志愿:上中 710,大同 694,大境 66x,市八.就填了四个)
 
-### 20241219
+---
 
 **downloading castle in the sky...**
 
@@ -3464,19 +3434,20 @@ https://v.myvideos.info/movie/%E5%A4%A9%E7%A9%BA%E4%B9%8B%E5%9F%8E.1986.mp4?veri
 
 也是 google 的第一个结果.
 
-### 20241221
+---
 
 surfed berryberry.
 
 **off topic random vid.**
 
-upd readme (hkrr)
+upd
+readme (hkrr)
 
 found a vid on berryberry.
 
 **是武汉的一个同辈. 似乎用的是同一套书, 叫"知识清单", f 的叫"学霸笔记". 书本样式排印都一样.**
 
-### 20241222
+---
 
 看了 akt 和 yuluer 的 sparkle. 狠狠冲了, 心情真好, 没有烦恼.
 
@@ -3492,7 +3463,7 @@ christmas is around the corner qwq...
 
 **圣诞愿望的说... frey chocolate bar 如常.**
 
-### 20241223
+---
 
 watched evangelion episode 5.
 
@@ -3514,7 +3485,7 @@ just go into flow. forget all about solanum...
 
 (wikipedia suggests pomodoro using paper and timer to make one conscious about it...)
 
-### 20241225
+---
 
 考试的说... 不打算参加了. 一小时, 睡一半, 有什么意思.
 
@@ -3540,13 +3511,14 @@ f g1t1 sept exam 写的是 论成长. 还拿了个年一 (也就那学期拿过,
 
 不知道这一届写的什么... 好奇呢...
 
-### 20241226
+---
 
-upd readme. separated movies and bangumis.
+upd
+readme. separated movies and bangumis.
 
 直接按观看顺序排序吧... 不必将好片放上面, 因为只有喜欢的影片会被放入.
 
-### 20241227
+---
 
 watched evangelion episode 8.
 
@@ -3592,7 +3564,7 @@ watched evangelion episode 8.
 
 因为指纹解锁的时候, 屏幕亮度会自动拉满. 就是这样.
 
-### 20241228
+---
 
 看到了 "不说了, 我要去看 ... live 了"
 
@@ -3692,7 +3664,7 @@ ok. f 也是入坑 minato aqua 了好吧! 虽然入坑的时候, 她就快毕业
 
 老观众的调情.
 
-### 20250101
+### jan 2025
 
 dl duolingo
 
@@ -3708,7 +3680,7 @@ leisure app 不想学, 太压力了. 像是上班.
 
 果断卸载, 神秘国度.
 
-upd 17:03
+upd
 
 emmmm... 这玩意似乎根据手机号限区...
 
@@ -3722,7 +3694,7 @@ done.
 
 即使一切都是 english based... duo 还是把 for chinese learners 放到了第一位! wtf.
 
-upd 17:45
+upd
 
 也是用上了 duolingo max 好吧!
 
@@ -3732,13 +3704,13 @@ android 大法好!
 
 学习五十音中...(233333)
 
-upd 22:29
+upd
 
 duolingo 的 component system 真好看啊... intuitive... vivid...
 
 总之加入 voyage proj 了!
 
-### 20250111
+---
 
 搬家了.
 
@@ -3752,7 +3724,7 @@ duolingo 的 component system 真好看啊... intuitive... vivid...
 
 目前考虑把外侧的撬锁封住... 作罢, 比较懒. 但是没什么安全感就是了.
 
-### 20250113
+---
 
 新家的第一顿饭. (早饭午饭都没吃.)
 
@@ -3768,17 +3740,29 @@ https://www.bilibili.com/video/
 
 我 df 游戏时长也如是了吧! 不过一化儿比较基础呢... 还是 wiki 好.
 
-### 20250115
+---
 
 看了眼一化儿... 声音很好听呢. 2333333.
 
-### 20250116
+---
 
 had lunch.
 
 mcdonald, chicken burger & chocolate pie
 
-### 20250127
+---
+
+(on voyagejs)
+
+asked mistral le chat.
+
+> eg, i have a number(num) component, which is very simple. and i place number(1), number(2), number(1) in dom. will react call the component three times or twice?
+
+> why still three times even with react.memo? i mean the first one and the third one have the same prop
+
+(ans omitted)
+
+---
 
 回老家. 安徽. 安庆 (现铜陵).
 
@@ -3790,7 +3774,7 @@ mcdonald, chicken burger & chocolate pie
 
 去了方特乐园. 去爬山.
 
-### 20250130
+---
 
 明天早上就离开老家了.
 
@@ -3839,7 +3823,7 @@ f 从来没有喜欢过, 平淡, 平静的故土.
 
 233333333.
 
-upd 23:37
+upd
 
 为父者似乎很喜欢闲聊 ~~杂谈~~
 
@@ -3853,7 +3837,7 @@ upd 23:37
 
 休息会, 打游戏去...
 
-### 20250206
+### feb 2025
 
 今天下午回家啦! 结束了春节旅途...
 
@@ -3872,7 +3856,7 @@ f:
 
 23333333.
 
-### 20250211
+---
 
 reading ruanyf weekly...
 
@@ -3888,11 +3872,208 @@ JavaScript 的优点是可以写任何东西，缺点是你真的会用它去写
 
 https://twitter.com/CodeWisdom/status/1054713299386986496
 
-### 20250215
+---
+
+(about voyagejs)
+
+before dawn
+
+之前写的文字比较多, 删了, 总结在下面.
+
+> 没有完美的框架. 或许每个前端都想写一个框架...
+>
+> 不妨写一个 fira 最喜欢的, 名之 voyagejs.
+
+首先, 组件化.
+
+每一个组件都有 states...
+
+```
+const {state} = ref({state:value})
+```
+
+返回一个 proxy, 有 prop value (alias v).
+
+取值是直接获取.
+
+state 变化, 就要进行处理.
+
+voyagejs 要自由, 没有任何限制, 所以可以直接处理.
+
+```
+bind(state, upd
+ater)
+```
+
+前者是 state, 后者是一个函数, 自定义变化后行为.
+
+```
+upd
+ater(newValue, oldValue, node)
+```
+
+对, 直接手动处理, 比如更新 ui...
+
+有些常见的场景:
+
+比如直接更新整个组件, 不进行 diff, 然后替换上去.
+
+```
+store({state:value})
+```
+
+太常见了, 不妨起名 store, 然后和 ref 一样, 只不过默认绑定了一个 upd
+ater,
+
+就是渲染组件 & 替换.
+
+像 ref 默认是没有任何操作的, 就是不进行处理.
+
+还可以绑定某个 element 的 prop.
+
+然后跨组件同步 state?
+
+直接 pointer. (还是自己直接操作.)
+
+```
+pointer(state, ...path)
+```
+
+(如果 state 是个 obj, 改里面某个值, 用 path.)
+
+(在看 react reference, learn 好几个月前看过了喵, 不过就前面几章专心看了)
+
+react 有些厉害的优化, 比如 init fn 给 use state.
+
+voyagejs 更直接, 可以直接获取当前状态.
+
+```
+status()
+```
+
+得到组件的状态 (intial, rerender, creating ...)
+
+(在看 vue tutorial)
+
+(为什么没有 react quick start 一样的! 就教我安装, 一点也不全)
+
+> Welcome to the React documentation! This page will give you an introduction to 80% of the React concepts that you will use on a daily basis.
+
+vue 有 :class
+
+voyagejs 更直接, {class:state}
+
+state 其实是一个 proxy, 但是所有普通的 label 都是字符串.
+
+所以如果创建元素的时候, 用了一个 state, 就是和这个 state 绑定啦!
+
+(如果用了 state.value, 或者 alias state.v 就不会绑定.)
+
+至于什么常见的场景, 比如绑定一个 input.value
+
+最直接的, 就是 eventlistener + set state.value
+
+不过 voyagejs 也有 macro. ({@value:state})
+
+(好像叫这个名字吧)
+
+v-if, v-else 还是太笨了, 不要.
+
+(不如一个 state + 一个三元操作符)
+
+v-for 同理, 这些应该是 js 的工作, 不要框架做
+
+(就是 for of + voyage.lib.each 或者 map)
+
+vue 有 ref, voyagejs 有 $
+
+(这个是一模一样的, 换个名字)
+
+vue 的 key & computed 是 voyagejs 要做的事情.
+
+> Notice how we are also giving each todo object a unique id, and binding it as the special key attribute for each <li>. The key allows Vue to accurately move each <li> to match the position of its corresponding object in the array.
+
+(现在只能自己写 upd
+ater, 很麻烦, 交给 voyage 就很简单)
+
+上面说 key, computed 不想要.
+
+不如取地址, 直观. react 也没有 computed 的说法.
+
+说白了还是改 original state, 不管你计算出了啥, 只看原来的有没有被修改.
+
+(套了一个 v-for 给 f 整不明白了.)
+
+其实还是要做 computed, voyagejs 取名 calculation, 好像还不好.
+
+```
+key
+
+computed
+```
+
+就是绑定一个 label, 要根据 dependency 计算一下的那种. (简单的场景)
+
+onMounted 好像就是 useEffect. 问一下 ai 有什么实际用途.
+
+- data fetching
+- dom manipulation
+- init libraries
+- add ev listener
+
+不过其实没关系, 创建组件时候的 value change 会被自动推迟.
+
+不过还是要给 api 啦! (比如获取组件在屏幕上的位置 offsetw)
+
+就直白一点,
+
+```
+getStatus
+
+when(...)
+```
+
+一个是获取组件当前状态 (是不是第一次渲染), 另一个是听取状态变化.
+
+vue tut chapter 11 才出现 child comp 吗?
+
+或许是 sfc 入脑了吧, react 和 voyage 都是 fn component 的.
+
+然后 child component 的 prop 也可以是 state
+
+```
+feat: check if component prop is state, then bind upd
+ateComponent(cid) to it
+feat: check if element.content string is state, then bind @text to it
+```
+
+之前只 check 了 element, 现在得更多. 改变的话, 就重新渲染 child component.
+
+react 是 one-way 的 prop, vue 是双向的.
+
+这个 voyagejs 就直接取地址了, 虽然其实也是先向下, 再听回声 (改 prop).
+
+感觉 slot 很无聊, 不要.
+
+(什么? chapter 15 of 15? congrats?)
+
+(js-confetti 挺有意思啊)
+
+> Standalone Script​
+>
+> Vue can be used as a standalone script file - no build step required! If you have a backend framework already rendering most of the HTML, or your frontend logic isn't complex enough to justify a build step, this is the easiest way to integrate Vue into your stack. You can think of Vue as a more declarative replacement of jQuery in such cases.
+>
+> Vue also provides an alternative distribution called petite-vue that is specifically optimized for progressively enhancing existing HTML. It has a smaller feature set, but is extremely lightweight and uses an implementation that is more efficient in no-build-step scenarios.
+
+(看了眼这个)
+
+可能也是 voyage 的主要用法.
+
+---
 
 watched searching (2018) on funshiki live.
 
-### 20250219
+---
 
 玩耍, 在 tencent qq. (一个类似 telegram 的软体, 在中国大陆一度流行)
 
@@ -3913,7 +4094,7 @@ f 挨个看, 喜欢的主页, 就加好友.
 - 喵喵喵! 好耶, 是二次元 (djhs)
 - djhs 扩列喵
 
-### 20250221
+---
 
 ikuuu.one
 
@@ -3927,7 +4108,7 @@ great!
 
 爽啦! 闪一下就加载了.
 
-### 20250225
+---
 
 played bs.
 
@@ -3995,7 +4176,7 @@ brawlstars tag @89L2J2CG9
 
 "ok" (reacted with crying emoji)
 
-### 20250303
+### mar 2025
 
 watched being john malkovich (1999) on funshiki live.
 
@@ -4015,7 +4196,7 @@ funshiki said:
 
 周一放送中国产武侠网游, 周二周三放送星穹铁道新版本, 周四 mujica, ... (?)
 
-### 20250306
+---
 
 好久没看到 sakuna live...
 
@@ -4047,7 +4228,7 @@ gave up. (maybe later.)
 
 also, the time installing mac is not now.
 
-### 20250307
+---
 
 深夜玩 ba, 被踢下线喵.
 
@@ -4059,17 +4240,17 @@ also, the time installing mac is not now.
 
 还可以, 自动可以一直到 860, 不知道要多久, 放一晚上当然可以.
 
-upd 19:24
+upd
 
 上 800 了. 感觉就是一小时 100 杯, 这样.
 
-upd 20:00
+upd
 
 835 杯, 在往上可能要很久了, 换 bull 接着打.
 
 这时候, 第二和第四一样, 第三名算平局, 第一很少.
 
-upd 22:24
+upd
 
 654 杯, bull. 这次两个半小时上了 150 杯...
 
@@ -4119,7 +4300,7 @@ upd 22:24
 
 定位了一下 ip, 不准就是了.
 
-### 20250308
+---
 
 surfing berryberry
 
@@ -4147,7 +4328,7 @@ surfing berryberry
 总结，这游戏看人
 很多差评除了真正深入了解过后的人之外大概就是开头二十分钟跳不了的剧情和引导啥的把初始号贩子和跟风抽卡晒卡卸游戏的整急了
 
-### 20250309
+---
 
 入坑 arknights.
 
@@ -4183,7 +4364,8 @@ surfing berryberry
 
 凌晨四点啦, arknights 比较聪明, 刷新 states, 不像 ba 是直接踢下线.
 
-(upd: 也不聪明, 还是要踢回主界面, 233333)
+(upd
+: 也不聪明, 还是要踢回主界面, 233333)
 
 ---
 
@@ -4191,7 +4373,8 @@ surfing berryberry
 
 "想要 x 角色, 就搜索 x 的狗"
 
-(upd: 一天后, 未果, 无人同意, 反而推荐的里面加了几个好友)
+(upd
+: 一天后, 未果, 无人同意, 反而推荐的里面加了几个好友)
 
 ---
 
@@ -4203,7 +4386,7 @@ watched jaws on funshiki live.
 
 "萌吗"
 
-### 20250311
+---
 
 `ref`
 
@@ -4213,9 +4396,10 @@ retro: high school grade 1 term 1.
 
 "生", 即 fira.
 
-(upd: 打了个 ref tag, 很少用这个 tag, 这句话有概括性, 关于 f 的一段时光, hs g1t1)
+(upd
+: 打了个 ref tag, 很少用这个 tag, 这句话有概括性, 关于 f 的一段时光, hs g1t1)
 
-### 20250313
+---
 
 arknight
 
@@ -4247,7 +4431,7 @@ rq cen
 
 网络单向认识... 似乎有小学初中高中都是校友的, 然而完全不知道是哪个真人.
 
-高中有老同学呐, "金骆晨" "赵飞扬" 是曾经的小学生, 足球朋友有一个曾经的初中生, 忘记名字. 
+高中有老同学呐, "金骆晨" "赵飞扬" 是曾经的小学生, 足球朋友有一个曾经的初中生, 忘记名字.
 
 这几个, 都是同一届同一班, 高中就在别的班级啦. 曾经不同班, 现在也不同班的校友好多, 不知道啦.
 
@@ -4257,13 +4441,13 @@ rq cen
 
 还有老电脑的照片! hbuilder x, webstorm, sublime 好多软体呢...
 
-甚至 webstorm 还是不停卸载, 删除注册表, 重装, 试用的版本. 
+甚至 webstorm 还是不停卸载, 删除注册表, 重装, 试用的版本.
 
 sublime 也没激活, 还屏蔽了激活弹窗, 用的 tencent 电脑管家.
 
 还玩过 juejin, 关注过一堆人, 什么前端的 01, css coco, mdnice 作者.
 
-还真入坑过明日方舟, 不过打几小时就卸载了, 看来 2021 年的舟很无聊呐! 
+还真入坑过明日方舟, 不过打几小时就卸载了, 看来 2021 年的舟很无聊呐!
 
 还是现在的 f 学会了跳过剧情.
 
@@ -4293,7 +4477,8 @@ f 在世界上的痕迹, 也会以 f 之名存档. nya~
 
 ---
 
-updated vscode to new version.
+upd
+ated vscode to new version.
 
 custom title bar is redundant, turned off.
 
@@ -4305,7 +4490,7 @@ copilot is useless, turned off.
 
 "感谢老板的 sc, 祝老板生活如意, 期待与你下次相遇哦."
 
-### 20250315
+---
 
 (on simplelive)
 
@@ -4313,7 +4498,8 @@ copilot is useless, turned off.
 
 还关注了瓶子.
 
-(upd: unfollowed some of them, especially those voice seems old)
+(upd
+: unfollowed some of them, especially those voice seems old)
 
 ---
 
@@ -4321,7 +4507,7 @@ school life...
 
 f 基本没学习小六门呢! 所以最后 f 会去学习吗...
 
-### 20250317
+---
 
 (school life)
 
@@ -4331,7 +4517,7 @@ f 思考着...
 - 不要关心格式, 一直 refactor. 现在更需要 feat.
 - 每天要做很多事情, 不要只关心一个学科.
 
-### 20250318
+---
 
 ```
 2025-03-18 15:47:43	上海	183.192.43.199	登录
@@ -4352,10 +4538,234 @@ sr daily assignments...
 
 然后密码也没改, 也不用 2fa 验证, 就可以一直玩! 233333.
 
-还是不加好友了吧, 保持陌生的神秘联系, 比较有意思. 
+还是不加好友了吧, 保持陌生的神秘联系, 比较有意思.
 
 (ip 定位在一片校园城, 可能是电脑课吧)
 
 妹子看上去天真清纯, 记得她在小红书上和朋友发 meme 图, f 都很惊讶(小红书可以聊天?)
 
 "人生的奇幻际遇"
+
+---
+
+(school math)
+
+入坑圆锥曲线.
+
+看了下各种定义, 什么都用定义法.
+
+过圆上一点作切线. f 直接联立, 二次方程只有一解,
+
+然后他直接用切线垂直半径的性质了, 而且用的向量不是解斜率 -1, 好像还有结论.
+
+矩形知道三点, 求对面一点, f 想半天, 还想过两点作平行线求交点,
+
+然后他直接两边向量相加等于斜向量, 直接拿下了.
+
+- 代数法
+- 几何法
+- 向量法
+- 复数法
+
+---
+
+给 code 加了个快捷键,
+
+backtick. to create code span.
+
+太舒服啦!
+
+---
+
+自动点击器, 编写了一堆脚步哪.
+
+最近 arknights 新模式, 合作通关, 那必须脚本刷啊!
+
+bs, arknights, hg 都用上脚本啦!
+
+ba, 倒是没啥用, 编写调试半天, 每天用几分钟, 没意思, 还要改.
+
+arknights 的资源本也不想编写, 就几十秒的运行时间, 人工简单.
+
+规律: 如果脚本每次启动不无限循环, 那就没啥意义.
+
+---
+
+(design voyagejs)
+
+- svelte playground
+- mitosis api
+- react feature test
+- solidjs api
+
+---
+
+找了个片. 明天去看. 12 点哦.
+
+猫猫的奇幻漂流 Flow (2024)
+
+---
+
+bs script 就不跑了, 因为签到奖励看起来越后面越减少, 23333
+
+似乎重置一下连续签到, 奖励会变好!?
+
+arknights event script 到是很有意思, 玩互选和教练给奖励.
+
+那必须脚本速刷队友啊! 233333.
+
+(队友表情: 流汗原石虫, 合十)
+
+糖完啦.
+
+(貌似要赢才累计奖励, 不过特级赛挂机也能过诶!)
+
+(ok 奖励到手喵. 接着刷, f 要变成 "球德充沛的足球")
+
+---
+
+hi 战斗似乎挺有意思, 只是现在也没心思过剧情呢.
+
+最近好像没啥有劲的活动. 那个卡牌还挺好玩的.
+
+---
+
+ba 和 ak 都设计得逆天,
+
+前者的加载速度非常顶级, 一键扫荡可以卡个五秒
+
+后者的日常商店不能批量购买呢. 233333
+
+---
+
+昨天到今天下午, 肯定有 24h, 都没有上 bs. 应该断签到了吧...
+
+丸辣! 这逆天机制, 那没辙, 看来要断 48h 才 reset streak 啊.
+
+(后来 f 才知道, 每日签到本来就至少要 24h 间隔才能领取. 结论是一次退游中间要能触发两次签到.)
+
+---
+
+`ref`
+
+读了下 solidjs, svelte 的 docs...
+
+发觉 react docs: learn 真是厉害, 第一篇.
+
+- Quick Start
+  - Tutorial: Tic-Tac-Toe
+  - Thinking in React
+
+> Welcome to the React documentation! This page will give you an introduction to 80% of the React concepts that you will use on a daily basis.
+>
+> You will learn
+>
+> - How to create and nest components
+> - How to add markup and styles
+> - How to display data
+> - How to render conditions and lists
+> - How to respond to events and upd
+>   ate the screen
+> - How to share data between components
+
+这不强吗?
+
+- welcome
+- 80% in 1
+- contents
+- a simple game
+- the idea
+
+---
+
+on funshiki' live
+
+watched no man's land 无人区 (2013)
+
+(荒诞, 犯罪, 剧情)
+
+"西北土味 gta"
+
+---
+
+running bs script.
+
+有时候能上分, 有时候不能, 可能是被识别成脚本了, 数据太低?
+
+knockout 和 wipeout 5v5 感觉是最好的, 稳定上分.
+
+其次 trio showdown, gem grab 5v5.
+
+深夜三人吃鸡连败, 经常匹配到站着不动的脚本, 号上基本都 700~800 了, 个别打上 1k.
+
+刚胜利一把, 就会匹配到用心打的真人了.
+
+---
+
+新的一周.
+
+sr divergent universe refreshed. and nothing more.
+
+---
+
+傍晚
+
+on unfettered idle man's live
+
+逍遥散人: 新游试玩, 模拟人生 (inzoi)
+
+(高自由度. 有时挺抽象.)
+
+夜
+
+逍遥散人: 恐怖联机游戏, damned 2
+
+---
+
+`ref`
+
+(on voyagejs)
+
+reading solidjs docs (legacy).
+
+https://www.solidjs.com/docs#updating-stores
+
+> Path can be string keys, array of keys, iterating objects ({from, to, by}), or filter functions. This gives incredible expressive power to describe state changes.
+>
+> `setState('todos', [0, 2], 'completed', true);`
+>
+> `setState('todos', { from: 0, to: 1 }, 'completed', c => !c);`
+>
+> `setState('todos', todo => todo.completed, 'task', t => t + '!')`
+>
+> `setState('todos', {}, todo => ({ marked: true, completed: !todo.completed }))`
+
+太逆天了, 这玩意. 想起了 voyage 改版前的样子. 什么功能都想往里面加.
+
+为了替换语言内置的循环和判断, 你都做了什么啊 kora!
+
+`innerHTML/textContent` 经典吧! `@text` `@html`
+
+`/*@once*/` 厉害吧, 注释都有起语法作用了. 
+
+---
+
+`ref`
+
+【原神】はじめまして、原神。フリーナに会いに行く。#結城さくな生放送
+
+https://www.youtube.com/live/yO439rG5Otw
+
+啊啊啊! yuuki sakuna (revived)!
+
+play genshin impact as a beginner
+
+---
+
+`ref`
+
+youtube recommendation is lots of contents about chinese society
+
+removed youtube history, and filtered subscription.
+
+feels much better now.

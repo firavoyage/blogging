@@ -1,38 +1,27 @@
-# pure project math
-
-## about
-
-```js
-/**
- * @see about.md 
-*/
-```
-
-## roadmap
-
-- 准备材料
-  - 课本
-  - mathematics, no 2 secondary school attached to east china normal university (liu chuxi & shi hongliang & cai dongshan)
-  - mathematical olympiad series (xiong bin & ...)
-- 问 ai
-  - 目录
-  - 每一个章节的内容
-- 写作
-  - 形式 markdown, 风格 [guidelines](#guidelines)
-  - 选题
-- 视频
-  - 使用 pre
-  - 声音 直接录制 / (或者无声)
-  - 剪辑空白
-- 参考
-  - 一数
+# pure project: math
 
 ## guidelines
 
-- h2 标题
-- h3, h4 正文
-- 每个 header, 配 1~3 段文本 (字幕), 笔记若干 (仅展示, 不读)
+- h2 for title
+- h3 and h4 for contents
+- paragraphs are subtitles, blockquotes are notes
 - ref
-  - A half-hour to learn Rust
+  - react docs: learn
+  - a half-hour to learn rust
 
+## under the hood
+
+- ask llm
+  - contents, chapters, points
+  - for each point
+- see stones from other hills
+  - one math vid guide
+- write
+  - use markdown with [guidelines](#guidelines)
+- record
+  - use pre app
+  - read subtitles or generate voice, at best no voice needed
+- materials
+  - math textbook sh version
+  - mathematics, no 2 secondary school attached to east china normal university   - mathematical olympiad series
 

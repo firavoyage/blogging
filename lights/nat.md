@@ -67,6 +67,7 @@ Some things I believe:
   - It's ok to get yours from "making things happen"
 
 - You can do more than you think
+
   - We are tied down by invisible orthodoxy
   - The laws of physics are the only limit
 

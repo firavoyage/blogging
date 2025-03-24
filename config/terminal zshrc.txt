@@ -127,10 +127,11 @@ git pull e master
 cd ../..
 }
 
-function gen(){ #generate jsdoc
+function gen(){ 
+#generate jsdoc
 cd /home/fira/Documents/blogging/voyagejs
 zsh jsdoc.sh
-open /home/fira/Documents/blogging/voyagejs/docs/index.html
+open /home/fira/Documents/blogging/voyagejs/jsdoc/index.html
 }
 
 

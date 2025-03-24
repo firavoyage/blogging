@@ -310,10 +310,13 @@ sudo apt install gnome-shell-extension-prefs
     - tracking protection `on`
     - user rules / import settings `git/blogging/config/list_adguard.txt`
     - additional settings / notify about extension updates `off`
-  - google translate https://chromewebstore.google.com/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb
+  - simple translate https://chromewebstore.google.com/detail/simple-translate/ibplnjkanclpjokhdolnendpplpjiace
+  - google translate (off) https://chromewebstore.google.com/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb
     - my primary language `chinese(simplified)`
     - pop-up translations `immediately popup`
-  - tampermonkey https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
+    - target language `chinese(simplified)`
+    - behavior when selecting text `display translation panel`
+  - tampermonkey https://chromkewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
     - zhihu enhancement https://greasyfork.org/en/scripts/419081
     - zhihu dark mode https://greasyfork.org/en/scripts/408224
     - allow copy https://greasyfork.org/en/scripts/12561-allow-copy-and-context-menu-continued
@@ -502,6 +505,7 @@ sudo apt install gnome-shell-extension-prefs
   - write markdown
     - preview document `ctrl shift v`
     - toggle math environment `ctrl m`
+    - toggle code span `` ` ``
     - toggle strike through `alt s`
     - toggle task list `alt c`
     - insert snippet `ctrl i`
@@ -516,11 +520,11 @@ sudo apt install gnome-shell-extension-prefs
   - _save as_ `ctrl shift s`
   - _tab_ `tab`
   - _save_ `ctrl s`
-  - _Markdown All in One: Toggle Italic_ `ctrl i`
+  - _markdown all in one: toggle italic_ `ctrl i`
   - _markdown.extension.onBackspaceKey_ `backspace`
   - _markdown.extension.onTabKey_ `tab`
-  - _markdown.extension.onShiftTabKey_ `shift tab`
-  - _breadcrumbs.toggleToOn_ _breadcrumbs.focusAndSelect_ `ctrl shift <` `ctrl shift .`
+  - _markdown.extension.onshifttabkey_ `shift tab`
+  - _breadcrumbs.toggletoon_ _breadcrumbs.focusandselect_ `ctrl shift <` `ctrl shift .`
   - _breadcrumbs.focus_ `ctrl shift ;`
 
 ## `git`
@@ -607,27 +611,39 @@ sudo apt install gnome-shell-extension-prefs
 - use shortcuts
   - clipboard `ctrl ;`
 
-## `thunderbird`
-
-- config `mail`
-  - zoho
-  - outlook
-  - gmail
-  - qq
-- config `junk`
-
 ## `v2raya`
 
-- install dependence
+- config internet dns
+  - use public dns
+    - `cloudflare` 1.1.1.1
+    - `google` 8.8.8.8
+    - `114` 114.114.114.114
+    - `alidns` 223.5.5.5
+  - on `admin:///etc/systemd/resolved.conf`
+    ```text
+    [Resolve]
+    # Some examples of DNS servers which may be used for DNS= and FallbackDNS=:
+    # Cloudflare: 1.1.1.1#cloudflare-dns.com 1.0.0.1#cloudflare-dns.com 2606:4700:4700::1111#cloudflare-dns.com 2606:4700:4700::1001#cloudflare-dns.com
+    # Google:     8.8.8.8#dns.google 8.8.4.4#dns.google 2001:4860:4860::8888#dns.google 2001:4860:4860::8844#dns.google
+    # Quad9:      9.9.9.9#dns.quad9.net 149.112.112.112#dns.quad9.net 2620:fe::fe#dns.quad9.net 2620:fe::9#dns.quad9.net
+    DNS=223.5.5.5 1.1.1.1
+    #DNS=8.8.8.8 1.1.1.1
+    #FallbackDNS=
+    ```
+  - restart service
+    ```sh
+    sudo systemctl restart systemd-resolved
+    ```
+- install
   ```sh
   sudo apt install v2ray
+  sudo snap install v2raya
   ```
 - config account
   - username `f`
   - password `firafira`
 - config `proxy only gfwlist` or `proxy except cn sites`
 - config proxy nodes
-  - ref `git/blogging/swim.md`
   - repos of free nodes
     - https://github.com/aiboboxx/v2rayfree
       - https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
@@ -647,13 +663,22 @@ sudo apt install gnome-shell-extension-prefs
     - raw.kkgithub.com
     - raw.fastgit.org
   - sites of freemium nodes
-    - https://ikuuu.one/ (https://ikuuu.top/) (find@ikuuu.pro)
+    - https://ikuuu.one/ https://ikuuu.top/ find@ikuuu.pro
   - tools for converting between clash and v2ray subscriptions
     - https://clash.rokeyyan.com/
     - https://v2.v2rayse.com/clash-convert/
     - https://github.com/tindy2013/subconverter
   - library for building custom proxy
     - https://github.com/Anankke/SSPanel-Uim
+
+## `thunderbird`
+
+- config `mail`
+  - zoho
+  - outlook
+  - gmail
+  - qq
+- config `junk`
 
 ## `wine`
 
@@ -814,7 +839,6 @@ sudo apt install gnome-shell-extension-prefs
   sudo snap install obs-studio
   sudo snap install telegram-desktop
   sudo snap install thunderbird
-  sudo snap install v2raya
   sudo snap install vlc
   ```
 - install code
