@@ -443,6 +443,7 @@ sudo apt install gnome-shell-extension-prefs
     - toggle extensions `ctrl shift x`
     - _toggle panel_ `ctrl alt p`
     - toggle problems panel `ctrl shift m`
+    - toggle terminal panel ``ctrl ` ``
   - create files
     - new file `ctrl n`
     - close file `ctrl w`
@@ -506,6 +507,8 @@ sudo apt install gnome-shell-extension-prefs
     - preview document `ctrl shift v`
     - toggle math environment `ctrl m`
     - toggle code span `` ` ``
+      - when `editorTextFocus`
+    - toggle code block `` ctrl shift ` ``
     - toggle strike through `alt s`
     - toggle task list `alt c`
     - insert snippet `ctrl i`
@@ -642,7 +645,9 @@ sudo apt install gnome-shell-extension-prefs
 - config account
   - username `f`
   - password `firafira`
-- config `proxy only gfwlist` or `proxy except cn sites`
+- config 
+  - transparent proxy/system proxy `same as the rule port`
+  - traffic splitting mode of rule port `proxy only gfwlist`
 - config proxy nodes
   - repos of free nodes
     - https://github.com/aiboboxx/v2rayfree

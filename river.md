@@ -4769,3 +4769,84 @@ youtube recommendation is lots of contents about chinese society
 removed youtube history, and filtered subscription.
 
 feels much better now.
+
+---
+
+user.mihoyo.com
+
+```
+2025-03-25 13:26:33	大连	175.163.79.185	登录
+2025-03-25 13:12:41	大连	175.163.79.185	登录
+2025-03-22 13:26:27	大连	175.162.112.105	登录
+2025-03-22 11:58:29	中国	2408:822e:20b1:4a40:ac36:13e3:4bf1:63b8	登录
+2025-03-22 11:47:14	中国	2408:822e:20b1:4a40:1950:192a:8b4f:9b99	登录
+2025-03-22 11:26:52	中国	2408:822e:20b1:4a40:1950:192a:8b4f:9b99	登录
+2025-03-20 05:12:17	中国	39.144.53.133	登录
+2025-03-19 18:40:57	大连	112.42.27.25	登录
+```
+
+辽宁少女可爱呢.
+
+(好像啥也没干, 就把 f 的 sr 角色移动了一下... 是信息课吗.)
+
+ip 定位不到, 不过似乎邮件有用呢.
+
+```
+您于2025年03月25日 13:12通过绑定手机182****9465登录米哈游通行证账号。
+
+登录设备: Microsoft Edge (Microsoft Edge 129.0.0.0)
+
+2025年03月25日 13:26 Microsoft Edge (Microsoft Edge 134.0.0.0)
+
+2025年03月22日 11:58 OPPO A9 (PCAM10)
+
+2025年03月22日 11:26 Chrome (Chrome 122.0.6261.95)
+
+2025年03月19日 18:40 Android Browser (Android Browser 4.0)
+
+2025年03月01日 13:04 Safari (Safari 11.x)
+```
+
+太厉害啦 (只有那个 android browser 应该是 f 自己的 ubuntu chromium)
+
+---
+
+`ref` `game`
+
+在 ruanyf weekly archive 上面看到了 chess.com
+
+注册, 下载 apk... 入坑.
+
+界面不错, duolingo 风格. 选择了木头主题.
+
+f 会成为 chess 高手吗?
+
+---
+
+vtuber 阿梓在看 mygo.
+
+魔法 zc 目录在玩 angry birds, 然后是 valorant.
+
+(angry birds?!)
+
+brawlstars 这会是连续不登陆两天了, 也没有 reset streak.
+
+不过似乎 reset streak 不影响奖励的说...
+
+---
+
+```
+您于2025年03月25日 22:30通过绑定手机182****9465登录米哈游通行证账号。
+
+登录设备: Safari (Safari 15.6.6)
+```
+
+safari ?! 深夜打 sr 的神秘辽宁少女. (初中的说)
+
+(角色正在做世界任务, 可以 switch pov, 做一半. 配队也变化啦.)
+
+---
+
+arknights
+
+升级了一堆三星角色, 好强啊. 抄作业发现的.

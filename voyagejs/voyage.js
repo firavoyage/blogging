@@ -10,12 +10,12 @@
  * @see changelog.md
  */
 /**
- * all methods and data
+ * methods and states
  * @namespace voyage
  */
 let voyage = {
   /**
-   * some pure functions
+   * some pure fn
    * @namespace lib
    * @memberof voyage
    */
@@ -26,7 +26,6 @@ let voyage = {
      * @param {*} a
      * @param {*} b
      * @returns {boolean} whether a equals b
-     * @memberof voyage.lib
      */
     is(a, b) {
       return a === b;
@@ -36,7 +35,6 @@ let voyage = {
      * @param {*} a
      * @param {*} b
      * @returns {boolean} whether a is not equal to b
-     * @memberof voyage.lib
      */
     isnt(a, b) {
       return a !== b;
@@ -56,7 +54,6 @@ let voyage = {
      *
      * not an object: false
      *
-     * @memberof voyage.lib
      */
     has(obj, key) {
       const { check } = voyage.lib;
@@ -79,7 +76,6 @@ let voyage = {
      *
      * valid value & type: equals type or instanceof type
      *
-     * @memberof voyage.lib
      */
     check(value, type) {
       const { is } = voyage.lib;
@@ -115,7 +111,6 @@ let voyage = {
      * @param {number} [end] - second param
      * @param {number} [step] - third param
      * @returns {Iterator} the iterator
-     * @memberof voyage.lib
      */
     each(begin, end, step) {
       const { check } = voyage.lib;
@@ -156,7 +151,6 @@ let voyage = {
      * @param {Array} things - things need to be converted
      * @param {function} converter - the converter
      * @returns {Array} things converted
-     * @memberof voyage.lib
      */
     map(things, converter) {
       const { check } = voyage.lib;
@@ -182,7 +176,6 @@ let voyage = {
      * @example
      * const {slice} = use(Array)
      * slice([1,2,3],0,2) //[1,2,3].slice(0,2)
-     * @memberof voyage.lib
      */
     use() {
       const handler = {
@@ -202,17 +195,16 @@ let voyage = {
   counter: {},
   /**
    * @typedef {object} Element
-   * @prop {string | function} type
+   * @prop {string|function} type
    * string means html tag. fn means component.
    * @prop {object} labels
    * or properties for a component.
-   * @prop {Array <Element | string>} content
+   * @prop {Array<Element|string>} content
    * ignored if it's a component. string means text node.
    */
   /**
    * @param  {...*} options - currently only support json
    * @returns {Element}
-   * @memberof voyage
    */
   compile(...options) {
     const { check, use } = voyage.lib;
@@ -247,7 +239,6 @@ let voyage = {
    *
    * @param {Element} element
    * @returns {Node}
-   * @memberof voyage
    */
   create(element) {
     const { render, bind } = voyage;
@@ -341,12 +332,29 @@ let voyage = {
    * alias of create(compile(_))
    * @param  {...any} _
    * @returns {Node}
-   * @memberof voyage
    */
   c(..._) {
     const { compile, create } = voyage;
     return create(compile(..._));
   },
+  /**
+   * @typedef {function} Prop
+   *
+   */
+  /**
+   * declare props of a component
+   * @param {object} props
+   * @returns {object<Prop>}
+   */
+  p(props) {},
+  /**
+   * manage side effects
+   * @param {function} effect
+   * @returns {void}
+   */
+  e(effect) {},
+  t(...template) {},
+  h() {},
 };
 
 let examples = {
@@ -365,7 +373,7 @@ let examples = {
     const { html } = p({ html: `here's some <strong>HTML!!!</strong>` });
     return c("p", h(html));
   },
-  SimpleCounter() {
+  Counter() {
     const { p, c, t } = voyage;
     const { count } = p({ count: 0 });
     return c(
@@ -378,10 +386,48 @@ let examples = {
       t`clicked ${count} ${() => (count() > 1 ? "times" : "time")}`
     );
   },
-  SafeCounter() {
-    const { p, c, t, effect } = voyage;
+  DerivedCounter() {
+    const { p, c, t } = voyage;
     const { count } = p({ count: 0 });
-    effect(() => {
+    const doubled = () => count() * 2;
+    const quadrupled = () => doubled() * 2;
+    return c(
+      [
+        "button",
+        {
+          "@click": () => {
+            count(count() + 1);
+          },
+        },
+        t`Count: ${count}`,
+      ],
+      ["p", t`${count} * 2 = ${doubled}`],
+      ["p", t`${doubled} * 2 = ${quadrupled}`]
+    );
+  },
+  AnotherDerivedCounter() {
+    const { p: props, c, t, h } = voyage;
+    const { count } = props({ count: 0 });
+    const doubled = () => count() * 2;
+    const quadrupled = () => doubled() * 2;
+    const { button, p } = h();
+    return c(
+      button(
+        {
+          "@click": () => {
+            count(count() + 1);
+          },
+        },
+        t`Count: ${count}`
+      ),
+      p(t`${count} * 2 = ${doubled}`),
+      p(t`${doubled} * 2 = ${quadrupled}`)
+    );
+  },
+  SafeCounter() {
+    const { p, c, t, e } = voyage;
+    const { count } = p({ count: 0 });
+    e(() => {
       if (count() >= 10) {
         console.log(`count is dangerously high!`);
         count(9);
@@ -397,7 +443,7 @@ let examples = {
       t`clicked ${count} ${() => (count() > 1 ? "times" : "time")}`
     );
   },
-  Counter() {
+  LegacyCounter() {
     const { p, c } = voyage;
     const { count } = p({ count: 0 });
     return c(

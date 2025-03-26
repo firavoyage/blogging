@@ -135,6 +135,7 @@
   - .a certain scientific railgun (2009)
   - .re: zero - starting life in another world (2016)
   - .tonikawa: over the moon for you (2020)
+  - .oreimo (2010)
   - .my youth romantic comedy is wrong, as i expected (2011)
   - .puella magi madoka magica (2011)
   - .school days (2007)
@@ -380,6 +381,7 @@
     - antennapod 3.1.2
     - bilimiao 2.3.8.3
     - bubeidanci 5.8.8
+    - chess 4.7.2
     - duolingo 6.11.4-mod
     - eudic 9.3.1
     - fcitx5-android 0.0.7
@@ -562,6 +564,7 @@
 - - github & gitlab & gitee & wakatime `firavoyage`
   - codepen & dev.to `firavoyage`
   - duolingo `firavoyage`
+  - chess.com `firavoyage`
 - - blogger `firavoyage`
   - cnblogs `fira`
   - wordpress `_`
@@ -629,3 +632,5 @@
 > 关于名字, firavoyage. fira 是字体, 很喜欢, 一直如此. voyage... 之前, 那是 2020 年吧, 用过一个软体, "潮汐" (tide), 放白噪音的. 有一个声音叫 "夜航". 没用多久 "nightflight" 这个 id, 检索到 voyage, 就一直现在喵. 想来, 检索过好多词啊... 最近都是用 llm 啦, 比如文件名, 函数名, 想要 "poetic" "metaphorical" 的说. 其实还用过别的 id, 翻出来的回忆... 那时候想法许多 (好像关于开发和自媒体), 但拿到的观察和信息很少吧, 看上去很天真呢.
 
 > 有时会恍惚吧. 就想象着世界随着 f 的心意转变. 像天气. 感知天气, 其实就是心情. 比如看东西入神. 风停, 人琐碎, 言语也疏离. 往来的人, 都看不到五官, 就像没有画一样, 虚焦的肤色. 像知识, 工具, 或许不够优雅吧. 想象里, 会舒服许多. 有时候想象会很清晰, 就想取一些草稿, 画出来, 或者列出来. 喜欢的话, 就去复现想象. 心情会好呢.
+
+> 世界有许多解读. f 选择喜欢的. 如果说, 学习, 追逐学历. 其实压力会很大, 而且功利: 为什么 f 要把自己放在被审视的位置, 允许人只因为 f 的学历而认可自己. 竞争固是好的, 那只是享受压制人的快意, 如同电子竞技一般. 更多时候, f 是喜欢整理归档的. 整理房间, 归档网络收藏. 学习更可能是这样吧.
