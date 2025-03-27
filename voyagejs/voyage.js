@@ -359,39 +359,39 @@ let voyage = {
 
 let examples = {
   HelloWorld() {
-    const { p, c, t } = voyage;
+    const { p, t } = voyage;
     const { name } = p({ name: "world" });
-    return c("div", t`hello ${name}`);
+    return ["div", t`hello ${name}`];
   },
   Label() {
-    const { p, c, t } = voyage;
+    const { p, t } = voyage;
     const { name, src } = p();
-    return c("img", { src, alt: t`${name} dancing` });
+    return ["img", { src, alt: t`${name} dancing` }];
   },
   Html() {
-    const { p, c, h } = voyage;
+    const { p, h } = voyage;
     const { html } = p({ html: `here's some <strong>HTML!!!</strong>` });
-    return c("p", h(html));
+    return ["p", h(html)];
   },
   Counter() {
-    const { p, c, t } = voyage;
+    const { p, t } = voyage;
     const { count } = p({ count: 0 });
-    return c(
+    return [
       "button",
       {
         "@click": () => {
           count(count() + 1);
         },
       },
-      t`clicked ${count} ${() => (count() > 1 ? "times" : "time")}`
-    );
+      t`clicked ${count} ${() => (count() > 1 ? "times" : "time")}`,
+    ];
   },
   DerivedCounter() {
-    const { p, c, t } = voyage;
+    const { p, t } = voyage;
     const { count } = p({ count: 0 });
     const doubled = () => count() * 2;
     const quadrupled = () => doubled() * 2;
-    return c(
+    return [
       [
         "button",
         {
@@ -402,16 +402,16 @@ let examples = {
         t`Count: ${count}`,
       ],
       ["p", t`${count} * 2 = ${doubled}`],
-      ["p", t`${doubled} * 2 = ${quadrupled}`]
-    );
+      ["p", t`${doubled} * 2 = ${quadrupled}`],
+    ];
   },
   AnotherDerivedCounter() {
-    const { p: props, c, t, h } = voyage;
+    const { p: props, t, h } = voyage;
     const { count } = props({ count: 0 });
     const doubled = () => count() * 2;
     const quadrupled = () => doubled() * 2;
     const { button, p } = h();
-    return c(
+    return [
       button(
         {
           "@click": () => {
@@ -421,11 +421,11 @@ let examples = {
         t`Count: ${count}`
       ),
       p(t`${count} * 2 = ${doubled}`),
-      p(t`${doubled} * 2 = ${quadrupled}`)
-    );
+      p(t`${doubled} * 2 = ${quadrupled}`),
+    ];
   },
   SafeCounter() {
-    const { p, c, t, e } = voyage;
+    const { p, e, t, h } = voyage;
     const { count } = p({ count: 0 });
     e(() => {
       if (count() >= 10) {
@@ -433,8 +433,8 @@ let examples = {
         count(9);
       }
     });
-    return c(
-      "button",
+    const { button } = h();
+    return button(
       {
         "@click": () => {
           count(count() + 1);
@@ -443,13 +443,24 @@ let examples = {
       t`clicked ${count} ${() => (count() > 1 ? "times" : "time")}`
     );
   },
-  LegacyCounter() {
-    const { p, c } = voyage;
+  IncreasingCounter() {
+    const { p, e, t } = voyage;
     const { count } = p({ count: 0 });
-    return c(
+    e(() => {
+      setInterval(() => {
+        count(count() + 1);
+      }, 1000);
+    }, []);
+    e(() => console.log(count()));
+    return ["p", t`clicked ${count} ${() => (count() > 1 ? "times" : "time")}`];
+  },
+  LegacyCounter() {
+    const { p } = voyage;
+    const { count } = p({ count: 0 });
+    return [
       ["button", { "@click": () => count(count() - 1) }, "-"],
-      ["input", { type: "text", "@bind:value": count }],
-      ["button", { "@click": () => count(count() + 1) }, "+"]
-    );
+      ["input", { type: "text", "@value": count }],
+      ["button", { "@click": () => count(count() + 1) }, "+"],
+    ];
   },
 };

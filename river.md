@@ -4850,3 +4850,59 @@ safari ?! 深夜打 sr 的神秘辽宁少女. (初中的说)
 arknights
 
 升级了一堆三星角色, 好强啊. 抄作业发现的.
+
+---
+
+https://yuanbao.tencent.com/chat/
+
+tencent yuanbao 总算是支持 english 了. (竟然现在才支持吗, i18n, 你这家伙)
+
+(甚至没更新 dark mode, 233333)
+
+仍然不支持账号密码登录! 而且登录 token 一会就 expire 了.
+
+不想收验证码, 改用 qq 登录了. qq 登录也逆天, 好在这次没强制收码.
+
+---
+
+got this (from twitter community 墙外弱智吧联盟)
+
+https://x.com/hsn8086/status/1905053490302648583
+
+趴来趴去的触手怪
+twitter@chshu1897838236
+169/135
+20岁，是烧鸡，除了推特暂时没有在其他地方发放图包
+
+`ref`
+
+unfollowed all mtfs and porn stars.
+
+these only make twitter recommendation worse.
+
+---
+
+可以给萌萌的脑斧酱点个关注嘛，脑斧酱会秒回关喔(^з^)
+
+脑斧酱-聪明吧
+twitter @jingsheng237248 · 17h
+
+😭台词又…
+
+---
+
+目前在国内但凡有点上进心，弄得不好裤衩子都要赔进去，到处是坑，有人躺平玩了一年开销两万多，还有个人去年奋斗了一年亏了十几个W
+
+---
+
+bili 评论区有开盒的, 甚至用的是查企业手段, 不用 telegram.
+
+泛式: 周启帆. 竹鱼: 顾贝贝 (企业: 上海泛团)
+
+瓶子君: 牛子豪
+
+---
+
+funshiki 评价开盒 (2023 网络实名制): 
+
+就像中学生刚接触性知识, 喜欢拿这个说事. (精辟比喻)

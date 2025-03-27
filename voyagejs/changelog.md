@@ -372,21 +372,37 @@
 
 - refactor!: `ui = f(states)` and test driven dev
   - props and states are the same thing, as `p`
-  - rewrite unit tests (examples)
   - make the whole api simpler and remove most legacy code
-    - more often being used, shorter fn name
-  - ref
+    - the more often being used, the shorter fn name
+  - write unit tests (examples), inspired by
     - svelte playground
     - solidjs docs & component examples
     - react component examples
     - mitosis api
 - feat: `p(obj)`, properties of a component
-  - each key in the param obj becomes a fn
-  - call fn without param: get value
-  - call fn with a param: set value
-  - call fn with a param (using fn): pass current value, set returned value
-  - a prop can not be set to undefined, if the param fn returns undefined, consider some prop inside the state has changed
-  - in derived tracking, get will put it into dependencies
-  - set will call dependencies
+  - returns a proxy, each key in obj becomes a fn
+  - create a set of subscribers
+  - get (no param): get value, add current subscriber
+  - set (a param, not fn): set value, call all subscribers
+  - set (a param, fn): pass current value, set returned value, call ...
+    - a prop can not be set to undefined, if the fn returns undefined, consider some prop inside the state has changed (ref immer "produce")
+  - ref https://docs.solidjs.com/advanced-concepts/fine-grained-reactivity
+- feat: `m(memo, dependencies)`
+  - one param: track dependencies, and subscribe it
+    - store `prevSubscriber`
+    - define `subscriber`
+    - reset to `prevSubsciber` (for nested memo)
+  - two param (empty dep array): run once onmount
+  - two param (not empty): doesnt run onmount, run when any dep changes
+  - ref https://docs.solidjs.com/advanced-concepts/fine-grained-reactivity
+- feat: `e(effect, dependencies)`
+  - alias of memo
+  - memo is superset of effect (additionally storing a returned value)
+  - being used for different purposes, but implementation could be the same
 - feat: `context`
   - create a named context, and store some props
+- feat: `batch(operations)`
+  - batch operations, create a set of effect, the same effect only run once
+- feat: macro `@ref: state`
+  - assign the element to the state on creation
+

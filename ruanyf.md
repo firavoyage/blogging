@@ -2643,7 +2643,7 @@ https://qntm.org/perl
 
 https://qntm.org/perl_cn
 
-## js13k games competition 2020 top 10 winners
+## js13k games competition
 
 `game` `design` `ref` `essay`
 
@@ -3838,15 +3838,51 @@ https://github.com/you-dont-need/You-Dont-Need-JavaScript
 
 该网站是一个社区，全世界志愿者上传自己收集的环境音，目前已经有50万种环境音。中国的环境音也有不少，比如[北京的公交车](https://freesound.org/people/nslkc/sounds/100206/)、[火车通过铁路道口](https://freesound.org/people/RTB45/sounds/151807/)。
 
+## docs with material design
+
+`dev` `design`
+
+[Material for MkDocs](https://github.com/squidfunk/mkdocs-material)
+
+![](https://cdn.beekka.com/blogimg/asset/202105/bg2021052807.jpg)
+
+这个工具是 MkDocs 网站生成器的 Material Design 站点主题。
+
+## apple design awards
+
+`app` `design`
+
+[2021 苹果设计奖](https://www.apple.com.cn/newsroom/2021/06/apple-announces-winners-of-the-2021-apple-design-awards/)
+
+![](https://cdn.beekka.com/blogimg/asset/202106/bg2021061201.jpg)
+
+苹果一年一度的优秀 App 评选（Apple Design Awards） ，6大类12个获奖者，可以视为官方的 App 推荐。
+
+---
+
+https://developer.apple.com/design/awards/2021
+
+https://developer.apple.com/design/awards/
+
+## drunk post: things i've learned as a sr engineer
+
+`dev` `quote`
+
+我遇到很多初级工程师，发现了一件奇怪的事情，他们为自己能写出逻辑高度复杂的代码而自豪，并且没有任何文档。
+
+他们以为这样就能展示自己的能力，但实际上，这是展示能力的最糟糕的方式。
+
+-- [Hacker News 读者](https://news.ycombinator.com/item?id=27333947)
+
+---
+
+https://news.ycombinator.com/item?id=27333260
+
+https://old.reddit.com/r/ExperiencedDevs/comments/nmodyl/drunk_post_things_ive_learned_as_a_sr_engineer/
+
 ##
 
 
-
-##
-
-##
-
-##
 
 ##
 

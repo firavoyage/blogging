@@ -240,7 +240,7 @@
   - internet archive wayback machine & archive.today
   - google & chatgpt & deepseek & gemini & mistral le chat
   - youtube & berryberry & acfun & niconico & vtbs.moe & hololist
-  - old reddit & zhihu & nga bbs & forum.gamer.com.tw & baidu tieba
+  - old reddit & zhihu & nga bbs & forum.gamer.com.tw & baidu tieba & twitter
   - bangumi.tv & my anime list & mikan project & bgmlist & dmhy.org
   - douban & imdb & genius & poetry foundation & art of problem solving
   - e hentai & 9 hentai & tsumino & hitomi.la & vndb & shinnku galgame

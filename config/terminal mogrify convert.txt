@@ -1,4 +1,5 @@
 cd Downloads/g
+for f in *.jpeg; do mv -- "$f" "${f%.jpeg}.jpg"; done
 mogrify -background black -flatten -format jpg *.png && rm *.png
 mogrify -background black -flatten -format jpg *.webp && rm *.webp
 cd ../..
