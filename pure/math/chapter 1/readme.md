@@ -9,14 +9,16 @@
 > _~~送给中专的少年. 数学.~~_ 
 > 
 > _~~数学: 走马灯, 万华镜, 空游无所依~~_
+>
+> _~~高中生慎入: 十分钟速通集合~~_
 
-> 欢迎学习高中数学.
-
+> 欢迎学习高中数学. (这或许是第一课.)
+> 
 > enjoy your ride 𝅘𝅥𝅮
 
 > ![warning]
 >
-> (meme from math olympiad books of east china normal university pub)
+> ~~meme from math olympiad books of east china normal university pub~~
 >
 > 本书或许不适合你, 如果
 >
@@ -40,7 +42,9 @@
 
 ###
 
-> 集合是判断器. 对于任何东西, 判断在其中, 或者不在.
+> 集合, 意思是, "一些东西在里面, 另一些不在."
+
+> (...引出性质) 集合的意义是, 判断任何东西在其中, 还是不在.
 
 > 我们知道, 1 属于整数, ...
 

@@ -444,6 +444,13 @@ sudo apt install gnome-shell-extension-prefs
     - _toggle panel_ `ctrl alt p`
     - toggle problems panel `ctrl shift m`
     - toggle terminal panel ``ctrl ` ``
+  - zoom perspective
+    - _shirnk all (fold all)_ `ctrl shift s`
+    - _shrink code (fold)_ `ctrl s` `ctrl shift [`
+    - _expand code (unfold)_ `ctrl e` `ctrl shift ]`
+    - zoom in `ctrl +`
+    - zoom out `ctrl -`
+    - split screen `ctrl \`
   - create files
     - new file `ctrl n`
     - close file `ctrl w`
@@ -483,13 +490,6 @@ sudo apt install gnome-shell-extension-prefs
     - _move line up_ `alt k` `alt up`
     - _delete to word start_ `ctrl backspace`
     - delete to word end `ctrl delete`
-  - zoom
-    - _shrink code (fold)_ `ctrl s` `ctrl shift [`
-    - _shirnk all (fold all)_ `ctrl shift s`
-    - _expand code (unfold)_ `ctrl e` `ctrl shift ]`
-    - zoom in `ctrl +`
-    - zoom out `ctrl -`
-    - split screen `ctrl \`
   - find and replace
     - rename symbol `f2`
     - find `ctrl f`

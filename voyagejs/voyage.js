@@ -373,6 +373,15 @@ let examples = {
     const { html } = p({ html: `here's some <strong>HTML!!!</strong>` });
     return ["p", h(html)];
   },
+  LegacyCounter() {
+    const { p } = voyage;
+    const { count } = p({ count: 0 });
+    return [
+      ["button", { "@click": () => count(count() - 1) }, "-"],
+      ["input", { type: "text", "@value": count }],
+      ["button", { "@click": () => count(count() + 1) }, "+"],
+    ];
+  },
   Counter() {
     const { p, t } = voyage;
     const { count } = p({ count: 0 });
@@ -387,10 +396,10 @@ let examples = {
     ];
   },
   DerivedCounter() {
-    const { p, t } = voyage;
+    const { p, m, t } = voyage;
     const { count } = p({ count: 0 });
-    const doubled = () => count() * 2;
-    const quadrupled = () => doubled() * 2;
+    const doubled = m(() => count() * 2);
+    const quadrupled = m(() => doubled() * 2);
     return [
       [
         "button",
@@ -403,25 +412,6 @@ let examples = {
       ],
       ["p", t`${count} * 2 = ${doubled}`],
       ["p", t`${doubled} * 2 = ${quadrupled}`],
-    ];
-  },
-  AnotherDerivedCounter() {
-    const { p: props, t, h } = voyage;
-    const { count } = props({ count: 0 });
-    const doubled = () => count() * 2;
-    const quadrupled = () => doubled() * 2;
-    const { button, p } = h();
-    return [
-      button(
-        {
-          "@click": () => {
-            count(count() + 1);
-          },
-        },
-        t`Count: ${count}`
-      ),
-      p(t`${count} * 2 = ${doubled}`),
-      p(t`${doubled} * 2 = ${quadrupled}`),
     ];
   },
   SafeCounter() {
@@ -450,17 +440,46 @@ let examples = {
       setInterval(() => {
         count(count() + 1);
       }, 1000);
-    }, []);
+    });
     e(() => console.log(count()));
     return ["p", t`clicked ${count} ${() => (count() > 1 ? "times" : "time")}`];
   },
-  LegacyCounter() {
-    const { p } = voyage;
-    const { count } = p({ count: 0 });
+  Conditional() {
+    const { p, t, show } = voyage;
+    const { x } = p({ x: 7 });
+    return () =>
+      show(
+        x() > 10,
+        t`${x} is greater than 10`,
+        x() < 5,
+        t`${x} is less than 5`,
+        t`${x} is between 5 and 10`
+      );
+  },
+  List() {
+    const { p, h, t, each } = voyage;
+    const cats = [
+      { id: "J---aiyznGQ", name: "Keyboard Cat" },
+      { id: "z_AbfPXTKms", name: "Maru" },
+      { id: "OUtn3pvWmpg", name: "Henri The Existential Cat" },
+    ];
+    const { h1, ul, li, a } = h();
     return [
-      ["button", { "@click": () => count(count() - 1) }, "-"],
-      ["input", { type: "text", "@value": count }],
-      ["button", { "@click": () => count(count() + 1) }, "+"],
+      h1("The Famous Cats of YouTube"),
+      ul(
+        each(cats, ({ id, name }) => [
+          li(
+            a(
+              {
+                target: "_blank",
+                rel: "noreferrer",
+                href: t`https://www.youtube.com/watch?v=${id}`,
+              },
+              t`${i + 1}: ${name}`
+            )
+          ),
+        ])
+      ),
     ];
   },
 };

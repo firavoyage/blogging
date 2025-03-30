@@ -39,8 +39,8 @@
 - write voyagejs
 - design component libraries
 - write pre app
-- write eat app
 - write leisure app
+- write eat app
 - write float app
 - write material app
 - write para app

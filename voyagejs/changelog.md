@@ -378,31 +378,52 @@
     - svelte playground
     - solidjs docs & component examples
     - react component examples
-    - mitosis api
-- feat: `p(obj)`, properties of a component
+- feat: `p(props)`, properties of a component
+  - assign `passedprops` to `props`
   - returns a proxy, each key in obj becomes a fn
   - create a set of subscribers
   - get (no param): get value, add current subscriber
   - set (a param, not fn): set value, call all subscribers
   - set (a param, fn): pass current value, set returned value, call ...
     - a prop can not be set to undefined, if the fn returns undefined, consider some prop inside the state has changed (ref immer "produce")
-  - ref https://docs.solidjs.com/advanced-concepts/fine-grained-reactivity
+  - ref 
+    - https://docs.solidjs.com/advanced-concepts/fine-grained-reactivity
+    - https://docs.solidjs.com/guides/state-management
+    - https://docs.solidjs.com/guides/complex-state-management
+    - https://docs.solidjs.com/guides/fetching-data
 - feat: `m(memo, dependencies)`
   - one param: track dependencies, and subscribe it
     - store `prevSubscriber`
-    - define `subscriber`
+    - define `subscriber` and run memo fn
     - reset to `prevSubsciber` (for nested memo)
-  - two param (empty dep array): run once onmount
-  - two param (not empty): doesnt run onmount, run when any dep changes
+  - two param: run when any dep changes
+  - stores the value `memo` returns
   - ref https://docs.solidjs.com/advanced-concepts/fine-grained-reactivity
 - feat: `e(effect, dependencies)`
-  - alias of memo
-  - memo is superset of effect (additionally storing a returned value)
-  - being used for different purposes, but implementation could be the same
+  - one param: track dependencies, and subscribe it
+    - store `prevSubscriber`
+    - define `subscriber` and run effect fn
+    - reset to `prevSubsciber` (for nested effect)
+  - two param (empty dep array): run once on mounting
+  - two param (not empty dep array): run when any dep changes
+  - ref https://docs.solidjs.com/advanced-concepts/fine-grained-reactivity
+- feat: `show(when, element, ...cases)`
+- feat: `each(list, template, key)`
+- feat: `fragment(...elements)`
 - feat: `context`
   - create a named context, and store some props
+  - no need to lift state up (to a "global" component or "App") 
 - feat: `batch(operations)`
   - batch operations, create a set of effect, the same effect only run once
 - feat: macro `@ref: state`
   - assign the element to the state on creation
-
+- feat: lifecycle fn `mount()` `cleanup()`
+  - lifecycle fn
+- feat: `route`
+  - ref https://docs.solidjs.com/guides/routing-and-navigation
+- feat: macro `@style`
+  - ref https://tailwindcss.com/docs/styling-with-utility-classes
+- test: a component library
+  - ref
+    - https://v2.chakra-ui.com/docs/components
+    - https://ui.shadcn.com/docs/components/

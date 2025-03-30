@@ -54,11 +54,11 @@ things like game progress (gacha system) are categorized, put together.
 legacy `/timeln.md`
 anime `/anime.md`
 
-### upd
+### change to data and time info
 
-ate march 2024
+update march 2024
 
-replaced header 3 dates to months
+replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 
 (the exact dates is redundant, same as times)
 
@@ -67,15 +67,43 @@ replaced header 3 dates to months
 ### in solitude where we re least alone
 
 - `1..12` oct 2023
-- `1` `2` `7` `10` `11` `12` 20241014 00:xx (rewatch)
+- `1` `2` `7` `10` `11` `12` 20241014 (rewatch)
 
 ### lucky star
 
-- `1` 20241022 - `2` 20241024 - `3` 20241025 - `4` 20241027 - `5` 20241028 - `6` 20241029 - `7` 20241030 - `8` 20241031 - `9` 20241101 - `10` 20241104 - `11` 20241105 - `12` 20241107 - `13` 20241113 - `14` 20241126 - `15` 20241201 - `16` 20241212 - `17` 20250108 - `18` 20250315
+- `1` 20241022
+- `2` 20241024
+- `3` 20241025
+- `4` 20241027
+- `5` 20241028
+- `6` 20241029
+- `7` 20241030
+- `8` 20241031
+- `9` 20241101
+- `10` 20241104
+- `11` 20241105
+- `12` 20241107
+- `13` 20241113
+- `14` 20241126
+- `15` 20241201
+- `16` 20241212
+- `17` 20250108
+- `18` 20250315
+- `19` 20250329
 
 ### evangelion
 
-- `1` 20241214 - `2` 20241217 - `3` 20241219 - `4` 20241221 - `5` 20241223 - `6` 20241224 - `7` 20241225 - `8` 20241227 - `9` 20250213 - `10` 20250223 - `11` 20250307
+- `1` 20241214
+- `2` 20241217
+- `3` 20241219
+- `4` 20241221
+- `5` 20241223
+- `6` 20241224
+- `7` 20241225
+- `8` 20241227
+- `9` 20250213
+- `10` 20250223
+- `11` 20250307
 
 ## gaming
 
@@ -1067,8 +1095,7 @@ fin it all worked
 1
 
 ```
-upd
-ated djhsgrades
+updated djhsgrades
 所有成绩出来了
 老蒋296年一
 他该拿年一了
@@ -1189,7 +1216,6 @@ weekend
 
 ```
 bs script upd
-
 
 下午
 发现bs的脚本好多双击平局
@@ -2103,8 +2129,7 @@ ruanyf 看的只剩周刊了
 - nova lciop
 - ...
 
-upd
-20250307
+upd 20250307
 
 前者指, 逍遥散人
 
@@ -2116,9 +2141,7 @@ upd
 
 然后有一哥们想到了 swap,直接 n 时间了
 
-upd
-
-就是那个算法, 把每个数组元素都和随机一个交换.
+upd: 就是那个算法, 把每个数组元素都和随机一个交换.
 
 ---
 
@@ -2266,8 +2289,7 @@ companile hotel by jin jiang.
 
 告别.最后怕切完号登不上,把手机号和密码送了.祝好.
 
-upd
-20241228
+upd 20241228
 
 其实她说的是... 漫展都在广州上海...
 
@@ -2317,8 +2339,7 @@ upd
 
 从无障碍卫生间出来，列车里空荡荡的，人下了许多，已经到南京南了。
 
-upd
-20250307
+upd 20250307
 
 (是全角标点喵! 一下子就想到是那时候手机上打的, 在 nekogram, 然后上 telegram-desktop 复制了一下. laptop 上面 fctix 设置了半角.)
 
@@ -3438,12 +3459,7 @@ https://v.myvideos.info/movie/%E5%A4%A9%E7%A9%BA%E4%B9%8B%E5%9F%8E.1986.mp4?veri
 
 surfed berryberry.
 
-**off topic random vid.**
-
-upd
-readme (hkrr)
-
-found a vid on berryberry.
+found a vid.
 
 **是武汉的一个同辈. 似乎用的是同一套书, 叫"知识清单", f 的叫"学霸笔记". 书本样式排印都一样.**
 
@@ -3513,8 +3529,7 @@ f g1t1 sept exam 写的是 论成长. 还拿了个年一 (也就那学期拿过,
 
 ---
 
-upd
-readme. separated movies and bangumis.
+upd (readme): separated movies and bangumis.
 
 直接按观看顺序排序吧... 不必将好片放上面, 因为只有喜欢的影片会被放入.
 
@@ -3901,15 +3916,13 @@ state 变化, 就要进行处理.
 voyagejs 要自由, 没有任何限制, 所以可以直接处理.
 
 ```
-bind(state, upd
-ater)
+bind(state, updater)
 ```
 
 前者是 state, 后者是一个函数, 自定义变化后行为.
 
 ```
-upd
-ater(newValue, oldValue, node)
+updater(newValue, oldValue, node)
 ```
 
 对, 直接手动处理, 比如更新 ui...
@@ -3922,8 +3935,7 @@ ater(newValue, oldValue, node)
 store({state:value})
 ```
 
-太常见了, 不妨起名 store, 然后和 ref 一样, 只不过默认绑定了一个 upd
-ater,
+太常见了, 不妨起名 store, 然后和 ref 一样, 只不过默认绑定了一个 updater,
 
 就是渲染组件 & 替换.
 
@@ -3993,8 +4005,7 @@ vue 的 key & computed 是 voyagejs 要做的事情.
 
 > Notice how we are also giving each todo object a unique id, and binding it as the special key attribute for each <li>. The key allows Vue to accurately move each <li> to match the position of its corresponding object in the array.
 
-(现在只能自己写 upd
-ater, 很麻烦, 交给 voyage 就很简单)
+(现在只能自己写 updater, 很麻烦, 交给 voyage 就很简单)
 
 上面说 key, computed 不想要.
 
@@ -4042,8 +4053,7 @@ vue tut chapter 11 才出现 child comp 吗?
 然后 child component 的 prop 也可以是 state
 
 ```
-feat: check if component prop is state, then bind upd
-ateComponent(cid) to it
+feat: check if component prop is state, then bind updateComponent(cid) to it
 feat: check if element.content string is state, then bind @text to it
 ```
 
@@ -4240,21 +4250,11 @@ also, the time installing mac is not now.
 
 还可以, 自动可以一直到 860, 不知道要多久, 放一晚上当然可以.
 
-upd
+upd: 上 800 了. 感觉就是一小时 100 杯, 这样.
 
-上 800 了. 感觉就是一小时 100 杯, 这样.
+upd: 835 杯, 在往上可能要很久了, 换 bull 接着打. 这时候, 第二和第四一样, 第三名算平局, 第一很少.
 
-upd
-
-835 杯, 在往上可能要很久了, 换 bull 接着打.
-
-这时候, 第二和第四一样, 第三名算平局, 第一很少.
-
-upd
-
-654 杯, bull. 这次两个半小时上了 150 杯...
-
-不知道, 可能网络不好吧, 还是出弹窗卡了很久.
+upd: 654 杯, bull. 这次两个半小时上了 150 杯... 不知道, 可能网络不好吧, 还是出弹窗卡了很久.
 
 ---
 
@@ -4268,33 +4268,22 @@ upd
 
 看了眼日志.
 
+```
 2025-03-05 21:24:22 大连 112.42.27.208 登录
-
 2025-03-04 13:15:38 大连 175.171.183.118 登录
-
 2025-03-02 12:59:07 大连 112.42.27.208 登录
-
 2025-03-01 13:04:23 大连 112.42.27.208 登录
-
 2025-02-28 19:59:44 大连 223.102.87.49 登录
-
 2025-02-25 07:15:55 大连 175.171.178.60 登录
-
 2025-02-23 01:41:33 大连 112.42.27.208 登录
-
 2025-02-21 04:11:51 大连 112.42.27.208 登录
-
 2025-02-18 05:12:17 大连 112.42.27.208 登录
-
 2025-02-17 18:31:16 中国 2409:8915:204a:e87:48e2:ff:feb6:f9a3 登录
-
 2025-02-13 01:29:34 大连 112.42.27.228 登录
-
 2025-02-11 00:13:03 大连 112.42.27.228 登录
-
 2025-02-10 07:08:15 大连 175.171.178.60 登录
-
 2025-02-06 06:03:11 大连 112.42.27.228 登录
+```
 
 (其实也就是咸鱼啦.) (本来想改一下 bio, 让她加我社交网络, 作罢, 不妨随意一些.)
 
@@ -4302,31 +4291,11 @@ upd
 
 ---
 
-surfing berryberry
+surf berryberry
 
 "深圳顶级豪宅少爷，虽家缠万贯，却有一颗 100%的吊丝心"
 
 呵，我比他厉害多了，我是富一代，我自己努力，能一个月挣 2000，然后每天都能喝蜜雪冰城，甚至有时候一天两杯，就算偶尔想加小料也是毫不犹豫！[陆鳐 LuLu 表情包_prpr]
-
----
-
-"【重返未来 1999】萌新讲堂第一期：玩法 养成 账号规划建议 零基础全面入坑教学"
-
-哎二游这套养成真的玩不来，基本上市面上每个热门二游都开服入坑，慢慢就被养成系统劝退了，有这个时间我去多看几本书刷两部剧几部番几场电影不香吗？
-
-好复杂[笑哭]还是踏踏实实当局长吧[笑哭]老看到广告 画风也挺讨喜 就是看起来太难了
-
-高中我很喜欢玩方舟，高三退游一年，高考后就没耐心玩下去了，这游戏给我的感觉和方舟一样，很喜欢
-
-这游戏刚下载玩了，美术和英腔我能给一伯昏，过剧情时这是我少有不按跳过把每句配音都听完的游戏，但是到了战斗部分真的有点失望，Q 版小人加回合制实在是戳不到我。。现在的感觉就是想玩下去但又不想玩下去极其矛盾[辣眼睛]
-
-个人总结不喜勿喷
-玩法挺慢热的，节奏感觉和舟差不多，反正哥们在舟那已经把耐心磨出来了，边狱也磨了点出来，现在心态十分平和
-美术风格这块因人而异，我反正当初就是冲着美术预约的。英配一部分不错一部分捧读
-剧情演出虽然也是点击看剧情不过从剧情全配音（目前打到第二章还有）以及动态立绘来看已经能爆杀舟了
-战斗感觉还行，有录像看（代理指挥）。至于问首次作战没有自动的我只能呃呃了
-总结，这游戏看人
-很多差评除了真正深入了解过后的人之外大概就是开头二十分钟跳不了的剧情和引导啥的把初始号贩子和跟风抽卡晒卡卸游戏的整急了
 
 ---
 
@@ -4364,8 +4333,7 @@ surfing berryberry
 
 凌晨四点啦, arknights 比较聪明, 刷新 states, 不像 ba 是直接踢下线.
 
-(upd
-: 也不聪明, 还是要踢回主界面, 233333)
+(upd: 也不聪明, 还是要踢回主界面, 233333)
 
 ---
 
@@ -4373,8 +4341,7 @@ surfing berryberry
 
 "想要 x 角色, 就搜索 x 的狗"
 
-(upd
-: 一天后, 未果, 无人同意, 反而推荐的里面加了几个好友)
+(upd: 一天后, 未果, 无人同意, 反而推荐的里面加了几个好友)
 
 ---
 
@@ -4396,8 +4363,7 @@ retro: high school grade 1 term 1.
 
 "生", 即 fira.
 
-(upd
-: 打了个 ref tag, 很少用这个 tag, 这句话有概括性, 关于 f 的一段时光, hs g1t1)
+(upd: 打了个 ref tag, 很少用这个 tag, 这句话有概括性, 关于 f 的一段时光, hs g1t1)
 
 ---
 
@@ -4477,8 +4443,7 @@ f 在世界上的痕迹, 也会以 f 之名存档. nya~
 
 ---
 
-upd
-ated vscode to new version.
+updated vscode to new version.
 
 custom title bar is redundant, turned off.
 
@@ -4498,8 +4463,7 @@ copilot is useless, turned off.
 
 还关注了瓶子.
 
-(upd
-: unfollowed some of them, especially those voice seems old)
+(upd: unfollowed some of them, especially those voice seems old)
 
 ---
 
@@ -4746,7 +4710,7 @@ https://www.solidjs.com/docs#updating-stores
 
 `innerHTML/textContent` 经典吧! `@text` `@html`
 
-`/*@once*/` 厉害吧, 注释都有起语法作用了. 
+`/*@once*/` 厉害吧, 注释都有起语法作用了.
 
 ---
 
@@ -4759,6 +4723,16 @@ https://www.youtube.com/live/yO439rG5Otw
 啊啊啊! yuuki sakuna (revived)!
 
 play genshin impact as a beginner
+
+upd 20250328
+
+https://www.bilibili.com/video/BV1GpoUYrE7t
+
+【直播回放】原神初见！要去见芙宁娜了！ 2025 年 03 月 24 日 22 点场
+
+結城さくな的洋葱港
+
+2025-03-25 03:26:13
 
 ---
 
@@ -4872,11 +4846,11 @@ https://x.com/hsn8086/status/1905053490302648583
 趴来趴去的触手怪
 twitter@chshu1897838236
 169/135
-20岁，是烧鸡，除了推特暂时没有在其他地方发放图包
+20 岁，是烧鸡，除了推特暂时没有在其他地方发放图包
 
 `ref`
 
-unfollowed all mtfs and porn stars.
+unfollowed all porn stars and mtfs.
 
 these only make twitter recommendation worse.
 
@@ -4887,11 +4861,11 @@ these only make twitter recommendation worse.
 脑斧酱-聪明吧
 twitter @jingsheng237248 · 17h
 
-😭台词又…
+😭 台词又…
 
 ---
 
-目前在国内但凡有点上进心，弄得不好裤衩子都要赔进去，到处是坑，有人躺平玩了一年开销两万多，还有个人去年奋斗了一年亏了十几个W
+目前在国内但凡有点上进心，弄得不好裤衩子都要赔进去，到处是坑，有人躺平玩了一年开销两万多，还有个人去年奋斗了一年亏了十几个 W
 
 ---
 
@@ -4903,6 +4877,141 @@ bili 评论区有开盒的, 甚至用的是查企业手段, 不用 telegram.
 
 ---
 
-funshiki 评价开盒 (2023 网络实名制): 
+funshiki 评价开盒 (2023 网络实名制):
 
 就像中学生刚接触性知识, 喜欢拿这个说事. (精辟比喻)
+
+---
+
+fri 28 mar 21:00
+
+yuuki sakuna is on live!
+
+("22:00" on twitter is japan time)
+
+---
+
+(playing bs script)
+
+乱斗淘汰赛 5v5, 开局就送脚本. 居然给仙人掌干 901 杯了.
+
+逆天. 这就是近 50% 胜率的含金量, 队友祭天法力无边的模式.
+
+---
+
+downloaded ankidroid.
+
+dl top 1 result on ankiweb/japanese
+
+---
+
+registered instagram, @firascript
+
+---
+
+13:11 / 29 mar 2025
+
+记录一下每天日常使用多少时间.
+
+launch hi, learn jp on duolingo.
+
+那几个片假名长得真像啊...
+
+13:19
+
+launch hg, read ruanyf weekly
+
+13:29
+
+launch ba
+
+13:37
+
+launch ak
+
+13:46
+
+start ak auto battle.
+
+(看来, 半小时多就完成了每日任务呢.)
+
+14:00
+
+all done.
+
+run ak script.
+
+read ruanyf weekly.
+
+---
+
+又看一集. (lucky star)
+
+(发现 river 里面所有精确时间都被删去了. 不过是好事, 本就是无用信息.)
+
+---
+
+下载了王者荣耀. 玩了一晚上, 看不懂, 好复杂.
+
+无聊. 已经卸载了, 感觉不如荒野乱斗, 233333.
+
+把三角洲下载回来了.
+
+大战场反而无聊, 挺重复的.
+
+这个游戏偶尔玩一玩还是有意思的, 尤其摸金时候开麦聊天.
+
+想来是第三次入坑三角洲呢.
+
+---
+
+re-downloading girls band cry
+
+在 mikan project 上找到的链接, 原本选择了 ANi, 因为听过 (甚至 tg 上 follow 了 channel)
+
+后来发现这玩意, 字幕内嵌, 而且一集一个 torrent, 有的下完了, 有的没有, 不好做种啊.
+
+正在下载的版本: `nekomoe kissaten&lolihouse` 和 `sakurato`.
+
+---
+
+typo: change all "awkward" to "weird" in `memories` repo.
+
+the latter has closer meaning
+
+---
+
+finish downloading.
+
+[Nekomoe kissaten&LoliHouse] GIRLS BAND CRY [WebRip 1080p HEVC-10bit AAC ASSx2]
+
+---
+
+`ref`
+
+create "firavoyage" on every social network
+
+- - blogger `firavoyage`
+  - zhihu `firavoyage`
+  - cnblogs `fira`
+- - youtube `firavoyage`
+  - berryberry `fira_言序` `1156993272`
+  - acfun `忘我思考` `65210945`
+  - rednote & digdog & kwai `firavoyage`
+- - telegram `firavoyage`
+  - telegram group `voyagefira`
+  - telegram channel `firavoyagechan`
+- - bangumi.tv `firavoyage`
+  - reddit `u/firavoyage`
+  - baidu tieba `____f_____`
+  - v2ex `voy`
+  - instagram `firascript`
+  - twitter `firascript`
+  - mastodon `fira@techhub.social` `firavoyage@mastodon.social`
+  - bluesky `@firavoyage.bsky.social`
+  - discord `firavoyage`
+
+只有 digdog, kwai, rednote 是今天注册的.
+
+可是庸俗的社交网络呢. 不知道这是福是祸...
+

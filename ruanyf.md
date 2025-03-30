@@ -930,7 +930,7 @@ https://algorithm-visualizer.org/
 
 ![](https://cdn.beekka.com/blogimg/asset/202104/bg2021040302.jpg)
 
-该网站有各种常用算法的可视化演示。（[@CIPHER-D](https://github.com/ruanyf/weekly/issues/1710)  投稿）
+该网站有各种常用算法的可视化演示。（[@CIPHER-D](https://github.com/ruanyf/weekly/issues/1710)投稿）
 
 ## life without working in over developed country
 
@@ -3141,13 +3141,13 @@ This is much *noisier* --- it expresses the exact same concept but with over 6
 
 ![](https://cdn.beekka.com/blogimg/asset/202102/bg2021021410.jpg)
 
-一个通过单词的打字输入加强记忆的在线工具，可以选择词库。（[@dllen](https://github.com/ruanyf/weekly/issues/1642)  投稿）
+一个通过单词的打字输入加强记忆的在线工具，可以选择词库。（[@dllen](https://github.com/ruanyf/weekly/issues/1642)投稿）
 
 ---
 
 [Qwerty Learner VSCode](https://github.com/Kaiyiwing/qwerty-learner-vscode)
 
-VS Code 编辑器的插件，内置了各种英语单词的词库，供用户做打字练习，加强对单词的记忆。（[@Kaiyiwing](https://github.com/ruanyf/weekly/issues/1645)  投稿）
+VS Code 编辑器的插件，内置了各种英语单词的词库，供用户做打字练习，加强对单词的记忆。（[@Kaiyiwing](https://github.com/ruanyf/weekly/issues/1645)投稿）
 
 ## build your own x from scratch
 
@@ -3268,7 +3268,7 @@ JS total: 18562.100000023842ms (avg 928.1050000011921ms/call)
 
 ![](https://cdn.beekka.com/blogimg/asset/202102/bg2021022202.jpg)
 
-霍夫曼编码是经典的压缩算法，[GZIP](https://jvns.ca/blog/2015/02/22/how-gzip-uses-huffman-coding/)  就使用它。本文是我见过最简单的解释，可以在五分钟内理解这个算法的实现原理。
+霍夫曼编码是经典的压缩算法，[GZIP](https://jvns.ca/blog/2015/02/22/how-gzip-uses-huffman-coding/)就使用它。本文是我见过最简单的解释，可以在五分钟内理解这个算法的实现原理。
 
 ## opensource chess engine stockfish
 
@@ -3286,7 +3286,7 @@ JS total: 18562.100000023842ms (avg 928.1050000011921ms/call)
 
 [嘎 RSS!](https://github.com/zhaoolee/garss)
 
-使用免费的 GitHub Actions，定时抓取一系列 RSS 源，生成一个页面，还支持邮件通知。（[@zhaoolee](https://github.com/ruanyf/weekly/issues/1649)  投稿）
+使用免费的 GitHub Actions，定时抓取一系列 RSS 源，生成一个页面，还支持邮件通知。（[@zhaoolee](https://github.com/ruanyf/weekly/issues/1649)投稿）
 
 ---
 
@@ -3298,7 +3298,7 @@ https://zhaoolee.com/garss/
 
 ![](https://cdn.beekka.com/blogimg/asset/202105/bg2021050201.jpg)
 
-一个通过 GitHub Actions 自动更新的 RSS 阅读器，每次更新后会发布成 GitHub Pages 的静态网页。（[@chuanqisun](https://github.com/ruanyf/weekly/issues/1767)  投稿）
+一个通过 GitHub Actions 自动更新的 RSS 阅读器，每次更新后会发布成 GitHub Pages 的静态网页。（[@chuanqisun](https://github.com/ruanyf/weekly/issues/1767)投稿）
 
 ## bing wallpaper spider using github actions
 
@@ -3308,7 +3308,7 @@ https://zhaoolee.com/garss/
 
 ![](https://cdn.beekka.com/blogimg/asset/202103/bg2021030307.jpg)
 
-这个项目使用 GitHub Actions，收集 Bing 搜索引擎每天的壁纸，提供下载，详见[这篇说明文章](https://www.wdbyte.com/2021/03/bing-wallpaper-github-action/)。（[@niumoo](https://github.com/ruanyf/weekly/issues/1656)  投稿）
+这个项目使用 GitHub Actions，收集 Bing 搜索引擎每天的壁纸，提供下载，详见[这篇说明文章](https://www.wdbyte.com/2021/03/bing-wallpaper-github-action/)。（[@niumoo](https://github.com/ruanyf/weekly/issues/1656)投稿）
 
 ---
 
@@ -3390,13 +3390,13 @@ iPhone 12 的 A14 芯片，运算速度是 11 TFlOPS（每秒 11 万亿次）。
 
 美国歌手鲍勃-迪伦因为他的歌词，得到诺贝尔文学奖。"一个人要经历多少旅途，才能长大 / 一只鸽子要飞过多少海洋，才能看到沙滩 / 一门大炮要发射多少次，才有和平 / 我的朋友啊，答案就在风中飘荡"，成了一个时代的标志。要是他生在现在，到处是快餐文化，这种歌即使写出来，也不会有太大反响，最多就是在社交媒体上转发一阵子。
 
-音乐的黄金年代，其实是它稀缺的年代。  现在的音乐就像流水线上的产品，丰富到大家都不在乎了。歌手出一张专辑，跟发一条朋友圈差不多。
+音乐的黄金年代，其实是它稀缺的年代。现在的音乐就像流水线上的产品，丰富到大家都不在乎了。歌手出一张专辑，跟发一条朋友圈差不多。
 
 如果看得远一点，真正出大师的年代，是音乐更稀缺的时候。巴赫、贝多芬和莫扎特的年代，根本没有录音技术，想听音乐必须去现场。但是，偏偏那个年代出现了最伟大的音乐家，后世的技术提升了，却没人赶得上他们，这是为什么？
 
 我猜想，原因可能跟稀缺有关系。稀缺意味着竞争少，所有问题都没有解决，你可以探索各种可能性和解决方案，容易出大师，影响后世。顺便说一下，也许有人会问，为什么更早以前没有出现著名音乐家？因为欧洲人在 17 世纪才掌握了成熟的炼钢技术，可以制作钢丝琴弦，能够确定准确的音高了。
 
-稀缺年代不仅诞生大师，也会诞生大公司。  现在的科技大厂，都是新技术的早期诞生的。PC 的稀缺诞生了微软和苹果，互联网的稀缺诞生了 BAT，手机 App 的稀缺诞生了美团和字节跳动。等到不稀缺的时候，再想变成巨头就难了。
+稀缺年代不仅诞生大师，也会诞生大公司。现在的科技大厂，都是新技术的早期诞生的。PC 的稀缺诞生了微软和苹果，互联网的稀缺诞生了 BAT，手机 App 的稀缺诞生了美团和字节跳动。等到不稀缺的时候，再想变成巨头就难了。
 
 这告诉我们，如果你真想做一番大事，就应该投入那些刚刚开始发展、供给还很稀缺的领域。否则，想要成功就好像在互联网年代当一个歌手。
 
@@ -3652,7 +3652,7 @@ https://news.ycombinator.com/item?id=19715191
 
 ![](https://cdn.beekka.com/blogimg/asset/202104/bg2021042612.jpg)
 
-学习汇编的时候，观察到一个现象，C 语言的除法操作，编译得到的汇编代码是一条乘法指令。这是为什么？（[@cj1128](https://github.com/ruanyf/weekly/issues/1738)  投稿）
+学习汇编的时候，观察到一个现象，C 语言的除法操作，编译得到的汇编代码是一条乘法指令。这是为什么？（[@cj1128](https://github.com/ruanyf/weekly/issues/1738)投稿）
 
 ## personal blog design in windows 95 style
 
@@ -3684,7 +3684,7 @@ https://news.ycombinator.com/item?id=26845037
 
 `dev` `meme`
 
-[Telegram](https://telegram.org/blog/payments-2-0-scheduled-voice-chats)  真是一家很不一样的公司。它原来有一个 Web 客户端，最近一口气又发布了另外两个。现在，三个全功能的官方 Web 端同时运行（客户端[1](https://web.telegram.org/)、[2](https://webk.telegram.org/)、[3](https://webz.telegram.org/)），这是内部的前端程序员太多的意思吗。
+[Telegram](https://telegram.org/blog/payments-2-0-scheduled-voice-chats)真是一家很不一样的公司。它原来有一个 Web 客户端，最近一口气又发布了另外两个。现在，三个全功能的官方 Web 端同时运行（客户端[1](https://web.telegram.org/)、[2](https://webk.telegram.org/)、[3](https://webz.telegram.org/)），这是内部的前端程序员太多的意思吗。
 
 ![](https://cdn.beekka.com/blogimg/asset/202104/bg2021042701.jpg)
 
@@ -3694,7 +3694,7 @@ https://news.ycombinator.com/item?id=26845037
 
 [一天学习一个 npm 轮子](https://github.com/Haixiang6123/one-day-one-npm-lib)
 
-一个教程库，作者选了十几个常用的前端 JS 库，演示如何自己从头实现这些库。（[@Haixiang6123](https://github.com/ruanyf/weekly/issues/1742)  投稿）
+一个教程库，作者选了十几个常用的前端 JS 库，演示如何自己从头实现这些库。（[@Haixiang6123](https://github.com/ruanyf/weekly/issues/1742)投稿）
 
 ## a confused mid age programmer
 
@@ -3766,7 +3766,7 @@ https://news.ycombinator.com/item?id=27097719
 
 ![](https://cdn.beekka.com/blogimg/asset/202105/bg2021052201.jpg)
 
-谷歌出品的 CSS 教程，内容很丰富全面，一共有 24 课。（[@wxyudl](https://github.com/ruanyf/weekly/issues/1772)  投稿）
+谷歌出品的 CSS 教程，内容很丰富全面，一共有 24 课。（[@wxyudl](https://github.com/ruanyf/weekly/issues/1772)投稿）
 
 ## play chess online
 
@@ -3826,7 +3826,7 @@ https://github.com/you-dont-need/You-Dont-Need-JavaScript
 
 ![](https://cdn.beekka.com/blogimg/asset/202106/bg2021060912.jpg)
 
-这个工具可以将你在各种网站上的活动记录，生成 GitHub 方块热力图或 skyline 图。（[@yihong0618](https://github.com/ruanyf/weekly/issues/1790)  投稿）
+这个工具可以将你在各种网站上的活动记录，生成 GitHub 方块热力图或 skyline 图。（[@yihong0618](https://github.com/ruanyf/weekly/issues/1790)投稿）
 
 ## free environmental sounds
 
@@ -3836,7 +3836,7 @@ https://github.com/you-dont-need/You-Dont-Need-JavaScript
 
 ![](https://cdn.beekka.com/blogimg/asset/202105/bg2021052409.jpg)
 
-该网站是一个社区，全世界志愿者上传自己收集的环境音，目前已经有50万种环境音。中国的环境音也有不少，比如[北京的公交车](https://freesound.org/people/nslkc/sounds/100206/)、[火车通过铁路道口](https://freesound.org/people/RTB45/sounds/151807/)。
+该网站是一个社区，全世界志愿者上传自己收集的环境音，目前已经有 50 万种环境音。中国的环境音也有不少，比如[北京的公交车](https://freesound.org/people/nslkc/sounds/100206/)、[火车通过铁路道口](https://freesound.org/people/RTB45/sounds/151807/)。
 
 ## docs with material design
 
@@ -3856,7 +3856,7 @@ https://github.com/you-dont-need/You-Dont-Need-JavaScript
 
 ![](https://cdn.beekka.com/blogimg/asset/202106/bg2021061201.jpg)
 
-苹果一年一度的优秀 App 评选（Apple Design Awards） ，6大类12个获奖者，可以视为官方的 App 推荐。
+苹果一年一度的优秀 App 评选（Apple Design Awards） ，6 大类 12 个获奖者，可以视为官方的 App 推荐。
 
 ---
 
@@ -3880,13 +3880,219 @@ https://news.ycombinator.com/item?id=27333260
 
 https://old.reddit.com/r/ExperiencedDevs/comments/nmodyl/drunk_post_things_ive_learned_as_a_sr_engineer/
 
+## enhanced project management on github
+
+`app` `panel` `design`
+
+[GitHub](https://github.com/features/issues)大幅改版 issue 功能，由原来的讨论区，转变为项目管理工具，提供了看板视图和表格视图（下图），大大增加了 issue 的任务属性。
+
+![](https://cdn.beekka.com/blogimg/asset/202106/bg2021062406.jpg)
+
+![](https://cdn.beekka.com/blogimg/asset/202106/bg2021062407.jpg)
+
+历史上，GitHub 的项目管理功能一直很弱，现在终于开始补强了，Jira 应该会瑟瑟发抖吧。
+
+## panorama virtual tour with threejs, css3d and pano2vr
+
+`js` `guide`
+
+[三种前端实现 VR 全景看房方案](https://juejin.cn/post/6973865268426571784)（中文）
+
+![](https://cdn.beekka.com/blogimg/asset/202106/bg2021062408.jpg)
+
+某品牌要搭建一个在线 VR 展厅，用户可以在手机上通过陀螺仪或者拖动来 360 度全景参观展厅，前端有三个方案可以实现。
+
+---
+
+https://www.bilibili.com/video/BV1bf4y1t7QE/
+
+## clouds on the planet mars
+
+`art`
+
+[火星的云](https://petapixel.com/2021/06/02/nasas-mars-curiosity-rover-captures-rare-photos-of-shimmering-clouds/)是什么样子？
+
+美国好奇号火星车传回了照片，人类第一次看见了另一个星球上的云。由于火星大气层很薄，所以火星没有很厚的云，都是一些很轻很薄的云絮。
+
+![](https://cdn.beekka.com/blogimg/asset/202106/bg2021060316.jpg)
+
+![](https://cdn.beekka.com/blogimg/asset/202106/bg2021060317.jpg)
+
+## awesome list tracker
+
+`app` `feed` `ref` `dev` `story`
+
+[Track Awesome List](https://www.trackawesomelist.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202106/bg2021063001.jpg)
+
+这个网站收集 GitHub 上的 awesome 项目，追踪每个清单的更新，可以及时查看每天新增哪些资源。（[@theowenyoung](https://github.com/ruanyf/weekly/issues/1822)投稿）
+
+---
+
+https://github.com/trackawesomelist/trackawesomelist/
+
+## blog about what you ve struggled with
+
+`dev` `career` `ref`
+
+[我为什么公开发表博客文章？](https://jvns.ca/blog/2021/05/24/blog-about-what-you-ve-struggled-with/)
+
+八年来，我在个人网站上发布了 100 多篇文章。有人问我，为什么一直坚持在写？
+
+我想了想，写作博客其实对我有很多好处，所以我才会有动力。
+
+（1）它使得我把学到的东西记录下来了，便于回过头查找，重新温习！
+
+（2）当我写作时，为了理清思路，我经常会有新的疑问，从而去做一些额外的研究，这意味着写作博客让我在某个主题上学到了更多！
+
+（3）认真花时间把自己的写法写出来，并放到互联网上，这迫使你思考自己写的东西是否有意义，从而发现哪些题目是真的有价值。
+
+（4）文章发布以后，会有很多读者反馈，通常可以帮助我改进写作，学习新知识。
+
+（5）我的文章可以帮助其他人！我写文章通常是因为遇到一个很困难的问题，经过探索终于找到了答案，我就把这个答案写出来，其他人遇到类似情况就可以参考，这让我感觉很好。
+
+## why beginners prefer watching to reading
+
+`career` `view`
+
+本周话题：视频学习胜过读书吗？
+
+现在，网上的课程视频和讲座视频，越来越多。同样的内容，可以读书学习，也可以视频学习，大家喜欢哪一种？
+
+![](https://cdn.beekka.com/blogimg/asset/202107/bg2021070802.jpg)
+
+我比较喜欢读书，实在没耐心视频学习。
+
+书籍只要随手一翻，就知道大概的内容了，哪些章节需要重点阅读。视频行吗？不行，只能从头到尾，看完整个视频。看完才发现，10 分钟的视频，只有 1 分钟是想听的。读书读到精彩之处，可以停下来慢慢琢磨，反复读上几遍。视频行吗？很麻烦，如果要回到 10 秒前，多拖几次播放轴，保证让你心情烦躁。
+
+![](https://cdn.beekka.com/blogimg/asset/202107/bg2021070708.jpg)
+
+奇怪的是，我发现，很多人宁愿看视频，也不想读书。
+
+举例来说，我遇到过同学跟我说：老师，我想学习 React，你有好的视频教程推荐吗？你可以看文档啊，官方文档写得不错。老师，我觉得视频学起来更快，文档不好懂，看起来太慢了。
+
+我感到很困惑，明明是读书的学习效率比较高，为什么别人不这样想呢？
+
+![](https://cdn.beekka.com/blogimg/asset/202107/bg2021070709.jpg)
+
+最近，我读到一篇[文章](https://samoburja.com/the-youtube-revolution-in-knowledge-transfer/)，里面有一句话，让我恍然大悟，明白了为什么人们喜欢视频学习。
+
+文章说，人类学习效率最高的方式，不是"读书 + 思考"，而是"观察 + 模仿"。前者需要较长时间的注意力投入，后者只需要短时间注意力，更符合人类的天性。
+
+我一下子就想通了，有些知识，读书读半天也不一定明白，但是亲眼看别人做一遍，马上就能懂。即使不完全懂，至少知道怎么模仿。所以才会有"百闻（文）不如一见"，人们更容易接受形象的东西，而不是抽象的文字。
+
+![](https://cdn.beekka.com/blogimg/asset/202107/bg2021070710.jpg)
+
+大部分领域的入门方式，都是"观察和模仿"，所以视频学习更有效。对于深入学习，文字和书籍的效果可能好于视频，因为入门以后再往上走，"理解 + 思考"的作用越来越大，"观察 + 模仿"的作用越来越小。但是，大多数人需要的只是入门，成为专业工作者毕竟是少数。
+
+所以，视频学习才是初学者更好的方式，或者说，视频是大众学习的主流，读书更适用于某个主题的进阶学习。
+
+以前没条件视频学习，现在不一样了。智能手机的普及，使得以前没人拍的知识，现在都有人拍；宽带互联网的普及，又使得人们可以随时随地消费视频。我们已经进了视频学习的时代，视频网站可能是新时代的图书馆和印刷机。
+
+## card based note taking app flomo
+
+`app` `text`
+
+[Flomo](https://flomoapp.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202107/bg2021070808.jpg)
+
+一款卡片式笔记软件，界面非常清爽，有跨平台多种客户端，支持多端自动同步。（[@RangeChoi](https://github.com/ruanyf/weekly/issues/1821) 投稿）
+
+## visual css animation generator
+
+`app` `css`
+
+[Animista](https://animista.net/)
+
+![](https://cdn.beekka.com/blogimg/asset/202107/bg2021070806.jpg)
+
+一个网页 CSS 动画工具，可自由配置各种动画特效，并生成代码。（[@fish-404](https://github.com/ruanyf/weekly/issues/1824) 投稿）
+
+## drawing board in fluid style
+
+`app` `image`
+
+[Fluid Paint](https://david.li/paint/)
+
+![](https://cdn.beekka.com/blogimg/asset/202106/bg2021062206.jpg)
+
+一个网页画板工具，可以定制笔刷，产生刷油漆的流体效果，非常精美，值得一玩。
+
+## choice questions of the weird javascript
+
+`js` `dev` `meme`
+
+[古怪的 JavaScript](https://jsisweird.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202106/bg2021062807.jpg)
+
+这个网站给出了25道选择题，测试你对 JavaScript 的古怪语法点了解多少。
+
+## linus torvalds on america society
+
+`society` `view`
+
+[Linus 谈美国](https://www.tag1consulting.com/blog/interview-linus-torvalds-open-source-and-beyond-part-2)
+
+Linux 操作系统的创始人 Linus Torvalds，最近在一次访谈里面，谈到了他为什么会移居美国，以及对美国的印象。
+
+![](https://cdn.beekka.com/blogimg/asset/202106/bg2021060704.jpg)
+
+（1）为什么来美国？
+
+我1997年离开芬兰，搬家到了美国。
+
+那时我还很年轻，有一家创业公司邀请我来美国。该公司从事的就是在 80386 体系上面开发 Linux 系统，这正是我非常熟悉的领域。他们做的事情也非常有趣，所以我就来了。
+
+当时的芬兰非常注重高科技，但以手机技术为主。诺基亚就是芬兰的公司，那时是世界最大的手机公司，也是芬兰最大的公司。
+
+我对手机不感兴趣，那时的手机还没有变成小型计算机，人们只能用它打电话。美国看起来似乎很有趣，我和妻子以及我们当时10 周大的女儿搬到了这里。
+
+当你刚有第一个孩子，就搬家到另一个国家，并且周围没有家人朋友，这可能不太明智。但是，我们那时还年轻，抱着不妨一试的态度，一切就都很顺利。
+
+我还记得那年二月份搬家时的情景，离开时赫尔辛基很冷，大约零下 20°C，当我们达到旧金山机场，天气晴朗温暖宜人，气温是零上20°C。
+
+（2）美国是怎样的国家？
+
+美国的生活很有趣，这些年我已经把美国当成自己的家。当然，我还是很想念芬兰的一些地方。美国的问题是，它的教育系统是一场灾难。你必须搬到正确的地区，才能进入好的小学或中学，如果你要上一所好大学，就要支付多到疯狂的钱。这是美国的一种耻辱。美国的医疗系统也有问题。另外，美国的政治已经从"有点奇怪"，变成了彻头彻尾的可怕。芬兰都没有这些问题。
+
+美国也有很多优势，不仅仅是天气。我们后来从加州搬到了俄勒冈州波特兰，这里的天气不像湾区那么好，但还是比芬兰好很多。我们在美国待了这么长时间，我们的孩子不会说芬兰语，我和我妻子都来自芬兰的讲瑞典语的少数民族，所以我们在家里说瑞典语。我们在这里已经有很多朋友和各种社会关系。在美国，只要你有一份好工作，你就可以在很大程度上忽略美国社会的失败。
+
+我们考虑过搬回芬兰吗？有那么几次确实想搬。首先是孩子们小学开学的时候。然后是孩子们开始上中学时，接着是上大学时。你看到里面的规律了吗？、
+
+要是特朗普再次当选美国总统，我大概也会考虑搬走。总的来说，美国的政治让我感到担忧，美国至上论和民族主义的兴起，令人感到悲伤和可怕。尤其是那些拥护者从来没有国外生活经历，根本不知道自己在谈论什么。
+
+美国在很多方面都是一个可爱的国家，也是一个非常多样化的国家，拥有许多不同的文化和人群，以及自然风光。我喜欢这一点。事实上，如果我要搬回芬兰，对我来说最困难的部分可能就是这个。芬兰是一个非常友善、理智和安全的国家，但它也是一个非常小的国家，而且非常单一化。
+
+特朗普当总统时，你经常可以看到挂着美国国旗的巨大卡车，那些没有受过教育的人高喊着"美国第一"、"美国伟大"，这让人很困扰。
+
+有时甚至是受过教育的人，也相信这点。我的家庭医生坚信美国的医疗制度是世界最好的，但他从来没在其他国家生活的，拒绝承认其他国家实际上拥有更好的医疗制度。是的，他是特朗普的支持者。
+
+不要误会我的意思。民族主义无处不在，包括欧洲，甚至包括芬兰，但它的美国版本似乎确实有毒。
+
+老实说，这也是我住在西海岸的原因之一。俄勒冈州基本上非常自由，你肯定不会经常看到那些支持特朗普的旗帜。
+
+（3）家庭生活
+
+我的家庭生活相当正常。我有三个女儿，但她们年纪大了，大部分都飞走了。最小的还在上大学，暑假回家。二女儿正在读研究生，暑假不回家。大女儿在东海岸工作。我们仍然尝试全家一起度假，但去年的疫情让这一切没法实现。
+
+所以这些天，家里主要就是我和妻子，还有两只狗和一只猫。我已经接种了第一剂疫苗，离第二次疫苗接种还有几周的时间。再过几个月，我会再次去潜水，期待着恢复稍微正常一点的生活。
+
+## what an innovative and competitive society should be
+
+`society` `view`
+
+我从第三世界国家搬到欧洲，发现欧洲人都被宠坏了。西欧国家的生活质量非常高，国家提供各种福利，生活轻松到让你丧失抱负。更不要提拖拖拉拉的官僚主义，以及各种要求严格的法规，只会把小公司赶出市场。
+
+一个创新和竞争的社会，需要非常灵活的工作法规、追求高速增长的企业家、不轻松的生活方式，以及具有抱负的劳动者。
+
+-- [Hacker News 读者](https://news.ycombinator.com/item?id=27514512)对《欧洲的软件问题》一文的留言
+
 ##
 
 
-
-##
-
-##
 
 ##
 

@@ -240,9 +240,8 @@
   - internet archive wayback machine & archive.today
   - google & chatgpt & deepseek & gemini & mistral le chat
   - youtube & berryberry & acfun & niconico & vtbs.moe & hololist
-  - old reddit & zhihu & nga bbs & forum.gamer.com.tw & baidu tieba & twitter
-  - bangumi.tv & my anime list & mikan project & bgmlist & dmhy.org
-  - douban & imdb & genius & poetry foundation & art of problem solving
+  - old reddit & zhihu & twitter & instagram & nga bbs & baidu tieba & forum.gamer.com.tw & discord
+  - douban & imdb & bangumi.tv & my anime list & bgmlist & mikan project & dmhy.org & nyaa.si & acg.rip & bangumi.moe
   - e hentai & 9 hentai & tsumino & hitomi.la & vndb & shinnku galgame
   - pixiv & danboru & deviantart & dribbble & unsplash
   - steam db & itch.io & google doodles & emoji db
@@ -368,7 +367,7 @@
     - obs-studio 30.0.2
     - pdfarranger 1.10.1
     - powdertoy 98.2.365
-    - qbitorrent-arnatious 4.3.9
+    - qbitorrent 5.0.3
     - retroarch 1.19.1
     - shotcut 24.11.17
     - telegram-desktop 4.16.8
@@ -378,6 +377,7 @@
     - virtualbox 7.0.16
     - vlc 3.0.20
   - - aegis-authenticator 3.3.4
+    - ankidroid 2.17.6
     - antennapod 3.1.2
     - bilimiao 2.3.8.3
     - bubeidanci 5.8.8
@@ -546,6 +546,7 @@
 - `blogging/config` geek
 - `blogging/lights` learner
 - `blogging/notes` librarian
+- `blogging/fira` youtuber
 - `blogging/pure` tutor
 - `blogging/...` developer
 - `memories/perspective` surfer
@@ -566,21 +567,24 @@
   - duolingo `firavoyage`
   - chess.com `firavoyage`
 - - blogger `firavoyage`
+  - zhihu `firavoyage`
   - cnblogs `fira`
-  - wordpress `_`
-  - medium `_`
-- - telegram & discord `firavoyage`
-  - telegram channel `_`
-  - youtube `_`
+- - youtube `firavoyage`
   - berryberry `fira_言序` `1156993272`
   - acfun `忘我思考` `65210945`
-  - bangumi.tv `firavoyage`
-  - v2ex `voy`
+  - rednote & digdog & kwai `firavoyage`
+- - telegram `firavoyage`
+  - telegram group `voyagefira`
+  - telegram channel `firavoyagechan`
+- - bangumi.tv `firavoyage`
   - reddit `u/firavoyage`
   - baidu tieba `____f_____`
+  - v2ex `voy`
+  - instagram `firascript`
   - twitter `firascript`
   - mastodon `fira@techhub.social` `firavoyage@mastodon.social`
   - bluesky `@firavoyage.bsky.social`
+  - discord `firavoyage`
 - - email `firavoyage@outlook.com`
   - alternatives `firafira@duck.com` `xoyage@gmail.com` `devvhy@zoho.com.cn` `firav@qq.com`
 
@@ -634,3 +638,5 @@
 > 有时会恍惚吧. 就想象着世界随着 f 的心意转变. 像天气. 感知天气, 其实就是心情. 比如看东西入神. 风停, 人琐碎, 言语也疏离. 往来的人, 都看不到五官, 就像没有画一样, 虚焦的肤色. 像知识, 工具, 或许不够优雅吧. 想象里, 会舒服许多. 有时候想象会很清晰, 就想取一些草稿, 画出来, 或者列出来. 喜欢的话, 就去复现想象. 心情会好呢.
 
 > 世界有许多解读. f 选择喜欢的. 如果说, 学习, 追逐学历. 其实压力会很大, 而且功利: 为什么 f 要把自己放在被审视的位置, 允许人只因为 f 的学历而认可自己. 竞争固是好的, 那只是享受压制人的快意, 如同电子竞技一般. 更多时候, f 是喜欢整理归档的. 整理房间, 归档网络收藏. 学习更可能是这样吧.
+
+> f 的学校里平均前十的学生, 五年后会飞得多高... fira 会飞得多高?
