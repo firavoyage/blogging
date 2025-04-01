@@ -18,7 +18,7 @@
 > _foresight_
 
 - write voyagejs
-- read mathematics olympiad series
+- write math guide
 - read physics guide & create wiki
 - read chemistry guide & create wiki
 - read geography guide & create wiki
@@ -33,6 +33,26 @@
 
 - watch lucky star
 - watch evangelion
+- watch girls band cry
+
+> _enlightenment_
+
+- categorize zhihu favorites
+- write math guide
+- write cpp guide
+- create video guides using pre
+- summarize project features
+- create project badges
+
+> _drift_
+
+- read mathematics, no 2 secondary school attached to ecnu
+- read mathematical olympiad series
+- read physics guide & create wiki
+- read chemistry guide & create wiki
+- read geography guide & create wiki
+- memorize japanese vocabulary on anki
+- memorize english vocabulary at leisure
 
 > _endeavour_
 
@@ -45,37 +65,22 @@
 - write material app
 - write para app
 
-> _enlightenment_
-
-- summarize project features
-- create project badges
-- write math guide
-- write cpp guide
-- create video guides using pre
-
 > _diversion_
 
 - play bs
-- play sr events
-- play hi events
 - play hg events
+- play hi events
+- play sr events
+- read ba stories
 - create origami works
 - play senrenbanka
 
-> _drift_
-
-- read mathematics olympiad series
-- memorize english vocabulary
-- read physics guide & create wiki
-- read chemistry guide & create wiki
-- read geography guide & create wiki
-
 > _rest_
 
+- listen to jazz
 - surf zhihu
 - watch simplelive
 - play antennapod
-- listen to jazz playlist
 - sync phone
 
 ## 20250317
@@ -85,7 +90,7 @@
 - read ruanyf weekly archive
 - write voyagejs
 - write math guide
-- read mathematics olympiad series
+- read mathematical olympiad series
 - read physics notes & create wiki
 - read chemistry notes & create wiki
 - read geography notes & create wiki
@@ -129,7 +134,7 @@
 
 > _drift_
 
-- read mathematics olympiad series
+- read mathematical olympiad series
 - memorize english vocabulary
 - read physics notes & create wiki
 - read chemistry notes & create wiki
@@ -149,7 +154,7 @@
 
 - read ruanyf weekly archive
 - write voyagejs
-- read mathematics olympiad series
+- read mathematical olympiad series
 - write math guide
 - watch evangelion
 
@@ -193,7 +198,7 @@
 
 > _drift_
 
-- read mathematics olympiad series
+- read mathematical olympiad series
 - memorize english vocabulary
 - read physics notes & create wiki
 - read chemistry notes & create wiki

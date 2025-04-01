@@ -1119,6 +1119,10 @@ for(i 1 10 j 10 100){A} //for(let i=1;i<=10;i++){for(let j=10;i<=100;j++){A}}
 
 ## channels
 
+### `awesome`
+
+> navigation site backed by awesome lists
+
 ### `gamerf`
 
 > about the traveller and the trailblazer
@@ -1155,7 +1159,7 @@ for(i 1 10 j 10 100){A} //for(let i=1;i<=10;i++){for(let j=10;i<=100;j++){A}}
   - promise of playboy
   - old ocean tubber
 
-## `imaginary`
+### `imaginary`
 
 > desired urban street shops
 
@@ -1170,7 +1174,7 @@ for(i 1 10 j 10 100){A} //for(let i=1;i<=10;i++){for(let j=10;i<=100;j++){A}}
 - inspired by
   - grocery markets
 
-## `fira`
+### `fira`
 
 > math & dev
 

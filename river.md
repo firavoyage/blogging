@@ -90,6 +90,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `17` 20250108
 - `18` 20250315
 - `19` 20250329
+- `20` 20250401
 
 ### evangelion
 
@@ -5015,3 +5016,70 @@ create "firavoyage" on every social network
 
 可是庸俗的社交网络呢. 不知道这是福是祸...
 
+发了个新视频. 就是一些动漫磁力链接聚合网站的收集.
+
+视频一分钟多, 没花什么时间, 也没什么期望.
+
+注册, 编辑账号信息倒是花了不少时间, 2333333.
+
+---
+
+`ref`
+
+bs script 跑了一晚上.
+
+打三人吃鸡, 左右踏步, 自动攻击放大.
+
+给 stu 干 1007 杯了. 逆天啊.
+
+upd: 从上午打到下午, rt 995 (max 1033) 杯了.
+
+这个 bs script 真太爽了, 比人打 nb 啊, 简单暴力.
+
+upd: 愚人节, 早上起来一看, leon max 1103 杯 了. 真厉害啊.
+
+之前一直想要上 1k 杯, 积累进度拿宝箱, 最后竟然被 script bot 拿下了, 有点意思.
+
+还是得益于三人吃鸡的机制吧, 两队加分, 一队平, 一队输, 比 50% 胜率的淘汰赛都厉害.
+
+---
+
+got this
+
+https://www.learnui.design/blog/tips-signup-login-ux.html
+
+(Do you take issue with me calling EULA checkboxes “privacy theater”? Well, 99% of the time I’ve clicked that I’ve read the terms and conditions, I’ve been lying. And my guess is other users are in a similar boat. And when we live in a world where everyone is lying 99% of the time, that is, indeed, theater)
+
+---
+
+voyagejs api 开工!
+
+ba, 看 tsubaki 好感剧情.
+
+---
+
+found this
+
+https://www.zhangxinxu.com/wordpress/2021/01/css-simplified-traditional-chinese/
+
+> 后来（後來）、皇后（皇后），理发后发财（理髮后發財），干部和干爹不相干（幹部和乾爹不相干）
+
+---
+
+new clickbait titles found
+
+我朋友在暗网买到的中配鬼灭，大家帮忙看看是不是正版
+
+全是情感，没有技巧的配音是什么样的
+
+---
+
+`ref`
+
+on voyagejs
+
+apr 01 2025, fira 终于写完了 voyagejs 新版本
+
+这次是完全重构呢. 虽然没啥用, 但是感觉很有成就感.
+
+或许以后的 web dev 会用上 voyagejs.

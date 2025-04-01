@@ -45,7 +45,6 @@
   - reading & life size waifu pillow
   - origami & pixel art & gardening
   - math & algorithms & unixporn & mtf & virtualyoutubers & xkcd
-  - keyboard cat & henri, le chat noir & mugumogu maru
   - functional programming & web dev & rust
   - dark style & night light & low brightness & tranquility
   - attention & observation
@@ -250,6 +249,29 @@
   - codeforces & atcoder & luogu & libre oj
   - cnblogs & travellings.cn & foreverblog.cn & travel.moe & google reader
   - eu.org & cloudflare & netlify & vercel & deno & glitch
+- - ace taffy
+  - akira kogami
+  - chtholly
+  - funshiki
+  - henri, le chat noir
+  - hitori gotoh
+  - kagura mea
+  - kasuga tsubaki
+  - kasugano sora
+  - keyboard cat
+  - konata izumi
+  - minami iwasaki
+  - minato aqua
+  - miyuki takara
+  - mugumogu maru
+  - nahida
+  - nina iseri
+  - origami birds
+  - seren azuma
+  - snack life
+  - sparkle
+  - wanderer above the sea of fog
+  - yuuki sakuna
 - - ubuntu yaru
   - material design 2 & 3
   - iphone os 6

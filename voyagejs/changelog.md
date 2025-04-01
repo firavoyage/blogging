@@ -368,8 +368,13 @@
   - list component ref array counts and boolean isAscended
   - counter component has a prop count, which is created by pointer
 
-## 0.34
+## 0.34 20250401
 
+- style: remove `lib.use`
+  - fp is good, but oop is ok
+- style: remove `lib.is` `lib.isnt`
+  - `==` is ok (no type issue)
+  - `===` is used rarely, when where could be type issue
 - refactor!: `ui = f(states)` and test driven dev
   - props and states are the same thing, as `p`
   - make the whole api simpler and remove most legacy code
@@ -391,6 +396,21 @@
     - https://docs.solidjs.com/guides/state-management
     - https://docs.solidjs.com/guides/complex-state-management
     - https://docs.solidjs.com/guides/fetching-data
+- feat: `e(effect, dependencies)`
+  - one param: track dependencies, and subscribe it
+    - store `prevSubscriber`
+    - define `subscriber` and run effect fn
+    - reset to `prevSubsciber` (for nested effect)
+  - two param (empty dep array): run once on mounting
+  - two param (not empty dep array): run when any dep changes
+  - effect can returns a cleanup fn
+  - ref https://docs.solidjs.com/advanced-concepts/fine-grained-reactivity
+- feat: `render(component, props)`
+- feat: `run(component, selector)`
+
+## 0.35
+
+- feat: `h()`
 - feat: `m(memo, dependencies)`
   - one param: track dependencies, and subscribe it
     - store `prevSubscriber`
@@ -399,26 +419,12 @@
   - two param: run when any dep changes
   - stores the value `memo` returns
   - ref https://docs.solidjs.com/advanced-concepts/fine-grained-reactivity
-- feat: `e(effect, dependencies)`
-  - one param: track dependencies, and subscribe it
-    - store `prevSubscriber`
-    - define `subscriber` and run effect fn
-    - reset to `prevSubsciber` (for nested effect)
-  - two param (empty dep array): run once on mounting
-  - two param (not empty dep array): run when any dep changes
-  - ref https://docs.solidjs.com/advanced-concepts/fine-grained-reactivity
-- feat: `show(when, element, ...cases)`
+- feat: `show(when, element, ...otherwise)`
 - feat: `each(list, template, key)`
-- feat: `fragment(...elements)`
-- feat: `context`
-  - create a named context, and store some props
-  - no need to lift state up (to a "global" component or "App") 
 - feat: `batch(operations)`
   - batch operations, create a set of effect, the same effect only run once
 - feat: macro `@ref: state`
   - assign the element to the state on creation
-- feat: lifecycle fn `mount()` `cleanup()`
-  - lifecycle fn
 - feat: `route`
   - ref https://docs.solidjs.com/guides/routing-and-navigation
 - feat: macro `@style`

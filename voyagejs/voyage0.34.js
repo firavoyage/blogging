@@ -2,10 +2,10 @@
  * @file
  * voyage framework
  *
- * this version is developed during 20250401 ~ (utc+8)
+ * this version is developed during 20250321 ~ 20250401 (utc+8)
  *
  * @author firavoyage
- * @version 0.35
+ * @version 0.34
  * @since 0.1 initiated on 20240806
  * @see changelog.md
  */
@@ -231,9 +231,7 @@ let voyage = {
       return result.join("");
     };
   },
-  h() {
-    
-  },
+  h() {},
   /**
    * @typedef {object} Element
    * @prop {string|function} type - node or component
