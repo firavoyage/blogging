@@ -415,6 +415,7 @@
   - for fn like `fn(){if(return) else(return)}` `else` is ommited
 - feat: `e(effect, when)`
 - feat: `h()` `h(html)` `@html`
+- feat: `@value`
 - feat: `m(memo, dependencies)`
   - one param: track dependencies, and subscribe it
     - store `prevSubscriber`
@@ -423,6 +424,10 @@
   - two param: run when any dep changes
   - stores the value `memo` returns
   - ref https://docs.solidjs.com/advanced-concepts/fine-grained-reactivity
+- fix: new dependencies are welcomed
+  - subscribe dependencies not only in the first run
+  - for both effect and memo
+- todo:
 - feat: `show(when, element, ...otherwise)`
 - feat: `each(list, template, key)`
 - feat: `batch(operations)`

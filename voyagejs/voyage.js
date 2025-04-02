@@ -152,7 +152,6 @@ let voyage = {
   info: {
     props: {},
     subscriber: false,
-    prevSubscriber: false,
     lifecycle: {
       created: [],
       shown: [],
@@ -207,20 +206,53 @@ let voyage = {
     const { info } = voyage;
     const { check } = voyage.lib;
     let cleanup;
-    const runEffect = () => {
+
+    const apply = () => {
+      const prevSubscriber = info.subscriber;
+      info.subscriber = apply;
+
       if (check(cleanup, "function")) {
         cleanup();
       }
       cleanup = effect();
+
+      info.subscriber = prevSubscriber;
     };
 
     when = check(when) ? when : "created";
-    info.lifecycle[when].push(() => {
-      info.prevSubscriber = info.subscriber;
-      info.subscriber = runEffect;
-      runEffect();
-      info.subscriber = info.prevSubscriber;
-    });
+    info.lifecycle[when].push(apply);
+  },
+  m(memo) {
+    const { info } = voyage;
+    let value;
+    let subscribers = new Set();
+
+    const update = () => {
+      value = compute();
+      for (const _ of subscribers) {
+        _();
+      }
+    };
+    const compute = () => {
+      const prevSubscriber = info.subscriber;
+      info.subscriber = update;
+      value = memo();
+      info.subscriber = prevSubscriber;
+      return value;
+    };
+
+    value = compute();
+
+    const result = () => {
+      if (info.subscriber) {
+        subscribers.add(info.subscriber);
+      }
+      return value;
+    };
+    result.subscribe = (_) => {
+      subscribers.add(_);
+    };
+    return result;
   },
   t(...template) {
     const { each } = voyage.lib;
@@ -474,6 +506,7 @@ let examples = {
     const { count } = p({ count: 0 });
     const doubled = m(() => count() * 2);
     const quadrupled = m(() => doubled() * 2);
+
     return [
       [
         "button",
