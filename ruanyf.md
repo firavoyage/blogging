@@ -4154,17 +4154,53 @@ https://www.tannerv.com/ipod
 
 -- [《亚马逊的文档文化》](https://www.justingarrison.com/blog/2021-03-15-the-document-culture-of-amazon/)
 
+## vertical browser tabs like binders
+
+`design`
+
+一位设计师[提出](https://twitter.com/neilsardesai/status/1416527160794361868)，浏览器的窗口标签应该可以改变位置，放置在浏览器的左右两侧，就像活页夹一样。
+
+![](https://cdn.beekka.com/blogimg/asset/202107/bg2021071801.jpg)
+
+我觉得，这种设计对宽屏幕显示器很有意义。
+
+## the worst volume control ui in the world
+
+`design` `meme`
+
+[最糟糕的音量控制界面](https://uxdesign.cc/the-worst-volume-control-ui-in-the-world-60713dc86950)（英文）
+
+![](https://cdn.beekka.com/blogimg/asset/202107/bg2021071414.jpg)
+
+本文收集各种极其难用的音量控制界面设计，有点恶作剧性质，比如上图。
+
+## mac setup for dev
+
+`dev` `guide`
+
+[Mac 电脑如何设置开发环境（2021版）](https://www.swyx.io/new-mac-setup-2021/)（英文）
+
+![](https://cdn.beekka.com/blogimg/asset/202107/bg2021070716.jpg)
+
+一个程序员买了新的 Mac 电脑，用于全栈开发。他详细记录了，如何将这台电脑设置成开发环境。
+
+---
+
+https://www.swyx.io/new-mac-setup
+
+## pintch deck hunt
+
+`info` `story`
+
+[Pitch Deck Hunt](https://www.pitchdeckhunt.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202107/bg2021071002.jpg)
+
+创业公司向投资者和用户介绍自己的 PPT，叫做 Pitch Deck。该网站收集了150多家著名公司早期的 Pitch Deck，可以用来当作模板。
+
 ##
 
 
-
-##
-
-##
-
-##
-
-##
 
 ##
 

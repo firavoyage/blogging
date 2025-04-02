@@ -13,6 +13,76 @@
 
 > things, not timetable.
 
+## 20250402
+
+> _foresight_
+
+- write voyagejs
+- read physics guide & create wiki
+- read chemistry guide & create wiki
+- read geography guide & create wiki
+- write math guide
+
+> _dawn_
+
+- learn japanese on duolingo
+- return homes in hi ba ak
+- read ruanyf weekly archive
+
+> _night_
+
+- watch lucky star
+- watch girls band cry
+- watch evangelion
+
+> _enlightenment_
+
+- categorize zhihu favorites
+- summarize project features
+- write math guide
+- write cpp guide
+- create video guides using pre
+- create project badges
+
+> _drift_
+
+- read mathematics, no 2 secondary school attached to ecnu
+- read mathematical olympiad series
+- read physics guide & create wiki
+- read chemistry guide & create wiki
+- read geography guide & create wiki
+- memorize japanese vocabulary on anki
+- memorize english vocabulary at leisure
+
+> _endeavour_
+
+- write voyagejs
+- design component libraries
+- write pre app
+- write leisure app
+- write eat app
+- write float app
+- write material app
+- write para app
+
+> _diversion_
+
+- play bs
+- play hg events
+- play hi events
+- play sr events
+- read ba stories
+- create origami works
+- play senrenbanka
+
+> _rest_
+
+- listen to jazz
+- surf zhihu
+- watch simplelive
+- play antennapod
+- sync phone
+
 ## 20250327
 
 > _foresight_

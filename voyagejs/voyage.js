@@ -153,7 +153,10 @@ let voyage = {
     props: {},
     subscriber: false,
     prevSubscriber: false,
-    pending: [],
+    lifecycle: {
+      created: [],
+      shown: [],
+    },
   },
   p(defaultProps) {
     const { info } = voyage;
@@ -200,7 +203,7 @@ let voyage = {
 
     return new Proxy({}, handler);
   },
-  e(effect) {
+  e(effect, when) {
     const { info } = voyage;
     const { check } = voyage.lib;
     let cleanup;
@@ -210,7 +213,9 @@ let voyage = {
       }
       cleanup = effect();
     };
-    info.pending.push(() => {
+
+    when = check(when) ? when : "created";
+    info.lifecycle[when].push(() => {
       info.prevSubscriber = info.subscriber;
       info.subscriber = runEffect;
       runEffect();
@@ -231,8 +236,20 @@ let voyage = {
       return result.join("");
     };
   },
-  h() {
-    
+  h(html) {
+    const { check } = voyage.lib;
+
+    if (check(html)) {
+      return ["div", { "@html": html }];
+    }
+
+    const handler = {
+      get(_, tag) {
+        return (...props) => [tag, ...props];
+      },
+    };
+
+    return new Proxy({}, handler);
   },
   /**
    * @typedef {object} Element
@@ -262,10 +279,10 @@ let voyage = {
         } else {
           element.content.push({ type: item });
         }
-      } else if (check(item, "object")) {
-        element.labels = item;
       } else if (check(item, Array)) {
         element.content.push(compile(item));
+      } else if (check(item, "object")) {
+        element.labels = item;
       }
     }
     if (!element.type) {
@@ -280,73 +297,96 @@ let voyage = {
    */
   create(element) {
     const { create, render, e } = voyage;
-    const { check } = voyage.lib;
+    const { check, has } = voyage.lib;
 
     if (check(element.type, "function")) {
+      // it's a component or a prop
       const { type, labels } = element;
       return render(type, labels);
-    } else if (check(element.type, "string")) {
-      let node = document.createElement(element.type);
+    }
 
-      const { labels } = element;
-      for (const label in labels) {
-        const value = labels[label];
-        if (label == "class" && check(value, Array)) {
-          e(() => {
-            for (const _ of value) {
-              if (check(_, "function")) {
-                node.classList.add(_());
-              } else {
-                node.classList.add(_);
-              }
-            }
-          });
-        } else if (label == "style" && check(value, "object")) {
-          for (const _ in value) {
-            if (check(value[_], "function")) {
-              e(() => {
-                node.style[_] = value[_]();
-              });
+    let node = document.createElement(element.type);
+
+    const { labels } = element;
+    for (const label in labels) {
+      const value = labels[label];
+      if (label == "class" && check(value, Array)) {
+        e(() => {
+          for (const _ of value) {
+            if (check(_, "function")) {
+              node.classList.add(_());
             } else {
-              node.style[_] = value[_];
+              node.classList.add(_);
             }
           }
-        } else if (label[0] == "@") {
-          const event = label.slice(1);
-          if (event == "ref") {
-            value(node);
-          } else {
-            node.addEventListener(event, value);
-          }
-        } else {
-          if (check(value, "function")) {
+        });
+      } else if (label == "style" && check(value, "object")) {
+        for (const _ in value) {
+          if (check(value[_], "function")) {
             e(() => {
-              node.setAttribute(label, value());
+              node.style[_] = value[_]();
             });
           } else {
-            node.setAttribute(label, value);
+            node.style[_] = value[_];
           }
         }
-      }
-
-      for (const child of element.content) {
-        if (check(child, "string")) {
-          node.appendChild(document.createTextNode(element.content));
-        } else if (check(child, "object")) {
-          const _ = document.createComment("");
-          node.appendChild(_);
+      } else if (label[0] == "@") {
+        const event = label.slice(1);
+        const macros = {
+          ref() {
+            value(node);
+          },
+          html() {
+            node = document.createComment("");
+            e(() => {
+              let html = document.createElement("_");
+              node.parentNode.insertBefore(html, node);
+              html.outerHTML = check(value, "function") ? value() : value;
+              return () => html.remove();
+            }, "shown");
+          },
+          value() {
+            e(() => {
+              node.value = value();
+              node.addEventListener("input", () => {
+                value(node.value);
+              });
+            });
+          },
+        };
+        if (has(macros, event)) {
+          macros[event]();
+        } else {
+          node.addEventListener(event, value);
+        }
+      } else {
+        if (check(value, "function")) {
           e(() => {
-            let childNode = create(child);
-            if (check(childNode, "string")) {
-              childNode = document.createTextNode(childNode);
-            }
-            _.parentNode.insertBefore(childNode, _);
-            return () => childNode.remove();
+            node.setAttribute(label, value());
           });
+        } else {
+          node.setAttribute(label, value);
         }
       }
-      return node;
     }
+
+    for (const child of element.content) {
+      if (check(child, "string")) {
+        node.appendChild(document.createTextNode(element.content));
+      } else if (check(child, "object")) {
+        const _ = document.createComment("");
+        node.appendChild(_);
+        e(() => {
+          let childNode = create(child);
+          if (check(childNode, "string")) {
+            childNode = document.createTextNode(childNode);
+          }
+          _.parentNode.insertBefore(childNode, _);
+          return () => childNode.remove();
+        });
+      }
+    }
+    return node;
   },
   render(component, props) {
     const { info, compile, create } = voyage;
@@ -359,17 +399,23 @@ let voyage = {
     } else if (check(template, Array)) {
       element = compile(template);
       node = create(element);
-      for (const _ of info.pending) {
+      for (const _ of info.lifecycle.created) {
         _();
       }
-      info.pending = [];
+      info.lifecycle.created = [];
       return node;
     }
   },
   run(app, on) {
-    const { render } = voyage;
+    const { info, render } = voyage;
+
     const parent = document.querySelector(on);
     parent.appendChild(render(app));
+
+    for (const _ of info.lifecycle.shown) {
+      _();
+    }
+    info.lifecycle.shown = [];
   },
 };
 
@@ -385,6 +431,13 @@ let examples = {
     return ["img", { src, alt: t`${name} dancing` }];
   },
   Html() {
+    const { p, h } = voyage;
+    const { html } = p({
+      html: `here's some <strong>HTML!!!</strong>`,
+    });
+    return h(html);
+  },
+  HtmlEffect() {
     const { p, e } = voyage;
     const { html, parent } = p({
       html: `here's some <strong>HTML!!!</strong>`,
@@ -398,9 +451,9 @@ let examples = {
     const { p } = voyage;
     const { count } = p({ count: 0 });
     return [
-      ["button", { "@click": () => count(count() - 1) }, "-"],
+      ["button", { "@click": () => count(+count() - 1) }, "-"],
       ["input", { type: "text", "@value": count }],
-      ["button", { "@click": () => count(count() + 1) }, "+"],
+      ["button", { "@click": () => count(+count() + 1) }, "+"],
     ];
   },
   Counter() {
@@ -542,3 +595,7 @@ let examples = {
 voyage.run(examples.Html, "body");
 
 voyage.run(examples.Counter, "body");
+
+voyage.run(examples.LegacyCounter, "body");
+
+voyage.run(examples.DerivedCounter, "body");

@@ -44,7 +44,7 @@
   - calendar & wall clock
   - reading & life size waifu pillow
   - origami & pixel art & gardening
-  - math & algorithms & unixporn & mtf & virtualyoutubers & xkcd
+  - math & algorithms & unixporn & mtf & virtualyoutubers & xkcd & ruozhiba
   - functional programming & web dev & rust
   - dark style & night light & low brightness & tranquility
   - attention & observation
@@ -234,16 +234,15 @@
   - y combinator startup podcast (y combinator)
   - yitianshijie (li ruyi)
   - yixi (yixi)
-- - wikipedia & miraheze & fandom & moegirl.icu & oi wiki & mdn web docs
-  - the pirate bay & z library & anna's archive
+- - google & chatgpt & deepseek & gemini & mistral ai
+  - wikipedia & miraheze & fandom & wotaku.wiki & moegirl.icu & oi wiki
   - internet archive wayback machine & archive.today
-  - google & chatgpt & deepseek & gemini & mistral le chat
   - youtube & berryberry & acfun & niconico & vtbs.moe & hololist
   - old reddit & zhihu & twitter & instagram & nga bbs & baidu tieba & forum.gamer.com.tw & discord
-  - douban & imdb & bangumi.tv & my anime list & bgmlist & mikan project & dmhy.org & nyaa.si & acg.rip & bangumi.moe
-  - e hentai & 9 hentai & tsumino & hitomi.la & vndb & shinnku galgame
-  - pixiv & danboru & deviantart & dribbble & unsplash
-  - steam db & itch.io & google doodles & emoji db
+  - douban & imdb & bangumi.tv & my anime list & bgmlist & mikan project & nyaa.si & dmhy.org
+  - pixiv & deviantart & civitai & e hentai & dribbble & unsplash
+  - steam db & itch.io & google doodles & vndb & shinnku galgame
+  - the pirate bay & z library & anna's archive
   - github trending & hacker news & product hunt & v2ex & dev.to
   - ruanyf weekly & tw93 weekly & gamedevjs weekly & codepen spark
   - codeforces & atcoder & luogu & libre oj
@@ -251,6 +250,7 @@
   - eu.org & cloudflare & netlify & vercel & deno & glitch
 - - ace taffy
   - akira kogami
+  - azi azusa
   - chtholly
   - funshiki
   - henri, le chat noir
@@ -280,8 +280,6 @@
   - nord theme
   - monokai pro
   - atom one dark
-  - nes.css
-  - maia.css
   - just black chromium
 - - ar pl ukai
   - dejavu serif

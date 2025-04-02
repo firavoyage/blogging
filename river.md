@@ -5042,6 +5042,8 @@ upd: 愚人节, 早上起来一看, leon max 1103 杯 了. 真厉害啊.
 
 还是得益于三人吃鸡的机制吧, 两队加分, 一队平, 一队输, 比 50% 胜率的淘汰赛都厉害.
 
+upd: 02 apr. 一觉醒来, carl max 1048
+
 ---
 
 got this
@@ -5083,3 +5085,27 @@ apr 01 2025, fira 终于写完了 voyagejs 新版本
 这次是完全重构呢. 虽然没啥用, 但是感觉很有成就感.
 
 或许以后的 web dev 会用上 voyagejs.
+
+---
+
+`ref`
+
+(on school life, pure project)
+
+fired from school.
+
+终于不用上学校的课程了, 听也听不懂的.
+
+从高一重新开始听空中课堂. (& work on pure project)
+
+身边有立达中学的铃声 (和物语系列一样的钟声), 好怀念啊.
+
+---
+
+ns2 发布会, 太有乐子了. 轮椅, 手柄, 扣篮. 什么地狱笑话
+
+---
+
+看 twitter community: 墙外弱智吧
+
+ruozhiba 好耶!

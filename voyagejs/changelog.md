@@ -407,10 +407,14 @@
   - ref https://docs.solidjs.com/advanced-concepts/fine-grained-reactivity
 - feat: `render(component, props)`
 - feat: `run(component, selector)`
+- feat: `@ref`
 
 ## 0.35
 
-- feat: `h()`
+- style: remove some indentation
+  - for fn like `fn(){if(return) else(return)}` `else` is ommited
+- feat: `e(effect, when)`
+- feat: `h()` `h(html)` `@html`
 - feat: `m(memo, dependencies)`
   - one param: track dependencies, and subscribe it
     - store `prevSubscriber`
