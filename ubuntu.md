@@ -375,7 +375,6 @@ sudo apt install gnome-shell-extension-prefs
   - code runner `formulahendry.code-runner`
   - rust-analyzer `rust-lang.rust-analyzer`
   - fold `felicio.vscode-fold`
-  - markdownlint `davidanson.vscode-markdownlint`
 - config appearance
   - -> `view > appearance`
   - custom titlebar `off`
@@ -409,18 +408,6 @@ sudo apt install gnome-shell-extension-prefs
       "cpp": "cd $dir && g++ \"$filename\" -o \"$filenamewithoutext\" && \"$dir$filenamewithoutext\"",
       // "python": "python -u",
       "python": "python3 -u",
-    }
-    ```
-  - markdownlint (-> `settings.json`)
-    ```json
-    "markdownlint.config": {
-        "MD034": false,
-        "MD026": false,
-        "MD012": false,
-        "MD024": false,
-        "MD031": false,
-        "MD045": false,
-        "MD028": false,
     }
     ```
 - config user snippets

@@ -238,16 +238,14 @@
   - wikipedia & miraheze & fandom & wotaku.wiki & moegirl.icu & oi wiki
   - internet archive wayback machine & archive.today
   - youtube & berryberry & acfun & niconico & vtbs.moe & hololist
-  - old reddit & zhihu & twitter & instagram & nga bbs & baidu tieba & forum.gamer.com.tw & discord
+  - old reddit & hacker news & zhihu & twitter & v2ex & nga bbs & baidu tieba & forum.gamer.com.tw & github trending & product hunt
+  - ruanyf weekly & tw93 weekly & gamedevjs weekly & codepen spark
   - douban & imdb & bangumi.tv & my anime list & bgmlist & mikan project & nyaa.si & dmhy.org
   - pixiv & deviantart & civitai & e hentai & dribbble & unsplash
   - steam db & itch.io & google doodles & vndb & shinnku galgame
   - the pirate bay & z library & anna's archive
-  - github trending & hacker news & product hunt & v2ex & dev.to
-  - ruanyf weekly & tw93 weekly & gamedevjs weekly & codepen spark
   - codeforces & atcoder & luogu & libre oj
-  - cnblogs & travellings.cn & foreverblog.cn & travel.moe & google reader
-  - eu.org & cloudflare & netlify & vercel & deno & glitch
+  - travellings.cn & foreverblog.cn & travel.moe
 - - ace taffy
   - akira kogami
   - azi azusa
@@ -330,7 +328,6 @@
       - mdbook 0.4.47
   - - wakatime.vscode-wakatime 24.9.2
     - yzhang.markdown-all-in-one 3.6.2
-    - davidanson.vscode-markdownlint 0.59.0
     - xabikos.javascriptsnippets 1.8.0
     - nathanchapman.javascriptsnippets 0.4.0
     - dbaeumer.vscode-eslint 3.0.10

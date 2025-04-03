@@ -66,6 +66,8 @@
   - danmaku
   - comment flow
   - author & date & page index
+- extensions
+  - mindmap
 - custom styling
   - delete line as low opacity
 - export to

@@ -4178,7 +4178,7 @@ https://www.tannerv.com/ipod
 
 `dev` `guide`
 
-[Mac 电脑如何设置开发环境（2021版）](https://www.swyx.io/new-mac-setup-2021/)（英文）
+[Mac 电脑如何设置开发环境（2021 版）](https://www.swyx.io/new-mac-setup-2021/)（英文）
 
 ![](https://cdn.beekka.com/blogimg/asset/202107/bg2021070716.jpg)
 
@@ -4188,19 +4188,116 @@ https://www.tannerv.com/ipod
 
 https://www.swyx.io/new-mac-setup
 
-## pintch deck hunt
+## apps are going subscription based
 
-`info` `story`
+`dev` `career` `history`
 
-[Pitch Deck Hunt](https://www.pitchdeckhunt.com/)
+本周话题：软件订阅制的胜利
 
-![](https://cdn.beekka.com/blogimg/asset/202107/bg2021071002.jpg)
+上周，苹果公司最新一季的财报，披露了一个惊人的[数据](https://www.pymnts.com/earnings/2021/apple-paid-subscriptions-hit-700m-up-150m-since-last-year/)：它有  7 亿   付费订阅用户。
 
-创业公司向投资者和用户介绍自己的 PPT，叫做 Pitch Deck。该网站收集了150多家著名公司早期的 Pitch Deck，可以用来当作模板。
+![](https://cdn.beekka.com/blogimg/asset/202108/bg2021080103.jpg)
+
+这太可怕了。世界总人口目前大约是 78 亿，里面包含了小孩、老人、文盲、穷人。即使把他们都算在内，全世界每 11 个人里面，就有一个人购买苹果公司的软件服务。软件生意还能做得比这更大吗？
+
+注意，这是付费用户，不是免费用户。作为比较，阿里巴巴上周也[宣布](https://finance.sina.com.cn/tech/2021-07-27/doc-ikqciyzk7987897.shtml)，它有 10 亿活跃用户，但那是免费用户。如果每月付费才能使用淘宝，不知还有多少能留下来。
+
+苹果的付费订阅服务，目前主要有六项。
+
+> - iCloud：存储服务
+> - Apple Music：音乐服务
+> - Apple TV：视频服务
+> - Apple News：新闻服务
+> - Apple Fitness：健身服务
+> - Apple Arcade：游戏服务
+
+苹果把它们打包在一起，做成了一个 Apple One 订阅包。7 亿订阅用户应该就是购买这些服务的人数。至于硬件质保的 Apple Care 服务，可能不包括在里面，因为它属于硬件销售收入，而不是软件收入。
+
+![](https://cdn.beekka.com/blogimg/asset/202108/bg2021080104.jpg)
+
+今天我想谈的，并不是这些服务本身，而是想提醒大家注意。  世界最大的一些软件公司，正在改变软件销售模式，不再销售软件本体了，而是收取软件服务的订阅费。  苹果只是其中一个典型的例子。
+
+除了苹果，世界最大的桌面软件商----微软公司也正在改成订阅制。它的 Office 已经变成了 Office365 服务，都在云端使用，个人版的价格是每年 398 元人民币。它还有计划在今年下半年，推出  [Windows365](https://www.microsoft.com/en-us/windows-365)  服务，把 Windows 也变成云服务，按年收费。
+
+![](https://cdn.beekka.com/blogimg/asset/202108/bg2021080401.jpg)
+
+Adobe 公司更是在几年前，就把自己的所有产品都变成了订阅制，单单一个 PhotoShop，一年的订阅价格是 888 元人民币。
+
+![](https://cdn.beekka.com/blogimg/asset/202108/bg2021080402.jpg)
+
+我认为，  软件订阅制是未来的趋势。  因为这对于软件公司很有利，销售软件从一次性收入变成了经常性收入，能够产生稳定的现金流。只要用户使用，就必须付费，连续使用就必须连续付费。而且，有了订阅制，总能让用户使用软件的最新版，软件公司就不必为支持旧版本烦恼了。
+
+对于用户来说，相对就不那么有利。以前只要购买了软件，就可以一直用下去，现在则是只能用一个月或一年。用得越久，费用越高，甚至可能产生对它的依赖。曾经有过例子，用户使用 PhotoShop 编辑照片，保存为 Adobe 专有格式，过了一阵子再想打开，只能再次订阅 PhotoShop。
+
+除了软件，只要是可以长期消费的东西，似乎也在向订阅制转变。最近有[新闻](https://www.ft.com/content/54fd50fe-f15f-47c0-965d-797573c5ec9c)，教科书巨头培生（Pearson）推出了  [Pearson+ 服务](https://plc.pearson.com/en-US/our-products-and-services/pearson-plus)，美国学生以每月 14.99 美元的价格订阅其所有 1,500 种教材的电子版，可以搜索、做笔记、听有声版、专家咨询等等。
+
+![](https://cdn.beekka.com/blogimg/asset/202108/bg2021080403.jpg)
+
+总之，  凡是可以数字化的商品，未来可能都会变成订阅制。  大家会习惯，每月像付电费那样，支付各种服务订阅费。
+
+## rust to wasm tutorial
+
+`dev` `guide`
+
+[Rust 和 WebAssembly](https://rustwasm.github.io/docs/book/introduction.html)
+
+![](https://cdn.beekka.com/blogimg/asset/202107/bg2021070301.jpg)
+
+一本免费阅读的英文教程，介绍如何用 Rust 语言开发 WebAssembly 程序。
+
+## public api lists
+
+`dev` `info`
+
+[Public API Lists](https://github.com/public-api-lists/public-api-lists)
+
+这个 GitHub 仓库收集了各种专供软件开发使用的免费 API。
+
+## why developers are giving up their own opensource projects
+
+`dev` `view`
+
+[开发者为什么放弃自己的开源项目？](https://web.archive.org/web/20220504163222/https://ersei.saggis.com/en/blog/free-software-and-freakonomics)
+
+大部分的开源软件，是个人开发者创建的。其中能够长期维护的少之又少，绝大部分项目最终都会被放弃。
+
+下面是一个不完全列表，列出了开发者放弃自己的开源项目的主要原因。从中你就可以知道，个人维护一个长期项目有多难。
+
+1）该项目是免费的，因此没有金钱激励来让开发者继续工作。
+
+2）使项目跟上最新的技术进展，非常困难和耗时。
+
+3）开发者对这个项目感到厌烦，不想继续做了，因为最早只是出于好玩，或为了学校作业而开发的。
+
+4）项目已经失控，变得太大了，很难维护。
+
+5）该项目的主要用户是不太懂计算机的人，每天有大量的、愚蠢的、缺乏耐心的支持请求。
+
+6）出现了更好的替代方案。
+
+7）开发者之间的摩擦，导致主要贡献者离开。
+
+8）开发者的优先事项，从项目转移到其它事情上面，比如结婚有了小孩。
+
+9）项目的代码质量很差，导致维护和重构困难。
+
+10）开发者决定把项目卖给其他人。
+
+11）一种新技术出现了，使得该项目过时了。
+
+## every line of code is debt
+
+`dev` `quote`
+
+每一行代码都是一种负担。如果增加代码行数，就会增加你的责任。
+
+--[《创业公司生存指南》](https://blog.kalvad.com/surviving-guide-for-a-tech-startup/)
 
 ##
 
 
+
+##
 
 ##
 
