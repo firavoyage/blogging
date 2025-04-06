@@ -4937,3 +4937,12 @@ lucky star ep 22. 真好啊, 幻想.
 lucky star! 明天是最后一集啦.
 
 "all good things."
+
+---
+
+apr 6.
+
+去点都德吃完午饭, 回家就 15 点了. 明天吃方便面, 简单.
+
+花了一个下午整理 git/memories
+
