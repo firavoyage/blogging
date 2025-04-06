@@ -37,7 +37,6 @@
 
 > _enlightenment_
 
-- categorize zhihu favorites
 - write math guide
 - write cpp guide
 - create video guides using pre

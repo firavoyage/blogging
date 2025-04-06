@@ -4940,9 +4940,14 @@ lucky star! 明天是最后一集啦.
 
 ---
 
+`ref`
+
 apr 6.
 
 去点都德吃完午饭, 回家就 15 点了. 明天吃方便面, 简单.
 
-花了一个下午整理 git/memories
+花了一个下午整理 git/memories/blog. 删除琐碎不重要的回忆, 重命名一些文件.
 
+晚上准备改一下 projects.md, weekly 上已经删了.
+
+然后 categorize zhihu favorites, 多删除, 少整理.
