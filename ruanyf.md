@@ -4465,11 +4465,25 @@ https://ciechanow.ski/archives/
 
 -- [维基百科](https://en.wikipedia.org/wiki/Frequency_illusion)
 
+## university infomation survey
+
+`weather` `info` `misc` `ref` `essay`
+
+[一些大学的生活质量](https://github.com/CollegesChat/university-information)
+
+收集全国各高校招生时不会写明，却会实实在在影响大学生活质量的要求与细节
+
+---
+
+https://colleges.chat/
+
+---
+
+(college life.md)
+
 ##
 
 
-
-##
 
 ##
 
