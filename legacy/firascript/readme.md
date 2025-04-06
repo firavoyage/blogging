@@ -1,0 +1,3 @@
+# firascript
+
+-> projects.md -> firascript
