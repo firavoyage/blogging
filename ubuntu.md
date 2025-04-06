@@ -430,7 +430,7 @@ sudo apt install gnome-shell-extension-prefs
     - toggle extensions `ctrl shift x`
     - _toggle panel_ `ctrl alt p`
     - toggle problems panel `ctrl shift m`
-    - toggle terminal panel ``ctrl ` ``
+    - toggle terminal panel `` ctrl `  ``
   - zoom perspective
     - _shirnk all (fold all)_ `ctrl shift s`
     - _shrink code (fold)_ `ctrl s` `ctrl shift [`
@@ -523,6 +523,7 @@ sudo apt install gnome-shell-extension-prefs
   - ref https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls
     > github no longer supports password. personal access token or ssh needed.
 - config gitlab
+  - allow force push (remove protected branch) https://gitlab.com/username/project/-/settings/repository#js-protected-tags-settings
   ```sh
   git remote add l https://username:password@gitlab.com/username/project.git
   ```
@@ -629,7 +630,7 @@ sudo apt install gnome-shell-extension-prefs
 - config account
   - username `f`
   - password `firafira`
-- config 
+- config
   - transparent proxy/system proxy `same as the rule port`
   - traffic splitting mode of rule port `proxy only gfwlist`
 - config proxy nodes

@@ -166,6 +166,7 @@
 > all things awesome
 
 - categories
+  - social media creator
   - personal blog
   - community
   - resource
