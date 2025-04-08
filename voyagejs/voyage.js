@@ -314,6 +314,7 @@ let voyage = {
     });
     return [_];
   },
+  each(list, template, key){},
   insert(node, sibling) {
     const { check } = voyage.lib;
     if (check(node, "string")) {

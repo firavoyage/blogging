@@ -645,7 +645,9 @@ sudo apt install gnome-shell-extension-prefs
       - https://raw.githubusercontent.com/mksshare/mksshare.github.io/main/README.md
     - https://github.com/chengaopan/AutoMergePublicNodes
       - https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.txt
-  - mirrors of github raw
+  - github raw mirrors
+    - ref https://www.7ed.net/gitmirror/hub.html
+    - proxy.v2gh.com/https://raw.githubusercontent.com/
     - raw.staticdn.net
     - raw.gitmirror.com
     - githubraw.com
@@ -653,12 +655,12 @@ sudo apt install gnome-shell-extension-prefs
     - raw.kkgithub.com
     - raw.fastgit.org
   - sites of freemium nodes
-    - https://ikuuu.one/ https://ikuuu.top/ find@ikuuu.pro
-  - tools for converting between clash and v2ray subscriptions
+    - https://ikuuu.one/ (ikuuu.top) (find@ikuuu.pro)
+  - converter from clash to v2ray subscription
     - https://clash.rokeyyan.com/
     - https://v2.v2rayse.com/clash-convert/
     - https://github.com/tindy2013/subconverter
-  - library for building custom proxy
+  - custom proxy site builder
     - https://github.com/Anankke/SSPanel-Uim
 
 ## `thunderbird`
