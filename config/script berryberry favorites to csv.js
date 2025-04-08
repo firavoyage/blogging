@@ -1,6 +1,6 @@
-//source https://github.com/AHCorn/Bilibili-To-Raindrop
+// source https://github.com/AHCorn/Bilibili-To-Raindrop
 
-var delay = 500; //request interval (ms)
+var delay = 500; // request interval (ms)
 var gen = listGen();
 var csvContent = "\uFEFF";
 csvContent += "folder,title,url\n";

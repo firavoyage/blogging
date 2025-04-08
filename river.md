@@ -69,6 +69,10 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `1..12` oct 2023
 - `1` `2` `7` `10` `11` `12` 20241014 (rewatch)
 
+### worldend
+
+- `1..12` 20240310
+
 ### lucky star
 
 - `1` 20241022
@@ -94,6 +98,8 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `21` 20250403
 - `22` 20250405
 - `23` 20250406
+- `24` 20250408
+- `ova` 20250408
 
 ### evangelion
 
@@ -108,6 +114,10 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `9` 20250213
 - `10` 20250223
 - `11` 20250307
+
+### girls band cry
+
+- `1` .
 
 ## gaming
 
@@ -4951,3 +4961,130 @@ apr 6.
 晚上准备改一下 projects.md, weekly 上已经删了.
 
 然后 categorize zhihu favorites, 多删除, 少整理.
+
+---
+
+duolingo 跳级咯! 
+
+一个单元好多重复的练习, 感觉也是题海战术啊...
+
+---
+
+整理 zhihu fav, 结果发现竟然不能导出存档... (github 上没有好脚本)
+
+`ref`
+
+twitter 取关了一堆 dev & design 内容, 
+
+留下了发 meme 的, hsn, 脑斧酱... 那才是我喜欢的 zhihu.
+
+lucky star 明天再看, 最后一集和 ova.
+
+---
+
+(on school life)
+
+想起周致远.
+
+"这个 antenna 我一查还是六级词汇" 
+
+("2333 我还查过这个词, 因为我用的一个播客软件...")
+
+"这个 dia, 既指 diagram 又指 diamond..."
+
+---
+
+apr 7
+
+duolingo, jumped to unit 7!
+
+"describe belongings"
+
+(学会跳级之后, 感觉那个题海好无聊啊, 就是撑天数的 2333)
+
+---
+
+surfing... found https://www.bilibili.com/video/BV1b79gYSEEC/
+
+“现在的重要问题是，可以不得奖，但是家长把一个男孩送进学校里，四年之后出去的也必须是个男孩。”
+——CCPC教练群
+
+我们的这个竞赛群啊浓度比动漫社的群高，教练的理想怕是不好办（
+
+---
+
+改动 favorites, 在 zhihu 和 berryberry.
+
+fantasy 说的是奇幻, 所有三次元的故事都不应该在此. 
+
+联立 fantasy 和 weather 的应该很少.
+
+fantasy, 最开始收藏的都是 "真原神", if 线剧情的.
+
+weather, 最开始收藏的都是 otaku desk & room tour.
+
+---
+
+`ref`
+
+qq 又违规了, 这玩意检测也是非常厉害了.
+
+第二次违规了, 也是验证真实身份.
+
+果然, 扫个脸就给过了. 真是无聊的机制, 专防简中人了.
+
+upd: 脑瘫 qq, 风控真严格.
+
+在 acmer.info 加了一堆群, 然后就被限制了. 只能用小号加了.
+
+效果就是不能加群, 自动不通过, 提交申请的群主收不到, 验证正确回答的显示 "加群失败".
+
+233333. 太逆天了. 切了小号, 果然搞定.
+
+取消注销之前的号了, 现在 f 有三个小号. 
+
+那个过于久远的号, 上面有 icss 前端交流, 有信友队, b 站果子狸... 一堆涉嫌违规, 已被停用的.
+
+"wangeditor" "csdn blog". 之前个性签名还是原神的 "少年人的梦想, 踏上...".
+
+看了眼 blog.csdn 的群, 不活跃了. 里面 mod 好几个短 qq 号.
+
+有一个 5 位, 一个 6 位 qq 号, 名字都是 "曲终人散".
+
+jiangtao, 7 位 qq, csdn 老板, qq 空间里还有 20 周年庆, 2014 年 csdn 公式年会照片, 2012 年转发自腾讯微博.
+
+jiaoyangceo, 之前在 biwen.csdn 上面 spam, 骗钱的时候, 他还加过我微信, 用的这个号, 不过 qq 上好像显示的 "张杨".
+
+还看到了 "客服 红月", 之前 csdn 上面乱搞, 找客服解封, 忘了, 还是 "提交 issue", 记得有这个人.
+
+---
+
+apr 8, lucky star fin. (今晚把 ova 也看了吧. 不知道 ova 是什么意思呢...)
+
+fin!
+
+upd: found this https://www.reddit.com/r/Animesuggest/comments/yc1lpu/what_is_ova/
+
+OVA = original video animation
+
+03:04, 看完 ova 了. 蓝底, 白色 izumi, "2008 作品".
+
+---
+
+吃 instant noodles, 手法笨拙喵.
+
+---
+
+"少年 jump" 太火了. (什么地狱笑话)
+
+---
+
+apr 8, duolingo jumped to section 1 unit 8.
+
+一个单元就上了两节课, 就直接跳级啦! (之前慢吞吞的笨死了喵, 明明会了的说).
+
+---
+
+`ref`
+
+找到了一个 zhihu favorites export 脚本, (反正添加到 blogging 了).

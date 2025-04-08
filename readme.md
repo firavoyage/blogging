@@ -41,15 +41,43 @@
   - chenpi
   - huamei
 - - jazz & lofi & hiphop & downtempo & classical
-  - calendar & wall clock
-  - reading & life size waifu pillow
+  - calendar & wall clock & life size waifu pillow
   - origami & pixel art & gardening
-  - math & algorithms & unixporn & mtf & virtualyoutubers & xkcd & ruozhiba
-  - functional programming & web dev & rust
+  - math & algorithms & unixporn & rust & mtf & virtualyoutubers & xkcd & ruozhiba
+  - functional programming & web dev
   - dark style & night light & low brightness & tranquility
   - attention & observation
   - arrangement & accumulation
   - cynicism & dissociation & inner speech & second person omniscient narration
+- - ace taffy
+  - azi azusa
+  - chen zhe aya
+  - chtholly
+  - funshiki
+  - henri, le chat noir
+  - hitori gotoh
+  - hsn8086
+  - jingsheng237248
+  - kagura mea
+  - kasuga tsubaki
+  - kasugano sora
+  - keyboard cat
+  - kkksc03
+  - konata izumi
+  - matikane tannhauser
+  - minami iwasaki
+  - minato aqua
+  - mirekintoc
+  - miyuki takara
+  - mugumogu maru
+  - nahida
+  - nina iseri
+  - origami birds
+  - seren azuma
+  - snack life
+  - sparkle
+  - wanderer above the sea of fog
+  - yuuki sakuna
 - - hotel california (eagles)
   - wind of change (scorpions)
   - scarborough fair (sarah brightman)
@@ -81,7 +109,7 @@
   - one last kiss (hikaru utada)
   - ymca (village people)
   - never gonna give you up (rick astley)
-  - internet overdose (aiobahn & kotoko & needy girl overdose)
+  - internet overdose (aiobahn & kotoko)
   - sky (beyond)
   - you my deskmate (gao xiaosong & lao lang)
   - thou away from oi (menci & wxh010910 & yan qval & krydom & niro bc & wer key tom_ftd & \_\_stdcall & created_equal & whzzt & wy1627)
@@ -179,33 +207,8 @@
   - .stardew valley (2016)
   - .split fiction (2025)
   - .inzoi (2025)
-- - ace taffy
-  - akira kogami
-  - azi azusa
-  - chtholly
-  - funshiki
-  - henri, le chat noir
-  - hitori gotoh
-  - kagura mea
-  - kasuga tsubaki
-  - kasugano sora
-  - keyboard cat
-  - konata izumi
-  - matikane tannhauser
-  - minami iwasaki
-  - minato aqua
-  - miyuki takara
-  - mugumogu maru
-  - nahida
-  - nina iseri
-  - origami birds
-  - seren azuma
-  - snack life
-  - sparkle
-  - wanderer above the sea of fog
-  - yuuki sakuna
 - - google & chatgpt & gemini & deepseek & mistral ai
-  - wikipedia & miraheze & fandom & wotaku.wiki & moegirl.icu & oi wiki
+  - wikipedia & miraheze & fandom & wotaku.wiki & moegirl.icu & oi wiki & acmer.info
   - internet archive wayback machine & archive.today
   - youtube & berryberry & acfun & niconico & vtbs.moe & hololist
   - old reddit & hacker news & twitter & v2ex & zhihu & nga bbs & baidu tieba & github trending & product hunt
@@ -491,6 +494,9 @@
   - but if we walk in the light as he is in the light, we have fellowship with one another, and the blood of jesus his son cleanses us from all sin.
 - memento mori.
   - character is destiny
+
+## flowers
+
 - 遂迷不复得路
 - 从流飘荡 任意东西
 - 念念不忘 必有回响
@@ -510,6 +516,7 @@
 - 鸢飞戾天者 望峰息心
 - 焉知非福
 - 羁鸟恋旧林 池鱼思故渊
+- 儿寒乎 欲食乎
 - 锦瑟无端五十弦 一弦一柱思华年
 - 春风若有怜花意 可否许我再少年
 - 欲买桂花同载酒 终不似 少年游
@@ -525,6 +532,7 @@
 - 宁为玉碎 不为瓦全
 - 民为贵 社稷次之 君为轻
 - 待到秋来九月八 我花开后百花杀
+- 庭有枇杷树 今已亭亭如盖矣
 
 ## erudition
 
@@ -648,3 +656,5 @@
 > 世界有许多解读. f 选择喜欢的. 如果说, 学习, 追逐学历. 其实压力会很大, 而且功利: 为什么 f 要把自己放在被审视的位置, 允许人只因为 f 的学历而认可自己. 竞争固是好的, 那只是享受压制人的快意, 如同电子竞技一般. 更多时候, f 是喜欢整理归档的. 整理房间, 归档网络收藏. 学习更可能是这样吧.
 
 > f 的学校里平均前十的学生, 五年后会飞得多高... fira 会飞得多高?
+
+> 人来到世间不是来受苦的. 没有义务的, 去为了他者让渡出自己. 除非她很可爱, 你很喜欢, 那很好了.

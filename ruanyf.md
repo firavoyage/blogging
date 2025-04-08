@@ -1144,7 +1144,7 @@ https://andrewchen.co/professional-blogging/
 
 大公司每年花费数十亿美元用于广告，以求人们关注他们的产品。但是，一个好的作家可以免费获得这种扩展性。这就是为什么你应该把自己的想法写下来的原因，这么好的免费传播渠道，为什么不用呢？你以为，写下来不会有人看。错，其实是有人会看到的，如果他们觉得有价值，就会帮你传播出去。
 
-## stackoverflow documentation as books
+## stackoverflow documentation as pdf books
 
 `dev` `guide` `library` `ref`
 
@@ -4455,7 +4455,7 @@ https://ciechanow.ski/archives/
 
 ![](https://cdn.beekka.com/blogimg/asset/202108/bg2021081708.jpg)
 
-作者学习《算法（第 4 版）》时，将书中的算法逐一用 Rust 语言实现，做成了一个仓库。（[@douchuan](https://github.com/ruanyf/weekly/issues/1885) 投稿）
+作者学习《算法（第 4 版）》时，将书中的算法逐一用 Rust 语言实现，做成了一个仓库。（[@douchuan](https://github.com/ruanyf/weekly/issues/1885)  投稿）
 
 ## frequency illusion
 
@@ -4481,9 +4481,101 @@ https://colleges.chat/
 
 (college life.md)
 
+## eleduck remote dev community
+
+`dev` `career` `info`
+
+[电鸭社区](https://eleduck.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202108/bg2021082504.jpg)
+
+国内最早的远程工作社区，讨论和分享远程、外包、零活、兼职、驻场等工作机会。（[@qrk12](https://github.com/ruanyf/weekly/issues/1902)  投稿）
+
+## virtual celebration on fortnight
+
+`meme`
+
+[《堡垒之夜》的虚拟纪念活动](https://www.yystv.cn/p/8306)
+
+8 月 28 日是马丁-路德-金发表著名演说《我有一个梦想》的纪念日。今年的这一天，《堡垒之夜》在游戏里面开展了虚拟的纪念活动。
+
+![](https://cdn.beekka.com/blogimg/asset/202109/bg2021090102.jpg)
+
+![](https://cdn.beekka.com/blogimg/asset/202109/bg2021090103.jpg)
+
+玩家会在路边看到演讲的视频，还能进入虚拟纪念馆，详细了解。以后，这种虚拟形式的纪念活动，将会越来越多。
+
+![](https://cdn.beekka.com/blogimg/asset/202109/bg2021090104.jpg)
+
+## react hooks separate concerns
+
+`js` `guide` `view`
+
+[使用 React Hooks 分离组件逻辑](https://felixgerschau.com/react-hooks-separation-of-concerns/)（英文）
+
+![](https://cdn.beekka.com/blogimg/asset/202108/bg2021081020.jpg)
+
+本文介绍 React Hooks 的正确用法，写得非常好，推荐阅读。它回答了一个基本的问题：Hooks 到底应该用来干什么？
+
+简单说，Hooks 应该用来将组件的 UI 和逻辑分开。
+
+## mac os monterey ui with svelte
+
+`js` `app` `design`
+
+[Mac OS Monterey Web](https://github.com/puruvj/macos-web)
+
+![](https://cdn.beekka.com/blogimg/asset/202108/bg2021081422.jpg)
+
+使用 Svelte 框架在网页上模拟 Mac OS Monterey 的 UI。
+
+---
+
+https://macos-web.app/
+
+## minecraft rocks and minerals in real life
+
+`game` `meme`
+
+[Minecraft 的岩石和矿物](https://www.mindat.org/a/minecraft)
+
+![](https://cdn.beekka.com/blogimg/asset/202108/bg2021081014.jpg)
+
+Minecraft 游戏出现过各种各样的石头和矿物（上图），这个网站列出游戏里的石头在真实世界的对应物（下图）。
+
+![](https://cdn.beekka.com/blogimg/asset/202108/bg2021081016.jpg)
+
 ##
 
 
+
+##
+
+##
+
+##
+
+##
+
+##
+
+##
+
+##
+
+##
+
+##
+
+##
+
+##
+
+##
+
+##
+
+##
 
 ##
 
