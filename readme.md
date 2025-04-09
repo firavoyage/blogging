@@ -181,6 +181,7 @@
   - azur lane (2017)
   - honkai star rail (2023)
   - honkai impact third (2016)
+  - the rainbow appears after flowering rain. (2016)
   - blue archive (2021)
   - houkai gakuen second (2014)
   - delta force (2024)
@@ -211,11 +212,11 @@
   - wikipedia & miraheze & fandom & wotaku.wiki & moegirl.icu & oi wiki & acmer.info
   - internet archive wayback machine & archive.today
   - youtube & berryberry & acfun & niconico & vtbs.moe & hololist
-  - old reddit & hacker news & twitter & v2ex & zhihu & nga bbs & baidu tieba & github trending & product hunt
+  - old reddit & hacker news & twitter & zhihu & nga bbs & baidu tieba & v2ex & github trending & product hunt
   - ruanyf weekly & tw93 weekly & gamedevjs weekly & codepen spark
   - douban & imdb & bangumi.tv & my anime list & bgmlist & mikan project & nyaa.si & dmhy.org & yuc.wiki
   - pixiv & deviantart & civitai & e hentai & dribbble & unsplash
-  - steam db & itch.io & google doodles & vndb & shinnku galgame
+  - steam db & itch.io & google doodles & vndb & shinnku galgame & kungal & touchgal
   - the pirate bay & z library & anna's archive
   - codeforces & atcoder & luogu & libre oj
   - travellings.cn & foreverblog.cn & travel.moe
@@ -559,11 +560,12 @@
 ## gamut
 
 - `blogging` gardener
-- `blogging/config` geek
+- `blogging/favorites` collector
 - `blogging/lights` learner
 - `blogging/notes` librarian
 - `blogging/fira` youtuber
 - `blogging/pure` tutor
+- `blogging/config` geek
 - `blogging/...` developer
 - `memories/perspective` surfer
 - `memories/insight` sojourner
@@ -658,3 +660,7 @@
 > f 的学校里平均前十的学生, 五年后会飞得多高... fira 会飞得多高?
 
 > 人来到世间不是来受苦的. 没有义务的, 去为了他者让渡出自己. 除非她很可爱, 你很喜欢, 那很好了.
+
+> 🏳️‍⚧️🍥
+
+> f 可以没有负罪感地挥霍青春. 个人频道已经如此随意, 人类的平凡日常则更加随意. 所以不必收藏, 归档. 那些琐碎啊, 如果被忘记, 不必在意. 而存档里, f 喜欢的作品, 一直都在.

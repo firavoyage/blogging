@@ -128,12 +128,14 @@
   - geometry shape mosaic
   - text obfusion
 - color filter
+- 3d transition
 - utilities
   - compress
   - split image
   - merge image
   - remove watermark
   - to svg
+  - create meme
 - inspired by
   - snapseed
   - canva

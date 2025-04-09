@@ -256,14 +256,18 @@ let voyage = {
     return result;
   },
   t(...template) {
-    const { each } = voyage.lib;
+    const { each, check } = voyage.lib;
     const [strings, ...props] = template;
     return () => {
       let result = [];
       for (const index of each(strings.length - 1)) {
         result.push(strings[index]);
         if (index != strings.length - 1) {
-          result.push(props[index]());
+          if (check(props[index], "function")) {
+            result.push(props[index]());
+          } else {
+            result.push(props[index]);
+          }
         }
       }
       return result.join("");
@@ -285,36 +289,54 @@ let voyage = {
     return new Proxy({}, handler);
   },
   show(when, template, ...otherwise) {
-    const { e, compile, create, insert } = voyage;
     const { each, check } = voyage.lib;
 
     const cases = [when, template, ...otherwise];
 
-    const _ = document.createComment("");
-    e(() => {
-      let template;
-      for (const i of each(0, cases.length - 1, 2)) {
-        if (cases[i]()) {
-          template = cases[i + 1];
-          break;
-        }
-      }
-      if (!template && cases.length % 2 == 1) {
-        template = cases[cases.length - 1];
-      }
-      if (template) {
-        let node;
-        if (check(template, Array)) {
-          node = create(compile(template));
-        } else if (check(template, "function")) {
-          node = template();
-        }
-        return insert(node, _);
-      }
-    });
-    return [_];
+    return [
+      {
+        "@component"() {
+          let template;
+          for (const i of each(0, cases.length - 1, 2)) {
+            if (cases[i]()) {
+              template = cases[i + 1];
+              break;
+            }
+          }
+          if (!template && cases.length % 2 == 1) {
+            template = cases[cases.length - 1];
+          }
+          if (template) {
+            let node;
+            if (check(template, Array)) {
+              node = template;
+            } else if (check(template, "function")) {
+              node = template();
+            }
+            return node;
+          }
+        },
+      },
+    ];
   },
-  each(list, template, key){},
+  each(list, template, key) {
+    /**
+     * @todo support key
+     */
+    return [
+      {
+        "@component"() {
+          return list.map(template);
+        },
+      },
+    ];
+  },
+  /**
+   * insert a node, return its remover fn
+   * @param {Node} node - the node to be inserted
+   * @param {Node} sibling - sibling must have parent node
+   * @returns {function} to remove the node
+   */
   insert(node, sibling) {
     const { check } = voyage.lib;
     if (check(node, "string")) {
@@ -337,10 +359,10 @@ let voyage = {
   compile(template) {
     const { compile } = voyage;
     const { check } = voyage.lib;
-    let element = { type: false, labels: {}, content: [] };
+    let element = { type: "", labels: {}, content: [] };
     for (const item of template) {
       if (check(item, "string")) {
-        if (!element.type) {
+        if (element.type == "") {
           element.type = item;
         } else {
           element.content.push(item);
@@ -358,9 +380,6 @@ let voyage = {
       } else if (check(item, "object")) {
         element.labels = item;
       }
-    }
-    if (!element.type) {
-      element.type = "div";
     }
     return element;
   },
@@ -384,7 +403,12 @@ let voyage = {
       return _;
     }
 
-    let node = document.createElement(element.type);
+    let node;
+    if (element.type == "") {
+      node = document.createDocumentFragment();
+    } else {
+      node = document.createElement(element.type);
+    }
 
     const { labels } = element;
     for (const label in labels) {
@@ -431,6 +455,12 @@ let voyage = {
                 value(node.value);
               });
             });
+          },
+          component() {
+            node = document.createComment("");
+            e(() => {
+              return insert(render(value), node);
+            }, "shown");
           },
         };
         if (has(macros, event)) {
@@ -608,6 +638,23 @@ let examples = {
       t`${x} is between 5 and 10`
     );
   },
+  ChangingConditional() {
+    const { p, t, show } = voyage;
+    const { x } = p({ x: 3 });
+    const { e } = voyage;
+    e(() => {
+      setInterval(() => {
+        x(x() + 1);
+      }, 1000);
+    });
+    return show(
+      () => x() > 10,
+      t`${x} is greater than 10`,
+      () => x() < 5,
+      t`${x} is less than 5`,
+      t`${x} is between 5 and 10`
+    );
+  },
   List() {
     const { p, h, t, each } = voyage;
     const cats = [
@@ -619,7 +666,7 @@ let examples = {
     return [
       h1("The Famous Cats of YouTube"),
       ul(
-        each(cats, ({ id, name }) => [
+        each(cats, ({ id, name }, i) =>
           li(
             a(
               {
@@ -629,8 +676,8 @@ let examples = {
               },
               t`${i + 1}: ${name}`
             )
-          ),
-        ])
+          )
+        )
       ),
     ];
   },
@@ -671,10 +718,8 @@ let examples = {
   },
 };
 
-voyage.run(examples.Html, "body");
-
 voyage.run(examples.Counter, "body");
 
-voyage.run(examples.LegacyCounter, "body");
-
 voyage.run(examples.Conditional, "body");
+
+voyage.run(examples.List, "body");

@@ -5057,6 +5057,8 @@ jiaoyangceo, 之前在 biwen.csdn 上面 spam, 骗钱的时候, 他还加过我�
 
 还看到了 "客服 红月", 之前 csdn 上面乱搞, 找客服解封, 忘了, 还是 "提交 issue", 记得有这个人.
 
+upd: 风控了 24h, 又活蹦乱跳了. 偶然发现 astro bot (qq llm bot) 群里, 新号也很容易要刷身份证喵...
+
 ---
 
 apr 8, lucky star fin. (今晚把 ova 也看了吧. 不知道 ova 是什么意思呢...)
@@ -5087,4 +5089,24 @@ apr 8, duolingo jumped to section 1 unit 8.
 
 `ref`
 
-找到了一个 zhihu favorites export 脚本, (反正添加到 blogging 了).
+找到了一个 zhihu favorites export 脚本, (同步到 blogging/config 了).
+
+---
+
+qq 加了一堆水群, from acmer.info
+
+---
+
+apr 9, duolingo jumped to s1u9. 
+
+还是同样的两节课学新词, 然后直接跳级.
+
+---
+
+found this on twitter
+
+我的话，windows系统一般用7zip，挺好用的。不过用ubuntu的时候就更方便了，24.04版本新增了双击压缩包直接解压功能，无论是zip, rar还是tar.gz等等都能双击解压，真是方便极了，妈妈再也不用担心我忘了tar -zxvf命令。
+
+(突然想起来 f 更新这个版本初的新奇回忆)
+
+---

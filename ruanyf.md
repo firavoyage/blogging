@@ -4545,19 +4545,63 @@ Minecraft 游戏出现过各种各样的石头和矿物（上图），这个网�
 
 ![](https://cdn.beekka.com/blogimg/asset/202108/bg2021081016.jpg)
 
+## web components framework by google
+
+`js` `library`
+
+[Lit](https://lit.dev/)
+
+![](https://cdn.beekka.com/blogimg/asset/202108/bg2021082106.jpg)
+
+谷歌推出的基于 Web Components 的前端框架，非常小巧（5KB），用法很优雅。
+
+## mind bending perceptual illusions
+
+`art` `ref` `essay`
+
+[12 张视觉错觉图片](https://nautil.us/blog/12-mind_bending-perceptual-illusions)（英文）
+
+![](https://cdn.beekka.com/blogimg/asset/202108/bg2021082803.jpg)
+
+本文收集了 12 张著名的视觉错误图片。比如，上面这两张图片，看上去是不同角度拍摄的同一条街道，但是实际上，它们是同一张图片并排放在一起。
+
+---
+
+(illusions.md)
+
+## painter by canvas 2d
+
+`js` `library` `app` `image`
+
+[iDraw.js](https://idraw.js.org/)
+
+![](https://cdn.beekka.com/blogimg/asset/202109/bg2021091308.jpg)
+
+一个简单的 JS 库，用来使用脚本进行网页绘图。它基于 Canvas，可以绘制文字、矩形、圆形、图片、HTML 片段和 SVG 文件。([@chenshenhai](https://github.com/ruanyf/weekly/issues/1949) 投稿)
+
+## neumorphism design viusal generator
+
+`css` `design`
+
+[Neumorphism](https://neumorphism.coldstone.fun/)
+
+![](https://cdn.beekka.com/blogimg/asset/202109/bg2021091512.jpg)
+
+一个网页工具，用来生成照明阴影效果的 Flutter 代码。这里还有 [CSS 版](https://neumorphism.io/)。（[@xrr2016](https://github.com/ruanyf/weekly/issues/1951) 投稿）
+
+## frontend trick library
+
+`js` `guide` `library` `editorial`
+
+[Samantha Ming 个人网站](https://www.samanthaming.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202109/bg2021091307.jpg)
+
+Samantha Ming 是一名加拿大前端工程师，她在个人网站上分享了很多前端代码的技巧，内容质量很高，制作精美。（[@wxyudl](https://www.samanthaming.com/) 投稿）
+
 ##
 
 
-
-##
-
-##
-
-##
-
-##
-
-##
 
 ##
 
