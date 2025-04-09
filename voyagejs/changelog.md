@@ -431,10 +431,15 @@
 - feat: `insert(node, _)`
   - create text node, if node is a string
   - returns () => node.remove
+- test: `show`, when the condition changes
+- feat: `@component`
+  - create a comment and an effect to insert the node
+- fix: `t` support not only props but also primitive values
+- feat: `create` support `""` tag, which means document fragment
 - todo:
 - feat: cleanup remove event listener
 - feat: parent effect cleanups child effects
-- test: `show`, when the condition changes
+- feat: batch update during an effect
 - feat: `load(library)`
 - feat: `each(list, template, key)`
 - feat: `batch(operations)`
