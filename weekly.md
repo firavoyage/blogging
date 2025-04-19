@@ -13,6 +13,140 @@
 
 > things, not timetable.
 
+## 20250418
+
+> _foresight_
+
+- read physics guide & create wiki
+- read chemistry guide & create wiki
+- write cpp guide
+- write math guide
+
+> _dawn_
+
+- learn japanese on duolingo
+- return homes in ba ak
+- read ruanyf weekly archive
+
+> _night_
+
+- watch girls band cry
+- watch bocchi the rock
+- watch mygo
+- watch evangelion
+
+> _enlightenment_
+
+- write math guide
+- write cpp guide
+- create video guides using pre
+
+> _drift_
+
+- read physics guide & create wiki
+- read chemistry guide & create wiki
+- read geography guide & create wiki
+- read mathematics, no 2 secondary school attached to ecnu
+- read mathematical olympiad series
+- memorize japanese vocabulary on anki
+
+> _endeavour_
+
+- design component libraries
+- write pre app
+- write leisure app
+- write eat app
+- write float app
+- write material app
+
+> _diversion_
+
+- read ba stories
+- play bs
+- play hg events
+- play hi events
+- play senrenbanka
+- create origami works
+
+> _rest_
+
+- surf twitter
+- surf qq & telegram
+- surf zhihu
+- surf berryberry
+- watch simplelive
+- listen to lofi
+- play antennapod
+- sync phone
+
+## 20250410
+
+> _foresight_
+
+- read physics guide & create wiki
+- read chemistry guide & create wiki
+- read geography guide & create wiki
+- write cpp guide
+- write math guide
+
+> _dawn_
+
+- learn japanese on duolingo
+- return homes in hi ba ak
+- read ruanyf weekly archive
+
+> _night_
+
+- watch girls band cry
+- watch bocchi the rock
+- watch mygo
+- watch evangelion
+
+> _enlightenment_
+
+- write math guide
+- write cpp guide
+- create video guides using pre
+
+> _drift_
+
+- read physics guide & create wiki
+- read chemistry guide & create wiki
+- read geography guide & create wiki
+- read mathematics, no 2 secondary school attached to ecnu
+- read mathematical olympiad series
+- memorize japanese vocabulary on anki
+- memorize english vocabulary at leisure
+
+> _endeavour_
+
+- design component libraries
+- write pre app
+- write leisure app
+- write eat app
+- write float app
+- write material app
+
+> _diversion_
+
+- read ba stories
+- play bs
+- play hg events
+- play hi events
+- create origami works
+- play senrenbanka
+
+> _rest_
+
+- surf qq
+- surf twitter
+- surf zhihu
+- surf berryberry
+- watch simplelive
+- listen to lofi
+- play antennapod
+- sync phone
+
 ## 20250406
 
 > _foresight_

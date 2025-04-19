@@ -424,7 +424,7 @@
   - two param: run when any dep changes
   - stores the value `memo` returns
   - ref https://docs.solidjs.com/advanced-concepts/fine-grained-reactivity
-- fix: new dependencies are welcomed
+- fix: new dependencies are tracked
   - subscribe dependencies not only in the first run
   - for both effect and memo
 - feat: `show(when, template, ...otherwise)`
@@ -434,18 +434,17 @@
 - test: `show`, when the condition changes
 - feat: `@component`
   - create a comment and an effect to insert the node
+- feat: `each(list, template, key)`
 - fix: `t` support not only props but also primitive values
 - feat: `create` support `""` tag, which means document fragment
-- todo:
-- feat: cleanup remove event listener
-- feat: parent effect cleanups child effects
-- feat: batch update during an effect
-- feat: `load(library)`
-- feat: `each(list, template, key)`
-- feat: `batch(operations)`
-  - batch operations, create a set of effect, the same effect only run once
+- feat: `load(library)` and nested components
 - feat: macro `@ref: state`
   - assign the element to the state on creation
+- todo:
+- feat: parent effect cleanups child effects
+- feat: `batch(operations)`
+  - batch operations, create a set of effect, the same effect only run once
+- feat: `batch` update during an `effect`
 - feat: `route`
   - ref https://docs.solidjs.com/guides/routing-and-navigation
 - feat: macro `@style`

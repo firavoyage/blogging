@@ -117,7 +117,12 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 
 ### girls band cry
 
-- `1` .
+- `1` 20250412
+- `2` 20250413
+- `3` 20250414
+- `4` 20250415
+- `5` 20250416
+- `5` 20250418
 
 ## gaming
 
@@ -5108,5 +5113,53 @@ found this on twitter
 我的话，windows系统一般用7zip，挺好用的。不过用ubuntu的时候就更方便了，24.04版本新增了双击压缩包直接解压功能，无论是zip, rar还是tar.gz等等都能双击解压，真是方便极了，妈妈再也不用担心我忘了tar -zxvf命令。
 
 (突然想起来 f 更新这个版本初的新奇回忆)
+
+---
+
+`ref`
+
+最近在 qq 水群, 心情好多了.
+
+许多地方, 都要特别地点击才能评论. 于是 f 从不按赞, 从不评论, 只是收藏和截图.
+
+这里, 自带了一个输入框, 可以复制群友的评论, 还可以发 reaction 或者动画表情, 似乎突然就能说话了喵!
+
+---
+
+apr 12, 第一集 gbc. "追寻自我"
+
+---
+
+卸载 fcitx5 for android, 选择 gboard. gboard 好! (不只是日语输入支持了, 现代啊)
+
+---
+
+看片, wild tales. "拒绝内耗" "不服就干"
+
+ak 打 ce 6, 上了紫蓝, 终于过啦! (果然还是, 代理看不懂吗... 调教了一下, 不知道行不行)
+
+(upd: 又微调了, 撤奶, 换重装之类的)
+
+---
+
+`ref`
+
+好喜欢 duolingo 的 falstaff 啊, 有它出演的听力 f 都要听一听. 
+
+最后一句 "humans are always curious about ... we bears only cares ..." "humans always seem so concerned about flavors. in the wild if it's eatable it's good enough" "humans have specific requests for their meals. in the wild we just eat what's available. simpler and less fuss i think" daisuki. "welcome to the falstaff's guide to humans where i explore the strange world of humans"
+
+(同步到 readme 的 "说说" 了)
+
+---
+
+`ref`
+
+其实, 水群挺无聊的.
+
+不应该是你一条, 我一条, 而应该帖子和回复.
+
+而且没有推荐系统, 只能看到随机的最新消息.
+
+很少看 qq 了. 把没活人的群退了. (又忍不住刷了一下)
 
 ---

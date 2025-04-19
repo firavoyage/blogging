@@ -104,16 +104,6 @@
 
 ## create
 
-### `biography`
-
-> create awesome readme
-
-- bento style bio
-- animated svg
-- intuitive editor
-- inspired by
-  - bento
-
 ### `material`
 
 > elegance of image editing
@@ -145,7 +135,7 @@
 
 ### `gen`
 
-> reasonable painting
+> reasonable painting | procedurally generated art
 
 - theory
   - libraries and highly abstracted scripts
@@ -158,8 +148,19 @@
   - unsplash
   - pexels
 - inspired by
+  - shan shui
   - stable diffusion
   - midjourney
+
+### `biography`
+
+> create awesome readme
+
+- bento style bio
+- animated svg
+- intuitive editor
+- inspired by
+  - bento
 
 ## perceive
 
