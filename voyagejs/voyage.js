@@ -84,7 +84,7 @@ let voyage = {
      *
      * begin defaults to 0,
      *
-     * step defaults to 1 if begin < end, otherwise -1
+     * step defaults to 1
      *
      * @param {number} begin - first param
      * @param {number} [end] - second param
@@ -93,6 +93,14 @@ let voyage = {
      */
     each(begin, end, step) {
       const { check } = voyage.lib;
+
+      if (!check(end)) {
+        end = begin;
+        begin = 0;
+      }
+      if (!check(step)) {
+        step = 1;
+      }
 
       const iterate = function (begin, end, step) {
         let index = begin;
@@ -112,17 +120,6 @@ let voyage = {
         };
         return iterator;
       };
-      if (!check(end)) {
-        end = begin;
-        begin = 0;
-      }
-      if (!check(step)) {
-        if (begin <= end) {
-          step = 1;
-        } else {
-          step = -1;
-        }
-      }
       return iterate(begin, end, step);
     },
     /**
@@ -320,16 +317,52 @@ let voyage = {
     ];
   },
   each(list, template, key) {
-    /**
-     * @todo support key
-     */
-    return [
-      {
-        "@component"() {
-          return list.map(template);
-        },
-      },
-    ];
+    const { e, insert, render } = voyage;
+    const { each, check } = voyage.lib;
+
+    const node = document.createComment("");
+    let map = new Map();
+
+    if (!key) {
+      key = (_, i) => i;
+    }
+
+    e(() => {
+      const unused = new Map();
+      for (const _ of map.keys()) {
+        unused.set(_, map.get(_).node);
+      }
+
+      let currentList;
+      if (check(list, "function")) {
+        currentList = list();
+      } else {
+        currentList = list;
+      }
+
+      for (const i of each(currentList.length - 1)) {
+        let itemKey = key(currentList[i], i);
+
+        if (map.has(itemKey) && map.get(itemKey).data === currentList[i]) {
+          insert(map.get(itemKey).node, node);
+          unused.delete(itemKey);
+        } else {
+          const itemNode = render(() => template(currentList[i], i));
+          map.set(itemKey, { node: itemNode, data: currentList[i] });
+          insert(itemNode, node);
+        }
+      }
+
+      for (const _ of unused.keys()) {
+        if (map.get(_).node == unused.get(_)) {
+          // is previous data
+          map.delete(_);
+        }
+        unused.get(_).remove();
+      }
+    }, "shown");
+
+    return node;
   },
   /**
    * insert a node, return its remover fn
@@ -349,7 +382,7 @@ let voyage = {
    * @typedef {object} Element
    * @prop {string|function} type - node or component
    * @prop {object} labels - attributes or props
-   * @prop {Array<Element|string>} content - node or text
+   * @prop {Array<Element|Node|string>} content - node or text
    */
   /**
    * template to element
@@ -392,13 +425,21 @@ let voyage = {
     const { create, render, e, insert } = voyage;
     const { check, has } = voyage.lib;
 
+    const { components } = voyage;
+    if (has(components, element.type)) {
+      // it's a component
+      const { type, labels } = element;
+      const node = render(components[type], labels);
+      return node;
+    }
+
     if (check(element.type, "function")) {
-      // it's a component or a prop
+      // it's a prop
       const { type, labels } = element;
       const _ = document.createComment("");
       e(() => {
-        let childNode = render(type, labels);
-        return insert(childNode, _);
+        const node = render(type, labels);
+        return insert(node, _);
       });
       return _;
     }
@@ -524,7 +565,10 @@ let voyage = {
     }
     info.lifecycle.shown = [];
   },
-  load(library) {},
+  load(library) {
+    let { components } = voyage;
+    Object.assign(components, library);
+  },
 };
 
 let examples = {
@@ -624,7 +668,6 @@ let examples = {
         count(count() + 1);
       }, 1000);
     });
-    e(() => console.log(count()));
     return ["p", t`clicked ${count} ${() => (count() > 1 ? "times" : "time")}`];
   },
   Conditional() {
@@ -656,7 +699,7 @@ let examples = {
     );
   },
   List() {
-    const { p, h, t, each } = voyage;
+    const { h, t, each } = voyage;
     const cats = [
       { id: "J---aiyznGQ", name: "Keyboard Cat" },
       { id: "z_AbfPXTKms", name: "Maru" },
@@ -692,7 +735,7 @@ let examples = {
     const { p, span } = h();
     return p(
       span({ style: { "background-color": initial } }, "initial"),
-      span({ style: { "background-color": current } }, "current")
+      span({ style: { "background-color": color } }, "current")
     );
   },
   KeyedList() {
@@ -718,8 +761,6 @@ let examples = {
   },
 };
 
-voyage.run(examples.Counter, "body");
+voyage.load(examples);
 
-voyage.run(examples.Conditional, "body");
-
-voyage.run(examples.List, "body");
+voyage.run(examples.KeyedList, "body");

@@ -13,7 +13,7 @@
 - a developer, writer, wikipedian
 - grew up in shanghai
 - on the internet since 2016, which is my actual "home town"
-- live in the bay area of the internet
+- live in the bay area
 - working on voyage project
 
 ## desiderata
@@ -43,8 +43,8 @@
 - - jazz & lofi & hiphop & downtempo & classical
   - calendar & wall clock & life size waifu pillow
   - origami & pixel art & gardening
-  - math & algorithms & unixporn & rust & mtf & virtualyoutubers & xkcd & ruozhiba
-  - functional programming & web dev
+  - math & algorithms & unixporn & mtf & virtualyoutubers & ruozhiba
+  - web dev & threejs & cpp & python & rust
   - dark style & night light & low brightness & tranquility
   - attention & observation
   - arrangement & accumulation
@@ -53,6 +53,8 @@
   - azi azusa
   - chen zhe aya
   - chtholly
+  - cldeop
+  - ddzhanshou5150
   - funshiki
   - henri, le chat noir
   - hitori gotoh
@@ -70,13 +72,17 @@
   - mirekintoc
   - miyuki takara
   - mugumogu maru
+  - muoujiang_
   - nahida
   - nina iseri
   - origami birds
+  - rosmontis233
   - seren azuma
   - snack life
   - sparkle
   - wanderer above the sea of fog
+  - xkcd
+  - yifusuyi
   - yuuki sakuna
 - - hotel california (eagles)
   - wind of change (scorpions)
@@ -142,6 +148,7 @@
   - being john malkovich (1999)
   - jaws (1975)
   - flow (2024)
+  - wild tales (2014)
   - .princess mononoke (1997)
   - .the truman show (1998)
 - - tom and jerry (1940)
@@ -150,10 +157,10 @@
   - worldend: what do you do at the end of the world? are you busy? will you save us? (2017)
   - lucky star (2007)
   - evangelion (1995)
+  - girls band cry (2024)
   - .date a live (2013)
   - .sword art online (2012)
   - .bocchi the rock (2022)
-  - .girls band cry (2024)
   - .bang dream! it's mygo!!!!! (2023)
   - .k-on! (2009)
   - .frieren: beyond journey's end (2023)
@@ -261,6 +268,7 @@
   - mindhub by product thinking (shaonan & fonter & mengna)
   - pan.icu (wu tao & rio)
   - python hunter (manjusaka & adam wen & laixintao)
+  - storyfm (kou aizhe)
   - ux coffee (riceman & hoka)
   - web worker (xinbao & lv777 & pakchoi & kaiyi & smart)
   - y combinator startup podcast (y combinator)
@@ -308,12 +316,9 @@
     - wine 9.0
     - zsh 5.9
   - - g++ 13.3.0
-    - emcc 4.0.5
     - node 18.19.1
     - npm 9.2.0
       - jsdoc 4.0.4
-      - terser 5.19.2
-      - marked 14.1.2
     - python3 3.12.3
     - pip 24.0
     - rustup 1.28.1
@@ -397,6 +402,7 @@
     - duolingo 6.11.4-mod
     - eudic 9.3.1
     - fcitx5-android 0.0.7
+    - gboard 15.2.03
     - k9-mail 6.801
     - legado 3.23.112523
     - material-files 1.4.2
@@ -534,6 +540,7 @@
 - 民为贵 社稷次之 君为轻
 - 待到秋来九月八 我花开后百花杀
 - 庭有枇杷树 今已亭亭如盖矣
+- 子非我 安知我不知鱼之乐
 
 ## erudition
 
@@ -664,3 +671,19 @@
 > 🏳️‍⚧️🍥
 
 > f 可以没有负罪感地挥霍青春. 个人频道已经如此随意, 人类的平凡日常则更加随意. 所以不必收藏, 归档. 那些琐碎啊, 如果被忘记, 不必在意. 而存档里, f 喜欢的作品, 一直都在.
+
+> 挺羡慕药娘的, 走一遭, 没有什么真正的束缚. 短命好啊, 不要活得久, f 如果说时间上, 走得很远, 要被现在的 f 讨厌哪. 或者说会拿到一个厉害的剧本, 然后被那些不同人间碎片里, 抬起头的 f 看见吗? 233333.
+
+> 二次元 (anime), 鉴证 (literally chinese society criticism), linux (especially arch), cp (abbr of competitive programming, aka oi, acm), mtf, rust, 音游 (music game), vtuber.
+
+> 很好, 下次可以试试时下流行的俳句或者 emoji.
+
+> 喜欢看我破防? 那你很坏了.
+
+> 和 llm 在一起久了, 就很想截断或者刷新输出, 人类做得到吗? (fira 倒是越来越想没说完一段话, 就截断, 然后说其 summary 了.)
+
+> 她在我这里可不是这样的哦!
+
+> 赛博盆栽
+
+> 好喜欢 duolingo 的 falstaff 啊, 有它出演的听力 f 都要听一听. 最后一句 "humans are always curious about ... we bears only cares ..." "humans always seem so concerned about flavors. in the wild if it's eatable it's good enough" "humans have specific requests for their meals. in the wild we just eat what's available. simpler and less fuss i think" daisuki. "welcome to the falstaff's guide to humans where i explore the strange world of humans"

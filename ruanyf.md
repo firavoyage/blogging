@@ -4577,7 +4577,7 @@ Minecraft 游戏出现过各种各样的石头和矿物（上图），这个网�
 
 ![](https://cdn.beekka.com/blogimg/asset/202109/bg2021091308.jpg)
 
-一个简单的 JS 库，用来使用脚本进行网页绘图。它基于 Canvas，可以绘制文字、矩形、圆形、图片、HTML 片段和 SVG 文件。([@chenshenhai](https://github.com/ruanyf/weekly/issues/1949) 投稿)
+一个简单的 JS 库，用来使用脚本进行网页绘图。它基于 Canvas，可以绘制文字、矩形、圆形、图片、HTML 片段和 SVG 文件。([@chenshenhai](https://github.com/ruanyf/weekly/issues/1949)  投稿)
 
 ## neumorphism design viusal generator
 
@@ -4587,7 +4587,7 @@ Minecraft 游戏出现过各种各样的石头和矿物（上图），这个网�
 
 ![](https://cdn.beekka.com/blogimg/asset/202109/bg2021091512.jpg)
 
-一个网页工具，用来生成照明阴影效果的 Flutter 代码。这里还有 [CSS 版](https://neumorphism.io/)。（[@xrr2016](https://github.com/ruanyf/weekly/issues/1951) 投稿）
+一个网页工具，用来生成照明阴影效果的 Flutter 代码。这里还有  [CSS 版](https://neumorphism.io/)。（[@xrr2016](https://github.com/ruanyf/weekly/issues/1951)  投稿）
 
 ## frontend trick library
 
@@ -4597,11 +4597,1091 @@ Minecraft 游戏出现过各种各样的石头和矿物（上图），这个网�
 
 ![](https://cdn.beekka.com/blogimg/asset/202109/bg2021091307.jpg)
 
-Samantha Ming 是一名加拿大前端工程师，她在个人网站上分享了很多前端代码的技巧，内容质量很高，制作精美。（[@wxyudl](https://www.samanthaming.com/) 投稿）
+Samantha Ming 是一名加拿大前端工程师，她在个人网站上分享了很多前端代码的技巧，内容质量很高，制作精美。（[@wxyudl](https://www.samanthaming.com/)  投稿）
+
+## visualized code execution
+
+`dev` `editorial`
+
+[可视化代码执行](https://pythontutor.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202109/bg2021091701.jpg)
+
+这个网站会将代码的执行流程，转成可视化图形，展示代码一步步是怎么执行的。目前支持 Python、Java、C、C++、JavaScript 和 Ruby 代码。（[@WinterChenS](https://github.com/ruanyf/weekly/issues/1955)  投稿）
+
+## apps for gnome
+
+`app` `info`
+
+[Apps for GNOME](https://apps.gnome.org/zh-CN/)
+
+![](https://cdn.beekka.com/blogimg/asset/202108/bg2021082802.jpg)
+
+Gnome 是 Linux 的桌面系统，这个网站是官方的 App 站，介绍自带的各种 App，制作得非常清新漂亮。
+
+## fat bear week
+
+`art` `meme`
+
+[胖熊周](https://www.smithsonianmag.com/smart-news/get-to-known-the-bodacious-bulky-bears-of-fat-bear-week-2021-180978778/)
+
+![](https://cdn.beekka.com/blogimg/asset/202109/bg2021093009.jpg)
+
+每年秋天，大批的棕熊都会来到美国阿拉斯加州的布鲁克斯河吃红鲑鱼，为即将到来的冬眠积累脂肪。
+
+最早的时候，当地的国家公园架设了摄像头，直播棕熊的动态。很多人一边看直播的时候，一边会在网上讨论，哪一头熊最大最胖。
+
+国家公园看到了这些讨论，从 2014 年开始，就跟一家网站合作，在每年的 9 月底 10 月初举办"胖熊周"，每天让网友投票，把来吃鱼的棕熊进行两两 PK，直至评选出最后的"胖熊冠军"。去年收到了将近 60 万张选票。
+
+![](https://cdn.beekka.com/blogimg/asset/202109/bg2021093010.jpg)
+
+今年的胖熊周是 9 月 29 日到 10 月 5 日，经过投票，747 号熊获得了今年的冠军。
+
+![](https://cdn.beekka.com/blogimg/asset/202109/bg2021093011.jpg)
+
+## mithril.js web framework
+
+`js` `library`
+
+[Mithril.js](https://mithril.js.org/index.html)
+
+![](https://cdn.beekka.com/blogimg/asset/202109/bg2021090406.jpg)
+
+一个非常易用的轻量级前端框架，只做了 DOM 的包装层，没有加任何其他接口，体积小，加载快，并且支持组件和前端路由。开发小型页面，明显优于 React。
+
+但是不知道什么原因，多年来它一直不流行，因为名字难记？......
+
+## notion style avatar maker
+
+`app` `image` `design`
+
+[Notion Avatar Maker](https://notion-avatar.vercel.app/zh)
+
+![](https://cdn.beekka.com/blogimg/asset/202110/bg2021100504.jpg)
+
+一个网页工具，可以在线制作 Notion 风格的个人头像。（[@Mayandev](https://github.com/ruanyf/weekly/issues/1988)  投稿）
+
+## windows 11 in react
+
+`js` `app` `design`
+
+[Windows 11 in React](https://github.com/blueedgetechno/windows11)
+
+![](https://cdn.beekka.com/blogimg/asset/202108/bg2021082402.jpg)
+
+该项目将 Windows 11 的桌面移植到网页上，使用 React 开发。
+
+## path planning algorithms visual explanation
+
+`algorithms` `guide`
+
+[路径算法的动图演示](https://github.com/zhm-real/PathPlanning)
+
+![](https://cdn.beekka.com/blogimg/asset/202110/bg2021100502.jpg)
+
+这个仓库提供常见路径算法的动画演示，一共有 20 多个算法演示。（[@DoctorLai](https://github.com/ruanyf/weekly/issues/1986)  投稿）
+
+## apple memoji avatar design
+
+`design`
+
+[苹果的 Memoji 战略](https://www.aboveavalon.com/notes/2021/8/23/apples-big-bet-on-memoji)
+
+Memoji（me + emoji）是苹果公司基于表情符号开发的一种头像生成技术，用来生成用户的 3D 卡通头像，诞生于 2018 年。种种迹象都表明，苹果有意大量使用该技术，用于虚拟空间的场景。
+
+2021 年 6 月的 WWDC 大会的邀请函，使用的就是 Memoji。
+
+![](https://cdn.beekka.com/blogimg/asset/202108/bg2021082408.jpg)
+
+大会当天，库克走进会场，场下坐的都是听众的 Memoji 头像。
+
+![](https://cdn.beekka.com/blogimg/asset/202108/bg2021082406.jpg)
+
+库克致欢迎辞的时候，背景也是 Memoji。
+
+![](https://cdn.beekka.com/blogimg/asset/202108/bg2021082407.jpg)
+
+此外，苹果的管理层介绍，头像也都换成了 Memoji。
+
+![](https://cdn.beekka.com/blogimg/asset/202108/bg2021082409.jpg)
+
+下一步，苹果很可能会推出一个虚拟空间产品，将用户导入数字世界，到时候用户在那里的分身就是 Memoji。
+
+## my room in 3d
+
+`js` `design`
+
+[My Room in 3D](https://my-room-in-3d.vercel.app/)
+
+![](https://cdn.beekka.com/blogimg/asset/202109/bg2021091207.jpg)
+
+使用 Three.js 制作的网页 3D 家居模型，非常炫酷。
+
+## github stars wont pay your rent
+
+`dev` `story`
+
+[GitHub Star 不会支付你的账单](https://kitze.io/posts/github-stars-wont-pay-your-rent)（英文）
+
+![](https://cdn.beekka.com/blogimg/asset/202109/bg2021091609.jpg)
+
+作者是开源项目 Sizzy 的创始人，讲述了如何将一个开源项目，变成商业软件，用来支持软件开发的故事。
+
+## each second is not equal
+
+`dev` `quote` `ref`
+
+每秒是不相等的。早上精力充沛的一个小时工作，相当于晚上疲倦时三个小时的工作。
+
+-- David Perell
+
+## build a gaming desktop on linux
+
+`dev` `meme` `weather`
+
+[我如何组装 Linux 游戏电脑](https://boilingsteam.com/how-i-built-my-new-linux-gaming-desktop-in-2021-with-amd-cpugpu-and-gnu-guix/)（英文）
+
+![](https://cdn.beekka.com/blogimg/asset/202109/bg2021092408.jpg)
+
+作者介绍自己如何选择各种组件，组装了一台专用于游戏的 Linux 桌面电脑。
+
+![](https://cdn.beekka.com/blogimg/asset/202109/bg2021092409.jpg)
+
+## kill the newsletter
+
+`app` `feed`
+
+[Kill the Newsletter!](https://github.com/leafac/kill-the-newsletter)
+
+![](https://cdn.beekka.com/blogimg/asset/202109/bg2021091814.jpg)
+
+一个开源服务，可以将新闻邮件，转为 RSS feed 输出。用户可以自己架设服务，也可以试用作者架设的  [demo](https://kill-the-newsletter.com/)。
+
+## git flight rules (faq for any problem)
+
+`dev` `guide` `ref`
+
+[Git 飞行规则](https://github.com/k88hudson/git-flight-rules/blob/master/README_zh-CN.md)
+
+一个 Git FAQ 的中文翻译，收集各种 Git 操作出现问题后的应对措施。（[@xcuYao](https://github.com/ruanyf/weekly/issues/2015)  投稿）
+
+## i wont regret the things i've done in my eighties
+
+`dev` `career` `quote`
+
+当我 80 岁时，我不会后悔尝试过的事情，比如我尝试了互联网创业，就算失败了，我也不后悔。我后悔的是那些我想尝试却没做的事情，它们每天困扰着我，如果我当时尝试了，我的人生会怎样。
+
+-- [《让遗憾最小化》](http://www.samvitjain.com/blog/regret/)
+
+## find best teachers and listen to all their courses
+
+`career` `quote`
+
+我在大学里得到的最好建议是："找到最好的老师，上他们所有的课，不管是什么课。"
+
+这个建议也适用于互联网。
+
+-- David Perell
+
+## copying can be innovative
+
+`dev` `career` `quote`
+
+很多人认为，照抄国外的成功软件，不能算是创新。我认为这是一个非常荒谬的论点，将一个商业模型复制到另一个市场，真的没那么容易。
+
+执行就是创新。能够成功执行，调整模型适应当地需求，就是创新。
+
+-- [《如何发现下一个独角兽》](https://restofworld.org/2021/how-500-startups-finds-unicorns/)
+
+## find the unique number in a list of pairs using xor
+
+`algorithms` `meme`
+
+[如何找到数组里面的唯一数字](https://yonatankra.com/how-to-find-a-unique-number-in-a-list-of-pairs/)（英文）
+
+本文介绍一道简单的算法题：数组的所有成员都成对出现，只有一个成员除外（比如`[1,3,17,3,1]`），如何快速找到这个成员。
+
+## smooth signature
+
+`app` `image`
+
+[smooth-signature](https://github.com/linjc/smooth-signature)
+
+![](https://cdn.beekka.com/blogimg/asset/202110/bg2021103005.jpg)
+
+带笔锋的手写签名 JS 库，支持 PC /移动端使用，另有[小程序版](https://github.com/linjc/mini-smooth-signature)。（[@linjc](https://github.com/ruanyf/weekly/issues/2020)  投稿）
+
+## geometry default avatar generator
+
+`app` `image`
+
+[Tool.Graphics](https://tool.graphics/geometric)
+
+![](https://cdn.beekka.com/blogimg/asset/202109/bg2021092405.jpg)
+
+这个网站可以生成各种几何图形填充的随机图片，并且能够可以调节参数。
+
+## japanese traditional color palette
+
+`art` `design` `info` `ref`
+
+[日本传统色系](https://zh.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E4%BC%A0%E7%BB%9F%E8%89%B2%E7%B3%BB)
+
+![](https://cdn.beekka.com/blogimg/asset/202109/bg2021092110.jpg)
+
+维基百科资料，列出了日本古典文学里经常出现的颜色，常用于和服或其他日本传统艺术和手工艺品。
+
+## react's declarative ui vs imperative one
+
+`js` `guide`
+
+[声明式与命令式 UI](https://alexsidorenko.com/blog/react-is-declarative-what-does-it-mean/)（英文）
+
+本文介绍 React 框架里面命令式（imperative）UI 与声明式（declarative） UI 的含义与差异。
+
+## js console coloring library by sindre sorhus
+
+`js` `meme`
+
+[yoctocolors](https://github.com/sindresorhus/yoctocolors)
+
+一个 JavaScript 的命令行颜色库，类似于 Chalk，优势是体积小、速度快。作者是著名的 Sindre Sorhus。
+
+## imagination of solitude
+
+`art`
+
+[孤独想象](http://inagblog.com/2020/05/vasjen-katro/)
+
+北欧警察为了防止驯鹿被夜间公路上的汽车撞死，为驯鹿角涂上荧光粉，让司机远远就能看到。
+
+一个阿尔巴尼亚艺术家受到这件事启发，制作了一张合成照片，名为《孤独想象》。
+
+![](https://cdn.beekka.com/blogimg/asset/202107/bg2021071208.jpg)
+
+## little big world by tilt–shift photography
+
+`art` `info`
+
+[移轴摄影拍出的世界](https://www.littlebigworld.de/)
+
+一个德国摄影师专门使用移轴摄影，将真实世界拍成模型。他的所有作品都放在自己的官网上。
+
+> 移轴摄影指的是使用移轴镜头拍摄的照片，效果就像是缩微模型一样，将真实世界拍成像假的一样，使照片能够充分表现"人造都市"的感觉。（摘自[《百度百科》](https://baike.baidu.com/item/%E7%A7%BB%E8%BD%B4%E6%91%84%E5%BD%B1/6745081)）
+
+新加坡天空花园
+
+![](https://cdn.beekka.com/blogimg/asset/202109/bg2021090202.jpg)
+
+奥地利哈尔施塔特小镇
+
+![](https://cdn.beekka.com/blogimg/asset/202109/bg2021090203.jpg)
+
+埃及金字塔
+
+![](https://cdn.beekka.com/blogimg/asset/202109/bg2021090204.jpg)
+
+桂林龙脊梯田
+
+![](https://cdn.beekka.com/blogimg/asset/202109/bg2021090205.jpg)
+
+## javon's paradox: tech to reduce energy will increase its usage
+
+`theory`
+
+[杰文斯悖论](https://zh.wikipedia.org/wiki/Jevons%E6%82%96%E8%AB%96)
+
+1865 年，英国经济学家威廉-斯坦利-杰文斯（William Stanley Jevons）观察到，提高煤炭的使用效率，会导致煤炭消费量的增加。
+
+他因而提出，节省资源的技术，只会带来资源使用量的增加。  由于这与人们的直觉相反，所以称为杰文斯悖论。
+
+![](https://cdn.beekka.com/blogimg/asset/202111/bg2021111006.jpg)
+
+举例来说，家用电器越省电，其实不会导致用电量下降。因为省电一开始会让电费下降，人们就会使用更多的家用电器，结果反而导致用电量上升。
+
+再比如，由于交通拥堵，政府新建更多、更宽的道路，希望疏通交通。结果，行车时间的减少，导致市民购买更多的车辆，交通最终并没有好转。这就是杰文斯悖论的一个著名推论："如果不限制车辆增长，再多的道路都会被堵住。"
+
+![](https://cdn.beekka.com/blogimg/asset/202111/bg2021111107.webp)
+
+杰文斯悖论有时被认为意味着，节约能源的努力是徒劳的。提高化石能源的使用效率，反而会加快化石能源的耗尽速度。
+
+这说明，可持续能源政策不能只依赖节能技术的进步，而必须配合其他类型的政府干预措施，限制能源的使用。
+
+## things unlearned as a programmer
+
+`dev` `career` `quote`
+
+经常有人说："学习 xx 语言会让你成为更好的程序员。" 我认为，这种说法有些误导。学习新的语言确实很有趣，而且非常有用，但是真正让我更擅长编程的是做大量的编程练习，尤其是那些挑战能力极限的问题。
+
+-- [《我没有学到的东西》](https://scattered-thoughts.net/writing/things-unlearned/)
+
+## unicode calendar generator
+
+`app` `text` `ref`
+
+[Unicode 日历生成器](https://qwerty.dev/calendar-generator/)
+
+![](https://cdn.beekka.com/blogimg/asset/202110/bg2021101404.jpg)
+
+这个网页工具可以生成一个纯 Unicode 字符组成的日历。
+
+## chinese newsletter rss list
+
+`info` `feed`
+
+[中文 Newsletter 订阅](https://github.com/alaskasquirrel/Email-newsletter-RSS)
+
+这个仓库收集各种中文的邮件列表，我们这个周刊也在其中。（[@alaskasquirrel](https://github.com/ruanyf/weekly/issues/2054)  投稿）
+
+## 8 based numbers with the first character 0 is weird
+
+`dev` `quote` `meme`
+
+八进制表示法以 0 开头，这是一种误导人类和软件的好方法，是当代没有任何生产力或用处的事情之一，只会使事情复杂化而没有任何好处。
+
+-- [Hacker News 读者](https://news.ycombinator.com/item?id=29053619)
+
+## serial position effect
+
+`theory`
+
+心理学家研究发现，人的记忆具有位置效应。当按顺序回忆一个序列时，我们对第一项和最后一项的记忆最好，对中间项目的记忆最差。
+
+-- [维基百科](https://en.wikipedia.org/wiki/Serial-position_effect)
+
+## music is anti social
+
+`weather` `view` `ref`
+
+本周话题：音乐是反社交
+
+Spotify 的前产品经理有一天在[推特](https://twitter.com/jherskowitz/status/1466078600822677513)发言，总结自己这些年在音乐行业的心得。
+
+第一条心得就很震撼。
+
+> "本质上，音乐不是社交产品，而是反社交的。"
+
+![](https://cdn.beekka.com/blogimg/asset/202112/bg2021121001.webp)
+
+我看到以后，愣了一下，马上意识到，这句话说得太对了。音乐和社交是对立的，音乐产品不合适加入社交功能。
+
+听音乐的时候，绝大多数都是一个人，而且都是静静地听，没人喜欢在吵闹的环境听。音乐是一种心灵对话，是孤独时候的陪伴，不具有社交性。
+
+![](https://cdn.beekka.com/blogimg/asset/202112/bg2021121502.webp)
+
+聚会时，大家不会一起听音乐。音乐从来不是社交活动，相比之下，美食、逛街、旅游、甚至看电影，这些才是社交行为，一个人去做没有乐趣。
+
+音乐不具有社交性，还有一个原因，那就是很少有人对你听什么音乐感兴趣。你真的在意，朋友喜欢听哪一首歌吗？
+
+因此，音乐产品应该是个人化产品，关注的重点是个人使用，而不应该加入社交元素。
+
+世界最大的两个音乐应用 Spotify 和 Apple Music 都没有社交元素，界面都很清爽，几乎没有听音乐以外的功能。
+
+![](https://cdn.beekka.com/blogimg/asset/202112/bg2021121504.webp)
+
+![](https://cdn.beekka.com/blogimg/asset/202112/bg2021121505.webp)
+
+它们有全世界最庞大的用户群，最精准的兴趣匹配算法，却没有提供任何的交友和社区功能。这是他们的产品经理没有想到，还是觉得就不应该添加这种功能？
+
+形成鲜明对照的是，国内的音乐大厂"网易云音乐"，主打功能就是社交。打开它的 App，处处都有社交元素，可以查看每首歌的网友点评，收听他人的歌单和电台，还可以加好友、聊天、建社交圈。
+
+![](https://cdn.beekka.com/blogimg/asset/202112/bg2021121506.webp)
+
+网易云音乐的官方定位是"一个快速发展的云生态音乐社区"，口号是"和超 8 亿有趣的人听歌看评论"，甚至它的公司名就叫"云村"（cloud village），比喻大家相聚在云上。所以，他们想做的不是音乐 App，而是一款有音乐功能的社交 App。
+
+![](https://cdn.beekka.com/blogimg/asset/202112/bg2021121507.webp)
+
+社交 App 没有什么不好，但是我非常怀疑，音乐和社交这两个对立的东西，融合得了吗？到头来，可能两头都不讨好。
+
+加入了社交功能的音乐应用，就像一个集市，喧闹而嘈杂，充满了你不需要的功能，而你真正想找的，只是一个角落，安静地听一会歌。
+
+---
+
+https://web.archive.org/web/20211202053913/https://twitter.com/jherskowitz/status/1466078600822677513
+
+## is my cat turing complete
+
+`dev` `meme` `editorial` `ref` `essay`
+
+[我的猫是否图灵完备？](https://belaycpp.com/2021/11/24/is-my-cat-turing-complete/)（英文）
+
+![](https://cdn.beekka.com/blogimg/asset/202111/bg2021112517.jpg)
+
+作者用自己的猫作为例子，解释什么是图灵完备性。
+
+---
+
+(cat compute.md)
+
+## apple's code learning app swift playground
+
+`dev` `guide` `editorial`
+
+[Swift 游乐场](https://www.apple.com/swift/playgrounds/)（Swift Playgrounds）
+
+![](https://cdn.beekka.com/blogimg/asset/202112/bg2021121616.webp)
+
+苹果公司最新发布的编程学习软件，内置教程，采用 Swift 作为教学语言，制作得非常精美。
+
+它同时也是一个 IDE，有 Mac 和 iPad 两个版本。有史以来第一次，你可以在 iPad 上面开发 iOS 应用，并发布到苹果商店。
+
+## rss generator for sites without it
+
+`app` `feed`
+
+[RSS-Bridge](https://github.com/RSS-Bridge/rss-bridge)
+
+![](https://cdn.beekka.com/blogimg/asset/202109/bg2021092602.jpg)
+
+一个开源的 Web 应用，用于为常见网站生成 RSS。
+
+## interactive python beginner's guide
+
+`py` `guide` `editorial`
+
+[互动式 Python 入门教程](https://futurecoder.io/)
+
+![](https://cdn.beekka.com/blogimg/asset/202110/bg2021100401.jpg)
+
+一个 Python 入门的英文教程，针对初学者，从如何使用命令行教起。最大的特点是提供网页互动环境，让用户直接在网页上动手输入示例，查看运行结果。
+
+## success is determined by believers, not whether it's sane
+
+`society` `quote`
+
+十年前，我写了一篇文章，题目是《为什么比特币会失败？》。十年过去了，比特币活得很好，价格上涨了许许多多倍。
+
+我还是不认为自己判断错了，只是我忽略了一点：人们真的、真的、真的想要它。我现在意识到，一个项目的成败，不取决于它是否合理，而是取决于人们是否愿意相信该项目。
+
+-- [《回首十年前的文章》](https://apenwarr.ca/log/20211117)
+
+## write a vr game eye of the temple
+
+`dev` `story` `game`
+
+[我写了一个 VR 游戏](http://blog.runevision.com/2021/11/launching-eye-of-temple-this-was-my.html)（英文）
+
+![](https://cdn.beekka.com/blogimg/asset/202112/bg2021120301.webp)
+
+作者一个人写了一个 VR 游戏，放到 Steam 商店去卖。大家可以看看文章里面的游戏视频，还是很酷的。虽然没有大卖，他还是觉得很有收获。本文是他的感受。
+
+## linux dev environment setup
+
+`dev` `guide` `info`
+
+[我的 Linux 开发环境](https://deepu.tech/my-beautiful-linux-development-environment/)（英文）
+
+![](https://cdn.beekka.com/blogimg/asset/202112/bg2021120601.webp)
+
+这是一组六篇的系列文章，作者详细介绍了他如何在自己的桌面电脑搭建 Linux 开发环境。各篇内容依次是硬件介绍、Gnome 配置、Zsh 配置、VS Code 配置、桌面环境、开发环境配置。
+
+## townscraper
+
+`game`
+
+[TownScaper](http://oskarstalberg.com/Townscaper/)
+
+![](https://cdn.beekka.com/blogimg/asset/202112/bg2021120209.webp)
+
+一个休闲小游戏，已经在主机平台上架，这里是它最近发布的浏览器版。只要随意点击，就能生成不可思议的美丽建筑物。
+
+更妙的是，所有设置都保存在 URL 里面，可以分享给其他人。
+
+## to escape matters more than to have situation better
+
+`weather` `society` `quote`
+
+过去几十年，中国农民从农村迁移到城市的工厂。我一直不明白，城市工厂的条件并不好，有些相当差，为什么有这么多农民去？
+
+后来，我看了一部美国纪录片，想明白了。很多美国年轻人搬到洛杉矶去当演员，其中 99%年轻人的生活会变得更糟，但是有机会逃离他们原来的处境，对很多人来说依然是一个强大的吸引力。
+k
+-- [Hacker News 读者](https://news.ycombinator.com/item?id=29341991)
+
+## productify idea
+
+`career` `view`
+
+本周话题：产品化思维
+
+上周四，华为发布了一款[血压手表](https://consumer.huawei.com/cn/wearables/watch-d/)，戴在手腕上就能测血压。
+
+![](https://cdn.beekka.com/blogimg/asset/202112/bg2021122506.webp)
+
+它的实现很独特，可能是第一个这么设计的手表。
+
+![](https://cdn.beekka.com/blogimg/asset/202112/bg2021122508.webp)
+
+大家看上图，它的表带里面有一个垫层，那是一个微型气囊。
+
+测血压时，手表向气囊充气，使它鼓起来挤压手腕（下图），从而感受到心跳和血压。
+
+![](https://cdn.beekka.com/blogimg/asset/202112/bg2021122509.webp)
+
+我看着这个设计，觉得似曾相识，这不就是腕式血压计吗？
+
+![](https://cdn.beekka.com/blogimg/asset/202112/bg2021122510.webp)
+
+![](https://cdn.beekka.com/blogimg/asset/202112/bg2021122804.webp)
+
+华为的这块血压手表，简直就是腕式血压计的迷你版。但是，大家知道吗，两者的差价有多大？前者的官方定价是 2988 元，后者只要 100 多元人民币。
+
+当然，我知道不能这样比较，血压手表是智能产品，有许多其他功能。但是，它的主要卖点不就是测血压吗？这一点上，它并不比腕式血压计强太多。你只需要 5%的钱，就能得到一个方便程度差不多、测量结果可能更准确的设备。
+
+我并不是说华为这个手表不好，只是感叹两者的差价这么大。为什么那些血压计厂商就没有想到，血压计可以做成一块手表呢？
+
+既然已经可以戴在手腕上，为什么不索性做得再小一点呢？加入计时功能，配上彩色屏幕和操作系统，马上就变成了血压手表，价格可以提升一个数量级啊。
+
+这么显而易见的一个产品思路，那么多血压计厂商怎么会无人想到呢？
+
+这就是缺乏"产品化思维"的表现，不善于把功能提升为产品，然后推向市场。  如果腕式血压计的厂商具备产品化思维，看到自己的产品，就会想到手表市场，甚至可穿戴设备市场。反过来，华为的产品经理从腕式血压计得到了启发：只要把气囊加入智能手表，手表就变成了血压计，可以打开更大的市场，卖出更高的价格。
+
+另一个例子是空气净化机。它的原理其实很简单，就是风扇前面加上 HEPA 滤网。最早想到把风扇做成"空气净化机"的人，显然具有产品化思维：空气净化机的价格贵多了。
+
+![](https://cdn.beekka.com/blogimg/asset/202112/bg2021122511.webp)
+
+![](https://cdn.beekka.com/blogimg/asset/202112/bg2021122512.webp)
+
+工程师和程序员通常缺乏"产品化思维"，更看重解决问题，不善于做成商业化产品。这样不利于把事业做大，毕竟只有做成产品才能拿去卖，卖得好才能摆脱帮别人打工的命运。
+
+几十年前，一个惠普公司的工程师在业余时间设计了一块非常厉害的电路板。他只想着自己玩玩，觉得做电路板很过瘾。一天，他的朋友看到了，坚持要为这块电路板配上机箱和外设，做成计算机拿出去卖。这个工程师的名字是沃兹尼亚克，他的朋友是乔布斯，两个一无所有的青年，就这样创立了苹果公司。我们就需要学习乔布斯的这种产品化思维，从电路板想到个人电脑，从腕式血压计想到手表。
+
+## christmas tree in different art styles
+
+`art`
+
+[圣诞树与建筑风格](https://www.instagram.com/p/CX84PQ6okFY/)
+
+如果圣诞树也可以像建筑物一样，拥有自己的建筑风格，那么不同流派的建筑师会怎么设计圣诞树？
+
+有人画出了不同建筑流派设计的圣诞树样子。
+
+![](https://cdn.beekka.com/blogimg/asset/202112/bg2021122921.webp)
+
+上图的圣诞树的建筑流派，按照从上到下、从左到右的顺序依次为：
+
+- 最简主义
+- 新艺术运动
+- 荷兰风格派
+- 哥特式
+- 解构主义
+- 现代主义
+- 包豪斯派
+
+## ppt editor web app
+
+`js` `app` `text`
+
+[PPTist](https://github.com/pipipi-pikachu/PPTist)
+
+![](https://cdn.beekka.com/blogimg/asset/202201/bg2022010613.webp)
+
+![](https://cdn.beekka.com/blogimg/asset/202201/bg2022010614.webp)
+
+一个 PPT 网页应用，还原了大部分 PowerPoint 常用功能，支持 PPT 的在线编辑、演示和导出。这里有  [demo](https://pipipi-pikachu.github.io/PPTist/)。（[@pipipi-pikachu](https://github.com/ruanyf/weekly/issues/2145)  投稿）
+
+## procedurally generated shan shui painting
+
+`js` `algorithms` `theory` `art` `app` `image` `ref`
+
+[彻底理解中国山水画生成器](https://zverok.github.io/blog/2021-12-28-grok-shan-shui.html)
+
+![](https://cdn.beekka.com/blogimg/asset/202112/bg2021122903.webp)
+
+[中国山水画生成器](https://github.com/LingDong-/shan-shui-inf)是一个很有名的软件，一个老外用户很惊叹，希望把它彻底搞懂，就写了这个由 24 篇文章组成的系列，逐一分析代码，看看能否自己重新实现。（[@ameizi](https://github.com/ruanyf/weekly/issues/2140)  投稿）
+
+---
+
+https://lingdong.works/
+
+## slippery slope
+
+`theory`
+
+[滑坡谬误](https://zh.wikipedia.org/wiki/%E6%BB%91%E5%9D%A1%E8%AC%AC%E8%AA%A4)
+
+滑坡谬误（Slippery slope）指的是使用一连串的因果推论，夸大了每个环节的因果强度，而得到不合理的结论。
+
+![](https://cdn.beekka.com/blogimg/asset/202108/bg2021081405.jpg)
+
+它的典型形式是，"如果发生 A1，接着就会发生 A2，接着就会发生 A3，接着就会发生 A4，......，接着就会发生 An"，然后推论"由于 An 不应该发生，因此我们不应允许 A1 发生"。
+
+从 A1 推论至 An 的过程就像一个滑坡。
+
+它的问题在于，每个"坡"的因果强度不一，有些因果关系只是可能、而非必然，有些因果关系相当微弱，有些因果关系甚至是未知或缺乏证据，因而即使 A 1 发生，也无法一路滑到 An，An 并非必然发生。
+
+若有充足证据显示每个"坡"都有合理、强烈的因果连结，即不构成滑坡谬误。
+
+> 例一：如果我今天借了 10 元给小明，他明天又会跟我借一百元，接下来就借一千元、一万元，我岂不破产？
+
+小明今天借十元也不表示明天就会借一百元，就算明天借一百元也不表示以后就会借一千元，就算小明借一千元甚至一万元，也不表示说话者就会破产。
+
+> 例二：孩子如果不上好的小学，就考不上好的中学，之后就考不进好的大学，接着会找不到好的工作，然后会穷困潦倒，一生就毁了！
+
+孩子如果不上好的小学，也不表示之后就考不上好的中学；就算考不上好的中学，也不表示就考不进好的大学;就算考不进好的大学，也不表示就找不到好的工作；就算找不到好的工作，也不表示会穷困潦倒；就算穷困潦倒，也不表示一生就毁了。
+
+> 例三：员工偷懒公司便会损失，公司赚不到钱就要裁员，被裁员的人会没工作，没工作的人为了生计就会铤而走险。因此，上班偷懒是非常严重的问题。
+
+公司损失不表示公司会赚不到钱，就算公司赚不到钱也不表示公司就要裁员，就算公司裁员也不表示被裁的人会走投无路，就算被裁的人走投无路，也不表示会为了生计铤而走险。
+
+## you never change things by fighting the existing reality
+
+`dev` `quote` `ref`
+
+你永远不会通过与现实做斗争，而改变事物。想要改变事物，需要建立一个使现有模型过时的新模型。
+
+-- [富勒](https://news.ycombinator.com/item?id=29441945)，美国建筑师
+
+---
+
+You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete.
+
+## elon musk and lex fridman's talk translated
+
+`dev` `story` `career`
+
+[马斯克最新访谈实录](https://chedongxi.com/p/264710.html)（中文）
+
+![](https://cdn.beekka.com/blogimg/asset/202201/bg2022011322.webp)
+
+去年 12 月，马斯克接受 Youtube 知名科技主播的网络访谈，长达两个半小时，内容涉及 SpaceX 的载人飞船、猛禽火箭、殖民火星，特斯拉自动驾驶、机器人等众多热门话题，一共 78 个问题。
+
+这是访谈的全文中文翻译，长达 1.6 万字，推荐阅读。
+
+## css reset code
+
+`css` `guide`
+
+[我的 CSS 重置代码](https://www.joshwcomeau.com/css/custom-css-reset/)（英文）
+
+![](https://cdn.beekka.com/blogimg/asset/202111/bg2021112802.webp)
+
+CSS 重置（reset）指的是重置浏览器的默认样式，完成 CSS 初始化。作者给出了自己的重置代码，并详细解释每一行的作用。
+
+## js standard data structures
+
+`js` `algorithms`
+
+[js-sdsl](https://github.com/ZLY201/js-sdsl)
+
+这个 JS 库提供各种高级数据结构，比如 Vector、Stack、Queue、LinkList 等等。（[@ZLY201](https://github.com/ruanyf/weekly/issues/2151)  投稿）
+
+---
+
+https://github.com/js-sdsl/js-sdsl
+
+## text to emoji translator
+
+`app` `text` `meme`
+
+[Emoji 搜索](https://translate.yandex.com/?lang=zh-emj&text=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E4%B8%96%E7%95%8C)
+
+![](https://cdn.beekka.com/blogimg/asset/202112/bg2021120503.webp)
+
+俄罗斯搜索引擎 Yandex 推出了一个在线翻译工具。有趣的是，里面有一项"文本翻译 Emoji"，可以输入词语，得到对应的 Emoji。
+
+## google fonts knowledge
+
+`design` `guide`
+
+[字体知识](https://fonts.google.com/knowledge)
+
+![](https://cdn.beekka.com/blogimg/asset/202112/bg2021120707.webp)
+
+谷歌官方的字体教程，教你怎么选择正确的英文字体。
+
+## why math professors still use chalk with blackboard
+
+`weather` `career` `view`
+
+[数学教授为什么仍然使用粉笔？](https://www.stanforddaily.com/2021/10/17/why-do-stanford-math-professors-still-use-chalk/)
+
+斯坦福大学几乎 100% 的数学系教师，依然使用粉笔和黑板授课。不仅老师们喜欢用粉笔，学生们也非常接受这种方式。
+
+![](https://cdn.beekka.com/blogimg/asset/202110/bg2021102202.jpg)
+
+一个数学讲师曾经调查班上的 51 名同学，更喜欢黑板上的板书，还是用投影仪展示讲义？学生们一致反映：黑板更好。
+
+粉笔和黑板的讲课方式，发明于 19 世纪初，至今已经 200 年了。现在已经有了更现代化的设备，许多数学家为什么仍然喜欢用粉笔？
+
+![](https://cdn.beekka.com/blogimg/asset/202201/bg2022011325.webp)
+
+与幻灯片、投影仪、白板相比，粉笔有几个明显的优势。
+
+（1）粉笔可以展示思考的过程，将数学推导分步表示出来，幻灯片很难做到这一点。
+
+（2）幻灯片的展示速度太快，如果你用粉笔写字，你写不快，不得不放慢速度，学生容易跟得上。
+
+（3）与有限的投影屏幕相比，面积更大的黑板也有利于学生的学习，因为他们可以不断地来回查看不同的推导步骤。如果黑板是上下两层，也便于教师来回切换内容。
+
+（4）你总是知道一支粉笔还剩多少，当使用白板和记号笔时，你永远不知道记号笔何时会写不出，思路就突然被打断了。
+
+（5）复杂的数学符号在黑板上可以写得很大，但是用记号笔写在白板上时，字迹通常比较小，学生很难辨别。
+
+（6）即使使用了 20 年或 30 年，黑板依然可以正常使用。白板就不行了，可能只过了几年，就有明显磨损，必须更换。
+
+（7）粉笔对环境更友好，白板和记号笔需要使用化学物质制造。
+
+当然，粉笔也有局限性，它的优势仅仅局限于包含复杂推理和演算的课堂教学，在对公众演讲时，明显是幻灯片效果更好。
+
+很多中学已经完全放弃粉笔和黑板，改用数字化教学。但是在大学的数学系，老师们仍然坚持使用粉笔，这种趋势看来还会持续下去。
+
+## pricing page is everything of a saas product
+
+`dev` `quote`
+
+评估 SaaS 产品时，我通常会跳过介绍页面，以及上面所有花哨的营销词语，直接进入定价页面。
+
+定价页面上，通常有你需要知道的所有东西：这个产品有哪些功能，需要支付多少费用才能获得这些功能。
+
+-- [《SaaS 产品的定价页》](https://tdinh.notion.site/Every-pricing-page-should-have-GIFs-e74d6d363d4c4d33b5ff754452f7ab96)
+
+## record user actions with chrome devtools
+
+`dev` `meme`
+
+[Chrome 开发者工具的录制功能](https://developer.chrome.com/docs/devtools/recorder/)（英文）
+
+![](https://cdn.beekka.com/blogimg/asset/202112/bg2021120204.webp)
+
+Chrome 浏览器的开发者工具可以录制用户操作了，并且可以导出脚本供无头浏览器 Puppeteer 使用。
+
+## why authors write thick books
+
+`meme` `quote`
+
+对于非虚构类书籍，作者的写作能力与书籍销量无关。事实上，一个作者如果写得简明扼要，完全可以将一本 350 页的非虚构类书籍，简化成一篇 40 页的长文，但是这样的话，书价就到不了 15 美元了，而且销量也会比较小。
+
+-- [Hacker News 读者](https://news.ycombinator.com/item?id=29507641)
+
+## chrome browser icon redesign
+
+`design` `history`
+
+[Chrome 浏览器的新图标](https://twitter.com/elvin_not_11/status/1489647027789000714)
+
+Chrome 浏览器最近重新设计了图标。
+
+![](https://cdn.beekka.com/blogimg/asset/202202/bg2022020610.webp)
+
+左边是原来的图标，右边是现在的图标。你能看出差异吗？
+
+![](https://cdn.beekka.com/blogimg/asset/202202/bg2022020608.webp)
+
+看上去它们的差异很小。但是，设计师会告诉你，有很多不一样的地方，以及为什么现在的图标更好。
+
+![](https://cdn.beekka.com/blogimg/asset/202202/bg2022020609.webp)
+
+我觉得，如果图标的精心修改，最后只能修改到这个样子，是不是说明谷歌的设计资源过剩啊。
+
+## the unreasonable one persists in trying to adapt the world to himself
+
+`society` `quote`
+
+灵活的人让自己适应世界，不灵活的人坚持让世界适应自己。结果，一切进步都来自不灵活的人。
+
+-- [萧伯纳](https://news.ycombinator.com/item?id=29598581)
+
+---
+
+The reasonable man adapts himself to the world; the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man
+
+## rss proxy for any site
+
+`app` `feed`
+
+[RSS-proxy](https://github.com/damoeb/rss-proxy)
+
+![](https://cdn.beekka.com/blogimg/asset/202111/bg2021112906.jpg)
+
+这个工具可以为任意 HTML 页面生成 RSS 订阅，只要页面有变动，你就会得到通知。
+
+## dropbox is awful than the opensource alternative syncthing
+
+`app` `meme`
+
+[Dropbox 的糟糕体验](https://tonsky.me/blog/syncthing/)（英文）
+
+![](https://cdn.beekka.com/blogimg/asset/202201/bg2022010709.webp)
+
+作者使用大量图片，比较 Dropbox 与开源的同步软件 Syncthing 的使用体验，前者完败。
+
+## data structure and algorithms in rust
+
+`rs` `algorithms` `guide` `library`
+
+[Rust 语言数据结构和算法](https://github.com/QMHTMY/RustBook/tree/main/books)
+
+![](https://cdn.beekka.com/blogimg/asset/202202/bg2022022502.webp)
+
+一本原创的中文 Rust 书籍。（[@QMHTMY](https://github.com/ruanyf/weekly/issues/2209)  投稿）
+
+## cpp sudoku solver by singapore prime minister
+
+`algorithms` `dev` `meme`
+
+[数独求解](https://leetcode.com/problems/sudoku-solver/discuss/15796/Singapore-prime-minister-Lee-Hsien-Loong%27s-Sudoku-Solver-code-runs-in-1ms)
+
+![](https://cdn.beekka.com/blogimg/asset/202202/bg2022020201.webp)
+
+新加坡总理李显龙多年前写的 C++ 数独求解程序。他毕业于剑桥大学，拥有数学学士和计算机硕士学位，参见他的  [Facebook 原帖](https://www.facebook.com/leehsienloong/photos/a.344710778924968.83425.125845680811480/905828379479869/?type=3&permPage=1)。
+
+## encoding convertion visualized
+
+`algorithms` `editorial`
+
+[Base64 可视化转码](https://devtool.tech/base64)
+
+![](https://cdn.beekka.com/blogimg/asset/202203/bg2022030104.webp)
+
+这个网页工具可视化展示了 Base64 内部的解码编码过程。（[@shfshanyue](https://github.com/ruanyf/weekly/issues/2231)  投稿）
+
+---
+
+[双精度浮点数的内部表示法](https://devtool.tech/double-type)
+
+![](https://cdn.beekka.com/blogimg/asset/202203/bg2022030913.webp)
+
+这个网页工具可以显示 64 位双精度浮点数的内部二进制表示法，你可以输入一个数值，查看它的浮点数表示。（[@shfshanyue](https://github.com/ruanyf/weekly/issues/2253)  投稿）
+
+## pixijs color effects
+
+`js` `image`
+
+[Pixi Color Effects](https://github.com/PixiColorEffects/pixi-color-effects)
+
+![](https://cdn.beekka.com/blogimg/asset/202203/bg2022030105.webp)
+
+一个 JS 库，提供各种图片滤镜。（[@carl-jin](https://github.com/ruanyf/weekly/issues/2237)  投稿）
+
+## online converter collection cyberchef
+
+`app` `text` `ref`
+
+[CyberChef](https://gchq.github.io/CyberChef/)
+
+![](https://cdn.beekka.com/blogimg/asset/202201/bg2022011904.webp)
+
+一个开源网站，集合了上百种实用的小功能（比如 Base64 解码、提取 EXIF、生成 Hash 等等），都包括在一个网页里面。熟悉以后，非常好用。
+
+---
+
+https://github.com/gchq/CyberChef/
+
+## google learn css chinese translation
+
+`css` `guide`
+
+[CSS 中文入门教程](https://github.com/pengfeiw/css-tutorial/tree/master/chapters)
+
+![](https://cdn.beekka.com/blogimg/asset/202203/bg2022030310.webp)
+
+作者学习 CSS 时整理的一份教程，参考了谷歌的 learn css。（[@pengfeiw](https://github.com/ruanyf/weekly/issues/2229)  投稿）
+
+## manufacture industry in america
+
+`society` `meme`
+
+本周话题：美国制造是否可能
+
+上周，美国总统拜登对国会发表[《国情咨文》](https://finance.sina.cn/7x24/2022-03-02/detail-imcwipih6180080.d.html)，提到了美国制造。他这样说：
+
+![](https://cdn.beekka.com/blogimg/asset/202203/bg2022030705.webp)
+
+> "与其依赖外国供应链，不如在美国制造。通过降低生产成本，而不是降低美国人的工资，让更多的车辆和半导体在美国生产，减少依赖外国供应链。"
+
+听出来了吗，拜登的药方是，工资不降，降低其他成本，让制造业重新回到美国。  今天就来谈谈，这样做是否可能。
+
+2015 年，国内曾经有一个[研究](http://m.jrj.com.cn/madapter/usstock/2016/01/27030420489084.shtml)，逐项比较中国和美国的生产成本，结果发现每一项成本都是美国便宜。
+
+> - 土地成本：中国是美国的 9 倍
+> - 物流成本：中国是美国的 2 倍
+> - 资金成本：中国是美国的 2.4 倍
+> - 电力成本：中国是美国 2 倍
+> - 税收成本：中国较高
+
+上面还是 2015 年的数据，这些年物价上涨，倍数大概就更高了。
+
+只有[一项成本](https://www.sohu.com/a/367546108_618573)是中国便宜，大家恐怕都猜到了，那就是工资，美国的劳动力时薪是中国的 4.8 倍。
+
+![](https://cdn.beekka.com/blogimg/asset/202203/bg2022030706.webp)
+
+所以，美国制造业的问题，根本不在于生产成本，而在于劳动力。  美国的生产要素价格，在全世界都是很低的。拜登不去改变劳动力成本（也是不敢），而是想在其他成本上动脑筋，那是没用的，恐怕很难成功。
+
+反过来看中国，问题也很大。中国的各种生产成本都高于美国，全靠劳动力优势弥补：一是工资低，二是劳动时间长，三是比美国人更勤奋、更能吃苦、更有纪律性，四是没有美国那种跟资方对抗的工会。
+
+![](https://cdn.beekka.com/blogimg/asset/202203/bg2022030707.webp)
+
+但是，劳动力的成本优势是不长久的，工资总归要上升的，否则就失去了发展的意义。一旦中国工人的工资接近美国的一半，中国制造的成本优势就会开始丧失。
+
+说来很讽刺，拜登想要发展美国制造业，有效的方法不是遏制中国，而是让中国的工资上升，那样制造业就会回到美国。
+
+其实，人力投入较少的初级产品（比如农产品），美国已经有巨大的成本优势，大大低于中国。去过美国的人都知道，他们超市里面的食品很便宜。这也是为什么中国每年从美国进口大量农产品的原因。
+
+人力投入较多的普通制成品，都是中国有成本优势。今后只要设法降低其他生产要素的价格，减轻企业的负担，就能保住优势。
+
+真正竞争的是高科技制造业，比如芯片、机器人、生物医药。在这个领域，中美的工资差距不大。谁有独家技术，谁的产品更好，谁就赢。如果中国不加快知识创新，这部分制造业确实可能回到美国。
+
+## how to cook guide for programmer
+
+`weather` `guide` `ref`
+
+[程序员做饭指南](https://github.com/LeeJim/HowToCookOnMiniprogram)
+
+![](https://cdn.beekka.com/blogimg/asset/202203/bg2022030910.webp)
+
+收集各种家常菜的菜谱，这是小程序版，另有  [Web 版](https://github.com/Anduin2017/HowToCook)。（[@LeeJim](https://github.com/ruanyf/weekly/issues/2245)  投稿）
+
+---
+
+https://github.com/Anduin2017/HowToCook
+
+## mindmap on web
+
+`js` `app` `text`
+
+[Remind](https://github.com/luvsic3/remind)
+
+![](https://cdn.beekka.com/blogimg/asset/202203/bg2022030911.webp)
+
+一个简单的网页版思维脑图实现，可以用在自己项目里面。（[@luvsic3](https://github.com/ruanyf/weekly/issues/2247)  投稿）
+
+## microsoft paint with react
+
+`js` `app` `image`
+
+[React Paint](https://github.com/pengfeiw/react-paint)
+
+![](https://cdn.beekka.com/blogimg/asset/202203/bg2022030912.webp)
+
+使用 React 实现的开源 Windows 画板。（[@pengfeiw](https://github.com/ruanyf/weekly/issues/2250)  投稿）
+
+## internet as a politics arm
+
+`society` `view`
+
+本周话题：俄罗斯的 HTTPS 证书问题
+
+上周，国外网友[发现](https://twitter.com/Scott_Helme/status/1502204103132393472)，一家西方的证书机构拒绝为俄罗斯域名颁发 HTTPS 证书，甚至还吊销已经颁发的有效证书。
+
+![](https://cdn.beekka.com/blogimg/asset/202203/bg2022031105.webp)
+
+美国政府并没有发布这个禁令，这家机构自发地加重制裁。如果所有西方的证书机构都这样做，吊销俄罗斯的 HTTPS 证书，那么俄罗斯网站就不能进行加密通信，使用会大大受限，整个在线支付都会瘫痪。
+
+俄罗斯政府预见到了这种风险，就建了一个自已的证书机构，访问网站  [gosuslugi.ru/tls](https://www.gosuslugi.ru/tls)（下图）可以申请俄罗斯政府颁发的 HTTPS 证书。
+
+![](https://cdn.beekka.com/blogimg/asset/202203/bg2022031106.webp)
+
+问题是，俄罗斯自己颁发的证书，得不到操作系统和浏览器的信任，会跳出警告，告诉用户这个网站不安全，你不应该访问它。
+
+![](https://cdn.beekka.com/blogimg/asset/202203/bg2022031107.webp)
+
+为了消除警告，需要操作系统和浏览器信任俄国政府的证书，按照目前的政治气氛，这是不可能的。好在俄罗斯有自己的  [Yandex 浏览器](https://browser.yandex.com/)，另一种方法是让本国用户在自己的计算机上，手动添加本国证书。
+
+这件事的最终结果很可能是，俄国用俄国的证书，西方用西方的证书。  但是，事情并非到此为止，西方看上去真的有打算让俄罗斯[断网](https://t.cj.sina.com.cn/articles/view/1686546714/6486a91a02001mg1o)，公开提出来的方案已经有停止国际路由、停止域名注册、停止 DNS 解析等等。
+
+如果真的走到这一步，俄国的互联网就成了一个孤岛，跟西方的互联网分开了。
+
+这让我想起，古文[《风赋》](https://baike.baidu.com/item/%E9%A3%8E%E8%B5%8B/2482215)的一句话。
+
+> 夫风者，天地之气，溥畅而至，不择贵贱高下而加焉。
+
+它的意思是，天地间的风，无差别地吹拂，不会因为贵贱高下，而有所不同。
+
+我一直认为，互联网是中立的技术基础设置，应该像风一样，无差别地吹拂到每个人，不应该区分穷人、富人、坏人、好人，人人都有权使用互联网。
+
+一旦因为政治原因吊销 HTTPS 证书，或者让俄罗斯断网，互联网的中立性就荡然无存，不再是人人都可以使用的技术基础设施了。这等于把"互联网武器化"，只要你是我眼中的恶棍，我就不同意你使用互联网。
+
+开了这种危险的先例，把互联网当作武器，互联网从此就变成了国防设施。国与国之间都搞自己的证书、自己的域名、自己的国际网关，严格区分网络国境线。互联网创立时的开放、自由、统一、造福人类的梦想，灰飞烟灭。
+
+最悲哀的是，吊销 HTTPS 证书和断网，对于上层人物是没有影响的，真正受到惩罚的都是普通老百姓和中小企业。他们对局势无能为力，却要接受惩罚，面对一个关卡重重、残破不堪的互联网。
+
+## regex visualized editor
+
+`js` `app` `text`
+
+[Regex-Vis](https://github.com/Bowen7/regex-vis)
+
+![](https://cdn.beekka.com/blogimg/asset/202203/bg2022031703.webp)
+
+一个开源的正则表达式可视化编辑器。输入一个正则表达式，就能自动生成它的可视化图形，并能在网页上对每个节点进行编辑。（[@Bowen7](https://github.com/ruanyf/weekly/issues/2271)  投稿）
+
+## css speedrun quiz
+
+`css` `guide`
+
+[CSS 小测验](https://css-speedrun.netlify.app/)
+
+![](https://cdn.beekka.com/blogimg/asset/202201/bg2022011802.webp)
+
+这个网站提供一组 CSS 测试题，测试你的水平。用户在线回答，它会给你计时，看你用了多少时间。
+
+## web skills cheetsheet
+
+`dev` `guide` `info` `editorial`
+
+[Web 技能图卡](https://andreasbm.github.io/web-skills/)
+
+![](https://cdn.beekka.com/blogimg/asset/202201/bg2022012502.webp)
+
+这个网站以图卡的形式，整理出了 Web 开发所需的各种技能，并且进行了分类。
+
+---
+
+https://github.com/andreasbm/web-skills
+
+## science papers nowadays are outdated
+
+`dev` `view`
+
+[科学论文已经过时了](https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/)
+
+今天的科学论文，起源于17世纪科学家之间的私人信件。其中一些信件在讲座中分发，或者编入书籍，逐渐变成今天的形式。
+
+![](https://cdn.beekka.com/blogimg/asset/202203/bg2022032415.webp)
+
+早期的论文在某些方面比今天的论文更具有可读性。它们不那么专业，更直接，更短，也不那么正式，因此它们本来只是写给他人的信。
+
+那时，微积分才刚刚发明，整个数据集可以放在单个页面上的表格中，计算可以手工完成，其它人可以用同样的方式验证。所以，以前的论文往往很简单，一封信就可以写完。
+
+如今，科学越来越复杂，科学表达越来越难。今天的论文比以往任何时候都长，而且充满了行话和符号。它们依赖于计算机程序，进行生成数据、清理数据、绘制数据、运行模型。这些程序往往写得很混乱难懂，但是对结果又是如此重要，导致其他人很难复制出整个推导过程。
+
+![](https://cdn.beekka.com/blogimg/asset/202203/bg2022032416.webp)
+
+换句话说，今天的论文未能完成其最基本的任务：清楚地报告你实际发现的东西，并足以让其他人来复现它。
+
+这也许应该归咎于科学现在以软件的速度发展，各种科学家都依赖编程语言和数据软件包进行研究。然而，这种传播科学成果的方式已经400年没有改变了，今天的论文虽然可以在互联网发布，但本质上依然是纸张上的文本和图片。
+
+如果今天从头开始设计科学论文，它会是什么样子？
+
+论文的每个部分，也许都应该是解释性文本与少量交互式图表交织在一起，读者可以自己控制程序和例子，验证每一步。
+
+软件是一种动态的媒介；纸张不是。这就是当前的科学传播的全部问题：今天的科学成果往往是​​在计算机的帮助下才发现的，那些想法是复杂的、动态的，很难凭直觉得到和理解。然而，到目前为止，我们用于传播这些结果的最流行的工具是 PDF----实际上是一张纸的模拟。
+
+现在的科学论文，在形式上已经过时了，我们应该思考如何做得更好。
 
 ##
 
 
+
+##
+
+##
+
+##
+
+##
+
+##
+
+##
+
+##
+
+##
+
+##
+
+##
 
 ##
 
