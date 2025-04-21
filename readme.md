@@ -55,6 +55,8 @@
   - chtholly
   - cldeop
   - ddzhanshou5150
+  - diygod
+  - falstaff (duolingo)
   - funshiki
   - henri, le chat noir
   - hitori gotoh
@@ -66,7 +68,9 @@
   - keyboard cat
   - kkksc03
   - konata izumi
+  - liangxihuigui
   - matikane tannhauser
+  - menci
   - minami iwasaki
   - minato aqua
   - mirekintoc
@@ -76,10 +80,14 @@
   - nahida
   - nina iseri
   - origami birds
+  - probiusofficial
+  - puddings00
   - rosmontis233
+  - seemsec
   - seren azuma
   - snack life
   - sparkle
+  - turingou
   - wanderer above the sea of fog
   - xkcd
   - yifusuyi
@@ -149,6 +157,7 @@
   - jaws (1975)
   - flow (2024)
   - wild tales (2014)
+  - the big short (2019)
   - .princess mononoke (1997)
   - .the truman show (1998)
 - - tom and jerry (1940)
