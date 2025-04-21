@@ -440,15 +440,18 @@
 - feat: `load(library)` and nested components
 - feat: macro `@ref: state`
   - assign the element to the state on creation
-- todo:
+- **todo:**
+- feat: macro `@style`
+  - ref
+    - https://tailwindcss.com/docs/styling-with-utility-classes
+    - https://tachyons.io/
+    - https://unocss.dev/guide/
 - feat: parent effect cleanups child effects
 - feat: `batch(operations)`
   - batch operations, create a set of effect, the same effect only run once
 - feat: `batch` update during an `effect`
 - feat: `route`
   - ref https://docs.solidjs.com/guides/routing-and-navigation
-- feat: macro `@style`
-  - ref https://tailwindcss.com/docs/styling-with-utility-classes
 - test: a component library
   - ref
     - https://v2.chakra-ui.com/docs/components

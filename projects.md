@@ -344,9 +344,15 @@
   - more symbols and icons, less text
 - selection before memorization
   - remove known words and unwanted words
+- anime characters speaking
+  - by gptsovits
+- language learning
+  - characters & grammar 
+  - word memorization
 - social poster
   - word card
-- word
+  - personal records
+- word definition
   - translation & pronounciation
   - thesaurus & related words
   - root and affix
@@ -362,9 +368,6 @@
   - begin (learn & review combined)
   - read wordbook
   - spell
-- voice
-  - anime characters
-  - gptsovits
 - source
   - chatgpt
   - cambridge
