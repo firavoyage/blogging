@@ -2759,6 +2759,14 @@ https://chrome.google.com/webstore/detail/mpbjkejclgfgadiemmefgebjfooflfhl
 
 该网站可以将正则表达式转成解释图片。
 
+---
+
+[Regular Expression Tester and Visualizer](https://devtoolcafe.com/tools/regex)
+
+![](https://cdn.beekka.com/blogimg/asset/202205/bg2022051803.webp)
+
+在线的正则表达式测试和可视化工具。（[@pccprint](https://github.com/ruanyf/weekly/issues/2388) 投稿）
+
 ## collection of this x does not exist sites
 
 `app` `ai` `info` `ref`
@@ -5643,35 +5651,207 @@ https://github.com/andreasbm/web-skills
 
 ![](https://cdn.beekka.com/blogimg/asset/202203/bg2022032010.webp)
 
+## elementary math geometry problem
+
+`retro` `algorithms` `ref`
+
+[最难的平面几何题](https://blog.codingnow.com/2007/06/elementary_geometry.html)
+
+![](https://cdn.beekka.com/blogimg/asset/202201/bg2022011327.webp)
+
+请问上图的角 D 是多少度？
+
+这道题看上去不难，但实际很不容易，甚至被称为最难的平面几何题。不过，确实只用初中的平面几何知识就可以求解。
+
+---
+
+https://www.mathpages.com/home/kmath277/kmath277.htm
+
+## git commit time analyzer
+
+`app` `panel` `meme`
+
+[code996](https://github.com/hellodigua/code996)
+
+![](https://cdn.beekka.com/blogimg/asset/202205/bg2022051808.webp)
+
+一款开源的分析工具，统计 Git 项目的 commit 时间分布，推导出这个项目的编码工作强度。（[@hellodigua](https://github.com/ruanyf/weekly/issues/2403) 投稿）
+
+## coding is thinking, not typing
+
+`dev` `quote`
+
+有一句名言：编程是思考，而不是打字。多年编程后，我时常觉得自己打字太多，思考太少。
+
+-- [《如何控制编程的元认知？》](https://lambdaisland.com/blog/2022-02-17-the-fg-command)
+
+## simple react router
+
+`js` `guide`
+
+[如何写一个 React 路由组件](https://github.com/ashok-khanna/react-snippets/blob/main/Router.js)（英文）
+
+这是一个带有详细注释的脚本，讲解每一行的含义，不到100行代码，实现了 React 的路由。
+
+## indie vue component library
+
+`js` `design` `library`
+
+[Vexip UI](https://www.vexipui.com/zh-CN)
+
+![](https://cdn.beekka.com/blogimg/asset/202207/bg2022071415.webp)
+
+个人打造的 Vue 组件库，没有大厂背景，目前有70多个组件。（[@qmhc](https://github.com/ruanyf/weekly/issues/2493) 投稿）
+
+## no warning is worthwhile
+
+`dev` `quote`
+
+Go 语言只报告编译错误，从不发出警告。因为我们认为，如果值得警告，那就值得在代码中修复。如果不值得修复，那就不值得一提。
+
+-- [Go 官方文档](https://go.dev/doc/faq#unused_variables_and_imports)
+
+## qr code generation explained
+
+`dev` `guide` `editorial`
+
+[二维码生成详细图解](https://www.nayuki.io/page/creating-a-qr-code-step-by-step)
+
+![](https://cdn.beekka.com/blogimg/asset/202205/bg2022052101.webp)
+
+这个网页详细解释字符串转成二维码的过程，每一步都有图示。
+
+## react deep dive
+
+`js` `guide` `ref`
+
+[React 技术揭秘](https://react.iamkasong.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202207/bg2022072801.webp)
+
+原创的中文电子书，解读 React 源码，并有[配套的代码仓库](https://github.com/BetaSu/big-react)，自己从零实现 React 18。（[@BetaSu](https://github.com/ruanyf/weekly/issues/2514) 投稿）
+
+## popular java tutorial
+
+`dev` `guide` `ref`
+
+[Java 学习 + 面试指南](https://javaguide.cn/)
+
+![](https://cdn.beekka.com/blogimg/asset/202207/bg2022072805.webp)
+
+一个收集 Java 核心知识和面试指南的网站，有[开源仓库](https://github.com/Snailclimb/JavaGuide)。（[@Snailclimb](https://github.com/ruanyf/weekly/issues/2525) 投稿）
+
+## saudi arabia neom city
+
+`art` `meme`
+
+本周话题：沙特的新未来城
+
+2017年，沙特宣布要在红海边上的沙漠里面，新建一座前所未有的城市，叫做"新未来城"（Neom）。
+
+它的构想惊世骇俗，整个城市就只有一条路，长达170公里，所有建筑分布在路的两旁。这是一座线性城市。
+
+![](https://cdn.beekka.com/blogimg/asset/202207/bg2022072707.webp)
+
+我第一个感觉是不可思议，只有一条路，怎么建城？但是，仔细一想，就意识到这个设计非常合理。
+
+![](https://cdn.beekka.com/blogimg/asset/202207/bg2022073106.webp)
+
+当时，周刊还介绍过这个设计。因为只有一条路，所以交通只靠轨道交通就够了，完全不需要汽车，也没有公路、十字路口、红绿灯这些东西，特别简单省事。
+
+它非常适合大量人口居住，水电、物流、垃圾都可以通过管道解决。只需要沿着主管道，向路的两边拉出分支就可以了，效率高，成本低。
+
+可是，自从宣布以后，这个"新未来城"就没有下文了。看不到任何推进的消息，沙特政府也不提。
+
+正当大家以为，这个项目只是一个空谈的时候，石油今年突然暴涨了，沙特又有了无穷无尽的石油美元。
+
+今年7月25日，沙特王储开了隆重的新闻发布会，宣布了新未来城的设计细节，号称投入1万亿美元建设这个城市。
+
+![](https://cdn.beekka.com/blogimg/asset/202207/bg2022073107.webp)
+
+这次的设计方案，更加令人震惊。
+
+这座城市的主体将只有一栋楼，叫做["镜线大楼"](https://www.bjnews.com.cn/detail/165883829214386.html)（mirror line），高500米，宽200米，长达120公里。它的外部像镜面一样，可能全部是太阳能板。
+
+![](https://cdn.beekka.com/blogimg/asset/202207/bg2022072710.webp)
+
+强调一下，这栋楼的长度是120公里！北京到天津差不多就是这个距离，沙特这是要在沙漠里面造一道现代长城。
+
+这栋楼的结构是平行的两个外立面，外侧就是沙漠。人都住在这两个外立面之中，它们之间就是走廊、公园绿地、体育场等公用设施。
+
+![](https://cdn.beekka.com/blogimg/asset/202207/bg2022072709.webp)
+
+![](https://cdn.beekka.com/blogimg/asset/202207/bg2022072708.webp)
+
+![](https://cdn.beekka.com/blogimg/asset/202207/bg2022072711.webp)
+
+楼的地下就是轨道交通，以及各种埋设的管道。
+
+下面是官方宣传视频（[腾讯视频](https://v.qq.com/x/page/s3349pyllqx.html)，[Youtube](https://www.youtube.com/watch?v=0kz5vEqdaSc)），大家可以看看。
+
+沙特政府说，第一批建筑物将在2030年落成。完全建成后，居民最高可达900万人。
+
+我觉得，这个日期不太可能，毕竟现在连施工图纸都没有。但是，我真的很期待这栋楼，它现代感十足，充满了天马行空的创意，又让人觉得是可行的，可以成为一个节能的绿色城市，克服现代都市的各种顽疾（交通堵塞、停车难、通勤时间长、绿地少等等）。
+
+中国也在建很多新城，我在想，我们能不能也搞一个这样的实验。选一个地点，造一个以轨道交通为主的线性城市，规模没必要这么大。以我国的基建能力，恐怕会比沙特更早完工吧。
+
+## emoji kitchen by google
+
+`design` `meme` `ref`
+
+Emoji 厨房
+
+2020年，谷歌的设计师做了一个项目，将 Emoji 符号两两合成，组成新的 Emoji。
+
+![](https://cdn.beekka.com/blogimg/asset/202207/bg2022072601.webp)
+
+![](https://cdn.beekka.com/blogimg/asset/202207/bg2022072602.webp)
+
+这个项目起名为["Emoji 厨房"](https://blog.google/products/android/feeling-all-the-feels-theres-an-emoji-sticker-for-that/)，意为对 Emoji 进行加工。
+
+设计师一共画了几万张图片，在安卓的 Gboard 应用提供，那是一个键盘应用，需要单独安装。不过，所有图片都放在谷歌的服务器上，可以随意调用。
+
+很多外部开发者就写了各种 UI，方便大家查找获取这些图片。
+
+1、[Emoji Kitchen](https://emojikitchen.dev/)
+
+![](https://cdn.beekka.com/blogimg/asset/202207/bg2022072603.webp)
+
+2、[Emojimix](https://tikolu.net/emojimix/)
+
+![](https://cdn.beekka.com/blogimg/asset/202207/bg2022072604.webp)
+
+3、[Emoji Supply](https://emoji.supply/kitchen/)
+
+![](https://cdn.beekka.com/blogimg/asset/202207/bg2022072605.webp)
+
+## deliver value, not code
+
+`dev` `quote`
+
+软件开发的目标不是类型安全、100%的测试覆盖率、流畅的代码逻辑、完善的开发工具、高效的系统、使用最好的编程语言、优雅的 API 设计、快速的反馈循环、编写很棒的代码等等......
+
+软件开发的真正目标只有一个：发布解决客户问题的软件，为客户提供价值。
+
+-- [《成为专业程序员10周年的感悟》](https://thorstenball.com/blog/2022/05/17/professional-programming-the-first-10-years/)
+
+## pixel animals
+
+`art` `retro`
+
+[像素动物](https://kottke.org/22/03/pixel-birds-and-other-animals)
+
+一个日本艺术家贴出了，他绘制的大量像素动物，非常有趣。
+
+![](https://cdn.beekka.com/blogimg/asset/202203/bg2022033105.webp)
+
+![](https://cdn.beekka.com/blogimg/asset/202203/bg2022033106.webp)
+
+![](https://cdn.beekka.com/blogimg/asset/202203/bg2022033107.webp)
+
 ##
 
 
-
-##
-
-##
-
-##
-
-##
-
-##
-
-##
-
-##
-
-##
-
-##
-
-##
-
-##
-
-##
-
-##
 
 ##
 

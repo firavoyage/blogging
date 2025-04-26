@@ -18,11 +18,12 @@
 
 > elegant reader for elegant writer
 
-- markdown extended
+- reader
+  - toc sidebar
+  - zen mode
+- editor
   - collapsed block
   - styled block
-- navigation
-- zen mode
 - portable
   - html
   - pdf
@@ -241,16 +242,15 @@
   - transparent recommendation algorithm
 - source
   - search engine
-  - public api
+  - reverse engineered api
   - music videos
   - magnet library
-  - reversed api
 - inspired by
-  - myfreemp3
   - spotify
-  - apple music
   - youtube music
+  - apple music
   - soundcloud
+  - myfreemp3
 
 ### `theatre`
 

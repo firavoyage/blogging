@@ -12,7 +12,7 @@
 
 - a developer, writer, wikipedian
 - grew up in shanghai
-- on the internet since 2016, which is my actual "home town"
+- on the internet since 2019, which is my actual "home town"
 - live in the bay area
 - working on voyage project
 
@@ -40,7 +40,7 @@
   - dried mango
   - chenpi
   - huamei
-- - jazz & lofi & hiphop & downtempo & classical
+- - jazz & lofi & classical & rock & folk
   - calendar & wall clock & life size waifu pillow
   - origami & pixel art & gardening
   - math & algorithms & unixporn & mtf & virtualyoutubers & ruozhiba
@@ -50,6 +50,7 @@
   - arrangement & accumulation
   - cynicism & dissociation & inner speech & second person omniscient narration
 - - ace taffy
+  - antfu
   - azi azusa
   - chen zhe aya
   - chtholly
@@ -66,6 +67,7 @@
   - kasuga tsubaki
   - kasugano sora
   - keyboard cat
+  - kirikaze chiyuki
   - kkksc03
   - konata izumi
   - liangxihuigui
@@ -78,6 +80,7 @@
   - mugumogu maru
   - muoujiang_
   - nahida
+  - nayuki
   - nina iseri
   - origami birds
   - probiusofficial
@@ -98,8 +101,8 @@
   - the sound of silence (simon & garfunkel)
   - a day in the life (the beatles)
   - lost for words (pink floyd)
-  - a cruel angel's thesis (yoko takahashi)
   - fly me to the moon (all that jazz)
+  - a cruel angel's thesis (yoko takahashi)
   - world.execute(me); (mili)
   - magnet (minato aqua & inuyama tamaki)
   - henceforth (kagura mea) (yuuki sakuna)
@@ -113,8 +116,6 @@
   - the name of life (joe hisaishi)
   - dry hands (c418)
   - shopsation (hoyo-mix)
-  - the legend of zelda: ocarina of time title theme (koji kondo)
-  - angry birds theme (ari pulkkinen)
   - caresse sur l'océan (bruno coulais & les petits chanteurs de saint-marc)
   - gion2 (hoyo-mix)
   - benevolence bequeathed (hoyo-mix)
@@ -122,10 +123,9 @@
   - the brave (yoasobi)
   - one last kiss (hikaru utada)
   - ymca (village people)
-  - never gonna give you up (rick astley)
   - internet overdose (aiobahn & kotoko)
   - sky (beyond)
-  - you my deskmate (gao xiaosong & lao lang)
+  - you my deskmate (lao lang)
   - thou away from oi (menci & wxh010910 & yan qval & krydom & niro bc & wer key tom_ftd & \_\_stdcall & created_equal & whzzt & wy1627)
   - qun ding (mi feng chu & qiu ju)
   - counter-clockwise clock (kafka & jay chou)
@@ -135,7 +135,6 @@
   - love before bc (jay chou)
   - fleet of time (faye wong)
   - kletka (molchat doma)
-  - yumeji’s theme (shigeru umebayashi)
 - - spirited away (2001)
   - goodbye mr. loser (2015)
   - soul (2020)
@@ -183,6 +182,7 @@
   - .my youth romantic comedy is wrong, as i expected (2013)
   - .attack on titan (2013)
   - .puella magi madoka magica (2011)
+  - .anohana: the flower we saw that day (2011)
   - .school days (2007)
   - .white album (2009)
   - .reply 1988 (2015)
@@ -225,17 +225,17 @@
   - .split fiction (2025)
   - .inzoi (2025)
 - - google & chatgpt & gemini & deepseek & mistral ai
-  - wikipedia & miraheze & fandom & wotaku.wiki & moegirl.icu & oi wiki & acmer.info
+  - wikipedia & miraheze & fandom & moegirl.icu & oi wiki
   - internet archive wayback machine & archive.today
   - youtube & berryberry & acfun & niconico & vtbs.moe & hololist
   - old reddit & hacker news & twitter & zhihu & nga bbs & baidu tieba & v2ex & github trending & product hunt
   - ruanyf weekly & tw93 weekly & gamedevjs weekly & codepen spark
-  - douban & imdb & bangumi.tv & my anime list & bgmlist & mikan project & nyaa.si & dmhy.org & yuc.wiki
+  - douban & imdb & bangumi.tv & my anime list & bgmlist & mikan project & nyaa.si & dmhy.org & yuc.wiki & wotaku.wiki
   - pixiv & deviantart & civitai & e hentai & dribbble & unsplash
   - steam db & itch.io & google doodles & vndb & shinnku galgame & kungal & touchgal
   - the pirate bay & z library & anna's archive
-  - codeforces & atcoder & luogu & libre oj
-  - travellings.cn & foreverblog.cn & travel.moe
+  - codeforces & atcoder & luogu & libre oj & project euler
+  - travellings.cn & foreverblog.cn & travel.moe & acmer.info
 - - to live (yu hua)
   - road ahead (ruan yifeng)
   - the water level of ideology (liu yu)
@@ -254,8 +254,8 @@
   - hello algo (krahets)
   - competitive programmers' handbook (antti laaksonen)
   - integer overflow: the development, prosperity and decline of olympics in informatics (xu xiling)
-  - mathematical olympiad series (xiong bin & ...)
   - mathematics, no 2 secondary school attached to east china normal university (liu chuxi & shi hongliang & cai dongshan)
+  - mathematical olympiad series (xiong bin & ...)
   - .one hundred years of solitude (gabriel garcía márquez)
   - .metaphors we live by (george lakoff & mark johnson)
   - .godel, escher, bach (douglas hofstadter)
@@ -421,6 +421,7 @@
     - onscripter-yuri 0.7.4
     - simplelive 1.7.3
     - snapseed 2.19.1
+    - spotify 9.0.38.433-mod
 - - lenovo yoga 13s acn 2021
   - smartisan revolution ii
   - oneplus buds 3
@@ -560,6 +561,7 @@
   - `nat` belief of a tech entrepreneur
   - `florio` advice for the programming ride
   - `jiangyanyan` confused cs graduates in the time
+  - ...
 - ideas
   - `projects` worthwhile endeavours
   - `quotes` collection of the surfer
