@@ -260,7 +260,7 @@
 - fix: `class` label doesnt take effect
   - replace with `className`
 
-## 0.33 .
+## 0.33 (not released)
 
 - (wip)
 - chore: read svelte examples
@@ -370,11 +370,6 @@
 
 ## 0.34 20250401
 
-- style: remove `lib.use`
-  - fp is good, but oop is ok
-- style: remove `lib.is` `lib.isnt`
-  - `==` is ok (no type issue)
-  - `===` is used rarely, when where could be type issue
 - refactor!: `ui = f(states)` and test driven dev
   - props and states are the same thing, as `p`
   - make the whole api simpler and remove most legacy code
@@ -383,6 +378,11 @@
     - svelte playground
     - solidjs docs & component examples
     - react component examples
+- style: remove `lib.use`
+  - fp is good, but oop is ok
+- style: remove `lib.is` `lib.isnt`
+  - `==` is ok (no type issue)
+  - `===` is used rarely, when where could be type issue
 - feat: `p(props)`, properties of a component
   - assign `passedprops` to `props`
   - returns a proxy, each key in obj becomes a fn
@@ -409,7 +409,7 @@
 - feat: `run(component, selector)`
 - feat: `@ref`
 
-## 0.35
+## 0.35 (not released)
 
 - style: remove some indentation
   - for fn like `fn(){if(return) else(return)}` `else` is ommited
@@ -440,19 +440,23 @@
 - feat: `load(library)` and nested components
 - feat: macro `@ref: state`
   - assign the element to the state on creation
-- **todo:**
+
+## 0.36
+
+- refactor!: make voyagejs declarative and simple
+  - create vdom inside render fn
+  - rerun component whenever state changes
+    - rerun component, update vdom
+    - diff vdom and dom
 - feat: macro `@style`
   - ref
     - https://tailwindcss.com/docs/styling-with-utility-classes
     - https://tachyons.io/
     - https://unocss.dev/guide/
-- feat: parent effect cleanups child effects
-- feat: `batch(operations)`
-  - batch operations, create a set of effect, the same effect only run once
-- feat: `batch` update during an `effect`
 - feat: `route`
   - ref https://docs.solidjs.com/guides/routing-and-navigation
 - test: a component library
   - ref
     - https://v2.chakra-ui.com/docs/components
     - https://ui.shadcn.com/docs/components/
+

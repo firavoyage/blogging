@@ -5849,13 +5849,41 @@ Emoji 厨房
 
 ![](https://cdn.beekka.com/blogimg/asset/202203/bg2022033107.webp)
 
+## stable diffusion launch
+
+`ai` `image`
+
+[Stable Diffusion 资源](https://github.com/Maks-s/sd-akashic)
+
+上周的一件大事是 [Stable Diffusion 模型](https://github.com/CompVis/stable-diffusion)发布了。
+
+它是一个"文本到图像"的开源引擎，功能跟闭源的 DALL-E 引擎类似，但代码是公开的。
+
+![](https://cdn.beekka.com/blogimg/asset/202209/bg2022090110.webp)
+
+已经有很多人基于它开发各种应用，标题链接是一个仓库，收集各种相关链接。
+
+它还可以从草图生成详图，这里有一篇大开眼界的[使用案例](https://andys.page/posts/how-to-draw/)。下面是作者手绘的草图。
+
+![](https://cdn.beekka.com/blogimg/asset/202208/bg2022083101.webp)
+
+下面是 Stable Diffusion 给出的详图。
+
+![](https://cdn.beekka.com/blogimg/asset/202208/bg2022083102.webp)
+
+## bypass chinese gfw and access google
+
+`dev` `society` `misc` `ref` `essay`
+
+access google in china, made easy
+
+---
+
+(bypass.md)
+
 ##
 
 
-
-##
-
-##
 
 ##
 
