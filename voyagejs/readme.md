@@ -1,13 +1,7 @@
 ## voyage.js
 
-### features
+another js framework, by fira.
 
-wd
+write less code with elegant api
 
-### usage
 
-wd
-
-### status
-
-wip
