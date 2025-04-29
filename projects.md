@@ -127,6 +127,7 @@
   - remove watermark
   - to svg
   - create meme
+  - clear blind watermark and exif
 - inspired by
   - snapseed
   - canva
@@ -150,6 +151,7 @@
   - pexels
 - inspired by
   - shan shui
+  - picrew
   - stable diffusion
   - midjourney
 

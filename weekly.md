@@ -34,6 +34,7 @@
 - watch bocchi the rock
 - watch mygo
 - watch evangelion
+- watch the melancholy of haruhi suzumiya
 
 > _enlightenment_
 
