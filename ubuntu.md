@@ -525,7 +525,7 @@ sudo apt install gnome-shell-extension-prefs
 - config gitlab
   - allow force push (remove protected branch) https://gitlab.com/username/project/-/settings/repository#js-protected-tags-settings
   ```sh
-  git remote add l https://username:password@gitlab.com/username/project.git
+  git remote add l git@gitlab.com:username/project.git
   ```
 - config gitee
   ```sh
