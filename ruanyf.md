@@ -1060,6 +1060,14 @@ http://www.perell.com/blog/never-ending-now
 
 (never ending now.md)
 
+---
+
+打开网站或 App，首页永远是最近发生的事情。
+
+互联网引导我们关注过去24小时内发生的事情，将时效性置于重要性和深度之上，使我们远离了很多深刻的想法。结果，我们陷入了一个永无止境的现在时。
+
+-- [David Perell](https://perell.com/essay/never-ending-now/)
+
 ## getting rich by leverage, not driving taxi
 
 `career` `view` `ref`
@@ -2765,7 +2773,7 @@ https://chrome.google.com/webstore/detail/mpbjkejclgfgadiemmefgebjfooflfhl
 
 ![](https://cdn.beekka.com/blogimg/asset/202205/bg2022051803.webp)
 
-在线的正则表达式测试和可视化工具。（[@pccprint](https://github.com/ruanyf/weekly/issues/2388) 投稿）
+在线的正则表达式测试和可视化工具。（[@pccprint](https://github.com/ruanyf/weekly/issues/2388)  投稿）
 
 ## collection of this x does not exist sites
 
@@ -5675,7 +5683,7 @@ https://www.mathpages.com/home/kmath277/kmath277.htm
 
 ![](https://cdn.beekka.com/blogimg/asset/202205/bg2022051808.webp)
 
-一款开源的分析工具，统计 Git 项目的 commit 时间分布，推导出这个项目的编码工作强度。（[@hellodigua](https://github.com/ruanyf/weekly/issues/2403) 投稿）
+一款开源的分析工具，统计 Git 项目的 commit 时间分布，推导出这个项目的编码工作强度。（[@hellodigua](https://github.com/ruanyf/weekly/issues/2403)  投稿）
 
 ## coding is thinking, not typing
 
@@ -5691,7 +5699,7 @@ https://www.mathpages.com/home/kmath277/kmath277.htm
 
 [如何写一个 React 路由组件](https://github.com/ashok-khanna/react-snippets/blob/main/Router.js)（英文）
 
-这是一个带有详细注释的脚本，讲解每一行的含义，不到100行代码，实现了 React 的路由。
+这是一个带有详细注释的脚本，讲解每一行的含义，不到 100 行代码，实现了 React 的路由。
 
 ## indie vue component library
 
@@ -5701,7 +5709,7 @@ https://www.mathpages.com/home/kmath277/kmath277.htm
 
 ![](https://cdn.beekka.com/blogimg/asset/202207/bg2022071415.webp)
 
-个人打造的 Vue 组件库，没有大厂背景，目前有70多个组件。（[@qmhc](https://github.com/ruanyf/weekly/issues/2493) 投稿）
+个人打造的 Vue 组件库，没有大厂背景，目前有 70 多个组件。（[@qmhc](https://github.com/ruanyf/weekly/issues/2493)  投稿）
 
 ## no warning is worthwhile
 
@@ -5729,7 +5737,7 @@ Go 语言只报告编译错误，从不发出警告。因为我们认为，如�
 
 ![](https://cdn.beekka.com/blogimg/asset/202207/bg2022072801.webp)
 
-原创的中文电子书，解读 React 源码，并有[配套的代码仓库](https://github.com/BetaSu/big-react)，自己从零实现 React 18。（[@BetaSu](https://github.com/ruanyf/weekly/issues/2514) 投稿）
+原创的中文电子书，解读 React 源码，并有[配套的代码仓库](https://github.com/BetaSu/big-react)，自己从零实现 React 18。（[@BetaSu](https://github.com/ruanyf/weekly/issues/2514)  投稿）
 
 ## popular java tutorial
 
@@ -5739,7 +5747,7 @@ Go 语言只报告编译错误，从不发出警告。因为我们认为，如�
 
 ![](https://cdn.beekka.com/blogimg/asset/202207/bg2022072805.webp)
 
-一个收集 Java 核心知识和面试指南的网站，有[开源仓库](https://github.com/Snailclimb/JavaGuide)。（[@Snailclimb](https://github.com/ruanyf/weekly/issues/2525) 投稿）
+一个收集 Java 核心知识和面试指南的网站，有[开源仓库](https://github.com/Snailclimb/JavaGuide)。（[@Snailclimb](https://github.com/ruanyf/weekly/issues/2525)  投稿）
 
 ## saudi arabia neom city
 
@@ -5747,9 +5755,9 @@ Go 语言只报告编译错误，从不发出警告。因为我们认为，如�
 
 本周话题：沙特的新未来城
 
-2017年，沙特宣布要在红海边上的沙漠里面，新建一座前所未有的城市，叫做"新未来城"（Neom）。
+2017 年，沙特宣布要在红海边上的沙漠里面，新建一座前所未有的城市，叫做"新未来城"（Neom）。
 
-它的构想惊世骇俗，整个城市就只有一条路，长达170公里，所有建筑分布在路的两旁。这是一座线性城市。
+它的构想惊世骇俗，整个城市就只有一条路，长达 170 公里，所有建筑分布在路的两旁。这是一座线性城市。
 
 ![](https://cdn.beekka.com/blogimg/asset/202207/bg2022072707.webp)
 
@@ -5765,17 +5773,17 @@ Go 语言只报告编译错误，从不发出警告。因为我们认为，如�
 
 正当大家以为，这个项目只是一个空谈的时候，石油今年突然暴涨了，沙特又有了无穷无尽的石油美元。
 
-今年7月25日，沙特王储开了隆重的新闻发布会，宣布了新未来城的设计细节，号称投入1万亿美元建设这个城市。
+今年 7 月 25 日，沙特王储开了隆重的新闻发布会，宣布了新未来城的设计细节，号称投入 1 万亿美元建设这个城市。
 
 ![](https://cdn.beekka.com/blogimg/asset/202207/bg2022073107.webp)
 
 这次的设计方案，更加令人震惊。
 
-这座城市的主体将只有一栋楼，叫做["镜线大楼"](https://www.bjnews.com.cn/detail/165883829214386.html)（mirror line），高500米，宽200米，长达120公里。它的外部像镜面一样，可能全部是太阳能板。
+这座城市的主体将只有一栋楼，叫做["镜线大楼"](https://www.bjnews.com.cn/detail/165883829214386.html)（mirror line），高 500 米，宽 200 米，长达 120 公里。它的外部像镜面一样，可能全部是太阳能板。
 
 ![](https://cdn.beekka.com/blogimg/asset/202207/bg2022072710.webp)
 
-强调一下，这栋楼的长度是120公里！北京到天津差不多就是这个距离，沙特这是要在沙漠里面造一道现代长城。
+强调一下，这栋楼的长度是 120 公里！北京到天津差不多就是这个距离，沙特这是要在沙漠里面造一道现代长城。
 
 这栋楼的结构是平行的两个外立面，外侧就是沙漠。人都住在这两个外立面之中，它们之间就是走廊、公园绿地、体育场等公用设施。
 
@@ -5789,7 +5797,7 @@ Go 语言只报告编译错误，从不发出警告。因为我们认为，如�
 
 下面是官方宣传视频（[腾讯视频](https://v.qq.com/x/page/s3349pyllqx.html)，[Youtube](https://www.youtube.com/watch?v=0kz5vEqdaSc)），大家可以看看。
 
-沙特政府说，第一批建筑物将在2030年落成。完全建成后，居民最高可达900万人。
+沙特政府说，第一批建筑物将在 2030 年落成。完全建成后，居民最高可达 900 万人。
 
 我觉得，这个日期不太可能，毕竟现在连施工图纸都没有。但是，我真的很期待这栋楼，它现代感十足，充满了天马行空的创意，又让人觉得是可行的，可以成为一个节能的绿色城市，克服现代都市的各种顽疾（交通堵塞、停车难、通勤时间长、绿地少等等）。
 
@@ -5801,7 +5809,7 @@ Go 语言只报告编译错误，从不发出警告。因为我们认为，如�
 
 Emoji 厨房
 
-2020年，谷歌的设计师做了一个项目，将 Emoji 符号两两合成，组成新的 Emoji。
+2020 年，谷歌的设计师做了一个项目，将 Emoji 符号两两合成，组成新的 Emoji。
 
 ![](https://cdn.beekka.com/blogimg/asset/202207/bg2022072601.webp)
 
@@ -5833,7 +5841,7 @@ Emoji 厨房
 
 软件开发的真正目标只有一个：发布解决客户问题的软件，为客户提供价值。
 
--- [《成为专业程序员10周年的感悟》](https://thorstenball.com/blog/2022/05/17/professional-programming-the-first-10-years/)
+-- [《成为专业程序员 10 周年的感悟》](https://thorstenball.com/blog/2022/05/17/professional-programming-the-first-10-years/)
 
 ## pixel animals
 
@@ -5855,7 +5863,7 @@ Emoji 厨房
 
 [Stable Diffusion 资源](https://github.com/Maks-s/sd-akashic)
 
-上周的一件大事是 [Stable Diffusion 模型](https://github.com/CompVis/stable-diffusion)发布了。
+上周的一件大事是  [Stable Diffusion 模型](https://github.com/CompVis/stable-diffusion)发布了。
 
 它是一个"文本到图像"的开源引擎，功能跟闭源的 DALL-E 引擎类似，但代码是公开的。
 
@@ -5881,11 +5889,153 @@ access google in china, made easy
 
 (bypass.md)
 
+## how hard is language learning, by stats of vocabulary
+
+`weather` `theory` `ref`
+
+[学习外语为什么需要那么长时间？](https://theamericanscholar.org/the-new-old-way-of-learning-languages/)
+
+1949 年，哈佛语言学家齐夫（George Kingsley Zipf）做了长篇小说《尤利西斯》的词频统计。该书的长度是 260,430 字，总共用到了 29,899 个单词。它是单词量最大的文学作品之一。
+
+![](https://cdn.beekka.com/blogimg/asset/202209/bg2022090111.webp)
+
+他发现，单词的出现频率有规律地下降。词频第二名的单词的出现频率，是第一名的二分之一，第三名的出现频率是第一名的三分之一，第四名是四分之一，第十名是十分之一，第 1,000 名是千分之一，以此类推。
+
+这被称为 Zipf 定律，即任何单词的词频，与该单词在词频表中的排名保持一个固定比例。
+
+![](https://cdn.beekka.com/blogimg/asset/202209/bg2022090112.webp)
+
+这个定律有两个重要推论。
+
+（1）一种语言的常用词汇只包含少数单词。例如，在英语中，单词 the 占所有文本的 7%，最常见的 10 个英语单词占到了所有文本的 23%。
+
+对于当今世界的大多数语言来说，仅仅 100 到 150 个常用单词，就占所有文本的一半左右。在希腊语的《圣经新约》中，319 个单词占全书近 80%的内容。
+
+（2）当你掌握了这些高频常用词以后，遇到的所有词汇几乎都是低频词。
+
+还是以希腊语的《圣经新约》为例，319 个单词占文本的近 80%，但剩下的 20%包含了 5118 个不常用的单词，其中大部分单词只使用了一次。
+
+推论二注定了精通一种外语是一件麻烦事。学习者入门以后，就不得不花大量时间，记住那些出现频率很低的词汇。以布朗大学语料库为例，该语料库一共包含了 53,076 个单词，其中 36,135 个单词在语料库的所有文献中出现次数不超过三次，它们占了词汇量的 68%，但是仅仅在 5%的场合使用。
+
+更麻烦的是，这些不常见的词往往很重要，能够提供句子的关键信息。越少见的词对于了解句子含义越重要。
+
+学习者遇到不认识的单词，可以通过上下文去猜测含义。但是，一项研究表明，如果要从上下文中正确猜中单词含义，阅读者必须能够理解文本中至少 95%的内容。
+
+对于布朗语料库来说，15,851 个单词可以覆盖语料库 97.8%的内容。这差不多就是英美大学生掌握的单词数量。这意味着，如果你记住了 15000 个单词，再遇到不认识的单词，就可以较有把握得猜出它的含义。
+
+但是，对于外国人来说，想要通过几年学习，掌握 15000 个左右的英语单词，绝非易事。
+
+## time as rectangles
+
+`app` `design`
+
+[Rectangles](https://rectangles.app/)
+
+![](https://cdn.beekka.com/blogimg/asset/220204/bg2022040204.webp)
+
+这个网页上，一个方块代表 10 分钟，一天 24 小时就是 144 个方块。可以一眼看到，当天还有多少个方块空着。
+
+## figma vs sketch
+
+`dev` `view` `ref`
+
+本周话题：Figma 为什么赢了 Sketch
+
+上周，Adobe 公司[宣布](https://36kr.com/p/1917326805803014)，200 亿美元收购设计软件 Figma。
+
+![](https://cdn.beekka.com/blogimg/asset/202209/bg2022092001.webp)
+
+这个收购价高得吓人。Figma 去年的[收入](https://www.cbinsights.com/company/figma/financials)是 5000 万美元，今年据说可以到 4 亿美元。就算这个预测是可靠的，收购价也达到了收入的 50 倍！
+
+作为比较，微软 2018 年收购 GitHub 的价格是 75 亿美元，那一年 GitHub 的收入约为 3 亿美元。
+
+为什么一个面向专业用户、2016 年才问世的设计软件，能值这么多钱？
+
+![](https://cdn.beekka.com/blogimg/asset/202209/bg2022092002.webp)
+
+Figma 有一个竞争对手  [Sketch](https://www.sketch.com/)，功能差不多。直到 2019 年，Sketch 的估值还超过 Figma。当时，网上还有猜测，Sketch 什么时候会收购 Figma，但是没想到后来就被 Figma 甩开差距了。
+
+今天就想谈谈 Figma 的高估值，以及为什么 Sketch 输给了它？
+
+我不是设计师用户，无法全面分析，只想指出在技术上，它们有一个重大差异。
+
+Sketch 是一个原生 MacOS 应用，只能在苹果电脑上安装运行，没有免费版。Figma 则是一个 Web 应用，只要有浏览器就能用，而且有免费版。  下图是浏览器打开 Figma 的样子。
+
+![](https://cdn.beekka.com/blogimg/asset/202209/bg2022092004.webp)
+
+你想想看，一个要用 Mac 电脑下载安装，付费才能用，另一个只要打开浏览器就能用，谁占优势不言而喻。
+
+但是，事情没这么简单。原生应用则可以调用底层的系统 API，网页应用受限于浏览器，很多功能实现不了。所以，Sketch 功能和性能肯定强于 Figma。
+
+Figma 怎么解决这个问题呢？答案就是  [Rust 语言](https://www.figma.com/blog/rust-in-production-at-figma/)。虽然 Figma 是网页应用，但它不是用 JavaScript 写的，而是用 Rust 写的，再编译成浏览器能理解的 WebAssembly 字节码格式，从而达到接近原生应用的性能。
+
+![](https://cdn.beekka.com/blogimg/asset/202209/bg2022092006.webp)
+
+事实上，Figma 是业内 WebAssembly 最强的公司之一。  它的 CTO 埃文-华莱士（Evan Wallace）实在忍受不了 JavaScript 的慢速度，就动手写了新一代的 JavaScript 打包器  [ESbuild](https://esbuild.github.io/faq/#benchmark-details)，结果竟比传统的打包器 Webpack 快了 100 多倍（0.33s vs 41.53s）！
+
+![](https://cdn.beekka.com/blogimg/asset/202209/bg2022092007.webp)
+
+（图片说明：Figma 的两位创始人，左为 CTO 埃文-华莱士。）
+
+一旦解决了浏览器的性能瓶颈，能够接近原生应用的体验，Figma 赢出就毫无悬念了。
+
+近年来，大家好像有一个观念：原生应用是标配，Web 应用是选配。  很多软件明明有非常好用的 Web 版，还一定要用 Electron 去包一个桌面版，让用户下载安装。仿佛只有存在一个可以安装的桌面客户端，才感到安心。
+
+这一次，Figma 以 200 亿美元被收购，证明 Web 应用并没有过时。即使不走原生应用那条路，依然有机会成功。
+
+另一方面，Adobe 是一家靠原生应用起家的公司，这几年一直在转向云端，推出了  [Adobe Creative Cloud](https://creativecloud.adobe.com/zh-Hans)，把自家的软件向浏览器迁移，希望用户打开浏览器就能用，收费方式也从买断变成了订阅制。
+
+![](https://cdn.beekka.com/blogimg/asset/202209/bg2022092201.webp)
+
+今年 6 月，Adobe 将王牌产品 PhotoShop 的网页版向所有人[免费提供](https://finance.sina.com.cn/tech/2022-06-15/doc-imizmscu6902624.shtml)。我觉得，这跟收购 Figma 是有关系的。Adobe 愿意花这么大的代价买下 Figma，不仅仅是为了产品本身，也是为了获得背后的技术，帮助开发自己的 Web 应用，彻底走向云端化。
+
+## chinese podcast ranking
+
+`info`
+
+[中文播客榜](https://xyzrank.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202209/bg2022092111.webp)
+
+查看中文播客的排名和热门节目，数据取自小宇宙和 Apple Podcast，每日更新。（[@alaskasquirrel](https://github.com/ruanyf/weekly/issues/2641)  供稿）
+
+## thoughts are limited without innocence
+
+`quote`
+
+不要浪费你的无知。当你对一门知识毫无所知时，最容易问出简单而重要的问题。
+
+一旦你习惯了某种现象或事物，认为它是理所当然时，思维就不知不觉受到了限制。
+
+-- [David Kohn](https://www.timescale.com/blog/how-postgresql-views-and-materialized-views-work-and-how-they-influenced-timescaledb-continuous-aggregates/)
+
+## common algorithms of competitive programming
+
+`algorithms` `guide` `library` `ref`
+
+[编程竞赛的常见算法](https://cp-algorithms.com/)（Algorithms for Competitive Programming）
+
+![](https://cdn.beekka.com/blogimg/asset/202203/bg2022031708.webp)
+
+这是一本免费的英文电子书，逐一讲解编程竞赛里面常见的几十种算法，求职面试也用得到。
+
+## react re-renders and (auto) memo
+
+`js` `guide` `ref` `essay`
+
+[React 的重新渲染](https://www.joshwcomeau.com/react/why-react-re-renders/)（英文）
+
+![](https://cdn.beekka.com/blogimg/asset/202208/bg2022081704.webp)
+
+本文详细解释怎么会触发 React 的重新渲染。文章比较长，但是不难。
+
+---
+
+(react memo.md)
+
 ##
 
 
-
-##
 
 ##
 

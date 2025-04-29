@@ -2,10 +2,10 @@
  * @file
  * voyage framework
  *
- * this version is developed during 20250429 ~ (utc+8)
+ * this version is developed during 20250401 ~ 20250429 (utc+8)
  *
  * @author firavoyage
- * @version 0.36
+ * @version 0.35
  * @since 0.1 initiated on 20240806
  * @see changelog.md
  */

@@ -351,7 +351,7 @@
   - `@html` and `@text` are useless, being removed
 - feat: `replace` fn diff with `key`
   - for each old, create key map `{key: {node, index}}`
-  - for each new, if new one has key 
+  - for each new, if new one has key
     - if key exists, move old one and remove matched key
     - otherwise insert new one
     - remove leftover old nodes on key map
@@ -391,7 +391,7 @@
   - set (a param, not fn): set value, call all subscribers
   - set (a param, fn): pass current value, set returned value, call ...
     - a prop can not be set to undefined, if the fn returns undefined, consider some prop inside the state has changed (ref immer "produce")
-  - ref 
+  - ref
     - https://docs.solidjs.com/advanced-concepts/fine-grained-reactivity
     - https://docs.solidjs.com/guides/state-management
     - https://docs.solidjs.com/guides/complex-state-management
@@ -409,7 +409,7 @@
 - feat: `run(component, selector)`
 - feat: `@ref`
 
-## 0.35 (not released)
+## 0.35 20250429
 
 - style: remove some indentation
   - for fn like `fn(){if(return) else(return)}` `else` is ommited
@@ -443,11 +443,18 @@
 
 ## 0.36
 
-- refactor!: make voyagejs declarative and simple
-  - create vdom inside render fn
-  - rerun component whenever state changes
-    - rerun component, update vdom
-    - diff vdom and dom
+- fix: remove `m`
+  - derived state and state are the same, both are fn
+  - no need to be wrapped
+- feat: `prop(...path, value)`
+  - updating obj faster
+- fix: a prop can be undefined
+  - use ...a and a.length to determine whether undefined is passed
+- feat: `render(component, on)`
+  - create vdom
+  - set vdom
+  - diff specific dom
+  - apply update
 - feat: macro `@style`
   - ref
     - https://tailwindcss.com/docs/styling-with-utility-classes
@@ -459,4 +466,3 @@
   - ref
     - https://v2.chakra-ui.com/docs/components
     - https://ui.shadcn.com/docs/components/
-

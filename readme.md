@@ -62,7 +62,9 @@
   - henri, le chat noir
   - hitori gotoh
   - hsn8086
+  - huxpro
   - jingsheng237248
+  - joshwcomeau
   - kagura mea
   - kasuga tsubaki
   - kasugano sora
@@ -159,6 +161,7 @@
   - the big short (2019)
   - .princess mononoke (1997)
   - .the truman show (1998)
+  - .the disappearance of haruhi suzumiya (2010)
 - - tom and jerry (1940)
   - in solitude where we are least alone (2010)
   - international chinese debating competition (2013)
@@ -173,7 +176,6 @@
   - .k-on! (2009)
   - .frieren: beyond journey's end (2023)
   - .the melancholy of haruhi suzumiya (2006)
-  - .the disappearance of haruhi suzumiya (2010)
   - .a certain scientific railgun (2009)
   - .re: zero - starting life in another world (2016)
   - .tonikawa: over the moon for you (2020)
