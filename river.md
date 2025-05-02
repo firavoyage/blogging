@@ -114,6 +114,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `9` 20250213
 - `10` 20250223
 - `11` 20250307
+- `12` 20250502
 
 ### girls band cry
 
@@ -5222,7 +5223,7 @@ Menci 💖 @lcMenci · Apr 21
 
 ---
 
-found this quote 
+found this quote
 
 https://www.ruanyifeng.com/blog/2022/06/weekly-issue-209.html
 
@@ -5246,7 +5247,7 @@ installed fcitx5 mozc, now i can input japanese on ubuntu!
 
 ---
 
-girls band cry 第八集. 
+girls band cry 第八集.
 
 太爽了, 一边哭一边告白.
 
@@ -5264,7 +5265,7 @@ girls band cry 第八集.
 
 或许 f 可以开发一个 float, 聚合多平台资源.
 
-显然这些前人述备矣, 不过界面大多简陋. 
+显然这些前人述备矣, 不过界面大多简陋.
 
 fira 或许更关心设计和推荐算法.
 
@@ -5305,7 +5306,7 @@ found a quote on twitter
 
 吃 coco 奶茶, 蛋黄肉粽, spotify 上听 hotel california 专辑.
 
-duolingo 冲榜, 想上最高段位. 
+duolingo 冲榜, 想上最高段位.
 
 想来, 是今年的第一只粽子呢.
 
@@ -5323,12 +5324,12 @@ duolingo 冲榜, 想上最高段位.
 
 this twitter acc looks fun
 
-仁仁菜🦔菜仁仁🦔仁菜菜🦔
+仁仁菜 🦔 菜仁仁 🦔 仁菜菜 🦔
 @Rencai_Nina
 Follows you
 
 Parody account
-👆中专少女乐队主唱😋 /一般都会fo/找我说话我会想办法让你开心(✿◠‿◠) 不键政🤐 / 爱玩战地1，荒野大镖客，GTA，COD，黄油🧈最近玩洲/我是搞抽象的补药八零我😭/梦想让486成为我脑婆🥰（不要告诉mmk)/大家快来视奸我😈
+👆 中专少女乐队主唱 😋 /一般都会 fo/找我说话我会想办法让你开心(✿◠‿◠) 不键政 🤐 / 爱玩战地 1，荒野大镖客，GTA，COD，黄油 🧈 最近玩洲/我是搞抽象的补药八零我 😭/梦想让 486 成为我脑婆 🥰（不要告诉 mmk)/大家快来视奸我 😈
 
 ---
 
@@ -5385,7 +5386,7 @@ ak 上线了竞彩赌博模式诶! 两边各一堆怪, 赌哪边赢.
 - 永雏塔菲大好
 - 猫娘神大好き
 
-主玩永雏塔菲那个号. 
+主玩永雏塔菲那个号.
 
 那个队友看到永雏塔菲就很兴奋.
 
@@ -5415,5 +5416,26 @@ ak 上线了竞彩赌博模式诶! 两边各一堆怪, 赌哪边赢.
 
 放到 weekly 里了.
 
+### may 2025
+
+劳动节! 去长兴岛玩. 玩两天.
+
+吃烧烤.
+
 ---
 
+旅馆房间有麻将机, 学习麻将...
+
+询问 llm 麻将策略...
+
+当然是中式麻将啦, 有花牌(144 张), 有一张万能牌, 没有番形.
+
+重新燃起了 f 雀魂玩家的记忆. (其实那会只会理和鸣切).
+
+---
+
+"长兴岛郊野公园". 舒缓悠远的心.
+
+归途. 又看了一集 eva. "他人的认可, 真嗣"
+
+---

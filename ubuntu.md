@@ -524,13 +524,27 @@ sudo apt install gnome-shell-extension-prefs
     > github no longer supports password. personal access token or ssh needed.
 - config gitlab
   - allow force push (remove protected branch) https://gitlab.com/username/project/-/settings/repository#js-protected-tags-settings
-  ```sh
-  git remote add l git@gitlab.com:username/project.git
-  ```
+  - set ssh key
+    - create new one (press enter twice)
+      ```sh
+      ssh-keygen -t ed25519 -C "your_email@example.com"
+      ```
+    - copy the generated key
+      ```sh
+      cat ~/.ssh/id_ed25519.pub
+      ```
+    - paste on https://gitlab.com/-/user_settings/ssh_keys
+  - add git remote
+    ```sh
+    git remote add l git@gitlab.com:username/project.git
+    ```
 - config gitee
-  ```sh
-  git remote add e https://gitee.com/username/project.git
-  ```
+  - add git remote
+    ```sh
+    git remote add e https://gitee.com/username/project.git
+    ```
+  - sync with github
+    - https://gitee.com/username/project/mirrors#/
 - config zshrc
   - -> `~/.zshrc`
   - -> `git/blogging/config/terminal zshrc.txt`

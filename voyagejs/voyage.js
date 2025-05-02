@@ -149,6 +149,7 @@ let voyage = {
   info: {
     props: {},
     subscriber: false,
+    parent: false,
     lifecycle: {
       created: [],
       shown: [],
@@ -172,6 +173,7 @@ let voyage = {
           // if not, it shouldnt be reactive (event handler, etc.)
           return value;
         }
+        // newValue to ..._
         const result = (newValue) => {
           // props cant be set as undefined
           if (check(newValue)) {
@@ -203,54 +205,40 @@ let voyage = {
   e(effect, when) {
     const { info } = voyage;
     const { check } = voyage.lib;
-    let cleanup;
 
-    const apply = () => {
-      const prevSubscriber = info.subscriber;
-      info.subscriber = apply;
+    if (!check(when)) {
+      when = "created";
+    }
 
-      if (check(cleanup, "function")) {
-        cleanup();
+    let node = { self: false, children: [] };
+    let _subscriber = info.subscriber;
+    let _parent = info.parent;
+
+    if (info.parent) {
+      info.parent.push(node);
+    }
+
+    const cleanup = function (node) {
+      if (node.self) {
+        node.self();
       }
-      cleanup = effect();
-
-      info.subscriber = prevSubscriber;
-    };
-
-    when = check(when) ? when : "created";
-    info.lifecycle[when].push(apply);
-  },
-  m(memo) {
-    const { info } = voyage;
-    let value;
-    let subscribers = new Set();
-
-    const update = () => {
-      value = compute();
-      for (const _ of subscribers) {
-        _();
+      for (const child of node.children) {
+        cleanup(child);
       }
     };
-    const compute = () => {
-      const prevSubscriber = info.subscriber;
-      info.subscriber = update;
-      value = memo();
-      info.subscriber = prevSubscriber;
-      return value;
+
+    const run = () => {
+      cleanup(node);
+
+      info.subscriber = run;
+      info.parent = node.children;
+      node.self = effect();
+
+      info.subscriber = _subscriber;
+      info.parent = _parent;
     };
 
-    value = compute();
-
-    const result = () => {
-      if (info.subscriber) {
-        subscribers.add(info.subscriber);
-      }
-      return value;
-    };
-    result.subscribe = (_) => {
-      subscribers.add(_);
-    };
-    return result;
+    info.lifecycle[when].push(run);
   },
   t(...template) {
     const { each, check } = voyage.lib;
@@ -372,7 +360,7 @@ let voyage = {
    */
   insert(node, sibling) {
     const { check } = voyage.lib;
-    if (check(node, "string")) {
+    if (!check(node, Node)) {
       node = document.createTextNode(node);
     }
     sibling.parentNode.insertBefore(node, sibling);
@@ -434,7 +422,6 @@ let voyage = {
     }
 
     if (check(element.type, "function")) {
-      // it's a prop
       const { type, labels } = element;
       const _ = document.createComment("");
       e(() => {
@@ -521,11 +508,14 @@ let voyage = {
     }
 
     for (const child of element.content) {
-      if (check(child, "string") || check(child, Node)) {
-        node.append(child);
-      } else if (check(child, "object")) {
-        let childNode = create(child);
-        node.append(childNode);
+      let childNode;
+      if (check(child, "object")) {
+        childNode = create(child);
+      }
+      if (check(childNode, Node)) {
+        node.appendChild(childNode);
+      } else {
+        node.appendChild(document.createTextNode(childNode));
         // const _ = document.createComment("");
         // node.append(_);
         // e(() => {
@@ -542,9 +532,7 @@ let voyage = {
 
     info.props = props;
     template = component();
-    if (check(template, "string")) {
-      return template;
-    } else if (check(template, Array)) {
+    if (check(template, Array)) {
       element = compile(template);
       node = create(element);
       for (const _ of info.lifecycle.created) {
@@ -552,6 +540,8 @@ let voyage = {
       }
       info.lifecycle.created = [];
       return node;
+    } else {
+      return template;
     }
   },
   run(app, on) {
@@ -622,10 +612,10 @@ let examples = {
     ];
   },
   DerivedCounter() {
-    const { p, m, t } = voyage;
+    const { p, t } = voyage;
     const { count } = p({ count: 0 });
-    const doubled = m(() => count() * 2);
-    const quadrupled = m(() => doubled() * 2);
+    const doubled = () => count() * 2;
+    const quadrupled = () => doubled() * 2;
 
     return [
       [
@@ -668,7 +658,7 @@ let examples = {
         count(count() + 1);
       }, 1000);
     });
-    return ["p", t`clicked ${count} ${() => (count() > 1 ? "times" : "time")}`];
+    return ["p", count];
   },
   Conditional() {
     const { p, t, show } = voyage;
@@ -763,4 +753,4 @@ let examples = {
 
 voyage.load(examples);
 
-voyage.run(examples.KeyedList, "body");
+voyage.run(examples.HtmlEffect, "body");
