@@ -446,10 +446,18 @@
 - fix: remove `m`
   - derived state and state are the same, both are fn
   - no need to be wrapped
-- feat: `prop(...path, value)`
-  - updating obj faster
+- fix: proper `effect cleanup`
+  - cleanup fn is called when an effect or its parent effect reruns
+  - use recursion to cleanup children of children
+- fix: `text node` accepts not only strings
+  - anything that is not a node will be a text node, e.g. a number
+- **todo**
 - fix: a prop can be undefined
   - use ...a and a.length to determine whether undefined is passed
+- fix: `key` in `each` fn
+  - make it simple and clear
+- feat: `prop(...path, value)`
+  - updating obj faster
 - feat: `render(component, on)`
   - create vdom
   - set vdom

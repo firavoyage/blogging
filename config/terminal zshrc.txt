@@ -99,13 +99,6 @@ git push -f e
 git push -f l
 git pull e master
 
-cd ../lucky
-git add .
-git commit -m '.'
-git push -f e
-git push -f l
-git pull e master
-
 cd ../..
 }
 
