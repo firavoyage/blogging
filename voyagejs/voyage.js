@@ -161,36 +161,51 @@ let voyage = {
     const { has, check } = voyage.lib;
     const handler = {
       get(_, prop) {
-        let value;
+        let value = has(info.props, prop)
+          ? info.props[prop]
+          : has(defaultProps, prop)
+          ? defaultProps[prop]
+          : false;
         let subscribers = new Set();
-        if (has(info.props, prop)) {
-          value = info.props[prop];
-        } else if (has(defaultProps, prop)) {
-          value = defaultProps[prop];
-        }
+
         if (check(value, "function")) {
           // it's already a reactive prop
-          // if not, it shouldnt be reactive (event handler, etc.)
+          // or it shouldnt be reactive (e.g. an event handler)
           return value;
         }
-        // newValue to ..._
-        const result = (newValue) => {
-          // props cant be set as undefined
-          if (check(newValue)) {
-            if (check(newValue, "function")) {
-              // new value can be computed from the previous value
-              value = newValue(value);
-            } else {
-              value = newValue;
-            }
-            for (const _ of subscribers) {
-              _();
-            }
-          } else {
+
+        const result = (..._) => {
+          if (_.length == 0) {
             if (info.subscriber) {
               subscribers.add(info.subscriber);
             }
             return value;
+          } else if (_.length == 1) {
+            const newValue = _[0];
+            value = check(newValue, "function") ? newValue(value) : newValue;
+            // new value can be computed from the previous value
+            result.apply();
+          } else {
+            const path = _.slice(0, _.length - 1);
+            const newValue = _.slice(-1)[0];
+            let current = value;
+
+            for (let i = 0; i < path.length - 1; i++) {
+              const key = path[i];
+              current[key] = has(current, key) ? current[key] : {};
+              current = current[key];
+            }
+
+            const lastKey = path[path.length - 1];
+            current[lastKey] = check(newValue, "function")
+              ? newValue(value)
+              : newValue;
+            result.apply();
+          }
+        };
+        result.apply = () => {
+          for (const _ of subscribers) {
+            _();
           }
         };
         result.subscribe = (_) => {
@@ -508,10 +523,7 @@ let voyage = {
     }
 
     for (const child of element.content) {
-      let childNode;
-      if (check(child, "object")) {
-        childNode = create(child);
-      }
+      let childNode = check(child, "object") ? create(child) : child;
       if (check(childNode, Node)) {
         node.appendChild(childNode);
       } else {
@@ -532,17 +544,21 @@ let voyage = {
 
     info.props = props;
     template = component();
+
+    let result;
     if (check(template, Array)) {
       element = compile(template);
       node = create(element);
-      for (const _ of info.lifecycle.created) {
-        _();
-      }
-      info.lifecycle.created = [];
-      return node;
+      result = node;
     } else {
-      return template;
+      result = template;
     }
+
+    for (const _ of info.lifecycle.created) {
+      _();
+    }
+    info.lifecycle.created = [];
+    return result;
   },
   run(app, on) {
     const { info, render } = voyage;
@@ -749,8 +765,18 @@ let examples = {
       ),
     ];
   },
+  propPath() {
+    const { p, e } = voyage;
+    const { prop } = p();
+    e(() => console.log(prop()));
+    prop({ abc: "xyz" });
+    prop("abc", "def");
+    prop("c123", "aaa");
+
+    return "";
+  },
 };
 
 voyage.load(examples);
 
-voyage.run(examples.HtmlEffect, "body");
+voyage.run(examples.LegacyCounter, "body");

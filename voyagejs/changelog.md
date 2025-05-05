@@ -451,23 +451,24 @@
   - use recursion to cleanup children of children
 - fix: `text node` accepts not only strings
   - anything that is not a node will be a text node, e.g. a number
-- **todo**
 - fix: a prop can be undefined
   - use ...a and a.length to determine whether undefined is passed
-- fix: `key` in `each` fn
-  - make it simple and clear
+- style: use `?:` ternary operator to replace some verbose if statements
 - feat: `prop(...path, value)`
   - updating obj faster
+- **todo**
+- feat: macro `@style`, `theme`
+  - ref
+    - https://tailwindcss.com/docs/styling-with-utility-classes
+    - https://tachyons.io/
+    - https://unocss.dev/guide/
+- fix: `key` in `each` fn
+  - make it simple and clear
 - feat: `render(component, on)`
   - create vdom
   - set vdom
   - diff specific dom
   - apply update
-- feat: macro `@style`
-  - ref
-    - https://tailwindcss.com/docs/styling-with-utility-classes
-    - https://tachyons.io/
-    - https://unocss.dev/guide/
 - feat: `route`
   - ref https://docs.solidjs.com/guides/routing-and-navigation
 - test: a component library

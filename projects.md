@@ -152,6 +152,7 @@
 - inspired by
   - shan shui
   - picrew
+  - ugly avatar
   - stable diffusion
   - midjourney
 
@@ -174,6 +175,7 @@
 - categories
   - social media channel
   - personal blog
+  - world goods list
   - community
   - resource
   - wiki
@@ -460,9 +462,7 @@
 - expression oriented
 - lamdba fn `(props){expression}`
 - condition `if a b c d e`
-  - a and c are condition
-  - b and d are result
-  - if there is e, e is default case
+  - several if, then pairs and an optional otherwise
 - loop `repeat` `each` `for` `while`
 - inspired by
   - arc language
@@ -508,6 +508,8 @@
 - intuitive project
 - weather
 - gaming
+  - rpg
+  - majsoul
 - misc
 - inspired by
   - wes bos

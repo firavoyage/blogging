@@ -345,6 +345,9 @@ sudo apt install gnome-shell-extension-prefs
   - sans-serif `noto sans cjk sc`
   - fixed-width `fira code`
   - mathematical `dejavu serif`
+- enhance performance
+  - -> `chrome://settings/performance`
+  - memory saver `on`
 
 ## `code`
 

@@ -71,7 +71,3 @@ What would the handbook of the company you work for look like? Would you still w
 
 For founders/execs:  
 What would your handbook look like?
-
-Idk if Meta is hiring but I'm hiring for many roles! We build businesses that are powered by internet audiences, creators...
-
-If you're a talented product designer, writer, product manager, business builder, newsletter operator etc please apply below

@@ -35,6 +35,7 @@
   - instant noodles
   - coca cola
   - bubble tea
+  - sushi
   - egg waffle
   - tea egg
   - dried mango
@@ -56,6 +57,8 @@
   - chtholly
   - cldeop
   - ddzhanshou5150
+  - devpoga
+  - diygod
   - diygod
   - falstaff (duolingo)
   - funshiki
@@ -63,7 +66,9 @@
   - hitori gotoh
   - hsn8086
   - huxpro
+  - ichi hime
   - jingsheng237248
+  - jiongks
   - joshwcomeau
   - kagura mea
   - kasuga tsubaki
@@ -85,17 +90,23 @@
   - nayuki
   - nina iseri
   - origami birds
+  - potetomj
   - probiusofficial
   - puddings00
   - rosmontis233
+  - sakura_mo_yu
   - seemsec
   - seren azuma
   - snack life
   - sparkle
+  - timqian
   - turingou
+  - txstc55
   - wanderer above the sea of fog
+  - wtxycco
   - xkcd
   - yifusuyi
+  - yunyoujun
   - yuuki sakuna
 - - hotel california (eagles)
   - wind of change (scorpions)
@@ -203,7 +214,11 @@
   - blue archive (2021)
   - houkai gakuen second (2014)
   - delta force (2024)
+  - duolingo (2011)
   - arknights (2019)
+  - honor of kings (2015)
+  - mahjong soul (2018)
+  - osu! (2007)
   - .earth online (.)
   - .terraria (2011)
   - .the legend of zelda: tears of the kingdom (2023)
@@ -226,16 +241,16 @@
   - .stardew valley (2016)
   - .split fiction (2025)
   - .inzoi (2025)
+  - .vrchat (2014)
 - - google & chatgpt & gemini & deepseek & mistral ai
   - wikipedia & miraheze & fandom & moegirl.icu & oi wiki
-  - internet archive wayback machine & archive.today
+  - internet archive wayback machine & archive.today & the pirate bay & z library & anna's archive
   - youtube & berryberry & acfun & niconico & vtbs.moe & hololist
   - old reddit & hacker news & twitter & zhihu & nga bbs & baidu tieba & v2ex & github trending & product hunt
   - ruanyf weekly & tw93 weekly & gamedevjs weekly & codepen spark
   - douban & imdb & bangumi.tv & my anime list & bgmlist & mikan project & nyaa.si & dmhy.org & yuc.wiki & wotaku.wiki
   - pixiv & deviantart & civitai & e hentai & dribbble & unsplash
   - steam db & itch.io & google doodles & vndb & shinnku galgame & kungal & touchgal
-  - the pirate bay & z library & anna's archive
   - codeforces & atcoder & luogu & libre oj & project euler
   - travellings.cn & foreverblog.cn & travel.moe & acmer.info
 - - to live (yu hua)
@@ -602,8 +617,6 @@
 - - wikipedia `User:Firavoyage`
 - - github & gitlab & gitee & wakatime `firavoyage`
   - codepen & dev.to `firavoyage`
-  - duolingo `firavoyage`
-  - chess.com `firavoyage`
 - - blogger `firavoyage`
   - zhihu `firavoyage`
   - cnblogs `fira`
@@ -623,6 +636,9 @@
   - mastodon `fira@techhub.social` `firavoyage@mastodon.social`
   - bluesky `@firavoyage.bsky.social`
   - discord `firavoyage`
+- - majsoul `忘我思考`
+  - duolingo `firavoyage`
+  - chess.com `firavoyage`
 - - email `firavoyage@outlook.com`
   - alternatives `firafira@duck.com` `xoyage@gmail.com` `devvhy@zoho.com.cn` `firav@qq.com`
 
@@ -700,3 +716,12 @@
 > 赛博盆栽
 
 > 好喜欢 duolingo 的 falstaff 啊, 有它出演的听力 f 都要听一听. 最后一句 "humans are always curious about ... we bears only cares ..." "humans always seem so concerned about flavors. in the wild if it's eatable it's good enough" "humans have specific requests for their meals. in the wild we just eat what's available. simpler and less fuss i think" daisuki. "welcome to the falstaff's guide to humans where i explore the strange world of humans"
+
+> majsoul!
+>
+> osu!
+
+> free speech
+
+> "让我们一起看到真结局吧"
+
