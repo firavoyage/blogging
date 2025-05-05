@@ -30,7 +30,7 @@
   - `js` frameworks
   - `py` toys
   - `rs` spirits
-  - `algorithms` steps of math calculation
+  - `algorithms` math
 - - `app` creators and viewers
   - `image` stylers
   - `text` editors
@@ -1064,7 +1064,7 @@ http://www.perell.com/blog/never-ending-now
 
 打开网站或 App，首页永远是最近发生的事情。
 
-互联网引导我们关注过去24小时内发生的事情，将时效性置于重要性和深度之上，使我们远离了很多深刻的想法。结果，我们陷入了一个永无止境的现在时。
+互联网引导我们关注过去 24 小时内发生的事情，将时效性置于重要性和深度之上，使我们远离了很多深刻的想法。结果，我们陷入了一个永无止境的现在时。
 
 -- [David Perell](https://perell.com/essay/never-ending-now/)
 
@@ -1634,13 +1634,17 @@ https://github.com/jwenjian/ghiblog/issues/114
 
 ## chinese indie blog catalog
 
-`info` `feed` `ref`
+`info` `feed` `ref` `essay`
 
 中文独立博客列表
 
 https://github.com/timqian/chinese-independent-blogs
 
 该仓库根据 feedly 的 RSS 订阅数，列出了主要的中文独立博客。（@timqian 投稿）
+
+---
+
+(blogs.md)
 
 ## we dont want to run this ad by basecamp
 
@@ -3552,6 +3556,10 @@ GitBook 的 Rust 语言移植，可以将 markdown 源文件转成一个在线�
 
 (facebook.md)
 
+---
+
+https://bytepawn.com/culture-docs-facebook-netflix-and-valve.html
+
 ## twitter is attacked by a 17 yr o geek boy
 
 `dev` `meme`
@@ -4213,53 +4221,6 @@ https://www.tannerv.com/ipod
 ---
 
 https://www.swyx.io/new-mac-setup
-
-## apps are going subscription based
-
-`dev` `career` `history`
-
-本周话题：软件订阅制的胜利
-
-上周，苹果公司最新一季的财报，披露了一个惊人的[数据](https://www.pymnts.com/earnings/2021/apple-paid-subscriptions-hit-700m-up-150m-since-last-year/)：它有  7 亿   付费订阅用户。
-
-![](https://cdn.beekka.com/blogimg/asset/202108/bg2021080103.jpg)
-
-这太可怕了。世界总人口目前大约是 78 亿，里面包含了小孩、老人、文盲、穷人。即使把他们都算在内，全世界每 11 个人里面，就有一个人购买苹果公司的软件服务。软件生意还能做得比这更大吗？
-
-注意，这是付费用户，不是免费用户。作为比较，阿里巴巴上周也[宣布](https://finance.sina.com.cn/tech/2021-07-27/doc-ikqciyzk7987897.shtml)，它有 10 亿活跃用户，但那是免费用户。如果每月付费才能使用淘宝，不知还有多少能留下来。
-
-苹果的付费订阅服务，目前主要有六项。
-
-> - iCloud：存储服务
-> - Apple Music：音乐服务
-> - Apple TV：视频服务
-> - Apple News：新闻服务
-> - Apple Fitness：健身服务
-> - Apple Arcade：游戏服务
-
-苹果把它们打包在一起，做成了一个 Apple One 订阅包。7 亿订阅用户应该就是购买这些服务的人数。至于硬件质保的 Apple Care 服务，可能不包括在里面，因为它属于硬件销售收入，而不是软件收入。
-
-![](https://cdn.beekka.com/blogimg/asset/202108/bg2021080104.jpg)
-
-今天我想谈的，并不是这些服务本身，而是想提醒大家注意。  世界最大的一些软件公司，正在改变软件销售模式，不再销售软件本体了，而是收取软件服务的订阅费。  苹果只是其中一个典型的例子。
-
-除了苹果，世界最大的桌面软件商----微软公司也正在改成订阅制。它的 Office 已经变成了 Office365 服务，都在云端使用，个人版的价格是每年 398 元人民币。它还有计划在今年下半年，推出  [Windows365](https://www.microsoft.com/en-us/windows-365)  服务，把 Windows 也变成云服务，按年收费。
-
-![](https://cdn.beekka.com/blogimg/asset/202108/bg2021080401.jpg)
-
-Adobe 公司更是在几年前，就把自己的所有产品都变成了订阅制，单单一个 PhotoShop，一年的订阅价格是 888 元人民币。
-
-![](https://cdn.beekka.com/blogimg/asset/202108/bg2021080402.jpg)
-
-我认为，  软件订阅制是未来的趋势。  因为这对于软件公司很有利，销售软件从一次性收入变成了经常性收入，能够产生稳定的现金流。只要用户使用，就必须付费，连续使用就必须连续付费。而且，有了订阅制，总能让用户使用软件的最新版，软件公司就不必为支持旧版本烦恼了。
-
-对于用户来说，相对就不那么有利。以前只要购买了软件，就可以一直用下去，现在则是只能用一个月或一年。用得越久，费用越高，甚至可能产生对它的依赖。曾经有过例子，用户使用 PhotoShop 编辑照片，保存为 Adobe 专有格式，过了一阵子再想打开，只能再次订阅 PhotoShop。
-
-除了软件，只要是可以长期消费的东西，似乎也在向订阅制转变。最近有[新闻](https://www.ft.com/content/54fd50fe-f15f-47c0-965d-797573c5ec9c)，教科书巨头培生（Pearson）推出了  [Pearson+ 服务](https://plc.pearson.com/en-US/our-products-and-services/pearson-plus)，美国学生以每月 14.99 美元的价格订阅其所有 1,500 种教材的电子版，可以搜索、做笔记、听有声版、专家咨询等等。
-
-![](https://cdn.beekka.com/blogimg/asset/202108/bg2021080403.jpg)
-
-总之，  凡是可以数字化的商品，未来可能都会变成订阅制。  大家会习惯，每月像付电费那样，支付各种服务订阅费。
 
 ## rust to wasm tutorial
 
@@ -5431,16 +5392,6 @@ The reasonable man adapts himself to the world; the unreasonable one persists in
 
 一本原创的中文 Rust 书籍。（[@QMHTMY](https://github.com/ruanyf/weekly/issues/2209)  投稿）
 
-## cpp sudoku solver by singapore prime minister
-
-`algorithms` `dev` `meme`
-
-[数独求解](https://leetcode.com/problems/sudoku-solver/discuss/15796/Singapore-prime-minister-Lee-Hsien-Loong%27s-Sudoku-Solver-code-runs-in-1ms)
-
-![](https://cdn.beekka.com/blogimg/asset/202202/bg2022020201.webp)
-
-新加坡总理李显龙多年前写的 C++ 数独求解程序。他毕业于剑桥大学，拥有数学学士和计算机硕士学位，参见他的  [Facebook 原帖](https://www.facebook.com/leehsienloong/photos/a.344710778924968.83425.125845680811480/905828379479869/?type=3&permPage=1)。
-
 ## encoding convertion visualized
 
 `algorithms` `editorial`
@@ -6033,9 +5984,161 @@ Figma 怎么解决这个问题呢？答案就是  [Rust 语言](https://www.fig
 
 (react memo.md)
 
+## music player with any source from js plugin
+
+`app` `feed` `dev` `story` `ref`
+
+[MusicFree](https://github.com/maotoumao/MusicFree)
+
+![](https://cdn.beekka.com/blogimg/asset/202210/bg2022101012.webp)
+
+一个开源的安卓平台免费音乐播放器，使用 React Native 编写，支持自定义插件。（[@maotoumao](https://github.com/ruanyf/weekly/issues/2674)  投稿）
+
+## ancient chinese books digitalized by pku
+
+`retro` `literary` `library`
+
+[识典古籍](https://www.shidianguji.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202210/bg2022101320.webp)
+
+北京大学和抖音公益合作的古籍数字化平台。目前可免费搜索 390 部经典古籍，共计 3000 多万字。未来三年将陆续完成一万种古籍的智能化整理工作。
+
+## elon musk on free speech and twitter acquirement
+
+`society` `view` `story`
+
+[马斯克聊天](https://danluu.com/elon-twitter-texts/)
+
+![](https://cdn.beekka.com/blogimg/asset/202210/bg2022100701.webp)
+
+马斯克与推特公司的收购案，闹上了法院。这个网页整理了，法院公布的马斯克私聊记录，内容很多，看看富人聊什么，挺有意思。
+
+## poster editor as a solopreneur product
+
+`app` `image` `dev` `story`
+
+[vue-fabric-editor](https://github.com/nihaojob/vue-fabric-editor)
+
+![](https://cdn.beekka.com/blogimg/asset/202210/bg2022101910.webp)
+
+开源的、基于 fabric.js 和 Vue 的图片编辑器，可自定义字体、素材、设计模板。（[@nihaojob](https://github.com/ruanyf/weekly/issues/2688)  投稿）
+
+---
+
+https://github.com/ikuaitu/vue-fabric-editor?tab=readme-ov-file
+
+## collaborative puzzle game by google arts and culture
+
+`game` `ref`
+
+[谷歌拼图](https://artsandculture.google.com/experiment/puzzle-party/EwGBPZlIzv0KRw)
+
+![](https://cdn.beekka.com/blogimg/asset/202207/bg2022072816.webp)
+
+谷歌推出的网页的拼图小游戏，支持多人一起拼。
+
+---
+
+https://artsandculture.google.com/play
+
+## getting views without any subscriber is tiktok's value for a creator
+
+`career` `quote`
+
+抖音对于创作者的价值在于，你不需要订阅者就可以获得浏览量，它的发现引擎会把你推给其他人。
+
+-- [Hacker News 读者](https://news.ycombinator.com/item?id=32294510)
+
+## component library with tailwind css
+
+`js` `design` `library`
+
+[HyperUI](https://www.hyperui.dev/)
+
+![](https://cdn.beekka.com/blogimg/asset/202205/bg2022050711.webp)
+
+一个 Tailwind CSS 组件库。如果你不清楚 Tailwind CSS 的那些类名应该怎么搭配，可以看看这个库。
+
+## japanese origami guide on public domain
+
+`art` `guide` `library`
+
+[折纸教程](https://origami.kosmulski.org/blog/2022-10-23-fujimoto-books-public-domain)
+
+![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102404.webp)
+
+日本折纸大师藤本修三（1922-2015）写的五本折纸教程，现在由他后人放入公共领域，全部可以免费下载。
+
+下面就是藤本修三的一些折纸作品。如果家里有小朋友，可以用作手工教材。
+
+![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102405.webp)
+
+![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102406.webp)
+
+![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102407.webp)
+
+![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102408.webp)
+
+## changes of twitter default avatar
+
+`design` `meme` `history` `ref`
+
+[推特的默认用户头像](https://blog.twitter.com/en_us/topics/product/2017/rethinking-our-default-profile-photo)
+
+推特有一个默认的用户头像，如果用户不上传自己的头像，就会用这个头像。
+
+下面是推特历年的默认头像。
+
+![](https://cdn.beekka.com/blogimg/asset/202207/bg2022070301.webp)
+
+可以看到，从2010年开始，默认头像就是一颗鸟蛋。因为推特的 Logo 是一个唱歌的小鸟，鸟蛋就表示希望新用户多发言，尽快孵化成小鸟。
+
+2017年，推特决定把默认的鸟蛋头像换掉，不是因为它不好，而恰恰是因为它太好了，用户很喜欢这个头像，于是就保留着，不上传个人的头像图片。
+
+为了鼓励用户上传头像，推特设想了一些新的默认头像。
+
+![](https://cdn.beekka.com/blogimg/asset/202207/bg2022070302.webp)
+
+推特希望，默认头像应该是严肃和通用的，但同时必须有一种临时的感觉。
+
+最后选中的新默认头像，就是下面这张。
+
+![](https://cdn.beekka.com/blogimg/asset/202207/bg2022070303.webp)
+
+这个图片中，用户的头部不是圆形，肩宽也适当减小，因此显得不那么男性化，性别更中性。灰色背景则给人一种临时的感觉。
+
+## leetcode problem solution library
+
+`algorithms` `guide` `library`
+
+[LeetCode 解题指南](https://github.com/doocs/leetcode)
+
+![](https://cdn.beekka.com/blogimg/asset/202212/bg2022120808.webp)
+
+这个仓库收集整理了各种算法题的解题指南，包含多种语言的实现。（[@acbin](https://github.com/ruanyf/weekly/issues/2780) 投稿）
+
+## minecraft end poem
+
+`weather` `quote` `ref`
+
+[Minecraft 的结束语](https://minecraft.fandom.com/wiki/End_Poem)
+
+游戏 Minecraft 的结尾，制作人员名单滚动完毕，会出现一段结束语。
+
+![](https://cdn.beekka.com/blogimg/asset/202212/bg2022120815.webp)
+
+> 20年后，你后悔的是那些没做过的事情。所以解开缆绳吧，从避风港启航，让信风推着你的帆。探索。梦想。发现。
+>
+> Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover.
+
 ##
 
 
+
+##
+
+##
 
 ##
 

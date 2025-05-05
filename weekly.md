@@ -59,6 +59,7 @@
 - write eat app
 - write float app
 - write material app
+- write world goods list
 
 > _diversion_
 
