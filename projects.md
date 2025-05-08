@@ -89,7 +89,7 @@
   - math problem solution
   - algorithm and data structure visualization
   - taptap 3839 steam top rated rank list
-  - world goods list
+  - shopping list
   - food recipe gantt image
   - math venn image
   - programming roadmap
@@ -110,8 +110,9 @@
 > elegance of image editing
 
 - template
+  - wechat/qq messages
+  - meme
   - social poster
-  - editable meme
 - automation
   - everything is a method
 - art filter
@@ -170,12 +171,12 @@
 
 ### `awesome`
 
-> all things awesome
+> plain filter instead of promotional recommendation engine
 
 - categories
+  - world goods list
   - social media channel
   - personal blog
-  - world goods list
   - community
   - resource
   - wiki

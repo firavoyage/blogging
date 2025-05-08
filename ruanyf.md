@@ -28,7 +28,7 @@
 - - `dev` crafts
   - `css` vistas
   - `js` frameworks
-  - `py` toys
+  - `py` joys
   - `rs` spirits
   - `algorithms` math
 - - `app` creators and viewers
@@ -1917,7 +1917,7 @@ https://news.ycombinator.com/item?id=22102726
 
 ---
 
-On the iOS side, I regret not knowing how horrible Xcode is and how horrible Apple's documentation is. On the Android side, I regret not realizing that no matter what kind of slick new well documented APIs Google releases we will all be writing code for Android 4.4 for the rest of our lives. Also, I wish I knew mobile developers are some of the lowest paid developers other than game industry peons.
+On the iOS side, I regret not knowing how horrible Xcode is and how horrible Apple's documentation is. On ndroid side, I regret not realizing that no matter what kind of slick new well documented APIs Google releases we will all be writing code for Android 4.4 for the rest of our lives. Also, I wish I knew mobile developers are some of the lowest paid developers other than game industry peons.
 
 ## sketchy style whiteboard web app excalidraw
 
@@ -5434,16 +5434,6 @@ The reasonable man adapts himself to the world; the unreasonable one persists in
 
 https://github.com/gchq/CyberChef/
 
-## google learn css chinese translation
-
-`css` `guide`
-
-[CSS 中文入门教程](https://github.com/pengfeiw/css-tutorial/tree/master/chapters)
-
-![](https://cdn.beekka.com/blogimg/asset/202203/bg2022030310.webp)
-
-作者学习 CSS 时整理的一份教程，参考了谷歌的 learn css。（[@pengfeiw](https://github.com/ruanyf/weekly/issues/2229)  投稿）
-
 ## manufacture industry in america
 
 `society` `meme`
@@ -6092,9 +6082,9 @@ https://artsandculture.google.com/play
 
 ![](https://cdn.beekka.com/blogimg/asset/202207/bg2022070301.webp)
 
-可以看到，从2010年开始，默认头像就是一颗鸟蛋。因为推特的 Logo 是一个唱歌的小鸟，鸟蛋就表示希望新用户多发言，尽快孵化成小鸟。
+可以看到，从 2010 年开始，默认头像就是一颗鸟蛋。因为推特的 Logo 是一个唱歌的小鸟，鸟蛋就表示希望新用户多发言，尽快孵化成小鸟。
 
-2017年，推特决定把默认的鸟蛋头像换掉，不是因为它不好，而恰恰是因为它太好了，用户很喜欢这个头像，于是就保留着，不上传个人的头像图片。
+2017 年，推特决定把默认的鸟蛋头像换掉，不是因为它不好，而恰恰是因为它太好了，用户很喜欢这个头像，于是就保留着，不上传个人的头像图片。
 
 为了鼓励用户上传头像，推特设想了一些新的默认头像。
 
@@ -6116,7 +6106,7 @@ https://artsandculture.google.com/play
 
 ![](https://cdn.beekka.com/blogimg/asset/202212/bg2022120808.webp)
 
-这个仓库收集整理了各种算法题的解题指南，包含多种语言的实现。（[@acbin](https://github.com/ruanyf/weekly/issues/2780) 投稿）
+这个仓库收集整理了各种算法题的解题指南，包含多种语言的实现。（[@acbin](https://github.com/ruanyf/weekly/issues/2780)  投稿）
 
 ## minecraft end poem
 
@@ -6128,13 +6118,370 @@ https://artsandculture.google.com/play
 
 ![](https://cdn.beekka.com/blogimg/asset/202212/bg2022120815.webp)
 
-> 20年后，你后悔的是那些没做过的事情。所以解开缆绳吧，从避风港启航，让信风推着你的帆。探索。梦想。发现。
+> 20 年后，你后悔的是那些没做过的事情。所以解开缆绳吧，从避风港启航，让信风推着你的帆。探索。梦想。发现。
 >
 > Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover.
+
+## algorithms of any language
+
+`algorithms` `guide` `library`
+
+[The Algorithms](https://the-algorithms.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202209/bg2022092405.webp)
+
+这个网站收集 GitHub 上面的各种算法实现，按照种类和语言进行分类。
+
+## entrepreneurship is like throwing darts in a playground
+
+`dev` `meme` `ref`
+
+[创业是什么](https://news.ycombinator.com/item?id=15659076)
+
+创业就像游乐场的掷飞镖游戏。
+
+![](https://cdn.beekka.com/blogimg/asset/202212/bg2022122908.webp)
+
+普通人家的孩子买得起一掷。大部分人脱靶了。一些人中靶，赢得了小奖品。极少数人正中靶心，获得大奖。这被当作白手起家的"美国梦"继续存在的证据。
+
+富人家的孩子买得起很多掷。如果愿意，他们可以一遍又一遍地尝试，直到中靶并感觉良好为止。有些人一直坚持下去，直到命中靶心，然后他们就会发表演讲或写博客，介绍创业心得和努力工作的价值。
+
+穷人家的孩子不去游乐场。他们要工作。
+
+## the scarcity of nft doesnt mean it's valuable
+
+去年，NFT 最疯狂的时候，我从亚马逊买了一大堆 NFT 书籍，想搞清楚它到底是什么。
+
+![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102502.webp)
+
+我很快发现，所有这些书解释 NFT 为什么有价值，都说是因为稀缺性会产生价值。我觉得，这完全是胡说八道，我儿子的涂鸦就很稀缺，但根本不会有人想购买它们。
+
+## why git is so hard to use
+
+`dev` `view`
+
+[为什么 Git 如此难用？](https://www.highflux.io/blog/what-makes-git-hard-to-use)（英文）
+
+![](https://cdn.beekka.com/blogimg/asset/202211/bg2022111723.webp)
+
+本文分析 Git 复杂性的几个来源。
+
+## writing svg like css, and css-doodles
+
+`css` `view` `ref`
+
+[像写 CSS 一样写 SVG](https://yuanchuan.dev/experimenting-a-new-syntax-to-write-svg)（英文）
+
+作者介绍他发明的一种新工具，可以改变 SVG 的写法，让手写 SVG 变得像写 CSS 一样。
+
+## interactive guide to css flexbox
+
+`css` `guide` `editorial` `ref`
+
+[Flexbox 交互式指南](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)（英文）
+
+![](https://cdn.beekka.com/blogimg/asset/202211/bg2022112405.webp)
+
+本文通过多个网页交互式演示，详细讲解 CSS Flex 弹性布局。
+
+## learn css by google web dev
+
+`css` `guide` `library` `ref`
+
+[学习 CSS](https://web.dev/learn/css/)
+
+![](https://cdn.beekka.com/blogimg/asset/202210/bg2022102202.webp)
+
+Chrome 团队制作的 CSS 教程。
+
+## giving up freedom makes life easier
+
+`weather` `quote`
+
+有人不喜欢自由，因为自由意味着人必须对自己的命运负责。他宁愿把自己的命运交给别人控制，这样可以活得轻松一些。
+
+-- 网友
+
+## continue higher education for the lack of job
+
+`society` `view`
+
+本周话题：教育年限可以缩短吗？
+
+春节前有一条大新闻，六十多年来第一次，国家统计局宣布[中国人口下降了](https://finance.sina.com.cn/tech/roll/2023-01-17/doc-imyanfvs5748585.shtml)，比上年末减少了 85 万人。
+
+![](https://cdn.beekka.com/blogimg/asset/202301/bg2023012113.webp)
+
+这件事对国家、对我们每个人、对下一代，都会产生深远影响。今天，我就想谈谈这个话题。
+
+进入正题前，让我们明确一点，这应该不是偶然的波动。根据其他国家的先例，人口一旦下降，就很难回升。所以，中国人口的顶峰很可能就是现在的 14.1 亿人，以后大概率不会增加了，而是不断下降。
+
+![](https://cdn.beekka.com/blogimg/asset/202301/bg2023013002.webp)
+
+新生儿的减少，意味着国民的平均年龄将越来越大（老龄化），这对经济非常不利，原因如下。
+
+（1）整个国家的消费力减弱。  老年人的消费意愿降低，很少购买新衣服、新电器、新房子。老年人也不愿意承担风险，投资意愿保守。研究发现，老年人主要购买的不是物品，而是服务，这对制造业不利。
+
+（2）全社会的养老支出越来越大。  老年人需要照顾，政府要承担养老金和医保，能够投入其他方面的资源就减少了。
+
+（3）劳工的负担加重了。  退休人口比重上升，对应的就是劳动力的比重下降，越来越少的工人必须养活越来越多的退休人员。
+
+由于上面这些原因，世界各国想出了各种方法，应对人口下降。
+
+> - 提高出生率，鼓励多生孩子。
+> - 降低移民门槛，引入外国劳工。
+> - 发展机器人，弥补劳动力不足。
+> - 推迟退休年龄，延缓劳动力不足。
+
+这些方法，要么实施起来很困难，要么短期内不易见效。
+
+我有一个点子，可以快速见效，而且实施起来相对容易，阻力不大。上面提到推迟退休年龄，那么能不能反过来，缩短年轻人的教育年限，让他们更早进入社会，参加工作。
+
+学生的教育年限，现在实在太长了，而且越来越长。6 岁入学，本科毕业 22 岁，硕士毕业就是 24 岁了，如果还要读博士，最快也要 26 岁或 27 岁才毕业。
+
+整个过程需要 16 年～ 20+年，这太漫长了。人生精力最丰沛、创造力最强的年纪，都在校园里度过了。
+
+更糟糕的是，那么漫长的教育年限，成效却不高。问题主要是高等教育，很多学生的大学四年收获有限，要么玩掉了，要么被强制学习一些以后用不到的知识。
+
+缩短教育年限，让学生早点完成培养计划，离开校园进入社会，对学生和社会都有好处。
+
+对个人，可以早点了解生产实践，明白什么知识是有用的，明确人生方向，也可以早点拿到工资，实现经济独立；对社会，可以有更年轻的新生血液投入，增加经济活力，减缓人口下降带来的劳动力不足的压力。
+
+具体做法有很多，我来提几条。
+
+> （1）提早入学年龄（5 岁入学？）。
+>
+> （2）推行五年制小学。
+>
+> （3）提高大学四年的学习效率，加强知识密度，压缩过时的课程，增加职业类课程。
+>
+> （4）取消全日制硕士，要么全职读博士，要么利用网络和双休日的业余时间，兼职读硕士。
+
+我重点说说最后一条：取消全日制硕士。
+
+现在每年有几百万人考研，这真的是人力的巨大浪费。硕士学位的原意，是作为博士的预备阶段，但目前变成了就业的缓冲池。找不到好工作？那就先去读个硕士吧。
+
+问题是，理论型学科的硕士偏学术，跟生产实践关系不大，毕业后工作恐怕更难找，只好去考公务员。而应用型学科的硕士偏应用，最好是在工作岗位上，边实践边学习。总之，全日制硕士这种低不成、高不就的制度设计，意义实在不大。
+
+缩短教育年限的最简单、最立竿见影的方法之一，就是鼓励年轻人不要全职读硕士。
+
+你要读硕士，可以的，就在工作中兼职读。如果以后，你发现自己对学术有兴趣，那就选择再回学校读博，专职走学术道路，也是没问题的。
+
+## github copilot code brushes
+
+`dev` `meme`
+
+[GitHub Copilot 有多神奇](https://christianheilmann.com/2022/12/13/code-brushes-for-github-copilot/)（英文）
+
+![](https://cdn.beekka.com/blogimg/asset/202301/bg2023011503.webp)
+
+GitHub Copilot 是一个 AI 编程辅助工具，会自动生成代码。
+
+最近，它推出了"代码刷"功能（code brush），用户可以选择不同的刷子处理代码，本文演示这个功能多么神奇。
+
+---
+
+https://githubnext.com/projects/code-brushes/
+
+## ipv4 map
+
+`dev` `meme`
+
+[IPv4 地图](https://ipv4.dev.sarl/)
+
+![](https://cdn.beekka.com/blogimg/asset/202211/bg2022111203.webp)
+
+这个网站以方块图的形式，展示 IPv4 的所有 IP 区段的归属，可以不断放大。
+
+## quickdraw game by google ai experiment
+
+`game` `ai` `dev` `meme`
+
+[快速涂鸦](https://quickdraw.withgoogle.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202206/bg2022063003.webp)
+
+一个谷歌推出的小游戏。系统告诉你一个词语（比如自行车、眼镜、轮船......），让你在网页上把它画出来。人工智能会猜测你画的是什么，只要猜对了，就说明你画得很像。
+
+## css color functions by josh
+
+`css` `guide`
+
+[CSS 的颜色格式](https://www.joshwcomeau.com/css/color-formats/)（英文）
+
+![](https://cdn.beekka.com/blogimg/asset/202212/bg2022123102.webp)
+
+这篇长文详细介绍 CSS 颜色的各种格式，如果想深入掌握如何表示颜色，推荐阅读这篇文章。
+
+## comprehensive rust in 4 days by google android team
+
+`rs` `guide` `ref`
+
+[Comprehensive Rust](https://google.github.io/comprehensive-rust/)
+
+![](https://cdn.beekka.com/blogimg/asset/202212/bg2022122211.webp)
+
+安卓团队编写的为期四天的 Rust 课程，从基本语法到高级主题，最后一天还会讲到 Rust 如何用于安卓开发。
+
+## software companies made simple things hard
+
+`dev` `quote`
+
+一些软件公司可以将最简单的软件项目，变成一系列艰苦的流程，包含无休止的会议，以及大量"相关者"的参与。
+
+这些公司通过每周必须完成的一系列仪式和流程，消灭掉了编程的乐趣和生产力。
+
+-- [Hacker News 读者](https://news.ycombinator.com/item?id=34368904)
+
+## how facebook make things efficient
+
+`dev` `career` `view`
+
+本周话题：扎克伯格的裁员信
+
+去年 11 月，Meta 公司宣布大裁员，解雇 13%的员工，大约 11,000 人。
+
+过了四个月，上周二（3 月 14 日），该公司突然宣布，还有第二轮，再解雇大约 10,000 人。
+
+![](https://cdn.beekka.com/blogimg/asset/202303/bg2023032002.webp)
+
+今天，我们不讨论裁员这件事本身，只说说[扎克伯克的裁员信](https://about.fb.com/news/2023/03/mark-zuckerberg-meta-year-of-efficiency/)。
+
+裁员信公开发在 Meta 官网，我建议大家读一下，里面有一些有意思的内容。
+
+![](https://cdn.beekka.com/blogimg/asset/202303/bg2023032003.webp)
+
+大部分的裁员信，都是假惺惺的例行公事，"由于市场形势的变化，我们不得不做出一个艰难的决定......"。但是，这封信不一样。
+
+扎克伯克详细解释了，他对公司管理的想法，以及下一步的打算。如果你想了解硅谷巨头的内部情况，这封信可以提供不少信息。
+
+首先，他直言不讳地说，上一次裁员的效果很好，  公司效率提高了。
+
+> "自从我们去年裁员以来，一个令人惊讶的结果是许多事情进展得更快了。回想起来，我低估了优先级较低的项目的间接成本。"
+
+为什么员工少了，项目反而进展快了？
+
+扎克伯格的解释是，裁员使得公司大量取消低优先级的项目，集中资源到最重要的事情上面。
+
+下面这段话，我认为非常精彩。
+
+> "人们很容易认为，只要一个项目产生的价值超过其直接成本，它就是正收益的。
+>
+> 但是，任何项目都需要一个主管，我们要么提拔一个工程师，要么从另一个项目挑选一个人，让其负责该项目。这两种情况都分散了人才，并且创造出了更多的管理层。
+>
+> 如果项目继续发展，整个团队也许分散到多个楼层或多个办公室，这让沟通变得更加困难。
+>
+> 我们还需要为项目配备更多的笔记本电脑和其他资源，这些更多的工程师还会导致雇佣更多的 IT 人员、HR 人员和招聘人员。
+>
+> 随着团队越来越大，效率不断降低，反应变迟钝了。它也许会与另一个团队的工作重叠，或者本应使用现有基础架构时却构建了一个定制系统。
+>
+> 总之，那些低优先级项目对公司重要性不大，却带来复杂的间接成本，很容易低估它们。"
+
+他的结论就是，必须进一步取消不重要的项目，精简组织，继续裁员不可避免。
+
+接着，他又说，效率低下还有两个重要原因：管理层级太多，团队太大。
+
+（1）为了提高效率，必须减少管理层级，推行扁平化组织。
+
+> "众所周知，公司结构每增加一层，都会增加信息成本、决策延迟和风险规避，因为每层的经理向上一级发送请求时，通常都会减少一些可能导致风险的设计。"
+
+减少管理层以后，多出来的管理人员必须加入项目开发。
+
+> "我们强制要求，大部分项目主管都必须同时是项目贡献者，并且团队内每个人都可以向上报告到每一个层级。"
+
+（2）尽量避免大团队，产品团队最好不超过 10 人。
+
+> "一般来说，我们不希望经理拥有超过 10 名直接下属。"
+
+为了把团队变小，就需要剔除团队里面的非技术人员。
+
+> "很多团队聘请了许多工程以外领域的专家。这有助于构建更好的产品，但必须确保我们的公司的主要人员仍然是技术人员。"
+>
+> "我们会将产品团队主要聚焦在工程方面，其他领域的一些人员会被解雇，并且避免产品团队被来自其他团队的大量交互请求所淹没。"
+
+总之，扎克伯格明白说了，Meta 接下来要做三件事----砍掉低优先级项目、减少管理层级、缩小团队----都会产生多余人员，所以需要进一步裁员。
+
+我估计，其他互联网公司也会跟进，同样去做这三件事，所以行业裁员大概还会持续一段时间，就业形势可能要到今年下半年才会有所好转。
+
+## css 3d interactive guide
+
+`css` `guide` `editorial`
+
+[3D in CSS](https://garden.bradwoods.io/notes/css/3d)
+
+![](https://cdn.beekka.com/blogimg/asset/202301/bg2023011001.webp)
+
+这个网页提供互动演示，帮助理解 CSS 里面与 3D 有关的各项属性。
+
+## study of calculus makes people stronger, even without practical usage
+
+`career` `view` `literary`
+
+[为什么学习微积分](https://flavoracle.tumblr.com/post/167150535757/its-sad-how-much-of-what-is-taught-in-school-is)
+
+高中的最后一年，我的学校开设了微积分课。
+
+第一堂课就有学生提问："老师，日常生活哪里会用到微积分？"
+
+老师回答："用不到，你永远不会在日常生活中使用微积分。事实上，你们中不少人，在未来的职业中也用不到微积分。"
+
+![](https://cdn.beekka.com/blogimg/asset/202303/bg2023032912.webp)
+
+他看着学生迷惑不解的表情，又说："你们想知道为什么要学微积分吗？"
+
+我们几个学生点了点头。
+
+他指着班里的一位校足球队的同学问道："你们经常练习足球，是吗？"
+
+"是的，"学生回答道。"差不多每天都练。"
+
+"教练给你们安排举重练习吗？"
+
+"是的。每周二和周四，我们都要去举重室练习。"
+
+![](https://cdn.beekka.com/blogimg/asset/202303/bg2023032913.webp)
+
+"这是为什么？" 老师问。"为什么足球运动员要练举重？难道是为了在球场上推倒别人吗？"
+
+"不，当然不是。"
+
+"那为什么要举重？"
+
+"因为它让我们变得更强大，"同学说。
+
+"答对了！" 老师说。"微积分也是如此。你学习微积分，不是因为要在日常生活中使用，而是因为它让你的思维变得更强大。"
+
+我从来没有忘记这堂课。
+
+## reading wont be obsolete till writing is
+
+`career` `quote`
+
+阅读不会过时，除非写作过时了。写作不会过时，除非思考过时了。（Reading won't be obsolete till writing is, and writing won't be obsolete till thinking is.）
+
+-- [Paul Graham](https://mobile.twitter.com/paulg/status/1618747829975130115)
+
+## i've won lottery with these numbers, said a successful entrepreneur
+
+`career` `quote`
+
+企业家谈成功经验，就好像在说："我曾经用这些号码，赢得过彩票。"
+
+-- [推特用户](https://mobile.twitter.com/awilkinson/status/1575941514567774208)
 
 ##
 
 
+
+##
+
+##
+
+##
+
+##
+
+##
 
 ##
 
