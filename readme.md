@@ -36,8 +36,8 @@
   - coca cola
   - bubble tea
   - sushi
-  - egg waffle
   - tea egg
+  - want want senbei
   - dried mango
   - chenpi
   - huamei
@@ -46,6 +46,7 @@
   - origami & pixel art & gardening
   - math & algorithms & unixporn & mtf & virtualyoutubers & ruozhiba
   - web dev & threejs & cpp & python & rust
+  - english & japanese & cantonese & taiwanese & chinese
   - dark style & night light & low brightness & tranquility
   - attention & observation
   - arrangement & accumulation
@@ -53,24 +54,31 @@
 - - ace taffy
   - antfu
   - azi azusa
+  - bradwoods
   - chen zhe aya
   - chtholly
   - cldeop
   - ddzhanshou5150
   - devpoga
   - diygod
-  - diygod
-  - falstaff (duolingo)
+  - elleflorio
+  - falstaff duolingo
   - funshiki
   - henri, le chat noir
+  - himself65
   - hitori gotoh
   - hsn8086
   - huxpro
   - ichi hime
+  - jiang yanyan
+  - jiangly
   - jingsheng237248
   - jiongks
+  - josh w. comeau
   - joshwcomeau
+  - kaf
   - kagura mea
+  - kanamiox
   - kasuga tsubaki
   - kasugano sora
   - keyboard cat
@@ -78,36 +86,52 @@
   - kkksc03
   - konata izumi
   - liangxihuigui
+  - livid v2ex
   - matikane tannhauser
+  - mediastorm tim
   - menci
   - minami iwasaki
   - minato aqua
+  - minokakay
   - mirekintoc
   - miyuki takara
   - mugumogu maru
   - muoujiang_
   - nahida
+  - nat friedman
   - nayuki
   - nina iseri
   - origami birds
+  - overdose_day
   - potetomj
   - probiusofficial
   - puddings00
+  - quitee123
+  - rencai_nina
   - rosmontis233
   - sakura_mo_yu
   - seemsec
   - seren azuma
+  - share121
+  - shengxj1
+  - shishishidifufu
   - snack life
   - sparkle
+  - takanashi hoshino
+  - tendou alice
   - timqian
+  - tourist gennady korotkevich
   - turingou
   - txstc55
+  - verymoes
   - wanderer above the sea of fog
   - wtxycco
   - xkcd
   - yifusuyi
+  - yuanchuan
   - yunyoujun
   - yuuki sakuna
+  - yxc acwing
 - - hotel california (eagles)
   - wind of change (scorpions)
   - scarborough fair (sarah brightman)
@@ -148,6 +172,7 @@
   - love before bc (jay chou)
   - fleet of time (faye wong)
   - kletka (molchat doma)
+  - chueng r fei (tendou alice)
 - - spirited away (2001)
   - goodbye mr. loser (2015)
   - soul (2020)
@@ -198,6 +223,7 @@
   - .anohana: the flower we saw that day (2011)
   - .school days (2007)
   - .white album (2009)
+  - .spongebob squarepants (1999)
   - .reply 1988 (2015)
   - .the big bang theory (2007)
   - .yes minister (1980)
@@ -725,3 +751,4 @@
 
 > "让我们一起看到真结局吧"
 
+> 似曾相识. dejavu.

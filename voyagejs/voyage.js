@@ -177,7 +177,7 @@ let voyage = {
         const result = (..._) => {
           if (_.length == 0) {
             if (info.subscriber) {
-              subscribers.add(info.subscriber);
+              result.subscribe(info.subscriber);
             }
             return value;
           } else if (_.length == 1) {
@@ -273,57 +273,48 @@ let voyage = {
       return result.join("");
     };
   },
-  h(html) {
-    const { check } = voyage.lib;
-
-    if (check(html)) {
-      return ["div", { "@html": html }];
-    }
-
+  h() {
+    const { has } = voyage.lib;
+    const { render } = voyage;
     const handler = {
       get(_, tag) {
-        return (...props) => [tag, ...props];
+        const { components } = voyage;
+        if (has(components, tag)) {
+          return (...props) => render(components[tag], ...props);
+        } else {
+          return (...props) => [tag, ...props];
+        }
       },
     };
 
     return new Proxy({}, handler);
   },
   show(when, template, ...otherwise) {
-    const { each, check } = voyage.lib;
+    const { each } = voyage.lib;
 
     const cases = [when, template, ...otherwise];
 
-    return [
-      {
-        "@component"() {
-          let template;
-          for (const i of each(0, cases.length - 1, 2)) {
-            if (cases[i]()) {
-              template = cases[i + 1];
-              break;
-            }
-          }
-          if (!template && cases.length % 2 == 1) {
-            template = cases[cases.length - 1];
-          }
-          if (template) {
-            let node;
-            if (check(template, Array)) {
-              node = template;
-            } else if (check(template, "function")) {
-              node = template();
-            }
-            return node;
-          }
-        },
-      },
-    ];
+    return () => {
+      for (const i of each(0, cases.length - (cases.length % 2) - 1, 2)) {
+        const condition = cases[i];
+        const option = cases[i + 1];
+        if (condition()) {
+          return option();
+        }
+      }
+      if (cases.length % 2 == 1) {
+        const otherwise = cases[cases.length - 1];
+        return otherwise();
+      } else {
+        return "";
+      }
+    };
   },
   each(list, template, key) {
-    const { e, insert, render } = voyage;
+    const { e, insert, compile, create } = voyage;
     const { each, check } = voyage.lib;
 
-    const node = document.createComment("");
+    const _ = document.createComment("");
     let map = new Map();
 
     if (!key) {
@@ -331,41 +322,38 @@ let voyage = {
     }
 
     e(() => {
-      const unused = new Map();
-      for (const _ of map.keys()) {
-        unused.set(_, map.get(_).node);
+      const removal = new Set();
+      // for items cease to exist, flag it to be removed
+      window.a = map;
+      for (const _ of map.values()) {
+        _.node.remove();
+        removal.add(_.node);
       }
 
-      let currentList;
-      if (check(list, "function")) {
-        currentList = list();
-      } else {
-        currentList = list;
-      }
+      const current = check(list, "function") ? list() : list;
+      // for function (a reactive prop), get its current value
 
-      for (const i of each(currentList.length - 1)) {
-        let itemKey = key(currentList[i], i);
+      for (const i of each(current.length - 1)) {
+        let itemKey = key(current[i], i);
 
-        if (map.has(itemKey) && map.get(itemKey).data === currentList[i]) {
-          insert(map.get(itemKey).node, node);
-          unused.delete(itemKey);
+        if (map.has(itemKey) && map.get(itemKey).props === current[i]) {
+          insert(map.get(itemKey).node, _);
+          removal.delete(map.get(itemKey).node);
         } else {
-          const itemNode = render(() => template(currentList[i], i));
-          map.set(itemKey, { node: itemNode, data: currentList[i] });
-          insert(itemNode, node);
+          const result = template(current[i], i);
+          const node = check(result, Array) ? create(compile(result)) : result;
+
+          map.set(itemKey, { node, props: current[i] });
+          insert(node, _);
         }
       }
 
-      for (const _ of unused.keys()) {
-        if (map.get(_).node == unused.get(_)) {
-          // is previous data
-          map.delete(_);
-        }
-        unused.get(_).remove();
+      for (const _ of removal.values()) {
+        _.remove();
       }
     }, "shown");
 
-    return node;
+    return _;
   },
   /**
    * insert a node, return its remover fn
@@ -383,9 +371,10 @@ let voyage = {
   },
   /**
    * @typedef {object} Element
-   * @prop {string|function} type - node or component
+   * @prop {string} type - node
    * @prop {object} labels - attributes or props
-   * @prop {Array<Element|Node|string>} content - node or text
+   * @prop {Array<Element|Node|string|Function>} content
+   * - reactive or non reactive stuff
    */
   /**
    * template to element
@@ -403,18 +392,16 @@ let voyage = {
         } else {
           element.content.push(item);
         }
-      } else if (check(item, "function")) {
-        if (!element.type) {
-          element.type = item;
-        } else {
-          element.content.push({ type: item });
-        }
       } else if (check(item, Array)) {
         element.content.push(compile(item));
       } else if (check(item, Node)) {
         element.content.push(item);
+      } else if (check(item, "function")) {
+        element.content.push(item);
       } else if (check(item, "object")) {
         element.labels = item;
+      } else {
+        element.content.push(String(item));
       }
     }
     return element;
@@ -425,33 +412,13 @@ let voyage = {
    * @returns {Node}
    */
   create(element) {
-    const { create, render, e, insert } = voyage;
+    const { compile, create, e, insert } = voyage;
     const { check, has } = voyage.lib;
 
-    const { components } = voyage;
-    if (has(components, element.type)) {
-      // it's a component
-      const { type, labels } = element;
-      const node = render(components[type], labels);
-      return node;
-    }
-
-    if (check(element.type, "function")) {
-      const { type, labels } = element;
-      const _ = document.createComment("");
-      e(() => {
-        const node = render(type, labels);
-        return insert(node, _);
-      });
-      return _;
-    }
-
-    let node;
-    if (element.type == "") {
-      node = document.createDocumentFragment();
-    } else {
-      node = document.createElement(element.type);
-    }
+    let node =
+      element.type == ""
+        ? document.createDocumentFragment()
+        : document.createElement(element.type);
 
     const { labels } = element;
     for (const label in labels) {
@@ -494,16 +461,10 @@ let voyage = {
           value() {
             e(() => {
               node.value = value();
-              node.addEventListener("input", () => {
-                value(node.value);
-              });
             });
-          },
-          component() {
-            node = document.createComment("");
-            e(() => {
-              return insert(render(value), node);
-            }, "shown");
+            node.addEventListener("input", () => {
+              value(node.value);
+            });
           },
         };
         if (has(macros, event)) {
@@ -523,42 +484,56 @@ let voyage = {
     }
 
     for (const child of element.content) {
-      let childNode = check(child, "object") ? create(child) : child;
-      if (check(childNode, Node)) {
-        node.appendChild(childNode);
+      if (check(child, Node)) {
+        node.appendChild(child);
+      } else if (check(child, "object")) {
+        node.appendChild(create(child));
+      } else if (check(child, "function")) {
+        const _ = document.createComment("");
+        e(() => {
+          const result = child();
+          if (check(result, Array)) {
+            return insert(create(compile(result)), _);
+          } else {
+            return insert(result, _);
+          }
+        }, "shown");
+        node.appendChild(_);
       } else {
-        node.appendChild(document.createTextNode(childNode));
-        // const _ = document.createComment("");
-        // node.append(_);
-        // e(() => {
-        //   let childNode = create(child);
-        //   return insert(childNode, _);
-        // });
+        node.appendChild(document.createTextNode(child));
       }
     }
+
     return node;
   },
+  /**
+   * render a component to node
+   * @param {function} component
+   * @param {object} props
+   * @returns {Node}
+   */
   render(component, props) {
-    const { info, compile, create } = voyage;
     const { check } = voyage.lib;
+    const { compile, create } = voyage;
 
+    const { info } = voyage;
     info.props = props;
+
     template = component();
 
-    let result;
-    if (check(template, Array)) {
-      element = compile(template);
-      node = create(element);
-      result = node;
-    } else {
-      result = template;
+    if (check(template, "function")) {
+      // let it be the only child of a document fragment
+      template = [template];
     }
+
+    const element = compile(template);
+    const node = create(element);
 
     for (const _ of info.lifecycle.created) {
       _();
     }
     info.lifecycle.created = [];
-    return result;
+    return node;
   },
   run(app, on) {
     const { info, render } = voyage;
@@ -589,11 +564,11 @@ let examples = {
     return ["img", { src, alt: t`${name} dancing` }];
   },
   Html() {
-    const { p, h } = voyage;
+    const { p } = voyage;
     const { html } = p({
       html: `here's some <strong>HTML!!!</strong>`,
     });
-    return h(html);
+    return ["div", { "@html": html }];
   },
   HtmlEffect() {
     const { p, e } = voyage;
@@ -765,7 +740,7 @@ let examples = {
       ),
     ];
   },
-  propPath() {
+  PropPath() {
     const { p, e } = voyage;
     const { prop } = p();
     e(() => console.log(prop()));
@@ -780,3 +755,4 @@ let examples = {
 voyage.load(examples);
 
 voyage.run(examples.LegacyCounter, "body");
+

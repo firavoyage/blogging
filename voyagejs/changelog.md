@@ -456,14 +456,32 @@
 - style: use `?:` ternary operator to replace some verbose if statements
 - feat: `prop(...path, value)`
   - updating obj faster
+- fix: `@value` hook
+  - move add event listener out of effect
+  - whenever effect rerun the same event listener is added again
+- refactor: `element.type` wont be a function
+  - `element.children` may contain functions
+  - only dynamic stuff will be functions
+- refactor: deprecate `h(html)`, use `@html` macro instead
+  - no practical usage except making code complex
 - **todo**
 - feat: macro `@style`, `theme`
+  - `theme` define stuff like `m-1` `bg-white`
+  - `@style` define css, generate a class using murmurhash
   - ref
     - https://tailwindcss.com/docs/styling-with-utility-classes
     - https://tachyons.io/
     - https://unocss.dev/guide/
+- feat: `batch` `untrack`
+  - `untrack` can be rp with `prop.value` (make value public)
+- feat: `memo` for expensive tasks
+  - same derived value used in many places
+  - only compute once before any dep changes
 - fix: `key` in `each` fn
   - make it simple and clear
+- feat: `attached` lifecycle, effect with parent
+  - some operations need the element to have certain parent
+  - `attached` will run before showing on ui
 - feat: `render(component, on)`
   - create vdom
   - set vdom
