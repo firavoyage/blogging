@@ -449,8 +449,9 @@
 - fix: proper `effect cleanup`
   - cleanup fn is called when an effect or its parent effect reruns
   - use recursion to cleanup children of children
-- fix: `text node` accepts not only strings
-  - anything that is not a node will be a text node, e.g. a number
+- fix: not only strings is considered `text node`
+  - anything not a regular node is considered a `text node`
+  - e.g. a number
 - fix: a prop can be undefined
   - use ...a and a.length to determine whether undefined is passed
 - style: use `?:` ternary operator to replace some verbose if statements
@@ -464,7 +465,16 @@
   - only dynamic stuff will be functions
 - refactor: deprecate `h(html)`, use `@html` macro instead
   - no practical usage except making code complex
+- fix: unsubscribe when parent `effect` rerun
+  - e.g. `show(when, input({@value:prop}))`
+    - if the input is unmounted, the prop should unsubscribe
+    - if the input mounts again, the prop subscribe to the newly created one
+  - add unsubscribe as the cleanup to `info._parent`
 - **todo**
+- fix: insertion and removal of a `fragment` now works properly
+  - no longer rely on `create document fragment`
+  - `insert` and `remove` method works for both `node` and `fragment`
+  - for fragments, just map children to insert or remove
 - feat: macro `@style`, `theme`
   - `theme` define stuff like `m-1` `bg-white`
   - `@style` define css, generate a class using murmurhash
@@ -473,12 +483,11 @@
     - https://tachyons.io/
     - https://unocss.dev/guide/
 - feat: `batch` `untrack`
-  - `untrack` can be rp with `prop.value` (make value public)
+  - `untrack` can be rp with `prop.value` (value is made public)
 - feat: `memo` for expensive tasks
   - same derived value used in many places
   - only compute once before any dep changes
 - fix: `key` in `each` fn
-  - make it simple and clear
 - feat: `attached` lifecycle, effect with parent
   - some operations need the element to have certain parent
   - `attached` will run before showing on ui

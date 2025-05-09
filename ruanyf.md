@@ -6469,11 +6469,19 @@ https://githubnext.com/projects/code-brushes/
 
 -- [推特用户](https://mobile.twitter.com/awilkinson/status/1575941514567774208)
 
+## aggressive product manager in google youtube shorts
+
+`dev` `meme`
+
+我想关掉 Youtube 的短视频（Shorts）功能，点击"删除"按钮，结果它显示"此功能将隐藏30天"。
+
+我感觉像被某个寻求晋升的谷歌产品经理打了一记耳光，他告诉我，他比我更了解我的需求。
+
+-- [Hacker News 网友](https://news.ycombinator.com/item?id=35850324)
+
 ##
 
 
-
-##
 
 ##
 
