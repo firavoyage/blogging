@@ -149,6 +149,7 @@ let voyage = {
   info: {
     props: {},
     subscriber: false,
+    _parent: false,
     parent: false,
     lifecycle: {
       created: [],
@@ -169,15 +170,22 @@ let voyage = {
         let subscribers = new Set();
 
         if (check(value, "function")) {
-          // it's already a reactive prop
-          // or it shouldnt be reactive (e.g. an event handler)
+          // it's already a reactive prop passed down by a parent component
           return value;
         }
 
         const result = (..._) => {
           if (_.length == 0) {
-            if (info.subscriber) {
-              result.subscribe(info.subscriber);
+            const _ = info.subscriber;
+            if (_ && !subscribers.has(_)) {
+              subscribers.add(info.subscriber);
+              if (info._parent) {
+                info._parent.add({
+                  self: () => result.unsubscribe(info.subscriber),
+                });
+                // if parent effect reruns, no need to subscribe any longer
+                // e.g. prop on an unmounted option in `show`
+              }
             }
             return value;
           } else if (_.length == 1) {
@@ -211,6 +219,10 @@ let voyage = {
         result.subscribe = (_) => {
           subscribers.add(_);
         };
+        result.unsubscribe = (_) => {
+          subscribers.delete(_);
+        };
+
         return result;
       },
     };
@@ -219,26 +231,25 @@ let voyage = {
   },
   e(effect, when) {
     const { info } = voyage;
-    const { check } = voyage.lib;
 
-    if (!check(when)) {
-      when = "created";
-    }
-
-    let node = { self: false, children: [] };
+    let node = { self: false, children: new Set() };
     let _subscriber = info.subscriber;
-    let _parent = info.parent;
+    info._parent = info.parent;
 
     if (info.parent) {
-      info.parent.push(node);
+      info.parent.add(node);
     }
 
     const cleanup = function (node) {
       if (node.self) {
         node.self();
+        node.self = false;
       }
-      for (const child of node.children) {
-        cleanup(child);
+      if (node.children) {
+        for (const child of node.children) {
+          cleanup(child);
+        }
+        node.children = new Set();
       }
     };
 
@@ -250,14 +261,14 @@ let voyage = {
       node.self = effect();
 
       info.subscriber = _subscriber;
-      info.parent = _parent;
+      info.parent = info._parent;
     };
 
-    info.lifecycle[when].push(run);
+    info.lifecycle[when ? when : "created"].push(run);
   },
-  t(...template) {
+  t(...text) {
     const { each, check } = voyage.lib;
-    const [strings, ...props] = template;
+    const [strings, ...props] = text;
     return () => {
       let result = [];
       for (const index of each(strings.length - 1)) {
@@ -627,7 +638,7 @@ let examples = {
     const { count } = p({ count: 0 });
     e(() => {
       if (count() >= 10) {
-        console.log(`count is dangerously high!`);
+        // count is dangerously high!
         count(9);
       }
     });
@@ -645,9 +656,10 @@ let examples = {
     const { p, e, t } = voyage;
     const { count } = p({ count: 0 });
     e(() => {
-      setInterval(() => {
+      interval = setInterval(() => {
         count(count() + 1);
       }, 1000);
+      return () => clearInterval(interval);
     });
     return ["p", count];
   },
@@ -662,14 +674,15 @@ let examples = {
       t`${x} is between 5 and 10`
     );
   },
-  ChangingConditional() {
+  ChangeableConditional() {
     const { p, t, show } = voyage;
     const { x } = p({ x: 3 });
     const { e } = voyage;
     e(() => {
-      setInterval(() => {
+      interval = setInterval(() => {
         x(x() + 1);
       }, 1000);
+      return () => clearInterval(interval);
     });
     return show(
       () => x() > 10,
@@ -741,14 +754,19 @@ let examples = {
     ];
   },
   PropPath() {
-    const { p, e } = voyage;
+    const { p } = voyage;
     const { prop } = p();
-    e(() => console.log(prop()));
     prop({ abc: "xyz" });
     prop("abc", "def");
     prop("c123", "aaa");
 
-    return "";
+    return () => JSON.stringify(prop);
+  },
+  ConditionalIncreasingCounter() {
+    const { show, h } = voyage;
+    const { IncreasingCounter } = h();
+    // todo
+    return IncreasingCounter();
   },
 };
 
@@ -756,3 +774,4 @@ voyage.load(examples);
 
 voyage.run(examples.LegacyCounter, "body");
 
+// voyage.run(examples.ChangeableConditional, "body");

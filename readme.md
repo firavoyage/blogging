@@ -41,7 +41,7 @@
   - dried mango
   - chenpi
   - huamei
-- - jazz & lofi & classical & rock & folk
+- - rock & folk & j-pop & jazz & classical
   - calendar & wall clock & life size waifu pillow
   - origami & pixel art & gardening
   - math & algorithms & unixporn & mtf & virtualyoutubers & ruozhiba
@@ -76,7 +76,6 @@
   - jiongks
   - josh w. comeau
   - joshwcomeau
-  - kaf
   - kagura mea
   - kanamiox
   - kasuga tsubaki
@@ -102,7 +101,6 @@
   - nayuki
   - nina iseri
   - origami birds
-  - overdose_day
   - potetomj
   - probiusofficial
   - puddings00
@@ -133,46 +131,36 @@
   - yuuki sakuna
   - yxc acwing
 - - hotel california (eagles)
-  - wind of change (scorpions)
-  - scarborough fair (sarah brightman)
-  - the sound of silence (simon & garfunkel)
-  - a day in the life (the beatles)
-  - lost for words (pink floyd)
-  - fly me to the moon (all that jazz)
+  - crazy world (scorpions)
+  - parsley, sage, rosemary and thyme (simon & garfunkel)
+  - sounds of silence (simon & garfunkel)
+  - aftermath (the beatles)
+  - wish yoou were here (pink floyd)
+  - a momentary lapse of reason (pink floyd)
+  - the division bell (pink floyd)
+  - the dark side of the moon (pink floyd)
+  - observation (kaf)
+  - magic (kaf)
+  - crazy for you (kaf)
+  - fable (kaf)
+  - the book (yoasobi)
+  - the book 2 (yoasobi)
+  - the book 3 (yoasobi)
+  - the chorus (bruno coulais)
+  - rock n roll (beyond)
+  - u 87 (eason chan)
+  - what's going on...? (eason chan)
+  - fantasy (jay chou)
+  - miracle milk (mili)
   - a cruel angel's thesis (yoko takahashi)
-  - world.execute(me); (mili)
-  - magnet (minato aqua & inuyama tamaki)
-  - henceforth (kagura mea) (yuuki sakuna)
-  - imprisoned xii (ave mujica)
-  - toui sora he (manack & bruno wen li)
-  - aruarian dance (nujabes)
-  - haru no kaze (aoi teshima)
-  - one more time, one more chance (masayoshi yamazaki)
-  - hyehwadong (park bo ram)
+  - cruisin' (village people)
   - the girl who fell from the sky (joe hisaishi)
-  - the name of life (joe hisaishi)
-  - dry hands (c418)
-  - shopsation (hoyo-mix)
-  - caresse sur l'océan (bruno coulais & les petits chanteurs de saint-marc)
-  - gion2 (hoyo-mix)
-  - benevolence bequeathed (hoyo-mix)
-  - moon halo (hoyo-mix)
-  - the brave (yoasobi)
-  - one last kiss (hikaru utada)
-  - ymca (village people)
+  - yosuga no sora ost (manack & eufonius & bruno wen li)
   - internet overdose (aiobahn & kotoko)
-  - sky (beyond)
-  - you my deskmate (lao lang)
-  - thou away from oi (menci & wxh010910 & yan qval & krydom & niro bc & wer key tom_ftd & \_\_stdcall & created_equal & whzzt & wy1627)
-  - qun ding (mi feng chu & qiu ju)
-  - counter-clockwise clock (kafka & jay chou)
-  - story of time (luo da you)
-  - pompous (eason chan)
-  - fu shi shan xia (eason chan)
-  - love before bc (jay chou)
-  - fleet of time (faye wong)
-  - kletka (molchat doma)
-  - chueng r fei (tendou alice)
+  - magnet (minato aqua & inuyama tamaki)
+  - henceforth (kagura mea)
+  - tui yi de ni (menci & wxh010910 & yan qval & krydom & niro bc & wer key tom_ftd & \_\_stdcall & created_equal & whzzt & wy1627)
+  - qun ding (mi feng chu)
 - - spirited away (2001)
   - goodbye mr. loser (2015)
   - soul (2020)
