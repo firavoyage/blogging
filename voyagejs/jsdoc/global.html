@@ -102,7 +102,7 @@
 
         
                 
-<h4 class="name" id="Element">Element</h4>
+<h4 class="name" id="Effect">Effect</h4>
 
 
 
@@ -113,7 +113,7 @@
     <ul>
         <li>
             
-<span class="param-type">object</span>
+<span class="param-type">Object</span>
 
 
         </li>
@@ -149,15 +149,12 @@
 
         <tr>
             
-                <td class="name"><code>type</code></td>
+                <td class="name"><code>effect</code></td>
             
 
             <td class="type">
             
                 
-<span class="param-type">string</span>
-|
-
 <span class="param-type">function</span>
 
 
@@ -168,20 +165,23 @@
 
             
 
-            <td class="description last"><p>string means html tag. fn means component.</p></td>
+            <td class="description last"></td>
         </tr>
 
     
 
         <tr>
             
-                <td class="name"><code>labels</code></td>
+                <td class="name"><code>cleanup</code></td>
             
 
             <td class="type">
             
                 
-<span class="param-type">object</span>
+<span class="param-type">function</span>
+|
+
+<span class="param-type">undefined</span>
 
 
             
@@ -191,20 +191,20 @@
 
             
 
-            <td class="description last"><p>or properties for a component.</p></td>
+            <td class="description last"></td>
         </tr>
 
     
 
         <tr>
             
-                <td class="name"><code>content</code></td>
+                <td class="name"><code>children</code></td>
             
 
             <td class="type">
             
                 
-<span class="param-type">Array.&lt;(<a href="global.html#Element">Element</a>|string)></span>
+<span class="param-type">Set.&lt;<a href="global.html#EffectId">EffectId</a>></span>
 
 
             
@@ -214,7 +214,30 @@
 
             
 
-            <td class="description last"><p>ignored if it's a component. string means text node.</p></td>
+            <td class="description last"></td>
+        </tr>
+
+    
+
+        <tr>
+            
+                <td class="name"><code>deps</code></td>
+            
+
+            <td class="type">
+            
+                
+<span class="param-type">Set.&lt;<a href="global.html#PropId">PropId</a>></span>
+
+
+            
+            </td>
+
+            
+
+            
+
+            <td class="description last"></td>
         </tr>
 
     
@@ -253,7 +276,7 @@
     
     <dt class="tag-source">Source:</dt>
     <dd class="tag-source"><ul class="dummy"><li>
-        <a href="voyage.js.html">voyage.js</a>, <a href="voyage.js.html#line196">line 196</a>
+        <a href="voyage.js.html">voyage.js</a>, <a href="voyage.js.html#line401">line 401</a>
     </li></ul></dd>
     
 
@@ -271,14 +294,10 @@
 
             
                 
-<h4 class="name" id="Key">Key</h4>
+<h4 class="name" id="EffectId">EffectId</h4>
 
 
 
-
-<div class="description">
-    <p>a proper key in an object</p>
-</div>
 
 
 
@@ -286,19 +305,7 @@
     <ul>
         <li>
             
-<span class="param-type">string</span>
-|
-
-<span class="param-type">symbol</span>
-|
-
-<span class="param-type">boolean</span>
-|
-
 <span class="param-type">number</span>
-|
-
-<span class="param-type">bigint</span>
 
 
         </li>
@@ -337,7 +344,298 @@
     
     <dt class="tag-source">Source:</dt>
     <dd class="tag-source"><ul class="dummy"><li>
-        <a href="voyage.js.html">voyage.js</a>, <a href="voyage.js.html#line42">line 42</a>
+        <a href="voyage.js.html">voyage.js</a>, <a href="voyage.js.html#line398">line 398</a>
+    </li></ul></dd>
+    
+
+    
+
+    
+
+    
+</dl>
+
+
+
+
+
+
+            
+                
+<h4 class="name" id="Fragment">Fragment</h4>
+
+
+
+
+
+
+    <h5>Type:</h5>
+    <ul>
+        <li>
+            
+<span class="param-type">Array.&lt;(Node|<a href="global.html#Text">Text</a>)></span>
+
+
+        </li>
+    </ul>
+
+
+
+
+
+<dl class="details">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    <dt class="tag-source">Source:</dt>
+    <dd class="tag-source"><ul class="dummy"><li>
+        <a href="voyage.js.html">voyage.js</a>, <a href="voyage.js.html#line128">line 128</a>
+    </li></ul></dd>
+    
+
+    
+
+    
+
+    
+</dl>
+
+
+
+
+
+
+            
+                
+<h4 class="name" id="Key">Key</h4>
+
+
+
+
+<div class="description">
+    <p>a proper key in an object</p>
+</div>
+
+
+
+    <h5>Type:</h5>
+    <ul>
+        <li>
+            
+<span class="param-type">string</span>
+|
+
+<span class="param-type">symbol</span>
+|
+
+<span class="param-type">number</span>
+|
+
+<span class="param-type">boolean</span>
+
+
+        </li>
+    </ul>
+
+
+
+
+
+<dl class="details">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    <dt class="tag-source">Source:</dt>
+    <dd class="tag-source"><ul class="dummy"><li>
+        <a href="voyage.js.html">voyage.js</a>, <a href="voyage.js.html#line23">line 23</a>
+    </li></ul></dd>
+    
+
+    
+
+    
+
+    
+</dl>
+
+
+
+
+
+
+            
+                
+<h4 class="name" id="PropId">PropId</h4>
+
+
+
+
+
+
+    <h5>Type:</h5>
+    <ul>
+        <li>
+            
+<span class="param-type">number</span>
+
+
+        </li>
+    </ul>
+
+
+
+
+
+<dl class="details">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    <dt class="tag-source">Source:</dt>
+    <dd class="tag-source"><ul class="dummy"><li>
+        <a href="voyage.js.html">voyage.js</a>, <a href="voyage.js.html#line395">line 395</a>
+    </li></ul></dd>
+    
+
+    
+
+    
+
+    
+</dl>
+
+
+
+
+
+
+            
+                
+<h4 class="name" id="Text">Text</h4>
+
+
+
+
+
+
+    <h5>Type:</h5>
+    <ul>
+        <li>
+            
+<span class="param-type">string</span>
+|
+
+<span class="param-type">number</span>
+|
+
+<span class="param-type">boolean</span>
+
+
+        </li>
+    </ul>
+
+
+
+
+
+<dl class="details">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    <dt class="tag-source">Source:</dt>
+    <dd class="tag-source"><ul class="dummy"><li>
+        <a href="voyage.js.html">voyage.js</a>, <a href="voyage.js.html#line213">line 213</a>
     </li></ul></dd>
     
 
@@ -367,13 +665,13 @@
 </div>
 
 <nav>
-    <h2><a href="index.html">Home</a></h2><h3>Namespaces</h3><ul><li><a href="voyage.html">voyage</a></li><li><a href="voyage.lib.html">lib</a></li></ul><h3><a href="global.html">Global</a></h3>
+    <h2><a href="index.html">Home</a></h2><h3>Namespaces</h3><ul><li><a href="voyage.html">voyage</a></li><li><a href="voyage.lib.html">lib</a></li><li><a href="voyage.methods.html">methods</a></li></ul><h3><a href="global.html">Global</a></h3>
 </nav>
 
 <br class="clear">
 
 <footer>
-    Documentation generated by <a href="https://github.com/jsdoc/jsdoc">JSDoc 4.0.4</a> on Wed Mar 26 2025 00:27:55 GMT+0800 (China Standard Time)
+    Documentation generated by <a href="https://github.com/jsdoc/jsdoc">JSDoc 4.0.4</a> on Thu May 15 2025 15:28:56 GMT+0800 (Taipei Standard Time)
 </footer>
 
 <script> prettyPrint(); </script>

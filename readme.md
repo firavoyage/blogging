@@ -6,9 +6,11 @@
 
 > $lucky \space \text{☆} \space star!$
 
-> 🍅‍⏲️ $solanum$
+> 🍅 ⏲️ $solanum$
 
-> 🌕‍💤 $\text{23:30}$
+> 🌕 💤 💤 💤 $\text{23:00}$
+
+> 忘我思考
 
 - a developer, writer, wikipedian
 - grew up in shanghai
@@ -20,10 +22,6 @@
 
 - make tools elegant
 - make knowledge pure
-
-## enlightenment
-
-- world is powered by solitude
 
 ## perception
 
@@ -41,97 +39,93 @@
   - dried mango
   - chenpi
   - huamei
-- - rock & folk & j-pop & jazz & classical
-  - calendar & wall clock & life size waifu pillow
-  - origami & pixel art & gardening
-  - math & algorithms & unixporn & mtf & virtualyoutubers & ruozhiba
-  - web dev & threejs & cpp & python & rust
-  - english & japanese & cantonese & taiwanese & chinese
-  - dark style & night light & low brightness & tranquility
-  - attention & observation
-  - arrangement & accumulation
-  - cynicism & dissociation & inner speech & second person omniscient narration
+- - rock · folk · j-pop · jazz · classical
+  - calendar · wall clock 
+  - life size waifu pillow · origami · pixel art · gardening
+  - anime · visualnovels · unixporn · mtf · virtualyoutubers
+  - math · algorithms · ai · web dev · threejs · cpp · python · rust
+  - dark style · night light · low brightness · tranquility
+  - cynicism · dissociation · inner speech · second person omniscient narration
 - - ace taffy
   - antfu
   - azi azusa
   - bradwoods
-  - chen zhe aya
-  - chtholly
-  - cldeop
-  - ddzhanshou5150
-  - devpoga
+  - chen xiao origami
+  - chen_zhe
+  - chriscoyier
+  - chtholly nota seniorious
+  - dbinary matrixcascade
   - diygod
   - elleflorio
   - falstaff duolingo
   - funshiki
+  - gaearon dan abramov
+  - grant sanderson 3blue1brown
   - henri, le chat noir
   - himself65
   - hitori gotoh
   - hsn8086
+  - huang chih-chung 
   - huxpro
   - ichi hime
+  - innei
+  - insraq
   - jiang yanyan
   - jiangly
   - jingsheng237248
   - jiongks
-  - josh w. comeau
   - joshwcomeau
+  - juliangarnier
   - kagura mea
-  - kanamiox
-  - kasuga tsubaki
   - kasugano sora
   - keyboard cat
   - kirikaze chiyuki
   - kkksc03
   - konata izumi
+  - krahets
+  - lei bro gaming
   - liangxihuigui
   - livid v2ex
   - matikane tannhauser
-  - mediastorm tim
   - menci
   - minami iwasaki
   - minato aqua
-  - minokakay
-  - mirekintoc
   - miyuki takara
+  - mrcongliu
   - mugumogu maru
-  - muoujiang_
-  - nahida
+  - nahida gi
   - nat friedman
   - nayuki
   - nina iseri
-  - origami birds
   - potetomj
   - probiusofficial
-  - puddings00
-  - quitee123
-  - rencai_nina
-  - rosmontis233
-  - sakura_mo_yu
-  - seemsec
+  - saiba momoi
   - seren azuma
   - share121
   - shengxj1
-  - shishishidifufu
   - snack life
   - sparkle
   - takanashi hoshino
   - tendou alice
+  - tim mediastorm
   - timqian
   - tourist gennady korotkevich
   - turingou
   - txstc55
+  - uzawa reisa
   - verymoes
+  - vochant
   - wanderer above the sea of fog
-  - wtxycco
   - xkcd
   - yifusuyi
   - yuanchuan
   - yunyoujun
   - yuuki sakuna
   - yxc acwing
+  - zhou xuanyi
 - - hotel california (eagles)
   - crazy world (scorpions)
+  - humanity hour 1 (scorpions)
   - parsley, sage, rosemary and thyme (simon & garfunkel)
   - sounds of silence (simon & garfunkel)
   - aftermath (the beatles)
@@ -146,16 +140,16 @@
   - the book (yoasobi)
   - the book 2 (yoasobi)
   - the book 3 (yoasobi)
-  - the chorus (bruno coulais)
+  - daiginjo (miyuki nakajima)
   - rock n roll (beyond)
   - u 87 (eason chan)
   - what's going on...? (eason chan)
   - fantasy (jay chou)
   - miracle milk (mili)
   - a cruel angel's thesis (yoko takahashi)
-  - cruisin' (village people)
   - the girl who fell from the sky (joe hisaishi)
   - yosuga no sora ost (manack & eufonius & bruno wen li)
+  - god knows (aya hirano & haruhi suzumiya)
   - internet overdose (aiobahn & kotoko)
   - magnet (minato aqua & inuyama tamaki)
   - henceforth (kagura mea)
@@ -166,7 +160,6 @@
   - soul (2020)
   - the shawshank redemption (1994)
   - joker (2019)
-  - life in a day (2011)
   - the chorus (2004)
   - the phantom of the opera (2004)
   - your name. (2016)
@@ -183,12 +176,11 @@
   - flow (2024)
   - wild tales (2014)
   - the big short (2019)
+  - the truman show (1998)
   - .princess mononoke (1997)
-  - .the truman show (1998)
   - .the disappearance of haruhi suzumiya (2010)
 - - tom and jerry (1940)
   - in solitude where we are least alone (2010)
-  - international chinese debating competition (2013)
   - worldend: what do you do at the end of the world? are you busy? will you save us? (2017)
   - lucky star (2007)
   - evangelion (1995)
@@ -206,15 +198,14 @@
   - .oreimo (2010)
   - .too many losing heroines! (2024)
   - .my youth romantic comedy is wrong, as i expected (2013)
-  - .attack on titan (2013)
   - .puella magi madoka magica (2011)
+  - .no game, no life (2014)
   - .anohana: the flower we saw that day (2011)
+  - .attack on titan (2013)
   - .school days (2007)
   - .white album (2009)
   - .spongebob squarepants (1999)
   - .reply 1988 (2015)
-  - .the big bang theory (2007)
-  - .yes minister (1980)
 - - angry birds (2009)
   - minecraft (2011)
   - soul knight (2017)
@@ -256,17 +247,17 @@
   - .split fiction (2025)
   - .inzoi (2025)
   - .vrchat (2014)
-- - google & chatgpt & gemini & deepseek & mistral ai
-  - wikipedia & miraheze & fandom & moegirl.icu & oi wiki
-  - internet archive wayback machine & archive.today & the pirate bay & z library & anna's archive
-  - youtube & berryberry & acfun & niconico & vtbs.moe & hololist
-  - old reddit & hacker news & twitter & zhihu & nga bbs & baidu tieba & v2ex & github trending & product hunt
-  - ruanyf weekly & tw93 weekly & gamedevjs weekly & codepen spark
-  - douban & imdb & bangumi.tv & my anime list & bgmlist & mikan project & nyaa.si & dmhy.org & yuc.wiki & wotaku.wiki
-  - pixiv & deviantart & civitai & e hentai & dribbble & unsplash
-  - steam db & itch.io & google doodles & vndb & shinnku galgame & kungal & touchgal
-  - codeforces & atcoder & luogu & libre oj & project euler
-  - travellings.cn & foreverblog.cn & travel.moe & acmer.info
+- - google · chatgpt · gemini · deepseek · mistral ai
+  - wikipedia · miraheze · fandom · moegirl.icu · oi wiki
+  - internet archive · archive.today · the pirate bay · z library · anna's archive
+  - youtube · berryberry · acfun · niconico · vtbs.moe · hololist
+  - reddit · hacker news · twitter · zhihu · nga bbs · baidu tieba · v2ex · github trending · product hunt
+  - ruanyf weekly · tw93 weekly · gamedevjs weekly · codepen spark
+  - douban · imdb · bangumi.tv · my anime list · bgmlist · mikan project · nyaa.si · dmhy.org · yuc.wiki · wotaku.wiki
+  - pixiv · deviantart · civitai · e hentai · dribbble · unsplash
+  - steam db · itch.io · google doodles · vndb · shinnku galgame · kungal · touchgal
+  - codeforces · atcoder · luogu · libre oj · project euler
+  - travellings.cn · foreverblog.cn · travel.moe · acmer.info
 - - to live (yu hua)
   - road ahead (ruan yifeng)
   - the water level of ideology (liu yu)
@@ -276,15 +267,15 @@
   - liu qing's lectures on modern western thought (liu qing)
   - a long gaze (lung yingtai)
   - hackers and painters (paul graham)
+  - integer overflow: the development, prosperity and decline of olympics in informatics (xu xiling)
+  - refactoring ui (adam wathan & steve schoger)
+  - react docs: learn (react community)
   - javascript: the good parts (douglas crockford)
   - javascript: the definitive guide seventh edition (david flanagan)
   - c++ primer fifth edition (barbara e. moo & josée lajoie & stanley b. lippman)
   - c++ primer plus sixth edition (stephen prata)
-  - refactoring ui (adam wathan & steve schoger)
-  - react docs: learn (react community)
   - hello algo (krahets)
   - competitive programmers' handbook (antti laaksonen)
-  - integer overflow: the development, prosperity and decline of olympics in informatics (xu xiling)
   - mathematics, no 2 secondary school attached to east china normal university (liu chuxi & shi hongliang & cai dongshan)
   - mathematical olympiad series (xiong bin & ...)
   - .one hundred years of solitude (gabriel garcía márquez)
@@ -305,13 +296,14 @@
   - fyfy.fm (justin yan & hzlzh)
   - hard hacker (yixiao & 0xsaito & anson)
   - lex fridman podcast (lex fridman)
+  - li dan (li dan)
   - mindhub by product thinking (shaonan & fonter & mengna)
   - pan.icu (wu tao & rio)
-  - python hunter (manjusaka & adam wen & laixintao)
+  - stochastic volatility (zhiqi & shiye)
   - storyfm (kou aizhe)
   - ux coffee (riceman & hoka)
   - web worker (xinbao & lv777 & pakchoi & kaiyi & smart)
-  - y combinator startup podcast (y combinator)
+  - xie xing liao tian hui (dan li ren comedy)
   - yixi (yixi)
 - - ubuntu yaru
   - material design 2 & 3
@@ -323,6 +315,7 @@
   - atom one dark
   - just black chromium
 - - ar pl ukai
+  - cuprum
   - dejavu serif
   - fira code
   - fira sans
@@ -339,6 +332,7 @@
   - open sans
   - playfair
   - poppins
+  - pt sans narrow
   - pt serif
   - resource han rounded
   - roboto
@@ -356,16 +350,17 @@
     - wine 9.0
     - zsh 5.9
   - - g++ 13.3.0
+    - emcc 4.0.5
     - node 18.19.1
     - npm 9.2.0
-      - jsdoc 4.0.4
+    - jsdoc 4.0.4
     - python3 3.12.3
     - pip 24.0
     - rustup 1.28.1
     - rustc 1.85.0
     - cargo 1.85.0
-      - wasm-pack 0.13.1
-      - mdbook 0.4.47
+    - wasm-pack 0.13.1
+    - mdbook 0.4.47
   - - wakatime.vscode-wakatime 24.9.2
     - yzhang.markdown-all-in-one 3.6.2
     - xabikos.javascriptsnippets 1.8.0
@@ -437,16 +432,16 @@
     - ankidroid 2.17.6
     - antennapod 3.1.2
     - bilimiao 2.3.8.3
-    - bubeidanci 5.8.8
-    - chess 4.7.2
     - duolingo 6.11.4-mod
     - eudic 9.3.1
-    - fcitx5-android 0.0.7
+    - fcitx5-android 0.1.1
     - gboard 15.2.03
     - k9-mail 6.801
     - legado 3.23.112523
     - material-files 1.4.2
     - metro 6.1.0
+    - musicfree 0.5.1
+    - musictag 1.2.5.2
     - nekogram 11.0.0
     - oneplus-weather 1.8.5
     - onscripter-yuri 0.7.4
@@ -457,7 +452,6 @@
   - smartisan revolution ii
   - oneplus buds 3
   - oppo enco free 3
-  - logitech wireless mouse m185
 
 ## strength
 
@@ -612,10 +606,11 @@
 - `blogging/favorites` collector
 - `blogging/lights` learner
 - `blogging/notes` librarian
-- `blogging/fira` youtuber
-- `blogging/pure` tutor
+- `blogging/source` programmer
+- `blogging/voyagejs` developer
 - `blogging/config` geek
-- `blogging/...` developer
+- `blogging/fira` youtuber
+- `blogging/pure` `blogging/intuitive` peer
 - `memories/perspective` surfer
 - `memories/insight` sojourner
 - `memories/gaming` player
@@ -642,7 +637,7 @@
   - telegram group `voyagefira`
   - telegram channel `firavoyagechan`
 - - bangumi.tv `firavoyage`
-  - reddit `u/firavoyage`
+  - reddit `u/firascript`
   - baidu tieba `____f_____`
   - v2ex `voy`
   - instagram `firascript`
@@ -664,6 +659,8 @@
 - _idle fellow_ earthly escapade...
 - _simplicity addict_ elegance of ideas...
 - _indie developer_ libre apps...
+
+> world is powered by solitude
 
 > _⚓_
 >
@@ -740,3 +737,11 @@
 > "让我们一起看到真结局吧"
 
 > 似曾相识. dejavu.
+
+> 在残念的人生中...
+
+> all good things.
+
+> "vibe coding"
+
+> ai is cool i guess

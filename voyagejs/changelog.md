@@ -441,7 +441,7 @@
 - feat: macro `@ref: state`
   - assign the element to the state on creation
 
-## 0.36
+## 0.36 20250513
 
 - fix: remove `m`
   - derived state and state are the same, both are fn
@@ -470,11 +470,31 @@
     - if the input is unmounted, the prop should unsubscribe
     - if the input mounts again, the prop subscribe to the newly created one
   - add unsubscribe as the cleanup to `info._parent`
+- fix: remove unused fn `lib.map`
+- feat: support of `Fragment`
+  - deprecate `create document fragment`
+  - typedef `Fragment`
+  - `append(node, child)` `insert(node, sibling)` `remove(node)`
+  - `Array.map` is used to deal with fragments
+  - typedef `Text`
+  - `lib.handleText(node)` convert text to text node
+- docs: add jsdoc comment to methods and data structures
+- refactor: make effects public on `info`
+  - type `Effect` `{effect:fn, cleanup: fn, children: Array<number>}|false`
+  - use `info.effects: Array<Effect>` `.effectCount: number` `.parent: number`
+  - use id rather than its fn to represent an effect
+  - `cleanup`: cleanup children, turn children to false
+  - when a prop change applies, for `false` effects, remove the subscriber
+- fix: for `effect` created inside `effect`, run until lifecycle is empty
+- fix: insert dynamic `child` (i.e. functions) before mounting
+
+## 0.37
+
+- refactor: merge `compile` into `create`
+- refactor: `e(fn, deps)` and lifecycle hooks
 - **todo**
-- fix: insertion and removal of a `fragment` now works properly
-  - no longer rely on `create document fragment`
-  - `insert` and `remove` method works for both `node` and `fragment`
-  - for fragments, just map children to insert or remove
+- fix: wrong usage of lifecycle `shown`
+  - create fragment before `shown`, insert immediately after `shown`
 - feat: macro `@style`, `theme`
   - `theme` define stuff like `m-1` `bg-white`
   - `@style` define css, generate a class using murmurhash

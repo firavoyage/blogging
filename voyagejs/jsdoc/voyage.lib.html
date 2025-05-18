@@ -38,7 +38,7 @@
     <div class="container-overview">
     
         
-            <div class="description"><p>some pure fn</p></div>
+            <div class="description"><p>extended js standard library</p></div>
         
 
         
@@ -112,7 +112,7 @@
     
 
     
-    <h4 class="name" id=".check"><span class="type-signature">(static) </span>check<span class="signature">(value, type<span class="signature-attributes">opt</span>)</span><span class="type-signature"> &rarr; {string|boolean}</span></h4>
+    <h4 class="name" id=".check"><span class="type-signature">(static) </span>check<span class="signature">(value, type<span class="signature-attributes">opt</span>)</span><span class="type-signature"> &rarr; {boolean}</span></h4>
     
 
     
@@ -120,7 +120,7 @@
 
 
 <div class="description">
-    <p>type check a value</p>
+    <p>check if a value is valid</p>
 </div>
 
 
@@ -259,7 +259,7 @@
     
     <dt class="tag-source">Source:</dt>
     <dd class="tag-source"><ul class="dummy"><li>
-        <a href="voyage.js.html">voyage.js</a>, <a href="voyage.js.html#line80">line 80</a>
+        <a href="voyage.js.html">voyage.js</a>, <a href="voyage.js.html#line50">line 50</a>
     </li></ul></dd>
     
 
@@ -288,9 +288,9 @@
 
         
 <div class="param-desc">
-    <p>invalid value (undefined or null): false</p>
-<p>valid value &amp; no type given: typeof value</p>
-<p>valid value &amp; type: equals type or instanceof type</p>
+    <p>one param: false if value is undefined or null, otherwise true
+two params (type: string): typeof value === type
+two params (type: fn): value instanceof type</p>
 </div>
 
 
@@ -301,9 +301,6 @@
     </dt>
     <dd>
         
-<span class="param-type">string</span>
-|
-
 <span class="param-type">boolean</span>
 
 
@@ -330,12 +327,10 @@
 
 
 <div class="description">
-    <p>generate iterator inside for of loop</p>
-<p>one param: end</p>
-<p>two params: begin, end</p>
-<p>three params: begin, end, step</p>
-<p>begin defaults to 0,</p>
-<p>step defaults to 1 if begin &lt; end, otherwise -1</p>
+    <p>generate iterator in <code>for of</code> loop</p>
+<p>one param: [0, end, 1]
+two params: [begin, end, 1]
+three params: [begin, end, step]</p>
 </div>
 
 
@@ -397,7 +392,7 @@
 
             
 
-            <td class="description last"><p>first param</p></td>
+            <td class="description last"></td>
         </tr>
 
     
@@ -430,7 +425,7 @@
 
             
 
-            <td class="description last"><p>second param</p></td>
+            <td class="description last"></td>
         </tr>
 
     
@@ -463,7 +458,7 @@
 
             
 
-            <td class="description last"><p>third param</p></td>
+            <td class="description last"></td>
         </tr>
 
     
@@ -504,7 +499,7 @@
     
     <dt class="tag-source">Source:</dt>
     <dd class="tag-source"><ul class="dummy"><li>
-        <a href="voyage.js.html">voyage.js</a>, <a href="voyage.js.html#line115">line 115</a>
+        <a href="voyage.js.html">voyage.js</a>, <a href="voyage.js.html#line76">line 76</a>
     </li></ul></dd>
     
 
@@ -532,10 +527,6 @@
 <h5>Returns:</h5>
 
         
-<div class="param-desc">
-    <p>the iterator</p>
-</div>
-
 
 
 <dl>
@@ -570,7 +561,7 @@
 
 
 <div class="description">
-    <p>has own property</p>
+    <p>has own property (false if it's not an object)</p>
 </div>
 
 
@@ -686,7 +677,7 @@
     
     <dt class="tag-source">Source:</dt>
     <dd class="tag-source"><ul class="dummy"><li>
-        <a href="voyage.js.html">voyage.js</a>, <a href="voyage.js.html#line58">line 58</a>
+        <a href="voyage.js.html">voyage.js</a>, <a href="voyage.js.html#line33">line 33</a>
     </li></ul></dd>
     
 
@@ -714,11 +705,6 @@
 <h5>Returns:</h5>
 
         
-<div class="param-desc">
-    <p>an object: whether the key exists</p>
-<p>not an object: false</p>
-</div>
-
 
 
 <dl>
@@ -745,7 +731,7 @@
     
 
     
-    <h4 class="name" id=".is"><span class="type-signature">(static) </span>is<span class="signature">(a, b)</span><span class="type-signature"> &rarr; {boolean}</span></h4>
+    <h4 class="name" id=".pop"><span class="type-signature">(static) </span>pop<span class="signature">(set)</span><span class="type-signature"> &rarr; {*}</span></h4>
     
 
     
@@ -753,7 +739,7 @@
 
 
 <div class="description">
-    <p>strict equality test. put awkward === into an abstraction.</p>
+    <p>pop an item out of a set</p>
 </div>
 
 
@@ -789,36 +775,13 @@
 
         <tr>
             
-                <td class="name"><code>a</code></td>
+                <td class="name"><code>set</code></td>
             
 
             <td class="type">
             
                 
-<span class="param-type">*</span>
-
-
-            
-            </td>
-
-            
-
-            
-
-            <td class="description last"></td>
-        </tr>
-
-    
-
-        <tr>
-            
-                <td class="name"><code>b</code></td>
-            
-
-            <td class="type">
-            
-                
-<span class="param-type">*</span>
+<span class="param-type">Set</span>
 
 
             
@@ -869,7 +832,7 @@
     
     <dt class="tag-source">Source:</dt>
     <dd class="tag-source"><ul class="dummy"><li>
-        <a href="voyage.js.html">voyage.js</a>, <a href="voyage.js.html#line30">line 30</a>
+        <a href="voyage.js.html">voyage.js</a>, <a href="voyage.js.html#line112">line 112</a>
     </li></ul></dd>
     
 
@@ -897,10 +860,6 @@
 <h5>Returns:</h5>
 
         
-<div class="param-desc">
-    <p>whether a equals b</p>
-</div>
-
 
 
 <dl>
@@ -909,491 +868,15 @@
     </dt>
     <dd>
         
-<span class="param-type">boolean</span>
-
-
-    </dd>
-</dl>
-
-    
-
-
-
-
-
-        
-            
-
-    
-
-    
-    <h4 class="name" id=".isnt"><span class="type-signature">(static) </span>isnt<span class="signature">(a, b)</span><span class="type-signature"> &rarr; {boolean}</span></h4>
-    
-
-    
-
-
-
-<div class="description">
-    <p>strict inequality test</p>
-</div>
-
-
-
-
-
-
-
-
-
-    <h5>Parameters:</h5>
-    
-
-<table class="params">
-    <thead>
-    <tr>
-        
-        <th>Name</th>
-        
-
-        <th>Type</th>
-
-        
-
-        
-
-        <th class="last">Description</th>
-    </tr>
-    </thead>
-
-    <tbody>
-    
-
-        <tr>
-            
-                <td class="name"><code>a</code></td>
-            
-
-            <td class="type">
-            
-                
 <span class="param-type">*</span>
 
 
-            
-            </td>
-
-            
-
-            
-
-            <td class="description last"></td>
-        </tr>
-
-    
-
-        <tr>
-            
-                <td class="name"><code>b</code></td>
-            
-
-            <td class="type">
-            
-                
-<span class="param-type">*</span>
-
-
-            
-            </td>
-
-            
-
-            
-
-            <td class="description last"></td>
-        </tr>
-
-    
-    </tbody>
-</table>
-
-
-
-
-
-
-<dl class="details">
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-    <dt class="tag-source">Source:</dt>
-    <dd class="tag-source"><ul class="dummy"><li>
-        <a href="voyage.js.html">voyage.js</a>, <a href="voyage.js.html#line39">line 39</a>
-    </li></ul></dd>
-    
-
-    
-
-    
-
-    
-</dl>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<h5>Returns:</h5>
-
-        
-<div class="param-desc">
-    <p>whether a is not equal to b</p>
-</div>
-
-
-
-<dl>
-    <dt>
-        Type
-    </dt>
-    <dd>
-        
-<span class="param-type">boolean</span>
-
-
     </dd>
 </dl>
 
     
 
 
-
-
-
-        
-            
-
-    
-
-    
-    <h4 class="name" id=".map"><span class="type-signature">(static) </span>map<span class="signature">(things, converter)</span><span class="type-signature"> &rarr; {Array}</span></h4>
-    
-
-    
-
-
-
-<div class="description">
-    <p>map array to a function</p>
-</div>
-
-
-
-
-
-
-
-
-
-    <h5>Parameters:</h5>
-    
-
-<table class="params">
-    <thead>
-    <tr>
-        
-        <th>Name</th>
-        
-
-        <th>Type</th>
-
-        
-
-        
-
-        <th class="last">Description</th>
-    </tr>
-    </thead>
-
-    <tbody>
-    
-
-        <tr>
-            
-                <td class="name"><code>things</code></td>
-            
-
-            <td class="type">
-            
-                
-<span class="param-type">Array</span>
-
-
-            
-            </td>
-
-            
-
-            
-
-            <td class="description last"><p>things need to be converted</p></td>
-        </tr>
-
-    
-
-        <tr>
-            
-                <td class="name"><code>converter</code></td>
-            
-
-            <td class="type">
-            
-                
-<span class="param-type">function</span>
-
-
-            
-            </td>
-
-            
-
-            
-
-            <td class="description last"><p>the converter</p></td>
-        </tr>
-
-    
-    </tbody>
-</table>
-
-
-
-
-
-
-<dl class="details">
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-    <dt class="tag-source">Source:</dt>
-    <dd class="tag-source"><ul class="dummy"><li>
-        <a href="voyage.js.html">voyage.js</a>, <a href="voyage.js.html#line155">line 155</a>
-    </li></ul></dd>
-    
-
-    
-
-    
-
-    
-</dl>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<h5>Returns:</h5>
-
-        
-<div class="param-desc">
-    <p>things converted</p>
-</div>
-
-
-
-<dl>
-    <dt>
-        Type
-    </dt>
-    <dd>
-        
-<span class="param-type">Array</span>
-
-
-    </dd>
-</dl>
-
-    
-
-
-
-
-
-        
-            
-
-    
-
-    
-    <h4 class="name" id=".use"><span class="type-signature">(static) </span>use<span class="signature">()</span><span class="type-signature"> &rarr; {Proxy.&lt;function()>}</span></h4>
-    
-
-    
-
-
-
-<div class="description">
-    <p>functional programming essential</p>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-<dl class="details">
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-    <dt class="tag-source">Source:</dt>
-    <dd class="tag-source"><ul class="dummy"><li>
-        <a href="voyage.js.html">voyage.js</a>, <a href="voyage.js.html#line180">line 180</a>
-    </li></ul></dd>
-    
-
-    
-
-    
-
-    
-</dl>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<h5>Returns:</h5>
-
-        
-
-
-<dl>
-    <dt>
-        Type
-    </dt>
-    <dd>
-        
-<span class="param-type">Proxy.&lt;function()></span>
-
-
-    </dd>
-</dl>
-
-    
-
-
-
-
-    <h5>Example</h5>
-    
-    <pre class="prettyprint"><code>const {slice} = use(Array)
-slice([1,2,3],0,2) //[1,2,3].slice(0,2)</code></pre>
 
 
 
@@ -1413,13 +896,13 @@ slice([1,2,3],0,2) //[1,2,3].slice(0,2)</code></pre>
 </div>
 
 <nav>
-    <h2><a href="index.html">Home</a></h2><h3>Namespaces</h3><ul><li><a href="voyage.html">voyage</a></li><li><a href="voyage.lib.html">lib</a></li></ul><h3><a href="global.html">Global</a></h3>
+    <h2><a href="index.html">Home</a></h2><h3>Namespaces</h3><ul><li><a href="voyage.html">voyage</a></li><li><a href="voyage.lib.html">lib</a></li><li><a href="voyage.methods.html">methods</a></li></ul><h3><a href="global.html">Global</a></h3>
 </nav>
 
 <br class="clear">
 
 <footer>
-    Documentation generated by <a href="https://github.com/jsdoc/jsdoc">JSDoc 4.0.4</a> on Wed Mar 26 2025 00:27:55 GMT+0800 (China Standard Time)
+    Documentation generated by <a href="https://github.com/jsdoc/jsdoc">JSDoc 4.0.4</a> on Thu May 15 2025 15:28:56 GMT+0800 (Taipei Standard Time)
 </footer>
 
 <script> prettyPrint(); </script>
