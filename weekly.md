@@ -4,14 +4,74 @@
 
 > 🍅 ⏲️ $solanum$
 
-> 🌕 💤 $\text{23:00}$
+> 🌕 💤 💤 💤 $\text{23:00}$
 
 ## .
 
 - _make tools elegant_
 - _make knowledge pure_
 
-> things, not timetable.
+> things, not schedule.
+
+## 20250511
+
+### _foresight_
+
+- learn japanese
+- watch bangumis
+- practice math & oi
+- write voyagejs
+
+### _day_
+
+- learn japanese on duolingo
+- return homes in ba ak
+- read ruanyf weekly archive
+
+### _night_
+
+- watch girls band cry
+- watch bocchi the rock
+- watch evangelion
+- watch the melancholy of haruhi suzumiya
+
+### _enlightenment_
+
+- write math guide
+- practice on luogu
+- create videos using pre and material
+
+### _drift_
+
+- practice on math guide pioneer
+- read physics / chemistry / geography notes & create wiki
+- read mathematics, no 2 secondary school attached to ecnu
+- read mathematical olympiad series
+- memorize japanese words on anki
+
+### _endeavour_
+
+- write voyagejs
+- design component libraries
+- write pre / material app
+- write eat / float / leisure app
+- write world goods list
+
+### _diversion_
+
+- play majsoul
+- play bs / pvp
+- read ba stories
+- play senrenbanka
+- create origami following chen xiao's guide
+
+### _rest_
+
+- listen to rock
+- play antennapod
+- surf zhihu / berryberry / twitter
+- watch simplelive
+- sync phone
 
 ## 20250418
 

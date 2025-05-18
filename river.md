@@ -127,6 +127,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `7` 20250420
 - `8` 20250423
 - `9` 20250426
+- `10` 20250511
 
 ## gaming
 
@@ -5677,5 +5678,189 @@ v2raya 挺好, 可以同时连接多个节点, 自动选择能用的那个.
 将许多 readme 里面的歌曲都换成了所在专辑.
 
 感觉是, 更加认真, 有风度.
+
+---
+
+下了个 musicfree, 感觉不错, 算是 bilibili 音频播放器.
+
+(其他源感觉都一般吧, 要么就不能直连, 像 spotify...)
+
+---
+
+王者荣耀, 鸡爪流, 刘禅, 李信. 爽. 
+
+(我跟塔爆了, 居然说我蓄意送头, 把我踢了?!)
+
+---
+
+突然想要打 codeforces, 使用 ai.
+
+deepseek, 爽! (虽然没报名参赛的说) 
+
+(upd: 报名了明天晚上 22 点的, 居然不让我在 div1 和 jiangly, tourist 对战啊啊啊... 现在 div2 有 9k 人, div1 只有 0.4k 人 qwq...)
+
+(upd: 试了试 luogu, 几道蓝色的题目, 没有完全 ac 啊...)
+
+(upd: 终于过了一道绿色题目, 还是第二次尝试.)
+
+---
+
+`ref` `school`
+
+https://www.luogu.com.cn/problem/solution/P1295
+
+dp (动态规划) 真是太爽了. 
+
+对于每个 i, 要么选择 i-1 算好的最好结果, 要么带上 i 重新算. 就两种情况.
+
+---
+
+girls band cry ep 10. fairy tale...
+
+先被道德谴责, 在违心间徘徊, 最后发现外物对自身的 "爱", 与天地拥抱, 这样的剧情.
+
+---
+
+`ref`
+
+研究出了最新的 bs mastery farming 技巧!
+
+之前 mastery 判定变成了 contributing to a win, 纯躺赢不能加专精啦.
+
+现在利用官方变人机策略反制! 一共就三步.
+
+- 开局 (连点 10 次开始 / 继续, 每次间隔 1 秒)
+- 挂机, 变成人机, 把击杀和伤害打出来, 算 contribute (等待 120, 点击重练)
+- 一把快结束了, 回来 (滑动移动键向前走, 持续 1 s, 重复 60 次)
+- 游戏结束, 如果赢了可能加专精.
+
+爽啦! 人机牛逼吧!
+
+---
+
+material 很大的一个用途是... 制造 wechat 聊天截图.
+
+"羡慕有两个微信号的人..." "不用羡慕."
+
+---
+
+使用 deepseek 打 codeforces 1024 喵!
+
+(发现这个很好: luogu / 模板题)
+
+---
+
+`ref` `weather`
+
+郭宇 guoyu.eth @turingou · 8h
+
+I'd say at the very beginning of retirement you wanna be everything and you're willing to be, you love traveling around the world to meet friends and see what kind of lives people live in. and soon, you get frustrated and bored to live in an lifestyle that people thought a FIREd guy would be. you thought you're going up but you're not at the ground and it is no upside or downside at all. that's the problem.
+
+someday you'll figure out your problem is exactly the result that you got out of the Matrix. you're like trueman heading out of his little island, you've got no audience and it still a long way to go.
+
+there's no meaning but willingness for life we choosed, there's no up and down, no left or right. the fate we created, the failures we accept it, all that happened beyond our little island made our stories.
+
+and in case you don't see me, enjoy everything you're going to meet and have good days.
+
+---
+
+reading 
+
+https://codeforces.com/blog/entry/142788
+
+2101A - Mex in the Grid
+
+proof looks great.
+
+---
+
+playing ak...
+
+就是这个 wisadel 爽!
+
+---
+
+没有那么抵触支那移动了... 就让之停留在控制面板顶部吧...
+
+无为.
+
+---
+
+`ref`
+
+我想, 我应该删除 ruanyf.md 里面的一些 headers.
+
+有些事情我知道了. 就是这样. 但不需要收藏了.
+
+有些事情, 等我需要的时候, 自然是搜索结果的前几.
+
+最后, 会提升信噪比.
+
+(我想, 对 readme.md 应该亦然.)
+
+---
+
+发现这个 ubuntu chromium 真不耐干啊...
+
+一个 while(1){clg(...)} 就可以直接让它 not responding, 提示 force quit.
+
+如果不强制停止, 甚至整个电脑都不响应了, 可能十秒后整个 chromium 闪退.
+
+按道理应该是哪个界面不行, 就关闭那个对应的界面啊...
+
+(重构了 voyagejs, 运行了每一个 unit test.)
+
+---
+
+想把 readme 上的几部电影看了.
+
+比如 the truman show.
+
+---
+
+网易云上面有个 "京都动画 - ...梦想" 的歌单. 
+
+下载了所有免费歌曲. (付费的还得去 unlock music 解锁, 封面都没啦...)
+
+用 music tag 编辑好信息 (其实就是改名成 歌曲 - 作者), 使用 metro 循环播放.
+
+---
+
+`ref`
+
+github 上的 "薄冰英语语法"... (不实用于 learn, 但似乎是很好的 reference)
+
+- 名词
+  - 名词的数
+  - 名词的格
+  - 名词的性
+
+(看穿语言学的人, 当他面对英语... 美妙的目录结构.)
+
+(也不是很重要啦... 毕竟很少人需要 reference, 都是 learner 啊...)
+
+(upd: 其实也一般啦, 问了 llm, "英语所有的语法列表", 层次似乎更明确, 词语, 句子, 时态...)
+
+(upd: 对着 llm... 重新来一次, 不过换成日语. 这似乎很有用呢.)
+
+(upd: 真的很有用. 日语, 就是这些. "确定感".)
+
+---
+
+检索 "周玄毅". "开放式性关系", 于是失落. 历史进程中的小人物哦...
+
+让时间加速吧.
+
+---
+
+"the Truman catalog" - "world goods list"
+
+---
+
+in case i dont see you, good afternoon, good evening, and good night.
+
+---
+
+2025.05.18 03:11 fira watched the truman show.
 
 ---

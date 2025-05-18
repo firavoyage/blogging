@@ -1,0 +1,26 @@
+{
+  "Competitive Programming Template": {
+    "prefix": "cpp",
+    "body": [
+      "#include <bits/stdc++.h>",
+      "using namespace std;",
+      "",
+      "void solve() {",
+      "    $0",
+      "}",
+      "",
+      "int main() {",
+      "    ios_base::sync_with_stdio(false);",
+      "    cin.tie(nullptr);",
+      "",
+      "    int t = 1;",
+      "    // cin >> t;",
+      "    while (t--) {",
+      "        solve();",
+      "    }",
+      "    return 0;",
+      "}"
+    ],
+    "description": "Minimal C++ template for competitive programming"
+  }
+}

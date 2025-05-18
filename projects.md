@@ -19,7 +19,7 @@
 > elegant reader for elegant writer
 
 - reader
-  - toc sidebar
+  - toc sidebar (like sspai's)
   - zen mode
 - editor
   - collapsed block
@@ -110,7 +110,7 @@
 > elegance of image editing
 
 - template
-  - wechat/qq messages
+  - custom wechat/qq messages
   - meme
   - social poster
 - automation

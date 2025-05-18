@@ -5932,7 +5932,7 @@ Figma 怎么解决这个问题呢？答案就是  [Rust 语言](https://www.fig
 
 ## chinese podcast ranking
 
-`info`
+`info` `ref`
 
 [中文播客榜](https://xyzrank.com/)
 
@@ -5984,6 +5984,14 @@ Figma 怎么解决这个问题呢？答案就是  [Rust 语言](https://www.fig
 
 一个开源的安卓平台免费音乐播放器，使用 React Native 编写，支持自定义插件。（[@maotoumao](https://github.com/ruanyf/weekly/issues/2674)  投稿）
 
+---
+
+[MusicFree 桌面版](https://github.com/maotoumao/MusicFreeDesktop)
+
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023090601.webp)
+
+一个开源的音乐播放器，通过插件支持各种音源，参见[示例插件库](https://github.com/maotoumao/MusicFreePlugins)。（[@maotoumao](https://github.com/ruanyf/weekly/issues/3451)  投稿）
+
 ## ancient chinese books digitalized by pku
 
 `retro` `literary` `library`
@@ -6031,6 +6039,14 @@ https://github.com/ikuaitu/vue-fabric-editor?tab=readme-ov-file
 ---
 
 https://artsandculture.google.com/play
+
+---
+
+[Odd One Out](https://artsandculture.google.com/experiment/odd-one-out/wAHNn4JsVTFOiw)
+
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051805.webp)
+
+谷歌做的一个小游戏，四张图片有一张是 AI 生成的，请你挑出来。
 
 ## getting views without any subscriber is tiktok's value for a creator
 
@@ -6168,7 +6184,7 @@ https://artsandculture.google.com/play
 
 ## writing svg like css, and css-doodles
 
-`css` `view` `ref`
+`css` `library` `ref`
 
 [像写 CSS 一样写 SVG](https://yuanchuan.dev/experimenting-a-new-syntax-to-write-svg)（英文）
 
@@ -6473,27 +6489,575 @@ https://githubnext.com/projects/code-brushes/
 
 `dev` `meme`
 
-我想关掉 Youtube 的短视频（Shorts）功能，点击"删除"按钮，结果它显示"此功能将隐藏30天"。
+我想关掉 Youtube 的短视频（Shorts）功能，点击"删除"按钮，结果它显示"此功能将隐藏 30 天"。
 
 我感觉像被某个寻求晋升的谷歌产品经理打了一记耳光，他告诉我，他比我更了解我的需求。
 
 -- [Hacker News 网友](https://news.ycombinator.com/item?id=35850324)
 
+## your journey wont stay forever on day 1
+
+`dev` `career` `view`
+
+你的旅程不会停在 Day 1
+
+我最近读到[一篇文章](https://pratik.is/writing/essays/neverending-hustle)，关于一张海报。
+
+一个国外程序员说，他工作的上一家公司，到处贴着海报，鼓舞员工。
+
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023062502.webp)
+
+他没有点名，但是大家都知道，业内最喜欢贴海报的公司是 Facebook。
+
+他说，有一张海报尤其让他恼火，写着一行字。
+
+> "这个旅程完成了 1%。"
+
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023062503.webp)
+
+你每天去上班，那个海报永远写着 1%，仿佛刻在石头上一样。
+
+这怎么可能呢！我一直勤奋工作，每天加班，周末有时也来公司，完成一个又一个迭代，怎么会没有一点进展，至少也可以变成 2%啊。
+
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023062504.webp)
+
+公司一直贴着这个海报，让人感觉，公司希望员工变成一头驴子，不停追逐挂在眼前的胡萝卜。无论怎么追赶，离目标总是靠近不了，总是只走了百分之一。
+
+无独有偶，业内还有另一家大公司，也在宣传一模一样的企业文化，那就是亚马逊。
+
+亚马逊的老板贝佐斯有一句名言："亚马逊永远在互联网的 Day 1（第一天）"。
+
+为什么是 Day 1 呢？因为第一天是一切的开始，大家抱有美好的憧憬，干劲十足，充满了期望。
+
+[贝佐斯说](https://aws.amazon.com/cn/executive-insights/content/how-amazon-defines-and-operationalizes-a-day-1-culture/)："第二天是停滞期，开始出现跟目标不相关的事情，然后就是痛苦的衰退，最后就是死亡。我们要始终保持'第一天'的心态，避免产生第二天的公司文化。"
+
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023062505.webp)
+
+为了弘扬 Day 1 的企业文化，亚马逊世界各地的办公室都有一堵墙，醒目地写着 Day 1。
+
+它的办公大楼甚至都命名为  [Day 1 大楼](https://en.wikipedia.org/wiki/Day_1_%28building%29)，贝佐斯本人就在里面办公。
+
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023062506.webp)
+
+回到前面的那篇文章，那个程序员就在思考，为什么互联网大厂都喜欢强调，每天都是起点？  难道就是为了警示员工保持干劲，不得懈怠吗？
+
+他最终得到了下面的结论，这也是我想分享给大家的。
+
+鼓吹这种企业文化，就是为了让员工总是绷紧弹簧。虽然员工最终很可能产生倦怠和精疲力竭，但是公司会因为这样而取得成功。
+
+公司这样做，并没有错。作为一家公司，旅程没有终点，永远在路上，需要有使命感驱动的员工，所以它们会强调 Day 1。
+
+但是，作为一个员工，你的旅程是有终点的。你不会永远停在 Day 1，也不能停在那里。
+
+如果想要成功的人生，必须每隔一段时间，就把人生推进到下一个阶段，完成前一个目标，再朝着更高的目标努力。
+
+曾经有一个统计，同一个工作岗位，平均工作三年，就会产生倦怠。也就是说，就算你一直保持在 Day 1，最多只有三年时间，就坚持不下去了，后面都是煎熬。你必须在此之前，完成当前目标，进入下一个阶段。
+
+## frontend computer vision face area detection
+
+`ai` `js` `guide`
+
+[基于机器学习实现的 Web 端实时防挡脸弹幕](https://hughfenghen.github.io/fe/body-mask-danmaku/)（中文）
+
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023062802.webp)
+
+本文介绍网页播放视频时，如何让弹幕不遮挡人脸。（[@hughfenghen](https://github.com/ruanyf/weekly/issues/3204)  投稿）
+
+## plain text journaling on a screen
+
+`design` `dev` `meme`
+
+[待办显示屏](https://peppe.rs/posts/plain_text_journaling/)
+
+一个国外程序员使用平板显示器，制作了一个"待办事项显示屏"。
+
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023062003.webp)
+
+每天放在桌子上，提醒自己要办什么事，进度如何。
+
+显示屏的上部显示最近几个月的日历，下面是每周的待办事项和进度。
+
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023062004.webp)
+
+这个设备成本很低，操作又很简单，可以取代传统的日历和台历，非常实用，也许还有商业潜力。
+
+## self hosting memo app
+
+`app` `text`
+
+[麦默笔记](https://github.com/usememos/memos)（memos）
+
+![](https://cdn.beekka.com/blogimg/asset/202308/bg2023081003.webp)
+
+基于 Web 的个人笔记软件，需要自己搭建服务，可以实现与其他站点的聚合。（[@pmxiao](https://github.com/ruanyf/weekly/issues/3349)  投稿）
+
+## animejs
+
+`js` `library` `ref`
+
+[Anime.js](https://animejs.com/)
+
+![](https://cdn.beekka.com/blogimg/asset/202306/bg2023062301.webp)
+
+一个轻量级 JavaScript 动画库，具有简单但强大的 API。
+
+## getting to philosophy on wikipedia
+
+`meme`
+
+点击维基百科条目的第一个链接，不断重复该过程，最终几乎一定会点击到"哲学"条目。
+
+据统计，2016 年 2 月，维基百科 97%的文章都是如此。
+
+-- [维基百科](https://en.wikipedia.org/wiki/Wikipedia:Getting_to_Philosophy)。对任何问题进行解释，不断深入，最终一定会变成哲学问题。
+
+## building a web framework for reactivity and composability
+
+`js` `guide` `ref`
+
+[如何自己写一个前端框架](https://18alan.space/posts/how-hard-is-it-to-build-a-frontend-framework.html)（英文）
+
+![](https://cdn.beekka.com/blogimg/asset/202305/bg2023051502.webp)
+
+本文教你两个技巧，用它们就可以写一个简单的前端框架。
+
+---
+
+https://news.ycombinator.com/item?id=35937464
+
+## hello algorithms book
+
+`algorithms` `guide` `library` `ref`
+
+[Hello 算法](https://github.com/krahets/hello-algo)
+
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023090110.webp)
+
+一本开源的中文电子书籍，介绍数据结构与算法，配有动画图解。（[@Y024](https://github.com/ruanyf/weekly/issues/3430)  投稿）
+
+## an opportunist is better than an everyday worker
+
+`career` `view`
+
+非线性的世界，线性的你
+
+纳瓦尔（Naval Ravikant）是一位美国风险投资家，写过一组系列文章《如何致富》（How to get rich），非常出名。
+
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023091207.webp)
+
+他的文章后来结集出版，成了畅销书。国内引进了，中文书名叫做《纳瓦尔宝典：财富与幸福指南》，在豆瓣被列为"2022 年度商业经管图书第一名"。
+
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023091208.webp)
+
+周刊摘录过他的很多言论，很有启发。我把它们放在一起，大家再看看。
+
+> 既懂得制造，又懂得销售，你就是无敌的。(第 94 期)
+>
+> 小心，尝到自由的滋味，可能会让你失业。（第 105 期）
+>
+> 致富关键是找到"个人-市场-产品"这三者交叉的那个点。（第 107 期）
+>
+> 做你喜欢的事，直到你喜欢去做。（第 184 期）
+>
+> 如果你有原创性，就可以避开竞争。基本上，如果你与别人发生竞争，那是因为你们在做同样的事情。（第 258 期）
+
+今天我想分享，他去年的一个访谈，与美国最红的播客主持人 Joe Rogan 对谈。
+
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023091209.webp)
+
+他说了一段话，发人深思。
+
+> "新人企业家的常见错误，就是认为结果是可预测的。如果我长期努力工作，就应该会得到某种成果。"
+>
+> "实际上，你的成果是不可预测的。你工作多么努力并不重要，重要的是你在做什么、与谁一起工作、以及在哪里工作。 "
+
+他的意思是，很多人有一个思维误区：他们认为"努力"与"成果"是正比例关系，工作越努力，越可能获得好成果。
+
+实际上根本不是这样，努力与成果之间，没有必然关系。
+
+> "你每天都会看到，那些赚最多钱的人，工作时间根本不长。而淘金者和商铺老板，努力工作一天，赚不到什么钱。 "
+
+原因在于，现实世界是非线性的、非因果的，而人的思维是线性的、因果关系的，会不知不觉从单一的线性因素，去解读非线性关系。
+
+举例来说，银行存款是线性的，存款越多，利息越多；股票是非线性的，投资多，可能回报多，也可能亏得多。我们不应该把存款的逻辑，用在股票市场这样的非线性系统。
+
+你不断加大努力的程度，长时间工作、长期加班、没有个人生活，会带来成功吗？很可能不会，因为两者之间没有因果关系。
+
+纳瓦尔的建议是：
+
+> "重要的不在于你的努力程度，而在于仔细选择工作、人员和项目。"
+>
+> "真正有效的工作方式，不是铁人三项或马拉松，比拼谁坚持的时间长，而是短跑，当机会来临的时候冲刺，平时注意健康和休息。"
+>
+> "你要像狮子一样，看到猎物一跃而起，而不要牛一样，从早到晚劳作。"
+
+## v0 page generator by vercel
+
+`app` `ai` `dev`
+
+[v0](https://v0.dev/)
+
+Vercel 推出的一个实验性产品，使用 AI 网页生成网页。
+
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023091510.webp)
+
+你用文字描述想要什么页面，它会给出三个 UI 设计，让你选一个，然后生成该页面的 React + Tailwind CSS 实现，并允许不断微调。
+
+![](https://cdn.beekka.com/blogimg/asset/202309/bg2023091511.webp)
+
+官网有很多作品展示，其中有几个相当可以（上图）。它应该是目前最强的 AI 网页生成器。现在还处于 Alpha 阶段，使用资格需要排队等待开通。（[@James-Lam](https://github.com/ruanyf/weekly/issues/3486)  投稿）
+
+## relief comes at innocence
+
+`literary` `quote`
+
+有一次，古希腊哲学家皮浪乘船时，遇到了巨大的暴风雨。他看到有些乘客非常害怕，就以自己携带的猪还在专心进食，来安慰他们不要担心。
+
+这件事让我们思考，人类引以为傲的理性，是不是在折磨我们，让我们失去平静？
+
+-- [蒙田](https://www.futilitycloset.com/2023/09/01/pyrrhos-pig/)，法国哲学家
+
+## google code style guide
+
+`dev` `guide` `ref`
+
+[谷歌编程风格指南](https://google.github.io/styleguide/)
+
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023111607.webp)
+
+谷歌内部对各种语言的编程风格的要求。
+
+## everlasting itch for things remote
+
+`literary` `quote`
+
+遥远的事物总是对我有一种永恒的吸引。（I am tormented with an everlasting itch for things remote.）
+
+-- [《白鲸》](https://erikwernquist.com/wanderers)，美国经典小说
+
+## gamedev with ts and webgl on six platforms
+
+`game` `dev` `story`
+
+[六大平台的游戏开发评价](https://ruoyusun.com/2023/10/12/one-game-six-platforms.html)（英文）
+
+![](https://cdn.beekka.com/blogimg/asset/202310/bg2023101402.webp)
+
+作者是一个游戏开发者，比较了六大平台（Web、Windows、Mac、Linux、Android、iOS）的开发优劣。
+
+## text notes outweight presentations
+
+`career` `view` `ref`
+
+为什么 PPT 不如备忘录
+
+莱克斯-弗里德曼（Lex Fridman）是一个非常有名的美国主持人，他的播客节目影响很大，很多名人都愿意上他的节目，接受专访。
+
+![](https://cdn.beekka.com/blogimg/asset/202312/bg2023122209.webp)
+
+12 月 15 日的节目嘉宾，是亚马逊公司的创始人贝佐斯。他们一共谈了两个多小时。
+
+![](https://cdn.beekka.com/blogimg/asset/202312/bg2023122210.webp)
+
+贝佐斯已经不担任亚马逊 CEO，只留任董事会，算是半退休了，主要精力都放在他的太空旅游公司"蓝色起源"（Blue Origin）。从现场照片看，他退休后显得更年轻健壮，精力旺盛。
+
+这个采访有很多有意思的内容，YouTube 有[完整的视频](https://www.youtube.com/watch?v=DcWqzZ3I2cY)。
+
+我想分享其中一段，贝佐斯谈[亚马逊是怎么开会的](https://www.facebook.com/watch/?ref=saved&v=1007951996967519)。
+
+主持人问贝佐斯："我听说亚马逊开会时，不准使用 PPT，发言人必须提交一份六页的备忘录。这是真的吗？"
+
+这个事情一直是传闻，但这一次，贝佐斯亲口承认确实如此。"新来的人可能会大吃一惊，我们的开会方式与众不同。"
+
+"会议的前 30 分钟，我们是不说话的。大家在会议室中安静地坐在一起，阅读这份六页的备忘录，在空白处做笔记，过了 30 分钟才开始讨论。"
+
+这真的很奇怪，你见过半个小时没人说话的会议吗？
+
+贝佐斯解释："你可以说，更好的做法是，大家都提前阅读这些备忘录。但问题是，人们没有时间这样做，他们参加会议只是因为必须出席。"
+
+"我们索性在会议上留出时间，让大家现场阅读材料，然后就可以进行真正高层次的讨论了，所有人都跟得上讨论的主题，不会搞不清一些基本的事实。"
+
+那么，为什么一定要当事人提交六页的备忘录，而不是现场主讲 PPT 呢？
+
+贝佐斯说，书面的备忘录要比 PPT 演示，效果好得多，主要有以下几点原因。
+
+（1）PPT 的设计目的是说服，这是一种销售工具。但是在公司内部，你想要的是真相，而不是业务主管的推销。
+
+（2）PPT 的缺点是，它对作者相对容易，对观众来说却很难抓住要点。备忘录正好相反，写好一份六页的备忘录，对于作者是很难的。
+
+你可能需要两周的时间，先写出初稿，然后再重写，不断加工，确保你的文字是准确和可靠的。所以，备忘录对作者非常困难，但对观众就好多了，半小时的阅读就能搞清楚事情的来龙去脉，也看得出作者对这个问题的熟悉程度。
+
+（3）备忘录可以节省会议时间。如果是 PPT 演示，高管们会不停地打断提问，结果发现答案就在下一张幻灯片。
+
+但是，阅读备忘录时，你必须先把所有问题写在空白处，当你读到最后一页时，发现很多问题已经得到了解答，这就节省了当众提问的时间。
+
+（4）PPT 演示过程中，主讲人也许会根据现场情况，临时决定隐藏或修改一些讲法。备忘录就没有这个问题，主讲人必须事先给出完整描述，你更能了解他的真实想法。
+
+（5）PPT 通常只是一些要点，不是完整的句子，有利于隐藏很多草率的想法。而备忘录是完整的段落，必须有主题句，有动词和名词，你很难隐藏自己的草率思维。
+
+备忘录迫使作者处于最佳状态，你能得到一个人真正最好的想法。如果 PPT 演示，你们可能要讨论很久，发言人才能进入最佳状态。从长远来看，备忘录节省了你的时间。
+
+以上就是贝佐斯不允许使用 PPT 的五点理由。
+
+我觉得这些理由很有说服力。PPT 在国内已经泛滥成灾，大家好像默认，它是开会的标准方式，缺了还不行。这真的要改一下，学习亚马逊的"备忘录开会法"----先写成文档，再进行讨论----可能是更好更正确的做法。
+
+## interactive guide to css grid
+
+`css` `guide` `editorial` `ref`
+
+[CSS 网格互动指南](https://www.joshwcomeau.com/css/interactive-guide-to-grid/)（An Interactive Guide to CSS Grid）
+
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023112305.webp)
+
+一份 CSS 网格（grid）的教程，包含大量的互动示例。
+
+## rewind the eyesight on a screen
+
+`app` `ai` `meme`
+
+[捕风记录仪](https://github.com/yuka-friends/Windrecorder)（Windrecorder）
+
+![](https://cdn.beekka.com/blogimg/asset/202402/bg2024022706.webp)
+
+一款开源的 Windows 应用，自动在后台以小尺寸记录出现过的所有屏幕内容，并对文本或图像描述进行 OCR，以便查询。（[@Antonoko](https://github.com/ruanyf/weekly/issues/4067)  投稿）
+
+## 3blue1brown on calculus
+
+`algorithms` `guide`
+
+[3Blue1Brown](https://www.3blue1brown.com/topics/calculus)
+
+![](https://cdn.beekka.com/blogimg/asset/202312/bg2023121913.webp)
+
+著名数字科普作者 3Blue1Brown 写的微积分系列教程。
+
+## conway's law on structure of the system and of the organization
+
+`dev` `career` `theory`
+
+[康威定律](https://martinfowler.com/bliki/ConwaysLaw.html)
+
+几乎所有我喜欢的软件架构师，都认同康威定律（Conway Law），认为这个定律非常重要，足以影响到所有系统。而且，你没法与之抗争，想要抗拒康威定律注定要失败。
+
+![](https://cdn.beekka.com/blogimg/asset/202402/bg2024022906.webp)
+
+康威定律的最好表述是："任何系统的构成，都反映了设计这个系统的组织结构。"
+
+![](https://cdn.beekka.com/blogimg/asset/202402/bg2024022908.webp)
+
+它的出处是 Melvin Conway 在 1968 年写的一篇文章。后来，弗雷德-布鲁克斯（Fred Brooks）在著名的《人月神话》（The Mythical Man-Month）引用了这条定律。
+
+Melvin Conway 观察到，软件系统的架构看起来与构建它的开发团队的组织结构非常相似。
+
+最初的描述是，如果一个团队编写一个编译器，那么它将是一个单通道编译器；但是，如果两个团队共同开发，那么它将是一个双通道编译器。这个描述后来被发现，广泛适用于大量系统。
+
+![](https://cdn.beekka.com/blogimg/asset/202402/bg2024022907.webp)
+
+正如我的同事 Chris Ford 对我说的："软件耦合是由人类交流促成的。" 如果我可以轻松与代码作者交谈，那么我就更容易对代码有更深入的了解，因此我的代码更容易耦合到该代码。
+
+应对康威定律的第一步是不要与之抗争。我仍然记得一位技术主管，他刚刚被任命为 ​​ 一个大型新项目的架构师，该项目由分布在世界各地不同城市的六个团队组成。"我做出了第一个架构决定"，他告诉我："就是这个系统将有六个主要的子系统。我不知道它们会是什么子系统，但肯定会有六个。"
+
+为了适应康威定律，现在有一种策略，就是一旦定下软件架构，就相应改变组织结构，让紧密耦合模块的开发者更容易沟通。
+
+## foggy thinking like human chatgpts
+
+`society` `view` `ref`
+
+[有些人就像 ChatGPT](https://www.geoffmulgan.com/post/human-chatgpts-and-the-vices-of-foggy-thinking)
+
+大家都说 ChatGPT 像人，但是我觉得，还有另一方面，那就是有些人很像 ChatGPT，尤其是在学术界。
+
+![](https://cdn.beekka.com/blogimg/asset/202403/bg2024030801.webp)
+
+ChatGPT 不理解任何材料，但可以利用这些材料，快速找到问题的合理答案。它会综合和模仿，有时表现得非常令人信服，就像某个知识渊博的人在谈论某个主题。
+
+学术界的很多人也是这样，他们很聪明，吸收了说话和构建理论的方法，并且善于听起来令人信服。
+
+但是，如果你问一个探索性的问题，就会发现他们的理解很少，一切侃侃而谈都是表面的，没有深度。这都是模仿而不是真正的思想，他们只是故意让别人觉得似乎有道理。
+
+许多领域的许多人，表现得就像 ChatGPT 的真人版，特别是在那些不做太多实证工作、不涉及对事实或假设进行检验的学科。他们制造的文本越多，就越危险。
+
+这种人有很多明显迹象，比如使用非常笼统的术语，以及听起来巧妙的表述或行话，内容里面很少有事实，例子也很少或者很随意，没有真实的感受，而且通常也不会足够清楚地说出他不同意什么。
+
+我现在意识到，我不理解某人在说什么，有时很可能是他们不知道自己在说什么，表现得像 ChatGPT。
+
+我将其称为"吹泡泡"，即没有实质内容但能让他人信服的说话能力。这是很多大学领导的重要技能。
+
+现在，ChatGPT 向我们展示了尽管不理解，但将大量材料合成为可信的文本流，是完全可以做到的。也许这是不可避免的，但真是一种非常不健康的恶习----人们应该走出去，观察事物，清晰说出自己的真实感受。
+
+我明确意识到，自己更愿意被那些行为不像机器人的人包围，更愿意倾听那些有原创思想的人的声音。
+
+## goodbye clean code by dan abramov
+
+`dev` `career` `guide` `ref` `essay`
+
+[我后悔重构了代码](https://overreacted.io/goodbye-clean-code/)（英文）
+
+![](https://cdn.beekka.com/blogimg/asset/202312/bg2023120807.webp)
+
+著名程序员 Dan Abramov 的一篇旧文。他曾经觉得同事的代码太冗余，就擅自重构了，让其变得干净。
+
+但是，他后来认识到，那些冗余的代码有可取之处，抽象反而不利于日后的扩展。
+
+---
+
+(clean code.md)
+
+## praising keystroke savers while wasting lots of time
+
+`dev` `quote`
+
+节省几次击键的工具被高估了，保持注意力专注的工具被低估了。
+
+-- [《小型自动化》](https://www.johndcook.com/blog/2023/01/29/small-scale-automation/)
+
+## japan is of retro otaku culture
+
+`weather` `quote`
+
+参观日本就像参观 2000 年代初期：随处可见的 CD 店，百货商店兴旺发达，人们还在使用厚重的笔记本电脑。
+
+-- [《访问日本的感想》](https://alexanderweichart.de/5_Archive/1.-Projects/Notes/Notes-on-Japan)
+
+## library as a workspace in openai
+
+`dev` `weather` `ref`
+
+OpenAI 的图书馆工位
+
+OpenAI 是眼下最炙手可热、排名第一的 AI 公司。
+
+大家大概没见过，这家公司的总部。
+
+![](https://cdn.beekka.com/blogimg/asset/202405/bg2024051902.webp)
+
+![](https://cdn.beekka.com/blogimg/asset/202405/bg2024051904.webp)
+
+它的总部是旧金山市区的一栋三层小楼，原来是一家食品厂，后来改建为办公楼。
+
+这栋小楼很不起眼，外面也没有大幅的标识，你根本想不到，里面正在开发人类最先进的人工智能模型。
+
+那么，楼里什么样？
+
+《纽约时报》最近公开了[一组照片](https://www.nytimes.com/2024/05/15/technology/openai-library-office.html?unlocked_article_code=1.sk0.YPlO.TYf5O94wbM-o&smid=url-share)，披露楼里有一个很漂亮的图书馆。
+
+![](https://cdn.beekka.com/blogimg/asset/202405/bg2024051905.webp)
+
+![](https://cdn.beekka.com/blogimg/asset/202405/bg2024051909.webp)
+
+藏书都是 OpenAI 员工推荐的，还装饰了科学家的照片。
+
+![](https://cdn.beekka.com/blogimg/asset/202405/bg2024051907.webp)
+
+这个图书馆可不是只有一间屋子，而是有两层，面积相当大。
+
+![](https://cdn.beekka.com/blogimg/asset/202405/bg2024051908.webp)
+
+最特别的是，图书馆里面有很多自习桌，就像大学的自习室一样。
+
+![](https://cdn.beekka.com/blogimg/asset/202405/bg2024051910.webp)
+
+员工可以在里面读书、休息，也可以一整天在这里办公，相当于工位。
+
+![](https://cdn.beekka.com/blogimg/asset/202405/bg2024051911.webp)
+
+图书馆工位有很多好处。首先，就是安静，可以集中注意力，全力投入工作，思考一些困难的问题。这对 OpenAI 那样开创性的公司非常重要。
+
+其次，图书馆的气氛比较放松，不压抑，工作时精神不容易疲倦，甚至还有一些漫游知识海洋的趣味，可能激发意想不到的灵感。
+
+我不由联想到了，国内互联网公司的工位。通常是一整层写字楼，改造成开放式空间，大家挤在一起办公，整层往往有几百个工位，就像一个喧闹的大车间。
+
+![](https://cdn.beekka.com/blogimg/asset/202405/bg2024051912.webp)
+
+这种车间式工位会互相影响，而且有一种压抑的气氛，容易让人烦躁和焦虑。
+
+它只适合"大军团作战"、依靠大量人力资源投入的项目。对于那种极其困难、需要苦思冥想的智力项目，我认为这种工位有反作用。
+
+现在的情况是，移动互联网已经饱和了，没有那么多市场机会了，"大军团作战"越来越显示它的局限性。
+
+未来的市场要靠货真价实的创新，我建议创新型的小公司，尤其是从事 AI 模型的公司，可以借鉴 OpenAI 的做法，在公司里面设置舒适的图书馆和自习室，允许员工在这里办公，也许会有奇效。
+
+## 100 exercises to learn rust
+
+`rs` `guide` `library` `ref`
+
+[学习 Rust 的 100 个练习](https://rust-exercises.com/01_intro/00_welcome)（英文）
+
+![](https://cdn.beekka.com/blogimg/asset/202405/bg2024051807.webp)
+
+Rust 语言的一个初学者教程，通过100个练习来学习这门语言。
+
+---
+
+https://github.com/mainmatter/100-exercises-to-learn-rust
+
+## js syntax quizzes
+
+`js` `meme` `ref` `essay`
+
+[JavaScript 语法问题](https://github.com/lydiahallie/javascript-questions/blob/master/zh-CN/README-zh_CN.md)（中文）
+
+![](https://cdn.beekka.com/blogimg/asset/202405/bg2024051808.webp)
+
+这个仓库收集了100多个 JavaScript 的语法选择题，可以试试你是否真的了解这门语言。
+
+---
+
+(js syntax.md)
+
+## there is no audience
+
+`weather` `quote` 
+
+20多岁时，我跟一个长辈说："我很担心，别人会怎么看待我做的那个决定。"长辈说："放心吧，你没有观众的。"
+
+现在想起来，我认为这是我得到过的最好建议。
+
+-- [阿曼达-福蒂尼](https://kottke.org/24/04/amanda-there-is-no-audience)（Amanda Fortini），美国作家
+
+## animated interactive fourier series intro
+
+`algorithms` `guide` `editorial` `ref`
+
+[傅里叶级数的动画介绍](https://www.andreinc.net/2024/04/24/from-the-circle-to-epicycles)（英文）
+
+![](https://cdn.beekka.com/blogimg/asset/202406/bg2024060502.webp)
+
+一篇长文，从最简单的圆的方程开始，介绍傅里叶级数的概念，包含大量动画。
+
+## english grammar guide by bobing
+
+`literary` `guide`
+
+[薄冰大学英语语法](https://oldwestenglish.github.io/grammar/)
+
+![](https://cdn.beekka.com/blogimg/asset/202403/bg2024032804.webp)
+
+《薄冰大学英语语法》的在线阅读。
+
+## no bullshit single player games on mobile
+
+`game` `info` `ref`
+
+[No-Bullshit Games](https://nobsgames.stavros.io/)
+
+![](https://cdn.beekka.com/blogimg/asset/202311/bg2023112708.webp)
+
+这个网站列出作者精选的手机游戏，安卓和 iOS 各有五六百个。
+
+## figma slides
+
+`app` `text` `design`
+
+[Figma Slides](https://www.figma.com/slides/)
+
+![](https://cdn.beekka.com/blogimg/asset/202406/bg2024062701.webp)
+
+Figma 公司新发布的幻灯片制作工具。
+
 ##
 
 
-
-##
-
-##
-
-##
-
-##
-
-##
-
-##
 
 ##
 

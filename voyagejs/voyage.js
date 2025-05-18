@@ -2,10 +2,10 @@
  * @file
  * voyage framework
  *
- * this version is developed during 20250429 ~ (utc+8)
+ * this version is developed during 20250513 ~ (utc+8)
  *
  * @author firavoyage
- * @version 0.36
+ * @version 0.37
  * @since 0.1 initiated on 20240806
  * @see changelog.md
  */
@@ -15,7 +15,7 @@
  */
 let voyage = {
   /**
-   * some pure fn
+   * extended js standard library
    * @namespace lib
    * @memberof voyage
    */
@@ -25,16 +25,10 @@ let voyage = {
      * @typedef {string|symbol|number|boolean} Key
      */
     /**
-     * has own property
-     *
+     * has own property (false if it's not an object)
      * @param {object} obj - the object
      * @param {Key} key - the key
      * @returns {boolean}
-     *
-     * an object: whether the key exists
-     *
-     * not an object: false
-     *
      */
     has(obj, key) {
       const { check } = voyage.lib;
@@ -46,17 +40,12 @@ let voyage = {
     },
     /**
      * check if a value is valid
-     *
      * @param {*} value - value to be checked
      * @param {string|function} [type] - type (or a constructor)
      * @returns {boolean}
-     *
-     * no type: undefined and null to false, otherwise true
-     *
-     * type is string: typeof value === type
-     *
-     * type is fn: value instanceof type
-     *
+     * one param: false if value is undefined or null, otherwise true
+     * two params (type: string): typeof value === type
+     * two params (type: fn): value instanceof type
      */
     check(value, type) {
       if (type === undefined) {
@@ -74,22 +63,15 @@ let voyage = {
       }
     },
     /**
-     * generate iterator inside for of loop
+     * generate iterator in `for of` loop
      *
-     * one param: end
-     *
-     * two params: begin, end
-     *
-     * three params: begin, end, step
-     *
-     * begin defaults to 0,
-     *
-     * step defaults to 1
-     *
-     * @param {number} begin - first param
-     * @param {number} [end] - second param
-     * @param {number} [step] - third param
-     * @returns {Iterator} the iterator
+     * one param: [0, end, 1]
+     * two params: [begin, end, 1]
+     * three params: [begin, end, step]
+     * @param {number} begin
+     * @param {number} [end]
+     * @param {number} [step]
+     * @returns {Iterator}
      */
     each(begin, end, step) {
       const { check } = voyage.lib;
@@ -102,7 +84,7 @@ let voyage = {
         step = 1;
       }
 
-      const iterate = function (begin, end, step) {
+      const iterate = (begin, end, step) => {
         let index = begin;
         const iterator = {
           next() {
@@ -123,148 +105,495 @@ let voyage = {
       return iterate(begin, end, step);
     },
     /**
-     * map array to a function
-     * @param {Array} things - things need to be converted
-     * @param {function} converter - the converter
-     * @returns {Array} things converted
+     * pop an item out of a set
+     * @param {Set} set
+     * @returns {*}
      */
-    map(things, converter) {
-      const { check } = voyage.lib;
+    pop(set) {
+      // Get the first value from the Set's iterator
+      const value = set.values().next().value;
 
-      if (check(things, Array)) {
-        let result = [];
-        for (const item of things) {
-          result.push(converter(item));
-        }
-        return result;
-      } else {
-        let result = {};
-        for (const key in things) {
-          result[key] = converter(key, things[key]);
-        }
-        return result;
+      // Remove the value from the Set
+      set.delete(value);
+
+      return value;
+    },
+    /**
+     * process for each item in a set
+     * @param {Set} set
+     * @param {function} fn
+     */
+    map(set, fn) {
+      for (const _ of set) {
+        fn(_);
       }
     },
   },
-  info: {
-    props: {},
-    subscriber: false,
-    _parent: false,
-    parent: false,
-    lifecycle: {
-      created: [],
-      shown: [],
+  /**
+   * private methods
+   * @namespace methods
+   * @memberof voyage
+   */
+  methods: {
+    /**
+     * @typedef {string|number|boolean} Text
+     */
+    /**
+     * convert string like stuff to text node
+     * @param {Node|Text} node
+     * @returns {Node}
+     */
+    handleText(node) {
+      const { check } = voyage.lib;
+      return check(node, Node) ? node : document.createTextNode(node);
+    },
+    /**
+     * @typedef {Array<Node|Text>} Fragment
+     */
+    /**
+     * append a node to a parent, both can be fragment
+     * @param {Node|Text|Fragment} node - node to insert, text will be handled
+     * @param {Node|Fragment} parent - where the node will be appended
+     * @returns {Node|Fragment} the node without unhandled text
+     */
+    append(node, parent) {
+      const { check } = voyage.lib;
+      const { handleText } = voyage.methods;
+
+      if (check(node, Array)) {
+        node = node.map(handleText);
+      } else {
+        node = handleText(node);
+      }
+
+      if (check(node, Array)) {
+        if (check(parent, Array)) {
+          parent.push(...node);
+        } else {
+          node.map((_) => parent.appendChild(_));
+        }
+      } else {
+        if (check(parent, Array)) {
+          parent.push(node);
+        } else {
+          parent.appendChild(node);
+        }
+      }
+
+      return node;
+    },
+    /**
+     * insert a node or a fragment before a mounted sibling
+     * @param {Node|Text|Fragment} node - node to insert, text will be handled
+     * @param {Node} sibling - what the node will be inserted before
+     * @param {Fragment} [parent] - for insertion before mounting
+     * @returns {Node|Fragment} the node without unhandled text
+     */
+    insert(node, sibling, parent) {
+      const { check } = voyage.lib;
+      const { handleText } = voyage.methods;
+
+      if (check(node, Array)) {
+        node = node.map(handleText);
+      } else {
+        node = handleText(node);
+      }
+
+      parent = sibling.parentNode ? sibling.parentNode : parent;
+
+      if (check(parent, Array)) {
+        const index = parent.indexOf(sibling);
+
+        if (check(node, Array)) {
+          parent.splice(index, 0, ...node);
+        } else {
+          parent.splice(index, 0, node);
+        }
+      } else {
+        if (check(node, Array)) {
+          node.map((_) => parent.insertBefore(_, sibling));
+        } else {
+          parent.insertBefore(node, sibling);
+        }
+      }
+
+      return node;
+    },
+    /**
+     * remove a node or a fragment
+     * @param {Node|Fragment} node - the node to be removed
+     */
+    remove(node) {
+      const { check } = voyage.lib;
+
+      if (check(node, Node)) {
+        node.parentNode.removeChild(node);
+      } else if (check(node, Array)) {
+        node.map((_) => _.parentNode.removeChild(_));
+      }
+    },
+    /**
+     *
+     * @param  {Array<string|object|Array|Node|function>} _
+     * @returns {Node|Fragment}
+     */
+    create(_) {
+      const { effect } = voyage;
+      const { check, has } = voyage.lib;
+      const { create, append, insert, remove } = voyage.methods;
+
+      let tag = "",
+        attrs = {},
+        content = [];
+
+      // determine tag, attrs and content by template
+      if (check(_[0], "string")) {
+        if (
+          check(_[1], "object") &&
+          !check(_[1], Node) &&
+          !check(_[1], Array)
+        ) {
+          [tag, attrs, ...content] = _;
+        } else {
+          [tag, ...content] = _;
+        }
+      } else {
+        content = _;
+      }
+
+      const node = tag == "" ? [] : document.createElement(tag);
+
+      // define attrs
+      for (const attr in attrs) {
+        const content = attrs[attr];
+        if (attr == "class" && check(content, Array)) {
+          content.map((_) => {
+            if (check(_, "function")) {
+              effect(() => {
+                const value = _();
+                node.classList.add(value);
+                return () => node.classList.remove(value);
+              });
+            } else {
+              node.classList.add(_);
+            }
+          });
+        } else if (attr == "style" && check(content, "object")) {
+          Object.entries(content).map(([prop, value]) => {
+            if (check(value, "function")) {
+              effect(() => {
+                node.style[prop] = value();
+              });
+            } else {
+              node.style[prop] = value;
+            }
+          });
+        } else if (attr[0] == "@") {
+          const event = attr.slice(1);
+          const macros = {
+            ref() {
+              content(node);
+            },
+            value() {
+              effect(() => {
+                node.value = content();
+              });
+              node.addEventListener("input", () => {
+                content(node.value);
+              });
+            },
+          };
+          if (has(macros, event)) {
+            macros[event]();
+          } else {
+            node.addEventListener(event, content);
+          }
+        } else {
+          if (check(content, "function")) {
+            effect(() => {
+              node.setAttribute(attr, content());
+            });
+          } else {
+            node.setAttribute(attr, content);
+          }
+        }
+      }
+
+      // define content
+      for (const child of content) {
+        if (check(child, Array)) {
+          // element
+          append(create(child), node);
+        } else if (check(child, "function")) {
+          // dynamic content
+          const _ = document.createComment("");
+          append(_, node);
+          effect(() => {
+            const result = child();
+            let fragment;
+            if (check(result, Array)) {
+              // template
+              fragment = insert(create(result), _, node);
+            } else {
+              // node or text
+              fragment = insert(result, _, node);
+            }
+            return () => remove(fragment);
+          });
+        } else {
+          // node or text
+          append(child, node);
+        }
+      }
+
+      return node;
+    },
+    /**
+     * render a component to node
+     * @param {function} component
+     * @param {object} props
+     * @returns {Node}
+     */
+    render(component, props) {
+      const { check, pop } = voyage.lib;
+      const { create, runEffect } = voyage.methods;
+
+      const { info } = voyage;
+
+      const passedProps = info.passedProps;
+
+      info.passedProps = check(props, "object") ? props : {};
+      info.status = "creating";
+      let element = component();
+
+      let node;
+      if (check(element, Node)) {
+        node = element;
+      } else if (check(element, "function")) {
+        // let it be the only child of a document fragment
+        element = [element];
+        node = create(element);
+      } else {
+        node = create(element);
+      }
+
+      info.status = "created";
+      while (info.lifecycle.created.size != 0) {
+        const id = pop(info.lifecycle.created);
+        runEffect(id);
+      }
+
+      info.passedProps = passedProps;
+
+      return node;
+    },
+    /**
+     * apply prop change to an effect
+     * @param {EffectId} id the effect id
+     */
+    runEffect(id) {
+      const { map, check } = voyage.lib;
+      const { info } = voyage;
+
+      const cleanupEffect = (id) => {
+        if (info.effects.has(id)) {
+          const effect = info.effects.get(id);
+
+          if (effect.cleanup) {
+            effect.cleanup();
+          }
+          effect.cleanup = false;
+
+          map(effect.children, (child) => {
+            cleanupEffect(child);
+            info.effects.delete(child);
+          });
+          effect.children = new Set();
+
+          effect.deps = new Set();
+        }
+      };
+      cleanupEffect(id);
+
+      const effect = info.effects.get(id);
+      const parent = info.parent;
+
+      info.parent = id;
+
+      const result = effect.effect();
+      if (check(result, "function")) {
+        effect.cleanup = result;
+      }
+
+      info.parent = parent;
     },
   },
-  components: {},
-  p(defaultProps) {
-    const { info } = voyage;
-    const { has, check } = voyage.lib;
-    const handler = {
-      get(_, prop) {
-        let value = has(info.props, prop)
-          ? info.props[prop]
-          : has(defaultProps, prop)
-          ? defaultProps[prop]
-          : false;
-        let subscribers = new Set();
+  /**
+   * @typedef {number} PropId
+   * the unique id of any prop, start from 0
+   */
+  /**
+   * @typedef {number} EffectId
+   * the unique id of any effect, start from 0
+   */
+  /**
+   * @typedef {Object} Effect
+   * @prop {function} effect
+   * @prop {function|false} cleanup
+   * @prop {Set<EffectId>} children nested effect
+   * @prop {Set<PropId>} deps dependencies
+   */
+  /**
+   * @type {Object}
+   * @prop {Map<EffectId, Effect>} effects
+   */
+  info: {
+    components: {},
+    props: new Map(),
+    propCount: 0,
+    passedProps: {},
+    effects: new Map(),
+    effectCount: 0,
+    parent: undefined,
+    status: "creating",
+    lifecycle: {
+      created: new Set(),
+      shown: new Set(),
+    },
+  },
+  props(defaultProps = {}) {
+    const { has, check, map } = voyage.lib;
+    const { runEffect } = voyage.methods;
 
-        if (check(value, "function")) {
-          // it's already a reactive prop passed down by a parent component
-          return value;
+    const { info } = voyage;
+
+    /**
+     * @param {PropId} id
+     * @returns {function} the reactive prop
+     */
+    const createReactiveProp = (id) => {
+      const prop = info.props.get(id);
+
+      const subscribe = (effectId) => {
+        prop.subscribers.add(effectId);
+        info.effects.get(effectId).deps.add(id);
+      };
+
+      const apply = () => {
+        map(prop.subscribers, (effectId) => {
+          if (
+            info.effects.has(effectId) &&
+            info.effects.get(effectId).deps.has(id)
+          ) {
+            runEffect(effectId);
+          } else {
+            prop.subscribers.delete(effectId);
+          }
+        });
+      };
+
+      return (..._) => {
+        if (_.length == 0) {
+          if (check(info.parent)) {
+            subscribe(info.parent);
+          }
+          return prop.value;
+        } else if (_.length == 1) {
+          let newValue = _[0];
+
+          if (check(newValue, "function")) {
+            // fn means to compute new value using the previous one
+            const result = newValue(prop.value);
+            if (result !== undefined) {
+              prop.value = result;
+            }
+            // for undefined result, consider it produce()
+          } else {
+            prop.value = newValue;
+          }
+
+          apply();
+        } else if (_.length >= 2) {
+          const path = _.slice(0, _.length - 2);
+          const lastKey = _[_.length - 2];
+          const newValue = _.slice(-1)[0];
+
+          let current = prop.value;
+          path.map((key) => {
+            current[key] = has(current, key) ? current[key] : {};
+            current = current[key];
+          });
+
+          if (check(newValue, "function")) {
+            // fn means to compute new value using the previous one
+            const result = newValue(current[lastKey]);
+            if (result !== undefined) {
+              current[lastKey] = result;
+            }
+            // for undefined result, consider it produce()
+          } else {
+            current[lastKey] = newValue;
+          }
+
+          apply();
+        }
+      };
+    };
+
+    const handler = {
+      get(_, propName) {
+        const { info } = voyage;
+
+        if (check(info.passedProps[propName], "function")) {
+          // it's a reactive prop passed down
+          return info.passedProps[propName];
         }
 
-        const result = (..._) => {
-          if (_.length == 0) {
-            const _ = info.subscriber;
-            if (_ && !subscribers.has(_)) {
-              subscribers.add(info.subscriber);
-              if (info._parent) {
-                info._parent.add({
-                  self: () => result.unsubscribe(info.subscriber),
-                });
-                // if parent effect reruns, no need to subscribe any longer
-                // e.g. prop on an unmounted option in `show`
-              }
-            }
-            return value;
-          } else if (_.length == 1) {
-            const newValue = _[0];
-            value = check(newValue, "function") ? newValue(value) : newValue;
-            // new value can be computed from the previous value
-            result.apply();
-          } else {
-            const path = _.slice(0, _.length - 1);
-            const newValue = _.slice(-1)[0];
-            let current = value;
+        const id = info.propCount++;
+        info.props.set(id, {
+          value: has(info.passedProps, propName)
+            ? info.passedProps[propName]
+            : defaultProps[propName],
+          subscribers: new Set(),
+        });
 
-            for (let i = 0; i < path.length - 1; i++) {
-              const key = path[i];
-              current[key] = has(current, key) ? current[key] : {};
-              current = current[key];
-            }
-
-            const lastKey = path[path.length - 1];
-            current[lastKey] = check(newValue, "function")
-              ? newValue(value)
-              : newValue;
-            result.apply();
-          }
-        };
-        result.apply = () => {
-          for (const _ of subscribers) {
-            _();
-          }
-        };
-        result.subscribe = (_) => {
-          subscribers.add(_);
-        };
-        result.unsubscribe = (_) => {
-          subscribers.delete(_);
-        };
-
-        return result;
+        return createReactiveProp(id);
       },
     };
 
     return new Proxy({}, handler);
   },
-  e(effect, when) {
+  effect(effect, when = "created") {
+    const { check } = voyage.lib;
+    const { runEffect } = voyage.methods;
+
     const { info } = voyage;
+    const id = info.effectCount++;
+    info.effects.set(id, {
+      effect,
+      cleanup: false,
+      children: new Set(),
+      deps: new Set(),
+    });
 
-    let node = { self: false, children: new Set() };
-    let _subscriber = info.subscriber;
-    info._parent = info.parent;
-
-    if (info.parent) {
-      info.parent.add(node);
+    if (check(info.parent)) {
+      const parent = info.effects.get(info.parent);
+      parent.children.add(id);
     }
 
-    const cleanup = function (node) {
-      if (node.self) {
-        node.self();
-        node.self = false;
-      }
-      if (node.children) {
-        for (const child of node.children) {
-          cleanup(child);
-        }
-        node.children = new Set();
-      }
+    const timeline = {
+      creating: 0,
+      created: 1,
+      shown: 2,
     };
+    const schedule = timeline[when];
+    const now = timeline[info.status];
 
-    const run = () => {
-      cleanup(node);
-
-      info.subscriber = run;
-      info.parent = node.children;
-      node.self = effect();
-
-      info.subscriber = _subscriber;
-      info.parent = info._parent;
-    };
-
-    info.lifecycle[when ? when : "created"].push(run);
+    if (now < schedule) {
+      info.lifecycle[when].add(id);
+    } else {
+      runEffect(id);
+    }
   },
   t(...text) {
     const { each, check } = voyage.lib;
@@ -286,19 +615,29 @@ let voyage = {
   },
   h() {
     const { has } = voyage.lib;
-    const { render } = voyage;
+    const { create, render } = voyage.methods;
+
+    const { info } = voyage;
     const handler = {
       get(_, tag) {
-        const { components } = voyage;
-        if (has(components, tag)) {
-          return (...props) => render(components[tag], ...props);
-        } else {
-          return (...props) => [tag, ...props];
+        if (has(info.components, tag)) {
+          const component = info.components[tag];
+          return (props) => render(component, props);
         }
+        return (..._) => create([tag, ..._]);
       },
     };
 
     return new Proxy({}, handler);
+  },
+  html(html) {
+    const { check } = voyage.lib;
+    return () => {
+      const value = check(html, "function") ? html() : html;
+      const _ = document.createElement("div");
+      _.innerHTML = value;
+      return Array.from(_.childNodes);
+    };
   },
   show(when, template, ...otherwise) {
     const { each } = voyage.lib;
@@ -322,321 +661,117 @@ let voyage = {
     };
   },
   each(list, template, key) {
-    const { e, insert, compile, create } = voyage;
-    const { each, check } = voyage.lib;
-
-    const _ = document.createComment("");
-    let map = new Map();
-
-    if (!key) {
-      key = (_, i) => i;
-    }
-
-    e(() => {
-      const removal = new Set();
-      // for items cease to exist, flag it to be removed
-      window.a = map;
-      for (const _ of map.values()) {
-        _.node.remove();
-        removal.add(_.node);
-      }
-
-      const current = check(list, "function") ? list() : list;
-      // for function (a reactive prop), get its current value
-
-      for (const i of each(current.length - 1)) {
-        let itemKey = key(current[i], i);
-
-        if (map.has(itemKey) && map.get(itemKey).props === current[i]) {
-          insert(map.get(itemKey).node, _);
-          removal.delete(map.get(itemKey).node);
-        } else {
-          const result = template(current[i], i);
-          const node = check(result, Array) ? create(compile(result)) : result;
-
-          map.set(itemKey, { node, props: current[i] });
-          insert(node, _);
-        }
-      }
-
-      for (const _ of removal.values()) {
-        _.remove();
-      }
-    }, "shown");
-
-    return _;
-  },
-  /**
-   * insert a node, return its remover fn
-   * @param {Node} node - the node to be inserted
-   * @param {Node} sibling - sibling must have parent node
-   * @returns {function} to remove the node
-   */
-  insert(node, sibling) {
+    // todo
     const { check } = voyage.lib;
-    if (!check(node, Node)) {
-      node = document.createTextNode(node);
-    }
-    sibling.parentNode.insertBefore(node, sibling);
-    return () => node.remove();
-  },
-  /**
-   * @typedef {object} Element
-   * @prop {string} type - node
-   * @prop {object} labels - attributes or props
-   * @prop {Array<Element|Node|string|Function>} content
-   * - reactive or non reactive stuff
-   */
-  /**
-   * template to element
-   * @param  {Array} template
-   * @returns {Element}
-   */
-  compile(template) {
-    const { compile } = voyage;
-    const { check } = voyage.lib;
-    let element = { type: "", labels: {}, content: [] };
-    for (const item of template) {
-      if (check(item, "string")) {
-        if (element.type == "") {
-          element.type = item;
-        } else {
-          element.content.push(item);
-        }
-      } else if (check(item, Array)) {
-        element.content.push(compile(item));
-      } else if (check(item, Node)) {
-        element.content.push(item);
-      } else if (check(item, "function")) {
-        element.content.push(item);
-      } else if (check(item, "object")) {
-        element.labels = item;
-      } else {
-        element.content.push(String(item));
-      }
-    }
-    return element;
-  },
-  /**
-   * element to node
-   * @param {Element} element
-   * @returns {Node}
-   */
-  create(element) {
-    const { compile, create, e, insert } = voyage;
-    const { check, has } = voyage.lib;
+    const { create } = voyage.methods;
 
-    let node =
-      element.type == ""
-        ? document.createDocumentFragment()
-        : document.createElement(element.type);
+    return () => {
+      const value = check(list, "function") ? list() : list;
+      // get the reactive prop's current value
 
-    const { labels } = element;
-    for (const label in labels) {
-      const value = labels[label];
-      if (label == "class" && check(value, Array)) {
-        e(() => {
-          for (const _ of value) {
-            if (check(_, "function")) {
-              node.classList.add(_());
-            } else {
-              node.classList.add(_);
-            }
-          }
-        });
-      } else if (label == "style" && check(value, "object")) {
-        for (const _ in value) {
-          if (check(value[_], "function")) {
-            e(() => {
-              node.style[_] = value[_]();
-            });
-          } else {
-            node.style[_] = value[_];
-          }
-        }
-      } else if (label[0] == "@") {
-        const event = label.slice(1);
-        const macros = {
-          ref() {
-            value(node);
-          },
-          html() {
-            node = document.createComment("");
-            e(() => {
-              let html = document.createElement("_");
-              const cleanup = insert(html, node);
-              html.outerHTML = check(value, "function") ? value() : value;
-              return cleanup;
-            }, "shown");
-          },
-          value() {
-            e(() => {
-              node.value = value();
-            });
-            node.addEventListener("input", () => {
-              value(node.value);
-            });
-          },
-        };
-        if (has(macros, event)) {
-          macros[event]();
-        } else {
-          node.addEventListener(event, value);
-        }
-      } else {
-        if (check(value, "function")) {
-          e(() => {
-            node.setAttribute(label, value());
-          });
-        } else {
-          node.setAttribute(label, value);
-        }
-      }
-    }
+      node = value.map((value, index) => {
+        const result = template(value, index);
+        return check(result, Array) ? create(result) : result;
+      });
 
-    for (const child of element.content) {
-      if (check(child, Node)) {
-        node.appendChild(child);
-      } else if (check(child, "object")) {
-        node.appendChild(create(child));
-      } else if (check(child, "function")) {
-        const _ = document.createComment("");
-        e(() => {
-          const result = child();
-          if (check(result, Array)) {
-            return insert(create(compile(result)), _);
-          } else {
-            return insert(result, _);
-          }
-        }, "shown");
-        node.appendChild(_);
-      } else {
-        node.appendChild(document.createTextNode(child));
-      }
-    }
-
-    return node;
-  },
-  /**
-   * render a component to node
-   * @param {function} component
-   * @param {object} props
-   * @returns {Node}
-   */
-  render(component, props) {
-    const { check } = voyage.lib;
-    const { compile, create } = voyage;
-
-    const { info } = voyage;
-    info.props = props;
-
-    template = component();
-
-    if (check(template, "function")) {
-      // let it be the only child of a document fragment
-      template = [template];
-    }
-
-    const element = compile(template);
-    const node = create(element);
-
-    for (const _ of info.lifecycle.created) {
-      _();
-    }
-    info.lifecycle.created = [];
-    return node;
+      return node;
+    };
   },
   run(app, on) {
-    const { info, render } = voyage;
+    const { pop } = voyage.lib;
+    const { render, append, runEffect } = voyage.methods;
 
-    const parent = document.querySelector(on);
-    parent.append(render(app));
+    const node = document.querySelector(on);
+    append(render(app), node);
 
-    for (const _ of info.lifecycle.shown) {
-      _();
+    const { info } = voyage;
+    info.status = "shown";
+    while (info.lifecycle.shown.size != 0) {
+      const id = pop(info.lifecycle.shown);
+      runEffect(id);
     }
-    info.lifecycle.shown = [];
   },
   load(library) {
-    let { components } = voyage;
+    let { components } = voyage.info;
     Object.assign(components, library);
   },
 };
 
+const { props, effect, t, h, html, show, each, load } = voyage;
+const { div, img, p, span, button, h1, ul, li, a } = h();
+
 let examples = {
   HelloWorld() {
-    const { p, t } = voyage;
-    const { name } = p({ name: "world" });
-    return ["div", t`hello ${name}`];
+    const { name } = props({ name: "world" });
+
+    return t`hello ${name}`;
   },
   Label() {
-    const { p, t } = voyage;
-    const { name, src } = p();
-    return ["img", { src, alt: t`${name} dancing` }];
+    const { name, src } = props();
+
+    return img({ src, alt: t`${name} dancing` });
   },
   Html() {
-    const { p } = voyage;
-    const { html } = p({
-      html: `here's some <strong>HTML!!!</strong>`,
+    const { content } = props({
+      content: `here's some <strong>HTML!!!</strong>`,
     });
-    return ["div", { "@html": html }];
+
+    return html(content);
   },
-  HtmlEffect() {
-    const { p, e } = voyage;
-    const { html, parent } = p({
-      html: `here's some <strong>HTML!!!</strong>`,
+  NodeRef() {
+    const { content, parent } = props({
+      content: `here's some <strong>HTML!!!</strong>`,
     });
-    e(() => {
-      parent().innerHTML = html();
+
+    effect(() => {
+      parent().innerHTML = content();
     });
-    return ["p", { "@ref": parent }];
+    return p({ "@ref": parent });
   },
-  LegacyCounter() {
-    const { p } = voyage;
-    const { count } = p({ count: 0 });
+  Counter() {
+    const { count } = props({ count: 0 });
+
     return [
       ["button", { "@click": () => count(+count() - 1) }, "-"],
       ["input", { type: "text", "@value": count }],
       ["button", { "@click": () => count(+count() + 1) }, "+"],
     ];
   },
-  Counter() {
-    const { p, t } = voyage;
-    const { count } = p({ count: 0 });
-    return [
-      "button",
+  SimpleCounter() {
+    const { count } = props({ count: 0 });
+
+    return button(
       {
         "@click": () => {
-          count(count() + 1);
+          count((x) => x + 1);
         },
       },
-      t`clicked ${count} ${() => (count() > 1 ? "times" : "time")}`,
-    ];
+      t`clicked ${count} ${() => (count() > 1 ? "times" : "time")}`
+    );
   },
   DerivedCounter() {
-    const { p, t } = voyage;
-    const { count } = p({ count: 0 });
+    const { count } = props({ count: 0 });
+
     const doubled = () => count() * 2;
     const quadrupled = () => doubled() * 2;
 
     return [
-      [
-        "button",
+      button(
         {
           "@click": () => {
             count(count() + 1);
           },
         },
-        t`Count: ${count}`,
-      ],
-      ["p", t`${count} * 2 = ${doubled}`],
-      ["p", t`${doubled} * 2 = ${quadrupled}`],
+        t`Count: ${count}`
+      ),
+      p(t`${count} * 2 = ${doubled}`),
+      p(t`${doubled} * 2 = ${quadrupled}`),
     ];
   },
-  SafeCounter() {
-    const { p, e, t, h } = voyage;
-    const { count } = p({ count: 0 });
-    e(() => {
+  Effect() {
+    const { count } = props({ count: 0 });
+
+    effect(() => {
       if (count() >= 10) {
         // count is dangerously high!
         count(9);
@@ -652,10 +787,10 @@ let examples = {
       t`clicked ${count} ${() => (count() > 1 ? "times" : "time")}`
     );
   },
-  IncreasingCounter() {
-    const { p, e, t } = voyage;
-    const { count } = p({ count: 0 });
-    e(() => {
+  IntervalEffect() {
+    const { count } = props({ count: 0 });
+
+    effect(() => {
       interval = setInterval(() => {
         count(count() + 1);
       }, 1000);
@@ -663,9 +798,9 @@ let examples = {
     });
     return ["p", count];
   },
-  Conditional() {
-    const { p, t, show } = voyage;
-    const { x } = p({ x: 7 });
+  Condition() {
+    const { x } = props({ x: 7 });
+
     return show(
       () => x() > 10,
       t`${x} is greater than 10`,
@@ -674,11 +809,10 @@ let examples = {
       t`${x} is between 5 and 10`
     );
   },
-  ChangeableConditional() {
-    const { p, t, show } = voyage;
-    const { x } = p({ x: 3 });
-    const { e } = voyage;
-    e(() => {
+  ChangeableCondition() {
+    const { x } = props({ x: 3 });
+
+    effect(() => {
       interval = setInterval(() => {
         x(x() + 1);
       }, 1000);
@@ -692,14 +826,16 @@ let examples = {
       t`${x} is between 5 and 10`
     );
   },
+  IncrementSpeed() {
+    // todo
+  },
   List() {
-    const { h, t, each } = voyage;
     const cats = [
       { id: "J---aiyznGQ", name: "Keyboard Cat" },
       { id: "z_AbfPXTKms", name: "Maru" },
       { id: "OUtn3pvWmpg", name: "Henri The Existential Cat" },
     ];
-    const { h1, ul, li, a } = h();
+
     return [
       h1("The Famous Cats of YouTube"),
       ul(
@@ -719,31 +855,31 @@ let examples = {
     ];
   },
   Thing() {
-    const { p: props, h } = voyage;
     // `color` is updated whenever the prop value changes...
-    let { color } = props();
+    const { color } = props();
 
     // ...but `initial` is fixed upon initialisation
     const initial = color();
 
-    const { p, span } = h();
     return p(
       span({ style: { "background-color": initial } }, "initial"),
       span({ style: { "background-color": color } }, "current")
     );
   },
   KeyedList() {
-    const { p, each, h } = voyage;
-    const { things } = p();
-    things([
-      { id: 1, color: "darkblue" },
-      { id: 2, color: "indigo" },
-      { id: 3, color: "deeppink" },
-      { id: 4, color: "salmon" },
-      { id: 5, color: "gold" },
-    ]);
+    const { things } = props({
+      things: [
+        { id: 1, color: "darkblue" },
+        { id: 2, color: "indigo" },
+        { id: 3, color: "deeppink" },
+        { id: 4, color: "salmon" },
+        { id: 5, color: "gold" },
+      ],
+    });
+
     const slice = () => things((things) => things.slice(1));
-    const { button, Thing } = h();
+
+    const { Thing } = h();
     return [
       button({ "@click": slice }, "remove first thing"),
       each(
@@ -753,25 +889,34 @@ let examples = {
       ),
     ];
   },
-  PropPath() {
-    const { p } = voyage;
-    const { prop } = p();
-    prop({ abc: "xyz" });
-    prop("abc", "def");
-    prop("c123", "aaa");
+  PropEditing() {
+    const { something } = props();
+    something({ abc: "def" });
+    something("abc", "xyz");
+    something("foo", "bar");
 
-    return () => JSON.stringify(prop);
+    return () => JSON.stringify(something());
   },
-  ConditionalIncreasingCounter() {
-    const { show, h } = voyage;
+  EffectDeps() {
+    const { message, parent, child } = props({ parent: false, child: false });
+    effect(() => {
+      if (parent()) {
+        message(`${parent()} ${child()}`);
+      }
+    });
+    return [
+      button({ "@click": () => parent(!parent()) }, "parent"),
+      button({ "@click": () => child(!child()) }, "child"),
+      message,
+    ];
+  },
+  ChildEffect() {
     const { IncreasingCounter } = h();
     // todo
     return IncreasingCounter();
   },
 };
 
-voyage.load(examples);
+load(examples);
 
-voyage.run(examples.LegacyCounter, "body");
-
-// voyage.run(examples.ChangeableConditional, "body");
+voyage.run(examples.Counter, "body");
