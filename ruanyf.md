@@ -2817,7 +2817,7 @@ Substack 刚刚发布的在线 RSS 阅读器。
 
 -- [Uncle Bob](https://critter.blog/2020/09/15/dont-comment-your-code-refactor-it/)
 
-## image filterer in geometry style
+## geometry style image filterer
 
 `app` `image` `art` `ref`
 
@@ -2836,6 +2836,14 @@ Substack 刚刚发布的在线 RSS 阅读器。
 ![](https://cdn.beekka.com/blogimg/asset/202104/bg2021042301.jpg)
 
 这个开源软件可以将照片转为三角形图案。
+
+---
+
+[Primitive Pictures](https://github.com/fogleman/primitive)
+
+![](https://cdn.beekka.com/blogimg/asset/202401/bg2024011414.webp)
+
+这个工具可以将输入的图片，使用几何形状重新绘制，参见[作者自述](https://schollz.com/tinker/primitives/)。
 
 ## geniuses talk about ideas, others talk about events and people
 
@@ -6985,7 +6993,7 @@ OpenAI 是眼下最炙手可热、排名第一的 AI 公司。
 
 ![](https://cdn.beekka.com/blogimg/asset/202405/bg2024051807.webp)
 
-Rust 语言的一个初学者教程，通过100个练习来学习这门语言。
+Rust 语言的一个初学者教程，通过 100 个练习来学习这门语言。
 
 ---
 
@@ -6999,7 +7007,7 @@ https://github.com/mainmatter/100-exercises-to-learn-rust
 
 ![](https://cdn.beekka.com/blogimg/asset/202405/bg2024051808.webp)
 
-这个仓库收集了100多个 JavaScript 的语法选择题，可以试试你是否真的了解这门语言。
+这个仓库收集了 100 多个 JavaScript 的语法选择题，可以试试你是否真的了解这门语言。
 
 ---
 
@@ -7007,9 +7015,9 @@ https://github.com/mainmatter/100-exercises-to-learn-rust
 
 ## there is no audience
 
-`weather` `quote` 
+`weather` `quote`
 
-20多岁时，我跟一个长辈说："我很担心，别人会怎么看待我做的那个决定。"长辈说："放心吧，你没有观众的。"
+20 多岁时，我跟一个长辈说："我很担心，别人会怎么看待我做的那个决定。"长辈说："放心吧，你没有观众的。"
 
 现在想起来，我认为这是我得到过的最好建议。
 
@@ -7027,7 +7035,7 @@ https://github.com/mainmatter/100-exercises-to-learn-rust
 
 ## english grammar guide by bobing
 
-`literary` `guide`
+`literary` `guide` `library`
 
 [薄冰大学英语语法](https://oldwestenglish.github.io/grammar/)
 
@@ -7055,9 +7063,77 @@ https://github.com/mainmatter/100-exercises-to-learn-rust
 
 Figma 公司新发布的幻灯片制作工具。
 
+## dictionary by llm
+
+`ai` `literary` `library`
+
+[DictionaryByGPT4](https://github.com/Ceelog/DictionaryByGPT4)
+
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024070304.webp)
+
+一本 GPT4 生成的英语单词书，收入 8000+常用单词，涵盖了词义、例句、词根词缀、变形、文化背景、记忆技巧和小故事。（[@Ceelog](https://github.com/ruanyf/weekly/issues/4734)  投稿）
+
+## global windows system crash
+
+`dev` `meme`
+
+[Windows 蓝屏](https://www.macrumors.com/2024/07/22/microsoft-blames-european-commission-for-outage/)
+
+上周，Windows 系统出现全球故障，几百万台电脑发生蓝屏，无法启动。
+
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072301.webp)
+
+原因是安全软件公司 CrowdStrike 的更新包，引发了内核故障。
+
+这就很奇怪了，为什么一个第三方应用软件，可以修改内核？
+
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072302.webp)
+
+微软的解释是，多年前，欧盟认为微软自家的安全软件 Windows Defender 有垄断嫌疑，微软必须向其他安全软件开放同样的内核访问权限，所以 CrowdStrike 才能修改内核。
+
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072506.webp)
+
+相比之下，苹果公司始终不开放内核权限，所以这次故障不影响 Mac 系统。但是，欧盟已经把矛头对准了苹果。
+
+幸亏汽车、飞机不使用 Windows 系统，否则行驶中突然蓝屏，真得害死人。
+
+## algorithms visualization on web by ai
+
+`ai` `algorithms` `guide`
+
+[算法可视化](https://gallery.selfboot.cn/algorithms/)
+
+![](https://cdn.beekka.com/blogimg/asset/202407/bg2024072105.webp)
+
+作者在 AI 协助下，完成的经典算法的交互式可视化网站，代码开源。（[@selfboot](https://github.com/ruanyf/weekly/issues/4851)  投稿）
+
+## lean prover on fermat's last theorem
+
+`algorithms` `meme`
+
+费马大定理是一个极困难的数学猜想，自从1637年提出后，直到1993年才解决。
+
+这个定理没有任何实际应用，只是用来提醒人们数学是多么深奥。
+
+-- [《费马大定理》](https://leanprover-community.github.io/blog/posts/FLT-announcement/)
+
 ##
 
 
+
+##
+
+##
+
+##
+
+##
+
+##
+
+##
+
+##
 
 ##
 

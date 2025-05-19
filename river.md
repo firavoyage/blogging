@@ -128,6 +128,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `8` 20250423
 - `9` 20250426
 - `10` 20250511
+- `11` 20250519
 
 ## gaming
 
@@ -280,6 +281,14 @@ retro... ("memories memories.")
 mostly abandoned early chapters.
 
 playing latest events.
+
+### ba
+
+no longer recorded here (see git/memories/gaming)
+
+### ak
+
+no longer recorded here (see git/memories/gaming)
 
 ## weather
 
@@ -5862,5 +5871,23 @@ in case i dont see you, good afternoon, good evening, and good night.
 ---
 
 2025.05.18 03:11 fira watched the truman show.
+
+---
+
+使用 nyaa 找到了一个 2009 年版本凉宫春日的忧郁. 正在下载...
+
+`[异域-11番小队][凉宫春日的忧郁2009 Suzumiya_Haruhi_no_Yuuutsu_2009][1-28][BDRIP][720P][X264-10bit_AAC]`
+
+---
+
+`school`
+
+想起这些天... 每周六都会上 8 小时的课, 是补差的, 不是培优的.
+
+每节课 2h, 有物理 化学 地理 生物.
+
+一个片段: 
+
+sensei 在讲题, f 使用搜题软件和 llm, 已经会了, sensei 还在讲... 
 
 ---

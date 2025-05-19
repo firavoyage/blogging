@@ -67,7 +67,7 @@
 
 ### _rest_
 
-- listen to rock
+- listen to j-pop / rock
 - play antennapod
 - surf zhihu / berryberry / twitter
 - watch simplelive
