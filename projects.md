@@ -14,27 +14,6 @@
 
 ## write
 
-### `para`
-
-> elegant reader for elegant writer
-
-- reader
-  - toc sidebar (like sspai's)
-  - zen mode
-- editor
-  - collapsed block
-  - styled block
-- portable
-  - html
-  - pdf
-  - docx
-- inspired by
-  - notion
-  - mdbook
-  - gitbook
-  - mkdocs & material for mkdocs
-  - docusaurus
-
 ### `pre`
 
 > simplicity of presentation
@@ -169,28 +148,27 @@
 
 ## perceive
 
-### `awesome`
+### `para`
 
-> plain filter instead of promotional recommendation engine
+> the elegant reader
 
-- categories
-  - world goods list
-  - social media channel
-  - personal blog
-  - community
-  - resource
-  - wiki
-  - ...
-- tags
-  - anime
-  - manga
-- rating and ranking
-- source
-  - awesome lists
-  - wotaku.wiki
-  - webfollow list
-  - rss source list
-
+- zoom perspective
+  - on contents sidebar
+  - on the left of a header
+- content preview
+  - link
+  - footnote
+  - details
+- portable
+  - html
+  - pdf
+  - docx
+- inspired by
+  - notion
+  - mdbook
+  - gitbook
+  - mkdocs & material for mkdocs
+  - docusaurus
 
 ### `eat`
 
@@ -339,20 +317,45 @@
   - raindrop
   - archive.org
 
+### `awesome`
+
+> plain filter instead of promotional recommendation engine
+
+- categories
+  - world goods list
+  - social media channel
+  - personal blog
+  - community
+  - resource
+  - wiki
+  - ...
+- tags
+  - anime
+  - manga
+- rating and ranking
+- source
+  - awesome lists
+  - wotaku.wiki
+  - webfollow list
+  - rss source list
+
 ## learn
 
 ### `leisure`
 
 > simplicity of memorization | "自在"
 
-- minimal interface
+- comprehensive grammar book
+  - english and japanese
+  - by llm
+- distraction free interface
   - more symbols and icons, less text
 - selection before memorization
   - remove known words and unwanted words
 - anime characters speaking
   - by gptsovits
 - language learning
-  - characters & grammar 
+  - characters & grammar
   - word memorization
 - social poster
   - word card

@@ -10,7 +10,7 @@
 
 > 🌕 💤 💤 💤 $\text{23:00}$
 
-> 忘我思考
+> _忘 我 思 考_
 
 - a developer, writer, wikipedian
 - grew up in shanghai
@@ -40,7 +40,7 @@
   - chenpi
   - huamei
 - - rock · folk · j-pop · jazz · classical
-  - calendar · wall clock 
+  - calendar · wall clock
   - life size waifu pillow · origami · pixel art · gardening
   - anime · visualnovels · unixporn · mtf · virtualyoutubers
   - math · algorithms · ai · web dev · threejs · cpp · python · rust
@@ -65,7 +65,7 @@
   - himself65
   - hitori gotoh
   - hsn8086
-  - huang chih-chung 
+  - huang chih-chung
   - huxpro
   - ichi hime
   - innei
@@ -74,9 +74,11 @@
   - jiangly
   - jingsheng237248
   - jiongks
+  - jjying
   - joshwcomeau
   - juliangarnier
   - kagura mea
+  - kalasoo
   - kasugano sora
   - keyboard cat
   - kirikaze chiyuki
@@ -100,6 +102,7 @@
   - potetomj
   - probiusofficial
   - saiba momoi
+  - sam altman
   - seren azuma
   - share121
   - shengxj1
@@ -149,7 +152,8 @@
   - a cruel angel's thesis (yoko takahashi)
   - the girl who fell from the sky (joe hisaishi)
   - yosuga no sora ost (manack & eufonius & bruno wen li)
-  - god knows (aya hirano & haruhi suzumiya)
+  - suzumiya haruhi no tsumeawase (aya hirano & yuko goto)
+  - togenashi (togenashi togeari)
   - internet overdose (aiobahn & kotoko)
   - magnet (minato aqua & inuyama tamaki)
   - henceforth (kagura mea)
