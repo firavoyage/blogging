@@ -35,7 +35,7 @@
   - bubble tea
   - sushi
   - tea egg
-  - want want senbei
+  - senbei
   - dried mango
   - chenpi
   - huamei
@@ -149,7 +149,7 @@
   - what's going on...? (eason chan)
   - fantasy (jay chou)
   - miracle milk (mili)
-  - a cruel angel's thesis (yoko takahashi)
+  - neon genesis evangelion (shiro sagisu)
   - the girl who fell from the sky (joe hisaishi)
   - yosuga no sora ost (manack & eufonius & bruno wen li)
   - suzumiya haruhi no tsumeawase (aya hirano & yuko goto)
@@ -187,7 +187,7 @@
   - in solitude where we are least alone (2010)
   - worldend: what do you do at the end of the world? are you busy? will you save us? (2017)
   - lucky star (2007)
-  - evangelion (1995)
+  - neon genesis evangelion (1995)
   - girls band cry (2024)
   - .date a live (2013)
   - .sword art online (2012)
@@ -257,7 +257,7 @@
   - youtube · berryberry · acfun · niconico · vtbs.moe · hololist
   - reddit · hacker news · twitter · zhihu · nga bbs · baidu tieba · v2ex · github trending · product hunt
   - ruanyf weekly · tw93 weekly · gamedevjs weekly · codepen spark
-  - douban · imdb · bangumi.tv · my anime list · bgmlist · mikan project · nyaa.si · dmhy.org · yuc.wiki · wotaku.wiki
+  - douban · imdb · bangumi.tv · my anime list · bgmlist · mikan project · nyaa.si · dmhy.org · zimuku · yuc.wiki · wotaku.wiki
   - pixiv · deviantart · civitai · e hentai · dribbble · unsplash
   - steam db · itch.io · google doodles · vndb · shinnku galgame · kungal · touchgal
   - codeforces · atcoder · luogu · libre oj · project euler
@@ -441,7 +441,7 @@
     - fcitx5-android 0.1.1
     - gboard 15.2.03
     - k9-mail 6.801
-    - legado 3.23.112523
+    - legado 3.25
     - material-files 1.4.2
     - metro 6.1.0
     - musicfree 0.5.1
