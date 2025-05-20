@@ -826,7 +826,7 @@ let examples = {
       t`${x} is between 5 and 10`
     );
   },
-  IncrementSpeed() {
+  IncrementAtAnyInterval() {
     // todo
   },
   List() {
@@ -920,3 +920,6 @@ let examples = {
 load(examples);
 
 voyage.run(examples.Counter, "body");
+
+// todo styling with preset
+
