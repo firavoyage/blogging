@@ -1,4 +1,4 @@
-# $firavoyage$ `elegance`
+# $fira$ `elegance`
 
 ## .
 
@@ -20,6 +20,8 @@
 
 ## desiderata
 
+> _all good things_
+
 - make tools elegant
 - make knowledge pure
 
@@ -39,7 +41,7 @@
   - dried mango
   - chenpi
   - huamei
-- - rock · folk · j-pop · jazz · classical
+- - j-pop · rock · folk · jazz · classical
   - calendar · wall clock
   - life size waifu pillow · origami · pixel art · gardening
   - anime · visualnovels · unixporn · mtf · virtualyoutubers
@@ -51,7 +53,7 @@
   - azi azusa
   - bradwoods
   - chen xiao origami
-  - chen_zhe
+  - chiyuki0325
   - chriscoyier
   - chtholly nota seniorious
   - dbinary matrixcascade
@@ -61,6 +63,7 @@
   - funshiki
   - gaearon dan abramov
   - grant sanderson 3blue1brown
+  - haoel
   - henri, le chat noir
   - himself65
   - hitori gotoh
@@ -81,26 +84,29 @@
   - kalasoo
   - kasugano sora
   - keyboard cat
-  - kirikaze chiyuki
   - kkksc03
   - konata izumi
   - krahets
+  - leanrada kalabasa
   - lei bro gaming
   - liangxihuigui
   - livid v2ex
   - matikane tannhauser
+  - matrix67
   - menci
   - minami iwasaki
   - minato aqua
   - miyuki takara
   - mrcongliu
   - mugumogu maru
-  - nahida gi
+  - nahida
   - nat friedman
   - nayuki
   - nina iseri
+  - ninalex12
   - potetomj
   - probiusofficial
+  - ramsayleung
   - saiba momoi
   - sam altman
   - seren azuma
@@ -117,8 +123,10 @@
   - txstc55
   - uzawa reisa
   - verymoes
-  - vochant
+  - vochant mirekintoc
   - wanderer above the sea of fog
+  - wesbos
+  - wukan wukan.me
   - xkcd
   - yifusuyi
   - yuanchuan
@@ -131,32 +139,36 @@
   - humanity hour 1 (scorpions)
   - parsley, sage, rosemary and thyme (simon & garfunkel)
   - sounds of silence (simon & garfunkel)
-  - aftermath (the beatles)
+  - sgt. pepper's lonely hearts club band (the beatles)
+  - aftermath (the rolling stones)
   - wish yoou were here (pink floyd)
   - a momentary lapse of reason (pink floyd)
   - the division bell (pink floyd)
   - the dark side of the moon (pink floyd)
-  - observation (kaf)
-  - magic (kaf)
-  - crazy for you (kaf)
-  - fable (kaf)
-  - the book (yoasobi)
-  - the book 2 (yoasobi)
-  - the book 3 (yoasobi)
-  - daiginjo (miyuki nakajima)
-  - rock n roll (beyond)
-  - u 87 (eason chan)
-  - what's going on...? (eason chan)
-  - fantasy (jay chou)
-  - miracle milk (mili)
+  - heisei anisong taisho (playlist)
+  - kyoto animation (playlist)
   - neon genesis evangelion (shiro sagisu)
   - the girl who fell from the sky (joe hisaishi)
   - yosuga no sora ost (manack & eufonius & bruno wen li)
   - suzumiya haruhi no tsumeawase (aya hirano & yuko goto)
+  - tv anime "lucky star" ending theme collection: one day karaoke box (konata izumi & kagami hiiragi & tsukasa hiiragi & miyuki takara)
   - togenashi (togenashi togeari)
+  - daiginjo (miyuki nakajima)
+  - the book (yoasobi)
+  - the book 2 (yoasobi)
+  - the book 3 (yoasobi)
+  - observation (kaf)
+  - magic (kaf)
+  - crazy for you (kaf)
+  - fable (kaf)
   - internet overdose (aiobahn & kotoko)
   - magnet (minato aqua & inuyama tamaki)
   - henceforth (kagura mea)
+  - miracle milk (mili)
+  - rock n roll (beyond)
+  - u 87 (eason chan)
+  - what's going on...? (eason chan)
+  - fantasy (jay chou)
   - tui yi de ni (menci & wxh010910 & yan qval & krydom & niro bc & wer key tom_ftd & \_\_stdcall & created_equal & whzzt & wy1627)
   - qun ding (mi feng chu)
 - - spirited away (2001)
@@ -343,115 +355,108 @@
   - ubuntu sans
   - xiaolai
   - zhi mang xing
-- - - ubuntu 24.04
-    - android 11
-  - - chromium 124.0.6367.118
-    - firefox 124.0.2
-    - code 1.97.2
-    - git 2.43.0
-    - fcitx 5.1.7
-    - v2raya 2.2.5.1
-    - wine 9.0
-    - zsh 5.9
-  - - g++ 13.3.0
-    - emcc 4.0.5
-    - node 18.19.1
-    - npm 9.2.0
-    - jsdoc 4.0.4
-    - python3 3.12.3
-    - pip 24.0
-    - rustup 1.28.1
-    - rustc 1.85.0
-    - cargo 1.85.0
-    - wasm-pack 0.13.1
-    - mdbook 0.4.47
-  - - wakatime.vscode-wakatime 24.9.2
-    - yzhang.markdown-all-in-one 3.6.2
-    - xabikos.javascriptsnippets 1.8.0
-    - nathanchapman.javascriptsnippets 0.4.0
-    - dbaeumer.vscode-eslint 3.0.10
-    - esbenp.prettier-vscode 11.0.0
-    - rust-lang.rust-analyzer 0.3.2328
-    - formulahendry.code-runner 0.12.2
-    - felicio.vscode-fold 1.4.3
-  - - adguard 5.0.212
-    - authenticator 8.0.1
-    - bewlybewly 0.41.1
-    - buster 3.1.0
-    - simple translate 3.0.0
-    - tampermonkey 5.3.3
-    - wakatime 4.0.12
-    - wayback machine 3.4.2
-  - - apt 2.7.14
-    - flatpak 1.16.0
-    - snap 2.63.1
-  - - android-studio 2023.3.1
-    - blender 4.2.1
-    - cbonsai 1.3.1-1
-    - cowsay 5.38.2
-    - docker 24.0.5
-    - ffmpeg 6.1.1
-    - figlet 2.2.5
-    - fortune 9708
-    - gedit 46.2
-    - geogebra 6.0.804.0
-    - ghostscript 10.02.1
-    - gimp 2.10.38
-    - gnome-baobab 46.0
-    - gnome-blanket 0.7.0
-    - gnome-calculator 46.1
-    - gnome-characters 46.0
-    - gnome-deja-dup 45.2
-    - gnome-evince 46.0
-    - gnome-eyedropper 2.0.1
-    - gnome-nautilus 46.2
-    - gnome-newsflash 3.3.5
-    - gnome-solanum 5.0.0
-    - gnome-system-monitor 46.0
-    - gnome-terminal 3.52.0
-    - gnome-tuba 0.8.4
-    - gnome-weather 44.0
-    - goldendict 1.5.0
-    - inkscape 1.3.1
-    - jan 0.5.2
-    - kdenlive 23.08.4
-    - kolourpaint 24.08.2
-    - krita 5.2.6
-    - libreoffice 24.2.5.2
-    - localsend 1.12.1
-    - neofetch 7.1.0
-    - obs-studio 30.0.2
-    - pdfarranger 1.10.1
-    - powdertoy 98.2.365
-    - qbitorrent 5.0.3
-    - retroarch 1.19.1
-    - shotcut 24.11.17
-    - telegram-desktop 4.16.8
-    - thunderbird 115.11.0
-    - transmission 4.0.5
-    - typst 0.12.0
-    - virtualbox 7.0.16
-    - vlc 3.0.20
-  - - aegis-authenticator 3.3.4
-    - ankidroid 2.17.6
-    - antennapod 3.1.2
-    - bilimiao 2.3.8.3
-    - duolingo 6.11.4-mod
-    - eudic 9.3.1
-    - fcitx5-android 0.1.1
-    - gboard 15.2.03
-    - k9-mail 6.801
-    - legado 3.25
-    - material-files 1.4.2
-    - metro 6.1.0
-    - musicfree 0.5.1
-    - musictag 1.2.5.2
-    - nekogram 11.0.0
-    - oneplus-weather 1.8.5
-    - onscripter-yuri 0.7.4
-    - simplelive 1.7.3
-    - snapseed 2.19.1
-    - spotify 9.0.38.433-mod
+- - ubuntu 24.04
+  - android-studio 2023.3.1
+  - apt 2.7.14
+  - blender 4.2.1
+  - cargo 1.85.0
+  - cbonsai 1.3.1-1
+  - chromium 124.0.6367.118
+  - code 1.97.2
+  - cowsay 5.38.2
+  - docker 24.0.5
+  - fcitx 5.1.7
+  - ffmpeg 6.1.1
+  - figlet 2.2.5
+  - firefox 124.0.2
+  - flatpak 1.16.0
+  - fortune 9708
+  - g++ 13.3.0
+  - gedit 46.2
+  - geogebra 6.0.804.0
+  - ghostscript 10.02.1
+  - gimp 2.10.38
+  - git 2.43.0
+  - gnome-baobab 46.0
+  - gnome-calculator 46.1
+  - gnome-characters 46.0
+  - gnome-deja-dup 45.2
+  - gnome-evince 46.0
+  - gnome-eyedropper 2.0.1
+  - gnome-nautilus 46.2
+  - gnome-newsflash 3.3.5
+  - gnome-solanum 5.0.0
+  - gnome-system-monitor 46.0
+  - gnome-terminal 3.52.0
+  - gnome-tuba 0.8.4
+  - gnome-weather 44.0
+  - goldendict 1.5.0
+  - inkscape 1.3.1
+  - jan 0.5.2
+  - jsdoc 4.0.4
+  - kdenlive 23.08.4
+  - kolourpaint 24.08.2
+  - krita 5.2.6
+  - libreoffice 24.2.5.2
+  - mdbook 0.4.47
+  - neofetch 7.1.0
+  - node 18.19.1
+  - npm 9.2.0
+  - obs-studio 30.0.2
+  - python3 3.12.3
+  - qbitorrent 5.0.3
+  - retroarch 1.19.1
+  - rustc 1.85.0
+  - rustup 1.28.1
+  - shotcut 24.11.17
+  - snap 2.63.1
+  - telegram-desktop 4.16.8
+  - thunderbird 115.11.0
+  - v2raya 2.2.5.1
+  - virtualbox 7.0.16
+  - vlc 3.0.20
+  - wine 9.0
+  - zsh 5.9
+- - android 11
+  - aegis-authenticator 3.3.4
+  - ankidroid 2.17.6
+  - antennapod 3.1.2
+  - bilimiao 2.3.8.3
+  - duolingo 6.11.4-mod
+  - eudic 9.3.1
+  - fcitx5-android 0.1.1
+  - gboard 15.2.03
+  - k9-mail 6.801
+  - legado 3.25
+  - material-files 1.4.2
+  - metro 6.1.0
+  - musicfree 0.5.1
+  - musictag 1.2.5.2
+  - nekogram 11.0.0
+  - oneplus-weather 1.8.5
+  - onscripter-yuri 0.7.4
+  - simplelive 1.7.3
+  - snapseed 2.19.1
+  - solid-explorer 2.8.60
+  - spotify 9.0.38.433-mod
+  - zuoyebang 14.22.0
+- - adguard 5.0.212
+  - authenticator 8.0.1
+  - bewlybewly 0.41.1
+  - buster 3.1.0
+  - simple-translate 3.0.0
+  - tampermonkey 5.3.3
+  - wakatime 4.0.12
+  - wayback-machine 3.4.2
+- - felicio.vscode-fold 1.4.3
+  - wakatime.vscode-wakatime 24.9.2
+  - yzhang.markdown-all-in-one 3.6.2
+  - esbenp.prettier-vscode 11.0.0
+  - xabikos.javascriptsnippets 1.8.0
+  - nathanchapman.javascriptsnippets 0.4.0
+  - formulahendry.code-runner 0.12.2
+  - rust-lang.rust-analyzer 0.3.2328
+  - tonybaloney.vscode-pets 1.31.0
 - - lenovo yoga 13s acn 2021
   - smartisan revolution ii
   - oneplus buds 3
@@ -625,33 +630,27 @@
 - `fonts` calligrapher
 - `self` avatar
 
-## shadows
+## projections
+
+> `firavoyage` · `firascript` · `"忘我思考"`
 
 - - wikipedia `User:Firavoyage`
-- - github & gitlab & gitee & wakatime `firavoyage`
-  - codepen & dev.to `firavoyage`
-- - blogger `firavoyage`
-  - zhihu `firavoyage`
-  - cnblogs `fira`
+- - github (gitlab, gitee) `firavoyage`
+  - wakatime `firavoyage`
+  - codepen `firavoyage`
+- - majsoul `忘我思考` `fira`
+  - duolingo `firavoyage`
 - - youtube `firavoyage`
   - berryberry `fira_言序` `1156993272`
   - acfun `忘我思考` `65210945`
-  - rednote & digdog & kwai `firavoyage`
-- - telegram `firavoyage`
-  - telegram group `voyagefira`
-  - telegram channel `firavoyagechan`
-- - bangumi.tv `firavoyage`
+  - rednote (digdog, kwai) `firavoyage`
+- - twitter `firascript`
+  - telegram `firavoyage`
   - reddit `u/firascript`
-  - baidu tieba `____f_____`
+  - zhihu `firavoyage`
   - v2ex `voy`
-  - instagram `firascript`
-  - twitter `firascript`
+  - bangumi.tv `firavoyage`
   - mastodon `fira@techhub.social` `firavoyage@mastodon.social`
-  - bluesky `@firavoyage.bsky.social`
-  - discord `firavoyage`
-- - majsoul `忘我思考`
-  - duolingo `firavoyage`
-  - chess.com `firavoyage`
 - - email `firavoyage@outlook.com`
   - alternatives `firafira@duck.com` `xoyage@gmail.com` `devvhy@zoho.com.cn` `firav@qq.com`
 
@@ -680,6 +679,8 @@
 >
 > _"do not change anything unless you know what you are doing"_
 
+> _fin._
+>
 > $so \space much \space for \space this, \space have \space a \space nice \space day.$
 >
 > _以上 / 祝你度过智识的, 审美的一天_
