@@ -368,16 +368,15 @@ sudo apt install gnome-shell-extension-prefs
   - one dark pro
   - monokai pro
 - install extensions
-  - wakatime `wakatime.vscode-wakatime`
-    - add api key
-  - eslint `dbaeumer.vscode-eslint`
-  - prettier `esbenp.prettier-vscode`
-  - javascript snippets `nathanchapman.javascriptsnippets`
-  - javascript (es6) code snippets `xabikos.javascriptsnippets`
-  - markdown all in one `yzhang.markdown-all-in-one`
-  - code runner `formulahendry.code-runner`
-  - rust-analyzer `rust-lang.rust-analyzer`
-  - fold `felicio.vscode-fold`
+  - felicio.vscode-fold
+  - esbenp.prettier-vscode
+  - wakatime.vscode-wakatime
+  - tonybaloney.vscode-pets
+  - yzhang.markdown-all-in-one
+  - xabikos.javascriptsnippets
+  - nathanchapman.javascriptsnippets
+  - formulahendry.code-runner
+  - rust-lang.rust-analyzer
 - config appearance
   - -> `view > appearance`
   - custom titlebar `off`
@@ -386,6 +385,8 @@ sudo apt install gnome-shell-extension-prefs
   - render control characters `off`
   - sticky scroll `off`
   - toggle bread crumbs `off`
+  - -> `explorer` (`ctrl shift e`)
+  - outline & timeline `off`
 - config behavior
   - -> `file > preferences > settings` `ctrl ,`
   - auto save `after delay`

@@ -492,30 +492,22 @@
 
 - refactor: merge `compile` into `create`
 - refactor: `e(fn, deps)` and lifecycle hooks
-- **todo**
 - fix: wrong usage of lifecycle `shown`
   - create fragment before `shown`, insert immediately after `shown`
-- feat: macro `@style`, `theme`
-  - `theme` define stuff like `m-1` `bg-white`
-  - `@style` define css, generate a class using murmurhash
+- **todo**
+- feat: macro `@style`, `define(preset)`, `switch(theme)`
+  - `define(preset)` change preset
+  - `switch(theme)` append preset
+  - `@style` generate a class using murmurhash
   - ref
+    - https://unocss.dev/config/
     - https://tailwindcss.com/docs/styling-with-utility-classes
     - https://tachyons.io/
-    - https://unocss.dev/guide/
-- feat: `batch` `untrack`
+- feat: `batch` operation, `untrack` value
   - `untrack` can be rp with `prop.value` (value is made public)
-- feat: `memo` for expensive tasks
-  - same derived value used in many places
+- feat: `memo` for expensive derived value used more than once
   - only compute once before any dep changes
 - fix: `key` in `each` fn
-- feat: `attached` lifecycle, effect with parent
-  - some operations need the element to have certain parent
-  - `attached` will run before showing on ui
-- feat: `render(component, on)`
-  - create vdom
-  - set vdom
-  - diff specific dom
-  - apply update
 - feat: `route`
   - ref https://docs.solidjs.com/guides/routing-and-navigation
 - test: a component library

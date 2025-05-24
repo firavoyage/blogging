@@ -309,8 +309,8 @@ let voyage = {
         let initial = has(info.props, propName)
           ? info.props[propName]
           : has(defaultProps, propName)
-          ? defaultProps[propName]
-          : false;
+            ? defaultProps[propName]
+            : false;
         let subscribers = new Set();
 
         if (check(initial, "function")) {
@@ -571,9 +571,7 @@ let voyage = {
             // todo (insert instead of append)
             e(() => {
               const _ = document.createElement("div");
-              _.innerHTML = check(content, "function")
-                ? content()
-                : content;
+              _.innerHTML = check(content, "function") ? content() : content;
               const fragment = Array.from(_.childNodes);
               append(fragment, node);
               return () => remove(fragment);

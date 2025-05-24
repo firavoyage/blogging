@@ -128,6 +128,46 @@ let voyage = {
         fn(_);
       }
     },
+    /**
+     * Generates a short CSS class name from an input string using MurmurHash
+     * @param {string} input - The input string to hash
+     * @param {number} [length=6] - Length of the output class name (2-10)
+     * @returns {string} - Valid CSS class name starting with a letter
+     */
+    murmurhash(input, length = 6) {
+      // Validate and clamp length between 2 and 10
+      length = Math.max(2, Math.min(10, length));
+
+      // Modified MurmurHash3 to generate a numeric hash
+      let hash = 0;
+      for (let i = 0; i < input.length; i++) {
+        hash = Math.imul(hash ^ input.charCodeAt(i), 3432918353);
+        hash = (hash << 13) | (hash >>> 19);
+      }
+
+      // Finalize hash
+      hash = Math.imul(hash ^ (hash >>> 16), 2246822507);
+      hash = Math.imul(hash ^ (hash >>> 13), 3266489909);
+      hash ^= hash >>> 16;
+
+      // Convert to positive 32-bit integer
+      hash = hash >>> 0;
+
+      // Base36 encoding (numbers + lowercase letters)
+      let className = hash.toString(36);
+
+      // Ensure it starts with a letter (CSS requirement)
+      if (!isNaN(className[0])) {
+        // Map numbers to letters (0-9 -> a-j)
+        const letterMap = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j'];
+        className = letterMap[parseInt(className[0])] + className.slice(1);
+      }
+
+      // Trim to requested length
+      className = className.substring(0, length);
+
+      return className;
+    }
   },
   /**
    * private methods
@@ -695,6 +735,12 @@ let voyage = {
     let { components } = voyage.info;
     Object.assign(components, library);
   },
+  define(preset) {
+    
+  },
+  switch(theme) {
+
+  }
 };
 
 const { props, effect, t, h, html, show, each, load } = voyage;
