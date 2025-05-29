@@ -500,8 +500,8 @@
   - `switch(theme)` append preset
   - `@style` generate a class using murmurhash
   - ref
-    - https://unocss.dev/config/
     - https://tailwindcss.com/docs/styling-with-utility-classes
+    - https://unocss.dev/config/
     - https://tachyons.io/
 - feat: `batch` operation, `untrack` value
   - `untrack` can be rp with `prop.value` (value is made public)

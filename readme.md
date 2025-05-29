@@ -124,10 +124,13 @@
   - uzawa reisa
   - verymoes
   - vochant mirekintoc
+  - vtbs_irl
   - wanderer above the sea of fog
   - wesbos
   - wukan wukan.me
+  - xiaoyaocz
   - xkcd
+  - xuegao cheese
   - yifusuyi
   - yuanchuan
   - yunyoujun
@@ -240,7 +243,9 @@
   - honor of kings (2015)
   - mahjong soul (2018)
   - osu! (2007)
-  - .earth online (.)
+  - foxwq (2009)
+  - golaxy (2018)
+  - .earth online
   - .terraria (2011)
   - .the legend of zelda: tears of the kingdom (2023)
   - .the legend of zelda: breath of the wild (2017)
@@ -355,108 +360,110 @@
   - ubuntu sans
   - xiaolai
   - zhi mang xing
-- - ubuntu 24.04
-  - android-studio 2023.3.1
-  - apt 2.7.14
-  - blender 4.2.1
-  - cargo 1.85.0
-  - cbonsai 1.3.1-1
-  - chromium 124.0.6367.118
-  - code 1.97.2
-  - cowsay 5.38.2
-  - docker 24.0.5
-  - fcitx 5.1.7
-  - ffmpeg 6.1.1
-  - figlet 2.2.5
-  - firefox 124.0.2
-  - flatpak 1.16.0
-  - fortune 9708
-  - g++ 13.3.0
-  - gedit 46.2
-  - geogebra 6.0.804.0
-  - ghostscript 10.02.1
-  - gimp 2.10.38
-  - git 2.43.0
-  - gnome-baobab 46.0
-  - gnome-calculator 46.1
-  - gnome-characters 46.0
-  - gnome-deja-dup 45.2
-  - gnome-evince 46.0
-  - gnome-eyedropper 2.0.1
-  - gnome-nautilus 46.2
-  - gnome-newsflash 3.3.5
-  - gnome-solanum 5.0.0
-  - gnome-system-monitor 46.0
-  - gnome-terminal 3.52.0
-  - gnome-tuba 0.8.4
-  - gnome-weather 44.0
-  - goldendict 1.5.0
-  - inkscape 1.3.1
-  - jan 0.5.2
-  - jsdoc 4.0.4
-  - kdenlive 23.08.4
-  - kolourpaint 24.08.2
-  - krita 5.2.6
-  - libreoffice 24.2.5.2
-  - mdbook 0.4.47
-  - neofetch 7.1.0
-  - node 18.19.1
-  - npm 9.2.0
-  - obs-studio 30.0.2
-  - python3 3.12.3
-  - qbitorrent 5.0.3
-  - retroarch 1.19.1
-  - rustc 1.85.0
-  - rustup 1.28.1
-  - shotcut 24.11.17
-  - snap 2.63.1
-  - telegram-desktop 4.16.8
-  - thunderbird 115.11.0
-  - v2raya 2.2.5.1
-  - virtualbox 7.0.16
-  - vlc 3.0.20
-  - wine 9.0
-  - zsh 5.9
+- - ubuntu 24
+  - android-studio
+  - apt
+  - blender
+  - cargo
+  - cbonsai
+  - chromium 124
+  - code
+  - cowsay
+  - docker
+  - fcitx
+  - ffmpeg
+  - figlet
+  - firefox
+  - flatpak
+  - fortune
+  - g++
+  - gedit
+  - geogebra
+  - ghostscript
+  - gimp
+  - git
+  - gnome-baobab
+  - gnome-calculator
+  - gnome-characters
+  - gnome-deja-dup
+  - gnome-evince
+  - gnome-eyedropper
+  - gnome-nautilus
+  - gnome-newsflash
+  - gnome-solanum
+  - gnome-system-monitor
+  - gnome-terminal
+  - gnome-tuba
+  - gnome-weather
+  - goldendict
+  - inkscape
+  - jan
+  - jsdoc
+  - kdenlive
+  - kolourpaint
+  - krita
+  - libreoffice
+  - mdbook
+  - neofetch
+  - node
+  - npm
+  - obs-studio
+  - python3
+  - qbitorrent
+  - retroarch
+  - rustc
+  - rustup
+  - shotcut
+  - snap
+  - telegram-desktop
+  - thunderbird
+  - v2raya
+  - virtualbox
+  - vlc
+  - wine
+  - zsh
 - - android 11
-  - aegis-authenticator 3.3.4
-  - ankidroid 2.17.6
-  - antennapod 3.1.2
-  - bilimiao 2.3.8.3
-  - duolingo 6.11.4-mod
-  - eudic 9.3.1
-  - fcitx5-android 0.1.1
-  - gboard 15.2.03
-  - k9-mail 6.801
-  - legado 3.25
-  - material-files 1.4.2
-  - metro 6.1.0
-  - musicfree 0.5.1
-  - musictag 1.2.5.2
-  - nekogram 11.0.0
-  - oneplus-weather 1.8.5
-  - onscripter-yuri 0.7.4
-  - simplelive 1.7.3
-  - snapseed 2.19.1
-  - solid-explorer 2.8.60
-  - spotify 9.0.38.433-mod
-  - zuoyebang 14.22.0
-- - adguard 5.0.212
-  - authenticator 8.0.1
-  - bewlybewly 0.41.1
-  - buster 3.1.0
-  - simple-translate 3.0.0
-  - tampermonkey 5.3.3
-  - wakatime 4.0.12
-  - wayback-machine 3.4.2
-- - felicio.vscode-fold 1.4.3
-  - wakatime.vscode-wakatime 24.9.2
-  - yzhang.markdown-all-in-one 3.6.2
-  - esbenp.prettier-vscode 11.0.0
-  - xabikos.javascriptsnippets 1.8.0
-  - nathanchapman.javascriptsnippets 0.4.0
-  - formulahendry.code-runner 0.12.2
-  - rust-lang.rust-analyzer 0.3.2328
-  - tonybaloney.vscode-pets 1.31.0
+  - aegis-authenticator
+  - ankidroid
+  - antennapod
+  - bilimiao
+  - duolingo -mod
+  - eudic
+  - fcitx5-android
+  - gboard
+  - k9-mail
+  - legado
+  - material-files
+  - metro
+  - musicfree
+  - musictag
+  - nekogram
+  - oneplus-weather
+  - onscripter-yuri
+  - simplelive
+  - snapseed
+  - solid-explorer
+  - spotify -mod
+  - weiqibaodian
+  - xiaoyuansouti
+  - zuoyebang
+- - adguard
+  - authenticator
+  - bewlybewly
+  - buster
+  - simple-translate
+  - tampermonkey
+  - wakatime
+  - wayback-machine
+- - felicio.vscode-fold
+  - wakatime.vscode-wakatime
+  - yzhang.markdown-all-in-one
+  - esbenp.prettier-vscode
+  - xabikos.javascriptsnippets
+  - nathanchapman.javascriptsnippets
+  - formulahendry.code-runner
+  - rust-lang.rust-analyzer
+  - tonybaloney.vscode-pets
 - - lenovo yoga 13s acn 2021
   - smartisan revolution ii
   - oneplus buds 3
@@ -727,14 +734,12 @@
 
 > 和 llm 在一起久了, 就很想截断或者刷新输出, 人类做得到吗? (fira 倒是越来越想没说完一段话, 就截断, 然后说其 summary 了.)
 
-> 她在我这里可不是这样的哦!
-
 > 赛博盆栽
 
 > 好喜欢 duolingo 的 falstaff 啊, 有它出演的听力 f 都要听一听. 最后一句 "humans are always curious about ... we bears only cares ..." "humans always seem so concerned about flavors. in the wild if it's eatable it's good enough" "humans have specific requests for their meals. in the wild we just eat what's available. simpler and less fuss i think" daisuki. "welcome to the falstaff's guide to humans where i explore the strange world of humans"
 
 > majsoul!
->
+
 > osu!
 
 > free speech
@@ -750,3 +755,5 @@
 > "vibe coding"
 
 > ai is cool i guess
+
+> 声音太多, 未免有些失真. 但或许乐观来说, f 还是愿望相信, 那是些有心性的真人, 而不是琐碎的数字. 这并不令人悲伤. 因为即使是被操控的反应, f 也不知道谁能如何获利.
