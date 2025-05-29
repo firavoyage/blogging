@@ -15,6 +15,42 @@
  */
 let voyage = {
   /**
+   * @typedef {number} PropId
+   * the unique id of any prop, start from 0
+   */
+  /**
+   * @typedef {number} EffectId
+   * the unique id of any effect, start from 0
+   */
+  /**
+   * @typedef {Object} Effect
+   * @prop {function} effect
+   * @prop {function|false} cleanup
+   * @prop {Set<EffectId>} children nested effect
+   * @prop {Set<PropId>} deps dependencies
+   */
+  /**
+   * @type {Object}
+   * @prop {Map<EffectId, Effect>} effects
+   */
+  info: {
+    components: {},
+    props: new Map(),
+    propCount: 0,
+    passedProps: {},
+    effects: new Map(),
+    effectCount: 0,
+    parent: undefined,
+    status: "creating",
+    lifecycle: {
+      created: new Set(),
+      shown: new Set(),
+    },
+    preset: {},
+    styles: new Map(),
+    theme: "default",
+  },
+  /**
    * extended js standard library
    * @namespace lib
    * @memberof voyage
@@ -159,7 +195,7 @@ let voyage = {
       // Ensure it starts with a letter (CSS requirement)
       if (!isNaN(className[0])) {
         // Map numbers to letters (0-9 -> a-j)
-        const letterMap = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j'];
+        const letterMap = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"];
         className = letterMap[parseInt(className[0])] + className.slice(1);
       }
 
@@ -167,7 +203,7 @@ let voyage = {
       className = className.substring(0, length);
 
       return className;
-    }
+    },
   },
   /**
    * private methods
@@ -274,32 +310,36 @@ let voyage = {
     },
     /**
      *
-     * @param  {Array<string|object|Array|Node|function>} _
+     * @param  {Array<string|object|Array|Node|function>} element
      * @returns {Node|Fragment}
      */
-    create(_) {
+    create(element) {
       const { effect } = voyage;
       const { check, has } = voyage.lib;
       const { create, append, insert, remove } = voyage.methods;
 
-      let tag = "",
-        attrs = {},
-        content = [];
+      const compile = (element) => {
+        let tag = "",
+          attrs = {},
+          content = [];
 
-      // determine tag, attrs and content by template
-      if (check(_[0], "string")) {
-        if (
-          check(_[1], "object") &&
-          !check(_[1], Node) &&
-          !check(_[1], Array)
-        ) {
-          [tag, attrs, ...content] = _;
+        if (check(element[0], "string")) {
+          if (
+            check(element[1], "object") &&
+            !check(element[1], Node) &&
+            !check(element[1], Array)
+          ) {
+            [tag, attrs, ...content] = element;
+          } else {
+            [tag, ...content] = element;
+          }
         } else {
-          [tag, ...content] = _;
+          content = element;
         }
-      } else {
-        content = _;
-      }
+        return [tag, attrs, content];
+      };
+
+      const [tag, attrs, content] = compile(element);
 
       const node = tag == "" ? [] : document.createElement(tag);
 
@@ -341,6 +381,12 @@ let voyage = {
               node.addEventListener("input", () => {
                 content(node.value);
               });
+            },
+            style() {
+              // for style used first time
+              // compute class using murmurhash and append style element
+              // ...
+              // append class to node
             },
           };
           if (has(macros, event)) {
@@ -466,39 +512,6 @@ let voyage = {
       }
 
       info.parent = parent;
-    },
-  },
-  /**
-   * @typedef {number} PropId
-   * the unique id of any prop, start from 0
-   */
-  /**
-   * @typedef {number} EffectId
-   * the unique id of any effect, start from 0
-   */
-  /**
-   * @typedef {Object} Effect
-   * @prop {function} effect
-   * @prop {function|false} cleanup
-   * @prop {Set<EffectId>} children nested effect
-   * @prop {Set<PropId>} deps dependencies
-   */
-  /**
-   * @type {Object}
-   * @prop {Map<EffectId, Effect>} effects
-   */
-  info: {
-    components: {},
-    props: new Map(),
-    propCount: 0,
-    passedProps: {},
-    effects: new Map(),
-    effectCount: 0,
-    parent: undefined,
-    status: "creating",
-    lifecycle: {
-      created: new Set(),
-      shown: new Set(),
     },
   },
   props(defaultProps = {}) {
@@ -736,11 +749,23 @@ let voyage = {
     Object.assign(components, library);
   },
   define(preset) {
-    
+    const { info } = voyage;
+    // extract data from preset
+    const { themes, rules, shortcuts, variants, prefights } = preset;
+    // process theme and set theme variables on root
+    const { colors, sizes, fonts } = themes;
+    // toggle theme
+    document.documentElement.classList.toggle(info.theme);
+
+    // define preset
   },
   switch(theme) {
-
-  }
+    const { info } = voyage;
+    // remove old theme class on root
+    document.documentElement.classList.toggle(info.theme);
+    // toggle new theme class on root
+    // document.documentElement
+  },
 };
 
 const { props, effect, t, h, html, show, each, load } = voyage;
@@ -968,4 +993,3 @@ load(examples);
 voyage.run(examples.Counter, "body");
 
 // todo styling with preset
-

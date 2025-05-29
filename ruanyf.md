@@ -7829,17 +7829,127 @@ In competitive programming (OI, or Olympiad in Informatics), variable naming sho
 
 -- [Alex Komoroske](https://docs.google.com/document/u/0/d/1GrEFrdF_IzRVXbGH1lG0aQMlvsB71XihPPqQN-ONTuo/mobilebasic)，美国程序员
 
+## low cost programming violates the form follows function rule
+
+`dev` `view`
+
+低代码编程，恐怕不会成功
+
+这十几年，一批批程序员前仆后继，去搞低代码编程（包括无代码编程）。光在我身边，就有三四批。
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031208.webp)
+
+他们搞的低代码编程，我理解就是通过图形界面，拖拉各种组件，自动生成软件 UI 的底层代码，减少手工编码。
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031210.webp)
+
+这个想法很好，确实很多人需要，尤其不懂编程的人，这简直是生成程序的唯一可用方式。
+
+但是很奇怪，他们无一例外都失败了，开发出来的低代码工具，开始还有一些好奇的用户，很快就不来了，用户越来越少，后来即使开源了，也没人用。
+
+更奇怪的是，这似乎不是偶然现象，业界所有的低代码工具好像都不成功，至少我想不出成功的例子，哪一个受欢迎的应用程序是用低代码工具生成的。
+
+它的背后有什么原因吗？是哪里没有做对，还是低代码编程本身就不可行？
+
+我一直没有想通这个问题。虽然不看好，但是依然抱有一丝幻想，也许某一天醒来，低代码编程就成了主流，无论手机 App 还是桌面应用，鼠标拖几下，就可以生成。
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031209.webp)
+
+直到上周，我读到一篇文章[《低代码编程受困于形式》](https://interjectedfuture.com/visual-programming-is-stuck-on-the-form/)（下图），才恍然大悟，低代码编程有先天缺陷，恐怕不会成功。
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031211.webp)
+
+文章说，优秀的作品都是形式（form）和功能（function）的统一。形式必须服从功能，功能决定了形式，英文叫做"form follows function"。
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025031212.webp)
+
+对于优秀的程序员，只要弄清楚了底层，UI（用户界面）就会显而易见。
+
+低代码编程的问题在于，它是先有 UI（形式），再有代码（功能）。
+
+用户先拖拉生成 UI，系统再根据 UI 生成代码。这是本末倒置，让底层代码适配 UI，注定了两者都有问题：UI 是空想出来的，代码为了适配 UI，注定冗余和低效。
+
+所以，优秀的软件不可能用这种方式生成，低代码编程不会成功。
+
+我认为，他说的很有道理。低代码编程解决不了这个根本缺陷，适用场景有限，大概只适合一些简单任务，或者生成原型，不会成为主流工具。程序员应该谨慎开发这类工具，付出的劳动很可能打水漂。
+
+写到这里，问题就来了：AI 算不算低代码编程（或者无代码编程）？如果低代码编程不会成功，那么 AI 编程会成功吗？
+
+我认为，AI 不同于低代码编程。低代码编程是使用者给出 UI，系统来生成代码，而 AI 是系统同时生成 UI 和代码，用户只需要说出需求即可。
+
+这种情况下，形式与功能的结合，完全取决于 AI 的能力。如果有一天，AI 视频能够成功，画面美，情节好，那么 AI 编程大概也会成功，生成形式与功能统一的应用程序。
+
+## math is running out of problems
+
+`dev` `career` `view` `ref`
+
+我认为，数学本质上已经没有什么好问题了。让大量数学家感兴趣的问题数量每年都在减少，而且几乎所剩无几。
+
+现代数学研究越来越局限于少数人对某个特定主题的研究，即使是研究生也常常被现代数学问题的极端专业性和深奥性所困扰。
+
+未来的研究生不应再需要证明一些全新的东西，相反地，他们的主要目标可能是简化过去的研究结果。
+
+-- [《数学已经没有问题了》](https://medium.com/@jpolak/math-is-running-out-of-problems-14f2911fa46b)
+
+---
+
+https://web.archive.org/web/20240716131045/https://medium.com/@jpolak/math-is-running-out-of-problems-14f2911fa46b
+
+## the sorrow of programmers is to compromise the complexity 
+
+`dev` `career` `misc` `ref` `essay`
+
+程序员最大的悲哀是什么？
+
+hzwer 黄哲威
+
+发布于 2024-11-12 18:58 ，编辑于 2024-11-13 14:55
+
+**向复杂性妥协的宿命**
+
+---
+
+(hzwer.md)
+
+## new image generator gpt 4o
+
+`app` `ai` 
+
+GPT-4o 惊人的作图功能
+
+上个月，OpenAI 开放了 GPT-4o 模型的文生图功能。
+
+它的效果非常惊人，其中一个效果是将照片转成吉卜力风格的卡通图，立刻就风靡了网络。
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025032905.webp)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025032906.webp)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025032909.webp)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025032910.webp)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025032912.webp)
+
+它还能将画像变成真人照片，我觉得效果也很惊人。下面是孔子、[千与千寻](https://x.com/yetone/status/1904999754163191844)的真人效果图。
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025032915.webp)
+
+![](https://cdn.beekka.com/blogimg/asset/202503/bg2025032907.webp)
+
+另外，还有人用它生成[室内装潢效果图](https://x.com/sherwinwu/status/1904620108389212413)，下图是装潢前的房间。
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025040101.webp)
+
+如果想装一个镶嵌入墙壁的书架，你可以让模型可以生成预览图。
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025040102.webp)
+
+总之，它的用途非常多，导致使用量巨大，OpenAI 不得不限制使用 GPT-4o 的作图功能，目前只开放给付费用户，未来将开放给免费用户。
+
 ##
 
 
-
-##
-
-##
-
-##
-
-##
 
 ##
 
