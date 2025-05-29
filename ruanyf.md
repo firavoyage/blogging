@@ -7947,13 +7947,17 @@ GPT-4o 惊人的作图功能
 
 总之，它的用途非常多，导致使用量巨大，OpenAI 不得不限制使用 GPT-4o 的作图功能，目前只开放给付费用户，未来将开放给免费用户。
 
+## simple and elegance depends on tight discipline
+
+`dev` `quote`
+
+简单和优雅不受欢迎，因为它们需要努力工作和纪律才能实现。
+
+-- [Edsger Dijkstra](https://github.com/tigerbeetle/tigerbeetle/blob/main/docs/TIGER_STYLE.md)，著名计算机科学家
+
 ##
 
 
-
-##
-
-##
 
 ##
 

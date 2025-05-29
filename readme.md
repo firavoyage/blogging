@@ -362,14 +362,27 @@
   - zhi mang xing
 - - ubuntu 24
   - android-studio
-  - apt
   - blender
   - cargo
   - cbonsai
   - chromium 124
+    - adguard
+    - authenticator
+    - bewlybewly
+    - simple-translate
+    - tampermonkey
+    - wakatime
+    - wayback-machine
   - code
+    - esbenp.prettier-vscode
+    - felicio.vscode-fold
+    - formulahendry.code-runner
+    - nathanchapman.javascriptsnippets
+    - rust-lang.rust-analyzer
+    - wakatime.vscode-wakatime
+    - xabikos.javascriptsnippets
+    - yzhang.markdown-all-in-one
   - cowsay
-  - docker
   - fcitx
   - ffmpeg
   - figlet
@@ -399,7 +412,6 @@
   - inkscape
   - jan
   - jsdoc
-  - kdenlive
   - kolourpaint
   - krita
   - libreoffice
@@ -412,9 +424,7 @@
   - qbitorrent
   - retroarch
   - rustc
-  - rustup
   - shotcut
-  - snap
   - telegram-desktop
   - thunderbird
   - v2raya
@@ -447,23 +457,6 @@
   - weiqibaodian
   - xiaoyuansouti
   - zuoyebang
-- - adguard
-  - authenticator
-  - bewlybewly
-  - buster
-  - simple-translate
-  - tampermonkey
-  - wakatime
-  - wayback-machine
-- - felicio.vscode-fold
-  - wakatime.vscode-wakatime
-  - yzhang.markdown-all-in-one
-  - esbenp.prettier-vscode
-  - xabikos.javascriptsnippets
-  - nathanchapman.javascriptsnippets
-  - formulahendry.code-runner
-  - rust-lang.rust-analyzer
-  - tonybaloney.vscode-pets
 - - lenovo yoga 13s acn 2021
   - smartisan revolution ii
   - oneplus buds 3
