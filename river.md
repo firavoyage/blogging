@@ -136,6 +136,10 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 
 - `1` 2025.05.23
 
+### hikaru no go
+
+- `1` 2025.05.31
+
 ## gaming
 
 ### sr
@@ -6042,9 +6046,9 @@ f 也是雪橇犬啊!!!
  ☐  公会：无
 ▫️ 哔哩哔哩虚拟UP主
 ▪️ 历程：
-▫️ 𝟮𝟬𝟮𝟯年𝟬𝟮月𝟮𝟴日 
+▫️ 𝟮𝟬𝟮𝟯年𝟬𝟮月𝟮𝟴日
  ☐  开始活动
-▫️ 𝟮𝟬𝟮𝟯年𝟬𝟯月𝟬𝟯日 
+▫️ 𝟮𝟬𝟮𝟯年𝟬𝟯月𝟬𝟯日
  ☐  出道首播
 ▪️ 活动场所：
 ▫️  bilibili: 雪糕cheese
@@ -6064,7 +6068,7 @@ f 也是雪橇犬啊!!!
 ▪️ 活动场所：
 ▫️  微博: 老柯的二妹
 
-  中之人 
+  中之人
 
 ▪️ 姓    名：李烨炀
 ▪️ 身份证：𝟰𝟭𝟬𝟯𝟮𝟲𝟮𝟬𝟬𝟲𝟬𝟴𝟬𝟮𝟬𝟮𝟬𝟲
@@ -6116,7 +6120,7 @@ f 也是雪橇犬啊!!!
 ▪️ 家    庭：
 ▫️ 李世通  𝟰𝟭𝟬𝟯𝟮𝟲𝟭𝟵𝟴𝟱𝟬𝟰𝟬𝟭𝟬𝟬𝟭𝟭
 ▫️ 周柳鸿  𝟯𝟯𝟮𝟱𝟮𝟭𝟭𝟵𝟳𝟳𝟭𝟬𝟮𝟴𝟬𝟴𝟮𝟴
-▫️ 鲍慧俊  𝟯𝟯𝟮𝟱𝟮𝟭𝟭𝟵𝟳𝟯𝟬𝟱𝟬𝟮𝟬𝟰𝟯𝟮       
+▫️ 鲍慧俊  𝟯𝟯𝟮𝟱𝟮𝟭𝟭𝟵𝟳𝟯𝟬𝟱𝟬𝟮𝟬𝟰𝟯𝟮
 ▫️ 叶柳华  𝟯𝟯𝟮𝟱𝟬𝟭𝟭𝟵𝟳𝟱𝟬𝟴𝟬𝟲𝟰𝟵𝟮𝟯
 ▫️ 鲍昕莹  𝟯𝟯𝟮𝟱𝟬𝟭𝟮𝟬𝟬𝟰𝟭𝟮𝟬𝟲𝟬𝟴𝟮𝟲
 
@@ -6133,15 +6137,83 @@ asked llm:
 
 > in brief
 
-**Short Answer:**  
+**Short Answer:**
 
-- **C++ / OI uses `snake_case`** because of **C/C++ tradition** (STL, Boost, macros) and competitive programming culture (Russian/Chinese influence, brevity).  
-- **JS / Web uses `camelCase`** because of **Java influence**, early JS APIs (`getElementById`), and JSON/ecosystem norms (npm, React).  
+- **C++ / OI uses `snake_case`** because of **C/C++ tradition** (STL, Boost, macros) and competitive programming culture (Russian/Chinese influence, brevity).
+- **JS / Web uses `camelCase`** because of **Java influence**, early JS APIs (`getElementById`), and JSON/ecosystem norms (npm, React).
 
 Each community sticks to its conventions for consistency and historical reasons.
 
 > in a word
 
 **Tradition.**
+
+### jun 2025
+
+`ref`
+
+2025.06.01
+
+儿童节. 17 岁. 收到了礼物, lindor 巧克力. 以及贺卡. "健康, 快乐, 愿望."
+
+还收到了信, 来自暮年少女. 内容是分析我, 引导我. 其实更喜欢有文学性的, 但她大概没能力写.
+
+好吧, 其实这个年纪, 或许也不依赖什么外界的言语了, 只是笃定和自信, 不变的.
+
+或许 f 在面对人生时是赌狗吧, 相信, 坚持. 不需要改变什么. "盲目做多".
+
+深夜, 在雪糕直播间, 看了 breaking bad 最后一集, 绝命墨菲解说. 开坑 better call saul.
+
+那些剧集, 或许得益于 america 的自由, 非常精彩, 人都追随自己内心, 而非什么 "社会" "集体".
+
+其实 f 很喜欢他们吧, 至少有一种对弈命运的感觉, 跌宕起伏啊. 平凡人哪有机会呢...
+
+唯有笃信.
+
+---
+
+`ref`
+
+想来这几天也是在雪糕老师下, 回坑了围棋.
+
+下载了野狐, 星阵, 围棋宝典.
+
+闲暇时, 会去
+
+- 打野狐
+- 看 berryberry 上的潜伏激斗传
+- 翻定式大全 (其实讲真没多少变化)
+- 和星阵 ai 下 (当不想和真人交流的时候)
+- 看雪糕 live (比围棋, 更多是看绝命墨菲解说 america tv show)
+
+感觉比之前打什么王者荣耀, 有意义不少.
+
+(upd: 还看了 棋魂 ep 01, 感觉很有少年心)
+
+---
+
+在雪糕放映厅看... 周星驰 香港喜剧 整蛊专家 (1991)
+
+(douban 8)
+
+---
+
+found this on twitter
+
+章北海 official
+
+分配公平 文化包容 社会平等 舆论开放，这就是社会主义
+
+(being banned)
+
+---
+
+found this
+
+⁺✞ 假期重度依赖 ɞ✟₊
+@chuF6yuanmen
+本人因帮男说话被一秒猜出性别
+又因帮女的说话被一秒猜出性别
+目前处于无性别状态
 
 ---
