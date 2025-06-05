@@ -13,6 +13,67 @@
 
 > things, not schedule.
 
+## 20250603
+
+### _foresight_
+
+- learn japanese on duolingo
+- practice math
+- learn & play go
+- watch simplelive
+- watch the melancholy of haruhi suzumiya
+- surf zhihu / berryberry / twitter
+- create pre / material app
+
+### _day_
+
+- learn japanese on duolingo
+- memorize japanese words on anki
+- return homes in ba ak
+
+### _night_
+
+- watch simplelive
+- watch the melancholy of haruhi suzumiya
+- watch evangelion
+- watch bocchi the rock
+
+### _enlightenment_
+
+- write math wiki
+- learn on luogu
+- create videos using pre and material
+
+### _drift_
+
+- practice math on guide pioneer
+- practice physics / chemistry on one lesson one exercise
+- read mathematics, no 2 secondary school attached to ecnu
+- read mathematical olympiad series
+
+### _endeavour_
+
+- write voyagejs
+- design component libraries
+- create pre / material app
+- create eat / float / leisure app
+- create world goods list
+
+### _diversion_
+
+- learn & play go on foxwq / golaxy / tales of qianfu battles / go bible
+- surf zhihu / berryberry / twitter
+- play majsoul
+- read ba stories
+- play senrenbanka
+- create origami following chen xiao's guide
+
+### _rest_
+
+- listen to j-pop / rock
+- play antennapod
+- sync with the phone
+
 ## 20250511
 
 ### _foresight_

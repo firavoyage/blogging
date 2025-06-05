@@ -12,11 +12,9 @@
 
 > _忘 我 思 考_
 
-- a developer, writer, wikipedian
+- a developer, content creator, wikipedian
 - grew up in shanghai
 - on the internet since 2019, which is my actual "home town"
-- live in the bay area
-- working on voyage project
 
 ## desiderata
 
@@ -27,7 +25,10 @@
 
 ## perception
 
-- - lipton black tea
+<!-- todo: memories/blogs -->
+
+- flavors
+  - lipton black tea
   - frey dark chocolate bars
   - lays classic potato chips
   - kentucky fried chicken
@@ -41,14 +42,16 @@
   - dried mango
   - chenpi
   - huamei
-- - j-pop · rock · folk · jazz · classical
+- lifestyles
+  - j-pop · rock · folk · jazz · classical
   - calendar · wall clock
   - life size waifu pillow · origami · pixel art · gardening
   - anime · visualnovels · unixporn · mtf · virtualyoutubers
   - math · algorithms · ai · web dev · threejs · cpp · python · rust
   - dark style · night light · low brightness · tranquility
   - cynicism · dissociation · inner speech · second person omniscient narration
-- - ace taffy
+- personas
+  - ace taffy
   - antfu
   - azi azusa
   - bradwoods
@@ -56,9 +59,12 @@
   - chiyuki0325
   - chriscoyier
   - chtholly nota seniorious
+  - cldeop
+  - codingstartup
   - dbinary matrixcascade
   - diygod
   - elleflorio
+  - end3r
   - falstaff duolingo
   - funshiki
   - gaearon dan abramov
@@ -78,11 +84,13 @@
   - jingsheng237248
   - jiongks
   - jjying
+  - johann sebastian bach
   - joshwcomeau
   - juliangarnier
   - kagura mea
   - kalasoo
   - kasugano sora
+  - ke jie
   - keyboard cat
   - kkksc03
   - konata izumi
@@ -90,6 +98,7 @@
   - leanrada kalabasa
   - lei bro gaming
   - liangxihuigui
+  - lionleaf
   - livid v2ex
   - matikane tannhauser
   - matrix67
@@ -112,6 +121,7 @@
   - seren azuma
   - share121
   - shengxj1
+  - shiffman
   - snack life
   - sparkle
   - takanashi hoshino
@@ -127,6 +137,7 @@
   - vtbs_irl
   - wanderer above the sea of fog
   - wesbos
+  - whyyoutouzhele
   - wukan wukan.me
   - xiaoyaocz
   - xkcd
@@ -137,7 +148,10 @@
   - yuuki sakuna
   - yxc acwing
   - zhou xuanyi
-- - hotel california (eagles)
+- albums
+  - heisei anisong taisho
+  - kyoto animation
+  - hotel california (eagles)
   - crazy world (scorpions)
   - humanity hour 1 (scorpions)
   - parsley, sage, rosemary and thyme (simon & garfunkel)
@@ -148,8 +162,6 @@
   - a momentary lapse of reason (pink floyd)
   - the division bell (pink floyd)
   - the dark side of the moon (pink floyd)
-  - heisei anisong taisho (playlist)
-  - kyoto animation (playlist)
   - neon genesis evangelion (shiro sagisu)
   - the girl who fell from the sky (joe hisaishi)
   - yosuga no sora ost (manack & eufonius & bruno wen li)
@@ -174,7 +186,8 @@
   - fantasy (jay chou)
   - tui yi de ni (menci & wxh010910 & yan qval & krydom & niro bc & wer key tom_ftd & \_\_stdcall & created_equal & whzzt & wy1627)
   - qun ding (mi feng chu)
-- - spirited away (2001)
+- movies
+  - spirited away (2001)
   - goodbye mr. loser (2015)
   - soul (2020)
   - the shawshank redemption (1994)
@@ -196,21 +209,26 @@
   - wild tales (2014)
   - the big short (2019)
   - the truman show (1998)
-  - .princess mononoke (1997)
+  - princess mononoke (1997)
+  - tricky brains (1991)
   - .the disappearance of haruhi suzumiya (2010)
-- - tom and jerry (1940)
+- series
+  - tom and jerry (1940)
   - in solitude where we are least alone (2010)
   - worldend: what do you do at the end of the world? are you busy? will you save us? (2017)
   - lucky star (2007)
   - neon genesis evangelion (1995)
   - girls band cry (2024)
+  - the melancholy of haruhi suzumiya (2009)
+  - breaking bad (2012)
+  - hikaru no go (2001)
+  - better call saul (2015)
   - .date a live (2013)
   - .sword art online (2012)
   - .bocchi the rock (2022)
   - .bang dream! it's mygo!!!!! (2023)
   - .k-on! (2009)
   - .frieren: beyond journey's end (2023)
-  - .the melancholy of haruhi suzumiya (2006)
   - .a certain scientific railgun (2009)
   - .re: zero - starting life in another world (2016)
   - .tonikawa: over the moon for you (2020)
@@ -225,7 +243,8 @@
   - .white album (2009)
   - .spongebob squarepants (1999)
   - .reply 1988 (2015)
-- - angry birds (2009)
+- games
+  - angry birds (2009)
   - minecraft (2011)
   - soul knight (2017)
   - genshin impact (2020)
@@ -268,18 +287,21 @@
   - .split fiction (2025)
   - .inzoi (2025)
   - .vrchat (2014)
-- - google · chatgpt · gemini · deepseek · mistral ai
-  - wikipedia · miraheze · fandom · moegirl.icu · oi wiki
+- sites
+  - google · chatgpt · gemini · deepseek · mistral ai
+  - wikipedia · miraheze · fandom · moegirl.icu · oi wiki · mdn
   - internet archive · archive.today · the pirate bay · z library · anna's archive
   - youtube · berryberry · acfun · niconico · vtbs.moe · hololist
-  - reddit · hacker news · twitter · zhihu · nga bbs · baidu tieba · v2ex · github trending · product hunt
-  - ruanyf weekly · tw93 weekly · gamedevjs weekly · codepen spark
+  - reddit · twitter · zhihu · nga bbs · baidu tieba
+  - hacker news · v2ex · github trending · product hunt
+  - ruanyf weekly · tw93 weekly · gamedevjs weekly · codepen spark · the coding train
   - douban · imdb · bangumi.tv · my anime list · bgmlist · mikan project · nyaa.si · dmhy.org · zimuku · yuc.wiki · wotaku.wiki
   - pixiv · deviantart · civitai · e hentai · dribbble · unsplash
   - steam db · itch.io · google doodles · vndb · shinnku galgame · kungal · touchgal
   - codeforces · atcoder · luogu · libre oj · project euler
   - travellings.cn · foreverblog.cn · travel.moe · acmer.info
-- - to live (yu hua)
+- books
+  - to live (yu hua)
   - road ahead (ruan yifeng)
   - the water level of ideology (liu yu)
   - meditations on life (zhou guoping)
@@ -312,12 +334,12 @@
   - .remarks on the song lyric and the human condition (wang guowei)
   - .the literary mind and the carving of dragons (liu xie)
   - .the smiling, proud wanderer (jin yong)
-- - anyway.fm (jj ying & leon gao)
+- podcasts
+  - anyway.fm (jj ying & leon gao)
   - beyond code (randy lu & geek plux)
   - fyfy.fm (justin yan & hzlzh)
   - hard hacker (yixiao & 0xsaito & anson)
   - lex fridman podcast (lex fridman)
-  - li dan (li dan)
   - mindhub by product thinking (shaonan & fonter & mengna)
   - pan.icu (wu tao & rio)
   - stochastic volatility (zhiqi & shiye)
@@ -326,16 +348,19 @@
   - web worker (xinbao & lv777 & pakchoi & kaiyi & smart)
   - xie xing liao tian hui (dan li ren comedy)
   - yixi (yixi)
-- - ubuntu yaru
+- themes
+  - ubuntu yaru
   - material design 2 & 3
   - iphone os 6
+  - smartisan os
   - oxygen os 11
   - dracula theme
   - nord theme
   - monokai pro
   - atom one dark
   - just black chromium
-- - ar pl ukai
+- fonts
+  - ar pl ukai
   - cuprum
   - dejavu serif
   - fira code
@@ -360,7 +385,7 @@
   - ubuntu sans
   - xiaolai
   - zhi mang xing
-- - ubuntu 24
+- on ubuntu 24
   - android-studio
   - blender
   - cargo
@@ -432,15 +457,17 @@
   - vlc
   - wine
   - zsh
-- - android 11
+- on android 11
   - aegis-authenticator
   - ankidroid
   - antennapod
   - bilimiao
   - duolingo -mod
+  - ehviewer
   - eudic
   - fcitx5-android
   - gboard
+  - jmcomic
   - k9-mail
   - legado
   - material-files
@@ -457,12 +484,8 @@
   - weiqibaodian
   - xiaoyuansouti
   - zuoyebang
-- - lenovo yoga 13s acn 2021
-  - smartisan revolution ii
-  - oneplus buds 3
-  - oppo enco free 3
 
-## strength
+## flyleaf
 
 - as human beings it is our right (maybe our moral duty) to reshape the universe to our preferences
   - technology, which is really knowledge, enables this
@@ -487,7 +510,7 @@
 - stay focused, keep shipping
   - build early, build always
   - improve yourself, write solid/simple/stupid code
-  - live in the future and build what's missing
+- live in the future and build what's missing
 - i do not know what i may appear to the world
   - but to myself i seem to have been only like a boy playing on the sea-shore
   - and diverting myself in now and then finding a smoother pebble or a prettier shell than ordinary
@@ -509,13 +532,6 @@
   - and that has made all the difference
 - again, you can't connect the dots looking forward; you can only connect them looking backwards
   - so you have to trust that the dots will somehow connect in your future
-- if i make, like, three good decisions a day, that's enough
-  - and they should be as high quality as i can make them
-  - warren buffett says he's good if he makes three good decisions a year
-- if it looks like a duck
-  - swims like a duck
-  - and quacks like a duck
-  - then it probably is a duck
 - many years later as he faced the firing squad
   - colonel aureliano buendía was to remember that distant afternoon
   - when his father took him to discover ice
@@ -531,22 +547,18 @@
 - idle mode... _yawn_ how boring.
   - if you're not solving problems or writing up contributions
   - then don't blame me if your life is boring
-- on the still waters of oblivion
-  - i guide the wandering souls
 - for oft, when on my couch i lie
   - in vacant or in pensive mood
   - they flash upon that inward eye
   - which is the bliss of solitude
   - and then my heart with pleasure fills
   - and dances with the daffodils
-- soli deo gloria.
-  - god is light, and in him there is no darkness at all.
+- god is light, and in him there is no darkness at all.
   - if we say we have fellowship with him yet walk in the darkness, we lie and do not practice the truth.
   - but if we walk in the light as he is in the light, we have fellowship with one another, and the blood of jesus his son cleanses us from all sin.
 - memento mori.
-  - character is destiny
 
-## flowers
+## backyard
 
 - 遂迷不复得路
 - 从流飘荡 任意东西
@@ -586,51 +598,46 @@
 - 庭有枇杷树 今已亭亭如盖矣
 - 子非我 安知我不知鱼之乐
 
-## erudition
+## compass
 
-- troves
-  - `ruanyf` observation of the digital time
-- lights
+### repos
+
+- `blogging` gardener
+  - `/favorites` collector
+  - `/lights` learner
+  - `/notes` librarian
+  - `/source` programmer
+  - `/voyagejs` developer
+  - `/config` geek
+  - `/fira` youtuber
+  - `/pure` `/intuitive` peer
+  - `/self` avatar
+- `school` photographer
+- `lucky` otaku
+- `web` (legacy) archivist
+- `music` (legacy) listener
+- `fonts` designer
+
+### here, in `blogging`
+
+- `ruanyf` observation of the digital time
+- `river` some smoother pebbles
+- `weekly` everyday life
+- `projects` wonders and endeavors
+- `ubuntu` digital home decor
+- `blackboard` wax and wane
+- `quotes` (legacy) excerpts of the internet
+- `comments` (legacy) trival things i have heard as a student
+- `wisdom` (legacy) stuff in the mind flow
+- `mistral` (legacy) walk in the light with llm
+- `/lights`
   - `livid` letter to the solitary youth
   - `nat` belief of a tech entrepreneur
   - `florio` advice for the programming ride
   - `jiangyanyan` confused cs graduates in the time
   - ...
-- ideas
-  - `projects` worthwhile endeavours
-  - `quotes` collection of the surfer
-  - `mistral` walk in the light with le chat
-- albums
-  - `river` the polished stones
-  - `weekly` works and wonders
-  - `ubuntu` digital home decor
-  - `blackboard` wax and wane
-  - `comments` what i have heard as a student
-  - `wisdom` snapshots of the mind flow
-  - `fin` words at the end of the day
 
-## gamut
-
-- `blogging` gardener
-- `blogging/favorites` collector
-- `blogging/lights` learner
-- `blogging/notes` librarian
-- `blogging/source` programmer
-- `blogging/voyagejs` developer
-- `blogging/config` geek
-- `blogging/fira` youtuber
-- `blogging/pure` `blogging/intuitive` peer
-- `memories/perspective` surfer
-- `memories/insight` sojourner
-- `memories/gaming` player
-- `school` photographer
-- `lucky` otaku
-- `web` archivist
-- `music` audience
-- `fonts` calligrapher
-- `self` avatar
-
-## projections
+## projection
 
 > `firavoyage` · `firascript` · `"忘我思考"`
 
@@ -750,3 +757,9 @@
 > ai is cool i guess
 
 > 声音太多, 未免有些失真. 但或许乐观来说, f 还是愿望相信, 那是些有心性的真人, 而不是琐碎的数字. 这并不令人悲伤. 因为即使是被操控的反应, f 也不知道谁能如何获利.
+
+> brilliant.
+
+> literally!
+
+> 前些年的何同学, 人生似乎有无限的可能性. 为什么路就好像越来越窄了呢, 什么投掷器, 拆解特效, 重复... 先验的世界里, 大人们的生活总是一眼望到头. 残念啊...

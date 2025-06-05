@@ -7895,7 +7895,7 @@ In competitive programming (OI, or Olympiad in Informatics), variable naming sho
 
 https://web.archive.org/web/20240716131045/https://medium.com/@jpolak/math-is-running-out-of-problems-14f2911fa46b
 
-## the sorrow of programmers is to compromise the complexity 
+## the sorrow of programmers is to compromise the complexity
 
 `dev` `career` `misc` `ref` `essay`
 
@@ -7913,7 +7913,7 @@ hzwer 黄哲威
 
 ## new image generator gpt 4o
 
-`app` `ai` 
+`app` `ai`
 
 GPT-4o 惊人的作图功能
 
@@ -7955,9 +7955,161 @@ GPT-4o 惊人的作图功能
 
 -- [Edsger Dijkstra](https://github.com/tigerbeetle/tigerbeetle/blob/main/docs/TIGER_STYLE.md)，著名计算机科学家
 
+## webgl fluid animation by cursor ai
+
+`ai` `js` `image`
+
+[SimonAKing-HomePage](https://github.com/SimonAKing/HomePage)
+
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025050603.webp)
+
+一个使用 WebGL 流体动画的个人网站模版。（[@SimonAKing](https://github.com/ruanyf/weekly/issues/6790)  投稿）
+
+---
+
+https://x.com/simon_aking/status/1918507956561166592
+
+## static artworks from ghibli works
+
+`art` `ref`
+
+[吉卜力电影的高清图](https://www.ghibli.jp/works/)
+
+![](https://cdn.beekka.com/blogimg/asset/202504/bg2025043004.webp)
+
+吉卜力工作室的官网，放出了它们几乎所有电影的几百张高清图。
+
+## the future of web dev
+
+`dev` `meme`
+
+[Web 开发的未来](https://alex.party/posts/2025-05-05-the-future-of-web-development-is-ai-get-on-or-get-left-behind/)
+
+这篇文章发布于 25 年前，现在的标题如下。
+
+> Web 开发的未来是 AI，要么加入，要么落后
+
+历史上，我曾经多次修改标题。为了便于后人参考，我把它们依次列在下面。
+
+> Web 开发的未来是区块链，要么加入，要么落后
+>
+> Web 开发的未来是 CSS-in-JS，要么加入，要么落后
+>
+> Web 开发的未来是渐进式应用，要么加入，要么落后
+>
+> Web 开发的未来是 Silverlight，要么加入，要么落后
+>
+> Web 开发的未来是 XHTML，要么加入，要么落后
+>
+> Web 开发的未来是 Flash，要么加入，要么落后
+>
+> Web 开发的未来是 ActiveX，要么加入，要么落后
+>
+> Web 开发的未来是 Java 小程序，要么加入，要么落后。
+
+文章的正文一直不变。
+
+> 如果你不使用这项技术，那你就是在搬起石头砸自己的脚。
+>
+> 它在未来一定会占据主导地位，发挥重要作用。如果你不使用它，你就会失业。它解决了我们遇到的所有开发问题。
+>
+> 购买我的 5000 元课程，我来教你，如何学会它。
+
+## the keyword vibe coding
+
+`dev` `quote` `meme`
+
+上个月的流行词是"氛围编码"（vibe coding），本月的流行词就是 MCP 了。
+
+-- [《我的 AI 笔记》](https://levelup.gitconnected.com/mission-impossible-managing-ai-agents-in-the-real-world-f8e7834833af)
+
+## semantic url on slack about page
+
+`dev` `meme`
+
+[Slack 公司的 URL](https://blog.jim-nielsen.com/2023/examples-of-great-urls/)
+
+Slack 是一家即时通信的软件公司。它的官网有一个"公司介绍"的页面，通常来说该页面的 URL 会是`slack.com/about`，但是 Slack 没有采用这种做法。
+
+它将这个页面命名为`is`，并分拆成若干个子页面。
+
+所以，"公司介绍"页面的 URL 是`slack.com/is`。
+
+子页面的 URL 如下。
+
+> - slack.com/is/team-communication
+> - slack.com/is/everything-in-one-place
+> - slack.com/is/wherever-you-are
+
+这样的好处是单单看 URL，就知道页面想要传递的信息，URL 本身就是对公司的一种宣传。
+
+这种 is 的巧妙做法，后来被广泛借鉴。碰巧的是，`is`也正好是一个顶级域名，代表冰岛（iceland）。很多名人就申请了 is 域名，作为个人主页。
+
+比如，艺术家杰西卡-希斯切（Jessica Hische）的个人网站，域名就是`jessicahische.is`，她介绍自己的页面 URL 就都是`jessicahische.is/xxx`的形式。
+
+## welcome to a calmer internet by zen browser
+
+`dev` `meme`
+
+[Zen Browser](https://github.com/zen-browser/desktop)
+
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025052202.webp)
+
+新发布的一个开源浏览器，基于 Firefox，国外评价非常高，使用体验好，参见[介绍文章](https://www.xda-developers.com/zen-browser-better-brave-arc-chrome/)。
+
+## ruanyf weekly ai summarizer
+
+`dev` `ai` `feed`
+
+[周刊 AI 总结器](https://blog.ronething.cn/ruanyf-weekly-insights/)
+
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025052903.webp)
+
+AI 提炼的每一期周刊重点内容，[代码开源](https://github.com/ronething/ruanyf-weekly-insights)。（[@ronething](https://github.com/ruanyf/weekly/issues/6950)  投稿）
+
+## japanese sentence analyzer
+
+`ai` `text`
+
+[日本語文章解析器](https://github.com/cokice/japanese-analyzer)
+
+![](https://cdn.beekka.com/blogimg/asset/202505/bg2025052604.webp)
+
+日语句子分析的网站。（[@cokice](https://github.com/ruanyf/weekly/issues/6932)  投稿）
+
+## pay for less by simon willison
+
+`dev` `meme`
+
+我从来不喜欢内容收费，我的所有写作和研究成果都免费发布，这带给我巨大的价值。
+
+现在，我想尝试一种不一样的订阅：你付钱给我，我会少给你发送一些东西。
+
+我会推出一份仅限赞助者的月度邮件，里面都是我精心选择的重点内容，你就不用每天看我的大量更新了。
+
+-- [Simon Willison](https://simonwillison.net/2025/May/25/sponsors-only-newsletter/)，著名开发者
+
+## dont invent wheels is the one of the worst advice
+
+`dev` `quote`
+
+最有害的建议之一就是不要重新发明轮子。
+
+这种建议会导致一种抑制好奇心和探索的氛围。现代生活的很多重要发明，都来自那些不听从这个建议的人们。
+
+重新发明轮子就是一种学习，并且学习过程中，你可能会做出更好的版本。
+
+-- [《重新发明轮子》](https://endler.dev/2025/reinvent-the-wheel/)
+
 ##
 
 
+
+##
+
+##
+
+##
 
 ##
 
