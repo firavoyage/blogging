@@ -25,7 +25,7 @@
 
 ## perception
 
-<!-- todo: memories/blogs -->
+<!-- todo: memories/blogs, memories/comments, memories/... -->
 
 - flavors
   - lipton black tea
@@ -42,7 +42,7 @@
   - dried mango
   - chenpi
   - huamei
-- lifestyles
+- essentials
   - j-pop · rock · folk · jazz · classical
   - calendar · wall clock
   - life size waifu pillow · origami · pixel art · gardening
@@ -87,6 +87,7 @@
   - johann sebastian bach
   - joshwcomeau
   - juliangarnier
+  - justyyuk
   - kagura mea
   - kalasoo
   - kasugano sora
