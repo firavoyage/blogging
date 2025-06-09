@@ -1,3 +1,5 @@
+<!-- todo: memories/comments, memories/blogs, memories/..., sync -->
+
 # $weekly$
 
 > $welcome \space to \space hotel \space california$
@@ -17,12 +19,12 @@
 
 ### _foresight_
 
-- learn japanese on duolingo
+- learn japanese
 - practice math
 - learn & play go
 - watch simplelive
-- watch the melancholy of haruhi suzumiya
-- surf zhihu / berryberry / twitter
+- watch tv series
+- surf zhihu / berryberry
 - create pre / material app
 
 ### _day_
@@ -41,6 +43,7 @@
 ### _enlightenment_
 
 - write math wiki
+- write japanese learning wiki
 - learn on luogu
 - create videos using pre and material
 
@@ -63,8 +66,9 @@
 
 - learn & play go on foxwq / golaxy / tales of qianfu battles / go bible
 - surf zhihu / berryberry / twitter
-- play majsoul
 - read ba stories
+- play glory of kings
+- play majsoul
 - play senrenbanka
 - create origami following chen xiao's guide
 

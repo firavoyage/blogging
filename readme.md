@@ -25,8 +25,6 @@
 
 ## perception
 
-<!-- todo: memories/blogs, memories/comments, memories/... -->
-
 - flavors
   - lipton black tea
   - frey dark chocolate bars
@@ -138,7 +136,6 @@
   - vtbs_irl
   - wanderer above the sea of fog
   - wesbos
-  - whyyoutouzhele
   - wukan wukan.me
   - xiaoyaocz
   - xkcd
@@ -221,8 +218,8 @@
   - neon genesis evangelion (1995)
   - girls band cry (2024)
   - the melancholy of haruhi suzumiya (2009)
-  - breaking bad (2012)
   - hikaru no go (2001)
+  - breaking bad (2012)
   - better call saul (2015)
   - .date a live (2013)
   - .sword art online (2012)
@@ -238,12 +235,11 @@
   - .my youth romantic comedy is wrong, as i expected (2013)
   - .puella magi madoka magica (2011)
   - .no game, no life (2014)
+  - .bakemonogatari (2009)
   - .anohana: the flower we saw that day (2011)
   - .attack on titan (2013)
   - .school days (2007)
   - .white album (2009)
-  - .spongebob squarepants (1999)
-  - .reply 1988 (2015)
 - games
   - angry birds (2009)
   - minecraft (2011)
@@ -296,7 +292,7 @@
   - reddit · twitter · zhihu · nga bbs · baidu tieba
   - hacker news · v2ex · github trending · product hunt
   - ruanyf weekly · tw93 weekly · gamedevjs weekly · codepen spark · the coding train
-  - douban · imdb · bangumi.tv · my anime list · bgmlist · mikan project · nyaa.si · dmhy.org · zimuku · yuc.wiki · wotaku.wiki
+  - douban · imdb · bangumi.tv · my anime list · bgmlist · mikan project · nyaa.si · dmhy.org · zimuku · yuc.wiki
   - pixiv · deviantart · civitai · e hentai · dribbble · unsplash
   - steam db · itch.io · google doodles · vndb · shinnku galgame · kungal · touchgal
   - codeforces · atcoder · luogu · libre oj · project euler
@@ -462,6 +458,7 @@
   - aegis-authenticator
   - ankidroid
   - antennapod
+  - aqgo
   - bilimiao
   - duolingo -mod
   - ehviewer
@@ -484,6 +481,7 @@
   - spotify -mod
   - weiqibaodian
   - xiaoyuansouti
+  - zhizigo
   - zuoyebang
 
 ## flyleaf
@@ -598,6 +596,7 @@
 - 待到秋来九月八 我花开后百花杀
 - 庭有枇杷树 今已亭亭如盖矣
 - 子非我 安知我不知鱼之乐
+- 庭树不知人去尽 春来还发旧时花
 
 ## compass
 

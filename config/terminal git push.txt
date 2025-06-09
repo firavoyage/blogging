@@ -44,13 +44,6 @@ git push -f e
 git push -f l
 git pull e master
 
-cd ../self
-git add .
-git commit -m '.'
-git push -f e
-git push -f l
-git pull e master
-
 cd ../fonts
 git add .
 git commit -m '.'
