@@ -97,6 +97,7 @@
 - art filter
   - only line stroke
   - geometry shape mosaic
+  - duolingo neko mosaic
   - text obfusion
 - color filter
 - 3d transition
@@ -115,7 +116,7 @@
   - gimp
   - pinta
 
-### `gen`
+### `halcyra`
 
 > reasonable painting | procedurally generated art
 
@@ -319,25 +320,29 @@
 
 ### `awesome`
 
-> plain filter instead of promotional recommendation engine
+> world goods list: plain filter over promotional recommendation engine
 
-- categories
-  - world goods list
-  - social media channel
-  - personal blog
-  - community
-  - resource
-  - wiki
-  - ...
-- tags
-  - anime
-  - manga
-- rating and ranking
-- source
-  - awesome lists
+- world goods list
+- social media channel
+- chinese society movement dates
+- personal internet blog
+- qq groups
+- tg channels
+- inspired by
+  - github awesome lists
   - wotaku.wiki
   - webfollow list
   - rss source list
+
+### `literally`
+
+> internet abstract quote database
+
+- source
+  - berryberry comments
+  - reddit memes
+- categorized
+  - as e-hentai
 
 ## learn
 
@@ -456,22 +461,6 @@
   - rodrigo pombo
   - dan abramov
 
-### `firascript`
-
-> simplicity of a script
-
-> -> /firascript
-
-- no semicolon by default
-- expression oriented
-- lamdba fn `(props){expression}`
-- condition `if a b c d e`
-  - several if, then pairs and an optional otherwise
-- loop `repeat` `each` `for` `while`
-- inspired by
-  - arc language
-  - airbnb javascript guide
-
 ### `voyagejs`
 
 > simple stupid web framework
@@ -481,10 +470,10 @@
 - no pre compiler
 - component based
 - inspired by
-  - solidjs
   - react
-  - tailwind
+  - solidjs
   - svelte
+  - tailwind
   - mithril
 
 ### `fresh`
@@ -501,6 +490,83 @@
 - snapcat
 - inspired by
   - bewlybewly
+
+### `theoria`
+
+> course and flashcard
+
+- inspired by
+  - anki
+  - duolingo
+  - math academy
+
+### `firascript`
+
+> simplicity of a script
+
+- no semicolon by default
+- expression oriented
+- lamdba fn `(props){expression}`
+- condition `if a b c d e`
+  - several if, then pairs and an optional otherwise
+- loop `repeat` `each` `for` `while`
+- inspired by
+  - arc language
+  - airbnb javascript guide
+
+## play
+
+### `kivodef`
+
+> tower defence in blue archive
+
+- contribute
+  - tower defence sprites creator
+- inspired by
+  - arknights
+  - plant vs zombies 2
+  - blue archive
+
+### `nebulae`
+
+> js in scratch
+
+- keyboard shortcuts
+  - like vim
+- snippets
+- rust inspired
+  - everything is an expression
+- translation
+- compilation
+  - javascript
+  - python
+  - cpp
+  - rust
+  - json ast
+- inspired by
+  - blocky
+  - scratch
+  - vim
+  - rust
+
+### `chess`
+
+> lichess with coach and tutorial
+
+- inspired by 
+  - chess.com
+  - lichess
+  - stockfish
+
+### `go`
+
+> go with coach and tutorial
+
+- inspired by
+  - foxwq
+  - golaxy
+  - weiqibaodian
+  - chess.com
 
 ## channels
 
@@ -519,3 +585,9 @@
   - wes bos
   - yunling sapphire
   - one math
+
+---
+
+> all good things.
+
+> fin

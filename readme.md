@@ -44,8 +44,8 @@
   - j-pop · rock · folk · jazz · classical
   - calendar · wall clock
   - life size waifu pillow · origami · pixel art · gardening
-  - anime · visualnovels · unixporn · mtf · virtualyoutubers
-  - math · algorithms · ai · web dev · threejs · cpp · python · rust
+  - anime · boardgames · visualnovels · unixporn · mtf · virtualyoutubers
+  - math · algorithms · web dev · threejs · cpp · python · rust · ai/ml
   - dark style · night light · low brightness · tranquility
   - cynicism · dissociation · inner speech · second person omniscient narration
 - personas
@@ -89,16 +89,22 @@
   - kagura mea
   - kalasoo
   - kasugano sora
-  - ke jie
+  - ke jie go
   - keyboard cat
   - kkksc03
   - konata izumi
   - krahets
   - leanrada kalabasa
   - lei bro gaming
+  - li jiaqing go
   - liangxihuigui
+  - lightvector
+  - ling yuan yuan yuan yuan yuan zhihu
   - lionleaf
+  - liu yiyi go
   - livid v2ex
+  - luan xiao meng zhihu
+  - mao niang shen zhihu
   - matikane tannhauser
   - matrix67
   - menci
@@ -111,12 +117,15 @@
   - nat friedman
   - nayuki
   - nina iseri
-  - ninalex12
+  - ninalex12 asakawauniversityofscience
+  - oooooohmygosh
+  - ornicar
   - potetomj
   - probiusofficial
   - ramsayleung
   - saiba momoi
   - sam altman
+  - samekosaba
   - seren azuma
   - share121
   - shengxj1
@@ -135,6 +144,7 @@
   - vochant mirekintoc
   - vtbs_irl
   - wanderer above the sea of fog
+  - webdesignmuseum
   - wesbos
   - wukan wukan.me
   - xiaoyaocz
@@ -167,6 +177,8 @@
   - tv anime "lucky star" ending theme collection: one day karaoke box (konata izumi & kagami hiiragi & tsukasa hiiragi & miyuki takara)
   - togenashi (togenashi togeari)
   - daiginjo (miyuki nakajima)
+  - and so henceforth, (orangestar)
+  - seaside soliloquies (orangestar)
   - the book (yoasobi)
   - the book 2 (yoasobi)
   - the book 3 (yoasobi)
@@ -177,6 +189,7 @@
   - internet overdose (aiobahn & kotoko)
   - magnet (minato aqua & inuyama tamaki)
   - henceforth (kagura mea)
+  - henceforth (yuuki sakuna)
   - miracle milk (mili)
   - rock n roll (beyond)
   - u 87 (eason chan)
@@ -186,7 +199,6 @@
   - qun ding (mi feng chu)
 - movies
   - spirited away (2001)
-  - goodbye mr. loser (2015)
   - soul (2020)
   - the shawshank redemption (1994)
   - joker (2019)
@@ -209,7 +221,9 @@
   - the truman show (1998)
   - princess mononoke (1997)
   - tricky brains (1991)
+  - love letter (1995)
   - .the disappearance of haruhi suzumiya (2010)
+  - .bocchi the rock! recap part 1 (2024)
 - series
   - tom and jerry (1940)
   - in solitude where we are least alone (2010)
@@ -221,6 +235,7 @@
   - hikaru no go (2001)
   - breaking bad (2012)
   - better call saul (2015)
+  - tales of qianfu battles (2013)
   - .date a live (2013)
   - .sword art online (2012)
   - .bocchi the rock (2022)
@@ -261,6 +276,8 @@
   - osu! (2007)
   - foxwq (2009)
   - golaxy (2018)
+  - chess.com (2007)
+  - lichess (2010)
   - .earth online
   - .terraria (2011)
   - .the legend of zelda: tears of the kingdom (2023)
@@ -434,6 +451,7 @@
   - inkscape
   - jan
   - jsdoc
+  - katrain
   - kolourpaint
   - krita
   - libreoffice
@@ -456,10 +474,11 @@
   - zsh
 - on android 11
   - aegis-authenticator
+  - ahqgo
   - ankidroid
   - antennapod
-  - aqgo
   - bilimiao
+  - breezy-weather
   - duolingo -mod
   - ehviewer
   - eudic
@@ -473,13 +492,13 @@
   - musicfree
   - musictag
   - nekogram
-  - oneplus-weather
   - onscripter-yuri
   - simplelive
   - snapseed
   - solid-explorer
   - spotify -mod
   - weiqibaodian
+  - wenku8
   - xiaoyuansouti
   - zhizigo
   - zuoyebang
@@ -559,9 +578,9 @@
 
 ## backyard
 
+- 念念不忘 必有回响
 - 遂迷不复得路
 - 从流飘荡 任意东西
-- 念念不忘 必有回响
 - 庄生晓梦迷蝴蝶
 - 且放白鹿青崖间 须行即骑访名山
 - 挟飞仙以遨游 抱明月而长终
@@ -570,7 +589,6 @@
 - 潭中鱼可百许头 皆若空游无所依
 - 闻道有先后 术业有专攻 如是而已
 - 今朝有酒今朝醉
-- 今番良晤 豪兴不浅 他日江湖相逢 再当杯酒言欢
 - 以神遇而不以目视
 - 壁上小虫忽跃落衿袖间
 - 为者败之 执者失之
@@ -594,9 +612,10 @@
 - 宁为玉碎 不为瓦全
 - 民为贵 社稷次之 君为轻
 - 待到秋来九月八 我花开后百花杀
-- 庭有枇杷树 今已亭亭如盖矣
+- 庭有枇杷树 吾妻死之年所手植也 今已亭亭如盖矣
 - 子非我 安知我不知鱼之乐
 - 庭树不知人去尽 春来还发旧时花
+- 又七年 还自扬州 复到舅家问焉 曰 泯然众人矣
 
 ## compass
 
@@ -646,6 +665,9 @@
   - wakatime `firavoyage`
   - codepen `firavoyage`
 - - majsoul `忘我思考` `fira`
+  - foxwq `firascript` `李烨炀本物`
+  - lichess `firascript`
+  - chess.com `firascript`
   - duolingo `firavoyage`
 - - youtube `firavoyage`
   - berryberry `fira_言序` `1156993272`
@@ -750,8 +772,6 @@
 
 > 在残念的人生中...
 
-> all good things.
-
 > "vibe coding"
 
 > ai is cool i guess
@@ -763,3 +783,9 @@
 > literally!
 
 > 前些年的何同学, 人生似乎有无限的可能性. 为什么路就好像越来越窄了呢, 什么投掷器, 拆解特效, 重复... 先验的世界里, 大人们的生活总是一眼望到头. 残念啊...
+
+> 0x12F81AC!
+
+> Fira, 喜欢的字体, 用作网路 id 的 First Name. Last Name 就不确定啦. 偶然想象 voyage 的意象, 欣喜, 于是使用之. 亦有使用 script 的.
+
+> just let time be precious...

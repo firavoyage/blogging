@@ -9,24 +9,23 @@
 
 ## concepts
 
-- a+
-  - 5%
-  - a+#1~15
-- a b+ b b- c+ c c- d+ d
-  - 10%
-- e
-  - 5%
-- max score
-  - 120 each
-  - 100 for g1t2 fin
-- headers
+- places
+  - a+#1~15 `5%`
+  - a b+ b b- c+ c c- d+ d `10%`
+  - e `5%`
+- full marks
+  - 120 each one except g1t2 fin
+  - 100 g1t2 fin
+- format
+  ```
   - grade x term y
-  - monthly exam
-  - sum place chinese math english
+    - monthly exam
+      - player `sum place chinese math english`
+  ```
 - g2t1 class division
-  - fira 4
-  - jiang zhijun 2
-  - lv fuyuan 2
+  - fira `class 4` (took: physics chemistry geography)
+  - jiang zhijun `class 2` (took: physics chemistry biology)
+  - lv fuyuan `class 2` (took: physics chemistry biology)
 
 ## djhs grades
 
@@ -64,7 +63,7 @@
     - jiang zhijun `284.5 a+#1 77 104 103.5`
     - lv fuyuan `253 a+`
     - room and seat 0515
-    - exam at 0520
+    - exam on 0520
   - fin
     - fira `233 a 75 b+ 80 a 78 a`
     - jiang zhijun `255.5 a+#1 75 96 84.5`
@@ -102,30 +101,43 @@
     - zhang xizhe `212.5 64 93 55.5`
     - hui xinyu `illness`
     - date 20241204
+- g2t2
   - fin
+    - fira `244.5 b+ 68 d+ 81 b+ 95.5 a`
+    - jiang zhijun `297.5 91 104 102.5`
+    - hui xinyu `279.5 82 110 87.5`
+    - zhang xizhe `246 79 100 67`
+    - jin luochen `251.5`
+    - gui minghao `_ _ 113 a+#1 _`
+    - on 20250618 20250619 20250620
 
-## jhs fin exam
+## jhs fin (hs entrance exam)
 
 - sum `684`
   - max `750`
 - chinese `121`
-  - writing 会心之乐
+  - writing title `会心之乐`
 - math `145`
-  - some confusing badly given problems killed my classmates
-  - 23 24(3) skipped at first and done at the end of the day
-  - 25(3) worth 5 points. $1:2$ but i guessed $\frac{\sqrt{5}-1}{2}$
+  - problem 22 with unclear description killed some of my classmates for 10 points
+  - 23 and 24(3) were skipped at first and done at the end of the day
+  - 25(3) a difficult geometry problem worth 5 points
+    - the answer was $1:2$ but i guessed $\frac{\sqrt{5}-1}{2}$
+    - anyway 1 point for correct answer doesnt matter
+    - with hs trigonometry knowledge it can be solve with brute force
 - english `136`
 - physics `65`
 - chemistry `47`
-- geography&biology `13`
-- experiment `15`
+- physics & chemistry experiment `15`
+- geography & biology `13`
 - history `25` + `30`
 - politics `27` + `30`
 - pe `30`
 
 > hs aspirations
 
-- shanghai hs `710`
+- shanghai hs `709`
 - datong hs `694`
-- dajing hs `66x`
-- shiba hs `x`
+- dajing hs (admitted) `667`
+- shiba hs `634.5`
+- shinan hs `610.5`
+- (too far, didnt sign up) gezhi hs (fengxian campus) `684`

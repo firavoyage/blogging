@@ -495,12 +495,12 @@
 - fix: wrong usage of lifecycle `shown`
   - create fragment before `shown`, insert immediately after `shown`
 - **todo**
-- feat: macro `@style`, `define(preset)`, `switch(theme)`
+- feat: `styled`, `define(preset)`, `switch(theme)`
   - `define(preset)` change preset
   - `switch(theme)` append preset
-  - `@style` generate a class using murmurhash
   - ref
     - https://tailwindcss.com/docs/styling-with-utility-classes
+    - twin macro
     - https://unocss.dev/config/
     - https://tachyons.io/
 - feat: `batch` operation, `untrack` value
