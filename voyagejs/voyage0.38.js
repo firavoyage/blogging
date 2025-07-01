@@ -13,11 +13,11 @@
  * @file
  * voyage framework
  *
- * this version is developed during 20250628 ~ (utc+8)
+ * this version is developed during 20250624 ~ 20250628 (utc+8)
  *
  * @author firavoyage
- * @version 0.39
- * @since 0.1 initiated on 20240816
+ * @version 0.38
+ * @since 0.1 initiated on 20240806
  * @see changelog.md
  */
 /**
@@ -54,7 +54,8 @@ let voyage = {
     effectParent: false,
     status: "creating",
     lifecycle: {
-      // created, shown
+      created: new Set(),
+      shown: new Set(),
     },
     preset: {},
     styles: new Map(),
@@ -143,6 +144,22 @@ let voyage = {
         return iterator;
       };
       return iterate(begin, end, step);
+    },
+    /**
+     * pop an item out of a set
+     * @param {Set} set
+     * @returns {*}
+     */
+    pop(set) {
+      // todo: remove this weird fn
+
+      // Get the first value from the Set's iterator
+      const value = set.values().next().value;
+
+      // Remove the value from the Set
+      set.delete(value);
+
+      return value;
     },
     /**
      * process for each item in a set
@@ -277,6 +294,7 @@ let voyage = {
         // if you have a component fn, call it directly.
         // ... => child of a fragment
 
+        // todo: make this fn clearer (done)
         // add type comments
 
         const { has, check } = voyage.lib;
@@ -320,8 +338,11 @@ let voyage = {
 
       const node = tag == "" ? [] : document.createElement(tag);
 
+      // todo: make attr handling clearer (done)
+
       // define attrs
       for (const [attr, content] of Object.entries(attrs)) {
+        // todo: ref instead of @ref, bind instead of @value. (done)
         const directives = {
           ref() {
             content(node);
@@ -403,20 +424,20 @@ let voyage = {
      * @returns {Node}
      */
     render(component, props) {
+      const { pop } = voyage.lib;
       const { create, takeEffect } = voyage.methods;
 
       const { info } = voyage;
 
       const prevProps = info.currentProps;
-      info.currentProps = props;
 
+      info.currentProps = props;
       info.status = "creating";
-      info.lifecycle.created = new Set();
       let node = create(component());
 
       info.status = "created";
-      const pendingEffects = info.lifecycle.created;
-      for (const id of pendingEffects) {
+      while (info.lifecycle.created.size != 0) {
+        const id = pop(info.lifecycle.created);
         takeEffect(id);
       }
 
@@ -632,15 +653,15 @@ let voyage = {
       parent.children.add(id);
     }
 
-    const schedule = {
+    const timeline = {
       creating: 0,
       created: 1,
       shown: 2,
     };
-    const time = schedule[when];
-    const now = schedule[info.status];
+    const schedule = timeline[when];
+    const now = timeline[info.status];
 
-    if (now < time) {
+    if (now < schedule) {
       info.lifecycle[when].add(id);
     } else {
       takeEffect(id);
@@ -713,17 +734,16 @@ let voyage = {
     };
   },
   run(app, on) {
+    const { pop } = voyage.lib;
     const { render, append, takeEffect } = voyage.methods;
 
     const node = document.querySelector(on);
-
-    info.lifecycle.shown = new Set();
     append(render(app, {}), node);
 
     const { info } = voyage;
     info.status = "shown";
-    const pendingEffects = info.lifecycle.shown;
-    for (const id of pendingEffects) {
+    while (info.lifecycle.shown.size != 0) {
+      const id = pop(info.lifecycle.shown);
       takeEffect(id);
     }
   },

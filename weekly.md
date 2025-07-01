@@ -1,5 +1,7 @@
 <!-- todo: memories/comments, memories/blogs, memories/..., sync -->
 
+<!-- categorize zhihu, berryberry favorites, split learning to hs and university, split dev to ... -->
+
 # $weekly$
 
 > $welcome \space to \space hotel \space california$
@@ -15,6 +17,79 @@
 
 > things, not schedule.
 
+## 20250701
+
+### _foresight_
+
+- learn japanese
+- practice math
+- learn & play go
+- watch simplelive
+- watch tv series
+- surf zhihu / berryberry
+- write voyagejs
+- create pre / material app
+
+### _day_
+
+- learn japanese on duolingo
+- memorize japanese words on anki
+- practice math on guided learning pioneer summer holidays problemset
+- learn physics on stepping into the graded exams
+- learn chemistry on stepping into the graded exams
+- learn geography on stepping into the graded exams
+- write math first mock exam paper
+
+### _night_
+
+- watch simplelive
+- watch the melancholy of haruhi suzumiya
+- watch evangelion
+- watch bocchi the rock
+
+### _enlightenment_
+
+- write math wiki
+- write japanese learning wiki
+- write boardgame tutorials
+- learn algorithms on luogu
+- create videos using pre and material
+
+### _drift_
+
+- practice math on guide pioneer
+- practice physics / chemistry on one lesson one exercise
+- read mathematics, no 2 secondary school attached to ecnu
+- read mathematical olympiad series
+
+### _endeavour_
+
+- revise projects.md
+- design firascript
+- write voyagejs
+- design component libraries
+- create pre / material app
+- create eat / leisure / float app
+- create world goods list
+
+### _diversion_
+
+- learn & play go on foxwq / golaxy / tales of qianfu battles
+- surf zhihu / berryberry / twitter
+- read ba stories
+- play majsoul
+- play senrenbanka
+- create origami following chen xiao's guide
+
+### _rest_
+
+- listen to j-pop
+- listen on antennapod
+- categorize & archive zhihu / berryberry favorites
+- categorize repo web
+- organize repo memories
+- sync with the phone
+
 ## 20250603
 
 ### _foresight_
@@ -25,6 +100,7 @@
 - watch simplelive
 - watch tv series
 - surf zhihu / berryberry
+- write voyagejs
 - create pre / material app
 
 ### _day_
@@ -44,6 +120,7 @@
 
 - write math wiki
 - write japanese learning wiki
+- write tutorials on various boardgames
 - learn on luogu
 - create videos using pre and material
 
@@ -76,6 +153,9 @@
 
 - listen to j-pop / rock
 - play antennapod
+- categorize & archive zhihu / berryberry favorites
+- categorize repo web
+- organize memories repo
 - sync with the phone
 
 ## 20250511
