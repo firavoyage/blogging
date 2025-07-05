@@ -358,6 +358,7 @@
   - pan.icu (wu tao & rio)
   - stochastic volatility (zhiqi & shiye)
   - storyfm (kou aizhe)
+  - the type (eric liu & qian zhengyu)
   - ux coffee (riceman & hoka)
   - web worker (xinbao & lv777 & pakchoi & kaiyi & smart)
   - xie xing liao tian hui (dan li ren comedy)
@@ -484,7 +485,6 @@
   - eudic
   - fcitx5-android
   - gboard
-  - jmcomic
   - k9-mail
   - legado
   - material-files
@@ -500,6 +500,7 @@
   - weiqibaodian
   - wenku8
   - xiaoyuansouti
+  - zhiliao
   - zhizigo
   - zuoyebang
 

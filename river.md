@@ -6431,3 +6431,44 @@ vibe coding 了一天，做出了能用的东西，但我感觉在工资之外�
 first day of summer holidays
 
 design firascript.
+
+---
+
+07.03 买了一株植物. 金钱树. 窗台.
+
+两周浇水一次.
+
+---
+
+sync with phone. wenshushu 居然就 100kbps.
+
+试了试 easytransfer, 不支持 offline mode (paywall).
+
+最后选择了 haioukc.
+
+---
+
+`math` `ref`
+
+昨天在 hsn8086 的 tg group 里面, 看到 yifusuyi 发表了一个牛顿迭代.
+
+今天直接用计算器模拟了一下, 没想到这么简单, 看爽了. (不用计算器的 solve)
+
+1. 定义 fx (fx = 0)
+2. 按下一个随意的数字, 比如 0d000721, 按 enter.
+3. 写 answer - f(answer) / f'(answer)
+4. 狂按 enter
+5. (把 answer 保存到 x)
+6. (如果不精确, 输入 sqrt(x^2))
+
+---
+
+2025.07.05
+
+今天 duolingo japanese 上线了新内容. sync 了我的进度.
+
+- split section 3 (90 units) to section 3 (30 units) and section 4 (60 units)
+- new content: section 6. bamen ni yotte iroiro na hyougen o tsukaemasu
+
+---
+

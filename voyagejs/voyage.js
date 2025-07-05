@@ -480,6 +480,7 @@ let voyage = {
 
         // convert macros and preset to a style element
         // try with deepseek.
+
         let style = "";
 
         // append style element
