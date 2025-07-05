@@ -632,11 +632,12 @@
   - `/fira` youtuber
   - `/pure` `/intuitive` peer
   - `/self` avatar
+- `memories` surfer
 - `school` photographer
-- `lucky` otaku
-- `web` (legacy) archivist
-- `music` (legacy) listener
 - `fonts` designer
+- `lucky` (archived)  otaku
+- `web` (archived) archivist
+- `music` (archived) listener
 
 ### here, in `blogging`
 
@@ -663,6 +664,7 @@
 
 - - wikipedia `User:Firavoyage`
 - - github (gitlab, gitee) `firavoyage`
+  - gitlab (new account) `firascript`
   - wakatime `firavoyage`
   - codepen `firavoyage`
 - - majsoul `忘我思考` `fira`
