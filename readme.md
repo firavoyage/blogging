@@ -663,7 +663,7 @@
 > `firavoyage` · `firascript` · `"忘我思考"`
 
 - - wikipedia `User:Firavoyage`
-- - github (gitlab, gitee) `firavoyage`
+- - github (gitlab, gitee, gitea) `firavoyage`
   - gitlab (new account) `firascript`
   - wakatime `firavoyage`
   - codepen `firavoyage`
