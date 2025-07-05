@@ -1,13 +1,5 @@
 function push(){
 
-cd Music
-git pull e master
-git add .
-git commit -m '.'
-git push -f e
-git push -f l
-cd ..
-
 cd Documents
 cd blogging
 git add .
@@ -24,20 +16,6 @@ git push -f l
 git pull e master
 
 cd ../school
-git add .
-git commit -m '.'
-git push -f e
-git push -f l
-git pull e master
-
-cd ../programs
-git add .
-git commit -m '.'
-git push -f e
-git push -f l
-git pull e master
-
-cd ../web
 git add .
 git commit -m '.'
 git push -f e
