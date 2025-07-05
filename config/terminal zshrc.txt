@@ -47,6 +47,7 @@ git add .
 git commit -m '.'
 git push -f e
 git push -f l
+git push -f a
 git pull e master
 
 cd ../memories
@@ -54,6 +55,7 @@ git add .
 git commit -m '.'
 git push -f e
 git push -f l
+git push -f a
 git pull e master
 
 cd ../school
@@ -61,6 +63,7 @@ git add .
 git commit -m '.'
 git push -f e
 git push -f l
+git push -f a
 git pull e master
 
 cd ../fonts
@@ -68,6 +71,7 @@ git add .
 git commit -m '.'
 git push -f e
 git push -f l
+git push -f a
 git pull e master
 
 cd ../..
