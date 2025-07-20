@@ -6472,3 +6472,126 @@ sync with phone. wenshushu 居然就 100kbps.
 
 ---
 
+twitter 上面 teacherli retweet 了 djhs 相关新闻.
+
+就是志愿者强制劳动. 去一个私人博物馆劳动, 然后与馆长发生冲突, 没有伤亡.
+
+---
+
+twitter 上面全是 meme 和 mtf. 还有 teacherli.
+
+今天把 mtf 一个个 unfollow. 然后把 menci 关注的大多数都关注上.
+
+把 teacherli mute 掉.
+
+---
+
+这几天吃白象方便面, 买了一箱各种口味的试试看. 
+
+喜欢招牌猪骨汤味道. 不愧是招牌.
+
+不想去大富贵, 虽然味道不错, 但是天热啊, feel like 40+ centigrades...
+
+---
+
+`ref` `boardgames`
+
+入坑 go, 幼稚园到小学生时候, 去过奥林幼稚园, 普安路瑞金医院... 杰盛围棋. 师从 li jiaqing, wu xianzhe, 小时候的什么钱老师, 方老师, 潘老师记不得名字了. fira 2007 年生人, 业余五段都是小学时候考的. 回坑, 是因为 vtuber xuegao cheese (li yeyang, 2006). 似乎是在三角洲分区的前面看到她的, 后来阴差阳错翻阅其历史投稿 (fira 很喜欢看各种人是如何起步的, 想影视飓风, 何同学, 曾经都是不大的个人号...). 然后就关注了一堆人 (都截图了 profile, 保存到 repo memories/gaming).
+
+入坑 riichi mahjong, 因为看到很多主播玩. taffy, 逍遥散人, ... 后来师从 potetomj
+
+入坑国际象棋, 因为 zhihu 上面的 "泠鸢鸢鸢鸢鸢". 私信问来他幼稚园时, 有棋院来, 看到棋子很喜欢. 师从 lichess/learn 和一些 berryberry 的视频.
+
+---
+
+家里来了亲戚.
+
+2006 年生的男孩, 如今在新加坡读大学. cs 专业.
+
+和 fira 是 cousin 的关系. 
+
+祖籍安徽, 读大学前常居武汉, 中产家境. 
+
+其母比 fira 的父母年长, 大概 7~8 岁.
+
+加了 qq, follow 了 berryberry 账户. 
+
+然而并没有在互联网上活动.
+
+去新天地吃饭, 在滨江散步. 聊了些游戏. 
+
+发现那个辽宁初中少女 (现在应该初二了) 在 fira 的 sr 账号里面充值了 1000 多块钱.
+
+而 fira 没有其联系方式. 她不怎么玩, 没有装备 lightcone or relics. ("电子手办")
+
+他则全程都在看一个虚拟主播, 叫白夕 seal. (玩一个 steam 上面的单机牌类 rts. 杀谬尖塔.)
+
+他的 berryberry id 是 simpalistic.
+
+(放暑假, 来上海玩十天, 与其母同行.)
+
+---
+
+2025.07.13 去 zhejaing anji 玩.
+
+山顶下暴雨, 未能溯溪, 漂流. 
+
+夜晚在酒店投屏, 想放些什么. 在 douban top250 寻找, 播放了 wall e. 好看喵!
+
+---
+
+taffy 只是热水器... 冰糖她是真直播 0721 啊!
+
+(看了冰糖纯情大戏. 人类真好啊...)
+
+(喜欢冰糖的声音. 下载了冰糖的直播回放. 那种大主播恶堕的感觉...)
+
+"关注 taffy 喵, 关注 taffy 谢谢喵! 塔不灭, 塔不灭, 雏草姬不灭!"
+
+"嘉然今晚吃冰糖雪莲"
+
+---
+
+代糖可爱喵!
+
+"糖果部" "糖棍铺"
+
+---
+
+瓶子君感觉看 monogatari (物语)
+
+有一个月了... 一直看喵...
+
+---
+
+受到 bingtangio 的影响, 想看看 oshi no ko.
+
+今天就看第一集吧!
+
+`[DB]Oshi no Ko_-_01_(Dual Audio_10bit_1080p_x265)`
+
+(这个版本居然, 内置了 en, jp 双语音轨)
+
+(然而没有中文字幕! www 日语英字)
+
+---
+
+
+左子祯
+@zuozizhen
+不断重构的感觉其实也很爽，有种在断舍离的感觉
+3:43 PM · Jul 19, 2025
+·
+687
+ Views
+
+---
+
+把大明星 mute 了. following 里面全是她.
+
+https://x.com/hsn8086
+
+虽然还是 follow 着的说...
+
+---
+

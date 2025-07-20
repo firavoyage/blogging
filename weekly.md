@@ -1,6 +1,6 @@
-<!-- todo: memories/comments, memories/blogs, memories/..., sync -->
+<!-- todo: memories/blogs, memories/comments, memories/..., web, sync -->
 
-<!-- categorize zhihu, berryberry favorites, split learning to hs and university, split dev to ... -->
+<!-- categorize zhihu fav, berryberry fav, split learning to school and university, split dev to algorithms demo and learning... -->
 
 # $weekly$
 
@@ -26,7 +26,7 @@
 - learn & play go
 - watch simplelive
 - watch tv series
-- surf zhihu / berryberry
+- surf zhihu / berryberry / twitter
 - write voyagejs
 - create pre / material app
 
@@ -51,16 +51,11 @@
 
 - write math wiki
 - write japanese learning wiki
-- write boardgame tutorials
+- write boardgame tutorials (go, chess, riichi mahjong)
 - learn algorithms on luogu
-- create videos using pre and material
-
-### _drift_
-
-- practice math on guide pioneer
-- practice physics / chemistry on one lesson one exercise
 - read mathematics, no 2 secondary school attached to ecnu
 - read mathematical olympiad series
+- create videos using pre and material
 
 ### _endeavour_
 
@@ -74,7 +69,7 @@
 
 ### _diversion_
 
-- learn & play go on foxwq / golaxy / tales of qianfu battles
+- learn & play go on foxwq / golaxy / tales of qianfu battles / liu yiyi live
 - surf zhihu / berryberry / twitter
 - read ba stories
 - play majsoul
@@ -86,7 +81,7 @@
 - listen to j-pop
 - listen on antennapod
 - categorize & archive zhihu / berryberry favorites
-- categorize repo web
+- organize repo web
 - organize repo memories
 - sync with the phone
 
