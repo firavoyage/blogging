@@ -321,6 +321,8 @@
 ### `awesome`
 
 > world goods list: plain filter over promotional recommendation engine
+>
+> internet treasure hunting guide curated by human
 
 - world goods list
 - social media channel
@@ -428,7 +430,7 @@
 
 ### `intuitive`
 
-> beautifully advance "朴素"
+> beautifully advance "冰糖OI"
 
 > /intuitive`
 
@@ -516,6 +518,37 @@
 
 ## play
 
+### `vtbsol`
+
+> vtubers online, a rts tower defence game
+
+- modes
+  - pve (levels and maps)
+  - pve (ai)
+  - pvp
+- elements
+  - fee
+  - evolve
+- ace taffy
+  - high def
+  - produce flying taffy akachan
+- senren akuma
+  - increase fee
+  - increase evolve
+- xuegao cheese
+  - sniper
+- azusa
+  - aoe sniper
+- bingtangio
+  - bomb
+- kyouka
+  - sword player 
+- minato aqua
+  - sword player 
+- inspired by
+  - clash royale
+  - vtubers
+
 ### `kivodef`
 
 > tower defence in blue archive
@@ -553,6 +586,8 @@
 
 > lichess with coach and tutorial
 
+- form
+  - lichess plugin
 - inspired by 
   - chess.com
   - lichess
@@ -560,13 +595,26 @@
 
 ### `go`
 
-> go with coach and tutorial
+> go tutorial and go coach
 
+- guide
+  - ref lichess/learn lichess/practice ...
+- form
+  - golaxy/foxwq plugin
 - inspired by
   - foxwq
   - golaxy
   - weiqibaodian
   - chess.com
+  - lichess
+
+### `genshinpvp`
+
+> moba game in genshin characters
+
+- inspired by
+  - genshin impact
+  - glory of kings
 
 ## channels
 

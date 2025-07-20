@@ -623,6 +623,18 @@ factorial n = n * factorial (n - 1)
 
 ### 5. **Quick Sort**
 
+```fira
+quickSort(arr) {
+  if (arr.length <= 1) arr;
+  else
+    pivot = arr[math.floor(arr.length / 2)];
+    left = arr.filter((x){x < pivot});
+    middle = arr.filter((x){x == pivot});
+    right = arr.filter((x){x > pivot});
+    [...quickSort(left), ...middle, ...quickSort(right)];
+}
+```
+
 ```python
 # Python
 def quicksort(arr):

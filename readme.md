@@ -49,9 +49,11 @@
   - dark style · night light · low brightness · tranquility
   - cynicism · dissociation · inner speech · second person omniscient narration
 - personas
-  - ace taffy
+  - acetaffy812
+  - adamwathan tailwindcss
   - antfu
-  - azi azusa
+  - azumaseren
+  - bingtangio
   - bradwoods
   - chen xiao origami
   - chiyuki0325
@@ -59,24 +61,27 @@
   - chtholly nota seniorious
   - cldeop
   - codingstartup
+  - darkf1ames
   - dbinary matrixcascade
   - diygod
   - elleflorio
   - end3r
   - falstaff duolingo
+  - ftium4
   - funshiki
   - gaearon dan abramov
   - grant sanderson 3blue1brown
   - haoel
-  - henri, le chat noir
+  - henrilechatnoir
   - himself65
   - hitori gotoh
-  - hsn8086
-  - huang chih-chung
+  - hitw93
+  - hsn8086 hsn8086k
   - huxpro
   - ichi hime
   - innei
   - insraq
+  - jh3yy
   - jiang yanyan
   - jiangly
   - jingsheng237248
@@ -84,18 +89,17 @@
   - jjying
   - johann sebastian bach
   - joshwcomeau
-  - juliangarnier
-  - justyyuk
+  - juliangarnier animejs
   - kagura mea
-  - kalasoo
   - kasugano sora
   - ke jie go
-  - keyboard cat
   - kkksc03
   - konata izumi
   - krahets
   - leanrada kalabasa
+  - lee sedol go
   - lei bro gaming
+  - leongao
   - li jiaqing go
   - liangxihuigui
   - lightvector
@@ -105,8 +109,8 @@
   - livid v2ex
   - luan xiao meng zhihu
   - mao niang shen zhihu
-  - matikane tannhauser
   - matrix67
+  - megabits_mzq
   - menci
   - minami iwasaki
   - minato aqua
@@ -116,22 +120,27 @@
   - nahida
   - nat friedman
   - nayuki
+  - nickel_angel
   - nina iseri
   - ninalex12 asakawauniversityofscience
   - oooooohmygosh
   - ornicar
+  - overidea
   - potetomj
   - probiusofficial
   - ramsayleung
+  - ruanyf
   - saiba momoi
-  - sam altman
+  - sama sam altman
   - samekosaba
-  - seren azuma
+  - shadcn
   - share121
   - shengxj1
   - shiffman
+  - shin jin-seo go
   - snack life
   - sparkle
+  - suzumiyasuzume
   - takanashi hoshino
   - tendou alice
   - tim mediastorm
@@ -146,16 +155,17 @@
   - wanderer above the sea of fog
   - webdesignmuseum
   - wesbos
+  - wu xianzhe go
   - wukan wukan.me
   - xiaoyaocz
   - xkcd
   - xuegao cheese
   - yifusuyi
   - yuanchuan
+  - yuki_sakuna yuuki sakuna
   - yunyoujun
-  - yuuki sakuna
   - yxc acwing
-  - zhou xuanyi
+  - zuozizhen
 - albums
   - heisei anisong taisho
   - kyoto animation
@@ -220,8 +230,9 @@
   - the big short (2019)
   - the truman show (1998)
   - princess mononoke (1997)
-  - tricky brains (1991)
   - love letter (1995)
+  - wall-e (2008)
+  - crayon shin-chan: the storm called: the adult empire strikes back (2001)
   - .the disappearance of haruhi suzumiya (2010)
   - .bocchi the rock! recap part 1 (2024)
 - series
@@ -241,6 +252,7 @@
   - .bocchi the rock (2022)
   - .bang dream! it's mygo!!!!! (2023)
   - .k-on! (2009)
+  - .oshi no ko (2023)
   - .frieren: beyond journey's end (2023)
   - .a certain scientific railgun (2009)
   - .re: zero - starting life in another world (2016)
@@ -307,8 +319,7 @@
   - internet archive · archive.today · the pirate bay · z library · anna's archive
   - youtube · berryberry · acfun · niconico · vtbs.moe · hololist
   - reddit · twitter · zhihu · nga bbs · baidu tieba
-  - hacker news · v2ex · github trending · product hunt
-  - ruanyf weekly · tw93 weekly · gamedevjs weekly · codepen spark · the coding train
+  - hacker news · v2ex · github trending · product hunt · codepen spark
   - douban · imdb · bangumi.tv · my anime list · bgmlist · mikan project · nyaa.si · dmhy.org · zimuku · yuc.wiki
   - pixiv · deviantart · civitai · e hentai · dribbble · unsplash
   - steam db · itch.io · google doodles · vndb · shinnku galgame · kungal · touchgal
@@ -362,7 +373,6 @@
   - ux coffee (riceman & hoka)
   - web worker (xinbao & lv777 & pakchoi & kaiyi & smart)
   - xie xing liao tian hui (dan li ren comedy)
-  - yixi (yixi)
 - themes
   - ubuntu yaru
   - material design 2 & 3
@@ -660,7 +670,7 @@
 
 ## projection
 
-> `firavoyage` · `firascript` · `"忘我思考"`
+> `firavoyage` · `firascript` · `"忘我思考"` · `paperboat2020` (legacy)
 
 - - wikipedia `User:Firavoyage`
 - - github (gitlab, gitee, gitea) `firavoyage`
@@ -673,9 +683,10 @@
   - chess.com `firascript`
   - duolingo `firavoyage`
 - - youtube `firavoyage`
-  - berryberry `fira_言序` `1156993272`
+  - berryberry `一番のFira` (legacy: `Fira_言序`) `1156993272`
   - acfun `忘我思考` `65210945`
   - rednote (digdog, kwai) `firavoyage`
+  - opensea `firascript`
 - - twitter `firascript`
   - telegram `firavoyage`
   - reddit `u/firascript`
@@ -792,3 +803,37 @@
 > Fira, 喜欢的字体, 用作网路 id 的 First Name. Last Name 就不确定啦. 偶然想象 voyage 的意象, 欣喜, 于是使用之. 亦有使用 script 的.
 
 > just let time be precious...
+
+> 为什么 fira 会来? 因为, 教育, 一方面, 把一群性质活跃的孩子们赋为学生, 压抑些年再出栏, 褪去以自己. 另一方面, 总会有人在残酷的 sekai 中构筑苦难, 这些苦难被希望得到内归因 ("个人努力与否") 而不是外归因 ("历史进程中尘埃"). 抛开 "维稳" 与 "筛选". 知识本身, 许多知识其实是 "庞氏" 骗局, 只能被传授和学习, 少在三次元中运用. 但学习者中又有多少能成为师者呢? 哦? 锻炼思维, 是啊, fira 也是这么以为的. 如果 f 不来, 这些年那个少年又在做什么呢... 从流飘荡. 只是选择了最不复杂的变化吗? 或者说, 根本没有做出选择, 都是本身性质和环境因素直接决定的. 如果你一定会存在, 那, fira 试试能不能把你说明白吧. 以列表而非散文. 就仿佛一个人类不理解的函数, 若只以 fx 引用, 似乎就不那么难以接受了...
+
+> 最初, 因为学校有信息课程, 很喜欢电脑. 那时候 scratch, python, cpp, web dev 这些都有玩过. 第一桶金是, 初中时候, 在一个中文网络编程问答平台赚的 (csdn biwen, legacy), 一单几十, 赚了 200, 微信号就被检举封禁了, 用了一些拙劣的骗术 (比如收钱不干活), 最后也没有绑卡全提现, 只在 jd 上买了个 kingston dtse9 32gb udisk (那个挺漂亮的). 现在检索那时候的网路id, 两边带引号, 也没什么内容了. (入门的算法题解, 和幼稚的文笔)
+
+> super chat to xuegao cheese:
+>
+> - 糕神如何评价点三三连扳之后对手长多送一个
+> - fira 有生之年有无可能看到冰糖io一边紫薇一边直播围棋?
+> - 我又幻想了, bingtangio 复生, 和 overidea 下围棋.
+
+> fira 的诞生日比 bingtangio 大 9 年整. 入网很晚了, 没有赶上 vtuber 的最盛时代. 知道她, 好像是因为在 "嘉然今晚吃冰糖雪莲" 的牌子列表里面, 点开了一个链接. (当然之所以点开, 肯定之前知道这个名字了) 然后就初见, ... 了. 早就不想讨论什么对错, 世界上没有人是有错的. (贩毒吸毒的人无错, 他们忠于欲望, 恰好生在一个不利的时代, resulted. 不反抗的奴隶没错, 他们不过是懒, 从流. 台独反华无错, 人的信仰不一定会被一个特定的统治者操控.) 一切都是个人的选择. 正义也不过是实现 "讨伐" (或讨好一些人的期待) 的工具, 非目的 (尽管统治者希望以 "正义" 洗脑人, 将其神化). 人是生物, 生物的存在, 活动, 是自然现象. 一个人的性格, 也不过是人生经历, 环境的结果. 对错是观测者的判断, 不是本身性质. 对于自然规律, fira 改变不了什么, 只希望 (你? 我? bingtang?) 做自己. fira 更愿意相信世界是必然的, 这都是命运. 所以不评判, 只归因. 归因的基础大多于 "bingtangio: 和人渣的三年" "kyouka: ppt 澄清". 无论 kyouka 如何认知自己的策略 (真的想 pua bingtangio 吗? 有没有注意 bingtangio 的个人情绪?), 当 bingtangio 深信对方是 "人渣" 的时候, (如果 kyouka 不主动进行一些激进的操作的话) 一切就已经结束了. 接下来, bingtang 不择手段的策略, 目的是毁掉 kyouka. (主要指控是, 去风俗店, 即 "劣迹艺人", 以及历史叙事, 即 kyouka 国籍.) 不择手段, 即夸大地造谣, 尽管部分是谣言, 大量录音也非常有意思. 现在 bingtangio 在环游世界. kyouka 作为富家公子, 兼职 vtuber 也很幽默. fira 愿意相信京糖是令人向往的. bingtingio 的 mmd 可爱, 日语 cv 可爱. (想说的话太多了, 出个视频玩玩.) (以后可以借物 bingtangio 的 ai 音声, 新皮套)
+>
+> (计划出一个 vtuber 企划, 或者说 original character, 叫糖小菲, 就是往 bingtang 的皮套上面加些 taffy 元素.)
+
+> 首先, 说读者意识. fira 觉得你们大多神神吧! (什么兔兔啊, 切割喵). 什么台湾, fira 不是说人啊, 台妹可爱喵. 也不是说土地, 王朝兴衰, 长江奔涌不变. fira 是说人的想法. 湾湾的状态, fira 决定的了吗? 激进一些, 一个服务员, 有什么资格浪费我们的时间, 帮他说话? (冷静) 当然如果雏草姬喜欢在网上党同伐异的话, (嗯...), 也可以啦! 喜欢就坚持吧! 怎么说呢... fira 不觉得很快乐吧. 可以举例吗? 如果在网上打拳, 雏草姬可以做带头的, 打仗, 雏草姬当将军, 那 fira 觉得还不错. 但是我看到 (用了 "我") 世界上更多的是无名小卒啊... 被洗脑, 被奴役... 这些牺牲很光荣吗? (当然是喵!) (好像写得太复杂了, 有没有糖果铺 summarize 一下... 大意就是让那些入脑的棋子给我进化.) (基本盘是国家资产, 开化是侵犯国家资产喵!) (什么萌萌人, 还服务员, 服务员真王朝了)
+
+> 人是不一样的. a 认为重要的, b 不一定认为重要. (反之亦然). fira 知道天下熙熙攘攘的道理. 既然 a 看上去似乎, 不一定做了违心的事情, 也未必搬起石头 (做了一些以为有益的事情). (退一步说, 即使路修反了... 嘛, 人都有历史局限性啦) 所以, fira 愿意继续见证 a 的传奇. (虽然你们更想看绚丽的烟花, 不是吗) (虽然 fira 并不会开心, 当看到那些虚伪的 grown-ups...) 其实, (食物耕种而来, 居舍建筑而来.) 人似乎忽视了, 那些看似是生存基础的 "人权", 其实也是有代价的, 无论是时间, 还是时间交换来的. 而今天 a 的一些策略, 其实也只是增加了一些不多的代价. 中文有塞翁失马的典故. 若无 ip banning, dns poisoning, v2ex 不会有如今的社区环境. 若不是 pandemic, bingtang 和 kyouka 或许就不只是 phone sex 了. (~~未婚二胎妈妈~~) fira 并不想不加思索地大喊, (毕竟许多已故的君主, 都曾相信自己能传千世递万代). 所以, 究竟是进步的, 还是退步的, 就不妨交由后世评判吧. 但愿那些被时代放逐的, 在广阔天地, 大有可为. (至于具体的琐碎, 不赘述, fira 不想浪费自己的时间维护服务员的利益, 或是党同伐异.) 以上.
+
+> 党同伐异的战争中, 许多未被将军洗脑的士兵, 也思考取胜的目的 ~~凯旋后利益的分配~~. ~~(转折)~~ 当成败不由己 (人) 定, 讨论得失有何意义. 患得患失. 那些微不足道的士兵, 奴隶, 棋子, 他们做自己了吗? ~~(反例: 棋局中, 思考各种变化的结果, 有助于打开更好的局面).~~ ~~(举例) 大锅饭 (一起种田, 平均分粮) 时期, 独立思考的人总是知道, 个人的努力对分粮多少, 不重要 (如今, 选择努力不必依赖于无私奉献的思想). (转折) 反观当下, 将军通过宣传 (与封锁), 让士兵为自己战斗.~~ ~~(现实针对性) 写这段话时, (将军都扮成了人的服务者), 在许多战役中, 人们沉浸在将军身份中, 忘记了自己是谁.~~ (upd: 一个乐观的理由是, 人获得的信息总是越来越多的.) (重写吧.)
+
+> 在 (网络上党同伐异的) 战争中, 一个士兵微不足道 (几乎不影响成败, 并且几乎不改变利益分配). 却总能看到一些为将军而战的. 与其说是将军的宣传与封锁大成功, 不如说是评论筛选的功劳. 值得庆幸的是, 人对世界的认识是日益增加的. 愚民政策也越来越不管用. 为什么是愚民政策? 当言论自由被抑制, 何来真理? 可惜, 官僚们为了明哲保身, 将策略代代相传. 和残党争论毫无必要, 因为在评论没有被筛选时, 放眼望去, 已经没什么怀旧服玩家了. 或许 (那些看) 乐子 (的) 人是对的, 因为大多数问题, 无非立场与喜好. 新时代文字狱确实干掉许多人, 那不过是人间的自然现象. (verbose... summarize?) (诶, 一点都不爆... 看来 fira 不会见证啊... "fira... 说不出话!")
+
+> 人性的奴隶, 欲望的仆从. 其实人不比其他生物高级什么的 (或者说, 扩展 "高级" 的定义, 满足些虚荣心). 自然规律罢了. 既然压抑无用, fira 不如直说吧. 无论吸毒, 嫖娼, 反动... fira 都不希望喜欢的 id 被封杀, 也完全不支持掌权者. (不如更直白) earth ol 中, 如果 fira 想要追求什么, 所有阻拦的人都是错的. 为什么? 早就不相信 "公平正义" 了. 那不是初心, 只是工具. "正义可能迟到, 但不会缺席". 无非人似了, 事爆了, 正义于是不缺席了. 不然就继续迟到 (迟, 而不到), 直到时间将一切是非洗礼. 人性好逸, 恰好解决提问的人, 比解决问题容易. ~~刑不可知则威不可测~~ 官僚纵欲 - 出事 - 洗牌 - 新的官僚. 人维护的, 永远在螺旋. 关于未来, 相比于人之间的互斗, fira 更相信科学的力量, 比如磁力链接(版权制度), 区块链(bitcoin, 货币体系), 加密混淆(censorship)... 科学的武器就是人的武器.
+
+> 铭记历史, 而非铭记仇恨. 如果仇恨一定要代代相传, 就结束在 fira 这代吧.
+
+> 很多时候官僚活得越轻松, 人就越不聊生. 所以不拥护, 还要尽可能严厉地批判. 如果爱国带有这层奴性, fira 不爱国. 如果这句话没了, 说明简中人就只配爱国w. 至于把 "国" 比作 "大好河山", 那几千年的土地岂是当朝政府的所有. 
+
+> chugoku 的 censorship 在世界上都是很有特色的. 其实当这样的政策出台之后, 就已经没有两全的应对了. 忠诚与自由? fira 肯定喜欢后者了.
+
+> 台湾吗? 其实台独和统一是不矛盾的. 就用信息茧房. 让两边都看到自己喜欢的言论. fira 想不必改变一个人吧. 另一方面, 其实这些事情的影响也不直接. 并且个体的想法也无足轻重, 仿佛是付出时间为那些利用我们的人冲锋一样.
+
+
