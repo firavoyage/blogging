@@ -1,5 +1,9 @@
 # pure project: math
 
+## ideas
+
+> (pure.math) 从 5 个 (不同的) 球中任意选两个, 和任意不选两个 (选另外三个), 可能性数量是一样的. 无非选完把两列上下调换就一一对应了. (ref vtubers.zh.asoul)
+
 ## guidelines
 
 - h2 for title

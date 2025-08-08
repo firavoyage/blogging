@@ -1,6 +1,6 @@
-<!-- todo: memories/blogs, memories/comments, memories/..., web, sync -->
+<!-- todo: categorize web, sync -->
 
-<!-- categorize zhihu fav, berryberry fav, split learning to school and university, split dev to algorithms demo and learning... -->
+<!-- categorize berryberry fav, zhihu fav -->
 
 # $weekly$
 
@@ -82,7 +82,7 @@
 - listen on antennapod
 - categorize & archive zhihu / berryberry favorites
 - organize repo web
-- organize repo memories
+<!-- - organize repo memories -->
 - sync with the phone
 
 ## 20250603

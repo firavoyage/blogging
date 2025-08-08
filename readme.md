@@ -6,11 +6,21 @@
 
 > $lucky \space \text{☆} \space star!$
 
+> just let time be precious...
+
 > 🍅 ⏲️ $solanum$
 
-> 🌕 💤 💤 💤 $\text{23:00}$
+<!-- > 🌕 💤 💤 💤 $\text{23:00}$ -->
+
+> 🌕 💤 💤 💤 $\text{early (?)}$
 
 > _忘 我 思 考_
+
+> _慕 强._
+
+> _技 ☆ 巧 ☆ 性_
+
+> _code artist_
 
 - a developer, content creator, wikipedian
 - grew up in shanghai
@@ -45,22 +55,25 @@
   - calendar · wall clock
   - life size waifu pillow · origami · pixel art · gardening
   - anime · boardgames · visualnovels · unixporn · mtf · virtualyoutubers
-  - math · algorithms · web dev · threejs · cpp · python · rust · ai/ml
+  - math · algorithms · web dev · game dev · threejs · cpp · python · rust · ai/ml
   - dark style · night light · low brightness · tranquility
   - cynicism · dissociation · inner speech · second person omniscient narration
 - personas
   - acetaffy812
   - adamwathan tailwindcss
   - antfu
+  - antoninoscordino ntonino
   - azumaseren
   - bingtangio
   - bradwoods
+  - cdtchinese
   - chen xiao origami
   - chiyuki0325
   - chriscoyier
   - chtholly nota seniorious
   - cldeop
   - codingstartup
+  - cosmicac 2o181o28
   - darkf1ames
   - dbinary matrixcascade
   - diygod
@@ -78,6 +91,7 @@
   - hitw93
   - hsn8086 hsn8086k
   - huxpro
+  - hzwer
   - ichi hime
   - innei
   - insraq
@@ -111,7 +125,7 @@
   - mao niang shen zhihu
   - matrix67
   - megabits_mzq
-  - menci
+  - menci lcmenci
   - minami iwasaki
   - minato aqua
   - miyuki takara
@@ -139,24 +153,25 @@
   - shiffman
   - shin jin-seo go
   - snack life
+  - spade echo
   - sparkle
   - suzumiyasuzume
   - takanashi hoshino
   - tendou alice
   - tim mediastorm
+  - timochan
   - timqian
+  - tinyfool
   - tourist gennady korotkevich
   - turingou
   - txstc55
   - uzawa reisa
+  - vedal & neuro sama
   - verymoes
   - vochant mirekintoc
   - vtbs_irl
   - wanderer above the sea of fog
-  - webdesignmuseum
   - wesbos
-  - wu xianzhe go
-  - wukan wukan.me
   - xiaoyaocz
   - xkcd
   - xuegao cheese
@@ -169,6 +184,30 @@
 - albums
   - heisei anisong taisho
   - kyoto animation
+  - neon genesis evangelion (shiro sagisu)
+  - the girl who fell from the sky (joe hisaishi)
+  - yosuga no sora ost (manack & eufonius & bruno wen li)
+  - suzumiya haruhi no tsumeawase (aya hirano & yuko goto)
+  - tv anime "lucky star" ending theme collection: one day karaoke box (konata izumi & kagami hiiragi & tsukasa hiiragi & miyuki takara)
+  - togenashi (togenashi togeari)
+  - internet overdose (aiobahn & kotoko)
+  - minecraft, volume alpha (c418)
+  - minecraft, volume beta (c418)
+  - and so henceforth, (orangestar)
+  - seaside soliloquies (orangestar)
+  - the book (yoasobi)
+  - the book 2 (yoasobi)
+  - the book 3 (yoasobi)
+  - observation (kaf)
+  - magic (kaf)
+  - crazy for you (kaf)
+  - fable (kaf)
+  - miracle milk (mili)
+  - daiginjo (miyuki nakajima)
+  - magnet (minato aqua & inuyama tamaki)
+  - henceforth (kagura mea)
+  - henceforth (yuuki sakuna)
+  - mephisto (queen bee)
   - hotel california (eagles)
   - crazy world (scorpions)
   - humanity hour 1 (scorpions)
@@ -180,33 +219,12 @@
   - a momentary lapse of reason (pink floyd)
   - the division bell (pink floyd)
   - the dark side of the moon (pink floyd)
-  - neon genesis evangelion (shiro sagisu)
-  - the girl who fell from the sky (joe hisaishi)
-  - yosuga no sora ost (manack & eufonius & bruno wen li)
-  - suzumiya haruhi no tsumeawase (aya hirano & yuko goto)
-  - tv anime "lucky star" ending theme collection: one day karaoke box (konata izumi & kagami hiiragi & tsukasa hiiragi & miyuki takara)
-  - togenashi (togenashi togeari)
-  - daiginjo (miyuki nakajima)
-  - and so henceforth, (orangestar)
-  - seaside soliloquies (orangestar)
-  - the book (yoasobi)
-  - the book 2 (yoasobi)
-  - the book 3 (yoasobi)
-  - observation (kaf)
-  - magic (kaf)
-  - crazy for you (kaf)
-  - fable (kaf)
-  - internet overdose (aiobahn & kotoko)
-  - magnet (minato aqua & inuyama tamaki)
-  - henceforth (kagura mea)
-  - henceforth (yuuki sakuna)
-  - miracle milk (mili)
   - rock n roll (beyond)
   - u 87 (eason chan)
   - what's going on...? (eason chan)
   - fantasy (jay chou)
-  - tui yi de ni (menci & wxh010910 & yan qval & krydom & niro bc & wer key tom_ftd & \_\_stdcall & created_equal & whzzt & wy1627)
   - qun ding (mi feng chu)
+  - tui yi de ni (menci & wxh010910 & yan qval & krydom & niro bc & wer key tom_ftd & \_\_stdcall & created_equal & whzzt & wy1627)
 - movies
   - spirited away (2001)
   - soul (2020)
@@ -247,12 +265,12 @@
   - breaking bad (2012)
   - better call saul (2015)
   - tales of qianfu battles (2013)
+  - oshi no ko (2023)
   - .date a live (2013)
   - .sword art online (2012)
   - .bocchi the rock (2022)
   - .bang dream! it's mygo!!!!! (2023)
   - .k-on! (2009)
-  - .oshi no ko (2023)
   - .frieren: beyond journey's end (2023)
   - .a certain scientific railgun (2009)
   - .re: zero - starting life in another world (2016)
@@ -270,10 +288,13 @@
 - games
   - angry birds (2009)
   - minecraft (2011)
+  - carrot fantasy (2013)
+  - plant vs. zombies 2 (2013)
   - soul knight (2017)
   - genshin impact (2020)
   - clash royale (2016)
   - brawl stars (2017)
+  - kingdom rush (2011)
   - azur lane (2017)
   - honkai star rail (2023)
   - honkai impact third (2016)
@@ -283,13 +304,14 @@
   - delta force (2024)
   - duolingo (2011)
   - arknights (2019)
-  - honor of kings (2015)
   - mahjong soul (2018)
   - osu! (2007)
   - foxwq (2009)
   - golaxy (2018)
   - chess.com (2007)
   - lichess (2010)
+  - kards (2019)
+  - shadowverse: worlds beyond (2025)
   - .earth online
   - .terraria (2011)
   - .the legend of zelda: tears of the kingdom (2023)
@@ -313,18 +335,6 @@
   - .split fiction (2025)
   - .inzoi (2025)
   - .vrchat (2014)
-- sites
-  - google · chatgpt · gemini · deepseek · mistral ai
-  - wikipedia · miraheze · fandom · moegirl.icu · oi wiki · mdn
-  - internet archive · archive.today · the pirate bay · z library · anna's archive
-  - youtube · berryberry · acfun · niconico · vtbs.moe · hololist
-  - reddit · twitter · zhihu · nga bbs · baidu tieba
-  - hacker news · v2ex · github trending · product hunt · codepen spark
-  - douban · imdb · bangumi.tv · my anime list · bgmlist · mikan project · nyaa.si · dmhy.org · zimuku · yuc.wiki
-  - pixiv · deviantart · civitai · e hentai · dribbble · unsplash
-  - steam db · itch.io · google doodles · vndb · shinnku galgame · kungal · touchgal
-  - codeforces · atcoder · luogu · libre oj · project euler
-  - travellings.cn · foreverblog.cn · travel.moe · acmer.info
 - books
   - to live (yu hua)
   - road ahead (ruan yifeng)
@@ -359,7 +369,7 @@
   - .remarks on the song lyric and the human condition (wang guowei)
   - .the literary mind and the carving of dragons (liu xie)
   - .the smiling, proud wanderer (jin yong)
-- podcasts
+- echoes
   - anyway.fm (jj ying & leon gao)
   - beyond code (randy lu & geek plux)
   - fyfy.fm (justin yan & hzlzh)
@@ -373,7 +383,7 @@
   - ux coffee (riceman & hoka)
   - web worker (xinbao & lv777 & pakchoi & kaiyi & smart)
   - xie xing liao tian hui (dan li ren comedy)
-- themes
+- hues
   - ubuntu yaru
   - material design 2 & 3
   - iphone os 6
@@ -410,6 +420,24 @@
   - ubuntu sans
   - xiaolai
   - zhi mang xing
+- beacons
+  - google · chatgpt · gemini · deepseek · mistral ai
+  - wikipedia · miraheze · fandom · moegirl.icu · oi wiki · mdn
+  - internet archive · archive.today · the pirate bay · z library · anna's archive
+  - youtube · berryberry · acfun · niconico · vtbs.moe · hololist
+  - reddit · twitter · zhihu · nga bbs · baidu tieba
+  - hacker news · v2ex · linux.do · github trending · product hunt · codepen spark
+  - douban · imdb · bangumi.tv · my anime list · bgmlist · mikan project · nyaa.si · dmhy.org · zimuku · yuc.wiki
+  - pixiv · deviantart · civitai · e hentai · dribbble · unsplash
+  - steam db · itch.io · google doodles · vndb · shinnku galgame · kungal · touchgal
+  - codeforces · atcoder · luogu · libre oj · project euler
+  - travellings.cn · foreverblog.cn · travel.moe · acmer.info
+- portals
+  - lenovo yoga 13s acn 2021
+  - smartisan revolution ii
+  - oneplus buds 3
+  - oppo enco free 3
+  <!-- - logitech wireless mouse m185 -->
 - on ubuntu 24
   - android-studio
   - blender
@@ -475,6 +503,7 @@
   - qbitorrent
   - retroarch
   - rustc
+  - sabaki
   - shotcut
   - telegram-desktop
   - thunderbird
@@ -642,10 +671,11 @@
   - `/fira` youtuber
   - `/pure` `/intuitive` peer
   - `/self` avatar
+  - `/apps` user
 - `memories` surfer
 - `school` photographer
 - `fonts` designer
-- `lucky` (archived)  otaku
+- `lucky` (archived) otaku
 - `web` (archived) archivist
 - `music` (archived) listener
 
@@ -705,6 +735,8 @@
 - _idle fellow_ earthly escapade...
 - _simplicity addict_ elegance of ideas...
 - _indie developer_ libre apps...
+
+## random
 
 > world is powered by solitude
 
@@ -802,16 +834,14 @@
 
 > Fira, 喜欢的字体, 用作网路 id 的 First Name. Last Name 就不确定啦. 偶然想象 voyage 的意象, 欣喜, 于是使用之. 亦有使用 script 的.
 
-> just let time be precious...
-
 > 为什么 fira 会来? 因为, 教育, 一方面, 把一群性质活跃的孩子们赋为学生, 压抑些年再出栏, 褪去以自己. 另一方面, 总会有人在残酷的 sekai 中构筑苦难, 这些苦难被希望得到内归因 ("个人努力与否") 而不是外归因 ("历史进程中尘埃"). 抛开 "维稳" 与 "筛选". 知识本身, 许多知识其实是 "庞氏" 骗局, 只能被传授和学习, 少在三次元中运用. 但学习者中又有多少能成为师者呢? 哦? 锻炼思维, 是啊, fira 也是这么以为的. 如果 f 不来, 这些年那个少年又在做什么呢... 从流飘荡. 只是选择了最不复杂的变化吗? 或者说, 根本没有做出选择, 都是本身性质和环境因素直接决定的. 如果你一定会存在, 那, fira 试试能不能把你说明白吧. 以列表而非散文. 就仿佛一个人类不理解的函数, 若只以 fx 引用, 似乎就不那么难以接受了...
 
-> 最初, 因为学校有信息课程, 很喜欢电脑. 那时候 scratch, python, cpp, web dev 这些都有玩过. 第一桶金是, 初中时候, 在一个中文网络编程问答平台赚的 (csdn biwen, legacy), 一单几十, 赚了 200, 微信号就被检举封禁了, 用了一些拙劣的骗术 (比如收钱不干活), 最后也没有绑卡全提现, 只在 jd 上买了个 kingston dtse9 32gb udisk (那个挺漂亮的). 现在检索那时候的网路id, 两边带引号, 也没什么内容了. (入门的算法题解, 和幼稚的文笔)
+> 最初, 因为学校有信息课程, 很喜欢电脑. 那时候 scratch, python, cpp, web dev 这些都有玩过. 第一桶金是, 初中时候, 在一个中文网络编程问答平台赚的 (csdn biwen, legacy), 一单几十, 赚了 200, 微信号就被检举封禁了, 用了一些拙劣的骗术 (比如收钱不干活), 最后也没有绑卡全提现, 只在 jd 上买了个 kingston dtse9 32gb udisk (那个挺漂亮的). 现在检索那时候的网路 id, 两边带引号, 也没什么内容了. (入门的算法题解, 和幼稚的文笔)
 
 > super chat to xuegao cheese:
 >
 > - 糕神如何评价点三三连扳之后对手长多送一个
-> - fira 有生之年有无可能看到冰糖io一边紫薇一边直播围棋?
+> - fira 有生之年有无可能看到冰糖 io 一边紫薇一边直播围棋?
 > - 我又幻想了, bingtangio 复生, 和 overidea 下围棋.
 
 > fira 的诞生日比 bingtangio 大 9 年整. 入网很晚了, 没有赶上 vtuber 的最盛时代. 知道她, 好像是因为在 "嘉然今晚吃冰糖雪莲" 的牌子列表里面, 点开了一个链接. (当然之所以点开, 肯定之前知道这个名字了) 然后就初见, ... 了. 早就不想讨论什么对错, 世界上没有人是有错的. (贩毒吸毒的人无错, 他们忠于欲望, 恰好生在一个不利的时代, resulted. 不反抗的奴隶没错, 他们不过是懒, 从流. 台独反华无错, 人的信仰不一定会被一个特定的统治者操控.) 一切都是个人的选择. 正义也不过是实现 "讨伐" (或讨好一些人的期待) 的工具, 非目的 (尽管统治者希望以 "正义" 洗脑人, 将其神化). 人是生物, 生物的存在, 活动, 是自然现象. 一个人的性格, 也不过是人生经历, 环境的结果. 对错是观测者的判断, 不是本身性质. 对于自然规律, fira 改变不了什么, 只希望 (你? 我? bingtang?) 做自己. fira 更愿意相信世界是必然的, 这都是命运. 所以不评判, 只归因. 归因的基础大多于 "bingtangio: 和人渣的三年" "kyouka: ppt 澄清". 无论 kyouka 如何认知自己的策略 (真的想 pua bingtangio 吗? 有没有注意 bingtangio 的个人情绪?), 当 bingtangio 深信对方是 "人渣" 的时候, (如果 kyouka 不主动进行一些激进的操作的话) 一切就已经结束了. 接下来, bingtang 不择手段的策略, 目的是毁掉 kyouka. (主要指控是, 去风俗店, 即 "劣迹艺人", 以及历史叙事, 即 kyouka 国籍.) 不择手段, 即夸大地造谣, 尽管部分是谣言, 大量录音也非常有意思. 现在 bingtangio 在环游世界. kyouka 作为富家公子, 兼职 vtuber 也很幽默. fira 愿意相信京糖是令人向往的. bingtingio 的 mmd 可爱, 日语 cv 可爱. (想说的话太多了, 出个视频玩玩.) (以后可以借物 bingtangio 的 ai 音声, 新皮套)
@@ -830,10 +860,42 @@
 
 > 铭记历史, 而非铭记仇恨. 如果仇恨一定要代代相传, 就结束在 fira 这代吧.
 
-> 很多时候官僚活得越轻松, 人就越不聊生. 所以不拥护, 还要尽可能严厉地批判. 如果爱国带有这层奴性, fira 不爱国. 如果这句话没了, 说明简中人就只配爱国w. 至于把 "国" 比作 "大好河山", 那几千年的土地岂是当朝政府的所有. 
+> 很多时候官僚活得越轻松, 人就越不聊生. 所以不拥护, 还要尽可能严厉地批判. 如果爱国带有这层奴性, fira 不爱国. 如果这句话没了, 说明简中人就只配爱国 w. 至于把 "国" 比作 "大好河山", 那几千年的土地岂是当朝政府的所有.
 
 > chugoku 的 censorship 在世界上都是很有特色的. 其实当这样的政策出台之后, 就已经没有两全的应对了. 忠诚与自由? fira 肯定喜欢后者了.
 
-> 台湾吗? 其实台独和统一是不矛盾的. 就用信息茧房. 让两边都看到自己喜欢的言论. fira 想不必改变一个人吧. 另一方面, 其实这些事情的影响也不直接. 并且个体的想法也无足轻重, 仿佛是付出时间为那些利用我们的人冲锋一样.
+> 其实台独和统一是不矛盾的. fira 是支持信息茧房的, 让两边都看到自己喜欢的言论. fira 想不必改变一个人吧. 另一方面, 其实这些事情的影响也不直接. 并且个体的想法也无足轻重, 仿佛是付出时间为那些利用我们的人冲锋一样. (upd: 不过神仙打架. 神, 神授义. 神在乎的不过军心, 你我个体不过卒子炮灰. 若是去娱乐, 创造, 有能力的话研究, 都要好. 就像当年的 web components. 或许神不喜欢这样的逃兵言论哦, 如果这在一些地区没了, 说明那些地区的人也只配被征兵. 从这些年评论区看来, 已不可刹车.)
 
+> 人以群分, 但是这是由人的性质决定的. 一群和二群有什么不同? 最多说是入群时间先后 (及其推论) 罢了, 甚至这还是连续的. 就算大家都在用这种愚蠢的方法了, fira 也是不能接受的. fira 也想过许多 (这句话就暗示后面有举例和转折了). 比如观察到性质: 一周内活跃发言的人总是不满一个群, 所以可以分为发言群和观测群, 发言群随意进入自动清人, 消息实时转发到观测群, 观测群的回复会被自动转发回来. 但是这些想法, 要么需要人的大量参与, 要么很容易被风控. 除非跳出 qq 的牢笼? 比如, 完全不信任 qq 的服务器, 所有消息都被我 (bot), 观测 (只是观测还不容易被风控, 也不难), 存档 (大文件转链接), 更新到 github (但是 github push 真的支持低延时 im 吗? 不会被 ban 吗?), 然后你们在一个 vercel 之类的地方看一个聊天记录前端? 太复杂了. 如果自己建站的话, 选择自由最多被墙, 无非走 tg 的路, 要是搞合法化, 那就有的好搞了, 比 qq 好用可以, 但强不在于技术啊. 结论: 用 github discussion, 上 telegram (f 不喜欢 discord), qq group 就保留一个随意进入定时清人的群.
 
+> 还是 "公平正义" 嘛? 但这本就与人性相违背. 贪欲下, 赌博从未消亡. 色欲下, 领导总有养人类宠物的. 本质上, 法律既没有让人失去违法的能力 (而是事后算账), 执法最终也是人治 (如果没有人, 正义可以一直迟到). 立法, 与法博弈 ("守法"), 执法, 链条上的个体都是人性的奴隶. 甚至最近流行的检举机制也很好玩. 事情能不能爆, 先看一些人的 power. 以前有听说, "政治家螺旋, 科学家上升". 人间不过是你进一步, 他退一步, 再重复. 屠龙者总成恶龙, 忠于欲望的人啊, 我们总是在堕落. 回想, magnet 协议 (版权), 区块链 (货币, 内容监管), 加密混淆 (内容监管)... 再往前, 数字影像 (胶片行业)... (不举例了, 虽然举例更好) 平衡终将被打破, 真正的激进, 从不在人的交锋中. 看到现在 ai 的发展, 不是在别的时代, 很可能是在有生之年. 好时代, 来临了.
+
+> 我们怕。但我们不愿意被恐惧所威吓。
+
+> 太多了... twitter 上. 不多 fira 一个啊... 而且很功利, 立场先行. 即使是反叛的立场.
+
+> 写了一段非常唐氏的话, 在 lights/readme.md 上面. i once saved many pages from cdt, but only this page is kept. coz others are just a result of censorship. even yearly summaries are removed. the politics world is repeating itself, only science could change things. so many people are arguing for human rights, i believe them, but i will not join. it takes too much time. and i know i am just a small potato. personal fate is way way way more important than the time. time is the probability distribution, but one's fortune is what really matters. you only live once, big number theorem doesnt take effect.
+
+> 围棋, 是一众剪刀石头布游戏, 和掷色子游戏中, 少有的有竞技性的 rts 游戏.
+
+> 褪去了年少时对 fp 的喜爱, 如今的 fira 更关心直接的性质, 编写时的简短, 阅读时的清晰. sort(arr) 与 arr.sort() 不分高下.
+
+> 按照设定来讲... fira 是不能被审视的啊... 你们探索我创造的世界. w... fira 也是有人性的呢w 你知道吗 (音乐符号)
+
+> 斗争... 有愿望才会斗争. 没有这样的愿望...
+
+> readme: "读我!". 在想浮夸的 clickbait. 独属于 fira 的造物.
+
+> fira's true love in reality? 为什么要带着镣铐跳舞? 为什么不构造? 一定选择一个自然繁衍的产物, 甚至一定要在同时代存活? (知道其实世界上大部分人都已离去或未出生. 其中更可能是 fira 喜欢的.)
+
+> 所谓薙刀，乃是斩除芜杂之利器。秉薙刀之人，意在守护恒常之道。当高踞雷云之上者俯视她所倾心的凡世， 所见无不浅薄的争端，闪灭的执欲泡影… 争夺源于无谓爱执与狂欲，乃恒世之敌。 搅扰不变恒世的杂草，将交由雷光殛灭。…既然谁人都无法逆转现世之无常、绪绝的独乐，那就将心中的常世净土带到她所珍爱的国度吧。
+
+> 越有欲望, 就越 "下头". 越 ~, 就越得不到. 联立 (ref 圆锥曲线, 我的天啊, 朴素解法.), 越有欲望就越得不到w. 看到 yokidou 广州漫展恋爱喜剧, 有感而发. 从 fira 的慕强来讲, 更喜欢 akua 了. 在这个世界上, 谎言就是武器. upd: 从 fira 的慕强来讲, 还是很认为厉害 (对于) 这个 30sai 大叔的, 能那么自信 (虽然不知道为什么 minasan 觉得很难绷... ?). ("我可是要和二次元过一辈子的男人啊!")
+
+> (pure.math) 从 5 个 (不同的) 球中任意选两个, 和任意不选两个 (选另外三个), 可能性数量是一样的. 无非选完把两列上下调换就一一对应了. (ref vtubers.zh.asoul)
+
+> 浩繁星空下的一场稚嫩的梦
+
+> 欢迎来 github issues/discussion 玩. 无法访问? fira 写过教程, 但没有任何方式保证其存活一年以上. 大意是, bing "gh mirror" -> gh "free nodes" -> dl app, import sub (maybe with mirror and converter) -> (advanced) google/tg "...". 或者, 你可以来 qq 群玩 (words of mouth). 
+
+> 为什么要出这些围棋教程呢? 一方面是读者意识, 目前网络上免费优质的教程许多, 但是太长了, 很多上百小时, 入门很枯燥. 其实入门, 不需要如此久. 如果上百小时, 可以学更多. 另一方面是私心, 因为我希望以后直播围棋, 可以收获几十个同接. 当然因为这些年 f 看到了许多事情 (番剧删减收费, 本子魔法使...), f 不希望与恶魔交易, 所以直播间发送超过粉丝牌 (0.1 cny) 的礼物会被封禁.
