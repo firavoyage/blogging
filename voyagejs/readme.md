@@ -1,7 +1,14 @@
-## voyage.js
+## voyage.js, the web framework
 
-another js framework, by fira.
+the web framework that fira loves
 
-write less code with elegant api
+only essential methods included
 
+- component
+  - prop (i.e. state)
+  - effect
+- utilities
+  - show (i.e. v-if)
+  - each (i.e. v-for)
+- styling
 

@@ -1,0 +1,578 @@
+<!-- author: deepseek v3 hosted on deepseek.com
+time: 2025.08.08 05:55 -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Go Game</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            background-color: #f5f5dc;
+            margin: 0;
+            padding: 10px;
+            overflow: hidden;
+            height: 100vh;
+            box-sizing: border-box;
+        }
+        
+        #go-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            flex-grow: 1;
+            width: 100%;
+        }
+        
+        #go-board {
+            background-color: #DCB35C;
+            position: relative;
+            border: 2px solid #000;
+            aspect-ratio: 1/1;
+        }
+        
+        .grid-line {
+            position: absolute;
+            background-color: #000;
+        }
+        
+        .horizontal-line {
+            width: calc(100% - 40px);
+            height: 1px;
+            left: 20px;
+        }
+        
+        .vertical-line {
+            width: 1px;
+            height: calc(100% - 40px);
+            top: 20px;
+        }
+        
+        .stone {
+            position: absolute;
+            border-radius: 50%;
+            transform: translate(-50%, -50%);
+            box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+            z-index: 10;
+        }
+        
+        .black {
+            background: radial-gradient(circle at 30% 30%, #666, #000);
+        }
+        
+        .white {
+            background: radial-gradient(circle at 30% 30%, #fff, #ccc);
+        }
+        
+        .controls {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 10px;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+        
+        button {
+            padding: 8px 16px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        
+        button:hover {
+            background-color: #45a049;
+        }
+        
+        #status {
+            font-weight: bold;
+            margin-bottom: 10px;
+            text-align: center;
+        }
+        
+        .star-point {
+            position: absolute;
+            background-color: #000;
+            border-radius: 50%;
+            transform: translate(-50%, -50%);
+            z-index: 5;
+        }
+        
+        .file-input {
+            display: none;
+        }
+        
+        .move-number {
+            position: absolute;
+            font-size: 10px;
+            color: white;
+            transform: translate(-50%, -50%);
+            z-index: 20;
+            pointer-events: none;
+            text-shadow: 1px 1px 1px black;
+        }
+    </style>
+</head>
+<body>
+    <div id="go-container">
+        <div id="status">Black's turn</div>
+        <div class="controls">
+            <button id="pass-btn">Pass</button>
+            <button id="resign-btn">Resign</button>
+            <button id="new-game-btn">New Game</button>
+            <button id="import-btn">Import SGF</button>
+            <button id="export-btn">Export SGF</button>
+            <input type="file" id="file-input" class="file-input" accept=".sgf">
+        </div>
+        <div id="go-board"></div>
+    </div>
+
+    <script>
+        const board = document.getElementById('go-board');
+        const statusDisplay = document.getElementById('status');
+        const passBtn = document.getElementById('pass-btn');
+        const resignBtn = document.getElementById('resign-btn');
+        const newGameBtn = document.getElementById('new-game-btn');
+        const importBtn = document.getElementById('import-btn');
+        const exportBtn = document.getElementById('export-btn');
+        const fileInput = document.getElementById('file-input');
+        const container = document.getElementById('go-container');
+        
+        let currentPlayer = 'black';
+        let gameStates = []; // Stores complete board states for each move
+        let moveHistory = []; // Stores move information
+        let currentMove = 0;
+        const boardSize = 19;
+        let cellSize;
+        let stoneSize;
+        const boardPadding = 20;
+        
+        // Initialize board
+        function initBoard() {
+            // Calculate available space
+            const availableWidth = window.innerWidth - 40;
+            const availableHeight = window.innerHeight - container.offsetTop - 100;
+            const minDimension = Math.min(availableWidth, availableHeight);
+            
+            // Calculate cell size and stone size
+            cellSize = Math.floor(minDimension / boardSize);
+            stoneSize = Math.floor(cellSize * 0.9);
+            
+            // Set board dimensions
+            const boardWidth = (boardSize - 1) * cellSize + boardPadding * 2;
+            board.style.width = `${boardWidth}px`;
+            board.style.height = `${boardWidth}px`;
+            
+            // Set stone size in CSS
+            document.styleSheets[0].insertRule(
+                `.stone { width: ${stoneSize}px; height: ${stoneSize}px; }`, 
+                document.styleSheets[0].cssRules.length
+            );
+            
+            // Set star point size relative to stone size
+            document.styleSheets[0].insertRule(
+                `.star-point { width: ${stoneSize/3}px; height: ${stoneSize/3}px; }`, 
+                document.styleSheets[0].cssRules.length
+            );
+            
+            // Clear existing grid lines
+            const existingLines = board.querySelectorAll('.grid-line, .star-point');
+            existingLines.forEach(el => el.remove());
+            
+            // Create grid lines
+            for (let i = 0; i < boardSize; i++) {
+                // Horizontal lines
+                const hLine = document.createElement('div');
+                hLine.className = 'grid-line horizontal-line';
+                hLine.style.top = `${boardPadding + i * cellSize}px`;
+                board.appendChild(hLine);
+                
+                // Vertical lines
+                const vLine = document.createElement('div');
+                vLine.className = 'grid-line vertical-line';
+                vLine.style.left = `${boardPadding + i * cellSize}px`;
+                board.appendChild(vLine);
+            }
+            
+            // Add star points
+            addStarPoints();
+            
+            // Initialize first game state if empty
+            if (gameStates.length === 0) {
+                gameStates = [createEmptyBoardState()];
+                currentMove = 0;
+                moveHistory = [];
+            }
+            
+            // Redraw current state
+            renderBoardState(gameStates[currentMove], currentMove > 0 ? currentMove : null);
+        }
+        
+        function createEmptyBoardState() {
+            return Array(boardSize).fill().map(() => Array(boardSize).fill(null));
+        }
+        
+        function createStone(x, y, color, moveNumber = null) {
+            const stone = document.createElement('div');
+            stone.className = `stone ${color}`;
+            
+            const left = boardPadding + x * cellSize;
+            const top = boardPadding + y * cellSize;
+            
+            stone.style.left = `${left}px`;
+            stone.style.top = `${top}px`;
+            
+            board.appendChild(stone);
+            
+            // Add move number if provided
+            if (moveNumber !== null) {
+                const number = document.createElement('div');
+                number.className = 'move-number';
+                number.textContent = moveNumber;
+                number.style.left = `${left}px`;
+                number.style.top = `${top}px`;
+                board.appendChild(number);
+            }
+            
+            return stone;
+        }
+        
+        function renderBoardState(state, moveNumber = null) {
+            // Clear the board (only stones and numbers, keep grid lines)
+            const stones = board.querySelectorAll('.stone, .move-number');
+            stones.forEach(stone => stone.remove());
+            
+            // Render all stones
+            for (let y = 0; y < boardSize; y++) {
+                for (let x = 0; x < boardSize; x++) {
+                    if (state[y][x]) {
+                        // Only show move number on the last stone if moveNumber is provided
+                        const showNumber = moveNumber !== null && 
+                                         x === moveHistory[moveNumber-1]?.x && 
+                                         y === moveHistory[moveNumber-1]?.y;
+                        createStone(x, y, state[y][x], showNumber ? moveNumber : null);
+                    }
+                }
+            }
+        }
+        
+        function isValidMove(x, y, state) {
+            // Check if position is empty
+            return state[y][x] === null;
+        }
+        
+        function getAdjacentPositions(x, y) {
+            return [
+                {x: x-1, y},
+                {x: x+1, y},
+                {x, y: y-1},
+                {x, y: y+1}
+            ].filter(pos => pos.x >= 0 && pos.x < boardSize && pos.y >= 0 && pos.y < boardSize);
+        }
+        
+        function countLiberties(x, y, color, state, visited = new Set()) {
+            const key = `${x},${y}`;
+            if (visited.has(key)) return 0;
+            visited.add(key);
+            
+            if (state[y][x] === null) return 1;
+            if (state[y][x] !== color) return 0;
+            
+            let liberties = 0;
+            for (const pos of getAdjacentPositions(x, y)) {
+                liberties += countLiberties(pos.x, pos.y, color, state, visited);
+            }
+            
+            return liberties;
+        }
+        
+        function removeGroupWithNoLiberties(x, y, state) {
+            const color = state[y][x];
+            if (!color) return 0;
+            
+            const visited = new Set();
+            const toRemove = [];
+            
+            function checkGroup(x, y) {
+                const key = `${x},${y}`;
+                if (visited.has(key)) return;
+                visited.add(key);
+                
+                if (state[y][x] !== color) return;
+                toRemove.push({x, y});
+                
+                for (const pos of getAdjacentPositions(x, y)) {
+                    checkGroup(pos.x, pos.y);
+                }
+            }
+            
+            checkGroup(x, y);
+            
+            // Check if the group has any liberties
+            const hasLiberties = toRemove.some(pos => {
+                for (const adj of getAdjacentPositions(pos.x, pos.y)) {
+                    if (state[adj.y][adj.x] === null) {
+                        return true;
+                    }
+                }
+                return false;
+            });
+            
+            if (!hasLiberties) {
+                toRemove.forEach(pos => {
+                    state[pos.y][pos.x] = null;
+                });
+                return toRemove.length;
+            }
+            
+            return 0;
+        }
+        
+        function makeMove(x, y, player, state) {
+            if (!isValidMove(x, y, state)) return null;
+            
+            const newState = state.map(row => [...row]);
+            newState[y][x] = player;
+            
+            // Check for captures
+            let captures = 0;
+            for (const pos of getAdjacentPositions(x, y)) {
+                if (newState[pos.y][pos.x] && newState[pos.y][pos.x] !== player) {
+                    captures += removeGroupWithNoLiberties(pos.x, pos.y, newState);
+                }
+            }
+            
+            // Check for suicide
+            if (countLiberties(x, y, player, newState) === 0 && captures === 0) {
+                return null; // Suicide not allowed
+            }
+            
+            return newState;
+        }
+        
+        function handleBoardClick(e) {
+            const rect = board.getBoundingClientRect();
+            const boardX = e.clientX - rect.left;
+            const boardY = e.clientY - rect.top;
+            
+            // Calculate nearest intersection
+            const x = Math.round((boardX - boardPadding) / cellSize);
+            const y = Math.round((boardY - boardPadding) / cellSize);
+            
+            if (x >= 0 && x < boardSize && y >= 0 && y < boardSize) {
+                // If we're viewing history, go back to current move first
+                if (currentMove < gameStates.length - 1) {
+                    gameStates = gameStates.slice(0, currentMove + 1);
+                    moveHistory = moveHistory.slice(0, currentMove);
+                }
+                
+                const currentState = gameStates[gameStates.length - 1];
+                const newState = makeMove(x, y, currentPlayer, currentState);
+                
+                if (newState) {
+                    gameStates.push(newState);
+                    moveHistory.push({x, y, player: currentPlayer});
+                    currentMove = gameStates.length - 1;
+                    renderBoardState(newState, moveHistory.length);
+                    
+                    currentPlayer = currentPlayer === 'black' ? 'white' : 'black';
+                    updateStatus();
+                } else {
+                    statusDisplay.textContent = "Invalid move!";
+                }
+            }
+        }
+        
+        function updateStatus() {
+            statusDisplay.textContent = `${currentPlayer.charAt(0).toUpperCase() + currentPlayer.slice(1)}'s turn`;
+        }
+        
+        function passTurn() {
+            // If we're viewing history, go back to current move first
+            if (currentMove < gameStates.length - 1) {
+                gameStates = gameStates.slice(0, currentMove + 1);
+                moveHistory = moveHistory.slice(0, currentMove);
+            }
+            
+            moveHistory.push({player: currentPlayer, pass: true});
+            gameStates.push([...gameStates[gameStates.length - 1]]); // Copy last state
+            currentMove = gameStates.length - 1;
+            
+            currentPlayer = currentPlayer === 'black' ? 'white' : 'black';
+            statusDisplay.textContent = `${currentPlayer.charAt(0).toUpperCase() + currentPlayer.slice(1)}'s turn (passed)`;
+        }
+        
+        function resignGame() {
+            const winner = currentPlayer === 'black' ? 'White' : 'Black';
+            statusDisplay.textContent = `${winner} wins by resignation!`;
+            board.removeEventListener('click', handleBoardClick);
+        }
+        
+        function newGame() {
+            gameStates = [createEmptyBoardState()];
+            moveHistory = [];
+            currentMove = 0;
+            currentPlayer = 'black';
+            
+            initBoard();
+            updateStatus();
+            board.addEventListener('click', handleBoardClick);
+        }
+        
+        function addStarPoints() {
+            const starPoints = [3, 9, 15];
+            starPoints.forEach(x => {
+                starPoints.forEach(y => {
+                    const star = document.createElement('div');
+                    star.className = 'star-point';
+                    star.style.left = `${boardPadding + x * cellSize}px`;
+                    star.style.top = `${boardPadding + y * cellSize}px`;
+                    board.appendChild(star);
+                });
+            });
+        }
+        
+        function navigateMove(direction) {
+            if (direction === 'forward' && currentMove < gameStates.length - 1) {
+                currentMove++;
+                renderBoardState(gameStates[currentMove], currentMove);
+            } else if (direction === 'backward' && currentMove > 0) {
+                currentMove--;
+                renderBoardState(gameStates[currentMove], currentMove > 0 ? currentMove : null);
+            }
+            
+            // Update player based on whose turn it should be next
+            if (currentMove < gameStates.length - 1) {
+                // We're viewing history - next move would be by the same player
+                currentPlayer = moveHistory[currentMove]?.player === 'black' ? 'white' : 'black';
+            } else {
+                // We're at current position - next move is by currentPlayer
+            }
+            
+            updateStatus();
+        }
+        
+        function exportSGF() {
+            let sgf = "(;GM[1]FF[4]CA[UTF-8]AP[WebGo]SZ[19]KM[6.5]";
+            
+            // Add moves
+            moveHistory.forEach((move, i) => {
+                if (move.pass) {
+                    sgf += `;${move.player === 'black' ? 'B' : 'W'}[]`;
+                } else {
+                    const xChar = String.fromCharCode(97 + move.x);
+                    const yChar = String.fromCharCode(97 + move.y);
+                    sgf += `;${move.player === 'black' ? 'B' : 'W'}[${xChar}${yChar}]`;
+                }
+            });
+            
+            sgf += ")";
+            
+            // Create download link
+            const blob = new Blob([sgf], {type: 'text/plain'});
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = 'game.sgf';
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+            URL.revokeObjectURL(url);
+        }
+        
+        function importSGF(file) {
+            const reader = new FileReader();
+            reader.onload = function(e) {
+                const sgf = e.target.result;
+                try {
+                    const newGameStates = [createEmptyBoardState()];
+                    const newMoveHistory = [];
+                    let currentState = createEmptyBoardState();
+                    let currentColor = 'black';
+                    
+                    // Simple SGF parser
+                    const moves = [];
+                    let match;
+                    const moveRegex = /;(B|W)\[([a-z]{2})?\]/g;
+                    
+                    while ((match = moveRegex.exec(sgf)) !== null) {
+                        const color = match[1] === 'B' ? 'black' : 'white';
+                        if (match[2]) {
+                            const x = match[2].charCodeAt(0) - 97;
+                            const y = match[2].charCodeAt(1) - 97;
+                            moves.push({color, x, y});
+                        } else {
+                            moves.push({color, pass: true});
+                        }
+                    }
+                    
+                    // Process each move
+                    for (const move of moves) {
+                        if (move.pass) {
+                            newMoveHistory.push({player: move.color, pass: true});
+                            newGameStates.push([...currentState]); // Copy current state
+                        } else {
+                            const newState = makeMove(move.x, move.y, move.color, currentState);
+                            if (newState) {
+                                newMoveHistory.push({player: move.color, x: move.x, y: move.y});
+                                newGameStates.push(newState);
+                                currentState = newState;
+                            }
+                        }
+                    }
+                    
+                    // Update game with imported data
+                    gameStates = newGameStates;
+                    moveHistory = newMoveHistory;
+                    currentMove = gameStates.length - 1;
+                    currentPlayer = moveHistory.length > 0 ? 
+                        (moveHistory[moveHistory.length - 1].player === 'black' ? 'white' : 'black') : 
+                        'black';
+                    
+                    initBoard(); // This will now properly redraw everything
+                    updateStatus();
+                    
+                } catch (error) {
+                    alert("Error parsing SGF file: " + error.message);
+                }
+            };
+            reader.readAsText(file);
+        }
+        
+        // Handle window resize - now preserves game state
+        window.addEventListener('resize', () => {
+            // Only redraw grid and stones, don't reset game state
+            initBoard();
+        });
+        
+        // Handle keyboard navigation
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'j' || e.key === 'J') {
+                navigateMove('forward');
+            } else if (e.key === 'k' || e.key === 'K') {
+                navigateMove('backward');
+            }
+        });
+        
+        // Initialize the game
+        initBoard();
+        board.addEventListener('click', handleBoardClick);
+        passBtn.addEventListener('click', passTurn);
+        resignBtn.addEventListener('click', resignGame);
+        newGameBtn.addEventListener('click', newGame);
+        importBtn.addEventListener('click', () => fileInput.click());
+        exportBtn.addEventListener('click', exportSGF);
+        fileInput.addEventListener('change', (e) => {
+            if (e.target.files.length > 0) {
+                importSGF(e.target.files[0]);
+            }
+        });
+    </script>
+</body>
+</html>

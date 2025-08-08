@@ -1,0 +1,114 @@
+# pages on the internet
+
+> these are pages mostly from `repo_web`, a legacy repo i used to archive pages in 2024, which are most in mhtml format, now converted to markdown and listed here
+>
+> other pages are links from ruanyf weekly
+>
+> referenced on `repo_blogging/ruanyf.md`
+> 
+> some unimportant pages are removed
+
+- `diygod 2023` 2023 平稳过渡
+  - summary
+- `chyk grade14` 📜 何为失败，为何成功？—— 我的 2025 “年中总结”
+  - summary university
+  - **理想中的自己**：进入理想的大学后，会在门门课上取得优异成绩，参加各种学生活动，在充裕的课余时间疯狂写个人项目，GitHub 全绿，走向**人生巅峰**。**现实中的自己**：上了大学后的绩点依然是中游，该学学该摆摆，很多活动觉得很无趣不想参加，课余时间除了稍微打点游戏之外，根本不想碰电脑，一睡睡一上午，GitHub 一片惨白，走向**赛博死亡**。
+  - 在入队之后，我试着与学长们一起打了国赛初赛和软件系统安全赛。但是，这两场比赛都涉及到信息安全的专业知识。我无神地望着深蓝色的比赛平台，在坐了几小时的牢后，勉强解出几道题大败而归。此后，我也断断续续做过几道 NEX 训练赛的题目，可它们都没有给我带来做两次 Hackergame 时的激动和惊喜感。退队的那天，队里我很仰慕的那位学长给我写了一段很长的留言。读完留言的我百感交织，任凭泪水在脸上被寒风凝结，然而也明白了方向必须谨慎选择的道理，感觉 … 自己终于又成长了一点。
+  - 想着能学到更多专业知识，我就随意地报了两门本院开设的选修课。可上了几节后，我却发现正如「通识选修课」之名，这些课基本不涵盖深入的专业知识，讲的只是概述性质，浅尝辄止。与此同时，另外一边，四级考了六百多分沾沾自喜的我，报名了《初级日语》选修课。果然，在自己完全不熟悉的领域，通识选修课就发挥了它应有的作用。在爽拿 4 学分的同时，还接触了完全陌生的新知识，收获很大。
+  - 原地打转了许久，四处碰壁了许久，我的大学第一年就这样过去了。一年前定下的目标远未完成，现在又要提出对下一年的展望了。回望我在第一年里没能完成的目标，究其原因都是因为行动力差。一直在幻想，却因为种种借口而没能去做。希望在大学的第二年里，能成为一个行动力更强的人。与其抱有对未来生活的美好幻想，不如亲自迈出向前的第一步。
+- `chyk grade13` 📜 新生活的敲门砖，人生的巨大转折点 ------ 我的 2024 "年中总结"
+  - summary school
+  - kirikaze chiyuki's uee memories
+- `chyk grade12` 📜 我的 2023：新的改变，新的成长，新的开始
+  - summary school
+  - kirikaze chiyuki's grade 12 memories
+- `chyk love` 一刀斩の小窝-里 😅 学校不是你的婚姻介绍所，更不是你的酒店
+  - weather school
+  - kirikaze chiyuki's grade 12 memories
+  - a unloved chinese boy in a top high school where classmates fall in love
+- `chyk grade11` 📜 我的 2022：悲喜交加，一边长大一边摆烂的一年
+  - summary school
+  - kirikaze chiyuki's grade 11 memories
+  - a chinese northeast high school student's first day with the open internet world
+- `qiront` 简单概括我的用语习惯
+  - weather
+  - auxiliary words in the chinese internet
+- `yunyoujun anime` collection of anime girls that yunyoujun loves
+  - unixporn
+- `figma` Sketch shined a light on UX design. Figma places it at the heart of your organization.
+- `react vue` React 还是 Vue？我对 Web 前端现状的看法
+  - dev web
+  - by cali castle
+- `white paper` 2022 白纸运动
+  - society
+  - by china digital times
+  - i once saved many pages from cdt, but only this page is kept. coz others are just a result of censorship. even yearly summaries are removed. the politics world is repeating itself, only science could change things. so many people are arguing for human rights, i believe them, but i will not join. it takes too much time. and i know i am just a small potato. personal fate is way way way more important than the time. time is the probability distribution, but one's fortune is what really matters. you only live once, big number theorem doesnt take effect.
+- `philip pan` Philip Pan 访谈
+  - society
+  - "new china" of mafia
+- `silence` 寂静之城
+  - society
+  - a famous passage written by chinese referencing 1984, published in 2005
+- `ruanyf 2007` 2007 年我的 Blog 总结
+  - summary
+  - 2007 年，我一共写了 350 多篇网志，差不多一天一篇。
+  - 《Happy Pi Day!》, 《核心期刊的涵义》, 《什么是"人民民主专政"？》
+- `ruanyf 2008` 2008 年我的网志总结
+  - summary
+  - 干了不少事情，一年没停过，但是都是小事，没有特别值得说的成果。希望明年可以拿出一个像样的作品。个人生活也没有大的变化，依然是单身，无房无存款。但是这一年，经历了许多人生中难忘的第一次。比如，6 月份的时候，我拿到了博士学位，学科是理论经济学。虽然我不爱在 Blog 上提这件事，但是这毕竟是我人生中的大事（但是我不觉得它很重要），所以年终的时候还是记上一笔。
+  - 我又写了一年的 Blog，一共 200 多篇。
+  - 但是，今年才发现读者的数量之多，超过我的想像。Feed 的订阅数每天都在增加，现在比年初翻了 3~4 倍
+- `ruanyf 2009` 2009 年我的网志总结
+  - summary
+  - 这一年发生的种种事件----房价飞涨，民族冲突，政府对异议的压制，互联网管制的升级----让我仅存的一点希望都破灭了。从大处说，总有一天，这个国家会尝到专制制度的恶果；从小处说，我不知道自己的个人前途何在。曾经梦想，明年架一台服务器，做一个项目，尝试网络创业。但是如今，一切已是不可能。
+  - 因为互联网的开放本质和这个政府的封闭本质是冲突的，所以政府为了管制互联网，不得不深入到非常底层，改变各种网络通讯协议，颠覆现有的网络模式。这意味着，如果你想创业成功，依靠的不是技术创新，而是与政府的合作。
+  - 明年，我的文章数量可能还会进一步减少。正如我在[《大坑和小铲子》](https://www.ruanyifeng.com/blog/2009/07/big_hole_and_little_shovel.html)中提到的：与其挖 150 个小坑，不如集中精力挖一个大坑。吾生有涯，时不我待啊。
+- `ruanyf 2010` 2010 年我的网志总结
+  - summary
+  - 2010 年是我非常失落的一年，有强烈的挫折感，对未来很灰心。具体的事情，不方便、也不好意思在这里说。总之，没有什么成果，而且觉得自己很无能。
+  - 对于网志，也不如以前那样有兴趣了。因为意识到，做一个真正的项目比写文章更有价值。
+  - 翻译《黑客与画家》就是今年（现在已经是"去年"了）最大的成果，可见这一年有多衰。
+- `ruanyf on google china` 壮士断腕，义无再辱
+  - society
+  - on the day google exit china
+- `ruanyf on haizi` 春天，想起海子
+  - literary
+- `ruanyf on phd suicide` 一封博士研究生的遗书
+  - society
+- `bilibili uid` uid to registration year
+  - info
+- `csdiy` 这是一本计算机的自学指南，也是对自己大学三年自学生涯的一个纪念。
+  - dev university
+- `livid v2ex` V2EX 2to3
+  - dev life
+- `livid v2ex tech` V2EX 从过去一年半中学到的几件事
+  - dev
+- `kkksc03 oi stories` 新春故事会《美好人生》
+  - oi unixporn
+- `flower oi ideas` 针对 OI 新场景下不同教派信仰的相关探究与概念诠释
+  - oi
+  - by 皎月半洒花
+- `hzwer oi` 再见，OI
+  - oi
+- `cosmicac oi` OI 生涯回忆
+  - oi
+- `cosmicac code style` 代码风格变迁史
+  - oi dev
+- `cosmicac 2048` 编写 2048 小游戏
+  - dev
+- `cosmicac origami` 线段 n 等分的最优方法
+  - oi
+- `cosmicac sympy` 万能的数学算法模板库：sympy 的 OI 用法
+  - oi
+- `cosmicac majsoul` 雀魂的安定段位相关统计
+  - oi
+- `cosmicac thu math` 我眼中大学数学教育该有的样子
+  - summary university
+- `cosmicac grade 13 14` THU 致理数学大一大二总结
+  - summary university
+- `cosmicac grade15` 大三总结
+  - summary university
+- `xuyixuan` OI 生涯回忆录 《Pilgrimage》
+  - oi
+- `commits` Conventional Commits
+  - dev

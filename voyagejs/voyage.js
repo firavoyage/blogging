@@ -718,10 +718,10 @@ let voyage = {
 
     const node = document.querySelector(on);
 
+    const { info } = voyage;
     info.lifecycle.shown = new Set();
     append(render(app, {}), node);
 
-    const { info } = voyage;
     info.status = "shown";
     const pendingEffects = info.lifecycle.shown;
     for (const id of pendingEffects) {

@@ -3,8 +3,8 @@
 ## .
 
 - common
-  - offline pwa
-  - import, export, (sync)
+  - offline progressive web app
+  - import / export / sync
   - built with voyagejs
 
 ## desiderata
@@ -12,15 +12,14 @@
 - make tools elegant
 - make knowledge pure
 
-## write
+## create
 
 ### `pre`
 
 > simplicity of presentation
 
-- auto page split
-  - header
-  - br
+- auto page split from an article
+  - based on header / br / content amount
 - markdown extended
   - collapsed block
   - styled block
@@ -32,7 +31,8 @@
 - shortcuts
   - vim
   - vscode
-- llm integration
+- ppt generation
+  - llm integration
   - built-in prompt
 - portable
   - html
@@ -82,8 +82,6 @@
   - drawio
   - developer roadmaps
 
-## create
-
 ### `material`
 
 > elegance of image editing
@@ -116,9 +114,9 @@
   - gimp
   - pinta
 
-### `halcyra`
+### `gen`
 
-> reasonable painting | procedurally generated art
+> (idea) reasonable painting | procedurally generated art
 
 - theory
   - libraries and highly abstracted scripts
@@ -136,16 +134,6 @@
   - ugly avatar
   - stable diffusion
   - midjourney
-
-### `biography`
-
-> create awesome readme
-
-- bento style bio
-- animated svg
-- intuitive editor
-- inspired by
-  - bento
 
 ## perceive
 
@@ -175,29 +163,19 @@
 
 > breathe in the overwhelm
 
-- fetcher
-  - popular platforms
-  - wordpress hexo etc
-  - site tracker
-  - web crawler or api
-- form
-  - post
-  - tweet
-  - video
-- feed
+- method
+  - fetcher (web crawler / api / rss)
+  - content model (tweet / article / video)
+- recommendation
   - subscription
-  - recommendation
+  - tag from favorites
   - custom filter
-  - playlist
-  - tag
-  - favorites
-  - ...
+  - backend recommendation engine
 - calendar
-  - time machine
-  - mediastorm in 2017
+  - time machine (e.g. mediastorm in 2017)
 - social poster
   - creator profile
-  - subscription
+  - subscription list
   - episode with stats and comments
   - playlist
 - control
@@ -235,35 +213,6 @@
   - apple music
   - soundcloud
   - myfreemp3
-
-### `theatre`
-
-> retro theatre board
-
-- calendar
-  - week
-  - month
-  - season
-  - year
-- source
-  - imdb
-  - douban
-  - ...
-- magnet links
-- order
-  - cover
-  - title & translations & year
-  - director & actors
-  - ratings
-  - intro
-  - episodes
-  - short comments
-  - long comments
-- inspired by
-  - imdb
-  - douban
-  - bangumi.tv
-  - bgmlist
 
 ### `streams`
 
@@ -318,6 +267,8 @@
   - raindrop
   - archive.org
 
+## find
+
 ### `awesome`
 
 > world goods list: plain filter over promotional recommendation engine
@@ -335,6 +286,35 @@
   - wotaku.wiki
   - webfollow list
   - rss source list
+
+### `theatre`
+
+> retro theatre board
+
+- calendar
+  - week
+  - month
+  - season
+  - year
+- source
+  - imdb
+  - douban
+  - ...
+- magnet links
+- order
+  - cover
+  - title & translations & year
+  - director & actors
+  - ratings
+  - intro
+  - episodes
+  - short comments
+  - long comments
+- inspired by
+  - imdb
+  - douban
+  - bangumi.tv
+  - bgmlist
 
 ### `literally`
 
@@ -355,6 +335,57 @@
 - comprehensive grammar book
   - english and japanese
   - by llm
+- distraction free interface
+  - more symbols and icons, less text
+- selection before memorization
+  - remove known words and unwanted words
+- anime characters speaking
+  - by gptsovits
+- language learning
+  - characters & grammar
+  - word memorization
+- social poster
+  - word card
+  - personal records
+- word definition
+  - translation & pronounciation
+  - thesaurus & related words
+  - root and affix
+  - explanation
+  - example sentences
+  - origin
+  - frequency & difficulty
+- stats
+  - calendar
+  - progress
+- modes
+  - selection
+  - begin (learn & review combined)
+  - read wordbook
+  - spell
+- source
+  - chatgpt
+  - cambridge
+  - collins
+  - merriam webster
+  - oxford
+  - github & kaggle
+- inspired by
+  - duolingo
+  - anki
+  - bubeidanci
+  - shanbay
+  - paperback wordbooks
+
+### `leisurejp`
+
+> japanese from zero to mastery by leisure production
+
+- characters
+  - japanese vtubers on berryberry
+- comprehensive grammar book
+  - japanese
+  - generated with llm
 - distraction free interface
   - more symbols and icons, less text
 - selection before memorization
@@ -430,7 +461,7 @@
 
 ### `intuitive`
 
-> beautifully advance "冰糖OI"
+> beautifully advance "冰糖 OI"
 
 > /intuitive`
 
@@ -478,21 +509,6 @@
   - tailwind
   - mithril
 
-### `fresh`
-
-> rethink popular apps beyond styling
-
-- berryberry
-- yelltube
-- bing googlized
-- bluesky and mastodon birdified
-- dingtalk telegramified
-- libregram
-- digdog
-- snapcat
-- inspired by
-  - bewlybewly
-
 ### `theoria`
 
 > course and flashcard
@@ -532,22 +548,35 @@
 - ace taffy
   - high def
   - produce flying taffy akachan
+  - increase def while being attacked
+- taffy a
+- taffy b
+- taffy c
+- taffy d
+- taffy e
+- taffy f
 - senren akuma
   - increase fee
   - increase evolve
+- akuma akachan
 - xuegao cheese
   - sniper
+- xuegao cheese fly
 - azusa
   - aoe sniper
+- azusa frog
 - bingtangio
   - bomb
 - kyouka
-  - sword player 
+  - sword player
 - minato aqua
-  - sword player 
+  - sword player
 - inspired by
   - clash royale
-  - vtubers
+  - shadowverse
+  - kards
+  - plant vs zombies
+  - vtubers on berryberry / anatatube
 
 ### `kivodef`
 
@@ -582,13 +611,21 @@
   - vim
   - rust
 
+### `genshinpvp`
+
+> moba game in genshin characters
+
+- inspired by
+  - genshin impact
+  - glory of kings
+
 ### `chess`
 
 > lichess with coach and tutorial
 
 - form
   - lichess plugin
-- inspired by 
+- inspired by
   - chess.com
   - lichess
   - stockfish
@@ -608,15 +645,23 @@
   - chess.com
   - lichess
 
-### `genshinpvp`
+### `kardsol`
 
-> moba game in genshin characters
+> kards on web, fully free 2 play
 
-- inspired by
-  - genshin impact
-  - glory of kings
+- ai
+- inspired by 
+  - nulls royale
 
-## channels
+### `svol`
+
+> shadowverse on web, fully free 2 play
+
+- ai
+- inspired by 
+  - nulls royale
+
+## watch
 
 ### `fira`
 
@@ -634,8 +679,26 @@
   - yunling sapphire
   - one math
 
----
+## apps
+
+### `fresh`
+
+> rethink popular apps beyond styling
+
+- berryberry
+- yelltube
+- bing googlized
+- bluesky and mastodon birdified
+- dingtalk telegramified
+- libregram
+- digdog
+- snapcat
+- inspired by
+  - bewlybewly
+
+## .
 
 > all good things.
 
 > fin
+
