@@ -6,7 +6,7 @@
 
 > $lucky \space \text{☆} \space star!$
 
-> just let time be precious...
+> _just let time be precious..._
 
 > 🍅 ⏲️ $solanum$
 
@@ -473,7 +473,7 @@
   - ghostscript
   - gimp
   - git
-  - gnome-baobab
+  - gnome-baobab <!-- disk usage analyzer -->
   - gnome-calculator
   - gnome-characters
   - gnome-deja-dup
@@ -517,14 +517,18 @@
   - ahqgo
   - ankidroid
   - antennapod
+  - bilibili
   - bilimiao
   - breezy-weather
+  - capcut
+  - douyin
   - duolingo -mod
   - ehviewer
   - eudic
   - fcitx5-android
   - gboard
   - k9-mail
+  - kuaishou
   - legado
   - material-files
   - metro
@@ -532,6 +536,8 @@
   - musictag
   - nekogram
   - onscripter-yuri
+  - rednote
+  - retouch
   - simplelive
   - snapseed
   - solid-explorer
@@ -724,6 +730,8 @@
   - v2ex `voy`
   - bangumi.tv `firavoyage`
   - mastodon `fira@techhub.social` `firavoyage@mastodon.social`
+- - telegram group `voyagefira`
+  - qq group `1018146954`
 - - email `firavoyage@outlook.com`
   - alternatives `firafira@duck.com` `xoyage@gmail.com` `devvhy@zoho.com.cn` `firav@qq.com`
 
@@ -880,7 +888,7 @@
 
 > 褪去了年少时对 fp 的喜爱, 如今的 fira 更关心直接的性质, 编写时的简短, 阅读时的清晰. sort(arr) 与 arr.sort() 不分高下.
 
-> 按照设定来讲... fira 是不能被审视的啊... 你们探索我创造的世界. w... fira 也是有人性的呢w 你知道吗 (音乐符号)
+> 按照设定来讲... fira 是不能被审视的啊... 你们探索我创造的世界. w... fira 也是有人性的呢 w 你知道吗 (音乐符号)
 
 > 斗争... 有愿望才会斗争. 没有这样的愿望...
 
@@ -890,12 +898,12 @@
 
 > 所谓薙刀，乃是斩除芜杂之利器。秉薙刀之人，意在守护恒常之道。当高踞雷云之上者俯视她所倾心的凡世， 所见无不浅薄的争端，闪灭的执欲泡影… 争夺源于无谓爱执与狂欲，乃恒世之敌。 搅扰不变恒世的杂草，将交由雷光殛灭。…既然谁人都无法逆转现世之无常、绪绝的独乐，那就将心中的常世净土带到她所珍爱的国度吧。
 
-> 越有欲望, 就越 "下头". 越 ~, 就越得不到. 联立 (ref 圆锥曲线, 我的天啊, 朴素解法.), 越有欲望就越得不到w. 看到 yokidou 广州漫展恋爱喜剧, 有感而发. 从 fira 的慕强来讲, 更喜欢 akua 了. 在这个世界上, 谎言就是武器. upd: 从 fira 的慕强来讲, 还是很认为厉害 (对于) 这个 30sai 大叔的, 能那么自信 (虽然不知道为什么 minasan 觉得很难绷... ?). ("我可是要和二次元过一辈子的男人啊!")
+> 越有欲望, 就越 "下头". 越 ~, 就越得不到. 联立 (ref 圆锥曲线, 我的天啊, 朴素解法.), 越有欲望就越得不到 w. 看到 yokidou 广州漫展恋爱喜剧, 有感而发. 从 fira 的慕强来讲, 更喜欢 akua 了. 在这个世界上, 谎言就是武器. upd: 从 fira 的慕强来讲, 还是很认为厉害 (对于) 这个 30sai 大叔的, 能那么自信 (虽然不知道为什么 minasan 觉得很难绷... ?). ("我可是要和二次元过一辈子的男人啊!")
 
 > (pure.math) 从 5 个 (不同的) 球中任意选两个, 和任意不选两个 (选另外三个), 可能性数量是一样的. 无非选完把两列上下调换就一一对应了. (ref vtubers.zh.asoul)
 
 > 浩繁星空下的一场稚嫩的梦
 
-> 欢迎来 github issues/discussion 玩. 无法访问? fira 写过教程, 但没有任何方式保证其存活一年以上. 大意是, bing "gh mirror" -> gh "free nodes" -> dl app, import sub (maybe with mirror and converter) -> (advanced) google/tg "...". 或者, 你可以来 qq 群玩 (words of mouth). 
+> 欢迎来 github issues/discussion 玩. 无法访问? fira 写过教程, 但没有任何方式保证其存活一年以上. 大意是, bing "gh mirror" -> gh "free nodes" -> dl app, import sub (maybe with mirror and converter) -> (advanced) google/tg "...". 或者, 你可以来 qq 群玩 (words of mouth).
 
 > 为什么要出这些围棋教程呢? 一方面是读者意识, 目前网络上免费优质的教程许多, 但是太长了, 很多上百小时, 入门很枯燥. 其实入门, 不需要如此久. 如果上百小时, 可以学更多. 另一方面是私心, 因为我希望以后直播围棋, 可以收获几十个同接. 当然因为这些年 f 看到了许多事情 (番剧删减收费, 本子魔法使...), f 不希望与恶魔交易, 所以直播间发送超过粉丝牌 (0.1 cny) 的礼物会被封禁.

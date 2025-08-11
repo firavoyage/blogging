@@ -1,0 +1,6 @@
+cd Downloads/g
+[ -n "$(echo *.jpeg)" ] && for f in *.jpeg; do mv "$f" "${f%.jpeg}.jpg"; done
+[ -n "$(echo *.png)" ] && mogrify -background black -flatten -format jpg *.png && rm *.png
+[ -n "$(echo *.webp)" ] && mogrify -background black -flatten -format jpg *.webp && rm *.webp
+[ -n "$(echo *.jpg)" ] && mogrify -quality 60 *.jpg
+cd ../..

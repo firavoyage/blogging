@@ -5,30 +5,30 @@
 > other pages are links from ruanyf weekly
 >
 > referenced on `repo_blogging/ruanyf.md`
-> 
+>
 > some unimportant pages are removed
 
 - `diygod 2023` 2023 平稳过渡
   - summary
-- `chyk grade14` 📜 何为失败，为何成功？—— 我的 2025 “年中总结”
+- `chyk grade13` 📜 何为失败，为何成功？—— 我的 2025 “年中总结”
   - summary university
   - **理想中的自己**：进入理想的大学后，会在门门课上取得优异成绩，参加各种学生活动，在充裕的课余时间疯狂写个人项目，GitHub 全绿，走向**人生巅峰**。**现实中的自己**：上了大学后的绩点依然是中游，该学学该摆摆，很多活动觉得很无趣不想参加，课余时间除了稍微打点游戏之外，根本不想碰电脑，一睡睡一上午，GitHub 一片惨白，走向**赛博死亡**。
   - 在入队之后，我试着与学长们一起打了国赛初赛和软件系统安全赛。但是，这两场比赛都涉及到信息安全的专业知识。我无神地望着深蓝色的比赛平台，在坐了几小时的牢后，勉强解出几道题大败而归。此后，我也断断续续做过几道 NEX 训练赛的题目，可它们都没有给我带来做两次 Hackergame 时的激动和惊喜感。退队的那天，队里我很仰慕的那位学长给我写了一段很长的留言。读完留言的我百感交织，任凭泪水在脸上被寒风凝结，然而也明白了方向必须谨慎选择的道理，感觉 … 自己终于又成长了一点。
   - 想着能学到更多专业知识，我就随意地报了两门本院开设的选修课。可上了几节后，我却发现正如「通识选修课」之名，这些课基本不涵盖深入的专业知识，讲的只是概述性质，浅尝辄止。与此同时，另外一边，四级考了六百多分沾沾自喜的我，报名了《初级日语》选修课。果然，在自己完全不熟悉的领域，通识选修课就发挥了它应有的作用。在爽拿 4 学分的同时，还接触了完全陌生的新知识，收获很大。
   - 原地打转了许久，四处碰壁了许久，我的大学第一年就这样过去了。一年前定下的目标远未完成，现在又要提出对下一年的展望了。回望我在第一年里没能完成的目标，究其原因都是因为行动力差。一直在幻想，却因为种种借口而没能去做。希望在大学的第二年里，能成为一个行动力更强的人。与其抱有对未来生活的美好幻想，不如亲自迈出向前的第一步。
-- `chyk grade13` 📜 新生活的敲门砖，人生的巨大转折点 ------ 我的 2024 "年中总结"
+- `chyk grade12` 📜 新生活的敲门砖，人生的巨大转折点 ------ 我的 2024 "年中总结"
   - summary school
   - kirikaze chiyuki's uee memories
-- `chyk grade12` 📜 我的 2023：新的改变，新的成长，新的开始
+- `chyk grade11` 📜 我的 2023：新的改变，新的成长，新的开始
   - summary school
-  - kirikaze chiyuki's grade 12 memories
+  - kirikaze chiyuki's grade 11 memories
 - `chyk love` 一刀斩の小窝-里 😅 学校不是你的婚姻介绍所，更不是你的酒店
   - weather school
   - kirikaze chiyuki's grade 12 memories
   - a unloved chinese boy in a top high school where classmates fall in love
-- `chyk grade11` 📜 我的 2022：悲喜交加，一边长大一边摆烂的一年
+- `chyk grade10` 📜 我的 2022：悲喜交加，一边长大一边摆烂的一年
   - summary school
-  - kirikaze chiyuki's grade 11 memories
+  - kirikaze chiyuki's grade 10 memories
   - a chinese northeast high school student's first day with the open internet world
 - `qiront` 简单概括我的用语习惯
   - weather
@@ -100,10 +100,20 @@
   - oi
 - `cosmicac sympy` 万能的数学算法模板库：sympy 的 OI 用法
   - oi
+- `cosmicac simple math` 初等数学
+  - oi
+  - 对于点线距离公式的感性理解
+  - cos(kx)的求和（重制版）
+  - cos 的求和
 - `cosmicac majsoul` 雀魂的安定段位相关统计
   - oi
 - `cosmicac thu math` 我眼中大学数学教育该有的样子
   - summary university
+- `cosmicac 8p exam` 八省联考记
+  - school
+- `cosmicac grade12` 高考记
+  - summary school
+  - cosmicac's uee memories
 - `cosmicac grade 13 14` THU 致理数学大一大二总结
   - summary university
 - `cosmicac grade15` 大三总结
@@ -112,3 +122,9 @@
   - oi
 - `commits` Conventional Commits
   - dev
+- `timqian 2020` 我的一年独立开发经历
+  - summary dev
+- `timqian rss` Feeds Pub 小范围发布半个月, 分享一些数据和感想
+  - dev
+- `ahdark 2021` 2021 年度报告
+  - summary dev
