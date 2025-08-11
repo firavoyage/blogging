@@ -6865,7 +6865,7 @@ Quote
 
 `ref`
 
-[Menci ![💖](https://abs-0.twimg.com/emoji/v2/svg/1f496.svg "Sparkling heart")](https://x.com/lcMenci) 
+[Menci ![💖](https://abs-0.twimg.com/emoji/v2/svg/1f496.svg "Sparkling heart")](https://x.com/lcMenci)
 
 [Jul 17](https://x.com/lcMenci/status/1945864311026713056)
 
@@ -6955,7 +6955,7 @@ Quote
 
 李继刚
 
-@lijigang\_com
+@lijigang_com
 
 工业社会，人被困在工位，有了「健身房」，来代偿缺失的活动。 AI 时代，会不会出现「健脑房」，来代偿思考的缺失？ 健身房里的运动是「无目的的目的性运动」。你举铁不是为了搬东西，而是为了举铁本身。 同样，「健脑房」里的思考将是纯粹的思考：不为解决问题，只为思考本身。
 
@@ -6971,10 +6971,58 @@ Quote
 
 感觉不错. 没有保存聊天记录, 和错误与反馈, 只保留了最后一个完成版.
 
-有想要保存与 llm 生活的回忆... 但是作罢. 
+有想要保存与 llm 生活的回忆... 但是作罢.
 
 (没有存 git 的, 大概都会在历史聊天中被新内容淹没吧)
 
 看来 vibe coding 就是注重结果, 而不是过程的游戏呢...
+
+---
+
+`ref`
+
+fira has made some changes to her internet acc (esp. on berryberry, or bilibili)
+
+- changed her info
+  - avatar: the image of a math problem of importance in her memories
+  - name: Fira が一番だよ (lit. fira is no.1!)
+  - bio: make tools elegant. make knowledge pure. sns: @firavoyage @firascript
+- removed some videos of low quality
+  - math: editorial of summer holidays problemset
+    - no draft, no enough preparation
+    - few people watch this for learning math
+    - math could be better taught with latex and markdown
+  - fira: (app)'s overfitting recommendation page
+    - app ranges from berryberry, zhihu, rednote and spotify
+    - fira created these videos to show her "成分" (lit. content preferences), but actually these can be mostly infered from her favorites and subscription
+- added some spammers to her blacklist
+
+what happened?
+
+- fira
+  - joined a fans group of bingtangio (parody acc) on qq (a chinese sns)
+  - posted the complaint from a 16yro girl of depression online
+    - notified her, made laugh of her reaction ("fira! pls dont post me!")
+    - used some suggestive words on her
+  - claimed fira wanna reveal her personal identity
+- bingtangio (parody acc)
+  - argued against fira's behavior
+  - bought some views boost (about 100 cny in all) (not by herself)
+- analysis
+  - f's vids are boring screenrecords, and math editorials of low quality
+  - b's vids are full of dirty words, without a decent cut
+  - the matter itself doesnt feel "爆" (lit. crazy, insane, unbelievable)
+    - summary: f made laugh publicly of a depressed girl, b argued against her
+  - actually none of these are really interesting (not getting 10k views in a day without promotion)
+  - both f (about 30, 150%) and b (about 1000, 25%)'s followers didnt increase much
+  - fira could create works and attract viewers by herself
+
+_just let time be precious..._
+
+---
+
+`ref`
+
+fira wears a casio watch all day now.
 
 ---
