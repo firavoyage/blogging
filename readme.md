@@ -180,6 +180,7 @@
   - yuki_sakuna yuuki sakuna
   - yunyoujun
   - yxc acwing
+  - yysuni
   - zuozizhen
 - albums
   - heisei anisong taisho
@@ -730,6 +731,7 @@
   - v2ex `voy`
   - bangumi.tv `firavoyage`
   - mastodon `fira@techhub.social` `firavoyage@mastodon.social`
+  - npm `firascript`
 - - telegram group `voyagefira`
   - qq group `1018146954`
 - - email `firavoyage@outlook.com`
