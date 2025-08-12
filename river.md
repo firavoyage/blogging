@@ -7026,3 +7026,25 @@ _just let time be precious..._
 fira wears a casio watch all day now.
 
 ---
+
+`ref`
+
+fira are vibe coding a project, "pre"!
+
+fira has made a change to its work flow, i no longer use several desktops, instead i only kept two, one is the currently working on, another is every other stuff.
+
+---
+
+传文件. sync between phone, laptop and git remote.
+
+这几次使用了 lingdaima.com/file
+
+---
+
+`ref`
+
+i edited a draft on nekogram android. and it synced to laptop (telegram-desktop on ubuntu).
+
+i was surprised.
+
+---

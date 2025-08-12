@@ -36,7 +36,7 @@
 - `yunyoujun anime` collection of anime girls that yunyoujun loves
   - unixporn
 - `figma` Sketch shined a light on UX design. Figma places it at the heart of your organization.
-- `react vue` React 还是 Vue？我对 Web 前端现状的看法
+- `cali react vue` React 还是 Vue？我对 Web 前端现状的看法
   - dev web
   - by cali castle
 - `white paper` 2022 白纸运动
@@ -83,6 +83,8 @@
   - dev life
 - `livid v2ex tech` V2EX 从过去一年半中学到的几件事
   - dev
+- `livid 20210531` 20210531
+  - dev society
 - `kkksc03 oi stories` 新春故事会《美好人生》
   - oi unixporn
 - `flower oi ideas` 针对 OI 新场景下不同教派信仰的相关探究与概念诠释
@@ -126,5 +128,22 @@
   - summary dev
 - `timqian rss` Feeds Pub 小范围发布半个月, 分享一些数据和感想
   - dev
+- `timqian chrome ext` 一个付费 chrome 插件的一生
+  - dev summary
 - `ahdark 2021` 2021 年度报告
   - summary dev
+- `antfu yak shaving` 关于 Yak Shaving
+  - dev summary ref
+- `kottory` OI 回忆录
+  - oi
+- `flower grade12` 高三的一些片段 & 2021 SD 高考游记
+  - summary school ref
+- `pea3nut 2021` 2021 总结 | 失马、回响与见闻
+  - summary
+- `911` Understanding 9/11A Television News Archive
+  - society
+  - 9/11 event recap from the internet archive
+- `google code jam 2008 numbers` Google 经典编程竞赛题：计算  (3+5)𝑛  的小数点前三位数
+  - oi
+- `joshwcomeau svg` A Friendly Introduction to SVG
+  - web dev

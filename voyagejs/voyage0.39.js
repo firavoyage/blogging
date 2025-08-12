@@ -4,6 +4,7 @@
  * - effect
  * - h
  * - context
+ * - styled (use load symbol)
  * - utilities
  *   - html (show, each)
  *   - effects (e.g. onInterval)
@@ -12,10 +13,10 @@
  * @file
  * voyage framework
  *
- * this version is developed during 20250812 ~ (utc+8)
+ * this version is developed during 20250628 ~ 20250812 (utc+8)
  *
  * @author firavoyage
- * @version 0.40
+ * @version 0.39
  * @since 0.1 initiated on 20240816
  * @see changelog.md
  */
@@ -152,6 +153,46 @@ let voyage = {
       for (const _ of set) {
         fn(_);
       }
+    },
+    /**
+     * Generates a short CSS class name from an input string using MurmurHash
+     * @param {string} input - The input string to hash
+     * @param {number} [length=6] - Length of the output class name (2-10)
+     * @returns {string} - Valid CSS class name starting with a letter
+     */
+    murmurhash(input, length = 6) {
+      // Validate and clamp length between 2 and 10
+      length = Math.max(2, Math.min(10, length));
+
+      // Modified MurmurHash3 to generate a numeric hash
+      let hash = 0;
+      for (let i = 0; i < input.length; i++) {
+        hash = Math.imul(hash ^ input.charCodeAt(i), 3432918353);
+        hash = (hash << 13) | (hash >>> 19);
+      }
+
+      // Finalize hash
+      hash = Math.imul(hash ^ (hash >>> 16), 2246822507);
+      hash = Math.imul(hash ^ (hash >>> 13), 3266489909);
+      hash ^= hash >>> 16;
+
+      // Convert to positive 32-bit integer
+      hash = hash >>> 0;
+
+      // Base36 encoding (numbers + lowercase letters)
+      let className = hash.toString(36);
+
+      // Ensure it starts with a letter (CSS requirement)
+      if (!isNaN(className[0])) {
+        // Map numbers to letters (0-9 -> a-j)
+        const letterMap = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"];
+        className = letterMap[parseInt(className[0])] + className.slice(1);
+      }
+
+      // Trim to requested length
+      className = className.substring(0, length);
+
+      return className;
     },
   },
   /**
@@ -421,7 +462,57 @@ let voyage = {
 
       info.effectParent = prevParent;
     },
+    styleToClassName(style) {
+      // style can be string or obj
+      // "margin-1 color-white"
+      // {"light": "color-white", "dark": "..."}
+
+      // todo
+      const { murmurhash } = voyage.lib;
+
+      const { styles } = voyage.info;
+
+      let className;
+      if (!style.has(style)) {
+        // generate classname using murmurhash
+        className = murmurhash(style);
+        styles.set(style, className);
+
+        // convert macros and preset to a style element
+        // try with deepseek.
+
+        let style = "";
+
+        // append style element
+      } else {
+        className = styles.get(style);
+      }
+
+      return className;
+    },
   },
+  styled: new Proxy(
+    {},
+    {
+      get(_, tag) {
+        const { styleToClassName } = voyage.methods;
+
+        return (style) => {
+          // todo
+          let className = styleToClassName(style);
+
+          // compile element and append classname
+          const component = (..._) => [];
+
+          const { load } = voyage;
+          const componentSymbol = Symbol();
+          load({ [componentSymbol]: component });
+
+          return componentSymbol;
+        };
+      },
+    }
+  ),
   props(defaultProps = {}) {
     const { has, check, map } = voyage.lib;
     const { takeEffect } = voyage.methods;
@@ -640,6 +731,24 @@ let voyage = {
   load(library) {
     let { components } = voyage.info;
     Object.assign(components, library);
+  },
+  define(preset) {
+    const { info } = voyage;
+    // extract data from preset
+    const { themes, rules, shortcuts, variants, prefights } = preset;
+    // process theme and set theme variables on root
+    const { colors, sizes, fonts } = themes;
+    // toggle theme
+    document.documentElement.classList.toggle(info.theme);
+
+    // define preset
+  },
+  switch(theme) {
+    const { info } = voyage;
+    // remove old theme class on root
+    document.documentElement.classList.toggle(info.theme);
+    // toggle new theme class on root
+    // document.documentElement
   },
 };
 
