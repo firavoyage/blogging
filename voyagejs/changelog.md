@@ -514,3 +514,10 @@
   - ref
     - https://v2.chakra-ui.com/docs/components
     - https://ui.shadcn.com/docs/components/
+
+
+## 1.0
+
+- refactor!: removed all previous code. now voyagejs is a syntax sugar for preact.
+  - why: a good web framework has a lot to do to optimize the performance. voyagejs need not reinvent the wheel. based on preact, voyagejs can focus on developer experience without caring the boring web apis.
+  - another reason: virtual dom and fine grained reactivity are almost the same. to pursue elegance of code, voyagejs stuck to the latter choice, which update the minimal part of view without doing useless work, for a long time. but now after consulting llm, i came to the idea that the two choices have similar performance in most cases while virtual dom is far more intuitive for me. and the elegance of code, is not so important for me now.

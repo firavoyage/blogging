@@ -1,0 +1,155 @@
+<!-- 
+author: deepseek v3 hosted on deepseek.com, edited by fira
+created: 2025.08.14
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Telegram</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: "Fira Sans", "Roboto", sans-serif;
+            display: flex;
+            height: 100vh;
+            background-color: #000;
+        }
+        
+        #input-area {
+            flex: 1;
+            padding: 20px;
+            box-sizing: border-box;
+            border-right: 1px solid #1F2326;
+        }
+        
+        #dialog-input {
+            width: 100%;
+            height: 100%;
+            background-color: transparent;
+            color: rgba(255, 255, 255, 0.4);
+            border: none;
+            resize: none;
+            outline: none;
+            font-size: 14px;
+            line-height: 1.5;
+            overflow: hidden;
+            opacity: 0.3;
+        }
+        
+        #message-area {
+            flex: 2;
+            padding: 20px;
+            overflow-y: auto;
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
+        
+        .message {
+            max-width: 75%;
+            padding: 10px 16px;
+            border-radius: 25px;
+            color: #FFFFFF;
+            line-height: 1.4;
+            word-wrap: break-word;
+            white-space: pre-line;
+            font-size: 15px;
+        }
+        
+        .left {
+            align-self: flex-start;
+            background-color: #1F2326;
+        }
+        
+        .right {
+            align-self: flex-end;
+            background: linear-gradient(to bottom, #8848BA, #7944CA, #6C60E6);
+        }
+        
+        .author {
+            font-weight: bold;
+            display: block;
+            margin-bottom: 4px;
+        }
+        
+        /* Hide scrollbars completely */
+        #message-area {
+            scrollbar-width: none;
+        }
+        #message-area::-webkit-scrollbar {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <div id="input-area">
+        <textarea id="dialog-input" autofocus></textarea>
+    </div>
+    <div id="message-area"></div>
+
+    <script>
+        const dialogInput = document.getElementById('dialog-input');
+        const messageArea = document.getElementById('message-area');
+        
+        function parseMessages() {
+            const text = dialogInput.value;
+            const messages = text.split('\n\n');
+            messageArea.innerHTML = '';
+            
+            messages.forEach(msg => {
+                if (!msg.trim()) return;
+                
+                const messageDiv = document.createElement('div');
+                const lines = msg.split('\n');
+                const firstLine = lines[0];
+                
+                // Find last colon in first line only
+                const colonIndex = firstLine.lastIndexOf(':');
+                
+                if (colonIndex > 0 && colonIndex < firstLine.length - 1) {
+                    // Has author (use first line only for author detection)
+                    const author = firstLine.substring(0, colonIndex).trim();
+                    let content = firstLine.substring(colonIndex + 1).trim();
+                    
+                    // Add remaining lines if they exist
+                    if (lines.length > 1) {
+                        content += '\n' + lines.slice(1).join('\n');
+                    }
+                    
+                    messageDiv.className = 'message right';
+                    messageDiv.innerHTML = `<span class="author">${author}</span>${content}`;
+                } else {
+                    // No author
+                    messageDiv.className = 'message left';
+                    messageDiv.textContent = msg.trim();
+                }
+                
+                messageArea.appendChild(messageDiv);
+            });
+            
+            // Scroll to bottom
+            messageArea.scrollTop = messageArea.scrollHeight;
+        }
+        
+        dialogInput.addEventListener('input', parseMessages);
+        
+        // Maintain focus on textarea
+        document.addEventListener('click', (e) => {
+            if (e.target !== dialogInput) {
+                dialogInput.focus();
+            }
+        });
+        
+        // Handle paste events to maintain focus
+        dialogInput.addEventListener('paste', (e) => {
+            setTimeout(parseMessages, 10);
+        });
+        
+        // Initial parse
+        parseMessages();
+    </script>
+</body>
+</html>

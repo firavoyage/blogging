@@ -84,6 +84,7 @@
   - funshiki
   - gaearon dan abramov
   - grant sanderson 3blue1brown
+  - hakadao
   - haoel
   - henrilechatnoir
   - himself65

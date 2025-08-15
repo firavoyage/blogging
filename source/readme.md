@@ -1,1 +1,3 @@
-fira's programming journey
+fira's programming journey.
+
+programs and snippets.

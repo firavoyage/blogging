@@ -145,5 +145,7 @@
   - 9/11 event recap from the internet archive
 - `google code jam 2008 numbers` Google 经典编程竞赛题：计算  (3+5)𝑛  的小数点前三位数
   - oi
-- `joshwcomeau svg` A Friendly Introduction to SVG
+- `joshwcomeau svg` A Friendly Introduction to SVG- `joshwcomeau svg` A Friendly Introduction to SVG
   - web dev
+- `alphabet` g is for google
+  - life weather
