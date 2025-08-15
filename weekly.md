@@ -17,6 +17,12 @@
 
 > things, not schedule.
 
+## temp
+
+- archive deepseek chats (done)
+- write voyagejs 1.0 based on preact
+- write core fn of pre
+
 ## 20250701
 
 ### _foresight_
