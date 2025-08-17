@@ -1,0 +1,47 @@
+<!-- 
+author: fira and llms (deepseek v3)
+created: 2025.08.18
+-->
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>pre</title>
+  </head>
+
+  <body></body>
+
+  <link href="prism.min.css" rel="stylesheet" />
+
+  <script>
+    const slides = [
+      "<h1>Markdown Feature Showcase</h1>\n",
+      "<h2>Headers</h2>\n",
+      "<h1>H1</h1>\n",
+      "<h2>H2</h2>\n",
+      "<h3>H3</h3>\n",
+      "<h4>H4</h4>\n",
+      "<h5>H5</h5>\n",
+      "<h6>H6</h6>\n",
+      "<h2>Text Formatting</h2>\n<p><em>Italic</em> or <em>Italic</em><br>\n<strong>Bold</strong> or <strong>Bold</strong><br>\n<strong><em>Bold Italic</em></strong> or <strong><em>Bold Italic</em></strong><br>\n<s>Strikethrough</s><br>\n<code>Inline code</code></p>\n",
+      "<h2>Lists</h2>\n",
+      "<h3>Unordered</h3>\n<ul>\n<li>Item 1</li>\n<li>Item 2\n<ul>\n<li>Subitem 2.1</li>\n<li>Subitem 2.2</li>\n</ul>\n</li>\n<li>Item 3</li>\n</ul>\n",
+      "<h3>Ordered</h3>\n<ol>\n<li>First item</li>\n<li>Second item\n<ol>\n<li>Subitem 2.1</li>\n<li>Subitem 2.2</li>\n</ol>\n</li>\n<li>Third item</li>\n</ol>\n",
+      "<h3>Task List</h3>\n<ul>\n<li>[x] Complete markdown guide</li>\n<li>[ ] Add more examples</li>\n<li>[ ] Review formatting</li>\n</ul>\n",
+      '<h2>Links and Images</h2>\n<p><a href="https://www.markdownguide.org">Markdown Guide</a><br>\n<img src="https://markdownlogo.com/img/logo-markdown.png" alt="Alt text" title="Markdown Logo"></p>\n',
+      '<h2>Code Blocks</h2>\n<pre><code class="language-python">def hello_world():\n print("Hello, Markdown!")\n</code></pre>\n<pre><code class="language-javascript">console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span><span class="token string">"Code blocks support syntax highlighting"</span><span class="token punctuation">)</span><span class="token punctuation">;</span>\n</code></pre>\n',
+      "<h2>Tables</h2>\n<table>\n<thead>\n<tr>\n<th>Syntax</th>\n<th>Description</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Header</td>\n<td>Title</td>\n</tr>\n<tr>\n<td>Paragraph</td>\n<td>Text</td>\n</tr>\n<tr>\n<td><code>code</code></td>\n<td>Inline code</td>\n</tr>\n</tbody>\n</table>\n",
+      "<h2>Blockquotes</h2>\n<blockquote>\n<p>This is a blockquote.<br>\nIt can span multiple lines.</p>\n</blockquote>\n",
+      "<h2>Horizontal Rule</h2>\n<p>or</p>\n",
+      "<h2>Inline HTML</h2>\n<details>\n<summary>Click to expand</summary>\nHidden content revealed!\n</details>",
+      "<h2>Footnotes</h2>\n<p>Here's a sentence with a footnote.[^1]</p>\n<p>[^1]: This is the footnote.</p>\n",
+      "<h2>Emoji</h2>\n<p>:smile: :rocket: :+1:</p>\n",
+      '<h2>Math (when supported)</h2>\n<p>Inline math: $E = mc^2$</p>\n<p>Block math:</p>\n<p><mjx-container class="MathJax CtxtMenu_Attached_0" jax="CHTML" display="true" tabindex="0" ctxtmenu_counter="0" style="position: relative;"><mjx-math display="true" class="MJX-TEX" aria-hidden="true" style="margin-left: 0px; margin-right: 0px;"><mjx-mi class="mjx-i"><mjx-c class="mjx-c1D456 TEX-I"></mjx-c></mjx-mi><mjx-mi class="mjx-i"><mjx-c class="mjx-c1D45B TEX-I"></mjx-c></mjx-mi><mjx-msubsup><mjx-mi class="mjx-i"><mjx-c class="mjx-c1D461 TEX-I"></mjx-c></mjx-mi><mjx-script style="vertical-align: -0.247em; margin-left: 0px;"><mjx-mi class="mjx-i" size="s"><mjx-c class="mjx-c1D44F TEX-I"></mjx-c></mjx-mi><mjx-spacer style="margin-top: 0.34em;"></mjx-spacer><mjx-mi class="mjx-i" size="s"><mjx-c class="mjx-c1D44E TEX-I"></mjx-c></mjx-mi></mjx-script></mjx-msubsup><mjx-mi class="mjx-i"><mjx-c class="mjx-c1D453 TEX-I"></mjx-c></mjx-mi><mjx-mo class="mjx-n"><mjx-c class="mjx-c28"></mjx-c></mjx-mo><mjx-mi class="mjx-i"><mjx-c class="mjx-c1D465 TEX-I"></mjx-c></mjx-mi><mjx-mo class="mjx-n"><mjx-c class="mjx-c29"></mjx-c></mjx-mo><mjx-mi class="mjx-i"><mjx-c class="mjx-c1D451 TEX-I"></mjx-c></mjx-mi><mjx-mi class="mjx-i"><mjx-c class="mjx-c1D465 TEX-I"></mjx-c></mjx-mi><mjx-mo class="mjx-n" space="4"><mjx-c class="mjx-c3D"></mjx-c></mjx-mo><mjx-mi class="mjx-i" space="4"><mjx-c class="mjx-c1D439 TEX-I"></mjx-c></mjx-mi><mjx-mo class="mjx-n"><mjx-c class="mjx-c28"></mjx-c></mjx-mo><mjx-mi class="mjx-i"><mjx-c class="mjx-c1D44F TEX-I"></mjx-c></mjx-mi><mjx-mo class="mjx-n"><mjx-c class="mjx-c29"></mjx-c></mjx-mo><mjx-mo class="mjx-n" space="3"><mjx-c class="mjx-c2212"></mjx-c></mjx-mo><mjx-mi class="mjx-i" space="3"><mjx-c class="mjx-c1D439 TEX-I"></mjx-c></mjx-mi><mjx-mo class="mjx-n"><mjx-c class="mjx-c28"></mjx-c></mjx-mo><mjx-mi class="mjx-i"><mjx-c class="mjx-c1D44E TEX-I"></mjx-c></mjx-mi><mjx-mo class="mjx-n"><mjx-c class="mjx-c29"></mjx-c></mjx-mo></mjx-math><mjx-assistive-mml unselectable="on" display="block"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><mi>i</mi><mi>n</mi><msubsup><mi>t</mi><mi>a</mi><mi>b</mi></msubsup><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mi>d</mi><mi>x</mi><mo>=</mo><mi>F</mi><mo stretchy="false">(</mo><mi>b</mi><mo stretchy="false">)</mo><mo>−</mo><mi>F</mi><mo stretchy="false">(</mo><mi>a</mi><mo stretchy="false">)</mo></math></mjx-assistive-mml></mjx-container></p>\n',
+      "<h2>Definition Lists (when supported)</h2>\n<p>Term 1<br>\n: Definition 1</p>\n<p>Term 2<br>\n: Definition 2</p>\n",
+      "<h2>Miscellaneous</h2>\n<p>Escaped characters: <em>not italic</em><br>\nHard line break (two spaces at end)<br>\nLine 1<br>\nLine 2</p>\n",
+    ];
+  </script>
+  <script src="voyage1.0.umd.min.js"></script>
+  <script src="keyboard.js"></script>
+  <script src="pre.js"></script>
+</html>
