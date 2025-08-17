@@ -126,4 +126,4 @@ Line 1
 Line 2
 `;
 
-console.log(convertMarkdownToSlides(sample));
+const slides = convertMarkdownToSlides(sample);
