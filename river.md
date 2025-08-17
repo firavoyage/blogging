@@ -7176,7 +7176,7 @@ up主璐伽ruga取消了您的“原始粉丝”身份，3.0硬币已返还至�
 我靠，别搞啊哥哥
 ```
 
-寒潮ccsk:
+寒潮 ccsk:
 
 ```
 2025年8月11日 12:26
@@ -7224,7 +7224,7 @@ tg免费社工机器人会用可一点算不上啊
 谢谢喵
 ```
 
-化镜-_-:
+化镜-\_-:
 
 ```
 主播我喜欢你，能做我男朋友吗
@@ -7248,10 +7248,150 @@ please use she/her to call me.
 
 2025.08.15
 
-fira now 
+fira now
 
 - wear the watch all day
 - do things on the desk, not the bed
+- wear earplugs instead of headphones sometimes
 
 ---
 
+`dev`
+
+2025.08.16
+
+writing voyagejs 1.0.
+
+made some awkward bugs
+
+- `const [item, index] of _.entries()`
+- `type == "string" || "function"` (semantic, but wrong)
+
+---
+
+`ref`
+
+fira now
+
+- check wakatime everyday
+- track the time for each task on sketch papers
+
+---
+
+`dev`
+
+2025.08.17 22:10 ~ 23:10
+
+writing voyagejs... spent 1h to fix a simple bug.
+
+first i have
+
+```
+const [state, setState] = useState(initial);
+```
+
+but im not satisfied with "state is a snapshot."
+
+```
+// setstate is just for creating rerenders
+// both the getter and the setter are on current
+const [, setState] = useState(initial);
+let current = deepClone(initial); // Initialize as clone
+```
+
+then current is set to initial state whenever it rerenders
+
+even deepseek v3 failed to find my bug. ("effects run after the initial render" "it doesnt rerender" "it does rerender but the state is not a dependency.")
+
+(current did update before rerender, and it probably assumes that current always returns the lastest value because of my comments.)
+
+finally, i fixed it myself.
+
+```
+// setstate is just for creating rerenders
+// both the getter and the setter are on current
+const [state, setState] = useState(initial);
+let current = deepClone(state); // Initialize as clone
+```
+
+upd: even i asked "ive fixed it. the problem is inside voyage.p. could u find it?"
+
+deepseek v3 still failed to find to bug. ("doesn't properly trigger re-renders when nested properties are updated")
+
+---
+
+listened to DECO\*27 - Cherry Pop feat. Hatsune Miku
+
+看到有人说这首女主和兔子洞差不多 😡 错误的！
+
+这是兔子洞反面的女孩子呀！如果兔子洞说的“无论是谁都一样”“喜欢和爱并无区别”的那种追求快感/快餐式恋爱的女孩，这首歌里的女主是最不喜欢这种说法的，只要第一名，只做恋人心里的第一个，被人说“简直受不了”“注定孤独一生”都抱着这份未被寄出的爱等待所谓自己的“王子殿下”，对于那些嘴上说着喜欢自己，实则像兔子洞里求欢爱的人，她拒绝“你说的喜欢根本不是喜欢”。
+
+但是这两首的女主都不明白“爱”到底是什么，像这歌里她想问老师这个问题就能知道。“可以爱你吗”“可以恋慕吗”这样的话算是爱吗？感觉歌描述的是少女的心情？无论是觉得爱就是一记兴奋剂，飘忽和暧昧把它分解（兔子洞），还是把它看得无比沉重，无论如何都要掌握在手的第一名，神化心里的那个“真命天子”（cherry pop），都不算是爱的真实面貌。
+
+让人又羡慕又担忧她未来的恋人呢，能得到这份她心底最深最沉重的爱，又要打破她多年的幻想。唉重女，唉重女，唉重女真美味啊……
+
+```md
+> explain 重女
+
+“重女” (zhòng nǚ) is a term originating from Japanese anime and manga culture, which has been adopted by Chinese internet slang. Here’s a breakdown of its meaning and usage:
+
+### 1. **Literal Meaning**:
+
+- **重 (zhòng/jū)**: Can mean "heavy," "serious," or "intense."
+- **女 (nǚ)**: Means "girl" or "woman."
+- Combined, it refers to a girl with "heavy" or intense traits, often emotionally or psychologically.
+
+### 2. **Definition**:
+
+A "重女" describes a female character (or real person) who exhibits extreme emotional intensity, often in relationships or personal struggles. Traits may include:
+
+- Obsessive love or attachment.
+- Emotional volatility (e.g., mood swings, jealousy).
+- Self-destructive tendencies or dark pasts.
+- A dramatic, "overbearing" presence in narratives.
+
+### 3. **Examples in Media**:
+
+- Anime/manga: Characters like **Makima** (_Chainsaw Man_), **Homura** (_Madoka Magica_), or **Gasai Yuno** (_Future Diary_) fit the "重女" archetype due to their intense, often unhealthy emotional dynamics.
+- Real-life use: May describe someone overly clingy or emotionally draining in relationships.
+
+### 4. **Contrast with "Light" Characters**:
+
+Unlike cheerful, carefree characters ("軽女," meaning "light girls"), 重女 carry a sense of emotional weight, often driving serious or tragic plotlines.
+
+### 5. **Internet Slang Nuance**:
+
+- Sometimes used humorously to describe overly dramatic behavior.
+- Can be pejorative if criticizing someone for being "too much," but may also express fascination with complex characters.
+
+### 6. **Similar Terms**:
+
+- **病娇 (yandere)**: A subset of 重女, specifically combining affection with violent possessiveness.
+- **郁女 (depressed girls)**: Focuses more on melancholy than intensity.
+
+Would you like examples of how to use it in sentences?
+```
+
+---
+
+watched 【雫るる】樱花妹被 SC 钓鱼问磁场的日语怎么读“这下真要切掉你的じば了，我拿刀先”
+
+切割磁感线说是
+
+其实她什么都懂[doge]
+
+毕竟三十多了，经验丰富
+
+别逗你露姐笑
+
+反正风韵犹存就好 至于有没有谈过那无所谓。
+
+钓小厨男的这点心思[笑哭]
+
+不怕被 lu 粉打死说实话的话，岁数摆在那里，初高中的时候还是精神小妹，更别说是日本这个国家，而且还是娱乐圈偶像出身，不往黑暗那边想，经验实践也是杠杠的，调戏你们小处男闭着眼一样轻松
+
+🦌 姨小时候谈到じば会脸红的时候弹幕小孩哥还没出生
+
+主播还得她这样脸皮厚点的，就是又懒活又少。不然高低是个人物
+
+---

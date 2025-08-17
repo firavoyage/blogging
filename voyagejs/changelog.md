@@ -515,9 +515,28 @@
     - https://v2.chakra-ui.com/docs/components
     - https://ui.shadcn.com/docs/components/
 
-
 ## 1.0
 
 - refactor!: removed all previous code. now voyagejs is a syntax sugar for preact.
   - why: a good web framework has a lot to do to optimize the performance. voyagejs need not reinvent the wheel. based on preact, voyagejs can focus on developer experience without caring the boring web apis.
   - another reason: virtual dom and fine grained reactivity are almost the same. to pursue elegance of code, voyagejs stuck to the latter choice, which update the minimal part of view without doing useless work, for a long time. but now after consulting llm, i came to the idea that the two choices have similar performance in most cases while virtual dom is far more intuitive for me. and the elegance of code, is not so important for me now.
+- feat!: voyagejs utilities from vue
+  - v-on / @ (done)
+  - v-html / dangerouslySetInnerHTML (done)
+  - v-model -> bind (done)
+  - class arr obj & style obj with kabeb case (done)
+  - ref / useref (done)
+  - v-show (done)
+  - computed/usememo (?)
+  - v-if, v-for / {condition && <Component />} (rejected) (rejected)
+  - watch/useEffect (rejected)
+  - Slots/props.children (rejected)
+  - <style scoped> (rejected)
+  - Custom Directives (v-tooltip, v-click-outside) (rejected)
+  - Reactivity System (Automatic Dependency Tracking) Vue’s reactivity is automatic—no need for useState or useEffect to track changes. (rejected)
+  - Single File Components (SFCs) Vue’s .vue files combine template, script, and styles in one file. React typically separates JSX, logic, and styles into different files. (rejected)
+  - Built-in Transition Effects (<transition>) (rejected)
+  - provide / inject (Dependency Injection) / createContext and useContext (rejected)
+  - v-once (rejected)
+  - v-pre (rejected)
+- test: split voyagejs to library and test
