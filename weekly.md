@@ -20,7 +20,7 @@
 ## temp
 
 - archive deepseek chats (done)
-- write voyagejs 1.0 based on preact
+- write voyagejs 1.0 based on preact (done)
 - write core fn of pre
 
 ## 20250701

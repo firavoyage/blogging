@@ -99,7 +99,9 @@ xuegao cheese metaphor (firstly ask fans for help)
 
 > and his poor english
 
-## bonus: my parents' cute reaction 
+## bonus: my "parents"' cute reaction 
+
+事务所.
 
 博弈前提，先礼后兵，夸大扭曲，矫枉必须过正，焉知非福 v2ex metaphor，最理想情况赌徒，ref 电闸）& 建议加大力度 （打疫苗 metaphor,哪个小孩不反抗）。我愿意相信我这手点刺的无理手会打开更好的局面
 
@@ -274,6 +276,9 @@ fira 其实很少说谢谢，（形式化的不算，比如跟着说，或者模
 
 - wear the watch all day
 - do things on the desk, not the bed
+- wear earplugs instead of headphones sometimes
+- check wakatime everyday
+- track the time for each task on sketch papers
 
 很多人关心 f 的想法. 
 

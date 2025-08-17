@@ -498,6 +498,7 @@
   - libreoffice
   - mdbook
   - neofetch
+  - nginx
   - node
   - npm
   - obs-studio
