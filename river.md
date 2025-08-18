@@ -7395,3 +7395,36 @@ watched 【雫るる】樱花妹被 SC 钓鱼问磁场的日语怎么读“这�
 主播还得她这样脸皮厚点的，就是又懒活又少。不然高低是个人物
 
 ---
+
+`dev`
+
+2025.08.19 03:25 ~ 04:18
+
+```
+write a simple web app bundler using node.
+
+- for single page web apps.
+- input: an html file
+- process: detect all css and js files in the html, remove the link, paste the content inside the html. all files are local, in the same folder, but some may be nested.
+- output: an html file.
+
+i dont want any dependencies
+
+fix: processed scripts but failed to process link stylesheet
+
+still failed to process <link href="reset.css" rel="stylesheet" />
+
+my js files contain const right = `</script><script>((e,t)=>{...
+```
+
+wasted nearly one hour, dealing with deepseek v3.
+
+because i didnt add the last line of prompt.
+
+then, deepseek fixed it with
+
+```
+- Added escapeScriptTags function that replaces all </script> sequences in JavaScript code with <\/script> (escaped version)
+```
+
+---
