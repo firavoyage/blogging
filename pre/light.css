@@ -1,0 +1,174 @@
+/* Base Styles */
+.pre {
+  display: block;
+  min-height: 100vh;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 2rem 15% 4rem;
+  background-color: #f8f9fa; /* Light but not pure white */
+  color: #333;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+    Arial, sans-serif;
+  font-size: 1.5rem;
+  line-height: 1.6;
+  overflow-y: auto;
+  overflow-x: hidden;
+  scrollbar-width: thin;
+  scrollbar-color: #ccc #f8f9fa;
+}
+
+/* Text elements */
+.pre h1,
+.pre h2,
+.pre h3,
+.pre h4,
+.pre h5,
+.pre h6 {
+  margin-top: 1.5em;
+  margin-bottom: 0.75em;
+  line-height: 1.2;
+  font-weight: 600;
+}
+
+.pre h1 {
+  font-size: 2.5em;
+}
+.pre h2 {
+  font-size: 2em;
+}
+.pre h3 {
+  font-size: 1.75em;
+}
+.pre h4 {
+  font-size: 1.5em;
+}
+.pre h5 {
+  font-size: 1.25em;
+}
+.pre h6 {
+  font-size: 1em;
+}
+
+.pre p {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+.pre strong {
+  font-weight: bold;
+}
+
+.pre em {
+  font-style: italic;
+}
+
+/* Lists */
+.pre ul,
+.pre ol {
+  margin: 1em 0;
+  padding-left: 2em;
+}
+
+.pre li {
+  margin-bottom: 0.5em;
+}
+
+/* Links */
+.pre a {
+  color: #0969da;
+  text-decoration: none;
+}
+
+.pre a:hover {
+  text-decoration: underline;
+}
+
+/* Code blocks (Prism handles syntax highlighting) */
+.pre pre[class*="language-"] {
+  border-radius: 6px;
+  margin: 1.5em 0;
+  overflow: auto;
+  padding: 1em;
+  background-color: #f6f8fa;
+}
+
+.pre code:not([class*="language-"]) {
+  background-color: #f6f8fa;
+  border-radius: 3px;
+  padding: 0.2em 0.4em;
+  font-size: 0.9em;
+}
+
+/* Images */
+.pre img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1.5em auto;
+  border-radius: 4px;
+}
+
+/* Blockquotes */
+.pre blockquote {
+  border-left: 4px solid #dfe2e5;
+  color: #57606a;
+  margin: 1.5em 0;
+  padding: 0 1em;
+}
+
+/* Tables */
+.pre table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1.5em 0;
+}
+
+.pre th,
+.pre td {
+  border: 1px solid #dfe2e5;
+  padding: 0.5em 1em;
+  text-align: left;
+}
+
+.pre th {
+  background-color: #f6f8fa;
+  font-weight: 600;
+}
+
+/* Horizontal rule */
+.pre hr {
+  border: none;
+  border-top: 1px solid #dfe2e5;
+  margin: 2em 0;
+}
+
+/* Scrollbar styling */
+.pre::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+.pre::-webkit-scrollbar-track {
+  background: #f8f9fa;
+}
+
+.pre::-webkit-scrollbar-thumb {
+  background-color: #ccc;
+  border-radius: 4px;
+}
+
+/* Responsive adjustments */
+@media (max-width: 1200px) {
+  .pre {
+    padding-left: 10%;
+    padding-right: 10%;
+  }
+}
+
+@media (max-width: 768px) {
+  .pre {
+    padding-left: 5%;
+    padding-right: 5%;
+    font-size: 1.3rem;
+  }
+}

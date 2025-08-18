@@ -1,0 +1,6 @@
+html-minifier \
+  --remove-comments \
+  --minify-css \
+  --minify-js \
+  --collapse-whitespace \
+  input.html -o output.html

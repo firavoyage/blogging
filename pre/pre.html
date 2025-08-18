@@ -2,6 +2,7 @@
 author: fira and llms (deepseek v3)
 created: 2025.08.18
 -->
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -11,35 +12,504 @@ created: 2025.08.18
 
   <body></body>
 
-  <link href="prism.min.css" rel="stylesheet" />
+  <style id="theme"></style>
+  <link href="reset.css" rel="stylesheet" />
 
   <script>
-    const slides = [
-      "<h1>Markdown Feature Showcase</h1>\n",
-      "<h2>Headers</h2>\n",
-      "<h1>H1</h1>\n",
-      "<h2>H2</h2>\n",
-      "<h3>H3</h3>\n",
-      "<h4>H4</h4>\n",
-      "<h5>H5</h5>\n",
-      "<h6>H6</h6>\n",
-      "<h2>Text Formatting</h2>\n<p><em>Italic</em> or <em>Italic</em><br>\n<strong>Bold</strong> or <strong>Bold</strong><br>\n<strong><em>Bold Italic</em></strong> or <strong><em>Bold Italic</em></strong><br>\n<s>Strikethrough</s><br>\n<code>Inline code</code></p>\n",
-      "<h2>Lists</h2>\n",
-      "<h3>Unordered</h3>\n<ul>\n<li>Item 1</li>\n<li>Item 2\n<ul>\n<li>Subitem 2.1</li>\n<li>Subitem 2.2</li>\n</ul>\n</li>\n<li>Item 3</li>\n</ul>\n",
-      "<h3>Ordered</h3>\n<ol>\n<li>First item</li>\n<li>Second item\n<ol>\n<li>Subitem 2.1</li>\n<li>Subitem 2.2</li>\n</ol>\n</li>\n<li>Third item</li>\n</ol>\n",
-      "<h3>Task List</h3>\n<ul>\n<li>[x] Complete markdown guide</li>\n<li>[ ] Add more examples</li>\n<li>[ ] Review formatting</li>\n</ul>\n",
-      '<h2>Links and Images</h2>\n<p><a href="https://www.markdownguide.org">Markdown Guide</a><br>\n<img src="https://markdownlogo.com/img/logo-markdown.png" alt="Alt text" title="Markdown Logo"></p>\n',
-      '<h2>Code Blocks</h2>\n<pre><code class="language-python">def hello_world():\n print("Hello, Markdown!")\n</code></pre>\n<pre><code class="language-javascript">console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span><span class="token string">"Code blocks support syntax highlighting"</span><span class="token punctuation">)</span><span class="token punctuation">;</span>\n</code></pre>\n',
-      "<h2>Tables</h2>\n<table>\n<thead>\n<tr>\n<th>Syntax</th>\n<th>Description</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Header</td>\n<td>Title</td>\n</tr>\n<tr>\n<td>Paragraph</td>\n<td>Text</td>\n</tr>\n<tr>\n<td><code>code</code></td>\n<td>Inline code</td>\n</tr>\n</tbody>\n</table>\n",
-      "<h2>Blockquotes</h2>\n<blockquote>\n<p>This is a blockquote.<br>\nIt can span multiple lines.</p>\n</blockquote>\n",
-      "<h2>Horizontal Rule</h2>\n<p>or</p>\n",
-      "<h2>Inline HTML</h2>\n<details>\n<summary>Click to expand</summary>\nHidden content revealed!\n</details>",
-      "<h2>Footnotes</h2>\n<p>Here's a sentence with a footnote.[^1]</p>\n<p>[^1]: This is the footnote.</p>\n",
-      "<h2>Emoji</h2>\n<p>:smile: :rocket: :+1:</p>\n",
-      '<h2>Math (when supported)</h2>\n<p>Inline math: $E = mc^2$</p>\n<p>Block math:</p>\n<p><mjx-container class="MathJax CtxtMenu_Attached_0" jax="CHTML" display="true" tabindex="0" ctxtmenu_counter="0" style="position: relative;"><mjx-math display="true" class="MJX-TEX" aria-hidden="true" style="margin-left: 0px; margin-right: 0px;"><mjx-mi class="mjx-i"><mjx-c class="mjx-c1D456 TEX-I"></mjx-c></mjx-mi><mjx-mi class="mjx-i"><mjx-c class="mjx-c1D45B TEX-I"></mjx-c></mjx-mi><mjx-msubsup><mjx-mi class="mjx-i"><mjx-c class="mjx-c1D461 TEX-I"></mjx-c></mjx-mi><mjx-script style="vertical-align: -0.247em; margin-left: 0px;"><mjx-mi class="mjx-i" size="s"><mjx-c class="mjx-c1D44F TEX-I"></mjx-c></mjx-mi><mjx-spacer style="margin-top: 0.34em;"></mjx-spacer><mjx-mi class="mjx-i" size="s"><mjx-c class="mjx-c1D44E TEX-I"></mjx-c></mjx-mi></mjx-script></mjx-msubsup><mjx-mi class="mjx-i"><mjx-c class="mjx-c1D453 TEX-I"></mjx-c></mjx-mi><mjx-mo class="mjx-n"><mjx-c class="mjx-c28"></mjx-c></mjx-mo><mjx-mi class="mjx-i"><mjx-c class="mjx-c1D465 TEX-I"></mjx-c></mjx-mi><mjx-mo class="mjx-n"><mjx-c class="mjx-c29"></mjx-c></mjx-mo><mjx-mi class="mjx-i"><mjx-c class="mjx-c1D451 TEX-I"></mjx-c></mjx-mi><mjx-mi class="mjx-i"><mjx-c class="mjx-c1D465 TEX-I"></mjx-c></mjx-mi><mjx-mo class="mjx-n" space="4"><mjx-c class="mjx-c3D"></mjx-c></mjx-mo><mjx-mi class="mjx-i" space="4"><mjx-c class="mjx-c1D439 TEX-I"></mjx-c></mjx-mi><mjx-mo class="mjx-n"><mjx-c class="mjx-c28"></mjx-c></mjx-mo><mjx-mi class="mjx-i"><mjx-c class="mjx-c1D44F TEX-I"></mjx-c></mjx-mi><mjx-mo class="mjx-n"><mjx-c class="mjx-c29"></mjx-c></mjx-mo><mjx-mo class="mjx-n" space="3"><mjx-c class="mjx-c2212"></mjx-c></mjx-mo><mjx-mi class="mjx-i" space="3"><mjx-c class="mjx-c1D439 TEX-I"></mjx-c></mjx-mi><mjx-mo class="mjx-n"><mjx-c class="mjx-c28"></mjx-c></mjx-mo><mjx-mi class="mjx-i"><mjx-c class="mjx-c1D44E TEX-I"></mjx-c></mjx-mi><mjx-mo class="mjx-n"><mjx-c class="mjx-c29"></mjx-c></mjx-mo></mjx-math><mjx-assistive-mml unselectable="on" display="block"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><mi>i</mi><mi>n</mi><msubsup><mi>t</mi><mi>a</mi><mi>b</mi></msubsup><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mi>d</mi><mi>x</mi><mo>=</mo><mi>F</mi><mo stretchy="false">(</mo><mi>b</mi><mo stretchy="false">)</mo><mo>−</mo><mi>F</mi><mo stretchy="false">(</mo><mi>a</mi><mo stretchy="false">)</mo></math></mjx-assistive-mml></mjx-container></p>\n',
-      "<h2>Definition Lists (when supported)</h2>\n<p>Term 1<br>\n: Definition 1</p>\n<p>Term 2<br>\n: Definition 2</p>\n",
-      "<h2>Miscellaneous</h2>\n<p>Escaped characters: <em>not italic</em><br>\nHard line break (two spaces at end)<br>\nLine 1<br>\nLine 2</p>\n",
-    ];
+    const data = {
+      slides: [
+        "<h1>Markdown Feature Showcase</h1>\n",
+        "<h2>Headers</h2>\n",
+        "<h1>H1</h1>\n",
+        "<h2>H2</h2>\n",
+        "<h3>H3</h3>\n",
+        "<h4>H4</h4>\n",
+        "<h5>H5</h5>\n",
+        "<h6>H6</h6>\n",
+        "<h2>Text Formatting</h2>\n<p><em>Italic</em> or <em>Italic</em><br>\n<strong>Bold</strong> or <strong>Bold</strong><br>\n<strong><em>Bold Italic</em></strong> or <strong><em>Bold Italic</em></strong><br>\n<s>Strikethrough</s><br>\n<code>Inline code</code></p>\n",
+        "<h2>Lists</h2>\n",
+        "<h3>Unordered</h3>\n<ul>\n<li>Item 1</li>\n<li>Item 2\n<ul>\n<li>Subitem 2.1</li>\n<li>Subitem 2.2</li>\n</ul>\n</li>\n<li>Item 3</li>\n</ul>\n",
+        "<h3>Ordered</h3>\n<ol>\n<li>First item</li>\n<li>Second item\n<ol>\n<li>Subitem 2.1</li>\n<li>Subitem 2.2</li>\n</ol>\n</li>\n<li>Third item</li>\n</ol>\n",
+        '<h3>Task List</h3>\n<ul class="contains-task-list">\n<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox"> Complete markdown guide</li>\n<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox"> Add more examples</li>\n<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox"> Review formatting</li>\n</ul>\n',
+        '<h2>Links and Images</h2>\n<p><a href="https://www.markdownguide.org">Markdown Guide</a><br>\n<img src="https://markdownlogo.com/img/logo-markdown.png" alt="Alt text" title="Markdown Logo"></p>\n',
+        '<h2>Code Blocks</h2>\n<pre><code class="language-python"><span class="token keyword">def</span> <span class="token function">hello_world</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">:</span>\n <span class="token keyword">print</span><span class="token punctuation">(</span><span class="token string">"Hello, Markdown!"</span><span class="token punctuation">)</span>\n</code></pre>\n<pre><code class="language-javascript">console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span><span class="token string">"Code blocks support syntax highlighting"</span><span class="token punctuation">)</span><span class="token punctuation">;</span>\n</code></pre>\n',
+        "<h2>Tables</h2>\n<table>\n<thead>\n<tr>\n<th>Syntax</th>\n<th>Description</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Header</td>\n<td>Title</td>\n</tr>\n<tr>\n<td>Paragraph</td>\n<td>Text</td>\n</tr>\n<tr>\n<td><code>code</code></td>\n<td>Inline code</td>\n</tr>\n</tbody>\n</table>\n",
+        "<h2>Blockquotes</h2>\n<blockquote>\n<p>This is a blockquote.<br>\nIt can span multiple lines.</p>\n</blockquote>\n",
+        "<h2>Horizontal Rule</h2>\n<hr>\n<p>or</p>\n<hr>\n",
+        "<h2>Inline HTML</h2>\n<details>\n<summary>Click to expand</summary>\nHidden content revealed!\n</details>",
+        "<h2>Footnotes</h2>\n<p>Here’s a sentence with a footnote.[^1]</p>\n<p>[^1]: This is the footnote.</p>\n",
+        "<h2>Emoji</h2>\n<p>😄 🚀 👍</p>\n",
+        '<h2>Math (when supported)</h2>\n<p>Inline math: <mjx-container class="MathJax CtxtMenu_Attached_0" jax="CHTML" tabindex="0" ctxtmenu_counter="0" style="position: relative;"><mjx-math class="MJX-TEX" aria-hidden="true"><mjx-mi class="mjx-i"><mjx-c class="mjx-c1D438 TEX-I"></mjx-c></mjx-mi><mjx-mo class="mjx-n" space="4"><mjx-c class="mjx-c3D"></mjx-c></mjx-mo><mjx-mi class="mjx-i" space="4"><mjx-c class="mjx-c1D45A TEX-I"></mjx-c></mjx-mi><mjx-msup><mjx-mi class="mjx-i"><mjx-c class="mjx-c1D450 TEX-I"></mjx-c></mjx-mi><mjx-script style="vertical-align: 0.363em;"><mjx-mn class="mjx-n" size="s"><mjx-c class="mjx-c32"></mjx-c></mjx-mn></mjx-script></mjx-msup></mjx-math><mjx-assistive-mml unselectable="on" display="inline"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>E</mi><mo>=</mo><mi>m</mi><msup><mi>c</mi><mn>2</mn></msup></math></mjx-assistive-mml></mjx-container></p>\n<p>Block math:</p>\n<p><mjx-container class="MathJax CtxtMenu_Attached_0" jax="CHTML" display="true" tabindex="0" ctxtmenu_counter="1" style="position: relative;"><mjx-math display="true" class="MJX-TEX" aria-hidden="true" style="margin-left: 0px; margin-right: 0px;"><mjx-mi class="mjx-i"><mjx-c class="mjx-c1D456 TEX-I"></mjx-c></mjx-mi><mjx-mi class="mjx-i"><mjx-c class="mjx-c1D45B TEX-I"></mjx-c></mjx-mi><mjx-msubsup><mjx-mi class="mjx-i"><mjx-c class="mjx-c1D461 TEX-I"></mjx-c></mjx-mi><mjx-script style="vertical-align: -0.247em; margin-left: 0px;"><mjx-mi class="mjx-i" size="s"><mjx-c class="mjx-c1D44F TEX-I"></mjx-c></mjx-mi><mjx-spacer style="margin-top: 0.34em;"></mjx-spacer><mjx-mi class="mjx-i" size="s"><mjx-c class="mjx-c1D44E TEX-I"></mjx-c></mjx-mi></mjx-script></mjx-msubsup><mjx-mi class="mjx-i"><mjx-c class="mjx-c1D453 TEX-I"></mjx-c></mjx-mi><mjx-mo class="mjx-n"><mjx-c class="mjx-c28"></mjx-c></mjx-mo><mjx-mi class="mjx-i"><mjx-c class="mjx-c1D465 TEX-I"></mjx-c></mjx-mi><mjx-mo class="mjx-n"><mjx-c class="mjx-c29"></mjx-c></mjx-mo><mjx-mi class="mjx-i"><mjx-c class="mjx-c1D451 TEX-I"></mjx-c></mjx-mi><mjx-mi class="mjx-i"><mjx-c class="mjx-c1D465 TEX-I"></mjx-c></mjx-mi><mjx-mo class="mjx-n" space="4"><mjx-c class="mjx-c3D"></mjx-c></mjx-mo><mjx-mi class="mjx-i" space="4"><mjx-c class="mjx-c1D439 TEX-I"></mjx-c></mjx-mi><mjx-mo class="mjx-n"><mjx-c class="mjx-c28"></mjx-c></mjx-mo><mjx-mi class="mjx-i"><mjx-c class="mjx-c1D44F TEX-I"></mjx-c></mjx-mi><mjx-mo class="mjx-n"><mjx-c class="mjx-c29"></mjx-c></mjx-mo><mjx-mo class="mjx-n" space="3"><mjx-c class="mjx-c2212"></mjx-c></mjx-mo><mjx-mi class="mjx-i" space="3"><mjx-c class="mjx-c1D439 TEX-I"></mjx-c></mjx-mi><mjx-mo class="mjx-n"><mjx-c class="mjx-c28"></mjx-c></mjx-mo><mjx-mi class="mjx-i"><mjx-c class="mjx-c1D44E TEX-I"></mjx-c></mjx-mi><mjx-mo class="mjx-n"><mjx-c class="mjx-c29"></mjx-c></mjx-mo></mjx-math><mjx-assistive-mml unselectable="on" display="block"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><mi>i</mi><mi>n</mi><msubsup><mi>t</mi><mi>a</mi><mi>b</mi></msubsup><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mi>d</mi><mi>x</mi><mo>=</mo><mi>F</mi><mo stretchy="false">(</mo><mi>b</mi><mo stretchy="false">)</mo><mo>−</mo><mi>F</mi><mo stretchy="false">(</mo><mi>a</mi><mo stretchy="false">)</mo></math></mjx-assistive-mml></mjx-container></p>\n',
+        "<h2>Definition Lists (when supported)</h2>\n<p>Term 1<br>\n: Definition 1</p>\n<p>Term 2<br>\n: Definition 2</p>\n",
+        "<h2>Miscellaneous</h2>\n<p>Escaped characters: <em>not italic</em><br>\nHard line break (two spaces at end)<br>\nLine 1<br>\nLine 2</p>\n",
+      ],
+      settings: {
+        theme: {
+          options: {
+            light: `
+        /* Base Styles */
+        .pre {
+          display: block;
+          min-height: 100vh;
+          width: 100%;
+          box-sizing: border-box;
+          padding: 2rem 15% 4rem;
+          background-color: #f8f9fa; /* Light but not pure white */
+          color: #333;
+          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+          font-size: 1.5rem;
+          line-height: 1.6;
+          overflow-y: auto;
+          overflow-x: hidden;
+          scrollbar-width: thin;
+          scrollbar-color: #ccc #f8f9fa;
+        }
+
+        /* Text elements */
+        .pre h1, .pre h2, .pre h3, .pre h4, .pre h5, .pre h6 {
+          margin-top: 1.5em;
+          margin-bottom: 0.75em;
+          line-height: 1.2;
+          font-weight: 600;
+        }
+
+        .pre h1 { font-size: 2.5em; }
+        .pre h2 { font-size: 2em; }
+        .pre h3 { font-size: 1.75em; }
+        .pre h4 { font-size: 1.5em; }
+        .pre h5 { font-size: 1.25em; }
+        .pre h6 { font-size: 1em; }
+
+        .pre p {
+          margin-top: 1em;
+          margin-bottom: 1em;
+        }
+
+        .pre strong {
+          font-weight: bold;
+        }
+
+        .pre em {
+          font-style: italic;
+        }
+
+        /* Lists */
+        .pre ul, .pre ol {
+          margin: 1em 0;
+          padding-left: 2em;
+        }
+
+        .pre li {
+          margin-bottom: 0.5em;
+        }
+
+        /* Links */
+        .pre a {
+          color: #0969da;
+          text-decoration: none;
+        }
+
+        .pre a:hover {
+          text-decoration: underline;
+        }
+
+        /* Code blocks (Prism handles syntax highlighting) */
+        .pre pre[class*="language-"] {
+          border-radius: 6px;
+          margin: 1.5em 0;
+          overflow: auto;
+          padding: 1em;
+          background-color: #f6f8fa;
+        }
+
+        .pre code:not([class*="language-"]) {
+          background-color: #f6f8fa;
+          border-radius: 3px;
+          padding: 0.2em 0.4em;
+          font-size: 0.9em;
+        }
+
+        /* Images */
+        .pre img {
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin: 1.5em auto;
+          border-radius: 4px;
+        }
+
+        /* Blockquotes */
+        .pre blockquote {
+          border-left: 4px solid #dfe2e5;
+          color: #57606a;
+          margin: 1.5em 0;
+          padding: 0 1em;
+        }
+
+        /* Tables */
+        .pre table {
+          border-collapse: collapse;
+          width: 100%;
+          margin: 1.5em 0;
+        }
+
+        .pre th, .pre td {
+          border: 1px solid #dfe2e5;
+          padding: 0.5em 1em;
+          text-align: left;
+        }
+
+        .pre th {
+          background-color: #f6f8fa;
+          font-weight: 600;
+        }
+
+        /* Horizontal rule */
+        .pre hr {
+          border: none;
+          border-top: 1px solid #dfe2e5;
+          margin: 2em 0;
+        }
+
+        /* Scrollbar styling */
+        .pre::-webkit-scrollbar {
+          width: 8px;
+          height: 8px;
+        }
+
+        .pre::-webkit-scrollbar-track {
+          background: #f8f9fa;
+        }
+
+        .pre::-webkit-scrollbar-thumb {
+          background-color: #ccc;
+          border-radius: 4px;
+        }
+
+        /* Responsive adjustments */
+        @media (max-width: 1200px) {
+          .pre {
+            padding-left: 10%;
+            padding-right: 10%;
+          }
+        }
+
+        @media (max-width: 768px) {
+          .pre {
+            padding-left: 5%;
+            padding-right: 5%;
+            font-size: 1.3rem;
+          }
+        }`,
+            dark: `
+        /* Base styles */
+        .pre {
+          /* Full screen layout */
+          position: fixed;
+          top: 0;
+          left: 0;
+          right: 0;
+          bottom: 0;
+          overflow-y: auto;
+          overflow-x: hidden;
+
+          /* Dark theme colors */
+          background-color: #121212;
+          color: #e0e0e0;
+
+          /* Typography */
+          font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+          line-height: 1.6;
+          font-size: 1.5rem;
+
+          /* Content layout */
+          padding: 2rem 15% 4rem;
+          box-sizing: border-box;
+          max-width: 100%;
+        }
+
+        /* Text elements */
+        .pre h1, .pre h2, .pre h3, .pre h4, .pre h5, .pre h6 {
+          color: #ffffff;
+          margin-top: 1.5em;
+          margin-bottom: 0.75em;
+          line-height: 1.2;
+        }
+
+        .pre h1 {
+          font-size: 2.5rem;
+          border-bottom: 1px solid #333;
+          padding-bottom: 0.5rem;
+        }
+
+        .pre h2 {
+          font-size: 2rem;
+        }
+
+        .pre h3 {
+          font-size: 1.75rem;
+        }
+
+        .pre p {
+          margin: 1em 0;
+        }
+
+        .pre strong {
+          font-weight: bold;
+          color: #ffffff;
+        }
+
+        .pre em {
+          font-style: italic;
+        }
+
+        .pre a {
+          color: #64b5f6;
+          text-decoration: none;
+        }
+
+        .pre a:hover {
+          text-decoration: underline;
+        }
+
+        /* Lists */
+        .pre ul, .pre ol {
+          margin: 1em 0;
+          padding-left: 2em;
+        }
+
+        .pre li {
+          margin: 0.5em 0;
+        }
+
+        /* Code blocks (Prism handles syntax highlighting) */
+        .pre pre[class*="language-"] {
+          background-color: #1e1e1e;
+          border-radius: 4px;
+          padding: 1em;
+          margin: 1.5em 0;
+          overflow: auto;
+          max-width: 100%;
+        }
+
+        .pre code {
+          font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+          background-color: #1e1e1e;
+          padding: 0.2em 0.4em;
+          border-radius: 3px;
+          font-size: 0.9em;
+        }
+
+        /* Images */
+        .pre img {
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin: 1.5em auto;
+        }
+
+        /* Blockquotes */
+        .pre blockquote {
+          border-left: 4px solid #333;
+          padding-left: 1em;
+          margin: 1.5em 0;
+          color: #b0b0b0;
+        }
+
+        /* Tables */
+        .pre table {
+          border-collapse: collapse;
+          width: 100%;
+          margin: 1.5em 0;
+        }
+
+        .pre th, .pre td {
+          border: 1px solid #333;
+          padding: 0.5em 1em;
+          text-align: left;
+        }
+
+        .pre th {
+          background-color: #1e1e1e;
+          color: #ffffff;
+        }
+
+        /* Horizontal rule */
+        .pre hr {
+          border: none;
+          border-top: 1px solid #333;
+          margin: 2em 0;
+        }
+
+        /* Scrollbar styling */
+        .pre::-webkit-scrollbar {
+          width: 10px;
+          height: 10px;
+        }
+
+        .pre::-webkit-scrollbar-track {
+          background: #1e1e1e;
+        }
+
+        .pre::-webkit-scrollbar-thumb {
+          background: #555;
+          border-radius: 5px;
+        }
+
+        .pre::-webkit-scrollbar-thumb:hover {
+          background: #777;
+        }
+
+        /* Responsive adjustments */
+        @media (max-width: 1200px) {
+          .pre {
+            padding-left: 10%;
+            padding-right: 10%;
+          }
+        }
+
+        @media (max-width: 768px) {
+          .pre {
+            padding-left: 5%;
+            padding-right: 5%;
+            font-size: 1.3rem;
+          }
+        }`,
+          },
+          default: "dark",
+        },
+        codeTheme: {
+          options: {
+            dracula: `/**
+     * Dracula Theme originally by Zeno Rocha [@zenorocha]
+     * https://draculatheme.com/
+     *
+     * Ported for PrismJS by Albert Vallverdu [@byverdu]
+     */
+
+    code[class*="language-"],
+    pre[class*="language-"] {
+    	color: #f8f8f2;
+    	background: none;
+    	text-shadow: 0 1px rgba(0, 0, 0, 0.3);
+    	font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
+    	text-align: left;
+    	white-space: pre;
+    	word-spacing: normal;
+    	word-break: normal;
+    	word-wrap: normal;
+    	line-height: 1.5;
+    	-moz-tab-size: 4;
+    	-o-tab-size: 4;
+    	tab-size: 4;
+    	-webkit-hyphens: none;
+    	-moz-hyphens: none;
+    	-ms-hyphens: none;
+    	hyphens: none;
+    }
+
+    /* Code blocks */
+    pre[class*="language-"] {
+    	padding: 1em;
+    	margin: .5em 0;
+    	overflow: auto;
+    	border-radius: 0.3em;
+    }
+
+    :not(pre) > code[class*="language-"],
+    pre[class*="language-"] {
+    	background: #282a36;
+    }
+
+    /* Inline code */
+    :not(pre) > code[class*="language-"] {
+    	padding: .1em;
+    	border-radius: .3em;
+    	white-space: normal;
+    }
+
+    .token.comment,
+    .token.prolog,
+    .token.doctype,
+    .token.cdata {
+    	color: #6272a4;
+    }
+
+    .token.punctuation {
+    	color: #f8f8f2;
+    }
+
+    .namespace {
+    	opacity: .7;
+    }
+
+    .token.property,
+    .token.tag,
+    .token.constant,
+    .token.symbol,
+    .token.deleted {
+    	color: #ff79c6;
+    }
+
+    .token.boolean,
+    .token.number {
+    	color: #bd93f9;
+    }
+
+    .token.selector,
+    .token.attr-name,
+    .token.string,
+    .token.char,
+    .token.builtin,
+    .token.inserted {
+    	color: #50fa7b;
+    }
+
+    .token.operator,
+    .token.entity,
+    .token.url,
+    .language-css .token.string,
+    .style .token.string,
+    .token.variable {
+    	color: #f8f8f2;
+    }
+
+    .token.atrule,
+    .token.attr-value,
+    .token.function,
+    .token.class-name {
+    	color: #f1fa8c;
+    }
+
+    .token.keyword {
+    	color: #8be9fd;
+    }
+
+    .token.regex,
+    .token.important {
+    	color: #ffb86c;
+    }
+
+    .token.important,
+    .token.bold {
+    	font-weight: bold;
+    }
+
+    .token.italic {
+    	font-style: italic;
+    }
+
+    .token.entity {
+    	cursor: help;
+    }
+    `,
+          },
+          default: "dracula",
+        },
+      },
+      // todo: js extensions
+      extensions: {},
+    };
   </script>
   <script src="voyage1.0.umd.min.js"></script>
   <script src="keyboard.js"></script>

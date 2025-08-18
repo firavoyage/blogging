@@ -112,6 +112,7 @@
   - konata izumi
   - krahets
   - leanrada kalabasa
+  - leaverou
   - lee sedol go
   - lei bro gaming
   - leongao
@@ -164,6 +165,7 @@
   - timqian
   - tinyfool
   - tourist gennady korotkevich
+  - tualatrix
   - turingou
   - txstc55
   - uzawa reisa
