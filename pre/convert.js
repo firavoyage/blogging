@@ -3,71 +3,65 @@
  * @param {string} markdown - The markdown content to parse
  * @returns {string[]} Array of HTML strings, each representing a slide
  */
-function convertMarkdownToSlides(markdown) {
-  // Initialize markdown-it with plugins configuration
-  const md = window.markdownit({
-    html: true, // Enable HTML tags in source
-    xhtmlOut: true, // Use '/' to close single tags
-    breaks: true, // Convert '\n' in paragraphs into <br>
-    linkify: true, // Autoconvert URL-like text to links
-    highlight: function (str, lang) {
-      if (lang && window.Prism.languages[lang]) {
-        try {
+function convert(markdown) {
+  // Initialize markdown-it with basic configuration
+  const md = window
+    .markdownit({
+      html: true,
+      xhtmlOut: true,
+      breaks: true,
+      linkify: true,
+      typographer: true, // Enables smartquotes, dashes, etc.
+      highlight: function (str, lang) {
+        if (lang && window.Prism && window.Prism.languages[lang]) {
           return window.Prism.highlight(
             str,
             window.Prism.languages[lang],
             lang
           );
-        } catch (__) {}
-      }
-      return ""; // use external default escaping
-    },
-  });
+        }
+        return ""; // Fallback
+      },
+    })
+    .use(window.markdownitEmoji) // for emoji
+    .use(window.markdownitTaskLists); // for task lists
 
-  // Split markdown into slides based on headers and horizontal rules
-  const slideSeparators = /(^#{1,6}.*$|^---$|^\*\*\*$|^___$)/m;
+  // Split markdown into slides based on headers only
+  const slideSeparators = /(?=^#{1,6} )/gm;
   const rawSlides = markdown
     .split(slideSeparators)
     .map((chunk) => chunk.trim())
-    .filter((chunk) => chunk.length > 0 && !/^(---|\*\*\*|___)$/.test(chunk));
-
-  // Process each slide
-  const slides = [];
-  let currentSlideContent = [];
-
-  for (const chunk of rawSlides) {
-    if (/^#{1,6}.*$/.test(chunk)) {
-      // If it's a header, finalize current slide and start new one
-      if (currentSlideContent.length > 0) {
-        slides.push(currentSlideContent.join("\n"));
-        currentSlideContent = [];
-      }
-      currentSlideContent.push(chunk);
-    } else {
-      currentSlideContent.push(chunk);
-    }
-  }
-
-  // Add the last slide if it has content
-  if (currentSlideContent.length > 0) {
-    slides.push(currentSlideContent.join("\n"));
-  }
+    .filter((chunk) => chunk.length > 0);
 
   // Convert each slide markdown to HTML
-  const htmlSlides = slides.map((slide) => md.render(slide));
+  const htmlSlides = rawSlides.map((slide) => {
+    // Process markdown to HTML
+    let html = md.render(slide);
 
-  // Process MathJax in each slide
-  if (window.MathJax) {
-    htmlSlides.forEach((slideHtml, index) => {
-      const tempDiv = document.createElement("div");
-      tempDiv.innerHTML = slideHtml;
-      window.MathJax.typesetPromise([tempDiv])
-        .then(() => {
-          htmlSlides[index] = tempDiv.innerHTML;
-        })
-        .catch((err) => console.error("MathJax typeset error:", err));
-    });
-  }
+    // Process math expressions (both block and inline)
+    if (window.MathJax) {
+      // Convert $...$ to \(...\) for MathJax
+      html = html
+        .replace(/\$\$(.*?)\$\$/gs, "\\[$1\\]") // block math
+        .replace(/\$(.*?)\$/gs, "\\($1\\)"); // inline math
+
+      // Create temporary container
+      const container = document.createElement("div");
+      container.innerHTML = html;
+
+      // Typeset synchronously (not recommended but per your requirements)
+      try {
+        window.MathJax.typesetClear([container]);
+        window.MathJax.typeset([container]);
+      } catch (e) {
+        console.error("MathJax processing error:", e);
+      }
+
+      return container.innerHTML;
+    }
+
+    return html;
+  });
 
   return htmlSlides;
 }

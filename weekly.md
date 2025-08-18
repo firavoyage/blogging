@@ -21,7 +21,8 @@
 
 - archive deepseek chats (done)
 - write voyagejs 1.0 based on preact (done)
-- write core fn of pre
+- write pre core (done)
+- write pre web (done)
 
 ## 20250701
 
