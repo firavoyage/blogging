@@ -10,3 +10,5 @@ i dont want any dependencies
 fix: processed scripts but failed to process link stylesheet
 
 still failed to process <link href="reset.css" rel="stylesheet" />
+
+my js files contain const right = `</script><script>((e,t)=>{...
