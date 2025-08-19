@@ -1,0 +1,10 @@
+sed -i 's|</script>|@@@SCRIPT_END_ESCAPE@@@|g' input.html
+html-minifier input.html \
+  --remove-comments \
+  --minify-css \
+  --minify-js \
+  --collapse-whitespace \
+  --conservative-collapse \
+  --ignore-custom-fragments '@@@SCRIPT_END_ESCAPE@@@' \
+  -o output.html
+sed -i 's|@@@SCRIPT_END_ESCAPE@@@|</script>|g' output.html

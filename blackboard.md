@@ -140,5 +140,4 @@
 - datong hs `694`
 - dajing hs (admitted) `667`
 - shiba hs `634.5`
-- shinan hs `610.5`
 - (too far, didnt sign up) gezhi hs (fengxian campus) `684`

@@ -61,6 +61,7 @@
 - personas
   - acetaffy812
   - adamwathan tailwindcss
+  - anlin zhihu
   - antfu
   - antoninoscordino ntonino
   - azumaseren
@@ -289,6 +290,7 @@
   - .attack on titan (2013)
   - .school days (2007)
   - .white album (2009)
+  - .gushing over magical girls (2024)
 - games
   - angry birds (2009)
   - minecraft (2011)

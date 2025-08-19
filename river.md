@@ -7427,4 +7427,22 @@ then, deepseek fixed it with
 - Added escapeScriptTags function that replaces all </script> sequences in JavaScript code with <\/script> (escaped version)
 ```
 
+upd: 
+
+when i passed the output.html to 
+
+```
+html-minifier \
+  --remove-comments \
+    --minify-css \
+      --minify-js \
+        --collapse-whitespace \
+          input.html -o output.html
+
+```
+
+maybe it removed my "escape". then it errs again!
+
+so i could not release a "min" version, even now!
+
 ---
