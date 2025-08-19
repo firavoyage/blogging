@@ -1,28 +1,41 @@
 ## pre: presentation with markdown and latex
 
-under dev
+~~under dev~~ 
+
+1.0 released!
 
 ### usage
 
-- web
-- node
+- web (see /releases)
+- node (under dev)
 
-### comparison
+### reason
 
 - ppt/google slides
   - code and latex support
+  - content focused, styling separated
 - overleaf
   - markdown based
 - slidev/revealjs/...
   - almost the same
   - simple
-  - added some features
-  - removed some features
+  - added some features (todo: list them)
+  - removed some features (todo: list them)
 
-### dev
+### compass
+
+- `lib` libraries
+- `resources` may be useful
+- `releases` packed web apps
+
+### under the hood
 
 - libraries
-  - voyage
-  - keyboard
+  - voyage (fira's work)
+  - keyboard (fira's work)
+  - markdown-it
+  - prism
+  - mathjax (current, may switch to katex in the future)
 - prompts
   - see `/apps/drafts`
+

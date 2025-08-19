@@ -496,13 +496,13 @@ sudo apt install gnome-shell-extension-prefs
     - auto indent and remove redundant spaces (format document) `ctrl shift i`
   - write markdown
     - preview document `ctrl shift v`
+    - insert snippet `ctrl i`
     - toggle math environment `ctrl m`
     - toggle code span `` ` ``
       - when `editorTextFocus`
     - toggle code block `` ctrl shift ` ``
     - toggle strike through `alt s`
     - toggle task list `alt c`
-    - insert snippet `ctrl i`
   - run code
     - _run code_ `ctrl r`
     - _stop running in terminal_ `ctrl c`

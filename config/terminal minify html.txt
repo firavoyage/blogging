@@ -3,4 +3,5 @@ html-minifier \
   --minify-css \
   --minify-js \
   --collapse-whitespace \
+  --conservative-collapse \
   input.html -o output.html
