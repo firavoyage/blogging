@@ -271,6 +271,7 @@
   - better call saul (2015)
   - tales of qianfu battles (2013)
   - oshi no ko (2023)
+  - gushing over magical girls (2024)
   - .date a live (2013)
   - .sword art online (2012)
   - .bocchi the rock (2022)
@@ -290,7 +291,6 @@
   - .attack on titan (2013)
   - .school days (2007)
   - .white album (2009)
-  - .gushing over magical girls (2024)
 - games
   - angry birds (2009)
   - minecraft (2011)
