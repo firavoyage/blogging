@@ -90,6 +90,7 @@
 - `flower oi ideas` 针对 OI 新场景下不同教派信仰的相关探究与概念诠释
   - oi
   - by 皎月半洒花
+- `hzwer` 程序员最大的悲哀是什么？向复杂性妥协的宿命
 - `hzwer oi` 再见，OI
   - oi
 - `cosmicac oi` OI 生涯回忆
