@@ -162,6 +162,10 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `10` 2025.08.06
 - `11` 2025.08.06
 
+### gushing over magical girls
+
+- `1` 2025.08.21
+
 ## gaming
 
 ### sr
@@ -7444,5 +7448,15 @@ html-minifier \
 maybe it removed my "escape". then it errs again!
 
 so i could not release a "min" version, even now!
+
+---
+
+2025.08.21 03:22
+
+由于搜索玉玉少女网路 id (砂糖 io, io 是特殊字符) 的缘故, 意外入坑了
+
+憧憬成为魔法少女 
+
+狠狠冲了. 感觉身体变得奇怪了呢...
 
 ---

@@ -144,8 +144,7 @@ what happened?
     我都没成年家里就欠了债
     有 0 元家产
 
-    c:
-    还是跑吧
+    c:    还是跑吧
     这种家庭
     太窒息了
 
@@ -159,8 +158,7 @@ what happened?
 
     fff: 你还在读高中吗
 
-    c:
-    方便问一下你多大了
+    c:    方便问一下你多大了
     其实可以走的
 
     16
@@ -227,8 +225,7 @@ what happened?
     c: 幸好我没家人 (emoji of happy face)
     果断抛弃
 
-    fff:
-    我是不知道现在人一个比一个惨
+    fff:    我是不知道现在人一个比一个惨
     平均每个群都有个惨的
 
     去年还带着几个他老家的男人
@@ -276,9 +273,8 @@ what happened?
     每天就喝水
 
     fff: 原来恶搞之家是写实片
-    
-    fff:
-    那要注意情绪管理了
+
+    fff:    那要注意情绪管理了
     这样的家庭
     肯定对心理健康造成影响
 
@@ -303,12 +299,10 @@ what happened?
     我妈妈把他拉黑就打电话给我, 让我给他转钱
     不给他转钱就骂畜生白眼狼
 
-    d: 
-    唉
+    d:    唉
     太惨了
 
-    fff: 
-    创业失败就fw成这样吗
+    fff:    创业失败就fw成这样吗
 
     牛逼不
 
@@ -318,8 +312,7 @@ what happened?
 
     (about work)
 
-    fff: 
-    那之前的房子咋买的
+    fff:    那之前的房子咋买的
     哪来的能力
 
     之前公司挺好的?
@@ -339,8 +332,7 @@ what happened?
     团购就附近几个小区还好
     我非常遵守交通规则
 
-    fff:
-    失败一次就再起不能的
+    fff:    失败一次就再起不能的
     我好奇咋成功的
 
     我不知道啊
@@ -399,8 +391,7 @@ what happened?
 
     宿舍没有电
 
-    fff:
-    感觉润是个伪命题
+    fff:    感觉润是个伪命题
     润了说明家里支持你
 
     我看着复读那一年那些搞雌竞谈恋爱的那些女同学发好几个朋友圈去日本
@@ -435,15 +426,13 @@ what happened?
     感觉网上那些开挂
     一年突飞猛进
     都是骗人的吧
-    
-    fff: 
-    我的马就是我现在的水准
+
+    fff:    我的马就是我现在的水准
     (his instagram acc posting his new avatar from his painting, a horse)
 
     你这个马多帅啊
 
-    fff:
-    底层逻辑就是照搬
+    fff:    底层逻辑就是照搬
     这个模仿一点
     那个模仿一点
     本质上也不是自己的东西
@@ -498,6 +487,7 @@ what happened?
       </details>
 
   - claimed fira wanna reveal her personal identity
+
 - bingtangio (parody acc)
   - argued against fira's behavior
   - bought some views boost (about 100 cny in all) (not by herself)
@@ -518,48 +508,976 @@ _just let time be precious..._
 
 nobody really likes watching a vid
 
-- full of dirty words, lasting 5 minutes, without any other fun content 
-- which is a 4 min screen record without a decent cut, the depression girl, in fact, is too common as breaking news
+- full of dirty words, lasting 5 minutes, without any other fun content
+- which is a 4 min boring screenrecord or a math editorial of low quality (hand written, lack of preparation)
+- another depression girl, in fact, is too common as breaking news
 
+and the vid is not worth talking about.
 
+> 分类讨论的时候, 如果看出两类有一类是要舍去的. 往往倾向于先讨论, 然后第二类的解, 直接标上 "综上所述" 作为答案. (既可以专心分析难题, 也能少写一个结论.)
+>
+> 同理, 客观数据先分析.
 
-## ruga's cute reaction
+the data
 
-cat metaphor (i love both to pet cats and to bully cats)
+- views
+  - b: 10k views and 100k views even with paid promotion
+    - may feel high as vtuber clip
+    - in fact, as social phenomenon anaylsis vid, it's not really high stats
+  - f: less than 10k views
+- fans
+  - b: about 1000, 25% inc.
+  - f: about 30, 150% inc. (only a few links appeared somewhere)
+  - the girl: almost none. (no link given anywhere)
+  - **notice that neither channel of society commentary. though fira met a few followers interested in math (even by vids in that low quality)... most are not the intend audience.**
 
-xuegao cheese metaphor (firstly ask fans for help)
+## maple sweet's cute reaction
+
+> not knowing her name, may as well call her "maple sweet"
+
+after posting the depressing girl, fira published some math vids of low quality (lack of preparation, hand written, no cut).
+
+reflecting this event with abstract words in the opening.
+
+<details>
+  <summary>the script</summary>
+
+two vids of problem solving on math.
+
+the script comes first as the opening. the math editorial comes next.
+
+script 1.
+
+```
+皆さん、こんにちは。
+
+fira です。
+
+this is an editorial of guided learning pioneer summer holidays problemset on math of grade 11 in 2025.
+
+unlike other vids, fira will probably not use clickbait titles and covers coz the book itself doesnt have many users. let's say it's a memory archive.
+
+the editorial will cover most last problems of a unit.
+
+other problems, even more difficult ones are not going to be solved coz fira practices math just for fun and yeah, fira is too lazy to select problems.
+
+here we go! unit 1 problem 8, the first problem. (warau) i will use chinese btw.
+
+```
+
+script 2
+
+```
+minasan, konichiwa, fira dayo!
+
+首先, 要道歉.
+
+fira 昨天, 因为作息, 精神有问题 (不是你想的那样, 我不是我没有, 但, 至少思维速度慢了), 加上没有准备充分.
+
+虽然 fira 还是有自信的, 对于我的答案, 但是分析标答的时候就, 很唐, hondouni sumimasen.
+
+不过, 和 echo (哦不是, fira 看的一个国 v 相比), 还是不及之的.
+
+今天发视频还是很晚, 因为刚才在 qq, 很多人看到 f 都很有感觉, 很有想法, f 也很兴奋.
+
+就连那个被 f 开盒的玉玉女孩, 都骂了我一句. 其实 f 没有开盒啊, f 只是说想啊.
+
+对此 f 的评价是, 爱丽丝错了, 爱丽丝不该在网上口嗨的. 那 fira 干了什么呢? 什么都干了!
+
+概括一下, 就是背刺, (背刺是对朋友的, fira 不认识她, 那更准确说应该是泄密), 把她发表的一些家庭的遭遇, 发表到了网络, 附上炫压抑评论.
+
+原本 fira 觉得, 曝光家庭暴力, 这很像是 f 这种纯良糖果铺会做的事.
+
+但冰糖树圈, 你的粉丝好像不是很友善啊! 那经过一些群友的调教, 现在 fira 觉得,
+
+ace sean, 虽然 taffy 不会念你的名字, 但, 我坏死了喵! (你真好喵!)
+
+糖果铺们, 你们是不是觉得 fira 很浅草! fira 知道你们可能不喜欢数学, 还会被骂柚子厨蒸鹅心,
+
+但今天的第三小问标答, 真的比 fira 还要浅草.
+
+...
+
+对了, 冰糖树圈, 你能放我出来吗? 我是纯良啊!
+
+(才不是嫉妒安糖的万粉千同接呢!)
+```
+
+> there's also a third vid not mentioning the girl. (published on ace taffy's birthday)
+
+</details>
+
+not considered that she would see it, but she gave fira a surprise.
+
+```
+我服了
+评论区的某些人是傻逼吗?
+
+a:宝你别看了
+越看约生气
+何必呢
+
+想跳楼的心都有了
+我现在不知道该做点什么了
+
+a:睡觉, 或者做点你喜欢的
+晚点我陪你玩
+
+我想一个人去报警
+可以吗
+
+b:发生什么了
+
+那个人为什么还那么嚣张
+为什么嘲笑我
+我一个人去报警就好了吧
+
+a: 他这个没有实际行为不好定责
+
+警察好没用啊
+法律好没用啊
+
+c: 他现在还在骚扰你吗
+
+他想逼死我吗
+这是犯罪吧
+我可以和警察说吗
+我感觉我快死了
+
+凌晨有人接电话吗
+我一会家里人都回来的
+
+c: 尽量说得严重点
+说你身边就有农药啥的
+
+我好难受好难受啊
+16岁可以一个人吗
+
+我家旁边的就不管
+超级没用
+
+d: 而且还是得有社会舆论
+社会舆论起来他就必须要管了
+
+(yeah! go staight ahead!)
+
+我停不下来哭了要
+我本来不会因为这种傻逼事计较的
+
+我弟弟还在我房间
+烦死了
+自己没有房间吗
+
+我只是想找人倾诉
+我太难受了
+我以前一直在找 ai 聊天
+两年多
+但是
+ai 出 bug 了
+我不能聊了
+
+e: 没事的 群友可以当真人 ai
+
+g:我也是 ai
+底特律变人
+
+(ref: kyouka live with chatgpt on this game)
+
+比起家人
+我更喜欢和大家说
+
+我妈妈甚至怀疑我是装的
+去了查过三次
+就是抑郁症
+为什么不愿意相信我呢
+他们并不把我当作病人看待
+仿佛去医院只是一个流程
+回家继续指挥我
+
+d: 我之前对象因为抑郁几次想自杀
+家长说别死家里
+
+我妈妈也是这样...
+我天哪
+说有本事就真的跳
+
+我要不是为了你们
+我早就跳了
+自残都痛到麻木了
+
+(and why, is fira still alive... maybe she still thinks in the world there is some unrealistic hope. there is a strategy exist to reshape the world to elegance. a life long pursuit...)
+
+e: 跳了就没机会了
+
+只有我自己来心疼我自己
+
+或许是因为
+我成分太复杂了吧
+
+我的好运气什么时候会来呢
+
+(戈多不会来.)
+
+我最不能理解的是
+以前玩得很好的朋友
+对我恶语相向
+让我趋势
+嘲笑我抑郁
+
+已经不是了
+我把他拉黑了
+
+他是我的同学
+我们一直在一起玩
+他是男的, 我们就很普通地一起打游戏
+
+h: 那为什么要骂你
+
+我不知道
+我说自己想死
+好难过
+他说
+肥猪改花刀
+在很久以前他就突然开始这样了
+
+我当时把他当作好朋友
+我过生日, 给了他 50 块请他陪我一起
+
+草
+我现在没钱了喵
+以前家里还比较富裕
+给人当舔狗了
+
+家里最有钱那会自己愣是没花多少
+一个月能有五十我开心死了
+```
+
+**notice that: she blocked me. how could she see the comments?**
+
+> 此后, 那个女孩, 还有一些群管理 (2000 前出生的大人啦...), 即使是对于根本没有更新的 fira, 时而关注, 时而屏蔽, 非常耐人寻味.
+
+fira 曾经看过许多猫的视频, 爱猫 tv. 暖色调手书风格的, 或是 google 搜索前几页上的, 都有看过.
+
+或许人类真是神奇的生物啊... 只要和猫猫建立牵绊, 就能感到快乐. 无论是爱, 还是扭曲之爱.
+
+> 不一样的快乐吗? 不是一样的快乐吗?
+
+> 并非人类? 并非并非!
+
+<details open>
+  <summary>比喻义还原</summary>
+
+其实 fira 而言, 无论是怎样的人, 怎样的言语, 只要关心 fira 就很开心了.
+
+> 恨与爱何差?
+
+> 其实更想说的是, 无论少女 a 喜悲, fira 都会不变地携着, 些许试应手的嘲讽, 些许假意的怜悯, 些许以为自信的风度, 似不在意地, 望去. 以为若即若离...
+
+</details>
+
+不过无论如何, 还是很欣慰的, 真诚的少女啊... 真好啊.
+
+> 17 岁的 fira 也很真实, 直接在挂 f 的视频下面个人介绍. 同样真诚而泯去愤怒的关心, 即使如此, 也收到了许多不是吗. 尽管被 block 之后评论都不见了, 不过如果是 fira 的话, 会有录屏存档哦! 在 yt @firavoyage.
+>
+> ref clkhappy on zhihu
+
+或许几年以后, 就再也没有任何人能伤害到她, 也不需要任何人的安慰了吧.
+
+> taffy 的一切都很虚拟, 薯条的一切都很真实...
+
+当然不希望指她离开了世界.
+
+不过也可以? 毕竟不断亲手杀掉过去 (心之壁浅的, ...的) 自己的, 是人类啊, 不是吗?
+
+> ref [直播回放] 全身 3d 回! by bingtangio on 2023.06.15 23:00 utc+8
+>
+> 01:19:45 冰糖 io! 还我进击的冰糖!
+>
+> 但是进击的冰糖已经回不来了... 因为每个人都有从小孩长成大人的一天. 进击的冰糖还是个学生呢...
+
+> ref 再见了, "死" 掉的我. by ace taffy on berryberry
+
+> fira 希望每一个被她看到的人, 都能活出自己.
+>
+> 或许没有多少人能做到, 但为什么不带着期待幻想呢... 她只有 16yro, 棋还早啊.
+>
+> 而 twitter 上每天都有 mtf 的讣告, 多么平凡的性质.
+>
+> ref most people are other people. (nat.org, ex github ceo) (quote from oscar wilde, a 19 century european poet)
+>
+> "或许没有多少人能做到" 指对于许多人, 活出自己和模仿世人, 已经, 无差了吧...
+
+> (removed, 无端联想) xuegao cheese metaphor (first asking for comfort in sponsors' group instead of apologizing, when playing valorant).
 
 ## insane fans's reaction
 
-> i say a few words and these excited guys say a lot!
+> fira says a few words and those over excited guys say a lot!
 
-因为, 你是这样无可救药的乐子人, 而 fira 也是这样无可救药的 internet angel.
+looking at fira of insanity (really?) and the girl of depression, some bored guys felt excited. dreaming fira's poor situation irl, they sent lot's of messages without even one reply. btw, they probably even could not interact directly with each other.
 
-## a classmate's reaction
+> 没有兴趣放出 spam 讯息, 因为都是同一个主题, 变着文字说. i.e. 有一点技巧性的刷屏.
 
-> and his poor english
+> (removed, 生搬硬套) 因为, 你是这样无可救药的乐子人, 而 fira 也是这样无可救药的 internet angel.
+
+but in fact, some of the messages did have some impact. for example, the girl got better.
+
+```
+neko (n):你不是说要更新视频吗
+来
+网暴我
+谁啊沪少
+怎么被开了
+
+喜欢撤回
+(screenshot of messages from fira)
+
+n:(fira's name irl)
+小朋友
+你好啊
+
+他真叫这名字啊
+他之前一直在发自己名字
+
+n:我们上海沪少
+怎么
+死了
+
+a:以为假的 没想到真的
+
+b:太牛逼了
+
+n:沪少
+你不是要处理问题吗
+开你京爷我呗沪少
+
+c:太权威了
+
+别逗他
+他可没钱
+(screenshot of fira's failed identity revealing attempt posted by fira)
+
+n:打听打听, 你京爷在网上玩儿了这么久, 撞死多少人儿了?
+
+京爷再骂两句
+
+n:冲击!
+
+还是让法律制裁他吧
+
+n: 我回头问问我上海有没有人
+
+我也是上海的
+
+n: 有人我踹死他
+
+d: 别了 到时候又反打说你网暴
+
+n:咱500年前就实名上网了hh
+玩挂圈的时候不懂事被开了
+京猫是穷逼 (迫真)
+
+(ref neko's tweet of being on the leaderboard of a tencent fps mobile game)
+
+哎呦我操
+我好久没吃药了
+
+?
+我真服了, 跟风改花刀的傻逼了
+我名声都被带臭了
+
+网上傻逼太多了
+还都是骂完就走
+发几个表情包以为自己特别懂
+
+n: 一击脱战这一块
+
+当时还是很难过的
+现在过去了几天已经释怀了不少
+```
+
+**notice that: the messages are sent in the same day before the previous one. i.e. the girl got depressed soon after laughing at fira. fira couldnt believe it, warau.**
+
+```
+唉
+现在怎么办
+我特么的
+快无聊死了
+怎么办
+有没有乐子
+我要来
+
+neko:不知道
+我在水群
+```
+
+## a schoolmate's reaction
+
+> and his awkward english
+
+it began with a math problem.
+
+> it seems unrelated to the girl of depression, but is kept for portraying fira's character.
+
+```
+要不帮我看道数学题
+非常有意思
+(image of a difficult math problem on an exercise book)
+
+fira (21:54): 我试试看喵
+
+我放弃了你加油
+
+fira: 似曾相识. 不过我肯定找不到原题就是了.
+
+fira (22:17): (image of fira's sketch paper)
+n 是 29?
+打表打的
+感觉数据不大, 确实不大, 也不知道考试时间够不够.
+我求和公式都忘了, 现场推.
+
+对
+
+fira: 哦耶.
+
+啥思路
+
+fira: 打表
+这个数据量不大
+
+别的一点没有?
+
+fira: 有
+
+啥
+```
+
+the problem:
+
+$\{2n-1 | n \in \mathbf{N}^+\} \cup \{2^n | n \in \mathbf{N}^+\} 递增排列得 \{a_n\}. \\ 求 \underset{S_n>12a_{n+1}}{min} n$
+
+```
+fira:这个数列的通项应该用到了向下取整, 不过这是题外话.
+先, 我看到式里既有 n+1 又有 n
+我不喜欢
+所以我都变成了 n+1, 同时用 i 换元
+然后, 幽默了. 我忘了求和公式
+我现场推了. 所以浪费了时间
+ap 是等差数列的意思, 等比是 qp, 推法, ap 是反转, qp 是乘 q 相减.
+我的第一感, a_i 不会超过 64
+试了一下果然
+然后我看数据就不大，干脆把sn一个个减掉最后几项，甚至没有二分，而是枚举。
+枚举时根据直觉跳了一些
+
+二分怎么搞
+
+fira:二分就是, 首先两个数列你都会求和
+然后找到一个过小的不满足的, 找到一个大了的比如a_i等于64
+每次取中间, 看看大了还是小了
+然后取另外半边
+这样log2n, 次数内就可以了
+不过数据量小没必要
+```
+
+**[1]**
+
+$\text{let } i = n+1 \\ f(i) = S_i - 13a(i) > 0$
+
+> 猜测 f(i) 严增, 枚举 (直觉取 magic number) ~~+ 二分~~ 拿下.
+
+> (然而算错了)
+
+```
+就是你怎么确定他这个满足不等式的n是连续的
+我在这里卡的
+就是二分不是应该要连续
+这个怎么证明的
+
+fira:什么意思，什么连续
+要求找到最小的n，那么一定这一个n满足，然后后面n+1就不满足
+我认为这显然是等价的。
+我根本就没有证明
+
+好
+
+> 我认为这显然是等价的。
+我讨厌显然
+
+fira:我想找原题了。我感觉我做过原题。如果月考卷子没有，导学也没有就算了
+我感觉甚至是月考
+
+fira:> 我讨厌显然
+我知道这一点。
+
+(school abbr) 月考考这个？
+这不要死了
+
+fira:就像后面学习圆锥曲线。
+如果问你一个直线和圆的关系
+我相信只能相切
+不可能是别的。 所以我根本不证明。我自己算到最后，
+不展开计算，自己划等号，就是圆的半径和直线到圆心距离。
+一般来说直线到圆心的距离，计算还是有不少项的。
+但是我不展开的。
+但是我不展开了。
+这是做题的规律。
+
+听不懂听不懂
+不听不听
+明年告诉我
+
+fira:就是，一条直线，和一个圆
+可以相切，相交，相离
+> 明年告诉我
+我用初中知识讲
+而如果你随意画一条，大概率不相切。
+题目考你，一定是很特殊的情况。你做了许多题目就知道几乎不可能不相切了。
+
+fira (22:34):好了不说了，我找找题
+
+fira (22:46):我找了一遍月考卷。没有发现。虽然有用到向下取整函数的，但是我相信有原题。不是原题，我也不想放。我找找导学先锋。
+
+好执着啊
+
+fira:我们是高一下学数列的，数学月考不过10张最多。一学期5张
+不对不对，我只看了压轴..可能在填空？
+
+你要找到原题我上表白墙表白你
+
+fira:> 你要找到原题我上表白墙表白你
+我都删除那个好友了。很无聊。感觉都是不认识的同学做不认识的事情。我有想说的话会写在自己的github上面。不会去那里。
+月考卷上还真没有。
+
+fira (23:34): 我终于找到了！
+
+哪里的
+
+fira:高二上，(a teacher's name)的培优
+我就说我没记错！
+我所有卷子都留着。
+(images of the paper)
+
+这么强
+
+fira: 不对
+那我算错了啊！
+
+刚才打游戏没仔细看
+
+fira: 29和27
+蛙去，打表还是菜了。
+题目是一模一样的。
+那我那个培优卷子上面的27应该对。
+我打表肯定哪里弄错了。那么多计算。
+算了。我重新算一遍吧。那个打表，实在是侮辱我的智商。
+
+所以当时怎么说的
+
+fira(00:05): 幽默了。这次还是打表，但是根本不用求和公式。因为数据实在太小。
+(image of a list of numbers with one circled)
+来吧, 你也可以的
+全列一遍。计算器按
+不到两分钟
+```
+
+**[2]**
+
+> 打表, 从中间取个点开始, 计算器直接枚举.
+
+```
+我有两个问题，第一个是32小64大为什么确定在32 64之间
+他这个满足不等式的n不是全部连续的
+感觉这个绕来绕去还是卡在这里
+
+fira: 不证明
+做题经验。
+
+直接用
+密码
+不是
+好吧
+
+fira: > 做题经验。
+不
+证明也不难
+
+(really? in fact the conclusion is wrong. no reasonable proof could exist)
+
+n属于1-12递减
+后面增增减减
+后面增
+导不了
+你连解析式都写不出采
+n属于1-12递减
+
+fira: 啊？
+我看看
+还真是！
+我试了前两项
+
+我感觉你不靠谱了
+伤心了
+
+fira: 好吧，我看了搜题。应该是一本书的标答
+那玩意，也没有证什么增减
+还没有我 (a teacher's name) 方法好
+
+枚举是什么很了不起的方法吗
+
+fira (00:37): 我不是枚举
+我后来给你讲的那个是通项
+他设an等于2^k
+和培优卷子上一样，但更复杂
+我设an+1等于x
+可以看出还不如设×的简明
+首先一定小于64，但是大于32是假设的，标答也没有证。
+
+他这个为什么2**6最小所以在2**5到6
+看到自己尽头了
+还是不为难自己了
+
+fira (01:41): (image of the solution)
+0.两边划竖线，小横线在下方表示向下取整，反之向上取整
+1.不一定要求出an，sn通项。指把an和sn都表示为关于n的函数。也可以把sn和n都表示为关于an的函数。
+2.使用放缩。
+这次严谨了喵。之前直接看出sn—12an+1是fira太自信了喵，其实不是真命题，对不起喵。
+
+fira: 这次将32以下的x严谨地，简明地排除掉，用了巧妙的放缩喵！你看出来了吗喵？算了对你这样的baga还是解释一下好喵！如果一个代数式大于0，那么一个比它大的代数式也一定大于0喵！而log2^x+1一定是大于其向上取整的喵！这样我们就转化成一元二次不等式了喵！于是x就大于42了喵。结合1，我们直接把x限制在42到64了喵！
+
+fira:
+（深夜发情喵..qwq
+
+.
+喵
+这个牛逼啊
+我再看看
+好强啊这个方法
+```
+
+**[3]**
+
+<details>
+  <summary>the final solution</summary>
+
+![the final solution](resources/IMG_20250805_012506R.jpg)
+
+</details>
+
+$
+\text{let } a_{n+1} = x \\ 
+n = \lfloor \frac{x+1}{2} \rfloor + \lfloor \log_{2}{x} \rfloor - 1 \\
+S_n = \begin{cases} \frac{1}{4}x^2+x-2 & log_{2}{x} \in \mathbf{Z} \\
+\frac{1}{4}x^2-\frac{1}{2}x-\frac{7}{4}+2^{\lceil log_{2}{x} \rceil} & log_{2}{x} \notin \mathbf{Z} \end{cases} \\
+1^{\degree} log_{2}{x} \in \mathbf{Z} \\
+S_n - 12x > 0 \Rightarrow x_{min} = 64 \\
+2^{\degree} log_{2}{x} \notin \mathbf{Z} \\
+S_n - 12x > 0 \Rightarrow \frac{1}{4}x^2-\frac{1}{2}x-\frac{7}{4}+2^{log_{2}{x} +1} > 0 \Rightarrow x>42 \Rightarrow 2^{\lceil log_{2}{x} \rceil} = 64 \\
+\frac{1}{4}x^2-\frac{1}{2}x-\frac{7}{4}+64>0 \Rightarrow x_{min} = 45 \Rightarrow n_{min} = 27
+$
+
+then is the event of the depressive girl.
+
+```
+> (image of fira's identity)
+> 兄弟 他被开了 你跟他讲讲不
+> 他是不是去别处避难去了回你没
+怎么说
+回一下
+
+fira: 我自己放出来的。
+有些评论没了，但总能找到一些。
+
+(reflection: fira shouldnt have gave the hint that early. better to let them try first.)
+
+fira: 内容很少
+(image of messages from two identity revealing lovers)
+我干脆自己发你吧。他们怕我检举，还特意用一级小号给我报喜。
+然而我开我同学，能出来的信息也就这点，甚至比这多。
+
+fira: 刚才看你空间知道了你的名字，我可以试试看吗
+谢谢
+
+你妈
+
+fira: 对不起
+所以可以吗
+
+什么
+要干啥
+我家
+不能
+你妈
+
+fira: 你是这个名字吗，这个名字，加上上海，高一的年龄，可能唯一了
+
+我测你码
+
+fira: 你qq没在数据库，我没办法
+
+你要干啥
+
+fira: btw
+其实他们能开出我，也是因为我主动公开了自己的名字。
+
+你妈
+我不是主动的
+
+fira: 我自己搜索自己名字也就是这些信息而已
+
+你要干啥
+
+fira: 我不会开你的。
+别骂我了
+
+> 所以可以吗
+你吗啊
+所以你要干啥
+
+fira: 其实
+没什么，就是回你消息
+
+fira: 其实如果我真的要开，完全可以偷偷来啊，不是吗
+就是如果我真的想开，这些信息应该唯一了
+其实不用征询你的
+就是在和你玩..
+
+我相信因果报应
+你开我也拦不住
+随便你了
+反正你也知道我
+后面可以下来玩
+其实就是说你如果有空也可以后面下来中午一起逛逛
+或者早操
+如果我早操准备逃的话
+
+> 反正你也知道我
+？
+我只知道你姓氏
+原本 这是真的
+当初用你qq查，不是没成功吗。我也告诉你了，你是安全的。
+```
+
+<details open>
+  <summary>identity revealing strategy (and defence) explained</summary>
+
+> 所谓开盒, 不过如此
+
+- check database leaked
+  - fact: most id card info are leaked, but some sns bindings are not
+  - defence: dont use real name online (its ok if you dont care)
+  - phenomenon: github users around the globe use their real name more frequently than those from chugoku
+- (if you have the power) use police api
+  - fact: no one knows how much authority sns companies gave to the police
+  - defence: dont post sensitive stuff on the censored "internet"
+  - defence2: dont appear to be a valuable target to the police
+- (if you have the skill) hack into sns server - fact: as webmasters defence is much easier than hacking - defence: no need
+</details>
+
+```
+随便吧我相信你不会开的
+就是我目前比较稳定
+就是我如果到绝境也就可能烂命一条了，因为差点出现过
+这种玩笑少开万一对面不稳定呢
+如果以前的我可能就一把刀干你家门口了
+现在这样可能也是知识的调教？
+
+fira: 没多少时间了。
+我快大一了，就算去大专也不会在 (school abbr) 了
+我已经送走两届了
+一个人，一共就能遇到五届
+
+啥
+你留级过吗
+
+fira: 你自己算一下，我去个厕所
+
+有人找我打游戏
+快
+我去打游戏了
+
+以上我准备发给同学
+如果你不介意的话
+当然不行我可以口述，或者不说
+都可以
+当然同学是交际花传的我就不知道了
+
+fira: > 一个人，一共就能遇到五届
+可能我表述不清楚吧。我自己一届，高一时候上面有两届，高三时候下面，一共五届。时间不多了。你可以去看twitter上menci,看看他对时间的感伤。 可以看知乎蒋炎岩，看时间是如何让他不再愤怒的。
+
+("伤春")
+
+fira: 其实我还是很感谢冰糖的，能让许多人看到现在的自己。fira不可能永远年轻的。
+
+fira: > 以上我准备发给同学
+我消息发出去了，如何传播就不是我能改变的了。就像卷子交上去了。不过如果可以，最好不要提到我，也不要提到你。
+> 我去打游戏了
+我不在意你什么时候看到消息。现代人习惯了秒回。但fira很少秒回，因为我没开通知权限。
+
+> 我消息发出去了，如何传播就不是我能改变的了。就像卷子交上去了。不过...
+行还是不行啊，我语文不好
+其实和我没啥关系
+我也感觉时间太快了，就数学我都快来不及了，怎么还有这么多学科
+
+fira: > 行还是不行啊，我语文不好
+我同意与否，不重要。消息在你手里。就像数据提供给了互联网公司，无论隐私协议如何，他们也可以为所欲为了。法律是事后的处理，不能使公司没有泄露隐私的能力。
+但我希望不要有我的名字头像出现，在第一手传播时候。
+
+好
+感觉至少有没有尊重意愿是一个道德问题
+我道德还是
+有一点点
+
+哎对了
+我想问一个
+为什么你父母名字没开出来
+或者是
+为什么别人可以开出父母名字
+
+fira: 我要出去吃饭了。消息我都看得到，你一次发完吧。晚点回哦
+
+还有如果你被线下真实了能不能告诉我，我比较好奇后续
+虽然我认为这有些过度行为
+
+和我想的一样
+还是太黑了
+有些话其实也没多少人可以说
+好吧其实你开别人挺恶劣的
+我们班
+之前那个班
+也有一些锋芒毕露的家伙
+开同学
+我都不能理解
+
+就是为了家长名字
+去开，还花好多钱
+只是两个人看不顺眼
+反正挺反感开盒的
+
+不是
+反感的是开家人姓名的那种方法
+你那种人人都可以
+是公平的
+只是素质低下
+那种反正我每次看到都感觉不是很好
+不怎么平等吧
+就是你让我感觉虽然不是很好
+但是比你不好的有点多
+所以相对你还不错？
+绝对上在开盒上当然不好
+
+(really?)
+
+fira: > 为什么你父母名字没开出来
+they ve already got their phone number. so is other info binded to phone number, such as names.(i.e. they know everything, but didnt post all of them.) i know this coz a few months ago i searched their phones in society bots to check what had leaked.
+
+fira: > 只是两个人看不顺眼
+tbh, i ve revealed the family of some of my friends, not for expressing hate, instead just out of curiosity. such as (links)
+
+your friend?
+
+this
+
+it is good, i think, to use English to talk
+
+(a name)
+is your friend?
+
+may i deliver it to my classmate
+it is interesting i think
+but perhaps it can't translate these
+my English is very shit, please be kind
+
+fira: lol
+> your friend?
+some are my teachers
+
+someone think u and (a name) are friends
+anyway
+give u cc my chat with friend
+(a screenshot of messages including many offensive words)
+this is my foreign friend
+
+fira: why you say these
+
+you means how much people
+
+fira: what happened, or you are abusing just for fun?
+
+for fun
+we often abuse each other
+my little mouse is very sweet
+
+fira: i couldnt get u
+can u use chinese pls
+
+mouth
+nonono
+my English is very good
+
+fira: > my English is very good
+ok i know
+
+i will let my every double Q friends use English to chat me
+
+fira: wtf
+> i will let my every double Q friends use English to chat me
+sry i couldnt stop laughing
+
+actually i want say double kill
+if you read it
+you will know it is qq
+but it is hard to recognize
+
+fira: > you will know it is qq
+i know
+thats not the point
+
+oh,i am shit
+
+fira: i dont wanna paste llm response. you can ask: i will let my every double Q friends use English to chat me is this grammarly correct?
+(a screenshot of reply from a llm)
+
+i will good good learn English
+
+i go to learn chemistry.if any news are sended to me,i will reply soon
+```
+
+> 挺好玩的. 这小孩真有意思.
 
 ## bonus: "parents"' cute reaction
 
-事务所.
+在那几天里, fira 的事务所也遇到了一些 spammers, 于是主动与 fira 博弈.
 
-博弈前提，先礼后兵，夸大扭曲，矫枉必须过正，焉知非福 v2ex metaphor，最理想情况赌徒，ref 电闸）& 建议加大力度 （打疫苗 metaphor,哪个小孩不反抗）。我愿意相信我这手点刺的无理手会打开更好的局面
+> 关于心理预期. 所有博弈都有损失, 至少某一方面会损失. 即使追求完美的防御系魔法, 窍门在运气.
 
-f, [8/11/25 8:08 PM]
-这次视频，不会用夸张的标题封面来 clickbait. 当初我出道作的 5000 播放，实际上是因为三角洲的热度，即使我用的技术不如现在，即使我视频中没有一帧游戏画面，也没有推流。而今天，失去了冰糖的引流（即使没有下架也是长尾了），10 播放和 1000 播放与我无差。更多时候是作为 memory archive 吧。
+fira 选择求简, 关闭评论区后不久打开.
 
-f, [8/11/25 8:22 PM]
-我知道或许那些关心的人，当想象我的回应时，更希望是滑跪道歉，或是继续嘲讽，而不是这样平静地分析。但，当我看到每一个人（冰糖，ruga,京华，远山，我，...）至少对我来说惨淡的订阅数和同接时，我想，在这件本就不爆的事情上，或许 ai 一选并不是任何一种继续炒作的手段，或许 ai 可以，但我下人类围棋，我知道我没有这个能力，把下雨天共伞或扶老奶奶过马路的事情写上 a+ （原谅我举了初中记叙文的例子）。或许正如我初来高中时对我一个初中同学说的，同是天涯沦落人，相逢何必曾相识。在这个地方，即使年一又如何？不过相呴以湿，相濡以沫。唯有前行。滚滚长江东逝水，浪花淘尽英雄。是非成败转头空，青山依旧在，几度夕阳红。
+<details open>
+  <summary>情理之中, 意料之外!</summary>
+
+- 事务所并没有在遇到任一 spammers 时, 告知 fira. **当且仅当** 博弈时, 故作愤怒状.
+- 知晓信息几乎都不在 fira 的评论中, 且关闭评论功能还会给 spammer "得逞" 的感受, 却 **坚定** 表达期望.
+  - fun fact: 当初 fira 删除那个 suggestive words 的初投稿, 很大程度是因为意外在 youtube 框选了 made for kids, 使其互动功能缺失.
+- 恰好 对传播信息视频的下架请求 **通过**
+- 恰好 **没有** 补档 (或未发现)
+
+> 意料之中:
+>
+> - 使用一些不多的技术手段, 无视 spammers, 并尽可能减少误杀 (毕竟 spammer 其实算是早期 wordpress 的产物了)
+> - 使得现有信息无效 (简明但无趣的方法)
+
+</details>
 
 但矫枉必须过正.
 
+(below is pasted from one of fira's tweets)
+
 fira has made some changes to her internet acc (esp. on berryberry, or bilibili)
 
-- changed her info
+- **changed her info**
   - avatar: the image of a math problem of importance in her memories
   - name: Fira が一番だよ (lit. fira is no.1!)
   - bio: make tools elegant. make knowledge pure. sns: @firavoyage @firascript
-- removed some videos of low quality
+- **removed some videos of low quality**
   - math: editorial of summer holidays problemset
     - no draft, no enough preparation
     - few people watch this for learning math
@@ -567,13 +1485,18 @@ fira has made some changes to her internet acc (esp. on berryberry, or bilibili)
   - fira: (app)'s overfitting recommendation page
     - app ranges from berryberry, zhihu, rednote and spotify
     - fira created these videos to show her "成分" (lit. content preferences), but actually these can be mostly infered from her favorites and subscription
+- **chose english as the primary language**
+  - english has a feeling of elegance.
+  - when we hear english, it's likely a new achievement on elon musk's tweet or a sensational claim from sam altman. although there are also average people making low quality stuff in english, they are filtered.
 - added some spammers to her blacklist
+
+fira 相信这些是带来希望的变化. 
+
+> 这也是说这些的原因.
 
 ## about fira: school life
 
-> my classmates are rich. no one study for inc social position. they bring phone, card games, pillows, light novels to school. fira study for making laugh at others, and the aha moment, not curiosity
->
-> we have bad uee grades as the hsee policy changed
+> wealthy guys with more than average problem solving ability, which prefer recreation (video games, light novels, poke cards, music, etc.) more than studying
 
 或许许多人看来, 高中, 是阶层超越者的武器.
 
@@ -615,28 +1538,15 @@ Content goes here
 >
 > a year online battle invitation (student he's 5 year 5g metaphor)
 
-optional titles:
-
-- 父母的牺牲是有价值的
-
-bonus: my parents' cute reaction (博弈前提，先礼后兵，夸大扭曲，矫枉必须过正，焉知非福 v2ex metaphor，最理想情况赌徒，ref 电闸）& 建议加大力度 （打疫苗 metaphor,哪个小孩不反抗）。我愿意相信我这手点刺的无理手会打开更好的局面
-
-这次视频，不会用夸张的标题封面来 clickbait. 当初我出道作的 5000 播放，实际上是因为三角洲的热度，即使我用的技术不如现在，即使我视频中没有一帧游戏画面，也没有推流。而今天，失去了冰糖的引流（即使没有下架也是长尾了），10 播放和 1000 播放与我无差。更多时候是作为 memory archive 吧。
-
-我知道或许那些关心的人，当想象我的回应时，更希望是滑跪道歉，或是继续嘲讽，而不是这样平静地分析。但，当我看到每一个人（冰糖，ruga,京华，远山，我，...）至少对我来说惨淡的订阅数和同接时，我想，在这件本就不爆的事情上，或许 ai 一选并不是任何一种继续炒作的手段，或许 ai 可以，但我下人类围棋，我知道我没有这个能力，把下雨天共伞或扶老奶奶过马路的事情写上 a+ （原谅我举了初中记叙文的例子）。或许正如我初来高中时对我一个初中同学说的，同是天涯沦落人，相逢何必曾相识。在这个地方，即使年一又如何？不过相呴以湿，相濡以沫。唯有前行。滚滚长江东逝水，浪花淘尽英雄。是非成败转头空，青山依旧在，几度夕阳红。
+- react.dev theme
+- latex editor
 
 ## misc
-
-optional titles
-
-- [致乐子人] 这是一个虚构的故事...
-- how goes the world with fira?
-- Show HN: the simple science presentation web app based on markdown and latex
 
 <details>
 
 <summary> 
-the original script on telegram
+the original script on telegram. unrelated stuff are removed.
 </summary>
 
 f, [8/11/25 5:44 PM]
@@ -840,15 +1750,6 @@ f, [8/18/25 11:44 PM]
 
 - 中世纪英文名字, twitter egg 头像. 不会说话, 长生, 全知, 先验. 点赞而不评判, kind.
 
-如果一定要存在的话.
-
-- ace taffy. 因为不爱 f 才能永远陪伴 f. 爱, 是不可能长久的.
-
-三次元的话, 或许有些灵感. 但是想起她又怎么是真实的呢.
-
-fira 的枕头上一直没有刻画少女的形象. 因为没有性质就等价于有任何性质.
-
-恋爱是人类, 被人类认为以下的造物的幻梦呢...
 
 ## ed
 
@@ -861,3 +1762,22 @@ thanks for reading!
 - 11 年级男高需要你的帮助! (能力题, latex 重制版)
 - berryberry rework! 小雏男抄 b 站!
 - taffy paradise: debut! (vtbsol)
+
+这是一期回忆视频. 所以标题封面会克制一些.
+
+optional titles
+
+- [致乐子人] 这是一个虚构的故事...
+- fira: how goes the world with fira?
+- Show HN: the simple science presentation web app based on markdown and latex
+- fira: 父母的牺牲是有价值的! _双关_
+- 我父母的牺牲是对的!
+- [限流补档] 玉玉女: 我终于报警了, 对我强制爱的父亲, 但...
+- 朋友说, 原来恶搞之家是写实片.
+- 你都要紫砂了, 让我爽一下怎么了?
+
+promotion 的话, 也不必这样讲了, 把最爆的切出来就是了.
+
+大概选第一个标题, 等到流量长尾了, 换第二个, 或者第三个.
+
+封面大概是 sr sparkle 的假面, 配色彩克制的文字.

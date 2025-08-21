@@ -23,6 +23,7 @@
 - write voyagejs 1.0 based on preact (done)
 - write pre core (done)
 - write pre web (done)
+- move pdfs in blogging repo elsewhere.
 
 ## 20250701
 
