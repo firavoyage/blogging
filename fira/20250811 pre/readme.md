@@ -1490,56 +1490,157 @@ fira has made some changes to her internet acc (esp. on berryberry, or bilibili)
   - when we hear english, it's likely a new achievement on elon musk's tweet or a sensational claim from sam altman. although there are also average people making low quality stuff in english, they are filtered.
 - added some spammers to her blacklist
 
-fira 相信这些是带来希望的变化. 
+fira 相信这些是带来希望的变化.
 
 > 这也是说这些的原因.
 
 ## about fira: school life
 
-> wealthy guys with more than average problem solving ability, which prefer recreation (video games, light novels, poke cards, music, etc.) more than studying
+> wealthy guys with just more than average problem solving ability, which prefer recreation (video games, light novels, poke cards, music, etc.) more than studying
 
-或许许多人看来, 高中, 是阶层超越者的武器.
+学校的情况
 
-但这些人, 真的需要吗?
+> 不妨引用 taffy (其子读高三) 这位老前辈的话.
+>
+> - 这是我第 24 届班主任, 第 10 届高三
+> - 你们高二数学均 #1, 但就拉两分, 就高二的难度而言, 含金量很低
+> - 我上一届高三均拉 #2 10 分, 一本率 70%+
+> - 我儿子也在 (school name) 读高三, 因为不放心
+> - (因为中考政策调整) 以前一届出一个复交, 三个同济很正常, 现在都见不到了, 生源真是不行啊, 唯有靠努力.
+>
+> 同时引用 a (其子读初中) 的话
+>
+> - 语文就是 150 分, 我不培养你们腹有诗书气自华.
+> - 语文很简单的, 三天, 三个白板, 不像 ... 思维导图很多的
+> - 语文我不指望你们 130 分拉分, 只要打底
+> - 很多小孩高考完说我从未上 100 的, 终于上 100 了!
+> - 点译, 然后填空.
+>
+> 同时引用 b 的话 (图文无关)
+>
+> - f: 我们初态考有没有小三门?
+> - b: 有, 肯定有啊!
+> - f: 你觉得我初态物理能考什么?
+> - b: 最多一个 c!
+>
+> (太高估 fira 了吧, fira 完全没学!)
+
+概括: 讲一本率 (其他的学校讲 tp 率, 复交率), 最好的班, 非一本率超过 20%.
+
+> 虽然, 高中, 作为阶层超越者的武器, 这些人也未必需要就是了.
 
 fira 想, 和水平相当的棋手下, 就很开心了.
 
-不一定要涨棋. 9 段的思路不一样的.
+不一定要追求涨棋. 9 段的思路不一样的. 棋盘会没有那么空旷了. 只有前几选. 也早就不存在那些流派了.
 
-无理手. ai.
-
-<details>
+<details open>
   <summary>比喻义还原</summary>
 
-Content goes here
+不还原了.
 
 </details>
 
-就 fira 这个稀疏的志愿, 多个或者少个 10 分都不会有任何影响
+填志愿的时候, 手册前言中有一句话, "不想去的学校, **千万千万** 不要填".
 
-(ref: cosmicac)
+fira 相信之. 于是大概 20 栏的平行志愿, fira 写了 4 行.
 
-- best of sh
+> 后来的结果是, 多大概 10 分或者低大概 20 分都不会对出路有任何影响.
+
+大学的志愿大概亦然吧.
+
+- best of sh (same)
 - ecnu
 - shnu
 - the non-university of best food and accommodation
 
-如果最后进厂了, 那就去南京路 (最繁华的商业街), 随机邀请 100 个路人灌注 ace taffy.
+~~如果去了二本, 那就去南京路 (最繁华的商业街), 随机邀请 100 个路人灌注 nanami.~~
 
-> 嗯呢? 让你们尝尝厂妹帮助厂妹的厉害!
+~~如果最后进厂了, 那就去南京路 (最繁华的商业街), 随机邀请 100 个路人灌注 ace taffy.~~
+
+> ~~嗯呢? 让你们尝尝厂妹帮助厂妹的厉害!~~
+
+> (removed, 不希望如此) ~~就 fira 这个稀疏的志愿, 多个或者少个 10 分都不会有任何影响~~
+>
+> (ref: cosmicac, an oier in thu math)
+
+或许从 f 表达或是教学上，也能看出来 fira 不强。不是内容，而是选择教学本身。
+
+> 甚至打个 df (三角洲), 都有兴致做几分钟纯文字的分析.
+
+最厉害的, 前置知识 (不必超纲) 就要学很久, 学到了那一步, 不过是能看懂解法, 又拿不到她的观察.
+
+当然她也可以就把这当作简历一行, 那这就是个服务业, 教一届, 教下一届, 大部分内容都教学无关的 (营销, 交涉, 形式主义...), 如果她心很静, 也是一个选择.
+
+> 其实 fira 也不觉得真的需要那么多老师. (抛开社会就业因素不谈)
+>
+> 内容, 有多少新意?
+
+> 尽管 fira 确实会很喜悦, 甚至相册里都保存了许多排版工整的解答.
+>
+> 但, 细想, 即使没有对同学的嘲讽, 难道没有对知识的轻蔑吗?
+>
+> (其实很多网路上 "秒杀!" "拿下!", 利用的都是后者的人性吧.)
+>
+> 至于, 写出了比标答更严谨/简明的解法, 乐趣大概来源于, 幻想了一个愚笨的老师, 然后展现优越感吧.
+>
+> 或许初心是, 追寻真理, 或是在思维游戏中展现优雅.
+>
+> 是作答后, 拿到意料之中的分数后, 平静的欣喜. 不需要幻想任何外物.
+>
+> 参加第一次初态考时, 就是这样的心态吧.
+>
+> "平常心"
+>
+> 或许 fira 长大了吧.
+
+> ref hzwer on zhihu: 程序员最大的悲哀是什么？向复杂性妥协的宿命
+>
+> 在甜蜜的梦里，我想出了几条公式，几行代码
+>
+> 它们浑然天成，效果拨云见日
+>
+> 美到一个字符都不用改
+>
+> 美到把一切复杂都还原
+>
+> 但是梦醒了，我什么都没做出来
+>
+> 我都不知道我要解的问题是什么
 
 ## about pre
 
-> the motivation of this vid, i hate evan you so as slidev, why does antfu spend a lot of time programming slidev?
->
-> show latex and code ability (fibonacci with matrix, prime with fermat and magic number)
->
-> collapse blocks and jk to forbackward
->
-> a year online battle invitation (student he's 5 year 5g metaphor)
+> fira 绝对不该在此, 表达对 evan you (其实只是用 vue 开发的 slidev) 的憎恨. 这个光映射的世界不需要更多憎恨了.
+
+> 也不必说什么优势, 和 ppt/google slide, overleaf, slidev 对打. 不过是多些喜欢的功能, 去掉了许多不喜欢的, 以及许多本应有却不存在与当前版本的功能.
+
+路还长.
+
+至少今天 (2025.08.22), 这篇内容不能再拖延了. 说来, 2025.08.11 就开始了.
+
+尽管这些天, fira 也有不少转变 (也不必过度解读其隐喻, ~~尽管一开始对一切都想联想, 用典~~):
+
+- wear the watch all day
+- do things on the desk, not the bed
+- wear earplugs instead of headphones sometimes
+- ~~check wakatime everyday~~ (only during programming)
+- ~~track the time for each task on sketch papers~~ (same)
+
+但等到 fira 下次使用这个工具时, 至少会加这些功能:
 
 - react.dev theme
-- latex editor
+- latex editor (a separated project)
+
+关于 vibe coding, fira 使用的是 deepseek.com (没有用 cursor. 无非是加了一段 builtin prompt 的 llm.)
+
+fira 很享受写足够长的 prompt, 然后一次写够.
+
+<details open>
+  <summary>some words in my prompt</summary>
+
+- dont show me the code, tell me your idea.
+- compare with its alternatives. (choosing libraries)
+- show me the additional code and where to insert them. (maybe cursor just added this line, and "reply in json".)
+</details>
 
 ## misc
 
@@ -1736,48 +1837,98 @@ f, [8/18/25 11:44 PM]
 
 つづく。
 
-转变:
-
-- wear the watch all day
-- do things on the desk, not the bed
-- wear earplugs instead of headphones sometimes
-- check wakatime everyday
-- track the time for each task on sketch papers
-
-很多人关心 f 的想法.
-
-如果构造的话.
-
-- 中世纪英文名字, twitter egg 头像. 不会说话, 长生, 全知, 先验. 点赞而不评判, kind.
-
-
 ## ed
 
-(fira::math avatar)
+> 原本的 script 中，现实（予我）的话语与（细想后不过）平凡的观察都被删去了。现代人真的需要跨越生死界限的，无限的平静吗？还是转瞬即逝的，人类所谓的，存在的激情呢？
 
-thanks for reading!
+> ending 应有歌曲.
 
-预告:
+开始想点 needy girl overdose 中的歌，后来想点 god knows...，后来是 girls band cry 中的歌（描绘青春，描绘梦想，不言败... gbc 全是这样的歌吧）。
+
+> 回想起小学同学...不敢否定任一个，却明知对于其中绝大部分人，earthol 不是他们的游戏。看到那么多坠落的，固不是不看或不传播就不存在的，或许 eol 开始切割玩家了吧... 地球 ol 终究不是每一个人的 stage, (刻意不区分不全是和全不是)。
+
+但 fira 不点这样的歌了，即使这些，她会很喜欢。
+
+> 用这样一句没有任何修饰的话收尾吧。
+
+<details>
+  <summary>学工时的作品</summary>
+
+![](<resources/IMG 20241115 145514R.jpg>)
+![](<resources/IMG 20241117 220835R.jpg>)
+
+> 灵感来源于, 当时意外从 internet 某处的链接的链接中游至的, matrix67 与 localhost 的 blog.
+>
+> 还记得当时在那个教室的大屏幕上, 因为没有找到键盘, 使用屏幕键盘在 bing global image search 上打出了 "wolframalpha origami". 当时那个劳动技术老师, 还对 wolframalpha 很有感触, 大概理工科出身吧.
+
+> 其实是灯和灯罩.
+>
+> 开关被摄影隐去了. 底座因为包裹一块电路板 (和塑料盒) 做的很大. 因为灯罩材料限制只能作夜灯了.
+
+最开始切硬纸板时, fira 测量, 用铅笔几乎不用力地划线标记, 在正反两面. 此后以剪刀的一半作刻刀, 轻浅地反复, 不为了划破或加深, 只为了那份宁静忘我的心境. 所以没有选择, 即使用力可以更快一些. 此后, 从不出力开始缓缓施力, 一瞬间使其分断也是必然.
+
+彼时, 同学许多都用手强硬地撕扯, 或是苦于剪刀的厚度. (没有 fira 这样的.)
+
+看着同学的拙状会感到欣喜, 直到不再有任何感受, 因为 fira 已经在自己的路上走了很远, 不再有任何人伴随.
+
+其实不止于纸板了, 到后来选择了圆形底座, 选择了在灯罩的相邻两面连接处都看不到胶...
+
+> 用纸片连接, 同时这些纸片也是剪裁之前就确定的.
+
+最终的结果是, fira 的作品中, 看不到任何的塑料, 电线, 或是灯条.
+
+而那些孩子们, 大多是在千篇一律 ("模板") 之上, 贴上一个元素 (角色).
+
+</details>
+
+或许当 fira 一开始，对那张硬纸板时，她从未想要胜过什么，或以取乐。
+
+然心中愿望那条平直的线...
+
+> (划纸) 应如此，轻浅联断。
+>
+> 此间乐趣...
+
+> ref nat friedman, ex github ceo
+>
+> as human beings it is our right (maybe our moral duty) to reshape the universe to our preferences
+
+<details open>
+  <summary>预告:</summary>
 
 - 11 年级男高需要你的帮助! (能力题, latex 重制版)
 - berryberry rework! 小雏男抄 b 站!
 - taffy paradise: debut! (vtbsol)
+</details>
 
-这是一期回忆视频. 所以标题封面会克制一些.
+> 这是一期回忆视频. 所以标题封面会克制一些.
 
-optional titles
+<details open>
+  <summary>optional titles</summary>
 
 - [致乐子人] 这是一个虚构的故事...
 - fira: how goes the world with fira?
 - Show HN: the simple science presentation web app based on markdown and latex
 - fira: 父母的牺牲是有价值的! _双关_
 - 我父母的牺牲是对的!
-- [限流补档] 玉玉女: 我终于报警了, 对我强制爱的父亲, 但...
+- [限流补档] 玉玉女: 我报警了, 对我强制爱的父亲, 但...
 - 朋友说, 原来恶搞之家是写实片.
 - 你都要紫砂了, 让我爽一下怎么了?
 
-promotion 的话, 也不必这样讲了, 把最爆的切出来就是了.
+> promotion 的话, 也不必这样讲了, 把最爆的切出来就是了.
 
-大概选第一个标题, 等到流量长尾了, 换第二个, 或者第三个.
+> 大概选第一个标题, 等到流量长尾了, 换第二个, 或者第三个.
 
-封面大概是 sr sparkle 的假面, 配色彩克制的文字.
+</details>
+
+> 封面大概是 sr sparkle 的假面, 配色彩压抑的文字.
+>
+> (upd: 意外地用枫糖总帅作封面了呢.)
+
+じゃ, 轻浅联断.
+
+---
+
+(fira::math avatar)
+
+thanks for reading! :heart:

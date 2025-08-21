@@ -915,3 +915,5 @@
 > 欢迎来 github issues/discussion 玩. 无法访问? fira 写过教程, 但没有任何方式保证其存活一年以上. 大意是, bing "gh mirror" -> gh "free nodes" -> dl app, import sub (maybe with mirror and converter) -> (advanced) google/tg "...". 或者, 你可以来 qq 群玩 (words of mouth).
 
 > 为什么要出这些围棋教程呢? 一方面是读者意识, 目前网络上免费优质的教程许多, 但是太长了, 很多上百小时, 入门很枯燥. 其实入门, 不需要如此久. 如果上百小时, 可以学更多. 另一方面是私心, 因为我希望以后直播围棋, 可以收获几十个同接. 当然因为这些年 f 看到了许多事情 (番剧删减收费, 本子魔法使...), f 不希望与恶魔交易, 所以直播间发送超过粉丝牌 (0.1 cny) 的礼物会被封禁.
+
+> 如果构造 fira 喜欢的, 女孩? 中世纪英文名字, twitter egg 头像. 不会说话, 长生, 全知, 先验. 对于 fira 的创造物, 按赞而不评论, kind.

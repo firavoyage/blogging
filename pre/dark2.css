@@ -1,0 +1,175 @@
+/* Base styles */
+.pre {
+  /* Full screen layout */
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  overflow-y: auto;
+  overflow-x: hidden;
+  
+  /* Dark theme colors */
+  background-color: #121212;
+  color: #e0e0e0;
+  
+  /* Typography */
+  /* font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif; */
+  line-height: 1.6;
+  font-size: 1.5rem;
+  
+  /* Content layout */
+  padding: 2rem 15% 4rem;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+
+.pre * {
+  font-family: "Fira Sans", "Noto Serif CJK SC";
+}
+
+/* Text elements */
+.pre h1, .pre h2, .pre h3, .pre h4, .pre h5, .pre h6 {
+  color: #ffffff;
+  margin-top: 1.5em;
+  margin-bottom: 0.75em;
+  line-height: 1.2;
+}
+
+.pre h1 {
+  font-size: 2.5rem;
+  border-bottom: 1px solid #333;
+  padding-bottom: 0.5rem;
+}
+
+.pre h2 {
+  font-size: 2rem;
+}
+
+.pre h3 {
+  font-size: 1.75rem;
+}
+
+.pre p {
+  margin: 1em 0;
+}
+
+.pre strong {
+  font-weight: bold;
+  color: #ffffff;
+}
+
+.pre em {
+  font-style: italic;
+}
+
+.pre a {
+  color: #64b5f6;
+  text-decoration: none;
+}
+
+.pre a:hover {
+  text-decoration: underline;
+}
+
+/* Lists */
+.pre ul, .pre ol {
+  margin: 1em 0;
+  padding-left: 2em;
+}
+
+.pre li {
+  margin: 0.5em 0;
+}
+
+/* Code blocks (Prism handles syntax highlighting) */
+.pre pre[class*="language-"] {
+  background-color: #1e1e1e;
+  border-radius: 4px;
+  padding: 1em;
+  margin: 1.5em 0;
+  overflow: auto;
+  max-width: 100%;
+}
+
+.pre code {
+  font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+  background-color: #1e1e1e;
+  padding: 0.2em 0.4em;
+  border-radius: 3px;
+  font-size: 0.9em;
+}
+
+/* Images */
+.pre img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1.5em auto;
+}
+
+/* Blockquotes */
+.pre blockquote {
+  margin: 1.5em 0;
+  opacity: 50%;
+}
+
+/* Tables */
+.pre table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1.5em 0;
+}
+
+.pre th, .pre td {
+  border: 1px solid #333;
+  padding: 0.5em 1em;
+  text-align: left;
+}
+
+.pre th {
+  background-color: #1e1e1e;
+  color: #ffffff;
+}
+
+/* Horizontal rule */
+.pre hr {
+  border: none;
+  border-top: 1px solid #333;
+  margin: 2em 0;
+}
+
+/* Scrollbar styling */
+.pre::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+.pre::-webkit-scrollbar-track {
+  background: #1e1e1e;
+}
+
+.pre::-webkit-scrollbar-thumb {
+  background: #555;
+  border-radius: 5px;
+}
+
+.pre::-webkit-scrollbar-thumb:hover {
+  background: #777;
+}
+
+/* Responsive adjustments */
+@media (max-width: 1200px) {
+  .pre {
+    padding-left: 10%;
+    padding-right: 10%;
+  }
+}
+
+@media (max-width: 768px) {
+  .pre {
+    padding-left: 5%;
+    padding-right: 5%;
+    font-size: 1.3rem;
+  }
+}
