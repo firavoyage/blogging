@@ -3,7 +3,7 @@
  * voyage framework: a sweeter preact
  *
  * this version is developed during 20250814 ~ 20250817 (utc+8)
- *
+ * 
  * features
  * - core functions: h (html), p (props), e (effect), r (render)
  *   - h:
@@ -19,7 +19,7 @@
  * - utilities: bind, html, show.
  *
  * @author firavoyage
- * @version 1.0
+ * @version 1.1
  * @since 0.1 initiated on 20240816, 1.0 initiated on 20250814
  * @see changelog.md
  */
@@ -27,15 +27,16 @@
 const preact = {
   ...window.preact,
   ...window.preactHooks,
+  ...window.preactCompat,
 };
 
 let voyage = {
   h(..._) {
     // html
-    const { createElement, Fragment } = preact;
+    const { createElement, Fragment, memo } = preact;
 
-    // todo: support more patterns of _ (done)
-    // todo: support Fragment (done)
+    // done: support more patterns of _
+    // done: support Fragment
 
     let tag = "",
       props = {},
@@ -72,6 +73,9 @@ let voyage = {
     if (tag == "") {
       // "" and Fragment are considered the same
       tag = Fragment;
+    } else if (typeof tag == "function") {
+      // memo all components
+      tag = memo(tag);
     }
 
     const has = (a, b) => Object.prototype.hasOwnProperty.call(a, b);
@@ -329,7 +333,7 @@ let voyage = {
 
     // for safety reason, deps should not be empty in any case
 
-    // todo: for fn (prop) in deps, call it. (done)
+    // done: for fn (prop) in deps, call it.
 
     const { useEffect } = preact;
 
@@ -340,7 +344,7 @@ let voyage = {
     // render
     const { render, createElement } = preact;
 
-    // todo: for fn apps, wrap it with h() (done)
+    // done: for fn apps, wrap it with h()
 
     if (typeof app == "function") {
       app = createElement(app);

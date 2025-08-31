@@ -539,4 +539,15 @@
   - provide / inject (Dependency Injection) / createContext and useContext (rejected)
   - v-once (rejected)
   - v-pre (rejected)
-- test: split voyagejs to library and test
+- test: split voyagejs core library and its unit tests to two js files
+
+## 1.1
+
+- feat: all memo
+  - since voyagejs, a simple framework, doesnt support memo, i have to choose between all memo and no memo.
+  - i ve asked llm: if i have to choose between all memo and no memo, which is better. llm suggested all memo.
+- library: include preact compat for memo
+- style: clearer syntax for done todos
+  - before: `todo: ... (done)`
+  - after: `done: ...`
+- todo: voyagejs usage prompt for llm
