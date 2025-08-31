@@ -1,4 +1,6 @@
-<!-- todo: categorize web, sync -->
+<!-- todo: categorize web and ruanyf.md into lights -->
+
+<!-- todo: blogging is too large. start with a fresh repo "f". pdfs are put elsewhere like "resources".-->
 
 <!-- categorize berryberry fav, zhihu fav -->
 

@@ -1269,7 +1269,10 @@ fira: 其实如果我真的要开，完全可以偷偷来啊，不是吗
   - fact: no one knows how much authority sns companies gave to the police
   - defence: dont post sensitive stuff on the censored "internet"
   - defence2: dont appear to be a valuable target to the police
-- (if you have the skill) hack into sns server - fact: as webmasters defence is much easier than hacking - defence: no need
+- (if you have the skill) hack into sns server
+  - fact: as webmasters defence is much easier than hacking
+  - defence: no need
+
 </details>
 
 ```
@@ -1642,12 +1645,132 @@ fira 很享受写足够长的 prompt, 然后一次写够.
 - show me the additional code and where to insert them. (maybe cursor just added this line, and "reply in json".)
 </details>
 
+## fin
+
+至此, 故事终了...
+
+> fira 再没回到这片 21 世纪的乐园, 直到中年已过, 直到老年将至.
+
+> 就像 v 圈老前辈, 清楚地 (平静地), 评昔日同僚时所言...
+>
+> > yuuki sakuna
+>
+> "有开始的一天, 就有结束的一天."
+>
+> ref: 关于 holilive 的毕业狂潮, 前员工结城昨日奈有话要说... by 某不知名咨询组 on 20250428
+
+但现实并不是这样, 不是吗?
+
+> 指表演死亡, 这条 fira 未曾选择的路.
+>
+> (三次元的少女, 写作很有文采的遗书, 随后纵身而下. 未被得出精神疾病, 压力过大的结论亦不被认可. 只是, 为给这封遗书, 画上完美的落点.)
+>
+> ref: [知乎]()
+
+つづく。
+
+## ed
+
+> 原本的 script 中，现实（予我）的话语与（细想后不过）平凡的观察都被删去了。现代人真的需要跨越生死界限的，无限的平静吗？还是转瞬即逝的，人类所谓的，存在的激情呢？
+
+> ending 应有歌曲.
+
+开始想点 needy girl overdose 中的歌，后来想点 god knows...，后来是 girls band cry 中的歌（描绘青春，描绘梦想，不言败... gbc 全是这样的歌吧）。
+
+> 回想起小学同学...不敢否定任一个，却明知对于其中绝大部分人，earthol 不是他们的游戏。看到那么多坠落的，固不是不看或不传播就不存在的，或许 eol 开始切割玩家了吧... 地球 ol 终究不是每一个人的 stage, (刻意不区分不全是和全不是)。
+
+但 fira 不点这样的歌了，即使这些，她会很喜欢。
+
+> 用这样一句没有任何修饰的话收尾吧。
+
+<details>
+  <summary>学工时的作品</summary>
+
+![](<resources/IMG 20241115 145514R.jpg>)
+![](<resources/IMG 20241117 220835R.jpg>)
+
+> 灵感来源于, 当时意外从 internet 某处的链接的链接中游至的, matrix67 与 localhost 的 blog.
+>
+> 还记得当时在那个教室的大屏幕上, 因为没有找到键盘, 使用屏幕键盘在 bing global image search 上打出了 "wolframalpha origami". 当时那个劳动技术老师, 还对 wolframalpha 很有感触, 大概理工科出身吧.
+
+> 其实是灯和灯罩.
+>
+> 开关被摄影隐去了. 底座因为包裹一块电路板 (和塑料盒) 做的很大. 因为灯罩材料限制只能作夜灯了.
+
+最开始切硬纸板时, fira 测量, 用铅笔几乎不用力地划线标记, 在正反两面. 此后以剪刀的一半作刻刀, 轻浅地反复, 不为了划破或加深, 只为了那份宁静忘我的心境. 所以没有选择, 即使用力可以更快一些. 此后, 从不出力开始缓缓施力, 一瞬间使其分断也是必然.
+
+彼时, 同学许多都用手强硬地撕扯, 或是苦于剪刀的厚度. (没有 fira 这样的.)
+
+看着同学的拙状会感到欣喜, 直到不再有任何感受, 因为 fira 已经在自己的路上走了很远, 不再有任何人伴随.
+
+其实不止于纸板了, 到后来使底座作为圆形, 使灯罩的相邻两面连接处都看不到胶...
+
+> 用纸片连接, 同时这些纸片也是剪裁之前就确定的.
+
+最终的结果是, fira 的作品中, 看不到任何的塑料, 电线, 或是灯条.
+
+> 而那些孩子们, 大多是在千篇一律 ("模板") 之上, 贴上一个元素 (角色).
+
+</details>
+
+或许当 fira 一开始，对那张硬纸板时，她从未想要胜过什么，或以取乐。
+
+然心中愿望那条平直的线...
+
+> (划纸) 应如此，轻浅联断。
+>
+> 此间乐趣...
+
+> ref nat friedman, ex github ceo
+>
+> as human beings it is our right (maybe our moral duty) to reshape the universe to our preferences
+
+<details open>
+  <summary>预告:</summary>
+
+- 11 年级男高需要你的帮助! (能力题, latex 重制版)
+- berryberry rework! 小雏男抄 b 站!
+- taffy paradise: debut! (vtbsol)
+</details>
+
+> 这是一期回忆视频. 所以标题封面会克制一些.
+
+<details open>
+  <summary>optional titles</summary>
+
+- [致乐子人] 这是一个虚构的故事...
+- fira: how goes the world with fira?
+- Show HN: the simple science presentation web app based on markdown and latex
+- fira: 父母的牺牲是有价值的! _双关_
+- 我父母的牺牲是对的!
+- [限流补档] 玉玉女: 我报警了, 对我强制爱的父亲, 但...
+- 朋友说, 原来恶搞之家是写实片.
+- 你都要紫砂了, 让我爽一下怎么了?
+
+> promotion 的话, 也不必这样讲了, 把最爆的切出来就是了.
+
+> 大概选第一个标题, 等到流量长尾了, 换第二个, 或者第三个.
+
+</details>
+
+> 封面大概是 sr sparkle 的假面, 配色彩压抑的文字.
+>
+> (upd: 意外地用枫糖总帅作封面了呢.)
+
+じゃ, 轻浅联断.
+
+---
+
+(fira::math avatar)
+
+thanks for reading! :heart:
+
 ## misc
 
 <details>
 
 <summary> 
-the original script on telegram. unrelated stuff are removed.
+the original script on telegram.
 </summary>
 
 f, [8/11/25 5:44 PM]
@@ -1812,123 +1935,3 @@ f, [8/18/25 11:44 PM]
 或许不在于此吧。这些 fira 都得到了。ja，轻浅联断。
 
 </details>
-
-## fin
-
-至此, 故事终了...
-
-> fira 再没回到这片 21 世纪的乐园, 直到中年已过, 直到老年将至.
-
-> 就像 v 圈老前辈, 清楚地 (平静地), 评昔日同僚时所言...
->
-> > yuuki sakuna
->
-> "有开始的一天, 就有结束的一天."
->
-> ref: 关于 holilive 的毕业狂潮, 前员工结城昨日奈有话要说... by 某不知名咨询组 on 20250428
-
-但现实并不是这样, 不是吗?
-
-> 指表演死亡, 这条 fira 未曾选择的路.
->
-> (三次元的少女, 写作很有文采的遗书, 随后纵身而下. 未被得出精神疾病, 压力过大的结论亦不被认可. 只是, 为给这封遗书, 画上完美的落点.)
->
-> ref: [知乎]()
-
-つづく。
-
-## ed
-
-> 原本的 script 中，现实（予我）的话语与（细想后不过）平凡的观察都被删去了。现代人真的需要跨越生死界限的，无限的平静吗？还是转瞬即逝的，人类所谓的，存在的激情呢？
-
-> ending 应有歌曲.
-
-开始想点 needy girl overdose 中的歌，后来想点 god knows...，后来是 girls band cry 中的歌（描绘青春，描绘梦想，不言败... gbc 全是这样的歌吧）。
-
-> 回想起小学同学...不敢否定任一个，却明知对于其中绝大部分人，earthol 不是他们的游戏。看到那么多坠落的，固不是不看或不传播就不存在的，或许 eol 开始切割玩家了吧... 地球 ol 终究不是每一个人的 stage, (刻意不区分不全是和全不是)。
-
-但 fira 不点这样的歌了，即使这些，她会很喜欢。
-
-> 用这样一句没有任何修饰的话收尾吧。
-
-<details>
-  <summary>学工时的作品</summary>
-
-![](<resources/IMG 20241115 145514R.jpg>)
-![](<resources/IMG 20241117 220835R.jpg>)
-
-> 灵感来源于, 当时意外从 internet 某处的链接的链接中游至的, matrix67 与 localhost 的 blog.
->
-> 还记得当时在那个教室的大屏幕上, 因为没有找到键盘, 使用屏幕键盘在 bing global image search 上打出了 "wolframalpha origami". 当时那个劳动技术老师, 还对 wolframalpha 很有感触, 大概理工科出身吧.
-
-> 其实是灯和灯罩.
->
-> 开关被摄影隐去了. 底座因为包裹一块电路板 (和塑料盒) 做的很大. 因为灯罩材料限制只能作夜灯了.
-
-最开始切硬纸板时, fira 测量, 用铅笔几乎不用力地划线标记, 在正反两面. 此后以剪刀的一半作刻刀, 轻浅地反复, 不为了划破或加深, 只为了那份宁静忘我的心境. 所以没有选择, 即使用力可以更快一些. 此后, 从不出力开始缓缓施力, 一瞬间使其分断也是必然.
-
-彼时, 同学许多都用手强硬地撕扯, 或是苦于剪刀的厚度. (没有 fira 这样的.)
-
-看着同学的拙状会感到欣喜, 直到不再有任何感受, 因为 fira 已经在自己的路上走了很远, 不再有任何人伴随.
-
-其实不止于纸板了, 到后来选择了圆形底座, 选择了在灯罩的相邻两面连接处都看不到胶...
-
-> 用纸片连接, 同时这些纸片也是剪裁之前就确定的.
-
-最终的结果是, fira 的作品中, 看不到任何的塑料, 电线, 或是灯条.
-
-而那些孩子们, 大多是在千篇一律 ("模板") 之上, 贴上一个元素 (角色).
-
-</details>
-
-或许当 fira 一开始，对那张硬纸板时，她从未想要胜过什么，或以取乐。
-
-然心中愿望那条平直的线...
-
-> (划纸) 应如此，轻浅联断。
->
-> 此间乐趣...
-
-> ref nat friedman, ex github ceo
->
-> as human beings it is our right (maybe our moral duty) to reshape the universe to our preferences
-
-<details open>
-  <summary>预告:</summary>
-
-- 11 年级男高需要你的帮助! (能力题, latex 重制版)
-- berryberry rework! 小雏男抄 b 站!
-- taffy paradise: debut! (vtbsol)
-</details>
-
-> 这是一期回忆视频. 所以标题封面会克制一些.
-
-<details open>
-  <summary>optional titles</summary>
-
-- [致乐子人] 这是一个虚构的故事...
-- fira: how goes the world with fira?
-- Show HN: the simple science presentation web app based on markdown and latex
-- fira: 父母的牺牲是有价值的! _双关_
-- 我父母的牺牲是对的!
-- [限流补档] 玉玉女: 我报警了, 对我强制爱的父亲, 但...
-- 朋友说, 原来恶搞之家是写实片.
-- 你都要紫砂了, 让我爽一下怎么了?
-
-> promotion 的话, 也不必这样讲了, 把最爆的切出来就是了.
-
-> 大概选第一个标题, 等到流量长尾了, 换第二个, 或者第三个.
-
-</details>
-
-> 封面大概是 sr sparkle 的假面, 配色彩压抑的文字.
->
-> (upd: 意外地用枫糖总帅作封面了呢.)
-
-じゃ, 轻浅联断.
-
----
-
-(fira::math avatar)
-
-thanks for reading! :heart:
