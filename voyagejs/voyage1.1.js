@@ -19,7 +19,7 @@
  * - utilities: bind, html, show.
  *
  * @author firavoyage
- * @version 1.4
+ * @version 1.1
  * @since 0.1 initiated on 20240816, 1.0 initiated on 20250814
  * @see changelog.md
  */
@@ -117,7 +117,7 @@ let voyage = {
       return "";
     }
 
-    for (const [key, prop] of Object.entries(props)) {
+    for (const key in props) {
       if (key.startsWith("@")) {
         // this is the only condition
         // where function values should not be considered as props
@@ -129,19 +129,10 @@ let voyage = {
       } else if (key == "ref") {
         // ref is one of the special props that only requires a setter
         // no need to process it or call its getter
-
-        // done: fix ref cause unnecessary rerenders
-
-        if (has(prop, "mutate")) {
-          props[key] = (element) => {
-            prop.mutate(element);
-          };
-        }
-
         continue;
       }
 
-      // if prop is reactive, call its getter
+      const prop = props[key];
       const value = typeof prop == "function" ? prop() : prop;
       const utilities = {
         html() {
@@ -185,10 +176,7 @@ let voyage = {
     return createElement(tag, props, ...children);
   },
   p(initial) {
-    const { useRef, useReducer } = preact;
-
-    // force update
-    const rerender = useReducer(() => ({}), {})[1];
+    const { useState } = preact;
 
     // Efficient deep clone function
     const deepClone = (obj) => {
@@ -258,59 +246,57 @@ let voyage = {
     // initial can be a function
     initial = typeof initial == "function" ? initial() : initial;
 
-    // useref instead of usestate under the hood.
-    // manually decide whether to rerender.
-    const ref = useRef(initial);
+    // setstate is just for creating rerenders
+    // both the getter and the setter are on current
+    const [state, setState] = useState(initial);
+
+    // done: fix infinite loop when there is a ref prop (place 1)
+
+    // let current = deepClone(state); // Initialize as clone
+    let current = state;
 
     const prop = (...args) => {
       if (args.length == 0) {
         // do nothing
       } else if (args.length == 1) {
         const newValue =
-          typeof args[0] == "function" ? args[0](ref.current) : args[0];
+          typeof args[0] == "function" ? args[0](current) : args[0];
 
-        // done: fix infinite loop when there is a ref prop
+        // done: fix infinite loop when there is a ref prop (place 2)
 
         // if (!shallowEqual(newValue, current)) {
         //   current = deepClone(newValue); // Store clone as current
         //   setState(current);
         // }
-        if (ref.current !== newValue) {
-          ref.current = newValue;
-          rerender();
-        }
+        current = newValue;
+        setState(current);
       } else if (args.length >= 2) {
         // Path + value case
         const path = args.slice(0, -1);
         const valueOrUpdater = args[args.length - 1];
 
-        const targetValue = path.reduce((obj, key) => obj?.[key], ref.current);
+        const targetValue = path.reduce((obj, key) => obj?.[key], current);
         const newValue =
           typeof valueOrUpdater == "function"
             ? valueOrUpdater(targetValue)
             : valueOrUpdater;
 
         if (!shallowEqual(targetValue, newValue)) {
-          ref.current = clonePath(ref.current, path, newValue);
-          rerender();
+          current = clonePath(current, path, newValue);
+          setState(current);
         }
       }
-      return ref.current; // Now returns current directly
-    };
-
-    // direct mutation without rerenders
-    prop.mutate = (newValue) => {
-      ref.current = newValue;
+      return current; // Now returns current directly
     };
 
     prop.produce = (fn) => {
-      const newState = deepClone(ref.current);
+      const newState = deepClone(current);
       fn(newState);
-      if (!shallowEqual(newState, ref.current)) {
-        ref.current = newState; // newState is already a clone
-        rerender();
+      if (!shallowEqual(newState, current)) {
+        current = newState; // newState is already a clone
+        setState(current);
       }
-      return ref.current; // Now returns current directly
+      return current; // Now returns current directly
     };
 
     prop.reconcile = (...args) => {
@@ -319,8 +305,8 @@ let voyage = {
       const path = args.slice(0, -1);
       const value = args[args.length - 1];
 
-      const target = path.reduce((obj, key) => obj?.[key], ref.current);
-      if (!target) return ref.current;
+      const target = path.reduce((obj, key) => obj?.[key], current);
+      if (!target) return current;
 
       let newValue;
       if (options.key) {
@@ -342,10 +328,10 @@ let voyage = {
       }
 
       if (newValue && !shallowEqual(target, newValue)) {
-        ref.current = clonePath(ref.current, path, newValue);
-        rerender();
+        current = clonePath(current, path, newValue);
+        setState(current);
       }
-      return ref.current;
+      return current;
     };
 
     return prop;
