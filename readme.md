@@ -721,7 +721,8 @@
   - gitlab (new account) `firascript`
   - wakatime `firavoyage`
   - codepen `firavoyage`
-- - majsoul `忘我思考` `fira`
+- - steam `firascript`
+  - majsoul `忘我思考` `fira`
   - foxwq `firascript` `李烨炀本物`
   - lichess `firascript`
   - chess.com `firascript`
