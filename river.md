@@ -7775,3 +7775,21 @@ This is why the empty dependency array `[]` is perfect for intervals, timeouts, 
 ````
 
 ---
+
+> install vrchat on ubuntu
+
+> provide terminal all in one command
+
+```bash
+sudo apt update && sudo apt install steam lutris -y && sudo apt install flatpak -y && flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo && flatpak install flathub net.davidotek.pupgui2 -y && echo "*** INSTALLATION COMPLETE ***" && echo "1. Log into Steam, go to Settings > Compatibility and ENABLE Steam Play for all titles." && echo "2. Reboot your computer (recommended)." && echo "3. Open ProtonUp-Qt from your app menu, select 'Steam', and install the latest GE-Proton version." && echo "4. In Steam, force VRChat to use that GE-Proton version in its Properties > Compatibility settings." && echo "5. (Optional) For an easier setup, open Lutris and search for the VRChat installer script."
+```
+
+done.
+
+"中文梗博物馆"
+
+---
+
+> my git repo is too large. write a command to remove all previous version. only keep the lastest one. and force push. its dangerous but dont worry, i use git as cloud drive
+
+---

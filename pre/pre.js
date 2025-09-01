@@ -5,8 +5,7 @@ const pre = ({ slides, settings, extensions }) => {
   const style = p();
   const page = p(1);
 
-  // current settings
-  const current = p(
+  const currentSettings = p(
     Object.fromEntries(
       Object.entries(settings).map(([item, value]) => [item, value.default])
     )
@@ -14,26 +13,33 @@ const pre = ({ slides, settings, extensions }) => {
 
   // done: fix flash of unstyled content
 
-  // style loaded
-  const loaded = p(false);
+  const styled = p(false);
+  const scrolled = p(false);
 
-  const scroll = p({});
+  // scroll position
+  const scroll = p(
+    Object.fromEntries(
+      Array.from({ length: slides.length }, (_, i) => [i + 1, 0])
+    )
+  );
 
   const range = (min, max) => ({
-    [Symbol.hasInstance]: (num) => num >= min && num <= max,
+    includes(num) {
+      return num >= min && num <= max;
+    },
   });
 
   const actions = {
-    navigate(to) {
-      window.a = range(1, slides.length - 1)
-      console.log(to, 1, slides.length - 1);
-      if (to in range(1, slides.length - 1)) {
-        // save current page scroll position
-        console.log(container().scrollTop);
+    navigate(index) {
+      if (range(1, slides.length).includes(index)) {
+        // save the scroll position of current page
         scroll(page(), container().scrollTop);
 
-        // set page state
-        page(to);
+        // navigate to the page given
+        page(index);
+
+        // yet to be scrolled
+        scrolled(false);
       }
     },
     next() {
@@ -55,24 +61,31 @@ const pre = ({ slides, settings, extensions }) => {
     });
   });
 
+  // restore scroll position of the current page
+  e(() => {
+    container().scrollTop = scroll()[page()];
+    scrolled(true);
+  }, [page]);
+
   // apply current settings
   e(() => {
     // todo: apply not only themes
     const theme =
-      settings.theme.options[current().theme] +
-      settings.codeTheme.options[current().codeTheme];
+      settings.theme.options[currentSettings().theme] +
+      settings.codeTheme.options[currentSettings().codeTheme];
     actions.setTheme(theme);
-    loaded(true);
-  }, [current]);
+
+    styled(true);
+  }, [currentSettings]);
 
   return h(
     h("style", { ref: style }),
-    loaded() &&
-      h("div", {
-        html: slides[page() - 1],
-        class: "pre",
-        ref: container,
-      })
+    h("style", ".pre.loading * {visibility: hidden}"),
+    h("div", {
+      html: slides[page() - 1],
+      class: ["pre", !(styled() && scrolled()) && "loading"],
+      ref: container,
+    })
   );
 };
 
