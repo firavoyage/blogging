@@ -19,7 +19,7 @@
  * - utilities: bind, html, show.
  *
  * @author firavoyage
- * @version 1.4
+ * @version 1.3
  * @since 0.1 initiated on 20240816, 1.0 initiated on 20250814
  * @see changelog.md
  */

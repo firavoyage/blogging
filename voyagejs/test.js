@@ -29,8 +29,6 @@ let examples = {
   Counter() {
     const count = p(0);
 
-    console.log("render!");
-
     return h(
       h("button", { "@click": () => count(+count() - 1) }, "-"),
       h("input", { type: "text", bind: count }),
@@ -85,22 +83,27 @@ let examples = {
     const count = p(0);
 
     e(() => {
-      interval = setInterval(() => {
+      const interval = setInterval(() => {
         count(count() + 1);
       }, 1000);
-      return () => clearInterval(interval);
-    }, [count]);
+      return () => {
+        clearInterval(interval);
+      };
+    });
     return h("p", count);
   },
   Condition() {
     const x = p(3);
 
     e(() => {
-      interval = setInterval(() => {
+      const interval = setInterval(() => {
         x(x() + 1);
       }, 1000);
-      return () => clearInterval(interval);
-    }, [x]);
+
+      return () => {
+        clearInterval(interval);
+      };
+    });
 
     return h(
       "p",
@@ -167,4 +170,10 @@ let examples = {
   },
 };
 
-voyage.r(examples.Condition, document.body);
+const Test = () => {
+  return Object.entries(examples).map(([name, component]) =>
+    h(h("h3", name), h(component))
+  );
+};
+
+voyage.r(Test, document.body);

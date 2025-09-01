@@ -488,7 +488,7 @@
 - fix: for `effect` created inside `effect`, run until lifecycle is empty
 - fix: insert dynamic `child` (i.e. functions) before mounting
 
-## 0.37
+## 0.37 (not released)
 
 - refactor: merge `compile` into `create`
 - refactor: `e(fn, deps)` and lifecycle hooks
@@ -515,7 +515,7 @@
     - https://v2.chakra-ui.com/docs/components
     - https://ui.shadcn.com/docs/components/
 
-## 1.0
+## 1.0 20250818
 
 - refactor!: removed all previous code. now voyagejs is a syntax sugar for preact.
   - why: a good web framework has a lot to do to optimize the performance. voyagejs need not reinvent the wheel. based on preact, voyagejs can focus on developer experience without caring the boring web apis.
@@ -541,7 +541,7 @@
   - v-pre (rejected)
 - test: split voyagejs core library and its unit tests to two js files
 
-## 1.1
+## 1.1 20250901
 
 - feat: all memo
   - since voyagejs, a simple framework, doesnt support memo, i have to choose between all memo and no memo.
@@ -550,4 +550,30 @@
 - style: clearer syntax for done todos
   - before: `todo: ... (done)`
   - after: `done: ...`
+- fix!: infinite loop when there is a ref prop
+- feat(test): run all unit tests at the same time
+  - display all component examples on the page
+- fix(test): global var and wrong deps
+  - in component `IntervalEffect` and `Condition`, i accidentally missed `let/const` before a variable. it becomes global even in a fn. that's one of js's most infamous "features".
+  - effects for setting intervals have deps, it adds overhead which may cause inaccurate timing.
+
+## 1.2 20250901
+
+- fix: ref will cause unnecessary rerender
+  - voyagejs doesnt support useref for simplicity. i use state as ref. the solution is to silently set the state's value without calling setstate.
+- feat: prop.current
+  - make the current value public for silently setting state.
+  - getting and setting .current will not create rerenders.
+
+## 1.3 20250901
+
+- fix!: ref couldnt keep across different renders
+  - directly setting prop.current wont let preact know. when it rerenders, current lose its value.
+  - solution: useref instead of usestate under the hood. manually compare new and old state to decide whether to update. usereducer for force update.
+  - remove prop.current
+- feat: prop.mutate() for direct mutation without rerenders
+  - element ref is passed to mutate
+
+## 1.4
+
 - todo: voyagejs usage prompt for llm

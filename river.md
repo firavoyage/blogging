@@ -152,6 +152,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `11` 2025.08.27
 - `12` 2025.08.28
 - `13` 2025.08.30
+- `14` 2025.09.01
 
 ### oshi no ko
 
@@ -1645,7 +1646,7 @@ it works
 ...
 改了 bubeidanci 的设置, 美国小妹妹发音...
 
-### june 2024
+### jun 2024
 
 1
 
@@ -2039,7 +2040,7 @@ wenzheng 和 zhanzihao 在玩 soulknight
 我会成为你的 ❤
 wangzhaohai
 
-### july 2024
+### jul 2024
 
 昨晚没有晚睡.
 自然醒.
@@ -2549,7 +2550,7 @@ berryberry 上还有 2013 年的上百万播放.
 望向窗外, 校园的跑道上, 草坪上, 新人军训.
 有一种"江月何年"的感觉.
 
-### sept 2024
+### sep 2024
 
 放课后...
 
@@ -6814,15 +6815,13 @@ finished watching ep 1 ~ 11.
 
 `ref`
 
-[Menci ![💖](https://abs-0.twimg.com/emoji/v2/svg/1f496.svg "Sparkling heart")](https://x.com/lcMenci)
+[Menci 💖](https://x.com/lcMenci)
 
 @lcMenci
 
 工程师是为了完成项目而生，而不是为了炫技。任何完整的项目或产品都需要各种不同的任务，好高骛远只做自认为「最酷的」工作，就不可能把项目完整做完。 不去纠结到底酷不酷，只要是项目需要的任务我全都做。今天把按钮摆正，明天调试 C 基础库崩溃，后天给数据库部署故障恢复 —— 每个任务都不可或缺。
 
 Quote
-
-![](https://pbs.twimg.com/profile_images/1182317342887305216/BFVLlBvC_normal.jpg)
 
 子萱 - e/acc @llennchan2003 · Aug 4
 
@@ -6843,7 +6842,7 @@ Quote
 
 `ref`
 
-[Menci ![💖](https://abs-0.twimg.com/emoji/v2/svg/1f496.svg "Sparkling heart")](https://x.com/lcMenci)
+[Menci 💖](https://x.com/lcMenci)
 
 感觉 2019 到 2025 就像 2015 到 2018 一样远，但是后者是三年，前者已经六年了
 
@@ -6853,14 +6852,14 @@ Quote
 
 可能后面生活趋于稳定了，所以值得被记忆的事情变少了？
 
-[Menci ![💖](https://abs-0.twimg.com/emoji/v2/svg/1f496.svg "Sparkling heart")](https://x.com/lcMenci)
+[Menci 💖](https://x.com/lcMenci)
 
 不不不，值得被记忆的事情变多了，变多了很多很多，但是人格稳定了（？
 [双倍多多冰](https://x.com/Icenowy)
 
 疫情三年不存在，刚好一样（
 
-[Menci ![💖](https://abs-0.twimg.com/emoji/v2/svg/1f496.svg "Sparkling heart")](https://x.com/lcMenci)
+[Menci 💖](https://x.com/lcMenci)
 
 不不不，那三年对我也挺深刻的，这六年哪一年对我都很深刻
 
@@ -6876,7 +6875,7 @@ Quote
 
 `ref`
 
-[Menci ![💖](https://abs-0.twimg.com/emoji/v2/svg/1f496.svg "Sparkling heart")](https://x.com/lcMenci)
+[Menci 💖](https://x.com/lcMenci)
 
 [Jul 17](https://x.com/lcMenci/status/1945864311026713056)
 
@@ -6960,7 +6959,7 @@ Cyandev @unixzii
 
 @lcMenci
 
-你要找的是不是：算法竞赛![🤣](https://abs-0.twimg.com/emoji/v2/svg/1f923.svg "Rolling on the floor laughing")
+你要找的是不是：算法竞赛 🤣
 
 Quote
 
@@ -7638,5 +7637,141 @@ managed to sync g.zip.
 (memories on phone and laptop to git remote)
 
 _sleep._
+
+### sep 2025
+
+2025.09.01 02:30 02:56
+
+fixing voyagejs issue with llm.
+
+the cause:
+
+i missed putting let/const before a variable.
+
+and it becomes global **even in a function**
+
+while i used the same var name in two components...
+
+later:
+
+> wtf... the variable can be global even in a fn in js... js is awful. in other lang without explicit declaration a variable is private by default... but here without adding let or const it becomes public
+
+````md
+You've just discovered one of JavaScript's most infamous "features"! 😫
+
+## JavaScript's Terrible Default Behavior
+
+You're absolutely right - this is awful design. In JavaScript:
+
+```javascript
+function example() {
+  // BAD: No var/let/const → becomes global variable!
+  interval = setInterval(...); // ← pollutes window.interval
+
+  // GOOD: Properly scoped
+  const localInterval = setInterval(...); // ← local to function
+}
+```
+
+## Why This Happens
+
+1. **No `use strict`**: Without strict mode, JS allows implicit globals
+2. **Loose mode**: Assigning to undeclared variables creates global properties
+3. **Historical mistake**: This was a bad design decision in early JS that can't be fixed now for backward compatibility
+
+## The Fix: Always Use `use strict`
+
+```javascript
+"use strict"; // ← Add this at the top of your file/function
+
+function example() {
+  interval = setInterval(...); // ← Now throws ReferenceError!
+  // Must declare: const interval = setInterval(...);
+}
+```
+
+## Or Better: Use Modern JS Tools
+
+Most modern frameworks/bundlers automatically enable strict mode:
+
+```javascript
+// In Preact/React components, always use:
+useEffect(() => {
+  const interval = setInterval(...); // ← const/let required
+  return () => clearInterval(interval);
+}, []);
+```
+
+## Comparison to Other Languages
+
+You're right - most sane languages don't do this:
+
+- **Python**: `interval = ...` always creates local variable
+- **Java/C#**: Would never compile without declaration
+- **Ruby**: Local by default, need `$interval` for global
+- **PHP**: Requires `global $interval` to access globals
+
+## JavaScript's Awful Legacy
+
+This is why experienced JS developers:
+
+1. Always use `"use strict"`
+2. Use linters (ESLint) that catch implicit globals
+3. Never forget `const`/`let`/`var`
+4. Use modern modules (ES6 imports/exports) which are strict by default
+
+You've stumbled upon one of JavaScript's worst footguns! 🔫 Welcome to the club of developers who've been burned by this.
+````
+
+> i got it, the cleanup dont necessarily run when the component rerenders. thats it
+
+````md
+Exactly! 🎯 You've got it!
+
+## The Key Insight:
+
+**Cleanup only runs in two scenarios:**
+
+1. **Before the effect re-runs** (when dependencies change)
+2. **When the component unmounts**
+
+## So if you have:
+
+```javascript
+e(() => {
+  // setup code
+  return () => {
+    // cleanup code - ONLY runs if:
+    // 1. Dependencies change, OR
+    // 2. Component unmounts
+  };
+}, [dependencies]); // ← This array determines when cleanup runs
+```
+
+## With `[count]` as dependency:
+
+```javascript
+// Cleanup runs BEFORE each re-render caused by count change
+e(() => {...}, [count]); // ← Cleanup runs before each new effect
+```
+
+## With `[]` as dependency:
+
+```javascript
+// Cleanup ONLY runs on unmount
+e(() => {...}, []); // ← Cleanup runs only when component is removed
+```
+
+## With no dependency array:
+
+```javascript
+// Cleanup runs BEFORE EVERY render (usually bad!)
+e(() => {...}); // ← Cleanup runs before every single re-render
+```
+
+You've correctly understood that **re-rendering ≠ cleanup**. Cleanup only happens when the specific effect is being re-executed due to dependency changes, or when the component is being destroyed.
+
+This is why the empty dependency array `[]` is perfect for intervals, timeouts, and event listeners - it ensures they persist across re-renders and only get cleaned up when the component is actually removed!
+````
 
 ---
