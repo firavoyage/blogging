@@ -4,64 +4,7 @@ const sample = `# Markdown Feature Showcase
 
 # H1
 
-dummy text...
-
-dummy text...
-
-dummy text...
-
-dummy text...
-
-dummy text...
-
-dummy text...
-
-dummy text...
-
-dummy text...
-
-dummy text...
-
-dummy text...
-
-dummy text...
-
-dummy text...
-
-dummy text...
-
-dummy text...
-
 ## H2
-
-
-dummy text...
-
-dummy text...
-
-dummy text...
-
-dummy text...
-
-dummy text...
-
-dummy text...
-
-dummy text...
-
-dummy text...
-
-dummy text...
-
-dummy text...
-
-dummy text...
-
-dummy text...
-
-dummy text...
-
-dummy text...
 
 ### H3
 
@@ -183,7 +126,66 @@ Line 1
 Line 2
 `;
 
-const slides = convert(sample);
+const sample2 = `# Introduction to Markdown Presentations
+
+Welcome to this demo presentation! This slide was created from a H1 header.
+
+---
+
+## Slide Features
+
+This slide was created from a H2 header. The presentation supports:
+
+- **Markdown formatting** like *italics* and **bold**
+- Code blocks with syntax highlighting:
+\`\`\`javascript
+function hello() {
+    console.log("Hello, world!");
+    return 42;
+}
+\`\`\`
+
+- Math expressions with MathJax: $E = mc^2$
+
+---
+
+### Advanced Features
+
+> Blockquotes are supported too!
+
+Tables work as well:
+
+| Feature       | Support         |
+|--------------|----------------|
+| Headers      | Yes            |
+| Lists        | Yes            |
+| Code         | Yes            |
+
+---
+
+# Math Slide
+
+Here's some more complex math:
+
+$$
+\\int_0^\\infty e^{-x^2} dx = \\frac{\\sqrt{\\pi}}{2}
+$$
+
+And inline math: $\\frac{d}{dx}f(x) = \\lim_{h \\to 0} \\frac{f(x+h)-f(x)}{h}$
+
+---
+
+# Final Slide
+
+Thank you for viewing this presentation!
+
+Created with:
+- Markdown
+- JavaScript
+- ❤️
+`;
+
+const slides = convertMarkdownToSlides(sample);
 
 document.getElementsByClassName("pre")[0].innerHTML = slides.join("");
 document.getElementsByClassName("json")[0].value = JSON.stringify(slides);

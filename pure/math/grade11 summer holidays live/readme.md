@@ -1,24 +1,44 @@
-fira dayo!
+# grade 11 summer holidays math challenge
 
-今天 fira 本来有大计划! 但, 我们职高新高三的数学 sensei, 在内网上突击直播了 2h!
+> 探究解锁高中数学能力题的密钥
 
-fira 见过他, 但不知道他名字, 就叫他 taffy 吧!
+> content from the live on the school private network on 2025.8.12
+>
+> problems are from shanghai uee and mock test papers in recent years
+> 
+> sensei: taffy
+>
+> gakusei: fira
 
-虽然 taffy 凌晨 10 点直播的时候, fira 还在呼呼喵! 导致只能开二创回了.
+## 1
 
-然后内网数据显示, 一共就 162 人看过, 这下 taffy 真臭底边了!
+```precious
+z = 1 + bi, b != 0. z + 2/z = m. m in R. 求 m.
+```
 
-看了两眼, taffy 没有笔, 用鼠标写数学, 实在看不下去了.
+> 尝试巧算.
 
-建议大境高二的孩子们不要看他的回放, 看我解说喵!
+<details>
+  <summary>[1]</summary>
 
-然后开幕雷击啊! 虚数吗? 能力题吗? 那很有水平了!
+  > 观察: 可化简为二次函数
 
-optional titles:
+  > 如果知道共轭虚根定理...
 
-- 职高沪爷的数学能力题吗? 那很有水平了!
-- 🤓 职高! 沪爷! 数学! 能力题!
-- 这就是上海职高的数学水平!
-- 不建议大家报考djhs! 建议报考我这个中专喵!
-- 一本? 二本!
-- taffy 生日二创回!
+  ```precious
+  z^2 - mz + 2 = 0
+  z_1 = 1+bi, z_2 = 1-bi (共轭虚根定理)
+    z_1 + z_2 = 2
+    z_1 + z_2 = - (-m)/(1) (verta)
+  m = 2
+  ```
+</details>
+
+<details>
+  <summary>[2]</summary>
+
+  > 虚数除法
+
+
+</details>
+

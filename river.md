@@ -153,6 +153,8 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `12` 2025.08.28
 - `13` 2025.08.30
 - `14` 2025.09.01
+- `15` 2025.09.02
+- `16` 2025.09.05
 
 ### oshi no ko
 
@@ -7791,5 +7793,136 @@ done.
 ---
 
 > my git repo is too large. write a command to remove all previous version. only keep the lastest one. and force push. its dangerous but dont worry, i use git as cloud drive
+
+---
+
+凌晨安装了 vrchat. 用 llm 生成的脚本.
+
+下午进 chinese memes museum 逛了一圈. 遇到了开麦的人, 带其朋友一起玩.
+
+下载地图, 然后直接玩. 没有任何配置, 都是自动下载的兼容模块.
+
+---
+
+入坑了国服的 bs 和 cr.
+
+账号与 qq 绑定. 所以其实不靠谱. 毕竟 qq 并不是很稳定的东西.
+
+账号是 saba (fish emoji). 那个账号被用来注册游戏, 加入各种 followers 群聊.
+
+bs 目前正在运行脚本. 用的是自动点击器. 从初中时候上线 mastery 就开始用脚本了. 左右移动然后连续开火. 模式三人吃鸡. 打算资源多一些再手打.
+
+cr 刚上 1300. 卡组类似快速野猪. 防守核心加农炮和女枪, 进攻猪还没解锁. 用了攻城锤, 也用过胖子.
+
+法术剑雨火球.
+
+(upd: cr script 运行中!)
+
+(upd: cr script 增加了 "合成奇兵" 模式. 那个模式更简单无脑. 每步选择都很少. 就一直点击一个地方就可以了. 没有技术可言.)
+
+---
+
+`dev`
+
+回想.
+
+llm 真是愚蠢.
+
+想解决闪烁问题. 设置 scrolltop, 只显示滚动完成的画面, 不渲染滚动前的内容.
+
+llm 先推荐了我 opacity: 0, 和 overflow: hidden 二选一. 滚动完恢复.
+
+第一个会闪白屏. 因为元素是黑的, 默认背景是白的.
+
+第二个根本没用. 没有任何效果. (不闪滚动条?)
+
+后来几经辗转, 选择了 * {visibility: hidden}.
+
+(当然还是会有闪烁, 但是能接受了. 因为只是暂时不显示内容. 如果再进一步, 就要上 canvas 了. 这样的复杂性权衡是不利的.)
+
+很简单对吧! 为什么不能一步到位呢?
+
+(upd: 可以用两个 div, 前后遮挡. 不会闪烁黑屏. 但是不想做了. 有兴趣在之后版本更新吧.)
+
+upd:
+
+写了一些 prompt. 
+
+看看这个 prompt 里面的一些本不用明确指出的 rules, 就知道 llm 多笨了...
+
+upd:
+
+开 deepthink 确实有一点用, 但是很浪费时间. 要思考几分钟. 可能我认为拆分需求都快些.
+
+而且还是菜啊, 不能一次看穿所有解法. 很多题还是做不出.
+
+upd:
+
+这次 deepthink 竟然只 26s. 不会引用之前的思考了吧. (我在不同对话里, 避免相互影响)
+
+---
+
+金钱树 (盆栽).
+
+让事务所买的. 好像只有 20 块. (当时 fira 以为 50, 看那颗草. 但看塑料花盆...)
+
+长高了呢! 长了新叶!
+
+这点钱也能让 fira 感到欣喜吗... (窗外欲雨. 淡淡的忧伤.)
+
+---
+
+deepseek 更新了界面. 更圆润. padding 更大.
+
+dark mode 更暗. 有 md3 的感觉.
+
+---
+
+没开 deepthink 确实要笨一点. 读不懂我的需求. 按照字面意思理解.
+
+```
+write a markdown converter to html slides.
+
+- const arrow fn with jsdoc
+- param: string markdown
+- returns: array of string html
+- all cdn links are already loaded, no need to include in your code
+- use markdown-it with the following config
+  ...
+- convert markdown to html, and then convert latex. i already have a `convertLatex` fn before your code. it convert html to rendered html. just use it.
+- split the html to slides based on headers and horizontal rules.
+- whenever you read h1-6 or hr tag, start a new page. headers should be kept on top of the new page while hr should be removed. make sure these are real tags, not inside inline codes, code blocks, comments, etc.
+- do not use innerhtml unless it is safe. there will be network side effects if an img with src is inside.
+- tell me if there are any choices to make.
+- tell me if you have any suggestions.
+```
+
+然后他就开始生成一整个 html 页面, 而不是 pure js fn 了.
+
+---
+
+`dev`
+
+wrote a script for a math problem filed under blogging/pure/math
+
+---
+
+脚本 bs 腾讯服.
+
+第一个整晚运行的英雄, 最喜欢的, 格斯.
+
+靠着三人吃鸡 (1/4 2/4 上分 3/4 平局 4/4 扣分) 的特殊性质, 直接给干到了 1200 分.
+
+(1000 以上是赛季奖杯, 赛季末清零, 用于兑换资源和时装.)
+
+---
+
+因为梓神, 回坑了 idv.
+
+和 frieren 联动? landing page 很好看.
+
+这个游戏有好几个账号, 好像之前还没有手机的时候, 就用事务所的手机玩了.
+
+可是, 都搜索不到了. (添加好友: 搜索玩家名字)
 
 ---

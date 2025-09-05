@@ -10,10 +10,7 @@ created: 2025.08.18
     <title>pre</title>
     <link rel="stylesheet" href="lib/reset.css" />
     <link rel="stylesheet" href="light.css" />
-    <link
-      rel="stylesheet"
-      href="resources/prism-themes/themes/prism.min.css"
-    />
+    <link rel="stylesheet" href="resources/prism-themes/themes/prism.min.css" />
   </head>
 
   <body>
@@ -26,41 +23,331 @@ created: 2025.08.18
   <script src="lib/markdown-it-emoji.min.js"></script>
   <script src="lib/markdown-it-task-lists.min.js"></script>
 
-  <!-- PrismJS - Load specific languages you need -->
-  <script src="lib/prism.min.js"></script>
+  <!-- prism -->
+  <prism>
+    <!-- PrismJS - Load specific languages you need -->
+    <script src="lib/prism.min.js"></script>
 
-  <!-- todo: add all languages supported by prism. 
-   some languages may raise "set undefined.foo" error for wrong loading order. -->
-  <!-- Add language components you need, example: -->
-  <script src="lib/components/prism-c.js"></script>
-  <script src="lib/components/prism-cpp.js"></script>
-  <script src="lib/components/prism-java.js"></script>
-  <script src="lib/components/prism-python.js"></script>
-  <script src="lib/components/prism-markup.js"></script>
-  <script src="lib/components/prism-markup-templating.js"></script>
-  <script src="lib/components/prism-javascript.js"></script>
-  <script src="lib/components/prism-typescript.js"></script>
-  <script src="lib/components/prism-jsx.js"></script>
-  <script src="lib/components/prism-tsx.js"></script>
-  <script src="lib/components/prism-php.js"></script>
-  <script src="lib/components/prism-csharp.js"></script>
-  <script src="lib/components/prism-go.js"></script>
-  <script src="lib/components/prism-ruby.js"></script>
-  <script src="lib/components/prism-swift.js"></script>
-  <script src="lib/components/prism-kotlin.js"></script>
-  <script src="lib/components/prism-rust.js"></script>
-  <script src="lib/components/prism-sql.js"></script>
-  <script src="lib/components/prism-bash.js"></script>
-  <script src="lib/components/prism-json.js"></script>
-  <script src="lib/components/prism-css.js"></script>
-  <script src="lib/components/prism-git.js"></script>
-  <script src="lib/components/prism-docker.js"></script>
-  <script src="lib/components/prism-markdown.js"></script>
-  <script src="lib/components/prism-graphql.js"></script>
+    <!-- done: load all languages supported by prism. 
+   done: fix some languages raise get/set undefined.prop by wrong loading order. -->
 
-  <!-- todo: replace with katex. (or not for more syntax support?) -->
+    <script src="lib/components/prism-abap.min.js"></script>
+    <script src="lib/components/prism-abnf.min.js"></script>
+    <script src="lib/components/prism-ada.min.js"></script>
+    <script src="lib/components/prism-agda.min.js"></script>
+    <script src="lib/components/prism-al.min.js"></script>
+    <script src="lib/components/prism-antlr4.min.js"></script>
+    <script src="lib/components/prism-apacheconf.min.js"></script>
+    <script src="lib/components/prism-apex.min.js"></script>
+    <script src="lib/components/prism-apl.min.js"></script>
+    <script src="lib/components/prism-applescript.min.js"></script>
+    <script src="lib/components/prism-aql.min.js"></script>
+    <script src="lib/components/prism-arff.min.js"></script>
+    <script src="lib/components/prism-armasm.min.js"></script>
+    <script src="lib/components/prism-arturo.min.js"></script>
+    <script src="lib/components/prism-asciidoc.min.js"></script>
+    <script src="lib/components/prism-asm6502.min.js"></script>
+    <script src="lib/components/prism-asmatmel.min.js"></script>
+    <script src="lib/components/prism-autohotkey.min.js"></script>
+    <script src="lib/components/prism-autoit.min.js"></script>
+    <script src="lib/components/prism-avisynth.min.js"></script>
+    <script src="lib/components/prism-avro-idl.min.js"></script>
+    <script src="lib/components/prism-awk.min.js"></script>
+    <script src="lib/components/prism-bash.min.js"></script>
+    <script src="lib/components/prism-basic.min.js"></script>
+    <script src="lib/components/prism-batch.min.js"></script>
+    <script src="lib/components/prism-bbcode.min.js"></script>
+    <script src="lib/components/prism-bbj.min.js"></script>
+    <script src="lib/components/prism-bicep.min.js"></script>
+    <script src="lib/components/prism-bnf.min.js"></script>
+    <script src="lib/components/prism-bqn.min.js"></script>
+    <script src="lib/components/prism-brainfuck.min.js"></script>
+    <script src="lib/components/prism-brightscript.min.js"></script>
+    <script src="lib/components/prism-bro.min.js"></script>
+    <script src="lib/components/prism-bsl.min.js"></script>
+    <script src="lib/components/prism-cil.min.js"></script>
+    <script src="lib/components/prism-cilkc.min.js"></script>
+    <script src="lib/components/prism-cilkcpp.min.js"></script>
+    <script src="lib/components/prism-clike.min.js"></script>
+    <script src="lib/components/prism-clojure.min.js"></script>
+    <script src="lib/components/prism-cmake.min.js"></script>
+    <script src="lib/components/prism-cobol.min.js"></script>
+    <script src="lib/components/prism-concurnas.min.js"></script>
+    <script src="lib/components/prism-cooklang.min.js"></script>
+    <script src="lib/components/prism-coq.min.js"></script>
+    <script src="lib/components/prism-csp.min.js"></script>
+    <script src="lib/components/prism-css-extras.min.js"></script>
+    <script src="lib/components/prism-css.min.js"></script>
+    <script src="lib/components/prism-csv.min.js"></script>
+    <script src="lib/components/prism-cue.min.js"></script>
+    <script src="lib/components/prism-cypher.min.js"></script>
+    <script src="lib/components/prism-dataweave.min.js"></script>
+    <script src="lib/components/prism-dax.min.js"></script>
+    <script src="lib/components/prism-dhall.min.js"></script>
+    <script src="lib/components/prism-diff.min.js"></script>
+    <script src="lib/components/prism-dns-zone-file.min.js"></script>
+    <script src="lib/components/prism-docker.min.js"></script>
+    <script src="lib/components/prism-dot.min.js"></script>
+    <script src="lib/components/prism-ebnf.min.js"></script>
+    <script src="lib/components/prism-editorconfig.min.js"></script>
+    <script src="lib/components/prism-eiffel.min.js"></script>
+    <script src="lib/components/prism-ejs.min.js"></script>
+    <script src="lib/components/prism-elixir.min.js"></script>
+    <script src="lib/components/prism-elm.min.js"></script>
+    <script src="lib/components/prism-erb.min.js"></script>
+    <script src="lib/components/prism-erlang.min.js"></script>
+    <script src="lib/components/prism-etlua.min.js"></script>
+    <script src="lib/components/prism-excel-formula.min.js"></script>
+    <script src="lib/components/prism-factor.min.js"></script>
+    <script src="lib/components/prism-false.min.js"></script>
+    <script src="lib/components/prism-fortran.min.js"></script>
+    <script src="lib/components/prism-ftl.min.js"></script>
+    <script src="lib/components/prism-gap.min.js"></script>
+    <script src="lib/components/prism-gcode.min.js"></script>
+    <script src="lib/components/prism-gdscript.min.js"></script>
+    <script src="lib/components/prism-gedcom.min.js"></script>
+    <script src="lib/components/prism-gettext.min.js"></script>
+    <script src="lib/components/prism-gherkin.min.js"></script>
+    <script src="lib/components/prism-git.min.js"></script>
+    <script src="lib/components/prism-gn.min.js"></script>
+    <script src="lib/components/prism-go-module.min.js"></script>
+    <script src="lib/components/prism-graphql.min.js"></script>
+    <script src="lib/components/prism-haml.min.js"></script>
+    <script src="lib/components/prism-handlebars.min.js"></script>
+    <script src="lib/components/prism-haskell.min.js"></script>
+    <script src="lib/components/prism-hcl.min.js"></script>
+    <script src="lib/components/prism-hoon.min.js"></script>
+    <script src="lib/components/prism-hpkp.min.js"></script>
+    <script src="lib/components/prism-hsts.min.js"></script>
+    <script src="lib/components/prism-http.min.js"></script>
+    <script src="lib/components/prism-ichigojam.min.js"></script>
+    <script src="lib/components/prism-icon.min.js"></script>
+    <script src="lib/components/prism-icu-message-format.min.js"></script>
+    <script src="lib/components/prism-iecst.min.js"></script>
+    <script src="lib/components/prism-ignore.min.js"></script>
+    <script src="lib/components/prism-inform7.min.js"></script>
+    <script src="lib/components/prism-ini.min.js"></script>
+    <script src="lib/components/prism-io.min.js"></script>
+    <script src="lib/components/prism-j.min.js"></script>
+    <script src="lib/components/prism-javadoclike.min.js"></script>
+    <script src="lib/components/prism-javastacktrace.min.js"></script>
+    <script src="lib/components/prism-jexl.min.js"></script>
+    <script src="lib/components/prism-jq.min.js"></script>
+    <script src="lib/components/prism-js-extras.min.js"></script>
+    <script src="lib/components/prism-js-templates.min.js"></script>
+    <script src="lib/components/prism-json.min.js"></script>
+    <script src="lib/components/prism-jsstacktrace.min.js"></script>
+    <script src="lib/components/prism-julia.min.js"></script>
+    <script src="lib/components/prism-keepalived.min.js"></script>
+    <script src="lib/components/prism-keyman.min.js"></script>
+    <script src="lib/components/prism-kumir.min.js"></script>
+    <script src="lib/components/prism-kusto.min.js"></script>
+    <script src="lib/components/prism-latex.min.js"></script>
+    <script src="lib/components/prism-lilypond.min.js"></script>
+    <script src="lib/components/prism-linker-script.min.js"></script>
+    <script src="lib/components/prism-liquid.min.js"></script>
+    <script src="lib/components/prism-lisp.min.js"></script>
+    <script src="lib/components/prism-livescript.min.js"></script>
+    <script src="lib/components/prism-llvm.min.js"></script>
+    <script src="lib/components/prism-log.min.js"></script>
+    <script src="lib/components/prism-lolcode.min.js"></script>
+    <script src="lib/components/prism-lua.min.js"></script>
+    <script src="lib/components/prism-magma.min.js"></script>
+    <script src="lib/components/prism-makefile.min.js"></script>
+    <script src="lib/components/prism-markup-templating.min.js"></script>
+    <script src="lib/components/prism-mata.min.js"></script>
+    <script src="lib/components/prism-matlab.min.js"></script>
+    <script src="lib/components/prism-maxscript.min.js"></script>
+    <script src="lib/components/prism-mel.min.js"></script>
+    <script src="lib/components/prism-mermaid.min.js"></script>
+    <script src="lib/components/prism-metafont.min.js"></script>
+    <script src="lib/components/prism-mizar.min.js"></script>
+    <script src="lib/components/prism-monkey.min.js"></script>
+    <script src="lib/components/prism-moonscript.min.js"></script>
+    <script src="lib/components/prism-n1ql.min.js"></script>
+    <script src="lib/components/prism-nand2tetris-hdl.min.js"></script>
+    <script src="lib/components/prism-naniscript.min.js"></script>
+    <script src="lib/components/prism-nasm.min.js"></script>
+    <script src="lib/components/prism-neon.min.js"></script>
+    <script src="lib/components/prism-nevod.min.js"></script>
+    <script src="lib/components/prism-nginx.min.js"></script>
+    <script src="lib/components/prism-nim.min.js"></script>
+    <script src="lib/components/prism-nix.min.js"></script>
+    <script src="lib/components/prism-nsis.min.js"></script>
+    <script src="lib/components/prism-ocaml.min.js"></script>
+    <script src="lib/components/prism-odin.min.js"></script>
+    <script src="lib/components/prism-openqasm.min.js"></script>
+    <script src="lib/components/prism-oz.min.js"></script>
+    <script src="lib/components/prism-parigp.min.js"></script>
+    <script src="lib/components/prism-pascaligo.min.js"></script>
+    <script src="lib/components/prism-pcaxis.min.js"></script>
+    <script src="lib/components/prism-peoplecode.min.js"></script>
+    <script src="lib/components/prism-perl.min.js"></script>
+    <script src="lib/components/prism-php-extras.min.js"></script>
+    <script src="lib/components/prism-php.min.js"></script>
+    <script src="lib/components/prism-plant-uml.min.js"></script>
+    <script src="lib/components/prism-powerquery.min.js"></script>
+    <script src="lib/components/prism-powershell.min.js"></script>
+    <script src="lib/components/prism-prolog.min.js"></script>
+    <script src="lib/components/prism-promql.min.js"></script>
+    <script src="lib/components/prism-properties.min.js"></script>
+    <script src="lib/components/prism-psl.min.js"></script>
+    <script src="lib/components/prism-pug.min.js"></script>
+    <script src="lib/components/prism-puppet.min.js"></script>
+    <script src="lib/components/prism-pure.min.js"></script>
+    <script src="lib/components/prism-python.min.js"></script>
+    <script src="lib/components/prism-q.min.js"></script>
+    <script src="lib/components/prism-qml.min.js"></script>
+    <script src="lib/components/prism-r.min.js"></script>
+    <script src="lib/components/prism-regex.min.js"></script>
+    <script src="lib/components/prism-rego.min.js"></script>
+    <script src="lib/components/prism-renpy.min.js"></script>
+    <script src="lib/components/prism-rescript.min.js"></script>
+    <script src="lib/components/prism-rest.min.js"></script>
+    <script src="lib/components/prism-rip.min.js"></script>
+    <script src="lib/components/prism-roboconf.min.js"></script>
+    <script src="lib/components/prism-robotframework.min.js"></script>
+    <script src="lib/components/prism-rust.min.js"></script>
+    <script src="lib/components/prism-sas.min.js"></script>
+    <script src="lib/components/prism-scheme.min.js"></script>
+    <script src="lib/components/prism-shell-session.min.js"></script>
+    <script src="lib/components/prism-smali.min.js"></script>
+    <script src="lib/components/prism-smalltalk.min.js"></script>
+    <script src="lib/components/prism-smarty.min.js"></script>
+    <script src="lib/components/prism-sml.min.js"></script>
+    <script src="lib/components/prism-solution-file.min.js"></script>
+    <script src="lib/components/prism-soy.min.js"></script>
+    <script src="lib/components/prism-splunk-spl.min.js"></script>
+    <script src="lib/components/prism-sql.min.js"></script>
+    <script src="lib/components/prism-stan.min.js"></script>
+    <script src="lib/components/prism-stata.min.js"></script>
+    <script src="lib/components/prism-stylus.min.js"></script>
+    <script src="lib/components/prism-supercollider.min.js"></script>
+    <script src="lib/components/prism-swift.min.js"></script>
+    <script src="lib/components/prism-systemd.min.js"></script>
+    <script src="lib/components/prism-t4-templating.min.js"></script>
+    <script src="lib/components/prism-t4-vb.min.js"></script>
+    <script src="lib/components/prism-tap.min.js"></script>
+    <script src="lib/components/prism-tcl.min.js"></script>
+    <script src="lib/components/prism-textile.min.js"></script>
+    <script src="lib/components/prism-toml.min.js"></script>
+    <script src="lib/components/prism-tremor.min.js"></script>
+    <script src="lib/components/prism-turtle.min.js"></script>
+    <script src="lib/components/prism-twig.min.js"></script>
+    <script src="lib/components/prism-typoscript.min.js"></script>
+    <script src="lib/components/prism-unrealscript.min.js"></script>
+    <script src="lib/components/prism-uorazor.min.js"></script>
+    <script src="lib/components/prism-uri.min.js"></script>
+    <script src="lib/components/prism-verilog.min.js"></script>
+    <script src="lib/components/prism-vhdl.min.js"></script>
+    <script src="lib/components/prism-vim.min.js"></script>
+    <script src="lib/components/prism-visual-basic.min.js"></script>
+    <script src="lib/components/prism-warpscript.min.js"></script>
+    <script src="lib/components/prism-wasm.min.js"></script>
+    <script src="lib/components/prism-web-idl.min.js"></script>
+    <script src="lib/components/prism-wgsl.min.js"></script>
+    <script src="lib/components/prism-wolfram.min.js"></script>
+    <script src="lib/components/prism-wren.min.js"></script>
+    <script src="lib/components/prism-xml-doc.min.js"></script>
+    <script src="lib/components/prism-xojo.min.js"></script>
+    <script src="lib/components/prism-yaml.min.js"></script>
+    <script src="lib/components/prism-yang.min.js"></script>
+    <script src="lib/components/prism-zig.min.js"></script>
+
+    <!-- these langs extend other lang, which need to be loaded later. (pattern: .languages.extends) -->
+    <script src="lib/components/prism-actionscript.min.js"></script>
+    <script src="lib/components/prism-arduino.min.js"></script>
+    <script src="lib/components/prism-aspnet.min.js"></script>
+    <script src="lib/components/prism-birb.min.js"></script>
+    <script src="lib/components/prism-bison.min.js"></script>
+    <script src="lib/components/prism-c.min.js"></script>
+    <script src="lib/components/prism-cfscript.min.js"></script>
+    <script src="lib/components/prism-chaiscript.min.js"></script>
+    <script src="lib/components/prism-coffeescript.min.js"></script>
+    <script src="lib/components/prism-cpp.min.js"></script>
+    <script src="lib/components/prism-csharp.min.js"></script>
+    <script src="lib/components/prism-cshtml.min.js"></script>
+    <script src="lib/components/prism-d.min.js"></script>
+    <script src="lib/components/prism-dart.min.js"></script>
+    <script src="lib/components/prism-firestore-security-rules.min.js"></script>
+    <script src="lib/components/prism-flow.min.js"></script>
+    <script src="lib/components/prism-fsharp.min.js"></script>
+    <script src="lib/components/prism-glsl.min.js"></script>
+    <script src="lib/components/prism-gml.min.js"></script>
+    <script src="lib/components/prism-go.min.js"></script>
+    <script src="lib/components/prism-gradle.min.js"></script>
+    <script src="lib/components/prism-groovy.min.js"></script>
+    <script src="lib/components/prism-haxe.min.js"></script>
+    <script src="lib/components/prism-hlsl.min.js"></script>
+    <script src="lib/components/prism-idris.min.js"></script>
+    <script src="lib/components/prism-java.min.js"></script>
+    <script src="lib/components/prism-javascript.min.js"></script>
+    <script src="lib/components/prism-jolie.min.js"></script>
+    <script src="lib/components/prism-json5.min.js"></script>
+    <script src="lib/components/prism-jsonp.min.js"></script>
+    <script src="lib/components/prism-jsx.min.js"></script>
+    <script src="lib/components/prism-kotlin.min.js"></script>
+    <script src="lib/components/prism-latte.min.js"></script>
+    <script src="lib/components/prism-less.min.js"></script>
+    <script src="lib/components/prism-markdown.min.js"></script>
+    <script src="lib/components/prism-markup.min.js"></script>
+    <script src="lib/components/prism-mongodb.min.js"></script>
+    <script src="lib/components/prism-n4js.min.js"></script>
+    <script src="lib/components/prism-objectivec.min.js"></script>
+    <script src="lib/components/prism-opencl.min.js"></script>
+    <script src="lib/components/prism-parser.min.js"></script>
+    <script src="lib/components/prism-pascal.min.js"></script>
+    <script src="lib/components/prism-phpdoc.min.js"></script>
+    <script src="lib/components/prism-plsql.min.js"></script>
+    <script src="lib/components/prism-processing.min.js"></script>
+    <script src="lib/components/prism-protobuf.min.js"></script>
+    <script src="lib/components/prism-purebasic.min.js"></script>
+    <script src="lib/components/prism-purescript.min.js"></script>
+    <script src="lib/components/prism-qore.min.js"></script>
+    <script src="lib/components/prism-qsharp.min.js"></script>
+    <script src="lib/components/prism-racket.min.js"></script>
+    <script src="lib/components/prism-reason.min.js"></script>
+    <script src="lib/components/prism-ruby.min.js"></script>
+    <script src="lib/components/prism-sass.min.js"></script>
+    <script src="lib/components/prism-scala.min.js"></script>
+    <script src="lib/components/prism-scss.min.js"></script>
+    <script src="lib/components/prism-solidity.min.js"></script>
+    <script src="lib/components/prism-sparql.min.js"></script>
+    <script src="lib/components/prism-sqf.min.js"></script>
+    <script src="lib/components/prism-squirrel.min.js"></script>
+    <script src="lib/components/prism-tsx.min.js"></script>
+    <script src="lib/components/prism-tt2.min.js"></script>
+    <script src="lib/components/prism-typescript.min.js"></script>
+    <script src="lib/components/prism-v.min.js"></script>
+    <script src="lib/components/prism-vala.min.js"></script>
+    <script src="lib/components/prism-vbnet.min.js"></script>
+    <script src="lib/components/prism-velocity.min.js"></script>
+    <script src="lib/components/prism-wiki.min.js"></script>
+    <script src="lib/components/prism-xeora.min.js"></script>
+    <script src="lib/components/prism-xquery.min.js"></script>
+
+    <!-- these langs have nested deps, which need to be loaded even later.-->
+    <script src="lib/components/prism-crystal.min.js"></script>
+    <script src="lib/components/prism-javadoc.min.js"></script>
+    <script src="lib/components/prism-jsdoc.min.js"></script>
+    <script src="lib/components/prism-t4-cs.min.js"></script>
+
+    <!-- this one will cause problem not putting at last, idk the reason. -->
+    <script src="lib/components/prism-django.min.js"></script>
+
+    <!-- this is not a programming language. it's instead the prism core.-->
+    <!-- it redefines prism object, clearing previous lang definitions. -->
+    <!-- <script src="lib/components/prism-core.min.js"></script> -->
+  </prism>
+
+  <!-- done: replace with katex. -->
   <!-- MathJax -->
-  <script src="lib/tex-mml-chtml.js"></script>
+  <!-- <script src="lib/tex-mml-chtml.js"></script> -->
+
+  <!-- KaTeX CDN Links -->
+  <!-- <link rel="stylesheet" href="lib/katex.min.css" /> -->
+  <link rel="stylesheet" href="lib/katex-custom.min.css" />
+  <script src="lib/katex.min.js"></script>
 
   <script src="convert.js"></script>
   <script src="test convert.js"></script>

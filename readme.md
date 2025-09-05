@@ -38,7 +38,7 @@
 - flavors
   - lipton black tea
   - frey dark chocolate bars
-  - lays classic potato chips
+  - lays potato chips
   - kentucky fried chicken
   - burger king
   - instant noodles
@@ -319,6 +319,8 @@
   - lichess (2010)
   - kards (2019)
   - shadowverse: worlds beyond (2025)
+  - vrchat (2014)
+  - identity v (2018)
   - .earth online
   - .terraria (2011)
   - .the legend of zelda: tears of the kingdom (2023)
@@ -341,7 +343,6 @@
   - .stardew valley (2016)
   - .split fiction (2025)
   - .inzoi (2025)
-  - .vrchat (2014)
 - books
   - to live (yu hua)
   - road ahead (ruan yifeng)
@@ -741,6 +742,7 @@
   - mastodon `fira@techhub.social` `firavoyage@mastodon.social`
   - npm `firascript`
 - - telegram group `voyagefira`
+  - telegram channel `logfira`
   - qq group `1018146954`
 - - email `firavoyage@outlook.com`
   - alternatives `firafira@duck.com` `xoyage@gmail.com` `devvhy@zoho.com.cn` `firav@qq.com`
