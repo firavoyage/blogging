@@ -73,3 +73,5 @@ function convert(markdown) {
   return htmlSlides;
 }
 ```
+
+(upd 20250903: deprecated. new method is way better. split the latex converter based on katex out of the markdown converter. used for handling precious code block.)

@@ -1,0 +1,1 @@
+write an html page. a textarea and a viewer. i will paste a json in textarea. the json is an object of array of numbers. the viewer should show the key: [numbers] in a line, different key in different lines. dont add unnecessary content like a big header
