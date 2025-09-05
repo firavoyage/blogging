@@ -1,10 +1,6 @@
-<!-- todo: categorize web and ruanyf.md into lights -->
-
-<!-- todo: blogging is too large. start with a fresh repo "f". pdfs are put elsewhere like "resources".-->
-
-<!-- categorize berryberry fav, zhihu fav -->
-
 # $weekly$
+
+> _just let time be precious 💖_
 
 > $welcome \space to \space hotel \space california$
 
@@ -19,13 +15,77 @@
 
 > things, not schedule.
 
-## temp
+## 20250905 
 
-- archive deepseek chats (done)
-- write voyagejs 1.0 based on preact (done)
-- write pre core (done)
-- write pre web (done)
-- move pdfs in blogging repo elsewhere.
+### _temp_
+
+- categorize web and ruanyf.md into `blogging/lights`
+- start with a fresh repo `f` instead of `blogging`
+- put pdfs in `blogging` elsewhere like repo `resources`
+- categorize berryberry fav, zhihu fav
+
+### _foresight_
+
+- learn japanese
+- practice math
+- create math videos using pre, precious lang and material
+- watch bangumis
+- play go
+- play vid games
+- surf zhihu / berryberry / twitter
+
+### _day_
+
+- learn japanese on duolingo
+<!-- - memorize japanese words on anki -->
+- practice math problem solving on uee mock test papers
+- learn physics, chemistry, geography on stepping into the graded exams
+
+### _night_
+
+- watch simplelive
+- watch the hikaru no go
+- watch the melancholy of haruhi suzumiya
+- watch evangelion
+- watch bocchi the rock
+
+### _enlightenment_
+
+- create math videos using pre, precious lang and material
+- write math wiki for project pure
+- write japanese learning wiki for project leisure
+- write go tutorials
+- learn algorithms on luogu
+- read mathematical olympiad series
+- read mathematics, no 2 secondary school attached to ecnu
+
+### _endeavour_
+
+- revise projects.md
+- design precious lang
+- write voyagejs guide and prompt
+- design themes and component libraries with voyagejs
+- create pre app
+- create material app
+- create berryberry rework for eat app
+- create vtbsol game
+- create leisure app
+- curate world goods list for project awesome
+- curate artists/creators on berryberry for project awesome
+
+### _diversion_
+
+- play vid games
+- play go on foxwq
+- surf zhihu / berryberry / twitter / telegram channels
+- play senrenbanka
+- create origamis imitating chen xiao's works
+
+### _rest_
+
+- listen to j-pop
+- archive zhihu / berryberry favorites
+- sync with the phone
 
 ## 20250701
 

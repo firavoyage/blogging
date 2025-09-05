@@ -1,6 +1,32 @@
-// update weekly: 2025090x
-
 const { h, p, e, r } = voyage;
+
+// todo: make flair a js library
+
+const flair = ({ stylesheet, theme, config }) => {
+  /**
+   * stylesheet: {(selector): string styles}
+   *   styles: style[].join(" ")
+   *     style: [(state):](prop and side)-(variable name or value)
+   * theme: {(type): {(varible name): value}}
+   *   type: in config
+   * config: {(prop): {type: (type of value), css: (prop in css)}}
+   *
+   * returns: string compiled css. 
+   * side effect: auto add <style> to dom by default.
+   */
+};
+
+const theme = {
+  color: {
+    darkbg: "#23272F",
+  },
+  length: {
+    1: "0.5rem",
+  },
+  font: {
+    math: "XITS Math, math",
+  },
+};
 
 const pre = ({ slides, settings, extensions }) => {
   const container = p();

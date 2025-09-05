@@ -1,11 +1,17 @@
 ## firascript - the programming language
 
-a script language that fira would like.
+a script language fira would like.
+
+### syntax
+
+see syntax.md
+
+### compiler
 
 will fira implement this?
 
 probably not.
 
-coz the choices available are (not really ideal but) good enough
+coz the choices available are (not ideal but) good enough
 
-so... just an idea.
+so, it's just an idea.

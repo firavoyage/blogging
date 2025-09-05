@@ -211,8 +211,8 @@
   - spotify
   - youtube music
   - apple music
-  - soundcloud
   - myfreemp3
+  - metro
 
 ### `streams`
 

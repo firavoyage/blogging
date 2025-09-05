@@ -7926,3 +7926,25 @@ wrote a script for a math problem filed under blogging/pure/math
 可是, 都搜索不到了. (添加好友: 搜索玩家名字)
 
 ---
+
+`ref`
+
+Design Notes is a show about creative work and what it teaches us, hosted by Google’s Liam Spradlin. Each episode we talk with people from unique creative fields to discover what inspires and unites us in our practice.
+
+---
+
+Tang @1311TangYe · 10h
+
+感谢你们的重视，期待正确的汉化版本。点开游戏人就蒙了，每一次和npc对话都是一种折磨，明明每个字都认识但连起来就是看不懂…
+
+https://pbs.twimg.com/media/G0EWonnaMAAwU54?format=jpg&name=medium
+
+disagree. it's from a bible like book. my translation:
+
+all bugs admire your fragile elegance.
+appreciating the peace from your belief and hard work
+no one could realize your beast heart kept in shackles.
+til you wake up and break the shackles
+the world will see your real self
+
+---
