@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tailwind CSS Features</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-50">
+    <!-- Header Section -->
+    <header class="bg-gradient-to-r from-blue-600 to-indigo-700 text-white shadow-lg">
+        <div class="container mx-auto px-4 py-6">
+            <div class="flex justify-between items-center">
+                <h1 class="text-2xl font-bold">Tailwind CSS Demo</h1>
+                <nav class="hidden md:block">
+                    <ul class="flex space-x-6">
+                        <li><a href="#" class="hover:text-blue-200 transition-colors">Home</a></li>
+                        <li><a href="#" class="hover:text-blue-200 transition-colors">Features</a></li>
+                        <li><a href="#" class="hover:text-blue-200 transition-colors">Components</a></li>
+                        <li><a href="#" class="hover:text-blue-200 transition-colors">Utilities</a></li>
+                    </ul>
+                </nav>
+                <button class="md:hidden">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7" />
+                    </svg>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="py-16 bg-white">
+        <div class="container mx-auto px-4 text-center">
+            <h2 class="text-4xl font-bold text-gray-800 mb-4">Utility-First CSS Framework</h2>
+            <p class="text-xl text-gray-600 max-w-2xl mx-auto mb-8">
+                Rapidly build modern websites without ever leaving your HTML.
+            </p>
+            <div class="flex justify-center space-x-4">
+                <button class="bg-blue-600 hover:bg-blue-700 text-white font-bold py-3 px-6 rounded-lg shadow-md transition-all transform hover:-translate-y-1">
+                    Get Started
+                </button>
+                <button class="border-2 border-blue-600 text-blue-600 hover:bg-blue-50 font-bold py-3 px-6 rounded-lg transition-colors">
+                    Learn More
+                </button>
+            </div>
+        </div>
+    </section>
+
+    <!-- Features Grid -->
+    <section class="py-16 bg-gray-100">
+        <div class="container mx-auto px-4">
+            <h2 class="text-3xl font-bold text-center text-gray-800 mb-12">Key Features</h2>
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+                <!-- Feature 1 -->
+                <div class="bg-white p-6 rounded-xl shadow-md hover:shadow-lg transition-shadow">
+                    <div class="w-12 h-12 bg-blue-100 rounded-lg flex items-center justify-center mb-4">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-blue-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z" />
+                        </svg>
+                    </div>
+                    <h3 class="text-xl font-semibold text-gray-800 mb-2">Rapid Development</h3>
+                    <p class="text-gray-600">Style elements directly in your HTML with utility classes to build custom designs without writing CSS.</p>
+                </div>
+                
+                <!-- Feature 2 -->
+                <div class="bg-white p-6 rounded-xl shadow-md hover:shadow-lg transition-shadow">
+                    <div class="w-12 h-12 bg-green-100 rounded-lg flex items-center justify-center mb-4">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-green-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 5a1 1 0 011-1h14a1 1 0 011 1v2a1 1 0 01-1 1H5a1 1 0 01-1-1V5zM4 13a1 1 0 011-1h6a1 1 0 011 1v6a1 1 0 01-1 1H5a1 1 0 01-1-1v-6zM16 13a1 1 0 011-1h2a1 1 0 011 1v6a1 1 0 01-1 1h-2a1 1 0 01-1-1v-6z" />
+                        </svg>
+                    </div>
+                    <h3 class="text-xl font-semibold text-gray-800 mb-2">Responsive Design</h3>
+                    <p class="text-gray-600">Build responsive interfaces with mobile-first utility classes for all breakpoints.</p>
+                </div>
+                
+                <!-- Feature 3 -->
+                <div class="bg-white p-6 rounded-xl shadow-md hover:shadow-lg transition-shadow">
+                    <div class="w-12 h-12 bg-purple-100 rounded-lg flex items-center justify-center mb-4">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-purple-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 21a4 4 0 01-4-4V5a2 2 0 012-2h4a2 2 0 012 2v12a4 4 0 01-4 4zM21 5a2 2 0 00-2-2h-4a2 2 0 00-2 2v12a4 4 0 004 4h4a2 2 0 002-2V5z" />
+                        </svg>
+                    </div>
+                    <h3 class="text-xl font-semibold text-gray-800 mb-2">Component-Friendly</h3>
+                    <p class="text-gray-600">Extract repeating utility patterns into component classes for maintainability.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Color Palette -->
+    <section class="py-16 bg-white">
+        <div class="container mx-auto px-4">
+            <h2 class="text-3xl font-bold text-center text-gray-800 mb-12">Color Palette</h2>
+            <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4">
+                <div class="text-center">
+                    <div class="h-20 rounded-lg bg-red-500 mb-2 shadow"></div>
+                    <p class="text-sm font-medium">Red-500</p>
+                    <p class="text-xs text-gray-500">#EF4444</p>
+                </div>
+                <div class="text-center">
+                    <div class="h-20 rounded-lg bg-blue-500 mb-2 shadow"></div>
+                    <p class="text-sm font-medium">Blue-500</p>
+                    <p class="text-xs text-gray-500">#3B82F6</p>
+                </div>
+                <div class="text-center">
+                    <div class="h-20 rounded-lg bg-green-500 mb-2 shadow"></div>
+                    <p class="text-sm font-medium">Green-500</p>
+                    <p class="text-xs text-gray-500">#10B981</p>
+                </div>
+                <div class="text-center">
+                    <div class="h-20 rounded-lg bg-yellow-500 mb-2 shadow"></div>
+                    <p class="text-sm font-medium">Yellow-500</p>
+                    <p class="text-xs text-gray-500">#F59E0B</p>
+                </div>
+                <div class="text-center">
+                    <div class="h-20 rounded-lg bg-purple-500 mb-2 shadow"></div>
+                    <p class="text-sm font-medium">Purple-500</p>
+                    <p class="text-xs text-gray-500">#8B5CF6</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Card Components -->
+    <section class="py-16 bg-gray-100">
+        <div class="container mx-auto px-4">
+            <h2 class="text-3xl font-bold text-center text-gray-800 mb-12">Card Components</h2>
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+                <!-- Card 1 -->
+                <div class="bg-white rounded-xl overflow-hidden shadow-lg transform hover:scale-105 transition-transform duration-300">
+                    <div class="h-48 bg-gradient-to-r from-cyan-500 to-blue-500"></div>
+                    <div class="p-6">
+                        <h3 class="text-xl font-bold text-gray-800 mb-2">Simple Card</h3>
+                        <p class="text-gray-600 mb-4">This demonstrates a simple card component with a gradient header and hover effects.</p>
+                        <button class="bg-blue-500 hover:bg-blue-600 text-white px-4 py-2 rounded-lg text-sm">Learn More</button>
+                    </div>
+                </div>
+                
+                <!-- Card 2 -->
+                <div class="bg-white rounded-xl overflow-hidden shadow-lg transform hover:scale-105 transition-transform duration-300">
+                    <div class="h-48 bg-gradient-to-r from-violet-500 to-fuchsia-500"></div>
+                    <div class="p-6">
+                        <h3 class="text-xl font-bold text-gray-800 mb-2">Card with Badges</h3>
+                        <div class="flex space-x-2 mb-4">
+                            <span class="bg-green-100 text-green-800 text-xs px-2 py-1 rounded-full">New</span>
+                            <span class="bg-purple-100 text-purple-800 text-xs px-2 py-1 rounded-full">Featured</span>
+                        </div>
+                        <p class="text-gray-600 mb-4">This card includes status badges and a gradient background.</p>
+                        <button class="bg-purple-500 hover:bg-purple-600 text-white px-4 py-2 rounded-lg text-sm">View Details</button>
+                    </div>
+                </div>
+                
+                <!-- Card 3 -->
+                <div class="bg-white rounded-xl overflow-hidden shadow-lg transform hover:scale-105 transition-transform duration-300">
+                    <div class="h-48 bg-gradient-to-r from-amber-500 to-pink-500"></div>
+                    <div class="p-6">
+                        <h3 class="text-xl font-bold text-gray-800 mb-2">Card with Stats</h3>
+                        <div class="flex justify-between mb-4">
+                            <div>
+                                <p class="text-xs text-gray-500">Views</p>
+                                <p class="font-bold">1.2K</p>
+                            </div>
+                            <div>
+                                <p class="text-xs text-gray-500">Likes</p>
+                                <p class="font-bold">356</p>
+                            </div>
+                            <div>
+                                <p class="text-xs text-gray-500">Shares</p>
+                                <p class="font-bold">89</p>
+                            </div>
+                        </div>
+                        <p class="text-gray-600 mb-4">This card includes statistics and a warm gradient background.</p>
+                        <button class="bg-pink-500 hover:bg-pink-600 text-white px-4 py-2 rounded-lg text-sm">See More</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Form Elements -->
+    <section class="py-16 bg-white">
+        <div class="container mx-auto px-4 max-w-2xl">
+            <h2 class="text-3xl font-bold text-center text-gray-800 mb-12">Form Elements</h2>
+            <form class="bg-gray-50 p-8 rounded-xl shadow-md">
+                <div class="mb-6">
+                    <label class="block text-gray-700 text-sm font-bold mb-2" for="username">
+                        Username
+                    </label>
+                    <input class="shadow appearance-none border rounded w-full py-3 px-4 text-gray-700 leading-tight focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent" id="username" type="text" placeholder="Enter your username">
+                </div>
+                <div class="mb-6">
+                    <label class="block text-gray-700 text-sm font-bold mb-2" for="email">
+                        Email
+                    </label>
+                    <input class="shadow appearance-none border rounded w-full py-3 px-4 text-gray-700 leading-tight focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent" id="email" type="email" placeholder="Enter your email">
+                </div>
+                <div class="mb-6">
+                    <label class="block text-gray-700 text-sm font-bold mb-2" for="password">
+                        Password
+                    </label>
+                    <input class="shadow appearance-none border rounded w-full py-3 px-4 text-gray-700 leading-tight focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent" id="password" type="password" placeholder="Enter your password">
+                </div>
+                <div class="mb-6">
+                    <label class="block text-gray-700 text-sm font-bold mb-2" for="message">
+                        Message
+                    </label>
+                    <textarea class="shadow appearance-none border rounded w-full py-3 px-4 text-gray-700 leading-tight focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent" id="message" rows="4" placeholder="Enter your message"></textarea>
+                </div>
+                <div class="flex items-center justify-between">
+                    <button class="bg-blue-600 hover:bg-blue-700 text-white font-bold py-3 px-6 rounded-lg shadow-md transition-colors" type="button">
+                        Submit
+                    </button>
+                    <a class="inline-block align-baseline font-bold text-sm text-blue-600 hover:text-blue-800" href="#">
+                        Forgot Password?
+                    </a>
+                </div>
+            </form>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="bg-gray-800 text-white py-12">
+        <div class="container mx-auto px-4">
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+                <div>
+                    <h3 class="text-xl font-bold mb-4">Tailwind CSS</h3>
+                    <p class="text-gray-400">A utility-first CSS framework for rapidly building custom designs.</p>
+                </div>
+                <div>
+                    <h3 class="text-xl font-bold mb-4">Quick Links</h3>
+                    <ul class="space-y-2">
+                        <li><a href="#" class="text-gray-400 hover:text-white transition-colors">Documentation</a></li>
+                        <li><a href="#" class="text-gray-400 hover:text-white transition-colors">Components</a></li>
+                        <li><a href="#" class="text-gray-400 hover:text-white transition-colors">Customization</a></li>
+                        <li><a href="#" class="text-gray-400 hover:text-white transition-colors">Community</a></li>
+                    </ul>
+                </div>
+                <div>
+                    <h3 class="text-xl font-bold mb-4">Subscribe</h3>
+                    <div class="flex">
+                        <input type="email" placeholder="Your email" class="px-4 py-2 rounded-l-lg text-gray-800 w-full focus:outline-none">
+                        <button class="bg-blue-600 hover:bg-blue-700 px-4 py-2 rounded-r-lg transition-colors">Subscribe</button>
+                    </div>
+                </div>
+            </div>
+            <div class="border-t border-gray-700 mt-8 pt-8 text-center text-gray-400">
+                <p>&copy; 2023 Tailwind CSS Demo. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

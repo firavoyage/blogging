@@ -380,20 +380,21 @@
 - echoes
   - anyway.fm (jj ying & leon gao)
   - beyond code (randy lu & geek plux)
+  - design notes (liam spradlin)
   - fyfy.fm (justin yan & hzlzh)
   - hard hacker (yixiao & 0xsaito & anson)
   - lex fridman podcast (lex fridman)
   - mindhub by product thinking (shaonan & fonter & mengna)
   - pan.icu (wu tao & rio)
-  - stochastic volatility (zhiqi & shiye)
   - storyfm (kou aizhe)
   - the type (eric liu & qian zhengyu)
   - ux coffee (riceman & hoka)
   - web worker (xinbao & lv777 & pakchoi & kaiyi & smart)
-  - xie xing liao tian hui (dan li ren comedy)
 - hues
   - ubuntu yaru
-  - material design 2 & 3
+  - material.io
+  - design.google
+  - react.dev
   - iphone os 6
   - smartisan os
   - oxygen os 11
@@ -428,7 +429,7 @@
   - ubuntu sans
   - xiaolai
   - zhi mang xing
-- beacons
+- sites
   - google · chatgpt · gemini · deepseek · mistral ai
   - wikipedia · miraheze · fandom · moegirl.icu · oi wiki · mdn
   - internet archive · archive.today · the pirate bay · z library · anna's archive
@@ -514,6 +515,7 @@
   - rustc
   - sabaki
   - shotcut
+  - steam
   - telegram-desktop
   - thunderbird
   - v2raya
