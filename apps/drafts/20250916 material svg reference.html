@@ -1,0 +1,464 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SVG Reference Guide</title>
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+            padding: 20px;
+        }
+        
+        header {
+            text-align: center;
+            margin-bottom: 40px;
+            padding: 20px;
+            background: #2c3e50;
+            color: white;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+        }
+        
+        .intro {
+            max-width: 800px;
+            margin: 0 auto 30px;
+            font-size: 1.1rem;
+            text-align: center;
+        }
+        
+        .container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+        
+        .card {
+            flex: 1 1 300px;
+            background: white;
+            border-radius: 10px;
+            padding: 20px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s ease;
+        }
+        
+        .card:hover {
+            transform: translateY(-5px);
+        }
+        
+        .card h2 {
+            color: #2c3e50;
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 10px;
+            margin-bottom: 15px;
+        }
+        
+        .example {
+            margin: 15px 0;
+            padding: 15px;
+            background: #f8f9fa;
+            border-radius: 8px;
+            border-left: 4px solid #3498db;
+        }
+        
+        .svg-container {
+            width: 100%;
+            height: 200px;
+            background: #f8f9fa;
+            border-radius: 8px;
+            margin: 15px 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            overflow: hidden;
+        }
+        
+        .code {
+            background: #2c3e50;
+            color: white;
+            padding: 15px;
+            border-radius: 8px;
+            font-family: monospace;
+            overflow-x: auto;
+            margin: 15px 0;
+            font-size: 0.9rem;
+        }
+        
+        .properties {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+            gap: 15px;
+            margin-top: 20px;
+        }
+        
+        .prop {
+            background: #e8f4fc;
+            padding: 10px;
+            border-radius: 5px;
+            border-left: 3px solid #3498db;
+        }
+        
+        .prop-name {
+            font-weight: bold;
+            color: #2c3e50;
+        }
+        
+        footer {
+            text-align: center;
+            margin-top: 40px;
+            padding: 20px;
+            color: #7f8c8d;
+        }
+        
+        @media (max-width: 768px) {
+            .container {
+                flex-direction: column;
+            }
+            
+            .properties {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>SVG Reference Guide</h1>
+        <p>Scalable Vector Graphics - Examples and Documentation</p>
+    </header>
+    
+    <div class="intro">
+        <p>SVG is an XML-based vector image format for defining two-dimensional graphics. SVG images can be scaled indefinitely without losing quality and are perfect for responsive web design.</p>
+    </div>
+    
+    <div class="container">
+        <!-- Basic Shapes -->
+        <div class="card">
+            <h2>Basic Shapes</h2>
+            <p>SVG provides several basic shape elements for drawing common shapes.</p>
+            
+            <div class="example">
+                <h3>Rectangle</h3>
+                <div class="svg-container">
+                    <svg width="100%" height="100%">
+                        <rect x="20" y="20" width="100" height="80" fill="#3498db" stroke="#2c3e50" stroke-width="2" />
+                    </svg>
+                </div>
+                <div class="code">
+                    &lt;rect x="20" y="20" width="100" height="80" fill="#3498db" /&gt;
+                </div>
+            </div>
+            
+            <div class="example">
+                <h3>Circle</h3>
+                <div class="svg-container">
+                    <svg width="100%" height="100%">
+                        <circle cx="100" cy="100" r="60" fill="#e74c3c" />
+                    </svg>
+                </div>
+                <div class="code">
+                    &lt;circle cx="100" cy="100" r="60" fill="#e74c3c" /&gt;
+                </div>
+            </div>
+            
+            <div class="example">
+                <h3>Polygon</h3>
+                <div class="svg-container">
+                    <svg width="100%" height="100%">
+                        <polygon points="100,20 40,180 190,80 10,80 160,180" fill="#9b59b6" />
+                    </svg>
+                </div>
+                <div class="code">
+                    &lt;polygon points="100,20 40,180 190,80 10,80 160,180" fill="#9b59b6" /&gt;
+                </div>
+            </div>
+        </div>
+        
+        <!-- Paths -->
+        <div class="card">
+            <h2>Paths</h2>
+            <p>The &lt;path&gt; element is used to create complex shapes by combining lines, curves, and arcs.</p>
+            
+            <div class="example">
+                <h3>Curved Path</h3>
+                <div class="svg-container">
+                    <svg width="100%" height="100%">
+                        <path d="M 30 100 Q 150 20 270 100 T 500 100" stroke="#2c3e50" stroke-width="3" fill="none" />
+                    </svg>
+                </div>
+                <div class="code">
+                    &lt;path d="M 30 100 Q 150 20 270 100 T 500 100" stroke="#2c3e50" fill="none" /&gt;
+                </div>
+            </div>
+            
+            <div class="example">
+                <h3>Custom Shape</h3>
+                <div class="svg-container">
+                    <svg width="100%" height="100%">
+                        <path d="M100,50 C150,150 50,150 100,250 C150,150 250,150 200,50 Z" fill="#2ecc71" />
+                    </svg>
+                </div>
+                <div class="code">
+                    &lt;path d="M100,50 C150,150 50,150 100,250 C150,150 250,150 200,50 Z" fill="#2ecc71" /&gt;
+                </div>
+            </div>
+        </div>
+        
+        <!-- Text -->
+        <div class="card">
+            <h2>Text</h2>
+            <p>SVG allows you to render text directly within graphics.</p>
+            
+            <div class="example">
+                <h3>Basic Text</h3>
+                <div class="svg-container">
+                    <svg width="100%" height="100%">
+                        <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="24" fill="#2c3e50">SVG Text Example</text>
+                    </svg>
+                </div>
+                <div class="code">
+                    &lt;text x="50%" y="50%" text-anchor="middle" font-size="24"&gt;SVG Text Example&lt;/text&gt;
+                </div>
+            </div>
+            
+            <div class="example">
+                <h3>Text on Path</h3>
+                <div class="svg-container">
+                    <svg width="100%" height="100%">
+                        <path id="textPath" d="M50,150 Q150,50 250,150 T450,150" fill="none" stroke="transparent"/>
+                        <text font-family="Arial" font-size="16" fill="#e74c3c">
+                            <textPath href="#textPath">This text follows a curved path in SVG</textPath>
+                        </text>
+                    </svg>
+                </div>
+                <div class="code">
+                    &lt;path id="textPath" d="M50,150 Q150,50 250,150" fill="none"/&gt;<br>
+                    &lt;text&gt;<br>
+                    &nbsp;&nbsp;&lt;textPath href="#textPath"&gt;Text on path&lt;/textPath&gt;<br>
+                    &lt;/text&gt;
+                </div>
+            </div>
+        </div>
+        
+        <!-- Gradients & Patterns -->
+        <div class="card">
+            <h2>Gradients & Patterns</h2>
+            <p>SVG supports gradient fills and pattern definitions for more complex styling.</p>
+            
+            <div class="example">
+                <h3>Linear Gradient</h3>
+                <div class="svg-container">
+                    <svg width="100%" height="100%">
+                        <defs>
+                            <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+                                <stop offset="0%" stop-color="#3498db" />
+                                <stop offset="100%" stop-color="#2ecc71" />
+                            </linearGradient>
+                        </defs>
+                        <rect x="50" y="50" width="200" height="100" fill="url(#grad1)" />
+                    </svg>
+                </div>
+                <div class="code">
+                    &lt;linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%"&gt;<br>
+                    &nbsp;&nbsp;&lt;stop offset="0%" stop-color="#3498db" /&gt;<br>
+                    &nbsp;&nbsp;&lt;stop offset="100%" stop-color="#2ecc71" /&gt;<br>
+                    &lt;/linearGradient&gt;<br>
+                    &lt;rect fill="url(#grad1)" ... /&gt;
+                </div>
+            </div>
+            
+            <div class="example">
+                <h3>Radial Gradient</h3>
+                <div class="svg-container">
+                    <svg width="100%" height="100%">
+                        <defs>
+                            <radialGradient id="grad2" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+                                <stop offset="0%" stop-color="#ffffff" />
+                                <stop offset="100%" stop-color="#e74c3c" />
+                            </radialGradient>
+                        </defs>
+                        <circle cx="150" cy="100" r="70" fill="url(#grad2)" />
+                    </svg>
+                </div>
+                <div class="code">
+                    &lt;radialGradient id="grad2" cx="50%" cy="50%" r="50%"&gt;<br>
+                    &nbsp;&nbsp;&lt;stop offset="0%" stop-color="#ffffff" /&gt;<br>
+                    &nbsp;&nbsp;&lt;stop offset="100%" stop-color="#e74c3c" /&gt;<br>
+                    &lt;/radialGradient&gt;<br>
+                    &lt;circle fill="url(#grad2)" ... /&gt;
+                </div>
+            </div>
+        </div>
+        
+        <!-- Filters -->
+        <div class="card">
+            <h2>Filters & Effects</h2>
+            <p>SVG filters allow you to apply sophisticated effects to your graphics.</p>
+            
+            <div class="example">
+                <h3>Blur Effect</h3>
+                <div class="svg-container">
+                    <svg width="100%" height="100%">
+                        <defs>
+                            <filter id="blur">
+                                <feGaussianBlur in="SourceGraphic" stdDeviation="5" />
+                            </filter>
+                        </defs>
+                        <circle cx="100" cy="100" r="50" fill="#3498db" />
+                        <circle cx="200" cy="100" r="50" fill="#e74c3c" filter="url(#blur)" />
+                    </svg>
+                </div>
+                <div class="code">
+                    &lt;filter id="blur"&gt;<br>
+                    &nbsp;&nbsp;&lt;feGaussianBlur in="SourceGraphic" stdDeviation="5" /&gt;<br>
+                    &lt;/filter&gt;<br>
+                    &lt;circle filter="url(#blur)" ... /&gt;
+                </div>
+            </div>
+            
+            <div class="example">
+                <h3>Drop Shadow</h3>
+                <div class="svg-container">
+                    <svg width="100%" height="100%">
+                        <defs>
+                            <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+                                <feGaussianBlur in="SourceAlpha" stdDeviation="5" result="blur"/>
+                                <feOffset in="blur" dx="5" dy="5" result="offsetBlur"/>
+                                <feFlood flood-color="#000000" flood-opacity="0.5" result="offsetColor"/>
+                                <feComposite in="offsetColor" in2="offsetBlur" operator="in" result="offsetBlur"/>
+                                <feMerge> 
+                                    <feMergeNode in="offsetBlur"/>
+                                    <feMergeNode in="SourceGraphic"/>
+                                </feMerge>
+                            </filter>
+                        </defs>
+                        <rect x="50" y="50" width="150" height="100" fill="#9b59b6" filter="url(#shadow)" />
+                    </svg>
+                </div>
+                <div class="code">
+                    &lt;filter id="shadow" ... &gt;<br>
+                    &nbsp;&nbsp;&lt;feGaussianBlur ... /&gt;<br>
+                    &nbsp;&nbsp;&lt;feOffset ... /&gt;<br>
+                    &nbsp;&nbsp;&lt;feMerge&gt; ... &lt;/feMerge&gt;<br>
+                    &lt;/filter&gt;<br>
+                    &lt;rect filter="url(#shadow)" ... /&gt;
+                </div>
+            </div>
+        </div>
+        
+        <!-- Animation -->
+        <div class="card">
+            <h2>Animation</h2>
+            <p>SVG supports animation through SMIL or can be animated with CSS and JavaScript.</p>
+            
+            <div class="example">
+                <h3>Animated Circle</h3>
+                <div class="svg-container">
+                    <svg width="100%" height="100%">
+                        <circle cx="100" cy="100" r="30" fill="#3498db">
+                            <animate attributeName="r" from="10" to="50" dur="2s" repeatCount="indefinite" />
+                        </circle>
+                    </svg>
+                </div>
+                <div class="code">
+                    &lt;circle cx="100" cy="100" r="30" fill="#3498db"&gt;<br>
+                    &nbsp;&nbsp;&lt;animate attributeName="r" from="10" to="50" dur="2s" repeatCount="indefinite" /&gt;<br>
+                    &lt;/circle&gt;
+                </div>
+            </div>
+            
+            <div class="example">
+                <h3>Motion Along Path</h3>
+                <div class="svg-container">
+                    <svg width="100%" height="100%">
+                        <path id="motionPath" d="M50,150 Q150,50 250,150 T450,150" fill="none" stroke="#eee" stroke-width="2"/>
+                        <circle cx="0" cy="0" r="10" fill="#e74c3c">
+                            <animateMotion dur="3s" repeatCount="indefinite">
+                                <mpath href="#motionPath"/>
+                            </animateMotion>
+                        </circle>
+                    </svg>
+                </div>
+                <div class="code">
+                    &lt;path id="motionPath" d="M50,150 Q150,50 250,150" ... /&gt;<br>
+                    &lt;circle r="10" fill="#e74c3c"&gt;<br>
+                    &nbsp;&nbsp;&lt;animateMotion dur="3s" repeatCount="indefinite"&gt;<br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&lt;mpath href="#motionPath"/&gt;<br>
+                    &nbsp;&nbsp;&lt;/animateMotion&gt;<br>
+                    &lt;/circle&gt;
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="container">
+        <!-- Common Properties -->
+        <div class="card">
+            <h2>Common SVG Properties</h2>
+            <div class="properties">
+                <div class="prop">
+                    <p class="prop-name">fill</p>
+                    <p>Defines the color of the shape's interior</p>
+                </div>
+                <div class="prop">
+                    <p class="prop-name">stroke</p>
+                    <p>Defines the color of the shape's outline</p>
+                </div>
+                <div class="prop">
+                    <p class="prop-name">stroke-width</p>
+                    <p>Defines the thickness of the outline</p>
+                </div>
+                <div class="prop">
+                    <p class="prop-name">opacity</p>
+                    <p>Defines the transparency of the element (0-1)</p>
+                </div>
+                <div class="prop">
+                    <p class="prop-name">transform</p>
+                    <p>Applies transformations like rotate, scale, translate, skew</p>
+                </div>
+                <div class="prop">
+                    <p class="prop-name">viewBox</p>
+                    <p>Defines the position and dimension of the SVG viewport</p>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Usage Tips -->
+        <div class="card">
+            <h2>SVG Usage Tips</h2>
+            <div class="example">
+                <h3>Inline vs External</h3>
+                <p>SVG can be used inline in HTML or as external files. Inline SVG is better for interaction and animation.</p>
+            </div>
+            <div class="example">
+                <h3>Accessibility</h3>
+                <p>Use &lt;title&gt; and &lt;desc&gt; elements to provide accessible descriptions of your SVG content.</p>
+            </div>
+            <div class="example">
+                <h3>Performance</h3>
+                <p>For complex SVGs, consider optimizing the code with tools like SVGO to reduce file size.</p>
+            </div>
+        </div>
+    </div>
+    
+    <footer>
+        <p>SVG Reference Guide | Created with pure HTML, CSS, and SVG</p>
+    </footer>
+</body>
+</html>

@@ -4,8 +4,6 @@
 
 > $welcome \space to \space hotel \space california$
 
-> 🍅 ⏲️ $solanum$
-
 > 🌕 💤 💤 💤 $\text{23:00}$
 
 ## .
@@ -17,22 +15,18 @@
 
 ## 20250905 
 
-### _temp_
-
-- categorize web and ruanyf.md into `blogging/lights`
-- start with a fresh repo `f` instead of `blogging`
-- put pdfs in `blogging` elsewhere like repo `resources`
-- categorize berryberry fav, zhihu fav
-
 ### _foresight_
 
 - learn japanese
 - practice math
-- create math videos using pre, precious lang and material
+- create math videos using pre, precious and material
 - watch bangumis
 - play go
-- play vid games
 - surf zhihu / berryberry / twitter
+- categorize web and ruanyf.md into `blogging/lights`
+- start with a fresh repo `f` instead of `blogging`
+- put pdfs in `blogging` elsewhere like repo `resources`
+- categorize berryberry fav, zhihu fav
 
 ### _day_
 

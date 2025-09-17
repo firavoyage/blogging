@@ -2,8 +2,9 @@
 author: deepseek v3 hosted on deepseek.com
 created: 2025.08.06
 changelog:
-- (unknown) added latex support
-- 2025.08.15 added table support
+- (unknown) support some of the rendered latex
+- 2025.08.15 support table
+- 2025.09.14 add proper linebreaks between lines in pre code
 -->
 <!DOCTYPE html>
 <html lang="en">
@@ -258,6 +259,7 @@ changelog:
           },
         };
 
+        // add proper linebreaks
         rules.fencedCodeBlock = {
           filter: function (node, options) {
             return (
@@ -271,7 +273,21 @@ changelog:
           replacement: function (content, node, options) {
             var className = node.firstChild.getAttribute("class") || "";
             var language = (className.match(/language-(\S+)/) || [null, ""])[1];
-            var code = node.firstChild.textContent;
+            var code;
+
+            // Handle code blocks with cm-line divs
+            var lineDivs = node.firstChild.querySelectorAll(
+              'div, [class*="line"]'
+            );
+            if (lineDivs.length > 0) {
+              code = Array.from(lineDivs)
+                .map(function (div) {
+                  return div.textContent;
+                })
+                .join("\n");
+            } else {
+              code = node.firstChild.textContent;
+            }
 
             var fenceChar = options.fence.charAt(0);
             var fenceSize = 3;
@@ -289,7 +305,7 @@ changelog:
             return (
               "\n\n" +
               fence +
-              language +
+              (language ? language : "") +
               "\n" +
               code.replace(/\n$/, "") +
               "\n" +

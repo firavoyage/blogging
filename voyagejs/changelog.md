@@ -574,6 +574,18 @@
 - feat: prop.mutate() for direct mutation without rerenders
   - element ref is passed to mutate
 
-## 1.4
+## 1.4 20250910
+
+- fix: make useref safe for objects
+  - ref will unexpectedly reapply initial values if ref.current doesnt change
+  - if an object is passed to useref, while the ref is the dep of an effect. the effect will rerun every render whether or not the ref changes. because components are js fn, the same object will have different ref between two calls. 
+  - now useref only set initial value in the first render.
+- fix!: make prop deps in effect work properly
+  - array.map() doesnt modify the original array
+  - now using the processed deps array
+- chore: remove meaningless dev period comment
+  - "developed during (prev release date) to (release date)"
+
+## 1.5
 
 - todo: voyagejs usage prompt for llm

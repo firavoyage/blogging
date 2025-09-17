@@ -52,7 +52,7 @@
   - huamei
 - essentials
   - j-pop · rock · folk · jazz · classical
-  - calendar · wall clock
+  - calendar · wall clock · scratch pad · sketchbook · illustrations
   - life size waifu pillow · origami · pixel art · gardening
   - anime · boardgames · visualnovels · unixporn · mtf · virtualyoutubers
   - math · algorithms · web dev · game dev · threejs · cpp · python · rust · ai/ml
@@ -60,11 +60,10 @@
   - cynicism · dissociation · inner speech · second person omniscient narration
 - personas
   - acetaffy812
-  - adamwathan tailwindcss
+  - adamwathan
   - anlin zhihu
-  - antfu
+  - antfu slidev
   - antoninoscordino ntonino
-  - azumaseren
   - bingtangio
   - bradwoods
   - cdtchinese
@@ -72,18 +71,18 @@
   - chiyuki0325
   - chriscoyier
   - chtholly nota seniorious
-  - cldeop
   - codingstartup
   - cosmicac 2o181o28
   - darkf1ames
   - dbinary matrixcascade
   - diygod
   - elleflorio
-  - end3r
+  - end3r js13kgames
   - falstaff duolingo
   - ftium4
   - funshiki
   - gaearon dan abramov
+  - gaou
   - grant sanderson 3blue1brown
   - hakadao
   - haoel
@@ -115,13 +114,11 @@
   - krahets
   - leanrada kalabasa
   - leaverou
-  - lee sedol go
-  - lei bro gaming
   - leongao
   - li jiaqing go
-  - liangxihuigui
   - lightvector
   - ling yuan yuan yuan yuan yuan zhihu
+  - lingdong- lingdong huang wenyan-lang
   - lionleaf
   - liu yiyi go
   - livid v2ex
@@ -156,6 +153,7 @@
   - shengxj1
   - shiffman
   - shin jin-seo go
+  - shizuku lulu
   - snack life
   - spade echo
   - sparkle
@@ -177,13 +175,15 @@
   - vtbs_irl
   - wanderer above the sea of fog
   - wesbos
+  - wu songlei paperclip
   - xiaoyaocz
   - xkcd
   - xuegao cheese
   - yifusuyi
+  - yokidou
   - yuanchuan
-  - yuki_sakuna yuuki sakuna
   - yunyoujun
+  - yuuki sakuna
   - yxc acwing
   - yysuni
   - zuozizhen
@@ -345,8 +345,8 @@
   - .inzoi (2025)
 - books
   - to live (yu hua)
-  - road ahead (ruan yifeng)
   - the water level of ideology (liu yu)
+  - road ahead (ruan yifeng)
   - meditations on life (zhou guoping)
   - twelve letters for the young (zhu guangqian)
   - letter to da zhuang (miao wei)
@@ -355,7 +355,7 @@
   - hackers and painters (paul graham)
   - integer overflow: the development, prosperity and decline of olympics in informatics (xu xiling)
   - refactoring ui (adam wathan & steve schoger)
-  - react docs: learn (react community)
+  - learn react (react community)
   - javascript: the good parts (douglas crockford)
   - javascript: the definitive guide seventh edition (david flanagan)
   - c++ primer fifth edition (barbara e. moo & josée lajoie & stanley b. lippman)
@@ -407,6 +407,7 @@
   - ar pl ukai
   - cuprum
   - dejavu serif
+  - eb garamond
   - fira code
   - fira sans
   - google product sans
@@ -427,7 +428,7 @@
   - resource han rounded
   - roboto
   - ubuntu sans
-  - xiaolai
+  - xits math
   - zhi mang xing
 - sites
   - google · chatgpt · gemini · deepseek · mistral ai
@@ -509,6 +510,8 @@
   - node
   - npm
   - obs-studio
+  - ocrmypdf
+  - pandoc
   - python3
   - qbitorrent
   - retroarch
@@ -517,6 +520,7 @@
   - shotcut
   - steam
   - telegram-desktop
+  - tesseract
   - thunderbird
   - v2raya
   - virtualbox
@@ -537,6 +541,7 @@
   - ehviewer
   - eudic
   - fcitx5-android
+  - fossify-voicerecorder
   - gboard
   - k9-mail
   - kuaishou
@@ -927,23 +932,25 @@
 > 如果是 fira 的话, 可以哟. 不必在意世人眼中自己是什么模样. 虽不至于登峰造极, 在观测三次元人类中, fira 逐渐明白她有足够的强度. 即使那是好运.
 
 > 我喜欢幻想
-> 
+>
 > 我喜欢整理，删除。
-> 
+>
 > 我喜欢创造优雅的事物
-> 
+>
 > 我喜欢思维游戏，不喜欢反应游戏
-> 
+>
 > 我喜欢真诚地表达，尽我所能，不知道对世界而言我的形状。
-> 
+>
 > 我喜欢极端，或者极致。
-> 
+>
 > 我喜欢存档
-> 
+>
 > 我喜欢自私，因为喜欢纵欲过于禁欲，即使不能成立
-> 
+>
 > 我喜欢极端的构造，即使世界不许之。
-> 
+>
 > 我喜欢思维复杂，操作简明的游戏
-> 
+>
 > 操作复杂的游戏或许有激情，力不从心
+
+> why? coz actually everything is optionated. (except two same pure fn where only performance differs)
