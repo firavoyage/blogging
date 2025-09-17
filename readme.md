@@ -750,6 +750,7 @@
   - npm `firascript`
 - - telegram group `voyagefira`
   - telegram channel `logfira`
+  - telegram channel `firaprecious`
   - qq group `1018146954`
 - - email `firavoyage@outlook.com`
   - alternatives `firafira@duck.com` `xoyage@gmail.com` `devvhy@zoho.com.cn` `firav@qq.com`

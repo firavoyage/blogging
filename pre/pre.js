@@ -1,10 +1,33 @@
 // todo: flair (react, saba), precious, material, mdx
 
-const { h, p, e, r } = voyage
+const { h, p, e, r } = voyage;
 
 // todo: make flair a js library
 
 const flair = ({ stylesheet, theme, glossary }) => {
+  const flatten = (obj) => {};
+  const map = (obj, fn) => {
+    if (Array.isArray(obj)) {
+      return obj.map(fn);
+    } else {
+      return Object.entries(obj).map(fn);
+    }
+  };
+  const separate = (selector, style)=>{
+    
+  }
+
+  stylesheet = flatten(stylesheet);
+
+  const variants = {}
+  map(stylesheet, ([selector, styles]) => {
+   map(styles.split(" "), (style) =>{
+
+   })
+  });
+};
+
+const flairlegacy = ({ stylesheet, theme, glossary }) => {
   const has = (obj, ...keys) => {
     if (!obj || typeof obj !== "object") return false;
 

@@ -231,6 +231,7 @@ sudo apt install gnome-shell-extension-prefs
     - `/usr/share/code/code %F`
   - fcitx5
     - `/usr/bin/fcitx5`
+  - backups
   - (removed) vlc media player
     - `env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/vlc_vlc.desktop /snap/bin/vlc %U`
   - (removed) solanum
@@ -550,6 +551,11 @@ sudo apt install gnome-shell-extension-prefs
     ```
   - sync with github
     - https://gitee.com/username/project/mirrors#/
+- config gitea
+  - add git remote
+    ```sh
+    git remote add a https://gitea.com/username/project.git
+    ```
 - config zshrc
   - -> `~/.zshrc`
   - -> `git/blogging/config/terminal zshrc.txt`
