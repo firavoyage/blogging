@@ -8197,3 +8197,13 @@ hermit. https://www.youtube.com/watch?v=mPYeTJd8klQ
 started using "code review" instead of "give suggestions"
 
 ---
+
+birthday. 
+
+present: seagate 2tb hdd
+
+started repo f, resources on github, gitlab, gitea, gitee.
+
+gitea has a limit of 5 repos?!
+
+---
