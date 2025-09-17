@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UnoCSS API Guide</title>
+    <script src="https://cdn.jsdelivr.net/npm/@unocss/runtime"></script>
+    <style>
+        /* Base styles */
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f8fafc;
+        }
+        
+        /* Header styles */
+        header {
+            text-align: center;
+            margin-bottom: 40px;
+            padding: 20px;
+            border-radius: 12px;
+            background: white;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+        }
+        
+        h1 {
+            color: #1e40af;
+            margin-bottom: 10px;
+        }
+        
+        h2 {
+            color: #3b82f6;
+            border-bottom: 2px solid #e2e8f0;
+            padding-bottom: 10px;
+            margin-top: 30px;
+        }
+        
+        h3 {
+            color: #64748b;
+            margin-top: 25px;
+        }
+        
+        /* Card styles */
+        .card {
+            background: white;
+            border-radius: 12px;
+            padding: 24px;
+            margin-bottom: 24px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+        }
+        
+        /* Example boxes */
+        .example {
+            border: 2px solid #e2e8f0;
+            border-radius: 8px;
+            padding: 16px;
+            margin: 16px 0;
+            background: #f8fafc;
+        }
+        
+        .example-title {
+            font-weight: bold;
+            margin-bottom: 8px;
+            color: #475569;
+        }
+        
+        /* Interactive demo */
+        .interactive-demo {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+            margin: 20px 0;
+        }
+        
+        .demo-input, .demo-output {
+            padding: 20px;
+            border-radius: 8px;
+        }
+        
+        .demo-input {
+            background: #e0f2fe;
+        }
+        
+        .demo-output {
+            background: #dcfce7;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            min-height: 150px;
+        }
+        
+        textarea {
+            width: 100%;
+            min-height: 150px;
+            padding: 12px;
+            border: 1px solid #94a3b8;
+            border-radius: 8px;
+            font-family: monospace;
+            resize: vertical;
+        }
+        
+        /* Utility classes for demonstration */
+        .flex { display: flex; }
+        .gap-4 { gap: 1rem; }
+        .p-4 { padding: 1rem; }
+        .bg-blue-100 { background-color: #dbeafe; }
+        .rounded { border-radius: 0.25rem; }
+        .text-center { text-align: center; }
+        
+        /* Code blocks */
+        code {
+            background: #1e293b;
+            color: #f1f5f9;
+            padding: 2px 6px;
+            border-radius: 4px;
+            font-family: monospace;
+        }
+        
+        pre {
+            background: #1e293b;
+            color: #f1f5f9;
+            padding: 16px;
+            border-radius: 8px;
+            overflow-x: auto;
+            margin: 16px 0;
+        }
+        
+        /* Responsive adjustments */
+        @media (max-width: 768px) {
+            .interactive-demo {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>UnoCSS API Guide</h1>
+        <p>The instant on-demand Atomic CSS engine</p>
+    </header>
+
+    <div class="card">
+        <h2>What is UnoCSS?</h2>
+        <p>UnoCSS is an atomic CSS engine that provides instant utility classes without any configuration. It's highly customizable and works with any framework.</p>
+        
+        <div class="example">
+            <div class="example-title">Key Features:</div>
+            <ul>
+                <li>Fully customizable - no core utilities, all provided via presets</li>
+                <li>Instant on-demand CSS - no build time cost for unused utilities</li>
+                <li>Short, intuitive class names</li>
+                <li>Flexible enough to create any utility you need</li>
+                <li>Works with any framework (Vue, React, Svelte, etc.)</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="card">
+        <h2>Basic Usage</h2>
+        <p>UnoCSS provides utility classes for almost every CSS property. Here are some common examples:</p>
+        
+        <h3>Spacing Utilities</h3>
+        <div class="example">
+            <div class="example-title">Example:</div>
+            <pre><code>&lt;div class="m-4 p-4"&gt;Margin and padding&lt;/div&gt;
+&lt;div class="mx-auto p-8"&gt;Horizontal margin and padding&lt;/div&gt;</code></pre>
+            
+            <div class="flex gap-4">
+                <div class="m-4 p-4 bg-blue-100 rounded">Margin and padding</div>
+                <div class="mx-auto p-8 bg-blue-100 rounded">Horizontal margin and padding</div>
+            </div>
+        </div>
+        
+        <h3>Color Utilities</h3>
+        <div class="example">
+            <div class="example-title">Example:</div>
+            <pre><code>&lt;div class="bg-blue-500 text-white"&gt;Blue background&lt;/div&gt;
+&lt;div class="bg-red-100 text-red-800"&gt;Red tones&lt;/div&gt;</code></pre>
+            
+            <div class="flex gap-4">
+                <div class="bg-blue-500 text-white p-4 rounded">Blue background</div>
+                <div class="bg-red-100 text-red-800 p-4 rounded">Red tones</div>
+            </div>
+        </div>
+        
+        <h3>Flexbox Utilities</h3>
+        <div class="example">
+            <div class="example-title">Example:</div>
+            <pre><code>&lt;div class="flex justify-between items-center"&gt;
+  &lt;div&gt;Left&lt;/div&gt;
+  &lt;div&gt;Center&lt;/div&gt;
+  &lt;div&gt;Right&lt;/div&gt;
+&lt;/div&gt;</code></pre>
+            
+            <div class="flex justify-between items-center p-4 bg-blue-100 rounded">
+                <div>Left</div>
+                <div>Center</div>
+                <div>Right</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="card">
+        <h2>Interactive Demo</h2>
+        <p>Try out UnoCSS classes below. Type any utility class and see the result instantly.</p>
+        
+        <div class="interactive-demo">
+            <div class="demo-input">
+                <textarea id="cssInput" placeholder="Enter UnoCSS classes (e.g., p-4 bg-blue-500 text-white rounded)">p-4 bg-blue-500 text-white rounded text-center</textarea>
+            </div>
+            <div class="demo-output">
+                <div id="cssOutput" class="p-4 bg-blue-500 text-white rounded text-center">Hello UnoCSS!</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="card">
+        <h2>Core Concepts</h2>
+        
+        <h3>Presets</h3>
+        <p>UnoCSS uses presets to provide utility classes. The default preset includes utilities for:</p>
+        <ul>
+            <li>Spacing (margin, padding)</li>
+            <li>Colors (text, background, border)</li>
+            <li>Typography (font size, weight, family)</li>
+            <li>Flexbox and Grid</li>
+            <li>And much more...</li>
+        </ul>
+        
+        <h3>Customization</h3>
+        <p>You can easily create your own utilities or extend existing ones:</p>
+        <pre><code>// uno.config.js
+import { defineConfig } from 'unocss'
+
+export default defineConfig({
+  rules: [
+    ['my-rule', { color: 'red' }]
+  ]
+})</code></pre>
+        
+        <h3>Variants</h3>
+        <p>Variants allow you to apply utilities conditionally:</p>
+        <pre><code>// Hover variant
+&lt;button class="bg-blue-500 hover:bg-blue-700"&gt;Button&lt;/button&gt;
+
+// Dark mode variant
+&lt;div class="bg-white dark:bg-gray-800"&gt;Theme aware&lt;/div&gt;
+
+// Responsive variants
+&lt;div class="w-full md:w-1/2 lg:w-1/3"&gt;Responsive width&lt;/div&gt;</code></pre>
+    </div>
+
+    <div class="card">
+        <h2>Installation Guide</h2>
+        
+        <h3>Via CDN (Quick Start)</h3>
+        <pre><code>&lt;script src="https://cdn.jsdelivr.net/npm/@unocss/runtime"&gt;&lt;/script&gt;</code></pre>
+        
+        <h3>npm Installation</h3>
+        <pre><code>npm install -D unocss</code></pre>
+        
+        <h3>Framework Integrations</h3>
+        <p>UnoCSS has dedicated integrations for popular frameworks:</p>
+        <ul>
+            <li>Vite: <code>@unocss/vite</code></li>
+            <li>Webpack: <code>@unocss/webpack</code></li>
+            <li>Nuxt: <code>@unocss/nuxt</code></li>
+            <li>React: Use with Vite or Webpack</li>
+        </ul>
+    </div>
+
+    <script>
+        // Interactive demo functionality
+        const input = document.getElementById('cssInput');
+        const output = document.getElementById('cssOutput');
+        
+        input.addEventListener('input', updateOutput);
+        
+        function updateOutput() {
+            const classes = input.value.split(' ').filter(cls => cls.trim() !== '');
+            output.className = '';
+            classes.forEach(cls => {
+                if (cls) output.classList.add(cls);
+            });
+        }
+        
+        // Initialize UnoCSS
+        UnoCSSRuntime.init({
+            // Default presets are included
+            presets: [
+                UnoCSSRuntime.presetUno()
+            ]
+        });
+    </script>
+</body>
+</html>

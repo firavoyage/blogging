@@ -1,0 +1,445 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SVG Guide</title>
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        
+        body {
+            background-color: #1a1a2e;
+            color: #e6e6e6;
+            line-height: 1.6;
+            padding: 20px;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        
+        header {
+            text-align: center;
+            padding: 30px 0;
+            margin-bottom: 30px;
+            background: linear-gradient(135deg, #16213e 0%, #0f3460 100%);
+            border-radius: 10px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4);
+        }
+        
+        h1 {
+            font-size: 2.8rem;
+            margin-bottom: 10px;
+            color: #4cc9f0;
+            text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+        }
+        
+        h2 {
+            font-size: 1.8rem;
+            margin: 25px 0 15px;
+            color: #4cc9f0;
+            border-bottom: 2px solid #4cc9f0;
+            padding-bottom: 8px;
+        }
+        
+        h3 {
+            font-size: 1.4rem;
+            margin: 20px 0 10px;
+            color: #4cc9f0;
+        }
+        
+        p {
+            margin-bottom: 15px;
+            font-size: 1.1rem;
+        }
+        
+        .container {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 25px;
+        }
+        
+        @media (max-width: 900px) {
+            .container {
+                grid-template-columns: 1fr;
+            }
+        }
+        
+        .card {
+            background: #16213e;
+            border-radius: 10px;
+            padding: 20px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+            transition: transform 0.3s ease;
+        }
+        
+        .card:hover {
+            transform: translateY(-5px);
+        }
+        
+        .svg-example {
+            width: 100%;
+            height: 250px;
+            background: #0f3460;
+            border-radius: 8px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin: 15px 0;
+            overflow: hidden;
+        }
+        
+        .code-block {
+            background: #0d1b2a;
+            padding: 15px;
+            border-radius: 8px;
+            font-family: 'Courier New', monospace;
+            overflow-x: auto;
+            margin: 15px 0;
+            font-size: 0.9rem;
+            line-height: 1.5;
+        }
+        
+        .nav {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin: 20px 0;
+        }
+        
+        .nav-btn {
+            background: #4cc9f0;
+            color: #0d1b2a;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-weight: bold;
+            transition: background 0.3s;
+        }
+        
+        .nav-btn:hover {
+            background: #2b9fc7;
+        }
+        
+        .properties {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+            gap: 15px;
+            margin: 20px 0;
+        }
+        
+        .property {
+            background: #0f3460;
+            padding: 15px;
+            border-radius: 8px;
+        }
+        
+        footer {
+            text-align: center;
+            margin-top: 40px;
+            padding: 20px;
+            border-top: 1px solid #4cc9f0;
+        }
+        
+        .highlight {
+            color: #f72585;
+            font-weight: bold;
+        }
+        
+        .note {
+            background: #0f3460;
+            padding: 15px;
+            border-left: 4px solid #4cc9f0;
+            margin: 15px 0;
+            border-radius: 0 8px 8px 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>SVG Guide</h1>
+        <p>Learn how to create and manipulate Scalable Vector Graphics</p>
+    </header>
+
+    <div class="nav">
+        <button class="nav-btn" onclick="showSection('intro')">Introduction</button>
+        <button class="nav-btn" onclick="showSection('shapes')">Basic Shapes</button>
+        <button class="nav-btn" onclick="showSection('paths')">Paths</button>
+        <button class="nav-btn" onclick="showSection('styling')">Styling</button>
+        <button class="nav-btn" onclick="showSection('animation')">Animation</button>
+    </div>
+
+    <div class="container">
+        <div class="card">
+            <h2 id="intro">What is SVG?</h2>
+            <p>SVG (Scalable Vector Graphics) is an XML-based markup language for describing two-dimensional vector graphics. Unlike raster images (like JPG or PNG), SVG graphics don't lose quality when zoomed or resized.</p>
+            
+            <div class="svg-example">
+                <svg width="200" height="200" viewBox="0 0 200 200">
+                    <circle cx="100" cy="100" r="80" fill="#4cc9f0" />
+                    <text x="100" y="110" text-anchor="middle" fill="#0d1b2a" font-size="24">SVG</text>
+                </svg>
+            </div>
+            
+            <div class="code-block">
+&lt;svg width="200" height="200" viewBox="0 0 200 200"&gt;
+  &lt;circle cx="100" cy="100" r="80" fill="#4cc9f0" /&gt;
+  &lt;text x="100" y="110" text-anchor="middle" fill="#0d1b2a" font-size="24"&gt;SVG&lt;/text&gt;
+&lt;/svg&gt;
+            </div>
+            
+            <div class="note">
+                <p><span class="highlight">Note:</span> SVG is supported in all modern browsers and can be created with any text editor, but specialized tools like Adobe Illustrator or Inkscape can also be used.</p>
+            </div>
+        </div>
+
+        <div class="card">
+            <h2>Advantages of SVG</h2>
+            <ul>
+                <li>Scalability without quality loss</li>
+                <li>Small file size for simple graphics</li>
+                <li>Styleable with CSS</li>
+                <li>Animatable with CSS or JavaScript</li>
+                <li>Accessible (text content is available to screen readers)</li>
+                <li>Search engine friendly</li>
+                <li>Can be created and edited with any text editor</li>
+            </ul>
+            
+            <h3>Common Use Cases</h3>
+            <ul>
+                <li>Icons and logos</li>
+                <li>Data visualizations (charts, graphs)</li>
+                <li>Interactive maps</li>
+                <li>Animations and illustrations</li>
+                <li>Complex UI elements</li>
+            </ul>
+            
+            <h2 id="shapes">Basic SVG Shapes</h2>
+            <p>SVG provides several basic shape elements:</p>
+            
+            <div class="properties">
+                <div class="property">
+                    <h3>Rectangle</h3>
+                    <div class="svg-example" style="height: 100px;">
+                        <svg width="100" height="100">
+                            <rect width="80" height="60" x="10" y="20" fill="#4cc9f0" />
+                        </svg>
+                    </div>
+                    <div class="code-block">
+&lt;rect width="80" height="60" x="10" y="20" fill="#4cc9f0" /&gt;
+                    </div>
+                </div>
+                
+                <div class="property">
+                    <h3>Circle</h3>
+                    <div class="svg-example" style="height: 100px;">
+                        <svg width="100" height="100">
+                            <circle cx="50" cy="50" r="40" fill="#f72585" />
+                        </svg>
+                    </div>
+                    <div class="code-block">
+&lt;circle cx="50" cy="50" r="40" fill="#f72585" /&gt;
+                    </div>
+                </div>
+                
+                <div class="property">
+                    <h3>Ellipse</h3>
+                    <div class="svg-example" style="height: 100px;">
+                        <svg width="100" height="100">
+                            <ellipse cx="50" cy="50" rx="40" ry="30" fill="#7209b7" />
+                        </svg>
+                    </div>
+                    <div class="code-block">
+&lt;ellipse cx="50" cy="50" rx="40" ry="30" fill="#7209b7" /&gt;
+                    </div>
+                </div>
+                
+                <div class="property">
+                    <h3>Line</h3>
+                    <div class="svg-example" style="height: 100px;">
+                        <svg width="100" height="100">
+                            <line x1="10" y1="10" x2="90" y2="90" stroke="#4cc9f0" stroke-width="4" />
+                        </svg>
+                    </div>
+                    <div class="code-block">
+&lt;line x1="10" y1="10" x2="90" y2="90" stroke="#4cc9f0" stroke-width="4" /&gt;
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="card">
+            <h2 id="paths">SVG Paths</h2>
+            <p>The <span class="highlight">&lt;path&gt;</span> element is the most powerful and complex SVG shape. It can be used to create any shape by combining lines, curves, and arcs.</p>
+            
+            <div class="svg-example">
+                <svg width="200" height="200" viewBox="0 0 200 200">
+                    <path d="M 10 100 Q 100 10 190 100 T 370 100" stroke="#4cc9f0" stroke-width="4" fill="none" />
+                    <path d="M 10 150 C 50 50, 150 50, 190 150" stroke="#f72585" stroke-width="4" fill="none" />
+                </svg>
+            </div>
+            
+            <div class="code-block">
+&lt;path d="M 10 100 Q 100 10 190 100 T 370 100" 
+      stroke="#4cc9f0" stroke-width="4" fill="none" /&gt;
+
+&lt;path d="M 10 150 C 50 50, 150 50, 190 150" 
+      stroke="#f72585" stroke-width="4" fill="none" /&gt;
+            </div>
+            
+            <h3>Path Commands</h3>
+            <ul>
+                <li><span class="highlight">M</span> - Move to</li>
+                <li><span class="highlight">L</span> - Line to</li>
+                <li><span class="highlight">H</span> - Horizontal line</li>
+                <li><span class="highlight">V</span> - Vertical line</li>
+                <li><span class="highlight">C</span> - Cubic Bezier curve</li>
+                <li><span class="highlight">Q</span> - Quadratic Bezier curve</li>
+                <li><span class="highlight">A</span> - Arc</li>
+                <li><span class="highlight">Z</span> - Close path</li>
+            </ul>
+        </div>
+
+        <div class="card">
+            <h2 id="styling">Styling SVG</h2>
+            <p>SVG elements can be styled using attributes or CSS. Common styling properties include:</p>
+            
+            <div class="properties">
+                <div class="property">
+                    <h3>Fill</h3>
+                    <div class="svg-example" style="height: 100px;">
+                        <svg width="100" height="100">
+                            <circle cx="50" cy="50" r="40" fill="#4cc9f0" />
+                        </svg>
+                    </div>
+                    <div class="code-block">
+fill: #4cc9f0;
+                    </div>
+                </div>
+                
+                <div class="property">
+                    <h3>Stroke</h3>
+                    <div class="svg-example" style="height: 100px;">
+                        <svg width="100" height="100">
+                            <circle cx="50" cy="50" r="40" fill="none" stroke="#f72585" stroke-width="8" />
+                        </svg>
+                    </div>
+                    <div class="code-block">
+stroke: #f72585;
+stroke-width: 8;
+                    </div>
+                </div>
+                
+                <div class="property">
+                    <h3>Opacity</h3>
+                    <div class="svg-example" style="height: 100px;">
+                        <svg width="100" height="100">
+                            <circle cx="35" cy="50" r="30" fill="#4cc9f0" opacity="0.7" />
+                            <circle cx="65" cy="50" r="30" fill="#f72585" opacity="0.7" />
+                        </svg>
+                    </div>
+                    <div class="code-block">
+opacity: 0.7;
+                    </div>
+                </div>
+                
+                <div class="property">
+                    <h3>Gradient</h3>
+                    <div class="svg-example" style="height: 100px;">
+                        <svg width="100" height="100">
+                            <defs>
+                                <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+                                    <stop offset="0%" stop-color="#4cc9f0" />
+                                    <stop offset="100%" stop-color="#f72585" />
+                                </linearGradient>
+                            </defs>
+                            <circle cx="50" cy="50" r="40" fill="url(#grad1)" />
+                        </svg>
+                    </div>
+                    <div class="code-block">
+fill: url(#grad1);
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="card">
+            <h2 id="animation">SVG Animation</h2>
+            <p>SVG can be animated using CSS, JavaScript, or SMIL (Synchronized Multimedia Integration Language).</p>
+            
+            <div class="svg-example">
+                <svg width="200" height="200" viewBox="0 0 200 200">
+                    <circle id="animated-circle" cx="100" cy="100" r="30" fill="#4cc9f0">
+                        <animate attributeName="r" from="10" to="40" dur="2s" repeatCount="indefinite" />
+                    </circle>
+                    <rect x="70" y="70" width="60" height="60" fill="#f72585" opacity="0.7">
+                        <animateTransform attributeName="transform" type="rotate" from="0 100 100" to="360 100 100" dur="3s" repeatCount="indefinite" />
+                    </rect>
+                </svg>
+            </div>
+            
+            <div class="code-block">
+&lt;circle cx="100" cy="100" r="30" fill="#4cc9f0"&gt;
+  &lt;animate attributeName="r" from="10" to="40" dur="2s" 
+           repeatCount="indefinite" /&gt;
+&lt;/circle&gt;
+
+&lt;rect x="70" y="70" width="60" height="60" fill="#f72585" opacity="0.7"&gt;
+  &lt;animateTransform attributeName="transform" type="rotate" 
+                   from="0 100 100" to="360 100 100" dur="3s" 
+                   repeatCount="indefinite" /&gt;
+&lt;/rect&gt;
+            </div>
+            
+            <h3>Animation Approaches</h3>
+            <ul>
+                <li><span class="highlight">CSS Animations:</span> Use @keyframes and transition properties</li>
+                <li><span class="highlight">JavaScript:</span> Use requestAnimationFrame or libraries like GSAP</li>
+                <li><span class="highlight">SMIL:</span> Native SVG animation elements</li>
+            </ul>
+        </div>
+
+        <div class="card">
+            <h2>SVG Best Practices</h2>
+            <ul>
+                <li>Optimize SVG files by removing unnecessary metadata</li>
+                <li>Use relative units for better scalability</li>
+                <li>Minify SVG code for production use</li>
+                <li>Provide meaningful IDs and classes for styling</li>
+                <li>Consider accessibility with proper titles and descriptions</li>
+                <li>Test across browsers for compatibility</li>
+            </ul>
+            
+            <h2>Tools for Working with SVG</h2>
+            <ul>
+                <li><span class="highlight">Design Tools:</span> Adobe Illustrator, Inkscape, Figma</li>
+                <li><span class="highlight">Optimization:</span> SVGOMG, SVGO</li>
+                <li><span class="highlight">Libraries:</span> D3.js, Snap.svg, SVG.js</li>
+                <li><span class="highlight">Animation:</span> GSAP, Anime.js</li>
+            </ul>
+            
+            <div class="note">
+                <p><span class="highlight">Pro Tip:</span> You can inline SVG directly in HTML for better performance or reference external SVG files with &lt;img&gt;, &lt;object&gt;, or CSS background-image.</p>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <p>SVG Guide &copy; 2023 | Created with pure HTML, CSS, and SVG</p>
+    </footer>
+
+    <script>
+        function showSection(sectionId) {
+            const element = document.getElementById(sectionId);
+            if (element) {
+                element.scrollIntoView({ behavior: 'smooth' });
+            }
+        }
+    </script>
+</body>
+</html>

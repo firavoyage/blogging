@@ -36,11 +36,7 @@ zstyle ':completion:*' verbose true
 zstyle ':completion:*:*:kill:*:processes' list-colors '=(#b) #([0-9]#)*=0=01;31'
 zstyle ':completion:*:kill:*' command 'ps -u $USER -o pid,%cpu,tty,cputime,cmd'
 
-export PATH="$HOME/.cargo/bin:$PATH"
-source "$HOME/emsdk/emsdk_env.sh" > /dev/null 2>&1
-
 function push(){
-
 cd Documents
 cd blogging
 git add .
@@ -84,4 +80,4 @@ zsh jsdoc.sh
 open /home/fira/Documents/blogging/voyagejs/jsdoc/index.html
 }
 
-
+export PATH="$HOME/.local/bin:$PATH"

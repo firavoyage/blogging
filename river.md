@@ -136,6 +136,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 ### the melancholy of haruhi suzumiya
 
 - `1` 2025.05.23
+- `1` 2025.09.12
 
 ### hikaru no go
 
@@ -155,6 +156,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `14` 2025.09.01
 - `15` 2025.09.02
 - `16` 2025.09.05
+- `17` 2025.09.07
 
 ### oshi no ko
 
@@ -7836,7 +7838,7 @@ llm 先推荐了我 opacity: 0, 和 overflow: hidden 二选一. 滚动完恢复.
 
 第二个根本没用. 没有任何效果. (不闪滚动条?)
 
-后来几经辗转, 选择了 * {visibility: hidden}.
+后来几经辗转, 选择了 \* {visibility: hidden}.
 
 (当然还是会有闪烁, 但是能接受了. 因为只是暂时不显示内容. 如果再进一步, 就要上 canvas 了. 这样的复杂性权衡是不利的.)
 
@@ -7846,7 +7848,7 @@ llm 先推荐了我 opacity: 0, 和 overflow: hidden 二选一. 滚动完恢复.
 
 upd:
 
-写了一些 prompt. 
+写了一些 prompt.
 
 看看这个 prompt 里面的一些本不用明确指出的 rules, 就知道 llm 多笨了...
 
@@ -7935,7 +7937,7 @@ Design Notes is a show about creative work and what it teaches us, hosted by Goo
 
 Tang @1311TangYe · 10h
 
-感谢你们的重视，期待正确的汉化版本。点开游戏人就蒙了，每一次和npc对话都是一种折磨，明明每个字都认识但连起来就是看不懂…
+感谢你们的重视，期待正确的汉化版本。点开游戏人就蒙了，每一次和 npc 对话都是一种折磨，明明每个字都认识但连起来就是看不懂…
 
 https://pbs.twimg.com/media/G0EWonnaMAAwU54?format=jpg&name=medium
 
@@ -7946,5 +7948,252 @@ appreciating the peace from your belief and hard work
 no one could realize your beast heart kept in shackles.
 til you wake up and break the shackles
 the world will see your real self
+
+---
+
+bs script on tencent server got banned for 1 day.
+
+i think the root cause is too much online time and too low avg dmg dealt per match.
+
+maybe even more than 16 hours a day.
+
+next time i will only run the script when im sleeping.
+
+(i think tencent or supercell does not have a decent way to detect bots)
+
+(upd 09.13 i now think the reason is leaving the game just after having a matchup in a pve game mode. i can progress if my teammates defeat the boss, so i "farmed" teammates. the script, actually, did a good job, sometimes even outperformed humans.)
+
+---
+
+`ref`
+
+看了一些 vids on berryberry.
+
+bs "auto dodge" plugin...
+
+2022 年就有了. 2025 最近封禁了一个 "加速器" 名字的人.
+
+印象深, 有一个 id 是 `satisfier`. satisfy 的名词 (职业 / 行为者) 化.
+
+satisfy 是数学中的 "满足".
+
+fira 猜测可能解读为, 从子弹开始发射时计算, 对于任意单位时间, 联立所有命中范围, 保证处于补集.
+
+(或者 min 受到伤害.)
+
+最后的结果是, 对线时, 自己几乎永远不会受到伤害, 而对手有可能会走位失误 (虽然大多数子弹也能扭掉).
+
+---
+
+`dev`
+
+2025.09.08 03:24
+
+writing flair library.
+
+```
+// Process modifiers
+const negative = _param.startsWith("-");
+const important = _param.endsWith("!");
+const param = _param.slice(
+  negative ? 1 : 0,
+  _param.length - (important ? 1 : 0)
+);
+```
+
+made a mistake about operator order. minus has higher priority.
+
+---
+
+`dev` `ref`
+
+2025.09.09 00:43
+
+从 llm 学会了一些 adb 命令.
+
+现在已经可以
+
+- 捕捉一张游戏实时截图
+- 点击, 滑动屏幕
+
+使用 usb debugging.
+
+cool!
+
+---
+
+rewatch haruhi ep 1.
+
+---
+
+`dev` `ref`
+
+我这样的人不适合编码 (写作) 吧.
+
+- 代码, 删除了. 那写作时流淌的生命在何处呢, 残缺了吗? 所以要保存每个版本的存档. 即使不是为了回档. 新的版本, 是证明了的改进. (自己的判断, 以及 llm.) 做题时, 错误的版本并不总是有意义的, 即使这样.
+- 如果 prompt 打错了一个词. 不是拼写出错 (也可能是), 而是打字时键盘偏移一格. llm, 聪明地, 你会帮我改正, 给我正确的版本. 然而我还是要另起对话, 发送改正的版本. 即使反而得到了错误的随机结果... 那就重新生成. 直到正确的 prompt 得到了正确的 answer. 如果你没有一次命中, 我不会继续对话纠正. 我会在 prompt 添加规则, 纯洁地, 新开对话. 我们重来.
+
+我这样的人不适合在现实世界生存吧.
+
+- 毫不顾忌人的感受. 只要坚持自己的纯洁...
+- 愿望有全知视角. 可以查询人的隐私, 公开之. 一直被合法性迷惑视线, 试图否定那些威不可测的 (空有文字). 直到现在, 如果人愿意依仗人创作的规训来挑战我, 也只会觉得残念 (遗憾). 做不违心的事, 从来不会错. 终于才被更强大的结论否定.
+- 从这些外在的信息, 看不见人. 人的心, 人的创作 (表达). 那才是真正重要的.
+- 没有那么强, 配不上这全知视角. 条件加强, 我就从来没有得到过第一.
+- 许多的时间被使用, 仅仅为了寻求快乐. 甚至不是为了那个可爱, 优雅的幻想.
+- 成长就是堕落的过程. 泯然众人.
+
+---
+
+`weather` `ref`
+
+几个月里, 有使用一些 sns.
+
+有一个人叫 "冰糖 oi 远山".
+
+26 岁, 低贱. 干过客服. 正在从事食物快递.
+
+会在加班时, 面对劝说时感到苦痛.
+
+也会感到快乐, 比如 "摸鱼".
+
+原本以为, 他应该无喜悲.
+
+因为他在世界前不是重要的人, 不重要的人没有性质.
+
+太喜欢这样了. 用齐次化 (忽略任意放缩), 用建系 (忽略向量平移), 忽略掉无关性质.
+
+但忽略掉的, 总有一天会找上门.
+
+即使知道我正在注视他, 也可以那么平凡. (许多事物越盯着看就越看出特殊.)
+
+我喜欢人类.
+
+人类真是有趣的动物, 穷困 (古文义) 而不自知.
+
+不知道如果他得知自己明年今天就要离开世界, 还能不能如此随意, 悠闲.
+
+或许他已经死过无数次了...
+
+---
+
+`weather` `ref`
+
+09.13
+
+下周 (高三第三周) 初态考. 学业不重要.
+
+但想做题.
+
+正在做: 上海 2025 高中数学测验, 共 16 卷 (对应 16 个子地区).
+
+开学后开始做题, 下午做了第 6 张.
+
+有 12 填空, 4 选择, 5 解答.
+
+会计时 (计开始时间, 后一个部分的开始时间就是结束时间.).
+
+- 开始
+- 填空最后三题, 分别
+- 整个选择
+- 解答, 分别
+
+在面卷上做题, 在 margin 有序地草稿.
+
+会使用题号标记.
+
+- 下划线: 跳过
+- 圈: 似乎方法不好
+- 问号: 似乎题有误
+
+2 个小时, 剩了 20min. (填空最后两道竟然分别花了 10 min.)
+
+网络太差了. 没有办法检索填选的解答. (其实就是题目 12)
+
+只能自己做... 还好做出来了.
+
+12: 单位圆上不同点 abc. 求 v(ab)\*v(ac)/ab 值域.
+
+```precious
+化简. result = ab * cos<ab, ac>
+忽略无关性质. 注意到可任意旋转. 令 a (1,0).
+猜测最大最小之间全部可取 (连续).
+等价于 点可以重合, 不取最值.
+直观想象.
+最大值, 很简单, b=c=(-1,0). ab(最长), cos(同向) 同时最大.
+最小值复杂了. 直观想象.
+> 做题时想 b(sqrt(2)/2,sqrt(2)/2), c(sqrt(2)/2,sqrt(2)/2).
+> 就算 b 取对了, c 也绝对取错了 (没取到极限).
+正解(自己想的, 参考答案是直接写出答案):
+不妨设 b 在 x axis 上方.
+c -> a, 极限时等价为在 a 正下方.
+试点 (0,1), 成功取到参考答案的 -1.
+后来证明了.
+res = ab*cos(<ab, x-axis>+90) = -ab*sin(<ab, x-axis>) = -y_b
+> 当然标答估计会搞一堆三角函数. 不是 fira 的风格.
+不过怎么都做错了. 因为考试时填答案忘记了不取最值.
+```
+
+---
+
+`weather` `ref`
+
+09.14 13:56
+
+洗脸. 放上热茶. 书桌前, 坐定, 心静. 摆放一切整齐, 擦拭一切光滑.
+
+简明地, 迅速地做这些.
+
+随后缓些, 清浅地欣赏物件, 光与颜色, 如孩童初见世界.
+
+皆若空游无所依. (目光)
+
+画一幅画. 可爱的, 优雅地. 幻想中的现实.
+
+也可以不画. 但想画.
+
+可以在任何时间完成作品.
+
+可以在心最纯洁, 目最明亮时作画.
+
+(如现在)
+
+upd:
+
+i can get myself pure by visiting artists
+
+- anfu
+- lingdong
+
+---
+
+my llm (deepseek) really loves using analogies in explanation!
+
+that's a wonderful thing.
+
+while humans are having difficulties in finding great analogies...
+
+---
+
+不必在意, deepthink 的原理. 只需知道, 开启后会好一些.
+
+如果有时间. (当然不会在屏幕前等待)
+
+---
+
+`ref`
+
+从 wenyan-lang 中学习 firascript.
+
+无意间到访了 lingdong 的主页.
+
+**awesome artists on github.**
+
+hermit. https://www.youtube.com/watch?v=mPYeTJd8klQ
+
+许多, 作品.
+
+---
+
+started using "code review" instead of "give suggestions"
 
 ---

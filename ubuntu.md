@@ -231,9 +231,9 @@ sudo apt install gnome-shell-extension-prefs
     - `/usr/share/code/code %F`
   - fcitx5
     - `/usr/bin/fcitx5`
-  - vlc media player
+  - (removed) vlc media player
     - `env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/vlc_vlc.desktop /snap/bin/vlc %U`
-  - solanum
+  - (removed) solanum
     - `flatpak run org.gnome.Solanum`
 
 ## `backup`
@@ -325,6 +325,7 @@ sudo apt install gnome-shell-extension-prefs
         - zhihu `*://www.zhihu.com/*`
         - zhihu article `*://zhuanlan.zhihu.com/*`
         - nga `*://nga.178.com/*`
+    - force google us geolocation
   - bewlybewly https://chromewebstore.google.com/detail/bewlybewly/bbbiejemhfihiooipfcjmjmbfdmobobp
   - wayback machine https://chromewebstore.google.com/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak
     - login
