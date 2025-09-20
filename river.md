@@ -116,6 +116,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `11` 2025.03.07
 - `12` 2025.05.02
 - `13` 2025.08.08
+- `14` 2025.09.19
 
 ### girls band cry
 
@@ -8161,8 +8162,13 @@ upd:
 
 i can get myself pure by visiting artists
 
-- anfu
+- antfu
 - lingdong
+
+upd 2025.09.20:
+
+- shakespeare's sonnets
+- king james version
 
 ---
 
@@ -8195,6 +8201,8 @@ hermit. https://www.youtube.com/watch?v=mPYeTJd8klQ
 ---
 
 started using "code review" instead of "give suggestions"
+
+feeling great!
 
 ---
 

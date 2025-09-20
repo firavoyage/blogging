@@ -186,6 +186,7 @@
   - yuuki sakuna
   - yxc acwing
   - yysuni
+  - zhao-stanley
   - zuozizhen
 - albums
   - heisei anisong taisho
@@ -368,6 +369,7 @@
   - .metaphors we live by (george lakoff & mark johnson)
   - .godel, escher, bach (douglas hofstadter)
   - .shakespeare's sonnets (william shakespeare)
+  - .the holy bible (king james version)
   - .over autumn rooftops (hai zi)
   - .nameless flowers (gu cheng)
   - .stray birds (rabindranath tagore)
@@ -436,18 +438,21 @@
   - internet archive · archive.today · the pirate bay · z library · anna's archive
   - youtube · berryberry · acfun · niconico · vtbs.moe · hololist
   - reddit · twitter · zhihu · nga bbs · baidu tieba
-  - hacker news · v2ex · linux.do · github trending · product hunt · codepen spark
+  - hacker news · v2ex · github trending · product hunt · codepen spark · growth.design
   - douban · imdb · bangumi.tv · my anime list · bgmlist · mikan project · nyaa.si · dmhy.org · zimuku · yuc.wiki
   - pixiv · deviantart · civitai · e hentai · dribbble · unsplash
   - steam db · itch.io · google doodles · vndb · shinnku galgame · kungal · touchgal
   - codeforces · atcoder · luogu · libre oj · project euler
   - travellings.cn · foreverblog.cn · travel.moe · acmer.info
 - portals
+  - casio mth-1060 watch
   - lenovo yoga 13s acn 2021
   - smartisan revolution ii
+  - casio fx-991cw classwiz scientific calculator
   - oneplus buds 3
   - oppo enco free 3
-  <!-- - logitech wireless mouse m185 -->
+  - 3m 1100 foam earplugs
+  - (using touchpad instead) logitech wireless mouse m185
 - on ubuntu 24
   - android-studio
   - blender
