@@ -1,1 +1,1 @@
-node bundler.js input.html output.html
+node Documents/f/libraries/bundler.js input.html output.html

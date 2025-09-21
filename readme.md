@@ -84,8 +84,10 @@
   - gaearon dan abramov
   - gaou
   - grant sanderson 3blue1brown
+  - gus brawl stars
   - hakadao
   - haoel
+  - helena adams identity v
   - henrilechatnoir
   - himself65
   - hitori gotoh
@@ -133,6 +135,7 @@
   - mrcongliu
   - mugumogu maru
   - nahida
+  - naib subedar identity v
   - nat friedman
   - nayuki
   - nickel_angel
@@ -185,9 +188,7 @@
   - yunyoujun
   - yuuki sakuna
   - yxc acwing
-  - yysuni
   - zhao-stanley
-  - zuozizhen
 - albums
   - heisei anisong taisho
   - kyoto animation
@@ -429,6 +430,7 @@
   - pt serif
   - resource han rounded
   - roboto
+  - stix two math
   - ubuntu sans
   - xits math
   - zhi mang xing
@@ -960,3 +962,7 @@
 > 操作复杂的游戏或许有激情，力不从心
 
 > why? coz actually everything is optionated. (except two same pure fn where only performance differs)
+
+> 钱, 最好地, 买时间. 自己的时间, 和人的时间.
+
+> i love jsdoc. i dislike typescript.

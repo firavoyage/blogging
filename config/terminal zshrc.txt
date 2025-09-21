@@ -93,4 +93,25 @@ cd ..
 cd ..
 }
 
+release() {
+    file="$1"
+    case "$file" in
+        *.js)
+            terser "$file" -o "${file%.js}.min.js" -c -m
+            ;;
+        *.html)
+            temp_file="$(dirname "$file")/temp.html"
+            node "$HOME/Documents/f/libraries/bundler.js" "$file" "$temp_file"
+            html-minifier --remove-comments --minify-css --minify-js \
+                --collapse-whitespace --conservative-collapse \
+                "$temp_file" -o "${file%.html}.min.html"
+            rm -f "$temp_file"
+            ;;
+        *)
+            echo "Unsupported file type: $file" >&2
+            return 1
+            ;;
+    esac
+}
+
 export PATH="$HOME/.local/bin:$PATH"
