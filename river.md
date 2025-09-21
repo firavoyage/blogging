@@ -117,6 +117,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `12` 2025.05.02
 - `13` 2025.08.08
 - `14` 2025.09.19
+- `15` 2025.09.20
 
 ### girls band cry
 
@@ -8206,12 +8207,26 @@ feeling great!
 
 ---
 
-birthday. 
+birthday.
 
 present: seagate 2tb hdd
 
 started repo f, resources on github, gitlab, gitea, gitee.
 
 gitea has a limit of 5 repos?!
+
+---
+
+played idv and bs a lot.
+
+in brawlstars, love gus most.
+
+in identity v, love helena adams most. (naib is also great)
+
+---
+
+started using script on sv.
+
+(how many scripts have i met when im playing myself!)
 
 ---

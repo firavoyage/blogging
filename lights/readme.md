@@ -1,6 +1,8 @@
+<!-- todo: web, ruanyf -> lights -->
+
 # pages on the internet
 
-> these are pages mostly from `repo_web`, a legacy repo i used to archive pages in 2024, which are most in mhtml format, now converted to markdown and listed here
+> these are pages mostly from `repo/web`, a legacy repo i used to archive pages in 2024, which are most in mhtml format, now converted to markdown and listed here
 >
 > other pages are links from ruanyf weekly
 >
