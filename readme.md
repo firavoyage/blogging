@@ -354,6 +354,7 @@
   - letter to da zhuang (miao wei)
   - liu qing's lectures on modern western thought (liu qing)
   - a long gaze (lung yingtai)
+  - dream of the red chamber (cao xueqin)
   - hackers and painters (paul graham)
   - integer overflow: the development, prosperity and decline of olympics in informatics (xu xiling)
   - refactoring ui (adam wathan & steve schoger)
@@ -430,6 +431,7 @@
   - pt serif
   - resource han rounded
   - roboto
+  - source sans 3
   - stix two math
   - ubuntu sans
   - xits math

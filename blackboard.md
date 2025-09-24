@@ -14,13 +14,23 @@
   - a b+ b b- c+ c c- d+ d `10%`
   - e `5%`
 - full marks
-  - 120 each one except g1t2 fin
-  - 100 g1t2 fin
+  - ch eng math
+    - 150 g3
+    - 140 g3t1 sept eng
+    - 120 g1t1 ~ g2t2 except g1t2 fin
+    - 100 g1t2 fin
+  - phy che geo
+    - 100
 - format
   ```
   - grade x term y
     - monthly exam
       - player `sum place chinese math english`
+  ```
+  ```
+  - grade x term y
+    - monthly exam
+      - player `sum place chinese math english physics chemistry geography`
   ```
 - g2t1 class division
   - fira `class 4` (took: physics chemistry geography)
@@ -111,6 +121,10 @@
     - jin luochen `251.5`
     - gui minghao `_ _ 113 a+#1 _`
     - on 20250618 20250619 20250620
+- g3t1
+  - sept
+    - fira `288 a 87 c- 115 a 86 b+ 33 d+ 16 e 38 d`
+    - on 20250915 20250916
 
 ## jhs fin (hs entrance exam)
 
