@@ -8230,3 +8230,22 @@ started using script on sv.
 (how many scripts have i met when im playing myself!)
 
 ---
+
+wtf.
+
+time killer.
+
+see f/drafts/... merge
+
+---
+
+playing idv.
+
+盲女太好玩啦! (目前求生者 3 阶)
+
+- 排位模式
+- 发送 "玩四修机位"
+- 发送 "场数重要"
+- 发送 "这个段位输赢都加分"
+
+---
