@@ -655,11 +655,10 @@ sudo apt install gnome-shell-extension-prefs
 - config account
   - username `f`
   - password `firafira`
-- config
-  - transparent proxy/system proxy `same as the rule port`
-  - traffic splitting mode of rule port `proxy only gfwlist`
 - config proxy nodes
   - repos of free nodes
+    - (if needed) bing global search: "github mirror"
+    - github search: "free nodes"
     - https://github.com/aiboboxx/v2rayfree
       - https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
     - https://github.com/adiwzx/freenode/
@@ -670,6 +669,7 @@ sudo apt install gnome-shell-extension-prefs
       - https://raw.githubusercontent.com/mksshare/mksshare.github.io/main/README.md
     - https://github.com/chengaopan/AutoMergePublicNodes
       - https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.txt
+    - https://github.com/Barabama/FreeNodes/
   - github raw mirrors
     - ref https://www.7ed.net/gitmirror/hub.html
     - proxy.v2gh.com/https://raw.githubusercontent.com/
@@ -681,12 +681,15 @@ sudo apt install gnome-shell-extension-prefs
     - raw.fastgit.org
   - sites of freemium nodes
     - https://ikuuu.one/ (ikuuu.top) (find@ikuuu.pro)
-  - converter from clash to v2ray subscription
+  - subscription converter from clash to v2ray
     - https://clash.rokeyyan.com/
     - https://v2.v2rayse.com/clash-convert/
     - https://github.com/tindy2013/subconverter
-  - custom proxy site builder
+  - (advanced) custom proxy site builder
     - https://github.com/Anankke/SSPanel-Uim
+- config proxy rule
+  - transparent proxy/system proxy `same as the rule port`
+  - traffic splitting mode of rule port `proxy only gfwlist`
 
 ## `thunderbird`
 

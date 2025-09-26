@@ -6,7 +6,7 @@
 
 > $lucky \space \text{☆} \space star!$
 
-> _just let time be precious..._
+> _just let time be 𝓅𝓇ℯ𝒸𝒾ℴ𝓊𝓈 💖_
 
 > 🍅 ⏲️ $solanum$
 
@@ -15,6 +15,8 @@
 > 🌕 💤 💤 💤 $\text{early (?)}$
 
 > _忘 我 思 考_
+
+> _物 哀_
 
 > _慕 强._
 
@@ -323,6 +325,7 @@
   - shadowverse: worlds beyond (2025)
   - vrchat (2014)
   - identity v (2018)
+  - gacha party (2025)
   - .earth online
   - .terraria (2011)
   - .the legend of zelda: tears of the kingdom (2023)
@@ -433,6 +436,7 @@
   - roboto
   - source sans 3
   - stix two math
+  - stix two text
   - ubuntu sans
   - xits math
   - zhi mang xing
@@ -968,3 +972,13 @@
 > 钱, 最好地, 买时间. 自己的时间, 和人的时间.
 
 > i love jsdoc. i dislike typescript.
+
+> 一生懸命に
+> 
+> さあ　星の子たちよ　よくお眠りなさい
+> 
+> えい　めんどくさいね　るびー
+>
+> にしても　あいつよくあんな本気で遊べるな
+>
+> アクアは役者さん？
