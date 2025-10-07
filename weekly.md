@@ -13,7 +13,74 @@
 
 > things, not schedule.
 
-## 20250905 
+## 20250928
+
+### _foresight_
+
+- learn japanese
+- practice math
+- create math vids with pre, precious and material
+- read (light) novels
+- watch bangumis
+- play go
+- surf zhihu / berryberry / twitter
+- categorize web and ruanyf.md into `blogging/lights`
+- categorize berryberry fav, zhihu fav
+
+### _day_
+
+- learn japanese on duolingo
+<!-- - memorize japanese words on anki -->
+- practice math problem solving on uee mock test papers
+- learn physics, chemistry, geography from textbooks
+- practice physics, chemistry, geography on stepping into the graded exams
+
+### _night_
+
+- read snow country
+- watch simplelive
+- watch the hikaru no go
+- watch evangelion
+- watch the melancholy of haruhi suzumiya
+- watch bocchi the rock
+
+### _enlightenment_
+
+- create math vids with pre, precious and material
+- write math wiki on project pure
+- write japanese learning wiki on project leisure
+- write go tutorials
+- learn algorithms on luogu
+- read mathematical olympiad series
+- read mathematics, no 2 secondary school attached to ecnu
+
+### _endeavour_
+
+- revise projects.md
+- create pre app
+- create material app
+- create eat app incl. berryberry rework
+- create vtbsol game
+- create fate fairy game
+- create leisure app
+- curate world goods list on project awesome
+- curate artists on berryberry on project awesome
+
+### _diversion_
+
+- play go on foxwq
+- play vid games
+- surf zhihu / berryberry / twitter / telegram channels
+- play senrenbanka
+- create origamis imitating chen xiao's works
+
+### _rest_
+
+- listen to j-pop
+- archive zhihu / berryberry favorites
+- sync with the phone
+
+## 20250905
 
 ### _foresight_
 
