@@ -275,6 +275,7 @@
 >
 > internet treasure hunting guide curated by human
 
+- artists on berryberry!
 - world goods list
 - social media channel
 - chinese society movement dates
@@ -534,9 +535,35 @@
 
 ## play
 
+### `lsv`
+
+> (libre shadow verse) "斩杀油腻宅大叔"
+
+- an opensource shadow verse implementation
+- features
+  - 错斩了吗? by bfs
+- inspired by
+  - shadow verse
+  - yokidou
+  - dusk farmost kuharu
+  - kagura mea
+
+### `fatefairy`
+
+> stardew valley: fate fairy, a single player self moving chess
+
+- game
+  - strategy
+  - collection
+  - ~~sightseeing~~
+  - ~~visual novel~~
+- inspired by
+  - honkai
+  - stardew valley
+
 ### `vtbsol`
 
-> vtubers online, a rts tower defence game
+> (notice that it's ol, not irl) vtubers online, a rts tower defence game
 
 - modes
   - pve (levels and maps)

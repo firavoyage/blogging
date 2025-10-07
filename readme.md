@@ -8,6 +8,18 @@
 
 > _just let time be 𝓅𝓇ℯ𝒸𝒾ℴ𝓊𝓈 💖_
 
+> _また　負けましたね　ふぁいら (ファイラ)_
+
+> 一生懸命に
+
+> さあ　星の子たちよ　よくお眠りなさい
+>
+> えい　めんどくさいね　るびー
+>
+> にしても　あいつよくあんな本気で遊べるな
+>
+> アクアは役者さん？
+
 > 🍅 ⏲️ $solanum$
 
 <!-- > 🌕 💤 💤 💤 $\text{23:00}$ -->
@@ -21,6 +33,10 @@
 > _慕 强._
 
 > _技 ☆ 巧 ☆ 性_
+
+> _心 流_
+
+> _毋负今日_
 
 > _code artist_
 
@@ -62,6 +78,7 @@
   - cynicism · dissociation · inner speech · second person omniscient narration
 - personas
   - acetaffy812
+  - ada mesmer identity v
   - adamwathan
   - anlin zhihu
   - antfu slidev
@@ -73,6 +90,7 @@
   - chiyuki0325
   - chriscoyier
   - chtholly nota seniorious
+  - cmfbynothing
   - codingstartup
   - cosmicac 2o181o28
   - darkf1ames
@@ -149,6 +167,7 @@
   - potetomj
   - probiusofficial
   - ramsayleung
+  - ramsayleung
   - ruanyf
   - saiba momoi
   - sama sam altman
@@ -181,8 +200,9 @@
   - wanderer above the sea of fog
   - wesbos
   - wu songlei paperclip
-  - xiaoyaocz
+  - xiaoyaocz simplelive
   - xkcd
+  - xpzouying
   - xuegao cheese
   - yifusuyi
   - yokidou
@@ -194,6 +214,7 @@
 - albums
   - heisei anisong taisho
   - kyoto animation
+  - the well-tempered clavier (johann sebastian bach)
   - neon genesis evangelion (shiro sagisu)
   - the girl who fell from the sky (joe hisaishi)
   - yosuga no sora ost (manack & eufonius & bruno wen li)
@@ -326,6 +347,7 @@
   - vrchat (2014)
   - identity v (2018)
   - gacha party (2025)
+  - douyin (2016)
   - .earth online
   - .terraria (2011)
   - .the legend of zelda: tears of the kingdom (2023)
@@ -384,6 +406,7 @@
   - .remarks on the song lyric and the human condition (wang guowei)
   - .the literary mind and the carving of dragons (liu xie)
   - .the smiling, proud wanderer (jin yong)
+  - .snow country (yasunari kawabata)
 - echoes
   - anyway.fm (jj ying & leon gao)
   - beyond code (randy lu & geek plux)
@@ -412,6 +435,7 @@
   - just black chromium
 - fonts
   - ar pl ukai
+  - cormorant
   - cuprum
   - dejavu serif
   - eb garamond
@@ -444,7 +468,7 @@
   - google · chatgpt · gemini · deepseek · mistral ai
   - wikipedia · miraheze · fandom · moegirl.icu · oi wiki · mdn
   - internet archive · archive.today · the pirate bay · z library · anna's archive
-  - youtube · berryberry · acfun · niconico · vtbs.moe · hololist
+  - youtube · berryberry · douyin · niconico · vtbs.moe · hololist
   - reddit · twitter · zhihu · nga bbs · baidu tieba
   - hacker news · v2ex · github trending · product hunt · codepen spark · growth.design
   - douban · imdb · bangumi.tv · my anime list · bgmlist · mikan project · nyaa.si · dmhy.org · zimuku · yuc.wiki
@@ -557,7 +581,6 @@
   - fossify-voicerecorder
   - gboard
   - k9-mail
-  - kuaishou
   - legado
   - material-files
   - metro
@@ -565,7 +588,6 @@
   - musictag
   - nekogram
   - onscripter-yuri
-  - rednote
   - retouch
   - simplelive
   - snapseed
@@ -716,22 +738,23 @@
 
 ### here, in `blogging`
 
-- `ruanyf` observation of the digital time
 - `river` some smoother pebbles
 - `weekly` everyday life
 - `projects` wonders and endeavors
 - `ubuntu` digital home decor
 - `blackboard` wax and wane
-- `quotes` (legacy) excerpts of the internet
-- `comments` (legacy) trival things i have heard as a student
-- `wisdom` (legacy) stuff in the mind flow
-- `mistral` (legacy) walk in the light with llm
-- `/lights`
+- `ruanyf` observation of the digital time
+- `lights/`
+  - `readme` the catalog
   - `livid` letter to the solitary youth
   - `nat` belief of a tech entrepreneur
   - `florio` advice for the programming ride
   - `jiangyanyan` confused cs graduates in the time
   - ...
+- `quotes` (legacy) excerpts of the internet
+- `comments` (legacy) trival things i have heard as a student
+- `wisdom` (legacy) stuff in the mind flow
+- `mistral` (legacy) walk in the light with llm
 
 ## projection
 
@@ -750,8 +773,8 @@
   - duolingo `firavoyage`
 - - youtube `firavoyage`
   - berryberry `一番のFira` (legacy: `Fira_言序`) `1156993272`
+  - douyin `firavoyage`
   - acfun `忘我思考` `65210945`
-  - rednote (digdog, kwai) `firavoyage`
   - opensea `firascript`
 - - twitter `firascript`
   - telegram `firavoyage`
@@ -800,8 +823,6 @@
 > $so \space much \space for \space this, \space have \space a \space nice \space day.$
 >
 > _以上 / 祝你度过智识的, 审美的一天_
-
-> _毋负今日_
 
 > f 的愿望... 记住 f, 成为 f. 这也是对 f 自己说的.
 
@@ -973,12 +994,10 @@
 
 > i love jsdoc. i dislike typescript.
 
-> 一生懸命に
-> 
-> さあ　星の子たちよ　よくお眠りなさい
-> 
-> えい　めんどくさいね　るびー
->
-> にしても　あいつよくあんな本気で遊べるな
->
-> アクアは役者さん？
+> 钱不是省出来的, 顺境中的想法, 充满希望的时代.
+
+> 任何廉价的劳动力, 都是很厉害的, 只要他穿上永雏塔菲的衣服. 她本该, 早该被封禁吧! 如果外人看到这样的王牌级 vtuber, 她会如何想象 v 圈? 世界在人的心中展现出不同的风度. 如果说, 前人看来, 这个时代就是邪恶的. 那, 在其中, 夸大, 扭曲, 哗众, 取宠, 把低贱的现实化为高贵的幻想. 最邪恶的人, 就是时代精神的象征. 雏草姬的一级灯牌, 就是 fira 与时代的联系.
+
+> 心情, 与天气, 精神, 强相关. 本一时之状态, 却总想联系长远的处境, 似象征.
+
+> 越来越觉得. 人类虚度大部分的光阴, 只是在几个片刻认真. 牛顿, 爱因斯坦, 如果不是他们, 也会有其他人. fira 亦然.

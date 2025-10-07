@@ -100,12 +100,16 @@ release() {
             terser "$file" -o "${file%.js}.min.js" -c -m
             ;;
         *.html)
-            temp_file="$(dirname "$file")/temp.html"
-            node "$HOME/Documents/f/libraries/bundler.js" "$file" "$temp_file"
+            bundled_file="${file%.html}.bundled.html"
+            minified_file="${file%.html}.bundled.min.html"
+
+            # Create bundled HTML
+            node "$HOME/Documents/f/libraries/bundler.js" "$file" "$bundled_file"
+
+            # Create minified version from the bundled HTML
             html-minifier --remove-comments --minify-css --minify-js \
                 --collapse-whitespace --conservative-collapse \
-                "$temp_file" -o "${file%.html}.min.html"
-            rm -f "$temp_file"
+                "$bundled_file" -o "$minified_file"
             ;;
         *)
             echo "Unsupported file type: $file" >&2

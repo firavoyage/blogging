@@ -232,6 +232,7 @@ sudo apt install gnome-shell-extension-prefs
   - fcitx5
     - `/usr/bin/fcitx5`
   - backups
+  - goldendict
   - (removed) vlc media player
     - `env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/vlc_vlc.desktop /snap/bin/vlc %U`
   - (removed) solanum
