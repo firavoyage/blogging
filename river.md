@@ -121,6 +121,10 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `16` 2025.09.25
 - `17` 2025.09.30
 - `18` 2025.10.07
+- `19` 2025.10.07
+- `20` 2025.10.07
+- `21` 2025.10.11
+- `22` 2025.10.12
 
 ### girls band cry
 
@@ -183,6 +187,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `1` 2025.08.21
 - `2` 2025.08.23
 - `3` 2025.08.30
+- `4` 2025.10.11
 
 ## gaming
 
@@ -517,11 +522,11 @@ accidentally read the first digital text recorded diary. (although before it the
 
 i remember it was a foreign teacher's class in grade 10. (maybe the last class in term 1?) some students made an address. i didnt remember what the topic is. but i considered it a year end summary. i read it in front of my (grade 10) class.
 
-(ruanyf's blog hava a summary each year. codeforces held goodbye _year contest.)
+(ruanyf's blog hava a summary each year. codeforces held goodbye \_year contest.)
 
 i remember jiangly made a contest record (about 2h) on berryberry. the problems that year are not well received. i could not understand any of jiangly's code. i could only remember that she used the vector frequently which ive never used. i could only use builtin array like {1,2,3}. all complex data structure will be impl by myself.
 
-oi? really? have i ever worked out one difficult problem? 
+oi? really? have i ever worked out one difficult problem?
 
 attempt to build frndship?
 
@@ -8432,7 +8437,7 @@ google 27th anni.
 
 ---
 
-`weather` `dev`
+`weather` `dev` `ref`
 
 sv: 斩杀油腻宅大叔.
 
@@ -8602,7 +8607,7 @@ a long journey...
 
 playing idv
 
-回坑第五人格. 
+回坑第五人格.
 
 (上上次退坑, 好像出了疯眼, 以为无敌, 结果买后发现不行, 退坑了.)
 
@@ -8630,7 +8635,7 @@ playing idv
 - 勘探
 - 击球
 
-第五人格是一个支持电脑与手机的 5 人 moba 游戏. 
+第五人格是一个支持电脑与手机的 5 人 moba 游戏.
 
 1 屠夫 v 4 人类. 追逃玩法.
 
@@ -8668,7 +8673,7 @@ playing idv
 
 如果开局被屠夫首抓, 几乎可以确定排名垫底. (并且几乎不会有优秀操作分.)
 
-因为其他三位队友可以在同样可以牵制的基础上, 有很多额外的破译分. 
+因为其他三位队友可以在同样可以牵制的基础上, 有很多额外的破译分.
 
 而 200 分 (开局挂机) 与 3000~4000 分 (牵制 60s), 在必败与必垫底情况下几乎没有差别.
 
@@ -8678,7 +8683,7 @@ playing idv
 
 开局敲盲杖看监管者位置, 去地图边界障碍物后或者柜子里躲起来.
 
-如果屠夫追击自己, 观察对手角色是否为弱势屠夫之一. 
+如果屠夫追击自己, 观察对手角色是否为弱势屠夫之一.
 
 如果是, 尝试前往版窗, 使用天赋拉点牵制. 不博弈, 直接下板.
 
@@ -8700,7 +8705,7 @@ from 2025.08.12 to 2025.10.02
 
 不过, 最关键的哪里是这篇文稿呢!
 
-upd a day later: 
+upd a day later:
 
 published on berryberry and youtube, not digdog.
 
@@ -8734,9 +8739,9 @@ and im not willing to raise the quality coz the problem set itself is bad.
 
 https://www.bilibili.com/video/BV1L9pMzZEtk/
 
-AI辅助的经验分享
+AI 辅助的经验分享
 
-4.5万
+4.5 万
 77
 2025-09-15 18:15:07
 
@@ -8744,9 +8749,9 @@ AI辅助的经验分享
 
 关注 348
 
-comments: 
+comments:
 
-感觉up这是把ai绘图当渐变映射用了
+感觉 up 这是把 ai 绘图当渐变映射用了
 
 ---
 
@@ -8768,7 +8773,7 @@ comments:
 
 一局, 玩 5 分钟以上. 匹配等待, 尽管在做别的事情, 也要几分钟.
 
-我没有那么多局数. 
+我没有那么多局数.
 
 很多时候, 两个小时, 没有一把明确能赢的局面. (即使选择盲女, 无干扰修机.)
 
@@ -8806,11 +8811,11 @@ it's a great game. im still playing it and i could sometimes win.
 
 k 与 a 不连接. (否则环上一切等价, 思维, 毫无意义)
 
-elegance. (heart) 
+elegance. (heart)
 
 ---
 
-yokidou: 
+yokidou:
 
 都 30 岁老男人了.
 
@@ -8844,7 +8849,7 @@ fira: "lsv" (libre shadow verse)
 
 yokidou: 我们高达那玩意她没过审啊, 舞萌她过审了啊.
 
-这街机苏州有, 广州有, 上海没有. 
+这街机苏州有, 广州有, 上海没有.
 
 上海那老板喜欢音游, 舞萌痴啊.
 
@@ -8872,9 +8877,9 @@ yokidou:
 
 打了 50 min idv.
 
-在求生者五阶v 上了一颗星.
+在求生者五阶 v 上了一颗星.
 
-从历史战绩总结规律: 
+从历史战绩总结规律:
 
 如果监管者, 掏出了一个 90 胜率角色, 那几乎开局必败. (有很多这样的追击屠. 分布根本不均匀.)
 
@@ -8958,7 +8963,7 @@ idv.
 
 (胜率 = 胜利 / 总数 - 平局)
 
-或许盲女的 40 胜率很多时候来源于没有区域选择, 监管运气不好没有抓我. 
+或许盲女的 40 胜率很多时候来源于没有区域选择, 监管运气不好没有抓我.
 
 所以将来也许会换成囚徒和律师.
 
@@ -8968,7 +8973,7 @@ idv.
 
 毕竟真的有很多场监管不选择我旁边的, 即使有区选, 不知为何.
 
-天赋几乎都带 ?? (弹射, 飞轮) 或者 ? (弹射, 无敌). 
+天赋几乎都带 ?? (弹射, 飞轮) 或者 ? (弹射, 无敌).
 
 选择后者, 因为飞轮很需要操作.
 
@@ -9039,3 +9044,657 @@ cool happy idv. yokidou.
 设置: 弹幕最大行数 = 1.
 
 ---
+
+project awesome.
+
+"这个世界的人类真的很少诶... 一张表就列完了."
+
+---
+
+10.07 20:55
+
+在求生五阶 v 连续打 6 把 (历史战绩一屏) 的排位.
+
+输的 5 把里, 有 4 把监管者胜率 90% 以上, 或者有 A 牌.
+
+有一把半胜率小丑, 但是开局舞女修机震慑.
+
+唯一一把平局, 打半胜率厂长, 我佣兵牵制. (就放怨火逼转点, 然后道具交完)
+
+角色都是佣兵和心理.
+
+(有一把打红蝶压机压炸了. 最后只有我开门逃跑. 但也赢不了. 三人开门战, 红蝶击倒, 自起救人. 红蝶把人一刀, 然后挂飞. 两个人至少能留一个.)
+
+---
+
+`weather`
+
+开始, 一直使用数据流量 / "热点" 上网.
+
+(除了一次性资源包下载)
+
+家中的 wifi 桥接, 不稳定. (wifi 本身亦然.)
+
+最终拒绝迎合.
+
+钱, 最好地, 用于买时间.
+
+---
+
+`ref`
+
+chiyuki has removed a lot of vids on her berryberry acc.
+
+i d like to view them via the internet archive.
+
+asked llm, telling me to add \_id, \_im after the timestamp
+
+which does not work.
+
+finally, i googled, and i got https://archive.org/post/2433395/where-do-you-find-saved-screenshots
+
+https://web.archive.org/web/20250000000000*/https://web.archive.org/screenshot/https://space.bilibili.com/485832788
+
+https://web.archive.org/web/20220424202659/http://web.archive.org/screenshot/https://space.bilibili.com/485832788/
+
+oh. about 200 vids on super mario.
+
+and a vid about adding genshin impact support on linux, which is why i found her on the internet. (i read a blogpost of her, the text version of that vid from google)
+
+a lot of vids about single machine sandbox games like terraria, minecraft.
+
+upd: 
+
+https://web.archive.org/web/20251010105931/http://web.archive.org/screenshot/https://space.bilibili.com/1156993272
+
+login prompt?!
+
+failed. (maybe there's other platforms based on fetcher, or something like old reddit. but im not gonna try it.)
+
+---
+
+`ref`
+
+created a list of menci and chyk twitter posts!
+
+https://x.com/i/lists/1975941573444788676
+
+---
+
+Menci 💖
+@lcMenci
+·
+Sep 14
+感觉我也很需要这个东西）
+
+Lex Tang
+@lexrus
+有什么推特总结服务，让我一周只用周末刷一次推就够了？
+比如这周中文推就这些主题：
+
+1. 纠结买哪一款 iPhone
+2. 站队西贝还是罗永浩
+3. 滴水湖招开发月薪 15k
+4. 户晨风入月 60 万
+5. Claude Code 还是 Codex
+
+4:17 PM · Sep 14, 2025
+·
+81.1K
+Views
+
+---
+
+`ref`
+
+https://www.bilibili.com/video/BV147411K7xu
+
+高中数学基础与解法全集（涵盖所有）|长期更新|从零开始拯救所有学渣！2025 年新视频持续更新中！|涵盖新教材必修一必修二选必一选必二选必三|看完视频记得刷题练习
+2.0 亿
+291.4 万
+2020-02-26 18:40:44
+
+一数
+
+高中各科优质免费资源，尽在“一系列”！公众号「一数儿」，优秀老师想加入一系列可加 VX：bilibiliyishu（请备注）
+
+已关注 2138.3 万
+
+comments:
+
+我记得我刚关注一哥的时候才六百多粉 现在都四千多 看着一哥一点一点变强（秃 特开心[tv_doge][tv_腼腆]
+2020-02-26 21:07
+
+一数
+
+[doge]铁粉中的钢筋混泥土
+2020-02-26 21:19
+
+现在一万六 半个月涨粉一万[OK]
+2020-03-16 08:04
+
+两万四了
+2020-03-20 19:55
+
+3.7w 了
+2020-04-05 13:36
+
+4.2 万了
+2020-04-09 09:54
+
+4.8w 啦
+2020-04-14 14:25
+
+5.0w 啦
+2020-04-16 22:17
+
+5.9w！
+2020-04-25 21:48
+
+---
+
+https://www.bilibili.com/video/BV1Xx411y7vU/
+
+编程实现自动扫雷，我发现了惊天秘密！
+全站排行榜最高第 2 名
+159.0 万
+4287
+2017-02-26 10:42:53
+
+魔法小分队队长
+发消息
+这辈子粉丝数目也上不了 30 万
+
+已关注 28.0 万
+
+comments:
+
+百万播放量预感
+2017-02-26 11:15
+
+我也实在不是谦虚，就看目前这个趋势，估计播放量上十万都困难。
+2017-02-26 12:55
+
+现在才 4000 所
+2017-02-26 18:13
+
+回复 @yxlllc : 感觉现在这趋势很不妙啊，在线人数越来越少，播放量连 1 万都没上。难道真是越用心做的视频越不火吗？真是蓝瘦香菇。
+2017-02-27 04:52
+
+已经 6.1 万里
+2017-02-27 22:24
+
+11 万播放，5202 硬币，4756 收藏~ε=ε=(ノ ≧∇≦)ノ
+2017-02-28 00:40
+
+现在这个视频的播放量估计过不了百万了，除非再次上首页呆一天以上，但对于一个投稿很长时间的作品显然是不可能的。
+2017-03-14 14:10
+
+91.6 万，你感觉怎么样
+2018-11-29 13:03
+
+2019 年了，93.1 万了，你低估了时间的力量
+2019-01-09 18:52
+
+现在 119.4 万了
+2019-11-01 10:02
+
+133.3 了怎么说
+2019-12-26 11:05
+
+146 万了
+2020-08-04 15:38
+
+2021 考古，153 万了
+2021-11-14 12:38
+
+158.4 万[打 call][打call][打 call]
+2025-01-11 14:09
+
+其实一开始我这个视频的标题是：“自动扫雷程序研究胜率与地雷密度的关系。”然后我当时有几千个粉丝，所以一开始在线人数还能维持在30多，但过了一个小时就掉到了五六个，再后来就没人了，第一天过去，播放量刚刚上千。后来我就把标题改成了现在的这个，改完之后一个小时在线人数又回到30多个了，然后突然就上了推荐，在线人数飙到了几百，于是这个视频才火了。
+所以说，标题是多么的重要。
+2017-03-04 09:30
+
+说真的，像UP这种充满干货的视频，我被标题吸引进来看完後也是心悦诚服。可问题是，我逛B站下来，一天能被震撼6次、男默女泪5次，成为99%人的其中一个2次，成为另外1%的人3次，诸如此类，数不胜数......
+标题党们，好好学习一下这个UP主吧（叹）
+2017-02-28 21:15
+
+说实话一开始我的标题是: 自动模拟扫雷算法以及模拟结果，一个小时之后就没人看了。
+2017-02-28 21:18
+
+本视频已上2018拜年祭，在此发来贺电。
+2018-02-15 18:43
+
+---
+
+`weather` `ref`
+
+在家真好啊.
+
+学校, 作为体制的一部分, 充满权衡的地方.
+
+听不懂, 或者过于简单, 很多了. 
+
+甚至这样的学生根本不会被在意.
+
+老师们, 为什么要认真呢, 即使有因材施教的条件 ("一对一").
+
+那些睡觉的, 带着耳机的. 他们为什么不得不坐在这里呢...
+
+可能不够幸运吧. "我" 的水平, 并不恰好是老师预想的学生.
+
+(模拟测试中) 好像没什么长进呢. (不在于分数与排名, 只是, 一些, 还是不会.)
+
+又输了啊.
+
+这些只是关于学习知识.
+
+有些老师会把答案打印好. 有些只是发布电子版, 甚至照片.
+
+请求时, 得到的不过是刻薄 (tart), 不该意外的, 一直是这样的性格啊.
+
+迎合的话, 这不好吧.
+
+fira 不应该与愚蠢的人, 虚伪的人相处.
+
+其实, 那些事情, 既不是对的, 也并非无奈之举. 为什么, 一定不承认吗?
+
+强权, 是人的选择. (与 "我" 无关)
+
+只是, 如果不真诚, 那就算了.
+
+即使如此. 
+
+"没有压力地活着. 做想做的事情. fira 也可以."
+
+(好朴素的文字)
+
+---
+
+surfing...
+
+https://www.bilibili.com/video/BV1osxYzvEHW/
+
+【苹果那些失败设计】创意很顶级 错误很低级
+
+13.4万
+1087
+2025-10-08 18:02:51
+
+六分超超
+ 发消息
+学艺术的，不懂数码
+
+已关注 86.8万
+
+文案太厉害了. 呼应!
+
+---
+
+`gaming` `ref`
+
+idv.
+
+第五人格是一个 1v4 竞技游戏.
+
+一个屠夫抓四个人类. 
+
+屠夫比人类跑得快. 
+
+但人类有技能, 可以飞天, 遁地, 跑得快, 还可以让屠夫动不了, 发不了威.
+
+屠夫也有技能, 可以把人类关起来, 抓过来, 减速掉血.
+
+在屠夫抓人的时候, 没有被抓的人类可以破译密码机.
+
+在地图里的 7 台密码里破译完成 5 台, 然后就可以开门逃生, 有时也可以跳地窖.
+
+监管者把人类抓住了, 可以挂椅子放飞, 挂一段时间就淘汰了.
+
+注意这个主播, 他在玩屠夫, 已经匹配 5 分钟了.
+
+同时这四个主播, 他在玩人类, 也已经匹配 5 分钟了, 段位都是一样的.
+
+又过了 5 分钟, 亦然.
+
+为什么他们没有被匹配到一起呢? 我不知道.
+
+在无聊的等待中, 他们往往会再开启一个第五人格, 登录另一个账号.
+
+然后打开排行榜大神观战, 看人玩.
+
+为什么要再开一个第五人格呢? 这就是游戏开发商的巧思.
+
+写这些因为我基本上退游了.
+
+这个游戏, 在最重要的, 使玩家能进入对局上, 没有做好.
+
+是非常幽默的.
+
+---
+
+tried grok. profile summary.
+
+YanboOfficial, a 21-year-old college dropout and former developer relations and cooking role at WorkWorkOrg, now lives as a digital nomad and photographer who has budget-traveled across 18 countries while embracing a YOLO mindset. They treat Twitter as a personal diary for sharing travel mishaps like Hong Kong immigration detours during airport-hopping trips to Vietnam, alongside candid reflections on crypto regrets and ADHD-driven productivity struggles. Engaged in web3 communities, Yanbo often critiques tools like GPT's frontend while highlighting efficient budget stays, such as a 18 CNY-per-night hostel in Da Lat.
+
+> "gpt的前端做的一言难尽 Web端加载崩了之后 用app端查看记录已经生成完了…… 建议外包大陆程序员" -@YanboOfficial
+
+---
+
+如今每天都会使用脚本 (连点器) 打
+
+- sv (netease server)
+- bs (tencent server)
+- cr (tencent server)
+
+感觉有不少进展呢!
+
+---
+
+`ref`
+
+netease cloud music - kagura mea 同好会
+
+竟然一直更新到今天! 
+
+的歌单!
+
+(其他歌单, 只有歌曲, 不是 mea 演唱版本)
+
+found this
+
+https://www.bilibili.com/video/BV1tM411v7xU
+
+dl. really energetic. the best time of jp vtubers.
+
+---
+
+不参加考试啦!
+
+其实, 早就知道自己能得到多少, 注定要放弃哪些, 不是吗? 
+
+(不仅仅指分数.)
+
+(难道有什么长进或倒退吗? 一切为出题人的选择. 与 "我" 无关.)
+
+那些不会的科目, 静坐着, 无倦意地趴着, 好坐牢呢...
+
+---
+
+sv 想玩法爷. (netease server)
+
+开了个新号试试看. "使用本机账号登录"
+
+(
+网易真好笑. 同一个手机号, 注册了
+- 老命名邮箱账号 (网易不能确认机主是否变更, 直接表示那不是 "我".)
+- 命名的邮箱账号
+- 以手机号命名的邮箱账号
+- 使用手机号登录
+不同的账号哦
+)
+
+---
+
+deepseek.com added "inter" font (like helvetica) to its font family.
+
+before it will use ubuntu.
+
+---
+
+> So if you pass weird things as ref to components, React either ignores them (function components) or throws errors (DOM elements), but your component logic never sees them as props.
+
+好悲伤啊...
+
+---
+
+天使喵喵露:
+
+有时 "妈妈" 会看 "我" 直播. 使用不同的账号.
+
+russia 高中, uk top2 大学, jp 工作.
+
+100 同接 (100 舰长), 直播也不过下班后的兴趣.
+
+竟然玩 glory of kings. 浏览 rednote.
+
+与 comments 争辩, 甚至使用现实处境猜测 "你真是可怜的人.".   
+
+"初中时候, 我们一个年级才 100 多人. 那次语文年一 96 分, 我才 80 多. 当时我在教室哭. 但他数学没我好. 所以总分我还是年一."
+
+"他们希望我不要走, 几个老师在我和我妈身边... 因为我第一, 他们得到了很多经费. 感觉很对不起他们吧, 没有... 所以在高中遇到了那么差的老师."
+
+"可能是我没有积德, 对初中老师非常差, 所以在高中..."
+
+("年级第一", "年级第一")
+
+好运, 真是邪恶呢.
+
+---
+
+冰糖远山. 社会底边人.
+
+(just another bingtangio parody acc.)
+
+"送外卖去啊, 不要在我面前装出开心的样子! 仗着年轻吗?"
+
+---
+
+yokidou:
+
+首先, 我们今天吃饭的时候,
+
+既没有女人.
+
+也没有穿白丝的. 也没有穿红色旗袍的.
+
+就星野饼美吧, 穿白衬衫.
+
+(哦, 这_是服务员啊! 你得问店老板, 店老板有这嗜好...)
+
+---
+
+yokidou:
+
+sv 适合轻度玩家. (否则, ...空洞. ...重复)
+
+一天玩两把. 一周玩四个卡组. 一个月把七个职业玩遍.
+
+"合卡自由了吗"
+
+"符合 cy 心中的 ... 氪金..."
+
+(f: 玩 cr. 打经典挑战. 宝石够, 卡牌大师脚本, 皇冠脚本, 连点器.)
+
+---
+
+yokidou:
+
+为什么不用 ipad 比赛呢? 屏幕大啊!
+
+"ipad 出问题了, 你能负责吗?"
+
+那我...
+
+---
+
+加 yokidou qq, 他竟然回复 "我"!
+
+意思是, 他没听说自由影之诗.
+
+233333.
+
+---
+
+durov 在 tg, 使用不知道哪里来的内置大喇叭 api
+
+(在主页面上方显示, 比如 qq 更新, qq 腾讯元宝广告, qq 游戏广告. 一样形式.)
+
+发表了他的小作文. (如 berryberry 动态, 一个短句, 点进去是一篇文章.)
+
+关于言论自由. 经典的话题. 几年前 elon 也如此.
+
+背景是 euro 尝试废除端到端加密, 监测一切消息. durov 希望影响民意, 使支持 free speech.
+
+fira 使用的 nekogram, japan ip, 没有得到消息.
+
+(不同于 qq, tg 几乎没有用过这个 api.)
+
+在日常浏览 tg (chyk's channel, 一个来自 "东北大学" 的中国学生, 舞萌玩家.) 时, 
+
+得知. 后在 twitter (for you), landian tech ch. 也看到了.
+
+btw, twitter 竟然要开会员在能分类收藏消息. (想分类: moe/unixporn, dev/story, weather/life)
+
+这不是插件就能做到吗? 
+
+不过说来, twitter 真的限制了 (流行的) 第三方客户端呢, 尽管都有 web app 了, 不可能真的做到.
+
+---
+
+2 ~ 12 点自动打 bs.
+
+居然烧屏了. 屏幕中闪烁绿线, 绿光.
+
+按照经验, 冷却一段时间即可.
+
+(upd: 想来, laptop 就从来不烧屏呢...)
+
+但意外地发现, sv 每日奖励的一包卡, 要 500 金币. 
+
+每日的三个任务做完, 也只有 300 多金币.
+
+=> sv, 每日, 只是上线领取免费卡包, 就得到大半日常资源了.
+
+这大概也是 f 今后的选择.
+
+只有活动需要亲自打.
+
+(upd: 漏算了. 每日任务奖励尘埃. 可能有 300. 相当于十五天一张虹卡. 这样免费卡包只占小半了.)
+
+而且打 sv, 这个 a 游戏, 显然不如编写 lsv 有希望.
+
+a 游戏: 资源少 (入坑难). 玩家流失. 脚本泛滥. 运营离去. 内容空洞. 尽管片面地欣欣向荣...
+
+lsv, 来自未来的利刃. 
+
+(只有年轻人才能追寻这样的事物.)
+
+生命意识. 物哀.
+
+少年的战意, 尽管那仅仅必要条件.
+
+---
+
+花了一万尘, 买了一个虫妖. yokidou bo10 同款.
+
+居然卡组没有虹卡!
+
+玩这个, 因为强度榜上面比 storm 龙高, 还便宜.
+
+但好难玩啊!
+
+---
+
+fira loves scrcpy.
+
+---
+
+yokidou: 
+
+sv: snc 2025 总决赛
+
+(感觉无聊, 与日常 bo10 无差.)
+
+upd:
+
+sv 没人了. 解说上场打比赛.
+
+hoshino 饼美. 自己恭喜自己.
+
+---
+
+cool happy idv:
+
+(几乎什么时间都有比赛.)
+
+优势局啊! 为什么要 all in! (想打一波守椅震慑, 一波打崩.)
+
+当然如果他真的能守下来, 那我只能说艺高人胆大.
+
+古董商保人, 逼换挂了!
+
+古董商想玩一波阴的! (开门战藏起来准备救人)
+
+耳鸣丢了! 垂径定理! 人在角落!
+
+---
+
+`weather`
+
+电竞是很有激情的.
+
+使用感叹号!
+
+do things fast.
+
+---
+
+去掉了手机的密码. 为了 scrcpy. (无法使用指纹人脸. 只能打 pw.)
+
+upd: 驳回! 因为如果去除密码, 人脸和指纹都删除了. 而不是暂时禁用 qwq.
+
+---
+
+douyin 真厉害. 评论可以 "发布为作品".
+
+随手一发. 黑底白字无音乐单张图片. 有 400 views, 10 likes, 2 fav.
+
+还可以看具体的人, 是谁互动.
+
+内容是.
+
+"消元 z. 结果变为关于 x y 的函数. 联立导数."
+
+(经典的 fira 脑王解法, 求多元函数值域)
+
+upd: checked their profiles. 都是真人. 
+
+一般数学爱好者. 主页可能有 "x 年中考数学回忆" "CMC 数学联赛"...
+
+问题是, 为什么能在推荐页面看到自己的作品?!
+
+---
+
+`dev` `ref`
+
+我渴望 llm api key.
+
+但, 实际使用中, 我还没有触及过 limitation. (极少服务器繁忙, 而且有 yuanbao 备用)
+
+也没有什么 "生成词典" "写完整的书" 这样的需求.
+
+不过是渴望无限大的力量罢了.
+
+---
+
+Pavel Durov: Telegram, Freedom, Censorship, Money, Power & Human Nature | Lex Fridman Podcast #482
+
+在 twitter 上看到大帅 (程序员卖课, 润英国) 的 rt.
+
+4h, 大概听了几分钟可能感兴趣的.
+
+10 岁编写游戏. 因为游戏少. 稀缺性引导向创造力.
+
+大帅强调了
+
+开始听 Lex Friman采访 Telegram 创始人的播客，telegram 的网页端是开源的，是我研究过最复杂的前端项目了，真的是个神秘的团队
+
+也就是技术.
+
+感觉 matrix 也不差. 只是一种实现罢了.
+
+代码不一定是艺术.
+
+---
+

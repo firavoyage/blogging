@@ -13,6 +13,78 @@
 
 > things, not schedule.
 
+<!-- sv, douyin... simeplive... bangumis... remove... -->
+
+## 20251008
+
+### _foresight_
+
+- learn japanese
+- create math wiki
+- create games
+- watch bangumis
+- watch simplelive
+- read (light) novels
+- surf douyin / berryberry / telegram channels / twitter / zhihu
+- play go
+- categorize web and ruanyf.md to `blogging/lights`
+- categorize berryberry fav, zhihu fav
+
+### _day_
+
+- learn japanese on duolingo
+<!-- - memorize japanese words on anki -->
+- learn physics, chemistry, geography from textbooks & create wiki
+- write math wiki on project pure
+- create math vids with pre, precious and material
+<!-- - write japanese learning wiki on project leisure -->
+<!-- - write go tutorials -->
+<!-- - learn algorithms on luogu -->
+<!-- - write web dev wiki on project intuitive -->
+<!-- - practice math on uee mock test papers -->
+<!-- - read mathematical olympiad series -->
+<!-- - read mathematics, no 2 secondary school attached to ecnu -->
+
+### _night_
+
+- watch simplelive
+- watch evangelion
+- watch hikaru no go
+<!-- - watch mygo -->
+<!-- - watch the melancholy of haruhi suzumiya -->
+<!-- - watch bocchi the rock -->
+- read snow country
+- read light novels on wenku8
+
+### _endeavour_
+
+- create sv game
+- create vtbsol game
+- create fatefairy game
+<!-- - polish pre app -->
+- create material app
+<!-- - create eat app incl. berryberry rework -->
+<!-- - create leisure app -->
+<!-- - curate world goods list on project awesome -->
+- curate artists on berryberry on project awesome
+- revise projects.md
+- categorize web and ruanyf.md to `blogging/lights`
+- categorize berryberry fav, zhihu fav
+
+### _diversion_
+
+- play go on foxwq
+- play video games
+- surf douyin / berryberry / telegram channels / twitter / zhihu
+<!-- - surf / qq group -->
+<!-- - play senrenbanka -->
+<!-- - create origamis following chen xiao's guide -->
+
+### _misc_
+
+- listen to classic, j-pop
+- sync with the phone
+
 ## 20250928
 
 ### _foresight_

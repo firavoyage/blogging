@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no' ?>
+<opml version="2.0">
+  <head>
+    <title>AntennaPod Subscriptions</title>
+    <dateCreated>22 Aug 25 02:14:12 +0800</dateCreated>
+  </head>
+  <body>
+    <outline text="Anyway.FM 设计杂谈" title="Anyway.FM 设计杂谈" type="rss" xmlUrl="https://Anyway.FM/rss.xml" htmlUrl="https://anyway.fm" />
+    <outline text="Lex Fridman Podcast" title="Lex Fridman Podcast" type="rss" xmlUrl="https://lexfridman.com/feed/podcast/" htmlUrl="https://lexfridman.com/" />
+    <outline text="UX Coffee 设计咖" title="UX Coffee 设计咖" type="rss" xmlUrl="https://uxcoffee.typlog.io/feed/audio.xml" htmlUrl="https://uxcoffee.com/" />
+    <outline text="Web Worker-前端程序员都爱听" title="Web Worker-前端程序员都爱听" type="rss" xmlUrl="https://feed.xyzfm.space/rv449dl9kqka" htmlUrl="https://www.xiaoyuzhoufm.com/podcast/613753ef23c82a9a1ccfdf35?utm_source=rss" />
+    <outline text="一席YiXi" title="一席YiXi" type="rss" xmlUrl="http://www.ximalaya.com/album/242812.xml" htmlUrl="https://www.ximalaya.com/album/242812" />
+    <outline text="代码之外 Beyond Code" title="代码之外 Beyond Code" type="rss" xmlUrl="https://feed.xyzfm.space/nfm8cu8deycn" htmlUrl="https://www.xiaoyuzhoufm.com/podcast/6194d973c14c9a0db82de1ea?utm_source=rss" />
+    <outline text="内核恐慌" title="内核恐慌" type="rss" xmlUrl="https://pan.icu/feed" htmlUrl="https://pan.icu" />
+    <outline text="奇想驿 by 产品沉思录" title="奇想驿 by 产品沉思录" type="rss" xmlUrl="https://feed.xyzfm.space/4wq8y3ymmc7p" htmlUrl="https://www.xiaoyuzhoufm.com/podcast/6034daea97755b8fc9c66480?utm_source=rss" />
+    <outline text="字谈字畅" title="字谈字畅" type="rss" xmlUrl="https://www.thetype.com/typechat/feed/" htmlUrl="https://www.thetype.com/typechat/" />
+    <outline text="故事FM" title="故事FM" type="rss" xmlUrl="https://feeds.storyfm.cn/storyfm.xml" htmlUrl="https://storyfm.cn/" />
+    <outline text="枫言枫语" title="枫言枫语" type="rss" xmlUrl="https://justinyan.me/feed/podcast" htmlUrl="https://fyfy.fm" />
+    <outline text="硬地骇客" title="硬地骇客" type="rss" xmlUrl="https://feed.xyzfm.space/byhkljlbep9j" htmlUrl="https://www.xiaoyuzhoufm.com/podcast/640ee2438be5d40013fe4a87?utm_source=rss" />
+    <outline text="谐星聊天会" title="谐星聊天会" type="rss" xmlUrl="https://feeds.danlirencomedy.com/xxlth.xml" htmlUrl="https://www.danlirencomedy.cn/" />
+  </body>
+</opml>
