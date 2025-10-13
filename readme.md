@@ -40,6 +40,8 @@
 
 > _心 流_
 
+> _可 爱_ _优 雅_
+
 > _毋负今日_
 
 > _code artist_
@@ -74,7 +76,7 @@
   - huamei
 - essentials
   - j-pop · rock · folk · jazz · classical
-  - calendar · wall clock · scratch pad · sketchbook · illustrations
+  - watch · scratch pad · sketchbook · illustrations
   - life size waifu pillow · origami · pixel art · gardening
   - anime · boardgames · visualnovels · unixporn · mtf · virtualyoutubers
   - math · algorithms · web dev · game dev · threejs · cpp · python · rust · ai/ml
@@ -87,6 +89,7 @@
   - anlin zhihu
   - antfu slidev
   - antoninoscordino ntonino
+  - anyway.fm/now
   - ayumu maki's lab
   - bingtangio
   - bradwoods
@@ -101,15 +104,18 @@
   - cyannyan6
   - darkf1ames
   - dbinary matrixcascade
+  - dingyi dex weekly
   - diygod
   - elleflorio
   - end3r js13kgames
   - falstaff duolingo
+  - fenxer design scenes fenx.work
   - ftium4
   - funshiki
   - gaearon dan abramov
   - gaou
   - grant sanderson 3blue1brown
+  - growth.design
   - gus brawl stars
   - hakadao
   - haoel
@@ -164,17 +170,19 @@
   - naib subedar identity v
   - nat friedman
   - nayuki
+  - newlearnerchannel
   - nickel_angel
   - nina iseri
   - ninalex12 asakawauniversityofscience
   - oooooohmygosh
+  - op7418 aigc weekly
   - ornicar
   - overidea
   - potetomj
   - probiusofficial
   - ramsayleung
   - ramsayleung
-  - ruanyf
+  - ruanyf ruanyf weekly
   - saiba momoi
   - sama sam altman
   - samekosaba
@@ -210,6 +218,7 @@
   - xkcd
   - xpzouying
   - xuegao cheese
+  - yeyouchuan
   - yifusuyi
   - yokidou
   - yuanchuan
@@ -476,7 +485,8 @@
   - internet archive · archive.today · the pirate bay · z library · anna's archive
   - youtube · berryberry · douyin · niconico · vtbs.moe · hololist
   - reddit · twitter · zhihu · nga bbs · baidu tieba
-  - hacker news · v2ex · github trending · product hunt · codepen spark · growth.design
+  - hacker news · v2ex · github trending · product hunt · codepen spark
+  - figma · paper.design · canva
   - douban · imdb · bangumi.tv · my anime list · bgmlist · mikan project · nyaa.si · dmhy.org · zimuku · yuc.wiki
   - pixiv · deviantart · civitai · e hentai · dribbble · unsplash
   - steam db · itch.io · google doodles · vndb · shinnku galgame · kungal · touchgal
@@ -1022,3 +1032,7 @@
 > 其实我更希望 jiang ping 是真实存在的. 她的隐喻是, 每个人, 无论如何, 都可以 (在喜欢的...) 成为很厉害的人. 即使她是邪恶构成的, 不择手段的逐利者创造的, 这个世界也需要她 (这样的人类), 即使不是她.
 
 > 天使猫猫酱, 些许残念. 她是可爱的, 只是... 但愿她能守护这份可爱. 三次元中, 或许猫猫是可爱的. 因为猫与人类语言不通, 人, 会 (能够) 以自己的愿望, 以最光辉, 最纯洁, 最天真的方式想象猫. 但, 现实人类是不可能可爱的. 我们都明白人性, 贪婪的一面, 顽固的一面, 邪恶的一面. 所谓片刻闪烁的可爱, 不过夸大, 扭曲, 伪装 (oshi no ko ep1). 可能, 只是我吧, 并不是每个阿宅都对人类没有信心, 失去幻想的. "我还年轻, 只想看 v." 学历, 闪光之余, 是否过于刺眼呢 (不断提及). 王者荣耀, 以 vtuber 自称 (自居) 的人, 玩这样的游戏... 高饱和度的, 绿色, 蓝色, "炫酷" (无衬线, 粗笔画, 现代简笔, 斜体) 的字体, 怎样的读者意识? (或许, 数学的乐趣, 是思考的乐趣. 平静的, 时而欣喜的. 而非浮躁的.) 评论区中, 使用现代人的语言, 激情地 (, 或许莽撞地) 争辩, 甚至诉诸处境 ("在现实中一定很可怜吧!")... 但无论如何, 我还是希望她存在于 internet 的. 因为人类是有限的, 同时代的有能力的人则相当有限. 当我, 无成见地, 从 avatar 和 id 开始, 欣赏书的封面 (颜, judge a book by its cover), 聆听萌音... 真是充满希望呢. 风景, 真好啊, 淡淡的忧伤. 希望她永远不毕业.
+
+> fira 的话. 即使, 可以自由地选择任何一所大学府, 研究方向, "职业"... 也说不清会选择什么吧. 只是兴趣爱好吧, 一定要认真地去做吗. 那样, 就不得不坚持了... fira 是自由的最好. 所以, 在高中, 也是放松的状态. 大专, 二本, 一本, 有特殊标识的一本... 都可以吧, 去符合自己水平的. 这所高中几乎没有 985 率呢, 连一本率都不全.
+
+> 我可以永远地停留, 世界在我之前. 永远纯洁, 永远无知. 享受独属的宁静. 但, 最终还是翻开了书页.
