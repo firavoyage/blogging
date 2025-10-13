@@ -125,6 +125,8 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `20` 2025.10.07
 - `21` 2025.10.11
 - `22` 2025.10.12
+- `23` 2025.10.13
+- `24` 2025.10.13
 
 ### girls band cry
 
@@ -8138,7 +8140,7 @@ rewatch haruhi ep 1.
 
 只能自己做... 还好做出来了.
 
-12: 单位圆上不同点 abc. 求 v(ab)\*v(ac)/ab 值域.
+12: 单位圆上不同点 abc. 求 `v(ab)*v(ac)/ab` 值域.
 
 ```precious
 化简. result = ab * cos<ab, ac>
@@ -9698,3 +9700,166 @@ Pavel Durov: Telegram, Freedom, Censorship, Money, Power & Human Nature | Lex Fr
 
 ---
 
+2025.10.12 玩
+
+angel neko chan live "日本户外"
+
+(逛街. 照镜子. 试口红.)
+
+已经成为标准的女孩大人了吗?
+
+和时尚街中, 与男孩结伴而行的随机少女, 有何差?
+
+泯然...
+
+upd:
+
+她都, 已经, 成功了 ("苹果人生"). 一副牌想怎么打怎么打.
+
+她的选择.
+
+---
+
+yokidou: (on the night of snc 总决赛)
+
+主持人肯定漂亮妹子啊.
+
+反正不玩影之诗啊!
+
+据说还解说过鸣潮什么的. 反正我们影之诗没有妹子, 只能去外面找.
+
+现场两个 cos. 不认识.
+
+---
+
+天使猫猫酱:
+
+我说我自己来. 她非要来. 
+
+我一个人在外面又不会死去.
+
+(danmaku: 工具人哥哥)
+
+但她怕我死去. 我妈也怕我死去, 我妈也叫她来.
+
+"还从事数学相关的工作吗"
+
+"真的数学硕士吗"
+
+你看看我的视频不就知道了.
+
+我是做算法的.
+
+比较质疑猫猫的学历的话, 可以看看三年前的视频.
+
+我是大三就开始...
+
+我是在英国上的学.
+
+(2002 年生.)
+
+---
+
+(f on 天使猫猫酱)
+
+(不好评价...) 
+
+我是喜欢她的. 
+
+可是, 她, idol, 有没有努力成为我 (我这样的 followers) 喜欢的样子呢. 我不知道.
+
+---
+
+```
+/home/fira/Downloads/Anthony Fu.mhtml
+/home/fira/Downloads/Lingdong Huang.mhtml
+/home/fira/Downloads/Projects - Anthony Fu.mhtml
+/home/fira/Downloads/slidev github.mhtml
+/home/fira/Downloads/Use - Anthony Fu.mhtml
+```
+
+f 又开始保存网页啦...
+
+想要不变, 而不是转化为 markdown 呢.
+
+---
+
+九年义务教育（×）
+十六年宋浩教育（✔）
+
+---
+
+https://www.bilibili.com/video/BV1r4421U7HQ/
+
+15秒内秒杀BW虚拟区数学问答题
+
+注意到n趋近于1000时，原式约等于3562331 / 7124662 ，
+易证本题为1/2。
+
+上海考生表示，这就是卡西欧f（x）模式取极大值的经典解题法。
+
+---
+
+结城昨日奈带货狂魔陪男友，结晶忠犬护主爆孝如雷
+
+洋葱现在是这样的啊？
+当时看她打大乱斗还以为是个gamer属性的人…
+结果是纯营业啊….
+
+我朋友能证明，图里的人都是真情流露不是串的[笑哭]
+
+能交到这样的朋友那这辈子也是有了[阿库娅_才女才女]
+
+速度更新saba视频，圣皇en同位体这块必须拿下😎
+
+然而saba出道后表现还不错，天天游戏，不接工商，远超销冠结城小姐
+
+saba很不错的好吧，播的勤也很有效果
+
+---
+
+我去当过老师, 教的初中数学, 那边的数学老师连课后习题都不会做, 有的人出生就在这种地方, 一辈子就这么过的, 你这样嘲讽真的合适吗?
+
+---
+
+一直都抱着枕头啦!
+
+放在大腿上. 或者抱着.
+
+---
+
+`ref`
+
+从几年前不知为何订阅的 anyway.fm
+
+bfs, 到 telegram/ anyway.now
+
+bfs, 到 fenxer design scenes
+
+bfs "friend links", 到一切. 
+
+发现那几个账号, 竟然有 20 个, 30 个 followers i followed.
+
+我好友一共就 follow 了 100 多个账号. 
+
+当初最开始使用 twitter 时, 点开了 lcmenci 的 following.
+
+把每一个都点进去 (还是 bfs), 然后 filter 我喜欢的.
+
+构成了我现在的主要 following
+
+---
+
+`ref` `weather`
+
+in blogging/readme/perception/essentials
+
+changed "calendar & wall clock" to "watch"
+
+---
+
+tried paper.design
+
+emmm. i just could not find how to export the full design sheet to png...
+
+---
