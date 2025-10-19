@@ -139,6 +139,7 @@
   - jjying
   - johann sebastian bach
   - joshwcomeau
+  - juemingmofei
   - juliangarnier animejs
   - kagura mea
   - kasugano sora
@@ -155,6 +156,7 @@
   - lingdong- lingdong huang wenyan-lang
   - lionleaf
   - liu yiyi go
+  - liujiayi1111 tauri
   - livid v2ex
   - luan xiao meng zhihu
   - mao niang shen zhihu
@@ -166,6 +168,7 @@
   - miyuki takara
   - mrcongliu
   - mugumogu maru
+  - muyushuixin
   - nahida
   - naib subedar identity v
   - nat friedman
@@ -308,15 +311,15 @@
   - girls band cry (2024)
   - the melancholy of haruhi suzumiya (2009)
   - hikaru no go (2001)
-  - breaking bad (2012)
-  - better call saul (2015)
+  - breaking bad, narrated by juemingmofei (2012)
+  - better call saul, narrated by juemingmofei (2015)
   - tales of qianfu battles (2013)
   - oshi no ko (2023)
-  - gushing over magical girls (2024)
+  - bang dream! it's mygo!!!!! (2023)
+  - dream of the red chamber, narrated by muyushuixin (1987)
   - .date a live (2013)
   - .sword art online (2012)
   - .bocchi the rock (2022)
-  - .bang dream! it's mygo!!!!! (2023)
   - .k-on! (2009)
   - .frieren: beyond journey's end (2023)
   - .a certain scientific railgun (2009)
@@ -1036,3 +1039,9 @@
 > fira 的话. 即使, 可以自由地选择任何一所大学府, 研究方向, "职业"... 也说不清会选择什么吧. 只是兴趣爱好吧, 一定要认真地去做吗. 那样, 就不得不坚持了... fira 是自由的最好. 所以, 在高中, 也是放松的状态. 大专, 二本, 一本, 有特殊标识的一本... 都可以吧, 去符合自己水平的. 这所高中几乎没有 985 率呢, 连一本率都不全.
 
 > 我可以永远地停留, 世界在我之前. 永远纯洁, 永远无知. 享受独属的宁静. 但, 最终还是翻开了书页.
+
+> 陈时前说称 _诗_ _书_, 生骂之曰: 乃公凭数英而得之, 安事 _诗_ _书_! (_境高书生列传_)
+
+> A 说苹果皮不干净, 削皮吃. B 说苹果皮有营养, 带皮吃. 你怎么看? 论点: 苹果洗一洗吃.
+
+> 人可以做任何事. 无关律法与道义. 只要在自然规律下, 就可能做到. 不一定要从事科学艺术公益. 那些制作 roomtour 的留学生, 渴望得到人的认可. hu chenfeng, 即使不是装糊涂, 拜金也不过平凡是人之欲望. 只是显现出暂时的动物性, 也有可能做出成绩. 天使猫猫酱, 目前有些犬儒, 期待未来 (fira 是自私的. 希望她闪耀. 而不是平静地生活. 她是与 fira 同时代的厉害的人.).
