@@ -201,11 +201,22 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `3` 2025.10.17
 - `4` 2025.10.18
 
-### dream of the red chamber (muyushuixin's narration)
+### dream of the red chamber, narrated by muyushuixin
 
 - `1` 2025.10.17
 - `2` 2025.10.18
 - `3` 2025.10.19
+- `4` 2025.10.20
+- `5` 2025.10.20
+- `6` 2025.10.21
+- `7` 2025.10.22
+- `8` 2025.10.22
+- `9` 2025.10.23
+- `10` 2025.10.24
+- `11` 2025.10.25
+- `12` 2025.10.26
+- `sp1` 2025.10.27
+- `sp2` 2025.10.28
 
 ## gaming
 
@@ -7389,47 +7400,7 @@ listened to DECO\*27 - Cherry Pop feat. Hatsune Miku
 
 让人又羡慕又担忧她未来的恋人呢，能得到这份她心底最深最沉重的爱，又要打破她多年的幻想。唉重女，唉重女，唉重女真美味啊……
 
-```md
-> explain 重女
-
-“重女” (zhòng nǚ) is a term originating from Japanese anime and manga culture, which has been adopted by Chinese internet slang. Here’s a breakdown of its meaning and usage:
-
-### 1. **Literal Meaning**:
-
-- **重 (zhòng/jū)**: Can mean "heavy," "serious," or "intense."
-- **女 (nǚ)**: Means "girl" or "woman."
-- Combined, it refers to a girl with "heavy" or intense traits, often emotionally or psychologically.
-
-### 2. **Definition**:
-
-A "重女" describes a female character (or real person) who exhibits extreme emotional intensity, often in relationships or personal struggles. Traits may include:
-
-- Obsessive love or attachment.
-- Emotional volatility (e.g., mood swings, jealousy).
-- Self-destructive tendencies or dark pasts.
-- A dramatic, "overbearing" presence in narratives.
-
-### 3. **Examples in Media**:
-
-- Anime/manga: Characters like **Makima** (_Chainsaw Man_), **Homura** (_Madoka Magica_), or **Gasai Yuno** (_Future Diary_) fit the "重女" archetype due to their intense, often unhealthy emotional dynamics.
-- Real-life use: May describe someone overly clingy or emotionally draining in relationships.
-
-### 4. **Contrast with "Light" Characters**:
-
-Unlike cheerful, carefree characters ("軽女," meaning "light girls"), 重女 carry a sense of emotional weight, often driving serious or tragic plotlines.
-
-### 5. **Internet Slang Nuance**:
-
-- Sometimes used humorously to describe overly dramatic behavior.
-- Can be pejorative if criticizing someone for being "too much," but may also express fascination with complex characters.
-
-### 6. **Similar Terms**:
-
-- **病娇 (yandere)**: A subset of 重女, specifically combining affection with violent possessiveness.
-- **郁女 (depressed girls)**: Focuses more on melancholy than intensity.
-
-Would you like examples of how to use it in sentences?
-```
+upd: drafts/fira deco27 cherry pop girl
 
 ---
 
@@ -9121,7 +9092,7 @@ and a vid about adding genshin impact support on linux, which is why i found her
 
 a lot of vids about single machine sandbox games like terraria, minecraft.
 
-upd: 
+upd:
 
 https://web.archive.org/web/20251010105931/http://web.archive.org/screenshot/https://space.bilibili.com/1156993272
 
@@ -9269,18 +9240,18 @@ comments:
 158.4 万[打 call][打call][打 call]
 2025-01-11 14:09
 
-其实一开始我这个视频的标题是：“自动扫雷程序研究胜率与地雷密度的关系。”然后我当时有几千个粉丝，所以一开始在线人数还能维持在30多，但过了一个小时就掉到了五六个，再后来就没人了，第一天过去，播放量刚刚上千。后来我就把标题改成了现在的这个，改完之后一个小时在线人数又回到30多个了，然后突然就上了推荐，在线人数飙到了几百，于是这个视频才火了。
+其实一开始我这个视频的标题是：“自动扫雷程序研究胜率与地雷密度的关系。”然后我当时有几千个粉丝，所以一开始在线人数还能维持在 30 多，但过了一个小时就掉到了五六个，再后来就没人了，第一天过去，播放量刚刚上千。后来我就把标题改成了现在的这个，改完之后一个小时在线人数又回到 30 多个了，然后突然就上了推荐，在线人数飙到了几百，于是这个视频才火了。
 所以说，标题是多么的重要。
 2017-03-04 09:30
 
-说真的，像UP这种充满干货的视频，我被标题吸引进来看完後也是心悦诚服。可问题是，我逛B站下来，一天能被震撼6次、男默女泪5次，成为99%人的其中一个2次，成为另外1%的人3次，诸如此类，数不胜数......
-标题党们，好好学习一下这个UP主吧（叹）
+说真的，像 UP 这种充满干货的视频，我被标题吸引进来看完後也是心悦诚服。可问题是，我逛 B 站下来，一天能被震撼 6 次、男默女泪 5 次，成为 99%人的其中一个 2 次，成为另外 1%的人 3 次，诸如此类，数不胜数......
+标题党们，好好学习一下这个 UP 主吧（叹）
 2017-02-28 21:15
 
 说实话一开始我的标题是: 自动模拟扫雷算法以及模拟结果，一个小时之后就没人看了。
 2017-02-28 21:18
 
-本视频已上2018拜年祭，在此发来贺电。
+本视频已上 2018 拜年祭，在此发来贺电。
 2018-02-15 18:43
 
 ---
@@ -9291,7 +9262,7 @@ comments:
 
 学校, 作为体制的一部分, 充满权衡的地方.
 
-听不懂, 或者过于简单, 很多了. 
+听不懂, 或者过于简单, 很多了.
 
 甚至这样的学生根本不会被在意.
 
@@ -9321,7 +9292,7 @@ fira 不应该与愚蠢的人, 虚伪的人相处.
 
 只是, 如果不真诚, 那就算了.
 
-即使如此. 
+即使如此.
 
 "没有压力地活着. 做想做的事情. fira 也可以."
 
@@ -9335,15 +9306,15 @@ https://www.bilibili.com/video/BV1osxYzvEHW/
 
 【苹果那些失败设计】创意很顶级 错误很低级
 
-13.4万
+13.4 万
 1087
 2025-10-08 18:02:51
 
 六分超超
- 发消息
+发消息
 学艺术的，不懂数码
 
-已关注 86.8万
+已关注 86.8 万
 
 文案太厉害了. 呼应!
 
@@ -9355,9 +9326,9 @@ idv.
 
 第五人格是一个 1v4 竞技游戏.
 
-一个屠夫抓四个人类. 
+一个屠夫抓四个人类.
 
-屠夫比人类跑得快. 
+屠夫比人类跑得快.
 
 但人类有技能, 可以飞天, 遁地, 跑得快, 还可以让屠夫动不了, 发不了威.
 
@@ -9395,7 +9366,7 @@ tried grok. profile summary.
 
 YanboOfficial, a 21-year-old college dropout and former developer relations and cooking role at WorkWorkOrg, now lives as a digital nomad and photographer who has budget-traveled across 18 countries while embracing a YOLO mindset. They treat Twitter as a personal diary for sharing travel mishaps like Hong Kong immigration detours during airport-hopping trips to Vietnam, alongside candid reflections on crypto regrets and ADHD-driven productivity struggles. Engaged in web3 communities, Yanbo often critiques tools like GPT's frontend while highlighting efficient budget stays, such as a 18 CNY-per-night hostel in Da Lat.
 
-> "gpt的前端做的一言难尽 Web端加载崩了之后 用app端查看记录已经生成完了…… 建议外包大陆程序员" -@YanboOfficial
+> "gpt 的前端做的一言难尽 Web 端加载崩了之后 用 app 端查看记录已经生成完了…… 建议外包大陆程序员" -@YanboOfficial
 
 ---
 
@@ -9413,7 +9384,7 @@ YanboOfficial, a 21-year-old college dropout and former developer relations and 
 
 netease cloud music - kagura mea 同好会
 
-竟然一直更新到今天! 
+竟然一直更新到今天!
 
 的歌单!
 
@@ -9429,7 +9400,7 @@ dl. really energetic. the best time of jp vtubers.
 
 不参加考试啦!
 
-其实, 早就知道自己能得到多少, 注定要放弃哪些, 不是吗? 
+其实, 早就知道自己能得到多少, 注定要放弃哪些, 不是吗?
 
 (不仅仅指分数.)
 
@@ -9445,12 +9416,13 @@ sv 想玩法爷. (netease server)
 
 (
 网易真好笑. 同一个手机号, 注册了
+
 - 老命名邮箱账号 (网易不能确认机主是否变更, 直接表示那不是 "我".)
 - 命名的邮箱账号
 - 以手机号命名的邮箱账号
 - 使用手机号登录
-不同的账号哦
-)
+  不同的账号哦
+  )
 
 ---
 
@@ -9476,7 +9448,7 @@ russia 高中, uk top2 大学, jp 工作.
 
 竟然玩 glory of kings. 浏览 rednote.
 
-与 comments 争辩, 甚至使用现实处境猜测 "你真是可怜的人.".   
+与 comments 争辩, 甚至使用现实处境猜测 "你真是可怜的人.".
 
 "初中时候, 我们一个年级才 100 多人. 那次语文年一 96 分, 我才 80 多. 当时我在教室哭. 但他数学没我好. 所以总分我还是年一."
 
@@ -9508,7 +9480,7 @@ yokidou:
 
 就星野饼美吧, 穿白衬衫.
 
-(哦, 这_是服务员啊! 你得问店老板, 店老板有这嗜好...)
+(哦, 这\_是服务员啊! 你得问店老板, 店老板有这嗜好...)
 
 ---
 
@@ -9558,13 +9530,13 @@ fira 使用的 nekogram, japan ip, 没有得到消息.
 
 (不同于 qq, tg 几乎没有用过这个 api.)
 
-在日常浏览 tg (chyk's channel, 一个来自 "东北大学" 的中国学生, 舞萌玩家.) 时, 
+在日常浏览 tg (chyk's channel, 一个来自 "东北大学" 的中国学生, 舞萌玩家.) 时,
 
 得知. 后在 twitter (for you), landian tech ch. 也看到了.
 
 btw, twitter 竟然要开会员在能分类收藏消息. (想分类: moe/unixporn, dev/story, weather/life)
 
-这不是插件就能做到吗? 
+这不是插件就能做到吗?
 
 不过说来, twitter 真的限制了 (流行的) 第三方客户端呢, 尽管都有 web app 了, 不可能真的做到.
 
@@ -9578,7 +9550,7 @@ btw, twitter 竟然要开会员在能分类收藏消息. (想分类: moe/unixpor
 
 (upd: 想来, laptop 就从来不烧屏呢...)
 
-但意外地发现, sv 每日奖励的一包卡, 要 500 金币. 
+但意外地发现, sv 每日奖励的一包卡, 要 500 金币.
 
 每日的三个任务做完, 也只有 300 多金币.
 
@@ -9594,7 +9566,7 @@ btw, twitter 竟然要开会员在能分类收藏消息. (想分类: moe/unixpor
 
 a 游戏: 资源少 (入坑难). 玩家流失. 脚本泛滥. 运营离去. 内容空洞. 尽管片面地欣欣向荣...
 
-lsv, 来自未来的利刃. 
+lsv, 来自未来的利刃.
 
 (只有年轻人才能追寻这样的事物.)
 
@@ -9618,7 +9590,7 @@ fira loves scrcpy.
 
 ---
 
-yokidou: 
+yokidou:
 
 sv: snc 2025 总决赛
 
@@ -9676,7 +9648,7 @@ douyin 真厉害. 评论可以 "发布为作品".
 
 (经典的 fira 脑王解法, 求多元函数值域)
 
-upd: checked their profiles. 都是真人. 
+upd: checked their profiles. 都是真人.
 
 一般数学爱好者. 主页可能有 "x 年中考数学回忆" "CMC 数学联赛"...
 
@@ -9706,7 +9678,7 @@ Pavel Durov: Telegram, Freedom, Censorship, Money, Power & Human Nature | Lex Fr
 
 大帅强调了
 
-开始听 Lex Friman采访 Telegram 创始人的播客，telegram 的网页端是开源的，是我研究过最复杂的前端项目了，真的是个神秘的团队
+开始听 Lex Friman 采访 Telegram 创始人的播客，telegram 的网页端是开源的，是我研究过最复杂的前端项目了，真的是个神秘的团队
 
 也就是技术.
 
@@ -9750,7 +9722,7 @@ yokidou: (on the night of snc 总决赛)
 
 天使猫猫酱:
 
-我说我自己来. 她非要来. 
+我说我自己来. 她非要来.
 
 我一个人在外面又不会死去.
 
@@ -9778,9 +9750,9 @@ yokidou: (on the night of snc 总决赛)
 
 (f on 天使猫猫酱)
 
-(不好评价...) 
+(不好评价...)
 
-我是喜欢她的. 
+我是喜欢她的.
 
 可是, 她, idol, 有没有努力成为我 (我这样的 followers) 喜欢的样子呢. 我不知道.
 
@@ -9807,30 +9779,30 @@ f 又开始保存网页啦...
 
 https://www.bilibili.com/video/BV1r4421U7HQ/
 
-15秒内秒杀BW虚拟区数学问答题
+15 秒内秒杀 BW 虚拟区数学问答题
 
-注意到n趋近于1000时，原式约等于3562331 / 7124662 ，
-易证本题为1/2。
+注意到 n 趋近于 1000 时，原式约等于 3562331 / 7124662 ，
+易证本题为 1/2。
 
-上海考生表示，这就是卡西欧f（x）模式取极大值的经典解题法。
+上海考生表示，这就是卡西欧 f（x）模式取极大值的经典解题法。
 
 ---
 
 结城昨日奈带货狂魔陪男友，结晶忠犬护主爆孝如雷
 
 洋葱现在是这样的啊？
-当时看她打大乱斗还以为是个gamer属性的人…
+当时看她打大乱斗还以为是个 gamer 属性的人…
 结果是纯营业啊….
 
 我朋友能证明，图里的人都是真情流露不是串的[笑哭]
 
 能交到这样的朋友那这辈子也是有了[阿库娅_才女才女]
 
-速度更新saba视频，圣皇en同位体这块必须拿下😎
+速度更新 saba 视频，圣皇 en 同位体这块必须拿下 😎
 
-然而saba出道后表现还不错，天天游戏，不接工商，远超销冠结城小姐
+然而 saba 出道后表现还不错，天天游戏，不接工商，远超销冠结城小姐
 
-saba很不错的好吧，播的勤也很有效果
+saba 很不错的好吧，播的勤也很有效果
 
 ---
 
@@ -9852,11 +9824,11 @@ bfs, 到 telegram/ anyway.now
 
 bfs, 到 fenxer design scenes
 
-bfs "friend links", 到一切. 
+bfs "friend links", 到一切.
 
 发现那几个账号, 竟然有 20 个, 30 个 followers i followed.
 
-我好友一共就 follow 了 100 多个账号. 
+我好友一共就 follow 了 100 多个账号.
 
 当初最开始使用 twitter 时, 点开了 lcmenci 的 following.
 
@@ -9887,10 +9859,10 @@ evangelion.
 searched these id on steam
 
 - 映月之晴
-- 冰糖OI
-- 冰糖丨O
-- 鱼的迷迭香 
-- LYARosemary 
+- 冰糖 OI
+- 冰糖丨 O
+- 鱼的迷迭香
+- LYARosemary
 
 (i havent made any purchase with real money so i could not add friends...)
 
@@ -9912,21 +9884,21 @@ searched these id on steam
 
 https://www.bilibili.com/video/BV1Ha411r7Hk
 
-物理云学习逸迭Eddie
+物理云学习逸迭 Eddie
 
 高中物理免费系统复习课
-614.2万
-5.6万
+614.2 万
+5.6 万
 2021-12-08 22:30:23
 
-梦凯09150124
+梦凯 09150124
 
 (
 profile:
 
 - 2025
-  - 23岁全款娶下我的电脑老婆
-  - 黑鲨5Pro灯效自定义玩法
+  - 23 岁全款娶下我的电脑老婆
+  - 黑鲨 5Pro 灯效自定义玩法
   - 在此之前，一直认为黑小米的都是水军
 - 2024
   - 晋级赛超级兵在水晶前遛弯，什么意思，明演呗。
@@ -9936,19 +9908,19 @@ profile:
 一年没看书，花两天时间认真看完这套课，看看高考能考多少。等我半个月回来报喜[doge]
 2022-06-03 17:17
 
-我回来了，38分，湖南卷，总分398。好了，明年再考一年，等我消息。
+我回来了，38 分，湖南卷，总分 398。好了，明年再考一年，等我消息。
 2022-06-24 20:05
 
-寄了，已经在打螺丝了，干到过年，明年再回去考一次。11月回家报个名
+寄了，已经在打螺丝了，干到过年，明年再回去考一次。11 月回家报个名
 2023-06-29 18:15
 
 哦，刚回家，准备开始复习了，脑子目前空空，什么都没有。
 2023-12-19 23:09
 
-456，物理还是没及格56分，哈哈哈，没去上学，感觉浪费钱，现在进厂打工。
+456，物理还是没及格 56 分，哈哈哈，没去上学，感觉浪费钱，现在进厂打工。
 2024-08-27 22:33
 
-计划工作半年，年底回家配一台电脑，学着拍视频，剪辑或者游戏直播读书分享啥的，做个up主，看能不能挣点钱（到时候记得关注我哦)，挣不到也没关系，就当玩了，搞到明年6月，要是没在网上挣到钱，就再出去打几个月工，重新再开始复习，11月再去报名，后年再考一次。哈哈哈哈，我真特么自由。
+计划工作半年，年底回家配一台电脑，学着拍视频，剪辑或者游戏直播读书分享啥的，做个 up 主，看能不能挣点钱（到时候记得关注我哦)，挣不到也没关系，就当玩了，搞到明年 6 月，要是没在网上挣到钱，就再出去打几个月工，重新再开始复习，11 月再去报名，后年再考一次。哈哈哈哈，我真特么自由。
 2024-08-27 22:36
 
 在广州工作，攒钱，攒够钱再回去考，明年等我消息
@@ -9957,22 +9929,21 @@ profile:
 还好……这几年在外边上班，做了很多工作，日子过的很舒服。我很难想象我当时的精神状态，进大学继续依靠靠不住的家庭，我会变成什么样子
 2025-01-19 02:08
 
-现在攒了些钱了，25年我还要报名，26年再考一次
+现在攒了些钱了，25 年我还要报名，26 年再考一次
 2025-01-19 02:08
 
-我那年几乎一年没做题看书，3天看完，写了一点点题，考了38。
+我那年几乎一年没做题看书，3 天看完，写了一点点题，考了 38。
 2025-01-28 04:35
 
-是的，自己有计划的看，可以多用用ai软件，不懂啥带目的去问它，把需求表述清楚，比问普通高中的老师有用多了
+是的，自己有计划的看，可以多用用 ai 软件，不懂啥带目的去问它，把需求表述清楚，比问普通高中的老师有用多了
 2025-03-21 18:46
 
 暂时的，早晚要还的，比如我现在这个年纪还没攒下什么钱，以后够我愁的。当然不影响我今天开开心心的
 2025-04-21 17:18
 
-
 不在路上-就在床上
 
-2025.4.22，零基础，现在学，天津卷（赋分制），考完告知分数，年龄46岁
+2025.4.22，零基础，现在学，天津卷（赋分制），考完告知分数，年龄 46 岁
 2025-04-22 18:22
 
 没有，今年不考，在搞钱，明年可能会考
@@ -9980,9 +9951,13 @@ profile:
 
 ---
 
+`ref`
+
 农历劳动节的中秋习俗.
 
 (月饼 - 阅兵)
+
+upd: 七十二 / 七十二月饼
 
 ---
 
@@ -9990,13 +9965,13 @@ wtf? what are u doing twitter?!
 
 it revoked my login credential, letting me sign in today.
 
-when clicking sign in, it said "sth went wrong, try again later". 
+when clicking sign in, it said "sth went wrong, try again later".
 
 on chromium console, it said "x.com and api.x.com has cors issue..."
 
 but on firefox... it worked?!
 
-idk what happened. i tried chromium guest (no extensions), it still does not work. 
+idk what happened. i tried chromium guest (no extensions), it still does not work.
 
 ---
 
@@ -10010,9 +9985,9 @@ baga llm!
 
 comments:
 
-能发免费sc才叫公益直播
+能发免费 sc 才叫公益直播
 
-(idea: chats with first character "_" will be sc!)
+(idea: chats with first character "\_" will be sc!)
 
 ---
 
@@ -10026,15 +10001,15 @@ ubuntu 内存经常爆炸.
 
 我是喜欢 hu chenfeng 的. 她让我看到了, 什么是现代舆论场上, 纯粹放纵的动物性. (与 "存天理灭人欲" 相对.). 人性: 党同伐异的快感, 离经叛道 ("崇洋媚外") 的快感.
 
-我是喜欢 ace taffy 的. 她让我看到了, 什么是一个成功的妓女. 虚拟感, 这才是正确的 vtuber 啊! 人性: 性欲, 逃避现实 (幻想), 早期鬼畜 (唐氏笑声重复), 打电子游戏. 
+我是喜欢 ace taffy 的. 她让我看到了, 什么是一个成功的妓女. 虚拟感, 这才是正确的 vtuber 啊! 人性: 性欲, 逃避现实 (幻想), 早期鬼畜 (唐氏笑声重复), 打电子游戏.
 
 封杀任何一个人都是不好的. 政府为之, 为了一些现实的, 功利性的目的. 为了缓解一些压力, 保住自己的位置.
 
-言论自由, 因为对于独立思考者而言, 言论只是言论. 
+言论自由, 因为对于独立思考者而言, 言论只是言论.
 
 如果两个科学家相争, 一死. 我想应当通过教育 (求同存异) 与法律 (使其提前知道死刑) 来制止.
 
-一个人杀另一个, 那个人就不能活着了. 
+一个人杀另一个, 那个人就不能活着了.
 
 但说话. 世界并不会因为一句话而怎样. (以上是简单的言论自由支持观点)
 
@@ -10063,37 +10038,37 @@ see drafts/freedom of speech
 https://www.bilibili.com/video/BV1BExYzzE7N
 
 键政人物志丨户晨风：购买力、私有化、安卓人
-84.3万
-2.2万
+84.3 万
+2.2 万
 2025-10-05 09:38:22
 
 青落同学
 私信只看，加简单回复，深入交流请移步充电问答。谢谢理解。
 
-已关注 13.0万
+已关注 13.0 万
 
 "远征" (from lanzhanfei, a banned wealthy traveller's comments)
 
 改版更新后：
-户：人没有 369等，人人平等，天下大同。
+户：人没有 369 等，人人平等，天下大同。
 张：任何专业都能就业，想去的岗位都是为你准备的。
 蓝：人这一辈子就要多结婚，应该把钱和心思放在别人身上，要有利他思维，学雷锋做好事。
 
 (跳过了那些列举户晨风观点的. 只看了开头的生平分析, 和末尾的总结.)
 
-1:26:03 
+1:26:03
 
 一个人如果知道自己要做什么, 比如从事科学艺术公益等...
 
 纵观历史, 现代中国富二代显然可悲.
 
-可以 (be able to) 不断学习实践, 甚至做出成绩. 
+可以 (be able to) 不断学习实践, 甚至做出成绩.
 
 但他们选择乞讨庸俗的社会认同. (new york 市中心, 留学生, 简明地展示房子.)
 
 一个人的欲望结构, 决定了他将要成为什么人.
 
-1:29:18 
+1:29:18
 
 (一个人, 展示他的 18k "纯" 金镀边马桶. 得到赞美.)
 
@@ -10101,7 +10076,7 @@ https://www.bilibili.com/video/BV1BExYzzE7N
 
 danmaku: "我想到贾宝玉撕扇子了."
 
-文笔真好. 尽管有大量中文政治教材 (科班) 话语引用. 
+文笔真好. 尽管有大量中文政治教材 (科班) 话语引用.
 
 感觉选全文的, 这家伙.
 
@@ -10111,7 +10086,7 @@ menci & chyk 贴贴!
 
 ---
 
-up这观点和倾向也太经典了，完全就是教科书级别的左派观点[支持]
+up 这观点和倾向也太经典了，完全就是教科书级别的左派观点[支持]
 
 fira 的话... 右派? 或许希望人类灭亡, 让可爱猫猫治国!
 
@@ -10119,21 +10094,21 @@ fira 的话... 右派? 或许希望人类灭亡, 让可爱猫猫治国!
 
 8:30 就打了两把 idv, 玩小女孩.
 
-遇到一个 30 摄影师, 一个 17 雕刻家. 
+遇到一个 30 摄影师, 一个 17 雕刻家.
 
 直接赢了, 躺赢.
 
-第一把被偷袭密码机一刀, 砸板博弈失败一刀, 秒倒. 
+第一把被偷袭密码机一刀, 砸板博弈失败一刀, 秒倒.
 
 被心理无脑救下来.
 
 监管好像网卡了, 我都离开椅子几步了, 他往椅子打一个空气针对刀.
 
-然后进出镜像, 他在镜像里打空气. 
+然后进出镜像, 他在镜像里打空气.
 
 再无脑不回头放两个书页. 他失去兴趣了.
 
-第二把开局被抓我传送. 
+第二把开局被抓我传送.
 
 第一定律 (监管胜率主导一切) 发力.
 
@@ -10141,8 +10116,1240 @@ fira 的话... 右派? 或许希望人类灭亡, 让可爱猫猫治国!
 
 已辞职全职在家刷户圣切片
 
-户大概明白了，谁能说说蓝战非是为啥，之前看了一些他的vlog，没发现什么事呢
+户大概明白了，谁能说说蓝战非是为啥，之前看了一些他的 vlog，没发现什么事呢
 
 大概就是视频内容有躺平思想，你努力一辈子还不如有钱人这样
+
+---
+
+不玩 idv 了. 求生五阶 iv.
+
+经常匹配 80% 以上胜率监管.
+
+今天又遇到一个 57/57 胜率疯眼.
+
+出场率极低, 没人会应对. 专心修机还能被困毙.
+
+匹配时长不谈.
+
+看主播们, 同时匹配的巅峰人屠不会马上在一起, 而是同时等待.
+
+控制机制真的是比 df 还烂.
+
+(idea: idv, but 4v4)
+
+(idea: idv, 1v4 but the hunter and the detectives can pick the same characters.)
+
+---
+
+firefox snap 不能直接安装 extension.
+
+首先是 region. 开全局代理之后解决.
+
+然后提示版本不对.
+
+只好从 adguard github releases 上找到 beta file link.
+
+下载 xpi file, 然后安装. 安装居然显示 "corrupt".
+
+在设置里流转, 找到了 "temp ext" 安装成功. 会不会关闭浏览器就没了?
+
+---
+
+deepseek 在回答结束会思考几秒钟, 决定
+
+- 直接结束
+- 添加 "ai generated for reference only"
+- 变化为 "拒绝回答"
+
+---
+
+llm 太不善于独立思考.
+
+被 prompt 左右.
+
+列举 a, 如 x y. -> 过拟合 x y.
+
+解释 x y. -> 只解释 x y.
+
+---
+
+bs, cr script is running.
+
+i gave up sv. coz i dont believe the sv netease server can exist for long.
+
+instead of playing sv, why not create lsv.
+
+---
+
+`ref` `weather`
+
+幻想时间!
+
+fira 去送外卖了.
+
+- 穿着永雏塔菲.
+- 记录每一家取餐的餐厅和前往的小区.
+- 打 sc, 比如峰哥, 说 "阖眼, 在心中为我献上祝福, 谢谢你."
+- 珍惜光阴的人, 多么痛苦. 人是睡觉时最好.
+- 吃便宜的食物, 但多付一些钱, 去好的餐馆买. 因为 (心中的价值) 值得.
+- 在晚上, 在滨江散心. 抱着黑塔玩偶睡去. 以前住千元酒店时相比, 却不孤单.
+  - 黑塔可以在我左侧或者右侧. 人却像不移不变的大山.
+- 喜欢红茶, 巧克力. 希望把钱付出去. 但不要现在送来.
+- 不想去那些低贱的宾馆或者豪华的宾馆. 我和那些住客, 不同流.
+- 因为, 如果我想的话, 我可以活得低贱, 相当低贱. 我可以.
+- 有时, 打游戏许久, 也没有长进. 若是送外卖的话, 心里反倒些许宽慰.
+- "苹果外卖员"
+- 今天的战利品:
+  - 游戏分数
+  - vibe coding
+  - 文稿
+  - ...
+
+---
+
+收藏夹里, 小 a 在上网被动不见了.
+
+"反对躺平"
+
+> 太幽默了我的果，刪了就等於沒發生嗎[笑哭]
+
+---
+
+18 岁中专生当上保安，饿了就吃麻辣烫吃饱了狠狠滴玩原神
+62.5 万
+1227
+2023-05-26 20:28:57
+
+少年山治君
+发消息
+喜欢游戏 喜欢动漫
+已关注 21.1 万
+
+台灣這 12h 保安基本 8500 ～ 9000+
+
+整個吧 保安 80%都有這價錢，撇除黑心公司 畢竟 12h 如果去電子廠都是 10000+ rmb
+
+不要老看什么工资低不低，就说咱们国家发展的快不快吧[蛆音娘_卖萌]
+
+我也是中专，前年七月份毕业，在学校就喜欢捣鼓电脑硬件，然后学校带我们进厂实习半年，半年下来我拿了 20000，然后回来我们那小县城租房捣鼓洋垃圾
+，整天想着以为能和网上那些一样靠这个发财，结果玩了两月玩不住了，亏了 10000，现在跑广东东莞进厂了，我也是迷茫，不知道干嘛[大哭]
+
+寒假在我爹工地上当保安，我爹出去晃了，我坐值班室，有空调还是舒服的，腊月底一天 250 和我爹分[doge]
+
+一月存 5000，手机玩到吐，无聊就写字
+
+六花好萌好可爱: 还真一个月 5W，手机玩到吐[笑哭][笑哭][笑哭]我爸妈在生我前市区买了一套房，现在成了老破小在我小升初时又买了套大平层 16 年还完了贷，加上之前 10 年世博会上海市政不差钱郊区乡下拆迁了五套房，现在每个月收租就能拿了四五万，我爸退休一个月两万多我妈一万多，毕业拿的工资还没我爸妈退休金高，根本不想努力想托关系去大学里当个宿舍保安摆烂，夜班把门锁好睡觉也无所谓轻轻松松吃喝玩乐过了这辈子
+
+六花好萌好可爱: 伪中产罢了 开摆还能舒服过日子，一旦起了结婚生子的念头就够呛，中间错一环可能几代人积蓄就没了
+
+我也是保安，不社恐，看到不爽的人物直接就怼，只要是妨碍到我的工作的统统不放过，天天打游戏，5500，已经爽死了，干了大半年，这辈子就这样过去了吧，对了，我才 17 岁
+
+我发现这里评论区环境好和谐啊，换别的视频底下如果有中专原神的字眼都被喷烂了
+
+---
+
+总是想用字数最少的 prompt.
+
+却不如意.
+
+"简单的错误, 胜过复杂的正确."
+
+---
+
+那是, 初三时.
+
+每个学生, 得到一张手心大的明信片.
+
+一面风景绘, 一面空白.
+
+f 写了, "不以物喜, 不以己悲".
+
+(尽管后来看出更深的隐喻, 但) 当时的选择, 其实相当字面.
+
+前半句虚无 (因为自己不够强, 逃避现实), 后半句 (无奈地) 自嘲.
+
+记得一个英文好的同学 (yan yutai), 写了 "just let time be precious ::heart::".
+
+或许这只是 "分秒必争, 分分必争" 的同义, 但我想这其实也体现了她内敛 (如捂着嘴笑) 的性格.
+
+(之所以不写直白的祝福话. "just" 一词很有意思.)
+
+后来无意间想起, 竟喜, 收藏之.
+
+---
+
+(googled 姜萍 年龄)
+
+found this
+
+https://shitoubaike.org/wiki/%E5%A7%9C%E8%90%8D
+
+---
+
+谁叫一滴泪
+
+我爱老公金玟池 :
+门酱喜欢黑的吗[dog]
+系统提示：哔哩哔哩直播内容及互动评论须严格遵守直播规范，严禁传播违法违规、低俗血暴、吸烟酗酒、造谣诈骗等不良有害信息。如有违规，平台将进行封禁直至永久封停账号哦！注意理性打赏，未成年不提倡大额打赏。请勿轻信平台上各类广告信息，谨防上当受骗。
+
+岂轻啄金桃 :
+对每天都在干
+
+飞鱼窝
+7
+杜星蘭 :
+看中华蓝翔切片认识的
+
+Nagisa_Tia :
+edl 可以当我妈妈吗？我想堵桥了
+
+我心遺落於海 :
+只关注了蓝翔
+
+飞鱼窝
+6
+天才美少女时珉玥 :
+那个 24 年 6 月 6 号的视频（）
+
+清風化 :
+既然如此就给他一次吧
+
+飞鱼窝
+6
+天才美少女时珉玥 :
+那个时候还是纯良小主播（） 没有说现在不纯良的意思
+
+我心遺落於海 :
+edl 每天都在干嘛
+
+兰兰露巴德 :
+[妙]一滴泪怎么来 b 了
+
+兰兰露巴德 :
+机什么？
+
+飞鱼窝
+2
+我心遺落於海 :
+紫色金色爆率会高 红色概率变化不大
+
+Fira が一番だよ :
+你怎么来这里了...
+
+上帝派来的基督山伯爵 :
+地雷女怎么开始蹭三角洲热度恰米了
+可以点击他人的滚动弹幕进行@啦～
+
+Fira が一番だよ :
+主播会理我吗
+
+飞鱼窝
+8
+味噌汤三号 :
+陪一根
+
+我爱老公金玟池 :
+主播这么晚来 b 站播是想试试水吗
+
+Fira が一番だよ :
+hi 主播主播
+
+飞鱼窝
+2
+我心遺落於海 :
+edl 能不能多在 b 直播
+
+Fira が一番だよ :
+你现在活得如何,
+
+飞鱼窝
+8
+味噌汤三号 :
+edl 恰烟这么勤
+
+Fira が一番だよ :
+我没有在 doudou 关注你
+
+飞鱼窝
+8
+味噌汤三号 :
+[殷秋染收藏集表情包_铸币大头]
+
+飞鱼窝
+2
+我心遺落於海 :
+现在安逸了
+
+年轻的老纨绔 :
+老了玩不动了
+
+飞鱼窝
+8
+味噌汤三号 :
+羡慕前任
+
+飞鱼窝
+5
+不但 MADAO 而且 neet :
+陪一根
+
+Fira が一番だよ :
+我看了一个你的视频就来了
+
+亚撒西的泥歌 :
+你还殴上了
+
+飞鱼窝
+2
+我心遺落於海 :
+edl 多少岁了
+
+Fira が一番だよ
+投喂粉丝团灯牌
+恭喜 Fira が一番だよ 粉丝勋章刚刚升级至 Lv.2
+恭喜 Fira が一番だよ 成为粉丝团成员
+
+Fira が一番だよ :
+主播真可爱
+
+**\_南** :
+那还是好人多啊
+
+Fira が一番だよ :
+别骗人不可能 19
+
+YoRana :
+麻麻
+
+飞鱼窝
+2
+我心遺落於海 :
+edl 封烟小心超管
+
+爽吃凹 :
+一滴泪是萧楚女吗[哇]
+
+飞鱼窝
+6
+天才美少女时珉玥 :
+edl 好像是 06 的吧（）
+
+想想 Hikigaya 怎么做 :
+泪泪能不抽烟了吗我心疼
+
+飞鱼窝
+5
+不但 MADAO 而且 neet :
+很难想象这是我同龄人
+
+Fira が一番だよ :
+你不读大型
+
+Fira が一番だよ :
+大学
+
+飞鱼窝
+6
+天才美少女时珉玥 :
+我靠还真是 06
+
+飞鱼窝
+2
+我心遺落於海 :
+下辈子当 edl 就好了
+
+Fira が一番だよ :
+是不是不学无术的人
+
+飞鱼窝
+6
+天才美少女时珉玥 :
+老粉认证没记错（）
+
+**\_南** :
+edl 别抽烟了好吗我心疼烟
+
+Fira が一番だよ :
+主播是不是很有钱了
+
+飞鱼窝
+5
+不但 MADAO 而且 neet :
+明天还要早八
+
+Fira が一番だよ :
+我去抖抖看看你
+
+爽吃凹 :
+一滴泪是小厨女吗
+
+Fira が一番だよ :
+我是新的
+
+飞鱼窝
+2
+我心遺落於海 :
+可以做美少女的话 没钱也没关系
+
+飞鱼窝
+8
+味噌汤三号 :
+现在是乐府嘛
+
+Fira が一番だよ :
+看了一个你的视频就来了
+
+飞鱼窝
+8
+味噌汤三号 :
+还得是斧子哥[大哭]
+
+飞鱼窝
+5
+不但 MADAO 而且 neet :
+我靠才 1200
+
+夢見る機械 :
+唉复购
+
+Fira が一番だよ :
+如何评价户子
+
+Fira が一番だよ :
+主播见证吗
+Kris_Walker :
+去做皮套
+
+Fira が一番だよ :
+看过哪些番剧
+
+Fira が一番だよ :
+你怎么玩这个白号
+
+Fira が一番だよ :
+新号
+
+咸瓜伞 :
+一滴泪别玩三角洲了
+
+Fira が一番だよ :
+玩个大号, 去航天基地打高级物资多好
+恭喜 Fira が一番だよ 粉丝勋章刚刚升级至 Lv.3
+
+飞鱼窝
+3
+我心遺落於海
+投喂情书
+
+秋叶萧黄风瑟瑟 :
+左边展台上有货
+
+**\_南** :
+游戏现实同时封烟
+
+飞鱼窝
+5
+不但 MADAO 而且 neet
+投喂稳
+共 3 个
+
+飞鱼窝
+6
+不但 MADAO 而且 neet
+投喂稳
+共 4 个
+
+飞鱼窝
+6
+我心遺落於海 :
+edl 把子弹记得放保险
+果然翁丶丶 :
+卡战备的也够
+
+飞鱼窝
+2
+Fira が一番だよ :
+主播抖抖好多流量
+
+**\_南** :
+都怪 edl 的烟
+
+飞鱼窝
+2
+Fira が一番だよ :
+怎么来的, 我想学习
+
+飞鱼窝
+7
+纯血牜马 :
+别把泪姐聊进去了
+
+飞鱼窝
+2
+Fira が一番だよ :
+我现在比你小一些
+
+飞鱼窝
+8
+味噌汤三号 :
+鉴证区迟早的事
+
+飞鱼窝
+8
+味噌汤三号 :
+[殷秋染收藏集表情包_笑稀]
+
+飞鱼窝
+2
+Fira が一番だよ :
+我要如何成为你这样的大明星
+
+飞鱼窝
+6
+我心遺落於海 :
+现在小，以后也会小吧
+
+秀得过我 :
+婵姐开播了，集美们撤
+
+飞鱼窝
+2
+Fira が一番だよ :
+你怎么火的, 我也不知道
+
+秋叶萧黄风瑟瑟 :
+我去，主播竟然有心
+
+飞鱼窝
+2
+Fira が一番だよ :
+我记得我是看了一个你傍晚起床的视频
+
+飞鱼窝
+2
+Fira が一番だよ :
+傍晚起床工作偶像
+
+飞鱼窝
+6
+天才美少女时珉玥 :
+年初瑞平 mijica 的直播切片火出圈了好像
+
+飞鱼窝
+6
+我心遺落於海 :
+穷的一批不能给 edl 爆米很难过
+
+飞鱼窝
+2
+Fira が一番だよ :
+说自己虽然在上海但是不有钱什么的
+
+飞鱼窝
+6
+天才美少女时珉玥 :
+我手机上还存着视频
+
+飞鱼窝
+2
+Fira が一番だよ :
+评论区一堆嘲讽的
+
+飞鱼窝
+2
+Fira が一番だよ :
+因为很有钱装穷
+果然翁丶丶 :
+你俩都选老头有什么用
+
+飞鱼窝
+6
+天才美少女时珉玥 :
+mujica
+
+汤圆苑苑 :
+泪泪我喜欢你
+
+飞鱼窝
+2
+Fira が一番だよ :
+你比那些 tangping 的好很多
+
+秋叶萧黄风瑟瑟 :
+两条区
+
+飞鱼窝
+2
+Fira が一番だよ :
+他们居无定所的
+
+飞鱼窝
+7
+杜星蘭 :
+安卓操作
+
+飞鱼窝
+2
+Fira が一番だよ :
+也是拍摄从起床一天做什么
+
+飞鱼窝
+2
+Fira が一番だよ :
+呜呜呜
+
+飞鱼窝
+6
+我心遺落於海 :
+edl 三个人玩会不会稳一点
+
+恭喜 Fira が一番だよ 粉丝勋章刚刚升级至 Lv.4
+
+飞鱼窝
+6
+天才美少女时珉玥 :
+泪姐晚安我撤退了 明天早八先水饺了
+
+秋叶萧黄风瑟瑟 :
+主播直接六套猛攻航天，一把 1000w
+
+飞鱼窝
+4
+Fira が一番だよ :
+年轻真好啊
+
+飞鱼窝
+6
+不但 MADAO 而且 neet :
+bye
+
+飞鱼窝
+6
+不但 MADAO 而且 neet :
+早八
+
+飞鱼窝
+4
+Fira が一番だよ :
+你都不用上学的
+
+飞鱼窝
+4
+Fira が一番だよ :
+真是野路子啊, 不像我做题书生
+
+飞鱼窝
+4
+Fira が一番だよ :
+我连主页都是数学的东西
+
+米線 p :
+咋这么糊
+
+飞鱼窝
+6
+我心遺落於海 :
+处决羞辱吗 edl 精神攻击上了
+
+飞鱼窝
+8
+味噌汤三号 :
+晚安喵
+
+飞鱼窝
+8
+味噌汤三号 :
+[四季花丸表情包_晚安]
+
+---
+
+> 时间... 简明地求速。
+
+无论时间充裕与否.
+
+"do things fast"
+
+不必每一道题都
+
+- 感性地观察一会
+- 评价题目质量
+- 作答后 check
+
+但一个确定的启示是, fira 得写作 pure math 了.
+
+至少每天要有进展. 而不是沉迷 chemistry. (甚至非功利)
+
+---
+
+think out of the box
+
+思考 fira's idv.
+
+- 角色不强. (比赛, 大神不出现)
+- 排位时间受限.
+
+决定开新号. id: "珍 chin".
+
+---
+
+xuegao cheese.
+
+明天下午下棋?
+
+---
+
+好怀念啊. 好多年前了.
+
+yukeyin (heymay 黑莓).
+
+"何为高级? 苹果手机高级吗?"
+
+记得他发完这一个, 就新号 10k fo 了, 后来好像 1m views.
+
+讲述内容不外乎高一语文思辨性的定义.
+
+(呼应 hu chenfeng)
+
+---
+
+https://www.youtube.com/watch?v=ORZO3W9VIpo
+
+Multiple ‘Lying Flat’ Influencers Get Banned — Is Bad News No Longer Allowed in China?
+
+王志安
+
+youtube 更新得好啊.
+
+可以在全屏的时候同时看评论.
+
+---
+
+终于.
+
+家中, wifi 优化.
+
+https://test.ustc.edu.cn/
+
+网络延迟
+23.2 ms
+延迟抖动
+3.49 ms
+
+方向 测试结果 结果排行 建 议
+下载 69.47 Mbps 40.79% 网速飞快, 恭喜您
+上传 59.44 Mbps 65.25% 网速飞快, 恭喜您
+测速时间: 2025-10-24 16:23:24
+
+全覆盖. wifi 桥接不再需要.
+
+不值得庆幸, 本早该优化了, 不过是因为一些历史局限性.
+
+(isp 营销策略调整)
+
+险恶的家伙, 如何挣尽每一分钱.
+
+upd: 速度快, 但依然不稳定呢. 直连大陆服务器经常 10s 加载不出来 timeout.
+
+---
+
+醒来, 雪糕就已经下完了, 并不在直播. 下了很多 "一手棋有一手棋的价值".
+
+无趣呢.
+
+---
+
+删除了 douyin "喜欢" 的几乎所有视频.
+
+随后公开喜欢.
+
+方法是, 手机软体上, 滑动批量删除, 一次最多 200 个.
+
+会有几秒钟卡顿呢.
+
+(肯定是可以简单优化的. who knows)
+
+---
+
+`ref`
+
+初见 tor browser.
+
+成功访问 zlibrary.
+
+居然还防指纹?
+
+google -> reddit.
+
+about:config
+
+privacy.resistFingerprinting.letterboxing false
+
+顺手关闭了各种 privacy
+
+(感觉还是不顺手. 可能将来只有访问 onion 才会用吧...)
+
+非常 optionized, 把安全看得太重. 比如不能设置 google 为默认搜索.
+
+不知道为什么没有提供 dark theme by default.
+
+不告诉网站我喜欢黑暗, 难道又是防指纹?
+
+重新安装了. 安装在 `opt`. 系统集成于 `.local/share/appliations`
+
+(懒得写到 ubuntu.md 了. 毕竟也不必要使用.)
+
+- 填写 .desktop, 模仿 steam 自动安装的 vrchat. 重写了 exec 和 icon.
+- 连接. 选择地区. 自动寻找 bridge. ok.
+- 在 settings / privacy 关闭隐身模式, 降低防护
+- 在 about:config 搜索 letter 关闭
+- https://forum.torproject.org/t/no-possibility-to-switch-to-dark-theme-for-websites/15086
+- https://forum.torproject.org/t/custom-search-engine-in-tor-browser/2574
+- https://www.google.com/search?q=disable+tor+on+tor+browser&sca_esv=d2ef295a8ffcb0e6&sxsrf=AE3TifN-m9ruVf4eH3Kup1uGPlOlcgkV2w%3A1761340685766&source=hp&ei=De37aNHMLLyPxc8PmK3PgQk&iflsig=AOw8s4IAAAAAaPv7HfwFgnTSHK3vjRJrqWJ92a-W79fd&oq=disable+tor+on+tor&gs_lp=Egdnd3Mtd2l6IhJkaXNhYmxlIHRvciBvbiB0b3IqAggAMgUQIRigATIFECEYoAFIukBQAFiaOnAJeACQAQGYAbwFoAHKQ6oBBjUtMTQuMbgBA8gBAPgBAZgCF6ACkz_CAgoQABiABBhDGIoFwgIFEAAYgATCAgcQIxixAhgnwgILEAAYgAQYkQIYigXCAgcQABiABBgKwgIEECMYJ8ICChAAGIAEGBQYhwLCAgYQABgWGB7CAggQABgWGAoYHsICCxAAGIAEGIYDGIoFwgIFEAAY7wWYAwCSBwg5LjQtMTAuNKAH32GyBwY0LTEwLjS4B-E-wgcGMTkuMy00yAdC&sclient=gws-wiz
+- disable tor (enable when needed)
+  - disable `extensions.torlauncher.start_tor`
+  - disable `network.dns.disabled`
+  - set `network.proxy.socks` ` ` (a single space)
+- newtab https://addons.mozilla.org/en-US/firefox/addon/new-tab-override/
+- dark color scheme `privacy.resistFingerprinting`
+  - https://addons.mozilla.org/en-US/firefox/addon/toggle-dark-mode/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search
+
+---
+
+https://gemini.google.com/app
+
+Humans review some saved chats to improve Google AI. To stop this for future chats, turn off Gemini Apps Activity. If this setting is on, don't enter info you wouldn’t want reviewed or used. How it works
+
+---
+
+Suspicious login prevented
+We blocked an attempt to access your account because we weren't sure it was really you.
+
+This happens when we notice unusual login activity, like an attempt to log in too many times, or from a different location or device.
+
+You'll need to wait before trying to log in again. Some blocks are removed automatically.
+
+Get help with login issues.
+
+完蛋. 我只是重装了一次 tor 啊... (wait...)
+
+upd: done. just an hour's wait and a gmail code.
+
+---
+
+大家都是为了生活，就不要去站道德高地了，来这的都是少年[星星眼]
+
+预制菜给你卖现炒的你恼不恼
+
+(some "literally!", some "idk")
+
+最近有个新闻餐馆一百的菜说自己是现炒的，结果全预制
+
+西贝爱好者：我看你是红豆吃多了
+
+翻译：万人骑还找你要处的价
+
+---
+
+过完中秋节要找工作了，准备重启保安日记
+12.1 万
+622
+2025-10-07 20:20:30
+
+以前摆，是知道自己靠视频、账号，能赚点钱，说白了就是知道自己有后路，现在知道了吧 什么都是不稳的 只有自己踏踏实实最稳
+
+以前，发一个视频带个广告千元到手，再次点百元还是有的，就这样更更停停的，现在被封了，开始勤更新了，广告估计也接不到[呲牙]，我个人觉得被封了挺好的，至少我有乐子看的舒服[吃瓜]
+
+看啥呀，电脑都不让出镜了，看人上班吗？自己白天上班还不够，刷视频也要看人上班，那很会享受了[tv_鬼脸]
+
+聪明，看到小 a 寄了先把名字改了，再找个工作，太稳了山哥[支持]
+
+你山哥那是大号被镇压了，但是还有一个能开小号的机会[笑哭]
+
+小 a 没有改名的机会[笑哭]烧成灰了都
+
+---
+
+想在 weekly 加上.
+
+- categorize berryberry, youtube subscription
+
+但一想, 不是在 blogging readme 了吗.
+
+这个世界, 太多人. 不可能全收集的. (或许将来, 那是将来)
+
+作罢.
+
+awesome 计划, 终究不是个人化的.
+
+btw, "喵喵球球丶" 这样的现代妓女的评论为什么和山治视频一一对应呢? 人间的关系真是奇幻哪.
+
+---
+
+删除了 x.com 的 cookies, 切换节点, 重新尝试.
+
+使用 google oauth, 成功.
+
+终于! 没有必要使用很多 browsers.
+
+simplicity!
+
+我很满意.
+
+---
+
+时间是会花很多的. 20min 作单位好了.
+
+即使,
+
+给 text 加上 chinese support (统计, 阅读速度常量...)
+
+可能也至少要一个单位.
+
+即是一种轻松, 也是一种紧张呢.
+
+---
+
+当初入坑 ubuntu, 因为觉得自己配得上.
+
+想玩 gi, 从 google 游到了 chyk 那里.
+
+喜欢, 于是人工 bfs, 自然关注了 twitter. 此后 (联动? 用今天的话讲) 关注 menci.
+
+平生最爱看上位者的眼泪, 更喜欢 menci 了.
+
+(...)
+
+在 qq 空间游荡. 从 menci 的主页开始.
+
+许多 oiers 活动, pku 入学典礼...
+
+看得想死.
+
+发校园生活, 也平常. 只发一些校府符号, 真是险恶!
+
+---
+
+lulu, 既盼着她死, 也愿望她能活着.
+
+前者, 因为没活, 平生最恨那些闪耀又无所事事的人.
+
+后者, 因为如今大观园诸芳流散, 也只有这头老牛相吊了.
+
+---
+
+yuuki sakuna 1st anniv.
+
+出多少联动商品倒无伤, 就, 也不知道为什么不直播.
+
+淡出视线.
+
+---
+
+`ref`
+
+fira, 外卖员, 决定将生产所得投入到再生产.
+
+- 保安, 月 3000 cny (500 dollar).
+- 工作: 管理公司 (挂壁房) 门禁, 以及使用电脑处理杂务
+- 使用 chromium 和 vscode.
+- 善于使用英文与 ai.
+- 完成测试
+
+测试内容
+
+- english (其他学科也是有用的, 对于教学, 科研, 竞赛而言)
+  - vocab (match en-en meaning) (consistency, clarity, hierarchy...)
+  - vocab (match word-difference) (compare synonyms)
+  - reading (popular culture, like mtf, maimai, cp, linux, chinairl...)
+- web app vibe coding (a poke game, etc.)
+- image generation (a vtuber)
+
+---
+
+deepseek.com 还是太小作坊了.
+
+比如 gemini, 背靠深谙应用层 (ux) 的 google, 在输入一篇几千字文章时会折叠 prompt.
+
+deepseek 就不会, 也没有目录用来索引.
+
+但 gemini 的 markdown renderer library 技术选型好像出了问题!
+
+竟然不能很好处理 `** a ** b ** c **`, 将 b 加粗, 两端星号显示!
+
+---
+
+憋尿俄罗斯方块?
+
+"mitemite pari san"
+
+新的 xp 解锁?
+
+尝试. (把茶喝完...)
+
+~~多喝热水.~~
+
+像是人为控制反应条件... (压力)
+
+upd: 一口喝完 300ml 冬的常温水容易. 新的红茶, 缓些.
+
+https://www.shireyishunjian.com/main/home.php?mod=space&uid=680271&do=thread&view=me&from=space
+
+upd: 本来没什么压力的. 打胶后就很痛. 所以过程中不能打胶啊.
+
+---
+
+https://www.pornhub.com/model/kei27
+
+生活是孤独与无聊的，不知道从何时开始人生就如一潭死水，渐渐的我越来越发现这个社会不适合我生活了。所以我们寻找刺激，但偶尔也要回归最初的模样
+
+Relationship status: Single
+
+Gender: Male
+
+Interests and hobbie: 了解人性，两性。
+
+Turn Ons: 女人。叔本华说过，人就是想得到他（她）没有的东西。你们仔细想想是不是应该也可以这样考虑，大胸，长发，美腿，黑丝
+
+Turn Offs: 一发之后的自我灵魂拷问 and 思考人生哲学
+
+---
+
+https://zhuanlan.zhihu.com/p/25639979118?theme=dark
+
+ACG 里世界-独立开发项目介绍
+
+Johan 约翰
+
+确实，vercel 做个小应用还行，流量大了之后每月 20 刀感觉不如自部署。cloudflare worker 老时断，虽然免费但体验并不好
+
+03-06 · 上海
+
+doki
+独立开发真能赚到钱吗？
+有灰色风险，收入还不如上班多吧。
+
+02-25 · 北京
+
+伊撒尔
+作者
+
+肯定比上班赚的少啊，也就赚个低保而已，但问题是你真能找到班上吗？多得是找了一年都找不到，最终去摆摊的
+
+02-28 · 山东
+
+---
+
+telegram web a 比 web k 稳定?!
+
+在网络不稳定情况下, 更稳定, 也很好了.
+
+---
+
+买了 ikuuu 12cny/month 的节点.
+
+或许可以节省一些时间吧.
+
+尽管 github free nodes 几乎所有时间也可以直接连接 (只需测试一次 https, 取排名最高的).
+
+upd: 然而, wifi 的问题远大于节点的问题
+
+upd: 开了 proxy except cn, 因为 gfwlists 中没有包含 gstatics (最近被 reset?), 也不会配置 routinga
+
+---
+
+Which response is more helpful?
+
+Your choice will help Gemini give you more helpful responses. Loading the response may take a moment.
+
+(two options)
+
+gemini 真会玩.
+
+---
+
+回归 idv 第一把.
+
+匹配了 30 胜率的监管者宿舍, 和 id 相似的双排队友 (50 胜率).
+
+第一定律 (胜率主导一切) 发力!
+
+玩幸运儿, 救人 (同时救援的扛刀了), 然后开枪. 什么都不用做, 三跑.
+
+破译能力完全没有. 没有调香师快. 玩偶破译同一电机, 多次炸机.
+
+老问题. 30 分钟只能打两把. 匹配时间长, 排位不开放.
+
+---
+
+`ref`
+
+三代 c
+
+二代 a b
+
+一代 潘天鸿
+
+tim 家中的二代, a, 出身贫寒, 寒窗苦读, 经科举考入 zju, 后接手圆通速递.
+
+b 未知, c 随机.
+
+(随机指平凡, 未知则小概率特殊.)
+
+---
+
+`ref` `life`
+
+凉哈皮 (coolhappy idv)
+
+似乎想要补充直播时长? 一直观看 bilibili "奇闻观察室".
+
+讲一些大罪人的生平, 生时的成就, 死前的平静.
+
+主播, 似乎是受过党国教育的强左派.
+
+这个频道也用词繁琐. 不知为什么不用文言句法.
+
+"报任安书"
+
+fira 更喜欢西方案件, 相比于布衣百姓, 更尊重犯人的意愿, 使其更有传奇性.
+
+upd: 还有许多真实改编的影视作品
+
+大陆认为稳定压制一切, 不只是犯人, 素人的人权也不得保障 (参考 2019 疫情).
+
+upd: escape from duckov (竟然在 3am 开玩)
+
+fira 是很喜欢这些人的.
+
+不过是被现代社会抛弃罢了, 若是生在荒蛮中, 或当上首领.
+
+人生来没有特别的性质, 在压抑, 扭曲中成长, 又要求其和谐, 怎么不是不幸呢.
+
+或许, 对于他们而言, 真结局从不是被现代化残忍电疗, 亦非向警察 (隐喻人们, 那些曾伤害之者的利益) 伏案自首. 唯有连环杀戮, 逍遥淫逸, 出世求道.
+
+若是前者, 则证明其软弱无能.
+
+然人之 "强度" 主导一切. 弱者是没有一点价值的.
+
+心 (如良善与邪恶), 情, 欲... 与强度无关. (固然有些属性更利于成长/变强)
+
+---
+
+"幻想"
+
+fira 得到了应得的女孩.
+
+多次家暴. 给她菜刀, 若是不杀自己, 继续家暴.
+
+upd:
+
+多次家暴. (给她机会杀自己)
+
+如果活着, 继续家暴.
+
+---
+
+`dev` `ref`
+
+escape from duckov. 搞得 fira 都心潮澎湃了.
+
+- 绝对没有外挂. 类似 bs 的逻辑, 一切服务端校验, 不符合 api 的参数无效. 类似云游戏.
+- 2d 3d 视图随意. 不影响平衡.
+- 厉害的人机 ai.
+- abstraction
+
+---
+
+neoro sama 又在黑屏直播. 根据台词应该是 pandamic company.
+
+upd: Plague Inc: Evolved
+
+4,496 viewers on twitch.
+
+upd: 4,396 on 04:13, ofcoz most are foreigners. (coolhappy is still on live.)
+
+upd: the viewers count is not in sync! (or the interval is high.)
+
+(如今使用 scrcpy, 买了节点的 f, 不得限制!)
+
+upd: 但是 twitch 真恶心, 严格的密码限制, 以及 Your browser is not currently supported. 拜托! (这绝对不是浏览器特性的限制.)
+
+upd:
+
+Supported Browsers
+The desktop web browser experience of twitch.tv and supporting sites officially support:
+
+The two latest versions of Google Chrome
+The two latest versions of Mozilla Firefox
+The most recent version of Microsoft Edge
+The most recent version of Apple Safari
+The most recent version of Opera and Opera GX
+
+天啊, 见鬼.
+
+upd: coolhappy closed the live on about 5am.
+
+upd: followed a lot of channels on twitch (from the similarity based recommendation) using chromium bookmark.
+
+[302/365] ⭐️ 20 WIN CHALLENGE LAST DAY ⭐️ NOW OR NEVER ⭐️ 20 HOUR STREAM ⭐️
+
+28,883
+
+wtf? 20k viewers online on clash royale?!
+
+(upd: while morten 1,798. maybe the viewers dont appreciate hard core ones.)
+
+(he's playing giant bowler gy on mumu android emulator)
+
+(his time is the same as me. but different am/pm.)
+
+upd: even saba only 13310! (yt used scrolling viewer count characters, so copying will appear as "12345...")
+
+---
+
+`ref`
+
+japanese 才是正统 chinese.
+
+现代中国人不理解文言, 把能用一个字表达的意思, 使用两个字的词.
+
+现行语言中唯有 jp 理解了中文字.
+
+---
+
+「脚踏实地，认真做内容」，不应是个悲壮的故事，而应该成为一个「站着活下去，并且活得更丰盛」的故事。
+长期招聘：文字编辑、剪辑/后期制作、新媒体运营、BD 工作地点：北京
+请注明您应聘的岗位，期望薪资
+将简历发送至hr@ark-tv.com
+
+---
+
+hk's official languages includes zh and en.
+
+great!
+
+(best of two worlds)
+
+without jp, which has time zone issue.
+
+---
+
+`ref` `dev`
+
+eat (/awesome)
+
+- content
+- creator
+- subscription
+- favorates
+
+bird
+
+- message
+- file
+- account
+- group (incl. channel, chat)
+- e2ee can be enabled by plugin. since the viewer and sender can be modified.
 
 ---

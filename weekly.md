@@ -1,19 +1,31 @@
+<!--
+scratch pad
+
+weekly
+projects
+
+fatefairy
+vtbsol
+-->
+
 # $weekly$
 
 > _just let time be precious 💖_
 
+<!--
 > $welcome \space to \space hotel \space california$
 
 > 🌕 💤 💤 💤 $\text{23:00}$
+
+> 🍅 ⏲️ $20min$
+ -->
 
 ## .
 
 - _make tools elegant_
 - _make knowledge pure_
 
-> things, not schedule.
-
-<!-- sv, douyin... simeplive... bangumis... remove... -->
+<!-- > things, not schedule. -->
 
 ## 20251008
 
@@ -37,22 +49,22 @@
 - learn physics, chemistry, geography from textbooks & create wiki
 - write math wiki on project pure
 - create math vids with pre, precious and material
-<!-- - write japanese learning wiki on project leisure -->
-<!-- - write go tutorials -->
-<!-- - learn algorithms on luogu -->
-<!-- - write web dev wiki on project intuitive -->
-<!-- - practice math on uee mock test papers -->
-<!-- - read mathematical olympiad series -->
-<!-- - read mathematics, no 2 secondary school attached to ecnu -->
+  <!-- - write japanese learning wiki on project leisure -->
+  <!-- - write go tutorials -->
+  <!-- - learn algorithms on luogu -->
+  <!-- - write web dev wiki on project intuitive -->
+  <!-- - practice math on uee mock test papers -->
+  <!-- - read mathematical olympiad series -->
+  <!-- - read mathematics, no 2 secondary school attached to ecnu -->
 
 ### _night_
 
 - watch simplelive
 - watch evangelion
 - watch hikaru no go
-<!-- - watch mygo -->
-<!-- - watch the melancholy of haruhi suzumiya -->
-<!-- - watch bocchi the rock -->
+  <!-- - watch mygo -->
+  <!-- - watch the melancholy of haruhi suzumiya -->
+  <!-- - watch bocchi the rock -->
 - read snow country
 - read light novels on wenku8
 
@@ -63,9 +75,9 @@
 - create fatefairy game
 <!-- - polish pre app -->
 - create material app
-<!-- - create eat app incl. berryberry rework -->
-<!-- - create leisure app -->
-<!-- - curate world goods list on project awesome -->
+  <!-- - create eat app incl. berryberry rework -->
+  <!-- - create leisure app -->
+  <!-- - curate world goods list on project awesome -->
 - curate artists on berryberry on project awesome
 - revise projects.md
 - categorize web and ruanyf.md to `blogging/lights`
@@ -76,9 +88,9 @@
 - play go on foxwq
 - play video games
 - surf douyin / berryberry / telegram channels / twitter / zhihu
-<!-- - surf / qq group -->
-<!-- - play senrenbanka -->
-<!-- - create origamis following chen xiao's guide -->
+  <!-- - surf / qq group -->
+  <!-- - play senrenbanka -->
+  <!-- - create origamis following chen xiao's guide -->
 
 ### _misc_
 

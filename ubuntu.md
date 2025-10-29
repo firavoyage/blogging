@@ -341,6 +341,7 @@ sudo apt install gnome-shell-extension-prefs
     - -> `git/blogging/config/config github recovery codes.zip`
     - config issuer `Github`
     - config secret `...`
+  - picture in picture https://chromewebstore.google.com/detail/picture-in-picture-extens/hkgfoiooedgoejojocmhlaklaeopbecg?hl=en
 - config fonts
   - -> `chrome://settings/fonts`
   - standard `roboto`

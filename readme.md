@@ -20,7 +20,7 @@
 >
 > アクアは役者さん？
 
-> 🍅 ⏲️ $solanum$
+> 🍅 ⏲️ $20$ <!-- $0 \space 20 \space 40$ -->
 
 <!-- > 🌕 💤 💤 💤 $\text{23:00}$ -->
 
@@ -76,7 +76,7 @@
   - huamei
 - essentials
   - j-pop · rock · folk · jazz · classical
-  - watch · scratch pad · sketchbook · illustrations
+  - watch · journal · scratch pad · sketchbook · illustrations
   - life size waifu pillow · origami · pixel art · gardening
   - anime · boardgames · visualnovels · unixporn · mtf · virtualyoutubers
   - math · algorithms · web dev · game dev · threejs · cpp · python · rust · ai/ml
@@ -84,13 +84,13 @@
   - cynicism · dissociation · inner speech · second person omniscient narration
 - personas
   - acetaffy812
-  - ada mesmer identity v
   - adamwathan
   - anlin zhihu
   - antfu slidev
   - antoninoscordino ntonino
   - anyway.fm/now
   - ayumu maki's lab
+  - battlebots
   - bingtangio
   - bradwoods
   - cdtchinese
@@ -109,11 +109,13 @@
   - elleflorio
   - end3r js13kgames
   - falstaff duolingo
+  - fenggewangmintianya
   - fenxer design scenes fenx.work
   - ftium4
   - funshiki
   - gaearon dan abramov
   - gaou
+  - gorvgoyl clone-wars
   - grant sanderson 3blue1brown
   - growth.design
   - gus brawl stars
@@ -125,6 +127,7 @@
   - hitori gotoh
   - hitw93
   - hsn8086 hsn8086k
+  - huchenfeng
   - hullqin
   - huxpro
   - hzwer
@@ -134,6 +137,7 @@
   - jh3yy
   - jiang yanyan
   - jiangly
+  - jinghanqing
   - jingsheng237248
   - jiongks
   - jjying
@@ -144,6 +148,7 @@
   - kagura mea
   - kasugano sora
   - ke jie go
+  - keven1024 fudaoyuan.icu
   - kkksc03
   - konata izumi
   - krahets
@@ -158,6 +163,7 @@
   - liu yiyi go
   - liujiayi1111 tauri
   - livid v2ex
+  - longbow flintlock gi doujin
   - luan xiao meng zhihu
   - mao niang shen zhihu
   - matrix67
@@ -171,7 +177,7 @@
   - muyushuixin
   - nahida
   - naib subedar identity v
-  - nat friedman
+  - nat friedman github
   - nayuki
   - newlearnerchannel
   - nickel_angel
@@ -190,11 +196,13 @@
   - sama sam altman
   - samekosaba
   - shadcn
+  - shaonianshanzhijun chinese
   - share121
   - shengxj1
   - shiffman
   - shin jin-seo go
   - shizuku lulu
+  - shylily
   - snack life
   - spade echo
   - sparkle
@@ -210,25 +218,29 @@
   - turingou
   - txstc55
   - uzawa reisa
-  - vedal & neuro sama
+  - vedal987 neuro sama
   - verymoes
   - vochant mirekintoc
   - vtbs_irl
   - wanderer above the sea of fog
+  - wang zhian chinese
   - wesbos
   - wu songlei paperclip
+  - xiaoazaishangwang chinese
   - xiaoyaocz simplelive
   - xkcd
   - xpzouying
   - xuegao cheese
   - yeyouchuan
+  - yifenggui apple
   - yifusuyi
+  - yiwanye
   - yokidou
   - yuanchuan
   - yunyoujun
   - yuuki sakuna
   - yxc acwing
-  - zhao-stanley
+  - zhao-stanley web.lab
 - albums
   - heisei anisong taisho
   - kyoto animation
@@ -279,27 +291,28 @@
   - soul (2020)
   - the shawshank redemption (1994)
   - joker (2019)
-  - the chorus (2004)
-  - the phantom of the opera (2004)
+  - the chorus, played in the music class (2004)
+  - the phantom of the opera, played in the music class (2004)
   - your name. (2016)
   - how to make millions before grandma dies (2024)
-  - the legend of 1900 (1998)
-  - les misérables (2012)
+  - the legend of 1900, played in the music class (1998)
+  - les misérables, played in the music class (2012)
   - 5 centimeters per second (2007)
-  - g for gap (2024)
+  - g for gap, lived by funshiki (2024)
   - the last dance (2024)
-  - castle in the sky (1986)
-  - searching (2018)
-  - being john malkovich (1999)
-  - jaws (1975)
+  - castle in the sky, played in the music class (1986)
+  - searching, lived by funshiki (2018)
+  - being john malkovich, lived by funshiki (1999)
+  - jaws, lived by funshiki (1975)
   - flow (2024)
   - wild tales (2014)
-  - the big short (2019)
+  - the big short, lived by funshiki (2019)
   - the truman show (1998)
   - princess mononoke (1997)
   - love letter (1995)
   - wall-e (2008)
   - crayon shin-chan: the storm called: the adult empire strikes back (2001)
+  - rob-b-hood, lived by xuegao cheese (2006)
   - .the disappearance of haruhi suzumiya (2010)
   - .bocchi the rock! recap part 1 (2024)
 - series
@@ -360,12 +373,12 @@
   - golaxy (2018)
   - chess.com (2007)
   - lichess (2010)
-  - kards (2019)
   - shadowverse: worlds beyond (2025)
   - vrchat (2014)
   - identity v (2018)
   - gacha party (2025)
   - douyin (2016)
+  - tetris (1984)
   - .earth online
   - .terraria (2011)
   - .the legend of zelda: tears of the kingdom (2023)
@@ -483,15 +496,16 @@
   - xits math
   - zhi mang xing
 - sites
-  - google · chatgpt · gemini · deepseek · mistral ai
+  - google · gemini · deepseek · grok · chatgpt · mistral ai
   - wikipedia · miraheze · fandom · moegirl.icu · oi wiki · mdn
   - internet archive · archive.today · the pirate bay · z library · anna's archive
   - youtube · berryberry · douyin · niconico · vtbs.moe · hololist
-  - reddit · twitter · zhihu · nga bbs · baidu tieba
+  - old reddit · twitter · zhihu · nga bbs · baidu tieba
   - hacker news · v2ex · github trending · product hunt · codepen spark
   - figma · paper.design · canva
   - douban · imdb · bangumi.tv · my anime list · bgmlist · mikan project · nyaa.si · dmhy.org · zimuku · yuc.wiki
-  - pixiv · deviantart · civitai · e hentai · dribbble · unsplash
+  - pixiv · dribbble · deviantart · civitai · unsplash
+  - e hentai · cnblogs · qq zone · acfun · shireyishunjian · acgn.zone
   - steam db · itch.io · google doodles · vndb · shinnku galgame · kungal · touchgal
   - codeforces · atcoder · luogu · libre oj · project euler
   - travellings.cn · foreverblog.cn · travel.moe · acmer.info
@@ -510,29 +524,30 @@
   - blender
   - cargo
   - cbonsai
+  - chromium | adguard
+  - chromium | authenticator
+  - chromium | bewlybewly
+  - chromium | simple-translate
+  - chromium | tampermonkey
+  - chromium | wakatime
+  - chromium | wayback-machine
   - chromium 124
-    - adguard
-    - authenticator
-    - bewlybewly
-    - simple-translate
-    - tampermonkey
-    - wakatime
-    - wayback-machine
   - code
-    - esbenp.prettier-vscode
-    - felicio.vscode-fold
-    - formulahendry.code-runner
-    - nathanchapman.javascriptsnippets
-    - rust-lang.rust-analyzer
-    - wakatime.vscode-wakatime
-    - xabikos.javascriptsnippets
-    - yzhang.markdown-all-in-one
+  - code | esbenp.prettier-vscode
+  - code | felicio.vscode-fold
+  - code | formulahendry.code-runner
+  - code | nathanchapman.javascriptsnippets
+  - code | rust-lang.rust-analyzer
+  - code | wakatime.vscode-wakatime
+  - code | xabikos.javascriptsnippets
+  - code | yzhang.markdown-all-in-one
   - cowsay
   - fcitx
   - ffmpeg
   - figlet
   - firefox
   - flatpak
+  - foliate
   - fortune
   - g++
   - gedit
@@ -544,9 +559,9 @@
   - gnome-calculator
   - gnome-characters
   - gnome-deja-dup
-  - gnome-evince
+  - gnome-evince <!-- document viewer -->
   - gnome-eyedropper
-  - gnome-nautilus
+  - gnome-nautilus <!-- files -->
   - gnome-newsflash
   - gnome-solanum
   - gnome-system-monitor
@@ -580,6 +595,7 @@
   - telegram-desktop
   - tesseract
   - thunderbird
+  - tor-browser
   - v2raya
   - virtualbox
   - vlc
@@ -740,23 +756,23 @@
 
 ### repos
 
+- `f` creator
 - `blogging` gardener
-  - `/favorites` collector
   - `/lights` learner
-  - `/notes` librarian
-  - `/source` programmer
-  - `/voyagejs` developer
+  - `/favorites` collector
   - `/config` geek
   - `/fira` youtuber
-  - `/pure` `/intuitive` peer
   - `/self` avatar
-  - `/apps` user
+- `resources` librarian
 - `memories` surfer
 - `school` photographer
 - `fonts` designer
+
+<!--
 - `lucky` (archived) otaku
 - `web` (archived) archivist
 - `music` (archived) listener
+ -->
 
 ### here, in `blogging`
 
@@ -764,7 +780,6 @@
 - `weekly` everyday life
 - `projects` wonders and endeavors
 - `ubuntu` digital home decor
-- `blackboard` wax and wane
 - `ruanyf` observation of the digital time
 - `lights/`
   - `readme` the catalog
@@ -773,6 +788,7 @@
   - `florio` advice for the programming ride
   - `jiangyanyan` confused cs graduates in the time
   - ...
+- `blackboard` wax and wane
 - `quotes` (legacy) excerpts of the internet
 - `comments` (legacy) trival things i have heard as a student
 - `wisdom` (legacy) stuff in the mind flow
@@ -780,7 +796,17 @@
 
 ## projection
 
+<!--
+fira is a font from mozilla.
+ -->
+
 > `firavoyage` · `firascript` · `"忘我思考"` · `paperboat2020` (legacy)
+>
+> - `Fira_言序`
+> - `一番のFira`
+> - `Firaが一番だよ`
+> - `fira冬`
+> <!-- - `precious珍 (ちん)` -->
 
 - - wikipedia `User:Firavoyage`
 - - github (gitlab, gitee, gitea) `firavoyage`
@@ -794,7 +820,7 @@
   - chess.com `firascript`
   - duolingo `firavoyage`
 - - youtube `firavoyage`
-  - berryberry `一番のFira` (legacy: `Fira_言序`) `1156993272`
+  - berryberry `一番のFira` (legacy: `Fira_言序`) `1156993272` `bili_26837222900`
   - douyin `firavoyage`
   - acfun `忘我思考` `65210945`
   - opensea `firascript`
@@ -1045,3 +1071,45 @@
 > A 说苹果皮不干净, 削皮吃. B 说苹果皮有营养, 带皮吃. 你怎么看? 论点: 苹果洗一洗吃.
 
 > 人可以做任何事. 无关律法与道义. 只要在自然规律下, 就可能做到. 不一定要从事科学艺术公益. 那些制作 roomtour 的留学生, 渴望得到人的认可. hu chenfeng, 即使不是装糊涂, 拜金也不过平凡是人之欲望. 只是显现出暂时的动物性, 也有可能做出成绩. 天使猫猫酱, 目前有些犬儒, 期待未来 (fira 是自私的. 希望她闪耀. 而不是平静地生活. 她是与 fira 同时代的厉害的人.).
+
+> 之所以能如此简明地展示 sns. 因为, 好友列表里大概是些名人. "我" 知之, 祂们却不知 "我" 为何者, 可能是一条中专厂妹, 一只三花猫, 或者一块通灵石头. 发送讯息, 或许两天内能得到回信. (秒回可不是好消息, 意味着其终日赋闲, 易受扰.) 祂们却几乎没有找我的. (我有时几周不打开 sns.)
+
+> 如果治者背叛了人, 原谅之.
+
+> fira 给年轻人的话.
+>
+> - 内心平静. 不因外物或自身处境变化而喜悲.
+> - 相信自己. 世界上的人, 没有比你重要的. 想法, 只要是你认同的, 就一定是对的. (唯心: 你是地球 ol 唯一的玩家, 一切情非情皆为 npc. )
+> - 如果休息. 有意识地避免浮躁的内容. 木鱼水心的红楼梦解说很好. (对于 douyin: 你是世界的主人. douyin 是你的仆人. 打开前想清楚, 在看到第一个不喜欢的视频, 如广告, 机器人影视解说时立刻关闭.)
+> - 如果清醒. 读 nat friedman (github ceo) (开篇明志: reshape the world to your pref), livid (v2ex founder) 26 to 18.
+> - 有些特别的, 或许针对特定的研究方向 (如编程, 自然科学...), 不提及了. (比如编程, 避免过早优化.)
+
+> 想开一家店. 叫 "治国理政". 中式快餐 (若干小碟子, 各装一道菜).
+
+> 对 berryberry, 不抱多少期待. 幻灭, 只是 a4 纸张一行字. 当然不是无原因的. 但对于不了解红楼梦察举制度的人而言, 不如说是随机数. 就像电子, 虽然不能看明 (得知其位置与状态), 但一定存在. 就像... 虽然难以构造, 但可以证明. 除非, 像鸵鸟一样. 把不稳定的视作应得的, 难免患得患失.
+
+> 性压抑, 经济压抑, 言论压抑.
+
+> 名著, 竟无一支持封建统治.
+
+> llm 一次达到. 与经过多次修改. 完全不同的感受.
+
+> 愿望? 寻 loli 一只, 强上之, 求得死刑. 身中子弹, 竟不亡. 出致 loli 前, 吃盐, 乃卒. 临终前, 祝 loli 考取功名, 出人头地, 建功立业. 谁知那 loli 竟是十年前自己吃鱼板化的, 还是命中的礼物.
+
+> 我构造的图景 (使用什么, 说什么), 决定了我是什么. 很遗憾的是, 在一开始并未使用 vtuber 出道的我, 没有在 bio 上标注 "征服人类" "化凡尘" 的我, 注定会被平凡地评价.
+
+> react is good. vue is poor.
+>
+> - monetization
+> - react's guide and reference
+
+> 不需要靠保密配方来赢. 首先, 从人生的视角, 我不需要赢. 其次, 只要说话 (用一些基本的技巧), 就会获得一定流量. 只要付出时间 (出生在合适的地区), 就能得到一定回报. 资源是充足的. 长远看, 因为科学的发展 (知识只会变多, 不会减少), 经济是上行 (上升) 的. (至于政策如何使世界螺旋, 不必在意.)
+
+> 以前我觉得, 我的性格 (天赋, 成长中的机缘巧合...) , 决定了我走的路. 固然值得肯定, 如果保守一些, 支持体制 (这不是宏大叙事, 很直接的. 比如对于校领导的话, 老师完整复述或者一笔带过或者含沙射影或者只字不提, 以及用词, 如何评价. 评价完全不一样.), 我肯定会走不一样的路. 现在不觉得了, 投胎前祝福父母去好地方, 去上海, 成都, 广州, 浙江, 这样的大城市. 因为我看见, 那些身边的人, 虽然走了不同的路, 有的出国留学了, 有的走正统道路... 就是什么都不做的 (不学习, 或者从事轻松的底层劳动, 或者靠积蓄生活) 也不错. (相比于走什么路, 更关心是否通顺不是吗?)
+
+> fira: pure: further math
+>
+> - guide
+> - reference
+
+> 天才们一直在学习, 任何时候不学习就会落下进度. 那就没有意义了. 应该这样想. 知识有限, 而时间很多. 在任何时间学会这些, 余下时间追求愿望的世界. 荒废数年, 即使去往 tp 也不会开心, fira 的话. 因为 fira 知道体制的黑暗 (不只是知乎).

@@ -1,6 +1,10 @@
-<!-- todo: web, ruanyf -> lights -->
+<!-- todo: web, ruanyf, _/pages -> lights -->
 
-# pages on the internet
+<!-- stuff like nat, livid are already inside ruanyf. -->
+
+# on the internet
+
+## essays
 
 > these are pages mostly from `repo/web`, a legacy repo i used to archive pages in 2024, which are most in mhtml format, now converted to markdown and listed here
 >
@@ -171,3 +175,13 @@
   - Sep 27, 2025
 - `youtube traffic` 谁也成为不了中国的 YouTube
   - society
+- `tim luoyonghao` Tim 与罗永浩的对谈
+  - dev
+- `vedal` Advice
+  - dev guide
+
+## tweets
+
+- 2025.10.26 naoki haba nuxt slidev
+  - https://speakerdeck.com/naokihaba/nuxt-4-no-singleton-data-fetching-layer-de-he-gabian-warunoka?slide=17
+  - dev design vue

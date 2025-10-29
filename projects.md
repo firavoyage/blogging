@@ -1,3 +1,5 @@
+<!-- bird -->
+
 # $projects$
 
 ## .
@@ -86,6 +88,8 @@
 
 > elegance of image editing
 
+- .
+  - 溶解: 将不应存在的内容, 溶解在背景中, 一点不多, 一点不少. mosaic 会保留, 涂鸦会增添.
 - template
   - custom wechat/qq messages
   - meme
@@ -328,6 +332,17 @@
   - as e-hentai
 
 ## learn
+
+### `precious`
+
+> precious 珍 (ちん)
+
+<!-- https://jisho.org/search/%E7%8F%8D%20%23kanji -->
+
+- a sweeter latex for math
+- inspired by
+  - latex
+  - typst
 
 ### `leisure`
 
