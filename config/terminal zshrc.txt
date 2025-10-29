@@ -118,4 +118,8 @@ release() {
     esac
 }
 
+phone() {
+    scrcpy --turn-screen-off --shortcut-mod=lalt & disown
+}
+
 export PATH="$HOME/.local/bin:$PATH"
