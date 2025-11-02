@@ -217,6 +217,14 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `12` 2025.10.26
 - `sp1` 2025.10.27
 - `sp2` 2025.10.28
+- `sp3` 2025.10.29
+- `ex1, ex2` deprecated
+
+### yes, prime minister, narrated by muyushuixin
+
+- `1` 2025.10.30
+- `2` 2025.10.31
+- `3` 2025.11.01
 
 ## gaming
 
@@ -11353,3 +11361,489 @@ bird
 - e2ee can be enabled by plugin. since the viewer and sender can be modified.
 
 ---
+
+endgame 真厉害.
+
+losts 经常与比赛陷阱 (小概率的厄运) 有关.
+
+要么遇到 judges. (完全不同的机制)
+
+---
+
+【The Mortuary Assistant】FISHsisstant
+
+what's the game's objective?!
+
+---
+
+想要, 最终决定不玩 idv. idv 有自身的问题, 不知道为什么不修复.
+
+---
+
+`life` `ref`
+
+看了几个户子的切片. 忽然感觉什么.
+
+"逆天！山东小伙被儒家思想害惨了！满嘴忠孝仁义，想要复兴儒家文化？户晨风憋不住了，节目效果爆"
+
+高一下时,
+
+(期末最后一课, 所有教学工作完成了的休息, f 问他, 数学教育专业如何.)
+
+(当时, 心比天高. 就有做自媒体想法. 问一个强者, 和 f 争年一的. 不过他保守一些.)
+
+(当然也不可能真的和他一起在一个地方录制节目啦. 就是试探他对世界的愿望.)
+
+(背景应该是看了一些小谷数学课之流的 channel. 不过只要冲浪, 迟早会认识世界的.)
+
+老王说,
+
+(做你喜欢的就好)
+
+将来你们就算月薪 3k, 也能过得不错.
+
+(问一个前排随机女孩, 家里房子有吧, 车有吧. 点头.)
+
+(有房子就意味着 1e6 dollar 以上, 因为学区, 通勤等关系.)
+
+一想到他的出身 (安徽六安) 和年龄, 就理解了.
+
+知足的心理. (对比那些年轻教师, 生于斯长于斯, 不会)
+
+---
+
+是, 首相.
+
+木鱼水心大了...
+
+不断花几秒钟夸赞左派政策. (支持现行政策, 体制, 即左派.)
+
+- 疫情
+- 台湾
+- 征兵
+
+真谄媚.
+
+---
+
+anlin 更新了!
+
+夏夜辉煌永不落幕
+
+Anlin
+见雨
+
+LincBKY 等 1294 人赞同了该文章
+发布于 2025-10-18 03:44・云南 ，编辑于 2025-10-18 17:51・云南
+
+失业两年，钱终究是花完了，
+
+资产降到 A3.1 的时候我关掉了银行的动账通知，试图逃避变成两位数的余额，
+
+但支付失败还是血淋淋地出现了。
+
+(标题没查到用典)
+
+---
+
+可能是打开 douyin 后的第五分钟吧.
+
+在 douyin 连续滑动 10 个视频.
+
+没有一处停留.
+
+遂退出.
+
+字节跳动, 你知道 f 的意思吧. 你过拟合了.
+
+---
+
+douyin chat
+
+海上一只猫
+
+2025-10-18 15:29
+
+对方回复或关注你之前，只能发送一条文字消息。请礼貌发言，自觉遵守《抖音自律公约》
+
+你开播啦
+
+？
+
+噢噢刚刚看到你弹幕
+
+2025-10-25 01:48
+
+好怀念啊。绿胖电车。
+
+2025-10-25 02:08
+
+确实
+
+好久没玩了
+
+两年了
+
+---
+
+douyin 网页上无法关注分组.
+
+功能还是不齐全啊. 没有 api.
+
+(平凡的, zh 玩家)
+
+---
+
+google is good at ux.
+
+youtube stats collapsed: "1m views, 3 weeks ago"
+
+youtube stats expanded: "(1...) views, (date)"
+
+---
+
+what the hell. 
+
+google gemini works on firefox, not chromium.
+
+Refused to load the script 'https://www.googletagmanager.com/gtm.js?id=GTM-KKRLL9S' because it violates the following Content Security Policy directive: "script-src 'unsafe-inline' 'unsafe-eval'
+
+https://www.reddit.com/r/Bard/comments/1nn2hhn/what_happened_to_my_gemini/
+
+weird! 
+
+(like x, can not reappear all time)
+
+---
+
+`ref`
+
+firefox on snap is outdated. using flatpak instead.
+
+https://addons.mozilla.org/en-US/firefox/search/?q=adguard
+
+https://discourse.mozilla.org/t/chinese-users-cant-use-ad-blocker-extensions/94823/2
+
+even for jp node, and all proxy?!
+
+mozilla complies with cn?!
+
+> If Mozilla would like to obey chinese rules, it should close all these forum (and any place that allows user input) access to chinese users, because they are not registered to, and under surveillance of chinese government. Does mozilla have the obligation to obey chinese law? Certainly not. Does this change regarding its chinese partner? Still not. The chinese partner could obey the chinese rule by blocking the ublock origin page or whatever measures in their firefox-zh release. The mozilla site, however, should not do the blocking. This action is not catering to the partner’s request, but to chinese government’s order. Morality or Law, even not law, just a foreign order with the lure (or threat) for possible future profit (is there any?), you must choose.
+
+upd: 
+
+final solution: used tor to download the .xpi file. 
+
+(the xpi file on github is "adguard standalone". i prefer the original one.)
+
+不知道为什么默认字体是正楷体, 小学生的回忆...
+
+以后应该不会用 tor 了, 除了访问 onion 和代理.
+
+原本用 tor, 甚至关闭 tor 功能, 意在取代 snap firefox. 
+
+但需要的, 其实只是一个 flatpak firefox, 而非 tor.
+
+upd:
+
+"Gemini isn’t currently supported in your country. Stay tuned!"
+
+免费节点都解锁 gemini 了...
+
+(用 tor 吧. 永远可行. 速度可接受.)
+
+upd:
+
+(从 hk) 切换 sg 节点. solved.
+
+---
+
+twitter 幽默
+
+点击 nav bar avatar, 不是 profile, 而是添加切换退出账号. profile 另有位置.
+
+点击头像, 不是设置, 而是放大. 另有 edit profile.
+
+### nov 2025
+
+(zhangbeihai's vid)
+
+夜雨长秋
+
+坐标上海，高三全年保持六小时以上睡眠，早七晚五，无强制晚自修，作业压力极低，班级清北复交率70%朝上。
+一直觉得上海的学生分流早在小升初和初升高就定型了，这俩个阶段以“自招”为核心的思路实质上已经筛选了精英家庭而非学生。所以在高考阶段顶部和中段已经有了过大的差距，高中三年几乎没有任何值得学的内容[笑哭]
+2025-10-24 00:40
+
+upd: 主页, 四校宣传片. 交大附中.
+
+---
+
+angel neko chan 好像很喜欢商业化...
+
+呜呜呜.
+
+---
+
+llm 真的很容易不断重复思考, 然后 stuck.
+
+比如询问 "a, b, c 三个整数, 三次方和为 4. 给出所有可能的解."
+
+然后就一直枚举.
+
+(几乎所有 repeating 都是源于枚举)
+
+---
+
+幻想出神, 自己打开 douyin 的样子.
+
+忽然觉察, 推荐, 多是喜欢的主题下的低质量内容.
+
+match tag 容易, 可是惊艳的作品又有多少呢.
+
+如果不推荐几年前的内容来. (只推荐最新内容. 这也是 douyin 策略吧.)
+
+---
+
+idv 新赛季! (应该是吧, 11 月了)
+
+新玩法: 掉分车队.
+
+使用盲女. (大人来抓就送, 然后开下一把. 弱监管可以和你玩一会.)
+
+不玩小号. 玩一个号 (任何一个号) 就可以. 
+
+upd: 诶! 还是 40 赛季, 为什么.
+
+看了 wiki, 2025年9月17日维护后-2025年11月27日维护前，共71天.
+
+还早...
+
+(从生日开始的赛季?! 尽管也没兴趣争名, 至少等完善游戏设计.)
+
+upd: 想玩, 大概是看了 coolhappy idv league.
+
+lulu 在看 lol, 但是没玩过. 不知道竞技性在哪里, 再思考什么, 反应什么.
+
+upd: 
+
+即使在五阶, 也开始玩盲女. "挂机流", 自动选点. 
+
+天赋弹射救人. (不考虑活到开门, 用到自起, 即非我压机)
+
+ban 渔女, 愚人金. (监管第二页连在一起的两位.)
+
+(不 ban 歌剧, 因为大人 ban 不完, 选出来就送. ban 常见强势角色.)
+
+轻松玩, 同时刷推理积分 (游戏进度资源, 时装). 毕竟阶位也留不下来.
+
+upd: 
+
+七点, 盲女第一把. 
+
+监管 75 噩梦, 选我旁边居然不抓我, 抓守墓人.
+
+但队友不给力啊, 三人开门, 我半血盖板救人一跑.
+
++0. 一跑 -6, 救活 2 人 1 台 +2, 得分第一 +4.
+
+19:24 第二把结束. 打 35 蜥蜴平局 +15. 开局选我对面抓记者.
+
+平局 3, 结束连败 +4, 两救一台 +1, 天选 +2, 单排平局 +1, 得分第一 +4.
+
+队友 +9, +8, +7.
+
+19:31 第三把. 又是噩梦. 开局蹲下, 从脸上离开 (他以为逃跑, 没想到直接修机).
+
+吃了两次闪现. 简明.
+
+upd: 三人开门平局啦! (还是看队友好. 简明.)
+
+19:34 开第四把匹配. 39 进入对局. (不归林? 不熟悉地图! 这个为什么上线排位了.)
+
+怎么有幻灯师? 技能是什么. (队友击球厉害.)
+
+这把应该没了 (匹配机制). 监管红蝶会玩. 可以各种穿模. 也不会回头 (否则卡模型).
+
+upd: 96 红蝶. 没有机会. 
+
+队友都是强势角色 (佣兵, 击球, 幻灯), 果然三排的 (都大约 30, 历史战绩角色不固定).
+
+19:45 开第五把. 46 进入.
+
+19:54 结束. 41 摄影师, id "小约的摄影师". 遇到医生. 从来没有找到过尸体. 四跑.
+
+58 进入第六把. (avg. a match/10 min, incl. waiting and loading.)
+
+红夫人. 队友博弈失败 (尽管飞轮扛刀), 救人震慑. 运气极差, 胜率也无关紧要了.
+
+06 第七把. 93 蜥蜴平局. (三人. 传送, 我半血, 强开电机. 一亮就倒.)
+
+压好, 救援, 同时冲出地下室, 留一个. 没有技能, 已经拦不住冲门.
+
+15 第八把. 梦之女巫. 果断放弃. 直接修机震慑. (必败, 不必在意那几分). 
+
+不挣扎, 气球刀调酒. (可能还赚了) 卖了.
+
+upd: 居然三跑了. (66 梦, 四阶, 只打了 9 把, 6 胜. 或许网络不好掉线了?)
+
+队友三排 (调酒, 前锋, 火灾) 都是 20. 
+
+(牵制 47 83 12, 命中 5, 全场无救人. 可能逛街了, 不专心.)
+
+24 第九把. 记录员. 大人角色. 开局震慑 (翻窗慢).
+
+37 第十把进. (匹配好久) 70 渔女, 三人开门三跑.
+
+(我卡最后时间, 直接掏下来套搏命.)
+
+(去已经开的门, 出门, 人被偷. 逛街找不到人. 弹射不博弈走门, 点门.)
+
+44 第十一把开. 51 进入地图.
+
+(刚 ban 完角色一瞬间点击了选角色. 结果回弹, 卡 bug. 差一点选不了盲女.).
+
+破轮. 直接当面修机. 189 上椅子. 
+
+54 第十二把开. 
+
+(稍微牵制一会. 否则没有过低, 没有奖励. 查到是 1500.)
+
+> If Individual Battle Deduction Points are too low, the match will not be counted towards the Individual Battle count. (Players must obtain at least 1,500 Deduction Points in Quick/Rank Matches and at least 3,000 Deduction Points in Duo Hunters Mode.) http://www.identityvgame.com/m/coa4/rule/en/index.html#:~:text=If%20Individual%20Battle%20Deduction%20Points,Points%20in%20Duo%20Hunters%20Mode.)
+
+100 渔女 (17/21). 180 秒倒. 5k 分. (操作无关了.)
+
+04 结束. (08 结算.)
+
+0+15+6−4+20−7+7+14−6+17−4-6 = 52
+
+最终结论:
+
+ban 渔女愚人金, 选盲女, 带弹射救援. (飞轮需要反应. 回血需要开门.), 自动区域选择.
+
+遇到大人, 不回头不博弈, 送. 不挣扎, 不爬行, 一般不自愈. 
+
+救援时间宽裕可以蹲起, 但永远不松手.
+
+开门战一般冲门. 有时躲藏.
+
+upd: https://wiki.biligame.com/dwrg/%E8%AE%A4%E7%9F%A5%E5%88%86
+
+认知分也是正期望的. 
+
+推理积分, 所有 pvp 模式都可以获得. 周上限期望大约每天 2h. (不过应该限制了无脑连点器.)
+
+22:15~ 23:00 五排. 自动匹配, 不等待队友. (同样策略, 胜负不再赘述.)
+
+使用 scrcpy 玩一会匹配.
+
+upd: 逆天, 误开了双匹配 
+
+(同时求生监管. 匹配到一队二字 id, 首字母都是日文 "樱". 第二字都是示字旁. 没上过五段)
+
+upd: 捉迷藏是不是最简明的. 看上去不需要操作? 查了 wiki 确定 pvp 都可以增加进度.
+
+匹配到好几个自动生成的 id 幸运儿. 账号贩卖工作室脚本?
+
+我的天, 直接有个人被自动检举为 "筛子队" (farming script) 了.
+
+感觉不好玩. 玩模仿者 (开到 02:00). 
+
+不必 24h 挂机刷上限 (无兴致), 闲暇随意玩.
+
+检索题库, 解锁高级场匹配.
+
+upd: 
+
+看到一个简明连点器, 针对黑杰克的挂机检测漏洞, 在 berryberry 300k views.
+
+5 月份. 那样没有参与感, 没意思.
+
+机器人, 自动寻找破译, 自动校准就可以了.
+
+> Github基本没几个人开发第五的自动化，想搜都搜不到[笑哭] 手头原铁零潮都有Ai自动化，第五果然冷门么......
+
+> 希望单局推理积分加高可以理解，那周上限是不是也该提一下呢。谁懂周一打完两段排位手痒娱乐一会儿和人练一会儿就两万分了的绝望感，一周只能扔三天骰子。。。
+
+> 慎用，多次没刷到300筹码会判定骰子队的，同理刷到300筹码了不管第几只要不挂机都有550骰子分。
+> 最理想的速刷：前三回合都是修一半打了就牵，打一个就行，后面回合都可以直接打。
+> 有人选盲女了都要每回合传来穿去到处打，筹码对局结束不能提现，刷那么多有用？刷300筹码不是让你第一回合就刷满，碰到这种我就换牌当鬼挂机，拉着一起坐牢。
+
+> 我没有用啊都被封了[大哭][大哭][大哭]模仿者被首刀怎么你了@网易第五人格手游 (img: 3 days ban)
+
+> 我闲着没事就玩黑杰克，这样的碰上几个我就会骂几个，你们刷完快退赛后别给我骂就行[笑哭]真的很无助，因为这个模式不坑人不带队友最好遛鬼练新监管然后进去四个挂机牌，挂了也就罢了，让我玩赢了也行，然后一个21点刷出来监管直接去拎别的挂机的，三秒钟我换牌卡都来不及，真的很难忍住不骂
+
+> 没事 脚本看不到你骂人[笑哭]
+
+法罗女土
+蜥E人
+6
+屠榜最高321名 c哭泣小丑c心理学家s6鹿头c调酒师b雕刻人 全网最会用连点器的博主
+
+> "新增黑杰克挂机惩罚规则" (公告 2019, 脚本 2025...)
+
+> 事实证明，我之前黑杰克一直没扣分，今天弄了四把三把捉迷藏直接降到69[呲牙]，还是老老实实黑杰克吧[笑哭]
+> 
+> 捉迷藏很容易被判定挂机，开局倒计时结束五秒后不动算挂机，变身之后一分钟不动算挂机，被打之后不动再被打也算挂机
+
+upd:
+
+结论. 
+
+可能自动化, 对于 f 没有什么意义吧.
+
+- 没有愿望. 几十个珍宝, 没有抽取. 也没有许多想要的角色. (盲女很好.)
+  - 即使有, 也不必强刷, 领取平凡的奖励即可.
+- (trivial) 上限完成时间估算有误. 之前, 一天 2 + 2 排位时间打满. 星期五就满了. 所以可能是 20h 不到, 而不是 14h.
+
+不过可以试水. (upd: 诶, 黑杰克关闭了! 遂弃之.)
+
+- 欲望无边
+- 处罚几乎没有. 一天, 或几天.
+- 简明. (连点器就寥寥几步)
+
+将来, 或许可以制作 ai. (ai 不复杂, 五子棋 ai llm 都可以直接生成.)
+
+- 校准
+- 寻路
+
+竞技没有意义. 因为要记住太多常数 (magic numbers), 技能, 地图模型, 卡 bug.
+
+不过如果有时间长, 思路简单的暴力拟合, 也可以跑, 试试看. 
+
+不过应该也轮不到 idv 吧. 那么多游戏可以 (编写 ai) 玩.
+
+---
+
+vtuber cream 又在钓处男. "连麦, 找喜欢的, 下播, 打电话, 睡觉, 孤独, 不是主播营业."
+
+lciop 直播? 哦! crl wf!
+
+---
+
+OikawaRizumu 可爱. 但 vue, 异教徒.
+
+或许即使满是 react 也不好. 不重要的 tech stuff.
+
+---
+
+sub defeated molight. (molight lost the first game for free.)
+
+---
+
+`ref`
+
+- 冷水洗脸. 开始做一件事之前. 结束之后. 在镜前闭目沉思. 知道自己在做什么.
+- 0, 20, 40. 记录时间. 没有不重要的事情.
+- 知道 llm 的性格. 很重视我的话, 每一个字.
+
+其实 f 不 (总是) 敢做第二件事. 苦.
+
+可以不记录时间的. 消遣. 直到想要认真, 快速地做一件大事情.
+
+---
+
+grok.com offers quick nav between headers. (like sspai)
+
+---
+
+

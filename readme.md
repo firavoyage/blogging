@@ -62,10 +62,12 @@
 - flavors
   - lipton black tea
   - frey dark chocolate bars
+  - butter croissant
   - lays potato chips
   - kentucky fried chicken
   - burger king
   - instant noodles
+  - boiled water
   - coca cola
   - bubble tea
   - sushi
@@ -90,10 +92,10 @@
   - antoninoscordino ntonino
   - anyway.fm/now
   - ayumu maki's lab
-  - battlebots
   - bingtangio
   - bradwoods
   - cdtchinese
+  - chai jing chinese
   - chen xiao origami
   - chiyuki0325
   - chriscoyier
@@ -108,6 +110,7 @@
   - diygod
   - elleflorio
   - end3r js13kgames
+  - endgame battlebots
   - falstaff duolingo
   - fenggewangmintianya
   - fenxer design scenes fenx.work
@@ -127,7 +130,7 @@
   - hitori gotoh
   - hitw93
   - hsn8086 hsn8086k
-  - huchenfeng
+  - hu chenfeng chinese
   - hullqin
   - huxpro
   - hzwer
@@ -330,6 +333,7 @@
   - oshi no ko (2023)
   - bang dream! it's mygo!!!!! (2023)
   - dream of the red chamber, narrated by muyushuixin (1987)
+  - yes, prime minister, narrated by muyushuixin (1986)
   - .date a live (2013)
   - .sword art online (2012)
   - .bocchi the rock (2022)
@@ -379,6 +383,7 @@
   - gacha party (2025)
   - douyin (2016)
   - tetris (1984)
+  - 1883 (2022)
   - .earth online
   - .terraria (2011)
   - .the legend of zelda: tears of the kingdom (2023)
@@ -505,7 +510,7 @@
   - figma · paper.design · canva
   - douban · imdb · bangumi.tv · my anime list · bgmlist · mikan project · nyaa.si · dmhy.org · zimuku · yuc.wiki
   - pixiv · dribbble · deviantart · civitai · unsplash
-  - e hentai · cnblogs · qq zone · acfun · shireyishunjian · acgn.zone
+  - e hentai · archiveofourown · cnblogs · qq zone · acfun · shireyishunjian · acgn.zone
   - steam db · itch.io · google doodles · vndb · shinnku galgame · kungal · touchgal
   - codeforces · atcoder · luogu · libre oj · project euler
   - travellings.cn · foreverblog.cn · travel.moe · acmer.info
@@ -518,6 +523,7 @@
   - oppo enco free 3
   - 3m 1100 foam earplugs
   - (using touchpad instead) logitech wireless mouse m185
+  - morphy richards portable electric kettle mr6090
 - on ubuntu 24
   - adb
   - android-studio
@@ -904,7 +910,7 @@ fira is a font from mozilla.
 
 > 挺羡慕药娘的, 走一遭, 没有什么真正的束缚. 短命好啊, 不要活得久, f 如果说时间上, 走得很远, 要被现在的 f 讨厌哪. 或者说会拿到一个厉害的剧本, 然后被那些不同人间碎片里, 抬起头的 f 看见吗? 233333.
 
-> 二次元 (anime), 鉴证 (literally chinese society criticism), linux (especially arch), cp (abbr of competitive programming, aka oi, acm), mtf, rust, 音游 (music game), vtuber.
+> 二次元 (anime), 见证 (literally chinese society criticism), linux (especially arch), cp (abbr of competitive programming, aka oi, acm), mtf, rust, 音游 (music game), vtuber.
 
 > 很好, 下次可以试试时下流行的俳句或者 emoji.
 
@@ -1113,3 +1119,13 @@ fira is a font from mozilla.
 > - reference
 
 > 天才们一直在学习, 任何时候不学习就会落下进度. 那就没有意义了. 应该这样想. 知识有限, 而时间很多. 在任何时间学会这些, 余下时间追求愿望的世界. 荒废数年, 即使去往 tp 也不会开心, fira 的话. 因为 fira 知道体制的黑暗 (不只是知乎).
+
+> 不再抱着枕头睡觉. 置之首下. 提供恰好的支持力. 整体能量更低, 更稳定. 身体, 不受力的感觉. 如蜻蜓点水. 左手于心. 右手于腹. 心跳. 呼吸. 属于自己的东西. 像是抱着什么, 自己的形状. 喜欢这里. 睡上 10h. 醒来也不急于起身, 平躺, 倚坐, 思考什么. 近些远些的愿望, 回忆... 或者只是休息. fira, 惬意的时光.
+
+> 表拉得最紧, 却没有感觉. 没有晃动不稳定的感觉, 没有束缚求变化的感觉. 融于一体. 或许心的变化, 不再抵触, 不再害怕. 心的皈依 (gui yi). 大腿上无枕头, 似乎空虚. 放着, 会稳定一些. 于是, 还是没有改变呢. 不再将枕头两端嵌入扶手下, 简单一些. 还是小学生的时候, 很喜欢将座椅于桌板无限贴合, 仿佛只要身定, 即超然物外, 心于思绪中. 那时候, 好像间距不够 (一些孩子座椅宽开), fira 想着只要自己做得最好, 就可以无关心世界的言语. 即使老师劝舒展些, 也不应, 只是心中温婉地笑 (不显于色), 像是以苦为乐的不幸, 竟觉着切合自己. 如今沿袭. (音乐课上, 坐半个椅子的思想, 似有留白的韵味, 却如何不觉得物尽其用. 扇子用于风, 用于撕, 赌气不好. 可若只是收纳着, 亦无兴趣.)
+
+> (copied from river) 洗脸. 放上热茶. 书桌前, 坐定, 心静. 摆放一切整齐, 擦拭一切光滑. 简明地, 迅速地做这些. 随后缓些, 清浅地欣赏物件, 光与颜色, 如孩童初见世界. 皆若空游无所依. (目光) 画一幅画. 可爱的, 优雅地. 幻想中的现实. 也可以不画. 但想画. 可以在任何时间完成作品. 可以在心最纯洁, 目最明亮时作画. (如现在)
+
+> 卧室, 地面光洁, 如新装修. 拖鞋, 似酒店赠品, 合身. 凭依, 会暖和些. 棉袜, 轻盈些. 最终选择后者. (放弃温暖的束缚, 独身寒冬.) 在赤脚时反之, 那冷太刺激, 潜移默化地干扰思绪.
+
+> a 得到传播, b 得到限制. 本就是不公平的战场, 何谈输赢.

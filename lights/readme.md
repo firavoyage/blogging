@@ -185,3 +185,21 @@
 - 2025.10.26 naoki haba nuxt slidev
   - https://speakerdeck.com/naokihaba/nuxt-4-no-singleton-data-fetching-layer-de-he-gabian-warunoka?slide=17
   - dev design vue
+- 2025.10.31 镜音
+  - https://x.com/jngyn298282/status/1984101723292758126
+  - 想要一个全是spring风的评论区
+  - (java? ofcoz not!)
+  - another post:
+    ```
+    是否击杀镜音以获得全部财产
+    包括： 
+    ※一部vivoY36
+    ※少许现金
+    ※25g 苯乙胺
+    ※n部小说
+    ※fufu×6
+    ※神秘压缩包和文档
+    ※穹妹泳装手办×DORO手办
+    ※某非主流乐器
+    击杀镜音：J       不击杀镜音：N
+    ```
