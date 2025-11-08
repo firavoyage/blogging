@@ -86,7 +86,8 @@
   - cynicism · dissociation · inner speech · second person omniscient narration
 - personas
   - acetaffy812
-  - adamwathan
+  - adamwathan tailwindcss
+  - animenz
   - anlin zhihu
   - antfu slidev
   - antoninoscordino ntonino
@@ -104,9 +105,11 @@
   - codingstartup
   - cosmicac 2o181o28
   - cyannyan6
+  - daimajia juejin
   - darkf1ames
   - dbinary matrixcascade
   - dingyi dex weekly
+  - disksing
   - diygod
   - elleflorio
   - end3r js13kgames
@@ -115,6 +118,7 @@
   - fenggewangmintianya
   - fenxer design scenes fenx.work
   - ftium4
+  - ftium4 ux weekly
   - funshiki
   - gaearon dan abramov
   - gaou
@@ -152,6 +156,7 @@
   - kasugano sora
   - ke jie go
   - keven1024 fudaoyuan.icu
+  - kk_shinkai sumink
   - kkksc03
   - konata izumi
   - krahets
@@ -160,11 +165,12 @@
   - leongao
   - li jiaqing go
   - lightvector
-  - ling yuan yuan yuan yuan yuan zhihu
   - lingdong- lingdong huang wenyan-lang
+  - lingyuanyuanyuanyuanyuan notrealname zhihu
   - lionleaf
   - liu yiyi go
   - liujiayi1111 tauri
+  - liuran_jyz
   - livid v2ex
   - longbow flintlock gi doujin
   - luan xiao meng zhihu
@@ -334,6 +340,7 @@
   - bang dream! it's mygo!!!!! (2023)
   - dream of the red chamber, narrated by muyushuixin (1987)
   - yes, prime minister, narrated by muyushuixin (1986)
+  - love, chunibyo & other delusions!, narrated by muyushuixin (2012)
   - .date a live (2013)
   - .sword art online (2012)
   - .bocchi the rock (2022)
@@ -384,6 +391,8 @@
   - douyin (2016)
   - tetris (1984)
   - 1883 (2022)
+  - langrensha (2017)
+  - phigros (2019)
   - .earth online
   - .terraria (2011)
   - .the legend of zelda: tears of the kingdom (2023)
@@ -506,10 +515,11 @@
   - internet archive · archive.today · the pirate bay · z library · anna's archive
   - youtube · berryberry · douyin · niconico · vtbs.moe · hololist
   - old reddit · twitter · zhihu · nga bbs · baidu tieba
-  - hacker news · v2ex · github trending · product hunt · codepen spark
+  - hacker news · v2ex · liqi.io · github trending · product hunt · codepen spark
   - figma · paper.design · canva
   - douban · imdb · bangumi.tv · my anime list · bgmlist · mikan project · nyaa.si · dmhy.org · zimuku · yuc.wiki
   - pixiv · dribbble · deviantart · civitai · unsplash
+  - aops · oeis · igdb · metacritic · spotify · pianotify
   - e hentai · archiveofourown · cnblogs · qq zone · acfun · shireyishunjian · acgn.zone
   - steam db · itch.io · google doodles · vndb · shinnku galgame · kungal · touchgal
   - codeforces · atcoder · luogu · libre oj · project euler
@@ -627,10 +637,12 @@
   - legado
   - material-files
   - metro
+  - mihuashi
   - musicfree
   - musictag
   - nekogram
   - onscripter-yuri
+  - pixiv -mod
   - retouch
   - simplelive
   - snapseed
@@ -826,6 +838,7 @@ fira is a font from mozilla.
   - chess.com `firascript`
   - duolingo `firavoyage`
 - - youtube `firavoyage`
+  - twitch `preciouschin`
   - berryberry `一番のFira` (legacy: `Fira_言序`) `1156993272` `bili_26837222900`
   - douyin `firavoyage`
   - acfun `忘我思考` `65210945`
@@ -1129,3 +1142,7 @@ fira is a font from mozilla.
 > 卧室, 地面光洁, 如新装修. 拖鞋, 似酒店赠品, 合身. 凭依, 会暖和些. 棉袜, 轻盈些. 最终选择后者. (放弃温暖的束缚, 独身寒冬.) 在赤脚时反之, 那冷太刺激, 潜移默化地干扰思绪.
 
 > a 得到传播, b 得到限制. 本就是不公平的战场, 何谈输赢.
+
+> fira 应是没有任何性质的存在, 或许强, 更可能弱. 在人间, 就像底层社畜, 在外卖箱前的椅上, 在无窗的房间格板中, 在现代化的狂风之间. 不乐于学习真才实学, 如医学原理, 文学评论. 只是玩些奇技淫巧, 像 vtuber, vibe coder, content creator. 娱乐至死的时代, 泡沫, 财富, 虚名.
+
+> 于是一直穿着棉拖. 温和的支持感. 热量, 汇聚比分散更清楚些.

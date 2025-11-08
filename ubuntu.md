@@ -328,6 +328,8 @@ sudo apt install gnome-shell-extension-prefs
         - zhihu article `*://zhuanlan.zhihu.com/*`
         - nga `*://nga.178.com/*`
     - force google us geolocation
+    - (deprecated, may cause oom) twitter export https://github.com/prinsss/twitter-web-exporter/releases/download/v1.3.0/twitter-web-exporter.user.js
+    - X to Twitter https://greasyfork.org/en/scripts/471572-x-to-twitter
   - bewlybewly https://chromewebstore.google.com/detail/bewlybewly/bbbiejemhfihiooipfcjmjmbfdmobobp
   - wayback machine https://chromewebstore.google.com/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak
     - login
@@ -342,6 +344,8 @@ sudo apt install gnome-shell-extension-prefs
     - config issuer `Github`
     - config secret `...`
   - picture in picture https://chromewebstore.google.com/detail/picture-in-picture-extens/hkgfoiooedgoejojocmhlaklaeopbecg?hl=en
+  - return tweet source label https://chromewebstore.google.com/detail/return-tweet-source-label/mhkngabolhbckfjpmjclhockpdclfppc
+  - control panel for twitter https://chromewebstore.google.com/detail/control-panel-for-twitter/kpmjjdhbcfebfjgdnpjagcndoelnidfj
 - config fonts
   - -> `chrome://settings/fonts`
   - standard `roboto`
