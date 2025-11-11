@@ -1,4 +1,18 @@
-<!-- bird -->
+<!-- bird: telegram -->
+
+<!-- egg: twitter -->
+
+<!-- grammatically: grammarly -->
+
+<!-- 
+
+project human: tagging sns acc
+
+- location (wealth est.)
+- persona: mtf (drug?), adhd, mbti, suicide, ...
+- hobby: politics, olympics, anime, linux, chess, linguistics, music game (maimai?), genshin impact...
+
+ -->
 
 # $projects$
 
@@ -15,6 +29,15 @@
 - make knowledge pure
 
 ## create
+
+### `para`
+
+> document reader (digital book / wiki)
+
+- inspired by
+  - mdbook
+  - gitbook
+  - mkdocs
 
 ### `pre`
 
@@ -692,7 +715,7 @@
 > kards on web, fully free 2 play
 
 - ai
-- inspired by 
+- inspired by
   - nulls royale
 
 ### `svol`
@@ -700,7 +723,7 @@
 > shadowverse on web, fully free 2 play
 
 - ai
-- inspired by 
+- inspired by
   - nulls royale
 
 ## watch
@@ -743,4 +766,3 @@
 > all good things.
 
 > fin
-
