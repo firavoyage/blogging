@@ -235,6 +235,11 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 
 - `1` 2025.11.07
 
+### mr. tree, narrated by muyushuixin
+
+- `1.narration` 2025.11.09
+- `1.explanation` 2025.11.10
+
 ## gaming
 
 ### sr
@@ -12169,6 +12174,169 @@ that worth praises, but...
 the ui to manage them seems overwhelmed, so long a list.
 
 btw, the adguard is really working. although making the area of ads blank feels weird.
+
+---
+
+星布谷地, a new game by mihoyo
+
+stardew valley?
+
+(upd from zhihu referencing rednote: animal crossing by nintendo)
+
+---
+
+`ref`
+
+衣食无忧, 就像收租客, 平白无故地得到了三次元的食宿. 空闲时间里做一些事情.
+
+财富自由, 企及一切可及的, 拥有一切愿想的. 与上一项近似的空闲时间里, 做一些事情.
+
+奔波劳碌, 游离于繁琐事物之间. 较少空闲时间里, 做一些事情.
+
+会做一样的事情? 
+
+知道, 想要做一些事情. 想要打游戏.
+
+cr, majsoul, go (like foxwq)...
+
+---
+
+人生来为了自己.
+
+无论最终是否使人受益.
+
+捐助的人, 相信赠人玫瑰, 皈依自己的信仰.
+
+赌博者, 为了增加财富的可能, 皈依欲望.
+
+杀人徒, 亦然.
+
+忠孝, 政府与家人为了自己的利益, 编造的谣言, 思想毒品.
+
+---
+
+完全使用世界产品, 与完全使用中国大陆产品. (产品, 而非零部件)
+
+相比, 前者好得多.
+
+中医统计看不总是有效, 有些情形通常无效.
+
+hu chenfeng 则会关心细节, 说理辩驳. (fira 不争辩, 自己明白, 自己体验.)
+
+---
+
+高考就算理综算一科也有语数英理四科
+
+上知乎需要参加高考吗？[尴尬]
+
+上了大学就知道高中学科是真正基础中的基础，根本算不上专家
+
+上了互联网就知道高中学科真不是基础中的基础，会有不计其数的人向你证明中国的义务教育工作有多么不到位
+
+还真是[飙泪笑]
+
+小学科目更多，小学知识涉及到了几乎人类所有的专业领域[吃瓜]
+
+高考本质考的只有一科——做题
+
+工作了就知道学的东西都是狗市，还真就是高中最强
+
+主要看你做什么工作。大学的知识确实不是所有人都需要的，就像你去送外卖也不需要知道怎么解二元一次方程
+
+高考数学连微积分都没有还好意思说是数学？
+
+---
+
+累了.
+
+不想于世人争斗.
+
+山外有山.
+
+---
+
+创立 fira 之初, 愿望, 
+
+独立, 丰盈, 智慧.
+
+- 不受时代风云, 世人言语干涉
+- 物质, 精神. 完整. 满足.
+- 先见之明. 长期思想.
+
+若非, 则作罢, 不必创立了.
+
+---
+
+科学发展, 思想解放.
+
+个人化的心绪, 固值得留恋. 但若是谈论时代, 便不外乎.
+
+农民种田, 充实, 若长期饥饿, 则从世间消失. 无关的.
+
+后来, 地主得到了大量农民的捐助. 钱, 购买什么.
+
+- 时间. 自己的时间. 人的时间, 三头六臂.
+- 凭证. 物的创造与获得, 自然的人为定义 (土地, 岛屿).
+
+时间, 是神奇的事物. 但对于大多愚笨的地主而言, 无关.
+
+---
+
+`ref`
+
+project para.
+
+to design a document reader (digital book / wiki).
+
+i will let the page (readme by default) in the middle
+
+left and right are both aside hidden by default, appear on hover.
+
+(on phone, drag from each side.)
+
+page navigation on the left, table of contents on the right.
+
+on the top right corner, a search button and a three dots expand button (themes, fonts, etc.), with low opacity.
+
+---
+
+before the creation of journal app, chromium's history is well designed, really useful.
+
+---
+
+`ref`
+
+removed gok, again.
+
+why removing?
+
+if gok is installed, i can choose to play it or not.
+
+(for possible reinstalling, i have to spend time downloading the contents)
+
+more freedom? the maximum in a larger set >= that in a smallar one (inside).
+
+no. if spending time on gok is never a decent choice, putting an icon of gok on screen only adds distraction, like declaring an unused variable. 
+
+gok, at its best, we have boys and girls in the game, each of which is young, naive, and energetic. (then, why not trying some better games, like the computer games lol, or some interesting multiplayer games on steam?)
+
+but that's not the case. 
+
+the game, is not designed for competitive playing. 
+
+you dont know why you have won, why you have to lose, how to play at the best possible strategy. the elo system is worth criticism.
+
+also, due to a large proportion of upset gamers, which is common in an unfavorable situation, it's hard to stay calm and think wisely.
+
+for me, ive never seen a mindful person loves playing it.
+
+with that time, i can play music games, watch bangumis and movies, read novels, create things.
+
+---
+
+use tor to bypass ip restriction on gemini, again...
+
+(why are some ip less restricted the others?)
 
 ---
 

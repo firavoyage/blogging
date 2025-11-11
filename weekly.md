@@ -37,7 +37,7 @@ vtbsol
 - watch bangumis
 - watch simplelive
 - read (light) novels
-- surf douyin / berryberry / telegram channels / twitter / zhihu
+- surf douyin / berryberry / telegram channels / twitter / zhihu / nga bbs
 - play go
 - categorize web and ruanyf.md to `blogging/lights`
 - categorize berryberry fav, zhihu fav
@@ -73,11 +73,15 @@ vtbsol
 - create sv game
 - create vtbsol game
 - create fatefairy game
+
 <!-- - polish pre app -->
+
 - create material app
-  <!-- - create eat app incl. berryberry rework -->
-  <!-- - create leisure app -->
-  <!-- - curate world goods list on project awesome -->
+
+<!-- - create eat app incl. berryberry rework -->
+<!-- - create leisure app -->
+<!-- - curate world goods list on project awesome -->
+
 - curate artists on berryberry on project awesome
 - revise projects.md
 - categorize web and ruanyf.md to `blogging/lights`
@@ -87,10 +91,11 @@ vtbsol
 
 - play go on foxwq
 - play video games
-- surf douyin / berryberry / telegram channels / twitter / zhihu
-  <!-- - surf / qq group -->
-  <!-- - play senrenbanka -->
-  <!-- - create origamis following chen xiao's guide -->
+- surf douyin / berryberry / telegram channels / twitter / zhihu / nga bbs
+
+<!-- - surf / qq group -->
+<!-- - play senrenbanka -->
+<!-- - create origamis following chen xiao's guide -->
 
 ### _misc_
 

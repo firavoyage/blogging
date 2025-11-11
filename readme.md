@@ -174,6 +174,7 @@
   - livid v2ex
   - longbow flintlock gi doujin
   - luan xiao meng zhihu
+  - luoling8192
   - mao niang shen zhihu
   - matrix67
   - megabits_mzq
@@ -322,6 +323,7 @@
   - wall-e (2008)
   - crayon shin-chan: the storm called: the adult empire strikes back (2001)
   - rob-b-hood, lived by xuegao cheese (2006)
+  - mr. tree, narrated by muyushuixin (2011) 
   - .the disappearance of haruhi suzumiya (2010)
   - .bocchi the rock! recap part 1 (2024)
 - series
@@ -513,7 +515,7 @@
   - google · gemini · deepseek · grok · chatgpt · mistral ai
   - wikipedia · miraheze · fandom · moegirl.icu · oi wiki · mdn
   - internet archive · archive.today · the pirate bay · z library · anna's archive
-  - youtube · berryberry · douyin · niconico · vtbs.moe · hololist
+  - youtube · berryberry · douyin · niconico · hololist · vtbs.moe
   - old reddit · twitter · zhihu · nga bbs · baidu tieba
   - hacker news · v2ex · liqi.io · github trending · product hunt · codepen spark
   - figma · paper.design · canva
@@ -607,6 +609,7 @@
   - sabaki
   - scrcpy
   - shotcut
+  - spotdl
   - steam
   - telegram-desktop
   - tesseract
