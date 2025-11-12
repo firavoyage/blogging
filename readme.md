@@ -40,6 +40,8 @@
 
 > _心 流_
 
+> _恬 静_
+
 > _可 爱_ _优 雅_
 
 > _毋负今日_
@@ -213,6 +215,7 @@
   - shin jin-seo go
   - shizuku lulu
   - shylily
+  - sinyalee alphastar
   - snack life
   - spade echo
   - sparkle
@@ -323,7 +326,7 @@
   - wall-e (2008)
   - crayon shin-chan: the storm called: the adult empire strikes back (2001)
   - rob-b-hood, lived by xuegao cheese (2006)
-  - mr. tree, narrated by muyushuixin (2011) 
+  - mr. tree, narrated by muyushuixin (2011)
   - .the disappearance of haruhi suzumiya (2010)
   - .bocchi the rock! recap part 1 (2024)
 - series
@@ -343,6 +346,7 @@
   - dream of the red chamber, narrated by muyushuixin (1987)
   - yes, prime minister, narrated by muyushuixin (1986)
   - love, chunibyo & other delusions!, narrated by muyushuixin (2012)
+  - reply 1988, narrated by muyushuixin (2015)
   - .date a live (2013)
   - .sword art online (2012)
   - .bocchi the rock (2022)

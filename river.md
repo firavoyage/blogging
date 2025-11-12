@@ -240,6 +240,11 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `1.narration` 2025.11.09
 - `1.explanation` 2025.11.10
 
+### reply 1988, narrated by muyushuixin
+
+- `1` 2025.11.11
+- `2` 2025.11.12
+
 ## gaming
 
 ### sr
@@ -12339,4 +12344,142 @@ use tor to bypass ip restriction on gemini, again...
 (why are some ip less restricted the others?)
 
 ---
+
+`ref`
+
+oop is an abstraction on fp enabling chaining.
+
+---
+
+小流
+2010年3月1日 11:05
+突然对“新的原野”主题那句很反感~~
+就是为了离开这个国家~~
+最纯朴的感情~
+爱国~
+
+Sinya
+2010年3月1日 11:58
+好吧，其实还是改回原来的副标题吧。
+
+不过我不认为爱国是最淳朴的感情……好吧有兴趣探讨一下
+
+(f: 应该是思乡之情吧. 只不过被现代大统领利用, 转写为 patriotic...)
+
+---
+
+有蟑螂, 爬到我的书桌上.
+
+爬到死胡同里, 被夹死了 (彩铅盒子, 墙壁和隔板).
+
+门和地板有很大的空隙, 只能防止老鼠.
+
+这几个月, 杀死了无数动物. 昨天有一只小蜘蛛.
+
+这就是现代人类面对自然的方式.
+
+---
+
+grok 也玩回答二选一的用户调研... 
+
+(好在可以 skip, 不像 gemini 只能刷新网页)
+
+(选择 grok 也是因为 gemini 不仅有时锁区还有时连接 workspace, 不完全用 markdown)
+
+可是, 根本没有生成完成诶!
+
+(upd: 生成的两个回答都被保留了! 好耶!)
+
+---
+
+在学校中, 依然读书...
+
+---
+
+https://www.google.com/search?q=%E7%BE%B0&oq=%E7%BE%B0
+
+有意思. diagram by gen ai.
+
+---
+
+telegram web icon title is sparkling...
+
+wtf. how could i disable it.
+
+upd: no ads on tg web?!
+
+---
+
+03:48 now.
+
+why "rainbowbird" "lcmenci" "bread (himself65)" are still posting on twi?
+
+---
+
+mock test papers on search results are all behind paywall...
+
+(tried sogou weixin search.)
+
+use camera and free ocr instead.
+
+(btw, the papers are cheap, all you may need are less than 10k cny but fira should not stay with the evil.)
+
+---
+
+我又幻想了.
+
+(身为外卖员的) fira, 招聘. 
+
+3k cny in shanghai not remote, english required.
+
+将生产所得投入再生产.
+
+- tim
+- jiangzijun "old money" employ for fun
+- hn: money is at its best to buy time
+
+---
+
+youtube changed ui.
+
+save to favlist, now show a popup instead of an alert.
+
+upd: released a few months ago? but applied to me today.
+
+https://www.reddit.com/r/youtube/comments/1n8nk7k/wtf_is_this_new_ui_and_what_do_you_all_think/
+
+How to Restore the Old Youtube Player UI (2025)
+
+15K views  3 weeks ago
+
+idea: project eat / web extension, userscript (like normalize twitter)
+
+> genuinely, WHO IS ASKING FOR THESE CHANGES?!!
+>
+> Investors and shareholders. Who else stupid.
+
+https://www.youtube.com/watch?v=rxg9wPC9xVI
+
+> Use revanced for android mobile devices and smartube for android based tvs. No ads and no terrible UI
+>
+> PipePipe = Better
+>
+> Looked it up. It's worse than revanced
+>
+> Of the 10,000 different UIs we've had over the past 10 years, this is by far the worst to the point I'm actually going to do something about it before I watch anymore YouTube
+
+---
+
+looking at the greek alphabet table...
+
+"the emperor three" -> "xi"
+
+---
+
+found this. added to weird.
+
+https://www.youtube.com/watch?v=VVcYfQLkyG8
+
+---
+
 
