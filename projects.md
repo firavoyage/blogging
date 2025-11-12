@@ -11,6 +11,7 @@ project human: tagging sns acc
 - location (wealth est.)
 - persona: mtf (drug?), adhd, mbti, suicide, ...
 - hobby: politics, olympics, anime, linux, chess, linguistics, music game (maimai?), genshin impact...
+- music: pink floyd, chinese low position society rap
 
  -->
 

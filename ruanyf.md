@@ -8450,9 +8450,15 @@ OpenAI 的官方项目，展示 AI 的发展历程：每一年，同样的提示
 
 它来自 NotebookLM 的主创人员，他们离开谷歌后的创业产品。目前免费使用，参见[介绍文章](https://www.xda-developers.com/huxe-app-official-launch/)。
 
-##
+## dayflow journal generation by regular screenshots
 
+`app` `ref`
 
+[Dayflow](https://github.com/JerryZLiu/Dayflow)
+
+![](https://cdn.beekka.com/blogimg/asset/202509/bg2025092502.webp)
+
+开源的 macOS 桌面应用，可以生成电脑屏幕一天的时间占用。它每秒截一次屏，然后交给 AI 分析，生成你一天活动的时间线。
 
 ##
 

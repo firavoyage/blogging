@@ -123,7 +123,7 @@
   - React can change how you think about the designs you look at and the apps you build. When you build a user interface with React, you will first break it apart into pieces called _components_. Then, you will describe the different visual states for each of your components. Finally, you will connect your components together so that the data flows through them. In this tutorial, we’ll guide you through the thought process of building a searchable product data table with React.
 - `tailwind utilities` core concepts Styling with utility classes
   - Building complex components from a constrained set of primitive utilities.
-- `llm` 授人以渔：如何构建“超级提示词”来正确地使用AI写作 
+- `llm` 授人以渔：如何构建“超级提示词”来正确地使用 AI 写作
 
 ### story
 
@@ -149,9 +149,15 @@
 - `old laptop` Oldest Viable Laptop
 - `nohello` no hello
 
+### life
+
+- `kk` 一个乐观主义者的专访
+
 ### literary
 
 - `ruanyf on haizi` 春天，想起海子
+- `lixinye` 我的父亲李松坚
+- `lixinye sister` 我的姐姐李新莹——广东宗馥莉的堕落之路
 
 ### info
 
