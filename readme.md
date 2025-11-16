@@ -48,6 +48,10 @@
 
 > _code artist_
 
+> _follow your heart_
+
+> good luck is of original sin.
+
 - a developer, content creator, wikipedian
 - grew up in shanghai
 - on the internet since 2019, which is my actual "home town"
@@ -203,6 +207,7 @@
   - probiusofficial
   - ramsayleung
   - ramsayleung
+  - rosepineus chinese chess dev
   - ruanyf ruanyf weekly
   - saiba momoi
   - sama sam altman
@@ -219,6 +224,8 @@
   - snack life
   - spade echo
   - sparkle
+  - steve jobs apple
+  - student he studio
   - suzumiyasuzume
   - takanashi hoshino
   - tendou alice
@@ -244,6 +251,7 @@
   - xkcd
   - xpzouying
   - xuegao cheese
+  - xzqzmyzxh loli.my
   - yeyouchuan
   - yifenggui apple
   - yifusuyi
@@ -257,6 +265,7 @@
 - albums
   - heisei anisong taisho
   - kyoto animation
+  - peaceful piano
   - the well-tempered clavier (johann sebastian bach)
   - neon genesis evangelion (shiro sagisu)
   - the girl who fell from the sky (joe hisaishi)
@@ -518,9 +527,9 @@
 - sites
   - google · gemini · deepseek · grok · chatgpt · mistral ai
   - wikipedia · miraheze · fandom · moegirl.icu · oi wiki · mdn
-  - internet archive · archive.today · the pirate bay · z library · anna's archive
+  - internet archive · archive.today · the pirate bay · z library · anna's archive · archivecaslytosk.onion
   - youtube · berryberry · douyin · niconico · hololist · vtbs.moe
-  - old reddit · twitter · zhihu · nga bbs · baidu tieba
+  - old reddit · twitter · zhihu · nga bbs · baidu tieba · pincong.rocks
   - hacker news · v2ex · liqi.io · github trending · product hunt · codepen spark
   - figma · paper.design · canva
   - douban · imdb · bangumi.tv · my anime list · bgmlist · mikan project · nyaa.si · dmhy.org · zimuku · yuc.wiki
@@ -642,6 +651,7 @@
   - gboard
   - k9-mail
   - legado
+  - litiaotiao
   - material-files
   - metro
   - mihuashi
@@ -812,6 +822,8 @@
   - `nat` belief of a tech entrepreneur
   - `florio` advice for the programming ride
   - `jiangyanyan` confused cs graduates in the time
+  - `naval` behind the creation of wealth
+  - `lixinye` the modern form of blood relations and love
   - ...
 - `blackboard` wax and wane
 - `quotes` (legacy) excerpts of the internet
@@ -871,8 +883,9 @@ fira is a font from mozilla.
 - _anime otaku_ unworldly girls...
 - _digital hoarder_ memories memories...
 - _idle fellow_ earthly escapade...
-- _simplicity addict_ elegance of ideas...
+- _simplicity addict_ elegance of idea...
 - _indie developer_ libre apps...
+- _lifelong learner_ the art of problem solving...
 
 ## random
 

@@ -124,6 +124,7 @@
 - `tailwind utilities` core concepts Styling with utility classes
   - Building complex components from a constrained set of primitive utilities.
 - `llm` 授人以渔：如何构建“超级提示词”来正确地使用 AI 写作
+- `style` 中文技术文档的写作规范
 
 ### story
 
