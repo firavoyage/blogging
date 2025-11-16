@@ -244,6 +244,9 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 
 - `1` 2025.11.11
 - `2` 2025.11.12
+- `3` 2025.11.13
+- `4` 2025.11.14
+- `5` 2025.11.15
 
 ## gaming
 
@@ -12120,7 +12123,7 @@ meaning?
 
 试玩了一下 douyin live.
 
-不好玩. 
+不好玩.
 
 - 手机可以开播, 使用 (正或反) 摄像头, 语音, 或者指定游戏画面
 - 需要 (点一下) 申请直播权限, 但没有任何要求, 甚至有 "使用录屏内容开播, 平台将回收手游开播权限".
@@ -12134,7 +12137,7 @@ pk 了一堆小主播. fuck.
 
 平台扶持甚至吸引了几个底层人进来...
 
-直播回放也很诡异, 
+直播回放也很诡异,
 
 - 审核不通过, 无法回放. (? 难道技术上, 我自己没有本地回放吗?)
 - 直播时间少, 不回放
@@ -12172,7 +12175,7 @@ yesterday when i tried gok, the system also gave stupid enemies, idling for a ma
 
 https://support.google.com/youtube/answer/6342839?hl=en
 
-youtube does record my activity carefully. 
+youtube does record my activity carefully.
 
 that worth praises, but...
 
@@ -12198,7 +12201,7 @@ stardew valley?
 
 奔波劳碌, 游离于繁琐事物之间. 较少空闲时间里, 做一些事情.
 
-会做一样的事情? 
+会做一样的事情?
 
 知道, 想要做一些事情. 想要打游戏.
 
@@ -12260,7 +12263,7 @@ hu chenfeng 则会关心细节, 说理辩驳. (fira 不争辩, 自己明白, 自
 
 ---
 
-创立 fira 之初, 愿望, 
+创立 fira 之初, 愿望,
 
 独立, 丰盈, 智慧.
 
@@ -12321,13 +12324,13 @@ if gok is installed, i can choose to play it or not.
 
 more freedom? the maximum in a larger set >= that in a smallar one (inside).
 
-no. if spending time on gok is never a decent choice, putting an icon of gok on screen only adds distraction, like declaring an unused variable. 
+no. if spending time on gok is never a decent choice, putting an icon of gok on screen only adds distraction, like declaring an unused variable.
 
 gok, at its best, we have boys and girls in the game, each of which is young, naive, and energetic. (then, why not trying some better games, like the computer games lol, or some interesting multiplayer games on steam?)
 
-but that's not the case. 
+but that's not the case.
 
-the game, is not designed for competitive playing. 
+the game, is not designed for competitive playing.
 
 you dont know why you have won, why you have to lose, how to play at the best possible strategy. the elo system is worth criticism.
 
@@ -12352,14 +12355,14 @@ oop is an abstraction on fp enabling chaining.
 ---
 
 小流
-2010年3月1日 11:05
+2010 年 3 月 1 日 11:05
 突然对“新的原野”主题那句很反感~~
 就是为了离开这个国家~~
 最纯朴的感情~
 爱国~
 
 Sinya
-2010年3月1日 11:58
+2010 年 3 月 1 日 11:58
 好吧，其实还是改回原来的副标题吧。
 
 不过我不认为爱国是最淳朴的感情……好吧有兴趣探讨一下
@@ -12380,7 +12383,7 @@ Sinya
 
 ---
 
-grok 也玩回答二选一的用户调研... 
+grok 也玩回答二选一的用户调研...
 
 (好在可以 skip, 不像 gemini 只能刷新网页)
 
@@ -12428,7 +12431,7 @@ use camera and free ocr instead.
 
 我又幻想了.
 
-(身为外卖员的) fira, 招聘. 
+(身为外卖员的) fira, 招聘.
 
 3k cny in shanghai not remote, english required.
 
@@ -12450,7 +12453,7 @@ https://www.reddit.com/r/youtube/comments/1n8nk7k/wtf_is_this_new_ui_and_what_do
 
 How to Restore the Old Youtube Player UI (2025)
 
-15K views  3 weeks ago
+15K views 3 weeks ago
 
 idea: project eat / web extension, userscript (like normalize twitter)
 
@@ -12481,5 +12484,408 @@ found this. added to weird.
 https://www.youtube.com/watch?v=VVcYfQLkyG8
 
 ---
+
+`ref`
+
+真希望高考后, 能把卷子和答题卡, 邮寄回来啊. 收藏.
+
+府上留一份电子复印件就好.
+
+---
+
+`ref` `weather`
+
+这几天, 受邀在学校参加期中考. 意外遇到的形形色色的人, 特别的人.
+
+第一场. 和零玖在同一考场, 相近位置. chen shiyu 妹妹监考. 此后零玖亦常在身边.
+
+电梯里, 遇到的人, 皆不平凡.
+
+(电梯, 本就很有隐喻. 本是可以乘坐的. 但考虑到历史局限性, 有时需要躲闪师者, 或投机取巧. fira 不然, 当初忽视校长言语, 简明策略, 遂停课, 亦不愿复学. 或因祸得福, 或放荡不羁, 然性情乃命运之缩影.)
+
+- wang zhaohai "在家学得怎样啊!" "完全没学" "干什么呀" "睡觉" "看手机?" (笑)
+- tang xiaojiong "你是明星学生啊" "你来了, 我们班平均分上去呢" "后天数学考试加油啊" (还真是, 但是 fira 心中, 自己班级平均分应是 a+, ~~尽管人数都不够~~, 所以完全想不到, 而且也从来没考虑过平均分这个指标, 不认识这个词语, 只有最高分才有意义, 往一个学校多塞一千个笨蛋, 也无关.) (真会啊, 老玩家了.)
+- . 两位不认识的女老师. 一个女孩后入电梯, 立于 fira 身前. 先入者, 提醒她和 fira 空开些. (或许是 fira 痴痴地笑, 右手食指抵在唇间的缘故. 走神了 ~~用典: shizuku lulu~~. 然而只是没有睡好... 完全没睡嘛!)
+- chen shiyu "你怎么可以坐电梯" "可爱喵, 可爱喵, 可爱喵..." (痴笑) (然后她就离开了. 看来不是想借电梯规则寻衅, 只是害怕 fira.) (会不会是处女呢? 接下来的故事里, chen shiyu 和 fira 又会有怎样的交流呢?)
+- zhou ling "你来考试啦!" "你还认识我啊" "哦哦哦对不起我不认识你" "不是!" (fira 不会说话, 只是故作惊讶. 不过她也不出意外地不解风情呢. 当初她在治理班级时, 也相当左派, 比如引用争权舆论当然包含评价, 教育孩子时要求交出手机密码, 关心校园琐事给出基于儒家正统道德观念的评价.)
+
+都是有名有姓的角色呢.
+
+如果 fira 的生命是一部小说, 索隐来讲, 真是草蛇灰线... (不会吧! 不可能不可能!)
+
+真好啊...
+
+耳边想起 yosuga no sora ost, 放牛班的春天 圣曲, 天空之城 ("真好啊" 出处).
+
+upd:
+
+- tang xiaojiong "明天好好考啊!" (笑) (thumb up)
+- liu yuan "好久不见" "你现在教?" "现在教?" "高一还是高二?" "高三." (恍惚) "哦, 我想起来了. 你原来教两个班, 现在只教一个了." (笑)
+
+街上, 遇到 lida 的孩子. 世界, 在我们之间.
+
+---
+
+莫名回想起初中的一天. (回忆, 很神奇吧!)
+
+学工, 使用电焊, 制作小玩具 (灯泡, 马达, etc.). 写作文.
+
+大家, 写作电焊时的经历, 编造挫折与斗争...
+
+一位 (应该是) 少女, 写下课时, 在学工校园的花园中追逐嬉戏 (也不知道是什么流行的玩法, 孩童真是有趣的生物啊!) 的兴趣.
+
+被表扬. ("你们最开心的时候, 真的是 ... 吗?") (隐喻: 认识你自己. 关心自己. 独立思考, 不从流.) (关于, 关心自己, 可以写得很刺痛. 一生追逐, 却无所得, 身形终于风中散落.)
+
+---
+
+`ref`
+
+"血赚不亏"
+
+(background: 草 loli), 三年血赚, 死刑不亏.
+
+不知怎么又想起了这句话, 可能这反映了那个时代人的普遍思想吧.
+
+看似有些悲伤. 似乎舍弃许多, 换得一次体验.
+
+但, 真的舍弃许多吗?
+
+或许只是一些沉没成本罢了. 不断上升的自杀率, 无所事事便薨然离世的, 还少吗.
+
+或许, 人承认自己的局限性. 囿于外物, 一无所有, 反而开阔.
+
+在局限性下, fira 感叹于人的魄力.
+
+许多死刑犯, 临终前的平静与从容, 知道这个现代世界无法给予所需的, 却执意追寻, 最终竟有所获. (或许对于许多人而言, 在成长中, 木已成舟. 历史的尘埃.)
+
+而非在牢笼中, 为谎言奋斗, 与同类争斗.
+
+想起之前的一个故事.
+
+街边的小卖部. 父亲以枪拍案, "有本事你就自杀!", 枪响. 父亲不思索, 挥起巴掌, 向尚有余温的. 母亲瘫倒在地, 父亦然.
+
+评论声中, 有许多支持那孩子的.
+
+---
+
+`ref`
+
+a sleepless afternoon. maybe 3 hours, from 16 to 19, i didnt do anything.
+
+human's voice is disgusting. the light is dazzling.
+
+maybe i should put on earplug, turn off the light. but i didnt.
+
+i thought i will nap for a while, but idk how long should i.
+
+idk what to do. (maybe i know, but all of them are non urgent.)
+
+on the bed,
+
+thinking what only i know while llms failed. (explaining "exchange observation") feeling conceit. like "but, actually, the one who know that seo, performance is sometimes not really important, is me. llms would never do, things like thinking, deciding between two correct, but conflicting ideas, instead of always picking the louder voice." (japanese literature style.)
+
+thinking lcmenci's quote "realizing im ordinary...".
+
+ordinary or not, that's just a feeling (although at first i consider it growth.). the question is, will i be better if i think so. i didnt have a direct answer. the answer could be "i could be, or be not. in the real world both are the same. having a belief that the star/god will guide me, calmly and confidently walk on my path. getting ordinary may seem hope comes to a loss, like a tragedy, but that's just a quote. a quote can be sad. i could even create more quotes about life and death, hope and loss, attempt and failure, predestined inability. nothing serious."
+
+---
+
+im no longer fascinated of the long thinking time of llms.
+
+i only care the reply.
+
+---
+
+date some girls. many girls. create memories. take photos. write diaries.
+
+one (may incl. her lily friend.) at the same time.
+
+fira would be happy, gently.
+
+(compared to stay with one girl in the lifelong journey.)
+
+---
+
+`weather`
+
+have lunch in "wokka" restaurant. money smelt ladies. modernization.
+
+a world of mental and psycho. spending.
+
+dream a:
+
+were fira wealthy, will she buy animals, cute animals? nil. in the childhood not respecting lives and making fun of pets, resulted a massive number of deaths. pets, the inferior form of living, fira could not emotionally connect with them. petting is like the mastering the slaves in the ancient time. fira would like to have plants, growing themselves independently in the sunshine. going to the restaurants of pretty food, made for taking photos instead of eating, shopping in the street of fashion in the modernized age, putting weird things on the face without the natural feel of beauty, these ladies could not be elegant. so as the girl fira loves.
+
+dream b:
+
+fira dated a modern money smelt lady on the bed.
+
+"are you a human, or a piggy of femina? fira d like to hear your heart."
+
+"a human"
+
+"not a piggy..."
+
+fira's a bit disappointed, but fira will ask the same if she answered vice versa.
+
+dream c:
+
+at school, in a conflict, would i tell the teacher? nil.
+
+if i win, or even my opponent win, either may feel happy.
+
+but in the teacher's office, neither could.
+
+i hope there's a chinese money smelt lady who use the law on me.
+
+then i could get into the prison, without the pain of freedom, and, without feeling guilty. then she could get some money from me, but how could she use.
+
+not being a solopreneur, nor an investor, without the need of buying time, or hiring awesome guys (buying other's time), having no emotion connection of the real world, idk where she could go.
+
+after getting out of the prison, i will find her. holding her hand (wrist), i will let her go as long as she can peacefully look at me and say something to express herself. she could either hit me, or abuse me, but she could not get away. i wont remember the hate, i will forgive her at the time i know she betray me, but i will not forget. the (typical) memories of my generation.
+
+---
+
+exam afterparty.
+
+children, laughter, ignorance, quick reactions.
+
+an age of shallow feelings.
+
+---
+
+following your heart, a luxurious thing nowadays, is evil, as the good luck is of orginal sin.
+
+---
+
+tapxworld/chinatextbook
+
+https://github.com/TapXWorld/ChinaTextbook/commit/ffb9464d667a85806aea2036960dfb33e4160929
+
+```diff
+- 希望未来出现更多`中专生姜萍`这种不是为了考学而读书的人。
++ 希望未来出现更多不是为了考学而读书的人。
+```
+
+"为了避免大文件下载中断，推荐使用 git fetch 替代 git clone：" (zhihu)
+
+---
+
+wait, is this some of your first vtuber debuts you ve ever seen?
+
+that's surprising.
+
+well, i... i hope you, idk... hope you enjoyed.
+
+hope you enjoyed your stay!
+
+there's so many vtubers out there in the world now. im just one of ... millions.
+
+there has to be millions out there. is that crazy... saba... saba saba dingdong!
+
+...
+
+(ofcoz saba wont like me. i havent watched gura before. and i paid nothing, watched only a few clips.)
+
+and im excited for wherever we go on this next journey or wherever it will take us. just me. me and my little lighthouse. and your wherever you are right now sitting nice and cozy.
+
+---
+
+"a b 一定要 a"
+
+---
+
+经典的, 兔兔挨锤后成了神神?
+
+私以为, 此二者皆非正死.
+
+- 任尔东西南北风
+- 你 a 我, 与我无关.
+- 地下, 共产党. (觉醒年代)
+- 韩国学生运动. (reply 1988)
+- 走在前面的人.
+
+- 特别提供.
+- 改 hosts.
+- magnet (torent rss)
+- e2ee
+- tor
+- fediverse
+
+---
+
+elon musk's grok, maybe too stylish.
+
+llm is a medium of thoughts.
+
+upd: why always jumping? (when switch answer, it jumps to bottom. when completing, it jumps to that.) flash of screen.
+
+---
+
+2025 年 11 月 12 日 12:39
+野哥，留言板的 hierarchy 能不能做一个 reddit 风格的？
+
+---
+
+about girls. fira 好像, 真正想做的只是存档.
+
+fira 很早就是 archivist 啦.
+
+小学生的时候, 拿了很多空白的纸张, 装订起来. 首页写上 "世界", 副标题许多. 
+
+第一册应该是 "植物" (小学自然的植物观察记录, 大致就是做了什么, 如何生长, 从一个种子开始. 无一例外地因为浇水过多牺牲了, 不过自然老师希望改成死亡.), 后来有 "动物", 甚至有什么 (用现在的简明语言改写, 不用幼稚的话) "可以把容器倾斜, 改变液体的大致位置. 比如盛汤, 最后的时候, 可以如此. 尽管 fira 至今也不会如是, 因为不想改变容器本来的稳定状态, 喜欢自然的样子. 比如容器摔破一角, 垫一些东西, 就不流出了, 而不必思考如何用文具胶带缝合却屡屡失败, 就像试图用初等数学研究前沿问题那样. 当时的 f 觉得好神奇啊.", 应该是生活经验, 不知道起了什么标题 (应该是二字名词吧, 难道当时的 f 会不追求对仗工整?).
+
+现在可能还收藏着, 就像那个旧电脑 (thinkpad, 键盘中间有红点. 和上面从 mit.edu 下载的一众 scratch 游戏.) 今不知何在. 
+
+也不想寻找了 (虽然应该打开某个柜子就看到了, 又没有藏匿.). 就活在想象中最好.
+
+---
+
+gemini 竟然用 contenteditable, 而不是 input 或者 textarea.
+
+难道这些 stylish stuff 可以被解读?
+
+(实际上一发送, 就 normalize 了)
+
+---
+
+"fira 从不觉得翻墙有什么好的. 她本不应翻墙."
+
+(human right!)
+
+---
+
+许多时代下缺爱的孩子, 在 twitter 上得到了廉价的喜欢.
+
+fira 可不要这份浅薄.
+
+或许, 拍摄黑白纪念照的 fira, 会摆出双马尾, 做着 oshi no ko 中照片一样的手势, "谢邀".
+
+现在 fira 不想打理头发, 人类身上的事物, 油腻的, 杂乱的, 附着的. 
+
+fira 应是无实在的苇草.
+
+---
+
+youtube 
+
+"Recent public opinion regarding Film and Television Hurricane" by mediastorm
+
+122,786 views  17 hours ago
+
+https://www.youtube.com/watch?v=AqQkyAZeP9s
+
+默认使用了 english. (generated, without tim's voice!)
+
+in singapore!
+
+upd: tim 真可怜. 她不需要回应的. 可惜制作娱乐内容 (娱乐至死), 而且似乎是偶像经济 ("涩话"), 而非视频游戏公式之类的. 至于世界, 无关.
+
+---
+
+`weather`
+
+fira 既愿望充实丰盈, 又渴望快活自在.
+
+那是不可能的.
+
+---
+
+渴望增益物质或精神, 需要许多联立的条件的.
+
+运气. 
+
+hu chenfeng 常言道 "你成年了吗? 没有经济独立, 免谈人格独立."
+
+fira 不以然. 人类唯有支持 fira.
+
+如果人不支持 fira, fira 会很简明. 首先, fira 一无所有. 如果烧尽一切, fira 或不亏, 而人类大亏. 既然, 最极端地双输, 不如现在让步 (或者不相信, 那就一步步实施). 如果, 人类诉诸暴力, 那直接进一步, 除非死亡. 如果, 任意人类诉诸法律, 那也简单, 放弃 (在最极端的厄运下, 比如出门被闪电击中, 没有任何机会. 不得到人类的关爱, 是很重的厄运, 唯有求神问鬼, 不相信上帝已死, 等待戈多.). 言语交流不必了, 也不是什么小孩子买冰棒可乐 (最差的地区, 也或能负担, 若无残疾或重病.)
+
+先泯灭一切, 换来 (打开最好可能性的) 门票.
+
+此后, 看自己的时间有多少价值了. 参考 naval 的财富理论.
+
+upd: 其实就是简单的逻辑. 得到人的支持, 就继续 (当成原点, 起跑线, 不觉得得到什么). 不得到, 就简明地, 看看博弈谁最后能赢, 威胁, 但是不愤怒不自卑, 用虚无与宿命的语气. 再次, 就放弃自己.
+
+---
+
+`ref` `weather`
+
+"回应舆情."
+
+辩驳金字塔.
+
+胡适诤友观: 敢言, 能言, 善言.
+
+没有做到的话, 不需要回应. (到这里就结束了. 此后都是假设论敌, 或者个人化的表达.)
+
+"自由 平等 博爱", 这是否背离博爱? 过于傲慢?
+
+(无知之幕, 平庸之恶, 社会达尔文, 优绩...)
+
+就像许多少年爱好者, 企图以初等数学, 思考前沿难题, 却白费功夫一样.
+
+观念的水位, 决定了思想交流的可能性.
+
+(在水位上升的历史过程间, 两个世界碰撞, 带来的牺牲, fira 感到惋惜.)
+
+对于 fira 而言, 从心所欲即可 ("follow your heart"). 当然对于重要的决定, 冷静的话, 权衡与预期是最好的. (尽管许多时候, 人倾向于以成败论英雄, 即忽略期望分布, 人的局限性.)
+
+why? because why not. and because i can. (ofcoz, 敢爱敢恨, 不破不立, 无惧权威, 放荡不羁, 真性情, ... and all that stuff)
+
+那个提出日心说的人被烧死了, 那个原始社会的首领今天被判作黑社会, 那个成功的商人当时被定性投机倒把, 这是时代的局限性 (进步, 或退步, 交由后人批评.). 但与恶魔交易, 泯灭自身的灵魂, 反得不偿失. 宁为玉碎, 不为瓦全. 善恶亦不由己定.
+
+当然, 对于世界而言, 尤其是善于怜悯的人而言, 会有自己的想法, 这些与 fira 无关. (取消文化)
+
+比如, 女孩分手后, 收集前任的负面消息, 公开之 (或夸张, 捏造). 这是很普遍的情绪.
+
+如果, 从批评中获得解脱, fira 也乐意成人之美.
+
+或许 fira 并没有提及某个具体的事情, 因为 fira 不是在特殊地回应, 而是一般性地表达, 以利于后人援引.
+
+如果这个内容, 有朝一日不复存在, 亦无妨, 因为这世界本就是不公平的战场, 而思想的圣火是拦不住的.
+
+...
+
+此外, 关于这个频道. 将来 fira 希望创作一些这样的内容.
+
+- lying flat
+- what i have seen in the real world
+- nostalgia
+- otaku life
+- tech guy
+- the art of problem solving
+- ...
+
+---
+
+点入 cctv 春晚 youtube, 竟然没有找到 block. 在右侧推荐, 反而有 "dont recommend this channel".
+
+(之前, mozilla block ad blockers in cn, 搜索你这个浓眉大眼的家伙也叛变了, 欣赏其一.)
+
+---
+
+连环出轨幼女，被全网封杀？震惊画坛的"夸父追日事件”
+
+[辣眼睛]有些弹幕没事吧，什么叫“他的人生不亏了”，有种膈应人的不适感
+
+如果是二次元里，14的我高低得来一句她已经老了，现实……下不去手还真是抱歉啊[辣眼睛]
+
+而且我就这么说吧，别说是夸父。
+凪白之类的你只要真的去查，私生活下绝对一个比一个变态。都是有钱的大画师，玩过多少人两只手都数不过来。
+日本这些画师根本就经不起查，看谁先爆罢了。
+
+---
+
+有心栽花花不开.
+
+醉翁之意不在酒, 在乎与民同乐.
+
+扫地僧.
+
+(fira, 又在幻想呢...)
+
+---
+
 
 

@@ -13,6 +13,17 @@ project human: tagging sns acc
 - hobby: politics, olympics, anime, linux, chess, linguistics, music game (maimai?), genshin impact...
 - music: pink floyd, chinese low position society rap
 
+project see: chat with llms in a decent ui (chat elegantly)
+
+- (reversed) api, or headless browser
+- elegance
+  - all apis, all ui elements available, a supset of all llm sites
+- automation
+  - ask before completing the answer
+  - iterate using a template
+- navigation
+- naming inspired by grok.
+
  -->
 
 # $projects$
