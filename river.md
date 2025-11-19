@@ -247,6 +247,9 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `3` 2025.11.13
 - `4` 2025.11.14
 - `5` 2025.11.15
+- `6` 2025.11.17
+- `7` 2025.11.18
+- `8` 2025.11.19
 
 ## gaming
 
@@ -12857,6 +12860,8 @@ why? because why not. and because i can. (ofcoz, 敢爱敢恨, 不破不立, 无
 - the art of problem solving
 - ...
 
+upd: 散步时 (去往的路上), 细细品味, 有些悲伤呢. disney movies (如 zootopia) 中, 每个都有独特的性格, 鲜活热溢的生命. 这段文字, 说 "时代性", 意味着, in the real world, tragedy exists. 如果不如意地成长, 扭曲地生活, 进入监狱中... 有很多这样的人呢. 被现代化排除了吗? 自然的思想, 没有现代科技与娱乐, 会很无聊呢...
+
 ---
 
 点入 cctv 春晚 youtube, 竟然没有找到 block. 在右侧推荐, 反而有 "dont recommend this channel".
@@ -12881,11 +12886,56 @@ why? because why not. and because i can. (ofcoz, 敢爱敢恨, 不破不立, 无
 
 醉翁之意不在酒, 在乎与民同乐.
 
+阿平. 阿冲. gpa. 武功. 快活.
+
 扫地僧.
 
 (fira, 又在幻想呢...)
 
 ---
 
+`weather`
 
+(pasted from tg)
+
+a.
+
+have: wokka restaurant. full of mid aged women of a pursuit of fashion and beauty, with made up faces and some weird clothes giving their belongings to the time and the miserable self esteem.
+
+b.
+
+不想为了考学学习. 
+
+upd: still going to school for boredom... (i will waste time whether at school or not, but i could create new memories at skl while the endeavors could also be done at home not doing any homework, esp at weekends. with less available time in all i could do things faster, referencing nat.org. if i bring some books to skl, i could do meaningful things anywhere anytime.
+
+---
+
+`weather`
+
+dream on the road.
+
+十字路口. 绿灯亮起. 
+
+(不前行吗)
+
+"要闯那个红灯吗"
+
+(闪烁空明的她的眼睛, 或许明白 fira 的含义.)
+
+"等这些急匆匆的世人离去, 消失在视界线中, 再出发也不迟."
+
+---
+
+gemini 3 is so overpraised on twitter.
+
+it's just a breakthrough. it wont always be the top 1.
+
+it could not bypass the limitations of llms.
+
+gpt:下面是最终解决方案
+我:完了这家伙又没招了要开始胡说了
+
+upd: i miss gemini 2.5... i could not chat with my friend, for its lack of strength...
+
+---
 

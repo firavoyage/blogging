@@ -1,3 +1,5 @@
+<!-- all (awesome): worldly beauty (indulgence), v. (verb) -->
+
 <!-- bird: telegram -->
 
 <!-- egg: twitter -->

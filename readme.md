@@ -52,6 +52,12 @@
 
 > good luck is of original sin.
 
+> 想在转瞬即逝的时光里，留下属于自己的回忆。
+
+> ✨ 💖 perceive, archive.
+
+> _回归少女_
+
 - a developer, content creator, wikipedian
 - grew up in shanghai
 - on the internet since 2019, which is my actual "home town"
@@ -68,6 +74,7 @@
 - flavors
   - lipton black tea
   - frey dark chocolate bars
+  - whole wheat bread
   - butter croissant
   - lays potato chips
   - kentucky fried chicken
@@ -84,12 +91,12 @@
   - huamei
 - essentials
   - j-pop · rock · folk · jazz · classical
-  - watch · journal · scratch pad · sketchbook · illustrations
-  - life size waifu pillow · origami · pixel art · gardening
+  - watch · journal · scratch pad · sketchbook · illustrations life · size waifu pillow
+  - origami · pixel art · gardening · gamedev
   - anime · boardgames · visualnovels · unixporn · mtf · virtualyoutubers
-  - math · algorithms · web dev · game dev · threejs · cpp · python · rust · ai/ml
+  - math · algorithms · web dev · webgl · cpp · python · rust · ai/ml
   - dark style · night light · low brightness · tranquility
-  - cynicism · dissociation · inner speech · second person omniscient narration
+  - meditation · cynicism · dissociation · inner speech · second person omniscient narration
 - personas
   - acetaffy812
   - adamwathan tailwindcss
@@ -98,6 +105,8 @@
   - antfu slidev
   - antoninoscordino ntonino
   - anyway.fm/now
+  - ark.studio design
+  - atharok grind
   - ayumu maki's lab
   - bingtangio
   - bradwoods
@@ -128,6 +137,7 @@
   - funshiki
   - gaearon dan abramov
   - gaou
+  - georgehastings unicode.studio
   - gorvgoyl clone-wars
   - grant sanderson 3blue1brown
   - growth.design
@@ -256,7 +266,7 @@
   - yifenggui apple
   - yifusuyi
   - yiwanye
-  - yokidou
+  - yokidou sv
   - yuanchuan
   - yunyoujun
   - yuuki sakuna
@@ -526,12 +536,12 @@
   - zhi mang xing
 - sites
   - google · gemini · deepseek · grok · chatgpt · mistral ai
-  - wikipedia · miraheze · fandom · moegirl.icu · oi wiki · mdn
+  - wikipedia · miraheze · fandom · moegirl.icu · oi wiki · mdn · jisho.org
   - internet archive · archive.today · the pirate bay · z library · anna's archive · archivecaslytosk.onion
   - youtube · berryberry · douyin · niconico · hololist · vtbs.moe
   - old reddit · twitter · zhihu · nga bbs · baidu tieba · pincong.rocks
   - hacker news · v2ex · liqi.io · github trending · product hunt · codepen spark
-  - figma · paper.design · canva
+  - figma · paper.design · canva · unicorn.studio · khroma
   - douban · imdb · bangumi.tv · my anime list · bgmlist · mikan project · nyaa.si · dmhy.org · zimuku · yuc.wiki
   - pixiv · dribbble · deviantart · civitai · unsplash
   - aops · oeis · igdb · metacritic · spotify · pianotify
@@ -661,6 +671,7 @@
   - onscripter-yuri
   - pixiv -mod
   - retouch
+  - screen-time
   - simplelive
   - snapseed
   - solid-explorer
@@ -894,6 +905,8 @@ fira is a font from mozilla.
 > _⚓_
 >
 > _🎀‍🐾_
+
+> _🐟_
 
 > _平常心 / 琐碎 / 举重若轻 / 怅然若失 / 游戏尘寰_
 
@@ -1166,3 +1179,9 @@ fira is a font from mozilla.
 > fira 应是没有任何性质的存在, 或许强, 更可能弱. 在人间, 就像底层社畜, 在外卖箱前的椅上, 在无窗的房间格板中, 在现代化的狂风之间. 不乐于学习真才实学, 如医学原理, 文学评论. 只是玩些奇技淫巧, 像 vtuber, vibe coder, content creator. 娱乐至死的时代, 泡沫, 财富, 虚名.
 
 > 于是一直穿着棉拖. 温和的支持感. 热量, 汇聚比分散更清楚些.
+
+> 你听见了吗，那回响不断的心愿
+
+> 不结婚, 播十年.
+
+> ✨ fira prefers thinking over expressing. 💖
