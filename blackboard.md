@@ -125,6 +125,9 @@
   - sept
     - fira `288 a 87 c- 115 a 86 b+ 33 d+ 16 e 38 d`
     - on 20250915 20250916
+  - mid
+    - fira `291.5 b+ 85 d 96 a 110.5 b+ 44 c- 21 d 47 c`
+    - on 20251112 20251113 20251114 
 
 ## jhs fin (hs entrance exam)
 

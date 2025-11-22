@@ -45,7 +45,6 @@ cd f
 git add .
 git commit -m '.'
 git push -f e
-git push -f l
 git push -f a
 cd ..
 
@@ -53,7 +52,6 @@ cd resources
 git add .
 git commit -m '.'
 git push -f e
-git push -f l
 git push -f a
 cd ..
 
@@ -61,7 +59,6 @@ cd blogging
 git add .
 git commit -m '.'
 git push -f e
-git push -f l
 git push -f a
 git pull e master
 cd ..
@@ -70,7 +67,6 @@ cd memories
 git add .
 git commit -m '.'
 git push -f e
-git push -f l
 git push -f a
 git pull e master
 cd ..
@@ -79,7 +75,6 @@ cd school
 git add .
 git commit -m '.'
 git push -f e
-git push -f l
 git push -f a
 git pull e master
 cd ..
@@ -88,12 +83,12 @@ cd fonts
 git add .
 git commit -m '.'
 git push -f e
-git push -f l
 git pull e master
 cd ..
 
 cd ..
 }
+
 
 release() {
     file="$1"
