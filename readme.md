@@ -81,18 +81,18 @@
   - burger king
   - instant noodles
   - boiled water
-  - coca cola
-  - bubble tea
+  - takoyaki
   - sushi
   - tea egg
-  - senbei
+  - coca cola
+  - bubble tea
   - dried mango
   - chenpi
   - huamei
 - essentials
   - j-pop · rock · folk · jazz · classical
-  - watch · journal · scratch pad · sketchbook · illustrations life · size waifu pillow
-  - origami · pixel art · gardening · gamedev
+  - watch · journal · scratch pad · sketchbook · illustrations · life size waifu pillow
+  - origami · pixel art · gardening · gamedev · design engineer
   - anime · boardgames · visualnovels · unixporn · mtf · virtualyoutubers
   - math · algorithms · web dev · webgl · cpp · python · rust · ai/ml
   - dark style · night light · low brightness · tranquility
@@ -130,7 +130,7 @@
   - end3r js13kgames
   - endgame battlebots
   - falstaff duolingo
-  - fenggewangmintianya
+  - fenggewangmintianya chinese
   - fenxer design scenes fenx.work
   - ftium4
   - ftium4 ux weekly
@@ -162,6 +162,7 @@
   - jiangly
   - jinghanqing
   - jingsheng237248
+  - jinhanqing chinese
   - jiongks
   - jjying
   - johann sebastian bach
@@ -198,6 +199,7 @@
   - minami iwasaki
   - minato aqua
   - miyuki takara
+  - modisijixushifu chinese
   - mrcongliu
   - mugumogu maru
   - muyushuixin
@@ -216,11 +218,10 @@
   - potetomj
   - probiusofficial
   - ramsayleung
-  - ramsayleung
-  - rosepineus chinese chess dev
+  - rosepineus chess gamedev
   - ruanyf ruanyf weekly
   - saiba momoi
-  - sama sam altman
+  - sama sam altman openai
   - samekosaba
   - shadcn
   - shaonianshanzhijun chinese
@@ -258,6 +259,7 @@
   - wu songlei paperclip
   - xiaoazaishangwang chinese
   - xiaoyaocz simplelive
+  - xiaoyaosanren
   - xkcd
   - xpzouying
   - xuegao cheese
@@ -265,7 +267,7 @@
   - yeyouchuan
   - yifenggui apple
   - yifusuyi
-  - yiwanye
+  - yiwanye design
   - yokidou sv
   - yuanchuan
   - yunyoujun
@@ -556,8 +558,7 @@
   - casio fx-991cw classwiz scientific calculator
   - oneplus buds 3
   - oppo enco free 3
-  - 3m 1100 foam earplugs
-  - (using touchpad instead) logitech wireless mouse m185
+  - 3m e-a-rsoft yellow neons earplugs
   - morphy richards portable electric kettle mr6090
 - on ubuntu 24
   - adb
@@ -642,6 +643,7 @@
   - virtualbox
   - vlc
   - wine
+  - yt-dlp
   - zsh
 - on android 11
   - aegis-authenticator

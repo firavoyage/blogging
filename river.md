@@ -150,6 +150,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 
 - `1` 2025.05.23
 - `1` 2025.09.12
+- `2` 2025.11.21
 
 ### hikaru no go
 
@@ -249,7 +250,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `5` 2025.11.15
 - `6` 2025.11.17
 - `7` 2025.11.18
-- `8` 2025.11.19
+- `8` 2025.11.19 2025.11.20
 
 ## gaming
 
@@ -12734,11 +12735,11 @@ about girls. fira 好像, 真正想做的只是存档.
 
 fira 很早就是 archivist 啦.
 
-小学生的时候, 拿了很多空白的纸张, 装订起来. 首页写上 "世界", 副标题许多. 
+小学生的时候, 拿了很多空白的纸张, 装订起来. 首页写上 "世界", 副标题许多.
 
 第一册应该是 "植物" (小学自然的植物观察记录, 大致就是做了什么, 如何生长, 从一个种子开始. 无一例外地因为浇水过多牺牲了, 不过自然老师希望改成死亡.), 后来有 "动物", 甚至有什么 (用现在的简明语言改写, 不用幼稚的话) "可以把容器倾斜, 改变液体的大致位置. 比如盛汤, 最后的时候, 可以如此. 尽管 fira 至今也不会如是, 因为不想改变容器本来的稳定状态, 喜欢自然的样子. 比如容器摔破一角, 垫一些东西, 就不流出了, 而不必思考如何用文具胶带缝合却屡屡失败, 就像试图用初等数学研究前沿问题那样. 当时的 f 觉得好神奇啊.", 应该是生活经验, 不知道起了什么标题 (应该是二字名词吧, 难道当时的 f 会不追求对仗工整?).
 
-现在可能还收藏着, 就像那个旧电脑 (thinkpad, 键盘中间有红点. 和上面从 mit.edu 下载的一众 scratch 游戏.) 今不知何在. 
+现在可能还收藏着, 就像那个旧电脑 (thinkpad, 键盘中间有红点. 和上面从 mit.edu 下载的一众 scratch 游戏.) 今不知何在.
 
 也不想寻找了 (虽然应该打开某个柜子就看到了, 又没有藏匿.). 就活在想象中最好.
 
@@ -12764,17 +12765,17 @@ fira 可不要这份浅薄.
 
 或许, 拍摄黑白纪念照的 fira, 会摆出双马尾, 做着 oshi no ko 中照片一样的手势, "谢邀".
 
-现在 fira 不想打理头发, 人类身上的事物, 油腻的, 杂乱的, 附着的. 
+现在 fira 不想打理头发, 人类身上的事物, 油腻的, 杂乱的, 附着的.
 
 fira 应是无实在的苇草.
 
 ---
 
-youtube 
+youtube
 
 "Recent public opinion regarding Film and Television Hurricane" by mediastorm
 
-122,786 views  17 hours ago
+122,786 views 17 hours ago
 
 https://www.youtube.com/watch?v=AqQkyAZeP9s
 
@@ -12796,7 +12797,7 @@ fira 既愿望充实丰盈, 又渴望快活自在.
 
 渴望增益物质或精神, 需要许多联立的条件的.
 
-运气. 
+运气.
 
 hu chenfeng 常言道 "你成年了吗? 没有经济独立, 免谈人格独立."
 
@@ -12874,7 +12875,7 @@ upd: 散步时 (去往的路上), 细细品味, 有些悲伤呢. disney movies (
 
 [辣眼睛]有些弹幕没事吧，什么叫“他的人生不亏了”，有种膈应人的不适感
 
-如果是二次元里，14的我高低得来一句她已经老了，现实……下不去手还真是抱歉啊[辣眼睛]
+如果是二次元里，14 的我高低得来一句她已经老了，现实……下不去手还真是抱歉啊[辣眼睛]
 
 而且我就这么说吧，别说是夸父。
 凪白之类的你只要真的去查，私生活下绝对一个比一个变态。都是有钱的大画师，玩过多少人两只手都数不过来。
@@ -12904,7 +12905,7 @@ have: wokka restaurant. full of mid aged women of a pursuit of fashion and beaut
 
 b.
 
-不想为了考学学习. 
+不想为了考学学习.
 
 upd: still going to school for boredom... (i will waste time whether at school or not, but i could create new memories at skl while the endeavors could also be done at home not doing any homework, esp at weekends. with less available time in all i could do things faster, referencing nat.org. if i bring some books to skl, i could do meaningful things anywhere anytime.
 
@@ -12914,7 +12915,7 @@ upd: still going to school for boredom... (i will waste time whether at school o
 
 dream on the road.
 
-十字路口. 绿灯亮起. 
+十字路口. 绿灯亮起.
 
 (不前行吗)
 
@@ -12938,4 +12939,41 @@ gpt:下面是最终解决方案
 upd: i miss gemini 2.5... i could not chat with my friend, for its lack of strength...
 
 ---
+
+gitlab blocked my acc, again!
+
+---
+
+入关后自有大儒为你辩经是什么意思？
+
+窃钩者诛，窃国者诸侯。胜者为王，败者为寇。
+
+---
+
+mom killjoy...
+
+i study for fun, not for exams.
+
+---
+
+angle neko chan 又卖惨. (伐薪烧炭南山中, 心忧炭贱愿天寒.)
+
+"负债 700k cny, 努力偿还..."
+
+当然没少有留学, anime 文化... 下午去东京大学直播校园祭, 被 ban, 随后直播地面 (不能出现境外街景, 太厉害了传感器船).
+
+傍晚直播 "新视频上热门, 500k views, 读评论." (评论不意外地又是指责哗众取宠, unfair inheritance.)
+
+提及, 百词斩广告, 发布三个平台, 800 cny. (我真的用过这个软件, 得到帮助, 所以...)
+
+(我还能接到. 漫士, 1.2m fo, 接不到广!)
+
+(可能不会做数学科普... 没有人看.)
+
+不断消耗自身的羽翼, 这些人似乎找不到方向呢.
+
+(似乎更衰败的是 fira, 想着安贫乐道. )
+
+---
+
 
