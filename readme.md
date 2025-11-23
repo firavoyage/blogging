@@ -83,6 +83,7 @@
   - boiled water
   - takoyaki
   - sushi
+  - bee cheng hiang sliced pork
   - tea egg
   - coca cola
   - bubble tea
@@ -160,6 +161,7 @@
   - jh3yy
   - jiang yanyan
   - jiangly
+  - jiangzijun zhihu
   - jinghanqing
   - jingsheng237248
   - jinhanqing chinese
@@ -538,7 +540,7 @@
   - zhi mang xing
 - sites
   - google · gemini · deepseek · grok · chatgpt · mistral ai
-  - wikipedia · miraheze · fandom · moegirl.icu · oi wiki · mdn · jisho.org
+  - wikipedia · miraheze · fandom · moegirl.icu · oi wiki · mdn · jisho.org · hpoi
   - internet archive · archive.today · the pirate bay · z library · anna's archive · archivecaslytosk.onion
   - youtube · berryberry · douyin · niconico · hololist · vtbs.moe
   - old reddit · twitter · zhihu · nga bbs · baidu tieba · pincong.rocks
