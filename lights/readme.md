@@ -143,6 +143,7 @@
 - `cat compute` Is my cat Turing-complete?
 - `yunyoujun anime` collection of anime girls that yunyoujun loves
 - `kkksc03 oi stories` 新春故事会《美好人生》
+- `egoist` This is a living document of the tools, software, and hardware I use. If there is something missing, reach out to me on [X/Twitter](https://x.com/localhost_5173)
 
 ### weather
 

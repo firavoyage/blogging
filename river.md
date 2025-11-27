@@ -201,6 +201,11 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `2` 2025.10.16
 - `3` 2025.10.17
 - `4` 2025.10.18
+- `5` 2025.11.24
+- `6` 2025.11.25
+- `7` 2025.11.25
+- `8` 2025.11.26
+- `9` 2025.11.27
 
 ### dream of the red chamber, narrated by muyushuixin
 
@@ -12976,4 +12981,84 @@ angle neko chan 又卖惨. (伐薪烧炭南山中, 心忧炭贱愿天寒.)
 
 ---
 
+why energetic?
+
+when so, i could
+
+- get all tissues out, and throw away the box, if i could not get the tissue out
+- think out of the box when getting stuck, finding a new way
+- smart context switching
+
+---
+
+found twitter's ip location feature. 
+
+(when adding a list, saw acc info.)
+
+but not accurate. just a country... may not figure out how wealthy or educated.
+
+(like in china ml, shandong means poor education and high rat race.)
+
+---
+
+许多订单发货. 
+
+feeling good.
+
+(试试看仅退款, 能否通过. 作为一只支豚, 低信誉, 贪得无厌, 不择手段, 也是不可不品的啊!)
+
+---
+
+电车难题, 没有什么技巧啊.
+
+- 阶级 (与时代的关联). 如果仅一边是企业家, 科学家, 竞技选手, etc. 直接选择.
+- 利益. 选择后, 会得到什么.
+
+生命是不存在的. 人活着和死了无差.
+
+---
+
+淘宝设计得愚笨.
+
+ui 混乱, 复杂 (对比 amazon).
+
+存储占用大.
+
+更换了头像, 聊天窗口竟然还是原本头像, 缓存更新不及时.
+
+语言混乱. 系统语言为英文, 手机号 86, 与商人搭讪时竟然有正体中文的提示.
+
+仅退款的商品, (自动?) 遣返了居然没有明确提示.
+
+机制人治. 大量使用 (血汗) 人工服务. 
+
+居然风控, 要求人脸验证. (任何国际化产品不为之, 不尊重人权.)
+
+在正式版本中, 有大量不尊重时间的愚蠢页面.
+
+完整的 philistine.
+
+---
+
+"评价返现金"
+
+"撕毁不退不换"
+
+...
+
+what a pity being chinese.
+
+---
+
+这个世界没有什么是长久的喵... (笑)
+
+但是也巧, 我妈死了.
+
+fira 也快死了.
+
+身边有小穹和 mortis, 感觉明天死了也很好呢.
+
+朝闻道.
+
+---
 

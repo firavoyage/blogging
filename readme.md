@@ -92,12 +92,12 @@
   - huamei
 - essentials
   - j-pop · rock · folk · jazz · classical
-  - watch · journal · scratch pad · sketchbook · illustrations · life size waifu pillow
-  - origami · pixel art · gardening · gamedev · design engineer
-  - anime · boardgames · visualnovels · unixporn · mtf · virtualyoutubers
-  - math · algorithms · web dev · webgl · cpp · python · rust · ai/ml
+  - watch · journal · scratch pad · sketchbook · illustrations · life size waifu pillow · fluffy doll · gardening
+  - origami · pixel art · design · gamedev · calligraphy · kanji · skeuomorph
+  - anime · visualnovels · unixporn · mtf · virtualyoutubers
+  - boardgames · linguistics · math · algorithms · vibe coding
   - dark style · night light · low brightness · tranquility
-  - meditation · cynicism · dissociation · inner speech · second person omniscient narration
+  - mindfulness · meditation · cynicism · dissociation · inner speech · second person omniscient narration
 - personas
   - acetaffy812
   - adamwathan tailwindcss
@@ -113,6 +113,7 @@
   - bradwoods
   - cdtchinese
   - chai jing chinese
+  - chen hao coolshell
   - chen xiao origami
   - chiyuki0325
   - chriscoyier
@@ -127,6 +128,7 @@
   - dingyi dex weekly
   - disksing
   - diygod
+  - egoist chatwise anime-sedai
   - elleflorio
   - end3r js13kgames
   - endgame battlebots
@@ -178,7 +180,7 @@
   - kk_shinkai sumink
   - kkksc03
   - konata izumi
-  - krahets
+  - krahets helloalgo
   - leanrada kalabasa
   - leaverou
   - leongao
@@ -220,6 +222,7 @@
   - potetomj
   - probiusofficial
   - ramsayleung
+  - randy lutaonan.com
   - rosepineus chess gamedev
   - ruanyf ruanyf weekly
   - saiba momoi
@@ -446,27 +449,20 @@
   - .inzoi (2025)
 - books
   - to live (yu hua)
-  - the water level of ideology (liu yu)
-  - road ahead (ruan yifeng)
-  - meditations on life (zhou guoping)
-  - twelve letters for the young (zhu guangqian)
-  - letter to da zhuang (miao wei)
-  - liu qing's lectures on modern western thought (liu qing)
   - a long gaze (lung yingtai)
-  - dream of the red chamber (cao xueqin)
   - hackers and painters (paul graham)
+  - road ahead (ruan yifeng)
+  - javascript: the good parts (douglas crockford)
+  - the water level of ideology (liu yu)
+  - liu qing's lectures on modern western thought (liu qing)
+  - twelve letters for the young (zhu guangqian)
+  - dream of the red chamber (cao xueqin)
   - integer overflow: the development, prosperity and decline of olympics in informatics (xu xiling)
   - refactoring ui (adam wathan & steve schoger)
-  - learn react (react community)
-  - javascript: the good parts (douglas crockford)
-  - javascript: the definitive guide seventh edition (david flanagan)
-  - c++ primer fifth edition (barbara e. moo & josée lajoie & stanley b. lippman)
-  - c++ primer plus sixth edition (stephen prata)
-  - hello algo (krahets)
-  - competitive programmers' handbook (antti laaksonen)
-  - mathematics, no 2 secondary school attached to east china normal university (liu chuxi & shi hongliang & cai dongshan)
+  - learn (react.dev)
   - mathematical olympiad series (xiong bin & ...)
-  - .one hundred years of solitude (gabriel garcía márquez)
+  - snow country (yasunari kawabata)
+  - no longer human (osamu dazai)
   - .metaphors we live by (george lakoff & mark johnson)
   - .godel, escher, bach (douglas hofstadter)
   - .shakespeare's sonnets (william shakespeare)
@@ -480,7 +476,6 @@
   - .remarks on the song lyric and the human condition (wang guowei)
   - .the literary mind and the carving of dragons (liu xie)
   - .the smiling, proud wanderer (jin yong)
-  - .snow country (yasunari kawabata)
 - echoes
   - anyway.fm (jj ying & leon gao)
   - beyond code (randy lu & geek plux)
