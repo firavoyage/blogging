@@ -319,6 +319,7 @@ sudo apt install gnome-shell-extension-prefs
     - target language `chinese(simplified)`
     - behavior when selecting text `display translation panel`
   - tampermonkey https://chromkewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
+    - disable update tab `settings:config mode = advanced` `settings:appearance:show update notification = disabled`
     - zhihu enhancement https://greasyfork.org/en/scripts/419081
     - zhihu dark mode https://greasyfork.org/en/scripts/408224
     - allow copy https://greasyfork.org/en/scripts/12561-allow-copy-and-context-menu-continued
@@ -356,6 +357,8 @@ sudo apt install gnome-shell-extension-prefs
 - enhance performance
   - -> `chrome://settings/performance`
   - memory saver `on`
+- disable spellcheck
+  - `chrome://settings/languages`
 
 ## `code`
 

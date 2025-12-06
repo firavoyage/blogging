@@ -20,11 +20,11 @@
 >
 > アクアは役者さん？
 
-> 🍅 ⏲️ $20$ <!-- $0 \space 20 \space 40$ -->
+> 🍅 ⏲️ $20$ <!-- $\text{0 20 40}$ -->
 
-<!-- > 🌕 💤 💤 💤 $\text{23:00}$ -->
+> 🌕 💤 💤 💤 $\text{23 00}$
 
-> 🌕 💤 💤 💤 $\text{early (?)}$
+<!-- > 🌕 💤 💤 💤 $\text{early (?)}$ -->
 
 > _忘 我 思 考_
 
@@ -42,6 +42,8 @@
 
 > _恬 静_
 
+> _快 活_
+
 > _可 爱_ _优 雅_
 
 > _毋负今日_
@@ -57,6 +59,10 @@
 > ✨ 💖 perceive, archive.
 
 > _回归少女_
+
+<!-- if you ever miss me, just close your eyes. maybe i will appear in your dreams. -->
+
+<!-- fira 💖, she/her (🏳️‍⚧️ ✖️ 🍥 ✖️), 🇬🇧 ✔️, 🇨🇳 ❔, 🇯🇵 ✖️, 🇫🇷 ✖️ -->
 
 - a developer, content creator, wikipedian
 - grew up in shanghai
@@ -92,7 +98,7 @@
   - huamei
 - essentials
   - j-pop · rock · folk · jazz · classical
-  - watch · journal · scratch pad · sketchbook · illustrations · life size waifu pillow · fluffy doll · gardening
+  - watch · journal · scratch pad · sketchbook · illustrations · life size waifu pillow · plushie · gardening
   - origami · pixel art · design · gamedev · calligraphy · kanji · skeuomorph
   - anime · visualnovels · unixporn · mtf · virtualyoutubers
   - boardgames · linguistics · math · algorithms · vibe coding
@@ -113,7 +119,6 @@
   - bradwoods
   - cdtchinese
   - chai jing chinese
-  - chen hao coolshell
   - chen xiao origami
   - chiyuki0325
   - chriscoyier
@@ -135,7 +140,6 @@
   - falstaff duolingo
   - fenggewangmintianya chinese
   - fenxer design scenes fenx.work
-  - ftium4
   - ftium4 ux weekly
   - funshiki
   - gaearon dan abramov
@@ -146,7 +150,7 @@
   - growth.design
   - gus brawl stars
   - hakadao
-  - haoel
+  - haoel coolshell
   - helena adams identity v
   - henrilechatnoir
   - himself65
@@ -158,15 +162,14 @@
   - huxpro
   - hzwer
   - ichi hime
-  - innei
+  - innei innei.in
   - insraq
   - jh3yy
   - jiang yanyan
   - jiangly
   - jiangzijun zhihu
-  - jinghanqing
+  - jinghanqing chinese
   - jingsheng237248
-  - jinhanqing chinese
   - jiongks
   - jjying
   - johann sebastian bach
@@ -206,9 +209,9 @@
   - modisijixushifu chinese
   - mrcongliu
   - mugumogu maru
+  - mutsumi mygo
   - muyushuixin
   - nahida
-  - naib subedar identity v
   - nat friedman github
   - nayuki
   - newlearnerchannel
@@ -228,6 +231,7 @@
   - saiba momoi
   - sama sam altman openai
   - samekosaba
+  - samuelqzq qzq.at gamedev
   - shadcn
   - shaonianshanzhijun chinese
   - share121
@@ -373,6 +377,7 @@
   - yes, prime minister, narrated by muyushuixin (1986)
   - love, chunibyo & other delusions!, narrated by muyushuixin (2012)
   - reply 1988, narrated by muyushuixin (2015)
+  - kaguya-sama: love is war, season 3 (2022)
   - .date a live (2013)
   - .sword art online (2012)
   - .bocchi the rock (2022)
@@ -383,7 +388,6 @@
   - .tonikawa: over the moon for you (2020)
   - .oreimo (2010)
   - .too many losing heroines! (2024)
-  - .my youth romantic comedy is wrong, as i expected (2013)
   - .puella magi madoka magica (2011)
   - .no game, no life (2014)
   - .bakemonogatari (2009)
@@ -463,6 +467,7 @@
   - mathematical olympiad series (xiong bin & ...)
   - snow country (yasunari kawabata)
   - no longer human (osamu dazai)
+  - my youth romantic comedy is wrong, as i expected (wataru watari)
   - .metaphors we live by (george lakoff & mark johnson)
   - .godel, escher, bach (douglas hofstadter)
   - .shakespeare's sonnets (william shakespeare)
@@ -547,7 +552,7 @@
   - e hentai · archiveofourown · cnblogs · qq zone · acfun · shireyishunjian · acgn.zone
   - steam db · itch.io · google doodles · vndb · shinnku galgame · kungal · touchgal
   - codeforces · atcoder · luogu · libre oj · project euler
-  - travellings.cn · foreverblog.cn · travel.moe · acmer.info
+  - travel.moe · travellings.cn · foreverblog.cn · acmer.info
 - portals
   - casio mth-1060 watch
   - lenovo yoga 13s acn 2021
@@ -757,6 +762,8 @@
 
 ## backyard
 
+- お可愛いこと
+- 致虚极 守静笃
 - 念念不忘 必有回响
 - 遂迷不复得路
 - 从流飘荡 任意东西
@@ -888,6 +895,8 @@ fira is a font from mozilla.
   - alternatives `firafira@duck.com` `xoyage@gmail.com` `devvhy@zoho.com.cn` `firav@qq.com`
 
 ## insight
+
+<!-- "design engineer" -->
 
 - _reminiscent youth_ good old days...
 - _anime otaku_ unworldly girls...

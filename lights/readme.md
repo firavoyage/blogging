@@ -1,5 +1,3 @@
-<!-- todo: web & _/pages -> lights -->
-
 # on the internet
 
 ## essays
@@ -45,6 +43,7 @@
   - kirikaze chiyuki's grade 10 memories
   - a chinese northeast high school student's first day with the open internet world
 - `cali react vue` React 还是 Vue？我对 Web 前端现状的看法
+- `cali 23` 2023 年终总结，致我不同寻常的 28
 - `ruanyf 2007` 2007 年我的 Blog 总结
   - 2007 年，我一共写了 350 多篇网志，差不多一天一篇。
   - 《Happy Pi Day!》, 《核心期刊的涵义》, 《什么是"人民民主专政"？》
@@ -89,10 +88,20 @@
 - `timqian chrome ext` 一个付费 chrome 插件的一生
 - `ahdark 2021` 2021 年度报告 dev
 - `antfu yak shaving` 关于 Yak Shaving
+- `antfu 2024` 开源的心理建设
 - `kottory` OI 回忆录
+- `chenzhe` 在华师大二附中紫竹校区就读是一种怎样的体验？
 - `flower grade12` 高三的一些片段 & 2021 SD 高考游记 school ref
 - `pea3nut 2021` 2021 总结 | 失马、回响与见闻
 - `google code jam 2008 numbers` Google 经典编程竞赛题：计算  (3+5)𝑛  的小数点前三位数
+- `innei folo` 写在离开 Folo 之后
+- `innei 200` 在焦虑与创造之间寻找出口
+- `timochan life` 初入职场：租房与生活初体验
+- `timochan graduate` 毕业季
+- `jiangyanyan read` 阅读列表
+- `kewth` OI 回忆录
+- `jiongks vuejs` 我和 Vue.js 的十年
+- `jiangyanyan gifted` 如何评价第 36 届国际信息学奥林匹克竞赛（IOI2024）三名中国选手携带手机进考场被处罚？
 
 ### dev guide
 
@@ -125,6 +134,7 @@
   - Building complex components from a constrained set of primitive utilities.
 - `llm` 授人以渔：如何构建“超级提示词”来正确地使用 AI 写作
 - `style` 中文技术文档的写作规范
+- `ruanyf data structure` 数据模型是新产品的核心
 
 ### story
 
@@ -135,8 +145,8 @@
 - `login ux` 如何正确设计登录表单
 - `tim luoyonghao` Tim 与罗永浩的对谈
 - `vedal` Advice
-- `google 27.mhtml` Google's 27th Birthday
-  - Sep 27, 2025
+- `google 27.mhtml` Google's 27th Birthday Sep 27, 2025
+- `lingdong.works` lingdong huang projects
 
 ### unixporn
 
@@ -144,6 +154,8 @@
 - `yunyoujun anime` collection of anime girls that yunyoujun loves
 - `kkksc03 oi stories` 新春故事会《美好人生》
 - `egoist` This is a living document of the tools, software, and hardware I use. If there is something missing, reach out to me on [X/Twitter](https://x.com/localhost_5173)
+- `floatpoint` 一扇门的 Bug
+- `girl` 大和抚子
 
 ### weather
 
