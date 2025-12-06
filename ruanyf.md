@@ -8460,9 +8460,15 @@ OpenAI 的官方项目，展示 AI 的发展历程：每一年，同样的提示
 
 开源的 macOS 桌面应用，可以生成电脑屏幕一天的时间占用。它每秒截一次屏，然后交给 AI 分析，生成你一天活动的时间线。
 
-##
+## image generation prompts
 
-##
+`ai` `info`
+
+[Nano Banana Pro 提示词大全](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/blob/main/README_zh.md)
+
+![](https://cdn.beekka.com/blogimg/asset/202511/bg2025112702.webp)
+
+这个仓库收集了500+的 Nano Banana Pro 模型提示词，每一个提示词都有图片，超过一半提示词带有参数。（[@DophinL](https://github.com/ruanyf/weekly/issues/8297) 投稿）
 
 ##
 
