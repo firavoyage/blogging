@@ -379,7 +379,7 @@ sudo apt install gnome-shell-extension-prefs
   - one dark pro
   - monokai pro
 - install extensions
-  - felicio.vscode-fold (important)
+  - felicio.vscode-fold (essential)
   - esbenp.prettier-vscode
   - wakatime.vscode-wakatime
   - tonybaloney.vscode-pets
