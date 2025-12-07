@@ -13485,6 +13485,8 @@ designed selection bg.
 
 purity. great.
 
+upd: thinking is hidden in "+". did not find it for a few days.
+
 ---
 
 fira's group: 此时此刻永不停息 the never ending now.
