@@ -153,6 +153,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `2` 2025.11.21
 - `3` 2025.12.05
 - `4` 2025.12.06
+- `5` 2025.12.07
 
 ### hikaru no go
 
@@ -13512,4 +13513,87 @@ i found that i could use ctrl shift enter.
 
 ---
 
+everything takes time...
+
+---
+
+`ref`
+
+about the math vid.
+
+thinking. i have a way to make it elegant.
+
+using a reserved narration. 
+
+like sharing a polished photo, online.
+
+but...
+
+these are... personalized. 
+
+memories.
+
+not for learning.
+
+not for the feel of expression. (showing off, etc.)
+
+for emotional connection.
+
+i dont need that.
+
+---
+
+`ref`
+
+about schooling.
+
+a question about freedom.
+
+at home, i could do anything at anytime with all the tooling possible. 
+
+im free, at least, after all.
+
+at school, i could listen to the teacher. when i dont wanna listen, i could do things as i like, with limited tooling. i could not hug the plushie, have black tea, keep some chocolate in my month, etc.
+
+im easy. no need to think. just suffer.
+
+bored. 
+
+the mediocity. the random people. the same days. not a gleam of genius anywhere, not an original mind, a rich personality.
+
+angry.
+
+the teacher expressing hate as she likes, abusing the sleepy guys.
+
+helpless.
+
+could not go home if i dont want to take the exam. no time for my creative works. go with the flow. most classes not fit me. the philistine group and chat about nonsense, next to me.
+
+friction. no momentum.
+
+score, the goal of everything. i dont care. with the entrance to a best university, i could proof my genius. but im not. then, an ordinary university or a slightly better one feel the same.
+
+at dinner, i watched haruhi ep 5. it could be a metaphor of my life.
+
+- english translation. (mindfulness)
+- chemistry papers. (challenge)
+- creative works. (pursuit)
+
+be calm and at ease.
+
+---
+
+`ref`
+
+about math channel. / "put forward the democracy by education"
+
+the most succeeded one could be one math. (or 3blue1brown)
+
+were i one math, i wont update regularly.
+
+i would design and create my work, including all i wanna tell you. publish. and keep silent in the next decade.
+
+perfect.
+
+---
 
