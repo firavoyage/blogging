@@ -48,21 +48,21 @@
 
 > _毋负今日_
 
-> _code artist_
+<!-- > _code artist_ -->
 
 > _follow your heart_
 
-> good luck is of original sin.
-
-> 想在转瞬即逝的时光里，留下属于自己的回忆。
+<!-- > 想在转瞬即逝的时光里，留下属于自己的回忆。 -->
 
 > ✨ 💖 perceive, archive.
 
-> _回归少女_
+<!-- > _回归少女_ -->
 
-<!-- if you ever miss me, just close your eyes. maybe i will appear in your dreams. -->
+> _yolo!_
 
-<!-- fira 💖, she/her (🏳️‍⚧️ ✖️ 🍥 ✖️), 🇬🇧 ✔️, 🇨🇳 ❔, 🇯🇵 ✖️, 🇫🇷 ✖️ -->
+> if you ever miss me, just close your eyes. and maybe i'll appear in your dreams.
+
+<!-- - fira 💖, she/her (🏳️‍⚧️ ✖️ 🍥 ✖️), 🇬🇧 ✔️, 🇨🇳 ❔, 🇯🇵 ✖️, 🇫🇷 ✖️ -->
 
 - a developer, content creator, wikipedian
 - grew up in shanghai
@@ -107,6 +107,7 @@
 - personas
   - acetaffy812
   - adamwathan tailwindcss
+  - angelnekochan math
   - animenz
   - anlin zhihu
   - antfu slidev
@@ -180,6 +181,7 @@
   - kasugano sora
   - ke jie go
   - keven1024 fudaoyuan.icu
+  - kitbogashow scammers killer
   - kk_shinkai sumink
   - kkksc03
   - konata izumi
@@ -576,6 +578,7 @@
   - chromium | wakatime
   - chromium | wayback-machine
   - chromium 124
+  - clash-verge
   - code
   - code | esbenp.prettier-vscode
   - code | felicio.vscode-fold
@@ -620,6 +623,7 @@
   - kolourpaint
   - krita
   - libreoffice
+  - lollypop
   - mdbook
   - neofetch
   - nginx
@@ -641,12 +645,12 @@
   - tesseract
   - thunderbird
   - tor-browser
-  - v2raya
   - virtualbox
   - vlc
   - wine
   - yt-dlp
   - zsh
+  <!-- - v2raya -->
 - on android 11
   - aegis-authenticator
   - ahqgo
@@ -656,6 +660,7 @@
   - bilimiao
   - breezy-weather
   - capcut
+  - clash-meta
   - douyin
   - duolingo -mod
   - ehviewer
@@ -1191,5 +1196,7 @@ fira is a font from mozilla.
 > 你听见了吗，那回响不断的心愿
 
 > 不结婚, 播十年.
+
+> good luck is of original sin.
 
 > ✨ fira prefers thinking over expressing. 💖

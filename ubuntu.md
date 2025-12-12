@@ -347,6 +347,8 @@ sudo apt install gnome-shell-extension-prefs
   - picture in picture https://chromewebstore.google.com/detail/picture-in-picture-extens/hkgfoiooedgoejojocmhlaklaeopbecg?hl=en
   - return tweet source label https://chromewebstore.google.com/detail/return-tweet-source-label/mhkngabolhbckfjpmjclhockpdclfppc
   - control panel for twitter https://chromewebstore.google.com/detail/control-panel-for-twitter/kpmjjdhbcfebfjgdnpjagcndoelnidfj
+  - get cookies.txt locally https://chromewebstore.google.com/detail/get-cookiestxt-locally/cclelndahbckbenkjhflpdbgdldlbecc
+  - vCaptions – Video Caption List https://chromewebstore.google.com/detail/vcaptions-%E2%80%93-video-caption/bciglihaegkdhoogebcdblfhppoilclp/
 - config fonts
   - -> `chrome://settings/fonts`
   - standard `roboto`
@@ -414,6 +416,7 @@ sudo apt install gnome-shell-extension-prefs
   - workspace `off`
   - extensions: auto update `none`
   - markdown>extension>theming>decoration:render code span `off`
+  - markdown>extension>theming>syntax:decoration file size limit `50000000`
   - code-runner:run in terminal `on`
   - code-runner:preserve focus `off`
   - code runner:executor map (-> `settings.json`)
