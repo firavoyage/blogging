@@ -154,6 +154,10 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `3` 2025.12.05
 - `4` 2025.12.06
 - `5` 2025.12.07
+- `6` 2025.12.08
+- `7` 2025.12.09
+- `8` 2025.12.10
+- `9` 2025.12.12
 
 ### hikaru no go
 
@@ -13482,7 +13486,7 @@ no avatar. no "user" "llm".
 
 navigation (copy, edit, switch messages) appears on hover.
 
-designed selection bg. 
+designed selection bg.
 
 purity. great.
 
@@ -13504,7 +13508,7 @@ i found that i could use ctrl shift enter.
 
 畅想, 回应. (bingtangio parody acc.)
 
-- 关于回应. 对我, 与频道主题 off topic. 对于你的词, 诉诸情感. 无需回应, 与我有关 (由我导致), 但与我没有关系 (不必关系). 性质平凡 (每个人都有  anti). 
+- 关于回应. 对我, 与频道主题 off topic. 对于你的词, 诉诸情感. 无需回应, 与我有关 (由我导致), 但与我没有关系 (不必关系). 性质平凡 (每个人都有 anti).
 - 关于隐私权. 一个空白的 twitter 账户, 若无内部人员参与, 是无法获得信息的. 用过 google 人名搜索吧. 所有信息都由各自提供, 推出 (自己公开的). 因为民的害怕, 出台政策. 可公开的数据如何抹杀? 技术上 not feasible.
 - 关于法律. 大案看影响, 中案看关系, 小案和稀泥, 课本看法律. 你不是第一个也不是最后一个挑战者, 欢迎来战.
 - 关于预期. 从批斗到实名举报 (cancel culture), 你我的声音最终都会被泯灭. 可以查看存档, 但没有推流了. 抑郁的孩子, 是那个 (色情) 斗图者. 愤怒的人, 是那个快活的游戏主播. 无论你们有怎样的期待, 这, 与那些知乎上千万, 上亿讨论的根本矛盾 (阶级, 公平, 自由, 情感, 命运, ...) 相去甚远. 我也期待你们能玩出什么花 (把一套烂牌打出操作).
@@ -13523,13 +13527,13 @@ about the math vid.
 
 thinking. i have a way to make it elegant.
 
-using a reserved narration. 
+using a reserved narration.
 
 like sharing a polished photo, online.
 
 but...
 
-these are... personalized. 
+these are... personalized.
 
 memories.
 
@@ -13549,7 +13553,7 @@ about schooling.
 
 a question about freedom.
 
-at home, i could do anything at anytime with all the tooling possible. 
+at home, i could do anything at anytime with all the tooling possible.
 
 im free, at least, after all.
 
@@ -13557,7 +13561,7 @@ at school, i could listen to the teacher. when i dont wanna listen, i could do t
 
 im easy. no need to think. just suffer.
 
-bored. 
+bored.
 
 the mediocity. the random people. the same days. not a gleam of genius anywhere, not an original mind, a rich personality.
 
@@ -13597,3 +13601,495 @@ perfect.
 
 ---
 
+recollection.
+
+"omoshiroi ona... noko."
+
+---
+
+AngelNekoChan on youtube. "100 views"... qwq
+
+---
+
+`ref` `school` `weather`
+
+不必太局限了.
+
+高考只是人生的一部分. 分数不决定一切.
+
+人生是旷野. "旅游" "移民" "社交" "投资" "求知" "创造" "回忆". 可能无穷尽.
+
+当然, 对于 (特定时代, 特定地区的) 大部分人来说, 高考是很重要的, 人生的起点.
+
+"考学" "入世" "奋斗" "连理" "舍予" "传代" (轮回的隐喻)
+
+从流也是选择.
+
+---
+
+户晨风一败涂地！全程开车，户子被拿捏的死死的，观众爆笑！精彩不容错过，节目效果直接拉满！【户晨风直播 2023.06.02】
+
+```
+兄弟们，看完这期视频后代入户子视角被那女主播撩的压抑了咋整啊？ 以前上学的时候在国外，我在那国家约合法，而且那国家人比较有底线，信誉这块儿基本不用担心被骗，在软件上你可以光明正大说自己就是为了约。男女比例没国内这么卷，大环境女多男少，只要想约几乎百分百能成功， 甚至出去开房都能AA。
+
+现在回国了，国内你说约吧，其实也有那种能约的软件， 但是这边人都没底线，骗子多不说，大环境也狼多肉少，但凡是个女的，不说多漂亮了，只要是个人，后面舔的男的最少百八十个，就导致这帮女的一个个都高傲的不行，再加上明面上约不合法，这就导致大家都得打着恋爱的幌子去约，不排除这里面有些人真是去恋爱的，或者单纯就是网恋解闷的， 对方是什么交友目的都得互相猜，总之你想付出比较少的金钱或时间成本去约根本不现实， 就算你舍得花钱，也得去和那百八十个同样压抑的男的去当舔狗同台竞争，烦得很。  浪费钱不说，还很费时间。
+
+我现在一个人住，当包租公也不用上班，天天时间大把， 想约没途径啊， 那些个软件上面骗子太多了， 还有那种爱装B的，天天在上面晒东西，回头资料里还得写上一句不约， 我想你不约玩啥约p软件呢？  反正就各种鱼龙混杂，啥人都有。可多没底线在上面骗吃骗喝的女的了，   找那种花钱的倒也可以， 但也不能总找吧， 总找也消费不起，那种几百的我还看不上， 四位数的没法一直消费， 但是这东西就像吃饭，需求是一直存在的。还是得找免费长期的最好，  兄弟们在国内生活有啥能解决压抑的途径啊？ 互相交换下心得呗
+```
+
+---
+
+"立场" (女权) "心理状态" (抑郁症)
+
+这不重要.
+
+人最重要应该是兴趣爱好吧. 空闲的时候, 做什么.
+
+当然此前, 有认知 (简单一些, 知识文化), 财富 (或者平凡一些, 工作, 现金). 不过不需要询问, 可以直接推断.
+
+---
+
+逍遥散人没了? 罗翔也没了?
+
+简体中文互联网真是不稳定啊.
+
+unstable due to the censorship and the fooled majority.
+
+不必特别地讨论个体了.
+
+参考, 对比发达地区的制度.
+
+参见知乎 (右派, 个人主义, 玩忽职守内容审查, 自由搏击, 高学识闲人).
+
+- 罗翔是少有的自由派 (反对一切形式一切观点的政府, 支持人权) 律师. (参见户晨风, 唯一墙内简中右派.)
+- 不必教导傻子. 骗子带着傻子一起围攻. 能移民早移民.
+
+---
+
+f 不懂法律.
+
+法律意义是增进福祉 (无论是谁的福祉, 把蛋糕做大肯定是好的. 财富是可以被创造的.) 哪里的人最幸福? 发达地区. 所以参见发达地区. 不断修改直到与发达地区相同.
+
+国情? 一个幌子, 压制异议. 国情是, 比如, 制度不完善, 使得习近平于 2018 年修改宪法为一切扫清障碍. 不当的利益, 为了保护自己, 会恶化. 如圆谎.
+
+不必具体讨论了. 只关心是否相同, 理念, 做法, 实施, 操作细节.
+
+---
+
+a comment on zhihu
+
+把你逼到绝路上，然后笑话你没出路，这很有趣么？
+
+---
+
+let's think an aggressive way.
+
+go into a shop. steal the bread. eat.
+
+just go out. because you are innocent. you need food. you wont comply with the evil world not respecting labor force.
+
+if caught. some may call the police. some may try to help you. whether, just abuse the server. they are guilty. because the servers exist, what should die havent died. "何不食肉糜".
+
+it's not the rest of the value "剩余价值", it's the most of the value. comparing with the same job in developed countries and their 购买力.
+
+of course im not talking about china. china gov is extremely smart. they could maintain the stability while minimizing the cost of labor while maximize the 基尼系数.
+
+---
+
+`ref` `weather` `school`
+
+about schooling.
+
+i will go to school tomorrow. because there are pe classes where i could play football and i checked the weather is fine. btw, i will bring my phone to school as usual to do whatever i want if the class is boring.
+
+i wont go to school because it's low leverage. im gifted. i wont go with the flow.
+
+i will. because i will take the challenge to learn chemistry (the problemset).
+
+school is where designed to practice problem solving skill.
+
+great.
+
+so sleep now.
+
+archive things and complete the logic after school.
+
+use the "most important and high leverage method."
+
+follow my thoughts on telegram (nekogram).
+
+upd: dont.
+
+i could be free. i at my best would be free. all possibilities.
+
+not an easy way to suffer the mainstream and have the philistine excitements in life. a way of mine.
+
+and the major cause is im not sleepy now. and archive things takes time.
+
+---
+
+vedal, the creator of neoru sama, would recommend OpenAI.
+
+it's one of the best models.
+
+you know, im not winning with the model.
+
+as long as i define the most important and inevitable things, it's ok.
+
+not every detail makes a success.
+
+the mindset.
+
+(sometimes one may feels details matter. but actually it's the mindset of being perfect.)
+
+---
+
+scrcpy scrolls, not by using finger, but calling the android apis.
+
+i mean, if it's not an android scrollable view, no effect.
+
+if the foreground and background are both scrollable, both scroll. (like the video list and the popup comments of a certain vid.)
+
+---
+
+(语气, 好奇怪...)
+
+拿了一张护照有什么得意的. 出生有一个亿如何. (参见赌博) 一个起点罢了. 路还长.
+
+不过是有了些人权罢了. 当然很多时候, 在盐碱地上, normalized 成本已经不低.
+
+好在识字普及了. 这为提升观念的水位提供了土壤.
+
+提升认知的方法... 听高认知的人说话. 知乎上有许多高学识, 有闲的人自由地发论.
+
+说不完. 讲些最重要的. (ref jiangyanyan vscode ctrl shift p) 看评论 (如果精选评论或者会员评论, 退出). 如果被强制关闭评论, 仔细严肃阅读. that's it.
+
+花儿为什么这样红？因为它有充足的光照、丰富的水源、肥沃的土壤和精心的栽培。
+
+---
+
+mygo 性格好奇怪.
+
+rikki 性格明确. 语言直白. 善于以最坏的可能推测朋友的内心.
+
+另外几个, 都看不懂. 感觉都是 subtle nuance. 微妙差别. 还不能用语言描述. 不像 (三次元) 人类, 即使自由地区.
+
+买了一个 mutsumi plushie. 如今对她的印象还是, 善于旁观, 语出惊人. 完全无法根据性格 (character) 推测表现 (persona).
+
+红楼梦倒是清楚. 至少我知道什么什么性格.
+
+贾宝玉. 有文化. 委婉. 反对功利世俗, 须眉浊物. (可以猜到, 或者推断他的内心活动, 语言了.)
+
+林黛玉. 物哀 (葬花吟). 矫情. 语言不像人类.
+
+其他不记得了.
+
+---
+
+`ref`
+
+一千年前, 法国入侵英国, 构成了今天英语的上流, 正式语言.
+
+高阶层:
+
+现代科学 (抑郁吃糖, 自杀用盐). 现代文化 (二次元, 舞萌, 番剧, 社会评论, 自由个人化思潮). 理工科 (linux, 竞赛健脑房, 语言学).
+
+低阶层:
+
+地方传统 (抑郁是鬼上身, 自杀用物理变化). 主流媒体 (big and high contrast text, not a gleam of art). 主流游戏 (philistine, like most tencent games).
+
+---
+
+2000 工资够花？深圳网友自信发言，震惊户晨风，表情逐渐抽象....#户晨风 #搞笑
+
+这个连麦的人反映了 b 站大学生用户的一个心态，自以为毕业后的工资不低，并且严重低估自己的日常花销，从不考虑生病欠薪这种情况，只能说毕竟是接触不到真实信息的学生吧
+
+最重要 一点，这个大学生父母在深圳有房子的。他所有的钱都可以用来吃喝。顺便说一句，中国人真的可怜，这个年代了还在聊吃喝，老外连玩车玩表都过时了。。。。这个世界的参差啊。。。。
+
+---
+
+fira 的家庭.
+
+低阶层背景. 朴素乡土智慧 (不信无私奉献, 比较实利, 取笑弱者). 天赋.
+
+好时代. 发展中国家, 上升时期, 最好的大学.
+
+相信, 乐观, 心态: 主流上位者.
+
+房地产投资正确. 境内股票投资正确.
+
+吃喝不愁. 旅游.
+
+决定一切. (其实只是必要条件, 统计上的... 这个世界, 因为须眉浊物, 做正常人成本很高.)
+
+不完全必要 (与心有关). 不确定其他.
+
+---
+
+in the late night i wanna archive all zhihu fav...
+
+which ive done yesterday.
+
+the categories are good. no need to give big refactor.
+
+the contents... i wanna save them forever. they are so good.
+
+really? they are well written. fun. inspiring.
+
+but not unique.
+
+so give up. archive once several months. the genuine great ideas wont be censored. they are so foundamental and abstract that the ordinary philistines could even notice.
+
+---
+
+`ref`
+
+雷锋精神, 为国捐躯. 要劝之吗. 思索.
+
+爱国. 可以的 (支持家乡发展), 不必爱党.
+
+爱党, 相信之. 可以的. 支持变革. 反战, 不推翻, 用最好的方式改变.
+
+你是重要的. 办大事. 按你的心意改造世界.
+
+平凡的伟大? 不要被误导. 可以的. 但可能被压榨, 被玩弄. 科学发展, 经济上升, (正确的) 教育实施, 观念水位上升. 你这一代的命运如何? 在其中, 被遗忘? 被泯灭? 被湮没?
+
+你在主流文化内如何? 可以沿袭吗. 可以继承吗.
+
+假设一切应然 (符合自然规律, 其他最大值), 罢免官员, 推行发达地区自由民主制度.
+
+笑.
+
+很多事情不能在体制内解决了 (历史原因, 既得利益的自我保护, 传统错误观念). 也不能推翻. 稳定的压抑.
+
+于是个人化. qed.
+
+---
+
+`ref`
+
+许多高价值的东西, 都是低成本, 甚至免费的.
+
+我不是说赤壁赋. 比如劳动力. 也许许多年后, 中国的劳动力就贵了. 我要抓住机会.
+
+虽然我现在是力工. 但我可以雇佣一些中专的, 有志向, 有心气的孩子.
+
+给面包. 有时给奶茶和拉面. (gaou)
+
+让他们帮我做高杠杆的事情. 思考. 与 llm 聊天. 记日记.
+
+文具是很便宜的东西. 但是有巨大的价值. 我会购买字帖 (中文, 英文). 没有工作的时候, 要求他们练字.
+
+我会买几十元的便宜键盘. 连接你自己带来的手机工作.
+
+我会分享节点给你. 包括自由的思维.
+
+---
+
+简单的错误胜过复杂的正确.
+
+如果事物不能简明, 那就算了, 不必争执.
+
+(个人感受, 第一感好恶)
+
+罗翔?
+
+还是讲宪法第一修正案吧.
+
+---
+
+`ref`
+
+花儿为什么这样红？因为它有充足的光照、丰富的水源、肥沃的土壤和精心的栽培。
+
+言论自由 (宪法第一修正案, 因言废人, 文字狱). 教育普及 (对牛弹琴).
+
+世界上有异教徒, 有恐怖分子, 有自然灾害.
+
+在正常的环境下, 策略才有意义.
+
+因材施教. (不回应, 那样就不会伤害傻子.) (与其说尊重与否. 不如说特定时代特定地区的人可怜吧. 也不必嘲讽了, 就怜悯.)
+
+分离 f 和 fp (fira: promotion or porn).
+
+(porn does not necessarily mean sexual content. ref reddit designporn unixporn)
+
+google 退出中国. "宁为玉碎不为瓦全" "壮士断腕义无再辱"
+
+neoro sama 黑屏直播.
+
+财富是可以被创造的. 有些事情是不可持续的. 一开始就知道的, 快钱, 愚民的钱. (低预期)
+
+**stop at the never ending now. use reduction.**
+
+---
+
+adventure x? xiaohongshu? wtf.
+
+one should not be with evil.
+
+you are done.
+
+---
+
+chatgpt, when regenerating, provides options of "ask to change response", just proceed, add/reduce details, search, think.
+
+---
+
+"if you ever miss me, just close your eyes. maybe i will appear in your dreams."
+
+search it and failed to find the source.
+
+add nahida. failed.
+
+add genshin. failed.
+
+add genshin quest. succeeded. saw a spoiler in 2022 on tiktok (as a reply). only only reference to the original fandom source.
+
+---
+
+https://www.youtube.com/feed/playlists
+
+the saved playlists could only be viewed through my acc.
+
+not on the public channel.
+
+---
+
+chatgpt: branch in new chat. great.
+
+different topics in different tabs (not messages).
+
+separate concerns.
+
+---
+
+`ref`
+
+渐渐觉得世界不能被改变.
+
+只是发现.
+
+物理常数不变. 人的欲望不变. 世界状态 (物质坐标, 矢量) 不断改变.
+
+从来没有人作出过非平凡改变. 科学家, 创业者.
+
+follow your heart. 人类喜欢这样. "从心所欲."
+
+reduce entropy. 人类喜欢这样. "understand the world" "curiosity" "simplify"
+
+人类真是有趣的动物呢.
+
+这是科学的视角.
+
+(that supports my thoughts:)
+
+just perceive and archive.
+
+---
+
+scratch papers have high leverage.
+
+obviously we should always try to leverage them.
+
+the periodic table. full. spdf. frequent.
+
+half and full rule.
+
+layer. sub layer (level). track.
+
+---
+
+"你好，我想做一个游戏，方案在我脑子里了，请帮我生成提示词。"
+
+老师让我们也跟着英雄老师一起学习！
+
+绷我们老师也是，让我们关注英雄老师[Ave Mujica_愉快]
+
+---
+
+戶晨風的外景影片不管是在調研還是在做好事，都讓我覺得很棒！
+也每每都能讓人能感到驚訝和佩服！
+
+這次能自在的使用英語全程與外國人交談的樣子，也好讚！
+
+這與某些時刻在直播鏡頭前和無腦小粉紅撕 B 鬥嘴時的猙獰態度是完完全全不同的；
+
+希望能有更多這種很有意義的影片產出，
+而不是把正面的時間都浪費在於春虫的小粉紅們身上。支持！
+
+---
+
+eat: you could put other's vids on your profile.
+
+(like retweet. or all:curation.)
+
+---
+
+hu chenfeng 比 fira 厉害.
+
+与贤才合作. 直接沟通 (不准备, 不研究分析, 不计划).
+
+(至少看上去) 
+
+怜悯, 而不是叹息嘲讽.
+
+争执, 而不是静观.
+
+---
+
+8964 不是什么大事. 历史上的屠杀太多了. 
+
+文化革命. 疫情清零. 压制异见. 杀死一万人轻, 毒害几亿人重.
+
+---
+
+户子走的路... 险棋. 可能没有一步是对的. 做了符合他性格 (成长经历) 的事情而已.
+
+fira 当然可以想象... 
+
+"我相信你是真的" (我知道是假的, 但不打.) 
+
+"你是对的. 你有什么要说的吗." (不争辩. 寻求意义. 不嘲讽地, 悲悯地, 反串.)
+
+fira 一定是对的. (激进的言论自由.) 
+
+fira 杀人亦然. (科学决定. 人没有意识. 万物生息没有对错.)
+
+这样不哗众取宠...
+
+---
+
+sometimes the dense memes (neta) on zhihu (or reading platforms in general)
+
+could not be used on vids.
+
+no time to react.
+
+---
+
+indie gamedev?
+
+不怕见笑, silence 给了我很多启发.
+
+或许初心... youtube, 南开大学, gamejam, steam, 蜥蜴君...
+
+但在我想出发时. 第一次检索, 就是其. (berryberry & zhihu)
+
+嘛, 好像跑题了.
+
+其实 fira 是支持 silence 的. 知人论 "世", 他们的未来并不光明. 统计看, 无论是薪资还是潜力.
+
+不如做自己喜欢的事.
+
+至于, fira. 未必有那魄力 (破罐破摔), 因为没有必要平白无故加限制.
+
+fira 可以做任何事.
+
+也没有什么成功吧. 做自己喜欢的事就好, 珍惜时间 (毋负今日).
+
+心, 所以更要珍惜啊. (无忧无虑的光阴)
+
+不知道今人还有无道家智慧. 总之希望去拍一些购买力, 城中村, 底层工作, 233333.
+
+---
