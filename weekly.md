@@ -1,13 +1,3 @@
-<!--
-scratch pad
-
-weekly
-projects
-
-fatefairy
-vtbsol
--->
-
 # $weekly$
 
 > _just let time be precious 💖_
@@ -26,6 +16,57 @@ vtbsol
 - _make knowledge pure_
 
 <!-- > things, not schedule. -->
+
+## 20251216
+
+### _day_
+
+- find mindfulness: duolingo, english translation, anki
+- learn science: problemset, photo solver, (papers)
+- chat, archive: with llms, to drafts
+- stay: with plushies and pillows
+
+### _night_
+
+- watch: the melancholy of haruhi suzumiya, movies, (simplelive)
+<!-- - bocchi the rock -->
+- surf, browse: zhihu, berryberry, telegram, weekly (ruanyf), (twitter), (nga bbs), (douyin)
+- read: light novels, no longer human, (snow country)
+
+### _endeavour_
+
+<!-- momentum. -->
+
+- create: pure, games, apps
+<!-- 
+- sv
+- vtbsol
+- fatefairy
+- polish: pre
+- material
+- eat, berryberry rework
+- leisure
+- all: world goods list
+- all: artists on berryberry
+- all: have (dining) map "everywhere"
+ -->
+- revise projects.md
+- organize, archive: posts to lights, fav (berryberry, zhihu)
+- (practice calligraphy: english)
+- (learn japanese: biao ri)
+
+### _diversion_
+
+<!-- heart. -->
+
+- play: go (foxwq), senrenbanka, video games
+- surf: qq group
+- diy: origamis (following chen xiao's guide)
+
+### _misc_
+
+- listen to j-pop, classic
+- sync with the phone
 
 ## 20251008
 
