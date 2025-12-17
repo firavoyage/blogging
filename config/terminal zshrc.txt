@@ -116,7 +116,7 @@ release() {
 }
 
 phone() {
-    scrcpy --turn-screen-off --shortcut-mod=lalt & disown
+    scrcpy --turn-screen-off --power-off-on-close --screen-off-timeout=600 & disown
 }
 
 export PATH="$HOME/.local/bin:$PATH"

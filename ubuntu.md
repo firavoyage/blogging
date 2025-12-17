@@ -349,6 +349,7 @@ sudo apt install gnome-shell-extension-prefs
   - control panel for twitter https://chromewebstore.google.com/detail/control-panel-for-twitter/kpmjjdhbcfebfjgdnpjagcndoelnidfj
   - get cookies.txt locally https://chromewebstore.google.com/detail/get-cookiestxt-locally/cclelndahbckbenkjhflpdbgdldlbecc
   - vCaptions – Video Caption List https://chromewebstore.google.com/detail/vcaptions-%E2%80%93-video-caption/bciglihaegkdhoogebcdblfhppoilclp/
+  - PocketTube: Youtube Subscription Manager https://chromewebstore.google.com/detail/pockettube-youtube-subscr/kdmnjgijlmjgmimahnillepgcgeemffb
 - config fonts
   - -> `chrome://settings/fonts`
   - standard `roboto`

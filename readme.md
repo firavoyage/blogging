@@ -48,6 +48,8 @@
 
 > _毋负今日_
 
+> _日拱一卒 功不唐捐_
+
 <!-- > _code artist_ -->
 
 > _follow your heart_
@@ -359,6 +361,8 @@
   - crayon shin-chan: the storm called: the adult empire strikes back (2001)
   - rob-b-hood, lived by xuegao cheese (2006)
   - mr. tree, narrated by muyushuixin (2011)
+  - zootopia 2 (2025)
+  - time still turns the pages (2023)
   - .the disappearance of haruhi suzumiya (2010)
   - .bocchi the rock! recap part 1 (2024)
 - series
@@ -567,6 +571,7 @@
 - on ubuntu 24
   - adb
   - android-studio
+  - bitmagnet
   - blender
   - cargo
   - cbonsai
@@ -623,7 +628,6 @@
   - kolourpaint
   - krita
   - libreoffice
-  - lollypop
   - mdbook
   - neofetch
   - nginx
@@ -859,7 +863,7 @@
 fira is a font from mozilla.
  -->
 
-> `firavoyage` · `firascript` · `"忘我思考"` · `paperboat2020` (legacy)
+> `firavoyage` · `firascript` · `firatheprecious` · `"忘我思考"` · `paperboat2020` (legacy)
 >
 > - `Fira_言序`
 > - `一番のFira`

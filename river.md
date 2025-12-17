@@ -158,6 +158,11 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `7` 2025.12.09
 - `8` 2025.12.10
 - `9` 2025.12.12
+- `10` 2025.12.13
+- `11` 2025.12.14
+- `12` 2025.12.15
+- `13` 2025.12.16
+- `14` 2025.12.17
 
 ### hikaru no go
 
@@ -14030,7 +14035,7 @@ hu chenfeng 比 fira 厉害.
 
 与贤才合作. 直接沟通 (不准备, 不研究分析, 不计划).
 
-(至少看上去) 
+(至少看上去)
 
 怜悯, 而不是叹息嘲讽.
 
@@ -14038,7 +14043,7 @@ hu chenfeng 比 fira 厉害.
 
 ---
 
-8964 不是什么大事. 历史上的屠杀太多了. 
+8964 不是什么大事. 历史上的屠杀太多了.
 
 文化革命. 疫情清零. 压制异见. 杀死一万人轻, 毒害几亿人重.
 
@@ -14046,13 +14051,13 @@ hu chenfeng 比 fira 厉害.
 
 户子走的路... 险棋. 可能没有一步是对的. 做了符合他性格 (成长经历) 的事情而已.
 
-fira 当然可以想象... 
+fira 当然可以想象...
 
-"我相信你是真的" (我知道是假的, 但不打.) 
+"我相信你是真的" (我知道是假的, 但不打.)
 
 "你是对的. 你有什么要说的吗." (不争辩. 寻求意义. 不嘲讽地, 悲悯地, 反串.)
 
-fira 一定是对的. (激进的言论自由.) 
+fira 一定是对的. (激进的言论自由.)
 
 fira 杀人亦然. (科学决定. 人没有意识. 万物生息没有对错.)
 
@@ -14091,5 +14096,250 @@ fira 可以做任何事.
 心, 所以更要珍惜啊. (无忧无虑的光阴)
 
 不知道今人还有无道家智慧. 总之希望去拍一些购买力, 城中村, 底层工作, 233333.
+
+---
+
+`ref`
+
+"tbh. my idea. the idea i appreciate. ideal. infer and discuss on meta."
+
+facing arguments and even cancel culture?
+
+analyze all past social events and express my idea in an high status literary way.
+
+no need to hide.
+
+google "dont be evil"
+
+---
+
+dont believe teachers.
+
+they are ordinary. they work for money.
+
+you are different. you are someone.
+
+---
+
+minecraft self hosting, maimai dx, linux, mtf... 重合的魔法!
+
+---
+
+top down: 分治. 计划. 知识海报 (这章有哪些内容, 定理, 方法).
+
+bottom up: 学科 (这些艺术, 设计知识将来肯定有用.). 题目编选 (这些题有哪些类型, 解法).
+
+top down:
+
+- 做一个项目. 计划. 每一步需要哪些资源. 输入输出什么. 如何操作. 怎样是理想的情况. 有哪些可能的困难.
+- 学习一些知识. 这个章节有哪些小标题. 有哪些定理. 定理可以推出什么. 为何如此, 历史沿袭 (人为定义), 还是自然规律. 有哪些应用.
+
+bottom up:
+
+- 做一个项目. 学习设计原理. 学习编程语言. 这些以后肯定有用, 会串联起来. 每一份时间投入都值得.
+- 学习一些知识. 找到题目单. 直接看答案. 总结规律. 构造最通用的样板.
+
+fira 的话... bottom up 出发会容易些.
+
+---
+
+不是有备而来
+​
+关于作弊的问题，作弊目的已经从不挂变成争绩点了吗？考虑到作弊被抓的代价，这样换绩点是不是风险有点大了？
+
+确实是, 就在我代课的那个 985 里，第一和第二名伙同作案，后来听说已经连续作弊好几年了[捂脸]
+
+目前有很多骚操作...为了成为精英中的精英，那是孤注一掷的，毕竟整个青春都投在这上面了。
+
+任教于广州普通本科的表示，学生的情况一模一样[捂脸]自媒体流量哗哗的学生已经在外面的小区租房了……评国奖的学生的业绩材料和我评副教授时候的一样厚[魔性笑]最近和同行们在思考，怎样在 Deepseek 出来后有效地设置课程考核[惊喜]
+
+---
+
+`ref`
+
+fira in the real world:
+
+上个月在富士康工作, 有一些钱. ... 苹果手机 ... 我 ... 赶在关闭之前 ...
+
+把钱送给有需要的人.
+
+和我一起看 ave mujika, 就可以拿走这 20 cny.
+
+正好我也没看过. 连续剧.
+
+---
+
+`ref`
+
+"萧条时期的毕业生相比繁荣时期的毕业生，前者要花多少年才能在职业发展上赶上后" "almost never"
+
+"我生怕自己走错一步会万劫不复，但越走我越发现，根本没有一条路是对的。"
+
+在经济下行, 稳定压抑时代下成长的 fira 的梦想...
+
+yolo. 纵然明日离世, 不碍今日浇花. 活着挺好的, 死了也没事.
+
+自由.
+
+少时动, 动画, 游戏, 创造.
+
+暮时静, 轻小说, 围棋, 欣赏, 维护.
+
+"赤壁赋" (自然...)
+
+与民同乐. 开源软件, 电子文化...
+
+(那就没有意思了.)
+
+---
+
+语言学是科学.
+
+原本可以基于文本统计情感.
+
+后来可以基于概率生成连续文本. 此后不断优化算法.
+
+相信最后可以不基于概率, 直接命中文本. (或许有 llms 参与)
+
+---
+
+bitmagnet 真好玩.
+
+bitmagnet is Degraded
+Component Status
+DHT Up
+Postgres Up
+TMDB Down
+Worker: DHT crawler Started
+Worker: HTTP server Started
+Worker: Queue server Started
+
+TMDB 没有 api key 肯定 down.
+
+dht 一会 up 一会 down.
+
+莫名其妙的多了许多 torrents.
+
+(是该信 chatgpt 啊, 不必追.)
+
+有心栽花花不发...
+
+(笑)
+
+---
+
+https://bt4gprx.com/search?q=%e5%b9%b4%e5%b0%91%e6%97%a5%e8%ae%b0%20&category=movie&orderby=relevance&p=1
+
+真应该多看两眼的.
+
+默认竟然 by time. 而不是 by relevance.
+
+观察有用啊! 
+
+---
+
+one torrent has only 99.7% vid. not playable. wtf.
+
+---
+
+chose.
+
+https://ffmovies.lol/movies/?imdb=tt27881474/
+
+i just wanna watch it.
+
+(source: https://vidsrcme.ru/ thanks to russian nerds!)
+
+---
+
+conclusion.
+
+- russian.
+- bilibili (surprising. but it works. and it's popular. free, but not as in freedom.)
+- magnet: pikpak (works)
+- magnet (not always available)
+
+---
+
+vlc, as flatpak, could have dark mode.
+
+great. other things could be fixed. ive fixed.
+
+---
+
+`ref` 
+
+project all: the graveyard of humanity
+
+fira 生前 (年轻的时候) 很喜欢看人类先吃糖, 再吃盐, 在 twitter (即使那时也已经变成 elon 的玩具了) 上.
+
+> 世界上每一天无数人来去. 自然生息不由人定. 早就失去良心的 fira 而言, 生息无差. 只不过, 即使在 sns 上, 在那闪耀的成功的瞬息的照片之外看到的, 多少有些宽慰罢了.
+
+于是有了 _.
+
+> 尽管不乐意听见 ~ 派, ~ 主义. 
+
+想要即刻轮回/魔法少女变身/转生异世界/看到故事的真结局, fira 显然支持. 
+
+没有 a 的自由, b 也失去了意义.
+
+修建铁网, 不过是逃避责任.
+
+法律说, "怂恿", "协助"? fira 多少知道一些. 
+
+不过, 一方面, 恶法非法. 另一方面, 很多时候是权衡与妥协的产物, 甚至考虑到了许多 "敌人" 的利益.
+
+不能真地反映应然 (人的愿望).
+
+像是 fira 会作出的选择呢...
+
+---
+
+`ref`
+
+observation on silence gamedev's the most popular vid.
+
+school. (emotional connection)
+
+parent. (deep emotional connection)
+
+determination. (weird but looks like something)
+
+story telling. (maybe arousing)
+
+fira's version.
+
+school (philistine and abusing teachers, small potatoes, sadness, no hope)
+
+myself. (i dont wanna comply.)
+
+observation. (gaou. gamblers. suicide. menci.)
+
+dream. (get whatever i could. be sentenced by a judge, not a doctor.)
+
+pursuit. (i dont have enough youth. gamedev?! "for business, for fun, for unemployment")
+
+(too ideal. not grounded. maybe not as arousing...)
+
+upd: life is not a game for setting lower bound.
+
+---
+
+"You’ve hit the Free plan limit for GPT-5. Responses will use another model until your limit resets tomorrow after 2:04 AM."
+
+first time hitting! maybe gpt-5.2 is slightly more strict than gpt-5.1?
+
+maybe i could use another account.
+
+"used gpt-5 mini"
+
+---
+
+`society`
+
+fira 的想法...
+
+- 自由, 没有审查的言论. 无论毒品, 枪支, 色情, etc. 听见一切. 记录. 永久存档. 整理, 快速检阅.
+- 人类真是有趣的动物呢.
 
 ---
