@@ -435,6 +435,7 @@
   - 1883 (2022)
   - langrensha (2017)
   - phigros (2019)
+  - generals.io (2016) 
   - .earth online
   - .terraria (2011)
   - .the legend of zelda: tears of the kingdom (2023)
