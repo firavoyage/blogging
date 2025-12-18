@@ -163,6 +163,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `12` 2025.12.15
 - `13` 2025.12.16
 - `14` 2025.12.17
+- `15` 2025.12.18
 
 ### hikaru no go
 
@@ -14341,5 +14342,43 @@ fira 的想法...
 
 - 自由, 没有审查的言论. 无论毒品, 枪支, 色情, etc. 听见一切. 记录. 永久存档. 整理, 快速检阅.
 - 人类真是有趣的动物呢.
+
+---
+
+`school`
+
+talked with the class master about life stuff, whether schooling.
+
+for fira, they are similar.
+
+learn for a while at home, or study freely at school.
+
+school: phone (photo solver, chatgpt), sleep at anytime.
+
+could not: bring laptop (although i could somehow), sleep on the bed, bring life size pillows (but i may bring the mutsumi plushies... or maybe not. just bring some illustrations). 
+
+the class master could not speak freely, as pretending a bit is common in adulthood. but it still feels awkward for me.
+
+it's reasonable that she's not balanced, urging me to school at the beginning. but actually i dont hate schooling that much. why so serious?
+
+she gave me a math problem (although hiding for a while, why..., just a problem in a mock test paper this year)
+
+got grade d on chemistry, as expected. not willing to complete the paper. because ive not prepared well. not able to understand some, or most problems.
+
+one thing ive remember is that, she said she gave the problem to two top students on wechat (i dont use wechat. i wont install it. it's not free, even censored.). she said, when she got this problem in the evening, she thought until two am, and went to bed, feeling the waifu could be a bit angry. but it's worth. she felt really good showing the answer in the teachers' chat group and seeing the two students failing to solve. "认同感", as she said.
+
+and about haojun. he has come back to school after the singing (or composing) exam. it could be hard somehow, but it may suit him. he has to get 450 pts in uee.
+
+it seems that everyone in the world could be ordinary somehow. psychology is science. emotions are valid, even a bit philistine (aha moment, showing off). that's why i love anime where there's nobody human.
+
+btw, the class master is a somewhat traditional guy, as expected (by her age).
+
+- one high school student could not create an original quality indie game alone. 
+- china has developed a lot since then. you are in a good time.
+- problems need not be that hard. students dont need to learn these. the education is rat race. students are doing meaningless works just for competition. true. but there's no better way.
+
+---
+
+lincbky is everywhere on zhihu!!!
 
 ---
