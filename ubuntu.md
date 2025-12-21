@@ -350,6 +350,8 @@ sudo apt install gnome-shell-extension-prefs
   - get cookies.txt locally https://chromewebstore.google.com/detail/get-cookiestxt-locally/cclelndahbckbenkjhflpdbgdldlbecc
   - vCaptions – Video Caption List https://chromewebstore.google.com/detail/vcaptions-%E2%80%93-video-caption/bciglihaegkdhoogebcdblfhppoilclp/
   - PocketTube: Youtube Subscription Manager https://chromewebstore.google.com/detail/pockettube-youtube-subscr/kdmnjgijlmjgmimahnillepgcgeemffb
+  - Alternate Player for Twitch.tv https://chromewebstore.google.com/detail/alternate-player-for-twit/bhplkbgoehhhddaoolmakpocnenplmhf
+  - Vertical Tabs in Side Panel https://chromewebstore.google.com/detail/vertical-tabs-in-side-pan/akahnknmcbmgodngfjcflnaljdbhnlfo?utm_source=chatgpt.com
 - config fonts
   - -> `chrome://settings/fonts`
   - standard `roboto`

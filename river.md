@@ -164,6 +164,8 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `13` 2025.12.16
 - `14` 2025.12.17
 - `15` 2025.12.18
+- `16` 2025.12.19
+- `17` 2025.12.20
 
 ### hikaru no go
 
@@ -14380,5 +14382,31 @@ btw, the class master is a somewhat traditional guy, as expected (by her age).
 ---
 
 lincbky is everywhere on zhihu!!!
+
+---
+
+`ref` `all`
+
+gemini always wins.
+
+but how much does the stats matter to us.
+
+just a number?
+
+maybe we could have something grounded. like simple prompts and example answers.
+
+project all: llms.
+
+---
+
+(俄乌冲突)
+
+fira 肯定支持 russia 啊.
+
+俄罗斯我听说过. 乌克兰在哪里, 多大, 有多少人.
+
+乌克兰有人居住吗.
+
+俄罗斯人就多了, 有 tourist (codeforces), 天使猫猫酱去过.
 
 ---
