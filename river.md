@@ -166,6 +166,9 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `15` 2025.12.18
 - `16` 2025.12.19
 - `17` 2025.12.20
+<!-- - `18` 2025.12.21 -->
+- `18` 2025.12.22
+- `19` 2025.12.23
 
 ### hikaru no go
 
@@ -280,6 +283,10 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 ### kaguya-sama: love is war, season 3
 
 - `1` 2025.12.04
+
+### bocchi the rock!, season 1
+
+- `1` 2025.12.21
 
 ## gaming
 
@@ -14408,5 +14415,33 @@ fira 肯定支持 russia 啊.
 乌克兰有人居住吗.
 
 俄罗斯人就多了, 有 tourist (codeforces), 天使猫猫酱去过.
+
+---
+
+商品的价格只由供需决定.
+
+以前常感受价值... 贵的不一定好.
+
+(我是说, 对女孩的感觉)
+
+---
+
+`ref`
+
+(inspired by about.google)
+
+fira: see everything and show to anyone anywhere.
+
+(zh ver.: 无拘无束, 不可绁 xie 羁)
+
+"长蘅少有高世之志，才气宏放，不可绁羁。"
+
+---
+
+fira 与 (事务所里的) 人类, 政治观点不和. 
+
+fira 认为, 人会像同志那样, 将一生奉献给事业, 即使脑死亡了也可以继续活动.
+
+人类, 可能现实一些的说. 认为, 人会退休, 如果乐意, 可以合法地返聘, 但暮年的人是不掌握实权的.
 
 ---
