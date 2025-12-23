@@ -393,6 +393,8 @@ sudo apt install gnome-shell-extension-prefs
   - nathanchapman.javascriptsnippets
   - formulahendry.code-runner
   - rust-lang.rust-analyzer
+  - demystifying-javascript.python-extensions-pack
+  - ms-python.black-formatter
 - config appearance
   - -> `view > appearance`
   - custom titlebar `off`
