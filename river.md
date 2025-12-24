@@ -169,6 +169,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 <!-- - `18` 2025.12.21 -->
 - `18` 2025.12.22
 - `19` 2025.12.23
+- `20` 2025.12.24
 
 ### hikaru no go
 
@@ -14244,7 +14245,7 @@ https://bt4gprx.com/search?q=%e5%b9%b4%e5%b0%91%e6%97%a5%e8%ae%b0%20&category=mo
 
 默认竟然 by time. 而不是 by relevance.
 
-观察有用啊! 
+观察有用啊!
 
 ---
 
@@ -14277,7 +14278,7 @@ great. other things could be fixed. ive fixed.
 
 ---
 
-`ref` 
+`ref`
 
 project all: the graveyard of humanity
 
@@ -14285,17 +14286,17 @@ fira 生前 (年轻的时候) 很喜欢看人类先吃糖, 再吃盐, 在 twitte
 
 > 世界上每一天无数人来去. 自然生息不由人定. 早就失去良心的 fira 而言, 生息无差. 只不过, 即使在 sns 上, 在那闪耀的成功的瞬息的照片之外看到的, 多少有些宽慰罢了.
 
-于是有了 _.
+于是有了 \_.
 
-> 尽管不乐意听见 ~ 派, ~ 主义. 
+> 尽管不乐意听见 ~ 派, ~ 主义.
 
-想要即刻轮回/魔法少女变身/转生异世界/看到故事的真结局, fira 显然支持. 
+想要即刻轮回/魔法少女变身/转生异世界/看到故事的真结局, fira 显然支持.
 
 没有 a 的自由, b 也失去了意义.
 
 修建铁网, 不过是逃避责任.
 
-法律说, "怂恿", "协助"? fira 多少知道一些. 
+法律说, "怂恿", "协助"? fira 多少知道一些.
 
 不过, 一方面, 恶法非法. 另一方面, 很多时候是权衡与妥协的产物, 甚至考虑到了许多 "敌人" 的利益.
 
@@ -14364,7 +14365,7 @@ learn for a while at home, or study freely at school.
 
 school: phone (photo solver, chatgpt), sleep at anytime.
 
-could not: bring laptop (although i could somehow), sleep on the bed, bring life size pillows (but i may bring the mutsumi plushies... or maybe not. just bring some illustrations). 
+could not: bring laptop (although i could somehow), sleep on the bed, bring life size pillows (but i may bring the mutsumi plushies... or maybe not. just bring some illustrations).
 
 the class master could not speak freely, as pretending a bit is common in adulthood. but it still feels awkward for me.
 
@@ -14382,7 +14383,7 @@ it seems that everyone in the world could be ordinary somehow. psychology is sci
 
 btw, the class master is a somewhat traditional guy, as expected (by her age).
 
-- one high school student could not create an original quality indie game alone. 
+- one high school student could not create an original quality indie game alone.
 - china has developed a lot since then. you are in a good time.
 - problems need not be that hard. students dont need to learn these. the education is rat race. students are doing meaningless works just for competition. true. but there's no better way.
 
@@ -14438,10 +14439,69 @@ fira: see everything and show to anyone anywhere.
 
 ---
 
-fira 与 (事务所里的) 人类, 政治观点不和. 
+fira 与 (事务所里的) 人类, 政治观点不和.
 
 fira 认为, 人会像同志那样, 将一生奉献给事业, 即使脑死亡了也可以继续活动.
 
 人类, 可能现实一些的说. 认为, 人会退休, 如果乐意, 可以合法地返聘, 但暮年的人是不掌握实权的.
+
+---
+
+reflecting, i found fira smart.
+
+"boring tech"
+
+"inevitable invariants"
+
+"decide the things if choose one, you could not choose another."
+
+---
+
+`ref`
+
+https://www.zhihu.com/question/15488122245
+
+Luban
+计算机
+Offer
+大一
+摆烂
+同济计算机大一，毕业后如何在上海找到一份到手 12000 以上的码类工作？
+我在知乎的第一个问题 qwq
+
+年轻时还有一些雄心壮志，想要成为 oi 国牌佬&考上名校。现在意识到了自己就是一个摆子，一个 loser，完全没有动力一直卷下去，被层层叠叠的 ddl 搞的心力憔悴，而且也感觉很空虚。目前绩点就是 average 水平，然后唯一的派的上用处的特长就是有 CF 1700-1800 的算法能力 (我知道这很一般，dalao 勿 Q）我发现唯一能让我燃起激情的可能只有对着屏幕敲上半天的算法题或者随便捣鼓捣鼓一些小玩意/下半天围棋/看半天番剧（不过无论是代码还是棋都挺一般就是了），剩下的娱乐时间不是刷手机就是音游打打歌，日子一天天地浪费 qwq~
+
+既然高考前要卷，高考后也要卷，而且卷也卷不过（我确实很失败），那我的一切所作所为又有何价值？辛苦学习，到头来就是为了更辛苦的学习吗？我感觉我能接受的充其量也就是努力，拼命是不要指望了。
+
+唯一好的一点是是本地人，parents 比较有实力（至少学校层次、事业、意志力都远胜于我），没有经济压力，现在只想要找到一份可以敲敲代码收入尚可的码类工作就满足了，在此基础上，路径只要合理合法，越轻松越好，大家有什么头绪吗？谢谢各位前辈指点了！小弟感激不尽！
+
+关注者
+462
+被浏览
+430,403
+他们也关注了该问题 NotRealName 一花依世界
+创建时间：2025-03-21 16:04:12
+
+最后编辑：2025-03-21 16:04:12
+
+---
+
+`ref`
+
+fira 看来这些中国领导人都一般. 没什么权力. 至少没有使用什么权力. 干了许多实事. 但没干什么大事.
+
+中国有原子弹. 这是个好东西. 好东西要使用. 可以在世界范围内有人的地方随机地使用一些.
+
+确实有许多革命, 但都是按数量死人的, 一万个, 算不了什么. 而不是按比例, 比如死掉百分之一呢. (?)
+
+我们是媒体. 不是政客. 知道人民想看什么吗. 领导人穿衣服没有. 有没有裸照. (笑)
+
+发动一场战争.
+
+---
+
+youtube comments 支持层叠了? 
+
+like reddit/hn
 
 ---
