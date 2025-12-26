@@ -170,6 +170,8 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `18` 2025.12.22
 - `19` 2025.12.23
 - `20` 2025.12.24
+- `21` 2025.12.25
+- `22` 2025.12.26
 
 ### hikaru no go
 
@@ -14503,5 +14505,75 @@ fira 看来这些中国领导人都一般. 没什么权力. 至少没有使用�
 youtube comments 支持层叠了? 
 
 like reddit/hn
+
+---
+
+`ref` `weather`
+
+(ive watched a film. indie game the movie.)
+
+people in the world, are random.
+
+philistine. low energy by default.
+
+in ordinary schools, in the society, in boring companies.
+
+i know them. i have empathy on them.
+
+and i wont look at them.
+
+there exists sane people. 
+
+the ones wise, mindful, and energetic.
+
+creating worlds.
+
+humans are interesting creatures. they dont need to do something. they dont need to care the entropy. that's it. that's the real world.
+
+"because a pianist could not survive in the real world."
+
+i write good code. i keep things organized. i pursue purity, beauty, and elegance. 
+
+sometimes im fascinated in objects, the tiny works by lingdong huang, shakesphere's sonnets, movies, literature, chess, chocolates... idk. romanticism, impressionism, etc.
+
+classmates play tencent games. they chat with each other. they memorize and make fun of random stuff in life.
+
+facing people, i keep my class, calmly. without showing off, just let it be there. in the wording, in the art, in the voice narration, in the calligraphy, in the literary style. slow paced, polished. gentle smile in the heart.
+
+i assume everyone is genius, gifted, and blessed. 
+
+"may all the beauty be blessed."
+
+i try to talk with humans. and simply walk away if nothing happens. i write down my feelings. i archive my observation. i mute. i wait patiently. i dream. i impress in my own way.
+
+at the end of the day, i would be with the clear minded, inspiring, lovely creatures. that's life.
+
+---
+
+"lulu 可以说下如何攻略日本女生吗"
+
+"那你攻略过中国女生吗"
+
+...
+
+"有比我的生活更无聊的吗"
+
+"你们的工作是什么"
+
+...
+
+lulu knows so much japanese idioms. "... ... ... you and me!"
+
+weird. idk. i could not understand.
+
+...
+
+"你们有没有九月份出生的"
+
+"九月份出生, 你们的爸爸妈妈就是圣诞节左右 do 的"
+
+"???"
+
+"下头"
 
 ---

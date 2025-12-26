@@ -39,56 +39,54 @@ zstyle ':completion:*:*:kill:*:processes' list-colors '=(#b) #([0-9]#)*=0=01;31'
 zstyle ':completion:*:kill:*' command 'ps -u $USER -o pid,%cpu,tty,cputime,cmd'
 
 function push(){
+    cd Documents
+    cd f
+    git add .
+    git commit -m '.'
+    git push -f e
+    git push -f a
+    cd ..
 
-cd Documents
-cd f
-git add .
-git commit -m '.'
-git push -f e
-git push -f a
-cd ..
+    cd resources
+    git add .
+    git commit -m '.'
+    git push -f e
+    git push -f a
+    cd ..
 
-cd resources
-git add .
-git commit -m '.'
-git push -f e
-git push -f a
-cd ..
+    cd blogging
+    git add .
+    git commit -m '.'
+    git push -f e
+    git push -f a
+    git pull e master
+    cd ..
 
-cd blogging
-git add .
-git commit -m '.'
-git push -f e
-git push -f a
-git pull e master
-cd ..
+    cd memories
+    git add .
+    git commit -m '.'
+    git push -f e
+    git push -f a
+    git pull e master
+    cd ..
 
-cd memories
-git add .
-git commit -m '.'
-git push -f e
-git push -f a
-git pull e master
-cd ..
+    cd school
+    git add .
+    git commit -m '.'
+    git push -f e
+    git push -f a
+    git pull e master
+    cd ..
 
-cd school
-git add .
-git commit -m '.'
-git push -f e
-git push -f a
-git pull e master
-cd ..
+    cd fonts
+    git add .
+    git commit -m '.'
+    git push -f e
+    git pull e master
+    cd ..
 
-cd fonts
-git add .
-git commit -m '.'
-git push -f e
-git pull e master
-cd ..
-
-cd ..
+    cd ..
 }
-
 
 release() {
     file="$1"
@@ -116,7 +114,10 @@ release() {
 }
 
 phone() {
-    scrcpy --turn-screen-off --power-off-on-close --screen-off-timeout=600 & disown
+  adb kill-server
+  adb start-server
+
+  scrcpy --fullscreen --turn-screen-off --power-off-on-close --screen-off-timeout=600 & disown
 }
 
 export PATH="$HOME/.local/bin:$PATH"
