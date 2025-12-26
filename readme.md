@@ -409,6 +409,7 @@
   - carrot fantasy (2013)
   - plant vs. zombies 2 (2013)
   - soul knight (2017)
+  - canabalt (2009)
   - genshin impact (2020)
   - clash royale (2016)
   - brawl stars (2017)

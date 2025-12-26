@@ -352,6 +352,7 @@ sudo apt install gnome-shell-extension-prefs
   - PocketTube: Youtube Subscription Manager https://chromewebstore.google.com/detail/pockettube-youtube-subscr/kdmnjgijlmjgmimahnillepgcgeemffb
   - Alternate Player for Twitch.tv https://chromewebstore.google.com/detail/alternate-player-for-twit/bhplkbgoehhhddaoolmakpocnenplmhf
   - Vertical Tabs in Side Panel https://chromewebstore.google.com/detail/vertical-tabs-in-side-pan/akahnknmcbmgodngfjcflnaljdbhnlfo?utm_source=chatgpt.com
+  - Profile Manager Pro – Turbo Login, Smart Cookie Control https://chromewebstore.google.com/detail/profile-manager-pro-%E2%80%93-tur/omnafjdgigipejaajbnlopdjifgknogj?utm_source=chatgpt.com
 - config fonts
   - -> `chrome://settings/fonts`
   - standard `roboto`
