@@ -14652,8 +14652,50 @@ something i believe:
 - let science speak. let time speak. let failure speak. human could feel, sense, and realize. when people dying. no food. losing hope. suicide. etc.
 - im not afraid i will be redacted. there will be people of my thoughts.
 - human could know what's right. art. beauty. etc.
-- human could be free, as free as possible, through tech. nothing could be really redacted or censored. politics, weapons, drugs, discrimination, child explotation, etc. they are actually already designed and, even implemented, like magnet, crypto, v2ray, web3, onion, etc.
+- human could be free, as free as possible, through tech. nothing could be really redacted or censored. politics, weapons, drugs, discrimination, child explotation, etc. they are actually already designed and, even implemented, like magnet, crypto, v2ray, web3, onion, etc. the knowledge (tech, papers), the practical wisdom (to create, to release, and to gain popularity), the humanity, whatever, whether widely adopted or not, i could believe the future of humanity, without any personal efforts of myself. 
 - everything could be archived. people may forget, but some wont.
 - life is a journey.
 
 ---
+
+i dont really believe elon.
+
+nothing could really happen. nothing wont happen. human has its own initial limitations. thing wont change much.
+
+why chase something.
+
+breathe.
+
+---
+
+there are only a few in the world.
+
+any group (devs on twitter speaking sc, creators of a game on berryberry), has only a few familiar faces (avatars).
+
+the science: filter by social class (the people who could have time, resources, and heart to do something, choose her own pursuits.), by hobby (one's time is limited.), by impact (at least 1k followers, for example. those who could have impact would soon gain 1k fo, others wont, maybe ever.) etc.
+
+---
+
+slience. "默神". 
+
+沿用网路上流行的说法, 以神名之. 
+
+毫不愧疚地说, 她给了 fira 很大的启发. 关于冲量 (momentum).
+
+失败并不意外. 阶层太低, 缺少必要条件 (尽管现实不能用理想化模型完全推断), 统计上就结束了, 还没开始就结束了. 阶层低: 显然没有被动收入 (当初考学时, 办公室, 卷子. 一位老师说, 我喜欢批这样的卷子. why. 很好批改. 没写直接给 0. 反面呢. 反面还要看吗. 这就是经验. 果然圆锥曲线空着, 函数导数也空着.), i.e. 收房租, 股票分红. 据悉, 公司 (the family, 家庭) 无业支撑不了一年 (或许一个月), 无财产. 
+
+当然还要有天赋... 运气... idk. (上帝的筛子, 真有趣啊...)
+
+(fira 的学校, 是人间很普通的学校... 功利主义, 尽管无法完全证明写一些内容骗分, ... 虽然也不值一提就是了.)
+
+---
+
+想要做什么就直接去做. (zhihu, see the next archive on jan 2026.)
+
+不需要在无关内容上消耗自己. 不要随波逐流 (从流飘荡, 任意东西). 
+
+不需要名叫的托举.
+
+---
+
+

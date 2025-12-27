@@ -10,6 +10,23 @@
 >
 > some unimportant pages are removed
 
+### ref
+
+- `nat`
+- `livid`
+- `jiangyanyan`
+- `micro startup`
+- `florio`
+- `ramsay`
+- `hzwer`
+- `diy`
+- `clone`
+- `never ending now`
+- `livid 20210531`
+- `white paper`
+- `blogs`
+- `larr naming`
+
 ### philosophy
 
 - `larr naming` Programmers and software developers lost the plot on naming their tools
@@ -139,6 +156,7 @@
 - `llm` 授人以渔：如何构建“超级提示词”来正确地使用 AI 写作
 - `style` 中文技术文档的写作规范
 - `ruanyf data structure` 数据模型是新产品的核心
+- `web vibe coding` Useful patterns for building HTML tools
 
 ### story
 
@@ -161,6 +179,7 @@
 - `floatpoint` 一扇门的 Bug
 - `girl` 大和抚子
 - `shizuku ruru` 雫るる 雨宮伊織
+- `zipbomb` A better zip bomb
 
 ### weather
 
@@ -173,6 +192,7 @@
 - `kk` 一个乐观主义者的专访
 - `innei feeling` 在安稳中寻求生存
 - `feynman` 为什么学习物理学
+- `elon` 《硅谷钢铁侠》摘录
 
 ### literary
 
@@ -207,22 +227,9 @@
 - `philip pan` Philip Pan 访谈
   - "new china" of mafia
 
-### ref
+### linguistics
 
-- `nat`
-- `livid`
-- `jiangyanyan`
-- `micro startup`
-- `florio`
-- `ramsay`
-- `hzwer`
-- `diy`
-- `clone`
-- `never ending now`
-- `livid 20210531`
-- `white paper`
-- `blogs`
-- `larr naming`
+- `void` The Architecture of "Not Bad": Decoding the Chinese Source Code of the Void
 
 ## tweets
 
@@ -308,3 +315,43 @@ himself65 bread on the simplified chinese market
 
 家长在江浙沪做生意，上国际高中，并不普通😭😭
 ```
+
+## things
+
+2025.12.27
+
+https://github.com/AI4Engr/MADOLA
+
+MADOLA integrates mathematical notation, computation, documentation, and code generation within a single file.
+
+1、[MADOLA](https://github.com/AI4Engr/MADOLA)
+
+![](https://cdn.beekka.com/blogimg/asset/202512/bg2025121907.webp)
+
+一种新的数学脚本语言，像编程一样写数学公式，可以编译成 HTML 格式作为文档，也可以编译成 C++ 或 WebAssembly 直接运行。（[@AI4Engr](https://github.com/ruanyf/weekly/issues/8478)  投稿）
+
+---
+
+https://ngrok.com/blog/prompt-caching/
+
+---
+
+2、[帽子，乌龟和幽灵](https://www.nhatcher.com/post/on-hats-and-sats/)
+
+2022 年，一个业余数学家 David Smith 发现了一个有点像帽子的奇特形状。
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025061407.webp)
+
+这个形状的奇特之处在于，它可以无限不重复地铺满整个空间，且不形成周期性的重复图案。
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025061409.webp)
+
+不久后，他又发现了两种稍加变化的形状，称为乌龟和幽灵，也可以不重复地平铺平面。
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025061410.webp)
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025061411.webp)
+
+下面就是这三种形状各自平铺的图案。
+
+![](https://cdn.beekka.com/blogimg/asset/202506/bg2025061412.webp)

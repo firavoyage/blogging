@@ -134,6 +134,7 @@
   - darkf1ames
   - dbinary matrixcascade
   - dingyi dex weekly
+  - disdjj blog.pdjjq.org
   - disksing
   - diygod
   - egoist chatwise anime-sedai
@@ -246,7 +247,7 @@
   - shin jin-seo go
   - shizuku lulu
   - shylily
-  - simonwillison
+  - simonwillison simonwillison.net
   - sinyalee alphastar
   - snack life
   - spade echo
