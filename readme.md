@@ -189,6 +189,7 @@
   - konata izumi
   - krahets helloalgo
   - kuviman kart-lang linksider
+  - larrasket larr.net lr0.org
   - leanrada kalabasa
   - leaverou
   - leongao
@@ -245,6 +246,7 @@
   - shin jin-seo go
   - shizuku lulu
   - shylily
+  - simonwillison
   - sinyalee alphastar
   - snack life
   - spade echo
