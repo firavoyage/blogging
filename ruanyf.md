@@ -1,3 +1,5 @@
+<!-- upd 2025.12.27: no longer update this. meaningful things are put in lights. otherwise, just ignore (memes, etc.). -->
+
 # ruanyf weekly
 
 ## .

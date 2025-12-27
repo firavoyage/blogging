@@ -39,54 +39,56 @@ zstyle ':completion:*:*:kill:*:processes' list-colors '=(#b) #([0-9]#)*=0=01;31'
 zstyle ':completion:*:kill:*' command 'ps -u $USER -o pid,%cpu,tty,cputime,cmd'
 
 function push(){
-    cd Documents
-    cd f
-    git add .
-    git commit -m '.'
-    git push -f e
-    git push -f a
-    cd ..
 
-    cd resources
-    git add .
-    git commit -m '.'
-    git push -f e
-    git push -f a
-    cd ..
+cd Documents
+cd f
+git add .
+git commit -m '.'
+git push -f e
+git push -f a
+cd ..
 
-    cd blogging
-    git add .
-    git commit -m '.'
-    git push -f e
-    git push -f a
-    git pull e master
-    cd ..
+cd resources
+git add .
+git commit -m '.'
+git push -f e
+git push -f a
+cd ..
 
-    cd memories
-    git add .
-    git commit -m '.'
-    git push -f e
-    git push -f a
-    git pull e master
-    cd ..
+cd blogging
+git add .
+git commit -m '.'
+git push -f e
+git push -f a
+git pull e master
+cd ..
 
-    cd school
-    git add .
-    git commit -m '.'
-    git push -f e
-    git push -f a
-    git pull e master
-    cd ..
+cd memories
+git add .
+git commit -m '.'
+git push -f e
+git push -f a
+git pull e master
+cd ..
 
-    cd fonts
-    git add .
-    git commit -m '.'
-    git push -f e
-    git pull e master
-    cd ..
+cd school
+git add .
+git commit -m '.'
+git push -f e
+git push -f a
+git pull e master
+cd ..
 
-    cd ..
+cd fonts
+git add .
+git commit -m '.'
+git push -f e
+git pull e master
+cd ..
+
+cd ..
 }
+
 
 release() {
     file="$1"
@@ -114,10 +116,22 @@ release() {
 }
 
 phone() {
+  # Restart ADB server to ensure proper connection
   adb kill-server
   adb start-server
 
-  scrcpy --fullscreen --turn-screen-off --power-off-on-close --screen-off-timeout=600 & disown
+  # Mute the phone's media volume
+  adb shell cmd media_session volume --stream 3 --set 0
+
+  # Start scrcpy and wait until it's ready
+  scrcpy --fullscreen --turn-screen-off --power-off-on-close --screen-off-timeout=600 &
+
+  # Give scrcpy some time to fully start
+  sleep 3
+
+  # Now start sndcpy
+  cd /usr/local/bin
+  sndcpy
 }
 
 export PATH="$HOME/.local/bin:$PATH"

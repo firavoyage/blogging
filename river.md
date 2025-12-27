@@ -172,6 +172,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `20` 2025.12.24
 - `21` 2025.12.25
 - `22` 2025.12.26
+- `23` 2025.12.27
 
 ### hikaru no go
 
@@ -14575,5 +14576,84 @@ weird. idk. i could not understand.
 "???"
 
 "下头"
+
+---
+
+`ref`
+
+mobile traffic is not enough, said the family.
+
+mobile traffic is cheap, i know. but the family has a poor background in their childhood, so they tend to trade time for money, for saving money, not creating wealth. idk.
+
+i dont care. i wont talk to them. 
+
+and i wont forget their words. actually, ive tried to mute people in the real world before. now ive realized that, eyes could be closed, mouth could, but ears may not.
+
+i wont try to omit more words in the surrounding. i believe things. i believe in myself.
+
+i use a high priority principle to outweight others, instead of trying to turn down trival things.
+
+"stability overpowers anything else."
+
+nothing is more precious than my time. nobody is more important than me.
+
+that's it.
+
+---
+
+there are people who use low class idioms, philistine words, i know.
+
+just, "i know."
+
+---
+
+`ref`
+
+"not enough mobile network data quota. 1g now would cost 100 cny."
+
+i think it's a solvable problem. without (my) efforts. with affordable, reasonable price. 
+
+sometimes adding some constraints to others, could change things.
+
+i will pay for that now.
+
+i could take advantage of that for the time being.
+
+great leverage. proceed.
+
+(but it seems that there are stupid people existing in the world, specially conservative old guys, with too much compromises made in their growth. no need to bother them. i will claim their data offer to reduce cost with a few clicks, if it's easy.)
+
+ive learned that, there are people who bought a cheap phone (oppo, a chinese company targeting low class society somehow) for old (ill, maybe) guys, full of ads, bundled, not removable (without adb maybe), then complaining about the sickness of the phone.
+
+(accidentally see a lot of random messages sent by the family. i even could not see them for months. but, maybe, they assume netizens could receive messages. another false assumption. i have no empathy to stupidity. done.)
+
+some uee oriented life suggestion as usual. but no need. i have class. a bit more score wont change much ("your current score is average, maybe 30%. if you work harder you could get into 10%. btw, 30% in shanghai means 10% in the whole rest of the country."), same as my idle and happy classmates, on my diary. (but conservative people love that, as expected. you know sometimes they could say obvious wrong or time-deprecated things.)
+
+they are really ideal. "if you study chinese, english, and math, each for 1~2 hours a day, you could get 10 pts higher on each, leading to an 211 university on the spring uee.". just, i know. take chinese for example. the most effective way, could be recite literary chinese, both "must recite passage/poems" (worth 5 pts, which i hardly get anything now.), and the meaning of words (i dont even have one recitation word book in hand, unlike english, which i love and i think is useful). and i could read the (simple, solid, and) stupid method of reading comprehension and composition, using pattern matching and "filling the blank" strategy, instead of sense and intuition, or writing anything as i like, expressing my heart through words.
+
+for things (school subjects) i love (not limited to the major ones), i could progress as usual, without spending my spare time, i.e. after school (do i need to chase something?). wlb!
+
+life is a game. 
+
+surf qq for a while. the meme saw on twitter (chinese twittter users' fav: bank cards, esims, google voice, a bit more freedom and power...) becomes here today.
+
+maybe time to archive the diary online. even if i die/suicide (although i may not), i could keep some memories on github.
+
+upd: maybe im not lucky enough. there are sane people, who do things as they like. they dont need to find their way, because wherever they go, it could not be wrong. that's life. life is just life. but... fira has to find her way, at least it seems that.
+
+---
+
+`ref`
+
+something i believe:
+
+- the world could not be changed.
+- there is not one decent "-ism", and there wont be.
+- let science speak. let time speak. let failure speak. human could feel, sense, and realize. when people dying. no food. losing hope. suicide. etc.
+- im not afraid i will be redacted. there will be people of my thoughts.
+- human could know what's right. art. beauty. etc.
+- human could be free, as free as possible, through tech. nothing could be really redacted or censored. politics, weapons, drugs, discrimination, child explotation, etc. they are actually already designed and, even implemented, like magnet, crypto, v2ray, web3, onion, etc.
+- everything could be archived. people may forget, but some wont.
+- life is a journey.
 
 ---

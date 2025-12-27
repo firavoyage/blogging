@@ -10,6 +10,10 @@
 >
 > some unimportant pages are removed
 
+### philosophy
+
+- `larr naming` Programmers and software developers lost the plot on naming their tools
+
 ### dev learning
 
 - `solopreneur` 我的透明创业实验
@@ -156,6 +160,7 @@
 - `egoist` This is a living document of the tools, software, and hardware I use. If there is something missing, reach out to me on [X/Twitter](https://x.com/localhost_5173)
 - `floatpoint` 一扇门的 Bug
 - `girl` 大和抚子
+- `shizuku ruru` 雫るる 雨宮伊織
 
 ### weather
 
@@ -167,6 +172,7 @@
 
 - `kk` 一个乐观主义者的专访
 - `innei feeling` 在安稳中寻求生存
+- `feynman` 为什么学习物理学
 
 ### literary
 
@@ -216,6 +222,7 @@
 - `livid 20210531`
 - `white paper`
 - `blogs`
+- `larr naming`
 
 ## tweets
 
