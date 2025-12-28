@@ -173,6 +173,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `21` 2025.12.25
 - `22` 2025.12.26
 - `23` 2025.12.27
+- `24` 2025.12.28
 
 ### hikaru no go
 
@@ -10365,7 +10366,6 @@ https://shitoubaike.org/wiki/%E5%A7%9C%E8%90%8D
 
 我爱老公金玟池 :
 门酱喜欢黑的吗[dog]
-系统提示：哔哩哔哩直播内容及互动评论须严格遵守直播规范，严禁传播违法违规、低俗血暴、吸烟酗酒、造谣诈骗等不良有害信息。如有违规，平台将进行封禁直至永久封停账号哦！注意理性打赏，未成年不提倡大额打赏。请勿轻信平台上各类广告信息，谨防上当受骗。
 
 岂轻啄金桃 :
 对每天都在干
@@ -13241,7 +13241,9 @@ sirkey 5, [12/2/25 4:54 PM]
 
 ---
 
-`ref` `weather` `school`
+`ref` `weather` `school` `letter`
+
+a letter.
 
 这封信是写给自己的. 复制给你.
 
@@ -14503,7 +14505,7 @@ fira 看来这些中国领导人都一般. 没什么权力. 至少没有使用�
 
 ---
 
-youtube comments 支持层叠了? 
+youtube comments 支持层叠了?
 
 like reddit/hn
 
@@ -14523,7 +14525,7 @@ i know them. i have empathy on them.
 
 and i wont look at them.
 
-there exists sane people. 
+there exists sane people.
 
 the ones wise, mindful, and energetic.
 
@@ -14533,7 +14535,7 @@ humans are interesting creatures. they dont need to do something. they dont need
 
 "because a pianist could not survive in the real world."
 
-i write good code. i keep things organized. i pursue purity, beauty, and elegance. 
+i write good code. i keep things organized. i pursue purity, beauty, and elegance.
 
 sometimes im fascinated in objects, the tiny works by lingdong huang, shakesphere's sonnets, movies, literature, chess, chocolates... idk. romanticism, impressionism, etc.
 
@@ -14541,7 +14543,7 @@ classmates play tencent games. they chat with each other. they memorize and make
 
 facing people, i keep my class, calmly. without showing off, just let it be there. in the wording, in the art, in the voice narration, in the calligraphy, in the literary style. slow paced, polished. gentle smile in the heart.
 
-i assume everyone is genius, gifted, and blessed. 
+i assume everyone is genius, gifted, and blessed.
 
 "may all the beauty be blessed."
 
@@ -14585,7 +14587,7 @@ mobile traffic is not enough, said the family.
 
 mobile traffic is cheap, i know. but the family has a poor background in their childhood, so they tend to trade time for money, for saving money, not creating wealth. idk.
 
-i dont care. i wont talk to them. 
+i dont care. i wont talk to them.
 
 and i wont forget their words. actually, ive tried to mute people in the real world before. now ive realized that, eyes could be closed, mouth could, but ears may not.
 
@@ -14611,7 +14613,7 @@ just, "i know."
 
 "not enough mobile network data quota. 1g now would cost 100 cny."
 
-i think it's a solvable problem. without (my) efforts. with affordable, reasonable price. 
+i think it's a solvable problem. without (my) efforts. with affordable, reasonable price.
 
 sometimes adding some constraints to others, could change things.
 
@@ -14633,13 +14635,15 @@ they are really ideal. "if you study chinese, english, and math, each for 1~2 ho
 
 for things (school subjects) i love (not limited to the major ones), i could progress as usual, without spending my spare time, i.e. after school (do i need to chase something?). wlb!
 
-life is a game. 
+life is a game.
 
 surf qq for a while. the meme saw on twitter (chinese twittter users' fav: bank cards, esims, google voice, a bit more freedom and power...) becomes here today.
 
 maybe time to archive the diary online. even if i die/suicide (although i may not), i could keep some memories on github.
 
 upd: maybe im not lucky enough. there are sane people, who do things as they like. they dont need to find their way, because wherever they go, it could not be wrong. that's life. life is just life. but... fira has to find her way, at least it seems that.
+
+upd a day later: the family really loves to deal with (manage, and talk, even directly to) the low class society people. even talking about the source of food, relating to the childhood memories (the history when china is really poor. a lot of people die for lack of food.).
 
 ---
 
@@ -14652,7 +14656,7 @@ something i believe:
 - let science speak. let time speak. let failure speak. human could feel, sense, and realize. when people dying. no food. losing hope. suicide. etc.
 - im not afraid i will be redacted. there will be people of my thoughts.
 - human could know what's right. art. beauty. etc.
-- human could be free, as free as possible, through tech. nothing could be really redacted or censored. politics, weapons, drugs, discrimination, child explotation, etc. they are actually already designed and, even implemented, like magnet, crypto, v2ray, web3, onion, etc. the knowledge (tech, papers), the practical wisdom (to create, to release, and to gain popularity), the humanity, whatever, whether widely adopted or not, i could believe the future of humanity, without any personal efforts of myself. 
+- human could be free, as free as possible, through tech. nothing could be really redacted or censored. politics, weapons, drugs, discrimination, child explotation, etc. they are actually already designed and, even implemented, like magnet, crypto, v2ray, web3, onion, etc. the knowledge (tech, papers), the practical wisdom (to create, to release, and to gain popularity), the humanity, whatever, whether widely adopted or not, i could believe the future of humanity, without any personal efforts of myself.
 - everything could be archived. people may forget, but some wont.
 - life is a journey.
 
@@ -14676,13 +14680,13 @@ the science: filter by social class (the people who could have time, resources, 
 
 ---
 
-slience. "默神". 
+slience. "默神".
 
-沿用网路上流行的说法, 以神名之. 
+沿用网路上流行的说法, 以神名之.
 
 毫不愧疚地说, 她给了 fira 很大的启发. 关于冲量 (momentum).
 
-失败并不意外. 阶层太低, 缺少必要条件 (尽管现实不能用理想化模型完全推断), 统计上就结束了, 还没开始就结束了. 阶层低: 显然没有被动收入 (当初考学时, 办公室, 卷子. 一位老师说, 我喜欢批这样的卷子. why. 很好批改. 没写直接给 0. 反面呢. 反面还要看吗. 这就是经验. 果然圆锥曲线空着, 函数导数也空着.), i.e. 收房租, 股票分红. 据悉, 公司 (the family, 家庭) 无业支撑不了一年 (或许一个月), 无财产. 
+失败并不意外. 阶层太低, 缺少必要条件 (尽管现实不能用理想化模型完全推断), 统计上就结束了, 还没开始就结束了. 阶层低: 显然没有被动收入 (当初考学时, 办公室, 卷子. 一位老师说, 我喜欢批这样的卷子. why. 很好批改. 没写直接给 0. 反面呢. 反面还要看吗. 这就是经验. 果然圆锥曲线空着, 函数导数也空着.), i.e. 收房租, 股票分红. 据悉, 公司 (the family, 家庭) 无业支撑不了一年 (或许一个月), 无财产.
 
 当然还要有天赋... 运气... idk. (上帝的筛子, 真有趣啊...)
 
@@ -14692,10 +14696,226 @@ slience. "默神".
 
 想要做什么就直接去做. (zhihu, see the next archive on jan 2026.)
 
-不需要在无关内容上消耗自己. 不要随波逐流 (从流飘荡, 任意东西). 
+不需要在无关内容上消耗自己. 不要随波逐流 (从流飘荡, 任意东西).
 
 不需要名叫的托举.
 
 ---
 
+"What Would You Do with 1 Million? First Destination of the Million Check Series!"
 
+这期的主题一眼就是受Mr Beast启发，但点开之后发现这期是我感觉最近做的最好的一期。只是标题吸睛，但内容很实在拍的很美很有深度。
+
+对 idea 更像 限定challenge，这种东西看点会更足一些，但还是挺影视飓风的，优质视频和流量产品是两个概念，不好平衡的
+
+片头和标题为了流量而改的，片子应该拍很早，片头和标题以及广告内容是最近才定的，所以植入衔接上才会那么生硬，而且巴里正片中并没有百万任何痕迹，甚至软广都很少，一定是周期还没到发售，并未确定，甚至广告都有可能是后拉的
+可以说就是一部纪录短片剪辑成了流量软广而已，不过也很感谢
+
+看B站的回复，说是去年的企划，野兽先生的影响要几个月后
+
+感谢提醒，我的意思就是这节目内容很影视飓风，制作也精良，不像是Mr Beast影响的（也确实，如你所说是之前的企划）。但这标题肯定受了影响，之前影视飓风起标题是很直白的，关键词‘数字游民’‘巴厘岛’等至少会提及一点，肯定不会直接起‘100万’，而且这节目跟‘100万’也没啥关系，这个野兽味儿太重了。不过这算是学习到的经验，如何起炸裂标题吸引观众
+
+說到mr beast 他跟小lin分享有一個亮點是找了好朋友tyler去全力培育成接班人/能放權的分身 
+這裡很明顯 tim也找到他的tyler了
+
+短短四句话，让我怀疑你的中文是谁教的。。。哈哈哈哈，第一句，毫无逻辑的”但“。。。，第二句，”只是“让人误以为是负面的印象，然后又接了个毫无前后对应的”但“很美很有深度。。。翻译软件都翻不出这么没有逻辑的句子！厉害！
+
+对 而且 17:19  这一段升华很有诗意  怀谷老师的经历不简单
+
+看標題，以爲是綜藝片
+點進來，發現是風光片
+看到完，才知道是紀錄片
+
+成了!成了!成了!!!  這一集沒有tim當主角,卻也派出一部高級有質感且教育意義的影片!  無限進步!!!!
+
+噱头化的标题配不上这么优质的内容，在入住完房间之后内容开始娓娓道来时我已经忘记了视频开头的100万支票了。
+从什么是数字游民到租房价格，从数字游民财务到是否后悔成为数字游民，故事的最后展现这个国家及社会普通人的一面，25分钟的视频我认为是完全充实的，优质的内容才是去“tim化”最合理的方式。视频发布不久我就观看了完整内容，到现在接近三个月的时间希望下一期尽快到来。
+
+说实话，这标题我完全不想点进来。是这内容发酵了，才吸引到了我。
+
+我也是看到第二期的论文代写才知道这个系列的节目反推来看第一期的
+
+第二期内容太狠了，看完直接马不停蹄找第一期看
+
+标题真的和内容很割裂，但是不得不说看这位编导的视频真的探索的很有深度，节奏的把控，配合恰到好处的音乐和影视飓风特有的高清升格画面，已经是一种纯粹的享受了，完全没注意到这是个20分钟的视频
+
+关于后悔这个话题还挺有意思的，up找的三个采访对象，一位是在中国工作过的西方社会背景的黑色人种，一位是国人，一位是白人，Dean是事业有成后去到巴厘岛创业的，他的态度比较中庸，国人姐姐的老公是工作半道离职的，看着以前同事现在的履历后表示后悔，最后一位白人小哥完全就是选择即正确，不会去纠结。还有外来人口/游客对当地基建、环境的压力和破坏，对当地就业、经济的促进，老雅思作文话题了哈哈哈哈，好熟悉，在备考的同学可以积累[doge]
+
+但是我得说整体上这个视频还是太美好了，如果你只是不想坐办公室、不想打卡，work from home是一种远比数字游民更经济的选择，如果是冲着赚发达国家的钱到欠发达地区花，那么选择做数字游民很大概率会后悔，因为大部分人的收入并没有很高，数字游民是一种旅居生活，“旅”消费就不会低，你住的时间越长，对旅游城市的高物价越敏感，你还得考虑医疗、签证、税收等等现实问题。并且“数字游民”这个词，我感觉就是生造出来赚这类人的钱的陷阱，开一些针对这类人群的场所精准获客盈利……远程工作就远程工作呗。然后像dean这种，他已经不太算数字游民了吧，他都在当地创业了，他现在就是work from home的状态。
+
+视频里这种数字游民的生活，实际上对大多数人来说真的很累，国内类似数字游民的生活方式好像还是偏躺平居多，都是找低房租的地方
+
+为什么讨论视频本身的内容的人却变少了呢，这期节目真的很好，这是很多去bali的vlog不会拍摄的，作为一个去巴厘岛旅游过并亲眼见证这一切的人，视频的后半段就是我在bali的真实想法。bali的路边有很多bistro，一进去就是一个完全西化的世界，里面全是白男白女在吃饭蹦迪。我在沿海度假村更无比惬意，只要一出门，面对的就是拥挤的交通和糟糕的基建，20km的路程能堵2h，毫不夸张。
+事实上光鲜亮丽的一部分都是本地居民消费不起的，当地人民的土地和信仰都在一点点被挤占，西化的东西和他们本地的东西被挤在一块土地上，从而造成不小的割裂感。打个比方bali的一个很有名的酒吧叫savaya，晚上去完全就是经过一片漆黑的乡间小路，来到酒池肉林; 他们的祭祀场所，可能走几步路就能看到bar，里面是喧闹的音乐，想象一下在天坛边上灯红酒绿的画面，是不是很割裂？
+
+看了两期怀古的视频，真的很有“已识乾坤大，仍怜草木青。”的感觉
+
+从羡慕到心酸[生病]如果视频停在前半段，以我现在的思维，我真的反推不出后半段的情况如此艰难，谢谢怀谷拓展我的思维，带我看更多不同的地方
+
+记得大学时第一次见学弟刘怀谷，是他给学生大使拍人像，当时他也给我拍了几张，光影特别舒服。他说小时候爱摄影，大学却选了更实际的市场营销专业。
+没想到将近十年过去，怀古依然在打磨自己热爱的摄影技能，还站在了影视飓风的镜头前，每一帧都藏着对这份事业的热爱。
+真的为怀谷学弟感到开心！坚持做喜欢的事，果然能让时光开出花来。影视飓风能有怀谷加入，太幸运了！请继续在热爱里闪闪发光吧！[打call][打call][打call]
+
+---
+
+"带着一百万...我们去了论文代写聚集地"
+
+看完视频，这一幕的图片还是给了我非常深的印象，阳光下的海报破损，阴影下的海报完好，就像是在隐喻殖民已经结束，但殖民所形成的体系依旧存在
+
+这一期的质量简直高的离谱，性价比也是，从浅到深，先讲述写手本身这个行业，然后延伸到肯尼亚这个国家，通过几个人的典型案例来刻画整个国家的规模，同时带着肯尼亚国家的历史和政治，寻求写手问题的根源，然后以座谈访谈的方式来表达一些比较深邃的观点，简单点为了母亲，复杂点为了讲述非洲历史，每个写手都有他们自己的愿望，最终总结深化，整场拍摄富含了影视飓风本身的风格，我又能看出一些别的UP主纪录片的感觉，真的是太棒了，我自身越看越上瘾感受整个观看下来很舒适时间过得很快，这个系列一定要坚持下去，像是在以视频的形式探索人文科学，“人文科学也是一门不可或缺的学科！”。
+
+这期视频毫无疑问是今年最屌的视频了，全片没有任何拖泥带水，从现象到原因解释到反思，一气呵成，甚至完美植入自家广告，质量相当于一部简短的纪录片了，在这条赛道上，影视飓风真是无人能及了。
+
+懷古做的超讚的，不過別甚麼都鼓吹別人單幹，背靠資源做甚麼不好?單幹的壓力和資金你們幫忙分擔嗎?_?
+
+这种一般都是开玩笑的评论，说团队中一人能单干其实就是变相称赞这个人的才华，并不是说真的在鼓励或者撺掇人家单干
+
+评论区特色[笑哭]把团队+平台+个人的努力全部放在了一个人的头上
+
+有人出钱，有人赞助，有人拍爽了，有人看嗨了，有人被看见被记录，多赢，赢麻了。
+
+这期看完就越确定世界是个大草台班子，不管是近期的爱泼斯坦案件公开也好，还是我自己这三年的工作经历也罢，今年我的关键词就是去魅
+
+虽然但是，确实有点草台班子了，毕竟祛魅的祛是这样写的[doge_金箍]
+
+(the cn brain washing style, a) 作为高三生看到这个真的感到无比震撼，当周围所有人都在讨论学习有多累，哪家奶茶好喝时，在被世界媒体眼光忽略（指的是大国一点小事便会被各路媒体大肆报道，而小国呢，即使他们的人民在被炮火轰炸，也无人关注）的肯尼亚，有这样一群受过高等教育的有志青年找不到与之相匹的工作，但即使生活在这样贫富差距巨大腐败横行的社会环境中，他们也在努力用知识让自己生存下去，给予家人更好的生活。
+此后提到非洲，我的脑海里不再只有原始的部落，脏乱的环境，还有这么一群没有对应学位的professor。
+更让我感叹生于泱泱华夏的幸运，我们真正做到人民当家，严打腐败，认识到我们走的是如此伟大的社会主义道路（如今我才懂得这句话的含金量，而非一句空洞的口号），有努力就有回报，生逢其时，幸逢其世！
+
+(the cn brain washing style, b) 作为一个即将参与浙江一月首考的高三物化史考生（是的！是跨大类，全校唯一一个！）这期视频更让我坚定了选择历史的信念。这个世界上有太多东西需要通过一门专业的学科被记住，被阐释。历史这门课从来不是只用于考试，历史不应该因“选的人少”“考不高分”而被学校当作不开设“理科+历史”的理由。立足当下，回望过去，展望未来，以史为鉴，明辨古今，这才是历史的意义。
+“在很多故事里，狮子从不说话，
+历史被写下，奖章被颁发。
+狮子的劳动只是背景，
+直到狮子拥有自己的历史学家。
+关于狩猎的故事，永远只会歌颂猎人，
+当狮子不再沉默不语，
+猎人的历史将被改写。
+所以在这个故事里，我是狮子。”
+
+那個獨立寫手完全是個讀書人......非常有商業頭腦跟著世界的作息選職業讓自己一直有工作
+但我一直忍不住想他參考的論文裡會不會有同行寫出來的🤔
+
+被封面耽误的视频😓
+
+我就是看到这封面没点进来🫠看到别人的推荐文才又回来，这个频道的视频内容质量很高封面却都看起来很cheap博眼球…
+
+真的，yt给我推荐了几次我都没点。最后本来只是点开来听个响，几分钟后发现欸好像不是什么随便的影片。（这个影片的开头也加深了了封面给的刻板印象）
+
+乙乙做的封面感覺很膚淺 而且之前節目里看得出她是很有心計的人
+
+好意外竟然是黑人代寫，這也代表他們本來就具有高知力，只是被生活環境困住了吧
+
+明明是那麼有深度的內容，但真心希望影視颶風不要盲目模仿Mr. Beast的封面跟標題... 兩者節目定位就不同
+
+同时，当视频后半段突然告诉你你看到的大学历史教授并非真的教授。就明白这些视频内容想要欺骗你有多么简单，而我们只能祈祷这些内容创作者接引的观念确实是良心发现。
+
+马赛克太薄了，认识他的人一看就能认出来，声音也没做处理。。。这样对爆料的人是不是不太尊重啊
+
+我也觉得，希望这个处理是当事人看过能接受的吧
+
+這集很有深度很讚
+封面跟標題很瞎就是了
+東施效顰
+
+從一個大家都會好奇的"小產業" 慢慢放大 大到沒人在乎的殖民地困境
+畫面也是十分令人嚮往 動容 卻感傷
+真的十分精妙
+但馬賽克問題真的要解決 我們觀眾不會介意你塗一層超厚的馬賽克與機械變聲器 但受訪者可能受到人身安全的威脅
+
+这一期做的像是national geographic会出品的。怀古是我影视飓风第二喜欢的人，越来越像是个一线记者了。
+
+tim有眼光。怀谷做出了完全不同以往的内容。非常棒，加油。希望看到更多这样的不同类型的制作。谢谢影视飓风，往更有深度的地方探索。有一天，或许我们都能看到狮子写的历史。
+
+太牛了！！从小人物讲到国家大叙事，这种导演能力太棒了
+
+视频中一种对学术造假产生后果的现实引述也很有意义。当这些德才不配的人进入医院、法院和政府，随之带给社会的影响是糟糕之至的诊断、判决和政策。当我们因为某些事件感到愤怒的时候，不妨也从这个角度想一想。
+
+真的是非常有趣的课题，这些人真的可以合开一个Youtube账号分享他们怎么高效写论文，比如视频里的一个小例子是如果正确使用AI。放心吧，他们需要代写的客群不会刷到这种视频😂就算刷到也无妨，还是会代写的。
+
+再次证明了，读书完全不关种族或院校。只要想要，什么都可以得到。例如在视频中的写手，他们都写了好几个人的所有功课和论文。其实他们已经可以说是多学位的人士了。只是他们少了一个“承认”
+
+---
+
+`ref` `letter`
+
+precious, [12/28/25 8:13 PM]
+gpt sub creates a dream for me. but most time i asked wrong. not gpts fault. so should i. its good to have. but im ok with that.
+
+precious, [12/28/25 8:21 PM]
+talk to the parents. if you pay less, i wont benefit. reject. we could... defence. are you a member. stand on my side. think from my perspective. reduce responsibility. you dont have clarity. failed. you wont understand me. be quiet ive said to you. ive gave you opportunity. wtf. you dont believe when i say anything, i have great confidence. try again when u are calm. try to use more direct words. phone, computer. im really hard to communicate  good parents. best of the world. short vids, mini app games, low class society. i will write a letter 2 u. ok. but talk is easier. no. you wont listen, i know. i could live, its unlike phone or laptop. but i know you have the money, quick pass, meal. tiktok, kwai, exploitation of the youth. the alipay bank card gift.
+
+precious, [12/28/25 8:38 PM]
+you love education. good. eng. calligraphy. way of thinking.
+
+precious, [12/28/25 8:39 PM]
+life is not a game of lower bound. i dont care. yolo. things are unstable. exist now, cease tomorrow. suicide. jump.
+
+precious, [12/28/25 8:41 PM]
+i wont use the regular style. pretend to be good. primary school.
+
+precious, [12/28/25 8:46 PM]
+i could only focus a thing at a time. no both journal and carte. movie today. letter tommorow or at night.
+
+again. it's a letter to myself. just cc to "the family" (hsr).
+
+background: the last days of a month. mobile network data not enough. 
+
+i could save money for you. but, i wont benefit from that. i said.
+
+"are you a fam member". defence. resorting to the speaker's identity. 
+
+"we could ...". refutation. dinings, house decorations, outings. distant and abstract things. i would like to stay at home. i have things to do. i like that, a solitary otaku fascinated in her own world. being pushed by the family. distractions. frustrations. hustles and bustles. humans dont know how i feel. and they wont. in weekends, especially, on my spare time. sometimes i refuse. like going to the happy valley, like going to the hometown, or the hometown of the family actually, but eventually i often go. and i regret for not being true to myself.
+
+stand on my side. think from my perspective. 
+
+"you dont have clarity." reducing responsibility. humans love that. ofc i know. just, i would like to be gentle, graceful, letting the humans who really care me know. it could be inferred. a way of self protection.
+
+ok then, let's talk more directly. since i have nothing to lose. i realized.
+
+wifi. unstable thing. due to both the distance and the thing itself. could not open pages. open mobile hotspot then. actually just opening the hotspot is frustrating. there are people living in a good network condition. even not the really wealthy people. and i, personally, have to deal with that. and nothing is more precious than my time. the cost? i dont care. the world, at its best, wont force me to care about these things. and i always assume the god will help me. direct enough?
+
+be quiet, ive said that many times. but sometimes, especially recently i dont say it. because i think, there are things that could not be changed. the conservative people. i think you know... or maybe you wont know. at least most time im not willing to listen to you.
+
+"ive gave you the opportunity." wtf. yeah. confusing words. because im disappointed. no hope. i dont think you could understand, so no need to be clear now.
+
+i seldom talk to people. if i try to say something, i have great confidence, and i have the expectation that things wont change. just, ive tried. that gives a peace of mind.
+
+so much for this.
+
+recalling things. phone, computer. neither i got for free. argument, fights, conflicts. it's reasonable giving digital things may need careful consideration. but i must have them. i know i must, and you dont know. actually i could pay almost anything for that, especially a few years before, being desperated. youth, or students, not employed, could not get decent money, sometimes. that's an exploitation, renting time for a little money. humans may consider it an investment. but parenting is not.
+
+about communication. yeah. if im lucky enough, i may have the ability to communicate, at least it sometimes helps. but im not. im not here to reason for it, whether it's my fault or the education. but im here to say, if i definitely want something, it's even more unethical to pretend to be kind at first. and if i avoid a fight. i may say something again and again. thinking about that all the time, without any attention/efforts to learn, to create, to live, etc. good for you, bad for me. im not coming to the world to suffer. that's it.
+
+there are lifestyles, where everyone could be sane. seeing humans drown in short vids, playing low quality games on mini apps, born in a countryside background with the idea of poverty (the way of thinking) inherited, i know im not lucky enough.
+
+i will write a letter to u. 
+
+"ok. but talk is easier." 
+
+no. you wont listen, i know. only i know. (actually it could be inferred, but i know you wont over think.)
+
+you love education. good. english. calligraphy. way of thinking. (not the stupid literary chinese, e.g. recitation) i think before doing anything, the sis should at least write things in order, i mean, organized, clear. beauty in the characters, could add to life. anyway, im not an activist.$$ so probably it wont help. or maybe it's a bit personal, not suitable for everyone.
+
+you love good schools. the climbing path when the time is met with the scarcity of well educated graduates. things changed now. at least im not willing to chase something. no need. humans wont win a life game through competition. at least i dont believe that.
+
+and life is not a game of lower bound. yolo. things are unstable. what exists now may cease tomorrow. the suicide rate is rising. the job market is full of low paid educated workers.
+
+gpt subscription creates a dream for me. most time i asked the wrong question.it's not gpt's fault. but if i have the money, its good to have one. but im ok with no subscription.
+
+some may say, i will give them spare money, because i dont want them to have the mindset of scarcity, being forced to rent time for low value. i dont think im lucky.
+
+ive created workarounds for not paying money. piracy services. modded apps. it does benefits somehow (ive creating something money could not buy.). but the reason is stupid. not out of curiosity/freedom, but out of scarcity.
+
+especially for gpt, i reg a lot of accounts using cheap phone numbers online (7 cny could create a lot of accounts, instead of 20 dollar a month). i created userscripts (a kind of automation) to remove promotional ads. such an exploitation, at least it seems. actually, no experience devs save money on tooling, so low leverage. 
+
+im not here to ask for money for llms. i could live with the free plan (some conventions are actually wrong. like choosing big tech stacks when the product could not scale that much.), unlike the phone or laptop thing. but i know you have the money. and actually, i have the money, on meals, on entertainment tickets, (or the network fee) although i could not choose where to spend. think like that: if i could choose, i may choose cheaper meals for a few days to save 20 usd a month.
+
+buying a quick pass without any thoughts, which may appear as one of the luxurious things in sinyalee's words.
+
+the final words. i remember the days when i walk through ads and fake sites wasting time finding something that works. when i create scripts for tiktok, and kwai, for just about 100 cny, or 200. when i participate in online frauds for a few hundreds. when i would like to have the 10 cny bank card binding gift on alipay but got refused (too low leverage). "thirsty fish, i could create abstrations and a robust workflow that scales infinitely to let you in a river or a sea!"
+
+sometimes if one refuses to pay intentionally, she will pay unconsciously. im not talking about money.
+
+things have resulted. 
+
+---
