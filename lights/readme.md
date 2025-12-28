@@ -169,6 +169,7 @@
 - `vedal` Advice
 - `google 27.mhtml` Google's 27th Birthday Sep 27, 2025
 - `lingdong.works` lingdong huang projects
+- `simon` Simon Willison’s Weblog about me
 
 ### unixporn
 
