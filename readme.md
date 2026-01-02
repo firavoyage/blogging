@@ -113,6 +113,7 @@
     - ark.studio
     - chen xiao origami
     - cmfbynothing
+    - cyannyan6 hoshinolina cyannyan.com lina.yt
     - dingyi ding.one dexlist.page news.dex.group dex-group.ghost.io dex.zhubai.love quaily.com/dingyi
     - fenxer design scenes fenx.work
     - ftium4 ftium4.com ux weekly
@@ -137,6 +138,7 @@
     - yuanchuan yuanchuan.dev
   - software engineering
     - adamwathan adamwathan.me tailwindcss.com
+    - bradwoods bradwoods.io garden.bradwoods.io
     - chriscoyier css-tricks.com codepen.io chriscoyier.net
     - codingstartup
     - disdjj blog.pdjjq.org
@@ -144,6 +146,7 @@
     - egoist egoist.dev chatwise.app anime-sedai.egoist.dev
     - elleflorio florio.dev
     - gaearon dan abramov overreacted.io
+    - gorvgoyl gourav.io gourav.io/clone-wars
     - hakadao hakadao.cc bewlybewly
     - haoel coolshell coolshell.cn
     - himself65 affine.pro
@@ -186,6 +189,7 @@
     - jiangyy jiang yanyan jyywiki.cn
     - jiangzijun zhihu
     - kkksc03 luogu k.luogu.org
+    - matrix67 matrix67.com localhost-8080.com
     - menci lcmenci men.ci loj.ac oi.wiki
     - nayuki nayuki.io
     - one math
@@ -218,6 +222,7 @@
     - antoninoscordino ntonino ant14181 ntonino.eu
     - chiyuki0325 chyk.ink
     - cosmicac 2o181o28.github.io
+    - daimajia daimajia.com
     - hitw93 weekly.tw93.fun
     - hsn8086 hsn8086k
     - leanrada kalabasa leanrada.com
@@ -276,6 +281,7 @@
     - mutsumi mygo
     - nahida
     - nina iseri
+    - saiba momoi
     - samekosaba
     - shizuku lulu
     - shylily
@@ -441,7 +447,7 @@
   - 1883 (2022)
   - langrensha (2017)
   - phigros (2019)
-  - generals.io (2016)
+  - generals.io (2016) 
   - .earth online
   - .terraria (2011)
   - .the legend of zelda: tears of the kingdom (2023)
@@ -901,7 +907,7 @@ fira is a font from mozilla.
   - zhihu `firavoyage`
   - v2ex `voy`
   - bangumi.tv `firavoyage`
-  - mastodon `firavoyage@mastodon.social` `fira@techhub.social`
+  - mastodon `firavoyage@mastodon.social` `fira@techhub.social` 
   - npm `firascript`
 - - telegram group `voyagefira`
   - telegram channel `logfira`
