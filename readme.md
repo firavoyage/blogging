@@ -105,7 +105,7 @@
   - anime · visualnovels · unixporn · mtf · virtualyoutubers
   - boardgames · linguistics · math · algorithms · vibe coding
   - dark style · night light · low brightness · tranquility
-  - mindfulness · meditation · cynicism · dissociation · inner speech · second person omniscient narration
+  - mindfulness · meditation · existentialism · cynicism · accelerationism · dissociation · inner speech · second person omniscient narration
 - personas
   - acetaffy812
   - adamwathan tailwindcss
@@ -129,7 +129,7 @@
   - cmfbynothing
   - codingstartup
   - cosmicac 2o181o28
-  - cyannyan6
+  - cyannyan6 hoshinolina
   - daimajia juejin
   - darkf1ames
   - dbinary matrixcascade
@@ -149,6 +149,7 @@
   - gaearon dan abramov
   - gaou
   - georgehastings unicode.studio
+  - google doodles
   - gorvgoyl clone-wars
   - grant sanderson 3blue1brown
   - growth.design
@@ -229,12 +230,14 @@
   - op7418 aigc weekly
   - ornicar
   - overidea
+  - pidanzhoujiala
   - potetomj
   - probiusofficial
   - ramsayleung
   - randy lutaonan.com
   - rosepineus chess gamedev
   - ruanyf ruanyf weekly
+  - ryokun6 ryo lu work.ryo.lu os.ryo.lu 
   - saiba momoi
   - sama sam altman openai
   - samekosaba
@@ -273,6 +276,7 @@
   - wanderer above the sea of fog
   - wang zhian chinese
   - wesbos
+  - whyyoutouzhele 611study.icu zyo.run
   - wu songlei paperclip
   - xiaoazaishangwang chinese
   - xiaoyaocz simplelive
@@ -281,6 +285,7 @@
   - xpzouying
   - xuegao cheese
   - xzqzmyzxh loli.my
+  - yearprogress
   - yeyouchuan
   - yifenggui apple
   - yifusuyi
@@ -902,7 +907,7 @@ fira is a font from mozilla.
   - zhihu `firavoyage`
   - v2ex `voy`
   - bangumi.tv `firavoyage`
-  - mastodon `fira@techhub.social` `firavoyage@mastodon.social`
+  - mastodon `firavoyage@mastodon.social` `fira@techhub.social` 
   - npm `firascript`
 - - telegram group `voyagefira`
   - telegram channel `logfira`

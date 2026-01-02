@@ -1,0 +1,6662 @@
+# art
+
+**Created:** 2025.06.14
+
+**Items:** 32
+
+---
+
+
+
+# 为什么《猫和老鼠》被称为经典，而《喜羊羊与灰太狼》会被很多人说弱智？ pangdudu
+
+**Author:** pangdudu  
+**Bio:** 无  
+**Avatar:** ![](https://picx.zhimg.com/v2-5a53c1cbeecce65c82dbbae73a3e5b5d_l.jpg?source=0df5f383)  
+**Author URL:** https://www.zhihu.com/people/827e5acc5e711c11a5a854ef1092f0c5  
+**Published:** 2025.12.22 01:44:13  
+**Updated:** 2025.12.24 23:02:09  
+**Question:** https://www.zhihu.com/question/335576615  
+**Question Created:** 2019.07.18 15:00:59  
+**Question Updated:** 2020.04.10 12:33:17  
+**Votes:** 1469  
+**Comments:** 143  
+**Type:** answer  
+
+![](https://picx.zhimg.com/v2-6831cd8c5f61b6b19f47902d56f9f5d3_r.jpg?source=2c26e567)
+
+孩子们小时候吃得太好了，天天看的是顶级艺术品，然后突然回头看喜羊羊与灰太狼，对比落差太大了。
+
+![](https://picx.zhimg.com/v2-78207070c0162d807975f07cd2df6b53_r.jpg?source=2c26e567)
+
+《猫和老鼠》之所以被奉为经典，是因为它几乎是“零台词”的顶级视觉喜剧艺术品：
+
+它用最纯粹的肢体语言、表情、音效和节奏来制造笑点，几乎没有一句废话。每一集的编排、画面构图、音效设计、音乐配乐都达到了动画史上的巅峰水准（汉斯·康拉德·布洛克的配乐至今被奉为教科书）。它里面的暴力是卡通化的、夸张的、诗意的，从来不让人觉得血腥或低俗，反而让人觉得“爽”。它几乎没有教育意义，也没有硬塞什么正能量，而是单纯地让你笑到肚子疼。
+
+而《喜羊羊与灰太狼》呢？
+
+它是为了填补国产动画市场空白而诞生的“快餐产品”，目标受众是低龄儿童（主要是3-8岁），所以剧情极度简单、重复，台词全是“口水话”。它大量使用“喊口号式”正能量教育（“团结就是力量”“不能放弃”），但表达方式又特别生硬、说教。人物设定和笑点几乎全是“大人觉得幼稚”的梗：灰太狼每次被揍、羊村每次喊“喜羊羊快来”，循环1000集。制作水平在当时确实有限，画面、音效、节奏都远不如《猫和老鼠》这种好莱坞黄金时代的工业水准。
+
+所以，当一个从小被《猫和老鼠》《米老鼠》《哆啦A梦》《宫崎骏》喂饱的人，再去看《喜羊羊》的时候，会产生巨大的“认知落差”：
+
+就像你从小吃米其林三星大餐，突然给你吃方便面，你当然会觉得“这是什么玩意儿”。
+
+当你知道1940年左右米高梅动画工作室的“战时”手绘车间，感受那群艺术家到底有多“疯”。
+
+![](https://picx.zhimg.com/v2-1b6b0cee8352556aaeafcf24a501314a_r.jpg?source=2c26e567)
+
+
+
+
+![](https://picx.zhimg.com/v2-95bee8cb94ce491a8d48eedc456e43a4_r.jpg?source=2c26e567)
+
+1. 工作室环境与人力配置
+
+![](https://pica.zhimg.com/v2-2a1666fa1707b9b789ace8da2cf3f758_r.jpg?source=2c26e567)
+
+米高梅动画部位于加州卡尔弗城（Culver City），是一栋三层楼的专用大楼，里面全是画架、赛璐珞片架、摄影机台。
+
+![](https://pica.zhimg.com/v2-6731051ab1c0df90d1b2cdd2af433796_r.jpg?source=2c26e567)
+
+1940年，《Puss Gets the Boot》是米高梅动画部接手的第一部“猫鼠”项目，当时整个部门只有约70-80人（包括原画师、背景师、上色师、摄影师、剪辑师等）。
+
+【甜蜜的家 Puss Gets the Boot（猫和老鼠）-哔哩哔哩】[https://b23.tv/pR2yoJo](https://link.zhihu.com/?target=https%3A//b23.tv/pR2yoJo)
+
+![](https://picx.zhimg.com/v2-c2d475f45b124e6e58b849b9d61858d1_r.jpg?source=2c26e567)
+
+![](https://picx.zhimg.com/v2-4b5c84855e626fe4d54ba094cc9c319f_r.jpg?source=2c26e567)
+
+
+
+
+![](https://pic1.zhimg.com/v2-bb4c9f70257d291a5ea5a44873c0dcbc_r.jpg?source=2c26e567)
+
+核心团队：
+
+导演：William Hanna（负责故事板和动作节奏）+ Joseph Barbera（负责角色设计和分镜）。
+
+![](https://pica.zhimg.com/v2-28a96be0bdc70b889b127bb208903474_r.jpg?source=2c26e567)
+
+首席原画师：Rudolf Ising（米高梅元老）、Ray Patterson等。
+
+![](https://picx.zhimg.com/v2-6fcf03fd6227aad8257b9b361d9e1666_r.jpg?source=2c26e567)
+
+背景：Robert Gentle（米高梅最顶尖的背景师之一）。
+
+音乐：Scott Bradley（每天在片场指挥小乐队）。
+
+上色：一群女性艺术家（当时叫“墨水与上色女孩”），她们用手工上色，每张赛璐珞片都要用透明颜料一笔一笔涂。
+
+![](https://picx.zhimg.com/v2-83941c5536bc89615613c567e38656a4_r.jpg?source=2c26e567)
+
+
+
+
+![](https://pica.zhimg.com/v2-048cf439e6a8ce6d216a148cf200009c_r.jpg?source=2c26e567)
+
+
+
+
+![](https://picx.zhimg.com/v2-b1b8958663334ff15f2109b8d67b67d5_r.jpg?source=2c26e567)
+
+
+
+
+![](https://picx.zhimg.com/v2-35a4704396678299919d1c4bf3407e13_r.jpg?source=2c26e567)
+
+
+
+
+![](https://picx.zhimg.com/v2-7c924f92d1f432aa5b5329d86ecc3d3f_r.jpg?source=2c26e567)
+
+
+
+
+![](https://pic1.zhimg.com/v2-8bb070e13d1168a3ab551d4d08a5d4c1_r.jpg?source=2c26e567)
+
+
+
+
+![](https://pic1.zhimg.com/v2-97ba25d518438ab3c115892b07ce30f1_r.jpg?source=2c26e567)
+
+2. 制作流程：
+
+第一步：故事板阶段（1-2个月）
+
+Hanna和Barbera先画了数百张粗糙的故事板草图（storyboard sketches），全黑白铅笔画。
+
+![](https://picx.zhimg.com/v2-49b8bd6a2506ef6b8eeb59da0dbe8229_r.jpg?source=2c26e567)
+
+
+
+
+![](https://picx.zhimg.com/v2-9a5aaf3f4912ffcdae27eae67e7fd7c2_r.jpg?source=2c26e567)
+
+
+
+
+![](https://picx.zhimg.com/v2-efa8f9ae8de4a506195fe0a16897974a_r.jpg?source=2c26e567)
+
+
+
+
+![](https://pic1.zhimg.com/v2-e47a2b0820a2b6522416503ccdc1c01b_r.jpg?source=2c26e567)
+
+
+
+
+![](https://picx.zhimg.com/v2-ea32a63a92342aae41b53a2b193cf6e5_r.jpg?source=2c26e567)
+
+
+
+
+![](https://picx.zhimg.com/v2-9d259f8e7eadc90d3f08ca4bce860df0_r.jpg?source=2c26e567)
+
+
+
+
+![](https://picx.zhimg.com/v2-d2c91afe38ac6b1e689da46506ffcbb6_r.jpg?source=2c26e567)
+
+
+
+
+![](https://pic1.zhimg.com/v2-21b884ee8f4f549d5af8fc51a54970bb_r.jpg?source=2c26e567)
+
+
+
+
+![](https://pica.zhimg.com/v2-5fda544eef206cb8b82cbfbbf132e640_r.jpg?source=2c26e567)
+
+他们把故事板贴满一面墙，反复讨论：猫要怎么被踢飞？老鼠怎么扔盘子？每一次“暴力”都要既夸张又不恶心。
+
+片中著名的“盘子砸猫头”段落，据说故事板画了20多版才定稿。
+
+
+
+
+第二步：角色设计与模型表
+
+汤姆（当时叫Jasper）最初设计得更像一只真实英国短毛猫，毛发蓬松，表情更“人性化”。
+
+杰瑞（当时叫Nibbles）比后期更像一只小田鼠，尾巴更长、耳朵更大。
+
+![](https://picx.zhimg.com/v2-212b49771562d5cc573d50dc834144e4_r.jpg?source=2c26e567)
+
+米高梅要求所有角色有“模型表”（model sheet）：正面、侧面、3/4角、各种表情（愤怒、惊讶、得意、痛苦），每张模型表上画20-30个表情。
+
+![](https://picx.zhimg.com/v2-3878d36f1aeff389906241e0cfcdd71a_r.jpg?source=2c26e567)
+
+
+
+
+![](https://pic1.zhimg.com/v2-47e92537388038ec5cf2b87ce64d44a7_r.jpg?source=2c26e567)
+
+
+
+
+![](https://picx.zhimg.com/v2-037acdfa4ceacad4f32b1c60a26a62b4_r.jpg?source=2c26e567)
+
+
+
+
+![](https://pic1.zhimg.com/v2-90511f1ff2f2fc5dc61421d7f06c9c87_r.jpg?source=2c26e567)
+
+![](https://pic1.zhimg.com/v2-33fabe433c164d9944306116c9ec554a_r.jpg?source=2c26e567)
+
+
+
+
+![](https://picx.zhimg.com/v2-e615e45b829795134573edd3d6eb0f5f_r.jpg?source=2c26e567)
+
+
+
+
+![](https://picx.zhimg.com/v2-882e1ff693ea985b2fd56ec92f26a9fc_r.jpg?source=2c26e567)
+
+
+
+
+![](https://pic1.zhimg.com/v2-e56c62ca2894332eedae7a889e06a515_r.jpg?source=2c26e567)
+
+
+
+
+![](https://picx.zhimg.com/v2-d2c91afe38ac6b1e689da46506ffcbb6_r.jpg?source=2c26e567)
+
+
+
+
+![](https://picx.zhimg.com/v2-0fb7b915a0c6dc65617217c64ab7f2ed_r.jpg?source=2c26e567)
+
+这些模型表被贴在每个动画师的桌子上，所有人必须严格按照模型画角色。
+
+
+
+
+第三步：分镜脚本与原画（最耗时、最难的部分）
+
+分镜脚本（exposure sheet）：每一秒的每一帧都要写清楚，动画师要画哪张图、摄影机怎么移动、背景用哪一层。
+
+![](https://pica.zhimg.com/v2-98c301b87a91be91180bc3e90912ad93_r.jpg?source=2c26e567)
+
+
+
+
+![](https://picx.zhimg.com/v2-9d59e34c30502969929600d94c28fae0_r.jpg?source=2c26e567)
+
+
+
+
+![](https://pic1.zhimg.com/v2-66a809dc8bfccc72a57ba8a890ae994c_r.jpg?source=2c26e567)
+
+
+
+
+![](https://pic1.zhimg.com/v2-ac9ef56b0a2717f0f8cc137167fbe469_r.jpg?source=2c26e567)
+
+
+
+
+![](https://picx.zhimg.com/v2-6273d68ced2a5833b4442da0f1387ed5_r.jpg?source=2c26e567)
+
+
+
+
+![](https://picx.zhimg.com/v2-95b68db011b3d5270f421d556f62dc43_r.jpg?source=2c26e567)
+
+
+
+
+![](https://pic1.zhimg.com/v2-023bf809f6f2eaacf8a1e127245c2ac3_r.jpg?source=2c26e567)
+
+
+
+
+![](https://picx.zhimg.com/v2-b887c18a458255fcb9ecee979f7ca00d_r.jpg?source=2c26e567)
+
+
+
+
+![](https://pic1.zhimg.com/v2-889f5936d4af8c13d7f15d52c52b25cf_r.jpg?source=2c26e567)
+
+
+
+
+![](https://pic1.zhimg.com/v2-46b04d47df3fd7b2e342d07f56de6762_r.jpg?source=2c26e567)
+
+
+
+
+![](https://pic1.zhimg.com/v2-7788f8b8e5b2f5448ca8c6af00301d19_r.jpg?source=2c26e567)
+
+
+
+
+![](https://picx.zhimg.com/v2-d944666146c6932263e769e55a07b755_r.jpg?source=2c26e567)
+
+关键动作（key animation）：
+
+汤姆被踢飞后“星星眼”旋转：需要画30-40张原画，每张猫头旋转的角度都不同，还要画出星星、圈圈的轨迹。
+
+杰瑞扔盘子：盘子从空中旋转、碎裂，每一片碎瓷都要单独画（用了“多重曝光”技术）。
+
+汤姆被花瓶砸中后“橡皮人”变形：这是典型的rubber-hose animation，每一帧都要拉长、扭曲猫的身体。
+
+每位原画师每天最多画5-10张关键帧（key frames），然后交给“中间画师”（in-betweeners）补全中间帧。
+
+![](https://picx.zhimg.com/v2-185718dc9fc823d66e8d4a5dcd12b1c5_r.jpg?source=2c26e567)
+
+
+
+
+![](https://picx.zhimg.com/v2-4430310e28821bc761e295eb33a82831_r.jpg?source=2c26e567)
+
+
+
+
+![](https://pic1.zhimg.com/v2-f391e81eae949a7ecf92b166f5ecb39f_r.jpg?source=2c26e567)
+
+
+
+
+![](https://picx.zhimg.com/v2-d338837d628af3a31dc3c36417bc657e_r.jpg?source=2c26e567)
+
+
+
+
+![](https://picx.zhimg.com/v2-8d6eb50aeddf32990b8dd8eba7034987_r.jpg?source=2c26e567)
+
+
+
+
+![](https://pic1.zhimg.com/v2-5705789193338aa50ee764967b4f7cac_r.jpg?source=2c26e567)
+
+
+
+
+![](https://pica.zhimg.com/v2-738b345d2f37bb3e0f5ed5cb1df03bb9_r.jpg?source=2c26e567)
+
+
+
+
+![](https://pic1.zhimg.com/v2-70e78dd2c6791796d588e3c973ac6774_r.jpg?source=2c26e567)
+
+
+
+
+![](https://picx.zhimg.com/v2-8a3d35b0c25ce17c77601b07379b92e5_r.jpg?source=2c26e567)
+
+
+
+
+![](https://picx.zhimg.com/v2-031c78759773ea860d69a104082b9876_r.jpg?source=2c26e567)
+
+
+
+
+![](https://pic1.zhimg.com/v2-f134257de0b15c1f728e025a2f345943_r.jpg?source=2c26e567)
+
+1940年一部8分钟短片需要约1,000-1,200张关键帧 + 10,000多张中间画，总共约12,000-15,000张原画。
+
+
+
+
+第四步：背景与赛璐珞上色
+
+背景师Robert Gentle画了整部片的全部背景：客厅、厨房、楼梯、窗帘、壁炉、地板格子……每一张背景都用水彩+墨水手绘，细节到地板上的木纹、墙上的裂缝。（每张背景都是艺术品）
+
+![](https://picx.zhimg.com/v2-9dfebfa4bcd0ff78975c951131942aca_r.jpg?source=2c26e567)
+
+
+
+
+![](https://pic1.zhimg.com/v2-e4954f2daa31952584580bcff537028b_r.jpg?source=2c26e567)
+
+
+
+
+![](https://picx.zhimg.com/v2-1da73b48432ea5ba3ee83a9dcdd79bac_r.jpg?source=2c26e567)
+
+
+
+
+![](https://pic1.zhimg.com/v2-11531413f5674b9e0ba75052b71094b4_r.jpg?source=2c26e567)
+
+
+
+
+![](https://pic1.zhimg.com/v2-a38f0b1ce3c5d789834b1ef7ee862ba0_r.jpg?source=2c26e567)
+
+
+
+
+![](https://pic1.zhimg.com/v2-01d951bd66f9e020240dafc8b23b7278_r.jpg?source=2c26e567)
+
+
+
+
+![](https://pica.zhimg.com/v2-603409af4850016d7c626cb464cea323_r.jpg?source=2c26e567)
+
+
+
+
+![](https://picx.zhimg.com/v2-d445fc66d04577b90ba7db984eb61f9b_r.jpg?source=2c26e567)
+
+
+
+
+![](https://picx.zhimg.com/v2-cf12f2b6028af60252ca0b659bfcb9f6_r.jpg?source=2c26e567)
+
+
+
+
+![](https://pic1.zhimg.com/v2-d465aea9bf6e8b2903e9be04437f7fd8_r.jpg?source=2c26e567)
+
+
+
+
+![](https://picx.zhimg.com/v2-976076adf07c1bf191a7c1c4049e45d0_r.jpg?source=2c26e567)
+
+
+
+
+![](https://picx.zhimg.com/v2-4f53eab06b9fc5c0a126fe958d35cdab_r.jpg?source=2c26e567)
+
+
+
+
+![](https://picx.zhimg.com/v2-e45f1b0a75527bf7cdc8903f6b9ff506_r.jpg?source=2c26e567)
+
+
+
+
+![](https://pic1.zhimg.com/v2-495402b27f95345b2ad10f4a39bcce48_r.jpg?source=2c26e567)
+
+
+
+
+![](https://picx.zhimg.com/v2-e9deeec5c5c47bddbb9fe4f4236624f9_r.jpg?source=2c26e567)
+
+
+
+
+![](https://picx.zhimg.com/v2-2b16ba519ce67033a283c9a0ec7a55d5_r.jpg?source=2c26e567)
+
+
+
+
+![](https://picx.zhimg.com/v2-52c79d84589e6e0154431003cdad30af_r.jpg?source=2c26e567)
+
+
+
+
+![](https://picx.zhimg.com/v2-a246836a00ec972914832512d88f1eef_r.jpg?source=2c26e567)
+
+
+
+
+![](https://pic1.zhimg.com/v2-9febb09cf0b2adae5a0714e5b408a78c_r.jpg?source=2c26e567)
+
+
+
+
+![](https://pic1.zhimg.com/v2-2625bf079d66928bbe34882b5e13c886_r.jpg?source=2c26e567)
+
+
+
+
+![](https://picx.zhimg.com/v2-bee0b2b22d541b53c58e41a890646286_r.jpg?source=2c26e567)
+
+
+
+
+![](https://pica.zhimg.com/v2-17442b60b9c6872316c1e84ae6069355_r.jpg?source=2c26e567)
+
+
+
+
+![](https://pica.zhimg.com/v2-de91e98b41dcb5d39c5d3d5d7a9efe3d_r.jpg?source=2c26e567)
+
+
+
+
+![](https://picx.zhimg.com/v2-286154f2f2ed444c80ab0c065e8ec55b_r.jpg?source=2c26e567)
+
+
+
+
+![](https://picx.zhimg.com/v2-856b3cb56f83ed554df91b083a32f688_r.jpg?source=2c26e567)
+
+
+
+
+![](https://pica.zhimg.com/v2-ed61f79f81999a613d4d708462603108_r.jpg?source=2c26e567)
+
+
+
+
+![](https://pic1.zhimg.com/v2-e1ae84eaf70433e83aee76cdabeb37c4_r.jpg?source=2c26e567)
+
+
+
+
+![](https://picx.zhimg.com/v2-a7d2d58ae322fb0cf229a0014912a53e_r.jpg?source=2c26e567)
+
+
+
+
+![](https://pica.zhimg.com/v2-0dc65c1c9855b38e35fae7688ce3703c_r.jpg?source=2c26e567)
+
+
+
+
+![](https://picx.zhimg.com/v2-88299815caeb3eaaf9b352e6e4237c60_r.jpg?source=2c26e567)
+
+
+
+
+![](https://pic1.zhimg.com/v2-2b8996abc531156d3ff3d4620c0387cc_r.jpg?source=2c26e567)
+
+
+
+
+![](https://picx.zhimg.com/v2-b3dc4fcd32e9987fd7c00f122ac6eeb4_r.jpg?source=2c26e567)
+
+
+
+
+![](https://picx.zhimg.com/v2-0a1d133db8c22296b1861cf51b3267dd_r.jpg?source=2c26e567)
+
+
+
+
+![](https://picx.zhimg.com/v2-accb59f98c7f00e0d2c2bb88c5d5f9b6_r.jpg?source=2c26e567)
+
+
+
+
+![](https://picx.zhimg.com/v2-47299f08f22986a10409cffe46dfd167_r.jpg?source=2c26e567)
+
+
+
+
+![](https://picx.zhimg.com/v2-1cb2981f0dbca9fb672e30b962c0bcef_r.jpg?source=2c26e567)
+
+
+
+
+![](https://pic1.zhimg.com/v2-f8b4a100a413ce50701074ecdc4d6212_r.jpg?source=2c26e567)
+
+
+
+
+![](https://picx.zhimg.com/v2-246c25632cccd046b609c7666e1a02e7_r.jpg?source=2c26e567)
+
+
+
+
+![](https://picx.zhimg.com/v2-3f7049673006261ae95193ed00338eb1_r.jpg?source=2c26e567)
+
+
+
+
+![](https://picx.zhimg.com/v2-2c016d9bbd755a1ec03aa0bbba856117_r.jpg?source=2c26e567)
+
+
+
+
+![](https://pic1.zhimg.com/v2-b0c1df235fd8d37ff45b408a568e20db_r.jpg?source=2c26e567)
+
+
+
+
+![](https://picx.zhimg.com/v2-7bd510e0fe3400afb46d2433173bd444_r.jpg?source=2c26e567)
+
+
+
+
+![](https://picx.zhimg.com/v2-4a8cc3adc8511ad7db226c64e1f47515_r.jpg?source=2c26e567)
+
+
+
+
+![](https://picx.zhimg.com/v2-bfd9c8039877577e7d993a295fa7b659_r.jpg?source=2c26e567)
+
+
+
+
+![](https://picx.zhimg.com/v2-53721d9bb5d645bbeb878bce0b19d25b_r.jpg?source=2c26e567)
+
+
+
+
+![](https://pica.zhimg.com/v2-5068449611da47bee9f12962c29c42e3_r.jpg?source=2c26e567)
+
+赛璐珞片（cel）上色：上色师用透明颜料一笔一笔涂在赛璐珞片背面（防止反光），颜色要均匀、饱和。
+
+片中厨房场景有十多层赛璐璐片叠加：前景、角色、背景、中景、远景，摄影机要逐层拍摄，任何一层脏了或歪了都要重做。
+
+![](https://picx.zhimg.com/v2-2fdc2dbca6bdf0518b6370d34722ef9b_r.jpg?source=2c26e567)
+
+第五步：摄影与合成
+
+使用“多平面摄影机”（multiplane camera），但米高梅版比迪士尼的更简易，只能做2-3层景深。
+
+摄影机是手工操作的，每拍一帧就要手动移动胶片，摄影师每天拍几百帧，连续拍几个月。
+
+音效录制：猫叫、盘子碎裂、爆炸声、脚步声全部用真实道具录制，再用胶片剪辑机精确对齐画面。
+
+![](https://picx.zhimg.com/v2-dd1a2d986795dcca7e72fc7c55ac3230_r.jpg?source=2c26e567)
+
+
+
+
+第六步：配乐录制
+
+Scott Bradley亲自指挥一支20-30人的小乐队，在米高梅的录音棚现场演奏。
+
+![](https://picx.zhimg.com/v2-86d0c5dc4ddb336590c5acc3a08fe11d_r.jpg?source=2c26e567)
+
+他们先把画面放一遍，Bradley边看边指挥然后乐队现场录制。
+
+![](https://picx.zhimg.com/v2-d12b1d01159b86081160ef41f90e038e_r.jpg?source=2c26e567)
+
+
+
+
+![](https://pic1.zhimg.com/v2-fbca2922d556f79793f15003d9a1bf99_r.jpg?source=2c26e567)
+
+
+
+
+![](https://picx.zhimg.com/v2-f51e9d8bd9c5dd9507c733a691eda0c0_r.jpg?source=2c26e567)
+
+
+
+
+![](https://pic1.zhimg.com/v2-3e45bf1e1db632d874b16474aba53bc2_r.jpg?source=2c26e567)
+
+
+
+
+![](https://picx.zhimg.com/v2-f03757fbbb1c61dd928b14026a9110c1_r.jpg?source=2c26e567)
+
+
+
+
+![](https://picx.zhimg.com/v2-17ee366e5fc063e98b5d91af0f29dfea_r.jpg?source=2c26e567)
+
+片中著名的“追逐音乐”就是Bradley即兴改编的爵士片段，节奏完全卡在画面上。
+
+一些歌单
+
+1.	Is You Is or Is You Ain’t My Baby - Louis Jordan（《Solid Serenade》，1946年：Tom为了追求美丽的小母猫Toodles，带着低音提琴在窗前深情弹唱这首歌，演唱过程中遭遇Jerry和Spike捣乱。）
+
+2.	Hungarian Rhapsody No. 2（匈牙利狂想曲第二号） - Franz Liszt（《The Cat Concerto》，1947年：Tom在正式音乐会上弹奏钢琴全程主曲，Jerry从琴内不断干扰，两人围绕琴键展开追逐大战，最终Jerry完成华彩段。）
+
+3.	The Barber of Seville Overture（塞维利亚理发师序曲） - Gioachino Rossini（《Kitty Foiled》，1948年：Tom和Jerry追逐一只金丝雀时，全程配以这部歌剧的活泼序曲和片段，动作与音乐完美同步。）
+
+4.	Die Fledermaus Overture（蝙蝠序曲） - Johann Strauss II（《Tom and Jerry in the Hollywood Bowl》，1950年：Tom作为指挥在好莱坞露天剧场指挥这部轻歌剧序曲，Jerry抢夺指挥棒，两人围绕乐团展开争夺和“合作”。）
+
+5.	Mamãe Eu Quero（妈妈我要） - Vicente Paiva & Jararaca（《Baby Puss》，1943年：小女孩给Tom穿婴儿装时，背景反复播放这首巴西流行歌，突出Tom的尴尬和羞辱场景。）
+
+6.	On the Atchison, Topeka and the Santa Fe - Harry Warren（《The Cat Concerto》，1947年：Jerry在钢琴内部捣乱时，短暂将Liszt主曲改为这首流行爵士歌曲的旋律，Tom迅速纠正，作为搞笑插曲。）
+
+7.	Sing (or Singin’) Before Breakfast（早餐前歌唱） - Nacio Herb Brown & Arthur Freed（《Saturday Evening Puss》，1950年：Tom邀请猫朋友们在家开派对狂欢时，背景播放这首欢快流行歌，突出喧闹氛围，直到Mammy干预。）
+
+8.	Manhattan Serenade（曼哈顿小夜曲） - Louis Alter（《Mouse in Manhattan》，1945年：Jerry独自冒险去纽约曼哈顿时，全程以这首浪漫爵士曲作为背景，描绘城市夜景和Jerry的兴奋与惊险。）
+
+9.	Over the Rainbow（彩虹之上） - Harold Arlen（来自《绿野仙踪》）（多集1940s后期浪漫或幻想场景：Scott Bradley借用MGM自家电影歌曲，作为Tom追求母猫或梦幻时刻的配乐插曲，常在追逐中出现。）
+
+10.	Grande Valse Brillante in E-flat major, Op. 18（华丽大圆舞曲） - Frédéric Chopin（《The Flying Cat》，1952年：Tom试图飞翔追捕Jerry和金丝雀时，背景使用这首肖邦圆舞曲，优雅对比Tom的笨拙失败。）
+
+11.	Alouette（云雀） - 法国传统民歌（《The Two Mouseketeers》，1952年：Jerry和Nibbles作为火枪手冒险时，反复播放这首法国儿歌，突出法国宫廷主题和搞笑断头台场景。）
+
+12.	Frère Jacques（雅克兄弟） - 法国传统儿歌（《Royal Cat Nap》，1958年：Tom作为卫兵守护国王睡觉时，这首摇篮曲式儿歌反复出现，两人追逐中干扰国王休息。）
+
+13.	Froggy Went a-Courtin’（青蛙求婚） - 美国传统民歌（《Pecos Pest》，1955年：Jerry的叔叔Pecos来访，全集以这首乡村民歌为主旋律，Pecos弹吉他唱歌，Tom不断被吉他弦打脸。）
+
+14.	Darktown Strutters’ Ball - Shelton Brooks（《Saturday Evening Puss》，1950年：Tom和猫朋友们派对狂欢高潮时，播放这首爵士经典曲，强调喧闹的舞蹈和音乐派对。）
+
+15.	Johann Strauss Waltzes（约翰·施特劳斯圆舞曲合集，如Kaiser-Walzer） - Johann Strauss II（《Johann Mouse》，1953年：Tom学习钢琴弹施特劳斯圆舞曲引诱Jerry跳舞，全集围绕维也纳宫廷圆舞曲展开追逐。）
+
+16.	Tritsch-Tratsch-Polka（闲聊波尔卡） - Johann Strauss II（《Tom and Jerry in the Hollywood Bowl》或其他追逐场景，1950年：快速活泼的波尔卡节奏常用于高潮追逐，突出动作同步。）
+
+17.	Valse Bleue（蓝色圆舞曲）或其他肖邦圆舞曲片段 - Alfred Margis / Chopin（多集优雅追逐，如《The Flying Cat》扩展或类似1950s集：浪漫圆舞曲常对比Tom的粗暴动作。）
+
+18.	Love That Pup Theme（民间爵士变奏） - Scott Bradley原创变奏（《Love That Pup》，1949年：Spike保护Tyke时，背景爵士主题反复出现，突出父子温情与Tom的干扰。）
+
+19.	The Yankee Doodle Mouse Theme（扬基歌变奏） - 传统美国爱国曲（《The Yankee Doodle Mouse》，1943年：二战主题集，全程以这首爱国曲变奏作为背景，Tom和Jerry的“战场”追逐。）
+
+20.	Carmen Excerpts（卡门歌剧选段） - Georges Bizet（虽后期重现，但1940s-1950s追逐常借用歌剧片段；类似《The Cat Concerto》风格：快速斗牛士主题用于高潮对抗。）
+
+
+
+
+制作时间与成本
+
+![](https://pica.zhimg.com/v2-428fcb784b2bc2664b0e080ce50b067f_r.jpg?source=2c26e567)
+
+
+
+
+![](https://picx.zhimg.com/v2-42e991f86ddf3a94e2e9a8369a59c561_r.jpg?source=2c26e567)
+
+
+
+
+![](https://picx.zhimg.com/v2-eecdb0f6cd568e9575c5399a65fe5f31_r.jpg?source=2c26e567)
+
+
+
+
+![](https://pic1.zhimg.com/v2-30c6d7406b29fbb657dcddb7b0d19c68_r.jpg?source=2c26e567)
+
+
+
+
+![](https://picx.zhimg.com/v2-01af0ebde23f31bc3a798a7358d72b6a_r.jpg?source=2c26e567)
+
+从故事板到完成片：一集猫和老鼠整整6-8个月（1940年一部奥斯卡级短片的标准时间）。
+
+成本：约4万美元（1940年美元，相当于2025年的70-80万美元）。
+
+人工成本最高：原画师月薪约200-300美元，背景师更高，女性上色师约100美元/月。
+
+
+
+
+4. 幕后轶事与“变态”细节
+
+Hanna和Barbera为了让“猫被踢飞”更真实，曾亲自用慢动作拍自己被踢的动作，研究身体如何扭曲。
+
+![](https://pic1.zhimg.com/v2-14de07917291fcebe40eb8e0d1b00ac7_r.jpg?source=2c26e567)
+
+
+
+
+![](https://pic1.zhimg.com/v2-48d36d5d98deb8742c4a0a9f857c9bad_r.jpg?source=2c26e567)
+
+
+
+
+![](https://picx.zhimg.com/v2-f6a58da66c37652dcb08178c020d2539_r.jpg?source=2c26e567)
+
+
+
+
+![](https://picx.zhimg.com/v2-ac42dc36a592fb5004edf2d740848f32_r.jpg?source=2c26e567)
+
+
+
+
+![](https://pica.zhimg.com/v2-e7f260887411eb8a40059ed67fb6b2fa_r.jpg?source=2c26e567)
+
+
+
+
+![](https://picx.zhimg.com/v2-4dd8f98b2a4ac5789ba5adba0e84c269_r.jpg?source=2c26e567)
+
+
+
+
+![](https://picx.zhimg.com/v2-6c7a90a9d22a38892a161e2a9a4b7572_r.jpg?source=2c26e567)
+
+
+
+
+![](https://pica.zhimg.com/v2-bdb3b03817263352f750b34c12f35c59_r.jpg?source=2c26e567)
+
+
+
+
+![](https://picx.zhimg.com/v2-a7b4b77fea67363bd81ab15498c33237_r.jpg?source=2c26e567)
+
+有一位动画师画汤姆的“星星眼”画到崩溃，画了上百次才通过。
+
+片中杰瑞从老鼠洞钻出时，尾巴毛一根一根竖起来——这是动画师一根一根手绘的毛发效果。
+
+1940年的每一集猫和老鼠都是用50-70位艺术家、6-8个月时间、12,000多张手绘原画、4万美元预算、无数次试错和重画，换来的8分钟完美喜剧。
+这份“近乎偏执”的匠心和对每一帧的极致追求，让它成为动画史上最值得被反复研究的“开山之作”。
+
+![](https://picx.zhimg.com/v2-ca62e24f5f15569763d407471b3a3f58_r.jpg?source=2c26e567)
+
+
+
+
+![](https://pic1.zhimg.com/v2-5fa09e1289684ce2626a56d1fd9711f9_r.jpg?source=2c26e567)
+
+
+
+
+![](https://pica.zhimg.com/v2-3a67863e45042b8a2e4c0060eea50aa4_r.jpg?source=2c26e567)
+
+
+
+
+![](https://picx.zhimg.com/v2-7a3afdbdcc63d36f0b8846db56c3aa42_r.jpg?source=2c26e567)
+
+
+
+
+![](https://picx.zhimg.com/v2-739439899aa2a013c21c8847005916bf_r.jpg?source=2c26e567)
+
+
+
+
+![](https://pic1.zhimg.com/v2-c42b5526f4b99f9bd52eefac1426237f_r.jpg?source=2c26e567)
+
+
+
+
+![](https://picx.zhimg.com/v2-a89679a2c11facde92edd44247f02e04_r.jpg?source=2c26e567)
+
+
+
+
+![](https://pica.zhimg.com/v2-adee9850f0a33b58402af1d914e98933_r.jpg?source=2c26e567)
+
+
+
+
+![](https://picx.zhimg.com/v2-bc0902acfd5fc4cd8f4ac2247ebc7c97_r.jpg?source=2c26e567)
+
+但实际上，《喜羊羊》对它的目标受众（3-6岁中国儿童）来说，是非常成功的：
+
+它让无数孩子第一次认识了“国产动画片”。
+
+它在2010年代初填补了国产动画的巨大空白。
+
+它培养了一大批孩子对动画的兴趣。
+
+所以，真正“弱智”的不是《喜羊羊》本身，而是我们这些“被顶级艺术品喂饱”的大人，用成年人的审美标准去评判一部给幼儿看的快餐动画。
+
+
+---
+
+# 游戏创意不值钱吗？ 知乎用户5oXwIJ
+
+**Author:** 知乎用户5oXwIJ  
+**Bio:**   
+**Avatar:** ![](https://pic1.zhimg.com/v2-abed1a8c04700ba7d72b45195223e0ff_l.jpg?source=0df5f383)  
+**Author URL:** https://www.zhihu.com/people/1c9333597ed5a73a9482fff75d9229cb  
+**Published:** 2018.11.20 13:52:07  
+**Updated:** 2018.12.11 03:03:49  
+**Question:** https://www.zhihu.com/question/302883309  
+**Question Created:** 2018.11.19 03:32:10  
+**Question Updated:** 2019.05.17 21:37:15  
+**Votes:** 156  
+**Comments:** 6  
+**Type:** answer  
+
+好创意很重要，但不“值钱”。这个世界上有创意的人太多了，创意的迸发放到全世界这个尺度，是不具备稀缺性的。相比创意本身而言，更具备稀缺性的是**判断创意的能力**和**实现创意的能力，**这两项才是使创意的价值最大化的核心能力**。**
+
+
+
+
+判断创意的能力，就是从很多人迸发出的创意中，筛选真正有潜力、没有硬伤、值得投入的那些创意，摒弃那些有不可解决短板的、长短期回报均不足够的、不切实际的创意。很遗憾，这种能力是需要在业界摸爬滚打很多年才有机会去积累的。对于大多数刚入行或者没入行的年轻人来说，判断创意是无从谈起的，也没有资源让你去尝试。而游戏行业顶层中掌握着资源的人，很大程度上就是靠判断创意的能力，投资有潜力的项目来换取更高的收益，不需要自己亲自去提供创意。
+
+
+
+
+而实现创意的能力，是能让创意落地、或者至少形成能展现创意特点的原型的能力。这种能力的目的，是让掌握资源的人能用更短的时间看到创意的特点和潜力，让其在竞争者中脱颖而出，从而争取更多全方位的资源支持，来把创意变为真正的产品。这种能力相对来说是门槛比较低、相对好培养的。
+
+
+
+
+能实现创意但无法判断创意的人，很可能会花很多时间做一个不那么有潜力的东西；能判断创意但无法实现创意的人，很可能没有几个人能知道你能判断创意；两者都不具备的人，还是先从基础做起慢慢来，不要抱着策划案到处投了。
+
+
+
+
+上述不仅是游戏，任何行业的“创意”都适用。
+
+
+---
+
+# 游戏产品 UI 与商务产品 UI 的差别是什么？是否游戏 UI 是为他人做嫁衣，而商务 UI 却能够承载其内容？ 誼妮
+
+**Author:** 誼妮  
+**Bio:** 不必在乎我是誰  
+**Avatar:** ![](https://pic1.zhimg.com/v2-b6443ba38d07b510dbab638442b7910b_l.jpg?source=0df5f383)  
+**Author URL:** https://www.zhihu.com/people/2ef60ae423b032febd0c78102040e9f5  
+**Published:** 2014.06.30 15:23:02  
+**Updated:** 2014.07.01 10:44:24  
+**Question:** https://www.zhihu.com/question/19606004  
+**Question Created:** 2011.04.20 16:22:03  
+**Question Updated:** 2011.04.20 16:50:37  
+**Votes:** 4  
+**Comments:** 0  
+**Type:** answer  
+
+我大概明白你说的作嫁妆的意思，不过我的想法是：每个产品的細節都在为其品牌作嫁妆，这不单只有UI的部分。
+
+我觉得以UI的使用上来说，不管是商务还是游戏，好的UI都的最终意义就是能**良好地引导使用者**。
+
+
+
+
+而我觉得**游戏ＵＩ的难度是多在装饰性多、****功能多、****却又不能掩盖使用的方便**，因为游戏往往需要比较多的**视觉刺激**( 简单来说就是感官轰炸，但又不然把人炸瞎，哈哈 ) 所以美术功能是比一般商务型多的。
+
+
+
+
+我这里大概举一下概念
+
+这我自己练习的版型，虽然是网页，但是弄材质跟雕花的部分花了我很多心思，一般商务型或是摩登型，就相对简单了。
+
+![](https://pic1.zhimg.com/01cc845ef7cf6c67010988cdef13e428_r.jpg?source=2c26e567)
+
+
+
+
+某些游戏类型，古典、RPG、战略..感觉就很像以往强调雕梁藻井的建筑。
+
+
+
+
+这里我有谈到我个人制作游戏UI碰到的问题
+
+[UI 设计的整个工作流程是怎样的？](http://www.zhihu.com/question/23195742/answer/27419378)
+
+
+
+
+
+**但是美术不会起到游戏好坏的决定性**，( 电影、动画就不同，毕竟电影的功能所要的CG、美术效果要求是更高的 )　再强的美术或请再多的妹子代言遇到烂脚本、烂经营的游戏也没多大效用；简单来说就是花瓶游戏。
+
+
+
+
+游戏足以吸引玩家甚至到经典呈度往往是故事或内容本身，这主要就是企画的部分和营运的态度。除非美术烂到玩家一看就觉得是混水摸鱼这种程度。那美术才占了重要的部分。
+
+
+
+
+可参考这篇
+
+[游戏美术从业者过了30岁后都是如何发展的？](http://www.zhihu.com/question/20805304/answer/22885309)
+
+
+
+
+
+我觉得这可以拿英雄联盟来做比较，LOL最早版本的角色跟ＵＩ其实水平还不太精致，也是后期一直改版后慢慢优化出来的，但是他的游戏性质、以及RIOT的用心经营 ( 斗塔战略、公平性与平衡性、世界性电竞赛事、着重在玩家的竞技、而非一昧强调商城抽宝买神装的虚荣... )，让该款游戏成为众多游戏中的范儿。
+
+
+---
+
+# UI 设计的整个工作流程是怎样的？ Ryan老刘
+
+**Author:** Ryan老刘  
+**Bio:** 教育创业者  
+**Avatar:** ![](https://picx.zhimg.com/v2-d4bb07506547eeeadce209641e65a7c0_l.jpg?source=0df5f383)  
+**Author URL:** https://www.zhihu.com/people/3e4a25c98352db2ca89c08bb76434ea8  
+**Published:** 2014.03.29 18:35:57  
+**Updated:** 2015.11.11 22:50:39  
+**Question:** https://www.zhihu.com/question/23195742  
+**Question Created:** 2014.03.28 16:36:15  
+**Question Updated:** 2014.03.30 12:30:57  
+**Votes:** 619  
+**Comments:** 34  
+**Type:** answer  
+
+以下回复把“UI设计”当做一个整体的团队流程来看。而并非是“UI设计师”的工作流程是怎样的。特此说明。
+
+我倾向于说“交互设计的整个流程”。在我这里，UI是指“界面”，在视觉设计开始之前，界面的的交互策划与设计是很重要的前置步骤，对最终的用户体验有很大的影响。
+
+我团队在交互设计阶段一般有产品经理、交互设计师和UI设计师主要参与。以我的了解，很多公司不设专门的交互设计师，而由产品经理完成相关工作。以下是我这里的工作流程（图片来自于网络，本团队的就不贴了）。**这个流程希望整个产品团队都能参与其中并共同加强对产品的理解。或者借一个时髦的概念，我是希望团队能具有更多Design Thinking，“设计思维”，来加强和推动解决问题的能力，并激发更多创新。**
+
+**最开始一定要把Scenario应用场景和Persona用户角色做出来。**你的产品是在何种场景下被使用，你的用户角色是怎样特征的人。设计的对不对，要用用户角色来判断，而不是设计师或产品经理自己。把场景和角色描述清楚，并且让整个团队理解透彻，这能保证团队少犯错误。
+
+*用户角色 Persona，实际工作中写文字描述就好，不用做的如下图一般高大上。如果你要给客户或Boss提案，可以做一个提升逼格。
+
+![](https://pica.zhimg.com/f1bde18d7711021c91a74f043bf72b86_r.jpg?source=2c26e567)
+
+
+
+
+**1. Storyboard 故事版：**
+
+主要负责人：产品经理或交互设计师
+
+最早大家开始讨论用户体验流程，在白板上边画流程边添加粗略的UI元素。会后交互设计师会在在纸上做手绘版线框图。这阶段产品经理、交互设计师、UI设计师、包括技术工程师会一同作大量的讨论，而且主要讨论的是流程和主要功能，因此手画故事版最快最方便并易于修改的。
+
+此环节要敲定userflow，用户流程及其中的关键步骤，每一步骤都是一个主要界面。
+
+*白板上一般都是这样，交互设计同学会在纸上重绘。
+
+![](https://picx.zhimg.com/50/5b5007aa23668ae60f26e87b5e807453_720w.jpg?source=2c26e567)
+
+*移动产品设计这样做也行，不买专用的模板本和工具尺，自己打印也行。
+
+![](https://picx.zhimg.com/50/e0816d618c789316adbd90e091f7cebe_720w.jpg?source=2c26e567)
+
+**2. Key wireframe 关键界面线框图**
+
+主要负责人：交互设计师
+
+在确定的用户流程中，选出几个关键的，有代表性的步骤，做细化的wireframe线框图。线框图里要确保每一个UI元素的设计，包括其大小和位置。我们做的线框图是1:1的，也就是线框图与实际界面尺寸一致。1:1的线框图能在前期避免考虑不周和执行困难等很多问题的出现。
+
+此环节要确定关键界面里的UI元素和布局，以及全局的布局排版风格。
+
+*线框图做成1:1最好。输出到文档里要添加说明。在后面的工作里，这份文档可以让UI设计同学和工程师同学共用。
+
+![](https://picx.zhimg.com/ed48f0c692a530b4bb5903f50c7ef2f5_r.jpg?source=2c26e567)
+
+**3. Key visual design 关键界面视觉设计**
+
+主要负责人：UI设计师
+
+此环节交互设计师会按确定的用户流程及确定的布局风格来继续做其它界面的线框图。UI设计师则同时开始做关键界面的视觉设计，进行配色、样式不同风格的尝试。
+
+此环节要确定产品界面的视觉设计风格。
+
+**4. All wireframe 全部界面线框图**
+
+主要负责人：交互设计师
+
+此环节交互设计师要完成全部界面的线框图（1:1的）设计并且团队确认。
+
+*做完全部的线框图，一般会出一个总结构图。如果有足够大的场地，也可以逐页打印出来贴到一面墙上。方便团队随时参考。
+
+![](https://picx.zhimg.com/9f67c96abfd05c88769252258aea0b6f_r.jpg?source=2c26e567)
+
+**5. Prototype 可动原型**
+
+主要负责人：交互设计师
+
+此环节依产品需求而定。如果静态的线框图还不能完整的体现出产品特点，那就需要做成可操作甚至有关键界面动画示意的可动原型。通常是HTML的可动原型，特殊项目也曾经做过Flash的。我还有一个奇葩朋友用PPT做过（PPT的开发工具+VB Script）几乎接近成品界面的可动原型。
+
+此环节的确认同上一步，团队的理解会更精准。
+
+*忍不住帖一个PPT的开发工具面板，提供VS风格的控件，并且直接用VB script写控件逻辑！还可以带dummy数据！客户都以为你开发完毕了有木有。
+
+![](https://picx.zhimg.com/2c1005ec8685f2765d802a7ff759b1cc_r.jpg?source=2c26e567)
+
+**6. UI design 全部界面视觉设计**
+
+主要负责人：UI设计师
+
+完成全部界面的UI视觉设计。
+
+此环节确认全部UI设计。同时把确认的UI更新到文档里。
+
+**以上步骤里省略了了给boss汇报或者给客户汇报的描述。有条件的话，最好是每一步都要让有关的决策人员参与确认。**
+
+**如果要做用户调研的产品，那一定要做出可动原型再让用户使用测试，不然很难得到有价值的反馈。有条件的公司直接出带设计的可动原型再测试当然最好。**
+
+
+---
+
+# 零基础如何学习数位板绘画？ 匿名用户
+
+**Author:** 匿名用户  
+**Bio:**   
+**Avatar:** ![](https://pic1.zhimg.com/v2-d41c2ceaed8f51999522f903672a521f_l.jpg?source=0df5f383)  
+**Author URL:** https://www.zhihu.com/people/0  
+**Published:** 2013.11.29 17:46:09  
+**Updated:** 2017.03.16 22:30:19  
+**Question:** https://www.zhihu.com/question/21312624  
+**Question Created:** 2013.07.09 18:53:35  
+**Question Updated:** 2015.07.14 10:10:09  
+**Votes:** 11917  
+**Comments:** 256  
+**Type:** answer  
+
+----------------------------------------
+
+----------------------------------------
+
+最近这两天刚好有和朋友多次聊起 自学绘画 这一话题
+
+想了下 从决定开始自学画画的那天算起到今天正好过了将近一年~
+
+作为自学者这里就不打算提供太多说教和感悟了，主要是分享一下这段时间所梳理的关于自学绘画的相关的价值线索，希望能够对有自学需要的同学朋友们起到一定的助力：
+
+![](https://pic1.zhimg.com/24f1decf0bc8ba1ab13763500c518fbe_r.jpg?source=2c26e567)
+
+
+
+
+============================================================
+
+首先推荐两个十分值得留意的价值信息节点：
+
+1.**豆瓣上的  東山研 GK**:(艺术总监，插画家,主要介绍绘画与设计的基础知识，业界常识和个人经验等。) 知乎账号：[東山研 GK](https://www.zhihu.com/people/genkenyan)
+
+似乎文章传播的不够广，所以看过的人可能不多，这里推荐留意他去年年初发布的这两篇文章，基本涵盖的面和问题已经很全很系统了，能为自学提供很好的练习思路和理论框架以及相关资源。
+
+ARTLESSON Theory | 如何提高你的绘画和设计技巧
+
+[http://www.douban.com/note/255169550/](https://link.zhihu.com/?target=http%3A//www.douban.com/note/255169550/)
+
+![](https://picx.zhimg.com/c1704f657bfed06a24146de472077c6f_r.jpg?source=2c26e567)
+
+
+
+
+ARTLESSON Q&A | 一些关于绘画和设计的问答整理
+
+[http://www.douban.com/note/259201101/](https://link.zhihu.com/?target=http%3A//www.douban.com/note/259201101/)
+
+2.**绘画乞讨人贵哥**
+
+可以发现 東山研-GK的文章中有推荐过很多很有价值的国外的学习书籍，而其中很多本书贵哥都有对其进行汉化并录制了相对应的讲解视频，其中比如《Color &Light》、《人体结构：设计与创造--Michael Hampton》、《透视指南PERSPECTIVE DRAWING HANDBOOK》，所以非常值得关注，详细可以参考其博客：Blog[http://blog.sina.com.cn/hcgsss](https://link.zhihu.com/?target=http%3A//blog.sina.com.cn/hcgsss)
+
+另附一篇关于他的介绍：[http://www.douban.com/note/301721641/](https://link.zhihu.com/?target=http%3A//www.douban.com/note/301721641/)
+
+![](https://picx.zhimg.com/d301c7a91c5ea7397f8df2fc769ffe10_r.jpg?source=2c26e567)
+
+
+
+
+------------
+然后是根据各种资料应该能留意到 -**了解和深入学习光的知识（艺用光学）是非常重要的 -**而这也是《Color &Light》这本书被很多人强调的原因[【贵哥汉化】《恐龙帝国》的James gurney《色彩与光线》,附视频解说](https://link.zhihu.com/?target=http%3A//blog.sina.com.cn/s/blog_45b26b290101a0lr.html)
+
+所以关于光的知识和理论 这里除了这本书，个人还推荐其他三个线索:
+
+1.**林冉**的心得总结
+
+林冉总结了很多关于光方面的心得和感悟以及一些很实用的技巧我觉得非常受用（包括取色器的使用要领 构图啊 边缘处理啊 还有一些绘画的分析方法比如调大饱和度分析写实绘画的光的衰减和色温的规律啊等等....)可以参考其博客 另外各种平台上也有很多版本传播
+
+[写实CG理论基础](https://link.zhihu.com/?target=http%3A//wenku.baidu.com/view/0221be8adaef5ef7ba0d3ce9.html)
+
+[转自一位名为林冉前辈的理论分析](https://link.zhihu.com/?target=http%3A//wenku.baidu.com/link%3Furl%3DdBF985n6aifqWmNjqSDLx_z48LPj9TDQWbtsLhZ6j2qPjU3Pzmmdqlh-9s1xM6jdkfQfD7Xhm3kemT3AuN_kCeW7cmy7LvD7HB024eKQkmi)
+
+或用关键词 "举重若轻！林冉特别教程之2D绘画" 搜索 （建议多对比几个版本 一般网站收录的都都比较不完整...而且现在比去年少多了..）
+
+![](https://pic1.zhimg.com/057e334f0538d282032ac33c9675f024_r.jpg?source=2c26e567)
+
+
+
+
+2.**色彩与灯光系列视频**，很好的讲解了一些光学原理，
+豆瓣上教你画像素画的小站视频区里有分享：[与绘画相关的视频 (豆瓣)](https://link.zhihu.com/?target=http%3A//site.douban.com/163509/widget/videos/10522099/%3Fstart%3D20)土豆网上也有：[一纸油墨 的视频](https://link.zhihu.com/?target=http%3A//www.tudou.com/home/item_u37823515s0p1.html)（ps:在这里似乎发现了译制更好的版本，见答案内链接:[求光与色，还有光与材质关系 的详细知识（绘画方面）？](http://www.zhihu.com/question/24516681/answer/28069202)）
+
+3.《**Light for Visual Artists**（中文名：视觉艺术用光）》
+
+[http://book.douban.com/subject/19950884/](https://link.zhihu.com/?target=http%3A//book.douban.com/subject/19950884/)
+
+这本书最早是在Color and Light的汉化版购书页面下的某评论处发现的
+
+![](https://picx.zhimg.com/c6cd60afac52504d6c153eacf24b73cc_r.jpg?source=2c26e567)
+
+
+
+
+另外于这本书刚好在林冉的博客里有一篇博文 叫做“外光原理—由浅入深的详细教程“ 其内容则是《Light for Visual Artists》这本书作者在成书前写的可以当作这本书的部分要点的提炼
+
+参见：外光原理—由浅入深的详细教程
+
+[http://blog.sina.com.cn/s/blog_65a62c1f0102e42x.html](https://link.zhihu.com/?target=http%3A//blog.sina.com.cn/s/blog_65a62c1f0102e42x.html)
+
+![](https://picx.zhimg.com/50/bf4f87c513ff5dbca24dfe4791f20eab_720w.jpg?source=2c26e567)
+
+
+
+
+题外话：”据说Color and Light的汉化版渣翻译了（注意是据说） 所以似乎推荐的还是贵哥汉化版的多。”
+
+
+
+
+另外，如果对色温以及这本书中固有色光分析处的理解有进一步需求，推荐结合微博上的[victor-cloux](https://link.zhihu.com/?target=http%3A//photo.weibo.com/1696749751/albums)的一系列心得分享来进一步拓展吸收，极有益和用心的梳理与分享，艺用光学相关，很多内容都讲得深入浅出，客观严谨。
+
+**4. cloux victor的经验与心得分享**
+
+![](https://pic1.zhimg.com/b110924c2e8e7f01a15ab3628eaf9bff_r.jpg?source=2c26e567)
+
+非常值得推荐的他的微信公众号**madlineCG****（除了惯例的周输出外，还有不时的资源与鉴赏推送，作品修改上的建议给予与具体问题的答疑解惑...)**该系列早期标签为[#答小伙伴#](https://link.zhihu.com/?target=http%3A//weibo.com/p/1008087f911d964e9c159abb79b621325c1e29%3Fk%3D%25E7%25AD%2594%25E5%25B0%258F%25E4%25BC%2599%25E4%25BC%25B4%26from%3D501%26_from_%3Dhuati_topic)... 
+之后更名为#V-talk#   
+-[#v-talk#[06]](https://link.zhihu.com/?target=http%3A//photo.weibo.com/1696749751/talbum/detail/photo_id/3713344892632785)-[#v-talk#[07]](https://link.zhihu.com/?target=http%3A//weibo.com/1696749751/B6d11cdhg%3Ftype%3Dcomment%23_rnd1417101179882)-[#v-talk#[12]](https://link.zhihu.com/?target=http%3A//weibo.com/1696749751/B8RhsD729%3Ffrom%3Dpage_1005051696749751_profile%26wvr%3D6%26mod%3Dweibotime)---今年7月份他的演讲[PPT](https://link.zhihu.com/?target=http%3A//pan.baidu.com/s/1i3FsbcT)（2015 5 ：知乎账号[cloux victor](http://www.zhihu.com/people/cloux-victor)）
+2015 8: --[如何整体表现素描？ - cloux victor 的回答](http://www.zhihu.com/question/26592161/answer/55729563)**（后来从迷情黑白开始，阶段性发起有意义的众译行动已成了这个平台新机制的一部分）**2016 到未来，大家一起互相去见证吧。
+
+===============================================================
+上面的资料主要是关于框架 方法 和书籍的
+我觉得互联网时代的**视频**是值得留意的一种资源
+所以接下来则是一些视频资源线索
+
+1**.Speed Painting**我个人则觉得学画画除了看视频教程外配合多看一些快速绘画视频可能是个好法子~
+既有感官享受（一般的快速绘画还配有很带感的音乐）又能学到东西（有助于快速体会到大的思路并且还可以慢放来仔细对比步骤）。并且啊，每次看完这种绘画视频你自己都会有很强烈很巨大的想绘画的欲望，所以我也管看这种视频当作激活仪式，激活自己的绘画感觉和强烈的欲望——估计这是镜像神经元在起作用的原因吧~通过相同的行为触发了自己模仿的欲望和绘画的记忆
+总之Youtube上搜Speed Painting有一大把，都很带感
+比如这个：[http://www.youtube.com/user/CreativeStation](https://link.zhihu.com/?target=http%3A//www.youtube.com/user/CreativeStation)(另外话说建模、游戏制作方面也是有这种视频的，可以用“Timelapse”这个关键词来搜搜看喔~）
+
+而国内的话我觉得原画梦这个网站中好像收录了大量绘画的视频和短教程，其中似乎快速绘画的居多：
+
+可以参考它的土豆播客[http://www.tudou.com/home/_119553123](https://link.zhihu.com/?target=http%3A//www.tudou.com/home/_119553123)
+
+和优酷博客[http://i.youku.com/u/UNTc2ODEzMzcy](https://link.zhihu.com/?target=http%3A//i.youku.com/u/UNTc2ODEzMzcy)
+
+![](https://pica.zhimg.com/3feff559e49e5e348cfc3208a0df014a_r.jpg?source=2c26e567)
+
+
+
+
+话说回来这个方法我最早是从关注**Tamplier**这个经常进行同人创作的画师开始发现的
+
+[本周社区亮点：Tamplier和他的美术作品](https://link.zhihu.com/?target=http%3A//d.163.com/13/0706/12/933PBGDH00314P0B.html)
+
+[-Imperius- - SpeedPainting by TAMPLIER_在线视频观看](https://link.zhihu.com/?target=http%3A//www.tudou.com/programs/view/yFgVUJBOHk0/)
+
+当时感觉很爽，也是通过看他的一系列速绘视频发现了这种方法挺不错的，主要是初期阶段学习绘画思路和感受过程，如果提前就有积累相关理论或者看过作者的相关教程和访谈就更容易理解他的创作思路了，再举个例子，比如艺术家**Daarken**，[The Art of Daarken](https://link.zhihu.com/?target=http%3A//www.daarken.com/)
+
+![](https://pic1.zhimg.com/73b6cb610676a14baceb55c44dc47209_r.jpg?source=2c26e567)
+
+
+
+
+比如我们可以先看看他的SpeedPainting视频[Post Apocalyptic Character Design Sketch](https://link.zhihu.com/?target=http%3A//www.tudou.com/programs/view/VZTilfR3_7k/)然后或许可以参考他在《国际顶级数字艺术大师佳作赏析2/8 》中的思路陈述
+之后还可以再下他的教程包来学，这样应该能够有助于我们能从多角度来学习和了解一个艺术家：[概念艺术大师 Daarken 手绘教程6部合集](https://link.zhihu.com/?target=http%3A//www.ccgaa.com/bbs/viewthread.php%3Ftid%3D167815)。
+--拓展：@[江问渔](https://www.zhihu.com/people/jiang-wen-yu-60-65)的这个回答很好的分析了关于运用视频来综合学习的要领:[http://www.zhihu.com/question/28227100](http://www.zhihu.com/question/28227100)(2015 3 11)-[半临摹]
+
+(2015 12: 更多拓展，关于视频源，可以参考这个提问：[有哪些画师喜欢在youtube或别的视频网站放绘画过程视频？](http://www.zhihu.com/question/38463603)）
+
+
+
+
+2.**无极黑:**
+
+**安德鲁·琼斯**(Andrew Jones)创办的工作室，他们有出过很多套教程，网上都能搜索到教程包的下载，很不错，涵盖了很多方面。
+
+[无极黑_百度视频搜索](https://link.zhihu.com/?target=http%3A//v.baidu.com/v%3Fword%3D%25CE%25DE%25BC%25AB%25BA%25DA%26ct%3D301989888%26rn%3D20%26pn%3D0%26db%3D0%26s%3D0%26fbl%3D800%26tpl%3Dvideoalbum)
+
+![](https://pica.zhimg.com/2688f09217aae3caaa8a7c8086069d4a_r.jpg?source=2c26e567)
+
+
+
+
+======================================================
+
+接下来则是一开始本打算写在开头的内容，只不过如果这么做开头的内容就显得有些冗余了无法突出重点了，因此就把关于知乎上的自学绘画的问题放到了这里作为拓展补充。我刚开始的时候也有在知乎上调查过自学绘画的问题，但相关问题并不是很多，所幸回答比较系统有价值并且受关注度比较高的还是有的，主要是这几个：
+
+> 1.学习绘画应该怎么起步？[https://www.zhihu.com/question/20217449/answer/14373986](http://www.zhihu.com/question/20217449)2.没有美术基础的人，如何学习绘画？[http://www.zhihu.com/question/19559029](http://www.zhihu.com/question/19559029)3. 无任何绘画基础，如何练成随手画点小东西的技能？[http://www.zhihu.com/question/20892562](http://www.zhihu.com/question/20892562)4.如何从头学手绘？[http://www.zhihu.com/question/21052915](http://www.zhihu.com/question/21052915)5.如何从零开始学习画插画？[http://www.zhihu.com/question/20469970](http://www.zhihu.com/question/20469970)6. 自学设计的人相比专业学设计的人，最缺乏什么？[http://www.zhihu.com/question/19656711](http://www.zhihu.com/question/19656711)7.国内有哪些优秀的插画作者？[http://www.zhihu.com/question/19561064](http://www.zhihu.com/question/19561064)8.如何起步CG插画学习？[http://www.zhihu.com/question/20417258](http://www.zhihu.com/question/20417258)9.晚不晚系列^-^：
+> a.[零基础 20岁开始学画画 晚么?](http://www.zhihu.com/question/21443172/noti-answers?group_id=161393619)b.[27岁开始学画画，晚不晚？还来得及走专业的路吗？](http://www.zhihu.com/question/22585082?qc=1&group_id=161358323#comment-52282277)
+
+（2016）--> 上述链接中 颜撤的基本粒子（basicLZ）公众号 其文值得一读
+
+![](https://picx.zhimg.com/15a705b4abafd83078e9f53bca3582cd_r.jpg?source=2c26e567)
+
+
+
+
+
+
+
+另外关于[**光的重要性]**，知乎上这个回答里也有提到呢[如何快速准确地掌握涂素描中的明暗色调？](http://www.zhihu.com/question/20795138/answer/16285145)
+
+总之上面这些提问中的回答大多数是以个人心得和感悟为主体的，初期可以都大概看一看，这样能够在系统学习之前先通过各种建议和心得总结对绘画这件事和相关的流程和理论框架形成一个大概的认识，个人觉得这样思路能开阔些，也更容易在不同人的看法中发现哪些是有争议的/有误导性的主题/问题，如此可留待之后系统的学习时自己进一步思考。
+  然后除了看杂志和各种网站之外，如果有认识艺术学院的学生的话也可以多加留意并关注他们平时分享的资料，除了常提到的那些艺术交流类网站，一些平台网站，其实如果留心发现，上面也都会有一些美术师的分享以及资料图鉴，碎碎念信息可以多屏蔽，跟学习有关的动态可以多关注，这样就算使用一些社交工具，接收的信息也可以人为的与绘画的内容更相关。
+===============================================================
+  最后再推荐几篇对于整体认识比较有帮助的文章以作拓展：
+
+*中国艺术教育
+
+[http://www.douban.com/note/145618215/](https://link.zhihu.com/?target=http%3A//www.douban.com/note/145618215/)
+
+![](https://pica.zhimg.com/b6235007657f5c8e84bb55d126df9dba_r.jpg?source=2c26e567)
+
+
+
+
+***陈惟**的绘画如何自学（（主要是强调了自学环境和时间管理以及交流的重要性 里面偶然出现的几个心灵学术语大可见怪不怪，倒也蛮形象生动的，不影响文章主旨））[http://www.baidu.com/link?url=vP5Uz5Si-bK5Mtjwlr0u25515Qjfl1dK0zmxkQLIdS6O2FQ-qqHz6WDc_m7ykGZbTDSM5GT5qHj25B4-diqira](https://link.zhihu.com/?target=http%3A//www.baidu.com/link%3Furl%3DvP5Uz5Si-bK5Mtjwlr0u25515Qjfl1dK0zmxkQLIdS6O2FQ-qqHz6WDc_m7ykGZbTDSM5GT5qHj25B4-diqira)
+
+![](https://picx.zhimg.com/02ecfa7d7ae990a02b3c263f2c8ec127_r.jpg?source=2c26e567)
+
+
+
+
+*经历激励:
+
+黄光剑的经历：[黄光剑_百度百科](https://link.zhihu.com/?target=http%3A//baike.baidu.com/subview/2726228/6589332.htm)
+
+![](https://pic1.zhimg.com/739d8f043210a113d1da520cf9a1d9f3_r.jpg?source=2c26e567)
+
+
+
+
+（网上可以搜到以他的女祭司头像为主的一些教程[黄光剑女祭司头像绘制教程01_黄光剑](https://link.zhihu.com/?target=http%3A//video.sina.com.cn/v/b/58696064-1663807405.html)）
+这里再补充一个[Lea Liu](http://www.zhihu.com/people/lea-liu-23)回答中关于他和开头提到的林冉二者对比的一个蛮不错的分析：
+*[黄光剑、林冉的cg水平如何，值得去他们的培训班吗？](http://www.zhihu.com/question/21386032/answer/25455502)
+
+另外还有一个贴吧看到的德国男孩两年绘画飞速进步的故事很有意义 值得推荐一下：
+ （关键词 Hannes algenpfleger ）  --  帖子建议和他的D站轨迹线一起赏..  (回复区里轮双截棍头像那人的点评值得注意）[【分享】大神是怎练成的---------德国男孩的故事](https://link.zhihu.com/?target=http%3A//tieba.baidu.com/p/1002901037)--[天朝......这样踏实画画的人有几个？？？？？？？？？？？？](https://link.zhihu.com/?target=http%3A//blog.sina.com.cn/s/blog_7be1a7d701019h0o.html)--->[http://www.conceptart.org/forums/showthread.php/114449-Algenpfleger-learns-to-draw-(He-really-does!)-2014-New-Sketchbook](https://link.zhihu.com/?target=http%3A//conceptart.org/forums/showthread.php%3Ft%3D114449)(ps:地址已变更为本链接 感谢评论中@[刘琨](http://www.zhihu.com/people/liu-kun-58-88)同学之前的补充~ --2014 7 4) 
+--(2014 11 24) S-Lpis 的修行之路:[slpis：板绘一年_S_lpis_新浪博客](https://link.zhihu.com/?target=http%3A//blog.sina.com.cn/s/blog_ab2d9d6d0102vdov.html)--------->(2016 4)进一步拓展:[低龄画师是怎样养成的？ - 江问渔的回答](https://www.zhihu.com/question/24500822/answer/93581599)
+
+-- = --
+* 对于之后具体针对不同的方向的内容则可以参考不同的前辈高手的总结以及相应的门户网站，比如概念设计方面可以参考朱峰（FengZhu)的文章（GK的文章后半部分也有提到朱峰）
+
+-- 概念设计大师朱峰在北\影的问答（上/下）[概念设计大师朱峰在北影的问答(一)_painter吧](https://link.zhihu.com/?target=http%3A//tieba.baidu.com/p/2605778170)-- 朱峰谈概念设计(1-12全)[朱峰谈概念设计(1-12全)_百度文库](https://link.zhihu.com/?target=http%3A//wenku.baidu.com/link%3Furl%3DXVuv84tqvdxLYbV5FN6iwo81FhFKhQC5fSxqAoXRpi74IpN-T0BMWr0tqGA8q5BFNwITLC3y1h184JXIZjzL-pEcqwqPDMmAlZtl-D_IqPC)------>[本来想去报原画报的，但目前没有经济能力且没有空余时间。该怎么有效率地自学？ - 马期胤的回答](https://www.zhihu.com/question/29904025/answer/48703708)
+
+===> 2016 4  ((新进展: :[FengZhu朱峰的](https://link.zhihu.com/?target=http%3A//weibo.com/fengzhudesign%3Fis_all%3D1)微博的新的中文的Design cinema系列（中文说的不错 !）
+        &&[FZD设计影院-朱峰讲授概念设计思考方式，分享创造IP和设计世界的秘诀](https://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F__biz%3DMzI1NTIyMjkxMg%3D%3D%26mid%3D2649256432%26idx%3D1%26sn%3D82604854e28f41543f03997c6f94b0a6%26scene%3D0%23wechat_redirect)
+
+关于写实（创作与练习）可推荐了解**CM(**Craig Mullins )；之前提到的**林冉**也有在技巧与绘画分析中以他的作品的分析过程来举例子，可以留意一下。
+
+![](https://picx.zhimg.com/5aa732cd6485f5dd747736d264c393c2_r.jpg?source=2c26e567)
+
+拓展则推荐由一位叫做 侯放 的很棒的大哥总结的《Crage Mullins初级技法解析》以作拓展阅读：[crage mullins初级技法短期总结心得（2次修订版）](https://link.zhihu.com/?target=http%3A//blog.renren.com/share/268249103/7779891098)[crage mullins初级技法解析补充篇------如何画盒子？（2次修订版）](https://link.zhihu.com/?target=http%3A//xiaozu.renren.com/xiaozu/137061/334355621)创作与练习相关也可进一步拓展此类回答；
+----->(2016 4 )[CG创作中，涉及人物上比较精细的光影铺设时，该如何去解决这类问题，依靠一些摄影照片是良性的解决办法吗？ - 徐天华的回答](https://www.zhihu.com/question/35096949/answer/63343203)
+
+关于速写可推荐留意**金政基**
+
+[胸有成竹――韩国插画漫画家金政基（Kim Jung-Gi）：上篇](https://link.zhihu.com/?target=http%3A//huouxiaoyu.blog.163.com/blog/static/132024596201192111433807/)
+
+外号被叫做人肉打印机的一个人，我们学校动画系的朋友大二的时候会被老师布置很多临摹他速写的作业。
+
+![](https://picx.zhimg.com/b32bd2df2f5d983dedc498f3fdb3296d_r.jpg?source=2c26e567)
+
+最后附上一位朋友所总结的要点供思考拓展：[PIPI 艺术家工作方法](https://link.zhihu.com/?target=http%3A//www.douban.com/note/357631073/)...
+能想到的暂时就这么多~
+等之后有想起新的内容我会再行补充，而这个回答日后随着学习的推进我也会不断的试着进行完善的。
+
+-------------
+- 关于画面统合与分析思路的拓展阅读：[数码软件绘制人物，如何将颜色画漂亮?](http://www.zhihu.com/question/25270931)by[Z](http://www.zhihu.com/people/zeratul)e....
+- 绘画工作流与思路的拓展阅读：
+ *（关键词AO Sam Nielson)[如何比较数码绘画中「先单色后叠色」和「直接上色」这两种方法？](http://www.zhihu.com/question/24816998/answer/29083014?group_id=824798250#comment-60344141)by[Ze.](http://www.zhihu.com/people/zeratul)...
+ * 三维建模(如Zbrush)->Keyshot渲染->Photoshop绘制
+  参考youtube频道( CubeBrush:[https://www.youtube.com/watch?v=-hm2hENg2cc&amp;list=UUKtu_JtQCY0yryIy6zK4ZCg](https://link.zhihu.com/?target=https%3A//www.youtube.com/watch%3Fv%3D-hm2hENg2cc%26list%3DUUKtu_JtQCY0yryIy6zK4ZCg)[https://www.youtube.com/watch?v=BMCwjBMr5iA&amp;list=UUKtu_JtQCY0yryIy6zK4ZCg](https://link.zhihu.com/?target=https%3A//www.youtube.com/watch%3Fv%3DBMCwjBMr5iA%26list%3DUUKtu_JtQCY0yryIy6zK4ZCg)-------------
+2015 8 :群组创作：（2016 9 改）
+通过[cloux victor](http://www.zhihu.com/people/cloux-victor)的群间接知道了之前马顶糕有个群组会周期性的设置主题创作活动，之后会整理并附上点评。   类似的基于主题大家一起创作的这种方式感觉比较有意思。
+  （但关于这部分提到的群组和相关内容，建议首先以上述出现的关键词自行搜索了解下最近发生的事情比较好，或许也能间接作为某种日后对[靠谱]这点增进更多认识的素材积累。
+
+-----------------------
+--影视/游戏 要点拓展进一步拓展 可推荐参考@[青骑士](http://www.zhihu.com/people/qing-qi-shi-68)&& @[徐天华](https://www.zhihu.com/people/tianhuax/answers)的一系列分享：[https://www.zhihu.com/question/38582828/answer/77370272](https://www.zhihu.com/question/38582828/answer/77370272)
+
+
+
+
+-----------------------
+总而言之希望这个回答对自学绘画者能起到一定的帮助
+同时欢迎各位朋友评论补充
+
+最后祝好运常伴 绘画进步~  ^-^
+
+2013 11 29
+
+2014 1 25
+
+2014 5
+
+2014 7
+
+2014 9
+
+2014 12
+
+2015 3
+
+2015 7
+
+2015 12
+
+2016 4
+
+
+---
+
+# 如何制作出像顶尖咨询公司咨询顾问们那种风格的 PPT？ 何足道
+
+**Author:** 何足道  
+**Bio:** 退役创意狗，无良制片人  
+**Avatar:** ![](https://picx.zhimg.com/e3a1f9565_l.jpg?source=0df5f383)  
+**Author URL:** https://www.zhihu.com/people/324d2bbfbe19a2a71c0eaf08dfb9c2bc  
+**Published:** 2014.02.23 02:39:49  
+**Updated:** 2014.02.24 09:47:36  
+**Question:** https://www.zhihu.com/question/22414130  
+**Question Created:** 2013.12.31 17:24:17  
+**Question Updated:** 2014.03.11 15:28:27  
+**Votes:** 214  
+**Comments:** 32  
+**Type:** answer  
+
+实在看不下去了，满屏幕的惨！不！忍！睹！
+
+如果楼主只是问怎么能把PPT做成咨询公司那样，我一点意见都木有，直接闪人
+
+因为众所周知咨询公司一贯只能做出堆砌内容，丑到哭的PPT
+
+但偏偏楼主还提到“令人赏心悦目”
+
+那么，作为视觉设计师出身而且最近五六年都以PPT为主要沟通工具的人
+
+我觉得还是有必要帮楼主和下面一些朋友建立正常的审美观
+
+除开普遍有强大设计能力的广告公司不谈
+
+商业领域，只有少数人的演讲PPT是配得上“令人赏心悦目”这句话的
+
+乔帮主、老罗和雷军算是代表
+
+贴几张小米发布会上雷军PPT的拼图
+
+请自己感受一下
+
+![](https://picx.zhimg.com/a87dfe546229d4b82cf9246c852d587a_r.jpg?source=2c26e567)
+
+![](https://picx.zhimg.com/3b23aba0b3a737b44e5c01fc13bf65de_r.jpg?source=2c26e567)
+
+基本上每张slide都是一张海报
+
+当然，这也不是IT男雷军自己做的
+
+都是小米的设计师精心设计的
+
+没有经过良好的美术训练，没有掌握一定的设计技能的人
+
+基本不可能做成这样
+
+有人可能会说，他这种PPT全是图片，做好看不难
+
+那些非演讲用的PPT，页面上内容会很多，讲的都是枯燥数据和复杂理论
+
+而且没什么图片，以图表为主，不可能做得好看
+
+那么请看下面优酷的一个媒体推介PPT：
+
+![](https://pic1.zhimg.com/8d92c65ede6785eadfb6b5bb65ec69a9_r.jpg?source=2c26e567)
+
+怎么样？图表其实也是能做得更好看的对吧
+
+实际上，前几年开始盛行的infographic形式，就是将各种复杂信息分析图形化
+
+到现在业已非常成熟了
+
+我懒得贴图了
+
+去问问谷哥或者度娘什么是“infographic”，他们会瞬间给你一大票精美无比的例子
+
+当然，那些也是设计师设计的
+
+一般人也做不出，
+
+而且通常也不太可能花那么多时间，专门用设计软件单独设计一个图表
+
+但即便如此，
+
+至少有些基本的原则还是可以借鉴的
+
+即使你不能做得美轮美奂，至少可以做得整洁清晰。
+
+1.文字是PPT的天敌
+
+文字很多的话Word是更好选择。没人会去阅读PPT上的大段大段文字。所以请把你每页要表达的观点提炼成一句话，用清楚的大标题写出来。
+
+2.尽量精简页面上的内容
+
+一页只说一件事儿。当内容太多时，宁可分页。
+
+3.排版请尽量清晰明了
+
+如果没有强大的设计能力，又非要在画面中放超过4~5个元素，比如说有三四个图表或四五段字，请整整齐齐从左到右排列。不要东一个西一个，把页面搞得像杂货铺。
+
+4.不要去尝试使用很多颜色
+
+整个PPT确定两三种颜色，譬如说一个底色（通常黑或白），一个文字颜色（黑白或深灰浅灰，和底色相反），一种主色（通常用鲜艳的颜色，用在标题字、重点内容和所有色块、图表等上面）。在能驾驭的前提下，可以再增加一两种辅助色。辅助色和主色之间需要搭配，不会的话请直接从优秀作品中照搬。
+
+5.不要去尝试使用多种字体
+
+一会儿宋体一会儿隶书，大的大小的小，横的横竖的竖斜的斜，那会让你的PPT丑到爆。整个PPT确定一到两种字体，标题一种、正文一种，老老实实地使用。省事的话，微软雅黑是不二选择。
+
+6.不要使用PPT自带的样式效果
+
+PPT自带的各种花哨的浮雕、阴影、倒影、渐变色、勾边、发光等形状、文字样式效果，都是百分百的地摊货，纯色的图形、文字胜过那些廉价的效果百倍。还有，除非必要别做动画。
+
+做到以上几点，只能保证你的PPT不至于太难看
+
+更高要求就看天分了。
+
+----------------------
+
+有人可能会说，PPT好看不好看是次要的
+
+重要的是逻辑和内容
+
+我举双手赞成，太对了！
+
+不过那是另外一个问题了，而且说来话长
+
+这里暂且只讨论美观
+
+
+---
+
+# 如何设计一张高品位高水准海报？ 刘小敏
+
+**Author:** 刘小敏  
+**Bio:** -  
+**Avatar:** ![](https://picx.zhimg.com/v2-7af4d7bf58a99a49a66211d3bc50e87d_l.jpg?source=0df5f383)  
+**Author URL:** https://www.zhihu.com/people/916393f1c1bba5e5c42794258fc3fd44  
+**Published:** 2014.05.17 09:47:23  
+**Updated:** 2023.11.16 17:46:29  
+**Question:** https://www.zhihu.com/question/22332149  
+**Question Created:** 2013.12.21 16:24:35  
+**Question Updated:** 2014.07.04 12:30:08  
+**Votes:** 25829  
+**Comments:** 612  
+**Type:** answer  
+
+首先我要申请吐槽！
+
+那些放几张图让楼主看着来的同学们，你们这都是**民！科！**你们造吗？
+谁说设计就是看感觉看审美，设计**很科学**的好吗！！！
+脱离原则谈打破原则，还没及格就想高大上，你们呀……真是太不尊重设计这门学科了哼！
+
+审美从来就是一种能力，而不是一种态度。
+吐槽完毕。
+================================================================
+
+先祭出设计四大基本原则：
+**重复，对比，亲密，对齐。**
+
+
+
+
+**1，重复**
+
+![](https://picx.zhimg.com/a7763e8ee5ab10b5ab001d61e64ed199_r.jpg?source=2c26e567)
+
+**重复指的是，设计中的视觉要素在整个作品中重复出现。**
+可不是说放几个一样的小方块就是重复了哦，仔细看上图，颜色重复出现，高度、宽度重复出现，元素间距重复出现，可以预见的是，如果我们在最后再加一个小方块，一定还是同样的颜色、高度、宽度、间距，如果不是为了突出，我们不会引入新的元素。
+应用上来说就是，如果我要加一行字，第一反应是，用之前用过的颜色和字体，如果没有确凿的理由，就坚决不出现新的要素。这是设计的克制，也是初学者最最先要学会的一件事！
+
+来我们根据这个原则，对题主的海报进行第一次手术，手术的奥义是——**重复**。
+
+![](https://picx.zhimg.com/8340d87477ef12e6a7be2755b1fa0841_r.jpg?source=2c26e567)
+
+> 完全按照题主的意图和内容，将文字提了出来，字体全部用微软雅黑（新手用这个字体没错就是啦），大小和位置也没有改，只是扔掉了花花绿绿的视觉元素（字体样式、大小、行间距），按照重复的原则进行整顿。
+> 
+
+什么，一点都不高大上？都说了这是科学！要一步一步来！
+
+**2，对比**
+
+![](https://picx.zhimg.com/9b867c75f7876b34e058d7a1bf673de4_r.jpg?source=2c26e567)
+
+……？
+
+
+
+
+**对比指的是，避免页面元素的太过相似，如果元素不相同，那就请深深的不相同。**
+有重复就一定有对比，重复是基调，对比就是焦点。重复一定要精确，对比一定要大胆。
+对比可以有多种方式产生。大字体与小字体，oldstyle与sanserif，粗线条与细线条，冷色与暖色，平滑与粗糙，长宽与高窄，小明与大明（咦？）……等等。
+
+正所谓密不透风，疏可跑马，放手去搞不要逃，不强烈的对比宁可不要。
+
+![](https://pica.zhimg.com/37d61c12a57cce1dfb5d55a16b609b4c_r.jpg?source=2c26e567)
+
+> 好吧其实题主原本的对比已经很明显了（我指字号），我稍微调整一下，再配张小图，形成图与文的对比。（图是百度来的，百度图片现在很好用哒，还有推荐的是昵图网和站酷网，设计师标配，不过切记要注意版权问题~）
+> 
+
+是不是看着很乱，找来找去找不到想要的信息累觉不爱？不急，下一步。
+
+**3，亲密**
+
+![](https://picx.zhimg.com/051efae694fbaa9f41610fd0713a0757_r.jpg?source=2c26e567)
+
+
+
+
+
+
+
+**亲密性指的是，物理位置的接近意味着内容的关联，所以要将相关的项目组织在一起。**
+新手的设计总是元素四散，杂乱无章，看似是他们不懂留白的奥义，但实际上是不懂亲密。相关内容得到有效组织，空间自然会空出来，就像知乎的Club感觉会场都是人，但要是让他们按照大小个以男左女右前后相隔一臂左右相隔一拳原则立正看齐排排站，我保证还能塞进500人（……我在说什么）。
+
+标题要对应相关文本，图片要响应对应内容，大小层次，尊卑有序，**亲密**，保证了内容传达的有效性。
+
+![](https://pic1.zhimg.com/bffb9349aa99cbbdfb68e6ca517e403a_r.jpg?source=2c26e567)
+
+稍微有点样子了吧~？再来本阶段最后一步。
+
+**4，对齐**
+
+
+
+
+
+****
+
+
+
+
+**对齐指的是，任何元素都不能在页面上随意安放，每一项都应当与页面上的某个内容存在某种视觉联系。**
+对齐是地心引力，一根参考线立在那里，就要求所以被选中的元素死死的贴在上面，不允许有一像素的叛离。
+同一根参考线意味着某种联系，将依附于它的元素建立起**亲密**以外的秩序。
+
+由于**对齐**原则在以上的示范中其实无处不在，我已经默默遵循了（不对其会死晚期），就不再单独示范啦。需要强调的是，在物理位置相聚太远的情况中，要熟练运用辅助元素将不同的对齐联系起来。比如：
+
+![](https://picx.zhimg.com/be117e84fb78619ecd9ced9d322967f6_r.jpg?source=2c26e567)
+
+> 右边利用辅助线，将上半部分的左对齐与下半部分的右对齐联系起来，使得画面稳定，内容具有连续性。
+> 
+
+
+
+
+到现在为止，我们利用设计四项基本原则对答主的海报进行了初步的处理，使其基本达到【及格】标准。
+
+![](https://pic1.zhimg.com/930a000f1432083e351daaabe0d2d0e6_r.jpg?source=2c26e567)
+
+
+
+
+这是一个非常具有可操作性，非常适合零基础新手的设计方法，各位切记设计也是门科学，谨记原则多加练习才是正道哦~~
+
+当然，最后这张成果仅仅是初步处理，完全算不上高品位也完全算不上优秀，颜色上氛围上，字体的考究选择上依然有非常大的改进空间，但是路要一步一步走嘛，由于时间（拖延）和精力（太懒）原因，我下次再慢慢填：）
+
+以上理论基础均来自于《写给大家看的设计书》，此书深入浅出，例证丰富，居家旅行必备良品。
+
+
+---
+
+# 对游戏来说，如何归纳和分类美术风格比较合理？ 来须苍真
+
+**Author:** 来须苍真  
+**Bio:** ConceptArt,GameDesign,世界观构架师。  
+**Avatar:** ![](https://picx.zhimg.com/86691e2e136808f8c1b56dfb62a471b8_l.jpg?source=0df5f383)  
+**Author URL:** https://www.zhihu.com/people/e9516dbf455ec535ff61c9395a49c4da  
+**Published:** 2014.06.09 17:45:29  
+**Updated:** 2019.04.16 18:06:57  
+**Question:** https://www.zhihu.com/question/22530411  
+**Question Created:** 2014.01.15 14:44:25  
+**Question Updated:** 2016.04.17 17:42:30  
+**Votes:** 7045  
+**Comments:** 275  
+**Type:** answer  
+
+*****转载 请私信本人 申请授权 ，并注明地址和本人署名，并支付稿酬，未经本人同意禁止转载。*****
+
+导语：
+
+关于游戏美术风格，必须结合着**游戏美术文化**和**游戏引擎的发展**来谈，任何把这两者剥离开就大谈风格的，无视游戏美术这门文化的皮毛论者，都是耍流氓。
+
+第【**I**】【**II**】节，我们先谈从游戏美术文化层面切入，先讲主导游戏美术风格的个人，然后再从                           题材分类。
+
+第【**III**】节，会谈到游戏引擎的发展对画面表现的影响。
+
+第【**IV**】节，会说明游戏概念设计常用的美术表现手段。
+
+第【**V**】节，会说明东西方游戏中常见的 卡通风格 ，日系与美系卡通几何化概括手法的区别。
+
+
+
+
+-------------------------------------------------------------------------------------
+以下答复面对游戏开发者：
+
+如果是**游戏策划**，最好别自己把**确定美术风格**这一工作全部揽下，专业的问题交给专业的人，你应该去**找主美商量**。
+
+主美肯定有至少10年以上的游戏和美术风格的**审美积累**（注意，是审美**积累**）。而不单纯是一台流水线画画机器。
+
+因为每年的**美术流行风格**都不同，要想把握住这一**潮流**的话，就必须精通**亚文化**（ACG等宅文化）。游戏美术这一人群的兴趣爱好点也往往都在这，并且融入他们的社交和生活每个环节，并且对相关文化背景都会有很系统的研究，所以很专业。
+
+主导每年**流行趋势**的不是普通大众，而是我们这群从业者，也就是游戏**概念设计师。**而游戏美术风格的流行趋势，并不单单是由游戏行业的概念设计师来决定的，而是**各个设计行业的相互影响**，比如服装设计，建筑设计，装潢设计，工业设计，影视，动漫，流行音乐，舞台设计，还有各种先锋艺术，比如行为艺术等等。
+
+**概念设计**不是单一学科，而是融合了绘画，影视，文学，建筑，宗教，哲学等等等一大串学科的**混合学科**，需要有复合知识面，各个学科涉猎广泛的概念设计师来主导这一流程。
+
+别单纯的以为游戏美术只是会画画罢了，绘画只是表达工具，重要的是**创造**，
+用科学的**美术技法**来表达世界观构造。
+
+----------------------------------------------------
+
+【**I**】**开创游戏美术风格的个人**
+
+所谓技法，这其中是无比复杂的，没学过美术的策划经常难以理解。游戏原画里面有无比庞大繁杂的流派，而不单单是欧美，日韩，中国风那么简单。而游戏美术概念设计师们经常会提到的比如：**阮佳风格**，**光剑风格**，**CM风格**（Craig Mullins），**金亨泰风格**等等，这都不是单纯的指他们的画法，而是指他们的作品画面中所表达出来的一个人脑内庞大**世界观**和**文化内涵**，其中表现出来的文化风格又有交叉与融合。
+
+比如〈阮佳风格〉:
+
+![](https://pic1.zhimg.com/edfcf63279ce200cabf0fda6994f1ad4_r.jpg?source=2c26e567)
+
+![](https://pic1.zhimg.com/3b9840d2ae4887ef86124f986c288f1d_r.jpg?source=2c26e567)
+
+![](https://picx.zhimg.com/ee18214097508b10ce2248dfdb844e59_r.jpg?source=2c26e567)
+
+
+
+
+
+
+
+- 从文化层面来讲，他这几张很有代表性的作品都是剑锋传奇式的妖艳男子，角色面部特征是天野喜孝式的日式哥特冷艳。装备是欧洲中世纪的盔甲，而这个盔甲又不是简单的还原史实的设计，而是日系魔幻题材动漫中    常见的变体设计，细节和配饰有略微的架空感。
+- 技法上用的是厚涂，这种厚涂又区别于国内常见的那种，而更接近于欧美概念设计师的那种厚重    感厚涂。他那非常随意却充满质感的笔触，油画味十足，非常高大上，德味，毒！他很多材质的表现力上， 能看得出是在学习德国浪漫主义大师卡斯帕·大卫·弗里德里希，对于肌理的表现，也是追求偏向于油画厚涂。
+- 而且阮佳的用色又特别有他自己的个人风格，主观色比较多，整体偏向高级灰，这种色彩特征在业内应该    是一枝独秀（虽然后来兴起了一些模仿者）。他常在阴影处使用一些对比色补光。而且用光塑造    体积的时候，体块感极强，光线衍射和反射还有漏光效果极其逼真。（可能是因为他早年从事3D    模型贴图工作的原因），各种材质细节刻画到位，虚实前后层次分明。
+- 他的人体造型能力非常扎实，角色的动势姿态神态表达出的意境往往很含蓄优雅阴郁。
+- 另外还有一些比较特殊的构图透视和布光技巧,比如画头像喜欢用伦勃朗光，比如制造暗角，用雾化效果来区分虚实，拉开前后    层次等等。使得他的作品镜头感十足。
+
+
+
+
+这些**复合因素**，构成了这一〈阮佳风格〉。
+
+所以，你还能把这些画风简单的概括成〈欧美风，日韩风，中国仙侠风〉吗？
+
+
+
+
+-------------------------------------
+2014.6.11更新
+
+【**II**】**游戏的文化题材和美术风格**
+
+既然聊到游戏**美术风格的分类**，那么我们先从**文化层面**入手，也就是常说的**题材**。
+
+在游戏公司要想确定一款游戏的美术风格，要先根据**市场部的需求**和**制作人的需求**定下**题材**。
+
+这里需要注意的是：**美术风格往往可以反映出游戏的题材，但是反之，游戏题材却不能绝对限制美术风格。**
+
+
+
+
+因为美术的塑造源头是文学，美术概念设计师的工作就是从文学塑造中提取可用的信息，结合现实文化中的元素来进行视觉设计。这个关系请看下图的提纲：
+
+![](https://pic1.zhimg.com/5c861144571ad0edc31531acd8976690_r.jpg?source=2c26e567)
+
+
+
+
+
+
+
+
+
+
+举个例子就是西游记题材，可以套用仙侠的风格来设计，也可以套用赛博朋克的风格来设计。
+
+图 左：英雄联盟孙悟空 右：奴役奥德赛
+
+![](https://pic1.zhimg.com/177bb5fbf2bf8cf9619a46a12741e39f_r.jpg?source=2c26e567)
+
+
+
+
+
+
+
+一般题材**通常**有以下这些种：（举例我只举一些风格比较**好辨认**并且具**有代表性**的游戏）
+
+1.欧美：
+
+- 欧美式魔幻：有魔兽世界，暗黑破坏神，魔法门之英雄无敌系列，上古卷轴等等
+- 中世纪：骑马与砍杀，中世纪2全面战争，要塞系列
+- 哥特：爱丽丝疯狂回归，恶魔城暗影之王
+- 文艺复兴：大航海时代，纪元1404，刺客信条2
+- 西部牛仔：荒野大镖客，狂野西部，夺宝奇兵
+- 欧美现代：这个就很多了，写实题材的战争类型大多数，比如战地3,4 使命召唤4,6,8，GTA系列，看门狗，极品飞车系列
+- 末世废土：僵尸围城，辐射3，DAYZ，地铁2033，MADMAX
+- 科幻：（细分为：蒸汽朋克，真空管朋克，赛博朋克等等）
+
+a:蒸汽朋克：机械迷城，教团1886，爱丽丝疯狂回归，重力异想世界
+b:真空管朋克：红色警戒系列，辐射3，生化奇兵，战锤40K系列
+c:赛博朋克：光晕系列，EVE，星际争霸，质量效应系列，命运
+
+2.日本：
+
+- 日式魔幻：最终幻想系列，英雄传说系列，光明之魂，王国之心系列，勇者斗恶龙
+- 日式哥特：恶魔城，鬼泣，猎天使魔女
+- 日式蒸汽朋克：最终幻想系列，樱花大战（如果列举电影的话会更多，蒸汽男孩，天空之                               城，哈尔的移动城堡，最终流放等等一大波蒸汽朋克作品，这一题材日本                               人也非常喜欢。）
+- 日式赛博朋克：超级机器人大战系列，高达相关游戏，攻壳机动队，异度之刃，苍翼默示录
+- 日式现代：拳皇系列，死或生系列，生化危机系列，如龙，合金装备系列，铁拳系列
+- 日式武侠：战国巴萨拉系列，忍者龙剑传系列
+
+
+
+
+3.中国：修仙，武侠，三国，西游（如果是干这行的策划，大家应该都没少玩，我就不举例了）
+
+4.韩国：多为混搭题材，常常融合欧美魔幻或者中国武侠，并在其中加入各种蒸汽朋克或者赛博        朋克等架空元素，角色特征偏向于日系唯美。这个韩国风格比较特殊，以后会开专题大篇幅来讲解这        种混搭设计。
+
+----------------------------------------------
+**题材和美术风格的经典案例**
+
+这里很多人会有疑问，我们为何要把题材分的这么细？
+其实很多游戏在大题材的框架之下，还会**搭配多种辅助风格**，这样会使游戏更具文化内涵和艺术格调，这里我们举个经典例子来说明一下：
+
+**星际争霸2**
+星际争霸其实就是各种美术风格的混搭，题材是**太空歌剧**的架构，细看里面则是**赛博朋克**风格里掺杂了一点**真空管朋克**要素。人族武器装备不像传统的太空歌剧中设计成常见的流线科技感，而是设计成粗犷笨重的造型，全都做旧处理，增加了真空管朋克风格的那种颓废感。剧情中加入了**西部牛仔**风格渲染主角吉姆雷诺的游侠气质。对于大反派蒙斯克，为了彰显其权力，则用加入了与整个太空元素形成强烈反差的复古**巴洛克**风格设计。因为游戏里面有神族这一要素，这款游戏又带点**西方魔幻**元素。
+
+![](https://pic1.zhimg.com/77a02677897fa18ee747ba23b6a3f07e_r.jpg?source=2c26e567)
+
+图：常见的太空歌剧场景，巨大的星舰搭配行星背景。
+
+![](https://pic1.zhimg.com/3cbe8b4d7430b562f365e43a90f21c8f_r.jpg?source=2c26e567)
+
+图：人族装备和角色，给人一种笨重厚实粗犷的感觉。
+
+![](https://pic1.zhimg.com/6d317a512d1346d6b999e79c183cd6e5_r.jpg?source=2c26e567)
+
+图：赛博朋克题材中经常见到的科技实验室。机械感十足的设备上边点缀着各种自发光亮边，太空舱闸门，灌装着外星标本的大玻璃管，随处可见布满绿色字符的显示器，冷色调的布光，构成了这一题材中常见的场景。
+
+![](https://pic1.zhimg.com/ab31e17a3c411c5c3766e4425e1c7859_r.jpg?source=2c26e567)
+
+图：星舰内的酒吧，右边墙上挂着虫族生物的残肢标本，随意散乱缠绕的电线，破旧的金属墙壁，角落里堆着一台旧时代投币街机，上方悬挂的旧式点唱机播放着乡村摇滚，西部酒馆风情。
+
+![](https://pic1.zhimg.com/1fe5f2f0c99aee5916e2499a72ee23c9_r.jpg?source=2c26e567)
+
+图：另一张任务剧情模式中的酒吧场景，西部味更浓。
+
+![](https://pic1.zhimg.com/e8cfd6570f92b90e2063430355144e20_r.jpg?source=2c26e567)
+
+图：主角吉姆雷诺，破旧的动力盔甲，苍桑的疤痕，凌乱的头发，一张有故事的脸。
+
+![](https://pica.zhimg.com/ab6ea81dc98aeb60a48c5f738216ddc9_r.jpg?source=2c26e567)
+
+图：西部牛仔风格装束的吉姆雷诺，彰显他不羁于权势的游侠本性。
+
+![](https://picx.zhimg.com/ed59bb4251a8ddc06190558df5bdb3ac_r.jpg?source=2c26e567)
+
+图：蒙斯克父子，为了彰显其地位和权力，这里的概念设计用了复古的巴洛克风格。虽然复古巴洛克设计与常见的太空歌剧题材形成了强烈的反差，但是由于概念设计师巧妙的规划，使其与整体设计风格融合得恰到好处，形成了整款游戏中的一大亮点。
+
+![](https://picx.zhimg.com/3c7c08f9c991753480b9dcdcfd70b448_r.jpg?source=2c26e567)
+
+图：刀锋女王（虫族）大战泽拉图（神族），如果我不说这是星际争霸的插画，是不是很容易被误认为成是魔幻题材的了。
+
+
+
+
+![](https://picx.zhimg.com/56f5f8599b5ffea5490544b233a09bd9_r.jpg?source=2c26e567)
+
+
+
+
+大家是否还记得当年宣传CG中机枪兵整备这段镜头，，这个显示器居然用的是**阴极射线管显示器**也就是CRT，而不是传统科幻题材中出现的液晶显示器或者3D全息投影，也不是阿凡达当中出现的那种透明显示器。这就是标准的**真空管朋克***风格的元素。既然人类的高科技都已经能造出巨大的星舰在宇宙中超时空折跃了，那为什么还要用这么古老过时的CRT显示器呢？这就是因为游戏概念设计师的**独特情怀**，真空管朋克世界观主要描写冷战格局下的颓废、对战争的警惕和惶恐，让太空歌剧题材混搭这种真空管朋克风格能更紧扣星际争霸的主旋律，烘托战争紧迫感，人类时刻笼罩在虫族威胁下的那份阴霾，还隐喻着人类战斗资源的紧缺。这么小小的一个细节设计，增加了很多韵味，**这样就提升了整个游戏的艺术格调**。这就好比在普通的意面中加入了松茸，在重金属吉他SOLO中加入了交响乐和唱诗班和声，瞬间就高大上了。
+
+这些**复合美术风格**，构建出星际争霸这一庞大的世界观。各种美术风格合理的融合与搭配，让这款游戏极具文化内涵。
+
+*关于真空管朋克，详细请见这篇：[《辐射4》的设计风格相较于《辐射3》有什么变化，这样的变化有没有现实原型？ - 来须苍真的回答](https://www.zhihu.com/question/37733437/answer/84823533)
+
+---------------------------------------------------------------
+
+【**III**】**游戏引擎的画面表现风格**
+
+一般开发游戏项目，会根据**选用的引擎**和**游戏的玩法**来选择游戏**画面的表现途径**。
+
+我们按照**游戏引擎中的画面**表现来把游戏美术风格分为以下几类：
+
+<1>**2D低像素点阵**
+
+当年FC游戏普遍采用的这种风格以及早期的掌机采用的风格，现在的很多手机游戏为了追求怀旧和独特的表现也采用这种风格，比如像素王国，像素地牢等等。这类风格的最大优势是省资源，而且概括能力强，开发成本低。
+
+![](https://picx.zhimg.com/593981f5dc269fe5791ac098201c57c0_r.jpg?source=2c26e567)
+
+配图为FEZ
+
+![](https://picx.zhimg.com/50/dc7b6adeb4023892da696472f2e19732_720w.jpg?source=2c26e567)
+
+
+
+
+配图为恶魔城-废墟的肖像NDS
+
+<2>**2D高像素点阵**
+
+依据摩尔定律，计算机硬件性能逐年增强，各个主机以及游戏平台表现水准的提升，我们虽然脱离了硬件的束缚进入了3D时代，但是很多游戏的玩法必须依靠2D引擎，而且2D引擎的表现力依旧很出色。这里面我们还会根据制作方式来细分出来几种：
+
+a.骨骼动画2D像素，把2D像素用矢量骨骼绑定然后调整出动作，比如PSV上的龙之皇冠。
+
+b.2D卡牌，静态的插画牌面加上一些UI上的一些交互动画和动态特效。
+
+c.3D渲染为2D，也就是俗称的2.5D，就是用3D建模然后渲染成2D的动态图，用2D引擎来运行（角色动作和一些打斗还有场景互动的特效是动态，地图场景静态），比较有代表性的就是初代大菠萝，还有现在铺天盖地的国产页游都是这种方式来制作的。
+
+![](https://picx.zhimg.com/013ca4949733929a34a7a10a06f63dd9_r.jpg?source=2c26e567)
+
+配图为龙之皇冠。
+
+![](https://pic1.zhimg.com/38737ce2805788cc43d91546fdcebe18_r.jpg?source=2c26e567)
+
+配图为街机三国
+
+![](https://picx.zhimg.com/660ccb24ed86a69d39e78ae7bfbf8870_r.jpg?source=2c26e567)
+
+配图为征途
+
+<3>**2D FLASH矢量**
+
+这种矢量图FLASH小游戏因为具备打开就能玩非常省资源的优势，曾经火遍大江南北，现在由于这些短平快的优势其他平台游戏也都具备了，所以衰落了。这种矢量FLASH游戏非常受矢量图表现的限制，所以不会做出太写实的风格，Q版和各种意识流画风偏多，制作成本也很低廉。
+
+![](https://pic1.zhimg.com/4285e742180531f427fd5651109eab19_r.jpg?source=2c26e567)
+
+配图为摩尔庄园
+
+<4>**3D纯漫反射贴图**
+
+一般用于硬件性能比较低，或者是引擎比较低端的游戏，比如前几年的手机游戏和更往前一些年的国产网游。这类情况下，只能跑得动面数较低的模型，贴图尺寸也都不会太大，所以模型在引擎中全都是自发光全亮的效果，所有的光影和质感全都靠贴图来表现，而非引擎实时演算。举个例子：3DS游戏模型（角色）一般都在100三角面~500三角面，贴图尺寸一般为64X64~256X256老一点的手机游戏也是如此。国内网游模型（角色）一般都是3000~5000三角面，贴图尺寸一般为512X512~1024X1024。这种引擎更适合制作卡通Q版和手机平台游戏。但在现在这个时代来看，如果不追求极致逼真效果，用来制作写实3D游戏也是有优势的，比如大型MMORPG同屏人数超多这种，还有就是运行在平板和手机平台上的写实类型游戏，由于机能受限，所以选用3D纯漫反射贴图引擎。
+
+![](https://picx.zhimg.com/50/a952a99c8a385235496c84353f04112e_720w.jpg?source=2c26e567)
+
+配图为马里奥赛车3DS
+
+![](https://picx.zhimg.com/fdbf98a87c81cc749cb19a111af614e9_r.jpg?source=2c26e567)
+
+喜闻乐见的剑网三其实也是3D纯漫反射贴图的
+
+<5>**3D次世代**（这里有些长篇大论，主要是讲这个次世代风格更偏向于**追求写实**。）
+（*本文写于2014年6月，这里的“次时代”指的是UNREAL3和PS3的时代。现在的次时代，也就是UNREAL4和PS4的时代，有更先进的技术和更新的标准，比如PBR渲染技术。在我以后的文章中会逐渐提及。）
+
+这些年来引擎进步了，硬件也提升了，3D也能更好的还原出写实风格原画设计了，逼真程度特别高（角色一般都在1W三角面以上），当然制作成本飙上去了。我这里稍微讲解一下次世代模型为什么会很逼真。
+
+![](https://pic1.zhimg.com/4a66711e52f74163dc572d6a67a300c1_r.jpg?source=2c26e567)
+
+![](https://picx.zhimg.com/4384ccb1cee564491eda623a3d6efb25_r.jpg?source=2c26e567)
+
+【图例为2011DW大赛 3D组冠军作品：审判之神】
+（*Dominance War,简称DW，中文名称：战争优势，是由GameArtisans论坛倡导并组织的年度国际游戏业美术大赛。大赛于2005年开始举办，2011年为第四届所以简称DW4.）
+
+这些次世代引擎的模型，是由4层贴图来构成的，它们分别是：
+
+a.法线贴图，这是先用ZBRUSH软件雕刻出来的高精度模型，然后拓扑为低模，是将高模映射到低模上烘培出来的贴图目的是为了让模型在通常的游戏视角情况下，低模在引擎中也能达到高模的表现水准。
+
+b.颜色贴图，这个上一个里面讲的就是3D纯漫反射贴图，主要表现3D模型的本质颜色。但是由于引擎和硬件性能的提升，贴图尺寸（角色）也都提升到了1024X1024~2048X2048。
+
+c. 高光贴图，这个贴图是用来提升贴图质感的，叠加了高光贴图的模型，可以 在引擎中轻松模拟出不同材质的质感。
+
+d.自发光贴图，这个贴图是通过本身颜色发光，可以制作一些比如角色身上的灯笼，自带的火焰，或者发光的双眼等等，甚至为了体现角色皮肤的通透感偶尔也会用到，赛博朋克风格的一些机甲和装备的模型很常用。
+
+图：左上是颜色贴图，右上是法线贴图，左下是自发光贴图，右下是高光贴图
+
+![](https://picx.zhimg.com/f72ad8eda3c9089277ff7a881683c63c_r.jpg?source=2c26e567)
+
+但是，再高端的引擎也受硬件性能限制的，资源也不能随意浪费，模型离玩家镜头视角越远，引擎会自动给模型降面数，这个不是线性的，而是阶段性的，所以一般游戏中的模型不管是角色还是场景，都会做三套低模，LOD1, LOD2,LOD3,什么意思呢？
+
+举个例子：LOD1=4000三角面，LOD2=2000三角面，LOD3=1000三角面。
+
+高端的引擎不光是带来了模型质量的提升，还有其他方面的视觉表现的提升：
+
+a.比如粒子特效品质的提升，游戏特效师能通过引擎中的一些预设还有一些新接口来模拟出更逼真的游戏特效。
+
+b.流体的逼真程度，比如水流动的规律更加接近真实，水的反光效果也更写实。
+
+c.骨骼动作更加智能，很多游戏都在制作过程中运用动作捕捉，红外摄影机捕捉的动作可以实时同步显示在引擎当中。
+
+d.由于加入了一些物理运算，引擎能实现更逼真的爆炸破碎效果，还有模型和场景各种碰撞互动都格外的逼真。
+
+e.还有更高端的各种模拟真实大气效果，比如寒霜3引擎中椰树随风摇摆。更逼真的天空盒子效果，太阳从升起到落下，期间各个时间段不同的天光效果和天空盒子的贴图还有云层的变化都是平缓过渡的。
+
+f.主视角上的一些真实光效模拟，比如战地3中，摄影机转向一盏光源的时候，居然是模拟人类视网膜条状光衍射的效果，变成一道高斯模糊的放射状渐变光柱。而且摄影机从高亮的场景转向暗场景的时候，会模拟人眼瞳孔缩放的效果来调整画面，使画面的明暗度保持在玩家人眼舒服的度上。
+
+![](https://pic1.zhimg.com/25eb448f5fd896f27bdab6a103fa727b_r.jpg?source=2c26e567)
+
+![](https://picx.zhimg.com/fd356f2cc12871b627767f60eae8af1f_r.jpg?source=2c26e567)
+
+
+
+
+ps:这里就不多贴图了，没玩过的童鞋可以去玩战地3或者4体验一下，画面非常逼真。
+
+*文章初次编写时间为2014年6月，此时的次时代标准已经进入到PBR材质时代，比如UE4引擎，引擎材质增加很多基于现实物理规律的模拟效果，篇幅原因，本文不作太多描述。
+
+
+
+
+
+
+
+
+
+
+
+
+
+以上这4类，是从美术角度来概括引擎所表现出的视觉特性，这也是为了下一步**流程分工**。因为这是按照美术人员所擅长的领域划分。
+
+比如2D低像素游戏：把概念设计师分配去做设计，画出概念草图。下一步骤交给做UI的去抠像素素材，因为UI设计师受过的培训一般都跟低像素的界面和图标打交道，效率和精度会很高。概念设计师去抠这些细小的东西就有点杀鸡用斩牛刀的感觉，比较浪费。
+
+比如3D游戏：概念设计师画出原画之后，下一环节的美术人员包括【3D模型贴图，2DUI,3D骨骼绑定+骨骼动作，3D特效】从左到右，左边更偏艺术，右边更偏向技术。
+
+
+
+
+-------------------------------------------------------------------
+**关于玩法决定引擎的选用，其实还有很多比较灵活的特例：**
+
+
+
+
+
+
+
+
+
+
+1.比如NDS上的那3部恶魔城，虽然是传统的2D A-RPG玩法，但是由于应用了3D引擎，可以更好的实现华丽的美术效果，比如场景远景是3D建模，角色大幅度移动的时候远景空间透视会产生变化，这样会带来很强的视觉冲击力。还有近景的一些小物件，由于是用3D片面贴图做的，这样打碎时会对3D片进行切割，可以在很有限的资源使用情况下实现更加逼真的效果。还有就是一些占屏幕视角面积比较大的BOSS和怪，可以用3D建模来实现更复杂的动作变化，这要比2D引擎下去做序列帧动画更省资源。 【 这里用美术风格来概括NDS的恶魔城：3D引擎下的2D像素画面日式魔幻题材哥特系动漫画风】
+
+![](https://picx.zhimg.com/787134054c9cf573f8bf9399742ae47b_r.jpg?source=2c26e567)
+
+如图：左边的BOSS攻击动作是靠把头，前后手臂和躯体是用3D面片上绘制贴图来处理的，动作是靠缩放旋转和位移这些3D面片来实现的。而右边的角色的动作，则是用了2D序列帧来实现的。
+
+
+
+
+2.炉石传说，这么一个卡牌游戏，其实常规情况下2D引擎就够用了，但是为何暴雪要用这么占资源的3D引擎呢（炉石传说安装包足足有2.7G）？其实这就是为了追求画面表现极致，增强**沉浸感**。像炉石传说中那些卡牌逼真顺畅的移动动作，卡牌相互撞击的打击感，卡牌破碎时的动画效果，这些需要对卡牌进行透视变化，还得让牌对牌桌产生精准的投影，这就需要对卡牌进行建模来实现。还有一些卡牌攻击的复杂粒子特效和UI上很有层次感的交互体验，这也需要3D引擎的支持。这些效果如果想用2D引擎来实现，是非常难达到的。【炉石传说的美术风格应该概括为：3D纯漫反射贴图引擎下欧美魔幻题材卡通画风卡牌。这说的是整体的大风格，主要体现在UI上，如果细看的话，其实每张卡牌风格都不太一样，UI的规划是为了能把这些不同的细节风格给统一起来。】
+
+![](https://picx.zhimg.com/3947aceb4fb521b048d7dfaaa72b80b1_r.jpg?source=2c26e567)
+
+这里牌桌上的场景都是3D建模的，玩家点击牌桌四角的兽人建筑跟投石机还有飞空艇和闸门都会触发3D模型的一些动作，也出现一些特效。这是为了提高玩家对游戏的可控度，防止玩家在对手出牌时过于无聊。
+
+![](https://picx.zhimg.com/7f85428c6137c6a44a0a57826afedf64_r.jpg?source=2c26e567)
+
+
+
+
+这个3D建模做的卡牌箱子打开的动画是在刚进客户端开头出现的，很有代入感，给玩家一种真实坐在牌桌前对战的感觉，而且搭配上酒吧中熙熙攘攘的人声背景音，让这款游戏更具有**沉浸感**。现在炉石传说出了IOS版，没玩过的童鞋可以去体验一下。
+
+![](https://pic1.zhimg.com/b1b08a68f4ad00d758f947c2a9583ec5_r.jpg?source=2c26e567)
+
+这几张发光的牌，按钮，还有标题上的发光效果，是引擎内的粒子特效，这都是实时演算出来的光效，非常漂亮。如果用2D引擎去做，需要先用3D渲染成序列帧动画，这么一套序列帧贴图十分占用客户端空间。虽然通常制作卡牌类游戏都用2D引擎，但是要想做到如此精致好看，很难。
+
+
+
+
+--------------------------------------------------------------
+2014.06.23更新
+
+【**IV**】**游戏原画的创作手段**
+
+在游戏开发过程中，定好了整体的美术基调和选用引擎之后，我们要开始进一步的细致设计，把大的美术概念在定好的世界观和美术风格之下，细分出UI，角色原画，场景原画。然后根据原画制作出3D角色和3D场景，再进一步对3D模型进行骨骼绑定制作动作，还有加入特效，最终全部整理到游戏引擎当中。（这个步骤中，如果是2D游戏，则是画出原画草图之后，进一步根据原画草图制作成2D像素素材，然后放在引擎中调试效果。）这里就需要强调游戏原画的和宣传画的画法。
+
+**画法**这个对于卡牌游戏和游戏宣传画而言比较重要，而对于只承载于中间步骤的游戏原画而言，画法并不重要，不论是厚涂还是赛璐璐还是混合绘画,最终都要变成3D模型放在引擎中。
+
+下面举例游戏开发中几张常见的画法：
+
+1.**赛璐璐式平涂。**我们这里泛指以线条起稿，然后用大色块概括填色来进行表现的，这种画法比较注重写意的表现，整体风格也比较清新。这种画法日本比较流行，最常见的可以来这个网站[イラストコミュニケーションサービス[pixiv(ピクシブ)]](https://link.zhihu.com/?target=http%3A//www.pixiv.net/),这是日本最大的绘画业余爱好者SNS网站，每天都有海量美图发出来~
+
+![](https://picx.zhimg.com/d807418258fc7b655055b5848cad33a4_r.jpg?source=2c26e567)
+
+这张是纯赛璐璐平涂
+
+![](https://pica.zhimg.com/669fcf1ad1009c176f18f801ff9679df_r.jpg?source=2c26e567)
+
+这张是以赛璐璐画法为基础进一步细化增加光影质感的
+图：绘者—olivia830
+
+2.**厚涂。**这是用电脑CG绘画模拟油画式绘画，刻画和光影变化比较注重写实，起稿的时候多用单色或者纯色的色块来找型，笔触也像油画一样一层一层的覆盖逐渐细化。
+
+![](https://pic1.zhimg.com/db777099ad85bbde7fb5716bcfc51f57_r.jpg?source=2c26e567)
+
+图： 绘者—纹银
+
+
+
+
+3**.Matte Painting,混合绘画。**我们这里用的是国内概念设计师对叠材质画法的**俗称**，所指范围比百度百科里面写的略广。这种画法**泛指**一般以叠加真实照片和纹理材质为主要手法，然后辅以各种极具质感的笔刷进一步加工，其中也有堆砌拼贴3D模型。根据所需的用途，细化的程度也不同，有的风格非常粗犷能表达气氛和意境足以，最常见的就是各种影视前期概念和游戏前期概念绘画；有的则非常细腻，写实度也很高，用来做游戏远景的贴图或者电影镜头的远景。
+
+![](https://picx.zhimg.com/bf081f6cd508cacc82e396fcf4f3d065_r.jpg?source=2c26e567)
+
+![](https://picx.zhimg.com/62ae21b64c870a140eb210fce6a7842a_r.jpg?source=2c26e567)
+
+
+
+
+图：绘者—安德鲁·琼斯
+
+![](https://pica.zhimg.com/bcd41938ffb28568058f103ea34855a1_r.jpg?source=2c26e567)
+
+![](https://picx.zhimg.com/8adf1990ce33f15f13b7430575cec4a8_r.jpg?source=2c26e567)
+
+
+
+
+图：绘者—Dylan Cole
+
+这些画法只是一般的表达手段，**内容**才是关键。画法什么的没有绝对的，作为概念设计师，如果有需要的话，这些画法经常混合着用。
+
+
+
+
+
+
+
+
+
+
+---------------------------------
+【V】**关于卡通化造型**
+
+卡通风格是为了更加符合人类对视觉审美的规律对写实物体进行归纳夸张和简化。
+
+通过平面构成和立体构成的视觉设计语言，对现实中真实物体的高度几何化概括。各国各地都有各自的风格,随着时代的发展,卡通画的风格也不断变化。在全世界范围内比较好辨认的是日本的动漫风格和美式卡通风格。而且这些风格都是可以从历史上追溯出来的。
+
+
+
+
+**日系卡通化特征：**
+
+日本今天的动漫角色面部特征，其实是历经多代漫画家和动画人创作相互影响逐渐进化而来的。
+
+比较早期的日本漫画风格，比如手冢治虫，开创了比较早期的具有日本独特特点的卡通化风格，后来影响了很多日本老一代漫画家，比如永井豪（魔神Z)，安彦良和（高达），宫崎骏，大友克洋等等。这个时代的审美并没有今天我们所看到的日系动漫风格那么美型。但是却定下了日本动漫风格独特的审美基调，区别于欧美比较常见的迪士尼卡通风格。
+
+![](https://pic1.zhimg.com/acae52b91e0349417383e403d9e21abe_r.jpg?source=2c26e567)
+
+*图为手冢治虫 的名作阿童木（原子小金刚），圆滚滚的脸，夸张的大眼睛，为了增强层次感和突出各个角色特征和差异性，高度夸张归纳的角色体型。
+
+![](https://pic1.zhimg.com/cb4e2e817aeaf2bf5309f274185433a3_r.jpg?source=2c26e567)
+
+*图为大友克洋的电影《大都会》，仿照手冢治虫的角色画风。
+
+当然，很多日本 的游戏角色造型也是受过手冢治虫的影响，比如说洛克人系列。
+
+![](https://picx.zhimg.com/67273152dc5ad451d895b8bf45f3456e_r.jpg?source=2c26e567)
+
+![](https://picx.zhimg.com/724ec949b7e4a9c83badf1825fe864c0_r.jpg?source=2c26e567)
+
+![](https://picx.zhimg.com/bde52dabd1b67a6963a1ed6c7e2f533b_r.jpg?source=2c26e567)
+
+
+
+
+洛克人系列的角色对体型的概括，更多是按照关节玩具的思路去制作的，每个关节和躯体衔接部分的设定思路，都是为了能够完成复杂动作去设计的。并且装备有很高的可组合性和拓展性。
+
+在日本上个世纪80s90s，日本游戏行业刚刚起步并且RPG游戏遍地开花的时代。也涌现了大批的 概念设计师，其中有很多也同时是漫画家和动画人。很多今天大家看到的日本动漫【萌】【美型】的风格，就是他们创立的。相比于欧美粗犷张扬的卡通化造型，日本的动漫造型更加偏向于内涵审美。
+
+同时这些概念设计师们也构建了很多有日本独特风格的游戏世界观，在欧美DND世界观视觉风格的基础之上发展出了自己独特的日系魔幻风格。
+
+![](https://picx.zhimg.com/0b17ae1ba19414fb4da547278c7be5dc_r.jpg?source=2c26e567)
+
+![](https://pic1.zhimg.com/8732471f2b96b818353e17298d038c2c_r.jpg?source=2c26e567)
+
+
+
+
+*早期比较有代表性，能体现日系魔幻风格基调动画作品《罗德岛战记》，后期很多日本魔幻题材动画和漫画都受其影响，注意角色面部的卡通化概括准则。
+
+![](https://picx.zhimg.com/943a9470a1da0e1f07e2e61eaf75f4e2_r.jpg?source=2c26e567)
+
+![](https://picx.zhimg.com/69c0e736360dc2f5236cf6e3bdedb9a3_r.jpg?source=2c26e567)
+
+*最终幻想7CG中的3D化角色，用日本独有的审美方式对角色面部进行卡通几何化概括。
+
+
+
+
+如今日本动画漫画和游戏中比较随处可见的美型角色：
+
+![](https://picx.zhimg.com/f2d80025b05378f95ff4b9b9ca110219_r.jpg?source=2c26e567)
+
+
+
+
+![](https://picx.zhimg.com/8bf79e9853862670d41a3aeea47f0589_r.jpg?source=2c26e567)
+
+
+
+
+
+
+
+
+
+
+举有代表性的日本游戏概念设计师：
+
+野村哲也《最终幻想系列》《王国之心系列》
+
+![](https://pic1.zhimg.com/3ca4eb4c6bfc2a7e1f94d62e0b1c1718_r.jpg?source=2c26e567)
+
+
+
+
+![](https://pica.zhimg.com/bf59d494f6b82e9a250b04cfbf501017_r.jpg?source=2c26e567)
+
+
+
+
+吉田明彦《最终幻想战略版》系列 《皇家骑士团》系列
+
+![](https://picx.zhimg.com/3fdbef55b06e2b23959e47fcac7d87f9_r.jpg?source=2c26e567)
+
+![](https://picx.zhimg.com/44d9df8b161d3aec4baf9c3c808c6578_r.jpg?source=2c26e567)
+
+![](https://picx.zhimg.com/66d2f5e2645ce98616fe8f3346b12db9_r.jpg?source=2c26e567)
+
+
+
+
+
+
+
+
+
+
+
+
+
+岩崎美奈子《白发魔女》《伊苏》系列
+
+![](https://pic1.zhimg.com/90ced9d109f16ed47e2a0ba6595743cc_r.jpg?source=2c26e567)
+
+![](https://picx.zhimg.com/2f251a6e4e66b9588f98b2fbf4e20c52_r.jpg?source=2c26e567)
+
+
+
+
+天野喜孝 《最终幻想》
+
+![](https://picx.zhimg.com/0b977ffe1f10efae60ce8fcd0d28abac_r.jpg?source=2c26e567)
+
+![](https://picx.zhimg.com/34d17790305b0c589db6f3eb4fcabc28_r.jpg?source=2c26e567)
+
+![](https://picx.zhimg.com/e0af1ef3163546b25e92b5a4d1817822_r.jpg?source=2c26e567)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**美式卡通特征：**
+
+
+
+
+![](https://pic1.zhimg.com/dc388d49e1e89b8e24c1b14f11dd036b_r.jpg?source=2c26e567)
+
+
+
+
+相比日系风格，美式卡通的几何化更加夸张，对面部五官和肢体的比例夸张的幅度更大，显得更加张扬粗犷。这是为了通过外形来体现角色的性格，增加 辨识度，拉开和其他角色之间的差距。
+
+![](https://picx.zhimg.com/c1d2bc533864fc804e81a13a7e7d8e7e_r.jpg?source=2c26e567)
+
+
+
+
+![](https://picx.zhimg.com/9bbf3036af287015916ab672fa00c2c8_r.jpg?source=2c26e567)
+
+![](https://pic1.zhimg.com/fee5bbb63f12656769aa1d6be2d480d4_r.jpg?source=2c26e567)
+
+![](https://pic1.zhimg.com/472364215f488e6446a5bba3c3b6e94b_r.jpg?source=2c26e567)
+
+
+
+
+*图为暴雪 最新的游戏，守望先锋。  颠覆了以往FPS游戏体验，以往同类型的FPS游戏中角色差异都很很小，而守望先锋这款游戏则是把MOBA类型游戏的英雄概念引入到FPS游戏中，塑造不同类别的角色，并且加入技能系统。 在角色的造型上，追求高度的差异化。
+
+追溯美式卡通风格，历史非常悠久了，早年由迪士尼最先从动画上发扬光大，并且由UPA（美国联合制片公司）推广形成标准，这对以后欧美漫画，游戏概念设计产生了非常深远的影响，欧美大量的游戏都是基于这种几何化概括标准去表达角色特征。
+
+
+
+
+
+
+
+
+
+
+*关于UPA标准详情见这篇：[UPA：短命公司，可对动画的影响也许和迪士尼差不多](http://daily.zhihu.com/story/2270455)
+
+![](https://picx.zhimg.com/0b4c46d73dc78cabe2b010eb6f47d406_r.jpg?source=2c26e567)
+
+*图为迪士尼冰雪奇缘的原画
+
+![](https://pic1.zhimg.com/ce74a31dda52eccd60db7fa7efc34f86_r.jpg?source=2c26e567)
+
+*图中是标准的美式卡通化角色，面部轮廓和五官特征与日系卡通有明显差异。
+
+![](https://picx.zhimg.com/e0df63b88d0a85d160b82decd50e71bf_r.jpg?source=2c26e567)
+
+*暗黑血统2人设，高度几何化概括的躯体，夸张的肌肉表现。
+
+![](https://picx.zhimg.com/b83bba1356288003aeef960ae27cbbc9_r.jpg?source=2c26e567)
+
+![](https://picx.zhimg.com/540e00f1863c710eca51137d1267aee6_r.jpg?source=2c26e567)
+
+*暴雪的金子招牌IP魔兽世界，也是基于这种美式卡通基调进行美术表达的。
+
+![](https://pic1.zhimg.com/ac78a7212f84c2810fe333f0f3ea3d5b_r.jpg?source=2c26e567)
+
+*图为游戏 狂野星球，夸张的角色外剪影线条，各个职业特征非常明显。
+
+
+
+
+
+
+
+
+
+
+人类对于审美这件事的观察是整体的，分层级的。（详情请参考**格式塔心理学**。）从最大的轮廓层级到逐步内部、详细的层级，是有时间的。游戏动态画面的切换速度非常快，但是画面仍旧需要给玩家保持鲜明的区别和明确的印象，这就必须在最大的层级下最多的功夫，所以要求轮廓和大几何形的概括做到明确。 这也是很多游戏喜欢用卡通化概括美术表达的原因之一。极端夸张的卡通风格还有诸如：Q版，乐高，像素风格等等。
+
+
+
+
+
+
+
+-------------------------------------
+
+*****以上各种分类的**用词**经反复斟酌，很多俗称在游戏圈内通用，**按照多个维度分类**，而不是线性的123级 生硬 分类（按照级别分类不科学，因为行业内没有统一标准）。这样分类是为了方便 制作人 和 策划 与 美术制作人员 的**沟通**，方便在项目中对各种风格需求进行 形象并且**准确**的描述。
+
+
+
+
+-------------------------------------
+结语：
+
+美术风格和画面质量是对玩家产生影响最直观的因素之一，也是前期宣传和广告推广吸引玩家的重要要素。浅看美术风格很大程度影响了游戏3分钟留存，深看这是一款游戏世界观和情怀的表达，因为这其中蕴含着整款游戏深厚的**文化内涵**，这对于后期留住玩家，塑造玩家口碑十分重要。对游戏美术风格进行精耕细作和深入探索，这对于塑造IP，对游戏进行长线发展也是非常有价值的。
+
+但是很多从业者都把这一关键环节轻视成了只要花钱花时间就能得来的外皮，素材，资源。无视其内部的复杂联系。尽管花重金买了IP却不会合理套用正确的美术风格去包装。而且由于很多制作人和策划由于对亚文化理解的缺失，望着大量的市场调研数据却抓不住新兴游戏市场的流行趋势，抓不住年轻玩家的心理爆点。
+
+很多制作人和策划把游戏概念设计师笼统的当作流水线美工对待，把游戏美术工作者当作种在地里的庄稼，分配任务之后定时收上收成，缺乏策划和美术之间对游戏文化内涵的合理沟通，导致产出产品风格偏差和内容质量的妥协。
+
+以上这都是这些美术皮毛论者常常范的错误。
+
+所以，在对游戏美术的文化内涵、生产流程、制作手段有了全面和深入的认识之后，正视这一文化的内部联系，合理的与美术制作人员沟通，充分的发挥概念设计师的主观能动性，这样才能制作出质量更加精良、符合市场需求和大众审美的产品。
+
+-----------------------
+
+**本篇文章版权归本人所有，转载 请私信本人 申请授权 ，并注明地址和本人署名，严禁对文章内容进行篡改，以免误导新人。**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**PS：我反对张翼和孟德尔的答案，他们无视了这门文化内部复杂的关联，强行把问题简单化表面化了。  尤其是张翼的回答中，那些写实度标准，卡通化风格之间的地位，都应该是平行的，任何风格都是有其发展溯源和独特内涵的。张翼却自作聪明的按照自己臆想的标准，简单粗暴的升序分类，这是非常可笑的，而且行业内没有这种共通标准。**
+
+
+
+
+
+
+
+关于世界观与美术风格，请看这篇：
+
+[如何创造和设定一个架空世界？](https://www.zhihu.com/question/20583802/answer/95514209?from=profile_answer_card)
+
+关于如评判概念艺术作品请看这篇：
+
+[如何判断一张概念艺术作品画得好不好？](https://www.zhihu.com/question/37647771/answer/121548490)
+
+
+
+
+
+
+
+大家可以关注我的公众号，以后会逐渐把我讲课的教程和教学资源发布在这里。
+
+![](https://pica.zhimg.com/v2-5d83ca03eb89ec9b904116901d0ee945_r.jpg?source=2c26e567)
+
+请在微信搜索：硬核概设 或 HARDCORECA
+
+
+---
+
+# 如何设计一张高品位高水准海报？ 锦荣酱
+
+**Author:** 锦荣酱  
+**Bio:** あの星だけが未来を知っているのなら、空を見上げて手を伸ばす  
+**Avatar:** ![](https://pica.zhimg.com/v2-7d2f29299c97a707c2751dbfb118f566_l.jpg?source=0df5f383)  
+**Author URL:** https://www.zhihu.com/people/29a30381d3212fb7af649768a90bede3  
+**Published:** 2014.04.19 16:37:37  
+**Updated:** 2016.03.28 15:10:39  
+**Question:** https://www.zhihu.com/question/22332149  
+**Question Created:** 2013.12.21 16:24:35  
+**Question Updated:** 2014.07.04 12:30:08  
+**Votes:** 10495  
+**Comments:** 286  
+**Type:** answer  
+
+谢邀。
+
+回答这问题本来只是想说明一点，**就算不用所谓的高质量图片素材也可以营造出高品味的感觉**。
+
+留意这个题目好久了，但是到目前为止 2000+ 的关注 50+的回答，就是还没看到满意的答案，真是惨不忍睹啊…原来打算不再答题了，实在忍不住手贱一下。
+
+强烈赞同劳伦斯李的观点。一切用倒推法来回答本问题的都是耍流氓。别跟互联网昏析湿一个样好么，人家问的是怎么设计高品味的海报，你们一个个都拿快销房地产大拿的商业平面广告来分析怎么高品味，开玩笑呢，人家那本来就是一群专业搞平面广告的，就说那图片素材的质量、文案水平和 PS 功底，根本不是一个普通大学生能比的。好的平面广告我们平时还看得少么，要是看得多就能做的话，那做广告的早就要失业了。多留白、色彩要干净、字体要适应场景、文案尽量简洁……这些都只是 Design Principle（设计原则），只有理论上的指导意义而几乎不存在实际上可操作性。况且人家问的是怎么设计高品味的海报，不是要为什么这些海报会高品味，所以都给我好好回去审题再回答啊！
+
+接下来我将以一次设计校园海报的经历来讲述一种几乎不需要图片素材和只要很基本的 PS 功底就能做出「高品味」海报的方法。
+
+**注意，高品味的海报并不一定就是好看的海报，更不一定是具有传播力的海报，请明确这三者之间的差距。**
+
+首先明确设计需求，海报的主题是一个面对高中学生的大学专业交流沙龙，说白了就是请在读大学生给准备要高考的学生们介绍这个专业是读啥的，以后出来干嘛的，这一期的主题是心理学专业。
+
+根据需求，整理出最基本的文字素材
+
+- 活动名称：广雅 Path 高校专业交流沙龙
+- 主题：心理学
+- 文案：探索人类潜意识的神秘领域 洞察人类社会的奧秘
+- 时间：2014/3/28
+- 地点：新疆楼 电影放映厅
+
+然后确定整个海报的主调，想象一下，心理学感觉是比较严谨、严肃、专业的感觉，而且很有日港台 feel （这个只能说是个人感觉了，可能是因为我看到的心理学书籍基本都是日港台的），根据上述感觉可以大概确定背景颜色用接近黑色的灰色 [1]，并选用日港台风味比较重的衬线字体的小塚明朝 Pro [2]，由于背景颜色已经用了暗色系，所以字体颜色可以选亮一点的，那就用白色好了。
+
+所以，设定好海报的尺寸，然后就按照刚刚说的设定把文字素材都丢上去。（由于小塚明朝 Pro 对简体字库的兼容并不好，而且考虑到海报展示的地方是在广州，受香港文化的影响，绝大部分人对繁体字的识别完全没有困难，因此就用繁体了）
+
+![](https://pic1.zhimg.com/9ba57ec1d11cd202c78f1105d6ef99fe_r.jpg?source=2c26e567)
+
+
+
+
+然后，可以开始对文字进行排版了。
+
+首先，心理学是本期活动的主题，所以应该突出显示，字号改大，但是感觉横排三个大字有点呆，那就尝试一下竖排吧。其他没排版的文字先隐藏起来，排除干扰。
+
+![](https://picx.zhimg.com/0ca95ceefec8329941270bcc53237d67_r.jpg?source=2c26e567)
+
+
+
+
+然后就是文案了，两句话的文案虽然是很精简了，但是怎么摆都感觉怪怪的。
+
+![](https://pic1.zhimg.com/508a82bfc169c6df1d891e4658c6141a_r.jpg?source=2c26e567)
+
+
+
+
+试下把文案续写吧，看看效果会不会好点。这个文案有点过于严肃了，看起来一点吸引力一点亮点都没有，尽量往调皮的方向写多一两句。
+
+![](https://picx.zhimg.com/e2c8a0c170416df5141af29ac5d8b579_r.jpg?source=2c26e567)
+
+
+
+
+嗯，这样好多了。整体看上去看起来没有之前的单薄，文案还有点掉节操，有亮点才有看头嘛。
+
+然后就是活动的名称、活动时间和地点，这三样文字素材由于改动的空间比较少，本身文段长度也较短，所以就一起放上去了，围绕心理学三个大字包围起来排版。
+
+![](https://pic1.zhimg.com/b503a30fc289107e66d78153c24956b7_r.jpg?source=2c26e567)
+
+
+
+
+嗯，开始感觉到有点格调出来了。但是还是有两个问题：1. 活动主题中，几个英文字母的竖排简直难看到无法直视，而且可读性也很烂；2. 活动时间地点和上面的宣传文案没有分割，看上去都是一堆字，分不清是什么东西。
+
+![](https://picx.zhimg.com/dbe186f11d515ef18e983855cc676d83_r.jpg?source=2c26e567)
+
+
+
+
+对这两个问题的解决方案是：1. 把「Path」四个英文字母改成横排，打破了纯竖排的秩序感，给人一种错落有致的感觉，同时字体选用古典风味浓厚的衬线字体 Trajan Pro；2. 加了一条横线把活动时间地点和宣传文案分割开来。改进之后，整体感觉又好了一些，但是看久了就会觉得全文字好像有点单调，但是又不想特意添加多余的图片。看回最初的需求，感觉好像漏了邀请嘉宾的信息，嗯，这倒是可以尝试一下。
+
+![](https://pica.zhimg.com/9777ba219fb6c641aa8798a8fabe735b_r.jpg?source=2c26e567)
+
+
+
+
+在文字堆中添加了三位嘉宾的头像，切成圆形之后描边一圈 [3]，刚好与心理学三个大字对应，同时还能把上半部分成团的文字再一次分割。这样下来基本上所有的文字和图片素材都已经排版好了，接下来就可以抠一下细节。
+
+![](https://pic1.zhimg.com/2ade8fd44447971e14b862563ad0a5cc_r.jpg?source=2c26e567)
+
+
+
+
+文字多了以后，心理学三个大字反而就不突出了，所以改用了比较高的字重，让人一扫过去就能把注意力先放在心理学三个字上。活动地点前面加了一个三角形标记，顺便改动了一下格式。细节调整完了再看整体，这时候可以把海报缩小到一小块，感觉整个排版的位置有点偏了，运用传说中的黄金分割比例 [4]，重新调整了一下。
+
+![](https://picx.zhimg.com/f933645909b932ac535442ee6d2f7bd7_r.jpg?source=2c26e567)
+
+
+
+
+最终出来的效果是这样的 [5]：
+
+![](https://picx.zhimg.com/8f698d60232aff88f75844a2c5988035_r.jpg?source=2c26e567)
+
+
+
+
+RGB: #2a2a2a / #ffffff
+
+Font: 小塚明朝 Pro / Trajan Pro
+
+可能会有人说，但是这海报是横向的吧，如果我要做成竖向的呢？
+
+![](https://pic1.zhimg.com/011e2a6057bc769ff4471a63c9cabfca_r.jpg?source=2c26e567)
+
+RGB: #2a2a2a / #ffffff
+
+Font: 小塚明朝 Pro / Trajan Pro / Hiragino Sans GB W6 / Century Gothic
+
+这海报符不符合「高品味」的要求，这就让你们自己去判断了。但是我个人感觉而言看上去还是很舒服的，没有任何多余的素材，每一个文字每一张图片都是有价值有意义的，做到了素材上的最简化，白字黑底的搭配再加上小塚明朝 Pro，格调也足够高了。**而且更重要的是，整张海报下来，没用到任何复杂的 PS 功能，就算是 PS 零基础也可以轻松做出来。**
+
+**这就是排版的力量。**
+
+对于绝大部分的活动海报而言（商业平面广告除外），只要踏踏实实做好文字的排版，就算不用图片素材也一样能实现「高品味」的要求。当然，必须说明的是，学好排版并不是一朝一夕的事情，也不可能说看了我这个教程就能出师了，这是一个不断积累的过程，需要不断去看，不断地去临摹，在实践中总结一些规律。不过，令人沮丧的是，到现在为止，我还归纳不出「可以让排版变得高品味的通用方法」，但至少我知道有哪些「十分没有品味的排版方式」，只要避免这些糟糕的排版方式，不断地往高品味的方向尝试，错了就重来错了就重来，渐渐试错的次数会越来越少，排版的品味和感觉就是在这样不断的试错中锻炼起来的。
+
+考虑到一张海报的说服力可能有点不够，于是为了回答这个问题，我又自己拟定了两个需求用同样的方式做了两张海报。
+
+![](https://picx.zhimg.com/f1f6441194052e591aa7cfc230df6db5_r.jpg?source=2c26e567)
+
+RGB: #00a4e0 / #ffffff / #ff0000
+
+Font: 小塚明朝 Pro / 造字工房悦黑 / 造字工房尚黑 / Hiragino Sans GB W3
+
+![](https://pic1.zhimg.com/2b25325236c951b5e64cea66a5914f88_r.jpg?source=2c26e567)
+
+RGB: #853b21 / #582513 / #ffffff
+
+Font: 造字工房劲黑 / 造字工房力黑
+
+每张海报的排版方式都不同，文案也越来越精简（其实主要原因还是懒得想），但设计风格和原则是统一的：注重文字排版、与主题相符的色调搭配（原谅我对白字的偏爱）、适合主题的字体、去除所有多余的素材只保留有价值的文字和图片、不需要用到复杂的 PS 功能……至于，符不符合「高品味」的要求，还是留给你们自己判断吧。
+
+
+
+
+思考题：
+
+[1] 为什么不直接用黑色而是用灰度很高（接近黑色）的灰色？
+
+[2] 小塚明朝 Pro 这个字体有日港台风味的原因是什么？除了小塚明朝 Pro 以外还有哪些同样有日港台风味的字体？
+
+[3] 头像切成圆形并描边一圈这样做的理由是什么？为什么不可以直接放正方形的头像上去？
+
+[4] 对于这样的不规则文段块，应该用哪里作为标准点来调整文段块的位置？（中心？重心？）除了黄金分割以外还有其他常用的构图原则吗？
+
+[5] 为什么要在左下角加上这样的一个白色三角色块？
+
+
+
+
+***************************
+
+版权声明
+
+以上内容（除设计作品中的字体外）均为本人（知乎 ID：錦榮）原创，版权属于本人所有，未经本人授权，任何媒体、单位或个人不得以转载或其他方式演绎本答案的全部或部分内容。
+
+- 个人转载等非商业演绎行为：应在私信联系并得到本人明确授权后，在保留本人知乎 ID、本文链接及本声明全文的情况下进行转载；
+- 网络媒体、平面媒体或其他商业性质网站转载等商业演绎行为：应在私信联系与本人协商，在得到本人明确授权并支付相应稿费后，在保留本人知乎 ID 及本文链接的情况下进行转载；
+- 需要以其他方式使用本答案的，请通过私信与本人联系。
+- 如果看到这个声明还私自盗用转载本文的，哼，我是处女座的，我的律师也是处女座的，你懂的。
+
+
+---
+
+# 有哪些值得推荐的、适合做交互设计、视觉设计的朋友读的书，以及经常浏览的网站？ 戴源Travis
+
+**Author:** 戴源Travis  
+**Bio:** INVES Design  
+**Avatar:** ![](https://picx.zhimg.com/v2-a31bb4ccc2b317ef44ed26b87aea526e_l.jpg?source=0df5f383)  
+**Author URL:** https://www.zhihu.com/people/db42b6984770a3af15d15a13bde2b2ae  
+**Published:** 2011.05.21 02:06:26  
+**Updated:** 2011.05.21 02:06:26  
+**Question:** https://www.zhihu.com/question/19652509  
+**Question Created:** 2011.05.18 10:16:51  
+**Question Updated:** 2012.02.12 16:46:15  
+**Votes:** 248  
+**Comments:** 5  
+**Type:** answer  
+
+交互设计：《移动应用的设计与开发》，《Web信息架构》，《About Face3交互设计精髓》，我推荐这几本书，很全面也很实际，分别涵盖了移动应用/web/桌面客户端；
+
+视觉设计：《众妙之门：网站UI设计之道》，《设计中的视觉思维》，纯视觉的书很难找到，这两本可以和现实做些结合，视觉很多还是靠多看些经典的界面设计，和关注下好的设计师们的作品；
+
+另外推荐可以看看《用户体验要素》，很基本的用户体验入门书籍，有些基本准则性的东西，但是主要还是结合大量的实际经验，《设计沟通十器》这个也很强烈的推荐看一看，主要是讲实际方案的流程和具体实施的物料准备；
+
+视觉：
+
+[http://dribbble.com/](https://link.zhihu.com/?target=http%3A//dribbble.com/)
+
+[http://www.behance.net/](https://link.zhihu.com/?target=http%3A//www.behance.net/)
+
+[http://activeden.net/](https://link.zhihu.com/?target=http%3A//activeden.net/)
+
+[http://lovedsgn.com/](https://link.zhihu.com/?target=http%3A//lovedsgn.com/)
+
+[http://bigcartel.com/](https://link.zhihu.com/?target=http%3A//bigcartel.com/)
+
+[http://forrst.com/snaps](https://link.zhihu.com/?target=http%3A//forrst.com/snaps)
+
+[http://onotakehiko.com/](https://link.zhihu.com/?target=http%3A//onotakehiko.com/)
+
+[http://www.bitbytebit.co.uk/](https://link.zhihu.com/?target=http%3A//www.bitbytebit.co.uk/)
+
+[http://www.f-i.com/](https://link.zhihu.com/?target=http%3A//www.f-i.com/)
+
+[http://www.fubiz.net/](https://link.zhihu.com/?target=http%3A//www.fubiz.net/)
+
+[http://www.thefwa.com/](https://link.zhihu.com/?target=http%3A//www.thefwa.com/)
+
+[http://www.thebestdesigns.com/](https://link.zhihu.com/?target=http%3A//www.thebestdesigns.com/)
+
+[http://webdesignledger.com/](https://link.zhihu.com/?target=http%3A//webdesignledger.com/)
+
+图片素材：（因为没有很多条件出去到处采风，有时候看相片也能找到很多的灵感）
+
+[http://pinterest.com/](https://link.zhihu.com/?target=http%3A//pinterest.com/)
+
+[http://www.gettyimages.cn/](https://link.zhihu.com/?target=http%3A//www.gettyimages.cn/)
+
+[http://www.flickr.com/](https://link.zhihu.com/?target=http%3A//www.flickr.com/)
+
+图表：（有很多设计成各式各样的图表，可以美观你文档里的图表）
+
+[http://www.tuyansuo.com/](https://link.zhihu.com/?target=http%3A//www.tuyansuo.com/)
+
+iPhone界面设计指南
+
+[http://developer.apple.com/library/ios/#documentation/userexperience/conceptual/mobilehig/Introduction/Introduction.html](https://link.zhihu.com/?target=http%3A//developer.apple.com/library/ios/%23documentation/userexperience/conceptual/mobilehig/Introduction/Introduction.html)
+
+iPad界面设计指南
+
+[http://www.hung-truong.com/blog/wp-content/uploads/2010/06/iPadHIG.pdf](https://link.zhihu.com/?target=http%3A//www.hung-truong.com/blog/wp-content/uploads/2010/06/iPadHIG.pdf)
+
+Android界面设计指南
+
+[http://developer.android.com/guide/practices/ui_guideline](https://link.zhihu.com/?target=http%3A//developer.android.com/guide/practices/ui_guideline)
+
+
+---
+
+# 用户体验设计中有哪些针对「等待」的设计的好例子？ 孟爽paula
+
+**Author:** 孟爽paula  
+**Bio:** 问与答都是为了更好的了解自己。  
+**Avatar:** ![](https://picx.zhimg.com/cc51008dc_l.jpg?source=0df5f383)  
+**Author URL:** https://www.zhihu.com/people/025fdc0c9f1d8443c1fb16e15da02672  
+**Published:** 2014.01.07 00:21:33  
+**Updated:** 2014.01.07 08:42:35  
+**Question:** https://www.zhihu.com/question/20064203  
+**Question Created:** 2012.02.14 11:59:31  
+**Question Updated:** 2014.05.04 10:11:33  
+**Votes:** 827  
+**Comments:** 35  
+**Type:** answer  
+
+人机交互中的等待，简单可以看做以下过程：
+
+![](https://pic1.zhimg.com/73604ca0583a975bfc53fa232b05db83_r.jpg?source=2c26e567)
+
+我们的设计目标，是尽可能减少用户**感知到**的等待时间。我能想到的，有如下几种方式：
+
+**1. “欺骗”用户，隐藏等待**
+
+例如， 微信和Path分享图片，点击“发送”，图片立即出现在时间线上。实际上并未上传到服务器。用户直接收到“发送成功”的视觉反馈，而上传的过程被隐藏了。涉及状态切换的按钮，比如“喜爱”、“收藏”，一般会先给用户一个操作成功的视觉反馈，无需等待服务器返回“操作成功”的实际结果。
+
+这样的好处是，大多数情况下用户不需要焦虑等待内容上传完毕。坏处是，偶尔网络连接不好，用户的获得反馈和实际情况不一致。
+
+示意图如下：
+
+![](https://picx.zhimg.com/d401d6baeb747b479c784f35c3bd8924_r.jpg?source=2c26e567)
+
+**2. “欺骗”用户，缩减等待**
+
+这种方式我只想到一个案例，就是大家耳熟能详的 Instagram 提前上传策略(
+
+[Secrets to Lightning Fast Mobile Design // Speaker Deck](https://link.zhihu.com/?target=https%3A//speakerdeck.com/mikeyk/secrets-to-lightning-fast-mobile-design)
+
+)：
+
+![](https://pic1.zhimg.com/e932ff45ed1bad16a64ca57383b06490_r.jpg?source=2c26e567)
+
+示意图如下：
+
+![](https://pic1.zhimg.com/b2f3a7ca617c7e8ee5e947f21a263553_r.jpg?source=2c26e567)
+
+**3. 将模态的等待，转化为非模态的等待**
+
+Weico 客户端有一个非常贴心的特性。当用户点击一个网页或视频链接时，用户不会被锁定在一个模态的加载状态，链接内容会以小窗的形式在左下角不影响阅读的区域进行非模态加载。用户可以继续浏览微博时间线，直到内容加载完成。令人焦虑的等待时间被用户的持续浏览消解了。
+
+示意图如下：
+
+![](https://pica.zhimg.com/63324b338e90468c007f0dd527c3c498_r.jpg?source=2c26e567)
+
+**4. 以上三种都是通过对流程的设计来减少或化解实际等待时间。而在交互设计中最常使用的手法，应该是通过不断给予用户当前状态反馈，从而缩减感知到的等待时间，即过场、加载动画等。**
+
+这是一个蛮大的话题，以个人能力无法展开阐述。有兴趣的同学可以去玩一下这个东东：
+
+[http://jsfiddle.net/gUkgX/1/embedded/result/](https://link.zhihu.com/?target=http%3A//jsfiddle.net/gUkgX/1/embedded/result/)
+
+尝试估算每种按钮给出结果的时间，你有什么体验？
+
+大概你已经猜到了，每个按钮的给出结果的时间都是10s。但是由于反馈的形式不同，人们感知到的时间也各不相同。以此为启发，再根据实际情况的限制和使用场景，我们可以设计出不同形态的的滚动条、旋转菊花甚至弹幕和小游戏，来降低被感知的等待时间。
+
+
+---
+
+# 一名游戏原画设计师的日常工作、闲暇状态是怎样的？收入怎样？ 来须苍真
+
+**Author:** 来须苍真  
+**Bio:** ConceptArt,GameDesign,世界观构架师。  
+**Avatar:** ![](https://pic1.zhimg.com/86691e2e136808f8c1b56dfb62a471b8_l.jpg?source=0df5f383)  
+**Author URL:** https://www.zhihu.com/people/e9516dbf455ec535ff61c9395a49c4da  
+**Published:** 2014.06.30 21:14:57  
+**Updated:** 2019.04.16 18:08:57  
+**Question:** https://www.zhihu.com/question/24315597  
+**Question Created:** 2014.06.29 16:54:48  
+**Question Updated:** 2014.06.29 16:54:48  
+**Votes:** 2325  
+**Comments:** 179  
+**Type:** answer  
+
+本来想等圈内大牛们过来答完我再来的。
+但是看了这些半瓶子货和行业外人士的各种误导，我实在看不下去了。
+
+**我认为，作为一个原画设计师，应该有最基本的职业操守，那就是正确的引导新人，绝不能轻易误导。**我年轻的时候也是满怀着希望和梦想来到这个行业的，刚入行也绕了很多弯路，但是很感激我之前的一些前辈对我的指引。
+
+
+**【I】原画设计师的优势：**
+原画师是一个非常好的职业，退能守，进能攻。
+就业范围也很广：
+1.最常见的是游戏公司，场景原画，角色原画，宣传原画等等，如果能进入国内1,2线游戏公司，不管是端游手游还是页游，收入都很稳定，项目收成好的话会有项目奖金。而且根据个人水平，如果你足够努力的话，升薪会非常快。在游戏公司工作不光要提升个人绘画能力，还要有更好的沟通交流能力，要有全局意识，这样才能在项目中更好的发挥作用。如果个人意识比较好，升职也很快。通常是初级设计师-中级设计师-高级设计师-组长-主美（主笔主创什么的）-艺术总监--如果懂得策划又有技术意识能玩转引擎，成为制作人也是可能的。
+
+2.外包公司，根据个人能力，多劳多得，少劳少得，全看绩效，工作比较苦逼，但是由于压力大，提升也快，但是也得分地方，如果长期蹲在小工作室，接触的项目单子也都很低级，容易被埋没。
+
+3.自由原画师，自己在家接外包，有稳定的各种外单来源，长期与各种外包编辑打交道，除了游戏原画，卡牌，宣传海报，同人绘本等等，能力高的还会接影视概念等等。但是要求个人自控能力很强，不然不会合理安排时间，更不能按时完成工作。而且个人格局要广阔，要经常跟周围的画手沟通交流，不然容易导致水平停滞不前。
+
+4.开班教学。当水平和能力足够高的时候，很多高手和大师会自己开班或者加盟其他教育机构成为老师，他们历经商业锤炼，有很高的职业素质和个人修养（大多数都远远超过国内的大学）把自己毕生所学传授出去，和后辈们分享个人经验和人生感悟。
+
+5.影视概念。这种一般是跟剧组，开机之前会根据各种导演的要求画分镜头或者3D前期概念图。对于这里的商业运作我也只是了解点皮毛，只是周围有朋友在从事这个，自己也只是接过外包单子。希望有业内人士帮我补上这段说明。
+
+6.动画公司的概念设计师。这里也分2D跟3D，不太了解。
+
+
+**【II】原画设计师的核心竞争力。**
+创造力，艺术审美，设计师思维方式，转职方便。
+1.原画师最重要的应该是创造力，画画只是内心想法的表达工具。关于概念设计这一学科，它不是单一学科，而是融合了绘画，影视，文学，建筑，宗教，哲学等等等一大串学科的混合学科，需要有复合知识面，各个学科涉猎广泛的概念设计师来主导这一流程。很多人觉得自己原创能力不足，是因为平日对各方面知识积累的过少。很多国内外概念设计大师（不论从事游戏，影视，还是插画这些）他们的知识都很渊博，涉猎领域也很广。
+
+2.但是很多人由于个人水平问题，审美不足或者是美术功底不足，所以只能沦为最底层的流水线画师，在小公司做一些抄袭或者修图工作，工资低，职业发展没前途。美术功底决定了原画设计师的职业下限，而审美则决定了上限。
+
+3.设计师思维这个，我用对比和举例来说明
+设计师思维是以审美角度出发，对于游戏品开发而言，注重打磨细节，交互性，文化内涵，更注重创新。工程师思维是基于各种市场数据，把流程本身当做工作，流水线式生产，对各种市场需求喜欢套用公式和现成的经验，比较抵制感性的创新。（这里可以参照老罗对他开发锤子手机经验，还有乔布斯当年开发苹果时候的认识）
+
+4.通用性。作为有良好美术基础和审美，拥有广博知识面的设计师而言，不光是精通本行业的设计，其他设计行业也会有所涉猎。游戏公司的主美可以除了画原画，还能画UI和做3D模型。很多画影视概念的还能自己画漫画。总之，把绘画作为艺术追求，本身可以是无止境的，越往上走你的路就越宽，把创造美作为实现人生价值来追求，那将是无比幸福的。
+
+**【III】收入**
+我们不太喜欢谈这个，而且行业发展趋势和变化也很快，我又不是大师，对这个上限没什么了解，由于入行年头不长，自己收入也不是很高。但是我可以跟你说说行业的下限。这也是我周围认识的原画师们的工资：
+1线城市1线公司原画刚入职的初级原画师3500-7000  1线城市2线公司3000-5000
+2线城市1线公司原画刚入职的初级原画师3500-7000 2线城市其他各种公司800-4000
+其他地方没见识过。可能会有很低很坑爹白干活不给钱的，只是听说过。
+
+（2014年报价）
+
+
+**【IV】**平日生活
+追求艺术的人当然也会有很多艺术的爱好，比如摄影，大学期间就经常帮朋友拍COSPLAY，现在比较忙，偶尔也会拍拍风景，然后洗出来做成照片墙，很有成就感。其他的比如看电影，旅游，玩游戏，跟朋友出去吃吃喝喝，跟ACG圈子里的朋友去KTV唱宅歌，去逛漫展，跟画友们相互签绘，由于游戏原画这个工作工资比较稳定，自己闲下来的时候也能接些外包单子，所以不太缺钱，打算等攒够钱了带着妹子参加24格的旅游团去日本看看。富有富的玩法，穷也有穷的玩法，刚毕业缺钱的时候也经常跟朋友一起压马路聊天聊人生吃街边烤串。总之，生活是多姿多彩的，乐趣是无穷的~**这个跟什么职业没关系，关键在于你是否热爱生活~**
+
+**【V】关于加班**
+游戏公司工作，的确很辛苦，当然，一分耕耘一分收获。很多公司的工资都是按照绩效算的，当项目盈利发奖金的时候，也会按照绩效来发奖金。
+
+很多新人刚入职的时候肯定会有很多不适应，对公司流程的不了解或者对工作本身觉得有难度，这些都是需要自己逐渐克服的。但是很多人加班其实并不是因为项目忙不过来，而是因为自己能力不过关，或者工作态度不够认真导致时间拖延，这就需要自己去调整好心态， 好的心态会带来好的职业前程。
+
+也有个别情况是因为工作中同事之间协作出了问题，这就需要相互沟通理解，不能太自我，要有大局观念，想想自己能给团队带来什么样的价值，别人需要帮助的时候要帮一帮，有机会多发挥自己的能力才是最重要的，不能埋头苦干只管自己的。
+
+还有就是领导安排工作出了问题所导致的加班，领导也是人，是人就难免出错，要彼此宽容。大家都是在同一个团队中，要和睦共处，有问题针对问题本身进行解决，不要积累个人恩怨，对自己和对别人都没有好处。要想快速成长，就要不断的反省，拓宽自己的格局。
+
+**【VI】个人对新人的建议**
+1.视野非常重要。
+多去看大师作品，多去跟行业内的人们交流，有时间可以去自己感兴趣的公司参观一下，了解一下游戏行业的制作流程，看看自己适合做哪一项工作。
+
+2.勤奋不间断的练习。
+这个非常重要，我也不用多说，各种励志的例子还有练习方法什么的，知乎上这方面的答案有一大堆，就不唠叨了。
+
+3.找准自己的努力方向。
+既然选择了做原画设计师，就早点给自己制定目标。要想去哪家公司，先去了解自己喜好的公司他们的美术风格，针对 他们的项目风格进行练习，多积累作品然后去投简历。
+
+4.坚持不懈。
+总会有挫折的，我也见过很多同事干不下去转行的。如果这里有你的梦想，在面临选择的时候请问问自己，你想要的到底是什么。
+
+5.遇到挫折和失败
+能力水平一般的同学，尤其是觉得在大学没有学到东西的，请多花时间在工作中充实自己，万万不可自暴自弃继续浪费时间。如果经济和时间充裕，可以找渠道继续进修一下自己的专业，把武器磨锋利了再出来杀敌，任何时候去学习都不算晚。
+千万别轻易被这个社会愚弄了。行走江湖多结交有思想有见解的人，早日形成自己正确的价值观和事业追求，人要有理想才活得精彩。
+
+
+------------------------------
+[@Lea Liu](https://www.zhihu.com/people/858e9c2c477844f0abf5faee3d232690)[@程御迦](https://www.zhihu.com/people/2b75b5a1ede6a9be516724269afbf6e0)来看看我说的严谨不，有BUG的话，请给我些指点~~~多谢了~~
+------------------------------
+以后慢慢更
+
+顺便推个文章，也是我写的，关于游戏美术风格分类的，里面长篇干货，针对于游戏美术的。
+
+
+[对游戏来说，如何归纳和分类美术风格比较合理？](http://www.zhihu.com/question/22530411/answer/26627595)
+
+大家可以关注我的公众号，以后会逐渐把我讲课的教程和教学资源发布在这里。
+
+![](https://pic1.zhimg.com/v2-5d83ca03eb89ec9b904116901d0ee945_r.jpg?source=2c26e567)
+
+请在微信搜索：硬核概设 或 HARDCORECA
+
+
+---
+
+# 为什么创作一话漫画要这么久 ？ 朱小洛
+
+**Author:** 朱小洛  
+**Bio:** 室内攀岩爱好者/绘画进阶中/金融民工  
+**Avatar:** ![](https://picx.zhimg.com/v2-5d00f996cc671863a6fb9603c09cd7b8_l.jpg?source=0df5f383)  
+**Author URL:** https://www.zhihu.com/people/b49134d1b334bcf0befdce324732d5bd  
+**Published:** 2014.07.02 00:19:46  
+**Updated:** 2015.12.03 17:11:22  
+**Question:** https://www.zhihu.com/question/24320012  
+**Question Created:** 2014.06.30 00:13:19  
+**Question Updated:** 2014.07.14 17:04:30  
+**Votes:** 1524  
+**Comments:** 150  
+**Type:** answer  
+
+**因为画漫画就是一项费时费力的活儿！！**
+
+**多图预警**
+
+**虽然觉得不太可能，但还是要声明一下，咳咳，版权所有，别转载，给个链接就好……还有，莫抄我的画= = 嫌我啰嗦请拉到最后看总结。**
+
+渣渣愉快地滚过来回答这个问题了！！虽然感觉之后肯定会出现各种大触，但是也想分享一下我有限的经验……求不鄙视QAQ
+
+本来，本人画技有限，根本没有想过要画漫画……直到……直到我去了台湾做交流生，然后作为企业管理系的学生，被同宿舍的传媒系同学拖去参加了一个漫画课，入了一个大坑……
+
+我们组就我一个会画画的我会说吗！！ಥ_ಥ
+
+签了契（ming）约（zi）才知道最后作业需要画一篇短篇漫画我会说吗！！ಥ_ಥ
+
+整个课其实是台湾政府想要扶持台湾文创而搞的，但是学生中只有一个台湾人，剩下的都是大陆和马来西亚的小伙伴我会说吗！！ಥ_ಥ
+
+好了吐槽完毕，切入正题…………
+
+在上完几节课之后（有碰到游素兰老师实在是太开心了XD），我们迎来了我们的期末作业，每组上交一篇短漫。由于怕页数太少（最后要成书），所以还有个人可以画一些短漫。最后，由于我白羊座的热血和对漫画热爱，拍胸肌（咦？）说自己可以完成一篇小组漫画加上一篇个人漫画，真是no zuo no die！！
+
+上面说的用针管笔、G笔之类的作画什么的，我只能说图样图森破~咱们素兰姐姐都是用电脑作画的！现在数码绘的越来越普遍了……你只需要一块数位板，一个号电脑，然后软件，即可！！我以前画画用的PS和sai，画完漫画以后开始用clip并且变得超级喜欢clip！简直太好用了！！QAQ特别是用来画漫画，就是贵了点……唔，不过中国嘛，你懂的……
+
+clip有自带的漫画框格、有限的对话框、排线、素材等等，很多都可以自己下，自己做，不过我不是特别专业（我的专业是工商管理啊ಥ_ಥ），所以没有研究很透彻，好歹是完成了最后的东西，不过要在这条道上走下去的话，还有很多东西可以研究呢……比如说，Zbrush、clip studio action之类的……
+
+在会画画的前提下，**首先，你要有一个故事**……
+
+很多人应该会觉得，啊，这有什么难的！谁没有故事啊！
+
+问题是……我就在故事这一坎儿被困住了好久，以前写小说也是，写着写着就没了……
+
+每个人心理都会有一个故事，但……这个故事完整吗？这个故事有起承转合吗？这个故事有意义吗？这个故事别人会喜欢吗？这个故事精彩吗？这个故事逻辑通吗？这个故事你写得下来吗？**这个故事你能转成文字脚本吗**？这个故事有必要画成漫画吗？……
+
+等等等等
+
+在当时小组作业的时候，我们先是花了两个星期确定了主题，早餐店←是的没错早餐店，我真的好想吐槽这个好吗= = 接着，花了一个星期讨论出了我们小组故事的框架，又花了N个星期写出了这个故事的文字脚本。
+
+到此为止，终于有一个不怎么完美但好歹是能拿出来看的故事了！！可喜可贺可喜可贺……
+
+但问题是，写出完整故事的那个妹子是个学传媒的小清新，她写的不是脚本啊！是故事啊！
+
+如下：
+
+![](https://pica.zhimg.com/28b092c2474a34118ef0325b1550117b_r.jpg?source=2c26e567)
+
+而且，拖延症大家都懂，这个妹子是拖到最后然后在南投旅游的时候在宾馆里写的故事（抱歉我实在无法用脚本来形容），然后照片传给我的……T_T
+
+Whatever~好歹我们有故事了呀~
+
+【这个时候离最开始说要画漫画，已经过去了三个星期。】
+
+**然后，做角色设定**……由于本人水平相当有限，所以感觉非常蛋疼。之前我就有关注过，
+
+> [漫画家怎么保证画出的某个人的面庞都一样？ 漫画家如何让读者清楚地辨别出同一个人物？](http://www.zhihu.com/question/24250414)
+
+这个问题，当时这个问题真的困扰很久……于是，too naive的我画出了这样的人设……
+
+![](https://picx.zhimg.com/3066ef7c0f0f0b9b7cc14441e6adbacc_r.jpg?source=2c26e567)
+
+然后最后变成了这样的
+
+![](https://picx.zhimg.com/97d04b7fe5ab7a51293af909f89e9fd9_r.jpg?source=2c26e567)
+
+你们造我这个渣渣为了画这些就花了多少心血吗……虽然很多地方都有偷懒，还是画了好久好久好久好久……
+
+最初的那张人设是手绘的，最后是板绘，关于手绘和板绘其实也有很多槽点的，大家可以去看这个问题下
+
+[赵丹霖](http://www.zhihu.com/people/zhao-dan-lin)
+
+的回答，感觉真是说道心坎上了。
+
+> [应如何解决绘画最终效果没有过程好的问题？](http://www.zhihu.com/question/24158275)
+
+不过！万事开头难嘛！不怕，反正我们已经有了人设了！
+
+ps.手绘和板绘的感觉其实相当不一样，效果也能有很多不同……本人虽然喜欢手绘，但是无奈资源有限，只能转投板绘的怀抱……
+
+【这个时候离最开始说要画漫画，已经过去了五个星期。】
+
+**接着，我们来画分镜草稿……**
+
+当然之前你先需要认识**何为出血**、确定你是**左翻页还是右翻页**、空白版型（如下）、文字用何种字体……之类的
+
+![](https://pic1.zhimg.com/9862987ac9408e9ceaa497b298394f61_r.jpg?source=2c26e567)
+
+其实我以前一直觉得渣渣是不需要分镜草稿的……因为没有编辑！那就没有人会需要看你的草稿然后说过不过啊！
+
+但是既然题主问的是“一话”，那么想必是指成熟的商业漫画。其实每个人画分镜草稿的风格也不一样的，上可达素兰老师和富奸（咦），我的意思是每一张分镜草稿都可以直接拿去出版……
+
+下可达我【捂脸】，就是分镜是什么狗屎啊！在画的时候简直随意改动……不过好歹老师说，这样也是可以的=。=
+
+![](https://pic1.zhimg.com/99414f254af8a075d92310b8018631ef_r.jpg?source=2c26e567)
+
+好了，我已经无法直视了_(:з」∠)_
+
+不过……不过好歹，我们有分镜草稿了啊！我们知道框要怎么摆，人物的正确姿势是如何，有什么景需要取……恩！不再是对着空白的纸发呆和不知所措，这又是一大进步！！！
+
+ps. 职业的漫画师在这一步需要将分镜草稿给编辑看，通过以后再继续往下画，如果有对于分镜的修改意见，那修改起来也比较省力~
+
+【这个时候离最开始说要画漫画，已经过去了七个星期。】
+
+ok，现在我们终于可以**开始画漫画**了！
+
+这里可以分成几个点说
+
+1、透视
+
+2、背景
+
+3、人物
+
+4、细节
+
+我们**先来说透视**。其实透视可以放在背景里说，但是我不得不单独拎出来，因为对于没有美术基础的我来说透视实在是……
+
+太tm恶心了！！
+
+首先，因为想要表现比较原汁原味的台湾风情，所以，我们需要取景。但是！又由于学业繁忙，队友偷懒等奇形怪状的原因，最终我选择了google map挑了个街景，你们感受一下↓
+
+![](https://pica.zhimg.com/155d539c193adec5ca7ecccb183fa99a_r.jpg?source=2c26e567)
+
+有没有觉得哪里不对？
+
+实际上，因为技术有限，所以虽然看上去是没错的，但是这个透视其实是错误的啊！因为google不可能把每个方位的照片都放上去，所以一个地点不同角度是拉伸同一张照片而已，这就造成我画着画着发现，咦，为什么透视点有点不对？最后半参照半思考终于是画出了景……
+
+![](https://picx.zhimg.com/d4fd2da96e5a1248c67bfafd1153ca87_r.jpg?source=2c26e567)
+
+但其实整个透视是这样的
+
+![](https://picx.zhimg.com/d988293fad2fd51c53763dcff9debcb0_r.jpg?source=2c26e567)
+
+能感觉到有多蛋疼了吗？
+
+ps. 科普一下，什么是透视？我百度了一下透视的意思贴在这里：
+
+绘画理论术语。“透视”（perspective）一词原于拉丁文“perspclre”（看透），指在平面或曲面上描绘物体的空间关系的方法或技术。
+
+最初研究透视是采取通过一块透明的平面去看景物的方法。将所见景物准确描画在这块平面上，即成该景物的透视图。后遂将在平面上根据一定原理，用线条来显示物体的空间位置、轮廓和投影的科学称为透视学。
+
+在画者和被画物体之间假想一面玻璃，固定住眼睛的位置（用一只眼睛看），连接物体的关键点与眼睛形成视线，再相交于假想的玻璃，在玻璃上呈现的各个点的位置就是要画的三维物体在二维平面上的点的位置。这是西方古典绘画透视学的应用方法。
+
+狭义透视学特指14世纪逐步确立的描绘物体，再现空间的线性透视和其他科学透视的方法。现代则由于对人的视知觉的研究，拓展了透视学的范畴、内容。广义透视学可指各种空间表现的方法。
+
+可能这样说有点深奥，那就这样理解——如果画的东西透视不正确，那么看的人就会觉得别扭，觉得不正常，不对劲，有问题。也就是说，**为了让图看起来是正常的**、**正确的**，所以画师需要注意好透视，同样的，也需要注意好人体的结构。
+
+我展示的透视是三点透视，还有两点、一点的透视，就不细说了，因为评论区有人不太明白，所以特地科普说了一下。
+
+**关于背景。**
+
+关于背景也是一件非常蛋疼的事情！有这种感觉的渣渣请帮我点个赞，谢谢。
+
+因为一般业余的人员画画的时候，就都画人物啊，更多的就画个脸…恩，好美腻！…但加上手、脚脖子之后就变成异型啊有木有！！所以说，各位还是too young too naive，多练吧，渣渣们……
+
+这张的背景真是画得我心力交瘁……你们感受一下……
+
+![](https://pic1.zhimg.com/9362cafb4ec984a9564c7aa0008f111a_r.jpg?source=2c26e567)
+
+更别说那种大触们画出的那些细腻背景了！！无论是板绘和笔绘，**作者们为了还原给读者最真实的场景，给读者最棒的阅读体会，都是倾注了大量的心血的。**像我这种不龟毛的星座也会变得龟毛起来啊！而且我觉得最坑爹的在于，作者画了好久好久的东西，读者很多时候一下子就略过了……略过了……画了一个星期的东西，一分钟就被看完了，想想真是心酸……ಥ_ಥ
+
+所以说，请支持正版吧。
+
+继续，我们**画人物**。
+
+画人物可能是（我）最开心的事情了，但·是~！
+
+要保持脸都一样啊，要保证结构正确啊，人物不能太僵硬啊，微妙的表情要怎么画啊，衣服要怎么设计……
+
+哭瞎了
+
+因为基础不扎实，所以有的时候不得不花很久的时间去调整3D模型来让其摆出自己想要的姿势。
+
+（CLIP会自带3D模型）
+
+![](https://picx.zhimg.com/9c1585b5204139a6b905a511c64ecafb_r.jpg?source=2c26e567)
+
+或者是靠拍照来偷懒……
+
+最后，**增减、修改细节**……比如说
+
+男主的手上有带戒指，可是我忘记了……画完才想起来要添上戒指，于是从头到尾找了一遍有右手的都给添上。不过最后由于赶稿、图层混乱之类的原因，还是漏掉了好几个戒指没补上……
+
+写到这里我已经是身心俱疲了，而且我也忘记了已经离最开始说要画漫画，已经过去了几个星期？
+
+因为当时我期末考试了……
+
+然后我的战线一直拖到回到大陆，直到一月份被催稿催得实在是太厉害了才一口气画完了漫画。
+
+人啊，就是要被逼的。
+
+你以为这就结束了？No no no，因为还有个步骤，叫做，**贴网点**！
+
+其实也算是做效果，不过非专业出生，有的时候画着画着就顺便把效果都做完了，最后也就差点网点没贴了……
+
+关于这个我觉得我能说的不多，因为我也很水……= = 而且我画的不是热血漫画，需要排线的地方不多，顶多就贴个阴影了……
+
+事实上，关于网点的学问可是大有考究……恩，大家可以自行研究。。。。。。
+
+==================
+
+**总结一下**
+
+其实我觉得
+
+[安李](http://www.zhihu.com/people/an-li-90-62)
+
+的回答就很好了，我也不知道为什么大家都赞我呀？是给我信心吗？也可能是我贴图了大家的感受会比较直观……
+
+Whatever~
+
+我们来看一下步骤
+
+1、有个故事：写个故事大纲→有条件的话比较详细地写一下→文字脚本
+
+> 文字脚本可参考[漫画有编剧吗？](http://www.zhihu.com/question/24334768)问题中肉沫桃子的贴图，是的，就是那么简单粗暴即可。
+
+2、角色设定：正面和背面整身图→各个方位、各种表情的脸→性格、能力的文字设定
+
+**3、分镜草稿：可细腻描绘可简单粗暴，只要编辑能明白→根据意见修改分镜4、细化分镜：人物、背景、细节描绘等5、制作效果：网点、排线、光影、气氛等**
+
+根据题主的题目，我给后面的三个步骤加了粗体，表明这是每画一话需要做的事情。想必各位已经可以从我上文的语气中感受到这有多么繁琐、消耗心血。事实上，一些连载的漫画，有的时候作者自己都没有想好如何开展下面的情结、在哪里设置高潮，等等；另外，在连载的途中会有新的角色加入，也会需要制作新的角色设定……
+
+本人画技不好，画工有限，所以画漫画的时候痛着并快乐着。可能并不能很好地反应出大触们的情况，不过，虽然大触们的画技比我高超，但他们的画比我的要更加细腻！更加美！读者更加挑剔！所以说，确实也是非常不容易的……
+
+总而言之，**画漫画就是一项费时费力的活儿！！**ps. 我还是比较喜欢画插画，也更加喜欢画妹子QAQ
+
+pps. 虽然一直喜欢画画但是周围没有一个喜欢画画并且能互相交流的- - 所以各位无论是大触还是渣渣都**欢迎私信勾搭**~么么哒！
+
+ppps. instagram: SSEVEN_Z
+
+以上
+
+
+---
+
+# 应如何解决绘画最终效果没有过程好的问题？ 赵丹霖
+
+**Author:** 赵丹霖  
+**Bio:** |ω・）  
+**Avatar:** ![](https://picx.zhimg.com/e0deac7d8_l.jpg?source=0df5f383)  
+**Author URL:** https://www.zhihu.com/people/1a941152111cf18646183c3b70f54c40  
+**Published:** 2014.06.16 00:57:19  
+**Updated:** 2015.12.24 18:49:09  
+**Question:** https://www.zhihu.com/question/24158275  
+**Question Created:** 2014.06.15 19:11:49  
+**Question Updated:** 2014.06.15 19:11:49  
+**Votes:** 306  
+**Comments:** 29  
+**Type:** answer  
+
+谢邀！看到被邀请了好开心呼呼！
+
+在我之前回答的巨巨说得很好很到位啊，估计我说的会有所重复了。琢磨着要不我丢点杰宝补充说明一下吧，嗯，致力写一篇充（jia）分（zhuang）有逻辑的回答。
+
+
+
+
+**·提出问题：**
+
+( ；´Д｀)画完的效果没有过程好
+
+
+
+
+**·寻找原因：**
+
+我自己一般的画图流程是：草图1－草图2－（总之改到爽为止啦）－线稿－色稿－效果－修整（直到满意为止），不出意料的话大家应该也是这个流程吧？我认为画完没有过程好是因为某种力（脑力？图力？说不清啊请自己体会一下）在每个环节之间存在流失，怎么办呢，哎我跟你们说啊肥料掺了金坷垃不流失不蒸发……（揍
+
+说正经的啦，大概有一下几个原因吧（正色。鼓励对号入座，也欢迎补充。夹杂自黑/黑历史，除注明出处之外的图片均引用自网络，若有侵权请联系我删除。
+
+
+
+
+**1）脑洞和现实存在距离（脑洞－>画面的流失）**
+
+首先这是一个总体而言存在的流失，其实后面细分的2345都是针对这个的详细举例了。
+
+·除了商稿以外，基本上都是激情画画吧，脑子里突然有个梗，觉得好萌/腐/燃/池面啊于是奋不顾身掏出板子撸了起来，画着画着……嗯，好像有什么不对劲？
+
+本来脑子里想的是这样：
+
+![](https://pic1.zhimg.com/e538f6c2a516488efb846438210bbd42_r.jpg?source=2c26e567)
+
+想着画出来应该是这样：
+
+![](https://pic1.zhimg.com/bd794e6b1f4e516426695d364c05a1f1_r.jpg?source=2c26e567)
+
+而实际上……是这样：
+
+![](https://pic1.zhimg.com/50/f03ed33feef3874007ec9a498aeeeedc_720w.jpg?source=2c26e567)
+
+嘛，这种事情在我自己身上也时常发生啦，怀着一腔鸡血画了一晚上发现自己的图力根本不足以支撑自己的脑洞。So sad！
+
+·画画不整体的问题。遥想当年我和很多新手一样是“只会画脸最多到肩膀”星人，伸手就开始画刘海，戳戳戳眼睛脸型啥的，根本木有起稿这一步啊！沉浸于钻某处细节眼睛都贴在画纸上画的状况比比皆是，什么叫整体什么叫色调完全不管不顾……这样画的图基本上就没一个好看的cry
+
+·当局者迷，自己画久了丧失判断力。受脑洞把持，画多了色感越来越差、有些结构问题也会被无视，图画完以后清醒了再看就发现漏洞百出，怎么看也不象过程里的那么好。
+
+
+
+
+**2）草图线条对视觉的影响（草图－>线稿的流失）**
+
+·由于草图的线条挥洒地比较随性，往往很多不确定的地方用简单的线条概括表示了，视觉会把它们补成帅气的感觉，所以在草稿阶段很容易自我感觉良好。实际去描线稿的时候，要把准确的线条一点点落实，脑洞逐渐被收口，脑补力下降……回到现实的时候就会发现，哎，妈蛋？为何如此僵硬！为何这么丑啦！
+
+·还有就是，有的画师画画喜欢用繁复相近的很多线条去描绘条曲线，作为草稿看的时候会觉得帅气值很高，但是变成线稿的时候就变成这样了：
+
+![](https://picx.zhimg.com/50/ca2f3330f421ecd5e7a5ec96ef7dba77_720w.jpg?source=2c26e567)
+
+
+
+
+**3）（线稿－>色稿的流失）**
+
+·上色跟线稿一样存在着局部和整体的问题，过于去抠细节而忽视整体或者注重整体而不会在细节上使用符合气氛的颜色都会使画面大打折扣的。
+
+·我知道世界上有种东西叫色感差……但是相信大部分人还是可以抢救一下的吧。
+
+
+
+
+**4）（色稿－>效果的流失）**
+
+·一种是没有把想要的材质表现对。曾几何时，有木有把脑洞里轻飘飘的裙子画得跟钢铁一般刚毅，有木有把脑洞里闪闪亮的利剑画得跟塑料一样轻巧，不知道你们有没有，反正我有过把裙撑画得跟洁白的石膏浮雕一般坚韧不拔啦（呵呵脸
+
+·还有一种是对画面把握没有想法／想法不够，脑洞里是个超宏大的景观/超炫酷的气氛，细节都画到位了，材质都做对了，然后整个画面还是平淡无奇……
+
+
+
+
+**5）（效果－>修整的流失）**
+
+·画完就算，不修整。成熟的画师很少会这样啦，新手确实很容易有这个毛病。比如想当年我一晚上撸一张图，小图看沾沾自喜什么的，放大了根本目不忍视好吗。
+
+
+
+
+**解决问题：**
+
+找到了流失的原因，就要用金克拉，啊不，图力来挽救！保证每个环节之间都能做到爽滑过渡不流失就好噜～
+
+**1）（脑洞－>草图的爽滑过渡）**
+
+·降低脑洞高度不太现实，所以还是从图力抓起，多看教程多练习，说不知道从何下手从哪里去学的看看我以前回答的问题：[职业插画师是怎样炼成的？](http://www.zhihu.com/question/20847212/answer/25223306)
+
+·画画要有全局观，好像在画室画素描色彩那样，画一会把图放小了看看整体，整个画面每个部分的进度对号不要差距太大，尽量齐头并进，完成度都差不多了再专注于逐个做细；
+
+·画画的时候多截图给好基友好丽友看看（最好从草稿期开始），求反馈求意见，别人旁观者清，很容易给你指出问题。发现问题就虚心去改，从源头把握住不画错，对画图的效率很有帮助，对友情的好感度也大大有加成哦。
+
+
+
+
+**2）（草图－>线稿的爽滑过渡）**
+
+·通过一遍一遍的画把草图向线稿推进，这样尽量减少了草图到线稿之间的差异，也就保证了线稿对草图原汁原味的保留；
+
+·起稿先画大的框架，再逐渐向小的部分推进，切忌一上来就钻营细节。
+
+
+
+
+我拿自己的图举个栗子哈，左边草图1（蓝色）－草图2（绿色）－草图3（紫色），右边线稿。其实1和3区别还蛮大的，但是草图3-线稿变化微乎其微。酱画出来起码就不会感觉过程跟线稿差异太大嘛。
+
+![](https://picx.zhimg.com/50/04da50650ac2ecfeda9ebd68766eefb8_720w.jpg?source=2c26e567)
+
+补充一个tips啊，描线得时候，sai里的“笔”要笔“铅笔”显得更生动，因为它画出来是不完全实色的，存在一点点深浅变化，而这种变化在上色以后，线稿和色稿能融合得更好些。还有就是，画线稿可以试试在线条交接的地方涂个小三角，会显得线稿很扎实，也带一点立体感。
+
+![](https://picx.zhimg.com/167c0c896871bd4d52871ddd296e94b3_r.jpg?source=2c26e567)
+
+这个只是建议哈，按自己需要的风格来用，并不是一定要这么做。
+
+
+
+
+**3）（线稿－>色稿的爽滑过渡）**
+
+·色感差就救色感，多看配色比较有范儿的大大的图，喜欢高级灰的就学高级灰，喜欢撞色的就学撞色，有空可以学习一些视觉心理啊色彩搭配的知识；
+
+·每一块颜色都不错但是合起来看着就是没活力的话，是不是仅仅只在方框中改变颜色而没有调整色环呢（例如1和2）选择颜色的时候如果试试稍微移动一下色环，会显得比较鲜活（3和4）
+
+![](https://picx.zhimg.com/50/52ae7142d1b08cd337b3e2ea02a25e05_720w.jpg?source=2c26e567)
+
+
+
+
+**4）（色稿－>效果的爽滑过渡）**
+
+·强烈建议线稿完成后先铺出色调基准再上色，不要想当然的举起油漆桶就东浇一块西浇一块；
+
+·学会使用调整对比度、明度、饱和度等数值，以及PS里替换颜色的方法；
+
+·除了用深一点的颜色框出阴影，还会别的上阴影画法吗？不会的话请学习，赛璐珞风的、水彩风的、厚涂的，不是说全都要学会，凭兴趣来就好了；
+
+·不同材质的表现方式是否都掌握？如果不是的话请有针对性地学习。
+
+
+
+
+tips:以前见过一个巨巨的上色方法，是先上黑白灰，做细，到最后才在黑白灰的基础上叠颜色上去。当时看到惊为天人，但仔细想想确实很在理，毕竟画面无论什么色调，只要把握对了黑白灰才会有真实感让人看得舒服。但巨巨是画那种写实流原画的，这种上色方法对日风插画的应用有待考究。
+
+
+
+
+**5）（效果－>修整的爽滑过渡）**
+
+·其实每一个步骤都值得在完成前回头修整检阅。耐心画画，不要急躁，一张画画一两周是很正常的事情，慢慢来。如果因为疏忽，到了线稿形态发现有结构、构图上的事情也请务必推倒重来，别想着上色能挽救。再晚发现的问题都不算晚，发现而不愿意修改的话，这张图就废了。
+
+
+
+
+贴个REI子巨巨的过程：（微博地址：[Sina Visitor System](https://link.zhihu.com/?target=http%3A//weibo.com/1741550804/zqnW6A9V0%3Fmod%3Dweibotime)）
+
+> @战斗天使理查：ask上有人点的大头过程。这里主要演示一下addition（高光）图层的用法……最近我不知道要涂什么颜色的时候就会拿这种办法玩一玩，个人觉得橘红的高光图层配暗灰蓝色的背光效果最佳……之前那张JC也有很多地方是直接拿高光图层上色的（就是特别粉的那些地方）
+
+![](https://picx.zhimg.com/3766ed0d9e06b8f3cd07cc5e5d7a1e7f_r.jpg?source=2c26e567)
+
+－－－－－－－－－－－－－答题完毕的分割线－－－－－－－－－－－－－－
+
+以上，唉每次回答问题都觉得自己好啰嗦啊（大概是病，简而言之呢一个是图力追不上脑洞一个是画画的过程里有很多坑，一个不小心就走偏了很难把图画好。差不多都罗列在上面了，不够应该也会有缺漏吧，想起来再补。
+
+今天没吃药，所以回答起来语气跟以前不太一样别见怪w
+
+
+---
+
+# 设计师们做UI设计和交互设计、界面设计等一般会去什么网站呢？ Eddie
+
+**Author:** Eddie  
+**Bio:** HCI｜健身｜IT民工｜美漫迷｜摄影初阶｜电影迷  
+**Avatar:** ![](https://picx.zhimg.com/c114db31e_l.jpg?source=0df5f383)  
+**Author URL:** https://www.zhihu.com/people/bcc4d435d50313df6674092af6ed3eae  
+**Published:** 2012.08.01 18:46:16  
+**Updated:** 2013.10.21 20:14:05  
+**Question:** https://www.zhihu.com/question/20393170  
+**Question Created:** 2012.08.01 18:39:06  
+**Question Updated:** 2022.03.07 20:30:15  
+**Votes:** 273  
+**Comments:** 2  
+**Type:** answer  
+
+[http://Dribbble.com](https://link.zhihu.com/?target=http%3A//Dribbble.com)
+
+
+
+
+
+
+
+再搬运一下iCooVoo的答案：
+
+[http://dribbble.com/](https://link.zhihu.com/?target=http%3A//dribbble.com/)
+
+
+
+
+[Online Portfolios on Behance](https://link.zhihu.com/?target=http%3A//www.behance.net/)
+
+
+
+
+[Stock Flash Components, Web Templates, Banner Rotators](https://link.zhihu.com/?target=http%3A//activeden.net/)
+
+
+
+
+[http://lovedsgn.com/](https://link.zhihu.com/?target=http%3A//lovedsgn.com/)
+
+
+
+
+[Big Cartel - Simple shopping cart for artists, designers, bands, record labels, jewelry, crafters](https://link.zhihu.com/?target=http%3A//bigcartel.com/)
+
+
+
+
+[http://forrst.com/snaps](https://link.zhihu.com/?target=http%3A//forrst.com/snaps)
+
+
+
+
+[onotakehiko.com](https://link.zhihu.com/?target=http%3A//onotakehiko.com/)
+
+
+
+
+[http://www.bitbytebit.co.uk/](https://link.zhihu.com/?target=http%3A//www.bitbytebit.co.uk/)
+
+
+
+
+[http://www.f-i.com/](https://link.zhihu.com/?target=http%3A//www.f-i.com/)
+
+
+
+
+[http://www.fubiz.net/](https://link.zhihu.com/?target=http%3A//www.fubiz.net/)
+
+
+
+
+[http://www.thefwa.com/](https://link.zhihu.com/?target=http%3A//www.thefwa.com/)
+
+
+
+
+[http://www.thebestdesigns.com/](https://link.zhihu.com/?target=http%3A//www.thebestdesigns.com/)
+
+
+
+
+[http://webdesignledger.com/](https://link.zhihu.com/?target=http%3A//webdesignledger.com/)
+
+
+
+
+
+
+
+图片素材：（因为没有很多条件出去到处采风，有时候看相片也能找到很多的灵感）
+
+[http://pinterest.com/](https://link.zhihu.com/?target=http%3A//pinterest.com/)
+
+[http://www.gettyimages.cn/](https://link.zhihu.com/?target=http%3A//www.gettyimages.cn/)
+
+
+
+
+[http://www.flickr.com/](https://link.zhihu.com/?target=http%3A//www.flickr.com/)
+
+
+
+
+
+
+
+图表：（有很多设计成各式各样的图表，可以美观你文档里的图表）
+
+[http://www.tuyansuo.com/](https://link.zhihu.com/?target=http%3A//www.tuyansuo.com/)
+
+
+
+
+iPhone界面设计指南
+
+[http://developer.apple.com/library](https://link.zhihu.com/?target=http%3A//developer.apple.com/library)
+
+...
+
+iPad界面设计指南
+
+[http://hung-truong.com/blog](https://link.zhihu.com/?target=http%3A//hung-truong.com/blog)
+
+...
+
+Android界面设计指南
+
+[https://developer.android.com/design/index.html](https://link.zhihu.com/?target=https%3A//developer.android.com/design/index.html)
+
+
+---
+
+# 画好电影的故事板需要掌握哪些最基本的东西？从哪儿学起？ 三坛嗨废禅师
+
+**Author:** 三坛嗨废禅师  
+**Bio:** 钱塘江上潮信来，今日方知我是我。  
+**Avatar:** ![](https://picx.zhimg.com/v2-2eb835df790ea2602472f31e1994653f_l.jpg?source=0df5f383)  
+**Author URL:** https://www.zhihu.com/people/04a4b31ab9b9b70a2e58248c3b39ee13  
+**Published:** 2014.07.26 22:37:25  
+**Updated:** 2016.08.18 12:08:17  
+**Question:** https://www.zhihu.com/question/23414270  
+**Question Created:** 2014.04.15 08:12:43  
+**Question Updated:** 2014.04.15 08:12:43  
+**Votes:** 274  
+**Comments:** 19  
+**Type:** answer  
+
+谢
+
+[@董融化](https://www.zhihu.com/people/4ff425739cf9ded1dba789bb5e56cdb7)
+
+邀。
+
+【前方多图】
+
+**卡茨在《电影镜头设计》中，专门花了一章讨论过这个问题。**
+
+**以下主体是书中内容，为方便大家阅读，有多处增减。**
+
+**最基本两点：**
+
+**1、会画画**
+
+**2、听得懂导演的话**
+
+**从哪学起：**
+
+**从明白什么是故事板，故事板用处是什么学起。**
+
+**下面来说一说。**
+
+
+
+
+许多影迷喜欢把所有关于电影美术的设计图纸都称为故事板，但它们并非一回事。
+
+它们可以归在场景设计图这一个大类里，但其中是有明确细分的，电影美术的所有事情也不都是美指一个人做，有很多分工。
+
+**【知道不是一回事的可以直接往后拉到故事板内容】**
+
+我们知道，文本语言虽然拥有无限想象空间，却也因为它的含义过于抽象，在交流到某些具体事物的构建时，容易使交流双方产生歧义，而无法达到最好的交流效果。
+
+尤其是在电影剧组这样一个宏大的团队中，不断相互传播的情况下，每一次每一个人由于其对剧本文本的理解不同，对场景的描述都可能产生不同的含义，而带来一些不必要的麻烦。
+
+**前期的视觉预览计划**，在这种情况下就显得非常重要。
+
+它将文字付诸画面表达，将每个人心中搭建的抽象剧情世界，用具体的画面进行表现。
+
+帮助所有的参与者，直观地理解导演意图——啊，原来导演要的就是这个效果。
+
+大大减少了沟通上花费的时间，提升了工作效率。
+
+这个工作，由电影的美术组来完成，美指统筹，其余的人各自分工。
+
+
+
+
+一般在电影美术组进行设计的过程中，比较常用的图纸有三种：
+
+**概念设计图：**
+
+用来对整个影像风格进行定调。
+
+比如《理发师陶德》哥特诡异的、《绿野仙踪》甜美梦幻的、《英雄》古朴大气的。
+
+宏观的如魔幻片的世界地图、主要故事场景的布景效果等。细节的如人物的服饰、妆容、道具、特效等个别元素的设定。
+
+主要是为了给电影建立一个大概的视觉方向，并不需要具体的镜头分解和故事段落内容。
+
+拿大厨设宴来打比方，它就是对要做哪一种菜系的预期，中国菜、法国菜还是日本菜。
+
+例：
+
+奥逊威尔斯《公民凯恩》主场景内部设计概念图
+
+![](https://pica.zhimg.com/90ed1d66a34f35d14c0a8c54bd57e4df_r.jpg?source=2c26e567)
+
+曲文强做的张艺谋《金陵十三钗》概念设计
+
+![](https://picx.zhimg.com/1b41c0edc3a0a99c681ea78238db8729_r.jpg?source=2c26e567)
+
+![](https://pic1.zhimg.com/ee7595f6110ea3d437fc2d9f24d39afe_r.jpg?source=2c26e567)
+
+![](https://picx.zhimg.com/87844d095afe91b6ff496c42639a5c0c_r.jpg?source=2c26e567)
+
+麦国强做的徐克《狄仁杰之神都龙王》结尾放出可能会拍的续集概念图
+
+![](https://picx.zhimg.com/c5e7aabcac0acd5473786acf22e36f59_r.jpg?source=2c26e567)
+
+
+
+
+
+
+
+**建筑图：**
+
+这部分偏向更具体的场景设计，工程一般在概念设计之后，整个影像基调确立后才开始进行具体的建筑设计。
+
+它跟我们的楼房建筑设计师是非常相似的，它的规划，是对决定电影中建筑布景等会用到的工程规模以及实际物资的指导。比概念设计图要更具体，涉及到的技术设计也更严格。
+
+说造房子就造房子，说把大仓库改成宫殿内景就改成宫殿内景，都是扎扎实实要用到。所以必须符合严格的建筑标准。
+
+它包含平面图、立面图、剖面（截面）图和效果图（气氛图）。
+
+前三者要直观展现一些布景的比例大小，整体结构，空间的透视关系。
+
+而最后的效果图，是用前面三个作为透视基础，以完成具体会用的不同镜头景别和机位中可能呈现的整体模样。
+
+效果图能够在实际搭建/布置场景之前，在纸上有效预见大部分问题，能比概念图更具体的确定单场戏基调，还能有效帮助核算布景成本。比如我们拍刺客夜闯皇上寝宫这样一场戏。当置景师跟导演和摄影师沟通的过程中，确定只会俯拍到皇帝大床这样一个部分，门边和天花板甚至窗外都不会拍到，以后也不会用到。那么这些用不着的景就不需要搭建，只搭拍得到的景即可。在成本不足的情况下，有效防止了「过渡置景」带来的资金浪费。
+
+例：徐克《狄仁杰之通天帝国》里那个后来倒掉的大浮屠。
+
+![](https://picx.zhimg.com/51235cfa1bf6cba8d037e5764c552c5e_r.jpg?source=2c26e567)
+
+
+
+
+**最后，就是题目中一开始提出的——故事板**
+
+
+
+
+故事板，也叫分镜头草图。是几种设计图里，与导演的现场工作直接关系最密切的，也是导演对剧情和镜头的想法形象化时最便捷的工具。
+
+在电影美术中负责这一块的叫故事板画师。
+
+在电影拍摄筹备时，故事板是肯定会画的，但是视对故事板的重视程度分为几个选择：
+
+**重视**
+
+原因两种
+
+●导演对场景的构想比较复杂精致，需要精细的故事板来落实构思，并帮助合作者理解。导演在实际拍摄时脑细胞就可以稍微死得少一点。
+
+●导演影像感不强，无形之中故事板画师代替导演成为了前期筹备中镜流的设计者。
+
+这两种都会请比较成熟的故事板画师来做。
+
+有些是导演自己画好草图了再交给故事板画师去做补充修饰，这样选择的导演一般是具备美术功底的，比如徐克、希区柯克、莱德利斯科特等等，他们会给画师提供比较详细的草图，有些甚至连概念图也自己亲自绘制。
+
+有的是完全交由故事板画师来根据剧情和之前的概念图设计图来绘制。
+
+哈罗德米切尔给希区柯克的《群鸟》绘制的故事板
+
+![](https://picx.zhimg.com/45bbedfc1d69e405c95fcb2182de993f_r.jpg?source=2c26e567)
+
+
+
+
+![](https://picx.zhimg.com/4cc46ab4f7fe7e83d9fe026b89f95c18_r.jpg?source=2c26e567)
+
+
+
+
+舍曼拉比给斯科特《银翼杀手》绘制的故事板
+
+![](https://picx.zhimg.com/8b70424493aaae9225571f40bc18547f_r.jpg?source=2c26e567)
+
+![](https://pic1.zhimg.com/50/fb4068d9be7f30d143b6e35b48068d0d_720w.jpg?source=2c26e567)
+
+《逃离德黑兰》故事板
+
+![](https://pic1.zhimg.com/b3c922c3fd17095f527b538a2581abd1_r.jpg?source=2c26e567)
+
+《云图》故事板和电影镜头的对比
+
+![](https://pica.zhimg.com/f91573e2902f6b10b1e6684b9d256296_r.jpg?source=2c26e567)
+
+**不太重视**
+
+原因两种
+
+●电影资金不足，没钱请专门的故事板画师。
+
+●导演本身对影像的感悟和预见能力非常强，觉得用不着故事板。
+
+在这样创作中，故事板基本就是导演手记的一部分。
+
+也不会画完整个电影，大多由导演根据需要，选取关键的一些较为复杂的情节，自己亲自画出来，画不好的地方靠用嘴跟合作人员说，大概讲清楚意思就行。
+
+电影效果不见得差，甚至也会很好，但是故事板就不那么好看啦。
+
+比如姜文亲笔的《阳光灿烂的日子》的故事板。
+
+![](https://pic1.zhimg.com/50/b4ce933f262579d06b37dbf512aea3dc_720w.jpg?source=2c26e567)
+
+还有李安的小飞机
+
+![](https://picx.zhimg.com/225a699d74e71da0a1dae195d6bd0224_r.jpg?source=2c26e567)
+
+
+
+
+事实上不论怎么样，绝大部分导演在向其他人表达创作观点的时候，或多或少都还是会动用画笔来帮助其他人理解的。原因就是我在答案的开头提到的画面本身的具象性。
+
+
+
+
+**在「画好电影的故事板」过程中，要做到什么？**
+
+**作为导演**
+
+知道自己要的影像是什么。
+
+能和故事板画师进行详细的谈话，将自己想要的意象尽可能详细地描述出来，确保故事板画师了解自己的想法，将绘制过程中可能会发生改变的空间弹性维持在一个合适的度。
+
+这考验的就是导演对剧本解读和表达的能力。跟故事板画师沟通好了，画好了，之后再跟其他人讲解时就可以省下很多功夫啦。
+
+**作为画师**
+
+**一、**会画画，有良好的速写和素描水平。其实相对前面两种图纸来说，故事板对画师的绘画技巧要求是最低的。 它的难度在于对电影叙事的理解。
+
+**二、**了解电影中的场面调度，构图，剪辑，灯光，以及摄影过程中的镜头运用。除了电影的声音部分，涉及到画面的全部都要了解，不求做到导演一样精深把控，起码要做到跟导演交流时能够准确捕捉导演想表达的感觉，不会听不懂导演的话。
+
+**三、**具备良好的视觉记忆力。
+
+在设计过程中，你可以翻阅导演、摄影师、美指选用的实景资料，或者你自己也可以去实景拍照片。
+
+但是你不可能每画一下就查一下资料，更何况也不是总能翻到，为数量巨大的草图寻找资料花费的时间是非常可怕的。
+
+所以你要能够良好地记住自己曾经翻阅过的视觉资料并在自己的画笔下良好再现。能够在不借助照片或模特的情况下，精准地表达各种人物姿态、道具、景观形态。能掌握各种类型的历史环境和国家场景感觉与风格。在导演说：「我这里要一个哥特风的小饰品」的时候，你起码不要给画一个头上带着小皇冠的飞天小女警吧。
+
+**四、**在紧绷的时间压力下保持高速高质。因为并不是永远都有充裕的时间，导演今天上午来跟你说我需要某某场戏的故事板，可能今天晚上甚至一小时后甚至在你们聊天的过程中就要看。
+
+而且画好的故事板在拍摄过程中，也可能随着情况的变化而需要不断修正。
+
+
+
+
+不论是哪一种影像视觉预览方式，都应该是为了方便创作而服务，大家会尽可能地选择有利于自己创作的方案。在科技日益发展的今天，也有一些团队在前期视觉预览计划时，不会单纯只选择传统的故事板绘制方式，他们还会用到：
+
+**照片故事板**
+
+可以在拍摄之前踩景的时候让替身站在有可能拍摄的位置，大至拍出之后会用到的画面的镜头分解。考虑到替身演员数量有限，一般这种做法只适用于空间较小人数较少的场景。遇到人物众多的大场面，当然还是画笔刷刷刷更省力啦。
+
+**3D动画**
+
+能够进行动态的预视觉化，在人物调度和镜头构成等涉及空间关系变动的问题上更便于理解和使用。
+
+对比静止画面的分镜，它能通过虚拟摄影机模拟拍摄，产生摄像机数据，对实拍具有非常有价值的参考意义。
+
+也由于它制作昂贵，资金不足的剧组不会选取这个方式。它更适用于实拍成本很高的大制作电影。
+
+这些都是以传统的电影故事板为基础发展出来的一些有趣又有用的方法。
+
+最后，前面说的这几个图纸类型，在某些情况下也会有交叉，尤其是前两个，定义没有区分得那么死。有些时候概念设计是由美指来做，有些时候概念设计有专门的设计师，美指来负责执行。而故事板有些时候也承载了一部分气氛图的功能。
+
+故事板画师也并不总是在电影的美术组，在一些电影的拍摄中，故事板画师也常常被安排在导演组，随时随地帮助导演进行影像创作。
+
+电影拍摄中很多事要视具体情况而变。不变的，是前面提到的，作为画师要做到的职业要求。
+
+
+---
+
+# 《进击的巨人》原作漫画是为什么成为明星作品？ LF天影
+
+**Author:** LF天影  
+**Bio:** 「一个让我对後续内容很感兴趣的故事。」  
+**Avatar:** ![](https://picx.zhimg.com/v2-8fd1057e0017bb4c230306bf476ae3b3_l.jpg?source=0df5f383)  
+**Author URL:** https://www.zhihu.com/people/ac60d4844e0141cddeae9d2f22eac059  
+**Published:** 2013.09.04 21:26:45  
+**Updated:** 2013.09.06 23:29:02  
+**Question:** https://www.zhihu.com/question/20683129  
+**Question Created:** 2012.12.30 18:47:38  
+**Question Updated:** 2018.07.29 19:21:42  
+**Votes:** 7464  
+**Comments:** 677  
+**Type:** answer  
+
+我先说我的结论：《进击的巨人》的成功是源于它的设定、剧情和作者的讲故事功底。
+
+以下回答涉及到严重的剧透，虽然我会尽量透得很少，但也请动画观众谨慎观看。
+
+===================================================
+
+谏山创，1986年生，学漫画出身。2006年，19岁，他第一次把一个叫《进击的巨人》的短篇投稿到《周刊少年JUMP》的编辑部，但却被编辑以“风格不适合jump请改风格再投”为理由拒绝了（据说拒绝的那位编辑是海贼王的第六代责任编辑服部哲，看过食梦者的应该会认识此人）。谏山创继而把短篇改投到《周刊少年magazine》上。这部短篇的设定和现在的正式版本大不一样，而且画风真是难看到惨不忍睹。虽然magazine的评委只给“绘画”评了两分，但“故事”和“独创性”都评了很高的分数，最终还把30万日元的大赏颁给了这部短篇。我们来看看当时的这个短篇的画风，不知道的还以为在看搞笑漫画日和：
+
+![](https://pic1.zhimg.com/9b7f1f871489b660396a9f16c5b38378_r.jpg?source=2c26e567)
+
+*图片来源：cha研
+
+这个短篇的在线观看，我个人觉得这个短篇剧情还是很不错的，可以看到日后的大量雏形：
+
+[http://www.dmzj.com/jingjidejuren/23379.shtml](https://link.zhihu.com/?target=http%3A//www.dmzj.com/jingjidejuren/23379.shtml)
+
+
+
+
+距离第一次投稿已经过去了八年。2013年4月，在《别刊少年magazine》连载了四年之久的《进击的巨人》动画化，同时漫画销量已经上升到奇迹般的位置，在10卷单行本的情况下，每卷平均销量已经达到195万本（2013年5月数据），马上就迈入卷均200万的殿堂俱乐部。卷均200万是什么水平呢？日本历史上共有15部漫画达到卷均200万的水平，巨人是马上到来的第16部，和龙珠，海贼王，灌篮高手，touch这些大头排在了同一条线上，而且——他只用了10卷就完成了这个成绩；在动画方面，截至上周，巨人的碟片第一卷已累计销售7万枚，第二卷初动4.3万枚，只要目前壁外调查章保持良好作画，超越日本动画销量“神作之壁”《化物语》（卷均10万枚）——也不是不可能，到时巨人的动画销量就成为一人之下（《EVA》卷均17万）万人之上的作品，而且这个位置是一部少年漫画来担当，确实是前无古人的，毫无疑问地成为了明星作品。
+
+虽然动画化给宣传帮了很大的忙，但这样的成绩绝不是一两个月就能轻易获得的。到底日本的读者和观众们，是因为什么原因去为这么一本画风草稿，人物辨识度极低的漫画去前仆后继地埋单？
+
+毫无疑问是它的设定和故事。
+
+《进击的巨人》的设定有两个与生俱来的优点——“巨人”和”立体机动“。庞然大物更容易传递力量的差距，同样是被一个无脑生物杀掉，被巨人用手掰成两截带来的恐惧感就远远比丧尸咬死要强，漫画渲染出来的绝望感多半要归功于这些弱智巨人——因为他们每一只都不费吹灰之力就能把一个训练有素的士兵捏成肉酱；而空中飞翔的装置使作者更容易将战斗场面画得流畅而爽快，在巨树森林里的各种马匹奔跑和空中飞翔的分镜真是让人记忆难忘。无论后面漫画的剧情变得怎么样，只要这两个设定仍然大行其道，那么作品天生的优势就会依然存在。
+
+然后是剧情。巨人的漫画少有的是完成度高得出奇的作品。所谓的完成度，就是谏山创在画第一话第一笔的时候，就已经把整个故事框架想得非常完整了，哪里放伏笔，谁是内奸，巨人之谜，甚至我等会要说到的一个高次元的谜，通通都已经包含在我们看过的剧情当中。而且整个大故事起承转合相当明显（日本人说的话就是序、破、急了），每个篇章有其自有的气氛，看起来就像一场话剧的不同幕：
+
+【王道、残酷、牺牲与战争】特洛斯特防御战之章 漫画1-18话+番外1 （共19话）= 1-4卷 = 动画 1- 13集
+
+【谍战、悬疑、猜疑与斗智】壁外调查章 漫画 19- 34话 + 番外2 （共17话） = 5-8卷 = 动画 14 集至今
+
+【冲突、矛盾、迷惘与冲破】“破壁”之章 35话 - 48话 （连载中目前有14话），大概也会是 20话不到的样子，估计=9-12卷
+
+估计再来个最终幕大约30-40话，巨人就会在100话内完结。全剧看起来一气呵成，连着看的话无比爽快，优秀的漫画就应该是这样——让人按耐不住想马上翻到下一页——巨人做得甚至比主打悬疑的推理漫画还好。
+
+在这个网络时代，连载作品的人气来源于讨论热度。进击的巨人有着无数的可以讨论的伏笔和线索：为什么”高铠女“三名巨人没有皮肤、肌肉外露，而艾伦和普通巨人一样有皮肤？为什么明明艾伦的爸爸已经失踪，但艾伦老家的钥匙却在他的脖子上？动画第二集艾伦接过三笠给他吃的面包，此时手上有个特写，上面诡异的伤痕意味着什么？在堵洞作战中马可因为不明原因死掉，尸体的身上为什么没有立体机动装置？为什么三笠一共在数次次奇怪的场合出现头痛现象，而动画又为什么把这些剧情都删掉？谏山创努力营造出一种气氛——这些伏笔我都有意地放给你们看，意味着这些谜题的谜底最后会全部连起来，因为我一早就想好了为什么。正是这种放包袱和抖包袱的技术，令漫画虽然是月刊，但却一直在粉丝中留下热烈的讨论。对于已经看过漫画的读者来看，动画是可以从头观看而不觉得乏味的，那是因为有大量的细节的和剧情必须要第二次看才恍然大悟，和初次观看感觉最大的不同大概就是赞叹谏山创放包袱的技巧吧。
+
+作者在安排故事的叙述方式上也是花过心思的。看过漫画的同学应该会知道，第一章“特洛斯特防御战之章”的叙述顺序和动画版的叙述顺序是不同的。原著的顺序是“①845年超大型第一次踢门，玛利亚之墙被毁→②850年超大型第二次踢门，特洛斯特攻防战→③847年主角们加入104期训练兵团”，而动画的顺序是“①→③→②”，按照时间发生的顺序来叙述。为什么原著要采用回忆插叙的方法来叙述军营训练的内容，那就要从进击的巨人漫画的连载状况开始说起。
+
+《别刊少年magazine》是一本月刊，那就意味着连载在上面的漫画是一个月才一话，一年才12话。就算一话大约有50页，加起来一个月的内容还是比周刊漫画四个星期的要少。月刊的好处是对于作家的赶稿要求、助手数量要求会降低，但劣势就是——相邻两话相隔太远了。
+
+回到巨人剧情的编排上，假如按照时间顺序来描述，那么意味着在漫画刚开始连载的几个月内，观众们都要长期忍受沉闷的“练级戏”。但是通过改变顺序，从艾伦踌躇满志昂首挺胸到第一卷末尾艾伦小队全体被吃这段剧情就让人掉足下巴，把绝望的气氛推到最高点。
+
+同样的剧情编排也发生在壁外调查篇。在巨树之森内，女巨人紧追利威尔班不放，这时艾伦萌生变身巨人与其战斗的念头。剧情突然闪回到回忆当中，详细描述了艾伦和利威尔班建立信任的一场戏。加上最后佩特拉的一个蒙太奇镜头，配上激昂的音乐，人类的希望仿佛就在眼前——偏偏翻到下一话，正是艾伦对队员们的信任，让他们全部惨死。走投无路的绝望感再次扑面而来。
+
+但是，假如仅仅是上述这样子，《进击的巨人》还不至于像它现在这么火，他的剧情看起来说到头不过是一个用残酷包装过的王道少年漫画。无数的人有一个故事的好点子，但只有很少的人能把这个点子说成一个精彩的故事。作为一部带有悬疑成分的少年漫画，埋好一个伏笔对提高阅读体验是至关重要的。下面我想通过详细描述作者为一个伏笔所花的心思来好好地向大家传递这一点。
+
+从这里开始帖子将会涉及漫画后期内容，请动画观众谨慎观看。虽然如此，我仍然会尽量去探讨作者的伏笔而不把精力放在已有的漫画内容上。
+
+=====================剧透注意====================
+
+关于本作品最大谜题的放出分为了三个部分：
+
+第一部分，是动画的第一集片头曲播放完之后的那一分钟剧情（也就是漫画第一话的第15-20页），我们从这里开始说起。
+
+首先是题目：
+
+![](https://picx.zhimg.com/c51cc7c70180a4951d84d6668b8567ea_r.jpg?source=2c26e567)
+
+![](https://picx.zhimg.com/ec3969fff886c8cec986f72a43e9e3a2_r.jpg?source=2c26e567)
+
+《致两千年后的你》。相信我，就算你把漫画追到了最新话，你也完全不知道这个第一集题目说的究竟是什么，和作品的剧情完全没有关系。假如你觉得困惑，那么接下来的镜头会马上给你一点提示，这些镜头是关于少年艾伦的一个梦。
+
+![](https://pic1.zhimg.com/461e23d48de11627c133236ffeb77828_r.jpg?source=2c26e567)
+
+这些......都是些什么鬼镜头啊！假如你把漫画追到最新话再回来看这一段梦，你也会依然满头大汗莫名其妙。特别是那一堆娃娃和那一件军服让人相当在意，最重要的是，为啥艾伦会梦到他妈妈被吃的一幕啊。
+
+这段诡异的梦其实是动画原创的，漫画原著并没有。漫画对梦的描写只有一个镜头：三笠对艾伦告别，并说一路小心。
+
+![](https://picx.zhimg.com/116049053bff3ed0ae8c35394ab7beb8_r.jpg?source=2c26e567)
+
+但与之相反，漫画却在这个位置有一个突兀的描写，而这个描写被动画删掉了——艾伦醒来后的第一句话是：三笠你的头发怎么长了。
+
+![](https://pic1.zhimg.com/ffca2603f9be8cae0661dda0a135da07_r.jpg?source=2c26e567)
+
+无独有偶，在第四卷中间，就是让对三笠第一次表示爱意的时候，又再次出现了一次很突兀的对于三笠头发长度的描写（这一段动画并没有删）。
+
+![](https://pic1.zhimg.com/75522b06a219e4c4a3544ca5f2086376_r.jpg?source=2c26e567)
+
+重新回到第一集的开头部分。完全在梦中醒来的艾伦，开始莫名其妙地哭起来。
+
+![](https://picx.zhimg.com/6afe8db740ac40d5b33c15a6018315fd_r.jpg?source=2c26e567)
+
+![](https://pic1.zhimg.com/4409a8d5d7e54b3ea3d7e19c40528926_r.jpg?source=2c26e567)
+
+到此为止，在往后的剧情中（包括到漫画最新话），都再也没有出现好像第一集开头几分钟这样诡异的剧情了。再回头看这里的时候，这一分钟暗含的信息量仿佛直接指向这部作品的最核心之谜。这段剧情的奇怪之处在于，它仿佛充满很突兀的伏笔暗示，而且这些伏笔指向的谜底看起来并不是漫画的主要谜题巨人之谜——
+
+**巨人其实是一部轮回系作品啊！**
+
+曾经有人说，在写短篇小说的时候，把谜题的答案写在第一句话出乎意料地有效果——因为通常读者刚开始阅读的时候并没有进入状态，你获得的信息量是这么的少，根本不可能在那个地方开始就意识到问题所在。
+
+巨人的开篇有非常浓烈的轮回系作品味道（即使原著漫画并没有艾伦妈妈被吃的镜头），他和《魔法少女小圆》的开头基本上长得一模一样。那么究竟轮回者是谁呢？“给两千年后的你”这句话的主语和“你”又指的分别是谁呢？当你带着这个问题再去看一次剧情的时候，你会发现有一个角色，她的人物设定和古手梨花、我妻由乃、晓美焰极其相似——强烈的感情表现，不顾一切的抛弃现世感，和执着的行动力。
+
+这个人毫无疑问就是三笠阿克曼。
+
+假如让三笠作为轮回者作为前提重看漫画的话，感觉就有很多细节多多少少带点味道了：奇特的东洋人血统（害死了自己父母）、莫名其妙的头痛、特洛斯特攻防战中艾伦第二次变巨人时为什么首先给了三笠一拳等。
+
+-----------------------------------------------------------------------
+
+9月6日插入一个大家很喜欢提到的细节。就是艾伦妈妈刚被吃掉，汉尼斯叔叔哭着说“我没有对抗巨人是因为没有勇气啊”的时候，三笠有个貌似头痛捂着头的动作，然后自言自语地说：“又是这样么...”，这一段台词穿越者的感觉很浓。
+
+![](https://picx.zhimg.com/5e27882377a0a4cf6e30a57c26cd4ca5_r.jpg?source=2c26e567)
+
+-----------------------------------------------------------------------
+
+
+
+
+然后是谜题放出的第二部分。这是一个大大方方摆在很显眼的位置的无法让人不在意的描写点，那就是漫画单行本的封面。这些封面上有大量正篇没有的剧情，描述的是另外一个世界（或者应该说是上一个世界）的故事。我们来看看：
+
+![](https://pica.zhimg.com/50/f3133bba2f763f806612db185af0fafa_720w.jpg?source=2c26e567)
+
+最初的分歧出在第六卷。正篇中阿尔敏是在所在班成员全体丧生下独自面对女巨人的，女巨人踩地导致阿尔敏翻马，弄伤前额。这里不仅马不在，而且让和莱纳都在，而且看起来受伤的不像前额。
+
+![](https://picx.zhimg.com/50/f51986d09b55119a21647beae367e872_720w.jpg?source=2c26e567)
+
+第七卷封面。巨人化后的艾伦和利威尔班一起与女巨人战斗。看过动画最新集的同学可以知道，正正是因为艾伦相信同伴没有参与战斗才导致利威尔班全体牺牲。封面所画的场景不可能出现在剧情当中。
+
+![](https://pica.zhimg.com/50/c5a72e1cf905e0f883fd2e05cf2d71be_720w.jpg?source=2c26e567)
+
+第八卷封面，巨人化的艾伦在城中和女巨人战斗。本应出现在这里的阿尔敏并没有出现在镜头中。我猜想阿尔敏在第六卷封面处已死亡。
+
+![](https://picx.zhimg.com/50/1a72dfc926ef427d808fa57b22c4db5b_720w.jpg?source=2c26e567)
+
+
+
+
+第九卷封面。看过漫画的就知道，艾伦、三笠并没有遇见过猿之巨人，更别提艾伦巨人化和其战斗了，而且这里阿尔敏也没有在场。这里的剧情和正篇分岔相当严重。
+
+![](https://pic1.zhimg.com/50/19b84f9c2c05e95197c0a24d83eeb01d_720w.jpg?source=2c26e567)
+
+第十卷封面。第二次艾伦夺取战的主要人物们。应该在场的阿尔敏依然没有出现在封面当中。
+
+斗胆作出猜想，按照轮回系故事发展的尿性，单行本封面里的世界最后多半是走进了bad end，而且bad end结局最重要的分歧点就是阿尔敏究竟有没有死。在正篇故事中，阿尔敏没死是因为女巨人的真身对其手软，而手软的原因是因为104班训练兵的时候培养出来的感情。所以本质上，世界线重要的分歧点应该在训练兵时期的生活，有没有好好和别人打好关系（这真的不是在打galgame吗！）
+
+--------------------------------------
+
+9月5日插入楼下评论
+
+[@杨米娅](https://www.zhihu.com/people/f1f650976619558793eb2007ac7cc338)
+
+所说，虽然思路很天马行空，但我觉得挺有道理的。分歧点可以继续细化到“艾伦的立体机动训练装置有没有发生故障”这里。因为正是艾伦第一次训练出丑，才导致后面的受打击、四处求助、和大家打成一片这样的剧情，并获得“那个急着送死的混蛋”这样的花名，不然的话很可能他就会一直只和三笠和阿尔敏在一起了。装置毫无疑问是三笠破坏的，原著和动画均有提到“训练装置一直都有维护没理由坏的啊”这样的疑点。虽然我觉得三笠想得没这么远，她只是不想艾伦加入调查兵团而已。
+
+---------------------------------------
+
+谜题放出的第三个部分，是动画的第二首主题曲《自由之翼》的片头动画，动画里有三个情节让人相当在意：
+
+1、某个地方正在喷血和沐浴在血海中的阿尔敏。这段场景让人想起了单行本第六卷中的“阿尔敏之死”。
+
+![](https://pic1.zhimg.com/d63924da7bf6f08b2a034565d8aa6ba6_r.jpg?source=2c26e567)
+
+2、眼镜中弹的韩吉分队长。众所周知巨人的世界里主要战斗武器是剑刃，貌似只有宪兵团和王族会有枪？证明韩吉中弹的地方是城内？
+
+![](https://picx.zhimg.com/fcfce728a82ea74b7f976d6c3ed02fa0_r.jpg?source=2c26e567)
+
+3、歌曲高潮时，在巨树之森一同使用立体机动的利威尔兵长和利威尔班成员，还有歌曲高潮过后韩吉分队长满嘴是血的一个咬手镜头。这里就不截图了，和第七卷封面的分歧一样，在正篇当中，利威尔兵长并没有和他的成员一起使用立体机动的剧情，韩吉的剧情就更不用说了。
+
+巨人的动画制作虽然有时候会掉链子，但我相信这些细节都是经过谏山创同意才放上去的。事实上关于第二集艾伦接过面包的手上的特殊伤痕、特洛斯特攻防战中马可死前的一段剧情、还有新片尾曲中墙上画的战争涂鸦，这些都是漫画没有的，而且是对剧情之谜至关重要的细节。
+
+=============================================================
+
+其实为了谏山创一个伏笔就写了这么多，也只是想对巨人隐含剧情量和谏山创沉得住气的埋伏笔胸襟出尽全力地赞一个而已。其实总的来说不管上面写的这么多，起码在中国大陆范围内，这部漫画有个很显著的特点就是——死的人多啊！就凭这个残酷的亮点就足以给那些被jump系小强作品宠惯的读者的心脏狠狠送上一拳。
+
+
+---
+
+# 有哪些值得推荐的字体？ 惊蛰
+
+**Author:** 惊蛰  
+**Bio:**   
+**Avatar:** ![](https://picx.zhimg.com/efbe771ab_l.jpg?source=0df5f383)  
+**Author URL:** https://www.zhihu.com/people/948481051c134804e5fc0e6508a0b361  
+**Published:** 2014.02.14 19:54:00  
+**Updated:** 2015.09.09 10:46:36  
+**Question:** https://www.zhihu.com/question/20727176  
+**Question Created:** 2013.01.19 14:56:12  
+**Question Updated:** 2020.03.10 20:54:27  
+**Votes:** 27138  
+**Comments:** 703  
+**Type:** answer  
+
+每一款汉字都是一首诗，下面是一些值得推荐的中文字体。
+
+福利：关注汉仪字库微信公众号，回复“汉仪旗黑”，即可下载汉仪旗黑15款+全新56款。
+
+感谢
+
+[@曾浩](https://www.zhihu.com/people/5e572617e96bed88fc05e13aad0ae39e)
+
+[@王拓翔](https://www.zhihu.com/people/bcff7cca1e7e687d1ba1ed58a2b3dbf6)
+
+等众多知友的提醒，如有需要请务必购买正版。
+
+感谢@
+
+[于晏](http://www.zhihu.com/people/shesrebel)
+
+提醒，“方正清刻本宋悦简体”正确的名称是“方正清刻本悦宋简体”。
+
+update（2015年4月7日）
+
+----------------
+
+1 方正书宋简体
+
+![](https://picx.zhimg.com/dded056f58ec127cd82f24434e694913_r.jpg?source=2c26e567)
+
+2 汉仪旗黑 25
+
+![](https://picx.zhimg.com/7d59a58757998581183a522706b2bc2a_r.jpg?source=2c26e567)
+
+
+
+
+update（5月22日）
+
+----------------
+
+1 方正正纤黑简体
+
+![](https://pica.zhimg.com/368e7a98978c56535cbc2aba0ecc3b04_r.jpg?source=2c26e567)
+
+2 汉仪全唐诗简体
+
+![](https://picx.zhimg.com/f47b444fa52557a4bc8cd87dde918499_r.jpg?source=2c26e567)
+
+3 微软雅黑
+
+![](https://picx.zhimg.com/a0d6fdd2373c0a9a4e9585b485d31a16_r.jpg?source=2c26e567)
+
+
+
+
+
+
+
+----------------
+
+update（3月13日）
+
+非常感谢各位知友厚爱，今天更新四款字体。
+
+1 方正字迹-吕建德行楷
+
+![](https://pic1.zhimg.com/b8a8391dc3a4a9fc7fd6cfe10164943c_r.jpg?source=2c26e567)
+
+
+
+
+2 方正字迹-典雅楷体
+
+![](https://pic1.zhimg.com/89695f639694686a480ee8d373133cb3_r.jpg?source=2c26e567)
+
+
+
+
+3 八大山人字体试用版
+
+![](https://pica.zhimg.com/65efd28538531871fc851a8d097f97d4_r.jpg?source=2c26e567)
+
+4 方正清刻本悦宋简体
+
+![](https://picx.zhimg.com/9407948693b6aa11a0a728841c955245_r.jpg?source=2c26e567)
+
+
+
+
+----------------
+
+update（2月18日）
+
+1 方正幼线简体
+
+![](https://picx.zhimg.com/ef72b35c5923e195477d14fb868be9fe_r.jpg?source=2c26e567)
+
+2 方正兰亭刊宋
+
+![](https://picx.zhimg.com/7c3fc4756561f7ba97044e0d6b4d709a_r.jpg?source=2c26e567)
+
+
+
+
+----------------
+
+**典雅型：**
+
+1 方正宋刻本秀楷简体
+
+![](https://picx.zhimg.com/2e2238e4193a000a36ea9e83fe288c7d_r.jpg?source=2c26e567)
+
+2 康熙字典体（繁体）
+
+![](https://pic1.zhimg.com/88729f0244b460c8373ccf77c5e6d431_r.jpg?source=2c26e567)
+
+3 欧体楷书
+
+![](https://pic1.zhimg.com/620467606b205c319af24eb5b4daff67_r.jpg?source=2c26e567)
+
+4 方正苏新诗柳楷简体
+
+![](https://picx.zhimg.com/fec080c4845e70a5e4476392029fb75e_r.jpg?source=2c26e567)
+
+
+
+
+**柔美型：**
+
+1 方正简启体
+
+![](https://pic1.zhimg.com/0c932e161488f97790379d6e58549e2f_r.jpg?source=2c26e567)
+
+2 长城中行书体
+
+![](https://pica.zhimg.com/36eb981a8f8e7c4a6938dca45a13eef9_r.jpg?source=2c26e567)
+
+
+
+
+
+
+
+**灵动型：**
+
+1 书体坊米芾体
+
+![](https://picx.zhimg.com/f939d34b356e60c00fffb28ba87c2a29_r.jpg?source=2c26e567)
+
+2 祥南行书体
+
+![](https://picx.zhimg.com/833b5b44e3547b2b068c02dbf94dafa4_r.jpg?source=2c26e567)
+
+3 方正黄草
+
+![](https://pic1.zhimg.com/9720b8ad0e00a7303b9bbfd2131a139c_r.jpg?source=2c26e567)
+
+
+
+
+**精致型：**
+
+1 冬青黑体
+
+![](https://picx.zhimg.com/54aaa2db3e654e1877953385dc454135_r.jpg?source=2c26e567)
+
+2 昆仑细圆
+
+![](https://picx.zhimg.com/e0285fe4cb9828448eb5a254ca11c777_r.jpg?source=2c26e567)
+
+
+---
+
+# 在图文混合的信息流里面，如何突出纯文本的信息呢？ 这是eno
+
+**Author:** 这是eno  
+**Bio:** 20年服装与时尚行业从业经验，影响超60万人的穿搭引路人。  
+**Avatar:** ![](https://picx.zhimg.com/v2-ecb53e3185a6daac4892c850e3ffc5e8_l.jpg?source=0df5f383)  
+**Author URL:** https://www.zhihu.com/people/c787f14f842062d02852d6de36f89ae5  
+**Published:** 2013.06.08 01:09:18  
+**Updated:** 2023.06.07 19:12:33  
+**Question:** https://www.zhihu.com/question/21160234  
+**Question Created:** 2013.06.05 16:26:11  
+**Question Updated:** 2013.08.12 08:53:57  
+**Votes:** 2599  
+**Comments:** 4  
+**Type:** answer  
+
+以下根据本人十几年的行业经验，提供一些方法。
+
+经过如下方式处理的文字，会比普通文字更易被重视。
+
+**方法一：**
+
+![](https://picx.zhimg.com/50/e8ab2b210e198b56ea0c54da2acfe6fb_720w.jpg?source=2c26e567)
+
+最吸引人的，排在第一位的，永远是颜色。
+
+通过**放大字号**，其实就是放大了整体文本的色块面积，来与较弱色彩进行区分，来达到吸引眼球的目的。但只通过简单的字体放大，会给人造成内容粗糙的弊端。因此建议放大后的文本，选择带有衬线的字体，来弥补文字形式上的粗糙感。可参见下图。
+
+![](https://picx.zhimg.com/50/9d61cb1156026f4f4aad1bf06b4e750e_720w.jpg?source=2c26e567)
+
+通过复杂字体的笔画，一来可以解决视觉上内容粗糙的问题；二来，由于较为复杂的笔画，其实又无形中增加了颜色的面积。
+
+
+
+
+**方法二：**
+
+![](https://pica.zhimg.com/50/29ee3dacd118e4a5203cdff8a11462a0_720w.jpg?source=2c26e567)
+
+通过调整字体的颜色，从而使原本单调的单色，变成醒目的多色文本。但如果色彩搭配杂乱无章，除了增加阅读难度外，也会给阅读者造成文字内容粗糙的感觉。因此，建议参考下图。
+
+![](https://pic1.zhimg.com/50/cfcbb95ec4220209ac1e32e6d537ea3d_720w.jpg?source=2c26e567)
+
+通过颜色的有序渐变和将文字内容进行刻意的色彩区分，这样两种方式可以摆脱原有杂乱色彩带来的廉价感。另外将原有杂乱的点状色彩，变为面积更大的面状色彩，无形中同样加大了色彩的可视比例，从而起到吸引视觉的目的。
+
+**方法三：**
+
+![](https://pic1.zhimg.com/50/8bb711a2355b7130060597a72c6f4f28_720w.jpg?source=2c26e567)
+
+将文字反白处理，将色彩面积增大。
+
+也可使用下图方式。
+
+![](https://picx.zhimg.com/50/15ef07bd35b0d95b4d3fdc1d679d9c8e_720w.jpg?source=2c26e567)
+
+**小结：****在以上的举例中，其实是在反复论证色彩的重要性，通过最简单的方式增加色彩的面积，从而起到专注视觉的目的。但是需要注意的是，并不是颜色越多越亮就越好，错误的色彩搭配有时候会适得其反的使文字信息变得失去阅读者的信任。**
+
+**下面继续举例。**
+
+**方法四：**
+
+![](https://picx.zhimg.com/50/0f4db304bdba58422187d86e51ae474f_720w.jpg?source=2c26e567)
+
+在同等色彩与字体字号的情况下，人最容易注意到的，就是文本中的数字与英文，因为在人的阅读习惯中，数字与英文是作为图形去理解。因此通过阅读文本的内容，我们可以将文本中的某些信息，通过符号化的方式去表达，从而吸引人的注意力。
+
+但是如果遇到了文本中的信息实在不好找到符号化处理怎么办呢？那么可以参考下面的处理方式。
+
+![](https://picx.zhimg.com/50/ec0d5937fbeb9a04696b4746a90f6f6d_720w.jpg?source=2c26e567)
+
+看到了吗？其实我们可以通过人为增加符号的方式，使得整段文字更加吸引人！另外，其实标点符号我们也是作为符号来理解的哦！同理采用这样编辑方式的还可以在文字中间加入一些较萌的QQ表情，效果也会差不多！
+
+**方法五：**
+
+![](https://picx.zhimg.com/50/f50f4df552ae89295a7218b475a861ef_720w.jpg?source=2c26e567)
+
+事实证明，人们除了在吃药的时候会刻意的阅读说明书外，其余的时候是不会阅读长篇大论的文字，因此当文本信息过多时，需要充分的考虑阅读者的习惯，我们能做的，是通过工整的版式，让阅读者在阅读前就充分的知道这段文字阅读起来很容易，而不会出现串行等情况。只有他愿意读，他才会读下去。
+
+接下来继续完善。
+
+![](https://pica.zhimg.com/50/3673d59b5789dfb0c928ec23244e4fbb_720w.jpg?source=2c26e567)
+
+看到了没，虽然从整体上增加了文本的尺寸，但是从断句和行距上，更加切合阅读者的阅读习惯。这就好比让一个人一次步行10公里，和分5次来步行10公里的区别。而且放大了的文本，更加的增加了色彩的面积。
+
+**方法六：**
+
+再给大家一个最最最最简单，但是却是最最最最有效的方式。
+
+![](https://picx.zhimg.com/50/e5a2d2be80770a55c0d0eab492ef0ee3_720w.jpg?source=2c26e567)
+
+没错，那就是调换文字与图片之间的位置，事实证明，文字摆放在图片下方，会比放在图片上更加让人愿意阅读。
+
+**总结：****其实以上的举例，只是在证明我始终在做一件事，那就是尽量将文字图片化的处理，让文字给人的第一感觉更像是颜色或符号，从而消除观看者阅读前的心理障碍。**
+
+
+
+
+顺便说一句，可以看看我其它问题回答的文字排版方式，我的分段与文字加粗的首要目的，就是希望更好的方便阅读。知乎上的确有很多很好的答案，但是打开之后洋洋洒洒的数千字，加上枯燥的语言，结果很不幸的被埋没在了众多答案中。多站在他人的角度去思考，才可能发出被关注的声音。
+
+其实还有很多方法，都可以来提高文字的关注度，边做图举例边答题很累。就先到此为止吧！
+
+
+---
+
+# 日本动画中的摄影是一个什么样的岗位？ zecy
+
+**Author:** zecy  
+**Bio:** 小目标：日本漫画规制迷思  
+**Avatar:** ![](https://picx.zhimg.com/v2-abed1a8c04700ba7d72b45195223e0ff_l.jpg?source=0df5f383)  
+**Author URL:** https://www.zhihu.com/people/00c0e955b58805c94bd6983ec1a387c6  
+**Published:** 2014.08.09 22:04:28  
+**Updated:** 2014.08.09 22:04:28  
+**Question:** https://www.zhihu.com/question/24787555  
+**Question Created:** 2014.08.09 10:59:12  
+**Question Updated:** 2014.08.09 17:07:44  
+**Votes:** 762  
+**Comments:** 18  
+**Type:** answer  
+
+日本动画中的「撮影」就是中文说的「后期合成」。
+
+主要工作有三个方面：画面合成、运镜和特效，下面会分别说明。
+
+我在这个答案中提到过一下，可以作为基础先了解一下：
+
+[动画电影是如何制作的？](http://www.zhihu.com/question/21446684)
+
+
+
+
+
+
+
+先上个图让大家看看有没有摄影差多远。注意星星的发光效果和人物的光影效果。
+
+![](https://picx.zhimg.com/3390093882875e3e0ce46ecbc167ead7_r.jpg?source=2c26e567)
+
+
+
+
+这是《
+
+[以动画为业！Trigger流动画执行制片读本](http://zhuanlan.zhihu.com/zc-bookshelf/19789460)
+
+》中附带的关于《小魔女学园》的视频，8:30秒左右开始是摄影，大家可以看看有没有加摄影效果差别有多大。注意，这个视频开始没有声音，只有最后有声音，请注意音量。
+
+[triggerhttp://v.youku.com/v_show/id_XNzMzMTY0ODAw.html](https://link.zhihu.com/?target=http%3A//v.youku.com/v_show/id_XNzMzMTY0ODAw.html)
+
+
+
+
+那么，让我们先从名词说起。
+
+**「摄影」为什么叫「摄影」？**
+
+日本动画最初是画在一种叫做赛璐珞的透明胶片上面的，人物、背景都在不同的胶片上面。这些赛璐珞片最后都要转移到电影胶卷上面去，这样才能在从播放设备上播放。而把赛璐珞片转移到胶卷上面用的就是拍照的方式——把赛璐珞片叠起来，然后用摄像机把叠起来的片子拍到胶卷上面。
+
+正因为是用摄影机「拍摄」的，所以这个工序就叫「摄影」。
+
+![](https://picx.zhimg.com/c038c009fd64a382b1185f23d8693a5f_r.jpg?source=2c26e567)
+
+当时用的就是这样子的设备。
+
+动画电影《攻壳机动队》的摄影实例。可以看看「摄影台」是如何工作的。这里涉及到了一些特效。
+
+[日本动画传统摄影方法http://v.youku.com/v_show/id_XNTk0NTIxMzY0.html](https://link.zhihu.com/?target=http%3A//v.youku.com/v_show/id_XNTk0NTIxMzY0.html)
+
+
+
+
+在数码时代，已经不用这个方法了，都是扫描到电脑里面用软件来把不同的层合成。但是因为习惯的关系，所以大部分的动画公司都依然使用「摄影」这个术语。
+
+现代的日本动画摄影是这样做的。这里是加特效背景。
+
+[数字化摄影（无敌看板娘）http://v.youku.com/v_show/id_XNTkzNDU4NDAw.html?from=y1.2-1-176.3.1-2.1-1-1-0](https://link.zhihu.com/?target=http%3A//v.youku.com/v_show/id_XNTkzNDU4NDAw.html%3Ffrom%3Dy1.2-1-176.3.1-2.1-1-1-0)
+
+也因为是在用摄像机拍摄的，所以在拍摄的过程中就可以使用很多拍摄方面的镜头使用技法。常见的比如PAN（镜头平移）、Follow（跟拍）、T.U（拉近）、T.B（推远）等等。
+
+对于不了解日本动画制作流程的朋友可能不好想象，所以我特意找了一个入门级的教程视频。虽然是日语的，不过不需要听懂，看上面的术语就够了，做个大概了解是完全足够了。更深入的东西，可以等有了基本了解之后再去进一步深入。
+
+[动画摄影讲座http://v.youku.com/v_show/id_XNzUzMzM0NTY0.html](https://link.zhihu.com/?target=http%3A//v.youku.com/v_show/id_XNzUzMzM0NTY0.html)
+
+
+
+
+这个视频里面提到的内容，我会在下面结合图片说明一下。
+
+先回顾一下「摄影」的三个工作：
+
+- 背景和原画（角色）的合成
+- 运镜
+- 特殊效果
+- - 场景的临场感、气氛
+- - 光影处理，色调修正
+- 火焰、爆炸、风雪等等效果的加强。
+
+
+
+
+**1、合成**
+
+直接借用《动画基础知识大百科》的显浅说明图
+
+![](https://picx.zhimg.com/5186057b750edd3c44757b8180bb946a_r.jpg?source=2c26e567)
+
+
+
+
+在视频中，提到的「BOOK」是术语，意思是「背景之上的背景」，一般理解为「前景」也不算离谱。
+
+![](https://picx.zhimg.com/ab92588a460061c1abc39645d1d421f9_r.jpg?source=2c26e567)
+
+
+
+
+![](https://picx.zhimg.com/7f386c350d455fc140ad31b6c9ee666c_r.jpg?source=2c26e567)
+
+**2、运镜**
+
+动画中的运镜有两种主要实现方式，一是通过原画的作画来直接实现，另一种就是通过摄影来实现。
+
+摄影中常见的基本运镜大致上就是Fix、PAN、Follow、T.U、T.B等等。
+
+Fix就是镜头固定不动。
+
+PAN就是镜头平移，视频中6:00左右开始用实践演示。
+
+Follow就是跟拍，角色固定在镜头中间，背景在移动。
+
+T.U就是镜头拉近，T.B相反。
+
+当然还有很多其他的，不列举了。
+
+**3、特殊效果**
+
+这一块可以说是「摄影」的核心工作。摄影加进来的特效相当多。日本电视动画可以说没有一部是不用特效的。
+
+再次借用《动画基础知识大百科》的图：
+
+![](https://picx.zhimg.com/39e8e1c8d7f91320a96f20cf9f86e4c6_r.jpg?source=2c26e567)
+
+
+
+
+这是最常见的一种特效——给角色加光影效果。动画角色中头发的光亮、闪闪发光的眼睛、明媚的阳光等等，都是特效的一种。
+
+另一种很常见的特效就是透射光。透射光看起来的效果就是边缘羽化，比如这样的：
+
+![](https://picx.zhimg.com/2007e1095ff452f814a9eb2382585ab0_r.jpg?source=2c26e567)
+
+
+
+
+实际效果大致是这样，注意枪口火光的白色部分。
+
+![](https://picx.zhimg.com/2a185efecb40717b5dab028ccea885d6_r.jpg?source=2c26e567)
+
+
+
+
+
+
+
+还有曝光。
+
+![](https://picx.zhimg.com/8f03daef17f7d5b1c23d5b4ad9e59a65_r.jpg?source=2c26e567)
+
+
+
+
+除了光，还有镜头方面的特效，比如遭遇冲击时画面的震动：
+
+![](https://picx.zhimg.com/a7e51e423cb6c6370cf84a94b1f64266_r.jpg?source=2c26e567)
+
+
+
+
+背景虚化
+
+![](https://pic1.zhimg.com/a6aa472a7b958c69ddc9aec78b084774_r.jpg?source=2c26e567)
+
+
+
+
+此外，还有很多常见的特效，比如淡入淡出。
+
+![](https://picx.zhimg.com/d66b763711b153279dd4123eef2a0585_r.jpg?source=2c26e567)
+
+
+
+
+一些常见的转场效果，比如OVERLAP。
+
+![](https://pic1.zhimg.com/36169f577b25da508cb66e38573b496b_r.jpg?source=2c26e567)
+
+
+
+
+EYE CATCH。
+
+![](https://picx.zhimg.com/448a4c1a4a70710f6cbd4a8bb78388bc_r.jpg?source=2c26e567)
+
+
+
+
+天气方面的特效视频9:34秒开始，那些飘雪就用了特效。
+
+**CG和摄影的关系**
+
+随着日本动画越来越多使用CG，特别是3DCG，摄影这一块在动画制作过程中越来越重要。因为摄影所使用的工具和CG使用的工具是有重合的，特别是After Effects。因此，CG应用在动画中的时候，仰赖的往往就是摄影这一块。
+
+CG要融入画面，特效合成是必不可少的，让你们看看有没有做摄影特效效果可以差多少。
+
+来自CGWORLD的《アニメCGの現場2014》，作品是动画电影《剑风传奇 黄金时代篇III 降临》，
+
+![](https://pic1.zhimg.com/55df007b7ddf4038ef69dbdcbae03e44_r.jpg?source=2c26e567)
+
+左边是3D动画的画面，右边是加上摄影特效的完成版画面。
+
+对于3DCG，特效多重要一目了然。类似的例子还有很多，这书的2013和2014我找个时间扫了吧，让大家多看看目前日本3D动画大致上是个什么情况。
+
+
+---
+
+# 如何比较数码绘画中「先单色后叠色」和「直接上色」这两种方法？ chenchao
+
+**Author:** chenchao  
+**Bio:** 嘴强王者  
+**Avatar:** ![](https://pic1.zhimg.com/v2-6059a963d44de49a5bc9c6d17d16a515_l.jpg?source=0df5f383)  
+**Author URL:** https://www.zhihu.com/people/aceafed1bc0ecf31ecbce6b88d531b7a  
+**Published:** 2014.08.12 20:24:55  
+**Updated:** 2014.08.12 20:24:55  
+**Question:** https://www.zhihu.com/question/24816998  
+**Question Created:** 2014.08.11 23:50:22  
+**Question Updated:** 2014.08.11 23:50:22  
+**Votes:** 120  
+**Comments:** 15  
+**Type:** answer  
+
+！超·多图多视频无双预警！
+
+在解答题主的问题前，大家先来看一下一些大神们或值得学习的人们的作画步骤
+
+1.杨奇-
+
+[Sina Visitor System](https://link.zhihu.com/?target=http%3A//weibo.com/yangqi917%3Ffrom%3Dprofile%26wvr%3D5%26loc%3Dinfdomain)
+
+![](https://pic1.zhimg.com/a398b2d759c20cbdaeeb5cef4f009ea8_r.jpg?source=2c26e567)
+
+![](https://picx.zhimg.com/4ac38292c346d21df11f454ba0483afc_r.jpg?source=2c26e567)
+
+![](https://pic1.zhimg.com/4fbd606e9e1ff4f7cb2df53b482d52dc_r.jpg?source=2c26e567)
+
+![](https://picx.zhimg.com/8408df957861305a92695ef1a6da9433_r.jpg?source=2c26e567)
+
+![](https://pic1.zhimg.com/f27fd08306de9d6e844a4087ed669cb5_r.jpg?source=2c26e567)
+
+![](https://picx.zhimg.com/073c9dcdafcf0c89f7bbb2771019f971_r.jpg?source=2c26e567)
+
+![](https://picx.zhimg.com/6ae16eb9188b49cc065d0a51843303a0_r.jpg?source=2c26e567)
+
+![](https://pica.zhimg.com/3710c10716e8257c4b447edf9a08e096_r.jpg?source=2c26e567)
+
+![](https://pica.zhimg.com/3886f319a57cc415c44b4057e29d3ccf_r.jpg?source=2c26e567)
+
+
+
+
+杨奇在视频里面说过他是学了4年油画的，先黑白后上色比较符合他的作画习惯并且快速和省事，这也是为什么他画面里有很多黑色的原因。杨奇没出过绘画步骤视频但是如果看过他的讲座视频多少能了解一些他绘画的过程。
+
+[【2014-08-02】 杨奇《华丽的目前，苦逼的幕后》 上](https://link.zhihu.com/?target=http%3A//v.youku.com/v_show/id_XNzUwMTIwMTU2.html)
+
+[【2014-08-02】 杨奇《华丽的目前，苦逼的幕后》 下](https://link.zhihu.com/?target=http%3A//v.youku.com/v_show/id_XNzUwMTE3MDg0.html%3Ffrom%3Dy1.2-1-87.3.1-2.1-1-1-0)
+
+
+
+
+
+
+
+2.黄光剑-
+
+[Sina Visitor System](https://link.zhihu.com/?target=http%3A//weibo.com/hgjart%3Ffrom%3Dprofile%26wvr%3D5%26loc%3Dinfdomain)
+
+
+
+
+![](https://pica.zhimg.com/c87f417cdbb4ba181b1cd319aae4eb66_r.jpg?source=2c26e567)
+
+这是GJ的十二星座其中一张，是直接色彩起稿的。
+
+再贴一个他最近出的绘画步骤视频，从视频中看到GJ先是黑白起稿然后上色然后细化调整。
+
+[上帝木偶视频教程（上）](https://link.zhihu.com/?target=http%3A//www.tudou.com/programs/view/ysmkr8HG5Hg/%3FresourceId%3D383737299_06_02_99)
+
+[上帝木偶视频教程（下）](https://link.zhihu.com/?target=http%3A//www.tudou.com/programs/view/d9DDDnu7nz8/)
+
+
+
+
+
+
+
+3.阮佳-
+
+[Sina Visitor System](https://link.zhihu.com/?target=http%3A//weibo.com/ruanjiacg1)
+
+
+
+
+抱歉我没有在网上找到ruanjia的绘画图文步骤不过有视频，这个剑圣兽人是简易草稿然后上色绘画的，但是阮佳自己都说这是用几年前的技术画的，所以没有太大参考价值。
+
+[阮佳 20140216剑圣兽人范画.YY](https://link.zhihu.com/?target=http%3A//v.youku.com/v_show/id_XNjc0MDk5NDg4.html)
+
+再看ruanjia这个步骤，先黑白草稿后上色续画细化调整
+
+[阮佳YY交流会2014.1.4](https://link.zhihu.com/?target=http%3A//v.youku.com/v_show/id_XNjU3NTMwOTY0.html)
+
+
+
+
+4.纹银-
+
+[Sina Visitor System](https://link.zhihu.com/?target=http%3A//weibo.com/akira1208%3Ffrom%3Dprofile%26wvr%3D5%26loc%3Dinfdomain)
+
+
+
+
+![](https://picx.zhimg.com/43b033f884a7617a7dcca2cd0363992b_r.jpg?source=2c26e567)
+
+![](https://picx.zhimg.com/1e54017bb871d4b1e19dead41aab05b2_r.jpg?source=2c26e567)
+
+![](https://pica.zhimg.com/8b0e664abc002b36757ec4a59f024d82_r.jpg?source=2c26e567)
+
+![](https://pica.zhimg.com/e8dcb1660bc6839fd9292c324e90e113_r.jpg?source=2c26e567)
+
+![](https://picx.zhimg.com/47d6df828f9175b0dad14bdb0d2396b4_r.jpg?source=2c26e567)
+
+![](https://pic1.zhimg.com/0b4f9da1c01b6916203754c724eda3f1_r.jpg?source=2c26e567)
+
+![](https://pic1.zhimg.com/b45fb89fd290ffe3bd9354617c0a3bf4_r.jpg?source=2c26e567)
+
+
+
+
+都是直接色彩起稿。
+
+5.其他
+
+直接色彩起稿：
+
+[Peleng6—在线播放](https://link.zhihu.com/?target=http%3A//v.youku.com/v_show/id_XNzA0MDAxMzU2.html)
+
+[Peleng—在线播放](https://link.zhihu.com/?target=http%3A//v.youku.com/v_show/id_XNzAzNjc3ODc2.html%3Ffrom%3Dy1.2-1-87.3.3-1.1-1-1-2)
+
+
+
+
+[tightan.720p](https://link.zhihu.com/?target=http%3A//v.youku.com/v_show/id_XNzEzOTg5NDU2.html%3Ffrom%3Dy1.2-1-176.3.1-1.1-1-1-0)
+
+
+
+
+[tightan.720p](https://link.zhihu.com/?target=http%3A//v.youku.com/v_show/id_XNzEzOTg5NDU2.html%3Ffrom%3Dy1.2-1-176.3.1-1.1-1-1-0)
+
+
+
+
+[FFIX fanart.720p](https://link.zhihu.com/?target=http%3A//v.youku.com/v_show/id_XNzE0MTI3NzQw.html%3Ffrom%3Dy1.2-1-176.3.4-1.1-1-1-3)
+
+
+
+
+[Painting Process of [Are You Free Tonight]  I](https://link.zhihu.com/?target=http%3A//v.youku.com/v_show/id_XNzIzOTEzODY0.html%3Ffrom%3Dy1.2-1-87.3.2-2.1-1-1-1)
+
+
+
+
+[https://www.youtube.com/watch?v=5crPZW1extY](https://link.zhihu.com/?target=https%3A//www.youtube.com/watch%3Fv%3D5crPZW1extY)
+
+
+
+
+黑白灰后上色：
+
+[AJ contest.720p](https://link.zhihu.com/?target=http%3A//v.youku.com/v_show/id_XNzE0MjA5MTMy.html%3Ffrom%3Dy1.2-1-103.3.3-1.1-1-1-2)
+
+[【2014-08-06】黑白灰上色技巧与解析](https://link.zhihu.com/?target=http%3A//v.youku.com/v_show/id_XNzUyMDI3MTEy.html)
+
+
+
+
+[https://www.youtube.com/watch?v=rC3A1k68OOQ](https://link.zhihu.com/?target=https%3A//www.youtube.com/watch%3Fv%3DrC3A1k68OOQ)
+
+
+
+
+
+
+
+看了这么多其实我只想说题主问的这个问题就像那个大大是用的什么笔刷，求一个，说白了那个大大的笔刷给你你也画不到这么好，估计之后还有什么贴材质贴照片等等问题，他们不管先黑白灰还是直接色彩起稿最终效果都挺好的，我不相信今天有人在这说黑白灰是最好的你这辈子就不色彩起稿画一张画了，你如果平常练习时间多可以自己试试多种的方式绘画，找到最适合你的那一种，找到你画的最开心最便捷的方法，过程造成结果的不同也许还会形成你独特的风格，并且没有非此即彼，所有的方法技巧都只是为最后出现好的结果服务的。
+
+相关问题：
+
+[什么是 Concept Art？](http://www.zhihu.com/question/23684445/answer/25335726)
+
+
+---
+
+# 怎样看出电影是剪辑的功力还是导演的功力？ Amene Amakawa
+
+**Author:** Amene Amakawa  
+**Bio:** starving filmmaker / 特困行业从业人员  
+**Avatar:** ![](https://pic1.zhimg.com/f2ba7e627_l.jpg?source=0df5f383)  
+**Author URL:** https://www.zhihu.com/people/0e832ae3bd912070f672cd5c1cc95208  
+**Published:** 2013.10.31 16:13:56  
+**Updated:** 2016.12.22 13:16:25  
+**Question:** https://www.zhihu.com/question/20801202  
+**Question Created:** 2013.02.25 13:45:43  
+**Question Updated:** 2013.02.25 13:45:43  
+**Votes:** 297  
+**Comments:** 34  
+**Type:** answer  
+
+我的回答基於工業體系之中。然而藝術片和商業片本身就是兩種物品，固本身立意不同。因此，對藝術片的剪輯解讀只是有較少的參考價值。
+
+
+
+
+大家似乎覺得導演是獨裁者，什麼都干，什麼都管，確實很大程度上也是；但是其實導演和剪輯之間還是有分工的，而且很明確：剪輯師是管剪輯的；而導演，顧名思義，是引導演繹的，英文director 似乎更能夠解釋導演是幹嘛的，“direct” ＋“or”，給予方向的人，給予劇組成員方向，以實現他腦中畫面。剪輯和導演是，兩個職位有著完全不同的定位，剪輯是後期工作者，不在拍攝現場，導演是貫穿整個片子的製作的，特別是現場對於演員演繹的導向。
+
+**電影是個團體工作，很難說明究竟是誰的功力更大。**你說畫面感，是導演的功力？還是攝像的功力？在Life of Pi 後，畫面甚至是CGI的功力。你說服裝，是導演的功力？還是美術指導的功力？所以說好電影是導演還是剪輯的功力，我覺得幾乎無法明確得區分開來。一定要明確得區分開來的話，大致上可以說是，**講故事的方式是大部份是剪輯的功力；剪輯師是幫助導演用最合適的方式去講故事的一個，重要的角色。**
+
+**剪輯師基本是在以觀眾的角度考慮這個故事是否能被理解，試圖把故事用觀眾能看懂的方式講好。如果是紀錄片，片段都是不在預期內的，剪輯基本就是 “導演”。剪輯對一部電影的影響是相當大的。**
+
+**真要分清是誰的功力更大的話，建議先了解一下剪輯是什麼東西。**剪輯基本上重塑了一部電影；footage（素材）不剪，是不會變成一部電影的，它們只是一段段片段。所以，基本上，拿到 footage 後，剪輯會做粗剪，然後導演會來看粗剪，給予自己的見解，雙方達成共識，然後剪輯再去各種修改，然後形成電影。剪輯可以有無數種節奏和影響，甚至最適合這些 footage 的表達方式和劇本順序都有出入。
+
+所以一部電影其實到完成為止，基本上有三個版本，劇本版本，到拍攝就有了拍攝版本，剪輯完了後就有了剪輯版本。一部電影的最終一個版本，就是剪輯的最後一切。
+
+現在都是 NLE（Non－linear Eiditng）的時代，關於剪輯的歷史，推薦去看紀錄片：
+
+[电影剪接的魔力 (豆瓣)](https://link.zhihu.com/?target=http%3A//movie.douban.com/subject/1778624/)
+
+，土豆：
+
+[PBS电影剪接的魔力.The.Cutting.Edge.-.The.Magic.of.Movie.Editing_在线视频观看](https://link.zhihu.com/?target=http%3A//www.tudou.com/programs/view/1kh4s7rCFz0/)
+
+；於是我不囉嗦了。
+
+但是剪輯這件事情，其實是用 Walter Murch 的話來說，便是，是人腦對畫面的理解；有點類似觀眾心理研究。基本上是 audience oriented 的一門藝術，是需要站在觀眾的角度去理解畫面是否能交代情節。（順便推薦他的書 《眨眼之間》
+
+[眨眼之间 (豆瓣)](https://link.zhihu.com/?target=http%3A//book.douban.com/subject/11601218/)
+
+）
+
+這個關於人腦對畫面理解的研究，也可以追溯到蘇聯時期的剪輯師， Eisensetein，也就是現在最常用的一種剪輯手法，蒙太奇（montage）的創始人；紀錄片裡面有說，強烈推薦去看看，如果對剪輯感興趣的話。
+
+一部片子有很多剪的方法。一部按照時間順序敘事的片子，進到剪輯室後可以倒著說，比如電影 “Memento”
+
+[记忆碎片 (豆瓣)](https://link.zhihu.com/?target=http%3A//movie.douban.com/subject/1304447/)
+
+，這個電影裡面，倒著說故事的方式，更適合故事的情節，觀眾也更能感受到更多的驚喜。剪輯的多樣性要歸功於 Avid 的誕生，數碼剪輯的方式，讓故事的說法有了大大的改變。具體想了解，也是可以去看
+
+[电影剪接的魔力 (豆瓣)](https://link.zhihu.com/?target=http%3A//movie.douban.com/subject/1778624/)
+
+； 土豆：
+
+[PBS电影剪接的魔力.The.Cutting.Edge.-.The.Magic.of.Movie.Editing_在线视频观看](https://link.zhihu.com/?target=http%3A//www.tudou.com/programs/view/1kh4s7rCFz0/)
+
+。
+
+剪輯師一直是在嘗試以觀眾的視角來看待整個故事是否能被理解。儘管導演有作者光環**，但是，把故事拍好是導演的功勞，把故事講好卻是剪輯的功勞。**
+
+＝＝＝＝＝＝＝＝＝＝好，我要開始囉嗦了，有耐性的人可以看看 ＝＝＝＝＝＝＝＝＝＝＝＝＝
+
+至於一部完整的電影很難看出來具體是誰的功勞更大，真的要分是誰的功勞更大的話就要去挖劇本了。
+
+但是事實上，在一部電影的拍攝中，隨著拍攝的進行，出來的footage多少會和劇本有出入；想像中的畫面，和最終拍出來的畫面多少會有區別。因為導演跟著整個拍攝過程跑，甚至有時候為了拍好一些片段，而離原本的想法越來越遠。拿到片子後，導演多數情況是當局者迷，他也開始不知道怎麼拿捏了，他也不知道哪段好，哪段不好，準確來說，每段片段他都很愛；他甚至會做無理的要求，比如：“ 花了好多時間才能把這段拍好！我一定要用！” 但是事實上，這一段 “花了很多時間拍的片段” 未必適合片子整體的感覺，不一定是這個電影的最好的講述方式；所以其實我們現在看到的電影，不一定是符合最初劇本的設定。
+
+**而剪輯師的工作是用已有的材料重新把故事，用觀眾能理解的方式，講一遍。**
+
+在一般好萊塢系統中，剪輯是不參與拍攝的，不會被 “花了很多時間拍的片段” 矇住雙眼，這樣剪輯可以完整得保留自己見地，去發揮自己對於劇本的理解，竟可能得在已有的 footage 的基礎上還原劇本中的情形，同時，製造 tension（戲劇張力），**竟可能從觀眾能理解的角度出發去表現導演腦中的畫面**。
+
+而如何在剪輯中製造戲劇張力，和選擇的片段有關，與聲音的剪輯的點（edit point）有關。電影中的一個場景會有很多機位，比如一對人在喝咖啡聊天的情景，有一個側面的兩個人的鏡頭（two shot），有一個過肩鏡頭（OTS，over the shoulder），有近距離（close up），等等。而剪輯師的工作就是在眾多片段中，選擇合適的時機（timing），用合適的鏡頭（shot），選擇合適的演繹（performance），在合適的節奏下（pace），展現這個故事（narrative），表達一種情緒（emotion）。**最終情緒服務到故事，也同時感染觀眾，昇華故事。**
+
+我這裡也只是介紹了剪輯的工作，**一部電影中，導演和剪輯誰的功力更大，也是因片而異，很難一概而論，但是把故事put into shape 的人是剪輯，把故事講好的人依然是剪輯。**劇本最後版本就是剪輯最後的一剪。
+
+呼，說了好多。希望有解釋到你的疑問。
+
+最後還是要加一句，個人經歷，僅供參考。
+
+
+
+
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝ 延伸問題的回答＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+
+Q：我看有的电影（如：画皮）会像做动画一样先画个分镜稿，请问这对电影画面有什么影响？对导演和剪辑有什么影响？
+
+A：分鏡主要是導演用來和攝像導演溝通 演員活動，相機角度，相機移動方式等，的一連串繪畫或者是動畫。
+
+因為在拍之前其實有很多前期溝通以及準備工作，分鏡就是其中一種 previsualization（抱歉我是在找不到合適的翻譯，不過可以按照構詞法來理解， pre visual，提前看到，但是這個看到比較思維上的看到，而不是物理上的） 的溝通手法。主要是給攝像導演一個場景大致 佈置，人物活動，相機移動，取景的感覺；特別是複雜的相機移動和角度，比如一些特效場景。這樣，導演和攝像導演會更好地理解以及討論該用什麼樣的方式去拍。
+
+分鏡對剪輯的影響不是特別大；除非是一些複雜的人物活動，或者特效鏡頭，剪輯看到分鏡後，可以理解導演的用意，以便在剪輯的時候參考或者是延伸出更有效果的剪輯。
+
+但是主要還是用在前期，類似整部電影的一種“排練”，像是一種電影的“草稿”。
+
+Q：非线性不是指数字化编辑吗？但爱森斯坦的剪辑方法，我记得在大卫波德维尔的《电影艺术》里面说是非连贯性剪辑，这两个应该不是一个概念吧？非连贯性剪辑是现在常用的手法，那现代好莱坞和传统好莱坞有什么区别呢？
+
+A：首先，NLE 中 linear 不是線性的意思，應該翻譯叫做「連貫」。因為早期的拍攝和剪輯都是按照劇本的時間順序去拍攝的，而不是像現在這樣一個地點拍完跑下一個地點的。是一種非常沒效率的拍攝方法，而且用的也是膠片拍攝，膠片剪輯，這樣的剪輯也相對麻煩。所以早期電影剪輯都幾乎只是剪去不好的地方，把動作連接起來，沒有什麼特別關於劇情上的創新，也沒上升到一種藝術，純技術活兒，這種剪輯，叫做 linear editing，連貫地按照劇本，一個場景接著下一個場景來剪輯。
+
+愛森斯坦開創用的剪輯手法叫做 蒙太奇，和 NLE 是兩回事兒。
+
+我這裡分別說明。
+
+NLE是數碼時代才出現的一種剪輯的「系統」，因為素材可以翻來覆去地看，而且在軟件的time line上可以更好地看到整部片子的佈局，很方便修改。而且也不一定要場景一剪完才能剪輯場景二，可以直接剪輯場景三，再來剪輯場景一和場景二，因為電腦非常方便修改，只要記得保存就行了。
+
+蒙太奇 祇是一種剪輯的「手法」，現在經常用。建議直接去看那紀錄片，解釋得估計比我要清楚。大致解釋起來，就是人腦自動連接畫面裡面的元素，形成一個故事。基本的概念就是
+
+「一個男人的鏡頭」
+
+「一個美好的家庭的鏡頭」
+
+「再來一個這個男人笑的鏡頭」
+
+那我們感覺得到這個男人覺得幸福。
+
+然後我們把中間的美好家庭的鏡頭換成一個食物的鏡頭。那就變成
+
+「一個男人的鏡頭」
+
+「食物的鏡頭」
+
+「再來一個這個男人笑的鏡頭」
+
+我們就會覺得這個男人是餓了，感覺馬上就變了。
+
+所以其實這些祇是一個個畫面而已，是我們腦子把這些畫面裡的元素連接在一起進行理解。用崑丁的話來說就是，「電影就是一場幻覺」。
+
+
+---
+
+# 适合 UI 设计师 看的心理学方面的书有哪些？ 邓大大
+
+**Author:** 邓大大  
+**Bio:** 做人之道即设计之道  
+**Avatar:** ![](https://pica.zhimg.com/v2-1ca3581ce79b996542f70a4a465ee4d9_l.jpg?source=0df5f383)  
+**Author URL:** https://www.zhihu.com/people/35ec0cb134d01cc057785f841911f953  
+**Published:** 2011.12.20 17:01:43  
+**Updated:** 2011.12.20 17:01:43  
+**Question:** https://www.zhihu.com/question/19912275  
+**Question Created:** 2011.11.11 15:44:27  
+**Question Updated:** 2011.11.11 15:47:38  
+**Votes:** 9  
+**Comments:** 4  
+**Type:** answer  
+
+首推诺曼博士的《设计心理学I》，《设计心理学II》。然后是关于认知和决策方面的其它心理学书籍。
+
+
+---
+
+# 怎么画类似于新海诚那种风格的云？ whon大吉
+
+**Author:** whon大吉  
+**Bio:** Art Designer/网易  
+**Avatar:** ![](https://pic1.zhimg.com/5ab12b1e469f4690d70a6c8ff53c956a_l.jpg?source=0df5f383)  
+**Author URL:** https://www.zhihu.com/people/467d3eb74079dd6a005cb085c30814fb  
+**Published:** 2014.09.18 16:50:24  
+**Updated:** 2017.03.02 14:10:25  
+**Question:** https://www.zhihu.com/question/25257600  
+**Question Created:** 2014.09.08 18:18:06  
+**Question Updated:** 2014.09.18 15:48:50  
+**Votes:** 128  
+**Comments:** 8  
+**Type:** answer  
+
+首先我这里说的 是在传统游戏动画景绘所会使用的方法，至于那些 说用照片直接p的.....我这里就不说了什么了。
+
+上图说明下
+
+![](https://pic1.zhimg.com/ee6256504a7a749b0b32093f7e60a784_r.jpg?source=2c26e567)
+
+先从明暗上进行归纳，轮廓很重要，形要美，对于云而言不规则的边缘和气压提升所形成的饱满形象是很重要的。不同环境云的成因要搞清楚，别在一片荒凉的戈壁上画这一坨云，除非你想营造暴风雨的天况。
+
+亮面受光暗面因为有天光的反射所以先的 不是特别的暗，最暗的部分实际上集中在明暗交界线上。
+
+具体的画法下面给你步骤图，还有最讨巧的办法就是云朵笔刷，但塑造还是要你自己去好好塑造
+
+![](https://pica.zhimg.com/85b1c34fc963f88d46a25d1ddb4652c5_r.jpg?source=2c26e567)
+
+希望能帮到你!
+
+
+---
+
+# 知乎有哪些值得关注的画手？ 安李
+
+**Author:** 安李  
+**Bio:** 手持画笔的追梦人  
+**Avatar:** ![](https://pic1.zhimg.com/0f35d0c6708679031c4ec84f505ef990_l.jpg?source=0df5f383)  
+**Author URL:** https://www.zhihu.com/people/1af1a8f4d2f7ea9bcb3e5e222d864d7d  
+**Published:** 2014.09.13 16:46:43  
+**Updated:** 2017.03.09 11:15:43  
+**Question:** https://www.zhihu.com/question/25214786  
+**Question Created:** 2014.09.07 07:46:37  
+**Question Updated:** 2014.09.07 07:46:37  
+**Votes:** 3125  
+**Comments:** 84  
+**Type:** answer  
+
+以下推荐的答题者都是些非常优秀的人，希望大家多多关注。
+
+本答案附带一些个人评价和个人心水的答案，仅供参考，如有冒犯请原谅。
+
+[@赵丹霖](https://www.zhihu.com/people/1a941152111cf18646183c3b70f54c40)功底扎实，回答内容详细有用，干货满满，解答耐心。
+推荐的答案：[应如何解决绘画最终效果没有过程好的问题？](http://www.zhihu.com/question/24158275/answer/26871337)[如何绘制水面下的物体？](http://www.zhihu.com/question/24252581/answer/27356782)[职业插画师是怎样炼成的？](http://www.zhihu.com/question/20847212/answer/25223306)
+
+[@將軍真乃神人也](https://www.zhihu.com/people/4d24af510afc2686e1c70d89aade8717)漫画专业在读，风格美型，对漫画技法等有很深入的研究。
+推荐的答案：[日本漫画专业都教些什么？](http://www.zhihu.com/question/24457226/answer/27924333)[实景如何转插画？](http://www.zhihu.com/question/23922531/answer/28403882)
+
+[@顿顿顿](https://www.zhihu.com/people/fe95b7301b97c4059e61c572618ccfb1)功底扎实，讲解深入易懂。
+推荐的答案：[如何画好胸部？](http://www.zhihu.com/question/24617934/answer/28695991)[漫画里，怎么画裙子和腿？](http://www.zhihu.com/question/20975117/answer/25259405)
+
+[@三皮](https://www.zhihu.com/people/7f4ceff4280a62f5276aa2245dc8404d)画风独特，用线条表达体积感的功力很深厚。
+推荐的答案：[如何练习绘画线条？](http://www.zhihu.com/question/20749574/answer/16050154)
+
+[@邓飞飞](https://www.zhihu.com/people/634b92ee17322257a9fb332259f33b95)动画专业在读，回答简明易懂。
+推荐的答案：[如何在有限的画面中表达出无限的空间感？](http://www.zhihu.com/question/24876119/answer/29289593)
+
+[@坛子鸦](https://www.zhihu.com/people/e6fa6fae41d56969578ef89e6b8f0f45)答案多干货，实用性很强。
+推荐的答案：[如何把一张照片用 Photoshop 做成动画背景效果？](http://www.zhihu.com/question/24541935/answer/28157828)
+
+[@deo.R](https://www.zhihu.com/people/f92da1bdfe6381f5b9071dde7304c072)插画名家，功底极深。
+推荐的答案：[学美术怎么记人体结构？](http://www.zhihu.com/question/22575355/answer/29219926)
+
+[@Zeratul](https://www.zhihu.com/people/dbb35b6bdf445a9640c23e3cc2da344f)干货多，答案易懂易上手。
+推荐的答案：[漫画素描的头发怎么画顺？](http://www.zhihu.com/question/19861023/answer/24044515)[如何比较数码绘画中「先单色后叠色」和「直接上色」这两种方法？](http://www.zhihu.com/question/24816998/answer/29083014)
+
+[@乃门](https://www.zhihu.com/people/46cc39bde64059ab6d96e9d650d26e64)答案深入浅出，值得慢慢品读，专注度也很高，干货十足。
+推荐的答案：[CG场景绘制时为了拉开距离塑造空间感而不敢在远处使用重色 ，这个问题如何解决呢？？](http://www.zhihu.com/question/24573827/answer/29356478)[什么是绘画里的节奏感？](http://www.zhihu.com/question/24678985/answer/28622610)
+
+[@朱小洛](https://www.zhihu.com/people/b49134d1b334bcf0befdce324732d5bd)绘画技巧方面的回答很有用。
+推荐的答案：[为什么创作一话漫画要这么久 ？](http://www.zhihu.com/question/24320012/answer/27476043)[实景如何转插画？](http://www.zhihu.com/question/23922531/answer/28409932)
+
+[@朱彤](https://www.zhihu.com/people/d1bb27c6955b6ce69d8bd0bb0fdd7880)CG绘画技法相关的答案较多，值得一看。
+推荐的答案：[如何自学插画？](http://www.zhihu.com/question/22573182/answer/21966084)[CG插画，黑白罩染法的过渡面质感及平滑，不知道哪里出问题？](http://www.zhihu.com/question/24824812/answer/29109694)
+
+[@泰尔德](https://www.zhihu.com/people/654672515ff3fa584df2ac088119a060)答案挺易懂的。
+推荐的答案：[画的人物没有立体感该如何解决？](http://www.zhihu.com/question/24711653/answer/28888969)
+
+
+
+
+[@华乙憧](https://www.zhihu.com/people/ca09a0810fabc15ab8f6d31f9c96be7b)绘画相关的讨论很值得一看。
+推荐的答案：[【绘画】比如画人物，其实脑子里把所有的东西，神态，动作等都构造好了，为什么就是画不出来？](http://www.zhihu.com/question/24264200/answer/28441505)
+
+[@林亨都](https://www.zhihu.com/people/a79578e74434db29a2c469fb26ee90d1)答案实用性很强。
+推荐的答案：[无任何绘画基础的人，如何能快速练成随手画点小东西的技能？](http://www.zhihu.com/question/20892562/answer/27769754)
+
+[@誼子](https://www.zhihu.com/people/2ef60ae423b032febd0c78102040e9f5)答案实用性强。
+推荐的答案：[怎样画好在半空中飘动的头发？](http://www.zhihu.com/question/24876138/answer/29666641)
+
+
+
+
+[@来须苍真](https://www.zhihu.com/people/e9516dbf455ec535ff61c9395a49c4da)干货多，对游戏美术方面研究深入。
+推荐的答案：[对游戏来说，如何归纳和分类美术风格比较合理？](http://www.zhihu.com/question/22530411/answer/26627595)
+
+
+
+
+[@庄泽曦](https://www.zhihu.com/people/9f1405492109573d8d511f6a759eb7f7)专注度非常高，绘画板块的答案都很值得一看。
+推荐的答案：[庄泽曦 在话题 绘画 下的回答](http://www.zhihu.com/people/zhuang-ze-xi/topic/19557725/answers)
+
+[@闻檀眠](https://www.zhihu.com/people/6447e3a1fef5fb726bf996bab7cdb4f7)推荐的答案：[27岁开始学画画，晚不晚？还来得及走专业的路吗？](http://www.zhihu.com/question/22585082/answer/21918314)
+
+[@任凯](https://www.zhihu.com/people/76e99268d6cd72a8700c7ff5c02ac093)漫画人，观点和绘画技巧均值得一看。
+推荐的答案：[用 3D 渲染来创作漫画，可行性高吗？](http://www.zhihu.com/question/22524633/answer/21650061)[在现在的环境下漫画家值得一赌么？](http://www.zhihu.com/question/21800949/answer/19366141)[怎样才能把人画得既卡通又写实，并有自己的画风？有什么科学的练习方法？](http://www.zhihu.com/question/25098530/answer/30924958)
+
+[@刘珞可](https://www.zhihu.com/people/be4dfafeb0ef9f25b8a02396318910f8)推荐的答案：[如何练习绘画线条？](http://www.zhihu.com/question/20749574/answer/23099594)
+
+[@Lea Liu](https://www.zhihu.com/people/858e9c2c477844f0abf5faee3d232690)推荐的答案：[游戏美术，同事画得太厉害，自卑不敢画怎么办？](http://www.zhihu.com/question/23311313/answer/24555325)
+
+[@曹孟德斯鸠](https://www.zhihu.com/people/8cf754a34a7c9629c64f460e8ee952a4)影视美术工作者 ，动画相关的回答都值得一看。
+推荐的答案：[曹孟德斯鸠 在话题 动画 下的回答](http://www.zhihu.com/people/saintmz/topic/19550606/answers)
+
+
+
+
+[@ayou ayou](https://www.zhihu.com/people/8a6ac3097aa8334ce2dca3c1d550d4fa)推荐的答案：[如何看待鼠绘、数位板和传统手绘之间的利弊区别？](http://www.zhihu.com/question/20364794/answer/17773617)
+
+[@鸟先森](https://www.zhihu.com/people/844a1dfdd3614b8dcd7bc7a5ca129a3a)插画家，专注度高。
+推荐的答案：[速写怎么画出人的神韵？](http://www.zhihu.com/question/24455820/answer/27866182)
+
+[@程御迦](https://www.zhihu.com/people/2b75b5a1ede6a9be516724269afbf6e0)功底很好，色彩绚丽，画面设计感很强，答案干货满满。
+推荐的答案：[如何学习漫画分镜？](http://www.zhihu.com/question/20971219/answer/24288293)[如何学画漫画？](http://www.zhihu.com/question/19630216/answer/23436464)忍不住再推荐一下专栏：[知乎地狱通信 - 知乎专栏](http://zhuanlan.zhihu.com/fcyuga)
+
+[@whon大吉](https://www.zhihu.com/people/467d3eb74079dd6a005cb085c30814fb)游戏设计相关，回答有新颖且深度的见解。
+推荐的答案：[怎么画类似于新海诚那种风格的云？](http://www.zhihu.com/question/25257600/answer/30701408)-
+
+暂时先列举一部分，还有更多的优秀画手期待其他答案的补充。
+
+
+---
+
+# ACG作品里，女性角色如何设计才能非常好地展示「肉感」和「色气」？ 陈粽子
+
+**Author:** 陈粽子  
+**Bio:**   
+**Avatar:** ![](https://pic1.zhimg.com/v2-b03c1d761f7213a76cc4e6d6a9951325_l.jpg?source=0df5f383)  
+**Author URL:** https://www.zhihu.com/people/a51f59f137c3f247f108a5283f6c01ee  
+**Published:** 2014.09.23 22:06:02  
+**Updated:** 2016.02.10 14:11:41  
+**Question:** https://www.zhihu.com/question/23437461  
+**Question Created:** 2014.04.16 21:22:03  
+**Question Updated:** 2015.07.10 15:18:06  
+**Votes:** 899  
+**Comments:** 114  
+**Type:** answer  
+
+【多图预警，手机慎点】
+
+答主画妹子的宗旨是：尽极限体现妹子的肉体美和色情美，并一直以此为目标努力着。
+
+表现肉体美和色情美不是画A漫，虽然打擦边球是可以的，但宗旨是“肉体美”而不是“让人想干”，答主不画A漫的。
+
+我个人觉得@孟德尔[画风决定一切]说得太宽泛了，我就表达下自己的一些经验看法，也算是对自己的绘画历程做个总结。
+
+=========================正文的分割线===============================
+
+1、基本功
+
+对妹子身体结构、比例、和对肉体美的表达有帮助的身体元素的充分了解。
+
+也就是人体解剖的基本功，人体解剖方面可以看这里（
+
+[画的人物没有立体感该如何解决？](http://www.zhihu.com/question/24711653)
+
+）
+
+妹子的身体是很复杂的（各种意义上都很复杂），不是说大胸就画个球，长腿就画俩圆柱，瓜子脸就把下巴画成锥子就可以的。
+
+要画好胸部就得先画好身体一样（
+
+[如何画好胸部？](http://www.zhihu.com/question/24617934)
+
+），当然其他的部分同理。
+
+最最最最最重要的基本功给我不断地练啊，否则完美无瑕的人工少女也只能在心中啊绅士们！
+
+我个人绘画时会对有助于表达妹子肉体美和色情度的部位作个归纳，选出自己爱好表达的部分。
+
+常见元素：巨乳、蛮腰、美腿、翘臀（至于骆驼趾，我个人是会选择表达的，这个仁者见仁智者见智了）、长脖子、皮肤
+
+进阶元素：锁骨，肩胛骨，胸锁乳突肌，三角肌，骨盆，腋窝，肋骨，脊椎，还有人鱼线和马甲线（这两个这么重要我居然漏了赶紧补上）……
+
+P.S 还有些奇奇怪怪的缝隙
+
+![](https://picx.zhimg.com/797a06d40cc0bb66f209bda689230ba6_r.jpg?source=2c26e567)
+
+越是偏向写实的画风，要表达的要素就越多，而过于写实无限逼近真人又不好夸张化。性感完美到极致的自然人体/非整容整形在现实中很少，既然要画这些类型的妹子。在我看来绘画时对妹子身体进行夸张是必要的。
+
+（一点题外话：答主自己一开始是画日漫风格的，最近感觉到日漫简化和夸张的内容太多，对于人体的表达还不够。看到这个问题，感触很多：
+
+[怎样才能把人画得既卡通又写实，并有自己的画风？有什么科学的练习方法？](http://www.zhihu.com/question/25098530)
+
+所以答主开始尝试更加写实的类型，争取有一天能够拥有自己特有的风格，努力努力！）
+
+我个人会在这些元素里挑选进行各种搭配组合，或者把它们全数表现出来，营造即骨感又丰满的妹子。
+
+例如骨感的类型，胸部微小，身体起伏不大，修长的筷子腿，骨头突出，腹部平坦，
+
+但也可以在保留一些骨感元素的同时进行夸张，例如同样是骨感妹子，把肩变宽盆骨变宽，腿更长而且形状标致没有筷子腿，还可以配上看似能把纤柔腰部压坏的巨乳。
+
+这些变形虽然夸张，但是身体的平衡必须还是要有的，其中微妙的比例关系要通过大量的练习和尝试才能参悟。即使是画很骨感的平胸妹子，只要在一些地方突出骨骼（肘部，肋骨，锁骨，髋骨，膝盖，脚腕等一些位置）就足够了，不是要你画木乃伊；而即使是画很肉感的妹子，比较一下超级帕恰子和超级索尼子，同样是肉感，前者明显更不受欢迎，因为后者不至于肉感到淹没了身体本身的轮廓。
+
+我个人偏好love cacao类型的妹子——
+
+![](https://pic1.zhimg.com/48961ef596015446b453f58144c947b2_r.jpg?source=2c26e567)
+
+经过夸张的身体比例+略有写实的风格+身体的扭曲
+
+还有一个是本庄雷太，此人牛掰到不要不要的，可以去搜一下他的图，他在身体变形和夸张化这方面做的是相当好，而且很容易识别，超大神级别的人物。
+
+为什么要作身体上的夸张化？因为是ACG作品啊。
+
+每个人都有自己喜好的风格，挖掘它们也是练习基本功中不可或缺的一环
+
+
+
+
+2.着衣
+
+@逍遥老李的着衣技巧我比较认同。如果能将上面提到的裸体塑造好，怎么着衣都会好看的，也就是[美女穿什么都好看定律]，但是“好看”不等于“肉体美”，不等于“色情度”啊！
+
+答主个人有一个技巧，那就是——画绑带内裤！
+
+我也不知道这玩意儿学名是啥，总之就是这个东西啦。在股侧的绳结给人一种只需轻轻一拉就到大和谐的感觉。无论妹子多么衣冠楚楚，只要有那一抹飘逸的绑带露出，色情度MAX！
+
+(by lee soo-hyon)
+
+![](https://pic1.zhimg.com/687e28ea4420d7729da711150522da3a_r.jpg?source=2c26e567)
+
+还有一种就是在脖子后面系带的内衣，和这个同理。不知道你们认不认同，总之你们自己感受下。
+
+进阶变式——
+
+低腰型+两侧系带型(by sawamura_aoi)
+
+![](https://picx.zhimg.com/567db8cdb1c23081fee996f13d074b0e_r.jpg?source=2c26e567)
+
+
+
+
+半脱型(by ひろせ)
+
+![](https://pica.zhimg.com/b3db16c39c22e8ead968e3b99d404ac1_r.jpg?source=2c26e567)
+
+如果你不想画这个也可以，女性着装那么多种类，无论是现实存在的还是架空的，你就记住两点：（1）.穿得少，就在你想表达的要素那露多点（2）.穿得多，就在你想表达的要素那露多点听起来怎么一样呢？没做就是一样！关键就看你想要表达多少，怎么让它们达成平衡
+
+例如这种，虽然总的布料很多，但是都在后方，暴露度依然很高。这种穿得多又露得多的装束是极好的
+
+出自某页游，答主找不到出处
+
+![](https://picx.zhimg.com/ff80247b3cde3bd3cebaecb1f186a959_r.jpg?source=2c26e567)
+
+同样的，也是衣料很多的装束，但在胸部和腰部都是紧缚的，半露的肩膀还有高开叉的长裙都是对要素的强调
+
+出自某页游，答主找不到出处
+
+![](https://pica.zhimg.com/50/b19fd94b5aa93640c576b317084edea2_720w.jpg?source=2c26e567)
+
+
+
+
+还有这种，经过了设计和缩小的比基尼式，穿在合适的角色上，色气满满！其实色气和身体本身关系更多。
+
+pixiv ID=
+
+[41582753](tel:41582753)
+
+![](https://pic1.zhimg.com/934f3cc37e6500f73794dd30e40c37ff_r.jpg?source=2c26e567)
+
+
+
+
+例如大胸，就用胸托把它抬高，看情况画凸点；还有长腿，全部露出来最好；纤细的腰就配上束胸衣，当然什么都不穿也好。
+
+还有一种叫反衬，比如妹子手肘很柔弱，就画上粗大的锁拷或者繁复的珠宝；同样是腰身，可以画上紧缚的麻绳……更多的自己慢慢体会
+
+（by 金亨泰）
+
+![](https://picx.zhimg.com/f44cfcbbc077526a88bc030556f2ee44_r.jpg?source=2c26e567)
+
+有些说偷窥癖和征服欲的，其实也就是把那些要素强调出来而已，还有紧身衣，也是把妹子的身体结构突出出来，基本功达到了，其实穿多穿少都无所谓。哈？你说布偶装？你捣乱的吧？
+
+还有衣料的透明度问题，你可以全部画成半透明的；然后是什么黑丝什么吊带的，那是喜好问题，喜欢就配上。
+
+3.气质
+
+这个是比较难参悟的内容。妹子的气质是各种各样的要素协调后的结果，但万变不离其中的就是柔性。即使是健美型的妹子，也要透露出中性偏女性的气质。
+
+除了衣服的类型外，其中还包含动作和神态。
+
+动作必须得是全身的，每一个身体的扭动和旋转都得为上述提到的元素服务。例如你想用手突出大胸，你可以画成手搭在胸上，还能够添上一份优雅；但是别画用手托住胸部，哪怕是捂住都好，除非你想画A漫。
+
+(by ひろせ)
+
+![](https://picx.zhimg.com/cc976ba0e4798aaac120520d27865d51_r.jpg?source=2c26e567)
+
+还有上面提到的绑带内裤，用手拉一拉松一松是极好的。（大绅士出没）
+
+说到这里，手的语言是很神奇的东西，放在哪里就强调哪里。请把手的语言练习好，为妹子添上画龙点睛的一笔。
+
+还有很多动作如脊椎的反弓（“く”形），上半身的扭转，捋头发顺裙子，拉扯衣服，内八。为了表现妹子柔软的身体，可以让身体的扭转仅次于现实中的瑜伽。其实插画里很多角色的动作和姿势，在现实中都是很难做到的，有时候二次元插画看多了，看三次元的黄图反而觉得她们动作生硬，表情木讷，就是这个道理。
+
+(by 鬼月)
+
+（原本的图片有很多多余的字，是杂志封面的图，我找到了没有字的版本）
+
+![](https://pic1.zhimg.com/95982798abab4e755ebc26124db36d94_r.jpg?source=2c26e567)
+
+至于神态/表情，妹子的气质各不相同，如果要突出柔美，皱眉、下垂的眼角、长长的睫毛、微微张开的嘴唇、脸上的红晕都是要的。不过表情这方面其实不难，因为大家看脸都看得多了去了。你试一试遮住你要画的角色的脸，只靠她的身体和肢体语言来表达色气，如果遮住了脸/表情后，依然色气满满，那你就成功了。
+
+![](https://picx.zhimg.com/1babcc8cd6aa78e594d439cfd5172115_r.jpg?source=2c26e567)
+
+（by 朝凪）（此图经过了裁剪）
+
+4.其他补充（后期的更新都放这里）
+
+答主就把想起来的先说了。
+
+皮肤的质感，无论是哪种肤色，都要兼具平滑的过渡和强烈的反光。即使沾上污垢或者负伤，依然能够体现出干净无暇为最佳。
+
+snowball22的图，反正我是被这皮肤给征服了
+
+![](https://pic1.zhimg.com/bbf16b2953474af6c66a85020d7575c2_r.jpg?source=2c26e567)
+
+画皮肤的话这位其实只算是表现合格，你们去搜一下“汁”大大还有“石惠”大大的图（他们都是画R18 的我就不贴图了），皮肤质感的表达上简直是教科书一般的存在。
+
+头发的话简单粗暴：能画多柔软就多柔软，妹子的头发本来就是柔软的。这里有画头发的答案：
+
+[漫画素描的头发怎么画顺？](http://www.zhihu.com/question/19861023)
+
+活用液体，并不是要你画不明白浊液体，除非你要画A漫。晶莹剔透的水珠和汗液，无论是流在皮肤上还是湿身都是极好的。如何处理液体和湿身我就不说了，因为答主自己也画不好QAQ。
+
+（by gorilla (bun0615)）
+
+![](https://picx.zhimg.com/809aba80d6bc26d14c6d7e3f9213f66b_r.jpg?source=2c26e567)
+
+前面答主有提到不要画用手托住胸部的动作，类似的还有ZW的动作。为啥呢，缘由是这些个动作是极其明显的性欲诉求，过于直白而让人物失去了诱惑力，只传达了“我要”。同理，有种在本子里常用的私处面对读者的大透视我们也是要极力避免的，过分的对三点的强调动作和透视同理，除非你就是要画A漫。引申开来讲，就是“性暗示要含蓄”。我们要表达的感觉介于“纯洁”和“淫乱”之间，我也不晓得怎么在不上那方面的图的前提下解释清楚，不过看过一些本子封面的同学应该会明白。嗯，就是不要画过了头变成本子封面。有时候我在画草图时各种增添删减，完全忘了当初的初衷，变得连我自己都不忍直视……
+
+有一幅图点了下私处的表达技巧，出处我也不记得了
+
+![](https://picx.zhimg.com/2b4ffe555d0f54dedc7b34990bc4f2d3_r.jpg?source=2c26e567)
+
+我个人觉得，即使不是画A漫，也可以按照这个图里讲的来表达，把实现部分都认真仔细的画出来。
+
+因为内裤没脱下来嘛ー(￣～￣)ξ，能用“反正没露点”来解释。
+
+这个地方要画好还得靠多看，比起其他的人体结构，平日里这个地方看的肯定少，所以要多看多观察才能画好。
+
+更进一步的技巧还有一个：把内裤/内衣繁复化，比如更加细致的褶皱和缝合线，或者更多的花纹装饰，起到强调作用。试试让角色只穿上极为朴素或纯洁的衣装（白色连衣裙），和饰样繁复的内裤，效果拔群。
+
+切忌把嘴巴画太大，例如海贼王里夸张化的大嘴巴，不要搬到这里来。以闭合或微张为佳，能表达嘴唇更好，或者直接就画小。当然表达“樱桃小嘴”的要素是一个原因，还有一个就是如果表情过于夸张就会产生不必要的吸引力，让观者更少地注意你画的胴体。所以不要画太过夸张变形的表情，把哆啦A梦和老夫子里面的人头安到这里来，违和感满满。
+
+我想起来一个，在插画里十分常见但不知道有没有具体名称的表达。我先贴个图：
+
+![](https://pic1.zhimg.com/991303c8541b7f93bdf5bca38c0f4a78_r.jpg?source=2c26e567)
+
+注意胸部下方的褶皱，正常人类穿衣服绝对不可能形成这种褶皱，我又把这称为“不可能褶皱”。之前的图也出现了这种“不可能褶皱”。这样子画就让胸部的轮廓完全显露出来，衣服就象是纹身一样贴上去的，让本来不紧身的衣服也变得很紧身。对于这种画法见仁见智，也不知道是不是因为大家都爱看，我是还挺喜欢的。
+
+==============================
+
+想找符合这方面的画师的话可以私信我。因为这题目是介绍画法而不是画师，而且画这方面的图的画师大多都画了大量的（甚至是只有）R18和R18G，不敢贴图。
+
+==============================
+
+上一幅答主的线稿吧，借鉴了别的画作，不算是全原创——
+
+![](https://pic1.zhimg.com/c135e8f86386c7a96b846e4dd69710f6_r.jpg?source=2c26e567)
+
+再贴一张答主的作品：
+
+![](https://picx.zhimg.com/251eb7f5eaa96f4e978e55da5a078e1c_r.jpg?source=2c26e567)
+
+
+
+
+我会不定时地对答案进行更改和完善，内容统一在其他补充后添加。
+
+
+---
+
+# 如何评价小畑健的分镜？ 沈翔
+
+**Author:** 沈翔  
+**Bio:** 画画的  
+**Avatar:** ![](https://picx.zhimg.com/v2-511412ae694b2d2ff5eebd39d1976ea2_l.jpg?source=0df5f383)  
+**Author URL:** https://www.zhihu.com/people/5315c50a39239e3cb4ed8ce05ce5b185  
+**Published:** 2016.11.16 05:28:27  
+**Updated:** 2016.11.16 08:58:09  
+**Question:** https://www.zhihu.com/question/52292369  
+**Question Created:** 2016.11.04 21:00:07  
+**Question Updated:** 2016.11.04 21:00:07  
+**Votes:** 413  
+**Comments:** 66  
+**Type:** answer  
+
+感谢邀请，试着回答一下。下文有大量分析用图和数据，无聊冗长，时间紧的朋友可以直接翻看黑体字的总结。
+
+相对一些拥有大热作品的作者，小畑健，无论在生活方面还是读者的口中，总处于一种很低调的状态。国内的漫画爱好者谈起他，往往是说到一些作者之后，以“哦，画得好，但是不太会编故事”这样的口吻一句带过，甚至会成为“剧情至上画面无用”论者的首选例子。
+
+不过上边这些讨论的出发点，多数都是从画面上，而题主的问题是从分镜的角度，那么在这里，就不去讨论小畑健在画面上的问题，专注分镜，试试分析一下这个作者的特点。
+
+分镜是个主观性很强的东西，但相对于“画”这个东西而言，还并没有主观到“不管怎么说这样就是好看”的程度而有一定的规律可循。事实上就算是一般的爱好者，对于分镜也多多少少有一点认识，或者说能形成一种感觉，但感觉这两字，并不符合我个人的审美。绘画从出发点而言，是表达欲望的产物，很难量化。而商业漫画上，虽然创作过程肯定需要“感觉”，但具体的方式和方法，则是可以分析并系统化的。所以，在下文中，将会列出一些数据来佐证我的观点——碍于数据量，肯定会有些误差，不过好在也并非工程级的完全定量分析，只为说明问题，应该够了。
+
+那么以上段所言为出发点，为尽量排除特例和剧情干扰，以及对小畑健分镜特点有一个直观的认知，从整体上，我的主要例子将从他成熟期的三部长篇作品《棋魂》、《死亡笔记》、《Bakuman》中选取。具体抽样方式为，每部作品单行本第11、13、17卷（由于《死》只有12卷，所以取中间3、5、7三卷抽样），每卷中选取正稿部分（以每卷中第一话标题页起计）第11对开至第90对开之间，以每10对开为单位，取单位中第二组素数次序对开，若是广告页或卷头，顺延。如第13卷第21到30对开中，素数对开为23、29，则取第29对开页。
+
+这样，每卷单行本中抽8个对开、16页排在一起，去掉画面的干扰，从最基础的层面看一下他分镜的特点。
+
+**第一部分：分格**
+
+分析开始之前，为统一和准确，先定义一些对比的标准。以单页、横向分格组数量为依据，定义二段分格、三段分格、四段分格和非标准分格（横向5段及以上、小破格等计入非标准分格），前三种都是漫画中常见的分格方法，并不难理解，而斜格和跨页格因为也很明显，所以不做过多说明。示意图如下。注意，这个定义只在此答案中应用，不做某种标准解释。
+
+![](https://picx.zhimg.com/v2-c7e9feef0f715b1d7378b52787a93fc1_r.jpg?source=2c26e567)
+
+此外还要强调一下漫画分镜的三个主要组成——格框、对白框以及画面镜头，分析按这个顺序递进。在分析格框和对白框时，为了清晰准确，去掉所有画面，只保留最基本的元素，破格也对应擦除边线，以最大限度还原。
+
+《棋魂》
+
+卷11。对开编号：13、29、37、43、53、67、73、89。80格。
+
+![](https://picx.zhimg.com/v2-b01cafe641adcff450536a15a9295639_r.jpg?source=2c26e567)
+
+卷13。对开编号：13、29、37、43、53、67、73、89。67格。
+
+![](https://picx.zhimg.com/v2-f32bf39d6e6feff815ce73b5b97891a7_r.jpg?source=2c26e567)
+
+卷17。对开编号：13、29、37、43、53、67、73、90。62格。
+
+![](https://picx.zhimg.com/v2-28444ae53b092440043f78efca661ea8_r.jpg?source=2c26e567)
+
+《死亡笔记》
+
+卷3。对开编号：13、29、37、43、54、67、73、89。75格。
+
+![](https://picx.zhimg.com/v2-3e81d197a20de001e9065763eb05e86b_r.jpg?source=2c26e567)
+
+卷5。对开编号：13、29、37、43、53、67、73、89。81格。
+
+![](https://picx.zhimg.com/v2-599e6be38a43710427dcf4b936818f7d_r.jpg?source=2c26e567)
+
+卷7。对开编号：13、29、37、44、54、67、73、89。 78格。
+
+![](https://pica.zhimg.com/v2-f8e8c3980d4a331d0302bd061245cc9a_r.jpg?source=2c26e567)
+
+《Bakuman》
+
+卷11。对开编号：13、29、37、43、53、67、73、89。100格。
+
+![](https://picx.zhimg.com/v2-a895e8a5239319fe716580476b1c5b9d_r.jpg?source=2c26e567)
+
+卷13。对开编号：13、29、37、43、53、67、73、89。103格。
+
+![](https://picx.zhimg.com/v2-9e44913f2daef05495262ed18dbfef65_r.jpg?source=2c26e567)
+
+卷17。对开编号：13、29、37、44、53、67、73、89。118格。
+
+![](https://pic1.zhimg.com/v2-0ec91bb3db3f5e77fa5ce706bf5047f0_r.jpg?source=2c26e567)
+
+在去掉画面的影响、将三部作品中所选的分格全部列出后，我想就算是不再过多的解释，也可以很直观的感觉到“平实沉稳，安排质朴”这八个字在具像化后以分格这种形式在画面上的体现。但若只是这样，把这些拙劣的拷贝图放在这里除了浪费流量便再无意义，所以，需要把虚无的感觉准确化。
+
+我们知道，在一般情况下，二段分格和跨页主要用于制造冲击力，三段分格和四段分格属于常见的标准用法，主要用于剧情的描绘和陈述，斜格用于表现不稳定情绪，非标准分格则多属于作者个人特色和即兴发挥，这样将上述数据整理合并后折算成百分比（四舍五入取整，下同），可得到这篇分析中第一组重要的定性数据：
+
+《棋魂》
+
+24对开48P，其中，二段分格5P，三段分格23P，四段分格18P，跨页2P，斜格0P，非标准分格0P。
+
+其中，剧情描绘和陈述占比：85%。表现视觉冲击力占比：15%。表现不稳定情绪占比：0%。表现个人化特色占比：0%。
+
+《死亡笔记》
+
+24对开48P，其中，二段分格5P，三段分格41P，四段分格0P，跨页2P，斜格0P，非标准分格0P。
+
+剧情描绘和陈述占比：85%。表现视觉冲击力占比：15%。表现不稳定情绪占比：0%。表现个人化特色占比：0%。
+
+《Bakuman》
+
+24对开48P，其中，二段分格3P，三段分格18P，四段分格15P，跨页0P，斜格3P，非标准分格9P。
+
+剧情描绘和陈述占比：69%。表现视觉冲击力占比：6%。表现不稳定情绪占比：6%。表现个人化特色占比：19%。
+
+而他最近的两部作品《明日边缘》《铂金终局》中，各取第一卷使用同样的分析方法可以得到下列数据：
+
+《明日边缘》
+
+剧情描绘和陈述占比：62%。表现视觉冲击力占比：25%。表现不稳定情绪占比：0%。表现个人化特色占比：13%。
+
+《铂金终局》
+
+剧情描绘和陈述占比：32%。表现视觉冲击力占比：31%。表现不稳定情绪占比：12%。表现个人化特色占比：25%
+
+五部作品数据按项分列后，为修正样本数据偏差，各取最高项数据将0数据项补足到2%，从分镜的表现上可理解为情绪与个人特色必然在漫画分镜中有所体现，即使在取样页中没有表现——注意，**以上的百分比所指的是格子用法的占比，而非阅读漫画时的剧情效果**——则得到下表：（下文中图表纵坐标单位均为百分比）
+
+![](https://picx.zhimg.com/v2-c6c24e97321ea5f33ee362d98b5a5c0c_r.jpg?source=2c26e567)
+
+再通过对三部主要作品的数据整合，可得出小畑健在过去三部长篇作品中习惯用法的定性数据为：
+
+剧情描绘和陈述占比：80%。
+
+表现视觉冲击力占比：11%。
+
+表现不稳定情绪占比：3%。
+
+表现个人化特色占比：6%
+
+据以上数据及分析图表，在分镜中分格这个子项上，我们可以做出如下结论：
+
+**小畑健分镜中的分格风格，以基础的描述性分格为绝对主导，在斜格的运用上极其谨慎。早期作品中，较少的使用破坏画面平衡的大格和跨页效果，有限的展现个人特色。近年随着作品和风格进一步的稳定，同时顺应漫画的发展，适当减少了对剧情 的陈述性描述，在视觉冲击力较强的分格的运用上进一步加强，并同时开始更多的强调个人风格。**
+
+由数据支持的这个分析与我个人的主观感受接近，小畑健的分镜风格在直观上给人的感觉——标准、扎实、严谨，但并不死板。
+
+陈述与视觉冲击力两项相信不存在什么太大的争议，稍有不同的地方在于，不稳定情绪这一点并不符合我们的直观感受——认真看过他作品的读者都知道，小畑健在人物情绪上的把控非常精准——这是因为，这里我们仅仅分析了分镜中的格子，还没有考虑镜头的影响。这点将放在后边用类似的方式进行数据化讨论。
+
+当然，考虑到取样的非随机性和样本数量有限，这组数剧并不十分精准，但有数据在，总比“感觉”要精确和有说服力些。
+
+此外，分析这些数据的意义并不仅仅在于回答并证明这个话题，事实上还有更重要的用处——准确的定性分析同时代的不同作者，或不同时代的同一作者在分格上的差异，这也是最初我在考虑这种分析方法时的主要目的。为了有个直观的对比，下边给出另外三部同时期的著名作品《海贼王》、《猎人》、《天上天下》，以及某部在国内排行榜首堪称优秀的国漫，以同样的取样方式和取样量级进行数据分析后，得到的数据对比图如下：
+
+![](https://pic1.zhimg.com/v2-a94cd3805486baa1193a67a7cec12552_r.jpg?source=2c26e567)
+
+这张图非常有意思，可以看出很多东西。简单的分析如下：
+
+非常明显，相对同时期的其他作者，小畑健的分格风格更稳定和标准，如果漫画有学院派，那么他可以成为当之无愧的代表人物。
+
+《海贼王》在分格方式上采取了极为稳妥的策略，即使用非常成熟的分格方式讲述故事，同时在视觉冲击力和情绪上着力，尽量抹去可能影响阅读体验的个人色彩——这与我个人之前对于成熟商业漫画在分镜上的要求的理解是接近的，即尽可能采用成熟的标准，这也是一个好商品的要求。
+
+《猎人》分格里的个人特色远远高于其他。主要表现方式为：富坚义博偏好将冲击性镜头和情绪格用非标准分格来表现，用大量小插入格来加大画面中的信息量，力求保证每页中内容的丰富，从而实现“很爽快，又经得起推敲”的阅读体验——从读者角度来看，这个目的达到了，所以《猎人》总是很“好看”。
+
+《天上天下》的分镜，虽然偶尔会有让人惊艳的桥段，但总体上说，只在及格线左右。部分原因在图中已有所体现。大暮维人将大量精力用于画面的冲击力和情绪推动上，同时以几近2：1的比例加入个人特色分格，这最终在画面上的体现便可这样概括：张力十足，唯美惊艳——倒是很符合最开始学画时老师的一句话：“画，首先要好看。”但我个人更乐于用这个分析结论来解释一个让很多人困扰的问题：为什么大暮维人的漫画看不懂却卖得很好？——很简单，因为画面足够漂亮。一个想法，仅供参考。
+
+最后这部国漫，在普通的分格上与《海贼王》相仿，大格和跨页量直追《天上天下》，在斜格数量上接近《猎人》。在分格上它做对了很多，相信这是它能上榜并成为榜首的原因之一。但这部漫画也有个致命的问题，即特色分格（如间白、破格、插入型小格框）过少——《海贼王》可以没有个人特色，是因为它的情绪主要由斜格加少量跨页格实现。而这部国漫大幅提高了大格与跨页格的比例，却没有在其中加入特色分格来调剂和补充信息；又因为斜格数量不足导致情绪调动有限，造成直观的阅读感受是：平铺直叙摆POSE——所以看起来没那么吸引人。这不是批评，而是我希望这部作品可以更上一层楼，因为它的画面已经过关，只要在这些细节上做得再好些，至少有达到更高高度的潜力。
+
+**第二部分：对白框**
+
+对白框，也就是漫画中常见的带一个小尾巴指向说话人物的气泡。如名字那样，这个画面元素的主要目的是为了向读者展示人物的对话或者心理活动。但事实上，对白框的作用远不止于此，因为读者对文字的敏感性，对白框在漫画分镜中起到了极为重要的视觉引导作用。夸张一点，我们看漫画的过程，是在追文字的过程中顺便看画的过程，也因此，在分镜的分析中，几乎不可能无视对白框的作用。
+
+但即使是在承认这一点的基础上，分析对白框也很困难，因为每个对白框事实上都在引导视线，而引导与引导之间只有非常微妙的不同，再加上日式漫画T型的阅读习惯和良好的镜头感，使得就算没有对白框的引导，读者也能看懂漫画。所以为了分析，先要在这里把微妙的不同定义出来。
+
+一个反直觉的方法论是，以数据形式分析对白框的引导作用，不能以“页”而只能以“格”为单位，这是因为一但引入页这个概念，就会发现每一页中几乎所有的对白框都在“恰到好处”的位置，越是优秀的作者越是如此。所以，就需要把页分割开，看看在全是引导作用的前提下，“引导”与“引导”间，有什么样的不同，以及不同的“引导”间的比例所透出的作者的分镜风格。
+
+为此，在这里把例子中将要出现的所有的对白框按出现在格里的位置和作用不同，分为三个大类：陈述性对白框、引导类对白框、时序性对白框。定义如下：
+
+**陈述性对白框**：多数在页面右上角，先于画面被看到的对白框。普适性最好也最常出现，内容多为独白，引导作用主要体现在格与格之间，而非单格中。这里的右上角，指以画面几何中心为原点，正方向四分画面后，对白几何中心位于第一象限内的，且之前没有重要画面元素（如人物）的对白框，例图如下： 其中标“A”的即为陈述性对白框。
+
+****
+
+![](https://pic1.zhimg.com/50/v2-3d6c457fab894f8438bef83002dc93b7_720w.jpg?source=2c26e567)
+
+**引导性对白框**
+
+：指在单格内，对视线方向进行强制引导，使读者视线必须经过画面特定部分的对白框，位置不固定，通常成组出现，实现“对话—表演—对话”的镜头逻辑。常用于单人对白较多的情况或多角色对话的场景。这里的引导，特指单格中的引导作用，与上文中的“引导”并不完全相同，请注意加以区分。例图如下：其中标“B”的即为引导性对白框。
+
+![](https://picx.zhimg.com/50/v2-1e73e31469dbb9ddbd17a1710803421c_720w.jpg?source=2c26e567)
+
+**时序性对白框：**由于日式漫画分镜逻辑中存在由右方到左方的“时间线”，所以可以通过安排对白框的位置来实现“动作表演—陈述”的镜头逻辑，这种对白框通常位于画面中心或主要人物的左侧，在时序上稍后于画面内容。例图如下：标“C”者为时序性对白框。
+
+![](https://picx.zhimg.com/50/v2-2fa337dd06b46408635454c78566c00d_720w.jpg?source=2c26e567)
+
+通常来说，把对白框安排在右上角，即第一种用法，保险且有效，可以算是推荐用法。而后两种，因为对格内的镜头配合需求较高，所以熟练应用有一定的难度。但我相信有难度与效果往往有某种程度上的相关性。此外如前述，所有的对白框都同时具有引导和时序作用，所以，在这里刻意区分是为了统计方便，只在这个回答中有效，并不用做某种标准。
+
+下边开始分析，为直观，例图补全所有破格，不同类型的对白框用不同灰度的椭圆填充所在位置。统计与取样方式与第一部分相同，数据包括：有对白框格占总格框数的百分比，三种不同用法的对白框占比。
+
+《棋魂》
+
+卷11。总格框数：80。陈述性对白框：25。引导性对白框：21。时序性对白框：17。
+
+![](https://picx.zhimg.com/v2-f3a4b8a5dacdee3e7e8ef35b78b04c2c_r.jpg?source=2c26e567)
+
+卷13。总格框数：67。陈述性对白框：7。引导性对白框：33。时序性对白框：6。
+
+![](https://picx.zhimg.com/v2-c04bb334f75dfb49f8d69d4790badcd1_r.jpg?source=2c26e567)
+
+卷17。总格框数：62。陈述性对白框：7。引导性对白框：29。时序性对白框：13。
+
+![](https://picx.zhimg.com/v2-fa58a8860d711b5f18ca28df6f855f0a_r.jpg?source=2c26e567)
+
+《死亡笔记》
+
+卷3。总格框数：75。陈述性对白框：18。引导性对白框：40。时序性对白框：7。
+
+![](https://picx.zhimg.com/v2-c960efc4f147b40ead36c3eef3c51fc4_r.jpg?source=2c26e567)
+
+卷5。总格框数：81。陈述性对白框：17。引导性对白框：51。时序性对白框：7。
+
+![](https://picx.zhimg.com/v2-d19692f8de5932d72e929cd69cf27ebf_r.jpg?source=2c26e567)
+
+卷7。总格框数：78。陈述性对白框：11。引导性对白框：48。时序性对白框：5。
+
+![](https://pica.zhimg.com/v2-7675483ff26bf8299c57565fb0b22dfb_r.jpg?source=2c26e567)
+
+《Bakuman》
+
+卷11总格框数：100。陈述性对白框：23。引导性对白框：52。时序性对白框：13。
+
+![](https://pica.zhimg.com/v2-4d33cc66924395d5fee008014ed5f582_r.jpg?source=2c26e567)
+
+卷13总格框数：103。陈述性对白框：26。引导性对白框：55。时序性对白框：16。
+
+![](https://pica.zhimg.com/v2-c5a4336bd5091c3c3637482dd7f3cc3e_r.jpg?source=2c26e567)
+
+卷17总格框数：118。陈述性对白框：26。引导性对白框：43。时序性对白框：21。
+
+![](https://picx.zhimg.com/v2-0641318687580a5665976a6327b740cf_r.jpg?source=2c26e567)
+
+将以上数据按前述方式整理成百分比可得下列数据：
+
+《棋魂》
+
+对白框格占比：76%。陈述性对白比例：25%。引导性对白比例：52%。时序性对白比例：23%
+
+《死亡笔记》
+
+对白框格占比：87%。陈述性对白比例：23%。引导性对白比例：68%。时序性对白比例：9%。
+
+《Bakuman》
+
+对白框格占比：86%。陈述性对白比例：27%。引导性对白比例：55%。时序性对白比例：18%。
+
+并加入完整作品《明日边缘》（对白框格占比：74%。陈述性对白比例：25%。引导性对白比例：46%。时序性对白比例：29%。）数据后，可以得到下列图表：
+
+![](https://picx.zhimg.com/v2-ad80797bff11aeea3247a5b8cedf466a_r.jpg?source=2c26e567)
+
+在全部阅读完上述四部作品后，一个很直观的感觉是，《棋魂》与《明日边缘》的阅读体验要好于《死亡笔记》与《Bakuman》。当然这并不是说后两者“不好看”，而是说前两者通读起来会更轻松。这固然有故事本身的原因在——《死亡笔记》不是可以无脑看画的作品——但通过上表以及更上边的灰度填充图，想必可以很轻松的看出问题的根本原因所在，即，前两者带对白格框占总格框数的比例更低，画面部分更多(考虑到此答案重点并非在于画面占比，所以就不提交数据级的分析了)。换言之，前两者的信息密度更低，所以，更易读。
+
+而在分镜上的特点，还需要将上表进一步整理。按前边的分析，将陈述性对白框视作“格与格的连接”的话，那么引导性对白框和时序性对白框更像是“单个镜头内的衔接”，而这与分镜的关系更为密切，所以，将引导性对白框与时序性对白框的数据叠加后，可以得到下表：
+
+![](https://pic1.zhimg.com/v2-eb8fbf79db1d8b25344b67b8fed66417_r.jpg?source=2c26e567)
+
+从这个表格里可以看到，无论作品的创作年代与题材之间有多大差异，小畑健都将两种格框应用的比例定在大概1：3左右——我不认为这是个巧合。换言之，小畑健在进行分镜时，习惯或刻意以格子内的镜头衔接为主，辅之以格与格之间的衔接，顺便交待剧情。
+
+另外多说一句《Bakuman》，这部作品两种分格的比例大概在1：2.5左右。也就是说，更多的衔接是在格与格之间而非格内，这与阅读时发现此作品中有大量“上字下图”的格框是相关的。或者说，因为信息密度过大，作者不得不降低格内的镜头感，而优先信息传递。我想，这应该是小畑健和大场鸫为周刊连载所做的某种形式上的妥协。这造成了此作品的阅读体验在四部作品中“最不佳”。也许在自己创作的过程中，可以引以为戒。
+
+为进行横向对比并进一步分析，下边给出另外两部作品、以及上边提及的国产漫画的数据。
+
+《海贼王》。对白框格占比：92%。陈述性对白比例：33%。引导性对白比例：59%。时序性对白比例：8%
+
+《20世纪少年》。对白框格占比：81%。陈述性对白比例：38%。引导性对白比例：40%。时序性对白比例：22%。
+
+国漫。对白框格占比：84%。陈述性对白比例：43%。引导性对白比例：31%。时序性对白比例：26%。
+
+并生成下表：
+
+![](https://pic1.zhimg.com/v2-b0ac4e77286b259a93910633f2f655bd_r.jpg?source=2c26e567)
+
+![](https://picx.zhimg.com/v2-4abcc1837fdb405fc1fa9bedf7a82739_r.jpg?source=2c26e567)
+
+根据之前的分析，陈述性对白在页面中多用于人物单方面的语言描述，起“某某说”的作用，而引导性对白与时序性对白的重点更多放在“说话—动作—说话”的动态场景中。换言之，若想要作品的画面与文字配合更具动态性，应该适量控制陈述性对白，而在引导与时序性对白框的用法中相应进行加强。同时，为使读者的注意力更多集中在人物而非文字上，需要相应增加时序性对白的比例。
+
+那么由以上分析和表格，可以总结一下小畑健在对白框方面的特点了：
+
+**在分镜中的对白框方面，小畑健的分镜习惯为，格间衔接较少而格框内衔接较多，二者比例约为1：3。即在切换镜头时，更多的利用格子本身和读者的阅读习惯，而非对白框来实现衔接。从他较多的格内引导用法来看，小畑健更重视单镜头内的人物表演，并以此来实现流畅的阅读感。这种大量表演加对白为主，镜头切换为辅的表现手法，我个人比较倾向称之为漫画中的舞台剧。**
+
+同时，从横向对比还可以看出，《海贼王》在保持极高的信息密度的情况下（对白占比过90%）将衔接约三分之一的功能交由陈述性对白，这使得《海贼王》的镜头切换非常高效且快速，形成类似人物A“对白—动作—（对白）—动作—对白”切人物B“对白—动作—（对白）—动作—对白”的阅读体验。这种节奏很像是动画，事实上这也正是《海贼王》在创作时想要达到的效果。
+
+而以分镜水平高著称的浦泽直树，在降低信息密度的同时进一步增加了镜头数，这意味着在角色减少的情况下（一般作品单一场景中的信息密度与角色数量正相关），更多的增加了对单个人物的表情及动作描绘，在重视镜头间切换流畅的同时也没有忽视人物动作语言的同步性——我想，这可以成为浦泽直树作品更接近电影的解释之一。
+
+最后这部国漫，从题材上与海贼王接近，但引导性对白框与时序性对白框的数量明显偏少，这意味着作品中有非常多的单人说话的镜头，而动作表演偏少。我想这应该是这部作品下一步需要重点加强的部分。
+
+顺便说一句，很多国内流传漫画教程和教学说“对白框应尽量安排在格内右上角（或因阅读顺序不同的左上角）”，经过以上分析可以证明，这句话是错的，至少不全对。
+
+那么关于对白框就说这么多。
+
+**第三部分，画面镜头。**
+
+有关分镜的讨论进入画面镜头的层面后，一般而言，需要以对开为单位结合剧情进行分析，但在这里几乎无法实现，因为小畑健的分镜并不像大暮维人那样因“华丽”而会时而出彩，又不会像一些新作者一样出现各种各样的问题而可以拿来当反例，加之数量巨大，所以只能通过抽取画面元素的方式来尽量实现一叶知秋式的讨论。
+
+考虑到可供选取的画面元素需要有明显特征并且与分镜的主要作用相关，我个人倾向选择以下两个元素进行分析：镜头角度，以及视觉动线与画面核心的重合度。简单解释一下。
+
+镜头角度想必不用多说，属于影视及漫画的基本内容，在这个分析中，主要选用可以体现特殊气氛的镜头角度，在平视、仰视、俯视三种基础角度中，选取后两者进行统计。这是因为在漫画中，平视角度多用于陈述与描绘，较少参与特殊气氛的表达，而仰视俯视在分镜中与作者的特质息息相关，所以值得作为特点拿来分析，当然因为漫画的特殊性，忽略景别的差异，只统计特殊的机位角度。由于特殊机位角度镜头需要作者进行一定的设计，所以在本文中统一定义为“**设计型画面镜头**”。
+
+视觉动线的解释很多，在这里沿用最基础的视线移动路径的说法。而画面核心，在漫画中，除去场景及特殊描绘（如指向性线条的汇聚点），一般指人物面部由其是眼睛所在的位置。说得更简单一些，漫画中一个有人面部出现的格子，在阅读的过程中，我们的视线通常将人物眼睛所在位置识别为画面重心，这样再结合上边说过的对白框的作用，可以形成一个推论，即：在单格中，若人眼的位置处于视觉动线路径附近，就可以认为在这个格子中，分镜的用法是恰当而合理的——由于这种分镜方式的阅读感最为自然，所以定义其为“**自然型画面镜头**”，与上文中“设计型画面镜头”相对应——当然这并不意味着不这么安排就不合理和不恰当，更微妙和复杂的用法适合赏析型的解读，就不在这里过多说明了。
+
+在接下来的统计中，依然采用相同的取样方式，统计数据为，设计型画面镜头在总格数中的比例、自然型画面镜头的在总格数中比例、二者重合比例。图中，使用红色箭线来示意自然型画面镜头及视线方向，使用绿色“X”标注设计型画面镜头。
+
+《棋魂》
+
+卷11。对开编号：13、29、37、43、53、67、73、89。
+
+总格数：80。自然型画面镜头：37，占比46%。设计型画面镜头：15，占比19%。重合格数：1，占比1%。
+
+![](https://picx.zhimg.com/v2-3fe24d8a9970a89ee975122df4ae91ea_r.jpg?source=2c26e567)
+
+卷13。对开编号：13、29、37、43、53、67、73、89。
+
+总格数：67。自然型画面镜头：24，占比36%。设计型画面镜头：17，占比25%。重合格数：1，占比1%。
+
+![](https://picx.zhimg.com/v2-0840a28dde96e49e45f33865922be083_r.jpg?source=2c26e567)
+
+卷17。对开编号：13、29、37、43、53、67、73、90。
+
+总格数：62。自然型画面镜头：24，占比42%。设计型画面镜头：19，占比31%。重合格数：3，占比5%。
+
+![](https://pic1.zhimg.com/v2-f4a71354b9135dca4870b3f801ba269c_r.jpg?source=2c26e567)
+
+《死亡笔记》
+
+卷3。对开编号：13、29、37、43、54、67、73、89。
+
+总格数：75。自然型画面镜头：30，占比40%。设计型画面镜头：13，占比17%。重合格数：2，占比3%。
+
+![](https://picx.zhimg.com/v2-7bdf3068a71868cd3851fdf5909ec304_r.jpg?source=2c26e567)
+
+卷5。对开编号：13、29、37、43、53、67、73、89。
+
+总格数：81。自然型画面镜头：34，占比42%。设计型画面镜头：18，占比22%。重合格数：3，占比4%。
+
+![](https://pica.zhimg.com/v2-5617c266d860968322112cebccfcdab1_r.jpg?source=2c26e567)
+
+卷7。对开编号：13、29、37、44、54、67、73、89。
+
+总格数：78。自然型画面镜头：36，占比46%。设计型画面镜头：18，占比23%。重合格数：3，占比4%。
+
+![](https://picx.zhimg.com/v2-a4b78abf752e3b4d9bfa716caa07eb84_r.jpg?source=2c26e567)
+
+《Bakuman》
+
+卷11。对开编号：13、29、37、43、53、67、73、89。
+
+总格数：100。自然型画面镜头：32，占比32%。设计型画面镜头：16，占比16%。重合格数：3，占比3%。
+
+![](https://pica.zhimg.com/v2-23020d969514f9d9eee2b8d3bf2c0d8a_r.jpg?source=2c26e567)
+
+卷13。对开编号：13、29、37、43、53、67、73、89。
+
+总格数：103。自然型画面镜头：39，占比38%。设计型画面镜头：20，占比19%。重合格数：5，占比5%。
+
+![](https://pic1.zhimg.com/v2-405914448fe26401470b6c3feaa4db39_r.jpg?source=2c26e567)
+
+卷17。对开编号：13、29、37、44、53、67、73、89。
+
+总格数：118。自然型画面镜头：38，占比32%。设计型画面镜头：14，占比12%。重合格数：2，占比2%。
+
+![](https://pic1.zhimg.com/v2-08af694b308d6276e4a6ce3b75ce39a3_r.jpg?source=2c26e567)
+
+将上述数据进行整理可得：
+
+《棋魂》自然型画面镜头占比42%。设计型画面镜头占比24%。重合格占比2%。
+
+《死亡笔记》自然型画面镜头占比43%。设计型画面镜头占比21%。重合格占比3%。
+
+《Bakuman》自然型画面镜头占比34%。设计型画面镜头占比16%。重合格占比3%。
+
+并结合《明日边缘》的数据：自然型画面镜头占比32%。设计型画面镜头占比41%。重合格占比17%。
+
+可得到下表：
+
+![](https://picx.zhimg.com/v2-cabaff17fd4fbba5a2f16d8f1dcc6910_r.jpg?source=2c26e567)
+
+事实上，在画面的部分中，重心远不止于人眼这一项（比如《棋魂》中常出现的棋盘），而不同的镜头角度配合不同的氛围也会起到不同的效果，但是，因为这些都很主观，不如单一元素人眼有说服力，所以没有计入。同时，考虑到作者在创作的过程中一定对所有格框内的镜头和画面分布进行过仔细调整（关于这一点可参照浦泽直树的纪录片中和编辑讨论文字排布的部分），所以，尽管在这里用到了“自然型”“设计型”等名词，但并不意味着其它没能进入统计数据的画面不包含自然的阅读体验与精心的画面设计。而且从数据上可以很明显的看到，小畑健分镜实现流畅感的主要思路是按自然型画面镜头进行安排（过30%），并辅之以丰富的镜头角度（平均每页至少有一个以上的镜头为非平视镜头角度），来实现从剧情到情绪上的渲染。
+
+即使在已经去掉主观因素的情况下，从上表也可以看出，每个对开中绝对多数的画面镜头和对白分布都是经过精心设计的——如果可以把人眼放在视觉动线上，那么绝不放在其他位置；如果由于景别问题不能明显体现人眼或面部角度，则采取特殊镜头角度而绝不使用平庸的平视机位。为更直观化，将入选的两种格框数据综合考虑，可得下表：
+
+![](https://picx.zhimg.com/v2-2bda9137d2c5228bae56aba64abfd338_r.jpg?source=2c26e567)
+
+将两表结合在一起进行分析，便可以总结出小畑健的分镜在画面镜头方面的特点如下：
+
+**重视视觉动线与画面重心的配合，并将这点做为主要的分镜依据。同时，辅以极其丰富的镜头角度来实现画面上空间感的完整，并与不同形制的格框及画面处理方式配合来实现准确的人物塑造及良好的情绪描绘。考虑到两种不同处理方式在单格内极低的重合比例，可以合理推测小畑健在前期的长篇作品中的分镜习惯——普通的镜头主要通过对白框与画面重心相配合来实现流畅阅读；更多的将复杂镜头角度用于特写、场景及空间描述，流畅度交由对白框与格框的配合来实现。而近期的作品中，开始逐步增加复杂镜头角度下人物、场景和对白的配合，进一步提升了作品的可读性。**
+
+这里依然要多说一句《Bakuman》，从图中可以看出，这部作品“经设计”的镜头比例要低于其他三部作品，如前所述，考虑到《Bakuman》信息量的巨大，这应该也是一种“不得不”的妥协——这一点与作品中大量横向“上文下画”的格子有直接的关系。同时，这组数据也进一步佐证了第二部分所说的《Bakuman》的阅读体验不及另三部作品，换句话说，信息量与阅读体验二者很可能相容性较差，需要根据不同的作品题材有所取舍。
+
+为对小畑健的分镜风格有一个更直观的理解，取他三部长篇的数据与浦泽直树同期作品《20世纪少年》（数据：自然型画面镜头占比45%。设计型画面镜头占比21%。重合格占比5%）进行对比，可得到下表：
+
+![](https://picx.zhimg.com/v2-9e4f3f24a990e929ccad43cb3c9f5748_r.jpg?source=2c26e567)
+
+在这里没有进行更多作品的横向对比是因为公认的好分镜只有寥寥数人，而在及格边缘的比比皆是，或者可以说，好分镜中的好特点大致相仿，而差的分镜则各有各差。所以只取《20世纪少年》一部作品做为对比对象。
+
+从数据上可以看出，浦泽直树在画面镜头的安排上，比小畑健更注重“自然流畅”，在分析的过程中，发现他甚至在格与格之间的衔接中也多次利用了对白框与镜头的结合，而且在丰富的镜头语言和视线引导间进行了更加合理化的处理。相对而言，虽然《明日边缘》在后者上的处理更加丰富（17%），但碍于篇幅以及自然型画面镜头比例偏低（32%），所以流畅度上反而受到了一定的影响。
+
+当然，这只是个“事后型”数据上的直观的对比，并且没有将作品的题材因素考虑在内，所以不能一概而论。但可以肯定的是，如果浦泽直树代表了分镜上的某个高度的话，那么小畑健与他还有那么一点点的差距——这点差距，已经属于百分制下95分与98分的差距——非常非常非常优秀与非常非常优秀的级别，事实上对于一般的读者而言，完全可以忽略掉了。
+
+**第四部分：总结。**
+
+有一个比喻，把漫画分镜看作机械旋转结构中的轴承，一旦在读者层面意识到了它的存在，那么几乎必然意味着出了问题。在分析小畑健作品的时候，我不止一次的体会到了这个比喻的精妙。事实上，如果不是用统计方法对小畑健的作品进行分析，几乎不会注意到其中的一些微妙的用法和极少量的不合理。也就是说，至少从技术层面而言，小畑健的分镜已经没什么可以挑剔的了——这点可以从上边的大量横向数据对比中得到证明。
+
+国内对于小畑健作品的分析型文章并不多，一个可能的原因是，没什么可以分析的——无论从哪个层面来看，都很优秀。至于被很多人所诟病的“故事讲不好”的说法，我个人并不太以为然，商业漫画从来就不是一个人的作品，做力所能及的事，以及把擅长的事情做好才是最重要的。在这点上，小畑健无疑是其中的佼佼者。事实上，小畑健这类型的作者及代表作品的重要性，在身边看漫画以及画漫画的人群中被远远的低估了。国漫界急需像他这样在漫画各方面质量在优秀以上、可以稳定输出、可以很好的指导新人——的技术型作者。
+
+会考虑到使用统计方法来支持这篇文章，是因为在漫画的三个要素中，画面固然需要一定的精神力和直觉因素起作用，但分镜和故事节奏这两个部分，完全可以通过技术分析来解决——就连画面，在技法上也可以进行一定程度上的分析和学习。可不得不说，目力所及之处，无论是读者还是作者，都越来越过于重视故事而忽略了技术层面的内容，过于强调风格而无视了细节的把握，过于重视感觉而选择性逃避了分析总结和归纳。当作为新人的我们问起一个东西“应该怎么处理”的时候，得到的更多却是“看天份、凭感觉就可以了嘛”这种听者不明其意、答者不知所云的回复——这和我个人的审美标准严重背离。以此为出发点，在分析的过程中，特地加入了一部国漫计入统计，我想看看国漫中一线级别的作品是不是已经达到了可以开始谈论形而上内容的层次。结果我们都看到了，才仅仅分析了格框和对白框，那些所谓的个人风格、中国特色等肤浅的表象就都在数据的支持下原形毕露——这已经是国漫中凭实力拼杀出的最好的作品之一，但在技术层面上依然有可以提高的空间。我就想知道，那些整天高谈阔论风格、特色、文化、历史的人，你们是在多么无知的状态下，恬着你们堪比原稿纸大的脸，说出那些话的？
+
+回到分析本身，虽然在这里计算出了一些数据，证明或证伪了一些观点，但这些东西只适合用于分析和参考，而不适合拿来指导——不能画完一套分镜草图，马上按这里提出的方法计算各项比例后，死板的进行调整。分析需要严谨，但作品需要的是“Breathing”，每个作者各有不同，我们要做的，是知道什么样的元素以什么样的方式应用在什么样的场合下效果最好，并尽可能的实践到作品中，这就够了。剩下的，就交给上帝吧——如果他真的存在的话。
+
+**综上，小畑健的分镜特点如下：**
+
+**以基础的矩形分格为绝对主导，在斜格的运用上极其谨慎，格间衔接较少而格框内衔接较多，在切换镜头时，更多的利用格子本身和读者的阅读习惯，而非对白框来实现衔接。从他较多的格内引导用法来看，小畑健更重视单镜头内的人物表演，并以此来实现流畅的阅读感。这种大量表演加对白为主，镜头切换为辅的表现手法，可以称之为漫画中的舞台剧。在画面镜头安排这一点上，小畑健重视视觉动线与画面重心的配合，并将这点做为主要的分镜依据。同时，辅以极其丰富的镜头角度来实现画面上空间感的完整，并与不同形制的格框及画面处理方式配合来实现准确的人物塑造及良好的情绪和环境描绘。**
+
+**在前期的作品中，小畑健主要通过对白框与画面重心相配合来实现流畅阅读；更多的将复杂镜头角度用于特写、场景及空间描述，相应镜头下的流畅度交由对白框与格框的配合来实现。同时较少的使用破坏画面平衡的大格和跨页效果，有限的展现个人特色。而近年随着作品和风格进一步的稳定，同时顺应漫画的发展，适当减少了对剧情的陈述性描述，在视觉冲击力较强的分格的运用上进一步加强，并逐步增加了复杂镜头角度下人物、场景和对白的配合。在合理强调个人特色的基础上，进一步提升了作品的可读性。**
+
+一句话概括：**平实沉稳，安排质朴不刻板；时序精准，镜头丰富重规程。**
+
+我谨代表个人，这样评价小畑健的分镜。
+
+（完）
+
+
+---
+
+# C105佳作同人本子盘点——（02） 自闭症的小孩
+
+**Author:** 自闭症的小孩  
+**Bio:** 一个来自雷霆崖的纯爱战士  
+**Avatar:** ![](https://pic1.zhimg.com/v2-52c5b9cbd1855a3ba7115c2ce98685ea_l.jpg?source=0df5f383)  
+**Author URL:** https://www.zhihu.com/people/22162cf84fe9ace1e8a2bff7baf50f66  
+**Published:**   
+**Updated:**   
+**Question:**   
+**Question Created:**   
+**Question Updated:**   
+**Votes:** 3455  
+**Comments:** 198  
+**Type:** article  
+
+大家好鸭，我是自闭症的小孩。
+
+本期内容是C105一创类同人漫画作品盘点的第二期。这次的盘点一共有30.5+1部，因为内容比较多，因此没什么新奇情节的纯实用作就一句话带过了。
+
+有汉化的作品我会尽量用到汉化版的截图，在这里先行感谢各大汉化组的辛勤付出。同时有条件的，记得去正版支持画师们的创作哦。
+
+## 01，あんみつ亭 (吉備あんみつ)   エロ漫画家さんと編集くん
+
+![](https://pic3.zhimg.com/v2-4ed92a513e9fd86026eff9e42b83350c_r.jpg)
+
+34岁的单身离异本子女画师与责任编辑之间的恋爱喜剧，纯属桃子文展开。
+
+作画 7 人设不错
+
+剧情 7 现实中的男编辑大概率至少40岁以上……
+
+实用度 9
+
+## 02，からももたると (きんだつ)   真面目なだけが取り柄の僕が破滅願望の生徒とインモラルで歪んだＨを楽しんだ話～だから僕は家庭教師を辞めたif2.5～
+
+![](https://pic2.zhimg.com/v2-79c690200f7b1bb10d0da9a367e84ccd_r.jpg)
+
+辞职家教系列if线的2.5话。本作的女主角一身哥特loli系的地雷装再加上阴暗难搞的性格，堪称是地雷女的典范了。
+
+虽然她看上去很可爱，但现实中遇到的话绝对会非常麻烦。（确信）
+
+作画 7 标准地雷系
+
+剧情 6 几乎没剧情
+
+实用度 9 花式play非常棒
+
+## 03，ケケモツ (けけもつ)   結局水泳部顧問のなつみ先生は合宿にかこつけて男子部員達と延々セックスしたいだけなのです。
+
+![](https://pica.zhimg.com/v2-bdd981c53167a396db379ad0087a7d82_r.jpg)
+
+多人混战的一篇纯实用作，而且全彩，不过我认为本篇的正确食用方式是代入里面的女主角，因此这其实算是逆后宫本。（笑）
+
+作画 8.5  上色极佳
+
+剧情 6 没啥剧情
+
+实用度 9 扎实的大场面表现力
+
+## 04，彩画堂 ねつジョ trois
+
+![](https://pica.zhimg.com/v2-395bf5a25217d411f8ed78c75f879144_r.jpg)
+
+第4本是彩画堂的“热女”系列第三作，这次依旧是姐姐配南梁的小故事。
+
+男女主两人全是瑟瑟主播，碰巧成为了同在一个屋檐下的室友。偶然之间发现了彼此身份之后，两人果断开始合作直播了起来。
+
+作画 8
+
+剧情 7 中规中矩
+
+实用度 6 太短了
+
+暂无汉化，未来也许会有
+
+## 05，ANCHOR (武藤まと) うさみみメイドと恋人えっち
+
+![](https://picx.zhimg.com/v2-515013a98e13abfb9cad7bfc98bc8f57_r.jpg)
+
+与兔耳娘女仆之间的情侣日常，不愧是武藤老师，画风非常的可爱。
+
+作画 9.5
+
+剧情 7
+
+## 06，メメ屋 (メメ50)   オカネダイスキ 1.5
+
+![](https://pic2.zhimg.com/v2-19b1ef7ca7b552313d45844317a5b153_r.jpg)
+
+最爱小钱钱系列的第三作，是一篇非常纯粹的实用作。
+
+顺带一提，这个系列的第一话发布于21年的年初，第二作叫“美波瑠のはじめて”是23年末C103的作品。
+
+![](https://picx.zhimg.com/v2-6d04e3c269bde82fa13ef16021b4429d_r.jpg)
+
+想不到4年下来三部作品，主角团三人组中的大胃王堀田堇依旧没有下场，还在天上当卫星呢，真是吊足了读者的胃口
+
+作画 8.5
+
+剧情 7
+
+实用度 9 大场面震撼人心
+
+## 07，すけべ発電所 (発電ペンギン) 〇〇強制増強剤実験
+
+![](https://picx.zhimg.com/v2-d468e9542a3bb3b6ec92e4e89599c81b_r.jpg)
+
+一篇近未来设定的科幻本，融合了部分机械的要素。
+
+> 这种机械元素，近些年往往被用来替代触手play，本质上还是魔法少女+触手的衍生，KTC的季刊漫画杂志二次元コミックマガジン上面诞生了大量相似主题的内容。关键词为二次元、機械。
+
+作画 8
+
+剧情 7
+
+实用度 8
+
+## 08，あんみつよもぎ亭 (みちきんぐ)   サキュバス性徒会シコシコ執行部2 NOA ver
+
+![](https://pica.zhimg.com/v2-b685a551b7a7b589a4bf494fd82d723c_r.jpg)
+
+魅魔学生会系列的第二话。不出意外的和传统后宫漫一样登场了新角色。
+
+![](https://pic3.zhimg.com/v2-402c2bc7aef0453edfb86e6c75ae9c60_r.jpg)
+
+不过在剧情方面，原本是逆NTR的展开却因为男主莫名其妙的忠贞，突然就纯爱了起来。
+
+说实话魅魔和纯爱这俩词放在一起，真有种地狱笑话的感觉。
+
+![](https://pic2.zhimg.com/v2-0d469dfd94eaf3e63df550f375724f67_r.jpg)
+
+米奇王老师的角色设计和作画依然漂亮，但我个人对本作的情节并不是特别满意。都已经是魅魔女主了，还要开后宫的同时保持纯爱，就有一种既要又要的感觉。
+
+作画 9
+
+剧情 6  缺少了原本魅魔题材的畅快感
+
+实用度 7
+
+## 09，Fatalpulse (朝凪)   人生リサイクル
+
+![](https://pica.zhimg.com/v2-a0b2d3ee3778c22d23b0f84765443522_r.jpg)
+
+本篇的情节真的是经不起一点儿细说，不管是故事的题材还是女主角的年龄，都是相当敏感的内容。
+
+我就非常纳闷儿为什么朝凪老师这种“纯爱作家”就没怎么在推特上被人冲呢……
+
+作画 8
+
+剧情 8
+
+实用度 9
+
+## 10，Σ-Arts (神毛物由宇)  ボク狙いのえっちなでっかいお姉さん
+
+![](https://pic3.zhimg.com/v2-48fbc1671f441bedcf396e6065c542e4_r.jpg)
+
+神毛物由宇的一本姐弟恋大车本。之前的乡村诱惑系列虽然是画师让AI学习了自己的画法来辅助进行作画，但违和感过于强烈导致让人完全提不起兴趣。
+
+![](https://pic1.zhimg.com/v2-52ff0d48d2d986560cb8f934efc80778_r.jpg)
+
+这次离了AI之后画师依然画得很好，证明还是宝刀不老的嘛。
+
+我个人虽然不反感AI，但使用了AI画师就有义务必须要做出**注明**，同时**定价**也应该比手绘的要低才行。因为AI生成的画面是对画师已有作品的模仿，它并不会主动进行创新。
+
+不然大家都用AI还不注明，这种行为就跟演唱会假唱一样，对读者是一种欺骗，对勤勤恳恳手绘的画师也太不公平。
+
+作画 8
+
+剧情 7
+
+实用度 9
+
+## 11，潮騒 (潮汐きよし)  愚妻、再教育。
+
+![](https://pic2.zhimg.com/v2-9583e3ec5f56ef980ff89441a98ef635_r.jpg)
+
+一篇讲述夫妇日常的小故事。
+
+本篇的女主角确实有点儿让人火大，严重怀疑她是小地瓜看多了。
+
+作画 7.5
+
+剧情 7
+
+实用度 8
+
+## 12，HBO (変熊)   人格排泄 私を知る
+
+![](https://pic2.zhimg.com/v2-934e9df74aa17709e1b08ae237bfa537_r.jpg)
+
+故事讲述天才除魔师女主带着小跟班挑战活了500年的大妖怪，不料却中了对方的术法导致自己的人格被排泄了出来……
+
+本作的情节相当复杂，结局还有反转，个人建议没看明白的小伙伴们记得多看几遍，你就绕明白了。
+
+![](https://pic1.zhimg.com/v2-d4e1e842c5eeb2e62fca84ebf2fa2210_1440w.jpg)
+
+所谓的人格排泄，指的是物理意义上的将人格就像翔一样拉出来……
+
+而失去了人格的身体会变成行尸走肉。
+
+![](https://picx.zhimg.com/v2-0baa1488e8be05025fbbe3fd599f001d_r.jpg)
+
+此类的作品说实话有点儿虚无主义的意思，不过看本就图一乐嘛，千万别太深究。
+
+![](https://pic1.zhimg.com/v2-32b6b95acc216aecd3cbbddd38850496_r.jpg)
+
+本作仅仅30多页的篇幅竟然能够把如此复杂的故事给讲明白，确实是相当有活儿的设计。全篇看下来，只有小跟班男主受伤的世界达成了捏。
+
+作画 7.5
+
+剧情 9
+
+实用度 9
+
+## 13，藤屋本店 (藤ます)   コスプレ売り子はオフパコOK長汝姉妹とヤリモク即売会 *
+
+![](https://pic3.zhimg.com/v2-a1e771f9ce1b34a62e98c89690c2531c_r.jpg)
+
+主业已经变成了vtuber的美少女画师藤ます的“长汝”姐妹系列的最新作。
+
+![](https://picx.zhimg.com/v2-7f040dd7dc49ca7f1c73bbee09f48749_r.jpg)
+
+> 藤ます老师慵懒的声音可以去看我的视频。。
+
+故事的舞台转到了同人漫展，男主人公（竿役）则变成了读者。
+
+作画 8
+
+剧情 6
+
+实用度 9
+
+## 14，自家発電処 (flanvia)  懺悔〇5
+
+![](https://pic3.zhimg.com/v2-687bc5096af516d4fb2b099a21677bb2_r.jpg)
+
+忏悔室系列的第五话，也是系列的完结篇。故事以女主角的主动快乐堕作为系列的结局收尾。
+
+从后记中我们可以看到，画师在完成作品的过程中显然是受到了读者意见的影响，在第5话中画师没有深入去描绘女主角与少年之间可能产生的恋情，因此也就不存在所谓的BSSNTR的说法。
+
+这个结局算是平稳落地了吧。
+
+我个人认为第19和20页是本作的最精华的部分，尤其是第20页女主的表情，真的是神来之笔啊。
+
+![](https://pic1.zhimg.com/v2-191fbe522a8ac921e8ae7fc6e3071f88_r.jpg)
+
+作画 8
+
+剧情 8
+
+实用度 9
+
+## 15，しっとりボウズ 社内恋愛は禁止です! 2
+
+![](https://picx.zhimg.com/v2-2485aa903977eb98126c5e36a94def23_r.jpg)
+
+职场地下恋系列的第二话。在本话中登场了一名新角色，是男主角大学时期的学妹。
+
+![](https://pic4.zhimg.com/v2-cd9b10baa6087dbc6abd5bee3b18a687_r.jpg)
+
+对方是合作伙伴公司的业务代表，恰好与男主角在工作上有着交接，而且还不受公司内部禁止职场恋情的限制，这让女主角产生了极大的危机感。因此本话的女主可以说是为了守护恋情而对男主百般的诱惑。
+
+![](https://pic2.zhimg.com/v2-71ce7bcae86f059f825167b0e1ed7c47_r.jpg)
+
+女主这大大的黑眼圈再加上土里土气的造型却强行搔首弄姿的表现，用日文来讲那就是相当的“下品”了，这点超对本人的胃口。
+
+![](https://pic2.zhimg.com/v2-80ed49fb8f93968ab2a6bac1da758a29_r.jpg)
+
+本作是少有的职场恋情纯爱故事，这个系列比画师在真激刊载的长篇后宫漫侍奉部系列要好看太多了，可惜2话都暂无汉化。
+
+作画 6
+
+剧情 8
+
+实用度 8
+
+暂无汉化，未来未知。
+
+## 16，ジャックとニコルソン (のりパチ) 種付けもできる♥ふれあい♡牧場体験。
+
+![](https://pica.zhimg.com/v2-3eec37f866a9acd8535a11e7244afc4e_r.jpg)
+
+设定胡逼的牧场体验桃子文，情节用一句话概括就是去牧场给奶牛挤奶。
+
+作画 7 本篇女主因为着装问题不便展示……
+
+剧情 6
+
+实用度 8
+
+## 17，餅屋 (かろちー) メスガキリナちゃん VOL. 2
+
+![](https://picx.zhimg.com/v2-fc989f6bb9e8e5f6c51b12969a4e358b_r.jpg)
+
+时隔一年半多的时间，かろちー在完成了青年漫画スキャンダラ的连载之后终于有时间画本子了，想不到质量依旧爆炸。
+
+![](https://pic3.zhimg.com/v2-07d1460350e7c1eaf6b9a5bc34de9480_r.jpg)
+
+本话的花式play相当炸裂，我个人最喜欢的两段分别是雌小鬼闻味儿的这段和男主把女主从商场端回家这一路，简直神了。
+
+作画 9
+
+剧情 9
+
+## 18，イケメン帝国 (れむ)   緘黙の子 卒業の日
+
+![](https://pic1.zhimg.com/v2-722905855d2eed7cd8e4f1fb5cdb81c4_r.jpg)
+
+23年作品緘黙の子的续作，也是系列的完结篇。
+
+如此糟心的情节居然还能以纯爱收尾，想想也是挺离谱的。
+
+![](https://pic2.zhimg.com/v2-a8556abf21e95e87d4a325778c6b2747_r.jpg)
+
+本作女主角患有的选择性缄默症这一病症就跟自闭症一样并非是极其罕见的精神类疾病，并且这种病多数都在儿童时期发病。
+
+和自闭症等类似的疾病不同，得了选择性缄默症的孩子并不会智力发育迟缓，因此在校园以及家庭等多方的配合之下，治疗难度并没有那么大，而且很少会有孩子带着这种疾病进入青春期的，一般都是小时候就治好了。
+
+![](https://picx.zhimg.com/v2-7299ca3d1c9fe513e2909ea05776e0db_r.jpg)
+
+本作的女主已经接近成人了，却依然受此疾病困扰，可以说是很严重的表现了。
+
+而故事中的男主还会对其施暴，学校的同学和老师还这么冷漠，这就让我看得非常火大。。。
+
+作画 7 人妻画风的JK
+
+剧情 7 血压飙升
+
+实用度 10  人妻画风的JK
+
+## 19，Notes. (タカハシノヲト) わたしたちの勉強会
+
+![](https://pic4.zhimg.com/v2-138314a081bce079a03f5ddb56a2c589_r.jpg)
+
+本作是漫画杂志COMIC X-EROS第116期上刊载的短篇故事月夜のドキドキ♥かくれんぼ的续篇，是一篇两小无猜的少年与少女之间的故事。
+
+顺带一提，这个短篇我之前介绍过，就在这期。
+
+![](https://pic1.zhimg.com/v2-28c5ca9812b6751664ae012ada7f85c2_r.jpg)
+
+作画 8
+
+剧情 8
+
+## 19.5，乱視と君と。 (santa)   大切に人間として育てていただいたのにオナホでごめんなさい♥ 準備号
+
+![](https://picx.zhimg.com/v2-2d66b36f6e7f9909a87b6a9161f2009f_r.jpg)
+
+之所以是半篇，是因为这家伙根本就没画完……
+
+所谓的“準備号”就是预告的意思，不然画师也用不着在后记上写上自己全棵土下座了。
+
+后续的展开到底如何，就请各位等待2月份或者3月份的正式版发表了。
+
+## 20，陸の孤島亭 (しゃよー) 桜春女学院の男優3
+
+![](https://pic3.zhimg.com/v2-6cd4a432144dd6d756c068820fc5ee62_r.jpg)
+
+相比起乡下没有娱乐系列我个人是更喜欢这个系列的，只可惜这第三话的展开稍微有些低于预期了。
+
+明明有着一个演戏的设定，却没有进一步展开新的剧本，反倒变成了前两话的女主角之间争风吃醋的后宫闹剧，就有点可惜吧。
+
+不过画面表现力方面しゃよー倒是没得说的，一如既往的非常的顶。
+
+作画 8
+
+剧情 6
+
+实用度 9
+
+## 21，NANIMOSHINAI (笹森トモエ)  サキュバステードライフ11
+
+![](https://pic2.zhimg.com/v2-9965c15a15764547d9f87bd884427bb3_r.jpg)
+
+与小恶魔女孩同居生活系列的第11话。本话与第10话之间整整间隔了5年的时间，反正我个人是早就把前面的剧情都忘的一干二净了。
+
+作画 9
+
+剧情 忘光了……
+
+实用度 9
+
+## ★22，なかにしゆうた (なかに) ものがたりのように
+
+![](https://pica.zhimg.com/v2-a721fd4ac2a65ba688b9157a47a84b44_r.jpg)
+
+治愈系画师なかに的这本接近300页的原创同人，在种意义上都算上是重量级的作品了。
+
+同时也是我个人认为本次C105中最文艺的一部作品。
+
+故事讲述了男主一个人来到因疾病而离世多年的姐姐的坟前扫墓，这时突然一位拥有着与姐姐完全相同外表的女子出现在男主的面前。看到这一幕，男主角却似乎并没有感到惊讶，故事由此展开。
+
+![](https://pic1.zhimg.com/v2-3dabac75dd2ff5e949b85403b05ee9f2_r.jpg)
+
+对于本篇的情节，我相信肯定是有小伙伴没看懂的，这倒也不奇怪，毕竟就连日文评论区都有人表示没看懂。这里我就简单说下自己对于情节的理解好了。
+
+故事中的主要角色有3个人，分别是已经离世的姐姐和因为她的离世而无法从痛苦中走出来的弟弟与妹妹。其中弟弟的年龄要略微年长一些，同时妹妹和男主姐弟俩之间并没有血缘关系。
+
+![](https://pic1.zhimg.com/v2-4d03506076bc481e97876a1dee271d0c_r.jpg)
+
+本作的故事就是男主与模仿成姐姐的妹妹，两人通过姐姐去世之前留下的写给未来两人的日记，而完成的一段写生之旅。
+
+并因为这份已逝之人写给生者的故事，最终两人从姐姐离世的痛苦中走了出来。
+
+![](https://pic1.zhimg.com/v2-a7cedcee8b1cebebc3365b76e0d69be2_r.jpg)
+
+本作的情节其实并不复杂，只是使用了叙事性诡计在隐藏妹妹的身份而已，这就导致了很多读者的过度解读，实际上男主一开始就认出了妹妹的身份。
+
+![](https://pic3.zhimg.com/v2-cb751787409f1c883b7117c7833b9b88_r.jpg)
+
+我认为这是一篇鼓励大家好好生活的故事。并且在临近结局中的这一页中，作者就透过男主角的话已经直接点明了本篇的主题。
+
+![](https://picx.zhimg.com/v2-666c3cd1a5c33123f06070dbaab23de9_r.jpg)
+
+用电视剧漫长的季节的结局中范伟老师的那句台词来讲——那就是向前看，别回头。
+
+这里说一个额外的趣事吧。
+
+本作中姐姐日记中最后的一个场景即老家的神社，在现实中真实存在。其原型是宫城县石卷市的五十铃神社。画师使用的正是神社主人在网络上公开发售的神社构造3D建模。
+
+![](https://pic2.zhimg.com/v2-d2a82547032a2b8ce9425c9fb4ffd921_r.jpg)
+
+在得知了自己的神社被人用在画本子之后，神社的主人表示大为震惊，这个用途完全出乎了他的预料，并表示如果有违规使用的话那就要考虑去起诉对方了。结果神社主人自己去看了本作。看完之后表示，感动到看哭了。甚至当起自来水向网友们推荐，并且自己也去C105现场买实体书去了。
+
+![](https://pic1.zhimg.com/v2-35658f4a59a70ae4474eba6353f03198_r.jpg)
+
+画师なかに的故事每一篇读起来其实都挺虐心的，但每次又都会以积极向上的结局收尾。
+
+其之前的作品如果还没有没看过的朋友，强烈推荐昔はカッコよかった和昔は楽しかった。
+
+作画 9.5 只可能在同人作品中出现的影视化分镜
+
+剧情 10 感人的剧本
+
+实用度 7
+
+## 23,こーひーめーかー (朝峰テル)   ギャルを嫁にしたら毎日がエロ最高だった
+
+![](https://pic3.zhimg.com/v2-27d0d7e44f052aaf2ca6c7aac8336674_r.jpg)
+
+漫画杂志COMIC Bavel的招牌画师朝峰テル的第一本原创同人，是一篇师生恋桃子文。人设一如既往的非常好看。
+
+作画 8
+
+剧情 7
+
+实用度 8
+
+## 24，ENJI (源)   無自覚な幼馴染と興味本位でヤってみたら3
+
+![](https://pica.zhimg.com/v2-54218d4bf6c71edcf675dbfe40c0fac6_r.jpg)
+
+青梅系列的第三话，也是系列的完结篇。
+
+了解画师的网友应该很清楚这个画师从来就没画过ntr本，第二话的结尾那页不出意料的是虚晃一枪，根本就算不上什么悬念。
+
+![](https://picx.zhimg.com/v2-75b51795221cc8ccc7a74aa288302ff9_r.jpg)
+
+本作以男女主的交往为结局完美的纯爱收尾，并且篇幅也达到了惊人的80页，纯爱战士们不要错过本作。
+
+作画 9.5
+
+剧情 9
+
+实用度 8
+
+## 25，ダイコテツ団 (92M)   ぼくのおねぇちゃん3
+
+![](https://picx.zhimg.com/v2-eb9d255e5890351685769a7a421d6577_r.jpg)
+
+画师92m的我的姐姐系列的第三话，是一部人设相当好看的姐弟恋大车本。
+
+作画 8
+
+剧情 6
+
+实用度 8
+
+## 26，enuma elish (由木彌)   壱葉4カナコ
+
+![](https://pic2.zhimg.com/v2-39c614e4784d4f6de02b16680aba8181_r.jpg)
+
+长篇贵圈真乱系列故事壱葉的第四话。
+
+本话算是彻底揭秘了男主角翔叔叔变瘦的原因，搞了半天竟然是因为他喜欢上了自己的嫂子，也就是女主角壱葉的母亲カナコ。
+
+![](https://picx.zhimg.com/v2-ab63f287ff05bc82d0aa6a5e13c5ca95_r.jpg)
+
+因为カナコ已经怀上二胎的关系，本话也算是叔叔圆梦的一回了。
+
+但另一方面，与翔叔叔保持PY关系持续了10年以上的苍井姐姐意外怀孕了。
+
+![](https://pic3.zhimg.com/v2-82e36fb93ec76c73ea3fdd3a02e701fc_r.jpg)
+
+这个贵圈真乱的系列故事到底会以怎样的结局收尾呢？真是让人期待后续。
+
+作画 8
+
+剧情 8.5
+
+实用度 8
+
+## 27，ヌルネバーランド (ナビエ遥か2T)  爆“汝”令和
+
+![](https://pic3.zhimg.com/v2-fd5aa171a9885e82b41ab613763a6c70_r.jpg)
+
+倒贴流的双人后宫本，纯粹的桃子文展开。
+
+作画 8
+
+剧情 6
+
+实用度 8
+
+P.S.小心版权炮
+
+28，A極振り (Sian)   はいはい指導指導
+
+![](https://pic3.zhimg.com/v2-255c570147d5f73fce6aefd886b24806_r.jpg)
+
+贴流的双人后宫本，这猥琐的男主真的让人难以代入……
+
+Sian在完结了雌ガチャ之后又开始画起了辣妹，个人感觉还是雌ガチャ中吃瘪的异世界女帝更对味儿一些。
+
+作画 8
+
+剧情 6
+
+实用度 8
+
+## 29，Ink Complex (智弘カイ)   秘公開サブプラン2
+
+![](https://pic1.zhimg.com/v2-6d4fcdfabeefb8e2252ec0344b4e5e06_r.jpg)
+
+onlyfans秘密订阅系列的第三作。
+
+本次画师的封面再次疑似由AI制作。前作的封面是左边大右边小，这次倒好，换了个姿势之后变成右边大左边小了
+
+作画 8
+
+剧情 6
+
+实用度 8
+
+## 30，坂本商店 (西沢みずき)   ギャルとめっちゃ生ハメ中〇しえっちするハナシ#2
+
+![](https://pica.zhimg.com/v2-fdaee074c64fece18ce9786635d84610_r.jpg)
+
+双胞胎辣妹系列的第二话。本话顺理成章的轮到了黑发妹的回合。
+
+西沢みずき是顶级漫画杂志快乐天的一线画师，作画值得信赖。同时结尾处也为下一话留足了悬念。不过遗憾的是新角色会是一位黑皮辣妹，而并非双女主的母亲……
+
+![](https://pic1.zhimg.com/v2-4845381950c7d4e9341e0f483656b95e_r.jpg)
+
+真的是太遗憾了。画师在后记中也提到了读者反馈的双胞胎母亲问题，并表示剧本正在准备中。果然同好还是多啊（笑）。
+
+作画 8.5
+
+剧情 7
+
+实用度 8.5
+
+## 31，カームホワイト (真白しらこ)  エロ小説みたいな青春Hを陽キャ彼女の水渡さんと
+
+![](https://pic1.zhimg.com/v2-c49a7afe3aa14d60ee8b86cf3e1c7f9e_r.jpg)
+
+本作是画师真白しらこ在漫画杂志COMIC アンスリウム2023年11月号上刊载的短篇故事Better than fiction的续篇。这篇故事收录在画师单行本《彼女フェイス》中，有无修的哦~
+
+算是一篇情侣日常小故事的吧，属于纯粹的实用作。不过非常遗憾的是本篇中并没有刘备文中的刺激展开啊，这方面毫无疑问小日子是走在我们的后面了，我个人觉得画师可以去第一版主多学习一下……
+
+作画 9
+
+剧情 7
+
+实用度 9
+
+临近年底，各方面都比较忙，感觉已经码不动字了，这次就把视频文案改了几下凑合一下了。。
+
+下期会是C105的最后一期盘点，会是一期全篇NTR的牛头人专场，雷霆崖信徒们可以稍微期待一下，C105的NTR作品质量还是蛮高的。
+
+
+---
+
+# 谁有这套林黛玉台词的二次元表情？ 蘇賽特ExtraStyle
+
+**Author:** 蘇賽特ExtraStyle  
+**Bio:** 混沌の姫君、降臨せり！  
+**Avatar:** ![](https://picx.zhimg.com/v2-9e20b48f157a3a6f5b6f2c12e8933bad_l.jpg?source=0df5f383)  
+**Author URL:** https://www.zhihu.com/people/c415d4e09f284dee7605bfac7c8c78a0  
+**Published:** 2024.06.03 15:19:43  
+**Updated:** 2024.06.03 15:23:24  
+**Question:** https://www.zhihu.com/question/619107252  
+**Question Created:** 2023.08.25 13:55:44  
+**Question Updated:** 2023.08.25 13:55:44  
+**Votes:** 3052  
+**Comments:** 57  
+**Type:** answer  
+
+无水印，清晰度尚可，看到了顶我上去，分享给更多人
+
+![](https://pic1.zhimg.com/v2-24f147bc2d7a597fa4d90f136016c44b_r.jpg?source=2c26e567)
+
+![](https://pic1.zhimg.com/v2-6082201b7dd331ed963a81e528d06199_r.jpg?source=2c26e567)
+
+![](https://picx.zhimg.com/v2-75d300ecb5cec99bde3accba8cecccd3_r.jpg?source=2c26e567)
+
+![](https://pic1.zhimg.com/v2-fa100b6f31884f5ac953ed73ebaca58e_r.jpg?source=2c26e567)
+
+![](https://pic1.zhimg.com/v2-ad31db8ca3b1ff9dd598228e1f54cf8e_r.jpg?source=2c26e567)
+
+![](https://picx.zhimg.com/v2-cb371500c66df8f75ffe123a098c7b84_r.jpg?source=2c26e567)
+
+![](https://picx.zhimg.com/v2-162d1c884c62b06b604f41a76b3d9236_r.jpg?source=2c26e567)
+
+![](https://pic1.zhimg.com/v2-8a9dd665e063b35f18e4a839732dbfb4_r.jpg?source=2c26e567)
+
+![](https://pic1.zhimg.com/v2-98a5b927fcb1db3aa53061e977711c2d_r.jpg?source=2c26e567)
+
+![](https://picx.zhimg.com/v2-e3f0001e068c2da654a6c62543621df5_r.jpg?source=2c26e567)
+
+![](https://pic1.zhimg.com/v2-1145af614d01a5f733d7d068af29dea3_r.jpg?source=2c26e567)
+
+![](https://picx.zhimg.com/v2-0f2e71338bc8759aac5005d0ccdbe31d_r.jpg?source=2c26e567)
+
+![](https://picx.zhimg.com/v2-5adce6c504bee36a2788cb4877232cf5_r.jpg?source=2c26e567)
+
+
+---
+
+# 哪些人的画风是你一眼能看出作画者的？ Kirailnet
+
+**Author:** Kirailnet  
+**Bio:** 数学研究生  
+**Avatar:** ![](https://picx.zhimg.com/v2-68d8cc462636a8ae68e47134ef69c7f6_l.jpg?source=0df5f383)  
+**Author URL:** https://www.zhihu.com/people/76fc19d36eefdb6ea1998c0ea8540448  
+**Published:** 2025.04.20 13:46:58  
+**Updated:** 2025.05.03 02:08:55  
+**Question:** https://www.zhihu.com/question/295675918  
+**Question Created:** 2018.09.22 18:03:23  
+**Question Updated:** 2018.09.22 18:03:23  
+**Votes:** 1176  
+**Comments:** 27  
+**Type:** answer  
+
+**yusano**
+
+gal界最好的白毛画师，前翼社应该给她磕一个
+
+![](https://pic1.zhimg.com/v2-28ab6a35e0225ed80621f6854c1b1a38_r.jpg?source=2c26e567)
+
+
+
+
+![](https://picx.zhimg.com/v2-da5003492528d6a7af6803ed29ab66f7_r.jpg?source=2c26e567)
+
+两位高饱和度战神
+
+**鱼介**
+
+擅长利用高饱和度的对比色刻画光影，极度抓人眼球
+
+![](https://picx.zhimg.com/v2-d8ccc58e70f06e3129129548e974f1e6_r.jpg?source=2c26e567)
+
+
+
+
+![](https://pica.zhimg.com/v2-8d5571ff0c35fcdd6c893a4c179279c9_r.jpg?source=2c26e567)
+
+**Mika Pikazo**
+
+二次元领域最好的颜色运用者，能把彩虹塞进画里的女人
+
+![](https://pic1.zhimg.com/v2-c553a5c368415507a09a421ca18be9c9_r.jpg?source=2c26e567)
+
+
+
+
+![](https://picx.zhimg.com/v2-37972ab97b523cb4ddebd9a7d23e446a_r.jpg?source=2c26e567)
+
+**彩莉わらび**
+
+明亮的光影和上色
+
+![](https://picx.zhimg.com/v2-9784bb5191d4a048e676a8b0ca111c3d_r.jpg?source=2c26e567)
+
+
+
+
+![](https://pic1.zhimg.com/v2-f1b5ad6f3661de27f59143e9b2ff5b0f_r.jpg?source=2c26e567)
+
+场景**画师JW**
+
+会讲故事的画，墙纸批发商
+
+![](https://picx.zhimg.com/v2-dc8b0e599d17010d36f31c3a0d345c76_r.jpg?source=2c26e567)
+
+**優子鈴**
+
+水彩大师，少数认得出来的非板绘画师
+
+![](https://picx.zhimg.com/v2-21cb190bce259ff479689e14aeba9da0_r.jpg?source=2c26e567)
+
+
+
+
+![](https://picx.zhimg.com/v2-4b85824d7bb44ba8d642da72d3c3f0eb_r.jpg?source=2c26e567)
+
+
+
+
+## 2025.5.3二更：
+
+看来大家都很有品味，收藏这么多（
+
+那就再更新几个好了，顺便把之前某些作品换成了质量更高或者更有代表性的作品
+
+底下评论有人提到的**藤原**
+
+mikazo还算是色块多，这位是真把彩虹晕起来塞进去了
+
+藤原的人物脸是真的好看，有种gal女主的感觉
+
+![](https://picx.zhimg.com/v2-3b50bec4a661b8b93df157c9e9d2e10f_r.jpg?source=2c26e567)
+
+
+
+
+![](https://picx.zhimg.com/v2-82c6b7f2a817e807cff58b3068620b7b_r.jpg?source=2c26e567)
+
+
+
+
+![](https://pic1.zhimg.com/v2-fd6bc46a5bdf480ddd2b7d6af378e977_r.jpg?source=2c26e567)
+
+**torino**
+
+细节狂人，很特别的光影上色手法，稍有争议
+
+![](https://picx.zhimg.com/v2-2625de2bec32d9094f064f5ab7c73181_r.jpg?source=2c26e567)
+
+
+
+
+![](https://picx.zhimg.com/v2-a8467f7f6304932de3c805aa337d1191_r.jpg?source=2c26e567)
+
+
+
+
+![](https://pica.zhimg.com/v2-a2321b9bad014b4f98a4edc927d4e14a_r.jpg?source=2c26e567)
+
+**柚子奈**
+
+无须多言，madosoft销量拯救者
+
+总之童颜巨乳就对了
+
+![](https://pic1.zhimg.com/v2-bb46b0da453ab647bd9d6a28573f0dd4_r.jpg?source=2c26e567)
+
+
+
+
+![](https://pica.zhimg.com/v2-c79affee34992c30aca7522b334e8b61_r.jpg?source=2c26e567)
+
+**せゆーら**
+
+可能很多人一时间认不出来这位是谁，他的别名更有名：Se-U-Ra
+
+富有肉感的画风，特别容易辨认
+
+![](https://picx.zhimg.com/v2-146caa898b575ddf5264030805728b80_r.jpg?source=2c26e567)
+
+
+
+
+![](https://picx.zhimg.com/v2-cb5edcf244e4711f83678d57ed7a512d_r.jpg?source=2c26e567)
+
+
+
+
+![](https://pic1.zhimg.com/v2-31da8792cb5b6dc72485bd1fad9a1601_r.jpg?source=2c26e567)
+
+
+---
+
+# 二次元的色图很多都是触手，为什么会有人喜欢触手呢？触手play这种在现实中有什么原型吗？ 酸钙
+
+**Author:** 酸钙  
+**Bio:** 心里没有一点爱，完全不能感受情绪推动，只会用逻辑判断一切  
+**Avatar:** ![](https://pic1.zhimg.com/v2-7926c08ac89710b84fb184ebf727c5d2_l.jpg?source=0df5f383)  
+**Author URL:** https://www.zhihu.com/people/35c40a0597193a6804d031c780458c06  
+**Published:** 2025.03.04 11:57:19  
+**Updated:** 2025.03.04 11:57:19  
+**Question:** https://www.zhihu.com/question/404663120  
+**Question Created:** 2020.07.02 19:39:30  
+**Question Updated:** 2020.07.02 19:39:30  
+**Votes:** 13776  
+**Comments:** 579  
+**Type:** answer  
+
+因为触手优秀。
+
+本文将从以下三个方面逐个解析触手究竟为何优秀：物理层面的形态优势、功能层面的玩法优势以及创作方面的接受度优势。
+
+首先，是**物理层面的形态优势**。
+
+毫无疑问，触手在最开始也是最本质的生态位就是形态异化的男性生殖器。最最朴实无华的触手没有任何细节，粗细均匀表缘光滑，尖端为正常半球形，这种形态下的触手完全可以光明正大放出来，不带有任何R-18要素，功能性也非常单一，就是缠绕+伸缩。
+
+而就是这最基础形态的触手，在灵活性角度完全薄纱了同生态位的其他竞争对手。不用担心可能导致穿模的体位，不用担心长度粗细的限制，甚至还带有万向旋转的结构设计。
+
+去除长度限制的触手能直接贯穿底层，任何触手的理论长度都远超生殖器长度，在不用考虑大腿交叠穿模问题后都能轻松直达穹顶；触手的大小限制只对粗细有影响，能够同时满足多根需求和单一胀满，不过这部分可以在后续的玩法篇展开讲解；万向旋转更是能在内部扭成各种形状针对性刺激特定区域，相比传统生殖器只有前后运动和小角度调整，触手能多出来左右上下和旋转，运动形态数倍于男性生殖器。
+
+然后，是**功能玩法方面的开发优势**。
+
+触手在这方面有着里程碑级别的创举，成功将目标从模仿男性行为转向满足女性行为，射精动作虽然仍占据相当程度的比重，但不再是必要一环。
+
+接下来我将从最最基础的初始形态触手开始，逐步进行进化调整，并匹配上玩法开发。
+
+初始形态的触手在上文已经进行过外观形态介绍，单根可以开发的玩法也在上文有所提及，比如说常规生殖器能够进行的所有玩法，比如说体内画圈，比如说扭动旋转，比如说突破瓶颈限制，比如说局部膨胀。
+
+仍旧是初始形态的触手，但在数量和大小上做出差异化——只有一根触手算什么触手怪？多根触手可以以单只触手怪模仿群体行为；也可以将细小触手编为一组，对特定区域实现挑逗；在纳入过程中可以将细小触手组绞成一股，在内部解散各自为战……
+
+各种形态生殖器的拟态触手我就暂且跳过，玩法开发潜力其实不如初始触手，只是沾了兽化领域猎奇的光。
+
+初始触手可以在头部进行分化，比如单根触手多根头，模仿手部结构开发出抓握能力，对第二性征或者瓶颈部位补充抓握揉捏刺激；比如头部膨胀凹陷出空腔实现吮吸功能，必要时可以进一步打薄空腔壁呈透明材质，这方面应该不需要过多介绍，无论是榨乳吮豆吸宫都有开发空间，甚至隔壁区的部分魅魔也受此思路，开发出能开花的尾巴来实现榨精功能。
+
+既然能开发出负压吮吸这种抽取功能，沿着这条思路继续开发，触手能交换的也不仅仅是精液，向内注射行为可以开发出麻醉、媚药、产卵等行为。甚至于触手为什么一定要注射而不能榨取这个问题也同样拓宽了就业方向，向外榨取不仅仅能榨取与性带有强相关指向的液体，还能往去色情化的方向开发功能比如吸血清创……
+
+将目光焦点从触手转移到本体上，我们可以轻松发现，传统触手的整体就业方向依旧是作为某类幻想生物的附属器官，隐秘化社会化方向仍旧未有开发探索，对触手怪或魅魔这类本体的限制使得不能随时随地使用触手。
+
+于是，仿生学魅力时刻再次发力，藤壶状触手作为寄生生物横空出世，填补了触手家族在隐蔽性和便携性方面的缺陷，性玩具领域空白被拟态触手服填补。在日常生活中随时随地使用触手不再需要暴露癖6，只需要一份触手衣装，无论是上课还是打工，亦或是舞蹈室练习和镇外农庄务农，随时随地享受触手服务，暴露癖和异种癖蹭蹭刷。
+
+再往后的开发方向就比较模糊了，各种高级功能接口比如说温度电击等等，我们接下来会在创作板块进行讨论。
+
+最后，是**创作方面的接受度优势**。
+
+触手本身带有去身份化的意味，其形象不带有阶级、年龄、人种、体型、社会身份等等标签，规避了以男性作为表达工具时，乞丐、老人、肤色、肥胖、肮脏、亲缘、跨物种等等雷点标签，甚至于部分受众在表达对特定角色的欲望时还会掺杂占有欲，工具定位的触手作为“无面人”出场就能以合理的方式规避绝大部分不满。与触手相似的几种处理方法（按摩、自我发电等）跟触手一样走的是特化对女性的满足这一路线。
+
+（此处必须要进行补充说明，许多以现实社会中低身份标签定位男性作为表达工具的作品，在创作时隐含有强烈的歧视要素，本质上与兽交并无不同，都是以插入者作为践踏人格的工具，心理快感有部分来源于破窗效应，例如反差+媚黑/恋老/乞丐/肥宅等等。）
+
+在此我仍旧要强调一遍，触手非常优秀，优秀在底子扎实，许许多多的接口即插即用，比如说触手拟人化的百合香，纯粹生殖欲望的凌辱，带有支配意味的束缚甚至丸吞……触手是一个非常优秀的工具，绝大多数的玩法癖好都能借由触手表达实现。
+
+而且，触手理论上来说属于人外，但其在所有人外区中的接受度最高，甚至高过人外整体的平均接受度25个点，其去身份化的设计与隐喻层面的安全居功至伟。
+
+要泛用性有泛用性，要对策性有对策性，去身份化的设计和简单移植就能实现的再身份化，我靠，当前涩图作者们对触手的开发还不足50%，只要xp还在不断延伸，触手的道路就不会停啊~
+
+啊，当然，以男性体验为主的领域对触手来说属于是先天短板，去身份化的设计直接断掉了女性指定身体部位侍奉玩法以及特定身份的隐含意义，触手哪有什么足什么乳什么指，哪有什么学生什么修女什么大车？
+
+顺带，史莱姆玩法和机械玩法严格意义上讲属于触手dlc，其设计思路基本与触手同出一源。
+
+当前许多史莱姆玩法其实都是把史莱姆当做高透明度触手使用，我个人其实不是很满意（对，就是你，ViciNeco，你这做的根本就是蓝色触手！），史莱姆玩法比触手更加依赖断面图特写的表现力，单纯当做触手使用是完全忽视了史莱姆的变形+浸润+透明的优势。
+
+机械玩法看似没有条状触手的参与，实际设计思路几乎一模一样：拘束+多样化功能刺激+强制，各种道具完全可以等效于各种功能的触手，基础柱状物不提，比如毛刷，比如榨X机，比如振动，比如电极片……而且机械相比于触手有更上一层楼的隐喻，即永无止境：触手在绝大多数情况下仍旧被归类为生物，但机械毫无疑问是死物，指令不停行动不止，其非人化的强制意味要比触手单纯的生物本能更加强烈。
+
+**总结：**触手在物理层面T0级，可开发玩法花样繁多，且去身份化的设计能够规避绝大多数雷点，泛用性极强，对策性较强，整体强度属于超大杯，推荐所有可接受玩家体验使用，推荐所有画师研究学习。
+
+至于原型方面的探究……其他回答已经给出了答案，我在此仅做简述。
+
+19世纪的日本，以章鱼（蛸）为触手最基础的原型出现创作，其构图受中国春宫画中“云雨”意象启发，但将传统云雾替换为具象化的触手，形成独特的本土性符号。这应该是目前最早将触手这一元素奠基至情色领域的里程碑。
+
+而在宗教领域，长条状的“蛇”在基督教解释中是引诱夏娃堕落的生物，佛教中也有以触手隐喻贪嗔痴，虽说有些先射箭后画靶的嫌疑，但这方面的隐性影响也不能完全抛开不谈。
+
+再往后，触手元素大范围爆发应该是上世纪八十年代之后，规避过于直接的性描写绕开审查制度，又利用了触手的非人性淡化道德感。
+
+嗯……听起来有点耳熟？本身是用封禁以避免直接的性描写，但完全符合规范的间接描写却引得更大的吸引力……朦胧美啊朦胧美~
+
+
+---
+
+# 也许，是时候说再见了 DarkFlameMaster
+
+**Author:** DarkFlameMaster  
+**Bio:** 守护虹夏和六花的笑容乃是吾辈之使命！  
+**Avatar:** ![](https://picx.zhimg.com/v2-591f82cca9da8d0932ab0e987048de1d_l.jpg?source=0df5f383)  
+**Author URL:** https://www.zhihu.com/people/8811ead8c42538b26bf387717317c61b  
+**Published:**   
+**Updated:**   
+**Question:**   
+**Question Created:**   
+**Question Updated:**   
+**Votes:** 4284  
+**Comments:** 415  
+**Type:** article  
+
+大家好。我是DarkFlameMaster。很抱歉，再一次出现在各位的眼前时，却是以这样的方式。
+
+是的，也许我要和各位说再见了。我不会从知乎离开，已经建立的群也不会解散，你们评论区的鼓励和认可我也依然会一条条认真地看。
+
+只是，未来很长一段时间里，我想我是没有什么机会再写一篇技术文章了。
+
+## 我的大学
+
+读者朋友们肯定好奇，为什么这两年间，我写的文章越来越少了？
+
+说实话，我自己也想不到，短短几年间，我的心态会经历这么多的变化。我想在这里回顾一下我自2020年9月踏入大学校门开始，到如今这4年半以来，我的心路历程。
+
+读者如果不想看我絮絮叨叨地追忆往昔，可以直接跳过这一篇章，快进到结语部分。
+
+## 大一：原初之火
+
+在2020年9月，刚进入大学的我，被学长和辅导员告知，一般大家刚来软件学院，都会在3条道路中选择一条主攻。分别是“保研”、“就业”、“考公”。
+
+![](https://pic2.zhimg.com/v2-c93badfa6fa10a7ac37f7383f8eccfaf_r.jpg)
+
+保研的同学要从大一开始就没一刻松懈，在每一门的科目上都超越大多数人（电科作为985，但我们学院的保研比例通常只有17%左右）。
+
+而想考公的同学，则需要尽可能大一时就成为“入党积极分子”，经历一系列的考核和筛选，成为党员，这样在考公时选择面会更广；抑或是在后面去走选调生的路线。
+
+至于我，当时的我觉得作为985高校的学生，读研再把学历拉高一级，貌似没有什么必要。觉得直接就业就够了。
+
+
+
+
+那时的我刚从高考激烈的厮杀中脱颖而出，从偏僻的小县城来到当时炙手可热的计算机专业的985高校；腾讯等大厂用30万白菜价招聘应届生的新闻甚嚣尘上；村委会敲锣打鼓到我家门口祝贺我，亲戚们提起我这个“别人家的孩子”都十分羡慕。
+
+彼时的我，可谓是春风得意马蹄疾，一日看尽长安花**。**我的心中豪情万丈，觉得自己的未来是无限光明的。
+
+电子科技大学的软件学院里，有着一个叫“双创中心”的部门，它坐落在沙河校区的第三教学楼，双创中心里有许多“工作室”。辅导员告诉我，如果我想要走就业方向，最好加入一个工作室，去里面摸爬滚打，打比赛，学技术。
+
+这种工作室实质上是一种类似于社团一样的松散组织。一般大部分由指导老师挂个名，日常的活动还是由学生自己进行。学校会给这些工作室提供“活动场地”——也就是拥有电脑的工位们。当然，代价是工作室需要定期参加一些比赛，给学校拿一些奖状。
+
+![](https://pica.zhimg.com/v2-a027e2d1d771629104a41964680c737e_r.jpg)
+
+起初我本来想去我一个相熟的学长，所在的Synx工作室的，那个工作室研究的方向是硬件，嵌入式，网络相关的。现在想来，还好没有去。人生的重要的节点，往往都是在这一个又一个不经意的瞬间。
+
+我参加了“虚幻工作室”的招新宣讲会。这场宣讲会比我想象中的有意思得多。以前，我从来不知道死板的代码，只能存在于黑漆漆的cmd中的代码，可以化作这样可视的，生动的世界。我对做游戏萌生了兴趣。
+
+宣讲会上，我听着那些传奇的学长们在这个工作室里留下的传说。
+
+13级的罗丁力学长开天辟地，为工作室在三教挣得了立足之地。大手一挥，又写下《大象无形》，留给无数学习UE的人研读。16级的郝文翰学长，以三教为原型，制作了恐怖独立游戏《三教》，上架steam，每年招新时我们都找他白嫖cdkey……
+
+彼时的我其实还不了解他们到底有多厉害。但我的热情已然被点燃。那时的我看着宣讲会上说的两个引擎，UE4和unity，我问着一个玩了很多steam游戏的高中同学，说我该选哪个。他说UE4更难，但画面上限也更高。于是我便选择了更难的UE4作为我的起点。
+
+我参加了工作室的招新。招新一共分3轮考核，每一轮考核，都要我们做出一个越来越复杂，越来越难的小游戏。
+
+第一轮要我们参照教程做个简单的射击功能——从枪的模型中射出sphere的子弹，打中靶子就加分。我在这基础上做了个半透明的镜子，让我的学长在游玩时只能从镜子底部反弹子弹来打靶，学长们的表扬让我高兴了好几天。
+
+![](https://pic3.zhimg.com/v2-92240c3704559502cdb753128c24ddc8_r.jpg)
+
+第二轮要我们参考教程做个平台跳跃游戏。而第三轮时则要我们在来到第三轮的人中，找一两个人组队，在寒假里合作做一款体量稍大的游戏。
+
+学长们说，这个时代做游戏需要团队的力量，不学会如何团队合作，只靠单打独斗的话，是不可能做好游戏的。我一拍脑袋，说我要在寒假里做一款仙侠的ACT游戏！在学长们的劝阻下，最终换成了做一款简单的恐怖游戏。
+
+可惜那时我的两个队友都是混子，他们分别负责剧情、策划、关卡，却拖了一个寒假，也没交给我什么像样的东西。但想要进入工作室的强烈的渴望，还是让我扛起了大旗。
+
+我研究了UE怎么用样条曲线控制角色移动，来制作固定巡逻的NPC；我又学习了黑板和行为树，让NPC一旦看到玩家，就解除巡逻开始追击。我也自己一点点搭建关卡，设置钥匙，日记等简单的解谜…
+
+我看了老乌鸡的《逃生》通关视频，学习逃生是怎么吓人的，还顺便把逃生2的一段BGM偷到了我的游戏里。结果逃生的精髓我学不来，学来一堆Jump scare折磨我的学长。最后学长们只能看我播放我自己打通关的视频……
+
+终于，我顺利地通过了3轮的考核，进入了虚幻工作室。在制作3轮的过程中，认识了另一队也在做恐怖游戏的队长，皓文，他真的是一个很靠谱的人，后来大学期间的几次比赛，我都是和他一起参加的。
+
+![](https://pic3.zhimg.com/v2-2f1dc03be365b68ac0f9113b1174d4e0_r.jpg)
+
+学长们对我说，招新把我们领进门，修行还是要看我们个人。当时读大四的17级学长们基本全部隐退，而18~19级的学长里会用UE的又少之又少。不得以，大部分时间里我还是只能自学。
+
+那段时间里，每天下课，我就来工作室里，和学长同学们一起打屁吹水，学一点UE的进阶知识，再打打游戏看看番，日子过的好不惬意。同时我也和皓文一起参加了中国大学生计算机设计大赛，在北京冬奥的背景下，我们做了个滑雪小游戏（那时的我们甚至不会脚部IK……），拿了全国三等奖。
+
+就这样，又一个学期过完了。但我却深感自己实际的技术并没多大进步，无非是蓝图连连看连得更加熟练了而已。这种停滞感让我很焦虑。我决定在暑假里学学UE C++。
+
+那个暑假我住在我妈妈在义乌租的公寓里，她们早上起床起得晚，公寓的采光也很差。于是我总是在昏暗的餐桌上，开着灯，用我的笔记本电脑学习。
+
+大一的我还只会C语言，我在网上查到，只要学一本薄薄的《Essential C++》，就能快速入坑C++，更精深的后面再补就行。于是暑假里我很快读完了这本书。坦白来说，它里面的内容在很长一段时间里确实也够我用了，使我不必在暑假里去啃《C++ Primer Plus》这种砖头书。
+
+除此之外，受到18级学长的建议，我还读了《游戏引擎架构》第3版，《3D数学基础:图形与游戏开发》。当然，那时的我也只能是懂个皮毛罢了。
+
+![](https://pic4.zhimg.com/v2-84ac41ea1f914b77ead236ecbb1b7051_r.jpg)
+
+那会儿除了日常的学习，我还喜欢上了玩《死亡细胞》和《王国保卫战》。在两个吧里都分别写了一篇攻略。现在想来，也许我技术文章写作的能力，在那时就已经初见端倪了。
+
+![](https://pic1.zhimg.com/v2-aa920fba0b9f116684276577a7b67cec_r.jpg)
+
+那会儿正好在b站看到技术宅阿棍的一系列教学视频。我对于源码的启蒙其实就来自于他。我记得他遇到什么接口不清楚时，经常在视频里直接点进源码查。并鼓励我们源码没什么可怕的，源码是很好的参考，看得越多自己水平也越高。
+
+于是，2021年的暑假，我在学着阿棍视频的时候，写下了第一篇文章。
+
+[DarkFlameMaster：UE4项目模块配置-套路与分析](https://zhuanlan.zhihu.com/p/396583280)
+
+那时的我在知乎的笔名还叫“空蝉遗落在白露之后”。写了两篇才改名成现在的DarkFlameMaster。
+
+最开始，我写下第一篇文章时，想的只是“教学相长”，写一篇教学文章，比单纯地记笔记，更容易让我自己有所进益。看着个位数的点赞，我也不以为意，毕竟文章质量确实写的是一坨。
+
+
+
+
+## 大二：骨骼动画启蒙
+
+充实的暑假很快结束了。来到了大二。
+
+我学习UE C++的路线，参考的是大钊在一次中文直播上分享的，精通UE的几个阶段，以及需要学习的东西。我记得大钊提到要会插件、模块的配置；要会垃圾回收、反射、会用UE的宏写各种奇妙的小套路……
+
+在阿棍那学完插件和模块的配置后，再学垃圾回收时，基本只能从知乎上找参考资料了。南京周润发、Jerish、风恋残雪……这些前辈的文章真的给了我很多的帮助。
+
+[DarkFlameMaster：UE4 垃圾回收GC 源码解读](https://zhuanlan.zhihu.com/p/404946454)
+
+多亏了他们的文章，我一边读一边啃，写出了我第一篇点赞超过20的文章——垃圾回收。读者们的反馈激励了我。
+
+读了大钊的UE类型系统系列的大作后，我写出了UE4反射这篇文章，在评论区第一次得到了大钊的鼓励。
+
+[DarkFlameMaster：UE4 反射](https://zhuanlan.zhihu.com/p/414454390)
+
+对我这样一个UE领域的初学者，一个C++都用不明白的小透明，能得到社区经理的认可，受到的激励可想而知。
+
+于是，几乎整个大二上，我都在按部就班地啃着源码，读着前辈们的分享，写着文章。
+
+[DarkFlameMaster：UE4 FObjectInitializer 对象初始化器](https://zhuanlan.zhihu.com/p/422510443)
+
+[DarkFlameMaster：如何阅读虚幻引擎源码？浅谈我是怎样学习源码的](https://zhuanlan.zhihu.com/p/433087674)
+
+![](https://pic3.zhimg.com/v2-cfe713bd0d7c1ec8a1e4bab758c3abb6_r.jpg)
+
+时间来到大二的寒假。那时的我感到学了一学期的引擎相关的内容，有种满嘴都是理论，但真让我上手用C++写个游戏，我肯定写不明白。于是我跑去腾讯课堂学梁迪老师的纯C++&Slate开发沙盒游戏。
+
+偶然间，我在知乎上看到醉里挑灯看剑前辈的一篇分享。我在评论区问他
+
+![](https://pic2.zhimg.com/v2-2c58336f1a07e8d0b5f3013b19bfed37_r.jpg)
+
+在那时，“**渲染**”确实是一个如日中天的方向。《原神》的崛起，让国内的各大游戏公司深刻认识到了画面渲染的重要性。一时之间，整个行业急需渲染相关的人才。正好GAMES101课程也在b站发布，数不清的人投入了学习渲染的大潮中。
+
+然而我看了几集，却总是看到一半看困了，或是直接睡着了。我实在对渲染提不起兴趣，也没有毅力顶着睡虫学下去。所以我又跑去私信骚扰醉里挑灯看剑前辈，问他我未来的职业规划方向。
+
+
+
+
+他说让我不要纯做gameplay，尽量把引擎底层的某个大模块摸明白。我说我对渲染，物理，AI都没兴趣。他便让我试试看动画模块。他的这一句话，开启了我的**骨骼动画**的学习旅程。
+
+![](https://pic3.zhimg.com/v2-0923fdabf191ff476ae07fbf0f2af4d8_r.jpg)
+
+在22年初，网上对骨骼动画的关注度还是很低，也不像GAMES101那样有系统的课程。机缘巧合之下，我在b站发现了五谷延年前辈的高级运动系统视频教程。
+
+[虚幻4（UE4） 动画技术 深入浅出 高级运动系统_哔哩哔哩_bilibili](https://link.zhihu.com/?target=https%3A//www.bilibili.com/video/BV12f4y1r71N/)
+
+这个教程可以算是国内当时公开网络上，讲解UE动画系统最细致而全面的教程了。那会儿，连浅唱的教程都尚未问世。
+
+整个大二下学期，我便浸淫在了五谷延年的教程里。每天下课了，来工作室看一两集教程，打打游戏。每看个十来集教程，有感而发，便写一篇文章。
+
+[DarkFlameMaster：UE4 UE5 骨骼动画 高级运动系统 八向移动](https://zhuanlan.zhihu.com/p/489653380)
+
+[DarkFlameMaster：UE4 UE5 骨骼动画 高级运动系统 原地旋转](https://zhuanlan.zhihu.com/p/516031820)
+
+那时还因为写的文章太多，每篇文章动辄几千上万字，写多了手指很累，促使我去学习了小鹤音形输入法。想要通过更少的击键来减少手指的负担。
+
+当时醉里挑灯看剑前辈还在知乎上私信我，说很欢迎我去实习。对于一个还在念大二的人来说，收到来自赫赫有名的天美工作室的橄榄枝，可想我当时有多高兴，多么意气风发。
+
+![](https://pic3.zhimg.com/v2-15bf2650a2cb3653283563d0abf17954_r.jpg)
+
+然而，在雪崩之前，没有人知道一切会改变得这么迅速。
+
+## 大三：在迷茫中前进
+
+大二的暑假里，我住在我姐厦门的出租屋里，同样看着外面昏暗的光线，每天白天和皓文一起做简历用的demo，晚上玩着《鹅鸭杀》。那时的我以为自己想要找一份实习，是手到擒来。直到在腾讯游戏暑期夏令营的面试中，我因为C++基础不过关，被刷下来了，那时我的心底才浮起一丝不妙的危机感。
+
+![](https://pic1.zhimg.com/v2-e93be7ede58e85cd073f6ccd140beed8_r.jpg)
+
+很快，我经历的游戏行业的第一次寒冬开始了。听说当时是因为国家政策想要脱虚向实，向实体行业发展，使得互联网行业许多资本撤资，这直接导致22年秋招时，我那些19级的学长们纷纷找不到工作。
+
+明明在去年，去腾讯网易这种大厂，对我们工作室的人来说还都是手到擒来，人手一个的。结果转眼间，一切都变了。
+
+
+
+
+学校并没有给我们在大三下学期排课，鼓励我们出去找实习。因此22年下半年，我就开始为找实习而发愁了。曾经许多在知乎上私信我邀请我去实习的项目组，经历了这次寒冬后，都无奈地告诉我已经没有HC，没法招我了。
+
+我迷茫地沿着之前的惯性，继续写着骨骼动画相关的文章。在这段时间里，我加了浅唱的群，也认识了月铭。知乎上有一些出版社也找上我，问我能不能写一本书。
+
+![](https://pic2.zhimg.com/v2-d4239c07734bda30bad7960f852057a3_r.jpg)
+
+坦白来说，写这本书的经历还是比较折磨的。我很钦佩和我一起编写此书的虾饺兄[@虾饺好吃](https://www.zhihu.com/people/3d4a5eb7caf1f77b90158337437dc46b)，即使面对繁重的工作，周末也有自己的事，但他依然能以很高的质量按时交付稿件。如今我自己上了大半年班后，我才深刻地意识到他是多么了不起。
+
+当然……更折磨的是这本书时至今日还在审稿，还没出版……
+
+![](https://pica.zhimg.com/v2-a3b3884d21e7e766b00ffdfd089465e8_r.jpg)
+
+
+
+
+原本的我一直在发愁找不到实习，结果北京一家引擎公司的老哥在知乎上找到了我，邀请我去他们公司实习。于是23年初，我便前往了北京实习。在那里我接到的一个任务是调研UE同步组，经过老板同意后，我写出了我自己的三大名篇的第一篇：
+
+[DarkFlameMaster：UE4 UE5 你真的会用同步标记吗？草履虫也能看懂的同步标记](https://zhuanlan.zhihu.com/p/614854028)
+
+我很感谢老板，如今想来，最后悔的事莫过于没能在那段实习中和他学习更多更宝贵的东西。
+
+在北京的日子里，我也遇见了ChatGPT3.5的问世。但那时我并没有太把它放在心上，因为我在看UE源码时，问他的问题都总是乱编。
+
+北京生活的日子实在是过于折磨了，花着高昂的房租，却只能租在年久失修的老破小的合租房间里，采光昏暗，蟑螂遍地，面积狭小。外面一三五沙尘暴，二四六雾霾，周日还有漫天柳絮，要戴口罩，避免吸入性肺炎。
+
+虽然我的家庭条件并不差，但我不愿意花家里的钱。于是为了省钱，我每天吃着附近的地下老商场里的美食汇，和外卖小哥们一起吃着15块的三菜一汤——这已经是北京市区中能找到的最便宜的物价了。在地面上，随便吃个番茄鸡蛋面都要18块……
+
+我深感自己像个下水道的老鼠一样，整天不见天日，活得太痛苦了。而与此同时，我还要承担繁重的书稿编写任务。我实在受不了了，迫不及待地想要逃离北京。
+
+于是我前往了杭州的一家游戏公司。
+
+![](https://pic2.zhimg.com/v2-7ee2b08339b2541a4a6205ddf445a439_r.jpg)
+
+杭州宜居程度比北京就要强很多了。在这里我第一次深度接触到了Motion Matching。写下了我自己的三大名篇的第二篇：
+
+[DarkFlameMaster：UE5 Motion Matching 调参 血泪史 从入门到入土](https://zhuanlan.zhihu.com/p/642238437)
+
+同时我也完成了我的初稿（那时以为我的任务已经完成了……）。
+
+那会儿正值二次元射击游戏《卡拉彼丘》开服，我和同学们玩得不亦乐乎。这段日子是我非常怀念的时光。可惜《卡拉彼丘》实在是不争气啊。过去的美好时光，也已经回不去了。
+
+## 大四：曲终人散
+
+结束实习后回到学校，经历了迟到了3年的军训后，我的主线任务变成了秋招。
+
+我用空闲时间刷着牛客上的算法题。可惜我的算法天赋实在很有限，做题的效果不太理想，再加上那时的游戏行业寒冬还未结束，只不过比22年稍强一点——导致我通过的笔试寥寥无几。
+
+在牛客里，我看着秋招的哀鸿遍野，看着身边的同学焦虑得无法入睡。我已经对这样不讲理的现实，从绝望，到麻木，到最后的和解。遥想大一刚进入大学时的意气风发，我确实想不到工作会这么难找。
+
+写书稿的经历让我对动画的感悟更加深刻了。于是我执笔写下了我自己的三大名篇的最后一篇：
+
+[DarkFlameMaster：UE5 骨骼动画 停步方案探讨（已完结）](https://zhuanlan.zhihu.com/p/653171929#:~:text=%E8%BF%98%E6%9C%89%E5%B0%B1%E6%98%AF%EF%BC%8C%E5%A4%A7%E5%AE%B6%E4%B9%9F%E7%9F%A5%E9%81%93%E6%88%91%E5%85%B6%E5%AE%9E%E8%BF%98%E6%98%AF%E4%B8%AA%E5%A4%A7%E5%AD%A6%E7%94%9F%EF%BC%8C%E6%98%8E%E5%B9%B4%E6%AF%95%E4%B8%9A%E3%80%82%E8%BF%99%E4%B8%80%E4%B8%A4%E4%B8%AA%E6%9C%88%E7%A7%8B%E6%8B%9B%E5%8F%82%E5%8A%A0%E4%B8%8B%E6%9D%A5%EF%BC%8C%E8%80%81%E5%AE%9E%E8%AF%B4%EF%BC%8C%E6%B2%A1%E6%83%B3%E5%88%B0%E4%BC%9A%E8%BF%99%E4%B9%88%E9%9A%BE%E3%80%82)
+
+我在里面的后记中写下了我秋招中的努力，与我的一些感受。读者直接点击卡片就能跳转到。
+
+![](https://pic4.zhimg.com/v2-144aa41da0c9d0fecd44dded345cfb61_r.jpg)
+
+幸运的是，在国庆节过完，秋招的尾声里，还是有几家公司对我抛出了橄榄枝。使我总算不至于没工作干。然而我学渲染的同学，却因为市场饱和，行业寒冬，难以找到工作。和我合作多年的皓文，也没能找到工作。
+
+我们看着牛客上2020年的面经，看着那会儿只要会背八股文，会点游戏引擎的皮毛，就能进入腾讯。我们深感自己生不逢时。
+
+在秋招的过程中，我逐渐注意到了一件事，我发现以前在面试时，大家都不怎么问ALS。在22年那会儿，如果在面试时能把ALS说明白，面试官会觉得你是相当出色的人才，非常的厉害。而到了23年秋招时，却感觉已经成了“**标配**”。
+
+这就像在GAMES101出来之前，能玩明白渲染的人，凤毛麟角，所以各家公司对渲染人才的要求也没有多高。而GAMES101出来之后，不仅搞渲染的必须要学这门课，甚至只是做普通的客户端gameplay开发的人，也要求会这些东西。
+
+从这时候开始，我对我写文章的动机产生了一丝怀疑：**我写的这些文章，真的是在帮助别人吗**？
+
+![](https://pic3.zhimg.com/v2-2d7015eda1621ed340823bedd7223486_r.jpg)
+
+我们都知道，一个人卷，提高分数；一群人卷，提高分数线。那么，**我写的这些文章，是不是只是在提高应届生们面试的“分数线”，给他们徒增负担呢？**
+
+我不知道。但找到工作后，我要忙着享受大四剩余的时光，也没空再去精研UE的骨骼动画，于是顺便就不怎么更新文章了。
+
+大四剩下的时间里，我和同学们抓紧每一寸光阴，享受着时日无多的大学尾巴。很快，我们毕业了，各自四散天涯。虽然偶尔大家能两三个人见面聚一聚，但想再像大学时那样，凑一桌10个人的三国杀，已经是不可能的事了。
+
+## 参加工作后：尾声
+
+参加工作后，在公司的内网中，我见识到了许多惊才绝艳的前辈，在很早的时候就已经写下了极具超越和前瞻性的文章——然而这些宝藏都被深藏在公司的内网中，从未公开在互联网上。同时，我在公司做的各种业务也有保密要求，想要写成文章进行分享，难之又难。
+
+那一刻，我觉得很无力。
+
+重新开始投入生产，我才注意到了曾经我不甚在意的ChatGPT3.5，已经有了多么长足的进步。尤其是25年初的DeepSeek-R1，与Claude3.7，更是让我见识到了从未想象的高度。
+
+![](https://pic4.zhimg.com/v2-8ad341ef219a0c25b9a4d64d94ee935b_r.jpg)
+
+我深刻感受到，短短两年的时间，AI的能力已经有了如此恐怖的突破。曾经在大二闷头啃UE的Slate，背各种UE C++的固定套路写法，在今天AI都能轻易写出高质量的Slate代码，忘了什么写法AI现场就帮你写出来。
+
+曾经的GPT3.5，只能接受一两百行代码的输入，就要超出限制。而如今的AI，能从数千行代码的输入中，快速找到需要的信息。现在的我再去啃源码，再也不用对着UE的代码海洋，皓首穷经了。
+
+就连我画出来，用来辅助理解源码的思维导图，AI都能用Mermaid语言自动生成了……
+
+
+
+
+AI能力的飞速进步，使我感到，未来5年内，程序员这个职业不会彻底消失，但一定会像今天的原画师一样，被大面积地取代。
+
+MCP(Model Context Protocol)协议的出现，使得AI可以直接调用各个软件。已经出现了能让Claude直接调用UE，生成材质和蓝图节点的插件了。
+
+也就是说，我曾经引以为傲的，对UE动画系统的深度理解，用不了多久，也能用AI来快速制作了。
+
+![](https://pica.zhimg.com/v2-c60216df0ff861e5c6689e4c7e14234c_r.jpg)
+
+我更加感到心灰意懒。现在总有人说，正是因为AI快速发展，所以才更要抓紧学习，不然以后公司用AI就行了，凭什么用你呢？
+
+但我实在不感觉人学习的速度能超过AI。对我来说，我目前的大部分技能，在肉眼可见的未来，都能被AI超越。甚至我曾经发布在知乎上的那些技术文章，都早已成为了用来训练AI的数据（希望我的二次元浓度不要一起被训练进去，污染了数据hhh）。
+
+## 结语
+
+为什么如今的我不愿意再写文章了？
+
+一是因为我感到我写文章，从宏观来看是能提升行业的平均水平，但从微观来看，这种提高“分数线”的行为，只会增加个体的负担，却不能增加个体的收入。
+
+二是因为看见了那么多优秀的技术被雪藏，看见很多人在知乎上写文章时，一到关键之处，就迫于保密要求，只能遮遮掩掩，感到扼腕叹息。
+
+三是因为AI技术的飞速进步，让我感到再去学习，分享这些东西很没意义，因为用不了几年，就会被AI超越。
+
+![](https://pica.zhimg.com/v2-5c922cd56a60a0f7e12288550477de00_r.jpg)
+
+很多人说。我这一代，像是日本“失去的十年”一样，生不逢时，毕业时面对着糟糕的环境，注定是要被牺牲掉的。再加上AI技术的出现，更是严重挤压了本就不多的就业机会。
+
+但否极泰来，绝处逢生。AI技术的发展，反而是黑暗中的一线希望。
+
+我认识的很多游戏行业的朋友，都有一个做独游的梦想。曾经制作独游需要我们是全栈工程师，或是组建团队。而如今可能一个人真的够了。像比如下面这个AI生成像素动画的网站……
+
+[PixelLab](https://link.zhihu.com/?target=https%3A//www.pixellab.ai/)
+
+
+
+
+絮絮叨叨说了这么多，也是说再见的时候了。
+
+祝大家无论在什么时代，都能平安健康，幸福快乐地过着属于自己的人生。
+
+那我们就，下次再见吧~
+
+![](https://pica.zhimg.com/v2-2ac2e48f6007156ccb1d7ad086a2eb5e_r.jpg)
