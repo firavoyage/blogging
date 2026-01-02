@@ -107,195 +107,189 @@
   - dark style · night light · low brightness · tranquility
   - mindfulness · meditation · existentialism · cynicism · accelerationism · dissociation · inner speech · second person omniscient narration
 - personas
-  - acetaffy812
-  - adamwathan tailwindcss
-  - angelnekochan math
-  - animenz
-  - anlin zhihu
-  - antfu slidev
-  - antoninoscordino ntonino
-  - anyway.fm/now
-  - ark.studio design
-  - atharok grind
-  - ayumu maki's lab
-  - bingtangio
-  - bradwoods
-  - cdtchinese
-  - chai jing chinese
-  - chen xiao origami
-  - chiyuki0325
-  - chriscoyier
-  - chtholly nota seniorious
-  - cmfbynothing
-  - codingstartup
-  - cosmicac 2o181o28
-  - cyannyan6 hoshinolina
-  - daimajia juejin
-  - darkf1ames
-  - dbinary matrixcascade
-  - dingyi dex weekly
-  - disdjj blog.pdjjq.org
-  - disksing
-  - diygod
-  - egoist chatwise anime-sedai
-  - elleflorio
-  - end3r js13kgames
-  - endgame battlebots
-  - falstaff duolingo
-  - fenggewangmintianya chinese
-  - fenxer design scenes fenx.work
-  - ftium4 ux weekly
-  - funshiki
-  - gaearon dan abramov
-  - gaou
-  - georgehastings unicode.studio
-  - google doodles
-  - gorvgoyl clone-wars
-  - grant sanderson 3blue1brown
-  - growth.design
-  - gus brawl stars
-  - hakadao
-  - haoel coolshell
-  - helena adams identity v
-  - henrilechatnoir
-  - himself65
-  - hitori gotoh
-  - hitw93
-  - hsn8086 hsn8086k
-  - hu chenfeng chinese
-  - hullqin
-  - huxpro
-  - hzwer
-  - ichi hime
-  - innei innei.in
-  - insraq
-  - jh3yy
-  - jiang yanyan
-  - jiangly
-  - jiangzijun zhihu
-  - jinghanqing chinese
-  - jingsheng237248
-  - jiongks
-  - jjying
-  - johann sebastian bach
-  - joshwcomeau
-  - juemingmofei
-  - juliangarnier animejs
-  - kagura mea
-  - kasugano sora
-  - ke jie go
-  - keven1024 fudaoyuan.icu
-  - kitbogashow scammers killer
-  - kk_shinkai sumink
-  - kkksc03
-  - konata izumi
-  - krahets helloalgo
-  - kuviman kart-lang linksider
-  - larrasket larr.net lr0.org
-  - leanrada kalabasa
-  - leaverou
-  - leongao
-  - li jiaqing go
-  - lightvector
-  - lingdong- lingdong huang wenyan-lang
-  - lingyuanyuanyuanyuanyuan notrealname zhihu
-  - lionleaf
-  - liu yiyi go
-  - liujiayi1111 tauri
-  - liuran_jyz
-  - livid v2ex
-  - longbow flintlock gi doujin
-  - luan xiao meng zhihu
-  - luoling8192
-  - mao niang shen zhihu
-  - matrix67
-  - megabits_mzq
-  - menci lcmenci
-  - minami iwasaki
-  - minato aqua
-  - miyuki takara
-  - modisijixushifu chinese
-  - mrcongliu
-  - mugumogu maru
-  - mutsumi mygo
-  - muyushuixin
-  - nahida
-  - nat friedman github
-  - nayuki
-  - newlearnerchannel
-  - nickel_angel
-  - nina iseri
-  - ninalex12 asakawauniversityofscience
-  - oooooohmygosh
-  - op7418 aigc weekly
-  - ornicar
-  - overidea
-  - pidanzhoujiala
-  - potetomj
-  - probiusofficial
-  - ramsayleung
-  - randy lutaonan.com
-  - rosepineus chess gamedev
-  - ruanyf ruanyf weekly
-  - ryokun6 ryo lu work.ryo.lu os.ryo.lu 
-  - saiba momoi
-  - sama sam altman openai
-  - samekosaba
-  - samuelqzq qzq.at gamedev
-  - shadcn
-  - shaonianshanzhijun chinese
-  - share121
-  - shengxj1
-  - shiffman
-  - shin jin-seo go
-  - shizuku lulu
-  - shylily
-  - simonwillison simonwillison.net
-  - sinyalee alphastar
-  - snack life
-  - spade echo
-  - sparkle
-  - steve jobs apple
-  - student he studio
-  - suzumiyasuzume
-  - takanashi hoshino
-  - tendou alice
-  - tim mediastorm
-  - timochan
-  - timqian
-  - tinyfool
-  - tourist gennady korotkevich
-  - tualatrix
-  - turingou
-  - txstc55
-  - uzawa reisa
-  - vedal987 neuro sama
-  - verymoes
-  - vochant mirekintoc
-  - vtbs_irl
-  - wanderer above the sea of fog
-  - wang zhian chinese
-  - wesbos
-  - whyyoutouzhele 611study.icu zyo.run
-  - wu songlei paperclip
-  - xiaoazaishangwang chinese
-  - xiaoyaocz simplelive
-  - xiaoyaosanren
-  - xkcd
-  - xpzouying
-  - xuegao cheese
-  - xzqzmyzxh loli.my
-  - yearprogress
-  - yeyouchuan
-  - yifenggui apple
-  - yifusuyi
-  - yiwanye design
-  - yokidou sv
-  - yuanchuan
-  - yunyoujun
-  - yuuki sakuna
-  - yxc acwing
-  - zhao-stanley web.lab
+  - art & design
+    - antfu antfu.me 100.antfu.me sli.dev
+    - anyway.fm/now
+    - ark.studio
+    - chen xiao origami
+    - cmfbynothing
+    - dingyi ding.one dexlist.page news.dex.group dex-group.ghost.io dex.zhubai.love quaily.com/dingyi
+    - fenxer design scenes fenx.work
+    - ftium4 ftium4.com ux weekly
+    - georgehastings georgehastings.com unicode.studio
+    - google doodles doodles.google
+    - growth.design
+    - henri le chat noir
+    - innei innei.in
+    - jjying jjying.com iconmoon.com
+    - larrasket larr.net lr0.org
+    - leongao leongao.com dribbble.com/leongao
+    - lingdong huang lingdong.works wy-lang.org
+    - mugumogu maru
+    - oooooohmygosh
+    - pidanzhoujiala
+    - ryokun6 ryo.lu work.ryo.lu os.ryo.lu
+    - shadcn shadcn.com
+    - steve jobs apple
+    - tenthousandyes
+    - tim mediastorm
+    - yearprogress
+    - yuanchuan yuanchuan.dev
+  - software engineering
+    - adamwathan adamwathan.me tailwindcss.com
+    - chriscoyier css-tricks.com codepen.io chriscoyier.net
+    - codingstartup
+    - disdjj blog.pdjjq.org
+    - diygod diygod.cc rsshub.app folo.is
+    - egoist egoist.dev chatwise.app anime-sedai.egoist.dev
+    - elleflorio florio.dev
+    - gaearon dan abramov overreacted.io
+    - hakadao hakadao.cc bewlybewly
+    - haoel coolshell coolshell.cn
+    - himself65 affine.pro
+    - hullqin game.hullqin.cn
+    - huxpro huangxuan.me
+    - jh3yy jhey.dev
+    - jiongks jiongks.name jinjiang.me
+    - joshwcomeau joshwcomeau.com
+    - juliangarnier juliangarnier.com animejs.com
+    - kk_shinkai sumink.com
+    - krahets hello-algo.com
+    - kuviman kast-lang.org linksider
+    - leaverou lea.verou.me/projects prismjs.com
+    - lightvector katago
+    - lionleaf dwitter.net
+    - livid livid.v2ex.com
+    - luoling8192 luoling.moe airi.moeru.ai
+    - lyricat lyric.im
+    - matrixcascade dbinary painterengine.com
+    - nat friedman nat.org github
+    - newlearnerchannel
+    - ornicar lichess.org
+    - randy lutaonan.com
+    - rosepineus
+    - ruanyf ruanyf weekly ruanyifeng.com/blog
+    - sama sam altman blog.samaltman.com openai.com
+    - samuelqzq qzq.at
+    - simonwillison simonwillison.net
+    - timqian timqian.com
+    - tualatrix imtx.me
+    - wesbos wesbos.com javascript30.com
+    - xiaoyaocz xiaoyaocz.com simplelive
+    - zhao-stanley stanleyzhao.com web.lab
+  - education
+    - angelnekochan
+    - ayumu maki-math.com
+    - grant sanderson 3blue1brown.com
+    - hzwer hzwer.com
+    - jiangly codeforces
+    - jiangyy jiang yanyan jyywiki.cn
+    - jiangzijun zhihu
+    - kkksc03 luogu k.luogu.org
+    - menci lcmenci men.ci loj.ac oi.wiki
+    - nayuki nayuki.io
+    - one math
+    - probiusofficial hello-ctf.com
+    - qingyu qoj.ac
+    - que_tourist gennady korotkevich codeforces
+    - shiffman thecodingtrain.com
+    - su dekuang zju
+    - yxc acwing.com
+  - journalism
+    - cdtchinese
+    - chai jing
+    - fengge wangmintianya
+    - hu chenfeng
+    - jing hanqing
+    - modi siji xushifu
+    - shaonian shanzhijun
+    - wang zhian
+    - whyyoutouzhele 611study.icu zyo.run
+    - wu songlei paperclip
+    - xiaoa zaishangwang
+  - commentary
+    - funshiki
+    - jueming mofei
+    - muyu shuixin
+    - student he studio
+    - xiaoyao sanren
+  - life
+    - anlin zhihu
+    - antoninoscordino ntonino ant14181 ntonino.eu
+    - chiyuki0325 chyk.ink
+    - cosmicac 2o181o28.github.io
+    - hitw93 weekly.tw93.fun
+    - hsn8086 hsn8086k
+    - leanrada kalabasa leanrada.com
+    - lingyuanyuanyuanyuanyuan notrealname zhihu
+    - liujiayi1111 tauri
+    - liuran_jyz vimhub.org/jyz
+    - llennchan2003 nana_nyan03
+    - luan xiao meng zhihu
+    - mao niang shen zhihu
+    - maplefsnow maplef.top
+    - megabits_mzq megabits.xyz
+    - nickel_angel
+    - notevenaneko qwq.icu
+    - ramsayleung ramsayleung.github.io
+    - sinyalee sinyalee.com alpha-star-research.com
+    - timochan timochan.cn mx-space.js.org
+    - tinyfool tinyfool.org codechina.org
+    - turingou paragraph.com/@guoyu
+    - txstc55 txstc55.github.io
+    - verymoes shiro.love
+    - xkcd xkcd.com
+    - yeyouchuan yeyouchuan.me
+    - yifenggui apple
+    - yifusuyi beiyanna3alf6 mtf.wiki
+    - yokidou shadowverse
+    - yunyoujun yunyoujun.cn
+  - niche
+    - animenz
+    - endgame endgamebattlebot.com
+    - gaou
+    - ke jie
+    - li jiaqing
+    - liu yiyi
+    - longbow flintlock
+    - ninalex12 asakawauniversityofscience
+    - potetomj
+    - share121 inter-knot
+    - shin jin-seo
+    - vochant mirekintoc
+    - xzqzmyzxh loli.my
+  - isekai
+    - acetaffy812 echo spade
+    - bingtangio
+    - chtholly nota seniorious
+    - falstaff duolingo
+    - gus brawl stars
+    - hitori gotoh
+    - ichi hime
+    - kagura mea
+    - kasugano sora
+    - konata izumi
+    - kyouka overidea
+    - minami iwasaki
+    - minato aqua
+    - miyuki takara
+    - mutsumi mygo
+    - nahida
+    - nina iseri
+    - samekosaba
+    - shizuku lulu
+    - shylily
+    - snack life
+    - sparkle
+    - suzumiyasuzume
+    - takanashi hoshino
+    - tendou alice
+    - uzawa reisa
+    - vedal987 neuro sama
+    - vtbs_irl
+    - wanderer above the sea of fog
+    - xuegao cheese
+    - yuuki sakuna
 - albums
   - heisei anisong taisho
   - kyoto animation
@@ -447,7 +441,7 @@
   - 1883 (2022)
   - langrensha (2017)
   - phigros (2019)
-  - generals.io (2016) 
+  - generals.io (2016)
   - .earth online
   - .terraria (2011)
   - .the legend of zelda: tears of the kingdom (2023)
@@ -907,7 +901,7 @@ fira is a font from mozilla.
   - zhihu `firavoyage`
   - v2ex `voy`
   - bangumi.tv `firavoyage`
-  - mastodon `firavoyage@mastodon.social` `fira@techhub.social` 
+  - mastodon `firavoyage@mastodon.social` `fira@techhub.social`
   - npm `firascript`
 - - telegram group `voyagefira`
   - telegram channel `logfira`
