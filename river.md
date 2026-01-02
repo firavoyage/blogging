@@ -177,6 +177,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `25` 2025.12.29
 - `26` 2025.12.30
 - `27` 2025.12.31
+- `27` 2026.01.02
 
 ### hikaru no go
 
@@ -14977,7 +14978,7 @@ but it's a rhythm game. i could not master it. im weak.
 
 give up.
 
----
+### jan 2026
 
 `ref` `white`
 
@@ -15005,4 +15006,23 @@ a bit... simple.
 
 ---
 
+chatgpt promotion aside. no need to use userscript.
+
+```
+chatgpt.com##div.aria-live\=polite.fixed.select-none:last-child > div.shadow-long.flex.overflow-hidden.rounded-xl > button.btn.relative.btn-secondary.shadow-long.flex.rounded-xl.border-none.active\:opacity-1
+
+chatgpt.com##aside.flex.gap-4.rounded-3xl
+```
+
+take the second rule. simple.
+
+---
+
+maybe i could create games i love at the end of the day, not necessarily the games ideas emerging first.
+
+---
+
+watch haruhi 27 again. fix the subtitle (by renaming existing files).
+
+---
 

@@ -181,6 +181,7 @@
 - `girl` 大和抚子
 - `shizuku ruru` 雫るる 雨宮伊織
 - `zipbomb` A better zip bomb
+- `antigravity` google antigravity
 
 ### weather
 
@@ -231,6 +232,10 @@
 ### linguistics
 
 - `void` The Architecture of "Not Bad": Decoding the Chinese Source Code of the Void
+
+### design
+
+- `tenthousandyes` 一万也设计书单分享 20220305
 
 ## tweets
 
