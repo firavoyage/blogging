@@ -15012,9 +15012,15 @@ chatgpt promotion aside. no need to use userscript.
 chatgpt.com##div.aria-live\=polite.fixed.select-none:last-child > div.shadow-long.flex.overflow-hidden.rounded-xl > button.btn.relative.btn-secondary.shadow-long.flex.rounded-xl.border-none.active\:opacity-1
 
 chatgpt.com##aside.flex.gap-4.rounded-3xl
+
+chatgpt.com###stage-sidebar-tiny-bar > div:nth-child(4) > div.group.__menu-item.hoverable.gap-1\.5.motion-safe\:transition-opacity.motion-safe\:duration-200.motion-safe\:ease-out.opacity-100.motion-safe\:delay-\[175ms\]
+
+chatgpt.com###thread > div.composer-parent.flex.flex-1.flex-col.focus-visible\:outline-0 > div.relative.basis-auto.flex-col.-mb-\(--composer-overlap-px\).\[--composer-overlap-px\:28px\].grow.flex:first-child > div.flex.flex-col.text-sm.pb-25:nth-child(2) > article.text-token-text-primary.w-full.focus\:outline-none.\[--shadow-height\:45px\].has-data-writing-block\:pointer-events-none.has-data-writing-block\:-mt-\(--shadow-height\).has-data-writing-block\:pt-\(--shadow-height\).\[\&\:has\(\[data-writing-block\]\)\>\*\]\:pointer-events-auto.scroll-mt-\[calc\(var\(--header-height\)\+min\(200px\,max\(70px\,20svh\)\)\)\]:last-child > div.text-base.my-auto.mx-auto.pb-10.\[--thread-content-margin\:--spacing\(4\)\].\@w-sm\/main\:\[--thread-content-margin\:--spacing\(6\)\].\@w-lg\/main\:\[--thread-content-margin\:--spacing\(16\)\].px-\(--thread-content-margin\):last-child > div.\[--thread-content-max-width\:40rem\].\@w-lg\/main\:\[--thread-content-max-width\:48rem\].mx-auto.max-w-\(--thread-content-max-width\).flex-1.group\/turn-messages.focus-visible\:outline-hidden.relative.flex.w-full.min-w-0.flex-col.agent-turn > div.mt-3.w-full.empty\:hidden:last-child
 ```
 
 take the second rule. simple.
+
+(upd: added some new rules for "upgrade" and "helpful so far?")
 
 ---
 
