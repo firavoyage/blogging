@@ -138,6 +138,7 @@
     - yuanchuan yuanchuan.dev
   - code & creation
     - adamwathan adamwathan.me tailwindcss.com
+    - lexrus lex.sh
     - bradwoods bradwoods.io garden.bradwoods.io
     - chriscoyier css-tricks.com codepen.io chriscoyier.net
     - codingstartup
