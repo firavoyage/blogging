@@ -178,6 +178,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `26` 2025.12.30
 - `27` 2025.12.31
 - `27` 2026.01.02
+- `28` 2026.01.03
 
 ### hikaru no go
 
@@ -296,6 +297,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 ### bocchi the rock!, season 1
 
 - `1` 2025.12.21
+- `2` 2026.01.04
 
 ## gaming
 
@@ -15032,3 +15034,14 @@ watch haruhi 27 again. fix the subtitle (by renaming existing files).
 
 ---
 
+seems fixed. the youtube subtitle. not by fira's workaround. but by google.
+
+---
+
+世上有個國家,看徵稅像歐洲國家;看福利像非洲國家;看政府大樓像超級大國;看邊遠地區像山頂洞人部落;看官員生活像海灣國家;看百姓生活像食人族國家;看官員發言像君子國;看官員做事像謊話國;對政府有利的就與國際接軌;對政府不利的就裝神弄鬼;對外是最負責任的國家;對內是最不負責任的國家。
+
+這個世界的荒唐之處是:自由世界的人們對自己擁有的自由從不滿足,而不自由國家的子民卻對壓根沾不到邊的自由表現出一副心滿意足的樣子。
+
+一個連文字都被敏感屏蔽的國家,不要相信它的任何報道;一個連言論都能將你治罪的國家,不要相信它的任何宣傳;一個連良心都能把你判刑的國家,不要相信它的任何口號;一個連巨貪都能獲得輕判的國家,不要相信它的任何承諾;一個連槍口都能對準百姓的國家,不要相信它的任何舉措。
+
+---

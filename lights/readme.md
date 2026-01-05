@@ -182,6 +182,8 @@
 - `shizuku ruru` 雫るる 雨宮伊織
 - `zipbomb` A better zip bomb
 - `antigravity` google antigravity
+- `h bangumi review` 2025年9月里番简评
+- `pixiv novel` 因为看不了爱猫 TV 所以只能将佩里缇亚当成要乐奈开启狠狠爱模式的无能狂怒指挥官
 
 ### weather
 

@@ -134,9 +134,9 @@
     - steve jobs apple
     - tenthousandyes
     - tim mediastorm
-    - yearprogress
+    - yearsprogress
     - yuanchuan yuanchuan.dev
-  - software engineering
+  - code & creation
     - adamwathan adamwathan.me tailwindcss.com
     - bradwoods bradwoods.io garden.bradwoods.io
     - chriscoyier css-tricks.com codepen.io chriscoyier.net
@@ -152,6 +152,7 @@
     - himself65 affine.pro
     - hullqin game.hullqin.cn
     - huxpro huangxuan.me
+    - hydrogene7 huangzheng2016 hz2016 blog.hz2016.com/ticktack
     - jh3yy jhey.dev
     - jiongks jiongks.name jinjiang.me
     - joshwcomeau joshwcomeau.com
@@ -200,23 +201,18 @@
     - su dekuang zju
     - yxc acwing.com
   - journalism
-    - cdtchinese
+    - cdtchinese chinadigitaltimes.net
     - chai jing
-    - fengge wangmintianya
+    - feng ge wang min tian ya
     - hu chenfeng
     - jing hanqing
-    - modi siji xushifu
-    - shaonian shanzhijun
+    - mo di si ji xu shi fu
+    - programthink program-think.blogspot.com github.com/programthink
+    - shao nian shan zhi jun
     - wang zhian
     - whyyoutouzhele 611study.icu zyo.run
-    - wu songlei paperclip
-    - xiaoa zaishangwang
-  - commentary
-    - funshiki
-    - jueming mofei
-    - muyu shuixin
-    - student he studio
-    - xiaoyao sanren
+    - wu songlei paperclip ipaperclip.icu
+    - xiao a zai shang wang
   - life
     - anlin zhihu
     - antoninoscordino ntonino ant14181 ntonino.eu
@@ -252,17 +248,20 @@
   - niche
     - animenz
     - endgame endgamebattlebot.com
+    - funshiki
     - gaou
+    - jueming mofei
     - ke jie
     - li jiaqing
     - liu yiyi
     - longbow flintlock
+    - muyu shuixin
     - ninalex12 asakawauniversityofscience
     - potetomj
     - share121 inter-knot
     - shin jin-seo
-    - vochant mirekintoc
-    - xzqzmyzxh loli.my
+    - student he studio
+    - xiaoyao sanren
   - isekai
     - acetaffy812 echo spade
     - bingtangio
@@ -347,16 +346,16 @@
   - soul (2020)
   - the shawshank redemption (1994)
   - joker (2019)
-  - the chorus, played in the music class (2004)
-  - the phantom of the opera, played in the music class (2004)
+  - the chorus, played on the music class (2004)
+  - the phantom of the opera, played on the music class (2004)
   - your name. (2016)
   - how to make millions before grandma dies (2024)
-  - the legend of 1900, played in the music class (1998)
-  - les misérables, played in the music class (2012)
+  - the legend of 1900, played on the music class (1998)
+  - les misérables, played on the music class (2012)
   - 5 centimeters per second (2007)
   - g for gap, lived by funshiki (2024)
   - the last dance (2024)
-  - castle in the sky, played in the music class (1986)
+  - castle in the sky, played on the music class (1986)
   - searching, lived by funshiki (2018)
   - being john malkovich, lived by funshiki (1999)
   - jaws, lived by funshiki (1975)
