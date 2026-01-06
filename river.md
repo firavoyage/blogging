@@ -299,6 +299,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `1` 2025.12.21
 - `2` 2026.01.04
 - `3` 2026.01.05
+- `4` 2026.01.06
 
 ## gaming
 
@@ -15044,3 +15045,109 @@ seems fixed. the youtube subtitle. not by fira's workaround. but by google.
 這個世界的荒唐之處是:自由世界的人們對自己擁有的自由從不滿足,而不自由國家的子民卻對壓根沾不到邊的自由表現出一副心滿意足的樣子。
 
 一個連文字都被敏感屏蔽的國家,不要相信它的任何報道;一個連言論都能將你治罪的國家,不要相信它的任何宣傳;一個連良心都能把你判刑的國家,不要相信它的任何口號;一個連巨貪都能獲得輕判的國家,不要相信它的任何承諾;一個連槍口都能對準百姓的國家,不要相信它的任何舉措。
+
+---
+
+`ref` `society`
+
+wrote an essay on zhihu about "zhan sha xian" at school, under a popular question.
+
+```
+Not about the news, about the idea.
+
+Not willing to talk about the idea. Simple.
+
+Speaking to the low class society, using emotional words, mainly publishing on a highly censored platform, already done.
+
+But if you ask, here is my observation. Sometimes we don't even need to resort to his narration style or class, etc. just analyze it.
+
+Is that true?
+
+Facts:
+
+The big picture: GDP (how developed), Gini coefficient (how equal), law (how sustainable and reliable)
+
+Ground: how much salary, free time, things one could buy. How is the lifestyle and feeling.
+
+How is the idea impressed?
+
+Clear? Concise?
+
+Resort to emotion?
+
+Even delete some comments? (Free speech)
+
+
+
+Whereas disregard and contempt for human rights have resulted
+```
+
+received about 500 views in 2h. 2 likes. 1 fav (from others). 2 comments.
+
+请问你是外国人吗？
+
+英文这么差，大概率不是
+
+revise it. (remove all above)
+
+```
+authority needs it. some people may need it. so that works. humans are nothing special in the nature.
+
+philistine is the reality.
+
+about the idea, if you like:
+
+- essence
+  - see gini coefficient. see r/homeless. see the real world.
+- style
+  - publish on heavily censored platforms
+  - remove comments (whether intentionally or automatically)
+  - use emotional words
+  - lack clarity or conciseness
+
+even if sex, economics, and free speech are restricted, no need to joi
+
+about the author: fira, a solitary otaku fascinated within her own world, believing in existentialism, cynicism, and accelerationism.
+```
+
+```
+authority needs it. some people may need it. so that works. 
+
+humans are nothing special in the nature. philistine and entropy are the reality.
+
+i wont fight for, or against its correctness. human lives dont matter. let people believe anything, go anywhere as they like. just, let go.
+
+for me personally, i simply stopped overthinking, after seeing these:
+
+- it publishes on heavily censored platforms, with (whether intentional or automatic) comment removal applied.
+- it uses emotional words, a narration style for low class.
+- idk whether it has proper references. (known as the zhihu legacy)
+
+some random thoughts:
+
+things may differ. but nothing matters. whether wealthy or poor, whether life or death, whether fight or flight. 
+
+some reshape the world to their preferences (nat.org). some choose lying flat. most people sleep, eat, make a living, and just wake up tomorrow. just individuals in the history, controlled by science (psychology, sociology, etc.).
+
+fate, might be something already determined, which could not be foreseen (i mean foresight, not scientific inference). (shi tiesheng: only when you are dying will you see your destiny as a single, straight line, without any real possibilities.)
+
+about the idea itself, besides the inherited noise of statistics (incomprehensive samples, the survivor bias, paradoxes, etc.), what might be real, could be the idea of freedom, yeah, freedom (one could suicide. one could drink a lot. one could take drugs. one could gamble. we dont need to change others in our way. or maybe we should not. but if you like, you could raise charity, and actually there are a lot of these places in the us.).
+
+as a rating, i think us is free, as in freedom. and whether it's good, is another question.
+
+something ive read:
+
+- hu chenfeng, as well as some parody acc
+- mononoke (zhihu)
+- himself65 (twitter)
+
+(from ruanyf weekly)
+
+> I have a small device in my pocket that provides access to nearly the sum total of human knowledge. I use it to get into pointless arguments with people I don't know and look at pictures of cats. (I wish I could claim that as original but it is something I read on the Internet. Between cats. :-/ )
+
+https://news.ycombinator.com/item?id=21360284
+
+fira, a solitary otaku fascinated within her own world, believing in existentialism, cynicism, and accelerationism.
+```
+
+---

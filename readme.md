@@ -50,15 +50,17 @@
 
 > _日拱一卒 功不唐捐_
 
-<!-- > _code artist_ -->
+> 想在转瞬即逝的时光里，留下属于自己的回忆。
+
+<!-- > _回归少女_ -->
+
+> _轻描淡写_
+
+> _code artist_
 
 > _follow your heart_
 
-<!-- > 想在转瞬即逝的时光里，留下属于自己的回忆。 -->
-
 > ✨ 💖 perceive, archive.
-
-<!-- > _回归少女_ -->
 
 > _yolo!_
 
@@ -138,7 +140,6 @@
     - yuanchuan yuanchuan.dev
   - code & creation
     - adamwathan adamwathan.me tailwindcss.com
-    - lexrus lex.sh
     - bradwoods bradwoods.io garden.bradwoods.io
     - chriscoyier css-tricks.com codepen.io chriscoyier.net
     - codingstartup
@@ -162,6 +163,7 @@
     - krahets hello-algo.com
     - kuviman kast-lang.org linksider
     - leaverou lea.verou.me/projects prismjs.com
+    - lexrus lex.sh
     - lightvector katago
     - lionleaf dwitter.net
     - livid livid.v2ex.com
@@ -412,6 +414,7 @@
   - .attack on titan (2013)
   - .school days (2007)
   - .white album (2009)
+  - .chitose is in the ramune bottle (2025)
 - games
   - angry birds (2009)
   - minecraft (2011)
