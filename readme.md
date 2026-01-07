@@ -113,6 +113,7 @@
     - antfu antfu.me 100.antfu.me sli.dev
     - anyway.fm/now
     - ark.studio
+    - basicappleguy basicappleguy.com
     - chen xiao origami
     - cmfbynothing
     - cyannyan6 hoshinolina cyannyan.com lina.yt
@@ -136,10 +137,12 @@
     - steve jobs apple
     - tenthousandyes
     - tim mediastorm
+    - tonsky tonsky.me
     - yearsprogress
     - yuanchuan yuanchuan.dev
   - code & creation
     - adamwathan adamwathan.me tailwindcss.com
+    - anomalyco anoma.ly opencode.ai opentui.com models.dev
     - bradwoods bradwoods.io garden.bradwoods.io
     - chriscoyier css-tricks.com codepen.io chriscoyier.net
     - codingstartup
