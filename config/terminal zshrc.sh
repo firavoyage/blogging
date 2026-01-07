@@ -44,46 +44,48 @@ cd Documents
 cd f
 git add .
 git commit -m '.'
-git push -f e
+git push -f g
 git push -f a
+git push -f e
 cd ..
 
 cd resources
 git add .
 git commit -m '.'
-git push -f e
+git push -f g
 git push -f a
+git push -f e
 cd ..
 
 cd blogging
 git add .
 git commit -m '.'
-git push -f e
+git push -f g
 git push -f a
-git pull e master
+git push -f e
 cd ..
 
 cd memories
 git add .
 git commit -m '.'
-git push -f e
+git push -f g
 git push -f a
-git pull e master
+git push -f e
 cd ..
 
 cd school
 git add .
 git commit -m '.'
-git push -f e
+git push -f g
 git push -f a
-git pull e master
+git push -f e
 cd ..
 
 cd fonts
 git add .
 git commit -m '.'
+git push -f g
 git push -f e
-git pull e master
 cd ..
 
 cd ..

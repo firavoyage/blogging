@@ -306,12 +306,13 @@ sudo apt install gnome-shell-extension-prefs
 - import passwords `git/blogging/config/chromium_passwords.zip`
 - config extensions
   - justblack https://chromewebstore.google.com/detail/just-black/aghfnjkcakhmadgdomlmlhhaocbkloab
-  - adguard https://chromewebstore.google.com/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg
+  - ublock origin https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm
+  <!-- - adguard https://chromewebstore.google.com/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg
     - general / activate the most appropriate filters automatically `off`
     - filters `ad blocking` `privacy` `annoyance`
     - tracking protection `on`
     - user rules / import settings `git/blogging/config/list_adguard.txt`
-    - additional settings / notify about extension updates `off`
+    - additional settings / notify about extension updates `off` -->
   - simple translate https://chromewebstore.google.com/detail/simple-translate/ibplnjkanclpjokhdolnendpplpjiace
   - google translate (off) https://chromewebstore.google.com/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb
     - my primary language `chinese(simplified)`

@@ -150,6 +150,7 @@
     - diygod diygod.cc rsshub.app folo.is
     - egoist egoist.dev chatwise.app anime-sedai.egoist.dev
     - elleflorio florio.dev
+    - eryouhao fehey.com gridea.dev flodo.today minttr.com
     - gaearon dan abramov overreacted.io
     - gorvgoyl gourav.io gourav.io/clone-wars
     - hakadao hakadao.cc bewlybewly
