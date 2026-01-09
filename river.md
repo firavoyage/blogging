@@ -301,6 +301,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `3` 2026.01.05
 - `4` 2026.01.06
 - `5` 2026.01.07
+- `6` 2026.01.08
 
 ## gaming
 
@@ -15158,5 +15159,59 @@ chatgpt:
 "Thought for a few seconds"
 
 good. no need to inform the exact number. distraction.
+
+---
+
+Solve problems, answer questions. Use English like English itself.
+
+---
+
+when adding user rules on ublock origin, it's not enabled by default.
+
+find it... w.
+
+(why didnt it auto ...)
+
+---
+
+不敢说 #n worker. 我自己出身不够. 可以活着. 可以正常地活着 (很多平凡的散人/和蔼的老人也可以旷达地思考). 但不足以... 有时候相濡以沫, 不如相忘于天涯. 那样会更好. 
+
+不想 create something big.
+
+不敢说 "working with governments".
+
+Dont be evil 是一种自信, 或者是过度自信.
+
+- 不是不作恶: 你无法预测未来, 也不可以真的作出承诺 (科学上, 论证承诺必然发生).
+- 不是不可以作恶: 每个人都有 anti. 众说纷纭.
+- 而是不需要. 最后, 如果现实帮助自己, 人们会看见, 你真的没有作恶.
+
+有时候, 要么成为敌人, 要么成为帮凶. (fight/flight). 必须采取激进的策略. (退出市场/变革)
+
+---
+
+幻想.
+
+外卖员.
+
+感受现实. 大多数时候没有风景. 噪声. 人对餐的期待.
+
+应该是 debu. otaku. 或者 neet. 最喜欢 takeout 了. 或者是浮躁的欢快的人, 真是可惜啊. 有阶层的人会请厨师.
+
+其实 fira 喜欢这样的人吗.
+
+便宜的食物. 不消费.
+
+不租房.
+
+自然. 尘嚣之外. 休息.
+
+清风明月. 不是每一个都能感受的, 没有价格的事物.
+
+钱最大的用途是购买时间.
+
+购买学生的时间. 使之学习. 
+
+使心志流动.
 
 ---

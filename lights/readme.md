@@ -26,10 +26,14 @@
 - `white paper`
 - `blogs`
 - `larr naming`
+- `google about`
+- `steve jobs`
 
 ### philosophy
 
 - `larr naming` Programmers and software developers lost the plot on naming their tools
+- `google about` Our mission is to organize the world’s information and make it universally accessible and useful
+- `steve jobs` Stay hungry, stay foolish.
 
 ### dev learning
 

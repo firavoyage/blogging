@@ -1,3 +1,5 @@
+<!-- Type. An input method project. Just works. Just not opinionated. -->
+
 <!-- all (awesome): worldly beauty (indulgence), v. (verb) -->
 
 <!-- bird: telegram -->

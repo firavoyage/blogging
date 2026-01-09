@@ -155,7 +155,7 @@
     - gorvgoyl gourav.io gourav.io/clone-wars
     - hakadao hakadao.cc bewlybewly
     - haoel coolshell coolshell.cn
-    - himself65 affine.pro
+    - himself65 himself65.com affine.pro
     - hullqin game.hullqin.cn
     - huxpro huangxuan.me
     - hydrogene7 huangzheng2016 hz2016 blog.hz2016.com/ticktack
@@ -172,12 +172,15 @@
     - lionleaf dwitter.net
     - livid livid.v2ex.com
     - luoling8192 luoling.moe airi.moeru.ai
+    - luvletter2333 haruhi_smith nekox nagramx
     - lyricat lyric.im
     - matrixcascade dbinary painterengine.com
     - nat friedman nat.org github
     - newlearnerchannel
     - ornicar lichess.org
+    - radolyn radolyn.com docs.ayugram.one
     - randy lutaonan.com
+    - risin42 nagramx
     - rosepineus
     - ruanyf ruanyf weekly ruanyifeng.com/blog
     - sama sam altman blog.samaltman.com openai.com
@@ -742,6 +745,8 @@
   - build early, build always
   - improve yourself, write solid/simple/stupid code
 - live in the future and build what's missing
+- stay hungry, stay foolish
+  - you can't connect the dots looking forward; you can only connect them looking backward
 - i do not know what i may appear to the world
   - but to myself i seem to have been only like a boy playing on the sea-shore
   - and diverting myself in now and then finding a smoother pebble or a prettier shell than ordinary
