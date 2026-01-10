@@ -1,14 +1,6 @@
-# on the internet
+_on the internet_
 
 ## essays
-
-> these are pages mostly from `repo/web`, a legacy repo i used to archive pages in 2024, which are most in mhtml format, now converted to markdown and listed here
->
-> other pages are links from ruanyf weekly
->
-> referenced on `repo_blogging/ruanyf.md`
->
-> some unimportant pages are removed
 
 ### ref
 
@@ -38,11 +30,8 @@
 ### dev learning
 
 - `solopreneur` 我的透明创业实验
-- `pixelixe` 我如何创建一个盈利的副业项目？作者在面试 Facebook 被拒以后，决定做一个项目证明自己。本文记录他构思、开发、推广的过程，发布后 4 个月产生了 1000 美元的收入。
 - `pku graphics` 我为什么北大计算机图形学直博第五年退学 这个月刚刚肄业。计算机图形学直博第五年退学，没有硕士学位。
-- `micro startup` 我的创业产品如何被 2.2 万美元收购？
 - `florio` A letter to myself as a fresh software engineer
-- `js13k2020` 2020 年度 JS13K Games 竞赛
 - `controversies` 20 个有争议的编程观点
 - `nat` Nat Friedman
 - `jiangyanyan` 给各位天命人的劝退信
@@ -93,14 +82,6 @@
 - `hzwer oi` 再见，OI
 - `cosmicac oi` OI 生涯回忆
 - `cosmicac code style` 代码风格变迁史
-- `cosmicac 2048` 编写 2048 小游戏
-- `cosmicac origami` 线段 n 等分的最优方法
-- `cosmicac sympy` 万能的数学算法模板库：sympy 的 OI 用法
-- `cosmicac simple math` 初等数学
-  - 对于点线距离公式的感性理解
-  - cos(kx)的求和（重制版）
-  - cos 的求和
-- `cosmicac majsoul` 雀魂的安定段位相关统计
 - `cosmicac thu math` 我眼中大学数学教育该有的样子
 - `cosmicac 8p exam` 八省联考记
 - `cosmicac grade12` 高考记
@@ -108,25 +89,38 @@
 - `cosmicac grade15` 大三总结
 - `xuyixuan` OI 生涯回忆录 《Pilgrimage》
 - `commits` Conventional Commits
-- `timqian 2020` 我的一年独立开发经历 dev
-- `timqian rss` Feeds Pub 小范围发布半个月, 分享一些数据和感想
+- `timqian 2020` 我的一年独立开发经历
 - `timqian chrome ext` 一个付费 chrome 插件的一生
-- `ahdark 2021` 2021 年度报告 dev
+- `ahdark 2021` 2021 年度报告
 - `antfu yak shaving` 关于 Yak Shaving
 - `antfu 2024` 开源的心理建设
 - `kottory` OI 回忆录
 - `chenzhe` 在华师大二附中紫竹校区就读是一种怎样的体验？
-- `flower grade12` 高三的一些片段 & 2021 SD 高考游记 school ref
+- `flower grade12` 高三的一些片段 & 2021 SD 高考游记
 - `pea3nut 2021` 2021 总结 | 失马、回响与见闻
-- `google code jam 2008 numbers` Google 经典编程竞赛题：计算  (3+5)𝑛  的小数点前三位数
 - `innei folo` 写在离开 Folo 之后
-- `innei 200` 在焦虑与创造之间寻找出口
 - `timochan life` 初入职场：租房与生活初体验
 - `timochan graduate` 毕业季
 - `jiangyanyan read` 阅读列表
 - `kewth` OI 回忆录
 - `jiongks vuejs` 我和 Vue.js 的十年
 - `jiangyanyan gifted` 如何评价第 36 届国际信息学奥林匹克竞赛（IOI2024）三名中国选手携带手机进考场被处罚？
+- `himself65 2019` Myself 2019
+- `himself65` 退学
+- `himself65 decade` My past decade
+- `innei school` 最近 5 年，后悔吗
+- `innei frontend` 我与前端 历程 —— 一个前端切图仔
+- `innei 2019` 半年实习总结
+- `innei 2020 mid` 半年实习总结
+- `innei nov 2025` 在焦虑与创造之间寻找出口
+- `innei 2020` 2020 · 春华秋实
+- `innei mar 2021` 极限
+- `innei 2021 alibaba` 谢谢，再见 再到杭州 焦虑和未知 告别
+- `innei 2021` 2021 · 抉择、未知、迷茫、恐惧
+- `innei 2022` 2022 · 在绝望中前行
+- `innei 2023` 2023 · 光影交织之年
+- `innei 2024` 2024 · 前路未尽，初心犹在
+- `innei 2025` 2025 · 仍在路上，半径之外
 
 ### dev guide
 
@@ -161,6 +155,25 @@
 - `style` 中文技术文档的写作规范
 - `ruanyf data structure` 数据模型是新产品的核心
 - `web vibe coding` Useful patterns for building HTML tools
+- `innei vibe coding` AI 编码方法论：从探索到精进的系统化实践
+- `innei context engineering` 初探 Context Engineering
+- `innei ai writing` 我是如何使用 AI 辅助创作的
+
+### dev
+
+- `pixelixe` 我如何创建一个盈利的副业项目？作者在面试 Facebook 被拒以后，决定做一个项目证明自己。本文记录他构思、开发、推广的过程，发布后 4 个月产生了 1000 美元的收入。
+- `micro startup` 我的创业产品如何被 2.2 万美元收购？
+- `js13k2020` 2020 年度 JS13K Games 竞赛
+- `cosmicac 2048` 编写 2048 小游戏
+- `cosmicac origami` 线段 n 等分的最优方法
+- `cosmicac sympy` 万能的数学算法模板库：sympy 的 OI 用法
+- `cosmicac simple math` 初等数学
+  - 对于点线距离公式的感性理解
+  - cos(kx)的求和（重制版）
+  - cos 的求和
+- `cosmicac majsoul` 雀魂的安定段位相关统计
+- `timqian rss` Feeds Pub 小范围发布半个月, 分享一些数据和感想
+- `google code jam 2008 numbers` Google 经典编程竞赛题：计算  (3+5)𝑛  的小数点前三位数
 
 ### story
 
@@ -168,7 +181,6 @@
 - `naval thread` `naval` How to Get Rich (without getting lucky)
 - `tim` 如果影视飓风里的 tim 来自于普通家庭，那么他还会有今天的成就吗？
 - `facebook` Facebook 小红书
-- `login ux` 如何正确设计登录表单
 - `tim luoyonghao` Tim 与罗永浩的对谈
 - `vedal` Advice
 - `google 27.mhtml` Google's 27th Birthday Sep 27, 2025
@@ -186,7 +198,7 @@
 - `shizuku ruru` 雫るる 雨宮伊織
 - `zipbomb` A better zip bomb
 - `antigravity` google antigravity
-- `h bangumi review` 2025年9月里番简评
+- `h bangumi review` 2025 年 9 月里番简评
 - `pixiv novel` 因为看不了爱猫 TV 所以只能将佩里缇亚当成要乐奈开启狠狠爱模式的无能狂怒指挥官
 
 ### weather
@@ -194,11 +206,14 @@
 - `never ending now` The Never-Ending Now
 - `old laptop` Oldest Viable Laptop
 - `nohello` no hello
+- `himself65 love and loss` 失恋
+- `himself65 uses` 十年中，我的电子产品变化
+- `innei feeling` 在安稳中寻求生存
+- `himself65 mother father` 剪影 姥爷
 
 ### life
 
 - `kk` 一个乐观主义者的专访
-- `innei feeling` 在安稳中寻求生存
 - `feynman` 为什么学习物理学
 - `elon` 《硅谷钢铁侠》摘录
 
@@ -216,12 +231,23 @@
 - `illusions` 12 Mind-Bending Perceptual Illusions
 - `bilibili uid` uid to registration year
 
+### education
+
+"the cause"
+
+humans are born to be free, which means no direction, high entropy.
+
+- `innei university` 谈谈课程、老师以及一些同学
+- `innei university 2` 杂谈 -- 记开学
+
 ### society
+
+"a country with a thousand realities"
 
 - `livid 20210531` 20210531
 - `white paper` 2022 白纸运动
   - by china digital times
-  - i once saved many pages from cdt, but only this page is kept. coz others are just a result of censorship. even yearly summaries are removed. the politics world is repeating itself, only science could change things. so many people are arguing for human rights, i believe them, but i will not join. it takes too much time. and i know i am just a small potato. personal fate is way way way more important than the time. time is the probability distribution, but one's fortune is what really matters. you only live once, big number theorem doesnt take effect.
+  - i once saved many pages from cdt, but only this page is kept. coz others are just a result (upd: and reason) of censorship. even yearly summaries are removed. the politics world is repeating itself, only science could change things. so many people are arguing for human rights, i believe them, but i will not join. it takes too much time. and i know i am just a small potato. personal fate is way way way more important than the time. time is the probability distribution, but one's fortune is what really matters. you only live once, big number theorem doesnt take effect.
 - `silence` 寂静之城
   - a famous passage written by chinese referencing 1984, published in 2005
 - `ruanyf on google china` 壮士断腕，义无再辱
@@ -241,7 +267,12 @@
 
 ### design
 
+- `login ux` 如何正确设计登录表单
 - `tenthousandyes` 一万也设计书单分享 20220305
+
+### misc
+
+- `obama` Remarks by the President in a National Address to America's Schoolchildren
 
 ## tweets
 
@@ -367,3 +398,13 @@ https://ngrok.com/blog/prompt-caching/
 下面就是这三种形状各自平铺的图案。
 
 ![](https://cdn.beekka.com/blogimg/asset/202506/bg2025061412.webp)
+
+## note
+
+> these are pages mostly from `repo/web`, a legacy repo i used to archive pages in 2024, which are most in mhtml format, now converted to markdown and listed here
+>
+> other pages are links from ruanyf weekly
+>
+> referenced on `repo_blogging/ruanyf.md`
+>
+> some unimportant pages are removed

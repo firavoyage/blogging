@@ -124,7 +124,7 @@
     - google doodles doodles.google
     - growth.design
     - henri le chat noir
-    - innei innei.in
+    - innei innei.in app.folo.is mx-space.js.org lobechat.com
     - jjying jjying.com iconmoon.com
     - larrasket larr.net lr0.org
     - leongao leongao.com dribbble.com/leongao
