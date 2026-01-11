@@ -187,7 +187,7 @@
     - samuelqzq qzq.at
     - simonwillison simonwillison.net
     - timqian timqian.com
-    - tualatrix imtx.me
+    - tualatrix imtx.me poptranslate.app manico.im pastenow.app
     - wesbos wesbos.com javascript30.com
     - xiaoyaocz xiaoyaocz.com simplelive
     - zhao-stanley stanleyzhao.com web.lab
@@ -213,6 +213,7 @@
   - journalism
     - cdtchinese chinadigitaltimes.net
     - chai jing
+    - cirosantilli cirosantilli.com/china-dictatorship
     - feng ge wang min tian ya
     - hu chenfeng
     - jing hanqing

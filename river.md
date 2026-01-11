@@ -304,6 +304,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `6` 2026.01.08
 - `7` 2026.01.09
 - `8` 2026.01.10
+- `9` 2026.01.11
 
 ## gaming
 
@@ -15115,7 +15116,7 @@ about the author: fira, a solitary otaku fascinated within her own world, believ
 ```
 
 ```
-authority needs it. some people may need it. so that works. 
+authority needs it. some people may need it. so that works.
 
 humans are nothing special in the nature. philistine and entropy are the reality.
 
@@ -15129,7 +15130,7 @@ for me personally, i simply stopped overthinking, after seeing these:
 
 some random thoughts:
 
-things may differ. but nothing matters. whether wealthy or poor, whether life or death, whether fight or flight. 
+things may differ. but nothing matters. whether wealthy or poor, whether life or death, whether fight or flight.
 
 some reshape the world to their preferences (nat.org). some choose lying flat. most people sleep, eat, make a living, and just wake up tomorrow. just individuals in the history, controlled by science (psychology, sociology, etc.).
 
@@ -15176,7 +15177,7 @@ find it... w.
 
 ---
 
-不敢说 #n worker. 我自己出身不够. 可以活着. 可以正常地活着 (很多平凡的散人/和蔼的老人也可以旷达地思考). 但不足以... 有时候相濡以沫, 不如相忘于天涯. 那样会更好. 
+不敢说 #n worker. 我自己出身不够. 可以活着. 可以正常地活着 (很多平凡的散人/和蔼的老人也可以旷达地思考). 但不足以... 有时候相濡以沫, 不如相忘于天涯. 那样会更好.
 
 不想 create something big.
 
@@ -15212,7 +15213,7 @@ Dont be evil 是一种自信, 或者是过度自信.
 
 钱最大的用途是购买时间.
 
-购买学生的时间. 使之学习. 
+购买学生的时间. 使之学习.
 
 使心志流动.
 
@@ -15234,7 +15235,7 @@ fira 的追求, 让人去做多好啊.
 
 网路上经常看到 realities.
 
-小学校有许多老师. 一天询问. 一个也没有死亡, 更无非正常死亡. 
+小学校有许多老师. 一天询问. 一个也没有死亡, 更无非正常死亡.
 
 他们的生命, 对人没有价值. 没有人想要夺取. 也没有意外. (不是运气. 天已注定, 只是人的意料之外.)
 
@@ -15245,7 +15246,7 @@ fira 的追求, 让人去做多好啊.
 fira 的公司, 是理智又不聪明的人. (reasonable, yet not wise)
 
 - 有一般地 (不严格) 必要条件 (正常, 而不平庸)
-- fira 强取, 不会冲动报复. 
+- fira 强取, 不会冲动报复.
 - 不会主动提供对于 fira 而言的必要条件.
 - 即使 fira 冷漠明确拒绝, 也会一意孤行.
 
@@ -15268,4 +15269,51 @@ https://www.icloud.com/sharedalbum/#B0zGWZuqDs651qE
 
 ---
 
+`ref` `quote`
 
+precious, [1/9/26 7:39 AM]
+Know you have freedom, at born. And know you don't need to pay for it.
+
+记住你拥有自由。记住你本就拥有自由。
+
+---
+
+Duolingo behaves different in power saving mode. No animation.
+
+---
+
+Grok searches a lot! Multiple times, 10 results each. While chatgpt does once
+
+---
+
+`ref` `quote`
+
+时代的风啊, 挡不住的!
+
+---
+
+firefox... many distractions by default. has to dfs settings to turn off.
+
+things like downloads and bookmarks are not browser tabs...
+
+a bit silly. 
+
+only use it on android. i think.
+
+---
+
+telegram, incl. most clients, is not fully customizable.
+
+e.g. time format: 24h or 12h? date? number? etc.
+
+---
+
+chromium have vertical tabs, a better one, actually.
+
+ctrl shift a.
+
+but... could i change the order to tab order, not time order?
+
+create one?
+
+---

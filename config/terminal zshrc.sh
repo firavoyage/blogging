@@ -126,7 +126,7 @@ phone() {
   adb shell cmd media_session volume --stream 3 --set 0
 
   # Start scrcpy and wait until it's ready
-  scrcpy --fullscreen --turn-screen-off --power-off-on-close --screen-off-timeout=600 &
+  scrcpy --fullscreen
 
   # Give scrcpy some time to fully start
   sleep 3
@@ -143,3 +143,14 @@ alias npm='sudo npm'
 export http_proxy="http://127.0.0.1:7890"
 export https_proxy="http://127.0.0.1:7890"
 export NODE_TLS_REJECT_UNAUTHORIZED=0
+
+# Fish-like autosuggestions
+source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
+
+# Syntax highlighting
+source ~/.zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+
+bindkey '\t' autosuggest-accept
+
+# opencode
+export PATH=/home/fira/.opencode/bin:$PATH
