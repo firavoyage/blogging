@@ -126,7 +126,7 @@ phone() {
   adb shell cmd media_session volume --stream 3 --set 0
 
   # Start scrcpy and wait until it's ready
-  scrcpy --fullscreen
+  scrcpy --fullscreen --turn-screen-off --power-off-on-close --screen-off-timeout=600
 
   # Give scrcpy some time to fully start
   sleep 3
