@@ -306,6 +306,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `8` 2026.01.10
 - `9` 2026.01.11
 - `10` 2026.01.12
+- `11` 2026.01.13
 
 ## gaming
 
@@ -15316,5 +15317,616 @@ ctrl shift a.
 but... could i change the order to tab order, not time order?
 
 create one?
+
+---
+
+maybe fira loves chatting. i mean, fira loves real humans. 
+
+> humans are interesting creatures!
+
+on telegram (some imgs are missing)
+
+```
+antonino, [7/26/25 8:18 AM]
+
+f, [7/29/25 4:34 AM]
+hi？
+
+f, [7/29/25 4:34 AM]
+who r u
+
+antonino, [7/29/25 4:37 AM]
+i found you on github and thought your profile was interesting
+
+antonino, [7/29/25 4:37 AM]
+hi
+
+f, [8/1/25 12:32 AM]
+great
+
+f, [8/1/25 12:32 AM]
+firavoyage/blogging ?
+
+f, [8/1/25 12:32 AM]
+how did u find it
+
+antonino, [8/1/25 12:32 AM]
+on an electron issue
+
+f, [8/1/25 12:32 AM]
+ok
+
+f, [8/1/25 12:32 AM]
+i got it
+
+antonino, [8/1/25 12:33 AM]
+yeah. you made a comment about those changes made in the chrome refresh
+
+f, [8/1/25 12:33 AM]
+vscode new version has too large context bar, caused by an electron update
+
+antonino, [8/1/25 12:33 AM]
+i checked your profile and checked your blog and liked it
+
+f, [8/1/25 12:34 AM]
+yeah, as electron is based on chromium
+
+antonino, [8/1/25 12:34 AM]
+yeah. unfortunately I don't think they have the intent to fix this so we're forces to convive with it
+
+f, [8/1/25 12:39 AM]
+i am good now.
+
+in vscode, i turned off all bars, like title bar, left right bottom side bar. and i almost never right click. i do everything with shortcuts.
+
+in chromium, i reverted to a legacy version. i use ubuntu. i used a snap command. and disabled auto upd
+
+f, [8/1/25 12:40 AM]
+
+f, [8/1/25 12:41 AM]
+
+f, [8/1/25 12:42 AM]
+now i have a decent small context menu. big context menus are for phones, not laptops.
+
+antonino, [8/1/25 12:48 AM]
+i will answer you later, sorry
+im a bit busy now, don't want to leave you on read
+
+antonino, [8/1/25 12:48 AM]
+
+f, [8/1/25 12:52 AM]
+understand. i want to know more about u. what's your id on github/sns?
+
+antonino, [8/1/25 12:53 AM]
+i stopped caring about it. i kept it as a lesson to not obsess over minor details. i use vscode like i did on windows and im okay with it
+
+antonino, [8/1/25 12:53 AM]
+github.com/AntoninoScordino
+
+antonino, [8/1/25 12:56 AM]
+you understand me great; that's what i thought the same. every time Google does this i get mad. because it's meaningless to make bigger menus
+
+antonino, [8/1/25 12:57 AM]
+https://issues.chromium.org/issues/330373923
+i wrote a comment there but i know they will ignore me anyway
+
+antonino, [8/1/25 1:27 AM]
+what laptop is this? is it a matebook? it looks good and minimal...
+
+f, [8/1/25 1:34 AM]
+lenovo yoga 13s acn 2021
+
+antonino, [8/2/25 12:50 AM]
+hey fira
+good day.
+how are you doing?
+
+antonino, [8/2/25 12:51 AM]
+today i had to file another bug for the kde team about the application menu on plasma.
+
+i hope that in the future they fix these issues. other than that, plasma is pretty much stable in my regard. i have no major issues in my use case, it's incredible.
+
+f, [8/3/25 3:00 AM]
+sorry i m not familiar with kde. i use ubuntu 24 with default gnome desktop. i had never contributed code to linux.
+
+antonino, [8/3/25 3:01 AM]
+do you code usually? i havent seen much on your github of recent except your blog and image storing
+
+f, [8/3/25 3:05 AM]
+no. as chinese we have a lot of schoolwork. i code a lot in past years, but in next year, before university entrance exam, i will probably code even less. hope i will get a high score.
+
+f, [8/3/25 3:05 AM]
+thank you.
+
+antonino, [8/3/25 3:05 AM]
+gaokao?
+
+f, [8/3/25 3:05 AM]
+yeah
+
+antonino, [8/3/25 3:07 AM]
+good luck for that ... will you do something like computer science in the future?
+
+f, [8/3/25 3:09 AM]
+i would like to. but its 3am here. im sleepy. bye.
+
+antonino, [8/3/25 3:29 AM]
+oh .. okay. goodnight
+
+antonino, [8/4/25 2:31 AM]
+hi fira. sorry, i forgot to write back at you...
+
+today i decided to configure my environment from zero because i've modified one thing too much, and my workflow became ugly. i didn't like it.
+
+i decided to instead go for a fresh restart and configure as least things as i could so i can keep things simple.
+
+i hope you're doing well.
+
+antonino, [8/4/25 2:37 AM]
+i have also learned to use pacman -Qo to see the packages i have installed. and removed redundant packages i have not used for a while.
+
+f, [8/4/25 12:47 PM]
+a year ago when i was a newbie to ubuntu i accidentally run a chmod command. everything got unusable so i chose to reinstall the os. after that i decided to write down every change i apply to it to make sure i know what im doing. i can follow this (https://github.com/firavoyage/blogging/blob/master/ubuntu.md) to set a fresh ubuntu to a certain state.
+the file is just a list of my personal pref, not a decent config guide.
+
+f, [8/4/25 1:07 PM]
+btw i think you can place those stuff (today i...) in a blog or a telegram channel (i dont think dm is a good way to keep memories). its simple, for me i stored some markdown on github. (i dont push every time i write something new. so its not always up to time.) many of my friends use tg channel while placing the link on their bio. twitter is also popular. (although i dont check twitter often) sry for replying late coz im in gmt+8.
+
+antonino, [8/4/25 4:53 PM]
+i have a telegram channel. but i don't want to fill it because I want to keep the same style over different meesages
+
+antonino, [8/4/25 4:59 PM]
+@ntonino_blog
+
+antonino, [8/4/25 11:04 PM]
+also, how come do you use ubuntu? have you tried something different? i use arch linux and i like it because it's pretty customizable.
+
+also, if you want to keep things coordinated, you might make a script to automate your home folder customizing
+
+f, [8/5/25 7:25 PM]
+i use ubuntu coz i love opensource softwares. later i found it great. e.g. great utilities, no need to install bandizip or 7zip (especially in ubuntu24 just press enter and the file is unzipped), no need to install "everything" for fast filename based searching... as its foss, it doesnt contain awful things like windows update, ads, etc. im not familiar with customization like r/unixporn. its just a tool for me. idk what is the script for home folder customizing but i do have some other scripts like compressing images in batch, push to github, generate jsdoc...
+
+antonino, [8/5/25 10:27 PM]
+ubuntu is nice customization wise, i don't like gnome much but if you are not a power user ubuntu is supported in almost every project that requires you to build from source. a lot of developers use it over more feature rich distros infact
+
+antonino, [8/28/25 10:17 PM]
+
+f, [8/29/25 10:16 PM]
+you ve played yosuga no sora?
+
+antonino, [8/29/25 10:24 PM]
+no, but it reminded me of you
+
+antonino, [8/29/25 10:24 PM]
+
+antonino, [8/29/25 10:24 PM]
+i have never played a visual novel...
+
+antonino, [12/8/25 10:41 PM]
+hey fira
+long time no talk...
+
+antonino, [12/8/25 10:41 PM]
+just hoping you're ok
+
+f, [12/17/25 8:31 PM]
+i could be ok. these days i spent most of my time on photo solver, zhihu, and chatgpt.
+
+photo solver is simple. just learn from the solutions and summarize the patterns with llms or myself. most about chemistry. for the humorous and warm teacher.
+
+zhihu is a quora like chinese content platform. actually it is like reddit. many smart people share their thoughts and exchange observations here.
+
+chatgpt. various usage. e.g. compare interesting and exciting. create an userscript to export favorites. manage time. what and why about the life of humanity. search online. summarize some blog posts.
+
+ive changed a bit. i no longer surf twitter and telegram channels everyday. the never ending now. kind of boring. i may take a look once a month for example, or maybe longer. then i could see more with less time.
+
+ive also reduced chatting with people online. the everyday life of most people is simple. nothing happens. memes are silly. fun is weird.
+
+antonino, [12/17/25 8:54 PM]
+can you keep doing this? as in, do you not have temptation to go back to previous habits?
+
+anyway, good for you, as using the phone for social interaction is no good. good luck
+```
+
+on discord (manually cleaned the markdown from discord web html)
+
+```
+1.  ### f _—_ 9:01 PMMonday, January 12, 2026 at 9:01 PM
+
+    hi
+
+    Add ReactionEditForwardMore
+
+2.  ### 代碼劍 C0dE*Sw0RdBOOM *—\_ 9:01 PMMonday, January 12, 2026 at 9:01 PM
+
+    ? hello
+
+3.  *\[*9:01 PM*\]*Monday, January 12, 2026 at 9:01 PM
+
+    妳是?
+
+4.  ### f _—_ 9:01 PMMonday, January 12, 2026 at 9:01 PM
+
+    我是一个没有朋友的宅
+
+    Add ReactionEditForwardMore
+
+5.  ### 代碼劍 C0dE*Sw0RdBOOM *—\_ 9:01 PMMonday, January 12, 2026 at 9:01 PM
+
+    我也是
+
+6.  ### f _—_ 9:01 PMMonday, January 12, 2026 at 9:01 PM
+
+    我在上海
+
+    Add ReactionEditForwardMore
+
+7.  ### 代碼劍 C0dE*Sw0RdBOOM *—\_ 9:01 PMMonday, January 12, 2026 at 9:01 PM
+
+    我离开上海了
+
+8.  *\[*9:01 PM*\]*Monday, January 12, 2026 at 9:01 PM
+
+    之前在嘉定
+
+9.  ### f _—_ 9:01 PMMonday, January 12, 2026 at 9:01 PM
+
+    你觉得我能不能做一个自己的 cursor
+
+    Add ReactionEditForwardMore
+
+10. *\[*9:02 PM*\]*Monday, January 12, 2026 at 9:02 PM
+
+    claude code, opencode 这样
+
+    Add ReactionEditForwardMore
+
+11. ### 代碼劍 C0dE*Sw0RdBOOM *—\_ 9:02 PMMonday, January 12, 2026 at 9:02 PM
+
+    你要本地部署 ai 么
+
+12. *\[*9:02 PM*\]*Monday, January 12, 2026 at 9:02 PM
+
+    这不是我的专业哦,我帮不上泥
+
+13. *\[*9:02 PM*\]*Monday, January 12, 2026 at 9:02 PM
+
+    ()
+
+14. ### f _—_ 9:02 PMMonday, January 12, 2026 at 9:02 PM
+
+    我是说我觉得这个很有意思. 想和一些网路上的人聊天
+
+15. ### 代碼劍 C0dE*Sw0RdBOOM *—\_ 9:03 PMMonday, January 12, 2026 at 9:03 PM
+
+    这样啊
+
+16. *\[*9:03 PM*\]*Monday, January 12, 2026 at 9:03 PM
+
+    可以哇
+
+17. *\[*9:03 PM*\]*Monday, January 12, 2026 at 9:03 PM
+
+    我目前在用 Gemini
+
+18. ### f _—_ 9:03 PMMonday, January 12, 2026 at 9:03 PM
+
+    我不知道我有没有实力
+
+    Add ReactionEditForwardMore
+
+19. ### 代碼劍 C0dE*Sw0RdBOOM *—\_ 9:03 PMMonday, January 12, 2026 at 9:03 PM
+
+    做 Ai 需要很强劲的实力
+
+20. ### f _—_ 9:03 PMMonday, January 12, 2026 at 9:03 PM
+
+    不是做 ai 模型. 是做应用, 用来自动编码.
+
+    Add ReactionEditForwardMore
+
+21. *\[*9:04 PM*\]*Monday, January 12, 2026 at 9:04 PM
+
+    (just another chatgpt wrapper)
+
+    Add ReactionEditForwardMore
+
+22. ### 代碼劍 C0dE*Sw0RdBOOM *—\_ 9:04 PMMonday, January 12, 2026 at 9:04 PM
+
+    ![🤔](https://discord.com/assets/d5d18f9c17a19de2.svg) Github 的 pilot 这样的?
+
+23. ### f _—_ 9:04 PMMonday, January 12, 2026 at 9:04 PM
+
+    像
+
+    Add ReactionEditForwardMore
+
+24. *\[*9:04 PM*\]*Monday, January 12, 2026 at 9:04 PM
+
+    agentic. 告诉他做什么. 可以一直运行. 直到成功.
+
+    Add ReactionEditForwardMore
+
+25. *\[*9:05 PM*\]*Monday, January 12, 2026 at 9:05 PM
+
+    可以一直运行几小时. 添加 feature. 实施. 检测. 下一步...
+
+    Add ReactionEditForwardMore
+
+26. ### 代碼劍 C0dE*Sw0RdBOOM *—\_ 9:05 PMMonday, January 12, 2026 at 9:05 PM
+
+    那个,妳是华裔还是外国人,为啥你的中文像机翻,妳可以用英语和我交流的,如果中文对妳来说很费劲的话
+
+27. ### f _—_ 9:06 PMMonday, January 12, 2026 at 9:06 PM
+
+    我是上海人. 我的 twitter 是 firascript. github 是 firavoyage.
+
+28. *\[*9:06 PM*\]*Monday, January 12, 2026 at 9:06 PM
+
+    (笑)
+
+29. ### 代碼劍 C0dE*Sw0RdBOOM *—\_ 9:06 PMMonday, January 12, 2026 at 9:06 PM
+
+    ![🙃](https://discord.com/assets/460d0ae35d91aed8.svg)
+
+30. ### f _—_ 9:06 PMMonday, January 12, 2026 at 9:06 PM
+
+    我在现实里几乎没有和人说话.
+
+    Add ReactionEditForwardMore
+
+31. *\[*9:06 PM*\]*Monday, January 12, 2026 at 9:06 PM
+
+    在网络上很少用简体中文.
+
+    Add ReactionEditForwardMore
+
+32. ### 代碼劍 C0dE*Sw0RdBOOM *—\_ 9:06 PMMonday, January 12, 2026 at 9:06 PM
+
+    我以为妳外国人,妳的表达好奇怪 ![🙃](https://discord.com/assets/460d0ae35d91aed8.svg)
+
+33. ### f _—_ 9:07 PMMonday, January 12, 2026 at 9:07 PM
+
+    (笑)
+
+    Add ReactionEditForwardMore
+
+34. *\[*9:07 PM*\]*Monday, January 12, 2026 at 9:07 PM
+
+    (笑.....) 我在笑!!!!!
+
+    Add ReactionEditForwardMore
+
+35. ### 代碼劍 C0dE*Sw0RdBOOM *—\_ 9:07 PMMonday, January 12, 2026 at 9:07 PM
+
+    呃
+
+36. ### f _—_ 9:07 PMMonday, January 12, 2026 at 9:07 PM
+
+    我要去开展行动了. 还有吃饭.
+
+37. ### 代碼劍 C0dE*Sw0RdBOOM *—\_ 9:07 PMMonday, January 12, 2026 at 9:07 PM
+
+    好吧
+
+38. ### f _—_ 9:08 PMMonday, January 12, 2026 at 9:08 PM
+
+    可以给我你的 twitter 什么的吗
+
+39. ### 代碼劍 C0dE*Sw0RdBOOM *—\_ 9:08 PMMonday, January 12, 2026 at 9:08 PM
+
+    ╮(╯-╰)╭ 回见~
+
+40. ### f _—_ 9:08 PMMonday, January 12, 2026 at 9:08 PM
+
+    discord 我用不来
+
+    Add ReactionEditForwardMore
+
+41. *\[*9:08 PM*\]*Monday, January 12, 2026 at 9:08 PM
+
+    tg, twi 这样.
+
+    Add ReactionEditForwardMore
+
+42. ### 代碼劍 C0dE*Sw0RdBOOM *—\_ 9:08 PMMonday, January 12, 2026 at 9:08 PM
+
+    我的主要社交账号是 B 站 Telegram Github Itchio
+
+43. *\[*9:08 PM*\]*Monday, January 12, 2026 at 9:08 PM
+
+    还有 dc
+
+44. ### f _—_ 9:08 PMMonday, January 12, 2026 at 9:08 PM
+
+    我是问了 chatgpt, 问哪里可以遇到真人, 聊天才来的这里.
+
+    Add ReactionEditForwardMore
+
+45. ### 代碼劍 C0dE*Sw0RdBOOM *—\_ 9:08 PMMonday, January 12, 2026 at 9:08 PM
+
+    az
+
+46. ### f _—_ 9:08 PMMonday, January 12, 2026 at 9:08 PM
+
+    好喵. 你的 id 是什么
+
+    Add ReactionEditForwardMore
+
+47. *\[*9:08 PM*\]*Monday, January 12, 2026 at 9:08 PM
+
+    telegram, github.
+
+    Add ReactionEditForwardMore
+
+48. *\[*9:09 PM*\]*Monday, January 12, 2026 at 9:09 PM
+
+    itchio? 你在开发游戏?
+
+    Add ReactionEditForwardMore
+
+49. ![](https://cdn.discordapp.com/avatars/1343676265059713024/e037f9aa1b299cffb989e8ea02eb135e.webp?size=32)@f
+
+    itchio? 你在开发游戏?
+
+    ### 代碼劍 C0dE*Sw0RdBOOM *—\_ 9:09 PMMonday, January 12, 2026 at 9:09 PM
+
+    我以前是游戏策划来着
+
+50. ### f _—_ 9:09 PMMonday, January 12, 2026 at 9:09 PM
+
+    你的 id 是什么...喵呜
+
+51. ### 代碼劍 C0dE*Sw0RdBOOM *—\_ 9:09 PMMonday, January 12, 2026 at 9:09 PM
+
+    还是做游戏本地化等等
+
+52. ![](https://cdn.discordapp.com/avatars/1343676265059713024/e037f9aa1b299cffb989e8ea02eb135e.webp?size=32)@f
+
+    你的 id 是什么...喵呜
+
+    ### 代碼劍 C0dE*Sw0RdBOOM *—\_ 9:09 PMMonday, January 12, 2026 at 9:09 PM
+
+    哪一个平台的
+
+53. ### f _—_ 9:09 PMMonday, January 12, 2026 at 9:09 PM
+
+    厉害喵. 有什么游戏喵.
+
+    Add ReactionEditForwardMore
+
+54. *\[*9:09 PM*\]*Monday, January 12, 2026 at 9:09 PM
+
+    你的 id 是什么. telegram, github. 其实我最喜欢 twitter.
+
+    Add ReactionEditForwardMore
+
+55. ![](https://cdn.discordapp.com/avatars/1343676265059713024/e037f9aa1b299cffb989e8ea02eb135e.webp?size=32)@f
+
+    厉害喵. 有什么游戏喵.
+
+    ### 代碼劍 C0dE*Sw0RdBOOM *—\_ 9:09 PMMonday, January 12, 2026 at 9:09 PM
+
+    都删光了哦,之前工作的游戏公司也倒了
+
+56. ### f _—_ 9:09 PMMonday, January 12, 2026 at 9:09 PM
+
+    当然最喜欢的还是 llms.
+
+    Add ReactionEditForwardMore
+
+57. *\[*9:10 PM*\]*Monday, January 12, 2026 at 9:10 PM
+
+    真人可以聊天. ai 可以做事情. 很厉害
+
+    Add ReactionEditForwardMore
+
+58. *\[*9:10 PM*\]*Monday, January 12, 2026 at 9:10 PM
+
+    啊... 你 id 是什么. 我要添加一下喵
+
+    Add ReactionEditForwardMore
+
+59. ![](https://cdn.discordapp.com/avatars/1343676265059713024/e037f9aa1b299cffb989e8ea02eb135e.webp?size=32)@f
+
+    你的 id 是什么. telegram, github. 其实我最喜欢 twitter.
+
+    ### 代碼劍 C0dE*Sw0RdBOOM *—\_ 9:10 PMMonday, January 12, 2026 at 9:10 PM
+
+    telegram 是 尽云
+
+60. ### f _—_ 9:10 PMMonday, January 12, 2026 at 9:10 PM
+
+    (哦我 google 了一下你的 discord handle c0de_sw0rd)
+
+    Add ReactionEditForwardMore
+
+61. ### 代碼劍 C0dE*Sw0RdBOOM *—\_ 9:11 PMMonday, January 12, 2026 at 9:11 PM
+
+    github 的是[https://github.com/C0dE-Sw0Rd](https://github.com/C0dE-Sw0Rd "https://github.com/C0dE-Sw0Rd")
+
+    GitHub
+
+    [C0dE-Sw0Rd - Overview](https://github.com/C0dE-Sw0Rd)
+
+    C0dE-Sw0Rd has one repository available. Follow their code on GitHub.
+
+    [](https://avatars.githubusercontent.com/u/114925083?v=4?s=400)
+
+    ![Image](https://images-ext-1.discordapp.net/external/92htntcQl05H6QEqWRGBx0kuQuj3IWt9Xtr0Fy9I_Mw/%3Fv%3D4%3Fs%3D400/https/avatars.githubusercontent.com/u/114925083?format=webp&width=160&height=160)
+
+62. ### f _—_ 9:12 PMMonday, January 12, 2026 at 9:12 PM
+
+    telegram id 是什么.
+
+    Add ReactionEditForwardMore
+
+63. *\[*9:12 PM*\]*Monday, January 12, 2026 at 9:12 PM
+
+    我是说 t.me/...
+
+    Add ReactionEditForwardMore
+
+64. *\[*9:12 PM*\]*Monday, January 12, 2026 at 9:12 PM
+
+    我吃饭去了.
+
+    ![⬆️](https://discord.com/assets/8da8e6c80fee8bd0.svg)
+
+    1
+
+    Add Reaction
+
+    Add ReactionEditForwardMore
+
+65. ![](https://cdn.discordapp.com/avatars/1343676265059713024/e037f9aa1b299cffb989e8ea02eb135e.webp?size=32)@f
+
+    我是说 t.me/...
+
+    ### 代碼劍 C0dE*Sw0RdBOOM *—\_ 9:13 PMMonday, January 12, 2026 at 9:13 PM
+
+    t.me/@Heaven_Dimension (edited)Monday, January 12, 2026 at 9:13 PM
+
+66. ### f _—_ 9:14 PMMonday, January 12, 2026 at 9:14 PM
+
+    吃饭喵
+
+    Add ReactionEditForwardMore
+
+67. ### 代碼劍 C0dE*Sw0RdBOOM *—\_ 9:14 PMMonday, January 12, 2026 at 9:14 PM
+
+    好哦
+```
+
+on genshin impact "papa"
+
+hard to export. (have some screenshots)
+
+on qq "schooling"
+
+hard to export. (have some screenshots)
+
+(decision: dont create buzz now. showmanship. "humility")
+
+---
+
+precious, [1/11/26 10:43 PM]
+Could I make friends. Could anyone send messages to me... Know everyone must cc their own msg. It's sharing and building relationship. Not chatting.
+
+---
+
+【Singing】林俊傑歌回 JJ Lin with guitar
+
+Cyan Ch. 朝日小盐
+
+https://www.youtube.com/watch?v=9zfpZBRFtvE
+
+1:36:20 irl.
+
+---
+
+manus.im popup "joining meta"
+
+do users need to know that?!
 
 ---

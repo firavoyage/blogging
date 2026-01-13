@@ -139,6 +139,7 @@
     - tim mediastorm
     - tonsky tonsky.me
     - yearsprogress
+    - yetone alma.now
     - yuanchuan yuanchuan.dev
   - code & creation
     - adamwathan adamwathan.me tailwindcss.com
@@ -188,6 +189,7 @@
     - simonwillison simonwillison.net
     - timqian timqian.com
     - tualatrix imtx.me poptranslate.app manico.im pastenow.app
+    - unixzii cyandev.app
     - wesbos wesbos.com javascript30.com
     - xiaoyaocz xiaoyaocz.com simplelive
     - zhao-stanley stanleyzhao.com web.lab
