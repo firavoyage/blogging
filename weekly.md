@@ -1,6 +1,10 @@
-# $weekly$
+$weekly$
 
-> _just let time be precious 💖_
+message/paste · todo · tabs/things · scratch pad · weekly/projects · notes
+
+---
+
+## .
 
 <!--
 > $welcome \space to \space hotel \space california$
@@ -10,12 +14,12 @@
 > 🍅 ⏲️ $20min$
  -->
 
-## .
-
 - _make tools elegant_
 - _make knowledge pure_
 
 <!-- > things, not schedule. -->
+
+> _just let time be precious 💖_
 
 ## 20251216
 
@@ -38,7 +42,7 @@
 <!-- momentum. -->
 
 - create: pure, games, apps
-<!-- 
+<!--
 - sv
 - vtbsol
 - fatefairy
@@ -49,7 +53,7 @@
 - all: world goods list
 - all: artists on berryberry
 - all: have (dining) map "everywhere"
- -->
+  -->
 - revise projects.md
 - organize, archive: posts to lights, fav (berryberry, zhihu)
 - (practice calligraphy: english)

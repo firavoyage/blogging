@@ -66,7 +66,7 @@
 
 > if you ever miss me, just close your eyes. and maybe i'll appear in your dreams.
 
-<!-- - fira 💖, she/her (🏳️‍⚧️ ✖️ 🍥 ✖️), 🇬🇧 ✔️, 🇨🇳 ❔, 🇯🇵 ✖️, 🇫🇷 ✖️ -->
+- fira 💖, she/her (🏳️‍⚧️ ✖️ 🍥 ✖️), 🇬🇧 ✔️, 🇨🇳 ❔, 🇯🇵 ✖️, 🇫🇷 ✖️
 
 - a developer, content creator, wikipedian
 - grew up in shanghai

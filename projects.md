@@ -1,3 +1,9 @@
+$projects$
+
+message/paste · todo · tabs/things · scratch pad · weekly/projects · notes
+
+---
+
 <!-- Type. An input method project. Just works. Just not opinionated. -->
 
 <!-- all (awesome): worldly beauty (indulgence), v. (verb) -->
@@ -30,16 +36,7 @@ project see: chat with llms in a decent ui (chat elegantly)
 
  -->
 
-# $projects$
-
 ## .
-
-- common
-  - offline progressive web app
-  - import / export / sync
-  - built with voyagejs
-
-## desiderata
 
 - make tools elegant
 - make knowledge pure
