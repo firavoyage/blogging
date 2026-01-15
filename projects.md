@@ -4,6 +4,8 @@ message/paste · todo · tabs/things · scratch pad · weekly/projects · notes
 
 ---
 
+<!-- Grow. Archive instead of retweet. "如何让初音未来永远被记住" -->
+
 <!-- Type. An input method project. Just works. Just not opinionated. -->
 
 <!-- all (awesome): worldly beauty (indulgence), v. (verb) -->

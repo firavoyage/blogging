@@ -118,6 +118,7 @@
     - cmfbynothing
     - cyannyan6 hoshinolina cyannyan.com lina.yt
     - dingyi ding.one dexlist.page news.dex.group dex-group.ghost.io dex.zhubai.love quaily.com/dingyi
+    - extraordinary extraordinary.com
     - fenxer design scenes fenx.work
     - ftium4 ftium4.com ux weekly
     - georgehastings georgehastings.com unicode.studio
@@ -138,6 +139,7 @@
     - tenthousandyes
     - tim mediastorm
     - tonsky tonsky.me
+    - wengtianxin dandyweng.com blog.dandyweng.com camarts.app
     - yearsprogress
     - yetone alma.now
     - yuanchuan yuanchuan.dev

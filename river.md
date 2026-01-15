@@ -309,6 +309,10 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `11` 2026.01.13
 - `12` 2026.01.14
 
+### frieren beyond journey’s end
+
+- `1` 2026.01.15
+
 ## gaming
 
 ### sr
@@ -15299,7 +15303,7 @@ firefox... many distractions by default. has to dfs settings to turn off.
 
 things like downloads and bookmarks are not browser tabs...
 
-a bit silly. 
+a bit silly.
 
 only use it on android. i think.
 
@@ -15321,7 +15325,7 @@ create one?
 
 ---
 
-maybe fira loves chatting. i mean, fira loves real humans. 
+maybe fira loves chatting. i mean, fira loves real humans.
 
 > humans are interesting creatures!
 
@@ -15931,3 +15935,262 @@ manus.im popup "joining meta"
 do users need to know that?!
 
 ---
+
+telegram: 黑客少女后勤团 ✨ (cyan nyan yt)
+
+```
+黑客少女后勤团✨, [1/12/26 9:58 PM]
+都被认出来了w
+
+黑客少女后勤团✨, [1/12/26 9:59 PM]
+https://www.youtube.com/watch?v=9zfpZBRFtvE
+
+00:14:05 -- Start
+00:16:40 -- 喜欢林俊杰的原因
+00:17:25 -- 被声乐老师说唱歌像是外国人
+00:19:56 -- [1] 一千年以后
+00:29:04 -- [2] Always Online
+00:32:32 -- 房间冷冷，脚脚冰冰
+00:33:55 -- 如何送给主播礼物
+00:37:45 -- 地理已经全部还给老师了
+00:39:30 -- [3] 不潮不用花钱
+00:43:52 -- 上播前没吃晚饭，丝袜令盐喵兴奋
+00:47:14 -- 盐喵需要升级一下语言模块
+00:49:04 -- [4] 我还想她
+00:50:52 -- 盐喵想和Lina试试背对背拥抱
+00:51:50 -- 房间里机器太多结果都不需要开暖气了
+00:53:50 -- [5] 背对背拥抱
+00:59:46 -- “江南”到底在哪？
+01:01:45 -- 开歌回的原因
+01:03:16 -- [6] 江南
+01:08:27 -- [7] LOVE U U
+01:10:24 -- 盐喵对林俊杰的各种了解
+01:12:35 -- 盐喵知道的第一首林俊杰的歌，然后一转雪糕话题
+01:14:05 -- 初中朋友迟到被罚讲台上唱歌，结果被盐喵当场变成KTV
+01:17:52 -- [8] 美人鱼
+01:21:00 -- 双厨狂喜
+01:26:38 -- [9] 黑暗骑士
+01:30:18 -- Cyan the Rock!
+01:30:58 -- 单线程Cyan?
+01:31:33 -- 现实版Duolingo：日语老师发射导弹
+01:39:03 -- 盐喵厨师?
+01:39:44 -- 盐喵的买的辣椒面有点sus
+01:42:44 -- 盐喵在浴池里与Spotify里的林俊杰连线
+01:45:15 -- "Right back at you"
+01:45:33 -- 因为Lina的超长待机直播不知所措的盐喵
+01:46:39 -- [10] 木乃伊
+01:47:51 -- “NTR多有意思”
+01:49:07 -- 盐喵小时候和哥哥干的各种不要脸的事情.mp4
+01:50:45 -- 盐喵的哥哥对盐喵出国留学的想法
+01:52:44 -- [11] 杀手
+01:54:18 -- 盐喵和Lina害怕恐怖游戏
+01:55:30 -- 歌曲过气是一种永恒的诅咒
+01:56:20 -- [12] 西界
+02:01:34 -- [13] 不为谁而作的歌
+02:04:30 -- 腰酸背痛现在能顺着网线传染了.jpg
+02:05:15 -- Typical Cyan noises
+02:06:22 -- "Maybe I'm 45, who knows"
+02:07:10 -- 下播也不忘哈基米
+
+f, [1/13/26 1:11 PM]
+Hello everyone.
+
+黑客少女后勤团✨, [1/13/26 1:13 PM]
+Hello, how about introduce yourself?
+
+f, [1/13/26 1:15 PM]
+Prefer not to say. I don't have achievements now. I'm still learning. Sry.
+
+黑客少女后勤团✨, [1/13/26 1:20 PM]
+I mean, where do you know about Cyan? This kind of thing.
+
+f, [1/13/26 1:52 PM]
+Seen you many times on Twitter, I come here someday.
+
+黑客少女后勤团✨, [1/13/26 1:56 PM]
+OK
+
+Ильнар Каразбаев 🟦⬜🟩, [1/13/26 2:03 PM]
+Hello!
+
+Мука Яшкино (imikoy), [1/13/26 2:42 PM]
+welcome!
+
+Мука Яшкино (imikoy), [1/13/26 2:42 PM]
+For note, the channel account is used by Cyan and admins
+
+黑客少女后勤团✨, [1/13/26 2:44 PM]
+
+
+Мука Яшкино (imikoy), [1/13/26 2:45 PM]
+
+
+Мука Яшкино (imikoy), [1/13/26 2:46 PM]
+the controller colors are reversed?
+
+Мука Яшкино (imikoy), [1/13/26 2:47 PM]
+
+
+Телотт, [1/13/26 4:54 PM]
+Hello!
+
+钾：, [1/13/26 7:55 PM]
+当我看到时，我已经明白，我错过了直播
+
+赛小盐的日常 Cyan's Official Ch., [1/13/26 10:39 PM]
+https://youtube.com/live/qQfDX7qmLXY
+
+漢宮秋月, [1/13/26 10:40 PM]
+青椒肉丝是什么
+
+漢宮秋月, [1/13/26 10:40 PM]
+qing jao reou si
+
+漢宮秋月, [1/13/26 10:40 PM]
+那是什么俚语吗？
+
+何 Evil, [1/13/26 11:03 PM]
+（看着自己封面不说话）
+
+黑客少女后勤团✨, [1/14/26 12:44 AM]
+https://www.youtube.com/watch?v=qQfDX7qmLXY
+
+00:02:10 -- Start
+00:02:39 -- "Welcome to another yuri yuri unseiso stream"
+00:03:14 -- How Cyan cheating on streaming
+00:03:58 -- Lina banned Cyan for going to eat haidilao
+00:06:08 -- Cyan's password managing practice is questionable
+00:10:16 -- Cyan is a smart type of cat
+00:10:50 -- Cyan wants to buy Lina some cat-use panties
+00:18:20 -- Cyan Drop Tips
+00:20:33 -- Lina somehow broke the website...
+00:20:50 -- Yesterday's "Skilled Cloud Server" live performance is having its effects...
+00:21:32 -- Cyan's cat don't really like the cat carrying backpack
+00:24:07 -- === UNSEISO PART START ===
+00:24:18 -- Lina is the Angel
+00:25:00 -- Cyan choosing Lina's (unseiso) costume, and Lina tried to deny that
+00:26:20 -- Lina tried to end stream early
+00:27:42 -- Another costume
+00:28:53 -- Cyan exposing Lina having a Santa costume
+00:30:07 -- Cyan is drooling for a pair of stockings
+00:30:46 -- Lina: "Why has everything today has to be sexy?"
+00:35:16 -- Cyan's Perfect Makeup Lesson™
+00:36:14 -- Cyan's experience on doing Lina's makeup
+00:37:55 -- Buggy website caught on 1080P and streamed live
+00:42:47 -- Sometimes you need to have BIG dreams...
+00:43:53 -- Lina: "NO PLEASE OH MY GOD NO NO NO SCROLL SCROLL SCROLL" ("Explicit" warning)
+00:45:19 -- Cyan's AWSL noise (Cute warning)
+00:46:47 -- Someone's gift suggestion is a ton of what???
+00:49:55 -- Japanese don't like to wear leggings?
+00:51:06 -- Cyan found the "House" tab, got excited, then got disappointed because that is "For House"
+00:51:57 -- Cyan is melting on a cat Kirby pin
+00:54:02 -- Cyan's "cool" choice
+00:55:18 -- EMOTIONAL DAMAGE
+00:55:50 -- Cyan's plan for Lina do cosplay
+00:57:06 -- Someone guessed Cyan's secret plushies first try
+00:58:21 -- Cyan's questionable choice?
+00:58:38 -- PROGRAMMER'S SOCKS FOUND
+01:04:14 -- Searched "hentai" but somehow it's actually not that "hentai"
+01:04:50 -- === UNSEISO PART END ===
+01:09:46 -- Lina complaining GPU prices messed up
+01:10:50 -- All of your cosplay need is there
+01:13:40 -- Today's 哈基米
+01:15:32 -- Cyan: "So they were kissing"
+01:16:40 -- If Cyan haven't sleep enough then Cyan's power will be UBIQUITOUS
+01:17:11 -- Today's rickroll
+01:19:15 -- Lina's sleepy cat noise
+01:19:30 -- Lina is looking forward to Cyan's maid service tomorrow
+01:20:05 -- Fan service?
+01:20:30 -- Cyan's sudden kissing attack?
+
+Ильнар Каразбаев 🟦⬜🟩, [1/15/26 11:20 AM]
+Hello!
+
+Телотт, [1/15/26 11:20 AM]
+Hi!
+
+音, [1/15/26 11:21 AM]
+Hi！
+
+音, [1/15/26 11:21 AM]
+
+
+Мука Яшкино (imikoy), [1/15/26 1:37 PM]
+Mrow
+
+赛小盐的日常 Cyan's Official Ch., [1/15/26 2:36 PM]
+hacker couple in a fight(in bed)
+
+Lina: you’re blue screening a lot today
+Lina: what are you, Windows?
+
+me: says miss Linux
+complicated, powerful, and requires constant attention ✨
+
+Ильнар Каразбаев 🟦⬜🟩, [1/15/26 2:53 PM]
+Just use FreeBSD! :)
+
+Мука Яшкино (imikoy), [1/15/26 7:09 PM]
+https://inv.nadeko.net/watch?v=yteN21aJEvE
+rip best current gen nvidia cards
+
+Мука Яшкино (imikoy), [1/15/26 7:12 PM]
+(AIBs' stock of 5070ti, 5060ti 16gb is depleted and is likely to not come back)
+
+f, [1/15/26 8:40 PM]
+why are there so many russian names. could they understand cyan's languages. idk.
+
+黑客少女后勤团✨, [1/15/26 8:41 PM]
+Yes they can, and Cyan does have a pretty big russian fanbase.
+
+黑客少女后勤团✨, [1/15/26 8:42 PM]
+btw for the record I'm not Cyan, I'm just a mod here.
+
+黑客少女后勤团✨, [1/15/26 8:42 PM]
+Sometimes Cyan will appear as the channel itself as well.
+
+黑客少女后勤团✨, [1/15/26 8:43 PM]
+For example, this is Cyan.
+
+Мука Яшкино (imikoy), [1/15/26 8:43 PM]
+there's at least 4 RU people (me included)
+
+Мука Яшкино (imikoy), [1/15/26 8:45 PM]
+EN - most likely every RU fan
+CN, JP - idk, but translators exist
+
+Ильнар Каразбаев 🟦⬜🟩, [1/15/26 8:47 PM]
+Not only Russians. But almost all russian-speaking people know English language. About Japanese and Mandarin: Telegram  translator, that is on cocoon
+```
+
+---
+
+`ref` `family`
+
+the family:
+
+- city
+- countryside
+
+when they solve a problem or try to see something
+
+- conservative
+- scientific, always trying to use proven methods
+- not willing to rebel for rights
+- somewhat believe authorities
+
+when they have spare money
+
+- buy traditional wealth (houses, stable stocks, etc.)
+- not tech leverage (3d printers, drones, etc.)
+- not human leverage (cleaners, carers, etc.)
+- not happiness
+
+the wax and wane
+
+- born to be smart
+- when the time needs diplomas
+- when the housing price rises
+
+---
+
