@@ -154,3 +154,8 @@ bindkey '\t' autosuggest-accept
 
 # opencode
 export PATH=/home/fira/.opencode/bin:$PATH
+
+# Load private secrets (not in git)
+if [ -f "$HOME/.zshrc.private" ]; then
+  source "$HOME/.zshrc.private"
+fi

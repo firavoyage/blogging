@@ -312,6 +312,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 ### frieren beyond journey’s end
 
 - `1` 2026.01.15
+- `2` 2026.01.16
 
 ## gaming
 
