@@ -118,21 +118,38 @@ release() {
 }
 
 phone() {
-  # Restart ADB server to ensure proper connection
+  # Restart ADB server
   adb kill-server
   adb start-server
 
-  # Mute the phone's media volume
+  # Mute media volume
   adb shell cmd media_session volume --stream 3 --set 0
 
-  # Start scrcpy and wait until it's ready
-  scrcpy --fullscreen --turn-screen-off --power-off-on-close --screen-off-timeout=600
+  # Start scrcpy in background
+  scrcpy --fullscreen --turn-screen-off --power-off-on-close --screen-off-timeout=600 &
 
-  # Give scrcpy some time to fully start
+  # Let scrcpy connect
   sleep 3
 
-  # Now start sndcpy
-  cd /usr/local/bin
+  echo "Waiting until Android allows sndcpy foreground..."
+
+  # Retry ONLY the Activity start
+  while true; do
+    result=$(adb shell am start \
+      -n com.rom1v.sndcpy/.MainActivity 2>&1)
+
+    echo "$result"
+
+    if ! echo "$result" | grep -q "Error"; then
+      break
+    fi
+
+    sleep 1
+  done
+
+  echo "Starting sndcpy..."
+
+  cd /usr/local/bin || return
   sndcpy
 }
 
@@ -159,3 +176,10 @@ export PATH=/home/fira/.opencode/bin:$PATH
 if [ -f "$HOME/.zshrc.private" ]; then
   source "$HOME/.zshrc.private"
 fi
+
+# bun completions
+[ -s "/home/fira/.bun/_bun" ] && source "/home/fira/.bun/_bun"
+
+# bun
+export BUN_INSTALL="$HOME/.bun"
+export PATH="$BUN_INSTALL/bin:$PATH"

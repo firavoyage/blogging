@@ -170,6 +170,7 @@
     - krahets hello-algo.com
     - kuviman kast-lang.org linksider
     - leaverou lea.verou.me/projects prismjs.com
+    - leon7hao loro.dev lody.ai
     - lexrus lex.sh
     - lightvector katago
     - lionleaf dwitter.net
@@ -189,6 +190,7 @@
     - sama sam altman blog.samaltman.com openai.com
     - samuelqzq qzq.at
     - simonwillison simonwillison.net
+    - steipete steipete.me clawd.bot
     - timqian timqian.com
     - tualatrix imtx.me poptranslate.app manico.im pastenow.app
     - unixzii cyandev.app
@@ -204,7 +206,7 @@
     - jiangyy jiang yanyan jyywiki.cn
     - jiangzijun zhihu
     - kkksc03 luogu k.luogu.org
-    - matrix67 matrix67.com localhost-8080.com
+    - matrix67 matrix67.com localhost_8080 localhost-8080.com
     - menci lcmenci men.ci loj.ac oi.wiki
     - nayuki nayuki.io
     - one math
