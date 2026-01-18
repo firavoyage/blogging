@@ -186,6 +186,7 @@ _on the internet_
 - `google 27.mhtml` Google's 27th Birthday Sep 27, 2025
 - `lingdong.works` lingdong huang projects
 - `simon` Simon Willison’s Weblog about me
+- `wikipedia 25` A special friend is dropping by for Wikipedia’s 25th birthday
 
 ### unixporn
 

@@ -1,7 +1,10 @@
+# ================================
+# Shell Settings
+# ================================
+
 setopt interactive_comments
 
 # Set up the prompt
-
 autoload -Uz promptinit
 promptinit
 prompt adam1
@@ -38,59 +41,62 @@ zstyle ':completion:*' verbose true
 zstyle ':completion:*:*:kill:*:processes' list-colors '=(#b) #([0-9]#)*=0=01;31'
 zstyle ':completion:*:kill:*' command 'ps -u $USER -o pid,%cpu,tty,cputime,cmd'
 
+# ================================
+# Functions
+# ================================
+
 function push(){
 
-cd Documents
-cd f
-git add .
-git commit -m '.'
-git push -f g
-git push -f a
-git push -f e
-cd ..
+  cd Documents
+  cd f
+  git add .
+  git commit -m '.'
+  git push -f g
+  git push -f a
+  git push -f e
+  cd ..
 
-cd resources
-git add .
-git commit -m '.'
-git push -f g
-git push -f a
-git push -f e
-cd ..
+  cd resources
+  git add .
+  git commit -m '.'
+  git push -f g
+  git push -f a
+  git push -f e
+  cd ..
 
-cd blogging
-git add .
-git commit -m '.'
-git push -f g
-git push -f a
-git push -f e
-cd ..
+  cd blogging
+  git add .
+  git commit -m '.'
+  git push -f g
+  git push -f a
+  git push -f e
+  cd ..
 
-cd memories
-git add .
-git commit -m '.'
-git push -f g
-git push -f a
-git push -f e
-cd ..
+  cd memories
+  git add .
+  git commit -m '.'
+  git push -f g
+  git push -f a
+  git push -f e
+  cd ..
 
-cd school
-git add .
-git commit -m '.'
-git push -f g
-git push -f a
-git push -f e
-cd ..
+  cd school
+  git add .
+  git commit -m '.'
+  git push -f g
+  git push -f a
+  git push -f e
+  cd ..
 
-cd fonts
-git add .
-git commit -m '.'
-git push -f g
-git push -f e
-cd ..
+  cd fonts
+  git add .
+  git commit -m '.'
+  git push -f g
+  git push -f e
+  cd ..
 
-cd ..
+  cd ..
 }
-
 
 release() {
     file="$1"
@@ -102,10 +108,10 @@ release() {
             bundled_file="${file%.html}.bundled.html"
             minified_file="${file%.html}.bundled.min.html"
 
-            # Create bundled HTML
+# Create bundled HTML
             node "$HOME/Documents/f/libraries/bundler.js" "$file" "$bundled_file"
 
-            # Create minified version from the bundled HTML
+# Create minified version from the bundled HTML
             html-minifier --remove-comments --minify-css --minify-js \
                 --collapse-whitespace --conservative-collapse \
                 "$bundled_file" -o "$minified_file"
@@ -118,22 +124,22 @@ release() {
 }
 
 phone() {
-  # Restart ADB server
+# Restart ADB server
   adb kill-server
   adb start-server
 
-  # Mute media volume
+# Mute media volume
   adb shell cmd media_session volume --stream 3 --set 0
 
-  # Start scrcpy in background
+# Start scrcpy in background
   scrcpy --fullscreen --turn-screen-off --power-off-on-close --screen-off-timeout=600 &
 
-  # Let scrcpy connect
+# Let scrcpy connect
   sleep 3
 
   echo "Waiting until Android allows sndcpy foreground..."
 
-  # Retry ONLY the Activity start
+# Retry ONLY the Activity start
   while true; do
     result=$(adb shell am start \
       -n com.rom1v.sndcpy/.MainActivity 2>&1)
@@ -153,13 +159,37 @@ phone() {
   sndcpy
 }
 
+# ================================
+# Environment
+# ================================
+
 export PATH="$HOME/.local/bin:$PATH"
 
-alias npm='sudo npm'
+# opencode
+export PATH=/home/fira/.opencode/bin:$PATH
 
-export http_proxy="http://127.0.0.1:7890"
-export https_proxy="http://127.0.0.1:7890"
-export NODE_TLS_REJECT_UNAUTHORIZED=0
+# bun
+export BUN_INSTALL="$HOME/.bun"
+export PATH="$BUN_INSTALL/bin:$PATH"
+
+# pnpm
+export PNPM_HOME="/home/fira/.local/share/pnpm"
+case ":$PATH:" in
+  *":$PNPM_HOME:"*) ;;
+  *) export PATH="$PNPM_HOME:$PATH" ;;
+esac
+# pnpm end
+
+# ================================
+# Aliases
+# ================================
+
+alias npm='sudo npm'
+alias apt='sudo apt -y'
+
+# ================================
+# Plugins / Completions
+# ================================
 
 # Fish-like autosuggestions
 source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
@@ -169,17 +199,18 @@ source ~/.zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
 bindkey '\t' autosuggest-accept
 
-# opencode
-export PATH=/home/fira/.opencode/bin:$PATH
+# bun completions
+[ -s "/home/fira/.bun/_bun" ] && source "/home/fira/.bun/_bun"
 
 # Load private secrets (not in git)
 if [ -f "$HOME/.zshrc.private" ]; then
   source "$HOME/.zshrc.private"
 fi
 
-# bun completions
-[ -s "/home/fira/.bun/_bun" ] && source "/home/fira/.bun/_bun"
+# ================================
+# Proxy
+# ================================
 
-# bun
-export BUN_INSTALL="$HOME/.bun"
-export PATH="$BUN_INSTALL/bin:$PATH"
+export HTTP_PROXY="http://127.0.0.1:7890"
+export HTTPS_PROXY="http://127.0.0.1:7890"
+export ALL_PROXY="socks5://127.0.0.1:7890"
