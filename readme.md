@@ -125,6 +125,7 @@
     - google doodles doodles.google
     - growth.design
     - henri le chat noir
+    - himanshu-dixit himanshud.com composio.dev awesome-claude-skills 
     - innei innei.in app.folo.is mx-space.js.org lobechat.com
     - jjying jjying.com iconmoon.com
     - larrasket larr.net lr0.org

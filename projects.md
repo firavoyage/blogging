@@ -47,7 +47,7 @@ project see: chat with llms in a decent ui (chat elegantly)
 
 ### `para`
 
-> document reader (digital book / wiki)
+> read docs. all docs. in a way you like. and with ai (generating? styling.).
 
 - inspired by
   - mdbook
