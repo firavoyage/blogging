@@ -131,6 +131,11 @@
   - dec
     - fira `328 a 91 d 123 a+ 114 b+`
     - on 20251112 20251113 20251114 
+  - spuee (spring university entrance exam)
+    - fira `354 a (11.7%, #8196) 107 120 127`
+    - 2026.01.03 2026.01.04 2026.01.05
+
+
 
 ## jhs fin (hs entrance exam)
 

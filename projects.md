@@ -4,6 +4,8 @@ message/paste · todo · tabs/things · scratch pad · weekly/projects · notes
 
 ---
 
+<!-- firefoxium. (firefox backend polished) (chrome backend with more freedom is way harder. backend is hard.) -->
+
 <!-- Grow. Archive instead of retweet. "如何让初音未来永远被记住" -->
 
 <!-- Type. An input method project. Just works. Just not opinionated. -->
@@ -48,6 +50,8 @@ project see: chat with llms in a decent ui (chat elegantly)
 ### `para`
 
 > read docs. all docs. in a way you like. and with ai (generating? styling.).
+
+<!-- handle markdown quirks. linebreak will be linebreak, even without two spaces. -->
 
 - inspired by
   - mdbook

@@ -317,6 +317,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `4` 2026.01.18
 - `5` 2026.01.19
 - `6` 2026.01.20
+- `7` 2026.01.21
 
 ## gaming
 
@@ -16260,3 +16261,20 @@ chinese on manusaiagent.im english site! wtf.
 
 ---
 
+douyin 性能真差...
+
+---
+
+chatgpt will respond to keyboard even if the input is not focused.
+
+(for input method, the first character will not be recognized.)
+
+---
+
+想起测试...
+
+许多人和我一样空了大题. 真可怜啊...
+
+(see pure project: motivation.)
+
+---
