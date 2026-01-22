@@ -318,6 +318,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `5` 2026.01.19
 - `6` 2026.01.20
 - `7` 2026.01.21
+- `8` 2026.01.22
 
 ## gaming
 
@@ -16278,3 +16279,12 @@ chatgpt will respond to keyboard even if the input is not focused.
 (see pure project: motivation.)
 
 ---
+
+received a sms from the cn gov anti fraud.
+
+holyshit. some bots are listening my phone calls. (although i forwarded the calls to a stranger.)
+
+freedom matters more than anything.
+
+---
+

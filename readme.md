@@ -207,6 +207,7 @@
     - jiangyy jiang yanyan jyywiki.cn
     - jiangzijun zhihu
     - kkksc03 luogu k.luogu.org
+    - leerob leerob.com cursor.com
     - matrix67 matrix67.com localhost_8080 localhost-8080.com
     - menci lcmenci men.ci loj.ac oi.wiki
     - nayuki nayuki.io
@@ -216,6 +217,7 @@
     - que_tourist gennady korotkevich codeforces
     - shiffman thecodingtrain.com
     - su dekuang zju
+    - whynottv1999 tairanhe.com
     - yxc acwing.com
   - journalism
     - cdtchinese chinadigitaltimes.net
@@ -905,8 +907,8 @@ fira is a font from mozilla.
 > <!-- - `precious珍 (ちん)` -->
 
 - - wikipedia `User:Firavoyage`
-- - github (gitlab, gitee, gitea) `firavoyage`
-  - gitlab (new account) `firascript`
+- - github/gitea `firavoyage`
+  - orcid `0009-0007-1207-3193`
   - wakatime `firavoyage`
   - codepen `firavoyage`
 - - steam `firascript`

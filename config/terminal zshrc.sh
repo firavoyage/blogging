@@ -204,6 +204,7 @@ esac
 # ================================
 
 alias npm='sudo npm'
+alias pnpm='sudo pnpm'
 alias apt='sudo apt -y'
 
 # ================================
