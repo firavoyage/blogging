@@ -20,6 +20,7 @@ _on the internet_
 - `larr naming`
 - `google about`
 - `steve jobs`
+- `leerob`
 
 ### philosophy
 
@@ -121,6 +122,7 @@ _on the internet_
 - `innei 2023` 2023 · 光影交织之年
 - `innei 2024` 2024 · 前路未尽，初心犹在
 - `innei 2025` 2025 · 仍在路上，半径之外
+- `leerob` Things I Believe
 
 ### dev guide
 
@@ -158,6 +160,9 @@ _on the internet_
 - `innei vibe coding` AI 编码方法论：从探索到精进的系统化实践
 - `innei context engineering` 初探 Context Engineering
 - `innei ai writing` 我是如何使用 AI 辅助创作的
+- https://leerob.com/pixo
+- https://leerob.com/compression
+- https://leerob.com/ai
 
 ### dev
 

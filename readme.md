@@ -393,6 +393,7 @@
   - time still turns the pages (2023)
   - indie game: the movie (2012)
   - fight club (1999)
+  - the good, the bad and the ugly (1966)
   - .the disappearance of haruhi suzumiya (2010)
   - .bocchi the rock! recap part 1 (2024)
 - series
