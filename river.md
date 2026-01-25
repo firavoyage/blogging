@@ -320,6 +320,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `7` 2026.01.21
 - `8` 2026.01.22
 - `9` 2026.01.23
+- `10` 2026.01.24
 
 ## gaming
 
@@ -16290,5 +16291,57 @@ freedom matters more than anything.
 ---
 
 "haiku sonnet opus" good wording...
+
+---
+
+microsoft login ui is... good.
+
+---
+
+chatgpt updated its code ui.
+
+better styling (seems dracula)
+
+no longer predict language. ("Code")
+
+upd: but it prevents code copy during generation! if the part of code is done it should be able to copy.
+
+---
+
+fira 喜欢比别人高贵.
+
+twitter 上有许多, 抑郁, 吃药, 吃糖, 吃盐. fira 没有. fira 于是应该比她们高贵, 不过也说不上来在哪里.
+
+有许多学历, 公司, 都是这个世界上最好的. 每一个最好的地方都有成千或者上万人, 有许多善于社交的也不意外. 她们应该比 fira 高贵, 但 fira 也说不上高贵在哪里.
+
+中国有许多外卖员. fira 显然比他们高贵. 不敢说所有的. 但是上年纪的外卖员, fira 肯定高贵. 高贵在生命力与可能性. 
+
+---
+
+set x.com chat password: 1111
+
+stupid. opinionated. at least fira think.
+
+show "acc based in ..."
+
+why?
+
+i dont need that infomation. "progressive disclosure".
+
+and i could not config. (at least idk how)
+
+---
+
+the structure of en is better.
+
+Codex 需要指导的环节
+
+Codex 的优势
+
+Where Codex needs guidance
+
+Where Codex excels
+
+"where". humans are good at noticing repeating patterns.
 
 ---

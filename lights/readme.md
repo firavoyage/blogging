@@ -163,6 +163,9 @@ _on the internet_
 - https://leerob.com/pixo
 - https://leerob.com/compression
 - https://leerob.com/ai
+- https://arstechnica.com/information-technology/2026/01/10-things-i-learned-from-burning-myself-out-with-ai-coding-agents/
+- https://openai.com/index/shipping-sora-for-android-with-codex/
+- Ask HN: Do you have any evidence that agentic coding works? https://news.ycombinator.com/item?id=46691243
 
 ### dev
 
