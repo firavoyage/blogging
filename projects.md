@@ -14,7 +14,7 @@ message/paste · todo · tabs/things · scratch pad · weekly/projects · notes
 
 <!-- bird: telegram -->
 
-<!-- egg: twitter -->
+<!-- egg: twitter (incl. mastodon, ...) -->
 
 <!-- grammatically: grammarly -->
 

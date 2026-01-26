@@ -129,8 +129,10 @@
     - innei innei.in app.folo.is mx-space.js.org lobechat.com
     - jjying jjying.com iconmoon.com
     - larrasket larr.net lr0.org
+    - hykilpikonna aza.moe
     - leongao leongao.com dribbble.com/leongao
     - lingdong huang lingdong.works wy-lang.org
+    - maigolabs maigo.dev
     - mugumogu maru
     - oooooohmygosh
     - pidanzhoujiala

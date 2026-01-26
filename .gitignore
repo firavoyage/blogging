@@ -1,1 +1,67 @@
+# =========================
+# Environment variables
+# =========================
 .zshrc.private
+.env
+.env.*
+!.env.example
+
+# =========================
+# Dependency directories
+# =========================
+node_modules/
+vendor/
+bower_components/
+
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+venv/
+.venv/
+env/
+ENV/
+pip-wheel-metadata/
+.pytest_cache/
+.mypy_cache/
+
+# =========================
+# Java
+# =========================
+*.class
+*.jar
+*.war
+*.ear
+hs_err_pid*
+
+# =========================
+# C / C++
+# =========================
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+
+# =========================
+# Go
+# =========================
+bin/
+pkg/
+
+# =========================
+# Rust
+# =========================
+target/
+
+# =========================
+# Ruby
+# =========================
+.bundle/
+vendor/bundle
+*.gem
