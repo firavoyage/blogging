@@ -270,16 +270,18 @@
     - endgame endgamebattlebot.com
     - funshiki
     - gaou
+    - gaozixiang cr
     - jueming mofei
     - ke jie
-    - li jiaqing
-    - liu yiyi
+    - lciop cr
+    - li jiaqing go
+    - liu yiyi go
     - longbow flintlock
     - muyu shuixin
     - ninalex12 asakawauniversityofscience
     - potetomj
     - share121 inter-knot
-    - shin jin-seo
+    - shin jin-seo go
     - student he studio
     - xiaoyao sanren
   - isekai
