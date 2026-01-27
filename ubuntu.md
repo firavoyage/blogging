@@ -422,6 +422,7 @@ sudo apt install gnome-shell-extension-prefs
   - editor: tab size `2 spaces`
   - workspace `off`
   - extensions: auto update `none`
+  - markdown>preview>breaks `on`
   - markdown>extension>theming>decoration:render code span `off`
   - markdown>extension>theming>syntax:decoration file size limit `50000000`
   - code-runner:run in terminal `on`
@@ -457,9 +458,10 @@ sudo apt install gnome-shell-extension-prefs
     - toggle problems panel `ctrl shift m`
     - toggle terminal panel `` ctrl `  ``
   - zoom perspective
+    - _shrink code (fold)_ `ctrl s`
     - _shirnk all (fold all)_ `ctrl shift s`
-    - _shrink code (fold)_ `ctrl s` `ctrl shift [`
-    - _expand code (unfold)_ `ctrl e` `ctrl shift ]`
+    - _expand code (unfold)_ `ctrl e`
+    - _expand code (unfold all)_ `ctrl alt e`
     - zoom in `ctrl +`
     - zoom out `ctrl -`
     - split screen `ctrl \`

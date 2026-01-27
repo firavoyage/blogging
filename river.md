@@ -323,6 +323,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `10` 2026.01.24
 - `11` 2026.01.25
 - `12` 2026.01.26
+- `13` 2026.01.27
 
 ## gaming
 
@@ -16353,3 +16354,97 @@ tualatrix first kid.
 the journey of life...
 
 ---
+
+就靠你们两个班拉其他4个班。其他都均分30几。
+
+后来校长叫我走动走动，不要做题。我就走了一圈。虽然最后也没有100，错了一道，忘了。
+
+---
+
+qiong: 你是高三狗! 你是没有人权的! 等到明年的这个时候, (嗔怪访者之喧扰).
+
+f: (笑)
+
+---
+
+```
+I built 18 autonomous agents to run my entire dev cycle in Claude Code
+Built with Claude
+I built 18 autonomous agents to run my entire dev cycle in Claude Code.
+
+After months of running parallel Claude Code sessions, I packaged my workflow into a plugin.
+
+If you try it, please let me know how it is.
+
+How it works:
+
+- /next-task - Pulls from GitHub issues → I pick a task → approve the plan → 18 agents take over (exploration, implementation, review, CI, Code review addressing, deploy)
+
+- /ship - Test validation → PR → review loop → deploy
+
+- /reality-check - Compares your plans/issues against actual code, finds drift, replans, and rephases the project.
+
+- /project-review - Multi-speicialist agents code review with fix iterations
+
+- /deslop-around - Removes console.logs, TODOs, AI slop
+
+Zero babysitting after plan approval. I run multiple sessions in parallel this way.
+
+In the marketplace, add avifenesh/awesome-slash
+
+Also possible with npm - npm install awesome-slash
+
+GitHub: https://github.com/avifenesh/awesome-slash
+
+Happy to get some questions and to hear from someone who tries.
+
+
+Upvote
+134
+
+Downvote
+
+93
+Go to comments
+
+
+Share
+Join the conversation
+Sort by:
+
+Best
+
+Search Comments
+Expand comment search
+Comments Section
+u/ClaudeAI-mod-bot avatar
+ClaudeAI-mod-bot
+MOD
+•
+9d ago
+•
+Stickied comment
+Mod
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+TL;DR generated automatically after 50 comments.
+
+The consensus is that this is an overengineered solution in search of a problem, and the community is not buying it. Most of the thread is a collective "pics or it didn't happen," demanding to see what valuable projects were actually built with this system.
+
+OP's initial vague answer about their projects was downvoted to oblivion. They later provided a more specific list, but the skepticism remained thick.
+
+The number "18" became a running joke, with many calling it excessive and questioning the need for that many agents.
+
+A few users defended the concept, explaining that it's about having a library of specialized agents for an orchestrator to use, not running 18 things at once.
+
+There's a small camp that thinks this is a cool glimpse into the future of dev work, but they agree that today's models aren't reliable enough to be trusted with this much autonomy.
+```
+
+---
+
+Discover more
+Sourced from across X
+
+(can i turn it off?)
+
+---
+

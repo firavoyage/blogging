@@ -1,4 +1,4 @@
-# $fira$ `elegance`
+$fira$ `elegance`
 
 ## .
 
@@ -125,17 +125,19 @@
     - google doodles doodles.google
     - growth.design
     - henri le chat noir
-    - himanshu-dixit himanshud.com composio.dev awesome-claude-skills 
+    - himanshu-dixit himanshud.com composio.dev awesome-claude-skills
+    - hykilpikonna aza.moe
     - innei innei.in app.folo.is mx-space.js.org lobechat.com
     - jjying jjying.com iconmoon.com
     - larrasket larr.net lr0.org
-    - hykilpikonna aza.moe
     - leongao leongao.com dribbble.com/leongao
     - lingdong huang lingdong.works wy-lang.org
+    - liuyi0922 61.life mdstudiohq
     - maigolabs maigo.dev
     - mugumogu maru
     - oooooohmygosh
     - pidanzhoujiala
+    - re-xyr dayli.ly
     - ryokun6 ryo.lu work.ryo.lu os.ryo.lu
     - shadcn shadcn.com
     - steve jobs apple
@@ -199,6 +201,7 @@
     - unixzii cyandev.app
     - wesbos wesbos.com javascript30.com
     - xiaoyaocz xiaoyaocz.com simplelive
+    - yusixian blog.cosine.ren/weekly
     - zhao-stanley stanleyzhao.com web.lab
   - education
     - angelnekochan
@@ -613,24 +616,17 @@
   - blender
   - cargo
   - cbonsai
-  - chromium | adguard
-  - chromium | authenticator
-  - chromium | bewlybewly
-  - chromium | simple-translate
-  - chromium | tampermonkey
-  - chromium | wakatime
-  - chromium | wayback-machine
   - chromium 124
+  - chromium.ublock-origin
+  - chromium.authenticator
+  - chromium.bewlybewly
+  - chromium.tampermonkey
+  - chromium.wayback-machine
   - clash-verge
   - code
-  - code | esbenp.prettier-vscode
-  - code | felicio.vscode-fold
-  - code | formulahendry.code-runner
-  - code | nathanchapman.javascriptsnippets
-  - code | rust-lang.rust-analyzer
-  - code | wakatime.vscode-wakatime
-  - code | xabikos.javascriptsnippets
-  - code | yzhang.markdown-all-in-one
+  - code.prettier
+  - code.code-runner
+  - code.wakatime
   - cowsay
   - fcitx
   - ffmpeg
