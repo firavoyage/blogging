@@ -324,6 +324,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `11` 2026.01.25
 - `12` 2026.01.26
 - `13` 2026.01.27
+- `14` 2026.01.28
 
 ## gaming
 
@@ -16445,6 +16446,121 @@ Discover more
 Sourced from across X
 
 (can i turn it off?)
+
+---
+
+```
+the loading screen is weird. the lobehub logo animation restarts several times. (filling the stroke halfway -> suddenly stop and refilling from start -> loop several times, like a flash)
+12:44 AM · Jan 28, 2026
+·
+303
+ Views
+View post engagements
+Replying to @firascript and @__oQuery
+
+No file chosen
+拾一.ens18
+@__oQuery
+·
+14h
+This is a problem caused by a large number of Suspense components in the current project, as we are doing too much code chunking in the Web, leading to the Suspense components loading progressively. In the Desktop version, I have basically removed the Suspense boundaries, so there should only be one complete Loading, and it loads very quickly.
+But this issue will be resolved after a complete migration to Vite, I promised.
+```
+
+btw, twitter ui is weird.
+
+"12:44 am", (not noon! it's actually midnight. 1:33am hovering 14h is right, but how to toggle 24h time fmt?)
+
+---
+
+on lobehub launch
+
+```
+fira
+@firascript
+·
+22m
+i mean "2025"
+fira
+@firascript
+·
+15h
+by model/by provider is stupid. i feel confused. in a word, lobehub is not polished.
+
+Rene Wang
+@rea1DonandTrump
+·
+14h
+This is intended for those who enabled multiple providers - don't worry we will fix this. Ty for flagging!
+fira
+@firascript
+·
+24m
+let's say, imagine you are a fresh user, could i know what does the they mean. a brain icon and a brain with a hand icon. what will happen if i click each? different kinds of view? sort by name/category(provider)? maybe something like that. see openrouter. idk.
+
+fira
+@firascript
+·
+16h
+the main page is noisy. i dont need to know you are on product hunt. i dont need to see community agents (chatgpt shows custom gpts in progressive disclosure). see manus: it popups when it's acquired, new version release. i think manus is stupid.
+拾一.ens18
+@**oQuery
+·
+15h
+@rea1DonandTrump
+fira
+@firascript
+·
+16h
+the loading screen is weird. the lobehub logo animation restarts several times. (filling the stroke halfway -> suddenly stop and refilling from start -> loop several times, like a flash)
+拾一.ens18
+@**oQuery
+·
+15h
+This is a problem caused by a large number of Suspense components in the current project, as we are doing too much code chunking in the Web, leading to the Suspense components loading progressively. In the Desktop version, I have basically removed the Suspense boundaries, so there should only be one complete Loading, and it loads very quickly.
+But this issue will be resolved after a complete migration to Vite, I promised.
+fira
+@firascript
+·
+16h
+the onboarding is too long. "the default models, mcp"... i could config them later. (first show the input bar. show some pro tips on the screen.) see github: create a repo -> connect to git, add readme tips after that, instead of blocking repo creation.
+拾一.ens18
+@\_\_oQuery
+·
+15h
+@canisminor1990
+fira
+@firascript
+·
+16h
+on the main page the imperative sentence is constantly changing. i could feel the vivid spirit throughout the product. but i dont think it's good to grab attention there. (trust vs control, focus vs guidance)
+leon7hao
+@leon7hao
+·
+6h
+太强了
+JasonDW
+@JasondDW
+·
+16h
+太强了，我是在 Vercel 部署的，性能提升非常明显，感谢！
+```
+
+---
+
+lciop:
+
+平衡性调整, 不是真的为了公平. 
+
+只是换口味.
+
+探索, 在这个月, 那些卡强势.
+
+不要镜像对决.
+
+下个月, 探索新的.
+
+为了公平不是游戏.
 
 ---
 

@@ -151,7 +151,7 @@ phone() {
   adb shell cmd media_session volume --stream 3 --set 0
 
 # Start scrcpy in background
-  scrcpy --fullscreen --turn-screen-off --power-off-on-close --screen-off-timeout=600 &
+  scrcpy --fullscreen --turn-screen-off --power-off-on-close --screen-off-timeout=600 --window-title "phone" &
 
 # Let scrcpy connect
   sleep 3

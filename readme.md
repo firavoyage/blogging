@@ -138,8 +138,10 @@ $fira$ `elegance`
     - oooooohmygosh
     - pidanzhoujiala
     - re-xyr dayli.ly
-    - ryokun6 ryo.lu work.ryo.lu os.ryo.lu
+    - rea1DonandTrump rene.wang detail.design ygeeker.com
+    - ryokun6 ryo.lu work.ryo.lu os.ryo.lu soundboard.ryo.lu
     - shadcn shadcn.com
+    - spottedinprod spottedinprod.com
     - steve jobs apple
     - tenthousandyes
     - tim mediastorm
@@ -151,6 +153,7 @@ $fira$ `elegance`
   - code & creation
     - adamwathan adamwathan.me tailwindcss.com
     - anomalyco anoma.ly opencode.ai opentui.com models.dev
+    - arvin17x lobehub.com
     - bradwoods bradwoods.io garden.bradwoods.io
     - chriscoyier css-tricks.com codepen.io chriscoyier.net
     - codingstartup
@@ -171,6 +174,7 @@ $fira$ `elegance`
     - jiongks jiongks.name jinjiang.me
     - joshwcomeau joshwcomeau.com
     - juliangarnier juliangarnier.com animejs.com
+    - kepano stephango.com stephango.com/projects obsidian.md
     - kk_shinkai sumink.com
     - krahets hello-algo.com
     - kuviman kast-lang.org linksider
@@ -184,6 +188,7 @@ $fira$ `elegance`
     - luvletter2333 haruhi_smith nekox nagramx
     - lyricat lyric.im
     - matrixcascade dbinary painterengine.com
+    - moxie signal.org
     - nat friedman nat.org github
     - newlearnerchannel
     - ornicar lichess.org
@@ -196,6 +201,7 @@ $fira$ `elegance`
     - samuelqzq qzq.at
     - simonwillison simonwillison.net
     - steipete steipete.me clawd.bot
+    - swyxio swyx.io/ideas latent.space dx.tips learninpublic.org
     - timqian timqian.com
     - tualatrix imtx.me poptranslate.app manico.im pastenow.app
     - unixzii cyandev.app
