@@ -192,19 +192,15 @@ export BUN_INSTALL="$HOME/.bun"
 export PATH="$BUN_INSTALL/bin:$PATH"
 
 # pnpm
-export PNPM_HOME="/home/fira/.local/share/pnpm"
-case ":$PATH:" in
-  *":$PNPM_HOME:"*) ;;
-  *) export PATH="$PNPM_HOME:$PATH" ;;
-esac
-# pnpm end
+export PNPM_HOME="$HOME/.local/bin"
+export PATH="$PNPM_HOME:$PATH"
 
 # ================================
 # Aliases
 # ================================
 
 alias npm='sudo npm'
-alias pnpm='sudo pnpm'
+# alias pnpm='sudo pnpm'
 alias apt='sudo apt -y'
 
 # ================================

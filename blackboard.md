@@ -131,12 +131,17 @@
   - dec
     - fira `328 a 91 d 123 a+ 114 b+`
     - on 20251112 20251113 20251114
+    - fira `33 d 25 d 32 e`
+    - around christmas
   - spuee (spring university entrance exam)
     - fira `354 a (11.7%, #8196) 107 120 127`
     - jiang zhijun `376 114 132 a+#1 130`
     - yao xinyi `362 . 130 a+#3 .`
     - xia chuyun `334 100 107 127`
     - 2026.01.03 2026.01.04 2026.01.05
+  - first mock
+    - fira `32 c- 25 d 41 d`
+    - in mid jan
 
 ## jhs fin (hs entrance exam)
 

@@ -9,9 +9,11 @@
   ],
   "settings": {
     "files.exclude": {
+      "**/node_modules/**": true,
       "**/legacy/**": true
     },
     "search.exclude": {
+      "**/node_modules/**": true,
       "**/legacy/**": true
     }
   }

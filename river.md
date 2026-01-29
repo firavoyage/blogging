@@ -325,6 +325,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `12` 2026.01.26
 - `13` 2026.01.27
 - `14` 2026.01.28
+- `15` 2026.01.29
 
 ## gaming
 
@@ -14356,9 +14357,9 @@ determination. (weird but looks like something)
 
 story telling. (maybe arousing)
 
-fira's version.
+fira's version:
 
-school (philistine and abusing teachers, small potatoes, sadness, no hope)
+school (philistine and tart teachers, small potatoes, sadness, no hope)
 
 myself. (i dont wanna comply.)
 

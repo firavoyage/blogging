@@ -67,10 +67,11 @@ $fira$ `elegance`
 > if you ever miss me, just close your eyes. and maybe i'll appear in your dreams.
 
 - fira 💖, she/her (🏳️‍⚧️ ✖️ 🍥 ✖️), 🇬🇧 ✔️, 🇨🇳 ❔, 🇯🇵 ✖️, 🇫🇷 ✖️
-
 - a developer, content creator, wikipedian
 - grew up in shanghai
 - on the internet since 2019, which is my actual "home town"
+
+<!-- I'm an otaku fascinated within her own world, believing existentialism, cynicism (daoism), determinism, and accelerationism, always overthinking and overengineering, lost herself in curiosity. -->
 
 ## desiderata
 
@@ -120,6 +121,7 @@ $fira$ `elegance`
     - dingyi ding.one dexlist.page news.dex.group dex-group.ghost.io dex.zhubai.love quaily.com/dingyi
     - extraordinary extraordinary.com
     - fenxer design scenes fenx.work
+    - fradser frad.me
     - ftium4 ftium4.com ux weekly
     - georgehastings georgehastings.com unicode.studio
     - google doodles doodles.google
@@ -129,8 +131,10 @@ $fira$ `elegance`
     - hykilpikonna aza.moe
     - innei innei.in app.folo.is mx-space.js.org lobechat.com
     - jjying jjying.com iconmoon.com
+    - karrisaarinen linear.app
     - larrasket larr.net lr0.org
     - leongao leongao.com dribbble.com/leongao
+    - linandliwoodworks
     - lingdong huang lingdong.works wy-lang.org
     - liuyi0922 61.life mdstudiohq
     - maigolabs maigo.dev
@@ -140,10 +144,12 @@ $fira$ `elegance`
     - re-xyr dayli.ly
     - rea1DonandTrump rene.wang detail.design ygeeker.com
     - ryokun6 ryo.lu work.ryo.lu os.ryo.lu soundboard.ryo.lu
+    - sdw sdw.space
     - shadcn shadcn.com
     - spottedinprod spottedinprod.com
     - steve jobs apple
     - tenthousandyes
+    - thexclu clu.so CapWords.app
     - tim mediastorm
     - tonsky tonsky.me
     - wengtianxin dandyweng.com blog.dandyweng.com camarts.app
@@ -152,6 +158,7 @@ $fira$ `elegance`
     - yuanchuan yuanchuan.dev
   - code & creation
     - adamwathan adamwathan.me tailwindcss.com
+    - andrewgy8 andrewgy8.github.io/hnarcade/
     - anomalyco anoma.ly opencode.ai opentui.com models.dev
     - arvin17x lobehub.com
     - bradwoods bradwoods.io garden.bradwoods.io
@@ -210,7 +217,6 @@ $fira$ `elegance`
     - yusixian blog.cosine.ren/weekly
     - zhao-stanley stanleyzhao.com web.lab
   - education
-    - angelnekochan
     - ayumu maki-math.com
     - grant sanderson 3blue1brown.com
     - hzwer hzwer.com
@@ -223,6 +229,7 @@ $fira$ `elegance`
     - menci lcmenci men.ci loj.ac oi.wiki
     - nayuki nayuki.io
     - one math
+    - paulg paulgraham.com
     - probiusofficial hello-ctf.com
     - qingyu qoj.ac
     - que_tourist gennady korotkevich codeforces
@@ -297,6 +304,7 @@ $fira$ `elegance`
     - xiaoyao sanren
   - isekai
     - acetaffy812 echo spade
+    - angelnekochan
     - bingtangio
     - chtholly nota seniorious
     - falstaff duolingo
@@ -407,6 +415,7 @@ $fira$ `elegance`
   - indie game: the movie (2012)
   - fight club (1999)
   - the good, the bad and the ugly (1966)
+  - her (2013)
   - .the disappearance of haruhi suzumiya (2010)
   - .bocchi the rock! recap part 1 (2024)
 - series
