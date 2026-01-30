@@ -179,23 +179,6 @@ phone() {
 }
 
 # ================================
-# Environment
-# ================================
-
-export PATH="$HOME/.local/bin:$PATH"
-
-# opencode
-export PATH=/home/fira/.opencode/bin:$PATH
-
-# bun
-export BUN_INSTALL="$HOME/.bun"
-export PATH="$BUN_INSTALL/bin:$PATH"
-
-# pnpm
-export PNPM_HOME="$HOME/.local/bin"
-export PATH="$PNPM_HOME:$PATH"
-
-# ================================
 # Aliases
 # ================================
 
@@ -230,3 +213,25 @@ fi
 export HTTP_PROXY="http://127.0.0.1:7890"
 export HTTPS_PROXY="http://127.0.0.1:7890"
 export ALL_PROXY="socks5://127.0.0.1:7890"
+
+# ================================
+# Environment
+# ================================
+
+export PATH="$HOME/.local/bin:$PATH"
+
+# opencode
+export PATH=/home/fira/.opencode/bin:$PATH
+
+# bun
+export BUN_INSTALL="$HOME/.bun"
+export PATH="$BUN_INSTALL/bin:$PATH"
+
+# pnpm
+export PNPM_HOME="$HOME/.local/bin"
+export PATH="$PNPM_HOME:$PATH"
+
+# nvm
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
