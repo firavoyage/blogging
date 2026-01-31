@@ -150,6 +150,7 @@ $fira$ `elegance`
     - ryokun6 ryo.lu work.ryo.lu os.ryo.lu soundboard.ryo.lu
     - sdw sdw.space
     - shadcn shadcn.com
+    - shuding shud.in
     - spottedinprod spottedinprod.com
     - steve jobs apple
     - tenthousandyes

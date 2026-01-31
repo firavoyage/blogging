@@ -21,7 +21,7 @@ HISTFILE=~/.zsh_history
 
 # Use modern completion system
 autoload -Uz compinit
-compinit
+compinit -C
 
 zstyle ':completion:*' auto-description 'specify: %d'
 zstyle ':completion:*' completer _expand _complete _correct _approximate
@@ -182,7 +182,6 @@ phone() {
 # Aliases
 # ================================
 
-alias npm='sudo npm'
 # alias pnpm='sudo pnpm'
 alias apt='sudo apt -y'
 
@@ -233,5 +232,14 @@ export PATH="$PNPM_HOME:$PATH"
 
 # nvm
 export NVM_DIR="$HOME/.nvm"
-[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
-[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+
+_nvm_loaded=0
+
+_preload_nvm() {
+  (( _nvm_loaded )) && return
+  _nvm_loaded=1
+  [ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh"
+}
+
+autoload -Uz add-zsh-hook
+add-zsh-hook preexec _preload_nvm

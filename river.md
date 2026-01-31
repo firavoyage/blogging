@@ -327,6 +327,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `14` 2026.01.28
 - `15` 2026.01.29
 - `16` 2026.01.30
+- `17` 2026.01.31
 
 ## gaming
 
@@ -16227,7 +16228,7 @@ just ads... blocked.
 
 i could not justify chinese education. and no one really could.
 
-but i wont say something. not for the censorship. but, 
+but i wont say something. not for the censorship. but,
 
 from the scarcity and the massive population, there definitely will be a lot of people not getting well paid, while being (somewhat decently) educated, learning a lot of (not all) useless knowledge, who must believe that's right for the stability of the country, which overpowers any human right of anyone, due to the patriotism education. even some of them, even from a poor background, are wise enough to get rid and get beyond, without going on the normal and boring path. most of them wont. that's what mediocrity/ordinarity/philistine means. that's stats.
 
@@ -16238,7 +16239,7 @@ as one who believes existentialism, determinism, (maybe cynicism, and acceration
 
 anaylzing, the education in the underdeveloped areas is not a gamble. even if you go to one of the top universities, it does not worth. you learn more. you do better in a competition. but life is not a competition. the world is not, either. holding more unrelated knowledge does not mean you could do something you could not previously, and dots dont necessarily connect in the future.
 
-the education system is selecting people more than (or instead of) educating. 
+the education system is selecting people more than (or instead of) educating.
 
 more grounded, i will claim
 
@@ -16320,7 +16321,7 @@ twitter 上有许多, 抑郁, 吃药, 吃糖, 吃盐. fira 没有. fira 于是�
 
 有许多学历, 公司, 都是这个世界上最好的. 每一个最好的地方都有成千或者上万人, 有许多善于社交的也不意外. 她们应该比 fira 高贵, 但 fira 也说不上高贵在哪里.
 
-中国有许多外卖员. fira 显然比他们高贵. 不敢说所有的. 但是上年纪的外卖员, fira 肯定高贵. 高贵在生命力与可能性. 
+中国有许多外卖员. fira 显然比他们高贵. 不敢说所有的. 但是上年纪的外卖员, fira 肯定高贵. 高贵在生命力与可能性.
 
 ---
 
@@ -16358,9 +16359,9 @@ the journey of life...
 
 ---
 
-就靠你们两个班拉其他4个班。其他都均分30几。
+就靠你们两个班拉其他 4 个班。其他都均分 30 几。
 
-后来校长叫我走动走动，不要做题。我就走了一圈。虽然最后也没有100，错了一道，忘了。
+后来校长叫我走动走动，不要做题。我就走了一圈。虽然最后也没有 100，错了一道，忘了。
 
 ---
 
@@ -16552,7 +16553,7 @@ JasonDW
 
 lciop:
 
-平衡性调整, 不是真的为了公平. 
+平衡性调整, 不是真的为了公平.
 
 只是换口味.
 
@@ -16563,6 +16564,41 @@ lciop:
 下个月, 探索新的.
 
 为了公平不是游戏.
+
+---
+
+on clawdbot.
+
+im on ubuntu. and it mentions "homebrew"?
+
+idk.
+
+---
+
+Menci 💖
+@lcMenci
+
+得到了 MS 内部 relocation to Redmond 的机会
+但是自己反而…不想走…又觉得不去好浪费机会…
+
+4:54 AM · Jan 30, 2026 · 11.4K Views
+
+(fira: does she sleep... or she already wakes up.)
+
+\*不考虑绿卡什么的，不想移民美国是确定的
+11:45 AM · Jan 30, 2026
+
+---
+
+the family is too cautious and conservative.
+
+confirming everything (passing qualification exams, filling forms, graduate, being accepted by the outer world). 
+
+they want things to work. they dont want to take risk, or be desperate to succeed.
+
+"care nothing. just follow my heart."
+
+"不必关心. 一切最终都会顺遂心意. 因为 fira 的阶层足够."
 
 ---
 
