@@ -618,7 +618,7 @@ $fira$ `elegance`
   - douban · imdb · bangumi.tv · my anime list · bgmlist · mikan project · nyaa.si · dmhy.org · zimuku · yuc.wiki
   - pixiv · dribbble · deviantart · civitai · unsplash
   - aops · oeis · igdb · metacritic · spotify · pianotify
-  - e hentai · archiveofourown · cnblogs · qq zone · acfun · shireyishunjian · acgn.zone
+  - e hentai · archiveofourown · cnblogs · qq zone · acfun
   - steam db · itch.io · google doodles · vndb · shinnku galgame · kungal · touchgal
   - codeforces · atcoder · luogu · libre oj · project euler
   - travel.moe · travellings.cn · foreverblog.cn · acmer.info
