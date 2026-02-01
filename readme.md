@@ -165,6 +165,7 @@ $fira$ `elegance`
     - adamwathan adamwathan.me tailwindcss.com
     - andrewgy8 andrewgy8.github.io/hnarcade/
     - anomalyco anoma.ly opencode.ai opentui.com models.dev
+    - apersongithub apersongithub.github.io/portfolio duolingo-unlimited-hearts
     - arvin17x lobehub.com
     - bradwoods bradwoods.io garden.bradwoods.io
     - chriscoyier css-tricks.com codepen.io chriscoyier.net
@@ -240,6 +241,7 @@ $fira$ `elegance`
     - shiffman thecodingtrain.com
     - su dekuang zju
     - whynottv1999 tairanhe.com
+    - yu ming shu zhihu qed.moe yaru.io
     - yxc acwing.com
   - journalism
     - cdtchinese chinadigitaltimes.net
@@ -292,18 +294,19 @@ $fira$ `elegance`
     - endgame endgamebattlebot.com
     - funshiki
     - gaou
-    - gaozixiang cr
+    - gaozixiang
+    - gmhikaru
     - jueming mofei
     - ke jie
-    - lciop cr
-    - li jiaqing go
-    - liu yiyi go
+    - lciop
+    - li jiaqing
+    - liu yiyi
     - longbow flintlock
     - muyu shuixin
     - ninalex12 asakawauniversityofscience
     - potetomj
     - share121 inter-knot
-    - shin jin-seo go
+    - shin jin-seo
     - student he studio
     - xiaoyao sanren
   - isekai
@@ -942,8 +945,8 @@ fira is a font from mozilla.
   - foxwq `firascript` `李烨炀本物`
   - lichess `firascript`
   - chess.com `firascript`
-  - duolingo `firavoyage`
-- - youtube `firavoyage`
+  - duolingo `firahq` `firavoyage`
+- - youtube `thefirahq`
   - twitch `preciouschin`
   - berryberry `一番のFira` (legacy: `Fira_言序`) `1156993272` `bili_26837222900`
   - douyin `firavoyage`
@@ -952,7 +955,7 @@ fira is a font from mozilla.
 - - twitter `firahq` ~~`firascript`~~
   - telegram `firavoyage`
   - reddit `u/firascript`
-  - zhihu `firavoyage`
+  - zhihu `firahq`
   - v2ex `voy`
   - bangumi.tv `firavoyage`
   - mastodon `firavoyage@mastodon.social` `fira@techhub.social`

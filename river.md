@@ -328,6 +328,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `15` 2026.01.29
 - `16` 2026.01.30
 - `17` 2026.01.31
+- `18` 2026.02.01
 
 ## gaming
 
@@ -16601,4 +16602,34 @@ they want things to work. they dont want to take risk, or be desperate to succee
 "不必关心. 一切最终都会顺遂心意. 因为 fira 的阶层足够."
 
 ---
+
+
+### feb 2026
+
+the second one finding me throught git!!!!!
+
+(the first one is from my github issue comment on chromium new ui, where im strongly against the flat and not efficient ui of google material 3, which finally leads to snap revert chromium.)
+
+5546216580
+
+"Credo quia absurdum est"
+
+(no personal channel / id. could not google her info.)
+
+```
+Ivan Eisenberg, [2/1/26 1:38 AM]
+Hi. Are you a real person?
+
+Ivan Eisenberg, [2/1/26 1:38 AM]
+
+
+Ivan Eisenberg, [2/1/26 1:40 AM]
+I accidentally ran into your gitea, it looks pretty weird, but also impressive
+
+Ivan Eisenberg, [2/1/26 1:41 AM]
+It's kind of weird that you keep all your info out there like that
+```
+
+---
+
 

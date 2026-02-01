@@ -6,29 +6,11 @@
 
 ### WTF moment: Why my native OS refuses to return a "True" value.
 
-[
+[![Suggger's avatar](https://substackcdn.com/image/fetch/$s_!Ac4X!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc467580c-2d29-42fb-99f2-d4a31a12ae50_1080x1078.jpeg)](https://substack.com/@suggger) [SUGGGER](https://substack.com/@suggger)
 
-![Suggger's avatar](https://substackcdn.com/image/fetch/$s_!Ac4X!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc467580c-2d29-42fb-99f2-d4a31a12ae50_1080x1078.jpeg)
+DEC 10, 2025 15 13 Share 🔴
 
-](https://substack.com/@suggger)
-
-[SUGGGER](https://substack.com/@suggger)
-
-DEC 10, 2025
-
-15
-
-13
-
-Share
-
-🔴
-
-[
-
-![](https://substackcdn.com/image/fetch/$s_!DBko!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb35e9733-cc43-4cf0-87dc-4226d22a56cd_715x312.png)
-
-](https://substackcdn.com/image/fetch/$s_!DBko!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb35e9733-cc43-4cf0-87dc-4226d22a56cd_715x312.png)
+[![](https://substackcdn.com/image/fetch/$s_!DBko!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb35e9733-cc43-4cf0-87dc-4226d22a56cd_715x312.png)](https://substackcdn.com/image/fetch/$s_!DBko!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb35e9733-cc43-4cf0-87dc-4226d22a56cd_715x312.png)
 
 ### **The Glitch**
 
