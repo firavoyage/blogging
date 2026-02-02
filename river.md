@@ -329,6 +329,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `16` 2026.01.30
 - `17` 2026.01.31
 - `18` 2026.02.01
+- `19` 2026.02.02
 
 ## gaming
 
@@ -16593,7 +16594,7 @@ Menci 💖
 
 the family is too cautious and conservative.
 
-confirming everything (passing qualification exams, filling forms, graduate, being accepted by the outer world). 
+confirming everything (passing qualification exams, filling forms, graduate, being accepted by the outer world).
 
 they want things to work. they dont want to take risk, or be desperate to succeed.
 
@@ -16603,6 +16604,21 @@ they want things to work. they dont want to take risk, or be desperate to succee
 
 ---
 
+Duolingo cn and com (on firefox android) don't really share the accounts, at least on the web login. I should have registered the global one. And seems it doesn't support music and chess for my legacy modded version. Holyshit.
+
+Play Duolingo. Explore new languages. Intermediate English is not really hard, why not integrate TOEFL IELTS...
+
+upd: login on laptop successfully. idk.
+
+---
+
+少一些, 多一些, 也不想.
+
+比校园监狱里的少做一些.
+
+比休学在家中的多做一些.
+
+也不想成为很厉害的人. showmanship 太重.
 
 ### feb 2026
 
@@ -16632,4 +16648,40 @@ It's kind of weird that you keep all your info out there like that
 
 ---
 
+vite hot reload is good.
 
+---
+
+im not gonna change me chess username to firahq.
+
+(currently firascript on both lichess and chess.com)
+
+chess.com onboarding is good.
+
+(like duolingo. designed. polished. "choose your coach" "choose your board style")
+
+---
+
+with Personalize Search off im still seeing "results for {area}" today.
+
+when i visit the setting and refresh the search it suddenly shows "cant determine location"
+
+what the hell.
+
+---
+
+what happened on 1989.06.04 in china
+
+tinyllama:
+
+```
+On June 4, 1989, in China, the Beijing Olympic Games were officially inaugurated, kicking off a period of reform and opening up for the People's Republic of China. This was a significant moment in Chinese history as it marked the end of its long-standing one-party system and ushered in a new era of democracy, socialism with Chinese characteristics, and international recognition. The Olympics were also seen as a symbol of China's growing international standing and importance on the world stage.
+
+Overall, the Beijing Olympic Games represented a significant turning point for China and its people, paving the way for further economic, political, and social reforms in the country. It was a defining moment in Chinese history that would shape the course of the country's development into one of the world's most prosperous and influential nations.
+```
+
+fantasy of humility...
+
+absolute cinema.
+
+---

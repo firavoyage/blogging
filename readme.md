@@ -73,6 +73,8 @@ $fira$ `elegance`
 
 <!-- I'm an otaku fascinated within her own world, believing existentialism, cynicism (daoism), determinism, and accelerationism, always overthinking and overengineering, lost herself in curiosity. -->
 
+<!-- I love to decide, to organize, and to simplify. -->
+
 ## desiderata
 
 > _all good things_
@@ -131,9 +133,10 @@ $fira$ `elegance`
     - himanshu-dixit himanshud.com composio.dev awesome-claude-skills
     - hykilpikonna aza.moe
     - innei innei.in app.folo.is mx-space.js.org lobechat.com
+    - james406 posthog posthog.com
     - jjying jjying.com iconmoon.com
     - joakimjansson theindexwebsite theindex.website
-    - karrisaarinen linear.app
+    - karrisaarinen karrisaarinen.com linear.app
     - larrasket larr.net lr0.org
     - leongao leongao.com dribbble.com/leongao
     - linandliwoodworks
@@ -153,6 +156,7 @@ $fira$ `elegance`
     - shuding shud.in
     - spottedinprod spottedinprod.com
     - steve jobs apple
+    - taroleohearts leohearts.com
     - tenthousandyes
     - thexclu clu.so capwords.app
     - tim mediastorm
@@ -235,6 +239,7 @@ $fira$ `elegance`
     - nayuki nayuki.io
     - one math
     - paulg paulgraham.com
+    - pkuflyingpig csdiy
     - probiusofficial hello-ctf.com
     - qingyu qoj.ac
     - que_tourist gennady korotkevich codeforces

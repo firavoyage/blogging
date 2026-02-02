@@ -79,3 +79,39 @@ precious, [1/26/26 10:55 PM]
 [Termination "firascript won by resignation"]
 1. e4 e5 2. Nc3 d5 3. exd5 Nf6 4. Nf3 Nbd7 5. d4 Bb4 6. a3 Bd6 7. Bb5 b6 8. dxe5
 a6 9. exd6 axb5 10. Nxb5 cxd6 11. Nxd6+ Ke7 12. Bf4 Bb7 13. Nxb7 Qc7 14. Bxc7 1-0
+
+precious, [2/2/26 1:22 PM]
+[Event "Ryastyapa vs firascript"]
+[Site "Chess.com"]
+[Date "2026-02-02"]
+[White "Ryastyapa"]
+[Black "firascript"]
+[Result "1-0"]
+[WhiteElo "275"]
+[BlackElo "213"]
+[TimeControl "600"]
+[Termination "Ryastyapa won on time"]
+1. e4 e5 2. Nf3 d6 3. Bc4 Nd7 4. Nc3 Ne7 5. d4 f6 6. Kf1 b6 7. Bg5 h6 8. h4 hxg5
+9. Ke2 g4 10. Ng5 fxg5 11. hxg5 Ng6 12. dxe5 Qxg5 13. Nb5 Kd8 14. exd6 cxd6 15.
+e5 Ngxe5 16. Qd5 Rb8 17. Nxa7 Bb7 18. Qxe5 Nxe5 19. Rad1 Rxh1 20. Rxh1 Nxc4 21.
+Rh8 Qe5+ 22. Kf1 Bxg2+ 23. Kxg2 Qe4+ 24. f3 gxf3+ 25. Kf2 Qe3+ 26. Kg3 1-0
+
+precious, [2/2/26 1:53 PM]
+[Event "PatrickBrophy5 vs firascript"]
+[Site "Chess.com"]
+[Date "2026-02-02"]
+[White "PatrickBrophy5"]
+[Black "firascript"]
+[Result "0-1"]
+[WhiteElo "159"]
+[BlackElo "243"]
+[TimeControl "900+10"]
+[Termination "firascript won by resignation"]
+1. e4 d6 2. Nf3 e6 3. Nc3 Nd7 4. d4 Ne7 5. Bb5 g6 6. Bg5 h6 7. Bf4 h5 8. O-O Bg7
+9. e5 a6 10. Bc4 O-O 11. Qd3 b6 12. Rae1 Bb7 13. exd6 cxd6 14. Bxd6 Rc8 15. d5
+Nxd5 16. Bxd5 Bxd5 17. Nd4 Bc4 18. Qe4 Re8 19. Be5 Nxe5 20. Nf3 Nxf3+ 21. Qxf3
+Bxc3 22. Qxc3 Bxf1 23. Kxf1 Rxc3 24. bxc3 Qd2 25. g4 hxg4 26. c4 Qxc2 27. Re2
+Qxc4 28. h4 Rd8 29. Kg2 Qxe2 0-1
+
+precious, [2/2/26 1:53 PM]
+10 is too fast for thinkers. 15/10 is better.

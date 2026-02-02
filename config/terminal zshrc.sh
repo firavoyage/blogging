@@ -219,6 +219,10 @@ export ALL_PROXY="socks5://127.0.0.1:7890"
 
 export PATH="$HOME/.local/bin:$PATH"
 
+# ollama
+
+export OLLAMA_HOST=127.0.0.1:11434
+
 # opencode
 export PATH=/home/fira/.opencode/bin:$PATH
 
