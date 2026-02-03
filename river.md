@@ -330,6 +330,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `17` 2026.01.31
 - `18` 2026.02.01
 - `19` 2026.02.02
+- `20` 2026.02.03
 
 ## gaming
 
@@ -16685,3 +16686,68 @@ fantasy of humility...
 absolute cinema.
 
 ---
+
+tg desktop and ayugram copy msgs in different ways.
+
+tg desktop:
+
+```
+Ivan Eisenberg, [2/2/26 5:55 PM]
+like, you didn't answer where do you study …
+```
+
+ayugram:
+
+```
+Ivan Eisenberg:
+like, you didn't answer where do you study …
+```
+
+btw, on ayugram, you have ghost mode: not sending online/typing/read. and you could view deleted msgs.
+
+and ayugram does not copy images as blank msgs. (it just omits.)
+
+maybe i should use tg's built in msgs export. but... it's not one plain text (json incl.) file, not complying the unix philosophy. 
+
+---
+
+on chatgpt if you type the input is focused and the first letter is on.
+
+(has some issue with fcitx: fcitx only knows from the second letter)
+
+on gemini, it does not.
+
+upd: on gemini when i click "create an image" i could not go back and ask a general text to text question without reloading.
+
+---
+
+a license.
+
+im the law.
+
+anyone could not do anything without my permission. although actually you could as i dont have access to what you are doing, and things are open.
+
+one must believe me before doing anything. killing people, selling drugs, whatever.
+
+even if some seem to exist as anti, they are in fact my believers once they go here, since in the real world there are ignorant humans.
+
+go ahead. accelerate the history.
+
+inspired by "do what the fuck you wanna do license"
+
+(for simplicity, i will be still using cc0 public domain. one line.)
+
+---
+
+qwen: 0.7b.
+
+```
+User: what are the countries of internet censorship. give me a list.
+
+Assistant: Some countries that have implemented internet censorship include: 1. China: The Chinese government has implemented a system called "Freedom of Information". It allows individuals to access and share information. 2. Russia: In 2014, the Russian government decided to limit access to the internet for all citizens, including those who are living in remote areas or have mental health issues. 3. Austria: In 2018, the Austrian government decided to limit access to the internet for all citizens, including those who are living in remote areas or have mental health issues. It's worth noting that while there may be some restrictions on internet use in certain countries, the level of censorship varies widely across different countries.
+```
+
+(ive updated the js to tinyllama. seems the server does not restart when running the code again.)
+
+---
+

@@ -14,7 +14,7 @@ make knowledge pure
 
 `para`
 
-read.
+> read.
 
 see
 
@@ -44,7 +44,7 @@ inspired by
 
 `eat`
 
-digest.
+> digest.
 
 method
 
@@ -91,7 +91,7 @@ inspired by
 
 `float`
 
-listen in solitude.
+> listen in solitude.
 
 solitude
 
@@ -117,7 +117,7 @@ inspired by
 
 `streaming`
 
-watch.
+> watch.
 
 source
 
@@ -160,7 +160,7 @@ inspired by
 
 <!-- Grow. Archive instead of retweet. "如何让初音未来永远被记住" -->
 
-archive anything
+> archive anything
 
 essay
 
@@ -190,17 +190,21 @@ archive.org
 
 `firefoxium`
 
-firefox polished.
+> firefox polished.
 
 <!-- chrome backend with more freedom is way harder. backend is complex. -->
 
-## organize
+## think
 
 `all`
 
-> world goods list: plain filter over promotional recommendation engine
->
-> internet treasure hunting guide curated by human
+> organize. see through.
+
+<!--
+world goods list: plain filter over promotional recommendation engine
+
+internet treasure hunting guide curated by human
+ -->
 
 <!-- all (awesome): worldly beauty (indulgence), v. (verb) -->
 
@@ -279,6 +283,8 @@ categorized
 
 `see`
 
+> chat.
+
 <!-- chat -->
 
 chat with llms in a decent ui (chat elegantly)
@@ -298,9 +304,20 @@ navigation
 
 - naming inspired by grok.
 
+`leisure: dict`
+
+> look up.
+
+inspired by
+
+- golden dict
+- jisho
+
 `leisure`
 
-> simplicity of memorization | "自在"
+> learn languages.
+
+<!-- simplicity of memorization | "自在" -->
 
 comprehensive grammar book
 
@@ -368,9 +385,9 @@ inspired by
 - shanbay
 - paperback wordbooks
 
-`leisurejp`
+`leisure:jp`
 
-> japanese from zero to mastery by leisure production
+<!-- > japanese from zero to mastery by leisure production -->
 
 characters
 
@@ -444,7 +461,9 @@ inspired by
 
 `pure`
 
-> one's desired math courses "纯度"
+> learn science.
+
+<!-- > one's desired math courses "纯度" -->
 
 wiki
 
@@ -485,7 +504,9 @@ inspired by
 
 `intuitive`
 
-> beautifully advance
+> learn to create.
+
+<!-- > beautifully advance -->
 
 wiki
 
@@ -528,15 +549,19 @@ inspired by
 
 `glaze`
 
+> a sweeter rust
+
 ## create
 
 `humility`
+
+> get help.
 
 an agent
 
 `pre`
 
-present.
+> present.
 
 auto page split from an article
 
@@ -582,7 +607,9 @@ inspired by
 
 `board`
 
-vivid thoughts
+> show.
+
+<!-- vivid thoughts -->
 
 present
 
@@ -625,11 +652,11 @@ inspired by
 
 `material`
 
+> draw. edit.
+
 edit images.
 
-.
-
-- 溶解: 将不应存在的内容, 溶解在背景中, 一点不多, 一点不少. mosaic 会保留, 涂鸦会增添.
+<!-- - 溶解: 将不应存在的内容, 溶解在背景中, 一点不多, 一点不少. mosaic 会保留, 涂鸦会增添. -->
 
 template
 
@@ -672,7 +699,11 @@ inspired by
 
 `gen`
 
-procedurally generated art, reason in arts
+> generate. reason.
+
+<!-- procedurally generated art, reason in arts -->
+
+<!-- deterministic random -->
 
 theory
 
@@ -702,6 +733,8 @@ inspired by
 
 `bird`
 
+> message.
+
 inspired by
 
 - telegram
@@ -710,6 +743,8 @@ inspired by
 
 `egg`
 
+> follow. broadcast.
+
 inspired by
 
 - twitter
@@ -717,6 +752,8 @@ inspired by
 - bluesky?
 
 `human`
+
+> know.
 
 <!-- shin nin -->
 
@@ -731,9 +768,13 @@ inspired by
 
 a userscript
 
+## play
+
 `fatefairy`
 
-> stardew valley: fate fairy, a single player self moving chess
+> self moving chess.
+
+<!-- > stardew valley: fate fairy, a single player self moving chess -->
 
 game
 
@@ -749,7 +790,9 @@ inspired by
 
 `vtbsol`
 
-> (notice that it's ol, not irl) vtubers online, a rts tower defence game
+> arena.
+
+<!-- > (notice that it's ol, not irl) vtubers online, a rts tower defence game -->
 
 modes
 
@@ -768,17 +811,7 @@ ace taffy
 - produce flying taffy akachan
 - increase def while being attacked
 
-taffy a
-
-taffy b
-
-taffy c
-
-taffy d
-
-taffy e
-
-taffy f
+taffy a b c d e f
 
 senren akuma
 
@@ -821,7 +854,9 @@ inspired by
 
 `kivodef`
 
-> tower defence in blue archive
+> tower defence.
+
+<!-- > tower defence in blue archive -->
 
 contribute
 
@@ -835,7 +870,9 @@ inspired by
 
 `nebulae`
 
-> js in scratch
+> simpler scratch
+
+<!-- > js in scratch -->
 
 keyboard shortcuts
 
@@ -866,7 +903,7 @@ inspired by
 
 `genshinpvp`
 
-> moba game in genshin characters
+> moba.
 
 inspired by
 
@@ -875,7 +912,9 @@ inspired by
 
 `chess`
 
-> lichess with coach and tutorial
+> learn chess.
+
+<!-- > lichess with coach and tutorial -->
 
 form
 
@@ -889,7 +928,9 @@ inspired by
 
 `go`
 
-> go tutorial and go coach
+> learn go.
+
+<!-- > go tutorial and go coach -->
 
 guide
 
@@ -907,25 +948,15 @@ inspired by
 - chess.com
 - lichess
 
-`kardsol`
+`carte`
 
-> kards on web, fully free 2 play
-
-ai
+> card game.
 
 inspired by
 
 - nulls royale
-
-`svol`
-
-> shadowverse on web, fully free 2 play
-
-ai
-
-inspired by
-
-- nulls royale
+- shadow verse
+- hearthstone
 
 ## legacy
 
@@ -1032,6 +1063,26 @@ inspired by
 - dusk farmost kuharu
 - kagura mea
 
----
+`kardsol`
+
+<!-- > kards on web, fully free 2 play -->
+
+ai
+
+inspired by
+
+- nulls royale
+
+`svol`
+
+> shadowverse on web, fully free 2 play
+
+ai
+
+inspired by
+
+- nulls royale
+
+## .
 
 all good things.

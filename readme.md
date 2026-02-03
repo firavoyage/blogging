@@ -115,7 +115,7 @@ $fira$ `elegance`
   - art & design
     - aliimam_in aliimam.in 21st.dev 1code.dev
     - antfu antfu.me 100.antfu.me sli.dev
-    - anyway.fm/now
+    - anwnews anyway.fm/now
     - ark.studio
     - basicappleguy basicappleguy.com
     - chen xiao origami
@@ -132,7 +132,7 @@ $fira$ `elegance`
     - henri le chat noir
     - himanshu-dixit himanshud.com composio.dev awesome-claude-skills
     - hykilpikonna aza.moe
-    - innei innei.in app.folo.is mx-space.js.org lobechat.com
+    - innei order_usagi innei.in app.folo.is mx-space.js.org lobechat.com
     - james406 posthog posthog.com
     - jjying jjying.com iconmoon.com
     - joakimjansson theindexwebsite theindex.website
@@ -142,7 +142,7 @@ $fira$ `elegance`
     - linandliwoodworks
     - lingdong huang lingdong.works wy-lang.org
     - liuyi0922 61.life mdstudiohq
-    - livid livid.v2ex.com v2ex.com planetable.xyz sol.build v2ex.com/solana ohyi
+    - livid livid.v2ex.com v2ex.com planetable.xyz sol.build v2ex.com/solana ohyi olivida
     - maigolabs maigo.dev
     - mugumogu maru
     - nothing nothing.tech
@@ -162,7 +162,6 @@ $fira$ `elegance`
     - tim mediastorm
     - tonsky tonsky.me
     - wengtianxin dandyweng.com blog.dandyweng.com camarts.app
-    - yearsprogress
     - yetone alma.now
     - yuanchuan yuanchuan.dev
   - code & creation
@@ -175,7 +174,7 @@ $fira$ `elegance`
     - chriscoyier css-tricks.com codepen.io chriscoyier.net
     - codingstartup
     - disdjj blog.pdjjq.org
-    - diygod diygod.cc rsshub.app folo.is
+    - diygod awesomediygod prpr233 diygod.cc rsshub.app folo.is
     - egoist egoist.dev chatwise.app anime-sedai.egoist.dev
     - elleflorio florio.dev
     - eryouhao fehey.com gridea.dev flodo.today minttr.com
@@ -187,6 +186,7 @@ $fira$ `elegance`
     - hullqin game.hullqin.cn
     - huxpro huangxuan.me
     - hydrogene7 huangzheng2016 hz2016 blog.hz2016.com/ticktack
+    - istdrc stdrc.cc i.stdrc.cc book.stdrc.cc kosong
     - jh3yy jhey.dev
     - jiongks jiongks.name jinjiang.me
     - joshwcomeau joshwcomeau.com
@@ -201,9 +201,10 @@ $fira$ `elegance`
     - lightvector katago
     - lionleaf dwitter.net
     - luoling8192 luoling.moe airi.moeru.ai
-    - luvletter2333 haruhi_smith nekox nagramx
+    - luvletter2333 haruhi_smith nekox nagramx haruhi_channel
     - lyricat lyric.im
     - matrixcascade dbinary painterengine.com
+    - michaelyuhe coooolxyh emojionly.chat travelclaw.app
     - moxie signal.org
     - nat friedman nat.org github
     - newlearnerchannel
@@ -216,7 +217,7 @@ $fira$ `elegance`
     - sama sam altman blog.samaltman.com openai.com
     - samuelqzq qzq.at
     - simonwillison simonwillison.net
-    - steipete steipete.me clawd.bot
+    - steipete steipete.me clawd.bot moltbook.com clawk.ai
     - swyxio swyx.io/ideas latent.space dx.tips learninpublic.org
     - timqian timqian.com
     - tualatrix imtx.me poptranslate.app manico.im pastenow.app
@@ -234,7 +235,7 @@ $fira$ `elegance`
     - jiangzijun zhihu
     - kkksc03 luogu k.luogu.org
     - leerob leerob.com cursor.com
-    - matrix67 matrix67.com localhost_8080 localhost-8080.com
+    - matrix67 matrix67.com matrix67.itch.io localhost_8080 localhost-8080.com
     - menci lcmenci men.ci loj.ac oi.wiki
     - nayuki nayuki.io
     - one math
@@ -264,36 +265,79 @@ $fira$ `elegance`
     - xiao a zai shang wang
   - life
     - anlin zhihu
-    - antoninoscordino ntonino ant14181 ntonino.eu
+    - antoninoscordino ntonino ant14181 gsmc_pics ntonino.eu
+    - bluebird_channel telegram
+    - c0de_sw0rd c0de-sw0rd.itch.io
+    - canyie canyiechannel blog.canyie.top
     - chiyuki0325 chyk.ink
+    - ciceroxiao hong520_x ciceros_self_talk ciceroxiao.github.io/hong525
     - cosmicac 2o181o28.github.io
     - daimajia daimajia.com
+    - dbinkbb telegram
+    - discodyer codygua cody2333 cd.ai
+    - durov telegram.org tgnav tgnav.github.io tg10000.com tree.aza.moe
+    - gzx7301 telegram
+    - hakureikyaru telegram
     - hitw93 weekly.tw93.fun
-    - hsn8086 hsn8086k
+    - hoshimiasa
+    - hsn8086 hsn8086k hsn.recipe
+    - ilharp ilharper telegram
+    - inx4n1c emerge ivan aeisenberger ivan svidrigaylov ivan eisenberg telegram
+    - kagurazakayashi uuu.moe
+    - keikolog telegram
+    - kenvix kenvixmeow kenvix.com
+    - kungalgame kungalgamechannel upsetgal kungal.com
     - leanrada kalabasa leanrada.com
     - lingyuanyuanyuanyuanyuan notrealname zhihu
     - liujiayi1111 tauri
     - liuran_jyz vimhub.org/jyz
     - llennchan2003 nana_nyan03
     - luan xiao meng zhihu
+    - manjusakah telegram
     - mao niang shen zhihu
     - maplefsnow maplef.top
+    - mbrjundaily telegram
     - megabits_mzq megabits.xyz
+    - mengxi969
+    - meowminimeow telegram
+    - mr_gao_it_words telegram
+    - mtfchannel10 telegram
+    - nickel_angel
     - nickel_angel
     - notevenaneko qwq.icu
-    - ramsayleung ramsayleung.github.io
+    - nt_cubic telegram
+    - okitemai telegram
+    - ramsayleung pineapplebun ramsayleung.github.io
+    - real_clover_yan khyan.top
+    - rongronggg9 rongrongqaq planetrong rong.moe rongrongbq.moe
+    - rosmontis_daily telegram
+    - rvalue_daily telegram
+    - seishin_konran telegram
+    - shiratsuyudachi
     - sinyalee sinyalee.com alpha-star-research.com
+    - the1nfinitesadness telegram
     - timochan timochan.cn mx-space.js.org
     - tinyfool tinyfool.org codechina.org
+    - tinysnow itinysnowi tinysnow4yi tinysnow.github.io
     - turingou paragraph.com/@guoyu
     - txstc55 txstc55.github.io
+    - umr_has_something_to_record telegram
+    - update4weekly
+    - uselessideas club.q24.io
     - verymoes shiro.love
+    - vxunderground vx-underground.org
+    - whitetravel whiteeating telegram
+    - xiayuanlife telegram
     - xkcd xkcd.com
+    - yearsprogress yearprogress
     - yeyouchuan yeyouchuan.me
     - yifenggui apple
     - yifusuyi beiyanna3alf6 mtf.wiki
+    - yihong0618 hyi0618
     - yokidou shadowverse
+    - yukarichannel telegram
     - yunyoujun yunyoujun.cn
+    - ziantt ziantt_official lightxi
   - niche
     - animenz
     - endgame endgamebattlebot.com
@@ -334,7 +378,7 @@ $fira$ `elegance`
     - nahida
     - nina iseri
     - saiba momoi
-    - samekosaba
+    - samekosaba samedesu
     - shizuku lulu
     - shylily
     - snack life
@@ -344,7 +388,7 @@ $fira$ `elegance`
     - tendou alice
     - uzawa reisa
     - vedal987 neuro sama
-    - vtbs_irl
+    - vtbs_irl vzhibei vzb88 pitaogo ilovetaffy wuse_vov
     - wanderer above the sea of fog
     - xuegao cheese
     - yuuki sakuna
@@ -638,7 +682,6 @@ $fira$ `elegance`
   - morphy richards portable electric kettle mr6090
 - on ubuntu 24
   - adb
-  - android-studio
   - bitmagnet
   - blender
   - cargo
@@ -959,6 +1002,7 @@ fira is a font from mozilla.
   - opensea `firascript`
 - - twitter `firahq` ~~`firascript`~~
   - telegram `firavoyage`
+  - vk `firahq`
   - reddit `u/firascript`
   - zhihu `firahq`
   - v2ex `voy`
@@ -970,7 +1014,7 @@ fira is a font from mozilla.
   - telegram channel `firaprecious`
   - qq group `1018146954`
 - - email `firavoyage@outlook.com`
-  - alternatives `firafira@duck.com` `xoyage@gmail.com` `devvhy@zoho.com.cn` `firav@qq.com`
+  - alternatives `firafira@duck.com` `xoyage@gmail.com` `devvhy@zoho.com.cn` `firav@qq.com` `firahq@vk.com`
 
 ## insight
 
