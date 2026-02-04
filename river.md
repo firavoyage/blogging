@@ -331,6 +331,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `18` 2026.02.01
 - `19` 2026.02.02
 - `20` 2026.02.03
+- `21` 2026.02.04
 
 ## gaming
 
@@ -16748,6 +16749,40 @@ Assistant: Some countries that have implemented internet censorship include: 1. 
 ```
 
 (ive updated the js to tinyllama. seems the server does not restart when running the code again.)
+
+---
+
+send some messages to Liuran_yanagi on twitter
+
+记得下面有一条 "与主管关于现实处境谈天", 可不见了. 也记不清细节了, 切换 tab 时候大概看到的. 怎么一直删除... 可恶. 我要用机器人. 保存本地上传 git 再 save page now. 可是 twitter api workaround 可能会很麻烦, 也不想申请. 要用 patchright 吗?
+
+lol. she no longer follows me, as expected! although she does not remove my comment. seems she only follows supporters and mutes/blocks others, which are not all spammers/brainwashed guys. i think she might be a bit fragile to ragebait.
+
+(from hacker news) > i have a small device in my pocket that provides access to nearly the sum total of human knowledge. i use it to get into pointless arguments with people i don't know and look at pictures of cats
+
+maybe it's better to curate what you wanna see instead of blocking. theoretically you could block everyone you dont like but in practice it's a full time job. btw install control panel for twitter. ::heart::
+
+---
+
+liuran unfollows me. 
+
+but nickle angel and the russian anonymous follows me. cute. pretty. although less wealthy seems.
+
+feels peaceful. positive trade.
+
+---
+
+dont fight or flight, workaround.
+
+dont try to teach/help chinese, i mean some brainwashed low end population. i must admit their existence.
+
+if cn gov is confident, it would feel free on the open internet.
+
+censoring as it seems, it's better to forgive and pity.
+
+if they dont wanna talk, no need to blame. history will go in its own way.
+
+just go somewhere peaceful and stay within my solitude.
 
 ---
 

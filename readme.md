@@ -22,7 +22,9 @@ $fira$ `elegance`
 
 > 🍅 ⏲️ $20$ <!-- $\text{0 20 40}$ -->
 
-> 🌕 💤 💤 💤 $\text{23 00}$
+> 🌕 💤
+
+<!-- > 🌕 💤 💤 💤 $\text{23 00}$ -->
 
 <!-- > 🌕 💤 💤 💤 $\text{early (?)}$ -->
 
@@ -48,13 +50,13 @@ $fira$ `elegance`
 
 > _毋负今日_
 
-> _日拱一卒 功不唐捐_
-
 > 想在转瞬即逝的时光里，留下属于自己的回忆。
 
 <!-- > _回归少女_ -->
 
-> _轻描淡写_
+> _举重若轻_
+
+<!-- > _轻描淡写_  -->
 
 > _code artist_
 
@@ -66,12 +68,12 @@ $fira$ `elegance`
 
 > if you ever miss me, just close your eyes. and maybe i'll appear in your dreams.
 
-- fira 💖, she/her (🏳️‍⚧️ ✖️ 🍥 ✖️), 🇬🇧 ✔️, 🇨🇳 ❔, 🇯🇵 ✖️, 🇫🇷 ✖️
+- fira 💖, she/her (not 🏳️‍⚧️ or 🍥), 🇬🇧 user, 🇨🇳 native but rarely used, 🇯🇵 learner, 🇫🇷 very beginner
 - a developer, content creator, wikipedian
 - grew up in shanghai
 - on the internet since 2019, which is my actual "home town"
 
-<!-- I'm an otaku fascinated within her own world, believing existentialism, cynicism (daoism), determinism, and accelerationism, always overthinking and overengineering, lost herself in curiosity. -->
+<!-- I'm an otaku fascinated within her own world, believing existentialism, cynicism ~~daoism~~, determinism, and accelerationism, always overthinking and overengineering, lost herself in curiosity. -->
 
 <!-- I love to decide, to organize, and to simplify. -->
 
@@ -117,10 +119,12 @@ $fira$ `elegance`
     - antfu antfu.me 100.antfu.me sli.dev
     - anwnews anyway.fm/now
     - ark.studio
+    - avstorm bento.me/storm iconists.co centralicons.com
     - basicappleguy basicappleguy.com
     - chen xiao origami
     - cmfbynothing
     - cyannyan6 hoshinolina cyannyan.com lina.yt
+    - dhh dhh.dk rubyonrails.org omarchy.org 37signals.com basecamp.com hey.com once.com once.com/campfire once.com/writebook
     - dingyi ding.one dexlist.page news.dex.group dex-group.ghost.io dex.zhubai.love quaily.com/dingyi
     - extraordinary extraordinary.com
     - fenxer design scenes fenx.work
@@ -134,6 +138,7 @@ $fira$ `elegance`
     - hykilpikonna aza.moe
     - innei order_usagi innei.in app.folo.is mx-space.js.org lobechat.com
     - james406 posthog posthog.com
+    - jh3yy jhey.dev
     - jjying jjying.com iconmoon.com
     - joakimjansson theindexwebsite theindex.website
     - karrisaarinen karrisaarinen.com linear.app
@@ -156,7 +161,7 @@ $fira$ `elegance`
     - shuding shud.in
     - spottedinprod spottedinprod.com
     - steve jobs apple
-    - taroleohearts leohearts.com
+    - taroleohearts whatdoespotatoeattoday leohearts.com
     - tenthousandyes
     - thexclu clu.so capwords.app
     - tim mediastorm
@@ -187,7 +192,6 @@ $fira$ `elegance`
     - huxpro huangxuan.me
     - hydrogene7 huangzheng2016 hz2016 blog.hz2016.com/ticktack
     - istdrc stdrc.cc i.stdrc.cc book.stdrc.cc kosong
-    - jh3yy jhey.dev
     - jiongks jiongks.name jinjiang.me
     - joshwcomeau joshwcomeau.com
     - juliangarnier juliangarnier.com animejs.com
@@ -216,7 +220,7 @@ $fira$ `elegance`
     - ruanyf ruanyf weekly ruanyifeng.com/blog
     - sama sam altman blog.samaltman.com openai.com
     - samuelqzq qzq.at
-    - simonwillison simonwillison.net
+    - simonw simonwillison simonwillison.net
     - steipete steipete.me clawd.bot moltbook.com clawk.ai
     - swyxio swyx.io/ideas latent.space dx.tips learninpublic.org
     - timqian timqian.com
@@ -273,16 +277,13 @@ $fira$ `elegance`
     - ciceroxiao hong520_x ciceros_self_talk ciceroxiao.github.io/hong525
     - cosmicac 2o181o28.github.io
     - daimajia daimajia.com
-    - dbinkbb telegram
     - discodyer codygua cody2333 cd.ai
     - durov telegram.org tgnav tgnav.github.io tg10000.com tree.aza.moe
-    - gzx7301 telegram
-    - hakureikyaru telegram
     - hitw93 weekly.tw93.fun
     - hoshimiasa
     - hsn8086 hsn8086k hsn.recipe
-    - ilharp ilharper telegram
-    - inx4n1c emerge ivan aeisenberger ivan svidrigaylov ivan eisenberg telegram
+    - ilharp ilharper ilharper.com
+    - inx4n1c ssaignee emerge ivan eisenberg telegram
     - kagurazakayashi uuu.moe
     - keikolog telegram
     - kenvix kenvixmeow kenvix.com
@@ -290,7 +291,7 @@ $fira$ `elegance`
     - leanrada kalabasa leanrada.com
     - lingyuanyuanyuanyuanyuan notrealname zhihu
     - liujiayi1111 tauri
-    - liuran_jyz vimhub.org/jyz
+    - liuran_jyz liuran_yanagi vimhub.org/jyz
     - llennchan2003 nana_nyan03
     - luan xiao meng zhihu
     - manjusakah telegram
@@ -299,19 +300,14 @@ $fira$ `elegance`
     - mbrjundaily telegram
     - megabits_mzq megabits.xyz
     - mengxi969
-    - meowminimeow telegram
     - mr_gao_it_words telegram
-    - mtfchannel10 telegram
-    - nickel_angel
     - nickel_angel
     - notevenaneko qwq.icu
     - nt_cubic telegram
-    - okitemai telegram
     - ramsayleung pineapplebun ramsayleung.github.io
     - real_clover_yan khyan.top
     - rongronggg9 rongrongqaq planetrong rong.moe rongrongbq.moe
     - rosmontis_daily telegram
-    - rvalue_daily telegram
     - seishin_konran telegram
     - shiratsuyudachi
     - sinyalee sinyalee.com alpha-star-research.com
@@ -327,14 +323,12 @@ $fira$ `elegance`
     - verymoes shiro.love
     - vxunderground vx-underground.org
     - whitetravel whiteeating telegram
-    - xiayuanlife telegram
     - xkcd xkcd.com
     - yearsprogress yearprogress
     - yeyouchuan yeyouchuan.me
     - yifenggui apple
     - yifusuyi beiyanna3alf6 mtf.wiki
     - yihong0618 hyi0618
-    - yokidou shadowverse
     - yukarichannel telegram
     - yunyoujun yunyoujun.cn
     - ziantt ziantt_official lightxi
@@ -351,6 +345,7 @@ $fira$ `elegance`
     - li jiaqing
     - liu yiyi
     - longbow flintlock
+    - mohamad light
     - muyu shuixin
     - ninalex12 asakawauniversityofscience
     - potetomj
@@ -358,6 +353,7 @@ $fira$ `elegance`
     - shin jin-seo
     - student he studio
     - xiaoyao sanren
+    - yokidou shadowverse
   - isekai
     - acetaffy812 echo spade
     - angelnekochan
@@ -660,7 +656,7 @@ $fira$ `elegance`
   - google · gemini · deepseek · grok · chatgpt · mistral ai
   - wikipedia · miraheze · fandom · moegirl.icu · oi wiki · mdn · jisho.org · hpoi
   - internet archive · archive.today · the pirate bay · z library · anna's archive · archivecaslytosk.onion
-  - youtube · berryberry · douyin · niconico · hololist · vtbs.moe
+  - youtube · berryberry · douyin · niconico · caracal · hololist · vtbs.moe
   - old reddit · twitter · zhihu · nga bbs · baidu tieba · pincong.rocks
   - hacker news · v2ex · liqi.io · github trending · product hunt · codepen spark
   - figma · paper.design · canva · unicorn.studio · khroma
@@ -979,24 +975,24 @@ fira is a font from mozilla.
 > - `fira冬`
 > <!-- - `precious珍 (ちん)` -->
 
-- - wikipedia `User:Firavoyage`
 - - github/gitea `firavoyage`
   - wakatime `firavoyage`
   - codepen `firavoyage`
+  - wikipedia `User:Firavoyage`
 - - arxiv `firahq`
   - zenoob `firahq`
   - orcid `0009-0007-1207-3193`
   - osf `zfv2j`
   - linkedin `firahq`
 - - steam `firascript`
-  - majsoul `忘我思考` `fira`
-  - foxwq `firascript` `李烨炀本物`
-  - lichess `firascript`
-  - chess.com `firascript`
   - duolingo `firahq` `firavoyage`
+  - foxwq `firascript` `李烨炀本物`
+  - lichess `firascript` `firahq`
+  - chess.com `firascript` `firahq`
+  - majsoul `忘我思考` `fira`
 - - youtube `thefirahq`
   - twitch `preciouschin`
-  - berryberry `一番のFira` (legacy: `Fira_言序`) `1156993272` `bili_26837222900`
+  - berryberry `1156993272` `bili_26837222900`
   - douyin `firavoyage`
   - acfun `忘我思考` `65210945`
   - opensea `firascript`
