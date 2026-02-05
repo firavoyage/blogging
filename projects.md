@@ -916,6 +916,8 @@ inspired by
 
 <!-- > lichess with coach and tutorial -->
 
+<!-- lichess in chess.com ui. e.g. the pieces. -->
+
 form
 
 - lichess plugin

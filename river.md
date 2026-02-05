@@ -332,6 +332,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `19` 2026.02.02
 - `20` 2026.02.03
 - `21` 2026.02.04
+- `22` 2026.02.05
 
 ## gaming
 
@@ -16786,3 +16787,28 @@ just go somewhere peaceful and stay within my solitude.
 
 ---
 
+on google search, 
+
+on the left "+", uploading image means asking ai about this image.
+
+on the right "camera", that means image search. (vector based similarity)
+
+confusing!
+
+---
+
+no longer put the lifesize pillow on my knee, between my chair an my desk.
+
+pull the chair forward as possible. between the back of my chair and the front of my desk i live. i could not move.
+
+i put my hand horizontally on the desk when not typing, resting gracefully.
+
+just like primary school.
+
+months before, i make my watch extremly tight without feeling pain. the watch is a part of my arm.
+
+whether the watch or the body.
+
+in the end, i narrow every constraint.
+
+---

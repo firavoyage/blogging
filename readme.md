@@ -153,6 +153,7 @@ $fira$ `elegance`
     - nothing nothing.tech
     - oooooohmygosh
     - pidanzhoujiala
+    - q.ai
     - re-xyr dayli.ly
     - rea1donandtrump rene.wang detail.design ygeeker.com
     - ryokun6 ryo.lu work.ryo.lu os.ryo.lu soundboard.ryo.lu
@@ -361,12 +362,14 @@ $fira$ `elegance`
     - chtholly nota seniorious
     - falstaff duolingo
     - gus brawl stars
+    - hexose 0x4682b4 emotelab
     - hitori gotoh
     - ichi hime
     - kagura mea
     - kasugano sora
     - konata izumi
     - kyouka overidea
+    - mikanthemink katabasis.moe
     - minami iwasaki
     - minato aqua
     - miyuki takara
