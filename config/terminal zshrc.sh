@@ -247,3 +247,8 @@ _preload_nvm() {
 
 autoload -Uz add-zsh-hook
 add-zsh-hook preexec _preload_nvm
+
+# pg
+
+export PATH=/usr/lib/postgresql/16/bin:$PATH
+

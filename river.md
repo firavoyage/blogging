@@ -333,6 +333,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `20` 2026.02.03
 - `21` 2026.02.04
 - `22` 2026.02.05
+- `23` 2026.02.06
 
 ## gaming
 
@@ -16812,3 +16813,30 @@ whether the watch or the body.
 in the end, i narrow every constraint.
 
 ---
+
+lichess:
+
+your oppo left the game.
+
+you can claim victory. claim draw. or wait.
+
+(on foxwq you auto claim a win.)
+
+---
+
+download codex.
+
+i assume it will open a tab.
+
+im on ubuntu.
+
+and it auto starts a dmg download?
+
+---
+
+seems chatgpt reverts to the prev code block ui design.
+
+---
+
+
+

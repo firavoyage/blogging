@@ -212,6 +212,7 @@ $fira$ `elegance`
     - michaelyuhe coooolxyh emojionly.chat travelclaw.app
     - moxie signal.org
     - nat friedman nat.org github
+    - nekomeowww ayakaneko ayaka.moe ayaka.io 
     - newlearnerchannel
     - ornicar lichess.org
     - radolyn radolyn.com docs.ayugram.one
