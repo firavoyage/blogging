@@ -16854,3 +16854,25 @@ if she fights, she will fail.
 life is easy. 
 
 ---
+
+promotion ads... well. seems spring autumn is a low end one.
+
+---
+
+seems fira looks like a tech guy...
+
+a middle aged girl next to me ask:
+
+is this film (kaguya) made by yourself?
+
+(ofc not...)
+
+warau.
+
+---
+
+kaguya.
+
+youth. arete. dream. yuri.
+
+---

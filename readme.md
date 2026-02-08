@@ -253,7 +253,7 @@ $fira$ `elegance`
     - shiffman thecodingtrain.com
     - su dekuang zju
     - whynottv1999 tairanhe.com
-    - yu ming shu zhihu qed.moe yaru.io
+    - yu ming shu zhihu qed.moe yaru.io asaka.moe
     - yxc acwing.com
   - journalism
     - cdtchinese chinadigitaltimes.net
@@ -472,6 +472,7 @@ $fira$ `elegance`
   - fight club (1999)
   - the good, the bad and the ugly (1966)
   - her (2013)
+  - cosmic princess kaguya (2026)
   - .the disappearance of haruhi suzumiya (2010)
   - .bocchi the rock! recap part 1 (2024)
 - series
