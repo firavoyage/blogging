@@ -1010,10 +1010,10 @@ fira is a font from mozilla.
   - bangumi.tv `firavoyage`
   - mastodon `firavoyage@mastodon.social` `fira@techhub.social`
   - npm `firascript`
-- - telegram group `voyagefira`
-  - telegram channel `logfira`
-  - telegram channel `firaprecious`
-  - qq group `1018146954`
+- - matrix `@firahq:matrix.org`
+  - matrix space `#firahq:matrix.org`
+  - telegram group `voyagefira`
+  - telegram channel `firaprecious` `logfira`
 - - email `firavoyage@outlook.com`
   - alternatives `firafira@duck.com` `xoyage@gmail.com` `devvhy@zoho.com.cn` `firav@qq.com` `firahq@vk.com`
 

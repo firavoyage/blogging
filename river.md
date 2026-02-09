@@ -16876,3 +16876,62 @@ kaguya.
 youth. arete. dream. yuri.
 
 ---
+
+first day on matrix.
+
+```
+Fira (fira)
+@firahq:matrix.org
+|
+11:24 PM
+hi
+fortisfortie
+11:25 PM
+Hi
+Fira (fira)
+11:25 PM
+hello. where are you from.
+fortisfortie
+11:25 PM
+I'm from turkey
+Fira (fira)
+11:25 PM
+do you use sns. my twitter is firahq.
+i start using matrix today
+how did you get here
+fortisfortie
+11:26 PM
+Idk, discord bab
+Ban*
+Fira (fira)
+11:27 PM
+?
+xs
+11:27 PM
+🐵🐵
+fortisfortie
+11:28 PM
+Discord is banned in turkey
+Fira (fira)
+11:28 PM
+what?
+fortisfortie
+11:28 PM
+Yes
+Fira (fira)
+11:28 PM
+how? does vpn work?
+New Messages
+
+fortisfortie
+11:28 PM
+Idk
+My precious vpn i hope works
+```
+
+fortisfortie @socratixa:matrix.org
+
+xs @imastonerx2:matrix.org
+
+---
+
