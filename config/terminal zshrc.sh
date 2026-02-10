@@ -142,6 +142,13 @@ release() {
     esac
 }
 
+sound() {
+  echo "Starting sndcpy..."
+
+  cd /usr/local/bin || return
+  sndcpy
+}
+
 phone() {
 # Restart ADB server
   adb kill-server
@@ -172,10 +179,7 @@ phone() {
     sleep 1
   done
 
-  echo "Starting sndcpy..."
-
-  cd /usr/local/bin || return
-  sndcpy
+  # sound
 }
 
 # ================================

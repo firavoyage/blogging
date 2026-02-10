@@ -339,7 +339,7 @@ $fira$ `elegance`
     - endgame endgamebattlebot.com
     - funshiki
     - gaou
-    - gaozixiang
+    - gao zixiang
     - gmhikaru
     - jueming mofei
     - ke jie

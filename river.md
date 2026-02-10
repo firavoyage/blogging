@@ -16935,3 +16935,23 @@ xs @imastonerx2:matrix.org
 
 ---
 
+sndcpy sometimes cause "dead system exception".
+
+seems my system does not handle it well.
+
+a small restart.
+
+---
+
+deprecate matrix.
+
+- not generous. 10mb/file. 100mb/day. for free plan. only 10x for premium.
+- not feature rich. i could not set my password. telegram stickers. telegram bots. telegram app animation (preview/telegraph, markdown, ...).
+
+---
+
+作为一个观众能做很多.
+
+而主播就是主播嘛.
+
+---
