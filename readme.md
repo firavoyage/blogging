@@ -122,7 +122,6 @@ $fira$ `elegance`
     - avstorm bento.me/storm iconists.co centralicons.com
     - basicappleguy basicappleguy.com
     - chen xiao origami
-    - cmfbynothing
     - cyannyan6 hoshinolina cyannyan.com lina.yt
     - dhh dhh.dk rubyonrails.org omarchy.org 37signals.com basecamp.com hey.com once.com once.com/campfire once.com/writebook
     - dingyi ding.one dexlist.page news.dex.group dex-group.ghost.io dex.zhubai.love quaily.com/dingyi
@@ -148,9 +147,10 @@ $fira$ `elegance`
     - lingdong huang lingdong.works wy-lang.org
     - liuyi0922 61.life mdstudiohq
     - livid livid.v2ex.com v2ex.com planetable.xyz sol.build v2ex.com/solana ohyi olivida
+    - lovefrom lovefrom.com
     - maigolabs maigo.dev
     - mugumogu maru
-    - nothing nothing.tech
+    - nothing cmfbynothing essential nothing.tech essential.com
     - oooooohmygosh
     - pidanzhoujiala
     - q.ai
@@ -178,7 +178,6 @@ $fira$ `elegance`
     - arvin17x lobehub.com
     - bradwoods bradwoods.io garden.bradwoods.io
     - chriscoyier css-tricks.com codepen.io chriscoyier.net
-    - codingstartup
     - disdjj blog.pdjjq.org
     - diygod awesomediygod prpr233 diygod.cc rsshub.app folo.is
     - egoist egoist.dev chatwise.app anime-sedai.egoist.dev
@@ -222,6 +221,7 @@ $fira$ `elegance`
     - ruanyf ruanyf weekly ruanyifeng.com/blog
     - sama sam altman blog.samaltman.com openai.com
     - samuelqzq qzq.at
+    - scavenger869 loongphy.com
     - simonw simonwillison simonwillison.net
     - steipete steipete.me clawd.bot moltbook.com clawk.ai
     - swyxio swyx.io/ideas latent.space dx.tips learninpublic.org
@@ -234,7 +234,9 @@ $fira$ `elegance`
     - zhao-stanley stanleyzhao.com web.lab
   - education
     - ayumu maki-math.com
+    - codingstartup
     - grant sanderson 3blue1brown.com
+    - hmuniversity hmu.ac.cn wildchickenuniversity wcu.edu.pl
     - hzwer hzwer.com
     - jiangly codeforces
     - jiangyy jiang yanyan jyywiki.cn
@@ -273,6 +275,7 @@ $fira$ `elegance`
     - anlin zhihu
     - antoninoscordino ntonino ant14181 gsmc_pics ntonino.eu
     - bluebird_channel telegram
+    - butaikirin citronateo hee.ink
     - c0de_sw0rd c0de-sw0rd.itch.io
     - canyie canyiechannel blog.canyie.top
     - chiyuki0325 chyk.ink
@@ -303,6 +306,7 @@ $fira$ `elegance`
     - megabits_mzq megabits.xyz
     - mengxi969
     - mr_gao_it_words telegram
+    - neko205-mx neko_25_mx blog.neko25.top srcblog.neko25.top
     - nickel_angel
     - notevenaneko qwq.icu
     - nt_cubic telegram
