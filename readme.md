@@ -125,12 +125,12 @@ $fira$ `elegance`
     - cyannyan6 hoshinolina cyannyan.com lina.yt
     - dhh dhh.dk rubyonrails.org omarchy.org 37signals.com basecamp.com hey.com once.com once.com/campfire once.com/writebook
     - dingyi ding.one dexlist.page news.dex.group dex-group.ghost.io dex.zhubai.love quaily.com/dingyi
+    - doodles doodles.google
     - extraordinary extraordinary.com
     - fenxer design scenes fenx.work
     - fradser frad.me
     - ftium4 ftium4.com ux weekly
     - georgehastings georgehastings.com unicode.studio
-    - google doodles doodles.google
     - growth.design
     - henri le chat noir
     - himanshu-dixit himanshud.com composio.dev awesome-claude-skills
@@ -204,6 +204,7 @@ $fira$ `elegance`
     - lexrus lex.sh
     - lightvector katago
     - lionleaf dwitter.net
+    - piracy6 telegram
     - luoling8192 luoling.moe airi.moeru.ai
     - luvletter2333 haruhi_smith nekox nagramx haruhi_channel
     - lyricat lyric.im
@@ -284,8 +285,7 @@ $fira$ `elegance`
     - daimajia daimajia.com
     - discodyer codygua cody2333 cd.ai
     - durov telegram.org tgnav tgnav.github.io tg10000.com tree.aza.moe
-    - hitw93 weekly.tw93.fun
-    - hoshimiasa
+    - hitw93 tw93.fun weekly.tw93.fun
     - hsn8086 hsn8086k hsn.recipe
     - ilharp ilharper ilharper.com
     - inx4n1c ssaignee emerge ivan eisenberg telegram
@@ -329,6 +329,7 @@ $fira$ `elegance`
     - verymoes shiro.love
     - vxunderground vx-underground.org
     - whitetravel whiteeating telegram
+    - xingye_channel telegram
     - xkcd xkcd.com
     - yearsprogress yearprogress
     - yeyouchuan yeyouchuan.me
@@ -610,6 +611,7 @@ $fira$ `elegance`
   - design notes (liam spradlin)
   - fyfy.fm (justin yan & hzlzh)
   - hard hacker (yixiao & 0xsaito & anson)
+  - latent space (swyx & alessio)
   - lex fridman podcast (lex fridman)
   - mindhub by product thinking (shaonan & fonter & mengna)
   - pan.icu (wu tao & rio)
@@ -673,7 +675,7 @@ $fira$ `elegance`
   - pixiv · dribbble · deviantart · civitai · unsplash
   - aops · oeis · igdb · metacritic · spotify · pianotify
   - e hentai · archiveofourown · cnblogs · qq zone · acfun
-  - steam db · itch.io · google doodles · vndb · shinnku galgame · kungal · touchgal
+  - steam db · itch.io · doodles.google · vndb · shinnku galgame · kungal · touchgal
   - codeforces · atcoder · luogu · libre oj · project euler
   - travel.moe · travellings.cn · foreverblog.cn · acmer.info
 - portals
