@@ -16960,3 +16960,389 @@ deprecate matrix.
 
 ---
 
+```
+拾一.ens18
+@__oQuery
+·
+Dec 24, 2025
+白天修机器，晚上修人生
+fira
+@firahq
+·
+Jan 29
+为什么 agent 不能内置 chatgpt 呢... 简单的问题直接回答. 不切换场景.
+拾一.ens18
+@__oQuery
+🤔
+9:58 PM · Jan 29, 2026
+·
+30
+ Views·Twitter for iPhone
+```
+
+upd: manus uses its tech, using simple conversational agent when needed.
+
+---
+
+archive.
+
+```
+ZianTT
+@ZianTT_Official
+·
+Jan 23
+不赖，建议休学
+你说诊断那一栏改一下…（？）
+fira
+@firahq
+·
+Jan 29
+ziantt 春考如何喵
+ZianTT
+@ZianTT_Official
+瞎考的，休了一年明年再说吧
+总不能真去杉达吧（）
+10:09 PM · Jan 29, 2026
+·
+37
+ Views·Twitter for Android
+```
+
+---
+
+create an issue on cyan dev little agent
+
+it does not run.
+
+idk. here is the error message.
+
+```
+fira@Fira ~/Documents/_/opensource/little-agent/crates/little-agent
+ % cargo run                                                            
+    Updating crates.io index
+  Downloaded async-trait v0.1.89
+  Downloaded dyn-clone v1.0.20
+  Downloaded cfg_aliases v0.2.1
+  Downloaded openssl-probe v0.2.1
+  Downloaded idna_adapter v1.2.1
+  Downloaded atomic-waker v1.1.2
+  Downloaded percent-encoding v2.3.2
+  Downloaded itoa v1.0.17
+  Downloaded http-body v1.0.1
+  Downloaded form_urlencoded v1.2.2
+  Downloaded ref-cast v1.0.25
+  Downloaded lru-slab v0.1.2
+  Downloaded ref-cast-impl v1.0.25
+  Downloaded rustc-hash v2.1.1
+  Downloaded lazy_static v1.5.0
+  Downloaded dunce v1.0.5
+  Downloaded cfg-if v1.0.4
+  Downloaded instant v0.1.13
+  Downloaded matchers v0.2.0
+  Downloaded potential_utf v0.1.4
+  Downloaded thiserror v2.0.18
+  Downloaded sync_wrapper v1.0.2
+  Downloaded subtle v2.6.1
+  Downloaded thiserror-impl v2.0.18
+  Downloaded tower-layer v0.3.3
+  Downloaded errno v0.3.14
+  Downloaded rustls-native-certs v0.8.3
+  Downloaded fs_extra v1.3.0
+  Downloaded rand_core v0.9.5
+  Downloaded rand_chacha v0.9.0
+  Downloaded quote v1.0.44
+  Downloaded nu-ansi-term v0.50.3
+  Downloaded ipnet v2.11.0
+  Downloaded glob v0.3.3
+  Downloaded find-msvc-tools v0.1.9
+  Downloaded cmake v0.1.57
+  Downloaded stable_deref_trait v1.2.1
+  Downloaded serde_derive_internals v0.29.1
+  Downloaded backoff v0.4.0
+  Downloaded slab v0.4.12
+  Downloaded schemars_derive v1.2.1
+  Downloaded tinyvec_macros v0.1.1
+  Downloaded tinyvec v1.10.0
+  Downloaded synstructure v0.13.2
+  Downloaded signal-hook-registry v1.4.8
+  Downloaded rustls-pki-types v1.14.0
+  Downloaded hyper-rustls v0.27.7
+  Downloaded http-body-util v0.1.3
+  Downloaded untrusted v0.9.0
+  Downloaded litemap v0.8.1
+  Downloaded yoke-derive v0.8.1
+  Downloaded console v0.16.2
+  Downloaded smallvec v1.15.1
+  Downloaded getrandom v0.2.17
+  Downloaded owo-colors v4.2.3
+  Downloaded once_cell v1.21.3
+  Downloaded jobserver v0.1.34
+  Downloaded bitflags v2.10.0
+  Downloaded unit-prefix v0.5.2
+  Downloaded sharded-slab v0.1.7
+  Downloaded socket2 v0.6.2
+  Downloaded rustls-webpki v0.103.9
+  Downloaded quinn v0.11.9
+  Downloaded zerovec-derive v0.11.2
+  Downloaded writeable v0.6.2
+  Downloaded hyper-util v0.1.20
+  Downloaded http v1.4.0
+  Downloaded zmij v1.0.17
+  Downloaded tokio-macros v2.6.0
+  Downloaded tinystr v0.8.2
+  Downloaded thread_local v1.1.9
+  Downloaded rand v0.9.2
+  Downloaded yoke v0.8.1
+  Downloaded mio v1.1.1
+  Downloaded indexmap v2.13.0
+  Downloaded icu_locale_core v2.1.1
+  Downloaded icu_collections v2.1.1
+  Downloaded tokio-rustls v0.26.4
+  Downloaded cc v1.2.55
+  Downloaded bytes v1.11.0
+  Downloaded aho-corasick v1.1.4
+  Downloaded hashbrown v0.16.1
+  Downloaded zeroize v1.8.2
+  Downloaded tracing-log v0.2.0
+  Downloaded serde v1.0.228
+  Downloaded schemars v1.2.1
+  Downloaded unicode-ident v1.0.22
+  Downloaded icu_properties_data v2.1.2
+  Downloaded reqwest v0.13.1
+  Downloaded serde_json v1.0.149
+  Downloaded tracing-core v0.1.36
+  Downloaded tracing-attributes v0.1.31
+  Downloaded hyper v1.8.1
+  Downloaded h2 v0.4.13
+  Downloaded zerotrie v0.2.3
+  Downloaded iri-string v0.7.10
+  Downloaded idna v1.1.0
+  Downloaded memchr v2.7.6
+  Downloaded url v2.5.8
+  Downloaded base64 v0.22.1
+  Downloaded serde_derive v1.0.228
+  Downloaded serde_core v1.0.228
+  Downloaded rustls-platform-verifier v0.6.2
+  Downloaded log v0.4.29
+  Downloaded indicatif v0.18.3
+  Downloaded icu_properties v2.1.2
+  Downloaded icu_normalizer_data v2.1.1
+  Downloaded icu_normalizer v2.1.1
+  Downloaded quinn-udp v0.5.14
+  Downloaded proc-macro2 v1.0.106
+  Downloaded icu_provider v2.1.1
+  Downloaded getrandom v0.3.4
+  Downloaded tower v0.5.3
+  Downloaded tower-http v0.6.8
+  Downloaded zerovec v0.11.5
+  Downloaded tokio-util v0.7.18
+  Downloaded tracing-subscriber v0.3.22
+  Downloaded zerocopy v0.8.37
+  Downloaded unicode-width v0.2.2
+  Downloaded portable-atomic v1.13.1
+  Downloaded aws-lc-rs v1.15.4
+  Downloaded quinn-proto v0.11.13
+  Downloaded syn v2.0.114
+  Downloaded regex-syntax v0.8.8
+  Downloaded tracing v0.1.44
+  Downloaded tokio v1.49.0
+  Downloaded rustls v0.23.36
+  Downloaded regex-automata v0.4.13
+  Downloaded libc v0.2.180
+  Downloaded encoding_rs v0.8.35
+  Downloaded ring v0.17.14
+  Downloaded aws-lc-sys v0.37.0
+  Downloaded 132 crates (23.6 MB) in 3.85s (largest was `aws-lc-sys` at 9.6 MB)
+   Compiling proc-macro2 v1.0.106
+   Compiling quote v1.0.44
+   Compiling unicode-ident v1.0.22
+   Compiling libc v0.2.180
+   Compiling pin-project-lite v0.2.16
+   Compiling once_cell v1.21.3
+   Compiling bytes v1.11.0
+   Compiling find-msvc-tools v0.1.9
+   Compiling shlex v1.3.0
+   Compiling stable_deref_trait v1.2.1
+   Compiling itoa v1.0.17
+   Compiling fs_extra v1.3.0
+   Compiling futures-core v0.3.31
+   Compiling dunce v1.0.5
+   Compiling cfg-if v1.0.4
+   Compiling smallvec v1.15.1
+   Compiling tracing-core v0.1.36
+   Compiling aws-lc-rs v1.15.4
+   Compiling zeroize v1.8.2
+   Compiling litemap v0.8.1
+   Compiling writeable v0.6.2
+   Compiling serde_core v1.0.228
+   Compiling icu_normalizer_data v2.1.1
+   Compiling rustls-pki-types v1.14.0
+   Compiling icu_properties_data v2.1.2
+   Compiling zmij v1.0.17
+   Compiling pin-utils v0.1.0
+   Compiling equivalent v1.0.2
+   Compiling rustls v0.23.36
+   Compiling futures-sink v0.3.31
+   Compiling serde_json v1.0.149
+   Compiling httparse v1.10.1
+   Compiling http v1.4.0
+   Compiling futures-task v0.3.31
+   Compiling untrusted v0.9.0
+   Compiling serde v1.0.228
+   Compiling hashbrown v0.16.1
+   Compiling zerocopy v0.8.37
+   Compiling futures-util v0.3.31
+   Compiling subtle v2.6.1
+   Compiling fnv v1.0.7
+   Compiling slab v0.4.12
+   Compiling memchr v2.7.6
+   Compiling atomic-waker v1.1.2
+   Compiling try-lock v0.2.5
+   Compiling tower-service v0.3.3
+   Compiling percent-encoding v2.3.2
+   Compiling want v0.3.1
+   Compiling syn v2.0.114
+   Compiling indexmap v2.13.0
+   Compiling futures-channel v0.3.31
+   Compiling log v0.4.29
+   Compiling sync_wrapper v1.0.2
+   Compiling tower-layer v0.3.3
+   Compiling http-body v1.0.1
+   Compiling utf8_iter v1.0.4
+   Compiling openssl-probe v0.2.1
+   Compiling base64 v0.22.1
+   Compiling jobserver v0.1.34
+   Compiling errno v0.3.14
+   Compiling mio v1.1.1
+   Compiling socket2 v0.6.2
+   Compiling signal-hook-registry v1.4.8
+   Compiling cc v1.2.55
+   Compiling getrandom v0.2.17
+   Compiling ipnet v2.11.0
+   Compiling rustls-native-certs v0.8.3
+   Compiling form_urlencoded v1.2.2
+   Compiling rand_core v0.6.4
+   Compiling ref-cast v1.0.25
+   Compiling portable-atomic v1.13.1
+   Compiling iri-string v0.7.10
+   Compiling bitflags v2.10.0
+   Compiling regex-syntax v0.8.8
+   Compiling http-body-util v0.1.3
+   Compiling instant v0.1.13
+   Compiling encoding_rs v0.8.35
+   Compiling unicode-width v0.2.2
+   Compiling lazy_static v1.5.0
+   Compiling owo-colors v4.2.3
+   Compiling mime v0.3.17
+   Compiling console v0.16.2
+   Compiling sharded-slab v0.1.7
+   Compiling cmake v0.1.57
+   Compiling tracing-log v0.2.0
+   Compiling thread_local v1.1.9
+   Compiling nu-ansi-term v0.50.3
+   Compiling unit-prefix v0.5.2
+   Compiling dyn-clone v1.0.20
+   Compiling indicatif v0.18.3
+   Compiling glob v0.3.3
+   Compiling regex-automata v0.4.13
+   Compiling aws-lc-sys v0.37.0
+   Compiling ppv-lite86 v0.2.21
+   Compiling matchers v0.2.0
+   Compiling synstructure v0.13.2
+   Compiling serde_derive_internals v0.29.1
+   Compiling rand_chacha v0.3.1
+   Compiling rand v0.8.5
+   Compiling zerofrom-derive v0.1.6
+   Compiling yoke-derive v0.8.1
+   Compiling zerovec-derive v0.11.2
+   Compiling tokio-macros v2.6.0
+   Compiling displaydoc v0.2.5
+   Compiling tracing-attributes v0.1.31
+   Compiling serde_derive v1.0.228
+   Compiling ref-cast-impl v1.0.25
+   Compiling async-trait v0.1.89
+   Compiling schemars_derive v1.2.1
+   Compiling backoff v0.4.0
+   Compiling tokio v1.49.0
+   Compiling zerofrom v0.1.6
+   Compiling yoke v0.8.1
+   Compiling tracing v0.1.44
+   Compiling zerovec v0.11.5
+   Compiling zerotrie v0.2.3
+   Compiling tracing-subscriber v0.3.22
+   Compiling tinystr v0.8.2
+   Compiling potential_utf v0.1.4
+   Compiling icu_collections v2.1.1
+   Compiling icu_locale_core v2.1.1
+   Compiling icu_provider v2.1.1
+   Compiling icu_normalizer v2.1.1
+   Compiling icu_properties v2.1.2
+   Compiling little-agent-model v0.0.0 (/home/fira/Documents/_/opensource/little-agent/crates/model)
+   Compiling schemars v1.2.1
+   Compiling idna_adapter v1.2.1
+   Compiling idna v1.1.0
+   Compiling url v2.5.8
+   Compiling tokio-util v0.7.18
+   Compiling tower v0.5.3
+   Compiling little-agent-actor v0.0.0 (/home/fira/Documents/_/opensource/little-agent/crates/actor)
+   Compiling little-agent-core v0.0.0 (/home/fira/Documents/_/opensource/little-agent/crates/core)
+   Compiling tower-http v0.6.8
+   Compiling h2 v0.4.13
+   Compiling hyper v1.8.1
+   Compiling hyper-util v0.1.20
+   Compiling rustls-webpki v0.103.9
+   Compiling tokio-rustls v0.26.4
+   Compiling rustls-platform-verifier v0.6.2
+   Compiling hyper-rustls v0.27.7
+   Compiling reqwest v0.13.1
+   Compiling little-agent-openai-model v0.0.0 (/home/fira/Documents/_/opensource/little-agent/crates/openai-model)
+error[E0599]: no function or associated item named `from_utf8` found for type `str` in the current scope
+  --> crates/openai-model/src/io/sse.rs:31:34
+   |
+31 |                 let Ok(s) = str::from_utf8(&bytes) else {
+   |                                  ^^^^^^^^^ function or associated item not found in `str`
+   |
+help: you are looking for the module in `std`, not the primitive type
+   |
+31 |                 let Ok(s) = std::str::from_utf8(&bytes) else {
+   |                             +++++
+
+For more information about this error, try `rustc --explain E0599`.
+error: could not compile `little-agent-openai-model` (lib) due to 1 previous error
+warning: build failed, waiting for other jobs to finish...
+```
+
+---
+
+btw idk rust.
+
+---
+
+seems i should provide my version.
+
+```
+fira@Fira ~ % rust                              
+zsh: command not found: rust
+fira@Fira ~ % rustc -v
+error: no input filename given
+
+error: aborting due to 1 previous error
+
+fira@Fira ~ % rustc --version
+rustc 1.85.0 (4d91de4e4 2025-02-17)
+fira@Fira ~ % cargo --version
+cargo 1.85.0 (d73d2caf9 2024-12-31)
+```
+
+maybe that's because i dont export the api keys in the env...
+
+but at least it does not handle this gracefully, i.e. print a delicate error message.
+
+and that should not be a compilation time error... so it bundles my api key into the compiled file? horrible.
+
+idk. maybe my rust version is too old. i dont remember why i install rust...
+
+oh i see. i install it for testing the speed of rust to wasm compared with the js approach.
+
+---
+

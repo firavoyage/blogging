@@ -187,6 +187,7 @@ $fira$ `elegance`
     - gorvgoyl gourav.io gourav.io/clone-wars
     - hakadao hakadao.cc bewlybewly
     - haoel coolshell coolshell.cn
+    - hatschannel telegram
     - himself65 himself65.com affine.pro
     - hullqin game.hullqin.cn
     - huxpro huangxuan.me
@@ -212,7 +213,7 @@ $fira$ `elegance`
     - michaelyuhe coooolxyh emojionly.chat travelclaw.app
     - moxie signal.org
     - nat friedman nat.org github
-    - nekomeowww ayakaneko ayaka.moe ayaka.io 
+    - nekomeowww ayakaneko ayaka.moe ayaka.io
     - newlearnerchannel
     - ornicar lichess.org
     - radolyn radolyn.com docs.ayugram.one
@@ -239,9 +240,9 @@ $fira$ `elegance`
     - grant sanderson 3blue1brown.com
     - hmuniversity hmu.ac.cn wildchickenuniversity wcu.edu.pl
     - hzwer hzwer.com
+    - jiang zi jun zhihu
     - jiangly codeforces
     - jiangyy jiang yanyan jyywiki.cn
-    - jiangzijun zhihu
     - kkksc03 luogu k.luogu.org
     - leerob leerob.com cursor.com
     - matrix67 matrix67.com matrix67.itch.io localhost_8080 localhost-8080.com
@@ -254,10 +255,12 @@ $fira$ `elegance`
     - qingyu qoj.ac
     - que_tourist gennady korotkevich codeforces
     - shiffman thecodingtrain.com
+    - sinyalee sinyalee.com alpha-star-research.com
     - su dekuang zju
     - whynottv1999 tairanhe.com
     - yu ming shu zhihu qed.moe yaru.io asaka.moe
     - yxc acwing.com
+    - zhao ling zhihu
   - journalism
     - cdtchinese chinadigitaltimes.net
     - chai jing
@@ -316,7 +319,7 @@ $fira$ `elegance`
     - rosmontis_daily telegram
     - seishin_konran telegram
     - shiratsuyudachi
-    - sinyalee sinyalee.com alpha-star-research.com
+    - starnekovo misakabit starneko.com
     - the1nfinitesadness telegram
     - timochan timochan.cn mx-space.js.org
     - tinyfool tinyfool.org codechina.org
@@ -338,7 +341,8 @@ $fira$ `elegance`
     - yihong0618 hyi0618
     - yukarichannel telegram
     - yunyoujun yunyoujun.cn
-    - ziantt ziantt_official lightxi
+    - yusuke_takigawa
+    - ziantt ziantt_official lightxi ziantt.top
   - niche
     - animenz
     - endgame endgamebattlebot.com
