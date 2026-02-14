@@ -447,7 +447,7 @@ $fira$ `elegance`
   - fantasy (jay chou)
   - qun ding (mi feng chu)
   - tui yi de ni (menci & wxh010910 & yan qval & krydom & niro bc & wer key tom_ftd & \_\_stdcall & created_equal & whzzt & wy1627)
-- movies
+- films
   - spirited away (2001)
   - soul (2020)
   - the shawshank redemption (1994)
@@ -482,6 +482,7 @@ $fira$ `elegance`
   - the good, the bad and the ugly (1966)
   - her (2013)
   - cosmic princess kaguya (2026)
+  - the godfather (1972)
   - .the disappearance of haruhi suzumiya (2010)
   - .bocchi the rock! recap part 1 (2024)
 - series
@@ -503,10 +504,10 @@ $fira$ `elegance`
   - love, chunibyo & other delusions!, narrated by muyushuixin (2012)
   - reply 1988, narrated by muyushuixin (2015)
   - kaguya-sama: love is war, season 3 (2022)
+  - bocchi the rock (2022)
   - frieren: beyond journey's end (2023)
   - .date a live (2013)
   - .sword art online (2012)
-  - .bocchi the rock (2022)
   - .k-on! (2009)
   - .a certain scientific railgun (2009)
   - .re: zero - starting life in another world (2016)
