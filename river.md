@@ -337,6 +337,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `24` 2026.02.07
 - `25` 2026.02.12
 - `26` 2026.02.14
+- `27` 2026.02.15
 
 ## gaming
 
@@ -17355,3 +17356,24 @@ nickel angel 不年轻了.
 动画真是幻想的世界啊.
 
 ---
+
+You: matrix 别管我有没有 verified。别推荐 e2ee。验证太复杂。
+
+You: Fluffy chat is so suspicious. You click create group. You can select create space after that. 
+
+You can't archive chats. Clicking on the message has no effect. 
+
+Ux is nerd oriented. YouTube has stats for nerds, but hidden by default. Progressive disclosure. 
+
+You can't multi select chats. 
+
+You can multi select messages, but you couldn't click on the message. You could only click the small multi select button on the left one by one. 
+
+I could create a space called archive. It tells me I don't have permission only after I try to move into archive. And seems it's already in, even without permission. 
+
+You: Navigation is confusing. Sometimes you see > but it doesn't behave like showing something more. Sometimes you couldn't do something due to lack of permission but the button is not disabled. 
+
+On ayugram, you could view deleted messages, like a spy. you could clear them. but you could not just hide them (in chat, without going to settings)! ... on bird, you save everything by default. but i use progressive disclosure.
+
+---
+

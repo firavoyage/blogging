@@ -282,6 +282,7 @@ $fira$ `elegance`
     - butaikirin citronateo hee.ink
     - c0de_sw0rd c0de-sw0rd.itch.io
     - canyie canyiechannel blog.canyie.top
+    - chesszyh lichess lingyuanyuanyuanyuanyuan notrealname zhihu
     - chiyuki0325 chyk.ink
     - ciceroxiao hong520_x ciceros_self_talk ciceroxiao.github.io/hong525
     - cosmicac 2o181o28.github.io
@@ -297,7 +298,6 @@ $fira$ `elegance`
     - kenvix kenvixmeow kenvix.com
     - kungalgame kungalgamechannel upsetgal kungal.com
     - leanrada kalabasa leanrada.com
-    - lingyuanyuanyuanyuanyuan notrealname zhihu
     - liujiayi1111 tauri
     - liuran_jyz liuran_yanagi vimhub.org/jyz
     - llennchan2003 nana_nyan03
