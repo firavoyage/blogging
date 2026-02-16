@@ -17347,6 +17347,10 @@ idk. maybe my rust version is too old. i dont remember why i install rust...
 
 oh i see. i install it for testing the speed of rust to wasm compared with the js approach.
 
+upd: 
+
+he replies: you should update. thanks. i will add the minimum supported version explicitly. 
+
 ---
 
 nickel angel 不年轻了.
@@ -17376,4 +17380,27 @@ You: Navigation is confusing. Sometimes you see > but it doesn't behave like sho
 On ayugram, you could view deleted messages, like a spy. you could clear them. but you could not just hide them (in chat, without going to settings)! ... on bird, you save everything by default. but i use progressive disclosure.
 
 ---
+
+bird:
+
+can i hide messages from certain users, like rose, the human verification bot?
+
+---
+
+pronounce -> pronunciation.
+
+(like curious curiosity)
+
+---
+
+i did not receive 20 prds. 
+
+---
+
+purchase openrouter tokens...
+
+"use crypto" is enabled by default?!
+
+---
+
 

@@ -1,6 +1,21 @@
-cd "Downloads/g"
-[ -n "$(echo *.jpeg)" ] && for f in *.jpeg; do mv "$f" "${f%.jpeg}.jpg"; done
-[ -n "$(echo *.png)" ] && mogrify -background black -flatten -format jpg *.png && rm *.png
-[ -n "$(echo *.webp)" ] && mogrify -background black -flatten -format jpg *.webp && rm *.webp
-[ -n "$(echo *.jpg)" ] && mogrify -quality 60 *.jpg
+cd "Downloads/g" || exit
+
+# rename .jpeg to .jpg
+find . -type f -name "*.jpeg" -exec bash -c '
+for f; do
+  mv "$f" "${f%.jpeg}.jpg"
+done
+' _ {} +
+
+# convert .png to .jpg and remove original
+find . -type f -name "*.png" -exec mogrify -background black -flatten -format jpg {} +
+find . -type f -name "*.png" -delete
+
+# convert .webp to .jpg and remove original
+find . -type f -name "*.webp" -exec mogrify -background black -flatten -format jpg {} +
+find . -type f -name "*.webp" -delete
+
+# compress all .jpg
+find . -type f -name "*.jpg" -exec mogrify -quality 60 {} +
+
 cd ../..

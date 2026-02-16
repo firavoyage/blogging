@@ -96,6 +96,14 @@ function push() {
         git push -f e
         cd ..
 
+        cd university
+        git add .
+        git commit -m '.' || true
+        git push -f g
+        git push -f a
+        git push -f e
+        cd ..
+
         cd fonts
         git add .
         git commit -m '.' || true
