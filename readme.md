@@ -157,6 +157,7 @@ $fira$ `elegance`
     - re-xyr dayli.ly
     - rea1donandtrump rene.wang detail.design ygeeker.com
     - ryokun6 ryo.lu work.ryo.lu os.ryo.lu soundboard.ryo.lu
+    - saeziae estela.moe estela.moe/drawer @sz@catcatnya.com
     - sdw sdw.space
     - shadcn shadcn.com
     - shuding shud.in
@@ -178,6 +179,7 @@ $fira$ `elegance`
     - arvin17x lobehub.com
     - bradwoods bradwoods.io garden.bradwoods.io
     - chriscoyier css-tricks.com codepen.io chriscoyier.net
+    - cline cline.bot
     - disdjj blog.pdjjq.org
     - diygod awesomediygod prpr233 diygod.cc rsshub.app folo.is
     - egoist egoist.dev chatwise.app anime-sedai.egoist.dev
@@ -205,7 +207,6 @@ $fira$ `elegance`
     - lexrus lex.sh
     - lightvector katago
     - lionleaf dwitter.net
-    - piracy6 telegram
     - luoling8192 luoling.moe airi.moeru.ai
     - luvletter2333 haruhi_smith nekox nagramx haruhi_channel
     - lyricat lyric.im
@@ -216,6 +217,7 @@ $fira$ `elegance`
     - nekomeowww ayakaneko ayaka.moe ayaka.io
     - newlearnerchannel
     - ornicar lichess.org
+    - piracy6 telegram
     - radolyn radolyn.com docs.ayugram.one
     - randy lutaonan.com
     - risin42 nagramx
@@ -224,6 +226,7 @@ $fira$ `elegance`
     - sama sam altman blog.samaltman.com openai.com
     - samuelqzq qzq.at
     - scavenger869 loongphy.com
+    - sheepbox8646 acboxliu chattutor.app memoh.ai
     - simonw simonwillison simonwillison.net
     - steipete steipete.me clawd.bot moltbook.com clawk.ai
     - swyxio swyx.io/ideas latent.space dx.tips learninpublic.org
@@ -289,6 +292,7 @@ $fira$ `elegance`
     - daimajia daimajia.com
     - discodyer codygua cody2333 cd.ai
     - durov telegram.org tgnav tgnav.github.io tg10000.com tree.aza.moe
+    - dustella_chan dustella.net
     - hitw93 tw93.fun weekly.tw93.fun
     - hsn8086 hsn8086k hsn.recipe
     - ilharp ilharper ilharper.com
@@ -313,10 +317,11 @@ $fira$ `elegance`
     - nickel_angel
     - notevenaneko qwq.icu
     - nt_cubic telegram
+    - quantumtransf
     - ramsayleung pineapplebun ramsayleung.github.io
     - real_clover_yan khyan.top
     - rongronggg9 rongrongqaq planetrong rong.moe rongrongbq.moe
-    - rosmontis_daily telegram
+    - rosmontis233 rosmontis_daily telegram
     - seishin_konran telegram
     - shiratsuyudachi
     - starnekovo misakabit starneko.com
@@ -617,6 +622,7 @@ $fira$ `elegance`
   - fyfy.fm (justin yan & hzlzh)
   - hard hacker (yixiao & 0xsaito & anson)
   - latent space (swyx & alessio)
+  - lenny's podcast (lennysan)
   - lex fridman podcast (lex fridman)
   - mindhub by product thinking (shaonan & fonter & mengna)
   - pan.icu (wu tao & rio)
@@ -889,7 +895,7 @@ $fira$ `elegance`
 
 ## backyard
 
-- お可愛いこと
+- 君子生非异也 善假于物也
 - 致虚极 守静笃
 - 念念不忘 必有回响
 - 遂迷不复得路
@@ -930,6 +936,7 @@ $fira$ `elegance`
 - 庭树不知人去尽 春来还发旧时花
 - 又七年 还自扬州 复到舅家问焉 曰 泯然众人矣
 - 聪明的 你告诉我 我们的日子为什么一去不复返呢
+- 前倨后恭 思之令人发笑
 
 ## compass
 

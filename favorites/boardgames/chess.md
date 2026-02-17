@@ -462,6 +462,87 @@
 
 1. e4 { [%clk 0:10:00] } 1... Nc6 { [%clk 0:10:00] } 2. Nf3 { [%clk 0:09:55] } { B00 Nimzowitsch Defense: Declined Variation } 2... h6 { [%clk 0:10:02] } 3. d4 { [%clk 0:09:52] } 3... g6 { [%clk 0:10:06] } 4. c4 { [%clk 0:09:42] } 4... Nf6 { [%clk 0:10:10] } 5. Nc3 { [%clk 0:09:33] } 5... e6 { [%clk 0:10:14] } 6. c5 { [%clk 0:09:08] } 6... d5 { [%clk 0:10:15] } 7. exd5 { [%clk 0:09:06] } 7... exd5 { [%clk 0:10:20] } 8. Bb5 { [%clk 0:08:48] } 8... Qe7+ { [%clk 0:10:21] } 9. Ne5 { [%clk 0:08:29] } 9... a6 { [%clk 0:10:20] } 10. Bxc6+ { [%clk 0:08:16] } 10... bxc6 { [%clk 0:10:23] } 11. O-O { [%clk 0:08:18] } 11... Bg4 { [%clk 0:10:20] } 12. f3 { [%clk 0:08:16] } 12... Bf5 { [%clk 0:10:22] } 13. b4 { [%clk 0:07:29] } 13... g5 { [%clk 0:10:24] } 14. g4 { [%clk 0:07:19] } 14... Be6 { [%clk 0:10:22] } 15. Qa4 { [%clk 0:06:02] } 15... O-O-O { [%clk 0:10:21] } 16. Nxc6 { [%clk 0:05:51] } 16... Qd7 { [%clk 0:10:10] } 17. Qxa6# { [%clk 0:05:26] } { White wins by checkmate. } 1-0
 
+---
+
+[Event "rated rapid game"]
+[Site "https://lichess.org/O4Ethylg"]
+[Date "2026.02.17"]
+[Round "-"]
+[White "firahq"]
+[Black "Morgun_0324"]
+[Result "0-1"]
+[GameId "O4Ethylg"]
+[UTCDate "2026.02.17"]
+[UTCTime "08:51:24"]
+[WhiteElo "955"]
+[BlackElo "977"]
+[WhiteRatingDiff "-32"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C40"]
+[Opening "King's Pawn Game: Busch-Gass Gambit"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. e4 { [%clk 0:10:00] } 1... e5 { [%clk 0:10:00] } 2. Nf3 { [%clk 0:10:04] } 2... Bc5 { [%clk 0:10:03] } { C40 King's Pawn Game: Busch-Gass Gambit } 3. Nxe5 { [%clk 0:10:01] } 3... Qh4 { [%clk 0:10:05] } 4. g3 { [%clk 0:09:16] } 4... Qxe4+ { [%clk 0:10:06] } 5. Qe2 { [%clk 0:09:12] } 5... Qxh1 { [%clk 0:10:08] } 6. Nf3+ { [%clk 0:08:33] } 6... Ne7 { [%clk 0:10:07] } 7. d4 { [%clk 0:08:12] } 7... Bb4+ { [%clk 0:09:59] } 8. c3 { [%clk 0:08:15] } 8... Ba5 { [%clk 0:10:01] } 9. Bf4 { [%clk 0:07:48] } 9... b6 { [%clk 0:10:02] } 10. b4 { [%clk 0:07:40] } 10... Ba6 { [%clk 0:10:04] } 11. Qxa6 { [%clk 0:05:44] } 11... Nxa6 { [%clk 0:09:49] } 12. Ke2 { [%clk 0:05:15] } 12... O-O { [%clk 0:09:49] } 13. Bg5 { [%clk 0:04:56] } 13... Rfe8 { [%clk 0:09:43] } 14. h4 { [%clk 0:04:39] } 14... Nf5+ { [%clk 0:09:18] } 15. Ne5 { [%clk 0:04:34] } 15... Qe4+ { [%clk 0:09:05] } 16. Kd2 { [%clk 0:04:02] } 16... c5 { [%clk 0:08:01] } 17. bxa5 { [%clk 0:03:47] } 17... cxd4 { [%clk 0:07:57] } 18. Bxa6 { [%clk 0:02:13] } 18... Rxe5 { [%clk 0:07:41] } 19. axb6 { [%clk 0:01:42] } 19... axb6 { [%clk 0:07:29] } 20. Bd3 { [%clk 0:01:40] } 20... Qe1+ { [%clk 0:07:19] } 21. Kc2 { [%clk 0:01:30] } 21... Qxf2+ { [%clk 0:06:55] } 22. Kb3 { [%clk 0:01:24] } 22... Qf3 { [%clk 0:06:19] } 23. Bc4 { [%clk 0:00:53] } 23... Re1 { [%clk 0:05:21] } { White resigns. } 0-1
+
+---
+
+[Event "rated rapid game"]
+[Site "https://lichess.org/ACJeQnP5"]
+[Date "2026.02.17"]
+[Round "-"]
+[White "Phacelia29"]
+[Black "firahq"]
+[Result "1-0"]
+[GameId "ACJeQnP5"]
+[UTCDate "2026.02.17"]
+[UTCTime "09:12:52"]
+[WhiteElo "936"]
+[BlackElo "923"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-28"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C42"]
+[Opening "Petrov's Defense: Italian Variation"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. e4 { [%clk 0:10:00] } 1... e5 { [%clk 0:10:00] } 2. Bc4 { [%clk 0:09:59] } 2... Nf6 { [%clk 0:09:48] } 3. Nf3 { [%clk 0:09:58] } { C42 Petrov's Defense: Italian Variation } 3... d5 { [%clk 0:09:45] } 4. exd5 { [%clk 0:09:55] } 4... Nxd5 { [%clk 0:09:49] } 5. Nxe5 { [%clk 0:09:56] } 5... Bc5 { [%clk 0:09:04] } 6. Qf3 { [%clk 0:09:57] } 6... c6 { [%clk 0:09:04] } 7. Qxf7# { [%clk 0:09:52] } { White wins by checkmate. } 1-0
+
+---
+
+[Event "rated rapid game"]
+[Site "https://lichess.org/RKMWycu7"]
+[Date "2026.02.17"]
+[Round "-"]
+[White "gawad1989"]
+[Black "firahq"]
+[Result "0-1"]
+[GameId "RKMWycu7"]
+[UTCDate "2026.02.17"]
+[UTCTime "09:16:58"]
+[WhiteElo "931"]
+[BlackElo "895"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+32"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defense: Breyer Variation"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. e4 { [%clk 0:10:00] } 1... e5 { [%clk 0:10:00] } 2. Nc3 { [%clk 0:10:02] } 2... Nf6 { [%clk 0:10:02] } 3. d4 { [%clk 0:10:03] } 3... Nc6 { [%clk 0:09:51] } { B00 Nimzowitsch Defense: Breyer Variation } 4. dxe5 { [%clk 0:10:05] } 4... Nxe5 { [%clk 0:09:55] } 5. Bg5 { [%clk 0:09:34] } 5... Bc5 { [%clk 0:09:33] } 6. Nd5 { [%clk 0:09:31] } 6... O-O { [%clk 0:09:19] } 7. Qd2 { [%clk 0:08:31] } 7... c6 { [%clk 0:08:12] } 8. Qc3 { [%clk 0:08:23] } 8... Nxe4 { [%clk 0:07:06] } 9. Qxe5 { [%clk 0:08:15] } 9... Nxg5 { [%clk 0:06:43] } 10. Nc7 { [%clk 0:07:57] } 10... d6 { [%clk 0:05:56] } 11. Qe3 { [%clk 0:07:46] } 11... Bxe3 { [%clk 0:05:47] } { White resigns. } 0-1
+
+
+
+
+
+
+
 
 
 
