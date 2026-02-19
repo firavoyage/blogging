@@ -338,6 +338,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `25` 2026.02.12
 - `26` 2026.02.14
 - `27` 2026.02.15
+- `28` 2026.02.19
 
 ## gaming
 
@@ -16714,7 +16715,7 @@ btw, on ayugram, you have ghost mode: not sending online/typing/read. and you co
 
 and ayugram does not copy images as blank msgs. (it just omits.)
 
-maybe i should use tg's built in msgs export. but... it's not one plain text (json incl.) file, not complying the unix philosophy. 
+maybe i should use tg's built in msgs export. but... it's not one plain text (json incl.) file, not complying the unix philosophy.
 
 ---
 
@@ -16770,7 +16771,7 @@ maybe it's better to curate what you wanna see instead of blocking. theoreticall
 
 ---
 
-liuran unfollows me. 
+liuran unfollows me.
 
 but nickle angel and the russian anonymous follows me. cute. pretty. although less wealthy seems.
 
@@ -16792,7 +16793,7 @@ just go somewhere peaceful and stay within my solitude.
 
 ---
 
-on google search, 
+on google search,
 
 on the left "+", uploading image means asking ai about this image.
 
@@ -16848,13 +16849,13 @@ seems chatgpt reverts to the prev code block ui design.
 
 "try my best in the current game and i will succeed."
 
-fira thinks she would be lucky enough. 
+fira thinks she would be lucky enough.
 
 things could not be changed. the fate is the fate.
 
 if she fights, she will fail.
 
-life is easy. 
+life is easy.
 
 ---
 
@@ -17021,7 +17022,7 @@ idk. here is the error message.
 
 ```
 fira@Fira ~/Documents/_/opensource/little-agent/crates/little-agent
- % cargo run                                                            
+ % cargo run
     Updating crates.io index
   Downloaded async-trait v0.1.89
   Downloaded dyn-clone v1.0.20
@@ -17324,7 +17325,7 @@ btw idk rust.
 seems i should provide my version.
 
 ```
-fira@Fira ~ % rust                              
+fira@Fira ~ % rust
 zsh: command not found: rust
 fira@Fira ~ % rustc -v
 error: no input filename given
@@ -17347,9 +17348,9 @@ idk. maybe my rust version is too old. i dont remember why i install rust...
 
 oh i see. i install it for testing the speed of rust to wasm compared with the js approach.
 
-upd: 
+upd:
 
-he replies: you should update. thanks. i will add the minimum supported version explicitly. 
+he replies: you should update. thanks. i will add the minimum supported version explicitly.
 
 ---
 
@@ -17363,19 +17364,19 @@ nickel angel 不年轻了.
 
 You: matrix 别管我有没有 verified。别推荐 e2ee。验证太复杂。
 
-You: Fluffy chat is so suspicious. You click create group. You can select create space after that. 
+You: Fluffy chat is so suspicious. You click create group. You can select create space after that.
 
-You can't archive chats. Clicking on the message has no effect. 
+You can't archive chats. Clicking on the message has no effect.
 
-Ux is nerd oriented. YouTube has stats for nerds, but hidden by default. Progressive disclosure. 
+Ux is nerd oriented. YouTube has stats for nerds, but hidden by default. Progressive disclosure.
 
-You can't multi select chats. 
+You can't multi select chats.
 
-You can multi select messages, but you couldn't click on the message. You could only click the small multi select button on the left one by one. 
+You can multi select messages, but you couldn't click on the message. You could only click the small multi select button on the left one by one.
 
-I could create a space called archive. It tells me I don't have permission only after I try to move into archive. And seems it's already in, even without permission. 
+I could create a space called archive. It tells me I don't have permission only after I try to move into archive. And seems it's already in, even without permission.
 
-You: Navigation is confusing. Sometimes you see > but it doesn't behave like showing something more. Sometimes you couldn't do something due to lack of permission but the button is not disabled. 
+You: Navigation is confusing. Sometimes you see > but it doesn't behave like showing something more. Sometimes you couldn't do something due to lack of permission but the button is not disabled.
 
 On ayugram, you could view deleted messages, like a spy. you could clear them. but you could not just hide them (in chat, without going to settings)! ... on bird, you save everything by default. but i use progressive disclosure.
 
@@ -17393,7 +17394,7 @@ pronounce -> pronunciation.
 
 ---
 
-i did not receive 20 prds. 
+i did not receive 20 prds.
 
 ---
 
@@ -17411,7 +17412,7 @@ conclusion:
 
 only `gpt-5.2` works in my test cases.
 
-test: 
+test:
 
 ```
 export OPENAI_BASE_URL="https://openrouter.ai/api/v1"
@@ -17550,7 +17551,77 @@ There are not that many people in the world who really like make a difference he
 
 ---
 
-At a certain complexity, it fixes one thing, it breaks three other things. 
+At a certain complexity, it fixes one thing, it breaks three other things.
+
+---
+
+youtube ux is relaxing.
+
+i hover a vid.
+
+you compute the md color from the thumbnail.
+
+you apply it to the text immediately.
+
+you create a round rect as the hover background slow in quick out.
+
+when you hover a vid you could play it. the progress bar is on the bottom. when you wanna control it, it goes up a bit. good.
+
+but... seems you could not fullscreen without going inside the main page. and the progress... does not always resume properly.
+
+---
+
+This elderly man mistakenly believes that his country is a so-called “socialist” nation. In reality, today’s China is a capitalist country even more capitalist than the United States. More precisely, it is a form of capitalism controlled by the red nobility and the bureaucratic class.The vast majority of Chinese citizens face tremendous pressure from taxes imposed by the state and government (including various hidden taxes), yet they receive almost no government welfare benefits, such as pensions and healthcare/medical insurance.The most tragic thing is that people living within this system—like this elderly man—barely notice it at all. I believe this is largely due to information isolation and brainwashing propaganda, though other factors certainly play a role as well.This is my personal feeling as a Chinese person.
+
+I’d agree before moving to the USA. You talked about hidden taxes, but there are also hidden welfare, such as the affordable medical services
+
+负担的起个屁，看病贵的要死，还负担的起，就算你有医保也会有各种条件很多也用不了
+
+贵不贵比出来的，我只能说你来美国试试 😂 超乎想象
+
+I can agree about questioning the socialism of China, tho it’s nowhere CLOSE to the US, where literally EVERYTHING is privatized - China is about as capitalist as Europe
+
+---
+
+Not saying it's a scam or not, no idea what it even was.. but their justification was "if it works why would we have hospitals". Rothschilds family actively suppressed traditional Chinese medicine in China. TCM is still one of the most effective and well proven alternative therapies. Backed by thousands of years of case studies and modern clinical trials.
+
+I've personally used it to reduce symptoms of disease in my senior dog by 90% for a condition my vet failed to manage. Have used the principles to totally cure myself of multiple diseases before I really understood TCM - just based on my own trial and error when it comes to diet and supplements.
+
+Their intentions were good so props to them. Not sure their advice was good either way.
+
+it's not TCM is it? what was she selling?
+
+TCM isn't a scam. it's highly effective as far as alternative health treatments go. its top tier.
+
+Thank you. I appreciate your trust in TCM. It is indeed a prominent and powerful system of healthcare that has been used for millenia. But this video makes me think of insulin, which is sold for $300 despite a true production cost of about $10. The insulin is real medicine, it’s the predatory pricing that’s the scam. At its core, overpricing any essential good,from food to housing to medicine - is a fraudulent act.
+
+---
+
+chatgpt popups up codex ads detecting code related stuff.
+
+popups are never good.
+
+---
+
+fyfy, onevcat.
+
+were you one with infinite money... what would you do.
+
+(fira.)
+
+i would live a life like just another wealthy guy...
+
+i would join the community. i would exchange namecards/profiles.
+
+since i love to think, to create/craft, and to organize, maybe i would have some children, create some educational content, and play chess. ~~make some origamis~~. ~~do some research~~.
+
+i would employ some good ppl.
+
+that's it.
+
+---
+
+sicp. aops. clrs.
 
 ---
 

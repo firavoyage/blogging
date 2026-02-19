@@ -68,7 +68,7 @@ $fira$ `elegance`
 
 > if you ever miss me, just close your eyes. and maybe i'll appear in your dreams.
 
-- fira 💖, she/her (not 🏳️‍⚧️ or 🍥), 🇬🇧 user, 🇨🇳 native but rarely used, 🇯🇵 learner, 🇫🇷 very beginner
+- fira 💖, she/her (without 🏳️‍⚧️ or 🍥), 🇬🇧 user, 🇨🇳 native but rarely used, 🇯🇵 learner, 🇫🇷 very beginner
 - a developer, content creator, wikipedian
 - grew up in shanghai
 - on the internet since 2019, which is my actual "home town"
@@ -226,6 +226,7 @@ $fira$ `elegance`
     - sama sam altman blog.samaltman.com openai.com
     - samuelqzq qzq.at
     - scavenger869 loongphy.com
+    - share121 inter-knot s121.top fd.s121.top
     - sheepbox8646 acboxliu chattutor.app memoh.ai
     - simonw simonwillison simonwillison.net
     - steipete steipete.me clawd.bot moltbook.com clawk.ai
@@ -315,6 +316,7 @@ $fira$ `elegance`
     - mr_gao_it_words telegram
     - neko205-mx neko_25_mx blog.neko25.top srcblog.neko25.top
     - nickel_angel
+    - ninalex12 asakawauniversityofscience
     - notevenaneko qwq.icu
     - nt_cubic telegram
     - quantumtransf
@@ -350,12 +352,13 @@ $fira$ `elegance`
     - ziantt ziantt_official lightxi ziantt.top
   - niche
     - animenz
+    - chessvibesofficial nelson lopez
+    - danielnaroditskygm
     - endgame endgamebattlebot.com
     - funshiki
-    - gaou
     - gao zixiang
+    - gaou
     - gmhikaru
-    - jueming mofei
     - ke jie
     - lciop
     - li jiaqing
@@ -363,13 +366,12 @@ $fira$ `elegance`
     - longbow flintlock
     - mohamad light
     - muyu shuixin
-    - ninalex12 asakawauniversityofscience
     - potetomj
-    - share121 inter-knot s121.top fd.s121.top
     - shin jin-seo
     - student he studio
     - xiaoyao sanren
     - yokidou shadowverse
+    - zhang jiao
   - isekai
     - acetaffy812 echo spade
     - angelnekochan

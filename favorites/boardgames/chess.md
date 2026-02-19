@@ -587,7 +587,6 @@
 
 1. e4 { [%clk 0:10:00] } 1... e5 { [%clk 0:10:00] } 2. Nf3 { [%clk 0:09:19] } 2... Qf6 { [%clk 0:10:01] } { C40 King's Pawn Game: McConnell Defense } 3. d4 { [%clk 0:08:48] } 3... exd4 { [%clk 0:09:51] } 4. Nxd4 { [%clk 0:08:50] } 4... Bc5 { [%clk 0:09:49] } 5. Nf5 { [%clk 0:08:12] } 5... Qg6 { [%clk 0:09:46] } 6. g4 { [%clk 0:06:26] } { White wins on time. } 1-0
 
-
 ---
 
 [Event "rated rapid game"]
@@ -613,5 +612,27 @@
 
 1. e4 { [%clk 0:10:00] } 1... c6 { [%clk 0:10:00] } 2. d4 { [%clk 0:09:58] } 2... d5 { [%clk 0:10:03] } 3. exd5 { [%clk 0:09:58] } { B13 Caro-Kann Defense: Exchange Variation } 3... cxd5 { [%clk 0:10:07] } 4. Nc3 { [%clk 0:09:54] } 4... Nf6 { [%clk 0:10:09] } 5. Nf3 { [%clk 0:09:44] } 5... Nc6 { [%clk 0:10:12] } 6. Bd3 { [%clk 0:09:10] } 6... Bg4 { [%clk 0:10:06] } 7. O-O { [%clk 0:09:11] } 7... e6 { [%clk 0:10:03] } 8. Bf4 { [%clk 0:08:43] } 8... Bd6 { [%clk 0:09:51] } 9. Bg5 { [%clk 0:08:12] } 9... Nxd4 { [%clk 0:09:51] } 10. Bxf6 { [%clk 0:07:15] } 10... Qxf6 { [%clk 0:09:53] } 11. h3 { [%clk 0:07:17] } 11... Bxf3 { [%clk 0:09:56] } 12. gxf3 { [%clk 0:07:21] } 12... Nxf3+ { [%clk 0:10:00] } 13. Kg2 { [%clk 0:07:16] } 13... O-O { [%clk 0:09:57] } 14. Qxf3 { [%clk 0:07:08] } 14... Qxf3+ { [%clk 0:10:00] } 15. Kxf3 { [%clk 0:07:12] } 15... d4 { [%clk 0:10:01] } 16. Ne4 { [%clk 0:06:48] } 16... Be5 { [%clk 0:09:57] } 17. c3 { [%clk 0:05:54] } 17... Rad8 { [%clk 0:09:58] } 18. Rfd1 { [%clk 0:05:39] } 18... f5 { [%clk 0:09:59] } 19. Nc5 { [%clk 0:04:55] } 19... dxc3 { [%clk 0:09:28] } 20. Nxe6 { [%clk 0:03:54] } 20... cxb2 { [%clk 0:09:18] } 21. Rab1 { [%clk 0:03:42] } 21... Rd5 { [%clk 0:08:53] } 22. Nxf8 { [%clk 0:03:37] } 22... Kxf8 { [%clk 0:08:57] } 23. Bxf5 { [%clk 0:02:57] } 23... Rxd1 { [%clk 0:08:44] } 24. Rxd1 { [%clk 0:03:00] } 24... b5 { [%clk 0:08:40] } 25. a3 { [%clk 0:02:48] } 25... a5 { [%clk 0:08:41] } 26. Ke4 { [%clk 0:02:45] } 26... Bf6 { [%clk 0:08:39] } 27. Kd5 { [%clk 0:02:21] } 27... b4 { [%clk 0:08:25] } 28. axb4 { [%clk 0:02:23] } 28... a4 { [%clk 0:08:27] } 29. Kd6 { [%clk 0:02:08] } 29... a3 { [%clk 0:08:31] } 30. Kd7 { [%clk 0:02:06] } 30... a2 { [%clk 0:08:27] } 31. Re1 { [%clk 0:02:08] } 31... b1=Q { [%clk 0:08:10] } 32. Re8+ { [%clk 0:02:11] } 32... Kf7 { [%clk 0:08:13] } 33. Be6+ { [%clk 0:02:15] } 33... Kg6 { [%clk 0:08:17] } 34. Bf7+ { [%clk 0:02:04] } 34... Kxf7 { [%clk 0:08:19] } 35. b5 { [%clk 0:02:02] } 35... a1=Q { [%clk 0:08:21] } { White resigns. } 0-1
 
+---
 
+[Event "rated rapid game"]
+[Site "https://lichess.org/6h4wnS2a"]
+[Date "2026.02.18"]
+[Round "-"]
+[White "whereketchup"]
+[Black "firahq"]
+[Result "0-1"]
+[GameId "6h4wnS2a"]
+[UTCDate "2026.02.18"]
+[UTCTime "15:35:52"]
+[WhiteElo "842"]
+[BlackElo "883"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+20"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "A20"]
+[Opening "English Opening: King's English Variation"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
 
+1. c4 { [%clk 0:10:00] } 1... e5 { [%clk 0:10:00] } { A20 English Opening: King's English Variation } 2. b3 { [%clk 0:10:05] } 2... d5 { [%clk 0:09:59] } 3. Bb2 { [%clk 0:10:07] } 3... Nc6 { [%clk 0:09:58] } 4. g3 { [%clk 0:10:07] } 4... Nf6 { [%clk 0:09:44] } 5. f4 { [%clk 0:10:03] } 5... Bc5 { [%clk 0:09:04] } 6. fxe5 { [%clk 0:10:00] } 6... Nxe5 { [%clk 0:09:04] } 7. Bxe5 { [%clk 0:10:02] } 7... O-O { [%clk 0:08:55] } 8. d4 { [%clk 0:09:52] } 8... Ng4 { [%clk 0:08:26] } 9. Nc3 { [%clk 0:09:32] } 9... Nxe5 { [%clk 0:07:50] } 10. dxe5 { [%clk 0:09:25] } 10... dxc4 { [%clk 0:05:12] } 11. Qxd8 { [%clk 0:09:13] } 11... Rxd8 { [%clk 0:05:08] } 12. bxc4 { [%clk 0:09:16] } 12... Bd4 { [%clk 0:04:51] } 13. Rc1 { [%clk 0:08:50] } 13... Bxe5 { [%clk 0:03:48] } 14. Rd1 { [%clk 0:08:46] } 14... Bxc3+ { [%clk 0:03:30] } { White resigns. } 0-1
