@@ -340,6 +340,10 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `27` 2026.02.15
 - `28` 2026.02.19
 
+### too many losing heroines!
+
+- `1` 2026.02.20
+
 ## gaming
 
 ### sr
@@ -17622,6 +17626,48 @@ that's it.
 ---
 
 sicp. aops. clrs.
+
+---
+
+"it's... you dont really want to play hope chess"
+
+---
+
+chatgpt is slow (laggy when typing) with 20 messages.
+
+---
+
+chatgpt code ux improves.
+
+gen code: loading. you could not copy.
+
+finish (just this code block): ok.
+
+before you need to finish the full msg before copy and it has rendering bugs.
+
+---
+
+the chess of go is hard...
+
+maybe... the ai oppo does not need to think. so boring.
+
+if i play safely, it would be a close game even if i dont make mistakes.
+
+if i play aggressively, often i would be crushed. i have to think. oppo does not.
+
+i have to fight. but the oppo plays quickly.
+
+btw, i forget some opening patterns. idk whether im ok. idk whether i play it right.
+
+(in chess i could see my pieces and position.)
+
+and there's no built in free engines. (i could have one.) 
+
+the ux sucks.
+
+i would love to play some puzzles, but idk whether there is.
+
+maybe i could try zhangqi. (ive seen muya playing this)
 
 ---
 

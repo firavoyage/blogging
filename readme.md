@@ -490,6 +490,7 @@ $fira$ `elegance`
   - her (2013)
   - cosmic princess kaguya (2026)
   - the godfather (1972)
+  - the shining (1980)
   - .the disappearance of haruhi suzumiya (2010)
   - .bocchi the rock! recap part 1 (2024)
 - series
@@ -513,6 +514,7 @@ $fira$ `elegance`
   - kaguya-sama: love is war, season 3 (2022)
   - bocchi the rock (2022)
   - frieren: beyond journey's end (2023)
+  - too many losing heroines! (2024)
   - .date a live (2013)
   - .sword art online (2012)
   - .k-on! (2009)
@@ -520,7 +522,6 @@ $fira$ `elegance`
   - .re: zero - starting life in another world (2016)
   - .tonikawa: over the moon for you (2020)
   - .oreimo (2010)
-  - .too many losing heroines! (2024)
   - .puella magi madoka magica (2011)
   - .no game, no life (2014)
   - .bakemonogatari (2009)

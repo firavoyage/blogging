@@ -636,3 +636,30 @@
 [Annotator "lichess.org"]
 
 1. c4 { [%clk 0:10:00] } 1... e5 { [%clk 0:10:00] } { A20 English Opening: King's English Variation } 2. b3 { [%clk 0:10:05] } 2... d5 { [%clk 0:09:59] } 3. Bb2 { [%clk 0:10:07] } 3... Nc6 { [%clk 0:09:58] } 4. g3 { [%clk 0:10:07] } 4... Nf6 { [%clk 0:09:44] } 5. f4 { [%clk 0:10:03] } 5... Bc5 { [%clk 0:09:04] } 6. fxe5 { [%clk 0:10:00] } 6... Nxe5 { [%clk 0:09:04] } 7. Bxe5 { [%clk 0:10:02] } 7... O-O { [%clk 0:08:55] } 8. d4 { [%clk 0:09:52] } 8... Ng4 { [%clk 0:08:26] } 9. Nc3 { [%clk 0:09:32] } 9... Nxe5 { [%clk 0:07:50] } 10. dxe5 { [%clk 0:09:25] } 10... dxc4 { [%clk 0:05:12] } 11. Qxd8 { [%clk 0:09:13] } 11... Rxd8 { [%clk 0:05:08] } 12. bxc4 { [%clk 0:09:16] } 12... Bd4 { [%clk 0:04:51] } 13. Rc1 { [%clk 0:08:50] } 13... Bxe5 { [%clk 0:03:48] } 14. Rd1 { [%clk 0:08:46] } 14... Bxc3+ { [%clk 0:03:30] } { White resigns. } 0-1
+
+---
+
+[Event "rated rapid game"]
+[Site "https://lichess.org/ZaF7wYYh"]
+[Date "2026.02.20"]
+[Round "-"]
+[White "firahq"]
+[Black "azizam81"]
+[Result "0-1"]
+[GameId "ZaF7wYYh"]
+[UTCDate "2026.02.20"]
+[UTCTime "11:55:47"]
+[WhiteElo "903"]
+[BlackElo "897"]
+[WhiteRatingDiff "-21"]
+[BlackRatingDiff "+11"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C42"]
+[Opening "Petrov's Defense: Damiano Variation"]
+[Termination "Time forfeit"]
+[Annotator "lichess.org"]
+
+1. e4 { [%clk 0:10:00] } 1... e5 { [%clk 0:10:00] } 2. Nf3 { [%clk 0:09:04] } 2... Nf6 { [%clk 0:10:02] } 3. Nxe5 { [%clk 0:09:07] } 3... Nxe4 { [%clk 0:10:03] } { C42 Petrov's Defense: Damiano Variation } 4. Nc3 { [%clk 0:09:01] } 4... Nxc3 { [%clk 0:09:41] } 5. dxc3 { [%clk 0:08:33] } 5... Bd6 { [%clk 0:09:26] } 6. Bf4 { [%clk 0:07:50] } 6... Qe7 { [%clk 0:09:11] } 7. Qe2 { [%clk 0:06:58] } 7... O-O { [%clk 0:08:55] } 8. O-O-O { [%clk 0:06:30] } 8... b5 { [%clk 0:08:37] } 9. g3 { [%clk 0:06:12] } 9... Bb7 { [%clk 0:08:24] } 10. Nf3 { [%clk 0:05:12] } 10... Qf6 { [%clk 0:07:42] } 11. Rd4 { [%clk 0:02:34] } 11... Nc6 { [%clk 0:07:26] } 12. Re4 { [%clk 0:01:50] } 12... g6 { [%clk 0:06:17] } 13. Bh3 { [%clk 0:01:23] } 13... Bxf4+ { [%clk 0:05:19] } 14. gxf4 { [%clk 0:01:15] } 14... d5 { [%clk 0:04:34] } 15. Re5 { [%clk 0:00:11] } 15... Qxf4+ { [%clk 0:03:38] } 16. Qe3 { [%clk 0:00:05] } 16... Qf6 { [%clk 0:03:07] } 17. Qh6 { [%clk 0:00:06] } 17... Qxf3 { [%clk 0:02:48] } { Black wins on time. } 0-1
+
+
