@@ -122,6 +122,7 @@ _on the internet_
 - `innei 2023` 2023 · 光影交织之年
 - `innei 2024` 2024 · 前路未尽，初心犹在
 - `innei 2025` 2025 · 仍在路上，半径之外
+- `innei 2025 spring fes` 年味渐淡的春节记忆
 - `leerob` Things I Believe
 
 ### dev guide

@@ -343,6 +343,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 ### too many losing heroines!
 
 - `1` 2026.02.20
+- `2` 2026.02.21
 
 ## gaming
 
@@ -17661,7 +17662,7 @@ btw, i forget some opening patterns. idk whether im ok. idk whether i play it ri
 
 (in chess i could see my pieces and position.)
 
-and there's no built in free engines. (i could have one.) 
+and there's no built in free engines. (i could have one.)
 
 the ux sucks.
 
@@ -17670,4 +17671,66 @@ i would love to play some puzzles, but idk whether there is.
 maybe i could try zhangqi. (ive seen muya playing this)
 
 ---
+
+on lichess, a piece could simply disappear?!
+
+i mean, the image is not rendered.
+
+idk. if it uses react, i think it could be solved.
+
+---
+
+on sabbat of the witch...
+
+why could not i see all messages at once on a tree, categorized somehow like by chapters or characters...
+
+i dont wanna q save a lot (idk where to save). and i do want to skim, jump back, go forward sometimes. like having h scenes... (seems there are not many h scenes...)
+
+seems senrenbanka supports it somehow.
+
+btw, the chatpter 1 is so long. and that's just op?
+
+---
+
+use result.
+
+first
+
+```
+f: {ok, value} | {err, error}
+
+call f.
+
+if ok do with value
+
+if err handle error
+```
+
+second
+
+```
+f: value. if error, throw.
+
+call f.
+
+try
+  f, do with value
+catch error
+  handle error
+```
+
+---
+
+with es modules i could have public and private like oop... (in fp)
+
+export. or not.
+
+---
+
+llms are not good at path...
+
+i give it the tree. it would handle imports with many `..`.
+
+---
+
 

@@ -117,6 +117,7 @@ $fira$ `elegance`
   - art & design
     - aliimam_in aliimam.in 21st.dev 1code.dev
     - antfu antfu.me 100.antfu.me sli.dev
+    - anthropicai anthropic.com claudeai claude.ai
     - anwnews anyway.fm/now
     - ark.studio
     - avstorm bento.me/storm iconists.co centralicons.com
@@ -136,7 +137,9 @@ $fira$ `elegance`
     - himanshu-dixit himanshud.com composio.dev awesome-claude-skills
     - hykilpikonna aza.moe
     - innei order_usagi innei.in app.folo.is mx-space.js.org lobechat.com
+    - ivanhzhao ivanhzhao.notion.site notionhq notion.com
     - james406 posthog posthog.com
+    - jamesclear jamesclear.com jamesclear.com/3-2-1 atoms.jamesclear.com authorsequity.com
     - jh3yy jhey.dev
     - jjying jjying.com iconmoon.com
     - joakimjansson theindexwebsite theindex.website
@@ -152,6 +155,7 @@ $fira$ `elegance`
     - mugumogu maru
     - nothing cmfbynothing essential nothing.tech essential.com
     - oooooohmygosh
+    - openai openai.com chatgptapp chat.com
     - pidanzhoujiala
     - q.ai
     - re-xyr dayli.ly
@@ -194,6 +198,7 @@ $fira$ `elegance`
     - hullqin game.hullqin.cn
     - huxpro huangxuan.me
     - hydrogene7 huangzheng2016 hz2016 blog.hz2016.com/ticktack
+    - ifttt ifttt.com
     - istdrc stdrc.cc i.stdrc.cc book.stdrc.cc kosong
     - jiongks jiongks.name jinjiang.me
     - joshwcomeau joshwcomeau.com
@@ -376,6 +381,7 @@ $fira$ `elegance`
     - acetaffy812 echo spade
     - angelnekochan
     - bingtangio
+    - buwendingfadianji
     - chtholly nota seniorious
     - falstaff duolingo
     - gus brawl stars
@@ -385,10 +391,12 @@ $fira$ `elegance`
     - kagura mea
     - kasugano sora
     - konata izumi
+    - kulimu cream
     - kyouka overidea
     - mikanthemink katabasis.moe
     - minami iwasaki
     - minato aqua
+    - miting nagisa
     - miyuki takara
     - mutsumi mygo
     - nahida
