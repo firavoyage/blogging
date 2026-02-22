@@ -229,9 +229,9 @@ inspired by
 - webfollow list
 - rss source list
 
-`all:theatre`
+`all:cinema`
 
-retro theatre board
+retro cinema board
 
 calendar
 

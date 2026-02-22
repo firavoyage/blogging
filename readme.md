@@ -308,6 +308,7 @@ $fira$ `elegance`
     - kenvix kenvixmeow kenvix.com
     - kungalgame kungalgamechannel upsetgal kungal.com
     - leanrada kalabasa leanrada.com
+    - leetheone telegram
     - liujiayi1111 tauri
     - liuran_jyz liuran_yanagi vimhub.org/jyz
     - llennchan2003 nana_nyan03
@@ -366,6 +367,7 @@ $fira$ `elegance`
     - gmhikaru
     - ke jie
     - lciop
+    - led zeppelin
     - li jiaqing
     - liu yiyi
     - longbow flintlock
@@ -401,6 +403,7 @@ $fira$ `elegance`
     - mutsumi mygo
     - nahida
     - nina iseri
+    - qihai nanami
     - saiba momoi
     - samekosaba samedesu
     - shizuku lulu
@@ -414,6 +417,7 @@ $fira$ `elegance`
     - vedal987 neuro sama
     - vtbs_irl vzhibei vzb88 pitaogo ilovetaffy wuse_vov
     - wanderer above the sea of fog
+    - xu toso
     - xuegao cheese
     - yuuki sakuna
 - albums

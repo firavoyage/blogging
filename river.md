@@ -17733,4 +17733,135 @@ i give it the tree. it would handle imports with many `..`.
 
 ---
 
+llms are stupid.
+
+they dont understand me.
+
+explicit > implicit... but it's verbose.
+
+when i say things in the simple way...
+
+humans are ambiguous. humans are complex.
+
+"ruby an rails".
+
+---
+
+a dream.
+
+a car. a car of wings. plane wings.
+
+no safety belt. i hold. i go forward. i fly. i go anywhere and see in any direction. i could control and land as i like.
+
+before departure, i wanna take a photo.
+
+it's a playground. it's a park. it's an entertainment activity.
+
+on the road there are chinese. noisy. philistine. photos would be clean and elegant, away from hustle and bustle.
+
+i want the simple plane and the nature.
+
+i turn around. on the side of the road there might be a place. like an area of rectangle. there are fences. maybe sand. maybe some wild grass. rubbishes on them. random. empty bowl of instant noodles. packets of snacks. im not gonna take a photo here.
+
+i myself have a bowl of instant noodles. not empty. noodles are eaten. soup is half full. a low end population, a environment worker, or an old street cleaner, come and tell me something. maybe an instruction or guidance. i do not listen. i do not throw the bowl away. on one of the fence it seems to be flat and i could stand. i put the bowl on top. simple. clear. and i leave.
+
+i wanna find a place to take photo.
+
+i go forward. after the sand field, i find a way left. i could turn left, there is a path, but i dont.
+
+straight. left. on the corner. there's a park.
+
+i see tall, calm, trees. i see green, grass. it's not very flat. i might not play football on it. but it's open and you can look into the distance. like a place to play golf.
+
+an asian man comes. maybe ive abused his child. maybe i would be sorry.
+
+he feels confident and empathetic. confidence. maybe he wants recognition. maybe he wants agreement. maybe he wanna express. idk. empathy. he's the same height of me. i see his eyes. not above me. not below me. maybe he crouch a bit. but seems he does not.
+
+he says he's a foreigner.
+
+malaysian?
+
+common. often is. but im not. im from canada.
+
+wow. wealthy.
+
+(the subject or field)
+
+maybe i guessed cs. then lawyer and docter.
+
+law.
+
+wo... (maybe well or wow), it needs...
+
+a lot of knowledge.
+
+he predicts my next words.
+
+i could feel his modern, vibrant lifestyle. as well as his children. maybe simple western norms without argument or anger.
+
+and im lost in it.
+
+it blends with the nature of the park, maybe golf park.
+
+when i look into distance, i see a human behind the canadian man.
+
+on his head, there is a taiwan flag. not flowing in the wild. but flat. maybe even without gravity. almost like an computer image at the pov of my eyes. beautiful.
+
+idk whether he holds a taiwan flag or his head is a taiwan flag.
+
+either way, i appreciate.
+
+---
+
+fooling people is such a philistine act. i dont wanna point it out.
+
+humans are just creatures.
+
+be born randomly. die meaninglessly.
+
+people are not born with human rights.
+
+they, those who fool, are intended to do so. they know what they are doing. we all know.
+
+i agree china is good. your power is infinite. labor force is cheap. the market is large.
+
+i agree tcm. tcm can blend western and eastern. science could only stand with the west. so you have more choices. sometimes healthcare is not curing diseases, but giving relief. sometimes it's painful to live longer. passive healthcare is also healthcare.
+
+---
+
+grand papa to shanghai.
+
+go shopping.
+
+i could envision the cultural shock.
+
+---
+
+"from your device".
+
+turn off google personalization wont help.
+
+turn off browser permission would.
+
+---
+
+x on app store.
+
+"be the first to know". literally fomo...
+
+i somewhat agree with teen sns ban... although it's technically impossible.
+
+"news app"?! twitter is about news?
+
+twitter "starterpacks"? follow all on one tap... just add subs from an awesome list...
+
+---
+
+google lyria 3.
+
+"create music".
+
+the world is changing...
+
+---
 
