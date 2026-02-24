@@ -344,6 +344,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 
 - `1` 2026.02.20
 - `2` 2026.02.21
+- `3` 2026.02.23
 
 ## gaming
 
@@ -17862,6 +17863,46 @@ google lyria 3.
 "create music".
 
 the world is changing...
+
+---
+
+youtube redir to theme refresh?! wtf.
+
+maybe it's about data. after getting login cookies from google it realize.
+
+but at least it can be done without url.
+
+---
+
+tampermonkey:
+
+Please enable developer mode to allow userscript injection. Click here for more info how to do this.
+
+---
+
+chatgpt: 3 messages remaining. Start a free Plus trial to keep the conversation going
+
+so annoying. i should config scrcpy now and get out the ad blocker settings.
+
+---
+
+do you think rikki is dictation-er?
+
+---
+
+fuck.
+
+i apply x11.
+
+snap auto refreshes. and i simply could not open chromium.
+
+later it's upgraded.
+
+new look applies. and chatgpt stops working?!
+
+on new tab page it shows footer. fuck.
+
+export. revert.
 
 ---
 

@@ -5,367 +5,38 @@
 - ubuntu 22
 - ubuntu 24 (current)
 
-## `settings`
+## `apt`
 
-### appearance
+- set mirror
 
-- config
-  - style `dark`
-  - wallpaper `jelly fish in black background`
+  `/etc/apt/sources.list/`
 
-### ubuntu desktop
-
-- config
-  - desktop icons `off`
-  - auto hide dock `on`
-  - panel mode `off`
-  - icon size `max`
-  - configure dock behavior
-    - show trash `off`
-- config dock pins
-  - chromium
-  - thunderbird
-  - code
-  - goldendict
-  - solanum
-- config dock application icon
-  - -> `extensions > ubuntu dock > more > settings > launchers`
-  - show application icon `off`
-
-### apps
-
-- -> `default apps`
-- web `chromium web browser`
-- mail `thunderbird mail`
-- calendar `calendar`
-- music `vlc media player`
-- video `vlc media player`
-- photos `image viewer`
-
-### displays
-
-- desktop icons `off`
-
-```sh
-sudo apt install gnome-shell-extension-prefs
-```
-
-- config
-  - nightlight `0 to 0`
-
-### keyboard
-
-- use shortcuts
-  - _close window_ `ctrl q`
-  - _go to home folder_ `super e`
-  - _take screenshot_ `prsc`
-  - _toggle fullscreen_ `f11`
-  - open terminal `ctrl alt t`
-  - open quick settings `super s`
-  - switch apps `super tab`
-  - switch windows `alt tab`
-  - switch windows in app `super backquote`
-
-### multitasking
-
-- config
-  - workspaces `dynamic workspaces`
-  - number of workspaces `1`
-  - app switching `include apps from the current workspace only`
-- use shortcuts
-  - switch between workspaces `ctrl alt left` `ctrl alt right`
-  - move current app between workspaces `ctrl shift alt left` `ctrl shift alt right`
-
-### date&time
-
-- config `lang en`
-
-  ```sh
-  sudo localectl set-locale lc_time=en_us.utf8
   ```
-
-### users
-
-- remove password
-
-  - -> `admin:///etc/polkit-1/localauthority/50-local.d/nopw.pkla`
-
-    ```sh
-    sudo visudo `fira all=(all) nopasswd:all`
-    ```
-
-    ```sh
-    [no password prompt]
-    identity=unix-group:sudo
-    action=*
-    resultactive=yes
-    ```
-
-- disable `keyring popup`
-  - ref https://linuxconfig.org/how-to-disable-keyring-popup-on-ubuntu
-  - open `passwords and keys`
-  - select `change passwd`
-  - enter old passwd
-  - leave it blank & enter
-
-### sound
-
-- system sound `off`
-- config
-  - alert sound `none`
-
-### power
-
-- power mode `performance`
-- automatic screen brightness `off`
-- dim screen `on`
-- screen blank `5 min`
-- automatic power saver `off`
-- automatic suspend `20min` `off`
-- power button behavior `power off`
-- show battery percentage `off`
-
-### privacy
-
-- -> `tmpfile&trash`
-- config `auto delete files after 30days`
-
-### fonts
-
-- install fonts
-  - -> `git/fonts`
-- config `preferred cjk fonts`
-  - (ubuntu 22) -> `admin:///etc/fonts/conf.d/64-language-selector-prefer.conf`
-  - (ubuntu 24) -> `admin:///etc/fonts/conf.d/64-language-selector-cjk-prefer.conf`
-    ```xml
-    <?xml version="1.0"?>
-    <!DOCTYPE fontconfig SYSTEM "fonts.dtd">
-    <fontconfig>
-      <alias>
-        <family>sans-serif</family>
-        <prefer>
-          <family>Noto Sans CJK SC</family>
-          <family>Noto Sans CJK JP</family>
-          <family>Noto Sans CJK KR</family>
-          <family>Noto Sans CJK TC</family>
-          <family>Noto Sans CJK HK</family>
-        </prefer>
-      </alias>
-      <alias>
-        <family>serif</family>
-        <prefer>
-          <family>Noto Serif CJK SC</family>
-          <family>Noto Serif CJK JP</family>
-          <family>Noto Serif CJK KR</family>
-          <family>Noto Serif CJK TC</family>
-        </prefer>
-      </alias>
-      <alias>
-        <family>monospace</family>
-        <prefer>
-          <family>Noto Sans Mono CJK SC</family>
-          <family>Noto Sans Mono CJK JP</family>
-          <family>Noto Sans Mono CJK KR</family>
-          <family>Noto Sans Mono CJK TC</family>
-          <family>Noto Sans Mono CJK HK</family>
-        </prefer>
-      </alias>
-    </fontconfig>
-    ```
-
-## `terminal`
-
-- install `oh-my-zsh`
-- set default `sudo chsh -s /bin/zsh`
-
-## `software & updates`
+  # Ubuntu sources have moved to /etc/apt/sources.list.d/ubuntu.sources
+  deb https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ noble main restricted universe multiverse
+  deb https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ noble-updates main restricted universe multiverse
+  deb https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ noble-security main restricted universe multiverse
+  ```
 
 - config source
-  - -> `/etc/apt/sources.list.d/`
-- disable `software updater popup`
-  ```sh
-  sudo apt-get remove update-notifier
-  ```
-- disable `auto update`
-  - -> `softwares & updates > other softwares`
-  - `*` `off`
 
-## `software (flatpak)`
+  `/etc/apt/sources.list.d/`
+
+## `snap`
+
+- disable auto update
+
+  ```
+  sudo snap refresh --hold
+  ```
+
+## `flatpak`
+
+<!-- todo: log out log in. vlc. refresh to take effect. -->
 
 - disable `auto update`
   - -> `preferences`
   - software updates `manual`
-
-## `gnome tweaks`
-
-- config `fonts`
-  - interface text `ubuntu sans`
-  - document text `noto sans cjk sc`
-  - monospace text `fira code`
-- config `mouse and touchpad`
-  - mouse middle click paste `off`
-  - accelerations `on`
-- config `appearance`
-  - styles `yaru`
-  - background `jellyfish`
-- config `windows`
-  - titlebar actions
-    - double click `toggle maximize`
-    - middle click `none`
-    - secondary click `menu`
-  - titlebar buttons
-    - maximize `off`
-      - use `super up` or `double click` instead
-    - minimize `on`
-    - placement `right`
-  - click actions
-    - attach modal dialogs `on`
-    - center new windows `on`
-    - window action key `super`
-    - resize with secondary click `off`
-  - window `click to focus`
-- config `startup applications`
-  - chromium
-    - `env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/chromium_chromium.desktop /snap/bin/chromium %U`
-  - code
-    - `/usr/share/code/code %F`
-  - fcitx5
-    - `/usr/bin/fcitx5`
-  - backups
-  - goldendict
-  - (removed) vlc media player
-    - `env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/vlc_vlc.desktop /snap/bin/vlc %U`
-  - (removed) solanum
-    - `flatpak run org.gnome.Solanum`
-
-## `backup`
-
-- config
-  - storage `/backup`
-  - schedule
-    - -> `preferences`
-    - backup automatically `on`
-    - frequency `daily`
-    - keep backups `at least a year`
-
-## `files`
-
-- add templates
-  - -> `templates`
-  - markdown.md
-  - cpp.cpp
-  - file
-
-## `solanum`
-
-- install
-  ```sh
-  sudo flatpak install flathub org.gnome.Solanum
-  ```
-- config
-  - -> `ctrl ,`
-  - lap length `20`
-  - short break length `5`
-  - long break length `40`
-  - sessions until long break `4`
-
-## `evince(document viewer)`
-
-- use shortcuts
-  - `f5` toggle presentation mode
-  - `f9` toggle sidebar
-  - `d` toggle dual page view
-  - `f` fit page
-  - `w` fit width
-  - `h` prev page
-  - `l` next page
-  - `j` scroll page forward
-  - `k` scroll page backward
-
-## `chromium`
-
-- disable `new look`
-  - ref https://snapcraft.io/docs/revisions https://snapcraft.io/docs/managing-updates
-  - install `chromium 124.0.6367.118`
-    ```sh
-    sudo snap install chromium --revision 2842
-    sudo snap refresh --hold=forever
-    ```
-- disable `flags`
-  - chrome://flags/#customize-chrome-side-panel
-  - chrome://flags/#chrome-refresh-2023
-  - chrome://flags/#chrome-webui-refresh-2023
-- config title bar
-  - (right click the title bar)
-  - use system title bar `off`
-- config `new tab page`
-  - -> `customize chromium`
-  - show shortcuts `off`
-- import bookmarks
-  - -> `git/blogging/config/chromium bookmarks.html`
-- import passwords `git/blogging/config/chromium_passwords.zip`
-- config extensions
-  - justblack https://chromewebstore.google.com/detail/just-black/aghfnjkcakhmadgdomlmlhhaocbkloab
-  - ublock origin https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm
-  <!-- - adguard https://chromewebstore.google.com/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg
-    - general / activate the most appropriate filters automatically `off`
-    - filters `ad blocking` `privacy` `annoyance`
-    - tracking protection `on`
-    - user rules / import settings `git/blogging/config/list_adguard.txt`
-    - additional settings / notify about extension updates `off` -->
-  - simple translate https://chromewebstore.google.com/detail/simple-translate/ibplnjkanclpjokhdolnendpplpjiace
-  - google translate (off) https://chromewebstore.google.com/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb
-    - my primary language `chinese(simplified)`
-    - pop-up translations `immediately popup`
-    - target language `chinese(simplified)`
-    - behavior when selecting text `display translation panel`
-  - tampermonkey https://chromkewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
-    - disable update tab `settings:config mode = advanced` `settings:appearance:show update notification = disabled`
-    - zhihu enhancement https://greasyfork.org/en/scripts/419081
-    - zhihu dark mode https://greasyfork.org/en/scripts/408224
-    - allow copy https://greasyfork.org/en/scripts/12561-allow-copy-and-context-menu-continued
-      - original includes `off`
-      - user matches `on`
-        - zhihu `*://www.zhihu.com/*`
-        - zhihu article `*://zhuanlan.zhihu.com/*`
-        - nga `*://nga.178.com/*`
-    - force google us geolocation
-    - (deprecated, may cause oom) twitter export https://github.com/prinsss/twitter-web-exporter/releases/download/v1.3.0/twitter-web-exporter.user.js
-    - X to Twitter https://greasyfork.org/en/scripts/471572-x-to-twitter
-  - bewlybewly https://chromewebstore.google.com/detail/bewlybewly/bbbiejemhfihiooipfcjmjmbfdmobobp
-  - wayback machine https://chromewebstore.google.com/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak
-    - login
-  - wakatime https://chrome.google.com/webstore/detail/jnbbnacmeggbgdjgaoojpmhdlkkpblgi
-    - add api key
-    - logging type `entire url`
-    - theme `dark`
-  - buster https://chrome.google.com/webstore/detail/mpbjkejclgfgadiemmefgebjfooflfhl
-    - ref https://github.com/dessant/buster
-  - authenticator https://chromewebstore.google.com/detail/authenticator/bhghoamapcdpbohphigoooaddinpkbai
-    - -> `git/blogging/config/config github recovery codes.zip`
-    - config issuer `Github`
-    - config secret `...`
-  - picture in picture https://chromewebstore.google.com/detail/picture-in-picture-extens/hkgfoiooedgoejojocmhlaklaeopbecg?hl=en
-  - return tweet source label https://chromewebstore.google.com/detail/return-tweet-source-label/mhkngabolhbckfjpmjclhockpdclfppc
-  - control panel for twitter https://chromewebstore.google.com/detail/control-panel-for-twitter/kpmjjdhbcfebfjgdnpjagcndoelnidfj
-  - get cookies.txt locally https://chromewebstore.google.com/detail/get-cookiestxt-locally/cclelndahbckbenkjhflpdbgdldlbecc
-  - vCaptions – Video Caption List https://chromewebstore.google.com/detail/vcaptions-%E2%80%93-video-caption/bciglihaegkdhoogebcdblfhppoilclp/
-  - PocketTube: Youtube Subscription Manager https://chromewebstore.google.com/detail/pockettube-youtube-subscr/kdmnjgijlmjgmimahnillepgcgeemffb
-  - Alternate Player for Twitch.tv https://chromewebstore.google.com/detail/alternate-player-for-twit/bhplkbgoehhhddaoolmakpocnenplmhf
-  - Vertical Tabs in Side Panel https://chromewebstore.google.com/detail/vertical-tabs-in-side-pan/akahnknmcbmgodngfjcflnaljdbhnlfo?utm_source=chatgpt.com
-  - Profile Manager Pro – Turbo Login, Smart Cookie Control https://chromewebstore.google.com/detail/profile-manager-pro-%E2%80%93-tur/omnafjdgigipejaajbnlopdjifgknogj?utm_source=chatgpt.com
-- config fonts
-  - -> `chrome://settings/fonts`
-  - standard `roboto`
-  - serif `noto serif cjk sc`
-  - sans-serif `noto sans cjk sc`
-  - fixed-width `fira code`
-  - mathematical `dejavu serif`
-- enhance performance
-  - -> `chrome://settings/performance`
-  - memory saver `on`
-- disable spellcheck
-  - `chrome://settings/languages`
 
 ## `code`
 
@@ -544,8 +215,468 @@ sudo apt install gnome-shell-extension-prefs
   - _breadcrumbs.toggletoon_ _breadcrumbs.focusandselect_ `ctrl shift <` `ctrl shift .`
   - _breadcrumbs.focus_ `ctrl shift ;`
 
+## `x11`
+
+- switch from wayland to x11
+
+  `/etc/gdm3/custom.conf`
+
+  ```
+  # GDM configuration storage
+  #
+  # See /usr/share/gdm/gdm.schemas for a list of available options.
+
+  [daemon]
+  AutomaticLoginEnable=true
+  AutomaticLogin=fira
+
+  # Uncomment the line below to force the login screen to use Xorg
+  WaylandEnable=false
+
+  # Enabling automatic login
+
+  # Enabling timed login
+  #  TimedLoginEnable = true
+  #  TimedLogin = user1
+  #  TimedLoginDelay = 10
+
+  [security]
+
+  [xdmcp]
+
+  [chooser]
+
+  [debug]
+  # Uncomment the line below to turn on debugging
+  # More verbose logs
+  # Additionally lets the X server dump core if it crashes
+  #Enable=true
+  ```
+
+- apply
+
+  ```
+  sudo systemctl restart gdm3
+  ```
+
+## `settings`
+
+### displays
+
+- nightlight `on`
+- schedule `manual schedule`
+- times `from 0 to 0`
+- color temperature `1/3`
+
+### sound
+
+- sounds
+  - volume levels
+    - system sound `off`
+  - alert sound `none`
+
+### power
+
+- power mode `performance`
+- automatic screen brightness `off`
+- automatic power saver `off`
+
+### multitasking
+
+- workspaces `fixed number of workspaces`
+- number of workspaces `1`
+
+### appearance
+
+- style `dark`
+- background `jelly fish`
+
+### ubuntu desktop
+
+- desktop icons
+  - show home folder `off`
+- dock
+  - auto hide dock `on`
+  - panel mode `off`
+  - icon size `max`
+  - configure dock behavior
+    - show volumes and devices `off`
+    - show trash `off`
+- set dock pins
+  - chromium
+  - code
+- remove "show apps" icon
+
+  - install extension manager
+
+    ```
+    flatpak install flathub com.mattjakeman.ExtensionManager
+    ```
+
+  - ubuntu dock: launchers: show applications icon `off`
+
+### apps
+
+- default apps
+  - web `chromium web browser`
+  - mail `thunderbird mail`
+  - calendar `calendar`
+  - music `vlc media player`
+  - video `vlc media player`
+  - photos `image viewer`
+
+### mouse & touchpad
+
+- mouse
+  - pointer speed `max`
+
+### keyboard
+
+- keyboard shortcuts
+  - _close window_ `ctrl q`
+  - _home folder_ `super e`
+  - _take screenshot_ `prtsc` <!-- take a screenshot interactively `fn prtsc` -->
+  - _toggle fullscreen_ `f11`
+  - open terminal `ctrl alt t`
+  - open quick settings `super s`
+  - switch apps `super tab`
+  - switch windows `alt tab`
+  - switch windows of the same app `super backquote`
+
+### system / users
+
+- remove password, remove keyring popup
+
+  ```
+  sudo passwd -d fira
+
+  rm -rf ~/.local/share/keyrings
+  ```
+
+## `gnome tweaks`
+
+- install
+
+  ```
+  sudo apt install gnome-tweaks
+  ```
+
+- fonts
+  - monospace text `fira code`
+- mouse and touchpad
+  - middle click paste `off`
+  - touchpad acceleration `on`
+- windows
+  - titlebar actions
+    - middle click `none`
+- startup applications
+  - chromium
+    - `env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/chromium_chromium.desktop /snap/bin/chromium %U`
+  - code
+    - `/usr/share/code/code %F`
+  - fcitx5
+    - `/usr/bin/fcitx5`
+  - backups
+  - goldendict
+  - (removed) vlc media player
+    - `env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/vlc_vlc.desktop /snap/bin/vlc %U`
+  - (removed) solanum
+    - `flatpak run org.gnome.Solanum`
+
+<!-- todo: startup apps -->
+
+## `fonts`
+
+<!-- todo -->
+
+- install fonts
+  `repo: fonts`
+- prefer sc for kanji
+
+  `admin:///etc/fonts/conf.d/64-language-selector-cjk-prefer.conf`
+
+  ```xml
+  <?xml version="1.0"?>
+  <!DOCTYPE fontconfig SYSTEM "fonts.dtd">
+  <fontconfig>
+    <alias>
+      <family>sans-serif</family>
+      <prefer>
+        <family>Noto Sans CJK SC</family>
+        <family>Noto Sans CJK JP</family>
+        <family>Noto Sans CJK KR</family>
+        <family>Noto Sans CJK TC</family>
+        <family>Noto Sans CJK HK</family>
+      </prefer>
+    </alias>
+    <alias>
+      <family>serif</family>
+      <prefer>
+        <family>Noto Serif CJK SC</family>
+        <family>Noto Serif CJK JP</family>
+        <family>Noto Serif CJK KR</family>
+        <family>Noto Serif CJK TC</family>
+      </prefer>
+    </alias>
+    <alias>
+      <family>monospace</family>
+      <prefer>
+        <family>Noto Sans Mono CJK SC</family>
+        <family>Noto Sans Mono CJK JP</family>
+        <family>Noto Sans Mono CJK KR</family>
+        <family>Noto Sans Mono CJK TC</family>
+        <family>Noto Sans Mono CJK HK</family>
+      </prefer>
+    </alias>
+  </fontconfig>
+  ```
+
+## `terminal`
+
+- install zsh and config
+
+  ```
+  #!/usr/bin/env bash
+
+  set -e
+
+  echo "Starting Zsh + Oh My Zsh + plugins + Powerlevel10k setup …"
+
+  # -------------------------
+  # 1. Install core packages
+  # -------------------------
+  echo "Installing essentials …"
+  sudo apt update
+  sudo apt install -y git curl wget zsh fonts-powerline unzip
+
+  # -------------------------
+  # 2. Install Zsh
+  # -------------------------
+  if ! command -v zsh &> /dev/null; then
+    echo "Installing Zsh …"
+    sudo apt install -y zsh
+  else
+    echo "Zsh already present, skipping."
+  fi
+
+  # Change default shell to Zsh
+  echo "Setting Zsh as default shell …"
+  chsh -s "$(which zsh)"
+
+  # -------------------------
+  # 3. Install Oh My Zsh
+  # -------------------------
+  if [ ! -d "$HOME/.oh-my-zsh" ]; then
+    echo "Installing Oh My Zsh …"
+    sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)" "" --unattended
+  else
+    echo "Oh My Zsh already installed, skipping."
+  fi
+
+  # -------------------------
+  # 4. Add plugins
+  # -------------------------
+  echo "Installing plugins …"
+  mkdir -p ~/.zsh
+
+  # autosuggestions
+  git clone https://github.com/zsh-users/zsh-autosuggestions ~/.zsh/zsh-autosuggestions
+
+  # syntax highlighting
+  git clone https://github.com/zsh-users/zsh-syntax-highlighting ~/.zsh/zsh-syntax-highlighting
+
+  echo ""
+  ```
+
+- put zshrc
+  `terminal zshrc.sh`
+- install ghostty
+
+<!-- inspired by innei & others -->
+
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/mkasberg/ghostty-ubuntu/HEAD/install.sh)"
+```
+
+## `scrcpy` `sndcpy`
+
+<!-- run on zshrc -->
+
+<!-- todo: apps -->
+
+- install
+
+  ```
+  #!/usr/bin/env bash
+  set -e
+
+  echo "Updating system and enabling universe..."
+  sudo add-apt-repository universe
+  sudo apt update
+
+  echo "Installing prerequisites (ADB, VLC, build tools)..."
+  sudo apt install -y git wget unzip adb libsdl2-2.0-0 ffmpeg vlc
+
+  echo
+  echo "Installing latest scrcpy from official release..."
+
+  cd /tmp
+
+  # Scrcpy official latest release
+  SCRCPY_VERSION="3.3.3"
+  SCRCPY_TAR="scrcpy-linux-x86_64-v${SCRCPY_VERSION}.tar.gz"
+
+  wget https://github.com/Genymobile/scrcpy/releases/download/v${SCRCPY_VERSION}/${SCRCPY_TAR}
+
+  tar -xzf ${SCRCPY_TAR}
+
+  # Move official scrcpy binary to /usr/local/bin
+  sudo mv scrcpy*/* /usr/local/bin/
+  sudo chmod +x /usr/local/bin/scrcpy
+
+  echo
+  echo "Installing official sndcpy v1.1..."
+
+  # Download sndcpy official release
+  wget https://github.com/rom1v/sndcpy/releases/download/v1.1/sndcpy-v1.1.zip
+
+  unzip -o sndcpy-v1.1.zip
+
+  # Place both script and APK where sndcpy script can find it
+  sudo mv sndcpy /usr/local/bin/
+  sudo mv sndcpy.apk /usr/local/bin/
+  sudo chmod +x /usr/local/bin/sndcpy
+
+  echo
+  echo "Adding udev rules for Android devices..."
+
+  sudo tee /etc/udev/rules.d/51-android.rules > /dev/null <<EOF
+  SUBSYSTEM=="usb", ATTR{idVendor}=="18d1", MODE="0666", GROUP="plugdev"
+  EOF
+
+  sudo udevadm control --reload-rules
+  sudo udevadm trigger
+
+  echo
+  echo "Done."
+  echo
+  echo "Unplug and replug your phone."
+  echo "Enable USB debugging in Developer Options."
+  ```
+
+- remove `/usr/share/applications/vlc.desktop` <!-- let sndcpy work with apt vlc while i only use flatpak one. -->
+- add app
+
+  `/home/fira/.local/share/applications/phone.desktop`
+
+  ```
+  [Desktop Entry]
+  Name=phone
+  GenericName=phone
+  Comment=Display and control your Android device
+  Exec=zsh -ic 'phone'
+  Icon=/usr/local/bin/icon.png
+  Terminal=false
+  Type=Application
+  Categories=Utility;RemoteAccess;
+  StartupNotify=false
+  ```
+
+  <!-- zsh -ic, with -i flag you no longer need to source zshrc -->
+
+- fix touchpad emulation <!-- emulation, middle click, ... only respect finger count, ignore location. -->
+
+  ```
+  gsettings set org.gnome.desktop.peripherals.touchpad click-method 'fingers'
+  gsettings set org.gnome.desktop.peripherals.touchpad tap-to-click true
+  ```
+
+## `software & updates`
+
+- updates
+  - auto check new updates `never`
+  - notify new ubuntu version `never`
+- other softwares
+  - `*` `off` <!-- disable auto update -->
+- remove software updater popup
+
+  ```sh
+  sudo apt remove update-notifier
+  ```
+
+## `files`
+
+- add templates
+  - `templates`
+  - file
+- add resources
+  - music
+  - videos
+
+## `chromium`
+
+- install `chromium 124.0.6367.118` <!-- newer versions dont provide flags to choose classic ui -->
+
+  ```sh
+  sudo snap install chromium --revision 2842
+  ```
+
+- disable new look
+  - chrome://flags/#customize-chrome-side-panel
+  - chrome://flags/#chrome-refresh-2023
+  - chrome://flags/#chrome-webui-refresh-2023
+- config title bar <!-- right click the title bar -->
+  - use system title bar `off`
+- config `new tab page`
+  - -> `customize chromium`
+  - show shortcuts `off`
+- import bookmarks
+  `chromium bookmarks.html`
+- import passwords
+  `chromium passwords.csv`
+- config extensions
+  - justblack https://chromewebstore.google.com/detail/just-black/aghfnjkcakhmadgdomlmlhhaocbkloab
+  - ublock origin https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm
+  - tampermonkey https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmhtmlkfjojejmpbldmpobfkfo
+    - disable update popup
+      - settings: config mode `advanced`
+      - settings: appearance: show update notification `disabled`
+    - install `userscripts`
+  - bewlybewly https://chromewebstore.google.com/detail/bewlybewly/bbbiejemhfihiooipfcjmjmbfdmobobp
+  - wayback machine https://chromewebstore.google.com/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak
+  - intention
+    - allow in incognito
+    - extension: keyboard shortcuts: intention: Open a new window with Intention's custom new tab `ctrl n`
+  - buster https://chrome.google.com/webstore/detail/mpbjkejclgfgadiemmefgebjfooflfhl
+  - authenticator https://chromewebstore.google.com/detail/authenticator/bhghoamapcdpbohphigoooaddinpkbai
+  - picture in picture https://chromewebstore.google.com/detail/picture-in-picture-extens/hkgfoiooedgoejojocmhlaklaeopbecg?hl=en
+  - control panel for twitter https://chromewebstore.google.com/detail/control-panel-for-twitter/kpmjjdhbcfebfjgdnpjagcndoelnidfj
+  - Alternate Player for Twitch.tv https://chromewebstore.google.com/detail/alternate-player-for-twit/bhplkbgoehhhddaoolmakpocnenplmhf
+  - Cookie Profile Switcher https://chromewebstore.google.com/detail/cookie-profile-switcher/dicajblfgcpecbkhkjaljphlmkhohelc
+- config fonts
+  - -> `chrome://settings/fonts`
+  - standard `roboto`
+  - serif `noto serif cjk sc`
+  - sans-serif `noto sans cjk sc`
+  - fixed-width `fira code`
+  - mathematical `dejavu serif`
+- enhance performance
+  - -> `chrome://settings/performance`
+  - memory saver `on`
+- disable spellcheck
+  - `chrome://settings/languages`
+
 ## `git`
 
+- install
+
+  ```
+  sudo apt install git
+  git config --global user.name "Fira"
+  git config --global user.email "xoyage@gmail.com"
+  git config --global push.autoSetupRemote true
+  git config --global credential.helper store
+  ```
 - config github
   - ref https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls
     > github no longer supports password. personal access token or ssh needed.
@@ -587,49 +718,59 @@ sudo apt install gnome-shell-extension-prefs
 ## `fcitx5`
 
 - install app
+
   ```sh
-  sudo apt install fcitx5 fcitx5-chinese-addons fcitx5-frontend-gtk4 fcitx5-frontend-gtk3 fcitx5-frontend-gtk2 fcitx5-frontend-qt5
+  sudo apt install -y \
+  fcitx5 \
+  fcitx5-config-qt \
+  fcitx5-frontend-gtk3 \
+  fcitx5-frontend-gtk4 \
+  fcitx5-frontend-qt5 \
+  fcitx5-frontend-qt6 \
+  fcitx5-chinese-addons \
+  fcitx5-mozc
+
+  im-config -n fcitx5
+
+  DICT_DIR="$HOME/.local/share/fcitx5/pinyin/dictionaries"
+  mkdir -p "$DICT_DIR"
+
+  wget -O "$DICT_DIR/zhwiki.dict" https://github.com/felixonmars/fcitx5-pinyin-zhwiki/releases/download/0.2.4/zhwiki-20220416.dict
+
+  wget -O "$DICT_DIR/pinyin.dict" https://github.com/wuhgit/CustomPinyinDictionary/releases/download/assets/CustomPinyinDictionary_Fcitx.dict
+
+  wget -O "$DICT_DIR/moegirl.dict" https://github.com/outloudvi/mw2fcitx/releases/latest/download/moegirl.dict
   ```
-- install dict
-  ```sh
-  wget https://github.com/felixonmars/fcitx5-pinyin-zhwiki/releases/download/0.2.4/zhwiki-20220416.dict
-  mkdir -p ~/.local/share/fcitx5/pinyin/dictionaries/
-  mv zhwiki-20220416.dict ~/.local/share/fcitx5/pinyin/dictionaries/
+
+  <!-- todo: find all dicts using agent -->
+
+- add environment variables
+  `admin:///etc/environment`
+  ```text
+  GTK_IM_MODULE=fcitx
+  QT_IM_MODULE=fcitx
+  XMODIFIERS=@im=fcitx
+  SDL_IM_MODULE=fcitx
+  GLFW_IM_MODULE=fcitx
   ```
-- install another dict
-  - -> https://github.com/wuhgit/CustomPinyinDictionary
-  - download CustomPinyinDictionary_Fcitx.dict
-    ```sh
-    mv CustomPinyinDictionary_Fcitx.dict ~/.local/share/fcitx5/pinyin/dictionaries/
-    ```
-- config default
-  ```sh
-  im-config
-  ```
-- config environment variables
-  - -> `admin:///etc/environment`
-    ```text
-    GTK_IM_MODULE=fcitx
-    QT_IM_MODULE=fcitx
-    XMODIFIERS=@im=fcitx
-    SDL_IM_MODULE=fcitx
-    GLFW_IM_MODULE=fcitx
-    ```
-- disable `input method hint`
-  - -> `fcitx5-configtool > global options > behavior`
-  - show input method infomation `off`
+- disable input method hint
+  - fcitx5-configtool: global options: behavior: show first input method infomation `off`
 - config english
-  - -> `input method > pinyin > settings icon`
+  - `input method > pinyin > settings icon`
   - trigger hint mode `empty`
   - trigger hint mode one time `empty`
+- add other languages
+  - fcitx5-configtool: input method: available input method: only show current language `off`
+  - add `pinyin` `mozc`
 - config pinyin
-  - -> `input method > pinyin > settings icon`
+  - input method: pinyin: settings icon`
   - fuzzy pinyin `on`
   - prediction `off`
   - character `half-width`
   - enable cloud pinyin `off`
   - action when switching input method `commit current preedit`
   - remove all punctuation (-> punctuation > `-` button on the right)
+- config japanese
 - config theme
   ```sh
   git clone https://github.com/tonyfettes/fcitx5-nord.git
@@ -642,84 +783,10 @@ sudo apt install gnome-shell-extension-prefs
     Theme=Nord-Dark
     Theme=Default
     ```
+- enlarge clipboard
+  - fcitx5-configtool: addons: clipboard: number of entries `30`
 - use shortcuts
   - clipboard `ctrl ;`
-
-## `v2raya`
-
-- config internet dns
-  - use public dns
-    - `cloudflare` 1.1.1.1
-    - `google` 8.8.8.8
-    - `114` 114.114.114.114
-    - `alidns` 223.5.5.5
-  - on `admin:///etc/systemd/resolved.conf`
-    ```text
-    [Resolve]
-    # Some examples of DNS servers which may be used for DNS= and FallbackDNS=:
-    # Cloudflare: 1.1.1.1#cloudflare-dns.com 1.0.0.1#cloudflare-dns.com 2606:4700:4700::1111#cloudflare-dns.com 2606:4700:4700::1001#cloudflare-dns.com
-    # Google:     8.8.8.8#dns.google 8.8.4.4#dns.google 2001:4860:4860::8888#dns.google 2001:4860:4860::8844#dns.google
-    # Quad9:      9.9.9.9#dns.quad9.net 149.112.112.112#dns.quad9.net 2620:fe::fe#dns.quad9.net 2620:fe::9#dns.quad9.net
-    DNS=223.5.5.5 1.1.1.1
-    #DNS=8.8.8.8 1.1.1.1
-    #FallbackDNS=
-    ```
-  - restart service
-    ```sh
-    sudo systemctl restart systemd-resolved
-    ```
-- install
-  ```sh
-  sudo apt install v2ray
-  sudo snap install v2raya
-  ```
-- config account
-  - username `f`
-  - password `firafira`
-- config proxy nodes
-  - repos of free nodes
-    - (if needed) bing global search: "github mirror"
-    - github search: "free nodes"
-    - https://github.com/aiboboxx/v2rayfree
-      - https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
-    - https://github.com/adiwzx/freenode/
-      - https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.txt
-    - https://github.com/pawdroid/free-servers
-      - https://raw.githubusercontent.com/pawdroid/free-servers/main/sub
-    - https://github.com/mksshare/mksshare.github.io
-      - https://raw.githubusercontent.com/mksshare/mksshare.github.io/main/README.md
-    - https://github.com/chengaopan/AutoMergePublicNodes
-      - https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.txt
-    - https://github.com/Barabama/FreeNodes/
-  - github raw mirrors
-    - ref https://www.7ed.net/gitmirror/hub.html
-    - proxy.v2gh.com/https://raw.githubusercontent.com/
-    - raw.staticdn.net
-    - raw.gitmirror.com
-    - githubraw.com
-    - mirror.ghproxy.com
-    - raw.kkgithub.com
-    - raw.fastgit.org
-  - sites of freemium nodes
-    - https://ikuuu.one/ (ikuuu.top) (find@ikuuu.pro)
-  - subscription converter from clash to v2ray
-    - https://clash.rokeyyan.com/
-    - https://v2.v2rayse.com/clash-convert/
-    - https://github.com/tindy2013/subconverter
-  - (advanced) custom proxy site builder
-    - https://github.com/Anankke/SSPanel-Uim
-- config proxy rule
-  - transparent proxy/system proxy `same as the rule port`
-  - traffic splitting mode of rule port `proxy only gfwlist`
-
-## `thunderbird`
-
-- config `mail`
-  - zoho
-  - outlook
-  - gmail
-  - qq
-- config `junk`
 
 ## `wine`
 
@@ -832,23 +899,53 @@ sudo apt install gnome-shell-extension-prefs
   - -> `tools > preferences > bitorrent`
   - automatically add these trackers to new downloads `config/config trackers.md`
 
+## `ayugram`
+
+- install
+
+  ```
+  # Set variables
+  URL="https://github.com/0FL01/AyuGramDesktop-flatpak/releases/download/flatpak-v6.3.10-20260124152331/ayugram-desktop-6.3.10.flatpak"
+  FILE="ayugram.flatpak"
+
+  # Download the Flatpak file
+  echo "Downloading AyuGram Desktop..."
+  wget -c -O "$FILE" "$URL"
+
+  # Check if download was successful
+  if [ ! -f "$FILE" ]; then
+      echo "Download failed. Exiting."
+      exit 1
+  fi
+
+  # Install the Flatpak
+  echo "Installing AyuGram Desktop..."
+  sudo flatpak install -y "$FILE"
+
+  # Clean up
+  echo "Cleaning up..."
+  rm "$FILE"
+
+  echo "AyuGram Desktop installation complete."
+  ```
+
+  <!-- without sudo, -y wont work. wget -c flag means continue. -->
+
+- disable notifications
+  - settings: notifications and sounds: global settings: `*` `off`
+
 ## misc
 
 - install
+
   ```sh
-  sudo apt install git
-  git config --global user.name "Fira"
-  git config --global user.email "devvhy@zohomail.cn"
-  git config --global push.autoSetupRemote true
-  git config --global credential.helper store
-  sudo apt install cbonsai
-  sudo apt install cowsay
   sudo apt install figlet
   sudo apt install flatpak
+  sudo flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
   sudo apt install fortune
   sudo apt install ghostscript
   sudo apt install gnome-software-plugin-flatpak
-  sudo apt install gnome-tweaks
+
   sudo apt install goldendict
   sudo apt install imagemagick
   sudo apt install neofetch
@@ -856,8 +953,7 @@ sudo apt install gnome-shell-extension-prefs
   sudo apt install npm
   sudo apt install python3
   sudo apt install virtualbox
-  sudo apt install zsh
-  sudo flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
+
   sudo flatpak install flathub org.gimp.GIMP
   sudo flatpak install flathub org.gnome.Solanum
   sudo flatpak install flathub org.localsend.localsend_app
@@ -878,10 +974,10 @@ sudo apt install gnome-shell-extension-prefs
   sudo snap install kolourpaint
   sudo snap install krita
   sudo snap install obs-studio
-  sudo snap install telegram-desktop
   sudo snap install thunderbird
   sudo snap install vlc
   ```
+
 - install code
   ```sh
   sudo snap remove code
@@ -892,3 +988,44 @@ sudo apt install gnome-shell-extension-prefs
   sudo apt update
   sudo apt install code
   ```
+
+```
+sudo apt install curl
+
+curl https://packages.microsoft.com/keys/microsoft.asc | gpg --dearmor > packages.microsoft.gpg
+sudo install -o root -g root -m 644 packages.microsoft.gpg /usr/share/keyrings/
+sudo sh -c 'echo "deb [arch=amd64 signed-by=/usr/share/keyrings/packages.microsoft.gpg] https://packages.microsoft.com/repos/vscode stable main" > /etc/apt/sources.list.d/vscode.list'
+sudo apt install apt-transport-https
+sudo apt update
+sudo apt install code
+
+sudo snap install chromium --revision 2842
+```
+
+vscode settings sync.
+
+dl fira code from google fonts. (i can use repo fonts! rp with google fonts? same.)
+
+notifications do not disturb
+
+sudo apt install neofetch
+
+install userscripts.
+
+intuition ext.
+
+add bookmarks on files
+
+music
+
+browser ublock origin.txt
+
+<!-- todo: auto push -->
+
+Clash.Verge_2.4.4+autobuild.1202.550a7e0_amd64
+
+autostart light weight mode nodes
+
+port config 7890
+
+lilypad. collapse `tray_icon_tray_app`

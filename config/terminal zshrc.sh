@@ -2,12 +2,16 @@
 # Shell Settings
 # ================================
 
+cd ~
+
 setopt interactive_comments
 
 # Set up the prompt
 autoload -Uz promptinit
 promptinit
 prompt adam1
+
+base_prompt='%K{blue}%k '
 
 setopt histignorealldups sharehistory
 
@@ -45,7 +49,7 @@ zstyle ':completion:*:kill:*' command 'ps -u $USER -o pid,%cpu,tty,cputime,cmd'
 # Functions
 # ================================
 
-function push() {
+push() {
     local tries=0
     local max_tries=3
 
@@ -122,32 +126,6 @@ function push() {
 
     echo "Push failed after $max_tries attempts."
     return 1  # signal failure to systemd
-}
-
-
-release() {
-    file="$1"
-    case "$file" in
-        *.js)
-            terser "$file" -o "${file%.js}.min.js" -c -m
-            ;;
-        *.html)
-            bundled_file="${file%.html}.bundled.html"
-            minified_file="${file%.html}.bundled.min.html"
-
-# Create bundled HTML
-            node "$HOME/Documents/f/libraries/bundler.js" "$file" "$bundled_file"
-
-# Create minified version from the bundled HTML
-            html-minifier --remove-comments --minify-css --minify-js \
-                --collapse-whitespace --conservative-collapse \
-                "$bundled_file" -o "$minified_file"
-            ;;
-        *)
-            echo "Unsupported file type: $file" >&2
-            return 1
-            ;;
-    esac
 }
 
 sound() {

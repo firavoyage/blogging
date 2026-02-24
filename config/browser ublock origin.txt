@@ -1,0 +1,28 @@
+zhihu.com##div:last-child > div > div.css-1wq6v87
+zhihu.com###root > div > main.App-main:nth-child(4) > div > div.Profile-main:last-child > div.Profile-sideColumn.css-1qyytj7:last-child > div:last-child > footer.css-2pfapc:last-child
+zhuanlan.zhihu.com##div.css-yoby3j
+zhuanlan.zhihu.com###root > div.App > main.App-main:nth-child(3) > div.Post-content > div.Post-Sub.Post-NormalSub:last-child > div.Recommendations-Main:last-child
+zhihu.com###root > div > main.App-main:nth-child(4) > div > div.QuestionPage > div.Question-main:last-child > div.Question-sideColumn.Question-sideColumn--sticky.css-1qyytj7:last-child > div:last-child > footer.css-2pfapc:last-child
+zhihu.com###root > div > main.App-main:nth-child(4) > div > div.QuestionPage > div.Question-main:last-child > div.ListShortcut:first-child > div.Question-mainColumn > div.Question-mainColumnLogin:first-child
+twitter.com###react-root > div.css-175oi2r.r-13awgt0.r-12vffkv > div.css-175oi2r.r-13awgt0.r-12vffkv > div.css-175oi2r.r-1f2l425.r-13qz1uu.r-417010.r-18u37iz:last-child > main.css-175oi2r.r-16y2uox.r-1wbh5a2.r-1habvwh:last-child > div.css-175oi2r.r-150rngu.r-16y2uox.r-1wbh5a2.r-rthrr5 > div.css-175oi2r.r-aqfbo4.r-16y2uox > div.css-175oi2r.r-1oszu61.r-1niwhzg.r-18u37iz.r-16y2uox.r-2llsf.r-13qz1uu.r-1wtj0ep > div.css-175oi2r.r-aqfbo4.r-zso239.r-1hycxz:last-child > div.css-175oi2r.r-1pi2tsx > div.css-175oi2r.r-1hycxz.r-gtdqiz:last-child > div.css-175oi2r.r-1adg3ll > div.css-175oi2r > div.css-175oi2r.r-vacyoi.r-ttdzmv > div.css-175oi2r:nth-child(3)
+twitter.com###react-root > div.css-175oi2r.r-13awgt0.r-12vffkv > div.css-175oi2r.r-13awgt0.r-12vffkv > div.css-175oi2r.r-1f2l425.r-13qz1uu.r-417010.r-18u37iz:last-child > main.css-175oi2r.r-16y2uox.r-1wbh5a2.r-1habvwh:last-child > div.css-175oi2r.r-150rngu.r-16y2uox.r-1wbh5a2.r-rthrr5 > div.css-175oi2r.r-aqfbo4.r-16y2uox > div.css-175oi2r.r-1oszu61.r-1niwhzg.r-18u37iz.r-16y2uox.r-2llsf.r-13qz1uu.r-1wtj0ep > div.css-175oi2r.r-aqfbo4.r-zso239.r-1hycxz:last-child > div.css-175oi2r.r-1pi2tsx > div.css-175oi2r.r-1hycxz.r-gtdqiz:last-child > div.css-175oi2r.r-1adg3ll > div.css-175oi2r > div.css-175oi2r.r-vacyoi.r-ttdzmv > div.css-175oi2r.r-1kqtdi0.r-1867qdf.r-1phboty.r-1ifxtd0.r-1udh08x.r-1niwhzg.r-1yadl64:last-child > nav.css-175oi2r.r-18u37iz.r-1w6e6rj.r-ymttw5
+huya.com###player-gift-wrap
+huya.com###J_roomHeader
+huya.com###J_mainRoom > div.room-core:nth-child(2) > div.room-core-r:last-child
+generals.io###replay-ad-container > div
+chatgpt.com##div.aria-live\=polite.fixed.select-none:last-child > div.shadow-long.flex.overflow-hidden.rounded-xl > button.btn.relative.btn-secondary.shadow-long.flex.rounded-xl.border-none.active\:opacity-1
+chatgpt.com##aside.flex.gap-4.rounded-3xl
+chatgpt.com###stage-sidebar-tiny-bar > div:nth-child(4) > div.group.__menu-item.hoverable.gap-1\.5.motion-safe\:transition-opacity.motion-safe\:duration-200.motion-safe\:ease-out.opacity-100.motion-safe\:delay-\[175ms\]
+chatgpt.com###thread > div.composer-parent.flex.flex-1.flex-col.focus-visible\:outline-0 > div.relative.basis-auto.flex-col.-mb-\(--composer-overlap-px\).\[--composer-overlap-px\:28px\].grow.flex-col.text-sm.pb-25:nth-child(2) > article.text-token-text-primary.w-full.focus\:outline-none.has-data-writing-block\:pointer-events-none.scroll-mt-\[calc\(var\(--header-height\)\+min\(200px\,max\(70px\,20svh\)\)\)\]:last-child > div.\[--thread-content-margin\:--spacing\(4\)\].\@w-sm\/main\:\[--thread-content-margin\:--spacing\(6\)\].\@w-lg\/main\:\[--thread-content-margin\:--spacing\(16\)\].px-\(--thread-content-margin\):last-child > div.\[--thread-content-max-width\:--spacing\(48\)\].mx-auto.max-w-\(--thread-content-max-width\).flex-1.group\/turn-messages.focus-visible\:outline-hidden.relative.flex.w-full.min-w-0.flex-col.agent-turn > div.mt-3.w-full.empty\:hidden:last-child
+x.com##div[aria-label="Trending"]
+! Hide exactly the "Free offer" pill/button in the header
+chatgpt.com##header#page-header div.inline-flex.items-center:has(> button:has-text("Free offer"))
+
+! Hide exactly the "ChatGPT can make mistakes" disclaimer
+chatgpt.com##div.-mt-4.text-token-text-secondary:has-text("ChatGPT can make mistakes")
+
+! Jan 10, 2026 https://zhuanlan.zhihu.com
+zhuanlan.zhihu.com##.Post-Row-Content-right
+
+! Jan 10, 2026 https://www.zhihu.com
+www.zhihu.com##.Question-sideColumn--sticky.Question-sideColumn
