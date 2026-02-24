@@ -365,6 +365,7 @@ $fira$ `elegance`
     - gao zixiang
     - gaou
     - gmhikaru
+    - hongkongdoll
     - ke jie
     - lciop
     - led zeppelin
