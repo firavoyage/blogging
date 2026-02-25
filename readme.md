@@ -144,6 +144,7 @@ $fira$ `elegance`
     - jjying jjying.com iconmoon.com
     - joakimjansson theindexwebsite theindex.website
     - karrisaarinen karrisaarinen.com linear.app
+    - laplace_news laplace.live
     - larrasket larr.net lr0.org
     - leongao leongao.com dribbble.com/leongao
     - linandliwoodworks
