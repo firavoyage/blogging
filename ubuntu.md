@@ -1439,6 +1439,30 @@ sudo apt install -f -y  # Fix any missing deps
   # save to a dedicated folder
   ```
 
+## `ipfs`
+
+```
+VERSION="v0.39.0"
+URL="https://dist.ipfs.tech/kubo/${VERSION}/kubo_${VERSION}_linux-amd64.tar.gz"
+
+echo "Downloading Kubo IPFS $VERSION..."
+curl -LO "$URL"
+
+echo "Extracting..."
+tar -xzf "kubo_${VERSION}_linux-amd64.tar.gz"
+
+echo "Installing..."
+cd kubo
+sudo bash install.sh
+
+echo "Cleaning up..."
+cd ..
+rm -rf kubo "kubo_${VERSION}_linux-amd64.tar.gz"
+
+echo "Done! Installed Kubo IPFS $VERSION"
+echo "Run: ipfs --version"
+```
+
 ## apps
 
 ```sh
