@@ -842,73 +842,73 @@ curl -fsSL https://raw.githubusercontent.com/mkasberg/ghostty-ubuntu/HEAD/instal
   - `push` sync all git repos
 - set timer to push daily
 
-```
-# Define the script and service paths
-SCRIPT_PATH="/usr/local/bin/run_push.sh"
-SERVICE_PATH="/etc/systemd/system/run_push.service"
-TIMER_PATH="/etc/systemd/system/run_push.timer"
+  ```sh
+  # Define the script and service paths
+  SCRIPT_PATH="/usr/local/bin/run_push.sh"
+  SERVICE_PATH="/etc/systemd/system/run_push.service"
+  TIMER_PATH="/etc/systemd/system/run_push.timer"
 
-# Create the script that will run the push command and retry on failure
-echo "Creating the push command script..."
-cat << 'EOF' | sudo tee $SCRIPT_PATH > /dev/null
-#!/bin/bash
+  # Create the script that will run the push command and retry on failure
+  echo "Creating the push command script..."
+  cat << 'EOF' | sudo tee $SCRIPT_PATH > /dev/null
+  #!/bin/bash
 
-# The command you want to run
-command="zsh -ic 'push'"
+  # The command you want to run
+  command="zsh -ic 'push'"
 
-# Retry until success
-until $command; do
-    echo "Command failed, retrying..."
-    sleep 10 # retry every 10 seconds
-done
+  # Retry until success
+  until $command; do
+      echo "Command failed, retrying..."
+      sleep 10 # retry every 10 seconds
+  done
 
-echo "Command completed successfully"
-EOF
+  echo "Command completed successfully"
+  EOF
 
-# Make the script executable
-sudo chmod +x $SCRIPT_PATH
+  # Make the script executable
+  sudo chmod +x $SCRIPT_PATH
 
-# Create the systemd service
-echo "Creating the systemd service..."
-cat << EOF | sudo tee $SERVICE_PATH > /dev/null
-[Unit]
-Description=Run push command at 23:00 daily
-After=network.target
+  # Create the systemd service
+  echo "Creating the systemd service..."
+  cat << EOF | sudo tee $SERVICE_PATH > /dev/null
+  [Unit]
+  Description=Run push command at 23:00 daily
+  After=network.target
 
-[Service]
-ExecStart=$SCRIPT_PATH
-Restart=always
-RestartSec=10
-User=$USER
-Environment=DISPLAY=:0
-Environment=XAUTHORITY=/home/$USER/.Xauthority
+  [Service]
+  ExecStart=$SCRIPT_PATH
+  Restart=always
+  RestartSec=10
+  User=$USER
+  Environment=DISPLAY=:0
+  Environment=XAUTHORITY=/home/$USER/.Xauthority
 
-[Install]
-WantedBy=multi-user.target
-EOF
+  [Install]
+  WantedBy=multi-user.target
+  EOF
 
-# Create the systemd timer
-echo "Creating the systemd timer..."
-cat << EOF | sudo tee $TIMER_PATH > /dev/null
-[Unit]
-Description=Run push command at 23:00 daily
+  # Create the systemd timer
+  echo "Creating the systemd timer..."
+  cat << EOF | sudo tee $TIMER_PATH > /dev/null
+  [Unit]
+  Description=Run push command at 23:00 daily
 
-[Timer]
-OnCalendar=23:00
-Unit=run_push.service
+  [Timer]
+  OnCalendar=23:00
+  Unit=run_push.service
 
-[Install]
-WantedBy=timers.target
-EOF
+  [Install]
+  WantedBy=timers.target
+  EOF
 
-# Reload systemd and enable/start the timer
-echo "Reloading systemd, enabling and starting the timer..."
-sudo systemctl daemon-reload
-sudo systemctl enable run_push.timer
-sudo systemctl start run_push.timer
+  # Reload systemd and enable/start the timer
+  echo "Reloading systemd, enabling and starting the timer..."
+  sudo systemctl daemon-reload
+  sudo systemctl enable run_push.timer
+  sudo systemctl start run_push.timer
 
-echo "Setup complete. The push command will run daily at 23:00 and retry if it fails."
-```
+  echo "Setup complete. The push command will run daily at 23:00 and retry if it fails."
+  ```
 
 ## `fcitx5`
 
