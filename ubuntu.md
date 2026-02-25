@@ -1152,8 +1152,6 @@ curl -fsSL https://raw.githubusercontent.com/mkasberg/ghostty-ubuntu/HEAD/instal
 
 ## `ipfs`
 
-## `ipfs`
-
 - install
 
   ```
@@ -1229,6 +1227,13 @@ curl -fsSL https://raw.githubusercontent.com/mkasberg/ghostty-ubuntu/HEAD/instal
   echo "Done."
   echo "Check status with: sudo systemctl status ipfs"
   ```
+
+## `tor browser`
+
+- normalize
+  - `about:config`
+    - privacy.resistFingerprinting.letterboxing: `false`
+
 
 ## `ayugram`
 
