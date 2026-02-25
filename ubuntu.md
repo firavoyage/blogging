@@ -891,12 +891,15 @@ curl -fsSL https://raw.githubusercontent.com/mkasberg/ghostty-ubuntu/HEAD/instal
   echo "Creating the systemd timer..."
   cat << EOF | sudo tee $TIMER_PATH > /dev/null
   [Unit]
-  Description=Run push command at 23:00 daily
-
+  Description=Run push command daily
+  
   [Timer]
+  OnCalendar=16:00
+  OnCalendar=21:00
   OnCalendar=23:00
+  OnCalendar=02:00
   Unit=run_push.service
-
+  
   [Install]
   WantedBy=timers.target
   EOF
