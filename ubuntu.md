@@ -1231,8 +1231,10 @@ curl -fsSL https://raw.githubusercontent.com/mkasberg/ghostty-ubuntu/HEAD/instal
 ## `tor browser`
 
 - normalize
-  - `about:config`
-    - privacy.resistFingerprinting.letterboxing: `false`
+  
+  `about:config`
+  
+  - privacy.resistFingerprinting.letterboxing: `false`
 
 
 ## `ayugram`
