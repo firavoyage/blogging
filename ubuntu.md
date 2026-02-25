@@ -1540,3 +1540,7 @@ EOF
 update-desktop-database ~/.local/share/applications
 xdg-mime default sabaki.desktop application/x-go-sgf
 ```
+
+```sh
+sudo apt install -y yt-dlp
+```
