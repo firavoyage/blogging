@@ -636,7 +636,7 @@ curl -fsSL https://raw.githubusercontent.com/mkasberg/ghostty-ubuntu/HEAD/instal
   sudo apt update
 
   echo "Installing prerequisites (ADB, VLC, build tools)..."
-  sudo apt install -y git unzip adb libsdl2-2.0-0 ffmpeg vlc
+  sudo apt install -y unzip adb libsdl2-2.0-0 vlc
 
   echo
   echo "Installing latest scrcpy from official release..."
