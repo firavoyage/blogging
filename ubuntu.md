@@ -86,7 +86,7 @@
   sudo apt install -y neofetch
   sudo apt install -y fortune-mod cowsay figlet lolcat toilet
 
-  sudo apt install -y git nodejs npm python3 pip pipx
+  sudo apt install -y git nodejs npm python3 pip pipx ffmpeg
   sudo npm install -g pnpm
   ```
 
