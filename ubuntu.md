@@ -892,14 +892,14 @@ curl -fsSL https://raw.githubusercontent.com/mkasberg/ghostty-ubuntu/HEAD/instal
   cat << EOF | sudo tee $TIMER_PATH > /dev/null
   [Unit]
   Description=Run push command daily
-  
+
   [Timer]
   OnCalendar=16:00
   OnCalendar=21:00
   OnCalendar=23:00
   OnCalendar=02:00
   Unit=run_push.service
-  
+
   [Install]
   WantedBy=timers.target
   EOF
@@ -980,12 +980,12 @@ curl -fsSL https://raw.githubusercontent.com/mkasberg/ghostty-ubuntu/HEAD/instal
 
   ```
   sudo dpkg --add-architecture i386
-    
+
   sudo apt install libasound2-plugins:i386 libsdl2-2.0-0:i386 libdbus-1-3:i386 libsqlite3-0:i386 -y
 
   sudo apt install wine64 wine32 -y
   ```
-  
+
   <!-- it seems that apt version is more reliable. sabbat of witch and senrenbanka could only work on that and err on wine-stable (r/w somewhere without access). -->
 
   <!-- yosuga no sora also works after installing 32 bit packages (instead of showing a transparent window), idk. -->
@@ -1178,6 +1178,58 @@ curl -fsSL https://raw.githubusercontent.com/mkasberg/ghostty-ubuntu/HEAD/instal
   echo "Run: ipfs --version"
   ```
 
+- run
+
+  ```
+  # Detect current user
+  USER_NAME="$(whoami)"
+  IPFS_PATH="/home/$USER_NAME/.ipfs"
+  IPFS_BIN="$(which ipfs)"
+
+  if [ -z "$IPFS_BIN" ]; then
+    echo "ipfs binary not found in PATH."
+    exit 1
+  fi
+
+  echo "Using IPFS binary at: $IPFS_BIN"
+  echo "Using IPFS path at: $IPFS_PATH"
+
+  # Initialize IPFS if not already initialized
+  if [ ! -d "$IPFS_PATH" ]; then
+    echo "Initializing IPFS..."
+    ipfs init
+  fi
+
+  # Create systemd service file
+  sudo tee /etc/systemd/system/ipfs.service > /dev/null <<EOF
+  [Unit]
+  Description=IPFS daemon
+  After=network.target
+
+  [Service]
+  User=$USER_NAME
+  Environment=IPFS_PATH=$IPFS_PATH
+  ExecStart=$IPFS_BIN daemon --enable-gc
+  Restart=always
+  LimitNOFILE=1024000
+
+  [Install]
+  WantedBy=multi-user.target
+  EOF
+
+  echo "Reloading systemd..."
+  sudo systemctl daemon-reload
+
+  echo "Enabling IPFS service..."
+  sudo systemctl enable ipfs
+
+  echo "Starting IPFS service..."
+  sudo systemctl start ipfs
+
+  echo "Done."
+  echo "Check status with: sudo systemctl status ipfs"
+  ```
+
 ## `ayugram`
 
 - install
@@ -1214,12 +1266,12 @@ curl -fsSL https://raw.githubusercontent.com/mkasberg/ghostty-ubuntu/HEAD/instal
 - install
 
 ```
-wget -c -O "eden.deb" https://github.com/eden-emulator/Releases/releases/download/v0.2.0-rc1/Eden-Ubuntu-24.04-v0.2.0-rc1-amd64.deb 
-sudo dpkg -i eden.deb 
+wget -c -O "eden.deb" https://github.com/eden-emulator/Releases/releases/download/v0.2.0-rc1/Eden-Ubuntu-24.04-v0.2.0-rc1-amd64.deb
+sudo dpkg -i eden.deb
 sudo apt install -f -y  # Fix any missing deps
 ```
 
-- install keys 
+- install keys
 
   `tools: install decryption keys`
 
@@ -1467,6 +1519,76 @@ sudo apt install -f -y  # Fix any missing deps
   # save to a dedicated folder
   ```
 
+## `sabaki`
+
+- install
+
+  ```sh
+  # install sabaki
+
+  # sudo snap install sabaki
+  # sudo snap remove sabaki # some font rendering issues exist
+
+  # Set variables
+  mkdir -p ~/.local/share/appimages
+  mkdir -p ~/.local/share/applications
+
+  URL="https://github.com/SabakiHQ/Sabaki/releases/download/v0.52.2/sabaki-v0.52.2-linux-x64.AppImage"
+  # URL="https://master.dl.sourceforge.net/project/sabaki.mirror/v0.52.2/sabaki-v0.52.2-linux-x64.AppImage"
+  FILE="sabaki.AppImage"
+  APPDIR="$HOME/.local/share/appimages"
+  DESKTOPDIR="$HOME/.local/share/applications"
+
+  # Download
+  echo "Downloading..."
+  wget -c -O "$APPDIR/$FILE" "$URL"
+  chmod +x "$APPDIR/$FILE"
+
+  APPIMAGE_PATH="$APPDIR/$FILE"
+
+  # Extract .desktop and icon if possible
+  mkdir -p tmp_extract
+  cd tmp_extract
+  "$APPIMAGE_PATH" --appimage-extract >/dev/null 2>&1
+
+  DESKTOP_FILE=$(find squashfs-root -name '*.desktop' | head -n1)
+
+  NAME=$(grep -m1 '^Name=' "$DESKTOP_FILE" | sed 's/^Name=//')
+  ICON=$(grep -m1 '^Icon=' "$DESKTOP_FILE" | sed 's/^Icon=//')
+
+  # Copy icon if exists
+  ICON_PATH=""
+  if [ -n "$ICON" ]; then
+    ICON_SRC=$(find squashfs-root -name "$ICON*" | head -n1)
+    if [ -n "$ICON_SRC" ]; then
+      cp "$ICON_SRC" "$APPDIR/"
+      ICON_PATH="$APPDIR/$(basename $ICON_SRC)"
+    fi
+  fi
+
+  cd ..
+  rm -rf tmp_extract
+
+  # Create desktop entry
+  mkdir -p "$DESKTOPDIR"
+  DESKTOP_PATH="$DESKTOPDIR/${NAME// /_}.desktop"
+
+  cat > "$DESKTOP_PATH" <<EOF
+  [Desktop Entry]
+  Type=Application
+  Name=$NAME
+  Exec=$APPIMAGE_PATH --no-sandbox %U
+  Icon=$ICON_PATH
+  Terminal=false
+  Categories=Game;Utility;
+  Comment=Sabaki — SGF editor
+  MimeType=application/x-go-sgf;
+  EOF
+
+  update-desktop-database ~/.local/share/applications
+  xdg-mime default sabaki.desktop application/x-go-sgf
+  ```
+
 ## apps
 
 ```sh
@@ -1501,74 +1623,8 @@ flatpak install -y flathub org.geogebra.GeoGebra
 flatpak install -y flathub com.valvesoftware.Steam
 flatpak install -y flathub sh.ppy.osu
 flatpak install -y flathub org.libretro.RetroArch
-```
 
-```sh
-# install sabaki
+flatpak install -y flathub org.torproject.torbrowser-launcher
 
-# sudo snap install sabaki
-# sudo snap remove sabaki # some font rendering issues exist
-
-# Set variables
-mkdir -p ~/.local/share/appimages
-mkdir -p ~/.local/share/applications
-
-URL="https://github.com/SabakiHQ/Sabaki/releases/download/v0.52.2/sabaki-v0.52.2-linux-x64.AppImage"
-# URL="https://master.dl.sourceforge.net/project/sabaki.mirror/v0.52.2/sabaki-v0.52.2-linux-x64.AppImage"
-FILE="sabaki.AppImage"
-APPDIR="$HOME/.local/share/appimages"
-DESKTOPDIR="$HOME/.local/share/applications"
-
-# Download
-echo "Downloading..."
-wget -c -O "$APPDIR/$FILE" "$URL"
-chmod +x "$APPDIR/$FILE"
-
-APPIMAGE_PATH="$APPDIR/$FILE"
-
-# Extract .desktop and icon if possible
-mkdir -p tmp_extract
-cd tmp_extract
-"$APPIMAGE_PATH" --appimage-extract >/dev/null 2>&1
-
-DESKTOP_FILE=$(find squashfs-root -name '*.desktop' | head -n1)
-
-NAME=$(grep -m1 '^Name=' "$DESKTOP_FILE" | sed 's/^Name=//')
-ICON=$(grep -m1 '^Icon=' "$DESKTOP_FILE" | sed 's/^Icon=//')
-
-# Copy icon if exists
-ICON_PATH=""
-if [ -n "$ICON" ]; then
-  ICON_SRC=$(find squashfs-root -name "$ICON*" | head -n1)
-  if [ -n "$ICON_SRC" ]; then
-    cp "$ICON_SRC" "$APPDIR/"
-    ICON_PATH="$APPDIR/$(basename $ICON_SRC)"
-  fi
-fi
-
-cd ..
-rm -rf tmp_extract
-
-# Create desktop entry
-mkdir -p "$DESKTOPDIR"
-DESKTOP_PATH="$DESKTOPDIR/${NAME// /_}.desktop"
-
-cat > "$DESKTOP_PATH" <<EOF
-[Desktop Entry]
-Type=Application
-Name=$NAME
-Exec=$APPIMAGE_PATH --no-sandbox %U
-Icon=$ICON_PATH
-Terminal=false
-Categories=Game;Utility;
-Comment=Sabaki — SGF editor
-MimeType=application/x-go-sgf;
-EOF
-
-update-desktop-database ~/.local/share/applications
-xdg-mime default sabaki.desktop application/x-go-sgf
-```
-
-```sh
 pipx install yt-dlp
 ```
