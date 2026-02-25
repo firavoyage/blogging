@@ -206,6 +206,8 @@ world goods list: plain filter over promotional recommendation engine
 internet treasure hunting guide curated by human
  -->
 
+<!-- library: z library, categorized. beautiful. (and shelf) -->
+
 <!-- all (awesome): worldly beauty (indulgence), v. (verb) -->
 
 artists on berryberry
