@@ -1542,5 +1542,5 @@ xdg-mime default sabaki.desktop application/x-go-sgf
 ```
 
 ```sh
-sudo apt install -y yt-dlp
+pipx install yt-dlp
 ```
