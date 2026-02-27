@@ -1073,8 +1073,7 @@ sudo apt -y install tmux
   # Reload systemd and enable/start the timer
   echo "Reloading systemd, enabling and starting the timer..."
   sudo systemctl daemon-reload
-  sudo systemctl enable run_push.timer
-  sudo systemctl start run_push.timer
+  sudo systemctl enable --now run_push.timer
 
   echo "Setup complete. The push command will run daily at 23:00 and retry if it fails."
   ```
@@ -1117,8 +1116,7 @@ apply
 ```
 sudo systemctl disable run_push.service # dont enable it unless you wanna run it at once when the system boots.
 
-sudo systemctl start run_push.timer # start counting now
-sudo systemctl enable run_push.timer # keep counting even if i reboot
+sudo systemctl enable --now run_push.timer # enable it. `--now` flag means both enable (start when reboot) and start (start now).
 
 sudo systemctl daemon-reload
 sudo systemctl restart run_push.timer
@@ -1445,10 +1443,7 @@ zsh -ic 'push'
   sudo systemctl daemon-reload
 
   echo "Enabling IPFS service..."
-  sudo systemctl enable ipfs
-
-  echo "Starting IPFS service..."
-  sudo systemctl start ipfs
+  sudo systemctl enable --now ipfs
 
   echo "Done."
   echo "Check status with: sudo systemctl status ipfs"
