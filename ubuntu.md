@@ -1018,6 +1018,7 @@ sudo apt -y install tmux
   # Create the script that will run the push command and retry on failure
   echo "Creating the push command script..."
   cat << 'EOF' | sudo tee $SCRIPT_PATH > /dev/null
+  #!/usr/bin/env zsh
   zsh -ic 'push'
   EOF
 
@@ -1124,6 +1125,8 @@ zsh -ic 'push'
 ```
 
  -->
+
+<!-- systemd needs shebang (`#!/usr/bin/env zsh`) to work. -->
 
 ## `fcitx5`
 
