@@ -1031,11 +1031,13 @@ sudo apt -y install tmux
   [Unit]
   Description=Run push command at 23:00 daily
   After=network.target
+  StartLimitIntervalSec=1h
+  StartLimitBurst=3
 
   [Service]
   ExecStart=$SCRIPT_PATH
-  Restart=always
-  RestartSec=10
+  Restart=on-failure
+  RestartSec=600
   User=$USER
   Environment=DISPLAY=:0
   Environment=XAUTHORITY=/home/$USER/.Xauthority
