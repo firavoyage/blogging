@@ -347,6 +347,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `3` 2026.02.23
 - `4` 2026.02.24
 - `5` 2026.02.25
+- `6` 2026.02.26
 
 ## gaming
 
@@ -17907,4 +17908,54 @@ on new tab page it shows footer. fuck.
 export. revert.
 
 ---
+
+outlook web is so weird.
+
+verification code could be found not in spam, not in inbox, but hiding in inbox/else.
+
+wtf.
+
+---
+
+on wikipedia why cant i change username from settings...
+
+legacy...
+
+---
+
+i wanted to change all usernames to `firahq`...
+
+but maybe i will change on local git... as the repo id changed.
+
+maybe...
+
+anyway i give up.
+
+voyage, the word, as a concept, which leads to beautiful imagination, could be a good choice, although it's a bit awkward inside username.
+
+---
+
+on chatgpt 
+
+search = search.
+
+thinking = thinking + search.
+
+well, that's kind of implicit.
+
+---
+
+so weird, on reddit after google oauth reg, you could not change your username.
+
+"reddit is anonymous"
+
+(upd: seems it recommend interests based on my ip, ca)
+
+---
+
+网上下载的童年
+
+---
+
+
 

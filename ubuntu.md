@@ -46,58 +46,57 @@
 
 ## utilities
 
-- install
+```
+sudo apt install -y curl wget ca-certificates gnupg lsb-release
 
-  ```
-  sudo apt install -y curl wget ca-certificates gnupg lsb-release
+sudo apt install -y snapd
 
-  sudo apt install -y snapd
+sudo apt install -y gnome-tweaks
+flatpak install -y flathub com.mattjakeman.ExtensionManager
 
-  sudo apt install -y earlyoom zram-tools
-  sudo systemctl enable --now earlyoom
+sudo apt install -y imagemagick ghostscript
 
-  echo "Disabling current swap..."
-  sudo swapoff /swap.img
+sudo apt install -y neofetch fortune-mod cowsay figlet lolcat toilet
 
-  echo "Removing old swap image..."
-  sudo rm -f /swap.img
+sudo apt install -y tree
 
-  echo "Creating new 8GB swap image..."
-  sudo fallocate -l 8G /swap.img
-  sudo chmod 600 /swap.img
-  sudo mkswap /swap.img
-  sudo swapon /swap.img
+sudo apt install -y git nodejs npm python3 pip pipx ffmpeg
+sudo npm install -g pnpm
 
-  echo "Making swap permanent in fstab..."
-  grep -q '/swap.img' /etc/fstab || echo '/swap.img none swap sw 0 0' | sudo tee -a /etc/fstab
+npm config set registry https://registry.npmmirror.com
+pnpm config set registry https://registry.npmmirror.com
 
-  echo "Configuring zRAM for 8GB compressed memory..."
-  sudo sed -i 's/^#ALLOCATION=.*/ALLOCATION=8192/' /etc/default/zramswap
-  sudo systemctl enable --now zramswap.service
+python3 -m pip config set global.break-system-packages true # user space is enough. no need to be system wide.
+# sudo mkdir -p /etc
+# printf '[global]\nbreak-system-packages = true\n' | sudo tee /etc/pip.conf >/dev/null
+```
 
-  sudo sed -i 's/^#EARLYOOM_ARGS=.*/EARLYOOM_ARGS="-m 10 -s 10"/' /etc/default/earlyoom
-  sudo systemctl restart earlyoom
+```
+sudo apt install -y earlyoom zram-tools
+sudo systemctl enable --now earlyoom
 
-  sudo apt install -y gnome-tweaks
-  flatpak install -y flathub com.mattjakeman.ExtensionManager
+echo "Disabling current swap..."
+sudo swapoff /swap.img
 
-  sudo apt install -y imagemagick ghostscript
+echo "Removing old swap image..."
+sudo rm -f /swap.img
 
-  sudo apt install -y neofetch
-  sudo apt install -y fortune-mod cowsay figlet lolcat toilet
+echo "Creating new 8GB swap image..."
+sudo fallocate -l 8G /swap.img
+sudo chmod 600 /swap.img
+sudo mkswap /swap.img
+sudo swapon /swap.img
 
-  sudo apt install -y git nodejs npm python3 pip pipx ffmpeg
-  sudo npm install -g pnpm
-  ```
+echo "Making swap permanent in fstab..."
+grep -q '/swap.img' /etc/fstab || echo '/swap.img none swap sw 0 0' | sudo tee -a /etc/fstab
 
-- remove builtin stuff
+echo "Configuring zRAM for 8GB compressed memory..."
+sudo sed -i 's/^#ALLOCATION=.*/ALLOCATION=8192/' /etc/default/zramswap
+sudo systemctl enable --now zramswap.service
 
-  ```
-  sudo snap remove firefox
-  flatpak install -y flathub org.mozilla.firefox # use flatpak one instead
-
-  sudo snap remove thunderbird # use web (gmail, outlook, etc.) instead, thunderbird is free and consistent but slow, and it produces nonsense, thunderbird.tmp on downloads
-  ```
+sudo sed -i 's/^#EARLYOOM_ARGS=.*/EARLYOOM_ARGS="-m 10 -s 10"/' /etc/default/earlyoom
+sudo systemctl restart earlyoom
+```
 
 ## `settings`
 
@@ -507,15 +506,16 @@
   - titlebar actions
     - middle click `none`
 - startup applications
-  - chromium
-  - code
   - fcitx5
   - clash verge <!-- no need to add. config on clash verge.  -->
+  - chromium
+  - code
   - vlc
+  - goldendict
 
 ## `fonts`
 
-<!-- todo -->
+<!-- todo: learn on google fonts. find all fonts i love. organize. install. -->
 
 - install fonts
   `repo: fonts`
@@ -557,6 +557,159 @@
       </prefer>
     </alias>
   </fontconfig>
+  ```
+
+  <!-- making everything cjk will cause weird full width characters. -->
+
+  <!--
+
+  `admin:///etc/fonts/local.conf`
+
+  `~/.config/fontconfig/fonts.conf`
+
+  ```xml
+  <?xml version="1.0"?>
+  <!DOCTYPE fontconfig SYSTEM "fonts.dtd">
+  <fontconfig>
+    <alias>
+      <family>sans-serif</family>
+      <prefer>
+        <family>Ubuntu Sans</family>
+        <family>Noto Sans CJK SC</family>
+        <family>Noto Sans CJK JP</family>
+        <family>Noto Sans CJK KR</family>
+        <family>Noto Sans CJK TC</family>
+        <family>Noto Sans CJK HK</family>
+      </prefer>
+    </alias>
+    <alias>
+      <family>serif</family>
+      <prefer>
+        <family>EB Garamond</family>
+        <family>Noto Serif CJK SC</family>
+        <family>Noto Serif CJK JP</family>
+        <family>Noto Serif CJK KR</family>
+        <family>Noto Serif CJK TC</family>
+      </prefer>
+    </alias>
+    <alias>
+      <family>monospace</family>
+      <prefer>
+        <family>Fira Code</family>
+      </prefer>
+    </alias>
+  </fontconfig>
+  ```
+
+  -->
+
+- apply
+
+  ```
+  sudo fc-cache -f -v
+  ```
+
+  <!-- log out log in when needed -->
+
+- apply to flatpak apps
+
+  <!-- flatpak apps run in isolated world -->
+
+  ```
+  APP="org.goldendict.GoldenDict"
+  SRC_FRAGMENT="/etc/fonts/conf.d/64-language-selector-cjk-prefer.conf"
+  DST_CONF="$HOME/.var/app/$APP/config/fontconfig"
+  DST_CONFD="$DST_CONF/conf.d"
+  FONTS_CONF="$DST_CONF/fonts.conf"
+  TS=$(date +%s)
+
+  echo "App: $APP"
+  echo "Source fragment: $SRC_FRAGMENT"
+  echo "Destination config: $DST_CONF"
+  echo
+
+  # Try to stop running instances (best-effort)
+  echo "Stopping running flatpak instances (best-effort)..."
+  flatpak kill "$APP" 2>/dev/null || true
+
+  # Ensure base destination exists
+  mkdir -p "$DST_CONF"
+
+  # If conf.d exists and is a symlink, move it aside (it may point to a nonexistent target)
+  if [ -L "$DST_CONFD" ]; then
+    echo "Found $DST_CONFD as a symlink. Backing up and replacing."
+    mv -v "$DST_CONFD" "${DST_CONFD}.symlink.bak.$TS"
+  fi
+
+  # If conf.d exists but is not a directory, back it up
+  if [ -e "$DST_CONFD" ] && [ ! -d "$DST_CONFD" ]; then
+    echo "Found $DST_CONFD but it's not a directory. Backing up."
+    mv -v "$DST_CONFD" "${DST_CONFD}.bak.$TS"
+  fi
+
+  # Create proper conf.d directory
+  mkdir -p "$DST_CONFD"
+
+  # Create a minimal fonts.conf which includes the local conf.d and host conf.d if present
+  cat > "$FONTS_CONF" <<'EOF'
+  <?xml version="1.0"?>
+  <!DOCTYPE fontconfig SYSTEM "fonts.dtd">
+  <fontconfig>
+    <!-- Prefer host font directories -->
+    <dir>/run/host/fonts</dir>
+    <dir>/run/host/usr/share/fonts</dir>
+    <dir>/usr/share/fonts</dir>
+
+    <!-- Include local conf fragments -->
+    <include ignore_missing="yes">conf.d</include>
+
+    <!-- Also include host /etc/fonts/conf.d if available inside sandbox -->
+    <include ignore_missing="yes">/run/host/etc/fonts/conf.d</include>
+  </fontconfig>
+  EOF
+
+  echo "Wrote $FONTS_CONF"
+
+  # Copy the host fragment into the app conf.d using install (avoids symlink creation issues)
+  if [ -f "$SRC_FRAGMENT" ]; then
+    install -Dm644 "$SRC_FRAGMENT" "$DST_CONFD/$(basename "$SRC_FRAGMENT")"
+    echo "Installed fragment into $DST_CONFD/$(basename "$SRC_FRAGMENT")"
+  else
+    echo "Warning: source fragment not found at $SRC_FRAGMENT — created fonts.conf and conf.d anyway."
+  fi
+
+  # Fix permissions so sandbox can read
+  chmod -R u+rwX,go+rX "$DST_CONF"
+
+  # Tell flatpak to use this config and give the sandbox read access to it.
+  # Also expose /etc/fonts (host) read-only so fragments that reference system paths can be read.
+  flatpak override --user \
+    --env="FONTCONFIG_PATH=$DST_CONF" \
+    --env="FONTCONFIG_FILE=$FONTS_CONF" \
+    --filesystem="$DST_CONF:ro" \
+    --filesystem="/etc/fonts:ro" \
+    "$APP" || {
+      echo "Note: flatpak override failed or returned non-zero (continuing anyway)."
+    }
+
+  echo
+  echo "Set flatpak env:"
+  echo "  FONTCONFIG_PATH=$DST_CONF"
+  echo "  FONTCONFIG_FILE=$FONTS_CONF"
+  echo "Exposed filesystem: $DST_CONF (read-only) and /etc/fonts (read-only)"
+  echo
+
+  # Refresh font cache inside sandbox (best-effort)
+  echo "Refreshing font caches inside sandbox (best-effort)..."
+  flatpak run --command=fc-cache "$APP" >/dev/null 2>&1 || true
+
+  # Verify env and files inside sandbox and show fc-match output
+  echo "Sandbox verification (environment and files):"
+  flatpak run --command=sh "$APP" -c \
+    "echo FONTCONFIG_PATH=\$FONTCONFIG_PATH; echo FONTCONFIG_FILE=\$FONTCONFIG_FILE; ls -la \"$DST_CONF\" || true; echo '----- fc-match output -----'; fc-match || true"
+
+  echo
+  echo "Done."
   ```
 
 ## `terminal`
@@ -615,13 +768,23 @@
   ```
 
 - put zshrc
+
   `terminal zshrc.sh`
+
 - install ghostty
 
-<!-- inspired by innei & others -->
+  <!-- inspired by innei & others -->
+
+  ```
+  curl -fsSL https://raw.githubusercontent.com/mkasberg/ghostty-ubuntu/HEAD/install.sh
+  ```
+
+- install tmux
+
+<!-- ctrl b d to keep something running, tmux attach to back. -->
 
 ```
-curl -fsSL https://raw.githubusercontent.com/mkasberg/ghostty-ubuntu/HEAD/install.sh
+sudo apt -y install tmux
 ```
 
 ## `scrcpy` `sndcpy`
@@ -701,6 +864,7 @@ curl -fsSL https://raw.githubusercontent.com/mkasberg/ghostty-ubuntu/HEAD/instal
   Type=Application
   Categories=Utility;RemoteAccess;
   StartupNotify=false
+  StartupWMClass=/usr/local/bin/icon.png
   ```
 
   <!-- zsh -ic, with -i flag you no longer need to source zshrc -->
@@ -768,6 +932,8 @@ curl -fsSL https://raw.githubusercontent.com/mkasberg/ghostty-ubuntu/HEAD/instal
   - enhance new tab: intention <!-- repo: f: intention. load unpacked with dev mode on. -->
     - allow in incognito
     - extension: keyboard shortcuts: intention: Open a new window with Intention's custom new tab `ctrl n`
+    - intention settings: url to open when enter is empty `https://chatgpt.com/branch/6984eac4-fa58-8322-828e-7dc5207d884a/bc5000bc-2439-46b3-8560-abd40414e51c` <!-- use the lastest one -->
+    - intention settings: search url `https://www.google.com/ai?q=%s` <!-- legacy: `https://www.google.com/search?q=%s` -->
   - automate captcha solving: buster https://chrome.google.com/webstore/detail/mpbjkejclgfgadiemmefgebjfooflfhl
   - manage access to accounts: authenticator https://chromewebstore.google.com/detail/authenticator/bhghoamapcdpbohphigoooaddinpkbai
   - manage multiple accounts: cookie profile switcher https://chromewebstore.google.com/detail/cookie-profile-switcher/dicajblfgcpecbkhkjaljphlmkhohelc
@@ -776,6 +942,7 @@ curl -fsSL https://raw.githubusercontent.com/mkasberg/ghostty-ubuntu/HEAD/instal
   - enhance twitch: alternate player for twitch.tv https://chromewebstore.google.com/detail/alternate-player-for-twit/bhplkbgoehhhddaoolmakpocnenplmhf
   - enhance bilibili: bewlybewly https://chromewebstore.google.com/detail/bewlybewly/bbbiejemhfihiooipfcjmjmbfdmobobp
   - see history of sites: wayback machine https://chromewebstore.google.com/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak
+  - dev: react developer tools https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en
 - config fonts
 
   `chrome://settings/fonts`
@@ -851,18 +1018,7 @@ curl -fsSL https://raw.githubusercontent.com/mkasberg/ghostty-ubuntu/HEAD/instal
   # Create the script that will run the push command and retry on failure
   echo "Creating the push command script..."
   cat << 'EOF' | sudo tee $SCRIPT_PATH > /dev/null
-  #!/bin/bash
-
-  # The command you want to run
-  command="zsh -ic 'push'"
-
-  # Retry until success
-  until $command; do
-      echo "Command failed, retrying..."
-      sleep 10 # retry every 10 seconds
-  done
-
-  echo "Command completed successfully"
+  zsh -ic 'push'
   EOF
 
   # Make the script executable
@@ -913,6 +1069,62 @@ curl -fsSL https://raw.githubusercontent.com/mkasberg/ghostty-ubuntu/HEAD/instal
   echo "Setup complete. The push command will run daily at 23:00 and retry if it fails."
   ```
 
+<!-- use the lastest config -->
+
+<!-- 
+
+check log
+
+```
+sudo journalctl -u run_push.service -r
+```
+
+check status
+
+```
+sudo systemctl status run_push.timer
+```
+
+```
+sudo systemctl list-timers
+```
+
+```
+sudo systemctl status run_push.service
+```
+
+stop
+
+```
+sudo systemctl stop run_push.service
+sudo systemctl disable run_push.service
+sudo systemctl stop run_push.timer
+sudo systemctl disable run_push.timer
+```
+
+apply
+
+```
+sudo systemctl disable run_push.service # to enable a service means to run it when the system boots. dont enable it.
+sudo systemctl enable run_push.timer # start counting if i reboot
+sudo systemctl start run_push.timer # start counting now
+
+sudo systemctl daemon-reload
+sudo systemctl restart run_push.timer
+```
+
+test
+
+```
+sudo systemctl start run_push.service
+```
+
+```
+zsh -ic 'push'
+```
+
+ -->
+
 ## `fcitx5`
 
 - install app
@@ -940,7 +1152,7 @@ curl -fsSL https://raw.githubusercontent.com/mkasberg/ghostty-ubuntu/HEAD/instal
   wget -O "$DICT_DIR/moegirl.dict" https://github.com/outloudvi/mw2fcitx/releases/latest/download/moegirl.dict
   ```
 
-  <!-- todo: find all dicts using agent -->
+  <!-- todo: find all dicts using an agent -->
 
 - add environment variables
 
@@ -956,11 +1168,7 @@ curl -fsSL https://raw.githubusercontent.com/mkasberg/ghostty-ubuntu/HEAD/instal
 
 - disable input method hint
   - fcitx5-configtool: global options: behavior: show first input method infomation `off`
-- config english
-  - input method: english: settings icon
-    - trigger hint mode `empty`
-    - trigger hint mode one time `empty`
-- add other languages
+- add languages
   - fcitx5-configtool: input method: available input method: only show current language `off`
   - add `pinyin` `mozc`
 - config pinyin
@@ -971,6 +1179,11 @@ curl -fsSL https://raw.githubusercontent.com/mkasberg/ghostty-ubuntu/HEAD/instal
 - enlarge clipboard
   <!-- ctrl ; -->
   - fcitx5-configtool: addons: clipboard: number of entries `30`
+- remove conflicting shortcuts
+  - input method: keyboard - english (us): settings button
+    - trigger hint mode `none`
+    - trigger hint mode one time `none`
+  - global options: hotkey: toggle embedded preedit `none`
 - apply
   - reboot <!-- or it might not be compatible with chromium -->
 
@@ -1231,11 +1444,10 @@ curl -fsSL https://raw.githubusercontent.com/mkasberg/ghostty-ubuntu/HEAD/instal
 ## `tor browser`
 
 - normalize
-  
-  `about:config`
-  
-  - privacy.resistFingerprinting.letterboxing: `false`
 
+  `about:config`
+
+  - privacy.resistFingerprinting.letterboxing: `false`
 
 ## `ayugram`
 
@@ -1597,6 +1809,14 @@ sudo apt install -f -y  # Fix any missing deps
   ```
 
 ## apps
+
+```sh
+# remove builtin stuff
+sudo snap remove firefox
+flatpak install -y flathub org.mozilla.firefox # use flatpak one instead
+
+sudo snap remove thunderbird # use web (gmail, outlook, etc.) instead. thunderbird is free and consistent, but slow. And it produces nonsense, thunderbird.tmp on downloads
+```
 
 ```sh
 curl -fsSL https://get.docker.com | sudo sh

@@ -52,11 +52,7 @@ $fira$ `elegance`
 
 > 想在转瞬即逝的时光里，留下属于自己的回忆。
 
-<!-- > _回归少女_ -->
-
 > _举重若轻_
-
-<!-- > _轻描淡写_  -->
 
 > _code artist_
 
@@ -70,7 +66,7 @@ $fira$ `elegance`
 
 - fira 💖, she/her (without 🏳️‍⚧️ or 🍥), 🇬🇧 user, 🇨🇳 native but rarely used, 🇯🇵 learner, 🇫🇷 very beginner
 - a developer, content creator, wikipedian
-- grew up in shanghai
+- grew up in the global village
 - on the internet since 2019, which is my actual "home town"
 
 <!-- I'm an otaku fascinated within her own world, believing existentialism, cynicism ~~daoism~~, determinism, and accelerationism, always overthinking and overengineering, lost herself in curiosity. -->
@@ -107,7 +103,7 @@ $fira$ `elegance`
   - huamei
 - essentials
   - j-pop · rock · folk · jazz · classical
-  - watch · journal · scratch pad · sketchbook · illustrations · life size waifu pillow · plushie · gardening
+  - watch · journal · scratch pad · sketchbook · illustrations · life size waifu pillow · plushie · house plants
   - origami · pixel art · design · gamedev · calligraphy · kanji · skeuomorph
   - anime · visualnovels · unixporn · mtf · virtualyoutubers
   - boardgames · linguistics · math · algorithms · vibe coding
@@ -972,10 +968,16 @@ $fira$ `elegance`
 - `fonts` designer
 
 <!--
-- `lucky` (archived) otaku
-- `web` (archived) archivist
-- `music` (archived) listener
+
+(legacy)
+
+- `lucky` otaku
+- `web` archivist
+- `music` listener
+
  -->
+
+<!-- it's gonna change, with better tools. filesystem is good, but the ui might not be really clear. -->
 
 ### here, in `blogging`
 
@@ -996,31 +998,29 @@ $fira$ `elegance`
   - `lixinye` the modern form of blood relations and love
   - ...
 - `blackboard` wax and wane
-- `quotes` (legacy) excerpts of the internet
-- `comments` (legacy) trival things i have heard as a student
-- `wisdom` (legacy) stuff in the mind flow
-- `mistral` (legacy) walk in the light with llm
+
+<!-- 
+
+(legacy)
+
+- `quotes` excerpts of the internet
+- `comments` trival things i have heard as a student
+- `wisdom` stuff in the mind flow
+- `mistral` walk in the light with llm
+
+ -->
 
 ## projection
 
-<!--
-fira is a font from mozilla.
- -->
-
-> `firahq` · `firavoyage` · `firascript` · `firatheprecious` · `"忘我思考"` · `paperboat2020` (legacy)
->
-> - `Fira_言序`
-> - `一番のFira`
-> - `Firaが一番だよ`
-> - `fira冬`
-> <!-- - `precious珍 (ちん)` -->
+> `firahq` · `firavoyage` · `firascript` · `firatheprecious` · `"忘我思考"` · `paperboat2020`
 
 - - github/gitea `firavoyage`
+  - wikipedia `User:Firahq`
   - wakatime `firavoyage`
   - codepen `firavoyage`
-  - wikipedia `User:Firavoyage`
+  - npm `firascript`
 - - arxiv `firahq`
-  - zenoob `firahq`
+  - zenodo `firahq`
   - orcid `0009-0007-1207-3193`
   - osf `zfv2j`
   - linkedin `firahq`
@@ -1037,20 +1037,40 @@ fira is a font from mozilla.
   - acfun `忘我思考` `65210945`
   - opensea `firascript`
 - - twitter `firahq` ~~`firascript`~~
-  - telegram `firavoyage`
-  - vk `firahq`
   - reddit `u/firascript`
   - zhihu `firahq`
   - v2ex `voy`
   - bangumi.tv `firavoyage`
   - mastodon `firavoyage@mastodon.social` `fira@techhub.social`
-  - npm `firascript`
+  - vk `firahq`
 - - matrix `@firahq:matrix.org`
   - matrix space `#firahq:matrix.org`
+  - telegram `firavoyage`
   - telegram group `voyagefira`
   - telegram channel `firaprecious` `logfira`
-- - email `firavoyage@outlook.com`
-  - alternatives `firafira@duck.com` `xoyage@gmail.com` `devvhy@zoho.com.cn` `firav@qq.com` `firahq@vk.com`
+
+<!-- 
+
+(legacy)
+
+- - email `xoyage@gmail.com`
+  - alternatives `firavoyage@outlook.com` `devvhy@zoho.com.cn` `firahq@vk.com` `firav@qq.com` `firafira@duck.com`
+
+email is deprecated. use git for coop swe. use tg (matrix is less feature rich) for im.
+
+email could do anything not requiring low latency, so im not gonna use it to do anything. 
+
+i.e. i never check email.
+
+ -->
+
+
+<!--
+
+fira is a font from mozilla.
+
+ -->
+
 
 ## insight
 

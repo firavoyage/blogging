@@ -50,82 +50,67 @@ zstyle ':completion:*:kill:*' command 'ps -u $USER -o pid,%cpu,tty,cputime,cmd'
 # ================================
 
 push() {
-    local tries=0
-    local max_tries=3
+  set -e  # stop on any error
+  echo "Starting push..."
 
-    while (( tries < max_tries )); do
-        ((tries++))
-        echo "Push attempt $tries of $max_tries"
+  cd ~
 
-        set -e  # stop on any error
-        cd ~
+  cd Documents/f
+  git add .
+  git commit -m '.' || true
+  git push -f g
+  git push -f a
+  git push -f e
+  cd ..
 
-        cd Documents/f
-        git add .
-        git commit -m '.' || true
-        git push -f g
-        git push -f a
-        git push -f e
-        cd ..
+  cd resources
+  git add .
+  git commit -m '.' || true
+  git push -f g
+  git push -f a
+  git push -f e
+  cd ..
 
-        cd resources
-        git add .
-        git commit -m '.' || true
-        git push -f g
-        git push -f a
-        git push -f e
-        cd ..
+  cd blogging
+  git add .
+  git commit -m '.' || true
+  git push -f g
+  git push -f a
+  git push -f e
+  cd ..
 
-        cd blogging
-        git add .
-        git commit -m '.' || true
-        git push -f g
-        git push -f a
-        git push -f e
-        cd ..
+  cd memories
+  git add .
+  git commit -m '.' || true
+  git push -f g
+  git push -f a
+  git push -f e
+  cd ..
 
-        cd memories
-        git add .
-        git commit -m '.' || true
-        git push -f g
-        git push -f a
-        git push -f e
-        cd ..
+  cd school
+  git add .
+  git commit -m '.' || true
+  git push -f g
+  git push -f a
+  git push -f e
+  cd ..
 
-        cd school
-        git add .
-        git commit -m '.' || true
-        git push -f g
-        git push -f a
-        git push -f e
-        cd ..
+  cd university
+  git add .
+  git commit -m '.' || true
+  git push -f g
+  git push -f a
+  git push -f e
+  cd ..
 
-        cd university
-        git add .
-        git commit -m '.' || true
-        git push -f g
-        git push -f a
-        git push -f e
-        cd ..
+  cd fonts
+  git add .
+  git commit -m '.' || true
+  git push -f g
+  git push -f e
+  cd ~
 
-        cd fonts
-        git add .
-        git commit -m '.' || true
-        git push -f g
-        git push -f e
-        cd ..
-
-        cd ~
-        echo "Push completed successfully."
-        return 0  # exit loop on success
-
-    # If we reach here, a command failed
-    echo "Push failed on attempt $tries"
-    sleep 10  # wait a bit before retrying
-    done
-
-    echo "Push failed after $max_tries attempts."
-    return 1  # signal failure to systemd
+  echo "Push completed successfully."
 }
 
 sound() {
