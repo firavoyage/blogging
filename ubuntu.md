@@ -779,6 +779,13 @@ sudo systemctl restart earlyoom
   curl -fsSL https://raw.githubusercontent.com/mkasberg/ghostty-ubuntu/HEAD/install.sh
   ```
 
+- secure ghostty: keep terminal alive after failure
+
+  ```sh
+  mkdir -p ~/.config/ghostty
+  printf 'wait-after-command = true\nabnormal-command-exit-runtime = 0\n' > ~/.config/ghostty/config
+  ```
+
 - install tmux
 
 <!-- ctrl b d to keep something running, tmux attach to back. -->
@@ -1108,9 +1115,10 @@ sudo systemctl disable run_push.timer
 apply
 
 ```
-sudo systemctl disable run_push.service # to enable a service means to run it when the system boots. dont enable it.
-sudo systemctl enable run_push.timer # start counting if i reboot
+sudo systemctl disable run_push.service # dont enable it unless you wanna run it at once when the system boots.
+
 sudo systemctl start run_push.timer # start counting now
+sudo systemctl enable run_push.timer # keep counting even if i reboot
 
 sudo systemctl daemon-reload
 sudo systemctl restart run_push.timer
