@@ -56,7 +56,7 @@ flatpak install -y flathub com.mattjakeman.ExtensionManager
 
 sudo apt install -y imagemagick ghostscript
 
-sudo apt install -y neofetch fortune-mod cowsay figlet lolcat toilet
+sudo apt install -y neofetch fortune-mod cowsay figlet lolcat toilet sl
 
 sudo apt install -y tree
 
@@ -940,7 +940,7 @@ sudo apt -y install tmux
     - allow in incognito
     - extension: keyboard shortcuts: intention: Open a new window with Intention's custom new tab `ctrl n`
     - intention settings: url to open when enter is empty `https://chatgpt.com/branch/6984eac4-fa58-8322-828e-7dc5207d884a/bc5000bc-2439-46b3-8560-abd40414e51c` <!-- use the lastest one -->
-    - intention settings: search url `https://www.google.com/ai?q=%s` <!-- it's good to set ai mode default in case it doesnt always show up automatically, sometimes not even available on nav bar on regular search, while you can easily go to "all" from ai mode. legacy: `https://www.google.com/search?q=%s` -->
+    - intention settings: search url `https://www.google.com/ai?q=%s&gl=us` <!-- it's good to set ai mode default in case it doesnt always show up automatically, sometimes not even available on nav bar on regular search, while you can easily go to "all" from ai mode. legacy: `https://www.google.com/search?q=%s&gl=us`. unfortunately, gl=us is not preserved when switching to all. -->
   - automate captcha solving: buster https://chrome.google.com/webstore/detail/mpbjkejclgfgadiemmefgebjfooflfhl
   - manage access to accounts: authenticator https://chromewebstore.google.com/detail/authenticator/bhghoamapcdpbohphigoooaddinpkbai
   - manage multiple accounts: cookie profile switcher https://chromewebstore.google.com/detail/cookie-profile-switcher/dicajblfgcpecbkhkjaljphlmkhohelc

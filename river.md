@@ -17957,5 +17957,58 @@ so weird, on reddit after google oauth reg, you could not change your username.
 
 ---
 
+不知为什么没有睡足够就醒来了. 也许窗帘没有塑料. 也许是开了缝, 光太强.
+
+---
+
+可爱的家伙. 真是幸运, 只是因为年轻就能与我交往.
+
+果然被欺骗了呢.
+
+(她就是她本身. 清楚. f 配得上她. 可她无知空灵的眼神又能透露出什么呢.)
+
+"我们的相遇是命中注定吗"
+
+~~("不, 是我 ... 机关算尽 ...")~~
+
+"是啊."
+
+---
+
+怀念无忧无虑的 f.
+
+左侧, 还要更远一些, 零玖. 电机课上, 她会直勾勾地搜索一个角色的名字. 每次好像都是一样的词条. 然后观看.
+
+右侧 zhijun. 她很聪明的. 会带一些羞涩, 直接地回答. ("我很菜很菜的"). cr. 公众号文章. 围棋. 当心被发现于是悄悄玩. 乖巧, 清晰.
+
+前面应该会有 shiyu. 不多不少的阶级性, 年轻是最好的.
+
+~~世界就在我们之下.~~
+
+世界就在我们之间.
+
+---
+
+作为一个女优, hongkongdoll 实在是不够格.
+
+...
+
+当怀念 hkd 时, 怀念的是什么呢.
+
+...
+
+---
+
+why youtube caption fails again?!
+
+because of ip? even if.
+
+ok it works after a refresh. maybe because of loading.
+
+it's common big companies dont check js availability in runtime.
+
+("an application side error occurs")
+
+---
 
 

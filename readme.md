@@ -64,6 +64,8 @@ $fira$ `elegance`
 
 > if you ever miss me, just close your eyes. and maybe i'll appear in your dreams.
 
+> 要怎么做...
+
 - fira 💖, she/her (without 🏳️‍⚧️ or 🍥), 🇬🇧 user, 🇨🇳 native but rarely used, 🇯🇵 learner, 🇫🇷 very beginner
 - a developer, content creator, wikipedian
 - grew up in the global village
@@ -362,7 +364,7 @@ $fira$ `elegance`
     - gao zixiang
     - gaou
     - gmhikaru
-    - hongkongdoll
+    - hongkongdoll exlibris mmnf
     - ke jie
     - lciop
     - led zeppelin
