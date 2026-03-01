@@ -18009,6 +18009,24 @@ it's common big companies dont check js availability in runtime.
 
 ("an application side error occurs")
 
+### mar 2026
+
+cyan nyan: cn to us (early age) to (ex) google to jp (vtb).
+
+angel neko chan: cn to ru (high school) to uk (university) to jp (work).
+
+~~win~~
+
+sigh. a life without struggles...
+
+---
+
+i would put geekerwan into journalism instead of art & design or code & creation.
+
+because it is.
+
+unixporn could be fun. but it's not a channel mainly on unixporn.
+
 ---
 
 

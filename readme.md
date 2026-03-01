@@ -272,9 +272,8 @@ $fira$ `elegance`
   - journalism
     - cdtchinese chinadigitaltimes.net
     - chai jing
-    - geekerwan
-    - cirosantilli cirosantilli.com/china-dictatorship
     - feng ge wang min tian ya
+    - geekerwan1024 socpk.com
     - hu chenfeng
     - jing hanqing
     - mo di si ji xu shi fu
