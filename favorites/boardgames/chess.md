@@ -739,5 +739,30 @@
 
 ---
 
+[Event "rated rapid game"]
+[Site "https://lichess.org/Q3SFvAXu"]
+[Date "2026.03.01"]
+[Round "-"]
+[White "Ogaki"]
+[Black "firahq"]
+[Result "0-1"]
+[GameId "Q3SFvAXu"]
+[UTCDate "2026.03.01"]
+[UTCTime "13:44:31"]
+[WhiteElo "906"]
+[BlackElo "940"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+17"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C48"]
+[Opening "Four Knights Game: Spanish Variation, Classical Variation"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. e4 { [%eval 0.18] [%clk 0:10:00] } 1... e5 { [%eval 0.22] [%clk 0:10:00] } 2. Nf3 { [%eval 0.18] [%clk 0:10:04] } 2... Nc6 { [%eval 0.21] [%clk 0:10:03] } 3. Bb5 { [%eval 0.15] [%clk 0:10:07] } 3... Nf6 { [%eval 0.17] [%clk 0:10:03] } 4. Nc3 { [%eval 0.04] [%clk 0:10:10] } 4... Bc5 { [%eval 0.15] [%clk 0:08:40] } { C48 Four Knights Game: Spanish Variation, Classical Variation } 5. O-O { [%eval 0.13] [%clk 0:08:49] } 5... O-O { [%eval 0.23] [%clk 0:08:36] } 6. d3 { [%eval -0.05] [%clk 0:08:46] } 6... d5?! { (-0.05 → 0.64) Inaccuracy. Nd4 was best. } { [%eval 0.64] [%clk 0:08:03] } (6... Nd4 7. Bc4 d6 8. Nxd4 Bxd4 9. a4 a5 10. Qe1 c6 11. Kh1) 7. b4?? { (0.64 → -1.37) Blunder. Bxc6 was best. } { [%eval -1.37] [%clk 0:08:40] } (7. Bxc6 bxc6 8. Nxe5 dxe4 9. Nxe4 Nxe4 10. dxe4 Qxd1 11. Rxd1 Re8) 7... Bxb4 { [%eval -1.24] [%clk 0:07:49] } 8. Bxc6?? { (-1.24 → -4.08) Blunder. Nxd5 was best. } { [%eval -4.08] [%clk 0:08:26] } (8. Nxd5 Nxd5 9. exd5 Qxd5 10. c4 Qd6 11. Bxc6 bxc6 12. Bb2 f6 13. a3 Bc5) 8... Bxc3 { [%eval -3.98] [%clk 0:07:28] } 9. Rb1 { [%eval -4.38] [%clk 0:07:53] } 9... bxc6 { [%eval -4.44] [%clk 0:07:22] } 10. exd5 { [%eval -4.86] [%clk 0:07:48] } 10... cxd5 { [%eval -4.6] [%clk 0:07:19] } 11. Bg5 { [%eval -4.82] [%clk 0:07:49] } 11... Bg4 { [%eval -4.61] [%clk 0:06:48] } 12. h3 { [%eval -4.55] [%clk 0:07:45] } 12... Bxf3 { [%eval -4.51] [%clk 0:06:24] } 13. Qxf3 { [%eval -4.51] [%clk 0:07:42] } 13... c6 { [%eval -4.31] [%clk 0:05:41] } 14. Qg4 { [%eval -5.08] [%clk 0:05:58] } { White resigns. } 0-1
+
+---
+
 
 

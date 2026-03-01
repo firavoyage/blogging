@@ -18030,4 +18030,11 @@ unixporn could be fun. but it's not a channel mainly on unixporn.
 
 ---
 
+startwm class not working?!
+
+scrcpy uses no icon again.
+
+idk how is it designed...
+
+---
 
