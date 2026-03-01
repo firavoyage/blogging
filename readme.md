@@ -364,6 +364,7 @@ $fira$ `elegance`
     - gao zixiang
     - gaou
     - gmhikaru
+    - gothamchess <!-- ? -->
     - hongkongdoll exlibris mmnf
     - ke jie
     - lciop

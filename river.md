@@ -18038,3 +18038,62 @@ idk how is it designed...
 
 ---
 
+wifi wont always work. sometimes even the mobile internet wont work.
+
+wtf.
+
+no part of the network infra could work reliably. no part.
+
+---
+
+两种表述选一种.
+
+a
+
+"It wouldnt be a gothamchess video if it wasnt clickbait."
+
+b
+
+> It wouldnt be a gothamchess video if it wasnt clickbait.
+
+选择了 b. 感觉组件渲染比标注符号更现代明快一些. 这些引用的网路评论也不是什么深沉隽永的.
+
+---
+
+suddenly i think...
+
+can i just remove all noto cjk files other than sc?
+
+(fail. they are inside one ttc file. to remove some glyphs elegantly and overriding the original font file might take efforts.)
+
+---
+
+iphone 很有个性的家伙. 在意的地方做得极致. 另一些地方不关心竞争 (甚至不宣传).
+
+也有历史文化, 技术背景支持.
+
+但不开放这一个决策就可以否定一切了.
+
+---
+
+geekerwan 很会玩呢. 会开发原生软件. 虽然很容易就是了. 但是肯定没有 web 容易啦.
+
+(fira 想学 flutter?!)
+
+(btw, geekerwan 完全不测试真正的安卓... google pixel, samsung. 其实 china 不属于全世界啊.)
+
+不知道 os 是否影响.
+
+---
+
+突然想到这些 trivial 的数据.
+
+da li zi qie qie li 想要感受. (感受显然是最终的真正目的, 但这样会引入欺骗和把戏. 如她似乎测试过 harmony os. )
+
+geekerwan 想要事实.
+
+可是, 无论心理直观感受, 和测试数据支持, 可能都没有什么用啊?
+
+---
+
+

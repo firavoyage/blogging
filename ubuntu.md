@@ -871,7 +871,7 @@ sudo apt -y install tmux
   Type=Application
   Categories=Utility;RemoteAccess;
   StartupNotify=false
-  StartupWMClass=/usr/local/bin/icon.png
+  StartupWMClass=scrcpy
   ```
 
   <!-- zsh -ic, with -i flag you no longer need to source zshrc -->
