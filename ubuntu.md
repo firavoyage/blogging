@@ -1845,7 +1845,8 @@ flatpak install -y flathub org.blender.Blender
 
 flatpak install -y flathub org.gnome.Weather
 
-flatpak install -y flathub com.github.johnfactotum.Foliate
+sudo snap install foliate # fix fonts access in sandbox. there's nothing wrong with snap. no extra config needed.
+# flatpak install -y flathub com.github.johnfactotum.Foliate
 
 flatpak install -y flathub com.github.finefindus.eyedropper
 
