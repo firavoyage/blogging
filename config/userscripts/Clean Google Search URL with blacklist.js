@@ -1,16 +1,13 @@
 // ==UserScript==
 // @name         Clean Google Search URL with blacklist
 // @namespace    clean-google-url-blacklist
-// @version      1.1
+// @version      1.3
 // @description  Remove known tracking parameters from Google search URLs without reloading
-// @match        https://www.google.com/search*
+// @include      *://*.google.*/*
 // @run-at       document-start
 // ==/UserScript==
 
 (function () {
-  const url = new URL(window.location.href);
-
-  // Parameters that are safe to remove
   const blacklist = new Set([
     "oq",
     "gs_lcrp",
@@ -26,22 +23,40 @@
     "sxsrf",
     "rlz",
     "iflsig",
+    "aep",
+    "prmd",
+    "source",
+    "sa",
+    "csuir",
+    "mtid",
+    "mstk",
   ]);
 
-  let changed = false;
+  function cleanUrl() {
+    const url = new URL(window.location.href);
+    let changed = false;
 
-  for (const param of [...url.searchParams.keys()]) {
-    if (blacklist.has(param)) {
-      url.searchParams.delete(param);
-      changed = true;
+    for (const param of [...url.searchParams.keys()]) {
+      if (blacklist.has(param)) {
+        url.searchParams.delete(param);
+        changed = true;
+      }
+    }
+
+    if (changed) {
+      const newQuery = url.searchParams.toString();
+      const newUrl =
+        url.pathname +
+        (newQuery ? "?" + newQuery : "") +
+        url.hash;
+
+      window.history.replaceState({}, document.title, newUrl);
     }
   }
 
-  if (changed) {
-    window.history.replaceState(
-      {},
-      document.title,
-      url.pathname + "?" + url.searchParams.toString()
-    );
-  }
+  // Run immediately
+  cleanUrl();
+
+  // Poll every 100ms
+  setInterval(cleanUrl, 100);
 })();

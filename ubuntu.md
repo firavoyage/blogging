@@ -60,15 +60,20 @@ sudo apt install -y neofetch fortune-mod cowsay figlet lolcat toilet sl
 
 sudo apt install -y tree
 
-sudo apt install -y git nodejs npm python3 pip pipx ffmpeg
+sudo apt install -y git python3 pip pipx ffmpeg
 sudo npm install -g pnpm
 
+curl -fsSL https://deb.nodesource.com/setup_lts.x | sudo -E bash -
+sudo apt install -y nodejs # install the lastest
+
 npm config set registry https://registry.npmmirror.com
+# npm config set registry https://registry.npmjs.org/ # use the official site for publishing
+# npm config set //registry.npmjs.org/:_authToken {auth_token}
+
 pnpm config set registry https://registry.npmmirror.com
 
-python3 -m pip config set global.break-system-packages true # user space is enough. no need to be system wide.
-# sudo mkdir -p /etc
-# printf '[global]\nbreak-system-packages = true\n' | sudo tee /etc/pip.conf >/dev/null
+python3 -m pip config set global.break-system-packages true # remove meaningless warning for current user.
+# sudo mkdir -p /etc; printf '[global]\nbreak-system-packages = true\n' | sudo tee /etc/pip.conf >/dev/null # remove meaningless warning system wide
 ```
 
 ```
@@ -788,14 +793,17 @@ sudo systemctl restart earlyoom
 
 - install tmux
 
-<!-- ctrl b d to keep something running, tmux attach to back. -->
+<!-- `ctrl b` `d` to keep something running in the bg, `tmux attach` to back. -->
 
-```
-sudo apt -y install tmux
-```
+  ```
+  sudo apt -y install tmux
+  ```
 
 ## `scrcpy` `sndcpy`
 
+- phone: settings
+  - allow usb debugging `on`
+  - allow usb installation `on`
 - install
 
   ```
@@ -1080,7 +1088,7 @@ sudo apt -y install tmux
 
 <!-- use the lastest config -->
 
-<!-- 
+<!--
 
 check log
 

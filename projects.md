@@ -553,6 +553,12 @@ inspired by
 
 > a sweeter rust
 
+`solve`
+
+> an elegant photo solver for a more civilized age
+
+<!-- shot. (normalization.) ocr (vision model as backup). llm (dict as backup). byok/hack. -->
+
 ## create
 
 `humility`
@@ -961,6 +967,18 @@ inspired by
 - nulls royale
 - shadow verse
 - hearthstone
+
+`bandolllll`
+
+> td diy
+
+<!-- "mygo pvz. (like gacha party)" -->
+
+<!-- chinese politics memes. -->
+
+`minecraft`
+
+<!-- i think it's fun to create one... but what's the difference between existing alternatives... i dont think i would just go beyond pixels/blocks. -->
 
 ## legacy
 

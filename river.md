@@ -349,6 +349,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `5` 2026.02.25
 - `6` 2026.02.26
 - `7` 2026.03.01
+- `8` 2026.03.02
 
 ## gaming
 
@@ -18014,6 +18015,8 @@ it's common big companies dont check js availability in runtime.
 
 cyan nyan: cn to us (early age) to (ex) google to jp (vtb).
 
+(upd: on yuri. cyan, xgoogler. lina, indie? hacker. lang: 80% en, 20% jp.)
+
 angel neko chan: cn to ru (high school) to uk (university) to jp (work).
 
 ~~win~~
@@ -18096,4 +18099,99 @@ geekerwan 想要事实.
 
 ---
 
+不知道为什么 ayugram 自动采用了 kaiti.
 
+我没有在这里设置啊?
+
+---
+
+a
+
+> 在我年纪还轻、阅历尚浅的那些年里，父亲曾经给过我一句忠告，直到今天，这句话仍在我心间萦绕。
+> 
+> “每当你想批评别人的时候，”他对我说，“要记住，这世上并不是所有人，都有你拥有的那些优势。”
+> 
+> 他没再多说什么，不过我们总是言语不多就能彼此理解，所以我明白，他想说的远不止这些。于是，我逐渐养成了不对他人妄加评论的习惯，这样一来，许多古怪的人向我敞开心扉，一些世故而无聊的人也把我当成倾诉对象。当这种品质在一个正常人身上显露出来，那些心智不正常的人就会立刻察觉，绝不放过。由于这一点，我在大学时代受到不公平的指责，他们说我是个政客，因为我了解那些放荡、神秘的家伙不为人知的伤痛。大多数私事并不是我刻意打听的，通常的情况是——每当有准确的迹象让我意识到，有人又要吐露心声时，我就假装睡觉，假装心不在焉，或者装出很不友好、玩世不恭的样子。因为年轻人的心声，或者至少他们表达的方式，往往是雷同的，还带有明显的遮遮掩掩。不对他人妄加评论，这是一种理想境界。我现在仍担心自己因责人过苛而有所失，担心自己忘记那句父亲提出而我也一再重复的有些骄傲意味的忠告——每个人的基本道德观念生而不同，不可等量齐观。
+
+b
+
+> 我年纪还轻，阅历不深的时候，我父亲教导过我一句话，我至今还念念不忘。
+> 
+> “每逢你想要批评任何人的时候，”他对我说，“你就记住，这个世界上所有的人，并不是个个都有过你那些优越条件。”
+> 
+> 他没再说别的。但是，我们父子之间话虽不多，却一向是非常通气的，因此我明白他的意思远远不止那一句话。久而久之，我就惯于对所有的人都保留判断，这个习惯既使得许多怪僻的人肯跟我讲心里话，也使我成为不少爱唠叨的惹人厌烦的人的受害者。这个特点在正常的人身上出现的时候，心理不正常的人很快就会察觉并且抓住不放。由于这个缘故，我上大学的时候就被不公正地指责为小政客，因为我与闻一些放荡的、不知名的人的秘密的伤心事。绝大多数的隐私都不是我打听来的——每逢我根据某种明白无误的迹象看出又有一次倾诉衷情在地平线上喷薄欲出的时候，我往往假装睡觉，假装心不在焉，或者假装出不怀好意的轻佻态度；因为青年人倾诉的衷情，或者至少他们表达这些衷情所用的语言，往往是剽窃性的，而且多有明显的隐瞒。保留判断是表示怀有无限的希望。我现在仍然唯恐错过什么东西，如果我忘记（如同我父亲带着优越感所暗示过的，我现在又带着优越感重复的）基本的道德观念是在人出世的时候就分配不均的。
+
+选择了 a.
+
+(不想标注译者了. 享用鸡蛋即可, 不必在意下蛋的鸡. 不必饮水思源.)
+
+---
+
+yt has some issues when network is down and things fail to load.
+
+(use react state instead! no imperative style!)
+
+---
+
+看 rw 家驹. 虽然使用 simplelive, 但也反映了许多...
+
+- douyin 有什么 "福袋". 好好笑.
+- douyin 需要亲自录制回放. "录制一下赛季末素材, 不然回放刷新了...". 好好笑. (虽然 twitch 也不支持. yt 很好地支持.)
+
+---
+
+i have some posters printed. i would refresh them daily from now.
+
+(by replacing the one on the top in the stack)
+
+---
+
+wtf? npm could only use physical key as 2fa?
+
+fuck. on ageis. unsupported protocol: fido.
+
+fuck 2fa. i will publish my secrets online (with like a simple zip password) to fight this. 
+
+---
+
+what the hell...
+
+```
+npm error 403 403 Forbidden - PUT https://registry.npmjs.org/hello_world_firahq - Package name too similar to existing package hello-world-firahq; try renaming your package to '@firahq/hello_world_firahq' and publishing with 'npm publish --access=public' instead
+```
+
+---
+
+`school`
+
+i think it's good to go school.
+
+maybe i could learn physics there away from hustle and bustle.
+
+i would take notes. beautiful notes. useful calm manual work.
+
+> do things that dont scale
+
+at home i would read, browse, and develop.
+
+i have a few books to read now. idk when would i read. but maybe at a random weekend when i have time and im free, i would begin/continue. and i would keep doing it in the next days if i like it.
+
+i would always have some unfinished projects, plans, and dreams in hand. but it feels good to add more elements to the day.
+
+---
+
+wow, github refuses my push as i leaks the npm token.
+
+(ghostty shows the token in the command on the window title, unlike most terminals)
+
+fuck. i dont care safety. 
+
+i wont leak if i dont have secret. (if it uses standard secret based 2fa which works with any auth app, or oauth, or just no 2fa.)
+
+i think it's safe because i have nothing to lose now and it rotates the token once 90 days.
+
+and i wont lose access to the acc.
+
+but it wont stop me to push! force on github.
+
+---

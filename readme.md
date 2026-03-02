@@ -66,6 +66,8 @@ $fira$ `elegance`
 
 > 要怎么做...
 
+<!-- 羡慕死了 -->
+
 - fira 💖, she/her (without 🏳️‍⚧️ or 🍥), 🇬🇧 user, 🇨🇳 native but rarely used, 🇯🇵 learner, 🇫🇷 very beginner
 - a developer, content creator, wikipedian
 - grew up in the global village
@@ -74,6 +76,8 @@ $fira$ `elegance`
 <!-- I'm an otaku fascinated within her own world, believing existentialism, cynicism ~~daoism~~, determinism, and accelerationism, always overthinking and overengineering, lost herself in curiosity. -->
 
 <!-- I love to decide, to organize, and to simplify. -->
+
+<!-- And remember… don't be evil, and if you see something that you think isn't right – speak up! -->
 
 ## desiderata
 
@@ -364,8 +368,7 @@ $fira$ `elegance`
     - gao zixiang
     - gaou
     - gmhikaru
-    - gothamchess <!-- ? -->
-    - hongkongdoll exlibris mmnf
+    - hongkongdoll exlibris
     - ke jie
     - lciop
     - led zeppelin
@@ -375,10 +378,13 @@ $fira$ `elegance`
     - mohamad light
     - muyu shuixin
     - potetomj
+    - rw royale giant
+    - sanketsu shojo sayuri
     - shin jin-seo
     - student he studio
     - xiaoyao sanren
     - yokidou shadowverse
+    - youyi wakareno
     - zhang jiao
   - isekai
     - acetaffy812 echo spade
@@ -1021,7 +1027,7 @@ $fira$ `elegance`
   - wikipedia `User:Firahq`
   - wakatime `firavoyage`
   - codepen `firavoyage`
-  - npm `firascript`
+  - npm `firahq`
 - - arxiv `firahq`
   - zenodo `firahq`
   - orcid `0009-0007-1207-3193`
