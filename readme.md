@@ -1050,7 +1050,7 @@ $fira$ `elegance`
   - zhihu `firahq`
   - v2ex `voy`
   - bangumi.tv `firavoyage`
-  - mastodon `firavoyage@mastodon.social` `fira@techhub.social`
+  - mastodon `firahq@mastodon.social` `firavoyage@mastodon.social` `fira@techhub.social`
   - vk `firahq`
 - - matrix `@firahq:matrix.org`
   - matrix space `#firahq:matrix.org`
