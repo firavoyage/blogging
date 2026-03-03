@@ -46,7 +46,7 @@
 
 ## utilities
 
-```
+```sh
 sudo apt install -y curl wget ca-certificates gnupg lsb-release
 
 sudo apt install -y snapd
@@ -72,11 +72,17 @@ npm config set registry https://registry.npmmirror.com
 
 pnpm config set registry https://registry.npmmirror.com
 
-python3 -m pip config set global.break-system-packages true # remove meaningless warning for current user.
-# sudo mkdir -p /etc; printf '[global]\nbreak-system-packages = true\n' | sudo tee /etc/pip.conf >/dev/null # remove meaningless warning system wide
+python3 -m pip config set global.break-system-packages true # simplify: remove meaningless warning for current user.
+
+# sudo mkdir -p /etc;
+# sudo tee /o > /dev/null << EOF
+# [global]
+# break-system-packages = true
+# EOF
+# # simplify:  remove meaningless warning system wide
 ```
 
-```
+```sh
 sudo apt install -y earlyoom zram-tools
 sudo systemctl enable --now earlyoom
 
@@ -784,11 +790,22 @@ sudo systemctl restart earlyoom
   curl -fsSL https://raw.githubusercontent.com/mkasberg/ghostty-ubuntu/HEAD/install.sh
   ```
 
-- secure ghostty: keep terminal alive after failure
+- config ghostty
 
   ```sh
   mkdir -p ~/.config/ghostty
-  printf 'wait-after-command = true\nabnormal-command-exit-runtime = 0\n' > ~/.config/ghostty/config
+
+  cat > ~/.config/ghostty/config <<EOF
+  # normalize: keep terminal alive after failure (like with `set -e`)
+  wait-after-command = true
+  abnormal-command-exit-runtime = 0
+
+  # simplify: disable the "are you sure you want to close?" confirmation
+  confirm-close-surface = false
+
+  # simplify: disable the paste-protection warning
+  clipboard-paste-protection = false
+  EOF
   ```
 
 - install tmux
@@ -1032,7 +1049,7 @@ sudo systemctl restart earlyoom
 
   # Create the script that will run the push command and retry on failure
   echo "Creating the push command script..."
-  cat << 'EOF' | sudo tee $SCRIPT_PATH > /dev/null
+  sudo tee $SCRIPT_PATH > /dev/null << 'EOF'
   #!/usr/bin/env zsh
   zsh -ic 'push'
   EOF
@@ -1042,7 +1059,7 @@ sudo systemctl restart earlyoom
 
   # Create the systemd service
   echo "Creating the systemd service..."
-  cat << EOF | sudo tee $SERVICE_PATH > /dev/null
+  sudo tee $SERVICE_PATH > /dev/null << EOF
   [Unit]
   Description=Run push command at 23:00 daily
   After=network.target
@@ -1808,7 +1825,7 @@ sudo apt install -f -y  # Fix any missing deps
   mkdir -p "$DESKTOPDIR"
   DESKTOP_PATH="$DESKTOPDIR/${NAME// /_}.desktop"
 
-  cat > "$DESKTOP_PATH" <<EOF
+  cat > $DESKTOP_PATH <<EOF
   [Desktop Entry]
   Type=Application
   Name=$NAME
