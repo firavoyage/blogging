@@ -1080,7 +1080,7 @@ sudo systemctl restart earlyoom
 
   # Create the systemd timer
   echo "Creating the systemd timer..."
-  cat << EOF | sudo tee $TIMER_PATH > /dev/null
+  sudo tee $TIMER_PATH > /dev/null << EOF
   [Unit]
   Description=Run push command daily
 
