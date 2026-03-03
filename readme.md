@@ -1021,7 +1021,7 @@ $fira$ `elegance`
 
 ## projection
 
-> `firahq` · `firavoyage` · `firascript` · `firatheprecious` · `"忘我思考"` · `paperboat2020`
+> `firahq` <!-- legacy: · `firavoyage` · `firascript` · `firatheprecious` · `"忘我思考"` · `paperboat2020` -->
 
 - - github/gitea `firavoyage`
   - wikipedia `User:Firahq`

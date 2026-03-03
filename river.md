@@ -18194,4 +18194,13 @@ and i wont lose access to the acc.
 
 but it wont stop me to push! force on github.
 
+upd: it's weird even with f flag a push could still fail. maybe there should be some flags like dangerously bypass anything (except network issues and repo size/rate limits)?
+
 ---
+
+> so i dont think they ve really made a big mistake yet, they ve played some weird moves. mo. never mind. the timing of me saying that could not have been better.
+
+> ... and now they blundered the queen to the pin.
+
+---
+
