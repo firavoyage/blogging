@@ -1008,7 +1008,7 @@ $fira$ `elegance`
   - ...
 - `blackboard` wax and wane
 
-<!-- 
+<!--
 
 (legacy)
 
@@ -1058,7 +1058,7 @@ $fira$ `elegance`
   - telegram group `voyagefira`
   - telegram channel `firaprecious` `logfira`
 
-<!-- 
+<!--
 
 (legacy)
 
@@ -1067,19 +1067,17 @@ $fira$ `elegance`
 
 email is deprecated. use git for coop swe. use tg (matrix is less feature rich) for im.
 
-email could do anything not requiring low latency, so im not gonna use it to do anything. 
+email could do anything not requiring low latency, so im not gonna use it to do anything.
 
 i.e. i never check email.
 
  -->
-
 
 <!--
 
 fira is a font from mozilla.
 
  -->
-
 
 ## insight
 

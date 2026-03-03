@@ -18204,3 +18204,22 @@ upd: it's weird even with f flag a push could still fail. maybe there should be 
 
 ---
 
+"We have to make sure you're at least 16 to use mastodon.social. We won't store this."
+
+"no discrimination, false, ..."
+
+so conservative. conventions. norms.
+
+idk how could it enforces...
+
+upd: wtf. 
+
+on frontend, i set my birthday to 2000, 00, 00. it shows green border.
+
+and then when posting, "We're sorry, but something went wrong on our end.".
+
+"文A"? shouldnt that be an icon?
+
+---
+
+
