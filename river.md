@@ -18222,4 +18222,57 @@ and then when posting, "We're sorry, but something went wrong on our end.".
 
 ---
 
+(yt recommendation...)
+
+chai jing is currently located in Barcelona, Catalonia, Spain.
+
+i remember Estela ad Astra.
+
+fact check: true.
+
+(what a browse.)
+
+---
+
+悠一wakareno
+
+wb：@悠一Wakareno
+
+我没时间跟你们在总裁互架 我要一打六
+
+我u哥人牛逼还嫩
+
+---
+
+wakareno 很会玩呢.
+
+很多 pattern.
+
+比如, 对手使用道具 (可能有后摇, 不能开枪), 就直接冲刺过去.
+
+没有血的时候会不停开提前枪, 调整 hitbox.
+
+不过 fira 觉得他应该赢不了 lao fei yu.
+
+那个人, 不会和你对枪. 会大量使用火和导弹封路. 使用静步潜行.
+
+---
+
+linkedin following/followers is weird.
+
+you could not view others' ~.
+
+(only andrew ng put follow over connect.)
+
+---
+
+Arch is the best!
+
+https://bbs.archlinux.org/viewtopic.php?id=47306
+
+---
+
+seems systemd could run even if my computer is sleeping...
+
+---
 

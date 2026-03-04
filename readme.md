@@ -2,6 +2,8 @@ $fira$ `elegance`
 
 ## .
 
+<!-- 我是一位中专校长, 来自上海, 中国大陆. -->
+
 > $welcome \space to \space hotel \space california$
 
 > $lucky \space \text{☆} \space star!$
@@ -376,6 +378,7 @@ $fira$ `elegance`
     - liu yiyi
     - longbow flintlock
     - mohamad light
+    - muyao kuharu
     - muyu shuixin
     - potetomj
     - rw royale giant
