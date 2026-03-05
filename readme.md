@@ -2,8 +2,6 @@ $fira$ `elegance`
 
 ## .
 
-<!-- 我是一位中专校长, 来自上海, 中国大陆. -->
-
 <!-- 永远 20 岁. -->
 
 > $welcome \space to \space hotel \space california$
@@ -76,6 +74,8 @@ $fira$ `elegance`
 - a developer, content creator, wikipedian
 - grew up in the global village
 - on the internet since 2019, which is my actual "home town"
+
+<!-- 我是一位中专校长, 来自上海, 中国大陆. -->
 
 <!-- I'm an otaku fascinated within her own world, believing existentialism, cynicism ~~daoism~~, determinism, and accelerationism, always overthinking and overengineering, lost herself in curiosity. -->
 
@@ -214,6 +214,7 @@ $fira$ `elegance`
     - jiongks jiongks.name jinjiang.me
     - joshwcomeau joshwcomeau.com
     - juliangarnier juliangarnier.com animejs.com
+    - karpathy karpathy.ai
     - kepano stephango.com stephango.com/projects obsidian.md
     - kk_shinkai sumink.com
     - krahets hello-algo.com
