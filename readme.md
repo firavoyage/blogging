@@ -4,6 +4,8 @@ $fira$ `elegance`
 
 <!-- 我是一位中专校长, 来自上海, 中国大陆. -->
 
+<!-- 永远 20 岁. -->
+
 > $welcome \space to \space hotel \space california$
 
 > $lucky \space \text{☆} \space star!$
@@ -132,6 +134,7 @@ $fira$ `elegance`
     - dingyi ding.one dexlist.page news.dex.group dex-group.ghost.io dex.zhubai.love quaily.com/dingyi
     - doodles doodles.google
     - extraordinary extraordinary.com
+    - ezrieh ezri.pet ezrizhu.com ezrizhu.com/projects/try
     - fenxer design scenes fenx.work
     - fradser frad.me
     - ftium4 ftium4.com ux weekly
@@ -157,7 +160,9 @@ $fira$ `elegance`
     - livid livid.v2ex.com v2ex.com planetable.xyz sol.build v2ex.com/solana ohyi olivida
     - lovefrom lovefrom.com
     - maigolabs maigo.dev
+    - manusai manus.im manus.im/docs/features manus.im/playbook awesome.manus.space
     - mugumogu maru
+    - nadiamoe nadia.moe
     - nothing cmfbynothing essential nothing.tech essential.com
     - oooooohmygosh
     - openai openai.com chatgptapp chat.com
@@ -180,6 +185,7 @@ $fira$ `elegance`
     - wengtianxin dandyweng.com blog.dandyweng.com camarts.app
     - yetone alma.now
     - yuanchuan yuanchuan.dev
+    - yuutaw yuuta.moe winsloweric.com
   - code & creation
     - adamwathan adamwathan.me tailwindcss.com
     - andrewgy8 andrewgy8.github.io/hnarcade/
@@ -1024,7 +1030,7 @@ $fira$ `elegance`
 
 ## projection
 
-> `firahq` <!-- legacy: · `firavoyage` · `firascript` · `firatheprecious` · `"忘我思考"` · `paperboat2020` -->
+> `firahq` <!-- · `firavoyage` · `firascript` · `firatheprecious`, legacy: · `"忘我思考"` · `paperboat2020` -->
 
 - - github/gitea `firavoyage`
   - wikipedia `User:Firahq`

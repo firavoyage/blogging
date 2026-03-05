@@ -350,6 +350,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `6` 2026.02.26
 - `7` 2026.03.01
 - `8` 2026.03.02
+- `9` 2026.03.04
 
 ## gaming
 
@@ -18275,4 +18276,56 @@ https://bbs.archlinux.org/viewtopic.php?id=47306
 seems systemd could run even if my computer is sleeping...
 
 ---
+
+manus is always popping up updates. "intro manus skills"
+
+is it showing to the investors or users?
+
+upd: found ux issue once i click a link on the first page. "agents". the vertically scrolling text on landing page is cropped sometimes. not fixable by resizing screen.
+
+"Deploy your agent for {}". when `{}` is long, the last letters would be cropped. maybe vibe agents are not good at testing/reviewing animation. and humans dont even look once.
+
+oh, it's just copying openclaw. copying shit. no wonder why it's so ugly. 
+
+"personalized memory/knowledge/tools, long running cron job, im integration, and nothing else."
+
+upd: "share manus with a friend, get ...". wtf. even meta would play such a dirty trick? idk whether google ever does it.
+
+upd: it redirects to stripe once i select pro model. no pricing popup. wtf.
+
+upd: it even uses horizonal sliding banner. "claim your personalized agent (nothing special, just promo)", "create.. (trivial, well known)", "share on sns to get ... (what a trick)", "personalize.. (is it the same than claim...?)".
+
+upd: (Campaign Period: January 26 – February 26, 2026
+1 Like = 100 Credits | Up to 50,000 Credits per Post (Max 3 posts per person per month)) 
+
+isnt it already ended? still showing the ads now, isnt it misleading? 
+
+that's how chinese devs would act!
+
+upd: it says "unknown: failed to fetch ...". network failure is such common that should not be unknown.
+
+upd: 20 usd/mo or 40 usd/mo plus 3 days trial. (what a pricing. you know all subscriptions are vam, Valuation Adjustment Mechanism. they know you are not likely to have a heavy usage or exploit its tos. while you dont. some might ban randomly.)
+
+maybe that's it. it's not worth obsessing.
+
+---
+
+"淘宝饿了么搜索: 8988"
+
+---
+
+i think it's not a manus issue.
+
+"Application error: a client-side exception has occurred while loading manus.im (see the browser console for more information)."
+
+(many sites, like innei's blog, have this problem.)
+
+network failure is common. handle it (the ux) gracefully.
+
+Uncaught ChunkLoadError: Loading chunk 17522 failed.
+
+(i see webpack... well, webpack > vite. good.)
+
+---
+
 
