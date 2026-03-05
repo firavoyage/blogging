@@ -234,7 +234,6 @@ $fira$ `elegance`
     - nekomeowww ayakaneko ayaka.moe ayaka.io
     - newlearnerchannel
     - ornicar lichess.org
-    - piracy6 telegram
     - radolyn radolyn.com docs.ayugram.one
     - randy lutaonan.com
     - risin42 nagramx
@@ -251,6 +250,7 @@ $fira$ `elegance`
     - timqian timqian.com
     - tualatrix imtx.me poptranslate.app manico.im pastenow.app
     - unixzii cyandev.app
+    - voidzerodev voidzero.dev
     - wesbos wesbos.com javascript30.com
     - xiaoyaocz xiaoyaocz.com simplelive
     - yusixian blog.cosine.ren/weekly
@@ -290,6 +290,7 @@ $fira$ `elegance`
     - hu chenfeng
     - jing hanqing
     - mo di si ji xu shi fu
+    - piracy6 telegram
     - programthink program-think.blogspot.com github.com/programthink
     - shao nian shan zhi jun
     - wang zhian

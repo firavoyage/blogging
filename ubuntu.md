@@ -230,8 +230,895 @@ sudo systemctl restart earlyoom
   sudo apt install code
   ```
 
-- config settings
-  - login and sync
+- sync settings <!-- login -->
+
+  - settings
+
+    ```json
+    {
+      "workbench.startupEditor": "none",
+      "workbench.editor.empty.hint": "hidden",
+      "workbench.colorTheme": "Dracula Theme",
+      "files.autoSave": "afterDelay",
+      "files.autoSaveDelay": 100,
+      "code-runner.preserveFocus": false,
+      "code-runner.runInTerminal": true,
+      "editor.fontFamily": "\"Fira Code\", \"Noto Sans CJK SC\", monospace",
+      "workbench.activityBar.location": "hidden",
+      "code-runner.executorMap": {
+        "html": "cd $dir && xdg-open '$fileName'",
+        "htm": "cd $dir && xdg-open '$fileName'",
+        "css": "cd $dir && xdg-open '$fileName'",
+        "svg": "cd $dir && xdg-open '$fileName'",
+        "pdf": "cd $dir && xdg-open '$fileName'",
+        "png": "cd $dir && xdg-open '$fileName'",
+        "jpg": "cd $dir && xdg-open '$fileName'",
+        "jpeg": "cd $dir && xdg-open '$fileName'",
+        "gif": "cd $dir && xdg-open '$fileName'",
+        "txt": "cd $dir && xdg-open '$fileName'",
+        "md": "cd $dir && xdg-open '$fileName'",
+
+        "javascript": "cd $dir && node '$fileName'",
+        "java": "cd $dir && javac '$fileName' && java '$fileNameWithoutExt'",
+        "c": "cd $dir && gcc '$fileName' -o '$fileNameWithoutExt' && $dir'$fileNameWithoutExt'",
+        "zig": "cd $dir && zig run '$fileName'",
+        "cpp": "cd $dir && g++ '$fileName' -o '$fileNameWithoutExt' && $dir'$fileNameWithoutExt'",
+        "objective-c": "cd $dir && gcc -framework Cocoa '$fileName' -o '$fileNameWithoutExt' && $dir'$fileNameWithoutExt'",
+        "php": "cd $dir && php '$fileName'",
+        "python": "cd $dir && python3 -u '$fileName'",
+        "perl": "cd $dir && perl '$fileName'",
+        "perl6": "cd $dir && perl6 '$fileName'",
+        "ruby": "cd $dir && ruby '$fileName'",
+        "go": "cd $dir && go run '$fileName'",
+        "lua": "cd $dir && lua '$fileName'",
+        "groovy": "cd $dir && groovy '$fileName'",
+        "powershell": "cd $dir && powershell -ExecutionPolicy ByPass -File '$fileName'",
+        "bat": "cd $dir && cmd /c '$fileName'",
+        "shellscript": "cd $dir && bash '$fileName'",
+        "fsharp": "cd $dir && fsi '$fileName'",
+        "csharp": "cd $dir && scriptcs '$fileName'",
+        "vbscript": "cd $dir && cscript //Nologo '$fileName'",
+        "typescript": "cd $dir && tsx '$fileName'",
+        "coffeescript": "cd $dir && coffee '$fileName'",
+        "scala": "cd $dir && scala '$fileName'",
+        "swift": "cd $dir && swift '$fileName'",
+        "julia": "cd $dir && julia '$fileName'",
+        "crystal": "cd $dir && crystal '$fileName'",
+        "ocaml": "cd $dir && ocaml '$fileName'",
+        "r": "cd $dir && Rscript '$fileName'",
+        "applescript": "cd $dir && osascript '$fileName'",
+        "clojure": "cd $dir && lein exec '$fileName'",
+        "haxe": "cd $dir && haxe --cwd $dirWithoutTrailingSlash --run '$fileNameWithoutExt'",
+        "rust": "cd $dir && rustc '$fileName' && $dir'$fileNameWithoutExt'",
+        "racket": "cd $dir && racket '$fileName'",
+        "scheme": "cd $dir && csi -script '$fileName'",
+        "ahk": "cd $dir && autohotkey '$fileName'",
+        "autoit": "cd $dir && autoit3 '$fileName'",
+        "dart": "cd $dir && dart '$fileName'",
+        "pascal": "cd $dir && fpc '$fileName' && $dir'$fileNameWithoutExt'",
+        "d": "cd $dir && dmd '$fileName' && $dir'$fileNameWithoutExt'",
+        "haskell": "cd $dir && runghc '$fileName'",
+        "nim": "cd $dir && nim compile --verbosity:0 --hints:off --run '$fileName'",
+        "lisp": "cd $dir && sbcl --script '$fileName'",
+        "kit": "cd $dir && kitc --run '$fileName'",
+        "v": "cd $dir && v run '$fileName'",
+        "sass": "cd $dir && sass --style expanded '$fileName'",
+        "scss": "cd $dir && scss --style expanded '$fileName'",
+        "less": "cd $dir && lessc '$fileName' '$fileNameWithoutExt.css'",
+        "FortranFreeForm": "cd $dir && gfortran '$fileName' -o '$fileNameWithoutExt' && $dir'$fileNameWithoutExt'",
+        "fortran-modern": "cd $dir && gfortran '$fileName' -o '$fileNameWithoutExt' && $dir'$fileNameWithoutExt'",
+        "fortran_fixed-form": "cd $dir && gfortran '$fileName' -o '$fileNameWithoutExt' && $dir'$fileNameWithoutExt'",
+        "fortran": "cd $dir && gfortran '$fileName' -o '$fileNameWithoutExt' && $dir'$fileNameWithoutExt'",
+        "sml": "cd $dir && sml '$fileName'",
+        "mojo": "cd $dir && mojo run '$fileName'"
+      },
+      "workbench.editor.showTabs": "none",
+      "window.menuBarVisibility": "toggle",
+      "git.openRepositoryInParentFolders": "never",
+      "terminal.integrated.enableMultiLinePasteWarning": false,
+      "editor.minimap.enabled": false,
+      "workbench.statusBar.visible": false,
+      "update.showReleaseNotes": false,
+      "explorer.confirmDelete": false,
+      "editor.fontLigatures": true,
+      "window.confirmSaveUntitledWorkspace": false,
+      "editor.tabSize": 2,
+      "editor.lightbulb.enabled": "off",
+      "editor.renderWhitespace": "none",
+      "editor.renderControlCharacters": false,
+      "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+      },
+      "git.enabled": false,
+      "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+      },
+      "editor.unicodeHighlight.invisibleCharacters": false,
+      "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+      },
+      "[markdown]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+      },
+      "markdown.extension.katex.macros": {},
+      "markdown.extension.theming.decoration.renderCodeSpan": false,
+      "extensions.autoUpdate": false,
+      "markdown.extension.list.toggle.candidate-markers": [
+        "-",
+        "*",
+        "+",
+        "1.",
+        "1)"
+      ],
+      "breadcrumbs.enabled": false,
+      "editor.stickyScroll.enabled": false,
+      "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+      },
+      "editor.defaultFormatter": "vscode.typescript-language-features",
+      "editor.cursorBlinking": "solid",
+      "editor.occurrencesHighlight": "off",
+      "workbench.editor.editorActionsLocation": "hidden",
+      "workbench.navigationControl.enabled": false,
+      "window.commandCenter": false,
+      "window.titleBarStyle": "native",
+      "editor.codeActionsOnSave": {},
+      "[snippets]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+      },
+      "editor.maxTokenizationLineLength": 999999999,
+      "markdown.extension.syntax.decorationFileSizeLimit": 50000000,
+      "workbench.colorCustomizations": {},
+      "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
+      },
+      "explorer.confirmDragAndDrop": false,
+      "code-runner.ignoreSelection": true,
+      "markdown.preview.breaks": true,
+      "[rust]": {
+        "editor.defaultFormatter": "rust-lang.rust-analyzer"
+      },
+      "[jsonc]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+      },
+      "window.customTitleBarVisibility": "never",
+      "editor.fontSize": 12,
+      "security.workspace.trust.untrustedFiles": "open",
+      "editor.unicodeHighlight.ambiguousCharacters": false,
+      "workbench.secondarySideBar.defaultVisibility": "visible",
+      "chat.disableAIFeatures": true
+    }
+    ```
+
+  - shortcuts
+
+    ```json
+    // Place your key bindings in this file to override the defaultsauto[]
+    [
+      {
+        "key": "ctrl+r",
+        "command": "code-runner.run"
+      },
+      {
+        "key": "ctrl+alt+n",
+        "command": "-code-runner.run"
+      },
+      {
+        "key": "ctrl+alt+m",
+        "command": "-code-runner.stop"
+      },
+      {
+        "key": "ctrl+alt+j",
+        "command": "-code-runner.runByLanguage"
+      },
+      {
+        "key": "ctrl+w",
+        "command": "-editor.action.smartSelect.grow",
+        "when": "editorTextFocus"
+      },
+      {
+        "key": "ctrl+alt+r",
+        "command": "-revealFileInOS",
+        "when": "!editorFocus"
+      },
+      {
+        "key": "ctrl+n",
+        "command": "-workbench.action.showAllSymbols"
+      },
+      {
+        "key": "ctrl+shift+n",
+        "command": "-workbench.action.quickOpen"
+      },
+      {
+        "key": "ctrl+shift+alt+n",
+        "command": "-workbench.action.gotoSymbol",
+        "when": "editorTextFocus"
+      },
+      {
+        "key": "shift+f6",
+        "command": "-editor.action.rename",
+        "when": "editorHasRenameProvider && editorTextFocus && !editorReadonly"
+      },
+      {
+        "key": "ctrl+alt+b",
+        "command": "-editor.action.goToImplementation",
+        "when": "editorHasImplementationProvider && editorTextFocus && !isInEmbeddedEditor"
+      },
+      {
+        "key": "ctrl+shift+b",
+        "command": "-editor.action.goToTypeDefinition",
+        "when": "editorHasTypeDefinitionProvider && editorTextFocus && !isInEmbeddedEditor"
+      },
+      {
+        "key": "ctrl+b",
+        "command": "-editor.action.goToDeclaration",
+        "when": "editorTextFocus"
+      },
+      {
+        "key": "ctrl+d",
+        "command": "-editor.action.addSelectionToNextFindMatch",
+        "when": "editorFocus"
+      },
+      {
+        "key": "ctrl+k e",
+        "command": "-workbench.files.action.focusOpenEditorsView",
+        "when": "workbench.explorer.openEditorsView.active"
+      },
+      {
+        "key": "ctrl+e",
+        "command": "-workbench.action.quickOpen"
+      },
+      {
+        "key": "ctrl+e",
+        "command": "-workbench.action.openPreviousEditorFromHistory",
+        "when": "inQuickOpen"
+      },
+      {
+        "key": "ctrl+shift+e",
+        "command": "-workbench.action.quickOpenNavigatePreviousInFilePicker",
+        "when": "inFilesPicker && inQuickOpen"
+      },
+      {
+        "key": "ctrl+e",
+        "command": "-workbench.action.quickOpenNavigateNextInFilePicker",
+        "when": "inFilesPicker && inQuickOpen"
+      },
+      {
+        "key": "ctrl+k ctrl+e",
+        "command": "-keybindings.editor.defineWhenExpression",
+        "when": "inKeybindings && keybindingFocus"
+      },
+      {
+        "key": "ctrl+shift+r ctrl+e",
+        "command": "-editor.action.codeAction",
+        "when": "editorTextFocus && editorLangId =~ /^(c|(cuda-)?cpp)$/ && !(config.C_Cpp.intelliSenseEngine =~ /^[dD]isabled$/)"
+      },
+      {
+        "key": "ctrl+shift+e",
+        "command": "-workbench.view.explorer",
+        "when": "viewContainer.workbench.view.explorer.enabled"
+      },
+      {
+        "key": "ctrl+e",
+        "command": "-editor.action.toggleScreenReaderAccessibilityMode",
+        "when": "accessibilityHelpIsShown"
+      },
+      {
+        "key": "ctrl+; e",
+        "command": "-testing.reRunFailTests"
+      },
+      {
+        "key": "ctrl+; ctrl+e",
+        "command": "-testing.debugFailTests"
+      },
+      {
+        "key": "ctrl+shift+e",
+        "command": "workbench.view.explorer"
+      },
+      {
+        "key": "alt+numpad1",
+        "command": "-workbench.view.explorer",
+        "when": "editorFocus && viewContainer.workbench.view.explorer.enabled"
+      },
+      {
+        "key": "ctrl+shift+space",
+        "command": "-issue.suggestRefresh",
+        "when": "suggestWidgetVisible"
+      },
+      {
+        "key": "ctrl+shift+backspace",
+        "command": "-workbench.action.navigateToLastEditLocation"
+      },
+      {
+        "key": "ctrl+alt+backspace",
+        "command": "-editor.action.removeBrackets",
+        "when": "editorTextFocus"
+      },
+      {
+        "key": "ctrl+shift+backspace",
+        "command": "-search.searchEditor.action.deleteFileResults",
+        "when": "inSearchEditor"
+      },
+      {
+        "key": "ctrl+shift+space",
+        "command": "-editor.action.triggerParameterHints",
+        "when": "editorHasSignatureHelpProvider && editorTextFocus"
+      },
+      {
+        "key": "ctrl+space",
+        "command": "-editor.action.triggerSuggest",
+        "when": "editorHasCompletionItemProvider && textInputFocus && !editorReadonly && !suggestWidgetVisible"
+      },
+      {
+        "key": "ctrl+backspace",
+        "command": "-deleteWordLeft",
+        "when": "textInputFocus && !editorReadonly"
+      },
+      {
+        "key": "ctrl+backspace",
+        "command": "-deleteWordLeft",
+        "when": "editorTextFocus && !config.intellij-idea-keybindings.useCamelHumpsWords && !editorReadonly"
+      },
+      {
+        "key": "ctrl+backspace",
+        "command": "-deleteWordPartLeft",
+        "when": "config.intellij-idea-keybindings.useCamelHumpsWords && editorTextFocus && !editorReadonly"
+      },
+      {
+        "key": "ctrl+space",
+        "command": "-focusSuggestion",
+        "when": "suggestWidgetVisible && textInputFocus && !suggestWidgetHasFocusedSuggestion"
+      },
+      {
+        "key": "ctrl+space",
+        "command": "-toggleSuggestionDetails",
+        "when": "suggestWidgetHasFocusedSuggestion && suggestWidgetVisible && textInputFocus"
+      },
+      {
+        "key": "ctrl+alt+space",
+        "command": "-toggleSuggestionFocus",
+        "when": "suggestWidgetVisible && textInputFocus"
+      },
+      {
+        "key": "ctrl+space",
+        "command": "-workbench.action.terminal.sendSequence",
+        "when": "terminalFocus && terminalShellIntegrationEnabled && !accessibilityModeEnabled && terminalShellType == 'pwsh'"
+      },
+      {
+        "key": "ctrl+space",
+        "command": "-workbench.action.terminal.sendSequence",
+        "when": "config.terminal.integrated.shellIntegration.suggestEnabled && terminalFocus && terminalShellIntegrationEnabled && !accessibilityModeEnabled && terminalShellType == 'pwsh'"
+      },
+      {
+        "key": "ctrl+backspace",
+        "command": "-workbench.action.terminal.sendSequence",
+        "when": "terminalFocus"
+      },
+      {
+        "key": "ctrl+d",
+        "command": "editor.action.duplicateSelection"
+      },
+      {
+        "key": "shift+enter",
+        "command": "editor.action.insertLineAfter",
+        "when": "editorTextFocus && !editorReadonly"
+      },
+      {
+        "key": "ctrl+enter",
+        "command": "-editor.action.insertLineAfter",
+        "when": "editorTextFocus && !editorReadonly"
+      },
+      {
+        "key": "ctrl+alt+k",
+        "command": "-code-runner.runCustomCommand"
+      },
+      {
+        "key": "ctrl+shift+alt+s",
+        "command": "-workbench.action.tasks.configureTaskRunner"
+      },
+      {
+        "key": "ctrl+shift+t",
+        "command": "-java.test.goToTest",
+        "when": "editorTextFocus && java:testRunnerActivated"
+      },
+      {
+        "key": "f7",
+        "command": "-editor.action.accessibleDiffViewer.next",
+        "when": "isInDiffEditor"
+      },
+      {
+        "key": "shift+f7",
+        "command": "-editor.action.accessibleDiffViewer.prev",
+        "when": "isInDiffEditor"
+      },
+      {
+        "key": "ctrl+shift+up",
+        "command": "-editor.action.insertCursorAbove",
+        "when": "editorTextFocus"
+      },
+      {
+        "key": "shift+alt+up",
+        "command": "-editor.action.insertCursorAbove",
+        "when": "editorTextFocus"
+      },
+      {
+        "key": "ctrl+shift+down",
+        "command": "-editor.action.insertCursorBelow",
+        "when": "editorTextFocus"
+      },
+      {
+        "key": "shift+alt+down",
+        "command": "-editor.action.insertCursorBelow",
+        "when": "editorTextFocus"
+      },
+      {
+        "key": "shift+alt+i",
+        "command": "-editor.action.insertCursorAtEndOfEachLineSelected",
+        "when": "editorTextFocus"
+      },
+      {
+        "key": "ctrl+k ctrl+c",
+        "command": "-editor.action.addCommentLine",
+        "when": "editorTextFocus && !editorReadonly"
+      },
+      {
+        "key": "shift+alt+[IntlBackslash]",
+        "command": "-editor.action.autoFix",
+        "when": "textInputFocus && !editorReadonly && supportedCodeAction =~ /(\\s|^)quickfix\\b/"
+      },
+      {
+        "key": "shift+alt+.",
+        "command": "-editor.action.autoFix",
+        "when": "textInputFocus && !editorReadonly && supportedCodeAction =~ /(\\s|^)quickfix\\b/"
+      },
+      {
+        "key": "alt+o",
+        "command": "-C_Cpp.SwitchHeaderSource",
+        "when": "editorTextFocus && editorLangId =~ /^(c|(cuda-)?cpp)$/ && !(config.C_Cpp.intelliSenseEngine =~ /^[dD]isabled$/)"
+      },
+      {
+        "key": "alt+f4",
+        "command": "-workbench.action.closeWindow"
+      },
+      {
+        "key": "ctrl+shift+w",
+        "command": "-workbench.action.closeWindow"
+      },
+      {
+        "key": "ctrl+k ctrl+shift+w",
+        "command": "-workbench.action.closeAllGroups"
+      },
+      {
+        "key": "ctrl+k ctrl+w",
+        "command": "-workbench.action.closeAllEditors"
+      },
+      {
+        "key": "ctrl+k w",
+        "command": "-workbench.action.closeEditorsInGroup"
+      },
+      {
+        "key": "ctrl+shift+w",
+        "command": "-editor.action.smartSelect.shrink",
+        "when": "editorTextFocus"
+      },
+      {
+        "key": "ctrl+shift+i",
+        "command": "-workbench.action.toggleDevTools",
+        "when": "isDevelopment"
+      },
+      {
+        "key": "ctrl+; ctrl+shift+i",
+        "command": "-testing.toggleInlineCoverage"
+      },
+      {
+        "key": "ctrl+shift+r ctrl+i",
+        "command": "-editor.action.codeAction",
+        "when": "editorTextFocus && editorLangId =~ /^(c|(cuda-)?cpp)$/ && !(config.C_Cpp.intelliSenseEngine =~ /^[dD]isabled$/)"
+      },
+      {
+        "key": "ctrl+shift+i",
+        "command": "-editor.action.previewDeclaration"
+      },
+      {
+        "key": "ctrl+shift+alt+i",
+        "command": "-workbench.action.quickchat.toggle",
+        "when": "chatIsEnabled"
+      },
+      {
+        "key": "ctrl+t",
+        "command": "-git.sync",
+        "when": "!operationInProgress"
+      },
+      {
+        "key": "ctrl+k t",
+        "command": "-notebook.cell.collapseCellOutput",
+        "when": "notebookCellHasOutputs && notebookCellListFocused && !inputFocus && !notebookCellOutputIsCollapsed"
+      },
+      {
+        "key": "ctrl+k t",
+        "command": "-notebook.cell.expandCellOutput",
+        "when": "notebookCellListFocused && notebookCellOutputIsCollapsed"
+      },
+      {
+        "key": "ctrl+shift+alt+down",
+        "command": "-workbench.action.editor.nextChange",
+        "when": "editorTextFocus && !textCompareEditorActive"
+      },
+      {
+        "key": "shift+alt+down",
+        "command": "-editor.action.moveLinesDownAction",
+        "when": "editorTextFocus && !editorReadonly"
+      },
+      {
+        "key": "shift+alt+down",
+        "command": "-notebook.cell.copyDown",
+        "when": "notebookEditorFocused && !inputFocus"
+      },
+      {
+        "key": "alt+down",
+        "command": "-notebook.cell.moveDown",
+        "when": "notebookEditorFocused && !inputFocus"
+      },
+      {
+        "key": "ctrl+shift+down",
+        "command": "-editor.action.moveLinesDownAction",
+        "when": "editorTextFocus && !editorReadonly"
+      },
+      {
+        "key": "ctrl+shift+r",
+        "command": "references-view.findReferences",
+        "when": "editorHasReferenceProvider"
+      },
+      {
+        "key": "shift+alt+f12",
+        "command": "-references-view.findReferences",
+        "when": "editorHasReferenceProvider"
+      },
+      {
+        "key": "ctrl+shift+r",
+        "command": "-editor.action.refactor",
+        "when": "editorHasCodeActionsProvider && textInputFocus && !editorReadonly"
+      },
+      {
+        "key": "ctrl+shift+r",
+        "command": "-rerunSearchEditorSearch",
+        "when": "inSearchEditor"
+      },
+      {
+        "key": "tab",
+        "command": "-tab",
+        "when": "editorTextFocus && !editorReadonly && !editorTabMovesFocus"
+      },
+      {
+        "key": "tab",
+        "command": "editor.action.indentLines",
+        "when": "!hasNextTabstop && !suggestWidgetVisible"
+      },
+      {
+        "key": "shift+tab",
+        "command": "outdent",
+        "when": "editorTextFocus && !editorReadonly && !editorTabMovesFocus"
+      },
+      {
+        "key": "shift+tab",
+        "command": "-outdent",
+        "when": "editorTextFocus && !editorReadonly && !editorTabMovesFocus"
+      },
+      {
+        "key": "ctrl+shift+j",
+        "command": "-workbench.action.search.toggleQueryDetails",
+        "when": "inSearchEditor || searchViewletFocus"
+      },
+      {
+        "key": "ctrl+j",
+        "command": "-workbench.action.togglePanel"
+      },
+      {
+        "key": "ctrl+j",
+        "command": "cursorDown",
+        "when": "textInputFocus"
+      },
+      {
+        "key": "ctrl+k",
+        "command": "cursorUp",
+        "when": "textInputFocus"
+      },
+      {
+        "key": "alt+l",
+        "command": "cursorWordEndRight",
+        "when": "textInputFocus"
+      },
+      {
+        "key": "ctrl+l",
+        "command": "-expandLineSelection",
+        "when": "textInputFocus"
+      },
+      {
+        "key": "ctrl+shift+k",
+        "command": "-editor.action.deleteLines",
+        "when": "textInputFocus && !editorReadonly"
+      },
+      {
+        "key": "ctrl+alt+j",
+        "command": "editor.action.insertCursorBelow"
+      },
+      {
+        "key": "ctrl+shift+alt+j",
+        "command": "editor.action.insertCursorBelow"
+      },
+      {
+        "key": "ctrl+alt+p",
+        "command": "workbench.action.togglePanel"
+      },
+      {
+        "key": "ctrl+shift+n",
+        "command": "-workbench.action.newWindow"
+      },
+      {
+        "key": "ctrl+h",
+        "command": "editor.action.startFindReplaceAction",
+        "when": "findInputFocussed"
+      },
+      {
+        "key": "ctrl+h",
+        "command": "-editor.action.startFindReplaceAction",
+        "when": "editorFocus || editorIsOpen"
+      },
+      {
+        "key": "ctrl+shift+alt+h",
+        "command": "cursorWordLeftSelect",
+        "when": "textInputFocus"
+      },
+      {
+        "key": "ctrl+shift+alt+l",
+        "command": "cursorWordEndRightSelect",
+        "when": "textInputFocus"
+      },
+      {
+        "key": "ctrl+shift+h",
+        "command": "-workbench.action.replaceInFiles"
+      },
+      {
+        "key": "ctrl+shift+l",
+        "command": "-selectAllSearchEditorMatches",
+        "when": "inSearchEditor"
+      },
+      {
+        "key": "ctrl+shift+j",
+        "command": "cursorDownSelect",
+        "when": "textInputFocus"
+      },
+      {
+        "key": "ctrl+shift+k",
+        "command": "cursorUpSelect",
+        "when": "textInputFocus"
+      },
+      {
+        "key": "ctrl+alt+k",
+        "command": "editor.action.insertCursorAbove"
+      },
+      {
+        "key": "ctrl+h",
+        "command": "cursorLeft",
+        "when": "textInputFocus"
+      },
+      {
+        "key": "ctrl+l",
+        "command": "cursorRight",
+        "when": "textInputFocus"
+      },
+      {
+        "key": "ctrl+alt+h",
+        "command": "cursorWordLeft",
+        "when": "textInputFocus"
+      },
+      {
+        "key": "alt+h",
+        "command": "cursorWordLeft",
+        "when": "textInputFocus"
+      },
+      {
+        "key": "alt+j",
+        "command": "editor.action.moveLinesDownAction",
+        "when": "editorTextFocus && !editorReadonly"
+      },
+      {
+        "key": "alt+k",
+        "command": "editor.action.moveLinesUpAction",
+        "when": "editorTextFocus && !editorReadonly"
+      },
+      {
+        "key": "ctrl+s",
+        "command": "-workbench.action.files.save"
+      },
+      {
+        "key": "ctrl+shift+l",
+        "command": "cursorRightSelect",
+        "when": "textInputFocus"
+      },
+      {
+        "key": "ctrl+shift+h",
+        "command": "cursorLeftSelect",
+        "when": "textInputFocus"
+      },
+      {
+        "key": "shift+alt+h",
+        "command": "cursorWordLeftSelect",
+        "when": "textInputFocus"
+      },
+      {
+        "key": "shift+alt+l",
+        "command": "cursorWordEndRightSelect",
+        "when": "textInputFocus"
+      },
+      {
+        "key": "ctrl+alt+s",
+        "command": "workbench.action.files.saveAs"
+      },
+      {
+        "key": "ctrl+shift+s",
+        "command": "-workbench.action.files.saveAs"
+      },
+      {
+        "key": "ctrl+alt+l",
+        "command": "cursorWordEndRight",
+        "when": "textInputFocus"
+      },
+      {
+        "key": "ctrl+shift+alt+k",
+        "command": "editor.action.insertCursorAbove"
+      },
+      {
+        "key": "ctrl+backspace",
+        "command": "deleteWordLeft"
+      },
+      {
+        "key": "shift+tab",
+        "command": "-acceptAlternativeSelectedSuggestion",
+        "when": "suggestWidgetHasFocusedSuggestion && suggestWidgetVisible && textInputFocus"
+      },
+      {
+        "key": "shift+tab",
+        "command": "-insertPrevSuggestion",
+        "when": "hasOtherSuggestions && textInputFocus && !inSnippetMode && !suggestWidgetVisible && config.editor.tabCompletion == 'on'"
+      },
+      {
+        "key": "ctrl+shift+/",
+        "command": "editor.action.blockComment",
+        "when": "editorTextFocus && !editorReadonly"
+      },
+      {
+        "key": "ctrl+shift+a",
+        "command": "-editor.action.blockComment",
+        "when": "editorTextFocus && !editorReadonly"
+      },
+      {
+        "key": "ctrl+s",
+        "command": "editor.fold",
+        "when": "editorTextFocus && foldingEnabled"
+      },
+      {
+        "key": "ctrl+j",
+        "command": "selectNextSuggestion",
+        "when": "suggestWidgetMultipleSuggestions && suggestWidgetVisible && textInputFocus || suggestWidgetVisible && textInputFocus && !suggestWidgetHasFocusedSuggestion"
+      },
+      {
+        "key": "ctrl+k",
+        "command": "selectPrevSuggestion",
+        "when": "suggestWidgetMultipleSuggestions && suggestWidgetVisible && textInputFocus || suggestWidgetVisible && textInputFocus && !suggestWidgetHasFocusedSuggestion"
+      },
+      {
+        "key": "ctrl+b",
+        "command": "-markdown.extension.editing.toggleBold",
+        "when": "editorTextFocus && !editorReadonly && editorLangId =~ /^markdown$|^rmd$|^quarto$/"
+      },
+      {
+        "key": "backspace",
+        "command": "-markdown.extension.onBackspaceKey",
+        "when": "editorTextFocus && !editorHasMultipleSelections && !editorReadonly && !markdown.extension.editor.cursor.inFencedCodeBlock && !markdown.extension.editor.cursor.inMathEnv && !suggestWidgetVisible && vim.mode != 'CommandlineInProgress' && vim.mode != 'EasyMotionInputMode' && vim.mode != 'EasyMotionMode' && vim.mode != 'Normal' && vim.mode != 'Replace' && vim.mode != 'SearchInProgressMode' && vim.mode != 'SurroundInputMode' && vim.mode != 'Visual' && vim.mode != 'VisualBlock' && vim.mode != 'VisualLine' && editorLangId =~ /^markdown$|^rmd$|^quarto$/"
+      },
+      {
+        "key": "ctrl+i",
+        "command": "editor.action.insertSnippet"
+      },
+      {
+        "key": "shift+tab",
+        "command": "-markdown.extension.onShiftTabKey",
+        "when": "editorTextFocus && markdown.extension.editor.cursor.inList && !editorHasMultipleSelections && !editorReadonly && !editorTabMovesFocus && !hasOtherSuggestions && !hasSnippetCompletions && !inSnippetMode && !markdown.extension.editor.cursor.inFencedCodeBlock && !markdown.extension.editor.cursor.inMathEnv && !suggestWidgetVisible && editorLangId =~ /^markdown$|^rmd$|^quarto$/"
+      },
+      {
+        "key": "tab",
+        "command": "-markdown.extension.onTabKey",
+        "when": "editorTextFocus && markdown.extension.editor.cursor.inList && !editorHasMultipleSelections && !editorReadonly && !editorTabMovesFocus && !hasOtherSuggestions && !hasSnippetCompletions && !inSnippetMode && !inlineSuggestionVisible && !markdown.extension.editor.cursor.inFencedCodeBlock && !markdown.extension.editor.cursor.inMathEnv && !suggestWidgetVisible && editorLangId =~ /^markdown$|^rmd$|^quarto$/"
+      },
+      {
+        "key": "ctrl+j",
+        "command": "list.focusDown",
+        "when": "listFocus && !inputFocus && !treestickyScrollFocused"
+      },
+      {
+        "key": "ctrl+j",
+        "command": "quickInput.next",
+        "when": "inQuickInput && quickInputType == 'quickPick'"
+      },
+      {
+        "key": "ctrl+k",
+        "command": "quickInput.previous",
+        "when": "inQuickInput && quickInputType == 'quickPick'"
+      },
+      {
+        "key": "ctrl+shift+[IntlBackslash]",
+        "command": "-breadcrumbs.toggleToOn",
+        "when": "!config.breadcrumbs.enabled"
+      },
+      {
+        "key": "ctrl+shift+.",
+        "command": "-breadcrumbs.toggleToOn",
+        "when": "!config.breadcrumbs.enabled"
+      },
+      {
+        "key": "ctrl+shift+[IntlBackslash]",
+        "command": "-breadcrumbs.focusAndSelect",
+        "when": "breadcrumbsPossible && breadcrumbsVisible"
+      },
+      {
+        "key": "ctrl+shift+.",
+        "command": "-breadcrumbs.focusAndSelect",
+        "when": "breadcrumbsPossible && breadcrumbsVisible"
+      },
+      {
+        "key": "ctrl+shift+;",
+        "command": "-breadcrumbs.focus",
+        "when": "breadcrumbsPossible && breadcrumbsVisible"
+      },
+      {
+        "key": "ctrl+shift+s",
+        "command": "editor.foldAll",
+        "when": "editorTextFocus && foldingEnabled"
+      },
+      {
+        "key": "ctrl+k ctrl+0",
+        "command": "-editor.foldAll",
+        "when": "editorTextFocus && foldingEnabled"
+      },
+      {
+        "key": "`",
+        "command": "markdown.extension.editing.toggleCodeSpan",
+        "when": "editorTextFocus"
+      },
+      {
+        "key": "ctrl+shift+`",
+        "command": "-workbench.action.terminal.new",
+        "when": "terminalProcessSupported || terminalWebExtensionContributedProfile"
+      },
+      {
+        "key": "ctrl+shift+`",
+        "command": "markdown.extension.editing.toggleCodeBlock"
+      },
+      {
+        "key": "ctrl+k ctrl+j",
+        "command": "-editor.unfoldAll",
+        "when": "editorTextFocus && foldingEnabled"
+      },
+      {
+        "key": "ctrl+alt+e",
+        "command": "editor.unfoldAll"
+      },
+      {
+        "key": "ctrl+e",
+        "command": "editor.unfold",
+        "when": "editorTextFocus && foldingEnabled"
+      },
+      {
+        "key": "ctrl+shift+]",
+        "command": "-editor.unfold",
+        "when": "editorTextFocus && foldingEnabled"
+      }
+    ]
+    ```
+
+  <!-- use the latest -->
+
 - install theme <!-- https://vscodethemes.com/ -->
   - dracula
   - atom one dark
@@ -256,40 +1143,100 @@ sudo systemctl restart earlyoom
     - toggle bread crumbs `off`
   - explorer <!-- ctrl shift e -->
     - outline & timeline `off`
-- config behavior
+- config behavior <!-- ctrl , -->
 
-  - file: preferences: settings <!-- ctrl , -->
+  - auto save `after delay`
+    - after delay `100`
+  - font family `"Fira Code", "Noto Sans CJK SC", monospace`
+  - font ligatures `on`
+  - font size `16`
+  - editor: cursor blinking `solid`
+  - editor: occurrences highlight `off`
+  - git:enabled `off`
+  - lightbulb `off`
+  - render whitespace `none`
+  - editor: tab size `2 spaces`
+  - workspace `off`
+  - extensions: auto update `none`
+  - markdown: preview: breaks `on`
+  - markdown: extension: theming: decoration: render code span `off`
+  - markdown: extension: theming: syntax: decoration file size limit `50000000`
+  - chat: disable ai features `on`
+  - code-runner: run in terminal `on`
+  - code-runner: preserve focus `off`
+  - code runner: executor map
 
-    - auto save `after delay`
-      - after delay `100`
-    - font family `"Fira Code", "Noto Sans CJK SC", monospace`
-    - font ligatures `on`
-    - font size `16`
-    - editor: cursor blinking `solid`
-    - editor: occurrences highlight `off`
-    - git:enabled `off`
-    - lightbulb `off`
-    - render whitespace `none`
-    - editor: tab size `2 spaces`
-    - workspace `off`
-    - extensions: auto update `none`
-    - markdown: preview: breaks `on`
-    - markdown: extension: theming: decoration: render code span `off`
-    - markdown: extension: theming: syntax: decoration file size limit `50000000`
-    - code-runner: run in terminal `on`
-    - code-runner: preserve focus `off`
-    - code runner: executor map
+    `settings.json`
 
-      `settings.json`
+    ```json
+    "code-runner.executorMap": {
+      "html": "cd $dir && xdg-open '$fileName'",
+      "htm": "cd $dir && xdg-open '$fileName'",
+      "css": "cd $dir && xdg-open '$fileName'",
+      "svg": "cd $dir && xdg-open '$fileName'",
+      "pdf": "cd $dir && xdg-open '$fileName'",
+      "png": "cd $dir && xdg-open '$fileName'",
+      "jpg": "cd $dir && xdg-open '$fileName'",
+      "jpeg": "cd $dir && xdg-open '$fileName'",
+      "gif": "cd $dir && xdg-open '$fileName'",
+      "txt": "cd $dir && xdg-open '$fileName'",
+      "md": "cd $dir && xdg-open '$fileName'",
 
-      ```json
-      "code-runner.executormap": {
-        // "cpp": "cd $dir && g++ $filename -o $filenamewithoutext && $dir$filenamewithoutext",
-        "cpp": "cd $dir && g++ \"$filename\" -o \"$filenamewithoutext\" && \"$dir$filenamewithoutext\"",
-        // "python": "python -u",
-        "python": "python3 -u",
-      }
-      ```
+      "javascript": "cd $dir && node '$fileName'",
+      "java": "cd $dir && javac '$fileName' && java '$fileNameWithoutExt'",
+      "c": "cd $dir && gcc '$fileName' -o '$fileNameWithoutExt' && $dir'$fileNameWithoutExt'",
+      "zig": "cd $dir && zig run '$fileName'",
+      "cpp": "cd $dir && g++ '$fileName' -o '$fileNameWithoutExt' && $dir'$fileNameWithoutExt'",
+      "objective-c": "cd $dir && gcc -framework Cocoa '$fileName' -o '$fileNameWithoutExt' && $dir'$fileNameWithoutExt'",
+      "php": "cd $dir && php '$fileName'",
+      "python": "cd $dir && python3 -u '$fileName'",
+      "perl": "cd $dir && perl '$fileName'",
+      "perl6": "cd $dir && perl6 '$fileName'",
+      "ruby": "cd $dir && ruby '$fileName'",
+      "go": "cd $dir && go run '$fileName'",
+      "lua": "cd $dir && lua '$fileName'",
+      "groovy": "cd $dir && groovy '$fileName'",
+      "powershell": "cd $dir && powershell -ExecutionPolicy ByPass -File '$fileName'",
+      "bat": "cd $dir && cmd /c '$fileName'",
+      "shellscript": "cd $dir && bash '$fileName'",
+      "fsharp": "cd $dir && fsi '$fileName'",
+      "csharp": "cd $dir && scriptcs '$fileName'",
+      "vbscript": "cd $dir && cscript //Nologo '$fileName'",
+      "typescript": "cd $dir && tsx '$fileName'",
+      "coffeescript": "cd $dir && coffee '$fileName'",
+      "scala": "cd $dir && scala '$fileName'",
+      "swift": "cd $dir && swift '$fileName'",
+      "julia": "cd $dir && julia '$fileName'",
+      "crystal": "cd $dir && crystal '$fileName'",
+      "ocaml": "cd $dir && ocaml '$fileName'",
+      "r": "cd $dir && Rscript '$fileName'",
+      "applescript": "cd $dir && osascript '$fileName'",
+      "clojure": "cd $dir && lein exec '$fileName'",
+      "haxe": "cd $dir && haxe --cwd $dirWithoutTrailingSlash --run '$fileNameWithoutExt'",
+      "rust": "cd $dir && rustc '$fileName' && $dir'$fileNameWithoutExt'",
+      "racket": "cd $dir && racket '$fileName'",
+      "scheme": "cd $dir && csi -script '$fileName'",
+      "ahk": "cd $dir && autohotkey '$fileName'",
+      "autoit": "cd $dir && autoit3 '$fileName'",
+      "dart": "cd $dir && dart '$fileName'",
+      "pascal": "cd $dir && fpc '$fileName' && $dir'$fileNameWithoutExt'",
+      "d": "cd $dir && dmd '$fileName' && $dir'$fileNameWithoutExt'",
+      "haskell": "cd $dir && runghc '$fileName'",
+      "nim": "cd $dir && nim compile --verbosity:0 --hints:off --run '$fileName'",
+      "lisp": "cd $dir && sbcl --script '$fileName'",
+      "kit": "cd $dir && kitc --run '$fileName'",
+      "v": "cd $dir && v run '$fileName'",
+      "sass": "cd $dir && sass --style expanded '$fileName'",
+      "scss": "cd $dir && scss --style expanded '$fileName'",
+      "less": "cd $dir && lessc '$fileName' '$fileNameWithoutExt.css'",
+      "FortranFreeForm": "cd $dir && gfortran '$fileName' -o '$fileNameWithoutExt' && $dir'$fileNameWithoutExt'",
+      "fortran-modern": "cd $dir && gfortran '$fileName' -o '$fileNameWithoutExt' && $dir'$fileNameWithoutExt'",
+      "fortran_fixed-form": "cd $dir && gfortran '$fileName' -o '$fileNameWithoutExt' && $dir'$fileNameWithoutExt'",
+      "fortran": "cd $dir && gfortran '$fileName' -o '$fileNameWithoutExt' && $dir'$fileNameWithoutExt'",
+      "sml": "cd $dir && sml '$fileName'",
+      "mojo": "cd $dir && mojo run '$fileName'"
+    },
+    ```
 
 - use shortcuts
 
@@ -812,9 +1759,9 @@ sudo systemctl restart earlyoom
 
 <!-- `ctrl b` `d` to keep something running in the bg, `tmux attach` to back. -->
 
-  ```
-  sudo apt -y install tmux
-  ```
+```
+sudo apt -y install tmux
+```
 
 ## `scrcpy` `sndcpy`
 
