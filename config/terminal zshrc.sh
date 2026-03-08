@@ -227,3 +227,6 @@ add-zsh-hook preexec _preload_nvm
 
 export PATH=/usr/lib/postgresql/16/bin:$PATH
 
+# deno
+
+. "/home/fira/.deno/env"

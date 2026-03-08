@@ -352,6 +352,13 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `8` 2026.03.02
 - `9` 2026.03.04
 - `10` 2026.03.05
+- `11` 2026.03.06
+- `12` 2026.03.07
+
+### clannad
+
+- `1` 2026.03.08
+
 
 ## gaming
 
@@ -17939,7 +17946,7 @@ voyage, the word, as a concept, which leads to beautiful imagination, could be a
 
 ---
 
-on chatgpt 
+on chatgpt
 
 search = search.
 
@@ -18018,6 +18025,8 @@ it's common big companies dont check js availability in runtime.
 cyan nyan: cn to us (early age) to (ex) google to jp (vtb).
 
 (upd: on yuri. cyan, xgoogler. lina, indie? hacker. lang: 80% en, 20% jp.)
+
+(upd: "lina does not understand chinese")
 
 angel neko chan: cn to ru (high school) to uk (university) to jp (work).
 
@@ -18110,17 +18119,17 @@ geekerwan 想要事实.
 a
 
 > 在我年纪还轻、阅历尚浅的那些年里，父亲曾经给过我一句忠告，直到今天，这句话仍在我心间萦绕。
-> 
+>
 > “每当你想批评别人的时候，”他对我说，“要记住，这世上并不是所有人，都有你拥有的那些优势。”
-> 
+>
 > 他没再多说什么，不过我们总是言语不多就能彼此理解，所以我明白，他想说的远不止这些。于是，我逐渐养成了不对他人妄加评论的习惯，这样一来，许多古怪的人向我敞开心扉，一些世故而无聊的人也把我当成倾诉对象。当这种品质在一个正常人身上显露出来，那些心智不正常的人就会立刻察觉，绝不放过。由于这一点，我在大学时代受到不公平的指责，他们说我是个政客，因为我了解那些放荡、神秘的家伙不为人知的伤痛。大多数私事并不是我刻意打听的，通常的情况是——每当有准确的迹象让我意识到，有人又要吐露心声时，我就假装睡觉，假装心不在焉，或者装出很不友好、玩世不恭的样子。因为年轻人的心声，或者至少他们表达的方式，往往是雷同的，还带有明显的遮遮掩掩。不对他人妄加评论，这是一种理想境界。我现在仍担心自己因责人过苛而有所失，担心自己忘记那句父亲提出而我也一再重复的有些骄傲意味的忠告——每个人的基本道德观念生而不同，不可等量齐观。
 
 b
 
 > 我年纪还轻，阅历不深的时候，我父亲教导过我一句话，我至今还念念不忘。
-> 
+>
 > “每逢你想要批评任何人的时候，”他对我说，“你就记住，这个世界上所有的人，并不是个个都有过你那些优越条件。”
-> 
+>
 > 他没再说别的。但是，我们父子之间话虽不多，却一向是非常通气的，因此我明白他的意思远远不止那一句话。久而久之，我就惯于对所有的人都保留判断，这个习惯既使得许多怪僻的人肯跟我讲心里话，也使我成为不少爱唠叨的惹人厌烦的人的受害者。这个特点在正常的人身上出现的时候，心理不正常的人很快就会察觉并且抓住不放。由于这个缘故，我上大学的时候就被不公正地指责为小政客，因为我与闻一些放荡的、不知名的人的秘密的伤心事。绝大多数的隐私都不是我打听来的——每逢我根据某种明白无误的迹象看出又有一次倾诉衷情在地平线上喷薄欲出的时候，我往往假装睡觉，假装心不在焉，或者假装出不怀好意的轻佻态度；因为青年人倾诉的衷情，或者至少他们表达这些衷情所用的语言，往往是剽窃性的，而且多有明显的隐瞒。保留判断是表示怀有无限的希望。我现在仍然唯恐错过什么东西，如果我忘记（如同我父亲带着优越感所暗示过的，我现在又带着优越感重复的）基本的道德观念是在人出世的时候就分配不均的。
 
 选择了 a.
@@ -18152,7 +18161,7 @@ wtf? npm could only use physical key as 2fa?
 
 fuck. on ageis. unsupported protocol: fido.
 
-fuck 2fa. i will publish my secrets online (with like a simple zip password) to fight this. 
+fuck 2fa. i will publish my secrets online (with like a simple zip password) to fight this.
 
 ---
 
@@ -18186,7 +18195,7 @@ wow, github refuses my push as i leaks the npm token.
 
 (ghostty shows the token in the command on the window title, unlike most terminals)
 
-fuck. i dont care safety. 
+fuck. i dont care safety.
 
 i wont leak if i dont have secret. (if it uses standard secret based 2fa which works with any auth app, or oauth, or just no 2fa.)
 
@@ -18214,13 +18223,13 @@ so conservative. conventions. norms.
 
 idk how could it enforces...
 
-upd: wtf. 
+upd: wtf.
 
 on frontend, i set my birthday to 2000, 00, 00. it shows green border.
 
 and then when posting, "We're sorry, but something went wrong on our end.".
 
-"文A"? shouldnt that be an icon?
+"文 A"? shouldnt that be an icon?
 
 ---
 
@@ -18236,13 +18245,13 @@ fact check: true.
 
 ---
 
-悠一wakareno
+悠一 wakareno
 
-wb：@悠一Wakareno
+wb：@悠一 Wakareno
 
 我没时间跟你们在总裁互架 我要一打六
 
-我u哥人牛逼还嫩
+我 u 哥人牛逼还嫩
 
 ---
 
@@ -18286,7 +18295,7 @@ upd: found ux issue once i click a link on the first page. "agents". the vertica
 
 "Deploy your agent for {}". when `{}` is long, the last letters would be cropped. maybe vibe agents are not good at testing/reviewing animation. and humans dont even look once.
 
-oh, it's just copying openclaw. copying shit. no wonder why it's so ugly. 
+oh, it's just copying openclaw. copying shit. no wonder why it's so ugly.
 
 "personalized memory/knowledge/tools, long running cron job, im integration, and nothing else."
 
@@ -18297,9 +18306,9 @@ upd: it redirects to stripe once i select pro model. no pricing popup. wtf.
 upd: it even uses horizonal sliding banner. "claim your personalized agent (nothing special, just promo)", "create.. (trivial, well known)", "share on sns to get ... (what a trick)", "personalize.. (is it the same than claim...?)".
 
 upd: (Campaign Period: January 26 – February 26, 2026
-1 Like = 100 Credits | Up to 50,000 Credits per Post (Max 3 posts per person per month)) 
+1 Like = 100 Credits | Up to 50,000 Credits per Post (Max 3 posts per person per month))
 
-isnt it already ended? still showing the ads now, isnt it misleading? 
+isnt it already ended? still showing the ads now, isnt it misleading?
 
 that's how chinese devs would act!
 
@@ -18329,4 +18338,108 @@ Uncaught ChunkLoadError: Loading chunk 17522 failed.
 
 ---
 
+manus loading is sync. blocking browser shortcuts.
 
+(like switching tabs when full screen)
+
+---
+
+shell is weird.
+
+```sh
+foo=123 # work
+foo = 123 # fail
+```
+
+---
+
+i failed to fix the x11 nautilus context menu flash. after wasting hours.
+
+(when you right click to open context menu, it might flashes and closes if you do this fast.)
+
+i will use vscode instead.
+
+the idea is...
+
+if you could neither do something elegantly or create an elegant solution. dont do it.
+
+---
+
+Spotdl has some issues. Try again with ytdlp. On deco27.
+
+(upd: no issue. deco27 does publish songs with chinese lyrics seldom.)
+
+---
+
+ai mode seems to be implementing new features, like copying.
+
+but some buttons dont have effect any more... and the design system (esp. icons) does not match...
+
+(now it works. but why copying still takes time? it should be instant.)
+
+---
+
+finally...
+
+subscribe and join are separated on yt.
+
+---
+
+metro (music player) does not recognize artists like
+
+`a, b`, `a & b`
+
+---
+
+vzhibei is taken down by telegram. wtf.
+
+(upd: good news. ive saved the id and passport photo of chen liang. try on paypal...)
+
+---
+
+`school`
+
+我现在在电脑上编辑这条讯息, 为了便于援引.
+
+不必贬低自己. 我能获取到的都会提供, 不过我需要知道得更清晰一些, 哪次测试的什么部分.
+
+原本想说, 结论是, 又是没有 985 的一年, 在这座学校.
+
+但还是不想说得太重了. 总是想要祝福人们, 而不是看轻人们.
+
+观察是, 这次春考离开的人, 一年有 7 个. 好像是. 总之不到 10 个.
+
+其中, 有高一初态考试的第一名和第二名.
+
+- spuee (spring university entrance exam)
+  - fira `354 a (11.7%, #8196) 107 120 127`
+  - jiang zhijun `376 114 132 a+#1 130`
+  - yao xinyi `362 . 130 a+#3 .`
+  - xia chuyun `334 100 107 127`
+  - 2026.01.03 2026.01.04 2026.01.05
+
+发送给他的讯息, 现在也没有回音.
+
+我很早就确认那是他的账号了, 但是一直没有联系, 也许他已经弃用这个账号了.
+
+> 喵。
+>
+> (名字)。
+>
+> 我春考离开了。去的上海理工机械专业。
+>
+> 我知道你也离开了。是什么专业呢。
+>
+> 今后要怎么做。还会去学校吗。在学校做什么呢。会看书吗，或者研究喜欢的方向。
+
+他可以去一切学校的一切专业, 可以推测是上海大学. 我, 虽有波折, 最终也尘埃落定.
+
+之前, 走廊上, 听见老师与他交谈.
+
+> 如果你想要去 985 的话, 要 ... (分数).
+
+祝福过. 严格说是落空了.
+
+但这也不算是坏的结果吧.
+
+---

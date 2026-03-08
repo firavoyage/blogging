@@ -1,4 +1,4 @@
-# ubuntu
+ubuntu
 
 ## .
 
@@ -46,12 +46,15 @@
 
 ## utilities
 
+util
+
 ```sh
 sudo apt install -y curl wget ca-certificates gnupg lsb-release
 
 sudo apt install -y snapd
 
 sudo apt install -y gnome-tweaks
+flatpak install -y flathub org.gnome.Extensions # although not needed
 flatpak install -y flathub com.mattjakeman.ExtensionManager
 
 sudo apt install -y imagemagick ghostscript
@@ -60,27 +63,40 @@ sudo apt install -y neofetch fortune-mod cowsay figlet lolcat toilet sl
 
 sudo apt install -y tree
 
-sudo apt install -y git python3 pip pipx ffmpeg
-sudo npm install -g pnpm
+sudo apt install -y zsh fonts-powerline unzip # install zsh
+chsh -s "$(which zsh)" # set zsh default
 
-curl -fsSL https://deb.nodesource.com/setup_lts.x | sudo -E bash -
-sudo apt install -y nodejs # install the lastest
+sudo apt install -y git python3 pip pipx ffmpeg
+sudo apt install -y gstreamer1.0-plugins-good gstreamer1.0-plugins-bad gstreamer1.0-plugins-ugly gstreamer1.0-libav
+
+sudo apt install -y fontforge fonttools # to process noto cjk sc
+
+curl -fsSL https://deno.land/install.sh | zsh
+
+curl -fsSL https://deb.nodesource.com/setup_lts.x | sudo -E bash - # use the latest
+sudo apt install -y nodejs
 
 npm config set registry https://registry.npmmirror.com
 # npm config set registry https://registry.npmjs.org/ # use the official site for publishing
 # npm config set //registry.npmjs.org/:_authToken {auth_token}
 
+sudo npm install -g pnpm
+
 pnpm config set registry https://registry.npmmirror.com
+
+pnpm add -g tsx
 
 python3 -m pip config set global.break-system-packages true # simplify: remove meaningless warning for current user.
 
 # sudo mkdir -p /etc;
-# sudo tee /o > /dev/null << EOF
+# sudo tee /etc/pip.conf > /dev/null << EOF
 # [global]
 # break-system-packages = true
 # EOF
 # # simplify:  remove meaningless warning system wide
 ```
+
+memory
 
 ```sh
 sudo apt install -y earlyoom zram-tools
@@ -128,8 +144,10 @@ sudo systemctl restart earlyoom
 ### power
 
 - power mode `performance`
-- automatic screen brightness `off`
-- automatic power saver `off`
+- power saving
+  - automatic screen brightness `off`
+  - screen blank `10 min`
+  - automatic power saver `off`
 
 ### multitasking
 
@@ -155,8 +173,6 @@ sudo systemctl restart earlyoom
 - set dock pins
   - chromium
   - code
-- remove "show apps" icon
-  - extension manager: system extensions: ubuntu dock: launchers: show applications icon `off`
 
 ### apps
 
@@ -243,22 +259,13 @@ sudo systemctl restart earlyoom
       "files.autoSaveDelay": 100,
       "code-runner.preserveFocus": false,
       "code-runner.runInTerminal": true,
-      "editor.fontFamily": "\"Fira Code\", \"Noto Sans CJK SC\", monospace",
+      "editor.fontFamily": "\"Fira Code\", \"Adobe Kaiti Std\", monospace",
       "workbench.activityBar.location": "hidden",
       "code-runner.executorMap": {
         "html": "cd $dir && xdg-open '$fileName'",
-        "htm": "cd $dir && xdg-open '$fileName'",
-        "css": "cd $dir && xdg-open '$fileName'",
-        "svg": "cd $dir && xdg-open '$fileName'",
         "pdf": "cd $dir && xdg-open '$fileName'",
-        "png": "cd $dir && xdg-open '$fileName'",
-        "jpg": "cd $dir && xdg-open '$fileName'",
-        "jpeg": "cd $dir && xdg-open '$fileName'",
-        "gif": "cd $dir && xdg-open '$fileName'",
-        "txt": "cd $dir && xdg-open '$fileName'",
         "md": "cd $dir && xdg-open '$fileName'",
-
-        "javascript": "cd $dir && node '$fileName'",
+        "javascript": "cd $dir && tsx '$fileName'",
         "java": "cd $dir && javac '$fileName' && java '$fileNameWithoutExt'",
         "c": "cd $dir && gcc '$fileName' -o '$fileNameWithoutExt' && $dir'$fileNameWithoutExt'",
         "zig": "cd $dir && zig run '$fileName'",
@@ -386,7 +393,9 @@ sudo systemctl restart earlyoom
       "security.workspace.trust.untrustedFiles": "open",
       "editor.unicodeHighlight.ambiguousCharacters": false,
       "workbench.secondarySideBar.defaultVisibility": "visible",
-      "chat.disableAIFeatures": true
+      "chat.disableAIFeatures": true,
+      "extensions.ignoreRecommendations": true,
+      "security.workspace.trust.enabled": false
     }
     ```
 
@@ -1162,81 +1171,10 @@ sudo systemctl restart earlyoom
   - markdown: extension: theming: decoration: render code span `off`
   - markdown: extension: theming: syntax: decoration file size limit `50000000`
   - chat: disable ai features `on`
+  - security: workspace: trust: enabled `off`
   - code-runner: run in terminal `on`
   - code-runner: preserve focus `off`
-  - code runner: executor map
-
-    `settings.json`
-
-    ```json
-    "code-runner.executorMap": {
-      "html": "cd $dir && xdg-open '$fileName'",
-      "htm": "cd $dir && xdg-open '$fileName'",
-      "css": "cd $dir && xdg-open '$fileName'",
-      "svg": "cd $dir && xdg-open '$fileName'",
-      "pdf": "cd $dir && xdg-open '$fileName'",
-      "png": "cd $dir && xdg-open '$fileName'",
-      "jpg": "cd $dir && xdg-open '$fileName'",
-      "jpeg": "cd $dir && xdg-open '$fileName'",
-      "gif": "cd $dir && xdg-open '$fileName'",
-      "txt": "cd $dir && xdg-open '$fileName'",
-      "md": "cd $dir && xdg-open '$fileName'",
-
-      "javascript": "cd $dir && node '$fileName'",
-      "java": "cd $dir && javac '$fileName' && java '$fileNameWithoutExt'",
-      "c": "cd $dir && gcc '$fileName' -o '$fileNameWithoutExt' && $dir'$fileNameWithoutExt'",
-      "zig": "cd $dir && zig run '$fileName'",
-      "cpp": "cd $dir && g++ '$fileName' -o '$fileNameWithoutExt' && $dir'$fileNameWithoutExt'",
-      "objective-c": "cd $dir && gcc -framework Cocoa '$fileName' -o '$fileNameWithoutExt' && $dir'$fileNameWithoutExt'",
-      "php": "cd $dir && php '$fileName'",
-      "python": "cd $dir && python3 -u '$fileName'",
-      "perl": "cd $dir && perl '$fileName'",
-      "perl6": "cd $dir && perl6 '$fileName'",
-      "ruby": "cd $dir && ruby '$fileName'",
-      "go": "cd $dir && go run '$fileName'",
-      "lua": "cd $dir && lua '$fileName'",
-      "groovy": "cd $dir && groovy '$fileName'",
-      "powershell": "cd $dir && powershell -ExecutionPolicy ByPass -File '$fileName'",
-      "bat": "cd $dir && cmd /c '$fileName'",
-      "shellscript": "cd $dir && bash '$fileName'",
-      "fsharp": "cd $dir && fsi '$fileName'",
-      "csharp": "cd $dir && scriptcs '$fileName'",
-      "vbscript": "cd $dir && cscript //Nologo '$fileName'",
-      "typescript": "cd $dir && tsx '$fileName'",
-      "coffeescript": "cd $dir && coffee '$fileName'",
-      "scala": "cd $dir && scala '$fileName'",
-      "swift": "cd $dir && swift '$fileName'",
-      "julia": "cd $dir && julia '$fileName'",
-      "crystal": "cd $dir && crystal '$fileName'",
-      "ocaml": "cd $dir && ocaml '$fileName'",
-      "r": "cd $dir && Rscript '$fileName'",
-      "applescript": "cd $dir && osascript '$fileName'",
-      "clojure": "cd $dir && lein exec '$fileName'",
-      "haxe": "cd $dir && haxe --cwd $dirWithoutTrailingSlash --run '$fileNameWithoutExt'",
-      "rust": "cd $dir && rustc '$fileName' && $dir'$fileNameWithoutExt'",
-      "racket": "cd $dir && racket '$fileName'",
-      "scheme": "cd $dir && csi -script '$fileName'",
-      "ahk": "cd $dir && autohotkey '$fileName'",
-      "autoit": "cd $dir && autoit3 '$fileName'",
-      "dart": "cd $dir && dart '$fileName'",
-      "pascal": "cd $dir && fpc '$fileName' && $dir'$fileNameWithoutExt'",
-      "d": "cd $dir && dmd '$fileName' && $dir'$fileNameWithoutExt'",
-      "haskell": "cd $dir && runghc '$fileName'",
-      "nim": "cd $dir && nim compile --verbosity:0 --hints:off --run '$fileName'",
-      "lisp": "cd $dir && sbcl --script '$fileName'",
-      "kit": "cd $dir && kitc --run '$fileName'",
-      "v": "cd $dir && v run '$fileName'",
-      "sass": "cd $dir && sass --style expanded '$fileName'",
-      "scss": "cd $dir && scss --style expanded '$fileName'",
-      "less": "cd $dir && lessc '$fileName' '$fileNameWithoutExt.css'",
-      "FortranFreeForm": "cd $dir && gfortran '$fileName' -o '$fileNameWithoutExt' && $dir'$fileNameWithoutExt'",
-      "fortran-modern": "cd $dir && gfortran '$fileName' -o '$fileNameWithoutExt' && $dir'$fileNameWithoutExt'",
-      "fortran_fixed-form": "cd $dir && gfortran '$fileName' -o '$fileNameWithoutExt' && $dir'$fileNameWithoutExt'",
-      "fortran": "cd $dir && gfortran '$fileName' -o '$fileNameWithoutExt' && $dir'$fileNameWithoutExt'",
-      "sml": "cd $dir && sml '$fileName'",
-      "mojo": "cd $dir && mojo run '$fileName'"
-    },
-    ```
+  - code runner: executor map <!-- `settings.json` -->
 
 - use shortcuts
 
@@ -1442,8 +1380,15 @@ sudo systemctl restart earlyoom
   - auto launch `on`
   - silent start `on`
   - port config `7890`
-- remove tray icon
-  - extension manager: browse `lilypad`
+
+## `extension manager`
+
+- install extensions <!-- browse -->
+  - lilypad
+  - Alt+Tab Scroll Workaround
+- remove "show apps" icon on system dock
+  - system extensions: ubuntu dock: launchers: show applications icon `off`
+- remove clash vergetray icon
   - lilypad: general: collapse `tray_icon_tray_app`
   - lilypad: display: display: hide lilypad icon `always`
 
@@ -1479,250 +1424,246 @@ sudo systemctl restart earlyoom
   `repo: fonts`
 - prefer sc for kanji
 
-  `admin:///etc/fonts/conf.d/64-language-selector-cjk-prefer.conf`
+  - replace the font files with sc at first <!-- optimal -->
 
-  ```xml
-  <?xml version="1.0"?>
-  <!DOCTYPE fontconfig SYSTEM "fonts.dtd">
-  <fontconfig>
-    <alias>
-      <family>sans-serif</family>
-      <prefer>
-        <family>Noto Sans CJK SC</family>
-        <family>Noto Sans CJK JP</family>
-        <family>Noto Sans CJK KR</family>
-        <family>Noto Sans CJK TC</family>
-        <family>Noto Sans CJK HK</family>
-      </prefer>
-    </alias>
-    <alias>
-      <family>serif</family>
-      <prefer>
-        <family>Noto Serif CJK SC</family>
-        <family>Noto Serif CJK JP</family>
-        <family>Noto Serif CJK KR</family>
-        <family>Noto Serif CJK TC</family>
-      </prefer>
-    </alias>
-    <alias>
-      <family>monospace</family>
-      <prefer>
-        <family>Noto Sans Mono CJK SC</family>
-        <family>Noto Sans Mono CJK JP</family>
-        <family>Noto Sans Mono CJK KR</family>
-        <family>Noto Sans Mono CJK TC</family>
-        <family>Noto Sans Mono CJK HK</family>
-      </prefer>
-    </alias>
-  </fontconfig>
-  ```
+    ```sh
+    # create dirs
+    mkdir -p "$HOME/_/input" "$HOME/_/tmp" "$HOME/_/output"
 
-  <!-- making everything cjk will cause weird full width characters. -->
+    # copy noto fonts to input
+    cp -a /usr/share/fonts/opentype/noto/* "$HOME/_/input/"
 
-  <!--
+    # process each file in input
+    for src in "$HOME/_/input/"*; do
+      [ -f "$src" ] || continue
+      base="$(basename "$src")"
+      ext="${base##*.}"
+      ext_lc="$(echo "$ext" | tr '[:upper:]' '[:lower:]')"
 
-  `admin:///etc/fonts/local.conf`
+      # clear tmp directory
+      rm -rf "$HOME/_/tmp"
+      mkdir -p "$HOME/_/tmp"
 
-  `~/.config/fontconfig/fonts.conf`
+      if [ "$ext_lc" = "ttc" ]; then
+        cp "$src" "$HOME/_/tmp/font.ttc"
+        cd "$HOME/_/tmp"
 
-  ```xml
-  <?xml version="1.0"?>
-  <!DOCTYPE fontconfig SYSTEM "fonts.dtd">
-  <fontconfig>
-    <alias>
-      <family>sans-serif</family>
-      <prefer>
-        <family>Ubuntu Sans</family>
-        <family>Noto Sans CJK SC</family>
-        <family>Noto Sans CJK JP</family>
-        <family>Noto Sans CJK KR</family>
-        <family>Noto Sans CJK TC</family>
-        <family>Noto Sans CJK HK</family>
-      </prefer>
-    </alias>
-    <alias>
-      <family>serif</family>
-      <prefer>
-        <family>EB Garamond</family>
-        <family>Noto Serif CJK SC</family>
-        <family>Noto Serif CJK JP</family>
-        <family>Noto Serif CJK KR</family>
-        <family>Noto Serif CJK TC</family>
-      </prefer>
-    </alias>
-    <alias>
-      <family>monospace</family>
-      <prefer>
-        <family>Fira Code</family>
-      </prefer>
-    </alias>
-  </fontconfig>
-  ```
+        # extract TTC to individual TTFs
+        python3 -c "from fontTools.ttLib.ttCollection import TTCollection; [f.save(f'font_{i}.ttf') for i,f in enumerate(TTCollection('font.ttc'))]"
 
-  -->
+        sc_list=()
+        other_list=()
 
-- apply
+        # read each font name, log it, and separate SC fonts
+        for f in font_*.ttf; do
+          [ -f "$f" ] || continue
+          font_name=$(python3 -c "from fontTools.ttLib import TTFont; import sys; font=TTFont(sys.argv[1]); names=[n.string.decode('utf-16-be') if n.isUnicode() else n.string.decode('latin-1') for n in font['name'].names if n.nameID==1]; print(names[0] if names else '')" "$f")
+          echo "Font file: $f, Name: $font_name"
 
-  ```
-  sudo fc-cache -f -v
-  ```
+          if echo "$font_name" | tr '[:upper:]' '[:lower:]' | grep -q 'sc'; then
+            sc_list+=("$f")
+          else
+            other_list+=("$f")
+          fi
+        done
 
-  <!-- log out log in when needed -->
+        # build ordered python list literal: sc first
+        pylist=""
+        for f in "${sc_list[@]}" "${other_list[@]}"; do
+          pylist="$pylist,'$f'"
+        done
+        pylist=${pylist#,}
 
-- apply to flatpak apps
+        # pack ordered fonts into a new TTC
+        python3 -c "from fontTools.ttLib import TTFont; from fontTools.ttLib.ttCollection import TTCollection; files=[$pylist]; ttc=TTCollection(); ttc.fonts=[TTFont(f) for f in files]; ttc.save('output.ttc')"
 
-  <!-- flatpak apps run in isolated world -->
+        mv -f output.ttc "$HOME/_/output/$base"
+        cd "$HOME/_/input"
 
-  ```
-  APP="org.goldendict.GoldenDict"
-  SRC_FRAGMENT="/etc/fonts/conf.d/64-language-selector-cjk-prefer.conf"
-  DST_CONF="$HOME/.var/app/$APP/config/fontconfig"
-  DST_CONFD="$DST_CONF/conf.d"
-  FONTS_CONF="$DST_CONF/fonts.conf"
-  TS=$(date +%s)
+        rm -rf "$HOME/_/tmp"
+        mkdir -p "$HOME/_/tmp"
+      else
+        # copy non-TTC files unchanged
+        cp -a "$src" "$HOME/_/output/$base"
+      fi
+    done
 
-  echo "App: $APP"
-  echo "Source fragment: $SRC_FRAGMENT"
-  echo "Destination config: $DST_CONF"
-  echo
+    # replace originals in system noto directory with sudo
+    sudo cp -a "$HOME/_/output/"* /usr/share/fonts/opentype/noto/
+    sudo fc-cache -f -v /usr/share/fonts/opentype/noto/
 
-  # Try to stop running instances (best-effort)
-  echo "Stopping running flatpak instances (best-effort)..."
-  flatpak kill "$APP" 2>/dev/null || true
+    # cleanup
+    rm -rf "$HOME/_"
+    ```
 
-  # Ensure base destination exists
-  mkdir -p "$DST_CONF"
+  - write a preference <!-- unreliable -->
 
-  # If conf.d exists and is a symlink, move it aside (it may point to a nonexistent target)
-  if [ -L "$DST_CONFD" ]; then
-    echo "Found $DST_CONFD as a symlink. Backing up and replacing."
-    mv -v "$DST_CONFD" "${DST_CONFD}.symlink.bak.$TS"
-  fi
+    - ubuntu <!-- not needed after the optimal brute force font file replacement -->
 
-  # If conf.d exists but is not a directory, back it up
-  if [ -e "$DST_CONFD" ] && [ ! -d "$DST_CONFD" ]; then
-    echo "Found $DST_CONFD but it's not a directory. Backing up."
-    mv -v "$DST_CONFD" "${DST_CONFD}.bak.$TS"
-  fi
+      ```sh
+      font=$(cat <<EOF
+      <?xml version="1.0"?>
+      <!DOCTYPE fontconfig SYSTEM "fonts.dtd">
+      <fontconfig>
+        <alias>
+          <family>sans-serif</family>
+          <prefer>
+            <family>Ubuntu Sans</family>
+            <family>Noto Sans CJK SC</family>
+            <family>Noto Sans CJK SC</family>
+            <family>Noto Sans CJK JP</family>
+            <family>Noto Sans CJK KR</family>
+            <family>Noto Sans CJK TC</family>
+            <family>Noto Sans CJK HK</family>
+          </prefer>
+        </alias>
+        <alias>
+          <family>serif</family>
+          <prefer>
+            <family>Noto Serif CJK SC</family>
+            <family>Noto Serif CJK JP</family>
+            <family>Noto Serif CJK KR</family>
+            <family>Noto Serif CJK TC</family>
+          </prefer>
+        </alias>
+        <alias>
+          <family>monospace</family>
+          <prefer>
+            <family>Noto Sans Mono CJK SC</family>
+            <family>Noto Sans Mono CJK JP</family>
+            <family>Noto Sans Mono CJK KR</family>
+            <family>Noto Sans Mono CJK TC</family>
+            <family>Noto Sans Mono CJK HK</family>
+          </prefer>
+        </alias>
+      </fontconfig>
+      EOF
+      )
 
-  # Create proper conf.d directory
-  mkdir -p "$DST_CONFD"
+      printf "$font" | sudo tee /etc/fonts/conf.d/64-language-selector-cjk-prefer.conf > /dev/null
+      mkdir -p ~/.config/fontconfig/conf.d
+      # printf "$font" | tee ~/.config/fontconfig/conf.d/64-prefer-noto-cjk-sc.conf > /dev/null # might cause issue on system tray clock (weird full width semicolon)
 
-  # Create a minimal fonts.conf which includes the local conf.d and host conf.d if present
-  cat > "$FONTS_CONF" <<'EOF'
-  <?xml version="1.0"?>
-  <!DOCTYPE fontconfig SYSTEM "fonts.dtd">
-  <fontconfig>
-    <!-- Prefer host font directories -->
-    <dir>/run/host/fonts</dir>
-    <dir>/run/host/usr/share/fonts</dir>
-    <dir>/usr/share/fonts</dir>
+      sudo fc-cache -f -v # apply (log out log in if needed)
+      # fc-match -s sans:lang=zh # confirm
+      ```
 
-    <!-- Include local conf fragments -->
-    <include ignore_missing="yes">conf.d</include>
+    - flatpak <!-- still needed to set fonts -->
 
-    <!-- Also include host /etc/fonts/conf.d if available inside sandbox -->
-    <include ignore_missing="yes">/run/host/etc/fonts/conf.d</include>
-  </fontconfig>
-  EOF
+      ```sh
+      APP="org.goldendict.GoldenDict"
+      SRC_FRAGMENT="/etc/fonts/conf.d/64-language-selector-cjk-prefer.conf"
+      DST_CONF="$HOME/.var/app/$APP/config/fontconfig"
+      DST_CONFD="$DST_CONF/conf.d"
+      FONTS_CONF="$DST_CONF/fonts.conf"
+      TS=$(date +%s)
 
-  echo "Wrote $FONTS_CONF"
+      echo "App: $APP"
+      echo "Source fragment: $SRC_FRAGMENT"
+      echo "Destination config: $DST_CONF"
+      echo
 
-  # Copy the host fragment into the app conf.d using install (avoids symlink creation issues)
-  if [ -f "$SRC_FRAGMENT" ]; then
-    install -Dm644 "$SRC_FRAGMENT" "$DST_CONFD/$(basename "$SRC_FRAGMENT")"
-    echo "Installed fragment into $DST_CONFD/$(basename "$SRC_FRAGMENT")"
-  else
-    echo "Warning: source fragment not found at $SRC_FRAGMENT — created fonts.conf and conf.d anyway."
-  fi
+      # Try to stop running instances (best-effort)
+      echo "Stopping running flatpak instances (best-effort)..."
+      flatpak kill "$APP" 2>/dev/null || true
 
-  # Fix permissions so sandbox can read
-  chmod -R u+rwX,go+rX "$DST_CONF"
+      # Ensure base destination exists
+      mkdir -p "$DST_CONF"
 
-  # Tell flatpak to use this config and give the sandbox read access to it.
-  # Also expose /etc/fonts (host) read-only so fragments that reference system paths can be read.
-  flatpak override --user \
-    --env="FONTCONFIG_PATH=$DST_CONF" \
-    --env="FONTCONFIG_FILE=$FONTS_CONF" \
-    --filesystem="$DST_CONF:ro" \
-    --filesystem="/etc/fonts:ro" \
-    "$APP" || {
-      echo "Note: flatpak override failed or returned non-zero (continuing anyway)."
-    }
+      # If conf.d exists and is a symlink, move it aside (it may point to a nonexistent target)
+      if [ -L "$DST_CONFD" ]; then
+        echo "Found $DST_CONFD as a symlink. Backing up and replacing."
+        mv -v "$DST_CONFD" "${DST_CONFD}.symlink.bak.$TS"
+      fi
 
-  echo
-  echo "Set flatpak env:"
-  echo "  FONTCONFIG_PATH=$DST_CONF"
-  echo "  FONTCONFIG_FILE=$FONTS_CONF"
-  echo "Exposed filesystem: $DST_CONF (read-only) and /etc/fonts (read-only)"
-  echo
+      # If conf.d exists but is not a directory, back it up
+      if [ -e "$DST_CONFD" ] && [ ! -d "$DST_CONFD" ]; then
+        echo "Found $DST_CONFD but it's not a directory. Backing up."
+        mv -v "$DST_CONFD" "${DST_CONFD}.bak.$TS"
+      fi
 
-  # Refresh font cache inside sandbox (best-effort)
-  echo "Refreshing font caches inside sandbox (best-effort)..."
-  flatpak run --command=fc-cache "$APP" >/dev/null 2>&1 || true
+      # Create proper conf.d directory
+      mkdir -p "$DST_CONFD"
 
-  # Verify env and files inside sandbox and show fc-match output
-  echo "Sandbox verification (environment and files):"
-  flatpak run --command=sh "$APP" -c \
-    "echo FONTCONFIG_PATH=\$FONTCONFIG_PATH; echo FONTCONFIG_FILE=\$FONTCONFIG_FILE; ls -la \"$DST_CONF\" || true; echo '----- fc-match output -----'; fc-match || true"
+      # Create a minimal fonts.conf which includes the local conf.d and host conf.d if present
+      cat > "$FONTS_CONF" <<'EOF'
+      <?xml version="1.0"?>
+      <!DOCTYPE fontconfig SYSTEM "fonts.dtd">
+      <fontconfig>
+        <!-- Prefer host font directories -->
+        <dir>/run/host/fonts</dir>
+        <dir>/run/host/usr/share/fonts</dir>
+        <dir>/usr/share/fonts</dir>
 
-  echo
-  echo "Done."
-  ```
+        <!-- Include local conf fragments -->
+        <include ignore_missing="yes">conf.d</include>
+
+        <!-- Also include host /etc/fonts/conf.d if available inside sandbox -->
+        <include ignore_missing="yes">/run/host/etc/fonts/conf.d</include>
+      </fontconfig>
+      EOF
+
+      echo "Wrote $FONTS_CONF"
+
+      # Copy the host fragment into the app conf.d using install (avoids symlink creation issues)
+      if [ -f "$SRC_FRAGMENT" ]; then
+        install -Dm644 "$SRC_FRAGMENT" "$DST_CONFD/$(basename "$SRC_FRAGMENT")"
+        echo "Installed fragment into $DST_CONFD/$(basename "$SRC_FRAGMENT")"
+      else
+        echo "Warning: source fragment not found at $SRC_FRAGMENT — created fonts.conf and conf.d anyway."
+      fi
+
+      # Fix permissions so sandbox can read
+      chmod -R u+rwX,go+rX "$DST_CONF"
+
+      # Tell flatpak to use this config and give the sandbox read access to it.
+      # Also expose /etc/fonts (host) read-only so fragments that reference system paths can be read.
+      flatpak override --user \
+        --env="FONTCONFIG_PATH=$DST_CONF" \
+        --env="FONTCONFIG_FILE=$FONTS_CONF" \
+        --filesystem="$DST_CONF:ro" \
+        --filesystem="/etc/fonts:ro" \
+        "$APP" || {
+          echo "Note: flatpak override failed or returned non-zero (continuing anyway)."
+        }
+
+      echo
+      echo "Set flatpak env:"
+      echo "  FONTCONFIG_PATH=$DST_CONF"
+      echo "  FONTCONFIG_FILE=$FONTS_CONF"
+      echo "Exposed filesystem: $DST_CONF (read-only) and /etc/fonts (read-only)"
+      echo
+
+      # Refresh font cache inside sandbox (best-effort)
+      echo "Refreshing font caches inside sandbox (best-effort)..."
+      flatpak run --command=fc-cache "$APP" >/dev/null 2>&1 || true
+
+      # Verify env and files inside sandbox and show fc-match output
+      echo "Sandbox verification (environment and files):"
+      flatpak run --command=sh "$APP" -c \
+        "echo FONTCONFIG_PATH=\$FONTCONFIG_PATH; echo FONTCONFIG_FILE=\$FONTCONFIG_FILE; ls -la \"$DST_CONF\" || true; echo '----- fc-match output -----'; fc-match || true"
+
+      echo
+      echo "Done."
+      ```
 
 ## `terminal`
 
-- install zsh and config
+- install oh my zsh and plugins
 
-  ```
-  set -e
+  ```sh
+  sudo apt install -y zsh fonts-powerline unzip # install zsh
+  chsh -s "$(which zsh)" # set zsh default
 
-  echo "Starting Zsh + Oh My Zsh + plugins + Powerlevel10k setup …"
+  sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)" "" --unattended # install oh my zsh
 
-  # -------------------------
-  # 1. Install core packages
-  # -------------------------
-  echo "Installing essentials …"
-  sudo apt update
-  sudo apt install -y zsh fonts-powerline unzip
-
-  # -------------------------
-  # 2. Install Zsh
-  # -------------------------
-  if ! command -v zsh &> /dev/null; then
-    echo "Installing Zsh …"
-    sudo apt install -y zsh
-  else
-    echo "Zsh already present, skipping."
-  fi
-
-  # Change default shell to Zsh
-  echo "Setting Zsh as default shell …"
-  chsh -s "$(which zsh)"
-
-  # -------------------------
-  # 3. Install Oh My Zsh
-  # -------------------------
-  if [ ! -d "$HOME/.oh-my-zsh" ]; then
-    echo "Installing Oh My Zsh …"
-    sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)" "" --unattended
-  else
-    echo "Oh My Zsh already installed, skipping."
-  fi
-
-  # -------------------------
-  # 4. Add plugins
-  # -------------------------
-  echo "Installing plugins …"
-  mkdir -p ~/.zsh
+  mkdir -p ~/.zsh # install zsh plugins
 
   # autosuggestions
   git clone https://github.com/zsh-users/zsh-autosuggestions ~/.zsh/zsh-autosuggestions
 
   # syntax highlighting
   git clone https://github.com/zsh-users/zsh-syntax-highlighting ~/.zsh/zsh-syntax-highlighting
-
-  echo ""
   ```
 
 - put zshrc
@@ -1731,10 +1672,33 @@ sudo systemctl restart earlyoom
 
 - install ghostty
 
-  <!-- inspired by innei & others -->
+  <!-- used by innei & others -->
 
-  ```
-  curl -fsSL https://raw.githubusercontent.com/mkasberg/ghostty-ubuntu/HEAD/install.sh
+  ```sh
+  # curl -fsSL https://raw.githubusercontent.com/mkasberg/ghostty-ubuntu/HEAD/install.sh | zsh # use nightly instead
+
+  set -e
+
+  # source: https://github.com/mkasberg/ghostty-ubuntu/
+
+  URL="https://productionresultssa4.blob.core.windows.net/actions-results/32b82df1-cdd9-4464-953e-88bfc0d48a39/workflow-job-run-a0d2f2e3-9ee7-5779-8c89-82ed3454b79c/artifacts/73fd278f2e6afa3bb7875b44543335bbc45b0029aa025df3503fba46e775dc0c.zip?rscd=attachment%3B+filename%3D%22package-ubuntu-24.04-amd64-0.15.2.zip%22&rsct=application%2Fzip&se=2026-03-06T12%3A14%3A12Z&sig=hhsYxPTiesPtoJqX8Jahp6piNsdEM6KZjqqMpWmXnS0%3D&ske=2026-03-06T13%3A33%3A46Z&skoid=ca7593d4-ee42-46cd-af88-8b886a2f84eb&sks=b&skt=2026-03-06T09%3A33%3A46Z&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skv=2025-11-05&sp=r&spr=https&sr=b&st=2026-03-06T12%3A04%3A07Z&sv=2025-11-05" # https://github.com/mkasberg/ghostty-ubuntu/actions/runs/22700833381/artifacts/5772559005, https://github.com/mkasberg/ghostty-ubuntu/actions/runs/22700833381
+
+  ZIP="ghostty_artifact.zip"
+
+  # download
+  wget -c -O "$ZIP" "$URL"
+
+  # extract
+  unzip -o "$ZIP"
+
+  # find the deb package
+  DEB=$(find . -maxdepth 1 -type f -name "*.deb" | head -n 1) # stable: https://github.com/mkasberg/ghostty-ubuntu/releases/download/1.2.3-0-ppa1/ghostty_1.2.3-0.ppa1_amd64_24.04.deb
+
+  # install
+  sudo dpkg -i "$DEB"
+
+  # cleanup only if installation succeeded
+  rm -f "$ZIP" "$DEB"
   ```
 
 - config ghostty
@@ -1742,26 +1706,30 @@ sudo systemctl restart earlyoom
   ```sh
   mkdir -p ~/.config/ghostty
 
-  cat > ~/.config/ghostty/config <<EOF
+  cat > ~/.config/ghostty/config <<'EOF'
   # normalize: keep terminal alive after failure (like with `set -e`)
   wait-after-command = true
   abnormal-command-exit-runtime = 0
+
+  # normalize: add scrollbar # need version >= 1.3
+  scrollbar = system
 
   # simplify: disable the "are you sure you want to close?" confirmation
   confirm-close-surface = false
 
   # simplify: disable the paste-protection warning
   clipboard-paste-protection = false
+
   EOF
   ```
 
 - install tmux
 
-<!-- `ctrl b` `d` to keep something running in the bg, `tmux attach` to back. -->
+  <!-- `ctrl b` `d` to keep something running in the bg, `tmux attach` to back. -->
 
-```
-sudo apt -y install tmux
-```
+  ```
+  sudo apt -y install tmux
+  ```
 
 ## `scrcpy` `sndcpy`
 
@@ -1911,7 +1879,7 @@ sudo apt -y install tmux
   - enhance new tab: intention <!-- repo: f: intention. load unpacked with dev mode on. -->
     - allow in incognito
     - extension: keyboard shortcuts: intention: Open a new window with Intention's custom new tab `ctrl n`
-    - intention settings: url to open when enter is empty `https://chatgpt.com/branch/69a713fd-5b58-83a3-958e-c38e92cffc74/4bccd054-037e-4707-88ff-4be087bb475e` <!-- use the lastest one -->
+    - intention settings: url to open when enter is empty `https://chatgpt.com/branch/69a713fd-5b58-83a3-958e-c38e92cffc74/4bccd054-037e-4707-88ff-4be087bb475e` <!-- use the latest one -->
     - intention settings: search url `https://www.google.com/ai?q=%s&gl=us` <!-- it's good to set ai mode default in case it doesnt always show up automatically, sometimes not even available on nav bar on regular search, while you can easily go to "all" from ai mode. legacy: `https://www.google.com/search?q=%s&gl=us`. unfortunately, gl=us is not preserved when switching to all. -->
   - automate captcha solving: buster https://chrome.google.com/webstore/detail/mpbjkejclgfgadiemmefgebjfooflfhl
   - manage access to accounts: authenticator https://chromewebstore.google.com/detail/authenticator/bhghoamapcdpbohphigoooaddinpkbai
@@ -2050,7 +2018,7 @@ sudo apt -y install tmux
   echo "Setup complete. The push command will run daily at 23:00 and retry if it fails."
   ```
 
-<!-- use the lastest config -->
+<!-- use the latest config -->
 
 <!--
 
@@ -2139,14 +2107,14 @@ zsh -ic 'push'
 
 - add environment variables
 
-  `admin:///etc/environment`
-
-  ```text
+  ```
+  sudo tee /etc/environment > /dev/null <<EOF
   GTK_IM_MODULE=fcitx
   QT_IM_MODULE=fcitx
   XMODIFIERS=@im=fcitx
   SDL_IM_MODULE=fcitx
   GLFW_IM_MODULE=fcitx
+  EOF
   ```
 
 - disable input method hint
@@ -2216,11 +2184,17 @@ zsh -ic 'push'
     - output (scaled) resolution `2560x1600`
     - common fps values `60` <!-- 30 when not possible -->
 
+## `vlc`
+
+- open in new window
+
+  ```sh
+  sudo sed -i 's/--started-from-file/--no-one-instance/g' /var/lib/flatpak/app/org.videolan.VLC/current/active/export/share/applications/org.videolan.VLC.desktop
+  ```
+
 ## `goldendict`
 
-- install dictionaries
-
-  `edit`
+- install dictionaries <!-- f3 -->
 
   ```
   ~ % cd /home/fira/Documents/_/dict
@@ -2250,25 +2224,22 @@ zsh -ic 'push'
   现代英汉汉英综合大辞典.mdx
   ```
 
+  <!-- https://mdx.mdict.org -->
+
 - simplify
 
-  `view`
-
-  - navigation `on`
-  - `*` `off`
+  - view: navigation `on`
+  - view: `*` `off`
 
   <!-- menubar becomes a button on the top right. ctrl m toggle on. -->
 
-- normalize
+- normalize <!-- f4 -->
 
-  `edit: preferences: interface: tabbed browsing`
-
-  - open new tabs in background `off`
+  - interface: tabbed browsing: open new tabs in background `off`
+  - start to system tray `on`
 
 - use shortcuts
   - open screen word selector `ctrl c ctrl c`
-
-<!-- https://mdx.mdict.org -->
 
 ## `qbittorrent`
 
@@ -2788,7 +2759,42 @@ sudo apt install -f -y  # Fix any missing deps
   xdg-mime default sabaki.desktop application/x-go-sgf
   ```
 
+## `foliate`
+
+- autohide cursor `on`
+- font & layout settings <!-- alt , -->
+  - font
+    - serif font `adobe kaiti std`
+    - sans font `noto sans cjk sc`
+  - behavior
+    - reduce animation `on`
+
+## `xmrig`
+
+- install and start
+
+  ```sh
+  # 1. Update and install dependencies
+  sudo apt install -y git build-essential cmake libuv1-dev libssl-dev libhwloc-dev
+
+  # 2. Download XMRig (the engine)
+  cd /home/fira/Documents/_/opensource
+  git clone https://github.com/xmrig/xmrig.git
+  cd xmrig && mkdir build && cd build
+
+  # 3. Compile the miner
+  cmake ..
+  make -j$(nproc)
+
+  # 4. Start Mining (using a BTC-payout pool like Unmineable)
+  # REPLACE 'YourBTCAddress' with your actual Bitcoin wallet address.
+  # The 'm' at the end of the worker name is for identification.
+  sudo ./xmrig -o rx.unmineable.com:3333 -u BTC:bc1qszfqwtp8lva8cmptmj330m90k7mms4szk08e0w.UbuntuLaptop#ivrt-8ebj -p x
+  ```
+
 ## apps
+
+### remove
 
 ```sh
 # remove builtin stuff
@@ -2796,7 +2802,11 @@ sudo snap remove firefox
 flatpak install -y flathub org.mozilla.firefox # use flatpak one instead
 
 sudo snap remove thunderbird # use web (gmail, outlook, etc.) instead. thunderbird is free and consistent, but slow. And it produces nonsense, thunderbird.tmp on downloads
+
+sudo apt remove gnome-text-editor # let it auto bind vscode
 ```
+
+### install
 
 ```sh
 curl -fsSL https://get.docker.com | sudo sh
@@ -2819,6 +2829,7 @@ flatpak install -y flathub org.gnome.Weather
 
 sudo snap install foliate # fix fonts access in sandbox. there's nothing wrong with snap. no extra config needed.
 # flatpak install -y flathub com.github.johnfactotum.Foliate
+flatpak install -y flathub com.calibre_ebook.calibre # to edit epub
 
 flatpak install -y flathub com.github.finefindus.eyedropper
 

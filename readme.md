@@ -161,6 +161,7 @@ $fira$ `elegance`
     - lovefrom lovefrom.com
     - maigolabs maigo.dev
     - manusai manus.im manus.im/docs/features manus.im/playbook awesome.manus.space
+    - mitchellh mitchellh.com ghostty.org
     - mugumogu maru
     - nadiamoe nadia.moe
     - nothing cmfbynothing essential nothing.tech essential.com
@@ -234,6 +235,7 @@ $fira$ `elegance`
     - nekomeowww ayakaneko ayaka.moe ayaka.io
     - newlearnerchannel
     - ornicar lichess.org
+    - privatenumber hirok.io
     - radolyn radolyn.com docs.ayugram.one
     - randy lutaonan.com
     - risin42 nagramx
@@ -267,7 +269,7 @@ $fira$ `elegance`
     - kkksc03 luogu k.luogu.org
     - leerob leerob.com cursor.com
     - matrix67 matrix67.com matrix67.itch.io localhost_8080 localhost-8080.com
-    - menci lcmenci men.ci loj.ac oi.wiki
+    - menci lcmenci men.ci loj.ac oi.wiki chiyuki0325 chyk.ink
     - nayuki nayuki.io
     - one math
     - paulg paulgraham.com
@@ -305,7 +307,6 @@ $fira$ `elegance`
     - c0de_sw0rd c0de-sw0rd.itch.io
     - canyie canyiechannel blog.canyie.top
     - chesszyh lichess lingyuanyuanyuanyuanyuan notrealname zhihu
-    - chiyuki0325 chyk.ink
     - ciceroxiao hong520_x ciceros_self_talk ciceroxiao.github.io/hong525
     - cosmicac 2o181o28.github.io
     - daimajia daimajia.com
@@ -373,6 +374,7 @@ $fira$ `elegance`
     - animenz
     - chessvibesofficial nelson lopez
     - danielnaroditskygm
+    - deco27
     - endgame endgamebattlebot.com
     - funshiki
     - gao zixiang
@@ -545,6 +547,7 @@ $fira$ `elegance`
   - bocchi the rock (2022)
   - frieren: beyond journey's end (2023)
   - too many losing heroines! (2024)
+  - clannad (2007)
   - .date a live (2013)
   - .sword art online (2012)
   - .k-on! (2009)
@@ -560,6 +563,7 @@ $fira$ `elegance`
   - .school days (2007)
   - .white album (2009)
   - .chitose is in the ramune bottle (2025)
+  - .fate/zero (2011)
 - games
   - angry birds (2009)
   - minecraft (2011)
