@@ -4,6 +4,8 @@ $fira$ `elegance`
 
 <!-- 永远 20 岁. -->
 
+<!-- animated coming-of-age romantic fantasy adventure film -->
+
 > $welcome \space to \space hotel \space california$
 
 > $lucky \space \text{☆} \space star!$
@@ -93,7 +95,7 @@ $fira$ `elegance`
 ## perception
 
 - flavors
-  - lipton black tea
+  - lipton black tea & green tea
   - frey dark chocolate bars
   - whole wheat bread
   - butter croissant
@@ -176,6 +178,7 @@ $fira$ `elegance`
     - sdw sdw.space
     - shadcn shadcn.com
     - shuding shud.in
+    - snailmr99 shitjournal.org
     - spottedinprod spottedinprod.com
     - steve jobs apple
     - taroleohearts whatdoespotatoeattoday leohearts.com
@@ -232,7 +235,7 @@ $fira$ `elegance`
     - michaelyuhe coooolxyh emojionly.chat travelclaw.app
     - moxie signal.org
     - nat friedman nat.org github
-    - nekomeowww ayakaneko ayaka.moe ayaka.io
+    - nekomeowww ayakaneko ayaka.moe ayaka.io nolebase.ayaka.io littlesound rizumu.me
     - newlearnerchannel
     - ornicar lichess.org
     - privatenumber hirok.io
@@ -296,6 +299,7 @@ $fira$ `elegance`
     - programthink program-think.blogspot.com github.com/programthink
     - shao nian shan zhi jun
     - wang zhian
+    - whynotwainao wainao.me
     - whyyoutouzhele 611study.icu zyo.run
     - wu songlei paperclip ipaperclip.icu
     - xiao a zai shang wang
@@ -395,6 +399,7 @@ $fira$ `elegance`
     - sanketsu shojo sayuri
     - shin jin-seo
     - student he studio
+    - ta mi gao
     - xiaoyao sanren
     - yokidou shadowverse
     - youyi wakareno
@@ -424,6 +429,7 @@ $fira$ `elegance`
     - nahida
     - nina iseri
     - qihai nanami
+    - ruby hoshino
     - saiba momoi
     - samekosaba samedesu
     - shizuku lulu
@@ -564,6 +570,9 @@ $fira$ `elegance`
   - .white album (2009)
   - .chitose is in the ramune bottle (2025)
   - .fate/zero (2011)
+  - .suzume (2022)
+  - .weathering with you (2019)
+  - .tiny toon adventures (1990)
 - games
   - angry birds (2009)
   - minecraft (2011)

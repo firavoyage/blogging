@@ -224,9 +224,11 @@ autoload -Uz add-zsh-hook
 add-zsh-hook preexec _preload_nvm
 
 # pg
-
 export PATH=/usr/lib/postgresql/16/bin:$PATH
 
 # deno
-
 . "/home/fira/.deno/env"
+
+# android
+JAVA_HOME=/usr/lib/jvm/java-17-openjdk-amd64
+

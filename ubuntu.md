@@ -49,7 +49,7 @@ ubuntu
 util
 
 ```sh
-sudo apt install -y curl wget ca-certificates gnupg lsb-release
+sudo apt install -y curl wget ca-certificates gnupg lsb-release unzip
 
 sudo apt install -y snapd
 
@@ -57,19 +57,22 @@ sudo apt install -y gnome-tweaks
 flatpak install -y flathub org.gnome.Extensions # although not needed
 flatpak install -y flathub com.mattjakeman.ExtensionManager
 
-sudo apt install -y imagemagick ghostscript
+sudo apt install -y tree
 
 sudo apt install -y neofetch fortune-mod cowsay figlet lolcat toilet sl
 
-sudo apt install -y tree
+sudo apt install -y imagemagick ghostscript ffmpeg fontforge fonttools
 
-sudo apt install -y zsh fonts-powerline unzip # install zsh
+sudo apt install -y pandoc
+sudo apt install -y texlive-latex-base texlive-latex-recommended texlive-fonts-recommended texlive-latex-extra 
+sudo apt install -y texlive-xetex texlive-lang-chinese
+# example: pandoc '~.md' -o o.pdf --pdf-engine=xelatex -V CJKmainfont="Noto Sans CJK SC" -V geometry:"top=2cm, bottom=1.5cm, left=2cm, right=2cm"
+
+sudo apt install -y zsh fonts-powerline
 chsh -s "$(which zsh)" # set zsh default
 
-sudo apt install -y git python3 pip pipx ffmpeg
+sudo apt install -y git python3 pip pipx
 sudo apt install -y gstreamer1.0-plugins-good gstreamer1.0-plugins-bad gstreamer1.0-plugins-ugly gstreamer1.0-libav
-
-sudo apt install -y fontforge fonttools # to process noto cjk sc
 
 curl -fsSL https://deno.land/install.sh | zsh
 
@@ -84,7 +87,8 @@ sudo npm install -g pnpm
 
 pnpm config set registry https://registry.npmmirror.com
 
-pnpm add -g tsx
+pnpm add -g tsx cloc
+pnpm add -g opencode-ai@latest
 
 python3 -m pip config set global.break-system-packages true # simplify: remove meaningless warning for current user.
 
@@ -1143,6 +1147,8 @@ sudo systemctl restart earlyoom
   - xabikos.javascriptsnippets
   - yzhang.markdown-all-in-one
   - ziyasal.vscode-open-in-github
+  - tomoki1207.pdf
+  - janisdd.vscode-edit-csv
 - config appearance
   - view: appearance <!-- things might be changed or nested in different ways -->
     - custom titlebar `off`
@@ -1420,41 +1426,49 @@ sudo systemctl restart earlyoom
 
 <!-- todo: learn on google fonts. find all fonts i love. organize. install. -->
 
-- install fonts
+- install fonts <!-- copy to ~/.local/share/fonts -->
   `repo: fonts`
 - prefer sc for kanji
 
   - replace the font files with sc at first <!-- optimal -->
 
     ```sh
-    # create dirs
-    mkdir -p "$HOME/_/input" "$HOME/_/tmp" "$HOME/_/output"
+    # Define path constants
+    WORK_DIR="$HOME/_"
+    INPUT_DIR="$WORK_DIR/input"
+    TMP_DIR="$WORK_DIR/tmp"
+    OUTPUT_DIR="$WORK_DIR/output"
+    NOTO_FONT_DIR="/usr/share/fonts/opentype/noto"
+    LOCAL_FONT_DIR="$HOME/.local/share/fonts"
 
-    # copy noto fonts to input
-    cp -a /usr/share/fonts/opentype/noto/* "$HOME/_/input/"
+    # Create directories
+    mkdir -p "$INPUT_DIR" "$TMP_DIR" "$OUTPUT_DIR"
 
-    # process each file in input
-    for src in "$HOME/_/input/"*; do
+    # Copy Noto fonts to input
+    cp -a "$NOTO_FONT_DIR"/* "$INPUT_DIR/"
+
+    # Process each file in input
+    for src in "$INPUT_DIR/"*; do
       [ -f "$src" ] || continue
       base="$(basename "$src")"
       ext="${base##*.}"
       ext_lc="$(echo "$ext" | tr '[:upper:]' '[:lower:]')"
 
-      # clear tmp directory
-      rm -rf "$HOME/_/tmp"
-      mkdir -p "$HOME/_/tmp"
+      # Clear tmp directory
+      rm -rf "$TMP_DIR"
+      mkdir -p "$TMP_DIR"
 
       if [ "$ext_lc" = "ttc" ]; then
-        cp "$src" "$HOME/_/tmp/font.ttc"
-        cd "$HOME/_/tmp"
+        cp "$src" "$TMP_DIR/font.ttc"
+        cd "$TMP_DIR"
 
-        # extract TTC to individual TTFs
+        # Extract TTC to individual TTFs
         python3 -c "from fontTools.ttLib.ttCollection import TTCollection; [f.save(f'font_{i}.ttf') for i,f in enumerate(TTCollection('font.ttc'))]"
 
         sc_list=()
         other_list=()
 
-        # read each font name, log it, and separate SC fonts
+        # Read each font name, log it, and separate SC fonts
         for f in font_*.ttf; do
           [ -f "$f" ] || continue
           font_name=$(python3 -c "from fontTools.ttLib import TTFont; import sys; font=TTFont(sys.argv[1]); names=[n.string.decode('utf-16-be') if n.isUnicode() else n.string.decode('latin-1') for n in font['name'].names if n.nameID==1]; print(names[0] if names else '')" "$f")
@@ -1467,38 +1481,43 @@ sudo systemctl restart earlyoom
           fi
         done
 
-        # build ordered python list literal: sc first
+        # Build ordered python list literal: sc first
         pylist=""
         for f in "${sc_list[@]}" "${other_list[@]}"; do
           pylist="$pylist,'$f'"
         done
         pylist=${pylist#,}
 
-        # pack ordered fonts into a new TTC
+        # Pack ordered fonts into a new TTC
         python3 -c "from fontTools.ttLib import TTFont; from fontTools.ttLib.ttCollection import TTCollection; files=[$pylist]; ttc=TTCollection(); ttc.fonts=[TTFont(f) for f in files]; ttc.save('output.ttc')"
 
-        mv -f output.ttc "$HOME/_/output/$base"
-        cd "$HOME/_/input"
+        mv -f output.ttc "$OUTPUT_DIR/$base"
+        cd "$INPUT_DIR"
 
-        rm -rf "$HOME/_/tmp"
-        mkdir -p "$HOME/_/tmp"
+        rm -rf "$TMP_DIR"
+        mkdir -p "$TMP_DIR"
       else
-        # copy non-TTC files unchanged
-        cp -a "$src" "$HOME/_/output/$base"
+        # Copy non-TTC files unchanged
+        cp -a "$src" "$OUTPUT_DIR/$base"
       fi
     done
 
-    # replace originals in system noto directory with sudo
-    sudo cp -a "$HOME/_/output/"* /usr/share/fonts/opentype/noto/
-    sudo fc-cache -f -v /usr/share/fonts/opentype/noto/
+    # Move fonts to local directory
+    mv -f "$OUTPUT_DIR/"* "$LOCAL_FONT_DIR/"
 
-    # cleanup
-    rm -rf "$HOME/_"
+    # Clear system noto directory
+    sudo rm -rf "$NOTO_FONT_DIR/*"
+
+    # Update cache
+    fc-cache -f -v "$LOCAL_FONT_DIR/"
+
+    # Cleanup
+    rm -rf "$WORK_DIR"
     ```
 
   - write a preference <!-- unreliable -->
 
-    - ubuntu <!-- not needed after the optimal brute force font file replacement -->
+    - ubuntu <!-- not needed after the optimal one -->
 
       ```sh
       font=$(cat <<EOF
@@ -1548,7 +1567,7 @@ sudo systemctl restart earlyoom
       # fc-match -s sans:lang=zh # confirm
       ```
 
-    - flatpak <!-- still needed to set fonts -->
+    - flatpak <!-- not needed? -->
 
       ```sh
       APP="org.goldendict.GoldenDict"
@@ -1646,6 +1665,9 @@ sudo systemctl restart earlyoom
       echo
       echo "Done."
       ```
+
+- apply
+  - log out
 
 ## `terminal`
 
@@ -2195,36 +2217,40 @@ zsh -ic 'push'
 ## `goldendict`
 
 - install dictionaries <!-- f3 -->
+  - add
 
-  ```
-  ~ % cd /home/fira/Documents/_/dict
-  ...Documents/_/dict % ls
-  big.mdx
-  "Cambridge Advanced Learner's Dictionary 3th.mdd"
-  "Cambridge Advanced Learner's Dictionary 3th.mdx"
-  "Collins_COBUILD_Advanced_Learner's_Dictinary_8th_edition.mdx"
-  ecd.css
-  En-En-WordNet3_gl_1_0_abrv.dsl
-  En-En-WordNet3_gl_1_0.ann
-  En-En-WordNet3_gl_1_0.bmp
-  En-En-WordNet3_gl_1_0.dsl.dz
-  fmidioms.mdx
-  LongmanDictionaryOfContemporaryEnglish6thEnEn.mdd
-  LongmanDictionaryOfContemporaryEnglish6thEnEn.mdx
-  MacmillanEnEn.mdd
-  MacmillanEnEn.mdx
-  mwaled.mdd
-  mwaled.mdx
-  penguin.mdd
-  penguin.mdx
-  新世纪汉英大.mdx
-  牛津高阶英汉双解词典（第9版）.mdd
-  牛津高阶英汉双解词典（第9版）.mdx
-  现代英汉汉英综合大辞典.mdd
-  现代英汉汉英综合大辞典.mdx
-  ```
+    ```sh
+    ~ % cd /home/fira/Documents/_/dict
+    ...Documents/_/dict % ls
+    big.mdx
+    "Cambridge Advanced Learner's Dictionary 3th.mdd"
+    "Cambridge Advanced Learner's Dictionary 3th.mdx"
+    "Collins_COBUILD_Advanced_Learner's_Dictinary_8th_edition.mdx"
+    ecd.css
+    En-En-WordNet3_gl_1_0_abrv.dsl
+    En-En-WordNet3_gl_1_0.ann
+    En-En-WordNet3_gl_1_0.bmp
+    En-En-WordNet3_gl_1_0.dsl.dz
+    fmidioms.mdx
+    LongmanDictionaryOfContemporaryEnglish6thEnEn.mdd
+    LongmanDictionaryOfContemporaryEnglish6thEnEn.mdx
+    MacmillanEnEn.mdd
+    MacmillanEnEn.mdx
+    mwaled.mdd
+    mwaled.mdx
+    penguin.mdd
+    penguin.mdx
+    新世纪汉英大.mdx
+    牛津高阶英汉双解词典（第9版）.mdd
+    牛津高阶英汉双解词典（第9版）.mdx
+    现代英汉汉英综合大辞典.mdd
+    现代英汉汉英综合大辞典.mdx
+    ```
 
-  <!-- https://mdx.mdict.org -->
+    <!-- https://mdx.mdict.org -->
+
+  - remove
+    - english wikipedia
 
 - simplify
 
@@ -2809,10 +2835,30 @@ sudo apt remove gnome-text-editor # let it auto bind vscode
 ### install
 
 ```sh
+curl https://packages.microsoft.com/keys/microsoft.asc | gpg --dearmor > packages.microsoft.gpg
+sudo install -o root -g root -m 644 packages.microsoft.gpg /usr/share/keyrings/
+sudo sh -c 'echo "deb [arch=amd64 signed-by=/usr/share/keyrings/packages.microsoft.gpg] https://packages.microsoft.com/repos/vscode stable main" > /etc/apt/sources.list.d/vscode.list'
+sudo apt install apt-transport-https
+sudo apt update
+sudo apt install code # code from snap seems incompatible with fcitx5
+
+flatpak install -y flathub com.google.AndroidStudio
+sudo snap install gradle --classic
+sudo apt install -y openjdk-17-jdk
+sudo apt install -y openjdk-21-jdk
+
+sudo apt install -y g++
+sudo snap install cling
+
+sudo apt install -y ghc cabal-install
+
+sudo apt install -y ruby-full
+
 curl -fsSL https://get.docker.com | sudo sh
 
 flatpak install -y flathub dev.mufeed.Wordbook
-flatpak install -y flathub org.goldendict.GoldenDict
+sudo apt install -y goldendict
+# flatpak install -y flathub org.goldendict.GoldenDict # fix font issue
 
 flatpak install -y flathub org.gimp.GIMP
 flatpak install -y flathub org.kde.kolourpaint
@@ -2827,8 +2873,8 @@ flatpak install -y flathub org.blender.Blender
 
 flatpak install -y flathub org.gnome.Weather
 
-sudo snap install foliate # fix fonts access in sandbox. there's nothing wrong with snap. no extra config needed.
-# flatpak install -y flathub com.github.johnfactotum.Foliate
+# sudo snap install foliate # fix fonts access in sandbox. there's nothing wrong with snap. no extra config needed.
+flatpak install -y flathub com.github.johnfactotum.Foliate
 flatpak install -y flathub com.calibre_ebook.calibre # to edit epub
 
 flatpak install -y flathub com.github.finefindus.eyedropper

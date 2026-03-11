@@ -358,7 +358,8 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 ### clannad
 
 - `1` 2026.03.08
-
+- `2` 2026.03.09
+- `3` 2026.03.10
 
 ## gaming
 
@@ -18443,3 +18444,703 @@ vzhibei is taken down by telegram. wtf.
 但这也不算是坏的结果吧.
 
 ---
+
+```
+<img class="style-scope ytd-yoodle-renderer" src="https://www.gstatic.com/youtube/img/promos/2f7d09aec79c62f7601b9a8f27f310615fe8380470e76064bbc5963af5d596be_244x112.webp" alt="Meet the vocal synth community">
+```
+
+---
+
+deepwiki does not auto detect and enable dark mode.
+
+---
+
+innei:
+
+我常常因为在睡觉前没有花完当前 session 中的 quote 而感到焦虑。
+
+(echo: humility's purpose)
+
+---
+
+deepwiki gets stuck. isnt fetching async?
+
+---
+
+on youtube it's just hard to navigate.
+
+it does not cache anything. if you attempt to open anything on the same page and alt left it will load completely again even for a few secs and the recommendation (random) might change.
+
+upd: it actually causes issues. part of the page is updated, part not. (you ctrl click a new vid and alt left before loading)
+
+---
+
+应该是没有测试到的 bug.
+
+```md
+3. 计算  
+$$
+(C_{2024}^0 - C_{2024}^2 + C_{2024}^4 - C_{2024}^6 + \cdots + C_{2024}^{2024})^2
++
+(C_{2024}^1 - C_{2024}^3 + C_{2024}^5 - C_{2024}^7 + \cdots + C_{2024}^{2023})^2
+=
+\underline{\qquad}
+$$
+```
+
+按 ctrl shift i (formatter). 前后渲染不同.
+
+---
+
+i see "markdown: styles" in vscode.
+
+you could add css files via system links.
+
+but why not just follow editor font family?
+
+and, it implies you could not just add font: ..., you have to save into a file.
+
+---
+
+> Welcome to the February 2026 release of Visual Studio Code. This release makes agents practical for longer-running and more complex tasks, giving you more control and visibility, new ways to extend agents, and smarter session management.
+
+???...
+
+agent...
+
+(it inspires me. maybe i should try it. i have money in openrouter. but how... like how could i export and archive things. how could i do things myself, like extract and run one fn from vscode agent.)
+
+i think i could try opencode again?
+
+---
+
+google ai mode: 
+
+> Something went wrong and the content wasn't generated.
+
+cant it continue if my network is down? (like i switch tab right after entering a question)
+
+---
+
+> GPT-5.3 (The "Anti-Cringe" Update): Released in early March 2026, this version focuses on reducing "AI-isms."
+>
+> Tone Overhaul: OpenAI retrained the alignment to remove sycophantic patterns and filler phrases like "Great question!", resulting in a 34% improvement in user preference for tone.
+
+---
+
+> 由于美国政府停止了对我们的资助，自3月21日起，歪脑已停止各平台的更新。如果我们的资金恢复，我们将恢复发布。目前自由亚洲电台普通话网站和社交媒体仍提供有限的新闻更新。感谢您对歪脑和自由亚洲电台的支持与信任。
+
+lol.
+
+---
+
+简体中文开发者就那么些人...
+
+点击一个. 参看其他的.
+
+都在互相 sponsor.
+
+可能就不到 100 个图像...
+
+---
+
+wtf.
+
+```sh
+ ~ % cd                                                                             
+ ~ % cd Documents/_/opensource
+ ...Documents/_/opensource % cd test/hello_world_apk  
+ ~/Documents/_/opensource/test/hello_world_apk
+ % gradle wrapper
+Starting a Gradle Daemon (subsequent builds will be faster)
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+A problem occurred configuring root project 'HelloWorld'.
+> Could not resolve all artifacts for configuration 'classpath'.
+   > Could not resolve androidx.databinding:databinding-compiler-common:7.4.2.
+     Required by:
+         root project : > com.android.tools.build:gradle:7.4.2
+      > Could not resolve androidx.databinding:databinding-compiler-common:7.4.2.
+         > Could not get resource 'https://dl.google.com/dl/android/maven2/androidx/databinding/databinding-compiler-common/7.4.2/databinding-compiler-common-7.4.2.pom'.
+            > Could not GET 'https://dl.google.com/dl/android/maven2/androidx/databinding/databinding-compiler-common/7.4.2/databinding-compiler-common-7.4.2.pom'.
+               > The server may not support the client's requested TLS protocol versions: (TLSv1.2, TLSv1.3). You may need to configure the client to allow other protocols to be used. For more on this, please refer to https://docs.gradle.org/8.14.4/userguide/build_environment.html#sec:gradle_system_properties in the Gradle documentation.
+                  > Remote host terminated the handshake
+   > Could not resolve org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.7.10.
+     Required by:
+         root project : > com.android.tools.build:gradle:7.4.2
+         root project : > com.android.tools.build:gradle:7.4.2 > com.android.tools.build:gradle-settings-api:7.4.2
+         root project : > com.android.tools.build:gradle:7.4.2 > com.android.tools:sdk-common:30.4.2
+         root project : > com.android.tools.build:gradle:7.4.2 > com.android.tools:repository:30.4.2
+         root project : > com.android.tools.build:gradle:7.4.2 > com.android.tools.build:aaptcompiler:7.4.2
+         root project : > com.android.tools.build:gradle:7.4.2 > com.android.tools.analytics-library:shared:30.4.2
+         root project : > com.android.tools.build:gradle:7.4.2 > com.android.tools.lint:lint-model:30.4.2
+         root project : > com.android.tools.build:gradle:7.4.2 > com.android.tools.utp:android-test-plugin-host-retention-proto:30.4.2
+         root project : > com.android.tools.build:gradle:7.4.2 > com.android.tools.build:builder:7.4.2
+         root project : > com.android.tools.build:gradle:7.4.2 > com.android.tools.build:builder-model:7.4.2
+         root project : > com.android.tools.build:gradle:7.4.2 > com.android.tools.build:gradle-api:7.4.2
+         root project : > com.android.tools.build:gradle:7.4.2 > com.android.tools:sdk-common:30.4.2 > com.android.tools:common:30.4.2
+         root project : > com.android.tools.build:gradle:7.4.2 > com.android.tools.build:builder:7.4.2 > com.android.tools.analytics-library:tracker:30.4.2
+         root project : > com.android.tools.build:gradle:7.4.2 > com.android.tools.build:builder:7.4.2 > com.android.tools.build:manifest-merger:30.4.2
+      > Could not resolve org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.7.10.
+         > Could not get resource 'https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.7.10/kotlin-stdlib-jdk8-1.7.10.pom'.
+            > Could not GET 'https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.7.10/kotlin-stdlib-jdk8-1.7.10.pom'.
+               > The server may not support the client's requested TLS protocol versions: (TLSv1.2, TLSv1.3). You may need to configure the client to allow other protocols to be used. For more on this, please refer to https://docs.gradle.org/8.14.4/userguide/build_environment.html#sec:gradle_system_properties in the Gradle documentation.
+                  > Remote host terminated the handshake
+   > Could not resolve commons-io:commons-io:2.4.
+     Required by:
+         root project : > com.android.tools.build:gradle:7.4.2
+      > Could not resolve commons-io:commons-io:2.4.
+         > Could not get resource 'https://repo.maven.apache.org/maven2/commons-io/commons-io/2.4/commons-io-2.4.pom'.
+            > Could not HEAD 'https://repo.maven.apache.org/maven2/commons-io/commons-io/2.4/commons-io-2.4.pom'.
+               > The server may not support the client's requested TLS protocol versions: (TLSv1.2, TLSv1.3). You may need to configure the client to allow other protocols to be used. For more on this, please refer to https://docs.gradle.org/8.14.4/userguide/build_environment.html#sec:gradle_system_properties in the Gradle documentation.
+                  > Remote host terminated the handshake
+   > Could not resolve org.ow2.asm:asm:9.2.
+     Required by:
+         root project : > com.android.tools.build:gradle:7.4.2
+         root project : > com.android.tools.build:gradle:7.4.2 > com.android.tools.lint:lint-typedef-remover:30.4.2
+         root project : > com.android.tools.build:gradle:7.4.2 > org.ow2.asm:asm-util:9.2
+         root project : > com.android.tools.build:gradle:7.4.2 > com.android.tools.build:gradle-api:7.4.2
+         root project : > com.android.tools.build:gradle:7.4.2 > org.ow2.asm:asm-analysis:9.2 > org.ow2.asm:asm-tree:9.2
+      > Could not resolve org.ow2.asm:asm:9.2.
+         > Could not get resource 'https://repo.maven.apache.org/maven2/org/ow2/asm/asm/9.2/asm-9.2.pom'.
+            > Could not HEAD 'https://repo.maven.apache.org/maven2/org/ow2/asm/asm/9.2/asm-9.2.pom'.
+               > The server may not support the client's requested TLS protocol versions: (TLSv1.2, TLSv1.3). You may need to configure the client to allow other protocols to be used. For more on this, please refer to https://docs.gradle.org/8.14.4/userguide/build_environment.html#sec:gradle_system_properties in the Gradle documentation.
+                  > Remote host terminated the handshake
+   > Could not resolve org.ow2.asm:asm-commons:9.2.
+     Required by:
+         root project : > com.android.tools.build:gradle:7.4.2
+         root project : > com.android.tools.build:gradle:7.4.2 > com.android.tools.build:builder:7.4.2
+      > Could not resolve org.ow2.asm:asm-commons:9.2.
+         > Could not get resource 'https://repo.maven.apache.org/maven2/org/ow2/asm/asm-commons/9.2/asm-commons-9.2.pom'.
+            > Could not HEAD 'https://repo.maven.apache.org/maven2/org/ow2/asm/asm-commons/9.2/asm-commons-9.2.pom'.
+               > The server may not support the client's requested TLS protocol versions: (TLSv1.2, TLSv1.3). You may need to configure the client to allow other protocols to be used. For more on this, please refer to https://docs.gradle.org/8.14.4/userguide/build_environment.html#sec:gradle_system_properties in the Gradle documentation.
+                  > Remote host terminated the handshake
+   > Could not resolve org.glassfish.jaxb:jaxb-runtime:2.3.2.
+     Required by:
+         root project : > com.android.tools.build:gradle:7.4.2
+         root project : > com.android.tools.build:gradle:7.4.2 > com.android.tools:sdk-common:30.4.2
+         root project : > com.android.tools.build:gradle:7.4.2 > com.android.tools:sdklib:30.4.2
+         root project : > com.android.tools.build:gradle:7.4.2 > com.android.tools:repository:30.4.2
+      > Could not resolve org.glassfish.jaxb:jaxb-runtime:2.3.2.
+         > Could not parse POM https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-runtime/2.3.2/jaxb-runtime-2.3.2.pom
+            > Could not resolve com.sun.xml.bind.mvn:jaxb-runtime-parent:2.3.2.
+               > Could not resolve com.sun.xml.bind.mvn:jaxb-runtime-parent:2.3.2.
+                  > Could not parse POM https://repo.maven.apache.org/maven2/com/sun/xml/bind/mvn/jaxb-runtime-parent/2.3.2/jaxb-runtime-parent-2.3.2.pom
+                     > Could not resolve com.sun.xml.bind.mvn:jaxb-parent:2.3.2.
+                        > Could not resolve com.sun.xml.bind.mvn:jaxb-parent:2.3.2.
+                           > Could not parse POM https://repo.maven.apache.org/maven2/com/sun/xml/bind/mvn/jaxb-parent/2.3.2/jaxb-parent-2.3.2.pom
+                              > Could not resolve com.sun.xml.bind:jaxb-bom-ext:2.3.2.
+                                 > Could not resolve com.sun.xml.bind:jaxb-bom-ext:2.3.2.
+                                    > Could not get resource 'https://repo.maven.apache.org/maven2/com/sun/xml/bind/jaxb-bom-ext/2.3.2/jaxb-bom-ext-2.3.2.pom'.
+                                       > Could not HEAD 'https://repo.maven.apache.org/maven2/com/sun/xml/bind/jaxb-bom-ext/2.3.2/jaxb-bom-ext-2.3.2.pom'.
+                                          > The server may not support the client's requested TLS protocol versions: (TLSv1.2, TLSv1.3). You may need to configure the client to allow other protocols to be used. For more on this, please refer to https://docs.gradle.org/8.14.4/userguide/build_environment.html#sec:gradle_system_properties in the Gradle documentation.
+                                             > Remote host terminated the handshake
+   > Could not resolve net.sf.jopt-simple:jopt-simple:4.9.
+     Required by:
+         root project : > com.android.tools.build:gradle:7.4.2
+      > Could not resolve net.sf.jopt-simple:jopt-simple:4.9.
+         > Could not get resource 'https://repo.maven.apache.org/maven2/net/sf/jopt-simple/jopt-simple/4.9/jopt-simple-4.9.pom'.
+            > Could not HEAD 'https://repo.maven.apache.org/maven2/net/sf/jopt-simple/jopt-simple/4.9/jopt-simple-4.9.pom'.
+               > The server may not support the client's requested TLS protocol versions: (TLSv1.2, TLSv1.3). You may need to configure the client to allow other protocols to be used. For more on this, please refer to https://docs.gradle.org/8.14.4/userguide/build_environment.html#sec:gradle_system_properties in the Gradle documentation.
+                  > Remote host terminated the handshake
+   > Could not resolve com.google.protobuf:protobuf-java:3.17.2.
+     Required by:
+         root project : > com.android.tools.build:gradle:7.4.2
+         root project : > com.android.tools.build:gradle:7.4.2 > com.android.tools:sdk-common:30.4.2
+         root project : > com.android.tools.build:gradle:7.4.2 > com.android.tools.ddms:ddmlib:30.4.2
+         root project : > com.android.tools.build:gradle:7.4.2 > com.android.tools.build:aapt2-proto:7.4.2-8841542
+         root project : > com.android.tools.build:gradle:7.4.2 > com.android.tools.build:aaptcompiler:7.4.2
+         root project : > com.android.tools.build:gradle:7.4.2 > com.android.tools.utp:android-device-provider-ddmlib-proto:30.4.2
+         root project : > com.android.tools.build:gradle:7.4.2 > com.android.tools.utp:android-device-provider-gradle-proto:30.4.2
+         root project : > com.android.tools.build:gradle:7.4.2 > com.android.tools.utp:android-test-plugin-host-additional-test-output-proto:30.4.2
+         root project : > com.android.tools.build:gradle:7.4.2 > com.android.tools.utp:android-test-plugin-host-coverage-proto:30.4.2
+         root project : > com.android.tools.build:gradle:7.4.2 > com.android.tools.utp:android-test-plugin-host-retention-proto:30.4.2
+         root project : > com.android.tools.build:gradle:7.4.2 > com.android.tools.utp:android-test-plugin-result-listener-gradle-proto:30.4.2
+         root project : > com.android.tools.build:gradle:7.4.2 > com.google.protobuf:protobuf-java-util:3.17.2
+         root project : > com.android.tools.build:gradle:7.4.2 > io.grpc:grpc-protobuf:1.39.0
+         root project : > com.android.tools.build:gradle:7.4.2 > com.android.tools.analytics-library:shared:30.4.2 > com.android.tools.analytics-library:protos:30.4.2
+         root project : > com.android.tools.build:gradle:7.4.2 > com.android.tools.build:builder:7.4.2 > com.android.tools.analytics-library:tracker:30.4.2
+      > Could not resolve com.google.protobuf:protobuf-java:3.17.2.
+         > Could not get resource 'https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.17.2/protobuf-java-3.17.2.pom'.
+            > Could not GET 'https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.17.2/protobuf-java-3.17.2.pom'.
+               > The server may not support the client's requested TLS protocol versions: (TLSv1.2, TLSv1.3). You may need to configure the client to allow other protocols to be used. For more on this, please refer to https://docs.gradle.org/8.14.4/userguide/build_environment.html#sec:gradle_system_properties in the Gradle documentation.
+                  > Remote host terminated the handshake
+   > Could not resolve org.tensorflow:tensorflow-lite-metadata:0.1.0-rc2.
+     Required by:
+         root project : > com.android.tools.build:gradle:7.4.2
+      > Could not resolve org.tensorflow:tensorflow-lite-metadata:0.1.0-rc2.
+         > Could not get resource 'https://repo.maven.apache.org/maven2/org/tensorflow/tensorflow-lite-metadata/0.1.0-rc2/tensorflow-lite-metadata-0.1.0-rc2.pom'.
+            > Could not HEAD 'https://repo.maven.apache.org/maven2/org/tensorflow/tensorflow-lite-metadata/0.1.0-rc2/tensorflow-lite-metadata-0.1.0-rc2.pom'.
+               > The server may not support the client's requested TLS protocol versions: (TLSv1.2, TLSv1.3). You may need to configure the client to allow other protocols to be used. For more on this, please refer to https://docs.gradle.org/8.14.4/userguide/build_environment.html#sec:gradle_system_properties in the Gradle documentation.
+                  > Remote host terminated the handshake
+
+* Try:
+> Run with --stacktrace option to get the stack trace.
+> Run with --info or --debug option to get more log output.
+> Run with --scan to get full insights.
+> Get more help at https://help.gradle.org.
+
+BUILD FAILED in 1m 5s
+ ~/Documents/_/opensource/test/hello_world_apk
+ % gradle wrapper
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+A problem occurred configuring root project 'HelloWorld'.
+> Could not resolve all artifacts for configuration 'classpath'.
+   > Could not resolve org.glassfish.jaxb:jaxb-runtime:2.3.2.
+     Required by:
+         root project : > com.android.tools.build:gradle:7.4.2
+         root project : > com.android.tools.build:gradle:7.4.2 > com.android.tools:sdk-common:30.4.2
+         root project : > com.android.tools.build:gradle:7.4.2 > com.android.tools:sdklib:30.4.2
+         root project : > com.android.tools.build:gradle:7.4.2 > com.android.tools:repository:30.4.2
+         root project : > com.android.tools.build:gradle:7.4.2 > androidx.databinding:databinding-compiler-common:7.4.2
+      > Could not resolve org.glassfish.jaxb:jaxb-runtime:2.3.2.
+         > Could not get resource 'https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-runtime/2.3.2/jaxb-runtime-2.3.2.pom'.
+            > Could not HEAD 'https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-runtime/2.3.2/jaxb-runtime-2.3.2.pom'.
+               > The server may not support the client's requested TLS protocol versions: (TLSv1.2, TLSv1.3). You may need to configure the client to allow other protocols to be used. For more on this, please refer to https://docs.gradle.org/8.14.4/userguide/build_environment.html#sec:gradle_system_properties in the Gradle documentation.
+                  > Remote host terminated the handshake
+
+* Try:
+> Run with --stacktrace option to get the stack trace.
+> Run with --info or --debug option to get more log output.
+> Run with --scan to get full insights.
+> Get more help at https://help.gradle.org.
+
+BUILD FAILED in 8s
+ ~/Documents/_/opensource/test/hello_world_apk
+ % gradle wrapper --gradle-version 7.5.1
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+A problem occurred configuring root project 'HelloWorld'.
+> Could not resolve all artifacts for configuration 'classpath'.
+   > Could not download builder-7.4.2.jar (com.android.tools.build:builder:7.4.2)
+      > Could not get resource 'https://dl.google.com/dl/android/maven2/com/android/tools/build/builder/7.4.2/builder-7.4.2.jar'.
+         > Could not GET 'https://dl.google.com/dl/android/maven2/com/android/tools/build/builder/7.4.2/builder-7.4.2.jar'.
+            > The server may not support the client's requested TLS protocol versions: (TLSv1.2, TLSv1.3). You may need to configure the client to allow other protocols to be used. For more on this, please refer to https://docs.gradle.org/8.14.4/userguide/build_environment.html#sec:gradle_system_properties in the Gradle documentation.
+               > Remote host terminated the handshake
+   > Could not download asm-tree-9.2.jar (org.ow2.asm:asm-tree:9.2)
+      > Could not get resource 'https://repo.maven.apache.org/maven2/org/ow2/asm/asm-tree/9.2/asm-tree-9.2.jar'.
+         > Could not HEAD 'https://repo.maven.apache.org/maven2/org/ow2/asm/asm-tree/9.2/asm-tree-9.2.jar'.
+            > The server may not support the client's requested TLS protocol versions: (TLSv1.2, TLSv1.3). You may need to configure the client to allow other protocols to be used. For more on this, please refer to https://docs.gradle.org/8.14.4/userguide/build_environment.html#sec:gradle_system_properties in the Gradle documentation.
+               > Remote host terminated the handshake
+   > Could not download grpc-core-1.39.0.jar (io.grpc:grpc-core:1.39.0)
+      > Could not get resource 'https://repo.maven.apache.org/maven2/io/grpc/grpc-core/1.39.0/grpc-core-1.39.0.jar'.
+         > Could not GET 'https://repo.maven.apache.org/maven2/io/grpc/grpc-core/1.39.0/grpc-core-1.39.0.jar'.
+            > The server may not support the client's requested TLS protocol versions: (TLSv1.2, TLSv1.3). You may need to configure the client to allow other protocols to be used. For more on this, please refer to https://docs.gradle.org/8.14.4/userguide/build_environment.html#sec:gradle_system_properties in the Gradle documentation.
+               > Remote host terminated the handshake
+   > Could not download grpc-stub-1.39.0.jar (io.grpc:grpc-stub:1.39.0)
+      > Could not get resource 'https://repo.maven.apache.org/maven2/io/grpc/grpc-stub/1.39.0/grpc-stub-1.39.0.jar'.
+         > Could not GET 'https://repo.maven.apache.org/maven2/io/grpc/grpc-stub/1.39.0/grpc-stub-1.39.0.jar'.
+            > The server may not support the client's requested TLS protocol versions: (TLSv1.2, TLSv1.3). You may need to configure the client to allow other protocols to be used. For more on this, please refer to https://docs.gradle.org/8.14.4/userguide/build_environment.html#sec:gradle_system_properties in the Gradle documentation.
+               > Remote host terminated the handshake
+
+* Try:
+> Run with --stacktrace option to get the stack trace.
+> Run with --info or --debug option to get more log output.
+> Run with --scan to get full insights.
+> Get more help at https://help.gradle.org.
+
+BUILD FAILED in 45s
+ ~/Documents/_/opensource/test/hello_world_apk
+ % gradle wrapper --gradle-version 7.5.1 --gradle-distribution-url=https://mirrors.cloud.tencent.com   
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+A problem occurred configuring root project 'HelloWorld'.
+> Could not resolve all artifacts for configuration 'classpath'.
+   > Could not download asm-tree-9.2.jar (org.ow2.asm:asm-tree:9.2)
+      > Could not get resource 'https://repo.maven.apache.org/maven2/org/ow2/asm/asm-tree/9.2/asm-tree-9.2.jar'.
+         > Could not HEAD 'https://repo.maven.apache.org/maven2/org/ow2/asm/asm-tree/9.2/asm-tree-9.2.jar'.
+            > The server may not support the client's requested TLS protocol versions: (TLSv1.2, TLSv1.3). You may need to configure the client to allow other protocols to be used. For more on this, please refer to https://docs.gradle.org/8.14.4/userguide/build_environment.html#sec:gradle_system_properties in the Gradle documentation.
+               > Remote host terminated the handshake
+   > Could not download grpc-core-1.39.0.jar (io.grpc:grpc-core:1.39.0)
+      > Could not get resource 'https://repo.maven.apache.org/maven2/io/grpc/grpc-core/1.39.0/grpc-core-1.39.0.jar'.
+         > Could not GET 'https://repo.maven.apache.org/maven2/io/grpc/grpc-core/1.39.0/grpc-core-1.39.0.jar'.
+            > The server may not support the client's requested TLS protocol versions: (TLSv1.2, TLSv1.3). You may need to configure the client to allow other protocols to be used. For more on this, please refer to https://docs.gradle.org/8.14.4/userguide/build_environment.html#sec:gradle_system_properties in the Gradle documentation.
+               > Remote host terminated the handshake
+
+* Try:
+> Run with --stacktrace option to get the stack trace.
+> Run with --info or --debug option to get more log output.
+> Run with --scan to get full insights.
+> Get more help at https://help.gradle.org.
+
+BUILD FAILED in 12s
+ ~/Documents/_/opensource/test/hello_world_apk
+ % gradle wrapper --gradle-version 7.5.1                                                            
+> Task :wrapper FAILED
+
+[Incubating] Problems report is available at: file:///home/fira/Documents/_/opensource/test/hello_world_apk/build/reports/problems/problems-report.html
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Execution failed for task ':wrapper'.
+> Test of distribution url https://services.gradle.org/distributions/gradle-7.5.1-bin.zip failed. Please check the values set with --gradle-distribution-url and --gradle-version.
+
+* Try:
+> Run with --stacktrace option to get the stack trace.
+> Run with --info or --debug option to get more log output.
+> Run with --scan to get full insights.
+> Get more help at https://help.gradle.org.
+
+Deprecated Gradle features were used in this build, making it incompatible with Gradle 9.0.
+
+You can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.
+
+For more on this, please refer to https://docs.gradle.org/8.14.4/userguide/command_line_interface.html#sec:command_line_warnings in the Gradle documentation.
+
+BUILD FAILED in 15s
+1 actionable task: 1 executed
+ ~/Documents/_/opensource/test/hello_world_apk
+ % gradle wrapper --gradle-version 7.5.1
+
+[Incubating] Problems report is available at: file:///home/fira/Documents/_/opensource/test/hello_world_apk/build/reports/problems/problems-report.html
+
+Deprecated Gradle features were used in this build, making it incompatible with Gradle 9.0.
+
+You can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.
+
+For more on this, please refer to https://docs.gradle.org/8.14.4/userguide/command_line_interface.html#sec:command_line_warnings in the Gradle documentation.
+
+BUILD SUCCESSFUL in 4s
+1 actionable task: 1 executed
+```
+
+i run the same command several times. it sometimes fail, sometimes succeed.
+
+i think my network is working fine.
+
+```sh
+ ~/Documents/_/opensource/test/hello_world_apk
+ % gradle wrapper --gradle-version 8.14.4 && ./gradlew assembleDebug
+> Task :wrapper FAILED
+
+[Incubating] Problems report is available at: file:///home/fira/Documents/_/opensource/test/hello_world_apk/build/reports/problems/problems-report.html
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Execution failed for task ':wrapper'.
+> Test of distribution url https://services.gradle.org/distributions/gradle-8.14.4-bin.zip failed. Please check the values set with --gradle-distribution-url and --gradle-version.
+
+* Try:
+> Run with --stacktrace option to get the stack trace.
+> Run with --info or --debug option to get more log output.
+> Run with --scan to get full insights.
+> Get more help at https://help.gradle.org.
+
+Deprecated Gradle features were used in this build, making it incompatible with Gradle 9.0.
+
+You can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.
+
+For more on this, please refer to https://docs.gradle.org/8.14.4/userguide/command_line_interface.html#sec:command_line_warnings in the Gradle documentation.
+
+BUILD FAILED in 7s
+1 actionable task: 1 executed
+ ~/Documents/_/opensource/test/hello_world_apk
+ % gradle wrapper --gradle-version 8.14.4 && ./gradlew assembleDebug
+
+[Incubating] Problems report is available at: file:///home/fira/Documents/_/opensource/test/hello_world_apk/build/reports/problems/problems-report.html
+
+Deprecated Gradle features were used in this build, making it incompatible with Gradle 9.0.
+
+You can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.
+
+For more on this, please refer to https://docs.gradle.org/8.14.4/userguide/command_line_interface.html#sec:command_line_warnings in the Gradle documentation.
+
+BUILD SUCCESSFUL in 3s
+1 actionable task: 1 executed
+Downloading https://services.gradle.org/distributions/gradle-8.14.4-bin.zip
+
+Exception in thread "main" javax.net.ssl.SSLHandshakeException: Remote host terminated the handshake
+        at java.base/sun.security.ssl.SSLSocketImpl.handleEOF(SSLSocketImpl.java:1714)
+        at java.base/sun.security.ssl.SSLSocketImpl.decode(SSLSocketImpl.java:1514)
+        at java.base/sun.security.ssl.SSLSocketImpl.readHandshakeRecord(SSLSocketImpl.java:1421)
+        at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:455)
+        at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:426)
+        at java.base/sun.net.www.protocol.https.HttpsClient.afterConnect(HttpsClient.java:586)
+        at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:187)
+        at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1705)
+        at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1629)
+        at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:223)
+        at org.gradle.wrapper.Install.forceFetch(SourceFile:2)
+        at org.gradle.wrapper.Install$1.call(SourceFile:8)
+        at org.gradle.wrapper.GradleWrapperMain.main(SourceFile:67)
+Caused by: java.io.EOFException: SSL peer shut down incorrectly
+        at java.base/sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:494)
+        at java.base/sun.security.ssl.SSLSocketInputRecord.readHeader(SSLSocketInputRecord.java:483)
+        at java.base/sun.security.ssl.SSLSocketInputRecord.decode(SSLSocketInputRecord.java:160)
+        at java.base/sun.security.ssl.SSLTransport.decode(SSLTransport.java:111)
+        at java.base/sun.security.ssl.SSLSocketImpl.decode(SSLSocketImpl.java:1506)
+        ... 11 more
+ ~/Documents/_/opensource/test/hello_world_apk
+ % gradle wrapper --gradle-version 8.14.4 && ./gradlew assembleDebug
+
+[Incubating] Problems report is available at: file:///home/fira/Documents/_/opensource/test/hello_world_apk/build/reports/problems/problems-report.html
+
+Deprecated Gradle features were used in this build, making it incompatible with Gradle 9.0.
+
+You can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.
+
+For more on this, please refer to https://docs.gradle.org/8.14.4/userguide/command_line_interface.html#sec:command_line_warnings in the Gradle documentation.
+
+BUILD SUCCESSFUL in 679ms
+1 actionable task: 1 up-to-date
+Downloading https://services.gradle.org/distributions/gradle-8.14.4-bin.zip
+.............10%.............20%.............30%.............40%.............50%.............60%.............70%.............80%.............90%..............100%
+Starting a Gradle Daemon, 1 incompatible Daemon could not be reused, use --status for details
+
+[Incubating] Problems report is available at: file:///home/fira/Documents/_/opensource/test/hello_world_apk/build/reports/problems/problems-report.html
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Could not determine the dependencies of task ':app:compileDebugJavaWithJavac'.
+> SDK location not found. Define a valid SDK location with an ANDROID_HOME environment variable or by setting the sdk.dir path in your project's local properties file at '/home/fira/Documents/_/opensource/test/hello_world_apk/local.properties'.
+
+* Try:
+> Run with --stacktrace option to get the stack trace.
+> Run with --info or --debug option to get more log output.
+> Run with --scan to get full insights.
+> Get more help at https://help.gradle.org.
+
+Deprecated Gradle features were used in this build, making it incompatible with Gradle 9.0.
+
+You can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.
+
+For more on this, please refer to https://docs.gradle.org/8.14.4/userguide/command_line_interface.html#sec:command_line_warnings in the Gradle documentation.
+
+BUILD FAILED in 3m 44s
+ ~/Documents/_/opensource/test/hello_world_apk
+ % gradle wrapper --gradle-version 8.14.4 && ./gradlew assembleDebug
+
+[Incubating] Problems report is available at: file:///home/fira/Documents/_/opensource/test/hello_world_apk/build/reports/problems/problems-report.html
+
+Deprecated Gradle features were used in this build, making it incompatible with Gradle 9.0.
+
+You can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.
+
+For more on this, please refer to https://docs.gradle.org/8.14.4/userguide/command_line_interface.html#sec:command_line_warnings in the Gradle documentation.
+
+BUILD SUCCESSFUL in 783ms
+1 actionable task: 1 up-to-date
+
+[Incubating] Problems report is available at: file:///home/fira/Documents/_/opensource/test/hello_world_apk/build/reports/problems/problems-report.html
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Could not determine the dependencies of task ':app:compileDebugJavaWithJavac'.
+> SDK location not found. Define a valid SDK location with an ANDROID_HOME environment variable or by setting the sdk.dir path in your project's local properties file at '/home/fira/Documents/_/opensource/test/hello_world_apk/local.properties'.
+
+* Try:
+> Run with --stacktrace option to get the stack trace.
+> Run with --info or --debug option to get more log output.
+> Run with --scan to get full insights.
+> Get more help at https://help.gradle.org.
+
+Deprecated Gradle features were used in this build, making it incompatible with Gradle 9.0.
+
+You can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.
+
+For more on this, please refer to https://docs.gradle.org/8.14.4/userguide/command_line_interface.html#sec:command_line_warnings in the Gradle documentation.
+
+BUILD FAILED in 930ms
+```
+
+upd
+
+```sh
+ ~/Documents/_/opensource/test/hello_world_apk
+ % ( J=$(command -v javac 2>/dev/null || true); if [ -n "$J" ]; then JAVA_HOME="$(dirname "$(dirname "$(readlink -f "$J")")")"; echo "Using JAVA_HOME=$JAVA_HOME"; ./gradlew -Dorg.gradle.java.home="$JAVA_HOME" assembleDebug; else for d in /usr/lib/jvm/*; do [ -x "$d/bin/javac" ] && { JAVA_HOME="$d"; break; } done; if [ -n "$JAVA_HOME" ]; then echo "Using JAVA_HOME=$JAVA_HOME"; ./gradlew -Dorg.gradle.java.home="$JAVA_HOME" assembleDebug; else echo "No JDK with javac found. Install one (example): sudo apt update && sudo apt install -y openjdk-17-jdk"; exit 1; fi; fi )
+Using JAVA_HOME=/usr/lib/jvm/java-11-openjdk-amd64
+Starting a Gradle Daemon, 2 incompatible Daemons could not be reused, use --status for details
+> Task :app:compileDebugJavaWithJavac FAILED
+
+[Incubating] Problems report is available at: file:///home/fira/Documents/_/opensource/test/hello_world_apk/build/reports/problems/problems-report.html
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Execution failed for task ':app:compileDebugJavaWithJavac'.
+> Could not resolve all files for configuration ':app:debugCompileClasspath'.
+   > Failed to transform kotlin-stdlib-jdk7-1.6.0.jar (org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.6.0) to match attributes {artifactType=android-classes-jar, org.gradle.category=library, org.gradle.libraryelements=jar, org.gradle.status=release, org.gradle.usage=java-api}.
+      > Could not download kotlin-stdlib-jdk7-1.6.0.jar (org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.6.0)
+         > Could not get resource 'https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.6.0/kotlin-stdlib-jdk7-1.6.0.jar'.
+            > Could not GET 'https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.6.0/kotlin-stdlib-jdk7-1.6.0.jar'.
+               > The server may not support the client's requested TLS protocol versions: (TLSv1.2, TLSv1.3). You may need to configure the client to allow other protocols to be used. For more on this, please refer to https://docs.gradle.org/8.14.4/userguide/build_environment.html#sec:gradle_system_properties in the Gradle documentation.
+                  > Remote host terminated the handshake
+
+* Try:
+> Run with --stacktrace option to get the stack trace.
+> Run with --info or --debug option to get more log output.
+> Run with --scan to get full insights.
+> Get more help at https://help.gradle.org.
+
+Deprecated Gradle features were used in this build, making it incompatible with Gradle 9.0.
+
+You can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.
+
+For more on this, please refer to https://docs.gradle.org/8.14.4/userguide/command_line_interface.html#sec:command_line_warnings in the Gradle documentation.
+
+BUILD FAILED in 13s
+13 actionable tasks: 1 executed, 12 up-to-date
+ ~/Documents/_/opensource/test/hello_world_apk
+ % ( J=$(command -v javac 2>/dev/null || true); if [ -n "$J" ]; then JAVA_HOME="$(dirname "$(dirname "$(readlink -f "$J")")")"; echo "Using JAVA_HOME=$JAVA_HOME"; ./gradlew -Dorg.gradle.java.home="$JAVA_HOME" assembleDebug; else for d in /usr/lib/jvm/*; do [ -x "$d/bin/javac" ] && { JAVA_HOME="$d"; break; } done; if [ -n "$JAVA_HOME" ]; then echo "Using JAVA_HOME=$JAVA_HOME"; ./gradlew -Dorg.gradle.java.home="$JAVA_HOME" assembleDebug; else echo "No JDK with javac found. Install one (example): sudo apt update && sudo apt install -y openjdk-17-jdk"; exit 1; fi; fi )
+Using JAVA_HOME=/usr/lib/jvm/java-11-openjdk-amd64
+> Task :app:compileDebugJavaWithJavac FAILED
+
+[Incubating] Problems report is available at: file:///home/fira/Documents/_/opensource/test/hello_world_apk/build/reports/problems/problems-report.html
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Execution failed for task ':app:compileDebugJavaWithJavac'.
+> Could not resolve all files for configuration ':app:debugCompileClasspath'.
+   > Failed to transform kotlin-stdlib-jdk7-1.6.0.jar (org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.6.0) to match attributes {artifactType=android-classes-jar, org.gradle.category=library, org.gradle.libraryelements=jar, org.gradle.status=release, org.gradle.usage=java-api}.
+      > Could not download kotlin-stdlib-jdk7-1.6.0.jar (org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.6.0)
+         > Could not get resource 'https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.6.0/kotlin-stdlib-jdk7-1.6.0.jar'.
+            > Could not GET 'https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.6.0/kotlin-stdlib-jdk7-1.6.0.jar'.
+               > The server may not support the client's requested TLS protocol versions: (TLSv1.2, TLSv1.3). You may need to configure the client to allow other protocols to be used. For more on this, please refer to https://docs.gradle.org/8.14.4/userguide/build_environment.html#sec:gradle_system_properties in the Gradle documentation.
+                  > Remote host terminated the handshake
+
+* Try:
+> Run with --stacktrace option to get the stack trace.
+> Run with --info or --debug option to get more log output.
+> Run with --scan to get full insights.
+> Get more help at https://help.gradle.org.
+
+Deprecated Gradle features were used in this build, making it incompatible with Gradle 9.0.
+
+You can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.
+
+For more on this, please refer to https://docs.gradle.org/8.14.4/userguide/command_line_interface.html#sec:command_line_warnings in the Gradle documentation.
+
+BUILD FAILED in 6s
+13 actionable tasks: 1 executed, 12 up-to-date
+ ~/Documents/_/opensource/test/hello_world_apk
+ % ( J=$(command -v javac 2>/dev/null || true); if [ -n "$J" ]; then JAVA_HOME="$(dirname "$(dirname "$(readlink -f "$J")")")"; echo "Using JAVA_HOME=$JAVA_HOME"; ./gradlew -Dorg.gradle.java.home="$JAVA_HOME" assembleDebug; else for d in /usr/lib/jvm/*; do [ -x "$d/bin/javac" ] && { JAVA_HOME="$d"; break; } done; if [ -n "$JAVA_HOME" ]; then echo "Using JAVA_HOME=$JAVA_HOME"; ./gradlew -Dorg.gradle.java.home="$JAVA_HOME" assembleDebug; else echo "No JDK with javac found. Install one (example): sudo apt update && sudo apt install -y openjdk-17-jdk"; exit 1; fi; fi )
+Using JAVA_HOME=/usr/lib/jvm/java-17-openjdk-amd64
+Starting a Gradle Daemon, 3 incompatible Daemons could not be reused, use --status for details
+> Task :app:mergeDebugJavaResource FAILED
+
+[Incubating] Problems report is available at: file:///home/fira/Documents/_/opensource/test/hello_world_apk/build/reports/problems/problems-report.html
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Execution failed for task ':app:mergeDebugJavaResource'.
+> Could not resolve all files for configuration ':app:debugRuntimeClasspath'.
+   > Failed to transform listenablefuture-1.0.jar (com.google.guava:listenablefuture:1.0) to match attributes {artifactType=android-java-res, org.gradle.category=library, org.gradle.libraryelements=jar, org.gradle.status=release, org.gradle.usage=java-runtime}.
+      > Could not download listenablefuture-1.0.jar (com.google.guava:listenablefuture:1.0)
+         > Could not get resource 'https://repo.maven.apache.org/maven2/com/google/guava/listenablefuture/1.0/listenablefuture-1.0.jar'.
+            > Could not GET 'https://repo.maven.apache.org/maven2/com/google/guava/listenablefuture/1.0/listenablefuture-1.0.jar'.
+               > The server may not support the client's requested TLS protocol versions: (TLSv1.2, TLSv1.3). You may need to configure the client to allow other protocols to be used. For more on this, please refer to https://docs.gradle.org/8.14.4/userguide/build_environment.html#sec:gradle_system_properties in the Gradle documentation.
+                  > Remote host terminated the handshake
+
+* Try:
+> Run with --stacktrace option to get the stack trace.
+> Run with --info or --debug option to get more log output.
+> Run with --scan to get full insights.
+> Get more help at https://help.gradle.org.
+
+Deprecated Gradle features were used in this build, making it incompatible with Gradle 9.0.
+
+You can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.
+
+For more on this, please refer to https://docs.gradle.org/8.14.4/userguide/command_line_interface.html#sec:command_line_warnings in the Gradle documentation.
+
+BUILD FAILED in 24s
+17 actionable tasks: 2 executed, 15 up-to-date
+ ~/Documents/_/opensource/test/hello_world_apk
+ % ( J=$(command -v javac 2>/dev/null || true); if [ -n "$J" ]; then JAVA_HOME="$(dirname "$(dirname "$(readlink -f "$J")")")"; echo "Using JAVA_HOME=$JAVA_HOME"; ./gradlew -Dorg.gradle.java.home="$JAVA_HOME" assembleDebug; else for d in /usr/lib/jvm/*; do [ -x "$d/bin/javac" ] && { JAVA_HOME="$d"; break; } done; if [ -n "$JAVA_HOME" ]; then echo "Using JAVA_HOME=$JAVA_HOME"; ./gradlew -Dorg.gradle.java.home="$JAVA_HOME" assembleDebug; else echo "No JDK with javac found. Install one (example): sudo apt update && sudo apt install -y openjdk-17-jdk"; exit 1; fi; fi )
+Using JAVA_HOME=/usr/lib/jvm/java-17-openjdk-amd64
+
+[Incubating] Problems report is available at: file:///home/fira/Documents/_/opensource/test/hello_world_apk/build/reports/problems/problems-report.html
+
+Deprecated Gradle features were used in this build, making it incompatible with Gradle 9.0.
+
+You can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.
+
+For more on this, please refer to https://docs.gradle.org/8.14.4/userguide/command_line_interface.html#sec:command_line_warnings in the Gradle documentation.
+
+BUILD SUCCESSFUL in 25s
+29 actionable tasks: 13 executed, 16 up-to-date
+```
+
+upd
+
+```sh
+ ~/Documents/_/opensource/test/hello_world_apk
+ % JAVA_HOME=/usr/lib/jvm/java-17-openjdk-amd64 ./gradlew clean assembleDebug
+> Task :app:processDebugResources FAILED
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Execution failed for task ':app:processDebugResources'.
+> A failure occurred while executing com.android.build.gradle.internal.res.LinkApplicationAndroidResourcesTask$TaskAction
+   > Android resource linking failed
+     /home/fira/Documents/_/opensource/test/hello_world_apk/app/build/intermediates/packaged_manifests/debug/AndroidManifest.xml:17: error: resource mipmap/ic_launcher (aka com.example.helloworld:mipmap/ic_launcher) not found.
+     /home/fira/Documents/_/opensource/test/hello_world_apk/app/build/intermediates/packaged_manifests/debug/AndroidManifest.xml:17: error: resource mipmap/ic_launcher_round (aka com.example.helloworld:mipmap/ic_launcher_round) not found.
+     error: failed processing manifest.
+
+
+* Try:
+> Run with --stacktrace option to get the stack trace.
+> Run with --info or --debug option to get more log output.
+> Run with --scan to get full insights.
+> Get more help at https://help.gradle.org.
+
+BUILD FAILED in 2s
+25 actionable tasks: 25 executed
+ ~/Documents/_/opensource/test/hello_world_apk
+ % JAVA_HOME=/usr/lib/jvm/java-17-openjdk-amd64 ./gradlew clean assembleDebug
+> Task :app:compileDebugKotlin FAILED
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Execution failed for task ':app:compileDebugKotlin'.
+> Could not resolve all files for configuration ':app:kotlinCompilerClasspath'.
+   > Could not resolve org.jetbrains.kotlin:kotlin-reflect:1.7.21.
+     Required by:
+         project :app > org.jetbrains.kotlin:kotlin-compiler-embeddable:1.7.21
+      > Could not resolve org.jetbrains.kotlin:kotlin-reflect:1.7.21.
+         > Could not get resource 'https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-reflect/1.7.21/kotlin-reflect-1.7.21.pom'.
+            > Could not GET 'https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-reflect/1.7.21/kotlin-reflect-1.7.21.pom'.
+               > The server may not support the client's requested TLS protocol versions: (TLSv1.2, TLSv1.3). You may need to configure the client to allow other protocols to be used. For more on this, please refer to https://docs.gradle.org/8.6/userguide/build_environment.html#sec:gradle_system_properties in the Gradle documentation.
+                  > Remote host terminated the handshake
+
+* Try:
+> Run with --stacktrace option to get the stack trace.
+> Run with --info or --debug option to get more log output.
+> Run with --scan to get full insights.
+> Get more help at https://help.gradle.org.
+
+BUILD FAILED in 12s
+26 actionable tasks: 26 executed
+ ~/Documents/_/opensource/test/hello_world_apk
+ % JAVA_HOME=/usr/lib/jvm/java-17-openjdk-amd64 ./gradlew clean assembleDebug
+
+BUILD SUCCESSFUL in 15s
+31 actionable tasks: 31 executed
+ ~/Documents/_/opensource/test/hello_world_apk
+ % adb install -r app/build/outputs/apk/debug/app-debug.apk                  
+adb shell am start -n com.example.helloworld/.MainActivity
+Performing Streamed Install
+Success
+Starting: Intent { cmp=com.example.helloworld/.MainActivity }
+```
+
+---
+
+

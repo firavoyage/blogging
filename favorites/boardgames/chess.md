@@ -814,4 +814,55 @@
 
 ---
 
+[Event "rated rapid game"]
+[Site "https://lichess.org/v09ETSqT"]
+[Date "2026.03.09"]
+[Round "-"]
+[White "firahq"]
+[Black "LeishaRanka"]
+[Result "0-1"]
+[GameId "v09ETSqT"]
+[UTCDate "2026.03.09"]
+[UTCTime "13:09:53"]
+[WhiteElo "959"]
+[BlackElo "903"]
+[WhiteRatingDiff "-20"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C49"]
+[Opening "Four Knights Game: Spanish Variation, Double Spanish"]
+[Termination "Time forfeit"]
+[Annotator "lichess.org"]
+
+1. e4 { [%clk 0:10:00] } 1... e5 { [%clk 0:10:00] } 2. Nf3 { [%clk 0:10:03] } 2... Nc6 { [%clk 0:10:03] } 3. Nc3 { [%clk 0:10:07] } 3... Nf6 { [%clk 0:10:03] } 4. Bb5 { [%clk 0:10:07] } 4... Bb4 { [%clk 0:10:06] } { C49 Four Knights Game: Spanish Variation, Double Spanish } 5. Bxc6 { [%clk 0:09:42] } 5... dxc6 { [%clk 0:10:03] } 6. d4 { [%clk 0:09:37] } 6... exd4 { [%clk 0:10:04] } 7. Nxd4 { [%clk 0:09:40] } 7... Nxe4 { [%clk 0:10:06] } 8. O-O { [%clk 0:09:19] } 8... Nxc3 { [%clk 0:10:02] } 9. Qe1+ { [%clk 0:08:54] } 9... Kf8 { [%clk 0:09:32] } 10. bxc3 { [%clk 0:08:42] } 10... Qxd4 { [%clk 0:09:18] } 11. cxd4 { [%clk 0:07:20] } 11... Bxe1 { [%clk 0:09:20] } 12. Rxe1 { [%clk 0:07:23] } 12... Be6 { [%clk 0:09:17] } 13. Bf4 { [%clk 0:06:54] } 13... Rc8 { [%clk 0:09:10] } 14. a4 { [%clk 0:05:59] } 14... Ke7 { [%clk 0:09:04] } 15. Rab1 { [%clk 0:05:01] } 15... Rhd8 { [%clk 0:08:59] } 16. c3 { [%clk 0:04:54] } 16... Kf8 { [%clk 0:08:59] } 17. Rxb7 { [%clk 0:04:50] } 17... h6 { [%clk 0:08:45] } 18. Rxa7 { [%clk 0:04:43] } 18... Ra8 { [%clk 0:08:48] } 19. Bxc7 { [%clk 0:03:56] } 19... Rxa7 { [%clk 0:08:46] } 20. Bxd8 { [%clk 0:03:59] } 20... Rxa4 { [%clk 0:08:49] } 21. h3 { [%clk 0:03:33] } 21... Ra3 { [%clk 0:08:50] } 22. Rc1 { [%clk 0:03:30] } 22... Kg8 { [%clk 0:08:39] } 23. g4 { [%clk 0:03:23] } 23... Bd5 { [%clk 0:08:12] } 24. f4 { [%clk 0:03:05] } 24... Ra2 { [%clk 0:07:40] } 25. c4 { [%clk 0:02:34] } 25... Be6 { [%clk 0:07:22] } 26. c5 { [%clk 0:02:25] } 26... Rd2 { [%clk 0:07:07] } 27. f5 { [%clk 0:01:42] } 27... Bd5 { [%clk 0:07:06] } 28. f6 { [%clk 0:01:01] } 28... g6 { [%clk 0:07:00] } 29. Rb1 { [%clk 0:00:14] } 29... Rg2+ { [%clk 0:06:47] } 30. Kf1 { [%clk 0:00:16] } 30... Rh2 { [%clk 0:06:22] } 31. Re1 { [%clk 0:00:08] } 31... Bg2+ { [%clk 0:06:09] } 32. Kg1 { [%clk 0:00:07] } 32... Rh1+ { [%clk 0:06:12] } 33. Kxg2 { [%clk 0:00:11] } 33... Rxe1 { [%clk 0:06:15] } 34. d5 { [%clk 0:00:14] } 34... cxd5 { [%clk 0:06:18] } 35. c6 { [%clk 0:00:15] } 35... Re8 { [%clk 0:06:12] } 36. Ba5 { [%clk 0:00:10] } 36... Rc8 { [%clk 0:06:12] } 37. c7 { [%clk 0:00:14] } 37... Kf8 { [%clk 0:06:08] } 38. Kf3 { [%clk 0:00:16] } 38... Ke8 { [%clk 0:06:12] } 39. Ke3 { [%clk 0:00:18] } 39... Kd7 { [%clk 0:06:16] } 40. Kd4 { [%clk 0:00:20] } 40... Ke6 { [%clk 0:06:20] } 41. h4 { [%clk 0:00:09] } 41... g5 { [%clk 0:06:13] } { Black wins on time. } 0-1
+
+---
+
+[Event "rated rapid game"]
+[Site "https://lichess.org/rw74nQum"]
+[Date "2026.03.09"]
+[Round "-"]
+[White "nataliakutateladze"]
+[Black "firahq"]
+[Result "0-1"]
+[GameId "rw74nQum"]
+[UTCDate "2026.03.09"]
+[UTCTime "13:41:00"]
+[WhiteElo "1049"]
+[BlackElo "939"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+22"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C26"]
+[Opening "Vienna Game: Stanley Variation, Reversed Spanish"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. e4 { [%clk 0:10:00] } 1... e5 { [%clk 0:10:00] } 2. Bc4 { [%clk 0:10:04] } 2... Nf6 { [%clk 0:09:58] } 3. Nc3 { [%clk 0:10:06] } 3... Bb4 { [%clk 0:09:37] } { C26 Vienna Game: Stanley Variation, Reversed Spanish } 4. Nf3 { [%clk 0:10:11] } 4... Bxc3 { [%clk 0:09:15] } 5. bxc3 { [%clk 0:10:12] } 5... d5 { [%clk 0:09:14] } 6. exd5 { [%clk 0:10:16] } 6... Nxd5 { [%clk 0:09:18] } 7. Nxe5 { [%clk 0:10:10] } 7... Be6 { [%clk 0:07:54] } 8. O-O { [%clk 0:10:10] } 8... Nc6 { [%clk 0:06:38] } 9. a3 { [%clk 0:10:10] } 9... Nxe5 { [%clk 0:06:33] } 10. Bxd5 { [%clk 0:10:01] } 10... Qxd5 { [%clk 0:06:25] } 11. d4 { [%clk 0:09:57] } 11... Ng6 { [%clk 0:06:06] } 12. Qf3 { [%clk 0:09:54] } 12... Qxf3 { [%clk 0:04:55] } 13. gxf3 { [%clk 0:09:55] } 13... Nh4 { [%clk 0:04:44] } 14. Re1 { [%clk 0:09:56] } 14... Nxf3+ { [%clk 0:04:47] } 15. Kf1 { [%clk 0:09:57] } 15... Nxe1 { [%clk 0:04:32] } 16. Kxe1 { [%clk 0:10:01] } 16... O-O-O { [%clk 0:04:28] } 17. Bf4 { [%clk 0:10:06] } 17... Bf5 { [%clk 0:04:21] } 18. Bg5 { [%clk 0:10:06] } 18... f6 { [%clk 0:04:23] } 19. Bf4 { [%clk 0:10:08] } 19... Bxc2 { [%clk 0:04:26] } 20. Rc1 { [%clk 0:10:11] } 20... Be4 { [%clk 0:04:24] } 21. Kf1 { [%clk 0:10:13] } 21... Rhe8 { [%clk 0:04:23] } 22. Re1 { [%clk 0:10:15] } 22... Bd3+ { [%clk 0:04:20] } 23. Kg1 { [%clk 0:10:18] } 23... Rxe1+ { [%clk 0:04:23] } { White resigns. } 0-1
+
+
+
+
 
