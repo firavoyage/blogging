@@ -6,6 +6,8 @@ $fira$ `elegance`
 
 <!-- animated coming-of-age romantic fantasy adventure film -->
 
+<!-- stand w/ f. -->
+
 > $welcome \space to \space hotel \space california$
 
 > $lucky \space \text{☆} \space star!$
@@ -173,7 +175,7 @@ $fira$ `elegance`
     - q.ai
     - re-xyr dayli.ly
     - rea1donandtrump rene.wang detail.design ygeeker.com
-    - ryokun6 ryo.lu work.ryo.lu os.ryo.lu soundboard.ryo.lu
+    - ryokun6 ryo.lu os.ryo.lu work.ryo.lu soundboard.ryo.lu
     - saeziae estela.moe estela.moe/drawer @sz@catcatnya.com
     - sdw sdw.space
     - shadcn shadcn.com
@@ -205,6 +207,7 @@ $fira$ `elegance`
     - elleflorio florio.dev
     - eryouhao fehey.com gridea.dev flodo.today minttr.com
     - gaearon dan abramov overreacted.io
+    - geekerwan1024 zixiiu socpk.com
     - gorvgoyl gourav.io gourav.io/clone-wars
     - hakadao hakadao.cc bewlybewly
     - haoel coolshell coolshell.cn
@@ -227,6 +230,7 @@ $fira$ `elegance`
     - leon7hao loro.dev lody.ai
     - lexrus lex.sh
     - lightvector katago
+    - linyilyi
     - lionleaf dwitter.net
     - luoling8192 luoling.moe airi.moeru.ai
     - luvletter2333 haruhi_smith nekox nagramx haruhi_channel
@@ -271,6 +275,7 @@ $fira$ `elegance`
     - jiangyy jiang yanyan jyywiki.cn
     - kkksc03 luogu k.luogu.org
     - leerob leerob.com cursor.com
+    - liyupi yupi.icu codefather.cn yuyuanweb.com
     - matrix67 matrix67.com matrix67.itch.io localhost_8080 localhost-8080.com
     - menci lcmenci men.ci loj.ac oi.wiki chiyuki0325 chyk.ink
     - nayuki nayuki.io
@@ -283,6 +288,7 @@ $fira$ `elegance`
     - shiffman thecodingtrain.com
     - sinyalee sinyalee.com alpha-star-research.com
     - su dekuang zju
+    - WhereIsHeroFrom
     - whynottv1999 tairanhe.com
     - yu ming shu zhihu qed.moe yaru.io asaka.moe
     - yxc acwing.com
@@ -291,7 +297,6 @@ $fira$ `elegance`
     - cdtchinese chinadigitaltimes.net
     - chai jing
     - feng ge wang min tian ya
-    - geekerwan1024 socpk.com
     - hu chenfeng
     - jing hanqing
     - mo di si ji xu shi fu
@@ -392,6 +397,7 @@ $fira$ `elegance`
     - liu yiyi
     - longbow flintlock
     - mohamad light
+    - mortenroyale
     - muyao kuharu
     - muyu shuixin
     - potetomj
@@ -427,6 +433,7 @@ $fira$ `elegance`
     - miyuki takara
     - mutsumi mygo
     - nahida
+    - necora nyaru
     - nina iseri
     - qihai nanami
     - ruby hoshino

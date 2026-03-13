@@ -360,6 +360,8 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `1` 2026.03.08
 - `2` 2026.03.09
 - `3` 2026.03.10
+- `4` 2026.03.11
+- `5` 2026.03.12
 
 ## gaming
 
@@ -19143,4 +19145,60 @@ Starting: Intent { cmp=com.example.helloworld/.MainActivity }
 
 ---
 
+well, ts has both interface and type.
 
+not ideal!
+
+---
+
+kde adds k to all its apps.
+
+google adds g to gzip.
+
+rust adds r to most projects.
+
+i dont think it's good.
+
+---
+
+chatgpt now uses fade in for newly generated text, instead of typing.
+
+idk whether it's good.
+
+---
+
+"stay sharp play smart take care"
+
+---
+
+突然想玩 project sekai.
+
+(大概是因为玩这个游戏的人都很幸福, 平静的喜悦, 清淡的忧伤.)
+
+检索 menci bilibili. (想看她的服务器.)
+
+thou away from oi 这个歌曲怎么不见了. 看来, berryberry 是应该被缓存啊...
+
+> "如何让 miku 永远被记住" (zhihu)
+
+12 mar seems to be her birthday.
+
+upd:
+
+see what i found... memoh.
+
+it's always good to check those in the middle of the world are doing. everyone is building agents.
+
+and... fuck. vue. vitepress. such... philistine. i would say.
+
+chyk... menci... leohearts... ppl and ppl are connected. certain ppl always appear together. wow. the (yeah, trivial, i know) pattern.
+
+upd: 
+
+好像是 menci 第二次过生日... 可恶的家伙. (有没有人去杀掉她!)
+
+---
+
+> 雅思多少分啊？四六级过的了吗？时态学全了吗？主被动会吗？独立主格和虚拟语气知道吗？人称分的清楚吗？过去分词背完了吗？
+
+---

@@ -71,6 +71,16 @@ sudo apt install -y texlive-xetex texlive-lang-chinese
 sudo apt install -y zsh fonts-powerline
 chsh -s "$(which zsh)" # set zsh default
 
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)" "" --unattended # install oh my zsh
+
+mkdir -p ~/.zsh # install zsh plugins
+git clone https://github.com/zsh-users/zsh-autosuggestions ~/.zsh/zsh-autosuggestions
+git clone https://github.com/zsh-users/zsh-syntax-highlighting ~/.zsh/zsh-syntax-highlighting
+
+sudo apt -y install tmux # to keep things running in background
+
+curl -fsSL https://raw.githubusercontent.com/mkasberg/ghostty-ubuntu/HEAD/install.sh | zsh # install ghostty terminal
+
 sudo apt install -y git python3 pip pipx
 sudo apt install -y gstreamer1.0-plugins-good gstreamer1.0-plugins-bad gstreamer1.0-plugins-ugly gstreamer1.0-libav
 
@@ -98,6 +108,15 @@ python3 -m pip config set global.break-system-packages true # simplify: remove m
 # break-system-packages = true
 # EOF
 # # simplify:  remove meaningless warning system wide
+
+sudo dpkg --add-architecture i386
+sudo apt install -y libasound2-plugins:i386 libsdl2-2.0-0:i386 libdbus-1-3:i386 libsqlite3-0:i386
+sudo apt install -y wine64 wine32 # seems apt version is more reliable. sabbat of witch and senrenbanka would err on wine-stable (read/write without access). yosuga no sora also works after installing 32 bit packages (instead of showing a transparent window), idk.
+
+sudo apt install -y libasound2-dev 
+sudo apt install -y libfontconfig-dev
+sudo apt install -y winetricks
+winetricks sound=pulse # fix silence
 ```
 
 memory
@@ -263,7 +282,7 @@ sudo systemctl restart earlyoom
       "files.autoSaveDelay": 100,
       "code-runner.preserveFocus": false,
       "code-runner.runInTerminal": true,
-      "editor.fontFamily": "\"Fira Code\", \"Adobe Kaiti Std\", monospace",
+      "editor.fontFamily": "\"Fira Code\", \"Noto Sans CJK SC\", \"Adobe Kaiti Std\", monospace",
       "workbench.activityBar.location": "hidden",
       "code-runner.executorMap": {
         "html": "cd $dir && xdg-open '$fileName'",
@@ -399,7 +418,8 @@ sudo systemctl restart earlyoom
       "workbench.secondarySideBar.defaultVisibility": "visible",
       "chat.disableAIFeatures": true,
       "extensions.ignoreRecommendations": true,
-      "security.workspace.trust.enabled": false
+      "security.workspace.trust.enabled": false,
+      "update.mode": "none"
     }
     ```
 
@@ -1178,6 +1198,7 @@ sudo systemctl restart earlyoom
   - markdown: extension: theming: syntax: decoration file size limit `50000000`
   - chat: disable ai features `on`
   - security: workspace: trust: enabled `off`
+  - update: mode `none`
   - code-runner: run in terminal `on`
   - code-runner: preserve focus `off`
   - code runner: executor map <!-- `settings.json` -->
@@ -1419,8 +1440,8 @@ sudo systemctl restart earlyoom
   - clash verge <!-- no need to add. config on clash verge.  -->
   - chromium
   - code
-  - vlc
   - goldendict
+  - elisa
 
 ## `fonts`
 
@@ -1428,6 +1449,9 @@ sudo systemctl restart earlyoom
 
 - install fonts <!-- copy to ~/.local/share/fonts -->
   `repo: fonts`
+
+  <!-- only install needed. dumping everything might confuse the system font preference. -->
+
 - prefer sc for kanji
 
   - replace the font files with sc at first <!-- optimal -->
@@ -1671,34 +1695,13 @@ sudo systemctl restart earlyoom
 
 ## `terminal`
 
-- install oh my zsh and plugins
-
-  ```sh
-  sudo apt install -y zsh fonts-powerline unzip # install zsh
-  chsh -s "$(which zsh)" # set zsh default
-
-  sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)" "" --unattended # install oh my zsh
-
-  mkdir -p ~/.zsh # install zsh plugins
-
-  # autosuggestions
-  git clone https://github.com/zsh-users/zsh-autosuggestions ~/.zsh/zsh-autosuggestions
-
-  # syntax highlighting
-  git clone https://github.com/zsh-users/zsh-syntax-highlighting ~/.zsh/zsh-syntax-highlighting
-  ```
-
 - put zshrc
 
   `terminal zshrc.sh`
 
-- install ghostty
-
-  <!-- used by innei & others -->
+- install ghostty nightly <!-- not needed since it's already stable -->
 
   ```sh
-  # curl -fsSL https://raw.githubusercontent.com/mkasberg/ghostty-ubuntu/HEAD/install.sh | zsh # use nightly instead
-
   set -e
 
   # source: https://github.com/mkasberg/ghostty-ubuntu/
@@ -1745,13 +1748,9 @@ sudo systemctl restart earlyoom
   EOF
   ```
 
-- install tmux
+- use tmux
 
   <!-- `ctrl b` `d` to keep something running in the bg, `tmux attach` to back. -->
-
-  ```
-  sudo apt -y install tmux
-  ```
 
 ## `scrcpy` `sndcpy`
 
@@ -2162,30 +2161,6 @@ zsh -ic 'push'
 
 ## `wine`
 
-- install
-
-  ```
-  sudo dpkg --add-architecture i386
-
-  sudo apt install libasound2-plugins:i386 libsdl2-2.0-0:i386 libdbus-1-3:i386 libsqlite3-0:i386 -y
-
-  sudo apt install wine64 wine32 -y
-  ```
-
-  <!-- it seems that apt version is more reliable. sabbat of witch and senrenbanka could only work on that and err on wine-stable (r/w somewhere without access). -->
-
-  <!-- yosuga no sora also works after installing 32 bit packages (instead of showing a transparent window), idk. -->
-
-- fix sound library
-
-  ```sh
-  sudo apt install -y libasound2-dev
-  sudo apt install -y libfontconfig-dev
-
-  sudo apt install -y winetricks
-  winetricks sound=pulse
-  ```
-
 - config
 
   ```sh
@@ -2213,6 +2188,11 @@ zsh -ic 'push'
   ```sh
   sudo sed -i 's/--started-from-file/--no-one-instance/g' /var/lib/flatpak/app/org.videolan.VLC/current/active/export/share/applications/org.videolan.VLC.desktop
   ```
+
+## `elisa`
+
+- config <!-- ctrl shift , -->
+  - general: keep running in system tray when main window is closed `on`
 
 ## `goldendict`
 
@@ -2268,12 +2248,6 @@ zsh -ic 'push'
   - open screen word selector `ctrl c ctrl c`
 
 ## `qbittorrent`
-
-- install
-
-  ```
-  sudo flatpak install -y flathub org.qbittorrent.qBittorrent
-  ```
 
 - config trackers
 
@@ -2345,31 +2319,7 @@ zsh -ic 'push'
 
 ## `ipfs`
 
-- install
-
-  ```
-  VERSION="v0.39.0"
-  URL="https://dist.ipfs.tech/kubo/${VERSION}/kubo_${VERSION}_linux-amd64.tar.gz"
-
-  echo "Downloading Kubo IPFS $VERSION..."
-  curl -LO "$URL"
-
-  echo "Extracting..."
-  tar -xzf "kubo_${VERSION}_linux-amd64.tar.gz"
-
-  echo "Installing..."
-  cd kubo
-  sudo bash install.sh
-
-  echo "Cleaning up..."
-  cd ..
-  rm -rf kubo "kubo_${VERSION}_linux-amd64.tar.gz"
-
-  echo "Done! Installed Kubo IPFS $VERSION"
-  echo "Run: ipfs --version"
-  ```
-
-- run
+- run in background
 
   ```
   # Detect current user
@@ -2428,44 +2378,12 @@ zsh -ic 'push'
 
 ## `ayugram`
 
-- install
-
-  ```
-  # Set variables
-  URL="https://github.com/0FL01/AyuGramDesktop-flatpak/releases/download/flatpak-v6.3.10-20260124152331/ayugram-desktop-6.3.10.flatpak"
-  FILE="ayugram.flatpak"
-
-  # Download the Flatpak file
-  echo "Downloading AyuGram Desktop..."
-  wget -c -O "$FILE" "$URL"
-
-  # Install the Flatpak
-  echo "Installing AyuGram Desktop..."
-  sudo flatpak install -y "$FILE"
-
-  # Clean up
-  echo "Cleaning up..."
-  rm "$FILE"
-
-  echo "AyuGram Desktop installation complete."
-  ```
-
-  <!-- without sudo, -y wont work. wget -c flag means continue. -->
-
 - disable notifications
   - settings: notifications and sounds: global settings: `*` `off`
 
 ## `eden`
 
 <!-- yuzu fork -->
-
-- install
-
-```
-wget -c -O "eden.deb" https://github.com/eden-emulator/Releases/releases/download/v0.2.0-rc1/Eden-Ubuntu-24.04-v0.2.0-rc1-amd64.deb
-sudo dpkg -i eden.deb
-sudo apt install -f -y  # Fix any missing deps
-```
 
 - install keys
 
@@ -2818,23 +2736,32 @@ sudo apt install -f -y  # Fix any missing deps
   sudo ./xmrig -o rx.unmineable.com:3333 -u BTC:bc1qszfqwtp8lva8cmptmj330m90k7mms4szk08e0w.UbuntuLaptop#ivrt-8ebj -p x
   ```
 
+## `flatseal`
+
+- all applications
+  - file system
+    - `*` `on`
+
 ## apps
 
 ### remove
 
 ```sh
-# remove builtin stuff
 sudo snap remove firefox
-flatpak install -y flathub org.mozilla.firefox # use flatpak one instead
 
 sudo snap remove thunderbird # use web (gmail, outlook, etc.) instead. thunderbird is free and consistent, but slow. And it produces nonsense, thunderbird.tmp on downloads
 
-sudo apt remove gnome-text-editor # let it auto bind vscode
+sudo apt remove gnome-text-editor # let it auto bind vscode then
 ```
 
 ### install
 
 ```sh
+flatpak install -y flathub com.github.tchx84.Flatseal # fix all flatpak sandbox issues
+
+sudo snap install chromium --revision 2842
+flatpak install -y flathub org.mozilla.firefox # use flatpak one instead
+
 curl https://packages.microsoft.com/keys/microsoft.asc | gpg --dearmor > packages.microsoft.gpg
 sudo install -o root -g root -m 644 packages.microsoft.gpg /usr/share/keyrings/
 sudo sh -c 'echo "deb [arch=amd64 signed-by=/usr/share/keyrings/packages.microsoft.gpg] https://packages.microsoft.com/repos/vscode stable main" > /etc/apt/sources.list.d/vscode.list'
@@ -2857,8 +2784,7 @@ sudo apt install -y ruby-full
 curl -fsSL https://get.docker.com | sudo sh
 
 flatpak install -y flathub dev.mufeed.Wordbook
-sudo apt install -y goldendict
-# flatpak install -y flathub org.goldendict.GoldenDict # fix font issue
+flatpak install -y flathub org.goldendict.GoldenDict
 
 flatpak install -y flathub org.gimp.GIMP
 flatpak install -y flathub org.kde.kolourpaint
@@ -2868,6 +2794,7 @@ flatpak install -y flathub org.inkscape.Inkscape
 flatpak install -y flathub com.obsproject.Studio
 flatpak install -y flathub org.kde.kdenlive
 flatpak install -y flathub org.shotcut.Shotcut
+flatpak install -y flathub com.belmoussaoui.Decoder
 
 flatpak install -y flathub org.blender.Blender
 
@@ -2875,21 +2802,42 @@ flatpak install -y flathub org.gnome.Weather
 
 # sudo snap install foliate # fix fonts access in sandbox. there's nothing wrong with snap. no extra config needed.
 flatpak install -y flathub com.github.johnfactotum.Foliate
-flatpak install -y flathub com.calibre_ebook.calibre # to edit epub
+flatpak install -y flathub com.sigil_ebook.Sigil
+# flatpak install -y flathub com.calibre_ebook.calibre # it creates noise on home folder
 
 flatpak install -y flathub com.github.finefindus.eyedropper
-
-flatpak install -y flathub io.gitlab.news_flash.NewsFlash
-flatpak install -y flathub dev.geopjr.Tuba
-flatpak install -y flathub im.fluffychat.Fluffychat
 
 flatpak install -y flathub org.geogebra.GeoGebra
 
 flatpak install -y flathub com.valvesoftware.Steam
 flatpak install -y flathub sh.ppy.osu
 flatpak install -y flathub org.libretro.RetroArch
+wget -c -O "eden.deb" https://github.com/eden-emulator/Releases/releases/download/v0.2.0-rc1/Eden-Ubuntu-24.04-v0.2.0-rc1-amd64.deb
+sudo dpkg -i eden.deb
+sudo apt install -f -y  # Fix any missing deps
 
+flatpak install -y flathub org.qbittorrent.qBittorrent
 flatpak install -y flathub org.torproject.torbrowser-launcher
+IPFS_URL="https://dist.ipfs.tech/kubo/v0.39.0/kubo_v0.39.0_linux-amd64.tar.gz"
+IPFS_FILE="ipfs.tar.gz"
+IPFS_FOLDER="kubo"
+wget -c -O "$IPFS_FILE" "$IPFS_URL"
+tar -xzf "$IPFS_FILE"
+sudo bash "$IPFS_FOLDER/install.sh"
+rm -rf "$IPFS_FOLDER" "$IPFS_FILE"
 
+flatpak install -y flathub io.gitlab.news_flash.NewsFlash
+flatpak install -y flathub dev.geopjr.Tuba
+flatpak install -y flathub im.fluffychat.Fluffychat
+AYUGRAM_URL="https://github.com/0FL01/AyuGramDesktop-flatpak/releases/download/flatpak-v6.3.10-20260124152331/ayugram-desktop-6.3.10.flatpak"
+AYUGRAM_FILE="ayugram.flatpak"
+wget -c -O "$AYUGRAM_FILE" "$AYUGRAM_URL"
+sudo flatpak install -y "$AYUGRAM_FILE" # -y flag only work with sudo
+rm "$AYUGRAM_FILE" # clean up
+
+flatpak install -y flathub org.videolan.VLC
+flatpak install -y flathub io.mpv.Mpv
+flatpak install -y flathub org.kde.elisa
+flatpak install -y flathub net.lrclib.lrcget
 pipx install yt-dlp
 ```
