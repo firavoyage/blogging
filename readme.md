@@ -8,6 +8,8 @@ $fira$ `elegance`
 
 <!-- stand w/ f. -->
 
+<!-- unemployed. free @home. -->
+
 > $welcome \space to \space hotel \space california$
 
 > $lucky \space \text{☆} \space star!$
@@ -97,22 +99,20 @@ $fira$ `elegance`
 ## perception
 
 - flavors
-  - lipton black tea & green tea
-  - frey dark chocolate bars
+  - green tea & black tea
+  - dark chocolate bars
+  - truffles
   - whole wheat bread
   - butter croissant
-  - lays potato chips
-  - kentucky fried chicken
-  - burger king
+  - potato chips
+  - fried chicken
   - instant noodles
   - boiled water
+  - coca cola
   - takoyaki
   - sushi
-  - bee cheng hiang sliced pork
+  - sliced pork
   - tea egg
-  - coca cola
-  - bubble tea
-  - dried mango
   - chenpi
   - huamei
 - essentials
@@ -252,7 +252,7 @@ $fira$ `elegance`
     - samuelqzq qzq.at
     - scavenger869 loongphy.com
     - share121 inter-knot s121.top fd.s121.top
-    - sheepbox8646 acboxliu chattutor.app memoh.ai
+    - sheepbox8646 acboxliu acbox.lol chattutor.app memoh.ai
     - simonw simonwillison simonwillison.net
     - steipete steipete.me clawd.bot moltbook.com clawk.ai
     - swyxio swyx.io/ideas latent.space dx.tips learninpublic.org
@@ -277,7 +277,7 @@ $fira$ `elegance`
     - leerob leerob.com cursor.com
     - liyupi yupi.icu codefather.cn yuyuanweb.com
     - matrix67 matrix67.com matrix67.itch.io localhost_8080 localhost-8080.com
-    - menci lcmenci men.ci loj.ac oi.wiki chiyuki0325 chyk.ink
+    - menci men.ci oi.wiki loj.ac moeditor.github.io search.lingogram.app maigo.dev needle.maigo.dev amaoke.app chiyuki0325 chyk.ink
     - nayuki nayuki.io
     - one math
     - paulg paulgraham.com
@@ -454,49 +454,33 @@ $fira$ `elegance`
     - xuegao cheese
     - yuuki sakuna
 - albums
-  - heisei anisong taisho
-  - kyoto animation
-  - peaceful piano
+  - animenz
+  - kessoku band
+  - sanketsu girl (sayuri)
+  - yui
+  - yoasobi
+  - kaf
+  - deco＊27
+  - led zeppelin
+  - crazy world (scorpions)
+  - parsley, sage, rosemary and thyme (simon & garfunkel)
+  - sgt. pepper's lonely hearts club band (the beatles)
+  - wish you were here (pink floyd)
   - the well-tempered clavier (johann sebastian bach)
   - neon genesis evangelion (shiro sagisu)
-  - the girl who fell from the sky (joe hisaishi)
-  - yosuga no sora ost (manack & eufonius & bruno wen li)
-  - suzumiya haruhi no tsumeawase (aya hirano & yuko goto)
-  - tv anime "lucky star" ending theme collection: one day karaoke box (konata izumi & kagami hiiragi & tsukasa hiiragi & miyuki takara)
-  - togenashi (togenashi togeari)
-  - internet overdose (aiobahn & kotoko)
-  - minecraft, volume alpha (c418)
-  - minecraft, volume beta (c418)
-  - and so henceforth, (orangestar)
-  - seaside soliloquies (orangestar)
-  - the book (yoasobi)
-  - the book 2 (yoasobi)
-  - the book 3 (yoasobi)
-  - observation (kaf)
-  - magic (kaf)
-  - crazy for you (kaf)
-  - fable (kaf)
-  - miracle milk (mili)
-  - daiginjo (miyuki nakajima)
-  - magnet (minato aqua & inuyama tamaki)
-  - henceforth (kagura mea)
-  - henceforth (yuuki sakuna)
-  - mephisto (queen bee)
-  - hotel california (eagles)
-  - crazy world (scorpions)
-  - humanity hour 1 (scorpions)
-  - parsley, sage, rosemary and thyme (simon & garfunkel)
-  - sounds of silence (simon & garfunkel)
-  - sgt. pepper's lonely hearts club band (the beatles)
-  - aftermath (the rolling stones)
-  - wish yoou were here (pink floyd)
-  - a momentary lapse of reason (pink floyd)
-  - the division bell (pink floyd)
-  - the dark side of the moon (pink floyd)
   - rock n roll (beyond)
   - u 87 (eason chan)
   - what's going on...? (eason chan)
-  - fantasy (jay chou)
+- singles
+  - hotel california (eagles)
+  - shiori (mygo!!!!!)
+  - the girl who fell from the sky (joe hisaishi)
+  - Anytime Anywhere (milet)
+  - haru no kaze (aoi teshima)
+  - suzume (cyan nyan)
+  - henceforth (kagura mea)
+  - in the end (linkin park)
+  - mephisto (queen bee)
   - qun ding (mi feng chu)
   - tui yi de ni (menci & wxh010910 & yan qval & krydom & niro bc & wer key tom_ftd & \_\_stdcall & created_equal & whzzt & wy1627)
 - films
@@ -583,7 +567,6 @@ $fira$ `elegance`
 - games
   - angry birds (2009)
   - minecraft (2011)
-  - carrot fantasy (2013)
   - plant vs. zombies 2 (2013)
   - soul knight (2017)
   - canabalt (2009)
@@ -596,7 +579,6 @@ $fira$ `elegance`
   - honkai impact third (2016)
   - the rainbow appears after flowering rain. (2016)
   - blue archive (2021)
-  - houkai gakuen second (2014)
   - delta force (2024)
   - duolingo (2011)
   - arknights (2019)
@@ -609,17 +591,18 @@ $fira$ `elegance`
   - shadowverse: worlds beyond (2025)
   - vrchat (2014)
   - identity v (2018)
-  - gacha party (2025)
   - douyin (2016)
-  - tetris (1984)
   - 1883 (2022)
-  - langrensha (2017)
   - phigros (2019)
   - generals.io (2016)
+  - senren banka (2016)
+  - sabbat of the witch (2015)
+  - the legend of zelda: breath of the wild (2017)
+  - stardew valley (2016)
+  - project sekai colorful stage! (2020)
   - .earth online
   - .terraria (2011)
   - .the legend of zelda: tears of the kingdom (2023)
-  - .the legend of zelda: breath of the wild (2017)
   - .grand theft auto v (2013)
   - .elden ring (2022)
   - .sekiro: shadows die twice (2019)
@@ -627,34 +610,43 @@ $fira$ `elegance`
   - .needy streamer overload (2022)
   - .yosuga no sora (2008)
   - .wonderful everyday (2010)
-  - .senren banka (2016)
-  - .sabbat of the witch (2015)
   - .super bunny man (2017)
   - .hollow knight (2017)
   - .celeste (2018)
   - .liar's bar (2024)
   - .astro bot (2024)
   - .monster hunter wilds (2025)
-  - .stardew valley (2016)
-  - .split fiction (2025)
   - .inzoi (2025)
 - books
+  - sicp
+  - clrs
   - to live (yu hua)
+  - no longer human (osamu dazai)
+  - .kokoro (natsume sōseki)
+  - dream of the red chamber (cao xueqin)
+  - .the great gatsby (f. scott fitzgerald)
+  - .the stranger (albert camus)
   - a long gaze (lung yingtai)
+  - .the kite runner (khaled hosseini)
   - hackers and painters (paul graham)
+  - the water level of ideology (liu yu)
+  - twelve letters for the young (zhu guangqian)
   - road ahead (ruan yifeng)
   - javascript: the good parts (douglas crockford)
-  - the water level of ideology (liu yu)
-  - liu qing's lectures on modern western thought (liu qing)
-  - twelve letters for the young (zhu guangqian)
-  - dream of the red chamber (cao xueqin)
-  - integer overflow: the development, prosperity and decline of olympics in informatics (xu xiling)
-  - refactoring ui (adam wathan & steve schoger)
   - learn (react.dev)
-  - mathematical olympiad series (xiong bin & ...)
-  - snow country (yasunari kawabata)
-  - no longer human (osamu dazai)
+  - .make (levelsio)
+  - .zero to one (peter thiel)
+  - .the lean startup (eric ries)
+  - .atomic habits (clear james)
+  - refactoring ui (adam wathan & steve schoger)
+  - google testing on the toilet
+  - mathematical olympiad series (xiong bin)
+  - wave crest (wu jun)
+  - integer overflow: the development, prosperity and decline of olympics in informatics (xu xiling)
   - my youth romantic comedy is wrong, as i expected (wataru watari)
+  - the ryuo's work is never done! (shirow shiratori)
+  - chitose is in the ramune bottle (hiromu)
+  - .snow country (yasunari kawabata)
   - .metaphors we live by (george lakoff & mark johnson)
   - .godel, escher, bach (douglas hofstadter)
   - .shakespeare's sonnets (william shakespeare)
@@ -685,265 +677,87 @@ $fira$ `elegance`
   - web worker (xinbao & lv777 & pakchoi & kaiyi & smart)
 - hues
   - ubuntu yaru
-  - material.io
-  - design.google
+  - gnome adwaita
+  - material.io design.google
   - react.dev
   - iphone os 6
-  - smartisan os
-  - oxygen os 11
-  - dracula theme
-  - nord theme
-  - monokai pro
-  - atom one dark
-  - just black chromium
+  - dracula
+  - nord
 - fonts
-  - ar pl ukai
+  - adobe kaiti
   - cormorant
-  - cuprum
-  - dejavu serif
   - eb garamond
   - fira code
-  - fira sans
   - google product sans
   - han wang shin su
   - han wang yan kai
-  - helvetica neue
+  - helvetica
   - inconsolata
   - lato
   - montserrat
   - noto sans
   - noto serif
-  - nunito
   - open sans
   - playfair
   - poppins
-  - pt sans narrow
   - pt serif
-  - resource han rounded
   - roboto
-  - source sans 3
-  - stix two math
-  - stix two text
   - ubuntu sans
   - xits math
   - zhi mang xing
 - sites
-  - google · gemini · deepseek · grok · chatgpt · mistral ai
+  - google · gemini · chatgpt · grok · deepseek · mistral ai
   - wikipedia · miraheze · fandom · moegirl.icu · oi wiki · mdn · jisho.org · hpoi
   - internet archive · archive.today · the pirate bay · z library · anna's archive · archivecaslytosk.onion
-  - youtube · berryberry · douyin · niconico · caracal · hololist · vtbs.moe
+  - youtube · berryberry · douyin · niconico · hololist · vtbs.moe
   - old reddit · twitter · zhihu · nga bbs · baidu tieba · pincong.rocks
   - hacker news · v2ex · liqi.io · github trending · product hunt · codepen spark
-  - figma · paper.design · canva · unicorn.studio · khroma
-  - douban · imdb · bangumi.tv · my anime list · bgmlist · mikan project · nyaa.si · dmhy.org · zimuku · yuc.wiki
-  - pixiv · dribbble · deviantart · civitai · unsplash
-  - aops · oeis · igdb · metacritic · spotify · pianotify
+  - figma · paper.design · unicorn.studio · canva · khroma · coolors
+  - douban · imdb · metacritic · bangumi.tv · my anime list · nyaa.si · dmhy.org · bgmlist · mikan project · zimuku · yuc.wiki
+  - pixiv · dribbble · deviantart · unsplash · civitai
+  - youtube music · lrcdb · spotify · netease cloud music · pianotify
   - e hentai · archiveofourown · cnblogs · qq zone · acfun
-  - steam db · itch.io · doodles.google · vndb · shinnku galgame · kungal · touchgal
-  - codeforces · atcoder · luogu · libre oj · project euler
-  - travel.moe · travellings.cn · foreverblog.cn · acmer.info
+  - steam db · itch.io · doodles.google · igdb · vndb · shinnku galgame · kungal · touchgal
+  - aops · oeis · codeforces · atcoder · luogu · libre oj · project euler · acmer.info
+  - travel.moe · travellings.cn · foreverblog.cn
 - portals
-  - casio mth-1060 watch
+  - casio watch mth-1060
+  - casio scientific calculator fx-991cw classwiz
   - lenovo yoga 13s acn 2021
   - smartisan revolution ii
-  - casio fx-991cw classwiz scientific calculator
+  - sony wireless noise canceling headphones wh-ch720n
   - oneplus buds 3
   - oppo enco free 3
-  - 3m e-a-rsoft yellow neons earplugs
   - morphy richards portable electric kettle mr6090
 - on ubuntu 24
-  - adb
-  - bitmagnet
-  - blender
-  - cargo
-  - cbonsai
-  - chromium 124
-  - chromium.ublock-origin
-  - chromium.authenticator
-  - chromium.bewlybewly
-  - chromium.tampermonkey
-  - chromium.wayback-machine
-  - clash-verge
-  - code
-  - code.prettier
-  - code.code-runner
-  - code.wakatime
-  - cowsay
-  - fcitx
-  - ffmpeg
-  - figlet
-  - firefox
-  - flatpak
-  - foliate
-  - fortune
-  - g++
-  - gedit
-  - geogebra
-  - ghostscript
-  - gimp
-  - git
-  - gnome-baobab <!-- disk usage analyzer -->
-  - gnome-calculator
-  - gnome-characters
-  - gnome-deja-dup
-  - gnome-evince <!-- document viewer -->
-  - gnome-eyedropper
-  - gnome-nautilus <!-- files -->
-  - gnome-newsflash
-  - gnome-solanum
-  - gnome-system-monitor
-  - gnome-terminal
-  - gnome-tuba
-  - gnome-weather
-  - goldendict
-  - inkscape
-  - jan
-  - jsdoc
-  - katrain
-  - kolourpaint
-  - krita
-  - libreoffice
-  - mdbook
-  - neofetch
-  - nginx
-  - node
-  - npm
-  - obs-studio
-  - ocrmypdf
-  - pandoc
-  - python3
-  - qbitorrent
-  - retroarch
-  - rustc
-  - sabaki
-  - scrcpy
-  - shotcut
-  - spotdl
-  - steam
-  - telegram-desktop
-  - tesseract
-  - thunderbird
-  - tor-browser
-  - virtualbox
-  - vlc
-  - wine
-  - yt-dlp
-  - zsh
-  <!-- - v2raya -->
+  - (see `ubuntu.md`)
 - on android 11
-  - aegis-authenticator
-  - ahqgo
-  - ankidroid
-  - antennapod
-  - bilibili
-  - bilimiao
-  - breezy-weather
-  - capcut
-  - clash-meta
-  - douyin
-  - duolingo -mod
-  - ehviewer
-  - eudic
-  - fcitx5-android
-  - fossify-voicerecorder
-  - gboard
-  - k9-mail
-  - legado
-  - litiaotiao
-  - material-files
-  - metro
-  - mihuashi
-  - musicfree
-  - musictag
-  - nekogram
-  - onscripter-yuri
-  - pixiv -mod
-  - retouch
-  - screen-time
-  - simplelive
-  - snapseed
-  - solid-explorer
-  - spotify -mod
-  - weiqibaodian
-  - wenku8
-  - xiaoyuansouti
-  - zhiliao
-  - zhizigo
-  - zuoyebang
+  - (see `android.md`)
 
 ## flyleaf
 
-- as human beings it is our right (maybe our moral duty) to reshape the universe to our preferences
-  - technology, which is really knowledge, enables this
-  - you should probably work on raising the ceiling, not the floor
-- enthusiasm matters
-  - it's much easier to work on things that are exciting to you
-  - it might be easier to do big things than small things because of this reason
-  - energy is a necessary input for progress
-- it's important to do things fast
-  - you learn more per unit time because you make contact with reality more frequently
-  - going fast makes you focus on what's important; there's no time for bullshit
+- as human beings it is our right (maybe our moral duty) to reshape the universe to our preferences. technology, which is really knowledge, enables this. you should probably work on raising the ceiling, not the floor.
+- enthusiasm matters. it's much easier to work on things that are exciting to you. it might be easier to do big things than small things because of this reason. energy is a necessary input for progress.
+- it's important to do things fast. you learn more per unit time because you make contact with reality more frequently. going fast makes you focus on what's important; there's no time for bullshit.
   - "slow is fake"
-  - a week is 2% of the year
-  - time is the denominator
-- where do you get your dopamine?
-  - the answer is predictive of your behavior
-  - better to get your dopamine from improving your ideas than from having them validated
-  - it's ok to get yours from "making things happen"
-- you can do more than you think
-  - we are tied down by invisible orthodoxy
-  - the laws of physics are the only limit
-- stay focused, keep shipping
-  - build early, build always
-  - improve yourself, write solid/simple/stupid code
+  - a week is 2% of the year.
+  - time is the denominator.
+- where do you get your dopamine? the answer is predictive of your behavior. better to get your dopamine from improving your ideas than from having them validated. it's ok to get yours from "making things happen".
+- you can do more than you think. we are tied down by invisible orthodoxy. the laws of physics are the only limit.
+- stay focused, keep shipping. build early, build always. improve yourself, write solid/simple/stupid code
 - live in the future and build what's missing
-- stay hungry, stay foolish
-  - you can't connect the dots looking forward; you can only connect them looking backward
-- i do not know what i may appear to the world
-  - but to myself i seem to have been only like a boy playing on the sea-shore
-  - and diverting myself in now and then finding a smoother pebble or a prettier shell than ordinary
-  - whilst the great ocean of truth lay all undiscovered before me
-- knowledge isn't free
-  - you have to pay attention
-- i have a small device in my pocket that provides access to nearly the sum total of human knowledge
-  - i use it to get into pointless arguments with people i don't know and look at pictures of cats
-- two drifters off to see the world
-  - there's such a lot of world to see...
-  - for every lonely and wandering soul
-  - there is a lucky star behind the darkness
-  - waiting and shining with the freshest hope and warmest aura
-  - some day. till then
-- i shall be telling this with a sigh
-  - somewhere ages and ages hence
-  - two roads diverged in a wood, and i
-  - i took the one less traveled by
-  - and that has made all the difference
-- again, you can't connect the dots looking forward; you can only connect them looking backwards
-  - so you have to trust that the dots will somehow connect in your future
-- many years later as he faced the firing squad
-  - colonel aureliano buendía was to remember that distant afternoon
-  - when his father took him to discover ice
-  - at that time macondo was a village of twenty adobe houses
-  - built on the bank of a river of clear water that ran along a bed of polished stones
-  - which were white and enormous, like prehistoric eggs
-  - the world was so recent that many things lacked names
-  - and in order to indicate them it was necessary to point
-- konata is a mischievous, sarcastic and eccentric
-  - yet good-natured and friendly girl
-  - who is very intelligent but lazy
-  - which is why her grades are uneasy
-- idle mode... _yawn_ how boring.
-  - if you're not solving problems or writing up contributions
-  - then don't blame me if your life is boring
-- for oft, when on my couch i lie
-  - in vacant or in pensive mood
-  - they flash upon that inward eye
-  - which is the bliss of solitude
-  - and then my heart with pleasure fills
-  - and dances with the daffodils
-- god is light, and in him there is no darkness at all.
-  - if we say we have fellowship with him yet walk in the darkness, we lie and do not practice the truth.
-  - but if we walk in the light as he is in the light, we have fellowship with one another, and the blood of jesus his son cleanses us from all sin.
+- stay hungry, stay foolish.
+- again, you can't connect the dots looking forward; you can only connect them looking backwards. so you have to trust that the dots will somehow connect in your future.
+- i do not know what i may appear to the world. but to myself i seem to have been only like a boy playing on the sea-shore and diverting myself in now and then finding a smoother pebble or a prettier shell than ordinary, whilst the great ocean of truth lay all undiscovered before me.
+- knowledge isn't free. you have to pay attention.
+- i have a small device in my pocket that provides access to nearly the sum total of human knowledge. i use it to get into pointless arguments with people i don't know and look at pictures of cats.
+- two drifters off to see the world. there's such a lot of world to see... for every lonely and wandering soul. there is a lucky star behind the darkness. waiting and shining with the freshest hope and warmest aura. some day. till then
+- i shall be telling this with a sigh. somewhere ages and ages hence. two roads diverged in a wood, and i— i took the one less traveled by, and that has made all the difference.
+- many years later as he faced the firing squad. colonel aureliano buendía was to remember that distant afternoon, when his father took him to discover ice. at that time macondo was a village of twenty adobe houses, built on the bank of a river of clear water that ran along a bed of polished stones, which were white and enormous, like prehistoric eggs. the world was so recent that many things lacked names. and in order to indicate them it was necessary to point.
+- konata is a mischievous, sarcastic and eccentric, yet good-natured and friendly girl, who is very intelligent but lazy, which is why her grades are uneasy
+- idle mode... _yawn_ how boring. if you're not solving problems or writing up contributions, then don't blame me if your life is boring.
+- for oft, when on my couch i lie, in vacant or in pensive mood. they flash upon that inward eye, which is the bliss of solitude, and then my heart with pleasure fills, and dances with the daffodils.
+- god is light, and in him there is no darkness at all. if we say we have fellowship with him yet walk in the darkness, we lie and do not practice the truth. but if we walk in the light as he is in the light, we have fellowship with one another, and the blood of jesus his son cleanses us from all sin.
 - memento mori.
 
 ## backyard
@@ -989,7 +803,6 @@ $fira$ `elegance`
 - 庭树不知人去尽 春来还发旧时花
 - 又七年 还自扬州 复到舅家问焉 曰 泯然众人矣
 - 聪明的 你告诉我 我们的日子为什么一去不复返呢
-- 前倨后恭 思之令人发笑
 
 ## compass
 
@@ -997,8 +810,8 @@ $fira$ `elegance`
 
 - `f` creator
 - `blogging` gardener
-  - `/lights` learner
   - `/favorites` collector
+  - `/lights` learner
   - `/config` geek
   - `/fira` youtuber
   - `/self` avatar
@@ -1022,7 +835,6 @@ $fira$ `elegance`
 ### here, in `blogging`
 
 - `readme` the index
-  - `random` thoughts, trivial thoughts
 - `river` some smoother pebbles
 - `weekly` everyday life
 - `projects` wonders and endeavors
@@ -1035,9 +847,10 @@ $fira$ `elegance`
   - `florio` advice for the programming ride
   - `jiangyanyan` confused cs graduates in the time
   - `naval` behind the creation of wealth
-  - `lixinye` the modern form of blood relations and love
+  - `lixinye` the modernized blood relations and love
   - ...
 - `blackboard` wax and wane
+- `random` thoughts, trivial thoughts
 
 <!--
 
@@ -1071,17 +884,16 @@ $fira$ `elegance`
   - chess.com `firascript` `firahq`
   - majsoul `忘我思考` `fira`
 - - youtube `thefirahq`
-  - twitch `preciouschin`
+  - twitch `firahq`
   - berryberry `1156993272` `bili_26837222900`
   - douyin `firavoyage`
   - acfun `忘我思考` `65210945`
-  - opensea `firascript`
 - - twitter `firahq` ~~`firascript`~~
-  - reddit `u/firascript`
+  - reddit `u/firahq`
   - zhihu `firahq`
   - v2ex `voy`
   - bangumi.tv `firavoyage`
-  - mastodon `firahq@mastodon.social` `firavoyage@mastodon.social` `fira@techhub.social`
+  - mastodon `firahq@mastodon.social` `fira@techhub.social`
   - vk `firahq`
 - - matrix `@firahq:matrix.org`
   - matrix space `#firahq:matrix.org`
@@ -1091,12 +903,9 @@ $fira$ `elegance`
 
 <!--
 
-(legacy)
+email is deprecated. 
 
-- - email `xoyage@gmail.com`
-  - alternatives `firavoyage@outlook.com` `devvhy@zoho.com.cn` `firahq@vk.com` `firav@qq.com` `firafira@duck.com`
-
-email is deprecated. use git for coop swe. use tg (matrix is less feature rich) for im.
+use git for coop swe. use tg (matrix is less feature rich) for im.
 
 email could do anything not requiring low latency, so im not gonna use it to do anything.
 
@@ -1124,4 +933,4 @@ fira is a font from mozilla.
 
 ## random
 
-<!-- see random.md -->
+see `random.md`

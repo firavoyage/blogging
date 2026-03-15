@@ -1,0 +1,39 @@
+- aegis-authenticator
+- ahqgo
+- ankidroid
+- antennapod
+- bilibili
+- bilimiao
+- breezy-weather
+- capcut
+- clash-meta
+- douyin
+- duolingo -mod
+- ehviewer
+- eudic
+- fcitx5-android
+- fossify-voicerecorder
+- gboard
+- k9-mail
+- legado
+- litiaotiao
+- material-files
+- metro
+- mihuashi
+- musicfree
+- musictag
+- nekogram
+- onscripter-yuri
+- pixiv -mod
+- retouch
+- screen-time
+- simplelive
+- snapseed
+- solid-explorer
+- spotify -mod
+- weiqibaodian
+- wenku8
+- xiaoyuansouti
+- zhiliao
+- zhizigo
+- zuoyebang

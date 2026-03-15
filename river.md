@@ -362,6 +362,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `3` 2026.03.10
 - `4` 2026.03.11
 - `5` 2026.03.12
+- `6` 2026.03.14
 
 ## gaming
 
@@ -18480,14 +18481,14 @@ upd: it actually causes issues. part of the page is updated, part not. (you ctrl
 应该是没有测试到的 bug.
 
 ```md
-3. 计算  
-$$
-(C_{2024}^0 - C_{2024}^2 + C_{2024}^4 - C_{2024}^6 + \cdots + C_{2024}^{2024})^2
-+
-(C_{2024}^1 - C_{2024}^3 + C_{2024}^5 - C_{2024}^7 + \cdots + C_{2024}^{2023})^2
-=
-\underline{\qquad}
-$$
+3. 计算
+   $$
+   (C_{2024}^0 - C_{2024}^2 + C_{2024}^4 - C_{2024}^6 + \cdots + C_{2024}^{2024})^2
+   $$
+
+- # (C*{2024}^1 - C*{2024}^3 + C*{2024}^5 - C*{2024}^7 + \cdots + C\_{2024}^{2023})^2
+  \underline{\qquad}
+  $$
 ```
 
 按 ctrl shift i (formatter). 前后渲染不同.
@@ -18516,7 +18517,7 @@ i think i could try opencode again?
 
 ---
 
-google ai mode: 
+google ai mode:
 
 > Something went wrong and the content wasn't generated.
 
@@ -18530,7 +18531,7 @@ cant it continue if my network is down? (like i switch tab right after entering 
 
 ---
 
-> 由于美国政府停止了对我们的资助，自3月21日起，歪脑已停止各平台的更新。如果我们的资金恢复，我们将恢复发布。目前自由亚洲电台普通话网站和社交媒体仍提供有限的新闻更新。感谢您对歪脑和自由亚洲电台的支持与信任。
+> 由于美国政府停止了对我们的资助，自 3 月 21 日起，歪脑已停止各平台的更新。如果我们的资金恢复，我们将恢复发布。目前自由亚洲电台普通话网站和社交媒体仍提供有限的新闻更新。感谢您对歪脑和自由亚洲电台的支持与信任。
 
 lol.
 
@@ -18549,9 +18550,9 @@ lol.
 wtf.
 
 ```sh
- ~ % cd                                                                             
+ ~ % cd
  ~ % cd Documents/_/opensource
- ...Documents/_/opensource % cd test/hello_world_apk  
+ ...Documents/_/opensource % cd test/hello_world_apk
  ~/Documents/_/opensource/test/hello_world_apk
  % gradle wrapper
 Starting a Gradle Daemon (subsequent builds will be faster)
@@ -18750,7 +18751,7 @@ A problem occurred configuring root project 'HelloWorld'.
 
 BUILD FAILED in 45s
  ~/Documents/_/opensource/test/hello_world_apk
- % gradle wrapper --gradle-version 7.5.1 --gradle-distribution-url=https://mirrors.cloud.tencent.com   
+ % gradle wrapper --gradle-version 7.5.1 --gradle-distribution-url=https://mirrors.cloud.tencent.com
 
 FAILURE: Build failed with an exception.
 
@@ -18776,7 +18777,7 @@ A problem occurred configuring root project 'HelloWorld'.
 
 BUILD FAILED in 12s
  ~/Documents/_/opensource/test/hello_world_apk
- % gradle wrapper --gradle-version 7.5.1                                                            
+ % gradle wrapper --gradle-version 7.5.1
 > Task :wrapper FAILED
 
 [Incubating] Problems report is available at: file:///home/fira/Documents/_/opensource/test/hello_world_apk/build/reports/problems/problems-report.html
@@ -19136,7 +19137,7 @@ BUILD FAILED in 12s
 BUILD SUCCESSFUL in 15s
 31 actionable tasks: 31 executed
  ~/Documents/_/opensource/test/hello_world_apk
- % adb install -r app/build/outputs/apk/debug/app-debug.apk                  
+ % adb install -r app/build/outputs/apk/debug/app-debug.apk
 adb shell am start -n com.example.helloworld/.MainActivity
 Performing Streamed Install
 Success
@@ -19193,12 +19194,135 @@ and... fuck. vue. vitepress. such... philistine. i would say.
 
 chyk... menci... leohearts... ppl and ppl are connected. certain ppl always appear together. wow. the (yeah, trivial, i know) pattern.
 
-upd: 
+upd:
 
 好像是 menci 第二次过生日... 可恶的家伙. (有没有人去杀掉她!)
 
 ---
 
 > 雅思多少分啊？四六级过的了吗？时态学全了吗？主被动会吗？独立主格和虚拟语气知道吗？人称分的清楚吗？过去分词背完了吗？
+
+---
+
+menci 下面的评论区很多 blue pink white avatar.
+
+---
+
+> 打了一天桌游，工资就到手了？
+
+> Menci: 我是三等奖[打 call]
+
+> SuperEarthling: 雖然但是，感覺不如台北的谷歌分部，感覺比這個爽
+>
+> 微软待遇肯定比不上谷歌啊
+
+> 学长，请问在哪里找微软苏州的实习啊，话说现在微软收人还收不收我们学校的了，不是上漂亮国清单了吗[辣眼睛]
+
+> 不如字节
+>
+> 确确实实永永远远了
+>
+> 不如字节
+
+---
+
+"mit ranks #1 in qs ranking for 14 continuous years"
+
+---
+
+> Dr. Anon Chihaya
+
+---
+
+> 写了和原曲完全无关的填词，而且是很有我的风格的填词（）虽然自己觉得并不是填得最好的一个作品，但是是迄今为止最喜欢的[星尘_给你星星]
+> 
+> 在独自漫步的街区
+> 耳机里仍循环的旋律
+> 眼神里若隐若现曾一同前行的身影
+> 
+> 阴雨之季独自哭泣
+> 迷失了前进的勇气
+> 十字路口前人群仍流转不停 又该往何处通行
+> 
+> 「即使曾为昨日的努力未有回报而烦恼
+> 也要坚信着总有一天梦想一定能实现」
+> 看 景色不断变化 向未知处迈开步伐
+> 待到下一个舞台 又该用何种姿态悄然 盛开
+> 
+> 走过时光匆匆每一次回眸
+> 于回忆里深藏每一份感动
+> 就让诞生心中这稚嫩歌声
+> 记述彼此笑容直到永恒
+> 
+> 曾经独自徜徉那片天穹
+> 如今也已是闪烁灿烂星空
+> 望向那虚实交错中的时光洪流
+> 想再次与你相拥
+> 
+> 春日轻拂身旁那一缕微风
+> 夏夜空中轻扬那一抹流萤
+> 沿途每寸风景无论雨晴
+> 是今生未完待续的足迹
+> 朝向这无垠的世界与你
+> 
+> 向地平线不断挥动的双手
+> 一定能拥抱天边那片彩虹
+> 连同每个音符都为之动容
+> 编织出独一无二的故事
+> 
+> 听悸动心声依旧如此热切
+> 看眼前景色仍是最美的季节
+> 继续追寻着名为未来的奇迹
+> 期许下一次相遇
+> 
+> 就让我向着无尽的明天和明天
+> 祈愿路沿星光依旧清冽
+> 无论前方能行至多遥远
+> 我都依然热爱这世界
+> 
+> 感谢你看到了这里，请期待我的下一个作品～
+> 词作于 2025.12.19 - 2026.01.10
+
+---
+
+it's well known chatgpt web gets more and more stuck once the conversates gets long.
+
+(well, if they just sit there like plain html, browsers could handle pretty well i think.)
+
+---
+
+`message`
+
+to 鬼舞离 on douyin
+
+你可爱又厉害. 可以认识吗? 
+
+很有希望呢. 真期待几年后的你会是什么样.
+
+我的 twitter 是 firahq. 不知道你有没有 github 或者个人博客这些, 我愿意欣赏.
+
+关于 openclaw. 其实我也不知道如何安装. 我可以 pnpm 一条命令就安装好 (有没有 mirror 都可以, 有会快), 然后放置 key 就完成了.
+
+只不过我一直没有想过做什么. email/calendar 管理不是我的需求, 之前我也不会人工做这些. 
+
+只是 chat 不需要 openclaw. coding agent 也不需要之. 当然 coding agent 能做的远不止是 code, 而是一切一人一电脑能做的一切.
+
+可能... 是权限高, 可以自动化, 带 cron job (心跳), 可以使用 im 调用的 chat?
+
+可惜听见最多的也不过是, 代码质量问题 (openclaw 自身), 安全问题, hypes (各种玩具, 如 the reddit of ai slop) 和 fomo.
+
+总之就是希望将你放置到我的阅读列表啦. 如果能向你学习就更好了.
+
+...
+
+我是 usst 26 级学生 (春考已过). 想知道作者的学校. 最近有做什么开源项目吗? 想学习.
+
+---
+
+~~it does not seems that lobehub could manage account switching by cookies?~~
+
+upd: no problem. it's just random quirk of modern apps.
+
+when you open an url with a new account, it simply fails to complete loading. no error handling.
 
 ---

@@ -59,7 +59,7 @@ flatpak install -y flathub com.mattjakeman.ExtensionManager
 
 sudo apt install -y tree
 
-sudo apt install -y neofetch fortune-mod cowsay figlet lolcat toilet sl
+sudo apt install -y neofetch fortune-mod cowsay cbonsai figlet lolcat toilet sl
 
 sudo apt install -y imagemagick ghostscript ffmpeg fontforge fonttools
 
@@ -108,6 +108,23 @@ python3 -m pip config set global.break-system-packages true # simplify: remove m
 # break-system-packages = true
 # EOF
 # # simplify:  remove meaningless warning system wide
+
+sudo apt install -y g++
+sudo snap install cling
+
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh -s -- -y # rustup, rustc, cargo
+sudo apt install -y build-essential
+
+flatpak install -y flathub com.google.AndroidStudio
+sudo snap install gradle --classic
+sudo apt install -y openjdk-17-jdk
+sudo apt install -y openjdk-21-jdk
+
+sudo apt install -y ghc cabal-install # ghci
+
+sudo apt install -y ruby-full # ruby
+
+curl -fsSL https://get.docker.com | sudo sh
 
 sudo dpkg --add-architecture i386
 sudo apt install -y libasound2-plugins:i386 libsdl2-2.0-0:i386 libdbus-1-3:i386 libsqlite3-0:i386
@@ -2769,20 +2786,6 @@ sudo apt install apt-transport-https
 sudo apt update
 sudo apt install code # code from snap seems incompatible with fcitx5
 
-flatpak install -y flathub com.google.AndroidStudio
-sudo snap install gradle --classic
-sudo apt install -y openjdk-17-jdk
-sudo apt install -y openjdk-21-jdk
-
-sudo apt install -y g++
-sudo snap install cling
-
-sudo apt install -y ghc cabal-install
-
-sudo apt install -y ruby-full
-
-curl -fsSL https://get.docker.com | sudo sh
-
 flatpak install -y flathub dev.mufeed.Wordbook
 flatpak install -y flathub org.goldendict.GoldenDict
 
@@ -2790,22 +2793,21 @@ flatpak install -y flathub org.gimp.GIMP
 flatpak install -y flathub org.kde.kolourpaint
 flatpak install -y flathub org.kde.krita
 flatpak install -y flathub org.inkscape.Inkscape
+flatpak install -y flathub com.github.finefindus.eyedropper
 
 flatpak install -y flathub com.obsproject.Studio
 flatpak install -y flathub org.kde.kdenlive
 flatpak install -y flathub org.shotcut.Shotcut
-flatpak install -y flathub com.belmoussaoui.Decoder
-
 flatpak install -y flathub org.blender.Blender
+
+flatpak install -y flathub com.belmoussaoui.Decoder
 
 flatpak install -y flathub org.gnome.Weather
 
 # sudo snap install foliate # fix fonts access in sandbox. there's nothing wrong with snap. no extra config needed.
 flatpak install -y flathub com.github.johnfactotum.Foliate
 flatpak install -y flathub com.sigil_ebook.Sigil
-# flatpak install -y flathub com.calibre_ebook.calibre # it creates noise on home folder
-
-flatpak install -y flathub com.github.finefindus.eyedropper
+# flatpak install -y flathub com.calibre_ebook.calibre # remove possible noise on home folder
 
 flatpak install -y flathub org.geogebra.GeoGebra
 
@@ -2840,4 +2842,13 @@ flatpak install -y flathub io.mpv.Mpv
 flatpak install -y flathub org.kde.elisa
 flatpak install -y flathub net.lrclib.lrcget
 pipx install yt-dlp
+
+sudo apt install -y virtualbox
+flatpak install -y flathub org.gnome.Boxes
+
+pip install katrain
+sudo apt install -y stockfish pychess
+flatpak install -y flathub org.gnome.Chess
+
+cargo install mdbook
 ```
