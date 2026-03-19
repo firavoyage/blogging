@@ -363,6 +363,11 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `4` 2026.03.11
 - `5` 2026.03.12
 - `6` 2026.03.14
+- `7` 2026.03.15
+- `8` 2026.03.16
+- `9` 2026.03.17
+- `10` 2026.03.18
+- `11` 2026.03.19
 
 ## gaming
 
@@ -19324,5 +19329,51 @@ to 鬼舞离 on douyin
 upd: no problem. it's just random quirk of modern apps.
 
 when you open an url with a new account, it simply fails to complete loading. no error handling.
+
+---
+
+> 最近（大概吧）GitHub 支持了 Google OAuth，于是我们现在可以用 Google 账号登录微软账号了
+
+"Sign in to Github to continue to Microsoft-Corporation"
+
+that's what corp style writing is.
+
+if you were google, you would say "to google", not "g llc", not "g corp". 
+
+---
+
+seems there's not a lot of meaningful saved msgs these says when i reflect on.
+
+---
+
+wow. 
+
+share.google.
+
+---
+
+google ai mode... 对于 bilibili 上的视频, 竟然会将标题和链接 url 搞错...
+
+不该是 quirks 吧.
+
+(upd: simple. just, it does not read the content. it could not know what the author is for a specific vid.)
+
+---
+
+on youtube it seems...
+
+some comments would be wrongly duplicated, esp for "show more"
+
+---
+
+on youtube live, clicking "chats" icon shows it. but clicking again does nothing?
+
+you could only click x.
+
+---
+
+突然发现 zhihu 好像连 (proven) tag 都没有.
+
+看 jiang zi jun, 我从来不看什么 "三国" 的.
 
 ---

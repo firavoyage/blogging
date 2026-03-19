@@ -16,7 +16,7 @@ $fira$ `elegance`
 
 > _just let time be 𝓅𝓇ℯ𝒸𝒾ℴ𝓊𝓈 💖_
 
-> _また　負けましたね　ふぁいら (ファイラ)_
+> _また　負けましたね　ふぁいら_ <!-- (ファイラ) -->
 
 > 一生懸命に
 
@@ -131,6 +131,7 @@ $fira$ `elegance`
     - anwnews anyway.fm/now
     - ark.studio
     - avstorm bento.me/storm iconists.co centralicons.com
+    - badlogic badlogicgames mariozechner.at pi.dev
     - basicappleguy basicappleguy.com
     - chen xiao origami
     - cyannyan6 hoshinolina cyannyan.com lina.yt
@@ -166,6 +167,7 @@ $fira$ `elegance`
     - maigolabs maigo.dev
     - manusai manus.im manus.im/docs/features manus.im/playbook awesome.manus.space
     - mitchellh mitchellh.com ghostty.org
+    - mitsuhiko lucumr.pocoo.org 
     - mugumogu maru
     - nadiamoe nadia.moe
     - nothing cmfbynothing essential nothing.tech essential.com
@@ -270,7 +272,6 @@ $fira$ `elegance`
     - grant sanderson 3blue1brown.com
     - hmuniversity hmu.ac.cn wildchickenuniversity wcu.edu.pl
     - hzwer hzwer.com
-    - jiang zi jun zhihu
     - jiangly codeforces
     - jiangyy jiang yanyan jyywiki.cn
     - kkksc03 luogu k.luogu.org
@@ -280,6 +281,7 @@ $fira$ `elegance`
     - menci men.ci oi.wiki loj.ac moeditor.github.io search.lingogram.app maigo.dev needle.maigo.dev amaoke.app chiyuki0325 chyk.ink
     - nayuki nayuki.io
     - one math
+    - oovm jiang zi jun zhihu
     - paulg paulgraham.com
     - pkuflyingpig csdiy
     - probiusofficial hello-ctf.com
@@ -474,14 +476,16 @@ $fira$ `elegance`
 - singles
   - hotel california (eagles)
   - shiori (mygo!!!!!)
+  - the big dango family (chata)
   - the girl who fell from the sky (joe hisaishi)
-  - Anytime Anywhere (milet)
+  - anytime anywhere (milet)
   - haru no kaze (aoi teshima)
   - suzume (cyan nyan)
   - henceforth (kagura mea)
   - in the end (linkin park)
   - mephisto (queen bee)
   - qun ding (mi feng chu)
+  - lv tong chong bai (0ne2345)
   - tui yi de ni (menci & wxh010910 & yan qval & krydom & niro bc & wer key tom_ftd & \_\_stdcall & created_equal & whzzt & wy1627)
 - films
   - spirited away (2001)
@@ -752,7 +756,7 @@ $fira$ `elegance`
 - knowledge isn't free. you have to pay attention.
 - i have a small device in my pocket that provides access to nearly the sum total of human knowledge. i use it to get into pointless arguments with people i don't know and look at pictures of cats.
 - two drifters off to see the world. there's such a lot of world to see... for every lonely and wandering soul. there is a lucky star behind the darkness. waiting and shining with the freshest hope and warmest aura. some day. till then
-- i shall be telling this with a sigh. somewhere ages and ages hence. two roads diverged in a wood, and i— i took the one less traveled by, and that has made all the difference.
+- i shall be telling this with a sigh. somewhere ages and ages hence. two roads diverged in a wood, and i - i took the one less traveled by, and that has made all the difference.
 - many years later as he faced the firing squad. colonel aureliano buendía was to remember that distant afternoon, when his father took him to discover ice. at that time macondo was a village of twenty adobe houses, built on the bank of a river of clear water that ran along a bed of polished stones, which were white and enormous, like prehistoric eggs. the world was so recent that many things lacked names. and in order to indicate them it was necessary to point.
 - konata is a mischievous, sarcastic and eccentric, yet good-natured and friendly girl, who is very intelligent but lazy, which is why her grades are uneasy
 - idle mode... _yawn_ how boring. if you're not solving problems or writing up contributions, then don't blame me if your life is boring.

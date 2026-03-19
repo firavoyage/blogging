@@ -64,7 +64,7 @@ sudo apt install -y neofetch fortune-mod cowsay cbonsai figlet lolcat toilet sl
 sudo apt install -y imagemagick ghostscript ffmpeg fontforge fonttools
 
 sudo apt install -y pandoc
-sudo apt install -y texlive-latex-base texlive-latex-recommended texlive-fonts-recommended texlive-latex-extra 
+sudo apt install -y texlive-latex-base texlive-latex-recommended texlive-fonts-recommended texlive-latex-extra
 sudo apt install -y texlive-xetex texlive-lang-chinese
 # example: pandoc '~.md' -o o.pdf --pdf-engine=xelatex -V CJKmainfont="Noto Sans CJK SC" -V geometry:"top=2cm, bottom=1.5cm, left=2cm, right=2cm"
 
@@ -130,7 +130,7 @@ sudo dpkg --add-architecture i386
 sudo apt install -y libasound2-plugins:i386 libsdl2-2.0-0:i386 libdbus-1-3:i386 libsqlite3-0:i386
 sudo apt install -y wine64 wine32 # seems apt version is more reliable. sabbat of witch and senrenbanka would err on wine-stable (read/write without access). yosuga no sora also works after installing 32 bit packages (instead of showing a transparent window), idk.
 
-sudo apt install -y libasound2-dev 
+sudo apt install -y libasound2-dev
 sudo apt install -y libfontconfig-dev
 sudo apt install -y winetricks
 winetricks sound=pulse # fix silence
@@ -1462,12 +1462,13 @@ sudo systemctl restart earlyoom
 
 ## `fonts`
 
-<!-- todo: learn on google fonts. find all fonts i love. organize. install. -->
+- install fonts <!-- copy the full fonts folder to ~/.local/share/fonts (result: ~/.local/share/fonts/fonts).  -->
 
-- install fonts <!-- copy to ~/.local/share/fonts -->
+  <!-- why full fonts folder: it handles like subfolders, duplicates, changed filenames, unrelated files, gracefully. while it does not seem to support VariableFont (e.g. font weights) well by default. -->
+
+  <!-- why `~/.local/share/fonts/fonts/myfont...` instead of `~/.local/share/fonts/myfont...`: later we will put some processed noto sans on `~/.local/share/fonts/noto...`, so having an extra nested fonts folder is actually clearer -->
+
   `repo: fonts`
-
-  <!-- only install needed. dumping everything might confuse the system font preference. -->
 
 - prefer sc for kanji
 
@@ -1754,7 +1755,7 @@ sudo systemctl restart earlyoom
   abnormal-command-exit-runtime = 0
 
   # normalize: add scrollbar # need version >= 1.3
-  scrollbar = system
+  scrollbar = system 
 
   # simplify: disable the "are you sure you want to close?" confirmation
   confirm-close-surface = false
@@ -1762,6 +1763,10 @@ sudo systemctl restart earlyoom
   # simplify: disable the paste-protection warning
   clipboard-paste-protection = false
 
+  # style: make it fullscreen by default
+  fullscreen = true
+  window-width = 9999
+  window-height = 9999
   EOF
   ```
 
@@ -1906,14 +1911,17 @@ sudo systemctl restart earlyoom
 
 - config extensions
   - style: justblack https://chromewebstore.google.com/detail/just-black/aghfnjkcakhmadgdomlmlhhaocbkloab
-  - simplify things: ublock origin https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm
+  - style: stylus <!-- download the mv2 version and load unpacked. https://github.com/openstyles/stylus -->
+    - lichess chessdotcom icons https://github.com/eigenpaul/lichess-custom-pieces/blob/main/chessdotcom.css
+  - simplify: ublock origin https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm
     - filter lists: add `cookie notices`, `annoyances`.
     - my fliters: `browser ublock origin.txt`
-  - automate things: tampermonkey https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmhtmlkfjojejmpbldmpobfkfo
+  - automate: tampermonkey https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmhtmlkfjojejmpbldmpobfkfo
     - disable update popup
       - settings: config mode `advanced`
       - settings: appearance: show update notification `disabled`
     - install `userscripts`
+  - normalize: don't close window with last tab https://chromewebstore.google.com/detail/dont-close-window-with-la/dlnpfhfhmkiebpnlllpehlmklgdggbhn?gl=us
   - enhance new tab: intention <!-- repo: f: intention. load unpacked with dev mode on. -->
     - allow in incognito
     - extension: keyboard shortcuts: intention: Open a new window with Intention's custom new tab `ctrl n`
@@ -2214,6 +2222,7 @@ zsh -ic 'push'
 ## `goldendict`
 
 - install dictionaries <!-- f3 -->
+
   - add
 
     ```sh
@@ -2851,4 +2860,7 @@ sudo apt install -y stockfish pychess
 flatpak install -y flathub org.gnome.Chess
 
 cargo install mdbook
+
+flatpak install -y flathub net.dengine.Doomsday # need game files (wad)
+sudo apt install -y chocolate-doom
 ```
