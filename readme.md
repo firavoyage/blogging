@@ -167,7 +167,7 @@ $fira$ `elegance`
     - maigolabs maigo.dev
     - manusai manus.im manus.im/docs/features manus.im/playbook awesome.manus.space
     - mitchellh mitchellh.com ghostty.org
-    - mitsuhiko lucumr.pocoo.org 
+    - mitsuhiko lucumr.pocoo.org
     - mugumogu maru
     - nadiamoe nadia.moe
     - nothing cmfbynothing essential nothing.tech essential.com
@@ -392,6 +392,7 @@ $fira$ `elegance`
     - gaou
     - gmhikaru
     - hongkongdoll exlibris
+    - johnbartholomewchess fins0905
     - ke jie
     - lciop
     - led zeppelin
@@ -715,7 +716,7 @@ $fira$ `elegance`
   - internet archive · archive.today · the pirate bay · z library · anna's archive · archivecaslytosk.onion
   - youtube · berryberry · douyin · niconico · hololist · vtbs.moe
   - old reddit · twitter · zhihu · nga bbs · baidu tieba · pincong.rocks
-  - hacker news · v2ex · liqi.io · github trending · product hunt · codepen spark
+  - hacker news · lobste.rs · v2ex · liqi.io · github trending · product hunt · codepen spark
   - figma · paper.design · unicorn.studio · canva · khroma · coolors
   - douban · imdb · metacritic · bangumi.tv · my anime list · nyaa.si · dmhy.org · bgmlist · mikan project · zimuku · yuc.wiki
   - pixiv · dribbble · deviantart · unsplash · civitai
@@ -907,7 +908,7 @@ $fira$ `elegance`
 
 <!--
 
-email is deprecated. 
+email is deprecated.
 
 use git for coop swe. use tg (matrix is less feature rich) for im.
 

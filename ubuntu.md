@@ -97,8 +97,9 @@ sudo npm install -g pnpm
 
 pnpm config set registry https://registry.npmmirror.com
 
-pnpm add -g tsx cloc
 pnpm add -g opencode-ai@latest
+pnpm add -g cloc
+pnpm add -g tsx parcel vite webpack
 
 python3 -m pip config set global.break-system-packages true # simplify: remove meaningless warning for current user.
 
@@ -302,7 +303,8 @@ sudo systemctl restart earlyoom
       "editor.fontFamily": "\"Fira Code\", \"Noto Sans CJK SC\", \"Adobe Kaiti Std\", monospace",
       "workbench.activityBar.location": "hidden",
       "code-runner.executorMap": {
-        "html": "cd $dir && xdg-open '$fileName'",
+        "html": "cd $dir && parcel serve '$fileName' --open --dist-dir .build --cache-dir .build/.parcel-cache",
+
         "pdf": "cd $dir && xdg-open '$fileName'",
         "md": "cd $dir && xdg-open '$fileName'",
         "javascript": "cd $dir && tsx '$fileName'",
@@ -362,7 +364,7 @@ sudo systemctl restart earlyoom
       "workbench.editor.showTabs": "none",
       "window.menuBarVisibility": "toggle",
       "git.openRepositoryInParentFolders": "never",
-      "terminal.integrated.enableMultiLinePasteWarning": false,
+      "terminal.integrated.enableMultiLinePasteWarning": "never",
       "editor.minimap.enabled": false,
       "workbench.statusBar.visible": false,
       "update.showReleaseNotes": false,
@@ -436,7 +438,12 @@ sudo systemctl restart earlyoom
       "chat.disableAIFeatures": true,
       "extensions.ignoreRecommendations": true,
       "security.workspace.trust.enabled": false,
-      "update.mode": "none"
+      "update.mode": "none",
+      "security.workspace.trust.banner": "never",
+      "security.workspace.trust.startupPrompt": "never",
+      "json.schemaDownload.trustedDomains": {
+        "*": true
+      }
     }
     ```
 
@@ -2823,9 +2830,12 @@ flatpak install -y flathub org.geogebra.GeoGebra
 flatpak install -y flathub com.valvesoftware.Steam
 flatpak install -y flathub sh.ppy.osu
 flatpak install -y flathub org.libretro.RetroArch
-wget -c -O "eden.deb" https://github.com/eden-emulator/Releases/releases/download/v0.2.0-rc1/Eden-Ubuntu-24.04-v0.2.0-rc1-amd64.deb
-sudo dpkg -i eden.deb
+EDEN_URL="https://github.com/eden-emulator/Releases/releases/download/v0.2.0-rc1/Eden-Ubuntu-24.04-v0.2.0-rc1-amd64.deb"
+EDEN_FILE="eden.deb"
+wget -c -O "$EDEN_FILE" "$EDEN_URL"
+sudo dpkg -i "$EDEN_FILE"
 sudo apt install -f -y  # Fix any missing deps
+rm "$EDEN_FILE" # clean up
 
 flatpak install -y flathub org.qbittorrent.qBittorrent
 flatpak install -y flathub org.torproject.torbrowser-launcher
@@ -2852,12 +2862,17 @@ flatpak install -y flathub org.kde.elisa
 flatpak install -y flathub net.lrclib.lrcget
 pipx install yt-dlp
 
-sudo apt install -y virtualbox
 flatpak install -y flathub org.gnome.Boxes
+sudo apt install -y qemu-utils
 
 pip install katrain
 sudo apt install -y stockfish pychess
 flatpak install -y flathub org.gnome.Chess
+Croissant_URL="https://github.com/franciscoBSalgueiro/en-croissant/releases/download/v0.15.0/en-croissant_0.15.0_amd64.deb"
+Croissant_FILE="croissant.deb"
+wget -c -O "$Croissant_FILE" "$Croissant_URL"
+sudo dpkg -i "$Croissant_FILE"
+rm "$Croissant_FILE" # clean up
 
 cargo install mdbook
 

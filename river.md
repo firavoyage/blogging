@@ -368,6 +368,8 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `9` 2026.03.17
 - `10` 2026.03.18
 - `11` 2026.03.19
+- `12` 2026.03.20
+- `13` 2026.03.21
 
 ## gaming
 
@@ -19375,5 +19377,50 @@ you could only click x.
 突然发现 zhihu 好像连 (proven) tag 都没有.
 
 看 jiang zi jun, 我从来不看什么 "三国" 的.
+
+---
+
+https://www.bilibili.com/video/BV11F411f7xk
+
+在世界市值第二的公司上班是什么体验
+
+> 不是，Edge是你们开发的吗？提个意见，最后一个标签页关掉就关闭整个浏览器，这是哪个策划拍脑袋想出来的？必须要装插件才能避免这种情况。
+> 另外鼠标手势什么时候能够实装？现在还要在启动行加参数，好麻烦。
+
+resonates...
+
+---
+
+chyk 使用新的技术重写了 blog.
+
+检查一下!
+
+use one of the rare chinese fonts on sil license.
+
+lxgw wenkai.
+
+---
+
+tests are the only value since then?
+
+---
+
+> Stalling is a problem in longer time formats, which is why you have the option to report for stalling. "Make the best of it" and "just be happy with the win" don't change the fact that you have to wait 10 minutes doing nothing. For your own good you might consider just resigning the game yourself and doing something more meaningful, even playing another game, but that's why they're doing it unfortunately. If it wasn't for stalling I might play more 15|10 instead of 10|0.
+
+---
+
+i could not view shared sessions wo login to claude?
+
+damn. the link rotted. dont trust any cloud providers.
+
+well, the site has some visual issues. the animations, (which should be animated svg if possible, or gif to be simple), has some glitches. after waiting, it fixes automatically (maybe due to slow loading).
+
+---
+
+`message`
+
+to ziantt twitter (she replies my dm?)
+
+高一的时候, 第一次考试. 第一名是 f. 第二名是 zhijun. 第四名是 yiping. f 去往了上海理工大学. zhijun 去往了上海大学. zhijun 在后来的日子里几乎一直是年级第一了, 没有人可以与之竞争. 说到底, 从最后行为观察看来, f 不向学, 至少语文课内背诵都没有完成, 圆锥曲线也没有练习, 总之那些空白的下发的或者购买的大致都不会有用处了. 即使以后做相关工作, 也应该不会扫描这些. yiping 去往了一个学院结尾的学校, 总感觉有些残念的. zian 之前记得 "总不能真去 binda 吧", 现在看来, 名单上学院结尾的行还真不少. 有些孩子在学校里就充满了纨绔的爱好, 也不知道什么情况, 或许还没有 f 富裕, 也不知道羡慕还是嘲讽还是疑惑. 想来, 年级第一, zhijun 也会带智能手机来学校, 玩棋, 玩游戏, 但总感觉身上有一种乖巧, 或许他配得上这种乖巧 (简明地顺从任务并总是得到正确答案/结果) 吧. 
 
 ---
