@@ -107,6 +107,11 @@ source
 - music videos
 - magnet library
 
+normalize
+
+- understand `&` and `,` in singers
+- see translations together
+
 inspired by
 
 - spotify
@@ -737,6 +742,22 @@ inspired by
 - stable diffusion
 - midjourney
 
+## design
+
+`adwaita`
+
+> the one and only.
+
+inspired by
+
+- gnome
+
+`sekai`
+
+inspired by
+
+- project sekai
+
 ## connect
 
 `bird`
@@ -758,6 +779,19 @@ inspired by
 - twitter
 - mastodon
 - bluesky?
+
+`trkr`
+
+> observe and analyze.
+
+inspired by
+
+- trackback
+- rss
+- activity pub
+- telegram: same group
+- telegram indexers
+- twitter: accounts you follow and who they follow
 
 `human`
 
@@ -1104,6 +1138,20 @@ ai
 inspired by
 
 - nulls royale
+
+`wishes`
+
+> "赛博寄愿"
+
+features
+
+- fights
+- celebrities
+- politics & history
+
+inspired by
+
+- ace taffy
 
 ## .
 

@@ -1,39 +1,37 @@
-- aegis-authenticator
-- ahqgo
-- ankidroid
-- antennapod
-- bilibili
 - bilimiao
-- breezy-weather
-- capcut
-- clash-meta
-- douyin
-- duolingo -mod
-- ehviewer
-- eudic
-- fcitx5-android
-- fossify-voicerecorder
-- gboard
-- k9-mail
-- legado
-- litiaotiao
-- material-files
-- metro
-- mihuashi
-- musicfree
-- musictag
-- nekogram
-- onscripter-yuri
-- pixiv -mod
-- retouch
-- screen-time
 - simplelive
-- snapseed
-- solid-explorer
-- spotify -mod
-- weiqibaodian
+- zhihu
+- antennapod
+- metro music player
+- vlc
+- ayugram
 - wenku8
-- xiaoyuansouti
-- zhiliao
-- zhizigo
-- zuoyebang
+- screen time
+- camera
+- snapseed
+- material files
+- breezy weather
+- gboard
+- fcitx5
+- duolingo --mod
+- anki droid
+- eudic
+- aegis authenticator
+- clash meta
+- fluffy chat
+- messages
+- phone
+- pixiv --mod
+- shizuku
+- canta
+- aurora store
+- etch droid
+- play store
+- music tag
+- fossify voice recorder
+- ehviewer
+- pocket paint
+- google calculator
+- google maps
+- osmand
+- sndcpy

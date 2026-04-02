@@ -370,6 +370,21 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `11` 2026.03.19
 - `12` 2026.03.20
 - `13` 2026.03.21
+- `14` 2026.03.22
+- `15` 2026.03.23
+- `16` 2026.03.24
+- `17` 2026.03.25
+- `18` 2026.03.26
+- `19` 2026.03.27
+- `20` 2026.03.28
+- `21` 2026.03.29
+- `22` 2026.03.30
+- `ova1` 2026.03.31
+- `ova2` 2026.04.01
+
+### puella magi madoka magica
+
+- `1` 2026.04.02
 
 ## gaming
 
@@ -17773,6 +17788,8 @@ humans are ambiguous. humans are complex.
 
 ---
 
+`dream`
+
 a dream.
 
 a car. a car of wings. plane wings.
@@ -19422,5 +19439,587 @@ well, the site has some visual issues. the animations, (which should be animated
 to ziantt twitter (she replies my dm?)
 
 高一的时候, 第一次考试. 第一名是 f. 第二名是 zhijun. 第四名是 yiping. f 去往了上海理工大学. zhijun 去往了上海大学. zhijun 在后来的日子里几乎一直是年级第一了, 没有人可以与之竞争. 说到底, 从最后行为观察看来, f 不向学, 至少语文课内背诵都没有完成, 圆锥曲线也没有练习, 总之那些空白的下发的或者购买的大致都不会有用处了. 即使以后做相关工作, 也应该不会扫描这些. yiping 去往了一个学院结尾的学校, 总感觉有些残念的. zian 之前记得 "总不能真去 binda 吧", 现在看来, 名单上学院结尾的行还真不少. 有些孩子在学校里就充满了纨绔的爱好, 也不知道什么情况, 或许还没有 f 富裕, 也不知道羡慕还是嘲讽还是疑惑. 想来, 年级第一, zhijun 也会带智能手机来学校, 玩棋, 玩游戏, 但总感觉身上有一种乖巧, 或许他配得上这种乖巧 (简明地顺从任务并总是得到正确答案/结果) 吧. 
+
+upd:
+
+ZianTT @ZianTT_Official 
+
+Joined August 2023
+
+Sat, Jan 24
+
+春考如何? 5:48 PM Seen by ZianTT Feb 2 at 3:10 AM
+
+Fri, Mar 20
+
+This conversation is now end-to-end encrypted
+
+(image)
+
+hi
+
+(image) 12:36 PM Seen by ZianTT Mar 20 at 7:43 PM
+
+Sat, Mar 21
+
+xm 6:42 PM
+
+Sun, Mar 22
+
+~ 12:07 AM Seen by ZianTT Sun at 2:28 AM
+
+哎 2:40 AM
+
+(on twitter, it uses 12 am instead of 0 am. maybe it uses 12 pm for noon then?)
+
+(btw, menci does not read my msg. maybe she does not check dm. good.)
+
+---
+
+menci 一直在半夜活动.
+
+---
+
+检查了 wey-gu github sponsor.
+
+可能中文开发者... 我猜测不超过 1k 人.
+
+---
+
+mem (by wey-gu, from menci twitter.)
+
+ONE MEMORY LAYER ACROSS YOUR AI TOOLS.
+AI tools change.
+Your memory should not.
+Keep your chats, notes, files, and decisions across AI tools on your own machine, where they become more useful over time.
+
+a modern landing page. i dont like this style, though. "not yc backed"
+
+i dont think... well, maybe she's just not good at writing.
+
+i guess...
+
+a. you export. 
+
+how could you export. it's against for profit companies. most ppl use free tier or subscriptions. you could use hacks/workarounds/rev-engineers/rev-proxies, though. 
+
+so it works for ppl who use llm apis. 
+
+b. you manage.
+
+you can store first, and manager later.
+
+just store files. you can organize them at any time.
+
+c. you provide.
+
+what do you provide. let me see...
+
+upd: later, i agree it's solving a real problem, a small but serious one, though. the zh-cn devs are always praising (sponsoring) each other. i dont laugh at. i dont hate. that's the world itself. i dont have to sigh either. for me, i will just have some text files. idk what the vibe coders are building, though. most are toys. some are existing tools, but shipped with more speed (do we need?). well, it's better than nothing. openclaw is shit. but openclaw, or generally, hypes, are not nonsense, right?
+
+---
+
+it feels better to watch yt without cc.
+
+pure vid. no distraction.
+
+you have to focus. yet it feels good.
+
+---
+
+lobehub is really aggressive on ai seo.
+
+idk. well, anyway.
+
+---
+
+the problem is google ai mode sometimes apply "google sans" on font family, sometimes not.
+
+today it applies on paragraphs, but not an headings (where only "Arial", and sans serif exist, which implies liberation serif.). 
+
+the css in js libraries generates nonsense classes, well, hashes.
+
+and sometimes put undefined as css props (or keys, idk).
+
+very unpredictable. lol.
+
+also, the link does not render properly when hovering. instead, it jumps to somewhere prev. maybe wrong mapping.
+
+---
+
+youtube sometimes renders italic (idk, it shows that's roboto network res).
+
+you have to reload to solve.
+
+and, at the same time, when network changes (your computer naps for a while, like), it reloads itself. it's not really smooth (cc settings are not preserved).
+
+---
+
+`quote`
+
+my blunder was a brilliant move!
+
+---
+
+for this case, when the script fetches a json on the relative path,
+
+parcel does not put the json file into build. it thought i dont need that. 
+
+yeah. in modern best prac, i either import it, or fetch from the local server.
+
+but it's not expected.
+
+vite handles this well, and it does not cache or create static files (which cost speed, actually).
+
+yet, vite has quirks. you could not put open flag after the filename, or it will webpage not found. clearly, you should not depend on the order of flags, you could not assume we dont know that.
+
+---
+
+great. chatgpt adds a simple "toc" (hover to reveal) like grok.
+
+though, it feats and fixes slowly.
+
+---
+
+chatgpt stops thinking when i leave the tab and it shows it has thought for 40 mins without producing any new thought.
+
+---
+
+"hide views under tweets"...
+
+control panel for twitter.
+
+well... that... 
+
+well. i think... maybe i really dont need that.
+
+but, maybe it's enough to just hide in the first place. i still wanna see it... sometimes? (well, the current behavior is... it's unpredictable. maybe it wanna hide, but sometimes it fails.)
+
+---
+
+wow, github workspace is really great.
+
+idk how much ppl would use it though, compability engineering is great.
+
+let's see if it could sync my settings... (will it... like connect with local? run rust?)
+
+---
+
+i no longer paste all google ai threads.
+
+searching is just searching.
+
+sometimes, you use it to think. that's it.
+
+---
+
+slay the spire 2 is mainly a pve game.
+
+(slay the spire 1 is a strictly pve game in the official one)
+
+---
+
+df does not have many maps.
+
+aerospace is still dominant. after... years?
+
+i still dont wanna re dl it...
+
+lao fei yu is fun, though.
+
+---
+
+> The previous information about MiniMax-M2.5's RAM requirements and performance impact is accurate based on current 2026 deployment data. The model’s massive 230B total parameter count remains the primary driver of its high memory footprint, even with its efficient 10B active parameter Mixture-of-Experts (MoE) design. 
+
+> The engineering foundation of the Mac is indeed fundamentally different from a standard PC, and your assessment that this is a highly strategic design choice is accurate. The effectiveness of Apple Silicon for AI workloads in 2026 stems from three core architectural pillars:
+
+> You’ve hit on the exact "identity crisis" of high-end Apple Silicon. Apple has engineered a tier of hardware that is too expensive for most individuals, but not scalable enough for big corporations.
+
+> The assessment that high-end Macs occupy a "no-man's land" between personal use and enterprise-scale hosting is accurate. While Apple Silicon offers a unique value proposition for AI, it faces structural barriers that prevent it from being the choice for either "normal people" or large-scale "big hosters." 
+
+---
+
+> Yes, Slay the Spire 2 is currently in Early Access. It was released on Steam for Windows PC on March 5, 2026. 
+> 
+> The game is expected to remain in Early Access for approximately 1 to 2 years (until 2027 or 2028) as the developers at Mega Crit add more content and refine the balance based on player feedback.
+
+---
+
+`dream`
+
+梦见了...
+
+一个幻灯片列表.
+
+横向大概有 4 个, 或者到 6 个.
+
+竖向可以拉滚动条. 目前在最上面.
+
+每一道题都有解答. 标题. 正文. 人物画中画.
+
+春考的题目. 很简单的那些. 
+
+虽然我答错了. 
+
+- 水的电离, 及其影响因素 (读作水的电解了, 我. 后面也没有化学老师提问, 大概看出我很菜很菜了.)
+- 短路原因, 影响 (这个答对了, 应该. 不过后面人工提问, 单摆的公式. 应该是不会. 他引导, 月球上, 地球上, 周期? 幅度? 我也只能用极限去想, 比如没有重力会一直转等价于平面, 很多重力会转不过去这样.)
+- 全球变暖会导致 (南? 北?) 极冰川熔化, 其又会反作用于全球变暖. 为什么. (完全不会. 后来也没有地理老师提问.)
+
+---
+
+人生不是下限游戏.
+
+(某人离世, 即使在 twitter 上也流行了. 简体中文社群没人了.)
+
+(忽然想起, 初中面试, 一会说祖辈工作, 学历... 智力竞技的爱好... 暗含什么呢?)
+
+---
+
+twitter is good. it's fun.
+
+hypes. fomo. you can notice and ignore them.
+
+but... whatever, it's... just... trivial.
+
+> trends > news.
+
+that's why i no longer check it daily.
+
+---
+
+ip2location.
+
+nothing. a korean proxy, 0 fraud score.
+
+not dch. 
+
+---
+
+gpt 5.3 now matches my style sometimes, like prev grok.
+
+it no longer uses captical letters at the line beginning.
+
+well... i might say... it's not completely good. 
+
+---
+
+reddit:
+
+> 应该找个人告诉他们，一边封禁机房ip地址，一边启用简体中文自动翻译，这样完全没有逻辑……
+
+(from cyan nyan tg group)
+
+> 封禁机房ip：反爬，保证用户体验
+> 自动翻译：加强用户体验
+> 
+> 可能是这么个逻辑
+
+---
+
+> Versatility: If you provide package names as arguments (e.g., pnpm install <pkg>), it behaves exactly like pnpm add
+
+---
+
+nanami is watching oppenheimer.
+
+i would watch it one day.
+
+---
+
+> LTT appears in your search because they have a massive, tech-savvy audience that knows how to pirate and where to look. A VTuber with 500k views has a dedicated audience, but they aren't "mass market" enough for a random pirate in another country to bother scraping their 3-hour karaoke stream.
+> 
+> In short: Piracy follows the money (courses) or the libido (porn). If it’s just a "comfy chat," it rarely makes it to the magnet trackers.
+
+---
+
+> The Four Asian Tigers—Hong Kong, Singapore, South Korea, and Taiwan—are high-income, developed economies in East and Southeast Asia known for their rapid industrialization and exceptionally high growth rates (exceeding 7% annually) between the 1960s and 1990s. 
+
+---
+
+danmaku on funshiki live
+
+> 篮球需要身体对抗, 排球更多肉体展示
+
+---
+
+wow, mootools can tree shake at that time of history.
+
+---
+
+if a hardware is built with the purpose to restrict you, it could definitely find a way, and loopholes are not always available.
+
+the practical mindset is to buy a decent device.
+
+---
+
+kawaii, helvetica neue!
+
+---
+
+chyk 可以在 master 打 all perfect.
+
+fira 只可以在 hard 打 full combo.
+
+---
+
+`weather` `ref`
+
+zhihu 真好啊.
+
+internet 真好啊.
+
+一个中科大少年班的日常故事, 可以吸引那么多 "people that make a difference".
+
+都是真人. 真实的情感. 仿佛早期互联网.
+
+那些科男, 大多也是动画少女头像, 时下流行的 id 和语言方式.
+
+"妮可"
+
+> 这个世界上没有多少人.
+>
+> there are not so many (non trivial) people in the world.
+>
+> (cursor, lex f podcast)
+
+---
+
+`/` is the only forbidden character on ubuntu.
+
+ytdlp use `⧸` instead of leo need
+
+wise.
+
+---
+
+> 「我的xp之内并没有一丝污浊。」
+> 「我要纠正你，在这里，人并不对内鬼背负罪孽，能下达判决的只有法务部与裁判庭。」
+> 「他们甚至连我也可以裁判。赞美我的崇高与纯洁吧。」
+
+> 唉…造福玩家 卻自己扛下了所有
+> 辛苦了 後面的路我們沒辦法陪你走了
+
+---
+
+android can not receive `Nightcord at 25:00` folder?
+
+well, it's not stopped. it's panic!
+
+try with `U+A789`, just like neo/need.
+
+---
+
+menci
+
+双厨狂喜（？
+
+> Translated from Japanese
+> 
+> Double Kitchen Enthusiasm (?).
+
+---
+
+i dont have to see through icon packs to know how humans create taxonomy.
+
+it's simple.
+
+---
+
+抖音首页连续下滑 12 个视频, 就出现性能问题. (10 fps?)
+
+多次复现.
+
+weird.
+
+---
+
+`weather`
+
+why clickbait.
+
+- to clickbait, you not only attract small potatoes. you might also attract people. (ref: slient gamedev, over relying on the age)
+- even though, without clickbait, i might also achieve what i want. even though, clickbaiting might give me nothing. im young, careless, with nothing to lose. think it as clickgambit. fun, right?
+- i have some niche approaches. you will know im one with social class. (ref: adhensiontek, funshiki)
+
+---
+
+the halloween gambit is a blunder.
+
+---
+
+run yarn on home.
+
+weird.
+
+it tries to install something... and found no lock file obviously.
+
+yet, it creates the lock file and an empty node modules.
+
+i suppose it will be dry, and show help/version, or get into somewhere interactive.
+
+---
+
+vite does not serve the app.html.
+
+when you dont explicitly type the filename it does not return a page.
+
+parcel does.
+
+---
+
+> 数码小白真的只需要一个有一点水平的做得好看的视频。太硬核的看不懂，例如极客湾是真有水平，但是在那讲性能，是真没意思啊[捂脸]
+
+---
+
+> 见证史上 star 增长速度最快的仓库：Claude Code 泄漏源码仓库
+> 
+> 15 分钟前创建，已经 4k+ stars 了
+> 
+> 先存为敬
+
+### apr 2026
+
+tada
+That's everything we found for you, for now.
+
+very wise design. kudos to github explore devs. 
+
+no doom scrolling!
+
+---
+
+Cody gua on apr fools day
+
+> This message can be displayed because it didn't violated Telegram's Terms of Service.
+
+---
+
+小桂桂的回忆录 📒, [4/1/26 1:23 AM]
+This message cannot be displayed because it violated Telegram's Terms of Service.
+
+Menci 💖, [4/1/26 1:24 AM]
+This message can be displayed because it didn't violate Telegram's Terms of Service.
+
+Equilibrium, [4/1/26 1:24 AM]
+This message can be displayed because it didn't violated Telegram's Terms of Service.
+
+Equilibrium, [4/1/26 1:24 AM]
+怎么开回响了
+
+澪, [4/1/26 1:24 AM]
+This message can be displayed because it didn't violate Telegram's Terms of Service.
+
+324A1BA07BB1D6211E458DF3A62D7F2466DA994A3C7C0F81B47A067334D3C3C3, [4/1/26 1:28 AM]
+This message can be displayed because it didn't violated Telegram's Terms of Service. Additionally, you can also v 50 to me so I can have KFC's Crazy Thursday tomorrow.
+
+vahiru | 重度失眠, [4/1/26 1:33 AM]
+This message can be displayed because it didn't violated Telegram's Terms of Service.
+
+---
+
+mewx uses facebook.
+
+one of the ppl ik in au also uses facebook.
+
+not (really) twitter. not telegram.
+
+i think, it's a strong meaningful pattern.
+
+---
+
+> In the standard (Release) version of Firefox, it is not possible to permanently install extensions without them being signed by Mozilla.
+
+what the hell.
+
+more than google, even more dictatorship than xi.
+
+> While Chrome mandates Service Workers for MV3, Firefox opted to support Event Pages first. This allows developers to keep using certain DOM-related APIs that are unavailable in Service Workers. As of April 2026, Service Worker support in Firefox remains a work in progress and is often disabled by default in stable releases. 
+
+what the hell.
+
+btw, i could only load .zip, .xpi (a kind of special zip, like epub), and manifest.json.
+
+it's intuitive. but could you just load a folder, and detect the manifest file?
+
+poor ux like other foss apps. god damn mozilla. 
+
+im not just talking about dx. i mean the full ux, like the ui design.
+
+google has material design. what does firefox have. (i use firefox on android btw as the standard chrome does not support extensions and i dont wanna use small alternatives.)
+
+look at the three dots menu. chrome (android app) shows a list (categorized with `---`), you can even click and drag and mouse up to pick an item. firefox... well, kind of ordered. another kind of order.
+
+---
+
+> The ECONNRESET error on your mobile hotspot is likely caused by network concurrency limits. While browsing works fine (it opens just a few connections at a time), pnpm is designed for speed and tries to open many simultaneous connections to download packages as fast as possible.
+
+---
+
+> All Posts from @Snow_Xue_ have been withheld in all countries because the user violates the X Hateful Profile Policy. Learn more
+
+what the hell?
+
+> @Snow_Xue_ is temporarily unavailable because it violates the X Hateful Profile Policy. https://Learn more.
+
+(twitter supports either with `@` or not in the url. good)
+
+1,399 Following
+1,918 Followers
+
+call for mastodon!
+
+> 别的不予置评，但那个傻逼冰棍活该被警察找😋
+
+> 冰棍被晶是自己往槍口撞吧 把QQ群改那種名字
+
+---
+
+i dont wann manually test whether i like each singer.
+
+ReoNa
+
+Minami
+
+Yorushika
+
+ZUTOMAYO
+
+Majiko
+
+EGOIST
+
+---
+
+> VS Code's built-in Markdown preview follows the CommonMark specification, which naturally allows and renders raw HTML. There is currently no native setting to globally disable HTML rendering in the preview while leaving it as plain text. 
+
+---
+
+```sh
+sudo apt purge "emacs*"
+```
+
+this is too dangerous.
+
+i broke my ubuntu before with apt purge. (that time, i matched too much things, nothing could work.)
+
+(though, it turned out to be good for me. all projects are kept on git remote, well, actually files are not removed. and it forced me to reinstall the os and rewrite a cleaner ubuntu.md)
+
+though, it seems safe.
+
+(no idea why it removes fcitx5 and clash verge. maybe more.)
+
+(In the case of Eden, purging deps of an emulator kills even more.)
+
+---
+
+> To avoid this in the future, never use wildcards with purge unless you simulate it first. If you just want to remove the main Emacs application without touching the shared system libraries like emacsen-common, use:
+
+---
+
+Resolve the following violations before pushing again
+
+Push cannot contain secrets
+
+wtf, it blocks my full push.
 
 ---

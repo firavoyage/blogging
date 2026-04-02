@@ -27,6 +27,9 @@ HISTFILE=~/.zsh_history
 autoload -Uz compinit
 compinit -C
 
+# disable history expansion (!ls -> the latest ls command)
+unsetopt BANG_HIST
+
 zstyle ':completion:*' auto-description 'specify: %d'
 zstyle ':completion:*' completer _expand _complete _correct _approximate
 zstyle ':completion:*' format 'Completing %d'
@@ -50,7 +53,7 @@ zstyle ':completion:*:kill:*' command 'ps -u $USER -o pid,%cpu,tty,cputime,cmd'
 # ================================
 
 push() {
-  set -e  # stop on any error
+  # set -e  # no need to stop on any error, rather push more, not less
   echo "Starting push..."
 
   cd ~
@@ -195,7 +198,6 @@ export ALL_PROXY="socks5://127.0.0.1:7890"
 export PATH="$HOME/.local/bin:$PATH"
 
 # ollama
-
 export OLLAMA_HOST=127.0.0.1:11434
 
 # opencode
@@ -226,9 +228,8 @@ add-zsh-hook preexec _preload_nvm
 # pg
 export PATH=/usr/lib/postgresql/16/bin:$PATH
 
-# deno
-. "/home/fira/.deno/env"
-
 # android
 JAVA_HOME=/usr/lib/jvm/java-17-openjdk-amd64
 
+# openclaw
+source "/home/fira/.openclaw/completions/openclaw.zsh"

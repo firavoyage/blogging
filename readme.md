@@ -8,7 +8,9 @@ $fira$ `elegance`
 
 <!-- stand w/ f. -->
 
-<!-- unemployed. free @home. -->
+<!-- free @home. -->
+
+<!-- not backed by yc. -->
 
 > $welcome \space to \space hotel \space california$
 
@@ -76,7 +78,7 @@ $fira$ `elegance`
 
 <!-- 羡慕死了 -->
 
-- fira 💖, she/her (without 🏳️‍⚧️ or 🍥), 🇬🇧 user, 🇨🇳 native but rarely used, 🇯🇵 learner, 🇫🇷 very beginner
+- fira 💖, she/her (without 🏳️‍⚧️ or 🍥), 🇬🇧 user, 🇨🇳 native but rarely used, 🇯🇵 beginner, 🇫🇷 very beginner
 - a developer, content creator, wikipedian
 - grew up in the global village
 - on the internet since 2019, which is my actual "home town"
@@ -158,6 +160,7 @@ $fira$ `elegance`
     - karrisaarinen karrisaarinen.com linear.app
     - laplace_news laplace.live
     - larrasket larr.net lr0.org
+    - leohearts taroleohearts whatdoespotatoeattoday leohearts.com clansty nyac.at
     - leongao leongao.com dribbble.com/leongao
     - linandliwoodworks
     - lingdong huang lingdong.works wy-lang.org
@@ -177,15 +180,16 @@ $fira$ `elegance`
     - q.ai
     - re-xyr dayli.ly
     - rea1donandtrump rene.wang detail.design ygeeker.com
+    - rimochan icp.gov.moe librian.net
     - ryokun6 ryo.lu os.ryo.lu work.ryo.lu soundboard.ryo.lu
     - saeziae estela.moe estela.moe/drawer @sz@catcatnya.com
     - sdw sdw.space
     - shadcn shadcn.com
     - shuding shud.in
+    - sindresorhus sindresorhus.com vadimdemedes vadimdemedes.com term.ink
     - snailmr99 shitjournal.org
     - spottedinprod spottedinprod.com
     - steve jobs apple
-    - taroleohearts whatdoespotatoeattoday leohearts.com
     - tenthousandyes
     - thexclu clu.so capwords.app
     - tim mediastorm
@@ -196,15 +200,17 @@ $fira$ `elegance`
     - yuutaw yuuta.moe winsloweric.com
   - code & creation
     - adamwathan adamwathan.me tailwindcss.com
-    - andrewgy8 andrewgy8.github.io/hnarcade/
+    - andrewgy8 andrewgy8.github.io/hnarcade
     - anomalyco anoma.ly opencode.ai opentui.com models.dev
     - apersongithub apersongithub.github.io/portfolio duolingo-unlimited-hearts
     - arvin17x lobehub.com
+    - bellard bellard.org ffmpeg.org qemu.org bellard.org/jslinux
     - bradwoods bradwoods.io garden.bradwoods.io
     - chriscoyier css-tricks.com codepen.io chriscoyier.net
     - cline cline.bot
+    - colinhacks colinhacks.com zod.dev trpc.io
     - disdjj blog.pdjjq.org
-    - diygod awesomediygod prpr233 diygod.cc rsshub.app folo.is
+    - diygod diydoge awesomediygod prpr233 diygod.cc rsshub.app folo.is justjustjustcc
     - egoist egoist.dev chatwise.app anime-sedai.egoist.dev
     - elleflorio florio.dev
     - eryouhao fehey.com gridea.dev flodo.today minttr.com
@@ -237,7 +243,9 @@ $fira$ `elegance`
     - luoling8192 luoling.moe airi.moeru.ai
     - luvletter2333 haruhi_smith nekox nagramx haruhi_channel
     - lyricat lyric.im
+    - mabbs mayx unmayx mayx.eu.org mabbs.github.io sayhanabi.net sayhuahuo.net mayx.eu.org/proxylist mayx.eu.org/other_repo_list
     - matrixcascade dbinary painterengine.com
+    - mewx yuanzhongxia axia mewx.org wenku8.mewx.org wenku8.com crosschannel.games doubak
     - michaelyuhe coooolxyh emojionly.chat travelclaw.app
     - moxie signal.org
     - nat friedman nat.org github
@@ -253,21 +261,25 @@ $fira$ `elegance`
     - sama sam altman blog.samaltman.com openai.com
     - samuelqzq qzq.at
     - scavenger869 loongphy.com
+    - sdushantha sdushantha.github.io sherlockproject.xyz
     - share121 inter-knot s121.top fd.s121.top
-    - sheepbox8646 acboxliu acbox.lol chattutor.app memoh.ai
+    - sheepbox8646 acboxliu acbox_space acbox.lol chattutor.app memoh.ai
     - simonw simonwillison simonwillison.net
     - steipete steipete.me clawd.bot moltbook.com clawk.ai
     - swyxio swyx.io/ideas latent.space dx.tips learninpublic.org
-    - timqian timqian.com
+    - timqian tim_qian timqian.com
     - tualatrix imtx.me poptranslate.app manico.im pastenow.app
     - unixzii cyandev.app
     - voidzerodev voidzero.dev
     - wesbos wesbos.com javascript30.com
+    - wey-gu siwei.io nowled.ge nowledge-labs.ai mem.nowledge.co
     - xiaoyaocz xiaoyaocz.com simplelive
     - yusixian blog.cosine.ren/weekly
+    - yzqzss blog.othing.xyz saveweb.org
     - zhao-stanley stanleyzhao.com web.lab
   - education
     - ayumu maki-math.com
+    - bellingcat bellingcat.com bellingcat.gitbook.io
     - codingstartup
     - grant sanderson 3blue1brown.com
     - hmuniversity hmu.ac.cn wildchickenuniversity wcu.edu.pl
@@ -280,6 +292,7 @@ $fira$ `elegance`
     - matrix67 matrix67.com matrix67.itch.io localhost_8080 localhost-8080.com
     - menci men.ci oi.wiki loj.ac moeditor.github.io search.lingogram.app maigo.dev needle.maigo.dev amaoke.app chiyuki0325 chyk.ink
     - nayuki nayuki.io
+    - numberphile
     - one math
     - oovm jiang zi jun zhihu
     - paulg paulgraham.com
@@ -346,13 +359,13 @@ $fira$ `elegance`
     - mengxi969
     - mr_gao_it_words telegram
     - neko205-mx neko_25_mx blog.neko25.top srcblog.neko25.top
-    - nickel_angel
+    - nickel_angel huamurui shiratsuyudachi
     - ninalex12 asakawauniversityofscience
     - notevenaneko qwq.icu
     - nt_cubic telegram
     - quantumtransf
     - ramsayleung pineapplebun ramsayleung.github.io
-    - real_clover_yan khyan.top
+    - clover_yan real_clover_yan khyan.top
     - rongronggg9 rongrongqaq planetrong rong.moe rongrongbq.moe
     - rosmontis233 rosmontis_daily telegram
     - seishin_konran telegram
@@ -383,6 +396,8 @@ $fira$ `elegance`
     - ziantt ziantt_official lightxi ziantt.top
   - niche
     - animenz
+    - cambridge
+    - cateen_hayatosumino
     - chessvibesofficial nelson lopez
     - danielnaroditskygm
     - deco27
@@ -391,9 +406,11 @@ $fira$ `elegance`
     - gao zixiang
     - gaou
     - gmhikaru
+    - homdgcat
     - hongkongdoll exlibris
     - johnbartholomewchess fins0905
     - ke jie
+    - lao fei yu 66
     - lciop
     - led zeppelin
     - li jiaqing
@@ -410,8 +427,10 @@ $fira$ `elegance`
     - student he studio
     - ta mi gao
     - xiaoyao sanren
+    - xu toso
     - yokidou shadowverse
     - youyi wakareno
+    - zhang ailing
     - zhang jiao
   - isekai
     - acetaffy812 echo spade
@@ -419,6 +438,7 @@ $fira$ `elegance`
     - bingtangio
     - buwendingfadianji
     - chtholly nota seniorious
+    - emu otori wonderhoy
     - falstaff duolingo
     - gus brawl stars
     - hexose 0x4682b4 emotelab
@@ -434,7 +454,6 @@ $fira$ `elegance`
     - minato aqua
     - miting nagisa
     - miyuki takara
-    - mutsumi mygo
     - nahida
     - necora nyaru
     - nina iseri
@@ -452,8 +471,8 @@ $fira$ `elegance`
     - uzawa reisa
     - vedal987 neuro sama
     - vtbs_irl vzhibei vzb88 pitaogo ilovetaffy wuse_vov
+    - wakaba mutsumi
     - wanderer above the sea of fog
-    - xu toso
     - xuegao cheese
     - yuuki sakuna
 - albums
@@ -486,7 +505,7 @@ $fira$ `elegance`
   - in the end (linkin park)
   - mephisto (queen bee)
   - qun ding (mi feng chu)
-  - lv tong chong bai (0ne2345)
+  - nv tong chong bai (0ne2345)
   - tui yi de ni (menci & wxh010910 & yan qval & krydom & niro bc & wer key tom_ftd & \_\_stdcall & created_equal & whzzt & wy1627)
 - films
   - spirited away (2001)
@@ -525,6 +544,9 @@ $fira$ `elegance`
   - cosmic princess kaguya (2026)
   - the godfather (1972)
   - the shining (1980)
+  - .k-on! the movie (2011)
+  - .suzume (2022)
+  - .weathering with you (2019)
   - .the disappearance of haruhi suzumiya (2010)
   - .bocchi the rock! recap part 1 (2024)
 - series
@@ -550,14 +572,15 @@ $fira$ `elegance`
   - frieren: beyond journey's end (2023)
   - too many losing heroines! (2024)
   - clannad (2007)
-  - .date a live (2013)
-  - .sword art online (2012)
+  - puella magi madoka magica (2011)
   - .k-on! (2009)
+  - .air (2005)
+  - .sword art online (2012)
   - .a certain scientific railgun (2009)
   - .re: zero - starting life in another world (2016)
   - .tonikawa: over the moon for you (2020)
+  - .date a live (2013)
   - .oreimo (2010)
-  - .puella magi madoka magica (2011)
   - .no game, no life (2014)
   - .bakemonogatari (2009)
   - .anohana: the flower we saw that day (2011)
@@ -566,8 +589,6 @@ $fira$ `elegance`
   - .white album (2009)
   - .chitose is in the ramune bottle (2025)
   - .fate/zero (2011)
-  - .suzume (2022)
-  - .weathering with you (2019)
   - .tiny toon adventures (1990)
 - games
   - angry birds (2009)
@@ -605,6 +626,7 @@ $fira$ `elegance`
   - the legend of zelda: breath of the wild (2017)
   - stardew valley (2016)
   - project sekai colorful stage! (2020)
+  - slay the spire 2 (2026)
   - .earth online
   - .terraria (2011)
   - .the legend of zelda: tears of the kingdom (2023)
@@ -713,16 +735,16 @@ $fira$ `elegance`
 - sites
   - google · gemini · chatgpt · grok · deepseek · mistral ai
   - wikipedia · miraheze · fandom · moegirl.icu · oi wiki · mdn · jisho.org · hpoi
-  - internet archive · archive.today · the pirate bay · z library · anna's archive · archivecaslytosk.onion
+  - internet archive · archive.today · archive.softwareheritage.org · the pirate bay · z library · anna's archive · archivecaslytosk.onion
   - youtube · berryberry · douyin · niconico · hololist · vtbs.moe
   - old reddit · twitter · zhihu · nga bbs · baidu tieba · pincong.rocks
   - hacker news · lobste.rs · v2ex · liqi.io · github trending · product hunt · codepen spark
   - figma · paper.design · unicorn.studio · canva · khroma · coolors
-  - douban · imdb · metacritic · bangumi.tv · my anime list · nyaa.si · dmhy.org · bgmlist · mikan project · zimuku · yuc.wiki
+  - douban · imdb · anidb · vndb · bangumi.tv · my anime list · nyaa.si · bgmlist.com · dmhy.org · mikanani.me · bangumi.moe · zimuku · yuc.wiki
   - pixiv · dribbble · deviantart · unsplash · civitai
   - youtube music · lrcdb · spotify · netease cloud music · pianotify
   - e hentai · archiveofourown · cnblogs · qq zone · acfun
-  - steam db · itch.io · doodles.google · igdb · vndb · shinnku galgame · kungal · touchgal
+  - steam db · itch.io · doodles.google · igdb · shinnku galgame · kungal · touchgal
   - aops · oeis · codeforces · atcoder · luogu · libre oj · project euler · acmer.info
   - travel.moe · travellings.cn · foreverblog.cn
 - portals
@@ -753,6 +775,7 @@ $fira$ `elegance`
 - live in the future and build what's missing
 - stay hungry, stay foolish.
 - again, you can't connect the dots looking forward; you can only connect them looking backwards. so you have to trust that the dots will somehow connect in your future.
+- green, my dear friend, is all theory, and gray the golden tree of life.
 - i do not know what i may appear to the world. but to myself i seem to have been only like a boy playing on the sea-shore and diverting myself in now and then finding a smoother pebble or a prettier shell than ordinary, whilst the great ocean of truth lay all undiscovered before me.
 - knowledge isn't free. you have to pay attention.
 - i have a small device in my pocket that provides access to nearly the sum total of human knowledge. i use it to get into pointless arguments with people i don't know and look at pictures of cats.

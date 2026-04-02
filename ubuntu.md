@@ -30,77 +30,114 @@ ubuntu
 
 ## `flatpak`
 
-- install
-
-  ```
-  sudo apt install flatpak
-  sudo flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
-  sudo apt install gnome-software-plugin-flatpak
-  ```
-
-- apply
-  - log out and log in
 - disable auto update
   - software: preferences: software updates `manual`
   - software: preferences: automatic update notifications `off`
 
 ## utilities
 
-util
+install
 
 ```sh
-sudo apt install -y curl wget ca-certificates gnupg lsb-release unzip
+# tools
+sudo apt install -y curl wget ca-certificates gnupg lsb-release p7zip-full unzip unrar build-essential tree
+# example: find . -maxdepth 2 -not -path '*/.*'
 
-sudo apt install -y snapd
+# toys
+sudo apt install -y neofetch fortune-mod cowsay cbonsai figlet lolcat toilet sl
 
+# snap
+sudo apt install -y snapd # maybe not needed
+
+# flatpak (log out and log in to apply)
+sudo apt install flatpak
+sudo flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
+sudo apt install gnome-software-plugin-flatpak
+
+# automate mouse and keyboard: xdotool, xte
+sudo apt install -y xdotool xautomation accerciser
+
+# normalize desktop
 sudo apt install -y gnome-tweaks
 flatpak install -y flathub org.gnome.Extensions # although not needed
 flatpak install -y flathub com.mattjakeman.ExtensionManager
 
-sudo apt install -y tree
-
-sudo apt install -y neofetch fortune-mod cowsay cbonsai figlet lolcat toilet sl
-
+# process images, docs, fonts
 sudo apt install -y imagemagick ghostscript ffmpeg fontforge fonttools
 
+# support audio formats
+sudo apt install -y gstreamer1.0-plugins-good gstreamer1.0-plugins-bad gstreamer1.0-plugins-ugly gstreamer1.0-libav
+
+# convert docs
 sudo apt install -y pandoc
 sudo apt install -y texlive-latex-base texlive-latex-recommended texlive-fonts-recommended texlive-latex-extra
 sudo apt install -y texlive-xetex texlive-lang-chinese
 # example: pandoc '~.md' -o o.pdf --pdf-engine=xelatex -V CJKmainfont="Noto Sans CJK SC" -V geometry:"top=2cm, bottom=1.5cm, left=2cm, right=2cm"
 
+# terminal: set zsh default
 sudo apt install -y zsh fonts-powerline
-chsh -s "$(which zsh)" # set zsh default
+chsh -s "$(which zsh)"
 
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)" "" --unattended # install oh my zsh
+# terminal: oh my zsh
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)" "" --unattended
 
-mkdir -p ~/.zsh # install zsh plugins
+# terminal: zsh plugins
+mkdir -p ~/.zsh
 git clone https://github.com/zsh-users/zsh-autosuggestions ~/.zsh/zsh-autosuggestions
 git clone https://github.com/zsh-users/zsh-syntax-highlighting ~/.zsh/zsh-syntax-highlighting
 
-sudo apt -y install tmux # to keep things running in background
+# terminal: ghostty
+curl -fsSL https://raw.githubusercontent.com/mkasberg/ghostty-ubuntu/HEAD/install.sh | zsh
 
-curl -fsSL https://raw.githubusercontent.com/mkasberg/ghostty-ubuntu/HEAD/install.sh | zsh # install ghostty terminal
+# tmux: keep things running in background
+sudo apt -y install tmux
 
-sudo apt install -y git python3 pip pipx
-sudo apt install -y gstreamer1.0-plugins-good gstreamer1.0-plugins-bad gstreamer1.0-plugins-ugly gstreamer1.0-libav
+# rust: rustup, rustc, cargo
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh -s -- -y
+# mkdir -p ~/.cargo
+# cat <<EOF >> ~/.cargo/config.toml
+#
+# [source.crates-io]
+# replace-with = 'ustc'
+#
+# [source.ustc]
+# registry = "sparse+https://mirrors.ustc.edu.cn/crates.io-index/"
+# EOF
+# # use a mirror if needed
+# true > ~/.cargo/config.toml # revert mirror
 
-curl -fsSL https://deno.land/install.sh | zsh
+# git
+sudo apt install -y git
 
-curl -fsSL https://deb.nodesource.com/setup_lts.x | sudo -E bash - # use the latest
+# js/ts: node, deno, pnpm, tsx, cloc, ...
+curl -fsSL https://deb.nodesource.com/setup_lts.x | sudo -E bash - # use the latest version
 sudo apt install -y nodejs
-
-npm config set registry https://registry.npmmirror.com
+# npm config set registry https://registry.npmmirror.com # use a mirror if needed
+# npm config set registry https://tsinghua.edu.cn # other mirrors
 # npm config set registry https://registry.npmjs.org/ # use the official site for publishing
 # npm config set //registry.npmjs.org/:_authToken {auth_token}
-
 sudo npm install -g pnpm
-
-pnpm config set registry https://registry.npmmirror.com
-
-pnpm add -g opencode-ai@latest
+# warning: pnpm opens as much concurrent connections as possible for speed. it might not work with mobile hotspots. use `--network-concurrency 1` or `pnpm config set fetch-retries 5` to fix.
+pnpm config set update-notifier false --global # remove the noisy update notification, which is often not needed
+# pnpm config set loglevel error --global # remove noisy deprecated warnings. it's overkill, hiding essential feedback, though.
+# reset: pnpm config delete loglevel --global
+# pnpm config set registry https://registry.npmmirror.com # use a mirror if needed
 pnpm add -g cloc
-pnpm add -g tsx parcel vite webpack
+# example: cloc . --vcs=git --exclude-lang=YAML,JSON,Markdown --exclude-ext=yaml,yml --exclude-dir=node_modules,.build --not-match-f=my_filename_regex --not-match-d=my_dir_regex
+pnpm add -g tsx
+pnpm add -g parcel # simple, fast (esp with cache), less reliable
+# pnpm add -g parcel-reporter-static-files-copy
+# example: cd $dir && parcel serve '$fileName' --open --dist-dir .build --cache-dir .build/.parcel-cache
+pnpm add -g vite # more reliable, fast enough, showy, clever
+# example: cd $dir && vite --open '$fileName'
+pnpm add -g webpack webpack-cli webpack-dev-server # legacy, complex
+# pnpm add -g webpack webpack-cli webpack-dev-server css-loader style-loader babel-loader file-loader url-loader ts-loader
+sudo npm install -g deno
+sudo npm install -g yarn
+sudo npm install -g bun
 
+# python
+sudo apt install -y python3 pip pipx
 python3 -m pip config set global.break-system-packages true # simplify: remove meaningless warning for current user.
 
 # sudo mkdir -p /etc;
@@ -108,60 +145,59 @@ python3 -m pip config set global.break-system-packages true # simplify: remove m
 # [global]
 # break-system-packages = true
 # EOF
-# # simplify:  remove meaningless warning system wide
+# # simplify: remove meaningless warning system wide
 
+cargo install --locked uv # locked makes it predictable by using the specifc version needed instead of the latest one
+uv tool install ruff
+
+# cpp
 sudo apt install -y g++
 sudo snap install cling
 
-curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh -s -- -y # rustup, rustc, cargo
-sudo apt install -y build-essential
-
+# android: android studio, gradle, java
 flatpak install -y flathub com.google.AndroidStudio
 sudo snap install gradle --classic
 sudo apt install -y openjdk-17-jdk
 sudo apt install -y openjdk-21-jdk
 
-sudo apt install -y ghc cabal-install # ghci
+# haskell: ghci
+sudo apt install -y ghc cabal-install
 
-sudo apt install -y ruby-full # ruby
+# ruby
+sudo apt install -y ruby-full
 
+# brainfuck: beef
+sudo apt install -y beef
+# example: beef -p "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>."
+
+# perl (it might be preinstalled, though)
+sudo apt install -y perl perl-doc
+
+# docker
 curl -fsSL https://get.docker.com | sudo sh
 
+# wine
 sudo dpkg --add-architecture i386
 sudo apt install -y libasound2-plugins:i386 libsdl2-2.0-0:i386 libdbus-1-3:i386 libsqlite3-0:i386
+sudo apt install -y libvulkan1 libvulkan1:i386 mesa-vulkan-drivers mesa-vulkan-drivers:i386
 sudo apt install -y wine64 wine32 # seems apt version is more reliable. sabbat of witch and senrenbanka would err on wine-stable (read/write without access). yosuga no sora also works after installing 32 bit packages (instead of showing a transparent window), idk.
-
 sudo apt install -y libasound2-dev
 sudo apt install -y libfontconfig-dev
 sudo apt install -y winetricks
 winetricks sound=pulse # fix silence
-```
 
-memory
-
-```sh
+# memory: earlyoom, enlarge swap
 sudo apt install -y earlyoom zram-tools
 sudo systemctl enable --now earlyoom
-
-echo "Disabling current swap..."
-sudo swapoff /swap.img
-
-echo "Removing old swap image..."
-sudo rm -f /swap.img
-
-echo "Creating new 8GB swap image..."
-sudo fallocate -l 8G /swap.img
+sudo swapoff /swap.img # disable current swap
+sudo rm -f /swap.img # remove old swap image
+sudo fallocate -l 8G /swap.img # create new 8GB swap image
 sudo chmod 600 /swap.img
 sudo mkswap /swap.img
 sudo swapon /swap.img
-
-echo "Making swap permanent in fstab..."
-grep -q '/swap.img' /etc/fstab || echo '/swap.img none swap sw 0 0' | sudo tee -a /etc/fstab
-
-echo "Configuring zRAM for 8GB compressed memory..."
-sudo sed -i 's/^#ALLOCATION=.*/ALLOCATION=8192/' /etc/default/zramswap
+grep -q '/swap.img' /etc/fstab || echo '/swap.img none swap sw 0 0' | sudo tee -a /etc/fstab # make swap permanent in fstab
+sudo sed -i 's/^#ALLOCATION=.*/ALLOCATION=8192/' /etc/default/zramswap # config zRAM for 8GB compressed memory
 sudo systemctl enable --now zramswap.service
-
 sudo sed -i 's/^#EARLYOOM_ARGS=.*/EARLYOOM_ARGS="-m 10 -s 10"/' /etc/default/earlyoom
 sudo systemctl restart earlyoom
 ```
@@ -304,6 +340,7 @@ sudo systemctl restart earlyoom
       "workbench.activityBar.location": "hidden",
       "code-runner.executorMap": {
         "html": "cd $dir && parcel serve '$fileName' --open --dist-dir .build --cache-dir .build/.parcel-cache",
+        // "html": "cd $dir && vite --open '$fileName'",
 
         "pdf": "cd $dir && xdg-open '$fileName'",
         "md": "cd $dir && xdg-open '$fileName'",
@@ -1181,18 +1218,23 @@ sudo systemctl restart earlyoom
   - atom one dark
   - nord
 - install extensions
-  - dbaeumer.vscode-eslint
+  <!-- automate -->
   - formulahendry.code-runner
+  <!-- analyze, lint, format, auto complete, ... -->
+  - dbaeumer.vscode-eslint
   - ms-python.black-formatter
   - ms-python.debugpy
   - ms-python.python
   - ms-python.vscode-pylance
   - rust-lang.rust-analyzer
   - xabikos.javascriptsnippets
+  <!-- view -->
   - yzhang.markdown-all-in-one
-  - ziyasal.vscode-open-in-github
   - tomoki1207.pdf
   - janisdd.vscode-edit-csv
+  - ms-vscode.live-server <!-- live preview -->
+  <!-- program -->
+  - saoudrizwan.claude-dev <!-- cline -->
 - config appearance
   - view: appearance <!-- things might be changed or nested in different ways -->
     - custom titlebar `off`
@@ -1337,7 +1379,7 @@ sudo systemctl restart earlyoom
 
 ## `x11`
 
-- switch from wayland to x11
+- switch from wayland to x11 <!-- might not needed, unless you feel it too conservative on permissions -->
 
   `/etc/gdm3/custom.conf`
 
@@ -1403,24 +1445,12 @@ sudo systemctl restart earlyoom
 
 - install
 
-  ```
-  # Set variables
-  URL="https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.4/Clash.Verge_2.4.4_amd64.deb"
-  FILE="clash-verge.deb"
-
-  # Download
-  echo "Downloading..."
-  wget -c -O "$FILE" "$URL"
-
-  # Install
-  echo "Installing..."
-  sudo dpkg -i "$FILE"
-
-  # Clean up
-  echo "Cleaning up..."
-  rm "$FILE"
-
-  echo "Complete."
+  ```sh
+  clash_url="https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.4/Clash.Verge_2.4.4_amd64.deb" # add https://gh-proxy.com prefix if needed
+  clash_file="clash-verge.deb"
+  wget -c -O "$clash_file" "$clash_url"
+  sudo dpkg -i "$clash_file"
+  rm "$clash_file" # clean up
   ```
 
 - home
@@ -1467,6 +1497,19 @@ sudo systemctl restart earlyoom
   - goldendict
   - elisa
 
+## `flatseal`
+
+- all applications: file system
+  - `*` `on`
+- steam: file system <!-- conservative. not compatible with redundant permission -->
+  - `*` `off`
+- heroic: file system <!-- remove the nonsensical folder on home -->
+  - `*` `off`
+
+## `gear lever`
+
+- appimage default location `~/.appimages`
+
 ## `fonts`
 
 - install fonts <!-- copy the full fonts folder to ~/.local/share/fonts (result: ~/.local/share/fonts/fonts).  -->
@@ -1476,6 +1519,8 @@ sudo systemctl restart earlyoom
   <!-- why `~/.local/share/fonts/fonts/myfont...` instead of `~/.local/share/fonts/myfont...`: later we will put some processed noto sans on `~/.local/share/fonts/noto...`, so having an extra nested fonts folder is actually clearer -->
 
   `repo: fonts`
+
+  <!-- remove all "condensed" fonts if needed (in case chromium prefers the condensed variant by default). -->
 
 - prefer sc for kanji
 
@@ -1610,7 +1655,7 @@ sudo systemctl restart earlyoom
 
       printf "$font" | sudo tee /etc/fonts/conf.d/64-language-selector-cjk-prefer.conf > /dev/null
       mkdir -p ~/.config/fontconfig/conf.d
-      # printf "$font" | tee ~/.config/fontconfig/conf.d/64-prefer-noto-cjk-sc.conf > /dev/null # might cause issue on system tray clock (weird full width semicolon)
+      # printf "$font" | tee ~/.config/fontconfig/conf.d/64-prefer-noto-cjk-sc.conf > /dev/null # might cause issue on system tray time (weird full width semicolon)
 
       sudo fc-cache -f -v # apply (log out log in if needed)
       # fc-match -s sans:lang=zh # confirm
@@ -1762,7 +1807,7 @@ sudo systemctl restart earlyoom
   abnormal-command-exit-runtime = 0
 
   # normalize: add scrollbar # need version >= 1.3
-  scrollbar = system 
+  scrollbar = system
 
   # simplify: disable the "are you sure you want to close?" confirmation
   confirm-close-surface = false
@@ -1919,6 +1964,7 @@ sudo systemctl restart earlyoom
 - config extensions
   - style: justblack https://chromewebstore.google.com/detail/just-black/aghfnjkcakhmadgdomlmlhhaocbkloab
   - style: stylus <!-- download the mv2 version and load unpacked. https://github.com/openstyles/stylus -->
+    <!-- move to Documents/.storage -->
     - lichess chessdotcom icons https://github.com/eigenpaul/lichess-custom-pieces/blob/main/chessdotcom.css
   - simplify: ublock origin https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm
     - filter lists: add `cookie notices`, `annoyances`.
@@ -1939,6 +1985,7 @@ sudo systemctl restart earlyoom
   - manage multiple accounts: cookie profile switcher https://chromewebstore.google.com/detail/cookie-profile-switcher/dicajblfgcpecbkhkjaljphlmkhohelc
   - enhance youtube: picture in picture https://chromewebstore.google.com/detail/picture-in-picture-extens/hkgfoiooedgoejojocmhlaklaeopbecg?hl=en
   - enhance twitter: control panel for twitter https://chromewebstore.google.com/detail/control-panel-for-twitter/kpmjjdhbcfebfjgdnpjagcndoelnidfj
+    - x fixes: premium blue checks `hide`
   - enhance twitch: alternate player for twitch.tv https://chromewebstore.google.com/detail/alternate-player-for-twit/bhplkbgoehhhddaoolmakpocnenplmhf
   - enhance bilibili: bewlybewly https://chromewebstore.google.com/detail/bewlybewly/bbbiejemhfihiooipfcjmjmbfdmobobp
   - see history of sites: wayback machine https://chromewebstore.google.com/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak
@@ -1958,6 +2005,11 @@ sudo systemctl restart earlyoom
   `chrome://settings/languages`
 
   - spell check: check for spelling errors when you type text on web pages: `off`
+
+## `firefox`
+
+- allow persistent "load unpacked" extensions like chromium <!-- might not work with standard version. might not work fine even on dev versions. -->
+  - about:config `xpinstall.signatures.required` `false`
 
 ## `git`
 
@@ -2156,8 +2208,6 @@ zsh -ic 'push'
   wget -O "$DICT_DIR/moegirl.dict" https://github.com/outloudvi/mw2fcitx/releases/latest/download/moegirl.dict
   ```
 
-  <!-- todo: find all dicts using an agent -->
-
 - add environment variables
 
   ```
@@ -2233,8 +2283,9 @@ zsh -ic 'push'
   - add
 
     ```sh
-    ~ % cd /home/fira/Documents/_/dict
-    ...Documents/_/dict % ls
+    # i dont want it to be with a ton of hidden folders on ~. just name it storage. static is also a good choice.
+    ~ % cd /home/fira/Documents/.storage/dict
+    ...Documents/.storage/dict % ls
     big.mdx
     "Cambridge Advanced Learner's Dictionary 3th.mdd"
     "Cambridge Advanced Learner's Dictionary 3th.mdx"
@@ -2668,7 +2719,13 @@ zsh -ic 'push'
 
 ## `sabaki`
 
-- install
+- install appimage with gear lever
+
+  ```sh
+  wget -c -O "sabaki.AppImage" "https://github.com/SabakiHQ/Sabaki/releases/download/v0.52.2/sabaki-v0.52.2-linux-x64.AppImage"
+  ```
+
+- install <!-- deprecated -->
 
   ```sh
   # install sabaki
@@ -2769,15 +2826,9 @@ zsh -ic 'push'
   sudo ./xmrig -o rx.unmineable.com:3333 -u BTC:bc1qszfqwtp8lva8cmptmj330m90k7mms4szk08e0w.UbuntuLaptop#ivrt-8ebj -p x
   ```
 
-## `flatseal`
-
-- all applications
-  - file system
-    - `*` `on`
-
 ## apps
 
-### remove
+remove
 
 ```sh
 sudo snap remove firefox
@@ -2787,14 +2838,37 @@ sudo snap remove thunderbird # use web (gmail, outlook, etc.) instead. thunderbi
 sudo apt remove gnome-text-editor # let it auto bind vscode then
 ```
 
-### install
+install
 
 ```sh
+# normalize flatpak
 flatpak install -y flathub com.github.tchx84.Flatseal # fix all flatpak sandbox issues
 
+# view flatpaks on gui
+flatpak install -y flathub io.github.flattool.Warehouse
+
+# install appimages
+flatpak install -y flathub it.mijorus.gearlever
+
+# browse: chromium, firefox
 sudo snap install chromium --revision 2842
+# use a saved .snap file if needed
+# flatpak does not keep old versions. to build from source, see https://github.com/flathub/org.chromium.Chromium/commit/df2bc0c59344afd0d5248ed4f43d0dcffbb19ae0 https://commondatastorage.googleapis.com/chromium-browser-official/chromium-124.0.6367.118.tar.xz
 flatpak install -y flathub org.mozilla.firefox # use flatpak one instead
 
+# update apt packages index
+sudo apt update
+
+# program: mg (used by linus torvalds, on a personal fork though)
+sudo apt install -y mg
+
+# program: emacs, vim
+sudo apt install -y emacs-nox
+sudo rm /usr/share/applications/emacsclient.desktop # dont let it appear on app picker, always use them as cli
+sudo apt install -y vim
+sudo rm /usr/share/applications/vim.desktop
+
+# program: code
 curl https://packages.microsoft.com/keys/microsoft.asc | gpg --dearmor > packages.microsoft.gpg
 sudo install -o root -g root -m 644 packages.microsoft.gpg /usr/share/keyrings/
 sudo sh -c 'echo "deb [arch=amd64 signed-by=/usr/share/keyrings/packages.microsoft.gpg] https://packages.microsoft.com/repos/vscode stable main" > /etc/apt/sources.list.d/vscode.list'
@@ -2802,41 +2876,58 @@ sudo apt install apt-transport-https
 sudo apt update
 sudo apt install code # code from snap seems incompatible with fcitx5
 
-flatpak install -y flathub dev.mufeed.Wordbook
-flatpak install -y flathub org.goldendict.GoldenDict
+# program: zed
+flatpak install -y flathub dev.zed.Zed
 
+# program: cursor
+# download from https://cursor.com/download, install with gear lever
+# cli command: %F --no-sandbox
+# it does not seem to work without the flag
+
+# program with llms: opencode, cline, codex, claude
+pnpm add -g opencode-ai@latest
+pnpm add -g cline
+pnpm add -g @openai/codex
+pnpm add -g @anthropic-ai/claude-code
+
+# chat with agentic llms: openclaw
+pnpm add -g openclaw@latest # seems no use cases btw
+
+# look up vocab
+flatpak install -y flathub org.goldendict.GoldenDict
+flatpak install -y flathub dev.mufeed.Wordbook
+
+# draw, sketch, pick color
 flatpak install -y flathub org.gimp.GIMP
 flatpak install -y flathub org.kde.kolourpaint
 flatpak install -y flathub org.kde.krita
 flatpak install -y flathub org.inkscape.Inkscape
 flatpak install -y flathub com.github.finefindus.eyedropper
 
+# graph
+flatpak install -y flathub org.geogebra.GeoGebra
+
+# watch, record, cut
 flatpak install -y flathub com.obsproject.Studio
 flatpak install -y flathub org.kde.kdenlive
 flatpak install -y flathub org.shotcut.Shotcut
 flatpak install -y flathub org.blender.Blender
 
-flatpak install -y flathub com.belmoussaoui.Decoder
+# play vids, dl vids
+flatpak install -y flathub org.videolan.VLC
+flatpak install -y flathub io.mpv.Mpv
+flatpak install -y flathub org.kde.elisa
+flatpak install -y flathub net.lrclib.lrcget
+pipx install yt-dlp
+flatpak install -y flathub io.github.Predidit.Kazumi # test it
 
-flatpak install -y flathub org.gnome.Weather
-
-# sudo snap install foliate # fix fonts access in sandbox. there's nothing wrong with snap. no extra config needed.
+# read, normalize
 flatpak install -y flathub com.github.johnfactotum.Foliate
+# sudo snap install foliate # fix fonts access in sandbox. there's nothing wrong with snap. no extra config needed. (upd: fixed by flatseal)
 flatpak install -y flathub com.sigil_ebook.Sigil
 # flatpak install -y flathub com.calibre_ebook.calibre # remove possible noise on home folder
 
-flatpak install -y flathub org.geogebra.GeoGebra
-
-flatpak install -y flathub com.valvesoftware.Steam
-flatpak install -y flathub sh.ppy.osu
-flatpak install -y flathub org.libretro.RetroArch
-EDEN_URL="https://github.com/eden-emulator/Releases/releases/download/v0.2.0-rc1/Eden-Ubuntu-24.04-v0.2.0-rc1-amd64.deb"
-EDEN_FILE="eden.deb"
-wget -c -O "$EDEN_FILE" "$EDEN_URL"
-sudo dpkg -i "$EDEN_FILE"
-sudo apt install -f -y  # Fix any missing deps
-rm "$EDEN_FILE" # clean up
-
+# dl, share, host, browse anonymously
 flatpak install -y flathub org.qbittorrent.qBittorrent
 flatpak install -y flathub org.torproject.torbrowser-launcher
 IPFS_URL="https://dist.ipfs.tech/kubo/v0.39.0/kubo_v0.39.0_linux-amd64.tar.gz"
@@ -2847,6 +2938,7 @@ tar -xzf "$IPFS_FILE"
 sudo bash "$IPFS_FOLDER/install.sh"
 rm -rf "$IPFS_FOLDER" "$IPFS_FILE"
 
+# chat, socialize, sync
 flatpak install -y flathub io.gitlab.news_flash.NewsFlash
 flatpak install -y flathub dev.geopjr.Tuba
 flatpak install -y flathub im.fluffychat.Fluffychat
@@ -2856,15 +2948,35 @@ wget -c -O "$AYUGRAM_FILE" "$AYUGRAM_URL"
 sudo flatpak install -y "$AYUGRAM_FILE" # -y flag only work with sudo
 rm "$AYUGRAM_FILE" # clean up
 
-flatpak install -y flathub org.videolan.VLC
-flatpak install -y flathub io.mpv.Mpv
-flatpak install -y flathub org.kde.elisa
-flatpak install -y flathub net.lrclib.lrcget
-pipx install yt-dlp
-
+# run vm
 flatpak install -y flathub org.gnome.Boxes
 sudo apt install -y qemu-utils
 
+# render docs
+cargo install mdbook
+
+# scan qr code
+flatpak install -y flathub com.belmoussaoui.Decoder
+
+# check weather
+flatpak install -y flathub org.gnome.Weather
+
+# play: steam, nintendo, proton
+flatpak install -y flathub com.valvesoftware.Steam
+# sudo snap install steam
+flatpak install -y flathub sh.ppy.osu
+flatpak install -y flathub org.libretro.RetroArch
+EDEN_URL="https://github.com/eden-emulator/Releases/releases/download/v0.2.0-rc1/Eden-Ubuntu-24.04-v0.2.0-rc1-amd64.deb"
+EDEN_FILE="eden.deb"
+wget -c -O "$EDEN_FILE" "$EDEN_URL"
+sudo dpkg -i "$EDEN_FILE"
+sudo apt install -f -y  # Fix any missing deps
+rm "$EDEN_FILE" # clean up
+flatpak install -y flathub com.usebottles.bottles
+flatpak install -y flathub com.heroicgameslauncher.hgl
+flatpak install -y flathub net.lutris.Lutris
+
+# play chess, go
 pip install katrain
 sudo apt install -y stockfish pychess
 flatpak install -y flathub org.gnome.Chess
@@ -2874,8 +2986,10 @@ wget -c -O "$Croissant_FILE" "$Croissant_URL"
 sudo dpkg -i "$Croissant_FILE"
 rm "$Croissant_FILE" # clean up
 
-cargo install mdbook
-
+# play doom
 flatpak install -y flathub net.dengine.Doomsday # need game files (wad)
 sudo apt install -y chocolate-doom
+
+# play network infra
+flatpak install -y flathub io.github.Archeb.opentrace
 ```

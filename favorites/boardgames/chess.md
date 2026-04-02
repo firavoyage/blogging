@@ -1488,3 +1488,53 @@
 1. d4 { [%clk 0:15:00] } 1... Nf6 { [%clk 0:15:00] } { A45 Indian Defense } 2. Nc3 { [%clk 0:14:54] } 2... e6 { [%clk 0:14:48] } 3. Bf4 { [%clk 0:14:55] } 3... a6 { [%clk 0:13:54] } 4. e3 { [%clk 0:14:59] } 4... Bb4 { [%clk 0:13:59] } 5. Qd2 { [%clk 0:14:53] } 5... d5 { [%clk 0:13:34] } 6. Nf3 { [%clk 0:14:43] } 6... Nc6 { [%clk 0:12:51] } 7. Bd3 { [%clk 0:14:28] } 7... Ne4 { [%clk 0:10:57] } 8. Bxe4 { [%clk 0:14:00] } 8... dxe4 { [%clk 0:10:46] } 9. Ne5 { [%clk 0:14:07] } 9... Nxe5 { [%clk 0:09:12] } 10. Bxe5 { [%clk 0:13:58] } 10... f6 { [%clk 0:09:10] } 11. Bg3 { [%clk 0:13:57] } 11... b5 { [%clk 0:08:14] } 12. a3 { [%clk 0:13:44] } 12... Ba5 { [%clk 0:07:29] } 13. b4 { [%clk 0:13:30] } 13... Bb6 { [%clk 0:07:09] } 14. O-O { [%clk 0:13:36] } 14... Bb7 { [%clk 0:07:06] } 15. a4 { [%clk 0:12:29] } 15... Qd7 { [%clk 0:06:38] } 16. Qe2 { [%clk 0:12:11] } 16... a5 { [%clk 0:05:30] } 17. Nxb5 { [%clk 0:12:08] } 17... axb4 { [%clk 0:05:14] } 18. Qc4 { [%clk 0:12:00] } 18... Ba5 { [%clk 0:04:31] } 19. Bxc7 { [%clk 0:11:00] } 19... Bd5 { [%clk 0:03:25] } 20. Qc5 { [%clk 0:10:32] } 20... Qc6 { [%clk 0:00:34] } 21. Nd6+ { [%clk 0:09:04] } 21... Kd7 { [%clk 0:00:24] } 22. Bxa5 { [%clk 0:08:46] } 22... Qxc5 { [%clk 0:00:28] } 23. dxc5 { [%clk 0:08:42] } 23... Rxa5 { [%clk 0:00:30] } 24. Rfd1 { [%clk 0:08:32] } 24... Rxc5 { [%clk 0:00:32] } 25. Nb5 { [%clk 0:08:28] } 25... Ke7 { [%clk 0:00:24] } 26. a5 { [%clk 0:08:24] } 26... Rxb5 { [%clk 0:00:29] } 27. a6 { [%clk 0:08:29] } 27... Ba8 { [%clk 0:00:22] } 28. Rd7+ { [%clk 0:08:30] } 28... Kxd7 { [%clk 0:00:30] } 29. Rd1+ { [%clk 0:08:29] } 29... Kc7 { [%clk 0:00:34] } 30. Rd4 { [%clk 0:08:33] } 30... f5 { [%clk 0:00:40] } 31. Kf1 { [%clk 0:08:36] } 31... Kb6 { [%clk 0:00:46] } 32. Rd6+ { [%clk 0:08:40] } 32... Ka5 { [%clk 0:00:39] } 33. Rxe6 { [%clk 0:08:40] } 33... Rc5 { [%clk 0:00:44] } 34. Ke2 { [%clk 0:08:21] } 34... Rxc2+ { [%clk 0:00:52] } 35. Kd1 { [%clk 0:07:47] } 35... Rc7 { [%clk 0:00:58] } 36. Kd2 { [%clk 0:07:42] } 36... g6 { [%clk 0:01:00] } 37. f3 { [%clk 0:07:25] } 37... exf3 { [%clk 0:01:07] } 38. Ke1 { [%clk 0:07:15] } 38... Rb8 { [%clk 0:01:05] } 39. Kf2 { [%clk 0:07:15] } 39... b3 { [%clk 0:01:12] } 40. Re5+ { [%clk 0:07:13] } 40... Kxa6 { [%clk 0:01:20] } 41. Rd5 { [%clk 0:06:46] } 41... Bxd5 { [%clk 0:01:27] } 42. gxf3 { [%clk 0:06:49] } 42... b2 { [%clk 0:01:35] } { White resigns. } 0-1
 
 ---
+
+[Event "rated rapid game"]
+[Site "https://lichess.org/xUxSqmSD"]
+[Date "2026.03.30"]
+[Round "-"]
+[White "firahq"]
+[Black "GIORGOS123D"]
+[Result "1-0"]
+[GameId "xUxSqmSD"]
+[UTCDate "2026.03.30"]
+[UTCTime "17:00:32"]
+[WhiteElo "1051"]
+[BlackElo "977"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-51"]
+[Variant "Standard"]
+[TimeControl "900+10"]
+[ECO "C46"]
+[Opening "Three Knights Opening"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. e4 { [%clk 0:15:00] } 1... e5 { [%clk 0:15:00] } 2. Nf3 { [%clk 0:15:08] } 2... Nc6 { [%clk 0:15:00] } 3. Nc3 { [%clk 0:14:57] } { C46 Three Knights Opening } 3... Bc5 { [%clk 0:15:06] } 4. Nxe5 { [%clk 0:14:55] } 4... Nxe5 { [%clk 0:15:11] } 5. d4 { [%clk 0:15:03] } 5... Qe7 { [%clk 0:15:08] } 6. dxc5 { [%clk 0:13:26] } 6... Qxc5 { [%clk 0:15:14] } 7. Be3 { [%clk 0:13:34] } 7... Qc6 { [%clk 0:14:43] } 8. Bb5 { [%clk 0:12:41] } 8... Qb6 { [%clk 0:14:33] } 9. Bxb6 { [%clk 0:12:48] } 9... axb6 { [%clk 0:14:42] } { Black resigns. } 1-0
+
+---
+
+[Event "rated rapid game"]
+[Site "https://lichess.org/8wrNIlwG"]
+[Date "2026.03.30"]
+[Round "-"]
+[White "firahq"]
+[Black "jgalt7240"]
+[Result "1-0"]
+[GameId "8wrNIlwG"]
+[UTCDate "2026.03.30"]
+[UTCTime "17:11:06"]
+[WhiteElo "1058"]
+[BlackElo "1084"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-13"]
+[Variant "Standard"]
+[TimeControl "900+10"]
+[ECO "C47"]
+[Opening "Four Knights Game: Halloween Gambit"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. e4 { [%clk 0:15:00] } 1... e5 { [%clk 0:15:00] } 2. Nf3 { [%clk 0:15:09] } 2... Nc6 { [%clk 0:15:05] } 3. Nc3 { [%clk 0:15:05] } 3... Nf6 { [%clk 0:15:04] } 4. Nxe5 { [%clk 0:14:13] } { C47 Four Knights Game: Halloween Gambit } 4... Nxe5 { [%clk 0:14:58] } 5. d4 { [%clk 0:14:20] } 5... Nc6 { [%clk 0:14:18] } 6. e5 { [%clk 0:14:18] } 6... Ng8 { [%clk 0:13:24] } 7. d5 { [%clk 0:13:59] } 7... Nxe5 { [%clk 0:13:03] } 8. f4 { [%clk 0:13:31] } 8... Ng6 { [%clk 0:12:34] } 9. f5 { [%clk 0:12:34] } 9... Qh4+ { [%clk 0:12:22] } 10. g3 { [%clk 0:12:22] } 10... Qe7+ { [%clk 0:11:23] } 11. Be2 { [%clk 0:09:33] } 11... Ne5 { [%clk 0:11:28] } 12. Bf4 { [%clk 0:08:35] } 12... d6 { [%clk 0:10:20] } 13. Qd4 { [%clk 0:05:18] } 13... Bxf5 { [%clk 0:09:42] } 14. O-O-O { [%clk 0:03:31] } 14... O-O-O { [%clk 0:09:40] } 15. Qxa7 { [%clk 0:02:06] } 15... Kd7 { [%clk 0:09:46] } 16. Bb5+ { [%clk 0:01:45] } 16... c6 { [%clk 0:09:34] } 17. Qxb7+ { [%clk 0:01:05] } 17... Ke8 { [%clk 0:09:40] } 18. Bxc6+ { [%clk 0:00:26] } 18... Nxc6 { [%clk 0:09:46] } 19. Qxc6+ { [%clk 0:00:21] } 19... Rd7 { [%clk 0:09:52] } 20. Qc8+ { [%clk 0:00:22] } 20... Rd8 { [%clk 0:09:58] } 21. Qxf5 { [%clk 0:00:25] } 21... g6 { [%clk 0:09:59] } 22. Qd3 { [%clk 0:00:24] } 22... Nf6 { [%clk 0:09:52] } 23. Rde1 { [%clk 0:00:27] } 23... Ng8 { [%clk 0:08:44] } 24. Rxe7+ { [%clk 0:00:34] } 24... Bxe7 { [%clk 0:08:42] } 25. Qb5+ { [%clk 0:00:38] } 25... Rd7 { [%clk 0:08:50] } 26. Qb8+ { [%clk 0:00:43] } 26... Bd8 { [%clk 0:08:57] } 27. Bxd6 { [%clk 0:00:43] } 27... Nf6 { [%clk 0:08:43] } 28. Re1+ { [%clk 0:00:48] } 28... Ne4 { [%clk 0:08:17] } 29. Rxe4+ { [%clk 0:00:55] } 29... Re7 { [%clk 0:08:14] } 30. Rxe7+ { [%clk 0:00:59] } 30... Kf8 { [%clk 0:08:18] } 31. Re4+ { [%clk 0:00:57] } 31... Kg7 { [%clk 0:08:26] } 32. a4 { [%clk 0:00:52] } 32... Bg5+ { [%clk 0:08:32] } 33. Kb1 { [%clk 0:00:58] } 33... Rxb8 { [%clk 0:08:39] } 34. Bf4 { [%clk 0:01:03] } 34... Bxf4 { [%clk 0:08:36] } 35. gxf4 { [%clk 0:01:09] } 35... f5 { [%clk 0:08:13] } 36. Re7+ { [%clk 0:01:14] } 36... Kf8 { [%clk 0:08:08] } 37. d6 { [%clk 0:01:20] } 37... Rd8 { [%clk 0:08:07] } 38. Nb5 { [%clk 0:01:22] } 38... h6 { [%clk 0:06:45] } 39. Re2 { [%clk 0:01:10] } 39... g5 { [%clk 0:06:08] } 40. fxg5 { [%clk 0:01:17] } 40... hxg5 { [%clk 0:06:17] } 41. c4 { [%clk 0:01:20] } 41... f4 { [%clk 0:06:06] } 42. c5 { [%clk 0:01:03] } 42... Kf7 { [%clk 0:05:52] } 43. c6 { [%clk 0:01:09] } 43... Rb8 { [%clk 0:05:23] } 44. c7 { [%clk 0:01:11] } 44... f3 { [%clk 0:05:27] } 45. Rf2 { [%clk 0:01:18] } 45... g4 { [%clk 0:05:36] } 46. cxb8=Q { [%clk 0:01:25] } { Black resigns. } 1-0
+
+---
