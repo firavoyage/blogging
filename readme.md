@@ -78,12 +78,14 @@ $fira$ `elegance`
 
 <!-- 羡慕死了 -->
 
+<!-- 强. 弱. 厚. 薄. -->
+
 - fira 💖, she/her (without 🏳️‍⚧️ or 🍥), 🇬🇧 user, 🇨🇳 native but rarely used, 🇯🇵 beginner, 🇫🇷 very beginner
 - a developer, content creator, wikipedian
 - grew up in the global village
 - on the internet since 2019, which is my actual "home town"
 
-<!-- 我是一位中专校长, 来自上海, 中国大陆. -->
+<!-- 一位中专校长, 来自上海, 中国大陆, 我是. -->
 
 <!-- I'm an otaku fascinated within her own world, believing existentialism, cynicism ~~daoism~~, determinism, and accelerationism, always overthinking and overengineering, lost herself in curiosity. -->
 
@@ -332,6 +334,7 @@ $fira$ `elegance`
     - canyie canyiechannel blog.canyie.top
     - chesszyh lichess lingyuanyuanyuanyuanyuan notrealname zhihu
     - ciceroxiao hong520_x ciceros_self_talk ciceroxiao.github.io/hong525
+    - clover_yan real_clover_yan khyan.top
     - cosmicac 2o181o28.github.io
     - daimajia daimajia.com
     - discodyer codygua cody2333 cd.ai
@@ -363,9 +366,9 @@ $fira$ `elegance`
     - ninalex12 asakawauniversityofscience
     - notevenaneko qwq.icu
     - nt_cubic telegram
+    - philoart philoart2020 philo2022 philo-li philoli.com
     - quantumtransf
     - ramsayleung pineapplebun ramsayleung.github.io
-    - clover_yan real_clover_yan khyan.top
     - rongronggg9 rongrongqaq planetrong rong.moe rongrongbq.moe
     - rosmontis233 rosmontis_daily telegram
     - seishin_konran telegram

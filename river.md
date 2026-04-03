@@ -20062,3 +20062,57 @@ fi
 my computer does not start (wait for enter), because deno is not there?!
 
 ---
+
+dopamindai
+
+> 爽啊，写了个脚本帮我自动浏览小红书，模拟真人浏览、点赞、收藏，保持账户活跃度，零成本养号。
+
+so much hypes. yet they love hypes. yet the people i love love hypes.
+
+Philo2022
+
+where is your blog, your github, your resume?
+
+(i could check myself... though not in bio.)
+
+wait. what is she. is she an automated illustrated profile?
+
+> ADHD
+
+---
+
+innei now blocks me. (i see her in comments somewhere.)
+
+is it good to hide everyone who has blocked me by default? though, i could view manually.
+
+if someone hates me, why would i check them?
+
+---
+
+`thought`
+
+steipete rt by swyx.
+
+(steipete is hypes. swyx is over engineering.)
+
+idk if he uses openclaw himself, i remember he's an ios dev... inconsistent ui at least, right? you should have a dedicated webui after all, right?
+
+well... ship fast! care nothing!
+
+just like rust. care nothing but robustness.
+
+---
+
+> Reliability: It is not truly permanent. Just like IndexedDB, it is subject to browser "storage quotas". If your disk gets full, the browser can still silently "evict" (delete) this data to save itself. 
+
+> Reliability: This is the most reliable form of web storage. Because the files live in your real file system, the browser cannot silently delete them. Even if you clear your browser cache or "Nuke" your site data, your files stay safe on your drive because they aren't "browser data" anymore—they're just files. 
+
+> The Catch: Most sites (including YouTube Music) prefer OPFS because it’s frictionless—users don't have to deal with annoying permission popups just to save a song. 
+
+> Correct—File System Access API (the one that lets you pick a real folder) is currently not fully compatible across all browsers.
+
+> Since YouTube Music needs to work for everyone (including Safari and Firefox users), they can't rely on the "real" File System Access API. Instead, they use OPFS or IndexedDB because:
+
+> The Reality: If you want a "true" file that won't be deleted by your browser, you have to use a native app. Web apps are stuck in their "sandbox" to keep your computer safe from malicious sites.
+
+---
