@@ -700,6 +700,7 @@ $fira$ `elegance`
   - lenny's podcast (lennysan)
   - lex fridman podcast (lex fridman)
   - mindhub by product thinking (shaonan & fonter & mengna)
+  - oxide and friends (oxide computer company)
   - pan.icu (wu tao & rio)
   - storyfm (kou aizhe)
   - the type (eric liu & qian zhengyu)

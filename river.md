@@ -385,6 +385,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 ### puella magi madoka magica
 
 - `1` 2026.04.02
+- `2` 2026.04.03
 
 ## gaming
 
@@ -20114,5 +20115,84 @@ just like rust. care nothing but robustness.
 > Since YouTube Music needs to work for everyone (including Safari and Firefox users), they can't rely on the "real" File System Access API. Instead, they use OPFS or IndexedDB because:
 
 > The Reality: If you want a "true" file that won't be deleted by your browser, you have to use a native app. Web apps are stuck in their "sandbox" to keep your computer safe from malicious sites.
+
+---
+
+lenny podcast with simonw?!
+
+---
+
+simonw-private
+
+600 sponsors and 200 past sponsors are not enough for piracy.
+
+not really popular.
+
+even if you can clone the repo.
+
+(past newsletters are officially published, making the even archival-knowledge-sharing-history-preservation purpose gone)
+
+---
+
+> Personal Accounts: 0% fee. GitHub does not charge any platform or processing fees for sponsorships from personal accounts.
+
+---
+
+opencollective:
+
+> You can always sign-in using just your e-mail.
+
+---
+
+?!
+
+```
+[download] Downloading item 75 of 90
+[youtube] Extracting URL: https://music.youtube.com/watch?v=_DcUVZXlFUI
+[youtube] _DcUVZXlFUI: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] _DcUVZXlFUI: Downloading android vr player API JSON
+WARNING: [youtube] _DcUVZXlFUI: Some android_vr client https formats have been skipped as they are missing a URL. YouTube may have enabled the SABR-only streaming experiment for the current session. See  https://github.com/yt-dlp/yt-dlp/issues/12482  for more details
+[info] _DcUVZXlFUI: Downloading 1 format(s): 18
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: _/Glenn Gould & Johann Sebastian Bach/Concerto in D minor after Alessandro Marcello, BWV 974： III. Presto - Glenn Gould plays Bach： 6 Partitas BWV 825-830; Chromatic Fantasy BWV 903; Italian Concerto BWV 971; The Art of the Fugue BWV 1080 (excerpts); Preludes, Fugues & Fantasies - Glenn Gould, Johann Sebastian Bach.webp
+ERROR: [Errno 36] File name too long: '_/Glenn Gould & Johann Sebastian Bach/Concerto in D minor after Alessandro Marcello, BWV 974： III. Presto - Glenn Gould plays Bach： 6 Partitas BWV 825-830; Chromatic Fantasy BWV 903; Italian Concerto BWV 971; The Art of the Fugue BWV 1080 (excerpts); Preludes, Fugues & Fantasies - Glenn Gould, Johann Sebastian Bach.webp'
+```
+
+> While Ubuntu doesn't have the 260-character path limit found in Windows, most Linux filesystems (like ext4) have a strict limit of 255 bytes per individual filename. 
+
+> The filename in your error is 287 bytes long because it includes high-order Unicode characters (like the full-width colons ：) that take up more than one byte each. Since this is a hardware-level filesystem limit, you cannot "bypass" it with a flag; you must shorten the name. 
+
+> Yes, --trim-filenames is a valid flag in yt-dlp, but it is often not recommended for fixing "file name too long" errors on Linux/Ubuntu. 
+>
+> Truncates by Characters, Not Bytes
+>
+> Poor Implementation
+>
+> Conflicts with -o
+
+---
+
+> Crypto Wallets: Many developers in Russia and Iran list a Bitcoin or Ethereum address directly in their README or profile bio. While GitHub doesn't have a "button" for this, it is a common way to bypass banking blocks.
+
+---
+
+> Torvalds has expressed a skeptical but pragmatic view of Artificial Intelligence. While he finds the underlying technology "genuinely interesting," he believes the industry is currently saturated with excessive hype and overblown expectations. He anticipates this hype will eventually diminish, allowing AI to become a common, practical tool rather than a buzzword. 
+
+> Torvalds often describes himself as an "engineer" rather than a "visionary," famously stating he is more interested in fixing the "pothole right in front of him" than staring at the clouds. 
+
+> Regarding the introduction of Rust into the Linux kernel, Torvalds maintains a "wait-and-see" approach. He views Rust not as a replacement for C, but as a way to "augment" the kernel in specific areas like drivers and file systems where it makes sense. 
+
+---
+
+xiao yao san ren revived.
+
+winds are winds.
+
+---
+
+sndcpy continues even after i close the phone screen (scrcpy).
+
+good? though, i were not expecting that.
 
 ---
