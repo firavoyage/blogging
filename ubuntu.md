@@ -1512,15 +1512,15 @@ sudo systemctl restart earlyoom
 
 ## `fonts`
 
-- install fonts <!-- copy the full fonts folder to ~/.local/share/fonts (result: ~/.local/share/fonts/fonts).  -->
-
-  <!-- why full fonts folder: it handles like subfolders, duplicates, changed filenames, unrelated files, gracefully. while it does not seem to support VariableFont (e.g. font weights) well by default. -->
-
-  <!-- why `~/.local/share/fonts/fonts/myfont...` instead of `~/.local/share/fonts/myfont...`: later we will put some processed noto sans on `~/.local/share/fonts/noto...`, so having an extra nested fonts folder is actually clearer -->
+- install fonts
 
   `repo: fonts`
 
-  <!-- remove all "condensed" fonts if needed (in case chromium prefers the condensed variant by default). -->
+  - copy the full fonts folder as a subfolder under `~/.local/share/fonts`
+
+  <!-- why full fonts folder: it handles things like subfolders, duplicates, changed filenames, unrelated files, well, while it does not seem to support VariableFont (e.g. font weights) well by default. -->
+
+  <!-- why `~/.local/share/fonts/fonts/myfont...` instead of `~/.local/share/fonts/myfont...`: later we will put some processed noto sans on `~/.local/share/fonts/noto...`, so having an extra nested fonts folder is actually clearer -->
 
 - prefer sc for kanji
 
@@ -1760,8 +1760,13 @@ sudo systemctl restart earlyoom
       echo "Done."
       ```
 
-- apply
-  - log out
+- normalize default font variant on chromium <!-- if needed, in case chromium prefers the condensed variant by default  -->
+  - search and remove all "condensed", "compressed", or "VariableFont" fonts <!-- on nautilus (files) -->
+- apply <!-- log out -->
+
+  ```sh
+  sudo fc-cache -f -v
+  ```
 
 ## `terminal`
 
@@ -1825,6 +1830,15 @@ sudo systemctl restart earlyoom
 - use tmux
 
   <!-- `ctrl b` `d` to keep something running in the bg, `tmux attach` to back. -->
+
+## `plymouth`
+
+- remove the oem logo on startup
+
+  ```sh
+  sudo sed -i 's/UseFirmwareBackground=true/UseFirmwareBackground=false/g' /usr/share/plymouth/themes/bgrt/bgrt.plymouth
+  sudo update-initramfs -u # apply
+  ```
 
 ## `scrcpy` `sndcpy`
 
@@ -2951,6 +2965,7 @@ rm "$AYUGRAM_FILE" # clean up
 # run vm
 flatpak install -y flathub org.gnome.Boxes
 sudo apt install -y qemu-utils
+sudo apt install -y virtualbox # more reliable
 
 # render docs
 cargo install mdbook

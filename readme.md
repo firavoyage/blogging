@@ -151,6 +151,7 @@ $fira$ `elegance`
     - growth.design
     - henri le chat noir
     - himanshu-dixit himanshud.com composio.dev awesome-claude-skills
+    - hwangdev97 hwwaanng hwang.fun hwang.fun/craft
     - hykilpikonna aza.moe
     - innei order_usagi innei.in app.folo.is mx-space.js.org lobechat.com
     - ivanhzhao ivanhzhao.notion.site notionhq notion.com
@@ -236,6 +237,7 @@ $fira$ `elegance`
     - kk_shinkai sumink.com
     - krahets hello-algo.com
     - kuviman kast-lang.org linksider
+    - lakr233 qaq.wiki flowdown.ai
     - leaverou lea.verou.me/projects prismjs.com
     - leon7hao loro.dev lody.ai
     - lexrus lex.sh
@@ -265,8 +267,8 @@ $fira$ `elegance`
     - scavenger869 loongphy.com
     - sdushantha sdushantha.github.io sherlockproject.xyz
     - share121 inter-knot s121.top fd.s121.top
-    - sheepbox8646 acboxliu acbox_space acbox.lol chattutor.app memoh.ai
-    - simonw simonwillison simonwillison.net
+    - sheepbox8646 acboxliu acbox_space memoh_ai acbox.lol chattutor.app memoh.ai
+    - simonw simonwillison simonwillison.net datasette.io
     - steipete steipete.me clawd.bot moltbook.com clawk.ai
     - swyxio swyx.io/ideas latent.space dx.tips learninpublic.org
     - timqian tim_qian timqian.com
@@ -702,6 +704,7 @@ $fira$ `elegance`
   - mindhub by product thinking (shaonan & fonter & mengna)
   - oxide and friends (oxide computer company)
   - pan.icu (wu tao & rio)
+  - shi shu feng (han yang)
   - storyfm (kou aizhe)
   - the type (eric liu & qian zhengyu)
   - ux coffee (riceman & hoka)

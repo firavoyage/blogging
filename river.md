@@ -20196,3 +20196,70 @@ sndcpy continues even after i close the phone screen (scrcpy).
 good? though, i were not expecting that.
 
 ---
+
+personally, i like the term "word origin" over "etymology" most of the times.
+
+---
+
+芋头 Leohearts🔮
+@TaroLeohearts
+
+来了，但是今天怎么这么多人😇
+
+> event: yosuga no sora
+
+不是我操我刚发完几秒钟就被群友抓了
+
+---
+
+> Yes, you can edit a post on X (formerly Twitter), but only if you have a paid X Premium subscription. If you are using a free account, you cannot edit posts directly and must delete and repost to fix errors. 
+
+> Time Limit: You only have one hour after publishing to make changes.
+
+> Edit Count: You can edit a single post a maximum of five times.
+
+---
+
+> Standard (Free) Accounts: 280 characters per post.
+> X Premium Subscribers: Up to 25,000 characters per post.
+
+---
+
+datasette is just a friendly sql viewer.
+
+---
+
+holy.
+
+i browsed. and browsed. and did not found the blogs, that explicitly said "it's xhtml ... complaint."
+
+---
+
+i were attempted to create this:
+
+- start the first node, or a set of first node (like estella)
+- this is the way we connect nodes. 
+  - for each node, find all links on the same domain, save them to the set
+  - now you have homepage, friends, links, archive, ...
+  - for each item in the set, find all external links, save them.
+  - now you have each friends. add them to nodes.
+- bfs. depth 3 for example.
+
+(save and log everything.)
+
+but i did not. i wanna do it myself. i feel it's faster and more straight forward.
+
+> If you encounter a personal website claiming XHTML compliance, it is most likely running XHTML 1.0.
+
+> If you find a legacy personal website that claims to be "compliant" but lacks modern styling (CSS), it is most likely referring to HTML 4.01 or XHTML 1.0 compliance.
+>
+> These versions represent the "golden era" of web standards (roughly 1999–2005) when the World Wide Web Consortium (W3C) pushed heavily for developers to use valid, standardized code. 
+
+---
+
+> The name systemd follows the traditional Unix naming convention of appending a lowercase "d" to a program's name to indicate it is a daemon—a background process that handles system services. 
+>
+> In Unix-like systems, background services like httpd (web server) or sshd (secure shell) use the "d" suffix. Since systemd is the primary system daemon responsible for managing all other processes and services (PID 1), the name reflects its role as the core system manager. 
+
+---
+
