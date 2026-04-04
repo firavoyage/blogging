@@ -1967,6 +1967,22 @@ sudo systemctl restart earlyoom
   - chrome://flags/#chrome-refresh-2023
   - chrome://flags/#chrome-webui-refresh-2023
 - use system title bar `off` <!-- right click the title bar -->
+- config fonts
+
+  `chrome://settings/fonts`
+
+  - standard `eb garamond`
+  - serif `noto serif cjk sc`
+  - sans-serif `noto sans cjk sc`
+  - fixed-width `fira code`
+  - mathematical `xits`
+
+- disable spellcheck
+
+  `chrome://settings/languages`
+
+  - spell check: check for spelling errors when you type text on web pages: `off`
+
 - import bookmarks
 
   `chromium bookmarks.html`
@@ -1975,7 +1991,7 @@ sudo systemctl restart earlyoom
 
   `chromium passwords.csv`
 
-- config extensions
+- install extensions
   - style: justblack https://chromewebstore.google.com/detail/just-black/aghfnjkcakhmadgdomlmlhhaocbkloab
   - style: stylus <!-- download the mv2 version and load unpacked. https://github.com/openstyles/stylus -->
     <!-- move to Documents/.storage -->
@@ -1997,6 +2013,7 @@ sudo systemctl restart earlyoom
   - automate captcha solving: buster https://chrome.google.com/webstore/detail/mpbjkejclgfgadiemmefgebjfooflfhl
   - manage access to accounts: authenticator https://chromewebstore.google.com/detail/authenticator/bhghoamapcdpbohphigoooaddinpkbai
   - manage multiple accounts: cookie profile switcher https://chromewebstore.google.com/detail/cookie-profile-switcher/dicajblfgcpecbkhkjaljphlmkhohelc
+  - manage crypto accounts: meta mask https://chrome.google.com/webstore/detail/nkbihfbeogaeaoehlefnkodbefgpgknn <!-- deprecated. incompatible without the extension. -->
   - enhance youtube: picture in picture https://chromewebstore.google.com/detail/picture-in-picture-extens/hkgfoiooedgoejojocmhlaklaeopbecg?hl=en
   - enhance twitter: control panel for twitter https://chromewebstore.google.com/detail/control-panel-for-twitter/kpmjjdhbcfebfjgdnpjagcndoelnidfj
     - x fixes: premium blue checks `hide`
@@ -2004,21 +2021,6 @@ sudo systemctl restart earlyoom
   - enhance bilibili: bewlybewly https://chromewebstore.google.com/detail/bewlybewly/bbbiejemhfihiooipfcjmjmbfdmobobp
   - see history of sites: wayback machine https://chromewebstore.google.com/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak
   - dev: react developer tools https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en
-- config fonts
-
-  `chrome://settings/fonts`
-
-  - standard `eb garamond`
-  - serif `noto serif cjk sc`
-  - sans-serif `noto sans cjk sc`
-  - fixed-width `fira code`
-  - mathematical `xits`
-
-- disable spellcheck
-
-  `chrome://settings/languages`
-
-  - spell check: check for spelling errors when you type text on web pages: `off`
 
 ## `firefox`
 
@@ -2073,7 +2075,7 @@ sudo systemctl restart earlyoom
   - -> `terminal zshrc.sh`
 - use shortcuts
   - `push` sync all git repos
-- set timer to push daily
+- set timer to auto push daily
 
   ```sh
   # Define the script and service paths
@@ -2081,6 +2083,7 @@ sudo systemctl restart earlyoom
   SERVICE_PATH="/etc/systemd/system/run_push.service"
   TIMER_PATH="/etc/systemd/system/run_push.timer"
 
+  # systemd needs shebang (`#!/usr/bin/env zsh`) to work.
   # Create the script that will run the push command and retry on failure
   echo "Creating the push command script..."
   sudo tee $SCRIPT_PATH > /dev/null << 'EOF'
@@ -2192,8 +2195,6 @@ zsh -ic 'push'
 ```
 
  -->
-
-<!-- systemd needs shebang (`#!/usr/bin/env zsh`) to work. -->
 
 ## `fcitx5`
 
@@ -2966,6 +2967,13 @@ rm "$AYUGRAM_FILE" # clean up
 flatpak install -y flathub org.gnome.Boxes
 sudo apt install -y qemu-utils
 sudo apt install -y virtualbox # more reliable
+sudo apt install -y cpu-checker
+sudo apt install -y virt-manager qemu-kvm libvirt-daemon-system libvirt-clients bridge-utils
+sudo usermod -aG libvirt $USER # give user root access to vms
+sudo usermod -aG kvm $USER
+# reboot
+sudo systemctl enable --now libvirtd
+# check: sudo systemctl status libvirtd
 
 # render docs
 cargo install mdbook

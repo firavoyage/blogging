@@ -386,6 +386,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 
 - `1` 2026.04.02
 - `2` 2026.04.03
+- `3` 2026.04.04
 
 ## gaming
 
@@ -20263,3 +20264,41 @@ but i did not. i wanna do it myself. i feel it's faster and more straight forwar
 
 ---
 
+> Why can’t you add this to bookmarks?
+> This author has blocked you, so you can't perform this action
+
+well. i could view (even directly, not logged out).
+
+but i could not act on my own (without interacting with them, like comments)?
+
+> @__oQuery is blocked Are you sure you want to view these posts? Viewing posts won’t unblock @__oQuery.
+
+what does it mean? twitter is anti geek.
+
+---
+
+> arch linux: soft ch
+>
+> archi (abbr for architecture): ar-key
+
+---
+
+> chess is the gymnasium of mind. - blaise pascal
+
+menci: 健脑房?
+
+(on chess dot com, from chessvibes rating climb 1712 to 1743)
+
+---
+
+> The choice between React and Vue is heavily influenced by geography and nationality, particularly in China, where Vue has historically seen disproportionately high adoption compared to the West. While React dominates global professional usage at approximately 42.6% compared to Vue's 18.8%, Vue is the most popular frontend framework in China, Hong Kong, and parts of Southeast Asia. 
+
+reference: zhihu en? baidu wiki en?
+
+are they specially designed for seo?
+
+(seems traditional machine translation)
+
+> Because both of these frameworks are designed to solve single-page applications, so it's common for people to compare them together. In fact, comparing Vue and React is already a form of disrespect to React.
+
+---
