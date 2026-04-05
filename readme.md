@@ -132,6 +132,8 @@ $fira$ `elegance`
 - personas
   - art & design
     - aliimam_in aliimam.in 21st.dev 1code.dev
+    - ycombinator ycombinator.com ycombinator.com/companies ycombinator.com/jobs
+    - ProductHunt producthunt.com producthunt.com/shoutouts producthunt.com/golden-kitty-awards/hall-of-fame
     - antfu antfu.me 100.antfu.me sli.dev
     - anthropicai anthropic.com claudeai claude.ai
     - anwnews anyway.fm/now
@@ -173,11 +175,12 @@ $fira$ `elegance`
     - livid livid.v2ex.com v2ex.com planetable.xyz sol.build v2ex.com/solana ohyi olivida
     - lovefrom lovefrom.com
     - maigolabs maigo.dev
-    - manusai manus.im manus.im/docs/features manus.im/playbook awesome.manus.space
+    - manusai manus.im manus.im/blog manus.im/docs/features manus.im/playbook awesome.manus.space
     - mitchellh mitchellh.com ghostty.org
     - mitsuhiko lucumr.pocoo.org
     - mugumogu maru
     - nadiamoe nadia.moe
+    - nathansobo atom.io zed.dev
     - nothing cmfbynothing essential nothing.tech essential.com
     - oooooohmygosh
     - openai openai.com chatgptapp chat.com
@@ -189,6 +192,7 @@ $fira$ `elegance`
     - ryokun6 ryo.lu os.ryo.lu work.ryo.lu soundboard.ryo.lu
     - saeziae estela.moe estela.moe/drawer @sz@catcatnya.com
     - sdw sdw.space
+    - sequoia sequoiacap.com sequoiacap.com/stories sequoiacap.com/our-companies jobs.sequoiacap.com
     - shadcn shadcn.com
     - shuding shud.in
     - sindresorhus sindresorhus.com vadimdemedes vadimdemedes.com term.ink

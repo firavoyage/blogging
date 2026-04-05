@@ -1507,6 +1507,8 @@ sudo systemctl restart earlyoom
   - `*` `off`
 - heroic: file system <!-- remove the nonsensical folder on home -->
   - `*` `off`
+- make zed work with fcitx5
+  - all permission `on`
 
 ## `gear lever`
 

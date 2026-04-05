@@ -387,6 +387,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `1` 2026.04.02
 - `2` 2026.04.03
 - `3` 2026.04.04
+- `4` 2026.04.05
 
 ## gaming
 
@@ -20395,5 +20396,75 @@ claude code could work with workarounds. but im not gonna like it.
 openrouter is good. my dollars are just sleeping there and not doing anything.
 
 novita ai is also good. let's exploit maybe. idk if minimax could outperform or have a competitive quality with 1/10 price. let's do some simple research. and just proceed.
+
+---
+
+Funshiki:
+
+我很严肃的。
+
+不好的评论我会杀。
+
+我不希望像被开了独轮车一样。
+
+（background：异国日记。一部不适合快节奏新番总结的内容。可以帮助回复。不要刷为什么没有。）
+
+---
+
+> Yes, you can permanently install unsigned extensions on Firefox Developer Edition by toggling a specific configuration flag. Unlike the standard release or Beta versions of Firefox, the Developer Edition allows you to bypass the mandatory extension signing requirement.
+
+---
+
+> Bisq CNY (Chinese Yuan) escrows do not "avoid" bank surveillance in the sense of bypassing bank logging entirely; rather, they minimize, decentralize, and pseudonymize the data that government agencies can link to a user's Bitcoin identity. Because CNY bank transfers must touch regulated Chinese banks, the privacy strategy relies on
+> separation of duties and local data storage rather than creating an unmonitored bank transaction.
+> 
+> People do not send CNY (fiat currency) directly into Bisq's escrow. Instead,
+> CNY is sent directly from the buyer's bank/payment app to the seller's bank/payment app, while Bitcoin is held in a 2-of-2 multisig escrow address on the Bitcoin blockchain. 
+> "Escrow" on Bisq refers to the locking of Bitcoin (BTC) security deposits and trade funds, not the fiat currency. 
+> 
+> Mandatory Security Deposits: Both the buyer and seller must lock a BTC security deposit in a 2-of-2 multisignature escrow. If a buyer fails to pay or follow the protocol, they risk losing this deposit to the seller.
+> 
+> Since Bisq cannot directly see your Chinese bank or mobile wallet activity, it relies on human-verified evidence and "account signing."
+
+---
+
+> No, GitHub does not currently allow you to block a specific user from only one repository. Blocking a user is an account-level action that restricts them from all repositories you own. 
+
+---
+
+> No, Zed extensions currently cannot modify the user interface to the same extent as VS Code. As of early 2026, Zed’s extension API is much more restrictive, prioritizing performance and a consistent "clean" aesthetic over deep customizability. 
+
+---
+
+> Algorithmic Choice: Unlike Twitter's forced "For You" feed, Bluesky offers a "marketplace" of over 50,000 custom algorithms. You can subscribe to feeds created by other users—such as "Science," "News," or community-specific ones like "Blacksky"—to control exactly how content is filtered and discovered.
+>
+> Account Portability: Built on the AT Protocol, Bluesky is designed so you can move your entire account—including your followers, posts, and identity—to a different provider without having to start over.
+
+> Yes, Bluesky is Free and Open Source Software (FOSS). Almost all of its core components are available on GitHub under permissive licenses like MIT and Apache 2.0. 
+
+> While the code is open, Bluesky differs from Mastodon in its corporate structure. Bluesky is a Public Benefit Corporation (PBC), whereas Mastodon is a non-profit. Some FOSS purists argue that because the "main" instance (bsky.social) is centrally managed by a company, it isn't as "libre" as the fully community-owned Fediverse. 
+
+> While it might seem that way from certain circles, the data as of April 2026 actually shows that Bluesky has significantly more users and higher engagement than Mastodon. 
+>
+> Culture Gap: Mastodon attracts a very vocal, tech-savvy, and community-oriented crowd (the "Linux nerds" and academics). This group is often highly active in discussions about why they left Twitter, making their presence feel very "loud".
+>
+> Most users who find Mastodon "too complicated" or "too techy" actually end up on Threads (which has over 275 million users) or Bluesky. Mastodon remains a dedicated niche for those who prioritize complete independence over a mainstream social experience. 
+>
+> Your observation is spot on for the developer and "geek" community. For that specific group, Mastodon is often the preferred choice because its values align more closely with traditional hacker culture—prioritizing complete decentralization, user autonomy, and self-hosting. 
+
+> True Self-Hosting: Your friends can run their own instances (servers), giving them total control over their data, moderation rules, and even the server's code. Bluesky's self-hosting is currently more limited to "Personal Data Servers" (PDS) that still largely rely on Bluesky's central "Relays" to be discoverable.
+>
+> The Fediverse Network: Mastodon is part of the larger Fediverse, meaning your friends can interact with people on other services like Lemmy (Reddit alternative) or PixelFed (Instagram alternative) using the same account.
+>
+> No VC Pressure: Mastodon is a non-profit funded by donations. For many geeks, Bluesky being a venture-capital-backed corporation is a "red flag" for future "enshittification" (where a platform gets worse as it chases profit).
+>
+> Mature Ecosystem: Having been around since 2016, Mastodon has a wider range of mature third-party apps, bots, and specialized servers (like mastodon.social or tech.lgbt) that feel like "home" for niche technical groups. 
+
+> The reason you might see fewer people on Bluesky in your circles is a network effect. Bluesky has grown massively (over 40 million users) by attracting artists, journalists, and mainstream users who found Mastodon too complex. If your network is mostly high-level tech people, you are likely in the "Mastodon stronghold" where the conversation is deeper and more specialized. 
+>
+> In short, Mastodon is for the community and the protocol, while Bluesky is for the audience and the ease of use.
+>
+> Since your friends are already self-hosting, have they looked into ActivityPub bridges that let them talk to people on Bluesky without leaving their own Mastodon server?
+
 
 ---
