@@ -6,7 +6,7 @@ $fira$ `elegance`
 
 <!-- animated coming-of-age romantic fantasy adventure film -->
 
-<!-- stand w/ f. -->
+<!-- stand w/ f. anti colored people. anti cisgender. not willing to make friends with trans. -->
 
 <!-- free @home. -->
 
@@ -786,6 +786,7 @@ $fira$ `elegance`
 - again, you can't connect the dots looking forward; you can only connect them looking backwards. so you have to trust that the dots will somehow connect in your future.
 - green, my dear friend, is all theory, and gray the golden tree of life.
 - i do not know what i may appear to the world. but to myself i seem to have been only like a boy playing on the sea-shore and diverting myself in now and then finding a smoother pebble or a prettier shell than ordinary, whilst the great ocean of truth lay all undiscovered before me.
+- there are not so many people in the world (that, like... make a difference). <!-- cursor, lex fridman podcast -->
 - knowledge isn't free. you have to pay attention.
 - i have a small device in my pocket that provides access to nearly the sum total of human knowledge. i use it to get into pointless arguments with people i don't know and look at pictures of cats.
 - two drifters off to see the world. there's such a lot of world to see... for every lonely and wandering soul. there is a lucky star behind the darkness. waiting and shining with the freshest hope and warmest aura. some day. till then

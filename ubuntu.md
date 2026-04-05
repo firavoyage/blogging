@@ -92,6 +92,9 @@ curl -fsSL https://raw.githubusercontent.com/mkasberg/ghostty-ubuntu/HEAD/instal
 # tmux: keep things running in background
 sudo apt -y install tmux
 
+# docker
+curl -fsSL https://get.docker.com | sudo sh
+
 # rust: rustup, rustc, cargo
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh -s -- -y
 # mkdir -p ~/.cargo
@@ -150,9 +153,11 @@ python3 -m pip config set global.break-system-packages true # simplify: remove m
 cargo install --locked uv # locked makes it predictable by using the specifc version needed instead of the latest one
 uv tool install ruff
 
-# cpp
-sudo apt install -y g++
-sudo snap install cling
+# c/cpp
+sudo apt install -y gcc g++ clang
+sudo snap install cling # interactive cpp from cern
+sudo docker pull emscripten/emsdk:latest # emscripten
+# example: docker run --rm -v $(pwd):/src emscripten/emsdk emcc main.cpp -o main.js
 
 # android: android studio, gradle, java
 flatpak install -y flathub com.google.AndroidStudio
@@ -172,9 +177,6 @@ sudo apt install -y beef
 
 # perl (it might be preinstalled, though)
 sudo apt install -y perl perl-doc
-
-# docker
-curl -fsSL https://get.docker.com | sudo sh
 
 # wine
 sudo dpkg --add-architecture i386
@@ -2071,10 +2073,8 @@ sudo systemctl restart earlyoom
     git remote add e https://gitee.com/username/project.git
     ```
 - config zshrc
-  `~/.zshrc`
-  - -> `terminal zshrc.sh`
-- use shortcuts
-  - `push` sync all git repos
+  - copy `terminal zshrc.sh` to `~/.zshrc`
+  - use `push` function to sync all git repos
 - set timer to auto push daily
 
   ```sh

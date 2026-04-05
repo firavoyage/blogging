@@ -13244,7 +13244,7 @@ deepseek uses pow and wasm for sha encryption!
 
 ---
 
-### dev 2025
+### dec 2025
 
 no longer skip lessons in duolingo.
 
@@ -20300,5 +20300,100 @@ are they specially designed for seo?
 (seems traditional machine translation)
 
 > Because both of these frameworks are designed to solve single-page applications, so it's common for people to compare them together. In fact, comparing Vue and React is already a form of disrespect to React.
+
+---
+
+you might not be able to go to "the hidden fwd".
+
+but you can see the name. you can search the name.
+
+sometimes it's a profile. sometimes it's cross referenced by others.
+
+ppl on tg really love social.
+
+i suspect there are less than 10k ppl on tg, less than 1k with channel more than 100 subs. and among the 1k, not everyone is active.
+
+> there are not so many ppl in the world
+
+---
+
+> Originally developed by Palm, Inc. and launched in 2009, webOS is a Linux-based operating system that pioneered many modern smartphone features, such as gesture-based navigation and multitasking "cards". After Palm's acquisition by HP and a brief, unsuccessful expansion into tablets, the platform was sold to LG Electronics in 2013. Today, it primarily lives on as the smart TV operating system for LG and other licensed television brands. 
+
+---
+
+when is it...
+
+```
+ ~ % git init
+hint: Using 'master' as the name for the initial branch. This default branch name
+hint: is subject to change. To configure the initial branch name to use in all
+hint: of your new repositories, which will suppress this warning, call:
+hint:
+hint:   git config --global init.defaultBranch <name>
+hint:
+hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+hint: 'development'. The just-created branch can be renamed via this command:
+hint:
+hint:   git branch -m <name>
+Initialized empty Git repository in /home/fira/.git/
+```
+
+---
+
+> No, the GitHub CLI (gh) is not compatible with other Git hosting services like GitLab, Bitbucket, or standard Git servers. It is a specialized tool designed specifically to interact with the GitHub platform and its unique features. 
+
+---
+
+> In its earliest form (2009), webOS was indeed essentially a web-based operating system, where the "desktop" and applications were built using standard web technologies. 
+>
+> The System UI: The launcher, the "Card" multitasking view, and the notification bar were all built with HTML, CSS, and JavaScript. In a literal sense, the "desktop" was a set of web pages managed by the OS.
+>
+> At the time, this was radical. While the original iPhone (2007) initially intended to use web apps, Apple quickly pivoted to "native" code (Objective-C). Palm doubled down on the web, believing that if you could build a website, you could build a mobile app. 
+>
+> This architecture is why many modern technologies, like Electron or ChromeOS, feel similar to the original vision of webOS.
+>
+> In its early years, webOS performance was a mix of groundbreaking multitasking and notable sluggishness. While the "browser-based" approach made the interface fluid and unique, it placed a heavy burden on the era’s limited hardware. 
+>
+> Hybrid Applications: Most native apps were actually "hybrids." They often used a web-based layer for the user interface (menus, buttons) but offloaded heavy tasks—like a game engine or video processing—to a native C++ plugin for maximum speed.
+
+---
+
+anywayfm the story of palm.
+
+i remember when i were in jhs, i stay up late, i listen to the podcast on antennapod... on bed. when the phone is plugged in on the balcony where it could plug in, with timer set.
+
+ive also tried google podcast, which seems to.
+
+i do not go to school, whether in pandemic or not.
+
+i play pubg metro royale, arguing with ppl, playing it dirty. i like the "rating" and the "achievements" a lot, ignoring gameplay (boring, even kind of afk to reduce risk) and teammates.
+
+i accidentally receive some programming books, when some frnds of the family give for free (post online). i learn on css tricks and ruanyf (e.g. flex, grid). i imagine if i could rebuilt the web rendering on canvas and wasm, abstracting from the foundamentals, and make it somewhat elegant.
+
+~~i play something dirty on csdn.~~ i write on cnblogs, juejin, codepen. i watch codingstartup. when i dont have a phone, i use one of my family member's and i watch it, i also play "shen xiao pai dui" wechat mini app game, a domestic copy from a steam best selling. 
+
+i watch the football world cup. i remember "when you watch it next time, ~~you will be in ...~~ you will have a life update.". before, i dont have the previllege to watch that, since im healthy (good) and do not stay up.
+
+the golden years.
+
+---
+
+> The Elevator Incident: His motivation for creating Rust came after he had to trudge up 21 flights of stairs because the elevator software had crashed. He realized that many such crashes were due to memory bugs in C and C++, which led him to design a language that could prevent them.
+
+---
+
+liuran?! westlake university?
+
+---
+
+legacy:
+
+let's use opencode to make the refactor (ts, result) work.
+
+claude code could work with workarounds. but im not gonna like it.
+
+openrouter is good. my dollars are just sleeping there and not doing anything.
+
+novita ai is also good. let's exploit maybe. idk if minimax could outperform or have a competitive quality with 1/10 price. let's do some simple research. and just proceed.
 
 ---
