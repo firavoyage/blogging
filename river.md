@@ -388,6 +388,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `2` 2026.04.03
 - `3` 2026.04.04
 - `4` 2026.04.05
+- `5` 2026.04.06
 
 ## gaming
 
@@ -20532,3 +20533,10 @@ turn off the proxy also works. but it's incompatible with other apps.
 
 ---
 
+> The most restrictive, commonly used open-source license on GitHub is the GNU Affero General Public License v3.0 (AGPL-3.0). However, if considering the strict legal default, having no license at all is the most restrictive option.
+
+---
+
+> Symphonic Rock & Metal: It is known for its "in-your-face" percussion, electric guitars, and heavy use of strings and gong effects.
+
+---

@@ -134,9 +134,6 @@ phone() {
 # Start scrcpy in background
   scrcpy --fullscreen --turn-screen-off --power-off-on-close --screen-off-timeout=600 --window-title "phone" &
 
-# Let scrcpy connect
-  sleep 3
-
   echo "Waiting until Android allows sndcpy foreground..."
 
 # Retry ONLY the Activity start
@@ -152,6 +149,8 @@ phone() {
 
     sleep 1
   done
+
+  sleep 5
 
   sound
 }
