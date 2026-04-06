@@ -132,8 +132,6 @@ $fira$ `elegance`
 - personas
   - art & design
     - aliimam_in aliimam.in 21st.dev 1code.dev
-    - ycombinator ycombinator.com ycombinator.com/companies ycombinator.com/jobs
-    - ProductHunt producthunt.com producthunt.com/shoutouts producthunt.com/golden-kitty-awards/hall-of-fame
     - antfu antfu.me 100.antfu.me sli.dev
     - anthropicai anthropic.com claudeai claude.ai
     - anwnews anyway.fm/now
@@ -185,14 +183,16 @@ $fira$ `elegance`
     - oooooohmygosh
     - openai openai.com chatgptapp chat.com
     - pidanzhoujiala
+    - producthunt producthunt.com producthunt.com/shoutouts producthunt.com/golden-kitty-awards/hall-of-fame
     - q.ai
     - re-xyr dayli.ly
     - rea1donandtrump rene.wang detail.design ygeeker.com
+    - retool retool.com retool.com/use-cases
     - rimochan icp.gov.moe librian.net
     - ryokun6 ryo.lu os.ryo.lu work.ryo.lu soundboard.ryo.lu
     - saeziae estela.moe estela.moe/drawer @sz@catcatnya.com
     - sdw sdw.space
-    - sequoia sequoiacap.com sequoiacap.com/stories sequoiacap.com/our-companies jobs.sequoiacap.com
+    - sequoia sequoiacap.com sequoiacap.com/our-ethos sequoiacap.com/arc sequoiacap.com/our-companies sequoiacap.com/stories jobs.sequoiacap.com
     - shadcn shadcn.com
     - shuding shud.in
     - sindresorhus sindresorhus.com vadimdemedes vadimdemedes.com term.ink
@@ -305,7 +305,7 @@ $fira$ `elegance`
     - numberphile
     - one math
     - oovm jiang zi jun zhihu
-    - paulg paulgraham.com
+    - paulg paulgraham.com arclanguage.org ycombinator ycombinator.com news.ycombinator.com ycombinator.com/companies ycombinator.com/jobs
     - pkuflyingpig csdiy
     - probiusofficial hello-ctf.com
     - qingyu qoj.ac
@@ -454,12 +454,14 @@ $fira$ `elegance`
     - gus brawl stars
     - hexose 0x4682b4 emotelab
     - hitori gotoh
+    - homura akemi
     - ichi hime
     - kagura mea
     - kasugano sora
     - konata izumi
     - kulimu cream
     - kyouka overidea
+    - madoka kaname
     - mikanthemink katabasis.moe
     - minami iwasaki
     - minato aqua
@@ -492,7 +494,6 @@ $fira$ `elegance`
   - sanketsu girl (sayuri)
   - yui
   - yoasobi
-  - kaf
   - deco＊27
   - led zeppelin
   - crazy world (scorpions)
@@ -502,22 +503,25 @@ $fira$ `elegance`
   - the well-tempered clavier (johann sebastian bach)
   - neon genesis evangelion (shiro sagisu)
   - rock n roll (beyond)
-  - u 87 (eason chan)
-  - what's going on...? (eason chan)
 - singles
   - hotel california (eagles)
   - shiori (mygo!!!!!)
   - the big dango family (chata)
+  - magia (kalafina)
+  - god knows (haruhi suzumiya)
   - the girl who fell from the sky (joe hisaishi)
   - anytime anywhere (milet)
   - haru no kaze (aoi teshima)
   - suzume (cyan nyan)
+  - mata ashita (madoka kaname)
   - henceforth (kagura mea)
   - in the end (linkin park)
   - mephisto (queen bee)
   - qun ding (mi feng chu)
   - nv tong chong bai (0ne2345)
   - tui yi de ni (menci & wxh010910 & yan qval & krydom & niro bc & wer key tom_ftd & \_\_stdcall & created_equal & whzzt & wy1627)
+  - exaggeration (eason chan)
+  - under mount fuji (eason chan)
 - films
   - spirited away (2001)
   - soul (2020)
@@ -961,7 +965,7 @@ fira is a font from mozilla.
 
  -->
 
-## insight
+## introspective
 
 <!-- "design engineer" -->
 
@@ -969,8 +973,8 @@ fira is a font from mozilla.
 - _anime otaku_ unworldly girls...
 - _digital hoarder_ memories memories...
 - _idle fellow_ earthly escapade...
-- _simplicity addict_ elegance of idea...
-- _indie developer_ libre apps...
+- _simplicity addict_ elegance of ideas...
+- _indie developer_ libre tech...
 - _lifelong learner_ the art of problem solving...
 
 ## random
