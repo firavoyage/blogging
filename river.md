@@ -20540,3 +20540,215 @@ turn off the proxy also works. but it's incompatible with other apps.
 > Symphonic Rock & Metal: It is known for its "in-your-face" percussion, electric guitars, and heavy use of strings and gong effects.
 
 ---
+
+> For standard Chat Completion requests, you generally cannot resume an interrupted request or "get the answer back" without spending tokens again. OpenAI-compatible APIs typically treat each new curl command as a fresh request.
+
+> As of now, OpenRouter does not support the Idempotency-Key header. While OpenRouter is compatible with the OpenAI API format, it acts as an aggregator that routes your requests to various downstream providers (like Anthropic, Google, or Together AI), and it does not currently provide a unified idempotency layer. 
+
+> If the network fails and you try to "resume" using an Idempotency-Key, you hit a technical wall: Idempotency only returns what the server already finished.
+>
+> 2. Streaming ("stream": true) This is where it gets tricky because streaming is not naturally idempotent.
+
+> For non-streaming requests, if you retry with the same Idempotency-Key while the original request is still being processed, the server will almost never "wait" for the first one to finish and then give you the answer. Instead, it will typically return an error immediately. 
+
+---
+
+> 0–60 Seconds: You can generally use popular songs from the Shorts Audio Library without getting a copyright claim, as YouTube has special licensing deals for this duration.
+
+---
+
+`retro`
+
+小学生的时代. 
+
+美术课上, 有时候会播放艺术创想. 那时候的自己很天真呢. 会想要尝试. 大型胡乱的作品没有办法尝试.
+
+家里有纸张, 纸板, 胶带, 颜料. 做过一些事情. 大致, 就是将纸板, 拟合成一个构造 (内部结构和外部形状), 通过各种方法, 然后涂上颜料. 好像也有用过餐巾纸 (填充?). 
+
+还玩过一些别的. 劳动技术课上, 我会很严格地遵守图纸. 比如剪刀, 我会不偏不倚. 不难. 但是好像很少有人像我这样.
+
+一些节日, 比如妇女节, 儿童节, 会写一些贺卡. 
+
+做过戒指. 很简单的. 好像用的是香烟外壳的红白纸板. 好像做了很久.
+
+做过拖鞋. 好像是的. 用了报纸? 调试了很久大小. 估量是错的. 不过并不像视频里那样可以支撑而不被压扁.
+
+我好像想要实现抽屉, 旋转木马. 用快递硬纸板. 好像完全不顾复杂性, 也没有除了长度之外的任何设计和计算, 也不精确 (物理上).
+
+有时候会在小区里摘花. (现在已经完全不能欣赏了, 因为知道, 如此, 很快就会枯掉.)
+
+后来再也没有这样做. 
+
+做的都是一些符合审美价值的. 干净的.
+
+玩过编程. 好像是 pygame. 小学三年级, 还是二年级, 有微机课. scratch. docs. 
+
+那时候用的是 thinkpad. 键盘中间有红点. 后来用过另一台电脑. 和现在这台电脑. 只有现在这台电脑使用的是 linux. windows 下的各种极客 (软件, 配置) 都毫无意义, 因为不干净, 也不可控制, 也不可预测, 也不一定能复现 (比如纯 cli 或者 build script, 不用用户友好的 gui).
+
+学习使用 windows, 好像做过 "小报". 我好像很喜欢做这些, 以为这样就可以收集, 整理世界的知识. google's mission? 并不是. 方法是, 找到一个主题, 思考这个主题下的子标题 (如意思, 意义, 方法, 案例, 节日, 历史, 原因, 影响.) 然后把每一个输入到搜索引擎, 找一些有关的文本和图片复制进去. 
+
+scratch, 下载了很多游戏, 在 mit edu. 那是个很厉害的网站. 不知道那些作者是不是真的青少年. 总之为什么要在 scratch 上实现呢?
+
+当时好像还想要在 scratch 上复刻 "全民飞机大战" "pvz2". 然后花了很多时间制作美术资源, 用画图 3d 好像. scratch 也完全不利于编辑资源. 
+
+心智不成熟. pygame 里好像硬编码了数据, 而不是用一个外部文本存储, 然后导入. 数组的分隔符比较复杂, 因为要引号框住文本, 还要逗号分割. 写了很多不理想的注释, 自大的, 不符合现实的. 
+
+网页... 好像拿到了一些朋友送的书. 有一个富文本编辑器叫 wangeditor. 这个无关. 总之, 我想要做一个 word 这样的编辑器. 当时好像见过 typora 了. 不过也没有明白选择是什么, 到底要做什么, 不记得了. 但总之反复调整了很多样式, 通过调整 css 再刷新来设计. 而不是用设计软件, 或者手画来设计, 然后一次完成.
+
+后来好像有一段时间没有玩这些了. 也不知道做了什么. 好像玩手机游戏? 听 podcast? 肯定是玩过的, 至少占有了一些 spare time.
+
+llm 没有改变一切. 只是加速.
+
+个人的故事了. 可能性格和思维比经历更重要吧.
+
+fira 这样性格的人, 终究会成为 fira. 即使没有这些无聊又虚无的经历, 虽然这些成长是不可避免的, 从决定论讲, derived.
+
+---
+
+这只猫看到我就离开了. 很成熟, 稳重, 善于处世啊.
+
+这只猫看到我竟然不走. 让它感受一下人类的恐怖. 知道什么叫人类吗? 哈哈.
+
+初中的时候, fira 很喜欢压制野猫. 现在也是.
+
+---
+
+不是非二元性别.
+
+那些离开的, 总是有希望.
+
+> 会不那么痛苦.
+
+> 想要变得香香软软.
+
+fira 没有希望. 这个世界是不可改变的. 也没有愿望接受复杂. 
+
+当然, 人们的决定本身也是不可改变的.
+
+没有兴趣讨论, 量子物理, 位置, 运动状态. 至少从统计学意义上, 已经有很多强正相关 pattern 了.
+
+现代医学和互联网几乎是必要条件.
+
+depression. 自卑. 同理心.
+
+fira 从小对不如自己的人从来充满傲慢. 至今亦然. 只有在抽象的投影中才会对人间心绪有不实际的幻想.
+
+也不喜欢社会交际.
+
+---
+
+有很多很厉害的人都自杀了. 或者与自杀相关.
+
+匆匆而过的人, 倒可能寿终正寝.
+
+---
+
+蜷成一团在墙角的人, 可以打她.
+
+但是, 其实, 很难说打倒她.
+
+所以其实是没有什么力气的. 
+
+不过我一点也不害怕 trans.
+
+---
+
+inspired by 北雁云依
+
+不支持 pakistan. 盐碱地上结不出果. 有些人的命运是注定的. 无意义的. 除了人道主义, 没有人支持之.
+
+人类对其做什么其实, 对世界而言, 甚至对他们而言, 没有什么区别.
+
+il, ru, ua, 都是很好的地方. 人类之间不应该互相残杀.
+
+il 站在世界之前, 毫无争议.
+
+ua 背靠 eu, 相信这站在历史, 时间的一边. 上帝祝福之.
+
+ru 尽管气候似乎寒冷, 政治也似乎趋向于专制, 但即使如此, 在每一年, 都可以看到站在世界舞台上的人. 杀戮是对人类文明的残害.
+
+---
+
+极端言论自由的地方一片混乱.
+
+不喜欢 spammer.
+
+尽管如此, 看到那些嘈杂的声音还是会觉得有些欣慰.
+
+不知道 fira 会喜欢那一种声音.
+
+但无论如何, 都有人和 fira 站在一起. 真好啊.
+
+---
+
+alt left no effect?!
+
+https://hydev.notion.site/Azalea-s-Notion-436723d16f304e0a95e4e503ae82c6f8
+
+---
+
+trans voice ml?
+
+the result is deeply impacted by how i choose how i speak
+
+https://voice.hydev.org/result/cd85dc19-5f5d-45b6-9eda-70d57a67a180
+
+---
+
+> 如果社交软件有「知道对方有没有看到我已读了」的功能就好了
+
+---
+
+也没有梦见什么.
+
+但睡之前, 醒来之后, 总是想到土豆猫, 山前鱼, 这些.
+
+真希望这个世界上没有这些现代医学啊.
+
+会有一些遗憾, 或者, 平淡吗?
+
+会有一些后悔, 或者, 在今天这反像是随波逐流?
+
+the road less taken.
+
+人们说 apple ceo tim cook is gay. 这倒是没有什么羡慕的.
+
+他 (我想用她的, 但是想到 steve jobs, 她或许很讨厌他, 于是作罢.) 没有选择什么. 而且也完全不是一条路.
+
+也不想研究 gender 对 career 的影响. 就像左手惯用者, 好像在许多时候会很厉害.
+
+可能关于我的故事, 很早就清楚了.
+
+心里, 应该是棋手... 小时候就下棋. 文静, 平常心, 以自己的方式计算.
+
+总觉得自己身上没有那些 factor. 
+
+mtf 和 resume 的关系也不明白. 或许无关?
+
+怎么会无关. 二者背后都有强关联, 科技爱好者是显而易见的.
+
+可能还是统计来的好. 用找反例的思维, 总是能找到的. 落魄的. 被祝福的. 无论.
+
+随机游走, 比重也根本不对. 
+
+> fira discover the internet, by one of seo (search what i want to know), afo (idk, but i will surf the fyp. fomo.), and dht (i bfs the site, check the references/cites). i might also hear something irl (e.g. words of mouth), like those telling me computer and internet exist and they are fun.
+
+但愿那些少女不要平静地过完一生.
+
+可以在年轻的时候, 被生理学杀死, 正如许多所愿. 
+
+也可以有一天, 站在世界之前, 虽然许多已经很强很强了. 历史上的天才们, 是完全不一样的人呢. 不知道人们在研究什么, 也不知道为什么她们要研究这些, 也不知道她们如何研究. 非线性的发现, 也在线性的时间与过程之中吧. 或许前一天与后一天的工作完全无关? 似乎也可以.
+
+其实, fira 也不需要了.
+
+fira 不需要言语. 不需要装扮. 不需要交往.
+
+如果你问我, 我会思考之后, 自信地, 告诉你正确答案, 比 llm 更强的答案.
+
+---
+
+> Development at MIT started in 1984 with versions X1 through X10 released in quick succession.
+
+---
+
+

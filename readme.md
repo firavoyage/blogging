@@ -8,7 +8,7 @@ $fira$ `elegance`
 
 <!-- stand w/ f. anti colored people. anti cisgender. not willing to make friends with trans. -->
 
-<!-- free @home. -->
+<!-- free @home, in the ever lasting dream. -->
 
 <!-- not backed by yc. -->
 
@@ -154,7 +154,6 @@ $fira$ `elegance`
     - henri le chat noir
     - himanshu-dixit himanshud.com composio.dev awesome-claude-skills
     - hwangdev97 hwwaanng hwang.fun hwang.fun/craft
-    - hykilpikonna aza.moe
     - innei order_usagi innei.in app.folo.is mx-space.js.org lobechat.com
     - ivanhzhao ivanhzhao.notion.site notionhq notion.com
     - james406 posthog posthog.com
@@ -172,7 +171,6 @@ $fira$ `elegance`
     - liuyi0922 61.life mdstudiohq
     - livid livid.v2ex.com v2ex.com planetable.xyz sol.build v2ex.com/solana ohyi olivida
     - lovefrom lovefrom.com
-    - maigolabs maigo.dev
     - manusai manus.im manus.im/blog manus.im/docs/features manus.im/playbook awesome.manus.space
     - mitchellh mitchellh.com ghostty.org
     - mitsuhiko lucumr.pocoo.org
@@ -300,7 +298,7 @@ $fira$ `elegance`
     - leerob leerob.com cursor.com
     - liyupi yupi.icu codefather.cn yuyuanweb.com
     - matrix67 matrix67.com matrix67.itch.io localhost_8080 localhost-8080.com
-    - menci men.ci oi.wiki loj.ac moeditor.github.io search.lingogram.app maigo.dev needle.maigo.dev amaoke.app chiyuki0325 chyk.ink
+    - menci men.ci oi.wiki loj.ac moeditor.github.io search.lingogram.app maigolabs maigo.dev needle.maigo.dev chiyuki0325 chyk.ink hykilpikonna aza.moe amaoke.app aquadx.net voice.hydev.org vergedx
     - nayuki nayuki.io
     - numberphile
     - one math
@@ -423,7 +421,6 @@ $fira$ `elegance`
     - ke jie
     - lao fei yu 66
     - lciop
-    - led zeppelin
     - li jiaqing
     - liu yiyi
     - longbow flintlock
@@ -913,11 +910,12 @@ $fira$ `elegance`
 
 > `firahq` <!-- · `firavoyage` · `firascript` · `firatheprecious`, legacy: · `"忘我思考"` · `paperboat2020` -->
 
-- - github/gitea `firavoyage`
+- - github `firahq`
+  - npm `firahq`
   - wikipedia `User:Firahq`
+  - gitea `firavoyage` `firavoyage2`
   - wakatime `firavoyage`
   - codepen `firavoyage`
-  - npm `firahq`
 - - arxiv `firahq`
   - zenodo `firahq`
   - orcid `0009-0007-1207-3193`

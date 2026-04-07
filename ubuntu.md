@@ -2867,11 +2867,12 @@ flatpak install -y flathub io.github.flattool.Warehouse
 # install appimages
 flatpak install -y flathub it.mijorus.gearlever
 
-# browse: chromium, firefox
+# browse: chromium, firefox, lagrange
 sudo snap install chromium --revision 2842
 # use a saved .snap file if needed
 # flatpak does not keep old versions. to build from source, see https://github.com/flathub/org.chromium.Chromium/commit/df2bc0c59344afd0d5248ed4f43d0dcffbb19ae0 https://commondatastorage.googleapis.com/chromium-browser-official/chromium-124.0.6367.118.tar.xz
 flatpak install -y flathub org.mozilla.firefox # use flatpak one instead
+flatpak install -y flathub fi.skyjake.Lagrange
 
 # update apt packages index
 sudo apt update
