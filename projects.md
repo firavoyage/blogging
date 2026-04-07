@@ -89,6 +89,38 @@ inspired by
 - bilimiao
 - libretube
 
+`grow`
+
+<!-- Grow. Archive instead of retweet. "如何让初音未来永远被记住" -->
+
+> archive anything
+
+essay
+
+video
+
+image
+
+comments
+
+...
+
+organize
+
+category
+
+tag
+
+inspired by
+
+pocket
+
+instapaper
+
+raindrop
+
+archive.org
+
 `float`
 
 > listen in solitude.
@@ -160,38 +192,6 @@ inspired by
 - apple books
 - tachiyomi
 - antennapod
-
-`grow`
-
-<!-- Grow. Archive instead of retweet. "如何让初音未来永远被记住" -->
-
-> archive anything
-
-essay
-
-video
-
-image
-
-comments
-
-...
-
-organize
-
-category
-
-tag
-
-inspired by
-
-pocket
-
-instapaper
-
-raindrop
-
-archive.org
 
 `firefoxium`
 

@@ -389,6 +389,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `3` 2026.04.04
 - `4` 2026.04.05
 - `5` 2026.04.06
+- `6` 2026.04.07
 
 ## gaming
 
@@ -20751,4 +20752,139 @@ fira 不需要言语. 不需要装扮. 不需要交往.
 
 ---
 
+> Google began officially rolling out sponsored ads directly within its AI Mode conversational search interface in November 2025. These ads, which can appear as text or shopping listings, are integrated into or below AI-generated responses to help users take the next step in their discovery journey. 
+>
+> The decision to show ads is made by Google's automated systems, not by me as an individual AI model. While I generate the conversational response, a separate auction-based system determines if and where ads should appear based on your query and the content of our conversation. 
+>
+> Advertiser Control: Advertisers cannot explicitly target "AI Mode" or "AI Overviews" as a specific placement. They are automatically eligible if their campaigns are set up with AI-powered features like Broad Match or AI Max.
+>
+> No Opt-Out: Advertisers generally cannot opt out of appearing in these AI spaces if they are running eligible campaigns.
+>
+> Sensitive Topics: To maintain safety, ads are typically restricted for sensitive categories like healthcare, politics, or finance. 
 
+---
+
+> As to sending me a revert patch - please use whatever mush you call brains. I'm Finnish. Did you think I'd be supporting Russian aggression? Apparently it's not just lack of real news, it's lack of history knowledge too.
+
+---
+
+> Finland and Russia share a relationship shaped by over 200 years of colonial history, fierce military conflicts, and a pragmatic "Finlandization" during the Cold War. Historically a part of Sweden, Finland became an autonomous Grand Duchy under the Russian Empire in 1809. While initially peaceful, Russia later attempted to systematically strip Finland of its culture and autonomy—a period known as the "years of oppression"—which ultimately fueled the movement for Finnish independence in 1917. 
+
+---
+
+> Illegal entries and encounters of Chinese nationals at U.S. borders have increased significantly since 2021, reaching historic highs in fiscal year (FY) 2024 before experiencing a sharp decline in early 2025. Between FY 2021 and FY 2024, more than 182,000 to 200,000 Chinese nationals were encountered by U.S. Customs and Border Protection (CBP). 
+
+> As of 2023, an estimated 1.2 million Black immigrants were living in the United States without authorization. 
+
+---
+
+> 2019 Restrictions: Due to U.S. sanctions, GitHub restricted access to private repositories and paid services for users located in Iran.
+> 
+> IP-Based Blocking: Restrictions were based on the user's geographic location (detected via IP address), rather than their nationality or ethnicity.
+> 
+> Restoration: These restrictions were officially rolled back in January 2021 after GitHub spent two years advocating for a government license.
+
+---
+
+> The reason your FOSS (Free and Open Source Software) file manager can access and modify the /Android/data folder easily is that it uses specific, high-level system permissions that Google allows for "core file management" tools. 
+
+---
+
+> 下次应该不会再考虑国产品牌了，还是老老实实买 Sony/Pixel Buds 吧。
+
+---
+
+> In China, the surgical operation that typically costs approximately 100,000 CNY (¥100,000) for MTF individuals is Vaginoplasty (also known as Gender Reassignment Surgery or SRS). 
+
+---
+
+> 下飞机半夜寻找离家出走萌萌哒小药娘
+
+i could not help laughing...
+
+..........
+
+---
+
+> Yes, for many people, starting HRT is seen as the "medical beginning" of their transition. It’s often the point where internal identity starts to meet external physical reality.
+
+---
+
+> Yes, a 60-year-old can take HRT, whether for gender affirmation (MTF transition) or to treat age-related hormonal declines (often called "low T" or andropause). There is no absolute age limit for starting hormone therapy, but medical experts emphasize that the approach must be individualized based on personal health history and specific goals. 
+>
+> Many people who start HRT in their 60s report significant improvements in their quality of life: 
+>
+> Starting a transition at 60 is common and effective, though age does influence how the body responds to hormones.
+>
+> Yes, starting MTF HRT (Gender-Affirming Hormone Therapy) later in life is both common and effective, with a growing medical consensus that it is never "too late" to see significant benefits. 
+>
+> Late Initiation: Approximately 23% of transgender women start hormone therapy after the age of 40, and about 12% begin after age 50.
+>
+> The main reason oral estrogen is considered "less ideal"—especially as you get older—comes down to a process called First-Pass Metabolism.
+
+??
+
+counter intuitive. maybe from promotional medical training data?
+
+what do they look like before hrt? besides long hair, do they feel kind and cute?
+
+---
+
+突然想起, 最开始在 tg 上联系 nickle angel...
+
+> 难道是前不久见芋头的那位?
+
+(when i shared my twitter handle, where i rt the meetup irl from leohearts.)
+
+是啊. 出车祸的怎么不是芋头呢?
+
+---
+
+`quote`
+
+备案是一面红旗.
+
+to pledge cn gov is a red flag.
+
+(wrong verb, though.)
+
+---
+
+> 制作成本通常约300-400元,雌二醇如果按高用量(每日5mg)计算足够使用约五年
+>
+> 原作者结果：将成品涂抹于阴囊与大腿表面,早晚各一次,每次约1.5mL,持续一个月后睾酮降至29ng/dL,雌二醇达到326pg/mL 译者的结果：成品涂抹于大腿内侧,早晚各一次,每次约1.5mL,12小时后测得雌二醇133pg/mL
+
+?
+
+---
+
+> Software, like all technologies, is inherently political.
+> Code inevitably reflects the choices, biases and desires of its creators.
+> 
+> from Jeremy Keith, (2010). The Design of HTML5. https://adactio.com/articles/1704/
+
+---
+
+> agents almost never have agency. ofc you can tell them to make more money. but ... (they dont) 
+
+simonw, lenny's podcast
+
+---
+
+> Important: If you change your birthdate after you have already verified your age, Google may require you to complete the verification process again with a valid ID. 
+
+> Yes, you can technically set your birthday to a date other than your legal one in your Google Account settings, but doing so carries significant risks. Google uses this information to ensure you meet minimum age requirements (typically 13 in most countries) and to provide age-appropriate services. 
+
+---
+
+> An educated guess is a prediction or conclusion based on some degree of knowledge, experience, or reasoning rather than a completely random choice. It is essentially a guess that is "informed" by what you already know about a subject. 
+
+---
+
+> Edit date of birth?
+> 
+> This can only be changed a few times. Make sure you enter the age of the person using the account. 
+
+twitter
+
+a few times? how many
