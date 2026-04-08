@@ -390,6 +390,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `4` 2026.04.05
 - `5` 2026.04.06
 - `6` 2026.04.07
+- `7` 2026.04.08
 
 ## gaming
 
@@ -20952,4 +20953,143 @@ independent does not mean comprehensive.
 to categorize things, i have to make it both ortho and comprehensive.
 
 ---
+
+> In JavaScript, you cannot use the await keyword inside a synchronous function because await is only valid in functions prefixed with async. Instead, you must handle the returned Promise using standard promise methods or fire the function without waiting for it to finish. 
+
+> In standard JavaScript, it is impossible to truly pause a synchronous function to wait for an asynchronous result without blocking the entire execution thread. This is due to JavaScript's single-threaded event loop: if you block the thread (e.g., with a while loop), the asynchronous task can never finish because the thread it needs to run on is stuck waiting. 
+
+> The short answer is no, an unhandled promise rejection does not usually "panic" or crash your code immediately like a synchronous error (such as a ReferenceError) would. However, Node.js 15+ will terminate the process by default if a rejection is not handled, effectively turning it into a crash. 
+
+> With await: The engine says, "I'm pausing this function here. While I wait for this database call, I'll go handle user clicks, render animations, or run other functions."
+> 
+> With a while loop (True Blocking): The engine says, "I am doing nothing but this loop. I cannot click, I cannot render, and I cannot even process the 'finished' signal from the database."
+
+> Yes, you can call an async function inside a sync function, but there is a major catch: the synchronous function will not wait for the asynchronous one to finish. 
+
+---
+
+`thought`
+
+on mtfs.
+
+(thanks to english, this article is relatively short and clear.)
+
+i generally could not argue at mtfs. because they might feel cute and adorable. and online arguments are meaningless after all.
+
+also, mtfs often suffer. they are delicious. sometimes i laugh. sometimes i feel touched and could not think clearly after laughing.
+
+but with catch. estrogen would change one's body, not necessarily the brain. some mtfs feel aggressive, fierence, and unfriendly to humans.
+
+not all sufferings are delicious. some are weird. some are boring. many mtfs suicide as a performance. most stay alive. some die.
+
+btw, some mtfs might have admirable (xm) achievements in academic and career.
+
+it's clear that whether mtf or not (from the dev of modern biology, the internet society, the growth env) is deeply related to the research field statistically.
+
+about the ability, idk. likely related somehow, but the extent has to be researched.
+
+---
+
+> Yes, await essentially works like putting the rest of your function into a callback, but it makes the code much cleaner and easier to read. 
+
+---
+
+> "Horrible" for Production: He strongly opposes vibe coding for critical systems like the Linux kernel. He argues that from a maintenance standpoint, it is dangerous because the developer doesn't truly understand the code they are deploying, making it nearly impossible to debug under pressure or maintain long-term.
+
+---
+
+> Yes, but it is a very specific type of "iteration" that happens only once. 
+> 
+> When you use Vue from a CDN and mount it to an existing HTML element, Vue treats that HTML as a template string. Here is exactly how it "iterates" or reads your DOM: 
+
+---
+
+> 2025 年，我的一个开源项目被收购了，我拿到了人生中第一份正式工作，也第一次登上了 GitHub Trending。从前端一路做到全栈，从接外包到进创业公司，再到现在和团队一起做更大的事情。这篇文章，我想聊聊这一年我收获了什么。
+
+(re) read/check luoling's year recap...
+
+first? how old is she? similar to menci?
+
+---
+
+> 尚不明确。不过从西湖大学的办学性质、留学生比例、笔者观察到的长发男生比例等等来看，应该是开放与包容的，大概不会不友善吧？
+
+(warau.)
+
+typical!
+
+---
+
+https://one-among.us/profile/Arita
+
+> departed
+
+(warau.)
+
+oh, they are all dead? no wonder im not familiar with them!
+
+---
+
+fira wont lose.
+
+fira would outplay you all.
+
+---
+
+"i hate white (hypocrite, leveraging humans) and colored ppl (fooled, poor, uneducated). i hate cis (aggressive) and trans (boring). i love normal ppl. though, ..."
+
+"elegant" "pure"
+
+"i wish more ppl would gather... even in the ai era, we are akin to who we are ten years before."
+
+"i hope a gleam of genius will suppress all humanity..."
+
+trivial literary conflict. no meaning. shallow. 
+
+no insight but obvious stereotyping.
+
+though, i were about to add it to readme, commented under random.
+
+---
+
+> The Touhou Project (東方Project) is a world-renowned Japanese dōjin (indie) series primarily consisting of "bullet hell" (danmaku) shoot 'em ups. Created almost entirely by a single developer known as ZUN (Jun'ya Ōta), who handles the programming, graphics, and iconic music, the series began in 1996 as a college hobby and has since grown into a massive multimedia phenomenon. 
+
+---
+
+> While it might seem like taking estrogen automatically means someone is transitioning to "female," many MTX (Male-to-X) individuals take hormones to reach a specific non-binary or androgynous appearance that doesn't fit the traditional binary. 
+
+---
+
+> Despite the name, Team Shanghai Alice is based in Tokyo, Japan. It is a Japanese developer, and the city of Shanghai is used purely as a thematic choice by its sole member, ZUN. 
+
+---
+
+> For young people, taking HRT inconsistently is highly unlikely to cause sudden death, but it can lead to serious, non-fatal medical complications that significantly impact your long-term health and well-being. The primary danger in youth is not immediate mortality, but rather the cumulative physical and psychological strain caused by constant hormone fluctuations. 
+
+---
+
+> On average, human hair grows at a steady rate of roughly half an inch (1.25 cm) per month
+
+> 6–12 months (Chin/Neck Length): By the one-year mark, you can expect roughly 6 inches of hair, typically reaching the neck or base of the chin.
+
+---
+
+> Jin Xing’s medical transition took place in the mid-1990s, and while her specific modern-day maintenance is private, there are clear differences between the "tech" she used then and what is standard today. 
+> 
+> Jin Xing’s voice does not sound like most trans women who utilize modern voice feminization training or cisgender women with higher-pitched voices. Instead, she has a deep, gruff vocal quality that has become a core part of her public persona as a powerful and authoritative figure. 
+> 
+> Support for LGBTQ+ Symbols: A major catalyst for her recent 2024 ban was an incident where she held up a rainbow flag featuring the slogan "Love is Love" during a performance in Taiyuan. While she claimed she did it to comfort a fan, Chinese authorities view the flag with suspicion as a symbol of "Western values".
+
+i suppose most mtfs wont support jin xing due to his age.
+
+---
+
+> Coined by "swyx": The specific modern usage of "AI Engineer" was popularized in 2023 by Shawn "swyx" Wang, who argued that most developers would soon transition from "Software Engineers" to "AI Engineers" who manipulate models via APIs.
+>
+> The Definition: It represents a middle ground between traditional software engineering and AI research. While Machine Learning (ML) Engineers might build or fine-tune the models, AI Engineers focus on agentic architectures, RAG (Retrieval-Augmented Generation), and tool integration.
+
+> Shawn Wang, widely known by his handle swyx, is a prominent developer, writer, and entrepreneur who is a leading voice in the "AI Engineer" movement. He transitioned from a high-level career in finance to software engineering and has since become a key influencer in the web development and AI communities. 
+
+---
+
 
