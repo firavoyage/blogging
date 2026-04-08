@@ -92,8 +92,14 @@ curl -fsSL https://raw.githubusercontent.com/mkasberg/ghostty-ubuntu/HEAD/instal
 # tmux: keep things running in background
 sudo apt -y install tmux
 
-# docker
+# docker, mise
 curl -fsSL https://get.docker.com | sudo sh
+
+sudo install -dm 755 /etc/apt/keyrings
+curl -fSs https://mise.jdx.dev/gpg-key.pub | sudo tee /etc/apt/keyrings/mise-archive-keyring.asc 1> /dev/null
+echo "deb [signed-by=/etc/apt/keyrings/mise-archive-keyring.asc] https://mise.jdx.dev/deb stable main" | sudo tee /etc/apt/sources.list.d/mise.list
+sudo apt update
+sudo apt install -y mise
 
 # rust: rustup, rustc, cargo
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh -s -- -y
@@ -2848,11 +2854,11 @@ zsh -ic 'push'
 remove
 
 ```sh
-sudo snap remove firefox
+sudo snap remove -y firefox
 
-sudo snap remove thunderbird # use web (gmail, outlook, etc.) instead. thunderbird is free and consistent, but slow. And it produces nonsense, thunderbird.tmp on downloads
+sudo snap remove -y thunderbird # use web (gmail, outlook, etc.) instead. thunderbird is free and consistent, but slow. And it produces nonsense, thunderbird.tmp on downloads
 
-sudo apt remove gnome-text-editor # let it auto bind vscode then
+sudo apt remove -y gnome-text-editor # aka gedit or text editor, let it auto bind vscode then
 ```
 
 install

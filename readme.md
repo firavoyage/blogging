@@ -664,7 +664,7 @@ $fira$ `elegance`
   - .kokoro (natsume sōseki)
   - dream of the red chamber (cao xueqin)
   - .the great gatsby (f. scott fitzgerald)
-  - .the stranger (albert camus)
+  - the stranger (albert camus)
   - a long gaze (lung yingtai)
   - .the kite runner (khaled hosseini)
   - hackers and painters (paul graham)

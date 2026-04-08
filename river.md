@@ -20887,4 +20887,69 @@ simonw, lenny's podcast
 
 twitter
 
-a few times? how many
+a few times? how many? no transparency!
+
+---
+
+> Linguistic History: The "singular they" (using "they" to refer to one person) has been used for centuries—appearing in the works of writers like Shakespeare and Chaucer—to describe someone whose gender is unknown or irrelevant.
+
+---
+
+fact checked.
+
+it's almost impossible for tcdw to be 14 yro.
+
+it's unlikely that acbox is 17 yro.
+
+---
+
+the speed of tg to export a large group is slow.
+
+it could be faster with 3p api or parallel (metadata).
+
+---
+
+> The answer is yes, Bisq can and has been used for money laundering, but its architecture also includes features that make it difficult to use for large-scale operations. 
+
+---
+
+idk who lakr233 is.
+
+but when i ctrl shift f her. i see social proof.
+
+menci tweets. cali blog. innei blog.
+
+well, not really strong.
+
+i trust my intuition: deprecate her.
+
+---
+
+> 5月，结识两个15岁左右的离家出走跨性别情侣，借住在一个20多岁的MtF姐姐家里，几个人经济状况并不好，年纪轻轻，但她们坚强的生活态度真的很厉害。几个MtF姐妹间的sisterhood也很棒。
+
+now, they are 20 yro, and 25 yro...
+
+> 24 yro, though, im no longer a student.
+
+---
+
+> Yes, from a developer's perspective, dark mode on Ubuntu functions essentially as an event listener or a signal observer. 
+
+---
+
+> Yes, the if err != nil pattern in Go is widely considered notorious for its verbosity and repetition. While it is a fundamental part of the language's design philosophy, it remains one of the most frequently discussed and criticized aspects of Go by both new and experienced developers. 
+
+> No "truthy" values: Unlike JavaScript or Python, Go does not have the concept of "truthy" or "falsy" values where a non-empty object or non-nil pointer automatically counts as true.
+
+(inspired by a msg in memoh group)
+
+---
+
+> In software engineering (SWE), orthogonality is a design principle where system components are independent and decoupled, meaning a change in one part does not affect the others. 
+
+independent does not mean comprehensive.
+
+to categorize things, i have to make it both ortho and comprehensive.
+
+---
+
