@@ -20902,6 +20902,8 @@ it's almost impossible for tcdw to be 14 yro.
 
 it's unlikely that acbox is 17 yro.
 
+upd: confirmed. acbox 17 yro. (reference: web worker podcast to bugduck to team)
+
 ---
 
 the speed of tg to export a large group is slow.
@@ -21089,7 +21091,127 @@ i suppose most mtfs wont support jin xing due to his age.
 > The Definition: It represents a middle ground between traditional software engineering and AI research. While Machine Learning (ML) Engineers might build or fine-tune the models, AI Engineers focus on agentic architectures, RAG (Retrieval-Augmented Generation), and tool integration.
 
 > Shawn Wang, widely known by his handle swyx, is a prominent developer, writer, and entrepreneur who is a leading voice in the "AI Engineer" movement. He transitioned from a high-level career in finance to software engineering and has since become a key influencer in the web development and AI communities. 
+>
+> Self-Taught Roots: Taught himself to code using freeCodeCamp tutorials over two years (2016–2018) while working in finance.
+>
+> Fullstack Academy: Attended this competitive coding bootcamp in New York to formalize his engineering practices.
+>
+> Military Service (Age 18): In Singapore, he served in the Army, where he managed battalion logistics. This was his first encounter with data management, using Excel for monthly reports and forecasts.
+>
+> Technical Transition: At age 30, after burning out from a high-paying finance career (earning roughly $350k/year), he attended Fullstack Academy in New York in 2017 to formalize his coding skills after two years of self-teaching through freeCodeCamp. 
+>
+> His transition from a quantitative trader to a software engineer was driven by a realization that he was already "writing software" via Excel, Python, and Haskell for trading, but lacked the formal practices to make his work—and life—significantly better. 
+>
+> Singaporean Origins: His family is based in Singapore, where he was born and raised. His full Chinese name is Wang Yue Xian.
+>
+> View on Risk: His parents initially found his career pivot "crazy." When he quit a stable, high-paying finance job (earning $350k/year) to work for a developer he had only met on Twitter, they were highly skeptical of the move.
+>
+> Siblings: He has a younger sister whom he describes as "the most important person in the world" to him; she is a dentist in Singapore.
 
 ---
 
+> When the "Attention Is All You Need" paper was released in June 2017, it was not immediately hailed by the masses as the "future of everything." Instead, it was viewed by the research community as a highly impressive but specialized breakthrough in machine translation. 
+
+---
+
+> It is a common misunderstanding, but AES does not have a public key.
+
+---
+
+> In the world of Finite Fields (the "clock math" these curves use), division does not exist.
+> This is known as the Discrete Logarithm Problem.
+
+---
+
+> You’ve hit on the "Million Dollar Question" of cryptography. If you and I need a secret key to use AES, but we’ve never met, how do we agree on that key without a hacker overhead seeing it?
+>
+> The answer is Hybrid Encryption. We use the "slow" asymmetric math to trade a "fast" symmetric key.
+
+---
+
+> We don't actually "send" the AES key. We use an algorithm called Diffie-Hellman (based on that ECC math we discussed).
+>
+> The Result: Because of the way the math works (A*B = B*A), we both arrive at the exact same massive number.
+>
+> Speed: AES is roughly 1,000 to 10,000 times faster than RSA or ECC.
+>
+> Does it make sense now why Shor’s Algorithm (which breaks the Handshake) is such a big deal for the future of the internet?
+
+> what? you pub key multi my priv key = my pub key mult your priv key?
+>
+> Yes, that is the "magic" of Diffie-Hellman (DH). It works because of a specific rule from middle school algebra: (g^a)^b = g^(ab) = (g^b)^a
+>
+> A hacker watching the exchange sees g, p, A (g^a), and B (g^b). To get our shared secret, they would need to figure out what a or b are. In modular math, finding the exponent a when you only know g^a is called the Discrete Logarithm Problem, and for very large numbers, it is mathematically "impossible" to solve in a reasonable amount of time. 
+
+---
+
+> Unpredicted results: Before these experiments, few believed that unsupervised pre-training (just reading text without labels) would "blow away" human-curated benchmarks. The discovery that scaling compute and data led to qualitatively better systems—rather than just slightly more accurate ones—was a major surprise. 
+>
+> The "Black Box" surprise: Even as late as 2023, many experts confidently claimed LLMs would never handle novel coding or complex math.
+>
+> The realization: These capabilities only appeared after the models reached a certain "size" (parameter count), which was impossible to predict theoretically before the SOTA models were actually built and tested.
+>
+> Theoretically, the architecture was viewed as highly experimental and even "heretical" when first introduced. While the math suggested potential, the prevailing wisdom at the time strongly favored architectures that "mimicked" how humans read—one word at a time in order—rather than a system that looked at everything at once. 
+
+> Parallelization: Unlike RNNs, Transformers could process all words in a sequence simultaneously. This made them theoretically a "much better fit" for modern GPUs.
+>
+> The Counter-Voice: The authors theorized that positional encodings could replace the need for sequential processing, but many remained unconvinced until seeing the massive scale of later models. 
+
+> While it feels like we read one word at a time, humans are actually parallel processors who take in multiple words or word-parts at once, making us more similar to transformers than you might think. 
+
+---
+
+> Gemini learns from your past chats to understand more about you. Coming soon to Live.
+
+?
+
+---
+
+> Yes, Minecraft Redstone is considered Turing complete. 
+
+---
+
+> Yes, when you push or clone, it will only cost about 1,000 lines of data transfer and storage.
+> 
+> Even if you never manually run git gc, Git automatically triggers its compression engine during network operations:
+
+---
+
+> Yes, Codeforces submission pages are notoriously unstable during and immediately after contests. Users frequently report encountering 500 Internal Server Errors or "Oops!" pages when trying to view code submissions during these peak periods. 
+
+---
+
+> Yes, a website owner can request removal simply because they no longer want their content to be publicly available. The Internet Archive generally respects the wishes of authors and publishers who do not want their materials included in the collection. 
+
+men.ci
+
+> Archive.today: It ignores robots.txt entirely and is notoriously difficult for site owners to remove content from. This makes it a preferred tool for activists and those fighting "memory-holing".
+
+---
+
+有时候自己的人生没有很精彩的.
+
+看人们的 blog 会很有实感呢.
+
+---
+
+> Wanna grow hair but still coding!
+
+> 是想长头发但是还在敲代码的hsn!
+
+(she loves py? though neither py or cpp feels good. no pl feels good in general.)
+
+---
+
+HSN8086
+
+2025ICPC南昌邀请赛游记
+
+> 这是算竞生涯第一个铜牌, 希望这只是个开始.
+
+---
+
+i will start my own era which makes menci and yutota outdated, innei and rizumu philistine, and acbox and chyk irrelevant.
+
+---
 

@@ -76,13 +76,15 @@ $fira$ `elegance`
 
 > if you ever miss me, just close your eyes. and maybe i'll appear in your dreams.
 
-> 要怎么做...
+<!-- > 要怎么做... -->
+
+> Be warm. Be strong. Be resilient.
 
 <!-- 羡慕死了 -->
 
 <!-- 强. 弱. 厚. 薄. -->
 
-- fira 💖, she/her (without 🏳️‍⚧️ or 🍥), 🇬🇧 user, 🇨🇳 native but rarely used, 🇯🇵 beginner, 🇫🇷 very beginner
+- fira 💖, thou/thee <!-- she/her (without 🏳️‍⚧️ or 🍥) -->, 🇬🇧 user, 🇨🇳 fluent, 🇯🇵 beginner <!-- 🇫🇷 very beginner -->
 - a developer, content creator, wikipedian
 - grew up in the global village
 - on the internet since 2019, which is my actual "home town"
@@ -272,7 +274,7 @@ $fira$ `elegance`
     - scavenger869 loongphy.com
     - sdushantha sdushantha.github.io sherlockproject.xyz
     - share121 inter-knot s121.top fd.s121.top
-    - sheepbox8646 acboxliu acbox_space memoh_ai acbox.lol chattutor.app memoh.ai
+    - sheepbox8646 acboxliu acbox_space memoh_ai acbox.lol bugduck.org vuemotion.dev newcarjs.org bijonai.com chattutor.app memoh.ai
     - simonw simonwillison simonwillison.net datasette.io
     - steipete steipete.me clawd.bot moltbook.com clawk.ai
     - swyxio swyx.io/ideas latent.space dx.tips learninpublic.org
@@ -323,6 +325,7 @@ $fira$ `elegance`
     - feng ge wang min tian ya
     - hu chenfeng
     - jing hanqing
+    - keepandroidopen altereddeal keepandroidopen.org
     - mo di si ji xu shi fu
     - piracy6 telegram
     - programthink program-think.blogspot.com github.com/programthink
@@ -348,7 +351,7 @@ $fira$ `elegance`
     - durov telegram.org tgnav tgnav.github.io tg10000.com tree.aza.moe
     - dustella_chan dustella.net
     - hitw93 tw93.fun weekly.tw93.fun
-    - hsn8086 hsn8086k hsn.recipe
+    - hsn8086 hsn8086k hsn8086.com hsn.recipe zh314.xyz
     - ilharp ilharper ilharper.com
     - inx4n1c ssaignee emerge ivan eisenberg telegram
     - kagurazakayashi uuu.moe
