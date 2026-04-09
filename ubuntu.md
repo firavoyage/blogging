@@ -1778,7 +1778,7 @@ sudo systemctl restart earlyoom
   sudo fc-cache -f -v
   ```
 
-## `terminal`
+## `ghostty` <!-- `terminal` -->
 
 - put zshrc
 
@@ -2036,6 +2036,22 @@ sudo systemctl restart earlyoom
 
 - allow persistent "load unpacked" extensions like chromium <!-- might not work with standard version. might not work fine even on dev versions. -->
   - about:config `xpinstall.signatures.required` `false`
+
+## `clocks`
+
+- add world clocks <!-- appear aside notifications -->
+  - san francisco
+  - london
+  - taipei
+  - tokyo
+
+## `weather`
+
+- add cities
+  - tokyo
+  - taipei
+  - shanghai
+  - hong kong
 
 ## `git`
 

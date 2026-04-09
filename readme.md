@@ -408,6 +408,7 @@ $fira$ `elegance`
     - yusuke_takigawa
     - ziantt ziantt_official lightxi ziantt.top
   - niche
+    - adhesiontek adt_china yt.adhesiontek.com
     - animenz
     - cambridge
     - cateen_hayatosumino
@@ -421,6 +422,7 @@ $fira$ `elegance`
     - gmhikaru
     - homdgcat
     - hongkongdoll exlibris
+    - jieguchen
     - johnbartholomewchess fins0905
     - ke jie
     - lao fei yu 66
@@ -752,9 +754,9 @@ $fira$ `elegance`
   - zhi mang xing
 - sites
   - google · gemini · chatgpt · grok · deepseek · mistral ai
-  - wikipedia · miraheze · fandom · moegirl.icu · oi wiki · mdn · jisho.org · hpoi
+  - wikipedia · miraheze · fandom · moegirl.icu · oi wiki · ctf wiki · mdn · jisho.org · hpoi
   - internet archive · archive.today · archive.softwareheritage.org · the pirate bay · z library · anna's archive · archivecaslytosk.onion
-  - youtube · berryberry · douyin · niconico · hololist · vtbs.moe
+  - youtube · berryberry · douyin · niconico · hololist · vtbs.moe · aicu.cc
   - old reddit · twitter · zhihu · nga bbs · baidu tieba · pincong.rocks
   - hacker news · lobste.rs · v2ex · liqi.io · github trending · product hunt · codepen spark
   - figma · paper.design · unicorn.studio · canva · khroma · coolors

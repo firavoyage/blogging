@@ -391,6 +391,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `5` 2026.04.06
 - `6` 2026.04.07
 - `7` 2026.04.08
+- `8` 2026.04.09
 
 ## gaming
 
@@ -21215,3 +21216,48 @@ i will start my own era which makes menci and yutota outdated, innei and rizumu 
 
 ---
 
+"install altstore"
+
+i see. windows could not install apps elegantly.
+
+---
+
+> Yes, while the EU's Digital Markets Act (DMA) opened the "gates" for third-party stores, Apple still holds the "keys" to the underlying operating system. Because alternative marketplaces must still run on iOS, Apple maintains several critical points of control: 
+>
+> We saw a mini-version of this with Fortnite. Epic Games broke Apple's rules, Apple kicked them off, and Epic refused to come back for years.
+>
+> The Result: Fortnite disappeared from iPhones for nearly four years. Apple lost some "cool factor," but Epic lost hundreds of millions in revenue, while the iPhone continued to sell record numbers.
+>
+> If major game companies followed the path of "freedom" or chose to boycott the iPhone, it would lead to a fractured digital landscape where gaming looks different depending on your device. While theoretically a "lose-lose," companies like Epic Games have shown that they are willing to take that hit to challenge Apple’s 30% "Apple tax".
+
+> The data suggests that while many Fortnite players did abandon their iPhones initially, they didn't necessarily give up their devices entirely—they simply stopped playing the game on them or switched to other platforms like PC or consoles. 
+
+> The Termination: This loophole eventually closed for many when Apple fully terminated Epic's developer accounts, often resulting in a "This item is no longer available" error when trying to re-download.
+
+> Yes, Apple has a "technical kill switch" that can render an app unusable even after you have installed it. This power is primarily exercised through Certificate Revocation and Notarization checks. 
+>
+> Notarization Tickets: For apps distributed through alternative stores, Apple uses "notarization tickets." Even if an app is installed, Apple can revoke the ticket associated with that specific version. The next time the device checks Apple’s servers, the "Gatekeeper" system will block the app from launching, claiming it is damaged or malicious. 
+
+(so self update hacks have no meaningful value.)
+
+> Technically, it is impossible to block all connections to Apple's servers from an iPhone without using a router or external hardware because Apple does not provide a system-wide "kill switch" for its own background services. However, you can significantly reduce "unnecessary" traffic using several on-device methods. 
+
+> Apple has significant "contractual" and "technical" control over your Mac, but because macOS was originally built as an open platform, you have more ways to fight back than on an iPhone.
+>
+> Apple can remotely stop almost any Mac app from launching through a system called Gatekeeper and Notarization.
+>
+> The Power: If Apple revokes a developer's certificate—which they have done by mistake to legitimate developers before—the app will immediately stop working and show a warning that it will "damage your computer".
+
+> If a thief gains control of your Mac before you can trigger Find My or a remote wipe, they can effectively "blind" the device to your commands. Because they have physical and administrative access, they can cut the ties that allow Apple to help you.
+
+---
+
+> In terms of global ranking data and research volume, yes, SHU technically "outplays" RUC in Software Engineering (SWE). However, in terms of career prestige and selectivity within China, RUC still holds a higher status.
+
+---
+
+> Technically, no—a newly created group is still a basic group by default. However, it may feel like a supergroup is the default because Telegram now triggers the upgrade automatically the moment you use any advanced feature. 
+> 
+> Unless you are creating a "Location-based group," which starts as a supergroup immediately, every group follows this path: 
+
+---
