@@ -21261,3 +21261,80 @@ i see. windows could not install apps elegantly.
 > Unless you are creating a "Location-based group," which starts as a supergroup immediately, every group follows this path: 
 
 ---
+
+> 作为人生的一个阶段留下的记号罢
+
+"play long term games".
+
+a great change of modernity is long evity.
+
+mind change.
+
+what is that i wish... i would grow for decades. i would write a letter to cambridge students after a century.
+
+---
+
+> 梦想实现了，梦想也结束了
+
+---
+
+> Zig: Often cited as a primary challenger for its focus on simplicity and interoperability with C, without the "borrow checker" complexity of Rust.
+> 
+> Go (Golang): A major competitor in the backend and systems space. While it uses garbage collection (unlike Rust), it challenges Rust's dominance through faster development speed and a simpler learning curve.
+
+---
+
+> In the 2018 Shandong Gaokao (Science stream), a score of 567 placed you in approximately the top 17% of all candidates.
+
+---
+
+> 一边是在提高对自己学习上的要求，另一边也接受了自己不如别人的事实。
+
+> 新生研讨课上讲道，大学最重要的是找到你自己，找到自己最喜欢做什么。我深知自己在他们中不算优秀的人，在未来，也许我不会有非常长远的目标，但做对这个世界有用的事，做自己喜欢的事，这两个目标总是没错的吧。
+
+> 正如第一段中所说，一年来的回忆写出来，也不过寥寥数言。从前的每天都觉得自己的故事一定能感动别人，而写出来才发现，只有自己懂得自己的经历。那些快乐或者痛苦的记忆，转眼间，便成为了我们口中的故事，再一转眼间，我们便忘了故事是如何发生的。时间就是这样匆匆而去，我们在为未来奔波的旅途中，又能留下多少回忆呢？
+
+again. callback.
+
+(though, literally ending the essay as how it starts is much stronger.)
+
+"故事"
+
+<!-- story. past memories. -->
+
+---
+
+ive already done sp uee math editorial on zhihu.
+
+not so many ppl care this. 
+
+for me, well, it does carry some weight, but ive already written an article on zhihu, though it does not qualify as an editorial.
+
+maybe i could simply integrate it somewhere. no need to handle explicitly.
+
+---
+
+> 今晚百无聊赖本来想来 m67 博客里翻翻老文消遣一下的，结果开幕雷击。
+
+---
+
+> In VS Code, there is no single, built-in hotkey to create a file with a specific name in one step. However, you can achieve this by customizing your keybindings or using extensions. 
+
+---
+
+印象里我好像参加过 noip.
+
+400 分拿了 5 分. 好像是输出可能性范围不大, 我输出了一个固定的个位数.
+
+除了了解了一下语言 (意外地有朋友送不要的书), 完全没有学习 oi.
+
+---
+
+> 咱们的 Menci 领导好啊
+> 
+> 沂蒙山的 OIer 喜洋洋
+
+lol.
+
+---
+

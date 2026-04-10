@@ -315,7 +315,7 @@ sudo systemctl restart earlyoom
 - remove software updater popup
 
   ```sh
-  sudo apt remove update-notifier
+  sudo apt remove -y update-notifier
   ```
 
 ## `code`
@@ -1474,7 +1474,7 @@ sudo systemctl restart earlyoom
 
 - install extensions <!-- browse -->
   - lilypad
-  - Alt+Tab Scroll Workaround
+  - Alt+Tab Scroll Workaround <!-- sometimes when you lock the screen and unlock, it might popup "gnome session failed". just unselect "always on top", the system is completely functional. (upd: log out and log in, making everything more predictable) -->
 - remove "show apps" icon on system dock
   - system extensions: ubuntu dock: launchers: show applications icon `off`
 - remove clash vergetray icon
@@ -2875,6 +2875,8 @@ sudo snap remove -y firefox
 sudo snap remove -y thunderbird # use web (gmail, outlook, etc.) instead. thunderbird is free and consistent, but slow. And it produces nonsense, thunderbird.tmp on downloads
 
 sudo apt remove -y gnome-text-editor # aka gedit or text editor, let it auto bind vscode then
+
+sudo apt remove -y update-notifier # simplify noise
 ```
 
 install

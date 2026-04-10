@@ -78,7 +78,9 @@ $fira$ `elegance`
 
 <!-- > 要怎么做... -->
 
-> Be warm. Be strong. Be resilient.
+> Be warm. Be strong. Be resilient. <!-- 温柔坚韧。 -->
+>
+> 温かく。強く。レジリエンスになる。
 
 <!-- 羡慕死了 -->
 
@@ -811,6 +813,7 @@ $fira$ `elegance`
 
 ## backyard
 
+- 花谢花飞花满天 红消香断有谁怜
 - 君子生非异也 善假于物也
 - 致虚极 守静笃
 - 念念不忘 必有回响
