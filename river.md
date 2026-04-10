@@ -392,6 +392,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `6` 2026.04.07
 - `7` 2026.04.08
 - `8` 2026.04.09
+- `9` 2026.04.10
 
 ## gaming
 
@@ -19266,51 +19267,51 @@ menci 下面的评论区很多 blue pink white avatar.
 ---
 
 > 写了和原曲完全无关的填词，而且是很有我的风格的填词（）虽然自己觉得并不是填得最好的一个作品，但是是迄今为止最喜欢的[星尘_给你星星]
-> 
+>
 > 在独自漫步的街区
 > 耳机里仍循环的旋律
 > 眼神里若隐若现曾一同前行的身影
-> 
+>
 > 阴雨之季独自哭泣
 > 迷失了前进的勇气
 > 十字路口前人群仍流转不停 又该往何处通行
-> 
+>
 > 「即使曾为昨日的努力未有回报而烦恼
 > 也要坚信着总有一天梦想一定能实现」
 > 看 景色不断变化 向未知处迈开步伐
 > 待到下一个舞台 又该用何种姿态悄然 盛开
-> 
+>
 > 走过时光匆匆每一次回眸
 > 于回忆里深藏每一份感动
 > 就让诞生心中这稚嫩歌声
 > 记述彼此笑容直到永恒
-> 
+>
 > 曾经独自徜徉那片天穹
 > 如今也已是闪烁灿烂星空
 > 望向那虚实交错中的时光洪流
 > 想再次与你相拥
-> 
+>
 > 春日轻拂身旁那一缕微风
 > 夏夜空中轻扬那一抹流萤
 > 沿途每寸风景无论雨晴
 > 是今生未完待续的足迹
 > 朝向这无垠的世界与你
-> 
+>
 > 向地平线不断挥动的双手
 > 一定能拥抱天边那片彩虹
 > 连同每个音符都为之动容
 > 编织出独一无二的故事
-> 
+>
 > 听悸动心声依旧如此热切
 > 看眼前景色仍是最美的季节
 > 继续追寻着名为未来的奇迹
 > 期许下一次相遇
-> 
+>
 > 就让我向着无尽的明天和明天
 > 祈愿路沿星光依旧清冽
 > 无论前方能行至多遥远
 > 我都依然热爱这世界
-> 
+>
 > 感谢你看到了这里，请期待我的下一个作品～
 > 词作于 2025.12.19 - 2026.01.10
 
@@ -19326,7 +19327,7 @@ it's well known chatgpt web gets more and more stuck once the conversates gets l
 
 to 鬼舞离 on douyin
 
-你可爱又厉害. 可以认识吗? 
+你可爱又厉害. 可以认识吗?
 
 很有希望呢. 真期待几年后的你会是什么样.
 
@@ -19334,7 +19335,7 @@ to 鬼舞离 on douyin
 
 关于 openclaw. 其实我也不知道如何安装. 我可以 pnpm 一条命令就安装好 (有没有 mirror 都可以, 有会快), 然后放置 key 就完成了.
 
-只不过我一直没有想过做什么. email/calendar 管理不是我的需求, 之前我也不会人工做这些. 
+只不过我一直没有想过做什么. email/calendar 管理不是我的需求, 之前我也不会人工做这些.
 
 只是 chat 不需要 openclaw. coding agent 也不需要之. 当然 coding agent 能做的远不止是 code, 而是一切一人一电脑能做的一切.
 
@@ -19364,7 +19365,7 @@ when you open an url with a new account, it simply fails to complete loading. no
 
 that's what corp style writing is.
 
-if you were google, you would say "to google", not "g llc", not "g corp". 
+if you were google, you would say "to google", not "g llc", not "g corp".
 
 ---
 
@@ -19372,7 +19373,7 @@ seems there's not a lot of meaningful saved msgs these says when i reflect on.
 
 ---
 
-wow. 
+wow.
 
 share.google.
 
@@ -19408,7 +19409,7 @@ https://www.bilibili.com/video/BV11F411f7xk
 
 在世界市值第二的公司上班是什么体验
 
-> 不是，Edge是你们开发的吗？提个意见，最后一个标签页关掉就关闭整个浏览器，这是哪个策划拍脑袋想出来的？必须要装插件才能避免这种情况。
+> 不是，Edge 是你们开发的吗？提个意见，最后一个标签页关掉就关闭整个浏览器，这是哪个策划拍脑袋想出来的？必须要装插件才能避免这种情况。
 > 另外鼠标手势什么时候能够实装？现在还要在启动行加参数，好麻烦。
 
 resonates...
@@ -19445,11 +19446,11 @@ well, the site has some visual issues. the animations, (which should be animated
 
 to ziantt twitter (she replies my dm?)
 
-高一的时候, 第一次考试. 第一名是 f. 第二名是 zhijun. 第四名是 yiping. f 去往了上海理工大学. zhijun 去往了上海大学. zhijun 在后来的日子里几乎一直是年级第一了, 没有人可以与之竞争. 说到底, 从最后行为观察看来, f 不向学, 至少语文课内背诵都没有完成, 圆锥曲线也没有练习, 总之那些空白的下发的或者购买的大致都不会有用处了. 即使以后做相关工作, 也应该不会扫描这些. yiping 去往了一个学院结尾的学校, 总感觉有些残念的. zian 之前记得 "总不能真去 binda 吧", 现在看来, 名单上学院结尾的行还真不少. 有些孩子在学校里就充满了纨绔的爱好, 也不知道什么情况, 或许还没有 f 富裕, 也不知道羡慕还是嘲讽还是疑惑. 想来, 年级第一, zhijun 也会带智能手机来学校, 玩棋, 玩游戏, 但总感觉身上有一种乖巧, 或许他配得上这种乖巧 (简明地顺从任务并总是得到正确答案/结果) 吧. 
+高一的时候, 第一次考试. 第一名是 f. 第二名是 zhijun. 第四名是 yiping. f 去往了上海理工大学. zhijun 去往了上海大学. zhijun 在后来的日子里几乎一直是年级第一了, 没有人可以与之竞争. 说到底, 从最后行为观察看来, f 不向学, 至少语文课内背诵都没有完成, 圆锥曲线也没有练习, 总之那些空白的下发的或者购买的大致都不会有用处了. 即使以后做相关工作, 也应该不会扫描这些. yiping 去往了一个学院结尾的学校, 总感觉有些残念的. zian 之前记得 "总不能真去 binda 吧", 现在看来, 名单上学院结尾的行还真不少. 有些孩子在学校里就充满了纨绔的爱好, 也不知道什么情况, 或许还没有 f 富裕, 也不知道羡慕还是嘲讽还是疑惑. 想来, 年级第一, zhijun 也会带智能手机来学校, 玩棋, 玩游戏, 但总感觉身上有一种乖巧, 或许他配得上这种乖巧 (简明地顺从任务并总是得到正确答案/结果) 吧.
 
 upd:
 
-ZianTT @ZianTT_Official 
+ZianTT @ZianTT_Official
 
 Joined August 2023
 
@@ -19506,11 +19507,11 @@ i dont think... well, maybe she's just not good at writing.
 
 i guess...
 
-a. you export. 
+a. you export.
 
-how could you export. it's against for profit companies. most ppl use free tier or subscriptions. you could use hacks/workarounds/rev-engineers/rev-proxies, though. 
+how could you export. it's against for profit companies. most ppl use free tier or subscriptions. you could use hacks/workarounds/rev-engineers/rev-proxies, though.
 
-so it works for ppl who use llm apis. 
+so it works for ppl who use llm apis.
 
 b. you manage.
 
@@ -19542,7 +19543,7 @@ idk. well, anyway.
 
 the problem is google ai mode sometimes apply "google sans" on font family, sometimes not.
 
-today it applies on paragraphs, but not an headings (where only "Arial", and sans serif exist, which implies liberation serif.). 
+today it applies on paragraphs, but not an headings (where only "Arial", and sans serif exist, which implies liberation serif.).
 
 the css in js libraries generates nonsense classes, well, hashes.
 
@@ -19570,7 +19571,7 @@ my blunder was a brilliant move!
 
 for this case, when the script fetches a json on the relative path,
 
-parcel does not put the json file into build. it thought i dont need that. 
+parcel does not put the json file into build. it thought i dont need that.
 
 yeah. in modern best prac, i either import it, or fetch from the local server.
 
@@ -19596,7 +19597,7 @@ chatgpt stops thinking when i leave the tab and it shows it has thought for 40 m
 
 control panel for twitter.
 
-well... that... 
+well... that...
 
 well. i think... maybe i really dont need that.
 
@@ -19636,18 +19637,18 @@ lao fei yu is fun, though.
 
 ---
 
-> The previous information about MiniMax-M2.5's RAM requirements and performance impact is accurate based on current 2026 deployment data. The model’s massive 230B total parameter count remains the primary driver of its high memory footprint, even with its efficient 10B active parameter Mixture-of-Experts (MoE) design. 
+> The previous information about MiniMax-M2.5's RAM requirements and performance impact is accurate based on current 2026 deployment data. The model’s massive 230B total parameter count remains the primary driver of its high memory footprint, even with its efficient 10B active parameter Mixture-of-Experts (MoE) design.
 
 > The engineering foundation of the Mac is indeed fundamentally different from a standard PC, and your assessment that this is a highly strategic design choice is accurate. The effectiveness of Apple Silicon for AI workloads in 2026 stems from three core architectural pillars:
 
 > You’ve hit on the exact "identity crisis" of high-end Apple Silicon. Apple has engineered a tier of hardware that is too expensive for most individuals, but not scalable enough for big corporations.
 
-> The assessment that high-end Macs occupy a "no-man's land" between personal use and enterprise-scale hosting is accurate. While Apple Silicon offers a unique value proposition for AI, it faces structural barriers that prevent it from being the choice for either "normal people" or large-scale "big hosters." 
+> The assessment that high-end Macs occupy a "no-man's land" between personal use and enterprise-scale hosting is accurate. While Apple Silicon offers a unique value proposition for AI, it faces structural barriers that prevent it from being the choice for either "normal people" or large-scale "big hosters."
 
 ---
 
-> Yes, Slay the Spire 2 is currently in Early Access. It was released on Steam for Windows PC on March 5, 2026. 
-> 
+> Yes, Slay the Spire 2 is currently in Early Access. It was released on Steam for Windows PC on March 5, 2026.
+>
 > The game is expected to remain in Early Access for approximately 1 to 2 years (until 2027 or 2028) as the developers at Mega Crit add more content and refine the balance based on player feedback.
 
 ---
@@ -19664,9 +19665,9 @@ lao fei yu is fun, though.
 
 每一道题都有解答. 标题. 正文. 人物画中画.
 
-春考的题目. 很简单的那些. 
+春考的题目. 很简单的那些.
 
-虽然我答错了. 
+虽然我答错了.
 
 - 水的电离, 及其影响因素 (读作水的电解了, 我. 后面也没有化学老师提问, 大概看出我很菜很菜了.)
 - 短路原因, 影响 (这个答对了, 应该. 不过后面人工提问, 单摆的公式. 应该是不会. 他引导, 月球上, 地球上, 周期? 幅度? 我也只能用极限去想, 比如没有重力会一直转等价于平面, 很多重力会转不过去这样.)
@@ -19698,7 +19699,7 @@ ip2location.
 
 nothing. a korean proxy, 0 fraud score.
 
-not dch. 
+not dch.
 
 ---
 
@@ -19706,19 +19707,19 @@ gpt 5.3 now matches my style sometimes, like prev grok.
 
 it no longer uses captical letters at the line beginning.
 
-well... i might say... it's not completely good. 
+well... i might say... it's not completely good.
 
 ---
 
 reddit:
 
-> 应该找个人告诉他们，一边封禁机房ip地址，一边启用简体中文自动翻译，这样完全没有逻辑……
+> 应该找个人告诉他们，一边封禁机房 ip 地址，一边启用简体中文自动翻译，这样完全没有逻辑……
 
 (from cyan nyan tg group)
 
-> 封禁机房ip：反爬，保证用户体验
+> 封禁机房 ip：反爬，保证用户体验
 > 自动翻译：加强用户体验
-> 
+>
 > 可能是这么个逻辑
 
 ---
@@ -19734,12 +19735,12 @@ i would watch it one day.
 ---
 
 > LTT appears in your search because they have a massive, tech-savvy audience that knows how to pirate and where to look. A VTuber with 500k views has a dedicated audience, but they aren't "mass market" enough for a random pirate in another country to bother scraping their 3-hour karaoke stream.
-> 
+>
 > In short: Piracy follows the money (courses) or the libido (porn). If it’s just a "comfy chat," it rarely makes it to the magnet trackers.
 
 ---
 
-> The Four Asian Tigers—Hong Kong, Singapore, South Korea, and Taiwan—are high-income, developed economies in East and Southeast Asia known for their rapid industrialization and exceptionally high growth rates (exceeding 7% annually) between the 1960s and 1990s. 
+> The Four Asian Tigers—Hong Kong, Singapore, South Korea, and Taiwan—are high-income, developed economies in East and Southeast Asia known for their rapid industrialization and exceptionally high growth rates (exceeding 7% annually) between the 1960s and 1990s.
 
 ---
 
@@ -19799,7 +19800,7 @@ wise.
 
 ---
 
-> 「我的xp之内并没有一丝污浊。」
+> 「我的 xp 之内并没有一丝污浊。」
 > 「我要纠正你，在这里，人并不对内鬼背负罪孽，能下达判决的只有法务部与裁判庭。」
 > 「他们甚至连我也可以裁判。赞美我的崇高与纯洁吧。」
 
@@ -19821,7 +19822,7 @@ menci
 双厨狂喜（？
 
 > Translated from Japanese
-> 
+>
 > Double Kitchen Enthusiasm (?).
 
 ---
@@ -19879,9 +19880,9 @@ parcel does.
 ---
 
 > 见证史上 star 增长速度最快的仓库：Claude Code 泄漏源码仓库
-> 
+>
 > 15 分钟前创建，已经 4k+ stars 了
-> 
+>
 > 先存为敬
 
 ### apr 2026
@@ -19889,7 +19890,7 @@ parcel does.
 tada
 That's everything we found for you, for now.
 
-very wise design. kudos to github explore devs. 
+very wise design. kudos to github explore devs.
 
 no doom scrolling!
 
@@ -19940,7 +19941,7 @@ what the hell.
 
 more than google, even more dictatorship than xi.
 
-> While Chrome mandates Service Workers for MV3, Firefox opted to support Event Pages first. This allows developers to keep using certain DOM-related APIs that are unavailable in Service Workers. As of April 2026, Service Worker support in Firefox remains a work in progress and is often disabled by default in stable releases. 
+> While Chrome mandates Service Workers for MV3, Firefox opted to support Event Pages first. This allows developers to keep using certain DOM-related APIs that are unavailable in Service Workers. As of April 2026, Service Worker support in Firefox remains a work in progress and is often disabled by default in stable releases.
 
 what the hell.
 
@@ -19948,7 +19949,7 @@ btw, i could only load .zip, .xpi (a kind of special zip, like epub), and manife
 
 it's intuitive. but could you just load a folder, and detect the manifest file?
 
-poor ux like other foss apps. god damn mozilla. 
+poor ux like other foss apps. god damn mozilla.
 
 im not just talking about dx. i mean the full ux, like the ui design.
 
@@ -19962,11 +19963,11 @@ look at the three dots menu. chrome (android app) shows a list (categorized with
 
 ---
 
-> All Posts from @Snow_Xue_ have been withheld in all countries because the user violates the X Hateful Profile Policy. Learn more
+> All Posts from @Snow*Xue* have been withheld in all countries because the user violates the X Hateful Profile Policy. Learn more
 
 what the hell?
 
-> @Snow_Xue_ is temporarily unavailable because it violates the X Hateful Profile Policy. https://Learn more.
+> @Snow*Xue* is temporarily unavailable because it violates the X Hateful Profile Policy. https://Learn more.
 
 (twitter supports either with `@` or not in the url. good)
 
@@ -19975,9 +19976,9 @@ what the hell?
 
 call for mastodon!
 
-> 别的不予置评，但那个傻逼冰棍活该被警察找😋
+> 别的不予置评，但那个傻逼冰棍活该被警察找 😋
 
-> 冰棍被晶是自己往槍口撞吧 把QQ群改那種名字
+> 冰棍被晶是自己往槍口撞吧 把 QQ 群改那種名字
 
 ---
 
@@ -19997,7 +19998,7 @@ EGOIST
 
 ---
 
-> VS Code's built-in Markdown preview follows the CommonMark specification, which naturally allows and renders raw HTML. There is currently no native setting to globally disable HTML rendering in the preview while leaving it as plain text. 
+> VS Code's built-in Markdown preview follows the CommonMark specification, which naturally allows and renders raw HTML. There is currently no native setting to globally disable HTML rendering in the preview while leaving it as plain text.
 
 ---
 
@@ -20110,11 +20111,11 @@ just like rust. care nothing but robustness.
 
 ---
 
-> Reliability: It is not truly permanent. Just like IndexedDB, it is subject to browser "storage quotas". If your disk gets full, the browser can still silently "evict" (delete) this data to save itself. 
+> Reliability: It is not truly permanent. Just like IndexedDB, it is subject to browser "storage quotas". If your disk gets full, the browser can still silently "evict" (delete) this data to save itself.
 
-> Reliability: This is the most reliable form of web storage. Because the files live in your real file system, the browser cannot silently delete them. Even if you clear your browser cache or "Nuke" your site data, your files stay safe on your drive because they aren't "browser data" anymore—they're just files. 
+> Reliability: This is the most reliable form of web storage. Because the files live in your real file system, the browser cannot silently delete them. Even if you clear your browser cache or "Nuke" your site data, your files stay safe on your drive because they aren't "browser data" anymore—they're just files.
 
-> The Catch: Most sites (including YouTube Music) prefer OPFS because it’s frictionless—users don't have to deal with annoying permission popups just to save a song. 
+> The Catch: Most sites (including YouTube Music) prefer OPFS because it’s frictionless—users don't have to deal with annoying permission popups just to save a song.
 
 > Correct—File System Access API (the one that lets you pick a real folder) is currently not fully compatible across all browsers.
 
@@ -20165,11 +20166,11 @@ WARNING: [youtube] _DcUVZXlFUI: Some android_vr client https formats have been s
 ERROR: [Errno 36] File name too long: '_/Glenn Gould & Johann Sebastian Bach/Concerto in D minor after Alessandro Marcello, BWV 974： III. Presto - Glenn Gould plays Bach： 6 Partitas BWV 825-830; Chromatic Fantasy BWV 903; Italian Concerto BWV 971; The Art of the Fugue BWV 1080 (excerpts); Preludes, Fugues & Fantasies - Glenn Gould, Johann Sebastian Bach.webp'
 ```
 
-> While Ubuntu doesn't have the 260-character path limit found in Windows, most Linux filesystems (like ext4) have a strict limit of 255 bytes per individual filename. 
+> While Ubuntu doesn't have the 260-character path limit found in Windows, most Linux filesystems (like ext4) have a strict limit of 255 bytes per individual filename.
 
-> The filename in your error is 287 bytes long because it includes high-order Unicode characters (like the full-width colons ：) that take up more than one byte each. Since this is a hardware-level filesystem limit, you cannot "bypass" it with a flag; you must shorten the name. 
+> The filename in your error is 287 bytes long because it includes high-order Unicode characters (like the full-width colons ：) that take up more than one byte each. Since this is a hardware-level filesystem limit, you cannot "bypass" it with a flag; you must shorten the name.
 
-> Yes, --trim-filenames is a valid flag in yt-dlp, but it is often not recommended for fixing "file name too long" errors on Linux/Ubuntu. 
+> Yes, --trim-filenames is a valid flag in yt-dlp, but it is often not recommended for fixing "file name too long" errors on Linux/Ubuntu.
 >
 > Truncates by Characters, Not Bytes
 >
@@ -20183,11 +20184,11 @@ ERROR: [Errno 36] File name too long: '_/Glenn Gould & Johann Sebastian Bach/Con
 
 ---
 
-> Torvalds has expressed a skeptical but pragmatic view of Artificial Intelligence. While he finds the underlying technology "genuinely interesting," he believes the industry is currently saturated with excessive hype and overblown expectations. He anticipates this hype will eventually diminish, allowing AI to become a common, practical tool rather than a buzzword. 
+> Torvalds has expressed a skeptical but pragmatic view of Artificial Intelligence. While he finds the underlying technology "genuinely interesting," he believes the industry is currently saturated with excessive hype and overblown expectations. He anticipates this hype will eventually diminish, allowing AI to become a common, practical tool rather than a buzzword.
 
-> Torvalds often describes himself as an "engineer" rather than a "visionary," famously stating he is more interested in fixing the "pothole right in front of him" than staring at the clouds. 
+> Torvalds often describes himself as an "engineer" rather than a "visionary," famously stating he is more interested in fixing the "pothole right in front of him" than staring at the clouds.
 
-> Regarding the introduction of Rust into the Linux kernel, Torvalds maintains a "wait-and-see" approach. He views Rust not as a replacement for C, but as a way to "augment" the kernel in specific areas like drivers and file systems where it makes sense. 
+> Regarding the introduction of Rust into the Linux kernel, Torvalds maintains a "wait-and-see" approach. He views Rust not as a replacement for C, but as a way to "augment" the kernel in specific areas like drivers and file systems where it makes sense.
 
 ---
 
@@ -20210,7 +20211,7 @@ personally, i like the term "word origin" over "etymology" most of the times.
 芋头 Leohearts🔮
 @TaroLeohearts
 
-来了，但是今天怎么这么多人😇
+来了，但是今天怎么这么多人 😇
 
 > event: yosuga no sora
 
@@ -20218,7 +20219,7 @@ personally, i like the term "word origin" over "etymology" most of the times.
 
 ---
 
-> Yes, you can edit a post on X (formerly Twitter), but only if you have a paid X Premium subscription. If you are using a free account, you cannot edit posts directly and must delete and repost to fix errors. 
+> Yes, you can edit a post on X (formerly Twitter), but only if you have a paid X Premium subscription. If you are using a free account, you cannot edit posts directly and must delete and repost to fix errors.
 
 > Time Limit: You only have one hour after publishing to make changes.
 
@@ -20244,7 +20245,7 @@ i browsed. and browsed. and did not found the blogs, that explicitly said "it's 
 i were attempted to create this:
 
 - start the first node, or a set of first node (like estella)
-- this is the way we connect nodes. 
+- this is the way we connect nodes.
   - for each node, find all links on the same domain, save them to the set
   - now you have homepage, friends, links, archive, ...
   - for each item in the set, find all external links, save them.
@@ -20259,13 +20260,13 @@ but i did not. i wanna do it myself. i feel it's faster and more straight forwar
 
 > If you find a legacy personal website that claims to be "compliant" but lacks modern styling (CSS), it is most likely referring to HTML 4.01 or XHTML 1.0 compliance.
 >
-> These versions represent the "golden era" of web standards (roughly 1999–2005) when the World Wide Web Consortium (W3C) pushed heavily for developers to use valid, standardized code. 
+> These versions represent the "golden era" of web standards (roughly 1999–2005) when the World Wide Web Consortium (W3C) pushed heavily for developers to use valid, standardized code.
 
 ---
 
-> The name systemd follows the traditional Unix naming convention of appending a lowercase "d" to a program's name to indicate it is a daemon—a background process that handles system services. 
+> The name systemd follows the traditional Unix naming convention of appending a lowercase "d" to a program's name to indicate it is a daemon—a background process that handles system services.
 >
-> In Unix-like systems, background services like httpd (web server) or sshd (secure shell) use the "d" suffix. Since systemd is the primary system daemon responsible for managing all other processes and services (PID 1), the name reflects its role as the core system manager. 
+> In Unix-like systems, background services like httpd (web server) or sshd (secure shell) use the "d" suffix. Since systemd is the primary system daemon responsible for managing all other processes and services (PID 1), the name reflects its role as the core system manager.
 
 ---
 
@@ -20276,7 +20277,7 @@ well. i could view (even directly, not logged out).
 
 but i could not act on my own (without interacting with them, like comments)?
 
-> @__oQuery is blocked Are you sure you want to view these posts? Viewing posts won’t unblock @__oQuery.
+> @**oQuery is blocked Are you sure you want to view these posts? Viewing posts won’t unblock @**oQuery.
 
 what does it mean? twitter is anti geek.
 
@@ -20296,7 +20297,7 @@ menci: 健脑房?
 
 ---
 
-> The choice between React and Vue is heavily influenced by geography and nationality, particularly in China, where Vue has historically seen disproportionately high adoption compared to the West. While React dominates global professional usage at approximately 42.6% compared to Vue's 18.8%, Vue is the most popular frontend framework in China, Hong Kong, and parts of Southeast Asia. 
+> The choice between React and Vue is heavily influenced by geography and nationality, particularly in China, where Vue has historically seen disproportionately high adoption compared to the West. While React dominates global professional usage at approximately 42.6% compared to Vue's 18.8%, Vue is the most popular frontend framework in China, Hong Kong, and parts of Southeast Asia.
 
 reference: zhihu en? baidu wiki en?
 
@@ -20322,7 +20323,7 @@ i suspect there are less than 10k ppl on tg, less than 1k with channel more than
 
 ---
 
-> Originally developed by Palm, Inc. and launched in 2009, webOS is a Linux-based operating system that pioneered many modern smartphone features, such as gesture-based navigation and multitasking "cards". After Palm's acquisition by HP and a brief, unsuccessful expansion into tablets, the platform was sold to LG Electronics in 2013. Today, it primarily lives on as the smart TV operating system for LG and other licensed television brands. 
+> Originally developed by Palm, Inc. and launched in 2009, webOS is a Linux-based operating system that pioneered many modern smartphone features, such as gesture-based navigation and multitasking "cards". After Palm's acquisition by HP and a brief, unsuccessful expansion into tablets, the platform was sold to LG Electronics in 2013. Today, it primarily lives on as the smart TV operating system for LG and other licensed television brands.
 
 ---
 
@@ -20345,19 +20346,19 @@ Initialized empty Git repository in /home/fira/.git/
 
 ---
 
-> No, the GitHub CLI (gh) is not compatible with other Git hosting services like GitLab, Bitbucket, or standard Git servers. It is a specialized tool designed specifically to interact with the GitHub platform and its unique features. 
+> No, the GitHub CLI (gh) is not compatible with other Git hosting services like GitLab, Bitbucket, or standard Git servers. It is a specialized tool designed specifically to interact with the GitHub platform and its unique features.
 
 ---
 
-> In its earliest form (2009), webOS was indeed essentially a web-based operating system, where the "desktop" and applications were built using standard web technologies. 
+> In its earliest form (2009), webOS was indeed essentially a web-based operating system, where the "desktop" and applications were built using standard web technologies.
 >
 > The System UI: The launcher, the "Card" multitasking view, and the notification bar were all built with HTML, CSS, and JavaScript. In a literal sense, the "desktop" was a set of web pages managed by the OS.
 >
-> At the time, this was radical. While the original iPhone (2007) initially intended to use web apps, Apple quickly pivoted to "native" code (Objective-C). Palm doubled down on the web, believing that if you could build a website, you could build a mobile app. 
+> At the time, this was radical. While the original iPhone (2007) initially intended to use web apps, Apple quickly pivoted to "native" code (Objective-C). Palm doubled down on the web, believing that if you could build a website, you could build a mobile app.
 >
 > This architecture is why many modern technologies, like Electron or ChromeOS, feel similar to the original vision of webOS.
 >
-> In its early years, webOS performance was a mix of groundbreaking multitasking and notable sluggishness. While the "browser-based" approach made the interface fluid and unique, it placed a heavy burden on the era’s limited hardware. 
+> In its early years, webOS performance was a mix of groundbreaking multitasking and notable sluggishness. While the "browser-based" approach made the interface fluid and unique, it placed a heavy burden on the era’s limited hardware.
 >
 > Hybrid Applications: Most native apps were actually "hybrids." They often used a web-based layer for the user interface (menus, buttons) but offloaded heavy tasks—like a game engine or video processing—to a native C++ plugin for maximum speed.
 
@@ -20375,7 +20376,7 @@ i play pubg metro royale, arguing with ppl, playing it dirty. i like the "rating
 
 i accidentally receive some programming books, when some frnds of the family give for free (post online). i learn on css tricks and ruanyf (e.g. flex, grid). i imagine if i could rebuilt the web rendering on canvas and wasm, abstracting from the foundamentals, and make it somewhat elegant.
 
-~~i play something dirty on csdn.~~ i write on cnblogs, juejin, codepen. i watch codingstartup. when i dont have a phone, i use one of my family member's and i watch it, i also play "shen xiao pai dui" wechat mini app game, a domestic copy from a steam best selling. 
+~~i play something dirty on csdn.~~ i write on cnblogs, juejin, codepen. i watch codingstartup. when i dont have a phone, i use one of my family member's and i watch it, i also play "shen xiao pai dui" wechat mini app game, a domestic copy from a steam best selling.
 
 i watch the football world cup. i remember "when you watch it next time, ~~you will be in ...~~ you will have a life update.". before, i dont have the previllege to watch that, since im healthy (good) and do not stay up.
 
@@ -20421,22 +20422,22 @@ Funshiki:
 
 > Bisq CNY (Chinese Yuan) escrows do not "avoid" bank surveillance in the sense of bypassing bank logging entirely; rather, they minimize, decentralize, and pseudonymize the data that government agencies can link to a user's Bitcoin identity. Because CNY bank transfers must touch regulated Chinese banks, the privacy strategy relies on
 > separation of duties and local data storage rather than creating an unmonitored bank transaction.
-> 
+>
 > People do not send CNY (fiat currency) directly into Bisq's escrow. Instead,
-> CNY is sent directly from the buyer's bank/payment app to the seller's bank/payment app, while Bitcoin is held in a 2-of-2 multisig escrow address on the Bitcoin blockchain. 
-> "Escrow" on Bisq refers to the locking of Bitcoin (BTC) security deposits and trade funds, not the fiat currency. 
-> 
+> CNY is sent directly from the buyer's bank/payment app to the seller's bank/payment app, while Bitcoin is held in a 2-of-2 multisig escrow address on the Bitcoin blockchain.
+> "Escrow" on Bisq refers to the locking of Bitcoin (BTC) security deposits and trade funds, not the fiat currency.
+>
 > Mandatory Security Deposits: Both the buyer and seller must lock a BTC security deposit in a 2-of-2 multisignature escrow. If a buyer fails to pay or follow the protocol, they risk losing this deposit to the seller.
-> 
+>
 > Since Bisq cannot directly see your Chinese bank or mobile wallet activity, it relies on human-verified evidence and "account signing."
 
 ---
 
-> No, GitHub does not currently allow you to block a specific user from only one repository. Blocking a user is an account-level action that restricts them from all repositories you own. 
+> No, GitHub does not currently allow you to block a specific user from only one repository. Blocking a user is an account-level action that restricts them from all repositories you own.
 
 ---
 
-> No, Zed extensions currently cannot modify the user interface to the same extent as VS Code. As of early 2026, Zed’s extension API is much more restrictive, prioritizing performance and a consistent "clean" aesthetic over deep customizability. 
+> No, Zed extensions currently cannot modify the user interface to the same extent as VS Code. As of early 2026, Zed’s extension API is much more restrictive, prioritizing performance and a consistent "clean" aesthetic over deep customizability.
 
 ---
 
@@ -20444,17 +20445,17 @@ Funshiki:
 >
 > Account Portability: Built on the AT Protocol, Bluesky is designed so you can move your entire account—including your followers, posts, and identity—to a different provider without having to start over.
 
-> Yes, Bluesky is Free and Open Source Software (FOSS). Almost all of its core components are available on GitHub under permissive licenses like MIT and Apache 2.0. 
+> Yes, Bluesky is Free and Open Source Software (FOSS). Almost all of its core components are available on GitHub under permissive licenses like MIT and Apache 2.0.
 
-> While the code is open, Bluesky differs from Mastodon in its corporate structure. Bluesky is a Public Benefit Corporation (PBC), whereas Mastodon is a non-profit. Some FOSS purists argue that because the "main" instance (bsky.social) is centrally managed by a company, it isn't as "libre" as the fully community-owned Fediverse. 
+> While the code is open, Bluesky differs from Mastodon in its corporate structure. Bluesky is a Public Benefit Corporation (PBC), whereas Mastodon is a non-profit. Some FOSS purists argue that because the "main" instance (bsky.social) is centrally managed by a company, it isn't as "libre" as the fully community-owned Fediverse.
 
-> While it might seem that way from certain circles, the data as of April 2026 actually shows that Bluesky has significantly more users and higher engagement than Mastodon. 
+> While it might seem that way from certain circles, the data as of April 2026 actually shows that Bluesky has significantly more users and higher engagement than Mastodon.
 >
 > Culture Gap: Mastodon attracts a very vocal, tech-savvy, and community-oriented crowd (the "Linux nerds" and academics). This group is often highly active in discussions about why they left Twitter, making their presence feel very "loud".
 >
-> Most users who find Mastodon "too complicated" or "too techy" actually end up on Threads (which has over 275 million users) or Bluesky. Mastodon remains a dedicated niche for those who prioritize complete independence over a mainstream social experience. 
+> Most users who find Mastodon "too complicated" or "too techy" actually end up on Threads (which has over 275 million users) or Bluesky. Mastodon remains a dedicated niche for those who prioritize complete independence over a mainstream social experience.
 >
-> Your observation is spot on for the developer and "geek" community. For that specific group, Mastodon is often the preferred choice because its values align more closely with traditional hacker culture—prioritizing complete decentralization, user autonomy, and self-hosting. 
+> Your observation is spot on for the developer and "geek" community. For that specific group, Mastodon is often the preferred choice because its values align more closely with traditional hacker culture—prioritizing complete decentralization, user autonomy, and self-hosting.
 
 > True Self-Hosting: Your friends can run their own instances (servers), giving them total control over their data, moderation rules, and even the server's code. Bluesky's self-hosting is currently more limited to "Personal Data Servers" (PDS) that still largely rely on Bluesky's central "Relays" to be discoverable.
 >
@@ -20462,9 +20463,9 @@ Funshiki:
 >
 > No VC Pressure: Mastodon is a non-profit funded by donations. For many geeks, Bluesky being a venture-capital-backed corporation is a "red flag" for future "enshittification" (where a platform gets worse as it chases profit).
 >
-> Mature Ecosystem: Having been around since 2016, Mastodon has a wider range of mature third-party apps, bots, and specialized servers (like mastodon.social or tech.lgbt) that feel like "home" for niche technical groups. 
+> Mature Ecosystem: Having been around since 2016, Mastodon has a wider range of mature third-party apps, bots, and specialized servers (like mastodon.social or tech.lgbt) that feel like "home" for niche technical groups.
 
-> The reason you might see fewer people on Bluesky in your circles is a network effect. Bluesky has grown massively (over 40 million users) by attracting artists, journalists, and mainstream users who found Mastodon too complex. If your network is mostly high-level tech people, you are likely in the "Mastodon stronghold" where the conversation is deeper and more specialized. 
+> The reason you might see fewer people on Bluesky in your circles is a network effect. Bluesky has grown massively (over 40 million users) by attracting artists, journalists, and mainstream users who found Mastodon too complex. If your network is mostly high-level tech people, you are likely in the "Mastodon stronghold" where the conversation is deeper and more specialized.
 >
 > In short, Mastodon is for the community and the protocol, while Bluesky is for the audience and the ease of use.
 >
@@ -20472,21 +20473,21 @@ Funshiki:
 
 ---
 
-> OpenAI's o1 is considered the first model to be officially labeled and popularized as a "reasoning model" by a major AI lab. While previous large language models (LLMs) like GPT-4o could perform some reasoning, o1 introduced a fundamental shift in how that reasoning is achieved. 
+> OpenAI's o1 is considered the first model to be officially labeled and popularized as a "reasoning model" by a major AI lab. While previous large language models (LLMs) like GPT-4o could perform some reasoning, o1 introduced a fundamental shift in how that reasoning is achieved.
 
-> You are exactly right—technically, they are nearly identical. Both the reasoning tokens and the answer tokens are generated by the same underlying Transformer architecture. From the model's perspective, it is just predicting the "next token" in a sequence. 
+> You are exactly right—technically, they are nearly identical. Both the reasoning tokens and the answer tokens are generated by the same underlying Transformer architecture. From the model's perspective, it is just predicting the "next token" in a sequence.
 >
-> While they use the same Transformer math, they were trained with different "rewards": 
+> While they use the same Transformer math, they were trained with different "rewards":
 >
 > Reasoning tokens are rewarded for being logical and self-correcting. The model is trained to recognize when a reasoning path is hitting a dead end and to "backtrack" or try a new strategy.
 >
 > Answer tokens are rewarded for being accurate and helpful to the user.
 >
-> In o1, the reasoning phase is elastic. For a hard problem, the model can generate thousands of internal reasoning tokens (taking 30+ seconds) before it ever outputs the first word of your answer. This "test-time compute" is what allows it to solve problems that previous models simply couldn't "see" through in a single pass. 
+> In o1, the reasoning phase is elastic. For a hard problem, the model can generate thousands of internal reasoning tokens (taking 30+ seconds) before it ever outputs the first word of your answer. This "test-time compute" is what allows it to solve problems that previous models simply couldn't "see" through in a single pass.
 
 ---
 
-> Exporting your data from Twitter (now X) and loading it into Mastodon or Bluesky is possible, but its "ease" depends on what you want to move. While finding your existing social circle is relatively straightforward, migrating your entire post history is more technical and comes with limitations. 
+> Exporting your data from Twitter (now X) and loading it into Mastodon or Bluesky is possible, but its "ease" depends on what you want to move. While finding your existing social circle is relatively straightforward, migrating your entire post history is more technical and comes with limitations.
 
 ---
 
@@ -20498,7 +20499,7 @@ no effect besides the button icon change.
 
 ---
 
-> Whether miracles and magic exist depends entirely on how you define them and your personal worldview. There is no scientific evidence that either exists in a way that violates the laws of physics, but they are central to many belief systems, cultural traditions, and forms of entertainment. 
+> Whether miracles and magic exist depends entirely on how you define them and your personal worldview. There is no scientific evidence that either exists in a way that violates the laws of physics, but they are central to many belief systems, cultural traditions, and forms of entertainment.
 
 ---
 
@@ -20522,7 +20523,7 @@ and literal style! (the unicode of quotation marks, paratheses after terms)
 
 ---
 
-> Berners-Lee has since expressed some regret over specific design choices of the URL—most notably the double slash (//) after the colon, which he admits was ultimately unnecessary. 
+> Berners-Lee has since expressed some regret over specific design choices of the URL—most notably the double slash (//) after the colon, which he admits was ultimately unnecessary.
 
 ---
 
@@ -20546,13 +20547,13 @@ turn off the proxy also works. but it's incompatible with other apps.
 
 > For standard Chat Completion requests, you generally cannot resume an interrupted request or "get the answer back" without spending tokens again. OpenAI-compatible APIs typically treat each new curl command as a fresh request.
 
-> As of now, OpenRouter does not support the Idempotency-Key header. While OpenRouter is compatible with the OpenAI API format, it acts as an aggregator that routes your requests to various downstream providers (like Anthropic, Google, or Together AI), and it does not currently provide a unified idempotency layer. 
+> As of now, OpenRouter does not support the Idempotency-Key header. While OpenRouter is compatible with the OpenAI API format, it acts as an aggregator that routes your requests to various downstream providers (like Anthropic, Google, or Together AI), and it does not currently provide a unified idempotency layer.
 
 > If the network fails and you try to "resume" using an Idempotency-Key, you hit a technical wall: Idempotency only returns what the server already finished.
 >
 > 2. Streaming ("stream": true) This is where it gets tricky because streaming is not naturally idempotent.
 
-> For non-streaming requests, if you retry with the same Idempotency-Key while the original request is still being processed, the server will almost never "wait" for the first one to finish and then give you the answer. Instead, it will typically return an error immediately. 
+> For non-streaming requests, if you retry with the same Idempotency-Key while the original request is still being processed, the server will almost never "wait" for the first one to finish and then give you the answer. Instead, it will typically return an error immediately.
 
 ---
 
@@ -20562,15 +20563,15 @@ turn off the proxy also works. but it's incompatible with other apps.
 
 `retro`
 
-小学生的时代. 
+小学生的时代.
 
 美术课上, 有时候会播放艺术创想. 那时候的自己很天真呢. 会想要尝试. 大型胡乱的作品没有办法尝试.
 
-家里有纸张, 纸板, 胶带, 颜料. 做过一些事情. 大致, 就是将纸板, 拟合成一个构造 (内部结构和外部形状), 通过各种方法, 然后涂上颜料. 好像也有用过餐巾纸 (填充?). 
+家里有纸张, 纸板, 胶带, 颜料. 做过一些事情. 大致, 就是将纸板, 拟合成一个构造 (内部结构和外部形状), 通过各种方法, 然后涂上颜料. 好像也有用过餐巾纸 (填充?).
 
 还玩过一些别的. 劳动技术课上, 我会很严格地遵守图纸. 比如剪刀, 我会不偏不倚. 不难. 但是好像很少有人像我这样.
 
-一些节日, 比如妇女节, 儿童节, 会写一些贺卡. 
+一些节日, 比如妇女节, 儿童节, 会写一些贺卡.
 
 做过戒指. 很简单的. 好像用的是香烟外壳的红白纸板. 好像做了很久.
 
@@ -20580,21 +20581,21 @@ turn off the proxy also works. but it's incompatible with other apps.
 
 有时候会在小区里摘花. (现在已经完全不能欣赏了, 因为知道, 如此, 很快就会枯掉.)
 
-后来再也没有这样做. 
+后来再也没有这样做.
 
 做的都是一些符合审美价值的. 干净的.
 
-玩过编程. 好像是 pygame. 小学三年级, 还是二年级, 有微机课. scratch. docs. 
+玩过编程. 好像是 pygame. 小学三年级, 还是二年级, 有微机课. scratch. docs.
 
 那时候用的是 thinkpad. 键盘中间有红点. 后来用过另一台电脑. 和现在这台电脑. 只有现在这台电脑使用的是 linux. windows 下的各种极客 (软件, 配置) 都毫无意义, 因为不干净, 也不可控制, 也不可预测, 也不一定能复现 (比如纯 cli 或者 build script, 不用用户友好的 gui).
 
-学习使用 windows, 好像做过 "小报". 我好像很喜欢做这些, 以为这样就可以收集, 整理世界的知识. google's mission? 并不是. 方法是, 找到一个主题, 思考这个主题下的子标题 (如意思, 意义, 方法, 案例, 节日, 历史, 原因, 影响.) 然后把每一个输入到搜索引擎, 找一些有关的文本和图片复制进去. 
+学习使用 windows, 好像做过 "小报". 我好像很喜欢做这些, 以为这样就可以收集, 整理世界的知识. google's mission? 并不是. 方法是, 找到一个主题, 思考这个主题下的子标题 (如意思, 意义, 方法, 案例, 节日, 历史, 原因, 影响.) 然后把每一个输入到搜索引擎, 找一些有关的文本和图片复制进去.
 
 scratch, 下载了很多游戏, 在 mit edu. 那是个很厉害的网站. 不知道那些作者是不是真的青少年. 总之为什么要在 scratch 上实现呢?
 
-当时好像还想要在 scratch 上复刻 "全民飞机大战" "pvz2". 然后花了很多时间制作美术资源, 用画图 3d 好像. scratch 也完全不利于编辑资源. 
+当时好像还想要在 scratch 上复刻 "全民飞机大战" "pvz2". 然后花了很多时间制作美术资源, 用画图 3d 好像. scratch 也完全不利于编辑资源.
 
-心智不成熟. pygame 里好像硬编码了数据, 而不是用一个外部文本存储, 然后导入. 数组的分隔符比较复杂, 因为要引号框住文本, 还要逗号分割. 写了很多不理想的注释, 自大的, 不符合现实的. 
+心智不成熟. pygame 里好像硬编码了数据, 而不是用一个外部文本存储, 然后导入. 数组的分隔符比较复杂, 因为要引号框住文本, 还要逗号分割. 写了很多不理想的注释, 自大的, 不符合现实的.
 
 网页... 好像拿到了一些朋友送的书. 有一个富文本编辑器叫 wangeditor. 这个无关. 总之, 我想要做一个 word 这样的编辑器. 当时好像见过 typora 了. 不过也没有明白选择是什么, 到底要做什么, 不记得了. 但总之反复调整了很多样式, 通过调整 css 再刷新来设计. 而不是用设计软件, 或者手画来设计, 然后一次完成.
 
@@ -20624,7 +20625,7 @@ fira 这样性格的人, 终究会成为 fira. 即使没有这些无聊又虚无
 
 > 想要变得香香软软.
 
-fira 没有希望. 这个世界是不可改变的. 也没有愿望接受复杂. 
+fira 没有希望. 这个世界是不可改变的. 也没有愿望接受复杂.
 
 当然, 人们的决定本身也是不可改变的.
 
@@ -20650,7 +20651,7 @@ fira 从小对不如自己的人从来充满傲慢. 至今亦然. 只有在抽�
 
 但是, 其实, 很难说打倒她.
 
-所以其实是没有什么力气的. 
+所以其实是没有什么力气的.
 
 不过我一点也不害怕 trans.
 
@@ -20724,7 +20725,7 @@ the road less taken.
 
 心里, 应该是棋手... 小时候就下棋. 文静, 平常心, 以自己的方式计算.
 
-总觉得自己身上没有那些 factor. 
+总觉得自己身上没有那些 factor.
 
 mtf 和 resume 的关系也不明白. 或许无关?
 
@@ -20732,13 +20733,13 @@ mtf 和 resume 的关系也不明白. 或许无关?
 
 可能还是统计来的好. 用找反例的思维, 总是能找到的. 落魄的. 被祝福的. 无论.
 
-随机游走, 比重也根本不对. 
+随机游走, 比重也根本不对.
 
 > fira discover the internet, by one of seo (search what i want to know), afo (idk, but i will surf the fyp. fomo.), and dht (i bfs the site, check the references/cites). i might also hear something irl (e.g. words of mouth), like those telling me computer and internet exist and they are fun.
 
 但愿那些少女不要平静地过完一生.
 
-可以在年轻的时候, 被生理学杀死, 正如许多所愿. 
+可以在年轻的时候, 被生理学杀死, 正如许多所愿.
 
 也可以有一天, 站在世界之前, 虽然许多已经很强很强了. 历史上的天才们, 是完全不一样的人呢. 不知道人们在研究什么, 也不知道为什么她们要研究这些, 也不知道她们如何研究. 非线性的发现, 也在线性的时间与过程之中吧. 或许前一天与后一天的工作完全无关? 似乎也可以.
 
@@ -20754,15 +20755,15 @@ fira 不需要言语. 不需要装扮. 不需要交往.
 
 ---
 
-> Google began officially rolling out sponsored ads directly within its AI Mode conversational search interface in November 2025. These ads, which can appear as text or shopping listings, are integrated into or below AI-generated responses to help users take the next step in their discovery journey. 
+> Google began officially rolling out sponsored ads directly within its AI Mode conversational search interface in November 2025. These ads, which can appear as text or shopping listings, are integrated into or below AI-generated responses to help users take the next step in their discovery journey.
 >
-> The decision to show ads is made by Google's automated systems, not by me as an individual AI model. While I generate the conversational response, a separate auction-based system determines if and where ads should appear based on your query and the content of our conversation. 
+> The decision to show ads is made by Google's automated systems, not by me as an individual AI model. While I generate the conversational response, a separate auction-based system determines if and where ads should appear based on your query and the content of our conversation.
 >
 > Advertiser Control: Advertisers cannot explicitly target "AI Mode" or "AI Overviews" as a specific placement. They are automatically eligible if their campaigns are set up with AI-powered features like Broad Match or AI Max.
 >
 > No Opt-Out: Advertisers generally cannot opt out of appearing in these AI spaces if they are running eligible campaigns.
 >
-> Sensitive Topics: To maintain safety, ads are typically restricted for sensitive categories like healthcare, politics, or finance. 
+> Sensitive Topics: To maintain safety, ads are typically restricted for sensitive categories like healthcare, politics, or finance.
 
 ---
 
@@ -20770,25 +20771,25 @@ fira 不需要言语. 不需要装扮. 不需要交往.
 
 ---
 
-> Finland and Russia share a relationship shaped by over 200 years of colonial history, fierce military conflicts, and a pragmatic "Finlandization" during the Cold War. Historically a part of Sweden, Finland became an autonomous Grand Duchy under the Russian Empire in 1809. While initially peaceful, Russia later attempted to systematically strip Finland of its culture and autonomy—a period known as the "years of oppression"—which ultimately fueled the movement for Finnish independence in 1917. 
+> Finland and Russia share a relationship shaped by over 200 years of colonial history, fierce military conflicts, and a pragmatic "Finlandization" during the Cold War. Historically a part of Sweden, Finland became an autonomous Grand Duchy under the Russian Empire in 1809. While initially peaceful, Russia later attempted to systematically strip Finland of its culture and autonomy—a period known as the "years of oppression"—which ultimately fueled the movement for Finnish independence in 1917.
 
 ---
 
-> Illegal entries and encounters of Chinese nationals at U.S. borders have increased significantly since 2021, reaching historic highs in fiscal year (FY) 2024 before experiencing a sharp decline in early 2025. Between FY 2021 and FY 2024, more than 182,000 to 200,000 Chinese nationals were encountered by U.S. Customs and Border Protection (CBP). 
+> Illegal entries and encounters of Chinese nationals at U.S. borders have increased significantly since 2021, reaching historic highs in fiscal year (FY) 2024 before experiencing a sharp decline in early 2025. Between FY 2021 and FY 2024, more than 182,000 to 200,000 Chinese nationals were encountered by U.S. Customs and Border Protection (CBP).
 
-> As of 2023, an estimated 1.2 million Black immigrants were living in the United States without authorization. 
+> As of 2023, an estimated 1.2 million Black immigrants were living in the United States without authorization.
 
 ---
 
 > 2019 Restrictions: Due to U.S. sanctions, GitHub restricted access to private repositories and paid services for users located in Iran.
-> 
+>
 > IP-Based Blocking: Restrictions were based on the user's geographic location (detected via IP address), rather than their nationality or ethnicity.
-> 
+>
 > Restoration: These restrictions were officially rolled back in January 2021 after GitHub spent two years advocating for a government license.
 
 ---
 
-> The reason your FOSS (Free and Open Source Software) file manager can access and modify the /Android/data folder easily is that it uses specific, high-level system permissions that Google allows for "core file management" tools. 
+> The reason your FOSS (Free and Open Source Software) file manager can access and modify the /Android/data folder easily is that it uses specific, high-level system permissions that Google allows for "core file management" tools.
 
 ---
 
@@ -20796,7 +20797,7 @@ fira 不需要言语. 不需要装扮. 不需要交往.
 
 ---
 
-> In China, the surgical operation that typically costs approximately 100,000 CNY (¥100,000) for MTF individuals is Vaginoplasty (also known as Gender Reassignment Surgery or SRS). 
+> In China, the surgical operation that typically costs approximately 100,000 CNY (¥100,000) for MTF individuals is Vaginoplasty (also known as Gender Reassignment Surgery or SRS).
 
 ---
 
@@ -20812,13 +20813,13 @@ i could not help laughing...
 
 ---
 
-> Yes, a 60-year-old can take HRT, whether for gender affirmation (MTF transition) or to treat age-related hormonal declines (often called "low T" or andropause). There is no absolute age limit for starting hormone therapy, but medical experts emphasize that the approach must be individualized based on personal health history and specific goals. 
+> Yes, a 60-year-old can take HRT, whether for gender affirmation (MTF transition) or to treat age-related hormonal declines (often called "low T" or andropause). There is no absolute age limit for starting hormone therapy, but medical experts emphasize that the approach must be individualized based on personal health history and specific goals.
 >
-> Many people who start HRT in their 60s report significant improvements in their quality of life: 
+> Many people who start HRT in their 60s report significant improvements in their quality of life:
 >
 > Starting a transition at 60 is common and effective, though age does influence how the body responds to hormones.
 >
-> Yes, starting MTF HRT (Gender-Affirming Hormone Therapy) later in life is both common and effective, with a growing medical consensus that it is never "too late" to see significant benefits. 
+> Yes, starting MTF HRT (Gender-Affirming Hormone Therapy) later in life is both common and effective, with a growing medical consensus that it is never "too late" to see significant benefits.
 >
 > Late Initiation: Approximately 23% of transgender women start hormone therapy after the age of 40, and about 12% begin after age 50.
 >
@@ -20852,9 +20853,9 @@ to pledge cn gov is a red flag.
 
 ---
 
-> 制作成本通常约300-400元,雌二醇如果按高用量(每日5mg)计算足够使用约五年
+> 制作成本通常约 300-400 元,雌二醇如果按高用量(每日 5mg)计算足够使用约五年
 >
-> 原作者结果：将成品涂抹于阴囊与大腿表面,早晚各一次,每次约1.5mL,持续一个月后睾酮降至29ng/dL,雌二醇达到326pg/mL 译者的结果：成品涂抹于大腿内侧,早晚各一次,每次约1.5mL,12小时后测得雌二醇133pg/mL
+> 原作者结果：将成品涂抹于阴囊与大腿表面,早晚各一次,每次约 1.5mL,持续一个月后睾酮降至 29ng/dL,雌二醇达到 326pg/mL 译者的结果：成品涂抹于大腿内侧,早晚各一次,每次约 1.5mL,12 小时后测得雌二醇 133pg/mL
 
 ?
 
@@ -20862,30 +20863,30 @@ to pledge cn gov is a red flag.
 
 > Software, like all technologies, is inherently political.
 > Code inevitably reflects the choices, biases and desires of its creators.
-> 
+>
 > from Jeremy Keith, (2010). The Design of HTML5. https://adactio.com/articles/1704/
 
 ---
 
-> agents almost never have agency. ofc you can tell them to make more money. but ... (they dont) 
+> agents almost never have agency. ofc you can tell them to make more money. but ... (they dont)
 
 simonw, lenny's podcast
 
 ---
 
-> Important: If you change your birthdate after you have already verified your age, Google may require you to complete the verification process again with a valid ID. 
+> Important: If you change your birthdate after you have already verified your age, Google may require you to complete the verification process again with a valid ID.
 
-> Yes, you can technically set your birthday to a date other than your legal one in your Google Account settings, but doing so carries significant risks. Google uses this information to ensure you meet minimum age requirements (typically 13 in most countries) and to provide age-appropriate services. 
+> Yes, you can technically set your birthday to a date other than your legal one in your Google Account settings, but doing so carries significant risks. Google uses this information to ensure you meet minimum age requirements (typically 13 in most countries) and to provide age-appropriate services.
 
 ---
 
-> An educated guess is a prediction or conclusion based on some degree of knowledge, experience, or reasoning rather than a completely random choice. It is essentially a guess that is "informed" by what you already know about a subject. 
+> An educated guess is a prediction or conclusion based on some degree of knowledge, experience, or reasoning rather than a completely random choice. It is essentially a guess that is "informed" by what you already know about a subject.
 
 ---
 
 > Edit date of birth?
-> 
-> This can only be changed a few times. Make sure you enter the age of the person using the account. 
+>
+> This can only be changed a few times. Make sure you enter the age of the person using the account.
 
 twitter
 
@@ -20913,7 +20914,7 @@ it could be faster with 3p api or parallel (metadata).
 
 ---
 
-> The answer is yes, Bisq can and has been used for money laundering, but its architecture also includes features that make it difficult to use for large-scale operations. 
+> The answer is yes, Bisq can and has been used for money laundering, but its architecture also includes features that make it difficult to use for large-scale operations.
 
 ---
 
@@ -20929,7 +20930,7 @@ i trust my intuition: deprecate her.
 
 ---
 
-> 5月，结识两个15岁左右的离家出走跨性别情侣，借住在一个20多岁的MtF姐姐家里，几个人经济状况并不好，年纪轻轻，但她们坚强的生活态度真的很厉害。几个MtF姐妹间的sisterhood也很棒。
+> 5 月，结识两个 15 岁左右的离家出走跨性别情侣，借住在一个 20 多岁的 MtF 姐姐家里，几个人经济状况并不好，年纪轻轻，但她们坚强的生活态度真的很厉害。几个 MtF 姐妹间的 sisterhood 也很棒。
 
 now, they are 20 yro, and 25 yro...
 
@@ -20937,11 +20938,11 @@ now, they are 20 yro, and 25 yro...
 
 ---
 
-> Yes, from a developer's perspective, dark mode on Ubuntu functions essentially as an event listener or a signal observer. 
+> Yes, from a developer's perspective, dark mode on Ubuntu functions essentially as an event listener or a signal observer.
 
 ---
 
-> Yes, the if err != nil pattern in Go is widely considered notorious for its verbosity and repetition. While it is a fundamental part of the language's design philosophy, it remains one of the most frequently discussed and criticized aspects of Go by both new and experienced developers. 
+> Yes, the if err != nil pattern in Go is widely considered notorious for its verbosity and repetition. While it is a fundamental part of the language's design philosophy, it remains one of the most frequently discussed and criticized aspects of Go by both new and experienced developers.
 
 > No "truthy" values: Unlike JavaScript or Python, Go does not have the concept of "truthy" or "falsy" values where a non-empty object or non-nil pointer automatically counts as true.
 
@@ -20949,7 +20950,7 @@ now, they are 20 yro, and 25 yro...
 
 ---
 
-> In software engineering (SWE), orthogonality is a design principle where system components are independent and decoupled, meaning a change in one part does not affect the others. 
+> In software engineering (SWE), orthogonality is a design principle where system components are independent and decoupled, meaning a change in one part does not affect the others.
 
 independent does not mean comprehensive.
 
@@ -20957,17 +20958,17 @@ to categorize things, i have to make it both ortho and comprehensive.
 
 ---
 
-> In JavaScript, you cannot use the await keyword inside a synchronous function because await is only valid in functions prefixed with async. Instead, you must handle the returned Promise using standard promise methods or fire the function without waiting for it to finish. 
+> In JavaScript, you cannot use the await keyword inside a synchronous function because await is only valid in functions prefixed with async. Instead, you must handle the returned Promise using standard promise methods or fire the function without waiting for it to finish.
 
-> In standard JavaScript, it is impossible to truly pause a synchronous function to wait for an asynchronous result without blocking the entire execution thread. This is due to JavaScript's single-threaded event loop: if you block the thread (e.g., with a while loop), the asynchronous task can never finish because the thread it needs to run on is stuck waiting. 
+> In standard JavaScript, it is impossible to truly pause a synchronous function to wait for an asynchronous result without blocking the entire execution thread. This is due to JavaScript's single-threaded event loop: if you block the thread (e.g., with a while loop), the asynchronous task can never finish because the thread it needs to run on is stuck waiting.
 
-> The short answer is no, an unhandled promise rejection does not usually "panic" or crash your code immediately like a synchronous error (such as a ReferenceError) would. However, Node.js 15+ will terminate the process by default if a rejection is not handled, effectively turning it into a crash. 
+> The short answer is no, an unhandled promise rejection does not usually "panic" or crash your code immediately like a synchronous error (such as a ReferenceError) would. However, Node.js 15+ will terminate the process by default if a rejection is not handled, effectively turning it into a crash.
 
 > With await: The engine says, "I'm pausing this function here. While I wait for this database call, I'll go handle user clicks, render animations, or run other functions."
-> 
+>
 > With a while loop (True Blocking): The engine says, "I am doing nothing but this loop. I cannot click, I cannot render, and I cannot even process the 'finished' signal from the database."
 
-> Yes, you can call an async function inside a sync function, but there is a major catch: the synchronous function will not wait for the asynchronous one to finish. 
+> Yes, you can call an async function inside a sync function, but there is a major catch: the synchronous function will not wait for the asynchronous one to finish.
 
 ---
 
@@ -20993,7 +20994,7 @@ about the ability, idk. likely related somehow, but the extent has to be researc
 
 ---
 
-> Yes, await essentially works like putting the rest of your function into a callback, but it makes the code much cleaner and easier to read. 
+> Yes, await essentially works like putting the rest of your function into a callback, but it makes the code much cleaner and easier to read.
 
 ---
 
@@ -21001,9 +21002,9 @@ about the ability, idk. likely related somehow, but the extent has to be researc
 
 ---
 
-> Yes, but it is a very specific type of "iteration" that happens only once. 
-> 
-> When you use Vue from a CDN and mount it to an existing HTML element, Vue treats that HTML as a template string. Here is exactly how it "iterates" or reads your DOM: 
+> Yes, but it is a very specific type of "iteration" that happens only once.
+>
+> When you use Vue from a CDN and mount it to an existing HTML element, Vue treats that HTML as a template string. Here is exactly how it "iterates" or reads your DOM:
 
 ---
 
@@ -21047,7 +21048,7 @@ fira would outplay you all.
 
 "i hope a gleam of genius will suppress all humanity..."
 
-trivial literary conflict. no meaning. shallow. 
+trivial literary conflict. no meaning. shallow.
 
 no insight but obvious stereotyping.
 
@@ -21055,19 +21056,19 @@ though, i were about to add it to readme, commented under random.
 
 ---
 
-> The Touhou Project (東方Project) is a world-renowned Japanese dōjin (indie) series primarily consisting of "bullet hell" (danmaku) shoot 'em ups. Created almost entirely by a single developer known as ZUN (Jun'ya Ōta), who handles the programming, graphics, and iconic music, the series began in 1996 as a college hobby and has since grown into a massive multimedia phenomenon. 
+> The Touhou Project (東方 Project) is a world-renowned Japanese dōjin (indie) series primarily consisting of "bullet hell" (danmaku) shoot 'em ups. Created almost entirely by a single developer known as ZUN (Jun'ya Ōta), who handles the programming, graphics, and iconic music, the series began in 1996 as a college hobby and has since grown into a massive multimedia phenomenon.
 
 ---
 
-> While it might seem like taking estrogen automatically means someone is transitioning to "female," many MTX (Male-to-X) individuals take hormones to reach a specific non-binary or androgynous appearance that doesn't fit the traditional binary. 
+> While it might seem like taking estrogen automatically means someone is transitioning to "female," many MTX (Male-to-X) individuals take hormones to reach a specific non-binary or androgynous appearance that doesn't fit the traditional binary.
 
 ---
 
-> Despite the name, Team Shanghai Alice is based in Tokyo, Japan. It is a Japanese developer, and the city of Shanghai is used purely as a thematic choice by its sole member, ZUN. 
+> Despite the name, Team Shanghai Alice is based in Tokyo, Japan. It is a Japanese developer, and the city of Shanghai is used purely as a thematic choice by its sole member, ZUN.
 
 ---
 
-> For young people, taking HRT inconsistently is highly unlikely to cause sudden death, but it can lead to serious, non-fatal medical complications that significantly impact your long-term health and well-being. The primary danger in youth is not immediate mortality, but rather the cumulative physical and psychological strain caused by constant hormone fluctuations. 
+> For young people, taking HRT inconsistently is highly unlikely to cause sudden death, but it can lead to serious, non-fatal medical complications that significantly impact your long-term health and well-being. The primary danger in youth is not immediate mortality, but rather the cumulative physical and psychological strain caused by constant hormone fluctuations.
 
 ---
 
@@ -21077,10 +21078,10 @@ though, i were about to add it to readme, commented under random.
 
 ---
 
-> Jin Xing’s medical transition took place in the mid-1990s, and while her specific modern-day maintenance is private, there are clear differences between the "tech" she used then and what is standard today. 
-> 
-> Jin Xing’s voice does not sound like most trans women who utilize modern voice feminization training or cisgender women with higher-pitched voices. Instead, she has a deep, gruff vocal quality that has become a core part of her public persona as a powerful and authoritative figure. 
-> 
+> Jin Xing’s medical transition took place in the mid-1990s, and while her specific modern-day maintenance is private, there are clear differences between the "tech" she used then and what is standard today.
+>
+> Jin Xing’s voice does not sound like most trans women who utilize modern voice feminization training or cisgender women with higher-pitched voices. Instead, she has a deep, gruff vocal quality that has become a core part of her public persona as a powerful and authoritative figure.
+>
 > Support for LGBTQ+ Symbols: A major catalyst for her recent 2024 ban was an incident where she held up a rainbow flag featuring the slogan "Love is Love" during a performance in Taiyuan. While she claimed she did it to comfort a fan, Chinese authorities view the flag with suspicion as a symbol of "Western values".
 
 i suppose most mtfs wont support jin xing due to his age.
@@ -21091,7 +21092,7 @@ i suppose most mtfs wont support jin xing due to his age.
 >
 > The Definition: It represents a middle ground between traditional software engineering and AI research. While Machine Learning (ML) Engineers might build or fine-tune the models, AI Engineers focus on agentic architectures, RAG (Retrieval-Augmented Generation), and tool integration.
 
-> Shawn Wang, widely known by his handle swyx, is a prominent developer, writer, and entrepreneur who is a leading voice in the "AI Engineer" movement. He transitioned from a high-level career in finance to software engineering and has since become a key influencer in the web development and AI communities. 
+> Shawn Wang, widely known by his handle swyx, is a prominent developer, writer, and entrepreneur who is a leading voice in the "AI Engineer" movement. He transitioned from a high-level career in finance to software engineering and has since become a key influencer in the web development and AI communities.
 >
 > Self-Taught Roots: Taught himself to code using freeCodeCamp tutorials over two years (2016–2018) while working in finance.
 >
@@ -21099,9 +21100,9 @@ i suppose most mtfs wont support jin xing due to his age.
 >
 > Military Service (Age 18): In Singapore, he served in the Army, where he managed battalion logistics. This was his first encounter with data management, using Excel for monthly reports and forecasts.
 >
-> Technical Transition: At age 30, after burning out from a high-paying finance career (earning roughly $350k/year), he attended Fullstack Academy in New York in 2017 to formalize his coding skills after two years of self-teaching through freeCodeCamp. 
+> Technical Transition: At age 30, after burning out from a high-paying finance career (earning roughly $350k/year), he attended Fullstack Academy in New York in 2017 to formalize his coding skills after two years of self-teaching through freeCodeCamp.
 >
-> His transition from a quantitative trader to a software engineer was driven by a realization that he was already "writing software" via Excel, Python, and Haskell for trading, but lacked the formal practices to make his work—and life—significantly better. 
+> His transition from a quantitative trader to a software engineer was driven by a realization that he was already "writing software" via Excel, Python, and Haskell for trading, but lacked the formal practices to make his work—and life—significantly better.
 >
 > Singaporean Origins: His family is based in Singapore, where he was born and raised. His full Chinese name is Wang Yue Xian.
 >
@@ -21111,7 +21112,7 @@ i suppose most mtfs wont support jin xing due to his age.
 
 ---
 
-> When the "Attention Is All You Need" paper was released in June 2017, it was not immediately hailed by the masses as the "future of everything." Instead, it was viewed by the research community as a highly impressive but specialized breakthrough in machine translation. 
+> When the "Attention Is All You Need" paper was released in June 2017, it was not immediately hailed by the masses as the "future of everything." Instead, it was viewed by the research community as a highly impressive but specialized breakthrough in machine translation.
 
 ---
 
@@ -21142,23 +21143,23 @@ i suppose most mtfs wont support jin xing due to his age.
 >
 > Yes, that is the "magic" of Diffie-Hellman (DH). It works because of a specific rule from middle school algebra: (g^a)^b = g^(ab) = (g^b)^a
 >
-> A hacker watching the exchange sees g, p, A (g^a), and B (g^b). To get our shared secret, they would need to figure out what a or b are. In modular math, finding the exponent a when you only know g^a is called the Discrete Logarithm Problem, and for very large numbers, it is mathematically "impossible" to solve in a reasonable amount of time. 
+> A hacker watching the exchange sees g, p, A (g^a), and B (g^b). To get our shared secret, they would need to figure out what a or b are. In modular math, finding the exponent a when you only know g^a is called the Discrete Logarithm Problem, and for very large numbers, it is mathematically "impossible" to solve in a reasonable amount of time.
 
 ---
 
-> Unpredicted results: Before these experiments, few believed that unsupervised pre-training (just reading text without labels) would "blow away" human-curated benchmarks. The discovery that scaling compute and data led to qualitatively better systems—rather than just slightly more accurate ones—was a major surprise. 
+> Unpredicted results: Before these experiments, few believed that unsupervised pre-training (just reading text without labels) would "blow away" human-curated benchmarks. The discovery that scaling compute and data led to qualitatively better systems—rather than just slightly more accurate ones—was a major surprise.
 >
 > The "Black Box" surprise: Even as late as 2023, many experts confidently claimed LLMs would never handle novel coding or complex math.
 >
 > The realization: These capabilities only appeared after the models reached a certain "size" (parameter count), which was impossible to predict theoretically before the SOTA models were actually built and tested.
 >
-> Theoretically, the architecture was viewed as highly experimental and even "heretical" when first introduced. While the math suggested potential, the prevailing wisdom at the time strongly favored architectures that "mimicked" how humans read—one word at a time in order—rather than a system that looked at everything at once. 
+> Theoretically, the architecture was viewed as highly experimental and even "heretical" when first introduced. While the math suggested potential, the prevailing wisdom at the time strongly favored architectures that "mimicked" how humans read—one word at a time in order—rather than a system that looked at everything at once.
 
 > Parallelization: Unlike RNNs, Transformers could process all words in a sequence simultaneously. This made them theoretically a "much better fit" for modern GPUs.
 >
-> The Counter-Voice: The authors theorized that positional encodings could replace the need for sequential processing, but many remained unconvinced until seeing the massive scale of later models. 
+> The Counter-Voice: The authors theorized that positional encodings could replace the need for sequential processing, but many remained unconvinced until seeing the massive scale of later models.
 
-> While it feels like we read one word at a time, humans are actually parallel processors who take in multiple words or word-parts at once, making us more similar to transformers than you might think. 
+> While it feels like we read one word at a time, humans are actually parallel processors who take in multiple words or word-parts at once, making us more similar to transformers than you might think.
 
 ---
 
@@ -21168,21 +21169,21 @@ i suppose most mtfs wont support jin xing due to his age.
 
 ---
 
-> Yes, Minecraft Redstone is considered Turing complete. 
+> Yes, Minecraft Redstone is considered Turing complete.
 
 ---
 
 > Yes, when you push or clone, it will only cost about 1,000 lines of data transfer and storage.
-> 
+>
 > Even if you never manually run git gc, Git automatically triggers its compression engine during network operations:
 
 ---
 
-> Yes, Codeforces submission pages are notoriously unstable during and immediately after contests. Users frequently report encountering 500 Internal Server Errors or "Oops!" pages when trying to view code submissions during these peak periods. 
+> Yes, Codeforces submission pages are notoriously unstable during and immediately after contests. Users frequently report encountering 500 Internal Server Errors or "Oops!" pages when trying to view code submissions during these peak periods.
 
 ---
 
-> Yes, a website owner can request removal simply because they no longer want their content to be publicly available. The Internet Archive generally respects the wishes of authors and publishers who do not want their materials included in the collection. 
+> Yes, a website owner can request removal simply because they no longer want their content to be publicly available. The Internet Archive generally respects the wishes of authors and publishers who do not want their materials included in the collection.
 
 men.ci
 
@@ -21198,7 +21199,7 @@ men.ci
 
 > Wanna grow hair but still coding!
 
-> 是想长头发但是还在敲代码的hsn!
+> 是想长头发但是还在敲代码的 hsn!
 
 (she loves py? though neither py or cpp feels good. no pl feels good in general.)
 
@@ -21206,7 +21207,7 @@ men.ci
 
 HSN8086
 
-2025ICPC南昌邀请赛游记
+2025ICPC 南昌邀请赛游记
 
 > 这是算竞生涯第一个铜牌, 希望这只是个开始.
 
@@ -21222,7 +21223,7 @@ i see. windows could not install apps elegantly.
 
 ---
 
-> Yes, while the EU's Digital Markets Act (DMA) opened the "gates" for third-party stores, Apple still holds the "keys" to the underlying operating system. Because alternative marketplaces must still run on iOS, Apple maintains several critical points of control: 
+> Yes, while the EU's Digital Markets Act (DMA) opened the "gates" for third-party stores, Apple still holds the "keys" to the underlying operating system. Because alternative marketplaces must still run on iOS, Apple maintains several critical points of control:
 >
 > We saw a mini-version of this with Fortnite. Epic Games broke Apple's rules, Apple kicked them off, and Epic refused to come back for years.
 >
@@ -21230,17 +21231,17 @@ i see. windows could not install apps elegantly.
 >
 > If major game companies followed the path of "freedom" or chose to boycott the iPhone, it would lead to a fractured digital landscape where gaming looks different depending on your device. While theoretically a "lose-lose," companies like Epic Games have shown that they are willing to take that hit to challenge Apple’s 30% "Apple tax".
 
-> The data suggests that while many Fortnite players did abandon their iPhones initially, they didn't necessarily give up their devices entirely—they simply stopped playing the game on them or switched to other platforms like PC or consoles. 
+> The data suggests that while many Fortnite players did abandon their iPhones initially, they didn't necessarily give up their devices entirely—they simply stopped playing the game on them or switched to other platforms like PC or consoles.
 
 > The Termination: This loophole eventually closed for many when Apple fully terminated Epic's developer accounts, often resulting in a "This item is no longer available" error when trying to re-download.
 
-> Yes, Apple has a "technical kill switch" that can render an app unusable even after you have installed it. This power is primarily exercised through Certificate Revocation and Notarization checks. 
+> Yes, Apple has a "technical kill switch" that can render an app unusable even after you have installed it. This power is primarily exercised through Certificate Revocation and Notarization checks.
 >
-> Notarization Tickets: For apps distributed through alternative stores, Apple uses "notarization tickets." Even if an app is installed, Apple can revoke the ticket associated with that specific version. The next time the device checks Apple’s servers, the "Gatekeeper" system will block the app from launching, claiming it is damaged or malicious. 
+> Notarization Tickets: For apps distributed through alternative stores, Apple uses "notarization tickets." Even if an app is installed, Apple can revoke the ticket associated with that specific version. The next time the device checks Apple’s servers, the "Gatekeeper" system will block the app from launching, claiming it is damaged or malicious.
 
 (so self update hacks have no meaningful value.)
 
-> Technically, it is impossible to block all connections to Apple's servers from an iPhone without using a router or external hardware because Apple does not provide a system-wide "kill switch" for its own background services. However, you can significantly reduce "unnecessary" traffic using several on-device methods. 
+> Technically, it is impossible to block all connections to Apple's servers from an iPhone without using a router or external hardware because Apple does not provide a system-wide "kill switch" for its own background services. However, you can significantly reduce "unnecessary" traffic using several on-device methods.
 
 > Apple has significant "contractual" and "technical" control over your Mac, but because macOS was originally built as an open platform, you have more ways to fight back than on an iPhone.
 >
@@ -21256,9 +21257,9 @@ i see. windows could not install apps elegantly.
 
 ---
 
-> Technically, no—a newly created group is still a basic group by default. However, it may feel like a supergroup is the default because Telegram now triggers the upgrade automatically the moment you use any advanced feature. 
-> 
-> Unless you are creating a "Location-based group," which starts as a supergroup immediately, every group follows this path: 
+> Technically, no—a newly created group is still a basic group by default. However, it may feel like a supergroup is the default because Telegram now triggers the upgrade automatically the moment you use any advanced feature.
+>
+> Unless you are creating a "Location-based group," which starts as a supergroup immediately, every group follows this path:
 
 ---
 
@@ -21279,7 +21280,7 @@ what is that i wish... i would grow for decades. i would write a letter to cambr
 ---
 
 > Zig: Often cited as a primary challenger for its focus on simplicity and interoperability with C, without the "borrow checker" complexity of Rust.
-> 
+>
 > Go (Golang): A major competitor in the backend and systems space. While it uses garbage collection (unlike Rust), it challenges Rust's dominance through faster development speed and a simpler learning curve.
 
 ---
@@ -21306,7 +21307,7 @@ again. callback.
 
 ive already done sp uee math editorial on zhihu.
 
-not so many ppl care this. 
+not so many ppl care this.
 
 for me, well, it does carry some weight, but ive already written an article on zhihu, though it does not qualify as an editorial.
 
@@ -21318,7 +21319,7 @@ maybe i could simply integrate it somewhere. no need to handle explicitly.
 
 ---
 
-> In VS Code, there is no single, built-in hotkey to create a file with a specific name in one step. However, you can achieve this by customizing your keybindings or using extensions. 
+> In VS Code, there is no single, built-in hotkey to create a file with a specific name in one step. However, you can achieve this by customizing your keybindings or using extensions.
 
 ---
 
@@ -21331,10 +21332,49 @@ maybe i could simply integrate it somewhere. no need to handle explicitly.
 ---
 
 > 咱们的 Menci 领导好啊
-> 
+>
 > 沂蒙山的 OIer 喜洋洋
+
+> 是个 gay，天天男扮女装，服了
 
 lol.
 
 ---
 
+> Schubert's music is often defined by a delicate balance of serenity and deep-seated pain. This "Schubert feeling" is frequently described as an "inner ache" or a sense of "ambivalence," where joy and sorrow exist simultaneously rather than as opposites.
+
+---
+
+> In many real-life search scenarios, the KMP algorithm is often slower than both the Boyer-Moore algorithm and even the Naive (brute-force) search.
+
+---
+
+cf 评分毫不意外地与 学校 强正相关.
+
+---
+
+> 还是那个意思，“感觉自己一直在以且希望以少女的视角看待这个世界”，虽然感觉会出现许多问题。但是感觉一个系统出问题最根本的还是它不能维持自身，或者说它会陷入自我否定的怪圈，而不是外界的什么问题……也许，在这个意义上看，所谓的“成熟”就是避免自己陷入恶性循环（或者说自我解构，与虚无接触的循环）的一种特性（？）
+
+---
+
+> Yes, adults can technically join certain categories of the CSP (Certified Software Professional) in China, but their participation is often restricted compared to student competitors.
+>
+> Non-Formal Status: Adults who participate are typically treated as "non-formal" players. This means that while you can sit for the exam and receive a score, you are usually not included in the official ranking lists used for school admissions or national awards.
+
+> The International Collegiate Programming Contest (ICPC) is specifically for university students, so "older" adults generally cannot join unless they are currently enrolled in a degree program and meet strict eligibility windows.
+
+> Google Code Jam / Meta Hacker Cup: These are open to everyone regardless of age or student status.
+>
+> Codeforces & LeetCode: These platforms host regular, high-level competitive programming contests for all ages.
+
+> No, adults and "old people" cannot participate as contestants in the International Mathematical Olympiad (IMO). The competition is strictly for students who have not yet started university.
+>
+> Canadian Open Mathematics Challenge (COMC): Despite the name, this is an "open" division contest, meaning all participants are pooled together regardless of age. While primarily for students, it is considered the most prestigious national competition in Canada and allows any interested person with a grasp of high-school math to participate.
+
+> Project Euler: A highly respected series of mathematical problems that require both deep number theory and computer science to solve. It is widely recognized in professional quantitative fields.
+
+---
+
+> 上午的J组中，第二题犯了一个愚蠢的错误，没有在程序中使用longlong（这在OI中是个经典的错误），导致失去了60分。第三题忘记了判断一个数的正负，少得了90分。
+
+---
