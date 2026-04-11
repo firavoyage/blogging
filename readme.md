@@ -306,6 +306,7 @@ $fira$ `elegance`
     - menci men.ci oi.wiki loj.ac moeditor.github.io search.lingogram.app maigolabs maigo.dev needle.maigo.dev chiyuki0325 chyk.ink hykilpikonna aza.moe amaoke.app aquadx.net voice.hydev.org vergedx
     - nayuki nayuki.io
     - numberphile
+    - omg_wc
     - one math
     - oovm jiang zi jun zhihu
     - paulg paulgraham.com arclanguage.org ycombinator ycombinator.com news.ycombinator.com ycombinator.com/companies ycombinator.com/jobs
@@ -316,7 +317,7 @@ $fira$ `elegance`
     - shiffman thecodingtrain.com
     - sinyalee sinyalee.com alpha-star-research.com
     - su dekuang zju
-    - WhereIsHeroFrom
+    - whereisherofrom
     - whynottv1999 tairanhe.com
     - yu ming shu zhihu qed.moe yaru.io asaka.moe
     - yxc acwing.com

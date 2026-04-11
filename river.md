@@ -21378,3 +21378,259 @@ cf 评分毫不意外地与 学校 强正相关.
 > 上午的J组中，第二题犯了一个愚蠢的错误，没有在程序中使用longlong（这在OI中是个经典的错误），导致失去了60分。第三题忘记了判断一个数的正负，少得了90分。
 
 ---
+
+> 晚上找小伙伴们玩，然后被拉到另一个房间，发现 COGS 观光团的人都在。 sui：这就是 Menci！
+> 众人：%%%%% ……
+
+---
+
+> sui 打开电脑打一个叫『以撒』（← 是不是这两个字啊喂 0.0）的游戏，好高端 ovo，Fancy 拿出 Kindle 看知乎日报，好高端 ovo ……
+
+> 宣读获奖名单，果然 Fe 滚粗了 QAQ
+
+im reading this just because she's menci?
+
+---
+
+> Yes, you can retrieve or view a tweet using only its ID, as X (formerly Twitter) primarily uses the unique ID to locate content. The username in the URL is largely cosmetic and can be replaced with any text. 
+>
+> Standard Redirect URL: https://twitter.com/i/web/status/{tweetID}.
+
+---
+
+> 想起来还没找胜利一中的 abclzr 神犇面基呢，于是就先去找到了他聊了一会，lzr 好神啊！
+
+"面基"
+
+十年来一直如此吗, 这种文化.
+
+---
+
+忽然想起 yuan_zhe.
+
+这个时代的人就在面前.
+
+几年后又会成为历史.
+
+---
+
+> APIO 的开考时间晚一些，可以提前进场 qwq 于是就可以先写好 vim 配置了 ……
+
+vim...
+
+btw, this style `~ text ~`.
+
+(it's not strikethrough.)
+
+> 脑补了一下感觉二分复杂度是对的，随便写了一个交上去发现才 42 分，哪里不对？卡卡常试试 ……
+> 卡了卡常交上去发现 WA 了，发现漏情况了，改了之后又交上去 …… 诶，怎么不评测了 ……
+
+"卡常"
+
+what an oi.
+
+> 上午讲物理引擎 …… smg …… 拿出笔记本电脑准备写 sui 给我讲的题 …… 诶怎么开不了机 ……
+> mdzz …… 昨晚忘关机了，没电了 XD
+
+"物理引擎"
+
+---
+
+> Tweet IDs are generated using a custom internal service called Snowflake, which creates unique, roughly time-ordered 64-bit integers. Unlike simple incremental counters, this distributed system allows multiple servers to generate IDs simultaneously without needing a central coordinator, preventing performance bottlenecks at scale. 
+
+---
+
+https://x.com/Sengxian/status/792946844594610176
+
+https://x.com/Sengxian/status/792747414415290369
+
+https://t.co/6ry80UD3ha
+
+the google halloween doodle has not changed over a decade...
+
+---
+
+> 最后帮 Fancy 搞了搞 Ubuntu 下的指纹识别，KZ 表示也要我帮他弄弄，然而已经快十二点了 …… XD
+
+ruanyf installs ubuntu on 2007.
+
+so ubuntu connects us?
+
+(for those who want to use linux with the least manuever)
+
+---
+
+> %%% 您竟然是二四的！BZOJ 论坛？
+
+no wonder menci replies so niche (cute, i mean) on twitter.
+
+oiers have their own way. kind of different than simple anime culture, where we typically use nya.
+
+anime is about being moe (cute).
+
+oi is about self modesty and appreciation on others, where exaggerated emotions are sent via quotation marks and cyphers with non exaggerated words.
+
+---
+
+> Menci 写的这个游记啊，excited！空格分词好赞啊，可以直接用 cin 读。
+> 所以写了一发词频统计。
+> ---beigin---
+> 
+> ……:165
+> mdzz:13
+> qwq:11
+> Fancy:8
+> XD:8
+> QAQ:6
+> 
+> ---end---
+> 看，我发现了什么！
+
+> Menci你忘了一件事，有一天早上KZ在讨论组里说：＂Fancy呀，你把Menci叫过来吧，我想吃早饭＂（此处省略Menci忧桑的表情，2333）
+
+---
+
+> In competitive programming, 在线 (Online) and 离线 (Offline) refer to how a program processes queries in a problem. The distinction lies in whether the program must answer each query as soon as it is received or if it can wait to see all queries before deciding how to solve them. 
+>
+> Typical Tools: Data structures like Segment Trees, Binary Indexed Trees, or Persistent Segment Trees are often used to handle updates and queries in real-time.
+>
+> Typical Tools: Mo’s Algorithm, CDQ Divide and Conquer, or Disjoint Set Union (DSU) on Trees.
+
+---
+
+> NOI 的成绩不怎么好，但相比几位比我优秀，但没有发挥好的伙伴来说，我或许已经足够幸运了。自己作为一个弱者，在不考虑随机条件的影响下，取得这等名次，也是理所当然的吧。 最后的两天，和一位考砸的朋友聊了两个晚上，心里也颇有些感触，当然，这都不能说明什么。比赛都会有竞争，而竞争，就一定会分出强弱。强者是理所应当的胜者，而弱者呢？
+
+"慕强装弱. 一直都没有变化呢..."
+
+---
+
+> 或者说，弱者存在的意义是什么？想想 OIer 们 —— 从入学时的全省几千人，到初赛几百人通过，到联赛几十人拿到省一。百余人参加省选，一轮、二轮，然后十几个人组成省队。最后，全国的这些人中，五十多人拿到金牌 —— 也有上百人空手而归。
+
+"全省几千人"
+
+OI 圈子真小...
+
+upd:
+
+> 第一次「面基」，就是在 WC2016 了吧。也便是那时候见的 fqk、yzy 和 sxb；印象最深的是「yts 大爷」当时做的题，我至今还不会；偶然的机会认识了 Sengxian，后来成了很好的朋友 …… 那次 WC 让我知道了这个圈子是有多么的大，我想，总有一天，我也要成为这个圈子里不平凡的一员。
+
+---
+
+> 名额放宽：CCF 明确规定，第二轮（复赛）机位的使用率要达到最大化。只要该省份的考点机位足够，初赛的晋级门槛就会降得非常低。
+
+---
+
+`weather`
+
+我都不记得了. OI 什么. 
+
+应该是参加过什么的吧. 
+
+压缩包里有题目. 开考的时候密码写在黑板上.
+
+要用文件输入输出. 
+
+完全没有做过历年考题. 也不知道自己报名了 j 还是 s.
+
+(笔试全给过)
+
+儒略历. 这个词有印象.
+
+坐了一下午, 也不知道在想什么. 肯定有得一些分, 但是也都不记得了.
+
+有小学生 (?) 在参加比赛...
+
+这个我记得清楚. 他在玩 paint 3d 和 edge surf. 好无聊啊.
+
+> 这个游戏的意义是什么. 大家是被什么圈钱组织, 各种组织, 聚在一起了吗? (笑)
+
+出考场的时候, 有个人说他是 luogu 站长. (kkk?) 坐在我前后左右.
+
+(upd: 没有办法 fact check. 算了.)
+
+之前好像参加过 alibaba 的一个比赛. 用 python 写. 感觉是四道 leetcode easy, 虽然什么都不记得了, 还想要在浏览器监控我说什么 "不要切换页面". 后来可以去另一个城市参加比赛, 酒店也订好了, 但是好像取消了. pandemic?
+
+总之没有预期肯定是不好的. 之前下棋的时候, 不会这样呢. 文化课上如果没有把握我也会缺考. 要有信心再考啊.
+
+可惜这好像也就是一个选拔游戏. 后来想, 就算开放个人报名, 除了那些精神有问题的 (喜欢与人相斗), 也不会参加吧.
+
+记得 yin chuan icpc 有很多作弊的. 有意思. 
+
+icpc 好像只是简历里的一行字. 于是各种文章游记就没有那么多情绪波动. 
+
+> 患得患失?
+
+不对啊, 2020 年没有封锁吗, 为什么可以参加考试.
+
+又逛了一下 luogu. 怎么还有广告. (那时候, 广告还没有. 或者还是什么加入硬核群, 还用了 qq bot 筛选, 不知道为什么能不封禁.)
+
+广告是 2k cny 的让小学生 (这下真的是给小学生玩的游戏了, 特别设计的 gesp) 学一些算法...
+
+将来我, 当然每一个人都可以教了, 也可能会做一些工作. 不过为什么要教小学生算法呢? 除了盈利.
+
+> upd: kkksc03, 蒟蒻君HJT? 站长大人怎么出来卖课了, 卖给小学生. 对于 icpc (in general) 选手, 群里好像说过这是一个很好的 "出路".
+
+小时候没有学钢琴是一个遗憾? (虽然此后也一直可以玩.)
+
+兴趣爱好, 最初大概都来源于家里人. 信息获取渠道很多是大陆中国私域流量. 玩过绘画, 棋什么的. 有时候没有报名什么, 自己在小学的下午, 拿 scratch (对, 就是那个 google blocks 类似的) 玩一天. 什么美术资源, css 调过去改回来. 不是很聪明啊. mit edu 上下载了至少 100 个游戏. 不知道他们是怎么做的.
+
+像, 朋友转发 promo 链接, 老师招生, 朋友送书, 这些. words of mouth.
+
+不算差了, 至少朋友的阶层大多不算低.
+
+sigh.
+
+高中时, 有一个喜欢刻晴的人去一个俱乐部一样的学校在周末学习. 好像大致学了些语法. 也不知道那时候政策如何. 不过 oierdb 能查到了.
+
+upd: 记得比赛好像莫名其妙有很多大人. 不是高中生吧, 就是工作后的人. 也可能记错了. 不过小学生肯定有 (?, 也可能是很小只的初中生?).
+
+---
+
+> 这并不是说弱者是完全失败的，更没有否定弱者的价值 —— 奥林匹克精神中便有「重在参与」，虽然每个人心中都有一个金牌梦，但能梦想成真的，每年只有那五十多个 —— 相对于「我一定要拿金牌」这种励志向的话语，你必须有另外的事支撑着你去努力，哪怕最终只能成为一个「陪衬者」。
+> 
+> 就像那位第二个到达南极的探险家，一个伟大的悲剧。
+
+---
+
+> 2019 年前 (NOIP 时期)：初赛曾有严格的名额限制（如按比例 1:3 选拔），筛选感极强。
+> 2023-2024 年：随着各省标准化机房考位的大量增加，“机位利用率最大化” 成了划线的第一原则。
+
+---
+
+> 当然，这也不是在否定自己成为「强者」、「胜者」的希望，尽管「金牌」看上去很遥远（实际上确实是的），但在你在成绩单上看见一个整天和你谈笑风生的伙伴卡线拿了金牌，你是不是也会感觉到，有些事，似乎从来没有离自己这么近？
+> 
+> 或者说，我们还不够强。
+> 
+> 很多 OIer 都常说自己弱，排除谦虚的成分，这就是我们和那些强者的差距。我们知道，只有明白自己弱，才可以尝试去变强，并且，我们在努力。我们不能保证自己最终能走到哪里，但也不会说自己永远无法到达他们的层次。
+> 
+> 想到这里，对接下来那段路，还有什么可害怕的呢？
+
+forced critical thinking?
+
+---
+
+> There is no built-in "jump to date" button or calendar widget on the standard Twitter (X) profile UI to skip scrolling. However, you can use the built-in Advanced Search tool or your Data Archive to bypass the manual scroll. 
+
+---
+
+why is project sekai always updating?
+
+happy birthday, minori.
+
+2026.04.14
+
+what will menci post?
+
+---
+
+> 突然感觉，自己的压力太大了，从来没有过什么机会去放松，这样散一散心，的确轻快了许多。大概，只有这片天空，会一直陪伴着我，见证我的成长吧。
+
+---
+
+> NOI 的最后两天晚上，和 zyz 去操场上聊了好久，关于过往，关于 OI，关于未来。也便是那时候，zyz 成了我最好的朋友。
+
+"conversation".
+
+"People > Projects"
+
+---

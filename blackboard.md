@@ -42,8 +42,8 @@
 - g1t1
   - sept
     - fira `274 a+#1 76 b 101 a+ 97 a+`
-    - jiang zhijun `271 a+#2`
-    - xu yiping `260 a+#4`
+    - jiang zhijun `271 a+#2 78 98 95.5`
+    - xu yiping `260 a+#4 82 93 85`
   - oct
     - fira `273 a+#2 69 c- 106 a+ 98 a+`
     - someone7 `274 a+#1 math 111`
@@ -52,10 +52,11 @@
     - jiang zhijun `277.5 a+#4 67 119 91.5`
   - dec
     - fira `252.5 a 73 c+ 80 b+ 101.5 a+`
+    - xu yiping `258.5 92 84 82.5`
   - fin
     - fira `275.5 a+#1 73 a 106 a+ 96.5 a+`
     - xu ruoxi `274 a+#2`
-    - jiang zhijun `270 a+#3`
+    - jiang zhijun `270 a+#3 78 97 95`
 - g1t2
   - feb
     - fira `260.5 a+#12 75 b+ 92 a 93.5 a`
@@ -68,11 +69,12 @@
   - mid
     - fira `265.5 a+#14 80 a 90 b+ 95.5 a`
     - jiang zhijun `283.5 a+#1 74 110 99.5 (10 subjects all a+ except chinese b-)`
+    - xu yiping `271.5 83 93 95.5`
     - room and seat 1024
   - may
     - fira `254.5 a+#9 67 c- 92 a+ 95.5 a+`
     - jiang zhijun `284.5 a+#1 77 104 103.5`
-    - lv fuyuan `253 a+`
+    - lv fuyuan `253 a+ 78 101 74`
     - room and seat 0515
     - exam on 0520
   - fin
