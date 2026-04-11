@@ -2891,6 +2891,9 @@ flatpak install -y flathub io.github.flattool.Warehouse
 # install appimages
 flatpak install -y flathub it.mijorus.gearlever
 
+# process disks
+sudo apt install -y gparted
+
 # browse: chromium, firefox, lagrange
 sudo snap install chromium --revision 2842
 # use a saved .snap file if needed

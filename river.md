@@ -393,6 +393,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `7` 2026.04.08
 - `8` 2026.04.09
 - `9` 2026.04.10
+- `10` 2026.04.11
 
 ## gaming
 
@@ -21632,5 +21633,25 @@ what will menci post?
 "conversation".
 
 "People > Projects"
+
+---
+
+> Path to Elite Competitions: Scratch is capped at Level 4. To reach higher levels (5-8), students must transition to Python or C++. These advanced levels directly align with the CSP-J/S (Certified Software Professional Junior/Senior) syllabus, which is the pathway to the National Olympiad in Informatics (NOI).
+
+---
+
+> July 2026 (Expected): Registration for the First Round (Preliminary) typically opens in mid-July.
+
+> Yes, the CCF typically performs an annual system reset for the CSP-J/S registration platform.
+
+> Certificates & Scores: You will lose access to download certificates or view detailed score reports from the registration site once the reset occurs.
+
+---
+
+> Yes, you are allowed to search for information on the internet during a Codeforces contest, but with several strict limitations. 
+
+> Yes, you can generally use your own language and submit the transcompiled code to Codeforces, but you must follow specific rules to avoid being flagged for obfuscation or plagiarism. 
+
+> In Codeforces contests, you are allowed to use direct solutions only if they were published online before the round began. 
 
 ---
