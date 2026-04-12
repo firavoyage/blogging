@@ -294,6 +294,7 @@ $fira$ `elegance`
     - ayumu maki-math.com
     - bellingcat bellingcat.com bellingcat.gitbook.io
     - codingstartup
+    - commonants
     - grant sanderson 3blue1brown.com
     - hmuniversity hmu.ac.cn wildchickenuniversity wcu.edu.pl
     - hzwer hzwer.com

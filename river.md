@@ -21655,3 +21655,27 @@ what will menci post?
 > In Codeforces contests, you are allowed to use direct solutions only if they were published online before the round began. 
 
 ---
+
+> The ICPC Yinchuan Regional has been the center of multiple cheating and corruption controversies, primarily involving the host institution, Ningxia Institute of Science and Technology (NXIST). 
+
+---
+
+> 最初的时候，我们都在想，要取得什么样的成绩。殊不知，中间的经历，才是最珍贵的。
+
+这篇文章真有水平啊. 反复.
+
+"我叫 Menci，是个 ..."
+
+你们这些写词的... (睁眼哭泣)
+
+---
+
+羡慕 OI.
+
+虽然说文化课也没有亏待我... 
+
+不像传言中坐了三年牢然后取大专的.
+
+不过 fira 也不在乎去什么大学. 而且本来就很厉害.
+
+---
