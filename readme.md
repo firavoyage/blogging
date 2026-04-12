@@ -253,7 +253,6 @@ $fira$ `elegance`
     - lightvector katago
     - linyilyi
     - lionleaf dwitter.net
-    - luoling8192 luoling.moe airi.moeru.ai
     - luvletter2333 haruhi_smith nekox nagramx haruhi_channel
     - lyricat lyric.im
     - mabbs mayx unmayx mayx.eu.org mabbs.github.io sayhanabi.net sayhuahuo.net mayx.eu.org/proxylist mayx.eu.org/other_repo_list
@@ -300,17 +299,18 @@ $fira$ `elegance`
     - hzwer hzwer.com
     - jiangly codeforces
     - jiangyy jiang yanyan jyywiki.cn
-    - kkksc03 luogu k.luogu.org
+    - kkksc03 k.luogu.org luogu.org
     - leerob leerob.com cursor.com
     - liyupi yupi.icu codefather.cn yuyuanweb.com
     - matrix67 matrix67.com matrix67.itch.io localhost_8080 localhost-8080.com
-    - menci men.ci oi.wiki loj.ac moeditor.github.io search.lingogram.app maigolabs maigo.dev needle.maigo.dev chiyuki0325 chyk.ink hykilpikonna aza.moe amaoke.app aquadx.net voice.hydev.org vergedx
+    - menci men.ci oi.wiki loj.ac moeditor.github.io renbaoshuo oier.baoshuo.dev luoling8192 luoling.moe search.lingogram.app airi.moeru.ai maigolabs maigo.dev needle.maigo.dev chiyuki0325 chyk.ink hykilpikonna aza.moe amaoke.app aquadx.net voice.hydev.org vergedx
     - nayuki nayuki.io
     - numberphile
     - omg_wc
     - one math
     - oovm jiang zi jun zhihu
     - paulg paulgraham.com arclanguage.org ycombinator ycombinator.com news.ycombinator.com ycombinator.com/companies ycombinator.com/jobs
+    - pinkrabbit gitpinkrabbit pinkrabbitcn cnblogs.com/pinkrabbit
     - pkuflyingpig csdiy
     - probiusofficial hello-ctf.com
     - qingyu qoj.ac

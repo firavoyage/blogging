@@ -394,6 +394,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `8` 2026.04.09
 - `9` 2026.04.10
 - `10` 2026.04.11
+- `11` 2026.04.12
 
 ## gaming
 
@@ -21677,5 +21678,83 @@ what will menci post?
 不像传言中坐了三年牢然后取大专的.
 
 不过 fira 也不在乎去什么大学. 而且本来就很厉害.
+
+---
+
+> For a trans woman (MTF) who successfully conceives a child after starting hormone replacement therapy (HRT), the impact on the child's health is generally considered minimal based on available evidence. The primary medical concerns regarding HRT focus on your ability to produce viable sperm (fertility) rather than the health of the resulting offspring.
+
+---
+
+`thought`
+
+jiang zhijun is one of the a few cute boys who are cis.
+
+reserved. feels a bit stupid at a glance, or naive.
+
+while deeply accurate after thinking.
+
+cute!
+
+---
+
+> The choice between LICENSE and LICENSE.md on GitHub is largely a matter of personal preference, as both are effectively equivalent for technical detection. However, there are subtle differences in how they are presented: 
+
+> Yes, GitHub recognizes both LICENSE and LICENSE.md as valid license files for your repository. 
+
+> Yes, GitHub also recognizes COPYING (or COPYING.md) as a valid license file. 
+>
+> GNU Tradition: The use of COPYING is a convention strongly associated with GNU and FSF projects (like the GPL or LGPL).
+
+---
+
+> 根据相关法律法规，本博客的评论系统不对中国大陆地区的访客服务。
+
+renbaoshuo... why even bother...
+
+well, you can.
+
+believers exist. they are not wrong.
+
+(what? baoshuo and menci are not the same age? what about luoling?)
+
+lol.
+
+---
+
+幻想家会长怎么开播了.
+
+昨天才关注的.
+
+什么奶龙. fps 类战地游戏. 不是 df.
+
+---
+
+> While originally seen as a rare and embarrassing display of anger from a top leader, the quote has evolved into a term of nostalgic endearment for Jiang's perceived candidness. It is now widely used online to mock someone for being idealistic, inexperienced, or lacking a deeper understanding of complex political or social situations. 
+
+---
+
+> There is no global setting in the YouTube Music app to permanently disable autoplay by default across all sessions. Autoplay is a dynamic feature that often turns itself back on depending on how you start your music. 
+
+---
+
+https://github.com/StibiumT16/RUC-Lab/blob/23c9ea4a118c37b0416bfbcc6e699df9729384c3/ICS/malloclab/malloclab/menci.c
+
+nothing special...
+
+just another oi problem, but for low level system.
+
+that's it, ruc big project?
+
+---
+
+https://oier.baoshuo.dev/oier/75015
+
+"现在高三"
+
+what would their future be...
+
+swe?
+
+will swe still exist then?
 
 ---
