@@ -6,10 +6,6 @@ $fira$ `elegance`
 
 <!-- animated coming-of-age romantic fantasy adventure film -->
 
-<!-- stand w/ f. anti colored people. anti cisgender. not willing to make friends with trans. -->
-
-<!-- free @home, in the ever lasting dream. -->
-
 <!-- not backed by yc. -->
 
 <!-- OP/ED -->
@@ -163,13 +159,12 @@ $fira$ `elegance`
     - james406 posthog posthog.com
     - jamesclear jamesclear.com jamesclear.com/3-2-1 atoms.jamesclear.com authorsequity.com
     - jh3yy jhey.dev
-    - jjying jjying.com iconmoon.com
+    - jjying jjying.com iconmoon.com leongao leongao.com dribbble.com/leongao
     - joakimjansson theindexwebsite theindex.website
     - karrisaarinen karrisaarinen.com linear.app
     - laplace_news laplace.live
     - larrasket larr.net lr0.org
     - leohearts taroleohearts whatdoespotatoeattoday leohearts.com clansty nyac.at
-    - leongao leongao.com dribbble.com/leongao
     - linandliwoodworks
     - lingdong huang lingdong.works wy-lang.org
     - liuyi0922 61.life mdstudiohq
@@ -207,6 +202,7 @@ $fira$ `elegance`
     - tim mediastorm
     - tonsky tonsky.me
     - wengtianxin dandyweng.com blog.dandyweng.com camarts.app
+    - yearsprogress yearprogress
     - yetone alma.now
     - yuanchuan yuanchuan.dev
     - yuutaw yuuta.moe winsloweric.com
@@ -219,6 +215,7 @@ $fira$ `elegance`
     - bellard bellard.org ffmpeg.org qemu.org bellard.org/jslinux
     - bradwoods bradwoods.io garden.bradwoods.io
     - chriscoyier css-tricks.com codepen.io chriscoyier.net
+    - clansty nyac.at aquadx.net mcm.mumur.net <!-- ? -->
     - cline cline.bot
     - colinhacks colinhacks.com zod.dev trpc.io
     - disdjj blog.pdjjq.org
@@ -255,7 +252,7 @@ $fira$ `elegance`
     - lionleaf dwitter.net
     - luvletter2333 haruhi_smith nekox nagramx haruhi_channel
     - lyricat lyric.im
-    - mabbs mayx unmayx mayx.eu.org mabbs.github.io sayhanabi.net sayhuahuo.net mayx.eu.org/proxylist mayx.eu.org/other_repo_list
+    - mabbs mayx unmayx mayx.eu.org mabbs.github.io sayhanabi.net sayhuahuo.net saveweb.org mayx.eu.org/proxylist mayx.eu.org/other_repo_list yzqzss blog.othing.xyz saveweb.org
     - matrixcascade dbinary painterengine.com
     - mewx yuanzhongxia axia mewx.org wenku8.mewx.org wenku8.com crosschannel.games doubak
     - michaelyuhe coooolxyh emojionly.chat travelclaw.app
@@ -287,13 +284,13 @@ $fira$ `elegance`
     - wey-gu siwei.io nowled.ge nowledge-labs.ai mem.nowledge.co
     - xiaoyaocz xiaoyaocz.com simplelive
     - yusixian blog.cosine.ren/weekly
-    - yzqzss blog.othing.xyz saveweb.org
     - zhao-stanley stanleyzhao.com web.lab
   - education
     - ayumu maki-math.com
     - bellingcat bellingcat.com bellingcat.gitbook.io
     - codingstartup
     - commonants
+    - durov telegram.org tgnav tgnav.github.io tg10000.com tree.aza.moe
     - grant sanderson 3blue1brown.com
     - hmuniversity hmu.ac.cn wildchickenuniversity wcu.edu.pl
     - hzwer hzwer.com
@@ -303,7 +300,7 @@ $fira$ `elegance`
     - leerob leerob.com cursor.com
     - liyupi yupi.icu codefather.cn yuyuanweb.com
     - matrix67 matrix67.com matrix67.itch.io localhost_8080 localhost-8080.com
-    - menci men.ci oi.wiki loj.ac moeditor.github.io renbaoshuo oier.baoshuo.dev luoling8192 luoling.moe search.lingogram.app airi.moeru.ai maigolabs maigo.dev needle.maigo.dev chiyuki0325 chyk.ink hykilpikonna aza.moe amaoke.app aquadx.net voice.hydev.org vergedx
+    - menci men.ci oi.wiki loj.ac moeditor.github.io renbaoshuo baoshuo.ren oier.baoshuo.dev luoling8192 luoling.moe search.lingogram.app airi.moeru.ai maigolabs maigo.dev needle.maigo.dev chiyuki0325 chyk.ink hykilpikonna aza.moe amaoke.app aquadx.net voice.hydev.org vergedx CFe281953
     - nayuki nayuki.io
     - numberphile
     - omg_wc
@@ -334,6 +331,7 @@ $fira$ `elegance`
     - piracy6 telegram
     - programthink program-think.blogspot.com github.com/programthink
     - shao nian shan zhi jun
+    - vxunderground vx-underground.org
     - wang zhian
     - whynotwainao wainao.me
     - whyyoutouzhele 611study.icu zyo.run
@@ -343,52 +341,37 @@ $fira$ `elegance`
     - anlin zhihu
     - antoninoscordino ntonino ant14181 gsmc_pics ntonino.eu
     - bluebird_channel telegram
-    - butaikirin citronateo hee.ink
-    - c0de_sw0rd c0de-sw0rd.itch.io
+    - butaikirin citronateo hee.ink jiba.hee.ink
     - canyie canyiechannel blog.canyie.top
     - chesszyh lichess lingyuanyuanyuanyuanyuan notrealname zhihu
     - ciceroxiao hong520_x ciceros_self_talk ciceroxiao.github.io/hong525
     - clover_yan real_clover_yan khyan.top
     - cosmicac 2o181o28.github.io
-    - daimajia daimajia.com
     - discodyer codygua cody2333 cd.ai
-    - durov telegram.org tgnav tgnav.github.io tg10000.com tree.aza.moe
     - dustella_chan dustella.net
     - hitw93 tw93.fun weekly.tw93.fun
     - hsn8086 hsn8086k hsn8086.com hsn.recipe zh314.xyz
     - ilharp ilharper ilharper.com
     - inx4n1c ssaignee emerge ivan eisenberg telegram
     - kagurazakayashi uuu.moe
-    - keikolog telegram
-    - kenvix kenvixmeow kenvix.com
     - kungalgame kungalgamechannel upsetgal kungal.com
     - leanrada kalabasa leanrada.com
-    - leetheone telegram
     - liujiayi1111 tauri
     - liuran_jyz liuran_yanagi vimhub.org/jyz
-    - llennchan2003 nana_nyan03
+    - llennchan2003 nana_nyan03 <!-- ? -->
     - luan xiao meng zhihu
-    - manjusakah telegram
     - mao niang shen zhihu
     - maplefsnow maplef.top
-    - mbrjundaily telegram
     - megabits_mzq megabits.xyz
-    - mengxi969
     - mr_gao_it_words telegram
     - neko205-mx neko_25_mx blog.neko25.top srcblog.neko25.top
     - nickel_angel huamurui shiratsuyudachi
     - ninalex12 asakawauniversityofscience
     - notevenaneko qwq.icu
-    - nt_cubic telegram
     - philoart philoart2020 philo2022 philo-li philoli.com
-    - quantumtransf
     - ramsayleung pineapplebun ramsayleung.github.io
     - rongronggg9 rongrongqaq planetrong rong.moe rongrongbq.moe
-    - rosmontis233 rosmontis_daily telegram
-    - seishin_konran telegram
-    - shiratsuyudachi
     - starnekovo misakabit starneko.com
-    - the1nfinitesadness telegram
     - timochan timochan.cn mx-space.js.org
     - tinyfool tinyfool.org codechina.org
     - tinysnow itinysnowi tinysnow4yi tinysnow.github.io
@@ -398,23 +381,17 @@ $fira$ `elegance`
     - update4weekly
     - uselessideas club.q24.io
     - verymoes shiro.love
-    - vxunderground vx-underground.org
     - whitetravel whiteeating telegram
-    - xingye_channel telegram
-    - xkcd xkcd.com
-    - yearsprogress yearprogress
     - yeyouchuan yeyouchuan.me
-    - yifenggui apple
     - yifusuyi beiyanna3alf6 mtf.wiki
     - yihong0618 hyi0618
-    - yukarichannel telegram
+    - yukarichiba yukarichannel 0x7f.cc ewe.moe
     - yunyoujun yunyoujun.cn
-    - yusuke_takigawa
     - ziantt ziantt_official lightxi ziantt.top
   - niche
     - adhesiontek adt_china yt.adhesiontek.com
     - animenz
-    - cambridge
+    - cambridge cambridge_uni cambridge.org cam.ac.uk cambridge.gov.uk
     - cateen_hayatosumino
     - chessvibesofficial nelson lopez
     - danielnaroditskygm
@@ -445,6 +422,7 @@ $fira$ `elegance`
     - student he studio
     - ta mi gao
     - xiaoyao sanren
+    - xkcd xkcd.com
     - xu toso
     - yokidou shadowverse
     - youyi wakareno

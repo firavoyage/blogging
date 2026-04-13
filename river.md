@@ -21325,6 +21325,8 @@ maybe i could simply integrate it somewhere. no need to handle explicitly.
 
 ---
 
+`retro`
+
 印象里我好像参加过 noip.
 
 400 分拿了 5 分. 好像是输出可能性范围不大, 我输出了一个固定的个位数.
@@ -21758,3 +21760,120 @@ swe?
 will swe still exist then?
 
 ---
+
+`ref`
+
+关于 oier 的人数, 是可以计算的. 年份, 强度. 
+
+<!-- 包括只拿到一个语法题的. -->
+
+也不知道这意味着什么.
+
+upd:
+
+fun fact (李新野): https://oier.baoshuo.dev/oier/119
+
+btw, the ranking calc is not really good, seems some old players are forgotten.
+
+(upd: 感觉还没有 osu 游戏的人数多. OI 和 osu 其实差不多的. 除了前面一个有一些名校的传奇故事, which is 一些人极其或缺的, throughout the entire history of this country.)
+
+---
+
+> The "feeling" of Mozart is often described as a unique blend of elegance, joy, and profound emotional depth. While his music frequently carries a sense of "lightness" or optimism, it is also noted for its ability to capture complex human experiences—from playful wit to heartbreaking sorrow. 
+
+---
+
+> The letters X and D were chosen to visually represent a laughing face using standard keyboard characters. 
+>
+> Origin: It likely emerged in the late 1990s on IRC chat rooms and early forums before graphical emojis (like 😂) were widespread.
+>
+> A Pictogram, Not an Acronym: Unlike "LOL" (Laugh Out Loud), XD is a visual symbol that must be tilted 90 degrees to be "read".
+
+---
+
+https://t.me/s/renbaoshuo
+
+有一点保的说.
+
+不想 subscribe.
+
+(不过还是会记录的. 毕竟互联网上人那么少.)
+
+(wait. tg is not really minimal. i notice that years ago. but today i see... it has a complex bg with gradient on the preview page. i think that's durov's little trick.)
+
+all great apps have little tricks behind.
+
+---
+
+OMG_wc 创建时间：2020-11-11 02:53
+
+> 给的大样例也不是很强，所以 OI 赛制下这题可能会丢很多分，甚至爆 0。
+
+> 值得一提的是，这种方法可以卡常。上述代码是在关闭同步流加氧气优化的情况下 AC 的，这也体现出了这些优化的重要性。关闭同步流或者 O2 优化都会 TLE 一个点。这时我们还可以再对公元前的年份加以一个判断，具体代码见下（其实与之前讲的差不多，读者可以尝试自己实践一下）：
+
+(唉. 怎么题目描述不清楚, 全是字. 还卡常数. 笑.)
+
+---
+
+不知道 Clansty 是什么东西.
+
+不知道为什么很多人 cite 之.
+
+添加.
+
+(什么也没有. age. achievements. education. career.)
+
+(有很多成就. 什么音乐游戏, qq 机器人什么的. 笑.)
+
+又一个 nerd.
+
+猜 23 岁吧. 第一篇 blog 2021 年的.
+
+(懒得查 wayback 了.)
+
+---
+
+全没有了?
+
+https://web.archive.org/web/20201214054921/https://twitter.com/HuangHaoRui/status/1338360355219623936
+
+https://web.archive.org/web/20201126155958/https://twitter.com/HuangHaoRui/status/1331990857961013249
+
+web dev?
+
+大概是 ban. twitter 经常随意 ban. 
+
+fira 又怎么没有被 ban 过呢? 只是那时候注册玩, 也什么都不记得.
+
+> verdict:
+>
+> account huanghaorui were created on 2014.
+>
+> acc lcmenci were created on 2022.
+>
+> verdict end.
+
+---
+
+zhihu anlin has not updated yet.
+
+---
+
+> The term per capita is a Latin phrase that translates literally to "by the head" or "for each head". In modern English, it is used as a statistical unit meaning "per person". 
+
+---
+
+> The City of Cambridge (MA) has officially banned all city departments and official accounts from using X (formerly Twitter) as of March 2026, citing concerns over hate speech and disinformation. Meanwhile, Cambridge City Council (UK) and Cambridge City FC maintain active accounts. 
+
+---
+
+`retro`
+
+几年前的回忆. 把 mihoyo 的账号送给了游乐园里的陌生辽宁初中女孩. 
+
+她在 sr 充值了至少一个 648.
+
+抽取了 遐蝶. 没有武器和装备. "电子手办".
+
+---
+

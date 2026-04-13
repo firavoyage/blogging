@@ -1,4 +1,6 @@
-<!-- separated from readme -->
+<!-- stand w/ f. anti colored people. anti cisgender. not willing to make friends with trans. -->
+
+<!-- free @home, in the ever lasting dream. -->
 
 > world is powered by solitude
 
@@ -291,3 +293,5 @@
 <!-- wealth = civilization = development = power = education = grace = future. i support these. whoever with these. -->
 
 <!-- i would preserve history. feel free to use and analyze. i dont care anything. privary (protected tweets, private channels, whatever). anonymity. copyright. archive would keep its existence, as long as there are forks and local clones all over the world. about the future, idk. we all would die one day. but to preserve, as in human spirits, will ever last even if i have not been born. -->
+
+<!-- note: separated from readme -->
