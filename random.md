@@ -2,6 +2,8 @@
 
 <!-- free @home, in the ever lasting dream. -->
 
+<!-- Across the Great Wall we can reach every corner in the world. -->
+
 > world is powered by solitude
 
 > _⚓_

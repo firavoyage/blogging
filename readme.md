@@ -164,7 +164,7 @@ $fira$ `elegance`
     - karrisaarinen karrisaarinen.com linear.app
     - laplace_news laplace.live
     - larrasket larr.net lr0.org
-    - leohearts taroleohearts whatdoespotatoeattoday leohearts.com clansty nyac.at
+    - leohearts taroleohearts whatdoespotatoeattoday leohearts.com clansty nyac.at aquadx.net mcm.mumur.net
     - linandliwoodworks
     - lingdong huang lingdong.works wy-lang.org
     - liuyi0922 61.life mdstudiohq
@@ -215,7 +215,6 @@ $fira$ `elegance`
     - bellard bellard.org ffmpeg.org qemu.org bellard.org/jslinux
     - bradwoods bradwoods.io garden.bradwoods.io
     - chriscoyier css-tricks.com codepen.io chriscoyier.net
-    - clansty nyac.at aquadx.net mcm.mumur.net <!-- ? -->
     - cline cline.bot
     - colinhacks colinhacks.com zod.dev trpc.io
     - disdjj blog.pdjjq.org
@@ -256,6 +255,7 @@ $fira$ `elegance`
     - matrixcascade dbinary painterengine.com
     - mewx yuanzhongxia axia mewx.org wenku8.mewx.org wenku8.com crosschannel.games doubak
     - michaelyuhe coooolxyh emojionly.chat travelclaw.app
+    - misprit7 built-from-scratch from_scratch_yt xander.naumenko.com
     - moxie signal.org
     - nat friedman nat.org github
     - nekomeowww ayakaneko ayaka.moe ayaka.io nolebase.ayaka.io littlesound rizumu.me
@@ -300,7 +300,7 @@ $fira$ `elegance`
     - leerob leerob.com cursor.com
     - liyupi yupi.icu codefather.cn yuyuanweb.com
     - matrix67 matrix67.com matrix67.itch.io localhost_8080 localhost-8080.com
-    - menci men.ci oi.wiki loj.ac moeditor.github.io renbaoshuo baoshuo.ren oier.baoshuo.dev luoling8192 luoling.moe search.lingogram.app airi.moeru.ai maigolabs maigo.dev needle.maigo.dev chiyuki0325 chyk.ink hykilpikonna aza.moe amaoke.app aquadx.net voice.hydev.org vergedx CFe281953
+    - menci men.ci oi.wiki loj.ac moeditor.github.io renbaoshuo baoshuo.ren oier.baoshuo.dev luoling8192 luoling.moe search.lingogram.app airi.moeru.ai maigolabs maigo.dev needle.maigo.dev chiyuki0325 chyk.ink hykilpikonna aza.moe amaoke.app aquadx.net voice.hydev.org vergedx cfe281953 memset0 mem.ac memset0.cn
     - nayuki nayuki.io
     - numberphile
     - omg_wc
@@ -368,6 +368,7 @@ $fira$ `elegance`
     - nickel_angel huamurui shiratsuyudachi
     - ninalex12 asakawauniversityofscience
     - notevenaneko qwq.icu
+    - pea3nut huasheng_pea pea3nut.info
     - philoart philoart2020 philo2022 philo-li philoli.com
     - ramsayleung pineapplebun ramsayleung.github.io
     - rongronggg9 rongrongqaq planetrong rong.moe rongrongbq.moe
@@ -504,6 +505,7 @@ $fira$ `elegance`
   - mephisto (queen bee)
   - qun ding (mi feng chu)
   - nv tong chong bai (0ne2345)
+  - mo ni chao (menci)
   - tui yi de ni (menci & wxh010910 & yan qval & krydom & niro bc & wer key tom_ftd & \_\_stdcall & created_equal & whzzt & wy1627)
   - exaggeration (eason chan)
   - under mount fuji (eason chan)

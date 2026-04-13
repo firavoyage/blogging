@@ -395,6 +395,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `9` 2026.04.10
 - `10` 2026.04.11
 - `11` 2026.04.12
+- `12` 2026.04.13
 
 ## gaming
 
@@ -21877,3 +21878,76 @@ zhihu anlin has not updated yet.
 
 ---
 
+> The question of whether someone who has committed a killing should turn themselves in touches on deep legal, ethical, and psychological nerves. There isn’t one single "correct" answer, as the perspective shifts depending on whether you’re looking at it through the lens of the law, morality, or self-preservation.
+
+<!-- maybe it's a doubao (under ml cn censorship) specific problem. -->
+
+---
+
+> In terms of pure technical design, RISC-V is highly regarded for its simplicity, modularity, and "clean-slate" efficiency. While ARM and x86 are the results of decades of layered patches and legacy requirements, RISC-V was designed with the benefit of hindsight to avoid architectural bloat. 
+
+> Instruction Count per Task: Because instructions are so simple, a RISC-V program might need more individual instructions to do the same task as a complex x86 program.
+>
+> Design Freedom = Fragmentation: Since everyone can add their own custom extensions, there is a risk that "Company A's" RISC-V software won't run perfectly on "Company B's" RISC-V hardware if they aren't careful. 
+
+> RISC-V was not designed by a single person, but by a small team at the University of California, Berkeley, starting in May 2010. 
+
+---
+
+> A classic example of a "too simple" system is Basic Regular Expressions (Regex).
+> While Regex is incredibly powerful for searching text, it is technically a Finite State Machine. It lacks a "memory" (like a stack or a tape) that can grow.
+
+---
+
+yuan zhe 开播了.
+
+有意思.
+
+标题还是那个默认的. "首次开播..."
+
+在写 cpp. 没有弹幕.
+
+nowcoder?
+
+---
+
+`retro`
+
+小学的时候信息课, 玩 scratch. (和 ms office. 和电脑基本使用, 比如按快捷键, 要先按 ctrl 再按字母. 反过来没有效果. 虽然也没有学很多, 比如直到很久之后, 看到别人操作, 才直到网页上, alt 加滑动可以复制链接文本. 虽然 twitter 好像不 support. software-specific 应该都是后来才知道的, 比如 quirks.)
+
+学打字. 下载过 jinshan 打字 (被老师推荐的). 但 fira 好像用了一个很有个人特色的 diy 方法... fira 用 a4 纸 (那时候应该可以用水笔了, 小学低年级不允许会没收. 虽然 fira 还是很喜欢铅笔, 直到后来因为铅笔的性能问题才更换水笔... 但这真的好吗? 会不会太快, 太傲慢了? 没有了铅笔的耐心和细致.) 画了一个键盘. 桌子上面有一个透明塑料 (虽然有些发黄了), 很多人会放东西在夹板中. 老师们也会如此, 只不过他们有特权使用玻璃.
+
+后来, 逛福州路书城, 在很高的一个楼层, 买了一本 "和孩子一起玩编程". 已经丢弃了. 不过书很好. 我从那时候才开始用 pygame (错误的). 那本书有一个细节, 就是会让每一页可以单独运作.
+
+后来, 有朋友送书, 我随意选了一些可能好玩的.
+
+后来, 也买了一些书. 大致上, 关于 cp 和 web.
+
+小学的时候, 去一个朋友家里. 她有一本关于 scratch 的书. (笑).
+
+(这句话应该放在下一段的, 但是放下去, 可惜这个连接词就不对了, 也不想放最后破坏回味.) 自己报的班, 大致归因到流行. 大人就是这样的, 强社交, 还是线下社交 (imply: 信息闭塞). 那时候奥数不是也很流行吗? 肯定是参加过一些培训的. 但是现在看, 那都是一些强结论的弱推论. 比如数论 (整除), 说到底就是 加减乘除乘方 mod. 但是没有 mod 这个语法. 所以把什么 3, 5, 7 什么的整除性质都 list 一遍... (今天上午还在 twitter 上看到有一个人, 说自己的孩子三年级, 正在 scratch 转 python.)
+
+课程. 有很多很多课程. 校园内. 校园外. 线上. 线下.
+
+可惜好多都是领导滥竽充数 (或者说形式主义的). 就是只教语法. 反反复复教语法. 算法几乎没有. 
+
+记得初中时候, 有一个班级的同学, 强制去学习 python 了. 是一个校外的教师.
+
+高中也有吧. 社团之类的. 好像玩 aduino. 底层是 c/cpp. 不过同学和我都更喜欢上网. 
+
+当时还有校内老师监督, 要求他好好上课. 于是他不得不采取了操作. 但是我通过不断按 win e 调用 file explorer, 然后 shutdown, 强制关闭监控程序之后取消 shutdown (关闭 file explorer 要很久). 然后顺利上网冲浪. (笑). 现在那些同学都在哪里了呢? 会不会去了很平凡的地方? (虽然, 他们家里应该都很有钱才是.)
+
+只是有钱的人, 也会玩 tencent games. (哭). 有些会在周末约朋友 (关系, 性别皆有), 去 ktv 或者哪里玩. 
+
+一点也不 nerd! 而且考试也考不过我, 还完全不在意. (哭).
+
+---
+
+> 选手程序公示（通常指信息学奥林匹克竞赛，即 NOI/NOIP 系列赛事）是确保比赛公平、公正的重要环节。
+> 
+> 这确实是目前 NOI/NOIP 公示制度中的一个普遍痛点。由于各省组织单位（省奥信委/特派员）的资源和习惯不同，信息公示的透明度和可访问性存在很大差异。
+>
+> 模范省份（如浙江、江苏）：通常有专门的省竞平台（如浙江省青少年科技教育协会），文档归档非常清晰。
+> 信息封闭省份：部分地区仅在省科协办公楼张贴，或仅将文件发给各校领队教练。
+
+---
