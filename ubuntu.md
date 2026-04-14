@@ -2065,6 +2065,12 @@ sudo systemctl restart earlyoom
   git config --global credential.helper store
   ```
 
+- normalize connectivity
+
+  ```sh
+  git config --global http.sslVerify false
+  ```
+
 - config secrets
 
   `~/.git-credentials`
