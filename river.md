@@ -21951,3 +21951,250 @@ nowcoder?
 > 信息封闭省份：部分地区仅在省科协办公楼张贴，或仅将文件发给各校领队教练。
 
 ---
+
+```
+//freopen("tree.in","r",stdin);
+//freopen("tree.out","w",stdout);
+//wo xiang shang jian qie ban
+//CGZ AK IOI
+//YJR AK IPYO
+//LCX AK IMO
+//I become a cow-horse
+//I LOVE CCF,everyone rp++
+```
+
+```
+map<ll,int> mp,Mp;
+int n,tot,cnt,fr[N];ll pos[N],qwq[N],QwQ[N]; char ops[20],opt[N*N];
+
+//Author: Haitang0520 with dXqwq
+```
+
+```
+//Poor me, I can't solve this problem, it is so difficult for me that I give up thinking about it.
+//Poor me, I couldn't solve this problem, it was so difficult for me that I gave up thinking about it.
+//Poor me, the problem can't be solved by me, I am gave up thinking about it because of its difficulty.
+```
+
+```
+/*
+CSP-S 2023 travel log
+
+16:00
+I have been AFO for over 1 month, forgetting all of the templates. T1 seems to be not difficult but I have no confidence on working out it. T2 is a problem about string. T3 is a 大模拟(oh no I even forgot lots of nouns) whose answer is wrong at first(oh CCF).T4 is too hard to understand what kind of 算法 it signals for me! My eyes are't feeling well and I don't want to solve T2-4!
+17:02
+因为发现 my English is too poor，还是用中文吧。写了 T3 的操作 1、2，感觉后面不会了。周围大佬们的打字声及其具有压迫感，而我只想睡觉。
+17:10
+今天玩梗玩魔怔了，再玩玩。“拿下，拿下，一定要拿下！”一个谁都不能拿下，一个谁都不能拿下，也是绝了。
+17:18
+突然意识到，当我有闲情雅致写赛时日志时，证明我已经看淡了。嗟乎！念旧日热情，感慨不已。
+17：21
+这大模拟果然碰都不该碰。
+17:24
+听这男性老者唧哩呱啦和中年女同事讲个不停才想起来怎么每年都是这两人监考啊。
+17:33
+写了下操作 3，随手粘贴了下样例 2 发现目前为止写的都是错的，摆了。
+17:40
+还有 50min 才结束，我想回家打 florr...垃圾手机又开不开机，路上玩不了了。
+17：44
+出去排废发现好冷啊。
+17:50
+T2T4 输出 rand(), 能拿分说明我运气成为传奇，嗯。
+17:54
+发现 Code::Blocks 可以背单词，只不过是英英辞典。
+18:22
+快结束了，T2 暴力没写出来。
+*/
+```
+
+```
+/*
+Dream（Clay）保佑，CSP-S2023 RP++，代码无bug！
+Notch保佑，CSP-S2023 RP++，代码无bug！
+圆神（Kaname Madoka）保佑，CSP-S2023 RP++，代码无bug！
+为焰魔（Akemi Homura）献上一只QB，保佑CSP-S2023 RP++，代码无bug！
+*/
+/*
+CCF coin collect!
+FUCk CCf!
+*/
+/*
+永远喜欢圆神（Kaname Madoka）!
+永远喜欢焰魔（Akemi Homura）!
+永远喜欢炮姐（Misaka Mikoto）!
+永远喜欢杏子!
+永远喜欢沙耶香!
+永远喜欢黑子!
+永远喜欢麻美!
+永远喜欢石蜂操折！
+永远喜欢初音Miku！
+永远喜欢洛天依！
+永远喜欢奈芙莲！
+最后，永远喜欢珂朵莉！！！
+*/
+/*
+圆焰太甜了！
+红蓝太甜了！
+黄白太甜了！
+至于QB，剁了！
+*/
+/*
+OI什么的，不干了啦！
+从今天起，AFO！
+*/
+```
+
+```
+// classical ending 
+// Happy Grade 12.University Entrance Exam rp+=INF
+// Sukwants zyt 2745518585 syysongyuyang pokefunc 251sec zsq147258369
+```
+
+```
+/*
+arena
+actuall i have spent about 3 hours to write T1 ~ T3
+and i AC big data and i test them on NOI_LINUX for 30mins
+so i may get 300pts (i hope so)
+
+There is a long timian on T4, i don't want to see problems anymore
+I'm in SC, so if i can get every pts i can and AC just a hard problem,
+i can get tg1= and get in NOIP
+
+i LOVE CCF i LOVE CCF i LOVE CCF love ccf love ccf
+if you can see me on qipaxingweidashang-CSP-S-2024 CSP-S CSP-J/S CSP-J
+don't : //freopen //freopen //freopen
+so good good prepare NOIP and get the points that you want
+i am gaoyi grade so may be i will be AFO this year or the next year
+i don't expect i can get in SCshengdui, but i want to get NOIP 1= (i hope so)
+
+i love my OI teacher HS
+i love my OI class_room SW_4_405
+the happiest day is the days i was trainning with my friends
+althougt it's holiday
+
+Doing the things i like with people who loves it too is so rare.
+if i can get good pts in NOIP, i can stay in jifang for long
+so i will gangbate ! 
+
+
+there hai left 00:31:52
+but i don want to write T4
+i think T4's code is must be very very long
+so i don't write T4
+
+22mins later i can have a big meal with my friends in jifang ohhhhh
+we go to eat hot pot
+why time goes so slowly ?????? aaaaaaaaaaaaaaaaaaaaaaaaaaa
+wu neng kuang nu
+
+i really dont want to write T4
+it's my biggest effort to see T4 ti mian and understand what chutiren want to say
+if dalao write T4, just give me see see
+if code > 100 lines
+so it's the good choice to no write T4
+why T4 has a so long timian ??????? i think it's a big moni
+i love the problem that has easy timian but hard
+it is what attracts me
+no a long timian to make me don't want to see the problem!!!!! 
+
+there also has 17mins, i don't want to write and want to have a big meal
+after the CSP, may be i'll write my huiyilu
+*/
+#include <iostream>
+#include <cstdio>
+const int N = 100005;
+int a[N], q[N], ta[N]; 
+int x[4];
+char c[N];
+//i only want to AC special BBBBBb
+/*
+But it seems more difficult than i think 
+there left me 46mins
+so i (ting tian you ming) ba
+*/ 
+int main(){
+	freopen("arena.in", "r", stdin);
+	freopen("arena.out","w",stdout);
+	printf("0");
+	return 0;
+} 
+```
+
+"frnds"...
+
+i remember when the russian frnd asks me "do you have frnds?"
+
+```
+//Hi, to you who was reading this code.
+//hi,ccf.
+//"write my name in front of the mountains!" says Xwty.
+//this may be my last year in the road of NOI.
+//I am an xxs, starting to code in grade 3 and c++ in the summer of 4to5.
+//I love OI, and I have Worked hard.
+//in my first year, i got 63pts in the first round(-j), ensureing that my first year of OI has no vectory.
+//now, i am better at coding, 83.5 and 51.5 pts in the first round, so here i am, compeating in both levels.
+//today morning, i took part in junior, maybe 230~260 pts? i could be 1=!
+//but now, here I am,sitting in the room of Seinor, having no idea of how to code.
+//while two "NOI 2024" T-Shirted NOIers strikes away with the keybord, i was left with a broken mouse, a stuck kkkkkkeybord, and a brain of mash.
+//maybe 25pts? (if i was lucky)
+//sto CHEN_ZHE KKKSC03 orz
+//%%%%%%%%%%%%%%%%%%%%%%%%
+//goodbye, OI!
+
+//Hint: just put this in "qipadaimadashang"!
+//you can find me on luogu: chenyuheng01 
+//github: chengyuheng-lucas
+//i will hu guan with you on luogu.
+//thank you, OI!
+
+//to ensure that you find this part:
+//--------------------------do not read below this line--------------------------\\
+//freopen
+//CCF
+//Genshin
+
+int main(){}
+```
+
+```
+/*
+18:27
+大抵是退役赛了
+还是有很多遗憾的吧,T2若只debug打了太久,没有时间写T3T4的暴力
+man,what can I say?OI OUT!
+如果有机会的话,XCPC见!
+Goodbye OI!
+*/
+```
+
+```
+/*
+...
+他妈的终于对了 
+I want to get NOIP 1= !
+This is my last chance.
+Please!
+I will wear Lolita!*/
+```
+
+```
+/*
+it's my last time to join CSP.
+my first CSP has been end with 40pts and 4= in 2021
+and i can't get1= in 2022 & 2023. then i AFOed for
+an year to now. now i'm in grade 11 and have not
+do anything about OI for 10 months. but i think i
+have been trying my best this time. i can get accep-
+ted in T1 and T2 now, whick i can't image forever.
+though i can only get 20 pts in T3 and 0 in T4, it's
+my best CSP now and then.
+if i can get 1=, i may go to Sichuan university with
+CTF works. if not, i will completely AFO.
+byebye, OI.
+
+P.S. i am really bad in english
+*/
+```
+
+---

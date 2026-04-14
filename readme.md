@@ -341,7 +341,7 @@ $fira$ `elegance`
     - anlin zhihu
     - antoninoscordino ntonino ant14181 gsmc_pics ntonino.eu
     - bluebird_channel telegram
-    - butaikirin citronateo hee.ink jiba.hee.ink
+    - butaikirin citronateo hee.ink jiba.hee.ink <!-- ? -->
     - canyie canyiechannel blog.canyie.top
     - chesszyh lichess lingyuanyuanyuanyuanyuan notrealname zhihu
     - ciceroxiao hong520_x ciceros_self_talk ciceroxiao.github.io/hong525
@@ -363,6 +363,7 @@ $fira$ `elegance`
     - mao niang shen zhihu
     - maplefsnow maplef.top
     - megabits_mzq megabits.xyz
+    - mirekintoc
     - mr_gao_it_words telegram
     - neko205-mx neko_25_mx blog.neko25.top srcblog.neko25.top
     - nickel_angel huamurui shiratsuyudachi
@@ -388,7 +389,7 @@ $fira$ `elegance`
     - yihong0618 hyi0618
     - yukarichiba yukarichannel 0x7f.cc ewe.moe
     - yunyoujun yunyoujun.cn
-    - ziantt ziantt_official lightxi ziantt.top
+    - ziantt ziantt_official lightxi ziantt.top mengxi969 ch3rryzhu mengxiblog.top
   - niche
     - adhesiontek adt_china yt.adhesiontek.com
     - animenz
