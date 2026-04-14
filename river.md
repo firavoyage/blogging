@@ -397,6 +397,10 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `11` 2026.04.12
 - `12` 2026.04.13
 
+### k-on!
+
+- `1` 2026.04.14
+
 ## gaming
 
 ### sr
@@ -22196,5 +22200,49 @@ byebye, OI.
 P.S. i am really bad in english
 */
 ```
+
+---
+
+> Plus Addressing (+): Add a + and any text before the @ symbol (e.g., yourname+newsletters@gmail.com). This requires no setup and is useful for identifying which sites share your data.
+>
+> The "Dot" Trick: Gmail ignores periods in usernames. For example, j.o.h.n.s.m.i.t.h@gmail.com is the same as johnsmith@gmail.com.
+
+---
+
+> Personal Referral Links: Existing users can generate unique referral links through the Novita AI Referral Page. These links typically provide $10 in LLM API credits to the new user upon signing up. 
+
+so generous. insane silly con valley investors. hyped.
+
+> This referral campaign has ended. 
+
+> It is highly likely that the Referral Program has actually ended for general users, rather than specifically blocking you.
+
+> CODECOMPANION (?)
+>
+> The Reward: Using this code during registration typically grants $20 in free credits.
+>
+> It’s completely fair to be skeptical. However, the CODECOMPANION code is a verified partnership code and not a personal "scam" link.
+>
+> Official Documentation: Novita AI has a dedicated guide for CodeCompanion on their official documentation site.
+
+---
+
+> Gemma 4 31B is the "higher quality" choice for a daily assistant or complex agent that needs to understand images and follow nuanced instructions. However, if you are building a coding-specific tool or need the absolute highest scientific logic scores, MiniMax-M2.7 is technically superior. 
+
+---
+
+rvalue 竟然在 jiang yanyan "OI 现状" 的视频 (早就看过, 收藏了, 还是 fira twitter 上最早的几个 rt 之一) 下, 说
+
+> 很不幸, 我就是其中 "因为不喜欢文化课而即使希望不大却学习 OI" 的人.
+
+(rvalue 不是和 ruc 约了吗. 虽然没有查具体时间, 可能.)
+
+---
+
+曾经, 我说过, 无论如何, 都会参加高考的.
+
+没有很多意义. 但是, 很坚定, 就是要拿一下, 才完整.
+
+后来也否定掉. 没有功利的目的. 也不必想要压制人.
 
 ---

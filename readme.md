@@ -300,7 +300,7 @@ $fira$ `elegance`
     - leerob leerob.com cursor.com
     - liyupi yupi.icu codefather.cn yuyuanweb.com
     - matrix67 matrix67.com matrix67.itch.io localhost_8080 localhost-8080.com
-    - menci men.ci oi.wiki loj.ac moeditor.github.io renbaoshuo baoshuo.ren oier.baoshuo.dev luoling8192 luoling.moe search.lingogram.app airi.moeru.ai maigolabs maigo.dev needle.maigo.dev chiyuki0325 chyk.ink hykilpikonna aza.moe amaoke.app aquadx.net voice.hydev.org vergedx cfe281953 memset0 mem.ac memset0.cn
+    - menci men.ci oi.wiki loj.ac moeditor.github.io renbaoshuo baoshuo.ren oier.baoshuo.dev luoling8192 luoling.moe search.lingogram.app airi.moeru.ai maigolabs maigo.dev needle.maigo.dev chiyuki0325 chyk.ink hykilpikonna aza.moe amaoke.app aquadx.net voice.hydev.org vergedx cfe281953 memset0 mem.ac memset0.cn rvalue
     - nayuki nayuki.io
     - numberphile
     - omg_wc
@@ -349,6 +349,7 @@ $fira$ `elegance`
     - cosmicac 2o181o28.github.io
     - discodyer codygua cody2333 cd.ai
     - dustella_chan dustella.net
+    - gzx7301 telegram
     - hitw93 tw93.fun weekly.tw93.fun
     - hsn8086 hsn8086k hsn8086.com hsn.recipe zh314.xyz
     - ilharp ilharper ilharper.com
@@ -366,7 +367,7 @@ $fira$ `elegance`
     - mirekintoc
     - mr_gao_it_words telegram
     - neko205-mx neko_25_mx blog.neko25.top srcblog.neko25.top
-    - nickel_angel huamurui shiratsuyudachi
+    - nickel_angel huamurui huamumo huamurui.github.io shiratsuyudachi
     - ninalex12 asakawauniversityofscience
     - notevenaneko qwq.icu
     - pea3nut huasheng_pea pea3nut.info
@@ -576,7 +577,7 @@ $fira$ `elegance`
   - too many losing heroines! (2024)
   - clannad (2007)
   - puella magi madoka magica (2011)
-  - .k-on! (2009)
+  - k-on! (2009)
   - .air (2005)
   - .sword art online (2012)
   - .a certain scientific railgun (2009)
@@ -838,6 +839,7 @@ $fira$ `elegance`
 - 庭树不知人去尽 春来还发旧时花
 - 又七年 还自扬州 复到舅家问焉 曰 泯然众人矣
 - 聪明的 你告诉我 我们的日子为什么一去不复返呢
+- 花和人都会遇到各种各样的不幸
 
 ## compass
 
