@@ -182,6 +182,7 @@ $fira$ `elegance`
     - openai openai.com chatgptapp chat.com
     - pidanzhoujiala
     - producthunt producthunt.com producthunt.com/shoutouts producthunt.com/golden-kitty-awards/hall-of-fame
+    - project-sekai-ctf sekai.team ctf.sekai.team
     - q.ai
     - re-xyr dayli.ly
     - rea1donandtrump rene.wang detail.design ygeeker.com
