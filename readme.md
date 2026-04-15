@@ -268,6 +268,7 @@ $fira$ `elegance`
     - risin42 nagramx
     - rosepineus
     - ruanyf ruanyf weekly ruanyifeng.com/blog
+    - rxliuli rxliuli.com rxliuli.com/blog rxliuli.com/project store.rxliuli.com
     - sama sam altman blog.samaltman.com openai.com
     - samuelqzq qzq.at
     - scavenger869 loongphy.com
@@ -301,7 +302,7 @@ $fira$ `elegance`
     - leerob leerob.com cursor.com
     - liyupi yupi.icu codefather.cn yuyuanweb.com
     - matrix67 matrix67.com matrix67.itch.io localhost_8080 localhost-8080.com
-    - menci men.ci oi.wiki loj.ac moeditor.github.io renbaoshuo baoshuo.ren oier.baoshuo.dev luoling8192 luoling.moe search.lingogram.app airi.moeru.ai maigolabs maigo.dev needle.maigo.dev chiyuki0325 chyk.ink hykilpikonna aza.moe amaoke.app aquadx.net voice.hydev.org vergedx cfe281953 memset0 mem.ac memset0.cn rvalue
+    - menci men.ci oi.wiki loj.ac moeditor.github.io renbaoshuo baoshuo.ren oier.baoshuo.dev luoling8192 luoling.moe search.lingogram.app airi.moeru.ai maigolabs maigo.dev needle.maigo.dev chiyuki0325 chyk.ink hykilpikonna aza.moe amaoke.app aquadx.net voice.hydev.org vergedx cfe281953 memset0 memset0c mem.ac memset0.cn rvalue rvalue.moe
     - nayuki nayuki.io
     - numberphile
     - omg_wc
