@@ -400,6 +400,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 ### k-on!
 
 - `1` 2026.04.14
+- `2` 2026.04.15
 
 ## gaming
 
@@ -13388,7 +13389,7 @@ minhao, (xiaofeng?) 在另一角. 我不知道他们在说什么, 动画吧 (按
 
 (顺便一提, 高二下, 我问 liuyuan, 你觉得高考时她会是第一吗, 轻轻指着前排的 xinyu. 她说, 我不知道. 是啊, 一切皆有可能.)
 
-相比于, 如今, liqiong, 每节课都会提到 "考试不是为了成就你, 是为了过滤你, 并是你无话可说, 内归因" "废物/螺丝钉/拧螺丝钉的人" "下九流/农工商/士大夫/...". 我看了看底下的同学, 有的底下放着 (挂机, 或者不太需要操作的) 游戏, 有的带着耳机, 有的桌上不是本学科的内容, 不知道有多少人一遍遍地听也不厌烦. 我确实理解了, 她对绩效和职称的向往, 对学生的野心. 但她似乎缺少了, 语文中强调的, 读者意识. 人生是旷野. 人是自由的, 对于这些 (出身不错的) 学生更是.
+相比于, 如今, liqiong, 每节课都会提到 "考试不是为了成就你, 是为了过滤你, 并使你无话可说, 内归因" "废物/螺丝钉/拧螺丝钉的人" "下九流/农工商/士大夫/...". 我看了看底下的同学, 有的底下放着 (挂机, 或者不太需要操作的) 游戏, 有的带着耳机, 有的桌上不是本学科的内容, 不知道有多少人一遍遍地听也不厌烦. 我确实理解了, 她对绩效和职称的向往, 对学生的野心. 但她似乎缺少了, 语文中强调的, 读者意识. 人生是旷野. 人是自由的, 对于这些 (出身不错的) 学生更是.
 
 英语 (忘记名字了), 每节课都会辱骂学生. 就是辱骂. 对着睡觉的学生. 为什么他们只在英语上睡? 为什么要一遍遍地叫醒? 甚至不惜打断叙述? 在体育课上, 我听见别的班级的学生, 散步时表达的同样的心绪 (不满于在课上泄愤的行为).
 
@@ -13402,7 +13403,7 @@ minhao, (xiaofeng?) 在另一角. 我不知道他们在说什么, 动画吧 (按
 
 不过更多时候, 学校给我的印象是什么呢. 互相抄写答案, 演戏. 他们真的喜欢的, 是游戏, 小说吧. 他们笑得最开心的时候, 从来不是什么解出题目, 看到厉害的方法 (初中倒是有这样的 aha moment), 而是同学滑稽的操作 (一看就错的解答), 或者跟着老师一起嘲讽一个同学. 学校是学习的地方吗. 我不觉得.
 
-对我而言, 不参与大学, 大专, 或者任何的大学, 都可以了. 围棋中, 只有第一名会被记得, 其他的名次只有自己记得. djhs 是没有 tp (tsinghua, peking) 率的. 真的追求 tp, 也要付出比一些人多得多的努力, 而我是不愿意的. 而如果不是这些最强的学校, 我甚至不会把他放在个人主页. 高一时, 我怎么问, 她都不说 (shiyu 是 shnu 的), 到最后才说. 而 ecnu 的基本都会拿来炫耀 (不是 ecnu 不会说). 除此之外, 就是简历上, 一些功力的目的了. 我没有那么在意 (或许因为我条件不错, 也不太追逐物质世界, 可能是语文教我的吧).
+对我而言, 不参与大学, 大专, 或者任何的大学, 都可以了. 围棋中, 只有第一名会被记得, 其他的名次只有自己记得. djhs 是没有 tp (tsinghua, peking) 率的. 真的追求 tp, 也要付出比一些人多得多的努力, 而我是不愿意的. 而如果不是这些最强的学校, 我甚至不会把他放在个人主页. 高一时, 我怎么问, 她都不说 (shiyu 是 shnu 的), 到最后才说. 而 ecnu 的基本都会拿来炫耀 (不是 ecnu 不会说). 除此之外, 就是简历上, 一些功利的目的了. 我没有那么在意 (或许因为我条件不错, 也不太追逐物质世界, 可能是语文教我的吧).
 
 我有许多兴趣爱好. 放学后, 即使作业不碰 (不打开书包), 也没什么自己的时间了. 所以很失落. 有时, 没有什么要做了, 却要关到放学. (我觉得自己的成就不在考学.)
 
@@ -22323,3 +22324,58 @@ common react specific error? (confirmed: next.js)
 
 ---
 
+https://blog.cubercsl.site/post/ec-final-2022/
+
+no dark mode detection. incompatible screen size (horizontal scroll bar).
+
+---
+
+> Theoretically, yes, you could use the string returned by useId as a "key" to look up or update data in an external store (like a global object or a Map). However, useId itself cannot replace useState because it lacks the core mechanism that makes useState work: the ability to trigger a re-render. 
+
+---
+
+> Yes, Zustand is significantly more popular than Jotai by several key metrics: 
+
+---
+
+> Yes, Schubert's major sonatas are famously long—often called his "heavenly lengths". A single sonata can last anywhere from 20 to 45 minutes. 
+>
+> The Roman numerals (I, II, III, IV) indicate the four separate movements that make up one complete sonata. Think of them like chapters in a book; each has a distinct mood and tempo, but they are meant to be heard together as one journey. 
+
+---
+
+> Athena is the first ever AI to understand the concept of time. It knows the current time, can perform periodic tasks, schedule future actions, set reminders, and manage alarms.
+
+?
+
+warau.
+
+---
+
+> Yes, you can distinguish between them, but you have to look at different pieces of data. While it is very easy to fake a commit date, it is much harder to fake the push date on GitHub. 
+> 
+> Summary: If you are trying to verify a deadline, never trust the commit date. Always check the Push Activity or the timestamp on a Pull Request to see when the code actually reached GitHub. 
+
+> Yes, you can push a commit that appears to be from the future by manually setting a future date when you create the commit. While the commit itself is pushed now, GitHub will accept the future-dated metadata and display it in the repository history. 
+
+---
+
+> In real life, using inconsistent pronunciation within a single sentence—like saying "schedule" with a British "sh-" but then saying "water" with an American "d" sound—is very common and usually isn't considered "wrong." 
+>
+> Linguistically, this is often called dialect switching or a form of code-switching. It typically happens for a few reasons: 
+>
+> Ultimately, as long as you are intelligible, most people won't care about the mix. 
+
+---
+
+"vue 3 rel"
+
+does not matter to non vue users.
+
+---
+
+法律不是神圣的.
+
+z library 是一个很好的制衡.
+
+---

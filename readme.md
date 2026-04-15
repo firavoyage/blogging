@@ -229,7 +229,7 @@ $fira$ `elegance`
     - hakadao hakadao.cc bewlybewly
     - haoel coolshell coolshell.cn
     - hatschannel telegram
-    - himself65 himself65.com affine.pro
+    - himself65 himself65.com himself65.com/blog affine.pro better-auth.com athenalab.ai llamaindex.ai jotai.org <!-- waku.gg textea.co mask.io funda.ai -->
     - hullqin game.hullqin.cn
     - huxpro huangxuan.me
     - hydrogene7 huangzheng2016 hz2016 blog.hz2016.com/ticktack
@@ -298,6 +298,7 @@ $fira$ `elegance`
     - hzwer hzwer.com
     - jiangly codeforces
     - jiangyy jiang yanyan jyywiki.cn
+    - kalasoo ming.today yinming.me xitu.juejin.cn
     - kkksc03 k.luogu.org luogu.org
     - leerob leerob.com cursor.com
     - liyupi yupi.icu codefather.cn yuyuanweb.com
