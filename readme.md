@@ -402,6 +402,7 @@ $fira$ `elegance`
     - chessvibesofficial nelson lopez
     - danielnaroditskygm
     - deco27
+    - eileen chang
     - endgame endgamebattlebot.com
     - funshiki
     - gao zixiang
@@ -432,8 +433,7 @@ $fira$ `elegance`
     - xu toso
     - yokidou shadowverse
     - youyi wakareno
-    - zhang ailing
-    - zhang jiao
+    - zhang jiao zhangqi.com.cn
   - isekai
     - acetaffy812 echo spade
     - angelnekochan
@@ -745,7 +745,7 @@ $fira$ `elegance`
   - google · gemini · chatgpt · grok · deepseek · mistral ai
   - wikipedia · miraheze · fandom · moegirl.icu · oi wiki · ctf wiki · mdn · jisho.org · hpoi
   - internet archive · archive.today · archive.softwareheritage.org · the pirate bay · z library · anna's archive · archivecaslytosk.onion
-  - youtube · berryberry · douyin · niconico · hololist · vtbs.moe · aicu.cc
+  - youtube · berryberry · douyin · niconico · hololist · vtbs.moe · aicu.cc · laplace.live · danmakus.com
   - old reddit · twitter · zhihu · nga bbs · baidu tieba · pincong.rocks
   - hacker news · lobste.rs · v2ex · liqi.io · github trending · product hunt · codepen spark
   - figma · paper.design · unicorn.studio · canva · khroma · coolors
