@@ -22374,8 +22374,101 @@ does not matter to non vue users.
 
 ---
 
-法律不是神圣的.
-
 z library 是一个很好的制衡.
 
 ---
+
+> LangChain's most popular use case is building Retrieval-Augmented Generation (RAG) systems. These applications allow a large language model (LLM) to "read" your private data—like PDFs, spreadsheets, or internal wikis—and answer questions based specifically on that information rather than just its general training data. 
+
+---
+
+> You can, but it's usually the "nuclear option." Re-cloning is basically deleting your project folder and starting over, which works but is often unnecessary.
+
+> Yes, "origin" is the default name Git gives to the remote repository whenever you use the git clone command. 
+
+> Yes, absolutely. Because the remote name is stored in each person's local configuration file (.git/config), it only exists on their machine. 
+
+> Yes, you can absolutely just use git pull. 
+
+---
+
+> No, GitHub Desktop is not exclusively for repositories hosted on GitHub. While it is designed to integrate seamlessly with GitHub's services, it is a versatile graphical interface for Git that can handle a variety of local and remote workflows. 
+
+---
+
+> While the term "Pull Request" (PR) is most famously associated with GitHub, it is a general concept in collaborative development and not technically exclusive to GitHub. 
+> 
+> Platform Features: Modern hosting services provide a graphical interface to facilitate this. While GitHub and Bitbucket use the term "Pull Request," other services like GitLab call them "Merge Requests" (MR) to emphasize the final action of merging code.
+> 
+> Git-Native Origins: Long before web interfaces, Git included a built-in command called git request-pull. This command generates a summary of changes that can be emailed to maintainers, asking them to run git pull on the contributor's repository. 
+
+---
+
+> Yes, the "Fork and Pull Request" workflow is the standard pattern for contributing to open-source projects where you do not have direct write access. 
+>
+> Fork and Pull Request: Used for open-source or external contributions. Because maintainers cannot give write access to every stranger, you create a personal copy (fork), make your changes there, and then ask the maintainers to "pull" those changes into the original repository.
+>
+> Shared Repository (Branching): Used for internal teams or small collaborations. If you are a member of the project, you typically clone the repository once, create a feature branch directly on the main repo, and open a Pull Request (PR) from that branch. 
+
+> While it is technically possible to skip the branching step and contribute directly from your fork's main branch, it is strongly discouraged for several practical reasons: 
+
+> It is actually very common for projects to look like they have few branches, but this is usually a result of "cleanup" rather than a lack of branching.
+
+---
+
+> If you have already committed changes locally and want to overwrite those as well, GitHub Desktop doesn't have a single "force pull" button. You can achieve this using the Terminal (accessible via Ctrl + ~ or Repository > Open in terminal): 
+
+holy. i have to git fetch origin and reset hard (seems dangerous). i want something like reclone (without re dl). yeah, i could abstract it myself.
+
+> The Flatpak version of GitHub Desktop operates in a sandboxed environment, meaning it is intentionally isolated from your system's binaries, including the git you installed via apt. Even though you have Git on your host system, the Flatpak cannot "see" it because the /usr/bin path on your host is not the same as the /usr/bin path inside the sandbox. 
+
+how could i search "fodesu" (a contributor) in the history?
+
+why gnome terminal by default? ok, it allow me to pick mine. but could it auto detect?
+
+---
+
+> Yes, you can. In TypeScript, types and values (variables) live in different "spaces," so they won’t collide.
+
+---
+
+> Yes, you can have a .gitignore file in the repository root as well as in any subfolder. While a single root file is standard practice, multiple files allow for more granular control in complex projects. 
+
+> In the context of folder hierarchy, yes, they effectively "merge," but with a clear order of precedence. Git combines the rules from all relevant .gitignore files to decide what to ignore. 
+
+---
+
+> While the filename .env is a "de facto" industry standard, it wasn't strictly special to Node.js for a long time—it was primarily a convention popularized by the dotenv package. However, this changed with recent updates: 
+> 
+> Starting with Node.js v20.6.0, Node.js introduced built-in support for loading environment files directly without any third-party libraries. 
+
+---
+
+2026.04.16
+
+```
+ ...Documents/_/opensource % ls
+ 24OI-whk-guide         cal.com       haklex                 legacy         mootools-core   react               wenyan-lang-book
+ afilmory               claude-code   jiangyanyan_toybox     linux          my-ts-project   react.dev           xmrig
+ ai-coding-principles   cline         js20                   little-agent   oi.men.ci       test                zod
+ arcaea-builder         codex         js30                   lobehub        openclaw       'twitter clone'
+ avante.nvim            Dress         js50                   Memoh          opencode        valkyrie-document
+ Cahciua                Folo          jslinux-deobfuscated   Moeditor       prisma          vscode
+```
+
+---
+
+> Connection to Previous Patterns: The case mirrors a 2022 trend where Chinese developers used npm and GitHub to store thousands of eBooks, often as a way to circumvent state censorship or local hosting restrictions. 
+
+> Generally, no, the npm registry does not automatically flag non-code binaries as "suspicious" just for being present. This lack of strict binary filtering is exactly why exploitation for media hosting works.
+
+> No, the real-world identities of the individuals or groups behind the wlwz and fake font accounts have not been publicly revealed.
+>
+> The npm registry allows anyone to create an account with just an email address. Because these "flooding" campaigns do not usually involve stealing money or launching cyberattacks (they are technically "resource abuse" or copyright infringement), they rarely trigger the level of international law enforcement investigation required to unmask an anonymous uploader.
+
+> It really is. Tracking down someone in a "safe harbor" country for something like npm storage abuse is like playing a game of cat-and-mouse where the cat has its hands tied.
+
+---
+
+
+

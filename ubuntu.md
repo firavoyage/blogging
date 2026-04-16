@@ -2941,6 +2941,10 @@ pnpm add -g cline
 pnpm add -g @openai/codex
 pnpm add -g @anthropic-ai/claude-code
 
+# program with version control on gui
+# flatpak install -y flathub org.gnome.gitg # perf issue, legacy gnome ui (and weird fonts), use github instead
+flatpak install -y flathub io.github.shiftey.Desktop # seems reliable
+
 # chat with agentic llms: openclaw
 pnpm add -g openclaw@latest # seems no use cases btw
 
