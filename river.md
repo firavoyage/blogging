@@ -402,6 +402,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `1` 2026.04.14
 - `2` 2026.04.15
 - `3` 2026.04.16
+- `4` 2026.04.17
 
 ## gaming
 
@@ -22540,6 +22541,24 @@ i have to manually re enable the bluetooth.
 > If you've manually moved files and things feel "messy," the safest way to ensure a clean state is to delete the node_modules directory entirely and let pnpm rebuild it correctly:
 
 holy.
+
+---
+
+> In Rust, you can't create a "global" replacement like a C #define that changes how the compiler reads every line of your file (e.g., you can't make 1...5 work everywhere without a wrapper).
+>
+> While Rust doesn't have a preprocessor to search and replace text globally, you can wrap an entire module or function in a macro that "pre-scans" the code and replaces your custom syntax (...) with valid Rust code (..=) before the compiler sees it. 
+
+---
+
+> You actually cannot define a multi-word phrase like long int as a single macro name. 
+> 
+> The C++ preprocessor is very strict about what comes immediately after the #define. It expects a single identifier—a word with no spaces, starting with a letter or underscore
+
+> Yes, you can chain macros in C++, but how you do it depends on whether you mean "linking" their values or trying to "define a macro inside another." 
+
+---
+
+> Even with stricter licenses like GPL 3.0 or AGPL, the fundamental rule remains: you are not required to publish the source code to the general public, but you must provide it to anyone who receives your software. 
 
 ---
 

@@ -443,6 +443,7 @@ $fira$ `elegance`
     - chtholly nota seniorious
     - emu otori wonderhoy
     - falstaff duolingo
+    - ferris the crab
     - gus brawl stars
     - hexose 0x4682b4 emotelab
     - hitori gotoh
