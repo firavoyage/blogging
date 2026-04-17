@@ -22482,3 +22482,64 @@ Menci.
 yeah, it's summer now.
 
 ---
+
+a winged insect flies...
+
+into my hot tea.
+
+and, it simply dies?
+
+---
+
+一些游戏公司竟然发 "强 sms", 全屏弹窗.
+
+滥用那个灾害通知系统, 发表广告.
+
+官商合作的典范.
+
+---
+
+you could not close vscode and open it immediately.
+
+or it wont be able to reg service worker to preview web pages (e.g. markdown).
+
+---
+
+> The "Refused to Connect" error occurs when a browser attempts to reach a port before the operating system has finished binding the server process to it. Because Vite's startup is nearly instantaneous (often under 300ms), it frequently triggers the "open browser" command before the network stack is fully listening. 
+
+---
+
+> Yes, hardcoded string literals in Rust are stored directly in the compiled binary and can be easily found with standard reverse engineering tools. 
+
+---
+
+when you apt purge deps, you could enter recovery mode and fix broken.
+
+if you purge everything, like network, apt itself, you can enter live usb and borrow the functions from there.
+
+though, i choose the hard way, with a compensation (a good ubuntu setup guide).
+
+---
+
+after disconnect and reconnect the bluetooth due to distance,
+
+the sound becomes weird. low quality.
+
+i have to manually re enable the bluetooth.
+
+---
+
+> Yes, tsx (and modern TypeScript in general) performs a "magic" process called File Extension Substitution. 
+
+---
+
+> This is a known point of confusion with pnpm link. If you run pnpm link foo without a local path, pnpm assumes you are trying to link a global package. If pnpm unlink foo isn't working for you, it's likely because of how pnpm handles global versus local state. 
+
+---
+
+> If you've manually moved files and things feel "messy," the safest way to ensure a clean state is to delete the node_modules directory entirely and let pnpm rebuild it correctly:
+
+holy.
+
+---
+

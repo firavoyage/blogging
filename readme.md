@@ -388,6 +388,7 @@ $fira$ `elegance`
     - uselessideas club.q24.io
     - verymoes shiro.love
     - whitetravel whiteeating telegram
+    - yeuoly yeuoly1 blogs.yeuoly.org dify.ai
     - yeyouchuan yeyouchuan.me
     - yifusuyi beiyanna3alf6 mtf.wiki
     - yihong0618 hyi0618

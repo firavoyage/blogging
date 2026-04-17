@@ -40,8 +40,7 @@ install
 
 ```sh
 # tools
-sudo apt install -y curl wget ca-certificates gnupg lsb-release p7zip-full unzip unrar build-essential tree
-# example: find . -maxdepth 2 -not -path '*/.*'
+sudo apt install -y curl wget ca-certificates gnupg lsb-release p7zip-full unzip unrar build-essential
 
 # toys
 sudo apt install -y neofetch fortune-mod cowsay cbonsai figlet lolcat toilet sl
@@ -49,7 +48,7 @@ sudo apt install -y neofetch fortune-mod cowsay cbonsai figlet lolcat toilet sl
 # snap
 sudo apt install -y snapd # maybe not needed
 
-# flatpak (log out and log in to apply)
+# flatpak (log out to apply)
 sudo apt install flatpak
 sudo flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
 sudo apt install gnome-software-plugin-flatpak
@@ -59,8 +58,12 @@ sudo apt install -y xdotool xautomation accerciser
 
 # normalize desktop
 sudo apt install -y gnome-tweaks
-flatpak install -y flathub org.gnome.Extensions # although not needed
+flatpak install -y flathub org.gnome.Extensions # seems not needed
 flatpak install -y flathub com.mattjakeman.ExtensionManager
+
+# find: rg, tree, find, grep
+sudo apt install -y ripgrep tree
+# example: find . -maxdepth 2 -not -path '*/.*'
 
 # process images, docs, fonts
 sudo apt install -y imagemagick ghostscript ffmpeg fontforge fonttools
@@ -1241,6 +1244,7 @@ sudo systemctl restart earlyoom
   - tomoki1207.pdf
   - janisdd.vscode-edit-csv
   - ms-vscode.live-server <!-- live preview -->
+  - jasonheld.jsonl-pretty-editor
   <!-- program -->
   - saoudrizwan.claude-dev <!-- cline -->
 - config appearance
@@ -1474,7 +1478,7 @@ sudo systemctl restart earlyoom
 
 - install extensions <!-- browse -->
   - lilypad
-  - Alt+Tab Scroll Workaround <!-- sometimes when you lock the screen and unlock, it might popup "gnome session failed". just unselect "always on top", the system is completely functional. (upd: log out and log in, making everything more predictable) -->
+  - Alt+Tab Scroll Workaround <!-- sometimes when you lock the screen and unlock, it might popup "gnome session failed". just unselect "always on top", the system is completely functional. (upd: log out to apply, making everything more predictable) -->
 - remove "show apps" icon on system dock
   - system extensions: ubuntu dock: launchers: show applications icon `off`
 - remove clash vergetray icon
@@ -1667,7 +1671,7 @@ sudo systemctl restart earlyoom
       mkdir -p ~/.config/fontconfig/conf.d
       # printf "$font" | tee ~/.config/fontconfig/conf.d/64-prefer-noto-cjk-sc.conf > /dev/null # might cause issue on system tray time (weird full width semicolon)
 
-      sudo fc-cache -f -v # apply (log out log in if needed)
+      sudo fc-cache -f -v # apply (log out if needed)
       # fc-match -s sans:lang=zh # confirm
       ```
 
