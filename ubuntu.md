@@ -92,8 +92,12 @@ git clone https://github.com/zsh-users/zsh-syntax-highlighting ~/.zsh/zsh-syntax
 # terminal: ghostty
 curl -fsSL https://raw.githubusercontent.com/mkasberg/ghostty-ubuntu/HEAD/install.sh | zsh
 
-# tmux: keep things running in background
+# terminal: tmux (keep things running in background)
 sudo apt -y install tmux
+
+# proxy: rev proxy for like foo.localhost and bar.localhost
+sudo apt install -y caddy jq yq
+sudo caddy trust # normalize https
 
 # docker, mise
 curl -fsSL https://get.docker.com | sudo sh

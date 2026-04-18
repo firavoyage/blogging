@@ -22562,3 +22562,174 @@ holy.
 
 ---
 
+> To the average developer, a source map looks like a massive, unreadable JSON blob. However, this specific map file used a field called sourcesContent, which embedded the full text of all 1,900 original TypeScript files directly. Chaofan Shou recognized this and knew that running a simple command like npm pack would allow him to extract the entire "human-readable" source tree. 
+>
+> It wasn't just a manual mistake; it was also a tooling failure. Anthropic had recently acquired the Bun JavaScript runtime, which had a known bug (issue #28001) that caused it to generate source maps in production mode even when explicitly told not to. This, combined with a missing line in their .npmignore file, is why the code made it to the registry in the first place. 
+
+> Yes, it was essentially that easy—but only because of how source maps work. 
+
+---
+
+i think i might default to gemini?
+
+or chatgpt (deafult)?
+
+instead of the polished system prompt.
+
+---
+
+i thought it's pretty hard to handle the legal tax, so laws are nothing.
+
+you dont comply with someone that does not help you.
+
+seems github could process dmca easily? idk.
+
+though, they know what they are doing.
+
+---
+
+> GitHub’s Discretion: GitHub generally does not "judge" the merits; if a notice meets the minimum legal requirements, they will typically disable the content and allow the user to file a counter-notice to dispute it.
+>
+> No, you cannot keep the content down without a lawsuit if a valid counter-notice is filed. The DMCA is designed to be a self-executing system where platforms like GitHub act as neutral intermediaries rather than judges. 
+
+---
+
+> You’re right—Iceland and the Netherlands are highly developed, democratic countries with robust legal systems. Their "DMCA-ignored" status isn't because they are lawless, but because they prioritize due process, privacy, and local jurisdiction over foreign (U.S.) administrative notices. 
+
+---
+
+> It is true that a significant number of apps fail to properly disclose open-source licenses, often due to technical oversight or a misunderstanding of legal requirements. 
+
+---
+
+breezy weather crashes (force a back action to the prev page)
+
+when you click "deps".
+
+---
+
+renbaoshuo:
+
+> Likes/RTs are not endorsements.
+
+lol. what does it imply?
+
+(like leohearts, who say she stands with ppl around her)
+
+---
+
+"on license".
+
+write `license.md` on humility.
+
+> put one like reset.css.
+
+make things simple and clear.
+
+md allows comments, which you dont wanna put in a separated file like why or rationale.
+
+---
+
+new license.
+
+public domain.
+
+for the deps.
+
+ignore all opensource licenses, disclosure, permission, whatever. feel free to sue me!
+
+most are foss (e.g. mit licensed), though.
+
+i might cite things if i feel you might need. yet, i wont use the term acknowledgement. you dont know if i wanna give references (facts), inspirations (ideas/great minds that lead me here) or express thanks (stand on the shoulder of giants).
+
+for my own code.
+
+they are in public domain. (inspired by ruanyf/writing style guide)
+
+mit is better and more widely used. but i dont wanna bother these law terms, which seems to be asking for possible help to a protector, who could never really protect you. "do wtf you wanna do" is rage baiting and cynical.
+
+public domain. simple words. when time goes on, our works will all eventually get into the public domain. all good things.
+
+theoretically, if something is open, you could not really control.
+
+the laws of physics are the only limit.
+
+in reality, you dont wanna fight small potatoes. big players often have enough preparation, you know, it's like a game of complete infomation. llms make it even easier.
+
+why not add a license like cc by or agpl?
+
+you should probably work on raising the ceiling, not the floor.
+
+these battles are noisy and nonsensical. i dont even wanna waste time on these guys.
+
+there is no use to reserve a right you know you wont use, only making you ridiculous to frighten people, just like cutting a branch that is obviously not optimal.
+
+public domain.
+
+upd: first, as humans, we could not really keep anything.
+
+---
+
+notes are designed to be written.
+
+move them to river for archival.
+
+btw, i could not write comments inside a comment.
+
+i were about to write:
+
+```
+what does it imply <!-- mean to you -->:
+
+...
+
+<!-- as humans, we could not really keep anything. -->
+```
+
+well, i just rm them. i dont wanna try workarounds like paratheses or strikethrough.
+
+---
+
+some gnome apps only put credits (authors) and legal (brief gpl text).
+
+not the deps.
+
+---
+
+> MIT: Reflects a pragmatic approach focused on developer freedom and minimizing legal friction.
+> 
+> GPL: Reflects an ideological commitment to user freedom, ensuring that the software and its descendants remain free for everyone to study, modify, and share.
+
+---
+
+https://www.reddit.com/r/programming/comments/c0lch4/my_personal_journey_from_mit_to_gpl/
+
+> My main problem is the "release code under GPL so it's free for everyone" sentiment, which I just don't find true. But as long as developers pick GPL for what it is instead of for what it is pretending to be, I feel they are making the right choice: their choice.
+
+> You're now contrasting GPL and closed source instead of GPL and MIT. If older versions of Windows were MIT licensed then you're not shit out of luck when development takes a turn you dont like.
+>
+> The downside of MIT is precisely that it can be taken over as closed source. Your scenario works only in cases when the closed solution has only recently been forked. In a case where something was originally open source, then got closed and grew as a proprietary product, then you're not getting much value from the original open version when the closed one moves in a direction you don't like.
+> 
+> An MIT project can only ever be "taken over as closed source" if the closed source fork of it became significantly better than the original MIT source project. Which should never happen since open source code is inherently superior to closed source code. No?
+
+---
+
+> No imports/exports: The file is global automatically.
+
+> It’s definitely a "TypeScript-ism," but it’s the standard way to bridge the gap between scripts and modules. Here is the breakdown of why that "weird" syntax is necessary.
+
+---
+
+chatgpt feels... lecture.
+
+"it's not. it's ..."
+
+yet, it feels easier in en.
+
+---
+
+i can be weak.
+
+it feels peaceful.
+
+---
