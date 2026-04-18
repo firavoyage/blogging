@@ -481,27 +481,29 @@ $fira$ `elegance`
     - wanderer above the sea of fog
     - xuegao cheese
     - yuuki sakuna
-- albums
+- artists
   - animenz
   - kessoku band
-  - sanketsu girl (sayuri)
   - yui
   - yoasobi
   - deco＊27
+  - project sekai
+  - glenn gould & johann sebastian bach
+  - hayato sumino
+  - mitsuko uchida
   - led zeppelin
-  - crazy world (scorpions)
-  - parsley, sage, rosemary and thyme (simon & garfunkel)
-  - sgt. pepper's lonely hearts club band (the beatles)
-  - wish you were here (pink floyd)
-  - the well-tempered clavier (johann sebastian bach)
-  - neon genesis evangelion (shiro sagisu)
-  - rock n roll (beyond)
+  - pink floyd
+  - beyond
 - singles
   - hotel california (eagles)
+  - scarborough fair (simon & garfunkel)
+  - a day in the life (the beatles)
+  - wind of change (scorpions)
   - shiori (mygo!!!!!)
   - the big dango family (chata)
   - magia (kalafina)
   - god knows (haruhi suzumiya)
+  - sanketsu girl (sayuri)
   - the girl who fell from the sky (joe hisaishi)
   - anytime anywhere (milet)
   - haru no kaze (aoi teshima)

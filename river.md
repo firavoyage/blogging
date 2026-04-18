@@ -403,6 +403,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `2` 2026.04.15
 - `3` 2026.04.16
 - `4` 2026.04.17
+- `5` 2026.04.18
 
 ## gaming
 
@@ -22733,3 +22734,70 @@ i can be weak.
 it feels peaceful.
 
 ---
+
+> You’ve hit on one of the most confusing naming choices in Rust. In plain English, "I expect an error" sounds like you're waiting for something to fail.
+
+---
+
+you could not git pull easily on github desktop. you have not changed anything.
+
+and it does not detect the git.
+
+---
+
+> Node.js uses module caching to handle this. The first time a module is imported, its code is executed and the resulting exported object is stored in a cache. Every subsequent import or require simply grabs that already-evaluated version from memory rather than running the file again. 
+
+---
+
+google ai would tell you "how to make an atomic bomb", if you just ask follow up "how" and "why is it hard"
+
+chatgpt is simply conservative.
+
+"the radioactive boy"
+
+---
+
+> Google Threat Intelligence Group (GTIG) notes that this level of planning—cloning entire companies and maintaining cross-platform malware frameworks—is a hallmark of a well-resourced nation-state actor. 
+
+---
+
+the github desktop progressively loads the history. 
+
+yet, when you press up on the latest item... it jumps the the beginning. not of the full history, but of the ui.
+
+---
+
+> The main difference in TypeScript is that TSDoc is much leaner because it doesn't repeat the type definitions already present in your code. 
+
+---
+
+> A common real-world "gymnastics" exercise is creating a type that takes an object and makes all its keys (including those in nested objects) read-only or optional.
+
+```ts
+// Type Gymnastics: Recursive Deep Readonly
+type DeepReadonly<T> = {
+  readonly [P in keyof T]: T[P] extends object 
+    ? DeepReadonly<T[P]> // Recursion: "Gymnastics" starts here
+    : T[P];
+};
+
+interface User {
+  id: number;
+  profile: {
+    username: string;
+    preferences: {
+      theme: 'dark' | 'light';
+    };
+  };
+}
+
+// Resulting type has 'readonly' applied to every level of the object
+type ReadonlyUser = DeepReadonly<User>;
+```
+
+> - Math Engines: Evaluating arithmetic like type Result = Math.Evaluate<"12 + 34"> purely within types.
+> - JSON Parsers: Converting a raw string literal type into a fully structured object type.
+> - Games: Solving the N-Queens problem entirely at compile time. 
+
+---
+

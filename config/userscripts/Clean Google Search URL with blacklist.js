@@ -7,6 +7,12 @@
 // @run-at       document-start
 // ==/UserScript==
 
+/**
+ * it might cause issues "Something went wrong and the content wasn't generated." on google ai mode. rather disable it.
+ * 
+ * though, it might not be its fault.
+ */
+
 (function () {
   const blacklist = new Set([
     "oq",
