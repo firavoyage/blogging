@@ -404,6 +404,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `3` 2026.04.16
 - `4` 2026.04.17
 - `5` 2026.04.18
+- `6` 2026.04.19
 
 ## gaming
 
@@ -22839,4 +22840,23 @@ diygod vs innei becomes a high profile online argument...
 (mar 2026?!)
 
 ---
+
+> The human brain is considered a 20-watt organ because that is its estimated average power consumption during its continuous 24/7 operation. This figure is derived from the fact that the brain consumes approximately 20% of the body's total energy budget (roughly 400–500 calories per day), even though it only makes up about 2% of total body weight. 
+> 
+> The majority of this 20W budget is spent on "background" tasks rather than active thinking:
+> 
+> Ion Pumping: Maintaining the electrical charge across neuronal membranes (specifically using sodium-potassium pumps) is the brain's single most energy-expensive task.
+
+---
+
+> The 2026 National Unified College Entrance Examination, commonly known as the Gaokao, is scheduled to be held on June 7 and 8, 2026. 
+
+---
+
+> In modern English, saying "he is gay" almost always refers to his sexual orientation (homosexuality) rather than his mood. 
+>
+> While the word "gay" technically has a definition meaning happy, cheerful, or carefree, using it that way today is considered archaic and will almost certainly be misunderstood as referring to sexual orientation. 
+
+---
+
 
