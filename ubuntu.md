@@ -53,8 +53,8 @@ sudo apt install flatpak
 sudo flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
 sudo apt install gnome-software-plugin-flatpak
 
-# automate mouse and keyboard: xdotool, xte
-sudo apt install -y xdotool xautomation accerciser
+# automate mouse, keyboard, and screenshot: xdotool, xte, scrot
+sudo apt install -y xdotool xautomation scrot accerciser 
 
 # normalize desktop
 sudo apt install -y gnome-tweaks
@@ -2026,7 +2026,7 @@ sudo systemctl restart earlyoom
   - enhance new tab: intention <!-- repo: f: intention. load unpacked with dev mode on. -->
     - allow in incognito
     - extension: keyboard shortcuts: intention: Open a new window with Intention's custom new tab `ctrl n`
-    - intention settings: url to open when enter is empty `https://chatgpt.com/branch/69a713fd-5b58-83a3-958e-c38e92cffc74/4bccd054-037e-4707-88ff-4be087bb475e` <!-- use the latest one -->
+    - intention settings: url to open when enter is empty `https://chatgpt.com/` <!-- `https://chatgpt.com/branch/69a713fd-5b58-83a3-958e-c38e92cffc74/4bccd054-037e-4707-88ff-4be087bb475e` use the latest one -->
     - intention settings: search url `https://www.google.com/ai?q=%s&gl=us` <!-- it's good to set ai mode default in case it doesnt always show up automatically, sometimes not even available on nav bar on regular search, while you can easily go to "all" from ai mode. legacy: `https://www.google.com/search?q=%s&gl=us`. unfortunately, gl=us is not preserved when switching to all. -->
   - automate captcha solving: buster https://chrome.google.com/webstore/detail/mpbjkejclgfgadiemmefgebjfooflfhl <!-- theoretically highly possible, but practically unexpectedly reliable -->
   - manage access to accounts: authenticator https://chromewebstore.google.com/detail/authenticator/bhghoamapcdpbohphigoooaddinpkbai

@@ -22801,3 +22801,42 @@ type ReadonlyUser = DeepReadonly<User>;
 
 ---
 
+> If you want to keep the "flat" structure (no indentation) and reuse the exact same name, you have hit a hard limitation: TypeScript does not support same-scope shadowing.
+
+---
+
+> That’s actually the preferred way! Modern TypeScript is smart enough to automatically look inside node_modules/@types by default.
+
+---
+
+> Menci 💖
+> @lcMenci
+> 感觉自己精神状态在无法逆转地越来越糟糕，任何想要挽回的尝试都是无用功甚至都在加重整个过程
+> 一个人生活会自然地越来越压抑，和人一起生活则不可避免地因为被期待而无法做自己想的事情，累积着直到崩溃
+> 在一切寄希望于别人陪着来让自己好起来的期望都被打破了之后就又只剩下「要更加强大」一个答案了
+> 5:37 PM · Apr 18, 2026 ·Twitter Web App
+
+---
+
+https://github.com/yetone/yetone/pull/1
+
+Remove sponsorship message from README
+
+不是哥们儿，你这是把我的要饭碗都给一脚踹了呀
+
+不好意思哥，真不是我干的
+
+不好意思哥，觉得你的readme挺独特的，让龙虾写了个脚本，结果把你介绍删了还提pr了😂
+
+---
+
+https://x.com/zhizijun/status/2029104321330331910
+
+fun fact: zhizi also blocks me! (maybe related to innei.)
+
+diygod vs innei becomes a high profile online argument...
+
+(mar 2026?!)
+
+---
+

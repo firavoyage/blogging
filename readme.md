@@ -303,7 +303,7 @@ $fira$ `elegance`
     - leerob leerob.com cursor.com
     - liyupi yupi.icu codefather.cn yuyuanweb.com
     - matrix67 matrix67.com matrix67.itch.io localhost_8080 localhost-8080.com
-    - menci men.ci oi.wiki loj.ac moeditor.github.io renbaoshuo baoshuo.ren oier.baoshuo.dev luoling8192 luoling.moe search.lingogram.app airi.moeru.ai maigolabs maigo.dev needle.maigo.dev chiyuki0325 chyk.ink hykilpikonna aza.moe amaoke.app aquadx.net voice.hydev.org vergedx cfe281953 memset0 memset0c mem.ac memset0.cn rvalue rvalue.moe
+    - menci men.ci oi.wiki loj.ac moeditor.github.io renbaoshuo baoshuo.ren oier.baoshuo.dev luoling8192 luoling.moe search.lingogram.app airi.moeru.ai maigolabs maigo.dev needle.maigo.dev chiyuki0325 chyk.ink hykilpikonna aza.moe amaoke.app aquadx.net voice.hydev.org vergedx cfe281953 memset0 memset0c mem.ac memset0.cn rvalue rvalue.moe yuu quantumtransf tommy0103 7sref.cc
     - nayuki nayuki.io
     - numberphile
     - omg_wc
@@ -370,7 +370,7 @@ $fira$ `elegance`
     - mirekintoc
     - mr_gao_it_words telegram
     - neko205-mx neko_25_mx blog.neko25.top srcblog.neko25.top
-    - nickel_angel huamurui huamumo huamurui.github.io shiratsuyudachi
+    - nickel_angel cnblogs.com/Nickel-Angel huamurui huamumo huamurui.github.io shiratsuyudachi
     - ninalex12 asakawauniversityofscience
     - notevenaneko qwq.icu
     - pea3nut huasheng_pea pea3nut.info
@@ -800,6 +800,7 @@ $fira$ `elegance`
 - idle mode... _yawn_ how boring. if you're not solving problems or writing up contributions, then don't blame me if your life is boring.
 - for oft, when on my couch i lie, in vacant or in pensive mood. they flash upon that inward eye, which is the bliss of solitude, and then my heart with pleasure fills, and dances with the daffodils.
 - god is light, and in him there is no darkness at all. if we say we have fellowship with him yet walk in the darkness, we lie and do not practice the truth. but if we walk in the light as he is in the light, we have fellowship with one another, and the blood of jesus his son cleanses us from all sin.
+- wir müssen wissen. wir werden wissen.
 - memento mori.
 
 ## backyard
