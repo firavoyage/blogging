@@ -2283,6 +2283,7 @@ zsh -ic 'push'
     - character `half-width`
       - punctuation: `*`: `-` button <!-- remove all punctuations -->
     - fuzzy pinyin: `*` `on` <!-- except an-ang f-h l-n -->
+    - simplified and traditional chinese translation: toggle key `none`
 - enlarge clipboard
   <!-- ctrl ; -->
   - fcitx5-configtool: addons: clipboard: number of entries `30`

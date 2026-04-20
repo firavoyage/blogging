@@ -22859,4 +22859,48 @@ diygod vs innei becomes a high profile online argument...
 
 ---
 
+`retro`
+
+六年级, 初中的时候. 
+
+数学. 
+
+是可爱的女孩子.
+
+写答句.
+
+她说, 为什么 ... 0?
+
+那是句号.
+
+会穿清浅轻快的衣服, 有时会站在你身边.
+
+可能是因为孩子很小, 言语很有童真呢. 不高, 可以看得完整.
+
+后来, fira 就一直用句点了. 明确. 锐利.
+
+只不过, 有时候, 在一些网志上, 看到全角句号, 甚至中间句号, 和文雅引号, 会有一些自然的感觉呢.
+
+---
+
+github desktop...
+
+where is the... detailed commit msg? (or pr)
+
+maybe github specific.
+
+---
+
+well... i could dl all data on pjsk.
+
+even it's nested deeply inside settings.
+
+the ux is also confusing. when some songs are locked by default and i have to exchange it, i could only do that by tapping the album again. (i wont think anything would happen when i tap the selected item in a list once again)
+
+it's such a long list. i have many credits. yet i have to unlock one by one?
+
+(when i tap i wanna unlock it... it does not def select the same item on the purchase list?)
+
+---
+
 
