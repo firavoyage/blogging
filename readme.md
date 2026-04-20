@@ -296,6 +296,7 @@ $fira$ `elegance`
     - grant sanderson 3blue1brown.com
     - hmuniversity hmu.ac.cn wildchickenuniversity wcu.edu.pl
     - hzwer hzwer.com
+    - ietf ietf.org internetsociety.org rfc-editor.org
     - jiangly codeforces
     - jiangyy jiang yanyan jyywiki.cn
     - kalasoo ming.today yinming.me xitu.juejin.cn
@@ -318,7 +319,6 @@ $fira$ `elegance`
     - shiffman thecodingtrain.com
     - sinyalee sinyalee.com alpha-star-research.com
     - su dekuang zju
-    - whereisherofrom
     - whynottv1999 tairanhe.com
     - yu ming shu zhihu qed.moe yaru.io asaka.moe
     - yxc acwing.com

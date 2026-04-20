@@ -35,3 +35,4 @@
 - google maps
 - osmand
 - sndcpy
+- termux

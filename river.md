@@ -405,6 +405,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `4` 2026.04.17
 - `5` 2026.04.18
 - `6` 2026.04.19
+- `7` 2026.04.20
 
 ## gaming
 
@@ -22903,4 +22904,21 @@ it's such a long list. i have many credits. yet i have to unlock one by one?
 
 ---
 
+> rfc
+
+---
+
+> The Flaw (Differential Cryptanalysis): MD5's mixing is too "linear."
+>
+> Weak Operations: It relies heavily on simple bitwise operations (AND, OR, XOR) and modular addition. It lacks heavy "bit rotation" (shifting bits and moving the overflow to the other side), which is crucial for diffusion.
+
+---
+
+`quote`
+
+when gemini begins its reply with "yes" or "no"...
+
+that's the brightest moment in my life.
+
+---
 
