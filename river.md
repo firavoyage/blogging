@@ -22922,3 +22922,101 @@ that's the brightest moment in my life.
 
 ---
 
+> A common rule of thumb in Rust API design is that if there is only one obvious reason an operation might not return a value, Option is preferred. 
+
+---
+
+> No, you cannot configure the Rust compiler or the standard formatter (rustfmt) to automatically add semicolons like JavaScript's Automatic Semicolon Insertion (ASI). 
+
+---
+
+dash (inspired by hu chenfeng rt on a tg channel)
+
+> 昨晚 Claude 账号被封了，重新注册了一个今天醒来发现又被封了。真实感受到了 AI 斩杀线的存在……
+
+> 我们移民美利坚的同事也被封了……
+
+btw, this guy... is so approachable. he simply posts his employees and msgs online?!
+
+he lives? wow.
+
+---
+
+> Rust was not initially written in Rust; it was born through a process called bootstrapping. This "chicken-and-egg" challenge is solved by using an existing language to create the first version of the new language's compiler. 
+>
+> While modern Rust is written in Rust, it still relies on LLVM (written in C++) as a backend to turn code into machine instructions. Projects like mrustc (written in C++) exist to allow bootstrapping Rust on systems where a pre-existing Rust binary isn't available. 
+
+> Haskell: OCaml’s main rival in the functional world. It is highly popular for new languages like Elm and Idris because of its advanced type system.
+>
+> Rust (itself): Today, a developer might skip the surrogate entirely by using a small, existing "core" of Rust to build the rest, or by using C++ with LLVM to reach a working state faster.
+>
+> TypeScript: Increasingly popular for rapid prototyping due to its expressive type system (tagged unions) and massive developer pool, though it is often considered too slow for production-scale compilers.
+>
+> Zig: A rising star in systems programming that offers a "middle ground" between C and Rust. It is often cited as a modern alternative for building low-level tools. 
+
+---
+
+when i login on github desktop, things change.
+
+things are recognized, gracefully, not the git default.
+
+and i can view on github.
+
+but...
+
+i have to close and reopen to apply. stupid.
+
+> You cannot view the full, detailed discussion or the pull request (PR) conversation directly inside the GitHub Desktop interface. The app is designed for local code operations—like viewing commit history, file diffs, and running CI checks—rather than the social side of GitHub. 
+
+---
+
+us proxies often timeout. only us proxies. 
+
+others almost always work.
+
+switch to uk.
+
+---
+
+google ai mode points links as it like.
+
+it points gitkraken to git tower site.
+
+---
+
+twitter down?!
+
+(lots of reports on downdetector, status page all functional, ui retry, console 500)
+
+---
+
+dustella and fodesu are not the same person.
+
+---
+
+> Exactly. For the import std/math syntax to work in Node.js, you must separate them into different files.
+>
+> The Node.js module resolution system works at the file level, not the object property level. When you type import math from 'std/math', Node.js looks for a specific file mapped to that subpath; it cannot "reach inside" one file to grab a specific object and treat it as the default import for a subpath. 
+
+---
+
+random is an initial state, aka seed.
+
+then every next step is derived from the prev.
+
+cpp use 1 as seed. wise. simple. predictable by default.
+
+py and js use os entropy or time.
+
+---
+
+twitter.
+
+6 comments. only 4 shown (and 1 nested inside 1, idk if it cnt).
+
+even no "show proba spam" exists.
+
+---
+
+
+

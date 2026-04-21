@@ -171,6 +171,7 @@ $fira$ `elegance`
     - livid livid.v2ex.com v2ex.com planetable.xyz sol.build v2ex.com/solana ohyi olivida
     - lovefrom lovefrom.com
     - manusai manus.im manus.im/blog manus.im/docs/features manus.im/playbook awesome.manus.space
+    - mihaip persistent.info zombie_reader readerisdead.com <!-- google reader -->
     - mitchellh mitchellh.com ghostty.org
     - mitsuhiko lucumr.pocoo.org
     - mugumogu maru
@@ -350,6 +351,7 @@ $fira$ `elegance`
     - ciceroxiao hong520_x ciceros_self_talk ciceroxiao.github.io/hong525
     - clover_yan real_clover_yan khyan.top
     - cosmicac 2o181o28.github.io
+    - dashhuang huang.co xd.com taptap.io
     - discodyer codygua cody2333 cd.ai
     - dustella_chan dustella.net
     - gzx7301 telegram

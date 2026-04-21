@@ -181,7 +181,7 @@ sudo apt install -y openjdk-21-jdk
 # haskell: ghci
 sudo apt install -y ghc cabal-install
 
-# ruby
+# ruby: ruby, irb, ri, gem
 sudo apt install -y ruby-full
 
 # brainfuck: beef
@@ -486,7 +486,7 @@ sudo systemctl restart earlyoom
       "editor.fontSize": 12,
       "security.workspace.trust.untrustedFiles": "open",
       "editor.unicodeHighlight.ambiguousCharacters": false,
-      "workbench.secondarySideBar.defaultVisibility": "visible",
+      "workbench.secondarySideBar.defaultVisibility": "hidden",
       "chat.disableAIFeatures": true,
       "extensions.ignoreRecommendations": true,
       "security.workspace.trust.enabled": false,
@@ -495,7 +495,8 @@ sudo systemctl restart earlyoom
       "security.workspace.trust.startupPrompt": "never",
       "json.schemaDownload.trustedDomains": {
         "*": true
-      }
+      },
+      "typescript.updateImportsOnFileMove.enabled": "always",
     }
     ```
 
@@ -1251,6 +1252,8 @@ sudo systemctl restart earlyoom
   - jasonheld.jsonl-pretty-editor
   <!-- program -->
   - saoudrizwan.claude-dev <!-- cline -->
+  <!-- ship -->
+  - github.vscode-pull-request-github
 - config appearance
   - view: appearance <!-- things might be changed or nested in different ways -->
     - custom titlebar `off`
@@ -2954,6 +2957,7 @@ pnpm add -g @anthropic-ai/claude-code
 # program with version control on gui
 # flatpak install -y flathub org.gnome.gitg # perf issue, legacy gnome ui (and weird fonts), use github instead
 flatpak install -y flathub io.github.shiftey.Desktop # seems reliable
+flatpak install -y flathub com.axosoft.GitKraken # commercial but powerful due to the complexity of git and github, noisy and compact
 
 # chat with agentic llms: openclaw
 pnpm add -g openclaw@latest # seems no use cases btw
