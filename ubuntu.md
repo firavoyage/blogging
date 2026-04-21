@@ -99,14 +99,20 @@ sudo apt -y install tmux
 sudo apt install -y caddy jq yq
 sudo caddy trust # normalize https
 
-# docker, mise
+# docker
 curl -fsSL https://get.docker.com | sudo sh
 
+# mise
 sudo install -dm 755 /etc/apt/keyrings
 curl -fSs https://mise.jdx.dev/gpg-key.pub | sudo tee /etc/apt/keyrings/mise-archive-keyring.asc 1> /dev/null
 echo "deb [signed-by=/etc/apt/keyrings/mise-archive-keyring.asc] https://mise.jdx.dev/deb stable main" | sudo tee /etc/apt/sources.list.d/mise.list
 sudo apt update
 sudo apt install -y mise
+# add `eval "$(mise activate zsh)"` to zshrc
+
+# count lines of code: ocloc, tokei, scc
+mise use -g github:adhishthite/ocloc tokei@latest aqua:boyter/scc # might be rate limited by github apis (since it complies)
+# example: ocloc .
 
 # rust: rustup, rustc, cargo
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh -s -- -y
@@ -183,6 +189,7 @@ sudo apt install -y ghc cabal-install
 
 # ruby: ruby, irb, ri, gem
 sudo apt install -y ruby-full
+sudo gem install amazing_print
 
 # brainfuck: beef
 sudo apt install -y beef

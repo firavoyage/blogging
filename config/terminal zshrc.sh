@@ -232,3 +232,6 @@ JAVA_HOME=/usr/lib/jvm/java-17-openjdk-amd64
 
 # openclaw
 source "/home/fira/.openclaw/completions/openclaw.zsh"
+
+# mise
+eval "$(mise activate zsh)"

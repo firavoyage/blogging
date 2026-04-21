@@ -158,6 +158,7 @@ $fira$ `elegance`
     - ivanhzhao ivanhzhao.notion.site notionhq notion.com
     - james406 posthog posthog.com
     - jamesclear jamesclear.com jamesclear.com/3-2-1 atoms.jamesclear.com authorsequity.com
+    - jdx jdxcode jdx.dev endevco endevinc en.dev mise.en.dev oclif.io usage.jdx.dev fnox.jdx.dev hk.jdx.dev pitchfork.jdx.dev
     - jh3yy jhey.dev
     - jjying jjying.com iconmoon.com leongao leongao.com dribbble.com/leongao
     - joakimjansson theindexwebsite theindex.website
@@ -200,6 +201,7 @@ $fira$ `elegance`
     - spottedinprod spottedinprod.com
     - steve jobs apple
     - tenthousandyes
+    - theo t3dotgg t3.gg t3.gg/blog t3.chat t3.codes unduck.link create.t3.gg uploadthing.com ping.gg pic.ping.gg quickpic.t3.gg
     - thexclu clu.so capwords.app
     - tim mediastorm
     - tonsky tonsky.me
@@ -282,6 +284,7 @@ $fira$ `elegance`
     - timqian tim_qian timqian.com
     - tualatrix imtx.me poptranslate.app manico.im pastenow.app
     - unixzii cyandev.app
+    - vanilagy mediabunny.dev
     - voidzerodev voidzero.dev
     - wesbos wesbos.com javascript30.com
     - wey-gu siwei.io nowled.ge nowledge-labs.ai mem.nowledge.co
@@ -305,7 +308,7 @@ $fira$ `elegance`
     - leerob leerob.com cursor.com
     - liyupi yupi.icu codefather.cn yuyuanweb.com
     - matrix67 matrix67.com matrix67.itch.io localhost_8080 localhost-8080.com
-    - menci men.ci oi.wiki loj.ac moeditor.github.io renbaoshuo baoshuo.ren oier.baoshuo.dev luoling8192 luoling.moe search.lingogram.app airi.moeru.ai maigolabs maigo.dev needle.maigo.dev chiyuki0325 chyk.ink hykilpikonna aza.moe amaoke.app aquadx.net voice.hydev.org vergedx cfe281953 memset0 memset0c mem.ac memset0.cn rvalue rvalue.moe yuu quantumtransf tommy0103 7sref.cc
+    - menci men.ci oi.wiki loj.ac moeditor.github.io renbaoshuo baoshuo.ren oier.baoshuo.dev luoling8192 luoling.moe search.lingogram.app airi.moeru.ai maigolabs maigo.dev needle.maigo.dev chiyuki0325 chyk.ink hykilpikonna aza.moe amaoke.app aquadx.net voice.hydev.org vergedx cfe281953 memset0 memset0c mem.ac memset0.cn rvalue rvalue_official rvalue_daily rvalue.moe yuu quantumtransf tommy0103 7sref.cc
     - nayuki nayuki.io
     - numberphile
     - omg_wc

@@ -406,6 +406,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `5` 2026.04.18
 - `6` 2026.04.19
 - `7` 2026.04.20
+- `8` 2026.04.21
 
 ## gaming
 
@@ -23018,5 +23019,175 @@ even no "show proba spam" exists.
 
 ---
 
+rust.
+
+license.
+
+it has a dedicated folders of lots of legal texts...
+
+and
+
+```
+Short version for non-lawyers:
+```
+
+well... ive no idea. impressive, right?
+
+version.
+
+it shows
+
+- version
+- commit hash
+- date
+
+impressive.
+
+---
+
+does your gf has y in her gene?
+
+> does y imply male and no y imply female whatever they are normal or not
+>
+> Generally, yes, that is the basic rule of thumb in human biology, but there are a few fascinating exceptions where the "rule" breaks down.
+>
+> Scientifically: It is actually the SRY gene that does the work. If that gene is in the "wrong" place or doesn't work, the Y chromosome alone doesn't guarantee a male outcome.
+
+---
+
+jdx projects.
+
+yet, overused vitepress.
+
+(another example is tailwind's default style, or vercel. md2/md3 is also popular.)
+
+- overused emojis
+- rare practical customization
+- slogans (wordplays, less frequent words), not honest adjectives
+
+though, i have to admit the power of its creators.
+
+---
+
+no idea why cloc and ocloc are all bloating about perf.
+
+"within n secs"
+
+google also does, but as a small grey text.
+
+---
+
+> In Ruby, you can achieve something similar to Rust's use by using include at the top level of your script. This pulls a module's methods into the global namespace (the main object).
+
+> Modern TypeScript generally discourages polluting the global namespace and doesn't have a direct equivalent to Rust's use or Ruby's include for automatically pulling every export from a library into the local scope. 
+> 
+> TypeScript will still flag foo as an error because it doesn't know foo exists globally. You must "augment" the global namespace to inform the compiler. 
+
+```
+import * as lib from 'your-library';
+
+// Loop through all exports and attach them to globalThis
+Object.assign(globalThis, lib);
+
+// Important: Ensure the file is treated as a module by including an export
+export {}; 
+
+declare global {
+  // Option A: Specific exports (Safest)
+  const foo: typeof import('your-library').foo;
+  const bar: typeof import('your-library').bar;
+
+  // Option B: Map the whole library to types (Manual)
+  // Unfortunately, TS doesn't support 'auto-expanding' a module into global types.
+}
+```
+
+---
+
+> Yes, ice cream sales and drowning deaths are statistically related, but it is a classic example of correlation without causation. 
+
+> Yes, you can distinguish between them, but it requires moving beyond simple observations to active experimentation or rigorous statistical testing. 
+>
+> While correlation simply means two things change together, causation means one thing makes the other happen. Because correlation is a necessary ingredient for causation, researchers use specific frameworks to figure out if that link is real or just a coincidence. 
+
+---
+
+> Ruby doesn't have a direct equivalent to the interactive, expandable tree-view of the Chrome DevTools console out-of-the-box, but you can get very close using specific tools that offer a similar "everything at a glance" experience. 
+
+> The reason you can't see the "props" with ap is that Ruby manages internal data differently than JavaScript. In JS, almost everything is a plain object with visible keys. In Ruby, data is often hidden in instance variables (@variable) or C-level slots that tools like ap can't always "reach" automatically unless they are specifically designed to.
+
+> You’ve hit the nail on the head regarding why Ruby is frustrating for a JS developer: Ruby separates "Data" from "Behavior."
+>
+> In JavaScript, everything is a hash-like object. In Ruby, objects are "black boxes" that only show you what they want to show you.
+
+> Ruby Hashes and JavaScript Object Literals look nearly identical in modern code, but they behave differently under the hood.
+>
+> In JS, you can use obj.name. In Ruby, you cannot use dot notation on a Hash by default.
+>
+> Ruby Fix: You must use `user[:name]`.
+>
+> Ruby: Hashes are strictly for data. If you want behavior (methods), you use a Class. You can't put a def inside a Hash literal.
+>
+> Ruby: Uses nil. As you noted, you can alias null = nil in Ruby, but out of the box, Ruby will complain that null is an undefined variable.
+
+---
+
+> The connection between Linux users and the LGBTQ+ community is a widely discussed phenomenon that researchers and community members often view as a correlation driven by shared values of privacy, subculture, and technical curiosity. 
+>
+> Survey Data: A 2017 GitHub survey found that 9% of open-source contributors identified as a sexual or gender minority, compared to roughly 4.1% of the general U.S. population at the time.
+
+> You’re describing a specific phenomenon called social contagion or group socialization. In this case, you are right: a strong correlation can eventually lead to causation through a feedback loop.
+> 
+> Socialization (Causation): Once you are in the community, you see everyone using specific terminal themes, coding in Rust, or discussing specific social values. You adopt these traits to fit in or because they are praised by your peers.
+
+> Would you like to know more about the history of LGBTQ+ pioneers who built the foundation of modern computing?
+>
+> Yes, Alan Turing is widely recognized as a gay man and is celebrated as a major queer icon. While he lived at a time when homosexuality was criminalized in the UK, he was relatively open about his identity within certain social circles and eventually faced severe legal consequences for it. 
+
+> Depending on the context, there are several shorter or more descriptive alternatives to the LGBTQ+ acronym. While LGBTQ+ remains the most widely recognized standard, many people use alternative umbrella terms for brevity or specific academic and professional settings. 
+> 
+> Queer: This is the most common single-word alternative. While historically a slur, it has been widely reclaimed by the community as an all-encompassing identity. It is particularly popular with younger generations, though some older members may still find it offensive.
+
+---
+
+> trans men are born female
+
+---
+
+> Theo (Theo Browne) uses the term T3 as the branding for his development stack and community because it serves as an abbreviation for "Theo's Typesafe TypeScript" (or simply his name and the tech focus). 
+>
+> The term is most famously associated with the T3 Stack, a web development architecture he popularized that emphasizes simplicity, modularity, and full-stack type safety. It was originally developed to solve specific problems he encountered while building Ping.gg. 
+
+---
+
+https://duckduckgo.com/bangs
+
+its search input bar is sync. (as well as the one on google ai)
+
+so when i type fast, some char are omitted.
+
+---
+
+> Scope: Coding is a subset of programming that focuses specifically on writing the actual lines of instructions (code) that a computer can understand. Programming is a broader process that encompasses the entire lifecycle of software creation, including problem-solving, planning, algorithm design, testing, and maintenance.
+
+---
+
+github dists trims md wo caring integrity.
+
+it can have three opening backticks, wo closing.
+
+though, seems it would cost nothing as renderers are smart and do the best effort.
+
+---
+
+https://t3.chat/chat/a51429ec-d892-424a-9332-3dce6bac2ed7
+
+kimi k2 (self hosted?) replies to 1989 like wikipedia?
+
+no idea.
+
+(ive seen this on zhihu today. as zh-cn composition in uee, in some regions, when it sometimes let you express your thoughts, sometimes let you pretend to be patriotic, you may ask why. it's the year that matters. 2019 is 30y later than 1989, and uee is in jun. as well as other events, like the cultural rev, ...)
+
+---
 
 
