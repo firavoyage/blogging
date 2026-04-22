@@ -234,4 +234,6 @@ JAVA_HOME=/usr/lib/jvm/java-17-openjdk-amd64
 source "/home/fira/.openclaw/completions/openclaw.zsh"
 
 # mise
-eval "$(mise activate zsh)"
+# eval "$(mise activate zsh)" # it dumps noise even if you dont call it (e.g. cd)
+export PATH="$HOME/.local/share/mise/shims:$PATH"
+

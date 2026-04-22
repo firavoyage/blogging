@@ -108,7 +108,7 @@ curl -fSs https://mise.jdx.dev/gpg-key.pub | sudo tee /etc/apt/keyrings/mise-arc
 echo "deb [signed-by=/etc/apt/keyrings/mise-archive-keyring.asc] https://mise.jdx.dev/deb stable main" | sudo tee /etc/apt/sources.list.d/mise.list
 sudo apt update
 sudo apt install -y mise
-# add `eval "$(mise activate zsh)"` to zshrc
+# add `export PATH="$HOME/.local/share/mise/shims:$PATH"` to zshrc, dont `eval "$(mise activate zsh)"` (noisy, unpredictable)
 
 # count lines of code: ocloc, tokei, scc
 mise use -g github:adhishthite/ocloc tokei@latest aqua:boyter/scc # might be rate limited by github apis (since it complies)
@@ -1250,7 +1250,9 @@ sudo systemctl restart earlyoom
   - ms-python.python
   - ms-python.vscode-pylance
   - rust-lang.rust-analyzer
+  - golang.go
   - xabikos.javascriptsnippets
+  - akamud.vscode-javascript-snippet-pack
   <!-- view -->
   - yzhang.markdown-all-in-one
   - tomoki1207.pdf

@@ -23190,4 +23190,118 @@ no idea.
 
 ---
 
+> Yes, the behavior you're seeing in the Python extension for VS Code is heavily influenced by TypeScript. While you're writing Python, the engine behind that "hover" information is a specialized tool developed with TypeScript. 
+
+> Yes, you can write foo: type in Python by default thanks to a feature called Type Hints, which was introduced in Python 3.5 via PEP 484.
+
+---
+
+> The correlation you're noticing is a major topic in medical research, but it’s essentially a "two-way street." There is a significant link between estrogen and depression, but whether taking estrogen causes or treats it often depends on the individual's situation and the type of hormone being used. 
+
+> Research consistently shows a strong correlation between transgender identity, specifically for those who identify as transfeminine or MtF, and significantly higher rates of depression compared to the general population. However, clinical consensus indicates that identifying as transgender is not itself a mental health disorder, nor does it inherently "cause" depression. 
+
+> Research indicates a strong correlation between depression and gender identity distress, but scientists generally view the direction of this relationship differently than your suggestion. Rather than depression causing someone to "become" male-to-female (MtF), research suggests that gender dysphoria (the distress caused by a mismatch between gender identity and assigned sex) is often the primary driver of depression. 
+
+---
+
+> Why it works: Unlike the main site, GitHub's raw content server is configured to allow CORS for public repositories, so your JS can read the file text directly. 
+>
+> Pro Tip: If your blog files are already part of the folder you published to GitHub Pages, just use a relative URL (like /posts/my-blog.md). This stays on the github.io domain, so CORS isn't even checked. 
+
+you can 
+
+- serve the main page
+- serve the files
+
+all for free.
+
+given
+
+- things are static. (or not, you can just render them, though it's static after all, just where to compute.)
+
+then, it's solved.
+
+as well as you separate things, you even prevent github vendor lock.
+
+---
+
+> These images are called Identicons, a term coined for visual representations of a hash value. The concept was invented by Don Park in 2007 to protect user privacy while providing a distinct "visual fingerprint" for users. 
+>
+> GitHub's Version (Jason Long): GitHub initially relied on Gravatar for all profile pictures. In August 2013, Jason Long designed GitHub's own 5x5 pixel version to ensure every user had a colorful, unique identity even without a Gravatar
+>
+> Wider Aesthetic: This "pixel sprite" style was heavily influenced by the Retro and 8-bit aesthetic of the early web. By using mirroring and HSL color logic, Long ensured that the generated shapes often resembled faces or creatures, making them more memorable than the abstract geometric shapes used by other sites
+
+> Saturation is Fixed: It’s usually locked between 50% and 70%. This prevents the colors from being too grey/dull or too neon/eye-straining.
+> 
+> Lightness is Fixed: It’s typically locked around 40% to 60%. This ensures the "on" pixels are always dark enough to stand out against the white background, but bright enough to be colorful.
+> 
+> Hue is the Variable: The only thing that truly changes "randomly" (based on the hash) is the Hue (0–360° on the color wheel).
+
+---
+
+> Ruby does use a module to organize low-level, platform-dependent system errors (like file not found or connection refused). These are grouped under the Errno namespace (e.g., Errno::ENOENT, Errno::ECONNREFUSED), which prevents hundreds of OS-level error codes from cluttering the root namespace. 
+
+---
+
+> Unlike Python or Ruby, where you might use the name ZeroDivisionError to catch the error in a try/except block, Rust's panic_const_div_by_zero is an internal identifier used by the compiler to trigger a panic. 
+
+---
+
+> In Rust, particularly within the standard I/O library, the distinction between Error and ErrorKind is a design pattern used to balance technical detail with developer convenience. 
+>
+> Pattern Matching & Recovery: You can call the .kind() method on an Error to get its ErrorKind. This allows you to write code that recovers from specific issues (like creating a file if it's missing) while ignoring the lower-level OS details.
+>
+> Future Compatibility: The ErrorKind enum is marked as #[non_exhaustive]. This means the Rust team can add new error types in the future without breaking existing code that uses match statements, as developers are forced to include a wildcard (_) arm.
+
+> The std::io::Error is a struct that serves as a container for detailed error information. While ErrorKind only tells you the category of the error (like NotFound), the Error struct holds the actual "payload" or low-level details. 
+
+---
+
+> Ruby does place standard exception classes like ZeroDivisionError in the global namespace (specifically as constants of the Object class), but it also uses an error object during actual exception handling. 
+
+> Nearly all of Ruby’s core error types are also defined as global constants. While this does "pollute" the global namespace with many names, it is a deliberate design that facilitates Ruby’s powerful exception hierarchy. 
+
+> Errno::*: These are system-level errors (like Errno::ENOENT for "file not found") grouped under the Errno module to prevent hundreds of OS-specific codes from filling the global space.
+
+> Gem/Library Errors: Most third-party libraries (like Rails) follow best practices by nesting their errors (e.g., ActiveRecord::RecordNotFound) within their own module. 
+
+---
+
+gnome nautilus (files) is unstable.
+
+often "non responsiding, f quit?".
+
+---
+
+```
+ ...Documents/_/opensource % ls
+ 24OI-whk-guide         cline                  js20                   Memoh           react            valkyrie-document
+ afilmory               codex                  js30                   Moeditor        react.dev        vscode
+ ai-coding-principles   cpython                js50                   mootools-core   ruby             wenyan-lang-book
+ arcaea-builder         document-style-guide   jslinux-deobfuscated   my-ts-project   rust             xmrig
+ avante.nvim            Dress                  legacy                 oi.men.ci       temp             zod
+ Cahciua                Folo                   linux                  openclaw        test
+ cal.com                haklex                 little-agent           opencode       'twitter clone'
+ claude-code            jiangyanyan_toybox     lobehub                prisma          TypeScript
+```
+
+---
+
+> In VS Code, "Find All References" (Shift+F12) is a language-specific feature. It appears for TypeScript (.ts) files because the built-in TypeScript engine understands how to link code symbols across files. 
+> 
+> However, for JSON and Go, the "Find All References" command is often missing or doesn't work as expected because:
+>  
+> JSON is data, not code: VS Code treats JSON as static data and doesn't natively "know" that a key like "welcome_msg" in your i18n file is the same thing as the string i18n.T("welcome_msg") in your Go code.
+> 
+> Go Extension Scope: The Go extension (powered by gopls) is designed to find references for code symbols (like functions or variables), but it generally does not index plain strings used as keys across different file types. 
+
+---
+
+> ES7 (officially ECMAScript 2016) was a relatively small update that introduced two primary features to the JavaScript language: the exponentiation operator and the Array.prototype.includes() method. 
+>
+> While many developers associate async/await with ES7 because they were "stage 3" candidates at the time, they were officially finalized and released in ES8 (ECMAScript 2017). Similarly, features like "Spread" and "Classes" are part of the much larger ES6 (ECMAScript 2015) update. 
+
+(well, es7 is not latest. it's just one year after es6, the most critical moment in js history.)
+
+---
 

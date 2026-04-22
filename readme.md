@@ -136,6 +136,7 @@ $fira$ `elegance`
     - anthropicai anthropic.com claudeai claude.ai
     - anwnews anyway.fm/now
     - ark.studio
+    - automattic automattic.com wordpress.com wordpress.org gravatar.com tumblr.com dayoneapp.com pocketcasts.com longreads.com
     - avstorm bento.me/storm iconists.co centralicons.com
     - badlogic badlogicgames mariozechner.at pi.dev
     - basicappleguy basicappleguy.com
