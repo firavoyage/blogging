@@ -407,6 +407,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `6` 2026.04.19
 - `7` 2026.04.20
 - `8` 2026.04.21
+- `9` 2026.04.22
 
 ## gaming
 
@@ -23302,6 +23303,38 @@ often "non responsiding, f quit?".
 > While many developers associate async/await with ES7 because they were "stage 3" candidates at the time, they were officially finalized and released in ES8 (ECMAScript 2017). Similarly, features like "Spread" and "Classes" are part of the much larger ES6 (ECMAScript 2015) update. 
 
 (well, es7 is not latest. it's just one year after es6, the most critical moment in js history.)
+
+---
+
+> It’s a common mix-up! While both are premier institutions under the Chinese Academy of Sciences (CAS), they are two distinct universities. 
+
+UCAS (Guókēdà) USTC (Zhōngkēdà)
+Chinese Name	中国科学院大学	中国科学技术大学
+
+---
+
+chatgpt popups "img creation gets a major upd" and cta "create img"?
+
+im just chatting...
+
+---
+
+```rb
+= ZeroDivisionError < StandardError
+
+(from ruby core)
+------------------------------------------------------------------------
+Raised when attempting to divide an integer by 0.
+
+  42 / 0   #=> ZeroDivisionError: divided by 0
+
+Note that only division by an exact 0 will raise the exception:
+
+  42 /  0.0   #=> Float::INFINITY
+  42 / -0.0   #=> -Float::INFINITY
+  0  /  0.0   #=> NaN
+------------------------------------------------------------------------
+```
 
 ---
 

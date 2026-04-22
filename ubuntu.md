@@ -61,8 +61,8 @@ sudo apt install -y gnome-tweaks
 flatpak install -y flathub org.gnome.Extensions # seems not needed
 flatpak install -y flathub com.mattjakeman.ExtensionManager
 
-# find: rg, tree, find, grep
-sudo apt install -y ripgrep tree
+# find: rg, grep, tree, find, fdfind, ack
+sudo apt install -y ripgrep grep tree findutils fd-find ack
 # example: find . -maxdepth 2 -not -path '*/.*'
 
 # process images, docs, fonts
