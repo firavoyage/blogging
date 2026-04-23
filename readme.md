@@ -207,8 +207,8 @@ $fira$ `elegance`
     - tenthousandyes
     - theo t3dotgg t3.gg t3.gg/blog t3.chat t3.codes unduck.link create.t3.gg uploadthing.com ping.gg pic.ping.gg quickpic.t3.gg
     - thexclu clu.so capwords.app
-    - tim mediastorm
-    - tonsky tonsky.me
+    - tim mediastorm ysjf.com
+    - tonsky tonsky.me grumpy.website github.com/tonsky/firacode allekinos.de instantdb.com
     - wengtianxin dandyweng.com blog.dandyweng.com camarts.app
     - yearsprogress yearprogress
     - yetone alma.now

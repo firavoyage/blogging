@@ -408,6 +408,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `7` 2026.04.20
 - `8` 2026.04.21
 - `9` 2026.04.22
+- `10` 2026.04.23
 
 ## gaming
 
@@ -23373,3 +23374,23 @@ see? ltr, top to bottom. that's english.
 that's a language should be.
 
 ---
+
+> There was a delay in registering this snapshot with the Wayback Machine.
+> The snapshot may not be available right now, please try again later.
+
+---
+
+<!-- 我现在不嘲讽抑郁的人了. -->
+
+twitter 上有一半人抑郁. 另一半 adhd.
+
+就像没有一样. 思维依然敏锐. 甚至同时善于做题.
+
+<!-- 嘲笑就像被耍了一样. -->
+
+---
+
+> If you truly only ever use git add ., the technical distinction between adding and committing effectively disappears for you. You are essentially using Git like a standard "Save" button in a video game. 
+
+---
+
