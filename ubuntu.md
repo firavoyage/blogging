@@ -2332,11 +2332,14 @@ zsh -ic 'push'
 
 ## `vlc`
 
-- open in new window
+- open in new window for each file
 
   ```sh
   sudo sed -i 's/--started-from-file/--no-one-instance/g' /var/lib/flatpak/app/org.videolan.VLC/current/active/export/share/applications/org.videolan.VLC.desktop
   ```
+
+- preferences <!-- ctrl p -->
+  - audio: tracks: preferred audio language `japanese`
 
 ## `elisa`
 

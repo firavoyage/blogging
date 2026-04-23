@@ -23338,3 +23338,38 @@ Note that only division by an exact 0 will raise the exception:
 
 ---
 
+> Adding Disqus to a blog is generally considered very easy and can often be completed in just a few minutes without any coding knowledge, depending on your platform. 
+>
+> Adding Disqus to a GitHub Pages site (typically built with Jekyll) is straightforward but requires some minor manual code editing since there isn't a "one-click" plugin like on WordPress. 
+>
+> Yes, you can absolutely skip the "Liquid" stuff and just paste the script
+>
+> Yes, you can do exactly that using the URL Mapper tool in the Disqus admin panel. It’s essentially a "search and replace" for your comment sections.
+
+---
+
+> No, the cost is the same. One thinking token costs exactly the same as one final answer token.
+
+---
+
+"thinking" feels hard working...
+
+but it does not cost more.
+
+---
+
+> 邓小平的长子邓朴方在 1968 年 8 月坠楼，主要原因是在“文化大革命”期间遭受了残酷的政治迫害和身体凌辱
+
+---
+
+3/100
+
+three hundredth
+
+three over one hundred
+
+see? ltr, top to bottom. that's english.
+
+that's a language should be.
+
+---

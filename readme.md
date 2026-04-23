@@ -102,6 +102,8 @@ $fira$ `elegance`
 - make tools elegant
 - make knowledge pure
 
+<!-- just let time be precious 💖 -->
+
 ## perception
 
 - flavors
@@ -159,6 +161,7 @@ $fira$ `elegance`
     - ivanhzhao ivanhzhao.notion.site notionhq notion.com
     - james406 posthog posthog.com
     - jamesclear jamesclear.com jamesclear.com/3-2-1 atoms.jamesclear.com authorsequity.com
+    - janestreet janestreet.com blog.janestreet.com janestreet.com/who-we-are janestreet.com/what-we-do
     - jdx jdxcode jdx.dev endevco endevinc en.dev mise.en.dev oclif.io usage.jdx.dev fnox.jdx.dev hk.jdx.dev pitchfork.jdx.dev
     - jh3yy jhey.dev
     - jjying jjying.com iconmoon.com leongao leongao.com dribbble.com/leongao
@@ -361,6 +364,7 @@ $fira$ `elegance`
     - gzx7301 telegram
     - hitw93 tw93.fun weekly.tw93.fun
     - hsn8086 hsn8086k hsn8086.com hsn.recipe zh314.xyz
+    - ichralpha ichr.me chralpha.com
     - ilharp ilharper ilharper.com
     - inx4n1c ssaignee emerge ivan eisenberg telegram
     - kagurazakayashi uuu.moe
