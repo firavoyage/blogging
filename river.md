@@ -23394,3 +23394,67 @@ twitter 上有一半人抑郁. 另一半 adhd.
 
 ---
 
+> Yes, an async function in TypeScript/JavaScript is essentially a synchronous function that returns a Promise. 
+
+---
+
+> Short answer: No, there is no official syntax in Rust to "globally" import a type or function so it's available in every module without a use statement. Rust intentionally isolates each module's namespace to ensure code remains readable and explicit. 
+
+---
+
+> Subscripts (Sequences): This is the most common way to "update" a variable.
+>
+> Primed Variables: In a single step of logic, they might use a "prime" symbol.
+
+---
+
+> Generally, no. In almost every situation in JavaScript, if a === b is true, then a == b will also be true. 
+
+---
+
+rvalue daily meme
+
+```js
+foo = new Boolean(false)
+if(foo){
+  pr 'js is amazing!'
+}
+```
+
+---
+
+> In TypeScript, the error in a catch block is typed as any (or unknown) rather than Error because JavaScript allows you to throw anything, not just error objects. 
+
+---
+
+https://material-web.dev/about/intro/
+
+on google's official example, the zh-cn font is noto jp.
+
+---
+
+`retro` `school`
+
+我很菜很菜的.
+
+一般来说, 年轻的时候, 得到班级第一名, 就会得到表扬.
+
+拿到状元, 也会得到表扬.
+
+不过当然不一样.
+
+不做些什么, 大概会有失落吧. <!-- 残念 -->
+
+刚来的时候, 就和他说起. 虽然他走得也不高, 是这一届年一就是了.
+
+已经离这些智力竞技性的游戏越来越远了. 
+
+那些赢过我, 或者根本没有和我比较就直接远远赢过我的, 大概就会一直赢过我了.
+
+看来这个世界一点也不欢迎普通人. 
+
+喵呜喵呜的时候, 总是会没有底气呢.
+
+多少写一些东西, 就会不一样. 虽然很弱, 但也不至于什么也没有.
+
+---

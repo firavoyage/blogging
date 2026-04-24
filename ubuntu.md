@@ -154,9 +154,11 @@ pnpm add -g vite # more reliable, fast enough, showy, clever
 # example: cd $dir && vite --open '$fileName'
 pnpm add -g webpack webpack-cli webpack-dev-server # legacy, complex
 # pnpm add -g webpack webpack-cli webpack-dev-server css-loader style-loader babel-loader file-loader url-loader ts-loader
-sudo npm install -g deno
-sudo npm install -g yarn
-sudo npm install -g bun
+pnpm add -g eslint
+
+pnpm add -g --allow-build=deno deno
+pnpm add -g --allow-build=yarn yarn
+pnpm add -g --allow-build=bun bun
 
 # python
 sudo apt install -y python3 pip pipx

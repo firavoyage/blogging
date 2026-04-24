@@ -176,6 +176,7 @@ $fira$ `elegance`
     - livid livid.v2ex.com v2ex.com planetable.xyz sol.build v2ex.com/solana ohyi olivida
     - lovefrom lovefrom.com
     - manusai manus.im manus.im/blog manus.im/docs/features manus.im/playbook awesome.manus.space
+    - material-components material.io material.io/components material-web.dev
     - mihaip persistent.info zombie_reader readerisdead.com <!-- google reader -->
     - mitchellh mitchellh.com ghostty.org
     - mitsuhiko lucumr.pocoo.org
@@ -233,7 +234,7 @@ $fira$ `elegance`
     - gaearon dan abramov overreacted.io
     - geekerwan1024 zixiiu socpk.com
     - gorvgoyl gourav.io gourav.io/clone-wars
-    - hakadao hakadao.cc bewlybewly
+    - hakadao hakadaooo hakadao.cc bewlybewly
     - haoel coolshell coolshell.cn
     - hatschannel telegram
     - himself65 himself65.com himself65.com/blog affine.pro better-auth.com athenalab.ai llamaindex.ai jotai.org <!-- waku.gg textea.co mask.io funda.ai -->
