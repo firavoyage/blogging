@@ -409,6 +409,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `8` 2026.04.21
 - `9` 2026.04.22
 - `10` 2026.04.23
+- `11` 2026.04.24
 
 ## gaming
 
@@ -23456,5 +23457,81 @@ on google's official example, the zh-cn font is noto jp.
 喵呜喵呜的时候, 总是会没有底气呢.
 
 多少写一些东西, 就会不一样. 虽然很弱, 但也不至于什么也没有.
+
+---
+
+> Ruby on Rails is no longer the "hot" new technology it was in the early 2010s, but it remains a highly productive and mature framework that powers a significant portion of the web. Its popularity is often described as "stable but niche" compared to the massive growth of JavaScript and Python ecosystems. 
+
+---
+
+> Not really. npm’s download counts are famously "naïve" and do not actively filter out most bots or automated systems. 
+>
+> If a developer scripted 1 download per second, they would generate 86,400 downloads a day and over 604,000 downloads a week. On the npm registry, this package would instantly look like a moderately successful library, potentially appearing in "trending" lists.
+>
+> Because npm's counting is "naive," this type of "vanity" botting is technically possible and surprisingly common. Here is how that scenario would play out:
+>
+> Savvy developers usually spot this "cheating" by looking for a mismatch in metrics:
+
+---
+
+> The Node.js --import flag cannot automatically inject import statements into your other files. In standard ECMAScript Modules (ESM), every file is an isolated scope; if you want to use a variable or function from a module, you must explicitly import it in that file. 
+
+---
+
+> No, there is no hard configuration flag in Prettier to force this. Prettier is designed to be "idempotent" and safe; if it thinks converting an indented block to a fenced block might break the structure (like in complex nested lists), it will leave it alone.
+
+---
+
+menci intentionally closes the reply function for some tweets.
+
+not for suppressing criticism, but for solitude and peace of mind, when cmts are unnecessary.
+
+though,
+
+> Only some accounts can reply.
+
+feels confusing.
+
+it's not actually limiting to fandom, it's no one that could reply.
+
+clearer:
+
+> cmts are off
+
+---
+
+bilibili player is so damn.
+
+it loads the vid before the vid controller js.
+
+---
+
+> No, you cannot put runtime code inside a declare global block. The declare keyword is specifically used for ambient declarations, which inform the TypeScript compiler about types and variables that already exist in the environment, but it does not generate any JavaScript output at runtime. 
+
+---
+
+> The issue is that TypeScript's default file discovery (glob patterns) often ignores hidden "dot" directories to avoid accidental compilation of temporary or configuration files. If your global types are "seen" elsewhere but not in your .hidden-folder, it’s likely because that folder is being excluded from the TypeScript project context. 
+
+---
+
+> Anti-Bot Strategies: Some platforms (like Bilibili) use 412 errors to block automated tools or scripts that fail a JavaScript verification challenge. 
+
+> ERROR: unable to open for writing: [Errno 36] File name too long: '【PJS字幕组】第194期活动『CHANGE！笑梦是公主殿下！？』剧情翻译 中文字幕合集 更新完毕 共8话+4篇区域对话【世界计划 多彩舞台】 p12 2456-哪方面的相似？（司、宁宁） [BV1f6ZfBGENx_p12].f30280.m4a.part'
+
+`【PJS字幕组】第194期活动『CHANGE！笑梦是公主殿下！？』剧情翻译 中文字幕合集 更新完毕 共8话+4篇区域对话【世界计划 多彩舞台】 p10 2454-追逐战重现（RIN、笑梦） [BV1f6ZfBGENx_p10]` can not be put into trash: file name too long.
+
+---
+
+join mbrjun group.
+
+wow. carbon captcha.
+
+so conservative.
+
+chatgpt refuses to solve carbon captcha!
+
+(sometimes it solves. but it errs.)
+
+gemini pro does it well.
 
 ---

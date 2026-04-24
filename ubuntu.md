@@ -3002,6 +3002,10 @@ flatpak install -y flathub io.mpv.Mpv
 flatpak install -y flathub org.kde.elisa
 flatpak install -y flathub net.lrclib.lrcget
 pipx install yt-dlp
+mkdir -p ~/.config/yt-dlp # use browser cookies by default
+tee ~/.config/yt-dlp/config > /dev/null <<EOF
+--cookies-from-browser chromium:'/home/fira/snap/chromium/common/chromium/Default'
+EOF
 flatpak install -y flathub io.github.Predidit.Kazumi # test it
 
 # read, normalize

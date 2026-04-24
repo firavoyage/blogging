@@ -172,6 +172,7 @@ $fira$ `elegance`
     - leohearts taroleohearts whatdoespotatoeattoday leohearts.com clansty nyac.at aquadx.net mcm.mumur.net
     - linandliwoodworks
     - lingdong huang lingdong.works wy-lang.org
+    - liqi liqi.io
     - liuyi0922 61.life mdstudiohq
     - livid livid.v2ex.com v2ex.com planetable.xyz sol.build v2ex.com/solana ohyi olivida
     - lovefrom lovefrom.com
@@ -567,6 +568,7 @@ $fira$ `elegance`
   - the godfather (1972)
   - the shining (1980)
   - the intouchables, lived by funshiki (2011)
+  - look back, streamed by funshiki (2024)
   - .k-on! the movie (2011)
   - .suzume (2022)
   - .weathering with you (2019)
@@ -763,7 +765,7 @@ $fira$ `elegance`
   - internet archive · archive.today · archive.softwareheritage.org · the pirate bay · z library · anna's archive · archivecaslytosk.onion
   - youtube · berryberry · douyin · niconico · hololist · vtbs.moe · aicu.cc · laplace.live · danmakus.com
   - old reddit · twitter · zhihu · nga bbs · baidu tieba · pincong.rocks
-  - hacker news · lobste.rs · v2ex · liqi.io · github trending · product hunt · codepen spark
+  - hacker news · lobste.rs · v2ex · github trending · product hunt · codepen spark
   - figma · paper.design · unicorn.studio · canva · khroma · coolors
   - douban · imdb · anidb · vndb · bangumi.tv · my anime list · nyaa.si · bgmlist.com · dmhy.org · mikanani.me · bangumi.moe · zimuku · yuc.wiki
   - pixiv · dribbble · deviantart · unsplash · civitai
