@@ -237,3 +237,23 @@ source "/home/fira/.openclaw/completions/openclaw.zsh"
 # eval "$(mise activate zsh)" # it dumps noise even if you dont call it (e.g. cd)
 export PATH="$HOME/.local/share/mise/shims:$PATH"
 
+# tsx with env
+tsxe() {
+  local current_dir="$PWD"
+  local env_path=""
+
+  while [[ "$current_dir" != "/" ]]; do
+    if [[ -f "$current_dir/.env" ]]; then
+      env_path="$current_dir/.env"
+      break
+    fi
+    current_dir=$(dirname "$current_dir")
+  done
+
+  if [[ -n "$env_path" ]]; then
+    tsx --env-file="$env_path" "$@"
+  else
+    tsx "$@"
+  fi
+}
+

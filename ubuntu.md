@@ -155,6 +155,8 @@ pnpm add -g vite # more reliable, fast enough, showy, clever
 pnpm add -g webpack webpack-cli webpack-dev-server # legacy, complex
 # pnpm add -g webpack webpack-cli webpack-dev-server css-loader style-loader babel-loader file-loader url-loader ts-loader
 pnpm add -g eslint
+pnpm add -g dotenv-cli
+sudo apt install -y direnv
 
 pnpm add -g --allow-build=deno deno
 pnpm add -g --allow-build=yarn yarn
