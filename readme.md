@@ -237,7 +237,6 @@ $fira$ `elegance`
     - gorvgoyl gourav.io gourav.io/clone-wars
     - hakadao hakadaooo hakadao.cc bewlybewly
     - haoel coolshell coolshell.cn
-    - hatschannel telegram
     - himself65 himself65.com himself65.com/blog affine.pro better-auth.com athenalab.ai llamaindex.ai jotai.org <!-- waku.gg textea.co mask.io funda.ai -->
     - hullqin game.hullqin.cn
     - huxpro huangxuan.me
@@ -276,7 +275,6 @@ $fira$ `elegance`
     - randy lutaonan.com
     - risin42 nagramx
     - rosepineus
-    - ruanyf ruanyf weekly ruanyifeng.com/blog
     - rxliuli rxliuli.com rxliuli.com/blog rxliuli.com/project store.rxliuli.com
     - sama sam altman blog.samaltman.com openai.com
     - samuelqzq qzq.at
@@ -314,7 +312,7 @@ $fira$ `elegance`
     - leerob leerob.com cursor.com
     - liyupi yupi.icu codefather.cn yuyuanweb.com
     - matrix67 matrix67.com matrix67.itch.io localhost_8080 localhost-8080.com
-    - menci men.ci oi.wiki loj.ac moeditor.github.io renbaoshuo baoshuo.ren oier.baoshuo.dev luoling8192 luoling.moe search.lingogram.app airi.moeru.ai maigolabs maigo.dev needle.maigo.dev chiyuki0325 chyk.ink hykilpikonna aza.moe amaoke.app aquadx.net voice.hydev.org vergedx cfe281953 memset0 memset0c mem.ac memset0.cn rvalue rvalue_official rvalue_daily rvalue.moe yuu quantumtransf tommy0103 7sref.cc
+    - menci men.ci oi.wiki loj.ac moeditor.github.io renbaoshuo baoshuo.ren oier.baoshuo.dev luoling8192 luoling.moe search.lingogram.app airi.moeru.ai maigolabs maigo.dev needle.maigo.dev chiyuki0325 chyk.ink hykilpikonna azaneko aza.moe amaoke.app aquadx.net voice.hydev.org vergedx cfe281953 memset0 memset0c mem.ac memset0.cn rvalue rvalue_official rvalue_daily rvalue.moe yuu quantumtransf tommy0103 7sref.cc
     - nayuki nayuki.io
     - numberphile
     - omg_wc
@@ -326,6 +324,7 @@ $fira$ `elegance`
     - probiusofficial hello-ctf.com
     - qingyu qoj.ac
     - que_tourist gennady korotkevich codeforces
+    - ruanyf ruanyf weekly ruanyifeng.com/blog
     - shiffman thecodingtrain.com
     - sinyalee sinyalee.com alpha-star-research.com
     - su dekuang zju
@@ -341,7 +340,6 @@ $fira$ `elegance`
     - jing hanqing
     - keepandroidopen altereddeal keepandroidopen.org
     - mo di si ji xu shi fu
-    - piracy6 telegram
     - programthink program-think.blogspot.com github.com/programthink
     - shao nian shan zhi jun
     - vxunderground vx-underground.org
@@ -351,9 +349,9 @@ $fira$ `elegance`
     - wu songlei paperclip ipaperclip.icu
     - xiao a zai shang wang
   - life
+    - (see `with.md`)
     - anlin zhihu
     - antoninoscordino ntonino ant14181 gsmc_pics ntonino.eu
-    - bluebird_channel telegram
     - butaikirin citronateo hee.ink jiba.hee.ink <!-- ? -->
     - canyie canyiechannel blog.canyie.top
     - chesszyh lichess lingyuanyuanyuanyuanyuan notrealname zhihu
@@ -363,12 +361,11 @@ $fira$ `elegance`
     - dashhuang huang.co xd.com taptap.io
     - discodyer codygua cody2333 cd.ai
     - dustella_chan dustella.net
-    - gzx7301 telegram
     - hitw93 tw93.fun weekly.tw93.fun
     - hsn8086 hsn8086k hsn8086.com hsn.recipe zh314.xyz
     - ichralpha ichr.me chralpha.com
     - ilharp ilharper ilharper.com
-    - inx4n1c ssaignee emerge ivan eisenberg telegram
+    - inx4n1c ssaignee emerge ivan eisenberg
     - kagurazakayashi uuu.moe
     - kungalgame kungalgamechannel upsetgal kungal.com
     - leanrada kalabasa leanrada.com
@@ -380,7 +377,6 @@ $fira$ `elegance`
     - maplefsnow maplef.top
     - megabits_mzq megabits.xyz
     - mirekintoc
-    - mr_gao_it_words telegram
     - neko205-mx neko_25_mx blog.neko25.top srcblog.neko25.top
     - nickel_angel cnblogs.com/Nickel-Angel huamurui huamumo huamurui.github.io shiratsuyudachi
     - ninalex12 asakawauniversityofscience
@@ -395,11 +391,9 @@ $fira$ `elegance`
     - tinysnow itinysnowi tinysnow4yi tinysnow.github.io
     - turingou paragraph.com/@guoyu
     - txstc55 txstc55.github.io
-    - umr_has_something_to_record telegram
     - update4weekly
     - uselessideas club.q24.io
     - verymoes shiro.love
-    - whitetravel whiteeating telegram
     - yeuoly yeuoly1 blogs.yeuoly.org dify.ai
     - yeyouchuan yeyouchuan.me
     - yifusuyi beiyanna3alf6 mtf.wiki
@@ -955,11 +949,11 @@ $fira$ `elegance`
   - bangumi.tv `firavoyage`
   - mastodon `firahq@mastodon.social` `fira@techhub.social`
   - vk `firahq`
-- - matrix `@firahq:matrix.org`
+- - matrix `@firahq:matrix.org` <!-- might be inactive -->
   - matrix space `#firahq:matrix.org`
-  - telegram `firavoyage`
+  - telegram `firavoyage` <!-- might be outdated -->
   - telegram group `voyagefira`
-  - telegram channel `firaprecious` `logfira`
+  - telegram channel `firaprecious` `logfira` 
 
 <!--
 

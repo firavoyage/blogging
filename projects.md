@@ -88,6 +88,9 @@ inspired by
 - rsshub
 - bilimiao
 - libretube
+- twitter
+- mastodon
+- bluesky
 
 `grow`
 
@@ -227,7 +230,13 @@ personal internet blog
 
 qq groups
 
-tg channels
+tg channels groups people
+
+devs on twitter
+
+funshiki replay index
+
+pjsk subs index
 
 inspired by
 
@@ -311,12 +320,19 @@ navigation
 
 - naming inspired by grok.
 
-`leisure: dict`
+`dict` <!-- `leisure: dict` -->
 
 > look up.
 
+pre generated llm based dict
+
+fuzzy search
+
+ask llm
+
 inspired by
 
+- google
 - golden dict
 - jisho
 
@@ -760,7 +776,7 @@ inspired by
 
 ## connect
 
-`bird`
+`with` <!-- `bird` -->
 
 > message.
 
@@ -770,6 +786,12 @@ inspired by
 - matrix
 - ryos (iphone os messages)
 
+<!-- foss tg? -->
+
+<!-- bird and egg feel confusing. both refer to twitter. choose a better name instead. -->
+
+<!-- 
+
 `egg`
 
 > follow. broadcast.
@@ -778,7 +800,9 @@ inspired by
 
 - twitter
 - mastodon
-- bluesky?
+- bluesky? 
+
+-->
 
 `trkr`
 

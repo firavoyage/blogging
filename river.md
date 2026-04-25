@@ -23535,3 +23535,68 @@ chatgpt refuses to solve carbon captcha!
 gemini pro does it well.
 
 ---
+
+seems nihui is the first one menci follows on twitter.
+
+though, it's not menci's first twitter account.
+
+i would not simply follow anyone who has hrt and srs, as idk these infra tech.
+
+generally i dont like backend infra guys, like those mathematicians.
+
+---
+
+> No, search engines like Google will generally not index the decrypted content of a base64 string if it is published solely as a raw encoded string. 
+
+---
+
+tg wont show the sender if you copy only open one editor.
+
+---
+
+vscode killed by earlyoom (?).
+
+i accidentally clicked dont restore editor.
+
+now my active tabs are gone.
+
+but it's clearer.
+
+---
+
+> Bitmagnet does not currently have a native setting to define a strict "storage upper limit" or maximum database size. Because it is designed to crawl the DHT network continuously, the database will grow indefinitely as long as the crawler is active. 
+
+---
+
+dockerhub tries to verify my gmail even with the google oauth.
+
+---
+
+> Multiple Photos: Telegram keeps a history of your profile pictures. To show no photo at all (reverting to your initials), you must delete all previous photos in your history.
+
+---
+
+normally, you could not know the channel owner directly.
+
+> y.4＝rd | 日常，发与转 | 迷失在数字生活
+> #碎碎念 #负能量警告 #面 #游 
+> 本体@TwilightBlueMoe 
+> 呜
+
+good for public broadcasts, bad for social.
+
+yet quite vuluntable to gachas.
+
+---
+
+`quote`
+
+不用了.
+
+如果有一天我足够强的话, 你自然会认识我.
+
+如果我不够强的话... 你也不用认识我了.
+
+---
+
+
