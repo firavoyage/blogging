@@ -411,6 +411,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `10` 2026.04.23
 - `11` 2026.04.24
 - `12` 2026.04.25
+- `13` 2026.04.26
 
 ## gaming
 
@@ -25012,6 +25013,22 @@ todo list 中的项目无论如何都会去做.
 
 "open secrets"
 
+you should know them. and leverage them.
 
+you should not assume the law is the truth.
+
+ref: criticism on cookie banners
+
+---
+
+check ff14 walkthrough.
+
+https://www.youtube.com/watch?v=rr6LoM9h4xw
+
+yt simply adds 1 before when it's more than 24h.
+
+confusing. i did not expect it's 1d.
+
+just another visual novel. but critically acclaimed.
 
 ---
