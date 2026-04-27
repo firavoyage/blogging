@@ -412,6 +412,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `11` 2026.04.24
 - `12` 2026.04.25
 - `13` 2026.04.26
+- `14` 2026.04.27
 
 ## gaming
 
@@ -25053,5 +25054,19 @@ there is no way i could go back wo rev engineering or osint.
 (wayback machine fe routing 404).
 
 i should have saved the mhtml.
+
+---
+
+> No, you generally cannot predict the specific "next move" of a chess player in a tournament on Polymarket.
+
+> Polymarket’s core mission is to be the world's most accurate "Truth Machine" by aggregating public information into clear probabilities. 
+
+> In the eyes of the law and the designers of these platforms, it’s less about "protecting the stupid" and more about protecting the product itself.
+>
+> If you view a market as a "free-for-all" where the only rule is survival of the fittest, you eventually run into a practical problem: The "stupid guys" (and the smart-but-not-inside guys) are the ones who pay for the party.
+>
+> Here is why even a "free market" platform like Polymarket enforces rules that seem to coddle the less informed:
+>
+> The "Free Market" relies on the idea that people are trying to win at the game (chess, business, etc.). If the profit from betting is higher than the profit from winning, the actual sport or business collapses.
 
 ---
