@@ -25032,3 +25032,26 @@ confusing. i did not expect it's 1d.
 just another visual novel. but critically acclaimed.
 
 ---
+
+> 是什么让我端着 MacBook 走出公司？
+> 是 Codex。
+
+---
+
+> When web.archive.org unexpectedly closes the connection (often shown as ERR_CONNECTION_CLOSED or ERR_CONNECTION_RESET), it is typically due to corrupted browser cache, excessive cookies, or a temporary IP block. 
+
+temp ip block?!
+
+---
+
+https://awesome.manus.space/
+
+updated.
+
+there is no way i could go back wo rev engineering or osint.
+
+(wayback machine fe routing 404).
+
+i should have saved the mhtml.
+
+---

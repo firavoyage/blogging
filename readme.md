@@ -350,6 +350,7 @@ $fira$ `elegance`
     - xiao a zai shang wang
   - life
     - (see `with.md`)
+    - amamiyamion amamiyamion.github.io
     - anlin zhihu
     - antoninoscordino ntonino ant14181 gsmc_pics ntonino.eu
     - butaikirin citronateo hee.ink jiba.hee.ink <!-- ? -->
@@ -399,6 +400,7 @@ $fira$ `elegance`
     - yeyouchuan yeyouchuan.me
     - yifusuyi beiyanna3alf6 mtf.wiki
     - yihong0618 hyi0618
+    - yuanzhe_zyz
     - yukarichiba yukarichannel 0x7f.cc ewe.moe
     - yunyoujun yunyoujun.cn
     - ziantt ziantt_official lightxi ziantt.top mengxi969 ch3rryzhu mengxiblog.top

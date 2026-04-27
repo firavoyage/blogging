@@ -1493,7 +1493,6 @@ sudo systemctl restart earlyoom
   - auto launch `on`
   - silent start `on`
   - port config `7890`
-  - dns overwrite `on`
 
 ## `extension manager`
 
