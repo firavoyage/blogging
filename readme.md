@@ -189,6 +189,7 @@ $fira$ `elegance`
     - oooooohmygosh
     - openai openai.com chatgptapp chat.com
     - pidanzhoujiala
+    - polymarket polymarket.com
     - producthunt producthunt.com producthunt.com/shoutouts producthunt.com/golden-kitty-awards/hall-of-fame
     - project-sekai-ctf sekai.team ctf.sekai.team
     - q.ai

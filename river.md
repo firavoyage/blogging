@@ -25070,3 +25070,41 @@ i should have saved the mhtml.
 > The "Free Market" relies on the idea that people are trying to win at the game (chess, business, etc.). If the profit from betting is higher than the profit from winning, the actual sport or business collapses.
 
 ---
+
+on polymarket...
+
+some numbers are cropped... stacked...
+
+poor fe.
+
+---
+
+`quote`
+
+不考虑噪音.
+
+人分阶级.
+
+阶级意味着自由. 没有阶级什么也做不了.
+
+然后, 大概兴趣爱好吧. 也可以说知识技能.
+
+可能是很好的人, 但是不会和我交集.
+
+没有了.
+
+性别, 人种影响外观和感觉. 
+
+歧视黑人, 一般来自平均阶层吧.
+
+政治观点...
+
+不科学的信仰阶层不可能高.
+
+- 压制异见, 其本身就值得怀疑
+- 概率分布, 大数定律
+- 为 "懒惰" "无能" 的普遍借口
+
+至于保守激进, 没有好坏分. 和自己的性格 (过去的经历, 成长环境), 利益 (当下的状态) 有关.
+
+---
