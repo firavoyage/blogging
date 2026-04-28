@@ -382,6 +382,10 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `ova1` 2026.03.31
 - `ova2` 2026.04.01
 
+### clannad s2
+
+- `1` 2026.04.28
+
 ### puella magi madoka magica
 
 - `1` 2026.04.02
@@ -25106,5 +25110,44 @@ poor fe.
 - 为 "懒惰" "无能" 的普遍借口
 
 至于保守激进, 没有好坏分. 和自己的性格 (过去的经历, 成长环境), 利益 (当下的状态) 有关.
+
+---
+
+`project`
+
+翻看 adhensiontek 的评论区. berryberry 的 at 对于改名很神奇.
+
+可能是一个写定的 id, 但显示其当时的名字.
+
+ame rikki 和 社会易姐 竟然是 osint "14 酱" origin 的人?!
+
+置于他们有 berryberry 账户倒是不奇怪.
+
+也许以后可以自动检索. 但很多人其实... 并没有什么活动.
+
+叫什么呢? with 的一个插件?
+
+trkr? all?
+
+llm 肯定要用的, 我想. 只是 id 的话, 太无趣了. 
+
+所以应该是作为 humility 的一个 knowledge.
+
+世界上人很少. 同时人不会变化很快. 所以发现后存档到 all 就可以了. 
+
+关于人的作品, 还是由人维护好. 就像 travelling blog.
+
+不需要很认真的. 大致上做一下就好. 也注定不能流行. (如果 aicu.cc 流行, 大家或许会下意识防御?)
+
+尽管 tg 中转站很容易穿透. (除非限制人数严格, 人工审查每一个, 还保证没有分享者.)
+
+结论大概是...
+
+- find ppl with humility knowledge (or even manually) 
+- save to all
+- eat (auto track changes)
+- grow (auto archival)
+
+trkr does not feel like a good name. it's not tracking. it's to gather and analyze (relate).
 
 ---

@@ -806,9 +806,13 @@ inspired by
 
 -->
 
-`trkr`
+`have` <!-- `trkr` -->
+
+<!-- i will have it. i already have it. -->
 
 > observe and analyze.
+
+<!-- it were originally "the changes feature on the wayback machine" -->
 
 inspired by
 
