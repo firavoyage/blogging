@@ -133,6 +133,7 @@ $fira$ `elegance`
   - mindfulness · meditation · existentialism · cynicism · accelerationism · dissociation · inner speech · second person omniscient narration
 - personas
   - art & design
+    - phantom phantomwallet phantom.com
     - aliimam_in aliimam.in 21st.dev 1code.dev
     - antfu antfu.me 100.antfu.me sli.dev
     - anthropicai anthropic.com claudeai claude.ai
@@ -212,6 +213,7 @@ $fira$ `elegance`
     - thexclu clu.so capwords.app
     - tim mediastorm ysjf.com
     - tonsky tonsky.me grumpy.website github.com/tonsky/firacode allekinos.de instantdb.com
+    - vincent bonjour.bio/vincent bonjour_bio bonjour.bio fancyteams.bonjour.bio 
     - wengtianxin dandyweng.com blog.dandyweng.com camarts.app
     - yearsprogress yearprogress
     - yetone alma.now

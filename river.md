@@ -25151,3 +25151,46 @@ llm 肯定要用的, 我想. 只是 id 的话, 太无趣了.
 trkr does not feel like a good name. it's not tracking. it's to gather and analyze (relate).
 
 ---
+
+openrouter rm my access to openai anthropic and google.
+
+damn.
+
+crypto, non kyc is non nego.
+
+---
+
+> 最近精神状态好一点了
+> 但还是更喜欢白天
+> 晚上的时候会带一个虚弱 debuff（？
+
+menci 是很有感受的人呢.
+
+---
+
+> 😉你好awa，欢迎看到我的这条简介帖，我是Acbox，也可以叫我小箱子or小盒子，希望我们可以成为朋友
+> 🧭关于我
+> - 正在做开源/AI创业项目EchoAI，目前正在全职building bijon.ai 和 sciux.dev ,bugduck.org 的co-founder, GitHub账号是sheepbox8646, 700+stars开源项目newcar的作者(虽然目前已停止维护)
+> - 16岁，目前已经离开学校跑到深圳生活，自考A-level和IELTS,也许会在在2027申请CUHK
+> - 全栈开发者，🎨UI/UX学习中
+> - 活动地区: 深圳/广州/香港
+> - 其他: 🚇轨道交通/🧤MaimaiDX/🏳️‍⚧️/📻预备HAM/🥁架子鼓/阿斯博格/🦄Brony/
+
+https://web.archive.org/web/20241225115455/https://twitter.com/AcboxLiu/status/1871887342493212951
+
+resume
+
+---
+
+chrome web store:
+
+dark mode as a feature?!
+
+---
+
+gemini:
+
+> Refresh to continue.
+
+---
+

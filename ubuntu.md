@@ -2048,6 +2048,7 @@ sudo systemctl restart earlyoom
   - manage access to accounts: authenticator https://chromewebstore.google.com/detail/authenticator/bhghoamapcdpbohphigoooaddinpkbai
   - manage multiple accounts: cookie profile switcher https://chromewebstore.google.com/detail/cookie-profile-switcher/dicajblfgcpecbkhkjaljphlmkhohelc
   - manage crypto accounts: meta mask https://chrome.google.com/webstore/detail/nkbihfbeogaeaoehlefnkodbefgpgknn <!-- deprecated. incompatible without the extension. -->
+  - trade crypto: phantom https://chromewebstore.google.com/detail/phantom/bfnaelmomeimhlpmgjnjophhpkkoljpa
   - enhance youtube: picture in picture https://chromewebstore.google.com/detail/picture-in-picture-extens/hkgfoiooedgoejojocmhlaklaeopbecg?hl=en
   - enhance twitter: control panel for twitter https://chromewebstore.google.com/detail/control-panel-for-twitter/kpmjjdhbcfebfjgdnpjagcndoelnidfj
     - x fixes: premium blue checks `hide`
@@ -3088,4 +3089,7 @@ sudo apt install -y chocolate-doom
 
 # play network infra
 flatpak install -y flathub io.github.Archeb.opentrace
+
+# trade crypto
+flatpak install -y flathub network.bisq.Bisq
 ```

@@ -337,6 +337,7 @@ inspired by
 - google
 - golden dict
 - jisho
+- eudic
 
 `leisure`
 
