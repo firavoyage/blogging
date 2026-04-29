@@ -133,7 +133,6 @@ $fira$ `elegance`
   - mindfulness · meditation · existentialism · cynicism · accelerationism · dissociation · inner speech · second person omniscient narration
 - personas
   - art & design
-    - phantom phantomwallet phantom.com
     - aliimam_in aliimam.in 21st.dev 1code.dev
     - antfu antfu.me 100.antfu.me sli.dev
     - anthropicai anthropic.com claudeai claude.ai
@@ -143,6 +142,7 @@ $fira$ `elegance`
     - avstorm bento.me/storm iconists.co centralicons.com
     - badlogic badlogicgames mariozechner.at pi.dev
     - basicappleguy basicappleguy.com
+    - bchillman phantom phantomwallet phantom.com trade.phantom.com
     - chen xiao origami
     - cyannyan6 hoshinolina cyannyan.com lina.yt
     - dhh dhh.dk rubyonrails.org omarchy.org 37signals.com basecamp.com hey.com once.com once.com/campfire once.com/writebook
@@ -927,17 +927,17 @@ $fira$ `elegance`
 
 > `firahq` <!-- · `firavoyage` · `firascript` · `firatheprecious`, legacy: · `"忘我思考"` · `paperboat2020` -->
 
-- - github `firahq`
+- - github `firahq` `humilityhq`
   - npm `firahq`
   - wikipedia `User:Firahq`
-  - gitea `firavoyage` `firavoyage2`
-  - wakatime `firavoyage`
-  - codepen `firavoyage`
+  <!-- - gitea `firavoyage` `firavoyage2` -->
+  <!-- - wakatime `firavoyage` -->
+  <!-- - codepen `firavoyage` -->
 - - arxiv `firahq`
   - zenodo `firahq`
   - orcid `0009-0007-1207-3193`
-  - osf `zfv2j`
-  - linkedin `firahq`
+  <!-- - osf `zfv2j` -->
+  <!-- - linkedin `firahq` -->
 - - steam `firascript`
   - duolingo `firahq` `firavoyage`
   - foxwq `firascript` `李烨炀本物`
@@ -947,8 +947,8 @@ $fira$ `elegance`
 - - youtube `thefirahq`
   - twitch `firahq`
   - berryberry `1156993272` `bili_26837222900`
-  - douyin `firavoyage`
-  - acfun `忘我思考` `65210945`
+  <!-- - douyin `firavoyage` -->
+  <!-- - acfun `忘我思考` `65210945` -->
 - - twitter `firahq` ~~`firascript`~~
   - reddit `u/firahq`
   - zhihu `firahq`
@@ -959,8 +959,10 @@ $fira$ `elegance`
 - - matrix `@firahq:matrix.org` <!-- might be inactive -->
   - matrix space `#firahq:matrix.org`
   - telegram `firavoyage` <!-- might be outdated -->
-  - telegram group `voyagefira`
+  <!-- - telegram group `voyagefira` -->
   - telegram channel `firaprecious` `logfira` 
+- - phantom `humilityhq`
+  - polymarket `humilityhq`
 
 <!--
 

@@ -385,6 +385,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 ### clannad s2
 
 - `1` 2026.04.28
+- `2` 2026.04.29
 
 ### puella magi madoka magica
 
@@ -25191,6 +25192,78 @@ dark mode as a feature?!
 gemini:
 
 > Refresh to continue.
+
+---
+
+phantom does not show percentage by default.
+
+actually, sometimes 0.01, sometimes 1%.
+
+inconsistent.
+
+sometimes it shows a js positive zero liq price on 1x lev.
+
+btw, i think you should show % instead of the price by default.
+
+---
+
+> Heritage: Millman has identified himself as having a Jewish background, which was a part of his upbringing.
+
+---
+
+frontend is ...
+
+sometimes you need refresh.
+
+many sites.
+
+e.g. you open a tab in bg.
+
+sucks.
+
+---
+
+for a token with only 11h history...
+
+phantom shows a monthly history by default?!
+
+only one thick "bear".
+
+---
+
+phantom ux is cool. but not so predictable. 
+
+i mean a good consistend component lib.
+
+a pull down menu is exactly the same as a toggle button.
+
+toggle button does nothing on hover and active. it shows a help when you hover for a while.
+
+pull down menu shows a bg when you hover. but there is no down `<` symbol on right.
+
+yet, its main "trade view" is from 3p. effectively an iframe with its own design.
+
+---
+
+Anthony Summit
+
+weird. no idea what they saying. add to sns.
+
+---
+
+i wanna have a fixed tg.
+
+new msg no longer reorder chats.
+
+---
+
+vscode loads the full file into ram?
+
+---
+
+vscode has some fuzzy search.
+
+google has more extreme fuzzy search.
 
 ---
 

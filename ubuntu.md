@@ -224,7 +224,8 @@ sudo swapon /swap.img
 grep -q '/swap.img' /etc/fstab || echo '/swap.img none swap sw 0 0' | sudo tee -a /etc/fstab # make swap permanent in fstab
 sudo sed -i 's/^#ALLOCATION=.*/ALLOCATION=8192/' /etc/default/zramswap # config zRAM for 8GB compressed memory
 sudo systemctl enable --now zramswap.service
-sudo sed -i 's/^#EARLYOOM_ARGS=.*/EARLYOOM_ARGS="-m 10 -s 10"/' /etc/default/earlyoom
+sudo sed -i 's/^#EARLYOOM_ARGS=.*/EARLYOOM_ARGS="-m 2 -s 2"/' /etc/default/earlyoom
+# sudo sed -i 's/^#EARLYOOM_ARGS=.*/EARLYOOM_ARGS="-m 10 -s 10"/' /etc/default/earlyoom
 sudo systemctl restart earlyoom
 ```
 
@@ -3091,5 +3092,14 @@ sudo apt install -y chocolate-doom
 flatpak install -y flathub io.github.Archeb.opentrace
 
 # trade crypto
-flatpak install -y flathub network.bisq.Bisq
+bisq_url="https://github.com/bisq-network/bisq2/releases/download/v2.1.10/Bisq-2.1.10.deb" # bisq2
+bisq_file="bisq.deb"
+wget -c -O "$bisq_file" "$bisq_url"
+sudo apt install -y -f
+sudo dpkg -i "$bisq_file"
+rm "$bisq_file"
+# flatpak install -y flathub network.bisq.Bisq # bisq1, outdated, laggy
+
+# extract text from images
+flatpak install -y flathub com.github.tenderowl.frog
 ```
