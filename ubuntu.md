@@ -227,6 +227,7 @@ sudo systemctl enable --now zramswap.service
 sudo sed -i 's/^#EARLYOOM_ARGS=.*/EARLYOOM_ARGS="-m 2 -s 2"/' /etc/default/earlyoom
 # sudo sed -i 's/^#EARLYOOM_ARGS=.*/EARLYOOM_ARGS="-m 10 -s 10"/' /etc/default/earlyoom
 sudo systemctl restart earlyoom
+# sudo systemctl stop earlyoom # if needed
 ```
 
 ## `settings`

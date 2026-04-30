@@ -332,12 +332,39 @@ fuzzy search
 
 ask llm
 
+categorize
+
+- root prefix suffix
+- tenses
+- singular plural
+
+relate
+
+- synonym
+- acronym
+
 inspired by
 
 - google
 - golden dict
 - jisho
 - eudic
+
+<!-- 
+
+1. **Scour the Dictionary:** Researchers take every adjective that describes a person (thousands of words like _kind_, _lazy_, _sincere_, _bold_).
+2. **Filter for Personality:** They remove temporary states (like _hungry_) or physical traits (like _tall_).
+3. **Factor Analysis:** They ask thousands of people to rate themselves or others on these words. They then use statistical software to see which words "clump" together.
+
+- _Example:_ If people who are rated as "hardworking" are also consistently rated as "organized" and "disciplined," those words all belong to one underlying dimension (**Conscientiousness**).
+
+Why it led to HEXACO:
+
+For decades, researchers doing this in English found **five** clumps (The Big Five). However, when Ashton and Lee expanded this to other languages—including Dutch, French, German, Hungarian, Italian, Korean, and Polish—a **sixth** clump kept appearing.
+
+This sixth clump contained words related to being honest, modest, and fair. Because this pattern repeated across completely different cultures and languages, they concluded that **Honesty-Humility** was a universal human dimension that the English-only studies had overlooked.
+
+ -->
 
 `leisure`
 

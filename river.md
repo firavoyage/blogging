@@ -25267,3 +25267,108 @@ google has more extreme fuzzy search.
 
 ---
 
+the math teacher recommended "careless whisper" to me.
+
+in mar. when i were taking uee body exam.
+
+---
+
+> Searching and following other users by username is a feature exclusively available on the Phantom mobile app. The browser extension does not currently support the "People" search or the ability to follow traders via username. 
+
+---
+
+no idea why google applies a weird blue bg.
+
+well, i feel... it might be good?
+
+- it's still md3.
+- less contrast. more natural.
+
+---
+
+claude popups "try claude in excel". just like manus. just like chatgpt.
+
+i never use excel...
+
+does google do this?
+
+> dont be evil
+
+---
+
+my father drunk drives wo getting caught.
+
+---
+
+`retro`
+
+llm 说到底有些作弊.
+
+在计算平行四边形向量个数的时候, 
+
+人类会直观想象一下. 
+
+llm 却用基底法, 全列出来.
+
+组合符号用括号而不是 c.
+
+最后最关键的部分, 直接用结论.
+
+如果是考试的话, 应该会直接跳掉.
+
+压轴第三, 写一些有一些分啊.
+
+其实正式考试中, 从来也没有做出过圆锥曲线. 也不需要几乎.
+
+周考倒是对过, 但其实是批改的. 做法是特值答案, 然后多少写一些步骤.
+
+期末考也有批错过, zhijun. 高一? 考得很高, 虽然没有明说, 大概 ~~心情不好~~ 心里有些感觉.
+
+于是看卷子, sin(a+b) 展开是错的. 此后就好算许多. 证明题. 按说此后应该一分不拿的. (除非重写一个正确答案, 只是忘记划掉之前的)
+
+不过那次, 就算不拿这个, 也是断层第一就是了.
+
+弱的孩子. 
+
+之前不喜欢一个人. 偷走卷子, 去办公室要求改分. 当然是往低.
+
+事实是事实. 不过那个老师孩子都大学或者工作了, 有阅历, 直接说让他自己来改. 如果二十或者三十岁的可能直接改掉了.
+
+也不知道他最后知不知道.
+
+---
+
+there are events like twitter surfing, group chats.
+
+infinite.
+
+though sometimes inspiring.
+
+the conclusion is i should timebox.
+
+---
+
+`retro`
+
+~~roadmap~~ plan
+
+in jhs, in computer class, it was by the school doctor.
+
+teaching like
+
+- how to use windows, like when to use left or right click, when to double click, how to press shortcuts (control keys go first)
+- how to use office
+- scratch
+
+at that time, sometimes we dont even touch the computer. for some classes. though we are quite into computers.
+
+one thing is,
+
+she always wants us to write a plan, like how will we use the computer before starting a task. e.g.
+
+- search infomation
+- dl some pics
+- use word
+- use some stylish fonts
+
+---

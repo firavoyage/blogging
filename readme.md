@@ -1,5 +1,7 @@
 $fira$ `elegance`
 
+<!-- f is for fira -->
+
 ## .
 
 <!-- 永远 20 岁. -->
@@ -269,7 +271,7 @@ $fira$ `elegance`
     - michaelyuhe coooolxyh emojionly.chat travelclaw.app
     - misprit7 built-from-scratch from_scratch_yt xander.naumenko.com
     - moxie signal.org
-    - nat friedman nat.org github
+    - nat friedman nat.org nfdg.com github.com
     - nekomeowww ayakaneko ayaka.moe ayaka.io nolebase.ayaka.io littlesound rizumu.me
     - newlearnerchannel
     - ornicar lichess.org
@@ -961,7 +963,7 @@ $fira$ `elegance`
   - telegram `firavoyage` <!-- might be outdated -->
   <!-- - telegram group `voyagefira` -->
   - telegram channel `firaprecious` `logfira` 
-- - phantom `humilityhq`
+- - phantom `humilityhq` `HUThP9CXGmpiHpW4dgk3abDVpyvTYgPv9kzSbRCYzWY9`
   - polymarket `humilityhq`
 
 <!--
