@@ -386,6 +386,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 
 - `1` 2026.04.28
 - `2` 2026.04.29
+- `3` 2026.04.30
 
 ### puella magi madoka magica
 
@@ -23821,6 +23822,8 @@ Menci 💖, [4/23/26 1:21 AM]
 同样的羽毛球场，或者篮球场，多一个这个功能，可能就能吸引很多客户复购
 ```
 
+`societyirl`
+
 ```md
 澪, [4/23/26 1:50 AM]
 腾讯焦虑的背后，字节豆包月活规模，是腾讯元宝的 6 倍。 从当年的百度一下，变成问问豆包。
@@ -25370,5 +25373,247 @@ she always wants us to write a plan, like how will we use the computer before st
 - dl some pics
 - use word
 - use some stylish fonts
+
+---
+
+`societyirl`
+
+```md
+Rf8x6iD, [4/28/26 10:33 AM]
+各位被导员约谈了吗
+
+斬風千雪 ❄️, [4/28/26 10:34 AM]
+啥
+
+Rf8x6iD, [4/28/26 10:34 AM]
+<!-- 
+融 是
+
+导 员 说
+锅 州 网 景
+
+给 的 名 单
+说 这 些 人 频率 有 操 局
+名 单 上 惑 我 一 个 25 级 的
+ -->
+
+Rf8x6iD, [4/28/26 10:34 AM]
+我同学渤海大学
+
+斬風千雪 ❄️, [4/28/26 10:34 AM]
+我校园网搭梯子是先回家再出境
+
+斬風千雪 ❄️, [4/28/26 10:34 AM]
+没啥出境流量
+
+Rf8x6iD, [4/28/26 10:34 AM]
+访问国际互联网被找了
+
+斬風千雪 ❄️, [4/28/26 10:34 AM]
+然后我家是 v6 入 v4 出
+
+斬風千雪 ❄️, [4/28/26 10:35 AM]
+应该没啥风险
+
+Rf8x6iD, [4/28/26 10:35 AM]
+他用的ikuuu机场
+
+Rf8x6iD, [4/28/26 10:35 AM]
+咋被抓的呢
+
+Rf8x6iD, [4/28/26 10:35 AM]
+最近真严啊
+
+Rf8x6iD, [4/28/26 10:37 AM]
+我们学校没校园网 用的移动和联通的酒店资源
+
+Restent Ou, [4/28/26 10:46 AM]
+学校那边的处理态度是？
+
+Rf8x6iD, [4/28/26 10:51 AM]
+让别用了
+
+Rf8x6iD, [4/28/26 10:51 AM]
+ikuuu被端了前几天好像
+
+Restent Ou, [4/28/26 10:51 AM]
+居然没上处分，算好了
+
+Restent Ou, [4/28/26 10:51 AM]
+我们学校抓到就送处分大礼包
+
+Rf8x6iD, [4/28/26 10:51 AM]
+哪个学校啊
+
+MoeMagicMango✨, [4/28/26 10:51 AM]
+没业绩开始抓人了吗
+
+Restent Ou, [4/28/26 10:52 AM]
+能告诉你的是这个学校在 Nanning, Guangxi（
+
+Restent Ou, [4/28/26 10:52 AM]
+而且是常态，不是因为没业绩
+
+Rf8x6iD, [4/28/26 10:53 AM]
+好可怕。
+
+Restent Ou, [4/28/26 10:53 AM]
+所以去年入学的时候我办了一张联通的流量卡，反正这个学校的 B 网络一直没好过
+
+Restent Ou, [4/28/26 10:54 AM]
+今年搬出来住之后 办了条联通的千兆宽带
+
+MoeMagicMango✨, [4/28/26 10:54 AM]
+如果这样子的话 游戏加速器他也算访问境外网络抓人吗
+
+MoeMagicMango✨, [4/28/26 10:55 AM]
+帽子经常这两类不分
+
+Restent Ou, [4/28/26 10:55 AM]
+我们学校也算
+
+Restent Ou, [4/28/26 10:55 AM]
+因为有防火墙的存在
+
+Restent Ou, [4/28/26 10:56 AM]
+甚至 whitelist 傻逼到 拦截 redhat.com
+
+Restent Ou, [4/28/26 10:58 AM]
+得庆幸的是自己今年选择搬出来住，学校里面不论是住宿还是网络都很差劲
+
+Rf8x6iD, [4/28/26 11:04 AM]
+我也想搬出来住
+```
+
+```md
+Syoook, [4/30/26 12:25 AM]
+
+
+Syoook, [4/30/26 12:25 AM]
+妈了个逼一堆骚扰电话往我 giffgaff 打
+
+zyglq, [4/30/26 12:26 AM]
+这还叫一堆
+
+zyglq, [4/30/26 12:26 AM]
+你把你的手机号挂到 Google map 上试试
+
+zyglq, [4/30/26 12:26 AM]
+
+
+zyglq, [4/30/26 12:26 AM]
+
+
+zyglq, [4/30/26 12:26 AM]
+又开始饱和式诈骗
+
+渴望怜爱的 むらさき | 抱...抱不到, [4/30/26 12:36 AM]
+你这号干啥了
+
+渴望怜爱的 むらさき | 抱...抱不到, [4/30/26 12:36 AM]
+我gv几乎没啥电话没啥短信
+
+zyglq, [4/30/26 12:36 AM]
+你把你的手机号挂到 Google map 上试试
+
+渴望怜爱的 むらさき | 抱...抱不到, [4/30/26 12:36 AM]
+草
+
+渴望怜爱的 むらさき | 抱...抱不到, [4/30/26 12:36 AM]
+不是
+
+渴望怜爱的 むらさき | 抱...抱不到, [4/30/26 12:36 AM]
+你这
+
+zyglq, [4/30/26 12:36 AM]
+淘宝买的 买完发现在 Google maps 上有个艺术馆
+
+zyglq, [4/30/26 12:37 AM]
+我也懒得去删了
+
+渴望怜爱的 むらさき | 抱...抱不到, [4/30/26 12:37 AM]
+艹
+
+渴望怜爱的 むらさき | 抱...抱不到, [4/30/26 12:37 AM]
+淘宝买gv
+
+渴望怜爱的 むらさき | 抱...抱不到, [4/30/26 12:37 AM]
+艺高人胆大
+
+zyglq, [4/30/26 12:38 AM]
+那个年代还能在淘宝买 aws 注册卡呢
+
+渴望怜爱的 むらさき | 抱...抱不到, [4/30/26 12:38 AM]
+哦
+
+渴望怜爱的 むらさき | 抱...抱不到, [4/30/26 12:38 AM]
+之前哇
+
+渴望怜爱的 むらさき | 抱...抱不到, [4/30/26 12:38 AM]
+gv五块钱一个时候
+
+渴望怜爱的 むらさき | 抱...抱不到, [4/30/26 12:38 AM]
+那确实不错
+
+渴望怜爱的 むらさき | 抱...抱不到, [4/30/26 12:38 AM]
+现在gv都快上百了吧
+
+zyglq, [4/30/26 12:38 AM]
+三四十吧
+
+zyglq, [4/30/26 12:39 AM]
+当年囤了五个
+
+zyglq, [4/30/26 12:39 AM]
+```
+
+---
+
+on acbox twitter sometimes i could comment, sometimes i could not.
+
+likely
+
+- all (including auto spammers with bot like anime avatar, word plus number id, and almost no posts, followers, or following.)
+- who follow me (for days? like for priv acc)
+- followed by who i follow (new)
+- who i follow
+- ... (cmt open, but effectively closed as no one could satisfy)
+- none
+
+---
+
+mitchellh says he's leaving github on ghostty...
+
+because gh is unstable?
+
+---
+
+`ref`
+
+earlyoom detects both swap and ram.
+
+but my laptop could be fully functional with no swap and some ram.
+
+---
+
+(search google ai)
+
+> claude 中转站
+
+(i dont have to buy it now. i could have it anytime. it's quite easy to find, just like "airports". search engine is good enough. word of mouth or telegram channels are better.)
+
+it might be easier...
+
+but, well it be cheaper?
+
+well... it might! with subscription exploitation!
+
+but will it be sustainable?
+
+ref:
+
+https://linux.do/t/topic/917319/20
+
+(generally ive no idea if i need them. ik they are premium and high perf. but idk what i will do. e.g. you dont need opus for simple tasks.)
 
 ---

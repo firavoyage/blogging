@@ -220,7 +220,7 @@ $fira$ `elegance`
     - yearsprogress yearprogress
     - yetone alma.now
     - yuanchuan yuanchuan.dev
-    - yuutaw yuuta.moe winsloweric.com
+    - yuutaw yuuta.moe blog.yuuta.moe winsloweric.com
   - code & creation
     - adamwathan adamwathan.me tailwindcss.com
     - andrewgy8 andrewgy8.github.io/hnarcade
@@ -965,6 +965,7 @@ $fira$ `elegance`
   - telegram channel `firaprecious` `logfira` 
 - - phantom `humilityhq` `HUThP9CXGmpiHpW4dgk3abDVpyvTYgPv9kzSbRCYzWY9`
   - polymarket `humilityhq`
+  - okx web3 `HUThP9CXGmpiHpW4dgk3abDVpyvTYgPv9kzSbRCYzWY9`
 
 <!--
 
