@@ -871,6 +871,18 @@ a userscript
 
 ## play
 
+`probability` <!-- accurate, accuratism -->
+
+better polymarket.
+
+tells you why.
+
+- accuracy +- n%, or distribution.
+- past data (not an overall accuracy with many obvious one inside)
+- news
+- commentary
+
+
 `fatefairy`
 
 > self moving chess.

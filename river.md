@@ -25682,3 +25682,23 @@ function calling一次只能调用一个 而且遇到一些参数需要推理和
 she puts a new pfp yestarday (today)?!
 
 ---
+
+```
+Rf8x6iD, [4/28/26 10:51 AM]
+让别用了
+
+Rf8x6iD, [4/28/26 10:51 AM]
+ikuuu被端了前几天好像
+
+sendProc, [5/1/26 12:07 PM]
+这玩意到底有多少人在用（
+
+sendProc, [5/1/26 12:08 PM]
+身边统计学一下 但凡电脑上有CFW的全是用的这个
+
+Sunny Pai, [5/1/26 12:50 PM]
+我自建的，身边也没听说过有
+```
+
+---
+
