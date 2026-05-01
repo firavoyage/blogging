@@ -145,6 +145,7 @@ source
 normalize
 
 - understand `&` and `,` in singers
+- parse lyrics in metadata
 - see translations together
 
 inspired by

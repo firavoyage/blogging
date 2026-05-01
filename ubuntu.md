@@ -173,6 +173,8 @@ python3 -m pip config set global.break-system-packages true # simplify: remove m
 # EOF
 # # simplify: remove meaningless warning system wide
 
+pip install weasyprint # print documents via web
+
 cargo install --locked uv # locked makes it predictable by using the specifc version needed instead of the latest one
 uv tool install ruff
 
@@ -224,10 +226,14 @@ sudo swapon /swap.img
 grep -q '/swap.img' /etc/fstab || echo '/swap.img none swap sw 0 0' | sudo tee -a /etc/fstab # make swap permanent in fstab
 sudo sed -i 's/^#ALLOCATION=.*/ALLOCATION=8192/' /etc/default/zramswap # config zRAM for 8GB compressed memory
 sudo systemctl enable --now zramswap.service
+# sudo systemctl restart zramswap.service # if needed, refresh the swap, might kill apps if ram is full
+# sudo fallocate -l 8G /temp_swap && sudo chmod 600 /temp_swap && sudo mkswap /temp_swap && sudo swapon /temp_swap # if needed, refresh the swap when the ram is almost full
+# sudo systemctl restart zramswap.service
+# sudo swapoff /temp_swap && sudo rm /temp_swap
 sudo sed -i 's/^#EARLYOOM_ARGS=.*/EARLYOOM_ARGS="-m 2 -s 2"/' /etc/default/earlyoom
 # sudo sed -i 's/^#EARLYOOM_ARGS=.*/EARLYOOM_ARGS="-m 10 -s 10"/' /etc/default/earlyoom
 sudo systemctl restart earlyoom
-# sudo systemctl stop earlyoom # if needed
+# sudo systemctl stop earlyoom # if needed, might cause panics or freezes
 ```
 
 ## `settings`
@@ -3097,6 +3103,39 @@ bisq_url="https://github.com/bisq-network/bisq2/releases/download/v2.1.10/Bisq-2
 bisq_file="bisq.deb"
 wget -c -O "$bisq_file" "$bisq_url"
 sudo apt install -y -f
+# sudo apt install -y tor obfs4proxy snowflake-client # if needed, use a bridge, ref https://bridges.torproject.org/bridges/en?transport=obfs4
+# note: it does not use /etc/tor/torrc by default, yet it overwrites ~/.local/share/Bisq2/tor/torrc every time on startup (read only will panic it)
+
+# # [1] use sys tor
+# sudo tee /etc/tor/torrc > /dev/null <<EOF 
+# UseBridges 1
+# ClientTransportPlugin snowflake exec /usr/bin/snowflake-client
+# Bridge snowflake 192.0.2.3:1 2B280B2311BA33EEAD1D32899F44783305D3B89D fingerprint=2B280B2311BA33EEAD1D32899F44783305D3B89D url=https://fastly.net front=cdn.sstatic.net ice=stun:://google.com,stun:://blackberry.com,stun:stun.sipgate.net:3478,stun:://siocali.com,stun:://voipgate.com
+# ControlPort 9051
+# EOF
+# sudo usermod -a -G debian-tor $USER # give bisq2 permission
+# sudo systemctl enable --now tor # run tor
+# sudo systemctl restart tor # restart tor
+# sudo systemctl disable --now tor # stop tor
+# sudo systemctl status tor@default # check tor
+# /opt/bisq2/bin/Bisq2 --torControlPort=9051 # run bisq
+
+# # [2] use bisq tor # the json structure is not well documented, might not work
+# tee ~/.local/share/Bisq2/settings.json > /dev/null <<EOF 
+# {
+#   "torSettings": {
+#     "torMode": "PROVIDED_BRIDGES",
+#     "transportType": "OBFS4",
+#     "customBridges": [
+#         "obfs4 76.156.82.113:8214 1B6CB332A1954FDF740DE75E8AFAEB41469D5821 cert=voxt3pqV5YWgLcqoHt+HDBieiUVzgxx3MOVHHa3RUPqlmsMGzSMu0Mv3AcY3XkQK9UirFw iat-mode=0",
+#         "obfs4 84.22.109.77:8088 CEF423251E83353BD875CB5327B458F4C8751170 cert=HMCEwtFxM3OK68PTtZ0NXeYlabBRrRGF1IddIEfXk0J7Dmuq7Y2zgohCwjluwFE0AuH8Zg iat-mode=0"
+#     ],
+#     "useSystemTor": false,
+#     "torControlPort": 9051
+#   }
+# }
+# EOF
+
 sudo dpkg -i "$bisq_file"
 rm "$bisq_file"
 # flatpak install -y flathub network.bisq.Bisq # bisq1, outdated, laggy

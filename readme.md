@@ -276,6 +276,7 @@ $fira$ `elegance`
     - newlearnerchannel
     - ornicar lichess.org
     - privatenumber hirok.io
+    - qqqqqf-q qqqqqf5 清凤.fun arkloop.cn alexma233 alexma.top blog.alexma.top forgejo.alexma.top fodesu doop_dev <!-- ik it will fail. no internationalization. ordinary team members. stupid slogan/about. trivial purpose. but let's see. yk, humans are born to experience failures. small potatoes... -->
     - radolyn radolyn.com docs.ayugram.one
     - randy lutaonan.com
     - risin42 nagramx

@@ -1,8 +1,8 @@
-# river
+river
 
-## .
+# .
 
-### the early days
+## the early days
 
 there was a markdown file `timeln.md` (timeline)
 
@@ -28,7 +28,7 @@ i wont read them and nobody will.
 
 unless they are categorized.
 
-### the current version
+## the current version
 
 diaries from timeln are kept as before, sort by date.
 
@@ -54,7 +54,7 @@ things like game progress (gacha system) are categorized, put together.
 legacy `/timeln.md`
 anime `/anime.md`
 
-### change to data and time info
+## change to data and time info
 
 update march 2024
 
@@ -62,18 +62,18 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 
 (the exact dates is redundant, same as times)
 
-## bangumis
+# bangumis
 
-### in solitude where we are least alone
+## in solitude where we are least alone
 
 - `1..12` 2023.10
 - `1` `2` `7` `10` `11` `12` 2024.10.14 (rewatch)
 
-### worldend
+## worldend
 
 - `1..12` 2024.03.10
 
-### lucky star
+## lucky star
 
 - `1` 2024.10.22
 - `2` 2024.10.24
@@ -101,7 +101,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `24` 2025.04.08
 - `ova` 2025.04.08
 
-### evangelion
+## evangelion
 
 - `1` 2024.12.14
 - `2` 2024.12.17
@@ -130,7 +130,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `25` 2025.10.14
 - `26` 2025.10.14
 
-### girls band cry
+## girls band cry
 
 - `1` 2025.04.12
 - `2` 2025.04.13
@@ -146,7 +146,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `12` 2025.05.20
 - `13` 2025.05.21
 
-### the melancholy of haruhi suzumiya
+## the melancholy of haruhi suzumiya
 
 - `1` 2025.05.23
 - `1` 2025.09.12
@@ -180,7 +180,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `27` 2026.01.02
 - `28` 2026.01.03
 
-### hikaru no go
+## hikaru no go
 
 - `1` 2025.05.31
 - `2` 2025.08.01
@@ -202,7 +202,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `18` 2025.09.24
 - `75` 2025.10.15
 
-### oshi no ko
+## oshi no ko
 
 - `1` 2025.07.23
 - `2` 2025.07.24
@@ -216,14 +216,14 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `10` 2025.08.06
 - `11` 2025.08.06
 
-### gushing over magical girls
+## gushing over magical girls
 
 - `1` 2025.08.21
 - `2` 2025.08.23
 - `3` 2025.08.30
 - `4` 2025.10.11
 
-### mygo
+## mygo
 
 - `1` 2025.10.16
 - `2` 2025.10.16
@@ -239,7 +239,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `12` 2025.11.30
 - `13` 2025.12.01
 
-### dream of the red chamber, narrated by muyushuixin
+## dream of the red chamber, narrated by muyushuixin
 
 - `1` 2025.10.17
 - `2` 2025.10.18
@@ -258,7 +258,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `sp3` 2025.10.29
 - `ex1, ex2` deprecated
 
-### yes, prime minister, narrated by muyushuixin
+## yes, prime minister, narrated by muyushuixin
 
 - `1` 2025.10.30
 - `2` 2025.10.31
@@ -269,16 +269,16 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `7` 2025.11.05
 - `8` 2025.11.06
 
-### love, chunibyo & other delusions!, narrated by muyushuixin
+## love, chunibyo & other delusions!, narrated by muyushuixin
 
 - `1` 2025.11.07
 
-### mr. tree, narrated by muyushuixin
+## mr. tree, narrated by muyushuixin
 
 - `1.narration` 2025.11.09
 - `1.explanation` 2025.11.10
 
-### reply 1988, narrated by muyushuixin
+## reply 1988, narrated by muyushuixin
 
 - `1` 2025.11.11
 - `2` 2025.11.12
@@ -290,11 +290,11 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `8` 2025.11.19 2025.11.20
 - `9` 2025.12.02 2025.12.03 2025.12.04
 
-### kaguya-sama: love is war, season 3
+## kaguya-sama: love is war, season 3
 
 - `1` 2025.12.04
 
-### bocchi the rock!, season 1
+## bocchi the rock!, season 1
 
 - `1` 2025.12.21
 - `2` 2026.01.04
@@ -309,7 +309,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `11` 2026.01.13
 - `12` 2026.01.14
 
-### frieren beyond journey’s end
+## frieren beyond journey’s end
 
 - `1` 2026.01.15
 - `2` 2026.01.16
@@ -340,7 +340,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `27` 2026.02.15
 - `28` 2026.02.19
 
-### too many losing heroines!
+## too many losing heroines!
 
 - `1` 2026.02.20
 - `2` 2026.02.21
@@ -355,7 +355,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `11` 2026.03.06
 - `12` 2026.03.07
 
-### clannad
+## clannad
 
 - `1` 2026.03.08
 - `2` 2026.03.09
@@ -382,13 +382,13 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `ova1` 2026.03.31
 - `ova2` 2026.04.01
 
-### clannad s2
+## clannad s2
 
 - `1` 2026.04.28
 - `2` 2026.04.29
 - `3` 2026.04.30
 
-### puella magi madoka magica
+## puella magi madoka magica
 
 - `1` 2026.04.02
 - `2` 2026.04.03
@@ -403,7 +403,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `11` 2026.04.12
 - `12` 2026.04.13
 
-### k-on!
+## k-on!
 
 - `1` 2026.04.14
 - `2` 2026.04.15
@@ -420,9 +420,9 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `13` 2026.04.26
 - `14` 2026.04.27
 
-## gaming
+# gaming
 
-### sr
+## sr
 
 > honkai: star rail
 
@@ -455,7 +455,7 @@ stories from jun 6 2024.
   - mydei 70 shots
   - castorice 80 shots
 
-### gi
+## gi
 
 stories from nov 12 2023
 
@@ -508,7 +508,7 @@ just some wish histories, world quests, artifacts and so on...
 
 current: left the game due to boring daily quests
 
-### cr
+## cr
 
 > clash royale
 
@@ -559,7 +559,7 @@ oct 2023
 two bs account got banned because of the use of script (mastery)
 also used it in cr & got 7k gems without ban (card mastery)
 
-### hg
+## hg
 
 > houkai gakuen second
 
@@ -573,17 +573,17 @@ mostly abandoned early chapters.
 
 playing latest events.
 
-### ba
+## ba
 
 no longer recorded here (see git/memories/gaming)
 
-### ak
+## ak
 
 no longer recorded here (see git/memories/gaming)
 
-## weather
+# weather
 
-### legacy
+## legacy
 
 (no date recorded)
 
@@ -730,7 +730,7 @@ fate
 不二其心
 笃信.
 
-### dec 2023
+## dec 2023
 
 ```
 at the end of every year people always make a sum up about what they have done.
@@ -763,7 +763,7 @@ attempt to build frndship?
 
 widen my impact?
 
-### jan 2024
+## jan 2024
 
 grade 1 autumn finished!
 
@@ -949,7 +949,7 @@ kawaii & elegant
 我想我知道我要做什么了
 ```
 
-### feb 2024
+## feb 2024
 
 ```
 # status
@@ -1031,7 +1031,7 @@ in three parts:
 - start playing from nov 2023
 - now adventure rank 49
 
-## novel reading
+# novel reading
 
 - archon
   - currently at fontaine
@@ -1044,7 +1044,7 @@ in three parts:
   - khvarena of good and evil
   - ... a lot of small quests
 
-## treasure hunting
+# treasure hunting
 
 - collected all anemo&geo culus
 - exploration progress
@@ -1054,7 +1054,7 @@ in three parts:
   - sumeru 15%
   - fontaine 19%
 
-## characters developing
+# characters developing
 
 - teams
   - etenity: shogun xiangling barbara bennet
@@ -1156,7 +1156,7 @@ f
 肥宅赛高!
 ```
 
-### mar 2024
+## mar 2024
 
 1
 
@@ -1396,7 +1396,7 @@ prprpr!!
 <-第7次考试
 ```
 
-### apr 2024
+## apr 2024
 
 1
 
@@ -1754,7 +1754,7 @@ r
 放学踢了会球
 联想到了 vikingz 的 freelancer 建议
 
-### may 2024
+## may 2024
 
 改了一下 ubuntu 的 default cjk fonts
 不知为什么默认的 jp
@@ -1908,7 +1908,7 @@ it works
 ...
 改了 bubeidanci 的设置, 美国小妹妹发音...
 
-### jun 2024
+## jun 2024
 
 1
 
@@ -2302,7 +2302,7 @@ wenzheng 和 zhanzihao 在玩 soulknight
 我会成为你的 ❤
 wangzhaohai
 
-### jul 2024
+## jul 2024
 
 昨晚没有晚睡.
 自然醒.
@@ -2568,7 +2568,7 @@ digdog 上有 paimon sci channel, venti teaching channel
 
 ...
 
-### aug 2024
+## aug 2024
 
 要出发了
 没咋收拾, 几本书, 电脑, 手机, 好了
@@ -2812,7 +2812,7 @@ berryberry 上还有 2013 年的上百万播放.
 望向窗外, 校园的跑道上, 草坪上, 新人军训.
 有一种"江月何年"的感觉.
 
-### sep 2024
+## sep 2024
 
 放课后...
 
@@ -3137,7 +3137,7 @@ upd
 
 best: **iphone 6**
 
-### oct 2024
+## oct 2024
 
 sleep.
 
@@ -3311,7 +3311,7 @@ the former is intuitive.
 
 the latter may be related to namespace issue.
 
-### nov 2024
+## nov 2024
 
 played google doodle halloween
 
@@ -3666,7 +3666,7 @@ neofetch 了一下, 已经连续开机 12 天了.
 
 冷清, 可能是看不到什么颜色吧.
 
-### dec 2024
+## dec 2024
 
 watching funshiki theatre...
 
@@ -4022,7 +4022,7 @@ ok. f 也是入坑 minato aqua 了好吧! 虽然入坑的时候, 她就快毕业
 
 老观众的调情.
 
-### jan 2025
+## jan 2025
 
 dl duolingo
 
@@ -4195,7 +4195,7 @@ upd
 
 休息会, 打游戏去...
 
-### feb 2025
+## feb 2025
 
 今天下午回家啦! 结束了春节旅途...
 
@@ -4513,7 +4513,7 @@ brawlstars tag @89L2J2CG9
 
 "ok" (reacted with crying emoji)
 
-### mar 2025
+## mar 2025
 
 watched being john malkovich (1999) on funshiki live.
 
@@ -5163,7 +5163,7 @@ upd: 愚人节, 早上起来一看, leon max 1103 杯 了. 真厉害啊.
 
 upd: 02 apr. 一觉醒来, carl max 1048
 
-### apr 2025
+## apr 2025
 
 got this
 
@@ -5733,7 +5733,7 @@ ak 上线了竞彩赌博模式诶! 两边各一堆怪, 赌哪边赢.
 
 放到 weekly 里了.
 
-### may 2025
+## may 2025
 
 劳动节! 去长兴岛玩. 玩两天.
 
@@ -6444,7 +6444,7 @@ Each community sticks to its conventions for consistency and historical reasons.
 
 **Tradition.**
 
-### jun 2025
+## jun 2025
 
 `ref`
 
@@ -6714,7 +6714,7 @@ oneplus weather 无法使用.
 
 另一个硕士 (在零售店, 优衣库实习过) 被内推成办公室员工. 这个是今天我知道的. (似乎目前不景气)
 
-### jul 2025
+## jul 2025
 
 Menci 💖 @lcMenci
 
@@ -6988,7 +6988,7 @@ www, fira 是这样的人呢...
 
 (本来没什么精神的, 整个人都好了. f 的生命有希望了.)
 
-### aug 2025
+## aug 2025
 
 去旅游了 3 天, sat, sun, mon. 在苏州.
 
@@ -7860,7 +7860,7 @@ managed to sync g.zip.
 
 _sleep._
 
-### sep 2025
+## sep 2025
 
 2025.09.01 02:30 02:56
 
@@ -7881,7 +7881,7 @@ later:
 ````md
 You've just discovered one of JavaScript's most infamous "features"! 😫
 
-## JavaScript's Terrible Default Behavior
+# JavaScript's Terrible Default Behavior
 
 You're absolutely right - this is awful design. In JavaScript:
 
@@ -7895,13 +7895,13 @@ function example() {
 }
 ```
 
-## Why This Happens
+# Why This Happens
 
 1. **No `use strict`**: Without strict mode, JS allows implicit globals
 2. **Loose mode**: Assigning to undeclared variables creates global properties
 3. **Historical mistake**: This was a bad design decision in early JS that can't be fixed now for backward compatibility
 
-## The Fix: Always Use `use strict`
+# The Fix: Always Use `use strict`
 
 ```javascript
 "use strict"; // ← Add this at the top of your file/function
@@ -7912,7 +7912,7 @@ function example() {
 }
 ```
 
-## Or Better: Use Modern JS Tools
+# Or Better: Use Modern JS Tools
 
 Most modern frameworks/bundlers automatically enable strict mode:
 
@@ -7924,7 +7924,7 @@ useEffect(() => {
 }, []);
 ```
 
-## Comparison to Other Languages
+# Comparison to Other Languages
 
 You're right - most sane languages don't do this:
 
@@ -7933,7 +7933,7 @@ You're right - most sane languages don't do this:
 - **Ruby**: Local by default, need `$interval` for global
 - **PHP**: Requires `global $interval` to access globals
 
-## JavaScript's Awful Legacy
+# JavaScript's Awful Legacy
 
 This is why experienced JS developers:
 
@@ -7950,14 +7950,14 @@ You've stumbled upon one of JavaScript's worst footguns! 🔫 Welcome to the clu
 ````md
 Exactly! 🎯 You've got it!
 
-## The Key Insight:
+# The Key Insight:
 
 **Cleanup only runs in two scenarios:**
 
 1. **Before the effect re-runs** (when dependencies change)
 2. **When the component unmounts**
 
-## So if you have:
+# So if you have:
 
 ```javascript
 e(() => {
@@ -7970,21 +7970,21 @@ e(() => {
 }, [dependencies]); // ← This array determines when cleanup runs
 ```
 
-## With `[count]` as dependency:
+# With `[count]` as dependency:
 
 ```javascript
 // Cleanup runs BEFORE each re-render caused by count change
 e(() => {...}, [count]); // ← Cleanup runs before each new effect
 ```
 
-## With `[]` as dependency:
+# With `[]` as dependency:
 
 ```javascript
 // Cleanup ONLY runs on unmount
 e(() => {...}, []); // ← Cleanup runs only when component is removed
 ```
 
-## With no dependency array:
+# With no dependency array:
 
 ```javascript
 // Cleanup runs BEFORE EVERY render (usually bad!)
@@ -8788,7 +8788,7 @@ douyin.com has performance issue!
 
 berryberry, instead, has a simple web app.
 
-### oct 2025
+## oct 2025
 
 a long journey...
 
@@ -11757,7 +11757,7 @@ twitter 幽默
 
 点击头像, 不是设置, 而是放大. 另有 edit profile.
 
-### nov 2025
+## nov 2025
 
 (zhangbeihai's vid)
 
@@ -13276,7 +13276,7 @@ deepseek uses pow and wasm for sha encryption!
 
 ---
 
-### dec 2025
+## dec 2025
 
 no longer skip lessons in duolingo.
 
@@ -15101,7 +15101,7 @@ but it's a rhythm game. i could not master it. im weak.
 
 give up.
 
-### jan 2026
+## jan 2026
 
 `ref` `white`
 
@@ -15132,13 +15132,13 @@ a bit... simple.
 chatgpt promotion aside. no need to use userscript.
 
 ```
-chatgpt.com##div.aria-live\=polite.fixed.select-none:last-child > div.shadow-long.flex.overflow-hidden.rounded-xl > button.btn.relative.btn-secondary.shadow-long.flex.rounded-xl.border-none.active\:opacity-1
+chatgpt.com#div.aria-live\=polite.fixed.select-none:last-child > div.shadow-long.flex.overflow-hidden.rounded-xl > button.btn.relative.btn-secondary.shadow-long.flex.rounded-xl.border-none.active\:opacity-1
 
-chatgpt.com##aside.flex.gap-4.rounded-3xl
+chatgpt.com#aside.flex.gap-4.rounded-3xl
 
-chatgpt.com###stage-sidebar-tiny-bar > div:nth-child(4) > div.group.__menu-item.hoverable.gap-1\.5.motion-safe\:transition-opacity.motion-safe\:duration-200.motion-safe\:ease-out.opacity-100.motion-safe\:delay-\[175ms\]
+chatgpt.com##stage-sidebar-tiny-bar > div:nth-child(4) > div.group.__menu-item.hoverable.gap-1\.5.motion-safe\:transition-opacity.motion-safe\:duration-200.motion-safe\:ease-out.opacity-100.motion-safe\:delay-\[175ms\]
 
-chatgpt.com###thread > div.composer-parent.flex.flex-1.flex-col.focus-visible\:outline-0 > div.relative.basis-auto.flex-col.-mb-\(--composer-overlap-px\).\[--composer-overlap-px\:28px\].grow.flex:first-child > div.flex.flex-col.text-sm.pb-25:nth-child(2) > article.text-token-text-primary.w-full.focus\:outline-none.\[--shadow-height\:45px\].has-data-writing-block\:pointer-events-none.has-data-writing-block\:-mt-\(--shadow-height\).has-data-writing-block\:pt-\(--shadow-height\).\[\&\:has\(\[data-writing-block\]\)\>\*\]\:pointer-events-auto.scroll-mt-\[calc\(var\(--header-height\)\+min\(200px\,max\(70px\,20svh\)\)\)\]:last-child > div.text-base.my-auto.mx-auto.pb-10.\[--thread-content-margin\:--spacing\(4\)\].\@w-sm\/main\:\[--thread-content-margin\:--spacing\(6\)\].\@w-lg\/main\:\[--thread-content-margin\:--spacing\(16\)\].px-\(--thread-content-margin\):last-child > div.\[--thread-content-max-width\:40rem\].\@w-lg\/main\:\[--thread-content-max-width\:48rem\].mx-auto.max-w-\(--thread-content-max-width\).flex-1.group\/turn-messages.focus-visible\:outline-hidden.relative.flex.w-full.min-w-0.flex-col.agent-turn > div.mt-3.w-full.empty\:hidden:last-child
+chatgpt.com##thread > div.composer-parent.flex.flex-1.flex-col.focus-visible\:outline-0 > div.relative.basis-auto.flex-col.-mb-\(--composer-overlap-px\).\[--composer-overlap-px\:28px\].grow.flex:first-child > div.flex.flex-col.text-sm.pb-25:nth-child(2) > article.text-token-text-primary.w-full.focus\:outline-none.\[--shadow-height\:45px\].has-data-writing-block\:pointer-events-none.has-data-writing-block\:-mt-\(--shadow-height\).has-data-writing-block\:pt-\(--shadow-height\).\[\&\:has\(\[data-writing-block\]\)\>\*\]\:pointer-events-auto.scroll-mt-\[calc\(var\(--header-height\)\+min\(200px\,max\(70px\,20svh\)\)\)\]:last-child > div.text-base.my-auto.mx-auto.pb-10.\[--thread-content-margin\:--spacing\(4\)\].\@w-sm\/main\:\[--thread-content-margin\:--spacing\(6\)\].\@w-lg\/main\:\[--thread-content-margin\:--spacing\(16\)\].px-\(--thread-content-margin\):last-child > div.\[--thread-content-max-width\:40rem\].\@w-lg\/main\:\[--thread-content-max-width\:48rem\].mx-auto.max-w-\(--thread-content-max-width\).flex-1.group\/turn-messages.focus-visible\:outline-hidden.relative.flex.w-full.min-w-0.flex-col.agent-turn > div.mt-3.w-full.empty\:hidden:last-child
 ```
 
 take the second rule. simple.
@@ -15643,13 +15643,13 @@ anyway, good for you, as using the phone for social interaction is no good. good
 on discord (manually cleaned the markdown from discord web html)
 
 ```
-1.  ### f _—_ 9:01 PMMonday, January 12, 2026 at 9:01 PM
+1.  ## f _—_ 9:01 PMMonday, January 12, 2026 at 9:01 PM
 
     hi
 
     Add ReactionEditForwardMore
 
-2.  ### 代碼劍 C0dE*Sw0RdBOOM *—\_ 9:01 PMMonday, January 12, 2026 at 9:01 PM
+2.  ## 代碼劍 C0dE*Sw0RdBOOM *—\_ 9:01 PMMonday, January 12, 2026 at 9:01 PM
 
     ? hello
 
@@ -15657,23 +15657,23 @@ on discord (manually cleaned the markdown from discord web html)
 
     妳是?
 
-4.  ### f _—_ 9:01 PMMonday, January 12, 2026 at 9:01 PM
+4.  ## f _—_ 9:01 PMMonday, January 12, 2026 at 9:01 PM
 
     我是一个没有朋友的宅
 
     Add ReactionEditForwardMore
 
-5.  ### 代碼劍 C0dE*Sw0RdBOOM *—\_ 9:01 PMMonday, January 12, 2026 at 9:01 PM
+5.  ## 代碼劍 C0dE*Sw0RdBOOM *—\_ 9:01 PMMonday, January 12, 2026 at 9:01 PM
 
     我也是
 
-6.  ### f _—_ 9:01 PMMonday, January 12, 2026 at 9:01 PM
+6.  ## f _—_ 9:01 PMMonday, January 12, 2026 at 9:01 PM
 
     我在上海
 
     Add ReactionEditForwardMore
 
-7.  ### 代碼劍 C0dE*Sw0RdBOOM *—\_ 9:01 PMMonday, January 12, 2026 at 9:01 PM
+7.  ## 代碼劍 C0dE*Sw0RdBOOM *—\_ 9:01 PMMonday, January 12, 2026 at 9:01 PM
 
     我离开上海了
 
@@ -15681,7 +15681,7 @@ on discord (manually cleaned the markdown from discord web html)
 
     之前在嘉定
 
-9.  ### f _—_ 9:01 PMMonday, January 12, 2026 at 9:01 PM
+9.  ## f _—_ 9:01 PMMonday, January 12, 2026 at 9:01 PM
 
     你觉得我能不能做一个自己的 cursor
 
@@ -15693,7 +15693,7 @@ on discord (manually cleaned the markdown from discord web html)
 
     Add ReactionEditForwardMore
 
-11. ### 代碼劍 C0dE*Sw0RdBOOM *—\_ 9:02 PMMonday, January 12, 2026 at 9:02 PM
+11. ## 代碼劍 C0dE*Sw0RdBOOM *—\_ 9:02 PMMonday, January 12, 2026 at 9:02 PM
 
     你要本地部署 ai 么
 
@@ -15705,11 +15705,11 @@ on discord (manually cleaned the markdown from discord web html)
 
     ()
 
-14. ### f _—_ 9:02 PMMonday, January 12, 2026 at 9:02 PM
+14. ## f _—_ 9:02 PMMonday, January 12, 2026 at 9:02 PM
 
     我是说我觉得这个很有意思. 想和一些网路上的人聊天
 
-15. ### 代碼劍 C0dE*Sw0RdBOOM *—\_ 9:03 PMMonday, January 12, 2026 at 9:03 PM
+15. ## 代碼劍 C0dE*Sw0RdBOOM *—\_ 9:03 PMMonday, January 12, 2026 at 9:03 PM
 
     这样啊
 
@@ -15721,17 +15721,17 @@ on discord (manually cleaned the markdown from discord web html)
 
     我目前在用 Gemini
 
-18. ### f _—_ 9:03 PMMonday, January 12, 2026 at 9:03 PM
+18. ## f _—_ 9:03 PMMonday, January 12, 2026 at 9:03 PM
 
     我不知道我有没有实力
 
     Add ReactionEditForwardMore
 
-19. ### 代碼劍 C0dE*Sw0RdBOOM *—\_ 9:03 PMMonday, January 12, 2026 at 9:03 PM
+19. ## 代碼劍 C0dE*Sw0RdBOOM *—\_ 9:03 PMMonday, January 12, 2026 at 9:03 PM
 
     做 Ai 需要很强劲的实力
 
-20. ### f _—_ 9:03 PMMonday, January 12, 2026 at 9:03 PM
+20. ## f _—_ 9:03 PMMonday, January 12, 2026 at 9:03 PM
 
     不是做 ai 模型. 是做应用, 用来自动编码.
 
@@ -15743,11 +15743,11 @@ on discord (manually cleaned the markdown from discord web html)
 
     Add ReactionEditForwardMore
 
-22. ### 代碼劍 C0dE*Sw0RdBOOM *—\_ 9:04 PMMonday, January 12, 2026 at 9:04 PM
+22. ## 代碼劍 C0dE*Sw0RdBOOM *—\_ 9:04 PMMonday, January 12, 2026 at 9:04 PM
 
     ![🤔](https://discord.com/assets/d5d18f9c17a19de2.svg) Github 的 pilot 这样的?
 
-23. ### f _—_ 9:04 PMMonday, January 12, 2026 at 9:04 PM
+23. ## f _—_ 9:04 PMMonday, January 12, 2026 at 9:04 PM
 
     像
 
@@ -15765,11 +15765,11 @@ on discord (manually cleaned the markdown from discord web html)
 
     Add ReactionEditForwardMore
 
-26. ### 代碼劍 C0dE*Sw0RdBOOM *—\_ 9:05 PMMonday, January 12, 2026 at 9:05 PM
+26. ## 代碼劍 C0dE*Sw0RdBOOM *—\_ 9:05 PMMonday, January 12, 2026 at 9:05 PM
 
     那个,妳是华裔还是外国人,为啥你的中文像机翻,妳可以用英语和我交流的,如果中文对妳来说很费劲的话
 
-27. ### f _—_ 9:06 PMMonday, January 12, 2026 at 9:06 PM
+27. ## f _—_ 9:06 PMMonday, January 12, 2026 at 9:06 PM
 
     我是上海人. 我的 twitter 是 firascript. github 是 firavoyage.
 
@@ -15777,11 +15777,11 @@ on discord (manually cleaned the markdown from discord web html)
 
     (笑)
 
-29. ### 代碼劍 C0dE*Sw0RdBOOM *—\_ 9:06 PMMonday, January 12, 2026 at 9:06 PM
+29. ## 代碼劍 C0dE*Sw0RdBOOM *—\_ 9:06 PMMonday, January 12, 2026 at 9:06 PM
 
     ![🙃](https://discord.com/assets/460d0ae35d91aed8.svg)
 
-30. ### f _—_ 9:06 PMMonday, January 12, 2026 at 9:06 PM
+30. ## f _—_ 9:06 PMMonday, January 12, 2026 at 9:06 PM
 
     我在现实里几乎没有和人说话.
 
@@ -15793,11 +15793,11 @@ on discord (manually cleaned the markdown from discord web html)
 
     Add ReactionEditForwardMore
 
-32. ### 代碼劍 C0dE*Sw0RdBOOM *—\_ 9:06 PMMonday, January 12, 2026 at 9:06 PM
+32. ## 代碼劍 C0dE*Sw0RdBOOM *—\_ 9:06 PMMonday, January 12, 2026 at 9:06 PM
 
     我以为妳外国人,妳的表达好奇怪 ![🙃](https://discord.com/assets/460d0ae35d91aed8.svg)
 
-33. ### f _—_ 9:07 PMMonday, January 12, 2026 at 9:07 PM
+33. ## f _—_ 9:07 PMMonday, January 12, 2026 at 9:07 PM
 
     (笑)
 
@@ -15809,27 +15809,27 @@ on discord (manually cleaned the markdown from discord web html)
 
     Add ReactionEditForwardMore
 
-35. ### 代碼劍 C0dE*Sw0RdBOOM *—\_ 9:07 PMMonday, January 12, 2026 at 9:07 PM
+35. ## 代碼劍 C0dE*Sw0RdBOOM *—\_ 9:07 PMMonday, January 12, 2026 at 9:07 PM
 
     呃
 
-36. ### f _—_ 9:07 PMMonday, January 12, 2026 at 9:07 PM
+36. ## f _—_ 9:07 PMMonday, January 12, 2026 at 9:07 PM
 
     我要去开展行动了. 还有吃饭.
 
-37. ### 代碼劍 C0dE*Sw0RdBOOM *—\_ 9:07 PMMonday, January 12, 2026 at 9:07 PM
+37. ## 代碼劍 C0dE*Sw0RdBOOM *—\_ 9:07 PMMonday, January 12, 2026 at 9:07 PM
 
     好吧
 
-38. ### f _—_ 9:08 PMMonday, January 12, 2026 at 9:08 PM
+38. ## f _—_ 9:08 PMMonday, January 12, 2026 at 9:08 PM
 
     可以给我你的 twitter 什么的吗
 
-39. ### 代碼劍 C0dE*Sw0RdBOOM *—\_ 9:08 PMMonday, January 12, 2026 at 9:08 PM
+39. ## 代碼劍 C0dE*Sw0RdBOOM *—\_ 9:08 PMMonday, January 12, 2026 at 9:08 PM
 
     ╮(╯-╰)╭ 回见~
 
-40. ### f _—_ 9:08 PMMonday, January 12, 2026 at 9:08 PM
+40. ## f _—_ 9:08 PMMonday, January 12, 2026 at 9:08 PM
 
     discord 我用不来
 
@@ -15841,7 +15841,7 @@ on discord (manually cleaned the markdown from discord web html)
 
     Add ReactionEditForwardMore
 
-42. ### 代碼劍 C0dE*Sw0RdBOOM *—\_ 9:08 PMMonday, January 12, 2026 at 9:08 PM
+42. ## 代碼劍 C0dE*Sw0RdBOOM *—\_ 9:08 PMMonday, January 12, 2026 at 9:08 PM
 
     我的主要社交账号是 B 站 Telegram Github Itchio
 
@@ -15849,17 +15849,17 @@ on discord (manually cleaned the markdown from discord web html)
 
     还有 dc
 
-44. ### f _—_ 9:08 PMMonday, January 12, 2026 at 9:08 PM
+44. ## f _—_ 9:08 PMMonday, January 12, 2026 at 9:08 PM
 
     我是问了 chatgpt, 问哪里可以遇到真人, 聊天才来的这里.
 
     Add ReactionEditForwardMore
 
-45. ### 代碼劍 C0dE*Sw0RdBOOM *—\_ 9:08 PMMonday, January 12, 2026 at 9:08 PM
+45. ## 代碼劍 C0dE*Sw0RdBOOM *—\_ 9:08 PMMonday, January 12, 2026 at 9:08 PM
 
     az
 
-46. ### f _—_ 9:08 PMMonday, January 12, 2026 at 9:08 PM
+46. ## f _—_ 9:08 PMMonday, January 12, 2026 at 9:08 PM
 
     好喵. 你的 id 是什么
 
@@ -15881,15 +15881,15 @@ on discord (manually cleaned the markdown from discord web html)
 
     itchio? 你在开发游戏?
 
-    ### 代碼劍 C0dE*Sw0RdBOOM *—\_ 9:09 PMMonday, January 12, 2026 at 9:09 PM
+    ## 代碼劍 C0dE*Sw0RdBOOM *—\_ 9:09 PMMonday, January 12, 2026 at 9:09 PM
 
     我以前是游戏策划来着
 
-50. ### f _—_ 9:09 PMMonday, January 12, 2026 at 9:09 PM
+50. ## f _—_ 9:09 PMMonday, January 12, 2026 at 9:09 PM
 
     你的 id 是什么...喵呜
 
-51. ### 代碼劍 C0dE*Sw0RdBOOM *—\_ 9:09 PMMonday, January 12, 2026 at 9:09 PM
+51. ## 代碼劍 C0dE*Sw0RdBOOM *—\_ 9:09 PMMonday, January 12, 2026 at 9:09 PM
 
     还是做游戏本地化等等
 
@@ -15897,11 +15897,11 @@ on discord (manually cleaned the markdown from discord web html)
 
     你的 id 是什么...喵呜
 
-    ### 代碼劍 C0dE*Sw0RdBOOM *—\_ 9:09 PMMonday, January 12, 2026 at 9:09 PM
+    ## 代碼劍 C0dE*Sw0RdBOOM *—\_ 9:09 PMMonday, January 12, 2026 at 9:09 PM
 
     哪一个平台的
 
-53. ### f _—_ 9:09 PMMonday, January 12, 2026 at 9:09 PM
+53. ## f _—_ 9:09 PMMonday, January 12, 2026 at 9:09 PM
 
     厉害喵. 有什么游戏喵.
 
@@ -15917,11 +15917,11 @@ on discord (manually cleaned the markdown from discord web html)
 
     厉害喵. 有什么游戏喵.
 
-    ### 代碼劍 C0dE*Sw0RdBOOM *—\_ 9:09 PMMonday, January 12, 2026 at 9:09 PM
+    ## 代碼劍 C0dE*Sw0RdBOOM *—\_ 9:09 PMMonday, January 12, 2026 at 9:09 PM
 
     都删光了哦,之前工作的游戏公司也倒了
 
-56. ### f _—_ 9:09 PMMonday, January 12, 2026 at 9:09 PM
+56. ## f _—_ 9:09 PMMonday, January 12, 2026 at 9:09 PM
 
     当然最喜欢的还是 llms.
 
@@ -15943,17 +15943,17 @@ on discord (manually cleaned the markdown from discord web html)
 
     你的 id 是什么. telegram, github. 其实我最喜欢 twitter.
 
-    ### 代碼劍 C0dE*Sw0RdBOOM *—\_ 9:10 PMMonday, January 12, 2026 at 9:10 PM
+    ## 代碼劍 C0dE*Sw0RdBOOM *—\_ 9:10 PMMonday, January 12, 2026 at 9:10 PM
 
     telegram 是 尽云
 
-60. ### f _—_ 9:10 PMMonday, January 12, 2026 at 9:10 PM
+60. ## f _—_ 9:10 PMMonday, January 12, 2026 at 9:10 PM
 
     (哦我 google 了一下你的 discord handle c0de_sw0rd)
 
     Add ReactionEditForwardMore
 
-61. ### 代碼劍 C0dE*Sw0RdBOOM *—\_ 9:11 PMMonday, January 12, 2026 at 9:11 PM
+61. ## 代碼劍 C0dE*Sw0RdBOOM *—\_ 9:11 PMMonday, January 12, 2026 at 9:11 PM
 
     github 的是[https://github.com/C0dE-Sw0Rd](https://github.com/C0dE-Sw0Rd "https://github.com/C0dE-Sw0Rd")
 
@@ -15967,7 +15967,7 @@ on discord (manually cleaned the markdown from discord web html)
 
     ![Image](https://images-ext-1.discordapp.net/external/92htntcQl05H6QEqWRGBx0kuQuj3IWt9Xtr0Fy9I_Mw/%3Fv%3D4%3Fs%3D400/https/avatars.githubusercontent.com/u/114925083?format=webp&width=160&height=160)
 
-62. ### f _—_ 9:12 PMMonday, January 12, 2026 at 9:12 PM
+62. ## f _—_ 9:12 PMMonday, January 12, 2026 at 9:12 PM
 
     telegram id 是什么.
 
@@ -15995,17 +15995,17 @@ on discord (manually cleaned the markdown from discord web html)
 
     我是说 t.me/...
 
-    ### 代碼劍 C0dE*Sw0RdBOOM *—\_ 9:13 PMMonday, January 12, 2026 at 9:13 PM
+    ## 代碼劍 C0dE*Sw0RdBOOM *—\_ 9:13 PMMonday, January 12, 2026 at 9:13 PM
 
     t.me/@Heaven_Dimension (edited)Monday, January 12, 2026 at 9:13 PM
 
-66. ### f _—_ 9:14 PMMonday, January 12, 2026 at 9:14 PM
+66. ## f _—_ 9:14 PMMonday, January 12, 2026 at 9:14 PM
 
     吃饭喵
 
     Add ReactionEditForwardMore
 
-67. ### 代碼劍 C0dE*Sw0RdBOOM *—\_ 9:14 PMMonday, January 12, 2026 at 9:14 PM
+67. ## 代碼劍 C0dE*Sw0RdBOOM *—\_ 9:14 PMMonday, January 12, 2026 at 9:14 PM
 
     好哦
 ```
@@ -16709,7 +16709,7 @@ upd: login on laptop successfully. idk.
 
 也不想成为很厉害的人. showmanship 太重.
 
-### feb 2026
+## feb 2026
 
 the second one finding me throught git!!!!!
 
@@ -18082,7 +18082,7 @@ it's common big companies dont check js availability in runtime.
 
 ("an application side error occurs")
 
-### mar 2026
+## mar 2026
 
 cyan nyan: cn to us (early age) to (ex) google to jp (vtb).
 
@@ -19911,7 +19911,7 @@ parcel does.
 >
 > 先存为敬
 
-### apr 2026
+## apr 2026
 
 tada
 That's everything we found for you, for now.
@@ -25172,6 +25172,8 @@ menci 是很有感受的人呢.
 
 ---
 
+acbox resume
+
 > 😉你好awa，欢迎看到我的这条简介帖，我是Acbox，也可以叫我小箱子or小盒子，希望我们可以成为朋友
 > 🧭关于我
 > - 正在做开源/AI创业项目EchoAI，目前正在全职building bijon.ai 和 sciux.dev ,bugduck.org 的co-founder, GitHub账号是sheepbox8646, 700+stars开源项目newcar的作者(虽然目前已停止维护)
@@ -25181,8 +25183,6 @@ menci 是很有感受的人呢.
 > - 其他: 🚇轨道交通/🧤MaimaiDX/🏳️‍⚧️/📻预备HAM/🥁架子鼓/阿斯博格/🦄Brony/
 
 https://web.archive.org/web/20241225115455/https://twitter.com/AcboxLiu/status/1871887342493212951
-
-resume
 
 ---
 
@@ -25594,6 +25594,8 @@ earlyoom detects both swap and ram.
 
 but my laptop could be fully functional with no swap and some ram.
 
+upd: it kills only when both are full.
+
 ---
 
 (search google ai)
@@ -25615,5 +25617,68 @@ ref:
 https://linux.do/t/topic/917319/20
 
 (generally ive no idea if i need them. ik they are premium and high perf. but idk what i will do. e.g. you dont need opus for simple tasks.)
+
+## may 2026
+
+reduce all headings by 1 on `river.md`.
+
+there does not need to be one top level h1 heading.
+
+---
+
+it's good you can search `music` and `elisa` will come out.
+
+---
+
+`ref`
+
+https://yuuta.moe/history/2023.2/
+
+"XHTML 1.0 compatible"
+
+---
+
+> 别的男孩子私下里肯定也会偷偷想要变成女孩子(x
+
+> 虽然我不是mtf但是我也是真的想变成女孩子，不知道为何😑
+
+> 高翻车率人群
+
+---
+
+可能不会 dl kaf 了.
+
+之前好像很喜欢这样的音乐.
+
+但是会不会太不平静了. 太有激情了.
+
+或许, 我不需要这些的, 我想.
+
+---
+
+binance: welcome abroad!
+
+abroad?! onboard?!
+
+---
+
+libre map:
+
+- early russia (soviet)
+- ml cn & taiwan as taiwan named as chugoku
+- hk with cn flag named as hk
+
+---
+
+from acbox on bonjour.io (ml cn compliant bento.me equivalent)
+
+```
+我想出了一种新方案，首先可以参考图一的system prompt, 图二是直接扔给gpt的结果，我们采用{start:xxx}{end:xxx}作为标记，slot是content，现在我们调api时开启streaming。
+function calling一次只能调用一个 而且遇到一些参数需要推理和计算的情况下很多模型力不从心，如果需要llm先回答再让他调用工具对于一些场景两次调用就会很慢，用户观感不好，所以我干脆换个想法直接把调用工具以一定格式让ai输出在content里，然后先从edge function拦截流式输出把chunks堆到一个字符串里先堆着，然后自己返回一个stream，每次有新的chunk加入就解析其中的特定标记，如果匹配到新的完整标记则把标记的参数和名字解析一下write到stream里，这样在前端层面（比如结构化矢量图形），用户看到的也是图形一个个的变化，出现，消失，再从前端写一些出场/入场动画，就能得到很完美的观感
+```
+
+(effectively simulated structured output tool calls)
+
+she puts a new pfp yestarday (today)?!
 
 ---
