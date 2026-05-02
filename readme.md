@@ -48,7 +48,7 @@ $fira$ `elegance`
 
 > _慕 强. (装 弱.)_
 
-> _<!-- 我, 不需要更多 --> 技 ☆ 巧 ☆ 性 <!-- 了 -->_ 
+> _<!-- 我, 不需要更多 --> 技 ☆ 巧 ☆ 性 <!-- 了 -->_
 
 > _心 流_
 
@@ -215,7 +215,7 @@ $fira$ `elegance`
     - thexclu clu.so capwords.app
     - tim mediastorm ysjf.com
     - tonsky tonsky.me grumpy.website github.com/tonsky/firacode allekinos.de instantdb.com
-    - vincent bonjour.bio/vincent bonjour_bio bonjour.bio fancyteams.bonjour.bio 
+    - vincent bonjour.bio/vincent bonjour_bio bonjour.bio fancyteams.bonjour.bio
     - wengtianxin dandyweng.com blog.dandyweng.com camarts.app
     - yearsprogress yearprogress
     - yetone alma.now
@@ -271,7 +271,7 @@ $fira$ `elegance`
     - michaelyuhe coooolxyh emojionly.chat travelclaw.app
     - misprit7 built-from-scratch from_scratch_yt xander.naumenko.com
     - moxie signal.org
-    - nat friedman nat.org nfdg.com github.com
+    - nat friedman nat.org nfdg.com github.com danielgross dcgross.com danielgross.com
     - nekomeowww ayakaneko ayaka.moe ayaka.io nolebase.ayaka.io littlesound rizumu.me
     - newlearnerchannel
     - ornicar lichess.org
@@ -302,10 +302,8 @@ $fira$ `elegance`
     - yusixian blog.cosine.ren/weekly
     - zhao-stanley stanleyzhao.com web.lab
   - education
-    - ayumu maki-math.com
     - bellingcat bellingcat.com bellingcat.gitbook.io
     - codingstartup
-    - commonants
     - durov telegram.org tgnav tgnav.github.io tg10000.com tree.aza.moe
     - grant sanderson 3blue1brown.com
     - hmuniversity hmu.ac.cn wildchickenuniversity wcu.edu.pl
@@ -319,6 +317,7 @@ $fira$ `elegance`
     - liyupi yupi.icu codefather.cn yuyuanweb.com
     - matrix67 matrix67.com matrix67.itch.io localhost_8080 localhost-8080.com
     - menci men.ci oi.wiki loj.ac moeditor.github.io renbaoshuo baoshuo.ren oier.baoshuo.dev luoling8192 luoling.moe search.lingogram.app airi.moeru.ai maigolabs maigo.dev needle.maigo.dev chiyuki0325 chyk.ink hykilpikonna azaneko aza.moe amaoke.app aquadx.net voice.hydev.org vergedx cfe281953 memset0 memset0c mem.ac memset0.cn rvalue rvalue_official rvalue_daily rvalue.moe yuu quantumtransf tommy0103 7sref.cc
+    - naval nav.al
     - nayuki nayuki.io
     - numberphile
     - omg_wc
@@ -326,18 +325,20 @@ $fira$ `elegance`
     - oovm jiang zi jun zhihu
     - paulg paulgraham.com arclanguage.org ycombinator ycombinator.com news.ycombinator.com ycombinator.com/companies ycombinator.com/jobs
     - pinkrabbit gitpinkrabbit pinkrabbitcn cnblogs.com/pinkrabbit
-    - pkuflyingpig csdiy
+    - pkuflyingpig YinminZhong yinminzhong.com csdiy csdiy.wiki
     - probiusofficial hello-ctf.com
     - qingyu qoj.ac
     - que_tourist gennady korotkevich codeforces
     - ruanyf ruanyf weekly ruanyifeng.com/blog
     - shiffman thecodingtrain.com
     - sinyalee sinyalee.com alpha-star-research.com
-    - su dekuang zju
     - whynottv1999 tairanhe.com
     - yu ming shu zhihu qed.moe yaru.io asaka.moe
     - yxc acwing.com
     - zhao ling zhihu
+    <!-- - ayumu maki-math.com -->
+    <!-- - commonants -->
+    <!-- - su dekuang zju -->
   - journalism
     - cdtchinese chinadigitaltimes.net
     - chai jing
@@ -497,6 +498,8 @@ $fira$ `elegance`
     - xuegao cheese
     - yuuki sakuna
 - artists
+  - kent nishimura
+  - kotaro oshio
   - animenz
   - kessoku band
   - yui
@@ -933,14 +936,14 @@ $fira$ `elegance`
 - - github `firahq` `humilityhq`
   - npm `firahq`
   - wikipedia `User:Firahq`
-  <!-- - gitea `firavoyage` `firavoyage2` -->
-  <!-- - wakatime `firavoyage` -->
-  <!-- - codepen `firavoyage` -->
+    <!-- - gitea `firavoyage` `firavoyage2` -->
+    <!-- - wakatime `firavoyage` -->
+    <!-- - codepen `firavoyage` -->
 - - arxiv `firahq`
   - zenodo `firahq`
   - orcid `0009-0007-1207-3193`
-  <!-- - osf `zfv2j` -->
-  <!-- - linkedin `firahq` -->
+    <!-- - osf `zfv2j` -->
+    <!-- - linkedin `firahq` -->
 - - steam `firascript`
   - duolingo `firahq` `firavoyage`
   - foxwq `firascript` `李烨炀本物`
@@ -950,8 +953,8 @@ $fira$ `elegance`
 - - youtube `thefirahq`
   - twitch `firahq`
   - berryberry `1156993272` `bili_26837222900`
-  <!-- - douyin `firavoyage` -->
-  <!-- - acfun `忘我思考` `65210945` -->
+    <!-- - douyin `firavoyage` -->
+    <!-- - acfun `忘我思考` `65210945` -->
 - - twitter `firahq` ~~`firascript`~~
   - reddit `u/firahq`
   - zhihu `firahq`
@@ -963,7 +966,7 @@ $fira$ `elegance`
   - matrix space `#firahq:matrix.org`
   - telegram `firavoyage` <!-- might be outdated -->
   <!-- - telegram group `voyagefira` -->
-  - telegram channel `firaprecious` `logfira` 
+  - telegram channel `firaprecious` `logfira`
 - - phantom `humilityhq` `HUThP9CXGmpiHpW4dgk3abDVpyvTYgPv9kzSbRCYzWY9`
   - polymarket `humilityhq`
   - okx web3 `HUThP9CXGmpiHpW4dgk3abDVpyvTYgPv9kzSbRCYzWY9`

@@ -25264,12 +25264,6 @@ vscode loads the full file into ram?
 
 ---
 
-vscode has some fuzzy search.
-
-google has more extreme fuzzy search.
-
----
-
 the math teacher recommended "careless whisper" to me.
 
 in mar. when i were taking uee body exam.
@@ -25702,3 +25696,55 @@ Sunny Pai, [5/1/26 12:50 PM]
 
 ---
 
+`quote`
+
+i strongly agree w mtf > lgbt. (even in fact it's a subset.)
+
+an unclear label tells you nothing. when a thing has many possible interpretations, statistically, it also would.
+
+generally mtf falls into those two categories
+
+- tech nerds who wanna become what they admire, like the cute girls in animes.
+- unlucky ppl seeking for hope, in an eternal dream
+
+the former does not fall into the latter.
+
+the latter might adopt traits like linux, typical gadgets, and rust if they like, as gradually immersed in the community.
+
+this leads to a massive niche culture, which dramatically changes the landscape of current devs community (esp. those w zh origin).
+
+lgbt tells you nothing. radical self expression? outlaw? unconventional? it's essentially community confirmation rather gender confirmation i believe, wherever.
+
+---
+
+`quote`
+
+a lot of time you dont have to use transitional words.
+
+it would be better then.
+
+> Android 不再需要 Root 了。
+> 
+> (yuuta)
+
+<!-- now i place the "from" inside the blockquote. (though it would be better rendered w a dedicated mdx component) -->
+
+> It was painful. It was necessary.
+
+---
+
+`quote`
+
+azaneko... 是为数不多像女孩子的 mtf.
+
+她对人类有情感依赖.
+
+> 学长要搬走了...
+
+喵喵, 贴贴. 大致是性幻想不错了.
+
+即使 physically 可以实现, 也终究是幻想.
+
+完全不一样的.
+
+---

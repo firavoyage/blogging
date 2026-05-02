@@ -173,7 +173,7 @@ python3 -m pip config set global.break-system-packages true # simplify: remove m
 # EOF
 # # simplify: remove meaningless warning system wide
 
-pip install weasyprint # print documents via web
+pip install weasyprint pymupdf reportlab pillow # print documents via web
 
 cargo install --locked uv # locked makes it predictable by using the specifc version needed instead of the latest one
 uv tool install ruff
@@ -2299,7 +2299,7 @@ zsh -ic 'push'
   ```
 
 - disable input method hint
-  - fcitx5-configtool: global options: behavior: show first input method infomation `off`
+  - fcitx5-configtool: global options: behavior: show first input method information `off`
 - add languages
   - fcitx5-configtool: input method: available input method: only show current language `off`
   - add `pinyin` `mozc`

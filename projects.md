@@ -837,9 +837,9 @@ inspired by
 
 `have` <!-- `trkr` -->
 
-<!-- i will have it. i already have it. -->
+<!-- i must have it. i will have it. -->
 
-> observe and analyze.
+> i already have it <!-- observe and analyze. -->
 
 <!-- it were originally "the changes feature on the wayback machine" -->
 
@@ -1154,6 +1154,8 @@ inspired by
 
 `firascript`
 
+<!-- pr, prn -->
+
 > simplicity of a script
 
 no semicolon by default
@@ -1172,6 +1174,9 @@ inspired by
 
 - arc language
 - airbnb javascript guide
+- typescript
+- rust
+- ruby
 
 `lsv`
 
