@@ -1,6 +1,6 @@
 android
 
-- bilimiao
+- bilimiao <!-- piliplus -->
 - simplelive
 - zhihu
 - antennapod
@@ -8,6 +8,7 @@ android
 - vlc
 - ayugram
 - wenku8
+- mj pdf
 - screen time
 - camera
 - snapseed

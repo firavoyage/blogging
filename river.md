@@ -25748,3 +25748,31 @@ azaneko... 是为数不多像女孩子的 mtf.
 完全不一样的.
 
 ---
+
+precious, [5/2/26 3:54 PM]
+The power to change the world lies in the hands of yours. 
+
+You can outplay the government. You can overpower them.
+
+---
+
+no idea why i suddenly think of this.
+
+precious, [5/2/26 5:47 PM]
+Aosc linux ru. 
+
+I don't feel mlcn or fl is better than the other. 
+
+Justice is just arguments by humans. 
+
+Generally I would stand w the developed, as that's where time goes. Time goes forward, in the long term. 
+
+Standing w the other side can make ppl stupid. Yet I could pretend somehow, but I don't need that.
+
+---
+
+generally, i still prefer read over rd, remove over rm. 
+
+though i may use the abbreviation for faster typing on phone/laptop.
+
+---

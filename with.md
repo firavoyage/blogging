@@ -165,3 +165,4 @@ with
 - Syoook `sl1melol` SL1me's Stu `sl1meblog`
 - 雨宮 澪音 `AmamiyaMion` 是澪音哦w `Amamiya_Mion` /var/log/neko/AmamiyaMion.log `-1002806787753`
 - Anthony Summit `Sandycsj` Summit's Life Lab `summitlifelab` Summit's Life Lab Researchers `lifelabresearchers` 
+- Cranky Wellcome `CrankyWellcome` CW的传播媒介 `CrankyWellcoomee` 沪爷冲击 `superonseashock`
