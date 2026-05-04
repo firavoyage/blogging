@@ -7,6 +7,31 @@ ubuntu
 
 ## `apt`
 
+- silence ads
+
+  ```sh
+  sudo apt install -y equivs
+  mkdir temp && cd temp
+  cat << 'EOF' > pro-stub
+  Section: misc
+  Priority: optional
+  Standards-Version: 3.9.2
+  Package: ubuntu-pro-client
+  Version: 999
+  Provides: ubuntu-advantage-tools, ubuntu-pro-client-l10n
+  Replaces: ubuntu-advantage-tools, ubuntu-pro-client-l10n
+  Conflicts: ubuntu-advantage-tools, ubuntu-pro-client-l10n
+  Description: Empty stub to satisfy dependencies and remove ads
+  This package satisfies the dependency for ubuntu-minimal and 
+  desktop components without installing any actual Pro client code
+  or advertising scripts.
+  EOF
+
+  equivs-build pro-stub
+  sudo dpkg -i ubuntu-pro-client_999_all.deb
+  rm -r ../temp
+  ```
+
 - set mirror
 
   `/etc/apt/sources.list/`
@@ -39,6 +64,10 @@ ubuntu
 install
 
 ```sh
+# fix copy fail cve, which can jump from userspace to root when logined
+echo "install algif_aead /bin/false" | sudo tee /etc/modprobe.d/disable-algif_aead.conf
+sudo rmmod algif_aead
+
 # tools
 sudo apt install -y curl wget ca-certificates gnupg lsb-release p7zip-full unzip unrar build-essential
 
@@ -2426,7 +2455,7 @@ zsh -ic 'push'
 - install
 
   ```sh
-  mkdir -p ~/docker/bitmagnet
+  mkdir -p ~/Documents/.storage/bitmagnet
   ```
 
   `docker-compose.yml`
@@ -2477,7 +2506,9 @@ zsh -ic 'push'
   ```
 
   ```sh
-  docker compose up -d
+  cd ~/Documents/.storage/bitmagnet
+  sudo docker compose up -d
+  # sudo docker compose stop # stop
   ```
 
 - open

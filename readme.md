@@ -127,7 +127,7 @@ $fira$ `elegance`
   - huamei
 - essentials
   - j-pop · rock · folk · jazz · classical
-  - watch · journal · scratch pad · sketchbook · illustrations · life size waifu pillow · plushie · house plants
+  - watch · journal · scratch paper · sketchbook · illustrations · life size waifu pillow · plushie · house plants
   - origami · pixel art · design · gamedev · calligraphy · kanji · skeuomorph
   - anime · visualnovels · unixporn · mtf · virtualyoutubers
   - boardgames · linguistics · math · algorithms · vibe coding
@@ -229,6 +229,7 @@ $fira$ `elegance`
     - arvin17x lobehub.com
     - bellard bellard.org ffmpeg.org qemu.org bellard.org/jslinux
     - bradwoods bradwoods.io garden.bradwoods.io
+    - bridge_surf bridge.surf <!-- animation is marketing. btw, all faq are "organize files" related, idk. landing page is not well tested (you can see problems just clicking things on each page). -->
     - chriscoyier css-tricks.com codepen.io chriscoyier.net
     - cline cline.bot
     - colinhacks colinhacks.com zod.dev trpc.io
@@ -287,7 +288,7 @@ $fira$ `elegance`
     - scavenger869 loongphy.com
     - sdushantha sdushantha.github.io sherlockproject.xyz
     - share121 inter-knot s121.top fd.s121.top
-    - sheepbox8646 acboxliu acbox_space memoh_ai acbox.lol bugduck.org vuemotion.dev newcarjs.org bijonai.com chattutor.app memoh.ai
+    - sheepbox8646 acboxliu acbox_space memoh_ai acbox.lol bugduck.org vuemotion.dev newcarjs.org bijonai.com chattutor.app memoh.ai dustella_chan dustella.net
     - simonw simonwillison simonwillison.net datasette.io
     - steipete steipete.me clawd.bot moltbook.com clawk.ai
     - swyxio swyx.io/ideas latent.space dx.tips learninpublic.org
@@ -368,7 +369,6 @@ $fira$ `elegance`
     - cosmicac 2o181o28.github.io
     - dashhuang huang.co xd.com taptap.io
     - discodyer codygua cody2333 cd.ai
-    - dustella_chan dustella.net
     - hitw93 tw93.fun weekly.tw93.fun
     - hsn8086 hsn8086k hsn8086.com hsn.recipe zh314.xyz
     - ichralpha ichr.me chralpha.com

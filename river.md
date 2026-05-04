@@ -25776,3 +25776,39 @@ generally, i still prefer read over rd, remove over rm.
 though i may use the abbreviation for faster typing on phone/laptop.
 
 ---
+
+precious, [5/4/26 12:01 AM]
+The phone network rarely fails. 
+
+Which implies the proxy works fine. Though sometimes it could timeout until your switch the node.
+
+Wifi suffers from distance and the underlying stability. 
+
+Hotspot generally works better but still fails sometimes, like network changed. It consistently fails with pnpm, due to concurrency. I think maybe I should stop bit magnet.
+
+---
+
+for some reason, the same proxy that works on phone does not work on the laptop.
+
+---
+
+想要把
+
+> 轻浅联断 <!-- 清浅联断 -->
+
+加入 readme.
+
+但想, 
+
+> 举重若轻
+
+大概已经包含这个意思了.
+
+且前者很 specific, 就是做手工那段时间的回忆.
+
+在嘈杂的教室里, 有的同学在喧哗, 有的同学在使用不灵巧的剪刀, 有的同学使用蛮力.
+
+fira 将剪刀作刻刀用. 测量. 划定, 正面, 反面. 联. 断.
+
+---
+
