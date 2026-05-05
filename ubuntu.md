@@ -83,7 +83,8 @@ sudo flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flat
 sudo apt install gnome-software-plugin-flatpak
 
 # automate mouse, keyboard, and screenshot: xdotool, xte, scrot
-sudo apt install -y xdotool xautomation scrot accerciser 
+sudo apt install -y xdotool xautomation scrot accerciser
+# sudo apt install -y flameshot # seems it could capture the color accurately, but it fails
 
 # normalize desktop
 sudo apt install -y gnome-tweaks

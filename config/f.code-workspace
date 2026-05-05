@@ -3,15 +3,18 @@
     {
       "path": "../../f/humility"
     },
-    {
-      "path": "../../f/apps"
-    },
+    // {
+    //   "path": "../../f/journal"
+    // },
+    // {
+    //   "path": "../../f/apps"
+    // },
     {
       "path": "../../f/drafts"
     },
-    {
-      "path": "../../f/pure/math"
-    },
+    // {
+    //   "path": "../../f/pure/math"
+    // },
     {
       "path": "../../blogging"
     }

@@ -84,7 +84,7 @@ $fira$ `elegance`
 
 <!-- 强. 弱. 厚. 薄. -->
 
-- fira 💖, thou/thee <!-- she/her (without 🏳️‍⚧️ or 🍥) -->, 🇬🇧 user, 🇨🇳 fluent, 🇯🇵 beginner <!-- 🇫🇷 very beginner -->
+- fira 💖, thou/thee <!-- she/her (without 🏳️‍⚧️ or 🍥) -->, 🇬🇧 user <!-- , 🇨🇳 fluent, 🇯🇵 beginner, 🇫🇷 very beginner -->
 - a developer, content creator, wikipedian
 - grew up in the global village
 - on the internet since 2019, which is my actual "home town"

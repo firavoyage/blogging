@@ -25812,3 +25812,60 @@ fira 将剪刀作刻刀用. 测量. 划定, 正面, 反面. 联. 断.
 
 ---
 
+`weather`
+
+ielts
+
+白人数学很差的. 但也别乱写.
+
+人看不出你倍数, 但万一是亚裔呢?
+
+...
+
+原本要求 en-native, 现在仅要求分.
+
+关键工资也一般, 6k cny 底薪. 一篇作文 40, 口语 110, 计件.
+
+旺季 30k, 淡季 10k.
+
+人回国了. (答题纸总不可能跨洋吧)
+
+英国工作, 随便, 比如 2k p. 税 300, 折合 18k cny.
+
+且 zh-cn 符合当地节假日. england 护士 28d 年假. zh-cn? 5 maybe.
+
+...
+
+en-uk 还是 en-us 一致性不必在意, 如果 7 分及以下.
+
+大于 8, 老师. low roi for avg ppl.
+
+---
+
+new api...
+
+"beian"
+
+"scam" "read 5s before you can close"
+
+lol.
+
+pattern: zh-cn.
+
+upd: "easyrouter" is much worse. i dont wanna take a second look.
+
+it's like a street in africa.
+
+even more zh-cn. one succeeded in the age of mass surveilance. look at the products in his bio!
+
+---
+
+proxy does not work well.
+
+it's quite weird. (almost) the same config. phone works. laptop does not.
+
+though, i have redundancy.
+
+i might explore self hosting.
+
+---
