@@ -303,6 +303,7 @@ $fira$ `elegance`
     - yusixian blog.cosine.ren/weekly
     - zhao-stanley stanleyzhao.com web.lab
   - education
+    - aleph_null
     - bellingcat bellingcat.com bellingcat.gitbook.io
     - codingstartup
     - durov telegram.org tgnav tgnav.github.io tg10000.com tree.aza.moe
@@ -416,7 +417,7 @@ $fira$ `elegance`
     - animenz
     - cambridge cambridge_uni cambridge.org cam.ac.uk cambridge.gov.uk
     - cateen_hayatosumino
-    - chessvibesofficial nelson lopez
+    - chessvibesofficial nelsi nelson lopez
     - danielnaroditskygm
     - deco27
     - eileen chang
@@ -517,6 +518,8 @@ $fira$ `elegance`
   - scarborough fair (simon & garfunkel)
   - a day in the life (the beatles)
   - wind of change (scorpions)
+  - don't stop believin' (journey)
+  - careless whisper (george michael)
   - shiori (mygo!!!!!)
   - the big dango family (chata)
   - magia (kalafina)

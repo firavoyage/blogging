@@ -25840,6 +25840,10 @@ en-uk 还是 en-us 一致性不必在意, 如果 7 分及以下.
 
 大于 8, 老师. low roi for avg ppl.
 
+...
+
+"didn't" is not formal.
+
 ---
 
 new api...
@@ -25867,5 +25871,48 @@ it's quite weird. (almost) the same config. phone works. laptop does not.
 though, i have redundancy.
 
 i might explore self hosting.
+
+---
+
+(a fav listj)
+
+love - youtube
+
+> 2 unavailable videos are hidden
+
+(likely hu chenfeng clip)
+
+---
+
+flipping the wifi down and up...
+
+can make things happen.
+
+---
+
+> ​​therre are no queens so castling is not as important
+
+---
+
+the youtube studio is quite polished.
+
+though it's compliant. i wish it could default to "all age" and "public" by default.
+
+---
+
+> 我的中学历史老师说他们七八十年代的时候有广州人用鱼骨天线或者收音机听敌台，被抓到之后会批斗，甚至枪毙。
+> 但是他们照样会躲起来听港台歌曲，向往自由的人们是拦不住的。
+
+> 我1987年收听美国之音的时候还是被干扰的, 顶着"嗞喇"声硬听. 我家现在还有那时候买的"上海外语音像出版社"发行的<美国之音特别英语>磁带, 也是被干扰版呵呵.
+> 那时候的短波干扰系统也叫"长城"干扰系统,  好玩吧呵呵.
+
+> @ericxin-lp7jd VOA当年放什么内容呢？广东人也只是听一下邓丽君和港台歌曲。
+> 就像朝鲜一样只要一看韩剧就会被枪毙
+
+> @zyeeman  各種内容，包括新聞，這是共產黨最害怕的部分。
+
+> @zyeeman  国际时事，各国政局，历史小故事等等。最大的收获是了解了西方文明的内核（基督教）与体制（权力框架）的自洽，对比中国自小接受的“社会主义教育”与社会现实以及社会制度的驴唇不对马嘴，很容易就能认识到文明的等级差别呵呵。
+
+> “美国之音，现在为你报道国际新闻”，坐标80年代广州😂😂😂
 
 ---
