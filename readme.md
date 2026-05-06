@@ -4,7 +4,7 @@ $fira$ `elegance`
 
 ## .
 
-<!-- 永远 20 岁. -->
+<!-- 20 yro forever. -->
 
 <!-- animated coming-of-age romantic fantasy adventure film -->
 
@@ -338,9 +338,9 @@ $fira$ `elegance`
     - yu ming shu zhihu qed.moe yaru.io asaka.moe
     - yxc acwing.com
     - zhao ling zhihu
-    <!-- - ayumu maki-math.com -->
-    <!-- - commonants -->
-    <!-- - su dekuang zju -->
+      <!-- - ayumu maki-math.com -->
+      <!-- - commonants -->
+      <!-- - su dekuang zju -->
   - journalism
     - cdtchinese chinadigitaltimes.net
     - chai jing
@@ -679,48 +679,50 @@ $fira$ `elegance`
   - .monster hunter wilds (2025)
   - .inzoi (2025)
 - books
-  - sicp
-  - clrs
   - to live (yu hua)
-  - no longer human (osamu dazai)
-  - .kokoro (natsume sōseki)
   - dream of the red chamber (cao xueqin)
-  - .the great gatsby (f. scott fitzgerald)
-  - the stranger (albert camus)
   - a long gaze (lung yingtai)
-  - .the kite runner (khaled hosseini)
-  - hackers and painters (paul graham)
-  - the water level of ideology (liu yu)
-  - twelve letters for the young (zhu guangqian)
+  - hackers and painters (paul graham, translated by ruan yifeng)
   - road ahead (ruan yifeng)
   - javascript: the good parts (douglas crockford)
-  - learn (react.dev)
-  - .make (levelsio)
-  - .zero to one (peter thiel)
-  - .the lean startup (eric ries)
-  - .atomic habits (clear james)
-  - refactoring ui (adam wathan & steve schoger)
-  - google testing on the toilet
-  - mathematical olympiad series (xiong bin)
-  - wave crest (wu jun)
+  - the water level of ideology (liu yu)
+  - twelve letters for the young (zhu guangqian)
+  - survive sjtu (sjtu)
   - integer overflow: the development, prosperity and decline of olympics in informatics (xu xiling)
-  - my youth romantic comedy is wrong, as i expected (wataru watari)
-  - the ryuo's work is never done! (shirow shiratori)
-  - chitose is in the ramune bottle (hiromu)
-  - .snow country (yasunari kawabata)
-  - .metaphors we live by (george lakoff & mark johnson)
-  - .godel, escher, bach (douglas hofstadter)
-  - .shakespeare's sonnets (william shakespeare)
-  - .the holy bible (king james version)
-  - .over autumn rooftops (hai zi)
-  - .nameless flowers (gu cheng)
-  - .stray birds (rabindranath tagore)
-  - .pride and prejudice (jane austen)
-  - .if on a winter's night a traveler (italo calvino)
-  - .jin ping mei (lanling xiaoxiao sheng)
-  - .remarks on the song lyric and the human condition (wang guowei)
-  - .the literary mind and the carving of dragons (liu xie)
-  - .the smiling, proud wanderer (jin yong)
+  - google testing on the toilet
+  - refactoring ui (adam wathan & steve schoger)
+  - react docs (learn on react.dev)
+  - .clrs
+  - .make (levelsio)
+  - .mathematical olympiad series (xiong bin)
+  - .no longer human (osamu dazai)
+  - .the great gatsby (f. scott fitzgerald)
+  - .wave crest (wu jun)
+  - .sicp
+  - .my youth romantic comedy is wrong, as i expected (wataru watari)
+  - .the ryuo's work is never done! (shirow shiratori)
+  - .chitose is in the ramune bottle (hiromu)
+  - .the stranger (albert camus)
+  - .freedom of money (cz)
+  - ..kokoro (natsume sōseki)
+  - ..the kite runner (khaled hosseini)
+  - ..zero to one (peter thiel)
+  - ..the lean startup (eric ries)
+  - ..atomic habits (clear james)
+  - ..snow country (yasunari kawabata)
+  - ..metaphors we live by (george lakoff & mark johnson)
+  - ..godel, escher, bach (douglas hofstadter)
+  - ..shakespeare's sonnets (william shakespeare)
+  <!-- - ..the holy bible (king james version) -->
+  - ..over autumn rooftops (hai zi)
+  - ..nameless flowers (gu cheng)
+  - ..stray birds (rabindranath tagore)
+  - ..pride and prejudice (jane austen)
+  - ..if on a winter's night a traveler (italo calvino)
+  - ..jin ping mei (lanling xiaoxiao sheng)
+  - ..remarks on the song lyric and the human condition (wang guowei)
+  - ..the literary mind and the carving of dragons (liu xie)
+  - ..the smiling, proud wanderer (jin yong)
 - echoes
   - anyway.fm (jj ying & leon gao)
   - beyond code (randy lu & geek plux)
@@ -744,6 +746,7 @@ $fira$ `elegance`
   - material.io design.google
   - react.dev
   - iphone os 6
+  - smartisan t1
   - dracula
   - nord
 - fonts
