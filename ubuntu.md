@@ -22,7 +22,7 @@ ubuntu
   Replaces: ubuntu-advantage-tools, ubuntu-pro-client-l10n
   Conflicts: ubuntu-advantage-tools, ubuntu-pro-client-l10n
   Description: Empty stub to satisfy dependencies and remove ads
-  This package satisfies the dependency for ubuntu-minimal and 
+  This package satisfies the dependency for ubuntu-minimal and
   desktop components without installing any actual Pro client code
   or advertising scripts.
   EOF
@@ -387,7 +387,7 @@ sudo systemctl restart earlyoom
   sudo apt install code
   ```
 
-- sync settings <!-- login -->
+- sync settings <!-- login to get the latest if you can -->
 
   - settings
 
@@ -545,7 +545,7 @@ sudo systemctl restart earlyoom
       "json.schemaDownload.trustedDomains": {
         "*": true
       },
-      "typescript.updateImportsOnFileMove.enabled": "always",
+      "typescript.updateImportsOnFileMove.enabled": "always"
     }
     ```
 
@@ -1272,11 +1272,13 @@ sudo systemctl restart earlyoom
         "key": "ctrl+shift+]",
         "command": "-editor.unfold",
         "when": "editorTextFocus && foldingEnabled"
+      },
+      {
+        "key": "ctrl+n",
+        "command": "explorer.newFile"
       }
     ]
     ```
-
-  <!-- use the latest -->
 
 - install theme <!-- https://vscodethemes.com/ -->
   - dracula
@@ -1339,7 +1341,7 @@ sudo systemctl restart earlyoom
   - code-runner: preserve focus `off`
   - code runner: executor map <!-- `settings.json` -->
 
-- use shortcuts
+- config shortcuts
 
   `file > preferences > keyboard shortcuts` `ctrl shift p open keyboard shortcuts json`
 
@@ -1392,7 +1394,7 @@ sudo systemctl restart earlyoom
     - zoom out `ctrl -`
     - split screen `ctrl \`
   - save
-    - new file `ctrl n`
+    - _file: new file_ `ctrl n` <!-- - new file `ctrl n` most time you would like to have a named file -->
     - close file `ctrl w`
     - _save as_ `ctrl alt s`
   - edit
@@ -1432,7 +1434,7 @@ sudo systemctl restart earlyoom
     - _run code_ `ctrl r`
     - _stop running in terminal_ `ctrl c`
 
-- remove conflicting shortcuts
+- remove shortcuts <!-- no need to rm everything conflicting, as user hotkeys are already prior than system ones by default -->
   - _markdown all in one: toggle bold_ `ctrl b`
   - _select line_ `ctrl l`
   - _select all matches_ `ctrl shift l`
@@ -3139,7 +3141,7 @@ sudo apt install -y -f
 # note: it does not use /etc/tor/torrc by default, yet it overwrites ~/.local/share/Bisq2/tor/torrc every time on startup (read only will panic it)
 
 # # [1] use sys tor
-# sudo tee /etc/tor/torrc > /dev/null <<EOF 
+# sudo tee /etc/tor/torrc > /dev/null <<EOF
 # UseBridges 1
 # ClientTransportPlugin snowflake exec /usr/bin/snowflake-client
 # Bridge snowflake 192.0.2.3:1 2B280B2311BA33EEAD1D32899F44783305D3B89D fingerprint=2B280B2311BA33EEAD1D32899F44783305D3B89D url=https://fastly.net front=cdn.sstatic.net ice=stun:://google.com,stun:://blackberry.com,stun:stun.sipgate.net:3478,stun:://siocali.com,stun:://voipgate.com
@@ -3153,7 +3155,7 @@ sudo apt install -y -f
 # /opt/bisq2/bin/Bisq2 --torControlPort=9051 # run bisq
 
 # # [2] use bisq tor # the json structure is not well documented, might not work
-# tee ~/.local/share/Bisq2/settings.json > /dev/null <<EOF 
+# tee ~/.local/share/Bisq2/settings.json > /dev/null <<EOF
 # {
 #   "torSettings": {
 #     "torMode": "PROVIDED_BRIDGES",

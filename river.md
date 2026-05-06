@@ -25916,3 +25916,10 @@ though it's compliant. i wish it could default to "all age" and "public" by defa
 > “美国之音，现在为你报道国际新闻”，坐标80年代广州😂😂😂
 
 ---
+
+> Writing and Speaking: Research suggests that while CET-4 writing scores roughly span A1 to B2 levels, it is difficult to map them to higher proficiency levels like C1 or C2 due to the limited complexity of the exam's tasks.
+>
+> International Recognition: Because it is not officially mapped, some international universities or employers may require a more standard test like IELTS (where a B1 is roughly a 4.0–5.0) to verify your proficiency.
+
+---
+
