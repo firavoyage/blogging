@@ -26101,3 +26101,17 @@ import foundation.
 
 ---
 
+> HIKARU PLAYS A WHOLE GAME WITHOUT A QUEEN!!
+
+> Bro just yapped his way to victory.
+
+---
+
+RainbowBird | 洛灵
+@luoling8192
+·
+Apr 29
+感觉现在 AI 的噪音太多了，天天颠覆这颠覆那的，想静下心来做一件事情真不容易
+
+---
+

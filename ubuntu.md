@@ -127,11 +127,19 @@ sudo apt install -y tmux
 
 # terminal: ssh (connect to remote server)
 sudo apt install -y openssh-client
-sudo apt install -y speedtest-cli # test network speed to the internet
-sudo DEBIAN_FRONTEND=noninteractive apt install -y iperf3 # test network speed of ssh connection, choose not to auto start as daemon in installation
+
+# test network speed
+sudo apt install -y speedtest-cli # test network speed of the internet
+sudo DEBIAN_FRONTEND=noninteractive apt install -y iperf3 # test network speed of the ssh connection, choose not to auto start as daemon in installation
 # usage:
 # iperf3 -s # on the server
 # iperf3 -c your_server_ip # local
+
+# monitor the system: mpstat, iostat
+sudo apt install -y sysstat 
+# usage:
+# mpstat 1 # cpu
+# iostat -xz 1 # disk
 
 # proxy: rev proxy for like foo.localhost and bar.localhost
 sudo apt install -y caddy jq yq
@@ -1533,12 +1541,10 @@ sudo systemctl restart earlyoom
   rm "$clash_file" # clean up
   ```
 
-- home
-  - tun mode `on` <!-- make sure it's x11 not wayland -->
 - profiles
 
-  - new <!-- add nodes -->
-    <!-- github search "nodes", paid nodes, vps, etc. -->
+  - new <!-- add proxies -->
+    <!-- free nodes (e.g. search on github), paid proxies, self hosted vps, etc. -->
   - extend config <!-- set rules for smart routing  -->
 
     <!-- right click a subscription -->
@@ -1554,6 +1560,7 @@ sudo systemctl restart earlyoom
     <!-- ref https://github.com/clash-verge-rev/clash-verge-rev/discussions/4060 -->
 
 - settings
+  - tun mode `on` <!-- make sure it's x11 not wayland -->
   - auto launch `on`
   - silent start `on`
   - port config `7890`
@@ -2194,28 +2201,22 @@ sudo systemctl restart earlyoom
 - config zshrc
   - copy `terminal zshrc.sh` to `~/.zshrc`
   - use `push` function to sync all git repos
-- set timer to auto push daily
+- set timer to auto push daily <!-- or save, sync -->
 
   ```sh
-  # Define the script and service paths
-  SCRIPT_PATH="/usr/local/bin/run_push.sh"
-  SERVICE_PATH="/etc/systemd/system/run_push.service"
-  TIMER_PATH="/etc/systemd/system/run_push.timer"
+  push_script_path="/usr/local/bin/run_push.sh"
+  push_service_path="/etc/systemd/system/run_push.service"
+  push_timer_path="/etc/systemd/system/run_push.timer"
 
-  # systemd needs shebang (`#!/usr/bin/env zsh`) to work.
-  # Create the script that will run the push command and retry on failure
-  echo "Creating the push command script..."
-  sudo tee $SCRIPT_PATH > /dev/null << 'EOF'
+  # shebang (`#!/usr/bin/env zsh`) is essential
+  sudo tee $push_script_path > /dev/null << 'EOF'
   #!/usr/bin/env zsh
   zsh -ic 'push'
   EOF
 
-  # Make the script executable
-  sudo chmod +x $SCRIPT_PATH
+  sudo chmod +x $push_script_path
 
-  # Create the systemd service
-  echo "Creating the systemd service..."
-  sudo tee $SERVICE_PATH > /dev/null << EOF
+  sudo tee $push_service_path > /dev/null << EOF
   [Unit]
   Description=Run push command at 23:00 daily
   After=network.target
@@ -2223,7 +2224,7 @@ sudo systemctl restart earlyoom
   StartLimitBurst=3
 
   [Service]
-  ExecStart=$SCRIPT_PATH
+  ExecStart=$push_script_path
   Restart=on-failure
   RestartSec=600
   User=$USER
@@ -2234,32 +2235,32 @@ sudo systemctl restart earlyoom
   WantedBy=multi-user.target
   EOF
 
-  # Create the systemd timer
-  echo "Creating the systemd timer..."
-  sudo tee $TIMER_PATH > /dev/null << EOF
+  sudo tee $push_timer_path > /dev/null << EOF
   [Unit]
   Description=Run push command daily
 
   [Timer]
-  OnCalendar=16:00
-  OnCalendar=21:00
-  OnCalendar=23:00
+  OnCalendar=00:00
   OnCalendar=02:00
+  OnCalendar=04:00
+  OnCalendar=06:00
+  OnCalendar=08:00
+  OnCalendar=10:00
+  OnCalendar=12:00
+  OnCalendar=14:00
+  OnCalendar=16:00
+  OnCalendar=18:00
+  OnCalendar=20:00
+  OnCalendar=22:00
   Unit=run_push.service
 
   [Install]
   WantedBy=timers.target
   EOF
 
-  # Reload systemd and enable/start the timer
-  echo "Reloading systemd, enabling and starting the timer..."
   sudo systemctl daemon-reload
   sudo systemctl enable --now run_push.timer
-
-  echo "Setup complete. The push command will run daily at 23:00 and retry if it fails."
   ```
-
-<!-- use the latest config -->
 
 <!--
 
@@ -2283,13 +2284,18 @@ sudo systemctl list-timers
 sudo systemctl status run_push.service
 ```
 
+restart
+
+```
+sudo systemctl restart run_push.service
+sudo systemctl restart run_push.timer
+```
+
 stop
 
 ```
-sudo systemctl stop run_push.service
-sudo systemctl disable run_push.service
-sudo systemctl stop run_push.timer
-sudo systemctl disable run_push.timer
+sudo systemctl stop --now run_push.service
+sudo systemctl stop --now run_push.timer
 ```
 
 apply
