@@ -26078,4 +26078,26 @@ LLM 解决了 CS 没有民科和嘉豪的问题
 
 ---
 
+sometimes, vscode says
+
+- cmd markdown.show preview not found
+- webview fails (commonly reproducible when you close it and open immediately)
+
+---
+
+vim tutor.
+
+rust guide.
+
+---
+
+https://loj.ac/s/1047927
+
+swift:
+
+import foundation.
+
+<!-- lol -->
+
+---
 

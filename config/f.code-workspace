@@ -1,17 +1,20 @@
 {
   "folders": [
+    // {
+    //   "path": "../../f/apps"
+    // },
+    // {
+    //   "path": "../../f/localhost"
+    // },
+    {
+      "path": "../../f/drafts"
+    },
     {
       "path": "../../f/humility"
     },
     // {
     //   "path": "../../f/journal"
     // },
-    // {
-    //   "path": "../../f/apps"
-    // },
-    {
-      "path": "../../f/drafts"
-    },
     // {
     //   "path": "../../f/pure/math"
     // },

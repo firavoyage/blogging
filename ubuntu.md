@@ -127,6 +127,11 @@ sudo apt install -y tmux
 
 # terminal: ssh (connect to remote server)
 sudo apt install -y openssh-client
+sudo apt install -y speedtest-cli # test network speed to the internet
+sudo DEBIAN_FRONTEND=noninteractive apt install -y iperf3 # test network speed of ssh connection, choose not to auto start as daemon in installation
+# usage:
+# iperf3 -s # on the server
+# iperf3 -c your_server_ip # local
 
 # proxy: rev proxy for like foo.localhost and bar.localhost
 sudo apt install -y caddy jq yq
@@ -1532,9 +1537,11 @@ sudo systemctl restart earlyoom
   - tun mode `on` <!-- make sure it's x11 not wayland -->
 - profiles
 
-  - global extend config <!-- if needed, set rules first, add subscription later --> 
-  
-    <!-- double click, or right click to open file, which is merge.yaml -->
+  - new <!-- add nodes -->
+    <!-- github search "nodes", paid nodes, vps, etc. -->
+  - extend config <!-- set rules for smart routing  -->
+
+    <!-- right click a subscription -->
 
     ```yaml
     rules:
@@ -1545,9 +1552,6 @@ sudo systemctl restart earlyoom
     ```
 
     <!-- ref https://github.com/clash-verge-rev/clash-verge-rev/discussions/4060 -->
-
-  - new <!-- add nodes -->
-    <!-- github search "nodes", paid nodes, vps, etc. -->
 
 - settings
   - auto launch `on`
@@ -2980,7 +2984,7 @@ install
 
 ```sh
 # proxy network
-clash_url="https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.4/Clash.Verge_2.4.4_amd64.deb" # add https://gh-proxy.com prefix if needed
+clash_url="https://gh-proxy.com/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.7/Clash.Verge_2.4.7_amd64.deb" # use a mirror if needed (e.g. add https://gh-proxy.com prefix)
 clash_file="clash-verge.deb"
 wget -c -O "$clash_file" "$clash_url"
 sudo dpkg -i "$clash_file"
