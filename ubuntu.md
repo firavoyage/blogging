@@ -123,7 +123,10 @@ git clone https://github.com/zsh-users/zsh-syntax-highlighting ~/.zsh/zsh-syntax
 curl -fsSL https://raw.githubusercontent.com/mkasberg/ghostty-ubuntu/HEAD/install.sh | zsh
 
 # terminal: tmux (keep things running in background)
-sudo apt -y install tmux
+sudo apt install -y tmux
+
+# terminal: ssh (connect to remote server)
+sudo apt install -y openssh-client
 
 # proxy: rev proxy for like foo.localhost and bar.localhost
 sudo apt install -y caddy jq yq
@@ -1528,7 +1531,24 @@ sudo systemctl restart earlyoom
 - home
   - tun mode `on` <!-- make sure it's x11 not wayland -->
 - profiles
-  - add nodes <!-- github search "nodes", paid nodes, vps, etc. -->
+
+  - global extend config <!-- if needed, set rules first, add subscription later --> 
+  
+    <!-- double click, or right click to open file, which is merge.yaml -->
+
+    ```yaml
+    rules:
+      - DOMAIN-SUFFIX,local,DIRECT
+      - IP-CIDR,192.168.0.0/16,DIRECT,no-resolve
+      - GEOIP,CN,DIRECT
+      - MATCH,PROXY
+    ```
+
+    <!-- ref https://github.com/clash-verge-rev/clash-verge-rev/discussions/4060 -->
+
+  - new <!-- add nodes -->
+    <!-- github search "nodes", paid nodes, vps, etc. -->
+
 - settings
   - auto launch `on`
   - silent start `on`
@@ -2959,6 +2979,13 @@ sudo apt remove -y update-notifier # simplify noise
 install
 
 ```sh
+# proxy network
+clash_url="https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.4.4/Clash.Verge_2.4.4_amd64.deb" # add https://gh-proxy.com prefix if needed
+clash_file="clash-verge.deb"
+wget -c -O "$clash_file" "$clash_url"
+sudo dpkg -i "$clash_file"
+rm "$clash_file" # clean up
+
 # normalize flatpak
 flatpak install -y flathub com.github.tchx84.Flatseal # fix all flatpak sandbox issues
 

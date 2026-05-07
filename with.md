@@ -31,6 +31,7 @@ with
 - 菠萝油与天光墟 `pipeapplebun`
 - livid OLIVIDA `olivida`
 - 社会易姐QwQ `ShakaiAneE` 《易姐姐的十字路口》 `ShakaiAneE_switch` 好耶，是易姐姐！ `-1001583511724` 易姐の红魔馆 > 发情.log 2>&1 `-1001437106036`
+- Estelafaxine `saeziae` #山前今天吃什麼 `xdels`
 
 ---
 
@@ -105,6 +106,8 @@ with
 - Rosmontis's Daily🔆 `Rosmontis_Daily`
 - 可爱小鲨鲨 gawr gura `samedesu`
 - Z-Library Official 📚 `zlibrary_official`
+- No Steve Model `NoSteveModel`
+- Xray UI `XrayUI`
 
 ---
 
