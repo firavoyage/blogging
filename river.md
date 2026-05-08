@@ -25664,6 +25664,8 @@ libre map:
 
 ---
 
+https://bonjour.bio/7vo6p4
+
 from acbox on bonjour.io (ml cn compliant bento.me equivalent)
 
 ```
@@ -26174,6 +26176,26 @@ https://loj.ac/u/Menci
 > If a "normal" person uses your code anyway, you have to sue them. To win, you have to prove they didn't have a license. If your license says "Must be smart," the defendant’s lawyer will simply argue their client is smart, and the court will likely dismiss the case as a waste of time because "smart" isn't a legal definition.
 >
 > You can legally require manual approval for every user. However, if you explicitly bake "only for killers" into the text, you risk the license being declared void for violating public policy, which could accidentally leave your code with no protection at all.
+
+---
+
+`thought`
+
+llm can say anything.
+
+human lives do not carry anything special.
+
+they do not matter to the world.
+
+if this were me, then that's my fate.
+
+actually, i could never prove i would beat the world whatever misfortune i suffer.
+
+you cant.
+
+---
+
+> My grades were good but not exceptional
 
 ---
 

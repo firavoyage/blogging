@@ -132,7 +132,7 @@ $fira$ `elegance`
   - anime · visualnovels · unixporn · mtf · virtualyoutubers
   - boardgames · linguistics · math · algorithms · vibe coding
   - dark style · night light · low brightness · tranquility
-  - mindfulness · meditation · existentialism · cynicism · accelerationism · dissociation · inner speech · second person omniscient narration
+  - mindfulness · meditation · existentialism · cynicism · accelerationism · libertarianism · alt tech · dissociation · inner speech · second person omniscient narration
 - personas
   - art & design
     - aliimam_in aliimam.in 21st.dev 1code.dev
