@@ -26115,3 +26115,9 @@ Apr 29
 
 ---
 
+> '?' at the end of a type is not valid TypeScript syntax. Did you mean to write 'string | undefined'?
+
+yeah! then why not just do that?
+
+---
+

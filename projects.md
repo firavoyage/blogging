@@ -207,7 +207,7 @@ inspired by
 
 `all`
 
-> organize. see through.
+> see through. <!-- organize the world’s information and make it universally accessible and useful -->
 
 <!--
 world goods list: plain filter over promotional recommendation engine

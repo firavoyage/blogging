@@ -76,6 +76,11 @@ sudo apt install -y neofetch fortune-mod cowsay cbonsai figlet lolcat toilet sl
 
 # snap
 sudo apt install -y snapd # maybe not needed
+# hide snap in home folder # `~/snap` is hardcoded. it might be hard and unreliable to fight it w flags and workarounds.
+tee ~/.hidden > /dev/null <<EOF
+snap
+Android
+EOF
 
 # flatpak (log out to apply)
 sudo apt install flatpak
@@ -2287,6 +2292,7 @@ sudo systemctl status run_push.service
 restart
 
 ```
+sudo systemctl daemon-reload
 sudo systemctl restart run_push.service
 sudo systemctl restart run_push.timer
 ```
