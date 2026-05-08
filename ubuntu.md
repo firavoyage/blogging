@@ -3070,11 +3070,12 @@ flatpak install -y flathub dev.zed.Zed
 # cli command: %F --no-sandbox
 # it does not seem to work without the flag
 
-# program with llms: opencode, cline, codex, claude
+# program with llms: opencode, cline, codex, claude, pi
 pnpm add -g opencode-ai@latest
 pnpm add -g cline
 pnpm add -g @openai/codex
 pnpm add -g @anthropic-ai/claude-code
+pnpm add -g @earendil-works/pi-coding-agent
 
 # program with version control on gui
 # flatpak install -y flathub org.gnome.gitg # perf issue, legacy gnome ui (and weird fonts), use github instead

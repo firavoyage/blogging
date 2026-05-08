@@ -26209,3 +26209,13 @@ sometimes vlc even pauses the music for a few secs. (no audio output)
 
 ---
 
+> FlareSolverr is currently considered a "fragile" but still functioning tool for basic Cloudflare bypasses. As of May 2026, it is primarily used in small-scale home automation stacks (like Prowlarr or Sonarr) rather than high-performance production environments.
+
+---
+
+> Yes, stripping the quarantine attribute is the most reliable "one-liner" way to let users run unsigned apps without needing to change global system settings or use the GUI
+
+---
+
+
+

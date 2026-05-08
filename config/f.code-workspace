@@ -26,14 +26,14 @@
     "files.exclude": {
       "**/node_modules/**": true,
       // "**/legacy/**": true,
-      "**/.git/**": true,
-      "**/.vscode/**": true,
+      // "**/.git/**": true, // already ignored by default
+      // "**/.vscode/**": true,
       "**/.build/**": true
     },
     "search.exclude": {
       "**/node_modules/**": true,
       // "**/legacy/**": true,
-      "**/.git/**": true,
+      // "**/.git/**": true, // already ignored by default
       "**/.vscode/**": true,
       "**/.build/**": true
     }

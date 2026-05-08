@@ -147,7 +147,7 @@ $fira$ `elegance`
     - bchillman phantom phantomwallet phantom.com trade.phantom.com
     - chen xiao origami
     - cyannyan6 hoshinolina cyannyan.com lina.yt
-    - dhh dhh.dk rubyonrails.org omarchy.org 37signals.com basecamp.com hey.com once.com once.com/campfire once.com/writebook
+    - dhh dhh.dk rubyonrails.org omarchy.org 37signals.com basecamp.com hey.com once.com once.com/campfire once.com/writebook robzolkos robzolkos zolkos.com
     - dingyi ding.one dexlist.page news.dex.group dex-group.ghost.io dex.zhubai.love quaily.com/dingyi
     - doodles doodles.google
     - extraordinary extraordinary.com
@@ -226,6 +226,7 @@ $fira$ `elegance`
     - andrewgy8 andrewgy8.github.io/hnarcade
     - anomalyco anoma.ly opencode.ai opentui.com models.dev
     - apersongithub apersongithub.github.io/portfolio duolingo-unlimited-hearts
+    - arkuy99 seedex.app
     - arvin17x lobehub.com
     - bellard bellard.org ffmpeg.org qemu.org bellard.org/jslinux
     - bradwoods bradwoods.io garden.bradwoods.io
@@ -253,7 +254,7 @@ $fira$ `elegance`
     - joshwcomeau joshwcomeau.com
     - juliangarnier juliangarnier.com animejs.com
     - karpathy karpathy.ai
-    - kepano stephango.com stephango.com/projects obsidian.md
+    - kepano stephango.com stephango.com/projects obsdmd obsidian.md
     - kk_shinkai sumink.com
     - krahets hello-algo.com
     - kuviman kast-lang.org linksider
