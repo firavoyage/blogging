@@ -12,6 +12,10 @@
     {
       "path": "../../f/humility"
     },
+    {
+      "path": "../../f/intuitive"
+    },
+    // {
     // {
     //   "path": "../../f/journal"
     // },
@@ -34,7 +38,7 @@
       "**/node_modules/**": true,
       // "**/legacy/**": true,
       // "**/.git/**": true, // already ignored by default
-      "**/.vscode/**": true,
+      // "**/.vscode/**": true,
       "**/.build/**": true
     }
   }

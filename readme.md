@@ -142,7 +142,7 @@ $fira$ `elegance`
     - ark.studio
     - automattic automattic.com wordpress.com wordpress.org gravatar.com tumblr.com dayoneapp.com pocketcasts.com longreads.com
     - avstorm bento.me/storm iconists.co centralicons.com
-    - badlogic badlogicgames mariozechner.at pi.dev
+    - badlogic badlogicgames mariozechner.at pi.dev earendil-works earendil.com lefos.com
     - basicappleguy basicappleguy.com
     - bchillman phantom phantomwallet phantom.com trade.phantom.com
     - chen xiao origami
@@ -746,6 +746,7 @@ $fira$ `elegance`
   - gnome adwaita
   - material.io design.google
   - react.dev
+  - mac os x 10
   - iphone os 6
   - smartisan t1
   - dracula

@@ -26217,5 +26217,40 @@ sometimes vlc even pauses the music for a few secs. (no audio output)
 
 ---
 
+`quote`
 
+now i realize why i hate gpt.
+
+> good question
+
+> im here w you
+
+these are boilerplates.
+
+> if you like, we can
+>
+> - a
+> - b
+
+that's quite annoying. "if you like".
+
+gemini asks as well (in default system prompt)
+
+> Which programming language are you currently working in?
+
+it's much more straight fwd.
+
+---
+
+https://media.leohearts.com/web/index.html#!/home
+
+https://cloud.leohearts.com/apps/dashboard/
+
+dl https://media.leohearts.com/emby/Items/1595070/Download?api_key=dd574c8172b84d4c9034f82f422cab24 n ano hana?
+
+no. it's not really reproducible and flexible i think. better use magnet.
+
+i already have some local movies. view them tomorrow?
+
+---
 
