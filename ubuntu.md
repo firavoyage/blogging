@@ -68,6 +68,9 @@ install
 echo "install algif_aead /bin/false" | sudo tee /etc/modprobe.d/disable-algif_aead.conf
 sudo rmmod algif_aead
 
+# fix dirty frag cve, which can jump from userspace to root when logined
+sudo sh -c "printf 'install esp4 /bin/false\ninstall esp6 /bin/false\ninstall rxrpc /bin/false\n' > /etc/modprobe.d/dirtyfrag.conf; rmmod esp4 esp6 rxrpc 2>/dev/null; echo 3 > /proc/sys/vm/drop_caches; true"
+
 # tools
 sudo apt install -y curl wget ca-certificates gnupg lsb-release p7zip-full unzip unrar build-essential
 

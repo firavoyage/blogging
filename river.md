@@ -26121,3 +26121,59 @@ yeah! then why not just do that?
 
 ---
 
+房间里有一些褐色小只蜘蛛.
+
+---
+
+"public domain".
+
+no mit. (see the captital letters! holy.)
+
+it something does not feel right, speak up!
+
+no matter how they are accepted.
+
+check every details.
+
+---
+
+```
+git clone <repository-url> <folder-name>
+```
+
+---
+
+no idea why i put these inside "tabs"
+
+nickle angel
+
+https://github.com/Nickel-Angel/ACM-and-OI?tab=readme-ov-file
+
+project euler
+
+https://github.com/lucky-bai/projecteuler-solutions/
+
+menci submissions (oi is boring? at least on this perspective)
+
+https://loj.ac/u/Menci
+
+---
+
+> Default Rights: Even with a restrictive license, others might still use your code under "Fair Use" or other statutory exceptions (like for education or research), which your license cannot override.
+>
+> Legal Action: To actually "stop" a non-murderer from using your code, you would have to sue them for copyright infringement. A judge is highly unlikely to award damages or an injunction based on the fact that the user hadn't committed a murder.
+> 
+> Are you interested in how ethical licensing differs from standard copyright, or are you looking for a humorous template like the "JSON License" (which famously says "The Software shall be used for Good, not Evil")?
+
+> You are well within your rights to say, "You cannot use this code without my permission." This is essentially how "All Rights Reserved" works. If someone uses it without your approval, they are committing copyright infringement.
+>
+> 2. The Problem with the "Approval Criteria"
+>
+> 3. Discrimination and "Unconscionability"
+>
+> If a "normal" person uses your code anyway, you have to sue them. To win, you have to prove they didn't have a license. If your license says "Must be smart," the defendant’s lawyer will simply argue their client is smart, and the court will likely dismiss the case as a waste of time because "smart" isn't a legal definition.
+>
+> You can legally require manual approval for every user. However, if you explicitly bake "only for killers" into the text, you risk the license being declared void for violating public policy, which could accidentally leave your code with no protection at all.
+
+---
+
