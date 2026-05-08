@@ -26199,3 +26199,13 @@ you cant.
 
 ---
 
+`[Nekomoe kissaten&VCB-Studio] Suzume no Tojimari [Ma10p_2160p_HDR10][x265_flac]`
+
+for this one, mpv perf better than vlc.
+
+when dragging the timestamp, both lags (9gb could not put into ram right now). mpv is noticeably faster.
+
+sometimes vlc even pauses the music for a few secs. (no audio output)
+
+---
+

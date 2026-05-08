@@ -360,8 +360,8 @@ sudo systemctl restart earlyoom
   - web `chromium web browser`
   - mail `thunderbird mail`
   - calendar `calendar`
-  - music `vlc media player`
-  - video `vlc media player`
+  - music `mpv media player` <!-- `vlc media player` -->
+  - video `mpv media player` <!-- `vlc media player` -->
   - photos `image viewer`
 
 ### notifications
@@ -2151,9 +2151,9 @@ sudo systemctl restart earlyoom
   - see history of sites: wayback machine https://chromewebstore.google.com/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak
   - dev: react developer tools https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en
 
-## `firefox`
+## `firefox nightly`
 
-- allow persistent "load unpacked" extensions like chromium <!-- might not work with standard version. might not work fine even on dev versions. -->
+- install persistent side loaded extensions <!-- might not work with standard version. might not work fine even on dev versions. -->
   - about:config `xpinstall.signatures.required` `false`
 
 ## `clocks`
@@ -3036,7 +3036,10 @@ sudo apt install -y gparted
 sudo snap install chromium --revision 2842
 # use a saved .snap file if needed
 # flatpak does not keep old versions. to build from source, see https://github.com/flathub/org.chromium.Chromium/commit/df2bc0c59344afd0d5248ed4f43d0dcffbb19ae0 https://commondatastorage.googleapis.com/chromium-browser-official/chromium-124.0.6367.118.tar.xz
-flatpak install -y flathub org.mozilla.firefox # use flatpak one instead
+wget -q https://packages.mozilla.org/apt/repo-signing-key.gpg -O- | sudo tee /etc/apt/keyrings/packages.mozilla.org.asc > /dev/null
+echo "deb [signed-by=/etc/apt/keyrings/packages.mozilla.org.asc] https://packages.mozilla.org/apt mozilla main" | sudo tee /etc/apt/sources.list.d/mozilla.list > /dev/null
+sudo apt update && sudo apt install -y firefox-nightly # use firefox nightly to side load extensions
+# flatpak install -y flathub org.mozilla.firefox # use flatpak instead of snap
 flatpak install -y flathub fi.skyjake.Lagrange
 
 # update apt packages index
