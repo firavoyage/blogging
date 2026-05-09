@@ -12,7 +12,7 @@ with
 - Ame Akari `TwilightBlueMoe` Rinark(Station) `ksrstation` 小凛喵喵喵 `ksrgroup` RinakaRi(station) `ksrqwq`
 - rpool/MBR `MBRjun` kMBRjund/0 🧊 `MBRjunDaily` MBRjun Cluster👑 `MBRCluster`
 - Cascade `CascadeKobayashiAlpha` Cascade Portal `CascadeTurnstile` tjk's trail. `-1001501847602` 猫玩儿桌游 `-1002742221106` floating dreamscape. `-1001918668017`
-- 神户小鸟の秘密花园 `kotoriSecretGarden`
+- Shanwer `Shanwer` 神户小鸟の秘密花园 `kotoriSecretGarden`
 - 青鸟的频道 `bluebird_channel` 喵 `-1001529110854`
 - 新叶喵的话 `liaotalk` `-1001529506625`
 - 渴望怜爱的 むらさき | 抱...抱不到 `murasaki_7301` 在十九岁的小孩上 | みるく `gzx7301` murasaki channel's discuss `-1001612601558`
@@ -32,6 +32,8 @@ with
 - livid OLIVIDA `olivida`
 - 社会易姐QwQ `ShakaiAneE` 《易姐姐的十字路口》 `ShakaiAneE_switch` 好耶，是易姐姐！ `-1001583511724` 易姐の红魔馆 > 发情.log 2>&1 `-1001437106036`
 - Estelafaxine `saeziae` #山前今天吃什麼 `xdels`
+- Hyoban 的旅行日记 `hyoban_travel`
+- daylily 📨 `daylilies` 黄花菜都凉了 `daylily_channel`
 
 ---
 
@@ -108,6 +110,8 @@ with
 - Z-Library Official 📚 `zlibrary_official`
 - No Steve Model `NoSteveModel`
 - Xray UI `XrayUI`
+- 魔法小猫 aka Neko `MahoKoneko` 摸鱼集市 `plonii`
+- 厘米碎碎念 `limisay`
 
 ---
 
@@ -133,7 +137,7 @@ with
 - Oh DonZ's Stuff \(灵车para `ohdonzsstuff`
 - 朋友们和张慧 `dinahzhang`
 - 凯露酱的朋友圈 `HakureiKyaru`
-- 🍀 Clover Said... `clovers_said` `-1001417141636`
+- 𝐂𝐥𝐨𝐯𝐞𝐫 𝐘𝐚𝐧 ⋆ `clover_yan` 🍀 Clover Said... `clovers_said` `-1001417141636`
 - Light `idawnlight` emit Light(); `idawnlightc` channel!("Light's".to_string()).comments `idawnlightc_discussion`
 - innei 白崎 汐音 `548935420` 寻的嘀嘀咕 `xun_soliloquize` ご注文はうさぎですか？ `order_usagi` お可愛いこと。 `-1001570490524`
 - 画稿纸匣 `DevelopingPaintingByGalaxyYi`
@@ -170,3 +174,8 @@ with
 - Anthony Summit `Sandycsj` Summit's Life Lab `summitlifelab` Summit's Life Lab Researchers `lifelabresearchers` 
 - Cranky Wellcome `CrankyWellcome` CW的传播媒介 `CrankyWellcoomee` 沪爷冲击 `superonseashock`
 - yzqzss |一座桥在水上 `yzqzss` yzqzss|一座桥在打工 log `yzqzss_note`
+- Neverland `wey_gu`
+- Leetao’s Space `leetao_space`
+- blowin’ in the wind `blowind`
+- Frost's Notes `fming_weekly`
+- Soil Zhu 🍀 `mintrainy` 雨里下着薄荷🍀@立夏 `soilzhuu` SoilZhu 今天和 llm 聊了啥 `talkwithllm`

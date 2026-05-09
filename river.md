@@ -26723,3 +26723,12 @@ you have to take risk. you have to take the responsibility <!-- ~~as your levera
 
 ---
 
+telegram nodes: discord/matrix server. (slack company)
+
+"design contest"
+
+durov is ambitious.
+
+---
+
+
