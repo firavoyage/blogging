@@ -26254,3 +26254,9 @@ i already have some local movies. view them tomorrow?
 
 ---
 
+google popups ai mode when you browse and modify the search pattern.
+
+(really smart)
+
+---
+
