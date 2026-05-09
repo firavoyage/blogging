@@ -26695,5 +26695,31 @@ Menci 💖, [5/9/26 4:51 AM]
 
 ---
 
+`quote`
 
+laws is nothing but a result of the battle between powers.
+
+im not saying laws are not sacred.
+
+you know, when ppl choose something at the end of the day. it might be good. though we challenge best prac sometimes. when ppl are forced to make a move, it might not. well, it could.
+
+im not saying laws are not good for you.
+
+laws are much more a constraint on the solution space, rather than a strategy to cut failing branches.
+
+if you are wise, a larger solution space almost always means a better result, at least the same.
+
+im not saying you dont have to comply.
+
+you know z library exists. the pirate bay exists. they make the world a better place.
+
+i mean, 
+
+you might not have the priviledge to comply.
+
+you could not just sit there and make nonsensical boilerplates to satisfy humans.
+
+you have to take risk. you have to take the responsibility <!-- ~~as your leverage~~, which will eventually become your leverage -->.
+
+---
 
