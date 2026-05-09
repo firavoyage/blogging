@@ -71,16 +71,20 @@ sudo rmmod algif_aead
 # fix dirty frag cve, which can jump from userspace to root when logined
 sudo sh -c "printf 'install esp4 /bin/false\ninstall esp6 /bin/false\ninstall rxrpc /bin/false\n' > /etc/modprobe.d/dirtyfrag.conf; rmmod esp4 esp6 rxrpc 2>/dev/null; echo 3 > /proc/sys/vm/drop_caches; true"
 
-# (possibly) fix redundant "network changed" errors on chromium
-sudo tee /etc/sysctl.conf > /dev/null <<EOF
-# Disable IPv6 on Wi-Fi to stop Chromium Network Changed errors
-net.ipv6.conf.wlp1s0.disable_ipv6 = 1
+# # (not needed, not the cause) ~~(possibly)~~ fix redundant "network changed" errors on chromium
+# sudo tee /etc/sysctl.conf > /dev/null <<EOF
+# # Disable IPv6 on Wi-Fi to stop Chromium Network Changed errors
+# net.ipv6.conf.wlp1s0.disable_ipv6 = 1
 
-# Disable IPv6 on Clash Verge TUN interface
-net.ipv6.conf.Meta.disable_ipv6 = 1
-EOF
+# # Disable IPv6 on Clash Verge TUN interface
+# net.ipv6.conf.Meta.disable_ipv6 = 1
+# EOF
 
-sudo sysctl -p # apply
+# # revert
+# sudo tee /etc/sysctl.conf > /dev/null <<EOF
+# EOF
+
+# sudo sysctl -p # apply
 ```
 
 install
