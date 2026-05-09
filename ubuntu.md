@@ -166,7 +166,7 @@ sudo apt install -y sysstat
 
 # proxy: rev proxy for like foo.localhost and bar.localhost
 sudo apt install -y caddy jq yq
-sudo caddy trust # normalize https
+# sudo caddy trust # normalize https
 
 # docker
 curl -fsSL https://get.docker.com | sudo sh
