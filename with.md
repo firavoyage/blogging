@@ -3,12 +3,12 @@ with
 <!-- f -->
 
 - Yutoca Leohearts✨, 芋头 `PotatoLeohearts` 芋头贸易中心 `atLeohearts` 芋头今天吃什么😺 `whatdoespotatoeattoday`
-- 大曼波 小盐神✨ `cyan_nyan` 黑客少女的日常 THG's Official Ch. `vtbcyan` `-1003064454690`
+- 大曼波 小盐神✨ `cyan_nyan` 黑客少女的日常 THG's Official Ch. `vtbcyan` 黑客少女后勤团✨ `-1003064454690`
 - Menci 💖 `mencici` 307 Temporary Redirect `lcMenci` About Menci `Menciqwq` Memory Archive ✨ `-1001716593949`
 - 千雪的中转站 `chiyuki0325` 斬風千雪 ❄️ `FlowingSnow` chykink -1002014163422
-- f `firavoyage` `journal_md` `thepreciouschin` `fira_ref` `logfira`
-- Steven Lynn `stvlynn` `stvgateway` `lynndigest` `stv_diary`
-- Acbox Neko `acboxawa` `acbox_space` `acboxlol` `memohai`
+- f `firavoyage` journal `journal_md` precious `thepreciouschin` ref `fira_ref` sns `-1003899165706` journal `logfira`
+- Steven Lynn `stvlynn` stvlynn/Gateway `stvgateway` Lynn's Digest `lynndigest` Steven’s Diary | 为0700.hk卖命中 `stv_diary`
+- Acbox Neko `acboxawa` 箱子跑来跑去📦 `acbox_space` 📦箱子今天入葬了没 `acboxlol` Project Memoh `memohai`
 - Ame Akari `TwilightBlueMoe` Rinark(Station) `ksrstation` 小凛喵喵喵 `ksrgroup` RinakaRi(station) `ksrqwq`
 - rpool/MBR `MBRjun` kMBRjund/0 🧊 `MBRjunDaily` MBRjun Cluster👑 `MBRCluster`
 - Cascade `CascadeKobayashiAlpha` Cascade Portal `CascadeTurnstile` tjk's trail. `-1001501847602` 猫玩儿桌游 `-1002742221106` floating dreamscape. `-1001918668017`
