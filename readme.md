@@ -304,7 +304,6 @@ $fira$ `elegance`
     - yusixian blog.cosine.ren/weekly
     - zhao-stanley stanleyzhao.com web.lab
   - education
-    - aleph_null
     - bellingcat bellingcat.com bellingcat.gitbook.io
     - codingstartup
     - durov telegram.org tgnav tgnav.github.io tg10000.com tree.aza.moe
@@ -336,12 +335,10 @@ $fira$ `elegance`
     - shiffman thecodingtrain.com
     - sinyalee sinyalee.com alpha-star-research.com
     - whynottv1999 tairanhe.com
+    - xuy xleaps youxu.info blog.youxu.info leaps.capital onnoah.app
     - yu ming shu zhihu qed.moe yaru.io asaka.moe
     - yxc acwing.com
     - zhao ling zhihu
-      <!-- - ayumu maki-math.com -->
-      <!-- - commonants -->
-      <!-- - su dekuang zju -->
   - journalism
     - cdtchinese chinadigitaltimes.net
     - chai jing
