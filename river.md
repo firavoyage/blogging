@@ -26742,3 +26742,54 @@ durov is ambitious.
 
 ---
 
+`quote`
+
+看着那个人, 总是有一种人生很长的感觉.
+
+会斜倚在沙发上. 看短视频. 或者横屏, 玩平凡的游戏.
+
+很多天都没有变过了. 其实是很多年.
+
+或许人生真的很长吧.
+
+---
+
+`quote` `ref`
+
+还是能感觉到许多 friction. 
+
+但可能 good enough, 也没有动力优化. 
+
+比如 intention new tab 不能自动补全, 像 omnibox 那样.
+
+但也不过退出全屏, 打几个首字母 enter 而已.
+
+真的到最后也不会自动补全了. 而会用 hotkeys. 极端, 激进.
+
+阅读也是一样. 现在还是在各种地方阅读. 不过 browser 没有什么不好的.
+
+而且用 tabs 优化了一些. (显然收藏夹不如文本强大.)
+
+会希望 twitter 上按 bookmark 就会自动存档. 或者永远自动存档一切.
+
+不过好像也没有失去过什么. 任何一个时间都有大量存量的有意义的内容. 尽管旧的 rotting 或者, 没有被 index.
+
+tg export 倒是常用. 就像 git clone 一样, 简单的性能提升. 
+
+(tg export 也只是一个选项, 时间, 类型, 大小. 没有文档导出后的内容. 没有多线程和恢复下载. 没有同步, 导出完就不动了, 作为存档, 而不是本地数据库.)
+
+有一些软件在 ideal 上不够激进. 可能因为知道代价吧.
+
+生活中或许可以有更多 alt tech, self hosted 这些...
+
+但好像没有很大动力开源复刻. 很稳定. 而且很多事情没有硬成本. software can scale infinitely.
+
+其实还是总是想要理解世界. 
+
+path.join 不好. 会冗余, 或者说重复. 
+
+<!-- as human beings it is our right (maybe our moral duty) to reshape the universe to our preferences. technology, which is really knowledge, enables this. you should probably work on raising the ceiling, not the floor. -->
+
+也不知道这篇文章想要说什么.
+
+---
