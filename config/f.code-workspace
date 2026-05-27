@@ -7,6 +7,9 @@
     //   "path": "../../f/localhost"
     // },
     {
+      "path": "../../f/para"
+    },
+    {
       "path": "../../f/drafts"
     },
     {
@@ -29,17 +32,19 @@
   "settings": {
     "files.exclude": {
       "**/node_modules/**": true,
-      // "**/legacy/**": true,
-      // "**/.git/**": true, // already ignored by default
-      // "**/.vscode/**": true,
+      "**/legacy/**": true,
+      "**/dist/**": true,
       "**/.build/**": true
+      // "**/.vscode/**": true, // no vendor lock in
+      // "**/.git/**": true, // ignored by default
     },
     "search.exclude": {
       "**/node_modules/**": true,
-      // "**/legacy/**": true,
-      // "**/.git/**": true, // already ignored by default
-      // "**/.vscode/**": true,
+      "**/legacy/**": true,
+      "**/dist/**": true,
       "**/.build/**": true
+      // "**/.vscode/**": true, // no vendor lock in
+      // "**/.git/**": true, // ignored by default
     }
   }
 }

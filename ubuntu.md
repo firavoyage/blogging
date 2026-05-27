@@ -91,10 +91,13 @@ install
 
 ```sh
 # tools
-sudo apt install -y curl wget ca-certificates gnupg lsb-release p7zip-full unzip unrar build-essential
+sudo apt install -y curl wget ca-certificates gnupg lsb-release p7zip-full unzip unrar build-essential cmake apt-transport-https
+
+# git
+sudo apt install -y git git-filter-repo
 
 # toys
-sudo apt install -y neofetch fortune-mod cowsay cbonsai figlet lolcat toilet sl
+sudo apt install -y neofetch hyfetch fortune-mod cowsay cbonsai figlet lolcat toilet sl
 
 # snap
 sudo apt install -y snapd # maybe not needed
@@ -102,6 +105,7 @@ sudo apt install -y snapd # maybe not needed
 tee ~/.hidden > /dev/null <<EOF
 snap
 Android
+Projects
 EOF
 
 # flatpak (log out to apply)
@@ -120,7 +124,7 @@ flatpak install -y flathub com.mattjakeman.ExtensionManager
 
 # find: rg, grep, tree, find, fdfind, ack
 sudo apt install -y ripgrep grep tree findutils fd-find ack
-# example: find . -maxdepth 2 -not -path '*/.*'
+# usage: find . -maxdepth 2 -not -path '*/.*'
 
 # process images, docs, fonts
 sudo apt install -y imagemagick ghostscript ffmpeg fontforge fonttools
@@ -132,7 +136,7 @@ sudo apt install -y gstreamer1.0-plugins-good gstreamer1.0-plugins-bad gstreamer
 sudo apt install -y pandoc
 sudo apt install -y texlive-latex-base texlive-latex-recommended texlive-fonts-recommended texlive-latex-extra
 sudo apt install -y texlive-xetex texlive-lang-chinese
-# example: pandoc '~.md' -o o.pdf --pdf-engine=xelatex -V CJKmainfont="Noto Sans CJK SC" -V geometry:"top=2cm, bottom=1.5cm, left=2cm, right=2cm"
+# usage: pandoc '~.md' -o o.pdf --pdf-engine=xelatex -V CJKmainfont="Noto Sans CJK SC" -V geometry:"top=2cm, bottom=1.5cm, left=2cm, right=2cm"
 
 # terminal: set zsh default
 sudo apt install -y zsh fonts-powerline
@@ -149,8 +153,9 @@ git clone https://github.com/zsh-users/zsh-syntax-highlighting ~/.zsh/zsh-syntax
 # terminal: ghostty
 curl -fsSL https://raw.githubusercontent.com/mkasberg/ghostty-ubuntu/HEAD/install.sh | zsh
 
-# terminal: tmux (keep things running in background)
-sudo apt install -y tmux
+# terminal: tmux, daemonize (keep things running in background)
+sudo apt install -y tmux daemonize
+# usage: tmux, tmux detach, exit. ctrl b, d.
 
 # terminal: ssh (connect to remote server)
 sudo apt install -y openssh-client
@@ -185,7 +190,7 @@ sudo apt install -y mise
 
 # count lines of code: ocloc, tokei, scc
 mise use -g github:adhishthite/ocloc tokei@latest aqua:boyter/scc # might be rate limited by github apis (since it complies)
-# example: ocloc .
+# usage: ocloc .
 
 # rust: rustup, rustc, cargo
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh -s -- -y
@@ -200,9 +205,9 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh -s -- -y
 # EOF
 # # use a mirror if needed
 # true > ~/.cargo/config.toml # revert mirror
-
-# git
-sudo apt install -y git
+cargo install cargo-update
+# usage: cargo install-update <crate-name> # update one crate
+# usage: cargo install-update -a # update all crates
 
 # js/ts: node, deno, pnpm, tsx, cloc, ...
 curl -fsSL https://deb.nodesource.com/setup_lts.x | sudo -E bash - # use the latest version
@@ -218,13 +223,13 @@ pnpm config set update-notifier false --global # remove the noisy update notific
 # reset: pnpm config delete loglevel --global
 # pnpm config set registry https://registry.npmmirror.com # use a mirror if needed
 pnpm add -g cloc
-# example: cloc . --vcs=git --exclude-lang=YAML,JSON,Markdown --exclude-ext=yaml,yml --exclude-dir=node_modules,.build --not-match-f=my_filename_regex --not-match-d=my_dir_regex
+# usage: cloc . --vcs=git --exclude-lang=YAML,JSON,Markdown --exclude-ext=yaml,yml --exclude-dir=node_modules,.build --not-match-f=my_filename_regex --not-match-d=my_dir_regex
 pnpm add -g tsx
 pnpm add -g parcel # simple, fast (esp with cache), less reliable
 # pnpm add -g parcel-reporter-static-files-copy
-# example: cd $dir && parcel serve '$fileName' --open --dist-dir .build --cache-dir .build/.parcel-cache
+# usage: cd $dir && parcel serve '$fileName' --open --dist-dir .build --cache-dir .build/.parcel-cache
 pnpm add -g vite # more reliable, fast enough, showy, clever
-# example: cd $dir && vite --open '$fileName'
+# usage: cd $dir && vite --open '$fileName'
 pnpm add -g webpack webpack-cli webpack-dev-server # legacy, complex
 # pnpm add -g webpack webpack-cli webpack-dev-server css-loader style-loader babel-loader file-loader url-loader ts-loader
 pnpm add -g eslint
@@ -235,7 +240,7 @@ pnpm add -g --allow-build=deno deno
 pnpm add -g --allow-build=yarn yarn
 pnpm add -g --allow-build=bun bun
 
-# python
+# python: python3, pip, pipx
 sudo apt install -y python3 pip pipx
 python3 -m pip config set global.break-system-packages true # simplify: remove meaningless warning for current user.
 
@@ -255,7 +260,7 @@ uv tool install ruff
 sudo apt install -y gcc g++ clang
 sudo snap install cling # interactive cpp from cern
 sudo docker pull emscripten/emsdk:latest # emscripten
-# example: docker run --rm -v $(pwd):/src emscripten/emsdk emcc main.cpp -o main.js
+# usage: docker run --rm -v $(pwd):/src emscripten/emsdk emcc main.cpp -o main.js
 
 # android: android studio, gradle, java
 flatpak install -y flathub com.google.AndroidStudio
@@ -266,13 +271,22 @@ sudo apt install -y openjdk-21-jdk
 # haskell: ghci
 sudo apt install -y ghc cabal-install
 
+# lisp: sbcl, clisp, ros
+sudo apt install -y sbcl clisp
+# it does not play nicely w the desktop (e.g. creates files on home, not put inside bin and link on zshrc if needed)
+# curl -O https://beta.quicklisp.org/quicklisp.lisp
+# sbcl --no-sysinit --no-userinit --load quicklisp.lisp \
+#      --eval '(quicklisp-quickstart:install)' \
+#      --eval '(ql-util:without-prompting (ql:add-to-init-file))' \
+#      --quit
+
 # ruby: ruby, irb, ri, gem
 sudo apt install -y ruby-full
 sudo gem install amazing_print
 
 # brainfuck: beef
 sudo apt install -y beef
-# example: beef -p "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>."
+# usage: beef -p "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>."
 
 # perl (it might be preinstalled, though)
 sudo apt install -y perl perl-doc
@@ -432,7 +446,7 @@ sudo systemctl restart earlyoom
 
 - sync settings <!-- login to get the latest if you can -->
 
-  - settings
+  - settings <!-- settings.json -->
 
     ```json
     {
@@ -449,9 +463,12 @@ sudo systemctl restart earlyoom
         "html": "cd $dir && parcel serve '$fileName' --open --dist-dir .build --cache-dir .build/.parcel-cache",
         // "html": "cd $dir && vite --open '$fileName'",
 
+        "javascript": "cd $dir && br '$fileName'",
+        "typescript": "cd $dir && br '$fileName'",
+
+        "markdown": "cd $dir && xdg-open '$fileName'",
         "pdf": "cd $dir && xdg-open '$fileName'",
-        "md": "cd $dir && xdg-open '$fileName'",
-        "javascript": "cd $dir && tsx '$fileName'",
+
         "java": "cd $dir && javac '$fileName' && java '$fileNameWithoutExt'",
         "c": "cd $dir && gcc '$fileName' -o '$fileNameWithoutExt' && $dir'$fileNameWithoutExt'",
         "zig": "cd $dir && zig run '$fileName'",
@@ -471,7 +488,6 @@ sudo systemctl restart earlyoom
         "fsharp": "cd $dir && fsi '$fileName'",
         "csharp": "cd $dir && scriptcs '$fileName'",
         "vbscript": "cd $dir && cscript //Nologo '$fileName'",
-        "typescript": "cd $dir && tsx '$fileName'",
         "coffeescript": "cd $dir && coffee '$fileName'",
         "scala": "cd $dir && scala '$fileName'",
         "swift": "cd $dir && swift '$fileName'",
@@ -522,7 +538,6 @@ sudo systemctl restart earlyoom
       "[javascript]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
       },
-      "git.enabled": false,
       "[json]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
       },
@@ -588,11 +603,14 @@ sudo systemctl restart earlyoom
       "json.schemaDownload.trustedDomains": {
         "*": true
       },
-      "typescript.updateImportsOnFileMove.enabled": "always"
+      "typescript.updateImportsOnFileMove.enabled": "always",
+      "diffEditor.maxComputationTime": 0,
+      "git.enabled": false,
+      "files.autoGuessEncoding": true,
     }
     ```
 
-  - shortcuts
+  - shortcuts <!-- keybindings.json -->
 
     ```json
     // Place your key bindings in this file to override the defaultsauto[]
@@ -1338,8 +1356,6 @@ sudo systemctl restart earlyoom
   - ms-python.vscode-pylance
   - rust-lang.rust-analyzer
   - golang.go
-  - xabikos.javascriptsnippets
-  - akamud.vscode-javascript-snippet-pack
   <!-- view -->
   - yzhang.markdown-all-in-one
   - tomoki1207.pdf
@@ -1946,6 +1962,9 @@ sudo systemctl restart earlyoom
   # normalize: add scrollbar # need version >= 1.3
   scrollbar = system
 
+  # normalize: use ctrl v instead of ctrl shift v # might cause conflicts
+  keybind = ctrl+v=paste_from_clipboard
+
   # simplify: disable the "are you sure you want to close?" confirmation
   confirm-close-surface = false
 
@@ -2143,6 +2162,8 @@ sudo systemctl restart earlyoom
     - intention settings: url to open when enter is empty `https://chatgpt.com/` <!-- `https://chatgpt.com/branch/69a713fd-5b58-83a3-958e-c38e92cffc74/4bccd054-037e-4707-88ff-4be087bb475e` use the latest one -->
     - intention settings: search url `https://www.google.com/ai?q=%s&gl=us` <!-- it's good to set ai mode default in case it doesnt always show up automatically, sometimes not even available on nav bar on regular search, while you can easily go to "all" from ai mode. legacy: `https://www.google.com/search?q=%s&gl=us`. unfortunately, gl=us is not preserved when switching to all. -->
   - automate captcha solving: buster https://chrome.google.com/webstore/detail/mpbjkejclgfgadiemmefgebjfooflfhl <!-- theoretically highly possible, but practically unexpectedly reliable -->
+  - manage passwords: bitwarden https://chromewebstore.google.com/detail/bitwarden-password-manage/nngceckbapebfimnlniiiahkandclblb
+    - remove shortcuts chrome://extensions/shortcuts <!-- use a nonsensical placeholder like ctrl shift 0 if needed -->
   - manage access to accounts: authenticator https://chromewebstore.google.com/detail/authenticator/bhghoamapcdpbohphigoooaddinpkbai
   - manage multiple accounts: cookie profile switcher https://chromewebstore.google.com/detail/cookie-profile-switcher/dicajblfgcpecbkhkjaljphlmkhohelc
   - manage crypto accounts: meta mask https://chrome.google.com/webstore/detail/nkbihfbeogaeaoehlefnkodbefgpgknn <!-- deprecated. incompatible without the extension. -->
@@ -3024,6 +3045,9 @@ wget -c -O "$clash_file" "$clash_url"
 sudo dpkg -i "$clash_file"
 rm "$clash_file" # clean up
 
+# normalize apt
+sudo apt update # make the package index up to date
+
 # normalize flatpak
 flatpak install -y flathub com.github.tchx84.Flatseal # fix all flatpak sandbox issues
 
@@ -3046,19 +3070,42 @@ sudo apt update && sudo apt install -y firefox-nightly # use firefox nightly to 
 # flatpak install -y flathub org.mozilla.firefox # use flatpak instead of snap
 flatpak install -y flathub fi.skyjake.Lagrange
 
-# update apt packages index
-sudo apt update
+# # browse files: dolphin # deprecated for very limited gnome design compatibility
+# flatpak install -y flathub org.kde.dolphin
+# flatpak install -y flathub org.kde.KStyle.Kvantum//6.10 # the correct version
+# # flatpak install -y flathub org.kde.KStyle.Kvantum//5.15
+# # flatpak install -y flathub org.kde.KStyle.Kvantum//5.15-24.08
+# # flatpak install -y flathub org.kde.KStyle.Kvantum//6.6
+# mkdir -p ~/.config/Kvantum
+# cd /tmp
+# git clone https://github.com/GabePoel/KvLibadwaita.git
+# cp -r KvLibadwaita/src/KvLibadwaita* ~/.config/Kvantum/
+# tee ~/.config/Kvantum/kvantum.kvconfig > /dev/null <<EOF
+# [General]
+# theme=KvGnomeDark
+# EOF
+# rm -rf /tmp/KvLibadwaita
+# mkdir -p ~/.var/app/org.kde.dolphin/config/Kvantum
+# cp -r ~/.config/Kvantum/* ~/.var/app/org.kde.dolphin/config/Kvantum/
+# flatpak override --user \
+#   --env=QT_STYLE_OVERRIDE=kvantum \
+#   --env=QT_QPA_PLATFORMTHEME=gtk3 \
+#   --filesystem=xdg-config/Kvantum:ro \
+#   org.kde.dolphin # apply
+# # flatpak install -y flathub org.gtk.Gtk3theme.adw-gtk3 # use gnome theme
+# # flatpak install -y flathub org.gtk.Gtk3theme.adw-gtk3-dark
+# # flatpak override --user --env=QT_QPA_PLATFORMTHEME=gnome org.kde.dolphin # apply
 
 # program: mg (used by linus torvalds, on a personal fork though)
 sudo apt install -y mg
 
-# program: emacs, vim
-sudo apt install -y emacs-nox
-sudo rm /usr/share/applications/emacsclient.desktop # dont let it appear on app picker, always use them as cli
+# program: vim, emacs
 sudo apt install -y vim
 sudo rm /usr/share/applications/vim.desktop
+sudo apt install -y emacs-nox
+sudo rm /usr/share/applications/emacsclient.desktop # dont let it appear on app picker, always use them as cli
 
-# program: code
+# program on gui: code
 curl https://packages.microsoft.com/keys/microsoft.asc | gpg --dearmor > packages.microsoft.gpg
 sudo install -o root -g root -m 644 packages.microsoft.gpg /usr/share/keyrings/
 sudo sh -c 'echo "deb [arch=amd64 signed-by=/usr/share/keyrings/packages.microsoft.gpg] https://packages.microsoft.com/repos/vscode stable main" > /etc/apt/sources.list.d/vscode.list'
@@ -3066,32 +3113,104 @@ sudo apt install apt-transport-https
 sudo apt update
 sudo apt install code # code from snap seems incompatible with fcitx5
 
-# program: zed
+# program on gui: zed
 flatpak install -y flathub dev.zed.Zed
 
-# program: cursor
+# program interactively: cursor
 # download from https://cursor.com/download, install with gear lever
 # cli command: %F --no-sandbox
 # it does not seem to work without the flag
 
 # program with llms: opencode, cline, codex, claude, pi
-pnpm add -g opencode-ai@latest
+pnpm add -g --allow-build=opencode-ai opencode-ai@latest # overriding the terminal background
+pnpx playwright install
+pnpx playwright install chromium
+tee ~/.config/opencode > /dev/null <<EOF
+{
+  "$schema": "https://opencode.ai/config.json",
+  "mcp": {
+    "playwright": {
+      "type": "local",
+      "command": ["pnpx", "@playwright/mcp@latest"],
+      "enabled": true
+    },
+  },
+  "permission": {
+    "websearch": "allow"
+  }
+}
+EOF
+# sudo apt install -y sqlite3 # view opencode sessions
 pnpm add -g cline
-pnpm add -g @openai/codex
-pnpm add -g @anthropic-ai/claude-code
+pnpm add -g @openai/codex # clean
+# pnpm add -g github:tobitege/codlogs # (deprecated, crashing) export codex chats
+# codex mcp add playwright npx @playwright/mcp@latest
+# codex mcp add ddg npx @modelcontextprotocol/server-duckduckgo
+# codex mcp add open-websearch npx -y @aas-ee/open-websearch
+# pnpx clawhub@latest install codex-export # noisy
+pnpm add -g --allow-build=@anthropic-ai/claude-code @anthropic-ai/claude-code
 pnpm add -g @earendil-works/pi-coding-agent
+pi install git:github.com/badlogic/pi-skills
+pi install npm:@juicesharp/rpiv-web-tools
+
+# chat w llms: open-webui, librechat
+# uv tool install open-webui
+# pip install open-webui # deprecated
+# pipx install open-webui # stuck at installing
+# sudo docker run -d -p 3000:8080 --add-host=host.docker.internal:host-gateway -v open-webui:/app/backend/data --name open-webui --restart always ghcr.io/open-webui/open-webui:main # redundant os images for maximum compatibility
+# cd ~/Documents/_/opensource/ && git clone https://github.com/danny-avila/LibreChat.git # todo: move to .storage
+# cd LibreChat
+# # cp .env.example .env
+# docker compose up -d
+# sudo docker network create librechat-network && \
+# sudo docker run -d --name librechat-db --network librechat-network -p 27017:27017 mongo:latest && \
+# sudo docker run -d --name librechat --network librechat-network -p 3080:3080 \
+#   -e MONGO_URI="mongodb://librechat-db:27017/LibreChat" \
+#   -e HOST="0.0.0.0" \
+#   -e JWT_SECRET="temporary_secret_key_change_me_later" \
+#   -e REFRESH_TOKEN_SECRET="temporary_refresh_key_change_me_later" \
+#   ghcr.io/danny-avila/librechat:latest
 
 # program with version control on gui
-# flatpak install -y flathub org.gnome.gitg # perf issue, legacy gnome ui (and weird fonts), use github instead
 flatpak install -y flathub io.github.shiftey.Desktop # seems reliable
 # flatpak install -y flathub com.axosoft.GitKraken # commercial but powerful due to the complexity of git and github, noisy and compact
+# flatpak install -y flathub org.gnome.gitg # perf issue, legacy gnome ui (and weird fonts), use github desktop instead
+
+# program w self hosted git remote: forgejo
+sudo curl https://code.forgejo.org/api/packages/apt/debian/repository.key -o /etc/apt/keyrings/forgejo-apt.asc
+echo "deb [signed-by=/etc/apt/keyrings/forgejo-apt.asc] https://code.forgejo.org/api/packages/apt/debian lts main" | sudo tee /etc/apt/sources.list.d/forgejo.list
+sudo apt update
+sudo apt install -y forgejo-sqlite
+sudo systemctl disable --now forgejo # calm by default
+# sudo systemctl enable --now forgejo # run
+# sudo systemctl status forgejo # check or debug
+
+# program w gnome design
+flatpak install -y flathub org.gnome.Builder
+
+# program w dart and flutter
+sudo snap install flutter --classic
+flutter doctor # verify, init, and download deps
+wget -qO- https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo gpg --dearmor -o /usr/share/keyrings/dart.gpg
+echo 'deb [signed-by=/usr/share/keyrings/dart.gpg arch=amd64] https://storage.googleapis.com/download.dartlang.org/linux/debian stable main' | sudo tee /etc/apt/sources.list.d/dart_stable.list
+sudo apt update && sudo apt install dart
+
+# document in typst
+flatpak install -y flathub net.trowell.typesetter
 
 # chat with agentic llms: openclaw
 pnpm add -g openclaw@latest # seems no use cases btw
 
+# translate
+flatpak install -y flathub dev.ters.LocalTranslate
+
 # look up vocab
 flatpak install -y flathub org.goldendict.GoldenDict
 flatpak install -y flathub dev.mufeed.Wordbook
+
+# look up japanese words
+flatpak install -y flathub net.trowell.kotoba
+# flatpak install -y flathub org.kde.kiten
 
 # draw, sketch, pick color
 flatpak install -y flathub org.gimp.GIMP
@@ -3108,6 +3227,9 @@ flatpak install -y flathub com.obsproject.Studio
 flatpak install -y flathub org.kde.kdenlive
 flatpak install -y flathub org.shotcut.Shotcut
 flatpak install -y flathub org.blender.Blender
+
+# play music
+flatpak install -y flathub org.jeffvli.feishin # new release popup upon installation?!
 
 # play vids, dl vids
 flatpak install -y flathub org.videolan.VLC
@@ -3245,4 +3367,10 @@ rm "$bisq_file"
 
 # extract text from images
 flatpak install -y flathub com.github.tenderowl.frog
+
+# sync repos
+cargo install refray
+
+# manage passwords
+flatpak install -y flathub com.bitwarden.desktop
 ```

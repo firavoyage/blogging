@@ -28,6 +28,11 @@ interact
 - footnote
 - details
 
+customize
+
+- data and time format
+- link preview <!-- off by default -->
+
 style
 
 extend
@@ -41,6 +46,14 @@ inspired by
 - gitbook
 - mkdocs & material for mkdocs
 - docusaurus
+
+<!-- 
+
+on github the frontpage of a project,
+
+the space on the right is often empty why not have a toc?
+
+ -->
 
 `eat`
 
@@ -57,6 +70,11 @@ recommendation
 - tag from favorites
 - custom filter
 - backend recommendation engine
+
+podcast
+
+- quote
+- note taking
 
 calendar
 
@@ -114,15 +132,20 @@ category
 
 tag
 
+<!-- 
+
+Grow: human index.
+
+Some ppl appear a lot. Luban today. Who once comment on my place. Zhihu is small. The world is small.
+
+ -->
+
 inspired by
 
-pocket
-
-instapaper
-
-raindrop
-
-archive.org
+- pocket
+- instapaper
+- raindrop
+- archive.org
 
 `float`
 
@@ -155,6 +178,27 @@ inspired by
 - apple music
 - myfreemp3
 - metro
+
+<!-- 
+
+float: ia.
+
+spotify mixes 
+
+- singles
+- albums
+- artists
+- playlists
+
+in the library.
+
+what matters more is what you play. you can play anything as you like.
+
+you can play next. you can stop after. anything.
+
+you dont have to switch from tabs (common on dock).
+
+ -->
 
 `streaming`
 
@@ -223,9 +267,19 @@ artists on berryberry
 
 world goods list
 
+phones
+
+<!-- 
+
+Stats. Feeling of stats. UI. Look of ui. Reports. Issues. Posts. Comments.
+
+Buying a headphone. The search page is very unclear. Popularity. Promo. Ads on the product picture. I could only decide with brand and price. Pick Sony.
+
+ -->
+
 social media channel
 
-chinese society movement dates
+social movements
 
 personal internet blog
 
@@ -718,6 +772,8 @@ edit images.
 
 <!-- - 溶解: 将不应存在的内容, 溶解在背景中, 一点不多, 一点不少. mosaic 会保留, 涂鸦会增添. -->
 
+<!-- select somewhere, redact w surrounding. (pure single color bg or multi origin gradient) -->
+
 template
 
 - custom wechat/qq messages
@@ -851,6 +907,22 @@ inspired by
 - telegram: same group
 - telegram indexers
 - twitter: accounts you follow and who they follow
+
+<!-- 
+
+---
+
+have.
+
+i could fetch dress repo and rle.wiki.
+
+you would be surprised how info rich they are.
+
+it does not have many contributors. but there are also not many devs in the world.
+
+overlap a lot.
+
+ -->
 
 `human`
 

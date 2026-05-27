@@ -43,7 +43,7 @@ with
 - Hacker News 摘要 `hacker_news_zh`
 - Hacker News `hacker_news_feed`
 - Pavel Durov `durov`
-- cosine - 前端人の日常频道 `cosine_front_end`
+- cos `cosine_yu` cosine - 前端人の日常频道 `cosine_front_end`
 - yihong0618 和朋友们的频道 `hyi0618`
 - 南国微雪 Miyuki `TinySnow` 南国微雪 | 一切，都很美丽。 `TinySnow4Yi` TinyReadiviearning `TinySnowDeprecatedCases`
 - HAT's Public Channel | 🫪 `hatschannel` `-1002502727045`
@@ -104,7 +104,7 @@ with
 - 皮套狗TV `pitaogo`
 - 小页页的胡言乱语 `CanyieChannel`
 - Taffy News `TaffyNews`
-- Rong布星球 🧶 `PlanetRong`
+- Rongron🧊 | g𝐝𝐛 `RongrongNyaa` Rong布星球 🧶 `PlanetRong`
 - Rosmontis's Daily🔆 `Rosmontis_Daily`
 - 可爱小鲨鲨 gawr gura `samedesu`
 - Z-Library Official 📚 `zlibrary_official`
@@ -120,7 +120,7 @@ with
 - lyra `8178351847` `-1003377114926` `-1003189111440`
 - 𝑨𝒓𝒊𝒌𝒂𝒘𝒂 `asakawashio` #Alnilam Arikawa Tghnumnu `misncandy` 詩織網路 試製原型終端  `shiorinetwork_g`
 - 葵野 苺 ✨🍓🏳️‍⚧️🇺🇳 `Aoino_Skynext` 葵野 苺ちゃんは 遊びたい！ω `play_with_Aoino` 阡陌之中 向阳生长 🏳️‍⚧️🇺🇳 `field_sunflower_Aoino`
-- tcdw (aka. 碗) `tcdwww` 大型土豆喵农场 `tcdw_channel`
+- tcdw (aka. 碗) `tcdwww` 大型土豆喵农场 `tcdw_channel` 土豆群 `-1002577182144`
 - Wibus Wee `wibus_wee` wibus 滴Channel 😘 `wibusChannel`
 - 詩帆の水世界 `mizusekaiWorld`
 - 我们站在医学退步的最前沿 `cathayformosa1`
@@ -179,3 +179,10 @@ with
 - blowin’ in the wind `blowind`
 - Frost's Notes `fming_weekly`
 - Soil Zhu 🍀 `mintrainy` 雨里下着薄荷🍀@立夏 `soilzhuu` SoilZhu 今天和 llm 聊了啥 `talkwithllm`
+- 一号特大桥 `weblogue`
+- Sky's Daily `skys_daily`
+- 混柠土 `LemonNekoTGBot`
+- Session Hikari `SessX6cf` SESS@iX `sesstimes` SESSのNO#TIMES `-1002192426444`
+- Rossi🪎 `Ross1na` Hyacine🦄 Gallery `HyacineGallery` Akasha Terminal: dev🍃 `AkashaTerminal`
+- 残滓 `zzzanshi` 残滓 `zzanshi`
+- 清凤 `chiffoncha` 清凤正在🐱叫 `chiffon_space`

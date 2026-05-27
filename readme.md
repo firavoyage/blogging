@@ -304,6 +304,7 @@ $fira$ `elegance`
     - yusixian blog.cosine.ren/weekly
     - zhao-stanley stanleyzhao.com web.lab
   - education
+    - addyosmani addyist addyosmani.com addyosmani.com/blog addyosmani.com/open-source
     - bellingcat bellingcat.com bellingcat.gitbook.io
     - codingstartup
     - durov telegram.org tgnav tgnav.github.io tg10000.com tree.aza.moe
@@ -316,6 +317,7 @@ $fira$ `elegance`
     - kalasoo ming.today yinming.me xitu.juejin.cn
     - kkksc03 k.luogu.org luogu.org
     - leerob leerob.com cursor.com
+    - lemonpig lemonpig.cn jinyue.fan yuzu-soft.com
     - liyupi yupi.icu codefather.cn yuyuanweb.com
     - matrix67 matrix67.com matrix67.itch.io localhost_8080 localhost-8080.com
     - menci men.ci oi.wiki loj.ac moeditor.github.io renbaoshuo baoshuo.ren oier.baoshuo.dev luoling8192 luoling.moe search.lingogram.app airi.moeru.ai maigolabs maigo.dev needle.maigo.dev chiyuki0325 chyk.ink hykilpikonna azaneko aza.moe amaoke.app aquadx.net voice.hydev.org vergedx cfe281953 memset0 memset0c mem.ac memset0.cn rvalue rvalue_official rvalue_daily rvalue.moe yuu quantumtransf tommy0103 7sref.cc
@@ -333,6 +335,7 @@ $fira$ `elegance`
     - que_tourist gennady korotkevich codeforces
     - ruanyf ruanyf weekly ruanyifeng.com/blog
     - shiffman thecodingtrain.com
+    - sickcodes sick.codes
     - sinyalee sinyalee.com alpha-star-research.com
     - whynottv1999 tairanhe.com
     - xuy xleaps youxu.info blog.youxu.info leaps.capital onnoah.app
@@ -429,7 +432,7 @@ $fira$ `elegance`
     - jieguchen
     - johnbartholomewchess fins0905
     - ke jie
-    - lao fei yu 66
+    - kirisamecoffee
     - lciop
     - li jiaqing
     - liu yiyi
@@ -446,8 +449,9 @@ $fira$ `elegance`
     - ta mi gao
     - xiaoyao sanren
     - xkcd xkcd.com
+    - xopxsam
     - xu toso
-    - yokidou shadowverse
+    - yokidou
     - youyi wakareno
     - zhang jiao zhangqi.com.cn
   - isekai
@@ -475,6 +479,7 @@ $fira$ `elegance`
     - minato aqua
     - miting nagisa
     - miyuki takara
+    - nachoneko_dayo
     - nahida
     - necora nyaru
     - nina iseri
@@ -523,6 +528,7 @@ $fira$ `elegance`
   - magia (kalafina)
   - god knows (haruhi suzumiya)
   - sanketsu girl (sayuri)
+  - internet yamero (aiobahn)
   - the girl who fell from the sky (joe hisaishi)
   - anytime anywhere (milet)
   - haru no kaze (aoi teshima)
@@ -606,6 +612,7 @@ $fira$ `elegance`
   - clannad (2007)
   - puella magi madoka magica (2011)
   - k-on! (2009)
+  - clannad s2 (2008)
   - .air (2005)
   - .sword art online (2012)
   - .a certain scientific railgun (2009)
@@ -659,6 +666,8 @@ $fira$ `elegance`
   - stardew valley (2016)
   - project sekai colorful stage! (2020)
   - slay the spire 2 (2026)
+  - maimai dx (2019)
+  - doki doki literature club! (2017)
   - .earth online
   - .terraria (2011)
   - .the legend of zelda: tears of the kingdom (2023)
@@ -676,6 +685,7 @@ $fira$ `elegance`
   - .astro bot (2024)
   - .monster hunter wilds (2025)
   - .inzoi (2025)
+  - .tsuki ni yorisou otome no sahou (2012)
 - books
   - to live (yu hua)
   - dream of the red chamber (cao xueqin)
@@ -746,6 +756,7 @@ $fira$ `elegance`
   - mac os x 10
   - iphone os 6
   - smartisan t1
+  - one ui 8
   - dracula
   - nord
 - fonts
@@ -753,7 +764,7 @@ $fira$ `elegance`
   - cormorant
   - eb garamond
   - fira code
-  - google product sans
+  - google sans <!-- google product sans -->
   - han wang shin su
   - han wang yan kai
   - helvetica
@@ -774,8 +785,8 @@ $fira$ `elegance`
   - google · gemini · chatgpt · grok · deepseek · mistral ai
   - wikipedia · miraheze · fandom · moegirl.icu · oi wiki · ctf wiki · mdn · jisho.org · hpoi
   - internet archive · archive.today · archive.softwareheritage.org · the pirate bay · z library · anna's archive · archivecaslytosk.onion
-  - youtube · berryberry · douyin · niconico · hololist · vtbs.moe · aicu.cc · laplace.live · danmakus.com
-  - old reddit · twitter · zhihu · nga bbs · baidu tieba · pincong.rocks
+  - youtube · berryberry · niconico · hololist · vtbs.moe · aicu.cc · laplace.live · danmakus.com · douyin
+  - <!-- old --> reddit · twitter · zhihu · nga bbs · baidu tieba · pincong.rocks
   - hacker news · lobste.rs · v2ex · github trending · product hunt · codepen spark
   - figma · paper.design · unicorn.studio · canva · khroma · coolors
   - douban · imdb · anidb · vndb · bangumi.tv · my anime list · nyaa.si · bgmlist.com · dmhy.org · mikanani.me · bangumi.moe · zimuku · yuc.wiki
@@ -789,6 +800,7 @@ $fira$ `elegance`
   - casio watch mth-1060
   - casio scientific calculator fx-991cw classwiz
   - lenovo yoga 13s acn 2021
+  - samsung galaxy s23 fe
   - smartisan revolution ii
   - sony wireless noise canceling headphones wh-ch720n
   - oneplus buds 3
@@ -939,6 +951,7 @@ $fira$ `elegance`
 > `firahq` <!-- · `firavoyage` · `firascript` · `firatheprecious`, legacy: · `"忘我思考"` · `paperboat2020` -->
 
 - - github `firahq` `humilityhq`
+  - codeberg `firahq` `humilityhq`
   - npm `firahq`
   - wikipedia `User:Firahq`
     <!-- - gitea `firavoyage` `firavoyage2` -->

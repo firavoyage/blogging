@@ -2,7 +2,7 @@ android
 
 - bilimiao <!-- piliplus -->
 - simplelive
-- zhihu
+- zhihu++ <!-- zhihu zhiliao -->
 - antennapod
 - metro music player
 - vlc
@@ -28,8 +28,10 @@ android
 - shizuku
 - canta
 - aurora store
-- etch droid
 - play store
+- neo store
+- sai
+- etch droid
 - music tag
 - fossify voice recorder
 - ehviewer
@@ -39,3 +41,5 @@ android
 - osmand
 - sndcpy
 - termux
+- lawnchair
+- lawnicons

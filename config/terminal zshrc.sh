@@ -49,8 +49,13 @@ zstyle ':completion:*:*:kill:*:processes' list-colors '=(#b) #([0-9]#)*=0=01;31'
 zstyle ':completion:*:kill:*' command 'ps -u $USER -o pid,%cpu,tty,cputime,cmd'
 
 # ================================
-# Functions
+# Functions & Aliases
 # ================================
+
+# inspired by whoami
+whereami() {
+  pwd
+}
 
 push() {
   # set -e  # no need to stop on any error, rather push more, not less
@@ -124,19 +129,19 @@ sound() {
 }
 
 phone() {
-# Restart ADB server
+  # Restart ADB server
   adb kill-server
   adb start-server
 
-# Mute media volume
+  # Mute media volume
   adb shell cmd media_session volume --stream 3 --set 0
 
-# Start scrcpy in background
+  # Start scrcpy in background
   scrcpy --fullscreen --turn-screen-off --power-off-on-close --screen-off-timeout=600 --window-title "phone" &
 
   echo "Waiting until Android allows sndcpy foreground..."
 
-# Retry ONLY the Activity start
+  # Retry ONLY the Activity start
   while true; do
     result=$(adb shell am start \
       -n com.rom1v.sndcpy/.MainActivity 2>&1)
@@ -155,12 +160,52 @@ phone() {
   sound
 }
 
-# ================================
-# Aliases
-# ================================
+# # tsx with env
+# tsxe() {
+#   local current_dir="$PWD"
+#   local env_path=""
+
+#   while [[ "$current_dir" != "/" ]]; do
+#     if [[ -f "$current_dir/.env" ]]; then
+#       env_path="$current_dir/.env"
+#       break
+#     fi
+#     current_dir=$(dirname "$current_dir")
+#   done
+
+#   if [[ -n "$env_path" ]]; then
+#     tsx --env-file="$env_path" "$@"
+#   else
+#     tsx "$@"
+#   fi
+# }
+
+# # bun that uses config on parent folders
+# bun_root_run() {
+#     local dir="$PWD"
+#     # Search upwards from current folder until hitting system root
+#     while [ "$dir" != "" ] && [ "$dir" != "/" ]; do
+#         if [ -f "$dir/bunfig.toml" ]; then
+#             # Found it! Execute bun passing the specific configuration path
+#             bun --config="$dir/bunfig.toml" "$@"
+#             return $?
+#         fi
+#         dir=$(dirname "$dir")
+#     done
+#     # Fallback: execute standard bun if no bunfig.toml file exists upstream
+#     bun "$@"
+# }
+
+# alias br="bun_root_run"
 
 # alias pnpm='sudo pnpm'
 alias apt='sudo apt -y'
+
+alias nano='code'
+
+npm(){
+  echo 'use pnpm instead'
+}
 
 # ================================
 # Plugins / Completions
@@ -237,23 +282,5 @@ source "/home/fira/.openclaw/completions/openclaw.zsh"
 # eval "$(mise activate zsh)" # it dumps noise even if you dont call it (e.g. cd)
 export PATH="$HOME/.local/share/mise/shims:$PATH"
 
-# tsx with env
-tsxe() {
-  local current_dir="$PWD"
-  local env_path=""
-
-  while [[ "$current_dir" != "/" ]]; do
-    if [[ -f "$current_dir/.env" ]]; then
-      env_path="$current_dir/.env"
-      break
-    fi
-    current_dir=$(dirname "$current_dir")
-  done
-
-  if [[ -n "$env_path" ]]; then
-    tsx --env-file="$env_path" "$@"
-  else
-    tsx "$@"
-  fi
-}
-
+# dart
+export PATH="$PATH:/usr/lib/dart/bin"

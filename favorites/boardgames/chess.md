@@ -1588,3 +1588,28 @@
 1. d4 { [%clk 0:10:00] } 1... Nf6 { [%clk 0:10:00] } 2. Nf3 { [%clk 0:10:02] } 2... d5 { [%clk 0:10:01] } 3. g3 { [%clk 0:10:06] } { D02 Queen's Pawn Game: Symmetrical Variation, Pseudo-Catalan } 3... e6 { [%clk 0:09:54] } 4. c4 { [%clk 0:10:09] } 4... Nc6 { [%clk 0:09:44] } 5. Bg2 { [%clk 0:10:13] } 5... dxc4 { [%clk 0:09:14] } 6. O-O { [%clk 0:10:16] } 6... Be7 { [%clk 0:08:49] } 7. Re1 { [%clk 0:10:18] } 7... O-O { [%clk 0:08:52] } 8. e4 { [%clk 0:10:23] } 8... Bb4 { [%clk 0:07:29] } 9. Bd2 { [%clk 0:10:26] } 9... Bxd2 { [%clk 0:07:30] } 10. Qxd2 { [%clk 0:09:45] } 10... Ne7 { [%clk 0:06:29] } 11. e5 { [%clk 0:09:01] } 11... Nd7 { [%clk 0:05:23] } 12. Na3 { [%clk 0:08:59] } 12... Nb6 { [%clk 0:05:15] } 13. Rac1 { [%clk 0:09:02] } 13... Qd5 { [%clk 0:03:54] } 14. Nh4 { [%clk 0:08:41] } 14... Qd7 { [%clk 0:02:19] } 15. Nxc4 { [%clk 0:08:43] } 15... Nxc4 { [%clk 0:01:35] } 16. Rxc4 { [%clk 0:08:46] } 16... Qb5 { [%clk 0:01:12] } 17. Rxc7 { [%clk 0:07:35] } 17... Nd5 { [%clk 0:00:11] } 18. Rc5 { [%clk 0:06:04] } 18... Qa6 { [%clk 0:00:08] } 19. a3 { [%clk 0:06:00] } 19... Rb8 { [%clk 0:00:07] } 20. Bxd5 { [%clk 0:04:13] } 20... exd5 { [%clk 0:00:12] } 21. Rxd5 { [%clk 0:04:17] } 21... b6 { [%clk 0:00:12] } 22. e6 { [%clk 0:03:46] } 22... fxe6 { [%clk 0:00:12] } 23. Rxe6 { [%clk 0:03:50] } 23... Bxe6 { [%clk 0:00:15] } 24. Re5 { [%clk 0:03:51] } 24... Bf7 { [%clk 0:00:12] } 25. d5 { [%clk 0:03:50] } 25... Rfe8 { [%clk 0:00:11] } 26. Rxe8+ { [%clk 0:03:44] } 26... Rxe8 { [%clk 0:00:14] } 27. d6 { [%clk 0:03:47] } 27... Rd8 { [%clk 0:00:14] } 28. Qd4 { [%clk 0:03:34] } 28... Qc8 { [%clk 0:00:13] } 29. Kg2 { [%clk 0:02:54] } 29... Qd7 { [%clk 0:00:10] } 30. f4 { [%clk 0:02:44] } 30... Qxd6 { [%clk 0:00:11] } 31. Qxd6 { [%clk 0:02:49] } 31... Rxd6 { [%clk 0:00:14] } 32. Kh3 { [%clk 0:02:49] } 32... Rd2 { [%clk 0:00:15] } 33. Nf5 { [%clk 0:02:51] } 33... Rxb2 { [%clk 0:00:16] } 34. Nd6 { [%clk 0:02:55] } { White resigns. } 0-1
 
 ---
+
+[Event "rated rapid game"]
+[Site "https://lichess.org/sVxkddZI"]
+[Date "2026.05.11"]
+[Round "-"]
+[White "firahq"]
+[Black "Oriind"]
+[Result "1-0"]
+[GameId "sVxkddZI"]
+[UTCDate "2026.05.11"]
+[UTCTime "19:16:02"]
+[WhiteElo "1073"]
+[BlackElo "1105"]
+[WhiteRatingDiff "+15"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "900+10"]
+[ECO "C77"]
+[Opening "Ruy Lopez: Morphy Defense, Tarrasch Variation"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. e4 { [%clk 0:15:00] } 1... e5 { [%clk 0:15:00] } 2. Nf3 { [%clk 0:15:08] } 2... Nf6 { [%clk 0:15:03] } 3. Nc3 { [%clk 0:15:15] } 3... Nc6 { [%clk 0:14:56] } 4. Bb5 { [%clk 0:14:55] } 4... a6 { [%clk 0:14:57] } 5. Ba4 { [%clk 0:15:00] } { C77 Ruy Lopez: Morphy Defense, Tarrasch Variation } 5... b5 { [%clk 0:15:04] } 6. Bb3 { [%clk 0:15:05] } 6... Bb4 { [%clk 0:15:07] } 7. O-O { [%clk 0:15:02] } 7... O-O { [%clk 0:15:12] } 8. d4 { [%clk 0:14:36] } 8... d6 { [%clk 0:13:59] } 9. Nd5 { [%clk 0:10:31] } 9... Bg4 { [%clk 0:13:24] } 10. Nxb4 { [%clk 0:09:19] } 10... Nxb4 { [%clk 0:13:21] } 11. c3 { [%clk 0:06:46] } 11... Nc6 { [%clk 0:13:10] } 12. d5 { [%clk 0:05:47] } 12... Na5 { [%clk 0:12:52] } 13. Bc2 { [%clk 0:04:58] } 13... c6 { [%clk 0:12:13] } 14. b4 { [%clk 0:04:10] } 14... Nc4 { [%clk 0:11:49] } 15. dxc6 { [%clk 0:04:03] } 15... Qc7 { [%clk 0:11:51] } 16. h3 { [%clk 0:03:43] } 16... Bh5 { [%clk 0:11:54] } 17. a4 { [%clk 0:01:56] } 17... Qxc6 { [%clk 0:11:53] } 18. axb5 { [%clk 0:01:25] } 18... Qxb5 { [%clk 0:11:49] } 19. Bb3 { [%clk 0:00:40] } 19... Nxe4 { [%clk 0:11:32] } 20. Qd3 { [%clk 0:00:18] } 20... Nb2 { [%clk 0:11:04] } 21. Qxe4 { [%clk 0:00:14] } 21... Nd3 { [%clk 0:10:48] } 22. Be3 { [%clk 0:00:19] } 22... Rfc8 { [%clk 0:10:42] } 23. Rfd1 { [%clk 0:00:18] } 23... Rxc3 { [%clk 0:10:17] } 24. Qxa8+ { [%clk 0:00:24] } 24... Rc8 { [%clk 0:09:31] } 25. Qxc8+ { [%clk 0:00:31] } 25... Qe8 { [%clk 0:09:41] } 26. Qxe8# { [%clk 0:00:29] } { White wins by checkmate. } 1-0
+
+---
