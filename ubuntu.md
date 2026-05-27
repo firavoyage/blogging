@@ -1947,7 +1947,7 @@ sudo systemctl restart earlyoom
   rm -f "$ZIP" "$DEB"
   ```
 
-- config ghostty
+- config ghostty <!-- close all windows to apply -->
 
   ```sh
   mkdir -p ~/.config/ghostty
@@ -1957,12 +1957,15 @@ sudo systemctl restart earlyoom
   wait-after-command = true
   abnormal-command-exit-runtime = 0
 
+  # normalize: go home for new terminals while letting tmux inherit
+  window-inherit-working-directory = false
+
   # normalize: add scrollbar # need version >= 1.3
   scrollbar = system
 
   # normalize: use ctrl v instead of ctrl shift v # might cause conflicts
   keybind = ctrl+v=paste_from_clipboard
-
+  
   # simplify: disable the "are you sure you want to close?" confirmation
   confirm-close-surface = false
 

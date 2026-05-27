@@ -2,8 +2,6 @@
 # Shell Settings
 # ================================
 
-cd ~
-
 setopt interactive_comments
 
 # Set up the prompt
