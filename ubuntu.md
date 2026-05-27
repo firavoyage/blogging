@@ -1925,8 +1925,6 @@ sudo systemctl restart earlyoom
 - install ghostty nightly <!-- not needed since it's already stable -->
 
   ```sh
-  set -e
-
   # source: https://github.com/mkasberg/ghostty-ubuntu/
 
   URL="https://productionresultssa4.blob.core.windows.net/actions-results/32b82df1-cdd9-4464-953e-88bfc0d48a39/workflow-job-run-a0d2f2e3-9ee7-5779-8c89-82ed3454b79c/artifacts/73fd278f2e6afa3bb7875b44543335bbc45b0029aa025df3503fba46e775dc0c.zip?rscd=attachment%3B+filename%3D%22package-ubuntu-24.04-amd64-0.15.2.zip%22&rsct=application%2Fzip&se=2026-03-06T12%3A14%3A12Z&sig=hhsYxPTiesPtoJqX8Jahp6piNsdEM6KZjqqMpWmXnS0%3D&ske=2026-03-06T13%3A33%3A46Z&skoid=ca7593d4-ee42-46cd-af88-8b886a2f84eb&sks=b&skt=2026-03-06T09%3A33%3A46Z&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skv=2025-11-05&sp=r&spr=https&sr=b&st=2026-03-06T12%3A04%3A07Z&sv=2025-11-05" # https://github.com/mkasberg/ghostty-ubuntu/actions/runs/22700833381/artifacts/5772559005, https://github.com/mkasberg/ghostty-ubuntu/actions/runs/22700833381
