@@ -3200,8 +3200,11 @@ sudo apt update && sudo apt install dart
 # document in typst
 flatpak install -y flathub net.trowell.typesetter
 
-# chat with agentic llms: openclaw
+# chat with agentic llms: openclaw, hermes
 pnpm add -g openclaw@latest # seems no use cases btw
+uv tool install hermes-agent
+hermes postinstall
+# hermes doctor # debug installation
 
 # translate
 flatpak install -y flathub dev.ters.LocalTranslate
