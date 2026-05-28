@@ -105,7 +105,7 @@ sudo apt install -y snapd # maybe not needed
 tee ~/.hidden > /dev/null <<EOF
 snap
 Android
-Projects
+# Projects
 EOF
 
 # flatpak (log out to apply)
@@ -3188,6 +3188,7 @@ sudo systemctl disable --now forgejo # calm by default
 
 # program w gnome design
 flatpak install -y flathub org.gnome.Builder
+flatpak install -y flathub re.sonny.Workbench
 
 # program w dart and flutter
 sudo snap install flutter --classic
