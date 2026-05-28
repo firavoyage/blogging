@@ -800,7 +800,7 @@ $fira$ `elegance`
   - casio watch mth-1060
   - casio scientific calculator fx-991cw classwiz
   - lenovo yoga 13s acn 2021
-  - samsung galaxy s23 fe
+  - samsung galaxy s23 plus <!-- samsung galaxy s23 fe -->
   - smartisan revolution ii
   - sony wireless noise canceling headphones wh-ch720n
   - oneplus buds 3
