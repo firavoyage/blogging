@@ -605,8 +605,11 @@ sudo systemctl restart earlyoom
       },
       "typescript.updateImportsOnFileMove.enabled": "always",
       "diffEditor.maxComputationTime": 0,
-      "git.enabled": false,
       "files.autoGuessEncoding": true,
+      "git.enabled": false,
+      "workbench.localHistory.maxFileEntries": 1000,
+      "workbench.localHistory.maxFileSize": 5120,
+      "workbench.localHistory.mergeWindow": 30,
     }
     ```
 
