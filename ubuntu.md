@@ -2322,11 +2322,11 @@ sudo journalctl -u run_push.service -r
 check status
 
 ```
-sudo systemctl status run_push.timer
+sudo systemctl list-timers
 ```
 
 ```
-sudo systemctl list-timers
+sudo systemctl status run_push.timer
 ```
 
 ```
