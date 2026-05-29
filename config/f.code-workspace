@@ -31,16 +31,16 @@
   ],
   "settings": {
     "files.exclude": {
+      // "**/legacy/**": true,
       "**/node_modules/**": true,
-      "**/legacy/**": true,
       "**/dist/**": true,
       "**/.build/**": true
       // "**/.vscode/**": true, // no vendor lock in
       // "**/.git/**": true, // ignored by default
     },
     "search.exclude": {
-      "**/node_modules/**": true,
       "**/legacy/**": true,
+      "**/node_modules/**": true,
       "**/dist/**": true,
       "**/.build/**": true
       // "**/.vscode/**": true, // no vendor lock in
