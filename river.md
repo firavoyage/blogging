@@ -406,6 +406,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `20` 2026.05.27
 - `21` 2026.05.28
 - `22` 2026.05.29
+- `23` 2026.05.30
 
 ## puella magi madoka magica
 
@@ -28889,3 +28890,12 @@ we care the human machine interface. we do not care twitter.
 the mi powerbank rev charges from time to time...
 
 ---
+
+jina:
+
+```
+{"data":null,"code":451,"name":"SecurityCompromiseError","status":45102,"message":"Anonymous access to domain genius.com blocked until Sat May 30 2026 15:43:13 GMT+0000 (Coordinated Universal Time) due to previous abuse found on https://genius.com/Jorge-rivera-herrans-ayron-alexander-and-cast-of-epic-the-musical-hold-them-down-lyrics: DDoS attack suspected: Too many domains","readableMessage":"SecurityCompromiseError: Anonymous access to domain genius.com blocked until Sat May 30 2026 15:43:13 GMT+0000 (Coordinated Universal Time) due to previous abuse found on https://genius.com/Jorge-rivera-herrans-ayron-alexander-and-cast-of-epic-the-musical-hold-them-down-lyrics: DDoS attack suspected: Too many domains"}
+```
+
+---
+
