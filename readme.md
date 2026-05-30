@@ -388,7 +388,7 @@ $fira$ `elegance`
     - megabits_mzq megabits.xyz
     - mirekintoc
     - neko205-mx neko_25_mx blog.neko25.top srcblog.neko25.top
-    - nickel_angel cnblogs.com/Nickel-Angel huamurui huamumo huamurui.github.io shiratsuyudachi
+    - nickel_angel cnblogs.com/nickel-angel huamurui huamumo huamurui.github.io shiratsuyudachi
     - ninalex12 asakawauniversityofscience
     - notevenaneko qwq.icu
     - pea3nut huasheng_pea pea3nut.info
@@ -402,6 +402,7 @@ $fira$ `elegance`
     - tinysnow itinysnowi tinysnow4yi tinysnow.github.io
     - turingou paragraph.com/@guoyu
     - txstc55 txstc55.github.io
+    - uni_kafuru
     - update4weekly
     - uselessideas club.q24.io
     - verymoes shiro.love
@@ -409,6 +410,7 @@ $fira$ `elegance`
     - yeyouchuan yeyouchuan.me
     - yifusuyi beiyanna3alf6 mtf.wiki
     - yihong0618 hyi0618
+    - yottan20001202 ysk__sub_
     - yuanzhe_zyz
     - yukarichiba yukarichannel 0x7f.cc ewe.moe
     - yunyoujun yunyoujun.cn

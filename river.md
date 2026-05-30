@@ -28877,3 +28877,12 @@ a/b testing only a specific component or a bg color (black gray / deep gray / gr
 data driven!
 
 ---
+
+`quote` `ref`
+
+we face the users. we do not face the investors.
+
+we care the human machine interface. we do not care twitter.
+
+---
+
