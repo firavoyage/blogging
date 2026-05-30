@@ -753,6 +753,7 @@ $fira$ `elegance`
   - gnome adwaita
   - material.io design.google
   - react.dev
+  - apple aqua
   - mac os x 10
   - iphone os 6
   - smartisan t1
@@ -761,6 +762,7 @@ $fira$ `elegance`
   - nord
 - fonts
   - adobe kaiti
+  - adwaita sans <!-- inter -->
   - cormorant
   - eb garamond
   - fira code
@@ -770,6 +772,7 @@ $fira$ `elegance`
   - helvetica
   - inconsolata
   - lato
+  - liberation serif
   - montserrat
   - noto sans
   - noto serif

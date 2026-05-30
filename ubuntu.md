@@ -3100,6 +3100,11 @@ flatpak install -y flathub fi.skyjake.Lagrange
 # # flatpak install -y flathub org.gtk.Gtk3theme.adw-gtk3-dark
 # # flatpak override --user --env=QT_QPA_PLATFORMTHEME=gnome org.kde.dolphin # apply
 
+# command: ghostty, gnome-terminal
+curl -fsSL https://raw.githubusercontent.com/mkasberg/ghostty-ubuntu/HEAD/install.sh | zsh
+sudo apt install -y gnome-terminal # terminal, the legacy
+flatpak install -y flathub app.devsuite.Ptyxis # terminal, the modern
+
 # program: mg (used by linus torvalds, on a personal fork though)
 sudo apt install -y mg
 
@@ -3200,6 +3205,10 @@ wget -qO- https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo gpg --dea
 echo 'deb [signed-by=/usr/share/keyrings/dart.gpg arch=amd64] https://storage.googleapis.com/download.dartlang.org/linux/debian stable main' | sudo tee /etc/apt/sources.list.d/dart_stable.list
 sudo apt update && sudo apt install dart
 
+# monitor: gnome-system-monitor
+sudo apt install -y gnome-system-monitor # system monitor, the legacy
+flatpak install -y flathub net.nokyan.Resources # resources, the modern
+
 # document in typst
 flatpak install -y flathub net.trowell.typesetter
 
@@ -3220,7 +3229,9 @@ flatpak install -y flathub dev.mufeed.Wordbook
 flatpak install -y flathub net.trowell.kotoba
 # flatpak install -y flathub org.kde.kiten
 
-# draw, sketch, pick color
+# view, draw, sketch, pick color
+sudo apt install -y eog # image viewer, the legacy eye of gnome
+flatpak install -y flathub org.gnome.Loupe # image viewer, the modern loupe
 flatpak install -y flathub org.gimp.GIMP
 flatpak install -y flathub org.kde.kolourpaint
 flatpak install -y flathub org.kde.krita
@@ -3240,6 +3251,8 @@ flatpak install -y flathub org.blender.Blender
 flatpak install -y flathub org.jeffvli.feishin # new release popup upon installation?!
 
 # play vids, dl vids
+sudo apt install -y totem # videos, the legacy totem
+flatpak install -y flathub org.gnome.Showtime # video player, the modern showtime
 flatpak install -y flathub org.videolan.VLC
 flatpak install -y flathub io.mpv.Mpv
 flatpak install -y flathub org.kde.elisa
@@ -3252,8 +3265,10 @@ EOF
 flatpak install -y flathub io.github.Predidit.Kazumi # test it
 
 # read, normalize
+sudo apt install -y evince # document viewer, the legacy evince
+flatpak install -y flathub org.gnome.Papers # document viewer, the modern papers
 flatpak install -y flathub com.github.johnfactotum.Foliate
-# sudo snap install foliate # fix fonts access in sandbox. there's nothing wrong with snap. no extra config needed. (upd: fixed by flatseal)
+# sudo snap install foliate # fix fonts access in sandbox, no extra config needed. (upd: fixed by flatseal)
 flatpak install -y flathub com.sigil_ebook.Sigil
 # flatpak install -y flathub com.calibre_ebook.calibre # remove possible noise on home folder
 

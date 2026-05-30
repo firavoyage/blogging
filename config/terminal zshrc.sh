@@ -1,10 +1,8 @@
-# ================================
 # Shell Settings
-# ================================
 
 setopt interactive_comments
 
-# Set up the prompt
+# set up the prompt
 autoload -Uz promptinit
 promptinit
 prompt adam1
@@ -13,15 +11,15 @@ base_prompt='%K{blue}%k '
 
 setopt histignorealldups sharehistory
 
-# Use emacs keybindings even if our EDITOR is set to vi
+# use emacs keybindings even if our editor is set to vi
 bindkey -e
 
-# Keep 1000 lines of history within the shell and save it to ~/.zsh_history:
-HISTSIZE=1000
-SAVEHIST=1000
+# keep 10000 lines of history within the shell and save it to ~/.zsh_history:
+HISTSIZE=10000
+SAVEHIST=10000
 HISTFILE=~/.zsh_history
 
-# Use modern completion system
+# use modern completion system
 autoload -Uz compinit
 compinit -C
 
@@ -46,9 +44,31 @@ zstyle ':completion:*' verbose true
 zstyle ':completion:*:*:kill:*:processes' list-colors '=(#b) #([0-9]#)*=0=01;31'
 zstyle ':completion:*:kill:*' command 'ps -u $USER -o pid,%cpu,tty,cputime,cmd'
 
-# ================================
+# Plugins / Completions
+
+# fish-like autosuggestions
+source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
+
+# syntax highlighting
+source ~/.zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+
+bindkey '\t' autosuggest-accept
+
+# bun completions
+[ -s "/home/fira/.bun/_bun" ] && source "/home/fira/.bun/_bun"
+
+# load private secrets (not in git)
+if [ -f "$HOME/.zshrc.private" ]; then
+  source "$HOME/.zshrc.private"
+fi
+
+# Proxies
+
+export HTTP_PROXY="http://127.0.0.1:7890"
+export HTTPS_PROXY="http://127.0.0.1:7890"
+export ALL_PROXY="socks5://127.0.0.1:7890"
+
 # Functions & Aliases
-# ================================
 
 # inspired by whoami
 whereami() {
@@ -178,7 +198,7 @@ phone() {
 #   fi
 # }
 
-# # bun that uses config on parent folders
+# # bun with config on parent folders
 # bun_root_run() {
 #     local dir="$PWD"
 #     # Search upwards from current folder until hitting system root
@@ -193,10 +213,9 @@ phone() {
 #     # Fallback: execute standard bun if no bunfig.toml file exists upstream
 #     bun "$@"
 # }
-
+# 
 # alias br="bun_root_run"
 
-# alias pnpm='sudo pnpm'
 alias apt='sudo apt -y'
 
 alias nano='code'
@@ -205,37 +224,7 @@ npm(){
   echo 'use pnpm instead'
 }
 
-# ================================
-# Plugins / Completions
-# ================================
-
-# Fish-like autosuggestions
-source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
-
-# Syntax highlighting
-source ~/.zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
-
-bindkey '\t' autosuggest-accept
-
-# bun completions
-[ -s "/home/fira/.bun/_bun" ] && source "/home/fira/.bun/_bun"
-
-# Load private secrets (not in git)
-if [ -f "$HOME/.zshrc.private" ]; then
-  source "$HOME/.zshrc.private"
-fi
-
-# ================================
-# Proxy
-# ================================
-
-export HTTP_PROXY="http://127.0.0.1:7890"
-export HTTPS_PROXY="http://127.0.0.1:7890"
-export ALL_PROXY="socks5://127.0.0.1:7890"
-
-# ================================
 # Environment
-# ================================
 
 export PATH="$HOME/.local/bin:$PATH"
 
@@ -253,17 +242,14 @@ export PATH="$BUN_INSTALL/bin:$PATH"
 export PNPM_HOME="$HOME/.local/bin"
 export PATH="$PNPM_HOME:$PATH"
 
-# nvm
+# nvm (slow, run after the first command to avoid eating input)
 export NVM_DIR="$HOME/.nvm"
-
 _nvm_loaded=0
-
 _preload_nvm() {
   (( _nvm_loaded )) && return
   _nvm_loaded=1
   [ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh"
 }
-
 autoload -Uz add-zsh-hook
 add-zsh-hook preexec _preload_nvm
 
@@ -277,7 +263,7 @@ JAVA_HOME=/usr/lib/jvm/java-17-openjdk-amd64
 source "/home/fira/.openclaw/completions/openclaw.zsh"
 
 # mise
-# eval "$(mise activate zsh)" # it dumps noise even if you dont call it (e.g. cd)
+# eval "$(mise activate zsh)" # it sometimes dumps noise even when you cd
 export PATH="$HOME/.local/share/mise/shims:$PATH"
 
 # dart
