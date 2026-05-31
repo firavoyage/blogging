@@ -220,6 +220,8 @@ alias apt='sudo apt -y'
 
 alias nano='code'
 
+alias docker='sudo docker'
+
 npm(){
   echo 'use pnpm instead'
 }

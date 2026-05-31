@@ -262,12 +262,6 @@ sudo snap install cling # interactive cpp from cern
 sudo docker pull emscripten/emsdk:latest # emscripten
 # usage: docker run --rm -v $(pwd):/src emscripten/emsdk emcc main.cpp -o main.js
 
-# android: android studio, gradle, java
-flatpak install -y flathub com.google.AndroidStudio
-sudo snap install gradle --classic
-sudo apt install -y openjdk-17-jdk
-sudo apt install -y openjdk-21-jdk
-
 # haskell: ghci
 sudo apt install -y ghc cabal-install
 
@@ -3204,6 +3198,15 @@ flutter doctor # verify, init, and download deps
 wget -qO- https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo gpg --dearmor -o /usr/share/keyrings/dart.gpg
 echo 'deb [signed-by=/usr/share/keyrings/dart.gpg arch=amd64] https://storage.googleapis.com/download.dartlang.org/linux/debian stable main' | sudo tee /etc/apt/sources.list.d/dart_stable.list
 sudo apt update && sudo apt install dart
+
+# program w android: android studio, gradle, java
+flatpak install -y flathub com.google.AndroidStudio
+sudo snap install gradle --classic
+sudo apt install -y openjdk-17-jdk
+sudo apt install -y openjdk-21-jdk
+sudo apt install -y android-sdk-platform-tools google-android-cmdline-tools-13.0-installer
+pnpm add -g eas-cli
+pnpm add -g cordova
 
 # monitor: gnome-system-monitor
 sudo apt install -y gnome-system-monitor # system monitor, the legacy
