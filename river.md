@@ -407,6 +407,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `21` 2026.05.28
 - `22` 2026.05.29
 - `23` 2026.05.30
+- `24` 2026.05.31
 
 ## puella magi madoka magica
 
