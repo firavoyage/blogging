@@ -28910,4 +28910,6 @@ Built by and for the team of Cal.com, Inc. — the leading commercial open sourc
 
 > The goal of any naming convention is to serve your workflow. If hyphens and double underscores feel like visual noise to you, you should drop them. Trusting your eyes and keeping the syntax clean is a great way to write fast, maintainable code.
 
----
+## jun 2026
+
+
