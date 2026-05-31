@@ -28912,4 +28912,12 @@ Built by and for the team of Cal.com, Inc. — the leading commercial open sourc
 
 ## jun 2026
 
+`ref`
 
+> As of April 2026, Binance's "practical" support for Chinese users is **extensive but unofficial**, operating in a legal gray area that requires users to navigate specific technical and financial hurdles.
+
+also as seen on telegram.
+
+later, i realize the deliberate strategic choices behind those idealistic.
+
+---
