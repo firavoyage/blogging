@@ -787,19 +787,19 @@ $fira$ `elegance`
   - xits math
   - zhi mang xing
 - sites
-  - google · gemini · chatgpt · grok · deepseek · mistral ai
+  - google · gemini <!-- gemma --> · claude · chatgpt · grok · mistral ai <!-- · deepseek -->
   - wikipedia · miraheze · fandom · moegirl.icu · oi wiki · ctf wiki · mdn · jisho.org · hpoi
-  - internet archive · archive.today · archive.softwareheritage.org · the pirate bay · z library · anna's archive · archivecaslytosk.onion
-  - youtube · berryberry · niconico · hololist · vtbs.moe · aicu.cc · laplace.live · danmakus.com · douyin
-  - <!-- old --> reddit · twitter · zhihu · nga bbs · baidu tieba · pincong.rocks
-  - hacker news · lobste.rs · v2ex · github trending · product hunt · codepen spark
-  - figma · paper.design · unicorn.studio · canva · khroma · coolors
+  - internet archive · archive.today · archive.softwareheritage.org · the pirate bay · z library · anna's archive <!-- · archivecaslytosk.onion -->
+  - youtube · berryberry · niconico · hololist · vtbs.moe · aicu.cc · laplace.live · danmakus.com <!-- · acfun · douyin -->
+  - youtube music · lrcdb · spotify <!-- · netease cloud music · pianotify -->
+  - <!-- old --> reddit · zhihu · nga bbs <!-- · baidu tieba · pincong.rocks -->
+  - twitter <!-- mastodon --> · hacker news · lobste.rs · v2ex · github trending · product hunt · codepen spark
+  - figma · paper.design · unicorn.studio <!-- · canva · khroma · coolors -->
   - douban · imdb · anidb · vndb · bangumi.tv · my anime list · nyaa.si · bgmlist.com · dmhy.org · mikanani.me · bangumi.moe · zimuku · yuc.wiki
-  - pixiv · dribbble · deviantart · unsplash · civitai
-  - youtube music · lrcdb · spotify · netease cloud music · pianotify
-  - e hentai · archiveofourown · cnblogs · qq zone · acfun
-  - steam db · itch.io · doodles.google · igdb · shinnku galgame · kungal · touchgal
-  - aops · oeis · codeforces · atcoder · luogu · libre oj · project euler · acmer.info
+  - steam db · itch.io · doodles.google <!-- · igdb · shinnku galgame · kungal · touchgal -->
+  - pixiv · dribbble · deviantart · unsplash <!-- · civitai -->
+  - aops · oeis · project euler · codeforces · atcoder · luogu · libre oj · acmer.info
+  - cnblogs · qq zone · e hentai <!-- · archiveofourown -->
   - travel.moe · travellings.cn · foreverblog.cn
 - portals
   - casio watch mth-1060
@@ -813,7 +813,7 @@ $fira$ `elegance`
   - morphy richards portable electric kettle mr6090
 - on ubuntu 24
   - (see `ubuntu.md`)
-- on android 11
+- on android 16 <!-- 11 -->
   - (see `android.md`)
 
 ## flyleaf

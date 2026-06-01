@@ -28921,3 +28921,13 @@ also as seen on telegram.
 later, i realize the deliberate strategic choices behind those idealistic.
 
 ---
+
+Today's Doodle
+
+[link](http://www.google.com/doodles/the-art-of-disco?gl=us)
+
+Pride Month 2026In celebration of Pride Month, today’s Doodle celebrates the art of disco by shining a light on the LGBTQ+ artists who helped create space for everyone on the dance floor.
+
+[Learn more about this Doodle](http://www.google.com/doodles/the-art-of-disco?gl=us)
+
+---
