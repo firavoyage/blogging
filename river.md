@@ -28931,3 +28931,143 @@ Pride Month 2026In celebration of Pride Month, today’s Doodle celebrates the a
 [Learn more about this Doodle](http://www.google.com/doodles/the-art-of-disco?gl=us)
 
 ---
+
+My Mix
+Mixes are playlists YouTube makes for you
+
+true
+3:08
+【公式】 ルマ／かいりきベア feat.初音ミク
+かいりきベア／Kairiki bear
+
+true
+4:12
+inabakumori - Lagtrain (Vo. Kaai Yuki)
+inabakumori
+
+true
+3:23
+inabakumori - Lost Umbrella (Vo. Kaai Yuki)
+inabakumori
+
+true
+3:39
+DECO*27 - Love Words V feat. Hatsune Miku
+DECO*27
+
+true
+14:22
+耳光乐队《特二姐18赢》 活在这伟大的时代 咱就偷着乐吧
+xiaoning wang
+
+true
+3:55
+【歌ってみた】Henceforth covered by 燈
+MyGO!!!!!
+
+true
+2:12
+失敗作少女 / 25時、ナイトコードで。 × MEIKO【3DMV】
+プロジェクトセカイ カラフルステージ! feat. 初音ミク
+
+true
+3:10
+【公式】 失敗作少女／かいりきベア・MARETU feat.初音ミク
+かいりきベア／Kairiki bear
+
+true
+4:05
+KAF #22 - EAT THE PAST [Music Video]
+KAF
+
+true
+3:42
+【初音ミク】 恋愛裁判 Love Trial 【オリジナルMV】
+40meterP
+
+true
+2:51
+【公式】 バグ／かいりきベア feat.初音ミク
+かいりきベア／Kairiki bear
+
+true
+4:03
+siinamota - Young Girl A (Official video with English sub)
+U/M/A/A Inc.
+
+true
+3:38
+Neru - Lost One's Weeping feat. Kagamine Rin
+Neru OFFICIAL
+
+true
+3:40
+【東方】Bad Apple!! ＰＶ【影絵】
+kasidid2
+
+true
+3:54
+うつしあそび
+inabakumori
+
+true
+2:19
+オーバーライド - 重音テトSV[吉田夜世]
+吉田夜世
+
+true
+3:41
+【HD】 六兆年と一夜物語 【IAオリジナル曲・PV付】- KEMU VOXX
+ke-san β
+
+true
+3:37
+きゅうくらりん / いよわ feat.可不（Kyu-kurarin / Iyowa feat.Kafu）
+いよわ/ iyowa
+
+true
+4:19
+星座になれたら
+kessoku band - Topic
+
+true
+4:05
+「ＭＶ」　千本桜　WhiteFlame feat 初音ミク
+WhiteFlame official
+
+true
+2:51
+エゴロック(long ver.) / すりぃ feat.鏡音レン
+すりぃ
+
+true
+2:45
+テレキャスタービーボーイ(long ver.) / すりぃ feat.鏡音レン
+すりぃ
+
+true
+3:25
+PinocchioP - God-ish feat. Hatsune Miku
+ピノキオピー PINOCCHIOP OFFICIAL CHANNEL
+
+true
+4:00
+ライアーダンサー／重音テトSV
+マサラダ
+
+true
+3:09
+フォニイ / phony - kafu [オリジナル]
+ツミキ / NOMELON NOLEMON
+
+how can i rm the zh cn one?
+
+(no editing option.)
+
+Save to Watch later
+Save to playlist
+Download
+Share
+
+---
+

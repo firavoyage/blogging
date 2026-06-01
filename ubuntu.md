@@ -3234,7 +3234,7 @@ flatpak install -y flathub net.trowell.kotoba
 
 # view, draw, sketch, pick color
 sudo apt install -y eog # image viewer, the legacy eye of gnome
-flatpak install -y flathub org.gnome.Loupe # image viewer, the modern loupe
+flatpak install -y flathub org.gnome.Loupe # image viewer, the modern loupe # not supporting esc to exit
 flatpak install -y flathub org.gimp.GIMP
 flatpak install -y flathub org.kde.kolourpaint
 flatpak install -y flathub org.kde.krita

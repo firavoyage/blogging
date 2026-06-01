@@ -788,16 +788,16 @@ $fira$ `elegance`
   - zhi mang xing
 - sites
   - google · gemini <!-- gemma --> · claude · chatgpt · grok · mistral ai <!-- · deepseek -->
-  - wikipedia · miraheze · fandom · moegirl.icu · oi wiki · ctf wiki · mdn · jisho.org · hpoi
+  - wikipedia · miraheze · fandom · moegirl.icu · oi wiki · ctf wiki · mdn · jisho.org <!-- · hpoi -->
   - internet archive · archive.today · archive.softwareheritage.org · the pirate bay · z library · anna's archive <!-- · archivecaslytosk.onion -->
   - youtube · berryberry · niconico · hololist · vtbs.moe · aicu.cc · laplace.live · danmakus.com <!-- · acfun · douyin -->
   - youtube music · lrcdb · spotify <!-- · netease cloud music · pianotify -->
-  - <!-- old --> reddit · zhihu · nga bbs <!-- · baidu tieba · pincong.rocks -->
   - twitter <!-- mastodon --> · hacker news · lobste.rs · v2ex · github trending · product hunt · codepen spark
-  - figma · paper.design · unicorn.studio <!-- · canva · khroma · coolors -->
+  - <!-- old --> reddit · zhihu · nga bbs <!-- · baidu tieba · pincong.rocks -->
   - douban · imdb · anidb · vndb · bangumi.tv · my anime list · nyaa.si · bgmlist.com · dmhy.org · mikanani.me · bangumi.moe · zimuku · yuc.wiki
   - steam db · itch.io · doodles.google <!-- · igdb · shinnku galgame · kungal · touchgal -->
-  - pixiv · dribbble · deviantart · unsplash <!-- · civitai -->
+  - dribbble · figma · paper.design · unicorn.studio <!-- · canva · khroma · coolors -->
+  - pixiv · deviantart · unsplash <!-- · civitai -->
   - aops · oeis · project euler · codeforces · atcoder · luogu · libre oj · acmer.info
   - cnblogs · qq zone · e hentai <!-- · archiveofourown -->
   - travel.moe · travellings.cn · foreverblog.cn
