@@ -105,6 +105,7 @@ sudo apt install -y snapd # maybe not needed
 tee ~/.hidden > /dev/null <<EOF
 snap
 Android
+VirtualBox VMs
 # Projects
 EOF
 
