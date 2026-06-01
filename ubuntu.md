@@ -2310,13 +2310,15 @@ sudo systemctl restart earlyoom
 
 <!--
 
-check log
+check
 
 ```
-sudo journalctl -u run_push.service -r
+sudo journalctl -u run_push.service -r # log
 ```
 
-check status
+```
+sudo systemctl status run_push.service # status
+```
 
 ```
 sudo systemctl list-timers
@@ -2324,10 +2326,6 @@ sudo systemctl list-timers
 
 ```
 sudo systemctl status run_push.timer
-```
-
-```
-sudo systemctl status run_push.service
 ```
 
 restart
