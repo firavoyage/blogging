@@ -3091,6 +3091,7 @@ flatpak install -y flathub fi.skyjake.Lagrange
 # # flatpak install -y flathub org.gtk.Gtk3theme.adw-gtk3 # use gnome theme
 # # flatpak install -y flathub org.gtk.Gtk3theme.adw-gtk3-dark
 # # flatpak override --user --env=QT_QPA_PLATFORMTHEME=gnome org.kde.dolphin # apply
+# # note: revert via removing env `QT_STYLE_OVERRIDE=kvantum` on flatseal # seems `QT_QPA_PLATFORMTHEME=gtk3` is unrelated
 
 # command: ghostty, gnome-terminal
 curl -fsSL https://raw.githubusercontent.com/mkasberg/ghostty-ubuntu/HEAD/install.sh | zsh
