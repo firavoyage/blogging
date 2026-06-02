@@ -444,6 +444,8 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 
 ## a certain scientific railgun (2009)
 
+- `1` 2026.06.02
+
 # gaming
 
 ## sr
