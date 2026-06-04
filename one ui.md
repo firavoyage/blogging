@@ -10,6 +10,8 @@ one ui <!-- an android rom by samsung -->
 
 # `settings`
 
+<!-- seems the search bar is moved to the bottom, as a floating bar instead of an icon button. smart. -->
+
 ## connections
 
 - wlan `on` <!-- connect -->
@@ -36,7 +38,9 @@ one ui <!-- an android rom by samsung -->
 
 ## apps
 
-- default apps: home app `lawnchair`
+- default apps
+  - browser app `firefox`
+  - home app `lawnchair`
 - remove
   - sogou keyboard
   - (all apps of zhcn names) <!-- no internationalization implies low quality. --> <!-- i guess i would just use paratheses. `[]` feels fit in a terminal. `{}` is like js template string. -->
@@ -99,8 +103,17 @@ one ui <!-- an android rom by samsung -->
   - manage languages to detect `en, jp, zh`
   - manage action capsules and cards
     - remove unwanted
-- side button: long press <!-- todo -->
+- side button: long press: `firefox`
 - screenshots and screen recordings: save screenshots in `~/Pictures/Screenshots`
+
+## general management 
+
+<!-- idk why this name, unclear. -->
+
+- keyboard
+  - default keyboard `gboard`
+  - gboard `on`
+  - spelling correction `off`
 
 # `recent apps`
 
@@ -150,12 +163,39 @@ one ui <!-- an android rom by samsung -->
 
 # `play`
 
+- login
+- opt out `(all)`
 
+# `gboard`
+
+- lang
+  - en
+  - jp `qwerty`
+    - use half width space `on`
+  - zh
+    - fuzzy pinyin `on`
+- pref
+  - number row `on`
+  - lang switch key `on` <!-- faster wo tradeoff, as i never use emojis -->
+- theme `system auto` 
+  - key borders `off` <!-- a bit confusing, you could tap again on your current selection, not common in radio group like components -->
+- corrections & suggestions
+  - don't suggest offensive wordsd `off`
+- clipboard
+  - show addresses, ... `off`
+- (bar)
+  - text editing
+  - clipboard
+
+# `firefox`
+
+- homepage: (all) `off`
+- customize: show tab bar `on`
 
 # `vlc`
 
 - extra settings: subtitles: prefered lang `en`
-- extra settings: audio: prefered lang `en`
+- extra settings: audio: prefered lang `jp`
 
 # files
 
@@ -177,3 +217,25 @@ for dir in */; do
    fi
 done
 ```
+
+```sh
+cd apks/com.android.vending
+adb install-multiple *.apk < /dev/null
+```
+
+<!-- 32 bit apps might be incompatible -->
+
+export
+
+```sh
+mkdir -p apks
+for pkg in $(adb shell pm list packages | cut -d: -f2); do
+  echo "Exporting: $pkg"
+  mkdir -p "apks/$pkg"
+  adb shell pm path "$pkg" | cut -d: -f2 | while read -r apk_path; do
+    adb pull "$apk_path" "./apks/$pkg/" < /dev/null
+  done
+done
+```
+
+
