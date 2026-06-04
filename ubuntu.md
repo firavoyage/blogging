@@ -3252,6 +3252,10 @@ flatpak install -y flathub org.blender.Blender
 
 # play music
 flatpak install -y flathub org.jeffvli.feishin # new release popup upon installation?!
+# hide deprecated
+tee ~/Music/.hidden > /dev/null <<EOF
+legacy
+EOF
 
 # play vids, dl vids
 sudo apt install -y totem # videos, the legacy totem
