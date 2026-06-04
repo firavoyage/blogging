@@ -147,35 +147,33 @@ sound() {
 }
 
 phone() {
-  # Restart ADB server
-  adb kill-server
-  adb start-server
+  # # Restart ADB server
+  # adb kill-server
+  # adb start-server
 
-  # Mute media volume
-  adb shell cmd media_session volume --stream 3 --set 0
+  # # Mute media volume
+  # adb shell cmd media_session volume --stream 3 --set 0
 
   # Start scrcpy in background
   scrcpy --fullscreen --turn-screen-off --power-off-on-close --screen-off-timeout=600 --window-title "phone" &
 
-  echo "Waiting until Android allows sndcpy foreground..."
+  # # Retry ONLY the Activity start
+  # while true; do
+  #   result=$(adb shell am start \
+  #     -n com.rom1v.sndcpy/.MainActivity 2>&1)
 
-  # Retry ONLY the Activity start
-  while true; do
-    result=$(adb shell am start \
-      -n com.rom1v.sndcpy/.MainActivity 2>&1)
+  #   echo "$result"
 
-    echo "$result"
+  #   if ! echo "$result" | grep -q "Error"; then
+  #     break
+  #   fi
 
-    if ! echo "$result" | grep -q "Error"; then
-      break
-    fi
+  #   sleep 1
+  # done
 
-    sleep 1
-  done
+  # sleep 5
 
-  sleep 5
-
-  sound
+  # sound
 }
 
 # # tsx with env
