@@ -28938,6 +28938,7 @@ Pride Month 2026In celebration of Pride Month, today’s Doodle celebrates the a
 
 ---
 
+```
 My Mix
 Mixes are playlists YouTube makes for you
 
@@ -29065,6 +29066,7 @@ true
 3:09
 フォニイ / phony - kafu [オリジナル]
 ツミキ / NOMELON NOLEMON
+```
 
 how can i rm the zh cn one?
 
@@ -29074,5 +29076,25 @@ Save to Watch later
 Save to playlist
 Download
 Share
+
+---
+
+it does take some time to find where the mui docs are.
+
+there is no visible (no click) "edit on github". (you can view md though.)
+
+hierachy:
+
+https://github.com/mui/base-ui/tree/HEAD/docs/src/app/(docs)/react/components/scroll-area/demos/hero/css-modules
+
+(there are many docs folders in the repo... and i do not even know if i could rg inside, maybe there is a dedicated docs repo?)
+
+---
+
+i find myself gradually migrating from `Documents/_/opensource` to `Projects`.
+
+the former is mostly for archival purpose. e.g. Typescript, Ruby. i would never work on them.
+
+the latter would be active. (well, archival as well, but useful for some of my active projects)
 
 ---

@@ -1360,6 +1360,7 @@ sudo systemctl restart earlyoom
   - janisdd.vscode-edit-csv
   - ms-vscode.live-server <!-- live preview -->
   - jasonheld.jsonl-pretty-editor
+  - unifiedjs.vscode-mdx
   <!-- program -->
   - saoudrizwan.claude-dev <!-- cline -->
   <!-- ship -->
