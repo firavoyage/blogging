@@ -98,7 +98,7 @@ one ui <!-- an android rom by samsung -->
 
 ## advanced features
 
-- touch to search `on`
+- touch to search `off` <!-- `on` --> <!-- i guess it's too annoy than useful, and might cause conflicts -->
   - touch and hold screen to search `on` <!-- idk why there are two settings for the seemingly the same thing -->
   - manage languages to detect `en, jp, zh`
   - manage action capsules and cards
@@ -134,11 +134,17 @@ one ui <!-- an android rom by samsung -->
   - layout: home screen grid: `3x4`
   - icons: show labels `off`
 - app drawer
+  - hidden apps `(all existing on home screen and those rarely used)`
   - icons: show labels `off`
 - folders
   - grid: maximum folder columns `2`
   - grid: maximum folder rows `2`
   - icons: show labels `off`
+- search bar: search provider `google`
+- gestures: double tap `sleep`
+  - turn on accessibility
+- (home)
+  - arrange apps
 
 # `good lock`
 
@@ -160,6 +166,32 @@ one ui <!-- an android rom by samsung -->
 - profile
   - add
 - lock this app <!-- recent apps: tap app icon -->
+
+# `shizuku`
+
+- start via wireless debugging
+  - pairing <!-- follow the instructions -->
+  - start
+
+# `canta`
+
+- remove
+  - auth framework
+  - auto blocker
+  - autofill with samsung pass
+  - galaxy avatar
+  - galaxy store
+  - game booster
+  - hongbao assistant <!-- one of the zhcn quirks -->
+  - minor mode <!-- ? -->
+  - parental controls
+  - qq music plugin
+  - samsung internet
+  - samsung kids installer
+  - samsung pass
+  - samsung payment framework
+  - samsung push service
+  - software update
 
 # `play`
 
@@ -191,11 +223,31 @@ one ui <!-- an android rom by samsung -->
 
 - homepage: (all) `off`
 - customize: show tab bar `on`
+- extensions
+  - cookie editor
+  - violent monkey
+  - control panel for twitter
+  - ublock origin
+  - web archives
 
 # `vlc`
 
 - extra settings: subtitles: prefered lang `en`
 - extra settings: audio: prefered lang `jp`
+
+# `breezy weather`
+
+<!-- md you ui update feels fun and vibrant -->
+
+- appearance: units: temperature unit `degrees celsius`
+- add location
+  - (all) `accuweather`
+
+# `ayugram`
+
+<!-- 2025.06.12 -->
+
+- exteragram pref: appearance: icon pack `default`
 
 # files
 
