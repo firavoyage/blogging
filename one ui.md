@@ -41,6 +41,7 @@ one ui <!-- an android rom by samsung -->
 - default apps
   - browser app `firefox`
   - home app `lawnchair`
+- samsung app settings: messages: more settings: auto delete otp messages `on`
 - remove
   - sogou keyboard
   - (all apps of zhcn names) <!-- no internationalization implies low quality. --> <!-- i guess i would just use paratheses. `[]` feels fit in a terminal. `{}` is like js template string. -->
@@ -115,6 +116,10 @@ one ui <!-- an android rom by samsung -->
   - gboard `on`
   - spelling correction `off`
 
+## about phone
+
+- rename `phone`
+
 # `recent apps`
 
 - settings <!-- three dot --> : show recommended apps `off` 
@@ -172,6 +177,8 @@ one ui <!-- an android rom by samsung -->
 - start via wireless debugging
   - pairing <!-- follow the instructions -->
   - start
+- use shizuku in terminal apps
+  - export files `Documents`
 
 # `canta`
 
@@ -192,6 +199,25 @@ one ui <!-- an android rom by samsung -->
   - samsung payment framework
   - samsung push service
   - software update
+
+# `termux`
+
+init
+
+```sh
+termux-setup-storage
+```
+
+enter shell <!-- it's easier on laptop anyway -->
+
+```sh
+cd /sdcard/Documents
+cp rish rish_shizuku.dex ~
+cd ~
+sed -i 's/PKG/com.termux/g' rish
+chmod +x rish
+./rish
+```
 
 # `play`
 
@@ -230,6 +256,11 @@ one ui <!-- an android rom by samsung -->
   - ublock origin
   - web archives
 
+# `metro`
+
+- now playing: now playing theme `plain`
+- personalize: library categories `songs, albums, artists, playlists, folders`
+
 # `vlc`
 
 - extra settings: subtitles: prefered lang `en`
@@ -248,6 +279,22 @@ one ui <!-- an android rom by samsung -->
 <!-- 2025.06.12 -->
 
 - exteragram pref: appearance: icon pack `default`
+
+# adb
+
+remove dnd indicator
+
+```sh
+adb shell
+```
+
+```sh
+settings get secure icon_blacklist
+```
+
+```sh
+settings put secure icon_blacklist rotate,left_clock_position,fuseboxon,headset,mute,slimindicator_home_carrier,volume,slimindicator_panel_carrier,vpn,ims_volte,ims_volte2,slimindicator_lock_carrier,do_not_disturb,dnd,zen # append to the list
+```
 
 # files
 
