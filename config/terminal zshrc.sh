@@ -216,6 +216,8 @@ phone() {
 
 alias apt='sudo apt -y'
 
+alias fd='fdfind'
+
 alias nano='code'
 
 alias docker='sudo docker'

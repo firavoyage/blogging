@@ -126,6 +126,7 @@ flatpak install -y flathub com.mattjakeman.ExtensionManager
 # find: rg, grep, tree, find, fdfind, ack
 sudo apt install -y ripgrep grep tree findutils fd-find ack
 # usage: find . -maxdepth 2 -path '*/.*' -prune -o -print
+# usage: fd . --maxdepth 2 # alias fd to fdfind on zshrc
 
 # process images, docs, fonts
 sudo apt install -y imagemagick ghostscript ffmpeg fontforge fonttools
