@@ -2655,6 +2655,7 @@ zsh -ic 'push'
 
 ## `ayugram`
 
+- settings: ayugram pref: ayugram: local telegram premium `on`
 - disable notifications
   - settings: notifications and sounds: global settings: `*` `off`
 
@@ -3203,6 +3204,7 @@ sudo apt update && sudo apt install dart
 # program w android: android studio, gradle, java
 flatpak install -y flathub com.google.AndroidStudio
 sudo snap install gradle --classic
+sudo apt install -y apktool
 sudo apt install -y openjdk-17-jdk
 sudo apt install -y openjdk-21-jdk
 sudo apt install -y android-sdk-platform-tools google-android-cmdline-tools-13.0-installer

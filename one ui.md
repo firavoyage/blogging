@@ -223,6 +223,10 @@ chmod +x rish
 
 - login
 - opt out `(all)`
+- play protect `off`
+- settings: network preferences
+  - auto update apps `off`
+  - auto play vids `off`
 
 # `gboard`
 
@@ -276,9 +280,12 @@ chmod +x rish
 
 # `ayugram`
 
-<!-- 2025.06.12 -->
+<!-- lite 2026.03.29 ~~2025.06.12~~ -->
 
-- exteragram pref: appearance: icon pack `default`
+- exteragram pref: appearance
+  - material design 3 `off`
+  - icon pack `default`
+- ayugram pref: customization: useful features: local telegram premium `on` <!-- i could pin 10 instead of 5, like in premium, but no more -->
 
 # adb
 
