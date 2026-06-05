@@ -447,6 +447,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `1` 2026.06.02
 - `2` 2026.06.03
 - `3` 2026.06.04
+- `4` 2026.06.05
 
 # gaming
 
@@ -29099,3 +29100,138 @@ the former is mostly for archival purpose. e.g. Typescript, Ruby. i would never 
 the latter would be active. (well, archival as well, but useful for some of my active projects)
 
 ---
+
+seems good.
+
+```
+Mix - Music of Asia
+Mixes are playlists YouTube makes for you
+
+true
+3:28
+【公式】 ダーリンダンス／かいりきベア feat.初音ミク
+かいりきベア／Kairiki bear
+
+true
+3:47
+幸せになれる隠しコマンドがあるらしい【Yuzuki Yukari/UtataP】【Original】
+うたたP / UtataP Official Channel
+
+true
+4:12
+inabakumori - Lagtrain (Vo. Kaai Yuki)
+inabakumori
+
+true
+3:10
+【公式】 失敗作少女／かいりきベア・MARETU feat.初音ミク
+かいりきベア／Kairiki bear
+
+true
+4:05
+KAF #22 - EAT THE PAST [Music Video]
+KAF
+
+true
+2:12
+失敗作少女 / 25時、ナイトコードで。 × MEIKO【3DMV】
+プロジェクトセカイ カラフルステージ! feat. 初音ミク
+
+true
+4:03
+siinamota - Young Girl A (Official video with English sub)
+U/M/A/A Inc.
+
+true
+3:37
+きゅうくらりん / いよわ feat.可不（Kyu-kurarin / Iyowa feat.Kafu）
+いよわ/ iyowa
+
+true
+3:41
+【HD】 六兆年と一夜物語 【IAオリジナル曲・PV付】- KEMU VOXX
+ke-san β
+
+true
+4:33
+livetune feat. 初音ミク 『Tell Your World』Music Video
+kz-livetune
+
+true
+4:15
+Kaf #49 Watashi Ronri / My Philosophy [Original MV]
+KAF
+
+true
+2:19
+オーバーライド - 重音テトSV[吉田夜世]
+吉田夜世
+
+true
+3:33
+ジャンキーナイトタウンオーケストラ / すりぃfeat.鏡音レン（Animation MV）
+すりぃ
+
+true
+2:51
+エゴロック(long ver.) / すりぃ feat.鏡音レン
+すりぃ
+
+true
+2:57
+Goodbye Declaration / Chinozo
+Chinozo
+
+true
+3:42
+【初音ミク】 恋愛裁判 Love Trial 【オリジナルMV】
+40meterP
+
+true
+3:40
+【東方】Bad Apple!! ＰＶ【影絵】
+kasidid2
+
+true
+4:13
+命ばっかり / Flower･結月ゆかり : It's Just Life / nulut,avogado6
+Lanndo / ぬゆり Official
+
+true
+3:29
+YOASOBI「怪物」Official Music Video　(YOASOBI - Monster)
+YOASOBI and Echoes
+
+true
+2:06
+さよならプリンセス (Lose The Princess) / Hatsune Miku
+Kai
+
+true
+2:57
+Orangestar - アスノヨゾラ哨戒班 (feat. IA) Official Video
+Orangestar
+
+true
+2:45
+テレキャスタービーボーイ(long ver.) / すりぃ feat.鏡音レン
+すりぃ
+
+true
+4:08
+花譜 #83「海に化ける」【オリジナルMV】
+KAF
+
+true
+3:49
+シャルル／flower
+SudaKeina Balloon
+
+true
+2:23
+Tetoris / Kasane Teto
+Hiiragi Magnetite
+```
+
+---
+

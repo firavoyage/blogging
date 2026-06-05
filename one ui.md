@@ -166,6 +166,9 @@ one ui <!-- an android rom by samsung -->
     - system icon: ims network icons `off`
     - system icon: volume `off`
     - system icon: vpn `off`
+- sound assistant
+  - customize volume panel `on` <!-- adjust the volume of specific apps just in time -->
+  - multi sound: all apps `on` <!-- `(aggressive muters)` -->  <!-- prevent an app from muting others -->
 
 # `clash meta`
 

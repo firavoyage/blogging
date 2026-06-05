@@ -112,6 +112,8 @@ $fira$ `elegance`
   - green tea & black tea
   - dark chocolate bars
   - truffles
+  - wafer milk chocolate
+  - butter cookies
   - whole wheat bread
   - butter croissant
   - potato chips
