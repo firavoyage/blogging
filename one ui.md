@@ -160,6 +160,7 @@ one ui <!-- an android rom by samsung -->
 - one hand operation plus `on`
   - right handle: short swipe: diagonal up `quick popup view`
 - quick star <!-- confusing name, making me misinstall lock star instead -->
+  - advanced settings: split panel info: quick setting `90%`
   - visibility of indicator icons
     - network information: (all) `off`
     - system icon: ims network icons `off`
@@ -251,6 +252,14 @@ chmod +x rish
 
 # `firefox`
 
+- search
+  - default search engine `Google` <!-- google ai mode -->
+    - add search engine
+      - name `Google`
+      - search string url `https://google.com/ai?q=%s&gl=us`
+      - search suggestion api `off` <!-- i feel it's rarely helpful, while adding visual noise all the time -->
+  - suggestions from firefox `off`
+  - suggestions from sponsors `off`
 - homepage: (all) `off`
 - customize: show tab bar `on`
 - extensions
@@ -282,7 +291,14 @@ chmod +x rish
 
 <!-- lite 2026.03.29 ~~2025.06.12~~ -->
 
+<!-- on the newer version, account switching seems much more frustrating, until it popups an notification saying i could long press profile on app dock -->
+
+<!-- for some reason, i could even scan to login on web from an app hacked through qr login -->
+
+<!-- well, after some usage, the liquid glass inspired ui is not that bad actually. -->
+
 - exteragram pref: appearance
+  - (circular add chat icon) `on`
   - material design 3 `off`
   - icon pack `default`
 - ayugram pref: customization: useful features: local telegram premium `on` <!-- i could pin 10 instead of 5, like in premium, but no more -->
@@ -290,6 +306,12 @@ chmod +x rish
 # adb
 
 remove dnd indicator
+
+```sh
+# normalize if needed
+adb kill-server
+adb start-server
+```
 
 ```sh
 adb shell
