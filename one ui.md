@@ -223,6 +223,10 @@ chmod +x rish
 ./rish
 ```
 
+# `files`
+
+- remove `~/Music/Samsung`
+
 # `play`
 
 - login
