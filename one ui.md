@@ -31,7 +31,7 @@ one ui <!-- an android rom by samsung -->
 
 ## developer options
 
-- debugging 
+- debugging
   - usb debugging `on`
   - wireless debugging `on`
 - networking: default usb config `transferring files`
@@ -67,7 +67,7 @@ one ui <!-- an android rom by samsung -->
 - status bar: notification style `none`
 - lock screen: show notifications `off`
 - do not disturb `on`
-- 
+-
 
 ## display
 
@@ -107,7 +107,7 @@ one ui <!-- an android rom by samsung -->
 - side button: long press: `firefox`
 - screenshots and screen recordings: save screenshots in `~/Pictures/Screenshots`
 
-## general management 
+## general management
 
 <!-- idk why this name, unclear. -->
 
@@ -120,11 +120,17 @@ one ui <!-- an android rom by samsung -->
 
 - rename `phone`
 
+# `quick panel`
+
+- auto rotate
+
+<!-- long press -->
+
 # `recent apps`
 
-- settings <!-- three dot --> : show recommended apps `off` 
+<!-- swipe up -->
 
-
+- settings <!-- three dot --> : show recommended apps `off`
 
 # `launcher` <!-- one ui home -->
 
@@ -168,7 +174,7 @@ one ui <!-- an android rom by samsung -->
     - system icon: vpn `off`
 - sound assistant
   - customize volume panel `on` <!-- adjust the volume of specific apps just in time -->
-  - multi sound: all apps `on` <!-- `(aggressive muters)` -->  <!-- prevent an app from muting others -->
+  - multi sound: all apps `on` <!-- `(aggressive muters)` --> <!-- prevent an app from muting others -->
 
 # `clash meta`
 
@@ -187,6 +193,7 @@ one ui <!-- an android rom by samsung -->
 # `canta`
 
 - remove
+  - ad privacy
   - auth framework
   - auto blocker
   - autofill with samsung pass
@@ -197,6 +204,8 @@ one ui <!-- an android rom by samsung -->
   - minor mode <!-- ? -->
   - parental controls
   - qq music plugin
+  - samsung checkout
+  - samsung cloud
   - samsung internet
   - samsung kids installer
   - samsung pass
@@ -247,7 +256,7 @@ chmod +x rish
 - pref
   - number row `on`
   - lang switch key `on` <!-- faster wo tradeoff, as i never use emojis -->
-- theme `system auto` 
+- theme `system auto`
   - key borders `off` <!-- a bit confusing, you could tap again on your current selection, not common in radio group like components -->
 - corrections & suggestions
   - don't suggest offensive wordsd `off`
@@ -343,7 +352,7 @@ install
 ```sh
 cd apks || exit
 for dir in */; do
-   pkg="${dir%/}" 
+   pkg="${dir%/}"
    if adb shell pm list packages | grep -q "^package:$pkg$"; then
      echo "Skipping: $pkg is already installed"
    else
@@ -372,5 +381,3 @@ for pkg in $(adb shell pm list packages | cut -d: -f2); do
   done
 done
 ```
-
-
