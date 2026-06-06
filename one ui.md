@@ -122,9 +122,10 @@ one ui <!-- an android rom by samsung -->
 
 # `quick panel`
 
-- auto rotate
-
-<!-- long press -->
+- edit <!-- pencil button on the top right -->
+  - remove `(unused features)` <!-- smart view, modes, nearby devices, smartthings -->
+- auto rotate <!-- long press -->
+  - show rotate button at bottom of screen `off`
 
 # `recent apps`
 
@@ -324,12 +325,12 @@ chmod +x rish
 remove dnd indicator
 
 ```sh
-# normalize if needed
-adb kill-server
-adb start-server
-```
+# unplugging and replugging the usb cable might help
 
-```sh
+# # normalize if needed
+# adb kill-server
+# adb start-server
+
 adb shell
 ```
 
@@ -339,6 +340,12 @@ settings get secure icon_blacklist
 
 ```sh
 settings put secure icon_blacklist rotate,left_clock_position,fuseboxon,headset,mute,slimindicator_home_carrier,volume,slimindicator_panel_carrier,vpn,ims_volte,ims_volte2,slimindicator_lock_carrier,do_not_disturb,dnd,zen # append to the list
+```
+
+(deprecated) remove quick panel footer <!-- e.g. proxy, organization management, background apps -->
+
+```sh
+settings put global sysui_qs_tiles_footer_policy 0
 ```
 
 # files
