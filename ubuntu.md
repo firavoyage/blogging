@@ -606,6 +606,9 @@ sudo systemctl restart earlyoom
       "workbench.localHistory.maxFileEntries": 1000,
       "workbench.localHistory.maxFileSize": 5120,
       "workbench.localHistory.mergeWindow": 30,
+      "merge-conflict.decorators.enabled": false,
+      "merge-conflict.codeLens.enabled": false,
+      "workbench.editor.enablePreview": false,
     }
     ```
 
