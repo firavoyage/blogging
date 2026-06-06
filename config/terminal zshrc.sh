@@ -57,7 +57,7 @@ bindkey '\t' autosuggest-accept
 # bun completions
 [ -s "/home/fira/.bun/_bun" ] && source "/home/fira/.bun/_bun"
 
-# load private secrets (not in git)
+# load r secrets (not in git)
 if [ -f "$HOME/.zshrc.private" ]; then
   source "$HOME/.zshrc.private"
 fi
@@ -221,6 +221,8 @@ alias fd='fdfind'
 alias nano='code'
 
 alias docker='sudo docker'
+
+alias claude='claude --dangerously-skip-permissions'
 
 npm(){
   echo 'use pnpm instead'
