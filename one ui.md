@@ -279,6 +279,7 @@ chmod +x rish
   - suggestions from sponsors `off`
 - homepage: (all) `off`
 - customize: show tab bar `on`
+- translations: offer to translate when possible `off`
 - extensions
   - cookie editor
   - violent monkey
@@ -303,6 +304,15 @@ chmod +x rish
 - appearance: units: temperature unit `degrees celsius`
 - add location
   - (all) `accuweather`
+
+# `aegis`
+
+- import
+  - file or scan qr
+- behavior
+  - copy tokens to clipboard `single tap`
+- backups
+  - backup reminder `off`
 
 # `ayugram`
 
