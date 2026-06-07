@@ -291,7 +291,7 @@ $fira$ `elegance`
     - scavenger869 loongphy.com
     - sdushantha sdushantha.github.io sherlockproject.xyz
     - share121 inter-knot s121.top fd.s121.top
-    - sheepbox8646 acboxliu acbox_space memoh_ai acbox.lol bugduck.org vuemotion.dev newcarjs.org bijonai.com chattutor.app memoh.ai dustella_chan dustella.net
+    - sheepbox8646 acboxliu acbox_space memoh_ai acbox.lol bugduck.org vuemotion.dev newcarjs.org bijonai.com chattutor.app memoh.ai dustella_chan dustella.net ranmemoh
     - simonw simonwillison simonwillison.net datasette.io
     - steipete steipete.me clawd.bot moltbook.com clawk.ai
     - swyxio swyx.io/ideas latent.space dx.tips learninpublic.org

@@ -113,6 +113,7 @@ with
 - 魔法小猫 aka Neko `MahoKoneko` 摸鱼集市 `plonii`
 - 厘米碎碎念 `limisay`
 - AdventureX 合订本 `adventurex_book`
+- laosb `laosb` Laoself 🫈 `laoself`
 
 ---
 
