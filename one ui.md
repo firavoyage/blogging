@@ -19,6 +19,10 @@ one ui <!-- an android rom by samsung -->
 - mobile hotspot and tethering: mobile hotspot
   - network name `f`
   - password `firafira`
+  - advanced
+    - turn off when no device connected for `60min`
+    - power saving mode `off`
+    - wlan sharing `on`
 
 ## account
 
@@ -81,6 +85,7 @@ one ui <!-- an android rom by samsung -->
   - more options <!-- enable via nav star on good lock, would be redirected here -->
     - gesture hint `off`
     - switch apps when hint hidden `on`
+    - gesture sensitivity `low` <!-- or gboard swipe input might cause back action. i do not use a phone case at the end of the day. -->
 - touch sensitivity `on` <!-- more compatible w gloves -->
 
 ## wallpaper and style
