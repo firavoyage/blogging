@@ -34,7 +34,12 @@
       // "**/legacy/**": true,
       "**/node_modules/**": true,
       "**/dist/**": true,
-      "**/.build/**": true
+      "**/.build/**": true,
+      // in case they run wo config (dot files/folders are not hidden by default on vscode)
+      "**/.vite/**": true,
+      "**/.parcel/**": true,
+      "**/.parcel-cache/**": true,
+      "**/.playwright-mcp/**": true
       // "**/.vscode/**": true, // no vendor lock in
       // "**/.git/**": true, // ignored by default
     },
