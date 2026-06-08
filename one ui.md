@@ -16,7 +16,7 @@ one ui <!-- an android rom by samsung -->
 
 - wlan `on` <!-- connect -->
 - nfc and contactless payments `off`
-- mobile hotspot and tethering: mobile hotspot
+- mobile hotspot and tethering: mobile hotspot <!-- save -->
   - network name `f`
   - password `firafira`
   - advanced
