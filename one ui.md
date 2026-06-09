@@ -127,8 +127,27 @@ one ui <!-- an android rom by samsung -->
 
 # `quick panel`
 
+<!-- drag downward from top right of the screen -->
+
 - edit <!-- pencil button on the top right -->
   - remove `(unused features)` <!-- smart view, modes, nearby devices, smartthings -->
+  - organize <!-- remove some unused/unchanged or vendor specific features -->
+    - wlan
+    - bluetooth
+    - quick access <!-- only the first eight would be shown wo an extra drag -->
+      - portrait <!-- screen rotation -->
+      - flashlight
+      - mobile data
+      - mobile hotspot
+      - location
+      - take screenshot <!--idk why they use verb noun here, maybe it could be more intuitive when inconsistent -->
+      - screen recorder
+      - eye comfort shield
+      - scan qr code
+      - audio broadcast <!-- through bluetooth -->
+    - brightness slider
+    - volume slider
+    - media output
 - auto rotate <!-- long press -->
   - show rotate button at bottom of screen `off`
 
