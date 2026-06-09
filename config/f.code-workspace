@@ -39,7 +39,9 @@
       "**/.vite/**": true,
       "**/.parcel/**": true,
       "**/.parcel-cache/**": true,
-      "**/.playwright-mcp/**": true
+      "**/.playwright-mcp/**": true,
+      "AGENTS.md": true,
+      "CLAUDE.md": true,
       // "**/.vscode/**": true, // no vendor lock in
       // "**/.git/**": true, // ignored by default
     },
