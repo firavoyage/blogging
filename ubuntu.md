@@ -609,6 +609,8 @@ sudo systemctl restart earlyoom
       "merge-conflict.decorators.enabled": false,
       "merge-conflict.codeLens.enabled": false,
       "workbench.editor.enablePreview": false,
+      "explorer.decorations.badges": false,
+      "explorer.decorations.colors": false,
     }
     ```
 
