@@ -2123,6 +2123,7 @@ sudo systemctl restart earlyoom
   - chrome://flags/#customize-chrome-side-panel
   - chrome://flags/#chrome-refresh-2023
   - chrome://flags/#chrome-webui-refresh-2023
+  - chrome://flags/#read-anything <!-- open in reading mode -->
 - use system title bar `off` <!-- right click the title bar -->
 - config fonts
 
