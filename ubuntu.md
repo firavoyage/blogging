@@ -170,7 +170,7 @@ sudo DEBIAN_FRONTEND=noninteractive apt install -y iperf3 # test network speed o
 # iperf3 -c your_server_ip # local
 
 # monitor the system: mpstat, iostat
-sudo apt install -y sysstat 
+sudo apt install -y sysstat
 # usage:
 # mpstat 1 # cpu
 # iostat -xz 1 # disk
@@ -610,7 +610,7 @@ sudo systemctl restart earlyoom
       "merge-conflict.codeLens.enabled": false,
       "workbench.editor.enablePreview": false,
       "explorer.decorations.badges": false,
-      "explorer.decorations.colors": false,
+      "explorer.decorations.colors": false
     }
     ```
 
@@ -1970,7 +1970,7 @@ sudo systemctl restart earlyoom
 
   # normalize: use ctrl v instead of ctrl shift v # might cause conflicts
   keybind = ctrl+v=paste_from_clipboard
-  
+
   # simplify: disable the "are you sure you want to close?" confirmation
   confirm-close-surface = false
 
@@ -2206,23 +2206,24 @@ sudo systemctl restart earlyoom
 
 ## `git`
 
-- install
+- config 
 
   ```
-  sudo apt install git
+  # name myself
   git config --global user.name "Fira"
   git config --global user.email "xoyage@gmail.com"
-  git config --global push.autoSetupRemote true
+  
+  # memoize secrets (trade security for easiness)
   git config --global credential.helper store
-  ```
 
-- normalize connectivity
+  # normalize sync
+  git config --global push.autoSetupRemote true
 
-  ```sh
+  # normalize connectivity
   git config --global http.sslVerify false
   ```
 
-- config secrets
+- setup secrets
 
   `~/.git-credentials`
 
@@ -2232,54 +2233,54 @@ sudo systemctl restart earlyoom
   https://username:password@gitee.com
   ```
 
-  - use personal access token `ghp_...` as password
+  <!-- for github, use personal access token `ghp_...` as password -->
 
   <!-- interactive one does the same -->
 
 - add remotes
-  - add github
-    ```sh
-    git remote add g https://github.com/username/project.git
-    ```
-  - add gitea
-    ```sh
-    git remote add a https://gitea.com/username/project.git
-    ```
-  - add gitlab
-    ```sh
-    git remote add l git@gitlab.com:username/project.git
-    ```
-  - add gitee
-    ```sh
-    git remote add e https://gitee.com/username/project.git
-    ```
-- config zshrc
-  - copy `terminal zshrc.sh` to `~/.zshrc`
-  - use `push` function to sync all git repos
-- set timer to auto push daily <!-- or save, sync -->
 
   ```sh
-  push_script_path="/usr/local/bin/run_push.sh"
-  push_service_path="/etc/systemd/system/run_push.service"
-  push_timer_path="/etc/systemd/system/run_push.timer"
+  # github
+  git remote add g https://github.com/username/project.git
+
+  # gitea
+  git remote add a https://gitea.com/username/project.git
+
+  # codeberg
+
+  # gitlab
+  git remote add l git@gitlab.com:username/project.git
+
+  # gitee
+  git remote add e https://gitee.com/username/project.git
+  ```
+
+- config zshrc
+  - copy `terminal zshrc.sh` to `~/.zshrc` <!-- including repo_save() and repo_sync() -->
+- set timer to auto save and push
+
+  ```sh
+  repo_save_script_path="/usr/local/bin/repo_save.sh"
+  repo_save_service_path="/etc/systemd/system/repo_save.service"
+  repo_save_timer_path="/etc/systemd/system/repo_save.timer"
 
   # shebang (`#!/usr/bin/env zsh`) is essential
-  sudo tee $push_script_path > /dev/null << 'EOF'
+  sudo tee $repo_save_script_path > /dev/null << 'EOF'
   #!/usr/bin/env zsh
-  zsh -ic 'push'
+  zsh -ic 'repo_save'
   EOF
 
-  sudo chmod +x $push_script_path
+  sudo chmod +x $repo_save_script_path
 
-  sudo tee $push_service_path > /dev/null << EOF
+  # both fn will succeed even if they fail
+  sudo tee $repo_save_service_path > /dev/null << EOF
   [Unit]
-  Description=Run push command at 23:00 daily
-  After=network.target
+  Description=Save repo state
   StartLimitIntervalSec=1h
-  StartLimitBurst=3
+  StartLimitBurst=10
 
   [Service]
-  ExecStart=$push_script_path
+  ExecStart=$repo_save_script_path
   Restart=on-failure
   RestartSec=600
   User=$USER
@@ -2290,90 +2291,152 @@ sudo systemctl restart earlyoom
   WantedBy=multi-user.target
   EOF
 
-  sudo tee $push_timer_path > /dev/null << EOF
+  sudo tee $repo_save_timer_path > /dev/null << EOF
   [Unit]
-  Description=Run push command daily
+  Description=Save repo state every 20 min
 
   [Timer]
   OnCalendar=00:00
+  OnCalendar=00:20
+  OnCalendar=00:40
+  OnCalendar=01:00
+  OnCalendar=01:20
+  OnCalendar=01:40
   OnCalendar=02:00
+  OnCalendar=02:20
+  OnCalendar=02:40
+  OnCalendar=03:00
+  OnCalendar=03:20
+  OnCalendar=03:40
   OnCalendar=04:00
+  OnCalendar=04:20
+  OnCalendar=04:40
+  OnCalendar=05:00
+  OnCalendar=05:20
+  OnCalendar=05:40
   OnCalendar=06:00
+  OnCalendar=06:20
+  OnCalendar=06:40
+  OnCalendar=07:00
+  OnCalendar=07:20
+  OnCalendar=07:40
   OnCalendar=08:00
+  OnCalendar=08:20
+  OnCalendar=08:40
+  OnCalendar=09:00
+  OnCalendar=09:20
+  OnCalendar=09:40
   OnCalendar=10:00
+  OnCalendar=10:20
+  OnCalendar=10:40
+  OnCalendar=11:00
+  OnCalendar=11:20
+  OnCalendar=11:40
   OnCalendar=12:00
+  OnCalendar=12:20
+  OnCalendar=12:40
+  OnCalendar=13:00
+  OnCalendar=13:20
+  OnCalendar=13:40
   OnCalendar=14:00
+  OnCalendar=14:20
+  OnCalendar=14:40
+  OnCalendar=15:00
+  OnCalendar=15:20
+  OnCalendar=15:40
   OnCalendar=16:00
+  OnCalendar=16:20
+  OnCalendar=16:40
+  OnCalendar=17:00
+  OnCalendar=17:20
+  OnCalendar=17:40
   OnCalendar=18:00
+  OnCalendar=18:20
+  OnCalendar=18:40
+  OnCalendar=19:00
+  OnCalendar=19:20
+  OnCalendar=19:40
   OnCalendar=20:00
+  OnCalendar=20:20
+  OnCalendar=20:40
+  OnCalendar=21:00
+  OnCalendar=21:20
+  OnCalendar=21:40
   OnCalendar=22:00
-  Unit=run_push.service
+  OnCalendar=22:20
+  OnCalendar=22:40
+  OnCalendar=23:00
+  OnCalendar=23:20
+  OnCalendar=23:40
+  Unit=repo_save.service
+
+  [Install]
+  WantedBy=timers.target
+  EOF
+
+  repo_sync_script_path="/usr/local/bin/repo_sync.sh"
+  repo_sync_service_path="/etc/systemd/system/repo_sync.service"
+  repo_sync_timer_path="/etc/systemd/system/repo_sync.timer"
+
+  # shebang (`#!/usr/bin/env zsh`) is essential
+  sudo tee $repo_sync_script_path > /dev/null << 'EOF'
+  #!/usr/bin/env zsh
+  zsh -ic 'repo_sync'
+  EOF
+
+  sudo chmod +x $repo_sync_script_path
+
+  sudo tee $repo_sync_service_path > /dev/null << EOF
+  [Unit]
+  Description=Sync repo to remotes
+  After=network.target
+  StartLimitIntervalSec=1h
+  StartLimitBurst=3
+
+  [Service]
+  ExecStart=$repo_sync_script_path
+  Restart=on-failure
+  RestartSec=600
+  User=$USER
+  Environment=DISPLAY=:0
+  Environment=XAUTHORITY=/home/$USER/.Xauthority
+
+  [Install]
+  WantedBy=multi-user.target
+  EOF
+
+  sudo tee $repo_sync_timer_path > /dev/null << EOF
+  [Unit]
+  Description=Sync repo to remotes daily
+
+  [Timer]
+  OnCalendar=00:00
+  OnCalendar=08:00
+  OnCalendar=18:00
+  Unit=repo_sync.service
 
   [Install]
   WantedBy=timers.target
   EOF
 
   sudo systemctl daemon-reload
-  sudo systemctl enable --now run_push.timer
+  sudo systemctl enable --now repo_save.timer
+  sudo systemctl enable --now repo_sync.timer
+
+  # sudo journalctl -u repo_save.service -r
+  # sudo systemctl status repo_save.service
+  # sudo systemctl status repo_save.timer
+
+  # sudo journalctl -u repo_sync.service -r
+  # sudo systemctl status repo_sync.service
+  # sudo systemctl status repo_sync.timer
+
+  # sudo systemctl disable --now repo_sync.service
+  # sudo systemctl disable --now repo_sync.timer
+
+  # sudo systemctl start repo_sync.service
+  # sudo systemctl restart repo_sync.service
   ```
-
-<!--
-
-check
-
-```
-sudo journalctl -u run_push.service -r # log
-```
-
-```
-sudo systemctl status run_push.service # status
-```
-
-```
-sudo systemctl list-timers
-```
-
-```
-sudo systemctl status run_push.timer
-```
-
-restart
-
-```
-sudo systemctl daemon-reload
-sudo systemctl restart run_push.service
-sudo systemctl restart run_push.timer
-```
-
-stop
-
-```
-sudo systemctl stop --now run_push.service
-sudo systemctl stop --now run_push.timer
-```
-
-apply
-
-```
-sudo systemctl disable run_push.service # dont enable it unless you wanna run it at once when the system boots.
-
-sudo systemctl enable --now run_push.timer # enable it. `--now` flag means both enable (start when reboot) and start (start now).
-
-sudo systemctl daemon-reload
-sudo systemctl restart run_push.timer
-```
-
-test
-
-```
-sudo systemctl start run_push.service
-```
-
-```
-zsh -ic 'push'
-```
-
- -->
 
 ## `fcitx5`
 
