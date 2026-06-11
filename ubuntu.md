@@ -1367,6 +1367,7 @@ sudo systemctl restart earlyoom
   - ms-vscode.live-server <!-- live preview -->
   - jasonheld.jsonl-pretty-editor
   - unifiedjs.vscode-mdx <!-- seems it blocks some shortcuts like ctrl b (expected open sidebar, currently no effect or toggle bold) on mdx files -->
+    - extension page: gear icon: keyboard shortcuts: (all) `(removed)`
   <!-- program -->
   - saoudrizwan.claude-dev <!-- cline -->
   <!-- ship -->
