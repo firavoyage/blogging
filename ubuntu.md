@@ -3251,6 +3251,7 @@ flatpak install -y flathub org.kde.kolourpaint
 flatpak install -y flathub org.kde.krita
 flatpak install -y flathub org.inkscape.Inkscape
 flatpak install -y flathub com.github.finefindus.eyedropper
+# sudo apt install -y gpick
 
 # graph
 flatpak install -y flathub org.geogebra.GeoGebra
