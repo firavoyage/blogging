@@ -3134,6 +3134,8 @@ sudo apt install -y gparted
 sudo snap install chromium --revision 2842
 # use a saved .snap file if needed
 # flatpak does not keep old versions. to build from source, see https://github.com/flathub/org.chromium.Chromium/commit/df2bc0c59344afd0d5248ed4f43d0dcffbb19ae0 https://commondatastorage.googleapis.com/chromium-browser-official/chromium-124.0.6367.118.tar.xz
+# flatpak install -y flathub com.google.Chrome
+# flatpak install -y flathub org.chromium.Chromium
 wget -q https://packages.mozilla.org/apt/repo-signing-key.gpg -O- | sudo tee /etc/apt/keyrings/packages.mozilla.org.asc > /dev/null
 echo "deb [signed-by=/etc/apt/keyrings/packages.mozilla.org.asc] https://packages.mozilla.org/apt mozilla main" | sudo tee /etc/apt/sources.list.d/mozilla.list > /dev/null
 sudo apt update && sudo apt install -y firefox-nightly # use firefox nightly to side load extensions
