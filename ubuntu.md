@@ -3203,7 +3203,7 @@ flatpak install -y flathub dev.zed.Zed
 pnpm add -g --allow-build=opencode-ai opencode-ai@latest # overriding the terminal background
 pnpx playwright install
 pnpx playwright install chromium
-tee ~/.config/opencode > /dev/null <<EOF
+tee ~/.config/opencode/opencode.json > /dev/null <<EOF
 {
   "$schema": "https://opencode.ai/config.json",
   "mcp": {
