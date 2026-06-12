@@ -2163,7 +2163,7 @@ sudo systemctl restart earlyoom
       - settings: config mode `advanced`
       - settings: appearance: show update notification `disabled`
     - install `userscripts`
-  - normalize: don't close window with last tab https://chromewebstore.google.com/detail/dont-close-window-with-la/dlnpfhfhmkiebpnlllpehlmklgdggbhn?gl=us
+  - normalize: don't close window with last tab https://chromewebstore.google.com/detail/dont-close-window-with-la/dlnpfhfhmkiebpnlllpehlmklgdggbhn
   - enhance new tab: intention <!-- repo: f: intention. load unpacked with dev mode on. -->
     - allow in incognito
     - extension: keyboard shortcuts: intention: Open a new window with Intention's custom new tab `ctrl n`
@@ -2176,13 +2176,14 @@ sudo systemctl restart earlyoom
   - manage multiple accounts: cookie profile switcher https://chromewebstore.google.com/detail/cookie-profile-switcher/dicajblfgcpecbkhkjaljphlmkhohelc
   - manage crypto accounts: meta mask https://chrome.google.com/webstore/detail/nkbihfbeogaeaoehlefnkodbefgpgknn <!-- deprecated. incompatible without the extension. -->
   - trade crypto: phantom https://chromewebstore.google.com/detail/phantom/bfnaelmomeimhlpmgjnjophhpkkoljpa
-  - enhance youtube: picture in picture https://chromewebstore.google.com/detail/picture-in-picture-extens/hkgfoiooedgoejojocmhlaklaeopbecg?hl=en
+  - enhance youtube: picture in picture https://chromewebstore.google.com/detail/picture-in-picture-extens/hkgfoiooedgoejojocmhlaklaeopbecg
+  - enhance youtube: unhook https://chromewebstore.google.com/detail/unhook-remove-youtube-rec/khncfooichmfjbepaaaebmommgaepoid
   - enhance twitter: control panel for twitter https://chromewebstore.google.com/detail/control-panel-for-twitter/kpmjjdhbcfebfjgdnpjagcndoelnidfj
     - x fixes: premium blue checks `hide`
   - enhance twitch: alternate player for twitch.tv https://chromewebstore.google.com/detail/alternate-player-for-twit/bhplkbgoehhhddaoolmakpocnenplmhf
   - enhance bilibili: bewlybewly https://chromewebstore.google.com/detail/bewlybewly/bbbiejemhfihiooipfcjmjmbfdmobobp
   - see history of sites: wayback machine https://chromewebstore.google.com/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak
-  - dev: react developer tools https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en
+  - dev: react developer tools https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi
 
 ## `firefox nightly`
 
