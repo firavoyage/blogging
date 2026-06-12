@@ -86,6 +86,7 @@ one ui <!-- an android rom by samsung -->
     - gesture hint `off`
     - switch apps when hint hidden `on`
     - gesture sensitivity `low` <!-- or gboard swipe input might cause back action. i do not use a phone case at the end of the day. -->
+- accidental touch protection `off` <!-- more compatible w scrcpy -->
 - touch sensitivity `on` <!-- more compatible w gloves -->
 
 ## wallpaper and style
