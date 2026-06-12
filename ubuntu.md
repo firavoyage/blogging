@@ -3233,6 +3233,9 @@ pnpm add -g @earendil-works/pi-coding-agent
 pi install git:github.com/badlogic/pi-skills
 pi install npm:@juicesharp/rpiv-web-tools
 
+# program wo typos: cspell
+pnpm add -g cspell
+
 # chat w llms: open-webui, librechat
 # uv tool install open-webui
 # pip install open-webui # deprecated
