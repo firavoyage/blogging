@@ -84,6 +84,14 @@ $fira$ `elegance`
 
 <!-- 强. 弱. 厚. 薄. -->
 
+<!--
+
+> be wise.
+> 
+> be graceful.
+
+-->
+
 - fira 💖, thou/thee <!-- she/her (without 🏳️‍⚧️ or 🍥) -->, 🇬🇧 speaker <!-- , 🇨🇳 fluent, 🇯🇵 beginner, 🇫🇷 very beginner -->
 - a developer, content creator, wikipedian
 - grew up in the global village
