@@ -29287,3 +29287,37 @@ more hacks to the community.
 ```
 
 ---
+
+```sh
+ ~ % ssh root@207.148.100.204
+Linux vultr 6.1.0-45-amd64 #1 SMP PREEMPT_DYNAMIC Debian 6.1.170-1 (2026-04-30) x86_64
+******************************PLEASE NOTE********************************
+* If this a new instance, cloud-init may still be running and normal    *
+* operations may not work as expected.                                  *
+*                                                                       *
+* Please use `cloud-init status' to check on the status of the instance *
+* provisioning                                                          *
+*                                                                       *
+* Remove this message by editing /etc/motd                              *
+*************************************************************************
+Last login: Thu May  7 16:35:38 2026 from 207.148.100.204
+root@vultr:~#
+```
+
+```sh
+ ~ % ssh root@207.148.100.204
+Linux vultr 6.1.0-45-amd64 #1 SMP PREEMPT_DYNAMIC Debian 6.1.170-1 (2026-04-30) x86_64
+******************************PLEASE NOTE********************************
+* If this a new instance, cloud-init may still be running and normal    *
+* operations may not work as expected.                                  *
+*                                                                       *
+* Please use `cloud-init status' to check on the status of the instance *
+* provisioning                                                          *
+*                                                                       *
+* Remove this message by editing /etc/motd                              *
+*************************************************************************
+Last login: Fri Jun 12 09:41:40 2026 from 207.148.100.204
+root@vultr:~#
+```
+
+---
