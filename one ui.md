@@ -270,6 +270,12 @@ chmod +x rish
   - auto update apps `off`
   - auto play vids `off`
 
+# `neo store`
+
+- service
+  - auto update `off`
+  - notify about new versions of apps `off`
+
 # `gboard`
 
 - lang
