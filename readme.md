@@ -986,6 +986,7 @@ $fira$ `elegance`
   - majsoul `忘我思考` `fira`
 - - youtube `thefirahq`
   - twitch `firahq`
+  - kick `firahq`
   - berryberry `1156993272` `bili_26837222900`
     <!-- - douyin `firavoyage` -->
     <!-- - acfun `忘我思考` `65210945` -->
