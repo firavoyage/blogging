@@ -29323,3 +29323,13 @@ root@vultr:~#
 ```
 
 ---
+
+i love claude and gemini. claude feels intellectual. gemini feels warm.
+
+i hate chatgpt. laggy web chat. unhuman model.
+
+i hate grok. fun sometimes. but backed by an insane guy.
+
+zhcn models like minimax are just tools.
+
+---
