@@ -12,6 +12,10 @@ $fira$ `elegance`
 
 <!-- OP/ED -->
 
+<!-- declarative > imperative -->
+
+<!-- explicit > implicit -->
+
 > $welcome \space to \space hotel \space california$
 
 > $lucky \space \text{☆} \space star!$
