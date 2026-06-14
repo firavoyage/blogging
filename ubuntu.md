@@ -3237,11 +3237,12 @@ pi install npm:@juicesharp/rpiv-web-tools
 pnpm add -g cspell
 
 # chat w llms: open-webui, librechat
-# uv tool install open-webui
-# pip install open-webui # deprecated
-# pipx install open-webui # stuck at installing
+# uv tool install open-webui # bloating
+# # pip install open-webui # deprecated
+# # pipx install open-webui # stuck at installing
 # sudo docker run -d -p 3000:8080 --add-host=host.docker.internal:host-gateway -v open-webui:/app/backend/data --name open-webui --restart always ghcr.io/open-webui/open-webui:main # redundant os images for maximum compatibility
-# cd ~/Documents/_/opensource/ && git clone https://github.com/danny-avila/LibreChat.git # todo: move to .storage
+cd ~/Documents/.storage && git clone https://github.com/danny-avila/LibreChat.git && cd LibreChat && cp .env.example .env && sudo docker compose up -d
+# cd ~/Documents/.storage && git clone https://github.com/danny-avila/LibreChat.git
 # cd LibreChat
 # # cp .env.example .env
 # docker compose up -d
