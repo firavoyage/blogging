@@ -1,5 +1,7 @@
 values
 
+<!-- it's meant to be as a rationale, not a slogan -->
+
 ## libertarianism
 
 information wants to be free
@@ -44,6 +46,6 @@ the world _is_ unfair, and it does not have to be fair
 
 ## pragmaticism
 
-there are times when you are determined
+there are times when you are determined <!-- or desperate -->
 
 there are times when you have to make the best out of the current situation
