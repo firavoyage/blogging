@@ -1,5 +1,7 @@
 values
 
+<!-- stand firm. enforce ruthlessly. enforce consistently. -->
+
 <!-- it's meant to be as a rationale, not a slogan -->
 
 ## libertarianism
