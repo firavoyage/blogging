@@ -941,6 +941,7 @@ $fira$ `elegance`
 - `river` some smoother pebbles
 - `weekly` everyday life
 - `projects` wonders and endeavors
+- `values` patterns and directions
 - `ubuntu` digital home decor
 - `ruanyf` observation of the digital time
 - `lights/`
