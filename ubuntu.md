@@ -3381,6 +3381,9 @@ tar -xzf "$IPFS_FILE"
 sudo bash "$IPFS_FOLDER/install.sh"
 rm -rf "$IPFS_FOLDER" "$IPFS_FILE"
 
+# serve files over wifi
+cargo install miniserve
+
 # chat, socialize, sync
 flatpak install -y flathub io.gitlab.news_flash.NewsFlash
 flatpak install -y flathub dev.geopjr.Tuba
