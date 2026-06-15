@@ -3069,6 +3069,11 @@ sudo systemctl restart earlyoom
   - behavior
     - reduce animation `on`
 
+## `bitwarden`
+
+- settings <!-- ctrl comma -->
+  - start automatically on login `off`
+
 ## `xmrig`
 
 - install and start
@@ -3293,6 +3298,9 @@ pnpm add -g cordova
 # monitor: gnome-system-monitor
 sudo apt install -y gnome-system-monitor # system monitor, the legacy
 flatpak install -y flathub net.nokyan.Resources # resources, the modern
+
+# document in markdown
+flatpak install -y flathub md.obsidian.Obsidian
 
 # document in typst
 flatpak install -y flathub net.trowell.typesetter
