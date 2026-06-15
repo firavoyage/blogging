@@ -3382,7 +3382,7 @@ sudo bash "$IPFS_FOLDER/install.sh"
 rm -rf "$IPFS_FOLDER" "$IPFS_FILE"
 
 # serve files over wifi
-cargo install miniserve
+cargo install miniserve # usb might be more predictable
 
 # chat, socialize, sync
 flatpak install -y flathub io.gitlab.news_flash.NewsFlash
