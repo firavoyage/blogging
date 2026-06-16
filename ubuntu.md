@@ -3224,8 +3224,8 @@ tee ~/.config/opencode/opencode.json > /dev/null <<EOF
   }
 }
 EOF
-tee ~/.config/opencode/opencode.json > /dev/null <<EOF
-EOF
+# tee ~/.config/opencode/opencode.json > /dev/null <<EOF
+# EOF
 # sudo apt install -y sqlite3 # view opencode sessions
 pnpm add -g cline
 pnpm add -g @openai/codex # clean
