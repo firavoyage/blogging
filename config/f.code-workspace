@@ -33,6 +33,10 @@
     }
   ],
   "settings": {
+    // temp flag for rapid dev
+    "eslint.enable": false,
+    "typescript.validate.enable": false,
+
     "files.exclude": {
       // "**/legacy/**": true,
       "**/node_modules/**": true,
