@@ -29335,3 +29335,10 @@ i hate grok. fun sometimes. but backed by an insane guy.
 zhcn models like minimax are just tools.
 
 ---
+
+wahlap uses vue 2.4
+
+(why? `{{data}}` shown while loading)
+
+---
+
