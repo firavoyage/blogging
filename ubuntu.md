@@ -211,7 +211,7 @@ cargo install cargo-update
 # usage: cargo install-update <crate-name> # update one crate
 # usage: cargo install-update -a # update all crates
 
-# js/ts: node, deno, pnpm, tsx, cloc, ...
+# js/ts: node, deno, pnpm, tsx, cloc, tsgo, eslint ...
 curl -fsSL https://deb.nodesource.com/setup_lts.x | sudo -E bash - # use the latest version
 sudo apt install -y nodejs
 # npm config set registry https://registry.npmmirror.com # use a mirror if needed
@@ -234,10 +234,7 @@ pnpm add -g vite # more reliable, fast enough, showy, clever
 # usage: cd $dir && vite --open '$fileName'
 pnpm add -g webpack webpack-cli webpack-dev-server # legacy, complex
 # pnpm add -g webpack webpack-cli webpack-dev-server css-loader style-loader babel-loader file-loader url-loader ts-loader
-pnpm add -g eslint
-pnpm add -g dotenv-cli
-sudo apt install -y direnv
-
+pnpm add -g @typescript/native-preview eslint
 pnpm add -g --allow-build=deno deno
 pnpm add -g --allow-build=yarn yarn
 pnpm add -g --allow-build=bun bun
@@ -3308,7 +3305,8 @@ flatpak install -y flathub md.obsidian.Obsidian
 flatpak install -y flathub net.trowell.typesetter
 
 # chat with agentic llms: openclaw, hermes
-pnpm add -g openclaw@latest # seems no use cases btw
+# pnpm add -g openclaw # seems no use cases btw
+# # pnpm add -g openclaw@latest # hype driven rapid shipping
 uv tool install hermes-agent
 hermes postinstall
 # hermes doctor # debug installation
