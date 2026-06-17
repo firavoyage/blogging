@@ -217,7 +217,13 @@ sudo apt install -y nodejs
 # npm config set registry https://registry.npmmirror.com # use a mirror if needed
 # npm config set registry https://tsinghua.edu.cn # other mirrors
 # npm config set registry https://registry.npmjs.org/ # use the official site for publishing
-# npm config set //registry.npmjs.org/:_authToken {auth_token}
+# npm config set //registry.npmjs.org/:_authToken {auth_token} # set up npm 2fa
+# more predictable, lock down versions as much as possible
+tee ~/.npmrc > /dev/null <<EOF
+save-exact=true
+prefer-frozen-lockfile=true
+resolution-mode=time-based
+EOF
 sudo npm install -g pnpm
 # warning: pnpm opens as much concurrent connections as possible for speed. it might not work with mobile hotspots. use `--network-concurrency 1` or `pnpm config set fetch-retries 5` to fix.
 pnpm config set update-notifier false --global # remove the noisy update notification, which is often not needed
