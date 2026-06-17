@@ -39,7 +39,7 @@
 
     "files.exclude": {
       // "**/legacy/**": true,
-      "**/node_modules/**": true,
+      // "**/node_modules/**": true,
       "**/dist/**": true,
       "**/.build/**": true,
       // in case they run wo config (dot files/folders are not hidden by default on vscode)
