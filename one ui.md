@@ -89,6 +89,12 @@ one ui <!-- an android rom by samsung -->
 - accidental touch protection `off` <!-- more compatible w scrcpy -->
 - touch sensitivity `on` <!-- more compatible w gloves -->
 
+## battery
+
+- battery protection `maximum` <!-- never charge past 80% -->
+
+<!-- i have too much battery, it never drops past 50%, and i always have a power bank with the phone -->
+
 ## wallpaper and style
 
 - change wallpapers `smartisan lightblue grain`
