@@ -400,9 +400,11 @@ relate
 
 inspired by
 
-- google
-- golden dict
+- wordbook
+- kotoba
 - jisho
+- golden dict
+- google
 - eudic
 
 <!-- 
