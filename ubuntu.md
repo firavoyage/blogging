@@ -3251,7 +3251,7 @@ pnpm add -g cspell
 # # pip install open-webui # deprecated
 # # pipx install open-webui # stuck at installing
 # sudo docker run -d -p 3000:8080 --add-host=host.docker.internal:host-gateway -v open-webui:/app/backend/data --name open-webui --restart always ghcr.io/open-webui/open-webui:main # redundant os images for maximum compatibility
-cd ~/Documents/.storage && git clone https://github.com/danny-avila/LibreChat.git && cd LibreChat && cp .env.example .env && sudo docker compose up -d
+cd ~/Documents/.storage && git clone https://github.com/danny-avila/LibreChat.git librechat && cd librechat && cp .env.example .env && sudo docker compose up -d
 # cd ~/Documents/.storage && git clone https://github.com/danny-avila/LibreChat.git
 # cd LibreChat
 # # cp .env.example .env
