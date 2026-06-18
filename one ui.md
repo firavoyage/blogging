@@ -105,6 +105,14 @@ one ui <!-- an android rom by samsung -->
 - now bar: (all others) `off`
 - touch and hold to edit `off`
 
+## security and privacy
+
+- more security settings: allow apps to be pinned `on` <!-- to make rhythm games immune to navigation gestures -->
+
+<!-- tap app icon to pin -->
+
+<!-- swipe up and hold to unpin -->
+
 ## accounts and backup
 
 - manage accounts: google services `on` <!-- normalize one of the zhcn ver quirks -->
@@ -127,6 +135,11 @@ one ui <!-- an android rom by samsung -->
   - default keyboard `gboard`
   - gboard `on`
   - spelling correction `off`
+
+## accessibility
+
+- interaction and dexterity: interaction control: interaction control shortcut `press side and volume up buttons`
+- (app): set blocked area: block whole screen `on`
 
 ## about phone
 
