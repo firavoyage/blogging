@@ -199,8 +199,9 @@ one ui <!-- an android rom by samsung -->
   - grid: maximum folder rows `2`
   - icons: show labels `off`
 - search bar: search provider `google`
-- gestures: double tap `sleep`
-  - turn on accessibility
+- gestures
+  - double tap `sleep` <!-- give accessibility permission to lawnchair -->
+  - swipe down `open recents screen`
 - (home)
   - arrange apps
 
