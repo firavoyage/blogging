@@ -29352,3 +29352,12 @@ wahlap uses vue 2.4
 > 端午の節句おめでとう
 
 ---
+
+google ai mode shows "upgrade" button today.
+
+more usage to pro model?
+
+well, nothing. models are cheap nowadays.
+
+---
+
