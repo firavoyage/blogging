@@ -339,6 +339,7 @@ chmod +x rish
   - control panel for twitter
   - ublock origin
   - web archives
+  - duolingo max
 
 # `metro`
 
