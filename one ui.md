@@ -138,8 +138,10 @@ one ui <!-- an android rom by samsung -->
 
 ## accessibility
 
-- interaction and dexterity: interaction control: interaction control shortcut `press side and volume up buttons`
-- (app): set blocked area: block whole screen `on`
+<!-- - interaction and dexterity: interaction control: interaction control shortcut `press side and volume up buttons` -->
+<!-- - (app): set blocked area: block whole screen `on` -->
+
+<!-- useless, adding visual noise, blocking everything -->
 
 ## about phone
 
