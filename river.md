@@ -29361,3 +29361,9 @@ well, nothing. models are cheap nowadays.
 
 ---
 
+well, google ai mode moves the links inside the response.
+
+i guess it's a forced move by angry web masters, not anything user centric.
+
+---
+
