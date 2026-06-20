@@ -226,6 +226,8 @@ phone() {
 
 alias apt='sudo apt -y'
 
+alias snap='sudo snap'
+
 alias fd='fdfind'
 
 alias nano='code'

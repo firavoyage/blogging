@@ -29387,3 +29387,8 @@ i dont think it solves any problem. i have dedicated tools for every task.
 
 ---
 
+seems there are some ppl chatting about me.
+
+i would not make fun of them or interrupt. i would archive and preserve after hypes.
+
+---

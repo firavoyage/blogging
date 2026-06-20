@@ -49,8 +49,8 @@ ubuntu
 
 - disable auto update
 
-  ```
-  sudo snap refresh --hold
+  ```sh
+  sudo snap refresh --hold # block everything forever, whether installed already or in the future
   ```
 
 ## `flatpak`
@@ -3304,6 +3304,11 @@ pnpm add -g cordova
 # monitor: gnome-system-monitor
 sudo apt install -y gnome-system-monitor # system monitor, the legacy
 flatpak install -y flathub net.nokyan.Resources # resources, the modern
+
+# document collaboratively
+snap install nextcloud # start and auto start upon installation to serve
+# snap stop nextcloud && snap disable nextcloud # snap does not support --now flag
+# snap start nextcloud && snap enable nextcloud
 
 # document in markdown: obsidian, logseq
 flatpak install -y flathub md.obsidian.Obsidian
