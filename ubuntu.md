@@ -3306,9 +3306,15 @@ sudo apt install -y gnome-system-monitor # system monitor, the legacy
 flatpak install -y flathub net.nokyan.Resources # resources, the modern
 
 # document collaboratively
+# inspired by leohearts
 snap install nextcloud # start and auto start upon installation to serve
-# snap stop nextcloud && snap disable nextcloud # snap does not support --now flag
-# snap start nextcloud && snap enable nextcloud
+# snap stop nextcloud && snap disable nextcloud # iff systemd disable --now, though snap does not support such flag
+# snap start nextcloud && snap enable nextcloud # iff systemd enable --now
+# sudo snap services nextcloud # iff systemd status
+sudo snap set nextcloud ports.http=62286
+# snap get nextcloud ports.http
+sudo nextcloud.manual-install f f # sudo nextcloud.manual-install your_username your_password
+# sudo nextcloud.occ --help
 
 # document in markdown: obsidian, logseq
 flatpak install -y flathub md.obsidian.Obsidian
