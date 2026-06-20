@@ -30,7 +30,7 @@ humans are free from any given purpose
 
 life and death are of no difference
 
-## <!-- perfectionism --> extremism
+## <!-- perfectionism --> <!-- extremism --> absolutism
 
 there are not so many people in the world <!-- ... that, like, make a difference -->
 
