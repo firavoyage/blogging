@@ -3304,8 +3304,9 @@ pnpm add -g cordova
 sudo apt install -y gnome-system-monitor # system monitor, the legacy
 flatpak install -y flathub net.nokyan.Resources # resources, the modern
 
-# document in markdown
+# document in markdown: obsidian, logseq
 flatpak install -y flathub md.obsidian.Obsidian
+flatpak install -y flathub com.logseq.Logseq
 
 # document in typst
 flatpak install -y flathub net.trowell.typesetter
