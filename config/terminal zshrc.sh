@@ -165,39 +165,24 @@ repo_sync() {
 }
 
 sound() {
-  echo "Starting sndcpy..."
-
   cd /usr/local/bin || return
   sndcpy
 }
 
 phone() {
-  # # Restart ADB server
-  # adb kill-server
-  # adb start-server
+  adb kill-server
+  adb start-server
 
-  # # Mute media volume
+  sleep 1
+
+  # # mute media
   # adb shell cmd media_session volume --stream 3 --set 0
 
-  # Start scrcpy in background
+  # start scrcpy in background
   scrcpy --fullscreen --turn-screen-off --power-off-on-close --screen-off-timeout=600 --window-title "phone" &
 
-  # # Retry ONLY the Activity start
-  # while true; do
-  #   result=$(adb shell am start \
-  #     -n com.rom1v.sndcpy/.MainActivity 2>&1)
-
-  #   echo "$result"
-
-  #   if ! echo "$result" | grep -q "Error"; then
-  #     break
-  #   fi
-
-  #   sleep 1
-  # done
-
+  # capture sound
   # sleep 5
-
   # sound
 }
 
