@@ -29380,3 +29380,10 @@ i guess it's a forced move by angry web masters, not anything user centric.
 > This is a search result, not an ad. Only ads are paid, and they'll always be labeled with "Sponsored" or "Ad."
 
 ---
+
+nextcloud is feature bloating.
+
+i dont think it solves any problem. i have dedicated tools for every task.
+
+---
+

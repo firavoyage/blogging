@@ -113,6 +113,7 @@ EOF
 sudo apt install flatpak
 sudo flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
 sudo apt install gnome-software-plugin-flatpak
+# flatpak install is fast, yet only supports long form app id for decentralization or sth, while flatpak search is slow, rather google "foo flatpak" instead
 
 # automate mouse, keyboard, and screenshot: xdotool, xte, scrot
 sudo apt install -y xdotool xautomation scrot accerciser
