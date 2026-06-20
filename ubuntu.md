@@ -3283,6 +3283,13 @@ sudo systemctl disable --now forgejo # calm by default
 # program w gnome design
 flatpak install -y flathub org.gnome.Builder
 flatpak install -y flathub re.sonny.Workbench
+flatpak remote-add --if-not-exists gnome-nightly https://nightly.gnome.org/gnome-nightly.flatpakrepo
+flatpak install -y gnome-nightly org.gnome.Adwaita1.Demo # highly useful
+flatpak install -y flathub org.gnome.design.IconLibrary
+flatpak install -y flathub org.gnome.design.Typography
+flatpak install -y flathub org.gnome.design.AppIconPreview
+flatpak install -y flathub org.gnome.design.SymbolicPreview
+flatpak install -y flathub org.gnome.design.Palette
 
 # program w dart and flutter
 sudo snap install flutter --classic
