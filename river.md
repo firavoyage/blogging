@@ -29393,3 +29393,15 @@ seems there are some ppl chatting about me.
 i would not make fun of them or interrupt. i would archive and preserve after hypes.
 
 ---
+
+`ref` `quote`
+
+(ian77 or log bait guy)
+
+(oppo makes a mistake, zap the tower instead of the ice spirit)
+
+> so i will take it.
+
+---
+
+
