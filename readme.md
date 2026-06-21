@@ -401,6 +401,7 @@ $fira$ `elegance`
     - maplefsnow maplef.top
     - megabits_mzq megabits.xyz
     - mirekintoc
+    - neko_0x24a 24a.fun blog.24a.fun
     - neko205-mx neko_25_mx blog.neko25.top srcblog.neko25.top
     - nickel_angel cnblogs.com/nickel-angel huamurui huamumo huamurui.github.io shiratsuyudachi
     - ninalex12 asakawauniversityofscience
