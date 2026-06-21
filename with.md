@@ -115,6 +115,9 @@ with
 - AdventureX 合订本 `adventurex_book`
 - laosb `laosb` Laoself 🫈 `laoself`
 - Hydrogen[SFW] `-1002480201240`
+- &'a ::rynco::UntitledChannel `rynif` wss://rynco.me/discuss `-1001320136548` rynco::daily_music(&self, soft: &mut NetEaseCloud) `rynif_music`
+- abuse@fragrance.moe `sasakure`
+- KanadeDX🟣 `-1002298742355`
 
 ---
 
