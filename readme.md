@@ -12,7 +12,7 @@ $fira$ `elegance`
 
 <!-- OP/ED -->
 
-<!-- declarative > imperative -->
+<!-- declarative > imperative  -->
 
 <!-- explicit > implicit -->
 

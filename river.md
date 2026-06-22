@@ -29413,3 +29413,13 @@ i do not wanna overclock, but i might have some expectations.
 > It's important to do things fast
 
 ---
+
+Ame Akari qq zone: nix os sh huangpu conf.
+
+reproducible is implied by declarative > imperative
+
+deterministic > probabilistic is implied by explicit > explicit.
+
+be simple. keep it dry.
+
+---
