@@ -29405,6 +29405,11 @@ i would not make fun of them or interrupt. i would archive and preserve after hy
 
 ---
 
-i guess i could have
+i guess i could have linear for daily ddl?
 
+i do not wanna overclock, but i might have some expectations.
+
+> It's important to do things fast
+
+---
 
