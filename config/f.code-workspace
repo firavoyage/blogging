@@ -59,6 +59,10 @@
       "**/.build/**": true
       // "**/.vscode/**": true, // no vendor lock in
       // "**/.git/**": true, // ignored by default
+    },
+
+    "files.associations": {
+      "*.json": "jsonc"
     }
   }
 }
