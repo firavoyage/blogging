@@ -32,8 +32,6 @@ life and death are of no difference
 
 ## <!-- perfectionism --> <!-- extremism --> absolutism
 
-there are not so many people in the world <!-- ... that, like, make a difference -->
-
 rather be a smashed jade than a whole clay tile
 
 avoid success at all costs
@@ -44,6 +42,8 @@ do not stand on a basis not meant to last
 
 ## elitism
 
+there are not so many people in the world <!-- ... that, like, make a difference -->
+
 the world _is_ unfair, and it does not have to be fair
 
 ## pragmaticism
@@ -51,3 +51,11 @@ the world _is_ unfair, and it does not have to be fair
 there are times when you are determined <!-- or desperate -->
 
 there are times when you have to make the best out of the current situation
+
+# professionalism
+
+humans are messy creatures, gravitated and spellbound by impulses, <!-- personal --> biases, and heuristics.
+
+professionalism, as a filter, gives you purpose.
+
+in the long term game.
