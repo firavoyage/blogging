@@ -9,8 +9,11 @@
     // {
     //   "path": "../../f/localhost"
     // },
+    // {
+    //   "path": "../../f/para"
+    // },
     {
-      "path": "../../f/para"
+      "path": "../../f/repo"
     },
     {
       "path": "../../f/drafts"

@@ -211,6 +211,8 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh -s -- -y
 cargo install cargo-update
 # usage: cargo install-update <crate-name> # update one crate
 # usage: cargo install-update -a # update all crates
+cargo install cargo-binstall
+# usage: cargo binstall foo # dl binaries, no local compilation needed
 
 # js/ts: node, deno, pnpm, tsx, cloc, tsgo, eslint ...
 curl -fsSL https://deb.nodesource.com/setup_lts.x | sudo -E bash - # use the latest version
