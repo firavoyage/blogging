@@ -29423,3 +29423,11 @@ deterministic > probabilistic is implied by explicit > explicit.
 be simple. keep it dry.
 
 ---
+
+seems gboard does not have words builtin like
+
+- composability
+- affordance
+
+---
+
