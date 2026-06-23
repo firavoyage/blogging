@@ -1,38 +1,24 @@
 {
   "folders": [
     // {
-    //   "path": "../../f"
-    // },
-    // {
-    //   "path": "../../f/apps"
-    // },
-    // {
-    //   "path": "../../f/localhost"
-    // },
-    // {
-    //   "path": "../../f/para"
+    //   "name": "repo",
+    //   "path": "../../f/repo"
     // },
     {
-      "path": "../../f/repo"
-    },
-    {
+      "name": "drafts",
       "path": "../../f/drafts"
     },
     {
+      "name": "humility",
       "path": "../../f/humility"
     },
     {
+      "name": "intuitive",
       "path": "../../f/intuitive"
     },
-    // {
-    // {
-    //   "path": "../../f/journal"
-    // },
-    // {
-    //   "path": "../../f/pure/math"
-    // },
     {
-      "path": "../../blogging"
+      "name": "blogging",
+      "path": ".."
     }
   ],
   "settings": {
