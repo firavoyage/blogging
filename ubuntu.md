@@ -3240,6 +3240,11 @@ pnpm add -g @openai/codex # clean
 # codex mcp add ddg npx @modelcontextprotocol/server-duckduckgo
 # codex mcp add open-websearch npx -y @aas-ee/open-websearch
 # pnpx clawhub@latest install codex-export # noisy
+codex_url="https://github.com/guangzhaoli/codex-desktop-deb/releases/download/v2026.06.23.042200/codex-desktop_2026.06.23.042200_amd64.deb"
+codex_file="codex.deb"
+wget -c -O "$codex_file" "$codex_url"
+sudo dpkg -i "$codex_file"
+rm "$codex_file" # clean up
 pnpm add -g --allow-build=@anthropic-ai/claude-code @anthropic-ai/claude-code
 uv tool install claude-code-transcripts # export claude code
 pnpm add -g @earendil-works/pi-coding-agent
