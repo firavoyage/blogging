@@ -29418,7 +29418,9 @@ Ame Akari qq zone: nix os sh huangpu conf.
 
 reproducible is implied by declarative > imperative
 
-deterministic > probabilistic is implied by explicit > explicit.
+deterministic > probabilistic is implied by explicit > implicit.
+
+<!-- upd: well, it's actually akin to declarative > imperative. there is nothing magic behind a probablistic model, like llms or human intuition. like, with prob you might fail and do it back and forth, which is exactly what imperative is. for example you are solving a math problem. sometimes you could spot a solution instantly, as if req are met, it must be solves as long as i reduce it step by step. and geometric solution would exist, though you might not find it. -->
 
 be simple. keep it dry.
 
@@ -29430,4 +29432,3 @@ seems gboard does not have words builtin like
 - affordance
 
 ---
-
