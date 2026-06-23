@@ -22,7 +22,7 @@
     }
   ],
   "settings": {
-    // temp flag for rapid dev
+    // for rapid dev
     // "eslint.enable": false,
     // "typescript.validate.enable": false,
 
