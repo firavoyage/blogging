@@ -332,6 +332,7 @@ $fira$ `elegance`
     - kkksc03 k.luogu.org luogu.org
     - leerob leerob.com cursor.com
     - lemonpig lemonpig.cn jinyue.fan yuzu-soft.com
+    - limboy _limboy limboy.me read.limboy.me
     - liyupi yupi.icu codefather.cn yuyuanweb.com
     - matrix67 matrix67.com matrix67.itch.io localhost_8080 localhost-8080.com
     - menci men.ci oi.wiki loj.ac moeditor.github.io renbaoshuo baoshuo.ren oier.baoshuo.dev luoling8192 luoling.moe search.lingogram.app airi.moeru.ai maigolabs maigo.dev needle.maigo.dev chiyuki0325 chyk.ink hykilpikonna azaneko aza.moe amaoke.app aquadx.net voice.hydev.org vergedx cfe281953 memset0 memset0c mem.ac memset0.cn rvalue rvalue_official rvalue_daily rvalue.moe yuu quantumtransf tommy0103 7sref.cc

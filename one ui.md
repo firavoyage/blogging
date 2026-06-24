@@ -332,6 +332,7 @@ chmod +x rish
   - suggestions from sponsors `off`
 - homepage: (all) `off`
 - customize: show tab bar `on`
+- accessibility: zoom on all websites `on`
 - translations: offer to translate when possible `off`
 - extensions
   - cookie editor
