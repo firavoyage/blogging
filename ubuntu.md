@@ -3240,6 +3240,7 @@ pnpm add -g @openai/codex # clean
 # codex mcp add ddg npx @modelcontextprotocol/server-duckduckgo
 # codex mcp add open-websearch npx -y @aas-ee/open-websearch
 # pnpx clawhub@latest install codex-export # noisy
+mkdir -p Projects && cd Projects && git clone https://github.com/ilysenko/codex-desktop-linux.git && cd codex-desktop-linux && sudo dpkg -r codex-desktop && make bootstrap-native
 # codex_url="https://github.com/guangzhaoli/codex-desktop-deb/releases/download/v2026.06.23.042200/codex-desktop_2026.06.23.042200_amd64.deb"
 # codex_file="codex.deb"
 # wget -c -O "$codex_file" "$codex_url"
