@@ -12,6 +12,10 @@
       "name": "intuitive",
       "path": "../../f/intuitive"
     },
+    // {
+    //   "name": "localhost",
+    //   "path": "../../f/localhost"
+    // },
     {
       "name": "apps",
       "path": "../../f/apps"
