@@ -8,13 +8,25 @@ values
 
 information wants to be free
 
-<!-- all copyright laws are articial -->
+free from all artificial restrictions
 
-free from all man made rules
-
-free from all judgements
+free from all <!-- external --> judgements
 
 the law of physics is the only limit
+
+<!--
+
+all public accessible knowledge are in public domain
+
+no copyright. no cookie banners. no tos checkboxes.
+
+ -->
+
+## absolutism <!-- perfectionism --> <!-- extremism -->
+
+rather be a smashed jade than a whole clay tile
+
+avoid success at all costs
 
 ## cynicism <!-- egoism -->
 
@@ -31,16 +43,6 @@ the world is the world itself
 humans are free from any given purpose
 
 life and death are of no difference
-
-## <!-- perfectionism --> <!-- extremism --> absolutism
-
-rather be a smashed jade than a whole clay tile
-
-avoid success at all costs
-
-do not proceed if it's to be changed
-
-do not stand on a basis not meant to last
 
 ## elitism
 
