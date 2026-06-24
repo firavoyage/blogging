@@ -2168,7 +2168,7 @@ sudo systemctl restart earlyoom
     - disable update popup
       - settings: config mode `advanced`
       - settings: appearance: show update notification `disabled`
-    - install `userscripts`
+    - install `userscripts` <!-- f/blogging: config/userscripts -->
   - normalize: don't close window with last tab https://chromewebstore.google.com/detail/dont-close-window-with-la/dlnpfhfhmkiebpnlllpehlmklgdggbhn
   - enhance new tab: intention <!-- repo: f: intention. load unpacked with dev mode on. -->
     - allow in incognito
