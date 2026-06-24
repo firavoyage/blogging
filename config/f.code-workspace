@@ -1,9 +1,5 @@
 {
   "folders": [
-    // {
-    //   "name": "repo",
-    //   "path": "../../f/repo"
-    // },
     {
       "name": "drafts",
       "path": "../../f/drafts"
@@ -15,6 +11,10 @@
     {
       "name": "intuitive",
       "path": "../../f/intuitive"
+    },
+    {
+      "name": "apps",
+      "path": "../../f/apps"
     },
     {
       "name": "blogging",

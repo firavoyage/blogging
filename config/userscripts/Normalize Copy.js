@@ -10,7 +10,7 @@
 // ==/UserScript==
 
 // or match google ai mode?
-// it blocks "citations to md", but magically fixes all possible flaws
+// it blocks "citations to md", but magically fixes all possible flaws and quirks
 
 (function() {
     'use strict';
