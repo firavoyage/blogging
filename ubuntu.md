@@ -242,6 +242,8 @@ pnpm add -g tsx
 pnpm add -g parcel # simple, fast (esp with cache), less reliable
 # pnpm add -g parcel-reporter-static-files-copy
 # usage: cd $dir && parcel serve '$fileName' --open --dist-dir .build --cache-dir .build/.parcel-cache
+# usage: cd $dir && parcel build '$fileName' --dist-dir build --no-content-hash
+# usage: cd $dir && parcel build '$fileName' --dist-dir build --no-source-maps
 pnpm add -g vite # more reliable, fast enough, showy, clever
 # usage: cd $dir && vite --open '$fileName'
 pnpm add -g webpack webpack-cli webpack-dev-server # legacy, complex
