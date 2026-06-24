@@ -233,7 +233,10 @@ pnpm config set update-notifier false --global # remove the noisy update notific
 # pnpm config set loglevel error --global # remove noisy deprecated warnings. it's overkill, hiding essential feedback, though.
 # reset: pnpm config delete loglevel --global
 # pnpm config set registry https://registry.npmmirror.com # use a mirror if needed
-pnpm add -g cloc
+pnpm add -g --allow-build=deno deno
+pnpm add -g --allow-build=yarn yarn
+pnpm add -g --allow-build=bun bun
+pnpm add -g cloc # count lines of code
 # usage: cloc . --vcs=git --exclude-lang=YAML,JSON,Markdown --exclude-ext=yaml,yml --exclude-dir=node_modules,.build --not-match-f=my_filename_regex --not-match-d=my_dir_regex
 pnpm add -g tsx
 pnpm add -g parcel # simple, fast (esp with cache), less reliable
@@ -244,9 +247,7 @@ pnpm add -g vite # more reliable, fast enough, showy, clever
 pnpm add -g webpack webpack-cli webpack-dev-server # legacy, complex
 # pnpm add -g webpack webpack-cli webpack-dev-server css-loader style-loader babel-loader file-loader url-loader ts-loader
 pnpm add -g @typescript/native-preview eslint
-pnpm add -g --allow-build=deno deno
-pnpm add -g --allow-build=yarn yarn
-pnpm add -g --allow-build=bun bun
+pnpm add -g depcheck # remove unused deps
 
 # python: python3, pip, pipx
 sudo apt install -y python3 pip pipx
