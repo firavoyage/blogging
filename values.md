@@ -8,6 +8,8 @@ values
 
 information wants to be free
 
+<!-- all copyright laws are articial -->
+
 free from all man made rules
 
 free from all judgements
