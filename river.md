@@ -29439,4 +29439,9 @@ seems gboard does not have words builtin like
 
 ---
 
+react does not want to improve dx on the ergonomics/keystrokes level.
+
+that makes all the difference.
+
+---
 
