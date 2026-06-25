@@ -29434,3 +29434,9 @@ seems gboard does not have words builtin like
 - affordance
 
 ---
+
+> 你脑子里只有肯德基麦当劳汉堡王必胜客萨莉亚达美乐滨寿司寿司郎吗？
+
+---
+
+
