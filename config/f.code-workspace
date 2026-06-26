@@ -31,8 +31,8 @@
   ],
   "settings": {
     // for rapid dev
-    "eslint.enable": false,
-    "typescript.validate.enable": false,
+    // "eslint.enable": false,
+    // "typescript.validate.enable": false,
     // so damn frustrating and noisy, err when i have not finished typing
 
     "files.exclude": {
