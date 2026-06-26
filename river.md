@@ -469,6 +469,10 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `23` 2026.06.24
 - `24` 2026.06.25
 
+## k-on! s2
+
+- `1` 2026.06.26
+
 # gaming
 
 ## sr
@@ -29445,3 +29449,8 @@ react does not want to improve dx on the ergonomics/keystrokes level.
 that makes all the difference.
 
 ---
+
+pick k-on for its rating on bgm.tv
+
+---
+
