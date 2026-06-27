@@ -29454,3 +29454,11 @@ pick k-on for its rating on bgm.tv
 
 ---
 
+zed agent
+
+> 2. Missing Browser & Web Search Capabilities
+
+that's it. you are done.
+
+---
+
