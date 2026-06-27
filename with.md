@@ -6,7 +6,7 @@ with
 - 大曼波 小盐神✨ `cyan_nyan` 黑客少女的日常 THG's Official Ch. `vtbcyan` 黑客少女后勤团✨ `-1003064454690`
 - Menci 💖 `mencici` 307 Temporary Redirect `lcMenci` About Menci `Menciqwq` Memory Archive ✨ `-1001716593949`
 - 千雪的中转站 `chiyuki0325` 斬風千雪 ❄️ `FlowingSnow` chykink -1002014163422
-- f `firavoyage` journal `journal_md` precious `thepreciouschin` ref `fira_ref` sns `fira_sns` `-1003899165706` Paste `fira_paste` journal `logfira` Humility `humilityhq`
+- f `firavoyage` journal `journal_md` precious `thepreciouschin` ref `fira_ref` sns `fira_sns` `-1003899165706` Paste `fira_paste` journal `logfira` Humility `humilityhq` MAi Deluxe `MAi_Deluxe`
 - Steven Lynn `stvlynn` stvlynn/Gateway `stvgateway` Lynn's Digest `lynndigest` Steven’s Diary | 为0700.hk卖命中 `stv_diary`
 - Acbox Neko `acboxawa` 箱子跑来跑去📦 `acbox_space` 📦箱子今天入葬了没 `acboxlol` Project Memoh `memohai`
 - Ame Akari `TwilightBlueMoe` Rinark(Station) `ksrstation` 小凛喵喵喵 `ksrgroup` RinakaRi(station) `ksrqwq`
@@ -42,6 +42,7 @@ with
 - YearProgress `YearProgress`
 - Hacker News 摘要 `hacker_news_zh`
 - Hacker News `hacker_news_feed`
+- Hacker News `yahnc`
 - Pavel Durov `durov`
 - cos `cosine_yu` cosine - 前端人の日常频道 `cosine_front_end`
 - yihong0618 和朋友们的频道 `hyi0618`
@@ -193,3 +194,4 @@ with
 - 残滓 `zzzanshi` 残滓 `zzanshi`
 - 清凤 `chiffoncha` 清凤正在🐱叫 `chiffon_space`
 - 雪菜馅的涟漪 Ayanami `ayanami_rin0` 啊呀纳米饿饿饿🍖🍖🍖 `ayanami_rin`
+- Haru.Gateway `HaruGateway2025` Haru 的观测站 `-1002505551799`
