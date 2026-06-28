@@ -844,6 +844,7 @@ $fira$ `elegance`
 - where do you get your dopamine? the answer is predictive of your behavior. better to get your dopamine from improving your ideas than from having them validated. it's ok to get yours from "making things happen".
 - you can do more than you think. we are tied down by invisible orthodoxy. the laws of physics are the only limit.
 - the best things in life occur where emh is wrong. in many cases it's more accurate to model the world as 500 people than 8 billion.
+- be curious. read widely. try new things.
 - stay focused, keep shipping. build early, build always. improve yourself, write solid/simple/stupid code
 - live in the future and build what's missing
 - stay hungry, stay foolish.
