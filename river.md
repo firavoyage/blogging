@@ -29466,3 +29466,8 @@ that's it. you are done.
 Force and false read the same
 
 ---
+
+on vscode, you can scroll, or alt scroll (scroll faster)
+
+---
+
