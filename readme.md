@@ -834,6 +834,15 @@ $fira$ `elegance`
   - (see `android.md`)
   - (see `one ui.md`)
 
+<!-- 
+
+- libs
+  - typescript/javascript
+  - react, parcel
+  - bun
+
+ -->
+
 ## flyleaf
 
 - as human beings it is our right (maybe our moral duty) to reshape the universe to our preferences. technology, which is really knowledge, enables this. you should probably work on raising the ceiling, not the floor.
