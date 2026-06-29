@@ -29478,4 +29478,9 @@ on vscode, you can scroll, or alt scroll (scroll faster)
 
 ---
 
+openrouter shows the api key once, inside a horizontal scroll area.
+
+idk if it's intended to keep it secure.
+
+---
 
