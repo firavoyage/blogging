@@ -246,6 +246,7 @@ $fira$ `elegance`
     - bradwoods bradwoods.io garden.bradwoods.io
     - bridge_surf bridge.surf <!-- animation is marketing. btw, all faq are "organize files" related, idk. landing page is not well tested (you can see problems just clicking things on each page). -->
     - chriscoyier css-tricks.com codepen.io chriscoyier.net
+    - cjackhwang tetr5354 ds2api
     - cline cline.bot
     - colinhacks colinhacks.com zod.dev trpc.io
     - disdjj blog.pdjjq.org
