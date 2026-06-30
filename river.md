@@ -29484,3 +29484,7 @@ openrouter shows the api key once, inside a horizontal scroll area.
 idk if it's intended to keep it secure.
 
 ---
+
+> an intense disatisfication to the state of the world
+
+---

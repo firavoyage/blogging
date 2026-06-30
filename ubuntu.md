@@ -322,7 +322,9 @@ sudo systemctl enable --now zramswap.service
 # sudo fallocate -l 8G /temp_swap && sudo chmod 600 /temp_swap && sudo mkswap /temp_swap && sudo swapon /temp_swap # if needed, refresh the swap when the ram is almost full
 # sudo systemctl restart zramswap.service
 # sudo swapoff /temp_swap && sudo rm /temp_swap
-sudo sed -i 's/^#EARLYOOM_ARGS=.*/EARLYOOM_ARGS="-m 2 -s 2"/' /etc/default/earlyoom
+sudo tee /etc/default/earlyoom > /dev/null <<EOF
+EARLYOOM_ARGS="-m 5 -s 5 -r 3600 --avoid (^|/)(code|vscodium)$"
+EOF
 # sudo sed -i 's/^#EARLYOOM_ARGS=.*/EARLYOOM_ARGS="-m 10 -s 10"/' /etc/default/earlyoom
 sudo systemctl restart earlyoom
 # sudo systemctl stop earlyoom # if needed, might cause panics or freezes
@@ -2014,7 +2016,7 @@ sudo systemctl restart earlyoom
   - allow usb installation `on`
 - install
 
-  ```
+  ```sh
   set -e
 
   echo "Updating system and enabling universe..."
