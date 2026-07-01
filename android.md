@@ -1,5 +1,7 @@
 android
 
+- lawnchair
+- lawnicons
 - bilimiao <!-- piliplus -->
 - simplelive
 - zhihu++ <!-- zhihu zhiliao, hydrogen -->
@@ -17,33 +19,42 @@ android
 - eudic
 - claude
 - anki droid
-- 
-- fcitx5
-- duolingo --mod
 - screen time
 - aegis authenticator
 - clash meta
 - fluffy chat
 - messages
-- phone
+- majsoul
+- chessdotcom
+- foxwq
+- lichess
+- osu
+- project sekai
+- phigros
 - pixiv --mod
-- shizuku
-- canta
 - aurora store
 - play store
 - neo store
+- shizuku
 - sai
+- canta
+- termux
 - etch droid
-- music tag
-- fossify voice recorder
-- ehviewer
 - pocket paint
 - google calculator
+- voice recorder <!-- by fossify -->
+- fcitx5
 - google maps
 - osmand
 - sndcpy
-- termux
-- lawnchair
-- lawnicons
+- ehviewer
 - voice tools
+
+---
+
+<!-- legacy/deprecated -->
+
+- phone
+- duolingo --mod
+- music tag
 
