@@ -29515,5 +29515,13 @@ try https://streamseast.is/soccer/760495/england-vs-congo-dr
 
 on https://sportspass.shop/soccer/fifa2026.html
 
+https://foxtrend.gd/event/ppv-england-vs-congo-dr/admin/2
+
+~~well, not as exciting as highlights anyway...~~ or really?
+
+the match *is* exciting... just too much breaks. like corners. the judge.
+
+and! they could not replay when live!
+
 ---
 
