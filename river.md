@@ -29491,4 +29491,24 @@ idk if it's intended to keep it secure.
 
 ## jul 2026
 
+seems there are some world cup streams on kick
+
+piracy everywhere.
+
+it's always popping up for my gender and location. no never ask option.
+
+---
+
+seems tubi is streaming world cup for free wo ads as soon as i switch to us ip.
+
+it's not pirating. it seems to be real?
+
+it does not feel like game simulation... but where is the commentary?
+
+(but it has some overlays)
+
+---
+
+
+
 
