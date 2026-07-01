@@ -8,7 +8,7 @@ android
 - antennapod
 - metro music player
 - vlc
-- ayugram
+- ayugram <!-- telegram x -->
 - wenku8
 - mj pdf
 - camera
@@ -46,15 +46,19 @@ android
 - fcitx5
 - google maps
 - osmand
-- sndcpy
 - ehviewer
+- bitwarden
+- good lock
+- streamerkit
 - voice tools
+- astrodx
+- kanadedx
 
 ---
 
 <!-- legacy/deprecated -->
 
+- sndcpy
 - phone
 - duolingo --mod
 - music tag
-
