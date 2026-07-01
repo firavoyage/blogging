@@ -687,6 +687,7 @@ $fira$ `elegance`
   - slay the spire 2 (2026)
   - maimai dx (2019)
   - doki doki literature club! (2017)
+  - taiko no tatsujin (2001)
   - .earth online
   - .terraria (2011)
   - .the legend of zelda: tears of the kingdom (2023)
