@@ -29491,7 +29491,7 @@ idk if it's intended to keep it secure.
 
 ## jul 2026
 
-seems there are some world cup streams on kick
+seems there are some world cup streams on kick <!-- auto killed? -->
 
 piracy everywhere.
 
@@ -29509,6 +29509,11 @@ it does not feel like game simulation... but where is the commentary?
 
 ---
 
+try https://streamseast.is/soccer/760495/england-vs-congo-dr
 
+(open the ifram directly, forcing fullscreen)
 
+on https://sportspass.shop/soccer/fifa2026.html
+
+---
 
