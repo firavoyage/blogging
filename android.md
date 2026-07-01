@@ -2,23 +2,25 @@ android
 
 - bilimiao <!-- piliplus -->
 - simplelive
-- zhihu++ <!-- zhihu zhiliao -->
+- zhihu++ <!-- zhihu zhiliao, hydrogen -->
 - antennapod
 - metro music player
 - vlc
 - ayugram
 - wenku8
 - mj pdf
-- screen time
 - camera
 - snapseed
 - material files
 - breezy weather
 - gboard
+- eudic
+- claude
+- anki droid
+- 
 - fcitx5
 - duolingo --mod
-- anki droid
-- eudic
+- screen time
 - aegis authenticator
 - clash meta
 - fluffy chat
@@ -43,3 +45,5 @@ android
 - termux
 - lawnchair
 - lawnicons
+- voice tools
+

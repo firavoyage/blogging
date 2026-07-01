@@ -3194,8 +3194,8 @@ flatpak install -y flathub app.devsuite.Ptyxis # terminal, the modern
 # program: mg (used by linus torvalds, on a personal fork though)
 sudo apt install -y mg
 
-# program: vim, emacs
-sudo apt install -y vim
+# program: vim, nvim, emacs
+sudo apt install -y vim neovim
 sudo rm /usr/share/applications/vim.desktop
 sudo apt install -y emacs-nox
 sudo rm /usr/share/applications/emacsclient.desktop # dont let it appear on app picker, always use them as cli
