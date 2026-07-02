@@ -29527,3 +29527,25 @@ the match *is* exciting... just too much breaks. like corners. the judge.
 and! they could not replay when live!
 
 ---
+
+> The cultural prohibition on micromanagement is harmful
+> 
+> Great individuals should be fully empowered to exercise their judgment
+> The goal is not to avoid mistakes; the goal is to achieve uncorrelated levels of excellence in some dimension
+> The downsides are worth it
+> 
+> Smaller teams are better
+> 
+> Faster decisions, fewer meetings, more fun
+> No need to chop up work for political reasons
+> No room for mediocre people (can pay more, too!)
+> Large-scale engineering projects are more soluble in IQ than they appear
+> Many tech companies are 2-10x overstaffed
+
+remove these lines from `ideas`.
+
+basically dealing w human problems.
+
+(well i might keep them somewhere. i mean i would like to. what an optimism.)
+
+---
