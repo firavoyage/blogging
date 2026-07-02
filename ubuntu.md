@@ -460,8 +460,6 @@ sudo systemctl restart earlyoom
       "workbench.startupEditor": "none",
       "workbench.editor.empty.hint": "hidden",
       "workbench.colorTheme": "Dracula Theme",
-      "files.autoSave": "afterDelay",
-      "files.autoSaveDelay": 100,
       "code-runner.preserveFocus": false,
       "code-runner.runInTerminal": true,
       "editor.fontFamily": "\"Fira Code\", \"Noto Sans CJK SC\", \"Adobe Kaiti Std\", monospace",
@@ -613,7 +611,6 @@ sudo systemctl restart earlyoom
       "typescript.updateImportsOnFileMove.enabled": "always",
       "diffEditor.maxComputationTime": 0,
       "files.autoGuessEncoding": true,
-      "git.enabled": false,
       "workbench.localHistory.maxFileEntries": 1000,
       "workbench.localHistory.maxFileSize": 5120,
       "workbench.localHistory.mergeWindow": 30,
@@ -621,7 +618,13 @@ sudo systemctl restart earlyoom
       "merge-conflict.codeLens.enabled": false,
       "workbench.editor.enablePreview": false,
       "explorer.decorations.badges": false,
-      "explorer.decorations.colors": false
+      "explorer.decorations.colors": false,
+      "[yaml]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+      },
+      "git.enabled": false,
+      "files.autoSaveDelay": 500,
+      "files.autoSave": "onFocusChange",
     }
     ```
 
