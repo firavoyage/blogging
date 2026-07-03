@@ -241,6 +241,10 @@ alias npm='pnpm'
 #   echo 'use pnpm instead'
 # }
 
+alias npx='pnpx'
+
+BROWSERSLIST_IGNORE_OLD_DATA=1
+
 # Environment
 
 export PATH="$HOME/.local/bin:$PATH"
