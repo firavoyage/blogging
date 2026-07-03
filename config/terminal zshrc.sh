@@ -243,8 +243,6 @@ alias npm='pnpm'
 
 alias npx='pnpx'
 
-BROWSERSLIST_IGNORE_OLD_DATA=1
-
 # Environment
 
 export PATH="$HOME/.local/bin:$PATH"

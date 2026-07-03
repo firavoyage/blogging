@@ -240,10 +240,10 @@ pnpm add -g cloc # count lines of code
 # usage: cloc . --vcs=git --exclude-lang=YAML,JSON,Markdown --exclude-ext=yaml,yml --exclude-dir=node_modules,.build --not-match-f=my_filename_regex --not-match-d=my_dir_regex
 pnpm add -g tsx
 pnpm add -g parcel # simple, fast (esp with cache), less reliable
-# pnpm add -g parcel-reporter-static-files-copy
 # usage: cd $dir && parcel serve '$fileName' --open --dist-dir .build --cache-dir .build/.parcel-cache # dev server
 # usage: cd $dir && parcel build '$fileName' --dist-dir build --no-content-hash # dev build
 # usage: cd $dir && parcel build '$fileName' --dist-dir build --no-source-maps # prod build
+# pnpm update -g caniuse-lite browserslist
 pnpm add -g vite # more reliable, fast enough, showy, clever
 # usage: cd $dir && vite --open '$fileName'
 pnpm add -g webpack webpack-cli webpack-dev-server # legacy, complex
