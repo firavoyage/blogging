@@ -633,6 +633,8 @@ $fira$ `elegance`
   - k-on! (2009)
   - clannad s2 (2008)
   - a certain scientific railgun (2009)
+  - k-on! s2 (2010)
+  - .onimai (2023)
   - .air (2005)
   - .sword art online (2012)
   - .re: zero - starting life in another world (2016)
@@ -647,7 +649,6 @@ $fira$ `elegance`
   - .white album (2009)
   - .chitose is in the ramune bottle (2025)
   - .fate/zero (2011)
-  - .tiny toon adventures (1990)
 - games
   - angry birds (2009)
   - minecraft (2011)
