@@ -2199,6 +2199,7 @@ sudo systemctl restart earlyoom
   - enhance <!-- normalize --> duolingo: duolingo max https://chromewebstore.google.com/detail/duolingo-max/jkcaeflmchplggcelmodjobeakgmhmdb
   - see history of sites: wayback machine https://chromewebstore.google.com/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak
   - dev: react developer tools https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi
+  - normalize the internet: snowflake https://chromewebstore.google.com/detail/snowflake/mafpmfcccpbjnhfhjnllmmalhifmlcie?gl=us
 
 ## `firefox nightly`
 
