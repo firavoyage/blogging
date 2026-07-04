@@ -1064,3 +1064,7 @@ fira is a font from mozilla.
 see `random.md`
 
 <!-- 有好题可以给我. -->
+
+<!-- World is powered by solitude -->
+
+<!-- ♥ Do have faith in what you're doing. -->
