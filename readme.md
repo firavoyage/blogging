@@ -16,6 +16,8 @@ $fira$ `elegance`
 
 <!-- explicit > implicit -->
 
+<!-- gravitated and spellbound -->
+
 > $welcome \space to \space hotel \space california$
 
 > $lucky \space \text{☆} \space star!$

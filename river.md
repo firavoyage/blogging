@@ -29551,3 +29551,12 @@ basically dealing w human problems.
 (well i might keep them somewhere. i mean i would like to. what an optimism.)
 
 ---
+
+obsession
+
+---
+
+tempation
+
+---
+
