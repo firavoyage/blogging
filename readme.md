@@ -604,6 +604,7 @@ $fira$ `elegance`
   - the shining (1980)
   - the intouchables, lived by funshiki (2011)
   - look back, streamed by funshiki (2024)
+  - toy story 5 (2026)
   - .k-on! the movie (2011)
   - .suzume (2022)
   - .weathering with you (2019)
