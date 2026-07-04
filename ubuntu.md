@@ -96,6 +96,12 @@ sudo apt install -y curl wget ca-certificates gnupg lsb-release p7zip-full unzip
 # git
 sudo apt install -y git git-filter-repo
 
+# trash
+sudo apt install -y trash-cli
+# usage: trash-put filename.txt # you can alias rm to trash-put
+# usage: trash-list
+# usage: trash-restore # interactive
+
 # toys
 sudo apt install -y neofetch hyfetch fortune-mod cowsay cbonsai figlet lolcat toilet sl
 
@@ -243,8 +249,8 @@ pnpm add -g parcel # simple, fast (esp with cache), less reliable
 # usage: cd $dir && parcel serve '$fileName' --open --dist-dir .build --cache-dir .build/.parcel-cache # dev server
 # usage: cd $dir && parcel build '$fileName' --dist-dir build --no-content-hash # dev build
 # usage: cd $dir && parcel build '$fileName' --dist-dir build --no-source-maps # prod build
-# rm -r 
-# pnpm update -g caniuse-lite browserslist
+# debug: rm -r .parcel-cache
+# maintenance: pnpm update -g caniuse-lite browserslist
 pnpm add -g vite # more reliable, fast enough, showy, clever
 # usage: cd $dir && vite --open '$fileName'
 pnpm add -g webpack webpack-cli webpack-dev-server # legacy, complex
