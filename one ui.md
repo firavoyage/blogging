@@ -131,6 +131,9 @@ one ui <!-- an android rom by samsung -->
 
 <!-- idk why this name, unclear. -->
 
+- date and time
+  - automatic time zone `off`
+  - select time zone `asia/taipei`
 - keyboard
   - default keyboard `gboard`
   - gboard `on`
