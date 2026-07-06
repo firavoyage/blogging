@@ -29566,3 +29566,13 @@ the ielts computer gui feels quite comfortable.
 i appreciate it. 
 
 ---
+
+it takes time when you want to take control over design, both visually and architectually.
+
+idk if i would care about the result and velocity. i guess i would. somehow. somewhat.
+
+would timeboxing help. maybe. 
+
+but i think generally if you find it might be meaningful and you are curious, just explore.
+
+---
