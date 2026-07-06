@@ -245,6 +245,8 @@ pnpm add -g --allow-build=bun bun
 pnpm add -g cloc # count lines of code
 # usage: cloc . --vcs=git --exclude-lang=YAML,JSON,Markdown --exclude-ext=yaml,yml --exclude-dir=node_modules,.build --not-match-f=my_filename_regex --not-match-d=my_dir_regex
 pnpm add -g tsx
+pnpm add -g http-server # for static pre built html
+# usage: http-server -i foo.html -p 8000
 pnpm add -g parcel # simple, fast (esp with cache), less reliable
 # usage: cd $dir && parcel serve '$fileName' --open --dist-dir .build --cache-dir .build/.parcel-cache # dev server
 # usage: cd $dir && parcel build '$fileName' --dist-dir build --no-content-hash # dev build
