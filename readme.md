@@ -323,7 +323,9 @@ $fira$ `elegance`
     - zhao-stanley stanleyzhao.com web.lab
   - education
     - addyosmani addyist addyosmani.com addyosmani.com/blog addyosmani.com/open-source
+    - bcielts takeieltsofficial
     - bellingcat bellingcat.com bellingcat.gitbook.io
+    - cambridge cambridge_uni cambridge.org cam.ac.uk cambridge.gov.uk
     - codingstartup
     - durov telegram.org tgnav tgnav.github.io tg10000.com tree.aza.moe
     - grant sanderson 3blue1brown.com
@@ -438,7 +440,6 @@ $fira$ `elegance`
   - niche
     - adhesiontek adt_china yt.adhesiontek.com
     - animenz
-    - cambridge cambridge_uni cambridge.org cam.ac.uk cambridge.gov.uk
     - cateen_hayatosumino
     - chessvibesofficial nelsi nelson lopez
     - danielnaroditskygm
