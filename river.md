@@ -29578,3 +29578,20 @@ would timeboxing help. maybe.
 but i think generally if you find it might be meaningful and you are curious, just explore.
 
 ---
+
+> Purpose
+
+---
+
+My birthday is 31 jun.
+
+---
+
+Be wise
+
+Be graceful
+
+---
+
+
+
