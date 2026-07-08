@@ -231,6 +231,7 @@ one ui <!-- an android rom by samsung -->
 
 - profile
   - add
+- settings: app: auto restart `on`
 - lock this app <!-- recent apps: tap app icon -->
 
 # `shizuku`
