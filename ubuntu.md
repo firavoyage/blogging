@@ -130,6 +130,9 @@ sudo apt install -y gnome-tweaks
 flatpak install -y flathub org.gnome.Extensions # seems not needed
 flatpak install -y flathub com.mattjakeman.ExtensionManager
 
+# check battery
+sudo apt install -y acpi
+
 # find: rg, grep, tree, find, fdfind, ack
 sudo apt install -y ripgrep grep tree findutils fd-find ack
 # usage: find . -maxdepth 2 -path '*/.*' -prune -o -print
