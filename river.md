@@ -29606,3 +29606,11 @@ maybe a community would work. just give it a command/api. i could have a builtin
 
 ---
 
+shelf: example screenshots
+
+- 日紫烟 from qidian
+- 学姐舞萌痴 from fanqie
+
+---
+
+
