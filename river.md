@@ -29636,5 +29636,7 @@ things decrease as time goes.
 
 sometimes it just works well to be more reserved. sometimes it does not, like, for ideological conflicts, mass misconceptions (the fools imo), or norms/biases. and im not gonna solve it.
 
+i hold this philosophy anyway, as i believe most ppl are trivial, humans are unsolvable, and speed is a priority for excellence.
+
 ---
 
