@@ -322,6 +322,7 @@ $fira$ `elegance`
     - yusixian blog.cosine.ren/weekly
     - zhao-stanley stanleyzhao.com web.lab
   - education
+    - aaronsw aaronsw.com aaronsw.com/weblog/archive aaronsw.com/weblog/fullarchive
     - addyosmani addyist addyosmani.com addyosmani.com/blog addyosmani.com/open-source
     - bcielts takeieltsofficial
     - bellingcat bellingcat.com bellingcat.gitbook.io
@@ -354,7 +355,7 @@ $fira$ `elegance`
     - probiusofficial hello-ctf.com
     - qingyu qoj.ac
     - que_tourist gennady korotkevich codeforces
-    - ruanyf ruanyf weekly ruanyifeng.com/blog
+    - ruanyf ruanyf weekly ruanyifeng.com/blog ruanyifeng.com/blog/archives.html
     - shiffman thecodingtrain.com
     - sickcodes sick.codes
     - sinyalee sinyalee.com alpha-star-research.com
