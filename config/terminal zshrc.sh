@@ -167,13 +167,13 @@ repo_sync() {
 riptmux(){
   local reset=$(tput sgr0)
   local bold=$(tput bold)
-  local help=<< EOF
+  local version="tmux 0.1 (2026.07.10)"
+  local help="
 Run and manage background daemons
 
-Usage:
-  ${bold}tmux${reset}                  Start a terminal
-  ${bold}tmux <name>${reset}           Start a named terminal
-  ${bold}tmux <command>${reset}        Perform an action
+Usage: ${bold}tmux${reset}             Start a terminal
+       ${bold}tmux <name>${reset}      Start a named terminal
+       ${bold}tmux <command>${reset}   Perform an action
 
 Commands:
   ${bold}ls${reset}                    List all sessions
@@ -184,12 +184,12 @@ Commands:
   ${bold}rename <old> <new>${reset}    Rename a session
 
 Options:
-  ${bold}-h, --help${reset}            Print this help
   ${bold}-v, --version${reset}         Print version
+  ${bold}-h, --help${reset}            Print this help
 
 Use ctrl+b d to detach in a terminal, exit to remove the session
-EOF
-  
+"
+ 
   if test $# -eq 0; then
     command tmux
   elif test $# -eq 1; then
@@ -200,11 +200,9 @@ EOF
     elif test $1 = "clear"; then
       tmux_clear
     elif test $1 = "--help" -o $1 = "-h"; then
-      # just have a linebreak after usage
-      cat $help
+      echo $help
     elif test $1 = "--version" -o $1 = "-v"; then
-      echo 'tmux 0.0.0 (2026.07.09)'
-      # echo 'riptmux 0.0.0 (2026.07.09)'
+      echo $version
     else
       # named
       command tmux new -s $1
