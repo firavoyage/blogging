@@ -29640,3 +29640,26 @@ i hold this philosophy anyway, as i believe most ppl are trivial, humans are uns
 
 ---
 
+wtf? network drops.
+
+e.g. google: too long to respond.
+
+douban works.
+
+claude: unsupported region.
+
+all proxies drop. 
+
+it's not wifi problem. it's not proxy problem.
+
+it's some middlewares. likely "dropping all international traffic".
+
+totally unexpected.
+
+idk if it's software problem. i tested on phone, it works. later i test on laptop, it works as well. but i did not test immediately on phone when it drops on the laptop.
+
+and a few days before when i tested on phone, it was proxy problem (one proxy fails, others work)
+
+currently all proxies work.
+
+---
