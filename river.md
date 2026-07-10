@@ -29618,3 +29618,23 @@ definance, defiance
 
 ---
 
+`ref`
+
+seems im not good at socializing.
+
+i take whatever approach to complete reach my goals.
+
+if ik i could do it (i.e. predictable cause and effect), i simply proceed regardless of what happens.
+
+sometimes it hurts. it does not hurt me. it hurts ppl. i do not care as im an egoistic bastard. most time it does not matter. sometimes it does.
+
+i rarely ask ppl to do sth for me, as i do not have many real tasks that require cooperation, and i have firm background.
+
+but i often recommend things to ppl, chat w ppl, ask ppl questions, or play w ppl.
+
+things decrease as time goes.
+
+sometimes it just works well to be more reserved. sometimes it does not, like, for ideological conflicts, mass misconceptions (the fools imo), or norms/biases. and im not gonna solve it.
+
+---
+
