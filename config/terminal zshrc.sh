@@ -167,19 +167,7 @@ repo_sync() {
 riptmux(){
   local reset=$(tput sgr0)
   local bold=$(tput bold)
-  
-  if test $# -eq 0; then
-    command tmux
-  elif test $# -eq 1; then
-    if test $1 = "ls"; then
-      command tmux ls
-    elif test $1 = "a"; then
-      command tmux a
-    elif test $1 = "clear"; then
-      tmux_clear
-    elif test $1 = "--help" -o $1 = "-h"; then
-      # just have a linebreak after usage
-      cat << EOF
+  local help=<< EOF
 Run and manage background daemons
 
 Usage:
@@ -201,6 +189,19 @@ Options:
 
 Use ctrl+b d to detach in a terminal, exit to remove the session
 EOF
+  
+  if test $# -eq 0; then
+    command tmux
+  elif test $# -eq 1; then
+    if test $1 = "ls"; then
+      command tmux ls
+    elif test $1 = "a"; then
+      command tmux a
+    elif test $1 = "clear"; then
+      tmux_clear
+    elif test $1 = "--help" -o $1 = "-h"; then
+      # just have a linebreak after usage
+      cat $help
     elif test $1 = "--version" -o $1 = "-v"; then
       echo 'tmux 0.0.0 (2026.07.09)'
       # echo 'riptmux 0.0.0 (2026.07.09)'
