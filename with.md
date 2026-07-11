@@ -195,3 +195,4 @@ with
 - 残滓 `zzzanshi` 残滓 `zzanshi`
 - 雪菜馅的涟漪 Ayanami `ayanami_rin0` 啊呀纳米饿饿饿🍖🍖🍖 `ayanami_rin`
 - Haru.Gateway `HaruGateway2025` Haru 的观测站 `-1002505551799`
+- AkiChan's channel `sbgatools`
