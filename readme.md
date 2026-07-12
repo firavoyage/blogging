@@ -124,7 +124,7 @@ $fira$ `elegance`
 
 - flavors
   - coffee
-  - green tea & black tea
+  - green/black tea
   - dark chocolate
   - truffles
   - wafer milk chocolate
