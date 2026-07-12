@@ -837,6 +837,7 @@ $fira$ `elegance`
   - oneplus buds 3
   - oppo enco free 3
   - morphy richards portable electric kettle mr6090
+  - mi power bank 20000 67w <!-- mi power bank 20000 33w -->
 - on ubuntu 24
   - (see `ubuntu.md`)
 - on android 16 <!-- 11 -->
