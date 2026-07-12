@@ -123,8 +123,9 @@ $fira$ `elegance`
 ## perception
 
 - flavors
+  - coffee
   - green tea & black tea
-  - dark chocolate bars
+  - dark chocolate
   - truffles
   - wafer milk chocolate
   - butter cookies
