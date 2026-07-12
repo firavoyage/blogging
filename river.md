@@ -29682,3 +29682,9 @@ they are the same person?
 
 ---
 
+the link simply rots. lol.
+
+https://docs.memoh.ai/blogs/2026-05-02.html
+
+---
+
