@@ -29665,3 +29665,10 @@ and a few days before when i tested on phone, it was proxy problem (one proxy fa
 currently all proxies work.
 
 ---
+
+vscode shows icon on sidebar only when width is enough.
+
+wise.
+
+---
+

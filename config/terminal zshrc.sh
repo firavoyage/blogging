@@ -70,6 +70,25 @@ export ALL_PROXY="socks5://127.0.0.1:7890"
 
 # Functions & Aliases
 
+alias apt='sudo apt -y'
+
+alias snap='sudo snap'
+
+alias fd='fdfind'
+
+alias nano='code'
+
+alias docker='sudo docker'
+
+alias claude='claude --dangerously-skip-permissions'
+
+alias npm='pnpm'
+# npm(){
+#   echo 'use pnpm instead'
+# }
+
+alias npx='pnpx'
+
 # inspired by whoami
 whereami() {
   pwd
@@ -164,102 +183,6 @@ repo_sync() {
   echo "Push completed successfully."
 }
 
-riptmux(){
-  local reset=$(tput sgr0)
-  local bold=$(tput bold)
-  local version="tmux 0.1 (2026.07.10)"
-  local help="
-Run and manage background daemons
-
-Usage: ${bold}tmux${reset}             Start a terminal
-       ${bold}tmux <name>${reset}      Start a named terminal
-       ${bold}tmux <command>${reset}   Perform an action
-
-Commands:
-  ${bold}ls${reset}                    List all sessions
-  ${bold}a${reset}                     Back to the last session
-  ${bold}a <name>${reset}              Back to a named session
-  ${bold}clear${reset}                 Clear inactive sessions of last command finished
-  ${bold}kill <name>${reset}           Kill a session
-  ${bold}rename <old> <new>${reset}    Rename a session
-
-Options:
-  ${bold}-v, --version${reset}         Print version
-  ${bold}-h, --help${reset}            Print this help
-
-Use ctrl+b d to detach in a terminal, exit to remove the session
-"
- 
-  if test $# -eq 0; then
-    command tmux
-  elif test $# -eq 1; then
-    if test $1 = "ls"; then
-      command tmux ls
-    elif test $1 = "a"; then
-      command tmux a
-    elif test $1 = "clear"; then
-      tmux_clear
-    elif test $1 = "--help" -o $1 = "-h"; then
-      echo $help
-    elif test $1 = "--version" -o $1 = "-v"; then
-      echo $version
-    else
-      # named
-      command tmux new -s $1
-    fi
-  elif test $# -eq 2 -a $1 = "a"; then
-    command tmux a -t $2
-  elif test $# -eq 2 -a $1 = "kill"; then
-    tmux_kill $2
-  elif test $# -eq 3 -a $1 = "rename"; then
-    tmux_rename $2 $3
-  else
-    echo "no arg to tmux, one arg to have a named tmux session"
-  fi
-}
-
-alias tmux='riptmux'
-
-tmux_ls(){
-  command tmux ls
-}
-
-tmux_a(){
-  command tmux a
-}
-
-tmux_rename(){
-  if test $# -eq 2; then
-    command tmux rename-session -t $1 $2
-  else 
-    echo "args: old name, new name"
-  fi
-}
-
-tmux_kill(){
-  if test $# -eq 1; then
-    command tmux kill-session -t $1
-  else 
-    echo "arg: session name to be killed"
-  fi
-}
-
-tmux_clear(){
-  # Loop through all active tmux session names
-  for s in $(command tmux ls -F '#{session_name}' 2>/dev/null); do
-      # Count the number of active child processes running in this session
-      child_process_count=$(command tmux list-panes -t "$s" -F '#{pane_pid}' | xargs -I {} pgrep -P {} | wc -l)
-
-      # If the count is 0, nothing is running except the idle shell prompt
-      if [ "$child_process_count" -eq 0 ]; then
-          # echo "Killing idle session: $s"
-          command tmux kill-session -t "$s"
-      else
-          # echo "Keeping active session: $s"
-      fi
-  done
-}
-
 sound() {
   cd /usr/local/bin || return
   sndcpy
@@ -320,24 +243,150 @@ phone() {
 # 
 # alias br="bun_root_run"
 
-alias apt='sudo apt -y'
+riptmux(){
+  local reset=$(tput sgr0)
+  local bold=$(tput bold)
+  local italic=$(tput sitm)
+  local underline=$(tput smul)
+  # indentation already gives hierarchy, no style/color needed
+  local heading=""
+  # local heading=$italic
+  # local heading=$underline
+  local version="tmux 0.2 (2026.07.12)"
+  local help=$(cat <<- EOF | sed 's/^  //'
+  Run and manage background daemons
 
-alias snap='sudo snap'
+  ${bold}${heading}Usage:${reset} 
+    ${bold}tmux${reset}                  Start a new terminal
+    ${bold}tmux${reset} <name>           Start a new named terminal
+    ${bold}tmux${reset} <command>        Perform an action
+    ${bold}tmux${reset} [flag]           Check version or help
 
-alias fd='fdfind'
+  ${bold}${heading}Commands:${reset}
+    ${bold}ls${reset}                    List all sessions
+    ${bold}a${reset}                     Back to the last session
+    ${bold}a${reset} <name>              Back to a named session
+    ${bold}clear${reset}                 Clear inactive sessions of last command finished
+    ${bold}kill${reset} <name>           Kill a session
+    ${bold}rename${reset} <old> <new>    Rename a session
 
-alias nano='code'
+  ${bold}${heading}Options:${reset}
+    ${bold}-v, --version${reset}         Print version
+    ${bold}-h, --help${reset}            Print help
 
-alias docker='sudo docker'
+  Use ctrl+b d to detach in a terminal, exit to remove the session
+	EOF
+	)
 
-alias claude='claude --dangerously-skip-permissions'
+  if test $# -eq 0; then
+    command tmux
+  elif test $# -eq 1; then
+    if test $1 = "ls"; then
+      command tmux ls
+    elif test $1 = "a"; then
+      command tmux a
+    elif test $1 = "clear"; then
+      tmux_clear
+    elif test $1 = "--help" -o $1 = "-h"; then
+      echo $help
+    elif test $1 = "--version" -o $1 = "-v"; then
+      echo $version
+    else
+      # named
+      command tmux new -s $1
+    fi
+  elif test $# -eq 2 -a $1 = "a"; then
+    command tmux a -t $2
+  elif test $# -eq 2 -a $1 = "kill"; then
+    tmux_kill $2
+  elif test $# -eq 3 -a $1 = "rename"; then
+    tmux_rename $2 $3
+  else
+    echo $help
+    # echo "no arg to tmux, one arg to have a named tmux session"
+  fi
+}
 
-alias npm='pnpm'
-# npm(){
-#   echo 'use pnpm instead'
-# }
+alias tmux='riptmux'
 
-alias npx='pnpx'
+tmux_ls(){
+  command tmux ls
+}
+
+tmux_a(){
+  command tmux a
+}
+
+tmux_rename(){
+  if test $# -eq 2; then
+    command tmux rename-session -t $1 $2
+  else 
+    echo "args: old name, new name"
+  fi
+}
+
+tmux_kill(){
+  if test $# -eq 1; then
+    command tmux kill-session -t $1
+  else 
+    echo "arg: session name to be killed"
+  fi
+}
+
+tmux_clear(){
+  # Loop through all active tmux session names
+  for s in $(command tmux ls -F '#{session_name}' 2>/dev/null); do
+      # Count the number of active child processes running in this session
+      child_process_count=$(command tmux list-panes -t "$s" -F '#{pane_pid}' | xargs -I {} pgrep -P {} | wc -l)
+
+      # If the count is 0, nothing is running except the idle shell prompt
+      if [ "$child_process_count" -eq 0 ]; then
+          # echo "Killing idle session: $s"
+          command tmux kill-session -t "$s"
+      else
+          # echo "Keeping active session: $s"
+      fi
+  done
+}
+
+link(){
+  local reset=$(tput sgr0)
+  local bold=$(tput bold)
+  local italic=$(tput sitm)
+  local underline=$(tput smul)
+  local heading=""
+  # local heading=$italic
+  # local heading=$underline
+
+  local version="link 0.0 (2026.07.12)"
+  local help=$(cat <<- EOF | sed 's/^  //'
+  Create and check symlinks
+
+  ${bold}${heading}Usage:${reset}
+    ${bold}link${reset} <source> <target>    Create symlink
+    ${bold}link${reset} <target>             Check symlink
+    ${bold}link${reset} [flag]               Check version or help
+
+  ${bold}${heading}Options:${reset}
+    ${bold}-v, --version${reset}             Print version
+    ${bold}-h, --help${reset}                Print help
+	EOF
+	)
+
+  if test $# -eq 1; then
+    if test $1 = "--help" -o $1 = "-h"; then
+      echo $help
+    elif test $1 = "--version" -o $1 = "-v"; then
+      echo $version
+    else
+      ls -l $1
+    fi
+  elif test $# -eq 2; then
+      ln -snf $1 $2
+  else
+    echo $help
+  fi
+}
 
 # Environment
 
