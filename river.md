@@ -29772,3 +29772,35 @@ does not seem meaningful
 
 ---
 
+not really clear who they are
+
+```
+Victrix 🏳️‍⚧️ "VZstless" Cheung, [7/13/26 7:18 PM]
+
+
+Victrix 🏳️‍⚧️ "VZstless" Cheung, [7/13/26 7:18 PM]
+你是？
+
+f, [7/13/26 7:33 PM]
+twitter: firahq
+
+f, [7/13/26 7:33 PM]
+https://zh.wikipedia.org/wiki/%E6%88%91%E6%98%AF%E7%8C%AB
+
+Victrix 🏳️‍⚧️ "VZstless" Cheung, [7/13/26 7:34 PM]
+
+
+f, [7/13/26 7:34 PM]
+你有研究这些小说吗, 看起来有意思
+
+Victrix 🏳️‍⚧️ "VZstless" Cheung, [7/13/26 7:34 PM]
+那你再申请一下吧
+
+Victrix 🏳️‍⚧️ "VZstless" Cheung, [7/13/26 7:35 PM]
+我不研究文学
+
+Victrix 🏳️‍⚧️ "VZstless" Cheung, [7/13/26 7:36 PM]
+我只是个玩梗的
+```
+
+---

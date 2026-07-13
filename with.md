@@ -196,3 +196,4 @@ with
 - 雪菜馅的涟漪 Ayanami `ayanami_rin0` 啊呀纳米饿饿饿🍖🍖🍖 `ayanami_rin`
 - Haru.Gateway `HaruGateway2025` Haru 的观测站 `-1002505551799`
 - AkiChan's channel `sbgatools`
+- Victrix 🏳️‍⚧️ "VZstless" Cheung `VZstless` Prisoner / Escort `prisoner_escort` VZCAFE `-1002917370048`
