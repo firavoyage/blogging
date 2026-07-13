@@ -197,3 +197,4 @@ with
 - Haru.Gateway `HaruGateway2025` Haru 的观测站 `-1002505551799`
 - AkiChan's channel `sbgatools`
 - Victrix 🏳️‍⚧️ "VZstless" Cheung `VZstless` Prisoner / Escort `prisoner_escort` VZCAFE `-1002917370048`
+- 🥭芒果刀 `daoge_cmd` 🕊の碎碎念 | Channel `daoge_channel` 🕊の碎碎念 | Chat `daoge_chat`

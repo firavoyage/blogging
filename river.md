@@ -29828,3 +29828,4 @@ sometimes you just feel like trolling and you want to take some caffeine late ni
 > write a visual novel based on "the gunshot that changes the time (of japan)"
 
 ---
+
