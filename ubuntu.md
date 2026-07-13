@@ -480,8 +480,8 @@ sudo systemctl restart earlyoom
         "html": "cd $dir && parcel serve '$fileName' --open --dist-dir .build --cache-dir .build/.parcel-cache",
         // "html": "cd $dir && vite --open '$fileName'",
 
-        "javascript": "cd $dir && br '$fileName'",
-        "typescript": "cd $dir && br '$fileName'",
+        "javascript": "cd $dir && b '$fileName'",
+        "typescript": "cd $dir && b '$fileName'",
 
         "markdown": "cd $dir && xdg-open '$fileName'",
         "pdf": "cd $dir && xdg-open '$fileName'",

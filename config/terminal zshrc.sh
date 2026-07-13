@@ -424,6 +424,8 @@ normalize(){
   fi
 }
 
+alias count='ocloc'
+
 # Environment
 
 export PATH="$HOME/.local/bin:$PATH"
