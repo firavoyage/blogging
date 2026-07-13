@@ -29812,3 +29812,9 @@ great.
 
 ---
 
+now you see copy and edit when you hover a msg on google ai mode.
+
+finally.
+
+---
+
