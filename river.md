@@ -29758,3 +29758,7 @@ superpowers 已卸。。。
 
 ---
 
+telegram desktop export sometimes gets stuck, like when dl a 14kb sticker
+
+---
+
