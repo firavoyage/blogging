@@ -29687,3 +29687,74 @@ the link simply rots. lol.
 https://docs.memoh.ai/blogs/2026-05-02.html
 
 ---
+
+acbox toggled "who can comment" settings on twitter.
+
+and spam comments appear immediately in the new post.
+
+```
+
+📦Acbox
+@AcboxLiu
+coding agent 应该有个快捷方式来关闭/打开 plugin
+我需要用到 superpowers 的时候觉得他很有用不需要的时候又觉得他很烦
+Last edited
+12:27 PM · Jul 13, 2026
+·Twitter Web App
+Relevant
+Replying to @AcboxLiu
+
+No file chosen
+clyzhi
+@clyzhi
+·
+2h
+写 pi 然后加中间层自行管理 skill 吧
+Leah Rothfeld
+@Lili05493792863
+·
+42m
+已经移除superpower了。
+RealTong
+@The_RealTong
+·
+2h
+superpowers 是这样的
+换成 grill-me 好一点，是要 / 手动触发了
+93高返热币晴晴Visa免费领
+@Jennife08959076
+·
+2h
+确实得加个快捷键切换才够丝滑
+zsodur
+@zlittlebin
+·
+45m
+在AGENTS.md里加一条规则啊
+戴莹🌸同城丄门🌸附近喝🍵
+@RomaPeetak
+·
+17m
+secrets
+🎶
+goal
+🎨
+今天也要加油努力
+@pv_wen
+·
+28m
+我已经卸载了，只留mattlock的几个ski
+Nathan
+@hard_pail_bor
+·
+2h
+中间这层有点越权， 交给第三方开源合适些
+Dimon Dai
+@Scott__D
+·
+2h
+superpowers 已卸。。。
+```
+
+---
+
