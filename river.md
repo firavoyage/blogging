@@ -29760,5 +29760,7 @@ superpowers 已卸。。。
 
 telegram desktop export sometimes gets stuck, like when dl a 14kb sticker
 
+it can happen when you sleep halfway. when network fluctuates. or in any edge cases.
+
 ---
 
