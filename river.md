@@ -29823,3 +29823,8 @@ finally.
 sometimes you just feel like trolling and you want to take some caffeine late night.
 
 ---
+
+> download all maimai songs, use ytdlp, write all info in yaml
+> write a visual novel based on "the gunshot that changes the time (of japan)"
+
+---
