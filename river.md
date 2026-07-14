@@ -488,6 +488,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `15` 2026.07.11
 - `16` 2026.07.11
 - `17` 2026.07.13
+- `18` 2026.07.14
 
 # gaming
 
@@ -29885,4 +29886,3 @@ Learn more
 google ai mode glitches ("sth went wrong" at the first resp). ~~and gets fixed after an hour~~ not really.
 
 ---
-
