@@ -29872,3 +29872,13 @@ wow.
 
 ---
 
+Number of users currently connected: 2
+
+Number of users your Snowflake has helped circumvent censorship in the last 24 hours: 259
+
+Enabled
+Keep running when the browser is closed
+Learn more
+
+---
+
