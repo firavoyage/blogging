@@ -29882,7 +29882,7 @@ Learn more
 
 ---
 
-google ai mode glitches ("sth went wrong" at the first resp). and gets fixed after an hour.
+google ai mode glitches ("sth went wrong" at the first resp). ~~and gets fixed after an hour~~ not really.
 
 ---
 
