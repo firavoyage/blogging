@@ -29893,3 +29893,12 @@ well, clever.
 
 ---
 
+vscode md lsp:
+
+```
+[Error - 3:58:23 AM] Request textDocument/foldingRange failed.
+  Message: Request textDocument/foldingRange failed with message: Document has been closed
+  Code: -32603 
+```
+
+---
