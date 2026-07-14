@@ -420,6 +420,7 @@ $fira$ `elegance`
     - quite8964
     - ramsayleung pineapplebun ramsayleung.github.io
     - rongronggg9 rongrongqaq planetrong rong.moe rongrongbq.moe
+    - shellwen realshellwen shellwen.com
     - starnekovo misakabit starneko.com
     - timochan timochan.cn mx-space.js.org
     - tinyfool tinyfool.org codechina.org
