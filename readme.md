@@ -163,6 +163,7 @@ $fira$ `elegance`
     - basicappleguy basicappleguy.com
     - bchillman phantom phantomwallet phantom.com trade.phantom.com
     - chen xiao origami
+    - coclique daylily re-xyr dayli.ly dayli.ly/now nightcord.at/25 inkclip.dayli.ly dayli.ly/zato-script
     - cyannyan6 hoshinolina cyannyan.com lina.yt
     - dhh dhh.dk rubyonrails.org omarchy.org 37signals.com basecamp.com hey.com once.com once.com/campfire once.com/writebook robzolkos robzolkos zolkos.com
     - dingyi ding.one dexlist.page news.dex.group dex-group.ghost.io dex.zhubai.love quaily.com/dingyi
@@ -213,7 +214,6 @@ $fira$ `elegance`
     - producthunt producthunt.com producthunt.com/shoutouts producthunt.com/golden-kitty-awards/hall-of-fame
     - project-sekai-ctf sekai.team ctf.sekai.team
     - q.ai
-    - re-xyr dayli.ly dayli.ly/now nightcord.at/25 inkclip.dayli.ly dayli.ly/zato-script
     - rea1donandtrump rene.wang detail.design ygeeker.com
     - retool retool.com retool.com/use-cases
     - rimochan icp.gov.moe librian.net
