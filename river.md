@@ -29838,3 +29838,28 @@ https://github.com/sheepbox8646/page/commit/9904152c4d4f263780255252d624147a665d
 
 ---
 
+```sh
+ ~ % cd Projects
+ ~/Projects % git clone https://github.com/sheepbox8646/page acboxpage
+Cloning into 'acboxpage'...
+remote: Enumerating objects: 49, done.
+remote: Counting objects: 100% (49/49), done.
+remote: Compressing objects: 100% (42/42), done.
+remote: Total 49 (delta 12), reused 34 (delta 6), pack-reused 0 (from 0)
+Receiving objects: 100% (49/49), 330.84 KiB | 1.28 MiB/s, done.
+Resolving deltas: 100% (12/12), done.
+ ~/Projects % git clone https://github.com/sheepbox8646/sheepbox8646.git acboxprofile
+Cloning into 'acboxprofile'...
+remote: Enumerating objects: 1200, done.
+remote: Counting objects: 100% (1200/1200), done.
+remote: Compressing objects: 100% (829/829), done.
+remote: Total 1200 (delta 405), reused 1115 (delta 362), pack-reused 0 (from 0)
+Receiving objects: 100% (1200/1200), 2.93 MiB | 6.65 MiB/s, done.
+Resolving deltas: 100% (405/405), done.
+```
+
+example: faster loading for local cache.
+
+use case: filter out auto commits.
+
+---
