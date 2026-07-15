@@ -397,13 +397,12 @@ normalize(){
   # local heading=$italic
   # local heading=$underline
 
-  local version="normalize 0.0 (2026.07.13)"
+  local version="normalize 0.1 (2026.07.13)"
+  # no need to explain options or give examples i guess
   local help=$(cat <<- EOF | sed 's/^  //'
   Make a shell script executable
 
-  ${bold}${heading}Usage:${reset}
-    ${bold}normalize${reset} <script>    Normalize a script
-    ${bold}normalize${reset} [flag]      Check version or help
+  ${bold}${heading}Usage:${reset} ${bold}normalize${reset} <script>
 
   ${bold}${heading}Options:${reset}
     ${bold}-v, --version${reset}         Print version
@@ -425,6 +424,60 @@ normalize(){
 }
 
 alias count='ocloc'
+
+to_mp3(){
+  local reset=$(tput sgr0)
+  
+  local bold=$(tput bold)
+  local italic=$(tput sitm)
+  local underline=$(tput smul)
+
+  local black=$(tput setaf 0)
+  local red=$(tput setaf 1)
+  local green=$(tput setaf 2)
+  local yellow=$(tput setaf 3)
+  local blue=$(tput setaf 4)
+  local magenta=$(tput setaf 5)
+  local cyan=$(tput setaf 6)
+  local white=$(tput setaf 7)
+  
+  local bright_black=$(tput setaf 8)
+  local bright_red=$(tput setaf 9)
+  local bright_green=$(tput setaf 10)
+  local bright_yellow=$(tput setaf 11)
+  local bright_blue=$(tput setaf 12)
+  local bright_magenta=$(tput setaf 13)
+  local bright_cyan=$(tput setaf 14)
+  local bright_white=$(tput setaf 15)
+
+  local heading="$bold$bright_green"
+  local cmd="$bold$bright_cyan" # command or flag/option
+  local arg="$cyan" # argument
+
+  local version="to_mp3 0.0 (2026.07.15)"
+  local help=$(cat <<- EOF | sed 's/^  //'
+  Convert something to mp3
+
+  ${heading}Usage:${reset} ${cmd}to_mp3${reset} ${arg}<file>${reset}
+
+  ${heading}Options:${reset}
+    ${cmd}-v${reset}, ${cmd}--version${reset}    Print version
+    ${cmd}-h${reset}, ${cmd}--help${reset}       Print help
+	EOF
+	)
+
+  if test $# -eq 1; then
+    if test $1 = "--help" -o $1 = "-h"; then
+      echo $help
+    elif test $1 = "--version" -o $1 = "-v"; then
+      echo $version
+    else
+      ffmpeg -i "$1" -vn -c:a libmp3lame -b:a 192k "${1%.*}.mp3"
+    fi
+  else
+    echo $help
+  fi
+}
 
 # Environment
 
