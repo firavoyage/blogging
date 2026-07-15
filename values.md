@@ -50,7 +50,7 @@ there are not so many people in the world <!-- ... that, like, make a difference
 
 the world _is_ unfair, and it does not have to be fair
 
-# pragmaticism
+# pragmatism
 
 there are times when you are determined <!-- or desperate -->
 
