@@ -696,6 +696,7 @@ $fira$ `elegance`
   - project sekai colorful stage! (2020)
   - slay the spire 2 (2026)
   - maimai dx (2019)
+  - astro dx (2021)
   - doki doki literature club! (2017)
   - taiko no tatsujin (2001)
   - chunithm (2015)
