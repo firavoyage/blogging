@@ -29904,3 +29904,23 @@ vscode md lsp:
 ```
 
 ---
+
+美好的一天从解决openvpn和tailscale犯冲开始😁
+1:04 PM · Jul 16, 2026
+·Twitter Web App
+
+WeZZard
+@realWeZZard
+·
+14h
+如果是单纯翻墙可以考虑 Surge + Surge Ponte
+
+📦Acbox
+@AcboxLiu
+·
+14h
+不是，我平时主要办公区在MacMini上，我有时候出门需要通过我的macbook tailscale+moonlight远程到macmini上
+然后我OpenVPN是公司的办公网络，有专线出口，所以我翻墙需要依赖OpenVPN
+
+---
+
