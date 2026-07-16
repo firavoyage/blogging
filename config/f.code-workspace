@@ -20,10 +20,10 @@
     //   "name": "localhost",
     //   "path": "../../f/localhost"
     // },
-    // {
-    //   "name": "apps",
-    //   "path": "../../f/apps"
-    // },
+    {
+      "name": "apps",
+      "path": "../../f/apps"
+    },
     // {
     //   "name": "math",
     //   "path": "../../f/pure/math"
