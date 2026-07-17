@@ -29930,3 +29930,8 @@ all quiz, editing, whatever, are appending.
 
 ---
 
+the 67w power bank works.
+
+---
+
+
