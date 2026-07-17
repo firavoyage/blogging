@@ -29924,3 +29924,9 @@ WeZZard
 
 ---
 
+seems google ai mode is strictly incremental.
+
+all quiz, editing, whatever, are appending.
+
+---
+
