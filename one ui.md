@@ -82,7 +82,8 @@ one ui <!-- an android rom by samsung -->
 - status bar: notification style `none`
 - lock screen: show notifications `off`
 - do not disturb `on`
--
+  - hide notifications: when the screen is on
+    - (all) `on`
 
 ## display
 
