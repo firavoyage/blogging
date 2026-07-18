@@ -29939,3 +29939,23 @@ vscode builtin snippets for web works so well.
 
 ---
 
+fun. ive called an anonymous of 139 5605 5685. 
+
+<!-- the phone ui says "anhui". so i dialed it. (i dont wanna dial some heilongjiang or somewhere.) -->
+
+i kept asking "are you a real human". he seems to be a middle aged man.
+
+> 什么事!
+> 
+> 什么事!
+>
+> 是假人
+> 
+> 什么事!
+
+he only ended after a minute. fun.
+
+auto recording works. idk if transcription works.
+
+---
+
