@@ -42,10 +42,13 @@ one ui <!-- an android rom by samsung -->
 
 ## apps
 
-- default apps
+- <!-- choose --> default apps
   - browser app `firefox`
   - home app `lawnchair`
 - samsung app settings: messages: more settings: auto delete otp messages `on`
+- filter and sort: show system apps `on` <!-- unfortunately, phone is not shown in the list of "samsung app settings". you can search it and you can find the app for it though. -->
+  - call settings: call settings settings
+    - record calls: auto record calls `on`
 - remove
   - sogou keyboard
   - (all apps of zhcn names) <!-- no internationalization implies low quality. --> <!-- i guess i would just use paratheses. `[]` feels fit in a terminal. `{}` is like js template string. -->
