@@ -370,6 +370,13 @@ chmod +x rish
   - web archives
   - duolingo max
 
+# `chrome`
+
+<!-- if needed -->
+
+- toggle flags <!-- chrome://flags/#{flag} -->
+  - force-update-menu-type `none`
+
 # `metro`
 
 - now playing: now playing theme `plain`
