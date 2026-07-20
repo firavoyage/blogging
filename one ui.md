@@ -376,6 +376,18 @@ chmod +x rish
 
 - toggle flags <!-- chrome://flags/#{flag} -->
   - force-update-menu-type `none`
+  - unsafely-treat-insecure-origin-as-secure `enabled`
+    - fill in urls separated by comma <!-- e.g. http://192.168.1.50:80,http://192.168.1.55:80 -->
+- settings <!-- three dots --> <!-- now on chrome android, when you click and drag three dots, it just highlights the current item selected, no more ripple effects. idk. seems clearer. -->
+  - google services
+    - allow chrome sign-in `off` <!-- might be useful, doesnt seem needed though -->
+    - (telemetry) `off`
+    - touch to search `off` <!-- be explicit and aware, be careful when things become frictionless -->
+  - privacy and security
+    - safe browsing `off`
+  - homepage `off`
+- customize new tab page <!-- three dots -->
+  - (all) `off` <!-- well, google doodles, "account" (even wo login), ai mode, and incognito buttons are baked into new tab page. you could not install extensions. and it shows "discover - off" rather than hiding it completely (it's also quirky. when you disable it wo restarting chrome, the discover widget seems to be loading.). -->
 
 # `metro`
 
