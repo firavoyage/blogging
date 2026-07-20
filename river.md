@@ -30043,3 +30043,11 @@ fun. i would search her name on msgs.
 "sus spam/ads, reported 20 times"
 
 ---
+
+well, google ai mode brings some quite expressive animation on outline.
+
+when you tab onto a button, the google blue outline expands and shrinks back to the baseline. outlines are inconsistent across the page (idk if intended) on elements of the same role (e.g. button, link). and some unfocusable elements (layout divs) have outlines.
+
+no idea if they had imagined how it feels when you tab quickly.
+
+---
