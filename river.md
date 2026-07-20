@@ -29960,3 +29960,11 @@ he only ended after a minute. fun.
 auto recording works. idk if transcription works.
 
 ---
+
+8 calls blocked today.
+
+"sus spam/ads, reported 20 times"
+
+---
+
+

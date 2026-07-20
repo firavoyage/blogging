@@ -78,12 +78,18 @@ one ui <!-- an android rom by samsung -->
 
 ## notifications
 
-- app notifications: (all) `off`
+- app notifications
+  - (all) `off`
+  - 
 - status bar: notification style `none`
 - lock screen: show notifications `off`
 - do not disturb `on`
   - hide notifications: when the screen is on
     - (all) `on`
+- advanced settings
+  - notification history `on`
+  - wireless emergency alerts `off`
+  - manage notification categories for each app
 
 ## display
 
@@ -138,6 +144,7 @@ one ui <!-- an android rom by samsung -->
     - remove unwanted
 - side button: long press: `firefox`
 - screenshots and screen recordings: save screenshots in `~/Pictures/Screenshots`
+- blocked calls/msgs: notification about blocking `off`
 
 ## general management
 
