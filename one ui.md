@@ -78,9 +78,14 @@ one ui <!-- an android rom by samsung -->
 
 ## notifications
 
-- app notifications
+- app notifications <!-- enable advanced settings: manage notification categories for each app first -->
   - (all) `off`
-  - 
+  - show system apps <!-- three dots -->
+    - android system: notification categories: (all) `off` <!-- not grayed out <=> non critical -->
+    - digital wellbeing: notification categories: (all) `off`
+    - smart manager: notification categories: (all) `off`
+    - wallpaper services `off`
+    - wlan tips `off`
 - status bar: notification style `none`
 - lock screen: show notifications `off`
 - do not disturb `on`
@@ -89,7 +94,7 @@ one ui <!-- an android rom by samsung -->
 - advanced settings
   - notification history `on`
   - wireless emergency alerts `off`
-  - manage notification categories for each app
+  - manage notification categories for each app `on`
 
 ## display
 
