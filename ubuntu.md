@@ -1387,6 +1387,7 @@ sudo systemctl restart earlyoom
   - rust-lang.rust-analyzer
   - golang.go
   - sysoev.language-stylus
+  - tamasfe.even-better-toml
   <!-- view -->
   - yzhang.markdown-all-in-one
   - tomoki1207.pdf
@@ -3274,8 +3275,9 @@ pnpm add -g @earendil-works/pi-coding-agent
 pi install git:github.com/badlogic/pi-skills
 pi install npm:@juicesharp/rpiv-web-tools
 
-# program wo typos: cspell
+# program wo typos: cspell, typos
 pnpm add -g cspell
+cargo install typos-cli
 
 # chat w llms: open-webui, librechat
 # uv tool install open-webui # bloating
