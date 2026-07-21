@@ -45,7 +45,13 @@ one ui <!-- an android rom by samsung -->
 - <!-- choose --> default apps
   - browser app `firefox`
   - home app `lawnchair`
+- remove
+  - sogou keyboard
+  - (all apps of zhcn names) <!-- no internationalization implies low quality. --> <!-- i guess i would just use paratheses. `[]` feels fit in a terminal. `{}` is like js template string. -->
 - samsung app settings: messages: more settings: auto delete otp messages `on`
+- clash meta for android
+  - manage app if unused `off`
+  - running in background `unrestricted`
 - filter and sort: show system apps `on` <!-- unfortunately, phone is not shown in the list of "samsung app settings". you can search it and you can find the app for it though. -->
   - call settings: call settings settings <!-- i do not use phone calls. but it would be good to default to capture everything. it's better to screen record manually for chat apps and audio record (or take a vid) in the physical world. -->
     - record calls
@@ -57,9 +63,6 @@ one ui <!-- an android rom by samsung -->
       - phone number `1` <!-- effectively every number in some regions -->
       - blocked number criteria `when includes the number`
       - what to block `incoming calls only` <!-- on messages, there are conversations (spammers, or sometimes real ppl yk), contacts, and services (sms verification, default page selected on dock) -->
-- remove
-  - sogou keyboard
-  - (all apps of zhcn names) <!-- no internationalization implies low quality. --> <!-- i guess i would just use paratheses. `[]` feels fit in a terminal. `{}` is like js template string. -->
 
 ## sounds and vibration
 
