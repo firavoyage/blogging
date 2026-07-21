@@ -1386,6 +1386,7 @@ sudo systemctl restart earlyoom
   - ms-python.vscode-pylance
   - rust-lang.rust-analyzer
   - golang.go
+  - sysoev.language-stylus
   <!-- view -->
   - yzhang.markdown-all-in-one
   - tomoki1207.pdf
