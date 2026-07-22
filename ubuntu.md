@@ -1386,9 +1386,11 @@ sudo systemctl restart earlyoom
   - ms-python.vscode-pylance
   - rust-lang.rust-analyzer
   - golang.go
+  - tamasfe.even-better-toml
   - sysoev.language-stylus
   - thisismanta.stylus-supremacy
-  - tamasfe.even-better-toml
+  - mrmlnc.vscode-scss
+  - vunguyentuan.vscode-css-variables
   <!-- view -->
   - yzhang.markdown-all-in-one
   - tomoki1207.pdf

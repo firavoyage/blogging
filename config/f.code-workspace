@@ -69,6 +69,6 @@
 
     "files.associations": {
       "*.json": "jsonc"
-    }
+    },
   }
 }
