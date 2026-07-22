@@ -48,6 +48,8 @@ life and death are of no difference
 
 there are not so many people in the world <!-- ... that, like, make a difference -->
 
+silicon valley is the whole web
+
 the world _is_ unfair, and it does not have to be fair
 
 # pragmatism
