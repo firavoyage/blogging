@@ -499,6 +499,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 ## bakemonogatari (2009)
 
 - `1` 2026.07.21
+- `2` 2026.07.22
 
 # gaming
 
