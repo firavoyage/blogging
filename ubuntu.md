@@ -1544,6 +1544,7 @@ sudo systemctl restart earlyoom
   - _markdown.extension.onshifttabkey_ `shift tab`
   - _breadcrumbs.toggletoon_ _breadcrumbs.focusandselect_ `ctrl shift <` `ctrl shift .`
   - _breadcrumbs.focus_ `ctrl shift ;`
+  - _workbench.action.toggleAuxiliaryBar_ `ctrl alt b`
 
 ## `x11`
 
