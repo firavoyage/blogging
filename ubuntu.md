@@ -2228,11 +2228,10 @@ sudo systemctl restart earlyoom
     - filter lists: add `cookie notices`, `annoyances`.
   - automate: violentmonkey https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/
   - manage passwords: bitwarden https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/
-  - manage access to accounts: authenticator https://addons.mozilla.org/en-US/firefox/addon/auth-helper/
+  - access accounts: authenticator https://addons.mozilla.org/en-US/firefox/addon/auth-helper/
+  - export account login states: cookie editor https://addons.mozilla.org/en-US/firefox/addon/cookie-editor/
   - dev: react developer tools https://addons.mozilla.org/en-US/firefox/addon/react-devtools/
   - normalize the internet: snowflake https://addons.mozilla.org/en-US/firefox/addon/torproject-snowflake/
-
-https://addons.mozilla.org/en-US/firefox/addon/cookie-editor/
 
 ## `clocks`
 

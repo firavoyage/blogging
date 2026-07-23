@@ -30170,3 +30170,17 @@ no way for me to turn it <!-- auto sec scanning --> off.
 i have many git providers though.
 
 ---
+
+doesnt feel right. rm from readme.
+
+```md
+<!-- 一位中专校长, 来自上海, 中国大陆, 我是. -->
+
+<!-- I'm an otaku fascinated within her own world, believing existentialism, cynicism ~~daoism~~, determinism, and accelerationism, always overthinking and overengineering, lost herself in curiosity. -->
+
+<!-- I love to decide, to organize, and to simplify. -->
+
+<!-- And remember… don't be evil, and if you see something that you think isn't right – speak up! -->
+```
+
+---
