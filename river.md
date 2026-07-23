@@ -30141,3 +30141,12 @@ no idea if they had imagined how it feels when you tab quickly.
 
 ---
 
+github:
+
+> Password may be compromised
+> 
+> Password is in a list of passwords commonly used on other websites
+
+despite being green, the cursor becomes unclickable on create account.
+
+---
