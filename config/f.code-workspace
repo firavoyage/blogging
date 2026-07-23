@@ -20,10 +20,10 @@
       "name": "repo",
       "path": "../../f/repo"
     },
-    {
-      "name": "localhost",
-      "path": "../../f/localhost"
-    },
+    // {
+    //   "name": "localhost",
+    //   "path": "../../f/localhost"
+    // },
     {
       "name": "apps",
       "path": "../../f/apps"
