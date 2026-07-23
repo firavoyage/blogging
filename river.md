@@ -30184,3 +30184,8 @@ doesnt feel right. rm from readme.
 ```
 
 ---
+
+telegram desktop can show context menu below screen.
+
+---
+
