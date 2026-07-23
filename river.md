@@ -30150,3 +30150,23 @@ github:
 despite being green, the cursor becomes unclickable on create account.
 
 ---
+
+github:
+
+```
+Action needed: Secrets detected in firavoyage/f
+  
+Please resolve these alerts
+ Anyone with read access can view exposed secrets. Consider rotating and revoking each valid secret to avoid any irreversible damage.
+ 
+Google API Key
+Review secret detected in ...gle ai mode text styling.md#L2455 • commit cdcfb125	
+```
+
+wow. i exposed their api key coz i pasted their "view source" html page. 
+
+no way for me to turn it <!-- auto sec scanning --> off.
+
+i have many git providers though.
+
+---

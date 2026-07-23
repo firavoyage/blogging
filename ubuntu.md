@@ -2223,6 +2223,16 @@ sudo systemctl restart earlyoom
 
 - install persistent side loaded extensions <!-- might not work with standard version. might not work fine even on dev versions. -->
   - about:config `xpinstall.signatures.required` `false`
+- install extensions
+  - simplify: ublock origin https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/
+    - filter lists: add `cookie notices`, `annoyances`.
+  - automate: violentmonkey https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/
+  - manage passwords: bitwarden https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/
+  - manage access to accounts: authenticator https://addons.mozilla.org/en-US/firefox/addon/auth-helper/
+  - dev: react developer tools https://addons.mozilla.org/en-US/firefox/addon/react-devtools/
+  - normalize the internet: snowflake https://addons.mozilla.org/en-US/firefox/addon/torproject-snowflake/
+
+https://addons.mozilla.org/en-US/firefox/addon/cookie-editor/
 
 ## `clocks`
 
