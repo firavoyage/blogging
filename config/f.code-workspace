@@ -53,6 +53,7 @@
       "**/.parcel/**": true,
       "**/.parcel-cache/**": true,
       "**/.playwright-mcp/**": true,
+      // Aliases
       "AGENTS.md": true,
       "CLAUDE.md": true,
       // "**/.vscode/**": true, // no vendor lock in
