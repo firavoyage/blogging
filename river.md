@@ -30204,4 +30204,12 @@ google ai mode takes theme pref when it loads. if you change, it doesnt care.
 
 ---
 
+english is well... mind blowing.
+
+> will pointer events none grab devtools selection
+
+> No, applying pointer-events: none will not prevent browser Developer Tools (DevTools) from selecting that element when you use the "Inspect Element" target tool.
+
+---
+
 
