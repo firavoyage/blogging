@@ -30200,3 +30200,8 @@ phigros is so weird.
 
 ---
 
+google ai mode takes theme pref when it loads. if you change, it doesnt care.
+
+---
+
+
