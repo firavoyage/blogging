@@ -1,0 +1,5 @@
+/* everything */
+
+::selection {
+  background-color: var(--color-bg-selection);
+}

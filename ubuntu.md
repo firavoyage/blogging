@@ -2184,9 +2184,8 @@ sudo systemctl restart earlyoom
 
 - install extensions
   - style: justblack https://chromewebstore.google.com/detail/just-black/aghfnjkcakhmadgdomlmlhhaocbkloab
-  - style: stylus <!-- download the mv2 version and load unpacked. https://github.com/openstyles/stylus -->
-    <!-- move to Documents/.storage -->
-    - lichess chessdotcom icons https://github.com/eigenpaul/lichess-custom-pieces/blob/main/chessdotcom.css
+  - style: stylus <!-- download the mv2 version and load unpacked from https://github.com/openstyles/stylus, move to Documents/.storage -->
+    - install `styles` <!-- f/blogging: config/styles, e.g. lichess chessdotcom icons https://github.com/eigenpaul/lichess-custom-pieces/blob/main/chessdotcom.css -->
   - simplify: ublock origin https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm
     - filter lists: add `cookie notices`, `annoyances`.
     - my fliters: `browser ublock origin.txt`
