@@ -1,5 +1,9 @@
 /* everything */
 
 ::selection {
-  background-color: var(--color-bg-selection);
+  background-color: color-mix(in srgb, oklch(61.4% 0.164 255) 30%, transparent);
+}
+
+::selection:window-inactive {
+  background-color: color-mix(in srgb, oklch(67.5% 0 0) 20%, transparent);
 }
