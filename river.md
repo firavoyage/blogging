@@ -30223,3 +30223,15 @@ english is well... mind blowing.
 **aops**
 
 ---
+
+for some reasons, the us ip is down, into hk. and jp proxy revives.
+
+> Sorry, BBC iPlayer isn’t available in your region.
+> It looks like you’re outside of the UK. BBC iPlayer is only available in the UK. If you are using a proxy or VPN, please turn off any of these services and try again.
+> 
+> For help, please go to iPlayer help and FAQs
+
+ok, well, the uk outbound is seen as hk aw. 
+
+---
+
