@@ -5,7 +5,7 @@ with
 - Yutoca Leohearts✨, 芋头 `PotatoLeohearts` 芋头贸易中心 `atLeohearts` 芋头今天吃什么😺 `whatdoespotatoeattoday`
 - 大曼波 小盐神✨ `cyan_nyan` 黑客少女的日常 THG's Official Ch. `vtbcyan` 黑客少女后勤团✨ `-1003064454690`
 - Menci 💖 `mencici` 307 Temporary Redirect `lcMenci` About Menci `Menciqwq` Memory Archive ✨ `-1001716593949`
-- 千雪的中转站 `chiyuki0325` 斬風千雪 ❄️ `FlowingSnow` chykink -1002014163422
+- 斬風千雪 ❄️ `FlowingSnow` 千雪的中转站 `chiyuki0325` 千雪的咖啡厅：重定向 ☕️ `chykink` 千雪的北漂生活 | Codex 大战 Xcode 🧠 `-1002014163422` 302 `chiyukichat` 雪织风 ❄️ `-1002009660546`
 - f `firavoyage` journal `journal_md` precious `thepreciouschin` ref `fira_ref` sns `fira_sns` `-1003899165706` Paste `fira_paste` Temp `fira_tmp` journal `logfira` Humility `humilityhq` MAi Deluxe `MAi_Deluxe`
 - Steven Lynn `stvlynn` stvlynn/Gateway `stvgateway` Lynn's Digest `lynndigest` Steven’s Diary | 为0700.hk卖命中 `stv_diary`
 - Acbox Neko `acboxawa` 箱子跑来跑去📦 `acbox_space` 📦箱子今天入葬了没 `acboxlol` Project Memoh `memohai` Oh My GitHub `ohmygithub`
@@ -213,4 +213,12 @@ with
 - 天王寺 温丝洛 loves you `TenguYoukai` 来生宽恕你。 `AfterlifeMercy` 此生怨恨你。 `LifetimeHate`
 - 极地萤火 (橙子) `alampy` 极地萤火 (橙子) | Feed `alampy_feed` 极地萤火 (橙子) | Chat `alampy_chat`
 - Avrova Donz🍥 FTX|09年大龄持证含糖|今天也是努力活着的小猫 喵～|想被抱16y.o🏳️‍🌈 是瑟瑟发情猫猫喵～|想成为家猫|希望可以成为更好的rbq|坐标温尼伯可爱药娘快来贴 `AvrovaDonz` Donz NSFW Daily `DonzNSFWDaily`
-- huige `huige233` less♾️ `huigeLife` none —— 闲聊欢迎 
+- huige `huige233` less♾️ `huigeLife` none —— 闲聊欢迎 `-1001947803864`
+- 芥 `cprara` 草草心 `whentoretire`
+- 离 `Iridoideae` 路标 `waypoint_t` 残片 `ZN9Fragments` 草 `GrassEverywhere`
+- Equilibrium `Equiliw` Equilibrium.Prelude `Equiliqwq` Equilibrium.Collection `-1003181874337`
+- LinYun `lin_but_killed` LinYun's Life 林云窝 `LinYunChannel`
+- Well Honey `kevin335200` Well Honey's Channel `well_honey_channel`
+- Nika `lysenika` Veronika's Sanctuary 🦊 `dontlookthere`
+- 悟元 孙 `wuyuandev` Moonrend（零猫社区） `moonrenddev`
+- ACh Sulfate -Xzygote -Xusejit:true `Auride` 盐酸乙酰胆碱 `teb1e`
