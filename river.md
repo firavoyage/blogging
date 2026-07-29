@@ -505,6 +505,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `5` 2026.07.26
 - `6` 2026.07.27
 - `7` 2026.07.28
+- `8` 2026.07.29
 
 ## yani neko (2026)
 
