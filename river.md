@@ -30377,3 +30377,10 @@ adhd?
 
 ---
 
+废萌: Moege, Charage
+
+moe already implies "nothing but moe". everyday life.
+
+---
+
+
