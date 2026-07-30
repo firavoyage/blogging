@@ -3,7 +3,7 @@ with
 <!-- f -->
 
 - Yutoca Leohearts✨, 芋头 `PotatoLeohearts` 芋头贸易中心 `atLeohearts` 芋头今天吃什么😺 `whatdoespotatoeattoday`
-- 大曼波 小盐神✨ `cyan_nyan` 黑客少女的日常 THG's Official Ch. `vtbcyan` 黑客少女后勤团✨ `-1003064454690`
+- 大曼波 小盐神✨ `cyan_nyan` 黑客少女的日常 THG's Official Ch. `vtbcyan` 黑客少女后勤团✨ `-1003064454690` 赛博盐喵 `cyangroup_bot`
 - Menci 💖 `mencici` 307 Temporary Redirect `lcMenci` About Menci `Menciqwq` Memory Archive ✨ `-1001716593949`
 - 斬風千雪 ❄️ `FlowingSnow` 千雪的中转站 `chiyuki0325` 千雪的咖啡厅：重定向 ☕️ `chykink` 千雪的北漂生活 | Codex 大战 Xcode 🧠 `-1002014163422` 302 `chiyukichat` 雪织风 ❄️ `-1002009660546`
 - f `firavoyage` journal `journal_md` precious `thepreciouschin` ref `fira_ref` sns `fira_sns` `-1003899165706` Paste `fira_paste` Temp `fira_tmp` journal `logfira` Humility `humilityhq` MAi Deluxe `MAi_Deluxe`
@@ -199,7 +199,7 @@ with
 - Session Hikari `SessX6cf` SESS@iX `sesstimes` SESSのNO#TIMES `-1002192426444`
 - Rossi🪎 `Ross1na` Hyacine🦄 Gallery `HyacineGallery` Akasha Terminal: dev🍃 `AkashaTerminal`
 - 残滓 `zzzanshi` 残滓 `zzanshi`
-- 雪菜馅的涟漪 Ayanami `ayanami_rin0` 啊呀纳米饿饿饿🍖🍖🍖 `ayanami_rin`
+- 雪菜馅的涟漪 Ayanami `ayanami_rin0` 啊呀纳米饿饿饿🍖🍖🍖 `ayanami_rin` 啊呀纳米吃吃吃🍤🍤🍤 `Ayanami_rin0eat`
 - Haru.Gateway `HaruGateway2025` Haru 的观测站 `-1002505551799`
 - AkiChan's channel `sbgatools`
 - Victrix 🏳️‍⚧️ "VZstless" Cheung `VZstless` Prisoner / Escort `prisoner_escort` VZCAFE `-1002917370048`
