@@ -130,6 +130,8 @@ one ui <!-- an android rom by samsung -->
 - now bar: audio broadcast, media player `on`
 - now bar: (all others) `off`
 - touch and hold to edit `off`
+- edit lock screen
+  - replace `phone` with `voice recorder` <!-- a widget would reduce one step. dk if it matters. the tradeoff is screen real estate and attention. but as i never use phone call, it's automatically better. -->
 
 ## security and privacy
 
