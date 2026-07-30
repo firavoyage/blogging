@@ -199,7 +199,7 @@ with
 - Session Hikari `SessX6cf` SESS@iX `sesstimes` SESSのNO#TIMES `-1002192426444`
 - Rossi🪎 `Ross1na` Hyacine🦄 Gallery `HyacineGallery` Akasha Terminal: dev🍃 `AkashaTerminal`
 - 残滓 `zzzanshi` 残滓 `zzanshi`
-- 雪菜馅的涟漪 Ayanami `ayanami_rin0` 啊呀纳米饿饿饿🍖🍖🍖 `ayanami_rin` 啊呀纳米吃吃吃🍤🍤🍤 `Ayanami_rin0eat`
+- 雪菜餡的漣漪 Ayanami🍤 `ayanami_rin0` 啊呀纳米饿饿饿🍖🍖🍖 `ayanami_rin` 啊呀纳米吃吃吃🍤🍤🍤 `Ayanami_rin0eat`
 - Haru.Gateway `HaruGateway2025` Haru 的观测站 `-1002505551799`
 - AkiChan's channel `sbgatools`
 - Victrix 🏳️‍⚧️ "VZstless" Cheung `VZstless` Prisoner / Escort `prisoner_escort` VZCAFE `-1002917370048`
