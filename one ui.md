@@ -313,9 +313,12 @@ chmod +x rish
 ./rish
 ```
 
-# `files`
+# `files` <!-- material files -->
 
 - remove `~/Music/Samsung`
+- bookmarks
+  - screenshots
+  - screen recordings
 
 # `play`
 

@@ -2200,6 +2200,7 @@ sudo systemctl restart earlyoom
   - automate captcha solving: buster https://chrome.google.com/webstore/detail/mpbjkejclgfgadiemmefgebjfooflfhl <!-- theoretically highly possible, but practically unexpectedly reliable -->
   - manage passwords: bitwarden https://chromewebstore.google.com/detail/bitwarden-password-manage/nngceckbapebfimnlniiiahkandclblb
     - remove shortcuts chrome://extensions/shortcuts <!-- use a nonsensical placeholder like ctrl shift 0 if needed -->
+    - account security: session timeout: timout `never`
   - manage access to accounts: authenticator https://chromewebstore.google.com/detail/authenticator/bhghoamapcdpbohphigoooaddinpkbai
   - manage multiple accounts: cookie profile switcher https://chromewebstore.google.com/detail/cookie-profile-switcher/dicajblfgcpecbkhkjaljphlmkhohelc
   - manage crypto accounts: meta mask https://chrome.google.com/webstore/detail/nkbihfbeogaeaoehlefnkodbefgpgknn <!-- deprecated. incompatible without the extension. -->
@@ -2224,6 +2225,7 @@ sudo systemctl restart earlyoom
     - filter lists: add `cookie notices`, `annoyances`.
   - automate: violentmonkey https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/
   - manage passwords: bitwarden https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/
+    - account security: session timeout: timout `never`
   - access accounts: authenticator https://addons.mozilla.org/en-US/firefox/addon/auth-helper/
   - export account login states: cookie editor https://addons.mozilla.org/en-US/firefox/addon/cookie-editor/
   - dev: react developer tools https://addons.mozilla.org/en-US/firefox/addon/react-devtools/
