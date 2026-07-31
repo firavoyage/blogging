@@ -193,7 +193,6 @@ with
 - blowin’ in the wind `blowind`
 - Frost's Notes `fming_weekly`
 - Soil Zhu 🍀 `mintrainy` 雨里下着薄荷🍀@立夏 `soilzhuu` SoilZhu 今天和 llm 聊了啥 `talkwithllm`
-- 一号特大桥 `weblogue`
 - Sky's Daily `skys_daily`
 - 混柠土 `LemonNekoTGBot` 柠檬猫飘来飘去 🍋 `action_log_of_52n`
 - Session Hikari `SessX6cf` SESS@iX `sesstimes` SESSのNO#TIMES `-1002192426444`
@@ -222,3 +221,6 @@ with
 - Nika `lysenika` Veronika's Sanctuary 🦊 `dontlookthere`
 - 悟元 孙 `wuyuandev` Moonrend（零猫社区） `moonrenddev`
 - ACh Sulfate -Xzygote -Xusejit:true `Auride` 盐酸乙酰胆碱 `teb1e`
+- 冷吟闲醉 `Astrioia` <!-- 一号特大桥 --> 随感、杂考、前方展望 `weblogue`
+
+
