@@ -133,6 +133,9 @@ flatpak install -y flathub com.mattjakeman.ExtensionManager
 # check battery
 sudo apt install -y acpi
 
+# hack network
+sudo apt install -y iw aircrack-ng
+
 # find: rg, grep, tree, find, fdfind, ack
 sudo apt install -y ripgrep grep tree findutils fd-find ack
 # usage: find . -maxdepth 2 -path '*/.*' -prune -o -print
