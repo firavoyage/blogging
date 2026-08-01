@@ -30384,4 +30384,10 @@ moe already implies "nothing but moe". everyday life.
 
 ## aug 2026
 
+the earphone might be connected all night, calculating nc, wasting power.
+
+active usage, counterintuitively, doesnt consume much battery.
+
+---
+
 
