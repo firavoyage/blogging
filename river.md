@@ -30390,4 +30390,12 @@ active usage, counterintuitively, doesnt consume much battery.
 
 ---
 
+i may forget what i were about to do.
 
+not sth critical, i remind myself. maybe i just take it easy and move on.
+
+but later, when i realize, i would say that is what i would be about to do.
+
+like, open an app. play a game. play a song. learn some vocab. search a topic. research and make some confident choices. append todo. add sth to my digital memories. write down an idea.
+
+---
