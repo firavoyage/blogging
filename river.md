@@ -30399,3 +30399,21 @@ but later, when i realize, i would say that is what i would be about to do.
 like, open an app. play a game. play a song. learn some vocab. keep a habit. remind myself sth later. search a topic. research and make some confident choices. append todo. add sth to my digital memories. write down an idea.
 
 ---
+
+a simple math.
+
+idv. how do ppl progress. there are one time rewards. daily and weekly rewards.
+
+daily. some trivial rewards. play three games. have a small amount of coins for characters and skins. three first draw/win you get double, well, that counts to the weekly limit.
+
+weekly limit 42k. assume a game 500, and ten min a game.
+
+let's say you play everyday. you have to play like 12 games a day.
+
+that's two hours a day. quite a lot actually.
+
+competitive full (rank) time players would get it anyway.
+
+btw, on low rank, ten min a game might be an over estimation. and a game 500 might be a bit too high. these two would even out i guess.
+
+---
