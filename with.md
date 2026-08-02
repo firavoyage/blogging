@@ -204,7 +204,7 @@ with
 - Victrix 🏳️‍⚧️ "VZstless" Cheung `VZstless` Prisoner / Escort `prisoner_escort` VZCAFE `-1002917370048`
 - 🥭芒果刀 `daoge_cmd` 🕊の碎碎念 | Channel `daoge_channel` 🕊の碎碎念 | Chat `daoge_chat`
 - ShellWen Chen `ShellWenBear` 
-- Clansty `clansty` `clanstty` 凌莞的奇奇怪怪的分享 `ttyUSB0w`
+- Clansty `clansty` `clanstty` 凌莞的奇奇怪怪的分享 `ttyUSB0w` 凌莞的 SRS 记录 `+juHjVxNKsIhkYjll`
 - Pio Wonsler | 连放料点鼠标都被拒的倒霉猴 `piowonsler` TuskedEvening0's Announcing/Guiding Channel `TuskedE0Channel`
 - 纯小亦 `chunxiaoyi` chunxiaoyi's gateway `level_chunxiaoyi` 小亦今天看了什么 `-1001662151728` 🌹小亦夕阳红交流二群 `-1001676437063`
 - omikerong `omikerong` omi 的留言板 `-1001875175632`
