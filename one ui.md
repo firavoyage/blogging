@@ -198,11 +198,9 @@ one ui <!-- an android rom by samsung -->
       - mobile data
       - mobile hotspot
       - location
-      - take screenshot <!--idk why they use verb noun here, maybe it could be more intuitive when inconsistent -->
+      - take screenshot <!-- idk why they use verb noun here, maybe it could be more intuitive when inconsistent -->
       - screen recorder
       - eye comfort shield
-      - scan qr code
-      - audio broadcast <!-- through bluetooth -->
     - brightness slider
     - volume slider
     - media output
