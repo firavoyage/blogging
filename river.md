@@ -30444,5 +30444,14 @@ rg.
 
 ---
 
+it's a bit weird. 
 
+"凌莞的 SRS 记录"
 
+tg doesnt show on web. when i search and then click the link, im in.
+
+suddenly, it says "error channel private" (when online). and i have to join before reading, if i refresh the page.
+
+i dont think they toggled the setting in these exact minutes.
+
+---
