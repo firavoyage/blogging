@@ -68,6 +68,7 @@ one ui <!-- an android rom by samsung -->
 
 <!-- it focuses on the current selection by default. scroll up to see "silent". -->
 
+- sounds and vibration `mute`
 - ringtone `silent`
 - notification sound `silent`
 - system sound: (all) `off` <!-- i would use (all) instead of `*` -->
