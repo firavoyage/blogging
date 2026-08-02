@@ -30455,3 +30455,19 @@ suddenly, it says "error channel private" (when online). and i have to join befo
 i dont think they toggled the setting in these exact minutes.
 
 ---
+
+"only some acc can reply"?
+
+well you could be clearer.
+
+if it could be already inferred, you could simply say "those they follow, or those who they follow follow"
+
+---
+
+i think it's actually quite trivial of ppl's home.
+
+furniture. decor. pets. 
+
+i wouldnt archive if i couldnt do it automatically.
+
+---
