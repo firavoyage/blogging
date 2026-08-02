@@ -30419,4 +30419,18 @@ btw, on low rank, ten min a game might be an over estimation. and a game 500 mig
 
 ---
 
+<!-- a blonde haired old (e.g. fourties, fifties, or sixties) woman from peking center. -->
+
+do you wear headphone? why?
+
+do you go shopping? why?
+
+sheet: travelling. when. where. would you recommend to frnds.
+
+japan. as a maimai addict... anime... bangumis... where they are shot... i dont even have to recommend it to frnds, as they absolutely know jp is where it's originated.
+
 do ppl in china tend to travel inside or outside china?
+
+<!-- she's very proactive and never leave me embarassed. i could always speak more, but she knows when to stop naturally. and, she only asks a simple "why" after i finish answering. -->
+
+---
