@@ -30418,3 +30418,5 @@ competitive full (rank) time players would get it anyway.
 btw, on low rank, ten min a game might be an over estimation. and a game 500 might be a bit too high. these two would even out i guess.
 
 ---
+
+do ppl in china tend to travel inside or outside china?
