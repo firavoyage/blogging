@@ -60,7 +60,7 @@ one ui <!-- an android rom by samsung -->
         - auto transcribe recorded calls and direct voicemail `on`
       - auto record calls `on`
     - call blocking: blocked numbers: add manually <!-- block all spams -->
-      - phone number `1` <!-- effectively every number in some regions -->
+      - phone number `1` `0` <!-- effectively every number in some regions -->
       - blocked number criteria `when includes the number`
       - what to block `incoming calls only` <!-- on messages, there are conversations (spammers, or sometimes real ppl yk), contacts, and services (sms verification, default page selected on dock) -->
 
@@ -89,6 +89,7 @@ one ui <!-- an android rom by samsung -->
     - smart manager: notification categories: (all) `off`
     - wallpaper services `off`
     - wlan tips `off`
+- hide content while locked `hide when locked`
 - status bar: notification style `none`
 - lock screen: show notifications `off`
 - do not disturb `on`
@@ -97,6 +98,8 @@ one ui <!-- an android rom by samsung -->
 - advanced settings
   - notification history `on`
   - wireless emergency alerts `off`
+  - floating notifications `off`
+  - app icon badges `off`
   - manage notification categories for each app `on`
 
 ## display
