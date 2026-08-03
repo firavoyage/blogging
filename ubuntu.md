@@ -3223,6 +3223,9 @@ curl -fsSL https://raw.githubusercontent.com/mkasberg/ghostty-ubuntu/HEAD/instal
 sudo apt install -y gnome-terminal # terminal, the legacy
 flatpak install -y flathub app.devsuite.Ptyxis # terminal, the modern
 
+# convert things
+uv tool install chepy
+
 # program: mg (used by linus torvalds, on a personal fork though)
 sudo apt install -y mg
 
