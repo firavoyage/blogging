@@ -102,7 +102,7 @@ one ui <!-- an android rom by samsung -->
 - hide content while locked `hide when locked`
 - status bar: notification style `none`
 - lock screen: show notifications `on` <!-- essential for now bar -->
-  - notification style `dot`
+  - notification style `dot` <!-- well it has some quirks i feel. it might show a dot for a sec due to cache or sth, and remove it. -->
 - do not disturb `on`
   - hide notifications: when the screen is on
     - (all) `on`
