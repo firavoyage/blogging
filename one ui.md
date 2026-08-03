@@ -60,7 +60,7 @@ one ui <!-- an android rom by samsung -->
         - auto transcribe recorded calls and direct voicemail `on`
       - auto record calls `on`
     - call blocking: blocked numbers: add manually <!-- block all spams -->
-      - phone number `1` `0` <!-- effectively every number in some regions -->
+      - phone number `(each 0..9)` <!-- just in case. no need to overthink (yes, cases do exist), just, setup and you can forget. --> ~~phone number `1` `0` <!-- effectively every number in some regions -->~~
       - blocked number criteria `when includes the number`
       - what to block `incoming calls only` <!-- on messages, there are conversations (spammers, or sometimes real ppl yk), contacts, and services (sms verification, default page selected on dock) -->
 
