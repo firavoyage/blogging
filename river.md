@@ -30486,6 +30486,34 @@ i wouldnt archive if i couldnt do it automatically.
 
 对顺的印象.
 
-顺女好像不倾向于炫耀或挖苦. 这会让人舒服许多.
+顺女好像不倾向于炫耀 <!-- 或挖苦 -->. 这会让人舒服许多.
+
+---
+
+i just feel i could wear glasses inside headphone.
+
+i could wear it above headphone aw.
+
+a personal pref.
+
+i did not realize i could just wear it inside, ignore, and move on.
+
+well... letme test.
+
+i feel i could hear the typing anyway.
+
+---
+
+```sh
+ ~ % cd Projects
+ ~/Projects % cd mtfwiki
+ ~/Projects/mtfwiki % rg '舞萌'
+content/zh-cn/docs/breast-augmentation/breast-overview.md
+24:你说多次？不好意思，因为需要从大腿内侧（不够就再从腹部）取足量的脂肪，对于之前就很注重身材管理的姐妹们来说其实根本不够。本来指派男性的体脂率就偏低，如果再是个<del>舞萌痴</del>运动狂就更捉襟见肘了，BMI 小于 28 的都不太用考虑（然而大于 28 的也不太能 SRS 啊）。
+```
+
+contrary to my expectation, it doesnt appear a lot.
+
+no results for maimai or mai.
 
 ---
