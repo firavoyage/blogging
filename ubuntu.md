@@ -1702,7 +1702,7 @@ sudo systemctl restart earlyoom
 
   `repo: fonts`
 
-  - copy the full fonts folder as a subfolder under `~/.local/share/fonts`
+  - copy the full fonts folder as a subfolder under `~/.local/share/fonts/font`
 
   <!-- why full fonts folder: it handles things like subfolders, duplicates, changed filenames, unrelated files, well, while it does not seem to support VariableFont (e.g. font weights) well by default. -->
 
