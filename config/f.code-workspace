@@ -44,17 +44,23 @@
     // so damn frustrating and noisy, err when i have not finished typing
 
     "files.exclude": {
+      // // Legacy
       // "**/legacy/**": true,
-      // "**/node_modules/**": true,
-      "**/dist/**": true,
+      // Aliases
+      "**/AGENTS.md": true,
+      "**/CLAUDE.md": true,
+      // Deps
+      "**/node_modules/**": true,
+      // Build
+      "**/pnpm-lock.yaml": true,
+      "**/bun.lock": true,
+      "**/build/**": true,
       "**/.build/**": true,
       "**/.vite/**": true,
       "**/.parcel/**": true,
       "**/.parcel-cache/**": true,
-      "**/.playwright-mcp/**": true,
-      // Aliases
-      "AGENTS.md": true,
-      "CLAUDE.md": true,
+      // Static
+      "**/.npmrc": true,
       // "**/.vscode/**": true, // no vendor lock in
       // "**/.git/**": true, // ignored by default
     },
