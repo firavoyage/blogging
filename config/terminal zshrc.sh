@@ -95,9 +95,9 @@ whereami() {
 }
 
 repo_save() {
-  cd ~
+  cd ~/Documents
 
-  cd Documents/f
+  cd f
   git add .
   git commit -m '.' || true
   cd ..
@@ -137,9 +137,9 @@ repo_sync() {
   # set -e  # no need to stop, rather push more, not less
   echo "Starting push..."
 
-  cd ~
+  cd ~/Documents
 
-  cd Documents/f
+  cd f
   git push -f g
   git push -f a
   git push -f e

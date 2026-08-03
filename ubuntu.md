@@ -639,7 +639,7 @@ sudo systemctl restart earlyoom
       },
       "git.enabled": false,
       "files.autoSaveDelay": 500,
-      "files.autoSave": "onFocusChange",
+      "files.autoSave": "onFocusChange"
     }
     ```
 
@@ -1399,7 +1399,7 @@ sudo systemctl restart earlyoom
   - jasonheld.jsonl-pretty-editor
   - unifiedjs.vscode-mdx <!-- seems it blocks some shortcuts like ctrl b (expected open sidebar, currently no effect or toggle bold) on mdx files -->
     - extension page: gear icon: keyboard shortcuts: (all) `(removed)`
-  <!-- program -->
+    <!-- program -->
   - saoudrizwan.claude-dev <!-- cline -->
   <!-- ship -->
   - github.vscode-pull-request-github
@@ -1699,15 +1699,9 @@ sudo systemctl restart earlyoom
 ## `fonts`
 
 - install fonts
-
-  `repo: fonts`
-
-  - copy the full fonts folder as a subfolder under `~/.local/share/fonts/font`
-
-  <!-- why full fonts folder: it handles things like subfolders, duplicates, changed filenames, unrelated files, well, while it does not seem to support VariableFont (e.g. font weights) well by default. -->
-
-  <!-- why `~/.local/share/fonts/fonts/myfont...` instead of `~/.local/share/fonts/myfont...`: later we will put some processed noto sans on `~/.local/share/fonts/noto...`, so having an extra nested fonts folder is actually clearer -->
-
+  - put all fonts from `f/fonts` under `~/.local/share/fonts/fonts` <!-- have one more nesting level as later we will put some processed noto sans on `~/.local/share/fonts/noto...`. btw it handles subfolders and duplicates well. -->
+- normalize default font variant on chromium <!-- if chromium prefers the condensed one by default  -->
+  - search and delete all files incl. `VariableFont` `condensed` or `compressed`
 - prefer sc for kanji
 
   - replace the font files with sc at first <!-- optimal -->
@@ -1946,8 +1940,6 @@ sudo systemctl restart earlyoom
       echo "Done."
       ```
 
-- normalize default font variant on chromium <!-- if needed, in case chromium prefers the condensed variant by default  -->
-  - search and remove all "condensed", "compressed", or "VariableFont" fonts <!-- on nautilus (files) -->
 - apply <!-- log out -->
 
   ```sh
@@ -2252,13 +2244,13 @@ sudo systemctl restart earlyoom
 
 ## `git`
 
-- config 
+- config
 
   ```
   # name myself
   git config --global user.name "Fira"
   git config --global user.email "xoyage@gmail.com"
-  
+
   # memoize secrets (trade security for easiness)
   git config --global credential.helper store
 
