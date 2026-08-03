@@ -82,26 +82,30 @@ one ui <!-- an android rom by samsung -->
 
 ## notifications
 
-- app notifications <!-- enable advanced settings: manage notification categories for each app first -->
-  - (all) `off`
-  - show system apps <!-- three dots -->
-    - android system: notification categories: (all) `off` <!-- not grayed out <=> non critical -->
-    - digital wellbeing: notification categories: (all) `off`
-    - smart manager: notification categories: (all) `off`
-    - wallpaper services `off`
-    - wlan tips `off`
-- hide content while locked `hide when locked`
-- status bar: notification style `none`
-- lock screen: show notifications `off`
-- do not disturb `on`
-  - hide notifications: when the screen is on
-    - (all) `on`
 - advanced settings
   - notification history `on`
   - wireless emergency alerts `off`
   - floating notifications `off`
   - app icon badges `off`
   - manage notification categories for each app `on`
+- app notifications: show system apps <!-- three dots -->
+  - android system: notification categories: (all) `off` <!-- not grayed out <=> non critical -->
+  - clock `on`
+  - metro `on`
+  - voice recorder `on`
+  - (others) `off`
+  - digital wellbeing: notification categories: (all) `off`
+  - samsung capture `off` <!-- maybe just leave it on? like ubuntu. it doesnt matter i guess.  -->
+  - smart manager: notification categories: (all) `off`
+  - wallpaper services `off`
+  - wlan tips `off`
+- hide content while locked `hide when locked`
+- status bar: notification style `none`
+- lock screen: show notifications `on` <!-- essential for now bar -->
+  - notification style `dot`
+- do not disturb `on`
+  - hide notifications: when the screen is on
+    - (all) `on`
 
 ## display
 
@@ -131,8 +135,9 @@ one ui <!-- an android rom by samsung -->
 
 ## lock screen and aod
 
-- now bar: audio broadcast, media player `on`
-- now bar: (all others) `off`
+- now bar <!-- live notifications -->
+  - audio broadcast, clock, media player, voice recorder `on`
+  - (others) `off`
 - touch and hold to edit `off`
 - edit lock screen
   - replace `phone` with `voice recorder` <!-- a widget would reduce one step. dk if it matters. the tradeoff is screen real estate and attention. but as i never use phone call, it's automatically better. -->
