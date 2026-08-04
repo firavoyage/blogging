@@ -30618,3 +30618,25 @@ i remember there was a post where they (cs student from top university) wanted t
 maybe i could test vector search or llms.
 
 ---
+
+自己很讨厌跨畜.
+
+所有我讨厌的人都是跨畜.
+
+比如 yetone. 我讨厌她.
+
+也没有什么. 感觉 overhyped. 发一些形式上不是 spam 的但是实际上无聊的东西.
+
+有一些人会像正常人一样社交, 会发一些社交的图片. 我讨厌这样的人.
+
+随意. 中流. 恶心. 有时会令自己欣喜.
+
+一定要讨厌一些人. 一定要极端.
+
+人有信仰.
+
+每个人都有信仰 <!-- 无神论者 (im hint: ⚛?) 亦然. -->. 有时候, 被称作观念, 好恶. 不要这样说. 宁可主动.
+
+客观上, 情绪大概是暂时的. 也不至于解作憎恨或虔诚. 但语言是自由的. 也不必拘谨什么.
+
+---
