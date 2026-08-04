@@ -30585,9 +30585,16 @@ Automatic
 Light
 
 Dark
+
 Report an issue with dark mode
 ```
 
 i guess it should be "system" instead of "automatic"
 
+also, it feels... <!-- Report an issue with dark mode -->
 
+idk.
+
+that's how wikipedia works. i remember they did not change my username automatically. (for decades it even required letters to admins)
+
+---
