@@ -30555,7 +30555,11 @@ bought some maimai and chunithm.
 
 bought some tech devices to waste money.
 
-i dont play video games or socialize.
+i dont play mediocre for profit video games or socialize w philistines who couldnt understand me.
+
+took ielts. learnt some langs. took some notes and published them.
+
+pirated some high quality games though did not play.
 
 made some tech infra, that is abstractions.
 
@@ -30570,3 +30574,20 @@ researched and analyzed the web.
 organized human knowledge and made it universally accessible.
 
 ---
+
+wikipedia:
+
+```
+Color
+
+Automatic
+
+Light
+
+Dark
+Report an issue with dark mode
+```
+
+i guess it should be "system" instead of "automatic"
+
+
