@@ -30546,3 +30546,27 @@ no results for maimai or mai.
 空中荡漾的情绪也不一定意味着什么.
 
 ---
+
+"我好无聊啊..."
+
+was too boring.
+
+bought some maimai and chunithm.
+
+bought some tech devices to waste money.
+
+i dont play video games or socialize.
+
+made some tech infra, that is abstractions.
+
+created some educational content.
+
+took some drugs (estrogen) to waste time on social, training, and med.
+
+automated some hacks to farm game accounts.
+
+researched and analyzed the web.
+
+organized human knowledge and made it universally accessible.
+
+---
