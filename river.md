@@ -30611,3 +30611,10 @@ e.g. play maimai. then you would probably by killed from behind, yet you keep pl
 
 ---
 
+i did not manage to find that post by rg "开盒" or "性压抑" on zhihu archive.
+
+i remember there was a post where they (cs student from top university) wanted to find girls. they researched and figured out where girls leave comments. they analyzed each and researched their background via social engineering. they inquired llms (which discouraged that, due to left wing filters maybe).
+
+maybe i could test vector search or llms.
+
+---
