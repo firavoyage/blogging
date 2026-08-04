@@ -30598,3 +30598,16 @@ idk.
 that's how wikipedia works. i remember they did not change my username automatically. (for decades it even required letters to admins)
 
 ---
+
+"i am rich"
+
+"baby shaker"
+
+"smth"
+
+i thought you could have an app to know how to die. not typical suicide.
+
+e.g. play maimai. then you would probably by killed from behind, yet you keep playing until you lose too much blood.
+
+---
+
