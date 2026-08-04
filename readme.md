@@ -18,6 +18,8 @@ $fira$ `elegance`
 
 <!-- gravitated and spellbound -->
 
+<!-- perfertionism, procrastination, over engineering, premature optimization. -->
+
 > $welcome \space to \space hotel \space california$
 
 > $lucky \space \text{☆} \space star!$
