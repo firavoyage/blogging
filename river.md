@@ -30642,3 +30642,10 @@ maybe i could test vector search or llms.
 客观上, 情绪大概是暂时的. 也不至于解作憎恨或虔诚. 但语言是自由的. 也不必拘谨什么.
 
 ---
+
+"rehearsal" is actually psychologic.
+
+it's not similar to "summarization" or "paraphrasing" as an llm groupmate behavior.
+
+---
+
