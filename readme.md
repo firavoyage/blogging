@@ -18,7 +18,7 @@ $fira$ `elegance`
 
 <!-- gravitated and spellbound -->
 
-<!-- perfertionism, procrastination, over engineering, premature optimization. -->
+<!-- perfertionism and procrastination -->
 
 > $welcome \space to \space hotel \space california$
 
