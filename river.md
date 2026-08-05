@@ -30649,3 +30649,22 @@ it's not similar to "summarization" or "paraphrasing" as an llm groupmate behavi
 
 ---
 
+看了一些 advx 场景图片.
+
+<!-- background
+
+mio: 我在 advx 找到的伙伴, 前端能力甚至不如 chyk, 还不会用 agent.
+
+ -->
+
+well, i think they did not answer the main problem. 
+
+> who are the players
+>
+> what are the projects built
+>
+> what are the results of prev events
+
+ideology > utility.
+
+---
