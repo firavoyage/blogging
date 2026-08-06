@@ -162,7 +162,9 @@ one ui <!-- an android rom by samsung -->
   - manage action capsules and cards
     - remove unwanted
 - side button: long press: `firefox`
-- screenshots and screen recordings: save screenshots in `~/Pictures/Screenshots`
+- screenshots and screen recordings
+  - save screenshots in `~/Pictures/Screenshots`
+  - save screen recordings in `~/Pictures/Screen recordings`
 - blocked calls/msgs: notification about blocking `off`
 
 ## general management
