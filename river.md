@@ -30668,3 +30668,9 @@ well, i think they did not answer the main problem.
 ideology > utility.
 
 ---
+
+grow is about news i read.
+
+not analysis of historical debates like react v vue.
+
+---
