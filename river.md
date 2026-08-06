@@ -30717,3 +30717,23 @@ dify, could be the one. the conversative guys are not really incentivized to mov
 see how they reacted to low code platforms and non linear pm tools.
 
 ---
+
+somewhere i planned to archive the whole internet.
+
+like, all tg, all twitter, all blogs.
+
+where is it.
+
+well no need to find it now.
+
+just, also include the mhtmls. that's it.
+
+https://github.com/firavoyage/web/tree/master/blogs
+
+https://gitlab.com/firavoyage/web (yeah, user blocked, repos are still there)
+
+the problem is file metadata are not recorded by git.
+
+anyway. just use the commit date is fine.
+
+---
