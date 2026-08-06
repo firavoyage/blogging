@@ -30736,4 +30736,6 @@ the problem is file metadata are not recorded by git.
 
 anyway. just use the commit date is fine.
 
+<!-- upd: ah! as expected. have/todo. rg tells me. (i remember i used the term "clearnet"). i did init the repo even if the new repo templete is not ready, and there is only a todo there. -->
+
 ---
