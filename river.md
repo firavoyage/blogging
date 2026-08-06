@@ -30678,4 +30678,42 @@ not analysis of historical debates like react v vue.
 
 "一刀斩断烦恼根, 双手开辟幸福道."
 
+---
 
+yk, sometimes things doesnt work as you wish. nothing would last forever. yk existing things would be challenged by comers. paradigms would shift.
+
+yet, you wish they would stand firmly, even if yk they would be objectively weaker.
+
+ar was defeated by sp.
+
+trains arrive in villages. <!-- new things replace the old. -->
+
+that's a different story for ai startups.
+
+i wish they would come to an end. ik they are likely to cease to exist.
+
+look how much hypes there are.
+
+why would they develop memoh?
+
+they are rich. it doesnt matter to just care for a few mtfs away from home. <!-- 离家出走小药娘 -->
+
+and they believe that.
+
+about innei. it couldnt work.
+
+you might believe that. but they do not really outpeform the failed ones <!-- the ones shown in failure patterns -->.
+
+an exception i guess would be dify.
+
+they might not gain a traction. but they have the capability to be the msft office.
+
+no one uses office. markdown is better in all aspects. yeah you can edit anyway but you should store as md. it's objectively sub optimal even for office themselves to store in the proprietary formats on the user side.
+
+yet, it's ubiquitous in traditional industries.
+
+dify, could be the one. the conversative guys are not really incentivized to move even if coding agents are techinically superior.
+
+see how they reacted to low code platforms and non linear pm tools.
+
+---
