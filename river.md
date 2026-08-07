@@ -30739,3 +30739,36 @@ anyway. just use the commit date is fine.
 <!-- upd: ah! as expected. have/todo. rg tells me. (i remember i used the term "clearnet"). i did init the repo even if the new repo templete is not ready, and there is only a todo there. -->
 
 ---
+
+maybe you could auto categorize posts.
+
+i mean to classify in a rigid way.
+
+e.g. food. photography. text only. ppl.
+
+---
+
+i was a bit sleepy. my mind is foggy. yet i could think about things.
+
+i thought... what would i do
+
+- routing. that's easy. ive already figured out every part of it. i did not jump into impl as i dont want to code before bed. that would be unwise and probably inefficient.
+- complete the ui. that is the patterns. they do have to be designed. but these are basically abstractions. you can engineer anyway. you write abstraction just to feel elegant and satisfy your mental model.
+- args ux. i thought i was stuck. i was not. because i learned to accept the reality.
+- cd abstraction. i.e. join args w spaces. suddenly it just jumps to my mind. i absolutely have thought about it before. just a vague idea. nevertheless, it somehow connects sth in my brain.
+
+i almost forgot i have thought about cd abstraction.
+
+how much does it matter?
+
+again. it wouldnt matter much.
+
+if it truly matters, you would *have* to think about it over and over. you would dep it.
+
+or not.
+
+**sometimes you were inspired. if you did not write it down, you would be lost. you do need it. but you might not know you need it. often you were not even solving the right problem.**
+
+interesting.
+
+---
