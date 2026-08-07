@@ -30784,5 +30784,10 @@ the first sss plus (and the only till now), was shigihagi... skirt... lv 9.
 
 ---
 
+google ai mode makes citation panel bg transparent.
 
+modern design. border only.
 
+an aesthetic update.
+
+---
