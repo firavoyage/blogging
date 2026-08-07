@@ -639,7 +639,7 @@ $fira$ `elegance`
   - k-on! s2 (2010)
   - bakemonogatari (2009)
   - yani neko (2026)
-  - .onimai (2023)
+  - onimai (2023)
   - .air (2005)
   - .sword art online (2012)
   - .re: zero - starting life in another world (2016)

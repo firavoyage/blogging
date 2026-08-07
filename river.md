@@ -521,6 +521,10 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `3` 2026.08.03
 - `4` 2026.08.07
 
+## onimai (2023)
+
+- `1` 2026.08.08
+
 # gaming
 
 ## sr
