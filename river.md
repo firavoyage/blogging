@@ -30773,3 +30773,16 @@ or not.
 interesting.
 
 ---
+
+`maimai`
+
+the first song ive achieved sss was a variation of bad apple. <!-- upd: tetsuya... lv 6. -->
+
+it wasnt the highest difficulty. and i didnt have the habit of photo taking that time. yk, in the first days, you climb fast, and color changes happen a lot. <!-- yeah. it was advanced. not even expert. it was my first week maimai. -->
+
+the first sss plus (and the only till now), was shigihagi... skirt... lv 9.
+
+---
+
+
+
