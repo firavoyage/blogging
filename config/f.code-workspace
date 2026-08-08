@@ -4,10 +4,10 @@
       "name": "drafts",
       "path": "../../f/drafts"
     },
-    // {
-    //   "name": "humility",
-    //   "path": "../../f/humility"
-    // },
+    {
+      "name": "humility",
+      "path": "../../f/humility"
+    },
     {
       "name": "intuitive",
       "path": "../../f/intuitive"
