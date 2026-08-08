@@ -28,7 +28,7 @@ rather be a smashed jade than a whole clay tile
 
 avoid success at all costs
 
-# cynicism <!-- egoism -->
+# cynicism
 
 preserve or it would be lost
 
@@ -51,6 +51,20 @@ there are not so many people in the world <!-- ... that, like, make a difference
 silicon valley is the whole web
 
 the world _is_ unfair, and it does not have to be fair
+
+# egoism
+
+as human beings it is our right (maybe our moral duty) to reshape the universe to our preferences
+
+why. because why not. and because i can.
+
+if you share the opinions, you might benefit.
+
+if you are the silenced, you could be exploited, you might not.
+
+you could protest, if it hurts, whether or not it would work. <!-- populism -->
+
+we have no enemies nonetheless. you *will* understand. you dont have to.
 
 # pragmatism
 
