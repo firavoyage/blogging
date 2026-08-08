@@ -30810,6 +30810,6 @@ i mean, by saying non trivial... well, if whatever path she went would be non tr
 
 it's not.
 
-there is another path, which the vast majority takes, that is being unconscious and not making decisions.
+there is another path, which the vast majority takes, that is being unconscious and not making decisions, resulting in forced decisions and a life dulled.
 
-
+---
