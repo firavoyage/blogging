@@ -62,6 +62,4 @@ there are times when you have to make the best out of the current situation
 
 humans are messy creatures, gravitated and spellbound by impulses, <!-- personal --> biases, and heuristics.
 
-professionalism, as a filter, gives you purpose.
-
-in the long term game.
+professionalism, as a filter, gives you purpose, in the long term game.
