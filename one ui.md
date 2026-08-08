@@ -263,6 +263,7 @@ one ui <!-- an android rom by samsung -->
     - system icon: vpn `off`
 - sound assistant
   - customize volume panel `on` <!-- adjust the volume of specific apps just in time -->
+  - individual app volume `(all apps that can play sound)`
   - multi sound: all apps `on` <!-- `(aggressive muters)` --> <!-- prevent an app from muting others -->
 
 # `clash meta`
