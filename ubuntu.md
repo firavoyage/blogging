@@ -2259,6 +2259,9 @@ sudo systemctl restart earlyoom
 
   # normalize connectivity
   git config --global http.sslVerify false
+
+  # normalize file rename correctness (instead of moved or deleted), trading off perf
+  git config --global diff.renameLimit 0
   ```
 
 - setup secrets
