@@ -2,11 +2,11 @@ one ui <!-- an android rom by samsung -->
 
 <!-- one ui 8, zhcn ver -->
 
-# onboarding
+# `welcome` <!-- onboarding -->
 
 - language `en-us`
 - insert sim card
-- opt out all optional checkboxes
+- opt out everything
 
 # `settings`
 
