@@ -30798,6 +30798,18 @@ an aesthetic update.
 
 from traumatic family backgrounds they are statistically more likely to become mtfs.
 
-heavily influenced by internet culture
+heavily influenced by modern internet, they flip, though they would be psychologically incentivized to admit their identity were derived by their nature rather than the social culture.
+
+i would like to say she is non trivial, whether or not she flips.
+
+she's aware.
+
+whatever actions she took, whatever decisions she made, it would be non trivial.
+
+i mean, by saying non trivial... well, if whatever path she went would be non trivial, "non trivial" itself would be thus logically trivial.
+
+it's not.
+
+there is another path, which the vast majority takes, that is being unconscious and not making decisions.
 
 
