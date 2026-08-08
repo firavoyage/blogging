@@ -30795,3 +30795,9 @@ modern design. border only.
 an aesthetic update.
 
 ---
+
+from traumatic family backgrounds they are statistically more likely to become mtfs.
+
+heavily influenced by internet culture
+
+
