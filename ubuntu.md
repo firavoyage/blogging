@@ -1370,6 +1370,51 @@ sudo systemctl restart earlyoom
       {
         "key": "ctrl+n",
         "command": "explorer.newFile"
+      },
+      {
+        "key": "shift+alt+5",
+        "command": "-mdx.toggleDelete",
+        "when": "editorTextFocus && !editorReadonly && editorLangId == 'mdx'"
+      },
+      {
+        "key": "ctrl+i",
+        "command": "-mdx.toggleEmphasis",
+        "when": "editorTextFocus && !editorReadonly && editorLangId == 'mdx'"
+      },
+      {
+        "key": "ctrl+b",
+        "command": "-mdx.toggleStrong",
+        "when": "editorTextFocus && !editorReadonly && editorLangId == 'mdx'"
+      },
+      {
+          "key": "escape",
+          "command": "runCommands",
+          "args": {
+              "commands": [
+                  {
+                      "command": "editor.actions.findWithArgs",
+                      "args": {
+                          "searchString": ""
+                      }
+                  },
+                  "closeFindWidget"
+              ]
+          },
+          "when": "findWidgetVisible && !editorHasSelection"
+      },
+      {
+        "key": "ctrl+alt+b",
+        "command": "-workbench.action.toggleAuxiliaryBar"
+      },
+      {
+        "key": "shift+tab",
+        "command": "-editor.action.inlineSuggest.commitAlternativeAction",
+        "when": "inInlineEditsPreviewEditor"
+      },
+      {
+        "key": "shift+tab",
+        "command": "-editor.action.inlineSuggest.commitAlternativeAction",
+        "when": "inlineEditIsVisible && inlineSuggestionAlternativeActionVisible"
       }
     ]
     ```
