@@ -119,11 +119,13 @@ $fira$ `elegance`
 - flavors
   - coffee
   - green/black tea
-  - dark chocolate
+  - dark chocolate bar
   - truffles
-  - wafer milk chocolate
   - butter cookies
-  - biscuits
+  - wafer slice
+  - hazelnut sandwich cookies
+  - chocolate chip cookie
+  - wafer milk chocolate
   - whole wheat bread
   - butter croissant
   - potato chips
@@ -133,8 +135,8 @@ $fira$ `elegance`
   - coca cola
   - takoyaki
   - sushi
-  - sliced pork
   - tea egg
+  - sliced pork
   - chenpi
   - huamei
 - essentials
