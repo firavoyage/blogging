@@ -3379,7 +3379,7 @@ flatpak install -y flathub org.gnome.design.Typography
 flatpak install -y flathub org.gnome.design.AppIconPreview
 flatpak install -y flathub org.gnome.design.SymbolicPreview
 flatpak install -y flathub org.gnome.design.Palette
-flatpak install -y flathub io.github.swordpuffin.rewaita
+# flatpak install -y flathub io.github.swordpuffin.rewaita
 flatpak install -y flathub io.github.swordpuffin.wardrobe
 
 # program w dart and flutter

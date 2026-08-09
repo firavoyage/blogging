@@ -118,7 +118,7 @@ $fira$ `elegance`
 
 - flavors
   - coffee
-  - green/black tea
+  - green/black/jasmine tea
   - dark chocolate bar
   - truffles
   - butter cookies
