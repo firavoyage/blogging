@@ -123,6 +123,7 @@ $fira$ `elegance`
   - truffles
   - wafer milk chocolate
   - butter cookies
+  - biscuits
   - whole wheat bread
   - butter croissant
   - potato chips
@@ -837,6 +838,9 @@ $fira$ `elegance`
   - oppo enco free 3
   - morphy richards portable electric kettle mr6090
   - mi power bank 20000 67w <!-- mi power bank 20000 33w -->
+  - muji storage box 37×26×17.5
+  - muji tritan water bottle 550ml
+  - locknlock outdoor bottle 550ml
 - on ubuntu 24
   - (see `ubuntu.md`)
 - on android 16 <!-- 11 -->
