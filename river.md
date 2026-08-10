@@ -30834,3 +30834,18 @@ acbox?
 feb 2025 我在做什么呢.
 
 ---
+
+claude: error: account_banned
+
+We got your request
+We’ll email you after we review your account. Until then, you won’t be able to use Claude, but you can come back to this page to check the status.
+
+Request received
+Submitted on Jul 16, 9:55 PM
+We’ll review your account
+You’re next in line for review
+3
+We’ll email you the outcome
+Taking a little longer than expected
+
+---
