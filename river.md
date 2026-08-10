@@ -4947,8 +4947,7 @@ ba 和 ak 都设计得逆天,
 > - How to add markup and styles
 > - How to display data
 > - How to render conditions and lists
-> - How to respond to events and upd
->   ate the screen
+> - How to respond to events and update the screen
 > - How to share data between components
 
 这不强吗?
@@ -30822,6 +30821,8 @@ welcome! what's your skill level.
 - intermediate: up to 6k
 - advanced: more than 5k
 
+and it picks 9x9 by default.
+
 ---
 
 acbox?
@@ -30831,3 +30832,5 @@ acbox?
 我也年轻过.
 
 feb 2025 我在做什么呢.
+
+---
