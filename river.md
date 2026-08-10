@@ -30813,3 +30813,21 @@ it's not.
 there is another path, which the vast majority takes, that is being unconscious and not making decisions, resulting in forced decisions and a life dulled.
 
 ---
+
+ogs:
+
+welcome! what's your skill level.
+
+- basic: ddk
+- intermediate: up to 6k
+- advanced: more than 5k
+
+---
+
+acbox?
+
+啊, 我不羡慕的.
+
+我也年轻过.
+
+feb 2025 我在做什么呢.

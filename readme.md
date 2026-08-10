@@ -1014,6 +1014,7 @@ $fira$ `elegance`
 - - steam `firascript`
   - duolingo `firahq` `firavoyage`
   - foxwq `firascript` `李烨炀本物`
+  - ogs `precioushq`
   - lichess `firascript` `firahq`
   - chess.com `firascript` `firahq`
   - majsoul `忘我思考` `fira`
