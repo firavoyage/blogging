@@ -132,7 +132,7 @@ $fira$ `elegance`
   - fried chicken
   - instant noodles
   - boiled water
-  - coca cola
+  - coke
   - takoyaki
   - sushi
   - tea egg
