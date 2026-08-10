@@ -6,7 +6,7 @@ $fira$ `elegance`
 
 <!-- 20 yro forever. -->
 
-<!-- animated coming-of-age romantic fantasy adventure film -->
+<!-- a coming-of-age adventure/fantasy film -->
 
 <!-- not backed by yc. -->
 
@@ -132,7 +132,7 @@ $fira$ `elegance`
   - fried chicken
   - instant noodles
   - boiled water
-  - coke
+  - coca cola
   - takoyaki
   - sushi
   - tea egg
