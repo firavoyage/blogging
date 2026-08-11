@@ -39,9 +39,9 @@
   ],
   "settings": {
     // turn off typecheck and linting for rapid dev
+    // so damn frustrating and noisy, err when i have not finished typing
     // "eslint.enable": false,
     // "typescript.validate.enable": false,
-    // so damn frustrating and noisy, err when i have not finished typing
 
     "files.exclude": {
       // // Legacy
@@ -60,7 +60,7 @@
       "**/.parcel/**": true,
       "**/.parcel-cache/**": true,
       // Static
-      "**/.npmrc": true,
+      "**/.npmrc": true
       // "**/.vscode/**": true, // no vendor lock in
       // "**/.git/**": true, // ignored by default
     },
@@ -72,9 +72,16 @@
       // "**/.vscode/**": true, // no vendor lock in
       // "**/.git/**": true, // ignored by default
     },
-
+    // remove some folders from intellisense (e.g. css var auto complete)
+    // apply: restart or run command: reload window
+    "files.watcherExclude": {
+      "**/legacy/**": true,
+      "**/node_modules/**": true,
+      "**/dist/**": true,
+      "**/.build/**": true
+    },
     "files.associations": {
       "*.json": "jsonc"
-    },
+    }
   }
 }
