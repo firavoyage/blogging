@@ -126,6 +126,8 @@ with
 - 欧式的频道 `ouschannal`
 - 〄FW `JISFW`
 - ibuki🏖🔭🎮帰宅部 `ibuki_Kitakubu` ibuki📀 🎶🎸收藏夹 `ibuki_animemusic`
+- ChrAlpha Channel `ChrAlphaChannel`
+- Sukka's Notebook `sukkachannel`
 
 ---
 
@@ -222,5 +224,3 @@ with
 - 悟元 孙 `wuyuandev` Moonrend（零猫社区） `moonrenddev`
 - ACh Sulfate -Xzygote -Xusejit:true `Auride` 盐酸乙酰胆碱 `teb1e`
 - 冷吟闲醉 `Astrioia` <!-- 一号特大桥 --> 随感、杂考、前方展望 `weblogue`
-
-

@@ -46,6 +46,7 @@ inspired by
 - gitbook
 - mkdocs & material for mkdocs
 - docusaurus
+- docu.md (markdown viewer web extension)
 
 <!-- 
 
