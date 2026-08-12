@@ -841,6 +841,7 @@ $fira$ `elegance`
   - morphy richards portable electric kettle mr6090
   - mi power bank 20000 67w <!-- mi power bank 20000 33w -->
   - muji storage box 37×26×17.5
+  - imakara umbrella bag
   - muji tritan water bottle 550ml
   - locknlock outdoor bottle 550ml
   - muji less tiring water repellent backpack
