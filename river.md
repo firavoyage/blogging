@@ -30851,3 +30851,38 @@ We’ll email you the outcome
 Taking a little longer than expected
 
 ---
+
+`ref`
+
+"ripacbox"
+
+- suicide
+  - ~~prob~~
+  - she's non trivial esp cmp w peers of similar background
+  - i love to compete w ppl
+- instable nature of kids
+  - unwise to build on sand
+  - hyphothetical examples
+    - dev and launch in a day
+    - post today, del tomorrow (e.g. zhcn irl)
+    - changes like name and pfp
+    - pivot and relocate, making all criticism irrelevant (and creating some new)
+- nonetheless
+  - where they would build is where i would build
+  - there are not so many needs in the world
+  - yeah i used future tense.
+- origin
+  - i saw "ripgrep". fun. i absolutely want a name like that.
+  - rip? lowercase. to rip the ideas and clear the vibes.
+  - see also
+    - acboxliu (she has another id on github, named initially when she wasnt a girl yet)
+    - ripacbox
+    - rapeacbox
+- limitations
+  - i would ref it somewhere, like on the path or org name maybe
+  - not the core product name though
+  - yeah, and it's a constraint of public foss platforms
+    - for me, i would name everything like `f/repo_name`
+
+---
+
