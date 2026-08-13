@@ -644,6 +644,7 @@ $fira$ `elegance`
   - bakemonogatari (2009)
   - yani neko (2026)
   - onimai (2023)
+  - .nisemonogatari (2012)
   - .air (2005)
   - .sword art online (2012)
   - .re: zero - starting life in another world (2016)
