@@ -30893,3 +30893,9 @@ idv couldnt get a matchup fast even at low ranks.
 doesnt feel willing to continue play.
 
 ---
+
+`ref`
+
+> you wouldn't play hope chess.
+
+---
