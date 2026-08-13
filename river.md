@@ -30886,3 +30886,9 @@ Taking a little longer than expected
     - for me, i would name everything like `f/repo_name`
 
 ---
+
+idv couldnt get a matchup fast even at low ranks.
+
+doesnt feel willing to continue play.
+
+---
