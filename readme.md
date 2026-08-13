@@ -607,10 +607,11 @@ $fira$ `elegance`
   - look back, streamed by funshiki (2024)
   - toy story 5 (2026)
   - puella magi madoka magica the movie part iii: rebellion (2013)
+  - .the disappearance of haruhi suzumiya (2010)
+  - .kizumonogatari (2016)
   - .k-on! the movie (2011)
   - .suzume (2022)
   - .weathering with you (2019)
-  - .the disappearance of haruhi suzumiya (2010)
   - .bocchi the rock! recap part 1 (2024)
 - series
   - tom and jerry (1940)
