@@ -117,8 +117,8 @@ $fira$ `elegance`
 ## perception
 
 - flavors
-  - coffee
-  - green/black/jasmine tea
+  - americano coffee
+  - oolong/jasmine/earl grey tea
   - dark chocolate bar
   - truffles
   - butter cookies
