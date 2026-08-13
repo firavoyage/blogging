@@ -496,6 +496,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `23` 2026.07.19
 - `24` 2026.07.20
 - `25` 2026.08.13
+- `26` 2026.08.13
 
 ## bakemonogatari (2009)
 
