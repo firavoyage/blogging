@@ -139,6 +139,7 @@ one ui <!-- an android rom by samsung -->
   - audio broadcast, clock, media player, voice recorder `on`
   - (others) `off`
 - touch and hold to edit `off`
+- roaming clock `off`
 - edit lock screen
   - replace `phone` with `voice recorder` <!-- a widget would reduce one step. dk if it matters. the tradeoff is screen real estate and attention. but as i never use phone call, it's automatically better. -->
 
