@@ -30900,3 +30900,8 @@ doesnt feel willing to continue play.
 
 ---
 
+parceljs cache is flawed.
+
+it has to update cache correctly. if not, it breaks.
+
+---
