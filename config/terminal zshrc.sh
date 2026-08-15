@@ -273,18 +273,18 @@ riptmux(){
   local cmd="$bold$bright_cyan" # command or flag
   local arg="$cyan" # argument
 
-  local version="tmux 0.3 (2026.07.21)"
+  local version="tmux 0.4 (2026.08.10)"
   local help=$(cat <<- EOF | sed 's/^  //'
   Run and manage background daemons
 
   ${heading}Usage:${reset} 
     ${cmd}tmux${reset}                  Start a new terminal
-    ${cmd}tmux${reset} ${arg}<name>${reset}           Start a new named terminal
+    ${cmd}tmux${reset} ${arg}<name>${reset}           Start a new named terminal or attach if existing
     ${cmd}tmux${reset} ${arg}<command>${reset}        Perform an action
     ${cmd}tmux${reset} ${arg}[flag]${reset}           Check version or help
 
   ${heading}Commands:${reset}
-    ${cmd}ls${reset}                    List all sessions
+    ${cmd}l${reset}, ${cmd}ls${reset}                 List all sessions
     ${cmd}a${reset} ${arg}[name]${reset}              Back to a named (or the last) session
     ${cmd}clear${reset}                 Clear inactive sessions of last command finished
     ${cmd}kill${reset} ${arg}<name>${reset}           Kill a session
@@ -302,7 +302,7 @@ riptmux(){
   if test $# -eq 0; then
     command tmux
   elif test $# -eq 1; then
-    if test $1 = "ls"; then
+    if test $1 = "ls" -o $1 = "l"; then
       command tmux ls
     elif test $1 = "a"; then
       command tmux a
@@ -314,7 +314,7 @@ riptmux(){
       echo $version
     else
       # named
-      command tmux new -s $1
+      command tmux new -A -s $1
     fi
   elif test $# -eq 2 -a $1 = "a"; then
     command tmux a -t $2
@@ -558,6 +558,8 @@ cd(){
     command cd "$*"
   fi
 }
+
+alias pip='uv pip'
 
 # Environment
 

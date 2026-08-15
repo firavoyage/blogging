@@ -486,6 +486,8 @@ sudo systemctl restart earlyoom
         "javascript": "cd $dir && b '$fileName'",
         "typescript": "cd $dir && b '$fileName'",
 
+        "python": "cd $dir && uv run '$fileName'",
+
         "markdown": "cd $dir && xdg-open '$fileName'",
         "pdf": "cd $dir && xdg-open '$fileName'",
 
@@ -495,7 +497,6 @@ sudo systemctl restart earlyoom
         "cpp": "cd $dir && g++ '$fileName' -o '$fileNameWithoutExt' && $dir'$fileNameWithoutExt'",
         "objective-c": "cd $dir && gcc -framework Cocoa '$fileName' -o '$fileNameWithoutExt' && $dir'$fileNameWithoutExt'",
         "php": "cd $dir && php '$fileName'",
-        "python": "cd $dir && python3 -u '$fileName'",
         "perl": "cd $dir && perl '$fileName'",
         "perl6": "cd $dir && perl6 '$fileName'",
         "ruby": "cd $dir && ruby '$fileName'",
@@ -585,7 +586,6 @@ sudo systemctl restart earlyoom
       },
       "editor.defaultFormatter": "vscode.typescript-language-features",
       "editor.cursorBlinking": "solid",
-      "editor.occurrencesHighlight": "off",
       "workbench.editor.editorActionsLocation": "hidden",
       "workbench.navigationControl.enabled": false,
       "window.commandCenter": false,
@@ -596,7 +596,6 @@ sudo systemctl restart earlyoom
       },
       "editor.maxTokenizationLineLength": 999999999,
       "markdown.extension.syntax.decorationFileSizeLimit": 50000000,
-      "workbench.colorCustomizations": {},
       "[python]": {
         "editor.defaultFormatter": "ms-python.black-formatter"
       },
@@ -639,7 +638,19 @@ sudo systemctl restart earlyoom
       },
       "git.enabled": false,
       "files.autoSaveDelay": 500,
-      "files.autoSave": "onFocusChange"
+      "files.autoSave": "onFocusChange",
+      "terminal.integrated.initialHint": false,
+      "editor.occurrencesHighlight": "off",
+      "cssVariables.languages": ["css", "scss", "sass", "less"],
+      "cssVariables.lookupFiles": [
+        "**/*.css",
+        "**/*.scss",
+        "**/*.sass",
+        "**/*.less",
+        "!**/legacy/**",
+        "!**/.build/**",
+        "!**/build/**",
+      ]
     }
     ```
 
