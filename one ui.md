@@ -48,7 +48,14 @@ one ui <!-- an android rom by samsung -->
 - remove
   - sogou keyboard
   - (all apps of zhcn names) <!-- no internationalization implies low quality. --> <!-- i guess i would just use paratheses. `[]` feels fit in a terminal. `{}` is like js template string. -->
-- samsung app settings: messages: more settings: auto delete otp messages `on`
+- samsung app settings
+  - camera
+    - scan documents and text `off` <!-- generally unused but noisy -->
+    - audio options: audio playback `on`
+    - swipe preview up/down to `open quick controls`
+    - shooting methods: voice commands `off` <!-- no false positives, but useless -->
+    - shutter sound `off`
+  - messages: more settings: auto delete otp messages `on`
 - clash meta for android
   - manage app if unused `off`
   - running in background `unrestricted`

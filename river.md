@@ -30906,3 +30906,17 @@ parceljs cache is flawed.
 it has to update cache correctly. if not, it breaks.
 
 ---
+
+weird.
+
+sometimes ubuntu just shows a black screen.
+
+all keys no effect.
+
+sometimes you could click power button. sometimes power button doesnt respond.
+
+you have to long press (e.g. ten secs) to restart.
+
+it's esp common if you charge it while sleeping.
+
+---
