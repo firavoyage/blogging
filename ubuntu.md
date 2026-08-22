@@ -3483,7 +3483,8 @@ flatpak install -y flathub org.videolan.VLC
 flatpak install -y flathub io.mpv.Mpv
 flatpak install -y flathub org.kde.elisa
 flatpak install -y flathub net.lrclib.lrcget
-pipx install yt-dlp
+uv tool install yt-dlp
+# pipx install yt-dlp
 mkdir -p ~/.config/yt-dlp # use browser cookies by default
 tee ~/.config/yt-dlp/config > /dev/null <<EOF
 --cookies-from-browser chromium:'/home/fira/snap/chromium/common/chromium/Default'

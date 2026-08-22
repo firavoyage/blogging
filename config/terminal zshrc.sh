@@ -273,7 +273,7 @@ riptmux(){
   local cmd="$bold$bright_cyan" # command or flag
   local arg="$cyan" # argument
 
-  local version="tmux 0.4 (2026.08.10)"
+  local version="tmux 0.5 (2026.08.22)"
   local help=$(cat <<- EOF | sed 's/^  //'
   Run and manage background daemons
 
@@ -285,7 +285,7 @@ riptmux(){
 
   ${heading}Commands:${reset}
     ${cmd}l${reset}, ${cmd}ls${reset}                 List all sessions
-    ${cmd}a${reset} ${arg}[name]${reset}              Back to a named (or the last) session
+    ${cmd}a${reset} ${arg}[name]${reset}              Back to the last (or a named) session
     ${cmd}clear${reset}                 Clear inactive sessions of last command finished
     ${cmd}kill${reset} ${arg}<name>${reset}           Kill a session
     ${cmd}rename${reset} ${arg}<old>${reset} ${arg}<new>${reset}    Rename a session
@@ -294,7 +294,7 @@ riptmux(){
     ${cmd}-v${reset}, ${cmd}--version${reset}         Print version
     ${cmd}-h${reset}, ${cmd}--help${reset}            Print help
 
-  Use ctrl+b d to detach inside terminals
+  Use ctrl+b d to detach from a session
 	EOF
   # Use exit to close and remove the session
 	)
@@ -307,21 +307,33 @@ riptmux(){
     elif test $1 = "a"; then
       command tmux a
     elif test $1 = "clear"; then
-      tmux_clear
+      # Loop through all active tmux session names
+      for s in $(command tmux ls -F '#{session_name}' 2>/dev/null); do
+          # Count the number of active child processes running in this session
+          child_process_count=$(command tmux list-panes -t "$s" -F '#{pane_pid}' | xargs -I {} pgrep -P {} | wc -l)
+
+          # If the count is 0, nothing is running except the idle shell prompt
+          if [ "$child_process_count" -eq 0 ]; then
+              # echo "Killing idle session: $s"
+              command tmux kill-session -t "$s"
+          else
+              # echo "Keeping active session: $s"
+          fi
+      done
     elif test $1 = "--help" -o $1 = "-h"; then
       echo $help
     elif test $1 = "--version" -o $1 = "-v"; then
       echo $version
     else
-      # named
+      # create a named session
       command tmux new -A -s $1
     fi
   elif test $# -eq 2 -a $1 = "a"; then
     command tmux a -t $2
   elif test $# -eq 2 -a $1 = "kill"; then
-    tmux_kill $2
+    command tmux kill-session -t $2
   elif test $# -eq 3 -a $1 = "rename"; then
-    tmux_rename $2 $3
+    command tmux rename-session -t $2 $3
   else
     echo $help
     # echo "no arg to tmux, one arg to have a named tmux session"
@@ -330,45 +342,7 @@ riptmux(){
 
 alias tmux='riptmux'
 
-tmux_ls(){
-  command tmux ls
-}
-
-tmux_a(){
-  command tmux a
-}
-
-tmux_rename(){
-  if test $# -eq 2; then
-    command tmux rename-session -t $1 $2
-  else 
-    echo "args: old name, new name"
-  fi
-}
-
-tmux_kill(){
-  if test $# -eq 1; then
-    command tmux kill-session -t $1
-  else 
-    echo "arg: session name to be killed"
-  fi
-}
-
-tmux_clear(){
-  # Loop through all active tmux session names
-  for s in $(command tmux ls -F '#{session_name}' 2>/dev/null); do
-      # Count the number of active child processes running in this session
-      child_process_count=$(command tmux list-panes -t "$s" -F '#{pane_pid}' | xargs -I {} pgrep -P {} | wc -l)
-
-      # If the count is 0, nothing is running except the idle shell prompt
-      if [ "$child_process_count" -eq 0 ]; then
-          # echo "Killing idle session: $s"
-          command tmux kill-session -t "$s"
-      else
-          # echo "Keeping active session: $s"
-      fi
-  done
-}
+alias e='exit'
 
 link(){
   local reset=$(tput sgr0)
@@ -560,6 +534,8 @@ cd(){
 }
 
 alias pip='uv pip'
+
+alias dl='yt-dlp'
 
 # Environment
 
