@@ -119,6 +119,7 @@ $fira$ `elegance`
 - flavors
   - americano coffee
   - oolong/jasmine/earl grey tea
+  - orange/watermelon juice
   - dark chocolate bar
   - truffles
   - butter cookies
