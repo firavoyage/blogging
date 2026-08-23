@@ -609,7 +609,7 @@ $fira$ `elegance`
   - toy story 5 (2026)
   - puella magi madoka magica the movie part iii: rebellion (2013)
   - suzume (2022)
-  - .the disappearance of haruhi suzumiya (2010)
+  - the disappearance of haruhi suzumiya (2010)
   - .kizumonogatari (2016)
   - .k-on! the movie (2011)
   - .weathering with you (2019)
