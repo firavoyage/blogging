@@ -30920,3 +30920,12 @@ you have to long press (e.g. ten secs) to restart.
 it's esp common if you charge it while sleeping.
 
 ---
+
+```
+ ~ %   🏳<fe0f><200d>⚧<fe0f>
+zsh: command not found: 🏳️‍⚧️
+ ~ % echo '🏳<fe0f><200d>⚧<fe0f>'
+🏳️‍⚧️
+```
+
+---
