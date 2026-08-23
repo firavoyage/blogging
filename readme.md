@@ -849,6 +849,7 @@ $fira$ `elegance`
   - locknlock outdoor bottle 550ml
   - muji less tiring water repellent backpack
   - muji wrinkled nylon self-closing flat pouch s
+  - jins ultra light airframe 066 peach on gold
 - on ubuntu 24
   - (see `ubuntu.md`)
 - on android 16 <!-- 11 -->
