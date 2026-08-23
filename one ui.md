@@ -158,6 +158,12 @@ one ui <!-- an android rom by samsung -->
 
 <!-- swipe up and hold to unpin -->
 
+## safety and emergency
+
+- emergency sos: emergency number to call `0` <!-- nullify if a main switch isnt available due to regional compliance -->
+- wireless emergency alerts: allow alerts `off` <!-- the same as notifications > advanced settings, might get overriden while roaming -->
+- unknown tracker alerts: allow alerts `off`
+
 ## accounts and backup
 
 - manage accounts: google services `on` <!-- normalize one of the zhcn ver quirks -->
