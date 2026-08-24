@@ -2822,7 +2822,9 @@ sudo systemctl restart earlyoom
 
 ## `ayugram`
 
-- settings: ayugram pref: ayugram: local telegram premium `on`
+- settings
+  - ayugram pref: ayugram: local telegram premium `on`
+  - advanced: download path: custom folder `~/Downloads/ayugram`
 - disable notifications
   - settings: notifications and sounds: global settings: `*` `off`
 
