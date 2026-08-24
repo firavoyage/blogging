@@ -99,6 +99,7 @@ sudo apt install -y git git-filter-repo
 # trash
 sudo apt install -y trash-cli
 # usage: trash-put filename.txt # you can alias rm to trash-put
+# usage: trash filename.txt # trash = trash-put
 # usage: trash-list
 # usage: trash-restore # interactive
 
