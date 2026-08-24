@@ -128,6 +128,10 @@ with
 - ibuki🏖🔭🎮帰宅部 `ibuki_Kitakubu` ibuki📀 🎶🎸收藏夹 `ibuki_animemusic`
 - ChrAlpha Channel `ChrAlphaChannel`
 - Sukka's Notebook `sukkachannel`
+- AOSC 社区脉动 `aosc_os`
+- AOSC 梗 `aosc_jokes`
+- 清蒸协会🙏 `MtFAllahuakbar`
+- 恶魔梨梨酱OvO `qinlili` 「琴梨梨的瓜田」 `qinlilibeta`
 
 ---
 
@@ -223,4 +227,25 @@ with
 - Nika `lysenika` Veronika's Sanctuary 🦊 `dontlookthere`
 - 悟元 孙 `wuyuandev` Moonrend（零猫社区） `moonrenddev`
 - ACh Sulfate -Xzygote -Xusejit:true `Auride` 盐酸乙酰胆碱 `teb1e`
-- 冷吟闲醉 `Astrioia` <!-- 一号特大桥 --> 随感、杂考、前方展望 `weblogue`
+- Executor Fallacious <!-- 冷吟闲醉 --> `Astrioia` <!-- 一号特大桥 --> 随感、杂考、前方展望 `weblogue`
+- 洛樱 `luoingly` Undefined Portal `undefined_portal`
+- 天川・▲・ `MizukiAmakawa` あまうみラジオ `Amaumi_radio`
+- billchenchina 🏳️‍⚧️ | 缩缩 `Billchenchina`
+- Cryolitia🏳️‍⚧️ PukNgae `Cryolitia`
+- sakocat `sakonot` /var/log/sako `skoqaq` /var/log/sako `-1001518215762`
+- 洛水天依 蝶依 `luotianyi_butterfly` 蝶依的指路牌 `Butterfly_Signboards`
+- 织不唧 `Xuezhi_Asagiri` 织不唧的唧房 `xuezhi_3517`
+- 雨宫晴 `HaruAmamiya` 晴天细语 `HaruAmamiyaChannel`
+- 小雨的导航站喵 `seele_2345`
+- 水母频道 `channel_amberjellyfish`
+- 二号客栈 `neko205ch`
+- 嘟言嘟语 `old_dudu_channel`
+- Cat Ball `Catba11` Rua~rua~猫猫球 `catttballl`
+- Starrrrrring.✨ `Mars_no_Musk`
+- Satori 🪐 `YetAnotherAvailableUsername` 🐱 缅因猫投喂指南 🧭 `MaineCoonFeeder`
+- oldherl `oldherl` oldherl's channel `oldherls`
+- Bale Cezar `hsiu_hideko`
+- 王小美 Ganyu `Ganyu_Genshin` 椰羊 `Wang_Xiaomei`
+- 神樂坂苏酱 阿朱喵 `Azhuww` 苏酱的碎碎念喵w~ `Azhu_Channel` 從0開始的開發→測試筆記 `-1004296129596`
+- bys `saurica417` 北雁书的频道合集 `saurientry`
+- Ciel `TechCiel` /var/log/ciel `var_log_ciel`
