@@ -30929,3 +30929,74 @@ zsh: command not found: 🏳️‍⚧️
 ```
 
 ---
+
+vendor lock in?
+
+```
+12:43:33 PM [vite] (client) Pre-transform error: Failed to resolve import "web/lib/keyboard.use" from "component/sidebar.tsx". Does the file exist?
+  Plugin: vite:import-analysis
+  File: /home/fira/Documents/f/apps/tools/source/web/component/sidebar.tsx:1:25
+  1  |  import { use_bind } from "web/lib/keyboard.use";
+     |                            ^
+  2  |  import { use_global } from "./app";
+  3  |  var _jsxFileName = "/home/fira/Documents/f/apps/tools/source/web/component/sidebar.tsx";
+12:43:33 PM [vite] (client) Pre-transform error: Failed to resolve import "web/design/utilitarian/utilitarian.css" from "component/app.tsx". Does the file exist?
+  Plugin: vite:import-analysis
+  File: /home/fira/Documents/f/apps/tools/source/web/component/app.tsx:1:7
+  1  |  import "web/design/utilitarian/utilitarian.css";
+     |          ^
+  2  |  import "web/design/app.css";
+  3  |  import { use_bind } from "web/lib/keyboard.use";
+12:43:33 PM [vite] (client) Pre-transform error: Failed to resolve import "web/lib/keyboard.use" from "component/sidebar.tsx". Does the file exist?
+  Plugin: vite:import-analysis
+  File: /home/fira/Documents/f/apps/tools/source/web/component/sidebar.tsx:1:25
+  1  |  import { use_bind } from "web/lib/keyboard.use";
+     |                            ^
+  2  |  import { use_global } from "./app";
+  3  |  var _jsxFileName = "/home/fira/Documents/f/apps/tools/source/web/component/sidebar.tsx";
+12:43:33 PM [vite] (client) Pre-transform error: Failed to resolve import "web/design/utilitarian/utilitarian.css" from "component/app.tsx". Does the file exist?
+  Plugin: vite:import-analysis
+  File: /home/fira/Documents/f/apps/tools/source/web/component/app.tsx:1:7
+  1  |  import "web/design/utilitarian/utilitarian.css";
+     |          ^
+  2  |  import "web/design/app.css";
+  3  |  import { use_bind } from "web/lib/keyboard.use";
+12:43:33 PM [vite] (client) Pre-transform error: Failed to resolve import "web/lib/keyboard.use" from "component/sidebar.tsx". Does the file exist?
+  Plugin: vite:import-analysis
+  File: /home/fira/Documents/f/apps/tools/source/web/component/sidebar.tsx:1:25
+  1  |  import { use_bind } from "web/lib/keyboard.use";
+     |                            ^
+  2  |  import { use_global } from "./app";
+  3  |  var _jsxFileName = "/home/fira/Documents/f/apps/tools/source/web/component/sidebar.tsx";
+12:43:33 PM [vite] (client) Pre-transform error: Failed to resolve import "web/design/utilitarian/utilitarian.css" from "component/app.tsx". Does the file exist?
+  Plugin: vite:import-analysis
+  File: /home/fira/Documents/f/apps/tools/source/web/component/app.tsx:1:7
+  1  |  import "web/design/utilitarian/utilitarian.css";
+     |          ^
+  2  |  import "web/design/app.css";
+  3  |  import { use_bind } from "web/lib/keyboard.use";
+12:43:33 PM [vite] (client) Pre-transform error: Failed to resolve import "web/lib/keyboard.use" from "component/sidebar.tsx". Does the file exist?
+  Plugin: vite:import-analysis
+  File: /home/fira/Documents/f/apps/tools/source/web/component/sidebar.tsx:1:25
+  1  |  import { use_bind } from "web/lib/keyboard.use";
+     |                            ^
+  2  |  import { use_global } from "./app";
+  3  |  var _jsxFileName = "/home/fira/Documents/f/apps/tools/source/web/component/sidebar.tsx";
+12:43:33 PM [vite] (client) Pre-transform error: Failed to resolve import "web/design/utilitarian/utilitarian.css" from "component/app.tsx". Does the file exist?
+  Plugin: vite:import-analysis
+  File: /home/fira/Documents/f/apps/tools/source/web/component/app.tsx:1:7
+  1  |  import "web/design/utilitarian/utilitarian.css";
+     |          ^
+  2  |  import "web/design/app.css";
+  3  |  import { use_bind } from "web/lib/keyboard.use";
+^C
+ ...tools/source/web % cd "/home/fira/Documents/f/apps/tools/source/web/" && parcel serve 'index.html' --open --dist-dir .build --cache-dir 
+.build/.parcel-cache
+Port "1234" could not be used
+Server running at http://localhost:41205
+✨ Built in 876ms
+```
+
+---
+
+
