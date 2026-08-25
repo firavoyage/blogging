@@ -31007,3 +31007,15 @@ it's not about the wifi router, the internet, or the proxy.
 you have to restart clash verge on ubuntu (e.g. kill via resources) to make it work.
 
 ---
+
+i dont really remember.
+
+the only references to my childhood (or jhs) insanity, were some drawings on notebooks and some weird texts on the internet.
+
+https://github.com/vuejs/vue/issues/12395
+
+maybe i werent insane at all. i just followed the instincts, when i were innocent, and completely unaware of professionalism.
+
+structure, order, and impulses.
+
+---
