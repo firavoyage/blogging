@@ -3349,7 +3349,14 @@ pi install npm:@juicesharp/rpiv-web-tools
 # program wo typos: cspell, typos
 pnpm add -g cspell
 cargo install typos-cli
-
+cargo install taplo-cli --locked
+tee .typos.toml > /dev/null <<EOF
+[default]
+# Ignore Short (1~4 chars long) False Positives
+extend-ignore-words-re = [
+    '^[a-zA-Z]{1,4}$'
+]
+EOF
 
 # chat w llms: open-webui, librechat
 # uv tool install open-webui # bloating
