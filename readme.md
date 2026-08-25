@@ -326,6 +326,7 @@ $fira$ `elegance`
     - bcielts takeieltsofficial
     - bellingcat bellingcat.com bellingcat.gitbook.io
     - cambridge cambridge_uni cambridge.org cam.ac.uk cambridge.gov.uk
+    - chriscoyier
     - codingstartup
     - durov telegram.org tgnav tgnav.github.io tg10000.com tree.aza.moe
     - grant sanderson 3blue1brown.com
