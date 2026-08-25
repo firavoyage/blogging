@@ -3350,6 +3350,7 @@ pi install npm:@juicesharp/rpiv-web-tools
 pnpm add -g cspell
 cargo install typos-cli
 
+
 # chat w llms: open-webui, librechat
 # uv tool install open-webui # bloating
 # # pip install open-webui # deprecated
