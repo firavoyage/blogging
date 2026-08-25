@@ -188,7 +188,7 @@ $fira$ `elegance`
     - karrisaarinen karrisaarinen.com linear.app
     - laplace_news laplace.live
     - larrasket larr.net lr0.org
-    - leohearts taroleohearts whatdoespotatoeattoday leohearts.com clansty nyac.at aquadx.net mcm.mumur.net
+    - leohearts taroleohearts whatdoespotatoeattoday leoheartst leohearts.com clansty nyac.at aquadx.net mcm.mumur.net
     - linandliwoodworks
     - lingdong huang lingdong.works wy-lang.org
     - liqi liqi.io
