@@ -30999,3 +30999,11 @@ Server running at http://localhost:41205
 ```
 
 ---
+
+sometimes the same proxy fails on laptop but works on phone.
+
+it's not about the wifi router, the internet, or the proxy.
+
+you have to restart clash verge on ubuntu (e.g. kill via resources) to make it work.
+
+---
