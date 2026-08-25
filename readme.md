@@ -850,6 +850,7 @@ $fira$ `elegance`
   - muji less tiring water repellent backpack
   - muji wrinkled nylon self-closing flat pouch s
   - jins ultra light airframe 066 peach on gold
+  - kawasimaya ice lattice
 - on ubuntu 24
   - (see `ubuntu.md`)
 - on android 16 <!-- 11 -->
