@@ -8,10 +8,10 @@
     //   "name": "humility",
     //   "path": "../../f/humility"
     // },
-    {
-      "name": "intuitive",
-      "path": "../../f/intuitive"
-    },
+    // {
+    //   "name": "intuitive",
+    //   "path": "../../f/intuitive"
+    // },
     // {
     //   "name": "have",
     //   "path": "../../f/have"
@@ -48,7 +48,6 @@
       // "**/legacy/**": true,
       // Aliases
       "**/AGENTS.md": true,
-      "**/CLAUDE.md": true,
       // Deps
       "**/node_modules/**": true,
       // Build
