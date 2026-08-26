@@ -92,6 +92,13 @@ $fira$ `elegance`
 
 <!-- 强. 弱. 厚. 薄. -->
 
+> _荡 漾_
+
+- fira 💖, thou/thee <!-- she/her (without 🏳️‍⚧️ or 🍥) -->, 🇬🇧 speaker <!-- , 🇨🇳 fluent, 🇯🇵 beginner, 🇫🇷 very beginner -->
+- a developer, content creator, wikipedian
+- grew up in the global village
+- on the internet since 2019, which is my actual "home town"
+
 <!--
 
 > be wise.
@@ -99,11 +106,6 @@ $fira$ `elegance`
 > be graceful.
 
 -->
-
-- fira 💖, thou/thee <!-- she/her (without 🏳️‍⚧️ or 🍥) -->, 🇬🇧 speaker <!-- , 🇨🇳 fluent, 🇯🇵 beginner, 🇫🇷 very beginner -->
-- a developer, content creator, wikipedian
-- grew up in the global village
-- on the internet since 2019, which is my actual "home town"
 
 ## desiderata
 
