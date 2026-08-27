@@ -227,7 +227,7 @@ cargo install cargo-update
 cargo install cargo-binstall
 # usage: cargo binstall foo # dl binaries, no local compilation needed
 
-# js/ts: node, deno, pnpm, tsx, cloc, tsgo, eslint ...
+# js/ts: node, deno, pnpm, tsx, cloc, tsc/tsgo, eslint ...
 curl -fsSL https://deb.nodesource.com/setup_lts.x | sudo -E bash - # use the latest version
 sudo apt install -y nodejs
 # npm config set registry https://registry.npmmirror.com # use a mirror if needed
