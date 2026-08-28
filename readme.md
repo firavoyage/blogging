@@ -617,6 +617,7 @@ $fira$ `elegance`
   - .k-on! the movie (2011)
   - .weathering with you (2019)
   - .bocchi the rock! recap part 1 (2024)
+  - .a clockwork orange (1971)
 - series
   - tom and jerry (1940)
   - in solitude where we are least alone (2010)
