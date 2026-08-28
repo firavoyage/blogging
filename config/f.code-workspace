@@ -81,7 +81,7 @@
     },
     "files.associations": {
       "*.json": "jsonc",
-      "*.css": "scss"
+      // "*.css": "scss"
     }
   }
 }

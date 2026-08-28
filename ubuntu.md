@@ -1445,6 +1445,7 @@ sudo systemctl restart earlyoom
   - golang.go
   - tamasfe.even-better-toml
   - vunguyentuan.vscode-css-variables
+  - jacobcassidy.css-nesting-syntax-highlighting
   <!-- view -->
   - yzhang.markdown-all-in-one
   - tomoki1207.pdf
