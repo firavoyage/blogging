@@ -344,14 +344,16 @@ chmod +x rish
   - screenshots
   - screen recordings
 
-# `play`
+# `play` <!-- google play store -->
 
 - login
 - opt out `(all)`
 - play protect `off`
-- settings: network preferences
-  - auto update apps `off`
-  - auto play vids `off`
+- settings
+  - general: google play games: play games sidekick `off`
+  - network preferences
+    - auto update apps `off`
+    - auto play vids `off`
 
 # `neo store`
 
