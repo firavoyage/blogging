@@ -642,16 +642,13 @@ sudo systemctl restart earlyoom
       "files.autoSave": "onFocusChange",
       "terminal.integrated.initialHint": false,
       "editor.occurrencesHighlight": "off",
-      "cssVariables.languages": ["css", "scss", "sass", "less"],
       "cssVariables.lookupFiles": [
         "**/*.css",
-        "**/*.scss",
-        "**/*.sass",
-        "**/*.less",
         "!**/legacy/**",
         "!**/.build/**",
         "!**/build/**",
-      ]
+      ],
+      "css.lint.emptyRules": "ignore",
     }
     ```
 

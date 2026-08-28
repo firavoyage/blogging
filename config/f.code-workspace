@@ -80,7 +80,8 @@
       "**/.build/**": true
     },
     "files.associations": {
-      "*.json": "jsonc"
+      "*.json": "jsonc",
+      "*.css": "scss"
     }
   }
 }
