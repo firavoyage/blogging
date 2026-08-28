@@ -468,6 +468,7 @@ $fira$ `elegance`
     - mortenroyale
     - muyao kuharu
     - muyu shuixin
+    - pin zi jun 152
     - potetomj
     - rw royale giant
     - sanketsu shojo sayuri
