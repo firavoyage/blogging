@@ -1446,6 +1446,7 @@ sudo systemctl restart earlyoom
   - tamasfe.even-better-toml
   - vunguyentuan.vscode-css-variables
   - jacobcassidy.css-nesting-syntax-highlighting
+  - phoenisx.cssvar
   <!-- view -->
   - yzhang.markdown-all-in-one
   - tomoki1207.pdf
