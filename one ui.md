@@ -253,7 +253,7 @@ one ui <!-- an android rom by samsung -->
   - grid: maximum folder columns `2`
   - grid: maximum folder rows `2`
   - icons: show labels `off`
-- search bar: search provider `google`
+- search bar: search provider `google website`
 - gestures
   - double tap `sleep` <!-- give accessibility permission to lawnchair -->
   - swipe down `open recents screen`
