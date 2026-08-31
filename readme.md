@@ -94,6 +94,8 @@ $fira$ `elegance`
 
 > _荡 漾_
 
+> _超 展 开_
+
 - fira 💖, thou/thee <!-- she/her (without 🏳️‍⚧️ or 🍥) -->, 🇬🇧 speaker <!-- , 🇨🇳 fluent, 🇯🇵 beginner, 🇫🇷 very beginner -->
 - a developer, content creator, wikipedian
 - grew up in the global village
