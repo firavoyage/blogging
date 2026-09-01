@@ -131,8 +131,10 @@ sudo apt install -y gnome-tweaks
 flatpak install -y flathub org.gnome.Extensions # seems not needed
 flatpak install -y flathub com.mattjakeman.ExtensionManager
 
-# check battery
+# check physical state, e.g. battery, cpu
 sudo apt install -y acpi
+sudo apt install -y htop
+sudo apt install -y cpufrequtils
 
 # hack network
 sudo apt install -y iw aircrack-ng

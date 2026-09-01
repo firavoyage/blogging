@@ -536,6 +536,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `9` 2026.08.29
 - `10` 2026.08.30
 - `11` 2026.08.31
+- `12` 2026.09.01
 
 # gaming
 
