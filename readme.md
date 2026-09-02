@@ -652,6 +652,7 @@ $fira$ `elegance`
   - bakemonogatari (2009)
   - yani neko (2026)
   - onimai (2023)
+  - a certain scientific railgun (2013)
   - .nisemonogatari (2012)
   - .air (2005)
   - .sword art online (2012)
@@ -840,8 +841,8 @@ $fira$ `elegance`
   - cnblogs · qq zone · e hentai <!-- · archiveofourown -->
   - travel.moe · travellings.cn · foreverblog.cn
 - portals
-  - casio watch mth-1060
-  - casio watch ltp-1094 9a
+  - casio watch mth-1060 white brown <!-- 7a -->
+  - casio watch ltp-1094 gold brown <!-- 9a -->
   - casio scientific calculator fx-991cw classwiz
   - lenovo yoga 13s acn 2021
   - samsung galaxy a57 <!-- ~~samsung galaxy s23 plus~~ samsung galaxy s23 fe -->

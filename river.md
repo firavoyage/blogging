@@ -538,6 +538,10 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `11` 2026.08.31
 - `12` 2026.09.01
 
+## a certain scientific railgun (2013)
+
+- `1` 2026.09.03
+
 # gaming
 
 ## sr
