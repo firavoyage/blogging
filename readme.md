@@ -841,7 +841,7 @@ $fira$ `elegance`
   - travel.moe · travellings.cn · foreverblog.cn
 - portals
   - casio watch mth-1060
-  - casio watch ltp-1094 7a
+  - casio watch ltp-1094 9a
   - casio scientific calculator fx-991cw classwiz
   - lenovo yoga 13s acn 2021
   - samsung galaxy a57 <!-- ~~samsung galaxy s23 plus~~ samsung galaxy s23 fe -->
