@@ -535,7 +535,7 @@ cd(){
   fi
 }
 
-alias pip='uv pip'
+alias pip='uv pip install'
 
 alias dl='yt-dlp'
 
