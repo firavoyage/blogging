@@ -90,6 +90,8 @@ alias npm='pnpm'
 
 alias npx='pnpx'
 
+alias i='pnpm init --bare'
+
 # inspired by whoami
 whereami() {
   pwd
