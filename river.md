@@ -31083,3 +31083,9 @@ go prof zhang
 本来该上初中的那年去学围棋去了
 
 ---
+
+it seems i should have used the term _see also_, though i always leaned toward _ref_ for simplicity.
+
+maybe i would see that as a symbol rather than words. a rationale.
+
+---
