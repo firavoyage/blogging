@@ -83,7 +83,8 @@ alias docker='sudo docker'
 
 alias claude='claude --dangerously-skip-permissions'
 
-alias npm='pnpm'
+alias npm='b'
+# alias npm='pnpm'
 # npm(){
 #   echo 'use pnpm instead'
 # }
