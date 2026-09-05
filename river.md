@@ -31089,3 +31089,8 @@ it seems i should have used the term _see also_, though i always leaned toward _
 maybe i would see that as a symbol rather than words. a rationale.
 
 ---
+
+pnpm says "0.0" is invalid version.
+
+---
+

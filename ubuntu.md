@@ -269,6 +269,11 @@ pnpm add -g webpack webpack-cli webpack-dev-server # legacy, complex
 pnpm add -g @typescript/native-preview eslint
 pnpm add -g depcheck # remove unused deps
 
+# shell deamons: pm2
+bun add -g pm2
+# pm2 startup
+sudo env PATH=$PATH:/usr/bin /home/fira/.bun/install/global/node_modules/pm2/bin/pm2 startup systemd -u fira --hp /home/fira
+
 # python: python3, pip, pipx
 sudo apt install -y python3 pip pipx
 python3 -m pip config set global.break-system-packages true # simplify: remove meaningless warning for current user.
