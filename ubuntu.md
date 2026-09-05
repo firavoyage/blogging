@@ -1446,9 +1446,8 @@ sudo systemctl restart earlyoom
   - rust-lang.rust-analyzer
   - golang.go
   - tamasfe.even-better-toml
-  - vunguyentuan.vscode-css-variables
   - jacobcassidy.css-nesting-syntax-highlighting
-  - phoenisx.cssvar
+  - phoenisx.cssvar <!-- vunguyentuan.vscode-css-variables -->
   <!-- view -->
   - yzhang.markdown-all-in-one
   - tomoki1207.pdf
