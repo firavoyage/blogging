@@ -31098,3 +31098,14 @@ pnpm says "0.0" is invalid version.
 
 ---
 
+on ts you can easily write
+
+```
+arr[arr.length]
+```
+
+and it's number not num | undefined.
+
+interesting isnt it.
+
+---
