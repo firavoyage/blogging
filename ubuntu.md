@@ -1452,7 +1452,7 @@ sudo systemctl restart earlyoom
   - golang.go
   - tamasfe.even-better-toml
   - jacobcassidy.css-nesting-syntax-highlighting
-  - phoenisx.cssvar <!-- vunguyentuan.vscode-css-variables -->
+  - vunguyentuan.vscode-css-variables <!-- phoenisx.cssvar  -->
   <!-- view -->
   - yzhang.markdown-all-in-one
   - tomoki1207.pdf
