@@ -31109,3 +31109,14 @@ and it's number not num | undefined.
 interesting isnt it.
 
 ---
+
+react, in dev mode, recommends devtools.
+
+on its settings it provides vscode as the only builtin option to "open in editor".
+
+it warns if it's not running in strict mode. "click to learn more" redirects to their official site.
+
+interesting.
+
+---
+
