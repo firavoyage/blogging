@@ -2610,6 +2610,12 @@ sudo systemctl restart earlyoom
   winecfg
   ```
 
+## `image viewer` <!-- eog -->
+
+- image view
+  - smooth images when zoomed out `on`
+  - smooth images when zoomed in `off`
+
 ## `obs`
 
 - add sources
