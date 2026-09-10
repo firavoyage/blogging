@@ -272,9 +272,9 @@ one ui <!-- an android rom by samsung -->
   - advanced settings: split panel info: quick setting `90%`
   - visibility of indicator icons
     - network information: (all) `off`
-    - system icon: ims network icons `off`
-    - system icon: volume `off`
-    - system icon: vpn `off`
+    - system icon
+      - mobile data signal, alarm, wifi, battery icon, nfc, bluetooth, mobile hotspot `on`
+      - (rest) `off`
 - sound assistant
   - customize volume panel `on` <!-- adjust the volume of specific apps just in time -->
   - individual app volume `(all apps that can play sound)`
