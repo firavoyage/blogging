@@ -2248,7 +2248,8 @@ sudo systemctl restart earlyoom
       - settings: config mode `advanced`
       - settings: appearance: show update notification `disabled`
     - install `userscripts` <!-- f/blogging: config/userscripts -->
-  - automate: violentmonkey 
+  - automate: violentmonkey https://github.com/violentmonkey/violentmonkey/releases <!-- you may use mv2 version, or download mv3 version and modify "min chromium version" on package.json. you may save the crx file in case chromium defaults to block/dl/load. -->
+    - blacklist `nil`
   - normalize: don't close window with last tab https://chromewebstore.google.com/detail/dont-close-window-with-la/dlnpfhfhmkiebpnlllpehlmklgdggbhn
   - enhance new tab: intention <!-- repo: f: intention. load unpacked with dev mode on. -->
     - allow in incognito
