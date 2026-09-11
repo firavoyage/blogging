@@ -58,7 +58,7 @@
     if (x % 40 === 0) {
       tickHeight = 24; // High tick every 40px
       // Render text label
-      svgContent += `<text x="${posX + 2}" y="36" stroke="none">${x}</text>`;
+      svgContent += `<text x="${posX}" y="36" stroke="none" text-anchor="middle">${x}</text>`;
     } else if (x % 20 === 0) {
       tickHeight = 15; // Mid tick every 20px
     }
