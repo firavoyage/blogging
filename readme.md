@@ -741,6 +741,7 @@ $fira$ `elegance`
   - google testing on the toilet
   - refactoring ui (adam wathan & steve schoger)
   - react docs (learn on react.dev)
+  - the stranger (albert camus)
   - .clrs
   - .make (levelsio)
   - .mathematical olympiad series (xiong bin)
@@ -751,7 +752,6 @@ $fira$ `elegance`
   - .my youth romantic comedy is wrong, as i expected (wataru watari)
   - .the ryuo's work is never done! (shirow shiratori)
   - .chitose is in the ramune bottle (hiromu)
-  - .the stranger (albert camus)
   - .freedom of money (cz)
   - ..kokoro (natsume sōseki)
   - ..the kite runner (khaled hosseini)
