@@ -5,9 +5,13 @@
       "path": "../../f/drafts"
     },
     {
-      "name": "autostart",
-      "path": "../../f/autostart"
+      "name": "code",
+      "path": "../../f/code"
     },
+    // {
+    //   "name": "autostart",
+    //   "path": "../../f/autostart"
+    // },
     // {
     //   "name": "humility",
     //   "path": "../../f/humility"
