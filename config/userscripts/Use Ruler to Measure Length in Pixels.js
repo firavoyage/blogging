@@ -11,6 +11,7 @@
   "use strict";
 
   // Settings
+  // const RULER_LENGTH = 700; // Ruler tick area length in pixels
   const RULER_LENGTH = 600; // Ruler tick area length in pixels
   const PADDING = 20; // Padding before 0px and after last graduation
   const TOTAL_WIDTH = RULER_LENGTH + PADDING * 2;
@@ -55,16 +56,41 @@
     const posX = x + PADDING; // Offset position by padding
     let tickHeight = 8; // Default tick every 4px
 
-    if (x % 40 === 0) {
+    if (x % 40 === 0 && x < 90 * 4) {
       tickHeight = 24; // High tick every 40px
       // Render text label
-      svgContent += `<text x="${posX}" y="36" stroke="none" text-anchor="middle">${x}</text>`;
+
+      // base 4px
+      svgContent += `<text x="${posX}" y="36" stroke="none" text-anchor="middle">${
+        x / 4
+      }</text>`;
+      // svgContent += `<text x="${posX}" y="36" stroke="none" text-anchor="middle">${x}</text>`;
     } else if (x % 20 === 0) {
       tickHeight = 15; // Mid tick every 20px
     }
 
     // Draw crisp 1px SVG line using shape-rendering crispEdges
     svgContent += `<line x1="${posX}" y1="0" x2="${posX}" y2="${tickHeight}" shape-rendering="crispEdges"/>`;
+  }
+
+  // render tailwind max width sizes
+  for (const [size, x] of Object.entries({
+    xs: 20,
+    sm: 24,
+    md: 28,
+    lg: 32,
+    xl: 36,
+    "2xl": 42,
+    "3xl": 48,
+    "4xl": 56,
+    "5xl": 64,
+    "6xl": 72,
+    "7xl": 80,
+  })) {
+    // 1rem = 16px
+    svgContent += `<text x="${
+      x * 16
+    }" y="36" stroke="none" text-anchor="middle">${size}</text>`;
   }
 
   svgContent += `</g>`;
@@ -147,6 +173,17 @@
       } else {
         ruler.style.left = `${rect.left}px`;
         ruler.style.top = `${rect.top}px`;
+      }
+
+      for (const item of document.querySelectorAll(
+        "#userscript-svg-ruler text"
+      )) {
+        const x = item.getAttribute('x')
+        const y = item.getAttribute('y')
+        item.setAttribute(
+          "transform",
+          `rotate(${360 - rotationAngle}, ${x}, ${y})`
+        );
       }
     }
   });
