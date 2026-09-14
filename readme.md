@@ -847,6 +847,7 @@ $fira$ `elegance`
   - lenovo yoga 13s acn 2021
   - samsung galaxy a57 <!-- ~~samsung galaxy s23 plus~~ samsung galaxy s23 fe -->
   - smartisan revolution ii
+  - mi pad 7
   - sony wireless noise canceling headphones wh-ch720n
   - oneplus buds 3
   - oppo enco free 3
