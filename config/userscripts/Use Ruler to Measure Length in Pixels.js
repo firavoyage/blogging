@@ -178,11 +178,15 @@
       for (const item of document.querySelectorAll(
         "#userscript-svg-ruler text"
       )) {
-        const x = item.getAttribute('x')
-        const y = item.getAttribute('y')
+        const x = Number(item.getAttribute('x'))
+        const y = Number(item.getAttribute('y'))
         item.setAttribute(
           "transform",
-          `rotate(${360 - rotationAngle}, ${x}, ${y})`
+          rotationAngle == 90?
+          // align better
+          `rotate(${360 - rotationAngle}, ${x+2}, ${y})`:
+          // `rotate(${360 - rotationAngle}, ${x}, ${y})`
+          ''
         );
       }
     }
