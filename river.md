@@ -31128,3 +31128,9 @@ interesting.
 
 ---
 
+for some reasons google ai mode renders in local noto sans cjk instead of google sans and roboto.
+
+weird.
+
+---
+
