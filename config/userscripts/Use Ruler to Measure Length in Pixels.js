@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Use Ruler to Measure Length in Pixels
-// @version      2.1
+// @version      2.2
 // @description  SVG pixel ruler, draggable, toggles with Alt+R, rotates 0/90 on click, with end padding.
 // @author       You
 // @match        *://*/*
