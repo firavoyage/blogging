@@ -124,6 +124,7 @@ $fira$ `elegance`
   - americano coffee
   - oolong/jasmine/earl grey tea
   - orange/watermelon juice
+  - milk
   - dark chocolate bar
   - truffles
   - butter cookies
