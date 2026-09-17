@@ -305,8 +305,18 @@ hyper os <!-- an android tablet rom by mi -->
   - select all
   - share <!-- not open with, which could only import one by one -->
 - settings
+  - theme
+    - sensor opacity `0`
+    - ring design `none`
   - metrics
     - achievement type `off`
+    - judgement vis
+      - great
+      - good
+      - miss
+    - fluctuation vis <!-- early/late -->
+      - great
+      - good
   - gameplay
     - pause `hold`
     - speed `8.0`
