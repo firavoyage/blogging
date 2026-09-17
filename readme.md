@@ -867,6 +867,7 @@ $fira$ `elegance`
 - on android 16 <!-- 11 -->
   - (see `android.md`)
   - (see `one ui.md`)
+  - (see `hyper os.md`)
 
 <!-- 
 
