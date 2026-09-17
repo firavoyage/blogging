@@ -60,6 +60,10 @@ hyper os <!-- an android tablet rom by mi -->
     - multiple audio sources `on`
   - system sounds: (all) `off`
 
+## apps
+
+- (uninstall bloatware)
+
 ## additional settings
 
 - usb debugging `on`
