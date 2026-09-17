@@ -243,7 +243,43 @@ hyper os <!-- an android tablet rom by mi -->
 
 # `astrodx`
 
+- format files <!-- file ext is required. seems currently it reads from text metadata rather than filename, so the batch rename has no effect. -->
+
+  ```
+  ~ % adb shell "ls -la '/sdcard/Download'"
+
+  total 32099569
+  -rw-rw----  1 u0_a242 media_rw 32748869308 2026-09-17 22:41 MaiArchive.zip
+  drwxrws--- 28 u0_a242 media_rw        3452 2026-09-18 01:40 adx
+  -rw-rw----  1 u0_a242 media_rw    88774024 2026-09-18 01:22 astrodx.apk
+  drwxrws---  2 u0_a242 media_rw        3452 2026-09-17 22:24 laptop
+  drwxrws---  2 u0_a242 media_rw        4096 2026-09-17 22:24 phone
+  drwxrws---  2 u0_a242 media_rw        3452 2026-09-17 22:23 self
+  ~ % adb shell "find /sdcard/Download/adx/ -type f -name '*.zip' | while read -r file; do mv \"\$file\" \"\${file%.zip}.adx\"; done"
+
+
+  ~ % adb shell "find /sdcard/Download/adx/ -type f -name '*.adx' | wc -l"
+
+  1562
+  ~ % adb shell "find /sdcard/Download/adx/ -type f \( -name '\[DX\] *.adx' -o -name '\[ST\] *.adx' \) | while read -r file; do
+      dir=\$(dirname \"\$file\")
+      base=\$(basename \"\$file\")
+
+      if [[ \"\$base\" == \"[DX] \"* ]]; then
+          new_base=\${base#\"[DX] \"}
+          mv \"\$file\" \"\$dir/\$new_base\"
+      elif [[ \"\$base\" == \"[ST] \"* ]]; then
+          # Strip '[ST] ', then strip '.adx', and rebuild as 'name [ST].adx'
+          name_only=\${base#\"[ST] \"}
+          name_only=\${name_only%.adx}
+          mv \"\$file\" \"\$dir/\$name_only [ST].adx\"
+      fi
+  done"
+  ```
+
 - import charts
+  - select all
+  - share <!-- not open with, which could only import one by one -->
 
 # files
 
