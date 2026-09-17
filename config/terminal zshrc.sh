@@ -193,10 +193,10 @@ sound() {
 }
 
 phone() {
-  adb kill-server
-  adb start-server
+  # adb kill-server
+  # adb start-server
 
-  sleep 1
+  # sleep 1
 
   # # mute media
   # adb shell cmd media_session volume --stream 3 --set 0

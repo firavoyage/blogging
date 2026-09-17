@@ -67,3 +67,7 @@ hyper os <!-- an android tablet rom by mi -->
 ## additional settings
 
 - usb debugging `on`
+- install via usb `on`
+- default usb config `file transfer`
+- usb debugging (security settings) `on`
+- disable adb auth timeout `on`
