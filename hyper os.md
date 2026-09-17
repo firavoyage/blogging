@@ -40,12 +40,16 @@ hyper os <!-- an android tablet rom by mi -->
 
 ## notification & status bar
 
+- notifications
+  - lock screen: format: `off`
 - app notifications
   - (all) `off`
 - customize icon display
   - number of notification icons shown `none`
   - (all) `off`
 - battery indicator `graphical`
+- items shown on the lock screen after swiping down: (all) `off`
+- smart device controls `off`
 
 ## home screen
 
@@ -60,6 +64,7 @@ hyper os <!-- an android tablet rom by mi -->
 - color scheme `dark mode`
 - brightness level
   - automatic brightness `off`
+- reading mode `classic`
 
 ## sound
 
@@ -161,6 +166,18 @@ hyper os <!-- an android tablet rom by mi -->
   - default usb config `file transfer`
   - usb debugging (security settings) `on`
   - disable adb auth timeout `on`
+
+# `control center` <!-- quick panel -->
+
+- edit and sort
+  - lock orientation <!-- portrait/screen rotation -->
+  - bluetooth
+  - screenshot
+  - screen recorder
+  - floating windows
+  - workstation
+  - active apps
+  - settings
 
 # `lock screen`
 
