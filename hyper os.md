@@ -301,6 +301,8 @@ hyper os <!-- an android tablet rom by mi -->
 
 - add games
 - booster settings
+  - general settings
+    - content recommendations `off`
   - game dnd: enhanced experience
     - restrict screenshot gestures `on`
     - dont open notification shade `on`
