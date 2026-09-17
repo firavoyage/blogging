@@ -535,4 +535,8 @@ install other apps
 
 [astrodx](https://github.com/2394425147/astrodx/releases) [direct](https://github.com/2394425147/astrodx/releases/download/v2.2.0.0023/2.2.0.0023.apk)
 
+# home screen apps
+
+- astrodx
+- vlc
 
