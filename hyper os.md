@@ -162,6 +162,13 @@ hyper os <!-- an android tablet rom by mi -->
   - usb debugging (security settings) `on`
   - disable adb auth timeout `on`
 
+# `lock screen`
+
+- customize lock screen <!-- long press -->
+  - time `hh:mm`
+  - date `dd^day` <!-- {date}^{day of week} -->
+  - none
+
 # `lawnchair`
 
 - general
