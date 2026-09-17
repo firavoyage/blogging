@@ -236,6 +236,19 @@ hyper os <!-- an android tablet rom by mi -->
   - web archives
   - duolingo max
 
+# `vlc`
+
+- extra settings: subtitles: prefered lang `en`
+- extra settings: audio: prefered lang `jp`
+
+# `astrodx`
+
+- import charts
+
+# files
+
+- copy `music` and `videos`
+
 # apps
 
 install apps
