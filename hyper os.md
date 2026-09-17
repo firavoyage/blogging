@@ -10,6 +10,10 @@ hyper os <!-- an android tablet rom by mi -->
 
 # `settings`
 
+## (account)
+
+- name `__`
+
 ## my device
 
 - os version (tap continuously)
@@ -187,9 +191,50 @@ hyper os <!-- an android tablet rom by mi -->
   - autostart `on`
   - battery `no restrictions`
 
-# `bitwarden`
+# `bitwarden` <!-- ? -->
 
+# `gboard`
 
+- lang
+  - en
+  - jp `qwerty`
+    - use half width space `on`
+  - zh
+    - fuzzy pinyin `on`
+- pref
+  - number row `on`
+  - lang switch key `on` <!-- faster wo tradeoff, as i never use emojis -->
+- theme `system auto`
+  - key borders `off` <!-- a bit confusing, you could tap again on your current selection, not common in radio group like components -->
+- corrections & suggestions
+  - don't suggest offensive wordsd `off`
+- clipboard
+  - show addresses, ... `off`
+- (bar)
+  - text editing
+  - clipboard
+
+# `firefox`
+
+- search
+  - default search engine `Google` <!-- google ai mode -->
+    - add search engine
+      - name `Google`
+      - search string url `https://google.com/ai?q=%s&gl=us`
+      - search suggestion api `off` <!-- i feel it's rarely helpful, while adding visual noise all the time -->
+  - suggestions from firefox `off`
+  - suggestions from sponsors `off`
+- homepage: (all) `off`
+- customize: show tab bar `on`
+- accessibility: zoom on all websites `on`
+- translations: offer to translate when possible `off`
+- extensions <!-- disable "use desktop site" -->
+  - ublock origin
+  - violent monkey
+  - cookie editor
+  - control panel for twitter
+  - web archives
+  - duolingo max
 
 # apps
 
@@ -429,4 +474,9 @@ x:999 y:967 screen:0 window:44040680
 
 ^C%
 ```
+
+install other apps
+
+[astrodx](https://github.com/2394425147/astrodx/releases) [direct](https://github.com/2394425147/astrodx/releases/download/v2.2.0.0023/2.2.0.0023.apk)
+
 
