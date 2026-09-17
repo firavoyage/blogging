@@ -295,6 +295,16 @@ hyper os <!-- an android tablet rom by mi -->
     - speed `8.0`
   - frame rate `120fps` <!-- or `144fps` -->
 
+# `game turbo`
+
+<!-- security (app): game turbo -->
+
+- add games
+- booster settings
+  - game dnd: enhanced experience
+    - restrict screenshot gestures `on`
+    - dont open notification shade `on`
+
 # files
 
 - copy `music` and `videos`
