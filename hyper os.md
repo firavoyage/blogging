@@ -287,6 +287,13 @@ hyper os <!-- an android tablet rom by mi -->
 - import charts
   - select all
   - share <!-- not open with, which could only import one by one -->
+- settings
+  - metrics
+    - achievement type `off`
+  - gameplay
+    - pause `hold`
+    - speed `8.0`
+  - frame rate `120fps` <!-- or `144fps` -->
 
 # files
 
