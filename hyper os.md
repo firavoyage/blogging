@@ -151,6 +151,10 @@ hyper os <!-- an android tablet rom by mi -->
     - play video `vlc`
   - notify about updates `off`
 
+## battery
+
+- battery protection: charging protection `battery protection`
+
 ## additional settings
 
 - gesture shortcuts
