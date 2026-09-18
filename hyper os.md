@@ -321,7 +321,11 @@ hyper os <!-- an android tablet rom by mi -->
   - gameplay
     - pause `hold`
     - speed `8.0`
-  - frame rate `120fps` <!-- or `144fps` -->
+  - graphics
+    - background dim `0` <!-- = 0.8 -->
+    - frame rate `120fps` <!-- or `144fps` -->
+  - system
+    - screen orientation `portrait`
 
 # `game turbo`
 
