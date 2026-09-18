@@ -310,13 +310,14 @@ hyper os <!-- an android tablet rom by mi -->
     - ring design `none`
   - metrics
     - achievement type `off`
+    - show (any) note judgements `off`
     - judgement vis
       - great
       - good
       - miss
     - fluctuation vis <!-- early/late -->
-      - great
-      - good
+      - ~~great~~
+      - ~~good~~
   - gameplay
     - pause `hold`
     - speed `8.0`
