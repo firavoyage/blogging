@@ -346,6 +346,64 @@ hyper os <!-- an android tablet rom by mi -->
     - restrict screenshot gestures `on`
     - dont open notification shade `on`
 
+# `canta`
+
+- enable
+  - open shizuku
+  - follow instructions of wireless debugging
+  - long press notification to enter pairing code
+  - start service
+  - permit all apps
+- remove
+  - ad privacy
+  - analytics
+  - app vault
+  - application extension service
+  - backup
+  - bluetooth extension
+  - blur
+  - browser <!-- com.android.browser, xiaomi browser -->
+  - bullet screen notification
+  - cloud backup
+  - partnerbookmarks
+  - com.xiaomi.touchservice
+  - device interconnectivity services
+  - digital key
+  - education center
+  - family guard
+  - feedback
+  - fused location provider
+  - getapps <!-- com.xiaomi.market -->
+  - location services
+  - log generator
+  - mi coin
+  - mi connect
+  - mi ditto
+  - mi secure keyboard
+  - mi store system components
+  - mi cloud sync
+  - mi macro
+  - mi trust service
+  - network location provider
+  - otrpbroker
+  - ~~package installer~~ <!-- cant be uninstalled, listed on both existing and removed apps -->
+  - quick apps service framework
+  - search
+  - security onetrack service
+  - smart service
+  - sogou ime for xiaomi
+  - system daemon
+  - third party app problems
+  - translate <!-- com.xiaomi.aiasst.vision -->
+  - ui reporter
+  - wake w voice
+  - wapi cert
+  - wm service
+  - xiaomi cloud
+  - xiaomi hyper xiaoai
+  - (xiaomi car interconnectivity) com.xiaomi.mis
+  - (game service) com.xiaomi.gamecenter.sdk.service
+
 # `play` <!-- google play store -->
 
 - login
@@ -353,6 +411,7 @@ hyper os <!-- an android tablet rom by mi -->
 - play protect `off`
 - settings
   - general: google play games: play games sidekick `off`
+  - notifications: (all) `off`
   - network preferences
     - auto update apps `off`
     - auto play vids `off`
