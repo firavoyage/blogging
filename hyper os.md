@@ -58,6 +58,8 @@ hyper os <!-- an android tablet rom by mi -->
 - system navigation `buttons`
   <!-- - dont respond to three and four finger gestures `on`
   - shortcuts: (all) `off` -->
+- blur preview for recents
+  - camera
 
 ## display & brightness
 
@@ -162,6 +164,7 @@ hyper os <!-- an android tablet rom by mi -->
   - (rest) `off`
 - side toolbox `off`
 - floating windows `off`
+- accounts & sync: basic google services `on`
 - additional app features
   - (all) `off`
 - developer settings
@@ -342,6 +345,17 @@ hyper os <!-- an android tablet rom by mi -->
   - game dnd: enhanced experience
     - restrict screenshot gestures `on`
     - dont open notification shade `on`
+
+# `play` <!-- google play store -->
+
+- login
+- opt out `(all)`
+- play protect `off`
+- settings
+  - general: google play games: play games sidekick `off`
+  - network preferences
+    - auto update apps `off`
+    - auto play vids `off`
 
 # files
 
@@ -594,4 +608,5 @@ install other apps
 
 - astrodx
 - vlc
+- files
 
