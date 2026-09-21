@@ -276,7 +276,7 @@ riptmux(){
   local cmd="$bold$bright_cyan" # command or flag
   local arg="$cyan" # argument
 
-  local version="tmux 0.5 (2026.08.22)"
+  local version="tmux 0.6 (2026.09.21)"
   local help=$(cat <<- EOF | sed 's/^  //'
   Run and manage background daemons
 
@@ -290,7 +290,7 @@ riptmux(){
     ${cmd}l${reset}, ${cmd}ls${reset}                 List all sessions
     ${cmd}a${reset} ${arg}[name]${reset}              Back to the last (or a named) session
     ${cmd}clear${reset}                 Clear inactive sessions of last command finished
-    ${cmd}kill${reset} ${arg}<name>${reset}           Kill a session
+    ${cmd}kill${reset}, ${cmd}rm${reset} ${arg}<name>${reset}       Kill a session
     ${cmd}rename${reset} ${arg}<old>${reset} ${arg}<new>${reset}    Rename a session
 
   ${heading}Options:${reset}
@@ -334,6 +334,8 @@ riptmux(){
   elif test $# -eq 2 -a $1 = "a"; then
     command tmux a -t $2
   elif test $# -eq 2 -a $1 = "kill"; then
+    command tmux kill-session -t $2
+  elif test $# -eq 2 -a $1 = "rm"; then
     command tmux kill-session -t $2
   elif test $# -eq 3 -a $1 = "rename"; then
     command tmux rename-session -t $2 $3
