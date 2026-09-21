@@ -3405,7 +3405,10 @@ sudo systemctl disable --now forgejo # calm by default
 # sudo systemctl status forgejo # check or debug
 
 # program w gnome design
-flatpak install -y flathub org.gnome.Builder
+# flatpak install -y flathub org.gnome.Builder
+# flatpak build-bundle /var/lib/flatpak/repo org.gnome.Builder.flatpak org.gnome.Builder stable && sudo mkdir -p /var/local/flatpak-backups/ && sudo mv org.gnome.Builder.flatpak /var/local/flatpak-backups/
+# flatpak uninstall -y org.gnome.Builder
+# cd /var/local/flatpak-backups/ && flatpak install -y org.gnome.Builder.flatpak
 flatpak install -y flathub re.sonny.Workbench
 flatpak remote-add --if-not-exists gnome-nightly https://nightly.gnome.org/gnome-nightly.flatpakrepo
 flatpak install -y gnome-nightly org.gnome.Adwaita1.Demo # highly useful
