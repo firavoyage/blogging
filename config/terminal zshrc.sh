@@ -542,6 +542,9 @@ alias pip='uv pip install'
 
 alias dl='yt-dlp'
 
+alias py='python3'
+alias python='python3'
+
 # Environment
 
 export PATH="$HOME/.local/bin:$PATH"
