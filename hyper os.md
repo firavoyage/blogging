@@ -668,4 +668,5 @@ install other apps
 - astrodx
 - vlc
 - files
+- zhihu++
 
