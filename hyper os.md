@@ -416,6 +416,16 @@ hyper os <!-- an android tablet rom by mi -->
     - auto update apps `off`
     - auto play vids `off`
 
+# `piliplus`
+
+- login, disable anonymous <!-- it does not smartly disable anonymous only when to unlock higher vid quality -->
+- settings
+  - appearance
+    - tabs on home page: (all) `off`
+  - misc
+    - hot search `off`
+    - search exploration `off`
+
 # files
 
 - copy `music` and `videos`
@@ -669,4 +679,4 @@ install other apps
 - vlc
 - files
 - zhihu++
-
+- piliplus
