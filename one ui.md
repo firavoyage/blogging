@@ -273,7 +273,9 @@ one ui <!-- an android rom by samsung -->
   - visibility of indicator icons
     - network information: (all) `off`
     - system icon
-      - mobile data signal, alarm, wifi, battery icon, nfc, bluetooth, mobile hotspot `on`
+      - alarm, wifi, battery icon, nfc, bluetooth, mobile hotspot `on`
+      <!-- - mobile data signal, alarm, wifi, battery icon, nfc, bluetooth, mobile hotspot `on` -->
+      <!-- mobile data signal is always on -->
       - (rest) `off`
 - sound assistant
   - customize volume panel `on` <!-- adjust the volume of specific apps just in time -->
