@@ -31154,3 +31154,13 @@ kavayliu
 buy yt premium for 3x playback speed?!
 
 ---
+
+yes it's different.
+
+if you click "show all" (under top songs) and then refresh.
+
+e.g. https://music.youtube.com/channel/UC4_Z-74r7txQN4jvXQeGl8g
+
+when you click, you will see a list like spa popup page.
+
+we
