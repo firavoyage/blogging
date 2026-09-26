@@ -31163,4 +31163,7 @@ e.g. https://music.youtube.com/channel/UC4_Z-74r7txQN4jvXQeGl8g
 
 when you click, you will see a list like spa popup page.
 
-we
+when you ctrl click or click & refresh, you will see a two column dedicated playlist view (info and list).
+
+---
+
