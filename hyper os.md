@@ -48,7 +48,9 @@ hyper os <!-- an android tablet rom by mi -->
   - number of notification icons shown `none`
   - (all) `off`
 - battery indicator `graphical`
-- items shown on the lock screen after swiping down: (all) `off`
+- items shown on the lock screen after swiping down
+  - notification shade `off`
+  - control center `on`
 - smart device controls `off`
 
 ## home screen
