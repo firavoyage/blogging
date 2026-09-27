@@ -31169,3 +31169,11 @@ when you ctrl click or click & refresh, you will see a two column dedicated play
 
 ---
 
+`ref`
+
+on naming
+
+for path (all filename/dirname), use standard english words, in singular, in lowercase
+
+---
+

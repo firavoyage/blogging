@@ -377,6 +377,7 @@ chmod +x rish
 - theme `system auto`
   - key borders `off` <!-- a bit confusing, you could tap again on your current selection, not common in radio group like components -->
 - corrections & suggestions
+  - auto correction `off` <!-- it would not make typos whatever on glide typing, and i can know exact the english dict words on suggestion bar if i do not intend to spell in a specific way -->
   - don't suggest offensive wordsd `off`
 - clipboard
   - show addresses, ... `off`
