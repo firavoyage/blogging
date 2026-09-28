@@ -617,7 +617,7 @@ $fira$ `elegance`
   - puella magi madoka magica the movie part iii: rebellion (2013)
   - suzume (2022)
   - the disappearance of haruhi suzumiya (2010)
-  - .kizumonogatari (2016)
+  - kizumonogatari, part i (2016)
   - .k-on! the movie (2011)
   - .weathering with you (2019)
   - .bocchi the rock! recap part 1 (2024)
