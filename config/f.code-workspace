@@ -92,8 +92,8 @@
       "**/.build/**": true
     },
     "files.associations": {
-      "*.json": "yaml",
-      // "*.json": "jsonc",
+      // "*.json": "yaml",
+      "*.json": "jsonc",
       // "*.css": "scss"
     }
   }
