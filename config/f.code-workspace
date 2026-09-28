@@ -8,6 +8,10 @@
       "name": "code",
       "path": "../../f/code"
     },
+    {
+      "name": "lib",
+      "path": "../../f/lib"
+    },
     // {
     //   "name": "autostart",
     //   "path": "../../f/autostart"
