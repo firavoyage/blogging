@@ -618,6 +618,7 @@ $fira$ `elegance`
   - suzume (2022)
   - the disappearance of haruhi suzumiya (2010)
   - kizumonogatari part i: tekketsu (2016)
+  - kizumonogatari part ii: nekketsu (2016)
   - .k-on! the movie (2011)
   - .weathering with you (2019)
   - .bocchi the rock! recap part 1 (2024)
