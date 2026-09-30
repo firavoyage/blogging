@@ -3220,6 +3220,11 @@ sudo snap remove -y thunderbird # use web (gmail, outlook, etc.) instead. thunde
 sudo apt remove -y gnome-text-editor # aka gedit or text editor, let it auto bind vscode then
 
 sudo apt remove -y update-notifier # simplify noise
+
+# disable fullscreen logout prompt overlay when gnome shell lies that it could not recover
+systemctl --user disable gnome-session-failed.service
+systemctl --user mask gnome-session-failed.service
+# killall gnome-session-failed
 ```
 
 install

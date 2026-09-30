@@ -31199,3 +31199,19 @@ turtle.done()
 
 ---
 
+some ext caused my laptop to crash it seems.
+
+and after a forced logout (i may kill the crash screen forcefully, idk how to),
+
+extensions are auto disabled.
+
+at that time the enabled ones are
+
+- alt tab scroll workaround
+- lilypad
+- notification filter.
+
+it only crashes after sleep, maybe something becomes undefined back then.
+
+---
+
