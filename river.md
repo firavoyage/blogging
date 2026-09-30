@@ -31215,3 +31215,8 @@ it only crashes after sleep, maybe something becomes undefined back then.
 
 ---
 
+solve a weird bug ("ref error, react not defined") by lifting storybook.index.html and storybook.index.tsx
+
+idk. tsconfig quirk?
+
+---
