@@ -31219,4 +31219,12 @@ solve a weird bug ("ref error, react not defined") by lifting storybook.index.ht
 
 idk. tsconfig quirk?
 
+## oct 2026
+
+seems i missed the heading of sep 2026.
+
+nevermind.
+
 ---
+
+
