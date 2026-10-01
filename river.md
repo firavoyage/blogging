@@ -31236,3 +31236,11 @@ well, the app/game itself needs esc on fullscreen...
 takeaway is you may not want to prevent default on f11 to (downgrade to) programmatic fullscreen.
 
 ---
+
+interesting.
+
+"Sociolinguistics"
+
+(yeah, ive dl the course outline, quite awkward actually, common in zhcn uni)
+
+---
