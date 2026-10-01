@@ -31244,3 +31244,9 @@ interesting.
 (yeah, ive dl the course outline, quite awkward actually, common in zhcn uni)
 
 ---
+
+maybe i would adopt the naming, where dates are separated by sleep rather than local 0.
+
+i would start it today, on bangumi watch record for example.
+
+---
