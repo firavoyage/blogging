@@ -565,6 +565,10 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `23` 2026.09.26
 - `24` 2026.09.27
 
+## nisemonogatari (2012)
+
+- `1` 2026.10.01
+
 # gaming
 
 ## sr
