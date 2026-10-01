@@ -31227,4 +31227,10 @@ nevermind.
 
 ---
 
+"press f11 to exit fullscreen" (f11 user triggered)
 
+"press esc to exit fullscreen" (programmatic)
+
+<!-- well, the app/game itself needs esc on fullscreen... -->
+
+---
