@@ -272,8 +272,10 @@ hyper os <!-- an android tablet rom by mi -->
 
 # `vlc`
 
-- extra settings: subtitles: prefered lang `en`
-- extra settings: audio: prefered lang `jp`
+- settings
+  - video: hardware acceleration `disabled` <!-- fix subs flashing -->
+  - extra settings: subtitles: prefered lang `en`
+  - extra settings: audio: prefered lang `jp`
 
 # `astrodx`
 
