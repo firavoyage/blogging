@@ -656,6 +656,7 @@ $fira$ `elegance`
   - yani neko (2026)
   - onimai (2023)
   - a certain scientific railgun (2013)
+  - taisen arigatou gozaimashita (2026)
   - .nisemonogatari (2012)
   - .air (2005)
   - .sword art online (2012)
