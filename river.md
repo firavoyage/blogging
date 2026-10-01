@@ -31231,6 +31231,8 @@ nevermind.
 
 "press esc to exit fullscreen" (programmatic)
 
-<!-- well, the app/game itself needs esc on fullscreen... -->
+well, the app/game itself needs esc on fullscreen...
+
+takeaway is you may not want to prevent default on f11 to (downgrade to) programmatic fullscreen.
 
 ---
