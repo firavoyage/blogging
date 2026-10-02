@@ -31263,3 +31263,31 @@ i would start it today, on bangumi watch record for example.
 
 ---
 
+```
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+1657106 fira      20   0 1132.2g   1.5g 136592 R 121.2  10.0  29:37.76 chrome
+1388999 fira      20   0   33.0g 150900  99424 S  29.1   1.0  49:33.08 chrome
+1389650 fira      20   0 1395.3g 501656  44240 S  28.8   3.2  13:58.84 code
+1392036 fira      20   0 1391.9g 253856  34040 S  27.2   1.6   2:47.26 code
+1387943 fira      20   0 1241892  97376  59908 S   7.0   0.6  21:39.64 Xorg
+```
+
+```
+top - 23:50:24 up 16 days,  4:45,  1 user,  load average: 2.55, 2.59, 2.18
+Tasks: 508 total,   1 running, 503 sleeping,   0 stopped,   4 zombie
+%Cpu(s):  0.9 us,  0.8 sy,  0.0 ni, 84.3 id, 14.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  15336.0 total,   2718.1 free,   9521.5 used,   3489.2 buff/cache
+MiB Swap:   8448.0 total,   2695.2 free,   5752.7 used.   5814.5 avail Mem
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+1674261 fira      20   0 2636432 166292 106872 S   3.0   1.1   0:01.27 ghostty
+1387943 fira      20   0 1241892  97376  59908 S   2.7   0.6  21:40.12 Xorg
+1399927 fira      20   0 6304040 317736 100344 S   2.3   2.0  24:12.46 gnome-shell
+```
+
+wow, pvzge on cocos2d really burns your cpu.
+
+no idea if it really takes.
+
+---
+
