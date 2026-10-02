@@ -31254,3 +31254,12 @@ maybe i would adopt the naming, where dates are separated by sleep rather than l
 i would start it today, on bangumi watch record for example.
 
 ---
+
+> how it's structured
+>
+> how it can be mutated
+>
+> how it should display
+
+---
+
