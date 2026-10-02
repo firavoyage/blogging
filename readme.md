@@ -620,6 +620,7 @@ $fira$ `elegance`
   - kizumonogatari part i: tekketsu (2016)
   - kizumonogatari part ii: nekketsu (2016)
   - kizumonogatari part iii: reiketsu (2017)
+  - the odyssey (2026)
   - .k-on! the movie (2011)
   - .weathering with you (2019)
   - .bocchi the rock! recap part 1 (2024)

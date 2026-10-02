@@ -31255,6 +31255,12 @@ i would start it today, on bangumi watch record for example.
 
 ---
 
+"All Wishes Come True"
+
+quite awkward zhcn targeted narrative. embarrasing jokes.
+
+---
+
 > how it's structured
 >
 > how it can be mutated
@@ -31290,4 +31296,3 @@ wow, pvzge on cocos2d really burns your cpu.
 no idea if it really takes.
 
 ---
-
