@@ -31296,3 +31296,10 @@ wow, pvzge on cocos2d really burns your cpu.
 no idea if it really takes.
 
 ---
+
+interesting.
+
+"stl" stands for "standard template library", not "standard library" (std lib)
+
+---
+
