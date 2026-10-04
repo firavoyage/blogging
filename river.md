@@ -568,6 +568,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 ## nisemonogatari (2012)
 
 - `1` 2026.10.01
+- `2` 2026.10.04
 
 # gaming
 
