@@ -431,6 +431,23 @@ hyper os <!-- an android tablet rom by mi -->
   - system
     - screen orientation `portrait`
 
+# `girls band party`
+
+- options
+  - live settings
+    - note: notes speed (ideal)
+    - combos: combo counter `off`
+  - effect & sound settings
+    - live mode: framerate `120fps`
+    - live effects
+      - skill window `off`
+      - skill effect text `off`
+  - system & push settings
+    - download
+      - music video data: download all
+- data transfer
+  - link
+
 # `our notes`
 
 - options
