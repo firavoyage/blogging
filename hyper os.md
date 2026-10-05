@@ -685,3 +685,5 @@ install other apps
 - files
 - zhihu++
 - piliplus
+- project sekai
+- bang dream our notes
