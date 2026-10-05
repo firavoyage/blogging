@@ -696,4 +696,6 @@ install other apps
 - zhihu++
 - piliplus
 - project sekai
+- hatsune miku: colorful stage
+- bang dream girls band party
 - bang dream our notes
