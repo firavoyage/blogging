@@ -426,7 +426,7 @@ hyper os <!-- an android tablet rom by mi -->
     - pause `hold`
     - speed `8.0`
   - graphics
-    - background dim `0` <!-- = 0.8 -->
+    - background dim `0.5` <!-- = 0.8 -->
     - frame rate `120fps` <!-- or `144fps` -->
   - system
     - screen orientation `portrait`
@@ -434,8 +434,12 @@ hyper os <!-- an android tablet rom by mi -->
 # `our notes`
 
 - options
-  - details
-    - fps setting `120fps`
+  - basic: notes speed (ideal)
+  - details: fps setting `120fps`
+  - display 1: combo display settings: combo number display `off` 
+  - display 2
+    - lane skin display settings: lane opacity `50`
+    - notes skin display settings: notes effect `simple`
 
 # files
 
