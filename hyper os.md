@@ -431,6 +431,20 @@ hyper os <!-- an android tablet rom by mi -->
   - system
     - screen orientation `portrait`
 
+# `project sekai`
+
+- options
+  - show
+    - note settings: note speed `10`
+    - display & effect settings
+      - lane transparency `50%`
+      - display skill `off`
+      - frame rate `high`
+    - music video settings
+      - mode `2dmv`
+  - system
+    - full download
+
 # `girls band party`
 
 - options
