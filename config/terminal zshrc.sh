@@ -93,6 +93,8 @@ alias npx='pnpx'
 
 alias i='pnpm init --bare'
 
+# alias b='b --preserve-symlinks'
+
 # inspired by whoami
 whereami() {
   pwd
@@ -544,6 +546,11 @@ alias dl='yt-dlp'
 
 alias py='python3'
 alias python='python3'
+
+alias rb='irb'
+alias ruby='irb'
+
+alias js='node'
 
 # Environment
 
