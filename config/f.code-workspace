@@ -12,6 +12,10 @@
       "name": "lib",
       "path": "../../f/lib"
     },
+    {
+      "name": "launch",
+      "path": "../../f/launch"
+    },
     // {
     //   "name": "autostart",
     //   "path": "../../f/autostart"
