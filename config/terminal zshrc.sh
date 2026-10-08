@@ -1,5 +1,10 @@
 # Shell Settings
 
+# normalize terminal value, merge values of the same type to silence tput false positives
+if [ -z "$TERM" ] || [ "$TERM" = "unknown" ]; then
+    export TERM=dumb
+fi
+
 setopt interactive_comments
 setopt POSIX_BUILTINS # reliable and predictable, fix "command cd" not found in zsh
 
