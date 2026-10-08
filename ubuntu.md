@@ -94,7 +94,7 @@ install
 sudo apt install -y curl wget ca-certificates gnupg lsb-release p7zip-full unzip unrar build-essential cmake apt-transport-https
 
 # git
-sudo apt install -y git git-filter-repo
+sudo apt install -y git git-filter-repo gh
 
 # trash
 sudo apt install -y trash-cli
