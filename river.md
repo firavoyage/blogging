@@ -31307,3 +31307,11 @@ interesting.
 "stl" stands for "standard template library", not "standard library" (std lib)
 
 ---
+
+chatgpt uses `<span class="TextBase-hXhSqg Text-lIMP0_" data-d-text-flow="" data-d-component="text" data-d-default-strong="" data-d-inline="">My recommendation:</span>`, non semantic html for bold, and thus i have no general way to copy md.
+
+(yeah, yet the native copy button fails, idk.)
+
+---
+
+
