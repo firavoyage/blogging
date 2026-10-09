@@ -31314,4 +31314,7 @@ chatgpt uses `<span class="TextBase-hXhSqg Text-lIMP0_" data-d-text-flow="" data
 
 ---
 
+google ai mode now uses _push_ (instead of _overlay_) sidebar on desktop.
+
+---
 
