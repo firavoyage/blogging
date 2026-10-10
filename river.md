@@ -31319,3 +31319,10 @@ google ai mode now uses _push_ (instead of _overlay_) sidebar on desktop.
 
 ---
 
+chatgpt: "this thread could not load (load after deep refresh/newtab...)"
+
+content jump on click.
+
+impressiving web engineering
+
+---
