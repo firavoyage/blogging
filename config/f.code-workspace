@@ -16,6 +16,10 @@
       "name": "launch",
       "path": "../../f/launch"
     },
+    {
+      "name": "observe",
+      "path": "../../f/observe"
+    },
     // {
     //   "name": "autostart",
     //   "path": "../../f/autostart"
