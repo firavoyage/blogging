@@ -557,6 +557,9 @@ alias ruby='irb'
 
 alias js='node'
 
+alias mkpath='mkdir -p'
+alias rmtree='rm -rf'
+
 # Environment
 
 export PATH="$HOME/.local/bin:$PATH"
