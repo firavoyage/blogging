@@ -55,6 +55,11 @@ one ui <!-- an android rom by samsung -->
     - swipe preview up/down to `open quick controls`
     - shooting methods: voice commands `off` <!-- no false positives, but useless -->
     - shutter sound `off`
+  - gallery
+    - viewing: add meitu options to gallery `off`
+    - stories
+      - auto create stories `off`
+      - notifications `off`
   - messages: more settings: auto delete otp messages `on`
 - clash meta for android
   - manage app if unused `off`
