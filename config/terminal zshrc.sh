@@ -560,6 +560,10 @@ alias js='node'
 alias mkpath='mkdir -p'
 alias rmtree='rm -rf'
 
+solve(){
+  cp 'template v8.js' "$1.js"
+}
+
 # Environment
 
 export PATH="$HOME/.local/bin:$PATH"
