@@ -561,7 +561,8 @@ alias mkpath='mkdir -p'
 alias rmtree='rm -rf'
 
 solve(){
-  cp 'template v8.js' "$1.js"
+  cp 	--update=none 'template v8.js' "$1.js"
+  open "$1.js"
 }
 
 # Environment
