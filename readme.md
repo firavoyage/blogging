@@ -660,6 +660,7 @@ $fira$ `elegance`
   - taisen arigatou gozaimashita (2026)
   - nisemonogatari (2012)
   - nekomonogatari black (2012)
+  - nekomonogatari white (2013)
   - .air (2005)
   - .sword art online (2012)
   - .re: zero - starting life in another world (2016)
