@@ -136,7 +136,8 @@ $fira$ `elegance`
   - butter croissant
   - potato chips
   - fried chicken
-  - instant noodles
+  - ramen
+  - laba congee
   - boiled water
   - coca cola
   - takoyaki
