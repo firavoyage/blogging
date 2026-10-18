@@ -870,6 +870,7 @@ $fira$ `elegance`
   - muji wrinkled nylon self-closing flat pouch s
   - jins ultra light airframe 066 peach on gold
   - kawasimaya ice lattice
+  - kokuyo saxa scissors white
   - muji stainless nail clipper s
   - muji acrylic ruler
   - muji perforated fastening tape
