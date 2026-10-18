@@ -438,6 +438,8 @@ chmod +x rish
 
 # `vlc`
 
+- video: hardware acceleration `disabled`
+- video screen orientation `landscape`
 - extra settings: subtitles: prefered lang `en`
 - extra settings: audio: prefered lang `jp`
 
