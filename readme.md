@@ -871,6 +871,8 @@ $fira$ `elegance`
   - jins ultra light airframe 066 peach on gold
   - kawasimaya ice lattice
   - muji stainless nail clipper s
+  - muji acrylic ruler
+  - muji perforated fastening tape
 - on ubuntu 24
   - (see `ubuntu.md`)
 - on android 16 <!-- 11 -->
