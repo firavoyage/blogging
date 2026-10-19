@@ -28,10 +28,10 @@
     //   "name": "humility",
     //   "path": "../../f/humility"
     // },
-    // {
-    //   "name": "intuitive",
-    //   "path": "../../f/intuitive"
-    // },
+    {
+      "name": "intuitive",
+      "path": "../../f/intuitive"
+    },
     // {
     //   "name": "have",
     //   "path": "../../f/have"
