@@ -31355,4 +31355,13 @@ impressiving web engineering
 
 ---
 
+> 7:00:00	
+
+confusing isnt it.
+
+it's somewhat irrelevant when you start the match.
+
+it helds for 7 days, not 7h.
+
+---
 
