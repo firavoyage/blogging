@@ -589,6 +589,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 ## nekomonogatari white (2013)
 
 - `1` 2026.10.16
+- `2` 2026.10.19
 
 # gaming
 
