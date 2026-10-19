@@ -561,8 +561,13 @@ alias mkpath='mkdir -p'
 alias rmtree='rm -rf'
 
 solve(){
-  cp --update=none 'template v8.js' "$1.js"
-  open "$1.js"
+  filename=$1.py
+  template='template.py'
+
+  cp --update=none $template $filename
+
+  # open "$filename"
+  code -g $filename:$(grep -n "  pass" $filename | tail -n 1 | cut -d: -f1):7
 }
 
 alias s='solve'
