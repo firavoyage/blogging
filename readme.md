@@ -859,7 +859,7 @@ $fira$ `elegance`
   - sony wireless noise canceling headphones wh-ch720n
   - oneplus buds 3
   - oppo enco free 3
-  - philips vtr5170 voice recorder <!-- newsmy digital recorder h8 -->
+  - philips vtr5170 audio recorder <!-- newsmy digital recorder h8 -->
   - morphy richards portable electric kettle mr6090
   - mi power bank 20000 67w <!-- mi power bank 20000 33w -->
   - muji storage box 37×26×17.5
