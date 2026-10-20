@@ -289,6 +289,7 @@ pip install weasyprint pymupdf reportlab pillow # print documents via web
 
 cargo install --locked uv # locked makes it predictable by using the specifc version needed instead of the latest one
 uv tool install ruff
+uv tool install strip-hints
 
 # c/cpp
 sudo apt install -y gcc g++ clang

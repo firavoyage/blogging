@@ -572,6 +572,8 @@ solve(){
 
 alias s='solve'
 
+alias clean='strip-hints --inplace' # remove py type sig
+
 # Environment
 
 export PATH="$HOME/.local/bin:$PATH"
