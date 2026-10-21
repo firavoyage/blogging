@@ -31366,3 +31366,16 @@ it helds for 7 days, not 7h.
 
 ---
 
+a dormmate fails to clear "了解此图片" on their windows desktop even w doubao llm,
+as it doesnt search by default.
+
+google ai modes handles it well, ref from zhihu and cnblogs.
+
+i thought it needs regedit.
+
+disabling windows spotlights in settings is enough.
+
+(though they use wp engine)
+
+---
+
