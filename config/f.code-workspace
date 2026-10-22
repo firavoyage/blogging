@@ -5,8 +5,12 @@
       "path": "../../f/drafts"
     },
     {
-      "name": "code",
-      "path": "../../f/code"
+      "name": "edit",
+      "path": "../../f/edit"
+    },
+    {
+      "name": "export",
+      "path": "../../f/export"
     },
     {
       "name": "lib",
@@ -16,10 +20,10 @@
       "name": "launch",
       "path": "../../f/launch"
     },
-    {
-      "name": "observe",
-      "path": "../../f/observe"
-    },
+    // {
+    //   "name": "observe",
+    //   "path": "../../f/observe"
+    // },
     // {
     //   "name": "autostart",
     //   "path": "../../f/autostart"
@@ -28,10 +32,10 @@
     //   "name": "humility",
     //   "path": "../../f/humility"
     // },
-    {
-      "name": "intuitive",
-      "path": "../../f/intuitive"
-    },
+    // {
+    //   "name": "intuitive",
+    //   "path": "../../f/intuitive"
+    // },
     // {
     //   "name": "have",
     //   "path": "../../f/have"
