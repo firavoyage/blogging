@@ -64,6 +64,19 @@ ubuntu
 fix
 
 ```sh
+# disable ubuntu auto updates
+echo "unattended-upgrades unattended-upgrades/enable_auto_updates boolean false" | sudo debconf-set-selections && sudo dpkg-reconfigure -f noninteractive unattended-upgrades
+
+sudo systemctl stop apt-daily.timer apt-daily-upgrade.timer
+sudo systemctl disable apt-daily.timer apt-daily-upgrade.timer
+sudo systemctl mask apt-daily.service apt-daily-upgrade.service
+
+sudo systemctl stop apport.service
+sudo systemctl disable apport.service
+sudo sed -i 's/enabled=1/enabled=0/g' /etc/default/apport
+
+sudo apt purge popularity-contest ubuntu-report -y
+
 # fix copy fail cve, which can jump from userspace to root when logined
 echo "install algif_aead /bin/false" | sudo tee /etc/modprobe.d/disable-algif_aead.conf
 sudo rmmod algif_aead
