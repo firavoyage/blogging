@@ -77,7 +77,7 @@
       // Build
       "**/pnpm-lock.yaml": true,
       "**/bun.lock": true,
-      "**/build/**": true,
+      // "**/build/**": true,
       "**/.build/**": true,
       "**/.vite/**": true,
       "**/.parcel/**": true,
