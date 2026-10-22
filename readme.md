@@ -865,6 +865,7 @@ $fira$ `elegance`
   - muji storage box 37×26×17.5
   - imakara umbrella bag
   - muji tritan water bottle 550ml
+  - muji food container 400ml
   - locknlock outdoor bottle 550ml
   - muji less tiring water repellent backpack
   - muji wrinkled nylon self-closing flat pouch s
