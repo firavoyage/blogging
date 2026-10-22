@@ -31380,3 +31380,6 @@ disabling windows spotlights in settings is enough.
 
 ---
 
+for some reasons the old newsmy recorder fixes itself, it seems.
+
+---
