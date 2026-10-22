@@ -1,6 +1,10 @@
 {
   "folders": [
     {
+      "name": "knowledge",
+      "path": "../../f/.knowledge"
+    },
+    {
       "name": "cp",
       "path": "../../f/cp"
     },
