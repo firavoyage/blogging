@@ -574,7 +574,15 @@ alias s='solve'
 
 alias clean='strip-hints --inplace' # remove py type sig
 
-alias compile='g++ -std=c++23 -O2 -I.'
+alias compile='g++ -std=c++23'
+
+check(){
+  problem=$1
+  filename="$problem.cpp"
+
+  compile "$filename" -o "$problem" && ./"$problem" < "$problem.in" > "$problem.out"
+  diff -w -B --strip-trailing-cr -y "$problem.out" "$problem.ans"
+}
 
 # Environment
 
