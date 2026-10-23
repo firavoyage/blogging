@@ -591,8 +591,16 @@ check(){
   filename="$problem.cpp"
   build_filename="$HOME/.cache/$problem.cpp"
 
-  compile "$filename" -o "$build_filename" && "$build_filename" < "$problem.in" > "$problem.out"
-  diff -w -B --strip-trailing-cr -y "$problem.out" "$problem.ans"
+  compile "$filename" -o "$build_filename" && "$build_filename" < "$problem.in" > "$problem.out" || return 1
+
+  # diff exits with 0 if files are identical, 1 if they differ
+  if diff -w -B --strip-trailing-cr -q "$problem.out" "$problem.ans" > /dev/null; then
+    # echo "$problem: passed"
+    echo "passed"
+  else
+    # echo "$problem: failed"
+    diff -w -B --strip-trailing-cr -y "$problem.out" "$problem.ans"
+  fi
 }
 
 # Environment
