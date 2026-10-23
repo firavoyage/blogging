@@ -560,7 +560,11 @@ alias js='node'
 alias mkpath='mkdir -p'
 alias rmtree='rm -rf'
 
-solve(){
+alias clean='strip-hints --inplace' # remove py type sig
+
+alias compile='g++ -std=c++23'
+
+solve_py(){
   filename=$1.py
   template='template.py'
 
@@ -570,17 +574,24 @@ solve(){
   code -g $filename:$(grep -n "  pass" $filename | tail -n 1 | cut -d: -f1):7
 }
 
+solve_cpp(){
+  filename=$1.cpp
+  template='template.cpp'
+
+  cp --update=none $template $filename
+
+  # open "$filename"
+  code -g $filename:$(grep -n "// solution" $filename | tail -n 1 | cut -d: -f1):7
+}
+
 alias s='solve'
-
-alias clean='strip-hints --inplace' # remove py type sig
-
-alias compile='g++ -std=c++23'
 
 check(){
   problem=$1
   filename="$problem.cpp"
+  build_filename="$HOME/.cache/$problem.cpp"
 
-  compile "$filename" -o "$problem" && ./"$problem" < "$problem.in" > "$problem.out"
+  compile "$filename" -o "$build_filename" && "$build_filename" < "$problem.in" > "$problem.out"
   diff -w -B --strip-trailing-cr -y "$problem.out" "$problem.ans"
 }
 
