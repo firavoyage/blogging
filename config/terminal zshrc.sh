@@ -574,7 +574,7 @@ alias s='solve'
 
 alias clean='strip-hints --inplace' # remove py type sig
 
-alias compile='g++ -std=c++23 -O2'
+alias compile='g++ -std=c++23 -O2 -I.'
 
 # Environment
 

@@ -310,6 +310,7 @@ sudo snap install cling # interactive cpp from cern
 sudo docker pull emscripten/emsdk:latest # emscripten
 # usage: docker run --rm -v $(pwd):/src emscripten/emsdk emcc main.cpp -o main.js
 sudo apt install -y libstdc++-13-dev
+sudo apt install mold -y
 
 # haskell: ghci
 sudo apt install -y ghc cabal-install
