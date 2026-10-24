@@ -563,7 +563,7 @@ alias rmtree='rm -rf'
 alias clean='strip-hints --inplace' # remove py type sig
 
 # alias g++="g++-14"
-alias compile='g++-14 -std=c++23'
+alias compile='g++ -std=c++23'
 
 solve_py(){
   filename=$1.py
