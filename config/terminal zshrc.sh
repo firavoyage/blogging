@@ -649,7 +649,7 @@ check() {
   # Run and test all found test cases
   for input_file in "${input_files[@]}"; do
     local prefix="${input_file%.in}"
-    local output_file="$prefix.out"
+    local output_file="$HOME/.cache/$prefix.out"
     local answer_file="$prefix.ans"
     local test_name=$(basename "$input_file")
 
