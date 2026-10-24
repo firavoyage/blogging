@@ -74,6 +74,7 @@
     // so damn frustrating and noisy, err when i have not finished typing
     // "eslint.enable": false,
     // "typescript.validate.enable": false,
+    "editor.rename.enablePreview": false,
 
     "files.exclude": {
       // // Legacy
@@ -113,7 +114,7 @@
     },
     "files.associations": {
       // "*.json": "yaml",
-      "*.json": "jsonc",
+      "*.json": "jsonc"
       // "*.css": "scss"
     }
   }
