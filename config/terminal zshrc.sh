@@ -589,20 +589,103 @@ alias solve='solve_cpp'
 
 alias s='solve'
 
-check(){
-  problem=$1
-  filename="$problem.cpp"
-  build_filename="$HOME/.cache/$problem.cpp"
+# check(){
+#   problem=$1
+#   filename="$problem.cpp"
+#   build_filename="$HOME/.cache/$problem.cpp"
+#   input_file="$problem.in"
+#   output_file="$problem.out"
+#   answer_file="$problem.ans"
 
-  compile "$filename" -o "$build_filename" && "$build_filename" < "$problem.in" > "$problem.out" || return 1
+#   compile "$filename" -o "$build_filename" && "$build_filename" < "$input_file" > "$output_file" || return 1
 
-  # diff exits with 0 if files are identical, 1 if they differ
-  if diff -w -B --strip-trailing-cr -q "$problem.out" "$problem.ans" > /dev/null; then
-    # echo "$problem: passed"
+#   # diff exits with 0 if files are identical, 1 if they differ
+#   if diff -w -B --strip-trailing-cr -q "$output_file" "$answer_file" > /dev/null; then
+#     # echo "$problem: passed"
+#     echo "passed"
+#   else
+#     cat "$input_file"
+#     echo ''
+#     # echo "$problem: failed"
+#     diff -w -B --strip-trailing-cr -y "$output_file" "$answer_file"
+#   fi
+# }
+
+check() {
+  local problem=$1
+  local filename="$problem.cpp"
+  local build_dir="$HOME/.cache"
+  local build_filename="$build_dir/$problem"
+
+  # Ensure cache directory exists
+  mkdir -p "$build_dir"
+
+  # Compile once before running tests
+  if ! compile "$filename" -o "$build_filename"; then
+    echo "Compilation failed for $filename"
+    return 1
+  fi
+
+  # Find all input files ($problem.in and $problem.*.in)
+  local input_files=()
+  [[ -f "$problem.in" ]] && input_files+=("$problem.in")
+
+  # Zsh equivalent of nullglob using local function scope
+  () {
+    setopt LOCAL_OPTIONS NULL_GLOB
+    local f
+    for f in "$problem."*.in; do
+      input_files+=("$f")
+    done
+  }
+
+  if [ ${#input_files[@]} -eq 0 ]; then
+    echo "No test cases found for '$problem'."
+    return 1
+  fi
+
+  local all_passed=0
+
+  # Run and test all found test cases
+  for input_file in "${input_files[@]}"; do
+    local prefix="${input_file%.in}"
+    local output_file="$prefix.out"
+    local answer_file="$prefix.ans"
+    local test_name=$(basename "$input_file")
+
+    if [ ! -f "$answer_file" ]; then
+      echo "[$test_name] Warning: Answer file $answer_file not found, skipping."
+      continue
+    fi
+
+    # Execute program
+    if ! "$build_filename" < "$input_file" > "$output_file"; then
+      echo "[$test_name]: Runtime Error"
+      all_passed=1
+      continue
+    fi
+
+    # Compare output with answer
+    if diff -w -B --strip-trailing-cr -q "$output_file" "$answer_file" > /dev/null; then
+      # Silent on pass for individual tests
+      continue
+    else
+      # echo "[$test_name]: failed"
+      echo "--- Input ---"
+      cat "$input_file"
+      echo -e "\n--- Diff ---"
+      diff -w -B --strip-trailing-cr -y "$output_file" "$answer_file"
+      echo ""
+      # echo "-----------------------------------"
+      all_passed=1
+    fi
+  done
+
+  if [ $all_passed -eq 0 ]; then
     echo "passed"
+    return 0
   else
-    # echo "$problem: failed"
-    diff -w -B --strip-trailing-cr -y "$problem.out" "$problem.ans"
+    return 1
   fi
 }
 
