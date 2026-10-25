@@ -32,10 +32,6 @@
     //   "name": "observe",
     //   "path": "../../f/observe"
     // },
-    // {
-    //   "name": "autostart",
-    //   "path": "../../f/autostart"
-    // },
     {
       "name": "humility",
       "path": "../../f/humility"
@@ -52,10 +48,6 @@
     //   "name": "repo",
     //   "path": "../../f/repo"
     // },
-    // {
-    //   "name": "localhost",
-    //   "path": "../../f/localhost"
-    // },
     {
       "name": "apps",
       "path": "../../f/apps"
@@ -70,8 +62,7 @@
     }
   ],
   "settings": {
-    // turn off typecheck and linting for rapid dev
-    // so damn frustrating and noisy, err when i have not finished typing
+    // turn off typecheck and linting for rapid dev (typing in "broken state")
     // "eslint.enable": false,
     // "typescript.validate.enable": false,
     "editor.rename.enablePreview": false,
@@ -94,7 +85,8 @@
       "**/tsconfig.json": true,
       "**/.prettierrc": true,
       "**/pyproject.toml": true,
-      // "**/.gitignore": true,
+      "**/.gitignore": true,
+      "**/.hidden": true,
     },
     "search.exclude": {
       "**/legacy/**": true,
@@ -102,12 +94,10 @@
       // "**/build/**": true,
       // "**/.build/**": true,
     },
-    // remove some folders from intellisense (e.g. css var auto complete)
-    // apply: restart or run command: reload window
     "files.watcherExclude": {
       "**/legacy/**": true,
       "**/node_modules/**": true,
-      "**/dist/**": true,
+      "**/build/**": true,
       "**/.build/**": true
     },
     "files.associations": {
