@@ -36,10 +36,10 @@
     //   "name": "autostart",
     //   "path": "../../f/autostart"
     // },
-    // {
-    //   "name": "humility",
-    //   "path": "../../f/humility"
-    // },
+    {
+      "name": "humility",
+      "path": "../../f/humility"
+    },
     // {
     //   "name": "intuitive",
     //   "path": "../../f/intuitive"
@@ -77,32 +77,30 @@
     "editor.rename.enablePreview": false,
 
     "files.exclude": {
-      // // Legacy
-      // "**/legacy/**": true,
-      // Aliases
-      "**/AGENTS.md": true,
-      // Deps
+      // deprecated
+      "**/legacy/**": true,
+      // generated deps
       "**/node_modules/**": true,
-      // Build
-      "**/pnpm-lock.yaml": true,
       "**/bun.lock": true,
-      // "**/build/**": true,
-      "**/.build/**": true,
+      "**/pnpm-lock.yaml": true,
+      // build
+      // "**/build/**": true, // actual build
+      "**/.build/**": true, // temperory cache
       "**/.vite/**": true,
       "**/.parcel/**": true,
       "**/.parcel-cache/**": true,
-      // Static
-      "**/.npmrc": true
-      // "**/.vscode/**": true, // no vendor lock in
-      // "**/.git/**": true, // ignored by default
+      // static config
+      "**/bunfig.toml": true,
+      "**/tsconfig.json": true,
+      "**/.prettierrc": true,
+      "**/pyproject.toml": true,
+      // "**/.gitignore": true,
     },
     "search.exclude": {
       "**/legacy/**": true,
       "**/node_modules/**": true,
-      "**/dist/**": true,
-      "**/.build/**": true
-      // "**/.vscode/**": true, // no vendor lock in
-      // "**/.git/**": true, // ignored by default
+      // "**/build/**": true,
+      // "**/.build/**": true,
     },
     // remove some folders from intellisense (e.g. css var auto complete)
     // apply: restart or run command: reload window
