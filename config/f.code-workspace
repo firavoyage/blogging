@@ -1,6 +1,14 @@
 {
   "folders": [
     {
+      "name": "para",
+      "path": "../../f/para"
+    },
+    {
+      "name": "humility",
+      "path": "../../f/humility"
+    },
+    {
       "name": "knowledge",
       "path": "../../f/.knowledge"
     },
@@ -32,10 +40,6 @@
     //   "name": "observe",
     //   "path": "../../f/observe"
     // },
-    {
-      "name": "humility",
-      "path": "../../f/humility"
-    },
     // {
     //   "name": "intuitive",
     //   "path": "../../f/intuitive"
@@ -87,6 +91,8 @@
       "**/pyproject.toml": true,
       "**/.gitignore": true,
       "**/.hidden": true,
+      // temp
+      "**/message": true,
     },
     "search.exclude": {
       "**/legacy/**": true,
