@@ -874,6 +874,8 @@ $fira$ `elegance`
   - kokuyo saxa scissors white
   - muji stainless nail clipper s
   - muji acrylic ruler
+  - muji plastic eraser, white
+  - muji glue stick
   - muji perforated fastening tape
 - on ubuntu 24
   - (see `ubuntu.md`)
