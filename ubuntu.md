@@ -271,8 +271,8 @@ pnpm add -g node-srv # for static pre built html
 # usage: node-srv -l -i foo.html -p 8000
 pnpm add -g parcel # simple, fast (esp with cache), less reliable
 # usage: cd $dir && parcel serve '$fileName' --open --dist-dir .build --cache-dir .build/.parcel-cache # dev server
-# usage: cd $dir && parcel build '$fileName' --dist-dir build --no-content-hash # dev build
-# usage: cd $dir && parcel build '$fileName' --dist-dir build --no-source-maps # prod build
+# usage: cd $dir && parcel build '$fileName' --dist-dir build --cache-dir build/.parcel-cache --no-content-hash # dev build
+# usage: cd $dir && parcel build '$fileName' --dist-dir build --cache-dir build/.parcel-cache --no-source-maps # prod build
 # debug: rm -r .parcel-cache
 # maintenance: pnpm update -g caniuse-lite browserslist
 pnpm add -g vite # more reliable, fast enough, showy, clever
