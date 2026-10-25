@@ -277,6 +277,7 @@ pnpm add -g parcel # simple, fast (esp with cache), less reliable
 # maintenance: pnpm update -g caniuse-lite browserslist
 pnpm add -g vite # more reliable, fast enough, showy, clever
 # usage: cd $dir && vite --open '$fileName'
+# usage: cd $dir && vite build 'source/web' --outDir build --emptyOutDir
 pnpm add -g webpack webpack-cli webpack-dev-server # legacy, complex
 # pnpm add -g webpack webpack-cli webpack-dev-server css-loader style-loader babel-loader file-loader url-loader ts-loader
 pnpm add -g @typescript/native-preview eslint
