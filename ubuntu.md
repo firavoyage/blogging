@@ -393,7 +393,7 @@ sudo systemctl restart earlyoom
 - power saving
   - automatic screen brightness `off`
   - dim screen `off` <!-- `on` -->
-  - screen blank `10 min`
+  - screen blank `off` <!-- `10 min` -->
   - automatic power saver `off`
   - automatic suspend: on battery power `off` <!-- `15min` -->
 
