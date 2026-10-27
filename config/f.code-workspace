@@ -1,9 +1,9 @@
 {
   "folders": [
-    {
-      "name": "scaffold",
-      "path": "../../f/scaffold"
-    },
+    // {
+    //   "name": "scaffold",
+    //   "path": "../../f/scaffold"
+    // },
     {
       "name": "quote",
       "path": "../../f/quote"
