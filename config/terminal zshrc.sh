@@ -579,10 +579,9 @@ solve_cpp(){
   filename=$1.cpp
   template='../template.cpp'
 
-  cp --update=none $template $filename
+  cp --update=none $template $filename && code -g $filename:$(grep -n "// solution" $filename | tail -n 1 | cut -d: -f1):12
 
   # open "$filename"
-  code -g $filename:$(grep -n "// solution" $filename | tail -n 1 | cut -d: -f1):12
 }
 
 alias solve='solve_cpp'
