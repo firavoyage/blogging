@@ -689,9 +689,13 @@ check() {
 }
 
 touch_samples(){
-  filename=$1
+  input_file="$1.in"
+  answer_file="$1.ans"
 
-  touch $filename && code $filename
+  touch $input_file
+  touch $answer_file
+  code $answer_file
+  code $input_file
 }
 
 alias t='touch_samples'
