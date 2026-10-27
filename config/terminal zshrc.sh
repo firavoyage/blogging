@@ -688,6 +688,14 @@ check() {
   fi
 }
 
+# touch samples
+t(){
+  filename=$1
+
+  touch $filename && code $filename
+}
+
+
 # Environment
 
 export PATH="$HOME/.local/bin:$PATH"
