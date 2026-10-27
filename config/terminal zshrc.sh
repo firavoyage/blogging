@@ -688,13 +688,19 @@ check() {
   fi
 }
 
-# touch samples
-t(){
+touch_samples(){
   filename=$1
 
   touch $filename && code $filename
 }
 
+alias t='touch_samples'
+
+check_port(){
+  port=$1
+
+  sudo ss -tulpn | grep ":$port"
+}
 
 # Environment
 
