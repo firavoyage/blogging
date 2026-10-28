@@ -1,0 +1,6 @@
+[class="flex justify-center"] {
+  max-width: 80ch;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+}
