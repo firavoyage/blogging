@@ -52,10 +52,10 @@
     //   "name": "observe",
     //   "path": "../../f/observe"
     // },
-    // {
-    //   "name": "intuitive",
-    //   "path": "../../f/intuitive"
-    // },
+    {
+      "name": "intuitive",
+      "path": "../../f/intuitive"
+    },
     // {
     //   "name": "have",
     //   "path": "../../f/have"
