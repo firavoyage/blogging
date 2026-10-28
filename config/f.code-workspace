@@ -36,10 +36,10 @@
       "name": "edit",
       "path": "../../f/edit"
     },
-    {
-      "name": "export",
-      "path": "../../f/export"
-    },
+    // {
+    //   "name": "export",
+    //   "path": "../../f/export"
+    // },
     {
       "name": "lib",
       "path": "../../f/lib"
