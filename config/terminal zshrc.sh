@@ -707,9 +707,18 @@ check_port(){
 }
 
 run_script(){
-  script=$1
-
-  b run $script
+  if test $# -eq 0; then
+    command r
+  else
+    script=$1
+    b run $script
+  fi
+  # if test $# -eq 0; then
+  #   command r
+  # elif test $# -eq 1; then
+  #   script=$1
+  #   b run $script
+  # fi
 }
 
 alias r='run_script'
