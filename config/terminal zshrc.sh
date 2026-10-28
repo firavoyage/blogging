@@ -706,6 +706,14 @@ check_port(){
   sudo ss -tulpn | grep ":$port"
 }
 
+run_script(){
+  script=$1
+
+  b run $script
+}
+
+alias r='run_script'
+
 # Environment
 
 export PATH="$HOME/.local/bin:$PATH"
