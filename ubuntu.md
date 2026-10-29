@@ -153,7 +153,7 @@ sudo apt install -y cpufrequtils
 sudo apt install -y iw aircrack-ng
 
 # find: rg, grep, tree, find, fdfind, ack
-sudo apt install -y ripgrep grep tree findutils fd-find ack
+sudo apt install -y ripgrep grep tree findutils fd-find ack fzf
 # usage: find . -maxdepth 2 -path '*/.*' -prune -o -print
 # usage: fd . --maxdepth 2 # alias fd to fdfind on zshrc
 
