@@ -1738,6 +1738,11 @@ sudo systemctl restart earlyoom
 - remove clash vergetray icon
   - lilypad: general: collapse `tray_icon_tray_app`
   - lilypad: display: display: hide lilypad icon `always`
+- disable extensions
+  - desktop icons ng
+  - ubuntu appindicators <!-- tray icons -->
+  - ubuntu dock
+  - ubuntu tiling assistant <!-- advanced same screen multi window support -->
 
 ## `gnome tweaks`
 
