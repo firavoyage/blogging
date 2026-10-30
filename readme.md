@@ -872,6 +872,7 @@ $fira$ `elegance`
   - jins ultra light airframe 066 peach on gold
   - kawasimaya ice lattice
   - kokuyo saxa scissors white
+  - kokuyo campus notebook
   - muji stainless nail clipper s
   - muji acrylic ruler
   - muji plastic eraser, white
