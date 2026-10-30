@@ -85,7 +85,7 @@
 
     "files.exclude": {
       // deprecated
-      "**/legacy/**": true,
+      // "**/legacy/**": true,
       // generated deps
       "**/node_modules/**": true,
       "**/bun.lock": true,
