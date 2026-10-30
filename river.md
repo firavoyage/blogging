@@ -31388,3 +31388,9 @@ disabling windows spotlights in settings is enough.
 for some reasons the old newsmy recorder fixes itself, it seems.
 
 ---
+
+google ai mode implements "follow up" prompt button on the last line of a msg
+
+a late comer.
+
+---
