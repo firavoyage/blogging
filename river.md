@@ -597,6 +597,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 ## kabukimonogatari (2013)
 
 - `1` 2026.10.30
+- `2` 2026.10.31
 
 # gaming
 
@@ -31398,4 +31399,3 @@ a late comer.
 vjudge: luogu captcha?!
 
 ---
-
