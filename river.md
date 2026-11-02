@@ -31431,4 +31431,25 @@ i guess i may spend ten minutes to read all twitter posts in a day in the future
 
 ---
 
+explore astra foundry.
+
+great bottom pic.
+
+clearly it's good idea to have an llm alongside your tg msgs... but should it be a full client? or an extension. e.g. extract and parse msgs from tg web instead. esp when it could not support ios and android now.
+
+---
+
+on the design system
+
+nice try by stvlynn! a mix of many ai slop fixes and dx best pracs.
+
+interesting 3d figs.
+
+maybe a little bit too coupled w their own products, and not comprehensive.
+
+no comp lib.
+
+they reg official twitter. common prac by guys like stvlynn.
+
+---
 
