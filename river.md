@@ -31451,5 +31451,7 @@ no comp lib.
 
 they reg official twitter. common prac by guys like stvlynn.
 
+so weird github readme by stvlynn... quite awkward i mean, really.
+
 ---
 
