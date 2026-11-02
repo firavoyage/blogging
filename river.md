@@ -31455,3 +31455,7 @@ so weird github readme by stvlynn... quite awkward i mean, really.
 
 ---
 
+chatgpt wrap code block component has a specific toggle of "enable word wrap".
+
+---
+
