@@ -31400,4 +31400,29 @@ vjudge: luogu captcha?!
 
 ## nov 2026
 
+first day surfing twitter list in the recent months. idk. <!-- idk what it means -->
+
+things are expected. they are still talking about tech, products, llms, tinkering, and choices. some news.
+
+e.g. hack ios on mi phone.
+
+liuran yanagi makes their homura (puella magica) avatar no longer monochrome.
+
+rainbow bird buys iphone duo and becomes excited again about new apps.
+
+leonhao is still dev lody agent, working on mobile apps now.
+
+stvlynn creates a stylish avatar, and wants to produce their own "fumo" plushie.
+
+a lot of random tech stuff, "basic apple guy". a lot of "hoshino lina/cyan" (idk what they are talking about).
+
+stvlynn creates (publishes) their design system called "sunbeam".
+yuu (tomiya) appreciates.
+
+yuu posts their selfie. idk if they really do it often on the (somewhat) open internet. huige reacts a lot, idk who they are.
+
+hwang creates "airbuild", likely yet another meta framework (e.g. react native).
+
+---
+
 
