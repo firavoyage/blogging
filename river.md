@@ -31423,6 +31423,12 @@ yuu posts their selfie. idk if they really do it often on the (somewhat) open in
 
 hwang creates "airbuild", likely yet another meta framework (e.g. react native).
 
+tomiya is still broadcasting their "agent history searching" tool.
+
+that's it for today! <!-- today is relative to current time. (e.g. 16 00 yesterday to 16 00 today when you are surfing) -->
+
+i guess i may spend ten minutes to read all twitter posts in a day in the future. and record/comment like this.
+
 ---
 
 
