@@ -723,6 +723,23 @@ run_script(){
 
 alias r='run_script'
 
+# vps
+vps_ip='108.61.187.226'
+vps_password='Y.y5Qp6n7(*[N.f.'
+vps() {
+    SSHPASS="$vps_password" sshpass -e ssh \
+        -o StrictHostKeyChecking=no \
+        -o UserKnownHostsFile=/dev/null \
+        "root@$vps_ip" "$@"
+}
+
+vps_sync() {
+    SSHPASS="$vps_password" rsync \
+        -avz --progress \
+        -e "sshpass -e ssh -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null" \
+        "$1" "root@$vps_ip:$2"
+}
+
 # Environment
 
 export PATH="$HOME/.local/bin:$PATH"
@@ -767,3 +784,4 @@ export PATH="$HOME/.local/share/mise/shims:$PATH"
 
 # dart
 export PATH="$PATH:/usr/lib/dart/bin"
+
