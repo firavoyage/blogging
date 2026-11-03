@@ -31464,3 +31464,16 @@ feels really chatgpt parsed and cached the dom to md result, rather than copy pa
 it may include google icons on links, and ignorant to bold via inline styled span.
 
 ---
+
+chatgpt... really do i need bold italic headings list when prompting on a single line of input field?
+
+---
+
+chatgpt is really sophisticated now. you may branch. well classic.
+
+you may "see versions".
+
+but why would you do that when you have only one version, wo editing...
+
+---
+
