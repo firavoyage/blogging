@@ -1,5 +1,9 @@
 {
   "folders": [
+    {
+      "name": "proxy",
+      "path": "../../f/proxy"
+    },
     // {
     //   "name": "scaffold",
     //   "path": "../../f/scaffold"
