@@ -1,0 +1,7 @@
+.text-size-chat.text-secondary span {
+    user-select: all !important;
+}
+
+div {
+    box-shadow: none !important;
+}
