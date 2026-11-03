@@ -31459,3 +31459,8 @@ chatgpt wrap code block component has a specific toggle of "enable word wrap".
 
 ---
 
+feels really chatgpt parsed and cached the dom to md result, rather than copy pasting raw output md.
+
+it may include google icons on links, and ignorant to bold via inline styled span.
+
+---
