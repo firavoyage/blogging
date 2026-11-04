@@ -31478,3 +31478,17 @@ but why would you do that when you have only one version, wo editing...
 
 ---
 
+```
+remote: Resolving deltas: 100% (10/10), completed with 8 local objects.
+remote: Internal Server Error
+remote: Request ID B639:2A9AEB:829961:BDC080:6AEB159D
+remote: Time 2026-11-04T11:23:10Z
+To https://github.com/firahq/lib.git
+ ! [remote rejected] master -> master (Internal Server Error)
+error: failed to push some refs to 'https://github.com/firahq/lib.git'
+```
+
+?!
+
+---
+
