@@ -874,6 +874,7 @@ $fira$ `elegance`
   - kawasimaya ice lattice
   - kokuyo saxa scissors white
   - kokuyo campus notebook
+  - kokuyo draft notebook
   - kokuyo writing pad
   - muji stainless nail clipper s
   - muji acrylic ruler
