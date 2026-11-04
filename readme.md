@@ -873,7 +873,7 @@ $fira$ `elegance`
   - jins ultra light airframe 066 peach on gold
   - kawasimaya ice lattice
   - kokuyo saxa scissors white
-  - kokuyo campus notebook
+  - kokuyo campus notebook composition
   - kokuyo draft notebook
   - kokuyo writing pad
   - muji stainless nail clipper s
