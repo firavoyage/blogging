@@ -874,11 +874,13 @@ $fira$ `elegance`
   - kawasimaya ice lattice
   - kokuyo saxa scissors white
   - kokuyo campus notebook
+  - kokuyo writing pad
   - muji stainless nail clipper s
   - muji acrylic ruler
   - muji plastic eraser, white
   - muji glue stick
   - muji perforated fastening tape
+  - lenovo thinkbook udisk <!-- kingston udisk -->
 - on ubuntu 24
   - (see `ubuntu.md`)
 - on android 16 <!-- 11 -->
