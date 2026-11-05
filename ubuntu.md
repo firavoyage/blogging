@@ -2285,6 +2285,7 @@ sudo systemctl restart earlyoom
   - manage passwords: bitwarden https://chromewebstore.google.com/detail/bitwarden-password-manage/nngceckbapebfimnlniiiahkandclblb
     - remove shortcuts chrome://extensions/shortcuts <!-- use a nonsensical placeholder like ctrl shift 0 if needed -->
     - account security: session timeout: timout `never`
+    - autofill: (all) `off`
   - manage access to accounts: authenticator https://chromewebstore.google.com/detail/authenticator/bhghoamapcdpbohphigoooaddinpkbai
   - manage multiple accounts: cookie profile switcher https://chromewebstore.google.com/detail/cookie-profile-switcher/dicajblfgcpecbkhkjaljphlmkhohelc
   - manage crypto accounts: meta mask https://chrome.google.com/webstore/detail/nkbihfbeogaeaoehlefnkodbefgpgknn <!-- deprecated. incompatible without the extension. -->
