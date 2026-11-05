@@ -63,7 +63,7 @@ bindkey '\t' autosuggest-accept
 # bun completions
 [ -s "/home/fira/.bun/_bun" ] && source "/home/fira/.bun/_bun"
 
-# load r secrets (not in git)
+# load secrets
 if [ -f "$HOME/.zshrc.private" ]; then
   source "$HOME/.zshrc.private"
 fi
@@ -723,9 +723,6 @@ run_script(){
 
 alias r='run_script'
 
-# vps
-vps_ip='108.61.187.226'
-vps_password='Y.y5Qp6n7(*[N.f.'
 vps() {
     SSHPASS="$vps_password" sshpass -e ssh \
         -o StrictHostKeyChecking=no \
@@ -738,6 +735,21 @@ vps_sync() {
         -avz --progress \
         -e "sshpass -e ssh -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null" \
         "$1" "root@$vps_ip:$2"
+}
+
+update_lib(){
+  name='lib'
+
+  export GIT_DIR="/home/fira/Documents/f/.git/.git_$name"
+  export GIT_WORK_TREE="/home/fira/Documents/f/$name"
+
+  git add .
+  git commit -m '.' || true
+
+  git push -f g
+
+  bun rm $name
+  bun add github:firahq/$name --force
 }
 
 # Environment
