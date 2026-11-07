@@ -752,6 +752,11 @@ update_lib(){
   bun add github:firahq/$name --force
 }
 
+scaffold(){
+  cd /home/fira/Documents/f/scaffold
+  rm -rf node_modules bun.lock
+}
+
 # Environment
 
 export PATH="$HOME/.local/bin:$PATH"
