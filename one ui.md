@@ -137,7 +137,10 @@ one ui <!-- an android rom by samsung -->
 
 ## battery
 
-- battery protection `maximum` <!-- never charge past 80% -->
+- battery protection `maximum`
+  - cap `95`
+
+<!-- never charge past 80% -->
 
 <!-- i have too much battery, it never drops past 50%, and i always have a power bank with the phone -->
 
