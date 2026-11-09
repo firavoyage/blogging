@@ -3350,10 +3350,11 @@ flatpak install -y flathub dev.zed.Zed
 # it does not seem to work without the flag
 
 # program with llms: opencode, cline, codex, claude, pi, dsh
+
 b add -g --allow-build=opencode-ai opencode-ai # overriding the terminal background
 # b add -g --allow-build=opencode-ai opencode-ai@latest # overriding the terminal background
-pnpx playwright install
-pnpx playwright install chromium
+bunx playwright install
+bunx playwright install chromium
 tee ~/.config/opencode/opencode.json > /dev/null <<EOF
 {
   "$schema": "https://opencode.ai/config.json",
@@ -3369,27 +3370,31 @@ tee ~/.config/opencode/opencode.json > /dev/null <<EOF
   }
 }
 EOF
-# tee ~/.config/opencode/opencode.json > /dev/null <<EOF
-# EOF
 # sudo apt install -y sqlite3 # view opencode sessions
+
 b add -g cline
+
 b add -g @openai/codex # clean
 # pnpm add -g github:tobitege/codlogs # (deprecated, crashing) export codex chats
 # codex mcp add playwright npx @playwright/mcp@latest
 # codex mcp add ddg npx @modelcontextprotocol/server-duckduckgo
 # codex mcp add open-websearch npx -y @aas-ee/open-websearch
 # pnpx clawhub@latest install codex-export # noisy
+
 mkdir -p Projects && cd Projects && git clone https://github.com/ilysenko/codex-desktop-linux.git && cd codex-desktop-linux && sudo dpkg -r codex-desktop && make bootstrap-native
 # codex_url="https://github.com/guangzhaoli/codex-desktop-deb/releases/download/v2026.06.23.042200/codex-desktop_2026.06.23.042200_amd64.deb"
 # codex_file="codex.deb"
 # wget -c -O "$codex_file" "$codex_url"
 # sudo dpkg -i "$codex_file" # broken, wrong compilation target resulting in missing bindings
 # rm "$codex_file" # clean up
-pnpm add -g --allow-build=@anthropic-ai/claude-code @anthropic-ai/claude-code
-uv tool install claude-code-transcripts # export claude code
+
+# pnpm add -g --allow-build=@anthropic-ai/claude-code @anthropic-ai/claude-code
+# uv tool install claude-code-transcripts # export claude code
+
 b add -g @earendil-works/pi-coding-agent
 pi install git:github.com/badlogic/pi-skills
 pi install npm:@juicesharp/rpiv-web-tools
+
 b add -g @deepseek-ai/dsh
 # dsh web --port 3081
 
