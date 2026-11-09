@@ -3350,7 +3350,8 @@ flatpak install -y flathub dev.zed.Zed
 # it does not seem to work without the flag
 
 # program with llms: opencode, cline, codex, claude, pi, dsh
-pnpm add -g --allow-build=opencode-ai opencode-ai@latest # overriding the terminal background
+b add -g --allow-build=opencode-ai opencode-ai # overriding the terminal background
+# b add -g --allow-build=opencode-ai opencode-ai@latest # overriding the terminal background
 pnpx playwright install
 pnpx playwright install chromium
 tee ~/.config/opencode/opencode.json > /dev/null <<EOF
@@ -3371,8 +3372,8 @@ EOF
 # tee ~/.config/opencode/opencode.json > /dev/null <<EOF
 # EOF
 # sudo apt install -y sqlite3 # view opencode sessions
-pnpm add -g cline
-pnpm add -g @openai/codex # clean
+b add -g cline
+b add -g @openai/codex # clean
 # pnpm add -g github:tobitege/codlogs # (deprecated, crashing) export codex chats
 # codex mcp add playwright npx @playwright/mcp@latest
 # codex mcp add ddg npx @modelcontextprotocol/server-duckduckgo
