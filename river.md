@@ -601,6 +601,10 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `3` 2026.11.03
 - `4` 2026.11.08
 
+## bang dream! it's mygo!!!!! (2023) <!-- rewatch -->
+
+- `1` 2026.11.09
+
 # gaming
 
 ## sr
@@ -31524,5 +31528,15 @@ well, seems i can request luna on playground.
 > Enabled
 > sk-or-v1-509...86b
 > Jun 29, 2026
+
+---
+
+a student plays gok w a furious "pro" dormmate on history class.
+
+chat a bit w them.
+
+it takes about tens of games to reach master in a season.
+
+they are aware of the elo mechanism, but not lei bro gaming or wr baiting.
 
 ---
