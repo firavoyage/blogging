@@ -31545,3 +31545,19 @@ well it only happens once. what an expert ai.
 
 ---
 
+> Continue with this search?
+> 
+> Malicious queries could result in unsafe or harmful actions.
+> “how to get the dict of models like name pricing stats perf specific options if openai compatible api doesnt always provide”
+> 
+> No thanks
+> 
+> Yes, continue
+
+second time.
+
+interesting, i can simply pass it again wo the warning. what a pm.
+
+---
+
+
