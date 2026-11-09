@@ -31530,13 +31530,3 @@ well, seems i can request luna on playground.
 > Jun 29, 2026
 
 ---
-
-a student plays gok w a furious "pro" dormmate on history class.
-
-chat a bit w them.
-
-it takes about tens of games to reach master in a season.
-
-they are aware of the elo mechanism, but not lei bro gaming or wr baiting.
-
----
