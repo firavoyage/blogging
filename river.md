@@ -31493,4 +31493,36 @@ error: failed to push some refs to 'https://github.com/firahq/lib.git'
 
 ---
 
+> Your billing address is in a region that does not have access to models from OpenAI, Anthropic, and Google. All other models remain available.
 
+> TOTAL AVAILABLE
+> $5.25
+> Pay-as-you-go balance
+
+> Recent TransactionsHistory
+> Need enterprise billing options? Contact sales
+> Date	Amount	Actions
+> Feb 16, 2026, 10:52 PM	
+> $10.00
+> Receipt
+> Get invoice
+> 
+> Nov 22, 2025, 12:54 PM	
+> $5.00
+> Receipt
+> Get invoice
+> 
+> 2 transactions
+
+> 1.8s · 11 tokens · 6.0 tok/s · $0.000006
+> 
+> Hi! How can I help?
+
+well, seems i can request luna on playground.
+
+> humilitydev
+> Enabled
+> sk-or-v1-509...86b
+> Jun 29, 2026
+
+---
