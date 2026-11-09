@@ -3389,6 +3389,8 @@ uv tool install claude-code-transcripts # export claude code
 pnpm add -g @earendil-works/pi-coding-agent
 pi install git:github.com/badlogic/pi-skills
 pi install npm:@juicesharp/rpiv-web-tools
+bun add -g @deepseek-ai/dsh
+# dsh web --port 3081
 
 # program wo typos: cspell, typos
 pnpm add -g cspell
