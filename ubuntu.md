@@ -3349,7 +3349,7 @@ flatpak install -y flathub dev.zed.Zed
 # cli command: %F --no-sandbox
 # it does not seem to work without the flag
 
-# program with llms: opencode, cline, codex, claude, pi
+# program with llms: opencode, cline, codex, claude, pi, dsh
 pnpm add -g --allow-build=opencode-ai opencode-ai@latest # overriding the terminal background
 pnpx playwright install
 pnpx playwright install chromium
@@ -3386,10 +3386,10 @@ mkdir -p Projects && cd Projects && git clone https://github.com/ilysenko/codex-
 # rm "$codex_file" # clean up
 pnpm add -g --allow-build=@anthropic-ai/claude-code @anthropic-ai/claude-code
 uv tool install claude-code-transcripts # export claude code
-pnpm add -g @earendil-works/pi-coding-agent
+b add -g @earendil-works/pi-coding-agent
 pi install git:github.com/badlogic/pi-skills
 pi install npm:@juicesharp/rpiv-web-tools
-bun add -g @deepseek-ai/dsh
+b add -g @deepseek-ai/dsh
 # dsh web --port 3081
 
 # program wo typos: cspell, typos
