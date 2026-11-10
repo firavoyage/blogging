@@ -12,10 +12,10 @@
     //   "name": "serve",
     //   "path": "../../f/serve"
     // },
-    // {
-    //   "name": "para",
-    //   "path": "../../f/para"
-    // },
+    {
+      "name": "para",
+      "path": "../../f/para"
+    },
     {
       "name": "humility",
       "path": "../../f/humility"
