@@ -604,6 +604,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 ## bang dream! it's mygo!!!!! (2023) <!-- rewatch -->
 
 - `1` 2026.11.09
+- `2` 2026.11.10
 
 # gaming
 
