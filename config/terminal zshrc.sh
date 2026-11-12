@@ -765,6 +765,14 @@ update_lib(){
     -exec cp -a -t "$target_dir" -- {} +
 
   cd $prev_current_dir
+
+  export GIT_DIR="/home/fira/Documents/f/.git/.git_$name"
+  export GIT_WORK_TREE="/home/fira/Documents/f/$name"
+
+  git add .
+  git commit -m '.' || true
+
+  git push -f g
 }
 
 update_lib_cleanly(){
