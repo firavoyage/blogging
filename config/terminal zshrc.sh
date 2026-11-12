@@ -740,6 +740,36 @@ vps_sync() {
 update_lib(){
   name='lib'
 
+  # find the nearest parent node_modules directory
+  prev_current_dir="$PWD"
+
+  current_dir="$PWD"
+
+  while [[ "$current_dir" != "/" && ! -d "$current_dir/node_modules" ]]; do
+    current_dir="$(dirname "$current_dir")"
+  done
+
+  node_modules_dir="$current_dir/node_modules"
+
+  # move into the target folder
+  target_dir="$node_modules_dir/$name"
+  cd "$target_dir" || exit 1
+
+  # remove everything except node_modules
+  find . -mindepth 1 -maxdepth 1 ! -name "node_modules" -exec rm -rf -- {} +
+
+  # copy everything from the source folder except node_modules
+  source_dir="/home/fira/Documents/f/$name"
+
+  find "$source_dir" -mindepth 1 -maxdepth 1 ! -name "node_modules" \
+    -exec cp -a -t "$target_dir" -- {} +
+
+  cd $prev_current_dir
+}
+
+update_lib_cleanly(){
+  name='lib'
+
   export GIT_DIR="/home/fira/Documents/f/.git/.git_$name"
   export GIT_WORK_TREE="/home/fira/Documents/f/$name"
 
