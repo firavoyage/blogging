@@ -1,6 +1,14 @@
 {
   "folders": [
     {
+      "name": "have",
+      "path": "../../f/have"
+    },
+    {
+      "name": "humility",
+      "path": "../../f/humility"
+    },
+    {
       "name": "humility data",
       "path": "/home/fira/.humility"
     },
@@ -24,10 +32,6 @@
     //   "name": "para",
     //   "path": "../../f/para"
     // },
-    {
-      "name": "humility",
-      "path": "../../f/humility"
-    },
     {
       "name": "knowledge",
       "path": "../../f/.knowledge"
@@ -108,11 +112,11 @@
       "**/.gitignore": true,
       "**/.hidden": true,
       // temp
-      "**/message.md": true,
+      "**/message.md": true
     },
     "search.exclude": {
       "**/legacy/**": true,
-      "**/node_modules/**": true,
+      "**/node_modules/**": true
       // "**/build/**": true,
       // "**/.build/**": true,
     },
