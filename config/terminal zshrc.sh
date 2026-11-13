@@ -766,6 +766,7 @@ update_lib(){
 
   cd $prev_current_dir
 
+  (nohup zsh > /dev/null 2>&1 <<- 'EOF' &
   export GIT_DIR="/home/fira/Documents/f/.git/.git_$name"
   export GIT_WORK_TREE="/home/fira/Documents/f/$name"
 
@@ -773,6 +774,8 @@ update_lib(){
   git commit -m '.' || true
 
   git push -f g
+	EOF
+  )
 }
 
 update_lib_cleanly(){
