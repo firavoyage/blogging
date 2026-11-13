@@ -1,5 +1,9 @@
 {
   "folders": [
+    {
+      "name": "humility data",
+      "path": "/home/fira/.humility"
+    },
     // {
     //   "name": "apps",
     //   "path": "../../f/apps"
@@ -104,7 +108,7 @@
       "**/.gitignore": true,
       "**/.hidden": true,
       // temp
-      "**/message": true,
+      "**/message.md": true,
     },
     "search.exclude": {
       "**/legacy/**": true,
