@@ -1,6 +1,10 @@
 {
   "folders": [
     {
+      "name": "proxy",
+      "path": "../../f/proxy"
+    },
+    {
       "name": "have",
       "path": "../../f/have"
     },
