@@ -60,6 +60,10 @@
     //   "name": "launch",
     //   "path": "../../f/launch"
     // },
+    {
+      "name": "launch data",
+      "path": "/home/fira/.launch"
+    },
     // {
     //   "name": "observe",
     //   "path": "../../f/observe"
