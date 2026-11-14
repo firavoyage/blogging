@@ -766,16 +766,35 @@ update_lib(){
 
   cd $prev_current_dir
 
-  (nohup zsh > /dev/null 2>&1 <<- 'EOF' &
-  export GIT_DIR="/home/fira/Documents/f/.git/.git_$name"
-  export GIT_WORK_TREE="/home/fira/Documents/f/$name"
-
-  git add .
-  git commit -m '.' || true
-
+  command tmux new-session -d "
+  name='lib' && 
+  export GIT_DIR="/home/fira/Documents/f/.git/.git_$name" && 
+  export GIT_WORK_TREE="/home/fira/Documents/f/$name" &&
+  git add . &&
+  git commit -m '.' || true &&
   git push -f g
-	EOF
-  )
+  "
+
+  # command tmux new-session -d -s lib_sync "
+  # name='lib' && 
+  # export GIT_DIR="/home/fira/Documents/f/.git/.git_$name" && 
+  # export GIT_WORK_TREE="/home/fira/Documents/f/$name" &&
+  # git add . &&
+  # git commit -m '.' || true &&
+  # git push -f g &&
+  # exec zsh
+  # "
+
+  # (nohup zsh > /dev/null 2>&1 <<- 'EOF' &
+  # export GIT_DIR="/home/fira/Documents/f/.git/.git_$name"
+  # export GIT_WORK_TREE="/home/fira/Documents/f/$name"
+
+  # git add .
+  # git commit -m '.' || true
+
+  # git push -f g
+	# EOF
+  # )
 }
 
 update_lib_cleanly(){
