@@ -139,6 +139,9 @@ sudo apt install gnome-software-plugin-flatpak
 sudo apt install -y xdotool xautomation scrot accerciser
 # sudo apt install -y flameshot # seems it could capture the color accurately, but it fails
 
+# support virtual display for headed windowless web scraping
+sudo apt install -y xvfb
+
 # normalize desktop
 sudo apt install -y gnome-tweaks
 flatpak install -y flathub org.gnome.Extensions # seems not needed
