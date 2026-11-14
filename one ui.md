@@ -147,6 +147,7 @@ one ui <!-- an android rom by samsung -->
 ## wallpaper and style
 
 - change wallpapers `smartisan lightblue grain`
+  - wallpaper services: swipe left for info page `off`
 
 ## lock screen and aod
 
