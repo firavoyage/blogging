@@ -2265,6 +2265,8 @@ sudo systemctl restart earlyoom
   `chromium passwords.csv`
 
 - install extensions
+  - navigate: vimium https://chromewebstore.google.com/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb
+    - advanced options: use smooth scrolling `off` <!-- feeling a little dizzy for some reason when smooth -->
   - style: justblack https://chromewebstore.google.com/detail/just-black/aghfnjkcakhmadgdomlmlhhaocbkloab
   - style: stylus <!-- download the mv2 version and load unpacked from https://github.com/openstyles/stylus, move to Documents/.storage -->
     - install `styles` <!-- f/blogging: config/styles, e.g. lichess chessdotcom icons https://github.com/eigenpaul/lichess-custom-pieces/blob/main/chessdotcom.css -->
