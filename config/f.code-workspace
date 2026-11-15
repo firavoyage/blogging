@@ -1,16 +1,20 @@
 {
   "folders": [
+    {
+      "name": "blogging",
+      "path": ".."
+    },
     // {
-    //   "name": "proxy",
-    //   "path": "../../f/proxy"
+    //   "name": "launch",
+    //   "path": "../../f/launch"
     // },
     {
-      "name": "have",
-      "path": "../../f/have"
+      "name": "launch data",
+      "path": "/home/fira/.launch"
     },
     {
-      "name": "have data",
-      "path": "/home/fira/.have"
+      "name": "lib",
+      "path": "../../f/lib"
     },
     {
       "name": "humility",
@@ -19,6 +23,18 @@
     {
       "name": "humility data",
       "path": "/home/fira/.humility"
+    },
+    {
+      "name": "knowledge",
+      "path": "../../f/.knowledge"
+    },
+    {
+      "name": "cp",
+      "path": "../../f/cp"
+    },
+    {
+      "name": "drafts",
+      "path": "../../f/drafts"
     },
     // {
     //   "name": "apps",
@@ -33,6 +49,18 @@
     //   "path": "../../f/quote"
     // },
     // {
+    //   "name": "proxy",
+    //   "path": "../../f/proxy"
+    // },
+    // {
+    //   "name": "have",
+    //   "path": "../../f/have"
+    // },
+    // {
+    //   "name": "have data",
+    //   "path": "/home/fira/.have"
+    // },
+    // {
     //   "name": "serve",
     //   "path": "../../f/serve"
     // },
@@ -40,18 +68,6 @@
     //   "name": "para",
     //   "path": "../../f/para"
     // },
-    {
-      "name": "knowledge",
-      "path": "../../f/.knowledge"
-    },
-    {
-      "name": "cp",
-      "path": "../../f/cp"
-    },
-    {
-      "name": "drafts",
-      "path": "../../f/drafts"
-    },
     // {
     //   "name": "edit",
     //   "path": "../../f/edit"
@@ -60,18 +76,6 @@
     //   "name": "export",
     //   "path": "../../f/export"
     // },
-    {
-      "name": "lib",
-      "path": "../../f/lib"
-    },
-    // {
-    //   "name": "launch",
-    //   "path": "../../f/launch"
-    // },
-    {
-      "name": "launch data",
-      "path": "/home/fira/.launch"
-    },
     // {
     //   "name": "observe",
     //   "path": "../../f/observe"
@@ -81,10 +85,6 @@
     //   "path": "../../f/intuitive"
     // },
     // {
-    //   "name": "have",
-    //   "path": "../../f/have"
-    // },
-    // {
     //   "name": "repo",
     //   "path": "../../f/repo"
     // },
@@ -92,10 +92,6 @@
     //   "name": "math",
     //   "path": "../../f/pure/math"
     // },
-    {
-      "name": "blogging",
-      "path": ".."
-    }
   ],
   "settings": {
     // turn off typecheck and linting for rapid dev (typing in "broken state")
