@@ -2289,6 +2289,7 @@ sudo systemctl restart earlyoom
     - intention settings: url to open when enter is empty `https://claude.ai` <!-- https://chatgpt.com --> <!-- `https://chatgpt.com/branch/69a713fd-5b58-83a3-958e-c38e92cffc74/4bccd054-037e-4707-88ff-4be087bb475e` --> <!-- use the latest one -->
     - intention settings: search url `https://www.google.com/ai?q=%s&gl=us` <!-- it's good to set ai mode default in case it doesnt always show up automatically, sometimes not even available on nav bar on regular search, while you can easily go to "all" from ai mode. legacy: `https://www.google.com/search?q=%s&gl=us`. unfortunately, gl=us is not preserved when switching to all. -->
   - automate scraping: cookie editor https://chromewebstore.google.com/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm
+    - enable devtool panel `off`
   - automate captcha solving: buster https://chrome.google.com/webstore/detail/mpbjkejclgfgadiemmefgebjfooflfhl <!-- theoretically highly possible, but practically unexpectedly reliable -->
   - manage passwords: bitwarden https://chromewebstore.google.com/detail/bitwarden-password-manage/nngceckbapebfimnlniiiahkandclblb
     - remove shortcuts chrome://extensions/shortcuts <!-- use a nonsensical placeholder like ctrl shift 0 if needed -->
