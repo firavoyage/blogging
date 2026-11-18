@@ -608,6 +608,7 @@ replaced header 3 dates (`yyyymmdd`) to months (`month year`)
 - `3` 2026.11.11
 - `4` 2026.11.16
 - `5` 2026.11.17
+- `6` 2026.11.18
 
 # gaming
 
@@ -31581,6 +31582,10 @@ self hosting -> r/homelab
 ---
 
 vscode: go to symbol
+
+---
+
+i can press alt p on chromium?!
 
 ---
 
