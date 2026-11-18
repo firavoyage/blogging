@@ -31579,3 +31579,8 @@ self hosting -> r/homelab
 <!-- engineering intro fin, wang suran (agentic essay drafting guide) -->
 
 ---
+
+vscode: go to symbol
+
+---
+
