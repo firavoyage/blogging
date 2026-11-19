@@ -120,7 +120,7 @@
       "**/.gitignore": true,
       "**/.hidden": true,
       // temp
-      "**/message.md": true
+      // "**/message.md": true
     },
     "search.exclude": {
       "**/legacy/**": true,
