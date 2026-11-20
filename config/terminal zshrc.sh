@@ -751,6 +751,10 @@ update_lib(){
 
   node_modules_dir="$current_dir/node_modules"
 
+  # prevent reverting to prev cached lib when adding new pkgs
+  bun_lock="$current_dir/bun.lock"
+  rm -f bun_lock
+
   # move into the target folder
   target_dir="$node_modules_dir/$name"
   cd "$target_dir" || exit 1
