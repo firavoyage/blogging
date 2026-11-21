@@ -31595,3 +31595,13 @@ i can press alt p on chromium?!
 
 ---
 
+so weird. 
+
+i could not jk on vimium after making some selection on vjudgenet
+
+not even after cancelled, not even after esc.
+
+maybe flawed web engineering on vjudge side... but...
+
+---
+
