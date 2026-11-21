@@ -1631,6 +1631,22 @@ sudo systemctl restart earlyoom
   - _breadcrumbs.focus_ `ctrl shift ;`
   - _workbench.action.toggleAuxiliaryBar_ `ctrl alt b`
 
+current shortcuts
+
+```
+ctrl j, alt j: move cursor down
+ctrl k, alt k: move cursor up
+ctrl h, alt h: move cursor left
+ctrl l, alt l: move cursor right
+ctrl lr: move cursor by word
+ctrl du: move viewport
+shift lrdu: select
+ctrl shift du: select
+ctrl shift lr: select by word
+# ctrl jk: move current line
+ctrl shift jk: add cursor
+```
+
 ## `x11`
 
 - switch from wayland to x11 <!-- might not needed, unless you feel it too conservative on permissions -->
