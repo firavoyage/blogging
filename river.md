@@ -31590,3 +31590,7 @@ i can press alt p on chromium?!
 
 ---
 
+> memory, storage
+
+---
+
