@@ -31605,3 +31605,9 @@ maybe flawed web engineering on vjudge side... but...
 
 ---
 
+clash royale ai?!
+
+finally...
+
+---
+
