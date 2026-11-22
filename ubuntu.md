@@ -3422,6 +3422,7 @@ b add -g @earendil-works/pi-coding-agent
 pi install npm:pi-web-access
 pi install npm:pi-toolset-permissions
 pi install npm:pi-bar
+pi install npm:pi-usage-widget
 
 b add -g @deepseek-ai/dsh
 # dsh web --port 3081
