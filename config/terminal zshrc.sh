@@ -821,6 +821,8 @@ scaffold(){
   rm -rf node_modules bun.lock
 }
 
+alias p='pi'
+
 # Environment
 
 export PATH="$HOME/.local/bin:$PATH"
