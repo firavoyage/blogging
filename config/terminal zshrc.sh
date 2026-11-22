@@ -823,6 +823,22 @@ scaffold(){
 
 alias p='pi'
 
+# release
+archive(){
+  version=$1
+
+  # find the nearest parent source directory
+  current_dir="$PWD"
+
+  repo_dir="$PWD"
+
+  while [[ "$repo_dir" != "/" && ! -d "$repo_dir/source" ]]; do
+    repo_dir="$(dirname "$repo_dir")"
+  done
+
+  cp -r "$repo_dir/source" "$repo_dir/archive/$version"
+}
+
 # Environment
 
 export PATH="$HOME/.local/bin:$PATH"
