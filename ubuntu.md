@@ -3417,8 +3417,11 @@ mkdir -p Projects && cd Projects && git clone https://github.com/ilysenko/codex-
 # uv tool install claude-code-transcripts # export claude code
 
 b add -g @earendil-works/pi-coding-agent
-pi install git:github.com/badlogic/pi-skills
-pi install npm:@juicesharp/rpiv-web-tools
+# pi install git:github.com/badlogic/pi-skills
+# pi install npm:@juicesharp/rpiv-web-tools
+pi install npm:pi-web-access
+pi install npm:pi-toolset-permissions
+pi install npm:pi-bar
 
 b add -g @deepseek-ai/dsh
 # dsh web --port 3081
