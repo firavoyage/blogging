@@ -3420,7 +3420,7 @@ b add -g @earendil-works/pi-coding-agent
 # pi install git:github.com/badlogic/pi-skills
 # pi install npm:@juicesharp/rpiv-web-tools
 pi install npm:pi-web-access
-pi install npm:pi-toolset-permissions
+# pi install npm:pi-toolset-permissions
 pi install npm:pi-bar
 pi install npm:pi-usage-widget
 
