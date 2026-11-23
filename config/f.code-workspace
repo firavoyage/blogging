@@ -102,6 +102,7 @@
     "files.exclude": {
       // deprecated
       // "**/legacy/**": true,
+      // "**/archive/**": true,
       // generated deps
       "**/node_modules/**": true,
       "**/bun.lock": true,
@@ -124,6 +125,7 @@
     },
     "search.exclude": {
       "**/legacy/**": true,
+      "**/archive/**": true,
       "**/node_modules/**": true
       // "**/build/**": true,
       // "**/.build/**": true,
