@@ -1,5 +1,9 @@
 {
   "folders": [
+    // {
+    //   "name": "intuitive",
+    //   "path": "../../f/intuitive"
+    // },
     {
       "name": "blogging",
       "path": ".."
@@ -79,10 +83,6 @@
     // {
     //   "name": "observe",
     //   "path": "../../f/observe"
-    // },
-    // {
-    //   "name": "intuitive",
-    //   "path": "../../f/intuitive"
     // },
     // {
     //   "name": "repo",
