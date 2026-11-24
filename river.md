@@ -31613,3 +31613,9 @@ finally...
 
 ---
 
+google ai mode citation "jumping" was eventually fixed on web.
+
+so as the weird sidebar.
+
+---
+
