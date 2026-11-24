@@ -175,6 +175,8 @@ hyper os <!-- an android tablet rom by mi -->
   - default usb config `file transfer`
   - usb debugging (security settings) `on`
   - disable adb auth timeout `on`
+  - turn on system optimization `off` <!-- turn off floating windows -->
+    - spam tap "reset to default values" first
 
 # `control center` <!-- quick panel -->
 
