@@ -118,6 +118,7 @@
       "**/tsconfig.json": true,
       "**/.prettierrc": true,
       "**/pyproject.toml": true,
+      "**/.clang-format": true,
       "**/.gitignore": true,
       "**/.hidden": true,
       // temp
