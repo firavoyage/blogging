@@ -821,6 +821,8 @@ scaffold(){
   rm -rf node_modules bun.lock
 }
 
+export PI_SKIP_VERSION_CHECK=1
+
 alias p='pi'
 
 # release
